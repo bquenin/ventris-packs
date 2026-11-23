@@ -1,0 +1,81 @@
+[06643.001]
+Ruins of the Surface Army Base
+
+[06643.002]
+Ruins of the Surface Army Base
+
+[06643.004]
+The tree stump that held the {08:31 00 00 00}. It seems to have some strange power.
+
+[06643.006]
+There is a {08:31 00 00 00} on the strange tree stump. Take this {08:31 00 00 00}?
+
+[06643.008]
+{03:00 00 00 00}　Take it　
+　Leave it　
+
+[06643.010]
+Obtained {08:31 00 00 00}.
+
+[06643.011]
+Soldier
+
+[06643.012]
+If you are tired, please rest here.
+
+[06643.014]
+{03:00 00 00 00}　Rest　
+　No, thank you　
+
+[06643.015]
+Supply Unit
+
+[06643.016]
+This is the supply unit.
+
+[06643.017]
+Good luck.
+
+[06643.018]
+Come by anytime.
+
+[06643.019]
+Supply Unit
+
+[06643.020]
+Have a safe journey.
+
+[06643.021]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06643.022]
+Will you stay the night?
+
+[06643.024]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06643.025]
+Please rest well.
+
+[06643.026]
+Good morning.
+
+[06643.027]
+You do not have enough money.
+
+[06643.028]
+We look forward to seeing you again.
+
+[06643.033]
+Obtained {16:25 BA}.
+
+[06643.035]
+Obtained {08:FF FF FF FF}.
+
+[06643.037]
+Found {16:25 C2}, but you can carry no more.
+
+[06643.039]
+There is nothing here.
+

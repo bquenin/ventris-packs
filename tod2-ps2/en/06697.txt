@@ -1,0 +1,74 @@
+[06697.001]
+Egg of God: Middle Level
+
+[06697.002]
+Egg of God: Middle Level
+
+[06697.004]
+A Derris Emblem is drawn on the floor.
+
+[06697.006]
+Something is written on the plate.
+
+[06697.008]
+"The Derris Emblem. It is that which sets right time and space that have been warped."
+
+[06697.010]
+"For those who seek the true form, it appears in every world and every place."
+
+[06697.012]
+It looks as if the {08:2E 00 00 00} would fit into the plate. Fit in the {08:2E 00 00 00} you are carrying?
+
+[06697.014]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06697.016]
+Fitted in the {08:2E 00 00 00}.
+
+[06697.018]
+There is a plate. It looks as if something would fit into it.
+
+[06697.020]
+Door, open! The road of truth...!
+
+[06697.022]
+The treasure chest was a Cheap Trick.
+
+[06697.023]
+Have a safe journey.
+
+[06697.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06697.025]
+Will you stay the night?
+
+[06697.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06697.028]
+Please rest well.
+
+[06697.029]
+Good morning.
+
+[06697.030]
+You do not have enough money.
+
+[06697.031]
+We look forward to seeing you again.
+
+[06697.036]
+Obtained {16:25 CE}.
+
+[06697.038]
+Obtained {08:FF FF FF FF}.
+
+[06697.040]
+Found {16:25 D6}, but you can carry no more.
+
+[06697.042]
+There is nothing here.
+

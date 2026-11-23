@@ -1,0 +1,9 @@
+[01136.001]
+Huh, we got in awfully easily... I'm almost let down. What on earth did you say, {NAME:03 00 00 00}?
+
+[01136.002]
+Oh, I said "the son of the heroes Stahn and Rutee has come to see Woodrow". And they let us straight through.
+
+[01136.003]
+Wo~w. Hehe! So I'm pretty famous♪
+

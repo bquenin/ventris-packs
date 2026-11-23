@@ -1,0 +1,197 @@
+[06816.4072]
+Start the game with these settings.
+{09:25 00 00 00}Start game{09:26 00 00 00}Back
+
+[06816.4136]
+Start game
+
+[06816.4152]
+Lets one more follow-up be cast after
+the follow-up spell to "Crazy Comet".
+
+[06816.4224]
+Chain casting
+
+[06816.4240]
+Start the game with your encounter count
+and highest hit count carried over.
+
+[06816.4304]
+Keep battle records
+
+[06816.4320]
+Start the game with your play time carried over.
+
+[06816.4368]
+Keep play time
+
+[06816.4392]
+Lets you carry up to 30 of each
+kind of consumable item.
+
+[06816.4448]
+30 of each item
+
+[06816.4472]
+Lets you carry up to 20 of each
+kind of consumable item.
+
+[06816.4528]
+20 of each item
+
+[06816.4552]
+Start the game with your world map
+data carried over.
+
+[06816.4608]
+Keep world map
+
+[06816.4632]
+Start the game with your Collector's
+Book data carried over.
+
+[06816.4688]
+Keep Collector's Book
+
+[06816.4712]
+Start the game with your Monster
+Book data carried over.
+
+[06816.4768]
+Keep Monster Book
+
+[06816.4792]
+Start the game with your mastery of
+the basic recipes carried over.
+
+[06816.4840]
+Keep cooking mastery
+
+[06816.4864]
+Start the game keeping your recipes.
+
+[06816.4904]
+Keep recipes
+
+[06816.4920]
+Normal experience gained becomes 1, but
+combo bonus experience is quadrupled.
+
+[06816.5000]
+Combo is life
+
+[06816.5016]
+Experience gained is halved.
+Good for a low-level clear.
+
+[06816.5080]
+Half experience
+
+[06816.5096]
+Experience from enemies is doubled.
+
+[06816.5136]
+2x experience
+
+[06816.5152]
+Start the game keeping the Scout Orb,
+Moon Selector and Magical Pot.
+
+[06816.5232]
+Keep lovely items
+
+[06816.5256]
+Random encounters stop entirely.
+No promise the game can be finished.
+
+
+[06816.5336]
+No encounters
+
+[06816.5360]
+Everyone starts with a max HP of 160.
+For those who like a cold sweat from the start.
+
+[06816.5440]
+Start at max HP 160
+
+[06816.5464]
+Start the game with 500 more max HP for all.
+
+[06816.5512]
+More max HP
+
+[06816.5528]
+Learn each arte's or spell's follow-up
+enchants as soon as you learn it.
+
+[06816.5600]
+Follow-ups at once
+
+[06816.5624]
+Start the game with the slots of your gear
+added to your starting gear.
+
+[06816.5688]
+Keep slots
+
+[06816.5704]
+Start the game keeping your enchants,
+follow-ups aside.
+
+[06816.5768]
+Keep enchants
+
+[06816.5792]
+Start the game keeping your spells.
+
+[06816.5832]
+Keep spells
+
+[06816.5848]
+Start the game keeping your artes.
+
+[06816.5888]
+Keep artes
+
+[06816.5904]
+Start the game keeping the use counts
+of your artes and spells.
+
+[06816.5960]
+Keep use counts
+
+[06816.5976]
+Start the game keeping your titles and
+the difficulty levels open to you.
+
+[06816.6032]
+Keep modes & titles
+
+[06816.6056]
+Leftover GRADE is carried forward.
+You might spend nothing this time
+and use it at the start of your next game.
+
+[06816.6160]
+With the battle score (GRADE) from finishing the
+game, you can start a game on various terms.
+
+[06816.6248]
+Congratulations on finishing the game!
+
+[06816.6576]
+GRADE SHOP
+
+[06816.6600]
+{09:35 00 00 00}Buy/Undo
+{09:36 00 00 00}Done
+{09:37 00 00 00}Details
+{09:38 00 00 00}Reset
+
+[06816.6656]
+GRADE  
+
+[06816.6680]
+        Buy  
+

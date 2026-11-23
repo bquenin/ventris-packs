@@ -1,0 +1,12 @@
+[00268.001]
+Um, {NAME:01 00 00 00}... were you all right?
+
+[00268.002]
+Huh? Oh, hahaha! It's not your fault, {NAME:02 00 00 00}!
+
+[00268.003]
+But...
+
+[00268.004]
+Talk later, let's hurry. This looks serious.
+

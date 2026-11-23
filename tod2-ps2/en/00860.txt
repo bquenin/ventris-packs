@@ -1,0 +1,21 @@
+[00860.001]
+Hey, isn't there some way to "beat Elraine without killing {NAME:02 00 00 00}"...?
+
+[00860.002]
+Would it not be quicker to ask {NAME:02 00 00 00}?
+
+[00860.003]
+Dummy! How could we ask a thing like that!!
+
+[00860.004]
+Why can you not ask? Because you do not want to hear from her own lips that there is no such way?
+
+[00860.005]
+W... well, yeah...
+
+[00860.006]
+I understand not wanting to accept what is real... But unless you accept it, you cannot go forward.
+
+[00860.007]
+......Damn! What on earth do I do!!
+

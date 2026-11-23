@@ -1,0 +1,83 @@
+[19.000]
+Belladam Village
+
+[19.001]
+"What sort of man is Dhaos, I wonder? Rumour has it he leads a very powerful army..."
+
+[19.002]
+"Fine weather, isn't it?
+Peace really is the best thing there is!"
+
+[19.003]
+"Monsters don't scare me! I'll beat them myself!!"
+
+[19.004]
+"I can use a little magic too, you know, but lately I feel as if my power is fading.{PAGE}
+Why would that be?"
+
+[19.005]
+{クレス}
+"To think this bridge was that bridge in Toltus..."
+
+[19.006]
+Villager
+"Hey, who's that? Strangers."{PAGE}
+"So they are."{PAGE}
+"Young ones, too."
+
+[19.007]
+{クレス}
+"Um, excuse me.
+Where is this...?"
+
+[19.008]
+{クレス}
+"Um{SPEED:10}...{SPEED:FF}"{PAGE}
+???
+"Visitors? Now that is rare. I am the chief of this village.{PAGE}
+And where have you come from?"{PAGE}
+{ミント}
+"{SPEED:10}Oh, um... well...{SPEED:FF}"{PAGE}
+{クレス}
+"My name is {クレス}, from the village of Toltus. This is {ミント}."
+
+[19.009]
+{クレス}
+"By the power of a certain person's healing arts, we found ourselves in the meadow nearby."{PAGE}
+Chief
+"{SPEED:10}...{SPEED:FF}Toltus?{SPEED:10}...{SPEED:FF}
+Never heard of it."{PAGE}
+
+
+[19.010]
+Does anyone here know of it?
+
+[19.011]
+{クレス}
+"What?"
+
+[19.012]
+Chief
+"Hmmm{SPEED:10}...{SPEED:FF}"{PAGE}
+"You don't look as if you are lying. But I know of no power called healing arts. Do you mean magic?"
+
+[19.013]
+{クレス}
+"{SPEED:10}Ma-gic{SPEED:FF}? Huh?
+What is that?"{PAGE}
+
+
+[19.014]
+Chief
+"There is a story behind this, I can see.
+Won't you come to my house? Let us talk inside."
+
+[19.015]
+Chief
+"This way. Follow me."
+
+[19.016]
+Villager
+"Hey, this looks interesting."{PAGE}
+"Let's go and see."
+

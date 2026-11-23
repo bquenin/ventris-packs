@@ -1,0 +1,46 @@
+[06543.001]
+The Wild Forest
+
+[06543.002]
+The Wild Forest
+
+[06543.004]
+Withered grass blocks the way.
+
+[06543.005]
+Have a safe journey.
+
+[06543.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06543.007]
+Will you stay the night?
+
+[06543.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06543.010]
+Please rest well.
+
+[06543.011]
+Good morning.
+
+[06543.012]
+You do not have enough money.
+
+[06543.013]
+We look forward to seeing you again.
+
+[06543.018]
+Obtained {16:25 BA}.
+
+[06543.020]
+Obtained {08:FF FF FF FF}.
+
+[06543.022]
+Found {16:25 C2}, but you can carry no more.
+
+[06543.024]
+There is nothing here.
+

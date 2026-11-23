@@ -1,0 +1,348 @@
+[35.000]
+City of Venezia
+
+[35.001]
+Port of Venezia
+
+[35.002]
+Captain
+"As long as you pay, I'll take you anywhere, so keep me in mind!"
+
+[35.003]
+Port of Venezia
+
+[35.004]
+　　　　　~Ferry~
+Press the cancel button to speed up, if you like!
+
+[35.005]
+A notice reads: "Sailings are suspended because of the rise in monsters. We ask for your understanding. - Venezia Shipping Board"
+
+[35.006]
+"In the land of Euclid almost everyone worships Yggdrasil as a god.{PAGE}
+They say Yggdrasil, the spirit of the earth, protects the world."
+
+[35.007]
+"It's a big port town, isn't it?{PAGE}
+All sorts of people, and all sorts of meetings: that's the kind of town it is."
+
+[35.008]
+"I wish I could use magic too. I can't, since I'm not an elf{SPEED:10}...{SPEED:FF}"
+
+[35.009]
+"They say there's a settlement of elves somewhere. I wonder where?"
+
+[35.010]
+"There used to be a lot of elves in this town too, long ago."
+
+[35.011]
+"Lovely weather."
+
+[35.012]
+"Ahh, the sea.{PAGE}
+It gives you, how shall I put it, a feeling of romance."
+
+[35.013]
+"There's been nothing at all to do lately."
+
+[35.014]
+Sailor
+"This is the regular ship to Alvanista.{PAGE}
+When does it sail? Ask the captain."
+
+[35.015]
+Sailor
+"With things so dangerous lately, hardly anyone asks us to carry cargo any more. Honestly..."
+
+[35.016]
+Sailor
+"Ah, this is the regular ship to Midgards...{PAGE}
+or it was, but with the war we can't get in. There's no work and we're in a fix."
+
+[35.017]
+Sailor
+"Is there somewhere you want to go?{PAGE}
+Ask the captain and he'll probably sort something out. He's got time on his hands."
+
+[35.018]
+Nancy
+"Will he really come...?"{PAGE}
+{クレス}
+"He'll come, I tell you!{PAGE}
+Look, here he is."
+
+[35.019]
+Elwin
+"Are you{SPEED:10}...{SPEED:FF} Nancy?"{PAGE}
+Nancy
+"Yes{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Come, let's leave them."{PAGE}
+{クレス}
+"Yes, let's."
+
+[35.020]
+Nancy
+"Um{SPEED:10},{SPEED:FF} well{SPEED:10}...{SPEED:FF}"
+
+[35.021]
+Nancy
+"What should I do...?"
+
+[35.022]
+Elwin
+"Thank you. If she is as lovely as this, I should have met her much sooner."
+
+[35.023]
+Elwin
+"What on earth am I to do...?"{PAGE}
+{COLOR:03}Encourage Elwin?{COLOR:02}
+
+[35.024]
+{クレス}
+"Elwin, cheer up."{PAGE}
+Elwin
+"But my father is never going to allow it..."{PAGE}
+{クラース}
+"Well, eloping might be the best thing."{PAGE}
+{ミント}
+"{クラース}!
+What a thing to say...!"{PAGE}
+Elwin
+"No, he may be right."{PAGE}
+{ミント}
+"But..."
+
+[35.025]
+{クラース}
+"Well, I expect he will manage well enough."{PAGE}
+{クレス}
+"Is that how it goes?"{PAGE}
+{クラース}
+"That is how it is between men and women. You'll understand when you are a little older."
+
+[35.026]
+"Mummy!"
+
+[35.027]
+"Something has to be done about Dhaos soon..."
+
+[35.028]
+"The regular ship to Alvanista can't sail. The Venezia Shipping Board has stopped every ship from working. It's a real nuisance."
+
+[35.029]
+"The cleaning has to be done, at least..."
+
+[35.030]
+"They say that somewhere in this world there's a continent covered in darkness. Is that Dhaos's doing too?"
+
+[35.031]
+"Oh, how beautiful I am. Every time I see myself in the water I fall in love all over again..."{PAGE}
+{クレス}
+(Quite the narcissist...)
+
+[35.032]
+"It's only a rumour, but they say there's a hidden village in a forest somewhere. I wonder what sort of people live there?"
+
+[35.033]
+"I hear swordsmen and magic users train near Alvanista and the mirror lake of Ymir."
+
+[35.034]
+"I skipped school. All you good children mustn't copy me."
+
+[35.035]
+"Ahh, I'm bored..."
+
+[35.036]
+Captain
+"What? Do you want something? If not, get off my ship!"
+
+[35.037]
+Captain
+"What? Do you want something? If not, get out!"{PAGE}
+{クレス}
+"We'd like you to take us somewhere in this ship..."{PAGE}
+Captain
+"Oh, customers... Beg your pardon."
+
+[35.038]
+Captain
+"Oh, it's you lot..."
+
+[35.039]
+{PAGE}
+So, where to?
+　1. The island where Demitel lives
+　2. The lone island in the northern sea
+
+
+[35.040]
+　3. The place at sea above Thor
+
+[35.041]
+{PAGE}
+{クラース}
+"To the lone island in the west, please."{PAGE}
+Captain
+"The lone island in the west? The one where that Demitel is rumoured to live?"{PAGE}
+
+
+[35.042]
+The fare, one way,
+
+[35.043]
+The fare, there and back,
+
+[35.044]
+with food and insurance, is {NUM:816F} Gald each,
+{NUM:8171} Gald for all of you.
+Will you go?
+
+[35.045]
+If you haven't the money, there's nothing to be done.
+
+[35.046]
+{クラース}
+"Hold on, we haven't restored Yggdrasil yet."
+
+[35.047]
+{ミント}
+"{クレス}, we must take {アーチェ} with us too..."
+
+[35.048]
+Then we sail!
+
+[35.049]
+Come back any time.
+I've nothing else to do anyway.
+
+[35.050]
+"No ships are sailing.{PAGE}
+I'd like to see the face of anyone who'd put to sea at a time like this."
+
+[35.051]
+Captain
+"Ah, it's you. This is the ship to Alvanista."{PAGE}
+
+
+[35.052]
+{クレス}
+"Captain, when does the ship sail?"{PAGE}
+Captain
+"You may well ask. It would be no surprise if Alvanista itself were attacked by Dhaos any day. I can't go anywhere as dangerous as that.{PAGE}
+Ahh, what am I to do...?"
+
+[35.053]
+{クレス}
+"{アーチェ}?"{PAGE}
+{アーチェ}
+"Say, Captain♥ Won't you grant {アーチェ} one little wish? If you do, I'll be ve{SPEED:10}-{SPEED:FF}ry ni{SPEED:10}-{SPEED:FF}ce to you later♥"{PAGE}
+Captain
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[35.054]
+Haven't I heard that line before? Well, with you lot aboard, a bit of danger shouldn't matter."{PAGE}
+
+
+[35.055]
+That doesn't mean much, coming from a child."{PAGE}
+{アーチェ}
+"Oh, that's so mean!!"{PAGE}
+{クラース}
+"Captain, we will pay. Take us to Alvanista!"{PAGE}
+Captain
+"{SPEED:10}...{SPEED:FF}All right."{PAGE}
+
+
+[35.056]
+The fare, with passage, food and insurance, is {NUM:816F} Gald each,
+{NUM:8171} Gald for all of you.
+Will you go?
+
+[35.057]
+If you haven't the money, there's nothing to be done.
+
+[35.058]
+Then we saaail.
+
+[35.059]
+Well then.
+
+[35.060]
+Harrison
+"So you have come. But there is a difficulty. I am told the ship cannot sail."{PAGE}
+Captain
+"Sorry. Dhaos is spreading his power over the sea as well. It's far too dangerous."{PAGE}
+{クレス}
+"But at this rate..."{PAGE}
+Harrison
+"{SPEED:10}...{SPEED:FF}There is nothing for it. Shall we try that place?"{PAGE}
+{クラース}
+"Is there some other way?"{PAGE}
+Harrison
+"Did you not pass through Euclid on your way? I should not say it too loudly, but there is a state magitech laboratory there."{PAGE}
+{クレス}
+"A magitech laboratory..."{PAGE}
+Harrison
+"If the sea is closed to us, then the sky."{PAGE}
+{アーチェ}
+"The sky? You mean we fly there!?"{PAGE}
+Harrison
+"Let us talk of the details at the laboratory."
+
+[35.061]
+"Some decades ago there was a pirate who made all the seas of the world his own. His name was Aifread. He was by no means a bad man, but he was a mystery, and nobody knew what he was thinking."
+
+[35.062]
+"The pirate Aifread was beaten in battle by the war fleet of Midgards. And Aifread, their chief, was put to death, so they say. May he rest in peace."
+
+[35.063]
+"Welcome! The fare is 50 Gald
+
+[35.064]
+, but you've a tab with me, so with that it comes to {NUM:8273} Gald.{PAGE}
+Where to?"
+
+
+[35.065]
+.{PAGE}
+Where to?"
+
+
+[35.066]
+{COLOR:03}　1. Weapons　　2. Armour
+　3. Mayor's　　4. South side{COLOR:02}
+
+[35.067]
+{COLOR:03}　1. North side　2. Armour
+　3. Mayor's　　4. South side{COLOR:02}
+
+[35.068]
+{COLOR:03}　1. North side　2. Weapons
+　3. Mayor's　　4. South side{COLOR:02}
+
+[35.069]
+{COLOR:03}　1. North side　2. Weapons
+　3. Armour　　　4. South side{COLOR:02}
+
+[35.070]
+{COLOR:03}　1. North side　2. Weapons
+　3. Armour　　　4. Mayor's{COLOR:02}
+
+[35.071]
+"You haven't enough money. If you're only here to look, do it somewhere else
+
+[35.072]
+.{PAGE}
+Not that you can leave here except by boat. I'll put it on your tab. Get in."
+
+[35.073]
+"Thanks a lot!"
+
+[35.074]
+"Thanks a lot!"
+
+[35.075]
+"Take your time! And think of me for the way back!"
+

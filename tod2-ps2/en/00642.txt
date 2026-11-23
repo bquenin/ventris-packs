@@ -1,0 +1,15 @@
+[00642.001]
+Hey, {NAME:06 00 00 00}. You're a genius scientist, right? Then make me the most popular man in the world. So girls everywhere go "{NAME:03 00 00 00}, so dreamy~~★ Eeek~~★". You can do it, right? Eh? Eh? Eh?
+
+[00642.002]
+Oh, nothing easier.
+
+[00642.003]
+All ri~ght! Then go right ahead, {NAME:06 00 00 00}!
+
+[00642.004]
+First we'd have to start by swapping the brain. Then a full rebuild of the parts of the face... No, quicker to swap everything from the neck up... Oh, come to think of it, I still have spare parts for the HRX-2.
+
+[00642.005]
+No, stop... My fault...
+

@@ -1,0 +1,77 @@
+[06356.001]
+Harmentz Valley
+
+[06356.002]
+Harmentz Valley
+
+[06356.004]
+This is Harmentz Valley.
+
+[06356.005]
+A rockslide!
+
+[06356.006]
+You're reeling!
+
+[06356.008]
+{03:00 00 00 00}{09:25 00 00 00} button: jump
+{09:26 00 00 00} button: cancel
+
+[06356.009]
+A gust of wind!
+
+[06356.010]
+A sheer cliff! You can't climb it "on your own"!
+
+[06356.011]
+No wind, so down you go!
+
+[06356.012]
+A great leap on the wind!
+
+[06356.013]
+You're reeling!
+
+[06356.015]
+It seems to be just a rock. Nothing about it looks unusual.
+
+[06356.017]
+The Sorcerer's Scope revealed a hollow behind the rock.
+
+[06356.018]
+Have a safe journey.
+
+[06356.019]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06356.020]
+Will you stay the night?
+
+[06356.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06356.023]
+Please rest well.
+
+[06356.024]
+Good morning.
+
+[06356.025]
+You do not have enough money.
+
+[06356.026]
+We look forward to seeing you again.
+
+[06356.031]
+Obtained {16:25 FA}.
+
+[06356.033]
+Obtained {08:FF FF FF FF}.
+
+[06356.035]
+Found {16:26 02}, but you can carry no more.
+
+[06356.037]
+There is nothing here.
+

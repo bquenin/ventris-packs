@@ -1,0 +1,18 @@
+[00344.001]
+The world ten years on............ Hey, {NAME:05 00 00 00}? Heard any talk of a hero called {NAME:01 00 00 00}?
+
+[00344.002]
+Mm~......... nope.
+
+[00344.003]
+Oh no... What are you doing, me of ten years on! No, wait... maybe I changed my name when I became a hero...... That must be it... Yes, that's got to be it!!
+
+[00344.004]
+What's this...? He seems to have gone off into a world of his own...
+
+[00344.005]
+I-it's all right. It's... sort of like a little illness...
+
+[00344.006]
+..."Stahn Junior"? Bit lame. "General Dunamis"... hmm, not quite. Or "King Dunamis", lord of a whole country by now... No, but then maybe...
+

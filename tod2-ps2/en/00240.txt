@@ -1,0 +1,9 @@
+[00240.001]
+Hey, {NAME:01 00 00 00}. Are you going to take him up on that? ......There's something fishy about that old guy.
+
+[00240.002]
+You think? It's fine. After all, he's sharp enough to see my hidden talent!
+
+[00240.003]
+Sigh...... That baseless confidence...
+

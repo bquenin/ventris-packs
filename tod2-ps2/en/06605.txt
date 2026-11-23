@@ -1,0 +1,250 @@
+[06605.001]
+Dycroft
+
+[06605.002]
+Dycroft
+
+[06605.003]
+Dymlos
+
+[06605.004]
+Here they come...! It seems the enemy, too, is fully prepared.
+
+[06605.005]
+Karell
+
+[06605.006]
+Then let us put the new weapons into battle at once!
+
+[06605.007]
+Dymlos
+
+[06605.008]
+Fearful Flare!
+
+[06605.009]
+Igtenos
+
+[06605.010]
+Cyclone!
+
+[06605.011]
+Chaltier
+
+[06605.012]
+Press!
+
+[06605.013]
+Atwight
+
+[06605.014]
+Clemente!
+
+[06605.015]
+Atwight
+
+[06605.016]
+First Aid!
+
+[06605.017]
+Clemente
+
+[06605.018]
+Do not think little of me because I am an old soldier!
+
+[06605.019]
+Clemente
+
+[06605.020]
+Meteor Swarm!
+
+[06605.021]
+Karell
+
+[06605.022]
+Then I, too...
+
+[06605.023]
+Karell
+
+[06605.024]
+Black Hole!
+
+[06605.026]
+That's the Swordians for you. All those monsters, in an instant...!
+
+[06605.027]
+Dymlos
+
+[06605.028]
+Good, the way is open. On we go, everyone!
+
+[06605.029]
+Dymlos
+
+[06605.030]
+Here we part, {NAME:01 00 00 00}.
+
+[06605.032]
+Huh!?
+
+[06605.033]
+Dymlos
+
+[06605.034]
+The rest is our work. History should be made by the hands of the people of its own age... Is that not so?
+
+[06605.036]
+Dymlos, don't tell me you know about us...!
+
+[06605.037]
+Dymlos
+
+[06605.038]
+If we can make the future you live in, then we are not doing so badly, are we?
+
+[06605.040]
+Dymlos...
+
+[06605.041]
+Dymlos
+
+[06605.042]
+You go your own road. Only you can turn the flow of history back to what it was.
+
+[06605.044]
+Yes!
+
+[06605.045]
+Dymlos
+
+[06605.046]
+Do your best, {NAME:01 00 00 00}!
+
+[06605.048]
+Well, let's get going too.
+
+[06605.050]
+If Barbatos gets in the way at the very last, all our trouble so far is for nothing.
+
+[06605.052]
+That's it! So then, let's go!
+
+[06605.054]
+Wait, {NAME:06 00 00 00}!
+
+[06605.056]
+{NAME:06 00 00 00}, go after Dymlos and the others. There's still time, if you go now!
+
+[06605.058]
+{NAME:01 00 00 00}!
+
+[06605.060]
+I know! I know, but...
+
+[06605.062]
+It's no good after all! Just keeping quiet like this, I...!
+
+[06605.064]
+........
+
+[06605.066]
+{NAME:06 00 00 00}!
+
+[06605.068]
+You're a fool.
+
+[06605.070]
+What you people are after is setting history right, isn't it? Then you mustn't go turning history upside down.
+
+[06605.072]
+But {NAME:06 00 00 00}, you're sure to grieve! Is that all right with you!?
+
+[06605.074]
+You're telling me to change history? To dodge an outcome I don't like?
+
+[06605.076]
+You're jo~king! Do that and I'm on the same level as that god of yours.
+
+[06605.078]
+{NAME:06 00 00 00}...
+
+[06605.080]
+I don't want to know the future, and even if I did know, I wouldn't act any differently. I just do what has to be done now.
+
+[06605.082]
+That's how people have made history, feeling their way.
+
+[06605.084]
+I haven't the least wish to be the only one who cheats. Understood?
+
+[06605.086]
+........ ...Understood.
+
+[06605.088]
+Very good! Then once again, let's...
+
+[06605.090]
+Wh-what!?
+
+[06605.092]
+That's Belcrant firing. Just as expected. Honestly, no imagination at all.
+
+[06605.094]
+Surely not an attack on all alike by Belcrant!?
+
+[06605.096]
+We've got to hurry...! Everyone, to the control room!
+
+[06605.097]
+Cyclone!
+
+[06605.098]
+Press!
+
+[06605.099]
+Meteor Swarm!
+
+[06605.100]
+Black Hole!
+
+[06605.101]
+Fearful Flare!
+
+[06605.102]
+Have a safe journey.
+
+[06605.103]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06605.104]
+Will you stay the night?
+
+[06605.106]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06605.107]
+Please rest well.
+
+[06605.108]
+Good morning.
+
+[06605.109]
+You do not have enough money.
+
+[06605.110]
+We look forward to seeing you again.
+
+[06605.115]
+Obtained {16:26 4A}.
+
+[06605.117]
+Obtained {08:FF FF FF FF}.
+
+[06605.119]
+Found {16:26 52}, but you can carry no more.
+
+[06605.121]
+There is nothing here.
+

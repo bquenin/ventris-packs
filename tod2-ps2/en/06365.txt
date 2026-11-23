@@ -1,0 +1,166 @@
+[06365.001]
+Aigrette: Inn
+
+[06365.002]
+Aigrette
+
+[06365.003]
+Old Man
+
+[06365.004]
+I suffered from a bad back for the longest time. Oh, it ached constantly.
+
+[06365.005]
+Old Man
+
+[06365.006]
+But Lady Elraine's miracle saved me from my ailment. I am truly grateful.
+
+[06365.007]
+Old Man
+
+[06365.008]
+Ever since she healed my back, I've been donating Lenses to the Order in gratitude.
+
+[06365.009]
+Old Man
+
+[06365.010]
+It makes life harder, but well, this too is proof of my faith.
+
+[06365.011]
+Old Man
+
+[06365.012]
+For some ten years now, I've donated Lenses to the Order every month.
+
+[06365.013]
+Old Man
+
+[06365.014]
+The priests tell me I needn't strain myself to offer Lenses, but I'd feel bad not to.
+
+[06365.016]
+And the result was that all the Lenses got concentrated in one place, I see.
+
+[06365.017]
+Old Man
+
+[06365.018]
+Donating Lenses is the proof of my faith!
+
+[06365.019]
+Old Man
+
+[06365.020]
+Ow ow ow... My chronic backache...
+
+[06365.022]
+Are you all right, gramps?
+
+[06365.023]
+Old Man
+
+[06365.024]
+But when my back troubles me, Lady Philia comes to visit. I do look forward to that...
+
+[06365.025]
+Old Man
+
+[06365.026]
+Lady Philia sometimes visits me when my back troubles me. She is the real goddess.
+
+[06365.027]
+Woman
+
+[06365.028]
+I'm off to the Great Temple now to donate Lenses.
+
+[06365.029]
+Woman
+
+[06365.030]
+I have no family, so the Order is everything to me. I mean to devote the rest of my life to it.
+
+[06365.031]
+Woman
+
+[06365.032]
+I have no family, so the Order is everything to me. I mean to devote the rest of my life to it.
+
+[06365.033]
+Woman
+
+[06365.034]
+I lost my home in the upheaval eighteen years ago and came to this city.
+
+[06365.035]
+Woman
+
+[06365.036]
+I had nowhere to go, and the people of Straylize Temple took me in gladly.
+
+[06365.037]
+Woman
+
+[06365.038]
+Here, Atamoni watches over us always. Life is hard, but I'm happy.
+
+[06365.040]
+Oh? There's a Gel fallen in the hot water.
+
+[06365.042]
+Obtained {08:03 00 00 00}.
+
+[06365.044]
+It's melted to mush... Well, it's not exactly inedible...
+
+[06365.046]
+Soaking in the bath with your clothes on feels great...
+
+[06365.048]
+A sofa that looks comfortable to sit on.
+
+[06365.049]
+Now that's a luxury hotel! What a clean toilet!
+
+[06365.051]
+Would I get in trouble if I took the toilet paper from the shelf...?
+
+[06365.053]
+Have a safe journey.
+
+[06365.054]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06365.055]
+Will you stay the night?
+
+[06365.057]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06365.058]
+Please rest well.
+
+[06365.059]
+Good morning.
+
+[06365.060]
+You do not have enough money.
+
+[06365.061]
+We look forward to seeing you again.
+
+[06365.066]
+Obtained {16:25 BA}.
+
+[06365.068]
+Obtained {08:FF FF FF FF}.
+
+[06365.070]
+Found {16:25 C2}, but you can carry no more.
+
+[06365.072]
+There is nothing here.
+

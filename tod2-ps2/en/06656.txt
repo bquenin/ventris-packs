@@ -1,0 +1,72 @@
+[06656.001]
+Egg of God: Upper Level
+
+[06656.002]
+Egg of God: Upper Level
+
+[06656.003]
+{09:37 00 00 00}: Start over
+
+[06656.004]
+Your body has shrunk.
+
+[06656.005]
+Your body has grown.
+
+[06656.008]
+Your body is too small to jump across.
+
+[06656.010]
+{03:00 00 00 00}Start over?
+
+[06656.012]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06656.014]
+Jump down?
+
+[06656.016]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06656.017]
+Ouch...
+
+[06656.018]
+Have a safe journey.
+
+[06656.019]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06656.020]
+Will you stay the night?
+
+[06656.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06656.023]
+Please rest well.
+
+[06656.024]
+Good morning.
+
+[06656.025]
+You do not have enough money.
+
+[06656.026]
+We look forward to seeing you again.
+
+[06656.031]
+Obtained {16:26 1E}.
+
+[06656.033]
+Obtained {08:FF FF FF FF}.
+
+[06656.035]
+Found {16:26 26}, but you can carry no more.
+
+[06656.037]
+There is nothing here.
+

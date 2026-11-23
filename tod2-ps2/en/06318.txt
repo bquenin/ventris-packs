@@ -1,0 +1,557 @@
+[06318.001]
+Dunamis Orphanage
+
+[06318.002]
+Dunamis Orphanage
+
+[06318.003]
+Dunamis Orphanage
+
+[06318.005]
+Baaa~
+
+[06318.007]
+Bu-kawk! Cluck cluck!
+
+[06318.009]
+It's been a while since I came by, but...
+
+[06318.011]
+...It's as run-down as ever.
+
+[06318.013]
+It's not "as ever", {NAME:03 00 00 00}.
+
+[06318.015]
+The roof leaks in three more places, and the other day a floorboard gave way.
+
+[06318.017]
+...Ahh. If only that rumor were true. Then we could fix this place up in a snap.
+
+[06318.019]
+That rumor?
+
+[06318.021]
+You know the Laguna Ruins near here? They say a huge Lens has been found at the very top.
+
+[06318.023]
+Word's reached the Order too, and a survey team has already come as far as Darilsheid. I'm their escort.
+
+[06318.025]
+But what's that got to do with the orphanage?
+
+[06318.027]
+Heheh... Listen and be amazed. They say that Lens is worth... well over three million Gald.
+
+[06318.029]
+Th-three million Gald!?
+
+[06318.031]
+Anyway, with that we could rebuild this orphanage. And Rutee could take it easy, see.
+
+[06318.033]
+All right, let's go, {NAME:03 00 00 00}!
+
+[06318.035]
+Go... Hey, you're not thinking of going to the ruins, are you!?
+
+[06318.037]
+Yeah!
+
+[06318.039]
+Look... This is only a rumor. A ru-mor!
+
+[06318.041]
+And even if by some chance it's true, take that thing and you'll have the Order of Atamoni after you!
+
+[06318.043]
+But you're planning to look for it, aren't you, {NAME:03 00 00 00}? That's why you took the escort job, right?
+
+[06318.045]
+Urk!
+
+[06318.047]
+And knowing you, {NAME:03 00 00 00}...
+
+[06318.049]
+"I can't cause trouble for {NAME:01 00 00 00} and Rutee."
+
+[06318.051]
+...you said something like that, and meant to look for it on your own, didn't you?
+
+[06318.053]
+Urgh!
+
+[06318.055]
+Now who's being a stranger! This is you and me we're talking about, {NAME:03 00 00 00}!
+
+[06318.057]
+...Good grief. Me and my big mouth, all right...
+
+[06318.059]
+All right, {NAME:01 00 00 00}. I'll take you.
+
+[06318.061]
+That's more like it!
+
+[06318.063]
+But! Only if Rutee gives her permission.
+
+[06318.065]
+I know, I know! Then I'd better talk to Mom right away. Come on, {NAME:03 00 00 00}!
+
+[06318.067]
+{NAME:01 00 00 00} and {NAME:03 00 00 00} earned the title "{08:07 08 00 00}".
+
+[06318.068]
+?????
+
+[06318.069]
+Stahn and Rutee, I take it. Of the Four Heroes who saved the world from the last calamity...
+
+[06318.070]
+Stahn
+
+[06318.071]
+What are you after? Money? Lenses?
+
+[06318.072]
+?????
+
+[06318.073]
+Your lives...!
+
+[06318.074]
+Rutee
+
+[06318.075]
+{NAME:01 00 00 00}, {NAME:03 00 00 00}! Both of you, ruuun!!
+
+[06318.077]
+{NAME:01 00 00 00}...? It is you, {NAME:01 00 00 00}!
+
+[06318.079]
+...Who are you, miss?
+
+[06318.081]
+I see... You've sealed your memories away.
+
+[06318.083]
+Forgetting what hurts, and living on in a happy dream world...
+
+[06318.085]
+Memories? Sealed? What do you mean?
+
+[06318.087]
+This may well be happiness. But...!
+
+[06318.089]
+Please, {NAME:01 00 00 00}. Wake up!
+
+[06318.091]
+M-miss, that hurts...
+
+[06318.093]
+Is this the world you wished for!? Is this happiness!? It isn't, is it, {NAME:01 00 00 00}!
+
+[06318.095]
+Remember! Everyone! Our journey!
+
+[06318.097]
+Re... member? Journey...
+
+[06318.099]
+Ugh!
+
+[06318.101]
+It hurts! My head hurts, miss!
+
+[06318.103]
+I know it's hard. I know you don't want to remember!
+
+[06318.105]
+But... there's only you! The only one I can turn to... my hero is you and no one else!
+
+[06318.107]
+So... please, {NAME:01 00 00 00}. Wake up!
+
+[06318.109]
+He... ro...
+
+[06318.111]
+...That's right, I'm...!
+
+[06318.113]
+{NAME:01 00 00 00}...
+
+[06318.115]
+...This... is a dream, isn't it...
+
+[06318.117]
+It's so warm, and so comfortable, but...
+
+[06318.119]
+All of this... is a dream...
+
+[06318.121]
+{NAME:03 00 00 00}...
+
+[06318.123]
+...{NAME:01 00 00 00}. So it was a dream after all.
+
+[06318.125]
+Yeah...
+
+[06318.127]
+It was a good dream, wasn't it. Stahn was there, Rutee was there, I was there, and you were there...
+
+[06318.129]
+{NAME:03 00 00 00}...
+
+[06318.131]
+But a dream's a dream. There's no meaning in a thing like that. We're living in the here and now.
+
+[06318.133]
+...Yeah!
+
+[06318.134]
+???
+
+[06318.135]
+S-stay back! I-I'm not scared of you!
+
+[06318.137]
+That's... us!?
+
+[06318.139]
+And Barbatos...!?
+
+[06318.141]
+Then that means this is...!
+
+[06318.142]
+Barbatos
+
+[06318.143]
+I have no business with you brats. Call Stahn and Rutee. They should be here.
+
+[06318.145]
+Like I'd tell you! Get out of our house, now!
+
+[06318.146]
+Barbatos
+
+[06318.147]
+Do you want to die, boy!
+
+[06318.149]
+Run, {NAME:01 00 00 00}!
+
+[06318.150]
+Stahn
+
+[06318.151]
+{NAME:03 00 00 00}!
+
+[06318.153]
+Stahn...! Don't come! Run!
+
+[06318.155]
+...It's no use. These are your memories. Our voices... won't reach them.
+
+[06318.157]
+Dad...
+
+[06318.158]
+Barbatos
+
+[06318.159]
+So you are Stahn? If you value this one's life, throw down your weapon this instant!
+
+[06318.160]
+Rutee
+
+[06318.161]
+I'll be your hostage in his place! So let that child go!
+
+[06318.162]
+Stahn
+
+[06318.163]
+What are you after? Money? Lenses?
+
+[06318.164]
+Barbatos
+
+[06318.165]
+Your lives...!
+
+[06318.166]
+Stahn
+
+[06318.167]
+Gwaaaagh!!
+
+[06318.169]
+D-Dad!
+
+[06318.170]
+Rutee
+
+[06318.171]
+{NAME:03 00 00 00}! Take {NAME:01 00 00 00} and run!
+
+[06318.172]
+Barbatos
+
+[06318.173]
+Die!!
+
+[06318.175]
+Mom!!
+
+[06318.176]
+Barbatos
+
+[06318.177]
+So this is the hero who shattered the Eye of God? Hah, far too fragile...
+
+[06318.179]
+D... ad...?
+
+[06318.181]
+Ugh... Dad...? Daaaad!!
+
+[06318.183]
+...If I hadn't let him catch me, Stahn wouldn't have died.
+
+[06318.185]
+Yes, Stahn... I as good as killed him.
+
+[06318.187]
+{NAME:03 00 00 00}...
+
+[06318.189]
+And I hid it all this time. Better he doesn't know, it's for {NAME:01 00 00 00}'s own good, I told myself...
+
+[06318.191]
+Acting the best friend like that, I was only putting my own mind at ease!
+
+[06318.193]
+...I'm sorry, {NAME:01 00 00 00}! I... I...!
+
+[06318.195]
+...Thank you.
+
+[06318.197]
+Huh!?
+
+[06318.199]
+You risked your life to protect me. If it weren't for you, {NAME:03 00 00 00}, I wouldn't be alive.
+
+[06318.201]
+{NAME:01 00 00 00}...
+
+[06318.203]
+And about Dad, too. You and Mom decided that together, didn't you, {NAME:03 00 00 00}?
+
+[06318.205]
+So that I wouldn't be hurt. So that I wouldn't be sad.
+
+[06318.207]
+In that case, it's still "thank you".
+
+[06318.209]
+{NAME:01 00 00 00}...!
+
+[06318.211]
+Dad... isn't alive... It's a little... really, just a little lonely, but...
+
+[06318.213]
+...But you know, I've got... ...you, {NAME:03 00 00 00}! ...So I'm okay!
+
+[06318.215]
+...Yeah. Yeah!
+
+[06318.217]
+Don't you worry, {NAME:01 00 00 00}. I'll protect you!
+
+[06318.219]
+I'll protect you for Stahn too!
+
+[06318.221]
+...Yeah!
+
+[06318.223]
+All done, {NAME:01 00 00 00}?
+
+[06318.225]
+Yeah, sorry to keep you waiting.
+
+[06318.227]
+That's fine, but listen, can I borrow the back yard here for a bit?
+
+[06318.229]
+She says she's going to remodel the Ixifosler. Whatever we do from here, we'd better at least have everything ready.
+
+[06318.231]
+You know the saying: be prepared, and fire all the rocket launchers you want.
+
+[06318.233]
+It'll take a little while to finish the remodel, so, well, go and kill some time.
+
+[06318.235]
+Say, {NAME:01 00 00 00}. There's somewhere I'd like you to come with me.
+
+[06318.237]
+Huh? Wh-where?
+
+[06318.239]
+The Laguna Ruins!
+
+[06318.241]
+I want to go there. To the place where I first met you, {NAME:01 00 00 00}.
+
+[06318.243]
+................
+
+[06318.245]
+Go on, {NAME:01 00 00 00}. I'll let you know when the Ixifosler's done.
+
+[06318.247]
+...All right. Let's go, {NAME:02 00 00 00}.
+
+[06318.249]
+Okay!
+
+[06318.251]
+That's...!
+
+[06318.253]
+No doubt about it... That's the thing Elraine was talking about, "God's Egg".
+
+[06318.255]
+................
+
+[06318.257]
+What'll it be, {NAME:01 00 00 00}?
+
+[06318.259]
+We have no time left. Have you found your answer, {NAME:01 00 00 00}?
+
+[06318.261]
+{NAME:06 00 00 00}. Is the Ixifosler ready?
+
+[06318.263]
+You bet, all set! We can go any time!
+
+[06318.265]
+Then, {NAME:01 00 00 00}...
+
+[06318.267]
+Yeah, I've decided. We'll defeat the god, with our own hands.
+
+[06318.269]
+...I see. You've made a hard choice, {NAME:01 00 00 00}.
+
+[06318.271]
+If that's what you've decided, we'll just believe in you and charge ahead.
+
+[06318.273]
+Let's go, {NAME:01 00 00 00}. Let's go and clobber a god!
+
+[06318.275]
+...Thank you, everyone.
+
+[06318.277]
+Then shall we get going! Come on, hop in, hop in!
+
+[06318.279]
+...Let's go, {NAME:02 00 00 00}!
+
+[06318.281]
+Yes...!
+
+[06318.283]
+Over there, {NAME:01 00 00 00}!
+
+[06318.285]
+Run from the children and the chicken for {06:14 00 00 00} seconds. Leave the map and you lose automatically.
+
+[06318.287]
+Got away!
+
+[06318.289]
+Caught!
+
+[06318.291]
+Bu-kawk! Cluck cluck!
+
+[06318.292]
+Have a safe journey.
+
+[06318.293]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06318.294]
+Will you stay the night?
+
+[06318.296]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06318.297]
+Please rest well.
+
+[06318.298]
+Good morning.
+
+[06318.299]
+You do not have enough money.
+
+[06318.300]
+We look forward to seeing you again.
+
+[06318.305]
+Obtained {16:26 96}.
+
+[06318.307]
+Obtained {08:FF FF FF FF}.
+
+[06318.309]
+Found {16:26 9E}, but you can carry no more.
+
+[06318.311]
+There is nothing here.
+
+[06318.312]
+Dunamis Orphanage
+
+[06318.314]
+Play on the slide?
+
+[06318.316]
+{03:00 00 00 00}　Play　
+　Don't play　
+
+[06318.318]
+All right!
+
+[06318.320]
+Because {NAME:01 00 00 00} has been slacking off, there is not a single log in the woodshed...
+
+[06318.322]
+That's a lot of laundry. Day in, day out, Mom has it tough...
+
+[06318.324]
+The orphans' laundry is hung out to dry. It seems Rutee hangs it all by herself.
+
+[06318.326]
+The orphanage's flower bed. Pretty flowers are in bloom.
+
+[06318.328]
+A signboard.
+"Dunamis Orphanage
+Directors: Stahn Aileron
+and Rutee Katrea"
+

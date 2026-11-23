@@ -1,0 +1,15 @@
+[00884.001]
+You know, {NAME:03 00 00 00} and {NAME:01 00 00 00} seem less like childhood friends than real brothers.
+
+[00884.002]
+Well... The truth is, as "a stand-in for Stahn, who died because of me"... I wanted to be like a father to him. But, you know, I'm bursting with youth, hardly the father type. And besides...
+
+[00884.003]
+Having you for a father would only be a burden.
+
+[00884.004]
+Aah! Stop butting in from the side! ...Um... where was I... Ah! Right. And besides, Rutee... his mother asked something of me. "Think of him as your real little brother and protect him well"... "because I had a little brother too, and couldn't protect him"...
+
+[00884.005]
+......I see. So that was it...
+

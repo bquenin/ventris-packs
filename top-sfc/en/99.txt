@@ -1,0 +1,16 @@
+[99.000]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+"As you know, Dhaos's castle{PAGE}
+stands on an island to our north-east.
+
+[99.001]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+A lone bridge joins it to the mainland.{PAGE}
+Clearly it is the key to our plans.{PAGE}
+First, we take up position there.
+
+[99.002]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+But the main force needs five days{PAGE}
+to reach it by the shortest road."
+

@@ -1,0 +1,21 @@
+[00662.001]
+What is it, {NAME:04 00 00 00}? You look so grave.
+
+[00662.002]
+I was wondering whether "the capture of Clemente and Atwight is truly what happened in history"......
+
+[00662.003]
+You mean, because Elraine meddled with history...!?
+
+[00662.004]
+It is possible... If they knew of the Belcrant development team's surrender in advance, laying a trap would be easy.
+
+[00662.005]
+At this rate the Swordian team itself is in danger... And if the Heavenly Army wins, that world... "the world where surface people can live only in domes" comes to be... Damn! As if we'd let that happen!!
+
+[00662.006]
+No, it's all right. Turn it round, and "if we do our best here, we can put history back", right?
+
+[00662.007]
+...A change of viewpoint... Well said for once, {NAME:01 00 00 00}.
+

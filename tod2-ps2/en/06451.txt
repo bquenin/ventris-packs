@@ -1,0 +1,796 @@
+[06451.001]
+Heidelberg Castle
+
+[06451.002]
+Heidelberg Castle
+
+[06451.003]
+Soldier
+
+[06451.004]
+Right, those here for an audience take the stairs straight ahead. ...Ahh, day in, day out, nothing but dealing with people wanting audiences.
+
+[06451.005]
+Soldier
+
+[06451.006]
+Won't something really big happen... Not a chance, in a world this peaceful.
+
+[06451.007]
+Soldier
+
+[06451.008]
+The guy next to me gets angry when I say this, but won't something really big happen?
+
+[06451.009]
+Soldier
+
+[06451.010]
+You really were the son of that hero Stahn! Now this is a really big event!
+
+[06451.011]
+Soldier
+
+[06451.012]
+Wow, I can brag about this to my parents. Hey, shake my hand, go on!
+
+[06451.014]
+Sure, no trouble at all!
+
+[06451.015]
+Soldier
+
+[06451.016]
+The son of that hero Stahn, coming here... Now that's something to brag about to my parents!
+
+[06451.017]
+Soldier
+
+[06451.018]
+What's up, hero's son? Something you forgot to say to His Majesty?
+
+[06451.019]
+Soldier
+
+[06451.020]
+...U-urgh........
+
+[06451.021]
+Soldier
+
+[06451.022]
+S-someone unbelievably strong...! ...R-run...! Even you... can't win!
+
+[06451.023]
+Soldier
+
+[06451.024]
+Is His Majesty all right?
+
+[06451.025]
+Soldier
+
+[06451.026]
+...I'm so angry at myself for innocently saying "won't something really big happen", honestly...!
+
+[06451.027]
+Soldier
+
+[06451.028]
+Oh, yes... His Majesty is waiting in the audience chamber.
+
+[06451.029]
+Soldier
+
+[06451.030]
+...His Majesty is waiting in the audience chamber.
+
+[06451.031]
+Soldier
+
+[06451.032]
+...So you're going. A hero's son really is different. Strong, even at a time like this...
+
+[06451.034]
+...No. I'm no hero. Maybe I don't even have the right to be one.
+
+[06451.036]
+But even so, I... want to save {NAME:02 00 00 00}! That's all.
+
+[06451.037]
+Soldier
+
+[06451.038]
+...You people really are strong. ........ We're... counting on you!
+
+[06451.039]
+Soldier
+
+[06451.040]
+You're back! Well done! Come on, His Majesty is waiting! Hurry, hurry!
+
+[06451.041]
+Soldier
+
+[06451.042]
+I'm a fool, aren't I. "Nothing really big happens, it's boring"... that's what I used to say.
+
+[06451.043]
+Soldier
+
+[06451.044]
+I finally understand how much there is to be thankful for when nothing happens at all.
+
+[06451.046]
+It is all right. That is how people learn, and build a better future.
+
+[06451.047]
+Soldier
+
+[06451.048]
+Ahh, maybe I should get myself a wife too. Then maybe I'd grow up a bit, like the guy next to me.
+
+[06451.049]
+Soldier
+
+[06451.050]
+Right, those here for an audience take the stairs straight ahead. ...Ahh, day in, day out, nothing but dealing with people wanting audiences.
+
+[06451.051]
+Soldier
+
+[06451.052]
+Won't something really big happen... Not a chance, in a world this peaceful.
+
+[06451.053]
+Soldier
+
+[06451.054]
+The guy next to me gets angry when I say this, but won't something really big happen?
+
+[06451.055]
+Soldier
+
+[06451.056]
+You really were the son of that hero Stahn! Now this is a really big event!
+
+[06451.058]
+You think? I mean, I'm only Dad's son, not the man himself...
+
+[06451.059]
+Soldier
+
+[06451.060]
+Even so! For me it's a big enough event!
+
+[06451.061]
+Soldier
+
+[06451.062]
+The son of that hero Stahn, coming here... Now that's something to brag about to my parents!
+
+[06451.063]
+Soldier
+
+[06451.064]
+You are here for an audience with His Majesty? Please go up the stairs straight ahead.
+
+[06451.065]
+Soldier
+
+[06451.066]
+The fellow next to me is forever saying, isn't there something, isn't there something...
+
+[06451.067]
+Soldier
+
+[06451.068]
+He doesn't understand how precious it is that nothing happens, that there is peace. Honestly...
+
+[06451.069]
+Soldier
+
+[06451.070]
+Ah, forgive me. I was grumbling... The audience chamber is straight ahead.
+
+[06451.071]
+Soldier
+
+[06451.072]
+To be able to talk like this with the son of the hero Stahn... I have a fine story to take home to my wife.
+
+[06451.073]
+Soldier
+
+[06451.074]
+{NAME:01 00 00 00}, do have a look at the city too. I am sure you will like it.
+
+[06451.076]
+Yeah, I'll do that! Thanks!
+
+[06451.077]
+Soldier
+
+[06451.078]
+To be able to talk like this with the son of the hero Stahn... I have a fine story to take home to my wife.
+
+[06451.079]
+Soldier
+
+[06451.080]
+{NAME:01 00 00 00}, do you have business with His Majesty again?
+
+[06451.081]
+Soldier
+
+[06451.082]
+...Y-Your Majesty...!
+
+[06451.084]
+Hey, are you all right!? Hey!
+
+[06451.085]
+Soldier
+
+[06451.086]
+Quickly... to His Majesty's... side...! ...That man is... terribly strong!
+
+[06451.087]
+Soldier
+
+[06451.088]
+...Ngh, Y-Your Majesty...! I am coming... to your side...!
+
+[06451.089]
+Soldier
+
+[06451.090]
+I am all right. ...But His Majesty...!
+
+[06451.091]
+Soldier
+
+[06451.092]
+We see the worth of what is irreplaceable only once it is lost... I knew that, and yet...
+
+[06451.093]
+Soldier
+
+[06451.094]
+We must win back peace for this country at all costs. And for that, we must do our utmost.
+
+[06451.095]
+Soldier
+
+[06451.096]
+{NAME:01 00 00 00}, His Majesty is waiting in the audience chamber. ...Please, hear what he has to say.
+
+[06451.097]
+Soldier
+
+[06451.098]
+{NAME:01 00 00 00}, please take care...!
+
+[06451.100]
+Thank you... Look after Woodrow for us!
+
+[06451.101]
+Soldier
+
+[06451.102]
+...Yes! With my life!
+
+[06451.103]
+Soldier
+
+[06451.104]
+Leave His Majesty to us. We will protect him without fail!
+
+[06451.105]
+Soldier
+
+[06451.106]
+Are you... {NAME:01 00 00 00}!? Ah, forgive me... you looked like a different person.
+
+[06451.108]
+Well, enough has happened to change the look on a man's face.
+
+[06451.109]
+Soldier
+
+[06451.110]
+I see... Ah, forgive me for keeping you. His Majesty is in the audience chamber.
+
+[06451.111]
+Soldier
+
+[06451.112]
+Forgive me for keeping you. His Majesty is in the audience chamber.
+
+[06451.113]
+Soldier
+
+[06451.114]
+The other day the fellow next to me asked, "Is a wife a good thing to have?" Whatever has come over him?
+
+[06451.115]
+Soldier
+
+[06451.116]
+...But having someone to protect is truly a happy thing. I feel it when I look at my wife's sleeping face.
+
+[06451.117]
+Soldier
+
+[06451.118]
+To protect His Majesty, my wife, and the people of this country... This time I will see it through!
+
+[06451.119]
+Soldier
+
+[06451.120]
+You are here for an audience with His Majesty? Please go up the stairs straight ahead.
+
+[06451.121]
+Soldier
+
+[06451.122]
+The fellow next to me is forever saying, isn't there something, isn't there something...
+
+[06451.123]
+Soldier
+
+[06451.124]
+He doesn't understand how precious it is that nothing happens, that there is peace. Honestly...
+
+[06451.125]
+Soldier
+
+[06451.126]
+Ah, forgive me. I was grumbling... The audience chamber is straight ahead.
+
+[06451.127]
+Soldier
+
+[06451.128]
+To be able to talk like this with the son of the hero Stahn... I have a fine story to take home to my wife.
+
+[06451.130]
+A story to take home? Meeting me? ...Hmm, I don't really get it.
+
+[06451.131]
+Soldier
+
+[06451.132]
+For instance, {NAME:01 00 00 00}, you will tell everyone that you met His Majesty King Woodrow, won't you?
+
+[06451.134]
+I guess I will... but that's because Woodrow is an amazing person, right?
+
+[06451.135]
+Soldier
+
+[06451.136]
+To us, you are as amazing a person as His Majesty King Woodrow.
+
+[06451.137]
+Soldier
+
+[06451.138]
+To us, you are as amazing a person as His Majesty King Woodrow.
+
+[06451.139]
+Maid
+
+[06451.140]
+This passage leads to the guest rooms.
+
+[06451.141]
+Maid
+
+[06451.142]
+...Ahh... how dreadful...
+
+[06451.143]
+Maid
+
+[06451.144]
+This passage leads to the guest rooms.
+
+[06451.145]
+Maid
+
+[06451.146]
+This passage leads to the guest rooms.
+
+[06451.147]
+Maid
+
+[06451.148]
+This passage leads to the guest rooms.
+
+[06451.149]
+Maid
+
+[06451.150]
+Those here for an audience go up the stairs there and... Oh, is something the matter?
+
+[06451.152]
+N-no, it's just, now that I'm right in front of it I've gotten really nervous...
+
+[06451.153]
+Maid
+
+[06451.154]
+Hee hee! You'll be fine. His Majesty is easygoing and kind.
+
+[06451.155]
+Maid
+
+[06451.156]
+His Majesty is easygoing and kind, so there's no need to be stiff. You'll be fine.
+
+[06451.157]
+Maid
+
+[06451.158]
+King Woodrow is kind, isn't he? It's because of that character that the people follow him.
+
+[06451.159]
+Maid
+
+[06451.160]
+Only... eating even a new cook's failed dishes with a smile is going a bit far, I think.
+
+[06451.161]
+Maid
+
+[06451.162]
+King Woodrow is a kind man. But eating even failed dishes with a smile is going a bit...
+
+[06451.163]
+Maid
+
+[06451.164]
+Eeeeek! D-don't kill meee!
+
+[06451.166]
+Hey, calm down! We're not the enemy!
+
+[06451.167]
+Maid
+
+[06451.168]
+...U-um, I...! W-waaah!
+
+[06451.169]
+Maid
+
+[06451.170]
+I-I was so scared... but, but...!
+
+[06451.172]
+I know, I know! We're going to Woodrow. Listen, don't move from here!
+
+[06451.173]
+Maid
+
+[06451.174]
+The soldiers... are hurt...
+
+[06451.175]
+Maid
+
+[06451.176]
+Those two soldiers over there... They never agreed and were always bickering.
+
+[06451.177]
+Maid
+
+[06451.178]
+But... now they don't seem to have the spirit even for that... It almost hurts to watch...
+
+[06451.179]
+Maid
+
+[06451.180]
+To think that not hearing those two bicker could feel so lonely...
+
+[06451.181]
+Maid
+
+[06451.182]
+I know it is a selfish thing to ask. But... let me say it.
+
+[06451.183]
+Maid
+
+[06451.184]
+So that King Woodrow may smile again, {NAME:01 00 00 00}... please do your best!
+
+[06451.185]
+Maid
+
+[06451.186]
+We'll do our best too, to bring back King Woodrow's smile! So you do your best too, {NAME:01 00 00 00}!
+
+[06451.187]
+Maid
+
+[06451.188]
+Faced with the rooms the enemy had wrecked, I was rather at a loss.
+
+[06451.189]
+Maid
+
+[06451.190]
+And then the townspeople offered their help... It was truly a relief.
+
+[06451.191]
+Maid
+
+[06451.192]
+King Woodrow's smile when the townspeople offered to help... Watching it, my heart was full.
+
+[06451.193]
+Maid
+
+[06451.194]
+Are you an acquaintance of His Majesty King Woodrow?
+
+[06451.196]
+Huh? Today's the first time I'll meet him... Why?
+
+[06451.197]
+Maid
+
+[06451.198]
+Is that so!? How unusual, to look so relaxed.
+
+[06451.199]
+Maid
+
+[06451.200]
+People meeting His Majesty for the first time are nearly always nervous, whoever they are. But you were different, so...
+
+[06451.202]
+Ha ha ha! She's telling you to be a bit more on edge.
+
+[06451.204]
+I am a little nervous! But... if anything, I think I'm more excited!
+
+[06451.205]
+Maid
+
+[06451.206]
+I've never seen anyone look like that before meeting His Majesty! I'm sure he will take a liking to you.
+
+[06451.207]
+Maid
+
+[06451.208]
+King Woodrow is kind, isn't he? It's because of that character that the people follow him.
+
+[06451.210]
+Yeah, I really think so. Kind, and strong... He feels like a real hero.
+
+[06451.211]
+Maid
+
+[06451.212]
+King Woodrow is kind, isn't he? It's because of that character that the people follow him.
+
+[06451.213]
+Maid
+
+[06451.214]
+Only... eating even a new cook's failed dishes with a smile is going a bit far, I think.
+
+[06451.215]
+Maid
+
+[06451.216]
+King Woodrow is a kind man. But eating even failed dishes with a smile is going a bit...
+
+[06451.218]
+Hm, it looks like someone's here...
+
+[06451.219]
+Elraine
+
+[06451.220]
+Oh, you are... Hm hm, so we meet again, {NAME:01 00 00 00}.
+
+[06451.222]
+Th-that person is...!
+
+[06451.224]
+I wondered where you'd got to, and here you are.
+
+[06451.226]
+{NAME:05 00 00 00}...
+
+[06451.228]
+I thought it might be meddling, but it was on my mind a little.
+
+[06451.230]
+Shall I guess what's been troubling you?
+
+[06451.232]
+One thing is that Elraine is trying to bring down a god.
+
+[06451.234]
+The other is... {NAME:01 00 00 00}. You think you hurt him terribly.
+
+[06451.236]
+And because you're thinking about both at once, your head's all in a jumble... Am I wrong?
+
+[06451.238]
+...You're right.
+
+[06451.240]
+Well, Elraine just has to be stopped, so we'll leave that aside.
+
+[06451.242]
+The problem is {NAME:01 00 00 00}... Do you regret it?
+
+[06451.244]
+I do... I think.
+
+[06451.246]
+When I think this is the end of it, it's a little... no, very painful.
+
+[06451.248]
+The end of it? Of what?
+
+[06451.250]
+I mean, {NAME:01 00 00 00} and I... I said such awful things, so now...
+
+[06451.252]
+...I've fought with Lou too, you know. Any number of times.
+
+[06451.254]
+Really shouting, really angry. There were even times it came to blows.
+
+[06451.256]
+With your little brother? But you said you were so close...
+
+[06451.258]
+You fight because you're close. You don't fight with somebody you don't care about, do you?
+
+[06451.260]
+You want them to understand you. You want them to see where they're wrong. You want to understand each other more and more.
+
+[06451.262]
+Unless you care about someone that much, in earnest, you don't fight, and you can't, right?
+
+[06451.264]
+...Yeah.
+
+[06451.266]
+So when there's something you can't accept, you just can't give way. After all, both sides are in earnest.
+
+[06451.268]
+Then there's nothing for it but to fight. You throw your real feelings at each other, you shout, you get angry, you cry...
+
+[06451.270]
+And only then do you understand each other.
+
+[06451.272]
+........
+
+[06451.274]
+A fight hurts, and it's hard.
+
+[06451.276]
+But it's only by getting through it that you can truly grow close, and be happy too.
+
+[06451.278]
+You two threw your real feelings at each other for the first time, and had your first fight.
+
+[06451.280]
+So this is the start, at last. It's no ending.
+
+[06451.282]
+...Were you able to be happy, {NAME:05 00 00 00}?
+
+[06451.284]
+Of course I was. If not, I couldn't be telling you this.
+
+[06451.286]
+I may not have been much of a big sister, you know.
+
+[06451.288]
+But the one thing I'm sure of is that I understood Lou better than anyone.
+
+[06451.290]
+I can think that because we fought in earnest, again and again.
+
+[06451.292]
+........
+
+[06451.294]
+So for you two as well, it's all still to come. Don't you worry.
+
+[06451.296]
+Still to come... I wonder if there is anything?
+
+[06451.298]
+Of course there is. What are you saying.
+
+[06451.300]
+Fwaah... Saying serious things has worn me out.
+
+[06451.302]
+I'm off to bed. You get some rest soon too.
+
+[06451.304]
+It's before noon here, but we've been awake ever since we left Hope Town.
+
+[06451.306]
+Good night, then, (reala).
+
+[06451.308]
+Anything still to come... there can't be.
+
+[06451.309]
+Sabnock
+
+[06451.310]
+My name is Sabnock! A knight who stakes his life on his own convictions!
+
+[06451.312]
+{NAME:01 00 00 00}! If we don't hurry, Woodrow will...!
+
+[06451.314]
+I know!
+
+[06451.316]
+If you mean to stand in our way, we'll get through here by force!
+
+[06451.317]
+Sabnock
+
+[06451.318]
+Come, boy! Your convictions and mine: let battle prove which is the firmer!
+
+[06451.320]
+Right! Let's push on!
+
+[06451.321]
+Have a safe journey.
+
+[06451.322]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06451.323]
+Will you stay the night?
+
+[06451.325]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06451.326]
+Please rest well.
+
+[06451.327]
+Good morning.
+
+[06451.328]
+You do not have enough money.
+
+[06451.329]
+We look forward to seeing you again.
+
+[06451.334]
+Obtained {16:25 C6}.
+
+[06451.336]
+Obtained {08:FF FF FF FF}.
+
+[06451.338]
+Found {16:25 CE}, but you can carry no more.
+
+[06451.340]
+There is nothing here.
+

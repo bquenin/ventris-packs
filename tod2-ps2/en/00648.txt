@@ -1,0 +1,3 @@
+[00648.001]
+The goods are in a locked container, so first we need a key to unlock it.
+

@@ -1,0 +1,88 @@
+[06594.001]
+Dycroft
+
+[06594.002]
+Dycroft
+
+[06594.003]
+Dymlos
+
+[06594.004]
+Are you safe, {NAME:06 00 00 00}! No one missing?
+
+[06594.006]
+As you can see, all safe.
+
+[06594.007]
+Dymlos
+
+[06594.008]
+Oh? For a first taste of real battle, you are doing well.
+
+[06594.010]
+And you, are you all right?
+
+[06594.011]
+Dymlos
+
+[06594.012]
+As you see. But the door will not open. We were about to break it down...
+
+[06594.014]
+Dear me, held up in a place like this.
+
+[06594.016]
+They're all behind the door, right? Let's get them out quick and go home.
+
+[06594.017]
+Karell
+
+[06594.018]
+Do not ask the impossible, {NAME:06 00 00 00}. The door's lock works by password, and most likely only Miktran...
+
+[06594.020]
+Did you say something, brother?
+
+[06594.021]
+Dymlos
+
+[06594.022]
+It seems common sense does not apply to your sister, Karell.
+
+[06594.023]
+Have a safe journey.
+
+[06594.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06594.025]
+Will you stay the night?
+
+[06594.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06594.028]
+Please rest well.
+
+[06594.029]
+Good morning.
+
+[06594.030]
+You do not have enough money.
+
+[06594.031]
+We look forward to seeing you again.
+
+[06594.036]
+Obtained {16:25 BE}.
+
+[06594.038]
+Obtained {08:FF FF FF FF}.
+
+[06594.040]
+Found {16:25 C6}, but you can carry no more.
+
+[06594.042]
+There is nothing here.
+

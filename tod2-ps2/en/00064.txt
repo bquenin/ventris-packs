@@ -1,0 +1,18 @@
+[00064.001]
+Hey, {NAME:03 00 00 00}. Going after the Lens is fine, but won't the Order fire you if they find out?
+
+[00064.002]
+So what? We just won't get found out.
+
+[00064.003]
+But what if we are? You were so happy that you'd finally become a knight...
+
+[00064.004]
+I thought as a knight I could protect people in need, like Rutee and you lot. But all I actually protect is the Order's own people... Heh. If that's how it is, getting fired would be a weight off my mind.
+
+[00064.005]
+I see. Then it's fine if we get caught!
+
+[00064.006]
+You du~mmy! Better not to get caught.
+

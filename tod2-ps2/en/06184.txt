@@ -1,0 +1,2124 @@
+[06184.13306]
+Which ninja does not
+appear in the Trial Cave?
+
+[06184.13356]
+Sarutobi
+
+[06184.13365]
+Kosuke
+
+[06184.13372]
+Saizo
+
+[06184.13381]
+Jinpachi
+
+[06184.13390]
+Right!
+
+[06184.13397]
+Wrong.
+
+[06184.13404]
+Sorry, time's up
+
+[06184.13421]
+What is Chester's sister's name?
+
+[06184.13456]
+Ami
+
+[06184.13463]
+Aami
+
+[06184.13472]
+Amin
+
+[06184.13479]
+Arche
+
+[06184.13488]
+Alice
+
+[06184.13495]
+Aira
+
+[06184.13502]
+Amii
+
+[06184.13511]
+Army
+
+[06184.13520]
+...Hmm, close
+
+[06184.13543]
+No, look more closely
+
+[06184.13566]
+Someone else
+
+[06184.13581]
+...Hmm, close, maybe
+
+[06184.13606]
+Was that a bit mean of me?
+
+[06184.13635]
+What is the name of
+Cress's uncle?
+
+[06184.13673]
+Olson
+
+[06184.13682]
+Cresson
+
+[06184.13691]
+Norson
+
+[06184.13700]
+Thomson
+
+[06184.13709]
+Manson
+
+[06184.13718]
+Garcon
+
+[06184.13729]
+Allison
+
+[06184.13738]
+Gon
+
+[06184.13743]
+...Say, are you guessing?
+
+[06184.13772]
+...Was that a little hard?
+
+[06184.13803]
+Who suddenly bursts into the
+arena at Euclid Castle?
+
+[06184.13861]
+Lilith
+
+[06184.13868]
+Reid
+
+[06184.13883]
+Leon
+
+[06184.13890]
+Kongman
+
+[06184.13901]
+Farah
+
+[06184.13916]
+Right!
+However did she get in?
+
+[06184.13952]
+No.
+That's the hero of Tales of Eternia
+
+[06184.13998]
+...Eh?
+
+[06184.14009]
+No.
+That's a character
+from Tales of Destiny
+
+[06184.14072]
+No.
+That's a character
+from Tales of Eternia
+
+[06184.14133]
+Did... burst in?
+
+[06184.14150]
+Someone rather unexpected
+
+[06184.14177]
+The ultimate dish learned at
+the ninja village store is?
+
+[06184.14239]
+Miso Oden
+
+[06184.14250]
+Meat Pot
+
+[06184.14259]
+Fish Pot
+
+[06184.14270]
+Beef Stew
+
+[06184.14285]
+Radish
+
+[06184.14294]
+Can
+
+[06184.14303]
+Right!
+A full recovery: isn't
+that some food?
+
+[06184.14354]
+...Eat it raw?
+
+[06184.14373]
+...That isn't a dish...
+
+[06184.14406]
+Don't just eat all the time:
+learn to cook too, {NAME:01 00 00 00}?
+
+[06184.14463]
+What trade good can be stolen
+from the monster "Treant"?
+
+[06184.14527]
+Ebony
+
+[06184.14536]
+Sage
+
+[06184.14543]
+Savory
+
+[06184.14552]
+Teacup
+
+[06184.14565]
+Shamisen
+
+[06184.14576]
+Holy Log
+
+[06184.14593]
+Root
+
+[06184.14600]
+No.
+That's a growth item
+
+[06184.14634]
+No.
+A growth item
+
+[06184.14662]
+No.
+You get that
+from a Banshee
+
+[06184.14705]
+No.
+You get that from
+a Ninja Master
+
+[06184.14750]
+No.
+A very precious item
+
+[06184.14780]
+...And... do what with it?
+
+[06184.14811]
+...Was that a little hard?
+
+[06184.14840]
+Bart Klein studies wind
+spirits. Whose father is he?
+
+[06184.14896]
+Mint
+
+[06184.14903]
+Cress
+
+[06184.14910]
+Chester
+
+[06184.14921]
+Claus
+
+[06184.14930]
+Suzu
+
+[06184.14935]
+{NAME:01 00 00 00}'s father is Stahn, no?
+
+[06184.14969]
+Sorry, time's up
+
+[06184.14986]
+With exactly 100 monsters
+met, what title does the
+item "Monster Book"
+carry?
+
+[06184.15108]
+Monster Almanac
+
+[06184.15125]
+Monster Mega Book
+
+[06184.15144]
+Monster Omnibus
+
+[06184.15163]
+Monster Book
+
+[06184.15178]
+Monster Guide
+
+[06184.15193]
+Monster Pictures
+
+[06184.15210]
+Fun Monsters
+
+[06184.15229]
+No.
+That's for more of them
+
+[06184.15263]
+No.
+That's when it's complete
+
+[06184.15295]
+No.
+The first title
+
+[06184.15319]
+...Hmm, so close
+
+[06184.15342]
+Think and you'll get it
+
+[06184.15369]
+Following Morrison into the
+catacombs, Cress rode a
+floating device over danger.
+What did he say?
+
+[06184.15491]
+Floating... so cool
+
+[06184.15514]
+Floating... wow!
+
+[06184.15535]
+Floating... why!?
+
+[06184.15558]
+Floating... we can!
+
+[06184.15581]
+Floating... ah
+
+[06184.15598]
+A fall would hurt him, yet
+he's so carefree...
+
+[06184.15650]
+Jamir, the demon controlling
+Prince Laird of Alvanista:
+what form did it take to
+hide what it was?
+
+[06184.15760]
+Parrot
+
+[06184.15767]
+Royal aide
+
+[06184.15778]
+Maid
+
+[06184.15785]
+Dog
+
+[06184.15790]
+Cat
+
+[06184.15795]
+Bush Baby
+
+[06184.15812]
+Which ring seals the pact
+with the mighty Pluto,
+king of the underworld?
+
+[06184.15889]
+Emerald Ring
+
+[06184.15906]
+Diamond Ring
+
+[06184.15925]
+Sapphire Ring
+
+[06184.15942]
+Ruby Ring
+
+[06184.15955]
+Turquoise Ring
+
+[06184.15972]
+That ring
+is for the pact
+with Origin
+
+[06184.16021]
+That ring
+is for the pact with the
+imp Gremlin Lair
+
+[06184.16086]
+That ring
+is for the pact
+with Gnome
+
+[06184.16133]
+That ring
+is for the pact
+with Maxwell
+
+[06184.16186]
+In the PlayStation minigame
+GROOVY Arche, how many
+points earn Arche the
+title "GROOVY"?
+
+[06184.16312]
+200,000
+
+[06184.16321]
+100,000
+
+[06184.16330]
+300,000
+
+[06184.16339]
+400,000
+
+[06184.16348]
+500,000
+
+[06184.16357]
+The choices are cleric
+titles Mint can earn.
+Which of them is the
+highest in rank?
+
+[06184.16463]
+Pope
+
+[06184.16470]
+Cardinal
+
+[06184.16483]
+Bishop
+
+[06184.16494]
+Priest
+
+[06184.16505]
+Cleric
+
+[06184.16516]
+This title marks the
+highest of clerics.
+For Mint to bear it,
+she must be level 80.
+
+[06184.16607]
+This title goes
+to chosen clerics, but there
+are titles of higher rank.
+
+[06184.16692]
+In the PlayStation version,
+which final Albane arte does
+Cress learn with the title
+"Arcane Heir"?
+
+[06184.16806]
+Dark Blade
+
+[06184.16817]
+Rift
+
+[06184.16824]
+Time Blade
+
+[06184.16835]
+Wild Dance
+
+[06184.16846]
+The arte Cress's father
+Miguel showed him just
+once, as a child
+
+[06184.16913]
+In the ninja village's
+Trial Cave, what is the
+fourth ninja's name?
+
+[06184.16982]
+Juzo
+
+[06184.16993]
+Sasuke
+
+[06184.17000]
+Great Me
+
+[06184.17009]
+Katz
+
+[06184.17018]
+No. He's the first one
+
+[06184.17045]
+No. He's the last one
+
+[06184.17072]
+...A name?
+
+[06184.17087]
+...A Katz is no ninja...
+
+[06184.17116]
+Which item lets you
+control an ally directly
+with a controller?
+
+[06184.17185]
+Channeling
+
+[06184.17198]
+Sorcerer's Ring
+
+[06184.17215]
+Technical Ring
+
+[06184.17232]
+Dash Ring
+
+[06184.17247]
+Synchro Ring
+
+[06184.17262]
+No. You have one, {NAME:01 00 00 00}:
+you'd know it isn't, no?
+
+[06184.17313]
+No. That item lets you
+control yourself manually
+
+[06184.17369]
+No. That item lets
+you dash
+
+[06184.17415]
+No. There's no such item
+
+[06184.17446]
+What is the hero
+Cress's full name?
+
+[06184.17486]
+Cress Albane
+
+[06184.17505]
+Cress Barklight
+
+[06184.17526]
+Cress Adnade
+
+[06184.17545]
+Cress F. Lester
+
+[06184.17566]
+Cress Klein
+
+[06184.17583]
+Cress Fuji
+
+[06184.17594]
+No. "Barklight" is
+Chester's surname
+
+[06184.17640]
+No. "Adnade" is
+Mint's surname
+
+[06184.17680]
+No. "F. Lester" is
+Claus's surname
+
+[06184.17724]
+No. "Klein" is
+Arche's surname
+
+[06184.17764]
+...That's Suzu's surname
+...on purpose, perhaps?
+
+[06184.17814]
+Was it a little hard?
+
+[06184.17841]
+What spirit dwells in the
+world tree Yggdrasil?
+
+[06184.17891]
+Martel
+
+[06184.17900]
+Mattel
+
+[06184.17909]
+Undine
+
+[06184.17922]
+Sylph
+
+[06184.17929]
+Efreet
+
+[06184.17940]
+Aska
+
+[06184.17947]
+No. The water spirit
+
+[06184.17972]
+No. The wind spirit
+
+[06184.17997]
+No. The fire spirit
+
+[06184.18022]
+No. The light spirit
+
+[06184.18047]
+The war of the end, once
+fought by Fenrir and Odin:
+what do the elves
+call it?
+
+[06184.18145]
+Ragnarok
+
+[06184.18156]
+H&E War
+
+[06184.18165]
+Valhalla War
+
+[06184.18180]
+Kaiju War
+
+[06184.18191]
+Right!
+ My, you know a lot
+
+[06184.18224]
+That's from the world
+we live in, isn't it...
+
+[06184.18272]
+...Too many strange books?
+
+[06184.18303]
+{NAME:01 00 00 00} is weak at history...
+
+[06184.18331]
+Which magic sword freely
+commands time and space?
+
+[06184.18391]
+Eternal Sword
+
+[06184.18408]
+Eternia Sword
+
+[06184.18425]
+Excalibur
+
+[06184.18440]
+Arc Wind
+
+[06184.18455]
+Gauntlet
+
+[06184.18468]
+Dymlos
+
+[06184.18479]
+Right!
+Its power sealed Dhaos's
+travel through time
+
+[06184.18532]
+Close, but not quite
+
+[06184.18555]
+No.
+It is a sword, mind...
+
+[06184.18591]
+No.
+That's a spear
+
+[06184.18615]
+No.
+That's armor
+
+[06184.18635]
+A magic sword... isn't that
+rude to Dymlos?
+
+[06184.18679]
+What did the pirate Aifread
+call his true treasure?
+
+[06184.18731]
+Rosania's Dress
+
+[06184.18748]
+Green Torch
+
+[06184.18763]
+Golden Helm
+
+[06184.18780]
+N.G.
+
+[06184.18787]
+Saint Halberd
+
+[06184.18804]
+Konjac
+
+[06184.18815]
+Right!
+His wife's dress, the best
+treasure: rather sweet
+
+[06184.18874]
+No. A treasure too, though
+
+[06184.18903]
+That's easy to get, isn't it?
+
+[06184.18934]
+Suzu's grandfather's name is?
+
+[06184.18965]
+Ranz
+
+[06184.18970]
+Dozo
+
+[06184.18975]
+Okiyo
+
+[06184.18982]
+Grandpa
+
+[06184.18991]
+No. That's her father's name
+
+[06184.19022]
+No. That's her mother's name
+
+[06184.19053]
+...'s name is what
+I'm asking...
+
+[06184.19089]
+He was a Katz?
+
+[06184.19108]
+...Are you serious?
+
+[06184.19131]
+Time's up. Let's study more
+
+[06184.19162]
+Edward D. Morrison's
+grandchild's grandchild's
+grandchild is who?
+
+[06184.19244]
+Harold
+
+[06184.19253]
+Trinicus
+
+[06184.19264]
+Dhaos
+
+[06184.19271]
+Bernard
+
+[06184.19282]
+Earl Grey
+
+[06184.19295]
+Right!
+No relation at all to
+our own {NAME:06 00 00 00}, though
+
+[06184.19347]
+Heh, got you. That's two
+"grandchild"s; I asked three
+
+[06184.19413]
+No. Someone else
+
+[06184.19436]
+...Was that the story?
+
+[06184.19463]
+No. There's no such person
+
+[06184.19490]
+No.
+Isn't that a kind of tea?
+
+[06184.19526]
+Was that a bit mean of me?
+
+[06184.19553]
+What is Mint's mother's name?
+
+[06184.19586]
+Meryl Adnade
+
+[06184.19605]
+Maria Albane
+
+[06184.19624]
+Meryl Albane
+
+[06184.19643]
+Maryl Adnade
+
+[06184.19662]
+Marin Adred
+
+[06184.19681]
+Rutee Katrea
+
+[06184.19702]
+Right!
+Even in death she watched
+over her daughter...
+
+[06184.19761]
+No. That's Cress's mother
+
+[06184.19790]
+...Hmm, close
+
+[06184.19809]
+Close, but no
+
+[06184.19826]
+Slightly off...
+
+[06184.19847]
+That's {NAME:01 00 00 00}'s mother...
+
+[06184.19875]
+Sorry, time's up...
+
+[06184.19896]
+The epic side story, a love
+across time: who and who?
+
+[06184.19956]
+Nancy and Elwin
+
+[06184.19977]
+Cress and Mint
+
+[06184.19992]
+Bobby and Mary
+
+[06184.20009]
+Gon & Omatsu
+
+[06184.20022]
+Chester and Arche
+
+[06184.20043]
+{NAME:01 00 00 00}&{NAME:02 00 00 00}
+
+[06184.20056]
+Right!
+How their love goes changes
+their descendants to come
+
+[06184.20117]
+A side story... is it?
+
+[06184.20142]
+Who is it?
+
+[06184.20153]
+What country's tale is that?
+
+[06184.20186]
+...W-wrong...
+
+[06184.20205]
+Not your thing, {NAME:01 00 00 00}?
+
+[06184.20231]
+Flamberg is the avatar of what?
+
+[06184.20264]
+Flamberge
+
+[06184.20279]
+Brambald
+
+[06184.20292]
+Sylvarant
+
+[06184.20307]
+Vorpal Sword
+
+[06184.20324]
+Diamond
+
+[06184.20337]
+Heimdall
+
+[06184.20350]
+Teseara
+
+[06184.20359]
+Kharlan
+
+[06184.20370]
+Right!
+A fire sword, one
+of the three
+
+[06184.20409]
+No. That's the elves' chief
+
+[06184.20438]
+No. That's the big moon in
+the sky
+
+[06184.20480]
+No. An ice sword,
+one of the three
+
+[06184.20520]
+No. A pact ring,
+one of the three
+
+[06184.20564]
+No. That's the elves'
+sanctuary
+
+[06184.20600]
+No. The small moon in
+the sky
+
+[06184.20636]
+No. Another name for
+Yggdrasil
+
+[06184.20672]
+Look at the names
+
+[06184.20693]
+The woman living with Claus
+as his assistant is named?
+
+[06184.20749]
+Mirald
+
+[06184.20758]
+Marin
+
+[06184.20765]
+Holland
+
+[06184.20774]
+Ganache
+
+[06184.20785]
+Emily
+
+[06184.20792]
+Edward
+
+[06184.20803]
+Dolmira
+
+[06184.20812]
+Lutze
+
+[06184.20819]
+Right!
+Claus's childhood
+friend, too
+
+[06184.20858]
+No. Think a bit harder
+
+[06184.20883]
+No. She's a maid who
+serves at the castle
+
+[06184.20925]
+Is that a woman?
+
+[06184.20946]
+At the adventurers' guild in
+Alvanista you can see a live
+show. Whose is it?
+
+[06184.21027]
+Yo-mi
+
+[06184.21034]
+DEEN
+
+[06184.21043]
+GARNET CROW
+
+[06184.21065]
+M.Kuraki
+
+[06184.21074]
+Right!
+She sings the
+opening theme
+
+[06184.21121]
+No. {NAME:01 00 00 00}, never heard
+your father's stories?
+
+[06184.21172]
+No. They sing the
+opening of Eternia
+
+[06184.21230]
+...{NAME:01 00 00 00}, do you sleep
+through the opening?
+
+[06184.21283]
+Hmm, I'd rather like
+to hear that, but...
+
+[06184.21329]
+Symbol of the clerics, met
+only by a pure maiden:
+which animal of legend?
+
+[06184.21408]
+Unicorn
+
+[06184.21419]
+Pegasus
+
+[06184.21428]
+Narwhal
+
+[06184.21437]
+Gnome
+
+[06184.21452]
+Right!
+It lives in a birch wood
+
+[06184.21484]
+...Hmm, close.
+It is an animal of legend...
+
+[06184.21534]
+No. Can't anyone
+meet one of those?
+
+[06184.21576]
+No. The earth spirit
+
+[06184.21601]
+ {NAME:03 00 00 00} is no animal.
+He does seem to like maidens...
+
+[06184.21659]
+Sorry, time's up...
+
+[06184.21680]
+The tongue of the ancient elves
+was "Primal..." what?
+
+[06184.21742]
+Elven Roar
+
+[06184.21759]
+Elron Hair
+
+[06184.21776]
+Jitsmon Sheer
+
+[06184.21793]
+Elven Ronofu
+
+[06184.21812]
+Jilmon Jitter
+
+[06184.21829]
+Jikogen Badder
+
+[06184.21846]
+Right!
+You knew it well
+
+[06184.21870]
+...Isn't that a bit off?
+
+[06184.21897]
+Let's study a bit more
+
+[06184.21920]
+The minigame starring Arche,
+played in the ancient city
+Thor, is called?
+
+[06184.21999]
+GROOVY Arche
+
+[06184.22020]
+Magical Arche
+
+[06184.22037]
+GO! GO! Arche
+
+[06184.22058]
+SUPER Arche
+
+[06184.22077]
+Arche's Air War
+
+[06184.22096]
+Arche in the Sky
+
+[06184.22115]
+Dancing Arche
+
+[06184.22134]
+Chester's Targets
+
+[06184.22153]
+Right!
+Quite a fun
+shooting game
+
+[06184.22202]
+No. {NAME:01 00 00 00},
+you like that kind?
+
+[06184.22239]
+No. The feel of it
+is right, though...
+
+[06184.22285]
+No. A slightly cooler
+title, perhaps?
+
+[06184.22331]
+...Are you guessing?
+
+[06184.22354]
+No. It isn't that
+kind of game
+
+[06184.22394]
+...I did say it
+stars Arche...
+
+[06184.22436]
+Which phantom dish is eaten
+only in Totus village?
+
+[06184.22490]
+Mabo Curry
+
+[06184.22505]
+Borscht
+
+[06184.22514]
+Riceball
+
+[06184.22523]
+Pescatore
+
+[06184.22536]
+Hashed Rice
+
+[06184.22549]
+Right!
+Though in our world
+it's a very common dish
+
+[06184.22604]
+No. A phantom dish
+of a kind, though...
+
+[06184.22648]
+No. I think anyone
+can make that
+
+[06184.22684]
+No. You know that one
+from the start...
+
+[06184.22728]
+No. It is a rare
+dish, though...
+
+[06184.22766]
+{NAME:01 00 00 00}, food is all
+you think about...
+
+[06184.22807]
+The elves can mend the "Broken Bow".
+What bow does it become?
+
+[06184.22885]
+Elven Bow
+
+[06184.22898]
+Merciless Bow
+
+[06184.22913]
+Berserk Arrow
+
+[06184.22930]
+Aqua Sfred
+
+[06184.22947]
+Angelbow
+
+[06184.22956]
+Sorry, time's up.
+They mend it for 20,000 Gald
+
+[06184.23010]
+Items light the Dark Cave.
+Which of these is not one?
+
+[06184.23072]
+Yellow Sun
+
+[06184.23085]
+Blue Candle
+
+[06184.23102]
+Red Lantern
+
+[06184.23117]
+The pirate Aifread:
+what did he hold to be
+the finest treasure of all?
+
+[06184.23188]
+His wife
+
+[06184.23197]
+Crew
+
+[06184.23204]
+Ship
+
+[06184.23211]
+Gold
+
+[06184.23216]
+Gems
+
+[06184.23221]
+Yes!
+Love...
+
+[06184.23235]
+No.
+But he must have prized it...
+
+[06184.23275]
+Lone Valley in the past:
+why did they go there?
+
+[06184.23323]
+A pact with Sylph
+
+[06184.23344]
+To test the wind
+
+[06184.23363]
+For a famed weapon
+
+[06184.23382]
+For a trial
+
+[06184.23395]
+As a favor
+
+[06184.23410]
+No.
+The wind there is strong, though...
+
+[06184.23450]
+After Suzu joins, talk to the
+man outside the food shop
+in Olive Village: what
+does he treat you to?
+
+[06184.23554]
+Real Curry
+
+[06184.23567]
+Napolitan
+
+[06184.23578]
+Beef Stroganoff
+
+[06184.23597]
+Natto
+
+[06184.23606]
+No.
+Those who like it can't resist...
+
+[06184.23650]
+At the Euclid Castle tournament,
+which pair bursts in on a gust?
+
+[06184.23722]
+Dozo & Okiyo
+
+[06184.23735]
+Dozo & Oshin
+
+[06184.23748]
+Sakuzo&Okiyo
+
+[06184.23761]
+Sakuzo&Oshin
+
+[06184.23774]
+Dozo&Kinzo
+
+[06184.23785]
+Oshin & Omiyo
+
+[06184.23800]
+Sorry, time's up.
+Those two are Suzu's
+parents...
+
+[06184.23853]
+In the Dark Cave your shadow
+is a clock hand. The tablet
+said "set the fire at" what
+time?
+
+[06184.23953]
+4:48
+
+[06184.23964]
+5:02
+
+[06184.23973]
+12:00
+
+[06184.23986]
+8:30
+
+[06184.23997]
+00:00
+
+[06184.24010]
+No.
+That is exactly noon...
+
+[06184.24046]
+No.
+When the date turns...
+
+[06184.24076]
+Where must you go to
+make Aifread's treasure
+appear?
+
+[06184.24155]
+Dhaos's
+
+[06184.24164]
+Midgard Castle
+
+[06184.24179]
+Zodiac Tower
+
+[06184.24192]
+Morrison's
+
+[06184.24205]
+Elf colony
+
+[06184.24218]
+No.
+Kin of the great cleric
+Morrison lived there...
+
+[06184.24273]
+How many spots hold
+Aifread's treasure?
+
+[06184.24313]
+22
+
+[06184.24318]
+20
+
+[06184.24323]
+25
+
+[06184.24328]
+30
+
+[06184.24333]
+120
+
+[06184.24340]
+When Arche broke elven law
+and was nearly put to death,
+who begged for her to be spared?
+
+[06184.24435]
+Inn lady
+
+[06184.24444]
+Arms lady
+
+[06184.24455]
+Armor man
+
+[06184.24466]
+Bar man
+
+[06184.24475]
+Shop child
+
+[06184.24488]
+Right!
+Yes. That woman was Arche's
+own mother...
+
+[06184.24551]
+Beat the Stone Ace and
+you earn the title "Stone
+Ace". How does his own
+name change with it?
+
+[06184.24661]
+Ex-Stone Ace
+
+[06184.24676]
+Old Stone Ace
+
+[06184.24691]
+True Stone Ace
+
+[06184.24706]
+First Stone Ace
+
+[06184.24723]
+Past Stone Ace
+
+[06184.24738]
+Right!
+Beat him and he
+asks for a rematch
+
+[06184.24781]
+Which of Suzu's artes steals
+items from monsters?
+
+[06184.24849]
+Mirage
+
+[06184.24856]
+Leaf
+
+[06184.24861]
+Gale
+
+[06184.24866]
+Toad
+
+[06184.24873]
+Copy
+
+[06184.24878]
+That arte
+is for fleeing the foe
+
+[06184.24916]
+That arte
+strikes with blades of air
+
+[06184.24960]
+That arte
+strikes with a giant frog
+
+[06184.25008]
+That arte
+makes doubles of Suzu
+
+[06184.25054]
+Which of these items
+does not really exist?
+
+[06184.25108]
+Textbook
+
+[06184.25121]
+Jong Tile
+
+[06184.25132]
+Letter of Intro
+
+[06184.25149]
+Red Card
+
+[06184.25162]
+Cards
+
+[06184.25171]
+Right!
+There was a "Permit", though
+
+[06184.25211]
+Which of these monsters
+does not really exist?
+
+[06184.25267]
+DEADEYE?
+
+[06184.25284]
+DARKEYE?
+
+[06184.25301]
+ROAMEYE?
+
+[06184.25318]
+SEALEYE?
+
+[06184.25335]
+Which title comes from
+Chester's training event
+at the inn in the future?
+
+[06184.25412]
+Striver
+
+[06184.25423]
+Busy Bee
+
+[06184.25436]
+Sore Loser
+
+[06184.25449]
+Bow Master
+
+[06184.25464]
+What is the name of
+Cress's aunt?
+
+[06184.25502]
+Juan
+
+[06184.25511]
+Joan
+
+[06184.25520]
+Jaan
+
+[06184.25529]
+Maria
+
+[06184.25536]
+Marima
+
+[06184.25543]
+Arima
+
+[06184.25550]
+Aria
+
+[06184.25557]
+Meke
+
+[06184.25562]
+Which item does Chester
+need to earn the title
+"Kind Big Brother"?
+
+[06184.25638]
+Apple
+
+[06184.25645]
+Apple Gel
+
+[06184.25658]
+Ehime Orange
+
+[06184.25671]
+Orange Gel
+
+[06184.25684]
+Which phantom dish can
+only Ami make?
+
+[06184.25728]
+Sandwich
+
+[06184.25741]
+Mabo Tofu
+
+[06184.25756]
+Moana Curry
+
+[06184.25769]
+On the mountain path Cress takes
+to his uncle's in Euclid, what
+blocks the north entrance?
+
+[06184.25868]
+Idol
+
+[06184.25873]
+Rock
+
+[06184.25878]
+Hole
+
+[06184.25883]
+Tree
+
+[06184.25888]
+In the city of Euclid, which
+dish does the cook at the
+food shop "Marion" teach?
+
+[06184.25971]
+Cabbage Rolls
+
+[06184.25986]
+Yakisoba Bun
+
+[06184.25999]
+Sanuki Udon
+
+[06184.26012]
+Shut in the dungeon,
+Cress saw a body.
+Whose was it?
+
+[06184.26083]
+Mint's mom
+
+[06184.26094]
+Sakuraba
+
+[06184.26103]
+Head
+
+[06184.26108]
+Cress' uncle
+
+[06184.26121]
+What did the man Morrison
+was chasing look like?
+
+[06184.26177]
+Dark armor
+
+[06184.26188]
+Red mask
+
+[06184.26201]
+Golden hair
+
+[06184.26214]
+Blue beard
+
+[06184.26225]
+The name of the man
+Morrison chased was?
+
+[06184.26269]
+Mars Uldole
+
+[06184.26288]
+Robert Dace
+
+[06184.26305]
+Barbatos Goetia
+
+[06184.26328]
+Claus F. Lester
+
+[06184.26350]
+What is needed to unseal
+the door that leads to
+the catacombs?
+
+[06184.26415]
+Wraith Ruby
+
+[06184.26428]
+Wraith Sapphire
+
+[06184.26445]
+Wraith Gold
+
+[06184.26460]
+Wraith Topaz
+
+[06184.26475]
+Who was the chief who
+founded Belladam village?
+
+[06184.26525]
+Lenios
+
+[06184.26534]
+Kitamori
+
+[06184.26543]
+Demitel
+
+[06184.26552]
+Kanbara
+
+[06184.26563]
+The mountain path sign you
+can read in the past says
+what?
+
+[06184.26632]
+North way: danger!
+
+[06184.26651]
+East way: danger!
+
+[06184.26670]
+West way: danger!
+
+[06184.26689]
+South way: danger!
+
+[06184.26708]
+On what condition did the
+summoner Claus join?
+
+[06184.26764]
+Help his research
+
+[06184.26783]
+Feed him till full
+
+[06184.26806]
+Go and beat a monster
+
+[06184.26833]
+Show him a dance
+
+[06184.26850]
+What is needed to go deeper
+into Lone Valley?
+
+[06184.26906]
+Rope and pickaxe
+
+[06184.26923]
+Spade and bucket
+
+[06184.26940]
+Toy duck
+
+[06184.26957]
+Cutter
+
+[06184.26966]
+Where is the cook who
+teaches French Toast?
+
+[06184.27026]
+Under Hamel's bridge
+
+[06184.27047]
+On Venezia's bridge
+
+[06184.27068]
+By Euclid's bridge
+
+[06184.27091]
+Past Otsuka's bridge
+
+[06184.27112]
+What is needed for
+a pact with Sylph?
+
+[06184.27160]
+Opal Ring
+
+[06184.27175]
+Sword
+
+[06184.27182]
+Gold chain
+
+[06184.27193]
+Cash
+
+[06184.27198]
+Which power do spirits
+need to live here, and
+is the source of magic?
+
+[06184.27273]
+Mana
+
+[06184.27278]
+Kana
+
+[06184.27283]
+Luna
+
+[06184.27288]
+Lina
+
+[06184.27293]
+Who was the only survivor
+of the ruined town of Hamel?
+
+[06184.27349]
+Rhea
+
+[06184.27354]
+Lisa
+
+[06184.27359]
+Linda
+
+[06184.27366]
+How do you reach the weapon and
+armor shops in Venezia?
+
+[06184.27430]
+A ferry for 30 Gald
+
+[06184.27455]
+A ferry for 2 Gald
+
+[06184.27478]
+A ferry for 400 Gald
+
+[06184.27505]
+A ferry for 5,000 Gald
+
+[06184.27534]
+What is the reward for
+saving Arche?
+
+[06184.27582]
+Aquamarine and ruby
+
+[06184.27603]
+A ring
+
+[06184.27612]
+Secret word
+
+[06184.27625]
+Who earns the title
+"Heavy Drinker"?
+
+[06184.27667]
+Where in Alvanista do you
+get the permit to enter
+the Moria Mine?
+
+[06184.27736]
+Guild "Panic"
+
+[06184.27761]
+Guild "Cossack"
+
+[06184.27786]
+Guild "Trick"
+
+[06184.27811]
+Guild "Trip"
+
+[06184.27836]
+Who sells the secret word
+needed to go to the
+Spirit Cave?
+
+[06184.27907]
+Sakuraya
+
+[06184.27917]
+Rokuraba
+
+[06184.27926]
+Sakuroba
+
+[06184.27935]
+What does a "Rune Bottle" make
+of a "Leather Mantle"?
+
+[06184.28009]
+Aqua Mantle
+
+[06184.28022]
+Shock Mantle
+
+[06184.28037]
+Star Mantle
+
+[06184.28050]
+Fire Mantle
+
+[06184.28067]
+How much Gald does it take to
+get all four chests in the store
+of the shop "Tenderloin"?
+
+[06184.28160]
+230,000 Gald
+
+[06184.28179]
+10,000 Gald
+
+[06184.28196]
+500 Gald
+
+[06184.28209]
+198,000 Gald
+
+[06184.28228]
+What item does a "Rune
+Bottle" make of a
+"Mantle"?
+
+[06184.28301]
+Flare Mantle
+
+[06184.28314]
+Thunder Mantle
+
+[06184.28329]
+Elemental Mantle
+
+[06184.28348]
+What does a Panacea Bottle do?
+
+[06184.28385]
+Cures ailments
+
+[06184.28404]
+TP heal
+
+[06184.28413]
+HP heal
+
+[06184.28422]
+Attack up
+
+[06184.28433]
+Which item, when equipped, gives
+manual control in battle and shines
+in jump attacks and combos?
+
+[06184.28540]
+Combo Counter
+
+[06184.28557]
+Engage Ring
+
+[06184.28574]
+Which item lets Custom
+show your combos?
+
+[06184.28636]
+Technical Counter
+
+[06184.28657]
+Combo Master
+
+[06184.28672]
+What was Edward
+collecting?
+
+[06184.28716]
+Basilisk Scale
+
+[06184.28733]
+Lenses
+
+[06184.28740]
+Tuna Gel
+
+[06184.28751]
+Broom
+
+[06184.28758]
+What is Arche's
+mother's name?
+
+[06184.28794]
+Luche
+
+[06184.28803]
+Rutie
+
+[06184.28814]
+Fruche
+
+[06184.28825]
+Zodiac Tower's fifth
+floor wants which song?
+
+[06184.28873]
+Gloomy
+
+[06184.28880]
+Quiet
+
+[06184.28889]
+Rousing
+
+[06184.28900]
+Merry
+
+[06184.28909]
+What does Arche get from
+Leisen as a keepsake
+of Edward?
+
+[06184.28982]
+Indignation spellbook
+
+[06184.29007]
+Old photo
+
+[06184.29022]
+Vow ring
+
+[06184.29033]
+Cursed belt
+
+[06184.29048]
+What do you get in
+exchange for "Melon"
+and "Kelp"?
+
+[06184.29111]
+Green Card
+
+[06184.29126]
+Yellow Card
+
+[06184.29141]
+Black Card
+
+[06184.29156]
+Who is Trinicus D.
+Morrison's grandchild?
+
+[06184.29199]
+Aifread
+
+[06184.29212]
+In Fenrir's church, who
+sells the "Flame Charm"
+and the "Ice Charm"?
+
+[06184.29304]
+Soul
+
+[06184.29309]
+Monk
+
+[06184.29314]
+Sister
+
+[06184.29323]
+A peddler
+
+[06184.29334]
+Suzu's father's name is?
+
+[06184.29363]
+Hanz
+
+[06184.29368]
+Which animal strays into the
+food shops "Marion" and
+"Ajio" in the city of Euclid?
+
+[06184.29459]
+Rabbit
+
+[06184.29466]
+Cat
+
+[06184.29471]
+Wood mouse
+
+[06184.29482]
+Who teaches piano to Chelsea,
+Venezia's mayor's grandchild?
+
+[06184.29546]
+At the ninja village spring,
+who peeped at the women?
+
+[06184.29614]
+The boss
+
+[06184.29623]
+Peep hero
+
+[06184.29634]
+Which ninja does Suzu fight
+fifth in the Trial Cave?
+

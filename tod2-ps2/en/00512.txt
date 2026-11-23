@@ -1,0 +1,24 @@
+[00512.001]
+Hmm...
+
+[00512.002]
+What's up, {NAME:01 00 00 00}? Pulling a hard face... Something bothering you?
+
+[00512.003]
+You know... how we once lit dead leaves with a Lens we'd found and baked sweet potatoes? With a Lens big enough to cover a town, how many helpings could you bake, I wonder.
+
+[00512.004]
+{NAME:01 00 00 00}... you could show a little unease, or some sense of...
+
+[00512.005]
+It's fine. We're all together.
+
+[00512.006]
+Haha! Leave him, {NAME:04 00 00 00}. That's how {NAME:01 00 00 00} ought to be.
+
+[00512.007]
+Yes, that's true.
+
+[00512.008]
+Hm? What's so funny?
+

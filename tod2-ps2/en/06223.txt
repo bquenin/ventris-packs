@@ -1,0 +1,51 @@
+[06223.4788]
+Igtenos's room
+
+[06223.4807]
+Dymlos's room
+
+[06223.4824]
+Karell's room
+
+[06223.4839]
+Ops
+
+[06223.4846]
+Barracks
+
+[06223.4859]
+{NAME:06 00 00 00}'s den
+
+[06223.4871]
+Which room was this?
+
+[06223.4896]
+Right!
+A brainy room for a
+master of intel
+
+[06223.4945]
+Wrong.
+Dymlos's room was
+a bit bigger, I think
+
+[06223.4996]
+No.
+Close, though
+
+[06223.5016]
+Oh come on,
+it can't be that!
+
+[06223.5050]
+Too fancy for
+that, no?
+
+[06223.5078]
+For {NAME:06 00 00 00}'s room,
+too normal, no?
+
+[06223.5113]
+Too bad, time's up.
+A bit hard, maybe?
+

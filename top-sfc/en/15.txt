@@ -1,0 +1,426 @@
+[15.000]
+"I wish the tournament would hurry up and start."
+
+[15.001]
+"Aren't you entering, mister?"
+
+[15.002]
+"Damn it! If only I were feeling up to it, I'd be out there myself!"
+
+[15.003]
+"If only I were ten years younger."
+
+[15.004]
+"Muscular men are just {SPEED:10}so dreamy{SPEED:FF}."
+
+[15.005]
+"I wish they'd get on and start."
+
+[15.006]
+"This is the one thing I look forward to, truly.{PAGE}
+Hey! Get on with it and start!"
+
+[15.007]
+"Anyone can walk in and enter this tournament, so you never know when a match will begin."
+
+[15.008]
+"It's a full house today."
+
+[15.009]
+"Hardly anyone wins eight in a row these days. It's just too hard."
+
+[15.010]
+"Care for some tea?"
+
+[15.011]
+"Move over! I can't see!"
+
+[15.012]
+"There aren't many challengers today."
+
+[15.013]
+"A juice, please.{PAGE}
+Huh? This isn't the refreshment stand?"
+
+[15.014]
+"The other day there was someone fighting who was green all over and carried a trident. Hmm, but was that a person, I wonder?"
+
+[15.015]
+"The other day there was someone who attacked by stretching out his arms and legs and neck. He was shouting 'Berabo!'"
+
+[15.016]
+"I can see monsters among the challengers too. It seems not every monster is under Dhaos's control."
+
+[15.017]
+"Why don't you enter the tournament too?"
+
+[15.018]
+"I can't see their faces for the pillar..."
+
+[15.019]
+"They fight monsters, but it doesn't seem anyone is out to take a life. Nobody has died yet, after all."
+
+[15.020]
+"These are the very best seats."
+
+[15.021]
+"What will it be, what will it be?"
+
+[15.022]
+"That pillar's in the way!"
+
+[15.023]
+"A lot of the people here have much the same face, don't they?"
+
+[15.024]
+"But how do the castle folk handle those monsters? Isn't it dangerous?"
+
+[15.025]
+"There was an interesting piece in yesterday's paper. It seems a cave leading to the demon world was found in the Moria Mine."
+
+[15.026]
+"There was an interesting piece in yesterday's paper.{PAGE}
+According to some very old documents, the Moria Mine holds the remains of a dwarven settlement, besides the old workings found so far."
+
+[15.027]
+"I'm the wife."
+
+[15.028]
+"We came to watch as a family."
+
+[15.029]
+"I'm Grandma!"
+
+[15.030]
+"I'm the daughter!"
+
+[15.031]
+"I'm the wife's sister."
+
+[15.032]
+"I'm the husband's twin brother."
+
+[15.033]
+"I'm the wife's sister's mother."
+
+[15.034]
+"I'm the wife's sister's daughter!"
+
+[15.035]
+"I'm a total stranger!"
+
+[15.036]
+"Lovely weather. A perfect day for a tournament."
+
+[15.037]
+"My blood boils to see the tournament!!
+My hands cry out to cheer them on!!
+Uoooooooooooh!!!"
+
+[15.038]
+"That young man next to me is noisy."
+
+[15.039]
+"A challenger has appeared!!"
+
+[15.040]
+"The challenger's name is {クレス}!
+He comes from... er, Toltus? That's a very old place name... Ah, er, the town of Miguel!"
+
+
+[15.041]
+Last time he showed us a truly splendid fight. What kind of fight will he give us today!?
+
+[15.042]
+His school is the Albane style! He is the hero who travels to bring down Dhaos himself!!
+
+[15.043]
+{アーチェ}
+"{クレス}, go for it!!"
+{チェスター}
+"Don't you dare lose!"
+
+[15.044]
+"Then let the battle begin!
+Here comes number 1!!"
+
+[15.045]
+"Oh no! {クレス} has fallen!!"
+
+[15.046]
+{クレス}
+"Right! Next!!"
+
+[15.047]
+{クレス}
+"Yeaaaaaah!!"
+
+[15.048]
+{クレス}
+"OK!"
+
+[15.049]
+{クレス}
+"You're ten years too early!"
+
+[15.050]
+{クレス}
+"Heh, got you fired up, didn't it?"
+
+[15.051]
+{クレス}
+"Come back when you're ready!!"
+
+[15.052]
+{クレス}
+"You are already dead."
+
+[15.053]
+{クレス}
+"Perfect!!"
+
+[15.054]
+"He's done it!
+Eight wins in a row at last!!
+Congratulations, {クレス}!!{PAGE}
+So that makes eight in a row... But there is one more monster, a strong one. Will you take it on!?"
+
+[15.055]
+{PAGE}
+???
+"I have been waiting for you, {クレス}!!"{PAGE}
+{クレス}
+"Wh-who's there!?"
+
+[15.056]
+???
+"By Lord Dhaos's command, I have come to kill you!"{PAGE}
+{クレス}
+"A servant of Dhaos!! N-no, the ninja seen around Euclid..."{PAGE}
+"Don't tell me you're Suzu's parents, from the ninja village!?"{PAGE}
+Okiyo, Suzu's mother
+"Are you ready to die!?"{PAGE}
+{クレス}
+"W-wait! Dhaos is only controlling you!!"
+
+[15.057]
+???
+"Th-that is so... Q-quickly, kill us!!"
+
+[15.058]
+{クレス}
+(Wh-what was that just now!?){PAGE}
+Dozo, Suzu's father
+"No more words!!"
+
+[15.059]
+{ミント}
+"{クレス}!!"
+{アーチェ}
+"Somebody open this up, quickly!!"{PAGE}
+{チェスター}
+"{クレス}, hang in there!!"
+{クラース}
+"{クレス}!!"
+
+[15.060]
+Dozo
+"Heh heh heh, now to finish it."{PAGE}
+"Perish in darkness!!"
+
+[15.061]
+Okiyo
+"Who are you!?"{PAGE}
+Suzu
+"Father, Mother, please, kill no more!"{PAGE}
+Dozo
+"Father? Mother? I know no such child! If you mean to stand in our way,"{PAGE}
+"I will cut you down!!"{PAGE}
+Suzu
+"...The sin of the parents is the sin of the clan. And the clan's sin must be ended by the clan's own hand!!"{PAGE}
+"Igaguri ninja art: Body Double!!"
+
+[15.062]
+Dozo
+"Not bad..."{PAGE}
+"There!!"
+
+[15.063]
+Dozo
+"What!?"
+
+[15.064]
+Dozo
+"S-Suzu..."
+
+[15.065]
+Suzu
+"Father, Mother!!"
+
+[15.066]
+Suzu
+"Father, Mother, I'm sorry. I'm so sorry..."{PAGE}
+Dozo
+"It is all right, Suzu. You kept the clan's law to the end. Well done, well done. N-now... ugh..."{PAGE}
+Suzu
+"Father, hold on..."{PAGE}
+Dozo
+"Now I can go to hell with my mind at ease..."{PAGE}
+Okiyo
+"Suzu, thank you...
+And Sir {クレス}, I do not know how to thank you..."
+
+[15.067]
+Suzu
+"{クレス}, hold on..."{PAGE}
+
+
+[15.068]
+{クレス}
+"Yes... I-I'm all right..."{PAGE}
+"Suzu, I'm sorry... If only I had been stronger, surely..."{PAGE}
+Suzu
+"There is nothing to apologise for. This too is the law of the ninja. A ninja... a ninja cannot serve without being heartless.
+I must go home now... Please come to the ninja village again. I want to thank you properly..."{PAGE}
+"Farewell."
+
+[15.069]
+{クレス}
+"D-did I do it...?"
+
+[15.070]
+{クレス}
+"What!?"{PAGE}
+Dozo
+"Too soft!!"
+
+[15.071]
+Kunoichi
+"We ninja masters cannot be beaten!!"{PAGE}
+Dozo
+"The likes of you could never defeat us!!"{PAGE}
+{クレス}
+"Ugh... Then I'll just fight until you fall!"{PAGE}
+???
+"Wait!"
+
+[15.072]
+{クレス}
+"You're...
+Suzu, from the ninja village!?"
+
+[15.073]
+???
+"S-Suzu..."
+
+[15.074]
+Suzu
+"Father, Mother, please, kill no more!!"
+
+[15.075]
+???
+"S-Suzu, y-you must kill us!!"
+
+[15.076]
+Dozo
+"S-silence!! Damn, the brainwashing did not take hold completely!"{PAGE}
+Suzu
+"Father{SPEED:10}...{SPEED:FF}"{PAGE}
+"I{SPEED:10}...{SPEED:FF} cannot..."
+
+[15.077]
+???
+"U... gh, uoooooooooh!!!"
+
+[15.078]
+Dozo
+"Wh-what, m-my body will not obey me..."{PAGE}
+"S-stooooop!!!"
+
+[15.079]
+Suzu
+"Father, Mother!!"{PAGE}
+{クレス}
+"N-no..."{PAGE}
+Dozo
+"Th-this cannot be..."
+
+[15.080]
+Suzu
+"Fatheeer, Motheeer!!"{PAGE}
+"How, how could this..."{PAGE}
+Dozo
+"O-our sins must be paid for by our own hands... There is no need... to stain Suzu's..."{PAGE}
+Okiyo
+"We never could be proper parents to you... I am sorry... But... seeing your tears... has set my heart at ease..."{PAGE}
+Dozo
+"Now we too... can go to hell... with no regrets..."
+
+[15.081]
+{クレス}
+"Suzu, I don't know what to say... I have done something that can never be undone..."{PAGE}
+Suzu
+"No, please do not let it weigh on you. You have nothing to apologise for, {クレス}."{PAGE}
+
+
+[15.082]
+"This too is the law of the ninja. A ninja... a ninja cannot serve without being heartless. You are the one who saved my parents.
+I must go home now... Please come to the ninja village again. I want to thank you properly..."{PAGE}
+"Farewell."
+
+[15.083]
+"Th-there has been an incident! The tournament committee has ruled this challenge void! W-we ask for your understanding!"
+
+[15.084]
+{クラース}
+"Well, that turned into something dreadful."{PAGE}
+{チェスター}
+"It couldn't be helped. {クレス} did what he could, in his own way."{PAGE}
+{クレス}
+"Yes... But because of me, Suzu's parents..."{PAGE}
+{ミント}
+"{クレス}, don't blame yourself so..."{PAGE}
+{アーチェ}
+"Then let's go to the ninja village again. To tell Suzu we're sorry."
+
+[15.085]
+Are you really giving up!?
+If you want to think again, now is the time!!
+Will you take it on!?
+
+[15.086]
+Are you really sure!?
+If you want to turn back, now is the time!!
+Will you take it on!?
+
+[15.087]
+I see. A life is not a thing to throw away.{PAGE}
+Everyone, a big round of applause for {クレス}!!
+
+[15.088]
+"And now, number {NUM:8062}!!"
+
+[15.089]
+All right, I like you!! In honour of your courage, we will restore your strength!!
+
+[15.090]
+"An Elixir and a Panacea Bottle."
+
+[15.091]
+{COLOR:03}{クレス} is fully restored!{COLOR:02}{PAGE}
+"Then here we go!!
+Come on, music!!"
+
+[15.092]
+"He's done it!
+He's finally done it!!{PAGE}
+One more hero's name will go down in the history of this kingdom!!"
+
+[15.093]
+{クレス}
+"That's a bit much..."
+
+[15.094]
+Suzu
+"Father, Mother..."
+

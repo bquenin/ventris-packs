@@ -1,0 +1,3 @@
+[01262.001]
+{NAME:03 00 00 00}! A town, to the east! So that's Aigrette...
+

@@ -1,0 +1,9 @@
+[00766.001]
+Hey, {NAME:06 00 00 00}. You took a man's name on purpose to fool people in the future, right?
+
+[00766.002]
+Mm, there are twenty-three other reasons, but that's about the one even you could follow.
+
+[00766.003]
+Even that's beyond me...
+

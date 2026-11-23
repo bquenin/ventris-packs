@@ -1,0 +1,42 @@
+[00980.001]
+So, what now?
+
+[00980.002]
+That's obvious. We look for that girl!
+
+[00980.003]
+Look for her... With not one clue? Going to part the grass and search?
+
+[00980.004]
+What else can we do, there's no other way! Or have you got some good idea, {NAME:03 00 00 00}!?
+
+[00980.005]
+At times like this you use your head. Listen, suppose she meant it when she said she's "looking for a hero". The living people called heroes are the Four Heroes, who saved the world in the late uprising. First your parents, Stahn and Rutee. Then King Woodrow of Phandaria, famed as the Hero King. And Philia of the Order of Atamoni, at the Great Temple of Straylize.
+
+[00980.006]
+Uh-huh.
+
+[00980.007]
+Most likely she'll go to see one of those four. And we can rule out two. One is Stahn, whose whereabouts nobody knows. And she didn't come to Rutee either. Rule her out too.
+
+[00980.008]
+So... that leaves King Woodrow and Philia.
+
+[00980.009]
+Now a question. How do you get to Phandaria, where King Woodrow is?
+
+[00980.010]
+You take a ship from the harbor at Aigrette, right... Oh, I get it!
+
+[00980.011]
+Right. Whether it's Philia or King Woodrow, to see them she has to pass through Aigrette.
+
+[00980.012]
+Then first let's go to Aigrette!
+
+[00980.013]
+That settles it, we're off. From here to Aigrette, the usual way is over the bridge west of Darilsheid, then on through Harmentz Valley to the north.
+
+[00980.014]
+So we head for Darilsheid! Right! Let's go, {NAME:03 00 00 00}.
+

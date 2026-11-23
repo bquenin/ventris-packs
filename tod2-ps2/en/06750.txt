@@ -1,0 +1,614 @@
+[06750.001]
+Chelsea's Hut
+
+[06750.002]
+Chelsea's Hut
+
+[06750.003]
+Chelsea's Hut
+
+[06750.004]
+Chelsea
+
+[06750.005]
+Girlish... Hehe, maybe so! He is my "prince forever", after all.
+
+[06750.006]
+Chelsea
+
+[06750.007]
+...But it's true. The you inside me will always be a prince.
+
+[06750.008]
+Chelsea
+
+[06750.009]
+...Woodrow.
+
+[06750.010]
+Chelsea's Hut
+
+[06750.011]
+A small house
+
+[06750.013]
+Obtained {08:EB 00 00 00}.
+
+[06750.015]
+A picture of a young man is inside. ...It looks like King Woodrow in his young days.
+
+[06750.017]
+There was a book in the cupboard. "A Hundred Ways to Really Talk with Mr. Zelkova"
+
+[06750.019]
+A man's blue armor is inside. It is very old. Whose could it be?
+
+[06750.021]
+...Why are there two beds? For guests, perhaps? Even so, it seems odd to put the two side by side...
+
+[06750.022]
+Chelsea
+
+[06750.023]
+{NAME:01 00 00 00}, you've been such a help to me. Really, thank you.
+
+[06750.024]
+Chelsea
+
+[06750.025]
+Take good care of the bow! Its power comes guaranteed!
+
+[06750.026]
+Young Woman
+
+[06750.027]
+A visitor, in a place like this! What is it? Have you lost your way?
+
+[06750.029]
+No, it's not that, exactly...
+
+[06750.031]
+Miss, do you live here by yourself?
+
+[06750.032]
+Young Woman
+
+[06750.033]
+Not "Miss". It's Chelsea. Chelsea Torn.
+
+[06750.034]
+Chelsea
+
+[06750.035]
+There's something I have to do here.
+
+[06750.037]
+In a place like this?
+
+[06750.038]
+Chelsea
+
+[06750.039]
+Yes, something that can only be done here.
+
+[06750.040]
+Chelsea
+
+[06750.041]
+There used to be a town here. It wasn't very big, but to me it's a town full of memories.
+
+[06750.043]
+There was really a town here? There's nothing now, is there?
+
+[06750.044]
+Chelsea
+
+[06750.045]
+No, it's gone. Since eighteen years ago.
+
+[06750.047]
+I see... It was destroyed by Belcrant in the late uprising...
+
+[06750.048]
+Chelsea
+
+[06750.049]
+Yes. It took a direct hit from Belcrant and was lost. The town's name was "Janos".
+
+[06750.050]
+Chelsea
+
+[06750.051]
+I mean to build that town again.
+
+[06750.053]
+Why try to put the town back? Isn't it awfully hard?
+
+[06750.054]
+Chelsea
+
+[06750.055]
+Yes, it is hard. Belcrant left the land a waste.
+
+[06750.056]
+Chelsea
+
+[06750.057]
+But... even so, for the people who lived here it is still home.
+
+[06750.058]
+Chelsea
+
+[06750.059]
+The grief of losing your home... the house you should go back to... I know it very well...
+
+[06750.060]
+Chelsea
+
+[06750.061]
+So I want to make them a house to come back to.
+
+[06750.062]
+Chelsea
+
+[06750.063]
+And let them live once more with the people they hold dear.
+
+[06750.065]
+Once more, with the people they hold dear...
+
+[06750.066]
+Chelsea
+
+[06750.067]
+Is something the matter?
+
+[06750.069]
+No... I just sort of thought... maybe I'm the same.
+
+[06750.070]
+Chelsea
+
+[06750.071]
+I see... So you're trying to get something back too.
+
+[06750.073]
+I'm not really sure... but maybe I am.
+
+[06750.074]
+Chelsea
+
+[06750.075]
+Then that makes us comrades. Let's both do our best!
+
+[06750.077]
+Yeah!
+
+[06750.078]
+Chelsea
+
+[06750.079]
+You and I both live to get back something that was lost. Comrades, I suppose.
+
+[06750.080]
+Chelsea
+
+[06750.081]
+Let's both do our best! I hope you get back what you lost, too.
+
+[06750.082]
+Chelsea
+
+[06750.083]
+Error
+
+[06750.084]
+Young Woman
+
+[06750.085]
+A visitor, in a place like this! What is it? Have you lost your way?
+
+[06750.087]
+No, it's not that, exactly...
+
+[06750.089]
+Miss, do you live here by yourself?
+
+[06750.090]
+Young Woman
+
+[06750.091]
+Yes, I do. There's something I have to do here.
+
+[06750.093]
+In a place like this?
+
+[06750.094]
+Young Woman
+
+[06750.095]
+Yes, something that can only be done here.
+
+[06750.096]
+Young Woman
+
+[06750.097]
+There used to be a town here. It wasn't very big, but to me it's a town full of memories.
+
+[06750.099]
+There was really a town here? There's nothing now, is there?
+
+[06750.100]
+Young Woman
+
+[06750.101]
+No, it's gone. Since eighteen years ago.
+
+[06750.103]
+I see... It was destroyed by Belcrant in the late uprising...
+
+[06750.105]
+Eighteen years ago... So, by Belcrant, in the uprising?
+
+[06750.106]
+Young Woman
+
+[06750.107]
+Yes. It took a direct hit from Belcrant and was lost. The town's name was "Janos".
+
+[06750.108]
+Young Woman
+
+[06750.109]
+I mean to build that town again.
+
+[06750.111]
+Why try to put the town back? Isn't it awfully hard?
+
+[06750.112]
+Young Woman
+
+[06750.113]
+Yes, it is hard. Belcrant left the land a waste.
+
+[06750.114]
+Young Woman
+
+[06750.115]
+But... even so, for the people who lived here it is still home.
+
+[06750.116]
+Young Woman
+
+[06750.117]
+The grief of losing your home... the house you should go back to... I know it very well...
+
+[06750.118]
+Young Woman
+
+[06750.119]
+So I want to make them a house to come back to.
+
+[06750.121]
+I see...
+
+[06750.122]
+Young Woman
+
+[06750.123]
+I ta~lk big like that, but the truth is I have trouble enough just keeping myself.
+
+[06750.124]
+Young Woman
+
+[06750.125]
+If I could live off the land it wouldn't be so bad, but with the outside in that state, well.
+
+[06750.126]
+Young Woman
+
+[06750.127]
+So I make bows, sell them in Heidelberg, and do my shopping with the money.
+
+[06750.129]
+You can make bows, Miss?
+
+[06750.130]
+Young Woman
+
+[06750.131]
+I may not look it, but I know my bows. Making them, of course, and shooting them too.
+
+[06750.132]
+Young Woman
+
+[06750.133]
+My grandpa was such a master of the bow they said "Phandaria has that man".
+
+[06750.135]
+Wow...! Then if I asked, would you make me one!?
+
+[06750.136]
+Young Woman
+
+[06750.137]
+Of course!
+
+[06750.138]
+Young Woman
+
+[06750.139]
+...I'd like to say yes, but right now I'm giving myself to rebuilding the town, so I only make enough to live on.
+
+[06750.140]
+Young Woman
+
+[06750.141]
+Oh, but if you'll help with the rebuilding, I could make you one.
+
+[06750.143]
+Help with the rebuilding? What would I have to do?
+
+[06750.144]
+Young Woman
+
+[06750.145]
+I do my shopping alone now, you see? There's quite a lot that's too heavy, or too many, for me to carry.
+
+[06750.146]
+Young Woman
+
+[06750.147]
+Buy me things like that, and I'll make you a bow!
+
+[06750.149]
+Got it!
+
+[06750.150]
+Young Woman
+
+[06750.151]
+Then we have a deal! I'm counting on you! Um...
+
+[06750.153]
+{NAME:01 00 00 00}! {NAME:01 00 00 00} Dunamis!
+
+[06750.154]
+Chelsea
+
+[06750.155]
+I'm Chelsea Torn. Nice to meet you, {NAME:01 00 00 00}!
+
+[06750.156]
+I'm sorry, when you've only just brought these... but may I ask you again?
+
+[06750.157]
+{NAME:01 00 00 00}, won't you buy the next thing for me?
+
+[06750.158]
+Chelsea
+
+[06750.159]
+First, tools for clearing snow. {08:39 00 00 00}: I'd like you to buy {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00} of them.
+
+[06750.160]
+Next, tools for digging a well. {08:3A 00 00 00}: please buy {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00} of them.
+
+[06750.161]
+Tools for building a hut. {08:3B 00 00 00}: {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00} of them, if you please.
+
+[06750.162]
+This time, tools for building a hut. {08:3C 00 00 00}: I'd like you to buy {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00} of them.
+
+[06750.163]
+Tools for building a hut. {08:3D 00 00 00}: I'd like you to bring {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00} of them.
+
+[06750.164]
+Chelsea
+
+[06750.166]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06750.167]
+Chelsea
+
+[06750.168]
+Thank you, as always.
+
+[06750.169]
+Chelsea
+
+[06750.170]
+You're a great help, {NAME:01 00 00 00}.
+
+[06750.171]
+Chelsea
+
+[06750.172]
+Well then, I'm counting on you★
+
+[06750.173]
+Chelsea
+
+[06750.174]
+...Is that so. Then help me when you have the time.
+
+[06750.175]
+Chelsea
+
+[06750.176]
+{NAME:01 00 00 00}, have you got what I asked for?
+
+[06750.178]
+Sorry, Chelsea. What was I supposed to buy?
+
+[06750.179]
+Chelsea
+
+[06750.180]
+Now, you mustn't forget. Remember it properly.
+
+[06750.181]
+Chelsea
+
+[06750.182]
+{16:24 8E}: {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00} of them, please.
+
+[06750.184]
+This is it, right? Here!
+
+[06750.185]
+Chelsea
+
+[06750.186]
+Yes, yes, that's it! Thank you, that's a help!
+
+[06750.187]
+Chelsea
+
+[06750.188]
+...{NAME:01 00 00 00}, you've helped me such a lot.
+
+[06750.189]
+Chelsea
+
+[06750.190]
+It was a lot of bother, wasn't it? Truly, thank you.
+
+[06750.191]
+Chelsea
+
+[06750.192]
+By way of thanks, I've got a special bow ready this time. Take it.
+
+[06750.193]
+Chelsea
+
+[06750.194]
+Then here's your thank-you bow. Take it!
+
+[06750.196]
+Obtained {08:FF FF FF FF}.
+
+[06750.198]
+This bow... It's had a lot of use.
+
+[06750.199]
+Chelsea
+
+[06750.200]
+That bow, you see, was made for me by someone.
+
+[06750.201]
+Chelsea
+
+[06750.202]
+He was my grandpa's pupil, and he was ever so handsome!
+
+[06750.203]
+Chelsea
+
+[06750.204]
+With that bow, the two of us went all sorts of places. Hunting, and adventuring...
+
+[06750.206]
+A bow that precious... Is it really all right for me to have it?
+
+[06750.207]
+Chelsea
+
+[06750.208]
+It's because it's precious that I want you to have it. After all, {NAME:01 00 00 00}, you worked so hard.
+
+[06750.209]
+Chelsea
+
+[06750.210]
+And besides, even with the bow gone, the memories of him stay. So it's all right!
+
+[06750.212]
+What is he... doing now? Don't you go and see him?
+
+[06750.213]
+Chelsea
+
+[06750.214]
+He's somewhere the likes of me can't reach now... So I don't see him.
+
+[06750.215]
+Chelsea
+
+[06750.216]
+And besides, you know! Some things are better left as beautiful memories, aren't they?
+
+[06750.217]
+Chelsea
+
+[06750.218]
+Inside me, he is... my prince forever.
+
+[06750.220]
+...Chelsea, you're more girlish than I'd have thought.
+
+[06750.221]
+Chelsea
+
+[06750.222]
+Well, pardon me for being girlish!
+
+[06750.223]
+Chelsea
+
+[06750.224]
+...Anyway, take it.
+
+[06750.225]
+Chelsea
+
+[06750.226]
+It's the very best thanks I can give you, {NAME:01 00 00 00}.
+
+[06750.228]
+...Okay! Thank you, Chelsea!
+
+[06750.230]
+You were offered {08:FF FF FF FF}, but you are carrying too many to take it.
+
+[06750.231]
+Have a safe journey.
+
+[06750.232]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06750.233]
+Will you stay the night?
+
+[06750.235]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06750.236]
+Please rest well.
+
+[06750.237]
+Good morning.
+
+[06750.238]
+You do not have enough money.
+
+[06750.239]
+We look forward to seeing you again.
+
+[06750.244]
+Obtained {16:25 DE}.
+
+[06750.246]
+Obtained {08:FF FF FF FF}.
+
+[06750.248]
+Found {16:25 E6}, but you can carry no more.
+
+[06750.250]
+There is nothing here.
+

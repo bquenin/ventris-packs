@@ -1,0 +1,30 @@
+[00950.001]
+So, {NAME:01 00 00 00}, what now? Is there somewhere you want to go?
+
+[00950.002]
+Let's see............ um.
+
+[00950.003]
+You're the one who said "I want to go traveling". You must have a place or two in mind?
+
+[00950.004]
+Ahaha. The truth is, nothing at all... I mean, nobody knows when and where something fun is happening. So we go where the wind and the mood take us, and if something looks fun, we just get swept up in it...
+
+[00950.005]
+What, that again? ...Jeez, no plan at all, right down to the bone...
+
+[00950.006]
+Hmph! And have you decided where to go, {NAME:03 00 00 00}?
+
+[00950.007]
+I don't waste effort.
+
+[00950.008]
+Waste effort?
+
+[00950.009]
+Make a plan, and with you along there's no keeping to it.
+
+[00950.010]
+Hey! You've got no plans either!
+

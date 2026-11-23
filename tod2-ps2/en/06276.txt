@@ -1,0 +1,32 @@
+[06276.4788]
+Blue
+
+[06276.4793]
+Red
+
+[06276.4798]
+Wht
+
+[06276.4803]
+Blk
+
+[06276.4808]
+Yel
+
+[06276.4813]
+Grn
+
+[06276.4818]
+In the Straylize Ruins
+trap, what color was
+the "D"?
+
+[06276.4877]
+Right.
+
+[06276.4886]
+Wrong!
+
+[06276.4895]
+Time's up.
+

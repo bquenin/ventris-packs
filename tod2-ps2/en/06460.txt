@@ -1,0 +1,94 @@
+[06460.001]
+Heidelberg Castle: Woodrow's Room
+
+[06460.002]
+Heidelberg Castle
+
+[06460.003]
+Heidelberg Castle: Woodrow's Room
+
+[06460.005]
+King Woodrow's bed. Very luxurious...!
+
+[06460.006]
+Have a safe journey.
+
+[06460.007]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06460.008]
+Will you stay the night?
+
+[06460.010]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06460.011]
+Please rest well.
+
+[06460.012]
+Good morning.
+
+[06460.013]
+You do not have enough money.
+
+[06460.014]
+We look forward to seeing you again.
+
+[06460.019]
+Obtained {16:25 BA}.
+
+[06460.021]
+Obtained {08:FF FF FF FF}.
+
+[06460.023]
+Found {16:25 C2}, but you can carry no more.
+
+[06460.025]
+There is nothing here.
+
+[06460.027]
+Well-kept weapons are lined up. Every one looks like a costly piece.
+
+[06460.029]
+Battle-ready weapons are lined up, no doubt for use in an emergency.
+
+[06460.031]
+A keenly honed weapon. The work of a first-rate smith, surely.
+
+[06460.033]
+This weapon has a proper edge. It must be the real thing, not a work of art.
+
+[06460.035]
+Weapons used by the soldiers of Heidelberg Castle. The blades are honed without a single blemish.
+
+[06460.037]
+A huge suit of plate armor. It looks very heavy...
+
+[06460.039]
+Battle-ready armor. It is very elaborately made.
+
+[06460.041]
+Full-body armor made by beating out sheet metal. It is very elaborate. How much would one suit cost...
+
+[06460.043]
+A real suit of full armor. It gives off an overwhelming sense of menace...
+
+[06460.045]
+Suits of armor are lined up. They look like the real thing, battle-ready, not works of art.
+
+[06460.047]
+It looks like a piece of some age. ...Take care not to break it.
+
+[06460.049]
+Small items are lined up. Every one looks very costly.
+
+[06460.051]
+A royal castle, sure enough. Every small ornament is splendidly made.
+
+[06460.053]
+Splendid pieces are lined up...
+
+[06460.055]
+Antiques, perhaps. Pieces of some age are lined up.
+

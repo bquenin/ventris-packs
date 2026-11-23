@@ -1,0 +1,6 @@
+[00760.001]
+{NAME:06 00 00 00} being sent for... it's about Dymlos, isn't it.
+
+[00760.002]
+We'll know when we get there.
+

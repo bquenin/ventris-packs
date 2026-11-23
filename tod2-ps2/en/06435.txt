@@ -1,0 +1,974 @@
+[06435.001]
+Heidelberg
+
+[06435.002]
+Heidelberg
+
+[06435.003]
+Heidelberg
+
+[06435.004]
+Heidelberg
+
+[06435.005]
+Heidelberg
+
+[06435.007]
+The grocer is just round this corner. "Look Delicious!"
+
+[06435.009]
+A {08:03 00 00 00} came out of the snowman.
+
+[06435.011]
+Obtained {08:03 00 00 00}.
+
+[06435.013]
+A snowman in the shape of a chef.
+
+[06435.015]
+"This is Heidelberg Old Town, a historic town built after the War of Heaven and Earth ended."
+
+[06435.017]
+"Visitors to Heidelberg Memorial Park, please carry on this way with the castle on your left."
+
+[06435.018]
+Man
+
+[06435.019]
+Right, the road's shoveled! Next, shoveling at my place!
+
+[06435.021]
+Shoveling snow looks like hard work... Aren't you cold?
+
+[06435.022]
+Man
+
+[06435.023]
+Nah, you're cold just standing around anyway. If you're going to be cold either way, better to be moving!
+
+[06435.024]
+Man
+
+[06435.025]
+A few years back there was a year when hardly any snow fell. Now that was hard!
+
+[06435.027]
+Why was it hard? With no shoveling to do, wasn't it easy?
+
+[06435.028]
+Man
+
+[06435.029]
+Oh, food and drink both tasted awful! You've got to move your body after all!
+
+[06435.030]
+Man
+
+[06435.031]
+Shovel snow! Move your body! Then food and drink taste good! That's how it should be!
+
+[06435.032]
+Man
+
+[06435.033]
+H-hey, what's that...! Hey, Ma! Something's wrong at the castle!
+
+[06435.034]
+Man
+
+[06435.035]
+I know the castle's in trouble, but shoveling snow is about all I'm good for.
+
+[06435.036]
+Man
+
+[06435.037]
+So at least I'm shoveling so everyone can walk the roads as usual. Ha ha! Not much of a showing, is it?
+
+[06435.039]
+That's not true. Everyone doing what they can do. That's a wonderful thing.
+
+[06435.040]
+Man
+
+[06435.041]
+One shovelful for everybody~♪ Two shovelfuls for King Woodrow~, and there!
+
+[06435.042]
+Man
+
+[06435.043]
+Hup, hup, hup♪ Shovel, shovel, sho-ovel away♪ If I don't, everyone goes slip-slide♪
+
+[06435.044]
+Man
+
+[06435.045]
+If somebody doesn't shovel, everyone goes slipping and sliding!
+
+[06435.046]
+Youth
+
+[06435.047]
+Heh. You people are from another country. I can tell by the way you walk.
+
+[06435.048]
+Youth
+
+[06435.049]
+After all, like me, you're unsteady on your feet. ...Whoa!
+
+[06435.050]
+Youth
+
+[06435.051]
+Walking without slipping. Just that is hard in this country...
+
+[06435.052]
+Youth
+
+[06435.053]
+Heh. You two are on a date. I can tell by your faces.
+
+[06435.054]
+Youth
+
+[06435.055]
+After all, looking at you, jealousy somehow comes welling up in me.
+
+[06435.056]
+Youth
+
+[06435.057]
+Ahh... I want a girlfriend soon too...
+
+[06435.058]
+Youth
+
+[06435.059]
+Heh. You people are in a hurry. I can tell by your faces.
+
+[06435.060]
+Youth
+
+[06435.061]
+In a word! You're looking for a toilet, aren't you!?
+
+[06435.063]
+Idiot! We're hurrying to the castle!
+
+[06435.064]
+Youth
+
+[06435.065]
+You're going to use the toilet at the castle? But there was an explosion, so you'd better not go too near.
+
+[06435.066]
+Youth
+
+[06435.067]
+Heh. You people are feeling down. I can tell by your faces.
+
+[06435.068]
+Youth
+
+[06435.069]
+In a word! This cold has given you a stomachache! Hasn't it!?
+
+[06435.071]
+Idiot! We're hurrying to the castle!
+
+[06435.072]
+Youth
+
+[06435.073]
+It hurts... my stomach hurts... You people are down because your stomachs hurt too... urgh!
+
+[06435.074]
+Youth
+
+[06435.075]
+Heh. You people are full of drive. I can tell by your faces.
+
+[06435.076]
+Youth
+
+[06435.077]
+In a word! You're fired up to win today's snowball fight at last!
+
+[06435.079]
+Leave the fool. Let's go, {NAME:01 00 00 00}.
+
+[06435.080]
+Youth
+
+[06435.081]
+I want to have a snowball fight too... but I can't on my own...
+
+[06435.082]
+Youth
+
+[06435.083]
+Heh. You people have accomplished something. I can tell by your faces.
+
+[06435.084]
+Youth
+
+[06435.085]
+In a word! You've finished shoveling all the snow at your house, haven't you!?
+
+[06435.087]
+...Let's go, {NAME:01 00 00 00}.
+
+[06435.088]
+Youth
+
+[06435.089]
+I haven't finished my shoveling yet... Please, help me...
+
+[06435.090]
+Youth
+
+[06435.091]
+Heh. You two are on a date. I can tell by your faces.
+
+[06435.092]
+Youth
+
+[06435.093]
+After all, looking at you, tears just naturally spill out.
+
+[06435.094]
+Youth
+
+[06435.095]
+Ahh, the cold goes right through me... I want a girlfriend...
+
+[06435.096]
+Youth
+
+[06435.097]
+Heh. You people are in a hurry. I can tell by your faces.
+
+[06435.098]
+Youth
+
+[06435.099]
+In a word...!
+
+[06435.101]
+Hey, let's hurry, {NAME:01 00 00 00}! {NAME:06 00 00 00} is waiting, remember!
+
+[06435.102]
+Youth
+
+[06435.103]
+...Please, listen to me...
+
+[06435.104]
+Youth
+
+[06435.105]
+Heh. You people are full of resolve. I can tell by your faces.
+
+[06435.106]
+Youth
+
+[06435.107]
+In a word! You are about to destroy the world! Aren't you!
+
+[06435.109]
+The opposite! We're going to stop the world being destroyed!
+
+[06435.110]
+Youth
+
+[06435.111]
+Stop... the world... being destroyed...? ...Um, I was joking...
+
+[06435.112]
+Youth
+
+[06435.113]
+Heh. You people are in the depths of despair. I can tell by your faces.
+
+[06435.114]
+Youth
+
+[06435.115]
+In a word! The snowman you went to the trouble of making has been smashed, hasn't it!?
+
+[06435.116]
+Youth
+
+[06435.117]
+My snowman got smashed too... Damn! Those brats...
+
+[06435.118]
+Youth
+
+[06435.119]
+Heh. You people mean to put an end to everything. I can tell by your faces.
+
+[06435.120]
+Youth
+
+[06435.121]
+In a word! You're off to pick a fight with someone you can't stand, aren't you!?
+
+[06435.123]
+Exactly! A big fight with a god!
+
+[06435.124]
+Youth
+
+[06435.125]
+A big fight with a god... Seriously?
+
+[06435.126]
+Youth
+
+[06435.127]
+Heh. You people are looking for something. I can tell by your faces.
+
+[06435.129]
+Well spotted! We're looking for the thing that's irreplaceable to us.
+
+[06435.130]
+Youth
+
+[06435.131]
+Oh, is that so? I thought you were looking for a coin dropped in the snow, like me...
+
+[06435.132]
+Youth
+
+[06435.133]
+Drop a coin in the snow and it's so hard to find. Sob, sob...
+
+[06435.134]
+Boy
+
+[06435.135]
+Raaar!! My breath is white, so I'm like a dragon, see?
+
+[06435.136]
+Boy
+
+[06435.137]
+My dad's breath is more amazing than a dragon's.
+
+[06435.138]
+Boy
+
+[06435.139]
+One whiff and everybody falls over.
+
+[06435.141]
+Don't brag about a thing like that...
+
+[06435.142]
+Boy
+
+[06435.143]
+Raaar!! Stinky breath attack!
+
+[06435.144]
+Boy
+
+[06435.145]
+The breath my dad breathes out really stinks of booze.
+
+[06435.146]
+Boy
+
+[06435.147]
+Mom said if you set fire to Dad's breath it'd burn for sure.
+
+[06435.149]
+Even so, that's got to be a lie...
+
+[06435.150]
+Boy
+
+[06435.151]
+I wonder if my dad will turn into a dragon when he grows up?
+
+[06435.152]
+Boy
+
+[06435.153]
+A dragon! A real dragon! Awesooome!
+
+[06435.154]
+Boy
+
+[06435.155]
+A dragon! A real dragon! Awesooome!
+
+[06435.157]
+Hey, hey! It's dangerous, you can't go! Stay put here!
+
+[06435.158]
+Boy
+
+[06435.159]
+Aww, no fun~! I want to see the real dragon too~!
+
+[06435.160]
+Boy
+
+[06435.161]
+You're going off to see the real dragon by yourselves! No fair!
+
+[06435.162]
+Boy
+
+[06435.163]
+The dragon flew away... No fun~!
+
+[06435.165]
+A dragon?
+
+[06435.167]
+Oh, he means the Flying Dragon. It attacked and did that to the castle.
+
+[06435.168]
+Boy
+
+[06435.169]
+I wonder where the dragon flew off to...
+
+[06435.170]
+Boy
+
+[06435.171]
+The dragon was so cool! ...I said that to Mom and got a clout.
+
+[06435.172]
+Boy
+
+[06435.173]
+Was that a bad dragon? Is that why everybody was angry and crying?
+
+[06435.175]
+Well, it's less the dragon than the one riding it who's bad.
+
+[06435.176]
+Boy
+
+[06435.177]
+For me, Mom's fist is way scarier than a bad dragon.
+
+[06435.178]
+Boy
+
+[06435.179]
+That dragon that came to the castle. Where did it go, I wonder?
+
+[06435.181]
+Oh, the Flying Dragon. We sent that one to the bottom of the sea!
+
+[06435.182]
+Boy
+
+[06435.183]
+Aww, liar! You could never beat a dragon, mister!
+
+[06435.184]
+Boy
+
+[06435.185]
+The only things that could beat that dragon are King Woodrow's sword or my mom's fist!
+
+[06435.186]
+Boy
+
+[06435.187]
+Raaar!! My breath is white, so I'm like a dragon, see?
+
+[06435.188]
+Boy
+
+[06435.189]
+My dad's breath is more amazing than a dragon's.
+
+[06435.190]
+Boy
+
+[06435.191]
+One whiff and everybody falls over.
+
+[06435.193]
+Don't brag about a thing like that...
+
+[06435.194]
+Boy
+
+[06435.195]
+Raaar!! Stinky breath attack!
+
+[06435.196]
+Old Man
+
+[06435.197]
+That this city has recovered so far is thanks to King Woodrow.
+
+[06435.198]
+Old Man
+
+[06435.199]
+When this city was rubble, the very first to begin carrying timber was King Woodrow himself.
+
+[06435.200]
+Old Man
+
+[06435.201]
+We had no time to feel sorry for ourselves. We hurried after the king.
+
+[06435.203]
+Huh~. That's a nice story.
+
+[06435.204]
+Old Man
+
+[06435.205]
+For King Woodrow, I would gladly throw away this old life of mine anytime.
+
+[06435.206]
+Old Man
+
+[06435.207]
+That laughter never dies out in this city is all thanks to King Woodrow.
+
+[06435.208]
+Old Man
+
+[06435.209]
+Every day I offer a prayer of thanks at the statue of the hero in the park.
+
+[06435.210]
+Old Man
+
+[06435.211]
+If you two have time for this "dating", go and pray at the statue of the hero in the park.
+
+[06435.212]
+Old Man
+
+[06435.213]
+Surely nothing has happened to King Woodrow!
+
+[06435.214]
+Old Man
+
+[06435.215]
+If it comes to that, I can only shield King Woodrow with my own body...!!
+
+[06435.217]
+Don't, gramps!
+
+[06435.218]
+Old Man
+
+[06435.219]
+King Woodrow is our hope! He must be protected at all costs!!
+
+[06435.220]
+Old Man
+
+[06435.221]
+That this city has recovered so far is thanks to King Woodrow.
+
+[06435.222]
+Old Man
+
+[06435.223]
+When this city was rubble, the very first to begin carrying timber was King Woodrow himself.
+
+[06435.224]
+Old Man
+
+[06435.225]
+We had no time to feel sorry for ourselves. We hurried after the king.
+
+[06435.227]
+Huh~. That's a nice story.
+
+[06435.228]
+Old Man
+
+[06435.229]
+For King Woodrow, I would gladly throw away this old life of mine anytime.
+
+[06435.230]
+Woman
+
+[06435.231]
+Ahh... is my little Billy doing all right at the castle, I wonder?
+
+[06435.232]
+Woman
+
+[06435.233]
+My little Billy started working at the castle this year.
+
+[06435.234]
+Woman
+
+[06435.235]
+Working somewhere without his mama. He must feel so forlorn...
+
+[06435.236]
+Woman
+
+[06435.237]
+When you go to the castle, would you see whether my little Billy is crying?
+
+[06435.238]
+Woman
+
+[06435.239]
+Oh my, a young man and woman all alone together. How improper...
+
+[06435.240]
+Woman
+
+[06435.241]
+My little Billy is not improper like you two.
+
+[06435.242]
+Woman
+
+[06435.243]
+I am sure he has never so much as touched a woman other than his mama.
+
+[06435.244]
+Woman
+
+[06435.245]
+My little Billy isn't being tempted by the castle maids or the like, is he...
+
+[06435.246]
+Woman
+
+[06435.247]
+What's happened!? My darling little Billy is in the castle!!
+
+[06435.248]
+Woman
+
+[06435.249]
+Hold on, little Billy! Mama's coming to save you right now!!
+
+[06435.251]
+Going to the castle now would only be dangerous... Leave it to us.
+
+[06435.252]
+Woman
+
+[06435.253]
+Hold on, little Billy! I'm sending these people right now!!
+
+[06435.254]
+Woman
+
+[06435.255]
+Ah! My darling little Billy, please be safe!!
+
+[06435.256]
+Woman
+
+[06435.257]
+Ahh... is my little Billy doing all right at the castle, I wonder?
+
+[06435.258]
+Grid
+
+[06435.259]
+...Ahh... a pure white... field of flowers... Soon... I'll be there...
+
+[06435.260]
+Millie
+
+[06435.261]
+It's because that idiot Grid blew our travel money... We really are going to freeze to death...
+
+[06435.262]
+John
+
+[06435.263]
+...
+............
+
+[06435.265]
+No reply. No consciousness either, it seems.
+
+[06435.266]
+Ginny
+
+[06435.267]
+I hope I get to meet Santa.
+
+[06435.268]
+Saga
+
+[06435.269]
+I'd like a piano, but... that's a bit much to ask, isn't it.
+
+[06435.271]
+Is this... Heidelberg?
+
+[06435.273]
+So it seems. We appear to have returned. To our own time.
+
+[06435.275]
+Phew, good grief. That was really something, eh, {NAME:01 00 00 00}.
+
+[06435.277]
+........
+
+[06435.279]
+........
+
+[06435.281]
+...W-well, anyway. We're safely back ten years in the past. That's something to celebrate, right? Right?
+
+[06435.283]
+...You know, you could try reading the mood a little.
+
+[06435.285]
+Shut up! If you're done here, hurry up and go home...
+
+[06435.287]
+Wait, hold on!? What are you doing here!?
+
+[06435.289]
+What do you mean, what? I got caught up in the light, and next thing I knew I was here.
+
+[06435.291]
+I'm sorry, {NAME:05 00 00 00}! I'll send just you back to the future right away...
+
+[06435.293]
+Stop! I've decided I'm coming along with you.
+
+[06435.295]
+...What!?
+
+[06435.297]
+Elraine's changing history as she pleases and trying to make things suit herself, right?
+
+[06435.299]
+Then I'll stop her! I won't let her have her own way!
+
+[06435.301]
+But in the end that means changing history too.
+
+[06435.303]
+And besides, simply by your being here, you who are not of this era, history has already been changed.
+
+[06435.305]
+If you put it that way, wasn't it just as bad for you lot to be in our era?
+
+[06435.307]
+Well, sure, but...
+
+[06435.309]
+Then we're even. There's no point going on about it now.
+
+[06435.311]
+And so I'm coming with you! My mind's made up!
+
+[06435.313]
+...What do we do, {NAME:01 00 00 00}? You decide.
+
+[06435.315]
+...All right. If that's what {NAME:05 00 00 00} says, I'm fine with it.
+
+[06435.317]
+Then it's settled!
+
+[06435.319]
+...Honestly, a noisy one's tagged along... grumble grumble...
+
+[06435.321]
+Did you say something, {NAME:03 00 00 00}!
+
+[06435.323]
+Anyway!
+
+[06435.325]
+...First, we go to see Woodrow.
+
+[06435.327]
+We have to see what became of Heidelberg Castle after that.
+
+[06435.329]
+Hey, {NAME:01 00 00 00}. It looks like there's a park this way.
+
+[06435.331]
+A park?
+
+[06435.333]
+Since we're here, let's rest a little. ...All right?
+
+[06435.335]
+But won't it be cold? If we're going to rest, let's meet up with everyone first and go somewhere warm...
+
+[06435.337]
+Oh, are you going to turn down my invitation to a date?
+
+[06435.339]
+A d-date!?
+
+[06435.341]
+Hee hee! Come on, hurry, hurry!
+
+[06435.342]
+Millie
+
+[06435.343]
+Brr, it's cold! What on earth is this cold!
+
+[06435.344]
+Grid
+
+[06435.345]
+T-to be unable to pay for an inn... we, the Dark Wings... Wh-what a disgrace...
+
+[06435.346]
+Grid
+
+[06435.347]
+........But... little by little... it's starting... to feel good...?
+
+[06435.348]
+Grid
+
+[06435.349]
+...Ahh, I can see it... ........a pure white... field of flowers... ...so... beautiful...
+
+[06435.350]
+John
+
+[06435.351]
+Boss, you mustn't sleep! If you sleep... if you sleep...
+
+[06435.352]
+John
+
+[06435.353]
+...Huh? What does happen if you sleep? I'll try sleeping and see, I will...
+
+[06435.354]
+Saga
+
+[06435.355]
+There isn't really any Santa.
+
+[06435.356]
+Ginny
+
+[06435.357]
+Aww, there is! He gave me a present, properly!
+
+[06435.358]
+Ginny
+
+[06435.359]
+He gave me warm gloves, just as I asked.
+
+[06435.360]
+Saga
+
+[06435.361]
+That will have been the Father.
+
+[06435.362]
+Saga
+
+[06435.363]
+The Father leaves the presents while we're asleep.
+
+[06435.364]
+Ginny
+
+[06435.365]
+That's not true! Santa comes!
+
+[06435.366]
+Saga
+
+[06435.367]
+Ginny, wait!
+
+[06435.368]
+Patrol Officer
+
+[06435.369]
+This is the patrol's guardroom. If any trouble arises, please call on us.
+
+[06435.370]
+Patrol Officer
+
+[06435.371]
+Mind you, Heidelberg is a peaceful city. There's not one chance in ten thousand of a crime, so please carry on sightseeing with an easy mind.
+
+[06435.372]
+Patrol Officer
+
+[06435.373]
+This is the patrol's guardroom.
+
+[06435.374]
+Patrol Officer
+
+[06435.375]
+We keep the peace of the city! Please carry on sightseeing with an easy mind.
+
+[06435.377]
+Better not to leave the city for now.
+
+[06435.379]
+Hey, let's go to the park.
+
+[06435.381]
+Oh, right.
+
+[06435.382]
+Have a safe journey.
+
+[06435.383]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06435.384]
+Will you stay the night?
+
+[06435.386]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06435.387]
+Please rest well.
+
+[06435.388]
+Good morning.
+
+[06435.389]
+You do not have enough money.
+
+[06435.390]
+We look forward to seeing you again.
+
+[06435.395]
+Obtained {16:25 CA}.
+
+[06435.397]
+Obtained {08:FF FF FF FF}.
+
+[06435.399]
+Found {16:25 D2}, but you can carry no more.
+
+[06435.401]
+There is nothing here.
+

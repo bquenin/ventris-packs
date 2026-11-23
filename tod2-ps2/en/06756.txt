@@ -1,0 +1,157 @@
+[06756.001]
+Katz Village: House
+
+[06756.002]
+Katz Village
+
+[06756.003]
+House
+
+[06756.005]
+It is not big, nor is it very tall.
+
+[06756.007]
+Obtained 1 {08:0A 00 00 00}.
+
+[06756.009]
+A cupboard. Something could be hidden in it.
+
+[06756.011]
+It's mabo curry!
+
+[06756.013]
+Huh, this part...
+
+[06756.015]
+Ah!!
+
+[06756.016]
+Katz
+
+[06756.017]
+Ah!! And I'd only just mended it. That's mean, mew...
+
+[06756.018]
+Katz
+
+[06756.019]
+The fluffy mat fits my paw pads so gently, mew.
+
+[06756.020]
+Katz
+
+[06756.021]
+The houses in this village have floors warmed by the hot spring, mew.
+
+[06756.022]
+Katz
+
+[06756.023]
+That's mean, mew...
+
+[06756.024]
+Katz
+
+[06756.025]
+The draft feels nice too, mew~ I'll leave it like this for a while, mew.
+
+[06756.026]
+Katz
+
+[06756.027]
+The draft feels nice, mew~
+
+[06756.028]
+Kipuruchi
+
+[06756.029]
+My suit got torn, so I'm mending it now, mew...
+
+[06756.030]
+Kipuruchi
+
+[06756.031]
+I'm mending my "Katz suit" as fast as I can, mew.
+
+[06756.032]
+Kipuruchi
+
+[06756.033]
+I want to be fluffy again soon, mew.
+
+[06756.034]
+???
+
+[06756.035]
+Mm! I have been found, mew!
+
+[06756.036]
+???
+
+[06756.037]
+I am a ninja of the Katz. That is to say, a "Katz ninja", mew.
+
+[06756.038]
+Katz Ninja
+
+[06756.039]
+A Katz nin-nin, that I am. Nin nin nin nin... mew!
+
+[06756.040]
+Gori
+
+[06756.041]
+Nobody likes this hat...
+
+[06756.042]
+Gori
+
+[06756.043]
+Could it be because it isn't "cat ears"...
+
+[06756.045]
+Oh, a gap, mya! I can get in, mya~ I'll go and see, mya!
+
+[06756.047]
+I found this, mew.
+
+[06756.049]
+The walk was fun, mya. I'll go home ahead of you, mya.
+
+[06756.050]
+Have a safe journey.
+
+[06756.051]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06756.052]
+Will you stay the night?
+
+[06756.054]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06756.055]
+Please rest well.
+
+[06756.056]
+Good morning.
+
+[06756.057]
+You do not have enough money.
+
+[06756.058]
+We look forward to seeing you again.
+
+[06756.063]
+Obtained {16:25 C6}.
+
+[06756.065]
+Obtained {08:FF FF FF FF}.
+
+[06756.067]
+Found {16:25 CE}, but you can carry no more.
+
+[06756.069]
+There is nothing here.
+

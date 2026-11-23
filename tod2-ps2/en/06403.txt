@@ -1,0 +1,1203 @@
+[06403.001]
+Lienea Village
+
+[06403.002]
+Lienea Village
+
+[06403.003]
+Lienea Village
+
+[06403.004]
+Lienea Village
+
+[06403.005]
+Lienea Village
+
+[06403.006]
+Man
+
+[06403.007]
+You may be disappointed, but there was nothing special about Stahn at all.
+
+[06403.008]
+What? You want to hear about Stahn?
+
+[06403.009]
+Stahn, as I remember him, was just a sleepyhead.
+
+[06403.010]
+Every morning little Lilith's voice waking Stahn rang through the whole village, and that's what woke everyone up.
+
+[06403.012]
+At our orphanage too, Rutee's voice waking {NAME:01 00 00 00} did for an alarm clock.
+
+[06403.013]
+Well, there's nothing in this village, but come and visit again if you feel like it.
+
+[06403.014]
+Until a few years ago, a few tourists used to come looking for the hero Stahn.
+
+[06403.015]
+They all went home crestfallen, with faces that said it wasn't what they'd hoped.
+
+[06403.016]
+It's so peaceful here that it's too far from the picture of a hero ordinary people have, I suppose.
+
+[06403.017]
+Is our village's hero doing well? Can you believe it?
+
+[06403.019]
+He oversleeps every morning and gets knocked out of bed.
+
+[06403.020]
+I see, same as ever! Well, that's good to hear.
+
+[06403.021]
+Tell your father to come home once in a while.
+
+[06403.022]
+This village produced that hero of the age, Stahn Aileron. Can you believe it?
+
+[06403.024]
+You bet! I mean, Dad's always telling me about this place!
+
+[06403.025]
+Dad, you say... then you're Stahn's son!? Well, I'll be...
+
+[06403.026]
+Woman
+
+[06403.027]
+Nobody ever imagined young Stahn would become a hero who saved the world.
+
+[06403.028]
+Woman
+
+[06403.029]
+Young Stahn? He was the biggest rascal in the village.
+
+[06403.030]
+Woman
+
+[06403.031]
+Long ago, little Lilith apparently asked young Stahn to go and buy some fish...
+
+[06403.032]
+Woman
+
+[06403.033]
+And young Stahn went and took the carp from the village pond, and got a real scolding, they say.
+
+[06403.034]
+Woman
+
+[06403.035]
+If a place like this will do, think of it as a second home and come visit again.
+
+[06403.036]
+Woman
+
+[06403.037]
+You folks are welcome anytime♪
+
+[06403.039]
+Home... I'm so glad! Thank you very much.
+
+[06403.040]
+Woman
+
+[06403.041]
+Welcome back. That was quite a long journey.
+
+[06403.043]
+Huh!? "Welcome back"...?
+
+[06403.044]
+Woman
+
+[06403.045]
+Hardly anyone visits this village, so guests who come again and again feel like part of it.
+
+[06403.046]
+Woman
+
+[06403.047]
+You boys, adventures are all very well, but isn't it about time you found a girl you like?
+
+[06403.049]
+A girl... I like? For me there's someone I like, no, that's not it, someone more precious...
+
+[06403.050]
+Woman
+
+[06403.051]
+Two boys off adventuring? Wouldn't it be more fun with more companions?
+
+[06403.053]
+That's what you think too, right? {NAME:01 00 00 00}, we really should get a girl... Hey, something wrong?
+
+[06403.055]
+Yeah... a little. Companions... it just had a kind of nostalgic ring to it.
+
+[06403.056]
+Boy
+
+[06403.057]
+One day I'm gonna be the Hero Stahn too!
+
+[06403.058]
+Boy
+
+[06403.059]
+I am the Legendary Hero Stahn~!!
+
+[06403.060]
+Boy
+
+[06403.061]
+Hyah! Take this, "Demon Fang"! Zubababa~m!
+
+[06403.062]
+Boy
+
+[06403.063]
+Nothing can stand against the Hero Stahn~!
+
+[06403.065]
+Playing Stahn, huh. I used to do that a lot too.
+
+[06403.066]
+Boy
+
+[06403.067]
+Stahn's finishing move, "Oversleeping"~!!
+
+[06403.068]
+Boy
+
+[06403.069]
+Even if I'm not sleepy, I'm never getting up~!!
+
+[06403.070]
+Boy
+
+[06403.071]
+Stahn's finishing move, "Oversleeping"~!!
+
+[06403.072]
+Boy
+
+[06403.073]
+I'm following Stahn's example and "oversleeping" every morning!
+
+[06403.074]
+Boy
+
+[06403.075]
+Even when Mama comes to wake me, I'm never getting up~!!
+
+[06403.077]
+Looks like a weird legend's been handed down...
+
+[06403.078]
+Boy
+
+[06403.079]
+Someday I'm gonna leave this village too and be a super amazing hero~! And save the world~!
+
+[06403.081]
+Save... the world? ...That's right, a hero saves the world. But...
+
+[06403.082]
+Boy
+
+[06403.083]
+I am the Legendary Hero Stahn~!!
+
+[06403.084]
+Boy
+
+[06403.085]
+Hyah! Take this, "Aurora Sword"! Zubababa~m!
+
+[06403.086]
+Boy
+
+[06403.087]
+...Wait, that wasn't one of Stahn's moves...
+
+[06403.089]
+Playing Stahn, huh. Heh! Kind of like me long ago.
+
+[06403.090]
+Man
+
+[06403.091]
+Well, I thought I'd seen that head somewhere, and it's the spitting image of a hedgehog, yep, yep!
+
+[06403.093]
+...No, I bet it's the spitting image of my dad's head.
+
+[06403.094]
+Man
+
+[06403.095]
+Hm? I've seen you somewhere before, long ago. Hmm, where was it...
+
+[06403.096]
+Man
+
+[06403.097]
+Ah, that's it! The hedgehog I saw on the hill out back! Your head's just like it!
+
+[06403.098]
+Man
+
+[06403.099]
+Ahh, the city! The city, with all sorts of things! The city's my dream!
+
+[06403.100]
+Man
+
+[06403.101]
+Say, you folks, if you don't mind, tell me about the city.
+
+[06403.103]
+The city? What do you want to hear about?
+
+[06403.104]
+Man
+
+[06403.105]
+Everything, everything! The city's my dream! City, L-O-V-E!!!!
+
+[06403.106]
+Man
+
+[06403.107]
+Well, I thought I'd seen that head somewhere, and it's the spitting image of a hedgehog, yep, yep!
+
+[06403.109]
+...No, I bet you mean my dad.
+
+[06403.110]
+Man
+
+[06403.111]
+Hm? Your face looks familiar. Hmm, where did I see it...
+
+[06403.112]
+Man
+
+[06403.113]
+Ah, that's it! The hedgehog I saw on the hill out back! Your head's just like it!
+
+[06403.114]
+Judge
+
+[06403.115]
+Devote yourself all the more.
+
+[06403.116]
+I see you have undergone harsh training.
+
+[06403.117]
+To one such as you, I shall grant new power.
+
+[06403.118]
+This is the {08:AE 01 00 00}!
+
+[06403.119]
+The martial way is like walking a long road with a heavy load on your back.
+
+[06403.120]
+A thousand days of practice to forge,
+
+[06403.121]
+ten thousand days of practice to temper.
+
+[06403.122]
+And the match is decided in an instant!
+
+[06403.123]
+Go forth on the road of harsh training.
+
+[06403.124]
+A swing sways in the wind.
+
+[06403.125]
+I felt the urge to hop on and play, but it would be embarrassing, so I didn't.
+
+[06403.128]
+Freshly harvested vegetables.
+
+[06403.129]
+Laundry flutters in the breeze...
+
+[06403.130]
+I get the feeling there are some children's clothes mixed in, though...?
+
+[06403.133]
+The wooden crate holds well-kept farm tools.
+
+[06403.135]
+Something is written on the wooden crate. "For shipment: Lienea wheat, bound for Aigrette"
+
+[06403.137]
+Some pretty incredible farm tool... What's it used for?
+
+[06403.139]
+Welcome to "Monpe House"!
+
+[06403.141]
+Welcome to "Monpe House"!
+
+[06403.142]
+A pot of considerable age.
+
+[06403.143]
+There were pickles in the pot! I tried one, and it tasted awful...
+
+[06403.145]
+I can't see the bottom... A pretty deep pond. Drowning here would be a frightening thing.
+
+[06403.146]
+Go any farther and you'll drown!
+
+[06403.148]
+{NAME:01 00 00 00} peered into the chimney! But there was nothing there!
+
+[06403.149]
+It doesn't seem to have been cleaned in a long time. My hands got covered in soot...
+
+[06403.152]
+Better not to leave Lienea for now.
+
+[06403.154]
+Sowed {16:24 9C} in the field.
+
+[06403.156]
+I hope it sprouts soon.
+
+[06403.158]
+It has withered.
+
+[06403.160]
+Maybe because I didn't water it?
+
+[06403.162]
+It has rotted.
+
+[06403.164]
+Maybe I watered it too much?
+
+[06403.166]
+It has borne fruit.
+
+[06403.168]
+All right!
+
+[06403.170]
+It does not seem to have sprouted yet.
+
+[06403.172]
+It has sprouted.
+
+[06403.174]
+It seems to be growing well.
+
+[06403.176]
+Tend it?
+
+[06403.178]
+{03:00 00 00 00}　Water it　
+　Fertilize it　
+　Leave it　
+
+[06403.180]
+How much will you give it?
+
+[06403.182]
+{03:00 00 00 00}　A lot　
+　A normal amount　
+　A little　
+
+[06403.184]
+There, a lot.
+
+[06403.186]
+Watered it.
+
+[06403.188]
+There, a little.
+
+[06403.190]
+On second thought, I'll leave it.
+
+[06403.192]
+I only just gave it fertilizer, so there's no need to give it any now.
+
+[06403.193]
+Red Label Super Fertilizer
+
+[06403.194]
+Blue Label Deluxe Fertilizer
+
+[06403.195]
+Yellow Label Gorgeous Fertilizer
+
+[06403.196]
+White Label Excellent Fertilizer
+
+[06403.198]
+Which fertilizer will you give it?
+
+[06403.202]
+I'll leave it for now.
+
+[06403.204]
+I'll give it {18:44 84 14 3B 81 CB C6}.
+
+[06403.206]
+Children grow up even without their parents.
+
+[06403.207]
+The soil is completely dry.
+
+[06403.208]
+The soil seems dry.
+
+[06403.209]
+The soil seems nicely moist.
+
+[06403.210]
+The soil seems moist enough.
+
+[06403.211]
+It would seem no more water is needed.
+
+[06403.213]
+Veteran
+
+[06403.214]
+Rookie
+
+[06403.216]
+They seem to be talking about "weapon attacks". Listen in?
+
+[06403.217]
+Well, we're about to start adventuring ourselves. Have you got the basics down?
+
+[06403.218]
+You bet! I attack like crazy with {09:45 00 00 00}!!
+
+[06403.219]
+True, but combine it with the directional keys {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00} and {09:17 00 00 00}, and you get four kinds of attack!
+
+[06403.220]
+Start by actually trying each a few times, and learn their speed and reach.
+
+[06403.221]
+How do I attack several times in a row?
+
+[06403.222]
+Just press {09:45 00 00 00} again during an attack. And of course the directional keys {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00} and {09:17 00 00 00} change the attack.
+
+[06403.223]
+Attacking drains the Spirits gauge. (SP: the {04:01 00 00 00}blue gauge{04:07 00 00 00} in battle.) When it gets too low, hold off attacking and wait for it to recover.
+
+[06403.224]
+Why? Just keep on attacking!
+
+[06403.225]
+Because when the Spirits gauge is low, your accuracy and evasion drop. You can end up worse off. Be careful.
+
+[06403.226]
+A successful guard recovers a lot of SP, so guarding with {09:47 00 00 00} matters too.
+
+[06403.228]
+They seem to be talking about "artes". Listen in?
+
+[06403.229]
+Well? Now that you've learned artes, you've more room for strategy, haven't you?
+
+[06403.230]
+Artes {09:46 00 00 00} are strong, but my TP's gone in no time. It comes back by itself in battle, but I'm still puny, so it's slow.
+
+[06403.231]
+Quite so. That is where normal attacks with {09:45 00 00 00} come in. Each normal attack that hits recovers 1 TP.
+
+[06403.232]
+Then it's normal attacks {09:45 00 00 00} like crazy!
+
+[06403.233]
+...Having TP left over is a waste as well. Using it well is what matters, for instance casting spells to let your SP recover.
+
+[06403.234]
+TP also recovers a little when you defeat an enemy. And if you defeat several at once during a combo, you recover more TP.
+
+[06403.236]
+They seem to be talking about "Enchants". Listen in?
+
+[06403.237]
+I learned an Enchant too.
+
+[06403.238]
+...So what's an Enchant?
+
+[06403.239]
+Hm. Put simply, it's "the ability to customize the artes and spells you've learned to your own taste".
+
+[06403.240]
+First, keep using an arte to raise its use count! Then you'll be able to equip all sorts of Enchants.
+
+[06403.241]
+Then I'll use one arte like crazy!
+
+[06403.242]
+That is one way. But Enchants can't be changed during battle. Putting a variety of Enchants on many artes isn't a bad idea either.
+
+[06403.243]
+Cast a spell that lowers the enemy's abilities, then cut in with your weapon... Master artes and spells and your strategy widens. ...Friends can cover for one another, too.
+
+[06403.244]
+By the way, take an equipped Enchant off and the use count comes back, so you'd do well to try all sorts.
+
+[06403.245]
+My favorite arte doesn't hit much, so I'll put on an accuracy Enchant to make up for it.
+
+[06403.246]
+...In your case you're simply swinging at thin air. A miss doesn't add to the use count, so it's a waste!
+
+[06403.247]
+And healing spells only gain use count "when cast on a target at 50% HP or less". Watch out!!
+
+[06403.248]
+True, using one on a scratch wouldn't teach you anything.
+
+[06403.250]
+They seem to be talking about "battle strategies". Listen in?
+
+[06403.251]
+Let's settle our strategies so we can deal with any enemy we meet! What do you do when "an enemy with tough defense" shows up?
+
+[06403.252]
+Everybody casts spells like crazy!
+
+[06403.253]
+Spells aren't a bad idea, but if everyone's chanting, the enemy will clobber you as it pleases. Better to keep one fighter up front.
+
+[06403.254]
+And if "the enemy's rear guard uses powerful spells"?
+
+[06403.255]
+I learned that by heart yesterday. You use "Don't let them cast" and break up their chanting.
+
+[06403.256]
+That's about it.
+
+[06403.257]
+You can register up to three strategies at once. Switching between them in an instant during battle is a fine thing to see.
+
+[06403.258]
+Change how often you attack and how much you heal to suit each character's abilities and the enemy, and you can expect to fight more efficiently.
+
+[06403.260]
+They seem to be talking about "Technical Smash". Listen in?
+
+[06403.261]
+What's a Technical Smash?
+
+[06403.262]
+Hm. Land "a dazzling finishing blow" that even battle pros admire, and it is recognized as a Technical Smash.
+
+[06403.263]
+Defeat an enemy with a Technical Smash and, perhaps because it is so splendid, your chance of getting items shoots up. Or so everyone says.
+
+[06403.264]
+It must be true.
+
+[06403.265]
+They come out all the time with combos, or beating several at once!
+
+[06403.266]
+Hm. "Finishing with a combo" matters most. The moment you land the finisher, all the SP you spent on that combo comes back. Even after a long combo you can recover your footing.
+
+[06403.267]
+Then I'll save follow-up artes and such for finishers.
+
+[06403.268]
+If you are short of SP, that would be wise.
+
+[06403.269]
+The trouble with Action Enchants is that they use up SP, but making good use of the finisher is the road to mastery.
+
+[06403.271]
+They seem to be talking about "Spirits". Listen in?
+
+[06403.272]
+I attack, and the enemy just blocks everything!
+
+[06403.273]
+Enemies with high evasion are a nuisance. Hitting them with spells is one strategy, but some enemies are one-hit wonders that slash your Spirits in a single attack.
+
+[06403.274]
+Draw them into missing and the like to wear down their Spirits, and their evasion drops too... Aiming for that is another way.
+
+[06403.275]
+I use Press Guard with {09:47 00 00 00} and {09:1D 00 00 00} to knock their SP down on purpose.
+
+[06403.276]
+The trouble is you do it in the middle of their combos too. Press Guard is best used on the enemy's last attack. A Press Guard takes off as much as 20 SP. Read the enemy's attacks.
+
+[06403.277]
+With the enemy target display set to Custom, the brighter the cursor, the higher their SP. You can read an enemy's SP while you fight.
+
+[06403.279]
+They seem to be talking about "consecutive hits". Listen in?
+
+[06403.280]
+What's a consecutive hit?
+
+[06403.281]
+Damage an enemy again before it gets back into its fighting stance, and the hit count adds up and is shown.
+
+[06403.282]
+What happens if I land lots?
+
+[06403.283]
+Hm. Your highest hit count affects the experience you earn. For a splendid chain of attacks like that is experience beyond any other.
+
+[06403.284]
+For a higher hit count, working with your friends is essential. Apart from the hit count, each "different kind of attack" is added up as CHAIN.
+
+[06403.285]
+It's rough if you don't spend your SP cleverly.
+
+[06403.286]
+That's right. Join a chain of attacks with low SP and you'll only drag everyone down. Here too, the balance of spells and artes is what matters.
+
+[06403.288]
+They seem to be talking about "area of influence". Listen in?
+
+[06403.289]
+I thought attacking from behind the enemy would be an advantage, but somehow it wears me out.
+
+[06403.290]
+Hm. Fighting together with your friends is what gives you courage, Spirits included. So when the enemy splits you up, all kinds of recovery slow down, it seems.
+
+[06403.291]
+If you end up on the enemy's right side against your will, backstep with {09:47 00 00 00} + {09:19 00 00 00} to get back to the left.
+
+[06403.292]
+So I'd better not go round the back at all.
+
+[06403.293]
+By and large you can think of it that way. But once you learn to read the fight, you may be able to do work that makes up for the penalty.
+
+[06403.294]
+Theory isn't always right, after all.
+
+[06403.295]
+Once in a while you say something worth hearing.
+
+[06403.296]
+Too Veteran
+
+[06403.297]
+Son
+
+[06403.299]
+They seem to be talking about "status changes". Listen in?
+
+[06403.300]
+I've come down with a status ailment in battle. And not a Panacea Bottle to my name. Is this the end of me...?
+
+[06403.301]
+You mustn't give up, Father. Even if you get a status ailment in battle, it seems to wear off with time.
+
+[06403.302]
+Status ailments come in levels, so even gear that prevents them sometimes can't soften them enough, and they get through. We must be careful.
+
+[06403.303]
+Mmph... Must I go and fight again? It's hard on me...
+
+[06403.304]
+It's best to have food ready that cures status ailments, Father. I hear there are dishes and items that prevent them, too.
+
+[06403.305]
+Too late for that now! Poison {09:56 00 00 00}, paralysis {09:5F 00 00 00}, weakness {09:5A 00 00 00}, frozen, and slowed. I'm worn to a thread!
+
+[06403.306]
+You mustn't fib, Father. Only four status ailments can stay on one person at a time. And raising your abilities with an Enchant can even clear the poison.
+
+[06403.307]
+What's more, frozen and slowed are cured when the battle ends.
+
+[06403.308]
+So they are. And come to think of it, I was slow to begin with.
+
+[06403.309]
+Ha ha ha ha ha ha ha ha
+ha ha ha ha ha ha ha ha
+
+[06403.310]
+(Laughing rather too hard, I'd say...)
+
+[06403.311]
+Too Veteran
+
+[06403.312]
+Son
+
+[06403.314]
+They seem to be talking about "Spirits Blaster". Listen in?
+
+[06403.315]
+Even in a pinch, go Spirits Blaster and you've a chance to turn things around.
+
+[06403.316]
+If you want to go Spirits Blaster, Father, it helps to land attacks and not let the enemy guard them. Taking hits gets you there too, but that's dangerous for you, Father.
+
+[06403.317]
+Even with my strength gone, as a Spirits Blaster I can attack without flinching.
+
+[06403.318]
+Even so, Father, the effect ends when your HP runs out, and having healing magic cast on you makes it wear off sooner.
+
+[06403.319]
+I don't fuss over such trifles. My finest mystic arte can't be shown unless I'm a Spirits Blaster.
+
+[06403.320]
+No, Father. It's true mystic artes use a lot of SP, but it seems you can sometimes pull one off by using the SP that comes back when you defeat an enemy.
+
+[06403.321]
+Though they do say some archers can use the Spirits Blaster state to fire off a mystic arte in place of a follow-up spell, Father.
+
+[06403.322]
+Mind you, even when the arcane arte hits, you can't go on to the mystic arte unless the enemy is staggered. So with an arcane arte that launches them, it may not work on heavy foes.
+
+[06403.323]
+And so, let us be off at once, the two of us, to unleash our mystic artes.
+
+[06403.324]
+No, Father. I'm a spellcaster, so I don't use mystic artes.
+
+[06403.325]
+In fact, Father, SP drops to 0 after a mystic arte, so it gets terribly in the way. Please don't use a mystic arte when it won't even finish them off, Father.
+
+[06403.326]
+Because it gets in the way.
+
+[06403.327]
+(Once would have been enough, I'd say...)
+
+[06403.328]
+Too Veteran
+
+[06403.329]
+Son
+
+[06403.331]
+They seem to be talking about "Field of Effect". Listen in?
+
+[06403.332]
+The other day, that "Field of Effect" the enemy put out had me at my wits' end.
+
+[06403.333]
+FOE for short, Father. There are two main kinds: those that work on the enemies inside the area, and those that lower our abilities.
+
+[06403.334]
+When one of those comes out, is it all up with us?
+
+[06403.335]
+It's too soon to give up, Father. Some wear off with time, and some wear off as you pile up hits. And of course, they vanish when you land the finishing blow.
+
+[06403.336]
+If they put out one that works on us, would it be best to keep just one fighter up front and use spells?
+
+[06403.337]
+Yes, Father. But it still seems best to change strategy to suit the change of state. When it works on the enemy, Spectacles will tell you what it does.
+
+[06403.338]
+That aside, young people these days want to abbreviate anything and everything. It's a nuisance.
+
+[06403.339]
+(A bit late to say so, Father...)
+
+[06403.341]
+They seem to be talking about "Battle Grade". Listen in?
+
+[06403.342]
+So what's Battle Grade in the end?
+
+[06403.343]
+It tallies up all sorts of things you do in battle to measure "how well you fight", wasn't it, sir? The ratio of damage, misses, even using the same arte over and over all get judged.
+
+[06403.344]
+If you want a high score, aim for Technical Smashes, mix in your Enchants, and take as little damage as you can.
+
+[06403.345]
+Word is that using items, casting healing spells or changing equipment in battle is decidedly uncool.
+
+[06403.346]
+What's so good about it being high?
+
+[06403.347]
+That is under investigation, sir. Though some impudent people do say it is no use in this life...
+
+[06403.348]
+Well, don't think too hard about it. Just polish your own skills.
+
+[06403.349]
+Just what I'd expect of you, sir. I learn so much.
+
+[06403.351]
+They seem to be talking about "recovering". Listen in?
+
+[06403.352]
+When I get slammed into the ground, I go down.
+
+[06403.353]
+That is hard, sir. But if you press {09:47 00 00 00} at the very moment you touch the ground, you can recover, can't you?
+
+[06403.354]
+O-o-o-of course I knew that.
+
+[06403.355]
+Recovering cuts the time you spend down and, best of all, it's nice that it restores SP and TP, isn't it?
+
+[06403.356]
+O-o-o-o-of course I knew that.
+
+[06403.358]
+They seem to be talking about "battle difficulty". Listen in?
+
+[06403.359]
+What's the point of making battles harder?
+
+[06403.360]
+True, raising the battle difficulty won't bring peace to the world. But rumor has it the weapons and armor enemies drop get better.
+
+[06403.361]
+Then I'll crank it right up!
+
+[06403.362]
+But as you know, raising the difficulty raises the enemies' attack power and wits, and they use fearsome attacks they never use on normal difficulty. It's a hard choice, isn't it?
+
+[06403.363]
+In that case, NORMAL will do until I've brought peace to the world once.
+
+[06403.364]
+I don't quite follow what you mean, but you're quite right.
+
+[06403.365]
+SECOND is a moderate difficulty, so I feel I can recommend it if you want a bit more of a challenge.
+
+[06403.367]
+They seem to be deep in talk about "normal attacks". Listen in?
+
+[06403.368]
+I've got the hang of it, so lately for normal attacks I just keep hammering {09:45 00 00 00}.
+
+[06403.369]
+Hopeless. Utterly hopeless.
+
+[06403.370]
+The truth is, accuracy and damage drop somewhat on the second and third hits, but with the same attack repeated they drop even more.
+
+[06403.371]
+Whaat? Then what should I do?
+
+[06403.372]
+Hm. Building it as "{09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00}", that is, varying the combination, is the first step.
+
+[06403.373]
+What's the second step?
+
+[06403.374]
+{09:45 00 00 00}: attack and accuracy fall the most
+{09:17 00 00 00}{09:45 00 00 00}: attack up, accuracy down
+{09:19 00 00 00}{09:45 00 00 00}: attack down, accuracy up
+{09:16 00 00 00}{09:45 00 00 00}: attack and accuracy fall least
+
+[06403.375]
+Remember all that! Attacks with {09:45 00 00 00} cover a wide area and tend to hit easily, but in return they are not much use in a chain of attacks.
+
+[06403.376]
+This affects the next attack as well, so with "{09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}" and with "{09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}", the numbers for the third attack come out different.
+
+[06403.377]
+Then against enemies with high evasion I'll build from {09:19 00 00 00}{09:45 00 00 00}. And against enemies with low evasion I'll start from {09:17 00 00 00}{09:45 00 00 00}.
+
+[06403.378]
+As an example, that's the idea. Mind you, the differences are tiny, so if the other rules are all you can handle, there's no need to force yourself to learn this.
+
+[06403.380]
+They seem to be talking about "long talks". Listen in?
+
+[06403.381]
+Even useful talk wears a fellow out after about ten years of listening.
+
+[06403.382]
+Come to think of it, I never told you. Hold down {09:2F 00 00 00} and {09:2E 00 00 00} to fast-forward messages. Handy for skipping a conversation you've already read.
+
+[06403.383]
+Whaat? Why didn't you tell me that for ten whole years?
+
+[06403.384]
+Fool! A rookie like you, skipping through what I have to say? You're ten years too early for that!
+
+[06403.385]
+...is what I thought, and so I'm telling you now.
+
+[06403.386]
+Fair enough.
+
+[06403.388]
+They seem to be talking about "picking up items". Listen in?
+
+[06403.389]
+If I'm going to live as an adventurer, I want to grab items off enemies like crazy.
+
+[06403.390]
+Hm. Quite right. But there is a plausible-sounding rumor going round among adventurers.
+
+[06403.391]
+What rumor?
+
+[06403.392]
+"It seems the more items of one kind you carry, the lower the chance that enemies drop items," they say.
+
+[06403.393]
+That's no good! I'll sell the lot!
+
+[06403.394]
+I wouldn't go that far, but selling equipment you don't need wherever you can is a good idea for keeping things tidy, too.
+
+[06403.395]
+Of course, you might say an adventurer's wisdom is to refine: fewer things, better things.
+
+[06403.396]
+Also, if you want to use up consumables as you go, I've heard you should keep only a small number of each.
+
+[06403.397]
+With consumables, it's not the total that counts but how many of each you hold. That's the accepted view in adventuring circles, it seems.
+
+[06403.398]
+But with only a few, I tend to be stuck against strong enemies.
+
+[06403.399]
+There's that too. What matters is to adventure in the way that suits your own style.
+
+[06403.401]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06403.403]
+I'm going to master my own way!!
+
+[06403.404]
+Have a safe journey.
+
+[06403.405]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06403.406]
+Will you stay the night?
+
+[06403.408]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06403.409]
+Please rest well.
+
+[06403.410]
+Good morning.
+
+[06403.411]
+You do not have enough money.
+
+[06403.412]
+We look forward to seeing you again.
+
+[06403.417]
+Obtained {16:26 16}.
+
+[06403.419]
+Obtained {08:FF FF FF FF}.
+
+[06403.421]
+Found {16:26 1E}, but you can carry no more.
+
+[06403.423]
+There is nothing here.
+
+[06403.424]
+{08:12 00 00 00} Seller
+
+[06403.425]
+We sell {08:12 00 00 00} here.
+
+[06403.426]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06403.427]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06403.428]
+That will be {0B:01 00 00 00}{14:36 28}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06403.430]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:26 32} at once ({14:36 2C} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06403.432]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06403.433]
+Thank you for your purchase.
+
+[06403.434]
+Thank you for your purchase.
+
+[06403.435]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:36 28}{0B:00 00 00 00} Gald a bottle.
+
+[06403.436]
+Would you like to hear the Refine lessons?
+
+[06403.438]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06403.439]
+What would you like to know about?
+
+[06403.441]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06403.443]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06403.444]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06403.445]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06403.446]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06403.447]
+Lenses can be picked up by fighting monsters.
+
+[06403.448]
+Do take this chance to refine all you like.
+
+[06403.449]
+Changing an item means refining a single item to turn it into a different item.
+
+[06403.450]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06403.451]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06403.452]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06403.453]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06403.454]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06403.455]
+Ah, I should explain Slots first, shouldn't I.
+
+[06403.456]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06403.457]
+I will explain Slots in detail separately.
+
+[06403.458]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06403.459]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06403.460]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06403.461]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06403.462]
+Let me explain Slots in detail.
+
+[06403.463]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06403.464]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06403.465]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06403.466]
+Equipment with Slots is mostly dropped by monsters.
+
+[06403.467]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06403.468]
+Just between us, accessories can be refined too. But not with one another.
+
+[06403.469]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06403.470]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06403.471]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06403.472]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06403.473]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06403.474]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06403.475]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06403.476]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06403.477]
+So I recommend selling off the items you no longer need.
+
+[06403.478]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06403.479]
+...Keeping your items tidy matters too.
+

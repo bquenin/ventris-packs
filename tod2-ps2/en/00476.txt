@@ -1,0 +1,6 @@
+[00476.001]
+U-um, which way was it again...
+
+[00476.002]
+Hey, {NAME:01 00 00 00}! Don't just stand there! Move it or we're done for!
+

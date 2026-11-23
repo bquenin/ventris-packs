@@ -1,0 +1,18 @@
+[00546.001]
+I bet people in this world never travel. Every city's much the same, and the food's alike too.
+
+[00546.002]
+Before that, the outside air harms them, right? Nobody comes out by choice.
+
+[00546.003]
+If anyone did, it'd only be someone like {NAME:03 00 00 00}.
+
+[00546.004]
+Hmm, what? You mean I'm an adventurer?
+
+[00546.005]
+No. Dumped by every girl in town, so he has to move on.
+
+[00546.006]
+Ah. So.
+

@@ -1,0 +1,53 @@
+[06237.4788]
+Mary
+
+[06237.4795]
+Rutee
+
+[06237.4804]
+Elraine
+
+[06237.4815]
+Stahn
+
+[06237.4834]
+Philia
+
+[06237.4843]
+Kongman
+
+[06237.4854]
+This teddy bear at the
+Dunamis Orphanage:
+know who made it?
+
+[06237.4930]
+You knew that!
+Even I'd forgotten
+
+[06237.4970]
+A feat Rutee
+couldn't copy, maybe
+
+[06237.5010]
+For people's happiness!?
+
+[06237.5037]
+You're saying you
+saw it being made?
+
+[06237.5077]
+{NAME:01 00 00 00}...
+no lying, now
+
+[06237.5102]
+You're dreaming...
+
+[06237.5123]
+It wouldn't be
+odd, though
+
+[06237.5158]
+Not many know it.
+Can't be helped
+

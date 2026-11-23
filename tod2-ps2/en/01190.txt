@@ -1,0 +1,9 @@
+[01190.001]
+Once we're well prepared, we board the rocket {NAME:06 00 00 00} built!
+
+[01190.002]
+The hangar's under the building by the Radisrol.
+
+[01190.003]
+Right, go!
+

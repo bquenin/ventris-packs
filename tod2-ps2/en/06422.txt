@@ -1,0 +1,78 @@
+[06422.001]
+Oberon Corporation Abandoned Mine
+
+[06422.002]
+Oberon Corporation Abandoned Mine
+
+[06422.004]
+This... it's stopped.
+
+[06422.006]
+The power is off, is it...
+
+[06422.008]
+Right. Turn on the power of the "Lens-driven engine" in the engine room on the 1st floor.
+
+[06422.010]
+The lever cannot be switched while the conveyor belt is running.
+
+[06422.012]
+Switched the lever.
+
+[06422.014]
+The bomb fell to the floor below.
+
+[06422.016]
+A bomb has already been taken out. No more can be taken.
+
+[06422.021]
+{0B:01 00 00 00}"Bomb Maker"
+Lever A: {18:44 A0}
+Lever B: {18:44 A4}{0B:00 00 00 00}
+
+[06422.023]
+The bomb exploded!
+
+[06422.024]
+The bomb exploded!
+
+[06422.026]
+This wall looks like it could be broken.
+
+[06422.027]
+Have a safe journey.
+
+[06422.028]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06422.029]
+Will you stay the night?
+
+[06422.031]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06422.032]
+Please rest well.
+
+[06422.033]
+Good morning.
+
+[06422.034]
+You do not have enough money.
+
+[06422.035]
+We look forward to seeing you again.
+
+[06422.040]
+Obtained {16:26 02}.
+
+[06422.042]
+Obtained {08:FF FF FF FF}.
+
+[06422.044]
+Found {16:26 0A}, but you can carry no more.
+
+[06422.046]
+There is nothing here.
+

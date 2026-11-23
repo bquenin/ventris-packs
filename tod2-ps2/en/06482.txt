@@ -1,0 +1,184 @@
+[06482.001]
+Cherik: General Store & Grocer
+
+[06482.002]
+Cherik
+
+[06482.003]
+General Store & Grocer
+
+[06482.004]
+Grocer
+
+[06482.005]
+Ah, a customer? There's nothing much left, but will you buy something?
+
+[06482.006]
+Grocer
+
+[06482.007]
+Welcome! Care for some fresh fish?
+
+[06482.008]
+Thank you very much.
+
+[06482.009]
+Please come again.
+
+[06482.010]
+Grocer
+
+[06482.011]
+General Store
+
+[06482.012]
+Need any general goods?
+
+[06482.013]
+General Store
+
+[06482.014]
+Buy somethiiing. I'll make it cheap.
+
+[06482.015]
+Thaaanks.
+
+[06482.016]
+Stingyyy.
+
+[06482.017]
+General Store
+
+[06482.018]
+Thank you very much.
+
+[06482.019]
+Please come again.
+
+[06482.020]
+General Store
+
+[06482.021]
+Helen
+
+[06482.022]
+Did you find a {08:49 00 00 00}?
+
+[06482.024]
+{03:00 00 00 00}　I found one　
+　I haven't found one　
+　I'm not looking　
+
+[06482.025]
+Have you come by another {08:49 00 00 00}?
+
+[06482.026]
+Thank you so much. With this, the food shortage should be eased for a while.
+
+[06482.027]
+I say "for a while" because, in fact, it seems the same seed cannot be taken from a {08:49 00 00 00}.
+
+[06482.028]
+If you come by more {08:49 00 00 00}, I would be glad to have them.
+
+[06482.029]
+It is only a trifle, but this is to thank you.
+
+[06482.030]
+Thank you so very much.
+
+[06482.031]
+Really? Would you not let me have it?
+
+[06482.032]
+From what I have found out, a {08:44 00 00 00} improved through breeding becomes a {08:49 00 00 00}.
+
+[06482.033]
+I will give you this {08:44 00 00 00}.
+
+[06482.034]
+Please bring me a {08:49 00 00 00}.
+
+[06482.035]
+How cruel...
+
+[06482.036]
+Please tell me if you find one.
+
+[06482.037]
+Young Woman
+
+[06482.038]
+I am looking for the seeds of a crop that grows even in poor soil.
+
+[06482.039]
+If you would be so kind, might you help me?
+
+[06482.041]
+{03:00 00 00 00}　Hear her out　
+　No, thank you　
+
+[06482.042]
+The village where I live is turning to desert.
+
+[06482.043]
+It is not blessed with a rich source of water, as Hope Town is.
+
+[06482.044]
+At this rate it will fall short of food before long.
+
+[06482.045]
+So I came to Cherik looking for a crop that grows even in poor ground, but...
+
+[06482.046]
+From what I have heard, there is a crop called {08:49 00 00 00} that stands up to drought and yields well.
+
+[06482.047]
+If you find a {08:49 00 00 00}, would you let me have it?
+
+[06482.048]
+I should have said: my name is Helen, and I live in a nameless desert village.
+
+[06482.049]
+Please, at least hear me out.
+
+[06482.050]
+That is a pity.
+
+[06482.051]
+Have a safe journey.
+
+[06482.052]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06482.053]
+Will you stay the night?
+
+[06482.055]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06482.056]
+Please rest well.
+
+[06482.057]
+Good morning.
+
+[06482.058]
+You do not have enough money.
+
+[06482.059]
+We look forward to seeing you again.
+
+[06482.064]
+Obtained {16:25 BE}.
+
+[06482.066]
+Obtained {08:FF FF FF FF}.
+
+[06482.068]
+Found {16:25 C6}, but you can carry no more.
+
+[06482.070]
+There is nothing here.
+

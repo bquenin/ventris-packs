@@ -1,0 +1,325 @@
+[06411.001]
+Neustadt
+
+[06411.002]
+Neustadt
+
+[06411.004]
+A gold trophy in poor taste is on display.
+
+[06411.006]
+Jewels are displayed ostentatiously.
+
+[06411.008]
+Expensive-looking pottery is shown off with pride.
+
+[06411.010]
+Obtained {08:89 01 00 00}.
+
+[06411.012]
+Expensive-looking cigars lie on the desk.
+
+[06411.013]
+Merchant
+
+[06411.014]
+The "Oberon Corporation abandoned mine" lies west of this city.
+
+[06411.015]
+Merchant
+
+[06411.016]
+Follow the southern coastline through the White Cloud Ridge and you should find it soon.
+
+[06411.018]
+Got it! We'll bring back the treasure, I promise!
+
+[06411.019]
+Merchant
+
+[06411.020]
+The "Oberon Corporation abandoned mine" lies west of this city.
+
+[06411.021]
+Merchant
+
+[06411.022]
+Follow the southern coastline through the White Cloud Ridge and you should find it soon.
+
+[06411.023]
+Merchant
+
+[06411.024]
+Boo hoo hoo... To think the treasure of that giant company, the Oberon Corporation, was junk like this...
+
+[06411.026]
+Tough luck, mister. Well, something good will come along sooner or later.
+
+[06411.027]
+Merchant
+
+[06411.028]
+Ghh~! The will I went to such trouble to get!!
+
+[06411.029]
+Merchant
+
+[06411.030]
+Hoh ho ho ho. To meet such splendid warriors, I am in luck.
+
+[06411.031]
+Merchant
+
+[06411.032]
+What is the meaning of this! You said you would cut me in on it too~!
+
+[06411.033]
+Merchant
+
+[06411.034]
+He told me to hand over the paper, so I thought he meant the will and handed it over.
+
+[06411.035]
+Merchant
+
+[06411.036]
+And then he snatched it and ran straight into the toilet...
+
+[06411.037]
+General Store
+
+[06411.038]
+Welcome?
+
+[06411.039]
+Thank you very much.
+
+[06411.040]
+Please come again.
+
+[06411.041]
+General Store
+
+[06411.042]
+Maid
+
+[06411.043]
+Beyond here are the master's private rooms. I am very sorry, but I must ask guests to leave.
+
+[06411.044]
+Merchant
+
+[06411.045]
+Oh, I have been waiting for you! I was certain you would come!
+
+[06411.047]
+Of course! Helping people in trouble is a hero's mission too, after all.
+
+[06411.049]
+...So, what is it you want to ask of us?
+
+[06411.050]
+Merchant
+
+[06411.051]
+The fact is, there used to be a branch in this city of a great company called the Oberon Corporation...
+
+[06411.052]
+Merchant
+
+[06411.053]
+After the Oberon Corporation vanished in the last great upheaval, the treasure kept in its vault also disappeared like mist.
+
+[06411.054]
+Merchant
+
+[06411.055]
+However, my inquiries have revealed that the treasure lies sleeping in an abandoned mine near the city.
+
+[06411.057]
+In other words, "fetch that treasure from the abandoned mine". Is that it?
+
+[06411.058]
+Merchant
+
+[06411.059]
+I will reward you as handsomely as you like, so please, please, I beg of you.
+
+[06411.061]
+...You. Where did you sniff this out? How do you know of something written only in her will?
+
+[06411.062]
+Merchant
+
+[06411.063]
+L-Lady Ilene's will? We know nothing whatever of any such thing! We learned of it all by chance...
+
+[06411.065]
+How odd. I said only "her". I did not say a word about Ilene.
+
+[06411.066]
+Merchant
+
+[06411.067]
+Th-that is...
+
+[06411.069]
+Hey, hey, {NAME:04 00 00 00}. What are you picking a fight for! You're scaring the man.
+
+[06411.071]
+Scared? He is merely flustered because I hit the mark.
+
+[06411.072]
+Merchant
+
+[06411.073]
+H-hit the mark? That is slander! If this is how it is, let us forget the whole matter...
+
+[06411.075]
+Waaah! A-anyway! We just have to fetch the treasure, right?
+
+[06411.076]
+Merchant
+
+[06411.077]
+...Well, yes. But...
+
+[06411.079]
+All right, got it! Wait here, mister. We'll bring it back, I promise!
+
+[06411.080]
+Merchant
+
+[06411.081]
+When I bought up this mansion on the old Oberon Corporation site, there was a will in the vault.
+
+[06411.082]
+Merchant
+
+[06411.083]
+And those fools! A little flattery and off they flew.
+
+[06411.084]
+Merchant
+
+[06411.085]
+Even if they drop dead on the way, I am not out 1 Gald. I managed that rather well, if I say so myself.
+
+[06411.086]
+Merchant
+
+[06411.087]
+A shrewd businessman as ever. I should like to share in your luck. Hoh ho ho ho!
+
+[06411.088]
+Merchant
+
+[06411.089]
+Oh, I have been waiting for you! I was so worried you might have been hurt...
+
+[06411.091]
+Tch, what a lie!
+
+[06411.092]
+Merchant
+
+[06411.093]
+By the way, were you able to bring back the item we agreed on?
+
+[06411.095]
+Yeah, of course! Here, this!
+
+[06411.096]
+Merchant
+
+[06411.097]
+...Is this really the treasure?
+
+[06411.099]
+It was the only thing there that looked like one.
+
+[06411.100]
+Merchant
+
+[06411.101]
+...Um, what on earth is this?
+
+[06411.103]
+No idea!
+
+[06411.105]
+We were only told to bring back the treasure, you see.
+
+[06411.107]
+...Heh.
+
+[06411.108]
+Merchant
+
+[06411.109]
+Th-that is true, but...
+
+[06411.111]
+Well, we brought what we promised. We'd like our reward.
+
+[06411.112]
+Merchant
+
+[06411.113]
+...B-but if nobody knows what it is, can it be called treasure...
+
+[06411.115]
+...At this late stage, are you telling us to fetch something more?
+
+[06411.116]
+Merchant
+
+[06411.117]
+Eek! N-n-nothing at all! P-p-p-please, do accept this!
+
+[06411.119]
+Obtained {0B:01 00 00 00}{06:B8 0B 00 00}{0B:00 00 00 00} Gald.
+
+[06411.121]
+All right!
+
+[06411.123]
+Well then, that's that.
+
+[06411.124]
+Have a safe journey.
+
+[06411.125]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06411.126]
+Will you stay the night?
+
+[06411.128]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06411.129]
+Please rest well.
+
+[06411.130]
+Good morning.
+
+[06411.131]
+You do not have enough money.
+
+[06411.132]
+We look forward to seeing you again.
+
+[06411.137]
+Obtained {16:25 BA}.
+
+[06411.139]
+Obtained {08:FF FF FF FF}.
+
+[06411.141]
+Found {16:25 C2}, but you can carry no more.
+
+[06411.143]
+There is nothing here.
+

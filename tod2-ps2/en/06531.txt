@@ -1,0 +1,52 @@
+[06531.001]
+The Flying Dragon
+
+[06531.002]
+The Flying Dragon
+
+[06531.004]
+The treasure chest was a fake.
+
+[06531.005]
+Have a safe journey.
+
+[06531.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06531.007]
+Will you stay the night?
+
+[06531.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06531.010]
+Please rest well.
+
+[06531.011]
+Good morning.
+
+[06531.012]
+You do not have enough money.
+
+[06531.013]
+We look forward to seeing you again.
+
+[06531.018]
+Obtained {16:25 BE}.
+
+[06531.020]
+Obtained {08:FF FF FF FF}.
+
+[06531.022]
+Found {16:25 C6}, but you can carry no more.
+
+[06531.024]
+There is nothing here.
+
+[06531.025]
+Time over
+
+[06531.027]
+Destroyed the control unit.
+

@@ -1,0 +1,52 @@
+[06625.001]
+Altar of Punishment
+
+[06625.002]
+Catacombs: Altar of Punishment
+
+[06625.003]
+Catacombs
+
+[06625.005]
+There is writing on the stone tablet.
+
+[06625.007]
+If you wish for rebirth, light the "marks" with "flame" and strike the "bell" with "flame".
+
+[06625.008]
+Have a safe journey.
+
+[06625.009]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06625.010]
+Will you stay the night?
+
+[06625.012]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06625.013]
+Please rest well.
+
+[06625.014]
+Good morning.
+
+[06625.015]
+You do not have enough money.
+
+[06625.016]
+We look forward to seeing you again.
+
+[06625.021]
+Obtained {16:27 4A}.
+
+[06625.023]
+Obtained {08:FF FF FF FF}.
+
+[06625.025]
+Found {16:27 52}, but you can carry no more.
+
+[06625.027]
+There is nothing here.
+

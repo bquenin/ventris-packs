@@ -1,0 +1,42 @@
+[06278.4788]
+Sits waiting quietly
+
+[06278.4809]
+Fidgets
+
+[06278.4822]
+Starts to read
+
+[06278.4837]
+Hair in the wind
+
+[06278.4856]
+Pumps a fist
+
+[06278.4875]
+Press no button for a while:
+what does Chelsea do in the
+active party window?
+
+[06278.4974]
+Right.
+
+[06278.4981]
+That is what Rutee
+does in that case.
+
+[06278.5023]
+That is what Philia
+does in that case.
+
+[06278.5065]
+That is what Woodrow
+does in that case.
+
+[06278.5109]
+That is what Stahn
+does in that case.
+
+[06278.5149]
+Time's up
+

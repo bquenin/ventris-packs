@@ -1,0 +1,39 @@
+[06332.001]
+Laguna Ruins
+
+[06332.002]
+Laguna Ruins
+
+[06332.004]
+Amazing... It's amazing, {NAME:03 00 00 00}! I've never seen a Lens this big in my life.
+
+[06332.006]
+Me neither, {NAME:01 00 00 00}. This ain't a dream, is it...
+
+[06332.008]
+No use standin' around forever. The question is how we get this thing home...
+
+[06332.010]
+W-whoa...!!
+
+[06332.012]
+What's wrong, {NAME:03 00 00 00}?
+
+[06332.014]
+J-just now, there was somethin' inside the Lens!
+
+[06332.016]
+Inside the Lens? Wasn't it just a trick of the light?
+
+[06332.018]
+Watch yourself, {NAME:01 00 00 00}! There might be a trap set!
+
+[06332.020]
+Haha, it's fine, look.
+
+[06332.022]
+Waaah!! Wh-what's...!?
+
+[06332.024]
+Look out! Get down, {NAME:01 00 00 00}!
+

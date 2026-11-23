@@ -1,0 +1,184 @@
+[06397.001]
+Regular Ship
+
+[06397.002]
+Regular Ship
+
+[06397.004]
+A very large piece of cargo. The contents... look like iron ore.
+
+[06397.006]
+An address is written on it. "Heidelberg Outfitter: Soul & Sword" "Goods: imitation Berselium"
+
+[06397.007]
+Sailor
+
+[06397.008]
+A girl? I think I saw her up on deck.
+
+[06397.009]
+Sailor
+
+[06397.010]
+Maybe ships are new to her. She seemed to be looking around at all sorts of things.
+
+[06397.011]
+Sailor
+
+[06397.012]
+Everyone, at times like this above all, do not panic, stay calm, and follow my instructions!
+
+[06397.013]
+Sailor
+
+[06397.014]
+Um, first check that the fires are out and the doors are locked... and then, and then...
+
+[06397.016]
+What good are you if you're the one losing your head...
+
+[06397.017]
+Sailor
+
+[06397.018]
+Um, first check that the fires are out and the doors are locked... and then, and then...
+
+[06397.019]
+Sailor
+
+[06397.020]
+The captain was looking for you. He says he has something to talk about.
+
+[06397.022]
+I wonder what... Well, we want to talk to him too, so that works out.
+
+[06397.023]
+Sailor
+
+[06397.024]
+The captain is in the wheelhouse. Sorry, but would you look in on him?
+
+[06397.025]
+Sailor
+
+[06397.026]
+Thanks to you, it looks like we can somehow set sail for Snowfria.
+
+[06397.027]
+Sailor
+
+[06397.028]
+Truly, it's all thanks to the hero and the saint.
+
+[06397.029]
+Sailor
+
+[06397.030]
+Now it's our turn to deliver you safely to your destination. Rest easy, you're in good hands.
+
+[06397.031]
+Sailor
+
+[06397.032]
+The captain is in the wheelhouse.
+
+[06397.033]
+Sailor
+
+[06397.034]
+To be able to help with everyone's pilgrimage like this fills me with emotion. Something is welling up in my chest...
+
+[06397.035]
+Sailor
+
+[06397.036]
+Urgh... urp!
+
+[06397.037]
+Sailor
+
+[06397.038]
+Urgh... urp!
+
+[06397.040]
+{NAME:03 00 00 00}, look!
+
+[06397.041]
+Mother
+
+[06397.042]
+O God... please... please, save us...!
+
+[06397.044]
+Hey! If you sit slumped in a place like this, you won't be saved even if you could be!
+
+[06397.045]
+Girl
+
+[06397.046]
+Mamaa! Mama, I'm scared~!!
+
+[06397.048]
+Um... hey... please stop crying...
+
+[06397.049]
+Girl
+
+[06397.050]
+Mamaa! Mamaa~!!
+
+[06397.052]
+It's all right! Your mama, you, everyone will be saved! So calm down!
+
+[06397.053]
+Girl
+
+[06397.054]
+Uu... sniff...
+
+[06397.056]
+There, good kid! Now listen, go up on deck with your mama. Got it?
+
+[06397.058]
+...Damn! We have to do something, fast!
+
+[06397.060]
+........
+
+[06397.061]
+Have a safe journey.
+
+[06397.062]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06397.063]
+Will you stay the night?
+
+[06397.065]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06397.066]
+Please rest well.
+
+[06397.067]
+Good morning.
+
+[06397.068]
+You do not have enough money.
+
+[06397.069]
+We look forward to seeing you again.
+
+[06397.074]
+Obtained {16:25 BA}.
+
+[06397.076]
+Obtained {08:FF FF FF FF}.
+
+[06397.078]
+Found {16:25 C2}, but you can carry no more.
+
+[06397.080]
+There is nothing here.
+

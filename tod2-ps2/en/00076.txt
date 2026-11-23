@@ -1,0 +1,24 @@
+[00076.001]
+Mom told me Dad set out on his adventure at about my age... So that means I can become a hero one of these days too, right?
+
+[00076.002]
+Nai~ve, so nai~ve! You're dead wrong if you think becoming a hero is that easy, {NAME:01 00 00 00}.
+
+[00076.003]
+Hmph! What's that for! Why are you so sure I can't!
+
+[00076.004]
+Nobody said you can't. I'm just saying you need a lot more training. Listen, think it through. If it were that easy, who'd think much of heroes? It's because nobody can become one that everyone looks up to them.
+
+[00076.005]
+I see. Yeah, you're right...
+
+[00076.006]
+In other words, if you want to be a hero, you have to train a hundred times harder than anyone else.
+
+[00076.007]
+A hundred times! All right! If that's settled, I'm running all the way to the ruins right now! Hyaaaah~~~!!
+
+[00076.008]
+H-hey! Don't run off alone!! Haah... He still needs me around...
+

@@ -1,0 +1,61 @@
+[06725.001]
+Oberon Corporation Abandoned Mine
+
+[06725.002]
+Oberon Corporation Abandoned Mine
+
+[06725.004]
+A memo left behind, perhaps, by someone shut in by the rockfall.
+
+[06725.006]
+"It's no good... No water... The food ran out long ago..."
+
+[06725.008]
+"At a time like this, of all times, my parents' faces come to me... After all the grief I gave them... What a selfish wretch I am..."
+
+[06725.010]
+"To go before your parents is the worst wrong you can do them... Help me help me help me HELP ME HELP ME HELP ME!"
+
+[06725.012]
+"If only I live, if only I live! I want nothing else, I don't want the money! I want to live help help help..."
+
+[06725.014]
+From here on the writing is too wild to read...
+
+[06725.015]
+Have a safe journey.
+
+[06725.016]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06725.017]
+Will you stay the night?
+
+[06725.019]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06725.020]
+Please rest well.
+
+[06725.021]
+Good morning.
+
+[06725.022]
+You do not have enough money.
+
+[06725.023]
+We look forward to seeing you again.
+
+[06725.028]
+Obtained {16:25 BA}.
+
+[06725.030]
+Obtained {08:FF FF FF FF}.
+
+[06725.032]
+Found {16:25 C2}, but you can carry no more.
+
+[06725.034]
+There is nothing here.
+

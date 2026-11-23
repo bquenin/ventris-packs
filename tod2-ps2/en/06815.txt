@@ -1,0 +1,45 @@
+[06815.2448]
+Memory Card slot 4
+
+[06815.2472]
+Memory Card slot 3
+
+[06815.2496]
+Memory Card slot 2
+
+[06815.2520]
+Memory Card slot 1
+
+[06815.2544]
+: no Memory Card (PS2)
+is inserted.
+  
+As things are, data cannot be saved.
+
+
+[06815.2640]
+: please insert a
+Memory Card (PS2).
+
+[06815.2696]
+    Start the game as things are?    
+  
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06815.2768]
+: cannot access the
+Memory Card (PS2).
+
+[06815.2824]
+: the Memory Card (PS2)
+does not have enough free space.
+  
+To save this game's data you need at least
+the following free space.
+  
+- Save data (new)     
+
+[06815.2992]
+KB
+- Suspend data (new)  
+

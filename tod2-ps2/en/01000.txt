@@ -1,0 +1,48 @@
+[01000.001]
+That is... Dycroft!
+
+[01000.002]
+...Why's that here... Stahn and the others smashed it eighteen years ago!?
+
+[01000.003]
+Th-then, this is... the past!?
+
+[01000.004]
+It can't be! We didn't jump through time. Not to the past, not to the future...!
+
+[01000.005]
+In which case... this is our own time.
+
+[01000.006]
+Th-that can't be! If that thing's floating up there...
+
+[01000.007]
+You saw that light just now. That was the light of Lenses. Not of Belcrant. Most likely it is feeding some kind of energy to that dome. Dycroft has appeared twice in history, and neither time did it ever supply energy to the surface.
+
+[01000.008]
+Elraine!?
+
+[01000.009]
+Eh?
+
+[01000.010]
+Surely not, Elraine did that!?
+
+[01000.011]
+Most likely.
+
+[01000.012]
+Hey, what's going on? Explain, {NAME:04 00 00 00}!
+
+[01000.013]
+This is our own time, beyond doubt. But one remade by Elraine's hand to suit herself...
+
+[01000.014]
+H-how could that be!
+
+[01000.015]
+...It can be. Because Elraine can jump to the past. Change the past and the future changes. She could even change the world.
+
+[01000.016]
+A-anyway, let's go there! We may learn something.
+

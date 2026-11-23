@@ -1,0 +1,3 @@
+[00220.001]
+Hey, where to? There's nowhere else to stay round here. And you'd leave {NAME:02 00 00 00} behind?
+

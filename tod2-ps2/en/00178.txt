@@ -1,0 +1,12 @@
+[00178.001]
+Come on, {NAME:03 00 00 00}! Hurry up! Dawdle and I'll leave you behind!
+
+[00178.002]
+Hold on! You've got too much energy! ......Listen, girls don't like a pushy man. This is where you show a little cool...
+
+[00178.003]
+This time I'll tell her I'm a hero!
+
+[00178.004]
+Not listening.
+

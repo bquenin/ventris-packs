@@ -1,0 +1,24 @@
+[00126.001]
+Hey {NAME:04 00 00 00}, how come you know about a hidden passage like this?
+
+[00126.002]
+Yeah! And if getting away is this easy, why didn't you get away before now?
+
+[00126.003]
+Anyone could see through a hidden passage like that. And since I could leave at any time, there was no need to hurry.
+
+[00126.004]
+Ugh... He answered that so easily.
+
+[00126.005]
+Don't be fooled, {NAME:01 00 00 00}. Nobody in a mask like that can be above suspicion.
+
+[00126.006]
+Hmph. Say what you like. But can you two get out of here by yourselves?
+
+[00126.007]
+Gh...
+
+[00126.008]
+If that is clear, walk.
+

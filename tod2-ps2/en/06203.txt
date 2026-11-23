@@ -1,0 +1,61 @@
+[06203.6468]
+Tales of Destiny 2
+
+[06203.6495]
+Tales of Destiny
+
+[06203.6520]
+Tales of Phantasia
+
+[06203.6545]
+Tales of Eternia
+
+[06203.6568]
+Assorted...
+
+[06203.6581]
+Tales of Destiny 2 of {NAME:01 00 00 00}
+
+[06203.6626]
+Huh?
+It's a blank book...
+
+[06203.6652]
+An old save file, or
+tampered data...
+
+[06203.6694]
+Maybe{03:10 00 00 00}...{03:04 00 00 00} a bug?
+
+[06203.6725]
+Which quiz shall I do?
+{03:00 00 00 00}{05:C0 00 00 00}({09:36 00 00 00} to cancel)
+
+[06203.6787]
+OK!
+"%s" it is!
+
+[06203.6805]
+No, I'll stop
+
+[06203.6822]
+Quit
+
+[06203.6829]
+Go on
+
+[06203.6838]
+ %s earned
+ the title "%s".
+
+[06203.6866]
+Fun quiz time starts now!
+
+[06203.6893]
+Phew... good workout
+
+[06203.6914]
+{05:80 01 00 00}No quiz for now
+ 
+{09:35 00 00 00}{09:36 00 00 00}Close the book
+

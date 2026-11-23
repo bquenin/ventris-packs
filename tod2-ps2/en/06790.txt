@@ -1,0 +1,208 @@
+[06790.001]
+Regular Ship
+
+[06790.002]
+Regular Ship
+
+[06790.004]
+I've been looking for you, {NAME:04 00 00 00}! Honestly, going off without a word like that!
+
+[06790.006]
+........
+
+[06790.008]
+U-um, {NAME:04 00 00 00}...
+
+[06790.010]
+I believe in you!
+
+[06790.012]
+{NAME:01 00 00 00}...?
+
+[06790.014]
+How old you are, who you are, {NAME:04 00 00 00}, none of it matters. {NAME:04 00 00 00}, I believe in you!
+
+[06790.016]
+So come with us! Let's keep traveling!
+
+[06790.018]
+{NAME:01 00 00 00}, you...
+
+[06790.020]
+...Why? How can you believe in me? In me, who will reveal nothing...
+
+[06790.022]
+Why... Hmm, let me think...
+
+[06790.024]
+Because I like you, {NAME:04 00 00 00}... I think.
+
+[06790.026]
+...Like me?
+
+[06790.028]
+I like you, so I want to be with you, {NAME:04 00 00 00}, and I can believe in you.
+
+[06790.030]
+I have told you nothing, you know? To come to like such a person is...
+
+[06790.032]
+Look, {NAME:04 00 00 00}, can you only like someone once they've told you all their secrets?
+
+[06790.034]
+That's...
+
+[06790.036]
+You can't, right? Secrets or no secrets, it doesn't matter. It's just whether you like the person.
+
+[06790.038]
+So it's the same with you, {NAME:04 00 00 00}. Even with secrets...
+
+[06790.040]
+No, the secrets and a~ll the rest, I like you, {NAME:04 00 00 00}!
+
+[06790.042]
+{NAME:01 00 00 00}...
+
+[06790.044]
+...{NAME:01 00 00 00}. I...
+
+[06790.046]
+That's all I wanted to say! See you!
+
+[06790.048]
+...This time would be different, I thought. But in the end I am doing the same thing over again...
+
+[06790.050]
+Even so... even so. I cannot take off the mask. I must hide everything and see it through...
+
+[06790.052]
+So this is where you were.
+
+[06790.054]
+...{NAME:01 00 00 00}.
+
+[06790.056]
+You were on deck today. I kept looking up the whole time!
+
+[06790.058]
+U-um, {NAME:02 00 00 00}... There's something I want to ask.
+
+[06790.060]
+You knew all of it, didn't you? That this is the world ten years on, and that there's a god.
+
+[06790.062]
+...Yes.
+
+[06790.064]
+Then, {NAME:02 00 00 00}, does that mean... you were from this time all along?
+
+[06790.066]
+...Yes, I was.
+
+[06790.068]
+I thought so...
+
+[06790.070]
+I'm sorry. For keeping quiet all this time...
+
+[06790.072]
+Oh, no, I'm not blaming you! It's just, I was a bit startled...
+
+[06790.074]
+I mean, come on. I never dreamed I'd get to know a girl who came from the future.
+
+[06790.076]
+........
+
+[06790.078]
+U-um, so then, Elraine too is...
+
+[06790.082]
+What?
+
+[06790.084]
+...I'm sorry. I can't say any more than that. So...
+
+[06790.086]
+Oh... o-okay. Got it...
+
+[06790.088]
+So this is where you were.
+
+[06790.090]
+We'll be in Cherik soon. Get ready to go ashore.
+
+[06790.092]
+Ah, yeah...
+
+[06790.094]
+By the way, {NAME:02 00 00 00}. Are you by any chance one of the "two Saints"?
+
+[06790.096]
+So you are. When I heard your name, I did wonder.
+
+[06790.098]
+Please, {NAME:05 00 00 00}! About this...
+
+[06790.100]
+Keep it from {NAME:01 00 00 00}? I don't mind.
+
+[06790.102]
+Thank you...
+
+[06790.104]
+{NAME:02 00 00 00}, you...
+
+[06790.106]
+...Well, it's not for me to say this or that.
+
+[06790.108]
+I'll go on to the cabin. Come down soon.
+
+[06790.110]
+...If I can, I do not want {NAME:01 00 00 00} to know.
+
+[06790.112]
+But one day he is sure to find out. And then I...
+
+[06790.114]
+{NAME:02 00 00 00} earned the title "{08:23 08 00 00}".
+
+[06790.116]
+Have a safe journey.
+
+[06790.117]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06790.118]
+Will you stay the night?
+
+[06790.120]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06790.121]
+Please rest well.
+
+[06790.122]
+Good morning.
+
+[06790.123]
+You do not have enough money.
+
+[06790.124]
+We look forward to seeing you again.
+
+[06790.129]
+Obtained {16:26 F2}.
+
+[06790.131]
+Obtained {08:FF FF FF FF}.
+
+[06790.133]
+Found {16:26 FA}, but you can carry no more.
+
+[06790.135]
+There is nothing here.
+

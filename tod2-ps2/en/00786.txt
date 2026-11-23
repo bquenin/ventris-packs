@@ -1,0 +1,15 @@
+[00786.001]
+Hey, {NAME:06 00 00 00}. To "control Belcrant", can't we just smash the machines any old way?
+
+[00786.002]
+You could try... but the energy would run wild, and at worst Belcrant goes off.
+
+[00786.003]
+If "Belcrant breaks", that's fine, isn't it!
+
+[00786.004]
+And then "Dycroft blows up too" and we're all dead. "The blown-up aerial cities" rain down, and "the surface is wiped out" as well. Well? Want to try?
+
+[00786.005]
+M-maybe I'll leave it...
+

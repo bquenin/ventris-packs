@@ -1,0 +1,27 @@
+[00310.001]
+♪ Look, look, {NAME:01 00 00 00}! The roads, the roofs, a~ll snow! Amazing!
+
+[00310.002]
+Haha! You're really enjoying yourself, {NAME:02 00 00 00}!
+
+[00310.003]
+Oh, and you, {NAME:01 00 00 00}? That face from before is gone. You're all smiles!
+
+[00310.004]
+Y-you think so... hehehe.
+
+[00310.005]
+...But that suits you better, {NAME:01 00 00 00}.
+
+[00310.006]
+Hey~, that makes me sound like I grin all the time.
+
+[00310.007]
+Oh, don't you?
+
+[00310.008]
+You said it! Why, you!
+
+[00310.009]
+Hehe! You won't catch me, {NAME:01 00 00 00}!
+

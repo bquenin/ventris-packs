@@ -1,0 +1,21 @@
+[00688.001]
+Say, this is an army camp, isn't it? Wandering about dressed like this, won't we, well, look suspicious...
+
+[00688.002]
+Hmm... Now you mention it, true. However you look at us... we don't pass for soldiers.
+
+[00688.003]
+And if, just if, they did get suspicious... what happens to us?
+
+[00688.004]
+Arrested and held on the spot. If we were taken for Heavenly Army spies, a court-martial and then execution... is not out of the question.
+
+[00688.005]
+H-hey now. Don't scare me... What do we do, {NAME:01 00 00 00}? Maybe we shouldn't go wandering about here.
+
+[00688.006]
+Hmm... Anyway, let's think as we walk.
+
+[00688.007]
+Do you rea~lly get how bad it is?
+

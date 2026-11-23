@@ -1,0 +1,9 @@
+[00138.001]
+Hey, {NAME:01 00 00 00}. Burn the look of this town into your eyes while you can.
+
+[00138.002]
+It's fine! I won't forget it even without doing that.
+
+[00138.003]
+Just hush and do as I say... A plain view like this... can hold you up when it counts.
+

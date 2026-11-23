@@ -1,0 +1,18 @@
+[00938.001]
+Two men trudging along, beating monsters... It's not bad, but, you know... we've got no "flower" with us.
+
+[00938.002]
+Flower? You want a flower, {NAME:03 00 00 00}? Shall I go and pick some somewhere?
+
+[00938.003]
+Sigh~, you don't get it... By "flower" I mean a woman's touch. I'd like a pretty lady along as a traveling companion.
+
+[00938.004]
+Hmm... But then you couldn't chat up other women any more.
+
+[00938.005]
+Ugh... true. I want comfort... but new meetings are hard to give up... Aah! What on earth am I to do!!
+
+[00938.006]
+Worry once it's really so...
+

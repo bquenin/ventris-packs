@@ -1,0 +1,25 @@
+[06284.4788]
+Basilisk
+
+[06284.4799]
+Bugbear
+
+[06284.4808]
+Basiclisk
+
+[06284.4819]
+Banlisk
+
+[06284.4830]
+Which monster appears
+around here?
+
+[06284.4876]
+Right.
+
+[06284.4883]
+Wrong.
+
+[06284.4890]
+Time's up
+

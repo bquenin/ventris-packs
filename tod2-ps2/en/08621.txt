@@ -1,0 +1,6 @@
+[08621.001]
+Wind Elemental
+
+[08621.004]
+Ice Elemental
+

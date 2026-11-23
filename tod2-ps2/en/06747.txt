@@ -1,0 +1,61 @@
+[06747.001]
+Aigrette: General Store
+
+[06747.002]
+Aigrette
+
+[06747.003]
+General Store
+
+[06747.004]
+Item Shop
+
+[06747.005]
+Welcome! This is a shop for people who cannot get rations.
+
+[06747.006]
+To tell the truth, even if I earn money, there is nothing to spend it on here.
+
+[06747.007]
+Are you someone who cannot get rations?
+
+[06747.008]
+Item Shop
+
+[06747.009]
+Have a safe journey.
+
+[06747.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06747.011]
+Will you stay the night?
+
+[06747.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06747.014]
+Please rest well.
+
+[06747.015]
+Good morning.
+
+[06747.016]
+You do not have enough money.
+
+[06747.017]
+We look forward to seeing you again.
+
+[06747.022]
+Obtained {16:25 BA}.
+
+[06747.024]
+Obtained {08:FF FF FF FF}.
+
+[06747.026]
+Found {16:25 C2}, but you can carry no more.
+
+[06747.028]
+There is nothing here.
+

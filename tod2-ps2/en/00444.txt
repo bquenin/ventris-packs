@@ -1,0 +1,6 @@
+[00444.001]
+Hey, {NAME:04 00 00 00}. What's back there? You said Ixi-something just now...
+
+[00444.002]
+Time is short, is it not? Less thinking, more walking.
+

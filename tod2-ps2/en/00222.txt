@@ -1,0 +1,12 @@
+[00222.001]
+Lienea village...... What a nice place. We got a proper rest, and Lilith's cooking was superb.
+
+[00222.002]
+You mean that stew? ......Country seasoning. It lacked refinement.
+
+[00222.003]
+Come on, {NAME:04 00 00 00}. You cleaned your plate and had seconds too.
+
+[00222.004]
+Q-quiet! I never said it was bad!
+

@@ -1,0 +1,150 @@
+[75.000]
+Cave of Volt
+
+[75.001]
+Tower of Flame
+
+[75.002]
+"We are the guardians of the Tower of Flame. We shall put your strength to the test!"
+
+[75.003]
+"This is... a spellbook!"{PAGE}
+
+
+[75.004]
+{COLOR:03}{アーチェ} learned {STR:E107}.{COLOR:02}
+
+[75.005]
+"But it's no use my holding on to it. I'll put it back."
+
+[75.006]
+"It's fixed fast and won't move."
+
+[75.007]
+It reads: "Hidden passage on the right of the room with the stairs up."
+
+[75.008]
+{COLOR:03}There is a lever. Throw it?{COLOR:02}
+
+[75.009]
+"This lever is broken."
+
+[75.010]
+{COLOR:03}There is a lever. Pull it down?{COLOR:02}
+
+[75.011]
+It reads: "Conversion by magic power. Ice to flame, and flame to ice. It shall be the key that guards your life."
+
+[75.012]
+"It is shut fast."
+
+[75.013]
+It reads: "Guard inside"
+
+[75.014]
+"'On this floor a secret...' It's worn away and I can't read it."
+
+[75.015]
+It reads: "Wind is nothing, earth is the source, water is ruin, fire is power."
+
+[75.016]
+It reads: "Emergency exit"
+
+[75.017]
+"Hm? There's an invisible wall..."
+
+[75.018]
+{クレス}
+"Is this thing Volt?"{PAGE}
+Volt
+"&S7★●▲)%+)0(■F+★I!!"{PAGE}
+{クラース}
+"Wh-what is it saying?"{PAGE}
+Volt
+"H♥2IOU<★788♥%☆◆)&!!!"
+
+[75.019]
+{クラース}
+"It seems to have quietened down at last. Now I shall make the pact. Do you understand what I am saying?"{PAGE}
+Volt
+"□9☆&=)H&▲H%3J..."{PAGE}
+{クラース}
+"W-well, never mind..."{PAGE}
+{クレス}
+"But which pact ring do we use?"{PAGE}
+{クラース}
+"Ugh...{PAGE}
+L-let us lay them all out."
+
+[75.020]
+{クラース}
+"I now beseech the spirit of thunder. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."{PAGE}
+{クレス}
+"Oh, the Sardonyx ring has begun to glow..."
+
+[75.021]
+{COLOR:03}{クラース} can now summon {STR:0E08}.
+
+
+[75.022]
+???
+"My name is Flamberge.{PAGE}
+You would carry off the sword of flame? The soul of Lord Odin dwells in it. I can never give it up!"
+
+[75.023]
+Flamberge
+"Nngh... T-to you I may entrust my life.{PAGE}
+Come, take it. The sword of flame!"
+
+[75.024]
+{COLOR:03}Received {STR:430C}.{COLOR:02}{PAGE}
+{クレス}
+"Wh-what? It's speaking straight into my head..."
+
+[75.025]
+Flamberge
+"Ha ha ha, I feel a strong, strong spirit!{PAGE}
+Let me draw out the power that lies hidden in your body!"
+
+[75.026]
+{クレス}
+"I-it feels as if something is being poured into my head..."{PAGE}
+
+
+[75.027]
+{COLOR:03}{クレス} learned Kokuusouhazan.{COLOR:02}
+
+[75.028]
+{クレス}
+"{アーチェ}, go and fetch it, would you?"{PAGE}
+{アーチェ}
+"I knew you'd say that..."
+
+[75.029]
+{チェスター}
+"{アーチェ}, don't go pocketing it!"{PAGE}
+
+
+[75.030]
+{アーチェ}
+"Oh, shut up! As if I would!"
+
+[75.031]
+{アーチェ}
+"Here, {クレス}!!"{PAGE}
+{クレス}
+"Y-you needn't be so cross..."{PAGE}
+{アーチェ}
+"Hmph! I haaate you, {チェスター}!!"{PAGE}
+{チェスター}
+"Tch! Who ever said I liked you!?"
+
+[75.032]
+{クレス}
+"What's the matter, {アーチェ}?"{PAGE}
+{アーチェ}
+"Nothing!!"
+
+[75.033]
+{COLOR:03}Received {STR:CD0C} and {STR:E90B}.{COLOR:02}
+

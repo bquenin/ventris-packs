@@ -1,0 +1,18 @@
+[00398.001]
+Man, was I glad to meet up with you lot. I've had my fill of minding those little ones...
+
+[00398.002]
+Eh? {NAME:03 00 00 00}, you and {NAME:04 00 00 00} were playing with them and looked like you were having a great time.
+
+[00398.003]
+Du~mmy! That was no "play". It was proper training for fighting monsters. You've no idea how black and blue {NAME:04 00 00 00} and I got before you came...
+
+[00398.004]
+I dodged properly, so as to take no lasting harm. Should you not stay and have them train you a little more?
+
+[00398.005]
+Haha. He's got a point. I'll give the kids your regards.
+
+[00398.006]
+Urgh... Give me a break...
+

@@ -1,0 +1,46 @@
+[06381.001]
+Straylize Ruins
+
+[06381.002]
+Straylize Ruins
+
+[06381.004]
+A "Y" is shown in "purple letters".
+
+[06381.005]
+Have a safe journey.
+
+[06381.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06381.007]
+Will you stay the night?
+
+[06381.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06381.010]
+Please rest well.
+
+[06381.011]
+Good morning.
+
+[06381.012]
+You do not have enough money.
+
+[06381.013]
+We look forward to seeing you again.
+
+[06381.018]
+Obtained {16:25 BA}.
+
+[06381.020]
+Obtained {08:FF FF FF FF}.
+
+[06381.022]
+Found {16:25 C2}, but you can carry no more.
+
+[06381.024]
+There is nothing here.
+

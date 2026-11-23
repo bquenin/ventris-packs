@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: A bug in ventris itself
+    url: https://github.com/bquenin/ventris/issues/new/choose
+    about: The program refuses a pack it should take, crashes, or builds a game that does not start. That belongs in the engine's repository.

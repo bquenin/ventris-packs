@@ -1,0 +1,24 @@
+[00520.001]
+Hmm...
+
+[00520.002]
+What are you staring that Lens down for, {NAME:01 00 00 00}?
+
+[00520.003]
+Well, everyone in this world wears a Lens on their head. I thought maybe we should too, so as not to stand out... but then, how do you stick it on?
+
+[00520.004]
+How do you come up with such foolishness?
+
+[00520.005]
+Lucky you, {NAME:04 00 00 00}~. You can just say "it's under my mask"!
+
+[00520.006]
+Then you may all wear masks too.
+
+[00520.007]
+Five people, all in masks...
+
+[00520.008]
+We'd stand out.
+

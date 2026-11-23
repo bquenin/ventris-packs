@@ -1,0 +1,21 @@
+[00898.001]
+I thank you... {NAME:02 00 00 00}.
+
+[00898.002]
+Eh!?
+
+[00898.003]
+At last he has his own look in his eyes again.
+
+[00898.004]
+...Hehe. You're kind, {NAME:04 00 00 00}.
+
+[00898.005]
+D-do not mistake me! I was only thinking of the morale of the team as a whole...!
+
+[00898.006]
+Thank you... for worrying about {NAME:01 00 00 00}.
+
+[00898.007]
+Hmph. Think as you like.
+

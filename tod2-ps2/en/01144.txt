@@ -1,0 +1,6 @@
+[01144.001]
+A hero... me!
+
+[01144.002]
+First, let's rejoin {NAME:04 00 00 00}.
+

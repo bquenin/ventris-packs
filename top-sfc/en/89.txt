@@ -1,0 +1,124 @@
+[89.000]
+{COLOR:03}It is midnight. Rest?
+
+[89.001]
+Day {NUM:801F}
+
+[89.002]
+Day 1
+
+[89.003]
+Valhalla Plains
+
+[89.004]
+"The operation is under way. You had better not leave the Valhalla Plains."
+
+[89.005]
+Raizen
+"Do not dawdle! Carry out the operation with all speed!!"
+
+[89.006]
+"You can rest here, but it will cost you eight hours."{PAGE}
+{COLOR:03}Rest?{COLOR:02}
+
+[89.007]
+"I am with the item supply unit. Which item will you take on?"{PAGE}
+　1. {STR:A90C}
+　2. {STR:A80C}
+　3. {STR:A30C}
+　4. {STR:B30C}{COLOR:03}
+
+[89.008]
+You now have all the {STR:A90C}
+
+[89.009]
+You now have all the {STR:A80C}
+
+[89.010]
+You now have all the {STR:A30C}
+
+[89.011]
+You now have all the {STR:B30C}
+
+[89.012]
+{COLOR:02}You can take on supplies at any time.
+
+[89.013]
+ you can carry.{COLOR:02}
+
+[89.014]
+Swordsman
+"Clear the mind of all thought, and even the cold is forgotten!"
+
+[89.015]
+Swordsman
+"You, are you a swordsman? Will you not buy this book of secret arts?"{PAGE}
+{クレス}
+"What, a book of secret arts!?"{PAGE}
+Swordsman
+"It was given to me, but the technique of some school or other... I go my own way and no other!!{PAGE}
+Well? 50000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[89.016]
+The way of the sword is hard. The way of the merchant is hard too...
+
+[89.017]
+"You have not the money!"
+
+[89.018]
+{COLOR:03}{クレス} learned Shuusousenkuuha.{COLOR:02}{PAGE}
+"I am in your debt."
+
+[89.019]
+Raizen
+"Before the operation, I shall give you all the King's words.{PAGE}
+'To the one who does most in this operation I shall give a reward in full measure.'"{PAGE}
+Captain Kirkwood
+"A reward?"{PAGE}
+Captain Richard
+"So what we get depends on how we fight."{PAGE}
+Raizen
+"Then we carry out the operation! I look to you all for results!"
+
+[89.020]
+{COLOR:03}Your duty is to search the Valhalla Plains and put down the enemy's units. Unlike before, you do not meet the enemy by chance: a battle begins when you touch them. The final aim is to defeat the leader of the enemy force. Carry out your duty with all speed.{COLOR:02}
+
+[89.021]
+???
+"Mwahahaha! You have done well to come this far. I commend you. I am Ishlant, commander of Dhaos's land forces. But your advance ends here. This place shall be your grave!!!"
+
+[89.022]
+{クレス}
+"Good, that should hold the enemy up a good deal."{PAGE}
+{クラース}
+"Let us go back and report."
+
+[89.023]
+{クレス}
+"Are you all right!?"{PAGE}
+Captain of the First
+"The enemy is strong, be careful!!"{PAGE}
+???
+"Mwahahaha! Small fry, and so many of you. I am Ishlant, commander of Dhaos's land forces. You too shall fall prey to my attack!!"
+
+[89.024]
+{クレス}
+"Is everyone all right?"{PAGE}
+Captain of the First
+"We are all right. You did well, and I thank you. This should tell on the enemy's movements."{PAGE}
+{クラース}
+"Let us return to Midgards. We must report to the King."
+
+[89.025]
+Captain of the First
+"You are late! We have defeated the enemy's leader. I am sorry, but there is nothing left for you to do."{PAGE}
+{クラース}
+"Hmm. It seems we were too late."
+
+[89.026]
+"Now, now, beyond here is dangerous ground under Dhaos's rule. I cannot let you enter."
+
+[89.027]
+"Forgive me, {クレス}. Please return to Midgards Castle. The King should be waiting for you."
+

@@ -1,0 +1,49 @@
+[06229.4788]
+Pescatore
+
+[06229.4801]
+Napolitan
+
+[06229.4812]
+Gratin
+
+[06229.4821]
+Sashimi
+
+[06229.4830]
+Sandwich
+
+[06229.4843]
+Fruit Punch
+
+[06229.4858]
+What is this dish called?
+
+[06229.4887]
+Right!
+A rich pasta dish
+
+[06229.4915]
+Close.
+It is a pasta dish,
+that much is right...
+
+[06229.4968]
+No.
+Both have shrimp, though
+
+[06229.5000]
+Wrong.
+
+[06229.5007]
+...It's not
+between bread
+
+[06229.5035]
+A dessert?
+This?
+
+[06229.5055]
+Do learn the names
+of dishes
+

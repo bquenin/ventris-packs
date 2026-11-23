@@ -1,0 +1,334 @@
+[21.000]
+Arms Shop "Double K.O."
+
+[21.001]
+Item Shop "Draw"
+
+[21.002]
+"Let's take a look inside the fireplace."
+
+[21.003]
+{クレス}
+"That makes {NUM:8135} times{SPEED:10}...{SPEED:FF}"
+
+[21.004]
+{COLOR:03}Rest?{COLOR:02}
+
+[21.005]
+"Make yourselves at home."
+
+[21.006]
+"Take this with you. I am sure it will be of use."{PAGE}
+
+
+[21.007]
+{COLOR:03}Received {STR:520D} size.{COLOR:02}{PAGE}
+{クレス}
+"Thank you, ma'am!"
+
+[21.008]
+Lenios
+"So you defeated Dhaos and brought Yggdrasil back to life. You have no more need to stay in this age.{PAGE}
+Farewell, young ones. I am proud to have met you
+
+[21.009]
+Lenios
+"A way to save Yggdrasil? Hmm, I cannot say. The healing arts themselves do not exist in this age, after all
+
+[21.010]
+Lenios
+"You met my brother in Venezia!?"{PAGE}
+{クレス}
+"Yes. He asked us to give you his regards."{PAGE}
+
+
+[21.011]
+Lenios
+"I see... Perhaps I should go and see him once in a while
+
+[21.012]
+."
+
+[21.013]
+."{PAGE}
+"Oh, is that girl there a magic user? Then let me give her this spell book. It is no use to me."{PAGE}
+
+
+[21.014]
+{COLOR:03}{アーチェ} learned {STR:D407}.
+
+[21.015]
+Lenios
+"Have you met {クラース}?{PAGE}
+What, not yet? {クラース} lives in Euclid village
+
+[21.016]
+Lenios
+"If things get hard, come back here. You may stay any time."{PAGE}
+{クレス}
+"Thank you, Chief."
+
+[21.017]
+"Let me tell you an interesting tale. Long, long ago, in a time like this..."{PAGE}
+{クレス}
+"I've heard that one already. The spirit of the moon was safely rescued by the soldier, wasn't she?"{PAGE}
+"Ho ho ho. Not so fast. There is more to the tale."{PAGE}
+"The soldier went back inside the barrier. He could have gone on living in the outside world, but he wanted to tell everyone what the outside world was like. But the king had him seized at once. The king would not listen to a word he said. Treason is punished by death, but the soldier's long and devoted service to the kingdom was remembered, and he was spared that at least. Instead, by the king's strange power, he was turned into a tiny insect and cast out. The spirit of the moon, watching from the heavens, grieved, and called the soldier up to the heavens. And there he lived happily with the spirit for ever after.{PAGE}
+Some say that insect was in truth a fairy. But that is only a folk tale."
+
+[21.018]
+"Now then, how shall I pass the time today...?{PAGE}
+Ever since the monsters appeared I can't set foot outside the village. Honestly..."
+
+[21.019]
+"Now, I must get dinner ready..."
+
+[21.020]
+"I want to be a fine magic user too.{PAGE}
+I'm training in magic now. And then I'll go on adventures with a wonderful hero."
+
+[21.021]
+"Where did you come from, mister?"
+
+[21.022]
+"Welcome."
+
+[21.023]
+"Thank you."
+
+[21.024]
+"Are you a swordsman, mister?"{PAGE}
+{クレス}
+"Hm? Yes."{PAGE}
+"Teach me the sword sometime. I want to get stronger!"
+
+[21.025]
+"My dad and my grandad have both gone to fetch materials for weapons, so they're not here.{PAGE}
+So I'm minding the shop
+
+[21.026]
+."
+
+[21.027]
+{PAGE}
+Mister, are you a swordsman by any chance? Then you can have this book."{PAGE}
+{クレス}
+"This is... a book of secret skills!?"{PAGE}
+
+
+[21.028]
+{COLOR:03}{クレス} learned Majinsouhazan.{COLOR:02}
+
+[21.029]
+"Welcome."
+
+[21.030]
+"Thanks, mister."
+
+[21.031]
+"If you head east from this village there's a cave, you know. They call it the Cave of Spirits."
+
+[21.032]
+Chief
+"Ah, yes. My name is Lenios. Pleased to meet you."{PAGE}
+{クレス}
+(Lenios{SPEED:10}...{SPEED:FF} I feel I've heard that somewhere{SPEED:10}...{SPEED:FF}){PAGE}
+Lenios
+"Not to know of magic at all... your story is too strange."{PAGE}
+{ミント}
+"And do you not know of the healing arts? They are the power to heal."{PAGE}
+Lenios
+"To heal{SPEED:10}...{SPEED:FF}?"
+
+[21.033]
+Lenios
+"Ohhh{SPEED:10}...{SPEED:FF} that does feel good."{PAGE}
+
+
+[21.034]
+...But I still don't know it.
+
+[21.035]
+Lenios
+"Well then{SPEED:10}...{SPEED:FF}
+magic is a power like this."
+
+[21.036]
+Lenios
+"Come forth, flame!!!"
+
+[21.037]
+{クレス}
+"{SPEED:20}A-{SPEED:FF}
+
+[21.038]
+Amazing!!"{PAGE}
+{ミント}
+"Could this be the power to defeat Dhaos!?"
+
+[21.039]
+Lenios
+"What! Dhaos, you say!?"{PAGE}
+{クレス}
+"You know of him?"{PAGE}
+Lenios
+"Of course I do.
+I know him well! He is the enemy of the whole world!
+Even now he will be spreading his power, step by step."{PAGE}
+{ミント}
+"What? But Dhaos should only just have woken from his seal..."{PAGE}
+Lenios
+"Seal? What are you talking about? It has been a long time since he appeared."{PAGE}
+{クレス}
+"A long time{SPEED:10}...{SPEED:FF}?"
+
+[21.040]
+{クレス}
+"...Could this be the world of the future!?"{PAGE}
+{ミント}
+"What{SPEED:10}...{SPEED:FF}"
+
+[21.041]
+{ミント}
+"Oh! No, isn't this the world before Dhaos was sealed!?"
+
+[21.042]
+{クレス}
+"Of course! I knew I'd heard the chief's name, Lenios, somewhere!
+It was the name of the church in Toltus, and of the founder of Toltus!!{PAGE}
+This is the world of the past!"
+
+[21.043]
+Lenios
+"Future? Past?{SPEED:10}...{SPEED:FF}What are you saying? This is the year 4202 of the Aselian calendar."
+
+[21.044]
+{クレス} and {ミント}
+"A hundred years ago!!"{PAGE}
+{ミント}
+"No waaay!!"
+
+[21.045]
+Villager
+"Chief!
+What do you think you're doing all of a sudden!!"
+
+[21.046]
+Lenios
+"Well, I am astonished.
+The first visitors in so long, and they come from the future{SPEED:10}...{SPEED:FF}
+I still can hardly believe it."{PAGE}
+{ミント}
+"Putting together the things we have heard, there seems to be no doubt."{PAGE}
+{クレス}
+"Whether you believe it or not is up to you, Chief. But more than that{SPEED:10}...{SPEED:FF}"{PAGE}
+"will you tell us about Dhaos and magic?"{PAGE}
+Lenios
+"I will."
+
+[21.047]
+Lenios
+"It is said that Dhaos can be hurt only by magic. Without magic he cannot be brought down.
+Magic is needed, without question.{PAGE}
+{SPEED:10}...{SPEED:FF}But you cannot use it."{PAGE}
+{クレス}
+"What? Why not!?"{PAGE}
+Lenios
+"I have elven blood, and I can tell at a glance. You are pure-blooded humans."{PAGE}
+{ミント}
+"Elven? Pure-blooded?"{PAGE}
+Lenios
+"Just so. Only the race called elves, and those of mixed elven blood, can use magic."
+
+[21.048]
+{ミント}
+"{SPEED:10}...{SPEED:FF}Oh no{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[21.049]
+Lenios
+"Come, there is no need to worry. You need only ask a powerful user of magic for help."{PAGE}
+{クレス}
+"Is there anyone?"{PAGE}
+Lenios
+"Wait a moment. Surely you do not truly mean to defeat Dhaos?"{PAGE}
+{クレス}
+"Of course we do! That is why we came from the future!!"{PAGE}
+Lenios
+"Well{SPEED:10}...{SPEED:FF} but still{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Please! We must defeat Dhaos, whatever it takes!"{PAGE}
+"For Mr. Morrison's sake, and {チェスター}'s too..."
+
+[21.050]
+Lenios
+"There is a man named {クラース}.
+He lives in Euclid village, to the north.{PAGE}
+He is a little stubborn, and cold to those he has just met, but he is a good man at heart. Go and call on him."{PAGE}
+{クレス}
+"Th-thank you!"{PAGE}
+Lenios
+"It is nothing.{PAGE}
+{SPEED:10}...{SPEED:FF}When I was your age I was a hot-blooded magic user myself. I trained hard, meaning to protect this world."{PAGE}
+{ミント}
+"Chief{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[21.051]
+Lenios
+"I understand how you feel, but you must never push yourselves too far.{PAGE}
+Stay at my house tonight. Make yourselves at home."{PAGE}
+{クレス} and {ミント}
+"Thank you."
+
+[21.052]
+Lenios
+"Now, it is late. Off to bed with you."{PAGE}
+{クレス}
+"Yes."
+
+[21.053]
+{ミント}
+"Um{SPEED:10}...{SPEED:FF}
+{クレス}{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[21.054]
+{クレス}
+"Hm? What is it?"{PAGE}
+
+
+[21.055]
+{ミント}
+"A-am I to sleep here too?"{PAGE}
+{クレス}
+"Huh?"
+
+[21.056]
+{クレス}
+"Ah{SPEED:10},{SPEED:FF} n{SPEED:10},{SPEED:FF} no{SPEED:10},{SPEED:FF} I{SPEED:10},{SPEED:FF} I'll{SPEED:10},{SPEED:FF} sleep on the floor{SPEED:10}...{SPEED:FF}"
+
+[21.057]
+{クレス}
+"G-good night{SPEED:10}...{SPEED:FF}"
+
+[21.058]
+{クレス}
+(The world of a hundred years ago{SPEED:10}...{SPEED:FF} Can we ever get back to our own time...?{PAGE}
+If we defeat the Dhaos of this age, will history change, and will that save Mr. Morrison and {チェスター}{SPEED:10}...{SPEED:FF}?)
+
+[21.059]
+{ミント}
+"{クレス}, are you still awake?"{PAGE}
+{クレス}
+"Hm{SPEED:10}?{SPEED:FF}
+Yes{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Let's do our best, starting tomorrow{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"{SPEED:10}...{SPEED:FF}Yes."
+
+[21.060]
+{ミント}
+"{クレス}{SPEED:10}...{SPEED:FF}"
+

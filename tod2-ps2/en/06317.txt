@@ -1,0 +1,180 @@
+[06317.001]
+Dunamis Orphanage: {NAME:01 00 00 00}'s Room
+
+[06317.002]
+Dunamis Orphanage
+
+[06317.003]
+{NAME:01 00 00 00}'s Room
+
+[06317.005]
+Now, what shall I do?
+
+[06317.007]
+　Go to bed　
+　Not sleepy yet　
+
+[06317.009]
+A Lens worth three million Gald... huh. If I brought something like that home, everyone would be amazed.
+
+[06317.011]
+Mom said what she said, but one day I'll be a hero like Dad, for sure. Just watch.
+
+[06317.013]
+And for that, tomorrow I'll...
+
+[06317.015]
+{05:80 01 00 00}Waaaaagh!
+
+[06317.016]
+Rutee
+
+[06317.017]
+Eek!
+
+[06317.019]
+...Huh? Mom...?
+
+[06317.020]
+Rutee
+
+[06317.021]
+Honestly, you gave me a fright! Shouting out of nowhere like that!
+
+[06317.022]
+Rutee
+
+[06317.023]
+Well, never mind. It saves me the trouble of waking you.
+
+[06317.024]
+Rutee
+
+[06317.025]
+Still, this is unusual. You, waking up bright and clear. Is it going to snow today...
+
+[06317.026]
+Rutee
+
+[06317.027]
+...Haah. The same as always after all.
+
+[06317.028]
+Rutee
+
+[06317.029]
+Here goes... Secret technique: Wake the Dead!!
+
+[06317.031]
+Waah! Wh-wh-what's going on!?
+
+[06317.032]
+Rutee
+
+[06317.033]
+Come on, up, up! I can't clear away breakfast, can I!?
+
+[06317.034]
+Rutee
+
+[06317.035]
+Oh, and {NAME:03 00 00 00}'s already up. He's waiting for you to get up...
+
+[06317.036]
+Rutee
+
+[06317.037]
+{05:80 01 00 00}{NAME:01 00 00 00}!
+
+[06317.039]
+Y-yes, ma'am! I'm up, I'm up!
+
+[06317.040]
+Rutee
+
+[06317.041]
+...Good.
+
+[06317.043]
+Yaaawn... What was that dream all about...
+
+[06317.045]
+...Yaawn... mumble mumble... ...Anyway, I have to go to {NAME:03 00 00 00}...
+
+[06317.047]
+{NAME:01 00 00 00} earned the title "{08:17 08 00 00}".
+
+[06317.049]
+...I never did get to sleep last night.
+
+[06317.051]
+Anyway, I'll talk to Mom once more. And tell her I'm going on a journey!
+
+[06317.053]
+{NAME:01 00 00 00}! Hey, {NAME:01 00 00 00}, wake up!
+
+[06317.055]
+Mmnh... ...Morning, {NAME:03 00 00 00}...
+
+[06317.057]
+This is no time to be half asleep! It's finally shown up! "God's Egg"!
+
+[06317.059]
+...Shown up...? Egg...?
+
+[06317.061]
+"God's Egg"...!?
+
+[06317.063]
+Never mind, just come quickly! Everyone's waiting!
+
+[06317.065]
+　Rest　
+　Don't rest　
+
+[06317.067]
+I ought to study once in a while too...
+
+[06317.069]
+There is nothing on the shelf but {NAME:01 00 00 00}'s toys...
+
+[06317.071]
+An idyllic landscape stretches out beyond the window.
+
+[06317.072]
+Have a safe journey.
+
+[06317.073]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06317.074]
+Will you stay the night?
+
+[06317.076]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06317.077]
+Please rest well.
+
+[06317.078]
+Good morning.
+
+[06317.079]
+You do not have enough money.
+
+[06317.080]
+We look forward to seeing you again.
+
+[06317.085]
+Obtained {16:25 E2}.
+
+[06317.087]
+Obtained {08:FF FF FF FF}.
+
+[06317.089]
+Found {16:25 EA}, but you can carry no more.
+
+[06317.091]
+There is nothing here.
+

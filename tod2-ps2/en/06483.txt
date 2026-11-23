@@ -1,0 +1,91 @@
+[06483.001]
+Cherik
+
+[06483.002]
+Cherik
+
+[06483.004]
+Cargo is piled high. This place seems to be used as a warehouse.
+
+[06483.006]
+Obtained {08:12 00 00 00}.
+
+[06483.007]
+Man
+
+[06483.008]
+Ahh, manual labor on a low hourly wage is rough!
+
+[06483.010]
+You're lucky to be paid at all. The soldiers of the Surface Army all work for nothing.
+
+[06483.011]
+Man
+
+[06483.012]
+In Cherik there's no work but part-time jobs unloading cargo.
+
+[06483.013]
+Man
+
+[06483.014]
+Fewer people every year. Cherik may be done for.
+
+[06483.015]
+Man
+
+[06483.016]
+Ahh, manual labor on a low hourly wage is rough!
+
+[06483.018]
+What are you complaining about? Around Darilsheid there's no work at all, you know?
+
+[06483.019]
+Man
+
+[06483.020]
+In Cherik there's no work but part-time jobs unloading cargo.
+
+[06483.021]
+Man
+
+[06483.022]
+Fewer people every year. Cherik may be done for.
+
+[06483.023]
+Have a safe journey.
+
+[06483.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06483.025]
+Will you stay the night?
+
+[06483.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06483.028]
+Please rest well.
+
+[06483.029]
+Good morning.
+
+[06483.030]
+You do not have enough money.
+
+[06483.031]
+We look forward to seeing you again.
+
+[06483.036]
+Obtained {16:25 BA}.
+
+[06483.038]
+Obtained {08:FF FF FF FF}.
+
+[06483.040]
+Found {16:25 C2}, but you can carry no more.
+
+[06483.042]
+There is nothing here.
+

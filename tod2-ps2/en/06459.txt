@@ -1,0 +1,281 @@
+[06459.001]
+Heidelberg Castle: Guest Rooms
+
+[06459.002]
+Heidelberg Castle
+
+[06459.003]
+Heidelberg Castle: Guest Rooms
+
+[06459.005]
+The fire in the hearth burns on, with no telling when it will end...
+
+[06459.006]
+Soldier
+
+[06459.007]
+These will be your rooms. Will you retire for today?
+
+[06459.009]
+{03:00 00 00 00}　Rest　
+　Not yet　
+
+[06459.010]
+Soldier
+
+[06459.011]
+Rest well.
+
+[06459.013]
+We come back from our trip through time, and the Lenses are gone. How do we keep getting one hard problem after another?
+
+[06459.015]
+Talk about a life full of ups and downs. Ever since we met {NAME:02 00 00 00}, there hasn't been a moment to be bored.
+
+[06459.017]
+Ow!! What's the idea, you...!
+
+[06459.019]
+Idiot! Think a little before you open your mouth!
+
+[06459.021]
+Ah, no, that's not it. I don't mean {NAME:02 00 00 00} coming has been a nuisance or anything...
+
+[06459.023]
+I meant it's great never being bored... r-right, {NAME:01 00 00 00}!
+
+[06459.025]
+...Huh? What? Sorry, I wasn't listening.
+
+[06459.027]
+...Let us rest. There is nothing more to do today.
+
+[06459.029]
+Mmm, morning already? I'd have sworn I'd only just gone to sleep...
+
+[06459.031]
+Hey, {NAME:05 00 00 00}! ...What, isn't {NAME:02 00 00 00} with you?
+
+[06459.033]
+She's gone...
+
+[06459.035]
+What?
+
+[06459.037]
+{NAME:01 00 00 00}! Wake up, {NAME:01 00 00 00}!
+
+[06459.039]
+...Fwah? Oh, morning...
+
+[06459.041]
+Come on, don't sit there in a daze! Get up, quick!
+
+[06459.043]
+Hey, what on earth's the matter?
+
+[06459.045]
+That girl... {NAME:02 00 00 00} is gone!
+
+[06459.047]
+When I woke up she was already gone! I've been looking all this time...
+
+[06459.049]
+H-hey, calm down. She may just have gone for a walk somewhere.
+
+[06459.051]
+It's not that! That's not what I mean...
+
+[06459.053]
+Oh, never mind, we're going to Woodrow!
+
+[06459.055]
+Hey, {NAME:01 00 00 00}, wake up.
+
+[06459.057]
+Hey, {NAME:01 00 00 00}, I said!
+
+[06459.059]
+Heeey, {NAME:01 00 00 00}! Wake uuup!
+
+[06459.061]
+...Fwah? Mm, {NAME:02 00 00 00}... ...It's late already. G'niiight........
+
+[06459.063]
+What are you saying! It's morning, morning! Come on, wake up, {NAME:01 00 00 00}.
+
+[06459.065]
+Just a bit longer... just a teeny bit...
+
+[06459.067]
+Come on, since we're here, let's go out somewhere.
+
+[06459.069]
+Have a nice tiiime... I'm sleeping...
+
+[06459.071]
+Fine, then. So you don't want to go on a date with me that much, {NAME:01 00 00 00}?
+
+[06459.073]
+Don't want to, don't want to... A date, not at all...
+
+[06459.075]
+............ ...Huh, a date!?
+
+[06459.077]
+Yes, a date! Let's go, {NAME:01 00 00 00}!
+
+[06459.079]
+As for where... I know! Let's make it the park. It's sure to feel lovely.
+
+[06459.081]
+Ah, here they are. Now everyone's here.
+
+[06459.083]
+What's this about? {NAME:03 00 00 00} told me, but I couldn't make head or tail of it...
+
+[06459.085]
+My "Analyzer No. 2 Mark II" has detected a distortion of the time axis and an abnormal increase in entropy.
+
+[06459.087]
+To put it simply, the flow of time is in a very bad way.
+
+[06459.089]
+A b-bad way?
+
+[06459.091]
+To be blunt, the future is on the verge of ceasing to exist.
+
+[06459.093]
+The future ceasing to exist... What do you mean by that!?
+
+[06459.095]
+I can't tell the specifics, but it seems some kind of interference is being made with this era from the future.
+
+[06459.097]
+And because of it, the future that ought to exist is about to be lost.
+
+[06459.099]
+Does that mean Elraine is trying to change this era now?
+
+[06459.101]
+Even if so, it's nothing as mild as before.
+
+[06459.103]
+It's on a frightening scale, enough to erase the future itself.
+
+[06459.105]
+The signs are already beginning to show. I observed a wavering of space-time just now. For an instant, the present and the future seem to have overlapped.
+
+[06459.107]
+{NAME:01 00 00 00}, what happened just now...!
+
+[06459.109]
+Y-yeah...
+
+[06459.111]
+Do you two know something about it?
+
+[06459.113]
+...We saw it.
+
+[06459.115]
+Saw what?
+
+[06459.117]
+...Heidelberg warping, and starting to vanish...
+
+[06459.119]
+The ruin of the world...
+
+[06459.121]
+The ruin of the world... What does that mean, {NAME:06 00 00 00}?
+
+[06459.123]
+Just what it says. Elraine is trying to erase this world. Naturally there'd be no future.
+
+[06459.125]
+Erase the world...! Why would she do that!?
+
+[06459.127]
+Well, as for the reason... For that there's nothing for it but to ask her yourself, is there?
+
+[06459.129]
+It seems that is the only way. But where on earth is Elraine...
+
+[06459.131]
+Oh, no need to worry about that. I traced the pulse left in space-time.
+
+[06459.133]
+About eighty-seven thousand hours from now, which is to say ten years on. She's around there.
+
+[06459.135]
+In that case, the next problem is a Lens for moving through time.
+
+[06459.137]
+The ones in this castle we went and sank in the sea...
+
+[06459.139]
+You people used the Ixifosler, didn't you?
+
+[06459.141]
+Then just use its Lens. It's my own special make, the same as I used for the Swordians, so it's got energy to spare.
+
+[06459.143]
+But we do not know where it crashed.
+
+[06459.145]
+If it is on the ground, well and good, but if it was caught up in the distortion of space-time...
+
+[06459.147]
+Heh heh~! I thought something like this might happen, so I fitted it with an automatic return function~!
+
+[06459.149]
+...That smells fishy, hey.
+
+[06459.151]
+Call it "thoroughly prepared". Anyway, the autopilot will have kicked in and it'll be back where it started.
+
+[06459.153]
+Then our goal is the hangar at the site of the Surface Army's base.
+
+[06459.155]
+Right, let's go, everyone!
+
+[06459.156]
+Have a safe journey.
+
+[06459.157]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06459.158]
+Will you stay the night?
+
+[06459.160]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06459.161]
+Please rest well.
+
+[06459.162]
+Good morning.
+
+[06459.163]
+You do not have enough money.
+
+[06459.164]
+We look forward to seeing you again.
+
+[06459.169]
+Obtained {16:25 BA}.
+
+[06459.171]
+Obtained {08:FF FF FF FF}.
+
+[06459.173]
+Found {16:25 C2}, but you can carry no more.
+
+[06459.175]
+There is nothing here.
+

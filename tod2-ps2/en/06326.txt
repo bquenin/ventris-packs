@@ -1,0 +1,64 @@
+[06326.001]
+Laguna Ruins
+
+[06326.002]
+Laguna Ruins
+
+[06326.004]
+Obtained {08:41 00 00 00}.
+
+[06326.005]
+Captain
+
+[06326.006]
+{05:F0 00 00 00}What's this? It's a dead end this way!
+
+[06326.007]
+Trooper
+
+[06326.008]
+{05:F0 00 00 00}It could be passed before... It seems the way has collapsed. It is very old, after all...
+
+[06326.009]
+Captain
+
+[06326.010]
+{05:F0 00 00 00}Of course the ruins are old! Honestly, making me come all this way for nothing... We'll find another way!
+
+[06326.011]
+Have a safe journey.
+
+[06326.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06326.013]
+Will you stay the night?
+
+[06326.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06326.016]
+Please rest well.
+
+[06326.017]
+Good morning.
+
+[06326.018]
+You do not have enough money.
+
+[06326.019]
+We look forward to seeing you again.
+
+[06326.024]
+Obtained {16:25 BE}.
+
+[06326.026]
+Obtained {08:FF FF FF FF}.
+
+[06326.028]
+Found {16:25 C6}, but you can carry no more.
+
+[06326.030]
+There is nothing here.
+

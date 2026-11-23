@@ -1,0 +1,718 @@
+[06753.001]
+Regular Ship
+
+[06753.002]
+Regular Ship
+
+[06753.003]
+Oh dear, oh dear...
+
+[06753.004]
+...Is the ship going to sink?
+
+[06753.005]
+What do we do...
+
+[06753.006]
+Help...
+
+[06753.007]
+Passenger
+
+[06753.009]
+That damn {NAME:04 00 00 00}...
+
+[06753.011]
+...
+
+[06753.013]
+I...
+
+[06753.016]
+Sailor
+
+[06753.017]
+Watch yourself, sonny! Storms, pirates, ghost ships. Danger comes with the sea!
+
+[06753.018]
+Sailor
+
+[06753.019]
+Listen, sonny. Out at sea, danger is always right beside you.
+
+[06753.020]
+Sailor
+
+[06753.021]
+But there's nothing to fear... Because yours truly is aboard this ship!
+
+[06753.022]
+Sailor
+
+[06753.023]
+One look at yours truly and any danger turns tail and runs!
+
+[06753.024]
+Sailor
+
+[06753.025]
+I-if you get f-f-flustered just because the lord of the sea shows up, you'll never make it as a man of the sea!!
+
+[06753.027]
+You look awfully flustered to me, though...
+
+[06753.028]
+Sailor
+
+[06753.029]
+A-attacking the ship yours truly is on... what an unlucky creature.
+
+[06753.030]
+Sailor
+
+[06753.031]
+J-just you watch! With my steel harpoon, I'll be sent to the bottom of the sea!!
+
+[06753.033]
+What good does it do if you're the one sent to the bottom?
+
+[06753.034]
+Sailor
+
+[06753.035]
+Just you wait, monster! O-once my stomachache clears up, I'll finish you off!!
+
+[06753.036]
+Sailor
+
+[06753.037]
+Well, I never thought you lot would beat me to it.
+
+[06753.038]
+Sailor
+
+[06753.039]
+You got me! Before yours truly could get there, you went and beat it.
+
+[06753.040]
+Sailor
+
+[06753.041]
+If I hadn't had that stomachache, yours truly would've wrung the neck of a lord of the sea or two.
+
+[06753.042]
+Sailor
+
+[06753.043]
+Gah ha ha ha! Next time the lord of the sea shows up, leave it to yours truly!
+
+[06753.044]
+Sailor
+
+[06753.045]
+I'm in top shape now! If the lord of the sea appears, yours truly will drive it off!
+
+[06753.046]
+Sailor
+
+[06753.047]
+You lot are strong too, but you're still kids.
+
+[06753.048]
+Sailor
+
+[06753.049]
+If anything happens, yours truly will protect you. Gah ha ha!
+
+[06753.050]
+Sailor
+
+[06753.051]
+Gah ha ha ha! Next time the lord of the sea shows up, leave it to yours truly!
+
+[06753.052]
+Passenger
+
+[06753.053]
+A world where God exists is a fine thing. You're always being watched over.
+
+[06753.054]
+Passenger
+
+[06753.055]
+This voyage too is watched over by Fortuna, so we're sure to arrive safely.
+
+[06753.056]
+Passenger
+
+[06753.057]
+Being watched over by God... Ten years ago it'd have been unthinkable.
+
+[06753.058]
+Sailor
+
+[06753.059]
+Watch yourself, sonny! Storms, pirates, ghost ships. Danger comes with the sea!
+
+[06753.060]
+Sailor
+
+[06753.061]
+Listen, sonny. Out at sea, danger is always right beside you.
+
+[06753.062]
+Sailor
+
+[06753.063]
+But there's nothing to fear... Because yours truly is aboard this ship!
+
+[06753.064]
+Sailor
+
+[06753.065]
+One look at yours truly and any danger turns tail and runs!
+
+[06753.067]
+{NAME:01 00 00 00}~! Look, over here, over here!
+
+[06753.069]
+Th-that's dangerous, {NAME:02 00 00 00}! It'd be awful if you fell!!
+
+[06753.071]
+Ahaha, it's fine, it's fine! Even if I fall, {NAME:01 00 00 00} will save me!
+
+[06753.073]
+After all, you're the great hero of the future, aren't you!
+
+[06753.075]
+Hey, why don't you come up too, {NAME:01 00 00 00}? The smell of the sea feels so good!
+
+[06753.077]
+Wait there, {NAME:02 00 00 00}! I'll be right over!
+
+[06753.079]
+Wow... amazing! You can't see a thi~ng but the sea!
+
+[06753.081]
+And the wind goes whooshing by... It's like flying through the sky!
+
+[06753.083]
+See? Isn't it amazing?
+
+[06753.085]
+I didn't expect it, though. I thought you'd be scared of a place like this, {NAME:02 00 00 00}.
+
+[06753.087]
+Why? With the sea breeze blowing, when it feels so good?
+
+[06753.089]
+Well, I sort of thought that up somewhere high you'd say "I'm sca~red!" or something.
+
+[06753.091]
+Pfft! Ahaha! What was that "I'm sca~red!" just now? Was that meant to be me? It's nothing like me!
+
+[06753.093]
+Y-you don't have to laugh!
+
+[06753.095]
+S-sorry, {NAME:01 00 00 00}... But "I'm sca~red!"... Ahahaha!
+
+[06753.097]
+...Was it that odd? H-hehehe...
+
+[06753.099]
+...But I'm relieved. So you laugh like that too, {NAME:02 00 00 00}.
+
+[06753.101]
+Of course I do. You are funny, {NAME:01 00 00 00}!
+
+[06753.103]
+Well, when we first met, your face never changed whatever I said.
+
+[06753.105]
+Honestly, I thought "what an unfriendly girl".
+
+[06753.107]
+...Back then my head was full of "I must find a hero"...
+
+[06753.109]
+Oh, yeah... Come to think of it, it was.
+
+[06753.111]
+...Say, {NAME:01 00 00 00}? Why did you want to become a hero?
+
+[06753.113]
+I guess because I want to be like Dad.
+
+[06753.115]
+Dad was big and strong, but kind and warm too... He was always smiling.
+
+[06753.117]
+Mind you, he went off on a journey when I was little and never came back, so I don't remember him well.
+
+[06753.119]
+But I want to be like Dad one day too. ...A true hero, like him.
+
+[06753.121]
+...A true hero.
+
+[06753.123]
+Come to think of it, why are you looking for a hero, {NAME:02 00 00 00}?
+
+[06753.125]
+...The reason I... the reason I am looking for a hero is...
+
+[06753.127]
+Wh-what!?
+
+[06753.128]
+Sailor
+
+[06753.129]
+It's the lord! The lord of Devil's Reef!!
+
+[06753.130]
+Sailor
+
+[06753.131]
+Eeeeek! H-hel, help!! I don't wanna die yet!
+
+[06753.132]
+Sailor
+
+[06753.133]
+Quit your whining! Just go and tell the captain!
+
+[06753.134]
+Sailor
+
+[06753.135]
+And put more men on watch! Check the hull for damage! Hurry!
+
+[06753.137]
+Hey, you two! This is no time to be flirting over there!
+
+[06753.139]
+Ah! N-no, it's not that, {NAME:02 00 00 00}! I didn't mean...
+
+[06753.141]
+{NAME:01 00 00 00}, are you all right!?
+
+[06753.143]
+No need to worry. Idiots are sturdy. It has always been so.
+
+[06753.145]
+Hey! Stop calling me an idiot!!
+
+[06753.147]
+All right, all right, fight later! First we find out what's happened! Let's go to the bow!
+
+[06753.149]
+So this is why the ship stopped!
+
+[06753.150]
+Sailor
+
+[06753.151]
+Hey! You people get out of here too, quick!!
+
+[06753.152]
+Sailor
+
+[06753.153]
+That thing is the "lord of the sea"! No ship has ever met this monster and come away safe!!
+
+[06753.155]
+Run, he says. Where exactly are we supposed to run to!?
+
+[06753.157]
+Leave it to us! We'll take care of a thing like this!!
+
+[06753.159]
+We did it! Now the ship can...
+
+[06753.160]
+Sailor
+
+[06753.161]
+Trouble! The lord of the sea is at the ship's bottom!!
+
+[06753.162]
+Sailor
+
+[06753.163]
+What!?
+
+[06753.165]
+This is bad. If it's punched a hole in the bottom...
+
+[06753.167]
+Anyway, let's go and see!
+
+[06753.169]
+The harbor of Snowfria should be coming into view about now.
+
+[06753.171]
+Once we're this far, Heidelberg is right under our noses.
+
+[06753.173]
+So this is the end of our long voyage. I feel a little sad to leave it.
+
+[06753.175]
+Hey, we can just ride it again when we go home. Right?
+
+[06753.177]
+...That's true. When we go home...
+
+[06753.179]
+We arrive at Snowfria shortly. Get ready to set out. Dawdle and I'll leave you behind.
+
+[06753.181]
+{NAME:04 00 00 00}... Yeah!
+
+[06753.183]
+{NAME:04 00 00 00}, l-listen... Sorry. About earlier, I mean...
+
+[06753.185]
+No, I was childish too.
+
+[06753.187]
+{NAME:04 00 00 00}...
+
+[06753.189]
+Actual age aside, my mental age is the higher one.
+
+[06753.191]
+Talking on the same level as a child like you was not something an adult like me should have done. I regret it.
+
+[06753.193]
+Wh-wh-wh... what's that supposed to mean! So you're saying I'm a kid!?
+
+[06753.195]
+That is what I meant to say. Was it not clear? It seems my way of putting things still needs work.
+
+[06753.197]
+...Pfft! Ahahaha!!
+
+[06753.199]
+Hee hee! Ahaha!
+
+[06753.201]
+Don't laugh, you two!
+
+[06753.203]
+Why, you... saying whatever you please...
+
+[06753.205]
+So this is where you were.
+
+[06753.207]
+...{NAME:01 00 00 00}.
+
+[06753.209]
+You were on deck today. I kept looking up the whole time!
+
+[06753.211]
+U-um, {NAME:02 00 00 00}... There's something I want to ask.
+
+[06753.213]
+You knew all of it, didn't you? That this is the world ten years on, and that there's a god.
+
+[06753.215]
+...Yes.
+
+[06753.217]
+Then, {NAME:02 00 00 00}, does that mean... you were from this time all along?
+
+[06753.219]
+...Yes, I was.
+
+[06753.221]
+I thought so...
+
+[06753.223]
+I'm sorry. For keeping quiet all this time...
+
+[06753.225]
+Oh, no, I'm not blaming you! It's just, I was a bit startled...
+
+[06753.227]
+I mean, come on. I never dreamed I'd get to know a girl who came from the future.
+
+[06753.229]
+........
+
+[06753.231]
+U-um, so then, Elraine too is...
+
+[06753.235]
+What?
+
+[06753.237]
+...I'm sorry. I can't say any more than that. So...
+
+[06753.239]
+Oh... o-okay. Got it...
+
+[06753.241]
+So this is where you were.
+
+[06753.243]
+We'll be in Cherik soon. Get ready to go ashore.
+
+[06753.245]
+Ah, yeah...
+
+[06753.247]
+By the way, {NAME:02 00 00 00}. Are you by any chance one of the "two Saints"?
+
+[06753.249]
+So you are. When I heard your name, I did wonder.
+
+[06753.251]
+Please, {NAME:05 00 00 00}! About this...
+
+[06753.253]
+Keep it from {NAME:01 00 00 00}? I don't mind.
+
+[06753.255]
+Thank you...
+
+[06753.257]
+{NAME:02 00 00 00}, you...
+
+[06753.259]
+...Well, it's not for me to say this or that.
+
+[06753.261]
+I'll go on to the cabin. Come down soon.
+
+[06753.263]
+...If I can, I do not want {NAME:01 00 00 00} to know.
+
+[06753.265]
+But one day he is sure to find out. And then I...
+
+[06753.267]
+{NAME:02 00 00 00} earned the title "{08:23 08 00 00}".
+
+[06753.269]
+We've gathered everyone on deck for now... but what on earth do we do next!?
+
+[06753.271]
+Hey, couldn't we swim to shore!?
+
+[06753.273]
+The men, perhaps. The women and children could not.
+
+[06753.275]
+With lifeboats that size, we couldn't save hardly anyone...
+
+[06753.277]
+Damn! We're completely out of moves!!
+
+[06753.279]
+........
+
+[06753.281]
+We can't give up! Let's think of some way to save everyone!!
+
+[06753.283]
+Even so...
+
+[06753.285]
+There is just one way for everyone to be saved.
+
+[06753.287]
+Huh!? R-really!?
+
+[06753.289]
+...Use your power, {NAME:02 00 00 00}.
+
+[06753.291]
+I...
+
+[06753.293]
+Whoaa!!
+
+[06753.295]
+This is seriously bad!
+
+[06753.297]
+...I... everyone...
+
+[06753.299]
+...!
+
+[06753.301]
+{NAME:02 00 00 00}...!?
+
+[06753.303]
+...Please... ........fly!!
+
+[06753.305]
+Hey, what on earth is {NAME:02 00 00 00} going to do!?
+
+[06753.307]
+She means to lift the ship. But...
+
+[06753.309]
+...Ngh!!
+
+[06753.311]
+She is moving something this large. Whether {NAME:02 00 00 00} can do it as she is now...
+
+[06753.313]
+No way...
+
+[06753.315]
+Hang in there! Hang in there, {NAME:02 00 00 00}!
+
+[06753.317]
+...Aah!
+
+[06753.319]
+Please...!
+
+[06753.321]
+...I-it's no... use... after all...
+
+[06753.323]
+You can't give up, {NAME:02 00 00 00}!!
+
+[06753.325]
+........!
+
+[06753.327]
+You can do it, {NAME:02 00 00 00}! I know you can!!
+
+[06753.329]
+...! {NAME:01 00 00 00}...!
+
+[06753.331]
+Incredible... We're actually saved...! Ha ha... ahahaha!!
+
+[06753.333]
+You're amazing, {NAME:02 00 00 00}...!
+
+[06753.335]
+...I did it... ........I... my power... I... did... it...
+
+[06753.337]
+{NAME:02 00 00 00}!? {NAME:02 00 00 00}!!
+
+[06753.340]
+I'm telling you, that's not why I'm asking!
+
+[06753.342]
+That voice... it's {NAME:03 00 00 00}! What's going on?
+
+[06753.344]
+I've been looking for you, {NAME:04 00 00 00}! Honestly, going off without a word like that!
+
+[06753.346]
+........
+
+[06753.348]
+U-um, {NAME:04 00 00 00}...
+
+[06753.350]
+I believe in you!
+
+[06753.352]
+{NAME:01 00 00 00}...?
+
+[06753.354]
+How old you are, who you are, {NAME:04 00 00 00}, none of it matters. {NAME:04 00 00 00}, I believe in you!
+
+[06753.356]
+So come with us! Let's keep traveling!
+
+[06753.358]
+{NAME:01 00 00 00}, you...
+
+[06753.360]
+...Why? How can you believe in me? In me, who will reveal nothing...
+
+[06753.362]
+Why... Hmm, let me think...
+
+[06753.364]
+Because I like you, {NAME:04 00 00 00}... I think.
+
+[06753.366]
+...Like me?
+
+[06753.368]
+I like you, so I want to be with you, {NAME:04 00 00 00}, and I can believe in you.
+
+[06753.370]
+I have told you nothing, you know? To come to like such a person is...
+
+[06753.372]
+Look, {NAME:04 00 00 00}, can you only like someone once they've told you all their secrets?
+
+[06753.374]
+That's...
+
+[06753.376]
+You can't, right? Secrets or no secrets, it doesn't matter. It's just whether you like the person.
+
+[06753.378]
+So it's the same with you, {NAME:04 00 00 00}. Even with secrets...
+
+[06753.380]
+No, the secrets and a~ll the rest, I like you, {NAME:04 00 00 00}!
+
+[06753.382]
+{NAME:01 00 00 00}...
+
+[06753.384]
+...{NAME:01 00 00 00}. I...
+
+[06753.386]
+That's all I wanted to say! See you!
+
+[06753.388]
+...This time would be different, I thought. But in the end I am doing the same thing over again...
+
+[06753.390]
+Even so... even so. I cannot take off the mask. I must hide everything and see it through...
+
+[06753.391]
+Have a safe journey.
+
+[06753.392]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06753.393]
+Will you stay the night?
+
+[06753.395]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06753.396]
+Please rest well.
+
+[06753.397]
+Good morning.
+
+[06753.398]
+You do not have enough money.
+
+[06753.399]
+We look forward to seeing you again.
+
+[06753.404]
+Obtained {16:26 E6}.
+
+[06753.406]
+Obtained {08:FF FF FF FF}.
+
+[06753.408]
+Found {16:26 EE}, but you can carry no more.
+
+[06753.410]
+There is nothing here.
+

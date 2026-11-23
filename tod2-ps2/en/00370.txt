@@ -1,0 +1,12 @@
+[00370.001]
+Hey, {NAME:03 00 00 00}, how come you don't chat up {NAME:05 00 00 00}? Usually you'd have made your move long ago.
+
+[00370.002]
+Du~mmy! Don't say things that sound so bad. I don't chat up just any woman. I put them through the strictest screening, see...
+
+[00370.003]
+So I didn't get through this screening of yours, is that it? Well, well...
+
+[00370.004]
+...{NAME:15 27 00 00}-{NAME:05 00 00 00}, ma'am, why might you be cracking your knuckles so? W-wait! I can do the screening again! No, I'll do it now! So no joint locks...!
+

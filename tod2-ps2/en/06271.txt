@@ -1,0 +1,32 @@
+[06271.4788]
+Shows ghosts
+
+[06271.4805]
+More gels
+
+[06271.4818]
+Break wall
+
+[06271.4829]
+Wakes the dead
+
+[06271.4844]
+What does this item do?
+
+[06271.4873]
+Yes, with this lantern
+ghosts can{03:10 00 00 00}...%SAh!
+{03:02 00 00 00}Behind you, a ghost!
+
+[06271.4952]
+You fool...
+
+[06271.4965]
+The item would break first.
+
+[06271.4996]
+No way.
+
+[06271.5005]
+Not even trying?
+

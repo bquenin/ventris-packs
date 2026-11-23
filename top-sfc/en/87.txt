@@ -1,0 +1,427 @@
+[87.000]
+Ninja Village
+
+[87.001]
+The Chief's House
+
+[87.002]
+General Store "Kurikinton"
+
+[87.003]
+Ranzo
+"Do not trouble yourselves over Suzu. This too is the lot of a child born to a ninja house. It is the stern code that makes the ninja's craft what it is."
+
+[87.004]
+Ranzo
+"Why, {クレス}, you are welcome here. As to Suzu's parents, I hardly know how to thank you..."{PAGE}
+{クレス}
+"N-no, but, it was as good as I who let Suzu's parents die..."{PAGE}
+Ranzo
+"Say no more. Far from hating you, our clan will welcome you as the benefactors who saved Suzu's parents."{PAGE}
+{クレス}
+"Thank you, Ranzo."{PAGE}
+Ranzo
+"This is a token of our clan's feeling. Please accept it."{PAGE}
+{クレス}
+"Eh, but this is..."{PAGE}
+Ranzo
+"A book of secret arts. A traveller from a foreign land left it in our keeping when he came here. 'When danger comes upon the world, a swordsman will come to this place. If that swordsman has gifts beyond the common, give it to him.' Those were the words the traveller left. And then you appeared. You, {クレス}, are the one fit to have this book."{PAGE}
+
+
+[87.005]
+{COLOR:03}{クレス} learned Shishisenretsuha.{COLOR:02}{PAGE}
+Ranzo
+"Keep up your good work. All our clan, no, people the world over will be cheering you on."{PAGE}
+{クレス}
+"Yes!!"
+
+[87.006]
+Ranzo
+"I place it in your hands.{PAGE}
+By what we have learned, Suzu's parents seem to be somewhere around Euclid."
+
+[87.007]
+Suzu
+"Please do not let it trouble you. A ninja must be without feeling. I am sure Father and Mother understand."
+
+[87.008]
+Suzu
+"Please go and see Grandfather. He wishes very much to thank you for what you did for my parents."
+
+[87.009]
+Suzu
+"Father and Mother must surely be alive somewhere."
+
+[87.010]
+"Kii."
+
+[87.011]
+Omiyo
+"I'm picking tea. Green tea is best after all, isn't it?"
+
+[87.012]
+Osono
+"You're from foreign parts, are you? Fancy your getting here.{PAGE}
+We've rare goods here. By rights it's barter, but lately you can buy with Gald coin too."
+
+[87.013]
+Shinzo
+"For a ninja, speed comes first!"
+
+[87.014]
+Oshin
+"With her parents dead, I hope Suzu isn't too downcast..."
+
+[87.015]
+Oshin
+"Poor Suzu... I hope her parents are found soon."
+
+[87.016]
+Kanzo
+"The specialities here are tea, miso and konnyaku.{PAGE}
+But miso's terribly precious, so it costs a lot."
+
+[87.017]
+Oshizu
+"I did so want to use throwing stars and such in battle."
+
+[87.018]
+Okayo
+"Long ago, when a master swordsman from a foreign land came here, he taught me some strange words. Right, lower right, down, lower left, left, right, down, up, confirm. Whatever can it mean?"
+
+[87.019]
+Osayo
+"Let me tell you a fairy tale handed down in this village.{PAGE}
+Long, long ago an old man and an old woman lived in this village. The old man went to the river to do the washing, and the old woman went to the hills to cut brushwood.{PAGE}
+Oh? Or was it the old man to the hills and the old woman to the river? Ahh... I do hate growing old."
+
+[87.020]
+Korokichi
+"I am Korokichi. I am now in training as a ninja."
+
+[87.021]
+Jinzo
+"A ninja is quite an all-round fighter. He can use summoning magic to call up a giant toad, and attack magic such as the arts of fire and water, he is second to no race for speed, and he is good with missiles too."
+
+[87.022]
+Ochiyo
+"A woman ninja is called a 'kunoichi'.{PAGE}
+Why? Because the character for 'woman' breaks up into 'ku', 'no' and 'ichi'."
+
+[87.023]
+Suizo
+"A ninja's training is hard, I can tell you."
+
+[87.024]
+Otomi
+"Even boiling the rice is part of the training, they say. A woman's training is hard."
+
+[87.025]
+Oneyo
+"Welcome. Is there something you need?"
+
+[87.026]
+"Much obliged."
+
+[87.027]
+Haizo
+"It's a general store, so I think it ought to sell weapons too... But the smith's craft has died out. We can't make weapons any more. The day may come when we have to trade our katana for swords."
+
+[87.028]
+Okyo
+"If Dhaos isn't beaten soon, there'll be the devil to pay, there really will. It's a hard road for you too, isn't it? I'm cheering for you."
+
+[87.029]
+Ofuyu
+"Well now, you seem to have all the makings of oden. And an earthenware pot too, I see. What do you say? Won't you try some oden?"
+
+[87.030]
+Is that so... A pity. There's nothing else so good in all the world.
+
+[87.031]
+Is that so, is that so. Then wait about half an hour.
+
+[87.032]
+　　　　　30 minutes later...
+
+[87.033]
+Ofuyu
+"Well now, you seem to have gathered the makings of oden.{PAGE}
+But oden never tastes right unless it's made in an earthenware pot. Bring me one."
+
+[87.034]
+Ofuyu
+"I'm a good hand at making oden."
+
+[87.035]
+"I am a painter. But... I cannot paint the picture that makes me say 'This is it!' What am I to do? And I must earn my living too
+
+[87.036]
+..."
+
+[87.037]
+...{PAGE}
+I know. Won't you buy a picture of mine? 30000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[87.038]
+I see...
+
+[87.039]
+You haven't enough money. I cannot go any lower.
+
+[87.040]
+{COLOR:03}Received the Ukiyo-e.{COLOR:02}{PAGE}
+Thank you. That is a great help.
+
+[87.041]
+Suzu
+"Are you leaving? I shall see you on your way."{PAGE}
+Where will you go?
+1. Treant's Forest (village entrance)
+2. The elven settlement
+3. The entrance to the Forest of Ymir
+
+[87.042]
+Please take your time.
+
+[87.043]
+{アーチェ}
+"Then I'll go on ahead. I'll wait at the entrance to the Forest of Ymir.{PAGE}
+See you."
+
+[87.044]
+Suzu
+"Then here we go."
+
+[87.045]
+{COLOR:03}Fully recovered.{COLOR:02}
+
+[87.046]
+???
+"Welcome to the ninja village. My name is Suzu. Please come and see my grandfather, who is the chief of the ninja village."
+
+[87.047]
+Suzu
+"Grandfather is through here."{PAGE}
+{クレス}
+"So this is the chief's house..."{PAGE}
+{クラース}
+"A house with an air all its own, I must say..."
+
+[87.048]
+{クレス}
+"Wh-what's this!?"{PAGE}
+{チェスター}
+"Hey now... there are bamboo spears at the bottom of the pit..."{PAGE}
+Suzu
+"I-I am sorry. There are many traps in the house, as a precaution."{PAGE}
+{アーチェ}
+"You might say that sort of thing sooner!"
+
+[87.049]
+{チェスター}
+"Give us a break, will you?"{PAGE}
+{クレス}
+"I-I expect it's all right now..."{PAGE}
+
+
+[87.050]
+{クラース}
+"{クレス}, you had better not let your guard...!"
+
+[87.051]
+{ミント}
+"{クレス}!"{PAGE}
+{クラース}
+"What did I tell you..."
+
+[87.052]
+{ミント}
+"{クレス}, are you all right?"{PAGE}
+{クレス}
+"Y-yes..."{PAGE}
+
+
+[87.053]
+???
+"I am Hattori Ranzo, head of this ninja village. I am sorry for what happened.{PAGE}
+
+
+[87.054]
+Suzu! Have I not told you time and again to disarm the traps when guests are coming!"{PAGE}
+Suzu
+"I-I am sorry..."{PAGE}
+
+
+[87.055]
+{クレス}
+"P-please don't worry about it."{PAGE}
+Ranzo
+"But you will catch cold as you are. Go and have a soak in the hot spring. We shall talk after that."{PAGE}
+
+
+[87.056]
+{アーチェ}
+"Yay, a hot spring, a hot spring!"
+
+[87.057]
+{クレス}
+"Well, well. So this is a hot spring."{PAGE}
+{チェスター}
+"There's a smell of sulphur about."
+
+[87.058]
+{クラース}
+"Ahh, this is the life."
+
+[87.059]
+{アーチェ}
+"{ミント}, hurry up!"{PAGE}
+{ミント}
+"I am coming."
+
+[87.060]
+{ミント}
+"It feels lovely."{PAGE}
+{アーチェ}
+"It's the best!"
+
+[87.061]
+{アーチェ}
+"Aaaaaah!!!!"{PAGE}
+{ミント}
+"Wh-what is it!?"{PAGE}
+{アーチェ}
+"{ミント}, you've got such a big chest!!"{PAGE}
+
+
+[87.062]
+{ミント}
+"Eh, oh, p-please do not tease me!"{PAGE}
+{アーチェ}
+"But I'm flat as a board. I'm so jealous..."{PAGE}
+
+
+[87.063]
+{ミント}
+"Honestly!"
+
+[87.064]
+{チェスター}
+"Did you hear that?"{PAGE}
+{クレス}
+"Hear what?"{PAGE}
+{チェスター}
+"What {アーチェ} and the other one were saying! We can't miss this."{PAGE}
+
+
+[87.065]
+{クレス}
+"H-hey! Don't!"
+
+[87.066]
+{クラース}
+"Ah, it is good to be young."{PAGE}
+{クレス}
+"This is no time to admire him!"
+
+[87.067]
+{クレス}
+"I told you to leave off..."
+
+[87.068]
+Ranzo
+"Well, you feel refreshed, I trust?"{PAGE}
+{クレス}
+"Yes, thank you."{PAGE}
+Ranzo
+"It is no more than is due to the heroes who will save the world. Do not stand on ceremony. I have heard the talk. You are on a journey to put down Dhaos, the chief of the monsters, they say..."{PAGE}
+{クラース}
+"How do you know that? I had heard this place refuses all dealings with the outside world..."{PAGE}
+Ranzo
+"That is the face we show. Behind it, we carry out covert work for Euclid and Alvanista."{PAGE}
+{クレス}
+"Covert work?"{PAGE}
+Ranzo
+"Something like spies. Our chief craft is the seeking out of hidden intelligence."{PAGE}
+
+
+[87.069]
+{チェスター}
+"And we're being spied on too, is that it? I can't say I like the feeling."{PAGE}
+{ミント}
+"Oh..."
+{クレス}
+"{チェスター}, that's going too far!"{PAGE}
+
+
+[87.070]
+{クラース}
+"No, I feel the same. Lately many ninja who have become minions of Dhaos have been about. I could not shake the feeling that we too were being watched."
+
+[87.071]
+Suzu
+"N-no! Those people are...!"{PAGE}
+Ranzo
+"Suzu, I shall explain."{PAGE}
+
+
+[87.072]
+Suzu
+"Yes..."
+
+[87.073]
+Ranzo
+"The truth is, I have an earnest request to make of you."{PAGE}
+{クレス}
+"A request?"{PAGE}
+Ranzo
+"Dhaos, it seems, is carrying off our people and brainwashing them into fighters."{PAGE}
+{クラース}
+"Brainwashing... mind control. So he no longer cares what means he uses..."{PAGE}
+Ranzo
+"The suspicious movements around you are most likely those people. And... Suzu's parents too went missing two years ago."{PAGE}
+Suzu
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+Ranzo
+"You have your mission of wiping Dhaos from this world, I know, but will you help in the search for Suzu's parents too?"
+
+[87.074]
+Ranzo
+"I beg you, for Suzu's sake too..."
+
+[87.075]
+{クレス}
+"I don't know how much we can do, but we'll do it."{PAGE}
+{クラース}
+"Dear me, {クレス}'s soft heart will be the death of us..."{PAGE}
+
+
+[87.076]
+{アーチェ}
+"What are you saying? That's the good thing about {クレス}."{PAGE}
+
+
+[87.077]
+Ranzo
+"Their names: the father is Dozo, the mother Okiyo. By our latest news, people who seem to be they were seen around Euclid. I place it in your hands.{PAGE}
+Ah yes. I can hardly call it payment in advance, but..."
+
+[87.078]
+Ranzo
+"This is the secret sword handed down in my house, 'Muramasa'."{PAGE}
+{クレス}
+"Are you sure?"{PAGE}
+Ranzo
+"I am. Unused, it is a treasure left to rot."{PAGE}
+
+
+[87.079]
+{COLOR:03}Received {STR:680C}.{COLOR:02}
+
+[87.080]
+Ofuyu
+"There now, it's done. Piping hot."{PAGE}
+{COLOR:03}Received {STR:F30C}.{COLOR:02}
+

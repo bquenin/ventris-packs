@@ -1,0 +1,3 @@
+[01012.001]
+{NAME:01 00 00 00}! Not that way! Cresta's east of here.
+

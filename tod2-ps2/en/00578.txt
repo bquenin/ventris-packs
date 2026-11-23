@@ -1,0 +1,9 @@
+[00578.001]
+Hey, once we've got some news, let's find somewhere to rest. A sleep might bring a good idea.
+
+[00578.002]
+You forget everything once you've slept and woken...
+
+[00578.003]
+Mean, {NAME:03 00 00 00}! I do remember! ...A bit.
+

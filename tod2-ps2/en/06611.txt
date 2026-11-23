@@ -1,0 +1,145 @@
+[06611.001]
+Dycroft
+
+[06611.002]
+Dycroft
+
+[06611.004]
+There! It's Dymlos and the others!
+
+[06611.005]
+Karell
+
+[06611.006]
+Miktran, prepare yourself!!
+
+[06611.007]
+Miktran
+
+[06611.008]
+Guoooaaaah!!
+
+[06611.009]
+Miktran
+
+[06611.010]
+I too am a man they called King of Heaven. I will not die for nothing!
+
+[06611.011]
+Karell
+
+[06611.012]
+Guaaaaaah!
+
+[06611.013]
+Karell
+
+[06611.014]
+...I will not... Gah! ......I will not... let go!
+
+[06611.015]
+Miktran
+
+[06611.016]
+Uguaaaaaah!!!!
+
+[06611.018]
+Brother! Hold on, brother!
+
+[06611.019]
+Karell
+
+[06611.020]
+{NAME:06 00 00 00}... ...Haha, that's odd... Am I... hearing things?
+
+[06611.021]
+Karell
+
+[06611.022]
+...You always... call me... just "brother"...
+
+[06611.024]
+Don't talk, the wound will open!
+
+[06611.025]
+Karell
+
+[06611.026]
+...What is it, {NAME:06 00 00 00}? Why... are you crying...?
+
+[06611.027]
+Karell
+
+[06611.028]
+Has someone... been picking on you... again? ...Don't... worry... Your big brother... will keep... you...
+
+[06611.030]
+I said don't talk!!
+
+[06611.031]
+Karell
+
+[06611.032]
+...Your big bro... ther... is... al... ways...
+
+[06611.033]
+Karell
+
+[06611.034]
+...with... ......you...... ......
+
+[06611.036]
+Brother...?
+
+[06611.038]
+Brother! Open your eyes, brother!!
+
+[06611.039]
+Dymlos
+
+[06611.040]
+{NAME:06 00 00 00}... ...Karell is already...
+
+[06611.042]
+...Bro... ther...
+
+[06611.044]
+Brotheeeeer!!!!
+
+[06611.045]
+Have a safe journey.
+
+[06611.046]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06611.047]
+Will you stay the night?
+
+[06611.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06611.050]
+Please rest well.
+
+[06611.051]
+Good morning.
+
+[06611.052]
+You do not have enough money.
+
+[06611.053]
+We look forward to seeing you again.
+
+[06611.058]
+Obtained {16:25 C2}.
+
+[06611.060]
+Obtained {08:FF FF FF FF}.
+
+[06611.062]
+Found {16:25 CA}, but you can carry no more.
+
+[06611.064]
+There is nothing here.
+

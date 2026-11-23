@@ -1,0 +1,18 @@
+[00632.001]
+Say, {NAME:06 00 00 00}. Aren't you curious about the future?
+
+[00632.002]
+Why? If I knew the future there'd be less to look forward to.
+
+[00632.003]
+Well, maybe so. But don't you think, "knowing the future would make the fighting ahead easier"?
+
+[00632.004]
+You're a fool★ Solving a problem you know the answer to is no fun at all.
+
+[00632.005]
+S-so fun or no fun is how you judge things...
+
+[00632.006]
+Yup! And I'm with you people because it looks fun, too. Meeting people from the future is a rare treat♪
+

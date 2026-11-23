@@ -1,0 +1,26 @@
+format = 2
+game = "top-sfc"
+language = "en"
+name = "Tales of Phantasia in English"
+version = "0.9"
+authors = ["Machine translated, directed by bquenin"]
+license = "CC-BY-NC-SA-4.0"
+description = "Machine translated and not yet reviewed by a human translator. The whole game in English: all the dialogue, the menus, the captions of battles and menu screens, and the characters' names. Written as the worked example of making a pack. Complete as text and checked by the build; only parts of it have been seen on screen, so expect small faults. NOTES.md says what was seen."
+
+[layout]
+# The right-hand column of the status screen, two columns to the left, so that the label of the
+# skills row, which has six letters where the game has three, ends before the picture after it.
+"menu.008#2" = { columns = -2 }
+"menu.009#2" = { columns = -2 }
+"menu.010#2" = { columns = -2 }
+"menu.011#2" = { columns = -2 }
+"menu.012#2" = { columns = -2 }
+"menu.013#2" = { columns = -2 }
+"menu.014#2" = { columns = -2 }
+"menu.659#3" = { columns = -2 }
+"menu.658#2" = { columns = -2 }
+# The picture itself, one column to the right, which leaves a gap after the label.
+"picture.skills" = { columns = 1 }
+# The family name on the status screen, two columns to the left, over the sign between it and the
+# given name (menu.759, a space here), so that the line reads "Cress Albane".
+"status.family" = { columns = -2 }

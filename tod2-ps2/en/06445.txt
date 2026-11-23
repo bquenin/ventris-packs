@@ -1,0 +1,470 @@
+[06445.001]
+Heidelberg: Outfitter
+
+[06445.002]
+Heidelberg
+
+[06445.003]
+Outfitter
+
+[06445.005]
+Weapons of every kind are laid out. Rare foreign weapons and ancient blades can be seen among them.
+
+[06445.007]
+All sorts of clothes hang here. The designs are rather good too.
+
+[06445.009]
+Obtained {08:22 01 00 00}.
+
+[06445.011]
+Splendidly decorated arms and armor are on display. Every piece looks like a costly antique.
+
+[06445.012]
+Weapon Shop
+
+[06445.013]
+Welcome! We deal in weapons here!
+
+[06445.014]
+Thank you very much!
+
+[06445.015]
+Buy something...
+
+[06445.016]
+Weapon Shop
+
+[06445.017]
+Weapon Shop
+
+[06445.018]
+Welcome! We deal in weapons here!
+
+[06445.019]
+Armor Shop
+
+[06445.020]
+Welcome! We deal in armor here!
+
+[06445.021]
+Thank you for your purchase!
+
+[06445.022]
+Tch. Just browsing, eh.
+
+[06445.023]
+Armor Shop
+
+[06445.024]
+Armor Shop
+
+[06445.025]
+Welcome! We deal in armor here!
+
+[06445.026]
+Merchant
+
+[06445.027]
+I have developed the ultimate sword! One that makes even the Swordians pale. I call it the "Ten-Use Sword"!!
+
+[06445.028]
+Merchant
+
+[06445.029]
+Quite unlike any sword before! The blade extends to three times its length! Now you can beat enemies in high places too!
+
+[06445.031]
+What do you mean, "enemies in high places"...
+
+[06445.032]
+Merchant
+
+[06445.033]
+The blade is detachable. It can be washed in water, simple and handy! Change the parts and it turns into a can opener too.
+
+[06445.034]
+Merchant
+
+[06445.035]
+...I'd have thought it was handy. They say they can't stock it in this shop. I wonder why...
+
+[06445.036]
+Merchant
+
+[06445.037]
+The "Ten-Use Sword". I'd have thought it was handy...
+
+[06445.038]
+Merchant
+
+[06445.039]
+You make a lovely pair, you two★ And for you, today's top pick: the "Lovey-Dovey Sword"!
+
+[06445.040]
+Merchant
+
+[06445.041]
+I've joined a man's sword and a woman's knife with a red chain. With the power of love, your fighting strength is sure to go up!
+
+[06445.043]
+...I wouldn't want to use it even if you paid me...
+
+[06445.044]
+Merchant
+
+[06445.045]
+The "Lovey-Dovey Sword". I thought it would sell...
+
+[06445.046]
+Merchant
+
+[06445.047]
+There was a dangerous sound just now. At such times, I offer a handy weapon at a special price!
+
+[06445.048]
+Merchant
+
+[06445.049]
+The ultimate sword, with a blade set in the hilt as well as the usual one! You can fell enemies in front and behind at once!
+
+[06445.050]
+Merchant
+
+[06445.051]
+I call it the "Double-Edged Sword"! Well!?
+
+[06445.053]
+Like anyone could swing a risky thing like that!
+
+[06445.054]
+Merchant
+
+[06445.055]
+Boo hoo... No good... Maybe I've got no head for business after all...
+
+[06445.057]
+?
+
+[06445.058]
+Merchant of Neustadt
+
+[06445.059]
+Winters, my good man. Fifteen of each of those items, if you would be so kind?
+
+[06445.060]
+Winters
+
+[06445.061]
+Then it's twenty days and 300,000 Gald. I won't cut the time or the price below that.
+
+[06445.062]
+Merchant of Neustadt
+
+[06445.063]
+Very well, we have a deal. By the way, Winters, about the other day's matter...
+
+[06445.064]
+Winters
+
+[06445.065]
+I don't take custom orders. They take too long. And besides, I've no good material to hand.
+
+[06445.066]
+Merchant of Neustadt
+
+[06445.067]
+You take no job unless the material and the owner satisfy you... A genius indeed, one might say.
+
+[06445.068]
+Merchant of Neustadt
+
+[06445.069]
+Well, that is exactly why the things you make have value.
+
+[06445.070]
+Merchant of Neustadt
+
+[06445.071]
+Oh? Do you people have business with Winters too?
+
+[06445.073]
+Huh? Winters?
+
+[06445.074]
+Merchant of Neustadt
+
+[06445.075]
+What, you came without knowing? Winters, the owner here, is a famous man "in that line".
+
+[06445.076]
+Merchant of Neustadt
+
+[06445.077]
+Why not ask him about it? You may hear all sorts of interesting things.
+
+[06445.078]
+Winters
+
+[06445.079]
+Hey, welcome. I'm Winters, the owner of this shop, "Soul & Sword".
+
+[06445.080]
+Winters
+
+[06445.081]
+Plenty of different weapons, eh? I made them all. Well, impressive, isn't it?
+
+[06445.082]
+Winters
+
+[06445.083]
+If you've time to spare, enjoy a bit of window-shopping.
+
+[06445.084]
+Winters
+
+[06445.085]
+...No, wait, the material's the problem. To get both strength and flexibility, there's nothing for it but Berselium...
+
+[06445.087]
+Excuse me~!
+
+[06445.088]
+Winters
+
+[06445.089]
+...Hm? Oh, a customer. Sorry, I was thinking.
+
+[06445.090]
+Winters
+
+[06445.091]
+I'm Winters, the owner. Welcome to "Soul & Sword". An old, worn shop with nothing but a long tradition, but have a look around if you like.
+
+[06445.093]
+A long tradition... how long?
+
+[06445.094]
+Winters
+
+[06445.095]
+According to my great-grandfather, it's "a shop of proud history going back to the War of Heaven and Earth".
+
+[06445.097]
+Amazing! Hey, will you make something if we ask!?
+
+[06445.098]
+Winters
+
+[06445.099]
+No, custom orders take too long. I usually turn them down.
+
+[06445.100]
+Winters
+
+[06445.101]
+...Hm? You people look like adventurers to me.
+
+[06445.103]
+That's right! I'm {NAME:01 00 00 00}. Nice to meet you!
+
+[06445.104]
+Winters
+
+[06445.105]
+Adventurers, eh. Hmm. Then I may be able to ask you about that matter.
+
+[06445.106]
+Winters
+
+[06445.107]
+{NAME:01 00 00 00}, I'm looking for a phantom ore called "Berselium", but it's terribly rare and hardly ever comes to hand.
+
+[06445.108]
+Winters
+
+[06445.109]
+If you bring me that Berselium, I'll do what you ask.
+
+[06445.111]
+OK! In exchange for "Berselium", right! We'll bring it, so make something amazing!
+
+[06445.112]
+Winters
+
+[06445.113]
+Hey, {NAME:01 00 00 00}. Did you find the "Berselium"?
+
+[06445.115]
+Yeah! We've brought it!
+
+[06445.116]
+Winters
+
+[06445.117]
+Ohhh! That's amazing! Well done finding it!
+
+[06445.118]
+Winters
+
+[06445.119]
+So, what'll it be, {NAME:01 00 00 00}! Shall I make something in exchange for it? I'll make it as I please, so what it turns out to be is a surprise!
+
+[06445.121]
+{03:00 00 00 00}　Yes, please　
+　No, thank you　　
+
+[06445.122]
+Winters
+
+[06445.123]
+Right! Then I'll get to work at once!
+
+[06445.124]
+Winters
+
+[06445.125]
+I see... a pity, but it can't be helped. Speak to me again if you change your mind.
+
+[06445.127]
+Sorry, we don't have it.
+
+[06445.128]
+Winters
+
+[06445.129]
+I see. Well, it is called a phantom ore. It won't be found that easily.
+
+[06445.130]
+Clothes Set: Low Level 1
+
+[06445.131]
+Clothes Set: Low Level 2
+
+[06445.132]
+Accessory Set: Low Level
+
+[06445.133]
+Winters
+
+[06445.134]
+Ha haa! {NAME:01 00 00 00}, you're in luck! I've gone and made something outrageous!
+
+[06445.135]
+Winters
+
+[06445.136]
+Here, take it! A piece Winters is truly proud of!
+
+[06445.138]
+Obtained {08:BF 00 00 00}.
+
+[06445.140]
+Wow... amazing! Thank you, Winters!
+
+[06445.141]
+Winters
+
+[06445.142]
+It's done! And its name is "{18:44 6C}"!
+
+[06445.143]
+Winters
+
+[06445.144]
+Heh heh heh... I've made something wonderful, if I say so myself. See for yourself!
+
+[06445.146]
+Obtained {18:44 6C}.
+
+[06445.147]
+Clothes Set: High Level 1
+
+[06445.148]
+Clothes Set: High Level 2
+
+[06445.149]
+Clothes Set: High Level 3
+
+[06445.150]
+Accessory Set: High Level 1
+
+[06445.151]
+Accessory Set: High Level 2
+
+[06445.152]
+Accessory Set: High Level 3
+
+[06445.153]
+Lucky Bag Set
+
+[06445.154]
+Winters
+
+[06445.155]
+Ha haa! {NAME:01 00 00 00}, you're in luck! I've gone and made something outrageous!
+
+[06445.156]
+Winters
+
+[06445.157]
+Here, take it! A piece Winters is truly proud of!
+
+[06445.159]
+Obtained {08:1C 01 00 00}.
+
+[06445.161]
+Wow... amazing! Thank you, Winters!
+
+[06445.162]
+Winters
+
+[06445.163]
+It's done! And its name is "{18:44 6C}"!
+
+[06445.164]
+Winters
+
+[06445.165]
+Heh heh heh... I've made something wonderful, if I say so myself. See for yourself!
+
+[06445.167]
+Obtained {18:44 6C}.
+
+[06445.168]
+Have a safe journey.
+
+[06445.169]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06445.170]
+Will you stay the night?
+
+[06445.172]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06445.173]
+Please rest well.
+
+[06445.174]
+Good morning.
+
+[06445.175]
+You do not have enough money.
+
+[06445.176]
+We look forward to seeing you again.
+
+[06445.181]
+Obtained {16:25 C6}.
+
+[06445.183]
+Obtained {08:FF FF FF FF}.
+
+[06445.185]
+Found {16:25 CE}, but you can carry no more.
+
+[06445.187]
+There is nothing here.
+

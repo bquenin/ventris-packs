@@ -1,0 +1,193 @@
+[06417.001]
+Neustadt: Outfitter
+
+[06417.002]
+Neustadt
+
+[06417.003]
+Outfitter
+
+[06417.004]
+Rich Man
+
+[06417.005]
+This shop is run directly by "Soul & Sword", the outfitter in Heidelberg.
+
+[06417.006]
+Rich Man
+
+[06417.007]
+And this is a piece made by "Winters", its owner and also a smith...
+
+[06417.008]
+Rich Man
+
+[06417.009]
+Hmm... splendidly made. That smith Winters really is something.
+
+[06417.010]
+Outerwear Shop
+
+[06417.011]
+Welcome. We deal in outerwear here.
+
+[06417.012]
+Weapon Shop
+
+[06417.013]
+Welcome. We deal in weapons here.
+
+[06417.014]
+Thank you very much.
+
+[06417.015]
+Please come again.
+
+[06417.016]
+Accessory Shop
+
+[06417.017]
+Welcome. We deal in accessories here.
+
+[06417.018]
+Armor Shop
+
+[06417.019]
+Welcome. We deal in armor here.
+
+[06417.020]
+Thank you very much.
+
+[06417.021]
+Please come again.
+
+[06417.022]
+Young Woman
+
+[06417.023]
+Shall I take that one... or shall I take this one... Oh, I just can't decide~.
+
+[06417.024]
+Young Woman
+
+[06417.025]
+I used to buy whatever I liked, as much as I liked, with no idea of the value of money.
+
+[06417.026]
+Young Woman
+
+[06417.027]
+Now I buy with money I worked for and saved up desperately, so I can't waste it.
+
+[06417.028]
+Young Woman
+
+[06417.029]
+I never dreamed getting money was this hard.
+
+[06417.030]
+Young Woman
+
+[06417.031]
+I bought an accessory with money I worked for and saved.
+
+[06417.032]
+Young Woman
+
+[06417.033]
+In the old days, I only had to ask my father and I could buy things far finer than the goods here.
+
+[06417.034]
+Young Woman
+
+[06417.035]
+But something I got by working for it myself shines brighter than any luxury.
+
+[06417.036]
+Young Woman
+
+[06417.037]
+I lost my fortune, but I feel I gained something more precious.
+
+[06417.038]
+Young Woman
+
+[06417.039]
+I never dreamed getting money was this hard.
+
+[06417.041]
+Right, right, that's why this guy and I went to get the three-million-Gald Lens... ...or did we?
+
+[06417.043]
+Yeah, we didn't... I'm pretty sure. But...?
+
+[06417.044]
+Young Woman
+
+[06417.045]
+I used to buy whatever I liked, as much as I liked, with no idea of the value of money.
+
+[06417.046]
+Young Woman
+
+[06417.047]
+Now I buy with money I worked for and saved up desperately, so I can't waste it.
+
+[06417.049]
+A halberd with lavish decoration. "Not for sale" is written on it.
+
+[06417.051]
+Plate armor made of beautiful curved surfaces. "Made by Winters" is written on it.
+
+[06417.053]
+Gauntlets and greaves are on display. "Not for sale" is written on them.
+
+[06417.055]
+Junk weapons sold by the heap. "10 for 980 Gald" is written on them.
+
+[06417.057]
+Junk armor sold by the heap. "Helm and breastplate sets from 1,980 Gald" is written on it.
+
+[06417.059]
+Cloth armor for women. "Men strictly forbidden to try on!" is written on it...
+
+[06417.061]
+The latest Lens accessory. "A prototype, so not for sale" is written on it.
+
+[06417.062]
+Have a safe journey.
+
+[06417.063]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06417.064]
+Will you stay the night?
+
+[06417.066]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06417.067]
+Please rest well.
+
+[06417.068]
+Good morning.
+
+[06417.069]
+You do not have enough money.
+
+[06417.070]
+We look forward to seeing you again.
+
+[06417.075]
+Obtained {16:25 BA}.
+
+[06417.077]
+Obtained {08:FF FF FF FF}.
+
+[06417.079]
+Found {16:25 C2}, but you can carry no more.
+
+[06417.081]
+There is nothing here.
+

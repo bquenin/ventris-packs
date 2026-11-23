@@ -1,0 +1,9 @@
+[00278.001]
+{NAME:01 00 00 00}, don't you find it odd? How come {NAME:04 00 00 00} knows so much about the equipment here? I still get the feeling he's hiding something...
+
+[00278.002]
+Eh? Why? Aren't you reading too much into it? He's been with us all along, and he's no bad guy, is he?
+
+[00278.003]
+...True. No use grumbling now we've come this far...
+

@@ -1,0 +1,84 @@
+[06201.8889]
+Before {NAME:06 00 00 00} took Dycroft over,
+how many minutes did
+{NAME:01 00 00 00}'s party buy?
+
+[06201.8964]
+Right!
+
+[06201.8971]
+Wrong!
+
+[06201.8980]
+Time's up!
+
+[06201.8995]
+Lights at a memory circle?
+
+[06201.9024]
+How much GRADE does the
+hardest battle rank
+take to play?
+
+[06201.9087]
+We sure fought a lot...
+
+[06201.9114]
+Wrong.
+
+[06201.9121]
+How much GRADE does
+battle rank "Hard"
+take to play?
+
+[06201.9186]
+Fought plenty...
+
+[06201.9205]
+How much GRADE does
+battle rank "Mania"
+take to play?
+
+[06201.9270]
+In Elraine's remade present,
+how many domed towns?
+
+[06201.9332]
+What do fifteen Life
+Bottles cost?
+
+[06201.9374]
+They've saved us often...
+
+[06201.9401]
+A chef sold the "Seafood Curry"
+recipe. For how much Gald?
+
+[06201.9481]
+Right!
+A bit dear, wasn't it?
+
+[06201.9513]
+A chef sold the "Rice Balls"
+recipe. For how much Gald?
+
+[06201.9591]
+A chef sold the "Overnight Pickles"
+recipe. For how much Gald?
+
+[06201.9669]
+A chef sold the "Sashimi"
+recipe. For how much Gald?
+
+[06201.9745]
+A chef sold the "Meat Hot Pot"
+recipe. For how much Gald?
+
+[06201.9819]
+A chef sold the "Chili Shrimp"
+recipe. For how much Gald?
+
+[06201.9897]
+Right!
+Pricey, eh?
+

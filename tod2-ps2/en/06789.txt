@@ -1,0 +1,118 @@
+[06789.001]
+Regular Ship
+
+[06789.002]
+Regular Ship
+
+[06789.004]
+Wow... amazing! You can't see a thi~ng but the sea!
+
+[06789.006]
+And the wind goes whooshing by... It's like flying through the sky!
+
+[06789.008]
+See? Isn't it amazing?
+
+[06789.010]
+I didn't expect it, though. I thought you'd be scared of a place like this, {NAME:02 00 00 00}.
+
+[06789.012]
+Why? With the sea breeze blowing, when it feels so good?
+
+[06789.014]
+Well, I sort of thought that up somewhere high you'd say "I'm sca~red!" or something.
+
+[06789.016]
+Pfft! Ahaha! What was that "I'm sca~red!" just now? Was that meant to be me? It's nothing like me!
+
+[06789.018]
+Y-you don't have to laugh!
+
+[06789.020]
+S-sorry, {NAME:01 00 00 00}... But "I'm sca~red!"... Ahahaha!
+
+[06789.022]
+...Was it that odd? H-hehehe...
+
+[06789.024]
+...But I'm relieved. So you laugh like that too, {NAME:02 00 00 00}.
+
+[06789.026]
+Of course I do. You are funny, {NAME:01 00 00 00}!
+
+[06789.028]
+Well, when we first met, your face never changed whatever I said.
+
+[06789.030]
+Honestly, I thought "what an unfriendly girl".
+
+[06789.032]
+...Back then my head was full of "I must find a hero"...
+
+[06789.034]
+Oh, yeah... Come to think of it, it was.
+
+[06789.036]
+...Say, {NAME:01 00 00 00}? Why did you want to become a hero?
+
+[06789.038]
+I guess because I want to be like Dad.
+
+[06789.040]
+Dad was big and strong, but kind and warm too... He was always smiling.
+
+[06789.042]
+Mind you, he went off on a journey when I was little and never came back, so I don't remember him well.
+
+[06789.044]
+But I want to be like Dad one day too. ...A true hero, like him.
+
+[06789.046]
+...A true hero.
+
+[06789.048]
+Come to think of it, why are you looking for a hero, {NAME:02 00 00 00}?
+
+[06789.050]
+...The reason I... the reason I am looking for a hero is...
+
+[06789.052]
+Wh-what!?
+
+[06789.053]
+Have a safe journey.
+
+[06789.054]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06789.055]
+Will you stay the night?
+
+[06789.057]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06789.058]
+Please rest well.
+
+[06789.059]
+Good morning.
+
+[06789.060]
+You do not have enough money.
+
+[06789.061]
+We look forward to seeing you again.
+
+[06789.066]
+Obtained {16:25 C6}.
+
+[06789.068]
+Obtained {08:FF FF FF FF}.
+
+[06789.070]
+Found {16:25 CE}, but you can carry no more.
+
+[06789.072]
+There is nothing here.
+

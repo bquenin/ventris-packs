@@ -1,0 +1,172 @@
+[06475.001]
+Cherik: House
+
+[06475.002]
+Cherik
+
+[06475.003]
+House
+
+[06475.004]
+Man
+
+[06475.005]
+For its size, not many people live in this town, do they?
+
+[06475.006]
+Man
+
+[06475.007]
+The moves to Aigrette are part of it, but the main cause is the epidemic a few years back.
+
+[06475.008]
+Man
+
+[06475.009]
+There was no doctor in this town, so everyone went off to Aigrette seeking salvation...
+
+[06475.010]
+Man
+
+[06475.011]
+If this town had had a doctor, it would have turned out a little better...
+
+[06475.012]
+Man
+
+[06475.013]
+About ten years ago, I think it was. There was a pretty bad spell with an epidemic.
+
+[06475.014]
+Man
+
+[06475.015]
+From then on, people began moving from Cherik to Aigrette in groups.
+
+[06475.016]
+Man
+
+[06475.017]
+They say that under the Order's protection you can live without earning money.
+
+[06475.018]
+Man
+
+[06475.019]
+Hearing that, anyone would think of moving.
+
+[06475.020]
+Young Man
+
+[06475.021]
+Only a few months ago, a terrible sickness spread all through these parts.
+
+[06475.022]
+Young Man
+
+[06475.023]
+Most came under the protection of the Order of Atamoni and it went no further, but there were some odd ones among them.
+
+[06475.024]
+Young Man
+
+[06475.025]
+They moved to Hope Town, saying they didn't want to be at a god's beck and call.
+
+[06475.026]
+Young Man
+
+[06475.027]
+Only a few months ago, a terrible sickness spread all through these parts.
+
+[06475.028]
+Young Man
+
+[06475.029]
+Most came under the protection of Straylize Temple and it went no further, but there were some odd ones among them.
+
+[06475.030]
+Young Man
+
+[06475.031]
+They moved to Hope Town, saying they didn't want to be at a god's beck and call.
+
+[06475.032]
+Young Man
+
+[06475.033]
+There was a sister who set off for Hope Town with her sick little brother, saying she didn't want to be at a god's beck and call.
+
+[06475.034]
+Young Man
+
+[06475.035]
+I wonder what they're doing now? Is the brother all right?
+
+[06475.036]
+Cherik Mach Boy
+
+[06475.037]
+Heh. In this world there are many who seek to master running.
+
+[06475.038]
+Heh. They say Neustadt has a racecourse where the mighty gather.
+
+[06475.039]
+Heh. I too would like to be a tough guy in Neustadt someday.
+
+[06475.040]
+Heh. They say there is a title only those who have mastered running can win.
+
+[06475.041]
+Heh. In your case they'd likely name you "Mach Mask" or some such.
+
+[06475.043]
+Mach Mask...
+
+[06475.045]
+It must have stood in the sea breeze for a long time. This chest of drawers is falling apart.
+
+[06475.047]
+Unusual sundries colored by the culture of the Calvalese region.
+
+[06475.049]
+An emerald sea... When I think of it, we've come a long way.
+
+[06475.050]
+Have a safe journey.
+
+[06475.051]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06475.052]
+Will you stay the night?
+
+[06475.054]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06475.055]
+Please rest well.
+
+[06475.056]
+Good morning.
+
+[06475.057]
+You do not have enough money.
+
+[06475.058]
+We look forward to seeing you again.
+
+[06475.063]
+Obtained {16:25 BA}.
+
+[06475.065]
+Obtained {08:FF FF FF FF}.
+
+[06475.067]
+Found {16:25 C2}, but you can carry no more.
+
+[06475.069]
+There is nothing here.
+

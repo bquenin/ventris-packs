@@ -1,0 +1,105 @@
+[06467.001]
+Heidelberg Castle
+
+[06467.002]
+Heidelberg Castle
+
+[06467.004]
+Whew! Now that's a flashy way to come storming in.
+
+[06467.006]
+But against this, even an impregnable castle cannot hold for a moment. As tactics, it is splendid.
+
+[06467.008]
+Anyway, let's hurry! I'm worried about Woodrow!
+
+[06467.009]
+Have a safe journey.
+
+[06467.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06467.011]
+Will you stay the night?
+
+[06467.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06467.014]
+Please rest well.
+
+[06467.015]
+Good morning.
+
+[06467.016]
+You do not have enough money.
+
+[06467.017]
+We look forward to seeing you again.
+
+[06467.022]
+Obtained {16:25 BA}.
+
+[06467.024]
+Obtained {08:FF FF FF FF}.
+
+[06467.026]
+Found {16:25 C2}, but you can carry no more.
+
+[06467.028]
+There is nothing here.
+
+[06467.029]
+Supply Unit
+
+[06467.030]
+This is the supply unit.
+
+[06467.031]
+Good luck.
+
+[06467.032]
+Come by anytime.
+
+[06467.033]
+Supply Unit
+
+[06467.034]
+Tending the wounded is our work. There is a charge for treatment, though...
+
+[06467.035]
+Tending the wounded is our mission.
+
+[06467.036]
+Medic
+
+[06467.037]
+Medic
+
+[06467.038]
+Want some first aid?
+{03:00 00 00 00}　Yes ({0B:01 00 00 00}{06:64 00 00 00}{0B:00 00 00 00} Gald)　
+　No　
+
+[06467.039]
+Medic
+
+[06467.040]
+First aid, commencing!
+
+[06467.041]
+You're all right now.
+
+[06467.042]
+This one's on the house.
+
+[06467.043]
+Medic
+
+[06467.044]
+Medic
+
+[06467.045]
+Come by anytime.
+

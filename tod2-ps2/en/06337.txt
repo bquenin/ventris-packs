@@ -1,0 +1,298 @@
+[06337.001]
+Darilsheid, the Old Capital
+
+[06337.002]
+Darilsheid, the Old Capital
+
+[06337.003]
+Hey, {NAME:01 00 00 00}, don't bother with him. That guy's obviously shady.
+
+[06337.006]
+{03:00 00 00 00}Rest?
+　Yes　
+　No　
+
+[06337.008]
+Hey! What's the big idea, locking us in a cell without even hearing us out!
+
+[06337.010]
+Hey, you! Whoever's in charge, get out here!!
+
+[06337.012]
+Damn! We blew it. I never thought we'd end up like this...
+
+[06337.014]
+Mmm... Wh-where is this...?
+
+[06337.016]
+Um, we went to the Laguna Ruins and found the Lens, but it broke, and then the Order of Atamoni caught us...
+
+[06337.018]
+...Huh? What happened after that?
+
+[06337.020]
+...You're a carefree one, aren't you.
+
+[06337.022]
+As you can see, we got thrown in a cell. Probably under Darilsheid.
+
+[06337.024]
+Huh?
+
+[06337.026]
+He's laughing...
+
+[06337.028]
+H-hey, {NAME:01 00 00 00}!? What's wrong!? Did you hit your head!? Let me have a look!
+
+[06337.030]
+No, {NAME:03 00 00 00}. I'm just really happy right now! Because, you know, the adventure has begun!
+
+[06337.032]
+Adventure...?
+
+[06337.034]
+The moment that girl appeared, I thought: the adventure has begun.
+
+[06337.036]
+I mean, she came out of a Lens and said "I am looking for a hero"!
+
+[06337.038]
+Only in stories... no, not even in stories did anything like this happen! And it happened right in front of me!
+
+[06337.040]
+That's it, {NAME:03 00 00 00}! When we get back to Cresta, I'm setting out on a journey.
+
+[06337.042]
+A journey...?
+
+[06337.044]
+Yeah, a journey of adventure to become a hero!
+
+[06337.046]
+The one that girl is looking for is me! Maybe not right now, but... yes! The future me!
+
+[06337.048]
+I'm going to go and tell her that... no, make her see it!
+
+[06337.050]
+The future you... huh. Heh... I don't dislike that sort of thing.
+
+[06337.052]
+All right! I'm coming along on that journey!
+
+[06337.054]
+Huh!? But {NAME:03 00 00 00}, you're with the Order of Atamoni...
+
+[06337.056]
+I'm done with that lot. This whole business made it perfectly clear! That's not where I belong.
+
+[06337.058]
+Where I belong is... beside you, {NAME:01 00 00 00}... So I'm coming with you.
+
+[06337.060]
+{NAME:03 00 00 00}...
+
+[06337.062]
+Besides, I've been hoping I could stand in for Stahn... for your father.
+
+[06337.064]
+Ever since that day...
+
+[06337.066]
+That day...?
+
+[06337.067]
+?????
+
+[06337.068]
+Heh heh heh... Ha ha ha ha!
+
+[06337.070]
+Who's there!?
+
+[06337.071]
+?????
+
+[06337.072]
+Do you seriously believe you can become a hero? If so, you are a happy fool.
+
+[06337.074]
+Hey, why can't I become a hero!?
+
+[06337.075]
+?????
+
+[06337.076]
+Hmph, it's simple.
+
+[06337.077]
+?????
+
+[06337.078]
+"Hero" is a title that people bestow for past deeds.
+
+[06337.079]
+?????
+
+[06337.080]
+It is not something you set out to become, much less something you become just by wishing for it.
+
+[06337.082]
+You talk like you know all about it. Almost as if you wanted to say you were a hero yourself.
+
+[06337.083]
+?????
+
+[06337.084]
+...
+........
+
+[06337.085]
+?????
+
+[06337.086]
+I am no hero myself. But I know at least four people who are called that.
+
+[06337.088]
+Four? Oho~... We don't just know of them. We're acquainted with two of them!
+
+[06337.090]
+After all, this guy's parents are two of them.
+
+[06337.091]
+?????
+
+[06337.092]
+His parents... are heroes!? ...! I see, so he's their...!
+
+[06337.094]
+Heh heh~! Too surprised to even speak, huh?
+
+[06337.096]
+Never mind that, {NAME:03 00 00 00}. Let's hurry back to Cresta! Otherwise, the adventure...
+
+[06337.098]
+I know, I know. Still, these cells are sturdy...
+
+[06337.099]
+?????
+
+[06337.100]
+Hey, you two.
+
+[06337.102]
+What? We're busy here. Can't you tell by looking?
+
+[06337.103]
+?????
+
+[06337.104]
+You want out of here, don't you? Then I have a good idea.
+
+[06337.106]
+Really!? What is it, this good idea!?
+
+[06337.108]
+Whoa, whoa, {NAME:01 00 00 00}. Don't go trusting what this guy says.
+
+[06337.110]
+He's the type who hides his face behind a mask. There's no telling what he's thinking.
+
+[06337.112]
+But if we dawdle in a place like this, that girl will get farther and farther away! I want to start my adventure now!!
+
+[06337.114]
+...All right. Do as you like.
+
+[06337.116]
+It's settled! So, tell us! Um...
+
+[06337.117]
+?????
+
+[06337.118]
+My name? ...A name has no meaning for me.
+
+[06337.119]
+?????
+
+[06337.120]
+Call me whatever you like.
+
+[06337.122]
+Then... {NAME:04 00 00 00}!
+
+[06337.124]
+{NAME:04 00 00 00}... huh. Well, I'll put up with that.
+
+[06337.126]
+So, Mr. {NAME:04 00 00 00}, how do you plan on getting us out of here?
+
+[06337.128]
+It's simple. We leave through the exit.
+
+[06337.130]
+Through the exit...? Hey!
+
+[06337.132]
+Stand back.
+
+[06337.134]
+Haah!
+
+[06337.136]
+Amazing...!
+
+[06337.138]
+What are you standing around for? Let's get moving.
+
+[06337.140]
+{NAME:01 00 00 00} earned the title "{08:09 08 00 00}".
+
+[06337.142]
+{NAME:03 00 00 00} earned the title "{08:0C 08 00 00}".
+
+[06337.144]
+{NAME:04 00 00 00} joined the party.
+
+[06337.146]
+It won't open.
+
+[06337.147]
+Have a safe journey.
+
+[06337.148]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06337.149]
+Will you stay the night?
+
+[06337.151]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06337.152]
+Please rest well.
+
+[06337.153]
+Good morning.
+
+[06337.154]
+You do not have enough money.
+
+[06337.155]
+We look forward to seeing you again.
+
+[06337.160]
+Obtained {16:25 CA}.
+
+[06337.162]
+Obtained {08:FF FF FF FF}.
+
+[06337.164]
+Found {16:25 D2}, but you can carry no more.
+
+[06337.166]
+There is nothing here.
+

@@ -1,0 +1,97 @@
+[06559.001]
+Dycroft
+
+[06559.002]
+Dycroft
+
+[06559.003]
+Dycroft
+
+[06559.005]
+This is... the sky city Dycroft...?
+
+[06559.007]
+Inviting your enemies in takes some confidence. Or does she think we're nothing?
+
+[06559.009]
+Either way's fine. We'll just make her regret it later.
+
+[06559.011]
+That's it! All right, let's go, everyone!
+
+[06559.012]
+Dantalion
+
+[06559.013]
+{NAME:01 00 00 00}. And {NAME:02 00 00 00}, I believe.
+
+[06559.015]
+Who... are you!
+
+[06559.016]
+Dantalion
+
+[06559.017]
+My name is Dantalion. I am one who shares Lady Elraine's ideal.
+
+[06559.018]
+Dantalion
+
+[06559.019]
+I know it is much to ask, but I ask it. ...{NAME:01 00 00 00}, please turn back.
+
+[06559.021]
+...I can't do that. We've got to see Elraine, no matter what.
+
+[06559.023]
+And if you mean to get in our way... we'll beat you!
+
+[06559.024]
+Dantalion
+
+[06559.025]
+So the two roads do not meet...
+
+[06559.026]
+Dantalion
+
+[06559.027]
+Then I too shall follow my own ideal. The ideal of Lady Elraine...!
+
+[06559.028]
+Have a safe journey.
+
+[06559.029]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06559.030]
+Will you stay the night?
+
+[06559.032]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06559.033]
+Please rest well.
+
+[06559.034]
+Good morning.
+
+[06559.035]
+You do not have enough money.
+
+[06559.036]
+We look forward to seeing you again.
+
+[06559.041]
+Obtained {16:25 BA}.
+
+[06559.043]
+Obtained {08:FF FF FF FF}.
+
+[06559.045]
+Found {16:25 C2}, but you can carry no more.
+
+[06559.047]
+There is nothing here.
+

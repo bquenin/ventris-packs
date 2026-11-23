@@ -1,0 +1,79 @@
+[06757.001]
+Katz Village: Noko Farm
+
+[06757.002]
+Katz Village
+
+[06757.003]
+Noko Farm
+
+[06757.004]
+Noko
+
+[06757.005]
+No~
+
+[06757.006]
+Noko
+
+[06757.007]
+No!
+
+[06757.008]
+Noko
+
+[06757.009]
+No!
+
+[06757.011]
+Noko, noko, mya~
+
+[06757.012]
+Mushroom Seller
+
+[06757.013]
+Will you eat a Noko mushroom, mew?
+
+[06757.014]
+Katz
+
+[06757.015]
+Eat it, mew
+
+[06757.016]
+Have a safe journey.
+
+[06757.017]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06757.018]
+Will you stay the night?
+
+[06757.020]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06757.021]
+Please rest well.
+
+[06757.022]
+Good morning.
+
+[06757.023]
+You do not have enough money.
+
+[06757.024]
+We look forward to seeing you again.
+
+[06757.029]
+Obtained {16:25 CE}.
+
+[06757.031]
+Obtained {08:FF FF FF FF}.
+
+[06757.033]
+Found {16:25 D6}, but you can carry no more.
+
+[06757.035]
+There is nothing here.
+

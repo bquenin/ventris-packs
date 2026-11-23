@@ -1,0 +1,24 @@
+[00124.001]
+Does this really lead to the way out? I don't quite trust it...
+
+[00124.002]
+If you object, we can part here... if you want to stay lost in this waterway forever.
+
+[00124.003]
+What kind of talk is that!
+
+[00124.004]
+I doubt you two could get out on your own.
+
+[00124.005]
+That's a fine thing to say, you...!
+
+[00124.006]
+Whoa! What was that!? Hey {NAME:03 00 00 00}, amazing! I saw a shadow like a fish! Could it be... a giant fish lurking in the waterway!? Wow, so cool!
+
+[00124.007]
+......Sigh... Shall we go.
+
+[00124.008]
+Yes.
+

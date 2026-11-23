@@ -1,0 +1,214 @@
+[06807.28320]
+ & co.
+earned "
+
+[06807.28336]
+".
+
+[06807.29696]
+Auto (on a tie:                 )
+
+[06807.29736]
+Aptitude
+
+[06807.29752]
+Overall
+
+[06807.29768]
+Cooking
+
+[06807.29776]
+You already have the same recipe.
+
+[06807.29816]
+Delete
+
+[06807.29824]
+Arrange
+
+[06807.29840]
+Rename
+
+[06807.29856]
+Auto overlap setting
+
+[06807.29880]
+Auto setting
+
+[06807.29896]
+Delete the recipe?
+ 
+{09:35 00 00 00}Delete  {09:36 00 00 00}Cancel
+
+[06807.29944]
+: cook it?
+ 
+{09:35 00 00 00}Yes  {09:36 00 00 00}Cancel
+
+[06807.29992]
+: cooking failed.
+
+[06807.30016]
+ was cooked.
+
+[06807.30032]
+Cook with these ingredients?
+ 
+{09:35 00 00 00}Yes  {09:36 00 00 00}Cancel
+
+[06807.30096]
+A recipe needs two or more
+kinds of food.
+  
+Stop making the recipe?
+  
+{09:35 00 00 00}Stop  {09:36 00 00 00}Go on
+
+[06807.30208]
+Create a new recipe?
+ 
+{09:35 00 00 00}Create  {09:36 00 00 00}Cancel
+
+[06807.30264]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Back
+{09:37 00 00 00}Details
+{09:38 00 00 00}Menu
+
+[06807.30320]
+KO
+
+[06807.30336]
+Slow
+
+[06807.30344]
+Frozen
+
+[06807.30352]
+Numb
+
+[06807.30360]
+Weak
+
+[06807.30368]
+Poison
+
+[06807.30376]
+INT+
+
+[06807.30384]
+ACC+
+
+[06807.30392]
+DEF+
+
+[06807.30400]
+ATK+
+
+[06807.30408]
+HP regen
+
+[06807.30424]
+Dark
+
+[06807.30432]
+Light
+
+[06807.30440]
+Wind
+
+[06807.30448]
+Fire
+
+[06807.30456]
+Water
+
+[06807.30464]
+Earth
+
+[06807.30472]
+Chain
+
+[06807.30488]
+Magic
+
+[06807.30504]
+Skill
+
+[06807.30512]
+Attack
+
+[06807.30528]
+Boost
+
+[06807.30536]
+Resist
+
+[06807.30544]
+Status
+
+[06807.30560]
+TP
+
+[06807.30568]
+HP
+
+[06807.30624]
+Huge
+
+[06807.30632]
+Big
+
+[06807.30640]
+Mid
+
+[06807.30648]
+Small
+
+[06807.30656]
+Heal
+
+[06807.30664]
+Damage
+
+[06807.30680]
+, 
+
+[06807.30704]
++
+
+[06807.30720]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Back
+
+[06807.30744]
+All are full.
+
+[06807.30840]
+{09:35 00 00 00}Select
+{09:36 00 00 00}Cook
+{09:37 00 00 00}Details
+{09:38 00 00 00}Undo
+
+[06807.30952]
+The recipe list is full.
+You must delete one first.
+
+[06807.31024]
+A recipe needs two or more
+kinds of food on hand.
+
+[06807.31088]
+{09:35 00 00 00}Save  {09:36 00 00 00}Don't save
+
+[06807.31120]
+Saved.
+
+[06807.31256]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Back
+{09:37 00 00 00}Details
+
+[06807.31352]
+New
+

@@ -1,0 +1,6 @@
+[00284.001]
+Setting sail at last. That took a while!
+
+[00284.002]
+I hope we just get there this time. A sea lord every trip, and a hundred of {NAME:02 00 00 00} wouldn't do!
+

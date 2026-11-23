@@ -1,0 +1,348 @@
+[67.000]
+{クラース}
+"Good. I shall summon the spirits."
+
+[67.001]
+{クレス}
+"What is this place...?"{PAGE}
+{クラース}
+"Could this be where the spirits are to be summoned?"{PAGE}
+{ミント}
+"Yes, it must be! There are four chambers too."{PAGE}
+{クラース}
+"Good. You wait here."
+
+[67.002]
+Moria Mine, floor B{NUM:801F}
+
+[67.003]
+　　　~Old Moria Mine~
+　No entry without leave of
+　the King of Alvanista
+
+[67.004]
+{COLOR:03}There is a lever.
+Throw it?{COLOR:02}
+
+[67.005]
+It reads: "Right-hand passage, stairs to the third floor down."
+
+[67.006]
+"Hm? This torch looks like a lever."{PAGE}
+{COLOR:03}Move the torch?{COLOR:02}
+
+[67.007]
+"This is the only one that isn't lit..."
+
+[67.008]
+It reads: "Up up down down left right left right"
+
+[67.009]
+"Only this torch isn't lit...{PAGE}
+It doesn't seem to be like the torch on the floor above that was a switch."
+
+[67.010]
+It reads: "If you desire it, go away from it."
+
+[67.011]
+"There's no breaking down this wall with bare hands..."
+
+[67.012]
+{COLOR:03}There is a switch. Press it?{COLOR:02}
+
+[67.013]
+It reads: "Dead end"
+
+[67.014]
+"Undine, the spirit who governs water, stands on the lone island in the northern sea."
+
+[67.015]
+
+So it reads.{PAGE}
+{クラース}
+"I already have a pact with Undine."
+
+[67.016]
+{PAGE}
+{クラース}
+"The lone island in the northern sea must be the desert island north of Venezia. Let us ask the captain to take us there."
+
+[67.017]
+"Ifrit, the spirit who governs flame, wanders in the Cave of Burning Sand."
+
+[67.018]
+
+So it reads.{PAGE}
+{クラース}
+"I already have a pact with Ifrit."
+
+[67.019]
+{PAGE}
+{クラース}
+"Burning sand? For desert there is only Freyland..."
+
+[67.020]
+"Gnome, the spirit who governs earth, makes his home in the Cave of Spirits."
+
+[67.021]
+
+So it reads.{PAGE}
+{クラース}
+"I already have a pact with Gnome."
+
+[67.022]
+{PAGE}
+{クラース}
+"The Cave of Spirits is the cave east of Belladam. There is nothing for it but to go and see..."
+
+[67.023]
+{PAGE}
+{クラース}
+"I have never heard the name Cave of Spirits. We had better ask in Alvanista."
+
+[67.024]
+"Sylph, the spirit who governs wind, dances in the valley of lament."
+
+[67.025]
+
+So it reads.
+
+[67.026]
+{PAGE}
+{クラース}
+"I already have a pact with Sylph, after all."
+
+[67.027]
+{PAGE}
+{クラース}
+"We have the leave of the King of Alvanista. We have a permit too."{PAGE}
+Watchman
+"A permit? Come, show me.{PAGE}
+Hm, a permit of the Kingdom of Alvanista, right enough... But what an old style of permit. This one's an antique. Oh well, you may pass."
+
+[67.028]
+{PAGE}
+{クラース}
+"We have the leave of the King of Alvanista. We have a permit too."{PAGE}
+Watchman
+"Oh, I beg your pardon. Please go through."
+
+[67.029]
+Go home.
+
+[67.030]
+Watchman
+"You there, you can't go in without leave."
+
+[67.031]
+{COLOR:03}Which spirit will you summon?
+1. Ifrit　　2. Gnome
+3. Sylph　　4. Undine{COLOR:02}
+
+[67.032]
+{COLOR:03}That spirit has already been summoned.{COLOR:02}
+
+[67.033]
+{COLOR:03}A spirit is here. It will be replaced. Is that all right?{COLOR:02}
+
+[67.034]
+{COLOR:03}That spirit is already summoned to the
+
+[67.035]
+ north
+
+[67.036]
+ east
+
+[67.037]
+ south
+
+[67.038]
+ west
+
+[67.039]
+. Move it?{COLOR:02}
+
+[67.040]
+???
+"Who is it that calls me forth!?"
+
+[67.041]
+{クラース}
+"Wh-what? Who is speaking!?"
+
+[67.042]
+???
+"Come to the stone tablet!"
+
+[67.043]
+{クレス}
+"Is that... could it be Maxwell!?"
+
+[67.044]
+{クラース}
+"Are you... Maxwell?"{PAGE}
+Maxwell
+"I am. Was it you who called me?"{PAGE}
+{クラース}
+"It was."{PAGE}
+Maxwell
+"And what is your business?"{PAGE}
+{クラース}
+"We are looking for the ring for a pact with Luna. We want the door to the depths opened."{PAGE}
+Maxwell
+"I see.{PAGE}
+Beyond is the treasury. What you seek may well be there.{PAGE}
+But first, show me your strength!"
+
+[67.045]
+Maxwell
+"Grrrgh... Y-you are as good as your word, I grant you."{PAGE}
+{クラース}
+"Now, open the door to the depths."{PAGE}
+Maxwell
+"V-very well.{PAGE}
+Ho ho ho. I have taken a liking to you. I too shall lend you my strength. Come, the pact."{PAGE}
+{クラース}
+"R-really!? A-amazing! A pact with Maxwell, who commands the four great spirits!"{PAGE}
+{アーチェ}
+"Thank you, Grandpa♥"{PAGE}
+Maxwell
+(G-Grandpa...){PAGE}
+"Ahem! Th-then hold out the Turquoise ring."
+
+[67.046]
+{クラース}
+"I now beseech the spirit of the molecule. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[67.047]
+{COLOR:03}{クラース} can now summon {STR:0A08}.
+
+
+[67.048]
+{ミント}
+"Which spirit should be summoned where?"
+
+[67.049]
+{アーチェ}
+"Riddles aren't really my thing..."
+
+[67.050]
+{クレス}
+"There don't seem to be any enemies here, so let's take our time and think."
+
+[67.051]
+Watchman
+"The ruins of the dwarves were found a few years ago. The way in is on the ninth floor down, they say."
+
+[67.052]
+Watchman
+"Most adventurers get stuck on the fifth floor down, they say."
+
+[67.053]
+"No good. It won't move at all."
+
+[67.054]
+"Damn! I'm sure there's a hidden passage, but I can't find it!"
+
+[67.055]
+"Oh, so that's how it worked..."
+
+[67.056]
+"Hmm, there seems to be something about this room, but...?"
+
+[67.057]
+"Did you find the button in the room behind the door? If only that could be pressed, I think we could go down..."
+
+[67.058]
+{クレス}
+"Nobody but {アーチェ} can read the writing on this tablet."
+
+[67.059]
+{クレス}
+"What's this...?"
+
+[67.060]
+{クラース}
+"This tablet..."{PAGE}
+{ミント}
+"There is writing, or something, carved on it."
+
+[67.061]
+{クラース}
+"I cannot read it."{PAGE}
+
+
+[67.062]
+{クラース}
+"Y-you can read it!?"{PAGE}
+{アーチェ}
+"Primal Elven Lore. It's the language of the ancient elves, so no wonder you can't make it out."
+
+[67.063]
+{アーチェ}
+"I'm half elf, so of course I know it! You don't think I'm stupid, do you?"
+
+[67.064]
+{クラース}
+"N-now, don't be angry. So, what does it mean?"{PAGE}
+{アーチェ}
+"Hmph. Hang on a tick."
+
+[67.065]
+{アーチェ}
+"'To the quarter that speaks of death, summon the one who governs destruction.'{PAGE}
+'Where you feel the breath of life, there is the place of the one who governs birth.'{PAGE}
+'Let the maiden who weeps for the departing be summoned where death is felt on her left hand.'{PAGE}
+'The wind faces the maiden and, like the flow of time, blows equally on all.'{PAGE}
+That's what it says."
+
+[67.066]
+{アーチェ}
+"Does it mean the door will open if we summon the spirits of earth, water, fire and wind somewhere?"{PAGE}
+
+
+[67.067]
+{クラース}
+"Somewhere to summon them, though..."
+
+[67.068]
+{クラース}
+"The spirits of earth, water, fire and wind? I have not made pacts with them all yet..."{PAGE}
+{ミント}
+"Might we not learn something in Alvanista about where the spirits are?"{PAGE}
+{クラース}
+"Yes, perhaps."
+
+[67.069]
+"I am with the relief supply corps of the army of Alvanista. We issue supplies, but civilians are asked to pay in full.{PAGE}
+What do you need?"
+
+[67.070]
+"Rules are rules, I'm afraid."
+
+[67.071]
+"This is the base camp of the expedition to the dwarven ruins. You are welcome to rest here too."
+
+[67.072]
+"Whether it formed naturally or was made, we cannot tell, but there is a vast hollow at the centre of the ruins. The dwarves seem to have built their dwellings and so on in it."
+
+[67.073]
+"The monsters are strong, and we make little headway."
+
+[67.074]
+"The dwarves were a clever-handed tribe who made strange items."
+
+[67.075]
+Watchman
+"Are you an explorer too? The entrance to the dwarven ruins is in the room north-east of here."
+
+[67.076]
+"Below here are the newly discovered ruins of the dwarves."
+
+[67.077]
+"May you come back safely."
+
+[67.078]
+"You can rest here. Will you rest?"
+

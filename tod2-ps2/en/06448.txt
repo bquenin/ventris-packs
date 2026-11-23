@@ -1,0 +1,88 @@
+[06448.001]
+Heidelberg: Museum "Memories of the War of Heaven and Earth"
+
+[06448.002]
+Heidelberg
+
+[06448.003]
+Museum "Memories of the War of Heaven and Earth"
+
+[06448.005]
+"Aerial Cities"
+
+[06448.007]
+To escape the dust thrown up by the impact of a giant comet, people built cities in the sky.
+
+[06448.009]
+Those aerial cities are said to have been sunk to the seabed by the Surface Army after the War of Heaven and Earth ended.
+
+[06448.011]
+"Soldier of the Surface Army"
+
+[06448.013]
+It was formed when the people of the surface rose up, unable to bear rule by force from the heavens.
+
+[06448.015]
+The Surface Army was driven to the brink of defeat, but won victory through the power of the Swordians.
+
+[06448.017]
+"Machine Gun with Anti-Air Tripod"
+
+[06448.019]
+A fixed imitation machine gun made from scrap.
+
+[06448.021]
+In the last days of the war ammunition had run out, so metal bolts were used in its place and fired with explosive charges.
+
+[06448.023]
+"Snow Ship"
+
+[06448.025]
+It is held to be a transport craft of the Surface Army, but much about it is unclear.
+
+[06448.027]
+The soldiers of the Surface Army apparently called this transport craft by the nickname "Shoes".
+
+[06448.029]
+A woodblock print on the theme of the War of Heaven and Earth...
+
+[06448.031]
+A picture is on display. "The Nightmare of the Comet Impact"
+
+[06448.032]
+Have a safe journey.
+
+[06448.033]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06448.034]
+Will you stay the night?
+
+[06448.036]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06448.037]
+Please rest well.
+
+[06448.038]
+Good morning.
+
+[06448.039]
+You do not have enough money.
+
+[06448.040]
+We look forward to seeing you again.
+
+[06448.045]
+Obtained {16:25 BA}.
+
+[06448.047]
+Obtained {08:FF FF FF FF}.
+
+[06448.049]
+Found {16:25 C2}, but you can carry no more.
+
+[06448.051]
+There is nothing here.
+

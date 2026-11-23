@@ -1,0 +1,64 @@
+[06556.001]
+Realta, the Twilight City
+
+[06556.002]
+Realta, the Twilight City
+
+[06556.003]
+Little Boy
+
+[06556.004]
+We live by the power of the god Fortuna and of Lady Elraine. You must not forget that.
+
+[06556.005]
+Man
+
+[06556.006]
+It is thanks to the goddess Fortuna and Lady Elraine that we have life in this world.
+
+[06556.007]
+Man
+
+[06556.008]
+You must not forget your thanks for that, not for a moment.
+
+[06556.010]
+To me it looks less like having life than having your life in someone's grip...
+
+[06556.011]
+Have a safe journey.
+
+[06556.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06556.013]
+Will you stay the night?
+
+[06556.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06556.016]
+Please rest well.
+
+[06556.017]
+Good morning.
+
+[06556.018]
+You do not have enough money.
+
+[06556.019]
+We look forward to seeing you again.
+
+[06556.024]
+Obtained {16:25 BA}.
+
+[06556.026]
+Obtained {08:FF FF FF FF}.
+
+[06556.028]
+Found {16:25 C2}, but you can carry no more.
+
+[06556.030]
+There is nothing here.
+

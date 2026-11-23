@@ -1,0 +1,42 @@
+[06227.4788]
+Correct
+
+[06227.4797]
+No beef needed
+
+[06227.4814]
+No cheese needed
+
+[06227.4831]
+No bread needed
+
+[06227.4850]
+Rice is missing
+
+[06227.4867]
+None fit
+
+[06227.4876]
+This dish needs beef,
+cheese and bread:
+is that correct?
+
+[06227.4945]
+Right!
+When it comes to food,
+you do know, heh
+
+[06227.5002]
+No.
+That wouldn't be tasty
+
+[06227.5032]
+Does it go with rice?
+
+[06227.5055]
+What are you making?
+
+[06227.5076]
+Don't just eat all the
+time: study cooking too
+

@@ -1,0 +1,27 @@
+[00708.001]
+Hmm...
+
+[00708.002]
+What? You still haven't given up on Atwight?
+
+[00708.003]
+Of course not! As if I'd give up easily!
+
+[00708.004]
+You people too?
+
+[00708.005]
+Of course!
+
+[00708.006]
+I'll follow {NAME:01 00 00 00} too.
+
+[00708.007]
+Once he has said a thing, there is nothing I can do.
+
+[00708.008]
+Right. That's how we ended up coming all the way to this age.
+
+[00708.009]
+Hm-hm♪ This is fun now.
+

@@ -1,0 +1,211 @@
+[06578.001]
+The Radisrol
+
+[06578.002]
+The Radisrol
+
+[06578.004]
+A book called "Experiments in Probability". Turn over a card and...?
+
+[06578.006]
+A blue card. "The chance of drawing this card is 512/1024."
+
+[06578.008]
+A yellow card. "The chance of drawing this card is 256/1024."
+
+[06578.010]
+A red card. "The chance of drawing this card is 128/1024."
+
+[06578.012]
+A card with black in it. "The chance of drawing this card is 64/1024."
+
+[06578.014]
+A three-color card. "The chance of drawing this card is 64/1024."
+
+[06578.016]
+A laundry basket. Dirty clothes are stuffed into it.
+
+[06578.018]
+It seems to be a ballot box. "Surface Army Beauty Contest: votes here"
+
+[06578.019]
+Private
+
+[06578.020]
+There's been no liquor ration lately. I do miss a {08:0C 00 00 00}.
+
+[06578.022]
+{03:00 00 00 00}　Give a {08:0C 00 00 00}　
+　Don't　
+
+[06578.023]
+Private
+
+[06578.024]
+There's been no liquor ration lately. I do miss a {08:0C 00 00 00}.
+
+[06578.026]
+You don't have a {08:0C 00 00 00}.
+
+[06578.027]
+Private
+
+[06578.028]
+Oh! You're giving me a {08:0C 00 00 00}!? Well, thank you!
+
+[06578.029]
+Private
+
+[06578.030]
+In return, I'll tell you something interesting.
+
+[06578.032]
+{03:00 00 00 00}　The secret of Berselium　
+　The secret of battle titles　
+　The secret of the Sorcerer's Scope　
+
+[06578.033]
+Private
+
+[06578.034]
+Berselium is an ore that powerful arms and armor are made from.
+
+[06578.035]
+Private
+
+[06578.036]
+Hand it to a fine smith and you may get something made for you.
+
+[06578.037]
+Private
+
+[06578.038]
+I hear Berselium is often found in the Spiral Cave.
+
+[06578.039]
+Private
+
+[06578.040]
+There are titles you can earn at the end of a battle.
+
+[06578.041]
+Private
+
+[06578.042]
+Do something you don't usually do, and you may earn something.
+
+[06578.043]
+Private
+
+[06578.044]
+Even silly things will do. Just try all sorts.
+
+[06578.045]
+Private
+
+[06578.046]
+Think back over the roads you've traveled so far.
+
+[06578.047]
+Private
+
+[06578.048]
+There were odd places, and paths you couldn't take, weren't there?
+
+[06578.049]
+Private
+
+[06578.050]
+Use the Sorcerer's Scope and you may find something new. The way into some ruin or other, say.
+
+[06578.051]
+Private
+
+[06578.052]
+What, you don't want to hear?
+
+[06578.053]
+Boy
+
+[06578.054]
+My daddy is a soldier.
+
+[06578.055]
+Boy
+
+[06578.056]
+But he went out the other day and he hasn't come back.
+
+[06578.057]
+Boy
+
+[06578.058]
+The other soldiers say "Your daddy went to heaven", but where is that?
+
+[06578.059]
+Boy
+
+[06578.060]
+When is Daddy coming back?
+
+[06578.061]
+Boy
+
+[06578.062]
+The soldiers here say "Your daddy went to heaven".
+
+[06578.063]
+Boy
+
+[06578.064]
+I heard Mommy went there too...
+
+[06578.065]
+Boy
+
+[06578.066]
+When the war ends, can I go there too?
+
+[06578.067]
+Boy
+
+[06578.068]
+When are Daddy and Mommy coming back?
+
+[06578.069]
+Have a safe journey.
+
+[06578.070]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06578.071]
+Will you stay the night?
+
+[06578.073]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06578.074]
+Please rest well.
+
+[06578.075]
+Good morning.
+
+[06578.076]
+You do not have enough money.
+
+[06578.077]
+We look forward to seeing you again.
+
+[06578.082]
+Obtained {16:25 BE}.
+
+[06578.084]
+Obtained {08:FF FF FF FF}.
+
+[06578.086]
+Found {16:25 C6}, but you can carry no more.
+
+[06578.088]
+There is nothing here.
+

@@ -1,0 +1,21 @@
+[00152.001]
+Darilsheid was a disaster. Without that masked guy, who knows where we'd be now...
+
+[00152.002]
+I wonder what {NAME:04 00 00 00} is doing now.
+
+[00152.003]
+Who knows. Polishing his mask under some far-off sky, maybe.
+
+[00152.004]
+What's wrong, {NAME:03 00 00 00}? You seem in a bad mood.
+
+[00152.005]
+I can't stand stuck-up guys like that! Hiding in a mask and still acting handsome. It's plain as day he's out to charm the girls.
+
+[00152.006]
+Hmm... So you hate anyone who might be more popular than you, {NAME:03 00 00 00}.
+
+[00152.007]
+Hey! No way...! No way...... well, maybe.
+

@@ -1,0 +1,1406 @@
+[06496.001]
+Hope Town
+
+[06496.002]
+Hope Town
+
+[06496.003]
+Hope Town
+
+[06496.004]
+Hope Town
+
+[06496.005]
+Hope Town
+
+[06496.006]
+Dream
+
+[06496.007]
+Frontier
+
+[06496.008]
+True
+
+[06496.009]
+Guts
+
+[06496.010]
+Justice
+
+[06496.011]
+Brave
+
+[06496.012]
+Big sis {NAME:05 00 00 00}, teach me how to shoot a bow next time.
+
+[06496.013]
+I can't swing a heavy sword, but I could use a small bow, couldn't I?
+
+[06496.015]
+All right. Then first we'll try for small game.
+
+[06496.016]
+I want to be strong like big sis {NAME:05 00 00 00} too.
+
+[06496.018]
+Getting strong is fine, but you'd better not take after her character.
+
+[06496.019]
+I want to grow up fast too, and help big sis {NAME:05 00 00 00}.
+
+[06496.020]
+In this town there's a rule: you do your own things yourself, and everyone does everyone's things together.
+
+[06496.021]
+Being a child doesn't mean you can just play all the time.
+
+[06496.022]
+I've finally finished watering the field. I went to the well twenty-five times.
+
+[06496.024]
+Well done, well done. Did you do it all by yourself? That's really something.
+
+[06496.025]
+Um... once the field's watered, next I draw the water for cooking, and...
+
+[06496.027]
+Wow~. They're all such hard workers.
+
+[06496.028]
+Um... once the field's watered, next I draw the water for cooking, and...
+
+[06496.030]
+The talk for this flag is not set.
+
+[06496.031]
+Yay~♪ Two more to play the monsters~!
+
+[06496.033]
+These two are tired from a long journey, so if you must, make it {NAME:03 00 00 00}.
+
+[06496.035]
+Urk... My stomach's a bit off...
+
+[06496.036]
+Yay~♪ Two more to play the monsters!
+
+[06496.038]
+Two... you mean me and {NAME:02 00 00 00}!?
+
+[06496.040]
+Monsters...
+
+[06496.041]
+Maybe I'll go and catch some game with the moves I tried out on {NAME:03 00 00 00} and {NAME:04 00 00 00}.
+
+[06496.042]
+{NAME:03 00 00 00}, teach me the rest of how to pick up girls next time.
+
+[06496.044]
+Idiot! If you say that out loud...
+
+[06496.046]
+You, honestly... teaching our children nothing but rubbish!
+
+[06496.047]
+{NAME:03 00 00 00}, teach me the rest of how to pick up girls next time.
+
+[06496.049]
+You bet♪ But don't tell {NAME:05 00 00 00}! She's pretty strait-laced.
+
+[06496.050]
+{NAME:03 00 00 00} is no use for sword practice, but he knows all sorts of weird things.
+
+[06496.051]
+There's so much we can't eat it all, so let's have a pie fight.
+
+[06496.052]
+I did it just the way {NAME:03 00 00 00} taught me, and a girl slapped my cheek!
+
+[06496.054]
+That one's all about timing. If there's a chance, I'll teach you that too next time.
+
+[06496.056]
+Don't go filling our innocent children's heads with nonsense!
+
+[06496.057]
+{NAME:03 00 00 00}, you said you'd teach me to pick up girls. That's a promise!
+
+[06496.059]
+The talk for this flag is not set.
+
+[06496.060]
+{NAME:04 00 00 00}, this time I'm going to snatch that mask off you!
+
+[06496.062]
+Hey! What a way to speak to a guest!
+
+[06496.063]
+Hey, {NAME:04 00 00 00}. You think playing with us is silly, don't you?
+
+[06496.065]
+N-no, that is not it...
+
+[06496.066]
+For us this is part of our training too. Do it properly or there's no supper for you!
+
+[06496.067]
+Snatching the mask off quick {NAME:04 00 00 00} is training for catching game.
+
+[06496.068]
+With this much food, we don't have to work anymore~♪
+
+[06496.069]
+While you were away, {NAME:05 00 00 00}, I made another new weapon. Here, look!
+
+[06496.071]
+Hey, that's not badly made. With this you might bring down even big game.
+
+[06496.072]
+Really? Then take me hunting with you next time!
+
+[06496.073]
+{NAME:05 00 00 00}, take me hunting with you next time!
+
+[06496.075]
+The talk for this flag is not set.
+
+[06496.076]
+Uncle Byrus
+
+[06496.077]
+So you're the companions {NAME:03 00 00 00} and {NAME:04 00 00 00} were talking about?
+
+[06496.078]
+Uncle Byrus
+
+[06496.079]
+They seemed to be waiting very impatiently to see you.
+
+[06496.080]
+Uncle Byrus
+
+[06496.081]
+{NAME:05 00 00 00} is visiting the grave? I expect she's telling Lou about you.
+
+[06496.083]
+Visiting the grave? Lou?
+
+[06496.084]
+Uncle Byrus
+
+[06496.085]
+{NAME:05 00 00 00} is surely telling Lou about you.
+
+[06496.086]
+Uncle Byrus
+
+[06496.087]
+Look after {NAME:05 00 00 00} for us♪ She may not look it, but she's quite a sensitive one.
+
+[06496.089]
+Y-you fool! Don't say strange things.
+
+[06496.091]
+Right, right. Her being sensitive is nothing but a joke.
+
+[06496.092]
+Uncle Byrus
+
+[06496.093]
+Look after {NAME:05 00 00 00} for us♪
+
+[06496.094]
+Uncle Byrus
+
+[06496.095]
+Hey, {NAME:05 00 00 00}. Eat too much and you'll get fat, so watch out.
+
+[06496.097]
+You're the one whose belly will burst if you eat any more♪
+
+[06496.098]
+Uncle Byrus
+
+[06496.099]
+Heh heh. Any more and I won't be able to move ever again.
+
+[06496.100]
+Uncle Byrus
+
+[06496.101]
+Really, however much we eat, it never seems to go down.
+
+[06496.102]
+Uncle Byrus
+
+[06496.103]
+What's up, {NAME:05 00 00 00}? Looking so nostalgic...
+
+[06496.104]
+Uncle Byrus
+
+[06496.105]
+It's only a week or so since you went off with that lot.
+
+[06496.107]
+I see... So that's all the time that's passed since I left here.
+
+[06496.108]
+Uncle Byrus
+
+[06496.109]
+If you miss home that much, you can come back right now, you know?
+
+[06496.111]
+There's still a pretty big job left to do. I can't come back yet.
+
+[06496.113]
+The talk for this flag is not set.
+
+[06496.114]
+Aunt Camille
+
+[06496.115]
+We used to live in a town called Junkland.
+
+[06496.116]
+Aunt Camille
+
+[06496.117]
+The town we used to live in, Junkland, was, oh, a dreadful place.
+
+[06496.118]
+Aunt Camille
+
+[06496.119]
+The rubbish of the War of Heaven and Earth was piled up there and foul-smelling gas spouted out. It was no place for people to live.
+
+[06496.120]
+Aunt Camille
+
+[06496.121]
+In the nightmare of twenty-eight years ago the town of Junkland fell to ruin, and we lost our homes.
+
+[06496.122]
+Aunt Camille
+
+[06496.123]
+But whether the earth shifted then or what, an oasis sprang up on this spot, and that's how today's Hope Town came to be.
+
+[06496.125]
+A land of hope found in the midst of a nightmare... So that's why it's Hope Town.
+
+[06496.126]
+Aunt Camille
+
+[06496.127]
+However harsh the climate, however dangerous they call it, for us this is the best place there is.
+
+[06496.128]
+Aunt Camille
+
+[06496.129]
+I can't be bothering about my weight. I'm going to eat and eat till I die!
+
+[06496.131]
+Ah! That one looks delicious too~♪
+
+[06496.133]
+Hey, {NAME:05 00 00 00}. Pull yourself together!
+
+[06496.134]
+Aunt Camille
+
+[06496.135]
+Come on, come on, you lot eat up too! Till your bellies burst!
+
+[06496.136]
+Aunt Camille
+
+[06496.137]
+The people of Aigrette say they can't understand us, living in a place like this...
+
+[06496.138]
+Aunt Camille
+
+[06496.139]
+But I suppose they don't know how good it feels to wash in cold water after a hard day's work, or the sense of fulfillment.
+
+[06496.140]
+Aunt Camille
+
+[06496.141]
+I'd like to teach the people who live in Aigrette how good it feels to work up a sweat.
+
+[06496.142]
+Camille
+
+[06496.143]
+To think that the great calamity of eighteen years ago, which took our home from us, should bring forth an oasis like this...
+
+[06496.145]
+Auntie! So you were still young at this time.
+
+[06496.146]
+Camille
+
+[06496.147]
+I'm not old enough to be called "Auntie" yet! What a rude child...
+
+[06496.148]
+Camille
+
+[06496.149]
+To think that the great calamity of eighteen years ago, which took our home from us, should bring forth an oasis like this...
+
+[06496.150]
+Camille
+
+[06496.151]
+Life is really something. You never know what will happen, or when...
+
+[06496.152]
+Camille
+
+[06496.153]
+And that means you never know what will happen to you, or when, either.
+
+[06496.154]
+Camille
+
+[06496.155]
+Really, that girl is something! Carrying her sick little brother on her back, she traveled all the way to a place like this.
+
+[06496.156]
+Granny Crouton
+
+[06496.157]
+Haah~. This heat is hard on an old woman...
+
+[06496.159]
+Granny's still alive!
+
+[06496.160]
+Granny Crouton
+
+[06496.161]
+Mukiii! Don't go killing people off as you please!!
+
+[06496.163]
+{NAME:05 00 00 00}... you keep quiet for a bit.
+
+[06496.164]
+Granny Crouton
+
+[06496.165]
+Haah~. This heat is hard on an old woman...
+
+[06496.166]
+Granny Crouton
+
+[06496.167]
+If I don't have a wash in cold water, my brains will boil...
+
+[06496.168]
+Granny Crouton
+
+[06496.169]
+Phew~. Now even my head is starting to ache...
+
+[06496.170]
+Granny Crouton
+
+[06496.171]
+A little child like that having to suffer... I can't accept it...
+
+[06496.172]
+Granny Crouton
+
+[06496.173]
+Wasn't Atamoni supposed to help those who strive for themselves!
+
+[06496.174]
+Donna
+
+[06496.175]
+I'm never going to be anybody's bride. I'm going to protect this village all my life!
+
+[06496.177]
+And yet big sis Donna falls for one of the peddlers and goes chasing after him.
+
+[06496.178]
+Donna
+
+[06496.179]
+I'm never going to be anybody's bride. I'm going to protect this village all my life!
+
+[06496.180]
+Donna
+
+[06496.181]
+Men, I ask you! Doryaaaah! Kiyeeeh!!
+
+[06496.182]
+Donna
+
+[06496.183]
+Hmm... How on earth do you beat an illness?
+
+[06496.184]
+Billy
+
+[06496.185]
+You're travelers, aren't you? It's dangerous around here, so shall I be your bodyguard?
+
+[06496.187]
+Big brother Billy was my first love...
+
+[06496.189]
+Wh-what... So even you were in love, like anyone else.
+
+[06496.191]
+One day, out hunting, he fell from a cliff and died...
+
+[06496.192]
+Billy
+
+[06496.193]
+You're travelers, aren't you? It's dangerous around here, so shall I be your bodyguard?
+
+[06496.194]
+Billy
+
+[06496.195]
+Miss, I'll protect you, so go on a date with me later.
+
+[06496.197]
+That's right. He was like {NAME:03 00 00 00}, and liked older women...
+
+[06496.199]
+I-I'm not as shallow a guy as this!
+
+[06496.200]
+Billy
+
+[06496.201]
+Well, how about it? I'll make it cheap, so won't you hire me as a bodyguard?
+
+[06496.202]
+Billy
+
+[06496.203]
+Dammit! That they'll never get better... it's too cruel for those kids!!
+
+[06496.205]
+Go and kill a little time, would you?
+
+[06496.207]
+I'll get the meal ready. And... there's somewhere I have to stop by.
+
+[06496.208]
+Ah, big sis {NAME:05 00 00 00}! Welcome hooome!
+
+[06496.210]
+I'm home! Have you all been good?
+
+[06496.211]
+Of course! Hey, big sis {NAME:05 00 00 00}, what about presents!? Presents!
+
+[06496.213]
+Now, don't rush me! Of course there are some. But before that...
+
+[06496.215]
+Where are {NAME:03 00 00 00} and {NAME:04 00 00 00}? I need a word with them.
+
+[06496.216]
+Oh, those two are...
+
+[06496.218]
+Hold it, you! You little brat~!
+
+[06496.220]
+No need to ask, I see.
+
+[06496.222]
+Listen, you lot, there's no need to hit that hard for real!
+
+[06496.223]
+But {NAME:03 00 00 00} and {NAME:04 00 00 00} aren't trying at all!
+
+[06496.224]
+That's right! Especially {NAME:04 00 00 00}! Do it more properly!
+
+[06496.225]
+Monsters don't mumble like that! You have to go "Gwaah!" more!
+
+[06496.227]
+Why must I do such a thing...
+
+[06496.228]
+Aah! If you complain, {NAME:03 00 00 00} and {NAME:04 00 00 00} get no supper!
+
+[06496.230]
+Y-you fool! Do it properly! If we lose our meal, that's the end of us!
+
+[06496.231]
+If you've got that, once more from the top!
+
+[06496.233]
+Heey, {NAME:03 00 00 00}, {NAME:04 00 00 00}!
+
+[06496.235]
+{NAME:05 00 00 00}~, say something to these kids...
+
+[06496.237]
+...{NAME:01 00 00 00}!? It's {NAME:01 00 00 00}!!
+
+[06496.239]
+So you're safe! You two had us worried sick!!
+
+[06496.241]
+That's our line! We had a hard time too, looking for you two!
+
+[06496.243]
+We have had the harder time. Honestly, why must I mind children...
+
+[06496.244]
+That won't do, {NAME:04 00 00 00}! We really will stop your supper!
+
+[06496.245]
+Hey, hey, {NAME:03 00 00 00}, let's get on with it!
+
+[06496.246]
+Hey, {NAME:05 00 00 00}, who are these people?
+
+[06496.247]
+Hurry uuup! Come on, {NAME:03 00 00 00}! No supper for you!
+
+[06496.249]
+All right, all right, don't all talk at once!
+
+[06496.251]
+These two are {NAME:01 00 00 00} and {NAME:02 00 00 00}. Friends of {NAME:03 00 00 00} and {NAME:04 00 00 00}. And friends of mine too, of course!
+
+[06496.253]
+Now, we've got things to talk about, so I'm borrowing {NAME:03 00 00 00} and {NAME:04 00 00 00} for a bit. All right?
+
+[06496.254]
+Yeah!
+
+[06496.256]
+And {NAME:03 00 00 00} and {NAME:04 00 00 00} get no supper tonight! Tell the aunties so.
+
+[06496.258]
+Wh-what's that supposed to mean!?
+
+[06496.260]
+Don't get the wrong idea! Tonight I'm treating you.
+
+[06496.262]
+...As long as what comes out is fit for a human to eat.
+
+[06496.264]
+...You really can go without supper, you know, {NAME:03 00 00 00}?
+
+[06496.266]
+No, ma'am, I'll gladly eat whatever I'm given!
+
+[06496.268]
+That's settled! Then go and kill a little time, would you?
+
+[06496.270]
+You must have a lot to catch up on, and I'd like you to see this village too.
+
+[06496.272]
+What will you do, {NAME:05 00 00 00}?
+
+[06496.274]
+I'll get the meal ready. And... there's somewhere I have to stop by.
+
+[06496.276]
+See you later, then!
+
+[06496.278]
+Well, shall we go?
+
+[06496.280]
+...Hey, {NAME:03 00 00 00}, is something up?
+
+[06496.282]
+Ah, no... I was just thinking she's faithful about it.
+
+[06496.284]
+It's nothing. Come on, let's go.
+
+[06496.286]
+That's... Heey, {NAME:05 00 00 00}...
+
+[06496.288]
+Wait, {NAME:01 00 00 00}.
+
+[06496.290]
+Huh?
+
+[06496.292]
+I'm home, Lou. Something good happened today. I've come to tell you.
+
+[06496.294]
+You know that lecher {NAME:03 00 00 00} and sullen {NAME:04 00 00 00}?
+
+[06496.296]
+The kids they were looking for, {NAME:01 00 00 00} and {NAME:02 00 00 00}, have been found.
+
+[06496.298]
+They're both really good kids. {NAME:01 00 00 00} especially is honest to a fault, and straight...
+
+[06496.300]
+...If you were alive, you'd be about {NAME:01 00 00 00}'s age...
+
+[06496.302]
+He's nothing like you in character, but I think you'd have been good friends.
+
+[06496.304]
+That grave... could it be...
+
+[06496.306]
+I am told it is the grave of {NAME:05 00 00 00}'s younger brother.
+
+[06496.308]
+When she comes back from a journey, or when something makes her happy, she always tells him like that.
+
+[06496.310]
+I see...
+
+[06496.312]
+Oh, sorry. When I come here, I always end up staying a long while.
+
+[06496.314]
+We heard it's... your little brother's grave.
+
+[06496.316]
+Yeah, it is. He died of an illness when I was small.
+
+[06496.318]
+Couldn't he be cured?
+
+[06496.320]
+Not in the ordinary way.
+
+[06496.322]
+The ordinary way... Is there a way that isn't ordinary?
+
+[06496.324]
+...There is. If you give yourself to the Order of Fortuna, they will cure you by the power of a miracle.
+
+[06496.326]
+But neither Lou nor I chose that.
+
+[06496.328]
+Why? With Fortuna's power, anything at all...
+
+[06496.330]
+But in exchange you have to spend your whole life in Aigrette.
+
+[06496.332]
+It's safe and clean... but it's a place where you never feel you're really alive.
+
+[06496.334]
+That's...
+
+[06496.336]
+So I came here together with Lou.
+
+[06496.338]
+Until he died... it was a short time, but he was always smiling. And everyone in the village was truly good to us.
+
+[06496.340]
+So I have no regrets, and I'm proud of this village.
+
+[06496.342]
+Ahh, I'm kind of thirsty. Hey, before we eat, how about a drink at the general store?
+
+[06496.344]
+We still haven't told each other what happened, after all.
+
+[06496.346]
+What, is that so? Then let's go over to the row houses.
+
+[06496.348]
+We might do well to get a little something in our stomachs while we're at it.
+
+[06496.350]
+If what she serves isn't fit to eat, we'll go without supper.
+
+[06496.352]
+I don't mind. I'll have a nice meal with {NAME:01 00 00 00} and the others, without you!
+
+[06496.354]
+Honestly, {NAME:03 00 00 00}, you're so selfish~.
+
+[06496.356]
+...Really, how obvious.
+
+[06496.358]
+Huh?
+
+[06496.360]
+He was being considerate. Of {NAME:02 00 00 00}, and of {NAME:05 00 00 00}.
+
+[06496.362]
+Ah...
+
+[06496.364]
+{NAME:03 00 00 00} earned the title "{08:31 08 00 00}".
+
+[06496.366]
+{NAME:04 00 00 00} earned the title "{08:32 08 00 00}".
+
+[06496.368]
+This is... Hope Town. Which means...
+
+[06496.370]
+It's {NAME:05 00 00 00}'s memory. Then let's start by looking for her.
+
+[06496.372]
+If it isn't {NAME:01 00 00 00}! Just in time. Hey, come along with me!
+
+[06496.374]
+Huh? Come along... Did something happen?
+
+[06496.376]
+Well, lately the harvests have been so good that we've got food left over, and there's no help for it.
+
+[06496.378]
+The whole village is eating it, and still we can't keep up. You help too, {NAME:01 00 00 00}.
+
+[06496.380]
+Huh, that's unusual. Not much grows around Hope Town, does it?
+
+[06496.382]
+{NAME:01 00 00 00}, this is inside {NAME:05 00 00 00}'s dream, so...
+
+[06496.384]
+Oh, right...
+
+[06496.386]
+What are you two whispering about? You're acting very suspicious!
+
+[06496.388]
+Ah, no, ahaha...
+
+[06496.390]
+But if there's that much food to spare, there must be a heap in front of the grave by now.
+
+[06496.392]
+The grave...?
+
+[06496.394]
+What are you playing dumb for? Whenever you got food, you always left an offering at your little brother's grave, didn't you?
+
+[06496.396]
+What are you saying, {NAME:03 00 00 00}? Lou is...
+
+[06496.397]
+Lou
+
+[06496.398]
+Big sis {NAME:05 00 00 00}~!
+
+[06496.400]
+{NAME:05 00 00 00}, that child...
+
+[06496.402]
+That child... Oh, come on, don't be so distant. Call him "Lou" the way you always do.
+
+[06496.404]
+Hey, hey, everyone, what on earth has got into you?
+
+[06496.406]
+Ah, no...
+
+[06496.407]
+Lou
+
+[06496.408]
+Hey, big sis {NAME:05 00 00 00}. Food, food!
+
+[06496.410]
+Oh, sorry, sorry. Come on, let's go, everyone.
+
+[06496.412]
+...{NAME:02 00 00 00}. Has she really...
+
+[06496.414]
+Yes, she has forgotten. That her little brother is already dead...
+
+[06496.416]
+...Tch!
+
+[06496.418]
+Come on! Hurry up!
+
+[06496.420]
+A-ah, sorry!
+
+[06496.422]
+What's wrong?
+
+[06496.424]
+...Me too, somehow... When I come this way, I feel sick...
+
+[06496.425]
+Lou
+
+[06496.426]
+...I don't like it here...
+
+[06496.428]
+...See, Lou says so too, so let's go back! There's nothing this way but graves...
+
+[06496.430]
+...Come here a moment.
+
+[06496.432]
+H-hey, {NAME:03 00 00 00}! Let go of me!
+
+[06496.433]
+Lou
+
+[06496.434]
+Sis, sis!
+
+[06496.436]
+{NAME:03 00 00 00}!
+
+[06496.438]
+I hate this place... Somehow my chest tightens and it hurts...
+
+[06496.440]
+So let's go, quick. We've no business in a place like this...
+
+[06496.442]
+{NAME:05 00 00 00}!
+
+[06496.444]
+...Listen, and listen well. That Lou there... is a fake!
+
+[06496.446]
+A fake... you say...
+
+[06496.448]
+What are you saying, {NAME:03 00 00 00}! Honestly, always joking...
+
+[06496.450]
+Does this look like the face of a man who's joking!? Lou is dead. Of an illness!
+
+[06496.452]
+No... I mean, Lou is so well...
+
+[06496.454]
+...Ugh!
+
+[06496.456]
+My head... hurts... ...Why... ngh!
+
+[06496.458]
+You said this too. That it was as good as you who killed Lou, with your own willfulness.
+
+[06496.460]
+That if you'd bowed your head to the Fortuna lot and got the medicine, Lou might not have died.
+
+[06496.461]
+Lou
+
+[06496.462]
+...Big sis {NAME:05 00 00 00}. What is this person saying?
+
+[06496.464]
+Lou... ...Ugh!
+
+[06496.466]
+{NAME:05 00 00 00}!
+
+[06496.468]
+Wait, {NAME:01 00 00 00}!
+
+[06496.470]
+But!
+
+[06496.472]
+...Believe in {NAME:03 00 00 00}.
+
+[06496.474]
+I know you regretted it... regretted it so much you wanted to die.
+
+[06496.476]
+But... that is the reality. Lou is dead!
+
+[06496.477]
+Lou
+
+[06496.478]
+Big sis {NAME:05 00 00 00}! I'm alive!? I'm not dead!?
+
+[06496.480]
+...Lou........ ........That's... right... Lou isn't... dead...
+
+[06496.482]
+Wake up, {NAME:05 00 00 00}!
+
+[06496.484]
+Dreaming a convenient dream a god made, turning your eyes away from reality... Is that the happiness you wanted!
+
+[06496.486]
+It isn't, is it! Living with all your might, together with Lou. That's your happiness, isn't it!
+
+[06496.487]
+Lou
+
+[06496.488]
+Big sis {NAME:05 00 00 00}! I'm not dead!!
+
+[06496.490]
+There's a mountain of things you gained by living like that, together with Lou!
+
+[06496.492]
+How precious a life is, the will to protect someone you love. You got all of it from Lou!
+
+[06496.493]
+Lou
+
+[06496.494]
+Big sis {NAME:05 00 00 00}, look at me! I'm right here!!
+
+[06496.496]
+Remember, {NAME:05 00 00 00}! The truth! Your true happiness!!
+
+[06496.498]
+........
+
+[06496.500]
+"Here lies Lou"
+...
+........
+
+[06496.502]
+...I see. I...
+
+[06496.503]
+Lou
+
+[06496.504]
+Big sis {NAME:05 00 00 00}... I'm alive...
+
+[06496.505]
+Lou
+
+[06496.506]
+Big sis {NAME:05 00 00 00}...?
+
+[06496.508]
+...Your sister was a fool...
+
+[06496.510]
+I let you die, and I've regretted it ever since...
+
+[06496.512]
+In a corner of my mind I was always thinking, if only Lou were alive, and nothing else...
+
+[06496.514]
+And in the end, to be shown... a dream like this... and be... content...
+
+[06496.516]
+The time... I had with you, alive... I'd forgotten all of it...
+
+[06496.517]
+Lou
+
+[06496.518]
+Sis, I...
+
+[06496.520]
+But that's... over now. ........Your sister has finally remembered everything... so...
+
+[06496.522]
+Bye-bye, Lou...!
+
+[06496.524]
+........
+
+[06496.526]
+...{NAME:03 00 00 00}... I... I!
+
+[06496.528]
+...!
+
+[06496.530]
+...Never mind. Cry. I'll hide your face for you.
+
+[06496.532]
+...{NAME:03 00 00 00}...
+
+[06496.534]
+Uh... ugh...! ...Waaaaah!
+
+[06496.536]
+...That was hard.
+
+[06496.538]
+But this... was for the best. Wasn't it?
+
+[06496.540]
+Yeah... yeah...!
+
+[06496.542]
+There's somebody's grave in a place like this.
+
+[06496.544]
+Come on, never mind that. Showing those two you're well comes first, right?
+
+[06496.546]
+This is {NAME:05 00 00 00}'s little brother's...
+
+[06496.548]
+Come on, {NAME:01 00 00 00}. Let's go and get ourselves fed.
+
+[06496.550]
+Well, it is certainly not a thing to stare at.
+
+[06496.552]
+Well, I'm going out for a bit again, so be good.
+
+[06496.554]
+Sorry. I've been away a long time...
+
+[06496.556]
+...Though in this world, not that much time has passed, has it...
+
+[06496.558]
+I'll be away for a bit again, but you can wait like a good boy, can't you?
+
+[06496.560]
+I'll tell you all my travel stories together next time I'm back.
+
+[06496.562]
+There's a mountain of things I want to tell you...
+
+[06496.564]
+A grave... Whose grave could it be?
+
+[06496.566]
+I have to find {NAME:05 00 00 00}...
+
+[06496.568]
+I have to wake {NAME:05 00 00 00} up...
+
+[06496.570]
+Better not to go outside for now...
+
+[06496.572]
+{NAME:03 00 00 00}! You've been picking up girls in other towns again, haven't you!
+
+[06496.574]
+It's tough being popular♪ Whoa! Don't point your bow at me, {NAME:05 00 00 00}!!
+
+[06496.576]
+Pottery decorated in the style peculiar to the Calvalese region.
+
+[06496.578]
+A few vegetables are growing in the parched ground. Under Calvalese's harsh climate, proper farming must be impossible.
+
+[06496.580]
+A well brimming with clear water.
+
+[06496.582]
+Sundries are laid out. ...Taking things from poor Hope Town does weigh on the conscience.
+
+[06496.584]
+There is a snake in the pot.
+
+[06496.585]
+Girl
+
+[06496.586]
+Hot again today... Um... you there in the mask... aren't you hot?
+
+[06496.588]
+........
+
+[06496.589]
+Girl
+
+[06496.590]
+Lou seems to be all better! Thank goodness!
+
+[06496.591]
+Girl
+
+[06496.592]
+Poor Lou...
+
+[06496.593]
+Little Boy
+
+[06496.594]
+I love working! Working up a good sweat and then gulping down water is the best!
+
+[06496.595]
+Little Boy
+
+[06496.596]
+{NAME:05 00 00 00} is cute and kind and so nice... I'd like to make {NAME:05 00 00 00} my bride.
+
+[06496.597]
+Little Boy
+
+[06496.598]
+I want to be of some help to {NAME:05 00 00 00} somehow, but there's nothing I can do...
+
+[06496.599]
+Girl
+
+[06496.600]
+Water is the source of life... Where there is no water, neither animals nor plants can live.
+
+[06496.601]
+Girl
+
+[06496.602]
+I want to be a doctor.
+
+[06496.603]
+Girl
+
+[06496.604]
+What should I do...
+
+[06496.605]
+Little Boy
+
+[06496.606]
+The people here are kind, but they meddle a bit! I want to set more store by the "individual".
+
+[06496.607]
+Little Boy
+
+[06496.608]
+When I fall ill too, will everyone worry about me... Will they help me...
+
+[06496.609]
+Little Boy
+
+[06496.610]
+A child from somewhere else is laid up sick. I don't like it much... It's not catching, is it?
+
+[06496.611]
+Little Boy
+
+[06496.612]
+Here everyone lives by helping each other. We share our joys and our hardships.
+
+[06496.613]
+Have a safe journey.
+
+[06496.614]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06496.615]
+Will you stay the night?
+
+[06496.617]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06496.618]
+Please rest well.
+
+[06496.619]
+Good morning.
+
+[06496.620]
+You do not have enough money.
+
+[06496.621]
+We look forward to seeing you again.
+
+[06496.626]
+Obtained {16:27 26}.
+
+[06496.628]
+Obtained {08:FF FF FF FF}.
+
+[06496.630]
+Found {16:27 2E}, but you can carry no more.
+
+[06496.632]
+There is nothing here.
+
+[06496.633]
+{08:12 00 00 00} Seller
+
+[06496.634]
+We sell {08:12 00 00 00} here.
+
+[06496.635]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06496.636]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06496.637]
+That will be {0B:01 00 00 00}{14:37 38}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06496.639]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:27 42} at once ({14:37 3C} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06496.641]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06496.642]
+Thank you for your purchase.
+
+[06496.643]
+Thank you for your purchase.
+
+[06496.644]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:37 38}{0B:00 00 00 00} Gald a bottle.
+
+[06496.645]
+Would you like to hear the Refine lessons?
+
+[06496.647]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06496.648]
+What would you like to know about?
+
+[06496.650]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06496.652]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06496.653]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06496.654]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06496.655]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06496.656]
+Lenses can be picked up by fighting monsters.
+
+[06496.657]
+Do take this chance to refine all you like.
+
+[06496.658]
+Changing an item means refining a single item to turn it into a different item.
+
+[06496.659]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06496.660]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06496.661]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06496.662]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06496.663]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06496.664]
+Ah, I should explain Slots first, shouldn't I.
+
+[06496.665]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06496.666]
+I will explain Slots in detail separately.
+
+[06496.667]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06496.668]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06496.669]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06496.670]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06496.671]
+Let me explain Slots in detail.
+
+[06496.672]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06496.673]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06496.674]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06496.675]
+Equipment with Slots is mostly dropped by monsters.
+
+[06496.676]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06496.677]
+Just between us, accessories can be refined too. But not with one another.
+
+[06496.678]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06496.679]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06496.680]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06496.681]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06496.682]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06496.683]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06496.684]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06496.685]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06496.686]
+So I recommend selling off the items you no longer need.
+
+[06496.687]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06496.688]
+...Keeping your items tidy matters too.
+

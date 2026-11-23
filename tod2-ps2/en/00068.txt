@@ -1,0 +1,18 @@
+[00068.001]
+You know, doing this feels like going back in time. To when we used to play adventurers together.
+
+[00068.002]
+Yeah........ Phew... Come to think of it, I've always been stuck babysitting {NAME:01 00 00 00}. And you haven't changed one bit...
+
+[00068.003]
+That's not true! Back then we were only "playing adventurers", but now it's different. This time a real adventure has begun, the road to becoming a hero...
+
+[00068.004]
+Sure, sure. Then do me a favor and show me you've grown up. I've had enough of watching you get lost and start bawling.
+
+[00068.005]
+! What's that, making it sound like it's all my fault! If that's what you think, don't just tag along in silence. You could at least tell me which way to go!
+
+[00068.006]
+If {NAME:01 00 00 00} ever listened, I'd have it easy........ Okay, okay! Don't glare. We're after that girl, right? For once with {NAME:01 00 00 00}, things might get a little romantic...
+

@@ -1,0 +1,42 @@
+[00516.001]
+Come on, everyone, food!
+
+[00516.002]
+Woohoo! About time!!
+
+[00516.003]
+At times like this we need to eat properly.
+
+[00516.004]
+Hey, {NAME:01 00 00 00}! Elders first, and that's me!!
+
+[00516.005]
+Oh, don't you know the phrase "ladies first"?
+
+[00516.006]
+Lady, my foot. Say that when you've become one!
+
+[00516.007]
+You're no great help yourself, and now you play the elder...
+
+[00516.008]
+What!
+
+[00516.009]
+What!
+
+[00516.010]
+Stop it, you two...
+
+[00516.011]
+No carrots or peppers for me. Yes, that much.
+
+[00516.012]
+Aaaaaaaah!!
+
+[00516.013]
+Aaaaaaaah!!
+
+[00516.014]
+Well? Eat before it goes.
+

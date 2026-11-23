@@ -1,0 +1,30 @@
+[00882.001]
+Come, everyone. The meal is ready!
+
+[00882.002]
+Oh! Isn't there rather more on this plate?
+
+[00882.003]
+Ah! That one is for {NAME:01 00 00 00}...
+
+[00882.004]
+Hmm. Favoring one person isn't right... So I'll just...
+
+[00882.005]
+Oh! Give it back!!
+
+[00882.006]
+{NAME:02 00 00 00}... isn't she uneasy? When she herself may vanish...
+
+[00882.007]
+...She's trying to live the present for all it's worth. I can tell. Lou was the same.
+
+[00882.008]
+........
+
+[00882.009]
+Don't just mope, you. Hold {NAME:02 00 00 00} up in her heart, properly. You're the boy here.
+
+[00882.010]
+But I... how do I face her...
+

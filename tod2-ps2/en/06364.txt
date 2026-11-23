@@ -1,0 +1,441 @@
+[06364.001]
+Innkeeper
+
+[06364.002]
+Aigrette: Inn
+
+[06364.003]
+Aigrette
+
+[06364.004]
+Inn
+
+[06364.005]
+Man
+
+[06364.006]
+Ow ow... Owowowowow... M-my stomach hurts!
+
+[06364.007]
+Man
+
+[06364.008]
+Ow ow ow... Was it the cheese I just ate... or the apple?
+
+[06364.009]
+Old Woman
+
+[06364.010]
+The city's bustling with worshippers... I think I'll take it easy here until the day of worship.
+
+[06364.011]
+Young Woman
+
+[06364.012]
+I'm going to be a mommy soon... I came to the temple to pray for a safe birth.
+
+[06364.013]
+Welcome, travelers! Staying the night? Just the two of you, right?
+
+[06364.014]
+You know, with more temple visitors like you coming, we've been raking it in.
+
+[06364.016]
+Ah, no, we're...
+
+[06364.017]
+Just offer up Lenses and pray, and any wish comes true! I can see why people want to visit.
+
+[06364.018]
+Man
+
+[06364.019]
+It's Lady Elraine! Lady Elraine is right out there now!
+
+[06364.020]
+Old Woman
+
+[06364.021]
+To set eyes on Lady Elraine at my age! I'm truly glad I lived this long!
+
+[06364.022]
+Man
+
+[06364.023]
+It was worth coming all the way from Snowfria. I'm coming, Lady Elraine!
+
+[06364.024]
+Young Woman
+
+[06364.025]
+I have to go and ask for a healthy baby. A boy would be nice, if possible!
+
+[06364.026]
+Man
+
+[06364.027]
+This mysterious power of the Saint... I'd like to see it before my eyes once.
+
+[06364.028]
+Oh, I can't stand around! I'll show you to your room later, so wait a bit!
+
+[06364.030]
+Wh-what? Is something starting!?
+
+[06364.032]
+Elraine's here. ...That's rare, her coming outside.
+
+[06364.034]
+Elraine? Who's that?
+
+[06364.036]
+The current head of the Order of Atamoni. She has the power to work miracles, and they call her the "Radiant Saint".
+
+[06364.038]
+She works miracles right in front of everyone, and it does a great deal to win over believers.
+
+[06364.040]
+...But I just can't take to her. Ever since she showed up, the Order of Atamoni has gone strange...
+
+[06364.042]
+Miracles!? A saint!? Really!? That's amazing!
+
+[06364.044]
+Hey, would she give us an autograph if we asked!? I guess that'd be hard... A handshake would be okay, though!?
+
+[06364.046]
+Ah, we can't just stand here! Let's hurry and go too, {NAME:03 00 00 00}!
+
+[06364.048]
+...Sigh. I was a fool to talk seriously to this guy...
+
+[06364.050]
+Come on, what are you muttering about! Hurry, hurry!
+
+[06364.051]
+Hey, sorry about earlier. I'll show you to your room now.
+
+[06364.052]
+By the way, is it just the two of you staying? What about the girl with you?
+
+[06364.054]
+The girl with us... Who do you mean?
+
+[06364.055]
+You know, the girl with the same pendant as Lady Elraine. Your acquaintance.
+
+[06364.056]
+She's a cute one. So, whose girlfriend is she?
+
+[06364.058]
+A cute girl... Mister, you've met her!?
+
+[06364.059]
+I spotted her earlier while I was out shopping. That pendant's an unusual shape, so I remembered it.
+
+[06364.061]
+H-hey, do you know where she went!?
+
+[06364.062]
+She was heading for the Great Temple of Straylize. What, you hadn't arranged to meet?
+
+[06364.064]
+Hold it, hold it! What are you planning to do?
+
+[06364.066]
+What do you think? Go after her, of course!
+
+[06364.068]
+If we stand around, she'll go off somewhere again! Come on, hurry!
+
+[06364.070]
+H-hey!
+
+[06364.071]
+Man
+
+[06364.072]
+When I bathed in Lady Elraine's light, the pain in my stomach went away completely.
+
+[06364.073]
+Man
+
+[06364.074]
+By way of thanks too, I mean to keep donating more and more Lenses to the Order.
+
+[06364.075]
+Man
+
+[06364.076]
+I mean to keep donating more and more Lenses to the Order.
+
+[06364.077]
+Man
+
+[06364.078]
+They call it a peaceful world, but there's no saying a tragedy like the one eighteen years ago won't come again, is there?
+
+[06364.079]
+Man
+
+[06364.080]
+So that it doesn't, we offer Lenses to the Order and put our trust in Lady Elraine's miracles.
+
+[06364.082]
+And those Lenses will be the death of them... "The lizard that bites its own tail", exactly.
+
+[06364.083]
+Man
+
+[06364.084]
+We offer Lenses to the Order and put our trust in Lady Elraine's miracles.
+
+[06364.086]
+Using Lenses filled with people's wishes for a thing like that... I'll never forgive it...
+
+[06364.087]
+Man
+
+[06364.088]
+Ow ow... Owowowowow... M-my stomach hurts!
+
+[06364.089]
+Man
+
+[06364.090]
+The food in Aigrette is so good that I ended up eating too much.
+
+[06364.092]
+Ha ha ha. You be careful too, {NAME:01 00 00 00}.
+
+[06364.093]
+Man
+
+[06364.094]
+Ow ow... I've got to go get medicine at Straylize Temple.
+
+[06364.095]
+Young Woman
+
+[06364.096]
+Phew, phew... With my belly getting this big, the walk to the Great Temple is hard.
+
+[06364.097]
+Young Woman
+
+[06364.098]
+But I have to do my best for the child who's coming.
+
+[06364.099]
+Young Woman
+
+[06364.100]
+Phew, phew... You've got some nerve, snapping at Lady Elraine like that.
+
+[06364.101]
+Young Woman
+
+[06364.102]
+If I have a boy, I'd like him to grow up that spirited.
+
+[06364.103]
+Young Woman
+
+[06364.104]
+Phew, phew... When the child is born, I'd love for Lady Elraine to name it.
+
+[06364.105]
+Young Woman
+
+[06364.106]
+Phew, phew... With my belly getting this big, the walk to the Great Temple is hard.
+
+[06364.107]
+Young Woman
+
+[06364.108]
+Phew, phew... Visiting the temple with this belly is quite a job.
+
+[06364.109]
+Young Woman
+
+[06364.110]
+But as my belly gets bigger, it really sinks in: ah, I'm going to have a child.
+
+[06364.112]
+A memorial plaque is set into the base of the clock. "For the growth of Aigrette. Donated by the headman of the former Almeida Village"
+
+[06364.114]
+It seems only people connected with the inn may go beyond here.
+
+[06364.115]
+-Dummy menu-
+
+[06364.116]
+Oriental Rice
+
+[06364.117]
+The usual
+
+[06364.118]
+Grilled Meat Set
+
+[06364.119]
+Meat Bun
+
+[06364.120]
+Tasty Tea
+
+[06364.121]
+Grilled Fish Set
+
+[06364.122]
+Ginger Pork Set
+
+[06364.123]
+Grilled Meat Set with Radish
+
+[06364.124]
+Today's Special
+
+[06364.125]
+Mabo Curry
+
+[06364.126]
+Life Bottle
+
+[06364.127]
+Head Chef
+
+[06364.128]
+Waiter
+
+[06364.129]
+Waitress
+
+[06364.130]
+You there, care to work a while as a {18:45 00}?
+
+[06364.132]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06364.133]
+Do you need an explanation?
+
+[06364.135]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06364.136]
+I want you to bring the customers the dishes they order.
+
+[06364.137]
+The dishes are made in advance, so just tell me and I can hand them over right away.
+
+[06364.138]
+Keep the customers waiting too long and they'll get angry and leave, so be quick.
+
+[06364.139]
+Now... the customers are starting to come.
+
+[06364.147]
+Too slow! I can't wait any longer! I'm leaving!
+
+[06364.153]
+Thank you. Thanks to you I made a tidy profit.
+
+[06364.154]
+Here's your share. Take it.
+
+[06364.156]
+{0B:01 00 00 00}Obtained {14:34 88} Gald.{0B:00 00 00 00}
+
+[06364.157]
+I'll count on you again.
+
+[06364.158]
+You kept saying you could do it, so I left it to you, and look at this mess!
+
+[06364.159]
+{05:80 01 00 00}Get out!
+
+[06364.160]
+H-hey! You!?
+
+[06364.163]
+{03:00 00 00 00}{0B:01 00 00 00}Left: {04:06 00 00 00}{14:24 84 24 7E CB}{04:07 00 00 00} / Pay: {12:25 44}{14:34 8C}{04:07 00 00 00} Gald
+{12:25 46}1:{04:06 00 00 00}{18:45 4C}
+{12:25 48}2:{04:06 00 00 00}{18:45 50}
+{12:25 4A}3:{04:06 00 00 00}{18:45 54}{0B:00 00 00 00}
+
+[06364.165]
+{03:00 00 00 00}{0B:01 00 00 00}Left: {04:06 00 00 00}{14:24 84 24 7E CB}{04:07 00 00 00} / Pay: {12:25 44}{14:34 8C}{04:07 00 00 00} Gald
+{12:25 46}1:{04:06 00 00 00}{18:45 4C}
+{12:25 48}2:{04:06 00 00 00}{18:45 50}
+{12:25 4A}3:{04:06 00 00 00}{18:45 54}{0B:00 00 00 00}
+
+[06364.166]
+1
+
+[06364.167]
+2
+
+[06364.168]
+3
+
+[06364.169]
+4
+
+[06364.174]
+{03:00 00 00 00}Next
+{18:44 98 81 35 74 CA C6}
+{18:44 98 82 35 74 CA C6}
+{18:44 98 83 35 74 CA C6}
+
+[06364.176]
+{18:44 98 14 CE 25 7C C6 C6}, and make it quick.
+
+[06364.178]
+Don't talk to me while I'm eating!
+
+[06364.180]
+{15:24 86} earned the title "{16:A0 75 08 24 86 CA 81 CB}".
+
+[06364.181]
+Have a safe journey.
+
+[06364.182]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06364.183]
+Will you stay the night?
+
+[06364.185]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06364.186]
+Please rest well.
+
+[06364.187]
+Good morning.
+
+[06364.188]
+You do not have enough money.
+
+[06364.189]
+We look forward to seeing you again.
+
+[06364.194]
+Obtained {16:26 D2}.
+
+[06364.196]
+Obtained {08:FF FF FF FF}.
+
+[06364.198]
+Found {16:26 DA}, but you can carry no more.
+
+[06364.200]
+There is nothing here.
+

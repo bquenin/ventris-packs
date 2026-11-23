@@ -1,0 +1,73 @@
+[06781.001]
+Hut
+
+[06781.002]
+Hut
+
+[06781.003]
+Hut
+
+[06781.004]
+Mysterious Woman
+
+[06781.005]
+This is a place that wakes your memories...
+
+[06781.007]
+Here you can replay skits that have already taken place.
+
+[06781.009]
+Choose the number of the skit you want to replay and press the {09:25 00 00 00} button. To stop a replay, press the {09:26 00 00 00} button.
+
+[06781.011]
+Note that skits you have not seen cannot be replayed.
+
+[06781.015]
+{03:00 00 00 00}{0B:01 00 00 00}NO.{14:14 76}{14:14 75}{14:14 74}　This skit cannot be replayed
+　　　　　{09:39 00 00 00}:-100　　{09:3A 00 00 00}:+100　　　　
+　　　　　{09:3B 00 00 00}:- 10　　{09:3C 00 00 00}:+ 10　　　　
+　　　　　{09:19 00 00 00}:-  1　　{09:1D 00 00 00}:+  1　　　　{0B:00 00 00 00}
+
+[06781.017]
+{03:00 00 00 00}{0B:01 00 00 00}NO.{14:14 76}{14:14 75}{14:14 74}　This skit cannot be replayed
+　　　　　{09:39 00 00 00}:-100　　{09:3A 00 00 00}:+100　　　　
+　　　　　{09:3B 00 00 00}:- 10　　{09:3C 00 00 00}:+ 10　　　　
+　　　　　{09:19 00 00 00}:-  1　　{09:1D 00 00 00}:+  1　　　　{0B:00 00 00 00}
+
+[06781.018]
+Have a safe journey.
+
+[06781.019]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06781.020]
+Will you stay the night?
+
+[06781.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06781.023]
+Please rest well.
+
+[06781.024]
+Good morning.
+
+[06781.025]
+You do not have enough money.
+
+[06781.026]
+We look forward to seeing you again.
+
+[06781.031]
+Obtained {16:25 C6}.
+
+[06781.033]
+Obtained {08:FF FF FF FF}.
+
+[06781.035]
+Found {16:25 CE}, but you can carry no more.
+
+[06781.037]
+There is nothing here.
+

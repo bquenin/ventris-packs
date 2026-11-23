@@ -1,0 +1,145 @@
+[06568.001]
+Surface Army Base
+
+[06568.002]
+Surface Army Base
+
+[06568.004]
+Emergency rations and the like are kept here.
+
+[06568.006]
+A passage closed off with chains. The far side seems to be out of use.
+
+[06568.008]
+A bottle of liquor with a fierce smell. Moonshine, perhaps...
+
+[06568.009]
+Private
+
+[06568.010]
+That's medical alcohol. Drink even that and you'll get drunk. Mind you, I can't answer for how you'll feel after.
+
+[06568.012]
+"From Headquarters to all soldiers. As to Heavenly Army soldiers who surrender: we have nothing left to feed enemy troops, so any who surrender are, on the spot..."
+
+[06568.013]
+Private
+
+[06568.014]
+The war goes worse by the day. Can we really beat the Heavenly Army?
+
+[06568.015]
+Master Sergeant
+
+[06568.016]
+Soldier. Your job is not to think but to move your body.
+
+[06568.017]
+Officer
+
+[06568.018]
+Quite so. Leave the thinking to Commander Litler or Lieutenant General Dymlos.
+
+[06568.019]
+Officer
+
+[06568.020]
+We soldiers need only carry out the orders we are given.
+
+[06568.021]
+Private
+
+[06568.022]
+Yes, sir.
+
+[06568.023]
+Private
+
+[06568.024]
+Captain, sir, where do you come from?
+
+[06568.025]
+Master Sergeant
+
+[06568.026]
+Whoa there, soldier. There is a prize riding on that question.
+
+[06568.027]
+Master Sergeant
+
+[06568.028]
+Get the captain to tell his past, and it's 300 Gald.
+
+[06568.029]
+Officer
+
+[06568.030]
+I shall wait until it reaches 500 Gald. Then you and I split it.
+
+[06568.031]
+Officer
+
+[06568.032]
+Though I hope we live that long.
+
+[06568.033]
+Private
+
+[06568.034]
+Chaltier, who was in our unit, passed the Swordian test and got posted to HQ, and now I hear the training is nearly killing him.
+
+[06568.035]
+Master Sergeant
+
+[06568.036]
+That cocksure kid? He was a cheeky one.
+
+[06568.037]
+Officer
+
+[06568.038]
+Cheeky, yes, but you could not dislike him.
+
+[06568.039]
+Officer
+
+[06568.040]
+I hope he manages to stay alive.
+
+[06568.041]
+Have a safe journey.
+
+[06568.042]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06568.043]
+Will you stay the night?
+
+[06568.045]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06568.046]
+Please rest well.
+
+[06568.047]
+Good morning.
+
+[06568.048]
+You do not have enough money.
+
+[06568.049]
+We look forward to seeing you again.
+
+[06568.054]
+Obtained {16:25 BA}.
+
+[06568.056]
+Obtained {08:FF FF FF FF}.
+
+[06568.058]
+Found {16:25 C2}, but you can carry no more.
+
+[06568.060]
+There is nothing here.
+

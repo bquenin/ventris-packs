@@ -1,0 +1,9 @@
+[00470.001]
+Even knowing the name of the airship the Phandarian army guards for dear life... Is there anything {NAME:04 00 00 00} doesn't know?
+
+[00470.002]
+...Is this the time to talk of such things?
+
+[00470.003]
+Don't bristle. There's been so much of it I'm tired of doubting. I won't ask now. And this isn't the time anyway, right? Let's go.
+

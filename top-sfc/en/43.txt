@@ -1,0 +1,557 @@
+[43.000]
+Magitech was a craft that consumed that mana until none was left
+Left alone, the great tree would wither{PAGE}
+So began the war between Dhaos and the people who used magitech
+
+[43.001]
+{クラース}
+"For now, let us ask after Edward wherever we go."
+
+[43.002]
+Geese's Shop
+
+[43.003]
+Cave of Darkness
+
+[43.004]
+"I am in training. Idle thoughts are to be cast aside."
+
+[43.005]
+"You are a swordsman, are you? Then I shall give you this book of secret arts. I have already mastered it."{PAGE}
+
+
+[43.006]
+{COLOR:03}{クレス} learned Majinsenkuuha.{COLOR:02}
+
+[43.007]
+"I'm seeking enlightenment here. Don't disturb me!"
+
+[43.008]
+"What's this? Could it be you want this book of secret arts? Then it's 12000 Gald!"{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[43.009]
+Honestly...
+
+[43.010]
+"You haven't the money!!"
+
+[43.011]
+{COLOR:03}{クレス} learned Shishihienkyaku.{COLOR:02}{PAGE}
+"Hmph!"
+
+[43.012]
+"What do you lot want? There's nothing here!"
+
+[43.013]
+"We are wanderers, who travel wherever the fancy takes us."
+
+[43.014]
+"You're a swordsman? Then you can have this book of secret arts. I've already mastered it."{PAGE}
+
+
+[43.015]
+{COLOR:03}{クレス} learned Houousenretsuha.{COLOR:02}
+
+[43.016]
+"It has been {NUM:8062} years now since I set out to find my purpose in life. I still have not found it."
+
+[43.017]
+Lilith, Edward's wife
+"My husband is always at our side."
+
+[43.018]
+"Daddy's gone, but I won't cry.{PAGE}
+Daddy was a fine man, wasn't he?"
+
+[43.019]
+"I'm going to protect Mummy and Lilina!"
+
+[43.020]
+Captain
+"What? You want to go to Freyland?"{PAGE}
+
+
+[43.021]
+Captain
+"This is the ship for Alvanista."{PAGE}
+
+
+[43.022]
+The fare, with passage, food and insurance, is {NUM:8164} Gald each,
+{NUM:8166} Gald for all of you.
+Will you go?
+
+[43.023]
+If you haven't the money, there's nothing to be done.
+
+[43.024]
+Then we saaail.
+
+[43.025]
+Well then.
+
+[43.026]
+Sammy
+"Welcome. This is the shop of the master craftsman Geese."
+
+[43.027]
+Sammy
+"Thank you, mister."
+
+[43.028]
+"This is a smithy and a shop that carries on the craft of Geese, the master craftsman of the dwarves.{PAGE}
+The prices are low, and the work is finer by far than any other arms and armour. You won't lose by buying.{PAGE}
+Oh yes, let me tell you the trick of getting rich. Among your items there are some called 'trade goods', are there not? They sell for a different price from shop to shop. Make use of that and the money will come pouring in."
+
+[43.029]
+"This is the Morrison Magic Laboratory. It was the last wish of the late Master Morrison that this place be used as a magic laboratory."
+
+[43.030]
+"I must get the students' meal ready...{PAGE}
+This is a boarding school of magic. The classrooms are upstairs. I call it a school, but nobody teaches: the students study magic for themselves."
+
+[43.031]
+"A secret word.{PAGE}
+For the sword of flame: from down to upper right, then confirm. A traveller told me that long ago."
+
+[43.032]
+"I've come to study magic too. I'm going to be the greatest magic user in the world, I really am. I'll work hard."
+
+[43.033]
+"I am researching the forbidden art of summoning.{PAGE}
+It seems the forbidden summonings mostly have to do with the demon world. Using the energy of another world must be dangerous, after all."
+
+[43.034]
+"I am researching forbidden magic.{PAGE}
+It seems forbidden magic is the kind that bends space. What exactly it is, I do not know yet."
+
+[43.035]
+"From now on even swordsmen need to be able to use magic. But I don't understand a word of it."
+
+[43.036]
+"I am researching magical items. Where items that carry magic power first came from, that is."
+
+[43.037]
+"I am researching the healing arts. What on earth are they? A power inside people, or the power of God...?"
+
+[43.038]
+"Master Morrison excelled not only in the study of magic but in science too. I hear he centred his research on the science of the far ancient civilisation."
+
+[43.039]
+"They say a spirit lives in Treant's Forest. What was the name? Old Gin?"{PAGE}
+{クレス}
+(Does he mean Origin?)
+
+[43.040]
+"The Moria Mine? The entrance is due north of here."
+
+[43.041]
+"Heh...
+The sea is calling me."
+
+[43.042]
+"Spirits? Don't ask me.{PAGE}
+Mightn't there be one at the village called Olive Village? It's a village with a good deal of history."
+
+[43.043]
+"My gran told me long ago that strange creatures live in a place called the 'White Birch Forest', north of Midgards."
+
+[43.044]
+"You want to go to the Moria Mine? But they say it's a dead end about five floors down. An explorer was wondering whether you need some special item."
+
+[43.045]
+"My dream is to sail every sea in the world looking for treasure. I'd love to say goodbye to this life!"
+
+[43.046]
+"The salt wind off the sea, the blazing sun. I meant to go on a voyage one day, just Emily and me... but she turned me down.{PAGE}
+
+
+[43.047]
+Emilyyyyy,
+come baaaack!!"
+
+[43.048]
+"The salt wind off the sea, the blazing sun. One day I'll go on a voyage, just Cynthia and me.{PAGE}
+
+
+[43.049]
+Cynthiaaaa,
+I'll make you mine, I sweaaar!!"
+
+[43.050]
+"The story of the spirits? Oh yes, I know it. Long, long ago, monsters like today's..."{PAGE}
+{クレス}
+"I've heard the first part of that story. I want to know the rest. From where the spirit of the moon was captured."{PAGE}
+"Oh, right. Let me see. Those wicked people shut the spirit of the moon in a pitch-dark dungeon underground, where the light of the moon could not reach. And at last poison was scattered over the whole world, and mankind perished. The wicked people too, of course. But not everyone perished. Some people raised a barrier with magic and made a land the poison could not enter. And then hundreds of years went by... The survivors grew in number as the years passed, and nations came to be built again.{PAGE}
+That's as much as I know. Sorry."
+
+[43.051]
+"Don't bother me. I'm wallowing in my feelings here."
+
+[43.052]
+"The story of the spirits? Well, if you mean what my gran told me long ago. Long, long ago, monsters like today's..."{PAGE}
+{クレス}
+"I've heard the first part of that story. I want to know the rest. From after the poison was scattered over the world and hundreds of years had passed."{PAGE}
+"Oh, let me see... The people inside the barrier forgot even why the barrier had been raised. They believed that outside it lay a world of darkness, and that no one who went out would ever come back alive. After some hundreds of years of that, there came a young soldier sworn in loyalty to his country. One day the soldier went to explore the old ruins beneath that country. And what he found there was none other than the spirit of the moon. The soldier lost his heart to the spirit's beauty. He fell in love with her. But the king of that country shut the spirit away once more. He meant to use her power, you see.{PAGE}
+That's as much as I know."
+
+[43.053]
+"Looking at the sea, I feel as if my heart has grown wider."
+
+[43.054]
+"I think I'll finish work early today."
+
+[43.055]
+"Hey.{PAGE}
+You wouldn't have any ivory, would you? I want to carve something out of ivory. In return I'll make something good for you too
+
+[43.056]
+.{PAGE}
+Oh, you do have some. How about it? Will you take the deal?"
+
+[43.057]
+Tch, be off with you, then.
+
+[43.058]
+Right, it's a deal. Give me two hours or so. I'll make yours as fast as I can.{PAGE}
+
+
+[43.059]
+Grandad!
+Come and give me a hand!
+
+[43.060]
+　　　　Two hours later...
+
+[43.061]
+."
+
+[43.062]
+Ten
+"Sorry, I've none left."
+
+[43.063]
+Ten
+"Welcome. I've got some interesting items."
+
+[43.064]
+Ten
+"Thank you!{PAGE}
+As thanks for buying, I'll tell you a few secret words. I'll only say them once, so remember them well.
+First: down, lower left, left, confirm.
+Right, left, right, confirm.
+Right, lower right, down, lower left, left, right, up, down, confirm.
+One more: upper left, lower right, upper left, right, confirm.
+That's about it."
+
+[43.065]
+Ten
+"It may be dear, but I think it's worth it."
+
+[43.066]
+"Hello, I'm a pedlar. Will you buy something?"
+
+[43.067]
+"Much obliged!"
+
+[43.068]
+"It's worn away. I can't make it out."
+
+[43.069]
+It reads: "Northern path, danger!"
+
+[43.070]
+{クレス}
+"Hello! Is anyone home?"
+
+[43.071]
+"Who is it, please?"{PAGE}
+
+
+[43.072]
+{クラース}
+"My name is {クラース}. I wish to see a man called Edward. First, this letter..."{PAGE}
+Lilith, Edward's wife
+"Oh, you come from Lord Lundgrom. I am his wife, Lilith. I am sorry, but my husband is away at present."{PAGE}
+{クラース}
+"Hm, my business is urgent."{PAGE}
+Lilith
+"Since Lord Lundgrom sent you, I can tell you without fear. My husband learned that Alvanista cannot join the coming war, and only the other day he set out to find people who can defeat Dhaos."{PAGE}
+{クラース}
+"...Where was he going?"{PAGE}
+Lilith
+"I believe he said he would go to Freyland first."{PAGE}
+
+
+[43.073]
+{クレス}
+"Freyland?"{PAGE}
+
+
+[43.074]
+{クラース}
+"The continent east of Alvanista."{PAGE}
+
+
+[43.075]
+{クラース}
+"
+
+[43.076]
+Thank you, Lilith."{PAGE}
+Lilith
+"Um... If it is not too much to ask, should you meet my husband, please tell him that we are all well..."{PAGE}
+{クラース}
+"Very well, I shall tell him."
+
+[43.077]
+{クラース}
+"If we hurry we may catch him up. Let us go."
+
+[43.078]
+{クレス}
+"Oh, er, well..."{PAGE}
+"If you have no business here, please leave."
+
+[43.079]
+{ミント}
+"It is rude to knock when you have no business."
+
+[43.080]
+{クレス}
+"Is this... a spirit?"
+
+[43.081]
+???
+"I, name, Shadow. Darkness, spirit. You, world, threat, Dhaos. I, darkness, dwellers, brainwashed, enemy..."{PAGE}
+{クレス}
+"His words come in dreadful fits and starts."{PAGE}
+{クラース}
+"I catch the gist. Shadow's kin, the dwellers in darkness, were brainwashed by Dhaos and became enemies: that is what you mean? And so you will join us..."{PAGE}
+Shadow
+"You, I, companions, not. I, darkness, dwellers, to save."{PAGE}
+{クラース}
+"Understood. Once the purpose is achieved, I shall dissolve the pact."{PAGE}
+Shadow
+"Ancient, pact, ring, Amethyst."{PAGE}
+{クラース}
+"Good, let us make the pact."
+
+[43.082]
+{クラース}
+"I now beseech the spirit of darkness. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[43.083]
+{COLOR:03}{クラース} can now summon {STR:0C08}.{COLOR:02}
+
+[43.084]
+{クレス}
+"Is this... a statue? Was there a statue in a place like this?{PAGE}
+No lifting it, I suppose... But I could push it or pull it."{PAGE}
+{COLOR:03}Some statues and the like can be pushed and pulled. It is easy: stand with the statue straight in front of you and move while holding the confirm button. Try it with this statue.{COLOR:02}
+
+[43.085]
+{クレス}
+"{チェスター}!!!"
+
+[43.086]
+{クレス}
+"{SPEED:10}...{SPEED:FF}Where{SPEED:10}...{SPEED:FF}"
+
+[43.087]
+{クレス}
+"{ミント}, {ミント}!"
+
+[43.088]
+{ミント}
+"{クレス}...{PAGE}
+Where are we{SPEED:10}...{SPEED:FF}?"{PAGE}
+{クレス}
+"I don't know either. Where on earth is this?"
+
+[43.089]
+{ミント}
+"How beautiful{SPEED:10}...{SPEED:FF}"
+
+[43.090]
+{クレス}
+"{SPEED:10}...{SPEED:FF}What about {チェスター}? {SPEED:10}...{SPEED:FF}And Morrison!?"{PAGE}
+{ミント}
+"{SPEED:10}...{SPEED:FF}I am sure, no, I am certain Morrison and the others are all right{SPEED:10}...{SPEED:FF}"
+
+[43.091]
+{クレス}
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[43.092]
+{ミント}
+"Let us do what we can do now. Please, {クレス}. Take heart{SPEED:10}...{SPEED:FF}"
+
+[43.093]
+{クレス}
+"{SPEED:10}...{SPEED:FF}I'm sorry, I'm the only one moping{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Not at all..."
+
+[43.094]
+{クレス}
+"That's it! The book Morrison gave me!"{PAGE}
+{ミント}
+"A book?"
+
+[43.095]
+{クレス} took out the book and began to read. It told of the Dhaos of ancient times.{PAGE}
+That long ago there had been a battle between a certain party and Dhaos. That in the last moment of the final battle Dhaos travelled through time and escaped to another age.{PAGE}
+And that in the age he fled to, Dhaos was sealed away by Morrison, {クレス}'s father and mother, {ミント}'s mother and others.{PAGE}
+That one of the pendants in which the power of Dhaos was sealed in two halves was the pendant {クレス} had from his father...
+
+[43.096]
+{ミント}
+"This{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"So what we must do now..."{PAGE}
+{ミント}
+"Is find a way to defeat Dhaos.{PAGE}
+But first, let us look for somewhere with people."{PAGE}
+{クレス}
+"Yes."
+
+[43.097]
+{クレス}
+"...!!"
+{ミント}
+"...!"{PAGE}
+
+
+[43.098]
+{ミント}
+"That is{SPEED:10}...{SPEED:FF} {チェスター}'s bow{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"{チェスター}...!!"{PAGE}
+{ミント}
+"{クレス}! He is all right, I am sure he is{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[43.099]
+{クレス}
+"...Damn it!!"
+
+[43.100]
+Lilith, Edward's wife
+"Why, Mr Grom."{PAGE}
+Lundgrom
+"It has been a long time. I am so very sorry about Edward..."{PAGE}
+Lilith
+"No, please do not trouble yourself."{PAGE}
+Lundgrom
+"The truth is, I should like to be shown to Edward's study."{PAGE}
+Lilith
+"...I do not mind, but it is locked and no one can get in."{PAGE}
+Lundgrom
+"And this key?"{PAGE}
+Lilith
+"Oh! How...?"{PAGE}
+Lundgrom
+"Edward entrusted it to me."{PAGE}
+Lilith
+"In that case, please come this way."
+
+[43.101]
+Lilith
+"My husband's study is upstairs, through this door."
+
+[43.102]
+Lundgrom
+"He had long been carrying on a certain study on his own. It was about travel through time."{PAGE}
+{クラース}
+"And this book is the sum of it..."
+
+[43.103]
+{アーチェ}
+"Well?"
+
+[43.104]
+{クラース}
+"{SPEED:10}...{SPEED:FF}I shall put it simply. It seems a kingdom that flourished in far ancient times lies sunk at the bottom of the sea. Its name is Thor, and it says that kingdom achieved travel through time with a craft beyond belief."{PAGE}
+{ミント}
+"A far ancient city... Thor?"{PAGE}
+{アーチェ}
+"But if it sank, that's no use to us."{PAGE}
+{クラース}
+"A craft beyond belief, I said. From the wording, the city has not yet perished. But it says there is no means of reaching that sea bed."{PAGE}
+Lundgrom
+"Indeed. There is no such craft and no such magic."{PAGE}
+{クラース}
+"But it also says: '{クラース} could surely do it.'"
+
+[43.105]
+Lundgrom
+"So, what do you mean to do?"{PAGE}
+{クラース}
+"By its position it lies about a hundred kilometres out to sea, north-east of Venezia, so we shall search from there."{PAGE}
+Lundgrom
+"I see. I should like to go with you if I could, but that cannot be. Do your best."
+
+[43.106]
+{クラース}
+"Well then, shall we make for Venezia?"{PAGE}
+
+
+[43.107]
+{ミント}
+"Please wait. If we go to Thor we may never be able to come back, may we not? Then we must do something about Yggdrasil first... In our age Yggdrasil has rotted away. Which means..."{PAGE}
+{クラース}
+"That mana is lost entirely and magic cannot be used at all. Which means..."{PAGE}
+{アーチェ}
+"That you can't beat Dhaos, who can only be hurt by magic, right?"{PAGE}
+{クラース}
+"Exactly so."
+
+[43.108]
+{クレス}
+"My head is in a tangle..."{PAGE}
+
+
+[43.109]
+{クラース}
+"In short: we find a way to keep Yggdrasil from rotting away, so that magic can be used in your age too. After that we put out to sea by ship from Venezia and find where Thor lies. Do you see?"
+
+[43.110]
+{アーチェ}
+"And when it comes to the latest fashion in Alvanista, it just has to be..."{PAGE}
+
+
+[43.111]
+{クラース}
+"How they talk... I am about to die of boredom."
+
+[43.112]
+"It's done!"
+
+[43.113]
+"Sorry to keep you! When it comes to ivory, it's mahjong tiles! From what you brought I've made {NUM:8062} mahjong tiles."{PAGE}
+
+
+[43.114]
+{COLOR:03}Received the Mahjong Tiles.{COLOR:02}{PAGE}
+Bring me ivory again if you get hold of any.
+
+[43.115]
+{クラース}
+"Right, let us go.{PAGE}
+Hm? Where is {チェスター}?"{PAGE}
+{アーチェ}
+"He's waiting outside.{PAGE}
+
+
+[43.116]
+Bye for now, Sammy."{PAGE}
+Sammy
+"Yes! Bye-bye, miss!"
+
+[43.117]
+{チェスター}
+"Finished at last? I'm worn out with waiting."
+

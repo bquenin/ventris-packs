@@ -1,0 +1,12 @@
+[00256.001]
+Ilene was someone who loved the town of Neustadt...
+
+[00256.002]
+I think so too. And it's because there were people to carry on what Ilene felt that Neustadt is what it is today.
+
+[00256.003]
+Well, there was none of the gold and jewels we pictured, but I'm glad we came. You think so too, {NAME:04 00 00 00}?
+
+[00256.004]
+Yes, I do...
+

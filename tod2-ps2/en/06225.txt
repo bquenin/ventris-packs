@@ -1,0 +1,17 @@
+[06225.4808]
+Which of these
+monsters is
+the "Medium"?
+
+[06225.4861]
+Right!
+Well spotted
+
+[06225.4885]
+No.
+Look more closely
+
+[06225.4913]
+Time's up.
+Were they confusing?
+

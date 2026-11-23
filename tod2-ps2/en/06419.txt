@@ -1,0 +1,112 @@
+[06419.001]
+Neustadt: Arena
+
+[06419.002]
+Neustadt
+
+[06419.003]
+Arena
+
+[06419.004]
+Grocer
+
+[06419.005]
+How about a buttered potato to go with the match?
+
+[06419.006]
+Thanks!
+
+[06419.007]
+See you!
+
+[06419.008]
+Grocer
+
+[06419.009]
+Grocer
+
+[06419.010]
+A buttered potato is just the thing with a match.
+
+[06419.012]
+Whoa!
+
+[06419.013]
+???
+
+[06419.014]
+Excuse me...
+
+[06419.015]
+???
+
+[06419.016]
+...Ah, you are...
+
+[06419.017]
+???
+
+[06419.018]
+No, it's nothing... Well then...
+
+[06419.020]
+What's with that girl? She bumps into you and that's all she says!?
+
+[06419.022]
+Will you chase her and pick a fight? You would likely lose in an instant.
+
+[06419.024]
+Heh! Like I'd lose to a girl like that!
+
+[06419.026]
+That is exactly why I say you would lose. That woman is no ordinary person. If you cannot see that, you have no chance.
+
+[06419.028]
+Huh, it's rare for you to say something like that, {NAME:04 00 00 00}.
+
+[06419.030]
+I say plainly that the strong are strong. There are simply few such opponents.
+
+[06419.032]
+But you acknowledged her as strong... This sounds interesting.
+
+[06419.034]
+Interesting or not, she is the kind I would rather not fight.
+
+[06419.035]
+Have a safe journey.
+
+[06419.036]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06419.037]
+Will you stay the night?
+
+[06419.039]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06419.040]
+Please rest well.
+
+[06419.041]
+Good morning.
+
+[06419.042]
+You do not have enough money.
+
+[06419.043]
+We look forward to seeing you again.
+
+[06419.048]
+Obtained {16:25 BA}.
+
+[06419.050]
+Obtained {08:FF FF FF FF}.
+
+[06419.052]
+Found {16:25 C2}, but you can carry no more.
+
+[06419.054]
+There is nothing here.
+

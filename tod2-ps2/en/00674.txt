@@ -1,0 +1,12 @@
+[00674.001]
+...Ow! Ouch, I think I've twisted my ankle a bit.
+
+[00674.002]
+Hey, are you all right, {NAME:05 00 00 00}? Want a shoulder?
+
+[00674.003]
+Nyah, hard luck♪ Thinking you'll put me in your debt? No chance.
+
+[00674.004]
+Heh. Lip like that, and you'll live.
+

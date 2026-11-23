@@ -1,0 +1,166 @@
+[06398.001]
+Regular Ship
+
+[06398.002]
+Regular Ship
+
+[06398.004]
+This is...!
+
+[06398.006]
+Found a TOE quiz question!
+
+[06398.008]
+A new category has been added to the quiz book.
+
+[06398.010]
+Something is written in the notebook... "I hate Gels! I'll never eat a Gel in battle! That way the title..."
+
+[06398.018]
+Aboard ship, everyone's free to do as they like, right? Well then, that's that.
+
+[06398.020]
+Where are you going, {NAME:03 00 00 00}?
+
+[06398.022]
+{NAME:01 00 00 00}, you wouldn't know, so let me tell you.
+
+[06398.024]
+Travel puts people in an open, carefree mood.
+
+[06398.026]
+Uh-huh.
+
+[06398.028]
+Lovers who meet in passing. A single tryst...
+
+[06398.030]
+But it's because there's no next time that the flames of love burn so fiercely! You follow?
+
+[06398.032]
+...So in other words, {NAME:03 00 00 00}, you're going off to pick up girls.
+
+[06398.034]
+Don't make that face. Besides, I don't think it's far wrong that it puts you in an open mood.
+
+[06398.036]
+Why not try asking {NAME:02 00 00 00} out, say? You might hit it off.
+
+[06398.038]
+I-I'm not, it's not like that!
+
+[06398.040]
+If I see {NAME:02 00 00 00}, I'll tell her you were looking for her. See ya!
+
+[06398.042]
+{NAME:03 00 00 00} earned the title "{08:1E 08 00 00}".
+
+[06398.044]
+...Honestly. He's noisy wherever he goes.
+
+[06398.046]
+Huh? You're going too, {NAME:04 00 00 00}?
+
+[06398.048]
+I want to think alone. Don't follow me.
+
+[06398.050]
+Now, what shall I do...
+
+[06398.052]
+Standing around spacing out is boring too...
+
+[06398.054]
+Where did {NAME:03 00 00 00} and {NAME:04 00 00 00} go, I wonder?
+
+[06398.056]
+There's something I want to ask this guy. Sorry, but you stay here too.
+
+[06398.058]
+I always thought he was a mystery, but this business has made it plain.
+
+[06398.060]
+The first thing that struck me as odd was that you knew Stahn. And in quite some detail.
+
+[06398.062]
+The next thing that caught my attention was that you knew Ilene Rembrandt, and what's more, her last words.
+
+[06398.064]
+Stahn is a hero of the last great upheaval, and Ilene, an executive of the Oberon Corporation, should have taken her own life when it fell...
+
+[06398.066]
+For you to have known the two of them is very unnatural, considering your age.
+
+[06398.068]
+I'd say that's where your reason for hiding your face lies. Well, am I wrong, {NAME:04 00 00 00}?
+
+[06398.070]
+That matter was already settled. Whoever I may be, you would trust me as a companion.
+
+[06398.072]
+I know that, and I'm asking anyway. I just want to know the truth.
+
+[06398.074]
+If you insist, there is nothing for it but to have her cooperate. It is the only way to give a rational explanation.
+
+[06398.076]
+I-I...!
+
+[06398.078]
+Stop it already, {NAME:03 00 00 00}!
+
+[06398.080]
+I've decided to believe in {NAME:04 00 00 00}, and I want you to do the same, {NAME:03 00 00 00}!
+
+[06398.082]
+The only reason we've been able to travel this far is that we could believe in each other!
+
+[06398.084]
+All right. You're right. We'll leave this for another time. Sorry, {NAME:04 00 00 00}.
+
+[06398.086]
+Let's take a turn around the ship to clear the air. Come on, {NAME:01 00 00 00}.
+
+[06398.088]
+It's good that I found out where {NAME:03 00 00 00} and {NAME:04 00 00 00} are, but...
+
+[06398.090]
+I haven't found out the important thing at all. Where is {NAME:02 00 00 00}?
+
+[06398.091]
+Have a safe journey.
+
+[06398.092]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06398.093]
+Will you stay the night?
+
+[06398.095]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06398.096]
+Please rest well.
+
+[06398.097]
+Good morning.
+
+[06398.098]
+You do not have enough money.
+
+[06398.099]
+We look forward to seeing you again.
+
+[06398.104]
+Obtained {16:25 BA}.
+
+[06398.106]
+Obtained {08:FF FF FF FF}.
+
+[06398.108]
+Found {16:25 C2}, but you can carry no more.
+
+[06398.110]
+There is nothing here.
+

@@ -1,0 +1,92 @@
+[06533.001]
+Vangelo, the Azure City
+
+[06533.002]
+Vangelo, the Azure City
+
+[06533.003]
+Vangelo, the Azure City
+
+[06533.004]
+Shiny-Loving Maid
+
+[06533.005]
+For {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lenses, wouldn't you like to know the way to Speranza, the Crimson City?
+
+[06533.007]
+　Tell me　
+　I'll find my own way　
+
+[06533.008]
+Shiny-Loving Maid
+
+[06533.009]
+Heh heh... Much obliged♪
+
+[06533.010]
+Shiny-Loving Maid
+
+[06533.011]
+To get to Speranza, cross the sands to the south, then right away go straight on to your right.
+
+[06533.012]
+Shiny-Loving Maid
+
+[06533.013]
+Cross the shallows, go over the desert, and keep straight on with the mountains on your right.
+
+[06533.014]
+Shiny-Loving Maid
+
+[06533.015]
+Cut through the forest beyond and there you are, Speranza.
+
+[06533.016]
+Shiny-Loving Maid
+
+[06533.017]
+...Hey, you don't have enough!
+
+[06533.018]
+Shiny-Loving Maid
+
+[06533.019]
+Don't blame me if you wander around lost forever.
+
+[06533.020]
+Have a safe journey.
+
+[06533.021]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06533.022]
+Will you stay the night?
+
+[06533.024]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06533.025]
+Please rest well.
+
+[06533.026]
+Good morning.
+
+[06533.027]
+You do not have enough money.
+
+[06533.028]
+We look forward to seeing you again.
+
+[06533.033]
+Obtained {16:25 FE}.
+
+[06533.035]
+Obtained {08:FF FF FF FF}.
+
+[06533.037]
+Found {16:26 06}, but you can carry no more.
+
+[06533.039]
+There is nothing here.
+

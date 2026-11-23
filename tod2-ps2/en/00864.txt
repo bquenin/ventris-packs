@@ -1,0 +1,30 @@
+[00864.001]
+Hey, {NAME:06 00 00 00}, you're a genius scientist, right? Then at a time like this, what should...
+
+[00864.002]
+No idea. I'm not you.
+
+[00864.003]
+Don't brush it off in one line.
+
+[00864.004]
+I could answer, but it won't be any use to you.
+
+[00864.005]
+Well, let's hear it anyway. The opinion of the great genius.
+
+[00864.006]
+All right. I'd knock the god flat without a second thought. A match with a god is what I came for.
+
+[00864.007]
+Then what happens to {NAME:02 00 00 00}!
+
+[00864.008]
+Then I'd take {NAME:02 00 00 00} and drop the world. What becomes of the world after I'm dead is no business of mine~.
+
+[00864.009]
+Sigh~... I was a fool to ask you.
+
+[00864.010]
+I said so from the start, "it won't be any use". Nobody decides this for you. You decide yourself.
+

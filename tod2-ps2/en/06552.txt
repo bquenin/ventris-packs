@@ -1,0 +1,321 @@
+[06552.001]
+Realta, the Twilight City: Recovery Facility
+
+[06552.002]
+Realta, the Twilight City
+
+[06552.003]
+Recovery Facility
+
+[06552.004]
+Old Man
+
+[06552.005]
+The old die and make way for those to be born next. Isn't that only natural?
+
+[06552.006]
+Old Man
+
+[06552.007]
+And after death, this time, we are given everlasting happiness at the side of the god Fortuna.
+
+[06552.008]
+Old Man
+
+[06552.009]
+At my age, you know, the body won't hold up unless I go into the capsule again and again.
+
+[06552.010]
+Old Man
+
+[06552.011]
+It may be about time. Perhaps it would be well to die, for the sake of the next generation.
+
+[06552.013]
+Hey, hey, that's a grim thing to say. You mean to kill yourself?
+
+[06552.014]
+Old Man
+
+[06552.015]
+I have lived quite long enough. To make way for those to be born next is only natural, isn't it?
+
+[06552.017]
+Even so, killing yourself is pretty grim, if you ask me.
+
+[06552.019]
+But... perhaps a thought like that comes because his life so far has been a happy one...
+
+[06552.021]
+I expected as much, but... no castle, of course.
+
+[06552.023]
+Since this is not Heidelberg, neither the castle nor Woodrow, who lives in it, exists.
+
+[06552.025]
+........
+
+[06552.026]
+Townsperson
+
+[06552.027]
+Is history so important? What matters is to live in the present.
+
+[06552.029]
+Say, is there a man called Woodrow in this city? He ought to be known as the Hero King.
+
+[06552.030]
+Townsperson
+
+[06552.031]
+Woodrow...? Don't you mean Lord Barbatos?
+
+[06552.032]
+Townsperson
+
+[06552.033]
+If you speak of heroes, it must be Lord Barbatos. He is the one who, with Lady Elraine, saved the world from chaos.
+
+[06552.035]
+Barbatos, the hero who saved the world!?
+
+[06552.036]
+Townsperson
+
+[06552.037]
+You don't know? Ask someone from the Order of Fortuna and they will tell you.
+
+[06552.039]
+No, we wish to look into it ourselves. Is there a library in this city, somewhere we can study history?
+
+[06552.040]
+Townsperson
+
+[06552.041]
+Somewhere to study history... I have heard there was such a place once.
+
+[06552.042]
+Townsperson
+
+[06552.043]
+But nobody used it any more, and so, they say, nobody knows where it is.
+
+[06552.045]
+I see...
+
+[06552.047]
+Barbatos, a hero!? What on earth does that mean!?
+
+[06552.049]
+Most likely, when Elraine meddled with history, Barbatos lent her a hand.
+
+[06552.051]
+Every answer lies in the library, huh... And where the library lies is a mystery too.
+
+[06552.053]
+Nobody used it any more... That's what he said, right? So does that mean people here have no interest in history?
+
+[06552.055]
+I think it's because calm, empty days went on and on, and so they lost any reason to learn history.
+
+[06552.057]
+People learn history to reflect on the mistakes of the past and to build a better future.
+
+[06552.059]
+But in this world Elraine decides the future. So there is no need to learn history... Is that it.
+
+[06552.061]
+But that may be proof that this world really has been at peace all this time...
+
+[06552.063]
+...Maybe so. But it's still wrong! Having someone else decide your future!
+
+[06552.065]
+Yeah...
+
+[06552.067]
+In any case, we look for the library. Every mystery should be solved there.
+
+[06552.068]
+Chef
+
+[06552.069]
+Been making {16:34 7C}?
+
+[06552.070]
+Chef
+
+[06552.071]
+Would you like to know how to make {16:34 7C}?
+
+[06552.073]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06552.074]
+Chef
+
+[06552.075]
+I'll teach you how to make {16:34 7C}.
+
+[06552.076]
+Chef
+
+[06552.077]
+Going to make it yourself? Well, that's fine too.
+
+[06552.078]
+Chef
+
+[06552.079]
+I have the recipe for {16:34 7C}. Will you buy it for {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald?
+
+[06552.081]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06552.082]
+Chef
+
+[06552.083]
+You don't have enough money.
+
+[06552.084]
+Chef
+
+[06552.085]
+I'll sell you the recipe for {16:34 7C}.
+
+[06552.086]
+Chef
+
+[06552.087]
+Well, it can't be helped.
+
+[06552.088]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06552.089]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.090]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.091]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.092]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.093]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06552.094]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.095]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.096]
+Chef
+
+[06552.097]
+To make {16:34 7C} you need:
+{18:44 78}
+
+[06552.098]
+Chef
+
+[06552.099]
+Why, you have the ingredients.
+
+[06552.100]
+Chef
+
+[06552.101]
+Let me have them and I'll make {16:34 7C}. How about it?
+
+[06552.103]
+{03:00 00 00 00}　Yes
+　No
+
+[06552.104]
+Chef
+
+[06552.105]
+All right, wait there. I'll make you {16:34 7C} right away.
+
+[06552.106]
+Chef
+
+[06552.107]
+That's a shame. It's really delicious...
+
+[06552.108]
+Chef
+
+[06552.109]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06552.110]
+Chef
+
+[06552.111]
+You are not worthy. Come back another time.
+
+[06552.112]
+Chef
+
+[06552.113]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06552.115]
+Picked up the recipe for {16:34 7C}.
+
+[06552.117]
+Learned how to make {16:34 90}.
+
+[06552.118]
+Have a safe journey.
+
+[06552.119]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06552.120]
+Will you stay the night?
+
+[06552.122]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06552.123]
+Please rest well.
+
+[06552.124]
+Good morning.
+
+[06552.125]
+You do not have enough money.
+
+[06552.126]
+We look forward to seeing you again.
+
+[06552.131]
+Obtained {16:25 DE}.
+
+[06552.133]
+Obtained {08:FF FF FF FF}.
+
+[06552.135]
+Found {16:25 E6}, but you can carry no more.
+
+[06552.137]
+There is nothing here.
+

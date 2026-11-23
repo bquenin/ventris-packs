@@ -1,0 +1,12 @@
+[00062.001]
+Hey, {NAME:01 00 00 00}, are you ready?
+
+[00062.002]
+Hang on a sec... One, two, three, four♪ One, two, three, four♪
+
+[00062.003]
+Not warm-ups! I'm asking whether you've got your equipment and items in order! Honestly, those ruins are crawling with monsters.
+
+[00062.004]
+Ah... ahaha... Come on, I know that~♪
+

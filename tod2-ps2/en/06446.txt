@@ -1,0 +1,133 @@
+[06446.001]
+Heidelberg
+
+[06446.002]
+Heidelberg
+
+[06446.004]
+The museum "Memories of the War of Heaven and Earth" is this way.
+
+[06446.006]
+The museum "The Uprising over the Eye of God" is this way.
+
+[06446.007]
+Miya
+
+[06446.008]
+I'm Miya, an architect. On King Woodrow's orders, I designed and built this city.
+
+[06446.009]
+Miya
+
+[06446.010]
+Is there anything you'd like to ask about this city?
+
+[06446.012]
+{03:00 00 00 00}　Ask about the New Town　
+　Ask about the Old Town　
+　Ask about the symbols of the rebuilding　
+　I'll be going　
+
+[06446.013]
+Miya
+
+[06446.014]
+The New Town is the district built by refugees and immigrants after the uprising eighteen years ago.
+
+[06446.015]
+Miya
+
+[06446.016]
+We cut into the old streets of Heidelberg and made housing and shopping districts. That was a hard job.
+
+[06446.017]
+Miya
+
+[06446.018]
+It was worth it, though: today it has grown into a great city renowned across the world. I couldn't be happier.
+
+[06446.019]
+Miya
+
+[06446.020]
+The Old Town is the quarter that barely came through the uprising eighteen years ago.
+
+[06446.021]
+Miya
+
+[06446.022]
+There are more old buildings than in the New Town, aren't there?
+
+[06446.023]
+Miya
+
+[06446.024]
+We worked with care so as not to spoil the calm air of the old capital.
+
+[06446.025]
+Miya
+
+[06446.026]
+We made symbols so the uprising eighteen years ago would not be forgotten, and to commemorate the rebuilding of the city.
+
+[06446.027]
+Miya
+
+[06446.028]
+The first is the "Hero Gate", the huge gate between the New Town and the Old Town.
+
+[06446.029]
+Miya
+
+[06446.030]
+It houses a museum and a library. If there's something you want to look up, you should go.
+
+[06446.031]
+Miya
+
+[06446.032]
+The second is the "Memorial Park", the large park beside Heidelberg Castle. Forgetting battle and resting quietly in the park is a fine thing too.
+
+[06446.033]
+Miya
+
+[06446.034]
+Now that the city is finished, the hardships of the past are fond memories.
+
+[06446.035]
+Have a safe journey.
+
+[06446.036]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06446.037]
+Will you stay the night?
+
+[06446.039]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06446.040]
+Please rest well.
+
+[06446.041]
+Good morning.
+
+[06446.042]
+You do not have enough money.
+
+[06446.043]
+We look forward to seeing you again.
+
+[06446.048]
+Obtained {16:25 BE}.
+
+[06446.050]
+Obtained {08:FF FF FF FF}.
+
+[06446.052]
+Found {16:25 C6}, but you can carry no more.
+
+[06446.054]
+There is nothing here.
+

@@ -1,0 +1,232 @@
+[11.000]
+{クレス}
+"N-no... it can't be..."{PAGE}
+{チェスター}
+"I... I'm going to check my house!"
+
+[11.001]
+{クレス}
+"{SPEED:10}...{チェスター}...{SPEED:FF}"
+
+[11.002]
+{クレス}
+"{チェスター}, it's dangerous here.
+Let's go to my uncle's for now..."{PAGE}
+{チェスター}
+"{SPEED:10}...{SPEED:FF}You mean run away and leave Ami and the villagers like this?"{PAGE}
+
+
+[11.003]
+"I won't!
+If you're going, go alone!
+{SPEED:10}...{SPEED:FF}Someone has to bury them all,"{PAGE}
+"even if it's only me..."{PAGE}
+{クレス}
+"If the ones who attacked the village come back, you could be killed!"{PAGE}
+{チェスター}
+"{SPEED:10}...{SPEED:FF}"
+
+[11.004]
+{チェスター}
+"...I'm sorry, {クレス}. Even so, I..."{PAGE}
+{クレス}
+"{チェスター}{SPEED:10}...{SPEED:FF}"{PAGE}
+{チェスター}
+"You go on ahead. It's dangerous for both of us to stay, and I'll follow you, I promise..."{PAGE}
+{クレス}
+"You'd better."{PAGE}
+
+
+[11.005]
+{チェスター}
+"I will, I promise... And the two of us will avenge them!"{PAGE}
+{クレス}
+"Yes!!"
+
+[11.006]
+They were after your pendant{SPEED:10}...{SPEED:FF}
+
+[11.007]
+{クレス}
+(The pendant Mother spoke of{SPEED:10}...{SPEED:FF} could it be this one Father gave me{SPEED:10}...{SPEED:FF}?)
+
+[11.008]
+{クレス}
+(I must get away from here quickly!
+Then {チェスター} will surely be safe{SPEED:10}...{SPEED:FF})
+
+[11.009]
+"I have to get home quickly... I'm worried about Father and Mother."
+
+[11.010]
+{クレス}
+"F-Father..."
+
+[11.011]
+{クレス}
+"Mother!!"
+
+[11.012]
+{クレス}
+"Mother, hold on!"{PAGE}
+Maria
+"{クレス}, run. Go to your uncle, in Euclid, the city to the north..."{PAGE}
+"They were after your pendant{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"Who are 'they'!? Who on earth would do this...!!"
+
+[11.013]
+{クレス}
+"Mother, Mother!
+Open your eyes...
+Motheeer!!"{PAGE}
+
+
+[11.014]
+Aaaaaaaagh!!!
+
+[11.015]
+(Already dead...)
+
+[11.016]
+{チェスター}
+"{クレス}, I'll follow you, I promise..."{PAGE}
+{クレス}
+"You'd better. I'll be waiting in Euclid, to the north!"
+
+[11.017]
+(Already dead...)
+
+[11.018]
+{クレス}
+"Miss... may you find happiness in heaven..."
+
+[11.019]
+{クレス}
+"The wedding was to be next month... Why did this have to happen...?"
+
+[11.020]
+{クレス}
+"I'm sorry I never got to teach you the sword..."
+
+[11.021]
+{クレス}
+(Even the little children... Who on earth would do this...?)
+
+[11.022]
+{クレス}
+"Father..."
+
+[11.023]
+{クレス}
+"Mother..."
+
+[11.024]
+It reads: "Here lies Miguel Albane."{PAGE}
+{クレス}
+"Father..."
+
+[11.025]
+It reads: "Here lies Maria Albane."{PAGE}
+{クレス}
+"Mother... If only I had been stronger..."
+
+[11.026]
+{クレス}
+"Please rest in peace..."
+
+[11.027]
+It reads: "Here lies Ami Barklight."{PAGE}
+{クレス}
+"{チェスター}..."
+
+[11.028]
+{クレス}
+"This sword... it isn't Father's, and it isn't mine. Could it belong to the ones who attacked us...!?"{PAGE}
+
+
+[11.029]
+{COLOR:03}Received {STR:C20C}.{COLOR:02}
+
+[11.030]
+{チェスター}
+"...Someone's coming...!!"
+
+[11.031]
+{チェスター}
+"Have they come back...?"{PAGE}
+"Ami, {SPEED:10}now{SPEED:FF} I'll avenge you...!!"
+
+[11.032]
+{クレス}
+"Please take care of the Sword of Time."{PAGE}
+{クラース}
+"I know. I will see to it that it is sealed."{PAGE}
+{クレス}
+"Well then, take care of yourself..."
+
+[11.033]
+{アーチェ}
+"Everyone{SPEED:10}...{SPEED:FF}
+I'm not going to say bye-bye. It's not as if we'll never meet again."
+
+
+[11.034]
+"But{SPEED:0F}...{SPEED:FF}
+not being able to meet for a hundred years is just too lonely{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[11.035]
+{クレス}
+"{アーチェ}..."
+
+[11.036]
+{クラース}
+"As for me, I will never see you again."{PAGE}
+{クレス}
+"{クラース}..."{PAGE}
+{クラース}
+"Don't let it trouble you. I am glad just to have met you all."{PAGE}
+"{チェスター}, {ミント}, take care of yourselves too."
+
+[11.037]
+{クラース}
+"Come, it's time to go."
+
+[11.038]
+{クレス}
+"{チェスター}, are you ready?"{PAGE}
+{チェスター}
+"{SPEED:10}...{SPEED:FF}Yeah."
+
+[11.039]
+{チェスター}
+"Don't look so sad."{PAGE}
+{アーチェ}
+"{SPEED:0F}...{SPEED:FF}You're right."{PAGE}
+{チェスター}
+"See you."{PAGE}
+{アーチェ}
+"Yeah."
+
+[11.040]
+{クラース}
+"Sword of Time! Take us to our own age!!"
+
+[11.041]
+{チェスター}
+"What do we do now?"{PAGE}
+{クレス}
+"First we rebuild the village.
+And when that's done{SPEED:0F}...{SPEED:FF}"{PAGE}
+{チェスター}
+"When that's done?"{PAGE}
+{クレス}
+"{アーチェ} must be living in the same time as us.
+Let's go and see her!"{PAGE}
+{ミント}
+"Will you{SPEED:10}...{SPEED:FF}
+take me with you too?"{PAGE}
+{クレス}
+"Of course!!"
+

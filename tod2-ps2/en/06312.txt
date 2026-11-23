@@ -1,0 +1,106 @@
+[06312.001]
+Cresta: General Store & Outfitter
+
+[06312.002]
+Cresta
+
+[06312.003]
+General Store & Outfitter
+
+[06312.004]
+General Store
+
+[06312.005]
+Oh, welcome! Need anything?
+
+[06312.006]
+Come again!
+
+[06312.007]
+Aren't you going to buy anything?
+
+[06312.008]
+General Store
+
+[06312.009]
+General Store
+
+[06312.010]
+Oh, welcome!
+
+[06312.011]
+Outfitter
+
+[06312.012]
+Hey there! Buy something, will you!
+
+[06312.013]
+Thanks!
+
+[06312.014]
+Not buying a thing? It's a hard world!
+
+[06312.015]
+Outfitter
+
+[06312.016]
+Outfitter
+
+[06312.017]
+Hey there! Full of energy as always!
+
+[06312.018]
+General Store
+
+[06312.019]
+Hey! You mustn't touch the goods without asking!
+
+[06312.021]
+This waterwheel seems to grind the flour.
+
+[06312.023]
+An important waterwheel that keeps Cresta's kitchens going. Better leave it alone.
+
+[06312.025]
+It says "Miso from Aquaveil: 298 Gald a bag".
+
+[06312.027]
+Miso soup is apparently a typical home dish of the Aquaveil region.
+
+[06312.028]
+Have a safe journey.
+
+[06312.029]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06312.030]
+Will you stay the night?
+
+[06312.032]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06312.033]
+Please rest well.
+
+[06312.034]
+Good morning.
+
+[06312.035]
+You do not have enough money.
+
+[06312.036]
+We look forward to seeing you again.
+
+[06312.041]
+Obtained {16:25 CA}.
+
+[06312.043]
+Obtained {08:FF FF FF FF}.
+
+[06312.045]
+Found {16:25 D2}, but you can carry no more.
+
+[06312.047]
+There is nothing here.
+

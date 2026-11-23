@@ -1,0 +1,24 @@
+[00356.001]
+My, {NAME:02 00 00 00}, you really do have the whitest skin. Me, I'm baked brown by the Calvalese sun.
+
+[00356.002]
+Oh no...... I'm the one who can do nothing alone... If only I could be strong like you, {NAME:05 00 00 00}...
+
+[00356.003]
+What are you saying? Get strong and your hero has nothing to do.
+
+[00356.004]
+Hm? What, what?
+
+[00356.005]
+No need to rush into being strong. You're not alone, after all.
+
+[00356.006]
+Yes... that's true...
+
+[00356.007]
+Hey? What, what?
+
+[00356.008]
+Girl talk, secret★
+

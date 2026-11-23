@@ -1,0 +1,18 @@
+[00942.001]
+Getting to see the Hero King this easily, we're doing pretty well, aren't we?
+
+[00942.002]
+No... that was down to Dad and Mom. It doesn't mean we've been recognized ourselves.
+
+[00942.003]
+Oh! What's this, {NAME:01 00 00 00}. You're awfully cool about it. Usually you'd be the first to get carried away...
+
+[00942.004]
+Heheh! I've done some growing up on the road... or rather, I feel as if somebody told me something like that long ago.
+
+[00942.005]
+Hmm... Well, I hope you get recognized for yourself one day.
+
+[00942.006]
+Yes!
+

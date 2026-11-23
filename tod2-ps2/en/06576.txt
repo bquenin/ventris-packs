@@ -1,0 +1,498 @@
+[06576.001]
+The Radisrol
+
+[06576.002]
+The Radisrol
+
+[06576.004]
+The refugees' sundries. Every one of them is worn with use.
+
+[06576.006]
+Sundries used until they are falling apart stand in rows.
+
+[06576.008]
+A sack of food. Inside were moldy bread and vegetables.
+
+[06576.010]
+A store of food. But it looks as if it will soon run out.
+
+[06576.012]
+Supplies that were loaded on the Radisrol. It seems the Surface Army rebuilt its forces with them.
+
+[06576.014]
+One crate is marked "For Dycroft". These supplies must have been meant to be sent there.
+
+[06576.016]
+Broken sundries, no longer usable. They will be mended later and used again, no doubt.
+
+[06576.017]
+Old Man
+
+[06576.018]
+If the Surface Army should lose this war, what would become of the world?
+
+[06576.019]
+Old Man
+
+[06576.020]
+Will we die still under the rule of the Heavenly Army?
+
+[06576.021]
+Old Man
+
+[06576.022]
+I have few years left anyway. I can die any time. But the children...
+
+[06576.023]
+Old Man
+
+[06576.024]
+Word is that the enemy's chief, Miktran, is a man with neither blood nor tears.
+
+[06576.025]
+Old Man
+
+[06576.026]
+If the final battle is lost, will Belcrant burn us all to death?
+
+[06576.027]
+Old Man
+
+[06576.028]
+For now we can only believe in victory.
+
+[06576.029]
+Old Man
+
+[06576.030]
+But when I think of what happens if we lose, I am too afraid to sleep at night.
+
+[06576.031]
+Auntie
+
+[06576.032]
+We grown-ups are quite used to living as refugees by now, but I do pity the growing children.
+
+[06576.033]
+Auntie
+
+[06576.034]
+Shut up in a cramped place like this, with no friends and nothing to eat.
+
+[06576.035]
+Auntie
+
+[06576.036]
+So you people, at least be someone for the children to talk to.
+
+[06576.037]
+Auntie
+
+[06576.038]
+That Miktran, they say he staged a coup because he wanted power.
+
+[06576.039]
+Auntie
+
+[06576.040]
+Being killed by a man like that? No, thank you.
+
+[06576.041]
+Auntie
+
+[06576.042]
+Those children say they want to be soldiers, but I can't go along with that.
+
+[06576.043]
+Auntie
+
+[06576.044]
+If we could do without soldiers, so much the better. Then my son, too...
+
+[06576.045]
+Auntie
+
+[06576.046]
+My husband and my son will never come home now.
+
+[06576.047]
+Auntie
+
+[06576.048]
+Even when the war ends, the memory of the war will never fade.
+
+[06576.049]
+Old Woman
+
+[06576.050]
+Aah!? Y-you!
+
+[06576.052]
+Hm? What is it, ma'am?
+
+[06576.053]
+Old Woman
+
+[06576.054]
+Oh... I-I'm sorry. You looked just like my dead grandson...
+
+[06576.055]
+Old Woman
+
+[06576.056]
+My grandson went home to Speranza, and Belcrant fired on it, and he died.
+
+[06576.057]
+Old Woman
+
+[06576.058]
+I remember his charred body clearly even now...
+
+[06576.059]
+Old Woman
+
+[06576.060]
+The world is like hell. I wish the god Atamoni would do something about it.
+
+[06576.062]
+The god Atamoni...?
+
+[06576.063]
+Old Woman
+
+[06576.064]
+A god of the local faith. A beautiful goddess, they say.
+
+[06576.065]
+Old Woman
+
+[06576.066]
+Oh, god, god, Lady Atamoni, end the war soon and make the world better.
+
+[06576.067]
+Instructor
+
+[06576.068]
+When we fall, your generation will take up the sword!
+
+[06576.069]
+Instructor
+
+[06576.070]
+And you in turn will hand on your pride to your own children!
+
+[06576.071]
+Child A
+
+[06576.072]
+{05:90 01 00 00}Sir! Yes, sir!
+
+[06576.073]
+Child B
+
+[06576.074]
+{05:90 01 00 00}Sir! Yes, sir!
+
+[06576.075]
+Child C
+
+[06576.076]
+{05:90 01 00 00}Sir! Yes, sir!
+
+[06576.077]
+Instructor
+
+[06576.078]
+From tomorrow we begin basic fitness training!
+
+[06576.079]
+Instructor
+
+[06576.080]
+Work hard and become full-fledged soldiers soon!
+
+[06576.081]
+Instructor
+
+[06576.082]
+The enemy will not spare you because you are boy soldiers!
+
+[06576.083]
+Instructor
+
+[06576.084]
+Beat the enemy! Beat the enemy! To protect your comrades, your families and the army!
+
+[06576.085]
+Child A
+
+[06576.086]
+{05:90 01 00 00}Sir! Yes, sir!
+
+[06576.087]
+Child B
+
+[06576.088]
+{05:90 01 00 00}Sir! Yes, sir!
+
+[06576.089]
+Child C
+
+[06576.090]
+{05:90 01 00 00}Sir! Yes, sir!
+
+[06576.091]
+Instructor
+
+[06576.092]
+You are placed under the army's charge as officer cadets!
+
+[06576.093]
+Instructor
+
+[06576.094]
+Work hard and become full-fledged soldiers soon!
+
+[06576.095]
+Girl
+
+[06576.096]
+Everyone is so tired. We may be at the limit of keeping this life up.
+
+[06576.097]
+Girl
+
+[06576.098]
+If the war isn't ended soon, we'll fall apart from within.
+
+[06576.099]
+Girl
+
+[06576.100]
+I hear the food stores won't last even another month.
+
+[06576.101]
+Girl
+
+[06576.102]
+Even if we win the war, it's no use if we can't go on living.
+
+[06576.103]
+Girl
+
+[06576.104]
+The Radisrol was a transport to begin with, you know.
+
+[06576.105]
+Girl
+
+[06576.106]
+A great deal of supplies was left in it, and that is how the Surface Army has fought on until now.
+
+[06576.107]
+Girl
+
+[06576.108]
+Only, it isn't a warship, so it carries no arms at all.
+
+[06576.109]
+Girl
+
+[06576.110]
+So we can't attack from our side.
+
+[06576.111]
+Accessory Shop
+
+[06576.112]
+Is there something you need?
+
+[06576.113]
+Accessory Shop
+
+[06576.114]
+Thank you very much.
+
+[06576.115]
+Chef
+
+[06576.116]
+Been making {16:34 7C}?
+
+[06576.117]
+Chef
+
+[06576.118]
+Would you like to know how to make {16:34 7C}?
+
+[06576.120]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06576.121]
+Chef
+
+[06576.122]
+I'll teach you how to make {16:34 7C}.
+
+[06576.123]
+Chef
+
+[06576.124]
+Going to make it yourself? Well, that's fine too.
+
+[06576.125]
+Chef
+
+[06576.126]
+I have the recipe for {16:34 7C}. Will you buy it for {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald?
+
+[06576.128]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06576.129]
+Chef
+
+[06576.130]
+You don't have enough money.
+
+[06576.131]
+Chef
+
+[06576.132]
+I'll sell you the recipe for {16:34 7C}.
+
+[06576.133]
+Chef
+
+[06576.134]
+Well, it can't be helped.
+
+[06576.135]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06576.136]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.137]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.138]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.139]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.140]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06576.141]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.142]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.143]
+Chef
+
+[06576.144]
+To make {16:34 7C} you need:
+{18:44 78}
+
+[06576.145]
+Chef
+
+[06576.146]
+Why, you have the ingredients.
+
+[06576.147]
+Chef
+
+[06576.148]
+Let me have them and I'll make {16:34 7C}. How about it?
+
+[06576.150]
+{03:00 00 00 00}　Yes
+　No
+
+[06576.151]
+Chef
+
+[06576.152]
+All right, wait there. I'll make you {16:34 7C} right away.
+
+[06576.153]
+Chef
+
+[06576.154]
+That's a shame. It's really delicious...
+
+[06576.155]
+Chef
+
+[06576.156]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06576.157]
+Chef
+
+[06576.158]
+You are not worthy. Come back another time.
+
+[06576.159]
+Chef
+
+[06576.160]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06576.162]
+Picked up the recipe for {16:34 7C}.
+
+[06576.164]
+Learned how to make {16:34 90}.
+
+[06576.165]
+Have a safe journey.
+
+[06576.166]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06576.167]
+Will you stay the night?
+
+[06576.169]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06576.170]
+Please rest well.
+
+[06576.171]
+Good morning.
+
+[06576.172]
+You do not have enough money.
+
+[06576.173]
+We look forward to seeing you again.
+
+[06576.178]
+Obtained {16:25 DE}.
+
+[06576.180]
+Obtained {08:FF FF FF FF}.
+
+[06576.182]
+Found {16:25 E6}, but you can carry no more.
+
+[06576.184]
+There is nothing here.
+

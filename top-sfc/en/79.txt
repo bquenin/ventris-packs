@@ -1,0 +1,242 @@
+[79.000]
+{アーチェ}
+"{クレス}, here we go!"
+
+[79.001]
+{アーチェ}
+"We did it!"
+
+[79.002]
+{アーチェ}
+"No good. Shall we try again?"
+
+[79.003]
+{クラース}
+"The door opens while someone stands on this switch, I take it? I shall stand on it here, so why not go on ahead?"{PAGE}
+
+
+[79.004]
+{COLOR:03}Who will you have stand on it?
+　1. {クラース}
+　2. {ミント}
+　3. {アーチェ}{COLOR:02}
+
+[79.005]
+"Ah!"
+
+[79.006]
+Dhaos's Castle
+
+[79.007]
+"It says 'Reverse'."
+
+[79.008]
+"It says 'Up down right left down up'."
+
+[79.009]
+{クレス}
+"The hand mirror and the mirror are reflecting each other..."
+
+[79.010]
+{クレス}
+"The hand mirror is glowing...{PAGE}
+Enemies, out of the mirror!!"
+
+[79.011]
+{クレス}
+"The hand mirror and the mirror are reflecting each other..."
+
+[79.012]
+{クレス}
+"The hand mirror and the mirror are reflecting each other..."
+
+[79.013]
+{クレス}
+"Let's try once more."
+
+[79.014]
+{クレス}
+"Is this the same writing as on the tablet in the Moria Mine?{PAGE}
+...{アーチェ}, can you read it?"
+
+[79.015]
+{アーチェ}
+"It says to press the matching switches on left and right at the same time, starting from the bottom."{PAGE}
+{クレス}
+"Eh?"{PAGE}
+
+
+[79.016]
+{アーチェ}
+"{クレス}, do it with me."
+
+[79.017]
+"I'll use the Golden Key."
+
+[79.018]
+"It's locked..."
+
+[79.019]
+{ミント}
+"This is... the crest of the Seal of Four Quarters and Eight Gates."{PAGE}
+{クレス}
+"?"{PAGE}
+{ミント}
+"It is a seal whose key is four people facing the four quarters and concentrating."
+
+[79.020]
+{クラース}
+"The crest of the Seal of Four Quarters and Eight Gates is carved on this door. It is a seal whose key is four people facing the four quarters and concentrating."
+
+[79.021]
+{クレス}
+"It's open!"
+
+[79.022]
+{クラース}
+"The crest of the Seal of Four Quarters and Eight Gates...!"{PAGE}
+{クレス}
+"?"{PAGE}
+{クラース}
+"It is a seal whose key is four people facing the four quarters and concentrating."
+
+[79.023]
+It reads: "Mirror facing mirror, the way shall open."
+
+[79.024]
+{COLOR:03}Received {STR:CC0C}.{COLOR:02}
+
+[79.025]
+{COLOR:03}Received {STR:2C0C}.{COLOR:02}
+
+[79.026]
+{COLOR:03}Received {STR:2D0C}.{COLOR:02}
+
+[79.027]
+{COLOR:03}Received {STR:CE0B}.{COLOR:02}
+
+[79.028]
+"The flowers in this vase are medicinal herbs."{PAGE}
+{COLOR:03}Received {STR:AC0C} and {STR:AD0C}.{COLOR:02}
+
+[79.029]
+{COLOR:03}Received {STR:2D0C}.{COLOR:02}
+
+[79.030]
+{COLOR:03}Received {STR:2C0C}.{COLOR:02}
+
+[79.031]
+{COLOR:03}There is a hidden switch. Press it?{COLOR:02}
+
+[79.032]
+{COLOR:03}There is a hidden switch. Press it?{COLOR:02}
+
+[79.033]
+{クレス}
+"Hm? I feel we're one short..."
+
+[79.034]
+{クレス}
+"Below here, I think, is..."{PAGE}
+{ミント}
+"Yes, it is! {アーチェ} could..."{PAGE}
+{クレス}
+"{アーチェ}, {アーチェ}!"{PAGE}
+{アーチェ}
+"Who's that calling from up there?"{PAGE}
+{クレス}
+"Come up on your broom!!"
+
+[79.035]
+{クレス}
+"What a huge hole. It seems to be open all the way up from the floor below."
+
+[79.036]
+"I cannot let you have this treasure for nothing.{PAGE}
+It is in exchange for your soul!!"
+
+[79.037]
+{クレス}
+"Dhaos, we've found you at last!!{PAGE}
+Prepare yourself! We settle everything here!!"{PAGE}
+Dhaos
+"{SPEED:10}...{SPEED:00}"{PAGE}
+{クレス}
+"What's the matter, lost your nerve!?"{PAGE}
+Dhaos
+"I have no reason to fight you. Why do you turn your swords on me?"{PAGE}
+{クレス}
+"You may not have one, but we do!"
+
+[79.038]
+Dhaos
+"Absurd! So you too are no more than the minions of Midgards.{PAGE}
+Sparks that fall on me must be brushed away."{PAGE}
+{クレス}
+"Dhaos, prepare yourself!!"
+
+[79.039]
+{クレス}
+"He got away{SPEED:10}...{SPEED:FF} Damn it!!"{PAGE}
+{ミント}
+"{クレス}... What are we to do?"
+
+[79.040]
+{クラース}
+"{SPEED:10}...{SPEED:FF}There is no use staying here for ever. Let us go back."
+
+[79.041]
+"You shall not lay one finger on Lord Dhaos!!!"
+
+[79.042]
+{アーチェ}
+"Oh, what are you doing? We've got to press the buttons at the same time."
+
+[79.043]
+{ミント}
+"Will you change places with someone?"{PAGE}
+
+
+[79.044]
+　1. {クラース}
+　2. {ミント}
+　3. {アーチェ}
+　4. Put no one on the switch.
+
+[79.045]
+{アーチェ}
+"Changing places with someone?"{PAGE}
+
+
+[79.046]
+{クラース}
+"Will you change places with someone?"{PAGE}
+
+
+[79.047]
+"This is... a spellbook!"{PAGE}
+
+
+[79.048]
+{COLOR:03}{アーチェ} learned {STR:DE07}.{COLOR:02}
+
+[79.049]
+"But it's no use my holding on to it. I'll put it back."
+
+[79.050]
+"This is... a spellbook!"{PAGE}
+
+
+[79.051]
+{COLOR:03}{アーチェ} learned {STR:E007}.{COLOR:02}
+
+[79.052]
+"But it's no use my holding on to it. I'll put it back."
+
+[79.053]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+A storied war
+~The Valhalla Campaign~{PAGE}
+A man who was meant to matter{PAGE}
+Edward D. Morrison
+

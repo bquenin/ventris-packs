@@ -1,0 +1,42 @@
+[06266.4788]
+Green Slime
+
+[06266.4805]
+Bean
+
+[06266.4814]
+Miracle Gel
+
+[06266.4827]
+Tuna Gel
+
+[06266.4838]
+Oberonamin
+
+[06266.4851]
+Special Gel
+
+[06266.4866]
+Wonderful Gel
+
+[06266.4881]
+Ultra Gel
+
+[06266.4894]
+Know what this is?
+
+[06266.4919]
+Well spotted.
+
+[06266.4934]
+Are you mocking me?
+
+[06266.4955]
+Naive.
+
+[06266.4964]
+No such gel.
+
+[06266.4981]
+Is that all you have?
+

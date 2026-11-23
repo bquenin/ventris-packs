@@ -1,0 +1,9 @@
+[00764.001]
+Commander-in-Chief Litler knows how to do a thing with style. That's what you call "a big-hearted man". Learn from him, {NAME:03 00 00 00}.
+
+[00764.002]
+Dummy! No man is bigger-hearted than me. Any time, any hour, whatever kind of beauty comes, there's room for as many as you like!
+
+[00764.003]
+That's not big-hearted, it's "no standards"!
+

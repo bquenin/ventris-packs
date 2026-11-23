@@ -1,0 +1,73 @@
+[06623.001]
+Altar of Darkness
+
+[06623.002]
+Catacombs: Altar of Darkness
+
+[06623.003]
+Catacombs
+
+[06623.005]
+There is writing on the stone tablet.
+
+[06623.007]
+1: Suffer in "sin"
+2: Receive "punishment"
+3: Meet "death"
+4: Fall into "darkness"
+
+[06623.009]
+Used the Sorcerer's Scope and found hidden writing.
+
+[06623.011]
+1: Fall into "darkness"
+2: Receive "punishment"
+3: Atone for "sin"
+4: Meet "death"
+
+[06623.013]
+Used the Sorcerer's Scope and found hidden writing.
+
+[06623.015]
+1: Fall into "darkness"
+2: Receive "punishment"
+3: Atone for "sin"
+4: Meet "death"
+
+[06623.016]
+Have a safe journey.
+
+[06623.017]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06623.018]
+Will you stay the night?
+
+[06623.020]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06623.021]
+Please rest well.
+
+[06623.022]
+Good morning.
+
+[06623.023]
+You do not have enough money.
+
+[06623.024]
+We look forward to seeing you again.
+
+[06623.029]
+Obtained {16:27 4A}.
+
+[06623.031]
+Obtained {08:FF FF FF FF}.
+
+[06623.033]
+Found {16:27 52}, but you can carry no more.
+
+[06623.035]
+There is nothing here.
+

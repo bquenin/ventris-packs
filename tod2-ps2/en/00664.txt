@@ -1,0 +1,21 @@
+[00664.001]
+Sigh~, back from a wrecked Supply Depot to a base full of nothing but men... It's got no sweetness, none.
+
+[00664.002]
+Sweetness?
+
+[00664.003]
+Yeah, I know this is a battlefield. But... no, that's exactly why there's a thing you need. Yes, and it is...
+
+[00664.004]
+And it is?
+
+[00664.005]
+Well, I mean... {NAME:15 27 00 00}-{NAME:05 00 00 00}, ma'am!? Why might you be cracking your knuckles!?
+
+[00664.006]
+Oh, I just thought what you're short of might be a massage!
+
+[00664.007]
+Wait, {NAME:05 00 00 00}! Yours is no massage, it's a joint lo...... Gah!
+

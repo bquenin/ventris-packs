@@ -1,0 +1,45 @@
+[00600.001]
+What's up, {NAME:01 00 00 00}? Why the gloomy face? If something's troubling you, tell big brother {NAME:03 00 00 00}, rich in life experience!
+
+[00600.002]
+...Say, {NAME:03 00 00 00}. What do you make of {NAME:02 00 00 00} lately?
+
+[00600.003]
+Oh, love trouble? That's my specialty. Listen, {NAME:01 00 00 00}, I bet {NAME:02 00 00 00} is...
+
+[00600.004]
+She has made up her mind, in her own way.
+
+[00600.005]
+Hey, {NAME:04 00 00 00}, don't butt in. It's me {NAME:01 00 00 00} is asking!
+
+[00600.006]
+"Made up her mind"... What do you mean?
+
+[00600.007]
+To live as a Saint. To accept you as her hero and live at your side. It has all turned out as you wished.
+
+[00600.008]
+Has it... I wonder?
+
+[00600.009]
+What are you talking about? You went on and on about "I want to be a hero".
+
+[00600.010]
+Yeah, but... something's off. ...How do I put it... {NAME:02 00 00 00} now looks like nothing that happened would surprise her. And that's just not like {NAME:02 00 00 00}...
+
+[00600.011]
+Huh? That sounds just like {NAME:04 00 00 00}.
+
+[00600.012]
+...That may well be so. In her own way, she may be trying to throw something away...
+
+[00600.013]
+Throw away... what?
+
+[00600.014]
+That...... think for yourself.
+
+[00600.015]
+Reala...
+

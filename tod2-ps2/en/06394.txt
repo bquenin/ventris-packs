@@ -1,0 +1,1062 @@
+[06394.001]
+Aigrette Harbor
+
+[06394.002]
+Aigrette Harbor
+
+[06394.003]
+Aigrette Harbor
+
+[06394.004]
+Aigrette Harbor
+
+[06394.005]
+Ticket Seller
+
+[06394.006]
+Tickets for the regular ship are sold out.
+
+[06394.007]
+Ticket Seller
+
+[06394.008]
+This is the landing.
+
+[06394.009]
+Ticket Seller
+
+[06394.010]
+I'm very sorry, but tickets for the regular ship are sold out.
+
+[06394.011]
+Ticket Seller
+
+[06394.012]
+Please wait for the next sailing.
+
+[06394.013]
+Ticket Seller
+
+[06394.014]
+This is the landing.
+
+[06394.015]
+Ticket Seller
+
+[06394.016]
+From here you can go to Cherik. Will you board the ship?
+
+[06394.018]
+{03:00 00 00 00}　Go to Cherik ({0B:01 00 00 00}{14:24 6C}{0B:00 00 00 00} Gald)　
+　Don't board　
+
+[06394.019]
+Ticket Seller
+
+[06394.020]
+Hey, hey, you don't have enough money. Give me a break, customer!
+
+[06394.021]
+Ticket Seller
+
+[06394.022]
+From here you can go to Cherik. Will you board the ship?
+
+[06394.024]
+{03:00 00 00 00}　Go to Cherik　
+　Don't board　
+
+[06394.025]
+Ticket Seller
+
+[06394.026]
+You sure, customer? If you don't hurry, the ship will leave!
+
+[06394.028]
+King Woodrow... I wonder what kind of person he is!?
+
+[06394.030]
+Well, he's called the Hero King. He's no ordinary man, that's for sure.
+
+[06394.032]
+I hope this time he's a real hero...
+
+[06394.034]
+You'll know when you meet him. More to the point, don't you need to buy tickets?
+
+[06394.036]
+Ah, I completely forgot! Let's go buy them quick!
+
+[06394.037]
+Ticket Seller
+
+[06394.039]
+Mister, tickets for the regular ship to Snowfria, please. Four in all!
+
+[06394.040]
+Right, four of you! That'll be 400 Gald. All right?
+
+[06394.042]
+{03:00 00 00 00}　Board the ship　
+　Don't board　
+
+[06394.043]
+Thanks for your business! You were in luck, customer. That's the last of them for this sailing.
+
+[06394.045]
+Really!? All right, lucky! Maybe this is a sign something good's about to happen!
+
+[06394.046]
+Hey, hey, you don't have enough money. Give me a break, customer!
+
+[06394.048]
+I will pay.
+
+[06394.049]
+Ticket Office
+
+[06394.051]
+Hey, mister, are there any tickets left for the ship to Cherik? If so, I'd like three.
+
+[06394.052]
+To Cherik. Three tickets will be {0B:01 00 00 00}{14:24 6C}{0B:00 00 00 00} Gald.
+
+[06394.054]
+{03:00 00 00 00}　Board the ship　
+　Don't board　
+
+[06394.055]
+It seems you do not have enough money.
+
+[06394.057]
+I'll pay.
+
+[06394.058]
+Ticket Seller
+
+[06394.059]
+By the way, do you people seriously intend to go to Calvalese?
+
+[06394.061]
+Yeah, that's the plan... Is something wrong?
+
+[06394.062]
+Ticket Seller
+
+[06394.063]
+Well, around there are many rough people who do not follow the will of Fortuna.
+
+[06394.064]
+Ticket Seller
+
+[06394.065]
+Do take great care. May God protect you...
+
+[06394.067]
+Rough... does he mean {NAME:05 00 00 00} and her people? That's pretty rude of him!
+
+[06394.069]
+It's fine, {NAME:01 00 00 00}. Let him say what he likes.
+
+[06394.071]
+People who can't move without this "will of God" can say what they want. I don't care.
+
+[06394.073]
+Never mind that, the ship's about to sail. Come on, let's hurry.
+
+[06394.074]
+Sailor
+
+[06394.075]
+I guess I'm a man of the sea through and through. Gah ha ha!
+
+[06394.076]
+Sailor
+
+[06394.077]
+I'm off work today, but somehow my feet just carried me to the harbor.
+
+[06394.078]
+Sailor
+
+[06394.079]
+I guess I'm a man of the sea through and through. Gah ha ha!
+
+[06394.080]
+Sailor
+
+[06394.081]
+Whoa, if you want to board the ship, buy a ticket!
+
+[06394.082]
+Sailor
+
+[06394.083]
+Do that and the open sea is yours!
+
+[06394.084]
+Sailor
+
+[06394.085]
+Kid, did you enjoy the voyage? The sea's great! Everything about it is grand!
+
+[06394.086]
+Sailor
+
+[06394.087]
+Every voyage begins at the harbor!
+
+[06394.088]
+Sailor
+
+[06394.089]
+You boys are really cut out to be sailors. Young, strong-looking, and those sweeet faces...♪
+
+[06394.090]
+Youth
+
+[06394.091]
+That sturdy build! And those sweet faces! You boys are just the thing~♪
+
+[06394.093]
+Wh-what, what?
+
+[06394.094]
+Youth
+
+[06394.095]
+You boys are really cut out to be sailors. Young, strong-looking, and those sweeet faces...♪
+
+[06394.097]
+What do sweet faces have to do with being a sailor...
+
+[06394.098]
+Youth
+
+[06394.099]
+The sea is beautiful. And I'm just as beautiful, aren't I?
+
+[06394.100]
+Youth
+
+[06394.101]
+I love the sea, but the sea breeze roughens my skin, and that won't do.
+
+[06394.102]
+Youth
+
+[06394.103]
+Rough seas are a problem, but rough skin is a problem too...
+
+[06394.104]
+Youth
+
+[06394.105]
+Somewhere in the world there must be a gentle man who will hold me warmly in his arms...★
+
+[06394.106]
+Youth
+
+[06394.107]
+You're travelers, aren't you? Why are you traveling?
+
+[06394.109]
+I had a feeling something was waiting for me somewhere, so I decided to go and look for it.
+
+[06394.110]
+Youth
+
+[06394.111]
+Then you're the same as me★ I became a sailor to look for my ideal lover, too.
+
+[06394.113]
+No line.
+
+[06394.114]
+Old Guy
+
+[06394.115]
+Now then, what to do until the next voyage? Go eat something good? Or go looking for girls?
+
+[06394.116]
+Old Guy
+
+[06394.117]
+Now then, until the next sailing leaves, I'm going to let loose!
+
+[06394.118]
+Old Guy
+
+[06394.119]
+Once you set out on a voyage, you're at sea for a good while. So on land you play hard.
+
+[06394.120]
+Old Guy
+
+[06394.121]
+A man of the sea has the best life. Every country you visit, a new romance blooms. That's the real joy of travel.
+
+[06394.122]
+Old Guy
+
+[06394.123]
+A man of the sea has the best life. Every country you visit, a new romance blooms. That's the real joy of travel.
+
+[06394.125]
+Oh! Found a guy just like {NAME:03 00 00 00}!
+
+[06394.127]
+Shut it!
+
+[06394.128]
+Old Guy
+
+[06394.129]
+Tears don't suit a man of the sea! So I'm not going to cry just because my girl dumped me.
+
+[06394.130]
+Old Guy
+
+[06394.131]
+Ugh, the sea breeze stings my eyes...
+
+[06394.132]
+Old Guy
+
+[06394.133]
+Ahaha... Tears don't suit a man of the sea. Don't you think?
+
+[06394.135]
+I see... He got his heart broken. Let's leave him be, {NAME:01 00 00 00}.
+
+[06394.136]
+Sailor
+
+[06394.137]
+May the next voyage be a safe one...
+
+[06394.138]
+Please watch over our ship...
+
+[06394.139]
+I hear the Algernon has gone missing.
+
+[06394.140]
+The captain of that ship was an unbeliever who made light of Lady Fortuna's majesty.
+
+[06394.141]
+He got what he deserved.
+
+[06394.142]
+We must take care not to make the same mistake...
+
+[06394.143]
+Ticket Seller
+
+[06394.144]
+Please buy a ticket before boarding.
+
+[06394.145]
+Chef
+
+[06394.146]
+Been making {16:34 84}?
+
+[06394.147]
+Chef
+
+[06394.148]
+Would you like to know how to make {16:34 84}?
+
+[06394.150]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06394.151]
+Chef
+
+[06394.152]
+I'll teach you how to make {16:34 84}.
+
+[06394.153]
+Chef
+
+[06394.154]
+Going to make it yourself? Well, that's fine too.
+
+[06394.155]
+Chef
+
+[06394.156]
+I have the recipe for {16:34 84}. Will you buy it for {0B:01 00 00 00}{14:34 7C}{0B:00 00 00 00} Gald?
+
+[06394.158]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06394.159]
+Chef
+
+[06394.160]
+You don't have enough money.
+
+[06394.161]
+Chef
+
+[06394.162]
+I'll sell you the recipe for {16:34 84}.
+
+[06394.163]
+Chef
+
+[06394.164]
+Well, it can't be helped.
+
+[06394.165]
+{16:24 88}, {16:24 8A}, {16:24 8C}
+
+[06394.166]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.167]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.168]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.169]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.170]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}
+
+[06394.171]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.172]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.173]
+Chef
+
+[06394.174]
+To make {16:34 84} you need:
+{18:44 80}
+
+[06394.175]
+Chef
+
+[06394.176]
+Why, you have the ingredients.
+
+[06394.177]
+Chef
+
+[06394.178]
+Let me have them and I'll make {16:34 84}. How about it?
+
+[06394.180]
+{03:00 00 00 00}　Yes
+　No
+
+[06394.181]
+Chef
+
+[06394.182]
+All right, wait there. I'll make you {16:34 84} right away.
+
+[06394.183]
+Chef
+
+[06394.184]
+That's a shame. It's really delicious...
+
+[06394.185]
+Chef
+
+[06394.186]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06394.187]
+Chef
+
+[06394.188]
+You are not worthy. Come back another time.
+
+[06394.189]
+Chef
+
+[06394.190]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06394.192]
+Picked up the recipe for {16:34 84}.
+
+[06394.194]
+Learned how to make {16:34 98}.
+
+[06394.195]
+Have a safe journey.
+
+[06394.196]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06394.197]
+Will you stay the night?
+
+[06394.199]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06394.200]
+Please rest well.
+
+[06394.201]
+Good morning.
+
+[06394.202]
+You do not have enough money.
+
+[06394.203]
+We look forward to seeing you again.
+
+[06394.208]
+Obtained {16:25 E6}.
+
+[06394.210]
+Obtained {08:FF FF FF FF}.
+
+[06394.212]
+Found {16:25 EE}, but you can carry no more.
+
+[06394.214]
+There is nothing here.
+
+[06394.215]
+Veteran
+
+[06394.216]
+Rookie
+
+[06394.218]
+They seem to be talking about "weapon attacks". Listen in?
+
+[06394.219]
+Well, we're about to start adventuring ourselves. Have you got the basics down?
+
+[06394.220]
+You bet! I attack like crazy with {09:45 00 00 00}!!
+
+[06394.221]
+True, but combine it with the directional keys {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00} and {09:17 00 00 00}, and you get four kinds of attack!
+
+[06394.222]
+Start by actually trying each a few times, and learn their speed and reach.
+
+[06394.223]
+How do I attack several times in a row?
+
+[06394.224]
+Just press {09:45 00 00 00} again during an attack. And of course the directional keys {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00} and {09:17 00 00 00} change the attack.
+
+[06394.225]
+Attacking drains the Spirits gauge. (SP: the {04:01 00 00 00}blue gauge{04:07 00 00 00} in battle.) When it gets too low, hold off attacking and wait for it to recover.
+
+[06394.226]
+Why? Just keep on attacking!
+
+[06394.227]
+Because when the Spirits gauge is low, your accuracy and evasion drop. You can end up worse off. Be careful.
+
+[06394.228]
+A successful guard recovers a lot of SP, so guarding with {09:47 00 00 00} matters too.
+
+[06394.230]
+They seem to be talking about "artes". Listen in?
+
+[06394.231]
+Well? Now that you've learned artes, you've more room for strategy, haven't you?
+
+[06394.232]
+Artes {09:46 00 00 00} are strong, but my TP's gone in no time. It comes back by itself in battle, but I'm still puny, so it's slow.
+
+[06394.233]
+Quite so. That is where normal attacks with {09:45 00 00 00} come in. Each normal attack that hits recovers 1 TP.
+
+[06394.234]
+Then it's normal attacks {09:45 00 00 00} like crazy!
+
+[06394.235]
+...Having TP left over is a waste as well. Using it well is what matters, for instance casting spells to let your SP recover.
+
+[06394.236]
+TP also recovers a little when you defeat an enemy. And if you defeat several at once during a combo, you recover more TP.
+
+[06394.238]
+They seem to be talking about "Enchants". Listen in?
+
+[06394.239]
+I learned an Enchant too.
+
+[06394.240]
+...So what's an Enchant?
+
+[06394.241]
+Hm. Put simply, it's "the ability to customize the artes and spells you've learned to your own taste".
+
+[06394.242]
+First, keep using an arte to raise its use count! Then you'll be able to equip all sorts of Enchants.
+
+[06394.243]
+Then I'll use one arte like crazy!
+
+[06394.244]
+That is one way. But Enchants can't be changed during battle. Putting a variety of Enchants on many artes isn't a bad idea either.
+
+[06394.245]
+Cast a spell that lowers the enemy's abilities, then cut in with your weapon... Master artes and spells and your strategy widens. ...Friends can cover for one another, too.
+
+[06394.246]
+By the way, take an equipped Enchant off and the use count comes back, so you'd do well to try all sorts.
+
+[06394.247]
+My favorite arte doesn't hit much, so I'll put on an accuracy Enchant to make up for it.
+
+[06394.248]
+...In your case you're simply swinging at thin air. A miss doesn't add to the use count, so it's a waste!
+
+[06394.249]
+And healing spells only gain use count "when cast on a target at 50% HP or less". Watch out!!
+
+[06394.250]
+True, using one on a scratch wouldn't teach you anything.
+
+[06394.252]
+They seem to be talking about "battle strategies". Listen in?
+
+[06394.253]
+Let's settle our strategies so we can deal with any enemy we meet! What do you do when "an enemy with tough defense" shows up?
+
+[06394.254]
+Everybody casts spells like crazy!
+
+[06394.255]
+Spells aren't a bad idea, but if everyone's chanting, the enemy will clobber you as it pleases. Better to keep one fighter up front.
+
+[06394.256]
+And if "the enemy's rear guard uses powerful spells"?
+
+[06394.257]
+I learned that by heart yesterday. You use "Don't let them cast" and break up their chanting.
+
+[06394.258]
+That's about it.
+
+[06394.259]
+You can register up to three strategies at once. Switching between them in an instant during battle is a fine thing to see.
+
+[06394.260]
+Change how often you attack and how much you heal to suit each character's abilities and the enemy, and you can expect to fight more efficiently.
+
+[06394.262]
+They seem to be talking about "Technical Smash". Listen in?
+
+[06394.263]
+What's a Technical Smash?
+
+[06394.264]
+Hm. Land "a dazzling finishing blow" that even battle pros admire, and it is recognized as a Technical Smash.
+
+[06394.265]
+Defeat an enemy with a Technical Smash and, perhaps because it is so splendid, your chance of getting items shoots up. Or so everyone says.
+
+[06394.266]
+It must be true.
+
+[06394.267]
+They come out all the time with combos, or beating several at once!
+
+[06394.268]
+Hm. "Finishing with a combo" matters most. The moment you land the finisher, all the SP you spent on that combo comes back. Even after a long combo you can recover your footing.
+
+[06394.269]
+Then I'll save follow-up artes and such for finishers.
+
+[06394.270]
+If you are short of SP, that would be wise.
+
+[06394.271]
+The trouble with Action Enchants is that they use up SP, but making good use of the finisher is the road to mastery.
+
+[06394.273]
+They seem to be talking about "Spirits". Listen in?
+
+[06394.274]
+I attack, and the enemy just blocks everything!
+
+[06394.275]
+Enemies with high evasion are a nuisance. Hitting them with spells is one strategy, but some enemies are one-hit wonders that slash your Spirits in a single attack.
+
+[06394.276]
+Draw them into missing and the like to wear down their Spirits, and their evasion drops too... Aiming for that is another way.
+
+[06394.277]
+I use Press Guard with {09:47 00 00 00} and {09:1D 00 00 00} to knock their SP down on purpose.
+
+[06394.278]
+The trouble is you do it in the middle of their combos too. Press Guard is best used on the enemy's last attack. A Press Guard takes off as much as 20 SP. Read the enemy's attacks.
+
+[06394.279]
+With the enemy target display set to Custom, the brighter the cursor, the higher their SP. You can read an enemy's SP while you fight.
+
+[06394.281]
+They seem to be talking about "consecutive hits". Listen in?
+
+[06394.282]
+What's a consecutive hit?
+
+[06394.283]
+Damage an enemy again before it gets back into its fighting stance, and the hit count adds up and is shown.
+
+[06394.284]
+What happens if I land lots?
+
+[06394.285]
+Hm. Your highest hit count affects the experience you earn. For a splendid chain of attacks like that is experience beyond any other.
+
+[06394.286]
+For a higher hit count, working with your friends is essential. Apart from the hit count, each "different kind of attack" is added up as CHAIN.
+
+[06394.287]
+It's rough if you don't spend your SP cleverly.
+
+[06394.288]
+That's right. Join a chain of attacks with low SP and you'll only drag everyone down. Here too, the balance of spells and artes is what matters.
+
+[06394.290]
+They seem to be talking about "area of influence". Listen in?
+
+[06394.291]
+I thought attacking from behind the enemy would be an advantage, but somehow it wears me out.
+
+[06394.292]
+Hm. Fighting together with your friends is what gives you courage, Spirits included. So when the enemy splits you up, all kinds of recovery slow down, it seems.
+
+[06394.293]
+If you end up on the enemy's right side against your will, backstep with {09:47 00 00 00} + {09:19 00 00 00} to get back to the left.
+
+[06394.294]
+So I'd better not go round the back at all.
+
+[06394.295]
+By and large you can think of it that way. But once you learn to read the fight, you may be able to do work that makes up for the penalty.
+
+[06394.296]
+Theory isn't always right, after all.
+
+[06394.297]
+Once in a while you say something worth hearing.
+
+[06394.298]
+Too Veteran
+
+[06394.299]
+Son
+
+[06394.301]
+They seem to be talking about "status changes". Listen in?
+
+[06394.302]
+I've come down with a status ailment in battle. And not a Panacea Bottle to my name. Is this the end of me...?
+
+[06394.303]
+You mustn't give up, Father. Even if you get a status ailment in battle, it seems to wear off with time.
+
+[06394.304]
+Status ailments come in levels, so even gear that prevents them sometimes can't soften them enough, and they get through. We must be careful.
+
+[06394.305]
+Mmph... Must I go and fight again? It's hard on me...
+
+[06394.306]
+It's best to have food ready that cures status ailments, Father. I hear there are dishes and items that prevent them, too.
+
+[06394.307]
+Too late for that now! Poison {09:56 00 00 00}, paralysis {09:5F 00 00 00}, weakness {09:5A 00 00 00}, frozen, and slowed. I'm worn to a thread!
+
+[06394.308]
+You mustn't fib, Father. Only four status ailments can stay on one person at a time. And raising your abilities with an Enchant can even clear the poison.
+
+[06394.309]
+What's more, frozen and slowed are cured when the battle ends.
+
+[06394.310]
+So they are. And come to think of it, I was slow to begin with.
+
+[06394.311]
+Ha ha ha ha ha ha ha ha
+ha ha ha ha ha ha ha ha
+
+[06394.312]
+(Laughing rather too hard, I'd say...)
+
+[06394.313]
+Too Veteran
+
+[06394.314]
+Son
+
+[06394.316]
+They seem to be talking about "Spirits Blaster". Listen in?
+
+[06394.317]
+Even in a pinch, go Spirits Blaster and you've a chance to turn things around.
+
+[06394.318]
+If you want to go Spirits Blaster, Father, it helps to land attacks and not let the enemy guard them. Taking hits gets you there too, but that's dangerous for you, Father.
+
+[06394.319]
+Even with my strength gone, as a Spirits Blaster I can attack without flinching.
+
+[06394.320]
+Even so, Father, the effect ends when your HP runs out, and having healing magic cast on you makes it wear off sooner.
+
+[06394.321]
+I don't fuss over such trifles. My finest mystic arte can't be shown unless I'm a Spirits Blaster.
+
+[06394.322]
+No, Father. It's true mystic artes use a lot of SP, but it seems you can sometimes pull one off by using the SP that comes back when you defeat an enemy.
+
+[06394.323]
+Though they do say some archers can use the Spirits Blaster state to fire off a mystic arte in place of a follow-up spell, Father.
+
+[06394.324]
+Mind you, even when the arcane arte hits, you can't go on to the mystic arte unless the enemy is staggered. So with an arcane arte that launches them, it may not work on heavy foes.
+
+[06394.325]
+And so, let us be off at once, the two of us, to unleash our mystic artes.
+
+[06394.326]
+No, Father. I'm a spellcaster, so I don't use mystic artes.
+
+[06394.327]
+In fact, Father, SP drops to 0 after a mystic arte, so it gets terribly in the way. Please don't use a mystic arte when it won't even finish them off, Father.
+
+[06394.328]
+Because it gets in the way.
+
+[06394.329]
+(Once would have been enough, I'd say...)
+
+[06394.330]
+Too Veteran
+
+[06394.331]
+Son
+
+[06394.333]
+They seem to be talking about "Field of Effect". Listen in?
+
+[06394.334]
+The other day, that "Field of Effect" the enemy put out had me at my wits' end.
+
+[06394.335]
+FOE for short, Father. There are two main kinds: those that work on the enemies inside the area, and those that lower our abilities.
+
+[06394.336]
+When one of those comes out, is it all up with us?
+
+[06394.337]
+It's too soon to give up, Father. Some wear off with time, and some wear off as you pile up hits. And of course, they vanish when you land the finishing blow.
+
+[06394.338]
+If they put out one that works on us, would it be best to keep just one fighter up front and use spells?
+
+[06394.339]
+Yes, Father. But it still seems best to change strategy to suit the change of state. When it works on the enemy, Spectacles will tell you what it does.
+
+[06394.340]
+That aside, young people these days want to abbreviate anything and everything. It's a nuisance.
+
+[06394.341]
+(A bit late to say so, Father...)
+
+[06394.343]
+They seem to be talking about "Battle Grade". Listen in?
+
+[06394.344]
+So what's Battle Grade in the end?
+
+[06394.345]
+It tallies up all sorts of things you do in battle to measure "how well you fight", wasn't it, sir? The ratio of damage, misses, even using the same arte over and over all get judged.
+
+[06394.346]
+If you want a high score, aim for Technical Smashes, mix in your Enchants, and take as little damage as you can.
+
+[06394.347]
+Word is that using items, casting healing spells or changing equipment in battle is decidedly uncool.
+
+[06394.348]
+What's so good about it being high?
+
+[06394.349]
+That is under investigation, sir. Though some impudent people do say it is no use in this life...
+
+[06394.350]
+Well, don't think too hard about it. Just polish your own skills.
+
+[06394.351]
+Just what I'd expect of you, sir. I learn so much.
+
+[06394.353]
+They seem to be talking about "recovering". Listen in?
+
+[06394.354]
+When I get slammed into the ground, I go down.
+
+[06394.355]
+That is hard, sir. But if you press {09:47 00 00 00} at the very moment you touch the ground, you can recover, can't you?
+
+[06394.356]
+O-o-o-of course I knew that.
+
+[06394.357]
+Recovering cuts the time you spend down and, best of all, it's nice that it restores SP and TP, isn't it?
+
+[06394.358]
+O-o-o-o-of course I knew that.
+
+[06394.360]
+They seem to be talking about "battle difficulty". Listen in?
+
+[06394.361]
+What's the point of making battles harder?
+
+[06394.362]
+True, raising the battle difficulty won't bring peace to the world. But rumor has it the weapons and armor enemies drop get better.
+
+[06394.363]
+Then I'll crank it right up!
+
+[06394.364]
+But as you know, raising the difficulty raises the enemies' attack power and wits, and they use fearsome attacks they never use on normal difficulty. It's a hard choice, isn't it?
+
+[06394.365]
+In that case, NORMAL will do until I've brought peace to the world once.
+
+[06394.366]
+I don't quite follow what you mean, but you're quite right.
+
+[06394.367]
+SECOND is a moderate difficulty, so I feel I can recommend it if you want a bit more of a challenge.
+
+[06394.369]
+They seem to be deep in talk about "normal attacks". Listen in?
+
+[06394.370]
+I've got the hang of it, so lately for normal attacks I just keep hammering {09:45 00 00 00}.
+
+[06394.371]
+Hopeless. Utterly hopeless.
+
+[06394.372]
+The truth is, accuracy and damage drop somewhat on the second and third hits, but with the same attack repeated they drop even more.
+
+[06394.373]
+Whaat? Then what should I do?
+
+[06394.374]
+Hm. Building it as "{09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00}", that is, varying the combination, is the first step.
+
+[06394.375]
+What's the second step?
+
+[06394.376]
+{09:45 00 00 00}: attack and accuracy fall the most
+{09:17 00 00 00}{09:45 00 00 00}: attack up, accuracy down
+{09:19 00 00 00}{09:45 00 00 00}: attack down, accuracy up
+{09:16 00 00 00}{09:45 00 00 00}: attack and accuracy fall least
+
+[06394.377]
+Remember all that! Attacks with {09:45 00 00 00} cover a wide area and tend to hit easily, but in return they are not much use in a chain of attacks.
+
+[06394.378]
+This affects the next attack as well, so with "{09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}" and with "{09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}", the numbers for the third attack come out different.
+
+[06394.379]
+Then against enemies with high evasion I'll build from {09:19 00 00 00}{09:45 00 00 00}. And against enemies with low evasion I'll start from {09:17 00 00 00}{09:45 00 00 00}.
+
+[06394.380]
+As an example, that's the idea. Mind you, the differences are tiny, so if the other rules are all you can handle, there's no need to force yourself to learn this.
+
+[06394.382]
+They seem to be talking about "long talks". Listen in?
+
+[06394.383]
+Even useful talk wears a fellow out after about ten years of listening.
+
+[06394.384]
+Come to think of it, I never told you. Hold down {09:2F 00 00 00} and {09:2E 00 00 00} to fast-forward messages. Handy for skipping a conversation you've already read.
+
+[06394.385]
+Whaat? Why didn't you tell me that for ten whole years?
+
+[06394.386]
+Fool! A rookie like you, skipping through what I have to say? You're ten years too early for that!
+
+[06394.387]
+...is what I thought, and so I'm telling you now.
+
+[06394.388]
+Fair enough.
+
+[06394.390]
+They seem to be talking about "picking up items". Listen in?
+
+[06394.391]
+If I'm going to live as an adventurer, I want to grab items off enemies like crazy.
+
+[06394.392]
+Hm. Quite right. But there is a plausible-sounding rumor going round among adventurers.
+
+[06394.393]
+What rumor?
+
+[06394.394]
+"It seems the more items of one kind you carry, the lower the chance that enemies drop items," they say.
+
+[06394.395]
+That's no good! I'll sell the lot!
+
+[06394.396]
+I wouldn't go that far, but selling equipment you don't need wherever you can is a good idea for keeping things tidy, too.
+
+[06394.397]
+Of course, you might say an adventurer's wisdom is to refine: fewer things, better things.
+
+[06394.398]
+Also, if you want to use up consumables as you go, I've heard you should keep only a small number of each.
+
+[06394.399]
+With consumables, it's not the total that counts but how many of each you hold. That's the accepted view in adventuring circles, it seems.
+
+[06394.400]
+But with only a few, I tend to be stuck against strong enemies.
+
+[06394.401]
+There's that too. What matters is to adventure in the way that suits your own style.
+
+[06394.403]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06394.405]
+I'm going to master my own way!!
+

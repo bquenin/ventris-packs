@@ -1,0 +1,6 @@
+[08618.001]
+Ice Elemental
+
+[08618.004]
+Earth Elemental
+

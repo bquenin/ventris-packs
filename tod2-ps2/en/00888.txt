@@ -1,0 +1,9 @@
+[00888.001]
+Rutee... The man {NAME:03 00 00 00} Dunamis, his long journey over, now comes to your side...
+
+[00888.002]
+What are you doing? We'll leave you!
+
+[00888.003]
+Dummy! I was staging a moving reunion... Hey! Wait up!
+

@@ -1,0 +1,27 @@
+[00926.001]
+Like this... everything that's happened seems unreal. It's so calm, so peaceful...
+
+[00926.002]
+........
+
+[00926.003]
+...{NAME:01 00 00 00}? Is something wrong?
+
+[00926.004]
+Oh, no, nothing! I was just thinking about something.
+
+[00926.005]
+Hmm............ {NAME:01 00 00 00}, thinking? Will it rain spears today?
+
+[00926.006]
+Hey, that's mean, {NAME:02 00 00 00}! You don't have to put it like tha~t!
+
+[00926.007]
+Ahahaha! But it's your fault too, {NAME:01 00 00 00}. Thinking of other things on a date is rude to a lady.
+
+[00926.008]
+Ah, yeah, true... ahaha! Then let's go, {NAME:02 00 00 00}.
+
+[00926.009]
+!
+

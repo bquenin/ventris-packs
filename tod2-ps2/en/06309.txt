@@ -1,0 +1,357 @@
+[06309.001]
+Cresta: Inn & Grocer
+
+[06309.002]
+Cresta
+
+[06309.003]
+Inn & Grocer
+
+[06309.004]
+Grocer
+
+[06309.005]
+Hey, {NAME:01 00 00 00}! You can't go taking that many!
+
+[06309.007]
+A big piece of meat is roasting over the fire...
+
+[06309.009]
+These seem to be edible flowers. The inn must use them in its cooking.
+
+[06309.011]
+You casually tried eating an edible flower. Raw, sure enough, it tasted awful.
+
+[06309.012]
+Nelson the Lightning
+
+[06309.013]
+Oh!? If that isn't Whirlwind {NAME:03 00 00 00}!
+
+[06309.014]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.015]
+Hey, Nelson! It's been ages! Still out flipping skirts with Joe?
+
+[06309.016]
+Nelson the Lightning
+
+[06309.017]
+Hahaha! I'm a family man now. I can't fool around forever.
+
+[06309.018]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.019]
+Wha... You got married!?
+
+[06309.020]
+Nelson the Lightning
+
+[06309.021]
+And you're still single, {NAME:03 00 00 00}?
+
+[06309.022]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.023]
+Yeah! The girls just don't go for me! Damn it! I thought you, me and Joe would be single forever!
+
+[06309.024]
+Nelson the Lightning
+
+[06309.025]
+Don't go imagining horrible things like that...
+
+[06309.026]
+Nelson the Lightning
+
+[06309.027]
+Back in the day Joe, {NAME:03 00 00 00} and I made a legend, didn't we?
+
+[06309.028]
+Nelson the Lightning
+
+[06309.029]
+But our boyhood days are over. I'm going to be a father soon.
+
+[06309.030]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.031]
+What! Keeping all the good things for yourself! Y-you traitor!
+
+[06309.032]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.033]
+A guy my own age, a dad already... I don't know how to feel about that.
+
+[06309.034]
+Nelson the Lightning
+
+[06309.035]
+Well, I don't suppose you'll get the chance in your whole life.
+
+[06309.036]
+Nelson the Lightning
+
+[06309.037]
+I'm going to be a father soon. I'm itching to hand down the legend that Joe, {NAME:03 00 00 00} and I made.
+
+[06309.039]
+Maybe a story about flipping skirts shouldn't be handed down...
+
+[06309.040]
+Nelson the Lightning
+
+[06309.041]
+{NAME:01 00 00 00}, don't make light of our legend. Our exploits rival those of the Four Heroes.
+
+[06309.042]
+Nelson the Lightning
+
+[06309.043]
+Hey, {NAME:03 00 00 00}. Going somewhere?
+
+[06309.044]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.045]
+Yeah. To look for what they call a fateful encounter.
+
+[06309.046]
+Nelson the Lightning
+
+[06309.047]
+A fateful encounter? Forget it, forget it! There's no way you'd ever find one!
+
+[06309.048]
+Whirlwind {NAME:03 00 00 00}
+
+[06309.049]
+That's a pretty harsh thing to say...
+
+[06309.050]
+Nelson the Lightning
+
+[06309.051]
+I'll be a father soon myself. Time sure flies.
+
+[06309.052]
+Nelson the Lightning
+
+[06309.053]
+{NAME:01 00 00 00}, being a kid is over in the blink of an eye. Fool around all you can while you've got the chance.
+
+[06309.055]
+{NAME:03 00 00 00} earned the title "{08:2E 08 00 00}".
+
+[06309.056]
+Inn
+
+[06309.057]
+Grocer
+
+[06309.058]
+Welcome, {NAME:01 00 00 00}! Come to buy a snack?
+
+[06309.059]
+Thanks!
+
+[06309.060]
+See you!
+
+[06309.061]
+Grocer
+
+[06309.062]
+Grocer
+
+[06309.063]
+Welcome, {NAME:01 00 00 00}! Take your time.
+
+[06309.064]
+Chef
+
+[06309.065]
+Been making {16:34 8C}?
+
+[06309.066]
+Chef
+
+[06309.067]
+Would you like to know how to make {16:34 8C}?
+
+[06309.069]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06309.070]
+Chef
+
+[06309.071]
+I'll teach you how to make {16:34 8C}.
+
+[06309.072]
+Chef
+
+[06309.073]
+Going to make it yourself? Well, that's fine too.
+
+[06309.074]
+Chef
+
+[06309.075]
+I have the recipe for {16:34 8C}. Will you buy it for {0B:01 00 00 00}{14:34 84}{0B:00 00 00 00} Gald?
+
+[06309.077]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06309.078]
+Chef
+
+[06309.079]
+You don't have enough money.
+
+[06309.080]
+Chef
+
+[06309.081]
+I'll sell you the recipe for {16:34 8C}.
+
+[06309.082]
+Chef
+
+[06309.083]
+Well, it can't be helped.
+
+[06309.084]
+{16:24 90}, {16:24 92}, {16:24 94}
+
+[06309.085]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.086]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.087]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.088]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.089]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}
+
+[06309.090]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.091]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.092]
+Chef
+
+[06309.093]
+To make {16:34 8C} you need:
+{18:44 88}
+
+[06309.094]
+Chef
+
+[06309.095]
+Why, you have the ingredients.
+
+[06309.096]
+Chef
+
+[06309.097]
+Let me have them and I'll make {16:34 8C}. How about it?
+
+[06309.099]
+{03:00 00 00 00}　Yes
+　No
+
+[06309.100]
+Chef
+
+[06309.101]
+All right, wait there. I'll make you {16:34 8C} right away.
+
+[06309.102]
+Chef
+
+[06309.103]
+That's a shame. It's really delicious...
+
+[06309.104]
+Chef
+
+[06309.105]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06309.106]
+Chef
+
+[06309.107]
+You are not worthy. Come back another time.
+
+[06309.108]
+Chef
+
+[06309.109]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06309.111]
+Picked up the recipe for {16:34 8C}.
+
+[06309.113]
+Learned how to make {16:34 A0}.
+
+[06309.114]
+Have a safe journey.
+
+[06309.115]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06309.116]
+Will you stay the night?
+
+[06309.118]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06309.119]
+Please rest well.
+
+[06309.120]
+Good morning.
+
+[06309.121]
+You do not have enough money.
+
+[06309.122]
+We look forward to seeing you again.
+
+[06309.127]
+Obtained {16:25 EE}.
+
+[06309.129]
+Obtained {08:FF FF FF FF}.
+
+[06309.131]
+Found {16:25 F6}, but you can carry no more.
+
+[06309.133]
+There is nothing here.
+

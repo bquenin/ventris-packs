@@ -1,0 +1,9 @@
+[01120.001]
+Let's go to the abandoned Oberon mine and find the treasure the merchant asked for!
+
+[01120.002]
+The mine's northwest of Neustadt, on White Cloud Ridge.
+
+[01120.003]
+Right, go!
+

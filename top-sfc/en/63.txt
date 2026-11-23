@@ -1,0 +1,275 @@
+[63.000]
+Town of Friezkiel
+
+[63.001]
+Supermarket "Freezer"
+
+[63.002]
+Arms Shop "Iced Coffee"
+
+[63.003]
+Inn "Snow Tears"
+
+[63.004]
+Fenrir Church
+
+[63.005]
+{COLOR:03}Look at the stained glass?{COLOR:02}
+
+[63.006]
+{クレス}
+"So this is Fenrir Church..."{PAGE}
+{クラース}
+"The door is sealed. How is it opened?"
+
+[63.007]
+"You who would defile the holy ground, if you value your lives, turn back as you are! If you would throw your lives away, enter here!!"
+
+[63.008]
+{クレス}
+"Wh-what was that?"{PAGE}
+{クラース}
+"The seal seems to have been broken. Let us go in."{PAGE}
+{アーチェ}
+"Right, I'll open it."
+
+[63.009]
+{アーチェ}
+"Heave..."
+
+[63.010]
+{クレス}
+"She's broken it..."
+
+[63.011]
+{アーチェ}
+"Oh well.{PAGE}
+
+
+[63.012]
+Never mind, never mind. Come on, let's go!"
+
+[63.013]
+"It is shut fast."
+
+[63.014]
+{クレス}
+"Wow, what amazing stained glass..."
+
+[63.015]
+???
+"Heh heh heh, so you have come. You who do not know the worth of your lives."
+
+[63.016]
+{クレス}
+"Who are you!?"{PAGE}
+???
+"I am the one who guards the sword of ice. Come near the holy land of bitter cold, and death will surely find you."{PAGE}
+{クレス}
+"There's something we have to do! Something to do at the risk of our lives!"{PAGE}
+???
+"Fools who do not fear even death. Come to the altar!"
+
+[63.017]
+{クラース}
+"This seems to be the way in."{PAGE}
+{クレス}
+"Right, let's go!"
+
+[63.018]
+"Welcome. Colder than ever again today. Staying the night, are you? It is 40 Gald a night."
+
+
+[63.019]
+You haven't enough money, I'm afraid.
+
+[63.020]
+Enjoy your stay.
+
+[63.021]
+"We look forward to your next visit."
+
+[63.022]
+"Welcome. Good of you to come."
+
+[63.023]
+"Thanks. Please come again."
+
+[63.024]
+"Welcome. What can I get you?"
+
+[63.025]
+"Thank you very much. Would you like fries with that?"
+
+[63.026]
+"Welcome."
+
+[63.027]
+"Much obliged to you."
+
+[63.028]
+"I go about selling medicine, I do.{PAGE}
+Step right up. Anything you need?"
+
+[63.029]
+"Ta very much."
+
+[63.030]
+"Yay, snow!"
+
+[63.031]
+"This town is called Friezkiel. More than half the year it's a world of silver."
+
+[63.032]
+"What, you opened the door of Fenrir Church!?{PAGE}
+Oh, you didn't open it, you broke it... There was amazing stained glass inside? Perhaps I'll go in too."
+
+[63.033]
+"Welcome to Fenrir Church.{PAGE}
+An eerie church, isn't it? The door is sealed with ice and nobody can get in."
+
+[63.034]
+"This is said to have been built in the age of the far ancient civilisation. From the name there can be no doubt of it. One of the three great far ancient civilisations was called Fenrir, after all."
+
+[63.035]
+"This continent is neutral ground. It belongs to no country.{PAGE}
+Though to be sure, no country wants land with a climate as harsh as this."
+
+[63.036]
+Swordsman
+"Surroundings as harsh as these are the very place for training..."
+
+[63.037]
+Swordsman
+"You, are you a swordsman? Shall I sell you this book of secret arts?"{PAGE}
+{クレス}
+"What, a book of secret arts!?"{PAGE}
+Swordsman
+"I have read it, but I cannot make sense of it. It seems to be the technique of some school or other... Well? 33000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[63.038]
+I see...
+
+[63.039]
+"You haven't enough money."
+
+[63.040]
+{COLOR:03}{クレス} learned Shishisenkuuha.{COLOR:02}{PAGE}
+Swordsman
+"Thank you."
+
+[63.041]
+"The magic power of ice is born only in cold places. Likewise the magic power of flame is born only in hot places. So if you want a special weapon, you already know where to go to get it, don't you?"
+
+[63.042]
+"Ice melts with heat, that goes without saying. And her heart, I'll melt myself! Head over heels!!"
+
+[63.043]
+"Fenrir, Thor and Odin each took the name of the god they worshipped as the name of their country, so it is said."
+
+[63.044]
+"They say Fenrir was also known as the 'Wolf King'. That king still wanders this town as a ghost. On nights when there's a blizzard you always hear a wolf howling from the church. Eek, how scary!"
+
+[63.045]
+"There's a continent of everlasting summer, they say? I'd love to move there from this cold place and get a tan."
+
+[63.046]
+"Snooow-man, snowman."
+
+[63.047]
+"Cold again today."{PAGE}
+{クレス}
+(So they are descendants of Elwin and Nancy...?){PAGE}
+"Yes?"{PAGE}
+{クレス}
+"No, it's nothing..."
+
+[63.048]
+"Ha ha ha, that came out well."
+
+[63.049]
+{クレス}
+"Elwin!?"{PAGE}
+"Eh? Elwin...? My name is Stephen.{PAGE}
+But wait, wasn't my great-grandfather's name Elwin? They say he eloped with my great-grandmother and settled in this town."{PAGE}
+{クレス}
+"Oh, n-never mind..."
+
+[63.050]
+???
+"Hello.{PAGE}
+Are you adventurers? Might I ask a favour of you?"
+
+[63.051]
+I see... It is not a bad offer, though.
+
+[63.052]
+"You will? I am glad. My name is Graham. Graham Aifread. You will have heard the rumours, at least? I am the son of the pirate Aifread. The glory of the old days is gone, though. I get by somehow by selling off the ships my father left."{PAGE}
+{クレス}
+"This favour... could it be looking for your father's fortune?"{PAGE}
+Graham
+"Just so. But do not mistake me. I am not after money. Just look at this old document."{PAGE}
+{クレス}
+"An old document?"{PAGE}
+Graham
+"My father entrusted it to me. It records where the pirate Aifread's hidden lairs are, and some mysterious words."{PAGE}
+{クレス}
+"Mysterious words... Let me see...{PAGE}
+'Where Odin is faced head on and Fenrir can be looked up to on the left hand, at the centre of the world, lies my true treasure.'"{PAGE}
+Graham
+"Of the treasure that is hidden, the money and valuables are yours. In return, I want the 'true treasure' of the document brought to me."{PAGE}
+{クレス}
+"Very well. We'll look for it."{PAGE}
+{COLOR:03}Received the old document.{COLOR:02}
+
+[63.053]
+{クレス}
+"Graham, it seems this dress is the 'true treasure'."{PAGE}
+Graham
+"This is... my mother's...! This is my father's true treasure? This, a thing like this... worth more than a hundred million treasures..."{PAGE}
+{クラース}
+"Most likely your father, the pirate Aifread, held that his wife was the most precious 'treasure' of all."{PAGE}
+Graham
+"A treasure money cannot buy...{PAGE}
+Thank you. Truly, thank you..."
+
+[63.054]
+Graham
+"'Where Odin is faced head on and Fenrir can be looked up to on the left hand, at the centre of the world, lies my true treasure.'{PAGE}
+Those are the mysterious words of the document. Shall we go over the hidden lairs as well?"
+
+[63.055]
+Do find the 'true treasure'. I am counting on you.
+
+[63.056]
+.{PAGE}
+Do find the 'true treasure'. I am counting on you.
+
+[63.057]
+Graham
+"My father's achievements, if I may call them that, are my pride. Have you heard enough about where the hidden lairs are?"
+
+[63.058]
+.
+
+[63.059]
+North Euclid: two.
+Lone Island: one.
+South Euclid: four, two of them on islands.
+Arlee: two.
+Fenrir: one.
+Midgards, Ymir region: three.
+North-east Alvanista: two.
+Freyland, east and west: one each.
+Midgards, far east: one.
+Midgards, north: four.
+That makes 22 places in all
+
+[63.060]
+"So there is no weapon to satisfy me in a remote place like this after all. I did hear there was a weapon called the 'sword of ice' on this continent, though..."
+
+[63.061]
+"A secret word: lower left, down, lower right, up, confirm.{PAGE}
+Don't tell anyone else."
+

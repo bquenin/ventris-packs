@@ -1,0 +1,18 @@
+[00752.001]
+Atwight looked so happy. Well, of course. The man she loves broke orders to come and save her.
+
+[00752.002]
+Do you long for that sort of thing too, {NAME:05 00 00 00}?
+
+[00752.003]
+Mm... well... I am a woman, after all.
+
+[00752.004]
+Aah! {NAME:03 00 00 00}! Don't take my mea~t!!
+
+[00752.005]
+Fwahahaha!! Still too soft, young {NAME:01 00 00 00}! In this world the strong eat the weak! In other words, only the strong get the meat!
+
+[00752.006]
+...Though not saved by his kind.
+

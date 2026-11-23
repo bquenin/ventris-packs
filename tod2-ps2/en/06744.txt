@@ -1,0 +1,55 @@
+[06744.001]
+Aigrette: Inn
+
+[06744.002]
+Aigrette
+
+[06744.004]
+Soaking in the bath with your clothes on feels great...
+
+[06744.006]
+A sofa that looks comfortable to sit on.
+
+[06744.007]
+That's a luxury hotel for you! What a clean toilet!
+
+[06744.009]
+Would I get in trouble if I took the toilet paper from the shelf...?
+
+[06744.011]
+Have a safe journey.
+
+[06744.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06744.013]
+Will you stay the night?
+
+[06744.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06744.016]
+Please rest well.
+
+[06744.017]
+Good morning.
+
+[06744.018]
+You do not have enough money.
+
+[06744.019]
+We look forward to seeing you again.
+
+[06744.024]
+Obtained {16:25 BA}.
+
+[06744.026]
+Obtained {08:FF FF FF FF}.
+
+[06744.028]
+Found {16:25 C2}, but you can carry no more.
+
+[06744.030]
+There is nothing here.
+

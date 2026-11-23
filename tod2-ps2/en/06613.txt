@@ -1,0 +1,320 @@
+[06613.001]
+Dycroft, Eighteen Years Ago
+
+[06613.002]
+Dycroft, Eighteen Years Ago
+
+[06613.004]
+Dymlos
+
+[06613.005]
+It is all right, Stahn. We have lived too long...
+
+[06613.006]
+Stahn
+
+[06613.007]
+........
+................
+
+[06613.008]
+Stahn
+
+[06613.009]
+Deyaaaaaah!
+
+[06613.010]
+Woodrow
+
+[06613.011]
+Hurry, Stahn! This place will soon come down!
+
+[06613.012]
+Stahn
+
+[06613.013]
+...Gh, damn it all!
+
+[06613.015]
+H-hey, what's going on!? Nothing's happening!
+
+[06613.017]
+That can't be! Stab in the Swordians and the power of the Eye of God breaks the Outer Shell, right!?
+
+[06613.019]
+The energy of the Eye of God is just a little greater than the power of the Swordians...
+
+[06613.021]
+So they can't control the Eye of God. It only needs one more push...
+
+[06613.023]
+What can we do, what...!
+
+[06613.024]
+Dymlos
+
+[06613.025]
+A thousand years... It has been a long time, {NAME:01 00 00 00}.
+
+[06613.026]
+Dymlos
+
+[06613.027]
+...Though for you it will not have been long at all.
+
+[06613.029]
+........! That voice... Dymlos!?
+
+[06613.030]
+Dymlos
+
+[06613.031]
+I am sorry, but it is as {NAME:06 00 00 00} says. It seems we alone have not the strength. There is no help for it...
+
+[06613.033]
+But that's no reason to give up! There has to be some way, there has to...!
+
+[06613.034]
+Dymlos
+
+[06613.035]
+There is one way, and one only. But it is impossible...
+
+[06613.037]
+You can't know it's impossible till you try! Tell me, Dymlos!
+
+[06613.039]
+Stop your noise, {NAME:01 00 00 00}. It is unseemly.
+
+[06613.041]
+{NAME:04 00 00 00}...?
+
+[06613.043]
+Be quiet and watch.
+
+[06613.044]
+Chaltier
+
+[06613.045]
+Well, I kept you waiting, everyone. Sorry to be late.
+
+[06613.046]
+Dymlos
+
+[06613.047]
+Y-you... Chaltier!?
+
+[06613.048]
+Clemente
+
+[06613.049]
+Ho, to turn up like this. That is like you, contrary as ever...
+
+[06613.050]
+Atwight
+
+[06613.051]
+All the Swordians are here. With this, surely...!
+
+[06613.052]
+Barbatos
+
+[06613.053]
+The game of heroes is over! You die here, and I with you!
+
+[06613.055]
+B-Barbatos...!
+
+[06613.057]
+This world must be saved by Stahn and his friends.
+
+[06613.059]
+Whoever gets in the way of that... I will not forgive!
+
+[06613.061]
+There's nowhere left to run. Prepare yourself, Barbatos!
+
+[06613.062]
+Barbatos
+
+[06613.063]
+H-heh heh heh... Prepare myself!? A whelp like you, strike me down!?
+
+[06613.064]
+Barbatos
+
+[06613.065]
+No one can strike me down! No oooone!!
+
+[06613.067]
+B-Barbatos...!
+
+[06613.068]
+Barbatos
+
+[06613.069]
+Make no mistake, {NAME:01 00 00 00}. I was not struck down by you!
+
+[06613.070]
+Barbatos
+
+[06613.071]
+I choose death by my own hand!! Heheheh... Aahahahaha!
+
+[06613.073]
+W-wait, Barbatos!
+
+[06613.074]
+Barbatos
+
+[06613.075]
+Guoooaaaaaah!!!!
+
+[06613.076]
+Dymlos
+
+[06613.077]
+...Choosing even the place of his death by his own will. Selfish to the last...
+
+[06613.078]
+Igtenos
+
+[06613.079]
+There is no time to be lost in feeling. As things are, we will be swallowed by the power of the Eye of God.
+
+[06613.081]
+{NAME:04 00 00 00}! What on earth do you mean to do!?
+
+[06613.083]
+It's Chaltier. Drive that in, and the power of the Swordians tops the Eye of God and brings it under control.
+
+[06613.085]
+Then you overload the Eye of God and break the Outer Shell. That's the idea.
+
+[06613.087]
+I get it! {NAME:04 00 00 00} is Leon, so he had a Swordian too!
+
+[06613.089]
+But that means...
+
+[06613.090]
+Dymlos
+
+[06613.091]
+...Are you sure, Leon? You will lose Chaltier.
+
+[06613.093]
+I told you. This world must be saved by the hands of Stahn and his friends.
+
+[06613.094]
+Igtenos
+
+[06613.095]
+...A Swordian and its wielder are one in body and soul. That it must be ended by its master's own hand...
+
+[06613.096]
+Clemente
+
+[06613.097]
+Is fate so cruel a thing?
+
+[06613.099]
+...Forgive me, Chal. I...
+
+[06613.100]
+Chaltier
+
+[06613.101]
+It's all right, young master. Dymlos said it just now, didn't he? We have lived too long.
+
+[06613.102]
+Chaltier
+
+[06613.103]
+Besides, to be honest, I am tired of minding you, young master... you know.
+
+[06613.105]
+That suits me. I was just thinking I could bear no more of your scolding.
+
+[06613.106]
+Chaltier
+
+[06613.107]
+Well then, that being so, let's get it over with quickly.
+
+[06613.108]
+Chaltier
+
+[06613.109]
+Oh, and.
+
+[06613.111]
+...Is there something more? If so, say it quickly. There is no time.
+
+[06613.112]
+Chaltier
+
+[06613.113]
+Being with you did tire me, young master, it's true... but it was rather fun.
+
+[06613.115]
+...For me too. For everything... thank you.
+
+[06613.116]
+Chaltier
+
+[06613.117]
+That isn't like you, young master.
+
+[06613.119]
+Nor you, Chal.
+
+[06613.121]
+Here we go, Chal!!
+
+[06613.122]
+Chaltier
+
+[06613.123]
+Yes!!
+
+[06613.125]
+Daaaaaaaah!!
+
+[06613.126]
+Have a safe journey.
+
+[06613.127]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06613.128]
+Will you stay the night?
+
+[06613.130]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06613.131]
+Please rest well.
+
+[06613.132]
+Good morning.
+
+[06613.133]
+You do not have enough money.
+
+[06613.134]
+We look forward to seeing you again.
+
+[06613.139]
+Obtained {16:26 BE}.
+
+[06613.141]
+Obtained {08:FF FF FF FF}.
+
+[06613.143]
+Found {16:26 C6}, but you can carry no more.
+
+[06613.145]
+There is nothing here.
+

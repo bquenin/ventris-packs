@@ -1,0 +1,115 @@
+[06319.001]
+Dunamis Orphanage
+
+[06319.002]
+Dunamis Orphanage
+
+[06319.004]
+What are you doing, {NAME:01 00 00 00}? You're going to talk to Rutee, aren't you?
+
+[06319.006]
+This is the front of the orphanage at night.
+
+[06319.008]
+Looks like Rutee's still up.
+
+[06319.010]
+...
+
+[06319.012]
+What'll it be, {NAME:01 00 00 00}? If it's hard to bring up the journey, I could do it for you...
+
+[06319.014]
+No, {NAME:03 00 00 00}. I'll tell her myself. I think... I have to.
+
+[06319.016]
+...You're right. Sorry. All right! Let's go, then!
+
+[06319.017]
+Rutee
+
+[06319.018]
+You know, I smacked {NAME:01 00 00 00} again today... But somehow he was different this time.
+
+[06319.019]
+Rutee
+
+[06319.020]
+Why, that child tried to stand up to me. To me, of all people!
+
+[06319.021]
+Rutee
+
+[06319.022]
+He wants to be a hero like you, he says. ...He's your son, all right.
+
+[06319.023]
+Rutee
+
+[06319.024]
+Ahh, if only he took after me a little more. Then he wouldn't say such silly things...
+
+[06319.025]
+Rutee
+
+[06319.026]
+...Oh, you laughed just now, didn't you? Hee hee!
+
+[06319.027]
+Rutee
+
+[06319.028]
+Don't worry. I'm ready for it... I think.
+
+[06319.029]
+Rutee
+
+[06319.030]
+Tomorrow, when that child comes out with it, then I'll...
+
+[06319.032]
+I have to get back to the orphanage...
+
+[06319.034]
+I have to talk to Mom...
+
+[06319.036]
+I have to talk to Mom...
+
+[06319.045]
+Have a safe journey.
+
+[06319.046]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06319.047]
+Will you stay the night?
+
+[06319.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06319.050]
+Please rest well.
+
+[06319.051]
+Good morning.
+
+[06319.052]
+You do not have enough money.
+
+[06319.053]
+We look forward to seeing you again.
+
+[06319.058]
+Obtained {16:27 CA}.
+
+[06319.060]
+Obtained {08:FF FF FF FF}.
+
+[06319.062]
+Found {16:27 D2}, but you can carry no more.
+
+[06319.064]
+There is nothing here.
+

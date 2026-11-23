@@ -1,0 +1,43 @@
+[06263.06068]
+ 9
+
+[06263.06075]
+10
+
+[06263.06082]
+11
+
+[06263.06089]
+ 6
+
+[06263.06096]
+Apple Gel,
+Orange Gel,
+Lemon Gel:
+how much Gald?
+
+[06263.06150]
+See, you can
+do it
+
+[06263.06172]
+You lack
+focus
+
+[06263.06194]
+You'll be my
+sample
+
+[06263.06214]
+Count them
+right?
+
+[06263.06232]
+Time's up
+
+[06263.94836]
+{0B:01 00 00 00}%d Gald{0B:00 00 00 00}
+
+[06263.94855]
+%d Gald
+

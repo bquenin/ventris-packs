@@ -1,0 +1,5 @@
+クレス = Cress
+ミント = Mint
+アーチェ = Arche
+チェスター = Chester
+クラース = Claus

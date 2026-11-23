@@ -1,0 +1,245 @@
+[06572.001]
+Surface Army Base
+
+[06572.002]
+Surface Army Base
+
+[06572.004]
+Is this the Ixifosler we used in our own time?
+
+[06572.006]
+So it wasn't finished during the War of Heaven and Earth.
+
+[06572.008]
+Some kind of engine? What on earth is it...
+
+[06572.009]
+Lad
+
+[06572.010]
+They say this is the engine of an aerial city. They hauled it all the way out of one that crashed.
+
+[06572.011]
+Lad
+
+[06572.012]
+It's a precious thing. With today's technology we can't make another like it. The people of the past were amazing.
+
+[06572.014]
+Obtained {08:12 00 00 00}.
+
+[06572.016]
+There are writings on aerodynamics here.
+
+[06572.017]
+Dymlos
+
+[06572.018]
+Only you are left. When you are ready, go aboard.
+
+[06572.020]
+Are you ready?
+
+[06572.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06572.023]
+Scientist
+
+[06572.024]
+This is a flying machine now under development.
+
+[06572.025]
+Scientist
+
+[06572.026]
+We are short of parts and the work cannot go on, so sadly it will not see battle.
+
+[06572.027]
+Scientist
+
+[06572.028]
+With proper parts I could finish it right away.
+
+[06572.029]
+Scientist
+
+[06572.030]
+Well, I'll take my time and build it after the war.
+
+[06572.031]
+Scientist
+
+[06572.032]
+There is nowhere at the base the children can use as a playground.
+
+[06572.033]
+Scientist
+
+[06572.034]
+So I let them use the hangar as one, but...
+
+[06572.035]
+Scientist
+
+[06572.036]
+The noise they make! I can't get on with my research. It's a real bother.
+
+[06572.037]
+Scientist
+
+[06572.038]
+I wonder if these children might follow after me and become scientists?
+
+[06572.039]
+Scientist
+
+[06572.040]
+And I'd be glad if one day they built machines that are of use to the world.
+
+[06572.041]
+Lad
+
+[06572.042]
+I'm going to be a scientist and make lots of machines that are of use to the world!
+
+[06572.043]
+Lad
+
+[06572.044]
+For that I've got to start studying all sorts of things now.
+
+[06572.045]
+Lad
+
+[06572.046]
+I'll start my own company and sell useful machines.
+
+[06572.047]
+Lad
+
+[06572.048]
+For the company's name I'll use my own. "Oberon Corporation" should do.
+
+[06572.049]
+Boy
+
+[06572.050]
+Every day's so boring. Why can't we go far from here?
+
+[06572.051]
+Boy
+
+[06572.052]
+War is no fun.
+
+[06572.053]
+Boy
+
+[06572.054]
+Mom was worried. She says the rations have got smaller lately.
+
+[06572.055]
+Boy
+
+[06572.056]
+Why can't we eat till we're full?
+
+[06572.057]
+Boy
+
+[06572.058]
+My daddy went to a place called the "Hevenly Army".
+
+[06572.059]
+Boy
+
+[06572.060]
+A long time ago he said "I'm joining the revolushun" and went away.
+
+[06572.061]
+Boy
+
+[06572.062]
+Will I see Daddy again one day?
+
+[06572.063]
+Girl
+
+[06572.064]
+How many years is it since I saw the sun?
+
+[06572.065]
+Girl
+
+[06572.066]
+I can't remember a blue sky.
+
+[06572.067]
+Girl
+
+[06572.068]
+Will the snow stop before I grow up, I wonder.
+
+[06572.069]
+Girl
+
+[06572.070]
+The grown-ups are all saying the war will end soon, but is it true?
+
+[06572.071]
+Girl
+
+[06572.072]
+I want to play outside all I like, soon.
+
+[06572.073]
+Girl
+
+[06572.074]
+I want to play under the sun again one day.
+
+[06572.076]
+Fly~, fly~, rocket~♪ Spouting fuel and breathing fire~♪
+
+[06572.078]
+Obtained {08:41 00 00 00}.
+
+[06572.079]
+Have a safe journey.
+
+[06572.080]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06572.081]
+Will you stay the night?
+
+[06572.083]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06572.084]
+Please rest well.
+
+[06572.085]
+Good morning.
+
+[06572.086]
+You do not have enough money.
+
+[06572.087]
+We look forward to seeing you again.
+
+[06572.092]
+Obtained {16:25 C2}.
+
+[06572.094]
+Obtained {08:FF FF FF FF}.
+
+[06572.096]
+Found {16:25 CA}, but you can carry no more.
+
+[06572.098]
+There is nothing here.
+

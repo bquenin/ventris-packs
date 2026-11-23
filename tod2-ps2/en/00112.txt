@@ -1,0 +1,9 @@
+[00112.001]
+Come on, {NAME:01 00 00 00}. Time you got up.
+
+[00112.002]
+Mmm...... just a little longer~.
+
+[00112.003]
+Jeez... You run yourself flat every day, so you can't get up.
+

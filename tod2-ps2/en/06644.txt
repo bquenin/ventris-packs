@@ -1,0 +1,62 @@
+[06644.001]
+Ruins of the Surface Army Base
+
+[06644.002]
+Ruins of the Surface Army Base
+
+[06644.004]
+Charcoal has been laid in the hearth.
+
+[06644.006]
+This hearth alone is not broken at all. Put charcoal on the hearth?
+
+[06644.008]
+{03:00 00 00 00}　Put it on　
+　Don't　
+
+[06644.010]
+Put charcoal on the hearth.
+
+[06644.012]
+This hearth alone is not broken at all. A strange power can be felt from the hearth.
+
+[06644.014]
+The fire in the hearth burns on with no sign of dying.
+
+[06644.015]
+Have a safe journey.
+
+[06644.016]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06644.017]
+Will you stay the night?
+
+[06644.019]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06644.020]
+Please rest well.
+
+[06644.021]
+Good morning.
+
+[06644.022]
+You do not have enough money.
+
+[06644.023]
+We look forward to seeing you again.
+
+[06644.028]
+Obtained {16:27 06}.
+
+[06644.030]
+Obtained {08:FF FF FF FF}.
+
+[06644.032]
+Found {16:27 0E}, but you can carry no more.
+
+[06644.034]
+There is nothing here.
+

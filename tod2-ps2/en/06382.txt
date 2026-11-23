@@ -1,0 +1,61 @@
+[06382.001]
+Straylize Ruins
+
+[06382.002]
+Straylize Ruins
+
+[06382.004]
+This is Straylize Temple.
+
+[06382.006]
+Whoa! Look, {NAME:03 00 00 00}! There's an amazing Lens!
+
+[06382.008]
+...Look closer, it's a fake. This is a miniature of the "Eye of God".
+
+[06382.010]
+The "Eye of God" was a colossal Lens six meters across that held tremendous power, but it was misused and the world was plunged into crisis.
+
+[06382.012]
+And they destroyed it and kept the world at peace, right! Dad and Mom!
+
+[06382.014]
+That's about it.
+
+[06382.015]
+Have a safe journey.
+
+[06382.016]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06382.017]
+Will you stay the night?
+
+[06382.019]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06382.020]
+Please rest well.
+
+[06382.021]
+Good morning.
+
+[06382.022]
+You do not have enough money.
+
+[06382.023]
+We look forward to seeing you again.
+
+[06382.028]
+Obtained {16:25 BA}.
+
+[06382.030]
+Obtained {08:FF FF FF FF}.
+
+[06382.032]
+Found {16:25 C2}, but you can carry no more.
+
+[06382.034]
+There is nothing here.
+

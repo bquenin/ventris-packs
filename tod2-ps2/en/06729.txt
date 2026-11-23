@@ -1,0 +1,46 @@
+[06729.001]
+Dycroft, Eighteen Years Ago
+
+[06729.002]
+Dycroft, Eighteen Years Ago
+
+[06729.004]
+There is no sign of the elevator coming back. It seems to have fallen and broken.
+
+[06729.005]
+Have a safe journey.
+
+[06729.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06729.007]
+Will you stay the night?
+
+[06729.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06729.010]
+Please rest well.
+
+[06729.011]
+Good morning.
+
+[06729.012]
+You do not have enough money.
+
+[06729.013]
+We look forward to seeing you again.
+
+[06729.018]
+Obtained {16:25 C2}.
+
+[06729.020]
+Obtained {08:FF FF FF FF}.
+
+[06729.022]
+Found {16:25 CA}, but you can carry no more.
+
+[06729.024]
+There is nothing here.
+

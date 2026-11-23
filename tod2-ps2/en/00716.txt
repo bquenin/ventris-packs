@@ -1,0 +1,12 @@
+[00716.001]
+Let's go and talk to Dymlos just once more!
+
+[00716.002]
+It galls me that {NAME:06 00 00 00} seems to be using us nicely, but oh well.
+
+[00716.003]
+Your saying so is most likely in her reckoning too.
+
+[00716.004]
+I bet. Jeez, that's geniuses for you.
+

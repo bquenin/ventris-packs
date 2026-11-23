@@ -1,0 +1,758 @@
+[06433.001]
+Snowfria
+
+[06433.002]
+Snowfria
+
+[06433.003]
+Snowfria
+
+[06433.004]
+Snowfria
+
+[06433.006]
+Used the Sorcerer's Scope to take off the lock.
+
+[06433.008]
+A complicated lock and a slip of paper are on the door. "They say that with a certain tool you can do what you normally cannot."
+
+[06433.010]
+"Buy your snow-country souvenirs here!"
+
+[06433.012]
+A great deal of cargo is piled up. It looks like building materials.
+
+[06433.014]
+The address reads "For the extension of the Heidelberg general store".
+
+[06433.016]
+Empty...
+
+[06433.018]
+There was a {08:A9 01 00 00} inside the snowman.
+
+[06433.020]
+There is a snowman.
+
+[06433.022]
+A fish is flopping on the snow...
+
+[06433.024]
+It looks like an immigration office, but... nobody is here...
+
+[06433.026]
+Ah, ah... choo! Brr, it's cold! The snow's piled up!
+
+[06433.028]
+Ugh... Let's get to Heidelberg quick. Stand around in a place like this and we'll freeze to death.
+
+[06433.030]
+{NAME:04 00 00 00}, which way is Heidelberg?
+
+[06433.032]
+Northwest of here. First go north along the coastline, and when you come up against the mountains, turn west.
+
+[06433.034]
+Heidelberg is a large city, so you will find it soon enough.
+
+[06433.035]
+Man
+
+[06433.036]
+The other day those Order of Atamoni people came telling us to donate Lenses.
+
+[06433.037]
+Man
+
+[06433.038]
+We sent them packing, of course. As if a sailor could do his job while being scared of the Order of Atamoni!
+
+[06433.039]
+Man
+
+[06433.040]
+To hell with worldly blessings. I can live by my own strength without leaning on things like that.
+
+[06433.041]
+Man
+
+[06433.042]
+The other day those Order of Atamoni people came telling us to donate Lenses.
+
+[06433.043]
+Man
+
+[06433.044]
+We sent them packing, of course. As if a sailor could do his job while being scared of the Order of Atamoni!
+
+[06433.046]
+That's one stout-hearted man. I don't mind that sort.
+
+[06433.047]
+Man
+
+[06433.048]
+To hell with worldly blessings. I can live by my own strength without leaning on things like that.
+
+[06433.049]
+Man
+
+[06433.050]
+Hey, traveler. Have you had Snowfria's famous salmon yet?
+
+[06433.051]
+Man
+
+[06433.052]
+Eating fish till you burst at a snow-country harbor! That's the real joy of travel!
+
+[06433.053]
+Young Man
+
+[06433.054]
+Travelers, welcome to Phandaria! What do you make of it?
+
+[06433.056]
+It's a lively town. Being snow country, I thought there'd be fewer people.
+
+[06433.058]
+It's Phandaria's only harbor, you see. People and goods naturally gather here.
+
+[06433.059]
+Young Man
+
+[06433.060]
+You've come all this way. Enjoy the country while you're here!
+
+[06433.061]
+Young Man
+
+[06433.062]
+Travelers, welcome to Phandaria! What do you make of it?
+
+[06433.064]
+The one thing I never get used to is this cold.
+
+[06433.065]
+Young Man
+
+[06433.066]
+Ha ha ha! Well, that's about how it goes!
+
+[06433.067]
+Young Man
+
+[06433.068]
+You've come all this way. Enjoy the country while you're here!
+
+[06433.069]
+Young Man
+
+[06433.070]
+What brings you boys to Phandaria? Sightseeing?
+
+[06433.072]
+No. We're looking for something. Though I don't know what it is...
+
+[06433.073]
+Young Man
+
+[06433.074]
+...I don't really follow, but you've got your reasons, I take it? Good luck!
+
+[06433.075]
+Young Man
+
+[06433.076]
+You boys must have your reasons. I'll be praying you find what you're looking for too.
+
+[06433.077]
+Traveler
+
+[06433.078]
+D-don't talk to me. When someone talks to me, my body stops moving...
+
+[06433.079]
+Traveler
+
+[06433.080]
+I said, don't talk to me!
+
+[06433.081]
+Traveler
+
+[06433.082]
+I-if I don't keep moving, I'll freeze in this cold...
+
+[06433.083]
+Traveler
+
+[06433.084]
+P-please, would you not... stop my legs...
+
+[06433.085]
+Traveler
+
+[06433.086]
+Waaaaah! Don't pick on me like that!
+
+[06433.087]
+Young Woman
+
+[06433.088]
+Snow is lovely, isn't it★ Just looking at it feels like it washes your heart clean.
+
+[06433.089]
+Young Woman
+
+[06433.090]
+Really I'd like to gaze at the snow for hours, but it's too cold outside.
+
+[06433.092]
+Ha ha ha. If two people warm each other, the cold doesn't stand a chance.
+
+[06433.094]
+You might look at the snow a little yourself and get into a serious frame of mind.
+
+[06433.095]
+Young Woman
+
+[06433.096]
+The snow is pretty, true enough, but on blizzard days it's the worst...
+
+[06433.097]
+Young Woman
+
+[06433.098]
+Snow is lovely, isn't it★ Just looking at it feels like it washes your heart clean.
+
+[06433.100]
+How very pure~. Just like me.
+
+[06433.102]
+What part of you is pure...
+
+[06433.103]
+Young Woman
+
+[06433.104]
+The snow is pretty, true enough, but on blizzard days it's the worst...
+
+[06433.105]
+Young Woman
+
+[06433.106]
+Snow is lovely, isn't it★ Just looking at it feels like it washes your heart clean.
+
+[06433.107]
+Young Woman
+
+[06433.108]
+Really I'd like to gaze at the snow for hours, but it's too cold outside.
+
+[06433.110]
+Ha ha ha. If two people warm each other, the cold doesn't stand a chance.
+
+[06433.111]
+Young Woman
+
+[06433.112]
+{05:E0 01 00 00}Warm each other, with you? Hah! What an amusing joke.
+
+[06433.113]
+Boy
+
+[06433.114]
+Shhh! You're too loud! I'm being chased right now!
+
+[06433.115]
+Boy
+
+[06433.116]
+My mom keeps nagging me to "shovel the snow", so I'm running away!
+
+[06433.117]
+Ticket Seller
+
+[06433.118]
+From here you can go to Neustadt. Will you board the ship?
+
+[06433.120]
+{03:00 00 00 00}　Go to Neustadt ({0B:01 00 00 00}{14:24 7C}{0B:00 00 00 00} Gald)　
+　Don't board　
+
+[06433.122]
+{03:00 00 00 00}　Go to Neustadt　
+　Don't board　
+
+[06433.123]
+Ticket Seller
+
+[06433.124]
+Hey, hey, you don't have enough money. Give me a break, customer!
+
+[06433.125]
+Ticket Seller
+
+[06433.126]
+You sure, customer? If you don't hurry, the ship will leave!
+
+[06433.127]
+Sailor
+
+[06433.128]
+Kaaah, home at last after so long. That feeling of your cheeks tingling as they freeze... takes me back!
+
+[06433.130]
+Hey... aren't you cold dressed like that?
+
+[06433.131]
+Sailor
+
+[06433.132]
+This cold is the mark of home. I grew up in a land so cold your snot freezes!
+
+[06433.133]
+Sailor
+
+[06433.134]
+Looking at the canal like this reminds me of the old days...
+
+[06433.135]
+Sailor
+
+[06433.136]
+Falling into the canal in winter and nearly dying is a fond memory now.
+
+[06433.138]
+Um... that's dangerous, you know?
+
+[06433.139]
+Sailor
+
+[06433.140]
+No need to worry. As a kid I often played up on the railing as a test of nerve.
+
+[06433.141]
+Sailor
+
+[06433.142]
+Looking at the canal like this reminds me of the old days...
+
+[06433.143]
+Sailor
+
+[06433.144]
+Falling into the canal in winter and nearly dying is a fond memory now.
+
+[06433.145]
+Sailor
+
+[06433.146]
+Kaaah, home at last after so long. That feeling of your cheeks tingling as they freeze... takes me back!
+
+[06433.148]
+Hey... aren't you cold dressed like that?
+
+[06433.149]
+Sailor
+
+[06433.150]
+This cold is the mark of home. I grew up in a land so cold your snot freezes!
+
+[06433.151]
+Sailor
+
+[06433.152]
+Looking at the canal like this reminds me of the old days...
+
+[06433.153]
+Sailor
+
+[06433.154]
+Falling into the canal in winter and nearly dying is a fond memory now.
+
+[06433.155]
+Old Salmon Man
+
+[06433.156]
+Want some grilled salmon?
+
+[06433.158]
+{03:00 00 00 00}　Eat　
+　Don't eat　
+
+[06433.159]
+Eat.
+
+[06433.161]
+Ate the grilled salmon. It was burnt and tasted bad.
+
+[06433.162]
+That's {0B:01 00 00 00}{06:14 00 00 00}{0B:00 00 00 00} Gald.
+
+[06433.163]
+What, flat broke? Want some more?
+
+[06433.164]
+Eat your fill.
+
+[06433.166]
+Paid your last {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald...
+
+[06433.167]
+I'll knock it down for you.
+
+[06433.169]
+Paid {0B:01 00 00 00}{06:14 00 00 00}{0B:00 00 00 00} Gald...
+
+[06433.170]
+Much obliged.
+
+[06433.171]
+Oh, is that so.
+
+[06433.172]
+Care for some grilled salmon, Snowfria's specialty?
+
+[06433.174]
+Isn't it... kind of burnt?
+
+[06433.175]
+Once it's in your stomach it's all the same. Don't fuss about taste.
+
+[06433.177]
+Obtained {08:7C 00 00 00}.
+
+[06433.178]
+Brother
+
+[06433.179]
+Heh heh, yo, brother. That {08:7C 00 00 00}, see, is mine. If you want it, I'll sell it to you.
+
+[06433.180]
+Brother
+
+[06433.181]
+...But you don't seem to have any money. Tch. Then I've got no business with you. Give that sword back!
+
+[06433.183]
+Gave back the {08:7C 00 00 00}.
+
+[06433.184]
+Brother
+
+[06433.185]
+...Right, seeing it's you and me, friend price: {0B:01 00 00 00}{06:A0 0F 00 00}{0B:00 00 00 00} Gald will do. A special sale, now or never.
+
+[06433.187]
+{03:00 00 00 00}　That's cheap! Sold!　
+　I'll pass, brother　
+
+[06433.188]
+Brother
+
+[06433.189]
+Heh heh, that's the spirit. You got a bargain, brother.
+
+[06433.191]
+Paid {0B:01 00 00 00}{06:A0 0F 00 00}{0B:00 00 00 00} Gald.
+
+[06433.192]
+Brother
+
+[06433.193]
+You serious? You've lost out, brother.
+
+[06433.194]
+Katz
+
+[06433.195]
+It was a long time ago now, but I had a son, mew.
+
+[06433.196]
+Katz
+
+[06433.197]
+We were parted when we came to this snowy town, and that was that. To this day I go around looking for him like this, mew.
+
+[06433.198]
+Katz
+
+[06433.199]
+The only clue is the golden Katz pelt I had specially made...
+
+[06433.200]
+Katz
+
+[06433.201]
+He was small then, so he won't remember me anymore, mew.
+
+[06433.202]
+Katz
+
+[06433.203]
+Sweet little "Marshmallow". Such a soft child, mew...
+
+[06433.204]
+Katz
+
+[06433.205]
+I don't know where he is, but I'm sure he's doing well, mew~.
+
+[06433.206]
+Monaco
+
+[06433.207]
+Collector
+
+[06433.208]
+Would you trade {0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} of your {08:4B 00 00 00} for my {08:FF FF FF FF}?
+
+[06433.210]
+{03:00 00 00 00}　Agree　
+　Refuse　
+
+[06433.211]
+Another time, then, please.
+
+[06433.212]
+There, traded!
+
+[06433.213]
+If you get hold of more {08:4B 00 00 00}, please think of me.
+
+[06433.214]
+Oh, it seems you have too many things to carry it.
+
+[06433.215]
+Oh, what a shame...
+
+[06433.216]
+I am collecting {08:4B 00 00 00}.
+
+[06433.217]
+Hello, my name's Monaco.
+
+[06433.218]
+Monaco
+
+[06433.219]
+I'm a maid by trade.
+
+[06433.220]
+On snowy days I'm busy shoveling snow at the mansion, but...
+
+[06433.221]
+Well, never mind about that.
+
+[06433.222]
+The truth is, I'm collecting {08:4B 00 00 00}...
+
+[06433.223]
+If you find any {08:4B 00 00 00}, would you let me have them?
+
+[06433.224]
+Have a safe journey.
+
+[06433.225]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06433.226]
+Will you stay the night?
+
+[06433.228]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06433.229]
+Please rest well.
+
+[06433.230]
+Good morning.
+
+[06433.231]
+You do not have enough money.
+
+[06433.232]
+We look forward to seeing you again.
+
+[06433.237]
+Obtained {16:25 CA}.
+
+[06433.239]
+Obtained {08:FF FF FF FF}.
+
+[06433.241]
+Found {16:25 D2}, but you can carry no more.
+
+[06433.243]
+There is nothing here.
+
+[06433.244]
+{08:12 00 00 00} Seller
+
+[06433.245]
+We sell {08:12 00 00 00} here.
+
+[06433.246]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06433.247]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06433.248]
+That will be {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06433.250]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 E6} at once ({14:35 E0} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06433.252]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06433.253]
+Thank you for your purchase.
+
+[06433.254]
+Thank you for your purchase.
+
+[06433.255]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald a bottle.
+
+[06433.256]
+Would you like to hear the Refine lessons?
+
+[06433.258]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06433.259]
+What would you like to know about?
+
+[06433.261]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06433.263]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06433.264]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06433.265]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06433.266]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06433.267]
+Lenses can be picked up by fighting monsters.
+
+[06433.268]
+Do take this chance to refine all you like.
+
+[06433.269]
+Changing an item means refining a single item to turn it into a different item.
+
+[06433.270]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06433.271]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06433.272]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06433.273]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06433.274]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06433.275]
+Ah, I should explain Slots first, shouldn't I.
+
+[06433.276]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06433.277]
+I will explain Slots in detail separately.
+
+[06433.278]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06433.279]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06433.280]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06433.281]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06433.282]
+Let me explain Slots in detail.
+
+[06433.283]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06433.284]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06433.285]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06433.286]
+Equipment with Slots is mostly dropped by monsters.
+
+[06433.287]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06433.288]
+Just between us, accessories can be refined too. But not with one another.
+
+[06433.289]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06433.290]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06433.291]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06433.292]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06433.293]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06433.294]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06433.295]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06433.296]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06433.297]
+So I recommend selling off the items you no longer need.
+
+[06433.298]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06433.299]
+...Keeping your items tidy matters too.
+

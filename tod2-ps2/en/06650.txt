@@ -1,0 +1,209 @@
+[06650.001]
+Ruins of the Surface Army Base
+
+[06650.002]
+Ruins of the Surface Army Base
+
+[06650.004]
+An airship... Seriously!
+
+[06650.006]
+This is the Ixifosler.
+
+[06650.008]
+It is a relic of the War of Heaven and Earth. It lay sleeping here, and I am told the Oberon Corporation found it.
+
+[06650.010]
+A relic of the War of Heaven and Earth... Will something that old really run?
+
+[06650.012]
+There is no need to worry. The one who built it is the famous Dr. {NAME:06 00 00 00} Berselius.
+
+[06650.014]
+Dr. {NAME:06 00 00 00}... That's the one who made the Swordians, right?
+
+[06650.016]
+The Swordians too, after their deeds in the War of Heaven and Earth, slept for a thousand years, and yet in the late disaster they worked perfectly.
+
+[06650.018]
+This was built by that same Dr. {NAME:06 00 00 00}. It will run now just the same.
+
+[06650.020]
+That's a genius scientist for the ages for you.
+
+[06650.022]
+Then let's hurry! We've got to save {NAME:02 00 00 00}!
+
+[06650.024]
+By the way, who's going to fly it?
+
+[06650.026]
+I have some experience with craft of this kind.
+
+[06650.028]
+We are taking off! Hold on tight!
+
+[06650.030]
+{NAME:04 00 00 00} earned the title "{08:25 08 00 00}".
+
+[06650.032]
+Wow... We really are back.
+
+[06650.034]
+Well, of course!? Who do you think built it?
+
+[06650.036]
+There, got it. It's small, but with this one it should boost the pendant's power.
+
+[06650.038]
+Then gather round, everyone...
+
+[06650.040]
+What is it, {NAME:02 00 00 00}?
+
+[06650.042]
+...{NAME:01 00 00 00}, I have a favor to ask.
+
+[06650.044]
+From now on, whatever may happen... swear that you will stop Elraine.
+
+[06650.046]
+What's got into you, {NAME:02 00 00 00}? Of course I...
+
+[06650.048]
+Please, swear it.
+
+[06650.050]
+...Very well.
+
+[06650.052]
+I swear, {NAME:02 00 00 00}. Whatever happens, I'll stop Elraine. I will!
+
+[06650.054]
+........ ........Yes.
+
+[06650.056]
+Then here we go. To the future...!
+
+[06650.058]
+Being back is all very well. The question is what we do now...
+
+[06650.060]
+................
+................
+
+[06650.062]
+Dear me... With {NAME:01 00 00 00} in this state, when he's the one who matters...
+
+[06650.064]
+You can't blame him. He'd be strange not to be down, after being told a thing like that.
+
+[06650.066]
+{NAME:01 00 00 00}...
+
+[06650.068]
+But even so, nothing will change if we sit here with folded hands.
+
+[06650.070]
+Elraine means to bring down the "Egg of God". Whatever may happen.
+
+[06650.072]
+......{NAME:04 00 00 00}.
+
+[06650.074]
+{NAME:01 00 00 00}, however much you agonize, the facts cannot be changed.
+
+[06650.076]
+You are the one who must decide. What to do about this world. What to do about {NAME:02 00 00 00}.
+
+[06650.078]
+Hey, you...!
+
+[06650.080]
+...What should I do?
+
+[06650.082]
+{NAME:01 00 00 00}...
+
+[06650.084]
+I told you. What to do is for you to decide.
+
+[06650.086]
+No one else can decide this. Only you can, you who became {NAME:02 00 00 00}'s hero.
+
+[06650.088]
+Hero... That's it, heroes!
+
+[06650.090]
+There are lots of heroes in this world. Philia, Woodrow, and Mom too.
+
+[06650.092]
+They might know. What to do at a time like this, what ought to be done...!
+
+[06650.094]
+I see, get some advice from the heroes who came before you. Not a bad idea at all.
+
+[06650.096]
+I like it, let's go! Sitting still here gets us nowhere.
+
+[06650.098]
+Then for getting around, use this.
+
+[06650.100]
+True, if we're going here, there and everywhere, this is handier.
+
+[06650.102]
+That's i~t! Come on, get in, get in!
+
+[06650.104]
+Let's go, {NAME:01 00 00 00}!
+
+[06650.106]
+...Right. Let's go.
+
+[06650.108]
+What could this be...?
+
+[06650.110]
+I don't know why, but I feel as if I've ridden in it before...
+
+[06650.112]
+Looks like fun. Let's get in.
+
+[06650.113]
+Have a safe journey.
+
+[06650.114]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06650.115]
+Will you stay the night?
+
+[06650.117]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06650.118]
+Please rest well.
+
+[06650.119]
+Good morning.
+
+[06650.120]
+You do not have enough money.
+
+[06650.121]
+We look forward to seeing you again.
+
+[06650.126]
+Obtained {16:26 66}.
+
+[06650.128]
+Obtained {08:FF FF FF FF}.
+
+[06650.130]
+Found {16:26 6E}, but you can carry no more.
+
+[06650.132]
+There is nothing here.
+

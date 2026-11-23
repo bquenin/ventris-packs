@@ -1,0 +1,12 @@
+[00456.001]
+I truly... thought you would never come... For me, who did such a terrible thing... I thought you'd never come to save me...
+
+[00456.002]
+{NAME:02 00 00 00}...
+
+[00456.003]
+But in truth I was waiting! From the bottom of my heart I wished that you, and no one else, would come to save me... And then, {NAME:01 00 00 00}... you really came...
+
+[00456.004]
+If you cried, {NAME:02 00 00 00}, I'd run to the ends of the world. Because I'm... your hero, {NAME:02 00 00 00}.
+

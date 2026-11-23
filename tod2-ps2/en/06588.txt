@@ -1,0 +1,118 @@
+[06588.001]
+Supply Depot
+
+[06588.002]
+Supply Depot
+
+[06588.004]
+Oh, past here is the laboratory, so you don't need to go.
+
+[06588.006]
+The laboratory? How do you know that?
+
+[06588.008]
+I had a quick look when I dropped by once... before the gas. I mean to use it as the Swordian research lab some day.
+
+[06588.010]
+Oh, past here is the laboratory, so you don't need to go. I mean to use it as the Swordian research lab some day.
+
+[06588.012]
+The door is shut.
+
+[06588.014]
+A large container. It seems to be locked by three keys: {08:33 00 00 00}, {08:34 00 00 00}, {08:35 00 00 00}.
+
+[06588.016]
+Used the three keys {08:33 00 00 00}, {08:34 00 00 00} and {08:35 00 00 00} and released the lock.
+
+[06588.018]
+Mm, the parts I need are a valve, a nozzle, heat shielding...
+
+[06588.020]
+A~ll right, this much is plenty. Now it only has to be put together.
+
+[06588.022]
+Can you really build a flying machine out of this heap of junk?
+
+[06588.024]
+With this much material? Can't anyone?
+
+[06588.026]
+...No, I think you're the only one who can do that.
+
+[06588.028]
+Everybody says so. I don't see why.
+
+[06588.030]
+Well, we've got what we came for, so let's be off home.
+
+[06588.031]
+Time over
+
+[06588.033]
+A key for releasing the low-level lock. There should be two more like it.
+
+[06588.035]
+Oh, that's right. Don't go outside while you're carrying this.
+
+[06588.037]
+Huh, why not?
+
+[06588.039]
+This thing can't stand a change of temperature. Take it out into that blizzard and it'll be ruined in no time.
+
+[06588.041]
+A key for releasing the low-level lock. There should be one more like it.
+
+[06588.043]
+With these three keys we can get the Master Key. It should be somewhere about, so let's look.
+
+[06588.045]
+This is a key for releasing the high-level lock.
+
+[06588.047]
+The Master Key, the Cell Key and the Bio Key. Use these three on the materials container and the lock is released.
+
+[06588.049]
+But the Cell Key and Bio Key can't stand a change of temperature, so don't go outside. The blizzard would ruin them at once!
+
+[06588.050]
+There is nothing of note here.
+
+[06588.051]
+Have a safe journey.
+
+[06588.052]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06588.053]
+Will you stay the night?
+
+[06588.055]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06588.056]
+Please rest well.
+
+[06588.057]
+Good morning.
+
+[06588.058]
+You do not have enough money.
+
+[06588.059]
+We look forward to seeing you again.
+
+[06588.064]
+Obtained {16:25 F6}.
+
+[06588.066]
+Obtained {08:FF FF FF FF}.
+
+[06588.068]
+Found {16:25 FE}, but you can carry no more.
+
+[06588.070]
+There is nothing here.
+

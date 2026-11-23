@@ -1,0 +1,94 @@
+[06401.001]
+Regular Ship
+
+[06401.002]
+Regular Ship
+
+[06401.004]
+Wh-what is this!?
+
+[06401.006]
+Damn, so this is the main body! It took us in completely!!
+
+[06401.008]
+At this rate the ship won't hold! But even if we beat it, water will come in through the hole... What do we do, {NAME:01 00 00 00}!?
+
+[06401.010]
+Wh-what do we do, you say...
+
+[06401.012]
+There is no time to think. ...Here it comes!!
+
+[06401.014]
+This is bad! She's already starting to sink!
+
+[06401.016]
+Wh-what do we do!? Um, water, we have to bail out the water...
+
+[06401.018]
+Idiot! That'll never keep up!
+
+[06401.020]
+Anyway, bring every last person still in the cabins up on deck!
+
+[06401.022]
+G-got it!!
+
+[06401.024]
+Wh-what should I...
+
+[06401.026]
+...Why don't you use your power?
+
+[06401.028]
+Huh!?
+
+[06401.030]
+With your power, you should be able to save the people here.
+
+[06401.032]
+No... I can't! With the power I have now...
+
+[06401.034]
+What are you two doing, {NAME:02 00 00 00}, {NAME:04 00 00 00}!
+
+[06401.036]
+I-I'm sorry!
+
+[06401.037]
+Have a safe journey.
+
+[06401.038]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06401.039]
+Will you stay the night?
+
+[06401.041]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06401.042]
+Please rest well.
+
+[06401.043]
+Good morning.
+
+[06401.044]
+You do not have enough money.
+
+[06401.045]
+We look forward to seeing you again.
+
+[06401.050]
+Obtained {16:25 BA}.
+
+[06401.052]
+Obtained {08:FF FF FF FF}.
+
+[06401.054]
+Found {16:25 C2}, but you can carry no more.
+
+[06401.056]
+There is nothing here.
+

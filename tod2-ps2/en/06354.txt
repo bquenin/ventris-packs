@@ -1,0 +1,86 @@
+[06354.001]
+Harmentz Valley
+
+[06354.002]
+Harmentz Valley
+
+[06354.004]
+This is Harmentz Valley.
+
+[06354.006]
+{03:00 00 00 00}{09:25 00 00 00} button: jump
+{09:26 00 00 00} button: cancel
+
+[06354.007]
+A gust of wind!
+
+[06354.008]
+You're reeling!
+
+[06354.010]
+If you botch a jump and fall here, you won't get off lightly.
+
+[06354.012]
+Listen, {NAME:01 00 00 00}. Go little by little, looking for places you can climb down and places you can jump.
+
+[06354.014]
+What's that over there?
+
+[06354.016]
+This... is that girl's pendant. No doubt about it!
+
+[06354.018]
+She must have dropped it while walking, or while climbing down the cliff.
+
+[06354.020]
+Heh heh~!
+
+[06354.022]
+What's with you? That's creepy, laughing all of a sudden.
+
+[06354.024]
+Me picking up something that girl dropped... This really is fate, isn't it!
+
+[06354.026]
+...Sigh. How do you always manage to see everything in the best possible light?
+
+[06354.028]
+Anyway, you hold on to it. If you meet her, you can give it back.
+
+[06354.029]
+Have a safe journey.
+
+[06354.030]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06354.031]
+Will you stay the night?
+
+[06354.033]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06354.034]
+Please rest well.
+
+[06354.035]
+Good morning.
+
+[06354.036]
+You do not have enough money.
+
+[06354.037]
+We look forward to seeing you again.
+
+[06354.042]
+Obtained {16:25 FA}.
+
+[06354.044]
+Obtained {08:FF FF FF FF}.
+
+[06354.046]
+Found {16:26 02}, but you can carry no more.
+
+[06354.048]
+There is nothing here.
+

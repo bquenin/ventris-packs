@@ -1,0 +1,21 @@
+[00876.001]
+Hey, {NAME:03 00 00 00}... have I grown up a bit, since setting out?
+
+[00876.002]
+...Hmm, I wonder. You're as bad at waking as ever... and you poke your nose into every trouble...
+
+[00876.003]
+Ugh...
+
+[00876.004]
+...But, well, you sorted out every bit of that trouble, and now you're the one pulling us along. You have grown...
+
+[00876.005]
+You think...?
+
+[00876.006]
+You crossed a thousand years and kept saving the world! Chest out, let's go see Rutee!
+
+[00876.007]
+Mm
+

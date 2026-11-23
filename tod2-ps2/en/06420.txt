@@ -1,0 +1,152 @@
+[06420.001]
+Neustadt
+
+[06420.002]
+Neustadt
+
+[06420.004]
+Suspending. Please wait a moment.
+
+[06420.006]
+You are in a race. Suspend it?{03:00 00 00 00}
+　Yes
+　No
+
+[06420.008]
+Suspending.
+
+[06420.010]
+You're pretty relaxed for someone in a race.
+
+[06420.012]
+Strong people are wonderful!!
+
+[06420.014]
+Good luck in the race.
+
+[06420.016]
+Please take part again.
+
+[06420.017]
+{05:C0 00 00 00}Lap {14:25 6C} White runner {18:44 9C}
+
+[06420.018]
+{05:C0 00 00 00}Lap {14:25 6E} Black runner {18:44 9C}
+
+[06420.019]
+{05:C0 00 00 00}Lap {14:25 70} Red runner {18:44 9C}
+
+[06420.020]
+{05:C0 00 00 00}Lap {14:25 72} Blue runner {18:44 9C}
+
+[06420.021]
+{05:C0 00 00 00}Lap {14:25 74} Green runner {18:44 9C}
+
+[06420.022]
+{05:C0 00 00 00}Lap {14:25 76} Yellow runner {18:44 9C}
+
+[06420.023]
+{05:C0 00 00 00}Finish White runner {18:44 9C}
+
+[06420.024]
+{05:C0 00 00 00}Finish Black runner {18:44 9C}
+
+[06420.025]
+{05:C0 00 00 00}Finish Red runner {18:44 9C}
+
+[06420.026]
+{05:C0 00 00 00}Finish Blue runner {18:44 9C}
+
+[06420.027]
+{05:C0 00 00 00}Finish Green runner {18:44 9C}
+
+[06420.028]
+{05:C0 00 00 00}Finish Yellow runner {18:44 9C}
+
+[06420.038]
+{05:00 04 00 00}GOAL!
+
+[06420.043]
+Place: {0B:01 00 00 00}{14:15 AC}
+Time: {18:46 1C}{0B:00 00 00 00}
+
+[06420.045]
+Congratulations.
+You set a new best time.
+　　{0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00}
+
+[06420.047]
+Recorded {0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00}
+as the best time.
+
+[06420.049]
+Congratulations.
+You set a new best lap time.
+　　　　{0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00}
+
+[06420.051]
+Recorded {0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00}
+as the best lap time.
+
+[06420.053]
+{03:00 00 00 00}Start the race!
+Walk the course
+See the course records
+Quit racing
+
+[06420.055]
+On your marks...
+
+[06420.057]
+Get set...
+
+[06420.059]
+Go!
+
+[06420.061]
+Press the {09:25 00 00 00} button to finish.
+
+[06420.063]
+{03:00 00 00 00}{0B:01 00 00 00}Best time　　　{14:21 56 A0 10 0E C8}:{14:21 56 A0 10 0E C9 90 3C C8 90 0A C8}{14:21 56 A0 10 0E C9 90 3C C8 90 0A C9}:{14:21 56 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C8}{14:21 56 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C9}
+Best lap time　{14:21 58 A0 10 0E C8}:{14:21 58 A0 10 0E C9 90 3C C8 90 0A C8}{14:21 58 A0 10 0E C9 90 3C C8 90 0A C9}:{14:21 58 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C8}{14:21 58 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C9}{0B:00 00 00 00}
+
+[06420.065]
+There is no record.
+
+[06420.066]
+Have a safe journey.
+
+[06420.067]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06420.068]
+Will you stay the night?
+
+[06420.070]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06420.071]
+Please rest well.
+
+[06420.072]
+Good morning.
+
+[06420.073]
+You do not have enough money.
+
+[06420.074]
+We look forward to seeing you again.
+
+[06420.079]
+Obtained {16:27 82}.
+
+[06420.081]
+Obtained {08:FF FF FF FF}.
+
+[06420.083]
+Found {16:27 8A}, but you can carry no more.
+
+[06420.085]
+There is nothing here.
+

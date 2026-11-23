@@ -1,0 +1,46 @@
+[06603.001]
+Spiral Cave
+
+[06603.002]
+Spiral Cave
+
+[06603.004]
+Obtained {08:41 00 00 00}.
+
+[06603.005]
+Have a safe journey.
+
+[06603.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06603.007]
+Will you stay the night?
+
+[06603.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06603.010]
+Please rest well.
+
+[06603.011]
+Good morning.
+
+[06603.012]
+You do not have enough money.
+
+[06603.013]
+We look forward to seeing you again.
+
+[06603.018]
+Obtained {16:25 C2}.
+
+[06603.020]
+Obtained {08:FF FF FF FF}.
+
+[06603.022]
+Found {16:25 CA}, but you can carry no more.
+
+[06603.024]
+There is nothing here.
+

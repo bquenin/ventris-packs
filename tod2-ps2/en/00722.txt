@@ -1,0 +1,15 @@
+[00722.001]
+When I'm important, will I lose my freedom to act, like Dymlos...
+
+[00722.002]
+Aw, you'll be fine.
+
+[00722.003]
+That's {NAME:03 00 00 00}! You really know me.
+
+[00722.004]
+Well, you'll never be important. So don't you worry about it.
+
+[00722.005]
+...Best not ask {NAME:03 00 00 00}.
+

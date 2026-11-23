@@ -1,0 +1,6 @@
+[00900.001]
+Say, {NAME:02 00 00 00}. What is it you want to talk...
+
+[00900.002]
+That is for when we reach the place where we met... It matters... very much.
+

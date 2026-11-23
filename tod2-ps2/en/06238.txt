@@ -1,0 +1,61 @@
+[06238.4788]
+Vassago
+
+[06238.4799]
+Vaassago
+
+[06238.4810]
+Vassagoo
+
+[06238.4821]
+Wassago
+
+[06238.4832]
+Vaggosa
+
+[06238.4843]
+Vassagon
+
+[06238.4854]
+Wassagon
+
+[06238.4867]
+Vaassagon
+
+[06238.4880]
+This monster from the
+waterway under
+Darilsheid:
+what was its name?
+
+[06238.4950]
+You got it, eh!
+
+[06238.4969]
+You seem to have
+it wrong
+
+[06238.4999]
+Nope.
+
+[06238.5006]
+Look hard?
+
+[06238.5019]
+On purpose
+...surely not?
+
+[06238.5047]
+What beast is that?
+
+[06238.5068]
+Not even close!
+
+[06238.5087]
+Pretty far off,
+I'd say...
+
+[06238.5119]
+Well!
+Can't tell them apart?
+

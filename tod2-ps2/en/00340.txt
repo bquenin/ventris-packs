@@ -1,0 +1,9 @@
+[00340.001]
+I wonder what {NAME:03 00 00 00} and {NAME:04 00 00 00} are doing now? Maybe fighting the whole time...
+
+[00340.002]
+You think? To me they seemed to get on rather well... You know what they say, "the more they fight, the closer they are".
+
+[00340.003]
+...Pfft! Ahaha! I can just see their scowls at that!
+

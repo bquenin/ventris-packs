@@ -1,0 +1,53 @@
+[06230.4788]
+Funny face
+
+[06230.4801]
+Love won
+
+[06230.4810]
+See unseen foes
+
+[06230.4829]
+Vanish
+
+[06230.4840]
+Bounce light
+
+[06230.4853]
+Teleport
+
+[06230.4862]
+Attack rises
+
+[06230.4877]
+Defense rises
+
+[06230.4892]
+What does this
+item do?
+
+[06230.4926]
+Right!
+The face on the status
+screen goes funny.
+Heh, an odd item
+
+[06230.4994]
+No.
+...Interested
+in such things?
+
+[06230.5033]
+No.
+Not nearly so useful
+
+[06230.5065]
+Wrong.
+
+[06230.5072]
+No.
+That's just a mirror...
+
+[06230.5108]
+Was it a little hard?
+

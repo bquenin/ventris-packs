@@ -1,0 +1,15 @@
+[00104.001]
+Hey, {NAME:03 00 00 00}. Ever thrown a coin into the fountain in Cresta?
+
+[00104.002]
+Yeah. Throw it in backwards and you get lucky in love, right? I've sunk no end of those. One coin for love is a bargain.
+
+[00104.003]
+And how did it go? Did it work?
+
+[00104.004]
+If it had, I wouldn't be traveling with the likes of you, I'd be living with a cute wife! ......If only I'd played it better back then... ugh...
+
+[00104.005]
+Oops, I think I touched a sore spot...
+

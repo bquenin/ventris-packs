@@ -1,0 +1,591 @@
+[06360.001]
+Aigrette: Grand Bazaar
+
+[06360.002]
+Aigrette
+
+[06360.003]
+Aigrette: Grand Bazaar
+
+[06360.005]
+We have to get to the cathedral, quick!
+
+[06360.006]
+Aigrette: Grand Bazaar
+
+[06360.008]
+The cart is loaded with foodstuffs from Aquaveil.
+
+[06360.010]
+Rice harvested in the Aquaveil region. Rice is apparently the region's staple food.
+
+[06360.012]
+A construction helmet. It has seen a great deal of use.
+
+[06360.014]
+A big barrel, as tall as a person. Inside... looks like foodstuffs.
+
+[06360.016]
+Inside the barrel... is a spice that is a specialty of Calvalese.
+
+[06360.018]
+A sack of wheat. "Product of Cresta" is written on the sack.
+
+[06360.020]
+Could this be wheat ground at the water mill in Cresta?
+
+[06360.022]
+Wow...!
+
+[06360.024]
+This is the Holy City of Aigrette, the greatest city on this continent.
+
+[06360.026]
+And the Great Temple of Straylize, the head temple of the Order of Atamoni, is here too.
+
+[06360.028]
+How about it, {NAME:01 00 00 00}? Way, way bigger than Cresta, isn't it?
+
+[06360.030]
+Yeah, yeah! It's amazing...
+
+[06360.032]
+For now, let's stroll around town and look for an inn.
+
+[06360.033]
+Man
+
+[06360.034]
+Me, I'm opening a shop here soon. Drop by if you like.
+
+[06360.036]
+Oh? And what are you going to sell?
+
+[06360.037]
+Man
+
+[06360.038]
+Stock up on the cheap stuff they sell around here and sell it high! That's the basics of business, the basics!
+
+[06360.039]
+Man
+
+[06360.040]
+Once the shop's up, buy heaps and make me rich!
+
+[06360.042]
+Like anyone would go!
+
+[06360.043]
+Man
+
+[06360.044]
+Aah, I blew it. Dammit...
+
+[06360.046]
+Um, what's the matter?
+
+[06360.047]
+Man
+
+[06360.048]
+I tried to stock up on lots of cheap stuff and sell it high, but I spent all my money and now I can't open the shop.
+
+[06360.050]
+That is what they call "buying cheap and wasting your money".
+
+[06360.051]
+Man
+
+[06360.052]
+Who'd have thought I'd burn through the money for the shop... Business is a scary thing...
+
+[06360.053]
+Man
+
+[06360.054]
+You boys new to this city? Truth is, so am I. I mean to start some kind of business here.
+
+[06360.055]
+Man
+
+[06360.056]
+I've got no money, but this place is full of chances. I'm going to give it my all too!
+
+[06360.057]
+Shop Girl
+
+[06360.058]
+Welco~me★ This is the sweet shop "Ama-Ama". Sweet things take your tiredness away.
+
+[06360.059]
+Thanks a lot.
+
+[06360.060]
+See you.
+
+[06360.061]
+Shop Girl
+
+[06360.062]
+Shop Girl
+
+[06360.063]
+Welco~me★ This is the sweet shop "Ama-Ama". Sweet things take your tiredness away.
+
+[06360.064]
+Food Stall
+
+[06360.065]
+Hey! How about a quick bite standing up!
+
+[06360.066]
+Thanks!
+
+[06360.067]
+Come again!
+
+[06360.068]
+Food Stall
+
+[06360.069]
+Food Stall
+
+[06360.070]
+Hey! How about a quick bite standing up!
+
+[06360.071]
+Young Man
+
+[06360.072]
+I'm too honest, an' all I ever got was swindled. So this time I'm gonna be the one doin' the swindlin'.
+
+[06360.073]
+Young Man
+
+[06360.074]
+...S-so, you lot, buy this shady-lookin' pot...
+
+[06360.076]
+Buddy, I don't think you're cut out for this job...
+
+[06360.077]
+Young Man
+
+[06360.078]
+B-buy this pot! It'll bring you happiness...
+
+[06360.079]
+Young Man
+
+[06360.080]
+Bring me some, that is...
+
+[06360.081]
+Young Man
+
+[06360.082]
+I wonder if Lady Elraine's amazin' miracles couldn't make my pots sell~.
+
+[06360.083]
+Young Man
+
+[06360.084]
+Maybe I'll sell pots as hard as I can, an' when I've got the Lenses together, I'll ask her~.
+
+[06360.085]
+Young Man
+
+[06360.086]
+H-hey, you lot. Won't you buy a pot that holds all the water you can pour in?
+
+[06360.088]
+You're not going to tell me it never fills up because there's a hole in the bottom, are you?
+
+[06360.090]
+He just flat-out looked away.
+
+[06360.091]
+Young Man
+
+[06360.092]
+I'm too honest, an' all I ever got was swindled. So this time I'm gonna be the one doin' the swindlin'.
+
+[06360.093]
+Young Man
+
+[06360.094]
+...S-so, you lot, buy this shady-lookin' statue...
+
+[06360.096]
+What kind of idiot would buy it after hearing that...
+
+[06360.098]
+...Hey, stop eyeing it like you want it, {NAME:01 00 00 00}!
+
+[06360.099]
+Young Man
+
+[06360.100]
+B-buy this statue! They're all the rage... In my head, that is...
+
+[06360.101]
+Scholar
+
+[06360.102]
+They say that after the uprising eighteen years ago, the people who gathered at the temple seeking salvation built this great city.
+
+[06360.104]
+Huh. So Aigrette is a pretty new city, then.
+
+[06360.105]
+Scholar
+
+[06360.106]
+Eighteen years since the upheaval over the Eye of God... To think such a great city could arise. Human strength is a great thing.
+
+[06360.107]
+Scholar
+
+[06360.108]
+I saw Lady Elraine's power for the first time... I was astonished... So that is the power of a god.
+
+[06360.109]
+Scholar
+
+[06360.110]
+I thought human strength was great, but the power of a god is greater still.
+
+[06360.111]
+Scholar
+
+[06360.112]
+This city was built by people who gathered seeking the power of a god...
+
+[06360.113]
+Scholar
+
+[06360.114]
+Can people really not live without relying on a god, I wonder?
+
+[06360.115]
+Scholar
+
+[06360.116]
+They say that after the uprising eighteen years ago, the people who gathered at the temple seeking salvation built this great city.
+
+[06360.117]
+Scholar
+
+[06360.118]
+To think such a great city could arise in a mere eighteen years. Human strength is a great thing.
+
+[06360.119]
+Scholar
+
+[06360.120]
+Eighteen years since the upheaval over the Eye of God... To think such a great city could arise. Human strength is a great thing.
+
+[06360.121]
+Young Man
+
+[06360.122]
+Everyone's making a fuss, Elraine this, Elraine that, but if you ask me, miracles are a trick.
+
+[06360.123]
+Young Man
+
+[06360.124]
+Illnesses cured and babies growing up healthy just by praying... If that were possible, nobody would have any troubles.
+
+[06360.125]
+Young Man
+
+[06360.126]
+A saint's miracles are just a trick in the end. I saw through it right away.
+
+[06360.127]
+Young Man
+
+[06360.128]
+Hey, you! Look at this stone! Isn't it wonderful?
+
+[06360.130]
+It's just a pebble.
+
+[06360.131]
+Young Man
+
+[06360.132]
+This is a roadside stone that Lady Elraine herself stepped on!
+
+[06360.133]
+Young Man
+
+[06360.134]
+As you'd expect of Lady Elraine, even a plain stone takes on a noble fragrance...
+
+[06360.136]
+No way it does.
+
+[06360.137]
+Young Man
+
+[06360.138]
+Ahh... Lady Elraine...
+
+[06360.139]
+Young Man
+
+[06360.140]
+I came to Aigrette, but I had no idea what to do, and I just kept wandering the alleys.
+
+[06360.141]
+Young Man
+
+[06360.142]
+But that day, when I saw Lady Elraine's miraculous power with my own eyes, I thought: I'm going to follow her.
+
+[06360.143]
+Young Man
+
+[06360.144]
+I'll follow Lady Elraine all my life. Even when I myself am lost, she will be the light that guides me.
+
+[06360.145]
+Young Man
+
+[06360.146]
+Did you know? Lady Philia has a thing for me.
+
+[06360.148]
+Huh? How would you know a thing like that?
+
+[06360.149]
+Young Man
+
+[06360.150]
+Because she smiled at me. She's fallen for me, no doubt about it!
+
+[06360.151]
+Young Man
+
+[06360.152]
+Lady Philia smiled at me, you know. She's fallen for me, no doubt about it!
+
+[06360.154]
+Ridiculous. That woman is always smiling.
+
+[06360.156]
+This way seems to lead out of town.
+
+[06360.158]
+Looks like this way leads out of town.
+
+[06360.160]
+This way seems to lead out of town.
+
+[06360.161]
+Have a safe journey.
+
+[06360.162]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06360.163]
+Will you stay the night?
+
+[06360.165]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06360.166]
+Please rest well.
+
+[06360.167]
+Good morning.
+
+[06360.168]
+You do not have enough money.
+
+[06360.169]
+We look forward to seeing you again.
+
+[06360.174]
+Obtained {16:25 BA}.
+
+[06360.176]
+Obtained {08:FF FF FF FF}.
+
+[06360.178]
+Found {16:25 C2}, but you can carry no more.
+
+[06360.180]
+There is nothing here.
+
+[06360.181]
+{08:12 00 00 00} Seller
+
+[06360.182]
+We sell {08:12 00 00 00} here.
+
+[06360.183]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06360.184]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06360.185]
+That will be {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06360.187]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 D6} at once ({14:35 D0} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06360.189]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06360.190]
+Thank you for your purchase.
+
+[06360.191]
+Thank you for your purchase.
+
+[06360.192]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald a bottle.
+
+[06360.193]
+Would you like to hear the Refine lessons?
+
+[06360.195]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06360.196]
+What would you like to know about?
+
+[06360.198]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06360.200]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06360.201]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06360.202]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06360.203]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06360.204]
+Lenses can be picked up by fighting monsters.
+
+[06360.205]
+Do take this chance to refine all you like.
+
+[06360.206]
+Changing an item means refining a single item to turn it into a different item.
+
+[06360.207]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06360.208]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06360.209]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06360.210]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06360.211]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06360.212]
+Ah, I should explain Slots first, shouldn't I.
+
+[06360.213]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06360.214]
+I will explain Slots in detail separately.
+
+[06360.215]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06360.216]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06360.217]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06360.218]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06360.219]
+Let me explain Slots in detail.
+
+[06360.220]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06360.221]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06360.222]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06360.223]
+Equipment with Slots is mostly dropped by monsters.
+
+[06360.224]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06360.225]
+Just between us, accessories can be refined too. But not with one another.
+
+[06360.226]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06360.227]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06360.228]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06360.229]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06360.230]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06360.231]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06360.232]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06360.233]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06360.234]
+So I recommend selling off the items you no longer need.
+
+[06360.235]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06360.236]
+...Keeping your items tidy matters too.
+

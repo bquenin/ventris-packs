@@ -1,0 +1,31 @@
+[06291.4788]
+E-Gtr
+
+[06291.4795]
+Mandolin
+
+[06291.4806]
+Biwa
+
+[06291.4811]
+Lute
+
+[06291.4820]
+Guitar
+
+[06291.4827]
+What's this item?
+
+[06291.4848]
+Note its white hue
+
+[06291.4867]
+Nope.
+
+[06291.4874]
+No guitar is
+this color
+
+[06291.4900]
+Time's up
+

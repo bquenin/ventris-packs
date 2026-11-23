@@ -1,0 +1,21 @@
+[00160.001]
+Come on, {NAME:03 00 00 00}, let's hurry! She may have reached Aigrette long ago!
+
+[00160.002]
+True, you can't beat a woman's tears, yep, yep!
+
+[00160.003]
+Huh?
+
+[00160.004]
+Shown a sweet tearful face like that, a man catches fire. To see her soon and hold her! "Dry your tears on my chest"! Ooh!
+
+[00160.005]
+{NAME:13 27 00 00}-{NAME:03 00 00 00}... listen...!
+
+[00160.006]
+I know, say no more! Chasing the girl you've fallen for is a man's eternal romance. Come on, {NAME:01 00 00 00}!
+
+[00160.007]
+Fallen... for?
+

@@ -1,0 +1,321 @@
+[06347.001]
+Darilsheid, the Old Capital
+
+[06347.002]
+Darilsheid, the Old Capital
+
+[06347.003]
+Darilsheid, the Old Capital
+
+[06347.004]
+Darilsheid, the Old Capital
+
+[06347.006]
+It seems Darilsheid Harbor once lay beyond here. It is buried in rubble and there is no getting through...
+
+[06347.007]
+Man
+
+[06347.008]
+Nothing you do now makes any difference. It's not like anything will change...
+
+[06347.009]
+Man
+
+[06347.010]
+Tch, looking all high and mighty. A statue like this is just in the way. It won't even cover my drinks.
+
+[06347.012]
+Mister, taking it out on a statue won't help. If you've got no money for drinks, why not work?
+
+[06347.013]
+Man
+
+[06347.014]
+Leave me alone. Drinking and wallowing in memories is all I've got left to do...
+
+[06347.015]
+Man
+
+[06347.016]
+The uprising eighteen years ago tore everything away from me. My family, my fortune...
+
+[06347.017]
+Man
+
+[06347.018]
+No matter how run-down it gets, I love this city.
+
+[06347.019]
+Man
+
+[06347.020]
+But there's nothing here. No, there was once, but the uprising eighteen years ago took it all.
+
+[06347.021]
+Man
+
+[06347.022]
+Just waiting gets us nowhere. We have to act on our own, after all.
+
+[06347.023]
+Man
+
+[06347.024]
+Kid, if you ever feel like joining the rebuilding work, give me a shout anytime!
+
+[06347.025]
+Man
+
+[06347.026]
+If everyone pulls together, I think the rebuilding will move along. So I'm thinking of starting a group.
+
+[06347.027]
+Man
+
+[06347.028]
+How about it, kid, want to give it a try? You look like you've got backbone, for a youngster these days!
+
+[06347.030]
+That sounds great! But I've got something I have to do. Sorry, mister.
+
+[06347.031]
+Woman
+
+[06347.032]
+These days just lighting a fire is a chore. Things really were better in the old days.
+
+[06347.033]
+Woman
+
+[06347.034]
+Lens goods used to make life easy. What an inconvenient world it's become.
+
+[06347.036]
+Come to think of it, some company or other used to make all kinds of Lens goods, didn't it?
+
+[06347.038]
+The Oberon Corporation. When I was a kid, there were all sorts of things.
+
+[06347.039]
+Woman
+
+[06347.040]
+Ever since that big company, the Oberon Corporation, went under, this city's done nothing but decline.
+
+[06347.041]
+Woman
+
+[06347.042]
+Hugo, the head of the Oberon Corporation, was a great villain, but he brought this city the blessings of Lens goods.
+
+[06347.043]
+Woman
+
+[06347.044]
+When you think of it that way, maybe this city needed that man...
+
+[06347.045]
+Woman
+
+[06347.046]
+Even to fry an egg, they used firewood. That's how people lived in the old days.
+
+[06347.047]
+Woman
+
+[06347.048]
+Lenses used to do everything for us. Not anymore; now it's hard work just to fry an egg.
+
+[06347.049]
+Woman
+
+[06347.050]
+But I think that's a good thing. It makes you feel you're really "alive".
+
+[06347.051]
+Old Man
+
+[06347.052]
+Mfah mfah! Believe it or not, it was I who raised the hero Stahn!
+
+[06347.054]
+Huh!? Is that true!?
+
+[06347.055]
+Old Man
+
+[06347.056]
+It's true! I once showed Stahn the way when he was lost in town! Kah kah kah, hngh!
+
+[06347.058]
+Old man, that's not what "raised" means...
+
+[06347.059]
+Old Man
+
+[06347.060]
+Mfah mfah! I hear the Order of Atamoni is chasing some jailbreakers!
+
+[06347.061]
+Old Man
+
+[06347.062]
+A pair, they say, about 15 and 23 years old.
+
+[06347.064]
+O-oh~. Defying the Order, what terrible people.
+
+[06347.065]
+Old Man
+
+[06347.066]
+Quite so! Kah kah kah, hngh!
+
+[06347.067]
+Old Man
+
+[06347.068]
+Mfah mfah! Believe it or not, it was I who raised the hero Stahn!
+
+[06347.070]
+Huh!? Is that true!?
+
+[06347.071]
+Old Man
+
+[06347.072]
+It's true! I once showed Stahn the way when he was lost in town! Kah kah kah, hngh!
+
+[06347.074]
+Old man, that's not what "raised" means...
+
+[06347.075]
+Old Man
+
+[06347.076]
+Even if I'm the only one, I'll do it. I love this city more than anything. Kah kah kah, hngh!
+
+[06347.077]
+Old Man
+
+[06347.078]
+Life is falling seven times and rising eight. Even if you fall 7 times, get up 8 and you've won.
+
+[06347.079]
+Old Man
+
+[06347.080]
+What's broken can be built anew. If nobody else will, I will. Kah kah kah, hngh!
+
+[06347.081]
+Old Man
+
+[06347.082]
+You're like me. You'll be a great man one day. Kah kah kah, hngh!
+
+[06347.083]
+Old Man
+
+[06347.084]
+Mfah mfah! You've got good eyes, lad. It's like looking at myself when I was young.
+
+[06347.086]
+Whaaat! So when I get old, I'll end up like you, gramps?
+
+[06347.087]
+Old Man
+
+[06347.088]
+What's with that sour face!? I'll have you know I was a fresh, cute boy in my youth.
+
+[06347.089]
+Shiny-Loving Maid
+
+[06347.090]
+For {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lenses, wouldn't you like to know the way to Aigrette?
+
+[06347.092]
+　Tell me　
+　I'll find my own way　
+
+[06347.093]
+Shiny-Loving Maid
+
+[06347.094]
+Heh heh... Much obliged♪
+
+[06347.095]
+Shiny-Loving Maid
+
+[06347.096]
+To get to Aigrette, you have to go through Harmentz Valley.
+
+[06347.097]
+Shiny-Loving Maid
+
+[06347.098]
+Cross the bridge west of the city and keep the coastline on your right, and you'll see a suspension bridge. That's Harmentz Valley.
+
+[06347.099]
+Shiny-Loving Maid
+
+[06347.100]
+Once you cross Harmentz Valley, head east. When you see a river, that's Aigrette.
+
+[06347.101]
+Shiny-Loving Maid
+
+[06347.102]
+...Hey, you don't have enough!
+
+[06347.103]
+Shiny-Loving Maid
+
+[06347.104]
+Don't blame me if you wander around lost forever.
+
+[06347.106]
+"Statue of the Seven Generals"
+A statue honoring the 7 generals who governed Seinegald at the time of Hugo's uprising.
+
+[06347.108]
+When the Outer Shell collapsed, it was struck by the falling debris and vanished into the earth along with Seinegald Castle.
+
+[06347.109]
+Have a safe journey.
+
+[06347.110]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06347.111]
+Will you stay the night?
+
+[06347.113]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06347.114]
+Please rest well.
+
+[06347.115]
+Good morning.
+
+[06347.116]
+You do not have enough money.
+
+[06347.117]
+We look forward to seeing you again.
+
+[06347.122]
+Obtained {16:25 BA}.
+
+[06347.124]
+Obtained {08:FF FF FF FF}.
+
+[06347.126]
+Found {16:25 C2}, but you can carry no more.
+
+[06347.128]
+There is nothing here.
+

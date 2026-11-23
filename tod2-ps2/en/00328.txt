@@ -1,0 +1,9 @@
+[00328.001]
+It's so cold, and yet everyone is so full of life... Heidelberg really is a good place... I wonder if it's because Woodrow rules well.
+
+[00328.002]
+Hmm, Woodrow's great, sure, but maybe it's also that everyone in this town is great? It's like, "Snow, bring it on!" If it were {NAME:03 00 00 00}, he'd stay indoors all day saying "It's co~ld!" and curl up in his quilt.
+
+[00328.003]
+Hehe! He really would! But you may be right, {NAME:01 00 00 00}. It's not one great person. Each one does their best. That makes it a good town.
+

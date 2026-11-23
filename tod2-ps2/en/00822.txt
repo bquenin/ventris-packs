@@ -1,0 +1,21 @@
+[00822.001]
+Mmm, this feels good♪ Walking through town in the morning is the best! ...Hehe. Though it's a little cold.
+
+[00822.002]
+A-a little? It feels pretty cold to me...
+
+[00822.003]
+For shame, {NAME:01 00 00 00}. Hardly "the words of a hero who saved the world".
+
+[00822.004]
+B-but, I mean...
+
+[00822.005]
+Or... do you not like walking with me?
+
+[00822.006]
+N-no, not at all! It was just so sudden it startled me, or something...
+
+[00822.007]
+Hehe! Funny {NAME:01 00 00 00}! Your voice cracked★
+

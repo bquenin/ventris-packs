@@ -1,0 +1,87 @@
+[06316.001]
+Dunamis Orphanage: Rutee's Room
+
+[06316.002]
+Dunamis Orphanage
+
+[06316.003]
+Rutee's Room
+
+[06316.004]
+Rim
+
+[06316.005]
+Big brother {NAME:01 00 00 00} and the others get their clothes so dirty that the washing is really hard work!
+
+[06316.006]
+Rim
+
+[06316.007]
+...Mother Rutee? She's on the balcony airing everybody's bedding. I'm helping with the washing.
+
+[06316.008]
+Rim
+
+[06316.009]
+Any other time, I should be on the balcony.
+
+[06316.010]
+Rutee
+
+[06316.011]
+You're far too young for adventures!
+
+[06316.013]
+You dropped the laundry.
+
+[06316.015]
+Obtained {08:0C 00 00 00}.
+
+[06316.017]
+It holds all sorts of odds and ends.
+
+[06316.019]
+There is a letter inside.
+
+[06316.021]
+"...The inn is doing well here, and every day is a pleasure.
+If you ever come to Heidelberg, do show your face.
+From Mary"
+
+[06316.022]
+Have a safe journey.
+
+[06316.023]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06316.024]
+Will you stay the night?
+
+[06316.026]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06316.027]
+Please rest well.
+
+[06316.028]
+Good morning.
+
+[06316.029]
+You do not have enough money.
+
+[06316.030]
+We look forward to seeing you again.
+
+[06316.035]
+Obtained {16:25 BA}.
+
+[06316.037]
+Obtained {08:FF FF FF FF}.
+
+[06316.039]
+Found {16:25 C2}, but you can carry no more.
+
+[06316.041]
+There is nothing here.
+

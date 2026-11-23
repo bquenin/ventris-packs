@@ -1,0 +1,85 @@
+[06561.001]
+Coastal Cave
+
+[06561.002]
+Coastal Cave
+
+[06561.003]
+Coastal Cave
+
+[06561.005]
+Ugh, mmm...
+
+[06561.007]
+Wh-where are we...?
+
+[06561.009]
+{NAME:01 00 00 00}...
+
+[06561.011]
+{NAME:02 00 00 00}!
+
+[06561.013]
+Are you all right, {NAME:02 00 00 00}? You're not hurt?
+
+[06561.015]
+I'm fine. But what about everyone else...?
+
+[06561.017]
+Looks like we're alive. Phew, for a second there I thought my time was up.
+
+[06561.019]
+Listen to him. With a face that says you couldn't kill him if you tried. Well, the devil's luck is strong in you, that's all.
+
+[06561.021]
+It is well that we were saved, but where have you brought us, {NAME:02 00 00 00}?
+
+[06561.023]
+I don't know either. I only wished to take everyone somewhere safe.
+
+[06561.025]
+But... that warp in space, could it be...
+
+[06561.027]
+I have a bad feeling. Let's get out of here quickly.
+
+[06561.029]
+Right. Anyway, let's get outside!
+
+[06561.030]
+Have a safe journey.
+
+[06561.031]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06561.032]
+Will you stay the night?
+
+[06561.034]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06561.035]
+Please rest well.
+
+[06561.036]
+Good morning.
+
+[06561.037]
+You do not have enough money.
+
+[06561.038]
+We look forward to seeing you again.
+
+[06561.043]
+Obtained {16:25 CE}.
+
+[06561.045]
+Obtained {08:FF FF FF FF}.
+
+[06561.047]
+Found {16:25 D6}, but you can carry no more.
+
+[06561.049]
+There is nothing here.
+

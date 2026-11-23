@@ -1,0 +1,21 @@
+[00506.001]
+Elraine... what on earth have you...
+
+[00506.002]
+{NAME:02 00 00 00}. Better not to brood. At times like this, take a deep breath and empty your heart.
+
+[00506.003]
+Empty my heart?
+
+[00506.004]
+Yeah. Think of nothing, just empty your heart, on and on...
+
+[00506.005]
+W... wait, {NAME:01 00 00 00}, what is it? Leaning on me all of a sudden... Hey, {NAME:01 00 00 00}!?
+
+[00506.006]
+Hmm...... Looks like he's asleep.
+
+[00506.007]
+Sigh~... Heart and head both too empty.
+

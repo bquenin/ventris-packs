@@ -1,0 +1,72 @@
+[06243.4090]
+This tune?
+
+[06243.4101]
+Nope
+
+[06243.4106]
+Right!
+
+[06243.4113]
+Time up
+
+[06243.4122]
+What tune is it?
+
+[06243.4139]
+Wrong.
+
+[06243.4146]
+Time's up!
+
+[06243.4159]
+What is this tune called?
+
+[06243.4188]
+Wrong.
+
+[06243.4195]
+Right.
+
+[06243.4202]
+Time's up
+
+[06243.4213]
+Name of this tune?
+
+[06243.4236]
+Wrong!
+
+[06243.4245]
+Right!
+
+[06243.4254]
+Time's up.
+
+[06243.4267]
+The tune's name?
+
+[06243.4284]
+Wrong!
+
+[06243.4291]
+Right.
+
+[06243.4298]
+Time's up
+
+[06243.4309]
+Know what tune this is?
+
+[06243.4334]
+Right!
+
+[06243.4343]
+Name this tune
+
+[06243.4360]
+Wrong.
+
+[06243.4369]
+Right!
+

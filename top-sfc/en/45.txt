@@ -1,0 +1,406 @@
+[45.000]
+{クレス}
+"{クラース}, what happened to me...?"{PAGE}
+{クラース}
+"You were struck down by the monster that had possessed Meyer. But you are all right now."{PAGE}
+{クレス}
+"And Meyer?"
+
+[45.001]
+{クレス}
+"So he didn't make it..."{PAGE}
+{クラース}
+"From now on we cannot afford to be careless. Dhaos knows of us now{SPEED:10}...{SPEED:FF}"
+
+[45.002]
+{COLOR:03}Rest?{COLOR:02}
+
+[45.003]
+{クレス}
+"{ミント}, {ミント}, enemies! Wake up!!"{PAGE}
+{ミント}
+"{SPEED:10}...{SPEED:FF}I feel sick...{PAGE}
+I think I am seasick..."
+
+[45.004]
+{クレス}
+"{アーチェ}, enemies! Wake up!"{PAGE}
+{アーチェ}
+"No good... My head is pounding..."{PAGE}
+{クレス}
+"Th-this is hopeless."
+
+[45.005]
+{クラース}
+"I feel sick. My head is pounding."
+
+[45.006]
+"Ugh... I'm seasick. I feel awful..."
+
+[45.007]
+"The captain wasn't there? Perhaps he's gone into town.{PAGE}
+I should think he'll be back soon, though..."
+
+[45.008]
+"The captain? Wouldn't he be in the captain's cabin?{PAGE}
+Eh? That's not what you asked?"
+
+[45.009]
+"Welcome."
+
+[45.010]
+"Just waiting like this is dull, isn't it?"
+
+[45.011]
+"Let's take it easy. Nice and easy."
+
+[45.012]
+"Hey, want to buy something?"
+
+[45.013]
+"Thanks! Heh heh heh, a nice bit of pocket money!"
+
+[45.014]
+"Now, what shall I carry next...?"
+
+[45.015]
+"I am checking the cargo."
+
+[45.016]
+"Don't go falling for a man of the sea, now."
+
+[45.017]
+"Oh, enough! This work is too hard!!"
+
+[45.018]
+"What on earth is that man...?"
+
+[45.019]
+Captain
+"Y-you there! Do something about that man, quickly! He's on a rampage, and his strength isn't human!!"
+
+[45.020]
+"Eeeek, I'm scared!"
+
+[45.021]
+{クレス}
+"Meyer! Pull yourself together!!"{PAGE}
+Meyer
+"H-help me{SPEED:10}...{SPEED:FF}"
+
+[45.022]
+{クラース}
+"{クレス}, are you all right!?"{PAGE}
+{クレス}
+"A monster had possessed Meyer{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"One of those close to Dhaos, most likely. It meant to kill us because we know how things stand inside Alvanista. But what of Meyer?"
+
+[45.023]
+{クラース}
+"No use{SPEED:10}...{SPEED:FF}{PAGE}
+From now on we cannot afford to be careless. Dhaos knows of us now{SPEED:10}...{SPEED:FF}"
+
+[45.024]
+"Welcome."
+
+[45.025]
+{クラース}
+"Now, where shall we sit...?"{PAGE}
+???
+"Hey there!!"
+
+[45.026]
+Meyer
+"How about it? Won't you eat with me?"
+
+[45.027]
+{クラース}
+"Why not. There seem to be no other seats free."
+
+[45.028]
+Meyer
+"How about a drink? You can hold your drink, I'd say?"
+
+[45.029]
+{クラース}
+"Now you are talking!"{PAGE}
+
+
+[45.030]
+Meyer
+"A toast to a chance meeting!"{PAGE}
+{クラース}
+"Cheers!"
+
+[45.031]
+Meyer
+"Hey, keep it coming!"
+
+[45.032]
+　　　　One hour later...
+
+[45.033]
+{クレス}
+(How long are these two going to go on drinking?)
+
+[45.034]
+　　　　Two hours later...
+
+[45.035]
+{クレス}
+(I wonder if {アーチェ} is all right...?)
+
+[45.036]
+　　　　Three hours later...
+
+[45.037]
+Meyer
+"And so, you see, I worked right through the night and the whole lot went for nothing!"{PAGE}
+{クラース}
+"Ha ha ha!! That's a good one!!"
+
+[45.038]
+Meyer
+"By the way{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"By the way?"{PAGE}
+Meyer
+"This goes no further{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"What is it? Don't be coy, out with it."{PAGE}
+Meyer
+"The truth is, going to the Moria Mine is not what I'm really after."{PAGE}
+{クラース}
+"What?"{PAGE}
+
+
+[45.039]
+{アーチェ}
+"Hauuu!!!{PAGE}
+
+
+[45.040]
+No, {クレス}, you mustn't touch me there{SPEED:10}...{SPEED:FF}"
+
+[45.041]
+Meyer
+"What I'm really after is to sell secret information about Alvanista, through someone I know at the Adventurers' Guild."{PAGE}
+{クラース}
+"Information?"{PAGE}
+Meyer
+"That's right. Alvanista looks peaceful, but the word is that it's already as good as under Dhaos's rule."{PAGE}
+{クラース}
+"What!? How?"{PAGE}
+Meyer
+"This is the important part: it seems Prince Laird, the sole heir of Alvanista, has become the puppet of one of those close to Dhaos.{PAGE}
+That is the reason behind it when a country that stands shoulder to shoulder with Midgards, the great power of the east, does not openly fight Dhaos."{PAGE}
+
+
+[45.042]
+{クラース}
+"I am astonished{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[45.043]
+{アーチェ}
+"Aiiii!!!{PAGE}
+
+
+[45.044]
+I said no,
+{クレス}{SPEED:10}...{SPEED:FF}"
+
+[45.045]
+Meyer
+"A-anyway, keep this absolutely secret.{PAGE}
+Well, shall we call it a night?"{PAGE}
+{クラース}
+"Yes, let's."
+
+[45.046]
+{クラース}
+"{アーチェ}, you will catch cold sleeping in a place like that."{PAGE}
+{アーチェ}
+"{クレス}, you idiot{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+(What on earth is she dreaming about...?)
+
+[45.047]
+{クラース}
+"Up we go..."
+
+[45.048]
+{クラース}
+"There, {アーチェ}, here we are."{PAGE}
+{アーチェ}
+"Okaaay{SPEED:10}...{SPEED:FF}"
+
+[45.049]
+{クレス}
+"Oh, Meyer. Good morning. Is something the matter?"{PAGE}
+Meyer
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[45.050]
+{クラース}
+"{クレス}! Look out!!"
+
+[45.051]
+{クレス}
+"{クラース}, what are you doing!?"
+
+[45.052]
+{クラース}
+"{クレス}, outside! Meyer is being controlled!"
+
+[45.053]
+{クレス}
+"{クラース}, are you all right!?"{PAGE}
+{クラース}
+"Ugh...{PAGE}
+My head hurts... A hangover..."{PAGE}
+{クレス}
+"You rest, {クラース}. I'll go!"
+
+[45.054]
+{アーチェ}
+"The sea breeze feels so good."{PAGE}
+{ミント}
+"Yes, it does."
+
+[45.055]
+{クラース}
+"{クレス}, which one are you after?"{PAGE}
+
+
+[45.056]
+{クレス}
+"Eh? What do you mean?"{PAGE}
+{クラース}
+"{ミント} and {アーチェ}, of course!{PAGE}
+{ミント} is nice, so modest and calm, but {アーチェ} is hard to pass up too."{PAGE}
+
+
+[45.057]
+{クレス}
+"H-hold on! I haven't even thought about...!"{PAGE}
+{クラース}
+"Oh, come now... Then shall I make one of them mine?"{PAGE}
+{クレス}
+"{クラース}! Anyway, you've got Mirald, {クラース}, haven't you!"{PAGE}
+
+
+[45.058]
+{クラース}
+"D-don't be absurd! She is only my assistant!"{PAGE}
+{クレス}
+"Oh, really?"{PAGE}
+
+
+[45.059]
+{アーチェ}
+"Hey, hey, what are you talking about?"{PAGE}
+{クラース}
+"N-nothing, nothing. It has nothing to do with you two!"{PAGE}
+{アーチェ}
+"Aww, I want to hear!"
+
+[45.060]
+???
+"Are you lot adventurers?"{PAGE}
+{クラース}
+"Something of the kind. And you?"{PAGE}
+???
+"I'm Meyer. A wandering swordsman."{PAGE}
+{クラース}
+"Looking to hire on as a mercenary?"{PAGE}
+Meyer
+"No. I'm off to explore the Moria Mine."{PAGE}
+{クレス}
+"The Moria Mine?"{PAGE}
+Meyer
+"The old dwarven mine. You'll have heard the name at least?{PAGE}
+These days you can't get in without leave from Alvanista, though."{PAGE}
+{クラース}
+"And can you get leave?"{PAGE}
+Meyer
+"I know someone at the Adventurers' Guild.{PAGE}
+Hm? I'm getting hungry... Well, I'll be off."
+
+[45.061]
+{アーチェ}
+"I'm hungry too..."{PAGE}
+{クラース}
+"Shall we go and eat as well?"
+
+[45.062]
+{クレス}
+"Captain, about here will do."{PAGE}
+Captain
+"Are you sure this is the place?"{PAGE}
+{クラース}
+"Yes. All that is left is to dive into the sea. Thank you for your trouble."{PAGE}
+Captain
+"No, think nothing of it."{PAGE}
+{クラース}
+"Good. Then I shall summon Undine."
+
+[45.063]
+Undine
+"My master. What would you have of me?"{PAGE}
+{クラース}
+"Spirit of water. I want you to guide us deep down to the bottom of the sea."{PAGE}
+Undine
+"Very well."
+
+[45.064]
+Undine
+"Step into this bubble."
+
+[45.065]
+Captain
+"A strange lot, they were.{PAGE}
+
+
+[45.066]
+Right! You men, we're heading back!!"
+
+
+[45.067]
+{アーチェ}
+"Travelling by ship is lovely, isn't it? The sea breeze feels so good."
+
+[45.068]
+{ミント}
+"Everyone, please listen."{PAGE}
+{クレス}
+"What is it?"{PAGE}
+{ミント}
+"I have been thinking about how to bring the tree Yggdrasil back to life. I wondered whether my healing arts might do it... But with the power I have now, there is nothing I can do."{PAGE}
+{クラース}
+"And?"{PAGE}
+{ミント}
+"We borrow the power of the white horse, the unicorn."{PAGE}
+{クレス}
+"A unicorn?"{PAGE}
+{ミント}
+"The unicorn is the token of a healer. There must be one somewhere in this world."{PAGE}
+{クラース}
+"But{SPEED:10}...{SPEED:FF} even if we find a unicorn, will it lend us its power?"{PAGE}
+
+
+[45.069]
+{ミント}
+"I do not know. I do not know, but..."{PAGE}
+{クレス}
+"It's the only thing we can turn to now, isn't it, {ミント}? Let's go and look for the unicorn! We're sure to find it."{PAGE}
+
+
+[45.070]
+{ミント}
+"Thank you, {クレス}..."{PAGE}
+{クラース}
+"Then if that is settled, we act at once."
+

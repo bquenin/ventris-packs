@@ -1,0 +1,52 @@
+[06749.001]
+Aigrette
+
+[06749.002]
+Aigrette
+
+[06749.004]
+Things for worship are inside. What they are used for is a complete mystery.
+
+[06749.006]
+An empty drawer.
+
+[06749.008]
+A box marked "Offering Box". There are Lenses inside.
+
+[06749.009]
+Have a safe journey.
+
+[06749.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06749.011]
+Will you stay the night?
+
+[06749.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06749.014]
+Please rest well.
+
+[06749.015]
+Good morning.
+
+[06749.016]
+You do not have enough money.
+
+[06749.017]
+We look forward to seeing you again.
+
+[06749.022]
+Obtained {16:25 BA}.
+
+[06749.024]
+Obtained {08:FF FF FF FF}.
+
+[06749.026]
+Found {16:25 C2}, but you can carry no more.
+
+[06749.028]
+There is nothing here.
+

@@ -1,0 +1,43 @@
+[06631.001]
+Catacombs
+
+[06631.002]
+Catacombs
+
+[06631.003]
+Have a safe journey.
+
+[06631.004]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06631.005]
+Will you stay the night?
+
+[06631.007]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06631.008]
+Please rest well.
+
+[06631.009]
+Good morning.
+
+[06631.010]
+You do not have enough money.
+
+[06631.011]
+We look forward to seeing you again.
+
+[06631.016]
+Obtained {16:25 BA}.
+
+[06631.018]
+Obtained {08:FF FF FF FF}.
+
+[06631.020]
+Found {16:25 C2}, but you can carry no more.
+
+[06631.022]
+There is nothing here.
+

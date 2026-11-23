@@ -1,0 +1,99 @@
+[06423.001]
+Oberon Corporation Abandoned Mine
+
+[06423.002]
+Oberon Corporation Abandoned Mine
+
+[06423.004]
+What's this?
+
+[06423.006]
+This is called a "Lens-driven engine". It is a machine that draws energy from Lenses and turns it into motive power.
+
+[06423.008]
+Set it running and the equipment in the tunnels can be made to work again.
+
+[06423.010]
+How do we set it running?
+
+[06423.012]
+...It seems Lenses go into this tank. The number is "200".
+
+[06423.014]
+200... 200 Lenses!? It needs that many!?
+
+[06423.016]
+Complaining will get us nowhere. Let us look for Lenses. There may be some deeper in the mine.
+
+[06423.018]
+Obtained {08:01 00 00 00}.
+
+[06423.019]
+The Lens engine is running.
+
+[06423.021]
+{03:00 00 00 00}{0B:01 00 00 00}{14:34 74} more Lenses are needed.
+Put in {14:34 70}{0B:00 00 00 00} of the Lenses you have?
+　Yes　
+　No　
+
+[06423.022]
+The Lens engine has started.
+
+[06423.023]
+Put in {0B:01 00 00 00}{14:34 70}{0B:00 00 00 00} Lenses.
+
+[06423.024]
+Stopped.
+
+[06423.025]
+You have no Lenses.
+
+[06423.027]
+Have a safe journey.
+
+[06423.028]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06423.029]
+Will you stay the night?
+
+[06423.031]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06423.032]
+Please rest well.
+
+[06423.033]
+Good morning.
+
+[06423.034]
+You do not have enough money.
+
+[06423.035]
+We look forward to seeing you again.
+
+[06423.040]
+Obtained {16:25 C2}.
+
+[06423.042]
+Obtained {08:FF FF FF FF}.
+
+[06423.044]
+Found {16:25 CA}, but you can carry no more.
+
+[06423.046]
+There is nothing here.
+
+[06423.047]
+Obtained {0B:01 00 00 00}{14:35 EC}{0B:00 00 00 00} {16:35 F0}.
+
+[06423.049]
+Found {0B:01 00 00 00}{14:35 F4}{0B:00 00 00 00} {16:35 F0}, but you can carry no more. Returned them to the chest.
+
+[06423.051]
+{16:35 F0}: {0B:01 00 00 00}{14:35 F4} found, but you cannot carry them all.
+・Take {14:35 EC}, discard {14:35 F8}{0B:00 00 00 00}
+・Put them back in the chest
+

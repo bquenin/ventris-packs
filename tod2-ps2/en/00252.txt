@@ -1,0 +1,21 @@
+[00252.001]
+Hey, what do you think the treasure is? A legendary sword or something, maybe?
+
+[00252.002]
+Like a Swordian? That's no fun. Something more...... let's see. An ama~zing treasure nobody's ever seen...... like... a beauty, or a beauty, or a beauty...
+
+[00252.003]
+Isn't that just what you want, {NAME:03 00 00 00}... In that case, I'd like a hero!
+
+[00252.004]
+Aw, {NAME:02 00 00 00}~. If it's a hero you want, there's one right here.
+
+[00252.005]
+I cannot follow your thinking. There could not be a person inside a treasure chest.
+
+[00252.006]
+Oh, {NAME:04 00 00 00}. We're only joking♪ Aren't we, {NAME:03 00 00 00}?
+
+[00252.007]
+Eh? ......A joke?
+

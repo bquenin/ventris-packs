@@ -1,0 +1,376 @@
+[53.000]
+"Congratulations!! You win!! Now, let me give you a present."
+
+
+[53.001]
+What would you like?{PAGE}
+　1. {STR:ED0C}
+　2. {STR:DC0C}
+　3. {STR:D40B}
+　4. {STR:D90B}
+
+[53.002]
+{COLOR:03}Received {STR:ED0C}
+
+[53.003]
+{COLOR:03}Received {STR:DC0C}
+
+[53.004]
+{COLOR:03}Received {STR:D40B}
+
+[53.005]
+{COLOR:03}Received {STR:D90B}
+
+[53.006]
+.{COLOR:02}{PAGE}
+
+
+[53.007]
+Now, now, don't say that...
+
+
+[53.008]
+What would you like?{PAGE}
+　1. {STR:E60C}
+　2. {STR:FF0B}
+　3. {STR:D30B}
+　4. {STR:C60B}
+
+[53.009]
+{COLOR:03}Received {STR:E60C}
+
+[53.010]
+{COLOR:03}Received {STR:FF0B}
+
+[53.011]
+{COLOR:03}Received {STR:D30B}
+
+[53.012]
+{COLOR:03}Received {STR:C60B}
+
+[53.013]
+.{COLOR:02}{PAGE}
+
+
+[53.014]
+Now, now, don't say that...
+
+
+[53.015]
+I'll be waiting for your next challenge!!!
+
+[53.016]
+"Too bad. Better luck next time!!"
+
+[53.017]
+City of Alvanista
+
+[53.018]
+Port of Alvanista
+
+[53.019]
+Port of Alvanista
+
+[53.020]
+"Waaah! All my data's been wiped!!"
+
+[53.021]
+"All riiight!! 20 HITS!!!"
+
+[53.022]
+"A cow?"{PAGE}
+
+
+[53.023]
+"There seems to be a dog
+
+[53.024]
+"There seems to be a cat
+
+[53.025]
+ in here..."
+
+[53.026]
+A notice reads: "Closed for the time being"
+
+[53.027]
+"GOOOAL!!!!"
+
+[53.028]
+"Hold on a moment."
+
+[53.029]
+"Giving up?"
+
+[53.030]
+Try again some time!!
+
+[53.031]
+"The 128th Alvanista Memorial Race! Come on, you too can win a wonderful item in the race!"{PAGE}
+
+
+[53.032]
+"Won't you have a go too? Race the fastest boy in this town, and if you win I'll give you a wonderful item!"{PAGE}
+
+
+[53.033]
+Will you have a go?
+
+[53.034]
+"I don't want to do it any more. You're too fast, mister."{PAGE}
+"So he says. That proves you're the fastest in this town. Congratulations!!"
+
+[53.035]
+Right. Will you hear the rules, then?
+
+[53.036]
+The race is three laps of this town. From the moment you enter the race you are able to dash. The rest is up to your skill. If you want to stop partway, speak to me. Leave the town or go into a house and you are disqualified.{PAGE}
+Will you hear about the course too?
+
+[53.037]
+Then, the course. She will walk it, so remember it.{PAGE}
+"Then I shall explain the course.{PAGE}
+First, here, the east square is the start and the finish. Touch the yellow area in the middle and you are fine."{PAGE}
+
+
+[53.038]
+"From the start you come out onto the town's main street."
+
+[53.039]
+"When you come out of the main street into the central square, please pass along the north side of the square."
+
+[53.040]
+"Run on down the main street again, and at the dead end go north."
+
+[53.041]
+"Then you come out onto the south street and run along it."
+
+[53.042]
+"At the end of the street you come out into the central square again. Please pass along the south side of the square."
+
+[53.043]
+"Go down the main street, back to the east square, and that is the finish."
+
+[53.044]
+If you leave the course even a little, you are disqualified even if you finish.{PAGE}
+Will you hear it once more?
+
+[53.045]
+Then, on your marks!
+
+[53.046]
+I'll be waiting for your challenge!
+
+[53.047]
+"False start! Do it again."{PAGE}
+
+
+[53.048]
+"That's enough. You're too fast, mister."
+
+[53.049]
+"Hey! Fancy a race?"
+
+[53.050]
+"Aargh! I lost!"
+
+[53.051]
+"Heh! Fancy another race?"
+
+[53.052]
+"What's the matter, giving up!?"
+
+[53.053]
+"How about it? Won't you join in too?"
+
+[53.054]
+"Good luck!"
+
+[53.055]
+"You're fast, aren't you?"
+
+[53.056]
+"That boy is terribly fast. Can anybody beat him?"
+
+[53.057]
+"There's a racing game on just now. If you win you get an item that's amazing... or maybe not, I don't know."
+
+[53.058]
+"They say the prince was possessed? But he's been saved, and thank goodness for that."
+
+[53.059]
+"Prince Laird is everybody's idol. Character, valour, magic, looks: nothing lacking in any of them! But he hasn't shown himself lately, and I miss him a little."
+
+[53.060]
+"Go, go!!!"
+
+[53.061]
+"Isn't there anything fun to do...?"
+
+[53.062]
+"Go to the tavern and you'll always find adventurers hanging about. They're after exploring the Moria Mine."
+
+[53.063]
+"Welcome to Alvanista.{PAGE}
+Many elves hold important posts here. In other countries they would be hard put even to find work, but the King's policy is to bring magic into this country's culture as far as it will go."
+
+[53.064]
+{クレス}
+"What are you doing?"{PAGE}
+"I'm calling the people of the sky."{PAGE}
+{クレス}
+"The people of the sky?"{PAGE}
+"Yes. Far away beyond that sky there are people of a different race from ours. People who are a match for the gods themselves."
+
+[53.065]
+"Come! My friends!!"
+
+[53.066]
+"I'm only doing this to keep him company, but what am I doing...?"
+
+[53.067]
+"They say Lord Lundgrom, the castle's mage, is an elf and yet feels things very much as a human does."
+
+
+[53.068]
+"I don't want to work."
+
+[53.069]
+Captain
+"Ah, it's you lot. Going to Venezia?"{PAGE}
+
+
+[53.070]
+The fare, with passage, food and insurance, is {NUM:8169} Gald each,
+{NUM:816B} Gald for all of you.
+Will you go?
+
+[53.071]
+If you haven't the money, there's nothing to be done.
+
+[53.072]
+Then we saaail.
+
+[53.073]
+Well then.
+
+[53.074]
+"They say Dhaos's armies keep on attacking Midgards. What on earth can that country have?"
+
+[53.075]
+"Being a great military power isn't all good, is it?{PAGE}
+Midgards, I mean. They're still skirmishing with the armies Dhaos leads, aren't they? Alvanista is peaceful, and a good thing too."
+
+[53.076]
+"The sea! My home! Wide and beautiful, truly the mother of mankind!{PAGE}
+Let us take care of the sea!!"
+
+[53.077]
+"I'm in training to be a candidate for queen just now. One day I'll marry into riches, you'll see!{PAGE}
+Ahh, where is my prince?"
+
+[53.078]
+"Hot summer! The summer of youth!{PAGE}
+Summer is lovely, isn't it?"
+
+[53.079]
+"On a fine day like this I'd love to go to the sea for a swim."
+
+[53.080]
+"Do you know of the ninja village? They say the way in is somewhere in Treant's Forest."
+
+[53.081]
+"The spirits, they say, guard not only the lands where they dwell but the books that hand down magic too."
+
+[53.082]
+"The spirit Aska is said to have been captured long ago by the people of Thor, the far ancient civilisation.{PAGE}
+To think it was a civilisation that could bind even a spirit..."
+
+[53.083]
+"I am asking whether I can go on a trip around the world."{PAGE}
+
+
+[53.084]
+"Please, let me go on my trip."
+
+[53.085]
+"Now that Dhaos is gone, a trip around the world might be nice..."
+
+[53.086]
+"This fellow hasn't the least idea how things are in the world just now."{PAGE}
+
+
+[53.087]
+"I'm telling you, it can't be done!!"
+
+[53.088]
+"This is a cargo ship. Its job is to carry supplies for the settlements around Belladam."
+
+[53.089]
+Captain
+"This is the cargo ship for Belladam. I can only take you one way.{PAGE}
+The fare, one way, with food and insurance, is {NUM:8169} Gald each, {NUM:816B} Gald for all of you. All right?"
+
+[53.090]
+I see.
+
+[53.091]
+You have to have the money.
+
+[53.092]
+Then we saaail!
+
+[53.093]
+"Food is running short in Alvanista, so they've told me to go and import rice from around Belladam."{PAGE}
+
+
+[53.094]
+It would be better to hold off importing rice...
+
+[53.095]
+"Food is running short in Alvanista, so I am negotiating to import rice from around Belladam."{PAGE}
+
+
+[53.096]
+It is the King's order. Can you not do something?
+
+[53.097]
+"Let me tell you something interesting.{PAGE}
+Do you know of the pirate Aifread? After he was put to death, the army of Midgards stormed his lair, but not one piece of the treasure he had plundered was there."
+
+[53.098]
+"Let me tell you something interesting.{PAGE}
+It's a rumour about the pirate Aifread. They say he hid the treasure he plundered on desert islands and the like, dotted all over the world."
+
+[53.099]
+"I heard a rumour that the son of the pirate Aifread is alive.{PAGE}
+Where? Who knows..."
+
+[53.100]
+"North is an unlucky direction that speaks of death. You'd do well to remember it."
+
+[53.101]
+{クラース}
+"Thank you for everything, Captain."{PAGE}
+Captain
+"No, it was nothing. In times like these, I reckon people have to help one another to get by. Well then."{PAGE}
+{アーチェ}
+"Thanks, Captain♥"
+
+
+[53.102]
+{ミント}
+"Thank you very much."
+
+[53.103]
+{クレス}
+"Let's go to Alvanista Castle at once. We have to save the prince quickly..."{PAGE}
+{クラース}
+"Wait a moment. I have an idea. When we reach the inn, let us talk about what comes next."
+
+[53.104]
+
+　　On the Valhalla Plains
+　　the continent's greatest
+　　battle was about to begin
+

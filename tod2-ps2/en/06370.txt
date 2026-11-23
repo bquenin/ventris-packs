@@ -1,0 +1,136 @@
+[06370.001]
+Aigrette: House
+
+[06370.002]
+Aigrette
+
+[06370.003]
+House
+
+[06370.005]
+Obtained {08:68 00 00 00}.
+
+[06370.006]
+Mother
+
+[06370.007]
+We have lots of cats, don't we? We got them from the "Cat-Loving Old Man".
+
+[06370.008]
+Mother
+
+[06370.009]
+Nobody knows his real name, but he's an old man who dotes on cats as if they were his own children.
+
+[06370.010]
+Mother
+
+[06370.011]
+In the uprising eighteen years ago, the Outer Shell that covered the sky drained the life from many people... And from animals too, of course...
+
+[06370.012]
+Mother
+
+[06370.013]
+The cats kept by the "Cat-Loving Old Man" I mentioned were all wiped out too... You never saw such grief as his...
+
+[06370.014]
+Mother
+
+[06370.015]
+But after peace returned to the world, he began caring for cats once more.
+
+[06370.016]
+Mother
+
+[06370.017]
+The cats here may be descendants of those cats...
+
+[06370.018]
+Girl
+
+[06370.019]
+My mommy was sick for a long, long time.
+
+[06370.020]
+Girl
+
+[06370.021]
+But Lady Elraine cured Mommy's sickness with a miracle!
+
+[06370.022]
+Girl
+
+[06370.023]
+When I grow up, I want to be like the Saint too!
+
+[06370.024]
+Girl
+
+[06370.025]
+Oh, your pendant matches Lady Elraine's, big sister! Lucky you~!
+
+[06370.026]
+Girl
+
+[06370.027]
+I want a pendant like yours too, big sister.
+
+[06370.028]
+Girl
+
+[06370.029]
+My mommy was sick for a long, long time.
+
+[06370.030]
+Girl
+
+[06370.031]
+But thanks to Lady Philia, she's all better now!
+
+[06370.032]
+Girl
+
+[06370.033]
+When I grow up, I want to be like Lady Philia too!
+
+[06370.035]
+Meow.
+
+[06370.036]
+Have a safe journey.
+
+[06370.037]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06370.038]
+Will you stay the night?
+
+[06370.040]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06370.041]
+Please rest well.
+
+[06370.042]
+Good morning.
+
+[06370.043]
+You do not have enough money.
+
+[06370.044]
+We look forward to seeing you again.
+
+[06370.049]
+Obtained {16:25 BE}.
+
+[06370.051]
+Obtained {08:FF FF FF FF}.
+
+[06370.053]
+Found {16:25 C6}, but you can carry no more.
+
+[06370.055]
+There is nothing here.
+

@@ -1,0 +1,12 @@
+[00824.001]
+What's the "terrible thing" {NAME:06 00 00 00} found, I wonder?
+
+[00824.002]
+Who knows... But it's sure to be so hard that even the brain of the great {NAME:03 00 00 00} can't grasp it.
+
+[00824.003]
+Funny how it sounds like nothing much when you say it, {NAME:03 00 00 00}.
+
+[00824.004]
+Shut up! Back to the castle!
+

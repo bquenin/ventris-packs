@@ -1,0 +1,138 @@
+[06183.19782]
+TOD2 questions: bring it, everyone!
+
+[06183.19819]
+Can you get all ten?
+
+[06183.19840]
+I'll win this time
+
+[06183.19859]
+So, No. 1: {NAME:03 00 00 00}!
+
+[06183.19885]
+OK, bring it
+
+[06183.19898]
+Too easy!
+
+[06183.19909]
+Leave it!
+
+[06183.19920]
+No. 2: {NAME:02 00 00 00}!
+
+[06183.19936]
+Yes
+
+[06183.19941]
+Ehehe...
+
+[06183.19952]
+Eh?
+
+[06183.19957]
+Then No. 3: {NAME:04 00 00 00}!
+
+[06183.19981]
+Pointless...
+
+[06183.19996]
+Of course.
+
+[06183.20009]
+On purpose, obviously
+
+[06183.20036]
+No. 4: {NAME:05 00 00 00}!
+
+[06183.20052]
+Trust me!
+
+[06183.20063]
+Well, there you go
+
+[06183.20082]
+Oh, was I wrong?
+
+[06183.20101]
+No. 5: {NAME:06 00 00 00}!
+
+[06183.20117]
+Right-o
+
+[06183.20126]
+Clearly
+
+[06183.20135]
+The question's wrong
+
+[06183.20156]
+No. 6, back to {NAME:03 00 00 00}!
+
+[06183.20184]
+Right, I've got it!
+
+[06183.20205]
+Yes!
+
+[06183.20216]
+No. 7: {NAME:02 00 00 00}!
+
+[06183.20232]
+I did it!
+
+[06183.20243]
+Oh no...
+
+[06183.20254]
+No. 8: {NAME:04 00 00 00}!
+
+[06183.20270]
+Why me...
+
+[06183.20283]
+And he gets it right
+
+[06183.20306]
+He's wrong...
+
+[06183.20323]
+Sh-shut up!
+
+[06183.20338]
+No. 9: {NAME:05 00 00 00}!
+
+[06183.20354]
+Sure
+
+[06183.20361]
+See that!
+
+[06183.20372]
+Who wrote this question?
+
+[06183.20403]
+No. 10, the last: {NAME:06 00 00 00}!
+
+[06183.20435]
+Leave it to me!
+
+[06183.20452]
+Far too easy
+
+[06183.20465]
+Beyond saving...
+
+[06183.20482]
+That's my friends!
+
+[06183.20503]
+Huh... was that too hard?
+
+[06183.20530]
+Not yet! Let's go for all ten!
+
+[06183.20567]
+Let's try much harder!
+

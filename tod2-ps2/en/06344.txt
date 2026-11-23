@@ -1,0 +1,118 @@
+[06344.001]
+Darilsheid Underground Waterway
+
+[06344.002]
+Darilsheid Underground Waterway
+
+[06344.003]
+Darilsheid Underground Waterway
+
+[06344.005]
+This is the exit. It leads outside the city.
+
+[06344.007]
+Still, that took longer than I expected. Honestly, on my own I'd have been out much sooner...
+
+[06344.009]
+Yeah, yeah, keep talking. Sheesh...
+
+[06344.011]
+{NAME:01 00 00 00}, forget this guy. Let's hurry back to the orphanage.
+
+[06344.013]
+Ah, yeah.
+
+[06344.015]
+What's wrong? Weren't you going to hurry back and set out on your journey?
+
+[06344.017]
+{NAME:04 00 00 00}, really, thank you!
+
+[06344.019]
+You have no reason to thank me.
+
+[06344.021]
+Thank you anyway. You really helped us out!
+
+[06344.023]
+...
+
+[06344.025]
+See you, {NAME:04 00 00 00}. I hope we meet again somewhere!
+
+[06344.027]
+{NAME:01 00 00 00}...
+
+[06344.029]
+What?
+
+[06344.031]
+I would... with you...
+
+[06344.033]
+...No, it's nothing.
+
+[06344.035]
+If you want to be a hero, do try your best. Farewell.
+
+[06344.037]
+...You know, {NAME:04 00 00 00} is kind of mysterious, isn't he?
+
+[06344.039]
+Mysterious? You don't call that mysterious. You call that "weird".
+
+[06344.041]
+That's going too far, {NAME:03 00 00 00}. {NAME:04 00 00 00} is a good person.
+
+[06344.043]
+He could have escaped on his own, but he took us out with him.
+
+[06344.045]
+And just now, he even cheered me on!
+
+[06344.047]
+...Listen, {NAME:01 00 00 00}. That was sarcasm, not encouragement.
+
+[06344.049]
+You think so...?
+
+[06344.051]
+Never mind that, let's get back to the orphanage. It's gotten really late, so let's hurry.
+
+[06344.052]
+Have a safe journey.
+
+[06344.053]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06344.054]
+Will you stay the night?
+
+[06344.056]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06344.057]
+Please rest well.
+
+[06344.058]
+Good morning.
+
+[06344.059]
+You do not have enough money.
+
+[06344.060]
+We look forward to seeing you again.
+
+[06344.065]
+Obtained {16:25 CE}.
+
+[06344.067]
+Obtained {08:FF FF FF FF}.
+
+[06344.069]
+Found {16:25 D6}, but you can carry no more.
+
+[06344.071]
+There is nothing here.
+

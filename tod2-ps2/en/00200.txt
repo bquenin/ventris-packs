@@ -1,0 +1,21 @@
+[00200.001]
+Sigh... a sea voyage... I'm not keen at all...
+
+[00200.002]
+What's wrong, {NAME:03 00 00 00}? You look awfully pale.
+
+[00200.003]
+Well, we're getting on a ship, you know? A great lump like that can't float. Once you're aboard, you may never set foot on land again.
+
+[00200.004]
+It will be all right. There were lots of little children and women on board.
+
+[00200.005]
+R-really!? What women!? Beauties!? Or cuties!? Eh!? Eh!? Eh!?
+
+[00200.006]
+Eh? Well, um...
+
+[00200.007]
+Right, no time to dawdle! Let's go, everyone! The beauties... I mean, the sea is waiting for us!!
+

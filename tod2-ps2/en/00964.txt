@@ -1,0 +1,24 @@
+[00964.001]
+Hey, {NAME:01 00 00 00}. Stahn's sister, "Lilith", wasn't it? Why don't we go and see her?
+
+[00964.002]
+{NAME:03 00 00 00}... she's already married, you know.
+
+[00964.003]
+Look... I only want to meet her! She's the sister of the hero Stahn Aileron!
+
+[00964.004]
+Rea~lly...?
+
+[00964.005]
+Ah! What's that doubting face! Have I ever once told a lie?
+
+[00964.006]
+Ah! Over there, a woman traveling alone!
+
+[00964.007]
+Miss! Peaceful as the world now is, traveling alone is far too dangerous. Allow {NAME:03 00 00 00} Dunamis to be your companion on the road... no, for life...
+
+[00964.008]
+So unconvincing...
+

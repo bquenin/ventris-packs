@@ -1,0 +1,640 @@
+[59.000]
+Midgards Castle
+
+[59.001]
+{クレス}
+"Right, let's storm Dhaos's castle!!"
+
+[59.002]
+"An important council is sitting just now, so you had better not go in."
+
+[59.003]
+"Is this... the statue of Odin that Valkyrie spoke of?"
+
+[59.004]
+{クラース}
+"Now, {クレス}. You had better not leave this room."
+
+[59.005]
+"Lord Raizen, is it true that a warning has come from Dhaos?{PAGE}
+If it came to stopping this research, what on earth would become of us{SPEED:10}...{SPEED:FF}"{PAGE}
+Raizen
+"Have no fear. Our country is not about to do his bidding.{PAGE}
+You need only give yourselves to your research."
+
+[59.006]
+Raizen
+"Oh, what are you doing here? Come, come, to the audience chamber, please."
+
+[59.007]
+{ミント}
+"{クラース}, what of the council?"{PAGE}
+{クラース}
+"Ah, it has just ended."{PAGE}
+{クレス}
+"How did it go?"{PAGE}
+{クラース}
+"Dangerous it may be, but it is an important duty. And since it has been given to outsiders, that lot are none too pleased, as you would expect."{PAGE}
+{アーチェ}
+"What a silly thing to mind."{PAGE}
+{クラース}
+"Well, once we show them what we can do, they will quieten down."
+
+[59.008]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+You there, swordsman!{PAGE}
+Do not bear what is above your station!
+
+[59.009]
+{クラース}
+"Hey, {クレス}! Where are you going!?"{PAGE}
+{クレス}
+"A woman's voice..."{PAGE}
+{クラース}
+"Eh? What are you talking about?"
+
+[59.010]
+{アーチェ}
+"H-h-he's vanished!?"{PAGE}
+{ミント}
+"{クレス}...? No..."
+
+[59.011]
+{アーチェ}
+"Eek, {ミント}, {ミント}! Hold on!!"
+
+[59.012]
+Soldier
+"{クラース}, what are you doing? Please join the battle at once!"{PAGE}
+{クラース}
+"B-but my companion{SPEED:10}...{SPEED:FF}"{PAGE}
+Soldier
+"The war is not over yet! There is no time to dawdle!"{PAGE}
+{クラース}
+"No, that is not what I..."
+
+[59.013]
+{クレス}
+"You're one of Dhaos's minions!"{PAGE}
+???
+"I am one sworn in loyalty to Odin, who now lies in a long sleep. People call me Valkyrie."{PAGE}
+{クレス}
+"Odin...? Valkyrie?"
+
+[59.014]
+{クレス}
+"What do you want with me?"{PAGE}
+Valkyrie
+"Return the divine weapon.{PAGE}
+
+
+[59.015]
+I mean the spear you carry, Gungnir. It belongs to my lord Odin. It was never a thing for one as lowly as you to carry."{PAGE}
+
+
+[59.016]
+{クレス}
+"L-lowly..."{PAGE}
+Valkyrie
+"That spear was taken by humans from my master's tomb without leave. Return it quietly, and I shall thank you as is fitting."
+
+[59.017]
+{クレス}
+"That horse you're riding, can it fly?"
+
+[59.018]
+{ミント}
+"There is a forbidding air about the place."
+
+[59.019]
+{アーチェ}
+"Honestly! I'm worn out with waiting..."
+
+[59.020]
+{クラース}
+"How long do they mean to keep us waiting?"
+
+[59.021]
+"Nothing to report!"
+
+[59.022]
+Raizen
+"You will become a legend of this country.{PAGE}
+We mean to root out the monsters that remain. With that, peace will come to this world."
+
+[59.023]
+Raizen
+"Our army took heavy losses in this battle. From here on, you are our only hope. We mean to help you in every way we can."
+
+[59.024]
+Raizen
+"War is near. We must be on our guard..."
+
+[59.025]
+Guard
+"Beyond this point only the royal family may enter."
+
+[59.026]
+Guard
+"You are in the presence of the King. Mind your manners."
+
+[59.027]
+King
+"How can I thank you...? I am truly grateful."
+
+[59.028]
+King
+"A flying corps... Dhaos is a clever one.{PAGE}
+But this is no time to admire him. Yet what is to be done...?"
+
+[59.029]
+King
+"I am counting on you."
+
+[59.030]
+"The magitech weapon is broken. We start again from the beginning..."
+
+[59.031]
+"If this research bears fruit, we can build a weapon that will deal Dhaos a decisive blow."
+
+[59.032]
+"Dhaos can only be wounded by magic. And yet the elves will not fight him. That lot in the forest are cowards to a man."
+
+[59.033]
+"It's not a bug, it's a feature."
+
+[59.034]
+"The fusion of spirits and magitech is one of our studies too."
+
+[59.035]
+"I am researching witches and brooms."
+
+[59.036]
+"We are working hard to make the dream of mankind come true."
+
+[59.037]
+"With the magic power of the elves, Dhaos would be..."
+
+[59.038]
+"A whole month without a day offff."
+
+[59.039]
+"The more work you do, the more there is, eh?"
+
+[59.040]
+"Nothing to report!"
+
+[59.041]
+"I wish my relief would hurry up."
+
+[59.042]
+"No entry beyond this point except for those concerned."
+
+[59.043]
+"Between you and me, they say an incredible weapon is being built in there."
+
+[59.044]
+Owner of the weapon shop
+"We took refuge in the castle to keep out of the fighting.{PAGE}
+I did bring my stock, so will you buy something?"
+
+[59.045]
+"It's at times like these that a man must keep his trade going.{PAGE}
+Thank you kindly."
+
+[59.046]
+Owner of the drugstore
+"I've brought plenty of medicine. Will you buy?"
+
+[59.047]
+"Thank you kindly."
+
+[59.048]
+Part-timer from the item shop
+"Oh, what will become of this town now?{PAGE}
+I did bring the stock, so will you buy something?"
+
+[59.049]
+"Thank you. But it may all come to nothing..."
+
+[59.050]
+Mistress of the food shop
+"Even if you buy food here...{PAGE}
+Do you still want to buy?"
+
+[59.051]
+"Thank you kindly."
+
+[59.052]
+{クラース}
+"Ah, here he comes."
+
+[59.053]
+???
+"Forgive me for keeping you waiting. I am Raizen, commander of this country's knights. I have heard of you from Master Morrison. Young as you are, I am told you are heroes the equal of warriors each worth a thousand."{PAGE}
+
+
+[59.054]
+{クレス}
+"W-well, hardly that..."{PAGE}
+
+
+[59.055]
+Morrison
+"Thank you. So you came."{PAGE}
+{クレス}
+"Yes. Let us join forces and put a stop to Dhaos's ambition."{PAGE}
+{アーチェ}
+"Eh? Ambition?"
+
+[59.056]
+{アーチェ}
+"Come to think of it, Dhaos's ambition{SPEED:10}...{SPEED:FF} what is it?"{PAGE}
+
+
+[59.057]
+Raizen
+"What are you saying? Dhaos means to destroy this world!"{PAGE}
+{アーチェ}
+"Really?"{PAGE}
+{ミント}
+"{アーチェ}, what is the matter?"{PAGE}
+{クレス}
+"You really are being strange."
+
+[59.058]
+{アーチェ}
+"To destroy the world{SPEED:10}...{SPEED:FF}?"{PAGE}
+Raizen
+"Exactly so!"{PAGE}
+{アーチェ}
+"{SPEED:10}...{SPEED:FF}Oh well, never mind."{PAGE}
+
+
+[59.059]
+{クラース}
+"Forgive her. She seems to have been thinking too hard..."{PAGE}
+Morrison
+"A-at any rate, let me thank you once again. That you will fight beside us in the coming battle heartens me more than anything."{PAGE}
+{クラース}
+"When is the war likely to come?"{PAGE}
+Raizen
+"As to that, before the King... He is already waiting in the audience chamber. Please follow on after us."
+
+[59.060]
+Morrison
+"I too have several things I must tell the King, such as news that came in only just now. Until later."
+
+[59.061]
+King of Midgards
+"So you are the ones I was told of."{PAGE}
+Morrison
+"Yes.{PAGE}
+It was they, too, who saved the prince of Alvanista. Every one of them excels in swordsmanship or magic."{PAGE}
+King
+"That is heartening."{PAGE}
+Raizen
+"Sire."{PAGE}
+
+
+[59.062]
+King
+"Our country has no dealings with the elves, and where magic is concerned we know little. A magic corps has come from Alvanista, but... alas, they are few. To have people such as you join our ranks is a welcome thing."{PAGE}
+Raizen
+"Word has also come that an army of monsters is massing in the Valhalla Mountains. War is near. Please stay in this city as far as you can."{PAGE}
+King
+"Ah yes! In our country we are at work on research that will be our trump card in the war. Did you know of it?"{PAGE}
+
+
+[59.063]
+Raizen
+"Then let me show you the way. To the underground magitech laboratory."
+
+[59.064]
+Raizen
+"This is the magitech laboratory. If this research bears fruit, even humans will be able to use magic. Is that not wonderful?"{PAGE}
+{クラース}
+"What? Even humans, able to use magic?{PAGE}
+Is it true...? It is like a dream."{PAGE}
+Raizen
+"If the war is won, you who will have earned the credit shall be the first to be taught this craft."{PAGE}
+
+
+[59.065]
+{クラース}
+"R-really!?{PAGE}
+
+
+[59.066]
+Then there is nothing for it but to do our best!"{PAGE}
+
+
+[59.067]
+Raizen
+"Ask the people here for the details. I shall go back ahead of you."
+
+[59.068]
+{アーチェ}
+"I'm not satisfied."{PAGE}
+{クラース}
+"Eh?"{PAGE}
+{アーチェ}
+"About what Dhaos is after.{PAGE}
+
+
+[59.069]
+It's true Dhaos attacked towns. He's killed people. He controls monsters. But{SPEED:10}...{SPEED:FF}"
+
+[59.070]
+{クラース}
+"But?"{PAGE}
+{アーチェ}
+"Has Dhaos ever attacked Venezia or Euclid? In Alvanista all he did was take the prince hostage so they couldn't move, right? When he could have brought it down from the inside. The only place Dhaos has meddled with directly is Midgards. What does that mean?"
+
+[59.071]
+{クラース}
+"I hardly know what to say to that."{PAGE}
+{クレス}
+"What's got into you? He attacked Hamel, didn't he!"
+
+[59.072]
+{アーチェ}
+"Well, a private grudge is another matter, isn't it?"{PAGE}
+{クレス}
+"What? It was Dhaos pulling the strings behind the killing of Rhea and Rhea's parents too! Doesn't that mean anything to you!?"{PAGE}
+
+
+[59.073]
+{ミント}
+"{クレス}, you go too far!"
+
+[59.074]
+{アーチェ}
+"That's just it."{PAGE}
+
+
+[59.075]
+{クレス}
+"Huh?"{PAGE}
+{アーチェ}
+"That's the one thing that's odd. Why did he attack Hamel?"{PAGE}
+
+
+[59.076]
+{クラース}
+"Hmm..."{PAGE}
+{アーチェ}
+"Am I thinking too hard? Do Midgards and Hamel, or Rhea's parents, have anything in common? It is odd, isn't it? That the other towns are untouched."
+
+[59.077]
+{クラース}
+"I have no idea."{PAGE}
+{アーチェ}
+"Let's go to my house for once. If we ask my dad we might find something out... And I've got a bone to pick with him."{PAGE}
+{クラース}
+"T-to your house, now!? Is it not rather too far?"{PAGE}
+{アーチェ}
+"It's fine, it's fine. We just zip there and zip back, right?"{PAGE}
+{クレス}
+"And what bone to pick?"{PAGE}
+{アーチェ}
+"Never mind. Come on, let's go!"
+
+[59.078]
+{クレス}
+"Morrison, what is this!?"{PAGE}
+Morrison
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+???
+"Heh heh, so the players are all here at last."{PAGE}
+Morrison
+"...What do you want, Jestona!"{PAGE}
+Jestona
+"To say 'now let us have a war' and go home is not my way. If I end your lives here while I am about it, Lord Dhaos will be well pleased!"{PAGE}
+{クレス}
+"What!?"
+
+[59.079]
+Jestona
+"Don't move!{PAGE}
+
+
+[59.080]
+Move, and this brat dies..."{PAGE}
+{クレス}
+"That's a dirty trick!"{PAGE}
+Jestona
+"Kill yourselves. The boy and Morrison, and all three of you over there."
+
+[59.081]
+Morrison
+"{アーチェ}, watch closely{SPEED:10}...{SPEED:FF}"
+
+[59.082]
+Jestona
+"Uoh!!{PAGE}
+
+
+[59.083]
+Y-you wretch!!"
+
+[59.084]
+{クレス}
+"Morrison!!"{PAGE}
+Morrison
+"Stay back!! Widen this further, and it could even bring about a shift through time{SPEED:0F}...{SPEED:FF}"{PAGE}
+Jestona
+"Ha ha ha! The finishing blow!!"{PAGE}
+Morrison
+"Ugh...! Hah, hah. This{SPEED:10},{SPEED:FF} do not copy it{SPEED:10}...{SPEED:FF}"{PAGE}
+Jestona
+"Wh-what are you...!!"
+
+[59.085]
+{ミント}
+"No! How can this be...?"{PAGE}
+{クレス}
+"Morrison..."
+
+[59.086]
+{クレス}
+"{アーチェ}, do you still have doubts about Dhaos?"
+
+[59.087]
+{クレス}
+"You saw it, didn't you!? He will do anything at all to kill us!"{PAGE}
+{アーチェ}
+"...All right. I won't say it again{SPEED:10}...{SPEED:FF}"
+
+[59.088]
+{ミント}
+"{クレス}...{PAGE}
+History... is no longer as the book told it."{PAGE}
+{クレス}
+"Morrison has... saved us twice now.{PAGE}
+
+
+[59.089]
+I've had enough! We will defeat him ourselves!! And{SPEED:10}...{SPEED:FF}{PAGE}
+and we'll settle all of it!!"
+
+[59.090]
+Raizen
+"First, I should like you to look at this map of the continent."
+
+[59.091]
+Raizen
+"In five days the enemy army will have crossed the bridge. I therefore mean to form several special units, few in number, and have them throw the enemy army into confusion."{PAGE}
+
+
+[59.092]
+Captain of the Second
+"You mean to hold the enemy up?"{PAGE}
+Raizen
+"Yes. It is very dangerous, but if this plan succeeds our army's victory is certain. Those whose names I now call will take command of those special units."
+
+[59.093]
+Raizen
+"Captain of the First Special Unit: Richard!
+Captain of the Second Special Unit: Macaulay!
+Captain of the Third Special Unit: Kirkwood!
+
+
+[59.094]
+Captain of the Fourth Special Unit: {クラース}!"
+
+[59.095]
+Captain of the Third
+"Lord Raizen! Can a duty like this be left to mere mercenaries!?"
+
+[59.096]
+Raizen
+"Hold your tongue. I have decided this on my own responsibility."{PAGE}
+Captain of the Third
+"Sir..."{PAGE}
+
+
+[59.097]
+Raizen
+"All but those I have named are to withdraw.{PAGE}
+This plan is to be kept strictly secret. The plan for the main force will be explained in due course."{PAGE}
+
+
+[59.098]
+{クラース}
+"You had better go into town and see to your equipment. This looks like taking a while."
+
+[59.099]
+"Enemy targeting check complete. Sorcery energy level 99.2%. Laser operation system all clear. Ready to fire at any time!"{PAGE}
+Raizen
+"Good, mow them down!!"
+
+[59.100]
+"Fire!!!"
+
+[59.101]
+Raizen
+"How is the device running?"{PAGE}
+Engineer
+"Well, sir."{PAGE}
+Raizen
+"Good. With this weapon, Dhaos is{SPEED:10}...{SPEED:FF} heh heh..."
+
+[59.102]
+　　　Year 4202 of the Aselian calendar
+
+[59.103]
+King of Midgards
+"In the name of the god of war, I now name the heroes of high renown who carried out their great task so well."
+
+[59.104]
+King
+"{クラース}, captain of the Fourth Special Unit."{PAGE}
+{クラース}
+"Sire!"
+
+[59.105]
+King
+"I shall give you a reward in full measure for what you have done."
+
+[59.106]
+{COLOR:03}Received 10000 Gald.{COLOR:02}{PAGE}
+{クラース}
+"Thank you."
+
+[59.107]
+King
+"Richard, captain of the First Special Unit."{PAGE}
+Richard
+"Sire!"
+
+[59.108]
+King
+"I shall give you a reward in full measure for what you have done."
+
+[59.109]
+Richard
+"I accept it gratefully."
+
+[59.110]
+Raizen
+"You have all done well. With this the war is as good as wo..."{PAGE}
+"Your Majestyyy!!!"
+
+[59.111]
+Raizen
+"What is it! Such a noise!"{PAGE}
+"I-it's terrible!! The enemy, the enemy is attacking!!"{PAGE}
+Raizen
+"What!? Impossible! The plains are already in our hands...!?"{PAGE}
+"Th-they're coming from the sky..."{PAGE}
+Raizen
+"{SPEED:10}...{SPEED:FF}A flying corps!!"{PAGE}
+
+
+[59.112]
+Raizen
+"Form up the catapults and the cannon at once! Hurry!!"{PAGE}
+"Sir!"
+
+[59.113]
+Raizen
+"Your Majesty, to a place of safety."{PAGE}
+King
+"No, I shall stay here. To leave my people and flee alone..."{PAGE}
+Raizen
+"{SPEED:10}...{SPEED:FF}Very well.{PAGE}
+It is a good chance. Let us show Dhaos the power of the magitech weapon."
+
+[59.114]
+{クラース}
+"This is bad... Let us join the fight too!!"{PAGE}
+{クレス}
+"But from the sky..."{PAGE}
+{クラース}
+"We go all the same!!"
+
+[59.115]
+Raizen
+"Ha ha ha! Did you see it, the might of the magitech weapon!!"{PAGE}
+Engineer
+"Lord Raizen, some of the enemy remain!"{PAGE}
+Raizen
+"Good, give them another shot!!"
+
+[59.116]
+Raizen
+"Wh-what happened!?"{PAGE}
+Engineer
+"I-it's no good! The weapon could not withstand sorcery energy of such strength!"{PAGE}
+Raizen
+"Wh-what a disaster...!!"
+
+[59.117]
+Guard
+"{クレス}!"
+
+[59.118]
+Guard
+"You must be tired. The men of the other units have already gathered. Come, to the audience chamber, please."
+

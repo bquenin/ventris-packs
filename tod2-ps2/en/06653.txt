@@ -1,0 +1,77 @@
+[06653.001]
+Egg of God: Upper Level
+
+[06653.002]
+Egg of God: Upper Level
+
+[06653.003]
+Egg of God: Upper Level
+
+[06653.004]
+Egg of God
+
+[06653.006]
+Warp to the lower level of the "Egg of God"?
+
+[06653.008]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06653.010]
+So this is the "Egg of God"... It's a creepy place.
+
+[06653.012]
+To hatch a god inside the shell that is a comet... I see. ...An "Egg of God" indeed.
+
+[06653.014]
+And the shell itself is made of Lenses, on top of that. Now what will come of it, I wonder.
+
+[06653.016]
+Whatever comes, it doesn't matter. We force our way on! That's what we've always done.
+
+[06653.018]
+...Everyone, laugh or cry, this will be the last battle.
+
+[06653.020]
+We throw everything we've got at it and beat the god!
+
+[06653.022]
+...Yes! Let's go, {NAME:01 00 00 00}!
+
+[06653.023]
+Have a safe journey.
+
+[06653.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06653.025]
+Will you stay the night?
+
+[06653.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06653.028]
+Please rest well.
+
+[06653.029]
+Good morning.
+
+[06653.030]
+You do not have enough money.
+
+[06653.031]
+We look forward to seeing you again.
+
+[06653.036]
+Obtained {16:27 0A}.
+
+[06653.038]
+Obtained {08:FF FF FF FF}.
+
+[06653.040]
+Found {16:27 12}, but you can carry no more.
+
+[06653.042]
+There is nothing here.
+

@@ -1,0 +1,30 @@
+[00830.001]
+{NAME:06 00 00 00}, I haven't seen you since last night. Were you "observing the time axis" the whole while?
+
+[00830.002]
+Yes. And a little reading besides~.
+
+[00830.003]
+Huh. I've only ever used a book as a pillow. So what were you reading?
+
+[00830.004]
+Mm... I can't really say what, since I read every book in the library.
+
+[00830.005]
+Huh!? You read all that in one night!? ...Hey, hey, a joke's a joke. Nobody could do a thing like that!
+
+[00830.006]
+Well, a fool like you couldn't.
+
+[00830.007]
+Ngh...... A-a~ll right, if you say so, let's test it! Fourth bookcase from the left, second shelf from the top, seventh book from the right, page 250. Tell me what it says!
+
+[00830.008]
+Ri~ght. Chapter four of the "Lens Science Reader", isn't it? It was quite interesting, but had nothing especially new in it. It seems science hardly advanced in a thousand years... Any other questions?
+
+[00830.009]
+S-seriously... No, it can't be! I'll go and check for myself! U-um... which bookcase, which shelf, which book, what page was it?
+
+[00830.010]
+Forget your own words and vie with a genius?
+

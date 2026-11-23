@@ -1,0 +1,79 @@
+[06512.001]
+Calviola, the Holy Land
+
+[06512.002]
+Calviola, the Holy Land
+
+[06512.003]
+Calviola, the Holy Land
+
+[06512.004]
+Calviola, the Holy Land
+
+[06512.005]
+Priest
+
+[06512.006]
+This building is still under construction.
+
+[06512.008]
+So this is the holy land Calviola... It's a very odd shape.
+
+[06512.010]
+A domed building. Ten years on, it looks nothing like it did.
+
+[06512.012]
+...Hey, isn't it strange? It was so hot until a moment ago, and now it's oddly cool.
+
+[06512.014]
+And look. Never mind grains of sand, there's not a speck of dust here.
+
+[06512.016]
+It's as if this place alone were cut off from the world...
+
+[06512.018]
+...Shh! Someone's coming!
+
+[06512.020]
+It seems the worship has just ended.
+
+[06512.022]
+Now's our chance. Let's slip in quick, before they come back.
+
+[06512.023]
+Have a safe journey.
+
+[06512.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06512.025]
+Will you stay the night?
+
+[06512.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06512.028]
+Please rest well.
+
+[06512.029]
+Good morning.
+
+[06512.030]
+You do not have enough money.
+
+[06512.031]
+We look forward to seeing you again.
+
+[06512.036]
+Obtained {16:25 EE}.
+
+[06512.038]
+Obtained {08:FF FF FF FF}.
+
+[06512.040]
+Found {16:25 F6}, but you can carry no more.
+
+[06512.042]
+There is nothing here.
+

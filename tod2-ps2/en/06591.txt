@@ -1,0 +1,298 @@
+[06591.001]
+Supply Depot: Swordian Laboratory
+
+[06591.002]
+Supply Depot
+
+[06591.003]
+Swordian Laboratory
+
+[06591.005]
+Well then, let's get this done, chop-chop.
+
+[06591.007]
+That should do it...!
+
+[06591.009]
+All right, you people? Burn it well into your eyes. This moment in history!
+
+[06591.011]
+A-amazing...!
+
+[06591.013]
+What on earth is happening? It's so bright I can't see a thing.
+
+[06591.015]
+N-now that's something... So these are the Swordians...!
+
+[06591.016]
+Dymlos
+
+[06591.017]
+I am surprised. It is far easier to handle than the prototype.
+
+[06591.018]
+Igtenos
+
+[06591.019]
+Is this... really a sword? I do not even feel that I am holding it. It is like a part of my own hand.
+
+[06591.020]
+Chaltier
+
+[06591.021]
+Just gripping it tells me how great it is. With this sword I feel I could lose to no one.
+
+[06591.023]
+Don't go being amazed at this much. The Swordians have far greater powers than that.
+
+[06591.024]
+Karell
+
+[06591.025]
+Greater powers...?
+
+[06591.027]
+Lend it here a moment, brother.
+
+[06591.029]
+Haaaaah!!
+
+[06591.031]
+Oops, did I overdo it?
+
+[06591.032]
+Karell
+
+[06591.033]
+Wh-what was that...!?
+
+[06591.035]
+Dymlos knows this, I think, but whoever holds one of these swords can use a special power called spells.
+
+[06591.037]
+Spells differ in kind from person to person, so with six of you, you can cover one another's weak points.
+
+[06591.039]
+Well, isn't it great?
+
+[06591.040]
+Karell
+
+[06591.041]
+Truly, you are a genius. My own sister, and at times you frighten me...
+
+[06591.043]
+Oh, you've only just noticed? Honestly, brother, you're a fool.
+
+[06591.044]
+Dymlos
+
+[06591.045]
+By the way, {NAME:01 00 00 00}. I am sorry to ask, but could you carry this good news to the Commander?
+
+[06591.046]
+Dymlos
+
+[06591.047]
+We must learn from {NAME:06 00 00 00} how to handle spells, you see.
+
+[06591.049]
+Understood. Leave it to us, Dymlos.
+
+[06591.051]
+{NAME:06 00 00 00} earned the title "{08:0F 08 00 00}".
+
+[06591.053]
+Let's hurry and tell Litler the Swordians are finished!
+
+[06591.054]
+Dymlos
+
+[06591.055]
+Could you carry the good news that the Swordians are finished to the Commander?
+
+[06591.056]
+Dymlos
+
+[06591.057]
+We must learn from {NAME:06 00 00 00} how to handle spells, you see.
+
+[06591.058]
+Igtenos
+
+[06591.059]
+Is this... really a sword? I do not even feel that I am holding it. It is like a part of my own hand.
+
+[06591.060]
+Chaltier
+
+[06591.061]
+So this is a Swordian...
+
+[06591.062]
+Karell
+
+[06591.063]
+This Swordian's name is Berselius.
+
+[06591.064]
+Karell
+
+[06591.065]
+Each Swordian has its wielder's personality cast onto it, but...
+
+[06591.066]
+Karell
+
+[06591.067]
+This one holds {NAME:06 00 00 00}'s.
+
+[06591.068]
+Karell
+
+[06591.069]
+The wielder is myself... The mind is {NAME:06 00 00 00}'s... {NAME:06 00 00 00} and I are together at all times. That is my strength.
+
+[06591.070]
+Clemente
+
+[06591.071]
+How light it is... I can hardly feel any weight... Hup, hup, there we go.
+
+[06591.072]
+Atwight
+
+[06591.073]
+So among the spells there are arts of healing too?
+
+[06591.074]
+Raditz
+
+[06591.075]
+If only, through these Swordians, I could atone for the sin of having developed Belcrant...
+
+[06591.076]
+Raditz
+
+[06591.077]
+If only, through these Swordians, I could atone for the sin of having developed Belcrant...
+
+[06591.078]
+Researcher
+
+[06591.079]
+Belcrant... We have made a terrible thing.
+
+[06591.080]
+Researcher
+
+[06591.081]
+Dr. {NAME:06 00 00 00} is a genius... But I cannot fathom the way she behaves day to day...
+
+[06591.082]
+Researcher
+
+[06591.083]
+Let me see... Where did that data go?
+
+[06591.084]
+Researcher
+
+[06591.085]
+As I am now, all I can do is watch over it.
+
+[06591.086]
+Researcher
+
+[06591.087]
+Give the core... a personality... the strength of the material... mutter, mutter...
+
+[06591.088]
+Researcher
+
+[06591.089]
+Seeing it finished, the goal of our research, I have mixed feelings... A researcher lives for the work, not the result.
+
+[06591.090]
+Researcher
+
+[06591.091]
+You are the ones who rescued us. Thank you so much for that!
+
+[06591.092]
+Researcher
+
+[06591.093]
+I confess I feel jealous of Dr. {NAME:06 00 00 00}... So genius truly does exist...
+
+[06591.094]
+Researcher
+
+[06591.095]
+All those sleepless nights were worth it...
+
+[06591.096]
+Researcher
+
+[06591.097]
+I hate war! But I never thought I would end up taking part in one in this way...
+
+[06591.098]
+Researcher
+
+[06591.099]
+I wish a war like this would end soon.
+
+[06591.101]
+Well, see you later.
+
+[06591.103]
+Now, now, don't get in the way of research. Have this, and off you go, off you go.
+
+[06591.105]
+Obtained {08:B2 01 00 00}.
+
+[06591.107]
+Now, now, don't get in the way of research. You people go and see to your own business.
+
+[06591.108]
+Lightning!
+
+[06591.109]
+Have a safe journey.
+
+[06591.110]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06591.111]
+Will you stay the night?
+
+[06591.113]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06591.114]
+Please rest well.
+
+[06591.115]
+Good morning.
+
+[06591.116]
+You do not have enough money.
+
+[06591.117]
+We look forward to seeing you again.
+
+[06591.122]
+Obtained {16:25 C6}.
+
+[06591.124]
+Obtained {08:FF FF FF FF}.
+
+[06591.126]
+Found {16:25 CE}, but you can carry no more.
+
+[06591.128]
+There is nothing here.
+

@@ -1,0 +1,271 @@
+[06321.001]
+Dunamis Orphanage
+
+[06321.002]
+Dunamis Orphanage
+
+[06321.003]
+Rim
+
+[06321.004]
+Phew. Washing's done!
+
+[06321.005]
+Rim
+
+[06321.006]
+Everyone gets things muddy without a second thought, so it's hard work~
+
+[06321.008]
+Rim's going to make someone a good wife.
+
+[06321.009]
+Rim
+
+[06321.010]
+Big brother {NAME:01 00 00 00}, and you too, big brother {NAME:03 00 00 00}, don't get your clothes too dirty.
+
+[06321.012]
+Sorry for all the trouble...
+
+[06321.013]
+Rim
+
+[06321.014]
+Phew. Washing's done!
+
+[06321.015]
+Rim
+
+[06321.016]
+Everyone gets things muddy without a second thought, so it's hard work~
+
+[06321.018]
+Morning... Rim... Zzz...
+
+[06321.019]
+Rim
+
+[06321.020]
+Oh dear. Big brother {NAME:01 00 00 00}, you're drooling.
+
+[06321.021]
+Rim
+
+[06321.022]
+Honestly, big brother {NAME:01 00 00 00}, you're such a slob.
+
+[06321.023]
+Rim
+
+[06321.024]
+Big brother {NAME:01 00 00 00}, try not to get your clothes too dirty.
+
+[06321.026]
+Sorry. I think they'll get dirty again today...
+
+[06321.027]
+Rim
+
+[06321.028]
+Honestly...! Your clothes are the hardest of all to wash, big brother {NAME:01 00 00 00}~!
+
+[06321.029]
+Rim
+
+[06321.030]
+Honestly... Big brother {NAME:01 00 00 00}, you've got your clothes dirty again.
+
+[06321.031]
+Rim
+
+[06321.032]
+Have you got your handkerchief and tissues? You haven't forgotten anything?
+
+[06321.034]
+Rim, don't talk like Mom~
+
+[06321.035]
+Rim
+
+[06321.036]
+But you're hopeless at that kind of thing, big brother {NAME:01 00 00 00}.
+
+[06321.037]
+Rim
+
+[06321.038]
+Big brother {NAME:01 00 00 00}, you have to do your own washing properly too!
+
+[06321.040]
+Yes...
+
+[06321.041]
+Rim
+
+[06321.042]
+Oh, welcome back, big brother {NAME:01 00 00 00}! If you've got any washing, put it out for me.
+
+[06321.043]
+Rim
+
+[06321.044]
+The balcony has the best view of all, doesn't it?
+
+[06321.045]
+Rim
+
+[06321.046]
+When Father Stahn comes home, I wonder if I'll be the first to spot him?
+
+[06321.047]
+Rim
+
+[06321.048]
+Hmm... Is she your girlfriend, big brother?
+
+[06321.050]
+What! N-no... girlfriend, I mean...!!
+
+[06321.051]
+Rim
+
+[06321.052]
+Do you... wash big brother {NAME:01 00 00 00}'s clothes?
+
+[06321.054]
+Yes... Now and then...
+
+[06321.056]
+Rim, cut it out...!!
+
+[06321.057]
+Rim
+
+[06321.058]
+Oh, welcome back, big brother {NAME:01 00 00 00}! If you've got any washing, put it out for me.
+
+[06321.059]
+Rim
+
+[06321.060]
+I was the one who washed big brother {NAME:01 00 00 00}'s clothes, all~ this time.
+
+[06321.061]
+Rim
+
+[06321.062]
+Right, the washing's done! Oh, I'm so busy!
+
+[06321.063]
+Rim
+
+[06321.064]
+What with sword practice, Father Stahn and big brother {NAME:01 00 00 00} get their clothes dirty in no time, you see!
+
+[06321.065]
+Rim
+
+[06321.066]
+Big brother {NAME:01 00 00 00}, going out is fine, but put your washing out properly first.
+
+[06321.068]
+Yes...
+
+[06321.069]
+Rim
+
+[06321.070]
+No conversation set for this flag.
+
+[06321.072]
+Oh, there she is. Mo...
+
+[06321.074]
+Hold on, {NAME:01 00 00 00}. Lend me your ear a second.
+
+[06321.076]
+I like it. Let's do it, {NAME:03 00 00 00}!
+
+[06321.078]
+Ready, and...
+
+[06321.080]
+{05:00 02 00 00}Boo!
+
+[06321.082]
+{05:00 02 00 00}Boo!
+
+[06321.083]
+Rutee
+
+[06321.084]
+Eek!
+
+[06321.085]
+Rutee
+
+[06321.086]
+{NAME:01 00 00 00}! Why, you little...!!
+
+[06321.087]
+Rutee
+
+[06321.088]
+...{NAME:03 00 00 00}!?
+
+[06321.090]
+Heheheh... I'm home, Rutee.
+
+[06321.091]
+Rutee
+
+[06321.092]
+Honestly, what a child you are! Not one single letter since you joined the Order of Atamoni...! I was worried, you idiot!
+
+[06321.094]
+W-wait a second, Rutee! C-can't breathe...! Gaaaagh...!!
+
+[06321.096]
+What nice weather. I'm getting sleepy...
+
+[06321.098]
+Ohh... I want to wrap myself up in this bedding and sleep...
+
+[06321.099]
+Have a safe journey.
+
+[06321.100]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06321.101]
+Will you stay the night?
+
+[06321.103]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06321.104]
+Please rest well.
+
+[06321.105]
+Good morning.
+
+[06321.106]
+You do not have enough money.
+
+[06321.107]
+We look forward to seeing you again.
+
+[06321.112]
+Obtained {16:25 C6}.
+
+[06321.114]
+Obtained {08:FF FF FF FF}.
+
+[06321.116]
+Found {16:25 CE}, but you can carry no more.
+
+[06321.118]
+There is nothing here.
+

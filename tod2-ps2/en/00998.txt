@@ -1,0 +1,12 @@
+[00998.001]
+We've come out into the open, but where is this?
+
+[00998.002]
+Wherever it is, it beats being in a gloomy cave. That gets you down... Oh? What is it, {NAME:03 00 00 00}?
+
+[00998.003]
+H-hey, what's that!?
+
+[00998.004]
+Eh
+

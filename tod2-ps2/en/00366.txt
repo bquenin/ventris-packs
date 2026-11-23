@@ -1,0 +1,36 @@
+[00366.001]
+{NAME:04 00 00 00}... you hardly ever laugh, do you.
+
+[00366.002]
+I have no need to.
+
+[00366.003]
+But life's no fun that way, is it?
+
+[00366.004]
+I have no right to enjoy life...
+
+[00366.005]
+...Well, you've got your reasons, I can see, but why not let yourself grumble once in a while? That's what friends are for.
+
+[00366.006]
+Hey, {NAME:03 00 00 00}. There are tasty-looking mushrooms here. Are they poisonous?
+
+[00366.007]
+Eat one and you'll find out, won't you?
+
+[00366.008]
+Hey, {NAME:03 00 00 00}. My body's... going... numb... I... think.
+
+[00366.009]
+Dummy! Who'd really eat it! Spit it out, quick!!
+
+[00366.010]
+Bleeegh!
+
+[00366.011]
+...Do you think that pair can be leaned on?
+
+[00366.012]
+Sorry... My mistake.
+

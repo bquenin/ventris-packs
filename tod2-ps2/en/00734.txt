@@ -1,0 +1,9 @@
+[00734.001]
+{NAME:03 00 00 00}, listen...
+
+[00734.002]
+Going to say "was it right to decide on my own to save Atwight"? Du~mmy. That's nothing new. We come along knowing full well you'll run wild.
+
+[00734.003]
+Hehe. Thanks, {NAME:03 00 00 00}.
+

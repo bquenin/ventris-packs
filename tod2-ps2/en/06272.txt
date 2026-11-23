@@ -1,0 +1,40 @@
+[06272.4788]
+Cresta
+
+[06272.4797]
+Darilsheid
+
+[06272.4812]
+Aigrette
+
+[06272.4825]
+Lienea
+
+[06272.4832]
+Neustadt
+
+[06272.4847]
+Heidelberg
+
+[06272.4862]
+Rasheans
+
+[06272.4873]
+Totus
+
+[06272.4884]
+Which town
+is it?
+
+[06272.4902]
+Yes, our own town, Cresta!
+
+[06272.4933]
+Wrong...
+
+[06272.4946]
+Where's that...
+
+[06272.4964]
+What, give up?
+

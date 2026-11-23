@@ -1,0 +1,6 @@
+[00380.001]
+I hope {NAME:03 00 00 00} and {NAME:04 00 00 00} are safe...
+
+[00380.002]
+Those two? Fine. {NAME:04 00 00 00} can cope, and {NAME:03 00 00 00} said he can't die till he has a pretty wife.
+

@@ -1,0 +1,152 @@
+[06805.15888]
+Save
+
+[06805.15896]
+Memory Card slot 4
+
+[06805.15920]
+Memory Card slot 3
+
+[06805.15944]
+Memory Card slot 2
+
+[06805.15968]
+Memory Card slot 1
+
+[06805.15992]
+Load
+
+[06805.16000]
+Suspend
+
+[06805.16008]
+Resume
+
+[06805.16016]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Back
+
+[06805.16040]
+: cancel?
+ 
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06805.16096]
+Clear
+
+[06805.16112]
+Gald
+
+[06805.16120]
+Lenses
+
+[06805.16240]
+: the Memory Card (PS2)
+is not formatted.
+Format it?
+  
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06805.16352]
+Formatting. Do not remove the Memory Card (PS2)
+or switch off the power.
+
+[06805.16440]
+Formatting complete!
+
+[06805.16472]
+Formatting failed.
+
+[06805.16504]
+: accessing the
+Memory Card (PS2).
+
+[06805.16552]
+There is no save data for this game.
+
+[06805.16696]
+Suspend the game?
+Note that the suspend data is
+erased once you resume.
+
+
+[06805.16784]
+{05:E0 00 00 00}(Suspend data is overwritten.){05:00 01 00 00}
+
+
+[06805.16832]
+ 
+Are you sure?
+ 
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06805.16880]
+Create new data. Are you sure?
+  
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06805.16952]
+Overwrite the selected data.
+Are you sure?
+  
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06805.17032]
+Load the selected data. Are you sure?
+  
+{09:35 00 00 00}Yes  {09:36 00 00 00}No
+
+[06805.17128]
+: the Memory Card (PS2)
+does not have enough free space to create
+suspend data for this game.
+Creating it needs 
+
+[06805.17240]
+KB or more of free space.
+
+[06805.17272]
+: the Memory Card (PS2)
+does not have enough free space to create
+save data for this game.
+Creating it needs 
+
+[06805.17384]
+Save failed.
+
+[06805.17408]
+Load failed.
+
+[06805.17432]
+Saving. Do not remove the Memory Card (PS2)
+or switch off the power.
+
+[06805.17520]
+Save complete!
+
+[06805.17544]
+Loading. Do not remove the Memory Card (PS2)
+or switch off the power.
+
+[06805.17632]
+Load complete!
+
+[06805.17656]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Back
+{09:37 00 00 00}Graph
+
+
+[06805.17752]
+: no Memory Card (PS2)
+is inserted.
+
+[06805.17808]
+: cannot access the
+Memory Card (PS2).
+
+[06805.17856]
+Finish saving?
+  
+{09:35 00 00 00}Finish  {09:36 00 00 00}Back
+

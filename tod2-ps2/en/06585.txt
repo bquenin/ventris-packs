@@ -1,0 +1,79 @@
+[06585.001]
+Supply Depot
+
+[06585.002]
+Supply Depot
+
+[06585.004]
+This container is locked by {08:35 00 00 00}.
+
+[06585.005]
+Time over
+
+[06585.007]
+A key for releasing the low-level lock. There should be two more like it.
+
+[06585.009]
+Oh, that's right. Don't go outside while you're carrying this.
+
+[06585.011]
+Huh, why not?
+
+[06585.013]
+This thing can't stand a change of temperature. Take it out into that blizzard and it'll be ruined in no time.
+
+[06585.015]
+A key for releasing the low-level lock. There should be one more like it.
+
+[06585.017]
+With these three keys we can get the Master Key. It should be somewhere about, so let's look.
+
+[06585.019]
+This is a key for releasing the high-level lock.
+
+[06585.021]
+The Master Key, the Cell Key and the Bio Key. Use these three on the materials container and the lock is released.
+
+[06585.023]
+But the Cell Key and Bio Key can't stand a change of temperature, so don't go outside. The blizzard would ruin them at once!
+
+[06585.024]
+There is nothing of note here.
+
+[06585.025]
+Have a safe journey.
+
+[06585.026]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06585.027]
+Will you stay the night?
+
+[06585.029]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06585.030]
+Please rest well.
+
+[06585.031]
+Good morning.
+
+[06585.032]
+You do not have enough money.
+
+[06585.033]
+We look forward to seeing you again.
+
+[06585.038]
+Obtained {16:26 16}.
+
+[06585.040]
+Obtained {08:FF FF FF FF}.
+
+[06585.042]
+Found {16:26 1E}, but you can carry no more.
+
+[06585.044]
+There is nothing here.
+

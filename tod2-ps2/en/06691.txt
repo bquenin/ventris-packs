@@ -1,0 +1,56 @@
+[06691.001]
+Egg of God: Middle Level
+
+[06691.002]
+Egg of God: Middle Level
+
+[06691.004]
+Oh? Is this the Surface Army's base? ...It's awfully shabby, though.
+
+[06691.006]
+There is a "fragment" of something, glowing eerily. It bodes ill. Take it with you?
+
+[06691.008]
+{03:00 00 00 00}　Take it　
+　Don't take it　
+
+[06691.010]
+Obtained a fragment of the Derris Emblem.
+
+[06691.011]
+Have a safe journey.
+
+[06691.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06691.013]
+Will you stay the night?
+
+[06691.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06691.016]
+Please rest well.
+
+[06691.017]
+Good morning.
+
+[06691.018]
+You do not have enough money.
+
+[06691.019]
+We look forward to seeing you again.
+
+[06691.024]
+Obtained {16:25 C2}.
+
+[06691.026]
+Obtained {08:FF FF FF FF}.
+
+[06691.028]
+Found {16:25 CA}, but you can carry no more.
+
+[06691.030]
+There is nothing here.
+

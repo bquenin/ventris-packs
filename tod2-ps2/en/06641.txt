@@ -1,0 +1,62 @@
+[06641.001]
+Ruins of the Surface Army Base
+
+[06641.002]
+Ruins of the Surface Army Base
+
+[06641.004]
+A planter with a sapling set in it.
+
+[06641.006]
+The cold does not touch it at all. Some strange power seems to be at work.
+
+[06641.008]
+There is a planter here, of all places. Strangely, there is no snow on it at all. Plant the "sapling" in this planter?
+
+[06641.010]
+{03:00 00 00 00}　Plant it　
+　Don't　
+
+[06641.012]
+Planted the sapling.
+
+[06641.014]
+There is a planter here, of all places. Strangely, there is no snow on it at all.
+
+[06641.015]
+Have a safe journey.
+
+[06641.016]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06641.017]
+Will you stay the night?
+
+[06641.019]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06641.020]
+Please rest well.
+
+[06641.021]
+Good morning.
+
+[06641.022]
+You do not have enough money.
+
+[06641.023]
+We look forward to seeing you again.
+
+[06641.028]
+Obtained {16:27 06}.
+
+[06641.030]
+Obtained {08:FF FF FF FF}.
+
+[06641.032]
+Found {16:27 0E}, but you can carry no more.
+
+[06641.034]
+There is nothing here.
+

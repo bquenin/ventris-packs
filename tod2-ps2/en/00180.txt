@@ -1,0 +1,15 @@
+[00180.001]
+Sigh... Following her is bound to land us at the Great Temple of Straylize.
+
+[00180.002]
+What are you saying, {NAME:03 00 00 00}? Of course it will.
+
+[00180.003]
+I know... But I quit the Order, remember? It's awkward showing my face.
+
+[00180.004]
+It's fine! Nobo~dy will remember your face, {NAME:03 00 00 00}!
+
+[00180.005]
+...That's not exactly a comfort...
+

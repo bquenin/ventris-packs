@@ -1,0 +1,151 @@
+[06787.001]
+Lienea Village
+
+[06787.002]
+Lienea Village
+
+[06787.004]
+{NAME:02 00 00 00}! They say breakfast's ready!
+
+[06787.006]
+Oh, {NAME:01 00 00 00}...
+
+[06787.008]
+You look well again. I'm glad!
+
+[06787.010]
+I'm sorry I worried you.
+
+[06787.012]
+Don't give it a thought! After trying that hard, no wonder you were worn out.
+
+[06787.014]
+It was amazing, though! The pendant shone, the ship floated, and then it even flew through the sky!
+
+[06787.016]
+No way...
+
+[06787.018]
+The captain got all worked up, going "She must be a Saint!" and so on!
+
+[06787.020]
+...What!?
+
+[06787.022]
+A Saint, I said. A woman who can work miracles. There's one called Elraine who's like that.
+
+[06787.024]
+Elraine...
+
+[06787.026]
+Yeah, and this Elraine wears the same pendant as you, {NAME:02 00 00 00}. And when she uses her power, the pendant shines...
+
+[06787.028]
+...Ah! Does that pendant maybe have some amazing power? If I had it, could I work miracles too!?
+
+[06787.030]
+That's...
+
+[06787.032]
+Ju~st kidding! That can't be it. I picked your pendant up once, and nothing much happened then.
+
+[06787.034]
+So it really was your power, {NAME:02 00 00 00}. It's truly amazing!
+
+[06787.036]
+...It isn't. My power still has a long way to go.
+
+[06787.038]
+This time it just happened to go well. If you asked me whether I could do the same again...
+
+[06787.040]
+{NAME:02 00 00 00}...
+
+[06787.042]
+"Keep believing in yourself and in the other person. Do that, and in the end it will surely go well."
+
+[06787.044]
+Huh?
+
+[06787.046]
+{NAME:03 00 00 00} taught me that. He says they're my dad's words.
+
+[06787.048]
+Since coming here, I've heard all sorts of stories about Dad.
+
+[06787.050]
+They say Dad was an ordinary kid, no different from me. He played pranks and he messed up.
+
+[06787.052]
+So I thought maybe I can be a hero too.
+
+[06787.054]
+But... {NAME:03 00 00 00} taught me those words just now.
+
+[06787.056]
+Keep believing in yourself and in the other person...
+
+[06787.058]
+I can sort of tell that's a really hard thing to do.
+
+[06787.060]
+But Dad could do it. That's why he became a hero.
+
+[06787.062]
+So... I'll try it too! I'll believe in myself, and in everyone... and in you, {NAME:02 00 00 00}!
+
+[06787.064]
+{NAME:01 00 00 00}...
+
+[06787.066]
+You said you don't know if you could do what you did the other day again, but...
+
+[06787.068]
+I think you can! I believe you can do it, {NAME:02 00 00 00}, without fail!
+
+[06787.070]
+So you try believing too, {NAME:02 00 00 00}. In yourself... and in us.
+
+[06787.072]
+...Yeah!
+
+[06787.074]
+Let's go, {NAME:02 00 00 00}. Everyone's waiting!
+
+[06787.075]
+Have a safe journey.
+
+[06787.076]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06787.077]
+Will you stay the night?
+
+[06787.079]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06787.080]
+Please rest well.
+
+[06787.081]
+Good morning.
+
+[06787.082]
+You do not have enough money.
+
+[06787.083]
+We look forward to seeing you again.
+
+[06787.088]
+Obtained {16:25 C6}.
+
+[06787.090]
+Obtained {08:FF FF FF FF}.
+
+[06787.092]
+Found {16:25 CE}, but you can carry no more.
+
+[06787.094]
+There is nothing here.
+

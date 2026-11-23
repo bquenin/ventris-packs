@@ -1,0 +1,15 @@
+[00172.001]
+You know, Elraine did have the same air as that girl. Could they know each other? ...What do you think, {NAME:03 00 00 00}?
+
+[00172.002]
+Well... I grant you Elraine is a beauty.
+
+[00172.003]
+Huh?
+
+[00172.004]
+But she's not for me. I just can't warm to that "God comes first" way of thinking. Of course, if she asked me out I'd say "OK!" on the spot. She is a beauty, after all.
+
+[00172.005]
+...Never ask {NAME:03 00 00 00}.
+

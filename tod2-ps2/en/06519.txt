@@ -1,0 +1,63 @@
+[06519.001]
+The Flying Dragon
+
+[06519.002]
+The Flying Dragon
+
+[06519.004]
+{03:00 00 00 00}　Move by ladder　
+　Take up the ladder　
+
+[06519.006]
+{03:00 00 00 00}　Set it　
+　Don't set it　
+
+[06519.008]
+A point where a ladder can be set
+
+[06519.010]
+Press the {09:35 00 00 00} button to take up or set the rope ladder. (Note: only from above.)
+
+[06519.011]
+Have a safe journey.
+
+[06519.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06519.013]
+Will you stay the night?
+
+[06519.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06519.016]
+Please rest well.
+
+[06519.017]
+Good morning.
+
+[06519.018]
+You do not have enough money.
+
+[06519.019]
+We look forward to seeing you again.
+
+[06519.024]
+Obtained {16:25 CE}.
+
+[06519.026]
+Obtained {08:FF FF FF FF}.
+
+[06519.028]
+Found {16:25 D6}, but you can carry no more.
+
+[06519.030]
+There is nothing here.
+
+[06519.031]
+Time over
+
+[06519.033]
+Destroyed the control unit.
+

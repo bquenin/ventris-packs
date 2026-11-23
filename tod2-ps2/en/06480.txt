@@ -1,0 +1,46 @@
+[06480.001]
+Cherik: Inn
+
+[06480.002]
+Cherik
+
+[06480.004]
+Spare sheets and the like are inside.
+
+[06480.005]
+Have a safe journey.
+
+[06480.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06480.007]
+Will you stay the night?
+
+[06480.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06480.010]
+Please rest well.
+
+[06480.011]
+Good morning.
+
+[06480.012]
+You do not have enough money.
+
+[06480.013]
+We look forward to seeing you again.
+
+[06480.018]
+Obtained {16:25 BA}.
+
+[06480.020]
+Obtained {08:FF FF FF FF}.
+
+[06480.022]
+Found {16:25 C2}, but you can carry no more.
+
+[06480.024]
+There is nothing here.
+

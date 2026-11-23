@@ -1,0 +1,12 @@
+[00838.001]
+{NAME:02 00 00 00}... can the power of Lenses be used to destroy the world?
+
+[00838.002]
+I think probably not. Though if Lenses were combined with something, like Belcrant, perhaps it could be done...
+
+[00838.003]
+A thing like that is not so easily made. Yet the findings of {NAME:06 00 00 00} and the vision you saw both meant the end of the world... What means does Elraine intend to use?
+
+[00838.004]
+To the future once more!
+

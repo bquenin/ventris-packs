@@ -1,0 +1,15 @@
+[00304.001]
+...Achoo!
+
+[00304.002]
+Are you all right, {NAME:02 00 00 00}!?
+
+[00304.003]
+Y... yes... It's my first time in snow country, so I seem to have caught a bit of a chill.
+
+[00304.004]
+Haha! In snow country you get chilled fast if you're careless. You've got to wrap up well.
+
+[00304.005]
+Says the one with a snot icicle.
+

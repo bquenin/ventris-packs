@@ -1,0 +1,15 @@
+[00944.001]
+A~ll right. Since we're going round the world, I'll keep an eye out for all sorts of girls. And then take my time picking one to my taste... Wait! Wait!
+
+[00944.002]
+Hm? What are you doing by yourself, {NAME:03 00 00 00}?
+
+[00944.003]
+What...? Usually a mighty fist comes flying right about now...
+
+[00944.004]
+A fist... Whose?
+
+[00944.005]
+Hm? Now whose was it...
+

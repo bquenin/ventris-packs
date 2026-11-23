@@ -1,0 +1,6 @@
+[08622.001]
+Wind Elemental
+
+[08622.004]
+Fire Elemental
+

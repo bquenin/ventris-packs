@@ -1,0 +1,27 @@
+[00598.001]
+So Elraine is in that castle floating in the sky...
+
+[00598.002]
+......I will stop her, without fail. And the world must be put back...
+
+[00598.003]
+Um, {NAME:02 00 00 00}... you said before, didn't you? "The people of this world live happily too. So maybe this is fine as it is."
+
+[00598.004]
+That... doesn't matter now. If you have decided "this world is wrong, so we put it back", {NAME:01 00 00 00}, I simply follow.
+
+[00598.005]
+And you... are fine with that, {NAME:02 00 00 00}?
+
+[00598.006]
+I am. Because you are my hero, after all.
+
+[00598.007]
+{NAME:02 00 00 00}...
+
+[00598.008]
+Come, everyone. To Dycroft!
+
+[00598.009]
+......
+

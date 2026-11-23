@@ -1,0 +1,386 @@
+[31.000]
+Forest of Spirits
+
+[31.001]
+{クラース}
+"So this is the great tree Yggdrasil that Sylph spoke of?"{PAGE}
+"{SPEED:10}...{SPEED:FF}Hm? Wh-what is this!?"
+
+[31.002]
+{クレス}
+(This sight...!?){PAGE}
+Spirit of the tree
+"You can see me, can you not?
+You can hear my voice?
+Then please listen.
+I want you, if no one else, to know that the time of ruin is near."
+
+[31.003]
+Spirit of the tree
+"I am Martel, the spirit who dwells in the great tree Yggdrasil. The great tree is nearing its death."{PAGE}
+{クラース}
+"...And what of it{SPEED:10}...{SPEED:FF}?"{PAGE}
+Martel
+"Mana, the source of the spirits and of magic, is born of this great tree. Did you know?"{PAGE}
+
+
+[31.004]
+{クラース}
+"What! Is that true? A single tree like this, enough mana to fill the whole world?"{PAGE}
+Martel
+"It is."{PAGE}
+{クラース}
+"{SPEED:10}...{SPEED:FF}I cannot believe it. There is no proof, nothing to go on."{PAGE}
+Martel
+"Will you believe me only once the tree has withered?"{PAGE}
+"Only once the spirits and magic and all are lost{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[31.005]
+{クレス}
+"What this spirit is saying is probably true!{PAGE}
+In the future a hundred years from now, where {ミント} and I live, there was no such thing as magic. And I saw it!"{PAGE}
+
+
+[31.006]
+"This tree, withered and dead{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"Is that true...?
+If so{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[31.007]
+Martel
+"Mana is what the great tree Yggdrasil needs to live on forever. Being spent on magic alone should never be enough to exhaust it."{PAGE}
+{クラース}
+"Then why?"{PAGE}
+Martel
+"...I do not know. I can only think that some strong power is consuming mana in great amounts..."{PAGE}
+{クレス}
+"Is there no way to save the tree? Without magic we could never defeat Dhaos."{PAGE}
+{クラース}
+"And my research would all be for nothing."
+
+[31.008]
+{クラース}
+"Wait! There is more I want to ask...!!"
+
+[31.009]
+{ミント}
+"Let me try."{PAGE}
+
+
+[31.010]
+{クラース}
+"What?"
+
+[31.011]
+{ミント}
+"It seems it is no use{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[31.012]
+"If only my arts were as strong as my mother's{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"So it won't be as easy as that{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"But history can be changed, can't it?{PAGE}
+Surely we can even defeat Dhaos before he travels through time to the future!"{PAGE}
+{クラース}
+"You are right. And there are ways to remove whatever is consuming so much mana."{PAGE}
+{クレス}
+"Remove it, you say... What should we do from here?"
+
+[31.013]
+{クラース}
+"Of the spirits known today, the one said to have the greatest power is Luna, the spirit of the moon. The ring needed for a pact with Luna is said to be in the Moria Mine."{PAGE}
+{クレス}
+"The Moria Mine?"{PAGE}
+{クラース}
+"An old dwarven mine in Alvanista, the kingdom of magic, but I know nothing more about it."{PAGE}
+{ミント}
+"Alvanista?"{PAGE}
+{クラース}
+"The Kingdom of Alvanista has the most advanced culture of magic in the world. If we go there we are sure to learn something important.
+As for the way: there is a port town to the north called Venezia. A regular ship sails from there."
+
+[31.014]
+{クレス}
+"How on earth can we bring Yggdrasil back to life?"
+
+[31.015]
+{クレス}
+"The tree is withering..."{PAGE}
+
+
+[31.016]
+{ミント}
+"It is no good... Perhaps it is beyond me..."{PAGE}
+
+
+[31.017]
+{アーチェ}
+"You mustn't give up. The tree perked up just a little just now. If you keep at it, I'm sure... right?"{PAGE}
+{ミント}
+"Yes... But as things are..."
+
+[31.018]
+"So this forest was the one where we always went hunting."
+
+[31.019]
+"I feel as if I have seen this forest somewhere{SPEED:10}...{SPEED:FF}"
+
+[31.020]
+{ミント}
+"Everyone, please stand back. I will cast the strongest art I can use now."
+
+[31.021]
+{クラース}
+"It seems Yggdrasil has not withered in the future either."{PAGE}
+{ミント}
+"Thank goodness{SPEED:10}...{SPEED:FF}"
+
+[31.022]
+{クレス}
+"But there is no telling when it will wither again and magic will be lost.
+Let's go and defeat Dhaos as soon as we can!"
+
+[31.023]
+{アーチェ}
+"The lady of the tree is coming out!"
+
+[31.024]
+Martel
+"I never thought I would meet you again across so long a time."{PAGE}
+{クラース}
+"Is the mana still holding?"{PAGE}
+Martel
+"...Yes. The spirits and magic will not be lost now. From a certain time on, the use of mana went back to what it should be{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"I see."{PAGE}
+Martel
+"Since the mana stopped being torn from me, and I no longer felt as if my body were being ripped apart, I have slept for longer and longer."
+
+[31.025]
+{アーチェ}
+"Spirits sleep too?"{PAGE}
+
+
+[31.026]
+Martel
+"As mana builds up in the world, I feel as though something is being born within me."
+
+[31.027]
+Martel
+"And while I sleep, it seems a beautiful man comes here from time to time.
+He watches over me and then goes away, a man with long golden hair{SPEED:10}...{SPEED:FF}"
+
+[31.028]
+{チェスター}
+"What is it? You stopped in the middle."
+
+[31.029]
+{クレス}
+"Wh-who's there!?"
+
+[31.030]
+{クレス}
+"Dh, Dh{SPEED:10}...{SPEED:FF}
+Dhaos!?"
+
+[31.031]
+Dhaos
+"I thought I knew those faces. Tch, you loathsome wretches. So you have chased me even into this future.{PAGE}
+Then you may share the fate of Midgards!!"
+
+[31.032]
+{クラース}
+"This is bad!"
+
+[31.033]
+Dhaos
+"If I fight here, the great tree Kharlan would come to harm..."{PAGE}
+"Hmph... You have been spared."
+
+[31.034]
+{クレス}
+"W-we're saved..."{PAGE}
+{アーチェ}
+"I thought I was going to die..."{PAGE}
+{クラース}
+"What was that? I felt a power beyond all comparison with before..."{PAGE}
+{クレス}
+"As we are now, we..."{PAGE}
+{アーチェ}
+"Can't win?"{PAGE}
+
+
+[31.035]
+{クレス}
+"...It galls me, but..."
+
+[31.036]
+{クラース}
+"Why did Dhaos appear here? Did he not come to kill us?"{PAGE}
+
+
+[31.037]
+{ミント}
+"He spoke as though he had only just learned that we travelled through time to this world."
+
+[31.038]
+{クラース}
+"Come, let us find the sword that commands time, quickly."{PAGE}
+
+
+[31.039]
+{クラース}
+"Come, let us find the three arms, quickly."{PAGE}
+
+
+[31.040]
+{クラース}
+"Come, let us go and see the King of Alvanista, quickly."{PAGE}
+
+
+[31.041]
+{ミント}
+"Yes, let's."
+
+[31.042]
+"The mana{SPEED:10}...{SPEED:FF}
+is fading away{SPEED:10}...{SPEED:FF}"
+
+[31.043]
+To save his home world he needed the "Great Seed", which is said to be born of Yggdrasil when mana is gathered{PAGE}
+But
+
+[31.044]
+Martel
+"Holy earth, holy heavens, holy gods! In your merciful hearts, grant your blessing to this sinner..."
+
+[31.045]
+Martel
+"Great Seed, come forth, here and now!"
+
+[31.046]
+{クレス}
+"Is everyone all right...?"
+
+[31.047]
+{クレス}
+"We did it! Yggdrasil is itself again!!"
+
+[31.048]
+{クラース}
+"{ミント}, that was wonderful! Well done!!"{PAGE}
+{アーチェ}
+"You did it!"
+
+[31.049]
+Martel
+"I feel strength welling up in me. This is your power, is it not?"{PAGE}
+{ミント}
+"No, it was not mine alone...
+It was the unicorn's, and everyone's..."{PAGE}
+{アーチェ}
+"That's not so. You're the one who cast the art, {ミント}."{PAGE}
+{クレス}
+"That's right. It was only possible because of you, {ミント}."{PAGE}
+Martel
+"Thank you. With this I should live on a while longer{SPEED:10}...{SPEED:FF}
+But the power of mana is still being consumed in great amounts.
+Why so much...?"{PAGE}
+{クラース}
+"That is most likely magitech. To draw out power on that scale must consume a great deal of mana."
+
+[31.050]
+{アーチェ}
+"She's gone. She could have talked a little longer."{PAGE}
+{クラース}
+"She is a spirit, after all. In truth it is hard for her even to show herself in this world.
+But mana is still being consumed in great amounts..."{PAGE}
+
+
+[31.051]
+{クレス}
+"Could it be..."{PAGE}
+{クラース}
+"What is it, {クレス}?"{PAGE}
+{クレス}
+"I was wondering whether Dhaos attacked Midgards so relentlessly because he meant to destroy magitech..."{PAGE}
+{ミント}
+"Perhaps he meant to use the power of mana himself..."{PAGE}
+{アーチェ}
+"Maybe he was afraid of the power of magitech. After all, Dhaos can only be hurt by magic, right?"{PAGE}
+{クラース}
+"...Well, arguing about it here will get us nowhere. We will meet him and find out for ourselves.
+So, shall we make for Thor? This may be the last battle. We had better prepare well."
+
+[31.052]
+{クラース}
+"Wh-what!? What is happening!?"{PAGE}
+{ミント}
+"Th-the power of the Unicorn Horn is too strong..."{PAGE}
+{クレス}
+"{ミント}, get away from the Unicorn Horn, quickly!!"{PAGE}
+{ミント}
+"I can't! If I stop partway, the power of the Unicorn Horn might run wild!!
+And then Yggdrasil would...!"{PAGE}
+{クレス}
+"{ミント}!!"
+
+[31.053]
+{ミント}
+(Father, Mother, give me strength, great strength...!!)
+
+[31.054]
+{クレス}
+"Can you believe it? That Dhaos was fighting to save his own world.
+That almost makes us the ones who..."{PAGE}
+{クラース}
+"Don't jump to conclusions. He has killed a great many people too.{PAGE}
+And we came this far believing in ourselves."
+
+[31.055]
+{クラース}
+"Am I wrong?"
+
+[31.056]
+{クラース}
+"Come, people can live without magitech. It is a pity magic cannot be used, but..."{PAGE}
+
+
+[31.057]
+{アーチェ}
+"What are you talking about? You'll be able to use it one day, {クラース}, I know you will."{PAGE}
+{クラース}
+"Heh, thank you."{PAGE}
+
+
+[31.058]
+{ミント}
+"Then here I go. Please stand back."
+
+[31.059]
+{ミント}
+"I will raise a barrier around Yggdrasil to stop the mana flowing away.{PAGE}
+Then one day the time will surely come when the Great Seed is born."{PAGE}
+{クラース}
+"A parting gift, at least, for one who fought on alone for what he believed. {ミント}, go ahead!"{PAGE}
+
+
+[31.060]
+{ミント}
+"Yes!"
+
+[31.061]
+{クラース}
+"With that, our part is done. Let us go home."
+
+[31.062]
+{クレス}
+"Sword of Time! Take me to my own age!!"
+

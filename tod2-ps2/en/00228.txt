@@ -1,0 +1,24 @@
+[00228.001]
+Sigh...
+
+[00228.002]
+What is it? You are unusually quiet. Did you eat something off the ground?
+
+[00228.003]
+Hmph, leave me be. Even I have my troubles.
+
+[00228.004]
+Oh? So you do have a head that can worry... It does not look it.
+
+[00228.005]
+Don't, {NAME:04 00 00 00}. {NAME:03 00 00 00} struck out with a girl, it seems, and he's down. Be nice to him?
+
+[00228.006]
+Is that all... How trivial.
+
+[00228.007]
+For {NAME:03 00 00 00} it's life and death. He's right on the edge.
+
+[00228.008]
+You lot are noisy! Just watch~~, I get my second chance in Neustadt! Wait for me, Neustadt!
+

@@ -1,0 +1,3 @@
+[00486.001]
+The engine room opens only if we destroy the control units. Find them with Philia's "Sorcerer's Scope"!
+

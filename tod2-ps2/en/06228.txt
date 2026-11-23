@@ -1,0 +1,55 @@
+[06228.4788]
+Mangosteen
+
+[06228.4801]
+Carrot
+
+[06228.4810]
+Apple Gel
+
+[06228.4823]
+Egg
+
+[06228.4830]
+Cherry
+
+[06228.4841]
+Fish
+
+[06228.4846]
+Which of these
+can go in
+this dish?
+
+[06228.4891]
+Right!
+Other fruit of all
+kinds is tasty in it too
+
+[06228.4946]
+No.
+That makes a salad
+
+[06228.4974]
+No.
+A fun topping,
+I'd think, but...
+
+[06228.5023]
+No.
+Making a pudding?
+
+[06228.5053]
+...Hmm,
+no such food
+appears, though...
+
+[06228.5106]
+I wouldn't eat...
+that
+
+[06228.5130]
+Time's up.
+A chance to study
+cooking, perhaps?
+

@@ -1,0 +1,18 @@
+[00350.001]
+Here, I've mended the holes the fighting left in your clothes, for now.
+
+[00350.002]
+Oh! Ama~zing. The holes are closed up so neatly!
+
+[00350.003]
+They are! Wo~w, so you can sew and things, {NAME:05 00 00 00}.
+
+[00350.004]
+Is it so strange that I can sew?
+
+[00350.005]
+Ah... no, I didn't mean it like that...
+
+[00350.006]
+Haha, I know♪ In our village you see to your own needs. That's just how it is. So everyone learns this much.
+

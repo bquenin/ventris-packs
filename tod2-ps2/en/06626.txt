@@ -1,0 +1,49 @@
+[06626.001]
+Catacombs: Gate of Rebirth
+
+[06626.002]
+Catacombs
+
+[06626.003]
+Gate of Rebirth
+
+[06626.005]
+A huge stone slab blocks the way. It does not look as if it can be broken.
+
+[06626.006]
+Have a safe journey.
+
+[06626.007]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06626.008]
+Will you stay the night?
+
+[06626.010]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06626.011]
+Please rest well.
+
+[06626.012]
+Good morning.
+
+[06626.013]
+You do not have enough money.
+
+[06626.014]
+We look forward to seeing you again.
+
+[06626.019]
+Obtained {16:27 3A}.
+
+[06626.021]
+Obtained {08:FF FF FF FF}.
+
+[06626.023]
+Found {16:27 42}, but you can carry no more.
+
+[06626.025]
+There is nothing here.
+

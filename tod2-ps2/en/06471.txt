@@ -1,0 +1,429 @@
+[06471.001]
+Cherik
+
+[06471.002]
+Cherik
+
+[06471.003]
+Cherik
+
+[06471.004]
+Cherik
+
+[06471.006]
+What a place for this tree to grow. It looks like it would fall over if the wind blew.
+
+[06471.008]
+Sundries have been left out in the open.
+
+[06471.010]
+You can see all the way to the far horizon. A truly fine view!
+
+[06471.012]
+Sundries worn ragged by the sea breeze are scattered about.
+
+[06471.014]
+There is some luggage. "Furniture: to the new home in Aigrette" is written on it.
+
+[06471.015]
+Knight
+
+[06471.016]
+Do you lot know about a tool called the "Sorcerer's Scope"?
+
+[06471.017]
+Knight
+
+[06471.018]
+An amazing tool that detects what can't be seen, what you can't normally perceive.
+
+[06471.019]
+Knight
+
+[06471.020]
+The Sorcerer's Scope has all sorts of other uses. Try it here and there.
+
+[06471.021]
+Young Man
+
+[06471.022]
+For a hip young thing, this town's too lonely.
+
+[06471.023]
+Young Man
+
+[06471.024]
+Even Hope Town would beat this. That place has life, if nothing else.
+
+[06471.025]
+Young Man
+
+[06471.026]
+Sooner than go to Aigrette, I'd go to Hope Town.
+
+[06471.027]
+Young Man
+
+[06471.028]
+Only, the kids there are scary... They hit you for real and call it training.
+
+[06471.029]
+Rich Girl
+
+[06471.030]
+I came sightseeing from Heidelberg, but...
+
+[06471.031]
+Rich Girl
+
+[06471.032]
+For someone raised in snow country, it's too hot here...
+
+[06471.033]
+Rich Girl
+
+[06471.034]
+You can't see scenery like this in Heidelberg, so it will make a good memory, but...
+
+[06471.035]
+Rich Girl
+
+[06471.036]
+This heat and mugginess... look likely to stay in my memory as a bad one...
+
+[06471.037]
+Sweltering Man
+
+[06471.038]
+The continent of Calvalese has countless volcanoes.
+
+[06471.039]
+Sweltering Man
+
+[06471.040]
+Most of them are active, you see. Every few years one erupts somewhere.
+
+[06471.041]
+Sweltering Man
+
+[06471.042]
+On top of that, earthquakes are frequent. Hardly anyone wants to settle here.
+
+[06471.043]
+Sweltering Man
+
+[06471.044]
+This is where the Heaven Dwellers were exiled after losing the War of Heaven and Earth.
+
+[06471.045]
+Sweltering Man
+
+[06471.046]
+It looks cheerful at first glance, but it carries a dark history.
+
+[06471.047]
+Old Woman
+
+[06471.048]
+I haven't long to live. I'd like at least to breathe my last at Lady Atamoni's side.
+
+[06471.049]
+Old Woman
+
+[06471.050]
+They say Lady Atamoni is a beautiful goddess. I'd like to see her for myself.
+
+[06471.051]
+Young Woman
+
+[06471.052]
+Hardly anyone lives in Calvalese.
+
+[06471.053]
+Young Woman
+
+[06471.054]
+Cherik, Hope Town, and the holy land Calviola.
+
+[06471.055]
+Young Woman
+
+[06471.056]
+Those three are the only towns. It's a lonely place.
+
+[06471.057]
+Young Woman
+
+[06471.058]
+The continent of Calvalese is a dangerous place.
+
+[06471.059]
+Young Woman
+
+[06471.060]
+The monsters here are savage, so be sure to stock up on medicine.
+
+[06471.061]
+Rich Boy
+
+[06471.062]
+What a poor place this is. Nothing like Heidelberg.
+
+[06471.063]
+Rich Boy
+
+[06471.064]
+Perhaps it's because there's no fine ruler here like King Woodrow.
+
+[06471.065]
+Rich Boy
+
+[06471.066]
+There's a warmth here that stone-built Heidelberg doesn't have.
+
+[06471.067]
+Rich Boy
+
+[06471.068]
+Cherik's culture of wood is rather good too.
+
+[06471.069]
+Rich Boy
+
+[06471.070]
+Only, the trouble is it looks so shabby...
+
+[06471.071]
+Young Lady
+
+[06471.072]
+Long ago the lord of Aquaveil came here on holiday.
+
+[06471.073]
+Young Lady
+
+[06471.074]
+The lord gave a song at the inn, you see...
+
+[06471.075]
+Young Lady
+
+[06471.076]
+And he was so dreadfully tone-deaf that people kept collapsing when they heard it.
+
+[06471.077]
+Young Lady
+
+[06471.078]
+The lord left Cherik looking so forlorn...
+
+[06471.079]
+Young Lady
+
+[06471.080]
+If its lord comes here on vacation, Aquaveil must be a country with time on its hands.
+
+[06471.081]
+Have a safe journey.
+
+[06471.082]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06471.083]
+Will you stay the night?
+
+[06471.085]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06471.086]
+Please rest well.
+
+[06471.087]
+Good morning.
+
+[06471.088]
+You do not have enough money.
+
+[06471.089]
+We look forward to seeing you again.
+
+[06471.094]
+Obtained {16:25 B6}.
+
+[06471.096]
+Obtained {08:FF FF FF FF}.
+
+[06471.098]
+Found {16:25 BE}, but you can carry no more.
+
+[06471.100]
+There is nothing here.
+
+[06471.101]
+{08:12 00 00 00} Seller
+
+[06471.102]
+We sell {08:12 00 00 00} here.
+
+[06471.103]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06471.104]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06471.105]
+That will be {0B:01 00 00 00}{14:35 C8}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06471.107]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 D2} at once ({14:35 CC} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06471.109]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06471.110]
+Thank you for your purchase.
+
+[06471.111]
+Thank you for your purchase.
+
+[06471.112]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 C8}{0B:00 00 00 00} Gald a bottle.
+
+[06471.113]
+Would you like to hear the Refine lessons?
+
+[06471.115]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06471.116]
+What would you like to know about?
+
+[06471.118]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06471.120]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06471.121]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06471.122]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06471.123]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06471.124]
+Lenses can be picked up by fighting monsters.
+
+[06471.125]
+Do take this chance to refine all you like.
+
+[06471.126]
+Changing an item means refining a single item to turn it into a different item.
+
+[06471.127]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06471.128]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06471.129]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06471.130]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06471.131]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06471.132]
+Ah, I should explain Slots first, shouldn't I.
+
+[06471.133]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06471.134]
+I will explain Slots in detail separately.
+
+[06471.135]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06471.136]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06471.137]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06471.138]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06471.139]
+Let me explain Slots in detail.
+
+[06471.140]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06471.141]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06471.142]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06471.143]
+Equipment with Slots is mostly dropped by monsters.
+
+[06471.144]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06471.145]
+Just between us, accessories can be refined too. But not with one another.
+
+[06471.146]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06471.147]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06471.148]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06471.149]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06471.150]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06471.151]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06471.152]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06471.153]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06471.154]
+So I recommend selling off the items you no longer need.
+
+[06471.155]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06471.156]
+...Keeping your items tidy matters too.
+

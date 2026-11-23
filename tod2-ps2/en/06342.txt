@@ -1,0 +1,58 @@
+[06342.001]
+Darilsheid Underground Waterway
+
+[06342.002]
+Darilsheid Underground Waterway
+
+[06342.004]
+This is the underground waterway.
+
+[06342.006]
+An old rope hangs down. It looks like it could be burned through.
+
+[06342.008]
+An old rope hangs down. It looks like it could be burned through.
+
+[06342.010]
+An old rope hangs down. It looks like it could be burned through.
+
+[06342.012]
+Obtained {08:41 00 00 00}.
+
+[06342.013]
+Have a safe journey.
+
+[06342.014]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06342.015]
+Will you stay the night?
+
+[06342.017]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06342.018]
+Please rest well.
+
+[06342.019]
+Good morning.
+
+[06342.020]
+You do not have enough money.
+
+[06342.021]
+We look forward to seeing you again.
+
+[06342.026]
+Obtained {16:25 BE}.
+
+[06342.028]
+Obtained {08:FF FF FF FF}.
+
+[06342.030]
+Found {16:25 C6}, but you can carry no more.
+
+[06342.032]
+There is nothing here.
+

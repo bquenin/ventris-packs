@@ -1,0 +1,436 @@
+[06320.001]
+Dunamis Orphanage
+
+[06320.002]
+Dunamis Orphanage
+
+[06320.004]
+This used to be {NAME:03 00 00 00}'s bed. Cinnamon uses it now.
+
+[06320.006]
+Old test papers have been put away here.
+{NAME:03 00 00 00}: Math, 35 points
+{NAME:01 00 00 00}: History, 28 points
+
+[06320.008]
+This is...!
+
+[06320.010]
+Found all sorts of quiz questions!
+
+[06320.012]
+A new category has been added to the quiz book.
+
+[06320.014]
+"A Reader in Lens Science: Unravel the Mysterious Power!"
+A rather dubious-looking book has been left here.
+
+[06320.015]
+Tonia
+
+[06320.016]
+Honestly, {NAME:01 00 00 00}, don't fall asleep on your feet! You look like a zombie, and it's scary!
+
+[06320.017]
+Tonia
+
+[06320.018]
+Mumble mumble... I'm... hungry... I want to eat more...
+
+[06320.019]
+Tonia
+
+[06320.020]
+So you really are going to try to be a real hero, {NAME:01 00 00 00}...
+
+[06320.022]
+Sorry, Tonia. I know it'll be lonely for you...
+
+[06320.023]
+Tonia
+
+[06320.024]
+Mm, I'm fine. Rutee and everyone are here... I won't be lonely.
+
+[06320.025]
+Tonia
+
+[06320.026]
+Do your best, {NAME:01 00 00 00}! And don't you do anything that would make Rutee sad!
+
+[06320.027]
+Uni
+
+[06320.028]
+I'm so glad {NAME:03 00 00 00}'s back!
+
+[06320.029]
+Uni
+
+[06320.030]
+Huh? {NAME:01 00 00 00}, up at this hour? That's unusual!
+
+[06320.032]
+No it's not... Look, I'm eating all my carrots too, see...
+
+[06320.033]
+Uni
+
+[06320.034]
+{NAME:01 00 00 00}, you still seem half asleep...
+
+[06320.035]
+Uni
+
+[06320.036]
+Mumble mumble... I need to pee...
+
+[06320.037]
+Uni
+
+[06320.038]
+Yaaawn... Huh? {NAME:01 00 00 00}, are you going out?
+
+[06320.040]
+...Yeah. I'll be away for a while. Be good, okay?
+
+[06320.041]
+Uni
+
+[06320.042]
+Have a good trip, both of you... Yaaawn...
+
+[06320.043]
+Uni
+
+[06320.044]
+Hey, look, look! I made this skirt myself!
+
+[06320.046]
+Ohh, now that's something. You'll make a fine bride someday, Uni!
+
+[06320.047]
+Uni
+
+[06320.048]
+Eheheh~★ I make everybody's clothes. Shall I make something for you too, {NAME:03 00 00 00}?
+
+[06320.049]
+Uni
+
+[06320.050]
+I know! {NAME:03 00 00 00}, I'll make you a skirt to match mine!
+
+[06320.052]
+Er, a skirt's a bit, well...
+
+[06320.053]
+Uni
+
+[06320.054]
+Hey! Hey! I'll make you a skirt to match mine too, {NAME:03 00 00 00}!
+
+[06320.055]
+Cinnamon
+
+[06320.056]
+Heheh! I picked up a Lens on our adventure just now!
+
+[06320.058]
+What's this, collecting all those Lenses? Going to donate them to the Order of Atamoni or something?
+
+[06320.059]
+Cinnamon
+
+[06320.060]
+No, I'm going to turn these Lenses into money and give it to Rutee!
+
+[06320.061]
+Cinnamon
+
+[06320.062]
+I'm going to turn these Lenses into money and give it to Rutee!
+
+[06320.063]
+Cinnamon
+
+[06320.064]
+With this many Lenses, we could make this building like a castle!
+
+[06320.065]
+Cinnamon
+
+[06320.066]
+Heey, {NAME:01 00 00 00}, you okay? You're kind of wobbling.
+
+[06320.068]
+...Zzz...
+
+[06320.070]
+...Being able to walk in your sleep is a talent too, I guess...
+
+[06320.071]
+Cinnamon
+
+[06320.072]
+Heey, {NAME:01 00 00 00}, you okay? You're kind of wobbling.
+
+[06320.073]
+Cinnamon
+
+[06320.074]
+Oh, sleepyhead {NAME:01 00 00 00}! You're up early today!
+
+[06320.075]
+Cinnamon
+
+[06320.076]
+Oh, sleepyhead {NAME:01 00 00 00}! You're up early today!
+
+[06320.077]
+Cinnamon
+
+[06320.078]
+When I'm a bit bigger, I'm going to aim to be a hero like you, {NAME:01 00 00 00}!
+
+[06320.080]
+...No, I want you to stay here and protect Mom and everyone.
+
+[06320.081]
+Cinnamon
+
+[06320.082]
+Right, of course... {NAME:01 00 00 00} and {NAME:03 00 00 00} are both gone. I have to protect this place...
+
+[06320.083]
+Cinnamon
+
+[06320.084]
+Leave the orphanage to me, you two. I'll protect it, I promise.
+
+[06320.085]
+Basil
+
+[06320.086]
+When we met the monsters, all I did was shake... I'm a coward...
+
+[06320.088]
+You're you, Basil, and you've got plenty of good points.
+
+[06320.089]
+Basil
+
+[06320.090]
+Being myself, you mean... You can understand other people, but it's surprisingly hard to understand yourself, isn't it...
+
+[06320.091]
+Basil
+
+[06320.092]
+Ow, ow, {NAME:01 00 00 00}, please don't pull. I have my morning chores to...
+
+[06320.094]
+Never mind that, getting the Lens comes first. Let's get going, {NAME:03 00 00 00}...
+
+[06320.096]
+Hey... I'm over here...
+
+[06320.097]
+Basil
+
+[06320.098]
+Aaah, please don't pull me, {NAME:01 00 00 00}...
+
+[06320.099]
+Basil
+
+[06320.100]
+Mmm... I'm still sleepy...
+
+[06320.101]
+Basil
+
+[06320.102]
+Wah, {NAME:01 00 00 00} is awake? Does that mean I overslept!?
+
+[06320.103]
+Basil
+
+[06320.104]
+Maybe I'm dreaming...
+
+[06320.105]
+Basil
+
+[06320.106]
+Oh, it's {NAME:01 00 00 00}. Welcome back! Adventures are all very well, but you mustn't overdo it.
+
+[06320.108]
+...Don't say the same thing Mom does...
+
+[06320.109]
+Basil
+
+[06320.110]
+But {NAME:01 00 00 00}, you're reckless and you make it up as you go. You keep my heart in my mouth!
+
+[06320.111]
+Basil
+
+[06320.112]
+{NAME:01 00 00 00}, you're reckless and you make it up as you go. You keep my heart in my mouth!
+
+[06320.113]
+Salt
+
+[06320.114]
+{NAME:01 00 00 00}, you're covered in scrapes. Why not stay in your room and read a book for once?
+
+[06320.116]
+Reading's fine, but playing out in the sun is fun too.
+
+[06320.117]
+Salt
+
+[06320.118]
+No... I'm all right. I like reading on my own...
+
+[06320.119]
+Salt
+
+[06320.120]
+I'm all right. I like reading on my own...
+
+[06320.121]
+Salt
+
+[06320.122]
+{NAME:01 00 00 00}, hurry up and go brush your teeth. It's time for breakfast.
+
+[06320.124]
+Mmm... Then I have to go and buy a toothbrush set... Zzz...
+
+[06320.125]
+Salt
+
+[06320.126]
+{NAME:01 00 00 00}, maybe you should wash your face before you brush your teeth...
+
+[06320.127]
+Salt
+
+[06320.128]
+Oh, {NAME:01 00 00 00}... Thank goodness. I had a scary dream...
+
+[06320.130]
+Why? Everyone's here, aren't they? There's nothing to be scared of, right?
+
+[06320.131]
+Salt
+
+[06320.132]
+Yeah... I know... I know, but...
+
+[06320.133]
+Salt
+
+[06320.134]
+You're the only one who's nice to me, {NAME:01 00 00 00}. The others all...
+
+[06320.136]
+What are you talking about? If you go to them yourself, they'll all take you in.
+
+[06320.138]
+I won't be here forever either, you know. You have to work it out for yourself.
+
+[06320.139]
+Salt
+
+[06320.140]
+You're right... It's just like you say, {NAME:01 00 00 00}. I'll try my best...
+
+[06320.142]
+That's it. Let's both do our best.
+
+[06320.143]
+Salt
+
+[06320.144]
+{NAME:01 00 00 00}, are you up early to go somewhere? Don't go anywhere dangerous.
+
+[06320.146]
+Don't worry. I'll be fine.
+
+[06320.147]
+Salt
+
+[06320.148]
+{NAME:01 00 00 00}, don't go anywhere too dangerous.
+
+[06320.150]
+Your big brother {NAME:03 00 00 00} is looking after this one, so don't you worry!
+
+[06320.151]
+Salt
+
+[06320.152]
+{NAME:01 00 00 00}, you're like a hero out of a book. So cool...
+
+[06320.153]
+Salt
+
+[06320.154]
+Guess what! Lately I've been working in the vegetable patch with Uni.
+
+[06320.156]
+Is that so! Work or play, it's more fun with everyone, isn't it?
+
+[06320.157]
+Salt
+
+[06320.158]
+Yeah!
+
+[06320.159]
+Salt
+
+[06320.160]
+It's nearly time to pick the cucumbers and tomatoes. I can't wait!
+
+[06320.161]
+Have a safe journey.
+
+[06320.162]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06320.163]
+Will you stay the night?
+
+[06320.165]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06320.166]
+Please rest well.
+
+[06320.167]
+Good morning.
+
+[06320.168]
+You do not have enough money.
+
+[06320.169]
+We look forward to seeing you again.
+
+[06320.174]
+Obtained {16:25 BA}.
+
+[06320.176]
+Obtained {08:FF FF FF FF}.
+
+[06320.178]
+Found {16:25 C2}, but you can carry no more.
+
+[06320.180]
+There is nothing here.
+

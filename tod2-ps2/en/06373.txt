@@ -1,0 +1,67 @@
+[06373.001]
+Straylize Ruins
+
+[06373.002]
+Straylize Ruins
+
+[06373.003]
+Straylize Ruins
+
+[06373.005]
+This is Straylize Temple.
+
+[06373.007]
+It looks like it could be broken with a shock from something.
+
+[06373.009]
+Hmm... This place seems to be ruins connected with the Great Temple of Straylize. The make of the pillars and such is just the same.
+
+[06373.011]
+Hey, {NAME:03 00 00 00}, doesn't this corridor run toward the Great Temple of Straylize?
+
+[06373.013]
+Could this place be connected to the Great Temple?
+
+[06373.015]
+Probably. But be careful, {NAME:01 00 00 00}! Looks like this place has become a den of monsters.
+
+[06373.017]
+A "D" is shown in "blue letters".
+
+[06373.018]
+Have a safe journey.
+
+[06373.019]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06373.020]
+Will you stay the night?
+
+[06373.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06373.023]
+Please rest well.
+
+[06373.024]
+Good morning.
+
+[06373.025]
+You do not have enough money.
+
+[06373.026]
+We look forward to seeing you again.
+
+[06373.031]
+Obtained {16:25 EA}.
+
+[06373.033]
+Obtained {08:FF FF FF FF}.
+
+[06373.035]
+Found {16:25 F2}, but you can carry no more.
+
+[06373.037]
+There is nothing here.
+

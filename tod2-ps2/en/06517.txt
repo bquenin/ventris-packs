@@ -1,0 +1,97 @@
+[06517.001]
+The Flying Dragon: Core
+
+[06517.002]
+The Flying Dragon
+
+[06517.004]
+You cannot pass without destroying the control unit.
+
+[06517.006]
+Damn! Too late!
+
+[06517.008]
+This thing!
+
+[06517.010]
+No, that is likely useless. The Flying Dragon is a machine as near to a living thing as can be. Break this and it will mend at once.
+
+[06517.012]
+Then what do we do!?
+
+[06517.014]
+We destroy the control units inside the Flying Dragon's body.
+
+[06517.016]
+Break them all and this lock too should be released.
+
+[06517.018]
+{NAME:01 00 00 00}, you have the Sorcerer's Scope Philia gave you just now? Use it to find the control units.
+
+[06517.020]
+To use it, press the {09:3B 00 00 00} button. But it uses up more Lenses than the Sorcerer's Ring, so take care.
+
+[06517.022]
+Got it!
+
+[06517.024]
+Also, this is a guess, but... this Flying Dragon is headed for Calviola.
+
+[06517.026]
+The holy land... So she means to have another go there at bringing down the god.
+
+[06517.028]
+Dawdle, and it will reach her destination. There is not much time.
+
+[06517.030]
+Got it! Let's find them, quick!
+
+[06517.032]
+{NAME:04 00 00 00} earned the title "{08:27 08 00 00}".
+
+[06517.034]
+The treasure chest was a fake.
+
+[06517.035]
+Have a safe journey.
+
+[06517.036]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06517.037]
+Will you stay the night?
+
+[06517.039]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06517.040]
+Please rest well.
+
+[06517.041]
+Good morning.
+
+[06517.042]
+You do not have enough money.
+
+[06517.043]
+We look forward to seeing you again.
+
+[06517.048]
+Obtained {16:25 BE}.
+
+[06517.050]
+Obtained {08:FF FF FF FF}.
+
+[06517.052]
+Found {16:25 C6}, but you can carry no more.
+
+[06517.054]
+There is nothing here.
+
+[06517.055]
+Time over
+
+[06517.057]
+Destroyed the control unit.
+

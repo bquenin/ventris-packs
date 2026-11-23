@@ -1,0 +1,21 @@
+[00834.001]
+Here, {NAME:03 00 00 00}. Eat... this.
+
+[00834.002]
+Rice porridge? What's this, {NAME:05 00 00 00}? You made it for me?
+
+[00834.003]
+Yeah... Your stomach's still upset from that test cooking by {NAME:06 00 00 00}, right? So here, a special dish that's easy to digest.
+
+[00834.004]
+...I see... So for all you say, you did love me... I accept it, your love...
+
+[00834.005]
+What are you saying, you fool!
+
+[00834.006]
+Agh!! Guuuh... uuu......... I'm... dy... ing......
+
+[00834.007]
+Bad food, a body blow... Fatal.
+

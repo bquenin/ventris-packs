@@ -1,0 +1,24 @@
+[06274.4788]
+Heidelberg
+
+[06274.4803]
+Heibeldelg
+
+[06274.4818]
+Neunstadt
+
+[06274.4835]
+Neustadt
+
+[06274.4850]
+The town's name?
+
+[06274.4867]
+Right.
+
+[06274.4876]
+Wrong!
+
+[06274.4885]
+Time's up.
+

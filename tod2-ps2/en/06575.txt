@@ -1,0 +1,342 @@
+[06575.001]
+The Radisrol
+
+[06575.002]
+The Radisrol
+
+[06575.004]
+Well-kept weapons stand in rows.
+
+[06575.006]
+They have the skill to build a thing like the Radisrol. Why do they fight with swords?
+
+[06575.008]
+The aunties' sundries. ...It seems they have taken over a corner of the Radisrol and dumped them here.
+
+[06575.010]
+Sundries are piled so high they are in the way. Everyone seems too scared of the aunties to complain.
+
+[06575.012]
+What on earth is this? It may be part of one of {NAME:06 00 00 00}'s dubious machines.
+
+[06575.013]
+Technical Officer
+
+[06575.014]
+You think the Radisrol is a warship?
+
+[06575.015]
+Technical Officer
+
+[06575.016]
+In fact it's no warship, just a transport.
+
+[06575.017]
+Technical Officer
+
+[06575.018]
+The proof is, it carries no guns or arms of any kind, see?
+
+[06575.019]
+Technical Officer
+
+[06575.020]
+It has no arms, you see. Trading blows with Dycroft? No way, no way!
+
+[06575.021]
+Technical Officer
+
+[06575.022]
+Slipping through the enemy's fire and ramming them is about all it can do.
+
+[06575.023]
+Technical Officer
+
+[06575.024]
+The assault at last, eh. The Radisrol is tuned to perfection, but who knows how it will go...
+
+[06575.025]
+Technical Officer
+
+[06575.026]
+It started out as a transport, after all. It has no armor, so one shot from Belcrant and down it goes.
+
+[06575.027]
+Technical Officer
+
+[06575.028]
+Early in the war the Radisrol was shot by Belcrant and sank in a lake.
+
+[06575.029]
+Technical Officer
+
+[06575.030]
+The Surface Army found it, refitted it and made it a base.
+
+[06575.031]
+Officer
+
+[06575.032]
+Lieutenant General Dymlos and Commander Litler are both the kind of men who keep their troubles to themselves.
+
+[06575.033]
+Officer
+
+[06575.034]
+They always look sure of themselves, but inside it is not so.
+
+[06575.035]
+Officer
+
+[06575.036]
+So those around them must hold them up firmly.
+
+[06575.037]
+Officer
+
+[06575.038]
+Old Clemente is my superior.
+
+[06575.039]
+Officer
+
+[06575.040]
+The man himself surely thinks he has years of service left in him, but it chills us who watch.
+
+[06575.041]
+Officer
+
+[06575.042]
+Urge him to retire and I would only get shouted at. Dear me...
+
+[06575.043]
+Officer
+
+[06575.044]
+Striking down the enemy's chief, Miktran, is the part of the Swordian team.
+
+[06575.045]
+Officer
+
+[06575.046]
+The ordinary troops will move to take the key points of Dycroft.
+
+[06575.047]
+Officer
+
+[06575.048]
+It would hearten us if you joined the team taking them.
+
+[06575.049]
+Officer
+
+[06575.050]
+In an assault, speed is life. If taking the place drags on, they may open fire with Belcrant on all alike.
+
+[06575.051]
+Officer
+
+[06575.052]
+So a picked unit will be sent to take the control room.
+
+[06575.053]
+Man
+
+[06575.054]
+When the war's over, I'm thinking of crossing to the continent over the sea.
+
+[06575.055]
+Word is there are still plenty of refugees over there. I'd like to join hands with them and build a town.
+
+[06575.056]
+What will people in later ages think of this time, and of us?
+
+[06575.057]
+War maniacs in a savage age, I suppose. Either way, it won't be a good impression.
+
+[06575.058]
+Still, we're doing our best too. I'd like them to understand that much.
+
+[06575.059]
+Auntie A
+
+[06575.060]
+{05:38 01 00 00}My madam lovely as ever don't you know never look your age hohoho your husband a captain under Lt. Col. {NAME:06 00 00 00} how enviable
+
+[06575.061]
+Auntie B
+
+[06575.062]
+{05:38 01 00 00}Whatever do you mean don't you know your boy is Colonel Atwight's own medic on high pay rations are so short lately hohoho
+
+[06575.063]
+Auntie C
+
+[06575.064]
+{05:38 01 00 00}By the way have you heard young Chaltier is still single were I ten years younger I'd snap him up don't you know unlike my oaf
+
+[06575.065]
+Auntie A
+
+[06575.066]
+{05:00 02 00 00}Ohohohohohoho
+
+[06575.067]
+Auntie B
+
+[06575.068]
+{05:00 02 00 00}Ohohohohohoho
+
+[06575.069]
+Auntie C
+
+[06575.070]
+{05:00 02 00 00}Ohohohohohoho
+
+[06575.072]
+Whoa...! S-so this is auntie power!
+
+[06575.074]
+L-let's not speak to them. I don't think I could stand that voice a second time...
+
+[06575.075]
+Auntie A
+
+[06575.076]
+Oh, you there! You seem to be carrying all sorts of food, don't you know!
+
+[06575.077]
+Auntie A
+
+[06575.078]
+My, how enviable, don't you know! Share your ingredients equally with everyone, don't you know!
+
+[06575.080]
+{03:00 00 00 00}　Too scared to say no　
+　Run for it　
+
+[06575.081]
+Auntie C
+
+[06575.082]
+A fine attitude, don't you know! We shall take all sorts of things, don't you know!
+
+[06575.084]
+All sorts of ingredients were taken away...
+
+[06575.085]
+Auntie C
+
+[06575.086]
+This is your reward, don't you know!
+
+[06575.088]
+Received an Apple Gel, which is nowhere near a fair trade.
+
+[06575.089]
+Auntie A
+
+[06575.090]
+Bring us all sorts of things again, don't you know!
+
+[06575.092]
+Received an Orange Gel, which is nowhere near a fair trade.
+
+[06575.093]
+Auntie A
+
+[06575.094]
+Bring us all sorts of things again, don't you know!
+
+[06575.096]
+Received a Mixed Gel.
+
+[06575.097]
+Auntie A
+
+[06575.098]
+Bring us all sorts of things again, don't you know!
+
+[06575.099]
+Shiny-Loving Maid
+
+[06575.100]
+For {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lenses, wouldn't you like to know the way to the Spiral Cave?
+
+[06575.102]
+　Tell me　
+　I'll find my own way　
+
+[06575.103]
+Shiny-Loving Maid
+
+[06575.104]
+Heh heh... Much obliged♪
+
+[06575.105]
+Shiny-Loving Maid
+
+[06575.106]
+To get to the Spiral Cave, go up around the cliff at the back from the south, then on to the northwest...
+
+[06575.107]
+Shiny-Loving Maid
+
+[06575.108]
+Walk along the coast and a big mountain will come into view. The Spiral Cave is at its foot.
+
+[06575.109]
+Shiny-Loving Maid
+
+[06575.110]
+...Hey, you don't have enough!
+
+[06575.111]
+Shiny-Loving Maid
+
+[06575.112]
+Don't blame me if you wander around lost forever.
+
+[06575.114]
+I went and decided on the Spiral Cave by myself... Is that all right?
+
+[06575.116]
+Everyone feels the same as you. Let's go, {NAME:01 00 00 00}.
+
+[06575.117]
+Have a safe journey.
+
+[06575.118]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06575.119]
+Will you stay the night?
+
+[06575.121]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06575.122]
+Please rest well.
+
+[06575.123]
+Good morning.
+
+[06575.124]
+You do not have enough money.
+
+[06575.125]
+We look forward to seeing you again.
+
+[06575.130]
+Obtained {16:25 BE}.
+
+[06575.132]
+Obtained {08:FF FF FF FF}.
+
+[06575.134]
+Found {16:25 C6}, but you can carry no more.
+
+[06575.136]
+There is nothing here.
+

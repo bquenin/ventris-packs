@@ -1,0 +1,9 @@
+[00170.001]
+Wo~w! What a lively town. Is there a festival on? Just walking makes my head spin... Oh, there's something fun over there! Let's go see, {NAME:03 00 00 00}!
+
+[00170.002]
+Wai~t! Calm down, {NAME:01 00 00 00}! Don't go darting about. You'll get lost! Hold on tight to my hand!
+
+[00170.003]
+Hey~. I'm not a kid!
+

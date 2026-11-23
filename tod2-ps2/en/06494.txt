@@ -1,0 +1,17 @@
+[06494.001]
+Heat River
+
+[06494.002]
+Heat River
+
+[06494.003]
+Obtained {0B:01 00 00 00}{14:34 88}{0B:00 00 00 00} {16:34 8C}.
+
+[06494.005]
+Found {0B:01 00 00 00}{14:34 90}{0B:00 00 00 00} {16:34 8C}, but you can carry no more. Returned them to the chest.
+
+[06494.007]
+{16:34 8C}: {0B:01 00 00 00}{14:34 90} found, but you cannot carry them all.
+・Take {14:34 88}, discard {14:34 94}{0B:00 00 00 00}
+・Put them back in the chest
+

@@ -1,0 +1,109 @@
+[06577.001]
+The Radisrol
+
+[06577.002]
+The Radisrol
+
+[06577.004]
+A box marked "Collection Box".
+
+[06577.006]
+"Kanbara Bear Suit Design"
+
+[06577.008]
+There is food in the box.
+
+[06577.009]
+Private A
+
+[06577.010]
+What do you mean to do when this war is over?
+
+[06577.011]
+Private B
+
+[06577.012]
+Who knows... I can't think that far ahead.
+
+[06577.013]
+Private A
+
+[06577.014]
+Me, I'm thinking of founding a village deep in the mountains somewhere.
+
+[06577.015]
+Private B
+
+[06577.016]
+A village in the mountains, hm. You mean to live there tilling a field?
+
+[06577.017]
+Private A
+
+[06577.018]
+Not a bad life, is it? I've had enough of carrying a sword.
+
+[06577.019]
+Private B
+
+[06577.020]
+Maybe so. If I live through this, I'll come along with you.
+
+[06577.021]
+Private C
+
+[06577.022]
+Hey. Where do you come from?
+
+[06577.024]
+A place called Cresta.
+
+[06577.025]
+Private C
+
+[06577.026]
+Cresta? Never heard of it.
+
+[06577.028]
+Hey, hey, {NAME:01 00 00 00}. In the time of the War of Heaven and Earth there's no such place as Cresta.
+
+[06577.030]
+Oh, right...
+
+[06577.031]
+Have a safe journey.
+
+[06577.032]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06577.033]
+Will you stay the night?
+
+[06577.035]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06577.036]
+Please rest well.
+
+[06577.037]
+Good morning.
+
+[06577.038]
+You do not have enough money.
+
+[06577.039]
+We look forward to seeing you again.
+
+[06577.044]
+Obtained {16:25 BA}.
+
+[06577.046]
+Obtained {08:FF FF FF FF}.
+
+[06577.048]
+Found {16:25 C2}, but you can carry no more.
+
+[06577.050]
+There is nothing here.
+

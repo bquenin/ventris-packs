@@ -1,0 +1,13 @@
+[06295.4828]
+Who is this, wearing
+{NAME:04 00 00 00}'s mask?
+
+[06295.4871]
+Right! Nice one!
+
+[06295.4890]
+Wrong!
+
+[06295.4899]
+Time's up.
+

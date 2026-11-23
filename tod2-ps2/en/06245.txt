@@ -1,0 +1,69 @@
+[06245.4090]
+Whose voice?
+
+[06245.4103]
+Nope
+
+[06245.4108]
+Right!
+
+[06245.4115]
+Time up
+
+[06245.4124]
+Whose voice, eh?
+
+[06245.4141]
+Wrong.
+
+[06245.4148]
+Time's up!
+
+[06245.4161]
+Whose voice is this?
+
+[06245.4182]
+Wrong.
+
+[06245.4189]
+Right.
+
+[06245.4196]
+Time's up
+
+[06245.4207]
+Know whose voice?
+
+[06245.4230]
+Wrong!
+
+[06245.4239]
+Right.
+
+[06245.4246]
+Time's up.
+
+[06245.4259]
+Whose voice?
+
+[06245.4274]
+Wrong!
+
+[06245.4281]
+Time's up
+
+[06245.4292]
+Know whose voice it is?
+
+[06245.4317]
+Right!
+
+[06245.4326]
+Name this voice
+
+[06245.4345]
+Wrong.
+
+[06245.4354]
+Time's up, I see
+

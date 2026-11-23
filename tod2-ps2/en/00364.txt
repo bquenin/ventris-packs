@@ -1,0 +1,18 @@
+[00364.001]
+Hey, {NAME:03 00 00 00}. Doesn't {NAME:05 00 00 00} remind you a bit of my mom?
+
+[00364.002]
+Du~mmy! What are you saying! Next to Rutee it's chalk and cheese, no, even comparing them is an insult to Rutee!!
+
+[00364.003]
+Hmm, I think they're alike, though. Steady, strong-willed, but kind too...
+
+[00364.004]
+Listen, {NAME:01 00 00 00}. Open your eyes and look we~ll. Rutee has womanliness and beauty... But where on earth do you see womanliness and beauty in this mannish tomboy!!
+
+[00364.005]
+{NAME:01 00 00 00}. We're about to be one member short. That's no problem, is it?
+
+[00364.006]
+Whoa! Ow! Ow ow ow! That joint doesn't bend that wa... gh...! Agyah! Aaaaaaaaaaah.
+

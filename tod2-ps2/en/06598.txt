@@ -1,0 +1,139 @@
+[06598.001]
+Dycroft
+
+[06598.002]
+Dycroft
+
+[06598.003]
+Soldier
+
+[06598.004]
+Hey, they say intruders have turned up. Word is some Surface Army lot came aboard in a weird machine.
+
+[06598.005]
+Soldier
+
+[06598.006]
+Ne~ver mind. We just hold our post. It's not as if they'd attack here.
+
+[06598.007]
+Soldier
+
+[06598.008]
+True. A handful of people can't take Dycroft. What are they thinking, the simple fools.
+
+[06598.009]
+Soldier
+
+[06598.010]
+Wh-who are you!?
+
+[06598.012]
+The simple fools from the surface!
+
+[06598.013]
+Soldier
+
+[06598.014]
+What!? Then these are...!
+
+[06598.015]
+Soldier
+
+[06598.016]
+E-enemy attack on the control room... Send help at once... Gah!
+
+[06598.018]
+But can you really seize control of Dycroft?
+
+[06598.020]
+The word "impossible" is not in my dictionary!
+
+[06598.022]
+All right? Buy me just five minutes. That's all I need to hack the main computer.
+
+[06598.024]
+Got it! We just have to hold this place till then!
+
+[06598.025]
+Here they come...! But I won't let you lay one finger on {NAME:06 00 00 00}!
+
+[06598.026]
+Take me lightly because I'm a woman and you'll get badly hurt. Clear off before it gets painful!
+
+[06598.027]
+Here they come again. Sorry, we're busy just now, so the welcome's going to be a bit rough!
+
+[06598.028]
+I will fight with all my strength to the end. Because that is all I can do now...!
+
+[06598.030]
+Dear me, they never learn. All that trouble. Seems they don't know what a lesson is.
+
+[06598.031]
+As long as you can talk back, I need not worry. Keep up your bluster.
+
+[06598.032]
+{0B:01 00 00 00}Hold out {14:34 04 A0 10 0E C8}min {14:34 04 A0 10 0E C9 90 3C C8}sec more☆{0B:00 00 00 00}
+
+[06598.033]
+{0B:01 00 00 00}Hold out {14:34 04 A0 10 0E C9 90 3C C8}sec more☆{0B:00 00 00 00}
+
+[06598.036]
+Not yet, {NAME:06 00 00 00}!? We're about at our limit too!
+
+[06598.038]
+Hm, hm, hmm~♪ Hmhmhm, hmm~♪
+
+[06598.040]
+Don't just sit there humming! Are you listening, {NAME:06 00 00 00}!?
+
+[06598.042]
+3, 2, 1... 0!
+
+[06598.044]
+That shuts down everything on Dycroft except the escape pods. Belcrant is having a nap too.
+
+[06598.046]
+All right, we're getting out too! Straight to the hangar in one go!
+
+[06598.048]
+{NAME:06 00 00 00} earned the title "{08:71 08 00 00}".
+
+[06598.050]
+Have a safe journey.
+
+[06598.051]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06598.052]
+Will you stay the night?
+
+[06598.054]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06598.055]
+Please rest well.
+
+[06598.056]
+Good morning.
+
+[06598.057]
+You do not have enough money.
+
+[06598.058]
+We look forward to seeing you again.
+
+[06598.063]
+Obtained {16:26 1E}.
+
+[06598.065]
+Obtained {08:FF FF FF FF}.
+
+[06598.067]
+Found {16:26 26}, but you can carry no more.
+
+[06598.069]
+There is nothing here.
+

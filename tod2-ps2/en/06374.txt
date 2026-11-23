@@ -1,0 +1,76 @@
+[06374.001]
+Straylize Ruins
+
+[06374.002]
+Straylize Ruins
+
+[06374.004]
+This wall looks like it could be broken with a shock from something.
+
+[06374.006]
+What is this room? There are "numbers" drawn in front of "colored stones".
+
+[06374.008]
+Hm. "Yellow" beyond the "4"...
+
+[06374.010]
+Doesn't this mean "something yellow comes 4th"?
+
+[06374.012]
+A "blue orb" is placed beyond the number "1".
+
+[06374.014]
+A "white orb" is placed beyond the number "2".
+
+[06374.016]
+A "green orb" is placed beyond the number "3".
+
+[06374.018]
+A "yellow orb" is placed beyond the number "4".
+
+[06374.020]
+A "red orb" is placed beyond the number "5".
+
+[06374.022]
+A "gray orb" is placed beyond the number "6".
+
+[06374.024]
+A "purple orb" is placed beyond the number "7".
+
+[06374.025]
+Have a safe journey.
+
+[06374.026]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06374.027]
+Will you stay the night?
+
+[06374.029]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06374.030]
+Please rest well.
+
+[06374.031]
+Good morning.
+
+[06374.032]
+You do not have enough money.
+
+[06374.033]
+We look forward to seeing you again.
+
+[06374.038]
+Obtained {16:25 BA}.
+
+[06374.040]
+Obtained {08:FF FF FF FF}.
+
+[06374.042]
+Found {16:25 C2}, but you can carry no more.
+
+[06374.044]
+There is nothing here.
+

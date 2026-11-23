@@ -1,0 +1,15 @@
+[00058.001]
+Let's have a wander round town, then head back to the orphanage.
+
+[00058.002]
+Why not go straight back? Mom would be so happy to see you, {NAME:03 00 00 00}.
+
+[00058.003]
+I want to get back soon too. But when it comes to it, well... I get strangely bashful. Besides, there's someone I want to say hello to.
+
+[00058.004]
+Hmm... Is that so.
+
+[00058.005]
+Leave and you'll see.
+

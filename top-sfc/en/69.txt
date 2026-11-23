@@ -1,0 +1,233 @@
+[69.000]
+Cave of Burning Sand
+
+[69.001]
+Sea Cave
+
+[69.002]
+Cave of Spirits
+
+[69.003]
+{COLOR:03}There is a switch.
+Press it?{COLOR:02}
+
+[69.004]
+{COLOR:03}There is a lever. Throw it?{COLOR:02}
+
+[69.005]
+{COLOR:03}There is a switch. Press it?{COLOR:02}
+
+[69.006]
+???
+"Who is it!? Who dares disturb my sleep!!"{PAGE}
+
+
+[69.007]
+{クレス}
+"Wh-who's there!?"
+
+[69.008]
+Undine
+"So it is you!!"
+
+[69.009]
+Undine
+"S-spare me... What is it you wish?"{PAGE}
+{クラース}
+"I wish to make a pact with you."{PAGE}
+Undine
+"...Very well. Bring out the Aquamarine ring."
+
+[69.010]
+{クラース}
+"I now beseech the spirit of water
+
+[69.011]
+{COLOR:03}{クラース} can now summon {STR:0708}.
+
+
+[69.012]
+"I'll use the Lava Key."
+
+[69.013]
+"It's locked."
+
+[69.014]
+"If you would break the seal, give the word that is the key."{PAGE}
+1. Ke　2. Su　3. Ki　4. A
+
+[69.015]
+1. Ku　2. Ra　3. Za　4. I
+
+[69.016]
+1. Ru　2. Ri　3. Ka　4. I
+
+[69.017]
+1. Chi　2. Do　3. Na　4. N
+
+[69.018]
+The door shall open.
+
+[69.019]
+Wrong!
+
+[69.020]
+It has a meaning, but it is wrong!
+
+[69.021]
+"Ahh, there they are."
+
+[69.022]
+{クレス}
+"What is this place...?"
+
+[69.023]
+Gnome
+"Who's thaaat, coming onto my patch!!"
+
+[69.024]
+Gnome
+"I give uuup."{PAGE}
+{クラース}
+"Good, then let us make the pact."{PAGE}
+Gnome
+"The Ruby ring would be niiice."
+
+[69.025]
+{クラース}
+"I now beseech the spirit of earth
+
+[69.026]
+{COLOR:03}{クラース} can now summon {STR:0808}.
+
+[69.027]
+. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[69.028]
+{クレス}
+"So this is... Ifrit..."{PAGE}
+Ifrit
+"Have you business with me!?"{PAGE}
+{クラース}
+"I wish to make a pact with you."{PAGE}
+Ifrit
+"Heh heh... You have good eyes, all of you. Very well."{PAGE}
+{クラース}
+"Truly?"{PAGE}
+Ifrit
+"If you can defeat me, that is!!"
+
+[69.029]
+Ifrit
+"Mmmh... That you could withstand my flames, which burn even rock to nothing..."{PAGE}
+{クラース}
+"Then let us make the pact."{PAGE}
+Ifrit
+"...Very well. Bring out the Garnet ring."
+
+[69.030]
+{クラース}
+"I now beseech the spirit of fire
+
+[69.031]
+{COLOR:03}{クラース} can now summon {STR:0908}.
+
+
+[69.032]
+"Lost, I'm lost."
+
+[69.033]
+"I'm lost, I am. Take me to the others."{PAGE}
+{COLOR:03}Take him along?{COLOR:02}
+
+[69.034]
+"Take meee."
+
+[69.035]
+"Thank youuu."
+
+[69.036]
+"One of us is missing. Do you know where he is?"{PAGE}
+
+
+[69.037]
+What's thaaat? Want a fight?{PAGE}
+{COLOR:03}Fight?{COLOR:02}
+
+[69.038]
+Boooring.
+
+[69.039]
+"No use, no use, no use, no uuuse."
+
+[69.040]
+"Huuuh? Why's the alarm ringing?"
+
+[69.041]
+"This is... a spellbook!"{PAGE}
+
+
+[69.042]
+{COLOR:03}{アーチェ} learned {STR:D907}.{COLOR:02}
+
+[69.043]
+"But it's no use my holding on to it. I'll put it back."
+
+[69.044]
+"This is... a spellbook!"{PAGE}
+
+
+[69.045]
+{COLOR:03}{アーチェ} learned {STR:D707}.{COLOR:02}
+
+[69.046]
+"But it's no use my holding on to it. I'll put it back."
+
+[69.047]
+"This is... a spellbook!"{PAGE}
+
+
+[69.048]
+{COLOR:03}{アーチェ} learned {STR:DB07}.{COLOR:02}
+
+[69.049]
+"But it's no use my holding on to it. I'll put it back."
+
+[69.050]
+"This is... a spellbook!"{PAGE}
+
+
+[69.051]
+{COLOR:03}{アーチェ} learned {STR:E007}.{COLOR:02}
+
+[69.052]
+"But it's no use my holding on to it. I'll put it back."
+
+[69.053]
+"This is... a spellbook!"{PAGE}
+
+
+[69.054]
+{COLOR:03}{アーチェ} learned {STR:DE07}.{COLOR:02}
+
+[69.055]
+"But it's no use my holding on to it. I'll put it back."
+
+[69.056]
+{COLOR:03}Received {STR:F60C}.{COLOR:02}{PAGE}
+
+
+[69.057]
+{クレス}
+"What... is this used for?"{PAGE}
+{クラース}
+"It is only a ring, surely?"{PAGE}
+{クレス}
+"But why in a place like this?"
+
+[69.058]
+{クレス}
+"Wh-what? It gave off sparks!"{PAGE}
+{クラース}
+"Well, well, how interesting. With that you might be able to work things from a distance."
+

@@ -1,0 +1,172 @@
+[07.000]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+???
+"Can you{SPEED:10}...{SPEED:FF} hear my voice?"
+
+[07.001]
+{クレス}
+(Just now... I thought I heard a woman's voice{SPEED:10}...{SPEED:FF})
+
+[07.002]
+{クレス}
+"A woman's voice, from the other side of the hole..."{PAGE}
+???
+"Your hand... reach this way..."{PAGE}
+{クレス}
+"Who... are you?"{PAGE}
+???
+"Please... reach out your hand to me... I want to help you."{PAGE}
+{COLOR:03}Reach out your hand?{COLOR:02}
+
+[07.003]
+{クレス}
+"...Is this... an earring?"{PAGE}
+???
+"Hold it up to the wall...
+I am sure you can get out of this manor..."{PAGE}
+{クレス}
+"W-wait a moment!
+Who are you...?"{PAGE}
+"...Well, I'll try holding up the earring."
+
+[07.004]
+{クレス}
+"What's this...!?"{PAGE}
+"I have to find her and thank her{SPEED:10}...{SPEED:FF}"
+
+[07.005]
+"Reach out your hand...
+Your hand..."
+
+[07.006]
+{クレス}
+"I can't get out through this hole..."
+
+[07.007]
+{COLOR:03}You pried the door open with the sword.{COLOR:02}
+
+[07.008]
+{クレス}
+"It's no use with my bare hands..."
+
+[07.009]
+{クレス}
+"Where is this...?"
+
+[07.010]
+{ミント}
+"It looks as if this leads to the waterway."{PAGE}
+"I wonder if we can get it open somehow..."
+
+[07.011]
+{COLOR:03}You pried the iron bars open with the sword.{COLOR:02}
+
+[07.012]
+{クレス}
+"It's no use with my bare hands..."
+
+[07.013]
+{クレス}
+"If I go any further, I'll be seen..."
+
+[07.014]
+{クレス}
+(She doesn't know her mother is dead. It would be too cruel to show her the truth...)
+
+[07.015]
+{クレス}
+"It can't be{SPEED:10}...{SPEED:FF}"{PAGE}
+"Then what was the warmth of that hand...?"
+
+[07.016]
+{クレス}
+"Are you all right? Are you hurt?"{PAGE}
+???
+"Who are you...?"{PAGE}
+{クレス}
+"I'm {クレス}. And you?"{PAGE}
+
+
+[07.017]
+???
+"{ミント}."{PAGE}
+"Um... thank you for saving me..."{PAGE}
+{クレス}
+"We can't stay here. Let's get away, quickly."{PAGE}
+{ミント}
+"...P-please! Save my mother too!"{PAGE}
+"She's in the cell over there..."{PAGE}
+
+
+[07.018]
+{クレス}
+"Huh?"
+
+[07.019]
+{クレス}
+"...There was no one in there. Come on, hurry!"{PAGE}
+{ミント}
+"{SPEED:10}...{SPEED:FF}B-but..."{PAGE}
+"I really did hear my mother's voice! She was encouraging me...
+I'm sure it was my mother{SPEED:10}...{SPEED:FF}"
+
+[07.020]
+{クレス}
+"A sword, run right through... How cruel..."{PAGE}
+{COLOR:03}You can pull the sword out.
+Pull it out?{COLOR:02}
+
+[07.021]
+"Let me make use of this...!"{PAGE}
+
+
+[07.022]
+{COLOR:03}Received the Long Sword.{COLOR:02}
+
+[07.023]
+"I'll leave it where it is."
+
+[07.024]
+"All right, get in."
+
+[07.025]
+"Stop dawdling!"
+
+[07.026]
+"Behave yourself and you'll live longer. Understand?"
+
+[07.027]
+{クレス}
+"Damn it!!"
+
+[07.028]
+"We have captured Miguel's son!"
+
+[07.029]
+???
+"Well done."
+
+[07.030]
+???
+"Hmph. To think a boy like you was carrying it{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"It was you, wasn't it? You attacked the village!"{PAGE}
+???
+"Hmph. I know nothing of that."
+
+[07.031]
+{クレス}
+"G... give it back!"{PAGE}
+???
+"I'll be keeping this pendant. You there, take the boy's weapon and throw him in a cell."
+
+[07.032]
+???
+"Heh heh{SPEED:10}...{SPEED:FF}
+Now, at last..."
+
+[07.033]
+
+{クレス}
+(Wh-what!? What is that{SPEED:10}...{SPEED:FF})
+

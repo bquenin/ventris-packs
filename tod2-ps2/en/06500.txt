@@ -1,0 +1,162 @@
+[06500.001]
+Hope Town
+
+[06500.002]
+Hope Town
+
+[06500.004]
+Obtained {08:41 00 00 00}.
+
+[06500.006]
+Scrap is piled up. Picked up from Trash Mountain, perhaps.
+
+[06500.008]
+A spicy smell fills the air. Strongly seasoned dishes seem to be liked in the Calvalese region.
+
+[06500.010]
+"Wheat from Cresta" is written on the barrel. It seems to have been imported all the way from Cresta.
+
+[06500.011]
+Squid
+
+[06500.012]
+Octopus
+
+[06500.013]
+Minced Tuna with Scallion
+
+[06500.014]
+Fatty Tuna
+
+[06500.015]
+Egg
+
+[06500.016]
+Sea Urchin
+
+[06500.017]
+Salmon Roe
+
+[06500.018]
+Conger Eel
+
+[06500.019]
+Pickled Ginger
+
+[06500.020]
+Today's Special
+
+[06500.021]
+The usual
+
+[06500.022]
+Dessert
+
+[06500.023]
+King Cook
+
+[06500.024]
+You there, care to work a while as a sushi chef?
+
+[06500.026]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06500.027]
+Do you need an explanation?
+
+[06500.029]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06500.030]
+I want you to serve the customers the dishes they order.
+
+[06500.031]
+Speed is everything. Learn the menu by heart as far as you can before you face the customers.
+
+[06500.032]
+And be sure to serve the dishes facing the customer.
+
+[06500.033]
+Now... the customers are starting to come.
+
+[06500.034]
+This is the next menu. Go once you've learned it.
+
+[06500.042]
+Too slow! I can't wait any longer! I'm leaving!
+
+[06500.048]
+Thank you. Thanks to you I made money hand over fist.
+
+[06500.049]
+Here's your share. Take it.
+
+[06500.051]
+{0B:01 00 00 00}Obtained {14:34 A4} Gald.{0B:00 00 00 00}
+
+[06500.052]
+I'll count on you again.
+
+[06500.053]
+You said it was your calling, so I left it to you, and look at this mess!
+
+[06500.054]
+{05:80 01 00 00}Get out!
+
+[06500.061]
+{04:07 00 00 00}SELECT {04:06 00 00 00}Run away
+
+[06500.063]
+{03:00 00 00 00}{0B:01 00 00 00}Left: {04:06 00 00 00}{14:24 86 24 80 CB}{04:07 00 00 00} / Pay: {12:25 74}{14:34 A8}{04:07 00 00 00} Gald{18:45 78}
+{09:35 00 00 00}{04:02 00 00 00}{18:45 84}
+{09:36 00 00 00}{04:01 00 00 00}{18:45 88}
+{09:37 00 00 00}{04:03 00 00 00}{18:45 8C}{0B:00 00 00 00}
+
+[06500.066]
+{03:00 00 00 00}{0B:01 00 00 00}Left: {04:06 00 00 00}{14:24 86 24 80 CB}{04:07 00 00 00} / Pay: {12:25 74}{14:34 A8}{04:07 00 00 00} Gald{18:45 78}
+{09:35 00 00 00}{04:02 00 00 00}{18:45 84}
+{09:36 00 00 00}{04:01 00 00 00}{18:45 88}
+{09:37 00 00 00}{04:03 00 00 00}{18:45 8C}{0B:00 00 00 00}
+
+[06500.070]
+{15:24 88} earned the title "{16:A0 81 08 24 88 CA 81 CB}".
+
+[06500.071]
+Have a safe journey.
+
+[06500.072]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06500.073]
+Will you stay the night?
+
+[06500.075]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06500.076]
+Please rest well.
+
+[06500.077]
+Good morning.
+
+[06500.078]
+You do not have enough money.
+
+[06500.079]
+We look forward to seeing you again.
+
+[06500.084]
+Obtained {16:26 EA}.
+
+[06500.086]
+Obtained {08:FF FF FF FF}.
+
+[06500.088]
+Found {16:26 F2}, but you can carry no more.
+
+[06500.090]
+There is nothing here.
+

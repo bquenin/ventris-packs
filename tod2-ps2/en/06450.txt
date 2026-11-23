@@ -1,0 +1,619 @@
+[06450.001]
+Heidelberg Castle
+
+[06450.002]
+Heidelberg Castle
+
+[06450.003]
+Heidelberg Castle
+
+[06450.005]
+{NAME:01 00 00 00}, hurry to the guest room! {NAME:06 00 00 00} is waiting!
+
+[06450.007]
+A painting on the theme of the "uprising over the Eye of God". It shows the deeds of the Four Heroes and the Swordians.
+
+[06450.009]
+A candlestick decorated in gold and silver. How much would it cost...
+
+[06450.010]
+Soldier
+
+[06450.011]
+The audience chamber is above here! ........ ...U-um, are you really...
+
+[06450.013]
+Huh? What?
+
+[06450.014]
+Soldier
+
+[06450.015]
+N-no! It's nothing!
+
+[06450.016]
+Soldier
+
+[06450.017]
+The audience chamber is above here!
+
+[06450.018]
+Soldier
+
+[06450.019]
+I became a knight because I looked up to your father!
+
+[06450.020]
+Soldier
+
+[06450.021]
+He was an ordinary person with no rank at all, the same as us, and he became a hero who saved the world!
+
+[06450.022]
+Soldier
+
+[06450.023]
+I'll do my best to become a man like Stahn!
+
+[06450.025]
+A hero like Dad is my goal too! Let's do our best together!
+
+[06450.026]
+Soldier
+
+[06450.027]
+To hear such words from you... I-I'm overwhelmed!
+
+[06450.028]
+Soldier
+
+[06450.029]
+I'll do my best too, with your father as my goal!
+
+[06450.030]
+Soldier
+
+[06450.031]
+I became a knight because I looked up to your father!
+
+[06450.032]
+Soldier
+
+[06450.033]
+He was an ordinary person with no rank at all, the same as us, and he became a hero who saved the world!
+
+[06450.034]
+Soldier
+
+[06450.035]
+I'll do my best too, with your father as my goal!
+
+[06450.036]
+Soldier
+
+[06450.037]
+{NAME:01 00 00 00}! Never mind here, go to the audience chamber! Please save His Majesty!!
+
+[06450.038]
+Soldier
+
+[06450.039]
+For this castle to be attacked... ...And His Majesty too...!
+
+[06450.040]
+Soldier
+
+[06450.041]
+{NAME:01 00 00 00}... please do your best!
+
+[06450.042]
+Soldier
+
+[06450.043]
+Please, for His Majesty's sake too, the Lenses...!
+
+[06450.045]
+Yeah, I know!
+
+[06450.046]
+Soldier
+
+[06450.047]
+We're counting on you, {NAME:01 00 00 00}! Do your best!
+
+[06450.048]
+Soldier
+
+[06450.049]
+{NAME:01 00 00 00}! Welcome back!
+
+[06450.050]
+Soldier
+
+[06450.051]
+His Majesty and everyone have been waiting for your return!
+
+[06450.053]
+Th-that's kind of embarrassing...
+
+[06450.054]
+Soldier
+
+[06450.055]
+Now, {NAME:01 00 00 00}, please hurry to the audience chamber!
+
+[06450.056]
+Soldier
+
+[06450.057]
+The castle is being repaired at a great pace. With the townspeople's help too, it's going very smoothly.
+
+[06450.058]
+Soldier
+
+[06450.059]
+I don't remember it well myself... but my superiors were saying fondly that it's like eighteen years ago.
+
+[06450.060]
+Soldier
+
+[06450.061]
+The castle is being repaired at a great pace. With the townspeople's help too, it's going very smoothly.
+
+[06450.062]
+Soldier
+
+[06450.063]
+Welcome to Heidelberg Castle! Do you wish an audience with His Majesty? Then please go up to the second floor!
+
+[06450.064]
+Soldier
+
+[06450.065]
+U-um, how do you do! I've heard that you're the son of that Stahn!
+
+[06450.066]
+Soldier
+
+[06450.067]
+I became a knight because I looked up to your father! It's an honor to meet you!
+
+[06450.069]
+Hmm, I don't know why you'd be glad to meet someone like me... but anyway, nice to meet you!
+
+[06450.070]
+Soldier
+
+[06450.071]
+I want to become a man like Stahn!
+
+[06450.073]
+H-hmm... Sorry to spoil the dream, but he's not all that cool.
+
+[06450.075]
+He's as much of a sleepyhead as I am, his snoring's loud, and he can't stand up to Mom...
+
+[06450.076]
+Soldier
+
+[06450.077]
+He can't stand up to his wife... S-so Stahn is a surprisingly ordinary man too...
+
+[06450.078]
+Soldier
+
+[06450.079]
+Hoh... I do see the likeness...
+
+[06450.081]
+Mister... is there something on my face?
+
+[06450.082]
+Soldier
+
+[06450.083]
+Ah, no... ahem! Those seeking an audience are to go up the stairs and on ahead!
+
+[06450.084]
+Soldier
+
+[06450.085]
+Those seeking an audience are to go up the stairs and on ahead!
+
+[06450.086]
+Soldier
+
+[06450.087]
+To see the son of that hero Stahn with my own eyes... It feels like standing before a living legend.
+
+[06450.089]
+A "living legend", he says! Wow, that's something!
+
+[06450.090]
+Soldier
+
+[06450.091]
+That's my line. I haven't been this astonished since eighteen years ago.
+
+[06450.092]
+Soldier
+
+[06450.093]
+Eighteen years ago, when I heard that His Majesty King Woodrow had saved the world, I got a great shock too...
+
+[06450.094]
+Soldier
+
+[06450.095]
+And it's a shock again to stand before the son of the hero Stahn, who fought alongside His Majesty.
+
+[06450.096]
+Soldier
+
+[06450.097]
+To see the son of that hero Stahn with my own eyes... It feels like standing before a living legend.
+
+[06450.098]
+Soldier
+
+[06450.099]
+Hm? You... Did you forget something?
+
+[06450.100]
+Soldier
+
+[06450.101]
+Y-you are...!
+
+[06450.103]
+What terrible wounds...! Don't move, you'll open them wider!
+
+[06450.104]
+Soldier
+
+[06450.105]
+Never... mind me! ...His Majesty... please...!
+
+[06450.106]
+Soldier
+
+[06450.107]
+The audience... chamber... ...is thinly... guarded...! Hur...ry...!
+
+[06450.108]
+Soldier
+
+[06450.109]
+...Damn! I couldn't even protect His Majesty. Some soldier of Heidelberg I am...!
+
+[06450.110]
+Soldier
+
+[06450.111]
+We're counting on you, son of the hero Stahn. Show them what you're made of! And the Lenses...!
+
+[06450.113]
+Yeah, I know. {NAME:02 00 00 00} and the Lenses too, leave them both to me!
+
+[06450.114]
+Soldier
+
+[06450.115]
+...Are you really that same boy? You're like a different person from yesterday...
+
+[06450.116]
+Soldier
+
+[06450.117]
+Anyway, we're counting on you, son of Stahn... ...no, {NAME:01 00 00 00}.
+
+[06450.118]
+Soldier
+
+[06450.119]
+Ah, take that over to the annex! If it's heavy, you can make two trips!
+
+[06450.120]
+Soldier
+
+[06450.121]
+You know, since I was put in charge of the repair work I haven't done a single soldierly thing. Well, it's fun in its own way.
+
+[06450.122]
+Soldier
+
+[06450.123]
+Handling swords and spears I'm good at, but now it's hammers and saws, and handling girls into the bargain.
+
+[06450.124]
+Soldier
+
+[06450.125]
+But somehow it's fun. Yes... rebuilding something must be a good thing in itself.
+
+[06450.126]
+Soldier
+
+[06450.127]
+Ah, that goes on the second floor! Take it to the guest rooms!
+
+[06450.128]
+Soldier
+
+[06450.129]
+To see the son of that hero Stahn with my own eyes... It feels like standing before a living legend.
+
+[06450.131]
+Really? I'd say Woodrow is much more of a living legend.
+
+[06450.132]
+Soldier
+
+[06450.133]
+Well, His Majesty is too, but when you've been looking at him for eighteen years you don't get that feeling.
+
+[06450.134]
+Soldier
+
+[06450.135]
+It's eighteen years since His Majesty returned, and I've served him all that time. He doesn't feel much like a living legend to me.
+
+[06450.137]
+Oh, I get it, I get it! Dad's strong, sure, but being told he's a hero doesn't really click.
+
+[06450.138]
+Soldier
+
+[06450.139]
+Ha ha! So you and I both have the luxurious trouble of having a hero too close at hand.
+
+[06450.140]
+Soldier
+
+[06450.141]
+We have the luxurious trouble of having a hero too close at hand. You and I are two of a kind.
+
+[06450.142]
+Soldier
+
+[06450.143]
+Halt, you there. Travelers, by the look of you... An audience with His Majesty King Woodrow?
+
+[06450.144]
+Soldier
+
+[06450.145]
+Have you arranged an appointment for an audience? For those without one, it will be several weeks.
+
+[06450.147]
+Several weeks!? You've got to be joking. We can't wait that long!
+
+[06450.149]
+Hold on, {NAME:01 00 00 00}. I've got an idea.
+
+[06450.151]
+We haven't arranged an appointment, but would you try passing word to His Majesty?
+
+[06450.153]
+Tell him {NAME:01 00 00 00}, Stahn's son, has come. He'll understand.
+
+[06450.154]
+Soldier
+
+[06450.155]
+As I said, those without an appointment...
+
+[06450.156]
+Soldier
+
+[06450.157]
+Wait, you said Stahn. Surely not... no, it couldn't be.
+
+[06450.159]
+So just try, that's all. If it's no good, we'll withdraw at once.
+
+[06450.161]
+...That said, I can't imagine King Woodrow is a man to turn the son of an old friend away coldly.
+
+[06450.162]
+Soldier
+
+[06450.163]
+...Very well, I will speak to him.
+
+[06450.165]
+Hey, {NAME:03 00 00 00}. What did you say?
+
+[06450.167]
+Hm? Well, never mind the details.
+
+[06450.169]
+You use a rather underhand trick.
+
+[06450.171]
+Oh, as long as we get to see him it's fine. Don't be so stiff.
+
+[06450.173]
+...I cannot go along with this. I will go and kill some time. See him on your own.
+
+[06450.175]
+Ah, wait, {NAME:04 00 00 00}!
+
+[06450.176]
+Soldier
+
+[06450.177]
+My apologies! He says he wishes to see you at once!
+
+[06450.178]
+Soldier
+
+[06450.179]
+Hey, is that true? Passing on someone without an appointment...
+
+[06450.180]
+Soldier
+
+[06450.181]
+It's all right. Word from His Majesty is to receive them with every courtesy.
+
+[06450.183]
+Huh, what?
+
+[06450.184]
+Soldier
+
+[06450.185]
+Now, {NAME:01 00 00 00}, please come inside.
+
+[06450.186]
+Soldier
+
+[06450.187]
+Please come again anytime, {NAME:01 00 00 00}!
+
+[06450.189]
+Yeah, thanks!
+
+[06450.191]
+Hey, listen, {NAME:04 00 00 00}! Woodrow really was an amazing person!
+
+[06450.193]
+Just by being there he's, like, "a herooo!"
+
+[06450.195]
+But he doesn't put on airs at all, he's so easygoing! He said I'm like a child of his own! And what's more!
+
+[06450.197]
+"He seems to have inherited the makings of a hero from his parents, without a doubt."
+
+[06450.199]
+He said that! To have the Hero King expecting things of me! Ta ha ha...
+
+[06450.201]
+...Good grief. Just as I thought.
+
+[06450.203]
+...Huh!?
+
+[06450.205]
+Do you not see? Neither Woodrow nor the soldiers are looking at you.
+
+[06450.207]
+They are only looking at Stahn and Rutee, who stand behind you.
+
+[06450.209]
+Woodrow's words, "inherited from his parents", prove it... Am I wrong?
+
+[06450.211]
+Ah...
+
+[06450.213]
+{NAME:02 00 00 00}, in the end, was Woodrow the hero you seek?
+
+[06450.215]
+He was not, was he? Otherwise you would not have come out with {NAME:01 00 00 00}.
+
+[06450.217]
+No...
+
+[06450.219]
+And any new lead... to judge by your face, there is none.
+
+[06450.221]
+And in spite of that, you were getting carried away all by yourself. How nice for you.
+
+[06450.223]
+Flattered by Woodrow, fussed over by the castle's soldiers. It must have felt very good.
+
+[06450.225]
+But one who cannot think of his companions will never become a hero. ...Never.
+
+[06450.227]
+........Ngh!
+
+[06450.229]
+Ah, {NAME:01 00 00 00}!?
+
+[06450.231]
+What you say is right, sure. But even so, there's such a thing as how you say it!
+
+[06450.233]
+You have some nerve to say that. You are the same as Woodrow and the rest.
+
+[06450.235]
+What!?
+
+[06450.237]
+Have you forgotten what happened when we entered the castle? You made use of his being Stahn's son.
+
+[06450.239]
+From that moment, they began to see {NAME:01 00 00 00} not as {NAME:01 00 00 00} but as "Stahn's son".
+
+[06450.241]
+Th-that was because we had no time, there was no choice...
+
+[06450.243]
+Then there was no choice, either, about {NAME:01 00 00 00} ending up like that as a result.
+
+[06450.245]
+........
+
+[06450.247]
+What he wants to become is not just any hero. It is a hero like Stahn.
+
+[06450.249]
+One who, whatever happens, always thinks of his companions... That kind of hero.
+
+[06450.251]
+If so, someone must tell him plainly. ...Even if it hurts him.
+
+[06450.253]
+...{NAME:04 00 00 00}.
+
+[06450.255]
+...I'm going after him!
+
+[06450.257]
+{NAME:01 00 00 00} earned the title "{08:2F 08 00 00}".
+
+[06450.259]
+Let's hurry to the audience chamber!
+
+[06450.260]
+Have a safe journey.
+
+[06450.261]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06450.262]
+Will you stay the night?
+
+[06450.264]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06450.265]
+Please rest well.
+
+[06450.266]
+Good morning.
+
+[06450.267]
+You do not have enough money.
+
+[06450.268]
+We look forward to seeing you again.
+
+[06450.273]
+Obtained {16:25 C6}.
+
+[06450.275]
+Obtained {08:FF FF FF FF}.
+
+[06450.277]
+Found {16:25 CE}, but you can carry no more.
+
+[06450.279]
+There is nothing here.
+

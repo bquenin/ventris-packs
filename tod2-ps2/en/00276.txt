@@ -1,0 +1,15 @@
+[00276.001]
+Eek! Just now, over there, a figure!
+
+[00276.002]
+Wh-wh-wh-wh-what is it, {NAME:02 00 00 00}? A ghost? Is that it? Tell me what happened! Aah, no, don't! But if it's a ghost we have to run~, no~, there are no ghosts! There can't be...
+
+[00276.003]
+Calm down, both of you. {NAME:02 00 00 00}, what you saw was your own shadow.
+
+[00276.004]
+...Eh? R-right, {NAME:14 27 00 00}-{NAME:04 00 00 00} is right! There couldn't be any ghosts, {NAME:02 00 00 00}! H-honestly, what a fuss over nothing!
+
+[00276.005]
+Oh, {NAME:03 00 00 00}, no fair! I never said ghost!
+

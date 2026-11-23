@@ -1,0 +1,1106 @@
+[06313.001]
+Dunamis Orphanage
+
+[06313.002]
+Dunamis Orphanage
+
+[06313.003]
+Orphanage, First Floor
+
+[06313.005]
+I can't very well go off and leave {NAME:03 00 00 00} behind.
+
+[06313.006]
+Tonia
+
+[06313.007]
+Honestly, {NAME:01 00 00 00}, don't fall asleep on your feet! You look like a zombie, and it's scary!
+
+[06313.008]
+Tonia
+
+[06313.009]
+So you really are going to try to be a real hero, {NAME:01 00 00 00}...
+
+[06313.011]
+Sorry, Tonia. I know it'll be lonely for you...
+
+[06313.012]
+Tonia
+
+[06313.013]
+Mm, I'm fine. Rutee and everyone are here... I won't be lonely.
+
+[06313.014]
+Tonia
+
+[06313.015]
+Do your best, {NAME:01 00 00 00}! And don't you do anything that would make Rutee sad!
+
+[06313.016]
+Uni
+
+[06313.017]
+Oh, {NAME:01 00 00 00}, {NAME:03 00 00 00}, welcome ba~ck!! I haven't told Rutee about our adventure outside town!
+
+[06313.019]
+Whoa! Keep your voice down! Mom will hear you!
+
+[06313.020]
+Uni
+
+[06313.021]
+Oops... Our adventure outside town was a secret from Rutee, wasn't it...
+
+[06313.022]
+Uni
+
+[06313.023]
+Huh? {NAME:01 00 00 00}, up at this hour? That's unusual!
+
+[06313.025]
+No it's not... Look, I'm eating all my carrots too, see...
+
+[06313.026]
+Uni
+
+[06313.027]
+{NAME:01 00 00 00}, you still seem half asleep...
+
+[06313.028]
+Uni
+
+[06313.029]
+Yaaawn... Huh? {NAME:01 00 00 00}, are you going out?
+
+[06313.031]
+...Yeah. I'll be away for a while. Be good, okay?
+
+[06313.032]
+Uni
+
+[06313.033]
+Have a good trip, both of you... Yaaawn...
+
+[06313.034]
+Uni
+
+[06313.035]
+Hey, look, look! I made this skirt myself!
+
+[06313.037]
+Ohh, now that's something. You'll make a fine bride someday, Uni!
+
+[06313.038]
+Uni
+
+[06313.039]
+Eheheh~★ I make everybody's clothes. Shall I make something for you too, {NAME:03 00 00 00}?
+
+[06313.041]
+You're good with your hands, Uni. You could be a bride any day.
+
+[06313.042]
+Uni
+
+[06313.043]
+I know! {NAME:03 00 00 00}, I'll make you a skirt to match mine!
+
+[06313.045]
+Er, a skirt's a bit, well...
+
+[06313.046]
+Uni
+
+[06313.047]
+Hey! Hey! I'll make you a skirt to match mine too, {NAME:03 00 00 00}!
+
+[06313.048]
+Cinnamon
+
+[06313.049]
+Heheh! I picked up a Lens on our adventure just now!
+
+[06313.051]
+What's this, collecting all those Lenses? Going to donate them to the Order of Atamoni or something?
+
+[06313.052]
+Cinnamon
+
+[06313.053]
+No, I'm going to turn these Lenses into money and give it to Rutee!
+
+[06313.054]
+Cinnamon
+
+[06313.055]
+I'm going to turn these Lenses into money and give it to Rutee!
+
+[06313.056]
+Cinnamon
+
+[06313.057]
+With this many Lenses, we could make this building like a castle!
+
+[06313.058]
+Cinnamon
+
+[06313.059]
+Heey, {NAME:01 00 00 00}, you okay? You're kind of wobbling.
+
+[06313.061]
+...Zzz...
+
+[06313.063]
+...Being able to walk in your sleep is a talent too, I guess...
+
+[06313.064]
+Cinnamon
+
+[06313.065]
+Heey, {NAME:01 00 00 00}, you okay? You're kind of wobbling.
+
+[06313.066]
+Cinnamon
+
+[06313.067]
+Oh, sleepyhead {NAME:01 00 00 00}! You're up early today!
+
+[06313.068]
+Cinnamon
+
+[06313.069]
+When I'm a bit bigger, I'm going to aim to be a hero like you, {NAME:01 00 00 00}!
+
+[06313.071]
+...No, I want you to stay here and protect Mom and everyone.
+
+[06313.072]
+Cinnamon
+
+[06313.073]
+Right, of course... {NAME:01 00 00 00} and {NAME:03 00 00 00} are both gone. I have to protect this place...
+
+[06313.074]
+Cinnamon
+
+[06313.075]
+Leave the orphanage to me. I'll protect it, I promise.
+
+[06313.076]
+Cinnamon
+
+[06313.077]
+Hey, {NAME:01 00 00 00}, play tag with us. If you win, I'll give you my treasure.
+
+[06313.078]
+Cinnamon
+
+[06313.079]
+Hey, big brother {NAME:03 00 00 00}, play tag with us. If you win, I'll give you my treasure.
+
+[06313.080]
+Cinnamon
+
+[06313.081]
+Hey, you shady-looking guy over there, play tag with us. If you win, I'll give you my treasure.
+
+[06313.082]
+Cinnamon
+
+[06313.083]
+Hey, lady over there, play tag with us. If you win, I'll give you my treasure.
+
+[06313.084]
+Cinnamon
+
+[06313.085]
+You look like a fast runner, lady. Play tag with us. If you win, I'll give you my treasure.
+
+[06313.086]
+Cinnamon
+
+[06313.087]
+Hey, shady lady over there, play tag with us. If you win, I'll give you my treasure.
+
+[06313.088]
+Cinnamon
+
+[06313.089]
+Hey, let's play tag.
+
+[06313.091]
+{03:00 00 00 00}　Play　
+　Don't play　
+
+[06313.092]
+Cinnamon
+
+[06313.093]
+Then it's a contest!
+
+[06313.094]
+Cinnamon
+
+[06313.095]
+Well, fine, whatever.
+
+[06313.096]
+Cinnamon
+
+[06313.097]
+Oh, sleepyhead {NAME:01 00 00 00}! You're up early today!
+
+[06313.098]
+Basil
+
+[06313.099]
+Oh, that floor there is dangerous. It's rotting underneath and could give way any moment.
+
+[06313.101]
+They say Dad and Mom rebuilt this orphanage, but that was eighteen years ago, after all.
+
+[06313.103]
+We'll just rebuild it ourselves. With a Lens worth three million Gald, the whole place will be sparkling.
+
+[06313.104]
+Basil
+
+[06313.105]
+This building's getting rickety all over, and it's dangerous...
+
+[06313.106]
+Basil
+
+[06313.107]
+Ow, ow, {NAME:01 00 00 00}, please don't pull. I have my morning chores to...
+
+[06313.109]
+Never mind that, getting the Lens comes first. Let's get going, {NAME:03 00 00 00}...
+
+[06313.111]
+Hey... I'm over here...
+
+[06313.112]
+Basil
+
+[06313.113]
+Aaah, please don't pull me, {NAME:01 00 00 00}...
+
+[06313.114]
+Basil
+
+[06313.115]
+Wah, {NAME:01 00 00 00} is awake? Does that mean I overslept!?
+
+[06313.116]
+Basil
+
+[06313.117]
+Maybe I'm dreaming...
+
+[06313.118]
+Basil
+
+[06313.119]
+Oh, it's {NAME:01 00 00 00}. Welcome back! Adventures are all very well, but you mustn't overdo it.
+
+[06313.121]
+...Don't say the same thing Mom does...
+
+[06313.122]
+Basil
+
+[06313.123]
+But {NAME:01 00 00 00}, you're reckless and you make it up as you go. You keep my heart in my mouth!
+
+[06313.124]
+Basil
+
+[06313.125]
+{NAME:01 00 00 00}, you're reckless and you make it up as you go. You keep my heart in my mouth!
+
+[06313.126]
+Salt
+
+[06313.127]
+{NAME:01 00 00 00}, you're covered in scrapes. Why not stay in your room and read a book for once?
+
+[06313.129]
+Reading's fine, but playing out in the sun is fun too.
+
+[06313.130]
+Salt
+
+[06313.131]
+No... I'm all right. I like reading on my own...
+
+[06313.132]
+Salt
+
+[06313.133]
+I'm all right. I like reading on my own...
+
+[06313.134]
+Salt
+
+[06313.135]
+{NAME:01 00 00 00}, hurry up and go brush your teeth.
+
+[06313.137]
+Mmm... Then I have to go and buy a toothbrush set... Zzz...
+
+[06313.138]
+Salt
+
+[06313.139]
+{NAME:01 00 00 00}, maybe you should wash your face before you brush your teeth...
+
+[06313.140]
+Salt
+
+[06313.141]
+Oh, {NAME:01 00 00 00}... Thank goodness. I had a scary dream...
+
+[06313.143]
+Why? Everyone's here, aren't they? There's nothing to be scared of, right?
+
+[06313.144]
+Salt
+
+[06313.145]
+Yeah... I know... I know, but...
+
+[06313.146]
+Salt
+
+[06313.147]
+You're the only one who's nice to me, {NAME:01 00 00 00}. The others all...
+
+[06313.149]
+What are you talking about? If you go to them yourself, they'll all take you in.
+
+[06313.151]
+I won't be here forever either, you know. You have to work it out for yourself.
+
+[06313.152]
+Salt
+
+[06313.153]
+You're right... It's just like you say, {NAME:01 00 00 00}. I'll try my best...
+
+[06313.155]
+That's it. Let's both do our best.
+
+[06313.156]
+Salt
+
+[06313.157]
+{NAME:01 00 00 00}, are you up early to go somewhere? Don't go anywhere dangerous.
+
+[06313.159]
+Don't worry. I'll be fine.
+
+[06313.160]
+Salt
+
+[06313.161]
+{NAME:01 00 00 00}, don't go anywhere too dangerous.
+
+[06313.163]
+Your big brother {NAME:03 00 00 00} is looking after this one, so don't you worry!
+
+[06313.164]
+Salt
+
+[06313.165]
+{NAME:01 00 00 00}, you're like a hero out of a book. So cool...
+
+[06313.166]
+Salt
+
+[06313.167]
+Guess what! Lately I've been working in the vegetable patch with Uni.
+
+[06313.169]
+Is that so! Work or play, it's more fun with everyone, isn't it?
+
+[06313.170]
+Salt
+
+[06313.171]
+Yeah!
+
+[06313.172]
+Salt
+
+[06313.173]
+It's nearly time to pick the cucumbers and tomatoes. I can't wait!
+
+[06313.174]
+Rutee
+
+[06313.175]
+Well, you getting up properly by yourself? That's unusual.
+
+[06313.177]
+Yeah... Just off to snatch a big Lens...
+
+[06313.179]
+Wah, it's nothing! Nothing at all, Rutee!
+
+[06313.180]
+Rutee
+
+[06313.181]
+Well, never mind. Don't be back too late.
+
+[06313.182]
+Rutee
+
+[06313.183]
+{NAME:01 00 00 00}, listen. If you're going on an adventure, go and do something big enough to match your father.
+
+[06313.184]
+Rutee
+
+[06313.185]
+...But don't go chasing your father's shadow. You are you.
+
+[06313.186]
+Rutee
+
+[06313.187]
+Now, {NAME:03 00 00 00}'s waiting, isn't he? Off you go.
+
+[06313.188]
+Rutee
+
+[06313.189]
+{NAME:03 00 00 00}, I'm counting on you to look after {NAME:01 00 00 00}. Where this child is scatterbrained, you cover for him.
+
+[06313.190]
+Rutee
+
+[06313.191]
+...And naturally, you come home safe too! Make your "parent" cry and you'll answer to me!
+
+[06313.193]
+...Yeah! I'll come back safe too, I swear!
+
+[06313.194]
+Rutee
+
+[06313.195]
+Right, off you go, then, children!
+
+[06313.196]
+Rutee
+
+[06313.197]
+What's the matter, {NAME:01 00 00 00}? If you're going to do it, I won't stand for half measures.
+
+[06313.198]
+Rutee
+
+[06313.199]
+Well, you can come back once in a while...
+
+[06313.200]
+Rutee
+
+[06313.201]
+We won't be needing Daddy-Long-Legs' money for a while. So don't worry, and do it properly.
+
+[06313.202]
+Rutee
+
+[06313.203]
+I'll have hot soup waiting, so go and give it your all.
+
+[06313.204]
+Rutee
+
+[06313.205]
+Oh, what's this, {NAME:01 00 00 00}? Finished playing adventurer already?
+
+[06313.207]
+I'm not playing adventurer. And it's not finished yet.
+
+[06313.208]
+Rutee
+
+[06313.209]
+Hee hee. Then go and find it properly. Your "irreplaceable thing"♪
+
+[06313.210]
+Rutee
+
+[06313.211]
+What will you find on this journey, I wonder... I'm looking forward to it.
+
+[06313.212]
+Stahn
+
+[06313.213]
+On my journey eighteen years ago, I found something irreplaceable and made it mine.
+
+[06313.214]
+Stahn
+
+[06313.215]
+It wasn't the title of hero, and it wasn't power.
+
+[06313.216]
+Stahn
+
+[06313.217]
+It was the friendship of my companions, and someone to love my whole life long.
+
+[06313.218]
+Stahn
+
+[06313.219]
+I hope you can find something like what I found.
+
+[06313.220]
+Stahn
+
+[06313.221]
+Go, {NAME:01 00 00 00}! I know you'll find something.
+
+[06313.223]
+Can't be helped... So, taking you to the ruins is off after all...
+
+[06313.225]
+Don't go yet.
+
+[06313.226]
+Rutee
+
+[06313.227]
+Ahaha, that's just like you! But doesn't that get you in trouble with your superiors?
+
+[06313.229]
+Oh, no end of it. Well, I'm used to it by now.
+
+[06313.231]
+But still, something's wrong. Prayers, treating the sick: whoever has Lenses comes first.
+
+[06313.233]
+Wasn't the Order of Atamoni supposed to help everyone?
+
+[06313.234]
+Rutee
+
+[06313.235]
+That's...
+
+[06313.237]
+It's all since that woman Elraine came. The Order's changed since then...
+
+[06313.238]
+Rutee
+
+[06313.239]
+{NAME:03 00 00 00}...
+
+[06313.241]
+Hey, {NAME:03 00 00 00}, never mind that. Can I tell her about you-know-what?
+
+[06313.242]
+Rutee
+
+[06313.243]
+About what?
+
+[06313.245]
+{NAME:03 00 00 00}'s going to the Laguna Ruins! And I'm going with him!
+
+[06313.246]
+Rutee
+
+[06313.247]
+What?
+
+[06313.249]
+Well, I did try to stop him, but, you know, he's not the kind who listens...
+
+[06313.251]
+It's all right, isn't it?
+
+[06313.252]
+Rutee
+
+[06313.253]
+No, no! Don't make trouble for {NAME:03 00 00 00}. You'd only get in his way.
+
+[06313.255]
+I would not!
+
+[06313.257]
+You were already a full-fledged Lens hunter when you were my age, Mom...
+
+[06313.259]
+And I've got Dad's blood in me too! I won't get in the way!
+
+[06313.260]
+Rutee
+
+[06313.261]
+...That's what worries me most. That you've got that Stahn's blood in you...
+
+[06313.263]
+Rutee...
+
+[06313.264]
+Rutee
+
+[06313.265]
+Anyway, that's the end of it! You're far too young for adventures!
+
+[06313.267]
+...So she says. Can't be helped. Looks like it's off after all...
+
+[06313.269]
+No, I'm going to the Laguna Ruins, no matter what!
+
+[06313.271]
+I've made up my mind to protect this place until Dad comes home. So I'm bringing that Lens back, no matter what!
+
+[06313.273]
+............
+
+[06313.275]
+Yaaawn... ...Morning, {NAME:03 00 00 00}...
+
+[06313.277]
+Hey, {NAME:01 00 00 00}. You're up early. So you've got over being a sleepyhead...
+
+[06313.279]
+........
+
+[06313.281]
+...Or not, by the look of it.
+
+[06313.283]
+Oh well. While I've got the chance, off to the Laguna Ruins...
+
+[06313.285]
+The Laguna Ruins... That's right! {NAME:03 00 00 00}, where are you going!? Are we leaving already?
+
+[06313.287]
+...Me and my big mouth.
+
+[06313.289]
+All right, all right, {NAME:01 00 00 00}. I'll take you.
+
+[06313.291]
+But! The moment I think it's too much, we turn back. Agreed?
+
+[06313.293]
+Okay, okay! I know!
+
+[06313.295]
+Good grief... Listen, we leave right away, so get yourself ready.
+
+[06313.297]
+Whatever we're short of, we can buy at the shops. Got that, {NAME:01 00 00 00}?
+
+[06313.299]
+Morning, Mom.
+
+[06313.300]
+Rutee
+
+[06313.301]
+Good morn... Wait, you, getting up by yourself? What's got into you!?
+
+[06313.302]
+Rutee
+
+[06313.303]
+What's the matter? Don't just stand there. Come and sit down at the table.
+
+[06313.305]
+What's going on? Mom's in a really good mood.
+
+[06313.307]
+Listen, Mom, there's something I need to say. I...
+
+[06313.308]
+Rutee
+
+[06313.309]
+It's good, isn't it? Mrs. Gazelle taught me. The onions are the secret, she says.
+
+[06313.311]
+Mom...
+
+[06313.312]
+Rutee
+
+[06313.313]
+Oh, it's about time we woke {NAME:03 00 00 00}. Would you go and call him?
+
+[06313.315]
+Mom!!
+
+[06313.316]
+Rutee
+
+[06313.317]
+You're going on a journey, aren't you? With {NAME:03 00 00 00}...
+
+[06313.319]
+Huh...!? H-how did you know?
+
+[06313.320]
+Rutee
+
+[06313.321]
+Who do you think I am? I haven't been your mother for fifteen years for nothing.
+
+[06313.322]
+Rutee
+
+[06313.323]
+This is something your father used long ago.
+
+[06313.325]
+Dad did...?
+
+[06313.326]
+Rutee
+
+[06313.327]
+And then... here.
+
+[06313.328]
+Rutee
+
+[06313.329]
+The money that Daddy-Long-Legs sent to the orphanage. ...In the same quirky handwriting as yours.
+
+[06313.331]
+You knew, Mom!? But we never sent this much...
+
+[06313.332]
+Rutee
+
+[06313.333]
+Just take it and keep quiet! Children should act like children, and live off their parents!
+
+[06313.334]
+Rutee
+
+[06313.335]
+...That's what makes a parent happier, you see...
+
+[06313.336]
+Rutee
+
+[06313.337]
+Tell me, {NAME:01 00 00 00}. Do you remember your father?
+
+[06313.339]
+Dad left on his journey more than ten years ago, right? ...Honestly, I don't remember much.
+
+[06313.340]
+Rutee
+
+[06313.341]
+I see... That's what I told you, wasn't it.
+
+[06313.342]
+Rutee
+
+[06313.343]
+I'm sorry, {NAME:01 00 00 00}...
+
+[06313.344]
+Rutee
+
+[06313.345]
+At a time like this, I don't know what kind of face to send you off with, but...
+
+[06313.346]
+Rutee
+
+[06313.347]
+Go out there and raise hell! Enough to match him... to match Stahn!
+
+[06313.349]
+Mom...!
+
+[06313.351]
+...Mom. I'm off!
+
+[06313.352]
+Rutee
+
+[06313.353]
+...Take care, {NAME:01 00 00 00}.
+
+[06313.355]
+Obtained {0B:01 00 00 00}{06:E8 03 00 00}{0B:00 00 00 00} Gald.
+
+[06313.356]
+Cinnamon
+
+[06313.357]
+You've got a long way to go.
+
+[06313.358]
+Cinnamon
+
+[06313.359]
+A promise is a promise. I'll give you my treasure.
+
+[06313.361]
+{NAME:01 00 00 00} earned the title "{08:88 08 00 00}".
+
+[06313.362]
+Rutee
+
+[06313.363]
+Oh, {NAME:01 00 00 00}! Welcome home! What brings you back so suddenly?
+
+[06313.365]
+Mom, I...
+
+[06313.366]
+Rutee
+
+[06313.367]
+Aha. Something's troubling you for once, isn't it?
+
+[06313.369]
+Huh!? H-how did you...?
+
+[06313.370]
+Rutee
+
+[06313.371]
+You don't notice it yourself, I expect, but you keep scratching the tip of your nose. Your father had the same habit.
+
+[06313.373]
+Dad did...
+
+[06313.375]
+Sorry, everyone. Could you give us a moment?
+
+[06313.377]
+Yeah, I know.
+
+[06313.378]
+Rutee
+
+[06313.379]
+I see. So you've remembered. That your father was killed.
+
+[06313.380]
+Rutee
+
+[06313.381]
+That one day was missing from your memory, so I talked it over with {NAME:03 00 00 00}, and we thought it better not to tell you...
+
+[06313.382]
+Rutee
+
+[06313.383]
+We did it meaning well, but maybe it hurt you all the more. I'm sorry, {NAME:01 00 00 00}.
+
+[06313.385]
+It's all right. That doesn't matter any more...
+
+[06313.386]
+Rutee
+
+[06313.387]
+But I never imagined you'd become a hero who decides the fate of the world.
+
+[06313.388]
+Rutee
+
+[06313.389]
+Blood will tell, I suppose. Hee hee...
+
+[06313.391]
+Mom, I've thought about all sorts of things, in my own way.
+
+[06313.393]
+But no matter what, I can't find the answer...
+
+[06313.394]
+Rutee
+
+[06313.395]
+I don't have the answer you're looking for. It's...
+
+[06313.396]
+Rutee
+
+[06313.397]
+Right here.
+
+[06313.399]
+In my...
+
+[06313.400]
+Rutee
+
+[06313.401]
+The answer is nowhere but in your own heart.
+
+[06313.403]
+........
+
+[06313.405]
+M-Mom...!?
+
+[06313.406]
+Rutee
+
+[06313.407]
+{NAME:01 00 00 00}... It hurts, doesn't it... It's so hard...
+
+[06313.408]
+Rutee
+
+[06313.409]
+Having to kill someone you love with your own hands...!
+
+[06313.411]
+...Mom!
+
+[06313.412]
+Rutee
+
+[06313.413]
+...But you know, {NAME:01 00 00 00}, you still have to be the one to decide.
+
+[06313.414]
+Rutee
+
+[06313.415]
+And not because you're a hero.
+
+[06313.416]
+Rutee
+
+[06313.417]
+Because you're a boy. And because you fell in love with that girl...
+
+[06313.419]
+Mom, I...!
+
+[06313.420]
+Rutee
+
+[06313.421]
+It's just as hard for her. That's why you decide. Firmly, like a man!
+
+[06313.422]
+Rutee
+
+[06313.423]
+Whatever comes of it, she will believe in you.
+
+[06313.425]
+Yeah, yeah...!
+
+[06313.426]
+Rutee
+
+[06313.427]
+You don't find them often, you know. People who believe in you that much.
+
+[06313.428]
+Rutee
+
+[06313.429]
+So... take good care of her.
+
+[06313.430]
+Rutee
+
+[06313.431]
+Be brave, {NAME:01 00 00 00}. You'll be all right. You're my child and your father's, aren't you?
+
+[06313.433]
+Y-yeah...!
+
+[06313.434]
+Rutee
+
+[06313.435]
+Now, off you go. Everyone's waiting.
+
+[06313.437]
+Thank you, Mom... I'm off.
+
+[06313.438]
+Rutee
+
+[06313.440]
+Rutee
+
+[06313.441]
+When it's all over, come again, all of you. I'll be waiting here...
+
+[06313.442]
+Rutee
+
+[06313.443]
+We believe in you too. Don't we, Stahn...
+
+[06313.445]
+...So you talked.
+
+[06313.447]
+...Yeah.
+
+[06313.449]
+...Well, shall we go?
+
+[06313.451]
+...Yeah!
+
+[06313.452]
+Have a safe journey.
+
+[06313.453]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06313.454]
+Will you stay the night?
+
+[06313.456]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06313.457]
+Please rest well.
+
+[06313.458]
+Good morning.
+
+[06313.459]
+You do not have enough money.
+
+[06313.460]
+We look forward to seeing you again.
+
+[06313.465]
+Obtained {16:26 12}.
+
+[06313.467]
+Obtained {08:FF FF FF FF}.
+
+[06313.469]
+Found {16:26 1A}, but you can carry no more.
+
+[06313.471]
+There is nothing here.
+

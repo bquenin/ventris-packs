@@ -1,0 +1,154 @@
+[06323.001]
+Laguna Ruins
+
+[06323.002]
+Laguna Ruins
+
+[06323.003]
+Laguna Ruins
+
+[06323.004]
+Laguna Ruins
+
+[06323.006]
+They said a survey team was coming, but there's no sign of them.
+
+[06323.008]
+Looks like we got here ahead of them... and no sooner said than here they come. {NAME:01 00 00 00}, hide!
+
+[06323.009]
+Captain
+
+[06323.010]
+Is this it? The ruins said to hold the giant Lens?
+
+[06323.011]
+Trooper
+
+[06323.012]
+Yes, sir! I saw the Lens in these ruins with my own eyes, some time ago!
+
+[06323.013]
+Trooper
+
+[06323.014]
+These ruins are thought to be a city from the age when Lenses were made.
+
+[06323.015]
+Captain
+
+[06323.016]
+So it would be no wonder to find a Lens here, you mean? ...I have my doubts.
+
+[06323.017]
+Trooper
+
+[06323.018]
+Once you see the real thing, you will believe it, sir. The Lens is inside.
+
+[06323.019]
+Trooper
+
+[06323.020]
+Hey, the Sorcerer's Scope.
+
+[06323.022]
+What do we do... If we don't hurry, they'll get the Lens!
+
+[06323.024]
+Still, going into the ruins by the front is risky. We'd run right into them.
+
+[06323.026]
+Then how about that side tunnel over there?
+
+[06323.028]
+Mm... Looks like we can just about get through. {NAME:01 00 00 00}, let's hurry!
+
+[06323.030]
+Huh, where's this...?
+
+[06323.032]
+The Laguna Ruins.
+
+[06323.034]
+These ruins were once called a city in the sky, but they've been searched from end to end, and word is they're worth nothing to archaeology.
+
+[06323.036]
+........
+................
+
+[06323.038]
+What's up? Something caught your eye?
+
+[06323.040]
+No, it's not that. It's just, being here gives me a strange sort of feeling.
+
+[06323.042]
+A strange feeling?
+
+[06323.044]
+I can't put it into words. It's just like someone's calling me. And someone I ought to know well...
+
+[06323.046]
+Hey, that's creepy. A woman who died with a grudge, or something... Count me out.
+
+[06323.048]
+If it's bothering you that much, go and look. I'll wait here.
+
+[06323.050]
+Yeah, I will. Sorry, {NAME:03 00 00 00}.
+
+[06323.052]
+I think they went in around here...? It'd be bad if they spotted us, so let's go in by the side tunnel.
+
+[06323.054]
+Is this the entrance? But I don't know how to open it. Let's come back if we get hold of some kind of tool.
+
+[06323.055]
+Have a safe journey.
+
+[06323.056]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06323.057]
+Will you stay the night?
+
+[06323.059]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06323.060]
+Please rest well.
+
+[06323.061]
+Good morning.
+
+[06323.062]
+You do not have enough money.
+
+[06323.063]
+We look forward to seeing you again.
+
+[06323.068]
+Obtained {16:26 16}.
+
+[06323.070]
+Obtained {08:FF FF FF FF}.
+
+[06323.072]
+Found {16:26 1E}, but you can carry no more.
+
+[06323.074]
+There is nothing here.
+
+[06323.075]
+Obtained {0B:01 00 00 00}{14:36 40}{0B:00 00 00 00} {16:36 44}.
+
+[06323.077]
+Found {0B:01 00 00 00}{14:36 48}{0B:00 00 00 00} {16:36 44}, but you can carry no more. Returned them to the chest.
+
+[06323.079]
+{16:36 44}: {0B:01 00 00 00}{14:36 48} found, but you cannot carry them all.
+・Take {14:36 40}, discard {14:36 4C}{0B:00 00 00 00}
+・Put them back in the chest
+

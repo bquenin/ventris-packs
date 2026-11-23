@@ -1,0 +1,52 @@
+[06622.001]
+Altar of Sin
+
+[06622.002]
+Catacombs: Altar of Sin
+
+[06622.003]
+Catacombs
+
+[06622.005]
+There is writing on the stone tablet.
+
+[06622.007]
+Take heed! "Darkness" is "falsehood"! Light the "darkness" with the "eye of truth"!
+
+[06622.008]
+Have a safe journey.
+
+[06622.009]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06622.010]
+Will you stay the night?
+
+[06622.012]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06622.013]
+Please rest well.
+
+[06622.014]
+Good morning.
+
+[06622.015]
+You do not have enough money.
+
+[06622.016]
+We look forward to seeing you again.
+
+[06622.021]
+Obtained {16:27 4A}.
+
+[06622.023]
+Obtained {08:FF FF FF FF}.
+
+[06622.025]
+Found {16:27 52}, but you can carry no more.
+
+[06622.027]
+There is nothing here.
+

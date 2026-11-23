@@ -1,0 +1,6 @@
+[00330.001]
+Shall we head back to the others soon?
+
+[00330.002]
+Yes... They must be worried, {NAME:01 00 00 00}.
+

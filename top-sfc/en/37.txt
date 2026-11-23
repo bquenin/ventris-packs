@@ -1,0 +1,631 @@
+[37.000]
+Inn "Bay Area"
+
+[37.001]
+Weapon Shop "Suiken"
+
+[37.002]
+Armour Shop "See-Through"
+
+[37.003]
+Supermarket "Waterfront"
+
+[37.004]
+Item Shop "Sea of Malaga"
+
+[37.005]
+Mayor's House
+
+[37.006]
+Import Company "Rayot"
+
+[37.007]
+"I'm practising just now, so don't disturb me."
+
+[37.008]
+Doug, Elwin's father
+"I will decide who you marry!!
+A country girl like that will not do!!"{PAGE}
+Elwin
+"Why should you be the one to decide who I marry, Father!?"{PAGE}
+Doug
+"All you have to do is what I tell you!!"{PAGE}
+Elwin
+"I am not your slave, Father!!"
+
+[37.009]
+Elwin
+"Nancy!!!"{PAGE}
+Doug
+"Leave her be!!"{PAGE}
+
+
+[37.010]
+Elwin
+"You think of no one but yourself, Father!!"{PAGE}
+Doug
+"Don't you talk back to me!!"
+
+[37.011]
+Doug
+"Elwin...!!"
+
+[37.012]
+Doug
+"The fool!!"
+
+[37.013]
+"Welcome. Staying the night? It is 35 Gald a night."
+
+
+[37.014]
+Enjoy your stay.
+
+[37.015]
+I am sorry. You have not enough money.
+
+[37.016]
+"We look forward to seeing you again."
+
+[37.017]
+Welcome.
+
+[37.018]
+Thank you.
+
+[37.019]
+"So the war is over. Things between Alvanista and Midgards should get better now."
+
+[37.020]
+"Alvanista and Midgards have been friends since long ago, but something's been odd lately.{PAGE}
+Midgards is about to go to war and Alvanista does nothing. That's strange, isn't it?"
+
+[37.021]
+"Just what you'd expect of a town of imports. They stock fine things."
+
+[37.022]
+Swordswoman
+"Hey, are you a swordsman? Shall I sell you this book of secret skills?"{PAGE}
+{クレス}
+"What, a book of secret skills!?"{PAGE}
+Swordswoman
+"I got it on the black market, but I don't think I'll ever master it. How about it? 3000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[37.023]
+Tch, pity. I thought I'd get good money for it.
+
+[37.024]
+"You haven't got enough money."
+
+[37.025]
+{COLOR:03}{クレス} learned Shuusousenretsuha.{COLOR:02}{PAGE}
+"Much obliged!"
+
+[37.026]
+Welcome.
+
+[37.027]
+Thank you very much.
+
+[37.028]
+"Do you know about elves?"
+
+[37.029]
+They say elves are very beautiful creatures. They live long, too. And they can use magic. But they do not open their hearts easily. I suppose that is how pure their hearts are.
+
+[37.030]
+Then do you know about half-elves?
+
+[37.031]
+A half-elf is of mixed human and elven blood. They look little different from humans, but like elves they live long and can use magic.
+
+[37.032]
+Oh, I see.
+
+[37.033]
+Receptionist
+"Do you have an appointment?"
+
+[37.034]
+"Ahh, serving tea is no easy job."
+
+[37.035]
+"
+
+[37.036]
+"In Alvanista there is an old dwarven mine called the Moria Mine. The dwarves? A people of the underground who died out long, long ago."{PAGE}
+
+
+[37.037]
+Hey! How is production in Alvanista coming along!?
+
+[37.038]
+"Midgards took a beating in the war, so we'll need to send it a great deal of supplies. We're going to be busy!"
+
+[37.039]
+"It's terrible. Midgards looks set to plunge into war, so imports from there have stopped..."
+
+[37.040]
+"They say some amazing research is being done in Midgards.{PAGE}
+I don't really know what kind, though."
+
+[37.041]
+"Dhaos is gone and business is back on track. I couldn't ask for more!"
+
+[37.042]
+"I hear the enemy Midgards is about to fight is an army of monsters led by Dhaos."
+
+[37.043]
+"Oh, it's you... Hello."
+
+[37.044]
+Elwin
+"Oh, it's you...
+Did you want something?"{PAGE}
+{クレス}
+"Nancy has come to this town."{PAGE}
+Elwin
+"What!? Nancy has{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"She truly wants to see you. Won't you meet her, just once?"{PAGE}
+Elwin
+"{SPEED:10}...{SPEED:FF}All right.
+Then... in front of the fountain in the central square."{PAGE}
+{クレス}
+"Understood. I'll tell her."
+
+[37.045]
+Elwin
+"I'll be right there."
+
+[37.046]
+Elwin
+"We are going to be married very soon."
+
+[37.047]
+"This is the refreshment room. The president's office is over there."
+
+[37.048]
+"How old is Dhaos, anyway? They say he appeared about 150 years ago as well..."
+
+[37.049]
+"Peace at last. Now we only have to wait for the young master to become president."
+
+[37.050]
+"We have peace at last, but... it's lonely without the young master."
+
+[37.051]
+"The president has it hard. I hear our Midgards branch can't be reached because of the war
+
+[37.052]
+. Still, as long as the young master is here we'll be fine.
+The young master? That's Elwin, down on the first floor. He's still only a salesman, though."
+
+[37.053]
+."
+
+[37.054]
+"Oh, a visitor?
+Would you care for some tea?"
+
+[37.055]
+"It's good that the war is over, but...{PAGE}
+in the end nobody ever found out where Dhaos came from."
+
+[37.056]
+"I only hope the war doesn't spread as far as here...{PAGE}
+By the way, where did Dhaos come from, I wonder?"
+
+[37.057]
+Doug, Elwin's father
+"Y-you there, have you seen Elwin!? He has gone missing!"{PAGE}
+{クラース}
+"Might the cause of that lie with you? You loved your son so much that you kept him tied down. Am I right?"{PAGE}
+Doug
+"...You are quite right. But I have had a change of heart.{PAGE}
+If only Elwin would come home..."{PAGE}
+{COLOR:03}Tell him where Elwin is?{COLOR:02}
+
+[37.058]
+Doug
+"I see... If you learn where Elwin is, will you tell me? I will reward you."
+
+[37.059]
+Doug
+"You know where he is!?"{PAGE}
+{クレス}
+"Yes, he was in Alvanista. Nancy was with him."{PAGE}
+Doug
+
+
+[37.060]
+"...I see. So that woman took Elwin..."
+
+[37.061]
+"I am in your debt.{PAGE}
+It is the path Elwin chose for himself. I will say no more."
+
+[37.062]
+"Who are you? Don't walk in here as you please!"
+
+[37.063]
+"Welcome."
+
+[37.064]
+"Thank you very much."
+
+[37.065]
+"Now, for tonight's dinner, let me see."
+
+[37.066]
+"It seems you need a permit to enter the Moria Mine. I heard that when I stopped in Alvanista on my travels.{PAGE}
+Now, for tonight's dinner, let me see."
+
+[37.067]
+"I wish Dad would come home soon.{PAGE}
+My dad's a fisherman, so he's away for a long time."
+
+[37.068]
+"I must get the cleaning done...{PAGE}
+Me? I work here part time."
+
+[37.069]
+"Long ago even the spirits used to show themselves, and now there's not so much as an elf to be seen{SPEED:10}...{SPEED:FF}{PAGE}
+Is it a sign of something to come{SPEED:10}...{SPEED:FF}"
+
+[37.070]
+"Two hundred years, and she hasn't learned to cook a single dish...{PAGE}
+Oh, I am a half-elf. Elves and half-elves live longer than humans do.{PAGE}
+By the way, haven't we met somewhere?"
+
+[37.071]
+"Now, what shall I make for dinner tonight? My teacher is waiting at home. She makes such a fuss if I'm late... Oh, my teacher of magic. She's also my sister, though. Our father was an elf, you see... He went away somewhere, though. Leaving his children behind... you may think, but I'm sure he had some reason. He'll come back one day."
+
+[37.072]
+"Isn't dinner ready yet? Hurry u-up
+
+[37.073]
+"I'm the teacher
+
+[37.074]
+."
+
+[37.075]
+."{PAGE}
+"Well? How was that spell the other day?"
+
+[37.076]
+."{PAGE}
+"Oh? Are you a magic user? Shall I sell you a spell book?{PAGE}
+Which spell book would you like?
+　1. {STR:D107}
+　2. {STR:D507}
+
+[37.077]
+That will be 200 Gald. All right?
+
+[37.078]
+{COLOR:03}{アーチェ} learned {STR:D107}.{COLOR:02}{PAGE}
+
+
+[37.079]
+That will be 1000 Gald. All right?
+
+[37.080]
+{COLOR:03}{アーチェ} learned {STR:D507}.{COLOR:02}{PAGE}
+
+
+[37.081]
+Oh, what a pity.
+
+[37.082]
+Thank you.
+
+[37.083]
+You haven't enough money.
+
+[37.084]
+You know this spell already.
+
+[37.085]
+.
+
+[37.086]
+Welcome.
+
+[37.087]
+"Thank you!"
+
+[37.088]
+Mayor
+"There is a party going on downstairs. Why not join it?"
+
+[37.089]
+Mayor
+"I am the mayor of Venezia. What? You didn't ask?{PAGE}
+By the way, where have you come from?"{PAGE}
+{クレス}
+"From southern Euclid."{PAGE}
+Mayor
+"From Belladam, perhaps? Was there a man named Lenios there?"{PAGE}
+{クレス}
+"Yes, he is the village chief."{PAGE}
+Mayor
+"What!? I see... so he has become the chief...{PAGE}
+Lenios is my twin brother. It is ten years since he left this town, saying he would open up southern Euclid... If you see him again, give him my regards."
+
+[37.090]
+"The war is over at last, and we're free to travel abroad again.{PAGE}
+I'd love to meet the white horse, just once. It only meets a pure maiden. Isn't that romantic?"
+
+[37.091]
+"I'd like to travel abroad once in a while.{PAGE}
+Midgards is out because of the war. And the ship to Alvanista doesn't sail because the captain can't make up his mind... What is going on?"
+
+[37.092]
+(They are chatting about nothing in particular.)
+
+[37.093]
+"We were just talking about Demitel.{PAGE}
+Demitel was a half-elf who could use magic. I hear he used to study magic in this town, and was of use to people. But a year ago, as though he had become another man, he threw away all his research and moved to a lone island far to the west
+
+[37.094]
+."
+
+[37.095]
+."{PAGE}
+{クレス}
+"A lone island in the west?"{PAGE}
+{クラース}
+"A lone island in the west... There is no way there but by ship.{PAGE}
+Let us go to the port. If we ask, someone may take us."
+
+[37.096]
+(They are chatting about nothing in particular.)
+
+[37.097]
+"We were just talking about Demitel.{PAGE}
+They say that on the night he left here he had the look of a man possessed."
+
+[37.098]
+(They are chatting about nothing in particular.)
+
+[37.099]
+"The mayor's house is huge."
+
+[37.100]
+"There is a party going on. Won't you join us?"
+
+[37.101]
+"What's the party for? It's a birthday party.{PAGE}
+For the sister of a friend of the child of the mayor's brother, they say. I can't follow it myself."
+
+[37.102]
+"I'm the sister!"
+
+[37.103]
+Nancy
+"It's you..."{PAGE}
+
+
+[37.104]
+{クレス}
+"Nancy!! What are you doing here...?"{PAGE}
+Nancy
+"A traveller brought me this far. I wanted to tell him to his face..."{PAGE}
+
+
+[37.105]
+{ミント}
+"Well? Is it going well?"{PAGE}
+Nancy
+"The thing is{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+(It seems something has happened again...){PAGE}
+{ミント}
+"Can we help in some way?"{PAGE}
+{クラース}
+"Now, now, this is no time to be loitering about..."{PAGE}
+{COLOR:03}Help her?{COLOR:02}
+
+[37.106]
+Nancy
+"I can get as far as... the front of his company, but... my legs shake and I can't go in{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"So we only need to get an appointment with Elwin. I understand."
+
+[37.107]
+{クレス}
+"I'm sorry. We're in a hurry..."
+
+[37.108]
+Nancy
+"Elwin{SPEED:10}...{SPEED:FF}"
+
+[37.109]
+{クレス}
+"We got you an appointment.
+He says he'll wait in front of the fountain in the central square."{PAGE}
+Nancy
+"Th-thank you!
+I don't know how to thank you..."{PAGE}
+{ミント}
+"Never mind that. Go and meet Elwin, quickly."{PAGE}
+Nancy
+"Yes!"
+
+[37.110]
+Nancy
+"As Elwin's wife, I mean to be a support to him."
+
+[37.111]
+"The young lady's progress at the piano is wonderful. She is better every time I come."
+
+[37.112]
+"We're about to have a piano recital. Will you listen too?"
+
+[37.113]
+"Just what you'd expect of the mayor's daughter."
+
+[37.114]
+"Honestly, my brother is head over heels for that girl."
+
+[37.115]
+"Shipping has stopped completely and it's a real problem. There's nothing for it, so we're having goods sent from Euclid and Miguel."
+
+[37.116]
+"Well, times are bad, but Elwin, the president two generations back, developed products of our own that use magitech. Those should see us through."
+
+[37.117]
+"Come to think of it, the survey team for the Moria Mine said there seems to be something more below its lowest level."
+
+[37.118]
+Stephen
+"I must be off on my rounds again..."
+
+[37.119]
+{クレス}
+"What? Elwin, what are you doing here!?"{PAGE}
+???
+"What? My name is Stephen...{PAGE}
+Wait, wasn't my great-grandfather's name Elwin?"{PAGE}
+{クレス}
+"Oh, i-it's nothing..."
+
+[37.120]
+President
+"Somehow we must get through this crisis... The company's survival depends on it."
+
+[37.121]
+"Are you here to look around?{PAGE}
+This building is up for sale. The company that was here went under. I am the caretaker."
+
+[37.122]
+"I am the teacher."
+
+[37.123]
+"1 + 2 = 3, and..."
+
+[37.124]
+"Why do you turn a fraction upside down when you divide by it?"
+
+[37.125]
+"Pi is
+3.1415926535..."
+
+[37.126]
+"I wish it were lunchtime."
+
+[37.127]
+"It's arithmetic just now."
+
+[37.128]
+"There are ninja monsters about. Where do they come from, I wonder?"
+
+[37.129]
+"I forgot my homework, so I've been made to stand."
+
+[37.130]
+"This is Venezia Academy."
+
+[37.131]
+"This used to be an import company. It went bankrupt, so the building was used as it stood to found a school."
+
+[37.132]
+"This is the staff room."
+
+[37.133]
+"We still do not know where the monsters Dhaos leads come from. If we knew where Dhaos is, there would be some way to strike back..."
+
+[37.134]
+"East of here there is a snowy town called Friezkiel. It has a church. I should like to go there once."
+
+[37.135]
+"Well now, what a handsome man."
+
+[37.136]
+"We're having a music lesson now."{PAGE}
+
+
+[37.137]
+There, well done, everyone.
+
+[37.138]
+"Buy my single."
+
+[37.139]
+"La la la!"{PAGE}
+Singing with gusto.
+
+[37.140]
+"{SPEED:10}The mid-sum-mer{SPEED:FF} sun, on my ba-ack. Oh yeah.{PAGE}
+Writing lyrics is hard work."
+
+[37.141]
+"La la la!"{PAGE}
+Singing with gusto. A little out of tune.
+
+[37.142]
+"Pikarin, kokorin, turn into a hero!"
+
+[37.143]
+"La la la!"{PAGE}
+Singing with gusto. Rather well.
+
+[37.144]
+"Peep, peep."{PAGE}
+Playing the flute with gusto.
+
+[37.145]
+"They say that far south of the town of Miguel there's a continent where it's always night. Is that true?"
+
+[37.146]
+"Do re mi fa!"{PAGE}
+Singing with gusto.
+
+[37.147]
+"When I grow up I'm going to marry the teacher."
+
+[37.148]
+"Are you a pupil here too, mister?"
+
+[37.149]
+"I am the president's secretary."{PAGE}
+{クレス}
+(She looks just like Nancy...){PAGE}
+"Yes?"{PAGE}
+{クレス}
+"Oh, it's nothing."
+
+[37.150]
+Mayor of Venezia
+"Trade in the town has been falling off lately. It is a worry."
+
+[37.151]
+"Look at the exchange rates or the share prices and there's no doubt times are bad. It's all Dhaos's fault!{PAGE}
+Oh, was that too hard for you?"
+
+[37.152]
+"I'm the school caretaker."
+
+[37.153]
+"There's something interesting on the notice.{PAGE}
+'It is said that in this world there exist what are called the three arms. One is said to be a ring, and the others swords.'"
+
+[37.154]
+"I am a soldier sent from Alvanista. I came to keep crime down in the city of Venezia.{PAGE}
+My home is Belladam. They say the weapon shop there has a very old book... It being a weapon shop, it may be a book that sets down some amazing sword skill."
+
+[37.155]
+"A fight is in earnest, even when the foe is a monster. Keep your mind empty and nothing will shake you.{PAGE}
+Ah, what I mean is, leave the control pad in the neutral position and your evasion goes up. Understood?"
+
+[37.156]
+"Mum sent me on an errand."
+
+[37.157]
+"The secret words:
+up-right, down-left, down, down-right, confirm.{PAGE}
+Don't tell anyone else."
+

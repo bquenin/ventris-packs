@@ -1,0 +1,61 @@
+[06521.001]
+The Flying Dragon
+
+[06521.002]
+The Flying Dragon
+
+[06521.003]
+You sense something lurking all over the room.
+
+[06521.005]
+Body tissue blocks the way.
+
+[06521.007]
+The Sorcerer's Ring does nothing to it!
+
+[06521.009]
+Burned the mother cell to death.
+
+[06521.010]
+Have a safe journey.
+
+[06521.011]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06521.012]
+Will you stay the night?
+
+[06521.014]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06521.015]
+Please rest well.
+
+[06521.016]
+Good morning.
+
+[06521.017]
+You do not have enough money.
+
+[06521.018]
+We look forward to seeing you again.
+
+[06521.023]
+Obtained {16:25 DA}.
+
+[06521.025]
+Obtained {08:FF FF FF FF}.
+
+[06521.027]
+Found {16:25 E2}, but you can carry no more.
+
+[06521.029]
+There is nothing here.
+
+[06521.030]
+Time over
+
+[06521.032]
+Destroyed the control unit.
+

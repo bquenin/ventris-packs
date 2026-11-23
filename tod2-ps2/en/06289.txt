@@ -1,0 +1,38 @@
+[06289.4788]
+Claudis
+
+[06289.4801]
+Ignacy
+
+[06289.4812]
+Mikheil
+
+[06289.4825]
+Helraios
+
+[06289.4838]
+Shusaia
+
+[06289.4849]
+Rodeon
+
+[06289.4860]
+Ansuzun
+
+[06289.4873]
+This is one of the
+aerial cities.
+Which one?
+
+[06289.4924]
+Aerial cities are mostly
+machinery, but Claudis,
+for once, is full
+of greenery.
+
+[06289.5014]
+Wrong!
+
+[06289.5021]
+Time's up
+

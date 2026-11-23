@@ -1,0 +1,241 @@
+[06447.001]
+Heidelberg: Museum "The Uprising over the Eye of God"
+
+[06447.002]
+Heidelberg
+
+[06447.003]
+Museum "The Uprising over the Eye of God"
+
+[06447.005]
+"Swordian Dymlos"
+
+[06447.007]
+A Swordian of the fire element, used by Stahn Aileron.
+
+[06447.009]
+"Swordian Atwight"
+
+[06447.011]
+A Swordian of the water element, used by Rutee Katrea.
+
+[06447.013]
+"Swordian Clemente"
+
+[06447.015]
+A Swordian of the lightning element, used by Philia Felice.
+
+[06447.017]
+"Swordian Igtenos"
+
+[06447.019]
+A Swordian of the wind element, used by Woodrow Kelvin.
+
+[06447.021]
+"The Four Heroes: Stahn Aileron"
+
+[06447.023]
+A young man from a farming village who put down the uprising with the Swordian Dymlos in hand. Aged 19 at the time of the uprising.
+
+[06447.025]
+Leader of the Four Heroes, he fought in the vanguard and brought peace to the world.
+
+[06447.027]
+"The Four Heroes: Rutee Katrea"
+
+[06447.029]
+Master of the Swordian Atwight. From Lens hunter she became a hero who saved the world. Aged 18 at the time of the uprising.
+
+[06447.031]
+After the uprising she returned to her home, Cresta, took over the running of the orphanage, and did much for society.
+
+[06447.033]
+"The Four Heroes: Philia Felice"
+
+[06447.035]
+A priest of Straylize Temple. Caught up in the uprising, she became master of the Swordian Clemente. Aged 19 at the time of the uprising.
+
+[06447.037]
+After the uprising she became a high priest of the Great Temple of Straylize and showed the people the way to recovery.
+
+[06447.039]
+"The Four Heroes: Woodrow Kelvin"
+
+[06447.041]
+Prince of Phandaria and master of the Swordian Igtenos. Aged 23 at the time of the uprising.
+
+[06447.043]
+A wise king of absolute charisma, who led many people and mended the world wounded by the uprising.
+
+[06447.045]
+"Mary Agent. Real name: Mary Vincent"
+
+[06447.047]
+A valiant woman warrior who fought alongside the Four Heroes. Aged 24 at the time of the uprising.
+
+[06447.049]
+After the uprising she is said to have laid down her sword and to be living quietly.
+
+[06447.051]
+"Chelsea Torn"
+
+[06447.053]
+A girl who supported King Woodrow in his younger days. Aged 14 at the time of the uprising.
+
+[06447.055]
+Some time after the uprising she vanished from King Woodrow's side, and what became of her is unknown.
+
+[06447.057]
+"Mighty Kongman"
+
+[06447.059]
+"...However, this is a ring name he gives himself. His real name is not made public."
+
+[06447.061]
+A fist fighter who shared the heroes' hard journey, and champion of the Neustadt arena. Aged 39 at the time of the uprising.
+
+[06447.063]
+After the uprising he helped rebuild Neustadt and became a well-known figure representing the nation of Fitzgald.
+
+[06447.065]
+"Johnny Shiden"
+
+[06447.067]
+A minstrel born to a noted family of the Aquaveil region. He aided the Four Heroes at many turns. Aged 26 at the time of the uprising.
+
+[06447.069]
+After the uprising he united the nations of the Aquaveil region and built a peaceful country.
+
+[06447.071]
+"Radisrol"
+
+[06447.073]
+A huge transport ship operated as the flagship of the Surface Army in the War of Heaven and Earth.
+
+[06447.075]
+"The Eye of God"
+
+[06447.077]
+A legendary Lens that appears in every corner of history. Its diameter is said to be 6 meters, or 10.
+
+[06447.079]
+Because its power was too great it was sealed in Straylize Temple, but it was stolen at the time of the last uprising.
+
+[06447.081]
+It was about to be used to bring the world to ruin, but was destroyed through the deeds of the Four Heroes and the Swordians.
+
+[06447.083]
+"What Is a Swordian?"
+
+[06447.085]
+A Swordian is a weapon developed by the Surface Army in the War of Heaven and Earth.
+
+[06447.087]
+Each Swordian has a Lens set in it, and by it can use spells.
+
+[06447.088]
+Man
+
+[06447.089]
+There were six Swordians in all, you know.
+
+[06447.090]
+Man
+
+[06447.091]
+The Swordian called "Berselius" was held by that bastard Hugo, they say.
+
+[06447.092]
+Man
+
+[06447.093]
+And "Chaltier", the story goes, was used by the traitor Leon.
+
+[06447.094]
+Man
+
+[06447.095]
+Villains holding Swordians! Honestly, neither Berselius nor Chaltier can rest in peace!
+
+[06447.096]
+Man
+
+[06447.097]
+What? You feel there's one portrait missing over there?
+
+[06447.098]
+Man
+
+[06447.099]
+Don't tell me you mean to say Leon Magnus isn't among them?
+
+[06447.100]
+Man
+
+[06447.101]
+Don't talk nonsense! As if a traitor like Leon could be hung in the same place as the heroes!
+
+[06447.102]
+Ten swings now and then are no match for one swing a day...
+
+[06447.103]
+Hope for nothing from others. Rely on yourself...
+
+[06447.104]
+To learn, and at due times to practice what one has learned...
+
+[06447.105]
+A hero has time to spare...
+
+[06447.106]
+Simple and honest, but no sage...
+
+[06447.108]
+Heroes are fond of women...
+
+[06447.110]
+This is not a quality of a hero. Remember that.
+
+[06447.112]
+What is a hero? Have you ever thought about it?
+
+[06447.115]
+It is a quality of a hero. Remember that.
+
+[06447.116]
+Have a safe journey.
+
+[06447.117]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06447.118]
+Will you stay the night?
+
+[06447.120]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06447.121]
+Please rest well.
+
+[06447.122]
+Good morning.
+
+[06447.123]
+You do not have enough money.
+
+[06447.124]
+We look forward to seeing you again.
+
+[06447.129]
+Obtained {16:25 BA}.
+
+[06447.131]
+Obtained {08:FF FF FF FF}.
+
+[06447.133]
+Found {16:25 C2}, but you can carry no more.
+
+[06447.135]
+There is nothing here.
+

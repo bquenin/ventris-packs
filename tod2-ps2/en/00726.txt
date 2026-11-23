@@ -1,0 +1,15 @@
+[00726.001]
+I thought better of Dymlos. Abandoning someone dear to him...!!
+
+[00726.002]
+In Dymlos's place, what would you do? ...Go to save her, even if it put your comrades in danger, even if it made the whole world your enemy? ...That is no easy thing to choose.
+
+[00726.003]
+...I see. It was like that for you too, {NAME:04 00 00 00}.
+
+[00726.004]
+Listen, {NAME:01 00 00 00}. One day you too may be pressed to such a choice. What you answer is yours, but...... have no regrets.
+
+[00726.005]
+Mm...
+

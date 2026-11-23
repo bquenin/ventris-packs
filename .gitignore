@@ -1,0 +1,54 @@
+# A pack is text: the strings a translation changes, its notes and its settings. No game file,
+# extracted script, saved state or built game belongs in here; keep those under work/ or roms/
+# (both ignored), or outside the repository.
+work/
+roms/
+
+# Game files and patches made from them
+*.sfc
+*.smc
+*.swc
+*.fig
+*.nes
+*.fds
+*.gb
+*.gbc
+*.gba
+*.nds
+*.n64
+*.z64
+*.v64
+*.gen
+*.smd
+*.sms
+*.gg
+*.pce
+*.ws
+*.wsc
+*.iso
+*.bin
+*.cue
+*.chd
+*.img
+*.elf
+*.ips
+*.bps
+*.ups
+*.xdelta
+# Archives a game may be kept in.
+*.zip
+*.7z
+# Emulator saved states and save memory, which hold a copy of the game's memory.
+*.p2s
+*.mss
+*.state
+*.srm
+*.sav
+
+# Editors and the system
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+.env

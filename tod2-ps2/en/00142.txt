@@ -1,0 +1,12 @@
+[00142.001]
+Hey, {NAME:03 00 00 00}. Isn't there some girl you want a word with while you can?
+
+[00142.002]
+Fwahaha! How many years do you think I lived in this town? I've asked every likely girl, and every one turned me down!!
+
+[00142.003]
+That's nothing to boast about...
+
+[00142.004]
+I'll live for a new love!! Fwahahahaha.................... sigh.
+

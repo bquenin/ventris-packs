@@ -1,0 +1,153 @@
+[06478.001]
+Cherik: Inn
+
+[06478.002]
+Cherik
+
+[06478.004]
+There's no telling what it's for, but a {08:0A 00 00 00} has been left here. Take it?
+
+[06478.006]
+{03:00 00 00 00}　Of course I'll take it　
+　I'll never take it　
+
+[06478.008]
+Obtained {08:0A 00 00 00}. I felt I had lost something that matters as a person.
+
+[06478.010]
+I felt I had kept something that matters as a person.
+
+[06478.012]
+The Gel is gone...
+
+[06478.013]
+Grid
+
+[06478.014]
+What do you want? Do you speak to me knowing I am the great Grid, leader of the "Dark Wings"?
+
+[06478.016]
+{03:00 00 00 00}　I know　
+　Never heard of you　
+
+[06478.017]
+Grid
+
+[06478.018]
+Heh, I'm a famous man. Naturally you know me!
+
+[06478.019]
+Grid
+
+[06478.020]
+The name "Dark Wings" is an honor given only to those of outstanding talent! There can be nobody who doesn't know it!
+
+[06478.021]
+Grid
+
+[06478.022]
+Now! Revere me! Donations toward my inn bill are accepted at any time!
+
+[06478.023]
+Grid
+
+[06478.024]
+What! How ignorant! To think there is anyone in this world who doesn't know the name "Dark Wings"!
+
+[06478.025]
+Grid
+
+[06478.026]
+Listen and remember it well! The leader of the never-defeated, proud chivalrous thieves, the "Dark Wings", is none other than the great Grid!
+
+[06478.027]
+Grid
+
+[06478.028]
+The "Dark Wings" are now a team as famous as the Four Heroes, you know!? Get it firmly into your head!
+
+[06478.029]
+Grid
+
+[06478.030]
+Our predecessors, they say, fought alongside those Four Heroes to shatter Hugo's ambition.
+
+[06478.031]
+Grid
+
+[06478.032]
+Before long I shall surpass even our predecessors! Remember my face well while you can!
+
+[06478.033]
+Grid
+
+[06478.034]
+Now! Revere me! Donations toward my inn bill are accepted at any time!
+
+[06478.035]
+Maid
+
+[06478.036]
+No guests come at all and I've got nothing to do...
+
+[06478.037]
+Maid
+
+[06478.038]
+The rooms are empty. At this rate we'll go under from the losses...
+
+[06478.039]
+Maid
+
+[06478.040]
+When I was a child, Cherik was much smaller.
+
+[06478.041]
+Maid
+
+[06478.042]
+After the fighting eighteen years ago it took in refugees from all over Calvalese and grew fast.
+
+[06478.043]
+Maid
+
+[06478.044]
+When I was a child I played tag with the hero Stahn. It's a fond memory.
+
+[06478.045]
+Have a safe journey.
+
+[06478.046]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06478.047]
+Will you stay the night?
+
+[06478.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06478.050]
+Please rest well.
+
+[06478.051]
+Good morning.
+
+[06478.052]
+You do not have enough money.
+
+[06478.053]
+We look forward to seeing you again.
+
+[06478.058]
+Obtained {16:25 BA}.
+
+[06478.060]
+Obtained {08:FF FF FF FF}.
+
+[06478.062]
+Found {16:25 C2}, but you can carry no more.
+
+[06478.064]
+There is nothing here.
+

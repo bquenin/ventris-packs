@@ -1,0 +1,142 @@
+[06788.001]
+Heidelberg Memorial Park
+
+[06788.002]
+Heidelberg Memorial Park
+
+[06788.004]
+Wow... amazing! Look! The mountains and the forest are all white with snow! What a view!
+
+[06788.006]
+It really is beautiful...
+
+[06788.008]
+...But somehow, looking at it makes me uneasy...
+
+[06788.010]
+Uneasy...?
+
+[06788.012]
+A snowfield that goes on forever, with no landmark, nothing at all...
+
+[06788.014]
+You can't tell where you should go. Doesn't that... make you uneasy?
+
+[06788.016]
+Does it? Me, I get excited just looking at it.
+
+[06788.018]
+I mean, a snowfield as far as you can see means you can't tell where it leads, right?
+
+[06788.020]
+Even now, just looking, my heart's pounding, wondering what's waiting beyond this snowfield!
+
+[06788.022]
+{NAME:01 00 00 00}...
+
+[06788.024]
+But I bet we're the only ones who think things like this.
+
+[06788.026]
+If you said to the people of Heidelberg, "Doesn't looking at the snow get you excited?"...
+
+[06788.028]
+They'd hand you a shovel and say "Never mind that, clear the snow!" I'm sure of it!
+
+[06788.030]
+...That's wonderful.
+
+[06788.032]
+Yeah, the people here really are great. Even in a place buried in snow like this they never lose heart...
+
+[06788.034]
+No, that's not it. ...The one I think is wonderful is you.
+
+[06788.036]
+M-me?
+
+[06788.038]
+You and I were looking at the same view, {NAME:01 00 00 00}. But what we thought was just the opposite.
+
+[06788.040]
+I felt uneasy, because there was nothing there. I was at a loss, because I couldn't see ahead.
+
+[06788.042]
+But... you were different. You looked forward to what might be waiting beyond.
+
+[06788.044]
+Being able to think like that, always looking ahead... I envy it...
+
+[06788.046]
+Y-you think so... I'm not sensitive like you, {NAME:02 00 00 00}. I think I'm just dumb.
+
+[06788.048]
+That's why {NAME:04 00 00 00} and {NAME:03 00 00 00} keep telling me "think a bit more" and "you idiot"... ahaha...
+
+[06788.050]
+But I'm sure {NAME:04 00 00 00} and {NAME:03 00 00 00} like that side of you, {NAME:01 00 00 00}.
+
+[06788.052]
+Honest, always looking ahead, cheering everyone up... That's the {NAME:01 00 00 00} they like.
+
+[06788.054]
+Y-you think so?
+
+[06788.056]
+I'm certain. I can tell. Because...
+
+[06788.058]
+Because I'm the same...
+
+[06788.060]
+Huh? ...{NAME:02 00 00 00}, do you mean...
+
+[06788.062]
+........ ...If only you...
+
+[06788.064]
+If only you were the hero I'm looking for...
+
+[06788.066]
+{NAME:02 00 00 00}...
+
+[06788.068]
+........
+
+[06788.069]
+Have a safe journey.
+
+[06788.070]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06788.071]
+Will you stay the night?
+
+[06788.073]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06788.074]
+Please rest well.
+
+[06788.075]
+Good morning.
+
+[06788.076]
+You do not have enough money.
+
+[06788.077]
+We look forward to seeing you again.
+
+[06788.082]
+Obtained {16:26 5A}.
+
+[06788.084]
+Obtained {08:FF FF FF FF}.
+
+[06788.086]
+Found {16:26 62}, but you can carry no more.
+
+[06788.088]
+There is nothing here.
+

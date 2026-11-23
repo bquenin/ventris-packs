@@ -1,0 +1,6 @@
+[00922.001]
+Come, let's go, {NAME:02 00 00 00}. For our future...!
+
+[00922.002]
+Yes! For the future where we meet again!
+

@@ -1,0 +1,304 @@
+[06563.001]
+The World Within a Dream
+
+[06563.002]
+The World Within a Dream
+
+[06563.004]
+...Again. The nightmare always begins here, Chal.
+
+[06563.006]
+The last is {NAME:04 00 00 00}'s memory...
+
+[06563.008]
+To be exact, it would be the memory of Leon Magnus.
+
+[06563.010]
+Hey, someone's coming!
+
+[06563.011]
+Stahn
+
+[06563.012]
+What is the meaning of this, Leon!?
+
+[06563.013]
+Leon
+
+[06563.014]
+It is as you see. If you wish to go on from here, do it after you have beaten me.
+
+[06563.015]
+Rutee
+
+[06563.016]
+What are you saying, you! You know perfectly well this is an emergency!
+
+[06563.017]
+Leon
+
+[06563.018]
+That is no concern of mine. I only carry out the part I was given. The part of killing you.
+
+[06563.019]
+Woodrow
+
+[06563.020]
+Wake up, Leon! You are only being used by Hugo!
+
+[06563.021]
+Leon
+
+[06563.022]
+Just so. To Hugo I am no more than one of his throwaway pawns.
+
+[06563.023]
+Philia
+
+[06563.024]
+No...! If you know that much, then why...?
+
+[06563.025]
+Leon
+
+[06563.026]
+I have something I must protect. That is all.
+
+[06563.027]
+Leon
+
+[06563.028]
+Are you ready! Here I come, Stahn!
+
+[06563.029]
+Leon
+
+[06563.030]
+...Gah!
+
+[06563.031]
+Stahn
+
+[06563.032]
+...Leon, why...
+
+[06563.033]
+Leon
+
+[06563.034]
+Stahn...
+
+[06563.035]
+Stahn
+
+[06563.036]
+Wh-what's that!?
+
+[06563.037]
+Leon
+
+[06563.038]
+...The clock of the end... has begun... to move... No one... can stop it... now...
+
+[06563.039]
+Woodrow
+
+[06563.040]
+That sound...!? Don't tell me water is pouring in!?
+
+[06563.041]
+Woodrow
+
+[06563.042]
+This is bad... We have to get out, quick!
+
+[06563.043]
+Philia
+
+[06563.044]
+But Leon is...!
+
+[06563.045]
+Rutee
+
+[06563.046]
+No, there's no time!
+
+[06563.047]
+Stahn
+
+[06563.048]
+Leoooooon!
+
+[06563.049]
+Elraine
+
+[06563.050]
+Foolish... Why do you still seek to be hurt?
+
+[06563.051]
+Elraine
+
+[06563.052]
+One word, "I want to change the future". Say it, and you may escape this pain.
+
+[06563.053]
+Elraine
+
+[06563.054]
+You would be praised not as a base traitor but as a hero who lives long in people's memory.
+
+[06563.055]
+Elraine
+
+[06563.056]
+You could have the one you love, too.
+
+[06563.057]
+Elraine
+
+[06563.058]
+Love and honor... With both before your eyes, why do you refuse them?
+
+[06563.060]
+...Why? ......Hmph, you... understand... nothing.
+
+[06563.062]
+I... was ready... for this end... Marian's... life... is my... everything...
+
+[06563.064]
+For that... I will take... any abuse... and gladly...
+
+[06563.065]
+Elraine
+
+[06563.066]
+That is why I tell you to wish. For the future you desire. A future where you gain both honor and love.
+
+[06563.068]
+...I do not... want... such things...
+
+[06563.070]
+The sham love... and honor... that you make... mean nothing at all...
+
+[06563.071]
+Elraine
+
+[06563.072]
+...You say you will repeat this nightmare forever? Leon Magnus.
+
+[06563.074]
+...Hmph, that is why... you... understand... nothing...
+
+[06563.076]
+...I... I am not... Leon.
+
+[06563.078]
+...I am... {NAME:04 00 00 00}...!
+
+[06563.079]
+Elraine
+
+[06563.080]
+...Then as you wish, an eternal nightmare...
+
+[06563.082]
+Stop it!
+
+[06563.083]
+Elraine
+
+[06563.084]
+...!
+
+[06563.086]
+We won't let you do as you please any longer!
+
+[06563.087]
+Elraine
+
+[06563.088]
+I do not understand... Why do you shield that man?
+
+[06563.089]
+Elraine
+
+[06563.090]
+That man... Leon is a traitor who cast aside his friends for his own ends.
+
+[06563.092]
+Leon? Never heard of the guy.
+
+[06563.094]
+We're just saving a friend. A dear friend called {NAME:04 00 00 00}!
+
+[06563.096]
+You people...
+
+[06563.097]
+Elraine
+
+[06563.098]
+There is no telling when that man will betray you again.
+
+[06563.099]
+Elraine
+
+[06563.100]
+Even now that you know everything, do you say you can trust such a one?
+
+[06563.102]
+Knowing or not knowing has nothing to do with it! I believe in {NAME:04 00 00 00}!
+
+[06563.104]
+I always have! And I always will!
+
+[06563.106]
+{NAME:01 00 00 00}...
+
+[06563.108]
+Come on, let's go back, {NAME:04 00 00 00}! To our world!
+
+[06563.110]
+And let us carry on. Our own history...
+
+[06563.112]
+...Yes!
+
+[06563.113]
+Have a safe journey.
+
+[06563.114]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06563.115]
+Will you stay the night?
+
+[06563.117]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06563.118]
+Please rest well.
+
+[06563.119]
+Good morning.
+
+[06563.120]
+You do not have enough money.
+
+[06563.121]
+We look forward to seeing you again.
+
+[06563.126]
+Obtained {16:26 7A}.
+
+[06563.128]
+Obtained {08:FF FF FF FF}.
+
+[06563.130]
+Found {16:26 82}, but you can carry no more.
+
+[06563.132]
+There is nothing here.
+

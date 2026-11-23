@@ -1,0 +1,79 @@
+[06616.001]
+Aquaveil: Shiden Inn
+
+[06616.002]
+Aquaveil
+
+[06616.003]
+Shiden Inn
+
+[06616.005]
+A garden rich in green spreads before you.
+
+[06616.007]
+Plain, modest furnishings that reflect Aquaveil's culture of "wabi-sabi".
+
+[06616.008]
+Landlady
+
+[06616.009]
+Welcome, and thank you for coming to the Shiden. We can't offer much by way of hospitality, but do take your ease.
+
+[06616.010]
+Landlady
+
+[06616.011]
+Townsperson
+
+[06616.012]
+It's a nuisance, but now and then he gives a street concert in the square.
+
+[06616.013]
+Townsperson
+
+[06616.014]
+Have you ever heard Master Johnny sing? If not yet, be careful.
+
+[06616.015]
+Townsperson
+
+[06616.016]
+Why, there are people who caught it by chance and didn't wake for three days and three nights.
+
+[06616.017]
+Have a safe journey.
+
+[06616.018]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06616.019]
+Will you stay the night?
+
+[06616.021]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06616.022]
+Please rest well.
+
+[06616.023]
+Good morning.
+
+[06616.024]
+You do not have enough money.
+
+[06616.025]
+We look forward to seeing you again.
+
+[06616.030]
+Obtained {16:25 BA}.
+
+[06616.032]
+Obtained {08:FF FF FF FF}.
+
+[06616.034]
+Found {16:25 C2}, but you can carry no more.
+
+[06616.036]
+There is nothing here.
+

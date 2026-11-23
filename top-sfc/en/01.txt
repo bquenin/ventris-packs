@@ -1,0 +1,63 @@
+[01.000]
+It reads:
+"The Tree of Spirits. A spirit is said to dwell in this tree. Let us all take care that it comes to no harm.
+- Euclid Tourist Association"
+
+[01.001]
+{クレス}
+"Huh? Did we lose it...?"
+
+[01.002]
+{チェスター}
+"I'll go and look around nearby."
+
+[01.003]
+{クレス}
+"I was sure it came this way..."
+
+[01.004]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+Don't{SPEED:10}...{SPEED:FF} defile the tree...
+
+[01.005]
+{チェスター}
+"It wasn't over there. How about your side?"{PAGE}
+"{クレス}, what's wrong?"{PAGE}
+{クレス}
+"No, it's nothing..."
+
+[01.006]
+{チェスター}
+"There it is!"
+
+[01.007]
+{クレス}
+"That's a big one."{PAGE}
+
+
+[01.008]
+{チェスター}
+"That should be plenty. Let's head back to the village."
+
+[01.009]
+{クレス}
+"That's{SPEED:10}...{SPEED:FF} the village bell! Has something happened!?"{PAGE}
+{チェスター}
+"Let's hurry!!"
+
+[01.010]
+{チェスター}
+"Ah! A boar!"
+
+[01.011]
+{チェスター}
+"After it!"
+
+[01.012]
+"There! Over there!"
+
+[01.013]
+{チェスター}
+"Going back already?
+We've hardly caught anything yet."
+

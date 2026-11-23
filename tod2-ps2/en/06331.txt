@@ -1,0 +1,55 @@
+[06331.001]
+Laguna Ruins
+
+[06331.002]
+Laguna Ruins
+
+[06331.004]
+Go on, examine it.
+
+[06331.006]
+This is... the Lens!? It's huge...!
+
+[06331.008]
+No joke, this thing's worth three million Gald...
+
+[06331.010]
+Wh-what's that!?
+
+[06331.011]
+Have a safe journey.
+
+[06331.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06331.013]
+Will you stay the night?
+
+[06331.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06331.016]
+Please rest well.
+
+[06331.017]
+Good morning.
+
+[06331.018]
+You do not have enough money.
+
+[06331.019]
+We look forward to seeing you again.
+
+[06331.024]
+Obtained {16:26 C2}.
+
+[06331.026]
+Obtained {08:FF FF FF FF}.
+
+[06331.028]
+Found {16:26 CA}, but you can carry no more.
+
+[06331.030]
+There is nothing here.
+

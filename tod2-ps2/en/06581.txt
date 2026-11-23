@@ -1,0 +1,97 @@
+[06581.001]
+The Radisrol: {NAME:06 00 00 00}'s Room and Lab
+
+[06581.002]
+The Radisrol
+
+[06581.003]
+{NAME:06 00 00 00}'s Room and Lab
+
+[06581.005]
+A dubious machine shows dubious data. It may be some dubious research of {NAME:06 00 00 00}'s.
+
+[06581.007]
+It is not dubious.
+
+[06581.009]
+{NAME:06 00 00 00} earned the title "{08:33 08 00 00}".
+
+[06581.011]
+It is marked "Swordian: First Prototype"...
+
+[06581.013]
+It seems to be {NAME:06 00 00 00}'s diary...
+
+[06581.015]
+The name on the cover reads... Jennifer Berselius...
+
+[06581.017]
+It is full of small things {NAME:06 00 00 00} is fond of...
+
+[06581.019]
+Letters are carved into the hand mirror. "Est Berselius". Could it be {NAME:06 00 00 00}'s true name?
+
+[06581.021]
+A huge machine marked "Ixifosler Trial Engine". One day this engine will be fitted to the Ixifosler.
+
+[06581.023]
+"Dragon with Lens Artificial Mind" ...It seems to be a dubious machine {NAME:06 00 00 00} built.
+
+[06581.025]
+It seems to be the plans for the Swordians. They set out in fine detail how to cast a personality onto a core crystal.
+
+[06581.027]
+A stuffed toy of a character seen somewhere before...
+
+[06581.029]
+{NAME:06 00 00 00}'s bed, girlish to a fault. Clothes lie scattered where they were taken off...
+
+[06581.031]
+The embroidery on the clothes reads... Catherine Berselius...
+
+[06581.033]
+The embroidery on another reads... Camille Berselius...
+
+[06581.035]
+None of it makes sense any more...
+
+[06581.037]
+The darling of Phantomile. The long ears and the cap with the cool mark are lovely!
+
+[06581.038]
+Have a safe journey.
+
+[06581.039]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06581.040]
+Will you stay the night?
+
+[06581.042]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06581.043]
+Please rest well.
+
+[06581.044]
+Good morning.
+
+[06581.045]
+You do not have enough money.
+
+[06581.046]
+We look forward to seeing you again.
+
+[06581.051]
+Obtained {16:25 BA}.
+
+[06581.053]
+Obtained {08:FF FF FF FF}.
+
+[06581.055]
+Found {16:25 C2}, but you can carry no more.
+
+[06581.057]
+There is nothing here.
+

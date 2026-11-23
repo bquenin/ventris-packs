@@ -1,0 +1,207 @@
+[06743.001]
+Aigrette
+
+[06743.002]
+Aigrette
+
+[06743.004]
+An old clock. It is marked "Gift of the headman of the old village of Almeida".
+
+[06743.005]
+Young Woman
+
+[06743.006]
+Those who are not citizens are charged Gald.
+
+[06743.007]
+Young Woman
+
+[06743.008]
+Citizens can stay for free, you know. Though they have homes of their own, so nobody comes to stay...
+
+[06743.009]
+Young Woman
+
+[06743.010]
+Chef
+
+[06743.011]
+Been making {16:34 7C}?
+
+[06743.012]
+Chef
+
+[06743.013]
+Would you like to know how to make {16:34 7C}?
+
+[06743.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06743.016]
+Chef
+
+[06743.017]
+I'll teach you how to make {16:34 7C}.
+
+[06743.018]
+Chef
+
+[06743.019]
+Going to make it yourself? Well, that's fine too.
+
+[06743.020]
+Chef
+
+[06743.021]
+I have the recipe for {16:34 7C}. Will you buy it for {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald?
+
+[06743.023]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06743.024]
+Chef
+
+[06743.025]
+You don't have enough money.
+
+[06743.026]
+Chef
+
+[06743.027]
+I'll sell you the recipe for {16:34 7C}.
+
+[06743.028]
+Chef
+
+[06743.029]
+Well, it can't be helped.
+
+[06743.030]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06743.031]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.032]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.033]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.034]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.035]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06743.036]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.037]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.038]
+Chef
+
+[06743.039]
+To make {16:34 7C} you need:
+{18:44 78}
+
+[06743.040]
+Chef
+
+[06743.041]
+Why, you have the ingredients.
+
+[06743.042]
+Chef
+
+[06743.043]
+Let me have them and I'll make {16:34 7C}. How about it?
+
+[06743.045]
+{03:00 00 00 00}　Yes
+　No
+
+[06743.046]
+Chef
+
+[06743.047]
+All right, wait there. I'll make you {16:34 7C} right away.
+
+[06743.048]
+Chef
+
+[06743.049]
+That's a shame. It's really delicious...
+
+[06743.050]
+Chef
+
+[06743.051]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06743.052]
+Chef
+
+[06743.053]
+You are not worthy. Come back another time.
+
+[06743.054]
+Chef
+
+[06743.055]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06743.057]
+Picked up the recipe for {16:34 7C}.
+
+[06743.059]
+Learned how to make {16:34 90}.
+
+[06743.060]
+Have a safe journey.
+
+[06743.061]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06743.062]
+Will you stay the night?
+
+[06743.064]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06743.065]
+Please rest well.
+
+[06743.066]
+Good morning.
+
+[06743.067]
+You do not have enough money.
+
+[06743.068]
+We look forward to seeing you again.
+
+[06743.073]
+Obtained {16:25 DE}.
+
+[06743.075]
+Obtained {08:FF FF FF FF}.
+
+[06743.077]
+Found {16:25 E6}, but you can carry no more.
+
+[06743.079]
+There is nothing here.
+

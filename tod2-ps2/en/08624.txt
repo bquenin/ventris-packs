@@ -1,0 +1,6 @@
+[08624.001]
+Earth Elemental
+
+[08624.004]
+Fire Elemental
+

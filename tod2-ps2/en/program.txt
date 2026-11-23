@@ -1,0 +1,10672 @@
+[program.1042096]
+Mix Master
+
+[program.1042120]
+Princess of Mermaid
+
+[program.1042160]
+Twinkle Star
+
+[program.1042184]
+Forbidden spell: calls raging comets from
+another space. Huge TP cost and cast time.
+
+[program.1042264]
+Crazy Comet
+
+[program.1042288]
+Last Vanisher
+
+[program.1042312]
+Indignate Judgment
+
+[program.1042352]
+Dark summon
+
+[program.1042368]
+Luna Shade
+
+[program.1042384]
+Light summon
+
+[program.1042400]
+Sol Bright
+
+[program.1042416]
+Wind summon
+
+[program.1042432]
+Sylphistia
+
+[program.1042456]
+Fire summon
+
+[program.1042472]
+Flambrave
+
+[program.1042488]
+Water summon
+
+[program.1042504]
+Aqualimus
+
+[program.1042520]
+Earth summon
+
+[program.1042544]
+Earth Stepper
+
+[program.1042560]
+Drags foes into an abyss of darkness.
+High spell
+
+[program.1042600]
+Execution
+
+[program.1042624]
+Looses the lightning of holy judgment.
+High spell
+
+[program.1042664]
+Divine Saber
+
+[program.1042688]
+Raises a storm of ruinous force.
+High spell
+
+[program.1042728]
+Fearful Storm
+
+[program.1042752]
+Wakes the cleansing flame of old.
+High spell
+
+[program.1042800]
+Ancient Nova
+
+[program.1042824]
+Seals foes in a coffin of ice for "the end".
+High spell
+
+[program.1042872]
+Embrace End
+
+[program.1042896]
+Packs the earth's force tight and frees it.
+High spell
+
+[program.1042944]
+Grand Vanish
+
+[program.1042968]
+Evil Sphere
+
+[program.1042992]
+Drives in a shining spear and strikes again.
+Mid sublime spell
+
+[program.1043048]
+Shining Spear
+
+[program.1043072]
+Hot wind blows foes away. Mid sublime spell
+
+[program.1043120]
+Vortex Heat
+
+[program.1043144]
+Heat gathered in the ground erupts there.
+Mid sublime spell
+
+[program.1043200]
+Volcanic Ray
+
+[program.1043224]
+Wind shatters ice and hurls it.
+Mid sublime spell
+
+[program.1043272]
+Crush Gust
+
+[program.1043296]
+Water pressure brings down a huge ore.
+Mid sublime spell
+
+[program.1043352]
+Ceiling Fall
+
+[program.1043376]
+Opens a magic space that pins foes down.
+Mid spell
+
+[program.1043424]
+Negative Gate
+
+[program.1043448]
+Seven-hued swords of light rain down.
+Mid spell
+
+[program.1043496]
+Prism Flasher
+
+[program.1043520]
+Countless vacuum blades cut foes. Mid spell
+
+[program.1043560]
+Thrust Fang
+
+[program.1043584]
+Rains fireballs that burst on the ground.
+Mid spell
+
+[program.1043640]
+Burn Strike
+
+[program.1043664]
+Pounds the ground with water. Mid spell
+
+[program.1043704]
+Splash
+
+[program.1043720]
+A field of gravity crushes foes,
+ground and all. Mid spell
+
+[program.1043784]
+Air Pressure
+
+[program.1043808]
+Waves of a bloody curse cross.
+Low sublime spell
+
+[program.1043856]
+Bloody Cross
+
+[program.1043880]
+Three light shots loose deadly bolts.
+Low sublime spell
+
+[program.1043928]
+Trinity Spark
+
+[program.1043952]
+Fast vacuum blades close in and cut
+from both sides. Low sublime spell
+
+[program.1044024]
+Cross Blade
+
+[program.1044040]
+Great heat in one spot slays the target.
+Low sublime spell
+
+[program.1044096]
+Photon Blaze
+
+[program.1044120]
+Sharp ice spears take aim and pierce
+one after another. Low sublime spell
+
+[program.1044184]
+Freeze Hunter
+
+[program.1044208]
+Pointed rocks thrust up in a row.
+Low sublime spell
+
+[program.1044264]
+Sting Grave
+
+[program.1044288]
+A dark blade from the ground. Low spell
+
+[program.1044336]
+Shadow Edge
+
+[program.1044352]
+Fires three light shots at once. Low spell
+
+[program.1044392]
+Delta Ray
+
+[program.1044408]
+Vacuum blades appear at any range.
+Low spell
+
+[program.1044464]
+Wind Slash
+
+[program.1044488]
+Several fireballs seek the foe. Low spell
+
+[program.1044520]
+Flame Drive
+
+[program.1044544]
+Fires fast-spinning water. Low spell
+
+[program.1044584]
+Aqua Spike
+
+[program.1044600]
+Lobs stones at the foe in arcs. Low spell
+
+[program.1044648]
+Stone Zapper
+
+[program.1044672]
+Spell that revives one KO'd ally
+
+[program.1044712]
+Raise Dead
+
+[program.1044728]
+Heals all in the field,
+allies in range in battle
+
+[program.1044792]
+Resurrection
+
+[program.1044808]
+Spell that greatly heals one ally
+
+[program.1044848]
+Cure
+
+[program.1044856]
+Spell that heals one ally
+
+[program.1044888]
+Heal
+
+[program.1044896]
+Pierces the "shadow" that leads to the soul
+
+[program.1044936]
+Kyoeiso
+
+[program.1044952]
+Mirror Spear
+
+[program.1044960]
+A godspeed thrown blade from the shadow.
+Its shock reaches foes behind.
+
+[program.1045016]
+Eisenken
+
+[program.1045032]
+Shadow Flash
+
+[program.1045040]
+A chain of blows, splendid by its own word
+
+[program.1045072]
+Karengeki
+
+[program.1045088]
+Splendid Chain
+
+[program.1045096]
+Strikes with the force of lightning
+
+[program.1045128]
+Raigasho
+
+[program.1045144]
+Thunder Fang
+
+[program.1045152]
+A flash of flame that runs through many foes
+
+[program.1045200]
+Ryuensen
+
+[program.1045216]
+Dragon Fire
+
+[program.1045224]
+Fast arrows aimed from the air
+
+[program.1045264]
+Kokusen
+
+[program.1045280]
+Void Flash
+
+[program.1045288]
+Arrows that home hard on an attacking foe
+
+[program.1045336]
+Tsuiyosen
+
+[program.1045352]
+Falling Sun
+
+[program.1045360]
+Looses arrows spread five ways
+
+[program.1045392]
+Senhyosen
+
+[program.1045408]
+Ice Fan
+
+[program.1045416]
+Three arrows in a row, with a practiced hand
+
+[program.1045456]
+Garensen
+
+[program.1045472]
+Fang Volley
+
+[program.1045480]
+An arrow that bursts where it lands
+
+[program.1045512]
+Rekkasen
+
+[program.1045528]
+Blaze Shot
+
+[program.1045536]
+Seizes a struggling foe and opens
+"the dark that destroys". Dark arcane arte
+
+[program.1045584]
+Majin Messatsuen
+
+[program.1045608]
+Demon Slayer Dark
+
+[program.1045624]
+Slashes with leaps no common eye can follow.
+Arcane arte
+
+[program.1045672]
+Horyu Zankoken
+
+[program.1045696]
+Dragon Lightblade
+
+[program.1045712]
+Raises dust and sets it off with sparks
+from twin blades. Arcane arte
+
+[program.1045776]
+Funjin Reppasho
+
+[program.1045800]
+Dust Burst
+
+[program.1045816]
+Catches a launched foe with godspeed thrusts
+
+[program.1045856]
+Senretsu Kokosen
+
+[program.1045880]
+Thousand Voids
+
+[program.1045896]
+A vacuum wave that traces a crescent
+
+[program.1045936]
+Gessenko
+
+[program.1045952]
+Moon Flash
+
+[program.1045960]
+If the thrust lands, slips past the near foe
+to cut at the one behind
+
+[program.1046040]
+Gen'eijin
+
+[program.1046056]
+Phantom Edge
+
+[program.1046064]
+Four blows, the twin blades by turns
+
+[program.1046104]
+Sorengeki
+
+[program.1046120]
+Twin Chain
+
+[program.1046128]
+A double slash that reaches the air
+
+[program.1046168]
+Hirenzan
+
+[program.1046184]
+Flying Slash
+
+[program.1046192]
+From the heavens where gods dwell, the one
+who cleaves is a man. Namely, my arcane arte
+
+[program.1046240]
+Shinku Kassaijin
+
+[program.1046264]
+Heaven Cleaver
+
+[program.1046280]
+Slams down brimming spirit, no holding back.
+Blast arcane arte
+
+[program.1046320]
+Senko Bappa
+
+[program.1046336]
+War Cry Blast
+
+[program.1046352]
+A low spinning body slam that sends
+all flying. A nuisance arcane arte
+
+[program.1046408]
+Kuha Tokkodan
+
+[program.1046432]
+Sky Charge
+
+[program.1046448]
+Swing down, pull in, then press with a rush.
+A forward-looking arcane arte
+
+[program.1046504]
+Kappa Bakusogeki
+
+[program.1046528]
+Cleaving Rush
+
+[program.1046544]
+A swing down so mighty it shakes the earth
+
+[program.1046600]
+Bakkaisho
+
+[program.1046616]
+Ash Bell
+
+[program.1046624]
+Spears of cold from the air.
+Lovely when dodging an attack
+
+[program.1046696]
+Muhyosho
+
+[program.1046712]
+Rime Flight
+
+[program.1046720]
+Heaves a speared foe up with a strong arm.
+Poor aim, but good for shuffling ranks.
+
+[program.1046808]
+Hotsuisho
+
+[program.1046824]
+Fling Bell
+
+[program.1046832]
+Calls lightning, the fruit of training,
+and lets its power loose
+
+[program.1046880]
+Raijinsho
+
+[program.1046896]
+Thunder God
+
+[program.1046904]
+A double blow with a real man's fist in it
+
+[program.1046944]
+Sodasho
+
+[program.1046960]
+Twin Bell
+
+[program.1046968]
+Fires a shot of packed water
+
+[program.1047000]
+Ryurendan
+
+[program.1047016]
+Lotus Stream
+
+[program.1047024]
+Raises a barrier ahead that blows foes back
+and slightly heals allies close by
+
+[program.1047104]
+Gohoren
+
+[program.1047120]
+Guardian Lotus
+
+[program.1047128]
+Raises a small whirlwind
+
+[program.1047160]
+Fujinsho
+
+[program.1047176]
+Wind God
+
+[program.1047184]
+Leaps, then fires a spirit shot downward
+
+[program.1047232]
+Tenshodan
+
+[program.1047248]
+Sky Shot
+
+[program.1047256]
+Jolts the earth and sends rock shards up.
+Arcane arte
+
+[program.1047304]
+Ganzan Messaijin
+
+[program.1047328]
+Rock Rend Ruin
+
+[program.1047344]
+A chain of blows lifts the foe, and a
+vacuum blade knocks it down. Arcane arte
+
+[program.1047400]
+Shikku Rensatsuken
+
+[program.1047424]
+Swift Sky Slayer
+
+[program.1047440]
+A chain of blows from an anti-air strike.
+Arcane arte
+
+[program.1047480]
+Toryu Rengekiha
+
+[program.1047504]
+Dragonslayer Rush
+
+[program.1047520]
+Godspeed thrusts raise a gust
+that blows the foe away. Arcane arte
+
+[program.1047592]
+Kuha Zeppugeki
+
+[program.1047616]
+Sky Gale Strike
+
+[program.1047632]
+Blows wrapped in spirit, then a vacuum wave.
+Arcane artes chain from attacks and artes.
+
+[program.1047712]
+Garen Sohajin
+
+[program.1047736]
+Fang Azure Edge
+
+[program.1047752]
+A vacuum wave from a fast slash whirls
+into a flash that lifts the foe
+
+[program.1047824]
+Senkosho
+
+[program.1047840]
+Flash Thrust
+
+[program.1047848]
+If the sword driven into the ground hits,
+flame bursts from under the target
+
+[program.1047920]
+Bakuenken
+
+[program.1047936]
+Blast Flame Sword
+
+[program.1047944]
+Leaps up in an instant and swings down
+
+[program.1047992]
+Kushozan
+
+[program.1048008]
+Sky Slash
+
+[program.1048016]
+Sword strokes fast enough to shred
+dancing leaves
+
+[program.1048064]
+Chirihajin
+
+[program.1048080]
+Leaf Scatter
+
+[program.1048088]
+A slash, and its vacuum wave as a shot.
+Artes chain from normal attacks.
+
+[program.1048168]
+Sohajin
+
+[program.1048184]
+Azure Edge
+
+[program.1048192]
+Stays at the rear, readying spells,
+and strikes foes that start to cast
+
+[program.1048256]
+Block spells
+
+[program.1048280]
+Stays at the rear and aims spells
+at foes that dodge well
+
+[program.1048336]
+Down the quick
+
+[program.1048352]
+From the middle or rear, attacks and casts
+at airborne foes first
+
+[program.1048416]
+Aim for the air
+
+[program.1048432]
+From the middle or rear, casts and attacks
+at foes low on HP
+
+[program.1048496]
+Thin them out
+
+[program.1048512]
+In the middle, hits near foes with weapons
+and casts at foes that are attacking
+
+[program.1048592]
+Guard the rear
+
+[program.1048608]
+In the middle: spells while the foe's SP is
+50% or more, attacks when it is under 50%
+
+[program.1048688]
+Find their gaps
+
+[program.1048704]
+At the front, guards the foe's attack,
+then strikes with weapons
+
+[program.1048752]
+Strike back
+
+[program.1048768]
+Follows the player's character and attacks
+or casts while the player attacks.
+
+[program.1048840]
+Follow leader
+
+[program.1048856]
+From the front or middle, goes for near foes
+with weapons where it can
+
+[program.1048912]
+Hit the nearest
+
+[program.1048928]
+Takes the place that suits the character
+and picks foes by its own lights
+
+[program.1048984]
+Up to you
+
+[program.1049000]
+5: Attacks until SP and TP run out
+
+[program.1049040]
+4: Attacks and casts until SP and TP
+   fall to 25% or less
+
+[program.1049104]
+3: Attacks and casts until SP and TP
+   fall to 50% or less
+
+[program.1049168]
+2: Attacks and casts until SP and TP
+   fall to 75% or less
+
+[program.1049232]
+1: Does not attack or cast unprompted
+
+[program.1049272]
+5: Always guards, and heals
+   any ally under 100% HP
+
+[program.1049336]
+4: Holds back at 75% HP or less,
+   and heals allies at 75% HP or less
+
+[program.1049424]
+3: Holds back at 50% HP or less,
+   and heals allies at 50% HP or less
+
+[program.1049512]
+2: Holds back at 25% HP or less,
+   and heals allies at 25% HP or less
+
+[program.1049600]
+1: Fights on the attack until it drops
+
+[program.1049640]
+For getting it over with fast. Rude words
+like these are fine, in moderation.
+
+[program.1049720]
+Crush the weak
+
+[program.1049736]
+For unveiling the plan you've polished.
+Feeling like a suave gentleman?
+
+[program.1049800]
+Now's the time
+
+[program.1049816]
+For a secret plan all your own.
+Don't let the secret out.
+
+[program.1049880]
+That plan
+
+[program.1049896]
+Really! Lie and you'll pay for it.
+Trusting and following is friendship too.
+
+[program.1049976]
+Leave it to me
+
+[program.1049992]
+The word for ranged attacks all together.
+Let's have dessert ready after the fight.
+
+[program.1050080]
+Use spells
+
+[program.1050096]
+Have everyone guard.
+Regroup, then pay it back double.
+
+[program.1050160]
+Hold on for now
+
+[program.1050176]
+For when all should charge with weapons.
+But no throwing your lives away.
+
+[program.1050248]
+Charge!
+
+[program.1050264]
+A word of trust in your friends.
+Friendship, eh.
+
+[program.1050312]
+Count on you all
+
+[program.1050328]
+A word to rouse the spirit.
+Fine even when you're alone.
+
+[program.1050392]
+Right, let's go!
+
+[program.1050408]
+Playing the man of few words has its charm.
+Don't overdo it.
+
+[program.1050472]
+.....
+
+[program.1050488]
+The middle tactic is set as a battle begins.
+A tactic you customize can be given
+any command name you like.
+
+[program.1050600]
+Hits after "hold {09:3D 00 00 00}" stun
+foes more easily.
+
+[program.1050656]
+Stun attack
+
+[program.1050672]
+"Hold {09:3D 00 00 00}" to act at once
+after casting a spell.
+
+[program.1050728]
+No recovery
+
+[program.1050744]
+"Hold {09:3D 00 00 00}" to dodge every attack for
+about a second while recovering.
+
+[program.1050816]
+Timed full dodge
+
+[program.1050832]
+Draw in
+
+[program.1050848]
+"Hold {09:3D 00 00 00}" to restore 15% SP
+to your allies.
+
+[program.1050904]
+SP share
+
+[program.1050912]
+"Hold {09:3D 00 00 00}" to restore 10% TP.
+
+
+[program.1050952]
+TP convert
+
+[program.1050960]
+"Hold {09:3D 00 00 00}" to restore 30% SP.
+
+
+[program.1051000]
+SP convert
+
+[program.1051008]
+"Hold {09:3D 00 00 00}" to absorb HP in
+proportion to damage dealt.
+
+[program.1051072]
+HP drain
+
+[program.1051080]
+"Press {09:3D 00 00 00}" right as casting starts
+to cut the cast time to a quarter.
+
+[program.1051144]
+4x casting
+
+[program.1051160]
+When the spell is charged, press {09:3D 00 00 00} to hold;
+release {09:3D 00 00 00} after a combo to cast at once.
+
+[program.1051240]
+Combo cast
+
+[program.1051256]
+"Hold {09:3D 00 00 00}" to embody a spirit crystal.
+Only in Spirits Blaster.
+
+[program.1051328]
+Embody Crystal
+
+[program.1051344]
+"Hold {09:3D 00 00 00}" to cast a sublime spell after it.
+
+
+[program.1051392]
+Follow-up spell
+
+[program.1051408]
+Restores the target's TP
+
+[program.1051432]
+Mental
+
+[program.1051448]
+Restores the target's SP
+
+[program.1051472]
+Spirits
+
+[program.1051488]
+<Chance> Better odds of an item
+when this spell fells a foe
+
+[program.1051552]
+Get item
+
+[program.1051568]
+Cures (poison/weak/numb/slow, frozen) by LV.
+Out of battle it cures without being set.
+
+[program.1051648]
+Recover
+
+[program.1051664]
+Lengthens the foe's stagger on a hit
+
+[program.1051704]
+Longer stagger
+
+[program.1051720]
+<Chance, lasting> Slows the foe for a time
+
+[program.1051768]
+Slowing
+
+[program.1051784]
+<Chance, lasting> Numbs the foe for a time
+
+[program.1051832]
+Numbing
+
+[program.1051848]
+<Chance, lasting> Freezes the foe for a time
+
+[program.1051896]
+Freezing
+
+[program.1051912]
+<Chance, lasting> Poisons the foe for a time
+
+[program.1051960]
+Poisoning
+
+[program.1051968]
+<Chance> Damages the foe's TP
+
+[program.1052016]
+<Chance> Damages the foe's SP
+
+[program.1052064]
+<Chance, lasting> Lowers the foe's
+evasion for a time
+
+[program.1052120]
+Evasion-
+
+[program.1052136]
+<Chance, lasting> Lowers the foe's
+defense for a time
+
+[program.1052192]
+Defense-
+
+[program.1052208]
+<Chance, lasting> Lowers the foe's
+aim for a time
+
+[program.1052264]
+Aim-
+
+[program.1052272]
+<Chance, lasting> Lowers the foe's
+attack for a time
+
+[program.1052328]
+Attack-
+
+[program.1052344]
+<Lasting> Raises resistance to the
+spell's element for a time
+
+[program.1052400]
+Element resist up
+
+[program.1052416]
+Lowers the spell's TP cost
+
+[program.1052448]
+TP saving
+
+[program.1052464]
+Speeds up the spell's casting
+
+[program.1052496]
+Faster casting
+
+[program.1052512]
+More damage from attack spells,
+more healing from healing spells
+
+[program.1052560]
+Effect up
+
+[program.1052576]
+Enter "another arte" during an arte
+to chain into it, once.
+
+[program.1052632]
+Arte chain
+
+[program.1052648]
+Enter "a spell" after an arte to cast
+a low attack spell at once.
+
+[program.1052704]
+Spell pursuit
+
+[program.1052720]
+"Hold {09:3D 00 00 00}" after an arte to get behind
+a foe within range.
+
+[program.1052784]
+Get behind
+
+[program.1052800]
+"Hold {09:3D 00 00 00}" to dash back while
+recovering from an arte.
+
+[program.1052864]
+Back dash
+
+[program.1052880]
+"Hold {09:3D 00 00 00}" to dash forward while
+recovering from an arte.
+
+[program.1052944]
+Forward dash
+
+[program.1052960]
+Start with an arte and hold {09:3D 00 00 00}
+to chain into normal attacks.
+
+[program.1053024]
+Attack chain
+
+[program.1053040]
+"Hold {09:3D 00 00 00}" on a hit to knock the foe far back
+
+
+[program.1053096]
+Knockback
+
+[program.1053112]
+"Hold {09:3D 00 00 00}" when the foe guards to cut
+its guard strength by 8 at a stroke.
+
+[program.1053176]
+Guard break
+
+[program.1053192]
+Enter "an arte" in the air to use it there
+
+
+[program.1053240]
+Air use
+
+[program.1053256]
+Enter "an arte" the instant you guard
+an attack on the ground to use it.
+
+[program.1053320]
+Guard use
+
+[program.1053336]
+Enter "an arte" the instant you are hit
+on the ground to use it.
+
+[program.1053400]
+Counter use
+
+[program.1053416]
+"Hold {09:3D 00 00 00}" while the foe reels
+to set off a mystic arte.
+
+[program.1053472]
+Mystic arte
+
+[program.1053480]
+"Hold {09:3D 00 00 00}" on a hit to set off
+the arte's follow-up.
+
+[program.1053536]
+Follow-up arte
+
+[program.1053552]
+Dodges every attack for an instant
+as the arte begins
+
+[program.1053608]
+Instant full dodge
+
+[program.1053624]
+<Chance> Can steal an item
+on a hit
+
+[program.1053680]
+Item snatch
+
+[program.1053696]
+<Lasting> Raises cast speed for a time
+
+[program.1053736]
+Cast speed up
+
+[program.1053752]
+Adds to the count that leads
+to Spirits Blaster
+
+[program.1053816]
+Blaster
+
+[program.1053832]
+In an arte, withstands spells of your most
+resisted element, as many as its level
+
+[program.1053904]
+Spell pierce
+
+[program.1053920]
+In an arte, withstands attacks of your most
+resisted element, as many as its level
+
+[program.1053992]
+Attack pierce
+
+[program.1054008]
+<Chance, lasting> A hit lowers the foe's
+dark resistance for a time
+
+[program.1054072]
+Dark resist-
+
+[program.1054088]
+<Chance, lasting> A hit lowers the foe's
+light resistance for a time
+
+[program.1054152]
+Light resist-
+
+[program.1054168]
+<Chance, lasting> A hit lowers the foe's
+wind resistance for a time
+
+[program.1054232]
+Wind resist-
+
+[program.1054248]
+<Chance, lasting> A hit lowers the foe's
+fire resistance for a time
+
+[program.1054312]
+Fire resist-
+
+[program.1054328]
+<Chance, lasting> A hit lowers the foe's
+water resistance for a time
+
+[program.1054392]
+Water resist-
+
+[program.1054408]
+<Chance, lasting> A hit lowers the foe's
+earth resistance for a time
+
+[program.1054472]
+Earth resist-
+
+[program.1054488]
+<Chance, lasting> A hit lowers the foe's
+mind for a time
+
+[program.1054552]
+Mind-
+
+[program.1054560]
+<Chance, lasting> A hit lowers the foe's
+cast speed for a time
+
+[program.1054624]
+Cast speed-
+
+[program.1054640]
+Raises the arte's critical rate
+
+[program.1054672]
+Critical
+
+[program.1054688]
+Lowers SP use during the arte
+
+[program.1054720]
+SP saving
+
+[program.1054736]
+Raises the arte's damage
+
+[program.1054760]
+Attack Up
+
+[program.1054776]
+Raises the arte's hit rate
+
+[program.1054800]
+Aim Up
+
+[program.1054816]
+Cardinal
+
+[program.1054832]
+Cleric
+
+[program.1054848]
+Priest
+
+[program.1054864]
+Rector
+
+[program.1054880]
+Acolyte
+
+[program.1054896]
+HP and TP recover on their own
+
+[program.1054920]
+Invalid
+
+[program.1054936]
+Deflect
+
+[program.1054952]
+Avoid
+
+[program.1054968]
+Response
+
+[program.1054984]
+Reduce
+
+[program.1055000]
+Better odds of blocking ailments
+
+[program.1055032]
+Spectral
+
+[program.1055048]
+Ether
+
+[program.1055064]
+Reflect
+
+[program.1055080]
+Elemental
+
+[program.1055096]
+Prism
+
+[program.1055112]
+Raises mind and cast speed
+
+[program.1055144]
+Hermit
+
+[program.1055160]
+Conjurer
+
+[program.1055176]
+Shaman
+
+[program.1055192]
+Magician
+
+[program.1055208]
+Fraud
+
+[program.1055224]
+Raises TP saving and TP regen
+
+[program.1055256]
+Excellent
+
+[program.1055272]
+Wonderful
+
+[program.1055288]
+Quality
+
+[program.1055304]
+Major
+
+[program.1055320]
+Worth
+
+[program.1055328]
+Raises defense and max HP
+
+[program.1055352]
+Universe
+
+[program.1055368]
+Galaxy
+
+[program.1055384]
+Nebula
+
+[program.1055400]
+Horoscope
+
+[program.1055416]
+Star
+
+[program.1055424]
+Raises SP and TP regen
+
+[program.1055456]
+Seer
+
+[program.1055464]
+Void
+
+[program.1055480]
+Innocence
+
+[program.1055496]
+Ignorance
+
+[program.1055512]
+Mercy
+
+[program.1055528]
+Raises luck and evasion
+
+[program.1055544]
+Dread
+
+[program.1055560]
+Miracle
+
+[program.1055576]
+Ornate
+
+[program.1055592]
+Basis
+
+[program.1055608]
+Skillful
+
+[program.1055624]
+Raises defense and evasion
+
+[program.1055648]
+Misery
+
+[program.1055664]
+Welfare
+
+[program.1055680]
+Harvest
+
+[program.1055696]
+Mason
+
+[program.1055712]
+Forge
+
+[program.1055728]
+TP recovers with damage taken
+
+[program.1055752]
+Waylay
+
+[program.1055768]
+Revenge
+
+[program.1055784]
+Repulse
+
+[program.1055800]
+Rebound
+
+[program.1055816]
+Thorns
+
+[program.1055832]
+Guard strikes come easier
+
+[program.1055864]
+Seraphic
+
+[program.1055880]
+Cherubim
+
+[program.1055896]
+Dominion
+
+[program.1055912]
+Angel
+
+[program.1055928]
+Errand
+
+[program.1055944]
+Damage taken heals over time
+
+[program.1055976]
+Lovely
+
+[program.1055992]
+Cutie
+
+[program.1056008]
+Pretty
+
+[program.1056024]
+Sweet
+
+[program.1056040]
+Stripe
+
+[program.1056056]
+Shorter stagger when hit
+
+[program.1056080]
+Stability
+
+[program.1056096]
+Tireless
+
+[program.1056112]
+Dexterous
+
+[program.1056128]
+Balance
+
+[program.1056144]
+Blocking
+
+[program.1056160]
+Less time down after a fall
+
+[program.1056184]
+Devote
+
+[program.1056200]
+Humility
+
+[program.1056216]
+Grasp
+
+[program.1056232]
+Pillage
+
+[program.1056248]
+Familiar
+
+[program.1056264]
+Gald grows when you guard
+
+[program.1056296]
+Avatar
+
+[program.1056312]
+Wizard
+
+[program.1056328]
+Magus
+
+[program.1056344]
+Adept
+
+[program.1056360]
+Sorcerer
+
+[program.1056376]
+Cast speed up when guarding
+
+[program.1056400]
+Mirage
+
+[program.1056416]
+Enlight
+
+[program.1056432]
+Inspect
+
+[program.1056448]
+Insight
+
+[program.1056464]
+Geyser
+
+[program.1056480]
+Evasion up when guarding
+
+[program.1056504]
+Oberon
+
+[program.1056520]
+Prime
+
+[program.1056536]
+Justice
+
+[program.1056552]
+Defense
+
+[program.1056568]
+Resolve
+
+[program.1056584]
+Defense up when guarding
+
+[program.1056608]
+Silky
+
+[program.1056624]
+Velvet
+
+[program.1056640]
+Feather
+
+[program.1056656]
+Woolly
+
+[program.1056672]
+Cotton
+
+[program.1056688]
+TP recovers when guarding
+
+[program.1056712]
+Titania
+
+[program.1056728]
+Sylvan
+
+[program.1056744]
+Forest
+
+[program.1056760]
+Timber
+
+[program.1056776]
+Thicket
+
+[program.1056792]
+SP recovers when guarding
+
+[program.1056816]
+Chaotic
+
+[program.1056832]
+Doom
+
+[program.1056848]
+Spite
+
+[program.1056864]
+Skull
+
+[program.1056872]
+Bone
+
+[program.1056880]
+Slightly cuts all damage
+
+[program.1056904]
+Ebony
+
+[program.1056920]
+Amethyst
+
+[program.1056936]
+Onyx
+
+[program.1056952]
+Carbon
+
+[program.1056968]
+Charcoal
+
+[program.1056984]
+Gives dark resistance
+
+[program.1057000]
+Diamond
+
+[program.1057016]
+Crystal
+
+[program.1057032]
+Alabaster
+
+[program.1057048]
+Ivory
+
+[program.1057064]
+Coral
+
+[program.1057080]
+Gives light resistance
+
+[program.1057096]
+Disaster
+
+[program.1057112]
+Tempest
+
+[program.1057128]
+Cyclone
+
+[program.1057144]
+Hurricane
+
+[program.1057160]
+Storm
+
+[program.1057176]
+Gives wind resistance
+
+[program.1057192]
+Carnelian
+
+[program.1057208]
+Ruby
+
+[program.1057216]
+Scarlet
+
+[program.1057232]
+Crimson
+
+[program.1057248]
+Vermilion
+
+[program.1057264]
+Gives fire resistance
+
+[program.1057280]
+Cerulean
+
+[program.1057296]
+Sapphire
+
+[program.1057312]
+Aquamarine
+
+[program.1057328]
+Lapis Lazuli
+
+[program.1057344]
+Cyan
+
+[program.1057352]
+Gives water resistance
+
+[program.1057368]
+Amber
+
+[program.1057384]
+Topaz
+
+[program.1057400]
+Tangerine
+
+[program.1057416]
+Ochre
+
+[program.1057432]
+Brown
+
+[program.1057448]
+Gives earth resistance
+
+[program.1057464]
+Rebirth
+
+[program.1057480]
+Regrowth
+
+[program.1057496]
+Resume
+
+[program.1057512]
+Vitality
+
+[program.1057528]
+Survival
+
+[program.1057544]
+HP recovers when near death
+
+[program.1057568]
+Goodwill
+
+[program.1057584]
+Energy
+
+[program.1057600]
+Conscious
+
+[program.1057616]
+Resist
+
+[program.1057632]
+Strong
+
+[program.1057648]
+Shortens stuns
+
+[program.1057672]
+Aura
+
+[program.1057680]
+Faith
+
+[program.1057696]
+Order
+
+[program.1057712]
+Morale
+
+[program.1057728]
+Leading
+
+[program.1057744]
+Gives weak resistance and a counter effect
+
+[program.1057776]
+Stuffy
+
+[program.1057792]
+Thawing
+
+[program.1057808]
+Heating
+
+[program.1057824]
+Melting
+
+[program.1057840]
+Warming
+
+[program.1057856]
+Gives freeze resistance and a counter effect
+
+[program.1057888]
+Funny
+
+[program.1057904]
+Optimum
+
+[program.1057920]
+Active
+
+[program.1057936]
+Easy
+
+[program.1057952]
+Rocking
+
+[program.1057968]
+Gives numb resistance and a counter effect
+
+[program.1058000]
+Elven
+
+[program.1058016]
+Swift
+
+[program.1058032]
+Agility
+
+[program.1058048]
+Haste
+
+[program.1058064]
+Step
+
+[program.1058080]
+Gives slow resistance and a counter effect
+
+[program.1058112]
+Fragrance
+
+[program.1058128]
+Comfort
+
+[program.1058144]
+Cure-all
+
+[program.1058160]
+Restful
+
+[program.1058176]
+Antidote
+
+[program.1058192]
+Gives poison resistance and a counter effect
+
+[program.1058216]
+Ancient
+
+[program.1058232]
+Archaic
+
+[program.1058248]
+Royal
+
+[program.1058264]
+Persian
+
+[program.1058280]
+Damascus
+
+[program.1058296]
+More attack the lower the owner's level
+
+[program.1058328]
+Earnest
+
+[program.1058344]
+Impress
+
+[program.1058360]
+Zealous
+
+[program.1058376]
+Fervor
+
+[program.1058392]
+Ardent
+
+[program.1058408]
+Raises cast speed and TP regen
+
+[program.1058440]
+Rare Metal
+
+[program.1058456]
+Lava
+
+[program.1058472]
+Granite
+
+[program.1058488]
+Marble
+
+[program.1058504]
+Basalt
+
+[program.1058520]
+Raises attack and max HP
+
+[program.1058544]
+Arcadia
+
+[program.1058560]
+El Dorado
+
+[program.1058576]
+Paradise
+
+[program.1058592]
+Heavens
+
+[program.1058608]
+World
+
+[program.1058624]
+Raises SP and TP saving
+
+[program.1058656]
+Deity
+
+[program.1058672]
+Tyrant
+
+[program.1058688]
+Kaiser
+
+[program.1058704]
+Emperor
+
+[program.1058720]
+Lord
+
+[program.1058728]
+Raises attack and critical
+
+[program.1058760]
+Final
+
+[program.1058776]
+Hyper
+
+[program.1058792]
+Perfect
+
+[program.1058808]
+Majesty
+
+[program.1058824]
+Courageous
+
+[program.1058840]
+Raises attack and aim
+
+[program.1058864]
+Valiant
+
+[program.1058880]
+Guardian
+
+[program.1058896]
+Gargoyle
+
+[program.1058912]
+Golem
+
+[program.1058928]
+Puppet
+
+[program.1058944]
+Good against minerals
+
+[program.1058968]
+Daemon
+
+[program.1058984]
+Devil
+
+[program.1058992]
+Gremlin
+
+[program.1059008]
+Fiend
+
+[program.1059024]
+Ogre
+
+[program.1059040]
+Good against demons
+
+[program.1059064]
+Phoenix
+
+[program.1059080]
+Griffin
+
+[program.1059096]
+Pegasus
+
+[program.1059112]
+Harpy
+
+[program.1059128]
+Raptor
+
+[program.1059144]
+Good against flying foes
+
+[program.1059168]
+Slayer
+
+[program.1059184]
+Bestial
+
+[program.1059200]
+Predator
+
+[program.1059216]
+Beast
+
+[program.1059232]
+Hound
+
+[program.1059248]
+Good against beasts
+
+[program.1059264]
+Demolition
+
+[program.1059280]
+Hang-up
+
+[program.1059296]
+Destroy
+
+[program.1059312]
+Crash
+
+[program.1059328]
+Break
+
+[program.1059344]
+Good against machines
+
+[program.1059368]
+Bahamut
+
+[program.1059384]
+Wyrm
+
+[program.1059400]
+Dragon
+
+[program.1059416]
+Drake
+
+[program.1059432]
+Lizard
+
+[program.1059448]
+Good against dragons
+
+[program.1059472]
+Cheering
+
+[program.1059488]
+Useful
+
+[program.1059504]
+Vision
+
+[program.1059520]
+Bloom
+
+[program.1059536]
+Scout
+
+[program.1059552]
+<Lasting> effects last longer
+
+[program.1059576]
+Harlequin
+
+[program.1059592]
+Arlequin
+
+[program.1059608]
+Jester
+
+[program.1059624]
+Fantasy
+
+[program.1059640]
+Dream
+
+[program.1059656]
+Chain level grows faster
+
+[program.1059688]
+Apocalypse
+
+[program.1059704]
+Armageddon
+
+[program.1059720]
+Catastrophe
+
+[program.1059736]
+Slaughter
+
+[program.1059752]
+Magic level grows faster
+
+[program.1059776]
+Accurate
+
+[program.1059792]
+Guided
+
+[program.1059808]
+Fine
+
+[program.1059824]
+Aiming
+
+[program.1059840]
+Gambit
+
+[program.1059856]
+Skill level grows faster
+
+[program.1059880]
+Deadly
+
+[program.1059896]
+Savage
+
+[program.1059912]
+Onslaught
+
+[program.1059928]
+Trample
+
+[program.1059944]
+Assault
+
+[program.1059960]
+Attack level grows faster
+
+[program.1059992]
+Strange
+
+[program.1060008]
+Wonder
+
+[program.1060024]
+Rune
+
+[program.1060032]
+Magical
+
+[program.1060048]
+Mage
+
+[program.1060056]
+More TP back when a foe falls
+
+[program.1060088]
+Reentry
+
+[program.1060104]
+Pastime
+
+[program.1060120]
+Relieve
+
+[program.1060136]
+Pleasure
+
+[program.1060152]
+Harmony
+
+[program.1060168]
+Restores HP when a foe falls
+
+[program.1060200]
+Vulpine
+
+[program.1060216]
+Nightmare
+
+[program.1060232]
+Spirit
+
+[program.1060248]
+Specter
+
+[program.1060264]
+Phantom
+
+[program.1060280]
+Drains TP on attack
+
+[program.1060304]
+Vampire
+
+[program.1060320]
+Succubus
+
+[program.1060336]
+Snatcher
+
+[program.1060352]
+Bloody
+
+[program.1060368]
+Mosquito
+
+[program.1060384]
+Drains HP on attack
+
+[program.1060408]
+Genocide
+
+[program.1060424]
+Carnage
+
+[program.1060440]
+Merciless
+
+[program.1060456]
+Rampage
+
+[program.1060472]
+Raises the critical rate
+
+[program.1060504]
+Driving
+
+[program.1060520]
+Strike
+
+[program.1060536]
+Groggy
+
+[program.1060552]
+Bashing
+
+[program.1060568]
+Howling
+
+[program.1060584]
+<Chance> Adds a stun effect
+
+[program.1060616]
+Fatigue
+
+[program.1060632]
+Painful
+
+[program.1060648]
+Fainter
+
+[program.1060664]
+Disease
+
+[program.1060680]
+Weaken
+
+[program.1060696]
+<Chance> Adds a weakening effect
+
+[program.1060728]
+Stasis
+
+[program.1060744]
+Glacial
+
+[program.1060760]
+Iceberg
+
+[program.1060776]
+Freeze
+
+[program.1060792]
+Cold
+
+[program.1060808]
+<Chance> Adds a freezing effect
+
+[program.1060840]
+Medusa
+
+[program.1060856]
+Basilisk
+
+[program.1060872]
+Cockatrice
+
+[program.1060888]
+Spider
+
+[program.1060904]
+Paralyze
+
+[program.1060920]
+<Chance> Adds numbness
+
+[program.1060952]
+Plague
+
+[program.1060968]
+Epidemic
+
+[program.1060984]
+Venom
+
+[program.1061000]
+Noxious
+
+[program.1061016]
+Poison
+
+[program.1061032]
+<Chance> Adds poison
+
+[program.1061064]
+Shadow
+
+[program.1061080]
+Darkness
+
+[program.1061096]
+Shade
+
+[program.1061112]
+Silhouette
+
+[program.1061128]
+Dusk
+
+[program.1061136]
+Adds the dark element
+
+[program.1061160]
+Photon
+
+[program.1061176]
+Twinkle
+
+[program.1061192]
+Brilliant
+
+[program.1061208]
+Illuminate
+
+[program.1061224]
+Light
+
+[program.1061232]
+Adds the light element
+
+[program.1061256]
+Sylphy
+
+[program.1061272]
+Aerial
+
+[program.1061288]
+Zephyr
+
+[program.1061304]
+Gale
+
+[program.1061312]
+Windy
+
+[program.1061328]
+Adds the wind element
+
+[program.1061352]
+Ifrit
+
+[program.1061368]
+Salamander
+
+[program.1061384]
+Searing
+
+[program.1061400]
+Flare
+
+[program.1061408]
+Fire
+
+[program.1061424]
+Adds the fire element
+
+[program.1061448]
+Poseidon
+
+[program.1061464]
+Undine
+
+[program.1061480]
+Triton
+
+[program.1061496]
+Aquarius
+
+[program.1061512]
+Water
+
+[program.1061528]
+Adds the water element
+
+[program.1061552]
+Martel
+
+[program.1061568]
+Gnome
+
+[program.1061576]
+Gaia
+
+[program.1061584]
+Earth
+
+[program.1061592]
+Soil
+
+[program.1061600]
+Adds the earth element
+
+[program.1061624]
+Meteoric
+
+[program.1061640]
+Orichalcum
+
+[program.1061656]
+Stardust
+
+[program.1061672]
+Mithril
+
+[program.1061688]
+Platinum
+
+[program.1061704]
+Small chance the paired slot levels up
+
+[program.1061736]
+Crusader
+
+[program.1061752]
+Patriot
+
+[program.1061768]
+Paladin
+
+[program.1061784]
+Knights
+
+[program.1061792]
+Squire
+
+[program.1061808]
+Strengthens the paired slot
+
+[program.1061832]
+Berserk
+
+[program.1061848]
+Master
+
+[program.1061864]
+Champion
+
+[program.1061880]
+Dragoon
+
+[program.1061896]
+Duelist
+
+[program.1061912]
+<Chance> effects come up more often
+
+[program.1061944]
+Sacred
+
+[program.1061960]
+Glorious
+
+[program.1061976]
+Saintly
+
+[program.1061992]
+Prestige
+
+[program.1062008]
+Awesome
+
+[program.1062024]
+Raises EXP earned
+
+[program.1062048]
+Legacy
+
+[program.1062064]
+Plenty
+
+[program.1062080]
+Abound
+
+[program.1062096]
+Quantum
+
+[program.1062112]
+Treasure
+
+[program.1062128]
+Better odds of items
+
+[program.1062152]
+Bounty
+
+[program.1062168]
+Wealth
+
+[program.1062184]
+High Reward
+
+[program.1062200]
+Prize
+
+[program.1062216]
+Merchant
+
+[program.1062232]
+Raises Gald earned
+
+[program.1062256]
+Artist
+
+[program.1062272]
+Expert
+
+[program.1062288]
+Veteran
+
+[program.1062304]
+Craftsman
+
+[program.1062320]
+Sleight
+
+[program.1062336]
+Shorter pause after using items
+
+[program.1062368]
+Marshal
+
+[program.1062384]
+General
+
+[program.1062400]
+Elite
+
+[program.1062416]
+Warrior
+
+[program.1062432]
+Mercenary
+
+[program.1062448]
+Small chance of adding max HP
+
+[program.1062472]
+Holy
+
+[program.1062488]
+Anthem
+
+[program.1062504]
+Calming
+
+[program.1062520]
+Medical
+
+[program.1062536]
+Healing
+
+[program.1062552]
+HP recovers at set intervals
+
+[program.1062584]
+Vanishing
+
+[program.1062600]
+Sprint
+
+[program.1062616]
+Runaway
+
+[program.1062632]
+Dash
+
+[program.1062648]
+Escape
+
+[program.1062664]
+Raises escape speed
+
+[program.1062688]
+Misty
+
+[program.1062704]
+Arcane
+
+[program.1062720]
+Ritual
+
+[program.1062736]
+Paradigm
+
+[program.1062752]
+Spell
+
+[program.1062760]
+Raises cast speed
+
+[program.1062784]
+Fairy
+
+[program.1062800]
+Leprechaun
+
+[program.1062816]
+Dryad
+
+[program.1062832]
+Sprite
+
+[program.1062848]
+Pixie
+
+[program.1062864]
+Raises TP saving
+
+[program.1062888]
+Sanctum
+
+[program.1062904]
+Zodiac
+
+[program.1062920]
+Welkin
+
+[program.1062936]
+Cosmic
+
+[program.1062952]
+Aether
+
+[program.1062968]
+Raises SP saving
+
+[program.1062992]
+Serenity
+
+[program.1063008]
+Meditate
+
+[program.1063024]
+Tranquil
+
+[program.1063040]
+Mind
+
+[program.1063056]
+Raises TP regen
+
+[program.1063080]
+Lunatic
+
+[program.1063096]
+Artemis
+
+[program.1063112]
+Planet
+
+[program.1063128]
+Selene
+
+[program.1063136]
+Moon
+
+[program.1063144]
+Raises SP regen
+
+[program.1063168]
+Colossus
+
+[program.1063184]
+Behemoth
+
+[program.1063200]
+Giant
+
+[program.1063216]
+Wolverine
+
+[program.1063232]
+Troll
+
+[program.1063248]
+Raises max HP
+
+[program.1063272]
+Fortune
+
+[program.1063288]
+Luck
+
+[program.1063296]
+Chance
+
+[program.1063312]
+Happy
+
+[program.1063328]
+Rabbit
+
+[program.1063344]
+Raises luck
+
+[program.1063360]
+Wisdom
+
+[program.1063376]
+Clever
+
+[program.1063392]
+Thinking
+
+[program.1063408]
+Wiseman
+
+[program.1063424]
+Knowledge
+
+[program.1063440]
+Raises mind
+
+[program.1063456]
+Maneuver
+
+[program.1063472]
+Invisible
+
+[program.1063488]
+Flux
+
+[program.1063504]
+Dancing
+
+[program.1063520]
+Evasion
+
+[program.1063536]
+Raises evasion
+
+[program.1063552]
+Carapace
+
+[program.1063568]
+Rampart
+
+[program.1063584]
+Protect
+
+[program.1063600]
+Armored
+
+[program.1063616]
+Steel
+
+[program.1063632]
+Raises defense
+
+[program.1063648]
+Sliver
+
+[program.1063664]
+Precision
+
+[program.1063680]
+Nimble
+
+[program.1063696]
+Sharp
+
+[program.1063712]
+Feat
+
+[program.1063728]
+Raises aim
+
+[program.1063744]
+Mighty
+
+[program.1063760]
+Force
+
+[program.1063776]
+Strength
+
+[program.1063792]
+Power
+
+[program.1063800]
+Attack
+
+[program.1063816]
+Raises attack
+
+[program.1063880]
+Berselius
+
+[program.1063896]
+Harold
+
+[program.1063912]
+Fletch
+
+[program.1063928]
+Nanaly
+
+[program.1063944]
+Judas
+
+[program.1063960]
+Loni
+
+[program.1063976]
+Reala
+
+[program.1063984]
+Dunamis
+
+[program.1064000]
+Kyle
+
+[program.1064008]
+No name
+
+[program.1064024]
+Lets you walk without a sound.
+Wear it with the Kannagi Garb.
+
+[program.1064072]
+Mikagura Tabi
+
+[program.1064088]
+Cat-paw boots with cute pads.
+They soak up most of a shock.
+
+[program.1064152]
+Persian Boots
+
+[program.1064168]
+Boots trimmed with a nightmare.
+You move as if gliding!
+
+[program.1064224]
+Nightmare Boots
+
+[program.1064248]
+Boots with a power out of legend, named
+for brothers who wrote down old tales.
+
+[program.1064328]
+Grimm Boots
+
+[program.1064344]
+Light green boots the elves wear.
+Run in the woods and never trip.
+
+[program.1064408]
+Elven Boots
+
+[program.1064424]
+Amazing speed.
+Can your friends keep up?
+
+[program.1064472]
+Jet Boots
+
+[program.1064488]
+Boots with wings on.
+Your heart takes wing too.
+
+[program.1064528]
+Winged Boots
+
+[program.1064552]
+Boots of plain, graceful make.
+So coool!!
+
+[program.1064600]
+Gothic Boots
+
+[program.1064616]
+Hard boots, fine for close fighting.
+Very hard-wearing.
+
+[program.1064664]
+Combat Boots
+
+[program.1064688]
+Boots that guard up to the knee.
+A kick in the shin is nothing.
+
+[program.1064736]
+Greaves
+
+[program.1064752]
+What they call army boots.
+Practical before all else.
+
+[program.1064800]
+Battle Boots
+
+[program.1064816]
+Boots as wildly heavy as the name says.
+Getting about looks like hard work.
+
+[program.1064872]
+Heavy Boots
+
+[program.1064888]
+Boots of mesh.
+Light and lovely.
+
+[program.1064920]
+Mesh Boots
+
+[program.1064936]
+Boots of steel plate.
+An elephant could tread on them.
+
+[program.1064976]
+Plate Boots
+
+[program.1064992]
+Boots sewn with steel thread.
+Wear them with Chain Mail.
+
+[program.1065048]
+Chain Boots
+
+[program.1065064]
+Leather boots.
+Tread on pebbles and feel nothing.
+
+[program.1065104]
+Leather Boots
+
+[program.1065120]
+A coat an eastern general wore to war.
+It makes you feel important.
+
+[program.1065176]
+Jinbaori
+
+[program.1065184]
+A cape woven with silver thread.
+Silver is said to ward off evil.
+
+[program.1065240]
+Silver Cape
+
+[program.1065256]
+A princess wore it out in disguise.
+What a handful that tomboy was.
+
+[program.1065328]
+Princess Cape
+
+[program.1065352]
+A mantle of the heavens.
+Raises resistance to magic.
+
+[program.1065392]
+Celestial Mantle
+
+[program.1065416]
+A mantle that makes illusions.
+Attacks find you harder to hit.
+
+[program.1065464]
+Mirage Mantle
+
+[program.1065488]
+A splendid mantle for the high-born.
+All eyes will be on you!
+
+[program.1065544]
+Gorgeous Mantle
+
+[program.1065568]
+A fine mantle made of fur.
+A must for going out in snow country.
+
+[program.1065624]
+Fur Mantle
+
+[program.1065640]
+A light green mantle the elves wear.
+For your strolls in the woods.
+
+[program.1065696]
+Elven Mantle
+
+[program.1065712]
+A mantle of plain, graceful make.
+So classy!!
+
+[program.1065752]
+Gothic Mantle
+
+[program.1065768]
+A mantle with the crest of earth.
+Raises earth resistance.
+
+[program.1065816]
+The Earth Mantle
+
+[program.1065832]
+A mantle with the crest of wind.
+Raises wind resistance.
+
+[program.1065880]
+Sylphy Mantle
+
+[program.1065896]
+A mantle with the crest of water.
+Raises water resistance.
+
+[program.1065944]
+Aqua Mantle
+
+[program.1065960]
+A mantle with the crest of flame.
+Raises fire resistance.
+
+[program.1066008]
+Flare Mantle
+
+[program.1066024]
+A mantle hunters like.
+It serves as a blanket outdoors.
+
+[program.1066080]
+Hunter's Mantle
+
+[program.1066104]
+Dark, so it does not stand out.
+Handy for hiding.
+
+[program.1066144]
+Thief's Mantle
+
+[program.1066160]
+A leather mantle.
+No worries on rainy days.
+
+[program.1066192]
+Leather Mantle
+
+[program.1066208]
+An ornament said to mark an emperor.
+One of the Three Sacred Treasures.
+
+[program.1066256]
+Yasakani Magatama
+
+[program.1066280]
+A charm that eases or stops weakness.
+Guarding may weaken the foe too.
+
+[program.1066344]
+Weak Check
+
+[program.1066368]
+A chick charm.
+Eases stuns and knockdowns.
+
+[program.1066408]
+Piyohan
+
+[program.1066424]
+Use artes by command input. It claims
+to be worth the slot it takes up.
+
+[program.1066496]
+Combo Command
+
+[program.1066512]
+A figure that takes your place. Worn
+ahead, it shatters at KO and heals you.
+
+[program.1066584]
+Reverse Doll
+
+[program.1066600]
+A charm with a demon sealed in it.
+Raises EXP earned.
+
+[program.1066640]
+Demon's Seal
+
+[program.1066656]
+For experts: SELECT changes the
+character you control at once.
+
+[program.1066736]
+Moon Selector
+
+[program.1066760]
+A charm of black onyx.
+Raises max HP.
+
+[program.1066800]
+Black Onyx
+
+[program.1066824]
+A figure of a goddess.
+Raises Gald earned.
+
+[program.1066856]
+Sephira
+
+[program.1066872]
+An ordinary charm.
+Raises defense.
+
+[program.1066904]
+Talisman
+
+[program.1066920]
+Crest of the war god.
+Raises SP regen.
+
+[program.1066952]
+Task Force
+
+[program.1066968]
+A rabbit's foot.
+Raises luck.
+
+[program.1067000]
+Rabbit Symbol
+
+[program.1067024]
+A mystic crest.
+Shortens cast time.
+
+[program.1067056]
+Misty Symbol
+
+[program.1067080]
+A warrior's crest.
+Raises strength.
+
+[program.1067104]
+Feat Symbol
+
+[program.1067128]
+A holy crest.
+HP recovers little by little.
+
+[program.1067160]
+Holy Symbol
+
+[program.1067184]
+A charm that eases or stops freezing.
+Guarding may freeze the foe too.
+
+[program.1067248]
+Freeze Check
+
+[program.1067272]
+A charm that eases or stops slowness.
+Guarding may slow the foe too.
+
+[program.1067344]
+Drain Check
+
+[program.1067368]
+A charm that eases or stops numbness.
+Guarding may numb the foe too.
+
+[program.1067432]
+Paralyze Check
+
+[program.1067456]
+A charm that eases or stops poison.
+Guarding may poison the foe too.
+
+[program.1067520]
+Poison Check
+
+[program.1067544]
+Ring of skill.
+Raises the odds of getting items.
+
+[program.1067592]
+Technical Ring
+
+[program.1067616]
+A ring whose odd moves confuse foes.
+Raises the hit rate.
+
+[program.1067664]
+Trickster
+
+[program.1067680]
+Ring of protection.
+Shortens staggers.
+
+[program.1067720]
+Protect Ring
+
+[program.1067744]
+Ring of reflection.
+May reflect damage taken.
+
+[program.1067792]
+Reflect Ring
+
+[program.1067816]
+Ring of resistance.
+Cuts all damage a little.
+
+[program.1067856]
+Resist Ring
+
+[program.1067872]
+Ring of force.
+SP recovers when guarding.
+
+[program.1067904]
+Force Ring
+
+[program.1067920]
+A ring that calms and steadies you.
+Raises TP regen.
+
+[program.1067968]
+Mental Ring
+
+[program.1067984]
+A ring made by fairy hands.
+Raises TP saving.
+
+[program.1068040]
+Fairy Ring
+
+[program.1068064]
+An emerald ring.
+Raises TP saving.
+
+[program.1068096]
+Emerald Ring
+
+[program.1068120]
+Bangle of the mind.
+TP recovers when a foe falls.
+
+[program.1068152]
+Mental Bangle
+
+[program.1068176]
+Bangle of healing.
+HP recovers when a foe falls.
+
+[program.1068208]
+Heal Bangle
+
+[program.1068224]
+Armlet of hope.
+Keep the sun in your heart!
+
+[program.1068256]
+Fortune Bracelet
+
+[program.1068288]
+Said to mark an emperor.
+One of the Three Sacred Treasures.
+
+[program.1068328]
+Yata Mirror
+
+[program.1068344]
+Gloves that prove the gods' trust.
+Hearts are joined!
+
+[program.1068392]
+Heart to Heart
+
+[program.1068416]
+Gloves of the sage who served the Hero
+King. Called the fingers of sorcery.
+
+[program.1068464]
+Mage Fingers
+
+[program.1068488]
+An armlet blessed by angels.
+Makes e~veryone happy!
+
+[program.1068544]
+Angel Bracelet
+
+[program.1068568]
+An armlet blessed by the stars' shine.
+Be a light in the dark of night.
+
+[program.1068624]
+Star Bracelet
+
+[program.1068648]
+Mark of a pure maiden.
+Wear with the Wedding Dress.
+
+[program.1068696]
+White Gloves
+
+[program.1068720]
+Mithril armlet, harder and lighter
+than steel. A work of dwarven art.
+
+[program.1068776]
+Mithril Bracelet
+
+[program.1068800]
+Cute gloves
+
+
+[program.1068816]
+Cutie Mittens
+
+[program.1068840]
+A diamond armlet.
+A rather lavish luxury.
+
+[program.1068896]
+Diamond Bracelet
+
+[program.1068928]
+Lovely gloves
+
+
+[program.1068944]
+Lovely Mittens
+
+[program.1068960]
+A lapis lazuli armlet.
+Said to warn of ill events ahead.
+
+[program.1069008]
+Lapis Lazuli Bracelet
+
+[program.1069040]
+Pretty gloves
+
+
+[program.1069056]
+Pretty Mittens
+
+[program.1069072]
+A golden armlet.
+Wear with the Gorgeous Mantle.
+
+[program.1069120]
+Gold Bracelet
+
+[program.1069144]
+Kitchen gloves.
+Hot pots are no trouble.
+
+[program.1069176]
+Kitchen Mittens
+
+[program.1069192]
+Gauntlets given by the war god.
+Made for close fighting.
+
+[program.1069240]
+Hand to Hand
+
+[program.1069264]
+Gauntlets said to raise the hit rate.
+Once worn by the hero Gilgames.
+
+[program.1069336]
+Hyper Gauntlets
+
+[program.1069360]
+Gauntlets from a land in the east.
+A sacred tree protects them.
+
+[program.1069408]
+Tamagushi Gauntlets
+
+[program.1069424]
+Gauntlets that resist fire.
+But maybe a bit chilly...
+
+[program.1069472]
+Jack Frost
+
+[program.1069496]
+Gauntlets that guard to the upper arm
+
+
+[program.1069520]
+Vambraces
+
+[program.1069536]
+Gauntlets with a power out of legend,
+named for brothers who wrote old tales.
+
+[program.1069608]
+Grimm Gloves
+
+[program.1069624]
+A matchless work with the soul of
+master Geese in it. Extremely rare.
+
+[program.1069688]
+Rare Gauntlets
+
+[program.1069712]
+Gauntlets blessed by the stars' shine.
+Be a light in the dark of night.
+
+[program.1069768]
+Star Gloves
+
+[program.1069784]
+Gauntlets of plain, graceful make.
+Fine work from an old smithy.
+
+[program.1069832]
+Gothic Gauntlets
+
+[program.1069856]
+Mithril gauntlets, harder and lighter
+than steel. A work of dwarven art.
+
+[program.1069912]
+Mithril Gloves
+
+[program.1069936]
+Gauntlets for battle.
+Made only for swordplay.
+
+[program.1069976]
+Gauntlets
+
+[program.1069992]
+Steel gauntlets.
+But maybe a bit heavy...
+
+[program.1070024]
+Iron Gloves
+
+[program.1070048]
+Guards the wrist with soft cloth.
+Light, and made not to slip.
+
+[program.1070104]
+Fabric Gloves
+
+[program.1070128]
+Gauntlets strengthened with tanned hide
+
+
+[program.1070160]
+Leather Gloves
+
+[program.1070176]
+Guards the wrist a little.
+Sword fights bare-handed are risky.
+
+[program.1070224]
+Gloves
+
+[program.1070240]
+A dagger of rugged looks. Nothing
+wasted, all function: "plain, stout".
+
+[program.1070296]
+Kongo Rakan
+
+[program.1070312]
+A dagger that deals a deathblow
+
+
+[program.1070336]
+Death Stroke
+
+[program.1070352]
+A dagger forged of a mystic metal
+
+
+[program.1070392]
+Orichalcum
+
+[program.1070408]
+A dagger bladed at both ends of the
+hilt. It takes great skill to handle.
+
+[program.1070464]
+Karura
+
+[program.1070472]
+A dagger with a blade like a hatchet
+
+
+[program.1070504]
+Kukri
+
+[program.1070512]
+A dagger forged of special steel
+
+
+[program.1070536]
+Katar
+
+[program.1070552]
+A dagger sharp as a man-eater's tooth
+
+
+[program.1070584]
+Shark Tooth
+
+[program.1070608]
+A dagger that pierces steel plate
+
+
+[program.1070632]
+Mail Breaker
+
+[program.1070656]
+A dagger with brilliant ornament
+
+
+[program.1070688]
+Cinquedea
+
+[program.1070704]
+A dagger made to break a foe's weapon
+
+
+[program.1070744]
+Sword Breaker
+
+[program.1070768]
+A dagger for parrying
+
+
+[program.1070784]
+Parrying Dagger
+
+[program.1070808]
+Dagger of mercy
+
+
+[program.1070824]
+Misericorde
+
+[program.1070840]
+A dagger for the left hand
+
+
+[program.1070856]
+Main Gauche
+
+[program.1070872]
+A slim, sharp dagger
+
+
+[program.1070888]
+Stiletto
+
+[program.1070904]
+A kind of hunting knife
+
+
+[program.1070936]
+Bowie Knife
+
+[program.1070952]
+A dagger whose name means "wound".
+Daggers are used mainly for defense.
+
+[program.1071000]
+Scramasax
+
+[program.1071016]
+A ribbon blessed by the stars' shine.
+It sparkles!
+
+[program.1071072]
+Stardust Stream
+
+[program.1071096]
+An angel's halo.
+Wear with the Heavenly Garb.
+
+[program.1071144]
+Angel Ring
+
+[program.1071168]
+A maiden's hair ornament.
+It takes you back to childhood.
+
+[program.1071208]
+Maidenhair
+
+[program.1071224]
+A headpiece of heatproof glass.
+Hellfire itself won't melt it.
+
+[program.1071272]
+Pyrex
+
+[program.1071288]
+A jolly mask.
+Never without a smile.
+
+[program.1071328]
+Humorous Face
+
+[program.1071352]
+A veil of thick mist.
+The narrowed view is the drawback?
+
+[program.1071400]
+Deep Mist
+
+[program.1071416]
+A hair ornament eastern women wear.
+In short, a kanzashi.
+
+[program.1071464]
+Komachi
+
+[program.1071472]
+A crown of pretty flowers.
+It makes the heart pure.
+
+[program.1071520]
+Garland
+
+[program.1071536]
+A plume with a power out of legend,
+named for brothers who wrote old tales.
+
+[program.1071616]
+Grimm Crest
+
+[program.1071632]
+A hat that nurtures a rich heart.
+A fairy's power dwells in it.
+
+[program.1071688]
+Lyric Beret
+
+[program.1071712]
+A crown of malachite.
+A strange power is hidden in it.
+
+[program.1071760]
+Malachite Crown
+
+[program.1071784]
+A blessed plume.
+A holy power is hidden in it.
+
+[program.1071832]
+Divine Crest
+
+[program.1071856]
+A ruler's tiara.
+Feel like a willful princess.
+
+[program.1071912]
+Dominate Tiara
+
+[program.1071936]
+A crown of majesty.
+Feel like a haughty queen.
+
+[program.1071984]
+Grand Crown
+
+[program.1072008]
+A circlet of plain, graceful make.
+A red-haired warrior woman wore one.
+
+[program.1072072]
+Gothic Circlet
+
+[program.1072096]
+A ribbon blessed by rite.
+Lights the dark and drives off evil.
+
+[program.1072144]
+Blessed Ribbon
+
+[program.1072160]
+A noble veil.
+Feel like a lady of a far land.
+
+[program.1072208]
+Noble Veil
+
+[program.1072232]
+A jeweled crown.
+Decorated for ceremonies.
+
+[program.1072272]
+Tiara
+
+[program.1072288]
+The crown a country's lord wears.
+The mark of the high-born.
+
+[program.1072328]
+Crown
+
+[program.1072344]
+A round headpiece.
+It seems to sharpen the mind...
+
+[program.1072392]
+Circlet
+
+[program.1072408]
+Thin silk that guards the face
+
+
+[program.1072432]
+Veil
+
+[program.1072448]
+A plume of pure white feathers.
+Beauty comes first!
+
+[program.1072496]
+Crest
+
+[program.1072512]
+A green hat.
+Feel like a painter.
+
+[program.1072544]
+Beret
+
+[program.1072560]
+A red ribbon.
+Red looks well on black hair.
+
+[program.1072600]
+Ribbon
+
+[program.1072608]
+A dark knight's helm.
+People may think you gloomy?
+
+[program.1072656]
+Desperado
+
+[program.1072672]
+Golden Helm
+
+[program.1072696]
+A helm named for the wild man of the
+east who slew the eight-headed serpent.
+
+[program.1072752]
+Susanoo's Helm
+
+[program.1072768]
+The helm of an ambitious general.
+It overawes the foe.
+
+[program.1072824]
+Envisage
+
+[program.1072840]
+A crown ancient states gave the brave.
+The mark of an honored warrior!
+
+[program.1072904]
+Laurel
+
+[program.1072920]
+The head of a suit of parade armor
+
+
+[program.1072944]
+Maximilian
+
+[program.1072960]
+A stout helm used by the special units
+that dig in on enemy ground.
+
+[program.1073008]
+Bridgehead
+
+[program.1073024]
+A helm named for the Redbeard king
+
+
+[program.1073048]
+Barbute
+
+[program.1073064]
+A helm with a power out of legend,
+named for brothers who wrote old tales.
+
+[program.1073136]
+Grimm Helm
+
+[program.1073152]
+A sallet of malachite.
+A strange power is hidden in it.
+
+[program.1073200]
+Malachite Sallet
+
+[program.1073224]
+A helm of plain, graceful make.
+The height of craftsmanship.
+
+[program.1073264]
+Gothic Helm
+
+[program.1073280]
+A ruler's casque.
+A king's presence overawes all.
+
+[program.1073320]
+Dominate Casque
+
+[program.1073344]
+An armet helm blessed by rite.
+Said to drive off evil.
+
+[program.1073408]
+Blessed Armet
+
+[program.1073432]
+A helm of majesty.
+An old general of yore wore it.
+
+[program.1073472]
+Grand Helm
+
+[program.1073488]
+A noble sallet.
+For you who aspire to chivalry.
+
+[program.1073536]
+Noble Sallet
+
+[program.1073560]
+A casque of frenzy.
+Does wearing it lift the spirits?
+
+[program.1073600]
+Frenzy Casque
+
+[program.1073624]
+A helm as great as its name.
+Horned, and cool with it.
+
+[program.1073672]
+Great Helm
+
+[program.1073688]
+Its poor view was improved for a melee.
+"Melee" means a confused fight.
+
+[program.1073744]
+Melee Bascinet
+
+[program.1073768]
+Guards the whole head.
+A piece for a proper warrior.
+
+[program.1073816]
+Close Helm
+
+[program.1073832]
+A visor guards the face.
+For those who want theirs hidden?
+
+[program.1073872]
+Armet
+
+[program.1073888]
+It has an eyeshade,
+so glare is no trouble.
+
+[program.1073936]
+Bascinet
+
+[program.1073952]
+A steel helm.
+A must for fighting adventurers!
+
+[program.1073984]
+Sallet
+
+[program.1074000]
+Guards the whole head.
+Makes you a little hard-headed.
+
+[program.1074040]
+Casque
+
+[program.1074048]
+A light helm of leather.
+Very cheap.
+
+[program.1074088]
+Leather Helm
+
+[program.1074104]
+Green light armor a valkyrie blessed.
+Adventure and legend await too.
+
+[program.1074160]
+Valkyrie's Armor
+
+[program.1074184]
+A mystic robe named for heaven.
+Is it true it has no seams?
+
+[program.1074240]
+Heavenly Garb
+
+[program.1074264]
+The dress of an eastern priestess.
+In short, a shrine maiden's robes.
+
+[program.1074320]
+Kannagi Garb
+
+[program.1074336]
+Light wear for farm work and such.
+Resists earth.
+
+[program.1074376]
+Country Wear
+
+[program.1074400]
+Keeps you warm even when soaked.
+Resists water.
+
+[program.1074456]
+Wetsuit
+
+[program.1074472]
+A jacket against wind and cold.
+Resists wind.
+
+[program.1074520]
+Windbreaker
+
+[program.1074544]
+A skirt patterned with leaping flame.
+Resists fire.
+
+[program.1074600]
+Flare Skirt
+
+[program.1074616]
+Once a seaman's dress, they say.
+In short, a sailor suit.
+
+[program.1074672]
+Middy Blouse
+
+[program.1074688]
+Red by rule?
+Steep yourself in 4,000 years.
+
+[program.1074728]
+China Dress
+
+[program.1074744]
+White by rule?
+Feel like a bride.
+
+[program.1074776]
+Wedding Dress
+
+[program.1074800]
+A black dress.
+Feel like a witch.
+
+[program.1074832]
+Witch Dress
+
+[program.1074848]
+Protective wear of flowered cloth.
+Feel the air of far lands.
+
+[program.1074888]
+Sarasa
+
+[program.1074896]
+A one-piece outfit that hugs the skin.
+It sets off a woman's beauty.
+
+[program.1074968]
+Bodysuit
+
+[program.1074984]
+Formal wear for evening parties.
+Feel like a lady.
+
+[program.1075024]
+Cocktail Dress
+
+[program.1075040]
+Wrapped about the waist like a skirt.
+Folk dress of the South Sea isles.
+
+[program.1075104]
+Pareo
+
+[program.1075112]
+Clothes knitted of a special yarn.
+Snug and warm.
+
+[program.1075168]
+Knitwear
+
+[program.1075184]
+A slender formal dress.
+Hard to believe, but it's for battle.
+
+[program.1075232]
+Sheath Dress
+
+[program.1075248]
+Protective wear of mesh.
+Strong support for women who fight!
+
+[program.1075296]
+Mesh Armor
+
+[program.1075320]
+A lady's skirt cut like trousers.
+Easy movement comes first!
+
+[program.1075368]
+Culottes
+
+[program.1075384]
+A decorated formal dress.
+Looks come first!
+
+[program.1075424]
+Fancy Dress
+
+[program.1075448]
+Protective wear of quilting.
+Made to stand up to battle.
+
+[program.1075496]
+Quilted Armor
+
+[program.1075512]
+Clothing made of fine cloth.
+Very hard-wearing.
+
+[program.1075560]
+Tunic
+
+[program.1075576]
+In short, a maid's outfit.
+Easier to move in than it looks.
+
+[program.1075632]
+Apron Dress
+
+[program.1075648]
+The vestment of those in holy orders.
+It's the heart that counts.
+
+[program.1075704]
+Robe
+
+[program.1075712]
+Clothing in wide common use.
+Sadly, not made for battle.
+
+[program.1075776]
+Cloak
+
+[program.1075792]
+Armor loved by knights off to holy war.
+The power of faith guards it.
+
+[program.1075856]
+Last Crusader
+
+[program.1075880]
+Owned by Gilgames,
+hero of the Ishtar legend.
+
+[program.1075928]
+Gold Armor
+
+[program.1075952]
+Armor holding a foreign god's spirit.
+It dodges attacks unawares.
+
+[program.1076008]
+Amaterasu's Spirit
+
+[program.1076032]
+Armor under the earth mother Martel's
+guard. A holy aura wraps it.
+
+[program.1076096]
+Mumbane
+
+[program.1076112]
+A belt whose magic doubles strength.
+Said to belong to the thunder god.
+
+[program.1076168]
+Megingjord
+
+[program.1076184]
+Armor that reflects attacks. Science
+of the War of Heaven and Earth at work.
+
+[program.1076232]
+Reflex
+
+[program.1076248]
+Battle dress with tough plating.
+Somebody's prototype, in fact?
+
+[program.1076296]
+Battle Suit
+
+[program.1076312]
+Named for soldiers' guardian god.
+Praised as armor that always returns.
+
+[program.1076376]
+Schlachtfeld
+
+[program.1076400]
+A nameless smith's matchless work.
+Some say dwarven hands made it.
+
+[program.1076464]
+Masterpiece
+
+[program.1076480]
+Armor with a power out of legend,
+named for brothers who wrote old tales.
+
+[program.1076552]
+Grimm Plate
+
+[program.1076568]
+Stout armor they call a fortress.
+An iron wall of a defense, truly.
+
+[program.1076624]
+Fortress
+
+[program.1076640]
+Armor guarded even at its joints.
+Hard, sturdy... heavy, though...
+
+[program.1076704]
+Full Plate
+
+[program.1076720]
+Armor of plain, graceful make.
+A solid, weighty defense.
+
+[program.1076768]
+Gothic Plate
+
+[program.1076792]
+Chain mail of a special metal thread.
+A certain hobbit wore one, they say.
+
+[program.1076864]
+Hauberk
+
+[program.1076880]
+Armor of majesty.
+It would suit the Hero King.
+
+[program.1076920]
+Grand Plate
+
+[program.1076944]
+Armor that plates the whole body.
+Say "armor" and this is it!
+
+[program.1076992]
+Plate Mail
+
+[program.1077008]
+Armor made of steel plate.
+On the light side, for plate.
+
+[program.1077056]
+Field Plate
+
+[program.1077080]
+Armor that plates the upper body.
+On the cheap side, for plate.
+
+[program.1077136]
+Breastplate
+
+[program.1077160]
+Chain mail strengthened with plates.
+The finest of the light armors.
+
+[program.1077224]
+Splint Mail
+
+[program.1077248]
+Lamellar with more plates for defense.
+It protects very well.
+
+[program.1077312]
+Brigandine
+
+[program.1077328]
+Armor sewn of steel thread.
+Loved by many a warrior.
+
+[program.1077376]
+Chain Mail
+
+[program.1077392]
+Leather armor strengthened with plates.
+Fairly serious armor.
+
+[program.1077432]
+Lamellar
+
+[program.1077448]
+Armor of plates sewn like scales.
+The least you'd want for battle.
+
+[program.1077512]
+Scale Mail
+
+[program.1077528]
+Armor of metal rings sewn together.
+Good value for money.
+
+[program.1077584]
+Ring Mail
+
+[program.1077600]
+Leather armor.
+A beginner adventurer's basics?
+
+[program.1077632]
+Leather Armor
+
+[program.1077648]
+A holy bow that fires cleansing flame.
+Quick to shoot.
+
+[program.1077688]
+Eden's Fire
+
+[program.1077712]
+A life is like the twinkle of a star.
+Or rather, this bow makes it so.
+
+[program.1077784]
+Celestial Star
+
+[program.1077808]
+A magic bow with dark power.
+Steals TP from foes.
+
+[program.1077848]
+Soul Steal
+
+[program.1077872]
+When this bow spits fire,
+the land becomes a burnt waste.
+
+[program.1077920]
+Greek Fire
+
+[program.1077944]
+A demon-quelling bow an eastern hero
+is said to have slain beasts with.
+
+[program.1077992]
+Hama Bow
+
+[program.1078008]
+Its force is as fearsome
+as a fire dragon's breath.
+
+[program.1078056]
+Salamander Breath
+
+[program.1078080]
+A holy bow made of a flying holy
+beast's claw. Its strange arrows home.
+
+[program.1078136]
+Griffin's Talon
+
+[program.1078160]
+A bow of legend, called Divine Wind.
+A gem of the War of Heaven and Earth.
+
+[program.1078208]
+Wind Force
+
+[program.1078232]
+A strong bow named for the north wind.
+Fires godspeed arrows.
+
+[program.1078272]
+Boreas
+
+[program.1078288]
+A longbow named for a great eagle of
+legend. Its attack is very high.
+
+[program.1078344]
+Strike Eagle
+
+[program.1078368]
+Called the Shock Wave,
+it fires arrows faster than sound.
+
+[program.1078408]
+Shock Wave
+
+[program.1078432]
+Its arrows fly leaving seven-hued
+trails. Not just for after the rain.
+
+[program.1078496]
+Rainbow
+
+[program.1078512]
+A bow that kills with poison arrows.
+Many a warrior died at once, they say.
+
+[program.1078568]
+Scarlet Needle
+
+[program.1078592]
+A famed bow made by H. Focke, said to
+have been loved by the ace G. Wulf.
+
+[program.1078656]
+Focke-Wulf
+
+[program.1078672]
+A magic bow that fires hellfire.
+Steel armor melts with ease.
+
+[program.1078720]
+Hellfire
+
+[program.1078736]
+A bow with a power out of legend,
+named for brothers who wrote old tales.
+
+[program.1078808]
+Grimm Bow
+
+[program.1078824]
+An armor-piercing longbow.
+It looks fit to sink warships.
+
+[program.1078864]
+Torpedo
+
+[program.1078880]
+A longbow of plain, graceful make.
+A lovely bow refined in real battle.
+
+[program.1078928]
+Gothic Bow
+
+[program.1078944]
+A short bow on full automatic.
+The arrows it gets through...
+
+[program.1078984]
+Spread
+
+[program.1079000]
+A short bow that shoots fast.
+The one for quick draws!
+
+[program.1079040]
+Rapid Bow
+
+[program.1079056]
+A siege bow for war.
+Pierces even thick castle gates.
+
+[program.1079096]
+Siege Bow
+
+[program.1079112]
+Standard issue of Phandaria's Royal
+Guards. Users are called grenadiers.
+
+[program.1079184]
+Grenade
+
+[program.1079200]
+A strong bow made for war.
+Used mainly by royal castle guards.
+
+[program.1079256]
+War Bow
+
+[program.1079272]
+A longbow with a scope.
+Allows precise shooting.
+
+[program.1079312]
+Rifle
+
+[program.1079328]
+A handy short bow for battle.
+Common gear of flying columns.
+
+[program.1079384]
+Battle Bow
+
+[program.1079400]
+A composite bow for heavy arrows.
+Pierces even thick armor plate.
+
+[program.1079456]
+Bullet
+
+[program.1079472]
+A bow with more spring.
+It carries farther.
+
+[program.1079512]
+Composite Bow
+
+[program.1079536]
+A bow for hunting.
+Fairly strong for its low price.
+
+[program.1079576]
+Hunter Bow
+
+[program.1079592]
+Thor's hammer.
+Said never to miss.
+
+[program.1079632]
+Mjolnir
+
+[program.1079648]
+The chief god's spear in northern
+myth. Very famous, but...
+
+[program.1079696]
+Gungnir
+
+[program.1079712]
+A shady green one.
+A very shady one indeed.
+
+[program.1079752]
+Sandra's Spear
+
+[program.1079768]
+A battle axe named for the south wind
+
+
+[program.1079792]
+Notus
+
+[program.1079800]
+A magic spear a witch made from a sea
+beast's carcass. It has strange power.
+
+[program.1079856]
+Gae Bolg
+
+[program.1079872]
+A spear of legend, said to deal woe
+
+
+[program.1079912]
+Longinus
+
+[program.1079928]
+A polearm feared as the devil's fang.
+Only foes of God may bear it.
+
+[program.1079992]
+Diabolic Fang
+
+[program.1080016]
+A huge battle axe.
+Called an ancient dragon's tear.
+
+[program.1080048]
+Bahamut's Tear
+
+[program.1080072]
+A long spear of flame born of magma.
+Its point burns hot.
+
+[program.1080128]
+Ignis
+
+[program.1080144]
+The destroyer's battle axe. A gem from
+the day barbarians were thrown back.
+
+[program.1080192]
+Driving Axe
+
+[program.1080216]
+A battle axe from the Third Empire's
+forges. Its science leads the world!
+
+[program.1080272]
+Messerschmitt
+
+[program.1080296]
+Halberd of the knight named Sorrow.
+It bears a certain lady's name.
+
+[program.1080360]
+Isolde
+
+[program.1080376]
+The wind god's halberd.
+Boasts godspeed thrusts.
+
+[program.1080408]
+Arc Wind
+
+[program.1080424]
+A battle axe named for the savage
+grey bear of myth.
+
+[program.1080472]
+Grizzly
+
+[program.1080488]
+The huge axe of the half-bull monster.
+Its size overawes all who see it.
+
+[program.1080552]
+Minotaur
+
+[program.1080568]
+A pile-driving hammer.
+Get hit and... you'd die!
+
+[program.1080608]
+Pile Driver
+
+[program.1080632]
+A two-bladed axe with blades to swap
+
+
+[program.1080664]
+Double Blade
+
+[program.1080680]
+A battle axe that finds its mark.
+Blasts the foe apart.
+
+[program.1080720]
+Tomahawk
+
+[program.1080736]
+Scrub hard and things come clean.
+A hero of old used one, they say.
+
+[program.1080792]
+Deck Brush
+
+[program.1080808]
+A battle axe with a power of legend,
+named for brothers who wrote old tales.
+
+[program.1080880]
+Grimm Axe
+
+[program.1080896]
+Short for "extra pressure".
+No longer a weight a person can...
+
+[program.1080960]
+Express
+
+[program.1080976]
+A battle axe with a huge blade.
+It comes from the butcher's cleaver.
+
+[program.1081016]
+Cleaver
+
+[program.1081032]
+An axe with a huge crescent blade
+
+
+[program.1081064]
+Crescent
+
+[program.1081080]
+A battle axe with a half-moon head
+
+
+[program.1081112]
+Tabar
+
+[program.1081128]
+A battle axe of plain, graceful make.
+It looks fit to cleave thick armor.
+
+[program.1081184]
+Gothic Axe
+
+[program.1081200]
+A hammer with added weight for force.
+A blow from it hurts fiercely.
+
+[program.1081256]
+Basher
+
+[program.1081272]
+A three-pronged spear.
+Famous as the sea god's.
+
+[program.1081304]
+Trident
+
+[program.1081320]
+Spear and battle axe in one weapon.
+The royal guards' main arm.
+
+[program.1081376]
+Halberd
+
+[program.1081392]
+A huge hammer for siege warfare
+
+
+[program.1081416]
+War Hammer
+
+[program.1081432]
+A battle axe.
+Just what it says.
+
+[program.1081456]
+Battle Axe
+
+[program.1081472]
+A winged long spear.
+Common but good.
+
+[program.1081512]
+Corsesca
+
+[program.1081528]
+An axe marked by its broad head
+
+
+[program.1081552]
+Broad Axe
+
+[program.1081568]
+A light battle axe, easy to handle
+
+
+[program.1081592]
+Chakmak
+
+[program.1081608]
+A spear with the features of an axe
+
+
+[program.1081632]
+Guisarme
+
+[program.1081648]
+A long-shafted axe.
+The name says it all.
+
+[program.1081672]
+Poleaxe
+
+[program.1081688]
+Also called the As-You-Will staff.
+It moves freely at its user's will.
+
+[program.1081744]
+Hanuman Shaft
+
+[program.1081768]
+A staff of blue crystal.
+A relic of the legend of Druaga.
+
+[program.1081800]
+Blue Crystal Rod
+
+[program.1081824]
+Staff of the serpent that eats itself.
+What power does sacrifice buy?
+
+[program.1081880]
+Ouroboros
+
+[program.1081896]
+A staff only a genius can use~.
+So says {NAME:06 00 00 00}.
+
+[program.1081928]
+Genius {NAME:06 00 00 00}'s Staff
+
+[program.1081944]
+A staff with two snakes twined on it.
+It has a poison effect.
+
+[program.1081992]
+Caduceus
+
+[program.1082008]
+A scepter named for the east wind. The
+divine wind that saved a land is famed.
+
+[program.1082056]
+Eurus
+
+[program.1082072]
+Gives its wielder knowledge of dark
+lore. A legacy of the dark elves.
+
+[program.1082128]
+Dark Lore
+
+[program.1082144]
+A holy beast's horn.
+It restores HP.
+
+[program.1082176]
+Unicorn Horn
+
+[program.1082200]
+A certain master's odd work. Vicious
+force, but its aim is dreadful.
+
+[program.1082272]
+Soul Crush Wand
+
+[program.1082296]
+An overlord's mace.
+A blow from it hurts a great deal.
+
+[program.1082336]
+Overlord
+
+[program.1082352]
+The wand of the highest judge.
+It passes sentence on the foe.
+
+[program.1082400]
+Merkmal
+
+[program.1082416]
+A wand of wailing.
+Somehow it makes you sad.
+
+[program.1082456]
+Mind Cry
+
+[program.1082472]
+A master cook's right hand.
+For frying hamburgers and such.
+
+[program.1082512]
+Golden Frying Pan
+
+[program.1082528]
+A barbarian chief's staff.
+A blow from it hurts like mad.
+
+[program.1082576]
+Chieftain
+
+[program.1082592]
+A dream-spinning scepter.
+Hit with it and they see stars♪
+
+[program.1082624]
+Dream Flange
+
+[program.1082648]
+A cheerleader's baton.
+Twirl, twirl, twirl~♪
+
+[program.1082688]
+Twirling Stick
+
+[program.1082712]
+A carefree pretty girl's wand.
+It'll work out somehow♪
+
+[program.1082760]
+Que Sera Sera
+
+[program.1082776]
+A master cook's left hand.
+For stirring stews and such.
+
+[program.1082824]
+Silver Ladle
+
+[program.1082840]
+In short, a lollipop.
+So swe~et♪
+
+[program.1082888]
+Lollipop
+
+[program.1082904]
+A scepter that nurtures a rich heart.
+A fairy's power dwells in it.
+
+[program.1082960]
+Lyric Scepter
+
+[program.1082984]
+A wand with a power out of legend,
+named for brothers who wrote old tales.
+
+[program.1083056]
+Grimm Wand
+
+[program.1083072]
+A soothing staff cut from fragrant
+wood. Its scent calms the heart.
+
+[program.1083128]
+Cedar Staff
+
+[program.1083152]
+A mace of malachite.
+A strange power is hidden in it.
+
+[program.1083200]
+Malachite Mace
+
+[program.1083224]
+A blessed staff.
+A holy power is hidden in it.
+
+[program.1083264]
+Divine Rod
+
+[program.1083288]
+A scepter of majesty.
+Did one of the Four Heroes use it?
+
+[program.1083328]
+Grand Scepter
+
+[program.1083352]
+A ruler's wand
+
+
+[program.1083368]
+Dominate Wand
+
+[program.1083392]
+A long, knotty staff.
+Feel like a shepherd.
+
+[program.1083432]
+Gnarled Staff
+
+[program.1083456]
+A mace of plain, graceful make.
+A blow from it hurts quite a lot.
+
+[program.1083504]
+Gothic Mace
+
+[program.1083520]
+A staff of frenzy.
+Wave it and spirits rise.
+
+[program.1083552]
+Frenzy Rod
+
+[program.1083576]
+A scepter.
+Decorated for ceremonies.
+
+[program.1083616]
+Scepter
+
+[program.1083632]
+A wand.
+It seems to sharpen the mind...
+
+[program.1083672]
+Wand
+
+[program.1083680]
+A long staff.
+A companion for a long journey?
+
+[program.1083712]
+Staff
+
+[program.1083728]
+A mace.
+A blow from it hurts a fair bit.
+
+[program.1083760]
+Mace
+
+[program.1083768]
+A plain, common, everyday rod.
+Still, feel a little like a wizard.
+
+[program.1083832]
+Rod
+
+[program.1083840]
+A long sword that sheds a pure light.
+A maiden's crest is cut in it.
+
+[program.1083888]
+Pure Bright
+
+[program.1083904]
+A sword said to bring the world's end.
+Lost in the war of the gods, but...
+
+[program.1083968]
+Laevateinn
+
+[program.1083992]
+A magic sword that calls the storm.
+The sword of a chosen hero.
+
+[program.1084032]
+Stormbringer
+
+[program.1084056]
+A sword said to mark an emperor.
+One of the Three Sacred Treasures.
+
+[program.1084096]
+Ama no Murakumo
+
+[program.1084112]
+The sword of kings, given to the hero
+the lady of the lake approves.
+
+[program.1084160]
+Excalibur
+
+[program.1084176]
+What is won at the far end
+of the way of the sword?
+
+[program.1084216]
+Last Fencer
+
+[program.1084240]
+A famed sword said to have been
+worn by a knight of the Round Table.
+
+[program.1084280]
+Galatine
+
+[program.1084296]
+The holy sword of loyalty, loved by
+a knight who served the Hero King.
+
+[program.1084336]
+Arondight
+
+[program.1084352]
+A famed sword named for mercy.
+An angel's crest is cut in it.
+
+[program.1084400]
+Durandal
+
+[program.1084416]
+A blade from the Land of Sunrise.
+It trails light like lightning.
+
+[program.1084464]
+Shiden
+
+[program.1084472]
+A northern hero's famed sword, told of
+in the tale of the iceberg cut in two.
+
+
+[program.1084528]
+Iceberg
+
+[program.1084544]
+A magic sword forged by fairy hands.
+The sword is said to pick its wielder.
+
+[program.1084600]
+Caladbolg
+
+[program.1084616]
+The sword a hero slew an evil dragon
+with. Cuts scales harder than steel.
+
+[program.1084688]
+Balmung
+
+[program.1084704]
+A ninja's blade, feared as the fang of
+the dark. Fells foes without a sound.
+
+[program.1084752]
+Shadow Fang
+
+[program.1084776]
+A sword cut with runes of victory
+
+
+[program.1084808]
+Rune Blade
+
+[program.1084824]
+A magic sword of ruin, made by the
+science of the War of Heaven and Earth
+
+
+[program.1084872]
+Destroyer
+
+[program.1084888]
+A sword buried in a coffin of ice.
+A blade of everlasting ice.
+
+[program.1084928]
+Ice Coffin
+
+[program.1084944]
+A sword cut from diamond.
+A gate-guarding god dwells in it.
+
+[program.1085000]
+Diamond Edge
+
+[program.1085024]
+A sword with the power to split rock.
+Its blade was cut from crystal.
+
+[program.1085080]
+Hauteclaire
+
+[program.1085096]
+A sharp sword born of a dragon's fang.
+Said to pierce any armor.
+
+[program.1085152]
+Dragon Tooth
+
+[program.1085176]
+A long sword that deals the last blow.
+It slew the ogre of Bemble.
+
+[program.1085232]
+Coup de Grace
+
+[program.1085248]
+A sword of legend, forged at the
+world's making. It holds earth's power.
+
+[program.1085312]
+Earth Link
+
+[program.1085328]
+A sword whose name means hope in the
+tongue of an old western kingdom.
+
+[program.1085368]
+Esperancer
+
+[program.1085384]
+A straight sword with a freezing blade.
+A magic sword of ice and snow.
+
+[program.1085416]
+Vorpal Weapon
+
+[program.1085440]
+Named for the west wind.
+It has a falcon crest.
+
+[program.1085488]
+Zephyrus
+
+[program.1085504]
+A sword cut from the claw of a dragon
+a hero slew in ancient lore.
+
+[program.1085552]
+Fafnir
+
+[program.1085568]
+A long sword with a wavy blade.
+A magic sword of flame.
+
+[program.1085600]
+Flamberge
+
+[program.1085616]
+A sword of honor, once allowed
+only to paladins, they say.
+
+[program.1085664]
+Fame Face
+
+[program.1085688]
+A wind-cutting blade.
+Its slash raises a whirlwind.
+
+[program.1085728]
+Wind Shear
+
+[program.1085744]
+It means great founder.
+Forged by a famous swordsmith.
+
+[program.1085784]
+Grandfather
+
+[program.1085808]
+A long sword with a power of legend,
+named for brothers who wrote old tales.
+
+[program.1085880]
+Grimm Sword
+
+[program.1085896]
+A straight sword with a heavy blade.
+Used among the highland folk.
+
+[program.1085944]
+Claymore
+
+[program.1085960]
+A great curved sword.
+Its name means lion's tail.
+
+[program.1086008]
+Shamshir
+
+[program.1086024]
+A saber made more powerful.
+It was given its inventor's name.
+
+[program.1086080]
+Sinclair
+
+[program.1086096]
+A sword with a blade curved like a
+sickle. Extremely deadly.
+
+[program.1086152]
+Falx
+
+[program.1086168]
+A long sword of plain, graceful make.
+Of high value as art, too.
+
+[program.1086216]
+Gothic Sword
+
+[program.1086232]
+Called a crescent blade; thick-bladed.
+Somehow it has an ethnic air.
+
+[program.1086296]
+Falchion
+
+[program.1086312]
+Excellent as a charging sword.
+Small to look at, but powerful.
+
+[program.1086360]
+Baselard
+
+[program.1086376]
+A curved sword famed as the crescent
+blade. Savor the air of far lands.
+
+[program.1086424]
+Scimitar
+
+[program.1086440]
+A curved long sword.
+A favorite of sailors.
+
+[program.1086472]
+Cutlass
+
+[program.1086488]
+A straight sword fit for slashing.
+Known as the cavalry's basic arm.
+
+[program.1086536]
+Saber
+
+[program.1086552]
+A broad long sword made for war.
+Its attack is high.
+
+[program.1086592]
+Broadsword
+
+[program.1086608]
+A keen-edged long sword.
+Well balanced.
+
+[program.1086640]
+Blade
+
+[program.1086656]
+A sword used in massed battle.
+Refined by many improvements.
+
+[program.1086712]
+Gladius
+
+[program.1086728]
+A slender long sword.
+Elegant to look at, hard to handle.
+
+[program.1086768]
+Rapier
+
+[program.1086784]
+A long, powerful sword. Wield it
+freely and you've come of age.
+
+[program.1086832]
+Long Sword
+
+[program.1086848]
+A knife suited to meat.
+Overall aptitude +5 only while used.
+
+[program.1086904]
+Chef's Knife
+
+[program.1086920]
+A knife suited to vegetables.
+Overall aptitude +5 only while used.
+
+[program.1086976]
+Nakiri Knife
+
+[program.1086992]
+A knife suited to every ingredient.
+Overall aptitude +7 only while used.
+
+[program.1087048]
+Santoku Knife
+
+[program.1087064]
+A knife suited to fish.
+Overall aptitude +5 only while used.
+
+[program.1087120]
+Yanagiba Knife
+
+[program.1087136]
+A frying pan that conducts heat well.
+Overall aptitude +7 only while used.
+
+[program.1087184]
+Copper Frying Pan
+
+[program.1087200]
+A costly pan, fine at conducting heat.
+Overall aptitude +4 only while used.
+
+[program.1087256]
+Titanium Frying Pan
+
+[program.1087280]
+A frying pan that heats unevenly.
+Overall aptitude +1 only while used.
+
+[program.1087336]
+Stainless Frying Pan
+
+[program.1087360]
+A sturdy pan that holds its heat.
+Overall aptitude +3 only while used.
+
+[program.1087416]
+Iron Frying Pan
+
+[program.1087432]
+A pot that conducts heat well.
+Overall aptitude +7 only while used.
+
+[program.1087480]
+Copper Pot
+
+[program.1087488]
+The pot no hot-pot dish can do without.
+Overall aptitude +4 only while used.
+
+[program.1087544]
+Clay Pot
+
+[program.1087552]
+A sturdy pot that holds its heat.
+Overall aptitude +3 only while used.
+
+[program.1087600]
+Iron Pot
+
+[program.1087608]
+A cheap pot that holds heat well.
+Overall aptitude +1 only while used.
+
+[program.1087656]
+Enamel Pot
+
+[program.1087672]
+A lump of milk fat.
+Spread it thick on bread and eat.
+
+[program.1087720]
+Butter
+
+[program.1087728]
+A preserved food made from soybeans.
+Most often eaten as soup.
+
+[program.1087776]
+Miso
+
+[program.1087784]
+Kneaded wheat flour, baked.
+Fresh from the oven, always, somehow.
+
+[program.1087840]
+Bread
+
+[program.1087856]
+Flour worked with water or egg.
+It comes in many shapes.
+
+[program.1087904]
+Pasta
+
+[program.1087912]
+A soft white food made from soybeans.
+Its name is written "rotten bean".
+
+[program.1087960]
+Tofu
+
+[program.1087968]
+A high-protein food used in many
+dishes. Offspring of the chicken.
+
+[program.1088016]
+Egg
+
+[program.1088024]
+A grain eaten boiled. Think of the
+farmer's eighty-eight labors.
+
+[program.1088080]
+Rice
+
+[program.1088088]
+Milk from a cow.
+A white, nourishing drink.
+
+[program.1088128]
+Milk
+
+[program.1088136]
+Fermented milk.
+It cleans out stomach and bowels.
+
+[program.1088184]
+Yogurt
+
+[program.1088200]
+Ripened milk.
+Nourishing and healthy.
+
+[program.1088248]
+Cheese
+
+[program.1088256]
+A red, round, sweet-and-sour fruit.
+Make it into apple pie, maybe?
+
+[program.1088312]
+Apple
+
+[program.1088320]
+Long, thick and curved.
+Peel the yellow skin and eat.
+
+[program.1088368]
+Banana
+
+[program.1088376]
+A yellow fruit rich in tang and scent.
+Full of vitamin C.
+
+[program.1088432]
+Lemon
+
+[program.1088440]
+Ready when the small fruit ripens red.
+Also tasty stewed into jam.
+
+[program.1088496]
+Strawberry
+
+[program.1088504]
+A strange, brown, hairy fruit.
+Said to be named after a bird.
+
+[program.1088568]
+Kiwi
+
+[program.1088576]
+Eaten raw or pickled. It smells of
+gourd, so many dislike it?
+
+[program.1088640]
+Cucumber
+
+[program.1088656]
+The royal road of salad.
+Its crisp crunch is a pleasure.
+
+[program.1088704]
+Lettuce
+
+[program.1088712]
+Eaten raw or made into juice.
+Rich in lycopene.
+
+[program.1088760]
+Tomato
+
+[program.1088768]
+A long, thick white root vegetable.
+Tasty when stewed.
+
+[program.1088816]
+Radish
+
+[program.1088832]
+A strange vegetable, its leaves rolled
+in a ball. Shred it and eat it raw.
+
+[program.1088888]
+Cabbage
+
+[program.1088904]
+Its smell is like no other.
+Cut it and the tears just...
+
+[program.1088952]
+Onion
+
+[program.1088968]
+Rich in carotene; rabbits love it.
+In an eastern tongue, "ninjin".
+
+[program.1089032]
+Carrot
+
+[program.1089048]
+Eaten boiled, baked or fried.
+Rich in starch.
+
+[program.1089104]
+Potato
+
+[program.1089120]
+A very tasty, high-class fish.
+It can be made into a gel.
+
+[program.1089152]
+Tuna
+
+[program.1089160]
+A red fish eaten on happy occasions.
+And that's no pun!
+
+[program.1089208]
+Sea Bream
+
+[program.1089216]
+A strange fish that comes home from
+sea to river in autumn. Bears love it.
+
+[program.1089272]
+Salmon
+
+[program.1089280]
+A cheap food fish.
+Sometimes dried on skewers.
+
+[program.1089320]
+Sardine
+
+[program.1089328]
+Seafood eaten fried and so on.
+Used to catch sea bream, too?
+
+[program.1089384]
+Shrimp
+
+[program.1089392]
+An eight-legged sea creature. Rarely,
+it attacks people down a well.
+
+[program.1089440]
+Octopus
+
+[program.1089448]
+A ten-legged creature of the sea.
+Sometimes dried and eaten.
+
+[program.1089496]
+Squid
+
+[program.1089504]
+Marbled.
+The very finest marbled meat.
+
+[program.1089536]
+Marbled Meat
+
+[program.1089552]
+Cheap meat.
+Not that it tastes bad.
+
+[program.1089584]
+Sinewy Meat
+
+[program.1089600]
+A trading card.
+Swap it somewhere for a slot item.
+
+[program.1089656]
+Trading Card
+
+[program.1089664]
+Johnny's instrument
+
+
+[program.1089680]
+Johnny's Instrument
+
+[program.1089696]
+This is the Golden Seed! One drop of
+water grows it; it feeds a hundred.
+
+[program.1089752]
+Golden Seed
+
+[program.1089768]
+A seed made by selective breeding.
+Breed it further and...
+
+[program.1089816]
+Charac Seed
+
+[program.1089832]
+A seed made by selective breeding.
+Breed it further for a Charac Seed.
+
+[program.1089896]
+Oriola Seed
+
+[program.1089912]
+A seed made by selective breeding.
+Breed it further for an Oriola Seed.
+
+[program.1089976]
+Penpen Seed
+
+[program.1089992]
+A seed made by selective breeding.
+Breed it further for a Penpen Seed.
+
+[program.1090056]
+Dolgenia Seed
+
+[program.1090072]
+A seed made by selective breeding.
+Breed it further for a Dolgenia Seed.
+
+[program.1090136]
+Ranakeal Seed
+
+[program.1090152]
+A seed made by selective breeding.
+Breed it further for a Ranakeal Seed.
+
+[program.1090216]
+Estema Seed
+
+[program.1090232]
+The seed of a common crop.
+Widely grown.
+
+[program.1090272]
+Pompom Seed
+
+[program.1090288]
+An unknown ore of great hidden power.
+Makes arms and armor; hard to work.
+
+[program.1090352]
+Berselium
+
+[program.1090368]
+Black Coral
+
+[program.1090392]
+Black Pearl
+
+[program.1090408]
+An unlucky gem said to bring woe.
+Use it in a certain place and...?
+
+[program.1090464]
+Black Diamond
+
+[program.1090480]
+A carpenter's tool.
+A must for shaving timber.
+
+[program.1090528]
+Plane
+
+[program.1090536]
+A carpenter's tool.
+A must for cutting timber.
+
+[program.1090584]
+Saw
+
+[program.1090600]
+A carpenter's tool.
+A must for driving nails.
+
+[program.1090648]
+Hammer
+
+[program.1090664]
+A tool for digging wells
+
+
+[program.1090688]
+Pickaxe
+
+[program.1090704]
+A tool for clearing snow
+
+
+[program.1090728]
+Shovel
+
+[program.1090744]
+Gene Chip
+
+[program.1090760]
+Cell Chip
+
+[program.1090776]
+A code device for opening containers.
+All three kinds of chip are needed.
+
+[program.1090848]
+Bio Chip
+
+[program.1090864]
+Key to the Supply Depot.
+It undoes all sorts of locks.
+
+[program.1090904]
+Master Key
+
+[program.1090920]
+The Bio Key's twin. A sudden change
+of temperature destroys it.
+
+[program.1090968]
+Cell Key
+
+[program.1090984]
+The Cell Key's twin. A sudden change
+of temperature destroys it.
+
+[program.1091032]
+Bio Key
+
+[program.1091048]
+Scans the surroundings.
+Each use costs three lenses.
+
+[program.1091104]
+Sorcerer's Scope
+
+[program.1091128]
+Plant it in soil and it should grow
+
+
+[program.1091152]
+Sapling
+
+[program.1091160]
+Also called a lucky cat.
+Said to beckon good fortune.
+
+[program.1091200]
+Beckoning Cat
+
+[program.1091216]
+Put it in a hearth to light a fire
+
+
+[program.1091256]
+Charcoal
+
+[program.1091264]
+A piece of the emblem split in five
+
+
+[program.1091296]
+Fragment
+
+[program.1091304]
+A worn rope a thousand years old.
+It looks ready to snap. A bit scary.
+
+[program.1091352]
+Rope
+
+[program.1091360]
+Collect a stamp on every sea route.
+Get them all and win a prize.
+
+[program.1091416]
+Stamp Card
+
+[program.1091432]
+{05:40 01 00 00}{09:2C 00 00 00}{05:80 00 00 00} {05:00 01 00 00}fires a heat ray.
+Each use costs one lens.
+
+[program.1091504]
+Sorcerer's Ring
+
+[program.1091528]
+The book no quiz lover can do without.
+Can you answer them all?
+
+[program.1091584]
+Quiz Book
+
+[program.1091600]
+A strange map of the world.
+It tells you about places everywhere.
+
+[program.1091656]
+World Map
+
+[program.1091672]
+The catalogue no item collector can do
+without. Have you missed any?
+
+[program.1091736]
+Collector's Book
+
+[program.1091752]
+A book showing foes' looks and data.
+Aim to complete it!
+
+[program.1091808]
+Monster Book
+
+[program.1091824]
+A strange lipstick you can use over
+and over. Shop goods are ?0% off.
+
+[program.1091880]
+Magical Rouge
+
+[program.1091904]
+A gamble of an item: no telling
+what jumps out when the lid comes off.
+
+[program.1091960]
+Magical Pot
+
+[program.1091976]
+A magic orb that lets you
+adjust the encounter rate.
+
+[program.1092016]
+Scout Orb
+
+[program.1092032]
+A scale of the rare beast Basilisk.
+Cures every ailment but KO and
+fully restores HP and TP.
+
+[program.1092112]
+Basilisk Scale
+
+[program.1092128]
+A bottle of sealed evil air.
+Raises the encounter rate.
+
+[program.1092168]
+Dark Bottle
+
+[program.1092184]
+A bottle of sealed holy air.
+Lowers the encounter rate.
+
+[program.1092224]
+Holy Bottle
+
+[program.1092240]
+A kind of herb.
+Evasion rises by 2.
+
+[program.1092272]
+Red Saffron
+
+[program.1092288]
+A kind of herb.
+Aim rises by 2.
+
+[program.1092320]
+Red Rosemary
+
+[program.1092344]
+A kind of herb.
+TP saving rises by 3.
+
+[program.1092376]
+Red Chamomile
+
+[program.1092400]
+A kind of herb.
+Defense rises by 2.
+
+[program.1092432]
+Red Verbena
+
+[program.1092456]
+A kind of herb.
+Attack rises by 2.
+
+[program.1092488]
+Red Lavender
+
+[program.1092512]
+A kind of herb.
+Max HP rises by 6%.
+
+[program.1092544]
+Red Sage
+
+[program.1092560]
+A kind of herb.
+TP regen rises by 3.
+
+[program.1092592]
+Red Savory
+
+[program.1092608]
+A kind of herb.
+Evasion rises by 1.
+
+[program.1092640]
+Saffron
+
+[program.1092656]
+A kind of herb.
+Aim rises by 1.
+
+[program.1092688]
+Rosemary
+
+[program.1092704]
+A kind of herb.
+TP saving rises by 2.
+
+[program.1092736]
+Chamomile
+
+[program.1092752]
+A kind of herb.
+Defense rises by 1.
+
+[program.1092784]
+Verbena
+
+[program.1092800]
+A kind of herb.
+Attack rises by 1.
+
+[program.1092832]
+Lavender
+
+[program.1092848]
+A kind of herb.
+Max HP rises by 3%.
+
+[program.1092880]
+Sage
+
+[program.1092888]
+A kind of herb.
+TP regen rises by 2.
+
+[program.1092920]
+Savory
+
+[program.1092936]
+A suspicious potion.
+It has the effect of changing items.
+
+[program.1092984]
+Rune Bottle
+
+[program.1093000]
+A strange potion that maxes your charm.
+Shop goods are half price.
+
+[program.1093056]
+Miracle Charm
+
+[program.1093080]
+A strange potion that raises your
+charm. Shop goods are 30% off.
+
+[program.1093136]
+Charm Bottle
+
+[program.1093152]
+In battle, halves all damage, to foe
+and friend alike. Timing is the key.
+
+[program.1093224]
+All-Divide
+
+[program.1093248]
+A strange hourglass. Stops the foes'
+movement for a time in battle.
+
+[program.1093304]
+Hourglass
+
+[program.1093320]
+A strange lens. Shows a foe's HP,
+weak elements and so on.
+
+[program.1093376]
+Spectacles
+
+[program.1093392]
+Prevents poison, weakness, numbness,
+slowness and freezing. Attack and
+Mind fall while it lasts.
+
+[program.1093456]
+Liqueur Bottle
+
+[program.1093480]
+A potion: for a time in battle, attack
+rises and SP regen falls.
+
+[program.1093536]
+Flare Bottle
+
+[program.1093552]
+A tasty gel made from tuna broth.
+In battle the aftertaste works and
+HP recovers little by little.
+
+[program.1093624]
+Tuna Gel
+
+[program.1093640]
+A potion of miracles. Fully restores
+HP and TP, and cures KO as well.
+
+[program.1093688]
+Elixir
+
+[program.1093704]
+A cure-all. Cures poison, weakness,
+numbness, slowness and freezing.
+
+[program.1093768]
+Panacea Bottle
+
+[program.1093792]
+Water of life.
+Cures KO.
+
+[program.1093816]
+Life Bottle
+
+[program.1093832]
+A jellied medicine.
+Restores 60% of max HP and TP.
+
+[program.1093880]
+Miracle Gel
+
+[program.1093896]
+A jellied medicine.
+Restores 60% of max TP.
+
+[program.1093936]
+Pine Gel
+
+[program.1093952]
+A jellied medicine.
+Restores 60% of max HP.
+
+[program.1093992]
+Lemon Gel
+
+[program.1094008]
+A jellied medicine.
+Restores 30% of max HP and TP.
+
+[program.1094056]
+Mix Gel
+
+[program.1094072]
+A jellied medicine.
+Restores 30% of max TP.
+
+[program.1094112]
+Orange Gel
+
+[program.1094128]
+A jellied medicine.
+Restores 30% of max HP.
+
+[program.1094168]
+Apple Gel
+
+[program.1094184]
+Item description
+
+[program.1094208]
+Bascinet
+
+[program.1094224]
+Helm
+
+[program.1094232]
+Wear
+
+[program.1094240]
+Suit
+
+[program.1094248]
+Dress
+
+[program.1094256]
+Mesh
+
+[program.1094272]
+Quilt
+
+[program.1094280]
+Plate
+
+[program.1094296]
+Breast
+
+[program.1094312]
+Chain
+
+[program.1094328]
+Mail
+
+[program.1094336]
+Leather
+
+[program.1094344]
+Composite
+
+[program.1094360]
+Hammer
+
+[program.1094376]
+Axe
+
+[program.1094384]
+Talwar
+
+[program.1094400]
+Kris
+
+[program.1094408]
+Sword
+
+[program.1094424]
+A cool, COOL pilot!
+COOL FLYING!
+Yahoo! Bobsleigh! (?)
+
+[program.1094520]
+Cool Pilot
+
+[program.1094544]
+Why play a game that wears out the nerves?
+It's play: why wear your nerves out on it?
+A stiff name, anyway. Concentration King.
+
+[program.1094672]
+Concentration King
+
+[program.1094688]
+King of tag, that is: the Ogre King!
+{NAME:01 00 00 00} was the one running, but: Ogre King!
+A fierce name, anyway! Ogre King!
+
+[program.1094792]
+Ogre King
+
+[program.1094800]
+So it was you...
+You, the one I was searching for...
+My hero...
+
+[program.1094880]
+{NAME:02 00 00 00}'s Hero
+
+[program.1094896]
+Not quite normal, is it...
+
+[program.1094928]
+Ultra Genius Sushi Master
+
+[program.1094952]
+Born Sushi Lady
+
+[program.1094976]
+Born Sushi Mask
+
+[program.1094992]
+Born Sushi Chef
+
+[program.1095008]
+Born Sushi Girl
+
+[program.1095024]
+A true calling!
+Why not master this instead of fighting?
+
+[program.1095072]
+Born Sushi Boy
+
+[program.1095088]
+Superhuman serving with a genius's memory!
+For a genius, this difficulty is a given.
+
+[program.1095152]
+Superhuman Genius Server
+
+[program.1095176]
+Memory and light footwork!
+The sight of {NAME:05 00 00 00} darting round the shop
+leaves the customers quite charmed...
+
+[program.1095264]
+Lovely Waitress
+
+[program.1095288]
+Memory and light footwork!
+The sight of {NAME:04 00 00 00} darting round the shop
+leaves the customers quite charmed...
+
+[program.1095376]
+Great Waiter
+
+[program.1095400]
+Memory and light footwork!
+The sight of {NAME:03 00 00 00} darting round the shop
+leaves the customers quite charmed...
+
+[program.1095488]
+Heartthrob Waiter
+
+[program.1095512]
+Memory and light footwork!
+The sight of {NAME:02 00 00 00} darting round the shop
+leaves the customers quite charmed...
+
+[program.1095600]
+Cutie Waitress
+
+[program.1095624]
+Memory and light footwork!
+The sight of {NAME:01 00 00 00} darting round the shop
+leaves the customers quite charmed...
+
+[program.1095712]
+Best Waiter
+
+[program.1095736]
+Killer serving with a genius's memory!
+Hey, killing is going too far!
+
+[program.1095792]
+Killer Genius Server
+
+[program.1095816]
+Pretty Waitress
+
+[program.1095840]
+Cool Waiter
+
+[program.1095864]
+Good Waiter
+
+[program.1095888]
+Smile Waitress
+
+[program.1095912]
+An outstanding memory!
+Quick service leaves customers all smiles!
+
+[program.1095968]
+Nice Waiter
+
+[program.1095992]
+Wits, reflexes, and the luck of the day!
+Truly, Quiz {05:D0 00 00 00}Na{05:C0 00 00 00}ga{05:B0 00 00 00}shi{05:A0 00 00 00}ma...
+{05:00 01 00 00}I mean... Mister Quiz {NAME:01 00 00 00}!
+
+[program.1096104]
+Mister Quiz
+
+[program.1096120]
+Wits, reflexes, and the luck of the day!
+Truly, the Quiz King, {NAME:01 00 00 00}!
+
+[program.1096176]
+Quiz King
+
+[program.1096192]
+"Fly~, fly~☆ Rocke~t♪"
+A pitch all her own, a voice all her own!
+A genius really is a cut apart!
+
+[program.1096288]
+Brainy Beauty of Odd Pitch
+
+[program.1096312]
+An amazing HACKER!
+"Yellow foe's black" is beside the point.
+
+[program.1096360]
+Super Hacker
+
+[program.1096384]
+The curry speaks to you...
+G-good! Too good!
+
+[program.1096440]
+Mabo Curry Lover
+
+[program.1096464]
+Being turned down a lot just proves
+how many times you tried.
+Let's stay positive!
+
+[program.1096568]
+Turned-Down Man
+
+[program.1096584]
+Loves boxes♪ Boxlovsky♪
+
+[program.1096616]
+Container Master
+
+[program.1096640]
+The champion among champions.
+Champ of champs.
+
+[program.1096704]
+Grand Champion
+
+[program.1096728]
+Him and me: the power of friendship!
+Power joined to power: a hundredfold!
+(Strange arithmetic.)
+
+[program.1096808]
+Tag Champion
+
+[program.1096832]
+You won at the arena!
+You, yes, you are the champion!
+
+[program.1096888]
+Champion
+
+[program.1096936]
+Great Golden Victory
+Super Special Refiner!
+Refining is what you live for!
+
+[program.1097048]
+GGVSS Refiner
+
+[program.1097072]
+What on earth are you trying to create...
+To you, who refine day in and day out,
+we give the title of alchemist.
+
+[program.1097168]
+Alchemist
+
+[program.1097184]
+You have a great deal of refining behind
+you. You've reached a craftsman's level.
+
+[program.1097256]
+Craftsman
+
+[program.1097272]
+Tee-hee★
+You just L-O-V-E refining, don't you★
+
+[program.1097320]
+Refining-Mad Kid
+
+[program.1097344]
+Money isn't everything in this world...
+A rich heart is what counts!
+
+[program.1097400]
+Straight to Honest Poverty
+
+[program.1097416]
+You, with more money than you can carry:
+money is for spending.
+Go on, splash out!
+
+[program.1097512]
+Big Tycoon
+
+[program.1097528]
+A free title given to {NAME:06 00 00 00}.
+"Hmm~. Is that the best you can think of?"
+
+[program.1097600]
+A free title given to {NAME:05 00 00 00}.
+"I'd like a cute name, me..."
+
+[program.1097672]
+A free title given to {NAME:04 00 00 00}.
+"Call me what you like..."
+
+[program.1097728]
+A free title given to {NAME:03 00 00 00}.
+"Make it one that suits me, eh!"
+
+[program.1097792]
+A free title given to {NAME:02 00 00 00}.
+"Yes. I understand..."
+
+[program.1097848]
+A free title given to {NAME:01 00 00 00}.
+"A cool one, please!"
+
+[program.1097904]
+You may know it's a very important job
+and still not want it to fall to you.
+Ah, why is it always me who uses them...
+
+[program.1098024]
+Item Keeper
+
+[program.1098040]
+You've come through so many trials
+without once using a gel in battle.
+Not that eating mid-battle is quite...
+
+[program.1098152]
+Gel Hater
+
+[program.1098168]
+A title for one who settles a fight
+with a chain of 40 or more. At this point
+the foe deserves a title of sympathy.
+
+[program.1098264]
+Chain Master
+
+[program.1098288]
+A title for one who settles a fight
+with a chain of 20 or more. Thank the hit
+count and, above all, your friends.
+
+[program.1098384]
+Chain Hunter
+
+[program.1098408]
+To you who won a top LV8 slot, a phantom,
+or rather about as hard to get as things
+get: our respect, and no flattery!
+
+[program.1098528]
+Rare Kaiser
+
+[program.1098544]
+A title for a party with over 1,200
+encounters. The townsfolk can only hope
+you aren't fighting for fighting's sake.
+
+[program.1098656]
+Eraser
+
+[program.1098672]
+A title for a party with over 400
+encounters. Don't forget: for every win
+there is a loser, too.
+
+[program.1098784]
+Spiker
+
+[program.1098800]
+Total GRADE over 6,400: for those who may
+think themselves the strongest tacticians,
+the last rank, "Unknown", opens. Don't.
+
+[program.1098920]
+Mad God
+
+[program.1098928]
+Total GRADE at 1,600: those recognized as
+master tacticians can choose rank "Mania"
+for even rarer weapons and armor!
+
+[program.1099048]
+Battle God
+
+[program.1099056]
+Total GRADE at 600: those recognized as
+skilled tacticians can choose rank "Hard"
+for rarer weapons and armor, maybe?
+
+[program.1099176]
+War God
+
+[program.1099184]
+You can choose battle rank "Easy", but
+good items stop dropping at this rank.
+Once used to battle, try Normal.
+
+[program.1099304]
+Self-Declared Beginner
+
+[program.1099320]
+A title for one who gets over every wall
+and settles a fight with 100 hits or more.
+A festival of miracles, born of chains.
+
+[program.1099416]
+Combo Master
+
+[program.1099432]
+A title for one who settles a fight
+with 50 hits or more. Be content with
+this, or aim higher still?
+
+[program.1099520]
+Combo Hunter
+
+[program.1099536]
+A title for lonely you, who gave an order
+calling on everyone when all alone.
+Do it when everyone's there.
+
+[program.1099632]
+Lonely Tears
+
+[program.1099648]
+Proof of the dream: a fight settled by a
+pure solo chain of eight. How much of a
+dream? About a dream's worth.
+
+[program.1099728]
+Octo Slasher
+
+[program.1099752]
+A title for one who settles a fight with
+a pure solo chain of four: three normal
+attacks into an arte. And other ways...
+
+[program.1099856]
+Tetra Slash
+
+[program.1099880]
+The "realm of no-mind", which only those
+who pass their own limits can enter.
+All is nothing, and all is there.
+
+[program.1099976]
+Warrior of Zero
+
+[program.1099992]
+A warrior who has come through 1,000
+battles. "I'm not done yet!
+ Oraaaaaaaaaaaaah!!!!"
+
+[program.1100096]
+Thousand-Battle Warrior
+
+[program.1100104]
+Every kind of knife collected. Knife
+master! Can you, perhaps, cut a cucumber
+floating on water and raise no ripple?
+
+[program.1100224]
+Wandering Knife
+
+[program.1100240]
+Cooking all your own, dogged by a "?"!
+A taste apart! No, too far apart!
+Are you... hooked on "? dishes"?
+
+[program.1100344]
+Far-Too-Different Chef
+
+[program.1100368]
+An original dish, yours alone!
+Invention matters in cooking, but do
+think of those who have to eat it...
+
+[program.1100456]
+Inventive Chef
+
+[program.1100472]
+You love cooking enough to learn every
+recipe: a great cook indeed!
+Wonderful! Vegetable!
+
+[program.1100576]
+Grand Chef
+
+[program.1100592]
+With so many recipes at your command,
+you are a wizard of cooking!
+Tres bien!
+
+[program.1100664]
+Big Chef
+
+[program.1100680]
+You have met every foe.
+The Monster Book is complete!
+Splendid!
+
+[program.1100744]
+Monster Master
+
+[program.1100768]
+You have obtained every item and
+completed the Collector's Book!
+Congratulations!
+
+[program.1100848]
+Item Collector
+
+[program.1100872]
+Proof the stamp rally was seen through.
+Round every place, stamp, stamp, stamp.
+Proof of effort, this is!
+
+[program.1100968]
+Stamp Rally Master
+
+[program.1100992]
+"Mach is the speed of a moving body
+ given as a ratio to the speed of sound.
+ Mach 3 means three times that speed."
+
+[program.1101088]
+Fleet-Footed Brainy Beauty
+
+[program.1101104]
+"I'm always running, see.
+ It's what you do every day that counts."
+
+[program.1101176]
+Mach Sis
+
+[program.1101200]
+"No human can run at the speed of sound...
+ 'Mach' is a figure of speech
+ for very fast indeed..."
+
+[program.1101304]
+Mach Mask
+
+[program.1101320]
+"There's a realm only those who pass the
+ limit of their own speed can enter...
+ But mind you, it's a dangerous realm..."
+
+[program.1101432]
+Mach Big Bro
+
+[program.1101448]
+"I ran as hard as I could!"
+
+[program.1101480]
+Mach Girl
+
+[program.1101496]
+A great win over Neustadt's Mach Boy!
+That is to say: victory!
+Swift-foot, Mach, victory, fast legs.
+
+[program.1101608]
+Mach Youth
+
+[program.1101624]
+Mad about the Margrana seven-spot mantis
+and the Chakratan green stag beetle!
+And the Ribkigon giant aphid...
+
+[program.1101736]
+Bug Maniac
+
+[program.1101752]
+Swordian Master {NAME:01 00 00 00}!
+All a dream... a fleeting dream...
+{04:06 00 00 00}{NAME:03 00 00 00}: "Wake up, {NAME:01 00 00 00}!"
+
+[program.1101856]
+Zwordian Mazder
+
+[program.1101880]
+Karell's twin sister, which means...
+Whoa, stop right there, baby!
+Pry into her and a shady potion will...
+
+[program.1101984]
+Little Baby-Face
+
+[program.1102000]
+A master of joint locks.
+But {NAME:05 00 00 00} is an archer first and last.
+The locks come out against {NAME:03 00 00 00} only.
+
+[program.1102080]
+Submission Artist
+
+[program.1102104]
+Many people called geniuses
+had a name for being oddballs as well.
+So a super genius is a super oddball...
+
+[program.1102208]
+Oddball
+
+[program.1102224]
+I feel as if every riddle is solved!
+One could not quite say it isn't so.
+Frankly, I don't not not feel that way!
+
+[program.1102344]
+Defective Detective
+
+[program.1102352]
+Read it not "men and women" but "tomboy".
+A woman as bold as any man.
+No compliment, that. {04:06 00 00 00}Named by {NAME:03 00 00 00}
+
+[program.1102464]
+Tomboy
+
+[program.1102472]
+Wheat-brown skin is proof of youth and
+health. Sun and sea breeze suit you.
+A very goddess of the tan.
+
+[program.1102552]
+Sun-Tanned Goddess
+
+[program.1102568]
+Skin white as porcelain.
+Fine, beautiful skin.
+Truly, a fair-skinned angel.
+
+[program.1102632]
+Fair-Skinned Angel
+
+[program.1102648]
+He rushes to a maiden in a pinch!
+His name: "the Masked Stalker!" Hooray!
+...That's no good... {04:06 00 00 00}Named by {NAME:03 00 00 00}
+
+[program.1102752]
+Masked Stalker
+
+[program.1102768]
+Shady research on a shady machine
+from shady data... perhaps...
+{05:A0 00 00 00}Shady... shady...{05:00 01 00 00}
+
+[program.1102888]
+{05:C0 00 00 00}Shady{05:00 01 00 00}
+
+[program.1102912]
+Sullen, it seems.
+Cool and sullen are a hair apart.
+{04:03 00 00 00}Named by {NAME:05 00 00 00}
+
+[program.1102984]
+Sullen {NAME:04 00 00 00}
+
+[program.1103000]
+Blunt, you might say... or straight to
+the point. {NAME:03 00 00 00}'s lovely nickname.
+{04:03 00 00 00}Named by {NAME:05 00 00 00}
+
+[program.1103088]
+Lewd {NAME:03 00 00 00}
+
+[program.1103104]
+The man branded a traitor...
+His name is Leon Magnus.
+And Emilio Katrea.
+
+[program.1103192]
+Leon Magnus
+
+[program.1103216]
+Some day... some day...
+not "the hero Stahn's son":
+I'll make them see "the hero {NAME:01 00 00 00}"!
+
+[program.1103304]
+Stahn's Son
+
+[program.1103320]
+Joe the Flipper's greatest rival!
+Like a whirlwind, he does you-know-what
+to you-know-what. A master of the flip!
+
+[program.1103408]
+Whirlwind {NAME:03 00 00 00}
+
+[program.1103424]
+An avatar of the god, born with Elraine
+
+[program.1103464]
+God's Avatar
+
+[program.1103480]
+{NAME:01 00 00 00}, who fights the power of a god.
+What is a god!? What is truth!?
+Anyway, a fight once picked gets finished!
+
+[program.1103560]
+Picked a Fight With God
+
+[program.1103584]
+Shock! The genius scientist was a woman!
+"With a man's name, I reckoned
+ e~veryone would get the wrong idea."
+
+[program.1103688]
+A Maiden!
+
+[program.1103696]
+A wonder! The woman who knows Swordians
+inside out! "Of course I have the full
+ data. I designed them."
+
+[program.1103792]
+Swordian Designer
+
+[program.1103816]
+Charge! Forward, Engineer Corps!
+"I'm the captain!
+ And you're all my men!"
+
+[program.1103880]
+Engineer Corps Captain
+
+[program.1103896]
+One who has learned the wisdom of the
+wild: who finds answers in nature and
+can solve things by nature's power.
+
+[program.1103976]
+Wild Lady
+
+[program.1103992]
+He really does teach us all sorts.
+"The Sorcerer's Scope is {09:2B 00 00 00}."
+{04:08 00 00 00}(Each use costs three lenses.)
+
+[program.1104104]
+S. Scope Explainer
+
+[program.1104128]
+He knows all sorts of things.
+"The Sorcerer's Ring is {09:2C 00 00 00}!"
+{04:08 00 00 00}(Each shot costs one lens.)
+
+[program.1104232]
+S. Ring Explainer
+
+[program.1104248]
+Pilot of the airship Ixifosler
+
+[program.1104280]
+Pilot
+
+[program.1104296]
+"The bearer of this letter is charged, by
+ my royal command, to recover the lens."
+{04:01 00 00 00}Woodrow Kelvin, King of Phandaria
+
+[program.1104416]
+Lens Recovery Agent
+
+[program.1104440]
+A traveler in time.
+The girl who crosses time.
+
+[program.1104464]
+Time Traveler
+
+[program.1104488]
+It's the Saint!
+
+[program.1104504]
+Let Me Call You Hero!
+
+[program.1104528]
+Nothing but a Hero!
+
+[program.1104552]
+You beat Forneus, the very sign of fear,
+and saved the ship from sinking: what
+else to call you!? {04:02 00 00 00}(An excited captain)
+
+[program.1104672]
+Heroes, No Doubt!
+
+[program.1104696]
+Travel puts people in an open mood...
+The traveling ship and the restful port...
+Flower and bee... man and woman...
+
+[program.1104784]
+Seeker of Romance
+
+[program.1104800]
+{NAME:03 00 00 00} says:
+"Everybody's got at least
+ one thing they're good at."
+
+[program.1104864]
+Good Cook
+
+[program.1104880]
+The two Saints who serve the god Fortuna:
+Elraine and {NAME:02 00 00 00}.
+
+[program.1104944]
+Saint
+
+[program.1104952]
+The light that shone from the pendant...
+Was it the light of a miracle...
+What kind of power does she hold...
+
+[program.1105048]
+Girl of Miracles
+
+[program.1105064]
+A girl in search of a hero. Aim unknown.
+If it's "be a hero for me alone...", then:
+a proposal? Marriage? Love & peace?
+
+[program.1105176]
+Seeker of Heroes
+
+[program.1105192]
+Cool eyes and sharp opinions.
+Nihil, nihiler, nihilist.
+
+[program.1105248]
+Nihilist
+
+[program.1105264]
+Big Sis {NAME:05 00 00 00}...
+{NAME:05 00 00 00} the big sis...
+"Leave it to me!"
+
+[program.1105328]
+Big Sis
+
+[program.1105336]
+Is it in the blood!?
+Is this the work of a hero's blood!?
+A mark stamped on the genes!?
+
+[program.1105416]
+Sleepyhead
+
+[program.1105432]
+{NAME:06 00 00 00}'s hair...
+It looks like bed hair.
+"What do you mean! This is...!"
+
+[program.1105496]
+Bed-Hair {NAME:06 00 00 00}
+
+[program.1105512]
+The arrows {NAME:05 00 00 00} looses...
+They are stars crossing the galaxy,
+like blue meteors.
+
+[program.1105576]
+Meteor {NAME:05 00 00 00}
+
+[program.1105592]
+Is the color of his clothes that of his
+heart? When the black cloth flutters,
+what is in his mind...
+
+[program.1105656]
+{NAME:04 00 00 00} in Black
+
+[program.1105672]
+When {NAME:03 00 00 00} swings his halberd...
+that is when thunder rolls over the land.
+
+[program.1105736]
+Thunder {NAME:03 00 00 00}
+
+[program.1105752]
+Sun and moon, a pair of lights.
+Warm sunlight, the light that raises all.
+
+[program.1105808]
+Sunlight {NAME:02 00 00 00}
+
+[program.1105824]
+When {NAME:01 00 00 00} runs sword in hand,
+it is like a gust of wind.
+
+[program.1105872]
+Gale {NAME:01 00 00 00}
+
+[program.1105888]
+One blessed with talent and ability from
+the start. "And if a genius works at it,
+ she turns into a super genius♪"
+
+[program.1105984]
+Genius
+
+[program.1105992]
+Swordian Original.
+One of the people whose personality went
+into a Swordian, a sword with a mind.
+
+[program.1106080]
+S.O.
+
+[program.1106088]
+"I have nothing. I need no title.
+ I am a man who threw everything away..."
+So he murmured.
+
+[program.1106184]
+.....
+
+[program.1106200]
+A swordsman needs more than skill with a
+sword: the heart must train as well.
+A dull heart makes a dull blade.
+
+[program.1106304]
+Swordsman
+
+[program.1106312]
+A warrior who left the Order to wander.
+Soul in the weapon he swings,
+he cuts his doubts and goes on again.
+
+[program.1106392]
+Wandering Warrior
+
+[program.1106408]
+Now strict, now kind, now funny!
+The ideal big brother is right here.
+
+[program.1106472]
+Good Big Brother
+
+[program.1106488]
+"Let me take some data."
+Data on what, exactly?
+Taken how? The mystery only deepens.
+
+[program.1106592]
+Data-Gathering Maniac
+
+[program.1106616]
+I'll pass my father, I will!
+My great father: I'll pass him!
+One day I'll be one! A hero!
+
+[program.1106704]
+Would-Be Hero
+
+[program.1106720]
+Children taken in by the Dunamis
+Orphanage bear the name Dunamis.
+Born apart, they are family.
+
+[program.1106824]
+{NAME:01 00 00 00} helps at the orphanage his mother
+runs. No orphan himself, he bears the
+name of the bond: "Dunamis".
+
+[program.1106920]
+Dunamis Family
+
+[program.1106944]
+A scientist. But she was never going to
+fit inside that frame alone.
+What they call a mad scientist.
+
+[program.1107048]
+Scientist
+
+[program.1107056]
+The bow is her weapon, and her friend.
+The sight of her handling it
+is a thing of beauty, even.
+
+[program.1107144]
+Archer
+
+[program.1107152]
+Under the mask, eyes somehow sad.
+Why does he hide his face...
+
+[program.1107216]
+Masked Swordsman
+
+[program.1107232]
+A guard of the Order of Atamoni,
+at his duty every day
+to protect people from monsters.
+
+[program.1107304]
+Guard of the Order
+
+[program.1107320]
+A mysterious girl who came out of the
+giant lens. Who on earth is she...
+
+[program.1107384]
+Mysterious Girl
+
+[program.1107400]
+Still an apprentice, but a fine swordsman.
+Don't forget your daily training.
+
+[program.1107456]
+Apprentice Swordsman
+
+[program.1107472]
+Title description
+Line 2
+Line 3
+
+[program.1107512]
+SELFISH
+
+[program.1107528]
+RESISTANCE
+
+[program.1107552]
+MYSTERIOUS
+
+[program.1107576]
+BOMBER
+
+[program.1107592]
+LIBERTY
+
+[program.1107608]
+FREEMAN
+
+[program.1107624]
+Enter a name for the title
+
+[program.1107656]
+Charms: Comona
+
+[program.1107680]
+Outfitter: Arms Lore
+
+[program.1107704]
+Black-Market Goods
+
+[program.1107720]
+Armor: Grooming
+
+[program.1107744]
+Weapons: Claw Sharpener
+
+[program.1107768]
+Food: Bonito Flakes
+
+[program.1107792]
+General: Paw Pads
+
+[program.1107816]
+Charms: Killer Queen
+
+[program.1107848]
+Country Workshop
+
+[program.1107864]
+Supply Robot
+
+[program.1107880]
+Items: Moon River
+
+[program.1107904]
+Food Storehouse
+
+[program.1107920]
+Items: Mamie Taylor
+
+[program.1107944]
+Food: Sherry Twist
+
+[program.1107976]
+Food: Kings Valley
+
+[program.1108000]
+Stall: So Sweet
+
+[program.1108016]
+Stall: Glutton's Heaven
+
+[program.1108040]
+Equipment: Trinity
+
+[program.1108064]
+Weapons: Shandy Gaff
+
+[program.1108088]
+Food: Harvester
+
+[program.1108112]
+Items: Happy Master
+
+[program.1108144]
+Stall: Pomme de Terre
+
+[program.1108168]
+Food: Obanzai
+
+[program.1108192]
+Souvenirs: Tokei
+
+[program.1108216]
+Fish: Kaisen-maru
+
+[program.1108232]
+Supply Corps
+
+[program.1108248]
+Armor: At a Touch
+
+[program.1108272]
+Weapons: Mighty Warrior
+
+[program.1108296]
+Debug Test
+
+[program.1108320]
+General: Mana Breaker
+
+[program.1108344]
+Armor: Knight Killer
+
+[program.1108368]
+Weapons: Braveheart
+
+[program.1108392]
+Supply Unit: Cablegram
+
+[program.1108424]
+Supply Unit: Rob Roy
+
+[program.1108448]
+Supply Unit: Stone Fence
+
+[program.1108480]
+Peddler
+
+[program.1108488]
+Supply Unit: Elk's Own
+
+[program.1108520]
+General: Bergelmir
+
+[program.1108544]
+Armor: Thrudgelmir
+
+[program.1108576]
+Weapons: Aurgelmir
+
+[program.1108600]
+Charms: Merry Widow
+
+[program.1108632]
+General: Bifrost
+
+[program.1108656]
+Armor: Lifthrasir
+
+[program.1108680]
+Weapons: Lif
+
+[program.1108696]
+General: Ward Eight
+
+[program.1108720]
+General: Fuzzy Navel
+
+[program.1108752]
+General: Blue Lagoon
+
+[program.1108776]
+General: Balalaika
+
+[program.1108800]
+General: Affinity
+
+[program.1108824]
+Food: Country Market
+
+[program.1108848]
+Armor: Waiapolo
+
+[program.1108872]
+Food: Yggdrasil
+
+[program.1108896]
+Items: Safe at Home
+
+[program.1108920]
+Food: Fresh Market
+
+[program.1108944]
+Teahouse: Sip of Luck
+
+[program.1108960]
+Food: Mahlzeit
+
+[program.1108984]
+Food: Look Delicious!
+
+[program.1109016]
+Food: Christiania
+
+[program.1109040]
+Food: San Marino
+
+[program.1109064]
+Food: Catnip
+
+[program.1109088]
+Food: Itatoma
+
+[program.1109112]
+Food: Cresta Kitchen
+
+[program.1109144]
+Weapons: Soul & Sword
+
+[program.1109168]
+Armor: Comona
+
+[program.1109184]
+Weapons: Arms Lore
+
+[program.1109208]
+Armor: Meriton
+
+[program.1109232]
+Weapons: Lightning
+
+[program.1109256]
+Armor: Anchorhead
+
+[program.1109280]
+Weapons: Wild Sword Dance
+
+[program.1109304]
+Equipment: Gambit
+
+[program.1109328]
+General: Lucky Stick
+
+[program.1109360]
+DEBUG
+
+[program.1109376]
+RETURN
+
+[program.1109392]
+PREVIEW
+
+[program.1109408]
+CUSTOM
+
+[program.1109424]
+CONTINUE
+
+[program.1109448]
+NEW GAME
+
+[program.1109472]
+she
+
+[program.1109480]
+they
+
+[program.1109488]
+he
+
+[program.1109496]
+Quit the game
+
+[program.1109512]
+Load data
+
+[program.1109560]
+{09:36 00 00 00} Back
+
+[program.1109576]
+{09:35 00 00 00} Exit
+
+[program.1109592]
+{09:36 00 00 00} Cancel
+
+[program.1109608]
+{09:35 00 00 00} Enter
+
+[program.1109624]
+Reserved 3
+
+[program.1109640]
+Scenario name entry 3
+
+[program.1109664]
+Katz Kitten name entry
+
+[program.1109688]
+Hamster
+
+[program.1109704]
+Hamster name entry
+
+[program.1109760]
+No encounters
+
+[program.1109784]
+ID  :○○○○-○○○○-○○○○
+CODE:○○○○-○○○○
+
+[program.1109856]
+A symphony woven of meat, seafood and
+vegetables. What melody
+will you play today?
+
+[program.1109944]
+Gorgeous Salad
+
+[program.1109968]
+So close... something is off...
+What it is, only the god of cooking's
+miso soup knows.
+
+[program.1110032]
+All sorts of things, slowly stewed
+to ripen the flavor!
+Miso is a must, naturally.
+
+[program.1110104]
+Miso Oden
+
+[program.1110120]
+Bitter! Hot! Salty!
+Nourishing or not, who can say,
+but is this really all right?
+
+[program.1110216]
+A drink for the spirit!
+A drink for the body!
+Energy soaking through you!
+
+[program.1110288]
+Energy Drink
+
+[program.1110304]
+Hmph... something is lacking...
+Deep is the world of the sandwich!
+
+[program.1110368]
+Fresh fruit
+between slices of fluffy bread.
+A sandwich rich in color.
+
+[program.1110448]
+Fruit Sandwich
+
+[program.1110464]
+Life was born of the sea...
+A dish rich in the sea's bounty.
+In other words, a dish of life.
+
+[program.1110544]
+Sea Spirit's Gift
+
+[program.1110560]
+Curry, and yet mabo!
+Mabo, and yet curry!
+A miracle of chili bean paste and spice!
+
+[program.1110656]
+Mabo Curry
+
+[program.1110672]
+A colorful fruit juice.
+Fresh-squeezed; serve chilled.
+
+[program.1110728]
+Fruit Juice
+
+[program.1110752]
+The taste is flat, dull, without depth.
+Maybe it needs one more idea...
+
+[program.1110816]
+A pot on the boil!
+The gushing savor of meat!
+Dig in, big and hearty!
+
+[program.1110888]
+Meat Hot Pot
+
+[program.1110896]
+Cows in aprons, dancing and spinning
+round the sun...
+That sort of picture? ...Huh???
+
+[program.1111000]
+Color and shape. Scent and softness...
+You and I and he and she...
+To each, a cheesecake of their own.
+
+[program.1111096]
+Cheesecake
+
+[program.1111112]
+Minced meat rolled in soft, sweet
+cabbage and cooked juicy.
+OH! Roll me!
+
+[program.1111200]
+Cabbage Rolls
+
+[program.1111216]
+Plump, springy shrimp
+cooked to a tingling taste.
+A chili sting of heat!
+
+[program.1111288]
+Chili Shrimp
+
+[program.1111304]
+Thick pasta, well coated
+in a tomato-based sauce.
+Slurp a mouthful. Chewy and springy.
+
+[program.1111408]
+Napolitan
+
+[program.1111424]
+It's sort of sludgy...
+It doesn't look too good...
+
+[program.1111488]
+A taste that melts.
+A smooth, mellow sweetness.
+A fantasy by the name of dessert.
+
+[program.1111560]
+Sweet Parfait
+
+[program.1111576]
+It smells a bit fishy...
+Not enough soul put into it?
+
+[program.1111632]
+The savor of stewed fish is a weave
+of tastes in two and three layers.
+Savor the deep, rich stock.
+
+[program.1111736]
+Fish Hot Pot
+
+[program.1111744]
+Huh?
+Did it taste like this...?
+You wonder, foil between your back teeth.
+
+[program.1111816]
+Butter soaking into salmon: the best!
+Two tastes, each lifting the other.
+Let's call them best partners.
+
+[program.1111912]
+Foil Bake
+
+[program.1111928]
+Hmph... your cooking lacks
+the heart of hospitality!
+Deep is the world of eastern food!
+
+[program.1112016]
+Cut as if you were stabbing!
+That is the secret of sashimi!
+Fresh fish must be cut fast.
+
+[program.1112088]
+Sashimi
+
+[program.1112096]
+Choice meat, grilled
+the traditional way.
+Please enjoy it close to rare.
+
+[program.1112176]
+Steak
+
+[program.1112192]
+It smells sour...
+And the soup's gone bright red...
+What went wrong?
+
+[program.1112280]
+A red soup whose look and smell stir
+the appetite. Mmm, it warms you up...
+
+[program.1112344]
+Minestrone
+
+[program.1112360]
+Press them with love.
+Press them with all your heart.
+The taste runs deeper... it's true!
+
+[program.1112448]
+Rice Balls
+
+[program.1112464]
+It smells sour...
+And the soup's gone bright red...
+
+
+[program.1112528]
+Why not warm up with borscht on a cold
+night? A nourishing stew too, of course.
+
+[program.1112608]
+Borscht
+
+[program.1112624]
+It's all soggy...
+Something wrong with the finish?
+
+[program.1112680]
+Fry the vegetables. Savor overflowing!
+Then simmer them with the rice.
+Savor soaking in.
+
+[program.1112768]
+Risotto
+
+[program.1112784]
+A rustic, dynamic taste!
+Truly, greatness unfinished!
+Hey, unfinished is no good!
+
+[program.1112872]
+Minced meat, kneaded, shaped and baked.
+Its own juices make it tastier!
+A bit richer than a hamburger steak.
+
+[program.1112968]
+Meatloaf
+
+[program.1112984]
+The taste is somehow different...
+Should that be called character,
+or should it be called failure...
+
+[program.1113072]
+Fry fresh ingredients crisp,
+squeeze on lemon and bite right in.
+Juice bursts in the mouth! Hot-hot-hot!
+
+[program.1113176]
+Fried Chicken
+
+[program.1113192]
+Eating this, everyone's thoughts
+drift back to childhood...
+A food that stages a moment's nostalgia.
+
+[program.1113288]
+Jam Toast
+
+[program.1113304]
+It made a gritty noise on the plate...
+Wh... what is that noise, really?
+Did something go wrong?
+
+[program.1113392]
+Pasta with seafood in it. Before eating,
+one should shout "Pescatore!"
+(and from the belly, at that).
+
+[program.1113504]
+Pescatore
+
+[program.1113520]
+Something... smells dangerous...
+This is a brawl of ingredients on a plate!
+
+[program.1113592]
+Soft, piping hot, silky tofu.
+The spicy sauce sets it off perfectly!
+
+[program.1113664]
+Mabo Tofu
+
+[program.1113680]
+It lacks body...
+There are tastes that don't belong...
+
+[program.1113728]
+The kick of spice, the nature of seafood.
+A moment drunk on a dream of drifting
+on the waves under a fierce summer sun...
+
+[program.1113832]
+Seafood Curry
+
+[program.1113848]
+Dumped on the plate; doubtful looks...
+Maybe three in ten would eat it?
+
+[program.1113928]
+Fresh, juicy vegetables,
+arranged your own way.
+Compose color and shape like a painting.
+
+[program.1114024]
+Vegetable Salad
+
+[program.1114040]
+You are an explorer of cooking's seas.
+Your spirit is so far out on the frontier
+that everyone's left behind!
+
+[program.1114128]
+The syrup is space...
+Fruit shining like twinkling stars.
+Just looking puts you in a dream!
+
+[program.1114208]
+Fruit Punch
+
+[program.1114224]
+Rice is the star! Fry it! Fry it!
+Tomato sauce is the red of passion!
+Fire!!!
+
+[program.1114304]
+Paella
+
+[program.1114320]
+Put anything in it: a sandwich.
+True... anything in it, a sandwich.
+...Put nothing in it, and what is it?
+
+[program.1114416]
+The outside must be neither dry nor
+soggy. Moist, and only moist!
+Thou shalt not pick out the cucumber.
+
+[program.1114504]
+Sandwich
+
+[program.1114520]
+To aim higher in cooking,
+you should study the recipe once more.
+The way of cooking is long, endless...
+
+[program.1114624]
+Rice fried with onion, wrapped in a
+soft, creamy omelette.
+Almost a shame to break it open.
+
+[program.1114736]
+Omurice
+
+[program.1114752]
+A sweet girl, her hair in a topknot,
+dancing in a frilly dress...
+That sort of picture? ...Huh???
+
+[program.1114864]
+Smooth cream with the scent of lemon.
+Sweet, sharp, and a clean taste.
+
+[program.1114936]
+Lemon Tart
+
+[program.1114952]
+The color seems a bit off...
+It would suit stirring in a witch's
+outfit, going "hee hee hee"...
+
+[program.1115048]
+Moist and smooth, thick and creamy.
+Simmer plenty of vegetables gently.
+Enjoy it, full of happiness!
+
+[program.1115160]
+Cream Stew
+
+[program.1115184]
+Deep because it is simple...
+You can't have too much invention
+or effort. Think it over a little more.
+
+[program.1115272]
+A flavor wholly unlike the raw vegetable,
+and the change is done overnight!
+Is this magic by the name of food!?
+
+[program.1115376]
+Overnight Pickles
+
+[program.1115392]
+Something is dangling out of it...
+Anyone who bites into this has to be
+called a challenger...
+
+[program.1115488]
+It's not just the taste of the patty!
+The taste of the bun matters!
+A true balance of power!
+
+[program.1115592]
+Hamburger
+
+[program.1115616]
+Cook when someone has an ailment
+
+[program.1115648]
+Cook if even one has TP at 20% or less
+
+[program.1115696]
+Cook if two or more have TP at 40% or less
+
+[program.1115744]
+Cook if two or more have TP at 60% or less
+
+[program.1115792]
+Cook if three or more have TP at 80% or less
+
+[program.1115840]
+Cook if even one has HP at 20% or less
+
+[program.1115888]
+Cook if two or more have HP at 40% or less
+
+[program.1115936]
+Cook if two or more have HP at 60% or less
+
+[program.1115984]
+Cook if three or more have HP at 80% or less
+
+[program.1116032]
+Cook every 10 battles
+
+[program.1116072]
+Cook every 5 battles
+
+[program.1116104]
+Cook after every battle
+
+[program.1116136]
+Do not cook automatically
+
+[program.1116160]
+Food cost
+
+[program.1116176]
+Cook count
+
+[program.1116192]
+Aptitude
+
+[program.1116208]
+Any
+
+[program.1116224]
+Cook the dish with the lowest food cost
+
+[program.1116264]
+Cook the dish you can make most often
+
+[program.1116304]
+Cook the dish with the lowest aptitude
+
+[program.1116336]
+Cook a dish at random
+
+[program.1116368]
+Hut
+
+[program.1116376]
+Katz Village
+
+[program.1116392]
+Blacksmith's Tent
+
+[program.1116408]
+Chelsea's Hut
+
+[program.1116432]
+Aquaveil
+
+[program.1116448]
+Calviola
+
+[program.1116464]
+Hope Town
+
+[program.1116480]
+Cherik
+
+[program.1116496]
+Heidelberg
+
+[program.1116512]
+Snowfria
+
+[program.1116528]
+Oberon Corp. Abandoned Mine
+
+[program.1116544]
+Neustadt
+
+[program.1116560]
+Mountain Hut
+
+[program.1116568]
+Southern Mine, NE Entrance
+
+[program.1116600]
+Southern Mine, S Entrance
+
+[program.1116632]
+Southern Mine, NW Entrance
+
+[program.1116664]
+Western Mine, NW Entrance
+
+[program.1116696]
+Western Mine, SW Entrance
+
+[program.1116728]
+Western Mine, SE Entrance
+
+[program.1116760]
+Western Mine, NE Entrance
+
+[program.1116792]
+Northern Mine, S Entrance
+
+[program.1116824]
+Northern Mine, N Entrance
+
+[program.1116856]
+Lienea
+
+[program.1116864]
+Aigrette Harbor
+
+[program.1116880]
+Aigrette
+
+[program.1116896]
+Straylize Temple
+
+[program.1116920]
+Harmentz Valley
+
+[program.1116944]
+Ruins of the Surface Army Base
+
+[program.1116960]
+Darilsheid, the Old Capital
+
+[program.1116984]
+Laguna Ruins
+
+[program.1117000]
+Town of Cresta
+
+[program.1117016]
+Calviola the Holy Land
+
+[program.1117032]
+Trash Mountain
+
+[program.1117056]
+Heat River
+
+[program.1117072]
+Wreck of the Aerial City
+
+[program.1117088]
+Dycroft
+
+[program.1117104]
+Shrine of Light
+
+[program.1117120]
+Wild Forest
+
+[program.1117136]
+Realta the Twilight City
+
+[program.1117160]
+Speranza the Crimson City
+
+[program.1117184]
+Vangelo the Azure City
+
+[program.1117208]
+Coastal Cave
+
+[program.1117224]
+Spiral Cave
+
+[program.1117248]
+Surface Army Base
+
+[program.1117264]
+Supply Depot
+
+[program.1117280]
+Egg of God
+
+[program.1121248]
+The Bridge Should Be Open
+
+[program.1121280]
+Don't Flag Now
+
+[program.1121296]
+Too Long in This Heat...
+
+[program.1121328]
+The Way to My Village 2
+
+[program.1121360]
+The Way to My Village 1
+
+[program.1121392]
+Let's See the Castle Town
+
+[program.1121416]
+Head for Heidelberg 2
+
+[program.1121448]
+Treasure Hunting Basics
+
+[program.1121464]
+Equipment Still Working?
+
+[program.1121488]
+To the Oberon Mine
+
+[program.1121512]
+How to Push Containers
+
+[program.1121536]
+What a Fog...
+
+[program.1121552]
+How to Use the World Map
+
+[program.1121576]
+Easy to Get Lost
+
+[program.1121592]
+To Aigrette Harbor 2
+
+[program.1121616]
+If the Guards Spot Us...
+
+[program.1121640]
+Just Let Us Through
+
+[program.1121664]
+That Pedestal
+
+[program.1121680]
+So That's Aigrette
+
+[program.1121704]
+If We Jump the Cliffs...
+
+[program.1121728]
+{NAME:06 00 00 00}'s Introduction
+
+[program.1121744]
+{NAME:05 00 00 00}'s Introduction
+
+[program.1121760]
+{NAME:04 00 00 00}'s Introduction
+
+[program.1121776]
+{NAME:03 00 00 00}'s Introduction
+
+[program.1121792]
+{NAME:02 00 00 00}'s Introduction
+
+[program.1121808]
+{NAME:01 00 00 00}'s Introduction
+
+[program.1121824]
+The Way Out to the Surface
+
+[program.1121848]
+To the Laguna Ruins
+
+[program.1121864]
+Into the Lower Levels
+
+[program.1121880]
+Elraine Close By?
+
+[program.1121904]
+Into the Mirror
+
+[program.1121920]
+To the Egg of God's Depths
+
+[program.1121944]
+Terror of the Cliff!
+
+[program.1121960]
+It Appeared!?
+
+[program.1121976]
+To That Place...
+
+[program.1121992]
+Ask a Hero (Rutee)
+
+[program.1122016]
+Ask a Hero (Philia)
+
+[program.1122040]
+How to Get to Aigrette
+
+[program.1122072]
+Should Be at the Temple
+
+[program.1122088]
+Elraine, Deep in the Temple
+
+[program.1122112]
+After Elraine
+
+[program.1122136]
+To Reach the Future Again
+
+[program.1122160]
+Did You See Something?
+
+[program.1122184]
+Another Night at the Castle
+
+[program.1122200]
+Hurry to the Eye of God!
+
+[program.1122224]
+Through the Outer Wall
+
+[program.1122240]
+Eve of the Battle 3
+
+[program.1122256]
+The Swordians Complete 3
+
+[program.1122280]
+To the Spiral Cave 5
+
+[program.1122304]
+Fly, Fly! Rocket 3
+
+[program.1122328]
+Reporting on the Rocket
+
+[program.1122352]
+Getting Materials 5
+
+[program.1122368]
+To Darilsheid
+
+[program.1122392]
+After Getting the Master Key
+
+[program.1122416]
+The Waterway, I Think...
+
+[program.1122432]
+Materials Are the Goal Now
+
+[program.1122456]
+Army Base to Supply Depot
+
+[program.1122480]
+Fetching Materials
+
+[program.1122496]
+Meet Them in the Back Building
+
+[program.1122520]
+{NAME:05 00 00 00}'s Inner World 8
+
+[program.1122536]
+{NAME:05 00 00 00}'s Inner World 4
+
+[program.1122552]
+To the Shrine of Light
+
+[program.1122568]
+Coastal Cave
+
+[program.1122584]
+Break the Seal
+
+[program.1122600]
+At the Army Base Ruins 3
+
+[program.1122624]
+A Night at the Castle
+
+[program.1122640]
+The Lens Is Gone!
+
+[program.1122656]
+Back in the Present
+
+[program.1122680]
+Through Trash Mountain
+
+[program.1122712]
+The Way to My Village 3
+
+[program.1122744]
+Future Ferry: Where's {NAME:02 00 00 00}?
+
+[program.1122768]
+Let's Go to the Park
+
+[program.1122792]
+Fired Up After the Audience
+
+[program.1122816]
+Let's Hear Them Out
+
+[program.1122832]
+Go After That Girl
+
+[program.1122856]
+The Audience at Last
+
+[program.1122872]
+What Did You Say, {NAME:03 00 00 00}?
+
+[program.1122896]
+Where Is King Woodrow?
+
+[program.1122920]
+Head for Heidelberg 1
+
+[program.1122952]
+Get Ready and Set Sail!
+
+[program.1122976]
+Can the Ship Sail Yet?
+
+[program.1123008]
+Only the Delivery Left
+
+[program.1123032]
+Treasure, Somewhere
+
+[program.1123048]
+Off to the Abandoned Mine
+
+[program.1123064]
+The Merchant's Request 2
+
+[program.1123080]
+Something at the Harbor...?
+
+[program.1123096]
+To Neustadt Harbor
+
+[program.1123120]
+Breakfast at Lilith's
+
+[program.1123144]
+To the Deck, Anyway!
+
+[program.1123168]
+To Aigrette Harbor 1
+
+[program.1123192]
+To the Straylize Ruins
+
+[program.1123216]
+Heard at the Inn
+
+[program.1123232]
+To the Aigrette Inn 2
+
+[program.1123256]
+The Egg of God Is...
+
+[program.1123280]
+To the Aigrette Inn 1
+
+[program.1123304]
+That Girl Is in Aigrette
+
+[program.1123328]
+Shoot With the Sorcerer's Ring
+
+[program.1123352]
+Cresta to Aigrette
+
+[program.1123376]
+Escape to Cresta
+
+[program.1123392]
+Waterway
+
+[program.1123408]
+Under Darilsheid
+
+[program.1123432]
+Where Are the Laguna Ruins?
+
+[program.1123456]
+It's Not This Way, Is It
+
+[program.1123480]
+It's Not This Way
+
+[program.1123504]
+It's Not This Way, You Know?
+
+[program.1123528]
+Not This Way
+
+[program.1123552]
+It Ain't This Way
+
+[program.1123576]
+Wrong Way
+
+[program.1123592]
+Engineer Corps
+
+[program.1123600]
+To the Spiral Cave
+
+[program.1123624]
+Outside the Dycroft Cells
+
+[program.1123648]
+We're Going to the Hangar
+
+[program.1123664]
+We're Off to the Radisrol
+
+[program.1123688]
+It's a Mountain Path
+
+[program.1123704]
+We're Going to Realta!!
+
+[program.1123728]
+That Red Dome...?
+
+[program.1123752]
+What's That Dome?
+
+[program.1123776]
+A Ship Can't Catch Up
+
+[program.1123800]
+The Truth for Woodrow
+
+[program.1123824]
+The Lens, Still
+
+[program.1123840]
+Still in Hope Town...
+
+[program.1123864]
+Is This Aigrette?
+
+[program.1123888]
+Attack!
+
+[program.1123896]
+The Date's in Heidelberg
+
+[program.1123920]
+Calm Down
+
+[program.1123936]
+In Lienea
+
+[program.1123952]
+Aigrette Harbor's the Other Way
+
+[program.1123976]
+To the Temple, After That Girl
+
+[program.1124000]
+Find the Way Into the Ruins
+
+[program.1124024]
+But We Heard It at the Inn
+
+[program.1124048]
+To Mother
+
+[program.1124056]
+Waterway Exit
+
+[program.1124072]
+Top of the Laguna Ruins
+
+[program.1124096]
+Tomorrow, the Laguna Ruins
+
+[program.1124120]
+Get Through the Cave!
+
+[program.1124136]
+After the Waterway: Ruins
+
+[program.1124160]
+After the Waterway: Waterway
+
+[program.1124192]
+After the Waterway: Bridge
+
+[program.1124216]
+After the Waterway: Town
+
+[program.1124240]
+Laguna Ruins: Bridge
+
+[program.1124256]
+A Dangerous Height
+
+[program.1124272]
+Launch
+
+[program.1124280]
+Outer Shell
+
+[program.1124288]
+That Which Floats in the Sky
+
+[program.1124312]
+Looking Up at the Sky
+
+[program.1124328]
+Crash
+
+[program.1124336]
+Flying Through the Sky
+
+[program.1124352]
+Through Trash Mountain
+
+[program.1124384]
+Reunion in Hope Town
+
+[program.1124408]
+Flung Away...
+
+[program.1124424]
+Doubts
+
+[program.1124432]
+There's a Mountain Hut!
+
+[program.1124448]
+White Cloud Ridge
+
+[program.1124464]
+Bearings
+
+[program.1124472]
+A Fateful Meeting
+
+[program.1124488]
+Someone Waiting in Hope Town
+
+[program.1124512]
+Aquaveil
+
+[program.1124528]
+Turned-Down Man: Last Battle
+
+[program.1124552]
+Genius Scientist of Legend
+
+[program.1124576]
+Kingdom of {NAME:01 00 00 00}
+
+[program.1124592]
+Original Special Move
+
+[program.1124616]
+Turned-Down Man: Pure Heart
+
+[program.1124640]
+An Arcane Arte Passed Down
+
+[program.1124656]
+Me, Saving the World
+
+[program.1124672]
+Turned-Down Man: Legend Cut
+
+[program.1124704]
+Thoughts on the Mask
+
+[program.1124720]
+A Place I Came to Once
+
+[program.1124736]
+Turned-Down Man Yet Again
+
+[program.1124760]
+As the Wind Blows, As I Please
+
+[program.1124792]
+A Million Times
+
+[program.1124800]
+A Scene From a Dream
+
+[program.1124816]
+It Should Come Flying, But...
+
+[program.1124840]
+Surely Your Own Self...
+
+[program.1124864]
+That Girl's on My Mind!
+
+[program.1124888]
+Turned-Down Man Forever
+
+[program.1124920]
+Sleep Talk
+
+[program.1124928]
+Goodbyes Before Leaving
+
+[program.1124952]
+Love in Bud
+
+[program.1124968]
+Date 2
+
+[program.1124984]
+Date 1
+
+[program.1125000]
+Report to Woodrow
+
+[program.1125024]
+For the Future
+
+[program.1125040]
+Catacombs
+
+[program.1125056]
+Hidden Passage
+
+[program.1125072]
+The Final Battle
+
+[program.1125088]
+A Hero for Me Alone
+
+[program.1125112]
+No Buts About It
+
+[program.1125128]
+Chaltier...
+
+[program.1125152]
+Ten Years Ago, Ten Years On
+
+[program.1125176]
+The Man Who Drops Stars
+
+[program.1125192]
+Wish on a Star
+
+[program.1125208]
+To the Place We Met...
+
+[program.1125232]
+A Heart Restored
+
+[program.1125248]
+CHICHI
+
+[program.1125264]
+Growing Up 2
+
+[program.1125272]
+The Place We Met 2
+
+[program.1125288]
+The Place We Met 1
+
+[program.1125304]
+Staging a Moving Scene
+
+[program.1125320]
+Bonds 2
+
+[program.1125328]
+Bonds 1
+
+[program.1125336]
+Living Now to the Full
+
+[program.1125352]
+Playing With Blocks
+
+[program.1125368]
+Growing Up 1
+
+[program.1125376]
+Calling on the Heroes 3
+
+[program.1125400]
+As the Heart Says
+
+[program.1125416]
+Bug Maniac
+
+[program.1125432]
+Calling on the Heroes 2
+
+[program.1125456]
+One or the Other
+
+[program.1125472]
+Calling on the Heroes 1
+
+[program.1125496]
+Faced With Reality
+
+[program.1125520]
+Under Calviola 5
+
+[program.1125544]
+Taking Data 2
+
+[program.1125560]
+Under Calviola 4
+
+[program.1125584]
+Taking Data 1
+
+[program.1125600]
+That Was Fun
+
+[program.1125616]
+Under Calviola 3
+
+[program.1125640]
+Under Calviola 2
+
+[program.1125664]
+To the Future Again
+
+[program.1125680]
+Under Calviola 1
+
+[program.1125704]
+Turned-Down Man Returns
+
+[program.1125728]
+The Ruin of the World
+
+[program.1125744]
+A Lonely Murmur
+
+[program.1125760]
+{NAME:03 00 00 00}, Eat Up
+
+[program.1125776]
+{NAME:03 00 00 00}, E-A-T★
+
+[program.1125800]
+A Genius's Memory
+
+[program.1125816]
+Returning All to Nothing
+
+[program.1125840]
+Strong With No God's Blessing
+
+[program.1125864]
+Emergency
+
+[program.1125880]
+In the Town of Snow
+
+[program.1125896]
+Mending History
+
+[program.1125912]
+Why I Lived On
+
+[program.1125936]
+Father as a Young Man 2
+
+[program.1125952]
+Father as a Young Man 1
+
+[program.1125968]
+I Don't Mean to Deny the Past
+
+[program.1126000]
+Disguise
+
+[program.1126008]
+{NAME:04 00 00 00} Knew
+
+[program.1126032]
+Never to Be Born
+
+[program.1126056]
+Belcrant Control 3
+
+[program.1126080]
+Until the Elevator Returns
+
+[program.1126104]
+Karell's Fate 4
+
+[program.1126128]
+Karell's Fate 2
+
+[program.1126152]
+Karell's Fate 1
+
+[program.1126176]
+Save Atwight! 1
+
+[program.1126200]
+To the Throne Room
+
+[program.1126216]
+Karell's Fate 5
+
+[program.1126240]
+Belcrant Control 2
+
+[program.1126264]
+Belcrant Control 1
+
+[program.1126288]
+Karell's Fate 3
+
+[program.1126312]
+Follow the Swordian Team!
+
+[program.1126344]
+Into the War of Heaven & Earth
+
+[program.1126360]
+Eve of the Battle 2
+
+[program.1126376]
+Eve of the Battle 1
+
+[program.1126392]
+The Swordians Complete 6
+
+[program.1126416]
+The Swordians Complete 5
+
+[program.1126440]
+The Swordians Complete 4
+
+[program.1126464]
+The Swordians Complete 2
+
+[program.1126488]
+{NAME:06 00 00 00}'s Name
+
+[program.1126504]
+Commander Litler's Kindness
+
+[program.1126536]
+The Swordians Complete 1
+
+[program.1126560]
+Dymlos's Punishment 2
+
+[program.1126584]
+Dymlos's Punishment 1
+
+[program.1126608]
+Zwordian Mazder
+
+[program.1126632]
+Say, What About the Swordians?
+
+[program.1126664]
+The Strong Eat the Weak
+
+[program.1126680]
+Barbatos Pulls Back
+
+[program.1126704]
+All in the Palm of a Hand
+
+[program.1126728]
+Atwight Rescued
+
+[program.1126752]
+The Swordian Team Assembles
+
+[program.1126784]
+To the Spiral Cave 4
+
+[program.1126808]
+To the Spiral Cave 3
+
+[program.1126832]
+A Disgrace to Men...
+
+[program.1126856]
+Two Destinies
+
+[program.1126872]
+To the Spiral Cave 2
+
+[program.1126896]
+To the Spiral Cave 1
+
+[program.1126920]
+Imagination Runs Wild
+
+[program.1126936]
+Barbatos's Challenge
+
+[program.1126960]
+The Choice Laid on Us
+
+[program.1126976]
+Persuasion
+
+[program.1126984]
+Dymlos's Anguish 2
+
+[program.1127008]
+{NAME:06 00 00 00}'s Secret Dose
+
+[program.1127024]
+If I Were Captured
+
+[program.1127056]
+Catalyst
+
+[program.1127064]
+Escort Duty 2
+
+[program.1127080]
+Escort Duty 1
+
+[program.1127096]
+Dymlos's Anguish 1
+
+[program.1127120]
+Save Atwight! 2
+
+[program.1127144]
+Parallel World
+
+[program.1127168]
+Antinomy
+
+[program.1127184]
+The Operation Goes On!
+
+[program.1127200]
+Fly, Fly! Rocket 1
+
+[program.1127224]
+Report Done
+
+[program.1127240]
+Master Key in Hand
+
+[program.1127264]
+Heat Change Destroys It
+
+[program.1127280]
+To the Escape Pod 2
+
+[program.1127296]
+Arrival in the War Era 2
+
+[program.1127320]
+Arrival in the War Era 1
+
+[program.1127344]
+To the Escape Pod 1
+
+[program.1127360]
+Never Let Your Guard Down
+
+[program.1127376]
+To the Control Room 2
+
+[program.1127392]
+To the Control Room 1
+
+[program.1127408]
+A Fight With God
+
+[program.1127424]
+A Good Pair
+
+[program.1127440]
+Fly, Fly! Rocket 2
+
+[program.1127464]
+Little Baby-Face
+
+[program.1127480]
+A Waking Dream
+
+[program.1127496]
+Selfish {NAME:06 00 00 00}
+
+[program.1127512]
+I'll Give You a Mas-sa-ge
+
+[program.1127544]
+Rescue Operation 3
+
+[program.1127560]
+A Band From Beyond History
+
+[program.1127584]
+Rescue Operation 2
+
+[program.1127600]
+Her Cooking
+
+[program.1127616]
+Technology
+
+[program.1127632]
+Rescue Operation 1
+
+[program.1127648]
+Getting Materials 4
+
+[program.1127664]
+Getting Materials 3
+
+[program.1127680]
+Getting Materials 2
+
+[program.1127696]
+Getting Materials 1
+
+[program.1127712]
+Turned-Down Man NEO
+
+[program.1127736]
+I Want a Swordian
+
+[program.1127760]
+Gemini 2
+
+[program.1127776]
+Gemini 1
+
+[program.1127792]
+I'm Interested in You
+
+[program.1127816]
+Why Solve a Problem You Know?
+
+[program.1127856]
+The Genius Scientist's Truth
+
+[program.1127880]
+Meeting the Genius Scientist
+
+[program.1127904]
+{NAME:05 00 00 00}'s Inner World 7
+
+[program.1127920]
+{NAME:05 00 00 00}'s Inner World 6
+
+[program.1127936]
+{NAME:05 00 00 00}'s Inner World 5
+
+[program.1127952]
+{NAME:05 00 00 00}'s Inner World 3
+
+[program.1127968]
+{NAME:05 00 00 00}'s Inner World 2
+
+[program.1127984]
+{NAME:05 00 00 00}'s Inner World 1
+
+[program.1128000]
+{NAME:01 00 00 00}'s Inner World 4
+
+[program.1128016]
+{NAME:01 00 00 00}'s Inner World 3
+
+[program.1128032]
+{NAME:01 00 00 00}'s Inner World 2
+
+[program.1128048]
+{NAME:01 00 00 00}'s Inner World 1
+
+[program.1128064]
+Fangs of Garm
+
+[program.1128080]
+Wild Forest 2
+
+[program.1128096]
+Wild Forest 1
+
+[program.1128112]
+{NAME:02 00 00 00}'s Resolve
+
+[program.1128128]
+Castle High in the Sky 3
+
+[program.1128144]
+{NAME:02 00 00 00}'s Doubts
+
+[program.1128160]
+The Definition of Happiness
+
+[program.1128176]
+A Voice From the Sky
+
+[program.1128192]
+Realta ({NAME:01 00 00 00})
+
+[program.1128216]
+A Made-Up World
+
+[program.1128232]
+History Rewritten
+
+[program.1128248]
+Speranza
+
+[program.1128264]
+Dolls in a Toy Garden
+
+[program.1128280]
+To Another Town
+
+[program.1128296]
+Memory Refresh
+
+[program.1128320]
+A World Warping
+
+[program.1128336]
+Decoy
+
+[program.1128344]
+I'll Win the World Back!
+
+[program.1128376]
+Dycroft 2
+
+[program.1128392]
+A World Being Mended
+
+[program.1128408]
+New Turned-Down Man
+
+[program.1128424]
+The Party's Starting!
+
+[program.1128456]
+Dycroft 1
+
+[program.1128472]
+Wasted Years
+
+[program.1128480]
+If You'd Just Keep Quiet...
+
+[program.1128504]
+Win the World Back!
+
+[program.1128528]
+People Who Don't Know the Wind
+
+[program.1128552]
+Doubts About a Uniform World 2
+
+[program.1128576]
+Defective Detective {NAME:03 00 00 00}
+
+[program.1128592]
+A World Without Adventure
+
+[program.1128608]
+Doubts About a Uniform World 1
+
+[program.1128632]
+Act First, Think Later
+
+[program.1128656]
+Ancestors
+
+[program.1128664]
+To the Enemy's Stronghold
+
+[program.1128680]
+Be a Better Man!
+
+[program.1128696]
+Where Is the Library? 2
+
+[program.1128720]
+Where Is the Library? 1
+
+[program.1128744]
+Barbatos the Hero
+
+[program.1128760]
+Realta ({NAME:04 00 00 00})
+
+[program.1128784]
+Submission Artist 3
+
+[program.1128808]
+{NAME:02 00 00 00}'s Anguish
+
+[program.1128824]
+Sun and Air and...
+
+[program.1128840]
+{NAME:01 00 00 00} the Hero
+
+[program.1128856]
+Masked Squad Lens Five
+
+[program.1128880]
+Tomboy
+
+[program.1128896]
+A Merry Meal
+
+[program.1128912]
+Chicks Under Glass
+
+[program.1128936]
+Baked Sweet Potato
+
+[program.1128952]
+The Altered World 5
+
+[program.1128976]
+The Altered World 4
+
+[program.1129000]
+An Empty World
+
+[program.1129016]
+How Do We Get the World Back?
+
+[program.1129040]
+Castle High in the Sky 2
+
+[program.1129056]
+The Altered World 3
+
+[program.1129080]
+Castle High in the Sky 1
+
+[program.1129096]
+The Altered World 2
+
+[program.1129120]
+The Altered World 1
+
+[program.1129144]
+Escaping the Flying Dragon 4
+
+[program.1129168]
+Escaping the Flying Dragon 3
+
+[program.1129192]
+Using the Sorcerer's Scope
+
+[program.1129224]
+Find the Controls 2
+
+[program.1129248]
+At the Army Base Ruins 2
+
+[program.1129272]
+At the Army Base Ruins 1
+
+[program.1129296]
+Escaping the Flying Dragon 2
+
+[program.1129320]
+Escaping the Flying Dragon 1
+
+[program.1129344]
+Find the Controls 1
+
+[program.1129368]
+Watchdog
+
+[program.1129376]
+He Knows Everything
+
+[program.1129400]
+The Lens!? 2
+
+[program.1129416]
+The Wounded Hero King 1
+
+[program.1129440]
+The Girl From the Future 1
+
+[program.1129464]
+The Lens!? 1
+
+[program.1129480]
+Inside the Flying Dragon
+
+[program.1129496]
+The Next Move
+
+[program.1129504]
+A Hero for Me Alone
+
+[program.1129520]
+She Vanished 1
+
+[program.1129536]
+After the Flying Dragon!
+
+[program.1129552]
+The Power of the Lens
+
+[program.1129568]
+The Captive Princess
+
+[program.1129584]
+Storming In
+
+[program.1129592]
+Ixifosler
+
+[program.1129616]
+To the Army Base Ruins
+
+[program.1129640]
+Storm the Temple!
+
+[program.1129664]
+Me in Ten Years
+
+[program.1129680]
+The Sleepless Sleepyhead
+
+[program.1129704]
+The Wounded Hero King 2
+
+[program.1129728]
+Too Late for Regrets
+
+[program.1129744]
+On My Mind
+
+[program.1129760]
+She Vanished 2
+
+[program.1129776]
+A Short Rest
+
+[program.1129792]
+The Girl From the Future 2
+
+[program.1129816]
+Poison Gas 2
+
+[program.1129832]
+Poison Gas 1
+
+[program.1129848]
+Trash Mountain
+
+[program.1129872]
+Sneaking Into Calviola 3
+
+[program.1129896]
+Sneaking Into Calviola 2
+
+[program.1129920]
+Bewildered
+
+[program.1129928]
+A Meal to Look Forward To
+
+[program.1129944]
+A Breather
+
+[program.1129952]
+Like a Human Being
+
+[program.1129968]
+Searching Upstream
+
+[program.1129984]
+The Burning River
+
+[program.1130000]
+Who Is That Woman?
+
+[program.1130016]
+Beaten Up by Little Kids
+
+[program.1130040]
+Getting Ready for Her Cooking
+
+[program.1130064]
+A Man Among Men
+
+[program.1130080]
+A Man People Worry About
+
+[program.1130096]
+Across the Heat River
+
+[program.1130120]
+The Ferry for Cherik
+
+[program.1130144]
+To the Birth Ceremony
+
+[program.1130160]
+This Should Be Aigrette 2
+
+[program.1130192]
+Two Who Pray Two Are Safe
+
+[program.1130216]
+This Should Be Aigrette 1
+
+[program.1130248]
+Now, to the Present
+
+[program.1130264]
+Sneaking Into Calviola 1
+
+[program.1130288]
+The Far-Off Present
+
+[program.1130304]
+Submission Artist 2
+
+[program.1130328]
+To Calviola
+
+[program.1130344]
+POISON
+
+[program.1130360]
+Submission Artist 1
+
+[program.1130384]
+To My Place
+
+[program.1130400]
+A Moving Reunion
+
+[program.1130416]
+While We Can
+
+[program.1130432]
+Fair Angel, Tanned Goddess
+
+[program.1130464]
+Teach Me to Sew
+
+[program.1130488]
+A Land That Suits Me
+
+[program.1130504]
+Sewing
+
+[program.1130520]
+The History of the Losers
+
+[program.1130536]
+A Hot Country
+
+[program.1130544]
+Me in Ten Years
+
+[program.1130560]
+The Sins of a Sinful Man
+
+[program.1130576]
+The More They Fight...
+
+[program.1130600]
+A Number for Control
+
+[program.1130624]
+A Busy Hero
+
+[program.1130640]
+Run, Laugh and Give Chase
+
+[program.1130664]
+The "Strongest" Land of All
+
+[program.1130688]
+About Time
+
+[program.1130704]
+In Praise of Heidelberg
+
+[program.1130728]
+A Dangerous Treasure
+
+[program.1130744]
+Far Too Many Lenses
+
+[program.1130768]
+Eavesdropping
+
+[program.1130784]
+{NAME:04 00 00 00}'s Past
+
+[program.1130800]
+Heidelberg Castle Attacked 3
+
+[program.1130832]
+Heidelberg Castle Attacked 2
+
+[program.1130864]
+Heidelberg Castle Attacked 1
+
+[program.1130896]
+Run and Laugh
+
+[program.1130912]
+Audience With the Hero King
+
+[program.1130928]
+It Can't Be...
+
+[program.1130944]
+Sneeze
+
+[program.1130960]
+Battle in the Snow
+
+[program.1130976]
+In the Dazzling White
+
+[program.1131000]
+Romance on Board
+
+[program.1131016]
+What Oberon Left Behind
+
+[program.1131040]
+If You Want Treasure
+
+[program.1131056]
+In the Fog
+
+[program.1131072]
+This Is Adventure
+
+[program.1131088]
+Shine
+
+[program.1131096]
+Yawn
+
+[program.1131104]
+Setting Sail Again
+
+[program.1131112]
+Wrapped Round a Finger
+
+[program.1131120]
+Imagined Treasure
+
+[program.1131128]
+Suspicion
+
+[program.1131136]
+Ghosts? No Such...
+
+[program.1131160]
+Raring to Run Away
+
+[program.1131176]
+After the Miracle
+
+[program.1131192]
+Emergency SOS
+
+[program.1131208]
+The Sea Lord Attacks
+
+[program.1131224]
+You, With the Sea Breeze
+
+[program.1131240]
+A Stroll Round the Ship
+
+[program.1131256]
+Reporting Success
+
+[program.1131272]
+Learning of the Plot
+
+[program.1131288]
+Beauty of the Heart
+
+[program.1131304]
+Feelings Held Close
+
+[program.1131320]
+Legacy
+
+[program.1131328]
+What Is Treasure?
+
+[program.1131344]
+A Good Sport
+
+[program.1131368]
+To the Abandoned Mine
+
+[program.1131376]
+Mystery of the Abandoned Mine
+
+[program.1131392]
+Into the White Fog
+
+[program.1131408]
+In Search of Treasure
+
+[program.1131424]
+The Merchant's Request 1
+
+[program.1131440]
+A Long Road
+
+[program.1131456]
+Neustadt
+
+[program.1131472]
+A Growing Lad
+
+[program.1131488]
+A Flower's Life Is...
+
+[program.1131504]
+Earth Worm
+
+[program.1131520]
+Turned-Down Man, Continued
+
+[program.1131536]
+The Woman of His Dreams
+
+[program.1131560]
+The Hero's True Face
+
+[program.1131576]
+Farewell to Peace and Quiet
+
+[program.1131600]
+Wanderers
+
+[program.1131616]
+Father's Home Town
+
+[program.1131632]
+The Long Way Round
+
+[program.1131648]
+Boarding
+
+[program.1131656]
+Encounters
+
+[program.1131672]
+A Glimpse of a Miracle
+
+[program.1131688]
+Huh? A Snack?
+
+[program.1131712]
+The Lonely Mask
+
+[program.1131728]
+Axe of Murderous Intent
+
+[program.1131744]
+A Great Hero of the Future
+
+[program.1131760]
+Go! Over the Wide Ocean!
+
+[program.1131784]
+Hand Warmer
+
+[program.1131792]
+El-Ele-Ero
+
+[program.1131808]
+Rumors of the Hero King
+
+[program.1131824]
+Masked Stalker
+
+[program.1131840]
+We're In
+
+[program.1131856]
+Find Another Way!
+
+[program.1131880]
+Plan to Sneak In
+
+[program.1131896]
+Criticizing the Order
+
+[program.1131912]
+The Woman of Miracles
+
+[program.1131928]
+An Awkward Knight of the Order
+
+[program.1131952]
+The Temple
+
+[program.1131960]
+Meeting the Saint
+
+[program.1131976]
+Two Pendants
+
+[program.1132000]
+Beauties and Faith
+
+[program.1132016]
+Lost-Child Tag
+
+[program.1132024]
+Sleeping Rough
+
+[program.1132040]
+Aigrette
+
+[program.1132056]
+What She Dropped
+
+[program.1132080]
+Love's Cure
+
+[program.1132096]
+A Man's Dream
+
+[program.1132112]
+Using the Sorcerer's Ring
+
+[program.1132144]
+A Hint of Adventure
+
+[program.1132160]
+Jealousy
+
+[program.1132168]
+Big Brother Long-Legs
+
+[program.1132192]
+How to Move Things
+
+[program.1132208]
+The Big Drop
+
+[program.1132216]
+To Mother...
+
+[program.1132232]
+Turned-Down Man
+
+[program.1132248]
+Would-Be Hero
+
+[program.1132264]
+Burn It Into Your Heart
+
+[program.1132280]
+The Adventure Begins
+
+[program.1132296]
+Resolved to Set Out
+
+[program.1132312]
+Resolve
+
+[program.1132320]
+Strong Passion
+
+[program.1132336]
+Great Escape by Waterway
+
+[program.1132352]
+How Do You Know!?
+
+[program.1132376]
+Happy-Go-Lucky
+
+[program.1132384]
+With the Mystery Man
+
+[program.1132400]
+No Time to Lose
+
+[program.1132416]
+A Great Big Yawn
+
+[program.1132432]
+Sleeping Kids Just Sleep
+
+[program.1132448]
+Sleepyhead
+
+[program.1132464]
+A Secret Talent
+
+[program.1132480]
+LOVE! Girls in Glasses
+
+[program.1132504]
+As If It Were No Concern
+
+[program.1132520]
+A Wish on a Coin
+
+[program.1132544]
+Rumors of Mary
+
+[program.1132560]
+Jailbreakers
+
+[program.1132568]
+A Heart-Fluttering Journey
+
+[program.1132584]
+Standing on My Own
+
+[program.1132592]
+The Masked Man
+
+[program.1132608]
+The First Adventure
+
+[program.1132624]
+Absolute Destiny
+
+[program.1132640]
+A Mother's Love, and a Slap
+
+[program.1132656]
+Curfew
+
+[program.1132664]
+Tale of the Runaway Family
+
+[program.1132688]
+Be Prepared
+
+[program.1132704]
+Trap
+
+[program.1132720]
+Gorgeous Orphanage
+
+[program.1132744]
+In My Father's Footsteps
+
+[program.1132768]
+Ancient Secret Treasure
+
+[program.1132784]
+Not Paying Attention
+
+[program.1132800]
+Turned-Down Man: The Trailer
+
+[program.1132824]
+Memories of Playing Adventure
+
+[program.1132848]
+Landmark
+
+[program.1132856]
+Exploring the Ruins
+
+[program.1132872]
+All Set
+
+[program.1132888]
+Round of Greetings
+
+[program.1132904]
+The Dear Old Town
+
+[program.1132920]
+Welcome Home!
+
+[program.1135888]
+Done
+
+[program.1135896]
+Rift Between Dimensions
+
+[program.1135912]
+Last (Lower)
+
+[program.1135928]
+Last (Middle, Harold)
+
+[program.1135960]
+Last (Middle, Nanaly)
+
+[program.1135992]
+Last (Middle, Judas)
+
+[program.1136024]
+Last (Middle, Loni)
+
+[program.1136048]
+Last (Middle, Kyle)
+
+[program.1136072]
+Last (Middle)
+
+[program.1136088]
+Last (Upper)
+
+[program.1136104]
+Aquaveil (Coast)
+
+[program.1136128]
+Aquaveil (Forest)
+
+[program.1136152]
+Aquaveil (Plain)
+
+[program.1136176]
+Phandaria (Snow, Forest)
+
+[program.1136208]
+Phandaria (Forest)
+
+[program.1136232]
+Phandaria (Snow)
+
+[program.1136256]
+Phandaria (Plain)
+
+[program.1136280]
+Calvalese (Desert)
+
+[program.1136304]
+Calvalese (Coast)
+
+[program.1136328]
+Calvalese (Forest)
+
+[program.1136352]
+Calvalese (Plain)
+
+[program.1136376]
+Fitzgald (Fog)
+
+[program.1136400]
+Fitzgald (Coast)
+
+[program.1136424]
+Fitzgald (Forest)
+
+[program.1136448]
+Fitzgald (Plain)
+
+[program.1136472]
+Seinegald (Snow, Forest)
+
+[program.1136504]
+Seinegald (Road)
+
+[program.1136528]
+Seinegald (Stone Bridge)
+
+[program.1136552]
+Seinegald (Wood Bridge)
+
+[program.1136576]
+Seinegald (Snow)
+
+[program.1136600]
+Seinegald (Desert)
+
+[program.1136624]
+Seinegald (Coast)
+
+[program.1136648]
+Seinegald (Forest)
+
+[program.1136672]
+Seinegald (Plain)
+
+[program.1136696]
+Catacombs
+
+[program.1136712]
+Future (Desert)
+
+[program.1136728]
+Future (Coast)
+
+[program.1136744]
+Future (Forest)
+
+[program.1136760]
+Future (Plain)
+
+[program.1136776]
+Dycroft (TOD)
+
+[program.1136800]
+TOD
+
+[program.1136808]
+Spiral Cave
+
+[program.1136832]
+Dycroft (War Era)
+
+[program.1136856]
+Supply Storehouse
+
+[program.1136872]
+War Era (Snow)
+
+[program.1136896]
+War Era (Coast)
+
+[program.1136920]
+War Era (Forest)
+
+[program.1136936]
+Wild Forest
+
+[program.1136952]
+Coastal Cave
+
+[program.1136968]
+Altered Present (Wasteland)
+
+[program.1136992]
+Altered Present (Snow, Path)
+
+[program.1137016]
+Altered Present (Snow, Forest)
+
+[program.1137040]
+Altered Present (Snow)
+
+[program.1137064]
+Altered Present (Desert)
+
+[program.1137088]
+Altered Present (Coast)
+
+[program.1137112]
+Altered Present (Forest)
+
+[program.1137128]
+Altered Present (Plain)
+
+[program.1137152]
+Flying Dragon
+
+[program.1137160]
+Straylize Temple
+
+[program.1137184]
+Ruins of the Surface Army Base
+
+[program.1137200]
+Calviola
+
+[program.1137216]
+Trash Mountain (Puzzle)
+
+[program.1137248]
+Trash Mountain (Underground)
+
+[program.1137280]
+Trash Mountain (Surface)
+
+[program.1137312]
+Hope-Calviola (Desert)
+
+[program.1137336]
+Hope-Calviola (Coast)
+
+[program.1137360]
+Hope-Calviola (Forest)
+
+[program.1137384]
+Hope-Calviola (Plain)
+
+[program.1137408]
+Heat River
+
+[program.1137424]
+Cherik-Hope (Desert)
+
+[program.1137456]
+Cherik-Hope (Coast)
+
+[program.1137488]
+Cherik-Hope (Forest)
+
+[program.1137512]
+Cherik-Hope (Plain)
+
+[program.1137544]
+Heidelberg Castle
+
+[program.1137568]
+Snowfria-Heidelberg (Snow, Forest)
+
+[program.1137600]
+Snowfria-Heidelberg (Forest)
+
+[program.1137632]
+Snowfria-Heidelberg (Snow)
+
+[program.1137664]
+Snowfria-Heidelberg (Plain)
+
+[program.1137696]
+Oberon Corp. Cave
+
+[program.1137712]
+Oberon Corp. Abandoned Mine
+
+[program.1137728]
+Lienea-Neustadt (Road)
+
+[program.1137760]
+Lienea-Neustadt (Fog)
+
+[program.1137784]
+Lienea-Neustadt (Coast)
+
+[program.1137816]
+Lienea-Neustadt (Forest)
+
+[program.1137840]
+Lienea-Neustadt (Plain)
+
+[program.1137872]
+Ship: Cabin
+
+[program.1137888]
+Ship: Corridor
+
+[program.1137904]
+Straylize Ruins
+
+[program.1137928]
+Harmentz Valley
+
+[program.1137952]
+Darilsheid-Aigrette (Road)
+
+[program.1137976]
+Darilsheid-Aigrette (Stone Bridge)
+
+[program.1138008]
+Darilsheid-Aigrette (Wood Bridge)
+
+[program.1138040]
+Darilsheid-Aigrette (Desert)
+
+[program.1138064]
+Darilsheid-Aigrette (Coast)
+
+[program.1138088]
+Darilsheid-Aigrette (Forest)
+
+[program.1138112]
+Darilsheid-Aigrette (Plain)
+
+[program.1138136]
+Cresta-Darilsheid (Road, Night)
+
+[program.1138168]
+Cresta-Darilsheid (Stone Bridge, Night)
+
+[program.1138200]
+Cresta-Darilsheid (Wood Bridge, Night)
+
+[program.1138232]
+Cresta-Darilsheid (Coast, Night)
+
+[program.1138264]
+Cres-Daril (forest, night)
+
+[program.1138288]
+Cres-Daril (plain, night)
+
+[program.1138320]
+Waterway
+
+[program.1138336]
+Laguna Ruins
+
+[program.1138352]
+Cres-Daril (road)
+
+[program.1138376]
+Cres-Daril (stone bridge)
+
+[program.1138408]
+Cres-Daril (wood bridge)
+
+[program.1138440]
+Cres-Daril (coast)
+
+[program.1138464]
+Cres-Daril (forest)
+
+[program.1138488]
+Cres-Daril (plain)
+
+[program.1138512]
+Any number
+
+[program.1138912]
+Cost
+
+[program.1138920]
+, 
+
+[program.1138928]
+.
+
+[program.1139488]
+?
+
+[program.1139496]
++
+
+[program.1139576]
+ was cooked.
+
+[program.1139592]
+: cooking failed.
+
+[program.1139616]
+
+Mastery 
+
+[program.1139648]
+KO
+
+[program.1139664]
+Slow
+
+[program.1139672]
+Frozen
+
+[program.1139680]
+Numb
+
+[program.1139688]
+Weak
+
+[program.1139696]
+Poison
+
+[program.1139704]
+INT+
+
+[program.1139712]
+ACC+
+
+[program.1139720]
+DEF+
+
+[program.1139728]
+ATK+
+
+[program.1139736]
+HP regen
+
+[program.1139752]
+Dark level
+
+[program.1139768]
+Light level
+
+[program.1139784]
+Wind level
+
+[program.1139800]
+Fire level
+
+[program.1139816]
+Water level
+
+[program.1139832]
+Earth level
+
+[program.1139848]
+Chain level
+
+[program.1139864]
+Magic level
+
+[program.1139880]
+Skill level
+
+[program.1139896]
+Attack level
+
+[program.1139912]
+HP 
+
+[program.1139944]
+% healed
+
+
+[program.1139952]
+TP 
+
+[program.1139960]
+, 
+
+[program.1139976]
+ cured
+
+
+[program.1139984]
+ resist
+
+
+[program.1139992]
+ up
+
+
+[program.1140000]
+ down
+
+
+[program.1140008]
+ used
+
+[program.1140928]
+SP regen
+
+[program.1140944]
+Move speed
+
+[program.1140960]
+Damage cut
+
+[program.1140976]
+Guard count
+
+[program.1140992]
+TP cost cut
+
+[program.1141008]
+Mind
+
+[program.1141016]
+TP recovery
+
+[program.1141032]
+Evasion
+
+[program.1141040]
+Defense
+
+[program.1141048]
+Cast speed
+
+[program.1141064]
+Critical
+
+[program.1141080]
+Aim
+
+[program.1141088]
+Attack
+
+[program.1141096]
+Gem
+
+[program.1141104]
+Doll
+
+[program.1141112]
+Crest
+
+[program.1141120]
+Ring
+
+[program.1141128]
+Bangle
+
+[program.1141136]
+Boots
+
+[program.1141144]
+Cape
+
+[program.1141152]
+Mantle
+
+[program.1141160]
+Armlet
+
+[program.1141168]
+Gloves
+
+[program.1141176]
+Gauntlet
+
+[program.1141184]
+Dagger
+
+[program.1141192]
+Circlet
+
+[program.1141200]
+Hat
+
+[program.1141208]
+Helm
+
+[program.1141216]
+Clothes
+
+[program.1141224]
+Mail
+
+[program.1141232]
+Staff
+
+[program.1141240]
+Bow
+
+[program.1141248]
+Mace
+
+[program.1141256]
+Halberd
+
+[program.1141264]
+Axe
+
+[program.1141272]
+Spear
+
+[program.1141280]
+Saber
+
+[program.1141288]
+Sword
+
+[program.1141296]
+Cookware
+
+[program.1141312]
+Bottle/Pot
+
+[program.1141320]
+Medicine
+
+[program.1141328]
+Tools
+
+[program.1141336]
+Food
+
+[program.1141344]
+Collectible
+
+[program.1141352]
+Key
+
+[program.1141360]
+Charm
+
+[program.1141368]
+Shoes
+
+[program.1141376]
+Cloak
+
+[program.1141384]
+Arm
+
+[program.1141392]
+Head
+
+[program.1141400]
+Body
+
+[program.1141408]
+Weapons
+
+[program.1141424]
+Dark
+
+[program.1141432]
+Light
+
+[program.1141440]
+Wind
+
+[program.1141448]
+Fire
+
+[program.1141456]
+Water
+
+[program.1141464]
+Earth
+
+[program.1141472]
+SP cost cut
+
+[program.1141488]
+Luck
+
+[program.1141496]
+Def
+
+[program.1141504]
+Atk
+
+[program.1141512]
+Max HP
+
+[program.1141528]
+Dark
+
+[program.1141536]
+Light
+
+[program.1141544]
+Wind
+
+[program.1141552]
+Fire
+
+[program.1141560]
+Water
+
+[program.1141568]
+Earth
+
+[program.1141576]
+Rises as you chain actions
+
+[program.1141600]
+Rises as you cast spells
+
+[program.1141624]
+Rises as you use artes
+
+[program.1141648]
+Rises with normal attacks
+
+[program.1141704]
+Chain
+
+[program.1141720]
+Magic
+
+[program.1141736]
+Skill
+
+[program.1141744]
+Attack
+
+[program.1141840]
+Plan
+
+[program.1141848]
+To learn: 
+
+[program.1141976]
+Level-up bonus
+
+[program.1142080]
+<
+
+[program.1142120]
+>
+
+[program.1142176]
+HP
+
+[program.1142184]
+TP
+
+[program.1142200]
+Spell
+
+[program.1142208]
+EXP shares
+
+[program.1142240]
+ spells and artes raise it
+
+[program.1253712]
+Close the menu?
+  
+{09:35 00 00 00}Close  {09:36 00 00 00}Back
+
+[program.1255712]
+Save
+
+[program.1255720]
+Status
+
+[program.1255736]
+Refine
+
+[program.1255752]
+Equip
+
+[program.1255760]
+Items
+
+[program.1255776]
+Custom
+
+[program.1255792]
+Cooking
+
+[program.1255800]
+Tactics
+
+[program.1255808]
+Enchant
+
+[program.1255824]
+Artes
+
+[program.1255832]
+Play time
+
+[program.1255848]
+Battle rank
+
+[program.1255864]
+Max hits
+
+[program.1255880]
+Encounters
+
+[program.1255896]
+Lenses
+
+[program.1255904]
+Gald
+
+[program.1255912]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Back
+{09:37 00 00 00}Graph
+{09:38 00 00 00}Reorder
+
+[program.1255968]
+The {04:05 00 00 00}key help{04:07 00 00 00} shown after a while without input
+can be turned on and off by pressing
+the {04:05 00 00 00}SELECT button{04:07 00 00 00}.
+
+[program.1256176]
+No one in the battle party can fight.
+

@@ -1,0 +1,63 @@
+[91.000]
+Cave of Ice
+
+[91.001]
+"This is... a spellbook!"{PAGE}
+
+
+[91.002]
+{COLOR:03}{アーチェ} learned {STR:E307}.{COLOR:02}
+
+[91.003]
+"But it's no use my holding on to it. I'll put it back."
+
+[91.004]
+"It's frozen and won't move."
+
+[91.005]
+{COLOR:03}There is a lever. Throw it?{COLOR:02}
+
+[91.006]
+"Ow!{PAGE}
+That's hot."
+
+[91.007]
+"It's frozen solid and won't move."
+
+[91.008]
+"There's a hole here. Too narrow to get into... A wind seems to be blowing from inside."
+
+[91.009]
+"Hm? The lever won't move..."
+
+[91.010]
+{クレス}
+"Hm? The lever won't move..."
+
+[91.011]
+???
+"My name is Fenbeast.{PAGE}
+The Cave of Ice is a sanctuary not to be violated! In my sacred blade the soul of Lord Fenrir is sealed! I cannot give it up!!"
+
+[91.012]
+Fenbeast
+"Heh, to entrust my life to humans such as you. That too may be well.{PAGE}
+Come, take it. The sword of ice!"
+
+[91.013]
+{COLOR:03}Received {STR:440C}.{COLOR:02}{PAGE}
+{クレス}
+"Wh-what? It's speaking straight into my head..."
+
+[91.014]
+Fenbeast
+"Heh heh, you have no small power. You should be able to master this technique. Come, take it!"
+
+[91.015]
+{クレス}
+"I-it feels as if something is being poured into my head..."{PAGE}
+
+
+[91.016]
+{COLOR:03}{クレス} learned Jigenzan.{COLOR:02}
+

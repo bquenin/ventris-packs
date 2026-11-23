@@ -1,0 +1,254 @@
+[06612.001]
+Dycroft, Eighteen Years Ago
+
+[06612.002]
+Dycroft, Eighteen Years Ago
+
+[06612.003]
+Rutee
+
+[06612.004]
+Wh-what is this one!? He's tough. Don't let your guard down, everybody! You above all, Stahn!
+
+[06612.005]
+Stahn
+
+[06612.006]
+I-I know! You be careful too, Rutee!
+
+[06612.008]
+H-hey! Look, {NAME:01 00 00 00}! That's...!
+
+[06612.010]
+D-Dad, Mom...!?
+
+[06612.012]
+{NAME:01 00 00 00}, we have to help them!
+
+[06612.014]
+R-right, let's go! Give me a hand, everyone!
+
+[06612.015]
+Barbatos
+
+[06612.016]
+Well come, {NAME:01 00 00 00}! I was fighting these to pass the time... but they are not enough for me.
+
+[06612.018]
+Barbatos, you...!
+
+[06612.019]
+Barbatos
+
+[06612.020]
+To kill the two together would be sport of a kind... Hah!
+
+[06612.021]
+Stahn
+
+[06612.022]
+Guwaaah!
+
+[06612.024]
+Uwaaah!
+
+[06612.025]
+Barbatos
+
+[06612.026]
+What is this, {NAME:01 00 00 00} Dunamis! You will never slake my thirst like that!
+
+[06612.027]
+Stahn
+
+[06612.028]
+What strength...!
+
+[06612.030]
+Da...
+
+[06612.032]
+...Stahn! Let's time it together and hit him all at once!
+
+[06612.033]
+Stahn
+
+[06612.034]
+...All right, let's try it!
+
+[06612.035]
+Barbatos
+
+[06612.036]
+Hah!
+
+[06612.037]
+Stahn
+
+[06612.038]
+Teyaaaaah!
+
+[06612.040]
+Teyaaaaah!
+
+[06612.041]
+Barbatos
+
+[06612.042]
+Gah...!
+
+[06612.043]
+Stahn
+
+[06612.044]
+Thanks, that was a close one. You saved us.
+
+[06612.045]
+Stahn
+
+[06612.046]
+...You're really something, though. Landing an attack so in step with someone you've only just met.
+
+[06612.048]
+...It isn't the first time.
+
+[06612.049]
+Stahn
+
+[06612.050]
+...Huh?
+
+[06612.051]
+Rutee
+
+[06612.052]
+Stahn!
+
+[06612.053]
+Rutee
+
+[06612.054]
+Thanks, that was a close one. You really did save us. What's your name?
+
+[06612.056]
+It's... {NAME:01 00 00 00}. My name's {NAME:01 00 00 00} Dunamis.
+
+[06612.057]
+Rutee
+
+[06612.058]
+Dunamis... That means "potential", doesn't it. That's a good name.
+
+[06612.059]
+Stahn
+
+[06612.060]
+{NAME:01 00 00 00} sounds cool too. If I ever have a kid, maybe I'll give him a name like that.
+
+[06612.061]
+Stahn
+
+[06612.062]
+...Ju~st kidding, kidding!
+
+[06612.063]
+Rutee
+
+[06612.064]
+Stop talking nonsense and let's hurry on. We've got no time.
+
+[06612.066]
+U-um, are you going already? You're still hurt from that fight...
+
+[06612.067]
+Stahn
+
+[06612.068]
+Yeah, we have to go. We're fighting for our lives too. Just like you.
+
+[06612.070]
+........
+................
+
+[06612.071]
+Stahn
+
+[06612.072]
+Well then, so long...
+
+[06612.074]
+Wait, Stahn!
+
+[06612.076]
+I'm sure... no, I know it'll go well!
+
+[06612.077]
+Stahn
+
+[06612.078]
+...Thanks. You do your best too.
+
+[06612.080]
+The rest is your work. Isn't that right, Dad...
+
+[06612.082]
+...That was good, wasn't it.
+
+[06612.084]
+...Yeah!
+
+[06612.086]
+So, what now? From the look of things just then, Barbatos is still alive.
+
+[06612.088]
+Most likely he has gone to the Eye of God. We go there too.
+
+[06612.090]
+Wouldn't it be quicker to follow Stahn and the others?
+
+[06612.092]
+As if I could do anything so shabby as sneak along behind them. We take another route.
+
+[06612.094]
+As it happens, those stairs there look like a way on.
+
+[06612.096]
+Then let's get moving!
+
+[06612.097]
+Have a safe journey.
+
+[06612.098]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06612.099]
+Will you stay the night?
+
+[06612.101]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06612.102]
+Please rest well.
+
+[06612.103]
+Good morning.
+
+[06612.104]
+You do not have enough money.
+
+[06612.105]
+We look forward to seeing you again.
+
+[06612.110]
+Obtained {16:25 E6}.
+
+[06612.112]
+Obtained {08:FF FF FF FF}.
+
+[06612.114]
+Found {16:25 EE}, but you can carry no more.
+
+[06612.116]
+There is nothing here.
+

@@ -1,0 +1,181 @@
+[06405.001]
+Lienea Village: Village Head's House
+
+[06405.002]
+Lienea Village: Village Head's House
+
+[06405.003]
+Village Head's House
+
+[06405.004]
+Village Head
+
+[06405.005]
+Ask the village folk about Stahn. They'll tell you even the things I've forgotten.
+
+[06405.006]
+Village Head
+
+[06405.007]
+To be attacked by the lord of Devil's Reef... that was a hard voyage.
+
+[06405.009]
+Huh! You know about that already?
+
+[06405.010]
+Village Head
+
+[06405.011]
+Fo fo fo. Gossip spreads in no time. That's the countryside for you.
+
+[06405.012]
+Village Head
+
+[06405.013]
+If you're ever near here, come and call anytime, without ceremony.
+
+[06405.014]
+Village Head
+
+[06405.015]
+I'm glad to have met Stahn's son. Make yourself at home.
+
+[06405.016]
+Village Head
+
+[06405.017]
+A guest, out here in the country. How unusual. Why, you are...
+
+[06405.019]
+I'm {NAME:01 00 00 00} Dunamis, the son of Stahn Aileron.
+
+[06405.020]
+Village Head
+
+[06405.021]
+Oh... oh...! What a fine day this is, for Stahn's son to come calling!
+
+[06405.022]
+Village Head's Daughter
+
+[06405.023]
+Nothing you could really call an incident has ever happened in this village.
+
+[06405.024]
+Village Head's Daughter
+
+[06405.025]
+Oh, apart from Stahn becoming a hero, of course.
+
+[06405.026]
+Village Head's Daughter
+
+[06405.027]
+A ship being wrecked is the biggest incident since this village began.
+
+[06405.029]
+It's a big incident, sure... but isn't that making a bit much of it?
+
+[06405.030]
+Village Head's Daughter
+
+[06405.031]
+You don't understand the countryside. In this village, an incident hardly ever happens.
+
+[06405.032]
+Village Head's Daughter
+
+[06405.033]
+If Stahn came, Lilith would be glad. And I'd like to see Stahn again myself, after so long...
+
+[06405.034]
+Village Head's Daughter
+
+[06405.035]
+Say, how is Stahn doing these days?
+
+[06405.037]
+Um, well...
+
+[06405.038]
+Village Head's Daughter
+
+[06405.039]
+Tell Stahn to show his face in his hometown once in a while.
+
+[06405.040]
+Village Head's Daughter
+
+[06405.041]
+Welcome, {NAME:01 00 00 00}! As you can see, there's nothing here, but make yourself at home.
+
+[06405.042]
+Village Head's Daughter
+
+[06405.043]
+Oh... could you be Stahn's son, {NAME:01 00 00 00}?
+
+[06405.045]
+Whaat! How did you know?
+
+[06405.046]
+Village Head's Daughter
+
+[06405.047]
+Hm hm, of course I'd know. You're the very image of Stahn as a child.
+
+[06405.049]
+Firewood and straw are piled up.
+
+[06405.051]
+Expensive-looking decorative plates stand in a row.
+
+[06405.053]
+A stove of some age.
+
+[06405.054]
+A toy duck with a wind-up key.
+
+[06405.055]
+A name is written on the toy duck. "Ch...t"; the letters are too faded to read.
+
+[06405.058]
+A gossip magazine. "King Woodrow: Closing In on Where His Love Lies"
+
+[06405.059]
+Have a safe journey.
+
+[06405.060]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06405.061]
+Will you stay the night?
+
+[06405.063]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06405.064]
+Please rest well.
+
+[06405.065]
+Good morning.
+
+[06405.066]
+You do not have enough money.
+
+[06405.067]
+We look forward to seeing you again.
+
+[06405.072]
+Obtained {16:25 BA}.
+
+[06405.074]
+Obtained {08:FF FF FF FF}.
+
+[06405.076]
+Found {16:25 C2}, but you can carry no more.
+
+[06405.078]
+There is nothing here.
+

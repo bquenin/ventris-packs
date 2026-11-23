@@ -1,0 +1,15 @@
+[00934.001]
+By the way, {NAME:01 00 00 00}, did you say a proper goodbye to everyone before we left? An adventurer never knows when he'll be home again. You ought to say goodbye to the people who matter.
+
+[00934.002]
+Hey, don't treat me like a kid. I said my goodbyes. Dad and Mom, Villetta and Joe, everyone at the orphanage...
+
+[00934.003]
+Uh-huh.
+
+[00934.004]
+And Miyu and Arnold, the orphanage goats, and Giovanni the rooster. And then...
+
+[00934.005]
+Even the animals!? How dutiful...
+

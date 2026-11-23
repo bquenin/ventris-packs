@@ -1,0 +1,9 @@
+[00186.001]
+Listen, {NAME:01 00 00 00}. Once we're in the temple, do nothing to stand out. We're wanted men. Stand out even a little and we're caught.
+
+[00186.002]
+If we're caught, we just escape again. Like in Darilsheid.
+
+[00186.003]
+Sigh... You're so easygoing. We only got out thanks to that mask guy!
+

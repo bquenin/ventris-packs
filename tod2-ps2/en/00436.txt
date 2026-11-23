@@ -1,0 +1,12 @@
+[00436.001]
+{NAME:01 00 00 00}, get some sleep now, will you.
+
+[00436.002]
+When I think "{NAME:02 00 00 00} may be in danger somewhere", I just can't sleep...
+
+[00436.003]
+Phew... I know how you feel, but rest properly or you won't be able to move when it counts.
+
+[00436.004]
+Yeah. True...
+

@@ -1,0 +1,9 @@
+[00420.001]
+{NAME:02 00 00 00}... you don't look well. Are you all right?
+
+[00420.002]
+I-I'm fine... What an awful smell, though...
+
+[00420.003]
+There's poison gas about, too. Not a place to linger.
+

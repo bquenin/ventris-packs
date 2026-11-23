@@ -1,0 +1,9 @@
+[00432.001]
+I slipped up too... If I'd known it would come to this, I should have kept a closer eye on her then. She's a steady girl, so I thought she'd be fine, but to think she'd do something so drastic...
+
+[00432.002]
+If it comes to that, so did I. Not knowing how {NAME:02 00 00 00} felt, I threw careless words at her...
+
+[00432.003]
+Regret mends nothing. We catch up with {NAME:02 00 00 00}, fast. Think only of that.
+

@@ -1,0 +1,186 @@
+[23.000]
+Euclid Village
+
+[23.001]
+"Dragonfly, dragonfly!"
+
+[23.002]
+"I'm glad the war is over."
+
+[23.003]
+"Mister, is there really going to be a war?"{PAGE}
+{クレス}
+"What, a war?"{PAGE}
+"Yes... My mother said the king of a far-off country might go to war."
+
+[23.004]
+"Look, from here you can see Belladam village too.{PAGE}
+And the sacred tree beyond it. I used to go and play there a lot."
+
+[23.005]
+"Oh? You did well to find this spot.{PAGE}
+Well? A lovely view, isn't it?"
+
+[23.006]
+{クレス}
+"Um{SPEED:10}...{SPEED:FF} what are you doing in a place like that?"{PAGE}
+Woman
+"It has nothing to do with you{SPEED:10}...{SPEED:FF}"
+
+[23.007]
+{クレス}
+"Ummm{SPEED:10}...{SPEED:FF}"{PAGE}
+Woman
+"Yes?"{PAGE}
+{クレス}
+"Nice weather, isn't it...?"
+
+[23.008]
+{ミント}
+"What are you doing, {クレス}, chatting her up!?{PAGE}
+Never mind! I'll go myself!"
+
+[23.009]
+{ミント}
+"Um{SPEED:10}...{SPEED:FF} if something is troubling you, won't you tell us about it?"{PAGE}
+Woman
+"What?"
+
+[23.010]
+B-but{SPEED:10}...{SPEED:FF}{PAGE}
+{ミント}
+"You will feel better for talking."
+
+[23.011]
+Woman
+"There is someone{SPEED:10},{SPEED:FF} I love."{PAGE}
+
+
+[23.012]
+{ミント}
+"I thought so{SPEED:10}...{SPEED:FF} And who is he?"{PAGE}
+Woman
+"Elwin, who comes to the weapon shop{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"The weapon shop. I understand."
+
+[23.013]
+Woman
+"Elwin{SPEED:10}...{SPEED:FF}"
+
+[23.014]
+{クレス}
+"Excuse me. What is your name?"{PAGE}
+Woman
+"Oh, I'm sorry.
+I'm Nancy, the greengrocer's daughter."
+
+[23.015]
+Nancy
+"Elwin{SPEED:10}...{SPEED:FF}"
+
+[23.016]
+Nancy
+"It was no good, was it?{PAGE}
+I knew it, somehow. After all, he is the son of a company president, and I am a greengrocer's daughter. However you look at it, we are no match."{PAGE}
+{クレス}
+"Nancy{SPEED:10}...{SPEED:FF}"{PAGE}
+Nancy
+"Thank you. That's enough.
+I'm all right! I'll be fine..."
+
+[23.017]
+Nancy
+"{SPEED:10}...{SPEED:FF}"
+
+[23.018]
+"Yes, yes. Pay here, please."{PAGE}
+{COLOR:03}How much will you pay?{PAGE}
+1. 1 Gald
+2. 10 Gald
+3. 100 Gald
+4. 1000 Gald{COLOR:02}
+
+[23.019]
+"Thanks."
+
+[23.020]
+"Thank you.{PAGE}
+Northeast of here there's a valley called Lone Valley. There's something odd about the place."
+
+[23.021]
+"My, that's generous.{PAGE}
+A country called the Republic of Euclid may be founded on this continent soon. The Deloino tribe of the north, the Mailgan tribe of the south, and the Euclid tribe: the three are talking it over right now."
+
+[23.022]
+"My, that's generous.{PAGE}
+Dhaos means to go to war with Midgards. How will that turn out, I wonder?"
+
+[23.023]
+"Thank you very much! The customer is a god!!{PAGE}
+Somewhere in this world there is a white horse. An odd horse that will only meet a pure maiden."
+
+[23.024]
+"If you're only here to look, do it somewhere else."
+
+[23.025]
+"That's not enough money."
+
+[23.026]
+"Tararira~~~~."{PAGE}
+He is playing with gusto.
+
+[23.027]
+"Pokopoko~~~~."{PAGE}
+He is drumming with gusto.
+
+[23.028]
+"They're not very good, are they?"
+
+[23.029]
+{クレス}
+"Can you see anything?"{PAGE}
+"I can see a beautiful mountain range!"
+
+[23.030]
+{クレス}
+"What are you doing up there?"{PAGE}
+"You can see a long way from here."{PAGE}
+{クレス}
+"How did you climb up?"{PAGE}
+"That's a secret!"
+
+[23.031]
+{クレス}
+"What is it, {ミント}?"{PAGE}
+{ミント}
+"That lady is ill."{PAGE}
+{クレス}
+"What?"
+
+[23.032]
+{クレス}
+"She doesn't look pale or anything{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Oh, honestly! You are slow, {クレス}! She is lovesick{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[23.033]
+{クレス}
+"Lovesick!?"{PAGE}
+
+
+[23.034]
+{ミント}
+"Those empty eyes, that faint air of sorrow{SPEED:10}...{SPEED:FF}"{PAGE}
+"I wonder if we can do something for her?"{PAGE}
+{クレス}
+"I think it's none of our business."{PAGE}
+
+
+[23.035]
+{ミント}
+"Did you say something!?"{PAGE}
+{クレス}
+"No, nothing."
+

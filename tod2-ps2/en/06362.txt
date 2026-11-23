@@ -1,0 +1,104 @@
+[06362.001]
+Aigrette
+
+[06362.002]
+Aigrette
+
+[06362.003]
+Old Woman
+
+[06362.004]
+Long ago there were ruins here.
+
+[06362.005]
+Old Woman
+
+[06362.006]
+They were forgotten as Aigrette grew, though.
+
+[06362.007]
+Old Woman
+
+[06362.008]
+Right about, see, where that hill is.
+
+[06362.009]
+Man
+
+[06362.010]
+Whew, I brought in a bit too much stock, and the inside of the warehouse is a total mess.
+
+[06362.011]
+Man
+
+[06362.012]
+If you folks don't mind, could you tidy the warehouse so people can get through?
+
+[06362.014]
+{03:00 00 00 00}　Help　
+　Don't help　
+
+[06362.015]
+Man
+
+[06362.016]
+If you want to start over or quit partway, choose from the SELECT button menu. When you try again, you can start from any warehouse you've cleared, so do your best.
+
+[06362.017]
+Man
+
+[06362.018]
+Whew, I brought in a bit too much stock, and the inside of the warehouse is a total mess.
+
+[06362.019]
+Man
+
+[06362.020]
+Sigh, won't somebody help me tidy the warehouse? If you sorted it out properly, I'd even give you a title or something...
+
+[06362.021]
+Man
+
+[06362.022]
+Which warehouse will you start from?
+
+[06362.027]
+A landing stage for unloading cargo. There are signs that a great deal of cargo was moved.
+
+[06362.028]
+Have a safe journey.
+
+[06362.029]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06362.030]
+Will you stay the night?
+
+[06362.032]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06362.033]
+Please rest well.
+
+[06362.034]
+Good morning.
+
+[06362.035]
+You do not have enough money.
+
+[06362.036]
+We look forward to seeing you again.
+
+[06362.041]
+Obtained {16:25 C2}.
+
+[06362.043]
+Obtained {08:FF FF FF FF}.
+
+[06362.045]
+Found {16:25 CA}, but you can carry no more.
+
+[06362.047]
+There is nothing here.
+

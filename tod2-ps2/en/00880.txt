@@ -1,0 +1,12 @@
+[00880.001]
+Don't like what you built, so "smash it all and start over"? That's a child with blocks.
+
+[00880.002]
+You mean Elraine?
+
+[00880.003]
+Yup! Her kind are pure at heart, so they won't bend, and that's the trouble... Aah! What's this!? There's something foreign in the data I took! Hey, {NAME:01 00 00 00}! Let me draw your blood again! It's fine! It won't hurt! Hah!
+
+[00880.004]
+She's the same.
+

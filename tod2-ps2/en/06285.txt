@@ -1,0 +1,25 @@
+[06285.4788]
+Moria Mine
+
+[06285.4801]
+Dark Den
+
+[06285.4810]
+Flame
+
+[06285.4817]
+Ice Cave
+
+[06285.4826]
+Where does this
+monster appear?
+
+[06285.4870]
+Right.
+
+[06285.4877]
+Wrong.
+
+[06285.4884]
+Time's up
+

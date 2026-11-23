@@ -1,0 +1,18 @@
+[00526.001]
+Say, {NAME:01 00 00 00}... if, just if, you and I had been born knowing nothing of how this world came to be like this... could we have been happy?
+
+[00526.002]
+...What are you saying, {NAME:02 00 00 00}? That couldn't...
+
+[00526.003]
+I mean, with no mission, none of it, there'd be no worry, no suffering...
+
+[00526.004]
+But... then you and I would surely never have met, {NAME:02 00 00 00}. It's because you were looking for a hero that we met, {NAME:02 00 00 00}.
+
+[00526.005]
+Yes... I know that. But............ I'm sorry, I said something strange. Forget it, {NAME:01 00 00 00}.
+
+[00526.006]
+Reala...
+

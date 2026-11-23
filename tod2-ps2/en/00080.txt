@@ -1,0 +1,33 @@
+[00080.001]
+Damn! By my calculations, we should've got the Lens before the Order came.
+
+[00080.002]
+Well, your calculations being off is no surprise, {NAME:03 00 00 00}.
+
+[00080.003]
+Gah! You're the la~st person I want to hear that from!
+
+[00080.004]
+I know! Let's get ahead and set a trap! Then we can take the Lens first!
+
+[00080.005]
+What kind of trap?
+
+[00080.006]
+A pitfall, maybe...
+
+[00080.007]
+At eight, someone dug one for a monster and fell in himself.
+
+[00080.008]
+Or put up a wrong signpost to get them lost...
+
+[00080.009]
+At ten, someone did just that and couldn't find his own way home.
+
+[00080.010]
+A-anyway, we find it first and run for it!
+
+[00080.011]
+Guess that's it...
+

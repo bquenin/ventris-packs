@@ -1,0 +1,267 @@
+[06476.001]
+Cherik: House
+
+[06476.002]
+Cherik
+
+[06476.003]
+House
+
+[06476.004]
+Young Lady
+
+[06476.005]
+It was ten years ago that pilgrims began to bring this town some prosperity.
+
+[06476.006]
+Young Lady
+
+[06476.007]
+But over these ten years, a great many people have moved to Aigrette.
+
+[06476.008]
+Young Lady
+
+[06476.009]
+In the end it's a big loss... The town itself has declined, and this place may not last long either.
+
+[06476.010]
+Young Lady
+
+[06476.011]
+I have no interest in gods, but it seems everyone else is different.
+
+[06476.012]
+Young Lady
+
+[06476.013]
+Many people moved to Aigrette, believing in Fortuna's worldly blessings...
+
+[06476.014]
+Toshu
+
+[06476.015]
+Yo! Traveler! The name's Toshu! Not so long ago I was a warrior of some renown!
+
+[06476.016]
+Toshu
+
+[06476.017]
+Long ago I fought monsters alongside Stahn of the Four Heroes! I finished the monsters off in seconds, naturally!
+
+[06476.019]
+Come to think of it, Dad once told me he "saved a boy who was being attacked by slugs". I think the boy's name was Toshu...
+
+[06476.020]
+Toshu
+
+[06476.021]
+Urk! H-how do you know the truth!?
+
+[06476.022]
+Toshu
+
+[06476.023]
+All right, yes! Stahn once saved me! After all, I was still a kid back then!
+
+[06476.024]
+Toshu
+
+[06476.025]
+Heh! But the warrior of some renown part is true, you know? After I met Stahn, I learned the sword in earnest.
+
+[06476.026]
+Toshu
+
+[06476.027]
+Meeting him changed my life greatly. Stahn is a true hero!
+
+[06476.029]
+There is a chicken.
+
+[06476.031]
+A perfectly ordinary toilet.
+
+[06476.032]
+Chef
+
+[06476.033]
+Been making {16:34 7C}?
+
+[06476.034]
+Chef
+
+[06476.035]
+Would you like to know how to make {16:34 7C}?
+
+[06476.037]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06476.038]
+Chef
+
+[06476.039]
+I'll teach you how to make {16:34 7C}.
+
+[06476.040]
+Chef
+
+[06476.041]
+Going to make it yourself? Well, that's fine too.
+
+[06476.042]
+Chef
+
+[06476.043]
+I have the recipe for {16:34 7C}. Will you buy it for {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald?
+
+[06476.045]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06476.046]
+Chef
+
+[06476.047]
+You don't have enough money.
+
+[06476.048]
+Chef
+
+[06476.049]
+I'll sell you the recipe for {16:34 7C}.
+
+[06476.050]
+Chef
+
+[06476.051]
+Well, it can't be helped.
+
+[06476.052]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06476.053]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.054]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.055]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.056]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.057]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06476.058]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.059]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.060]
+Chef
+
+[06476.061]
+To make {16:34 7C} you need:
+{18:44 78}
+
+[06476.062]
+Chef
+
+[06476.063]
+Why, you have the ingredients.
+
+[06476.064]
+Chef
+
+[06476.065]
+Let me have them and I'll make {16:34 7C}. How about it?
+
+[06476.067]
+{03:00 00 00 00}　Yes
+　No
+
+[06476.068]
+Chef
+
+[06476.069]
+All right, wait there. I'll make you {16:34 7C} right away.
+
+[06476.070]
+Chef
+
+[06476.071]
+That's a shame. It's really delicious...
+
+[06476.072]
+Chef
+
+[06476.073]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06476.074]
+Chef
+
+[06476.075]
+You are not worthy. Come back another time.
+
+[06476.076]
+Chef
+
+[06476.077]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06476.079]
+Picked up the recipe for {16:34 7C}.
+
+[06476.081]
+Learned how to make {16:34 90}.
+
+[06476.082]
+Have a safe journey.
+
+[06476.083]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06476.084]
+Will you stay the night?
+
+[06476.086]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06476.087]
+Please rest well.
+
+[06476.088]
+Good morning.
+
+[06476.089]
+You do not have enough money.
+
+[06476.090]
+We look forward to seeing you again.
+
+[06476.095]
+Obtained {16:25 DE}.
+
+[06476.097]
+Obtained {08:FF FF FF FF}.
+
+[06476.099]
+Found {16:25 E6}, but you can carry no more.
+
+[06476.101]
+There is nothing here.
+

@@ -1,0 +1,365 @@
+[06740.001]
+Dunamis Orphanage
+
+[06740.002]
+Dunamis Orphanage
+
+[06740.003]
+Dunamis Orphanage
+
+[06740.005]
+{05:80 01 00 00}Owwwww~!!
+
+[06740.006]
+Basil
+
+[06740.007]
+Yaay! We won, we won, we won again!
+
+[06740.008]
+Cinnamon
+
+[06740.009]
+What are you doing, honestly! If {NAME:01 00 00 00} goes down there, it's all for nothing!
+
+[06740.010]
+Cinnamon
+
+[06740.011]
+You're the son of Stahn the hero, aren't you? Get it together a bit, will you! Sheesh...
+
+[06740.013]
+Haha, sorry, sorry. It's not so easy to do it like Dad.
+
+[06740.014]
+Cinnamon
+
+[06740.015]
+But you know, playing pretend day in, day out is boring. And with {NAME:01 00 00 00} like this...
+
+[06740.016]
+Cinnamon
+
+[06740.017]
+...I know! Today, let's go on a real adventure!
+
+[06740.018]
+Uni
+
+[06740.019]
+Oh, good idea! I'm in~!
+
+[06740.020]
+Basil
+
+[06740.021]
+B-but there are monsters outside the town!? It's dangerous with just us...
+
+[06740.022]
+Cinnamon
+
+[06740.023]
+It'll be fine! If monsters show up, we just run.
+
+[06740.024]
+Cinnamon
+
+[06740.025]
+Besides, if it comes to it, {NAME:01 00 00 00} will protect us! Right?
+
+[06740.027]
+You bet! Leave it to {NAME:01 00 00 00} Dunamis, the great hero of the future!
+
+[06740.029]
+All right, we're leaving town for an adventure! Nobody strays from me! Got it!
+
+[06740.031]
+Tah! Hah! Deyah!!
+
+[06740.032]
+Stahn
+
+[06740.033]
+What's wrong, {NAME:01 00 00 00}! The tip of your sword keeps dropping! Worn out already!?
+
+[06740.035]
+Damn it, I'm not done yet!
+
+[06740.037]
+Deyaaaaah!!
+
+[06740.038]
+Stahn
+
+[06740.039]
+Wh-whaat!?
+
+[06740.040]
+Stahn
+
+[06740.041]
+...!
+
+[06740.043]
+Hah, hah... I... I did it...!
+
+[06740.044]
+Stahn
+
+[06740.045]
+H-hey! Are you all right, {NAME:01 00 00 00}!?
+
+[06740.047]
+Heheh... That's my first win, right, Dad?
+
+[06740.048]
+Stahn
+
+[06740.049]
+Yes, it is. You got me. I give up.
+
+[06740.050]
+Stahn
+
+[06740.051]
+That's one more step closer to being a hero for you.
+
+[06740.053]
+No, that's not it.
+
+[06740.055]
+A hero isn't something you set out to be, and you can't become one just because you want to.
+
+[06740.057]
+Isn't that right, Dad?
+
+[06740.058]
+Stahn
+
+[06740.059]
+Oh...?
+
+[06740.061]
+Oh, hard at it, {NAME:01 00 00 00}!
+
+[06740.063]
+Ah, {NAME:03 00 00 00}!
+
+[06740.065]
+Here, bread from our shop. Leftovers, mind you.
+
+[06740.067]
+Thanks, you're always such a help...
+
+[06740.068]
+Child's Voice
+
+[06740.069]
+Yaay!
+
+[06740.070]
+Cinnamon
+
+[06740.071]
+Yaay!
+
+[06740.072]
+Basil
+
+[06740.073]
+Bread, bread!
+
+[06740.074]
+Rim
+
+[06740.075]
+I'm starving!
+
+[06740.076]
+Blue
+
+[06740.077]
+Grub! Grub!
+
+[06740.078]
+Salt
+
+[06740.079]
+Food, yaay!
+
+[06740.080]
+Jan
+
+[06740.081]
+I'm so hungry!
+
+[06740.082]
+Mina
+
+[06740.083]
+Yummy bread!
+
+[06740.084]
+Tonia
+
+[06740.085]
+Thank you, {NAME:03 00 00 00}!
+
+[06740.086]
+Salt
+
+[06740.087]
+Yaay! Yaay!
+
+[06740.089]
+S-still, I get the feeling there's a lot more of them...
+
+[06740.090]
+Stahn
+
+[06740.091]
+Hahahahaha! However many there are, bring them on!
+
+[06740.093]
+...Yeah, I do think Dad and Mom are heroes after all.
+
+[06740.094]
+Stahn
+
+[06740.095]
+Of course we are! Come on, hurry or you'll miss out on the food!
+
+[06740.097]
+Yeah!
+
+[06740.098]
+Stahn
+
+[06740.099]
+{NAME:03 00 00 00}, come over on your next day off and stay a while.
+
+[06740.101]
+Y-yes, sir! See you, then, {NAME:01 00 00 00}!
+
+[06740.103]
+Thanks, {NAME:03 00 00 00}! See you!
+
+[06740.105]
+Dad, Mom, and everyone... I'm off!
+
+[06740.107]
+Hey, you took your time!
+
+[06740.109]
+{NAME:03 00 00 00}!? Why are you...
+
+[06740.111]
+Honestly. Setting off on a journey alone without a word to me, your best friend. You really are a heartless one.
+
+[06740.113]
+S-sorry. But how did you...
+
+[06740.115]
+I can see through everything you do. It's been that way since you were a little squirt, hasn't it?
+
+[06740.117]
+Still, I never thought you'd beat me to it.
+
+[06740.119]
+Huh?
+
+[06740.121]
+I mean you're not the only one who looks up to Stahn and Rutee.
+
+[06740.123]
+Come on, let's go, partner!
+
+[06740.125]
+...Yeah. You're right, it wouldn't be a start without {NAME:03 00 00 00}!
+
+[06740.127]
+Oh, so you finally get it! Hahaha!
+
+[06740.129]
+Come on, let's go. To a world we've never seen!
+
+[06740.131]
+...Yeah!
+
+[06740.133]
+Dad said that on my journey I should look for the thing that's irreplaceable to me...
+
+[06740.135]
+I don't know yet what that is...
+
+[06740.137]
+But I'll find it for sure! As long as I'm with {NAME:03 00 00 00}!
+
+[06740.138]
+Have a safe journey.
+
+[06740.139]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06740.140]
+Will you stay the night?
+
+[06740.142]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06740.143]
+Please rest well.
+
+[06740.144]
+Good morning.
+
+[06740.145]
+You do not have enough money.
+
+[06740.146]
+We look forward to seeing you again.
+
+[06740.151]
+Obtained {16:26 7A}.
+
+[06740.153]
+Obtained {08:FF FF FF FF}.
+
+[06740.155]
+Found {16:26 82}, but you can carry no more.
+
+[06740.157]
+There is nothing here.
+
+[06740.158]
+Dunamis Orphanage
+
+[06740.160]
+Play on the slide?
+
+[06740.162]
+{03:00 00 00 00}　Play　
+　Don't play　
+
+[06740.164]
+All right!
+
+[06740.166]
+Because {NAME:01 00 00 00} has been slacking off, there is not a single log in the woodshed...
+
+[06740.168]
+That's a lot of laundry. Day in, day out, Mom has it tough...
+
+[06740.170]
+The orphans' laundry is hung out to dry. It seems Rutee hangs it all by herself.
+
+[06740.172]
+The orphanage's flower bed. Pretty flowers are in bloom.
+
+[06740.174]
+A signboard.
+"Dunamis Orphanage
+Directors: Stahn Aileron
+and Rutee Katrea"
+

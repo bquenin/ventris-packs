@@ -1,0 +1,127 @@
+[06355.001]
+Harmentz Valley
+
+[06355.002]
+Harmentz Valley
+
+[06355.003]
+???
+
+[06355.005]
+The wreckage of the aerial city that fell eighteen years ago.
+
+[06355.006]
+...What is it? I have no time to talk with you.
+
+[06355.007]
+It's not here... not here either... What do I do...
+
+[06355.009]
+Hey, you?
+
+[06355.010]
+What do I do... I can't find it... Without it, I...!
+
+[06355.012]
+Hey, I said!
+
+[06355.013]
+Ah...
+
+[06355.015]
+...! Are you... crying?
+
+[06355.016]
+...What is it? I have no time to talk with you.
+
+[06355.018]
+That's a pretty cold thing to say, when we picked up what you dropped for you.
+
+[06355.019]
+Huh!?
+
+[06355.021]
+This is yours, right? Here!
+
+[06355.022]
+...!
+
+[06355.024]
+Hey, hey. Not even a word of thanks?
+
+[06355.026]
+It's precious enough that you were crying while you looked for it, isn't it?
+
+[06355.027]
+Ah...
+
+[06355.028]
+...Th-thank you.
+
+[06355.030]
+Oh, it's nothing. Helping people in trouble is only natural for a hero!
+
+[06355.031]
+A hero...
+
+[06355.032]
+...No. It's not you after all.
+
+[06355.034]
+Huh, what?
+
+[06355.035]
+I thank you for picking it up.
+
+[06355.036]
+But... please don't involve yourself with me anymore. Goodbye.
+
+[06355.038]
+Ah, wait a second, hey!
+
+[06355.040]
+...What an attitude. Hey, {NAME:01 00 00 00}, a girl like that isn't worth chasing, you know?
+
+[06355.042]
+No way! I'm going to make that girl admit I'm a hero, no matter what!
+
+[06355.044]
+Come on, let's go too! If we dawdle, she'll get farther and farther ahead!
+
+[06355.045]
+Have a safe journey.
+
+[06355.046]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06355.047]
+Will you stay the night?
+
+[06355.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06355.050]
+Please rest well.
+
+[06355.051]
+Good morning.
+
+[06355.052]
+You do not have enough money.
+
+[06355.053]
+We look forward to seeing you again.
+
+[06355.058]
+Obtained {16:26 06}.
+
+[06355.060]
+Obtained {08:FF FF FF FF}.
+
+[06355.062]
+Found {16:26 0E}, but you can carry no more.
+
+[06355.064]
+There is nothing here.
+

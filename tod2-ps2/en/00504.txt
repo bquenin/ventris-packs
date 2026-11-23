@@ -1,0 +1,15 @@
+[00504.001]
+If this is another world, how do we get back to our own?
+
+[00504.002]
+Hmm... They say when you're lost it's best to go back the way you came, so we go back to the beach and...
+
+[00504.003]
+And then what? We got there by the power of {NAME:02 00 00 00} to move through space.
+
+[00504.004]
+I know that much. {NAME:02 00 00 00} wished "take everyone somewhere safe!", so now she wishes the opposite, "take everyone somewhere dangerous!"...
+
+[00504.005]
+That's why you get lost...
+

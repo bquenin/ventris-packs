@@ -1,0 +1,154 @@
+[06723.001]
+Laguna Ruins
+
+[06723.002]
+Laguna Ruins
+
+[06723.004]
+Look, {NAME:01 00 00 00}! Everything's just as it was then.
+
+[06723.006]
+These flowers, this spring, that bird, that sky...!
+
+[06723.008]
+...Well, of course. Hardly any time has gone by since then.
+
+[06723.010]
+But it's strange. No time has gone by, and yet I have been with you so long, {NAME:01 00 00 00}.
+
+[06723.012]
+By the flow of time it was only a little while, and yet we spent so very much time together...
+
+[06723.014]
+It's a funny feeling! Hehe...
+
+[06723.016]
+...Why?
+
+[06723.018]
+How can you smile like that, {NAME:02 00 00 00}?
+
+[06723.020]
+You... may die!
+
+[06723.022]
+And still, how can you look so calm!?
+
+[06723.024]
+Why do you... show me a smile like that...!
+
+[06723.026]
+When I see your face like that, I...!
+
+[06723.028]
+{NAME:01 00 00 00}...
+
+[06723.030]
+...Why me... Why does the one who kills you have to be me!!
+
+[06723.032]
+I've had enough! I don't want to fight any more! I'm done being a hero!
+
+[06723.034]
+"I'm done being a hero", you say...!
+
+[06723.036]
+Pull yourself together, {NAME:01 00 00 00} Dunamis!
+
+[06723.038]
+Something only you can do...
+
+[06723.040]
+No. Something that can be done because it is you lies before you now.
+
+[06723.042]
+It may well be far, far more painful than dying.
+
+[06723.044]
+...But I believe. That the {NAME:01 00 00 00} I love would never run from it.
+
+[06723.046]
+Because that is who {NAME:01 00 00 00} is.
+
+[06723.048]
+Tell me, {NAME:02 00 00 00}... What should I do...!?
+
+[06723.050]
+You know too, {NAME:01 00 00 00}, don't you? ...Yes. That answer is not wrong.
+
+[06723.052]
+If I choose that road, what happens to you, {NAME:02 00 00 00}...?
+
+[06723.054]
+I will vanish, I suppose. From all of space and time.
+
+[06723.056]
+Aren't you afraid of vanishing?
+
+[06723.058]
+...I am not afraid.
+
+[06723.060]
+Because it was you who taught me, {NAME:01 00 00 00}.
+
+[06723.062]
+That whatever unhappiness may wait ahead... what matters is to walk by your own will.
+
+[06723.064]
+That only by walking on like that can you come to hold true happiness.
+
+[06723.066]
+{NAME:02 00 00 00}...
+
+[06723.068]
+Just as you chose the road of giving history back into people's hands, {NAME:01 00 00 00}, I have chosen too.
+
+[06723.070]
+The road of walking with the one I love... with {NAME:01 00 00 00}.
+
+[06723.072]
+Whatever ending may wait ahead... I will not stop walking.
+
+[06723.074]
+Because my happiness lies on the road I walk with {NAME:01 00 00 00}.
+
+[06723.076]
+................
+
+[06723.077]
+Have a safe journey.
+
+[06723.078]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06723.079]
+Will you stay the night?
+
+[06723.081]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06723.082]
+Please rest well.
+
+[06723.083]
+Good morning.
+
+[06723.084]
+You do not have enough money.
+
+[06723.085]
+We look forward to seeing you again.
+
+[06723.090]
+Obtained {16:25 BA}.
+
+[06723.092]
+Obtained {08:FF FF FF FF}.
+
+[06723.094]
+Found {16:25 C2}, but you can carry no more.
+
+[06723.096]
+There is nothing here.
+

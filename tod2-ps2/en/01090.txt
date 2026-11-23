@@ -1,0 +1,9 @@
+[01090.001]
+Oh no, look how late it is! We've got to get back to the orphanage!
+
+[01090.002]
+From Darilsheid, Cresta is east. Go round the southern mountains.
+
+[01090.003]
+Got it. Hurry!
+

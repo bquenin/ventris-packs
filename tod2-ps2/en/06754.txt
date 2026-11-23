@@ -1,0 +1,388 @@
+[06754.001]
+Katz Village
+
+[06754.002]
+Katz Village
+
+[06754.003]
+Marshmallow
+
+[06754.004]
+Katz Village
+
+[06754.005]
+Katz Village
+
+[06754.006]
+Katz
+
+[06754.007]
+I'll go bald, mew!
+
+[06754.008]
+Katz
+
+[06754.009]
+I'll go bald, mew!
+
+[06754.010]
+Katz
+
+[06754.011]
+I'll go bald, mew!
+
+[06754.013]
+No claw sharpening
+
+[06754.015]
+No claw sharpening
+
+[06754.017]
+A cat daruma.
+
+[06754.019]
+Noko growing here
+
+[06754.020]
+Katz
+
+[06754.021]
+A spot with "structure" like this is the place to be, mew.
+
+[06754.022]
+Katz
+
+[06754.023]
+Not a bite, mew~...
+
+[06754.025]
+Make an offering?
+
+[06754.027]
+{03:00 00 00 00}　Make one　
+　Don't　
+
+[06754.029]
+You do not have enough money.
+
+[06754.030]
+General Store
+
+[06754.031]
+Welcome, mew! Do buy something, mew!
+
+[06754.032]
+Thank you very much, mew!
+
+[06754.033]
+That's a pity, mew...
+
+[06754.034]
+General Store
+
+[06754.035]
+General Store
+
+[06754.036]
+It's been ages since we had customers, mew!
+
+[06754.037]
+Grocer
+
+[06754.038]
+Welcome, mew! Do buy something, mew!
+
+[06754.039]
+Thank you very much, mew!
+
+[06754.040]
+That's a pity, mew...
+
+[06754.041]
+Grocer
+
+[06754.042]
+Grocer
+
+[06754.043]
+Welcome, mew!
+
+[06754.044]
+Weapon Shop
+
+[06754.045]
+Welcome, mew! Do buy something, mew!
+
+[06754.046]
+Thank you very much, mew!
+
+[06754.047]
+That's a pity, mew...
+
+[06754.048]
+General Store
+
+[06754.049]
+Armor Shop
+
+[06754.050]
+Welcome, mew! Do buy something, mew!
+
+[06754.051]
+Thank you very much, mew!
+
+[06754.052]
+That's a pity, mew...
+
+[06754.053]
+Grocer
+
+[06754.054]
+Katz
+
+[06754.055]
+Mew! Mew! Mew! Mew!
+
+[06754.056]
+Katz
+
+[06754.057]
+This is "Katz Village", mew.
+
+[06754.058]
+Katz
+
+[06754.059]
+The hot spring keeps it warm, mew.
+
+[06754.061]
+A hot spring, and no baths...?
+
+[06754.062]
+Katz
+
+[06754.063]
+Baths get you wet, so we hate them, mew.
+
+[06754.064]
+Katz
+
+[06754.065]
+My paw pads go pat-pat, mew.
+
+[06754.067]
+A Katz... is that something you wear?
+
+[06754.068]
+Katz
+
+[06754.069]
+Mew-mew~! Stop it, mew~~!
+
+[06754.071]
+Oh, a zipper...
+
+[06754.072]
+Katz
+
+[06754.073]
+I'm proud of my paw pads, mew.
+
+[06754.074]
+Katz
+
+[06754.075]
+My Katz suit keeps me warm, mew.
+
+[06754.076]
+Mushroom Seller
+
+[06754.077]
+Will you eat a Noko mushroom, mew?
+
+[06754.079]
+{03:00 00 00 00}　Eat it, mew　
+　Don't, mew　
+
+[06754.080]
+Mushroom Seller
+
+[06754.081]
+That's a pity, mew...
+
+[06754.082]
+Mushroom Seller
+
+[06754.083]
+Wait a moment, mew.
+
+[06754.084]
+Mushroom Seller
+
+[06754.085]
+Come back when the Noko's ears have grown again, mew.
+
+[06754.086]
+Mushroom Seller
+
+[06754.087]
+Noko mushrooms are very tasty, mew.
+
+[06754.088]
+Chime
+
+[06754.089]
+No name? How odd, mew~
+
+[06754.090]
+Chime
+
+[06754.091]
+What a cool name, mew~ I'm jealous, mew.
+
+[06754.092]
+Chime
+
+[06754.093]
+"Chime" is a cool name too, mew!
+
+[06754.094]
+Xylophone
+
+[06754.095]
+No home? How odd, mew~
+
+[06754.096]
+Xylophone
+
+[06754.097]
+"{08:02 0C 00 00}" is going to live at Grandpa's house, mew.
+
+[06754.098]
+Chime
+
+[06754.099]
+Where did you come from, mew~?
+
+[06754.100]
+Xylophone
+
+[06754.101]
+What's your name, mew?
+
+[06754.103]
+I don't know, myu...
+
+[06754.105]
+I see... This one is not of this village, it seems.
+
+[06754.107]
+What do you mean?
+
+[06754.109]
+The dialect is different.
+
+[06754.111]
+I've traveled all sorts of places, but somehow I like where the snow falls. I want to live here and be called by a name, myu~
+
+[06754.113]
+...Please, myu. I want you to give me a name, myu.
+
+[06754.115]
+Give it a name?
+
+[06754.117]
+{03:00 00 00 00}　Name it　
+　Don't　
+
+[06754.119]
+Thank you, myu~ Think up a cool name, myu!
+
+[06754.121]
+You decide to think for a while about what name would be good.
+
+[06754.123]
+Myu...
+
+[06754.125]
+Thank you, myu~ Think up a cool name, myu!
+
+[06754.126]
+Katz Kitten
+
+[06754.128]
+Have you chosen a name, myu?
+
+[06754.130]
+{03:00 00 00 00}　Chosen　
+　Not yet　
+
+[06754.132]
+The name is "{08:02 0C 00 00}".
+Is that all right?
+
+[06754.134]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06754.136]
+Thank you, myu~
+
+[06754.138]
+Myu...
+
+[06754.140]
+Thank you for the name, myu~ "{08:02 0C 00 00}" is the best, myu~
+
+[06754.142]
+If I can ever be of use, call me any time, myu!
+
+[06754.144]
+I'm off for a walk, mya!
+
+[06754.145]
+Mushroom Seller
+
+[06754.146]
+Here you are, mew.
+
+[06754.148]
+Recovered.
+
+[06754.149]
+Have a safe journey.
+
+[06754.150]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06754.151]
+Will you stay the night?
+
+[06754.153]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06754.154]
+Please rest well.
+
+[06754.155]
+Good morning.
+
+[06754.156]
+You do not have enough money.
+
+[06754.157]
+We look forward to seeing you again.
+
+[06754.162]
+Obtained {16:25 E2}.
+
+[06754.164]
+Obtained {08:FF FF FF FF}.
+
+[06754.166]
+Found {16:25 EA}, but you can carry no more.
+
+[06754.168]
+There is nothing here.
+

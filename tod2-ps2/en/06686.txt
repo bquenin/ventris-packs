@@ -1,0 +1,46 @@
+[06686.001]
+Egg of God: Middle Level
+
+[06686.002]
+Egg of God: Middle Level
+
+[06686.004]
+The treasure chest was a Cheap Trick.
+
+[06686.005]
+Have a safe journey.
+
+[06686.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06686.007]
+Will you stay the night?
+
+[06686.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06686.010]
+Please rest well.
+
+[06686.011]
+Good morning.
+
+[06686.012]
+You do not have enough money.
+
+[06686.013]
+We look forward to seeing you again.
+
+[06686.018]
+Obtained {16:25 BA}.
+
+[06686.020]
+Obtained {08:FF FF FF FF}.
+
+[06686.022]
+Found {16:25 C2}, but you can carry no more.
+
+[06686.024]
+There is nothing here.
+

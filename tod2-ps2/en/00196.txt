@@ -1,0 +1,24 @@
+[00196.001]
+Oh yes, {NAME:02 00 00 00}, we met someone with the same pendant as you! ......It was... El... Ele... Elo...... what was it?
+
+[00196.002]
+Elraine, right... Do you have something to do with her?
+
+[00196.003]
+That is... well...... how shall I say...
+
+[00196.004]
+Enough idle talk. Unless we reach the harbor soon, today's ship will sail.
+
+[00196.005]
+A little won't hurt. Don't be so stingy, {NAME:04 00 00 00}!
+
+[00196.006]
+Say what you like. Left to you, this journey would never get anywhere.
+
+[00196.007]
+Grr~~! Stingy, stingy, stingy!
+
+[00196.008]
+...Enough, {NAME:01 00 00 00}.
+

@@ -1,0 +1,206 @@
+[06352.001]
+Darilsheid, the Old Capital: Church
+
+[06352.002]
+Darilsheid, the Old Capital
+
+[06352.003]
+Church
+
+[06352.005]
+There is a guest book. It is signed "Philia Felice, Straylize Temple".
+
+[06352.007]
+There is a guest book. Over ten thousand people have signed it.
+
+[06352.009]
+Written on the package: "Strike these rations off the list in the usual way."
+
+[06352.011]
+There is a fully automatic organ made by the old Oberon Corporation. Play the organ?
+
+[06352.013]
+{03:00 00 00 00}　Play it　
+　Leave it　
+
+[06352.015]
+Cancel
+
+[06352.017]
+There is a document. It reads: "This month's off-the-books spending is 25,000 Gald. Cover it by selling off rations on the side."
+
+[06352.018]
+Girl
+
+[06352.019]
+Thanks to my big brother working, we have food to eat, but really I wish we could live together...
+
+[06352.020]
+Girl
+
+[06352.021]
+My big brother, you know, went to work in Aigrette. He says the pay is good.
+
+[06352.022]
+Girl
+
+[06352.023]
+But really, I wish I could live with my big brother...
+
+[06352.024]
+Girl
+
+[06352.025]
+I kind of like this city too, though...
+
+[06352.026]
+Girl
+
+[06352.027]
+Hey, is Aigrette really such a nice place?
+
+[06352.029]
+What makes you think so?
+
+[06352.030]
+Girl
+
+[06352.031]
+The grown-ups say so. If you go there, there's work, and you can eat tasty things too.
+
+[06352.032]
+Girl
+
+[06352.033]
+La, la la, la♪ I get to live with my big brother. I'm so happy~♪
+
+[06352.034]
+Girl
+
+[06352.035]
+Hey, listen! My big brother who was working in Aigrette is coming home!
+
+[06352.036]
+Girl
+
+[06352.037]
+He says from now on we can live together always. I'm so happy!
+
+[06352.039]
+{NAME:01 00 00 00}... When our journey's over someday, let's go home to the Dunamis Orphanage too.
+
+[06352.040]
+Priest
+
+[06352.041]
+Once this city is rebuilt, Lenses will naturally begin to gather here.
+
+[06352.042]
+Priest
+
+[06352.043]
+Then, through the power of Atamoni, we should be able to make this city more splendid than it ever was.
+
+[06352.045]
+Haah... So in the end, without Lenses you can't do a thing...
+
+[06352.046]
+Priest
+
+[06352.047]
+I became a priest of the Order of Atamoni because I wanted to bring back the liveliness this city once had.
+
+[06352.048]
+Priest
+
+[06352.049]
+For now, handing out food is all we can manage, but one day we will restore hope.
+
+[06352.050]
+Priest
+
+[06352.051]
+Lady Elraine will surely lead us to happiness.
+
+[06352.052]
+Priest
+
+[06352.053]
+It was a struggle this time, but we were able to hand a fair quantity of Lenses to Lady Elraine.
+
+[06352.054]
+Priest
+
+[06352.055]
+I only hope those Lenses help rebuild this city, even a little.
+
+[06352.057]
+You fool! She isn't thinking about rebuilding the city! Far from it... Dammit!!
+
+[06352.058]
+Priest
+
+[06352.059]
+For now, let us believe in people's hearts, as Atamoni teaches.
+
+[06352.060]
+Priest
+
+[06352.061]
+It seems the people of this city are still carrying what happened eighteen years ago in their hearts...
+
+[06352.062]
+Priest
+
+[06352.063]
+But I believe that one day they will overcome their sorrow and begin to walk again.
+
+[06352.064]
+Pastor
+
+[06352.065]
+The basement is a storehouse of the Order of Atamoni. Ordinary worshippers cannot be let through.
+
+[06352.066]
+Pastor
+
+[06352.067]
+The basement is a storehouse of Straylize Temple. Ordinary worshippers cannot be let through.
+
+[06352.068]
+Have a safe journey.
+
+[06352.069]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06352.070]
+Will you stay the night?
+
+[06352.072]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06352.073]
+Please rest well.
+
+[06352.074]
+Good morning.
+
+[06352.075]
+You do not have enough money.
+
+[06352.076]
+We look forward to seeing you again.
+
+[06352.081]
+Obtained {16:25 BA}.
+
+[06352.083]
+Obtained {08:FF FF FF FF}.
+
+[06352.085]
+Found {16:25 C2}, but you can carry no more.
+
+[06352.087]
+There is nothing here.
+

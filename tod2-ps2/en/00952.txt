@@ -1,0 +1,15 @@
+[00952.001]
+Come to think of it, as a kid you were always getting lost in the forest. Even then, show you something unusual and off you'd wander, this way, that way...
+
+[00952.002]
+Look who's talking. You chased after a traveling player lady's behind and went missing yourself...
+
+[00952.003]
+...W-well, we've both grown up since then, so let's both agree not to go off on our own... Hey! {NAME:01 00 00 00}, where are you going!
+
+[00952.004]
+I thought I just saw a really unusual creature... Ah! Found it! You won't get away!
+
+[00952.005]
+Jeez... No sooner said than he's off............ Hm? Hey! {NAME:01 00 00 00}. Didn't a real beauty just go by? Aah! I don't care if it's a mirage! I'm going after that beauty! Nuoryaaaa!!
+

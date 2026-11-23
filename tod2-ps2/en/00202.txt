@@ -1,0 +1,15 @@
+[00202.001]
+Philia said so, but... if King Woodrow is not the hero I am looking for...
+
+[00202.002]
+Then that's my cue! I'm still in training, but one day I'll be a great hero! Leave it to me!
+
+[00202.003]
+I'm sorry, {NAME:01 00 00 00}. I am serious about this...
+
+[00202.004]
+Aww! I'm serious too! Believe me, {NAME:02 00 00 00}~!
+
+[00202.005]
+I see...... Then I'll wait, future hero!
+

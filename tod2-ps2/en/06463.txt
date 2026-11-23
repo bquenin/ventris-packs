@@ -1,0 +1,124 @@
+[06463.001]
+Heidelberg Castle
+
+[06463.002]
+Heidelberg Castle
+
+[06463.004]
+...! Damn! There's nobody here anymore!
+
+[06463.006]
+Of course! What they are after is the Lenses. The great number kept in the vault...
+
+[06463.008]
+Woodrow is in danger! Let's go, everyone!
+
+[06463.009]
+Soldier
+
+[06463.010]
+Hello, welcome! It's rare for anyone to climb all the way up here.
+
+[06463.012]
+This is... a bell? It's really big.
+
+[06463.013]
+Soldier
+
+[06463.014]
+Yes, the king before last raised it as a symbol of peace. It rings with a very clear, lovely sound.
+
+[06463.015]
+Soldier
+
+[06463.016]
+Everyone says looking after the bell is tiresome and dull... but it seems to suit me.
+
+[06463.017]
+Soldier
+
+[06463.018]
+And from here you can see the whole city. When I look out in the evening, after the day's upkeep, the day's tiredness blows away.
+
+[06463.019]
+Soldier
+
+[06463.020]
+The bell is rung at regular times, so when you hear it, do stop and listen.
+
+[06463.021]
+Soldier
+
+[06463.022]
+Hello, welcome! It's rare for anyone to climb all the way up here.
+
+[06463.024]
+This is... a bell? It's really big.
+
+[06463.025]
+Soldier
+
+[06463.026]
+Yes, the king before last raised it as a symbol of peace. It rings with a very clear, lovely sound.
+
+[06463.027]
+Soldier
+
+[06463.028]
+Everyone says looking after the bell is tiresome and dull... but it seems to suit me.
+
+[06463.029]
+Soldier
+
+[06463.030]
+And from here you can see the whole city. When I look out in the evening, after the day's upkeep, the day's tiredness blows away.
+
+[06463.031]
+Soldier
+
+[06463.032]
+The bell is rung at regular times, so when you hear it, do stop and listen.
+
+[06463.033]
+Soldier
+
+[06463.034]
+No conversation set for this flag.
+
+[06463.035]
+Have a safe journey.
+
+[06463.036]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06463.037]
+Will you stay the night?
+
+[06463.039]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06463.040]
+Please rest well.
+
+[06463.041]
+Good morning.
+
+[06463.042]
+You do not have enough money.
+
+[06463.043]
+We look forward to seeing you again.
+
+[06463.048]
+Obtained {16:25 BA}.
+
+[06463.050]
+Obtained {08:FF FF FF FF}.
+
+[06463.052]
+Found {16:25 C2}, but you can carry no more.
+
+[06463.054]
+There is nothing here.
+

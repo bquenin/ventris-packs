@@ -1,0 +1,410 @@
+[06617.001]
+Aquaveil: Lord's Manor
+
+[06617.002]
+Aquaveil
+
+[06617.003]
+Lord's Manor
+
+[06617.005]
+Obtained {08:19 00 00 00}.
+
+[06617.007]
+Inside are shoes(?) woven of straw.
+
+[06617.009]
+Halberds, spears, swords and more stand crowded together.
+
+[06617.011]
+They look like things for worship. Something like bread sits on top of a strange box.
+
+[06617.013]
+A thing with something holy in the air about it.
+
+[06617.015]
+Words are carved into the stone monument.
+
+[06617.017]
+Want me to read it for you?
+
+[06617.019]
+{03:00 00 00 00}　Have her read it　
+　Not interested　
+
+[06617.021]
+The desert land, amid raging fire
+Midway up a steep white mountain
+On an idol sunk in a distant sea
+Megalith remnant 1
+
+[06617.023]
+Megalith remnant 2
+By a lake cloaked in deep green
+A lonely white isle, a green garden
+A far land, a ring gouged in earth
+
+[06617.025]
+An island wreathed in mist
+An island on no map
+Behind a small hut
+Islands untouched by human hands
+
+[06617.027]
+The highest meadow in the misty land
+The heart of the misty mountains
+　
+　　There, gain the proofs of ill omen
+
+[06617.029]
+Words are carved into the stone monument, but they are too difficult to read.
+
+[06617.030]
+Leanna
+
+[06617.031]
+By rights I would call my daughter Claire too, but... she is out just now with the man she is to marry.
+
+[06617.032]
+In her place, if you will, do please have a talk with Emily.
+
+[06617.033]
+I see, so you are Stahn and Rutee's...
+
+[06617.034]
+My husband and I owe the two of them a great deal. Please let me thank you.
+
+[06617.035]
+Do please go on being a good friend to Fayte, to my daughters Emily and Claire, and to me.
+
+[06617.036]
+Emily
+
+[06617.037]
+{NAME:03 00 00 00}, you are so dream-y! Emily's going to give you a kiss!
+
+[06617.039]
+S-stop it~ I've got a rule, hands off anyone fourteen or under~!
+
+[06617.040]
+I'm Emily. What's your name?
+
+[06617.042]
+M-me? I'm {NAME:01 00 00 00}.
+
+[06617.043]
+No, not you. This handsome gentleman here!
+
+[06617.045]
+Huh, me? {NAME:03 00 00 00}'s the name.
+
+[06617.046]
+{NAME:03 00 00 00}... Oh, what a wonderful name!
+
+[06617.047]
+I have fallen in love with you. So please be nice to me!
+
+[06617.048]
+Sentry
+
+[06617.049]
+The manor itself serves as a seal and holds back the spread of the other dimension, but who knows how long it will last...
+
+[06617.050]
+Sentry
+
+[06617.051]
+Take my advice and leave here at once. Unless you want to be carried off to another world.
+
+[06617.052]
+Sentry
+
+[06617.053]
+Once, this world was brought to the brink of ruin by Lenses running wild.
+
+[06617.054]
+Sentry
+
+[06617.055]
+Aquaveil was no exception. The other dimension that suddenly appeared then is still trying to swallow the town.
+
+[06617.056]
+Sentry
+
+[06617.057]
+The manor itself serves as a seal and holds back the spread of the other dimension, but who knows how long it will last...
+
+[06617.058]
+Sentry
+
+[06617.059]
+Take my advice and leave here at once. Unless you want to be carried off to another world.
+
+[06617.060]
+Fayte
+
+[06617.061]
+Leanna
+
+[06617.062]
+Travelers, you are most welcome. My name is Leanna.
+
+[06617.063]
+Leanna
+
+[06617.064]
+First, please lend an ear to what my husband has to say.
+
+[06617.065]
+Guests, you are well come to Aquaveil. I am Fayte, lord of this place.
+
+[06617.067]
+Pleased to meet you. I'm {NAME:01 00 00 00} Dunamis.
+
+[06617.069]
+...Um, by the way, where's Johnny?
+
+[06617.070]
+That fellow is not here just now. Did you meet him on your travels?
+
+[06617.072]
+No, not me. My dad said he'd met him.
+
+[06617.073]
+Your father...? Can it be you are Master Stahn's son!?
+
+[06617.075]
+Yes, Stahn Aileron is my dad.
+
+[06617.076]
+Well! That the son of Master Stahn should come all this long way! I see it now, the likeness...
+
+[06617.077]
+...And your mother, would she be Lady Rutee?
+
+[06617.079]
+Can you tell?
+
+[06617.080]
+Why, of course. Your parents are truly dear friends to my wife and me.
+
+[06617.081]
+So you, their son, are a dear friend to us too. Stay as long as you like.
+
+[06617.082]
+Fayte
+
+[06617.083]
+Your parents are truly dear friends to my wife and me.
+
+[06617.084]
+So you, their son, are a dear friend to us too. Stay as long as you like.
+
+[06617.085]
+An ancient demon is sealed in the Aqua Labyrinth.
+
+[06617.086]
+Not knowing that, you took the treasure and broke the seal.
+
+[06617.087]
+I do not mean to blame you for it, but you must answer for this town, and for Johnny, who went inside.
+
+[06617.088]
+Your parents are truly dear friends to my wife and me.
+
+[06617.089]
+So you, their son, are a dear friend to us too. Stay as long as you like.
+
+[06617.090]
+Fayte
+
+[06617.092]
+Huh? Where's Fayte?
+
+[06617.093]
+Leanna
+
+[06617.094]
+Oh, {NAME:01 00 00 00}! Something terrible happened just now...
+
+[06617.096]
+Something terrible? What happened!?
+
+[06617.097]
+Leanna
+
+[06617.098]
+The ward... The ward under the house...!
+
+[06617.099]
+...Johnny! Can you hear me! Johnnyyy!
+
+[06617.100]
+...Damn! No use...!
+
+[06617.102]
+Fayte! What happened!
+
+[06617.103]
+That voice... is it you, {NAME:01 00 00 00}!?
+
+[06617.105]
+H-hey! Look, {NAME:01 00 00 00}! The ward's come undone!?
+
+[06617.106]
+...This ward seals the other dimension, the "Aqua Labyrinth". It is a thing of great danger.
+
+[06617.107]
+In the disaster eighteen years ago, the power of Lenses running wild brought Aquaveil to the brink of ruin.
+
+[06617.108]
+The seal on the other dimension, the "Aqua Labyrinth", weakened, and it spread to swallow the town.
+
+[06617.109]
+It was the doing of the ancient demon who is master of the "Aqua Labyrinth". I would guess the demon tried to use the power of the Lenses to break its seal...
+
+[06617.111]
+And this ward keeps that thing sealed up?
+
+[06617.112]
+Yes. Eighteen years ago, thanks to this ward, it did not come to the worst.
+
+[06617.114]
+But why would it suddenly come undone?
+
+[06617.115]
+Have you never heard this old tale?
+
+[06617.116]
+"The stones seal evil. The stones seal treasure. Who would win the treasure wins the evil too."
+
+[06617.117]
+In truth this old tale speaks of the demon sealed in the Aqua Labyrinth.
+
+[06617.118]
+It means that whoever wins the treasure breaks the demon's seal as the price.
+
+[06617.120]
+Stones... treasure...?
+
+[06617.122]
+We used the gems and took all the treasure, but, d-don't tell me this is our fault...!?
+
+[06617.124]
+I-I've got a feeling it is...
+
+[06617.126]
+W-we're sorry, Fayte. The seal coming undone is probably our doing...
+
+[06617.127]
+What! You mean you have used the gems that seal the demon!?
+
+[06617.129]
+I'll go inside and look for a way to seal the demon!
+
+[06617.130]
+What! Are you in earnest, {NAME:01 00 00 00}!
+
+[06617.132]
+It's our doing! We can't just leave it like this!
+
+[06617.134]
+Right. You've got to clean up your own mess.
+
+[06617.135]
+I see... Then I shall ask it of you.
+
+[06617.136]
+And besides... there is one thing I would ask.
+
+[06617.137]
+A while ago Johnny went inside. But there is no sign at all of his coming back.
+
+[06617.138]
+He may be lost somewhere. I would like you to look for him.
+
+[06617.140]
+Johnny did... All right.
+
+[06617.141]
+There is no telling what may happen inside. Take the greatest care.
+
+[06617.142]
+Debug
+
+[06617.143]
+Change flags?
+Extra dungeon ON
+Extra dungeon OFF
+Get needed items
+
+[06617.148]
+Go to the Aqua Labyrinth?
+{03:00 00 00 00}　　　　　{05:C0 00 00 00}{04:02 00 00 00}Have you saved?
+
+[06617.150]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06617.152]
+An entrance giving off an eerie light. It must be sealed by a strong power, for you cannot go in.
+
+[06617.154]
+The gems you carry are glowing strangely.
+
+[06617.156]
+The fifteen gems are shining fiercely. Put the gems in?
+
+[06617.158]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06617.160]
+This map goes dark.
+
+[06617.162]
+On this map you take damage.
+
+[06617.164]
+On this map encounters are at the maximum.
+
+[06617.166]
+On this map your view is narrowed.
+
+[06617.167]
+Have a safe journey.
+
+[06617.168]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06617.169]
+Will you stay the night?
+
+[06617.171]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06617.172]
+Please rest well.
+
+[06617.173]
+Good morning.
+
+[06617.174]
+You do not have enough money.
+
+[06617.175]
+We look forward to seeing you again.
+
+[06617.180]
+Obtained {16:25 DA}.
+
+[06617.182]
+Obtained {08:FF FF FF FF}.
+
+[06617.184]
+Found {16:25 E2}, but you can carry no more.
+
+[06617.186]
+There is nothing here.
+

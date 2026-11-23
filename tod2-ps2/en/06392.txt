@@ -1,0 +1,88 @@
+[06392.001]
+Great Temple of Straylize
+
+[06392.002]
+Great Temple of Straylize
+
+[06392.003]
+Straylize Temple
+
+[06392.004]
+Straylize Temple
+
+[06392.006]
+A statue of Atamoni. Atamoni is believed to be a goddess who brings peace.
+
+[06392.008]
+Obtained {08:03 00 00 00}.
+
+[06392.010]
+Coming in from the roof. Good thinking, {NAME:04 00 00 00}.
+
+[06392.012]
+I merely copied their method. For an assault, this is certainly the most effective way.
+
+[06392.013]
+Sentry
+
+[06392.014]
+Intruders! Don't think you'll get out alive!
+
+[06392.016]
+Wh-wh-what!?
+
+[06392.017]
+Sentry
+
+[06392.018]
+Prepare yourselves!
+
+[06392.020]
+They went to the trouble of posting sentries. {NAME:02 00 00 00} is in here, no doubt about it.
+
+[06392.022]
+If she went to Elraine, it will be the cathedral. She is sure to be there.
+
+[06392.024]
+The cathedral... Right, let's hurry, everyone!
+
+[06392.026]
+Hurry and board the Ixifosler! We're going after the Flying Dragon!
+
+[06392.027]
+Have a safe journey.
+
+[06392.028]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06392.029]
+Will you stay the night?
+
+[06392.031]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06392.032]
+Please rest well.
+
+[06392.033]
+Good morning.
+
+[06392.034]
+You do not have enough money.
+
+[06392.035]
+We look forward to seeing you again.
+
+[06392.040]
+Obtained {16:25 BA}.
+
+[06392.042]
+Obtained {08:FF FF FF FF}.
+
+[06392.044]
+Found {16:25 C2}, but you can carry no more.
+
+[06392.046]
+There is nothing here.
+

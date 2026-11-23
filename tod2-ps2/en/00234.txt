@@ -1,0 +1,24 @@
+[00234.001]
+............Sigh, hehe...
+
+[00234.002]
+Hehehe♪ Hungry already, {NAME:01 00 00 00}?
+
+[00234.003]
+Hehehe~... I'm a growing boy.
+
+[00234.004]
+Want something to eat?
+
+[00234.005]
+Huh? You've got something?
+
+[00234.006]
+Just a moment. Let me see............ Oh no, listen to me...!
+
+[00234.007]
+Haha! You're a growing girl too, {NAME:02 00 00 00}!
+
+[00234.008]
+...You two... it goes just as you'd expect... Heartwarming, or something...
+

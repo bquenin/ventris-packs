@@ -1,0 +1,535 @@
+[06353.001]
+Blacksmith's Tent
+
+[06353.002]
+Blacksmith's Tent
+
+[06353.003]
+Blacksmith's Tent
+
+[06353.004]
+Darilsheid, the Old Capital: Outfitter
+
+[06353.005]
+Darilsheid, the Old Capital
+
+[06353.006]
+Outfitter
+
+[06353.007]
+Blacksmith's Tent
+
+[06353.008]
+Weapon Shop
+
+[06353.009]
+Welcome.
+
+[06353.010]
+Thank you very much.
+
+[06353.011]
+Please come again.
+
+[06353.012]
+Weapon Shop
+
+[06353.013]
+Weapon Shop
+
+[06353.014]
+These days there are more orders for tools to rebuild the city than for weapons. It's a lot of work.
+
+[06353.015]
+Armor Shop
+
+[06353.016]
+Welcome.
+
+[06353.017]
+Thank you very much.
+
+[06353.018]
+Please come again.
+
+[06353.019]
+Armor Shop
+
+[06353.020]
+Armor Shop
+
+[06353.021]
+My hands are full right now, so another time.
+
+[06353.022]
+Have a safe journey.
+
+[06353.023]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06353.024]
+Will you stay the night?
+
+[06353.026]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06353.027]
+Please rest well.
+
+[06353.028]
+Good morning.
+
+[06353.029]
+You do not have enough money.
+
+[06353.030]
+We look forward to seeing you again.
+
+[06353.035]
+Obtained {16:25 BA}.
+
+[06353.037]
+Obtained {08:FF FF FF FF}.
+
+[06353.039]
+Found {16:25 C2}, but you can carry no more.
+
+[06353.041]
+There is nothing here.
+
+[06353.042]
+{08:12 00 00 00} Seller
+
+[06353.043]
+We sell {08:12 00 00 00} here.
+
+[06353.044]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06353.045]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06353.046]
+That will be {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06353.048]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 D6} at once ({14:35 D0} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06353.050]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06353.051]
+Thank you for your purchase.
+
+[06353.052]
+Thank you for your purchase.
+
+[06353.053]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald a bottle.
+
+[06353.054]
+Would you like to hear the Refine lessons?
+
+[06353.056]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06353.057]
+What would you like to know about?
+
+[06353.059]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06353.061]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06353.062]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06353.063]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06353.064]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06353.065]
+Lenses can be picked up by fighting monsters.
+
+[06353.066]
+Do take this chance to refine all you like.
+
+[06353.067]
+Changing an item means refining a single item to turn it into a different item.
+
+[06353.068]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06353.069]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06353.070]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06353.071]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06353.072]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06353.073]
+Ah, I should explain Slots first, shouldn't I.
+
+[06353.074]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06353.075]
+I will explain Slots in detail separately.
+
+[06353.076]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06353.077]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06353.078]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06353.079]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06353.080]
+Let me explain Slots in detail.
+
+[06353.081]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06353.082]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06353.083]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06353.084]
+Equipment with Slots is mostly dropped by monsters.
+
+[06353.085]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06353.086]
+Just between us, accessories can be refined too. But not with one another.
+
+[06353.087]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06353.088]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06353.089]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06353.090]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06353.091]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06353.092]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06353.093]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06353.094]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06353.095]
+So I recommend selling off the items you no longer need.
+
+[06353.096]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06353.097]
+...Keeping your items tidy matters too.
+
+[06353.098]
+Blacksmith
+
+[06353.099]
+I am a blacksmith.
+
+[06353.101]
+{03:00 00 00 00}What will you do?
+　Fund development　
+　Order an item　
+　How it works　
+
+[06353.102]
+I am a fledgling blacksmith.
+
+[06353.103]
+If you would, could you help fund my development of equipment?
+
+[06353.104]
+While my skill is low, I can only make shoddy equipment...
+
+[06353.105]
+But one day I will become a fine blacksmith.
+
+[06353.106]
+Please.
+
+[06353.107]
+I feel my skill has gone up lately.
+
+[06353.109]
+The blacksmith's rank is now {18:45 E0}.
+
+[06353.110]
+Novice Blacksmith
+
+[06353.111]
+Shoddy Blacksmith
+
+[06353.112]
+Fledgling Blacksmith
+
+[06353.113]
+Junior Blacksmith
+
+[06353.114]
+Sort-of Blacksmith
+
+[06353.115]
+Intermediate Blacksmith
+
+[06353.116]
+Hot-Blooded Blacksmith
+
+[06353.117]
+Singing, Dancing Blacksmith
+
+[06353.118]
+Senior Blacksmith
+
+[06353.119]
+Hustling Blacksmith
+
+[06353.120]
+Veteran Blacksmith
+
+[06353.121]
+Cool Blacksmith
+
+[06353.122]
+Professional Blacksmith
+
+[06353.123]
+Amazing Blacksmith
+
+[06353.124]
+Expert Blacksmith
+
+[06353.125]
+Famous Blacksmith
+
+[06353.126]
+Adept Blacksmith
+
+[06353.127]
+Virtuoso Blacksmith
+
+[06353.128]
+Ace Blacksmith
+
+[06353.129]
+Master Blacksmith
+
+[06353.130]
+Blacksmith Sage
+
+[06353.131]
+God of Blacksmiths
+
+[06353.132]
+Blacksmith Creator
+
+[06353.133]
+Otherworld Blacksmith
+
+[06353.134]
+Fantasy World Blacksmith
+
+[06353.135]
+Blacksmith Monkey
+
+[06353.136]
+Blacksmith
+
+[06353.137]
+{08:FF FF FF FF} is finished.
+
+[06353.138]
+Obtained {08:FF FF FF FF}.
+
+[06353.139]
+You are carrying too many items to take it.
+
+[06353.142]
+{03:00 00 00 00}Currently: {18:45 DC}
+It will take {0B:01 00 00 00}{14:26 04} min {14:26 02}{0B:00 00 00 00} sec to finish.
+
+[06353.143]
+How much will you contribute?
+{05:00 01 00 00}Money on hand: {0B:01 00 00 00}{14:34 04} Gald{0B:00 00 00 00}
+
+[06353.145]
+{0B:01 00 00 00}{03:00 00 00 00}　　　1000 Gald
+　　10000 Gald
+　100000 Gald
+1000000 Gald{0B:00 00 00 00}
+
+[06353.146]
+You do not have enough money.
+
+[06353.148]
+{03:00 00 00 00}Contribute {0B:01 00 00 00}{14:36 08}{0B:00 00 00 00} Gald?
+Yes, yes, go right ahead
+No, no, hold on a moment
+
+[06353.149]
+Thank you very much.
+
+[06353.150]
+Another time, then, please.
+
+[06353.151]
+The funds are sufficient.
+
+[06353.152]
+Currently: {18:45 DC}. Is there something you need?
+
+[06353.154]
+{03:00 00 00 00}　Change it　
+　Stop the work　
+　Never mind　
+
+[06353.155]
+What shall I make?{02}
+
+[06353.157]
+{03:00 00 00 00}　Weapon　
+　Armor　
+
+[06353.159]
+{03:00 00 00 00}　Sword ({NAME:01 00 00 00}/{NAME:04 00 00 00})　
+　Two-handed ({NAME:03 00 00 00})　
+　Staff ({NAME:02 00 00 00}/{NAME:06 00 00 00})　
+　Bow ({NAME:05 00 00 00})　
+
+[06353.161]
+{03:00 00 00 00}　Armor ({NAME:01 00 00 00}/{NAME:03 00 00 00}/{NAME:04 00 00 00})　
+　Robes ({NAME:02 00 00 00}/{NAME:05 00 00 00}/{NAME:06 00 00 00})　
+　Helm ({NAME:01 00 00 00}/{NAME:03 00 00 00}/{NAME:04 00 00 00})　
+　Crown ({NAME:02 00 00 00}/{NAME:05 00 00 00}/{NAME:06 00 00 00})　
+
+[06353.163]
+{03:00 00 00 00}Shall I make it?
+　Yes　
+　No　
+
+[06353.164]
+Work on the equipment begins.
+
+[06353.165]
+There are not enough funds to make it.
+
+[06353.167]
+{03:00 00 00 00}Stop the current work?
+　Yes　
+　No　
+
+[06353.168]
+{03:00 00 00 00}The work was stopped.
+
+[06353.169]
+{03:00 00 00 00}The current work continues.
+
+[06353.172]
+{03:00 00 00 00}The blacksmith trains with the funds you
+contribute. As he gains experience,
+he levels up.
+
+[06353.174]
+{03:00 00 00 00}When he levels up, he can make
+equipment with higher stats.
+He also works faster.
+
+[06353.176]
+{03:00 00 00 00}Fund development gives him money.
+It is pooled as development funds.
+
+[06353.178]
+{03:00 00 00 00}Development funds are used up over time.
+They are also used when you order
+equipment from the blacksmith.
+
+[06353.180]
+{03:00 00 00 00}Equipment you order takes a certain
+time to finish, and the better the
+equipment's stats, the longer
+it takes.
+
+[06353.182]
+{03:00 00 00 00}Lastly, a blacksmith's training takes
+a very long time, so your patient
+support would be appreciated.
+
+[06353.183]
+{03:00 00 00 00}Blacksmith rank: {18:45 E0}
+Development funds: {0B:01 00 00 00}{14:26 20 90 64 C7}{0B:00 00 00 00} Gald
+Status: {18:45 DC}
+
+[06353.185]
+Making a sword
+
+[06353.186]
+Making a staff
+
+[06353.187]
+Making an axe or spear
+
+[06353.188]
+Making a bow
+
+[06353.189]
+Making armor
+
+[06353.190]
+Making clothes
+
+[06353.191]
+Making a helm
+
+[06353.192]
+Making a hat
+
+[06353.193]
+Making an unknown item
+
+[06353.194]
+Awaiting orders
+

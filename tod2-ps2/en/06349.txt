@@ -1,0 +1,198 @@
+[06349.001]
+Darilsheid, the Old Capital: Inn
+
+[06349.002]
+Darilsheid, the Old Capital
+
+[06349.003]
+Inn
+
+[06349.005]
+Well-worn furniture stands in a row.
+
+[06349.006]
+Inn
+
+[06349.007]
+Have a safe journey.
+
+[06349.008]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06349.009]
+Will you stay the night?
+
+[06349.011]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06349.012]
+Please rest well.
+
+[06349.013]
+Good morning.
+
+[06349.014]
+You do not have enough money.
+
+[06349.015]
+We look forward to seeing you again.
+
+[06349.020]
+Obtained {16:25 BA}.
+
+[06349.022]
+Obtained {08:FF FF FF FF}.
+
+[06349.024]
+Found {16:25 C2}, but you can carry no more.
+
+[06349.026]
+There is nothing here.
+
+[06349.027]
+Chef
+
+[06349.028]
+Been making {16:35 D8}?
+
+[06349.029]
+Chef
+
+[06349.030]
+Would you like to know how to make {16:35 D8}?
+
+[06349.032]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06349.033]
+Chef
+
+[06349.034]
+I'll teach you how to make {16:35 D8}.
+
+[06349.035]
+Chef
+
+[06349.036]
+Going to make it yourself? Well, that's fine too.
+
+[06349.037]
+Chef
+
+[06349.038]
+I have the recipe for {16:35 D8}. Will you buy it for {0B:01 00 00 00}{14:35 D0}{0B:00 00 00 00} Gald?
+
+[06349.040]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06349.041]
+Chef
+
+[06349.042]
+You don't have enough money.
+
+[06349.043]
+Chef
+
+[06349.044]
+I'll sell you the recipe for {16:35 D8}.
+
+[06349.045]
+Chef
+
+[06349.046]
+Well, it can't be helped.
+
+[06349.047]
+{16:25 DC}, {16:25 DE}, {16:25 E0}
+
+[06349.048]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.049]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.050]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.051]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.052]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}
+
+[06349.053]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.054]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.055]
+Chef
+
+[06349.056]
+To make {16:35 D8} you need:
+{18:45 D4}
+
+[06349.057]
+Chef
+
+[06349.058]
+Why, you have the ingredients.
+
+[06349.059]
+Chef
+
+[06349.060]
+Let me have them and I'll make {16:35 D8}. How about it?
+
+[06349.062]
+{03:00 00 00 00}　Yes
+　No
+
+[06349.063]
+Chef
+
+[06349.064]
+All right, wait there. I'll make you {16:35 D8} right away.
+
+[06349.065]
+Chef
+
+[06349.066]
+That's a shame. It's really delicious...
+
+[06349.067]
+Chef
+
+[06349.068]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06349.069]
+Chef
+
+[06349.070]
+You are not worthy. Come back another time.
+
+[06349.071]
+Chef
+
+[06349.072]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06349.074]
+Picked up the recipe for {16:35 D8}.
+
+[06349.076]
+Learned how to make {16:35 EC}.
+

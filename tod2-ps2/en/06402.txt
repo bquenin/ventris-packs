@@ -1,0 +1,217 @@
+[06402.001]
+Regular Ship
+
+[06402.002]
+Regular Ship
+
+[06402.004]
+Books for lending on board are scattered about.
+
+[06402.005]
+Passenger
+
+[06402.006]
+I am the great prophet Sabadicho, I a~m.
+
+[06402.007]
+Passenger
+
+[06402.008]
+According to my prophecy, something unpleasant should happen soon...
+
+[06402.009]
+Passenger
+
+[06402.010]
+Urp... blehh~.
+
+[06402.012]
+Something unpleasant happened, all right...
+
+[06402.013]
+Passenger
+
+[06402.014]
+Urp... The prophecies of Sabadicho come true, they do~.
+
+[06402.015]
+Passenger
+
+[06402.016]
+I am the great prophet Sabadicho, I a~m.
+
+[06402.017]
+Passenger
+
+[06402.018]
+You will surely vanquish the lord of Devil's Reef~...
+
+[06402.019]
+Passenger
+
+[06402.020]
+Or rather, please, I beg you, vanquish it~.
+
+[06402.022]
+That's not a prophecy or anything...
+
+[06402.023]
+Passenger
+
+[06402.024]
+I am not fated to die in a place like this, I am no~t!!
+
+[06402.025]
+Passenger
+
+[06402.026]
+I am the great prophet Sabadicho, I a~m.
+
+[06402.027]
+Passenger
+
+[06402.028]
+Putting me in a lifeboat first of all is "good fortune"... so it says, it do~es.
+
+[06402.030]
+Sure, "good fortune" for you.
+
+[06402.031]
+Passenger
+
+[06402.032]
+I am not fated to die in a place like this, I am no~t!!
+
+[06402.033]
+Passenger
+
+[06402.034]
+I am the great prophet Sabadicho, I a~m.
+
+[06402.035]
+Passenger
+
+[06402.036]
+I knew from my prophecy that you would save us, I di~d.
+
+[06402.037]
+Passenger
+
+[06402.038]
+You will one day become great heroes~.
+
+[06402.040]
+Is that true!?
+
+[06402.042]
+Don't go believing the prophecies of a shady guy like this...
+
+[06402.043]
+Passenger
+
+[06402.044]
+Sabadicho does not lie. You will one day become great heroes, you wi~ll.
+
+[06402.045]
+Passenger
+
+[06402.046]
+I am the great prophet Sabadicho, I a~m.
+
+[06402.047]
+Passenger
+
+[06402.048]
+You will henceforth be led to a land of bitter cold that freezes you to the bone~.
+
+[06402.050]
+Huh! What'll we do!
+
+[06402.052]
+Well, obviously... This ship is headed for Snowfria.
+
+[06402.053]
+Passenger
+
+[06402.054]
+The prophecies of Sabadicho always come true, they do~.
+
+[06402.055]
+Passenger
+
+[06402.056]
+I am the great prophet Sabadicho, I a~m.
+
+[06402.057]
+Passenger
+
+[06402.058]
+The prophecies of Sabadicho always come true, they do~.
+
+[06402.059]
+Passenger
+
+[06402.060]
+These pilgrims carry heaps of Lenses and money and such. I'll find an opening and pick their pockets.
+
+[06402.061]
+Passenger
+
+[06402.062]
+...But if I do a thing like that, will Fortuna punish me, I wonder...
+
+[06402.063]
+Passenger
+
+[06402.064]
+They're going all the way to Calviola. I'll get my hands on something valuable, anything.
+
+[06402.065]
+Passenger
+
+[06402.066]
+But I'm scared of being punished...
+
+[06402.067]
+Passenger
+
+[06402.068]
+These pilgrims carry heaps of Lenses and money and such. I'll find an opening and pick their pockets.
+
+[06402.069]
+Have a safe journey.
+
+[06402.070]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06402.071]
+Will you stay the night?
+
+[06402.073]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06402.074]
+Please rest well.
+
+[06402.075]
+Good morning.
+
+[06402.076]
+You do not have enough money.
+
+[06402.077]
+We look forward to seeing you again.
+
+[06402.082]
+Obtained {16:25 BA}.
+
+[06402.084]
+Obtained {08:FF FF FF FF}.
+
+[06402.086]
+Found {16:25 C2}, but you can carry no more.
+
+[06402.088]
+There is nothing here.
+

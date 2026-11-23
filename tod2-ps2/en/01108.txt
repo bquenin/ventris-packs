@@ -1,0 +1,9 @@
+[01108.001]
+From Aigrette harbor, we take a ship and set out for Heidelberg!
+
+[01108.002]
+The harbor is northeast of Aigrette. Follow the coast.
+
+[01108.003]
+Right, go!
+

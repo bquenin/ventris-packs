@@ -1,0 +1,21 @@
+[00772.001]
+If the Swordians are finished, then next it's the final battle at last!
+
+[00772.002]
+Yeah. Thanks to the Swordian team's great deeds, Emperor Miktran was beaten and the Surface Army won... That's the true history.
+
+[00772.003]
+So we must do our best too, so nobody gets in the way of that!
+
+[00772.004]
+The Swordian team, and Miktran's death...
+
+[00772.005]
+What is it, {NAME:04 00 00 00}?
+
+[00772.006]
+No... later. The report to Litler comes first. Hurry.
+
+[00772.007]
+Y-yes...
+

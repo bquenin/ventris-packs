@@ -1,0 +1,263 @@
+[06718.001]
+Egg of God: Lower Level
+
+[06718.002]
+Egg of God: Lower Level
+
+[06718.004]
+{NAME:01 00 00 00}...
+
+[06718.006]
+{NAME:01 00 00 00}...
+
+[06718.010]
+...{NAME:01 00 00 00}.
+
+[06718.012]
+........ ...I, I......
+
+[06718.014]
+Th-this is...!?
+
+[06718.016]
+The warp in space-time is getting worse... It's history mending itself.
+
+[06718.018]
+......? What do you mean!?
+
+[06718.020]
+With the god gone, every interference with the flow of time is being cleared away.
+
+[06718.022]
+The descent of the god that Elraine brought about, and the killing of heroes that Barbatos plotted.
+
+[06718.024]
+...And all that we have done until now. All of it will never have been.
+
+[06718.026]
+And of course our memories go along with it. We'll forget this journey, and each other.
+
+[06718.028]
+In other words... we will never have met in the first place.
+
+[06718.030]
+So everything goes back to the way it should be...
+
+[06718.032]
+Even so...
+
+[06718.034]
+Even so, the bond won't vanish.
+
+[06718.036]
+This bond we tied by traveling together, there's no way it can vanish. ...That's what I believe!
+
+[06718.038]
+How unscientific...
+
+[06718.040]
+But that sort of thing might not be so bad.
+
+[06718.042]
+In the end, giving shape to what people feel may be what the power of science is...
+
+[06718.044]
+Oh! I have a feeling this could make a new subject for research in its own right!
+
+[06718.046]
+Oh dear, it looks like I'm the first.
+
+[06718.048]
+{NAME:06 00 00 00}...!
+
+[06718.050]
+Thanks. For letting me have such an interesting time.
+
+[06718.052]
+Just learning there are people like you in the future was lucky for me, truly.
+
+[06718.054]
+Well, bye-bye...!
+
+[06718.056]
+Looks like I'm next.
+
+[06718.058]
+{NAME:05 00 00 00}...!
+
+[06718.060]
+Don't pull such a sorry face. The orphanage kids will laugh at you like that. You're their big brother, aren't you?
+
+[06718.062]
+Do your best to be an example to them all. Like a certain someone.
+
+[06718.064]
+Hey, {NAME:05 00 00 00}. Do you mean...
+
+[06718.066]
+We live in the same age. So I believe we'll come across each other again somewhere.
+
+[06718.068]
+So I won't say goodbye.
+
+[06718.070]
+...See you again! It's a promise...!
+
+[06718.072]
+H-hey, {NAME:05 00 00 00}!
+
+[06718.074]
+She's gone...
+
+[06718.076]
+So it comes... at last.
+
+[06718.078]
+{NAME:04 00 00 00}... Where do you go back to...?
+
+[06718.080]
+I do not know... The man called {NAME:04 00 00 00} never existed in any place or any age.
+
+[06718.082]
+Whether I wander beyond space and time, or pass away as Leon Magnus...
+
+[06718.084]
+No...! Is that all right with you, {NAME:04 00 00 00}!?
+
+[06718.086]
+I have been ready for it since the day I chose to live as {NAME:04 00 00 00}.
+
+[06718.088]
+Besides... I met all of you.
+
+[06718.090]
+It is too great a happiness for a man who died once to hold.
+
+[06718.092]
+And it was mine. I have no regrets.
+
+[06718.094]
+{NAME:04 00 00 00}...!
+
+[06718.096]
+I meant to be the one helping, but in truth it may have been the other way round... Thank you, {NAME:01 00 00 00}, {NAME:03 00 00 00}.
+
+[06718.098]
+{NAME:04 00 00 00}...
+
+[06718.100]
+Farewell...
+
+[06718.102]
+What, us too...
+
+[06718.104]
+{NAME:03 00 00 00}!
+
+[06718.106]
+Then I'll say it before I vanish.
+
+[06718.108]
+Ever since Stahn died, I've set myself to be the shield that protects you.
+
+[06718.110]
+It was my pride, and my joy, and at times it felt like a burden too.
+
+[06718.112]
+...But before I knew it, you'd stopped needing me as a shield.
+
+[06718.114]
+From the time you found someone to protect, and became a shield yourself...
+
+[06718.116]
+But I couldn't protect {NAME:02 00 00 00}. I couldn't be {NAME:02 00 00 00}'s shield...!
+
+[06718.118]
+No...
+
+[06718.120]
+You did protect {NAME:02 00 00 00}. That was the one way to save her. And...
+
+[06718.122]
+You were the only one who could do it, {NAME:01 00 00 00}...
+
+[06718.124]
+........
+................
+
+[06718.126]
+...You did well.
+
+[06718.128]
+You really are something. A friend I'm proud of.
+
+[06718.130]
+...Me too. {NAME:03 00 00 00}, you're... the best friend I'm proud of!
+
+[06718.132]
+Thanks.
+
+[06718.134]
+...Well, see you, {NAME:01 00 00 00}.
+
+[06718.136]
+{NAME:03 00 00 00}, {NAME:04 00 00 00}, {NAME:05 00 00 00}, {NAME:06 00 00 00}...
+
+[06718.138]
+Thank you, everyone...
+
+[06718.140]
+The future is here...
+
+[06718.142]
+It begins from here...
+
+[06718.144]
+Each one of us will build the future by our own strength...
+
+[06718.146]
+I don't know what it will be like...
+
+[06718.148]
+But the bond with you... will never vanish...!
+
+[06718.150]
+Isn't that right... {NAME:02 00 00 00}?
+
+[06718.151]
+Have a safe journey.
+
+[06718.152]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06718.153]
+Will you stay the night?
+
+[06718.155]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06718.156]
+Please rest well.
+
+[06718.157]
+Good morning.
+
+[06718.158]
+You do not have enough money.
+
+[06718.159]
+We look forward to seeing you again.
+
+[06718.164]
+Obtained {16:27 46}.
+
+[06718.166]
+Obtained {08:FF FF FF FF}.
+
+[06718.168]
+Found {16:27 4E}, but you can carry no more.
+
+[06718.170]
+There is nothing here.
+

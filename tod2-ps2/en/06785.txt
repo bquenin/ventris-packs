@@ -1,0 +1,265 @@
+[06785.001]
+Great Temple of Straylize
+
+[06785.002]
+Great Temple of Straylize
+
+[06785.003]
+Philia
+
+[06785.004]
+...Before that, I have one question. Why do you seek a hero?
+
+[06785.005]
+???
+
+[06785.006]
+Because I need power... power great enough to change the world.
+
+[06785.007]
+Power?
+
+[06785.008]
+???
+
+[06785.009]
+A hero has the power to change not only people but the very fate of this world.
+
+[06785.010]
+???
+
+[06785.011]
+I want to know what the source of that power is.
+
+[06785.012]
+???
+
+[06785.013]
+And I want to gain such power myself.
+
+[06785.014]
+...To my eyes, you already seem to possess great power.
+
+[06785.015]
+???
+
+[06785.016]
+No, it's no good! The power I have now isn't enough, not nearly!
+
+[06785.017]
+...
+
+[06785.018]
+There is one more thing I would like to ask.
+
+[06785.019]
+When you meet a hero and gain that power, what do you intend to do?
+
+[06785.020]
+???
+
+[06785.021]
+...
+
+[06785.022]
+...You cannot say, is that it? Is that because I am not the hero you seek?
+
+[06785.023]
+???
+
+[06785.024]
+...I'm sorry.
+
+[06785.025]
+???
+
+[06785.026]
+But I won't use the power for anything bad! Please believe me!
+
+[06785.027]
+Yes, I know. That is exactly why I asked.
+
+[06785.028]
+What it is that you, with such power and conviction, could possibly wish for.
+
+[06785.029]
+...To me, you seem just like...
+
+[06785.030]
+?????
+
+[06785.031]
+One of the Four Heroes said to have shattered the Eye of God... You are Philia Felice?
+
+[06785.032]
+Wh-who are you...!?
+
+[06785.033]
+?????
+
+[06785.034]
+Giving my name to one about to die is pointless. ...Prepare yourself!
+
+[06785.035]
+???
+
+[06785.036]
+Philia!!
+
+[06785.037]
+Never mind me! Hurry, run...!
+
+[06785.038]
+?????
+
+[06785.039]
+...Weak. Far too weak. So this is what a former hero looks like. What a disappointment.
+
+[06785.040]
+?????
+
+[06785.041]
+At least let your dying scream entertain...
+
+[06785.043]
+Don't move! Get away from Philia right now!
+
+[06785.044]
+?????
+
+[06785.045]
+...And who are you!?
+
+[06785.047]
+How dare you do that to Philia...! I'm next... You're facing the great hero of the future, {NAME:01 00 00 00} Dunamis!
+
+[06785.048]
+?????
+
+[06785.049]
+A hero...!?
+
+[06785.050]
+?????
+
+[06785.051]
+A worm like you, calling himself a hero...! Do you want to die, boy!!
+
+[06785.053]
+{03:00 00 00 00}Look out, {NAME:01 00 00 00}!
+
+[06785.055]
+Wha...!? Is he a monster!?
+
+[06785.057]
+This is bad, {NAME:01 00 00 00}! He's tough... no, more than that, we don't stand a chance!!
+
+[06785.059]
+That doesn't mean I can back down! I'll hit him with everything I've got!!
+
+[06785.060]
+?????
+
+[06785.061]
+I'll praise your resolve, at least, boy. You spoke the word hero in front of me... Regret it at death's door!!
+
+[06785.063]
+How's that, had enough!
+
+[06785.064]
+?????
+
+[06785.065]
+Heh heh heh... I see. I was careless and failed to show proper courtesy. Then let me pay my respects anew!
+
+[06785.067]
+Ghh!! H-he's strong...!
+
+[06785.068]
+?????
+
+[06785.069]
+Too bad you fell short of being a hero. Heh heh heh... Haa ha ha ha!!
+
+[06785.070]
+?????
+
+[06785.071]
+Gwah!! Y-you...!?
+
+[06785.073]
+Take it, {NAME:01 00 00 00}!
+
+[06785.075]
+Deyaaaaaah!!
+
+[06785.076]
+?????
+
+[06785.077]
+Gnh!!
+
+[06785.078]
+?????
+
+[06785.079]
+...Heh heh heh. To think there is an opponent in this world who can sate my hunger...
+
+[06785.080]
+Barbatos
+
+[06785.081]
+My name is Barbatos Goetia. {NAME:01 00 00 00} Dunamis... I will remember that name!
+
+[06785.083]
+W-we did it...
+
+[06785.085]
+That's right! Philia!!
+
+[06785.086]
+???
+
+[06785.087]
+She's still breathing... She's alive!
+
+[06785.089]
+Right! Philia's private room should be somewhere in this temple. Let's carry her there now!!
+
+[06785.090]
+Have a safe journey.
+
+[06785.091]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06785.092]
+Will you stay the night?
+
+[06785.094]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06785.095]
+Please rest well.
+
+[06785.096]
+Good morning.
+
+[06785.097]
+You do not have enough money.
+
+[06785.098]
+We look forward to seeing you again.
+
+[06785.103]
+Obtained {16:27 96}.
+
+[06785.105]
+Obtained {08:FF FF FF FF}.
+
+[06785.107]
+Found {16:27 9E}, but you can carry no more.
+
+[06785.109]
+There is nothing here.
+

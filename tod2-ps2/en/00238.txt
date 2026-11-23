@@ -1,0 +1,12 @@
+[00238.001]
+We made it to Neustadt at la~st! Take a ship from here and we're in Heidelberg in no time!
+
+[00238.002]
+The ship puts in at the port of Snowfria. From there we must go further north on foot to Heidelberg.
+
+[00238.003]
+So meeting Woodrow the Hero King is still some way off...
+
+[00238.004]
+Fine! It'll be soon! Let's go!
+

@@ -1,0 +1,265 @@
+[06579.001]
+The Radisrol: Karell's Room
+
+[06579.002]
+The Radisrol
+
+[06579.003]
+Karell's Room
+
+[06579.005]
+A backpack that seems to be Karell's is inside.
+
+[06579.007]
+This is...!
+
+[06579.009]
+Found all sorts of quiz questions!
+
+[06579.011]
+A new category has been added to the quiz book.
+
+[06579.013]
+Karell's desk. His reports are neatly put in order.
+
+[06579.014]
+Soldier
+
+[06579.015]
+Please rest here until the operation begins.
+
+[06579.017]
+{03:00 00 00 00}　Rest　
+　Don't rest　
+
+[06579.018]
+Soldier
+
+[06579.019]
+Please rest here until the operation begins.
+
+[06579.021]
+{03:00 00 00 00}　Rest　
+　Don't rest　
+
+[06579.022]
+Soldier
+
+[06579.023]
+Have a safe journey.
+
+[06579.024]
+Soldier
+
+[06579.025]
+Will you rest?
+
+[06579.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06579.028]
+Soldier
+
+[06579.029]
+Please rest well.
+
+[06579.030]
+Soldier
+
+[06579.031]
+Good morning.
+
+[06579.032]
+Soldier
+
+[06579.033]
+I am told you may rest at any time.
+
+[06579.035]
+It's kind of thrilling, isn't it! Getting to fight alongside the famous Swordian team!
+
+[06579.037]
+Get carried away and you will get hurt.
+
+[06579.039]
+I know that without being told!
+
+[06579.041]
+Well, you can't blame him. The Swordian team are heroes of legend, and the most famous of all.
+
+[06579.043]
+Telling him to calm down is asking too much. All the more with this one. His love of heroes goes to the bone.
+
+[06579.045]
+Hehe! That's true.
+
+[06579.047]
+Ah, even {NAME:02 00 00 00} laughed! That's mean!
+
+[06579.049]
+But... to me, {NAME:01 00 00 00}, you are a fine hero too.
+
+[06579.051]
+Y-you think so...
+
+[06579.053]
+All right, all right, enough sweetness! After all, {NAME:01 00 00 00} is {NAME:02 00 00 00}'s very own hero.
+
+[06579.055]
+Ugh, what a joke. Why on earth do I have to listen to other people's lovey-dovey talk?
+
+[06579.057]
+I'm going out for a bit of air. ...Hey, {NAME:05 00 00 00}. You come along too.
+
+[06579.059]
+Wh-why do I have to go along with you!
+
+[06579.061]
+Take a hint, you dummy.
+
+[06579.063]
+...A-all right. But don't get the wrong idea! I've got no choice, that's all!
+
+[06579.065]
+Yeah, yeah, come on.
+
+[06579.067]
+I am going to see how {NAME:06 00 00 00} is doing.
+
+[06579.069]
+Ah, ahaha... Somehow, everyone's gone...
+
+[06579.071]
+...{NAME:01 00 00 00}. What I said just now... I didn't say it as a joke.
+
+[06579.073]
+Huh?
+
+[06579.075]
+That to me you are a fine hero too, {NAME:01 00 00 00}.
+
+[06579.077]
+Ah, ahaha...
+
+[06579.079]
+Because I believe you will grant my wish, {NAME:01 00 00 00}.
+
+[06579.081]
+I-I know, all right! Good night, {NAME:02 00 00 00}.
+
+[06579.083]
+I believe in you, {NAME:01 00 00 00}. That you will grant my wish.
+
+[06579.085]
+...That whatever may happen, you will grant it...
+
+[06579.087]
+The final battle at last!
+
+[06579.089]
+Who'd have thought we'd fight the War of Heaven and Earth alongside the legendary Swordian team.
+
+[06579.091]
+Atwight is here too, so now if we just pin Barbatos down on Dycroft...
+
+[06579.093]
+We can stop history being changed!
+
+[06579.095]
+And Karell dies...
+
+[06579.097]
+Karell dies...?
+
+[06579.099]
+Do you not know how the War of Heaven and Earth ends?
+
+[06579.101]
+The Swordian team beats Miktran, King of Heaven, and all's well that ends well, right?
+
+[06579.103]
+That is not wrong. But something important is missing.
+
+[06579.105]
+Miktran's strength was overwhelming, and even the Swordian team was hard pressed.
+
+[06579.107]
+Had one man not thrown his life into an attack and died striking Miktran down, victory would have been in doubt.
+
+[06579.109]
+And that... was Karell.
+
+[06579.111]
+No...! Wh-what do we do!?
+
+[06579.113]
+I know! Let's talk to {NAME:06 00 00 00}! Then Karell won't have to die!
+
+[06579.115]
+No. That would be changing history. Do you mean to do the same as Elraine?
+
+[06579.117]
+Ah...
+
+[06579.119]
+...In any case, keep this from {NAME:06 00 00 00}.
+
+[06579.121]
+Honestly... it feels bad. Keeping secrets, I mean.
+
+[06579.123]
+Yeah, and keeping quiet about something that means a person's life, at that...
+
+[06579.125]
+People always die some day. The only difference is sooner or later.
+
+[06579.127]
+...We can only see it that way.
+
+[06579.129]
+........
+
+[06579.131]
+A death that is settled... Everyone, some day...
+
+[06579.133]
+........ Some day, I too...
+
+[06579.134]
+Have a safe journey.
+
+[06579.135]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06579.136]
+Will you stay the night?
+
+[06579.138]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06579.139]
+Please rest well.
+
+[06579.140]
+Good morning.
+
+[06579.141]
+You do not have enough money.
+
+[06579.142]
+We look forward to seeing you again.
+
+[06579.147]
+Obtained {16:25 C6}.
+
+[06579.149]
+Obtained {08:FF FF FF FF}.
+
+[06579.151]
+Found {16:25 CE}, but you can carry no more.
+
+[06579.153]
+There is nothing here.
+

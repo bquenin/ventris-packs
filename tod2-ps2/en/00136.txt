@@ -1,0 +1,6 @@
+[00136.001]
+Well, {NAME:01 00 00 00}. The adventure you've longed for starts here.
+
+[00136.002]
+...Hehe! Then let's go for it!
+

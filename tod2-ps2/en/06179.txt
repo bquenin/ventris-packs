@@ -1,0 +1,133 @@
+[06179.18758]
+Time for the great %s's
+"Tales of Destiny 2" quiz
+
+[06179.18810]
+Go for a perfect score!
+
+[06179.18837]
+OK, let's go
+
+[06179.18850]
+Easy stuff for you, right?
+
+[06179.18883]
+Heh, maybe
+
+[06179.18896]
+Here we go, then. No. 1
+
+[06179.18923]
+Got it!
+
+[06179.18932]
+Good, good. Keep it up
+
+[06179.18961]
+H-huh...?
+
+[06179.18976]
+Already? Come on...
+
+[06179.18997]
+Next, No. 2
+
+[06179.19012]
+Then No. 3
+
+[06179.19027]
+Good start, looks like
+
+[06179.19050]
+OK, No. 4
+
+[06179.19063]
+So, No. 5
+
+[06179.19078]
+And then No. 6
+
+[06179.19095]
+Yes, yes!
+
+[06179.19114]
+Hey, you're on fire
+
+[06179.19137]
+That's odd...
+
+[06179.19154]
+Bad day...
+
+[06179.19167]
+Shake it off. No. 7
+
+[06179.19190]
+Time to sprint. No. 7
+
+[06179.19215]
+Nice and easy. No. 7
+
+[06179.19240]
+No. 8
+
+[06179.19247]
+Here...
+
+[06179.19256]
+...Yeah
+
+[06179.19265]
+Hey...
+
+[06179.19274]
+Y-yeah...
+
+[06179.19287]
+Give it all! No. 9!
+
+[06179.19312]
+Here... here it comes!
+
+[06179.19335]
+Right, I'll do it!
+
+[06179.19354]
+Get at least one right, huh...
+
+[06179.19387]
+The decider: No. 10!
+
+[06179.19412]
+Last chance: No. 10
+
+[06179.19437]
+The last one: No. 10
+
+[06179.19460]
+All riiight!
+
+[06179.19475]
+Aaaaaaah...!
+
+[06179.19494]
+Damn, so close...
+
+[06179.19519]
+Phew, close one...
+
+[06179.19540]
+Well, that's about it...
+
+[06179.19565]
+Amazing, %s! Perfect!
+
+[06179.19596]
+Nothing more to say... good work
+
+[06179.19631]
+Not bad. Work at it and aim higher still
+
+[06179.19676]
+You've got to study more...
+

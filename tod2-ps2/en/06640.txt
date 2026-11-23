@@ -1,0 +1,154 @@
+[06640.001]
+Ruins of the Surface Army Base
+
+[06640.002]
+Ruins of the Surface Army Base
+
+[06640.003]
+Ruins of the Surface Army Base
+
+[06640.004]
+Ruins of the Surface Army Base
+
+[06640.005]
+Soldier
+
+[06640.006]
+Halt! Beyond this point is under the kingdom's control!
+
+[06640.007]
+Soldier
+
+[06640.008]
+No one may enter without leave! Be off with you at once!
+
+[06640.010]
+We bear a royal command from King Woodrow. Here is the writ.
+
+[06640.011]
+Soldier
+
+[06640.012]
+Th-this is...! I beg your pardon!
+
+[06640.014]
+Whew~♪ A royal writ does the trick, all right.
+
+[06640.016]
+Do not get carried away. It is unseemly.
+
+[06640.018]
+By the way, is the Ixifosler still here?
+
+[06640.019]
+Soldier
+
+[06640.020]
+It is here, yes, but... the hangar has been sealed, and no one can get in.
+
+[06640.021]
+Soldier
+
+[06640.022]
+Our duty is to guard the Ixifosler. We have not been told how the seal is released.
+
+[06640.024]
+Understood. We will manage the rest ourselves.
+
+[06640.026]
+Hey, {NAME:04 00 00 00}. What's an Ixifosler?
+
+[06640.028]
+You will see when we get there. Just follow me.
+
+[06640.029]
+Soldier
+
+[06640.030]
+In the sealed room there was a stone tablet that seems to set out how to release the seal.
+
+[06640.031]
+Soldier
+
+[06640.032]
+Why not look into it?
+
+[06640.033]
+Soldier
+
+[06640.034]
+Pass as you please. All is in order.
+
+[06640.035]
+Soldier
+
+[06640.036]
+These ruins are in the care of the Kingdom of Phandaria. You may go in, but do not disturb what is inside.
+
+[06640.037]
+Soldier
+
+[06640.038]
+I will say it as often as I must: beyond this point is under the kingdom's control!
+
+[06640.039]
+Soldier
+
+[06640.040]
+No one may enter without leave! Be off with you at once!
+
+[06640.041]
+Soldier
+
+[06640.042]
+Halt! Beyond this point is under the kingdom's control!
+
+[06640.043]
+Soldier
+
+[06640.044]
+No one may enter without leave! Be off with you at once!
+
+[06640.045]
+Soldier
+
+[06640.046]
+No one may enter without leave! Be off with you at once!
+
+[06640.047]
+Have a safe journey.
+
+[06640.048]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06640.049]
+Will you stay the night?
+
+[06640.051]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06640.052]
+Please rest well.
+
+[06640.053]
+Good morning.
+
+[06640.054]
+You do not have enough money.
+
+[06640.055]
+We look forward to seeing you again.
+
+[06640.060]
+Obtained {16:25 BA}.
+
+[06640.062]
+Obtained {08:FF FF FF FF}.
+
+[06640.064]
+Found {16:25 C2}, but you can carry no more.
+
+[06640.066]
+There is nothing here.
+

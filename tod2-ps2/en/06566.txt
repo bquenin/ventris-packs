@@ -1,0 +1,130 @@
+[06566.001]
+Surface Army Base
+
+[06566.002]
+Surface Army Base
+
+[06566.004]
+Old gear on the point of falling apart. They must have no choice but to use even this.
+
+[06566.005]
+Rookie Officer
+
+[06566.006]
+Why did an organization like the Heavenly Army ever come to be?
+
+[06566.007]
+Veteran Officer
+
+[06566.008]
+A coup. Miktran and his followers wanted the overwhelming power of Dycroft, and they rebelled.
+
+[06566.009]
+Veteran Officer
+
+[06566.010]
+This war is a worthless thing, born of the ambition of Miktran and his followers.
+
+[06566.011]
+Rookie Officer
+
+[06566.012]
+...The other day I was made a commander. I never dreamed a rookie like me would have men under him.
+
+[06566.013]
+Veteran Officer
+
+[06566.014]
+Well, things being what they are. The truth is we can't afford to be choosy.
+
+[06566.015]
+Veteran Officer
+
+[06566.016]
+But I pity your men. Die under the command of a green chick with no experience and they'll never rest in peace.
+
+[06566.017]
+Rookie Officer
+
+[06566.018]
+P-please don't put pressure on me!
+
+[06566.019]
+Veteran Officer
+
+[06566.020]
+Rookie, I hear you're to stand by on the ground for the assault on Dycroft.
+
+[06566.021]
+Rookie Officer
+
+[06566.022]
+It is galling. All because I have no experience...
+
+[06566.023]
+Veteran Officer
+
+[06566.024]
+Well, nobody wants to trust their life to an amateur.
+
+[06566.025]
+Veteran Officer
+
+[06566.026]
+I'll do my best in your place, so cook a meal or something and wait for me.
+
+[06566.027]
+Rookie Officer
+
+[06566.028]
+Yes, ma'am! Good luck in battle!
+
+[06566.029]
+Veteran Officer
+
+[06566.030]
+Army life wasn't so bad. And the next operation is the end of it. If I come back alive, I'm retiring.
+
+[06566.031]
+Rookie Officer
+
+[06566.032]
+Yes, ma'am! Let's win without fail and end the war!
+
+[06566.033]
+Have a safe journey.
+
+[06566.034]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06566.035]
+Will you stay the night?
+
+[06566.037]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06566.038]
+Please rest well.
+
+[06566.039]
+Good morning.
+
+[06566.040]
+You do not have enough money.
+
+[06566.041]
+We look forward to seeing you again.
+
+[06566.046]
+Obtained {16:25 BA}.
+
+[06566.048]
+Obtained {08:FF FF FF FF}.
+
+[06566.050]
+Found {16:25 C2}, but you can carry no more.
+
+[06566.052]
+There is nothing here.
+

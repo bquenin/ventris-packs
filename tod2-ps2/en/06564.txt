@@ -1,0 +1,987 @@
+[06564.001]
+Surface Army Base
+
+[06564.002]
+Surface Army Base
+
+[06564.003]
+Surface Army Base
+
+[06564.004]
+Surface Army Base
+
+[06564.005]
+Surface Army Base
+
+[06564.007]
+A "280mm Surface-to-Surface Log Cannon" stands here.
+
+[06564.009]
+So this is the world of a thousand years ago, the time of the War of Heaven and Earth...
+
+[06564.011]
+Well, it's fine that we're here, but what now?
+
+[06564.013]
+First we must gather information. How does Elraine mean to overturn the outcome of the War of Heaven and Earth...
+
+[06564.015]
+Until we know that, we cannot act.
+
+[06564.017]
+By the way, isn't this... the Surface Army's base? You know, where the Ixifosler was kept.
+
+[06564.019]
+So it is. That suits us. Here it will be easy to gather information.
+
+[06564.021]
+Then first let's ask the people here.
+
+[06564.023]
+...What is it?
+
+[06564.024]
+????
+
+[06564.025]
+Wait ri~~~ght there!
+
+[06564.026]
+????
+
+[06564.027]
+Hey! I'm your master, me! Do as you're told!
+
+[06564.028]
+????
+
+[06564.029]
+Going berserk just because I fitted a few little trial parts! He~~~~y!
+
+[06564.031]
+What's that?
+
+[06564.033]
+Beats me...
+
+[06564.034]
+????
+
+[06564.035]
+Don't you understand "stop", you heap of junk! I'll scrap you and send you to the junk box!!
+
+[06564.036]
+????
+
+[06564.037]
+Wh-what on earth...
+
+[06564.038]
+????
+
+[06564.039]
+He~~~~y! I keep telling you I'm your master!
+
+[06564.041]
+Um, excuse me...
+
+[06564.043]
+It is no use, {NAME:02 00 00 00}. She seems to have her hands full.
+
+[06564.045]
+Wh-whoa!
+
+[06564.047]
+H-hey, you! What are you hiding for!
+
+[06564.048]
+????
+
+[06564.049]
+Hey, you lot! Clear that thing up for me, chop-chop!
+
+[06564.051]
+...Are you by any chance talking to us?
+
+[06564.052]
+????
+
+[06564.053]
+Who else does it sound like I'm talking to?
+
+[06564.055]
+This has nothing to do with us!
+
+[06564.057]
+It seems that thing has taken us for enemies too.
+
+[06564.059]
+This is no time to be calm about it!
+
+[06564.061]
+Come on, no time for grumbling!
+
+[06564.063]
+Phew, that gave me a fright!
+
+[06564.065]
+Really, to be dragged into a thing like this the moment we arrive...
+
+[06564.067]
+Hey, miss. You're not hurt?
+
+[06564.068]
+????
+
+[06564.069]
+........
+
+[06564.071]
+...Wh-what? Is there something on my face?
+
+[06564.072]
+????
+
+[06564.073]
+......Hyah!
+
+[06564.075]
+Gah! Wh-wh-wh... What was that for, you little!
+
+[06564.076]
+????
+
+[06564.077]
+What for? Payback.
+
+[06564.079]
+Huh!?
+
+[06564.080]
+????
+
+[06564.081]
+You broke my HRX-2, didn't you? So, payback.
+
+[06564.083]
+Payback... You said it yourself, "Clear that thing up for me"!
+
+[06564.084]
+????
+
+[06564.085]
+What's the fuss? By rights it's a court-martial matter, and you got off with a flying kick.
+
+[06564.087]
+A court-martial!? Then this thing... belongs to the Surface Army!?
+
+[06564.088]
+????
+
+[06564.089]
+Well, it can't be helped. You people came from the future, so you wouldn't know how things stand.
+
+[06564.091]
+W-wait a minute! We never said a word, so how...
+
+[06564.092]
+????
+
+[06564.093]
+Oh, was I right? I said the least likely thing I could think of.
+
+[06564.095]
+A trick question. We walked right into it.
+
+[06564.097]
+...Even so, why did you think we were people from the future?
+
+[06564.098]
+????
+
+[06564.099]
+My grounds run to some thirty-six, from changes in the air caused by a warp in space-time to the way you yawn.
+
+[06564.100]
+????
+
+[06564.101]
+Well, the biiiggest one was a hunch.
+
+[06564.103]
+A hunch...?
+
+[06564.104]
+????
+
+[06564.105]
+You know what they say, a woman's hunch beats even chaos theory.
+
+[06564.107]
+H-hey, what's "kay-oss theory"?
+
+[06564.109]
+Beats me...
+
+[06564.111]
+Anyway, this girl is trouble. Let's get out of here.
+
+[06564.113]
+But if she was working that robot, she most likely belongs to the army.
+
+[06564.115]
+And if she handles machines, she may be Dr. {NAME:06 00 00 00}'s assistant.
+
+[06564.117]
+Dr. {NAME:06 00 00 00}... That's who built the Ixifosler we used, right?
+
+[06564.119]
+The doctor may have learned something of Elraine's meddling, too.
+
+[06564.121]
+And the doctor is twin brother to the strategist Karell, and will know the army's affairs. We should ask to see Dr. {NAME:06 00 00 00}...
+
+[06564.122]
+????
+
+[06564.123]
+You called?
+
+[06564.125]
+N-no, we didn't!
+
+[06564.127]
+B-but... is she really a scholar?
+
+[06564.129]
+That's the first thing I'd doubt. Assistant to the genius scientist who hushes crying children? Bit of a stretch, isn't it?
+
+[06564.130]
+????
+
+[06564.131]
+Hey, did you call?
+
+[06564.133]
+We said we didn't!
+
+[06564.134]
+????
+
+[06564.135]
+But you said "genius scientist" just now. That's me, isn't it?
+
+[06564.137]
+...Not you. Your boss... or whatever he is to you. You do know Dr. {NAME:06 00 00 00}, right?
+
+[06564.139]
+If you can, we would like you to take us to him. We wish to talk.
+
+[06564.140]
+????
+
+[06564.141]
+You want to talk? Nothing easier.
+
+[06564.143]
+Really? Then show us the way to the doctor!
+
+[06564.144]
+????
+
+[06564.145]
+No need for that. Go on, talk.
+
+[06564.147]
+H-hey now, that's not what we said! Our business is with Dr. {NAME:06 00 00 00}, see...
+
+[06564.148]
+????
+
+[06564.149]
+So talk here, then! You are slow, aren't you!
+
+[06564.151]
+Li~sten! Our business is with Dr. {NAME:06 00 00 00}, so you, the assistant...
+
+[06564.152]
+????
+
+[06564.153]
+Assistant? Me? Whose assistant?
+
+[06564.155]
+...Are you not Dr. {NAME:06 00 00 00}'s assistant?
+
+[06564.156]
+????
+
+[06564.157]
+I'm nobody's assistant.
+
+[06564.159]
+Sigh... What a waste of time... Come on, let's go.
+
+[06564.160]
+????
+
+[06564.161]
+Because I'm {NAME:06 00 00 00}.
+
+[06564.163]
+Yes, yes, sure, sure. You're {NAME:06 00 00 00}...
+
+[06564.165]
+Huh? R-really...?
+
+[06564.167]
+Yup.
+
+[06564.169]
+Enough of your silly jokes. You cannot be Dr. {NAME:06 00 00 00}...
+
+[06564.171]
+That's Chaltier on your back, isn't it?
+
+[06564.173]
+A slender curved sword, blade 67.3cm. Overall length with the hilt, 81.7cm. Weight, 2.64kg.
+
+[06564.175]
+The hilt swells a little to fit Chaltier's own hand. The relief is carved with a Gerbe pattern.
+
+[06564.177]
+Element, earth. Mostly casts spells that use stones and rocks... Oh, want to hear the spells it starts out with, too?
+
+[06564.179]
+Data as detailed as that...
+
+[06564.181]
+Of course I know it. I designed the thing.
+
+[06564.183]
+B-but! Dr. {NAME:06 00 00 00} is a man!
+
+[06564.185]
+Oh, so that is how it turned out!
+
+[06564.187]
+You see, I figured if I went by a man's name, e~veryone would get the wrong idea.
+
+[06564.189]
+And sure enough, they've all been properly fooled! Gufu, gufufufu!
+
+[06564.191]
+Th-then you really are Dr. {NAME:06 00 00 00}...
+
+[06564.193]
+Oh, just {NAME:06 00 00 00} will do. "Doctor" sounds so stiff, it's not cute.
+
+[06564.195]
+Not cute...
+
+[06564.197]
+Well then, shall we go?
+
+[06564.199]
+W-wait a minute. Go where...
+
+[06564.201]
+I'll introduce you to everybody. As my subordinates.
+
+[06564.203]
+That way you can move about freely inside the Radisrol too, see?
+
+[06564.205]
+...And this part is serious. The reason you people came to this time: keep it absolutely secret.
+
+[06564.207]
+Okay, got it! We won't tell anyone but you, {NAME:06 00 00 00}, no matter what.
+
+[06564.209]
+No, no! You keep it secret from me too!
+
+[06564.211]
+Huh? But...
+
+[06564.213]
+A puzzle this interesting, and you want me to hear the answer straight off? Where's the fun in that!
+
+[06564.215]
+All right? While I'm working it out, you must never tell me the answer!
+
+[06564.217]
+Now then, into the Radisrol, let's go!
+
+[06564.219]
+...W-well, anyway, shall we go, everyone...
+
+[06564.221]
+{NAME:06 00 00 00} joined the party.
+
+[06564.222]
+Soldier
+
+[06564.223]
+Dr. {NAME:06 00 00 00}, Commander-in-Chief Litler is asking for you. Please report to the Operations Room at once.
+
+[06564.225]
+It's about Dymlos... isn't it.
+
+[06564.227]
+Well, we'll know when we get there.
+
+[06564.228]
+Officer
+
+[06564.229]
+{05:9C 01 00 00}The Heavenly Army and the Surface Army! Which of them will win this war!
+
+[06564.230]
+NCO A
+
+[06564.231]
+{05:00 02 00 00}The Surface Army, sir!
+
+[06564.232]
+NCO B
+
+[06564.233]
+{05:00 02 00 00}The Surface Army, sir!
+
+[06564.234]
+NCO C
+
+[06564.235]
+{05:00 02 00 00}The Surface Army, sir!
+
+[06564.236]
+Officer
+
+[06564.237]
+{05:9C 01 00 00}Three cheers for Commander-in-Chief Litler and the Radisrol!
+
+[06564.238]
+Officer
+
+[06564.239]
+{05:9C 01 00 00}The Heavenly Army and the Surface Army! Which of them will win this war!
+
+[06564.240]
+NCO A
+
+[06564.241]
+{05:00 02 00 00}The Surface Army, sir!
+
+[06564.242]
+NCO B
+
+[06564.243]
+{05:00 02 00 00}The Surface Army, sir!
+
+[06564.244]
+NCO C
+
+[06564.245]
+{05:00 02 00 00}The Surface Army, sir!
+
+[06564.246]
+Officer
+
+[06564.247]
+{05:9C 01 00 00}Three cheers for the gentlemen of the Swordians!
+
+[06564.248]
+NCO A
+
+[06564.249]
+{05:00 02 00 00}Hurrah!
+
+[06564.250]
+NCO B
+
+[06564.251]
+{05:00 02 00 00}Hurrah!
+
+[06564.252]
+NCO C
+
+[06564.253]
+{05:00 02 00 00}Hurrah!
+
+[06564.254]
+NCO
+
+[06564.255]
+Right after the comet fell, every army and peacekeeping force lost its strength.
+
+[06564.256]
+NCO
+
+[06564.257]
+After all, there was no way left to bring up either supplies or men.
+
+[06564.258]
+NCO
+
+[06564.259]
+To think we'd end up facing Belcrant with wooden poles like these.
+
+[06564.260]
+NCO
+
+[06564.261]
+It's a wonder Belcrant hasn't fired on us before now.
+
+[06564.262]
+NCO
+
+[06564.263]
+Heh. I guess the Heavenly Army hasn't got a decent gunlayer.
+
+[06564.264]
+NCO
+
+[06564.265]
+Nothing is as useless as soldiers with no training.
+
+[06564.266]
+Gate Guard
+
+[06564.267]
+Sir. No hostile targets have been sighted these past few days.
+
+[06564.268]
+Gate Guard
+
+[06564.269]
+We will carry on with the watch until the situation changes.
+
+[06564.270]
+Gate Guard
+
+[06564.271]
+Sir. Have we done something amiss?
+
+[06564.273]
+No, I am sorry to have disturbed you.
+
+[06564.274]
+Supply Officer
+
+[06564.275]
+I am told that supplies meant to be handed out are being sold off on the side around here.
+
+[06564.276]
+Supply Officer
+
+[06564.277]
+What do they take precious supplies for? I will find the culprit without fail and throw him in the guardhouse.
+
+[06564.278]
+Supply Officer
+
+[06564.279]
+Food, equipment, we are short of everything.
+
+[06564.280]
+Supply Officer
+
+[06564.281]
+While morale is high the discontent can still be held down, but anyone can see the limit is near.
+
+[06564.282]
+Supply Officer
+
+[06564.283]
+Word has come to turn over all supplies to the next operation.
+
+[06564.284]
+Supply Officer
+
+[06564.285]
+But if the operation fails, what then? Are we to freeze to death in this blizzard with nothing to eat?
+
+[06564.287]
+You're a fool. If the assault fails, sooner or later the Surface Army is wiped out.
+
+[06564.289]
+So shouldn't we put everything we've got into this operation?
+
+[06564.290]
+Supply Officer
+
+[06564.291]
+Is it an order given with a real hope of winning? I cannot accept it...
+
+[06564.292]
+Private
+
+[06564.293]
+You lot are wearing some pretty odd gear. Which unit are you with?
+
+[06564.295]
+Unit? I don't know much about armies.
+
+[06564.296]
+Private
+
+[06564.297]
+Don't know? Ah, then you're militia, called up for the emergency?
+
+[06564.298]
+Private
+
+[06564.299]
+It's a sorry thing. Putting weapons in the hands of civilians... The army ought to be ashamed.
+
+[06564.300]
+Private
+
+[06564.301]
+Soldiers exist to protect civilians.
+
+[06564.302]
+Private
+
+[06564.303]
+Having to borrow those civilians' strength is getting it all backwards.
+
+[06564.304]
+Private
+
+[06564.305]
+They say the assault on Dycroft is to be launched at last.
+
+[06564.306]
+Private
+
+[06564.307]
+We're storming the enemy's stronghold. We may not come back alive.
+
+[06564.308]
+Private
+
+[06564.309]
+But it has to be done all the same. The fate of this world hangs on it.
+
+[06564.310]
+Private
+
+[06564.311]
+If I live through it, I'm done with soldiering.
+
+[06564.312]
+Private
+
+[06564.313]
+I'd like to join the Order of Straylize or something, and live in peace.
+
+[06564.314]
+Surface Soldier
+
+[06564.315]
+Say, can you believe it? We're taking on a weapon like Belcrant with swords and bows.
+
+[06564.316]
+Surface Soldier
+
+[06564.317]
+It's crazy. We can't win.
+
+[06564.318]
+Former Paratrooper
+
+[06564.319]
+I was a paratrooper once, but there's not a single plane left now.
+
+[06564.320]
+Former Paratrooper
+
+[06564.321]
+No, even if there were, they could do nothing against Belcrant...
+
+[06564.322]
+Surface Soldier
+
+[06564.323]
+Swordians, huh... One sword is going to turn the war around?
+
+[06564.324]
+Surface Soldier
+
+[06564.325]
+A war doesn't end because of one soldier and one weapon.
+
+[06564.327]
+Ah, but it really does end. That's the wonder of history for you.
+
+[06564.328]
+Surface Soldier
+
+[06564.329]
+If the Swordians do what they say, I'd want to use one too.
+
+[06564.330]
+Surface Soldier
+
+[06564.331]
+A filthy war like this has to be ended fast. I'd put it to good use for that.
+
+[06564.332]
+Woman Soldier
+
+[06564.333]
+I'm militia, called up for the emergency. Until now the army had nothing to do with me...
+
+[06564.334]
+Woman Soldier
+
+[06564.335]
+Soldiers really are tough. How do they keep standing out in this blizzard...
+
+[06564.336]
+Woman Soldier
+
+[06564.337]
+Oops, if I grumble I'll get shouted at by my officer. I'd better keep a proper watch.
+
+[06564.338]
+Woman Soldier
+
+[06564.339]
+It is cold, though. I could freeze to death.
+
+[06564.340]
+Woman Soldier
+
+[06564.341]
+If we beat the Heavenly Army, I think I'll enlist for real.
+
+[06564.342]
+Woman Soldier
+
+[06564.343]
+Even when the war ends, things will stay in turmoil for a while. The more soldiers the better, I should think.
+
+[06564.344]
+Woman Soldier
+
+[06564.345]
+We have to win, and leave the children a better world.
+
+[06564.346]
+Soldier
+
+[06564.347]
+Dr. {NAME:06 00 00 00}, Commander-in-Chief Litler is asking for you. Please report to the Operations Room at once.
+
+[06564.349]
+Salvage, salvage~♪
+
+[06564.351]
+Your bags are full.
+
+[06564.352]
+Have a safe journey.
+
+[06564.353]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06564.354]
+Will you stay the night?
+
+[06564.356]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06564.357]
+Please rest well.
+
+[06564.358]
+Good morning.
+
+[06564.359]
+You do not have enough money.
+
+[06564.360]
+We look forward to seeing you again.
+
+[06564.365]
+Obtained {16:25 CA}.
+
+[06564.367]
+Obtained {08:FF FF FF FF}.
+
+[06564.369]
+Found {16:25 D2}, but you can carry no more.
+
+[06564.371]
+There is nothing here.
+
+[06564.372]
+{08:12 00 00 00} Seller
+
+[06564.373]
+We sell {08:12 00 00 00} here.
+
+[06564.374]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06564.375]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06564.376]
+That will be {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06564.378]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 E6} at once ({14:35 E0} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06564.380]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06564.381]
+Thank you for your purchase.
+
+[06564.382]
+Thank you for your purchase.
+
+[06564.383]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald a bottle.
+
+[06564.384]
+Would you like to hear the Refine lessons?
+
+[06564.386]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06564.387]
+What would you like to know about?
+
+[06564.389]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06564.391]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06564.392]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06564.393]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06564.394]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06564.395]
+Lenses can be picked up by fighting monsters.
+
+[06564.396]
+Do take this chance to refine all you like.
+
+[06564.397]
+Changing an item means refining a single item to turn it into a different item.
+
+[06564.398]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06564.399]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06564.400]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06564.401]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06564.402]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06564.403]
+Ah, I should explain Slots first, shouldn't I.
+
+[06564.404]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06564.405]
+I will explain Slots in detail separately.
+
+[06564.406]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06564.407]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06564.408]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06564.409]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06564.410]
+Let me explain Slots in detail.
+
+[06564.411]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06564.412]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06564.413]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06564.414]
+Equipment with Slots is mostly dropped by monsters.
+
+[06564.415]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06564.416]
+Just between us, accessories can be refined too. But not with one another.
+
+[06564.417]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06564.418]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06564.419]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06564.420]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06564.421]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06564.422]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06564.423]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06564.424]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06564.425]
+So I recommend selling off the items you no longer need.
+
+[06564.426]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06564.427]
+...Keeping your items tidy matters too.
+

@@ -1,0 +1,662 @@
+[06400.001]
+Regular Ship
+
+[06400.002]
+Regular Ship
+
+[06400.004]
+A world map. According to the map...
+
+[06400.006]
+...the "Calvalese continent" lies to the northwest, the "Fitzgald continent" to the southwest, the "Aquaveil islands" to the northeast, and the "Central continent" at the center of the world.
+
+[06400.008]
+This... looks like a cannonball. Equipment for self-defense, perhaps.
+
+[06400.010]
+It's dangerous, so better not to touch it.
+
+[06400.012]
+The sea chart is densely covered with arrows and technical terms.
+
+[06400.014]
+A hammock. The captain must use it.
+
+[06400.016]
+Hm? A {08:A9 01 00 00} has been dropped here. And a letter...
+
+[06400.017]
+The Captain's Letter
+
+[06400.018]
+"The {08:A9 01 00 00} I bought from your mail-order service does nothing at all (I never win the lottery!). Does equipping it really raise your luck? It seems to have no effect, so I am returning it."
+
+[06400.020]
+...Well, I figure that's about how it goes... If he doesn't want it, I'll take it...
+
+[06400.022]
+Obtained {08:A9 01 00 00}.
+
+[06400.023]
+Sailor
+
+[06400.024]
+Below here is the hold! But right now we're at war with the lord of the sea! Aah... what do I do...
+
+[06400.025]
+Sailor
+
+[06400.026]
+Down below! In the hold! The hold! The lord! The hold! The lord! In the hold! Awawawawa!
+
+[06400.027]
+Sailor
+
+[06400.028]
+Aah... the water keeps coming... Is this the end?
+
+[06400.029]
+Sailor
+
+[06400.030]
+You saved us...
+
+[06400.031]
+Sailor
+
+[06400.032]
+Below here is the hold. Sorry, but I can't let passengers through.
+
+[06400.033]
+Sailor
+
+[06400.034]
+Aww... The captain chewed me out again...
+
+[06400.035]
+Sailor
+
+[06400.036]
+I can't swim, I get seasick... Maybe I'm just not cut out to be a sailor after all?
+
+[06400.038]
+Then why did you want to be a sailor in the first place?
+
+[06400.039]
+Sailor
+
+[06400.040]
+Because I love the sea... I guess.
+
+[06400.041]
+Sailor
+
+[06400.042]
+I can't swim, I get seasick... Maybe I'm just not cut out to be a sailor after all?
+
+[06400.043]
+Sailor
+
+[06400.044]
+Please stay calm! First, follow the crew's instructions and...
+
+[06400.046]
+Good, keep that up and calm the other passengers down.
+
+[06400.047]
+Sailor
+
+[06400.048]
+P-please stay calm! First, follow the crew's instructions and come up on deck~.
+
+[06400.049]
+Sailor
+
+[06400.050]
+I-I... can't swim. Will I be all right...?
+
+[06400.052]
+It'll work out... Right now just get the passengers up on deck!
+
+[06400.053]
+Sailor
+
+[06400.054]
+Y-yesh...
+
+[06400.055]
+Sailor
+
+[06400.056]
+P-please stay calm! First, follow the crew's instructions and come up on deck~.
+
+[06400.057]
+Sailor
+
+[06400.058]
+I'm so glad we were saved... Now I can go on being a sailor.
+
+[06400.059]
+Sailor
+
+[06400.060]
+I can't swim and I get seasick, but the one thing I don't want to give up is my dream of being a sailor.
+
+[06400.062]
+If you don't give up, your dream will come true for sure!
+
+[06400.063]
+Sailor
+
+[06400.064]
+I'll become a fine sailor one day too, just you see.
+
+[06400.065]
+Sailor
+
+[06400.066]
+I couldn't swim, but I trained hard and now I can swim a whole 10 meters.
+
+[06400.067]
+Sailor
+
+[06400.068]
+When I can swim about 50 meters, would that make me a full-fledged sailor?
+
+[06400.070]
+50 meters out at sea would be rough... At least 5 kilometers or so, wouldn't you say?
+
+[06400.071]
+Sailor
+
+[06400.072]
+5 kilometers... That number makes my head spin...
+
+[06400.073]
+Sailor
+
+[06400.074]
+I'll train my hardest and do my best to become a full-fledged sailor!
+
+[06400.075]
+Sailor
+
+[06400.076]
+I'll become a fine sailor one day too, just you see.
+
+[06400.077]
+Sailor
+
+[06400.078]
+It's my job, so I can't leave the ship, but if I could I'd join the pilgrimage.
+
+[06400.079]
+Sailor
+
+[06400.080]
+I may not look it, but I'm a believer in Fortuna too. I look devout, don't I?
+
+[06400.081]
+Sailor
+
+[06400.082]
+Ah, I envy the people who get to go to the holy land...
+
+[06400.083]
+Sailor
+
+[06400.084]
+I may not look it, but I'm a believer in Fortuna too. I look devout, don't I?
+
+[06400.085]
+Captain
+
+[06400.086]
+Greetings, young folk. I am the captain of this ship. Are you enjoying the voyage?
+
+[06400.088]
+Yeah! It's loads of fun!
+
+[06400.089]
+Captain
+
+[06400.090]
+If there's anything you lack, tell me, whatever it is. Aboard ship, I am the law.
+
+[06400.091]
+Captain
+
+[06400.092]
+Grrr! Lord of the sea or whatever it is, I'll not have it doing as it pleases on this ship!
+
+[06400.093]
+Captain
+
+[06400.094]
+...So says the captain of this ship. Would you go and tell it that for me?
+
+[06400.096]
+Tell it yourself...
+
+[06400.097]
+Captain
+
+[06400.098]
+Aah! If only I could, I'd strike that monster down with my own hands...!
+
+[06400.099]
+Captain
+
+[06400.100]
+But I have a duty to protect the safety of the passengers...
+
+[06400.101]
+Captain
+
+[06400.102]
+Grrr! No good, the flooding is making the ship start to list!
+
+[06400.103]
+Captain
+
+[06400.104]
+Is this the end for my Algernon...?
+
+[06400.105]
+Captain
+
+[06400.106]
+Now, the emergency repairs are done, and all that's left is to race for Snowfria!
+
+[06400.108]
+Hey, will emergency repairs really do?
+
+[06400.109]
+Captain
+
+[06400.110]
+Of course they will! The pride of my Algernon is that she has never once sunk!
+
+[06400.111]
+Captain
+
+[06400.112]
+Now, let's make up for lost time in one go!
+
+[06400.113]
+Captain
+
+[06400.114]
+To be able to help you all on your pilgrimage to the holy land like this is the greatest reward a captain could ask.
+
+[06400.115]
+Captain
+
+[06400.116]
+Just leave the voyage to Calvalese to me!
+
+[06400.117]
+Captain
+
+[06400.118]
+Now, let's put our backs into it all the way to Calvalese! Hard a-starboard~!
+
+[06400.119]
+Captain
+
+[06400.120]
+Or so I'd have you think: hard a-port~! Well, fooled you, didn't I?
+
+[06400.121]
+Captain
+
+[06400.122]
+Greetings, young folk. I am the captain of this ship. Are you enjoying the voyage?
+
+[06400.124]
+Yeah! It's loads of fun!
+
+[06400.125]
+Captain
+
+[06400.126]
+If there's anything you lack, tell me, whatever it is. Aboard ship, I am the law.
+
+[06400.127]
+Captain
+
+[06400.128]
+Oh, here they are! I've been waiting for you, young heroes who guard the Saint!
+
+[06400.130]
+Saint? Heroes? What do you mean!?
+
+[06400.131]
+Captain
+
+[06400.132]
+Forneus, the very symbol of terror that has sunk countless ships, and you defeated it with a mere four people!
+
+[06400.133]
+Captain
+
+[06400.134]
+What's more, you saved us from sinking with a miraculous power surpassing even Elraine of the Order of Atamoni!
+
+[06400.135]
+Captain
+
+[06400.136]
+If I'm not to call you heroes, and a saint, then what should I call you?
+
+[06400.138]
+Heh heh, well...
+
+[06400.140]
+Don't get carried away. It was not your strength alone. And because of that miraculous power, {NAME:02 00 00 00} has yet to wake.
+
+[06400.142]
+I-I know that!
+
+[06400.143]
+Captain
+
+[06400.144]
+Of course, I have heard of that as well. There is a village called Lienea ahead. Why not let the Saint rest there?
+
+[06400.146]
+But then we'd have to get off the ship, wouldn't we?
+
+[06400.147]
+Captain
+
+[06400.148]
+No need to worry about that.
+
+[06400.149]
+Captain
+
+[06400.150]
+Without emergency repairs, this ship can't even make it back to Aigrette, let alone Snowfria, in any case.
+
+[06400.151]
+Captain
+
+[06400.152]
+So then: the Saint rests in Lienea, and once she has recovered you travel overland to Neustadt.
+
+[06400.153]
+Captain
+
+[06400.154]
+By then we will have patched up the ship and will be waiting for you in Neustadt. ...That, in short, is the plan.
+
+[06400.156]
+But there is no telling when {NAME:02 00 00 00} will recover. We may be late reaching Neustadt. Is that acceptable?
+
+[06400.157]
+Captain
+
+[06400.158]
+Aye, of course! I swear the ship will not sail until you arrive. You saved our lives, after all.
+
+[06400.160]
+All right, then we'll go to this village, Lienea!
+
+[06400.161]
+Captain
+
+[06400.162]
+Then give me a shout when you leave the ship.
+
+[06400.164]
+Lienea, huh... {NAME:01 00 00 00}, we may have had a bit of luck here.
+
+[06400.166]
+...?
+
+[06400.168]
+{NAME:01 00 00 00} and company earned titles.
+
+[06400.169]
+Captain
+
+[06400.170]
+So, what will it be? Leave the ship right now, or a little later?{02}
+
+[06400.172]
+{03:00 00 00 00}　Leave the ship now　
+　Later　
+
+[06400.173]
+Captain
+
+[06400.174]
+Then farewell, my friends! We meet again in Neustadt! Adios!
+
+[06400.175]
+Captain
+
+[06400.176]
+Go to your destination?
+
+[06400.178]
+{03:00 00 00 00}　Go　
+　Not yet　
+
+[06400.180]
+Captain
+
+[06400.181]
+Are you a customer after the stamp rally?
+
+[06400.183]
+Stamp rally? What's that?
+
+[06400.184]
+Captain
+
+[06400.185]
+We're running a campaign just now. Every time you sail one of the regular ship's routes, we give you a stamp.
+
+[06400.186]
+Captain
+
+[06400.187]
+Aigrette-Snowfria, Neustadt-Cherik: each route has a different one for each direction.
+
+[06400.188]
+Captain
+
+[06400.189]
+So there are six stamps in all. Collect all of them and, would you believe...
+
+[06400.191]
+Would I believe?
+
+[06400.192]
+Captain
+
+[06400.193]
+There's a special present! It's quite a rare thing, so I'd say it's worth collecting.
+
+[06400.194]
+Captain
+
+[06400.195]
+And so, here is your stamp card. One is already stamped, so five remain. Do your best to collect them!
+
+[06400.196]
+Captain
+
+[06400.197]
+Come for your stamp, have you? Here you are!
+
+[06400.199]
+Got stamp number {18:44 6C}!
+
+[06400.200]
+Captain
+
+[06400.201]
+Five to go. There's a long way ahead yet, but do your best!
+
+[06400.202]
+Captain
+
+[06400.203]
+Four to go. You seem to be collecting them steadily. Do keep at it to the end!
+
+[06400.204]
+Captain
+
+[06400.205]
+Three to go, you're halfway there! From here it's the second half. Do your best!
+
+[06400.206]
+Captain
+
+[06400.207]
+Two to go. You've gathered quite a few. At this rate the last two won't take long, eh?
+
+[06400.208]
+Captain
+
+[06400.209]
+Well done getting this far. One to go, the last one! Do your best!
+
+[06400.210]
+Captain
+
+[06400.211]
+Congratulations! You have collected every stamp!
+
+[06400.212]
+Captain
+
+[06400.213]
+I must thank you for sailing with our regular ship so many times. Truly, thank you!
+
+[06400.214]
+Captain
+
+[06400.215]
+Now, here is the special present. Please accept it!
+
+[06400.217]
+{NAME:01 00 00 00} earned the title "{08:44 08 00 00}".
+
+[06400.218]
+1
+
+[06400.219]
+2
+
+[06400.220]
+3
+
+[06400.221]
+4
+
+[06400.222]
+5
+
+[06400.223]
+6
+
+[06400.224]
+Captain
+
+[06400.225]
+Greetings, young folk. I am the captain of this ship. Are you enjoying the voyage?
+
+[06400.226]
+Quartermaster
+
+[06400.227]
+This is the quartermaster's.
+
+[06400.228]
+Good luck.
+
+[06400.229]
+Come by anytime.
+
+[06400.230]
+Quartermaster
+
+[06400.231]
+Treating patients is my job.
+
+[06400.232]
+Medicine is a benevolent art.
+
+[06400.233]
+Ship's Doctor
+
+[06400.234]
+Ship's Doctor
+
+[06400.235]
+Want some first aid?
+{03:00 00 00 00}　Yes ({0B:01 00 00 00}{06:64 00 00 00}{0B:00 00 00 00} Gald)　
+　No　
+
+[06400.236]
+Ship's Doctor
+
+[06400.237]
+First aid, commencing!
+
+[06400.238]
+You're all right now.
+
+[06400.239]
+This one's on the house.
+
+[06400.240]
+Ship's Doctor
+
+[06400.241]
+Ship's Doctor
+
+[06400.242]
+Come by anytime.
+
+[06400.243]
+Have a safe journey.
+
+[06400.244]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06400.245]
+Will you stay the night?
+
+[06400.247]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06400.248]
+Please rest well.
+
+[06400.249]
+Good morning.
+
+[06400.250]
+You do not have enough money.
+
+[06400.251]
+We look forward to seeing you again.
+
+[06400.256]
+Obtained {16:25 C2}.
+
+[06400.258]
+Obtained {08:FF FF FF FF}.
+
+[06400.260]
+Found {16:25 CA}, but you can carry no more.
+
+[06400.262]
+There is nothing here.
+

@@ -1,0 +1,49 @@
+[06632.001]
+Catacombs
+
+[06632.002]
+Catacombs
+
+[06632.004]
+Burned away the spider's web with the Sorcerer's Ring.
+
+[06632.006]
+A spider's web blocks the way. It does not look as if it can be cleared by hand.
+
+[06632.007]
+Have a safe journey.
+
+[06632.008]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06632.009]
+Will you stay the night?
+
+[06632.011]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06632.012]
+Please rest well.
+
+[06632.013]
+Good morning.
+
+[06632.014]
+You do not have enough money.
+
+[06632.015]
+We look forward to seeing you again.
+
+[06632.020]
+Obtained {16:25 BA}.
+
+[06632.022]
+Obtained {08:FF FF FF FF}.
+
+[06632.024]
+Found {16:25 C2}, but you can carry no more.
+
+[06632.026]
+There is nothing here.
+

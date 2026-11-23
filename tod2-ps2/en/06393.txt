@@ -1,0 +1,205 @@
+[06393.001]
+Great Temple of Straylize
+
+[06393.002]
+Great Temple of Straylize
+
+[06393.003]
+Straylize Temple
+
+[06393.004]
+Straylize Temple
+
+[06393.006]
+Books on people are kept here. "Greybum Bernhardt": Archbishop of the Great Temple of Straylize, who took part in the uprising over the Eye of God.
+
+[06393.008]
+He stole the Eye of God and fled, but was defeated by the Four Heroes.
+
+[06393.010]
+This is...!
+
+[06393.012]
+Found a TOD1 quiz question!
+
+[06393.014]
+A new category has been added to the quiz book.
+
+[06393.016]
+Books on people are kept here. "Hugo Gilchrist": head of the Oberon Corporation, who took part in the uprising over the Eye of God.
+
+[06393.018]
+Having obtained the Eye of God, Hugo revived the ancient weapon "Belcrant" and drove the surface to the brink of ruin, but was struck down by the Four Heroes.
+
+[06393.020]
+An ornament of elaborate shape. Bought in the ordinary way, it would surely cost a fortune...
+
+[06393.022]
+"Special Unit: Dark Wings" ...It seems to be a book about the "Dark Wings", a special unit active in the War of Heaven and Earth.
+
+[06393.024]
+It says that as a special unit of the Surface Army they carried out infiltration missions and guarded important persons.
+
+[06393.026]
+"Transport Ship Radisrol" ...An account of the ship used as the flagship of the Surface Army in the War of Heaven and Earth.
+
+[06393.027]
+Scholar
+
+[06393.028]
+I do research on Lenses.
+
+[06393.029]
+Scholar
+
+[06393.030]
+They say Lenses were brought, far back in the distant past, by a comet that fell to earth...
+
+[06393.031]
+Scholar
+
+[06393.032]
+Really I'd like to study the Lens weapons, the Swordians, too, but they were lost eighteen years ago.
+
+[06393.033]
+Scholar
+
+[06393.034]
+The man said to have made them, {NAME:06 00 00 00} Berselius. He was an out-and-out genius.
+
+[06393.035]
+Scholar
+
+[06393.036]
+I hope my research can be of use to Lady Elraine someday.
+
+[06393.037]
+Scholar
+
+[06393.038]
+Bringing down Fortuna... The power of Lenses truly is great.
+
+[06393.040]
+This is no time to be impressed! Hey, you! Where are they doing this descent!?
+
+[06393.041]
+Scholar
+
+[06393.042]
+Ow ow ow... I-in the chapel!
+
+[06393.043]
+Scholar
+
+[06393.044]
+They refused to let me watch too! They'll never let you into the chapel!
+
+[06393.045]
+Scholar
+
+[06393.046]
+H-hey! Did the descent of Atamoni succeed? For my research, I'd really...
+
+[06393.048]
+Aah! What a pest! We're busy right now.
+
+[06393.049]
+Scholar
+
+[06393.050]
+H-hey! Just a little is fine, tell me about the ceremony~.
+
+[06393.051]
+Scholar
+
+[06393.052]
+Hmm... However many times I calculate, it's no good~! If only I had a brain like {NAME:06 00 00 00}...
+
+[06393.054]
+No use, no use. You'd never be able to handle it.
+
+[06393.055]
+Scholar
+
+[06393.056]
+I won't give in! Not until the day I'm called the {NAME:06 00 00 00} of our age!!
+
+[06393.057]
+Scholar
+
+[06393.058]
+That comet looks like it's heading this way, but I must be imagining it~.
+
+[06393.059]
+Scholar
+
+[06393.060]
+Ahahaha... Now, back to my research.
+
+[06393.062]
+Escaping reality...
+
+[06393.063]
+Scholar
+
+[06393.064]
+Now, pull myself together and... research♪ research♪
+
+[06393.065]
+Scholar
+
+[06393.066]
+Right now I'm researching crops that grow even in barren land.
+
+[06393.067]
+Scholar
+
+[06393.068]
+If it goes well, Calvalese will become a far more livable continent than it is now.
+
+[06393.070]
+I see~. Hope you come up with something tasty.
+
+[06393.071]
+Scholar
+
+[06393.072]
+Let's see... cross this cactus with a potato, and...
+
+[06393.073]
+Have a safe journey.
+
+[06393.074]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06393.075]
+Will you stay the night?
+
+[06393.077]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06393.078]
+Please rest well.
+
+[06393.079]
+Good morning.
+
+[06393.080]
+You do not have enough money.
+
+[06393.081]
+We look forward to seeing you again.
+
+[06393.086]
+Obtained {16:25 BA}.
+
+[06393.088]
+Obtained {08:FF FF FF FF}.
+
+[06393.090]
+Found {16:25 C2}, but you can carry no more.
+
+[06393.092]
+There is nothing here.
+

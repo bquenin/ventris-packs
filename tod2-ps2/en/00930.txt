@@ -1,0 +1,12 @@
+[00930.001]
+What was that thing...
+
+[00930.002]
+........
+
+[00930.003]
+He~y, why the daze? I said {NAME:06 00 00 00} is calling you!
+
+[00930.004]
+S-sorry!
+

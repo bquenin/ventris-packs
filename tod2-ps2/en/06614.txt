@@ -1,0 +1,840 @@
+[06614.001]
+Aquaveil
+
+[06614.002]
+Aquaveil
+
+[06614.003]
+Aquaveil
+
+[06614.005]
+"Three hundred years in business. A shop with a tradition going back to the days of the Moryu domain. This way to the Moryu General Store!"
+
+[06614.007]
+A street lamp of a curious shape. It seems to be called a toro.
+
+[06614.009]
+There are lots of little fish. Do they eat these?
+
+[06614.011]
+Hahaha! This is kingyo-sukui, goldfish scooping, a game you only find in these parts.
+
+[06614.013]
+Garden trees of strange shapes stand in a row.
+
+[06614.014]
+Woman
+
+[06614.015]
+This is a country that has had no dealings with other lands and has grown a culture all its own.
+
+[06614.016]
+Woman
+
+[06614.017]
+We have sea all around us, you see. It is a rare thing for people to come from elsewhere.
+
+[06614.018]
+Woman
+
+[06614.019]
+Well now, you people aren't from Aquaveil. One look at that get-up tells me.
+
+[06614.021]
+Come to think of it, the people here do wear unusual clothes.
+
+[06614.023]
+Dad told me once, long ago, that the lands of the east have a different culture...
+
+[06614.024]
+Tea Shop
+
+[06614.025]
+Would you care for some tea while you do your shopping?
+
+[06614.026]
+Much obliged, as ever.
+
+[06614.027]
+Well, until next time.
+
+[06614.028]
+Tea Shop
+
+[06614.029]
+Customer
+
+[06614.030]
+Mm, this flavor... For tea, there is nothing to match this.
+
+[06614.032]
+What, what, is this stuff that good!? Then here goes!
+
+[06614.034]
+...Ugeeeh! It's biiitter! Water, give me water!
+
+[06614.035]
+Customer
+
+[06614.036]
+Ho ho ho. This flavor may be a little strong for people from other lands.
+
+[06614.037]
+Customer
+
+[06614.038]
+Sluuuuuurp~
+
+[06614.039]
+Customer
+
+[06614.040]
+Tea is good, after all. Sitting like this, one's heart grows gently calm.
+
+[06614.042]
+Let's see, let me have a drink too. Sluuuuuurp~
+
+[06614.044]
+Uge! B-bitter! Ptoo, ptoo, ptoo!
+
+[06614.045]
+Fishmonger
+
+[06614.046]
+How about that, fresh as they come! All caught in the waters hereabouts, wild and still flapping!
+
+[06614.047]
+Come by again.
+
+[06614.048]
+Cheapskates! Buy something!
+
+[06614.049]
+Fishmonger
+
+[06614.050]
+Souvenirs: Tokei
+
+[06614.051]
+Step up, take a look. We've got curios and rare finds.
+
+[06614.052]
+I hope we shall have your custom again!
+
+[06614.053]
+Please come again.
+
+[06614.054]
+Souvenirs: Tokei
+
+[06614.055]
+Grocer
+
+[06614.056]
+Do buy something, won't you.
+
+[06614.057]
+Much obliged, as ever.
+
+[06614.058]
+Well, until next time.
+
+[06614.059]
+Grocer
+
+[06614.060]
+Boy
+
+[06614.061]
+Kon, kon, kon♪ Boy with the strange eyes, play with me again next time.
+
+[06614.062]
+Boy
+
+[06614.063]
+Boy with the strange eyes, would you like to play with me?
+
+[06614.064]
+Boy
+
+[06614.065]
+Jump rope, cup-and-ball, there are all sorts. Kon, kon, kon♪
+
+[06614.067]
+I've no time to play just now. But I'll come again, so let's play then. ...I promise!
+
+[06614.068]
+The Man Who Loves Freedom
+
+[06614.069]
+You and I are a wind that is always free... The daily round that ties me down? It's BYE to that, right now...
+
+[06614.070]
+The Man Who Loves Freedom
+
+[06614.071]
+I live as the mood takes me... A KITE whose ROPE has snapped, you might say.
+
+[06614.072]
+The Man Who Loves Freedom
+
+[06614.073]
+Do you feel it? The hot BEAT! Do you believe? The blazing PASSION! That is what drives us on!
+
+[06614.074]
+The Man Who Loves Freedom
+
+[06614.075]
+...That's right, I am... "the man who loves freedom"... the man someone, no one knows who, called by that name...
+
+[06614.076]
+The Man Who Loves Freedom
+
+[06614.077]
+When was it I drifted into this BAY...
+
+[06614.078]
+The Man Who Loves Freedom
+
+[06614.079]
+No... memories mean nothing... The ones who fuss over the DIARY called memory are the ones who go soonest...
+
+[06614.080]
+The Man Who Loves Freedom
+
+[06614.081]
+Say... is it fun to trace a ROUTE others chose? What we need is the courage to snap our chains, pride in ourselves and a hot SOUL... Don't you think?
+
+[06614.083]
+{03:00 00 00 00}　I have no idea what you mean　
+　I don't think so　
+　I think so　
+
+[06614.084]
+The Man Who Loves Freedom
+
+[06614.085]
+It is always so... The sea wind called loneliness, howling through my heart... But it is a wind that feels good...
+
+[06614.086]
+The Man Who Loves Freedom
+
+[06614.087]
+Cozying up to others, pretending to understand, a lonely bit of play-acting... I've had enough... I choose to be free instead...
+
+[06614.088]
+The Man Who Loves Freedom
+
+[06614.089]
+The sea wind called loneliness stings the wounds in my heart... deep, deep... as if to gouge them...
+
+[06614.090]
+The Man Who Loves Freedom
+
+[06614.091]
+But remember this... Each time it is hurt, the heart grows strong and tough... Remember that...
+
+[06614.092]
+The Man Who Loves Freedom
+
+[06614.093]
+Souls SYNCHRONIZE... That is what matters... The crossroads called life... What do people meet for...
+
+[06614.094]
+The Man Who Loves Freedom
+
+[06614.095]
+If our souls can SYNCHRONIZE... I should be able to give you something... Until then, don't forget...
+
+[06614.096]
+The Man Who Loves Freedom
+
+[06614.097]
+These things called titles... don't you wonder? That what honors you is pushed on you by others, don't you wonder? I say again... don't you? Wonder!
+
+[06614.098]
+The Man Who Loves Freedom
+
+[06614.099]
+Not even a title can tie us down... Yes! I am "the man who loves freedom"...
+
+[06614.100]
+The Man Who Loves Freedom
+
+[06614.101]
+...That is our lot, our SAGA. Decide... with your own hands!
+
+[06614.102]
+The Man Who Loves Freedom
+
+[06614.103]
+All I can do is give a little push... What I give is a "free title"... the rest is up to you! Decide! For the one and only you in this world!
+
+[06614.104]
+The Man Who Loves Freedom
+
+[06614.105]
+{NAME:01 00 00 00}, set your SOUL free! They can tie down the body, but they can't tie down the SOUL ...ever!
+
+[06614.107]
+It's... kind of overwhelming...
+
+[06614.108]
+The Man Who Loves Freedom
+
+[06614.109]
+{NAME:02 00 00 00}, people are always free! And if your free heart were ever taken from you... that would be... THE END...
+
+[06614.111]
+...What a strange man...
+
+[06614.112]
+The Man Who Loves Freedom
+
+[06614.113]
+{NAME:03 00 00 00}, go round breaking windows! Take a stolen ship to sea! Not knowing where you're bound! In the dim dark before the sun comes up...
+
+[06614.115]
+What... is that supposed to be...
+
+[06614.116]
+The Man Who Loves Freedom
+
+[06614.117]
+{NAME:04 00 00 00}, a person's sparkle lasts an instant! It's a one-night HEAVEN, no more! Who needs a lukewarm daily round! Shine, O time!
+
+[06614.119]
+...Sigh...
+
+[06614.120]
+The Man Who Loves Freedom
+
+[06614.121]
+{NAME:05 00 00 00}, believe in what you could be! The road forks without end! All we can do is run on NONSTOP...
+
+[06614.123]
+...Have you been drinking or something?
+
+[06614.124]
+The Man Who Loves Freedom
+
+[06614.125]
+{NAME:06 00 00 00}, suit yourself!
+
+[06614.127]
+What! What's that supposed to mean!
+
+[06614.128]
+The Man Who Loves Freedom
+
+[06614.129]
+Just as this body is a vessel borrowed for a while... this title too may be a moment's light... When the light grows weak... or seems about to go out...
+
+[06614.130]
+The Man Who Loves Freedom
+
+[06614.131]
+Come to me once more! When you feel you're losing your hot SOUL, come to me! I'll breathe it into you again... the light of freedom!
+
+[06614.132]
+The Man Who Loves Freedom
+
+[06614.133]
+It is always so... The sea wind called loneliness, howling through my heart... But it is a wind that feels good...
+
+[06614.134]
+The Man Who Loves Freedom
+
+[06614.135]
+Cozying up to others, pretending to understand, a lonely bit of play-acting... I've had enough... I choose to be free instead...
+
+[06614.136]
+The Man Who Loves Freedom
+
+[06614.137]
+The sea wind called loneliness stings the wounds in my heart... deep, deep... as if to gouge them...
+
+[06614.138]
+The Man Who Loves Freedom
+
+[06614.139]
+But remember this... Each time it is hurt, the heart grows strong and tough... Remember that...
+
+[06614.140]
+The Man Who Loves Freedom
+
+[06614.141]
+...The beginning always comes without warning... and then the end begins...
+
+[06614.142]
+The Man Who Loves Freedom
+
+[06614.143]
+Freedom is not without limit... and disorder is not freedom... Doubt even the "freedom" you once believed in... It may not be "true freedom"...
+
+[06614.144]
+The Man Who Loves Freedom
+
+[06614.145]
+If it is our lot, our SAGA, to go on changing... then changing your POLICY is no bad thing... Nobody will blame you for it...
+
+[06614.146]
+The Man Who Loves Freedom
+
+[06614.147]
+Now, whose free title do you want to change?{02}
+
+[06614.148]
+{03:00 00 00 00}{NAME:04 00 00 00}
+{NAME:05 00 00 00}
+{NAME:06 00 00 00}
+Previous page
+
+[06614.149]
+{03:00 00 00 00}{NAME:01 00 00 00}
+{NAME:02 00 00 00}
+{NAME:03 00 00 00}
+Next page
+
+[06614.151]
+The Man Who Loves Freedom
+
+[06614.152]
+Not changing it... Well, that too is freedom.
+
+[06614.153]
+The Man Who Loves Freedom
+
+[06614.154]
+That one's not here now! That one is LOST!
+
+[06614.155]
+The Man Who Loves Freedom
+
+[06614.156]
+OK! From now on, {15:24 70} is "{16:A0 00 08 24 72 CA}"! Nobody can tie you down for bearing that title...
+
+[06614.157]
+Gen the Town Carpenter
+
+[06614.158]
+Hey! You making things?
+
+[06614.159]
+Gen the Town Carpenter
+
+[06614.160]
+Me, I build houses! I build 'em like mad! You lot making things?
+
+[06614.161]
+Gen the Town Carpenter
+
+[06614.162]
+I'll see with my own sharp eye just how much you lot like making things!
+
+[06614.163]
+Gen the Town Carpenter
+
+[06614.164]
+Never done a "Refine", not once? Tch! What have you been up to!
+
+[06614.165]
+Gen the Town Carpenter
+
+[06614.166]
+Times you've refined: {14:34 78}. Still rank amateurs!
+
+[06614.167]
+Gen the Town Carpenter
+
+[06614.168]
+Times you've refined: {14:34 78}. Just starting out, I'd say!
+
+[06614.169]
+Gen the Town Carpenter
+
+[06614.170]
+Times you've refined: {14:34 78}. Keep making things!
+
+[06614.171]
+Gen the Town Carpenter
+
+[06614.172]
+Now this is something! You've refined over a million times! I'm impressed!
+
+[06614.174]
+{NAME:01 00 00 00} and company earned the title "{08:66 08 00 00}".
+
+[06614.176]
+{NAME:01 00 00 00} and company earned the title "{08:67 08 00 00}".
+
+[06614.178]
+{NAME:01 00 00 00} and company earned the title "{08:68 08 00 00}".
+
+[06614.180]
+{NAME:01 00 00 00} and company earned the title "{08:69 08 00 00}".
+
+[06614.181]
+Aquaveil
+
+[06614.183]
+"{16:A0 00 08 24 94 CA}"
+Is that all right?
+
+[06614.185]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06614.187]
+{15:24 90} earned the title "{16:A0 00 08 24 94 CA}".
+
+[06614.188]
+Chef
+
+[06614.189]
+Been making {16:34 A4}?
+
+[06614.190]
+Chef
+
+[06614.191]
+Would you like to know how to make {16:34 A4}?
+
+[06614.193]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06614.194]
+Chef
+
+[06614.195]
+I'll teach you how to make {16:34 A4}.
+
+[06614.196]
+Chef
+
+[06614.197]
+Going to make it yourself? Well, that's fine too.
+
+[06614.198]
+Chef
+
+[06614.199]
+I have the recipe for {16:34 A4}. Will you buy it for {0B:01 00 00 00}{14:34 9C}{0B:00 00 00 00} Gald?
+
+[06614.201]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06614.202]
+Chef
+
+[06614.203]
+You don't have enough money.
+
+[06614.204]
+Chef
+
+[06614.205]
+I'll sell you the recipe for {16:34 A4}.
+
+[06614.206]
+Chef
+
+[06614.207]
+Well, it can't be helped.
+
+[06614.208]
+{16:24 A8}, {16:24 AA}, {16:24 AC}
+
+[06614.209]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.210]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.211]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.212]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.213]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}
+
+[06614.214]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.215]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.216]
+Chef
+
+[06614.217]
+To make {16:34 A4} you need:
+{18:44 A0}
+
+[06614.218]
+Chef
+
+[06614.219]
+Why, you have the ingredients.
+
+[06614.220]
+Chef
+
+[06614.221]
+Let me have them and I'll make {16:34 A4}. How about it?
+
+[06614.223]
+{03:00 00 00 00}　Yes
+　No
+
+[06614.224]
+Chef
+
+[06614.225]
+All right, wait there. I'll make you {16:34 A4} right away.
+
+[06614.226]
+Chef
+
+[06614.227]
+That's a shame. It's really delicious...
+
+[06614.228]
+Chef
+
+[06614.229]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06614.230]
+Chef
+
+[06614.231]
+You are not worthy. Come back another time.
+
+[06614.232]
+Chef
+
+[06614.233]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06614.235]
+Picked up the recipe for {16:34 A4}.
+
+[06614.237]
+Learned how to make {16:34 B8}.
+
+[06614.238]
+Have a safe journey.
+
+[06614.239]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06614.240]
+Will you stay the night?
+
+[06614.242]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06614.243]
+Please rest well.
+
+[06614.244]
+Good morning.
+
+[06614.245]
+You do not have enough money.
+
+[06614.246]
+We look forward to seeing you again.
+
+[06614.251]
+Obtained {16:26 06}.
+
+[06614.253]
+Obtained {08:FF FF FF FF}.
+
+[06614.255]
+Found {16:26 0E}, but you can carry no more.
+
+[06614.257]
+There is nothing here.
+
+[06614.258]
+{08:12 00 00 00} Seller
+
+[06614.259]
+We sell {08:12 00 00 00} here.
+
+[06614.260]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06614.261]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06614.262]
+That will be {0B:01 00 00 00}{14:36 18}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06614.264]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:26 22} at once ({14:36 1C} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06614.266]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06614.267]
+Thank you for your purchase.
+
+[06614.268]
+Thank you for your purchase.
+
+[06614.269]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:36 18}{0B:00 00 00 00} Gald a bottle.
+
+[06614.270]
+Would you like to hear the Refine lessons?
+
+[06614.272]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06614.273]
+What would you like to know about?
+
+[06614.275]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06614.277]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06614.278]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06614.279]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06614.280]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06614.281]
+Lenses can be picked up by fighting monsters.
+
+[06614.282]
+Do take this chance to refine all you like.
+
+[06614.283]
+Changing an item means refining a single item to turn it into a different item.
+
+[06614.284]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06614.285]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06614.286]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06614.287]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06614.288]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06614.289]
+Ah, I should explain Slots first, shouldn't I.
+
+[06614.290]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06614.291]
+I will explain Slots in detail separately.
+
+[06614.292]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06614.293]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06614.294]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06614.295]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06614.296]
+Let me explain Slots in detail.
+
+[06614.297]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06614.298]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06614.299]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06614.300]
+Equipment with Slots is mostly dropped by monsters.
+
+[06614.301]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06614.302]
+Just between us, accessories can be refined too. But not with one another.
+
+[06614.303]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06614.304]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06614.305]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06614.306]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06614.307]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06614.308]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06614.309]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06614.310]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06614.311]
+So I recommend selling off the items you no longer need.
+
+[06614.312]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06614.313]
+...Keeping your items tidy matters too.
+

@@ -1,0 +1,127 @@
+[81.000]
+Watchman
+"I am sorry, but beyond this point is still being surveyed. Please leave at once."
+
+[81.001]
+{ミント}
+"{クレス}, are you unhurt!?"{PAGE}
+{クレス}
+"Yes, I'm all right. Come on, let's go."
+
+[81.002]
+{アーチェ}
+"Honestly, for a moment I didn't know what would happen."
+
+[81.003]
+{チェスター}
+"{クレス}, so you're all right."
+
+[81.004]
+{クラース}
+"{クレス}, it seems that magic circle cannot be passed without a special item."
+
+[81.005]
+"We have heard about you from the survey team. Please go through."
+
+[81.006]
+"This is... a spellbook!"{PAGE}
+
+
+[81.007]
+{COLOR:03}{アーチェ} learned {STR:E507}.{COLOR:02}
+
+[81.008]
+"But it's no use my holding on to it. I'll put it back."
+
+[81.009]
+{COLOR:03}Forced the door open with the sword.{COLOR:02}
+
+[81.010]
+{クレス}
+"No good with bare hands..."
+
+[81.011]
+{COLOR:03}There is a lever. Pull it down?{COLOR:02}
+
+[81.012]
+"It is shut fast."
+
+[81.013]
+{クラース}
+"This is... the crest of the Seal of Five Quarters and Ten Gates. Unlike last time, it needs five of us this time.{PAGE}
+
+
+[81.014]
+Good. Then four of us face north, south, east and west, the last stands in the middle, and each concentrates."
+
+[81.015]
+{クレス}
+"It's open!"
+
+[81.016]
+I have to go and help the others...
+
+[81.017]
+"It is shut fast."
+
+[81.018]
+{COLOR:03}There is a lever. Pull it down?{COLOR:02}
+
+[81.019]
+It reads: "Hidden passage on this floor."
+
+[81.020]
+{クレス}
+"This seems to be the place. But there's no castle anywhere..."{PAGE}
+{クラース}
+"No. But from what Lundgrom said, has he not hidden the castle in a rift in time, so that it cannot be seen from this world? And it shows itself only when the monsters he controls go in and out..."{PAGE}
+{ミント}
+"Then, with the Sword of Time...?"{PAGE}
+{クラース}
+"Yes. It is a sword that commands time, so it can make Dhaos's castle visible."{PAGE}
+{クレス}
+"Right, let's try it!"
+
+[81.021]
+{クレス}
+"Sword of Time! Draw Dhaos's castle out of the rift in time!!"
+
+[81.022]
+{クラース}
+"Good, just as I supposed! I did not think it would go so well."{PAGE}
+{クレス}
+"By the way, how do we get over there?"{PAGE}
+{クラース}
+"Ah."
+
+[81.023]
+{クラース}
+"The wind is too strong for the Rheaird..."{PAGE}
+{クレス}
+"Hm... The Sword of Time is shining white..."
+
+[81.024]
+"Ha ha ha ha! You shall not pass until you defeat us four brothers!!"
+
+[81.025]
+"Heh heh heh heh! Until you defeat us four brothers, you shall not pass!!"
+
+[81.026]
+"Ho ho ho ho! Until you defeat the four of us, you shall go no further, I'm afraid!!"
+
+[81.027]
+"Hee hee hee hee! You ain't getting past till you beat us four brothers!!"
+
+[81.028]
+{クレス}
+"Thank goodness. You're all right."
+
+[81.029]
+"Gyeh heh heh heh heh, fancy you getting this far. But this is where your lives end!!"
+
+[81.030]
+"So you have come, lowly creatures, creatures, creatures."
+
+[81.031]
+"To you, you, you, I shall give the most beautiful sight, sight, sight in this world: a death drenched in blood, blood, blood!"
+

@@ -1,0 +1,18 @@
+[00206.001]
+Hey {NAME:04 00 00 00}, I know I asked you along, but is it really all right, dragging you as far as Heidelberg?
+
+[00206.002]
+Hmph... It cannot be helped now. And it is true you would worry me on your own.
+
+[00206.003]
+But won't your family worry?
+
+[00206.004]
+...Family... is it...... Rest easy. I have nothing of the kind.
+
+[00206.005]
+I see... You wear a weird mask, but you've had it rough too.
+
+[00206.006]
+Leave out "weird"!
+

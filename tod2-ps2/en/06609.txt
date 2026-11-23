@@ -1,0 +1,172 @@
+[06609.001]
+Dycroft
+
+[06609.002]
+Dycroft
+
+[06609.004]
+All of you, throw down your weapons and surrender!
+
+[06609.005]
+Heavenly Soldier
+
+[06609.006]
+The Surface Army! ...So this is the end.
+
+[06609.007]
+Heavenly Commander
+
+[06609.008]
+All right! We surrender!
+
+[06609.010]
+Now, open the control room door for us.
+
+[06609.011]
+Heavenly Soldier
+
+[06609.012]
+We lost... What's going to become of us now?
+
+[06609.014]
+You won't be killed. Only, a hard life of exile is waiting for you, a thousand years or so of it.
+
+[06609.015]
+Heavenly Soldier
+
+[06609.016]
+What will they do with us now... Word is that if the Surface Army catches you, you don't come back alive...
+
+[06609.017]
+Heavenly Soldier
+
+[06609.018]
+What, you! A mere surface dweller, laying hands on me, a Heaven Dweller!
+
+[06609.019]
+Heavenly Soldier
+
+[06609.020]
+Hmph! We'll start a new war in no time and bury you surface dwellers!
+
+[06609.021]
+Heavenly Soldier
+
+[06609.022]
+Defy Miktran and you were killed... We could not refuse orders. We soldiers of the Heavenly Army are victims too.
+
+[06609.023]
+Heavenly Soldier
+
+[06609.024]
+It couldn't be helped, if we were to stay alive. Nobody wants to fight a war.
+
+[06609.025]
+Heavenly Soldier
+
+[06609.026]
+I-I was forced to work for them! It's no lie!
+
+[06609.027]
+Heavenly Soldier
+
+[06609.028]
+Hey, please. Let me go.
+
+[06609.029]
+Heavenly Soldier
+
+[06609.030]
+Lucky for you lot that you ended up on the winning side.
+
+[06609.031]
+Surface Officer
+
+[06609.032]
+Colonel {NAME:06 00 00 00}, well done. Leave it to us to send this lot to the rear.
+
+[06609.034]
+I'm counting on you. ...Hand them over to headquarters properly, mind?
+
+[06609.035]
+Surface Officer
+
+[06609.036]
+Right, you lot, we're moving to headquarters. Chests out and march smartly.
+
+[06609.037]
+Surface Private
+
+[06609.038]
+They say it's still going our army's way. All that's left is Miktran and the monsters on guard.
+
+[06609.039]
+Surface Private
+
+[06609.040]
+It's ending with a bit of a whimper. Well, if it ends the war, anything will do.
+
+[06609.041]
+Surface Private
+
+[06609.042]
+Look at this ring. I took it off one who surrendered just now.
+
+[06609.043]
+Surface Private
+
+[06609.044]
+Taking spoils from the beaten is nothing wrong. Look at the history of war. They do it always and everywhere.
+
+[06609.045]
+Surface Private
+
+[06609.046]
+Why don't you people take something off them too? Let's all do well out of it, brother.
+
+[06609.048]
+Obtained {08:FF FF FF FF}.
+
+[06609.049]
+Heavenly Soldier
+
+[06609.050]
+How cruel...
+
+[06609.051]
+Have a safe journey.
+
+[06609.052]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06609.053]
+Will you stay the night?
+
+[06609.055]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06609.056]
+Please rest well.
+
+[06609.057]
+Good morning.
+
+[06609.058]
+You do not have enough money.
+
+[06609.059]
+We look forward to seeing you again.
+
+[06609.064]
+Obtained {16:25 CA}.
+
+[06609.066]
+Obtained {08:FF FF FF FF}.
+
+[06609.068]
+Found {16:25 D2}, but you can carry no more.
+
+[06609.070]
+There is nothing here.
+

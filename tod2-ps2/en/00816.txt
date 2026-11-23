@@ -1,0 +1,9 @@
+[00816.001]
+Hmm~~? You men are looking mighty pleased. Did something happen?
+
+[00816.002]
+Of course. {NAME:01 00 00 00} got to meet the father he lost as a child, and {NAME:03 00 00 00} got to protect the one he couldn't protect as a child. And {NAME:04 00 00 00} must have been so glad to save the comrades he once betrayed...
+
+[00816.003]
+Yeah... They all look... freed. Good faces.
+

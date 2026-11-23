@@ -1,0 +1,33 @@
+[00932.001]
+I heard "Dad and Mom did nothing but fight". So why did they get married?
+
+[00932.002]
+Haha! Little kid {NAME:01 00 00 00} doesn't get it yet.
+
+[00932.003]
+Hmph. Hey, don't treat me like a kid!
+
+[00932.004]
+They traveled with one shared aim, "to save the world". It must have been one hardship after another. Sharing all that, joys and sorrows, it's no wonder friendship turned to love, is it?
+
+[00932.005]
+Hmm... Is that how it goes...
+
+[00932.006]
+Hm? Hold on...
+
+[00932.007]
+What is it?
+
+[00932.008]
+Well, by that reasoning, love could bud some day between me and {NAME:01 00 00 00} too...
+
+[00932.009]
+D-don't joke like that!
+
+[00932.010]
+It's no joke. See, the way I'm looking at you... aren't my eyes moist, not like usual? Hey, {NAME:01 00 00 00}~...★
+
+[00932.011]
+Y-you're creepy! Keep awa~y!!
+

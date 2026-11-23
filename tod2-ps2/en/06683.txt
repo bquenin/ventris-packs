@@ -1,0 +1,67 @@
+[06683.001]
+Egg of God: Middle Level
+
+[06683.002]
+Egg of God: Middle Level
+
+[06683.003]
+Egg of God: Middle Level
+
+[06683.005]
+"{NAME:06 00 00 00} Berselius. One steeped in heretic knowledge that mocks God. Therefore condemned."
+
+[06683.007]
+"{NAME:05 00 00 00} Fletch. An unbeliever who denies the glory of God. Therefore condemned."
+
+[06683.009]
+"Leon Magnus. A traitor who forgot the favor of God. Therefore condemned."
+
+[06683.011]
+"{NAME:03 00 00 00} Dunamis. A fool who forgot his faith in God. Therefore condemned."
+
+[06683.013]
+"{NAME:01 00 00 00} Dunamis. A dangerous one who sets himself against God. Therefore condemned."
+
+[06683.015]
+Hah! Blather all you like. Soon enough we'll see to it you can't say rubbish like this any more.
+
+[06683.017]
+The treasure chest was a Cheap Trick.
+
+[06683.018]
+Have a safe journey.
+
+[06683.019]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06683.020]
+Will you stay the night?
+
+[06683.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06683.023]
+Please rest well.
+
+[06683.024]
+Good morning.
+
+[06683.025]
+You do not have enough money.
+
+[06683.026]
+We look forward to seeing you again.
+
+[06683.031]
+Obtained {16:25 BA}.
+
+[06683.033]
+Obtained {08:FF FF FF FF}.
+
+[06683.035]
+Found {16:25 C2}, but you can carry no more.
+
+[06683.037]
+There is nothing here.
+

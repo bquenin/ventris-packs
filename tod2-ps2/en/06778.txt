@@ -1,0 +1,55 @@
+[06778.001]
+Aqua Labyrinth
+
+[06778.002]
+Aqua Labyrinth
+
+[06778.004]
+This map goes dark.
+
+[06778.006]
+On this map you take damage.
+
+[06778.008]
+On this map encounters are at the maximum.
+
+[06778.010]
+On this map your view is narrowed.
+
+[06778.011]
+Have a safe journey.
+
+[06778.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06778.013]
+Will you stay the night?
+
+[06778.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06778.016]
+Please rest well.
+
+[06778.017]
+Good morning.
+
+[06778.018]
+You do not have enough money.
+
+[06778.019]
+We look forward to seeing you again.
+
+[06778.024]
+Obtained {16:25 C2}.
+
+[06778.026]
+Obtained {08:FF FF FF FF}.
+
+[06778.028]
+Found {16:25 CA}, but you can carry no more.
+
+[06778.030]
+There is nothing here.
+

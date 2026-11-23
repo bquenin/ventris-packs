@@ -1,0 +1,121 @@
+[06739.001]
+Cresta
+
+[06739.002]
+Cresta
+
+[06739.004]
+Wow... What a fine day, {NAME:03 00 00 00}!
+
+[06739.006]
+Perfect weather for an adventure, as they say. By the way, {NAME:01 00 00 00}, are you all set to leave?
+
+[06739.008]
+Yeah. Anything we're short of, we can just buy at the item shop, right?
+
+[06739.010]
+Not that. ...Here, take a look. You get a good view of the town from here.
+
+[06739.012]
+Burn it we~ll into your eyes. You might never set eyes on it again.
+
+[06739.014]
+Huh!?
+
+[06739.016]
+Adventure goes side by side with danger. If your luck's bad, you can even lose your life.
+
+[06739.018]
+No way...
+
+[06739.020]
+Haha! Scared?
+
+[06739.022]
+But that's how it is. ...Afraid?
+
+[06739.024]
+...{NAME:03 00 00 00}, you know, my heart's really pounding right now.
+
+[06739.026]
+Sure, part of it's being scared. But... this pounding isn't only that.
+
+[06739.028]
+When I saw that girl in the Laguna Ruins, I thought something had begun.
+
+[06739.030]
+A lot's happened since... but I'm finally setting out on the adventure I've longed for all this time.
+
+[06739.032]
+Yes, a journey to become a hero, just like Dad...
+
+[06739.034]
+When I think of that, well, my heart just won't stop pounding!
+
+[06739.036]
+I could shout "Waaah!" right this minute!
+
+[06739.038]
+Hehe... ahaha! Now that's {NAME:01 00 00 00}!
+
+[06739.040]
+Don't worry, I'll protect you. Whatever happens, count on it.
+
+[06739.042]
+{NAME:03 00 00 00}...
+
+[06739.044]
+Well, shall we be off? We're setting out on our adventure!
+
+[06739.046]
+"A journey to become a hero", {NAME:03 00 00 00}!
+
+[06739.048]
+Hahaha! So it was.
+
+[06739.050]
+Then let's go, {NAME:01 00 00 00}. On your journey to become a hero!
+
+[06739.052]
+Yeah!
+
+[06739.054]
+{NAME:01 00 00 00} earned the title "{08:0D 08 00 00}".
+
+[06739.055]
+Have a safe journey.
+
+[06739.056]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06739.057]
+Will you stay the night?
+
+[06739.059]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06739.060]
+Please rest well.
+
+[06739.061]
+Good morning.
+
+[06739.062]
+You do not have enough money.
+
+[06739.063]
+We look forward to seeing you again.
+
+[06739.068]
+Obtained {16:25 C6}.
+
+[06739.070]
+Obtained {08:FF FF FF FF}.
+
+[06739.072]
+Found {16:25 CE}, but you can carry no more.
+
+[06739.074]
+There is nothing here.
+

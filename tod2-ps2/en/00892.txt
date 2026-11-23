@@ -1,0 +1,18 @@
+[00892.001]
+Where on earth did {NAME:01 00 00 00} and {NAME:02 00 00 00} go?
+
+[00892.002]
+Oh... the Laguna Ruins. Their "place of memories", where those two first met.
+
+[00892.003]
+Oh... a "place of memories"...
+
+[00892.004]
+But I bet those two forget the main thing.
+
+[00892.005]
+The main thing?
+
+[00892.006]
+"I was there too"!
+

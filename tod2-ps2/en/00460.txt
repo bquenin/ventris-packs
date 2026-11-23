@@ -1,0 +1,6 @@
+[00460.001]
+We'd better hurry, {NAME:01 00 00 00}. At this speed it'll be there in no time.
+
+[00460.002]
+I know!
+

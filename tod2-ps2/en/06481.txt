@@ -1,0 +1,98 @@
+[06481.001]
+Cherik: Inn
+
+[06481.002]
+Cherik
+
+[06481.004]
+Gowns and robes for overnight guests are inside.
+
+[06481.005]
+Millie
+
+[06481.006]
+I'm Millie of the "Dark Wings". The world reckons us fairly famous Lens hunters.
+
+[06481.008]
+{03:00 00 00 00}　I know　
+　Never heard of you　
+
+[06481.009]
+Millie
+
+[06481.010]
+That's nice to hear. But all you've heard is our bad name, I bet?
+
+[06481.011]
+Millie
+
+[06481.012]
+Haah, if only that Grid would pull himself together a bit more.
+
+[06481.013]
+Millie
+
+[06481.014]
+Give him a job carrying cargo and he drops it in the sea. Give him a delivery and he gets lost. Have him mind a shop and he nods off.
+
+[06481.015]
+Millie
+
+[06481.016]
+Haah~. Why do I keep trailing around after a guy like that?
+
+[06481.017]
+Millie
+
+[06481.018]
+Oh dear... Well, maybe you're lucky not to know.
+
+[06481.019]
+Millie
+
+[06481.020]
+If anything, there's more bad said of us than good...
+
+[06481.021]
+Millie
+
+[06481.022]
+Haah, if only that Grid would pull himself together a bit more.
+
+[06481.023]
+Have a safe journey.
+
+[06481.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06481.025]
+Will you stay the night?
+
+[06481.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06481.028]
+Please rest well.
+
+[06481.029]
+Good morning.
+
+[06481.030]
+You do not have enough money.
+
+[06481.031]
+We look forward to seeing you again.
+
+[06481.036]
+Obtained {16:25 BA}.
+
+[06481.038]
+Obtained {08:FF FF FF FF}.
+
+[06481.040]
+Found {16:25 C2}, but you can carry no more.
+
+[06481.042]
+There is nothing here.
+

@@ -1,0 +1,70 @@
+[06649.001]
+Ruins of the Surface Army Base
+
+[06649.002]
+Ruins of the Surface Army Base
+
+[06649.004]
+Return what belongs to the place where it belongs.
+
+[06649.006]
+The Seal of Wood
+
+[06649.008]
+The Seal of Water
+
+[06649.010]
+The Seal of Fire
+
+[06649.012]
+The Seal of Wings
+
+[06649.014]
+Do so, and power shall be yours.
+
+[06649.016]
+A powerful seal bars the way. You cannot go on.
+
+[06649.018]
+A powerful seal bars the way. You cannot go on.
+
+[06649.020]
+A powerful seal bars the way. You cannot go on.
+
+[06649.021]
+Have a safe journey.
+
+[06649.022]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06649.023]
+Will you stay the night?
+
+[06649.025]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06649.026]
+Please rest well.
+
+[06649.027]
+Good morning.
+
+[06649.028]
+You do not have enough money.
+
+[06649.029]
+We look forward to seeing you again.
+
+[06649.034]
+Obtained {16:27 02}.
+
+[06649.036]
+Obtained {08:FF FF FF FF}.
+
+[06649.038]
+Found {16:27 0A}, but you can carry no more.
+
+[06649.040]
+There is nothing here.
+

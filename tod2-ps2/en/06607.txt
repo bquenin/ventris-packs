@@ -1,0 +1,97 @@
+[06607.001]
+Dycroft
+
+[06607.002]
+Dycroft
+
+[06607.004]
+The elevator has not come back yet.
+
+[06607.005]
+Soldier
+
+[06607.006]
+Damn! Last time some weird kids knocked us flat, and today it's a Surface Army attack!
+
+[06607.007]
+Soldier
+
+[06607.008]
+Aah, following the likes of Miktran was a mistake after all... Hey, let's make a run for it!
+
+[06607.009]
+Soldier
+
+[06607.010]
+There's nowhere to run! And just you get caught by that Surface Army lot. There's no telling what they'd do to us!
+
+[06607.012]
+Out of the way!
+
+[06607.013]
+Soldier
+
+[06607.014]
+Th-the kids from last time!?
+
+[06607.016]
+There's nowhere to run! Give yourselves up quietly!
+
+[06607.017]
+Soldier
+
+[06607.018]
+Wh-what do we do!?
+
+[06607.019]
+Soldier
+
+[06607.020]
+Like we're going down without a fight! Take this!
+
+[06607.022]
+Damn! This elevator won't be back for a while!
+
+[06607.024]
+Nothing for it! Till it comes back, we hold out on guts!
+
+[06607.026]
+Good grief...
+
+[06607.027]
+Have a safe journey.
+
+[06607.028]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06607.029]
+Will you stay the night?
+
+[06607.031]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06607.032]
+Please rest well.
+
+[06607.033]
+Good morning.
+
+[06607.034]
+You do not have enough money.
+
+[06607.035]
+We look forward to seeing you again.
+
+[06607.040]
+Obtained {16:25 EA}.
+
+[06607.042]
+Obtained {08:FF FF FF FF}.
+
+[06607.044]
+Found {16:25 F2}, but you can carry no more.
+
+[06607.046]
+There is nothing here.
+

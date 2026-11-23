@@ -1,0 +1,61 @@
+[06580.001]
+The Radisrol: Chaltier and Igtenos's Room
+
+[06580.002]
+The Radisrol
+
+[06580.003]
+Chaltier and Igtenos's Room
+
+[06580.005]
+Chaltier's diary. "...I'll soon be as able as Lieutenant General Dymlos, and show up the lot who made a fool of me..."
+
+[06580.007]
+...Better not read any further.
+
+[06580.009]
+A machine belonging to Igtenos. A paper on tactics is on its screen.
+
+[06580.011]
+Something of Igtenos's own. A pendant that holds a woman's picture.
+
+[06580.013]
+Chaltier's books are inside. "A Happy Life", "Don't Give In to Pressure", "Telling a Good Boss from a Bad One".
+
+[06580.014]
+Have a safe journey.
+
+[06580.015]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06580.016]
+Will you stay the night?
+
+[06580.018]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06580.019]
+Please rest well.
+
+[06580.020]
+Good morning.
+
+[06580.021]
+You do not have enough money.
+
+[06580.022]
+We look forward to seeing you again.
+
+[06580.027]
+Obtained {16:25 BA}.
+
+[06580.029]
+Obtained {08:FF FF FF FF}.
+
+[06580.031]
+Found {16:25 C2}, but you can carry no more.
+
+[06580.033]
+There is nothing here.
+

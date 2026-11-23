@@ -1,0 +1,12 @@
+[00274.001]
+An empty old mine is creepy. It feels like something might come out...
+
+[00274.002]
+All right, everyone listen we~ll. If you spot a ghost or anything, tell me first.
+
+[00274.003]
+Oh? Will you get rid of it for us, {NAME:03 00 00 00}?
+
+[00274.004]
+No, I run. I want to run first.
+

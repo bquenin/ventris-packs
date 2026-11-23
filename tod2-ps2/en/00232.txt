@@ -1,0 +1,27 @@
+[00232.001]
+Oh. Such pretty flowers are in bloom♪
+
+[00232.002]
+So they are! Shall I pick you one, {NAME:02 00 00 00}? It'd look great in your hair.
+
+[00232.003]
+No. Flowers are alive too. We mustn't pick them just to suit ourselves.
+
+[00232.004]
+Humans are not the only ones living in this world. We have no right to do as we please.
+
+[00232.005]
+Oh. So you can say kind things too. Even though you're {NAME:04 00 00 00}.
+
+[00232.006]
+Hmph. You are a sorry one. It seems you cannot live without picking fights.
+
+[00232.007]
+What was that!?
+
+[00232.008]
+Well?
+
+[00232.009]
+Aah! Stop fighting!
+

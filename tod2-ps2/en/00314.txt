@@ -1,0 +1,6 @@
+[00314.001]
+Hurry, {NAME:01 00 00 00}! At this rate the enemy has reached Woodrow too!
+
+[00314.002]
+Got it!
+

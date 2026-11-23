@@ -1,0 +1,15 @@
+[00198.001]
+We cross to Phandaria by ferry. Are you all prepared?
+
+[00198.002]
+Oh, no! I haven't got mine yet! You'd freeze up there without one!
+
+[00198.003]
+Huh? Got what?
+
+[00198.004]
+Hehe, a furry coat! They're so warm! You can't do without one in snow country!
+
+[00198.005]
+...Look, {NAME:01 00 00 00}. {NAME:04 00 00 00} said "ferry". As in a boat.
+

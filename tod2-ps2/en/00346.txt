@@ -1,0 +1,15 @@
+[00346.001]
+Phew~. "Calvalese" sure is a hot place, though.
+
+[00346.002]
+You think? Today's on the cool side, as it happens.
+
+[00346.003]
+We were in snowy Phandaria until just the other day, so maybe it feels all the hotter.
+
+[00346.004]
+{NAME:03 00 00 00} and {NAME:04 00 00 00} got sent straight from there. They must have had a shock.
+
+[00346.005]
+I was shocked too when I found them. Never saw fools so wrapped up in Calvalese.
+

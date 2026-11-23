@@ -1,0 +1,18 @@
+[00360.001]
+Oh, {NAME:01 00 00 00}! My darling {NAME:01 00 00 00}!!
+
+[00360.002]
+Stop! Don't cling to me! It's creepy.
+
+[00360.003]
+What are you sa~ying. You were dying to see me too~.
+
+[00360.004]
+I was not.
+
+[00360.005]
+Wha~t! How cold... {NAME:04 00 00 00} here cried out your name in his sleep every night.
+
+[00360.006]
+That is a lie!
+

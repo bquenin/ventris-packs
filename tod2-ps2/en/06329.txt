@@ -1,0 +1,126 @@
+[06329.001]
+Laguna Ruins
+
+[06329.002]
+Laguna Ruins
+
+[06329.004]
+Obtained {08:2D 00 00 00}.
+
+[06329.006]
+Ow, ow, ow... Hey, {NAME:01 00 00 00}, you all right?
+
+[06329.008]
+Yeah, more or less...
+
+[06329.010]
+...Whoa! We fell a long way. Aw, just our luck...
+
+[06329.012]
+Where are we, I wonder? There's all sorts of stuff lying around...
+
+[06329.014]
+You're right... There really is all sorts of stuff.
+
+[06329.016]
+With this much, we ought to find something we can use to get back up.
+
+[06329.018]
+If we hook a rope over that branch, we should be able to climb up.
+
+[06329.020]
+Got it, I'll give it a try!
+
+[06329.022]
+With some kind of tool, I could climb up from here!
+
+[06329.024]
+What's this? It looks like it's still running.
+
+[06329.026]
+This is... a machine from the days of the War of Heaven and Earth. I saw one in a book at the temple once.
+
+[06329.028]
+If I remember right, it's a machine that does analysis, or seeing through things, or some such.
+
+[06329.030]
+Analysis? Seeing through? What do you mean?
+
+[06329.032]
+Well, just watch. Say I put this bandana in...
+
+[06329.034]
+Bandana
+Used mainly to decorate the head.
+
+[06329.036]
+Put something in this hole, and it tells you what the thing is.
+
+[06329.038]
+With this, we can easily find something to use for getting back up, see.
+
+[06329.040]
+That's so cool! Hey, {NAME:03 00 00 00}, I want a go too!
+
+[06329.042]
+Then, {NAME:01 00 00 00}, stand in front of something that "looks like it can be moved" and press the {09:25 00 00 00} button.
+
+[06329.044]
+Keep the {09:25 00 00 00} button held down as you move, and you can drag the thing. Put it into this machine.
+
+[06329.046]
+{15:24 A2}  Level : {14:24 A4}
+
+[06329.047]
+　Poison
+
+[06329.048]
+　Weakness
+
+[06329.049]
+　Paralysis
+
+[06329.050]
+　KO
+
+[06329.051]
+{0B:01 00 00 00}{18:44 B4}{18:44 B8}{18:44 BC}{18:44 C0}{18:44 C4}
+HP : {14:24 A8}/{14:24 AA}  TP : {14:24 AC}/{14:24 AE}{0B:00 00 00 00}
+
+[06329.053]
+Have a safe journey.
+
+[06329.054]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06329.055]
+Will you stay the night?
+
+[06329.057]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06329.058]
+Please rest well.
+
+[06329.059]
+Good morning.
+
+[06329.060]
+You do not have enough money.
+
+[06329.061]
+We look forward to seeing you again.
+
+[06329.066]
+Obtained {16:26 12}.
+
+[06329.068]
+Obtained {08:FF FF FF FF}.
+
+[06329.070]
+Found {16:26 1A}, but you can carry no more.
+
+[06329.072]
+There is nothing here.
+

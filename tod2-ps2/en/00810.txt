@@ -1,0 +1,21 @@
+[00810.001]
+Hey, {NAME:01 00 00 00}. If you do meet Stahn or Rutee, wear a proper disguise so they don't find out who you are.
+
+[00810.002]
+Ah! Right! ...Oh, but what do I do? I've got nothing to disguise myself with...
+
+[00810.003]
+...Why not borrow the mask from {NAME:04 00 00 00}?
+
+[00810.004]
+Ooh! Nice idea! So, {NAME:04 00 00 00}, lend me your mask...
+
+[00810.005]
+And have my own identity found out? Before that, who would know a son not yet born? Think a little more.
+
+[00810.006]
+...Pfft! Aahahaha! Heee! My sides hurt!
+
+[00810.007]
+Ah! {NAME:03 00 00 00}, you rat!!
+

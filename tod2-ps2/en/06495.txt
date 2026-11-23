@@ -1,0 +1,97 @@
+[06495.001]
+Heat River
+
+[06495.002]
+Heat River
+
+[06495.004]
+Phew... That should let us through.
+
+[06495.006]
+You all right, {NAME:02 00 00 00}?
+
+[06495.008]
+I-I'm all right... Only a little tired, maybe...
+
+[06495.010]
+Is that so? My kids go back and forth along roads like this every day to fetch water, you know?
+
+[06495.012]
+Your kids... {NAME:05 00 00 00}, you've got children!?
+
+[06495.014]
+Ahahahaha! No, no! I mean the children of the village.
+
+[06495.016]
+Well, I've looked after them since before they were out of diapers, so they're like my own kids.
+
+[06495.018]
+Oh, I see. You know, the truth is I've got lots of little brothers and sisters too...
+
+[06495.020]
+Shh! Quiet! I hear a strange noise!
+
+[06495.022]
+S-something's there!
+
+[06495.024]
+That cry... you two, look out!
+
+[06495.026]
+Good grief... Phew, not a moment to catch our breath.
+
+[06495.028]
+You think? If nothing had turned up, it'd be a letdown.
+
+[06495.030]
+Besides, after moving this much, today's food is going to taste great!
+
+[06495.032]
+Ha, haha...
+
+[06495.034]
+Haah, haah... ...I can't go on...
+
+[06495.036]
+Come on, hang in there! It's only a little farther to the village.
+
+[06495.038]
+When we get there, a deliiicious meal is waiting! Come on, let's go!
+
+[06495.039]
+Have a safe journey.
+
+[06495.040]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06495.041]
+Will you stay the night?
+
+[06495.043]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06495.044]
+Please rest well.
+
+[06495.045]
+Good morning.
+
+[06495.046]
+You do not have enough money.
+
+[06495.047]
+We look forward to seeing you again.
+
+[06495.052]
+Obtained {16:25 D6}.
+
+[06495.054]
+Obtained {08:FF FF FF FF}.
+
+[06495.056]
+Found {16:25 DE}, but you can carry no more.
+
+[06495.058]
+There is nothing here.
+

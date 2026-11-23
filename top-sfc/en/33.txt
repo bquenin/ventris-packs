@@ -1,0 +1,478 @@
+[33.000]
+{クラース}
+"Good. Now the miasma should stop flowing into this world. Come, let us go and meet Sylph."{PAGE}
+{クレス}
+"Bart said it was further in, beyond the rope bridge, didn't he?"{PAGE}
+{クラース}
+"He did."
+
+[33.001]
+{クレス}
+"We can't go any further than this..."
+
+[33.002]
+"Without a rope or something, there's no getting down..."
+
+[33.003]
+"Nobody home... Where can he have gone?"
+
+[33.004]
+"There's no breaking this wall down with bare hands..."
+
+[33.005]
+"Packed with books on fortune-telling... There are books on spirits too."
+
+[33.006]
+"I-it hurts..."
+
+[33.007]
+Sylph
+"One after another, my companions have touched the air of the demon world and lost their{SPEED:10}...{SPEED:FF}"
+
+[33.008]
+{ミント}
+"The air of the demon world?"{PAGE}
+{クラース}
+"I see, they have been tainted by miasma!"{PAGE}
+{クレス}
+"Miasma? And that is why the sylphs have lost their senses?"
+
+[33.009]
+{ミント}
+"What is miasma?"{PAGE}
+{クラース}
+"The air of the demon world. A rift has probably opened between this world and that one, and it is leaking through. A human can breathe a little of it and come to no harm, but a spirit cannot."{PAGE}
+{ミント}
+"They end up like the spirit we just saw."
+
+[33.010]
+{クレス}
+"Then all we have to do is stop up that rift, or hole, or whatever it is?
+
+[33.011]
+Let's start looking for it right away."{PAGE}
+{クラース}
+"Yes, let's."
+
+[33.012]
+"I-it hurts...
+Help me..."
+
+[33.013]
+{クラース}
+"This is just like the demon world I have heard tell of! It is thick with miasma, and demons from that world have come through! If we meet one, we run! We could never win!!"
+
+[33.014]
+{ミント}
+"Wh-what do we do!?"{PAGE}
+{クラース}
+"The miasma is the cause of it all. Where there is no miasma, they cannot live!"
+
+[33.015]
+{クラース}
+"That is a cutting wind. A wind spirit gone mad must have made it."
+
+[33.016]
+Sylph
+"So it was you... who cleared away the miasma..."{PAGE}
+{クラース}
+"By the command of the ancient ring, I wish to make a pact with you, who govern the wind."{PAGE}
+Sylph
+"...I will lend you my strength. But first, I have one request."{PAGE}
+{クラース}
+"Now that is rare. A spirit asking something of a human?"{PAGE}
+Sylph
+"Yes. The truth is that as things stand, a pact with us would soon come to nothing at all."{PAGE}
+{クラース}
+"I don't follow. What do you mean?"{PAGE}
+Sylph
+"The magic that is the source of our power is about to be lost from the world. And with it the spirits and magic itself will vanish from the world."{PAGE}
+{クラース}
+"What!? Why!"{PAGE}
+Sylph
+"Please go once to the great tree Yggdrasil, which grows in the Forest of Spirits. Take this with you and you will be able to meet the spirit that dwells in the tree. If you hear what she has to say, it may yet be prevented."{PAGE}
+{クラース}
+"...Very well, we will go. But first there is one thing I want to ask.{PAGE}
+Did a girl wander into this valley alone? Tell me."{PAGE}
+Sylph
+"In these last months, you are the only ones to have come to the valley. I have seen no one else{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"I see{SPEED:10}...{SPEED:FF}"{PAGE}
+Sylph
+"Then let us make the pact. The Opal ring, please."
+
+[33.017]
+{クラース}
+"I now beseech the spirit of the wind. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[33.018]
+{COLOR:03}{クラース} can now summon Sylph.
+Received {STR:4D0D}.{COLOR:02}
+
+[33.019]
+"Sylph isn't here{SPEED:10}...{SPEED:FF} Is it the miasma after all...?"
+
+[33.020]
+Bart
+"You did it!? The wind is quite back to what it was!"{PAGE}
+{クラース}
+"Yes."{PAGE}
+Bart
+"And?"{PAGE}
+{クラース}
+"There was no sign that your daughter went into the valley. I asked the spirit too, once she had come to her senses, but..."{PAGE}
+Bart
+"I see{SPEED:10}...{SPEED:FF} Where on earth can she have gone{SPEED:10}...{SPEED:FF} {アーチェ}{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Please don't lose heart. We will ask after your daughter in the towns we go to from here{SPEED:10}...{SPEED:FF}"{PAGE}
+Bart
+"...Thank you."
+
+[33.021]
+{クラース}
+"Right, then shall we go to this Forest of Spirits that Sylph spoke of?"{PAGE}
+{ミント}
+"It was south of Belladam village, wasn't it?"{PAGE}
+{クラース}
+"It was."
+
+[33.022]
+{クレス}
+"Ah, that rock looks as if it could be moved. If we stop the hole with it..."
+
+[33.023]
+{COLOR:03}Rest?{COLOR:02}
+
+[33.024]
+Bart
+"Yggdrasil is restored?"{PAGE}
+{アーチェ}
+"The sacred tree in the Forest of Spirits, Dad."{PAGE}
+Bart
+"You brought the sacred tree back to life!? My, that is something. So is your journey over now?"{PAGE}
+{アーチェ}
+"Not yet. There's still something we have to do. Don't worry. I'll come back, I promise."
+
+[33.025]
+Bart
+"I know there is a story in the lore of Midgards of a spirit that governs the energy of life, the source of human life... It may have something to do with {ミント}'s healing arts. They have the power to save a person's life, do they not? It is said to have the form of a horse."
+
+[33.026]
+Bart
+"Look after {アーチェ} for me.{PAGE}
+But when did she grow up so much? It seems only the other day that she was a child..."
+
+[33.027]
+Bart
+"Look after {アーチェ} for me."
+
+[33.028]
+Bart
+"Oh, and you had better take a pickaxe and a rope. There are many dangerous places in the valley.{PAGE}
+Where do they sell them? In Hamel, I believe."
+
+[33.029]
+Bart
+"Who are you?{PAGE}
+This is no place for the likes of you. Go home, quickly."
+
+[33.030]
+"What's this, who are you? Don't walk into people's houses as you please
+
+[33.031]
+."
+
+[33.032]
+."{PAGE}
+"Hm? You're an elf."{PAGE}
+{アーチェ}
+"Oh, no, I'm a half-elf."{PAGE}
+"It's all the same to me. I have spell books. Will you buy one of them?
+　1. {STR:D307}
+　2. {STR:D607}
+
+[33.033]
+That's 250 Gald. All right?
+
+[33.034]
+{COLOR:03}{アーチェ} learned {STR:D307}.{COLOR:02}{PAGE}
+
+
+[33.035]
+That's 800 Gald. All right?
+
+[33.036]
+{COLOR:03}{アーチェ} learned {STR:D607}.{COLOR:02}{PAGE}
+
+
+[33.037]
+If you've no business here, be off with you.
+
+[33.038]
+If your business is done, be off with you.
+
+[33.039]
+You haven't enough money.
+
+[33.040]
+You know this spell already.
+
+[33.041]
+.
+
+[33.042]
+{クラース}
+"Unable to let go of her hatred for those who wronged her, she lends her own body to the grieving, wandering soul of her friend{SPEED:10},{SPEED:FF} is that it?"{PAGE}
+{ミント}
+"I wonder if Rhea was able to go to heaven...?"{PAGE}
+{クレス}
+"It would be wrong if she couldn't..."{PAGE}
+{クラース}
+"It could only be done because this girl {アーチェ} is a skilled magic user, but I am astonished all the same."
+
+[33.043]
+{ミント}
+"Rhea!
+Oh{SPEED:10}...{SPEED:FF} I'm sorry..."{PAGE}
+
+
+[33.044]
+{アーチェ}
+"It's all right, don't worry about it.{PAGE}
+{ミント}, was it? It's my own fault for never putting my hair up in a ponytail."
+
+[33.045]
+{アーチェ}
+"How's this?"{PAGE}
+{ミント}
+"Oh{SPEED:10}...{SPEED:FF}
+Yes, it suits you."{PAGE}
+
+
+[33.046]
+{アーチェ}
+"Thank you for helping Rhea♥ Now it's my turn to help all of you."
+
+[33.047]
+{アーチェ}
+"This is from my dad. He says it's to thank you."{PAGE}
+
+
+[33.048]
+{COLOR:03}Received the pact rings {STR:BA0B} and {STR:BE0B}.{COLOR:02}{PAGE}
+{アーチェ}
+"Come on, let's go!"{PAGE}
+{クレス}
+"Right! We're off to Alvanista!!"
+
+[33.049]
+{クレス}
+"Where is this?"{PAGE}
+{クラース}
+"The valley where the spirits of the wind live. Lone Valley."{PAGE}
+{ミント}
+"Spirits of the wind?"{PAGE}
+{クラース}
+"The art of summoning is, more or less, a way of making a pact with a spirit and using a power like magic. To make a pact takes a very costly and precious ring, and it brings great danger."{PAGE}
+{クレス}
+"A ring?"{PAGE}
+{クラース}
+"Well, in any case, we are going into that house. There is a man I want to see."
+
+[33.050]
+Bart
+"{アーチェ}!"{PAGE}
+{アーチェ}
+"I'm sorry{SPEED:10}...{SPEED:FF} the thing is{SPEED:10}...{SPEED:FF}"{PAGE}
+Bart
+"It's all right. As long as you've come home{SPEED:10}...{SPEED:FF}"{PAGE}
+{アーチェ}
+"I'm sorry, Dad{SPEED:10}...{SPEED:FF}"
+
+[33.051]
+{クラース}
+"Excuse me, are you Bart?"{PAGE}
+
+
+[33.052]
+Bart
+"Oh?
+You are the ones from the other day{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[33.053]
+{クラース}
+"You know Bart?"{PAGE}
+{クレス}
+"No, it's not that..."{PAGE}
+
+
+[33.054]
+Bart
+"And you are?"{PAGE}
+{クラース}
+"I am {クラース}. I want to try for a pact with the spirit of the wind."{PAGE}
+Bart
+"...You had better wait a while.{PAGE}
+There was an earthquake a while ago, remember? Ever since, the spirits have been strangely violent. One man alone cannot get near them, and the cause is still unknown."{PAGE}
+{クラース}
+"But I am in a hurry. And I want you to let me have a pact ring. Not for nothing."{PAGE}
+Bart
+"{SPEED:10}...{SPEED:FF}If you are set on going, you may have the ring for nothing."{PAGE}
+{クラース}
+"What do you mean?"{PAGE}
+Bart
+"The truth is, my daughter has been missing for some days. She may have gone to see how the spirits were, out of worry."{PAGE}
+{クラース}
+"A girl, alone? That is far too dangerous!"{PAGE}
+Bart
+"I beg you."{PAGE}
+{クラース}
+"The ring for nothing, then. Very well."{PAGE}
+Bart
+"My daughter's name is {アーチェ}, and you will know her by her ponytail. A tomboy, though who she takes after I cannot say. She stands out, at any rate."{PAGE}
+{クラース}
+"Understood. I will look for her."{PAGE}
+Bart
+"Oh, and I always meet the spirits at the very back of the valley, beyond the rope bridge."{PAGE}
+
+
+[33.055]
+{COLOR:03}Received the pact ring {STR:C10B}.{COLOR:02}
+
+[33.056]
+{クレス}
+"Phew. We've reached {アーチェ}'s house at last."{PAGE}
+"{アーチェ}?"
+
+[33.057]
+{アーチェ}
+"Dad, you liar!!
+Mum isn't dead at all!!"{PAGE}
+Bart
+"Wh-wh-wh{SPEED:10}...{SPEED:FF}"
+
+[33.058]
+Bart
+"Y-you met her?"
+
+[33.059]
+Bart
+"{SPEED:10}...{SPEED:FF}I see."{PAGE}
+{アーチェ}
+"Why did Mum leave home?"
+
+[33.060]
+{アーチェ}
+"Did you cheat on her?"{PAGE}
+
+
+[33.061]
+Bart
+"Wh- what a thing to say! How do you get to that!?"{PAGE}
+{クラース}
+"The elves chose to stand together as a race... Was that not it?"{PAGE}
+
+
+[33.062]
+Bart
+"...Yes. Until only some ten years ago, elves and humans lived side by side. But one day, all of a sudden, they turned against humans, refused to let elven blood mix with human, and moved away to what is now Ymir Forest."
+
+[33.063]
+Bart
+"Of course, not every elf thought that way. There were many who were torn from a human by force. Luti and I are only one case among them."
+
+[33.064]
+Bart
+"Luti!!"
+
+[33.065]
+Bart
+"Must you{SPEED:0F},{SPEED:FF} go?"{PAGE}
+Luti
+"Yes{SPEED:10}...{SPEED:FF}"{PAGE}
+Bart
+"Why? ...Why can we no longer live together?"
+
+[33.066]
+Bart
+"Luti! Think again!"{PAGE}
+Luti
+"{SPEED:10}...{SPEED:FF}Bart{SPEED:10}...{SPEED:FF}"{PAGE}
+Bart
+"Together... once more..."{PAGE}
+Luti
+"{SPEED:10}...{SPEED:FF}"
+
+[33.067]
+Bart
+"Luti, why!!"
+
+[33.068]
+Elf
+"The gulf between our races was wider than anyone thought.{PAGE}
+You humans should think again, and think well, on the folly of what you have done and of what you mean to do."{PAGE}
+Bart
+"What? What on earth do you..."{PAGE}
+Elf
+"Otherwise, we shall never show ourselves before humans again."
+
+[33.069]
+Bart
+"What did he mean...?{PAGE}
+Luti{SPEED:10}...{SPEED:FF}"
+
+[33.070]
+{クレス}
+"The folly of what humans mean to do?"
+
+[33.071]
+Bart
+"I do not understand it at all. In any case, it was Luti's own earnest wish that I should say she was dead."{PAGE}
+{アーチェ}
+"Mum, you know{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[33.072]
+Bart
+"What?"{PAGE}
+{アーチェ}
+"She said sorry. She said she was sorry. You don't hold it against her any more either, do you, Dad?"{PAGE}
+Bart
+"I have never once held anything against your mother."
+
+[33.073]
+{アーチェ}
+"Then,"{PAGE}
+
+
+[33.074]
+"things can go back to how they were, can't they? So that's the end of this talk!"{PAGE}
+Bart
+"You are right. I am sorry."
+
+[33.075]
+{クラース}
+"And one more thing{SPEED:0F}...{SPEED:FF}"{PAGE}
+{アーチェ}
+"It's about Rhea's parents. Were they doing something bad?"{PAGE}
+Bart
+"What?"{PAGE}
+
+
+[33.076]
+{クラース}
+"I want to know whether there was any tie between the Scarlets and Midgards."{PAGE}
+Bart
+"...Only that they moved here from Midgards some years ago... They were said to be studying an unknown power at the castle. Has something happened to them?"{PAGE}
+{クラース}
+"An unknown power? Could that be magitech...?"{PAGE}
+{アーチェ}
+"Is there some tie between magitech and Dhaos, I wonder?"{PAGE}
+{クレス}
+"Who knows..."{PAGE}
+{ミント}
+"We ought to be getting back to Midgards..."{PAGE}
+{クラース}
+"...Yes, we should."
+

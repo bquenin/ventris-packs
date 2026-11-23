@@ -1,0 +1,6 @@
+[00442.001]
+If you want to catch up with {NAME:02 00 00 00}, hurry to the Ruins of the Surface Army Base. Southwest of Heidelberg, by the crater.
+
+[00442.002]
+Got it! ...Wait, {NAME:02 00 00 00}! I'm coming!!
+

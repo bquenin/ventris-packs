@@ -1,0 +1,9 @@
+[00242.001]
+{NAME:01 00 00 00}. Do you seriously mean to take the job? We have no time to spare for such......
+
+[00242.002]
+Why not? You don't get a chance like this every day...... It's a treasure hunt, a treasure hunt!
+
+[00242.003]
+Ah, no use trying to stop him, {NAME:04 00 00 00}. Once he's set on it, nobody can. He's {NAME:01 00 00 00}.
+

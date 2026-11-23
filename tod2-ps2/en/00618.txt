@@ -1,0 +1,15 @@
+[00618.001]
+The painful past of {NAME:05 00 00 00}... it must be the little brother who died...
+
+[00618.002]
+Heh! Knowing her, it's "some man ran out on her" or the like. Can't blame him. With a temper like that, any man would run.
+
+[00618.003]
+Hmm. You say that, {NAME:03 00 00 00}, but you're the one most worried about {NAME:05 00 00 00}.
+
+[00618.004]
+Wha, idiot! As if! Come on, let's go and look.
+
+[00618.005]
+Hehe. He's all worked up♪
+

@@ -1,0 +1,12 @@
+[00352.001]
+What's the place you live in like, {NAME:05 00 00 00}? Like "Aigrette"?
+
+[00352.002]
+Hardly! There they've got water and food in plenty and can live wanting for nothing, right? "Hope Town" is... well, just the opposite.
+
+[00352.003]
+The opposite? So there's no food... Hey, that's awful! Why don't you live in Aigrette?
+
+[00352.004]
+Hmm... I don't know what to say to that. I've never thought about it...... Well, if I had to say, "because it suits me". Life's hard, sure, and rough with the monsters, but living on every bit of your own strength is how you feel you're alive... And praying to a god for my living isn't my style.
+

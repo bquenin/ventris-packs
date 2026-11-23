@@ -1,0 +1,343 @@
+[27.000]
+Tristan
+"Great talents ripen late."
+
+[27.001]
+"This... I can feel some strange power in it... I'll keep it safe."{PAGE}
+
+
+[27.002]
+{COLOR:03}Received the Wraith Ruby.{COLOR:02}
+
+[27.003]
+{クレス}
+"This statue looks as if it could be moved..."{PAGE}
+"Huh? I thought it moved just now..."
+
+[27.004]
+{COLOR:03}Got {STR:4A0D} back.{COLOR:02}
+
+[27.005]
+{COLOR:03}There is a lever. Pull it?{COLOR:02}
+
+[27.006]
+{COLOR:03}Move the lid of the coffin?{COLOR:02}
+
+[27.007]
+{COLOR:03}Received {STR:CE0C}.{COLOR:02}
+
+[27.008]
+{COLOR:03}Received {STR:A10C}.{COLOR:02}
+
+[27.009]
+{COLOR:03}Received {STR:A20C}.{COLOR:02}
+
+[27.010]
+{COLOR:03}Received {STR:6B0C}.{COLOR:02}
+
+[27.011]
+{COLOR:03}Received {STR:A60C}.{COLOR:02}
+
+[27.012]
+"It is shut fast. It seems to be sealed by some strange power."
+
+[27.013]
+"What is this place...?"
+
+[27.014]
+It reads: "Let no one enter."
+
+[27.015]
+"This door... has no handle and no keyhole. Does it open in some special way?"
+
+[27.016]
+{クレス}
+"What{SPEED:10}...{SPEED:FF} is this?"{PAGE}
+
+
+[27.017]
+{クレス}
+"Wh-what's this?
+It's floating..."{PAGE}
+"That's so cool."{PAGE}
+{チェスター}
+"{SPEED:10}...{SPEED:FF}"
+
+[27.018]
+{クレス}
+"Ah!"
+
+[27.019]
+{クレス}
+"I've dropped the {STR:4A0D}..."
+
+[27.020]
+Tristan
+"So you've come. Morrison went into the catacombs beyond here."{PAGE}
+{クレス}
+"What is this place...?"{PAGE}
+Tristan
+"I hardly know myself.
+But do not let your guard down."{PAGE}
+{クレス}
+"Yes, Master!"{PAGE}
+Tristan
+"Good. Then as a parting gift, let me teach you what a secret skill is."{PAGE}
+{クレス}
+"A secret skill?"{PAGE}
+Tristan
+"Just so. Have you finished the third course of training?"{PAGE}
+{クレス}
+"I finished the fourth the other day."{PAGE}
+Tristan
+"Oh? Then you will soon have the knack of it. Listen well.{PAGE}
+A secret skill is built upon two special skills joined together. With a focused mind, a trained body, and the two skills honed to their very limit, you become able to unleash it."{PAGE}
+{クレス}
+"{SPEED:10}...{SPEED:FF}I follow the theory, but{SPEED:10}...{SPEED:FF}"{PAGE}
+Tristan
+"Just remember it for now. The secret skill built from Majinken and Hienrenkyaku is Majinhienkyaku!"{PAGE}
+{クレス}
+"Could I really use a skill like that...?"{PAGE}
+Tristan
+"Why, Miguel had already mastered it by the time he was fourteen.{PAGE}
+Trust your blood. And as they say, great talents ripen late."{PAGE}
+{クレス}
+"...I understand."{PAGE}
+Tristan
+"Go and do your best."{PAGE}
+
+
+[27.021]
+{COLOR:03}{クレス} learned Majinhienkyaku.{COLOR:02}
+
+[27.022]
+{クレス}
+"Ah!"{PAGE}
+"Oh no, it's fallen to the floor below..."
+
+[27.023]
+"Y-you! Why are you here...!!"
+
+[27.024]
+Stoooooop!!!
+
+[27.025]
+"So this is the end of the mission handed down in my family for generations{SPEED:10}...{SPEED:FF}"
+
+[27.026]
+And so more than ten years went by...
+
+[27.027]
+Morrison
+"Your scheming ends here, Mars Uldole!"{PAGE}
+Mars
+"Hmph. Did you come all this way to watch? Look, it seems your friends have come too."
+
+[27.028]
+Morrison
+"You!
+I told you not to come{SPEED:10}...{SPEED:FF}!"
+
+[27.029]
+Morrison
+"Damn!"{PAGE}
+Mars
+"Ha ha ha, you fool!"
+
+[27.030]
+{チェスター}
+"Wh-what is it?"{PAGE}
+Mars
+"Now, the ancient king returns."{PAGE}
+{クレス}
+"What did you say!?"{PAGE}
+Mars
+"Very well, let me tell you, as something to take to your graves..."{PAGE}
+
+
+[27.031]
+"The Valhalla War...
+A war fought about a hundred years ago. You will know of it.{PAGE}
+There was the king of one country who showed overwhelming strength against an alliance of the two greatest nations of the day.{PAGE}
+That king's name was Dhaos. Yet even he was to be defeated by one small party{SPEED:10}...{SPEED:FF}"{PAGE}
+Morrison
+"Yes. And one of that party was my ancestor."{PAGE}
+{クレス}
+"Mr. Morrison?"{PAGE}
+Morrison
+"His name is Mars Uldole.
+He is the head of a band that plotted to bring Dhaos back.
+And I, and you, {クレス}, and the young lady there, are descended from those who fought Dhaos long ago."
+
+[27.032]
+{クレス}
+"I am?"{PAGE}
+{ミント}
+"I am!?"{PAGE}
+Morrison
+"Yes. And there are those here who have lost no few of their kin at his hands.
+That is the tie between you and me, and him{SPEED:10}...{SPEED:FF}Mars Uldole."{PAGE}
+Mars
+"Hmph. And what of such a tie?"{PAGE}
+{クレス}
+"{SPEED:10}...{SPEED:FF}Forgive me, Mr. Morrison{SPEED:10},{SPEED:FF} but more than that{SPEED:10},{SPEED:FF} to me and to {チェスター}{SPEED:10},{SPEED:FF}
+and to {ミント}{SPEED:10}...{SPEED:FF}"
+
+[27.033]
+{チェスター}
+"You are{SPEED:10}...{SPEED:FF} the one who killed my sister and everyone else!"
+
+[27.034]
+Mars
+"Ohh{SPEED:10}...{SPEED:FF}
+so this is the ancient king, Dhaos..."{PAGE}
+"Dhaos. Ancient king. Hear what I command.
+My name is Mars{SPEED:10}...{SPEED:FF}
+Mars Uldole..."{PAGE}
+Dhaos
+"Heh. Fool, who never saw that you danced on the strings of fate."
+
+[27.035]
+Mars
+"What are you saying? I broke the seal, and I am your master!"{PAGE}
+Dhaos
+"The one who had those who sealed me killed, and the keys to the seal taken, was none other than myself.
+Shall I remind you? Of what happened when you came here three months ago."
+
+[27.036]
+Mars
+"S-silence!"
+
+[27.037]
+Morrison
+"Look out! Get clear!!"
+
+[27.038]
+Mars
+"What!?"{PAGE}
+
+
+[27.039]
+Dhaos
+"I have no more use for you."{PAGE}
+
+
+[27.040]
+Mars
+"Wa{SPEED:10},{SPEED:FF} waaagh!!!!"
+
+[27.041]
+Dhaos
+"Humans, who know nothing of the grave fate I bear and do as they please...
+and the last of those who sealed me..."{PAGE}
+
+
+[27.042]
+You there!!
+
+[27.043]
+Dhaos
+"This is not a thing I can forgive{SPEED:10}...{SPEED:FF}"
+
+[27.044]
+Morrison
+"He cannot be beaten with a sword. With my arts I will send you to a certain place. There you must learn the way to defeat him.
+There is no other way now."
+
+[27.045]
+{クレス}
+"What do you mean!?"{PAGE}
+Morrison
+"And take this book!
+Carry on what your parents left undone!!"
+
+[27.046]
+Dhaos
+"Heh heh heh{SPEED:10},{SPEED:FF} die."
+
+[27.047]
+{チェスター}
+"Damn! I won't make it!!"
+
+[27.048]
+{クレス}
+"{チェスター}...!!"
+{ミント}
+"{チェスター}!!"
+
+[27.049]
+Morrison
+"{チェスター}, hold on!"
+
+[27.050]
+Dhaos
+"Answer me. Where did you send them?"{PAGE}
+Morrison
+"Ugh{SPEED:10},{SPEED:FF}
+do you think I would tell you!?"{PAGE}
+Dhaos
+"Heh, I know. That glow was the light of travel through time. I do not know what age you sent them to, but you cannot send yourself, so you are a novice still."{PAGE}
+Morrison
+"{SPEED:10}...{SPEED:FF}Damn!!"{PAGE}
+Dhaos
+"Heh heh heh heh."{PAGE}
+"Rot away in this place!!"
+
+[27.051]
+Dhaos
+"Y-you are...!"{PAGE}
+Morrison
+"Ohh..."
+{チェスター}
+"{クレス}..."{PAGE}
+{クレス}
+"You will not have your way with my friends, or with the world!"{PAGE}
+Dhaos
+"So be it. I have a mission I must fulfil! I cannot fall in a place like this!!"
+
+[27.052]
+{クレス}
+"We did it...!"
+
+[27.053]
+Morrison
+"Look out, run!"
+
+[27.054]
+{クレス}
+"What on earth is happening!?"{PAGE}
+Morrison
+"A vast amount of energy was set free when Dhaos returned!{PAGE}
+It would be no wonder if the earth's crust gave way!!"{PAGE}
+
+
+[27.055]
+{クレス}
+"Hurry! The catacombs are coming down!!"
+
+[27.056]
+Tristan
+"Oh, {クレス}, Morrison! What is going on!?"{PAGE}
+{クレス}
+"Master Tristan! Get away, quickly!!"
+
+[27.057]
+　His strength spent, Dhaos
+　was swallowed by the lava
+　and vanished as the
+　catacombs fell
+
+[27.058]
+　　　And a few days went by
+
+[27.059]
+　　　　{クラース} the summoner
+
+[27.060]
+　　　　{アーチェ} the sorceress
+
+[27.061]
+　The time came to part from
+　two companions who had long
+　shared every joy and hardship
+

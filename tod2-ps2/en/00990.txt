@@ -1,0 +1,54 @@
+[00990.001]
+I see... It's an odd feeling, though, this future Aigrette.
+
+[00990.002]
+It sounds like an efficient and safe society. But there is certainly something off about it.
+
+[00990.003]
+Something off about people who've given up living for themselves...
+
+[00990.004]
+The god and the Fortuna lot do everything for them, so they end up like that.
+
+[00990.005]
+Hmm... That's what I don't get.
+
+[00990.006]
+Don't get... what?
+
+[00990.007]
+Well, a god has amazing power and sees everything, right? Then why do things like that? Newborn babies can't live with their fathers and mothers, and people get called by numbers, not names.
+
+[00990.008]
+Perhaps they do it because everyone will be happier that way...
+
+[00990.009]
+Maybe they are happy, but... I'd hate it. If that's what a god does, I don't need one.
+
+[00990.010]
+Don't need... a god!?
+
+[00990.011]
+Yeah! I'd much sooner live in Hope Town, like {NAME:05 00 00 00}.
+
+[00990.012]
+Same here, {NAME:01 00 00 00}. That's why I brought Lou here.
+
+[00990.013]
+........
+
+[00990.014]
+{NAME:02 00 00 00}? What's wrong?
+
+[00990.015]
+Eh? Oh, I-I'm sorry. It's nothing...
+
+[00990.016]
+Really? That's all right, then...
+
+[00990.017]
+...Oh, it's about time. Hey, {NAME:05 00 00 00}, let's eat, let's eat.
+
+[00990.018]
+True, good timing. Then let's go to my place.
+

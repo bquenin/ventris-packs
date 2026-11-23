@@ -1,0 +1,224 @@
+[06560.001]
+Dycroft
+
+[06560.002]
+Dycroft
+
+[06560.003]
+Dycroft
+
+[06560.005]
+Elraine!
+
+[06560.006]
+Elraine
+
+[06560.007]
+So you have come...
+
+[06560.009]
+The world changing like this... It's your doing, isn't it!?
+
+[06560.010]
+Elraine
+
+[06560.011]
+It is true that I remade the world. But... those who wished for it were none other than you humans.
+
+[06560.012]
+Elraine
+
+[06560.013]
+A world without worry or pain. A world with nothing but happiness...
+
+[06560.015]
+A world where nobody can live without a Lens, and you call that happiness!? What nonsense!
+
+[06560.016]
+Elraine
+
+[06560.017]
+This is still no more than a time of passage. When God has descended in a more perfect form, a perfect world and a perfect happiness will appear.
+
+[06560.019]
+A perfect form...?
+
+[06560.020]
+Elraine
+
+[06560.021]
+By rights, the perfect descent should have come about far sooner.
+
+[06560.022]
+Elraine
+
+[06560.023]
+I, the messenger of God, show miracles and gather the faith of the people.
+
+[06560.024]
+Elraine
+
+[06560.025]
+The faith so gathered was to give God still more power, and so the perfect form.
+
+[06560.026]
+Elraine
+
+[06560.027]
+But as time went by there were still those who refused God, and the God who descended could not gain power enough...
+
+[06560.029]
+Sounds like she means us, the people of Hope Town.
+
+[06560.030]
+Elraine
+
+[06560.031]
+At that rate there could be neither a perfect God nor a perfect world.
+
+[06560.032]
+Elraine
+
+[06560.033]
+So thinking, I hit upon gathering Lenses to raise the power of God.
+
+[06560.034]
+Elraine
+
+[06560.035]
+But that plan too was thwarted by you...
+
+[06560.036]
+Elraine
+
+[06560.037]
+The road left to me was to go back further still into the past, and change the world into one where all people worship God.
+
+[06560.038]
+Elraine
+
+[06560.039]
+The outcome is as you see. Lenses that hold faith in God, too, I have been able to gather in such numbers.
+
+[06560.041]
+So that is why you made use of the War of Heaven and Earth.
+
+[06560.043]
+Send in Barbatos, reverse the outcome of the War of Heaven and Earth, and lay the earth waste.
+
+[06560.045]
+Then a savior appears, and holds out a helping hand.
+
+[06560.047]
+The savior calls it the grace of God and draws all the people's faith to herself... A cheap farce indeed.
+
+[06560.048]
+Elraine
+
+[06560.049]
+I put you on the stage, and you would not act by the script. From such a player I wish to hear nothing.
+
+[06560.051]
+........
+................
+
+[06560.053]
+This way is wrong! People don't want happiness if it means twisting history and changing the past!
+
+[06560.054]
+Elraine
+
+[06560.055]
+...{NAME:02 00 00 00}. Do you still not understand?
+
+[06560.056]
+Elraine
+
+[06560.057]
+Whatever fine words they speak, everyone has a past so painful they would wish it gone.
+
+[06560.058]
+Elraine
+
+[06560.059]
+For instance, yes, like {NAME:04 00 00 00} there... No, like Leon Magnus.
+
+[06560.061]
+Leon Magnus!?
+
+[06560.063]
+The one who betrayed Stahn and the Four Heroes in the uprising over the Eye of God!?
+
+[06560.064]
+Elraine
+
+[06560.065]
+Yes. He died with regrets, and I gave him a chance.
+
+[06560.067]
+Don't talk rubbish!
+
+[06560.068]
+Elraine
+
+[06560.069]
+Whether it is rubbish, you need only ask the man himself...
+
+[06560.071]
+Why are you keeping quiet!? Tell her you're not Leon or anybody, {NAME:04 00 00 00}!
+
+[06560.073]
+It is so. I am Leon... Leon Magnus.
+
+[06560.075]
+N-no, why...!
+
+[06560.077]
+Oh no!!
+
+[06560.078]
+Elraine
+
+[06560.079]
+O God! Your great spirit, here...!
+
+[06560.081]
+{NAME:04 00 00 00} earned the title "{08:30 08 00 00}".
+
+[06560.082]
+Have a safe journey.
+
+[06560.083]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06560.084]
+Will you stay the night?
+
+[06560.086]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06560.087]
+Please rest well.
+
+[06560.088]
+Good morning.
+
+[06560.089]
+You do not have enough money.
+
+[06560.090]
+We look forward to seeing you again.
+
+[06560.095]
+Obtained {16:25 C6}.
+
+[06560.097]
+Obtained {08:FF FF FF FF}.
+
+[06560.099]
+Found {16:25 CE}, but you can carry no more.
+
+[06560.101]
+There is nothing here.
+

@@ -1,0 +1,148 @@
+[06546.001]
+Speranza, the Crimson City
+
+[06546.002]
+Speranza, the Crimson City
+
+[06546.003]
+Townsperson
+
+[06546.004]
+Surely Lady Elraine is as beautiful as you. No, even more so.
+
+[06546.005]
+Townsperson
+
+[06546.006]
+...Amazing! I've never seen any before!
+
+[06546.008]
+Wh-what, what?
+
+[06546.009]
+Townsperson
+
+[06546.010]
+From outside... and such pretty girls, too. I've never seen any before!
+
+[06546.011]
+Young Man
+
+[06546.012]
+Eeek! Why are you chasing me!?
+
+[06546.014]
+You tell me why you're running away!
+
+[06546.015]
+Young Man
+
+[06546.016]
+Well, um... You came from the world outside, so you must be covered in germs...
+
+[06546.017]
+Young Man
+
+[06546.018]
+Wa-waah!! D-don't come over here, please!!
+
+[06546.020]
+What's this?
+
+[06546.022]
+It's got a button on it... Let's give it a push.
+
+[06546.024]
+Whoa! Wh-what's that!?
+
+[06546.026]
+It looks like a map of the world.
+
+[06546.028]
+But this...
+
+[06546.030]
+It's the same... The mountains, the rivers, they're all where we know them to be!
+
+[06546.032]
+That settles it. This world is, after all, the same world we came from.
+
+[06546.034]
+But the towns are different, you know? No Cresta, no Aigrette, no Heidelberg.
+
+[06546.036]
+The places and the names both differ. This could be a clue to how history was altered...
+
+[06546.038]
+...Hm?
+
+[06546.040]
+...Can it be? Unchanged since the War of Heaven and Earth!?
+
+[06546.042]
+What is it, {NAME:04 00 00 00}?
+
+[06546.044]
+Ah, no...
+
+[06546.046]
+Vangelo and Speranza both seem to be the names of cities that stood before the War of Heaven and Earth.
+
+[06546.048]
+By rights, after the War of Heaven and Earth ended, the ruined cities were rebuilt, and in the course of that their names and sites changed.
+
+[06546.050]
+But in this world that was never done... History has been twisted.
+
+[06546.052]
+I see...
+
+[06546.054]
+Hey, isn't this city in the same place as Heidelberg?
+
+[06546.056]
+Let's see... A place called Realta. And we're in Speranza now, so... Looks like we can get there somehow.
+
+[06546.058]
+On the map, at least, it looks a large city. There we may learn more.
+
+[06546.060]
+All right, let's go! To Heidelberg... I mean, to Realta!
+
+[06546.061]
+Have a safe journey.
+
+[06546.062]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06546.063]
+Will you stay the night?
+
+[06546.065]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06546.066]
+Please rest well.
+
+[06546.067]
+Good morning.
+
+[06546.068]
+You do not have enough money.
+
+[06546.069]
+We look forward to seeing you again.
+
+[06546.074]
+Obtained {16:25 BA}.
+
+[06546.076]
+Obtained {08:FF FF FF FF}.
+
+[06546.078]
+Found {16:25 C2}, but you can carry no more.
+
+[06546.080]
+There is nothing here.
+

@@ -1,0 +1,147 @@
+[06758.001]
+Aqua Labyrinth
+
+[06758.002]
+Aqua Labyrinth
+
+[06758.004]
+Go on to the next?
+
+[06758.006]
+{03:00 00 00 00}　Go on　
+　Escape　
+
+[06758.008]
+Escape?
+
+[06758.010]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06758.011]
+????????
+
+[06758.012]
+I am Magnadeus... the one sealed in this labyrinth...
+
+[06758.013]
+Magnadeus
+
+[06758.014]
+A closed ring of more than a thousand years... Visitors come just in time to ease my boredom...
+
+[06758.015]
+Magnadeus
+
+[06758.016]
+Come... I shall keep you company a while.
+
+[06758.017]
+Magnadeus
+
+[06758.018]
+Wander the endless corridor together with me...
+
+[06758.019]
+????
+
+[06758.020]
+Honestly, round and round and round... Even I'm worn out...
+
+[06758.022]
+Um... are you Johnny?
+
+[06758.023]
+Johnny
+
+[06758.024]
+Baby! A boy I feel I have seen somewhere. That's right, my name is Johnny! Johnny Shiden.
+
+[06758.025]
+Johnny
+
+[06758.026]
+I heard the demon's seal had come undone and came to see how things stood, and look at the state I'm in.
+
+[06758.027]
+Johnny
+
+[06758.028]
+A demon that comes back however often you beat it. A labyrinth with no end however far you go. It's like a bad dream.
+
+[06758.029]
+Johnny
+
+[06758.030]
+"To believe in something matters a great deal. But to doubt everything, that matters too." ...Words to a song I wrote long ago.
+
+[06758.031]
+Johnny
+
+[06758.032]
+The place we stand in, the things we see, may all be a lie. All of it made up, and none of it really there.
+
+[06758.033]
+Johnny
+
+[06758.034]
+Take this with you. I'll search here a little longer. For the thing they call an "answer".
+
+[06758.036]
+Obtained {08:4A 00 00 00}.
+
+[06758.037]
+Johnny
+
+[06758.038]
+My eyes see the present. And the eyes of my heart see the future... Baby! I can see it, your tomorrow...
+
+[06758.040]
+This map goes dark.
+
+[06758.042]
+On this map you take damage.
+
+[06758.044]
+On this map encounters are at the maximum.
+
+[06758.046]
+On this map your view is narrowed.
+
+[06758.047]
+Have a safe journey.
+
+[06758.048]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06758.049]
+Will you stay the night?
+
+[06758.051]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06758.052]
+Please rest well.
+
+[06758.053]
+Good morning.
+
+[06758.054]
+You do not have enough money.
+
+[06758.055]
+We look forward to seeing you again.
+
+[06758.060]
+Obtained {16:25 C2}.
+
+[06758.062]
+Obtained {08:FF FF FF FF}.
+
+[06758.064]
+Found {16:25 CA}, but you can carry no more.
+
+[06758.066]
+There is nothing here.
+

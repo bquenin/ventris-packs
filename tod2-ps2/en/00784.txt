@@ -1,0 +1,12 @@
+[00784.001]
+Say, {NAME:06 00 00 00}... after all, shouldn't you go to Karell...
+
+[00784.002]
+Eno~ugh! Nag on and I'll pickle that mouth in formalin. It's fine. With six Swordians together, no enemy can stand. And you lot can't stop "Belcrant" alone, can you?
+
+[00784.003]
+That's true, but... still...
+
+[00784.004]
+Less talk. Stop it fast or the surface is all wasteland.
+

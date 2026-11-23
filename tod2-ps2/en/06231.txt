@@ -1,0 +1,49 @@
+[06231.4788]
+For flying
+
+[06231.4801]
+For cooking
+
+[06231.4816]
+A tool for prayer
+
+[06231.4835]
+For sleeping
+
+[06231.4850]
+Armor
+
+[06231.4861]
+Finds culprits
+
+[06231.4878]
+What is this
+tool used for?
+
+[06231.4912]
+Right!
+It's the "Rheaird"
+
+[06231.4942]
+No.
+Is food all you
+think about?
+
+[06231.4979]
+Wrong.
+
+[06231.4986]
+No.
+{NAME:01 00 00 00} is always
+sleeping, hm?
+
+[06231.5026]
+No.
+It's much bigger
+
+[06231.5052]
+...How?
+
+[06231.5069]
+Time's up
+

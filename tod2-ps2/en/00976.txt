@@ -1,0 +1,15 @@
+[00976.001]
+Hey, next time let's take presents to the children of Hope Town too.
+
+[00976.002]
+Sure. I don't mind, but I'd rather go somewhere, you know... with lots of grown women... I mean, there's hardly anyone there but kids, right?
+
+[00976.003]
+What are you saying, {NAME:03 00 00 00}? The future bride of {NAME:03 00 00 00} might be among those kids.
+
+[00976.004]
+Du~mmy! That couldn't happen if heaven and earth turned over. I'm for "grown-up ladies, and no one else".
+
+[00976.005]
+Really... I've a feeling it just might...
+

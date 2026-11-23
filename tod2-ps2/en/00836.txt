@@ -1,0 +1,24 @@
+[00836.001]
+That {NAME:04 00 00 00}... still hasn't lost the habit of talking to Chaltier, it seems.
+
+[00836.002]
+No wonder. He said they were together since he was small, like real brothers.
+
+[00836.003]
+{NAME:06 00 00 00} acts cheerful too, but sometimes she calls Karell's name in her sleep.
+
+[00836.004]
+I lost my little brother, so I know. It's not something you get over that easily...
+
+[00836.005]
+But... one day you have to get past things like that.
+
+[00836.006]
+And being able to is people's strength...
+
+[00836.007]
+They'll be all right, {NAME:04 00 00 00} and {NAME:06 00 00 00}! They're both strong!
+
+[00836.008]
+Yes, that's right. So we just believe and wait.
+

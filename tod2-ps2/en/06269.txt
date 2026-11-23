@@ -1,0 +1,50 @@
+[06269.4788]
+Caw-Caw
+
+[06269.4797]
+Yatagarasu
+
+[06269.4808]
+Peep
+
+[06269.4817]
+Chirp-Chirp
+
+[06269.4830]
+Cock-a-Doodle-Doo
+
+[06269.4849]
+Big Crow
+
+[06269.4860]
+Ogre Crow
+
+[06269.4871]
+Black Bird
+
+[06269.4882]
+This monster's name is?
+
+[06269.4907]
+Good.
+
+[06269.4914]
+Wrong.
+
+[06269.4921]
+One step
+short, I'd say
+
+[06269.4947]
+Overthought.
+
+[06269.4960]
+Naive.
+
+[06269.4969]
+Too literal...
+
+[06269.4986]
+Dithering over
+such a question?
+

@@ -1,0 +1,73 @@
+[06343.001]
+Darilsheid Underground Waterway
+
+[06343.002]
+Darilsheid Underground Waterway
+
+[06343.004]
+・Boss not beaten
+・Pick up the stone cutter
+・Statue cut loose
+・Statue not cut loose
+
+[06343.006]
+A notice is posted. "A thief appears to have fled this way, so this exit is sealed from now on."
+
+[06343.008]
+Huh!?
+
+[06343.010]
+The Sorcerer's Ring doesn't seem to have enough firepower. Bring something that burns.
+
+[06343.012]
+Whoa! What is this sticky stuff!?
+
+[06343.014]
+Clearing this away by hand is impossible...
+
+[06343.016]
+Used the stone cutter to cut the statue from its base.
+
+[06343.018]
+There is a statue. It is fixed firmly to its stone base, but cut loose, it could be dragged.
+
+[06343.020]
+...Wait! Something's here! Be careful!
+
+[06343.021]
+Have a safe journey.
+
+[06343.022]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06343.023]
+Will you stay the night?
+
+[06343.025]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06343.026]
+Please rest well.
+
+[06343.027]
+Good morning.
+
+[06343.028]
+You do not have enough money.
+
+[06343.029]
+We look forward to seeing you again.
+
+[06343.034]
+Obtained {16:25 CA}.
+
+[06343.036]
+Obtained {08:FF FF FF FF}.
+
+[06343.038]
+Found {16:25 D2}, but you can carry no more.
+
+[06343.040]
+There is nothing here.
+

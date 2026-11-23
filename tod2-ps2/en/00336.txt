@@ -1,0 +1,21 @@
+[00336.001]
+Come to think of it, why didn't you go to my mom, {NAME:02 00 00 00}? She's one of the heroes too, like Woodrow and Philia.
+
+[00336.002]
+...I did go.
+
+[00336.003]
+Eh!? You did!? Mom never said a word about that...
+
+[00336.004]
+Of course not. I never met her face to face. I only watched from a distance.
+
+[00336.005]
+Why? Didn't you want to hear what she had to say, like with Philia?
+
+[00336.006]
+I meant to... but when I went to speak, a little boy came crying to Rutee. And just as she'd soothed him, the laundry blew away in the wind or something, and off she went...
+
+[00336.007]
+Ahahaha! So you missed your chance.
+

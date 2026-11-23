@@ -1,0 +1,86 @@
+[06421.001]
+Oberon Corporation Abandoned Mine
+
+[06421.002]
+Oberon Corporation Abandoned Mine
+
+[06421.003]
+Oberon Corporation Abandoned Mine
+
+[06421.004]
+Oberon Corporation Abandoned Mine
+
+[06421.006]
+...
+......
+
+[06421.008]
+Hm? What's wrong, {NAME:04 00 00 00}...?
+
+[06421.010]
+It is nothing... Let us hurry on...
+
+[06421.012]
+{03:00 00 00 00}　Unload the bomb　
+　Set the boat adrift　
+
+[06421.014]
+Set the boat adrift?
+{03:00 00 00 00}　Yes　
+　No　
+
+[06421.015]
+The bomb exploded!
+
+[06421.017]
+The way's buried in earth and sand. We can't go on unless we shift it.
+
+[06421.019]
+We will have to blow the earth away with a bomb.
+
+[06421.021]
+A bomb? Come on, where on earth would we find...
+
+[06421.023]
+They were used long ago for blasting in the tunnels. Look and you should find some. As for lighting them... yes, use the Sorcerer's Ring.
+
+[06421.025]
+The stairs are buried in rock and earth. This rock looks like it could be blasted.
+
+[06421.026]
+Have a safe journey.
+
+[06421.027]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06421.028]
+Will you stay the night?
+
+[06421.030]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06421.031]
+Please rest well.
+
+[06421.032]
+Good morning.
+
+[06421.033]
+You do not have enough money.
+
+[06421.034]
+We look forward to seeing you again.
+
+[06421.039]
+Obtained {16:25 C2}.
+
+[06421.041]
+Obtained {08:FF FF FF FF}.
+
+[06421.043]
+Found {16:25 CA}, but you can carry no more.
+
+[06421.045]
+There is nothing here.
+

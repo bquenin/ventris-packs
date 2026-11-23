@@ -1,0 +1,33 @@
+[06233.4788]
+Owlbear
+
+[06233.4799]
+Kanbara Bear
+
+[06233.4814]
+Egg Bear
+
+[06233.4825]
+Bigfoot
+
+[06233.4838]
+The very first monster
+{NAME:01 00 00 00} and I fought:
+know its name?
+
+[06233.4899]
+Hey, you remembered!
+
+[06233.4926]
+Close!
+
+[06233.4935]
+Get past the trial
+
+[06233.4956]
+Not found round Cresta
+
+[06233.4983]
+Did I shine so bright
+you forgot it?
+

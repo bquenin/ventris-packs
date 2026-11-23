@@ -1,0 +1,88 @@
+[06544.001]
+The Wild Forest
+
+[06544.002]
+The Wild Forest
+
+[06544.003]
+The Wild Forest
+
+[06544.005]
+No good... A flame like this isn't hot enough.
+
+[06544.007]
+Oh well. Shall we try cutting it down?
+
+[06544.009]
+This plant, which looks poisonous at a glance? Not me.
+
+[06544.011]
+But the Sorcerer's Ring is about all we've got that can light a fire...
+
+[06544.013]
+All right, all right, excuse me a moment.
+
+[06544.015]
+Just as I thought, it's a poison plant. It's dangerous to touch, so we'll have to burn it.
+
+[06544.017]
+The bark on this one's hard, so it doesn't catch easily, but burn it all at once at a high heat and it'll go.
+
+[06544.019]
+Ooh, that's {NAME:05 00 00 00} for you. Raised in the wild, and it shows. ...So, how do we light it?
+
+[06544.021]
+Use your head, city boy! We get our oil from the things running around all over the place.
+
+[06544.023]
+...You're not going to tell us to catch monsters, are you?
+
+[06544.025]
+Well guessed.
+
+[06544.027]
+...I knew it. Raised in the wild, and her ideas are wild too...
+
+[06544.029]
+{NAME:05 00 00 00} earned the title "{08:28 08 00 00}".
+
+[06544.031]
+Lit the Garm fangs.
+
+[06544.032]
+Have a safe journey.
+
+[06544.033]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06544.034]
+Will you stay the night?
+
+[06544.036]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06544.037]
+Please rest well.
+
+[06544.038]
+Good morning.
+
+[06544.039]
+You do not have enough money.
+
+[06544.040]
+We look forward to seeing you again.
+
+[06544.045]
+Obtained {16:25 BE}.
+
+[06544.047]
+Obtained {08:FF FF FF FF}.
+
+[06544.049]
+Found {16:25 C6}, but you can carry no more.
+
+[06544.051]
+There is nothing here.
+

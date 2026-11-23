@@ -1,0 +1,18 @@
+[00246.001]
+An abandoned mine... So there's nobody there at all, is there?
+
+[00246.002]
+Of course not. Well, there might be ghosts!
+
+[00246.003]
+D-don't talk rubbish! G-ghosts don't e-exist... in this world!
+
+[00246.004]
+What's this, {NAME:03 00 00 00}? Are you scared of ghosts?
+
+[00246.005]
+I-I-I'm not scared! ......It's just, if there were any... how do I put it... it'd be a-awkward...
+
+[00246.006]
+That is fear.
+

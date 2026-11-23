@@ -1,0 +1,27 @@
+[00832.001]
+Hey, {NAME:03 00 00 00}. Ea-t my cook-ing♪
+
+[00832.002]
+Way too fishy... I bet you've laced it with some weird drug.
+
+[00832.003]
+No, no. There's no~thing in this one. All that's in it is the es-sence of love★
+
+[00832.004]
+Heheh... Who'd believe that. {NAME:05 00 00 00}, give me yours!
+
+[00832.005]
+Ah! Wait, that's...!!
+
+[00832.006]
+Gah... Wh-what's... th-this numb... ness... in my body...
+
+[00832.007]
+Ta-da-da-daa~♪ Bullseye~★ I knew you wouldn't eat it the plain way, so I swapped pots with {NAME:05 00 00 00}~.
+
+[00832.008]
+Y... you tricked me...
+
+[00832.009]
+Tricked? How rude. I said there was nothing in "this one". Now, data, data♪ Hm-hmm-hmm~♪
+

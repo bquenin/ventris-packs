@@ -1,0 +1,7 @@
+# Text files are stored and checked out with LF line endings on every system, whatever
+# core.autocrlf says. ventris reads a pack's scripts with either ending, but one ending
+# everywhere keeps diffs clean.
+* text=auto eol=lf
+
+# Binary files: never converted, never diffed as text.
+*.png binary

@@ -1,0 +1,27 @@
+[00096.001]
+With me gone, the little ones will be lonely...
+
+[00096.002]
+Yeah...
+
+[00096.003]
+Will they... be all right without me?
+
+[00096.004]
+Aw, don't you worry.
+
+[00096.005]
+How can you be so sure?
+
+[00096.006]
+When I left the orphanage I thought the same. "Is it really safe to leave it to {NAME:01 00 00 00}..."
+
+[00096.007]
+Hey, that's rude. I did a proper job, didn't I!
+
+[00096.008]
+Yeah, you did. You did fine... So they'll manage fine too... Right?
+
+[00096.009]
+I see... Yeah... You're right.
+

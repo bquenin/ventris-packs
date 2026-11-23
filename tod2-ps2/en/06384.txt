@@ -1,0 +1,722 @@
+[06384.001]
+Great Temple of Straylize
+
+[06384.002]
+Great Temple of Straylize
+
+[06384.003]
+Straylize Temple
+
+[06384.004]
+Straylize Temple
+
+[06384.005]
+Great Temple of Straylize
+
+[06384.006]
+Straylize Temple
+
+[06384.008]
+Words are carved into the stone monument.
+
+[06384.010]
+Want me to read it for you?
+
+[06384.012]
+{03:00 00 00 00}　Have her read it　
+　Not interested　
+
+[06384.014]
+The desert land, amid raging fire
+Midway up a steep white mountain
+On an idol sunk in a distant sea
+Megalith remnant 1
+
+[06384.016]
+Megalith remnant 2
+By a lake cloaked in deep green
+A lonely white isle, a green garden
+A far land, a ring gouged in earth
+
+[06384.018]
+An island wreathed in mist
+An island on no map
+Behind a small hut
+Islands untouched by human hands
+
+[06384.020]
+The highest meadow in the misty land
+The heart of the misty mountains
+　
+　　There, gain the proofs of ill omen
+
+[06384.022]
+Words are carved into the stone monument, but they are too difficult to read.
+
+[06384.023]
+Cleric
+
+[06384.024]
+Welcome to the Great Temple of Straylize... Have you come to donate Lenses?
+
+[06384.025]
+Cleric
+
+[06384.026]
+If you are donating Lenses, please go on to the Great Temple at the back. May Atamoni protect you.
+
+[06384.027]
+Cleric
+
+[06384.028]
+Please take care. It seems someone has broken into the temple.
+
+[06384.029]
+Cleric
+
+[06384.030]
+It is dangerous to go near the temple! Please take shelter somewhere safe.
+
+[06384.031]
+Cleric
+
+[06384.032]
+The intruders seem to have withdrawn. This, too, is all thanks to Atamoni.
+
+[06384.034]
+We're the ones who drove them off, though...
+
+[06384.035]
+Cleric
+
+[06384.036]
+The divine punishment of Atamoni will surely fall on the intruders who broke into the temple.
+
+[06384.037]
+Cleric
+
+[06384.038]
+An important ceremony is about to be held in the Great Temple, so please refrain from worship for now.
+
+[06384.039]
+Cleric
+
+[06384.040]
+There was some sort of commotion. Did the ceremony end safely, I wonder?
+
+[06384.042]
+Don't worry. We'll put an end to it ourselves...
+
+[06384.043]
+Cleric
+
+[06384.044]
+Well, well. I do not know who you are, but thank you for your help.
+
+[06384.045]
+Cleric
+
+[06384.046]
+I do hope the ceremony ends safely.
+
+[06384.047]
+Cleric
+
+[06384.048]
+If you are donating Lenses, please go on to the Great Temple at the back. May Atamoni protect you.
+
+[06384.049]
+Cleric
+
+[06384.050]
+Lately, Lady Elraine is nowhere to be seen.
+
+[06384.051]
+Cleric
+
+[06384.052]
+She must be busy touring the various lands.
+
+[06384.054]
+I don't know about touring, but she may well be busy...
+
+[06384.055]
+Cleric
+
+[06384.056]
+If you are donating Lenses, please go on to the Great Temple at the back. May Atamoni protect you.
+
+[06384.057]
+Cleric
+
+[06384.058]
+If you are donating Lenses, please go on to the Great Temple at the back. May Fortuna protect you.
+
+[06384.059]
+Cleric
+
+[06384.060]
+Lately, Lady Elraine is nowhere to be seen.
+
+[06384.061]
+Cleric
+
+[06384.062]
+She must be busy touring the various lands.
+
+[06384.064]
+I don't know about touring, but she may well be busy...
+
+[06384.065]
+Cleric
+
+[06384.066]
+If you are donating Lenses, please go on to the Great Temple at the back. May Fortuna protect you.
+
+[06384.067]
+Cleric
+
+[06384.068]
+Lady Philia should be in her room.
+
+[06384.069]
+Cleric
+
+[06384.070]
+Lady Philia would be in her room, I should think.
+
+[06384.071]
+Cleric
+
+[06384.072]
+If anything, I too prefer Lady Philia to Lady Elraine... Ah, no, it's nothing.
+
+[06384.073]
+Cleric
+
+[06384.074]
+Those intellectual glasses are simply... Ah, no, it's nothing.
+
+[06384.075]
+Cleric
+
+[06384.076]
+Please, feel free to worship.
+
+[06384.078]
+If I worship, will I run into some lovely lady?
+
+[06384.079]
+Cleric
+
+[06384.080]
+Well, that would depend on the person's own efforts...
+
+[06384.081]
+Cleric
+
+[06384.082]
+Atamoni is always watching over us.
+
+[06384.084]
+Just watching, huh... You'd think there'd be more of a blessing in it.
+
+[06384.085]
+Cleric
+
+[06384.086]
+Happiness is not something given by someone else. It is something you seize with your own hands.
+
+[06384.087]
+Cleric
+
+[06384.088]
+Please, please, feel free to worship.
+
+[06384.089]
+Cleric
+
+[06384.090]
+... ........Hah!
+
+[06384.091]
+Cleric
+
+[06384.092]
+I wasn't asleep! I wasn't asleep! I was just deep in meditation for a moment! I swear by Atamoni, I...
+
+[06384.093]
+Cleric
+
+[06384.094]
+... ........Zzz...
+
+[06384.095]
+Cleric
+
+[06384.096]
+Awawawawawawa...! While I was asleep... no, deep in meditation, something terrible has happened in the temple!!
+
+[06384.097]
+Cleric
+
+[06384.098]
+I mustn't panic! At times like this, stay calm... Take a deep breath... Haah, hoo, haah, hoo, haah, haah...
+
+[06384.100]
+Somewhere along the way the deep breaths turned into snores...
+
+[06384.102]
+In a way, he may be destined for greatness...
+
+[06384.103]
+Cleric
+
+[06384.104]
+... ........Zzz...
+
+[06384.105]
+Cleric
+
+[06384.106]
+While I was asleep... no, deep in meditation, the incident seems to have been resolved.
+
+[06384.107]
+Cleric
+
+[06384.108]
+Now I can sleep in peace again... ah, no, meditate in peace.
+
+[06384.109]
+Cleric
+
+[06384.110]
+... ........Zzz...
+
+[06384.111]
+Cleric
+
+[06384.112]
+... ........Hah!
+
+[06384.113]
+Cleric
+
+[06384.114]
+I wasn't asleep! I wasn't asleep! I was just deep in meditation for a moment before the important ceremony!
+
+[06384.115]
+Cleric
+
+[06384.116]
+Phew... If I were caught dozing during a ceremony, of all times, I might be excommunicated...
+
+[06384.117]
+Cleric
+
+[06384.118]
+Unnnnngh... How's that! I held out without dozing until the ceremony was over.
+
+[06384.119]
+Cleric
+
+[06384.120]
+Unnnnngh... Until the ceremony is over, I must hold out... without dozing... no matter... what...
+
+[06384.121]
+Cleric
+
+[06384.122]
+... ........Zzz...
+
+[06384.123]
+Worshipper
+
+[06384.124]
+Haah. I'm glad I donated so much. To think I can look around the temple at such leisure.
+
+[06384.125]
+Worshipper
+
+[06384.126]
+When I get back to the village, I'll have to brag plenty to the old man next door.
+
+[06384.127]
+Worshipper
+
+[06384.128]
+There's no telling when I can come again, so I'm burning the sight of this temple right into the backs of my eyelids.
+
+[06384.129]
+Worshipper
+
+[06384.130]
+Say, you. Things seem awfully hectic. Did something happen?
+
+[06384.131]
+Worshipper
+
+[06384.132]
+So hectic. Young people these days... Can't they even worship quietly?
+
+[06384.133]
+Worshipper
+
+[06384.134]
+Before I go back to the village, I'm going to look over every corner of the temple once more! I might forget on the way home.
+
+[06384.135]
+Worshipper
+
+[06384.136]
+When the old man next door hears my stories, he'll be so astonished his legs will give out.
+
+[06384.137]
+Worshipper
+
+[06384.138]
+Before I go back to the village, I'm going to look over every corner of the temple once more! I might forget on the way home.
+
+[06384.139]
+Worshipper
+
+[06384.140]
+Haah. I'm glad I donated so much. To think I can look around the temple at such leisure.
+
+[06384.142]
+How can I meet a hero!? Please, tell me, Philia!
+
+[06384.144]
+That voice... it's her!
+
+[06384.146]
+This is bad, {NAME:01 00 00 00}!
+
+[06384.148]
+Let's go, {NAME:03 00 00 00}!
+
+[06384.149]
+Visitor
+
+[06384.150]
+Say, you. There was a commotion over at the temple. Did something happen?
+
+[06384.152]
+Oh, some rather dangerous visitors came by. They've gone home now.
+
+[06384.153]
+Visitor
+
+[06384.154]
+Really, young people these days. Can't they even worship quietly...
+
+[06384.155]
+Visitor
+
+[06384.156]
+To be able to come and worship at the Great Temple while I'm still alive... I'm a lucky woman.
+
+[06384.157]
+Visitor
+
+[06384.158]
+When I get home, I'll have to brag plenty to my old man.
+
+[06384.159]
+Visitor
+
+[06384.160]
+My, my~. There's something strange floating in the sky. Whatever could it be?
+
+[06384.161]
+Visitor
+
+[06384.162]
+Ho ho ho. Lovely weather again today.
+
+[06384.164]
+Yeah, it is. Did you come to worship, granny?
+
+[06384.165]
+Visitor
+
+[06384.166]
+Nope, just out for a walk. On fine days, walking out here is my daily routine.
+
+[06384.167]
+Visitor
+
+[06384.168]
+A walk to Straylize Temple. That's the secret of a long life.
+
+[06384.169]
+Visitor
+
+[06384.170]
+Back in my village, we had a bumper crop of vegetables and fruit last year. That, too, is thanks to Atamoni.
+
+[06384.171]
+Visitor
+
+[06384.172]
+I came all the way to the Great Temple to give thanks for it.
+
+[06384.173]
+Visitor
+
+[06384.174]
+It is thanks to Atamoni that we are able to live.
+
+[06384.175]
+Visitor
+
+[06384.176]
+However far away I live, I could never be ungrateful to the Great Temple.
+
+[06384.177]
+Visitor
+
+[06384.178]
+Back in my village, we had a bumper crop of vegetables and fruit last year. That, too, is thanks to Fortuna.
+
+[06384.179]
+Visitor
+
+[06384.180]
+I came all the way to the Great Temple to give thanks for it.
+
+[06384.181]
+Visitor
+
+[06384.182]
+It is thanks to Fortuna that we are able to live.
+
+[06384.183]
+Visitor
+
+[06384.184]
+However far away I live, I could never be ungrateful to the Great Temple.
+
+[06384.185]
+Visitor
+
+[06384.186]
+Lady Philia is such a kind person.
+
+[06384.187]
+Visitor
+
+[06384.188]
+She's so important, and yet she listens to my troubles with all her heart.
+
+[06384.189]
+Visitor
+
+[06384.190]
+I love Lady Elraine too, but I've become a fan of Lady Philia.
+
+[06384.191]
+Visitor
+
+[06384.192]
+Back in my village, we had a bumper crop of vegetables and fruit last year. That, too, is thanks to Atamoni.
+
+[06384.193]
+Visitor
+
+[06384.194]
+I came all the way to the temple to give thanks for it.
+
+[06384.195]
+Visitor
+
+[06384.196]
+Atamoni watches over us, so we can live with easy minds. What a blessing.
+
+[06384.197]
+Visitor
+
+[06384.198]
+You look so happy. Just how many Lenses did you donate?
+
+[06384.200]
+That face isn't happy so much as carefree. Lenses have nothing to do with it.
+
+[06384.201]
+Visitor
+
+[06384.202]
+Just how many Lenses do you have to donate to become happy, I wonder...
+
+[06384.203]
+Visitor
+
+[06384.204]
+How many Lenses did you bring? I've only got 15. Can I become happy with these?
+
+[06384.205]
+Visitor
+
+[06384.206]
+Your first time at the temple? I come every day. I don't know, it settles my heart.
+
+[06384.207]
+Visitor
+
+[06384.208]
+And while I'm at it, I pray to get a girlfriend.
+
+[06384.210]
+A-amazing...! So this is the Great Temple of Straylize!
+
+[06384.212]
+This is the cathedral at the center of the Great Temple. Only high-ranking clerics may enter, and this is my first time inside too.
+
+[06384.214]
+Hm, I hear something...
+
+[06384.216]
+Here! {NAME:02 00 00 00} is beyond here!
+
+[06384.217]
+Philia
+
+[06384.218]
+{NAME:01 00 00 00}!
+
+[06384.220]
+Philia!
+
+[06384.221]
+Philia
+
+[06384.222]
+All the Lenses we were keeping for research are gone! Do you know anything about it!?
+
+[06384.224]
+The Lenses... are gone?
+
+[06384.226]
+Wh-what!?
+
+[06384.228]
+Damn! He's quick to run!
+
+[06384.230]
+Don't tell me the Lenses are on the Flying Dragon...!
+
+[06384.231]
+Philia
+
+[06384.232]
+Um, {NAME:01 00 00 00}, what on earth is this...
+
+[06384.234]
+This is only a guess, but... Elraine took the Lenses and fled.
+
+[06384.235]
+Philia
+
+[06384.236]
+Huh!?
+
+[06384.238]
+She means to use the power of the Lenses to bring down a god.
+
+[06384.239]
+Philia
+
+[06384.240]
+No... She isn't that kind of person...!
+
+[06384.242]
+You may not believe us... but we're not lying.
+
+[06384.243]
+Philia
+
+[06384.244]
+........
+
+[06384.246]
+Well then, Philia.
+
+[06384.247]
+Philia
+
+[06384.248]
+Please wait!
+
+[06384.249]
+Philia
+
+[06384.250]
+Take this... I am sure it will be of some use.
+
+[06384.251]
+Philia
+
+[06384.252]
+It is a tool that detects what cannot be seen, what cannot be perceived.
+
+[06384.253]
+Philia
+
+[06384.254]
+With it, you will be able to find things you would normally overlook.
+
+[06384.256]
+Philia...
+
+[06384.257]
+Philia
+
+[06384.258]
+Your eyes were not lying. So... I believe you.
+
+[06384.260]
+...Thank you, Philia! Well, we'll be going!
+
+[06384.261]
+Philia
+
+[06384.262]
+{NAME:01 00 00 00}, I... believe in you.
+
+[06384.263]
+Have a safe journey.
+
+[06384.264]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06384.265]
+Will you stay the night?
+
+[06384.267]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06384.268]
+Please rest well.
+
+[06384.269]
+Good morning.
+
+[06384.270]
+You do not have enough money.
+
+[06384.271]
+We look forward to seeing you again.
+
+[06384.276]
+Obtained {16:25 EE}.
+
+[06384.278]
+Obtained {08:FF FF FF FF}.
+
+[06384.280]
+Found {16:25 F6}, but you can carry no more.
+
+[06384.282]
+There is nothing here.
+

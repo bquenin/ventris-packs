@@ -1,0 +1,267 @@
+[06432.001]
+Snowfria: Inn
+
+[06432.002]
+Snowfria
+
+[06432.003]
+Inn
+
+[06432.005]
+Herb tea!
+
+[06432.007]
+S-so good!
+
+[06432.009]
+So warm...
+
+[06432.011]
+There was an account book inside, so I had a peek. ...Business seems fairly good.
+
+[06432.012]
+Young Woman
+
+[06432.013]
+I've come all the way to Phandaria, so I'll buy something to remember it by.
+
+[06432.014]
+Young Woman
+
+[06432.015]
+Isn't there a souvenir that would freeze whoever gets it, body and soul?
+
+[06432.017]
+They don't sell souvenirs that scary...
+
+[06432.018]
+Young Woman
+
+[06432.019]
+Isn't there a souvenir that would leave whoever gets it unable to stop shivering?
+
+[06432.020]
+Young Woman
+
+[06432.021]
+The bear pelt on display at the general store has caught my eye.
+
+[06432.023]
+Is it the pelt of a Kanbara Bear? The tail is cute.
+
+[06432.024]
+Young Woman
+
+[06432.025]
+Snowfria's specialty, the "fur cloak", seems to be sold out. What a shame.
+
+[06432.026]
+Young Woman
+
+[06432.027]
+I've come all the way to Phandaria, so I'll buy something to remember it by.
+
+[06432.028]
+Young Woman
+
+[06432.029]
+Isn't there a souvenir that would freeze whoever gets it, body and soul?
+
+[06432.031]
+They don't sell souvenirs that scary...
+
+[06432.032]
+Young Woman
+
+[06432.033]
+Isn't there a souvenir that would leave whoever gets it unable to stop shivering?
+
+[06432.034]
+Inn
+
+[06432.035]
+Inn
+
+[06432.036]
+Chef
+
+[06432.037]
+Been making {16:34 7C}?
+
+[06432.038]
+Chef
+
+[06432.039]
+Would you like to know how to make {16:34 7C}?
+
+[06432.041]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06432.042]
+Chef
+
+[06432.043]
+I'll teach you how to make {16:34 7C}.
+
+[06432.044]
+Chef
+
+[06432.045]
+Going to make it yourself? Well, that's fine too.
+
+[06432.046]
+Chef
+
+[06432.047]
+I have the recipe for {16:34 7C}. Will you buy it for {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald?
+
+[06432.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06432.050]
+Chef
+
+[06432.051]
+You don't have enough money.
+
+[06432.052]
+Chef
+
+[06432.053]
+I'll sell you the recipe for {16:34 7C}.
+
+[06432.054]
+Chef
+
+[06432.055]
+Well, it can't be helped.
+
+[06432.056]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06432.057]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.058]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.059]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.060]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.061]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06432.062]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.063]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.064]
+Chef
+
+[06432.065]
+To make {16:34 7C} you need:
+{18:44 78}
+
+[06432.066]
+Chef
+
+[06432.067]
+Why, you have the ingredients.
+
+[06432.068]
+Chef
+
+[06432.069]
+Let me have them and I'll make {16:34 7C}. How about it?
+
+[06432.071]
+{03:00 00 00 00}　Yes
+　No
+
+[06432.072]
+Chef
+
+[06432.073]
+All right, wait there. I'll make you {16:34 7C} right away.
+
+[06432.074]
+Chef
+
+[06432.075]
+That's a shame. It's really delicious...
+
+[06432.076]
+Chef
+
+[06432.077]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06432.078]
+Chef
+
+[06432.079]
+You are not worthy. Come back another time.
+
+[06432.080]
+Chef
+
+[06432.081]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06432.083]
+Picked up the recipe for {16:34 7C}.
+
+[06432.085]
+Learned how to make {16:34 90}.
+
+[06432.086]
+Have a safe journey.
+
+[06432.087]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06432.088]
+Will you stay the night?
+
+[06432.090]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06432.091]
+Please rest well.
+
+[06432.092]
+Good morning.
+
+[06432.093]
+You do not have enough money.
+
+[06432.094]
+We look forward to seeing you again.
+
+[06432.099]
+Obtained {16:25 DE}.
+
+[06432.101]
+Obtained {08:FF FF FF FF}.
+
+[06432.103]
+Found {16:25 E6}, but you can carry no more.
+
+[06432.105]
+There is nothing here.
+

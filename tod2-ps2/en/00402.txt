@@ -1,0 +1,6 @@
+[00402.001]
+So ho~t! Hey {NAME:05 00 00 00}, do you always walk through places like this!?
+
+[00402.002]
+No, this heat isn't normal. What's happened?
+

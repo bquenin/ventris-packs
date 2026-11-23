@@ -1,0 +1,69 @@
+[06244.4090]
+What sound?
+
+[06244.4103]
+Nope
+
+[06244.4108]
+Right!
+
+[06244.4115]
+Time up
+
+[06244.4124]
+Sound of what?
+
+[06244.4141]
+Wrong.
+
+[06244.4148]
+Time's up!
+
+[06244.4161]
+What is this sound?
+
+[06244.4186]
+Wrong.
+
+[06244.4193]
+Right.
+
+[06244.4200]
+Time's up
+
+[06244.4211]
+This sound is?
+
+[06244.4226]
+Wrong!
+
+[06244.4235]
+Right!
+
+[06244.4244]
+Time's up.
+
+[06244.4257]
+What's this sound?
+
+[06244.4276]
+Wrong!
+
+[06244.4283]
+Right.
+
+[06244.4290]
+Time's up
+
+[06244.4301]
+Know what sound this is?
+
+[06244.4330]
+Right!
+
+[06244.4341]
+Name this sound
+
+[06244.4360]
+Wrong.
+

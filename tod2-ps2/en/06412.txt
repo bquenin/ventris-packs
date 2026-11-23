@@ -1,0 +1,310 @@
+[06412.001]
+Neustadt
+
+[06412.002]
+Neustadt
+
+[06412.004]
+Fresh vegetables are being unloaded. They seem to have been shipped in from nearby.
+
+[06412.006]
+Building materials piled up like a mountain. They are addressed to Heidelberg.
+
+[06412.008]
+A crate holding ship's gear. "Algernon, repair materials" is written on it.
+
+[06412.010]
+What's all that?
+
+[06412.012]
+Did something happen?
+
+[06412.014]
+Hey, did something happen?
+
+[06412.015]
+Passenger
+
+[06412.016]
+They say the ship's repairs still aren't finished.
+
+[06412.017]
+Sailor
+
+[06412.018]
+I am very sorry. The repairs are taking time...
+
+[06412.019]
+Sailor
+
+[06412.020]
+I'm sorry, but could you give us a little more time?
+
+[06412.022]
+Hey, what do we do, {NAME:01 00 00 00}? At this rate there's no telling when the ship will sail.
+
+[06412.024]
+But there is no way to Heidelberg other than by sea. We can only wait.
+
+[06412.026]
+Hmm... Just waiting around is boring, though. What shall we do?
+
+[06412.027]
+Merchant
+
+[06412.028]
+Excuse me, might I have a word? You look to me like traveling warriors, every one of you skilled...
+
+[06412.030]
+Oh my, so we really do look it?
+
+[06412.032]
+Heh heh heh... Aw, shucks! I guess a hero's presence just sort of comes out naturally?
+
+[06412.033]
+Merchant
+
+[06412.034]
+A hero's presence...?
+
+[06412.035]
+Merchant
+
+[06412.036]
+Oh, I feel it, I certainly do! You have just the gallant look one would expect!
+
+[06412.037]
+Merchant
+
+[06412.038]
+Now, I have a particular favor to ask of you heroes... Would you be so kind as to hear it?
+
+[06412.040]
+OK, OK! Ask anything. The hero {NAME:01 00 00 00} will take care of it in a jiffy!
+
+[06412.041]
+Merchant
+
+[06412.042]
+Well, this is hardly the place, so if you feel so inclined, please come to my humble home.
+
+[06412.043]
+Merchant
+
+[06412.044]
+It is in the north of the town. Please come whenever you like.
+
+[06412.046]
+...Hey, {NAME:01 00 00 00}. You're not thinking of taking that offer, are you?
+
+[06412.048]
+Of course I'm taking it! Helping people in trouble is what a hero does!
+
+[06412.050]
+Come on, let's go! Someone in trouble is waiting anxiously for a hero!
+
+[06412.052]
+Hi, Captain!
+
+[06412.053]
+Captain
+
+[06412.054]
+Oh, the young heroes! Well, life on land must have been hard on you?
+
+[06412.055]
+Captain
+
+[06412.056]
+But rejoice! From today you can set out once more into the dazzling world of the sea!
+
+[06412.058]
+G-good to see you...
+
+[06412.059]
+Captain
+
+[06412.060]
+My Algernon sails shortly. Are you ready, young folk!{02}
+
+[06412.062]
+{03:00 00 00 00}　Of course!　
+　...Sorry, wait a bit　
+
+[06412.063]
+Captain
+
+[06412.064]
+Aye aye, sir! We're racing all the way to Snowfria, so mind you're not thrown off!
+
+[06412.065]
+Captain
+
+[06412.066]
+Understood. Come when you're ready. Until later, young folk!
+
+[06412.067]
+Sailor
+
+[06412.068]
+We are terribly sorry for the trouble to you all...
+
+[06412.069]
+Sailor
+
+[06412.070]
+The repairs to the ship seem to be taking time still, so please see the sights of the city.
+
+[06412.071]
+Sailor
+
+[06412.072]
+I am sorry to have kept you waiting. We sail shortly.
+
+[06412.073]
+Sailor
+
+[06412.074]
+When you are ready, speak to the captain and board the ship.
+
+[06412.075]
+Sailor
+
+[06412.076]
+I should not be placed here now.
+
+[06412.077]
+Passenger
+
+[06412.078]
+Are the ship's repairs still not finished?
+
+[06412.079]
+Passenger
+
+[06412.080]
+At this rate there's no telling when I'll reach my sweetheart...
+
+[06412.081]
+Passenger
+
+[06412.082]
+Ah! The ship is sailing at last.
+
+[06412.083]
+Passenger
+
+[06412.084]
+The longer I'm kept waiting, the more my feelings for him grow, and it's rather nice★
+
+[06412.085]
+Passenger
+
+[06412.086]
+I should not be placed here now.
+
+[06412.087]
+Merchant
+
+[06412.088]
+Honestly! What a bother.
+
+[06412.089]
+Merchant
+
+[06412.090]
+They say the ship's finally fixed. Right, let's load the rest of the cargo.
+
+[06412.091]
+Merchant
+
+[06412.092]
+I should not be placed here now.
+
+[06412.093]
+Ticket Seller
+
+[06412.094]
+From here you can go to Snowfria. Will you board the ship?
+
+[06412.096]
+{03:00 00 00 00}　Go to Snowfria ({14:24 74}{0B:00 00 00 00} Gald)　
+　Don't board　
+
+[06412.097]
+Ticket Seller
+
+[06412.098]
+From here you can go to Cherik and Snowfria. Will you board the ship?
+
+[06412.100]
+{03:00 00 00 00}　Go to Cherik ({0B:01 00 00 00}{14:24 72} Gald)　
+　Go to Snowfria ({14:24 74}{0B:00 00 00 00} Gald)　
+　Don't board　
+
+[06412.101]
+Ticket Seller
+
+[06412.102]
+From here you can go to Cherik and Snowfria. Will you board the ship?
+
+[06412.104]
+{03:00 00 00 00}　Go to Cherik　
+　Go to Snowfria　
+　Don't board　
+
+[06412.105]
+Ticket Seller
+
+[06412.106]
+Hey, hey, you don't have enough money. Give me a break, customer!
+
+[06412.107]
+Ticket Seller
+
+[06412.108]
+You sure, customer? If you don't hurry, the ship will leave!
+
+[06412.110]
+The sailors are busy repairing the ship...
+
+[06412.112]
+Many ships are at anchor...
+
+[06412.113]
+Have a safe journey.
+
+[06412.114]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06412.115]
+Will you stay the night?
+
+[06412.117]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06412.118]
+Please rest well.
+
+[06412.119]
+Good morning.
+
+[06412.120]
+You do not have enough money.
+
+[06412.121]
+We look forward to seeing you again.
+
+[06412.126]
+Obtained {16:25 C2}.
+
+[06412.128]
+Obtained {08:FF FF FF FF}.
+
+[06412.130]
+Found {16:25 CA}, but you can carry no more.
+
+[06412.132]
+There is nothing here.
+

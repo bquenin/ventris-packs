@@ -1,0 +1,244 @@
+[06438.001]
+Heidelberg: Inn
+
+[06438.002]
+Heidelberg
+
+[06438.004]
+A truly clean toilet. The master of this inn must love cleanliness.
+
+[06438.006]
+There is a building right behind, so the view is poor...
+
+[06438.008]
+A huge steam pipe. This must carry warmth to each room.
+
+[06438.009]
+Minstrel
+
+[06438.010]
+I am a wandering minstrel. Do listen to a song.
+
+[06438.011]
+Minstrel
+
+[06438.012]
+On the town where white flakes fall and pile~♪ there stands a single hero~♪ His name is... ah, ah-CHOO!
+
+[06438.013]
+Minstrel
+
+[06438.014]
+I-I'm so sowwy... Heidelberg is cold, isn't it. Thanks to which I've caught a cold...
+
+[06438.015]
+Minstrel
+
+[06438.016]
+I came thinking a city with the Hero King Woodrow would give me matter for a song, but that's the last thing on... ah-CHOO!
+
+[06438.017]
+Minstrel
+
+[06438.018]
+I came thinking a city with the Hero King Woodrow would give me matter for a song, but that's the last thing on... ah-CHOO!
+
+[06438.019]
+Minstrel
+
+[06438.020]
+To this fine young pair, a present of a love song from me...
+
+[06438.021]
+Minstrel
+
+[06438.022]
+Ahh, your love~♪ melts into this snow~ and fades away~♪
+
+[06438.024]
+Fades away... That's not a love song.
+
+[06438.025]
+Minstrel
+
+[06438.026]
+Huh? Was there something odd about my song!?
+
+[06438.027]
+Minstrel
+
+[06438.028]
+I'm sorry, my head's been aching for a while and I can't quite... ah, ah-CHOO!
+
+[06438.029]
+Minstrel
+
+[06438.030]
+Ah-CHOO! Ah-CHOO! ...Uh-oh, maybe I really have caught a cold...
+
+[06438.031]
+Minstrel
+
+[06438.032]
+Ah-CHOO! Ahh... my head's going all foggy...
+
+[06438.033]
+Minstrel
+
+[06438.034]
+What was that sound just now... Like a whopping great firework... ...I must be hearing things...
+
+[06438.035]
+Minstrel
+
+[06438.036]
+What was that sound just now... Like a whopping great firework... ...I must be hearing things...
+
+[06438.037]
+Minstrel
+
+[06438.038]
+Ah-CHOO! Ahh... my head's going all foggy...
+
+[06438.039]
+Minstrel
+
+[06438.040]
+...Just now I even saw a vision of the Flying Dragon... It's a cold, all right...
+
+[06438.041]
+Minstrel
+
+[06438.042]
+The Flying Dragon going bang into the castle... That has to be a vision... ...ah, ah-CHOO!
+
+[06438.043]
+Minstrel
+
+[06438.044]
+The Flying Dragon attacks Heidelberg Castle! To be present at so dramatic a moment! As a minstrel, I cannot keep silent!
+
+[06438.045]
+Minstrel
+
+[06438.046]
+I've already set about composing. Let me see: an assassin from the sky, spreading its wings... ...ah, ah-SHOO!
+
+[06438.047]
+Minstrel
+
+[06438.048]
+...Huh? I can't remember the words... An assassin from the sky... assassin... ...um...
+
+[06438.049]
+Minstrel
+
+[06438.050]
+Oh, for...! The sneeze made me forget all of it!
+
+[06438.051]
+Minstrel
+
+[06438.052]
+Forgetting the words because of a sneeze! How stupid... stu... Achoo! Achoo!
+
+[06438.053]
+Minstrel
+
+[06438.054]
+The people~ rise up~♪ ...Hmm, maybe "those who" would be better than "the people"?
+
+[06438.056]
+Hm? What are you up to?
+
+[06438.057]
+Minstrel
+
+[06438.058]
+Oh, it's a song about the incident the other day. As a minstrel, it's at just such times that I ought to sing.
+
+[06438.059]
+Minstrel
+
+[06438.060]
+When the Flying Dragon attacked, I thought, now I might be able to make a song about King Woodrow.
+
+[06438.061]
+Minstrel
+
+[06438.062]
+But I gave that up and decided to sing of the people of the city. That's the more interesting.
+
+[06438.063]
+Minstrel
+
+[06438.064]
+Rise up... achoo! ...Huh? Um, the words after that... what were they?
+
+[06438.065]
+Minstrel
+
+[06438.066]
+I am a wandering minstrel. Do listen to a song.
+
+[06438.067]
+Minstrel
+
+[06438.068]
+On the town where white flakes fall and pile~♪ there stands a single hero~♪ His name is... ah, ah-CHOO!
+
+[06438.069]
+Minstrel
+
+[06438.070]
+I-I'm so sowwy... Heidelberg is cold, isn't it. Thanks to which I've caught a cold...
+
+[06438.071]
+Minstrel
+
+[06438.072]
+I came thinking a city with the Hero King Woodrow would give me matter for a song, but that's the last thing on... ah-CHOO!
+
+[06438.073]
+Minstrel
+
+[06438.074]
+I came thinking a city with the Hero King Woodrow would give me matter for a song, but that's the last thing on... ah-CHOO!
+
+[06438.075]
+Have a safe journey.
+
+[06438.076]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06438.077]
+Will you stay the night?
+
+[06438.079]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06438.080]
+Please rest well.
+
+[06438.081]
+Good morning.
+
+[06438.082]
+You do not have enough money.
+
+[06438.083]
+We look forward to seeing you again.
+
+[06438.088]
+Obtained {16:25 BA}.
+
+[06438.090]
+Obtained {08:FF FF FF FF}.
+
+[06438.092]
+Found {16:25 C2}, but you can carry no more.
+
+[06438.094]
+There is nothing here.
+

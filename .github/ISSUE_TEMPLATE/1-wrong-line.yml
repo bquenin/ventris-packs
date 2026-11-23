@@ -1,0 +1,49 @@
+name: A line reads wrong or looks wrong
+description: A line in a translated game means the wrong thing, reads badly, or does not fit on screen.
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for the report. The packs here are machine translated and have not been reviewed by a
+        human translator. You do not need to find the line in the pack's files: saying where it is in the
+        game is enough.
+  - type: dropdown
+    id: pack
+    attributes:
+      label: Pack
+      options:
+        - Tales of Phantasia in English (top-sfc/en)
+        - Tales of Destiny 2 in English (tod2-ps2/en)
+        - Another pack (say which below)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Pack version
+      description: As the app shows it beside the pack's name, or the date you downloaded the pack.
+  - type: textarea
+    id: where
+    attributes:
+      label: Where in the game
+      description: The place, the scene, who was speaking, what you had just done. If you found the string in the pack, give its address too, such as `31.004`.
+    validations:
+      required: true
+  - type: textarea
+    id: says
+    attributes:
+      label: What it says
+      description: The line as it is shown, copied as exactly as you can.
+    validations:
+      required: true
+  - type: textarea
+    id: should-say
+    attributes:
+      label: What it should say
+      description: Your correction, if you have one, and why. If the line does not fit on screen, say so.
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: A screenshot of the line on screen, if you have one. Drag it into this box.

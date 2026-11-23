@@ -1,0 +1,15 @@
+[00070.001]
+Hey, {NAME:03 00 00 00}. I know it's a bit late to ask, but... don't you have a girlfriend or anyone waiting for you back at the Order?
+
+[00070.002]
+Urk! Wh-what are you saying, {NAME:01 00 00 00}, my boy? I joined the Order to become a knight. I did not join for such impure purposes.
+
+[00070.003]
+Oh, I ge~t it. You got turned down left and right, same as always♪
+
+[00070.004]
+No! Absolutely not! I was the one who dumped them! All they ever say is Atamoni this, Atamoni that. There's a great guy right here and they don't even look. I ask them out, I send flowers, and they turn me down with a straight face! No eye for men, heads like rocks, that's the devout for you... Ah!
+
+[00070.005]
+Sorry, {NAME:03 00 00 00}. Forget I asked...
+

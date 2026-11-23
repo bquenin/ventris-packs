@@ -1,0 +1,514 @@
+[13.000]
+{クレス}
+"If I remember right, my uncle's house was toward the northwest."
+
+[13.001]
+City of Euclid
+
+[13.002]
+"History of the Kingdom of Euclid
+The Kingdom of Euclid has a history of some 120 years. The Republic of Euclid that came before it was a nation of three tribes joined together. One was the Deloino, who ruled the continent of Venezia; one was the Mailgan, who ruled the south of the continent of Euclid (some hold that this tribe built the catacombs that collapsed fifty years ago); and one was the Euclid tribe, who ruled the north of the continent, ancestors of the present king, Euclid XXI, Ralph de Euclidnia."
+
+[13.003]
+"Small Tribes of the World
+It is said that the world has about 250 small tribes of fewer than 100 people. Among them is one with a most unusual culture: Japon. What Japon is best known for is its ninja, but it is also said to have tools found nowhere else, as befits a tribe that has refused all contact with outsiders."
+
+[13.004]
+"On the Elves
+Elves differ from humans in their long lives, the magic they are born with, and their beauty.
+Where the elves first came from is still not certain. The leading theory today is Treant's Forest. One account says they were created by the gods in King Crimson Glory, a floating city of the far ancient past. But much of that account reads like legend."
+
+[13.005]
+"Culture of the Ancient Civilisation, Volume Nine
+The ancient civilisation seems to have drawn its energy from electricity, or from oil.
+Its machines that ran on electricity in particular are said to have been far beyond anything we can imagine. One account has it that they built people out of machinery."
+
+[13.006]
+It reads:
+"Need a place to stay? Come to the Euclid Inn, where the service is perfect and the food is good."
+
+[13.007]
+{クレス}
+"Hello! Is anyone home?"{PAGE}
+"No one in..."
+
+[13.008]
+King of Euclid
+"And who might you be?"{PAGE}
+{クラース}
+"It is an honour to meet you. We are travellers on a journey to defeat Dhaos."{PAGE}
+King of Euclid
+"Oh! Then you are the heroes the King of Alvanista spoke of."{PAGE}
+{アーチェ}
+"Heroes, he says. That's a bit much."{PAGE}
+{クラース}
+"{アーチェ}! Mind your manners before the king!"{PAGE}
+King of Euclid
+"No matter, no matter. Let me grant you some funds for your journey, modest though they are."{PAGE}
+{クラース}
+"Are you sure!?"{PAGE}
+King of Euclid
+"Our kingdom has no army. It is young warriors like you we must rely on. I will not stint on support."{PAGE}
+{COLOR:03}Accept the funds?{COLOR:02}
+
+[13.009]
+{ミント}
+"Please, do not trouble yourself."{PAGE}
+King of Euclid
+"I see... Very well. I shall await good news."
+
+[13.010]
+{COLOR:03}Received 80000 Gald.{COLOR:02}{PAGE}
+{クラース}
+"Thank you very much."{PAGE}
+King of Euclid
+"Good. I shall await good news."
+
+[13.011]
+"Welcome. I've got good medicine."
+
+[13.012]
+Owner of "Meromero", the everything shop
+"Welcome, welcome."
+
+[13.013]
+"Thanks a lot."
+
+[13.014]
+"I haven't seen you around, mister. Where did you come from?"
+
+[13.015]
+"Wooow! Do you think he's from a circus?"
+
+[13.016]
+"What shall I play today?"
+
+[13.017]
+"Kyahahahaha!!
+That's so funny!!"
+
+[13.018]
+"Ahh, I'm bored..."
+
+[13.019]
+"I hear the village of Toltus was attacked.{PAGE}
+I wonder if we're safe here...?"
+
+[13.020]
+"Ahh, how peaceful it is.{PAGE}
+Say what you like, peace is the best thing there is!"
+
+[13.021]
+"He's so good at that. How does anyone get so nimble?"
+
+[13.022]
+"I hear travelling performers are coming to town soon.{PAGE}
+It's nice that this town is peaceful, but there's not much to do for fun."
+
+[13.023]
+"Ho ho ho. A jugglist is a fine thing to watch."{PAGE}
+{クレス}
+(Doesn't he mean a juggler...?){PAGE}
+
+
+[13.024]
+"Fine weather, isn't it."{PAGE}
+
+
+[13.025]
+Come to think of it, knights were going in and out of Olson's house a few days ago. I wonder what that was about?
+
+[13.026]
+{クレス}
+"Excuse me, where is the man who lived in this house?"{PAGE}
+"Ah, Mr. Olson. Well, he suddenly went missing."
+
+[13.027]
+"There were pitch-black clouds hanging over the south. A sudden shower, perhaps..."
+
+[13.028]
+"If only this moment could last forever..."
+
+[13.029]
+"..."
+
+[13.030]
+"Ah, pardon me. How do I get to the village of Toltus? I wish to meet Sir Miguel.{PAGE}
+Sir Miguel once led Euclid's independent order of knights, and his valour is known across the whole continent.
+I should like to try my blade against his once."
+
+[13.031]
+Juggler
+"Step right up, step right up, come and see!
+You won't be sorry you looked!"
+
+[13.032]
+"I want to try that too."
+
+[13.033]
+"Yay, yay!!"
+
+[13.034]
+"S-sorry! I'm so sorry!"
+
+[13.035]
+"I'm hiding from my wife. She never stops nagging, I tell you."
+
+[13.036]
+"You good-for-nothing! Don't stand around here wasting time!"
+
+[13.037]
+"Welcome. We've got good things in stock.{PAGE}
+Pay inside, please."
+
+[13.038]
+"M-move! I'm running away here!"
+
+[13.039]
+"My brother never helps out in the shop at all. Honestly!"
+
+[13.040]
+"This town has a science laboratory, you know. Isn't that great?{PAGE}
+Huh? Where? It's the big house in the northwest."
+
+[13.041]
+"What!? You have a vehicle that flies?{PAGE}
+Maybe I should ask for one too. It must cost a lot, though."
+
+[13.042]
+"They say the science laboratory in this town is studying how to fly. But how would you fly, I wonder?"
+
+[13.043]
+"Aren't they all something? Nothing but burly men.{PAGE}
+There seem to be women with swords too, though."
+
+[13.044]
+"The spectators' seats for the arena are through here."
+
+[13.045]
+"Crowds come to watch every day. Where do they all come from?"
+
+[13.046]
+"This is the audience chamber."
+
+[13.047]
+"Mind your manners before the king."
+
+[13.048]
+"I explain the martial arts tournament.
+Would you like to hear about it?"
+
+[13.049]
+The Grand Martial Arts Tournament is held to raise a force to defeat Dhaos. It is a knockout: you fight the monsters we send out.
+Win eight times in a row and it is over. Whether you volunteer for the force is up to you, but either way there is prize money for winning through.
+You cannot enter as a party. Only one of you may fight. Swords and sword skills are allowed, but magic is forbidden.
+And you may use only the healing items that we provide.{PAGE}
+Those who wish, after eight wins in a row, earn the right to fight a stronger monster still. Beat that one too, and... well, you will see.
+Registration is at the end of the corridor on the left.
+
+[13.050]
+"Fighting monsters, huh. I don't much like the sound of that."
+
+[13.051]
+"Right then, time to test my arm!"
+
+[13.052]
+"This fellow keeps saying the same thing over and over and never fights."
+
+[13.053]
+"If you get your timing just right..."
+
+[13.054]
+"If only I could use every special skill. From what I hear, there may or may not be an item that lets you use all of them, secret skills too..."
+
+[13.055]
+"This one got a stomach ache right before his fight.
+Pathetic..."
+
+[13.056]
+"There are some strange words my grandfather told me long ago.{PAGE}
+Right, down, down-right, confirm. What could it mean?"
+
+[13.057]
+"Eight in a row... That's rough."
+
+[13.058]
+"Tch, no magic allowed."
+
+[13.059]
+"Oh, are you here to look around? Would you care for some tea?"
+
+[13.060]
+"Dhaos never used to attack this far...{PAGE}
+A few months ago the port of Venezia was attacked."
+
+[13.061]
+"A maid's work is never easy."
+
+[13.062]
+"Cleaning, cleaning, la la la♥"
+
+[13.063]
+"This is the king's room."
+
+[13.064]
+"The king wishes to be closer to his people, you see. The castle is always open to the public. That is why you can look around even the king's room.
+But you mustn't take anything."
+
+[13.065]
+"I can't stand that minister. He never stops finding fault."
+
+[13.066]
+"This is the king's room, if you please. You must not dirty it, if you please."
+
+[13.067]
+"Wow, it's so high up!"
+
+[13.068]
+"So high, so hiiigh!"
+
+[13.069]
+"Uuu... I'm scared..."
+
+[13.070]
+"The kid next to me is afraid of heights."
+
+[13.071]
+"My father is a swordsman, and every day he mutters something to himself. Up-right, right, down-right, confirm. What could that be about?"
+
+[13.072]
+"I can see the sea!"
+
+[13.073]
+"I am a teacher. Today I've brought my class on a field trip."
+
+[13.074]
+"Wow, it's so high up!"
+
+[13.075]
+"This floor is mostly used for receiving guests. There is a library at the back too."
+
+[13.076]
+"The books the king has collected are kept here. You are free to read them."
+
+[13.077]
+"You stand before the king. Mind you give no offence."
+
+[13.078]
+"So sleepy..."
+
+[13.079]
+"Dhaos's army has not come this far yet, but we must not let our guard down."
+
+[13.080]
+"Welcome to Euclid Castle."
+
+[13.081]
+"Do you know the legend of Ishtar?{PAGE}
+Gil and Ki rose up to protect the goddess Ishtar from the demon Druaga, and brought the demon down. But is it really only a legend...? The ten items that appear in it exist in this world. The Jet Boots are said to be one of them."
+
+[13.082]
+"I want to watch the tournament too."
+
+[13.083]
+"Do take your time."
+
+[13.084]
+"In honour of your courage, allow me to call you heroes.{PAGE}
+Heroes, please save the world."
+
+[13.085]
+"I am the one who grants official special titles to swordsmen who are both able and out of the ordinary."{PAGE}
+
+
+[13.086]
+I see you have obtained the two combo items. Then I should like to grant you the title "Combo Master". What do you say?
+
+[13.087]
+{COLOR:03}{クレス} gained the title Combo Master.{COLOR:02}{PAGE}
+
+
+[13.088]
+I see you have spent day after day doing nothing but fight. Then I should like to grant you the title "Berserker". What do you say?
+
+[13.089]
+{COLOR:03}{クレス} gained the title Berserker.{COLOR:02}{PAGE}
+
+
+[13.090]
+I see you have won the martial arts tournament in fine style. Then I should like to grant you the title "Champion". What do you say?
+
+[13.091]
+{COLOR:03}{クレス} gained the title Champion.{COLOR:02}{PAGE}
+
+
+[13.092]
+I see you have gathered the equipment of the legend of Ishtar. Then I should like to grant you the title "Druaga Mania". What do you say?
+
+[13.093]
+{COLOR:03}{クレス} gained the title Druaga Mania.{COLOR:02}{PAGE}
+
+
+[13.094]
+I see you have been given the sword of the legendary samurai. Then I should like to grant you the title "Samurai". What do you say?
+
+[13.095]
+{COLOR:03}{クレス} gained the title Samurai.{COLOR:02}{PAGE}
+
+
+[13.096]
+What, you have defeated Dhaos at last! Then I should like to grant you the title "Hero". What do you say?
+
+[13.097]
+{COLOR:03}{クレス} gained the title Hero.{COLOR:02}{PAGE}
+
+
+[13.098]
+Come to me when you have learned your own strength.
+
+[13.099]
+"Are you entering the tournament too?"
+
+[13.100]
+"Registration for the tournament is here.
+Will you enter?"
+
+[13.101]
+We look forward to your challenge.
+
+[13.102]
+Are you quite sure?
+
+[13.103]
+We look forward to your challenge.
+
+[13.104]
+Then we shall hold your healing items for now. To keep things fair, you may use only the healing items that we provide.{PAGE}
+Good fortune in battle.
+
+[13.105]
+{チェスター}
+"{クレス}, do your best!"
+{ミント}
+"Please don't push yourself too hard."{PAGE}
+{クラース}
+"A good chance to test your strength."
+{アーチェ}
+"Good luck♥"{PAGE}
+{クレス}
+"Right."{PAGE}
+
+
+[13.106]
+"The arena is through this door."
+
+[13.107]
+"Do your best."
+
+[13.108]
+"Almost everyone is away just now, on an expedition against the monsters."
+
+[13.109]
+"We are the Black Armour Knights of Euclid."
+
+[13.110]
+"The entrance test for this order is the hardest in the world. We are the elite of the elite."
+
+[13.111]
+"There is no one in the order today fit to lead it. Once we had mighty swordsmen like Sir Mars and Sir Miguel..."
+
+[13.112]
+Harrison
+"This is the Magitech Laboratory."
+
+[13.113]
+{ミント}
+"{クレス}, are you all right?"{PAGE}
+{クレス}
+"Where am I...?"{PAGE}
+{クラース}
+"The infirmary of Euclid Castle. Bad luck in the tournament."{PAGE}
+{チェスター}
+"Well, there's always next time. You can enter as often as you like."{PAGE}
+{クラース}
+"Can you get up?"{PAGE}
+{クレス}
+"Yes, I'm fine."
+
+[13.114]
+King of Euclid
+"The way you fought in the tournament was truly splendid."{PAGE}
+{クレス}
+"Thank you, Your Majesty."{PAGE}
+
+
+[13.115]
+King of Euclid
+"But it is a great pity. If only heroes such as you would join our kingdom's force against Dhaos..."{PAGE}
+{クレス}
+"I am sorry."{PAGE}
+King of Euclid
+"Ah well."
+
+[13.116]
+King of Euclid
+"Now, there is something I must ask of you. The tournament is not held merely to show off strength.
+In truth it is to find members for a force to defeat Dhaos, the Dhaos Expedition. I should very much like you to join it. What do you say?"{PAGE}
+{クレス}
+"Oh, er, well..."{PAGE}
+{クラース}
+"Your Majesty, forgive us... We mean to hunt Dhaos down in our own way. How shall I put it... we feel a bond of fate with Dhaos that reaches across time."{PAGE}
+King of Euclid
+"{SPEED:10}...{SPEED:FF}Hm, I see. I will not press you."
+
+[13.117]
+Then let me give you your reward. Do accept it.
+
+[13.118]
+Princess
+"Put it to good use on your journey."{PAGE}
+{クレス}
+"Thank you."{PAGE}
+
+
+[13.119]
+This is... a book of secret skills!{PAGE}
+
+
+[13.120]
+{COLOR:03}{クレス} learned Shishikouhazan.{COLOR:02}
+
+[13.121]
+{COLOR:03}Received the Local Specialities Set.{COLOR:02}
+
+[13.122]
+{COLOR:03}Received the Charm Set.{COLOR:02}
+
+[13.123]
+{COLOR:03}Received the Meat Set.{COLOR:02}
+
+[13.124]
+{COLOR:03}Received the Herb Set.{COLOR:02}
+
+[13.125]
+{COLOR:03}Received the Bottle Set.{COLOR:02}
+
+[13.126]
+{COLOR:03}Received the Magical Item Set.{COLOR:02}
+
+[13.127]
+{COLOR:03}Received the Star Item Set for magic users.{COLOR:02}
+
+[13.128]
+{COLOR:03}Received the Star Item Set for warriors.{COLOR:02}
+
+[13.129]
+{COLOR:03}Received the Gummy Set.{COLOR:02}
+
+[13.130]
+{COLOR:03}Received 30000 Gald.{COLOR:02}
+
+[13.131]
+King of Euclid
+"I pray your journey to defeat Dhaos goes safely."
+

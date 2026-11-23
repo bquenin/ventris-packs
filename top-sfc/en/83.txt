@@ -1,0 +1,110 @@
+[83.000]
+{クレス}
+"What on earth is going on...?"{PAGE}
+{クラース}
+"Did the Sword of Time resonate with Dhaos's power over time and get drawn here...?"
+
+[83.001]
+It reads: "From the end, it begins."
+
+[83.002]
+{クレス}
+"This is... a map of this floor. According to the drawing... there seems to be a hidden passage in the room with the stairs down!"
+
+[83.003]
+{COLOR:03}There is a lever. Throw it?{COLOR:02}
+
+[83.004]
+{クレス}
+"Dhaos! This time we truly settle it!!"{PAGE}
+Dhaos
+"Heh heh heh... That you should come this far is no small thing. As a mark of respect, shall I call you the heroes of legend?"{PAGE}
+{チェスター}
+"Don't mock us!! I'll make you regret everything you've done!!"{PAGE}
+{ミント}
+"Wait!"
+
+[83.005]
+{クラース}
+"{ミント}, stay back!!"{PAGE}
+Dhaos
+"What is this? Begging for your lives at this late hour?"{PAGE}
+{ミント}
+"There is something I want to ask you. You said before that you had no reason to fight us. Why... is that?"
+
+[83.006]
+Dhaos
+"Because you are not among those who work with magitech."{PAGE}
+{ミント}
+"Why is magitech wrong?"{PAGE}
+Dhaos
+"Magitech uses up the power of mana to the last drop!! I must wipe out the humans who use magitech."{PAGE}
+{クレス}
+"Why!? What are you trying to do, even at the cost of destroying the world!?"{PAGE}
+{クラース}
+"Is it simply that you wish to protect nature?"{PAGE}
+Dhaos
+"Heh{SPEED:10}...{SPEED:FF} ha ha ha ha... Simply to protect nature? Do I look to you like a worshipper of nature? All I want is the power of mana!!"{PAGE}
+{チェスター}
+"And you mean to rule the world with that power of mana!?"{PAGE}
+
+
+[83.007]
+Dhaos
+"Ha ha ha ha, I have no interest in a world like this one. I have a mission: to obtain the Great Seed!! I will not be hindered!!"{PAGE}
+{チェスター}
+"The Great Seed?"{PAGE}
+{クレス}
+"Whatever your mission, you treat people like insects, and that I can never forgive!!"{PAGE}
+Dhaos
+"Say what you will!!{PAGE}
+Have at you!!"
+
+[83.008]
+{クレス}
+"Have we... done it at last?"
+
+[83.009]
+Dhaos
+"Heh... heh heh heh. I-I will not be hindered!! F-for the sake of the people who wait and long for me... I will never be hindered!!"
+
+[83.010]
+{クレス}
+"Th-the floor!?"{PAGE}
+Dhaos
+"Mwahahaha! It would be dull with things in the way! Let us fight with every ounce of our strength!!{PAGE}
+
+
+[83.011]
+Derris-Kharlan, my mother world!
+Unleash my power!!"
+
+[83.012]
+{クレス}
+"This time, have we done it...?"
+
+[83.013]
+{クレス}
+"It's not over yet!"{PAGE}
+{ミント}
+"Wait, something is wrong!"
+
+[83.014]
+Dhaos
+"Kh{SPEED:10},{SPEED:FF} I{SPEED:10},{SPEED:FF} I shall soon die even if you leave me be. So... hear me before then. {SPEED:10}...{SPEED:FF}What this battle was, from the first..."{PAGE}
+{クレス}
+"What!?"
+
+[83.015]
+"So you have come, vile ones, ones, ones."
+
+[83.016]
+"To you I shall give the most splendid fate, fate, fate in this world: a death steeped in blood, blood, blood!"
+
+[83.017]
+{COLOR:03}Go back?{COLOR:02}
+
+[83.018]
+{クレス}
+"Hm? We're short of people... I have to go and help them."
+

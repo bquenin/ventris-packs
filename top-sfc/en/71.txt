@@ -1,0 +1,348 @@
+[71.000]
+Mother Computer Room
+
+[71.001]
+Common Room
+
+[71.002]
+"This is... a spellbook!"{PAGE}
+
+
+[71.003]
+{COLOR:03}{アーチェ} learned {STR:DF07}.{COLOR:02}
+
+[71.004]
+"But it's no use my holding on to it. I'll put it back."
+
+[71.005]
+{クレス}
+"It's rusted and won't open."
+
+[71.006]
+{クレス}
+"It looks as if it might open, but... no good."
+
+[71.007]
+{クレス}
+"What can this be? It has so many switches..."{PAGE}
+{ミント}
+"There is a long thin slot too."{PAGE}
+
+
+[71.008]
+{クレス}
+"What on earth do we do...?"{PAGE}
+{クラース}
+"Wait a moment. What if we put one of those playing cards from before into the long thin slot..."
+
+[71.009]
+"Card recognised. Security system released."
+
+[71.010]
+{クレス}
+"I-it spoke just now!? Is someone here?"{PAGE}
+{アーチェ}
+"But there's no sign of anyone, is there?"
+
+[71.011]
+{クレス}
+"What can this be? It has so many switches..."{PAGE}
+{ミント}
+"There is a long thin slot too."
+
+[71.012]
+"I'll use {STR:190C}."
+
+[71.013]
+"No good. The key doesn't fit."
+
+[71.014]
+"It's locked."
+
+[71.015]
+"It's open."
+
+[71.016]
+{クレス}
+"Hm? These are..."{PAGE}
+{ミント}
+"Playing cards?"{PAGE}
+{アーチェ}
+"What a funny pattern... Did the ancients play cards too, I wonder?"{PAGE}
+{クラース}
+"We have no need of those, have we? Come along."{PAGE}
+{COLOR:03}Take the playing cards?{COLOR:02}
+
+[71.017]
+{COLOR:03}Received the Playing Cards.
+
+[71.018]
+{クレス}
+"What on earth is this...?"{PAGE}
+{クラース}
+"A very unusual device, by the look of it."
+
+[71.019]
+{PAGE}
+{クレス}
+"Wh-what!?"
+
+[71.020]
+{クラース}
+"This is...?"{PAGE}
+
+
+[71.021]
+
+
+
+[71.022]
+"Select objective
+1. Time warp
+2. Medical treatment
+
+[71.023]
+
+3. About the spirit Aska
+
+[71.024]
+The city's systems are down and under maintenance, so a time warp is not possible.{PAGE}
+
+
+[71.025]
+{クレス}
+"The 21st of May, 102 years from now, the innermost part of the catacombs!"{PAGE}
+
+
+[71.026]
+Insufficient energy. The city's functions must be restored. The decision rests with the mayor, whose death has been confirmed. The decision therefore rests with you.{PAGE}
+{アーチェ}
+"What does that mean?"{PAGE}
+{クラース}
+"I do not quite follow, but it seems travel through time is impossible unless those functions of the city are restored."{PAGE}
+"Restore the city's functions?"
+
+[71.027]
+Voice confirmed. The city's functions will now be restored. Warning to citizens of Thor, warning to citizens of Thor...{PAGE}
+
+
+[71.028]
+{クレス}
+"A-aren't we doing something terrible!?"
+
+[71.029]
+"Voice confirmed. Emitting metabolism hyper-acceleration light."
+
+[71.030]
+{アーチェ}
+"Eh, eh? My wounds are healed..."{PAGE}
+{クラース}
+"A-amazing... What science!"{PAGE}
+
+
+[71.031]
+"Voice confirmed. Searching database
+{SPEED:10}...{SPEED:FF}
+Search complete.
+About the spirit Aska.
+Identification number RS232-C.
+A dweller in the spirit world.
+Energy source: chiefly the ultraviolet rays in sunlight.
+Weak to radio waves of a certain kind.
+Captured in Thor at 12:56 on 23 August of the year 2543 of the solar calendar. The conclusion of two years of study: 'Dwellers in the spirit world are of a different dimension from our material world, so study is impossible.'
+Since then kept in an ultra-low-temperature, ultra-high-pressure chamber, to this day
+
+[71.032]
+.{PAGE}
+
+
+[71.033]
+.{PAGE}
+
+
+[71.034]
+.{PAGE}
+{クラース}
+"I do not quite follow, but it seems Aska is here...{PAGE}
+Oz. Will you release the spirit Aska?"{PAGE}
+"Voice confirmed. Sealing off Block 3 for the time being. Opening the door of storage room 401."
+
+[71.035]
+{クラース}
+"So this is... the spirit Aska..."{PAGE}
+Aska
+"Was it you who set me free...?"{PAGE}
+{クラース}
+"Yes. The world is now in a state of crisis. We want you to lend us your power."{PAGE}
+Aska
+"I understand most of how things stand. I shall help you. Then please bring out the Topaz ring. We shall make the ancient pact."
+
+[71.036]
+{クラース}
+"I now beseech the spirit of light. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[71.037]
+{COLOR:03}{クラース} can now summon {STR:0D08}.
+
+
+[71.038]
+"Main system starting.
+Bio-ROM check."
+
+[71.039]
+"Welcome to the Mother Computer Room. I am Oz, and I support all the functions of Thor City. Select your purpose."{PAGE}
+
+
+[71.040]
+"Voice recognised. Starting time warp device driver.
+Anti-gravity energy check
+{SPEED:20}...{SPEED:FF}
+
+
+[71.041]
+Energy confirmed. State the relative number of years.{PAGE}
+
+
+[71.042]
+"Voice confirmed. Spatial coordinates of the destination in time: safety conditions clear. Starting main process. Crew, move to your stations."{PAGE}
+{クレス}
+"Let's go, everyone!!"
+
+[71.043]
+"Crew confirmed. Releasing antimatter energy{SPEED:20}...{SPEED:FF}
+Wormhole formed, baby universe confirmed.
+Time warp operation system all green.{PAGE}
+Time warp, start"
+
+[71.044]
+"Process complete, confirmed."
+
+[71.045]
+"INTRUDERS DETECTED. ELIMINATE AT ONCE. INTRUDERS DETECTED. ELIMINATE AT ONCE."
+
+[71.046]
+{クレス}
+"The enemy seems to have dropped something..."
+
+[71.047]
+{クレス}
+"It's a pact ring!"{PAGE}
+
+
+[71.048]
+{COLOR:03}Received {STR:BB0B}.{COLOR:02}
+
+[71.049]
+"Welcome."
+
+[71.050]
+"Holographic television display."
+
+[71.051]
+{クレス}
+"Wh-what's that?"{PAGE}
+{クラース}
+"An illusion...?{PAGE}
+I see, so that is an electronic projection device."{PAGE}
+{ミント}
+"An electronic... what?"{PAGE}
+{クラース}
+"I have seen it in an old document of the far ancient civilisation. The far ancients are said to have used the power of electricity in every corner of their lives. This electronic projection device, the ancients seem to have called it 'television'."{PAGE}
+
+
+[71.052]
+"Please select a channel."
+
+[71.053]
+"Channel 1{PAGE}
+Namco
+Software for the Super Famicom
+Tales of Phantasia
+Now on sale!!"{PAGE}
+
+
+[71.054]
+"Channel 4{PAGE}
+Ahh... Goro, it is all over for us, isn't it...{PAGE}
+Never! Hanako, our love is meant to last for ever!!"{PAGE}
+
+
+[71.055]
+"Channel 8{PAGE}
+GOOOAL!!!! Grand Pass Eight, their third! A hat-trick for Renaldo!!!"{PAGE}
+
+
+[71.056]
+"Channel 12{PAGE}
+Here is the news for the 2nd of December. Our top story is the political situation.{PAGE}
+At about two o'clock this afternoon there was fierce fighting on the military demarcation line between the Kingdom of Fenrir and the Republic of Odin.{PAGE}
+The declaration of peace between King Ralph I of Fenrir and President Mitsumori of the Republic of Odin has thus collapsed in three days. In response, President Garga of Thor said this:{PAGE}
+'For my part I wish this dispute to be settled by talks, come what may. But as a last resort I do not rule out air strikes.' President Garga's talk of military intervention looks set to stir further debate.{PAGE}
+The next item. The Thor National Institute of Science announced recently that the orbit of Comet Samiel will do no more than graze the Earth, and that there is no danger of its falling. We have this from the press conference.{PAGE}
+'At first it was said that it might fall on the city of Thor, but that is pure rumour. According to the results worked out by the supercomputer, the comet's tail will do no more than graze the Earth and will have no effect whatever.'"{PAGE}
+
+
+[71.057]
+{アーチェ}
+"Wooow{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Is this really the bottom of the sea?"{PAGE}
+{アーチェ}
+"Oh, the sea's above us!"
+
+[71.058]
+{クラース}
+"Hey, don't wander off!"
+
+[71.059]
+{クラース}
+"How, I do not know, but we are enclosed by an invisible wall strong enough to bear the pressure of the water."{PAGE}
+{クレス}
+"Is there really such a thing as a time travel device...?"{PAGE}
+{クラース}
+"At any rate, it was true that Thor lies sunken. We can only trust the words of a great mage, can we not?"
+
+[71.060]
+{クレス}
+"I-it seems to have settled."{PAGE}
+{クラース}
+"But what science... To lift up a whole continent..."
+
+[71.061]
+{チェスター}
+"So this is the time travel device..."{PAGE}
+
+
+[71.062]
+{PAGE}
+Harrison
+"Ohh... This is..."
+
+[71.063]
+{クレス}
+"Our purpose is travel through time!"{PAGE}
+
+
+[71.064]
+Harrison
+"The time is exactly fifty years from now, the village of Toltus in the future."{PAGE}
+
+
+[71.065]
+{クレス}
+"This is..."
+
+[71.066]
+{クレス}
+"Wh-what is that!?"
+
+[71.067]
+{クラース}
+"This... Was there a building like that in Thor?"{PAGE}
+{ミント}
+"It is still midday, yet outside it is night..."{PAGE}
+{アーチェ}
+"Maybe this is that Thor technology too."{PAGE}
+{クラース}
+"Could this be Thor as it used to be...?"
+

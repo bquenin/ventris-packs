@@ -1,0 +1,27 @@
+[00594.001]
+Sigh... Ask anyone and it's "Lady Elraine is wonderful", "Long live Lady Elraine". What are these people thinking...
+
+[00594.002]
+...Because they're happy.
+
+[00594.003]
+{NAME:02 00 00 00}...?
+
+[00594.004]
+When you're happy, it doesn't matter whether the happiness is real or false. No, maybe happiness is never real or false in the first place. And if so, what Elraine is doing is...
+
+[00594.005]
+Stop! ...Say any more and I may get truly angry.
+
+[00594.006]
+........
+
+[00594.007]
+Hey, time to go... Huh, did something happen?
+
+[00594.008]
+Nothing. I'm coming...... {NAME:02 00 00 00}, I'll pretend I didn't hear that.
+
+[00594.009]
+............
+

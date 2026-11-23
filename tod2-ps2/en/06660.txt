@@ -1,0 +1,76 @@
+[06660.001]
+Egg of God: Upper Level
+
+[06660.002]
+Egg of God: Upper Level
+
+[06660.004]
+Looks like a dead end. But what is this place? Mirrors on the walls, a weird pattern on the floor...
+
+[06660.006]
+The one on the floor is a "Derris Emblem". A magic crest that sets right time and space that have been warped.
+
+[06660.008]
+And what about these mirrors? They look like ordinary mirrors to me, but...
+
+[06660.010]
+Whoa! These are no plain mirrors!
+
+[06660.012]
+...These mirrors show not a person's body but the mind.
+
+[06660.014]
+Show the mind?
+
+[06660.016]
+Elraine made us dream once before, remember? It is the same as that.
+
+[06660.018]
+Inside these mirrors spread worlds shaped from everyone's memories...
+
+[06660.020]
+Worlds shaped from memories. Hmph, I wonder how far they have been warped.
+
+[06660.022]
+I suppose we are meant to undo the warp with this Derris Emblem thing...
+
+[06660.024]
+If Elraine is beyond here, we just go on. Let's go, everyone!
+
+[06660.025]
+Have a safe journey.
+
+[06660.026]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06660.027]
+Will you stay the night?
+
+[06660.029]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06660.030]
+Please rest well.
+
+[06660.031]
+Good morning.
+
+[06660.032]
+You do not have enough money.
+
+[06660.033]
+We look forward to seeing you again.
+
+[06660.038]
+Obtained {16:25 BA}.
+
+[06660.040]
+Obtained {08:FF FF FF FF}.
+
+[06660.042]
+Found {16:25 C2}, but you can carry no more.
+
+[06660.044]
+There is nothing here.
+

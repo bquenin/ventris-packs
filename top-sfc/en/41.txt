@@ -1,0 +1,115 @@
+[41.000]
+Hamel Church
+
+[41.001]
+Inn "Hamel Inn"
+
+[41.002]
+Item Shop "RAM"
+
+[41.003]
+Weapon Shop "Crystal Rod"
+
+[41.004]
+Armour Shop "Patience"
+
+[41.005]
+He seems to be reading a holy book.
+Priest
+"God forgives all things..."
+
+[41.006]
+"If you offer your prayers to God every day, you have nothing to fear.{PAGE}
+My wife frightens me, though..."
+
+[41.007]
+"Master Scarlet had a pupil called Demitel. When the master died, oh, how he wept and wept... The cause of death? An accident, I thought."
+
+[41.008]
+"A little while ago a man called Scarlet lived in this town.{PAGE}
+He was a mage, but they say he was also working on a new power to take the place of magic. He's dead now, though. Amen."
+
+[41.009]
+Sister
+"Are you travellers?"{PAGE}
+{クレス}
+"Yes, we are."{PAGE}
+Sister
+"Then a prayer. May God's protection be with you{SPEED:10}...{SPEED:FF}"
+
+[41.010]
+"The Scarlets moved here all of a sudden a few years ago. I believe they were in Midgards before they came."
+
+[41.011]
+"I have a bad feeling. As if some mighty power that threatens the world were drawing near..."
+
+[41.012]
+"The air... the air is full of anger..."
+
+[41.013]
+"Long, long ago, longer ago than you can imagine, there was a truly wonderful civilisation, they say.{PAGE}
+I heard it from my grandfather, but whether it's true or not... Heh heh heh..."
+
+[41.014]
+"Welcome. Staying the night? It is 25 Gald a night."
+
+
+[41.015]
+Enjoy your stay. Checkout is at ten tomorrow.
+
+[41.016]
+I'm sorry. You do not have enough money.
+
+[41.017]
+"Please come again, travellers."
+
+[41.018]
+"Welcome."
+
+[41.019]
+"Thank you. Please come again."
+
+[41.020]
+"Welcome.{PAGE}
+Eh? The shop's name? That's my husband's name. Richard A. McIntyre."
+
+[41.021]
+"Welcome."
+
+[41.022]
+"Thanks."
+
+[41.023]
+"Welcome."
+
+[41.024]
+"Thank you very much."
+
+[41.025]
+"Dear God{SPEED:10}...{SPEED:FF} please keep Daddy and Mummy safe{SPEED:10}...{SPEED:FF}"
+
+[41.026]
+{クレス}
+"Oh, Nancy!?"{PAGE}
+Nancy
+"Oh, {クレス}. Thank you for the other day."{PAGE}
+{クレス}
+"What are you doing here!?"{PAGE}
+Swordswoman
+"She says she simply has to see him.{PAGE}
+I am a traveller. I had business in Venezia, so I ended up taking the girl along."{PAGE}
+{クレス}
+"Ah... I see..."{PAGE}
+Nancy
+"I wanted to tell him myself{SPEED:10}...{SPEED:FF}"
+
+[41.027]
+Nancy
+"Elwin{SPEED:10}...{SPEED:FF}"
+
+[41.028]
+"Hello."
+
+[41.029]
+"Well, that's how it is."
+

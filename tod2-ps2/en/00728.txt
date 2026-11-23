@@ -1,0 +1,27 @@
+[00728.001]
+However you look at it, it's Barbatos's trap.
+
+[00728.002]
+Probably... yes.
+
+[00728.003]
+Am I wrong after all? Charging on without thinking, when it may put everyone in danger...
+
+[00728.004]
+It's fine.
+
+[00728.005]
+Eh?
+
+[00728.006]
+It's fine for you, {NAME:01 00 00 00}. Run straight on, just as you feel. You may stumble sometimes, but that's what I and the others are here for.
+
+[00728.007]
+{NAME:02 00 00 00}...
+
+[00728.008]
+So believe in yourself, {NAME:01 00 00 00}. I believe too.
+
+[00728.009]
+Yes!
+

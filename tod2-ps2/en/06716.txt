@@ -1,0 +1,288 @@
+[06716.001]
+Egg of God: Lower Level
+
+[06716.002]
+Egg of God: Lower Level
+
+[06716.004]
+Elraine!!
+
+[06716.005]
+Elraine
+
+[06716.006]
+Why have you come here? When you cannot kill God...
+
+[06716.008]
+Don't sell us short! We came here to fight, of course. By our own will!
+
+[06716.009]
+Elraine
+
+[06716.010]
+...Though you know what will come of it?
+
+[06716.012]
+We are... ready for that.
+
+[06716.014]
+Elraine... You and I are beings who bear the same mission, the salvation of the people...
+
+[06716.016]
+But in the days I spent with them, I learned. That people have no need of salvation.
+
+[06716.018]
+That they have the strength to believe in a happiness far ahead, and to get over pain and sorrow.
+
+[06716.019]
+Elraine
+
+[06716.020]
+You understand nothing...
+
+[06716.021]
+Elraine
+
+[06716.022]
+People are frail and fleeting. They make suffering with their own hands, and cannot even put it out.
+
+[06716.023]
+Elraine
+
+[06716.024]
+That is why people should be guarded by God, given life by God, and saved by God.
+
+[06716.026]
+Hah, no thanks!
+
+[06716.028]
+What we want isn't a sham happiness! Small as it may be, we want the real thing!
+
+[06716.030]
+What's happy and what's unhappy, we're the ones who decide that! Nobody sent for a god!
+
+[06716.032]
+Sure, living is hard! But that's exactly why you can find happiness in it!
+
+[06716.034]
+Happiness is not a thing to be handed to you by another! It has worth only when you take hold of it yourself!
+
+[06716.035]
+Elraine
+
+[06716.036]
+The salvation of God is the true salvation. That you cannot see it...
+
+[06716.037]
+Elraine
+
+[06716.038]
+God will soon descend... Yes, in perfect form, bringing perfect salvation to the people...
+
+[06716.039]
+Elraine
+
+[06716.040]
+If you mean to stand in the way of that... by my own hand I shall return you to God.
+
+[06716.041]
+Elraine
+
+[06716.042]
+That is the only salvation I can give you...
+
+[06716.044]
+I feel the same as everyone. That's how I got this far...!
+
+[06716.046]
+We have no need of any god's salvation!
+
+[06716.048]
+I won't waver any more! With our own hands, we'll beat the god!
+
+[06716.049]
+Elraine
+
+[06716.050]
+I... was... to save... the people...
+
+[06716.051]
+Elraine
+
+[06716.052]
+Only... the power... of God... can make... that... be...
+
+[06716.053]
+Fortuna
+
+[06716.054]
+{NAME:02 00 00 00}, my Saint...
+
+[06716.056]
+Wh-what's that!?
+
+[06716.058]
+Fortuna!
+
+[06716.059]
+Fortuna
+
+[06716.060]
+Sadly, the way Elraine sought could not lead the people to absolute happiness.
+
+[06716.061]
+Fortuna
+
+[06716.062]
+Now it is your turn. Show me what answer you have brought back.
+
+[06716.063]
+Fortuna
+
+[06716.064]
+What I must do to bring the people true salvation, true happiness...
+
+[06716.066]
+........
+................
+
+[06716.068]
+Fortuna... There is nothing that you must do.
+
+[06716.069]
+Fortuna
+
+[06716.070]
+Nothing...?
+
+[06716.072]
+Yes... Because true happiness is here.
+
+[06716.074]
+All people have happiness.
+
+[06716.076]
+It is the heart that tries to find happiness even in suffering.
+
+[06716.078]
+It is the heart that goes on believing in a happy future.
+
+[06716.080]
+It is the heart that wishes to take hold of happiness with its own hands.
+
+[06716.082]
+A thing that cannot be given, even by the power of God...
+
+[06716.083]
+Fortuna
+
+[06716.084]
+{NAME:02 00 00 00}... Do you understand what those words mean?
+
+[06716.085]
+Fortuna
+
+[06716.086]
+You are denying your own existence.
+
+[06716.088]
+No, that is not so. There was a meaning to my being born.
+
+[06716.090]
+It is... that I met {NAME:01 00 00 00}.
+
+[06716.092]
+With {NAME:01 00 00 00} I worried, I suffered, and... I found happiness.
+
+[06716.094]
+Yes, for I was born to meet {NAME:01 00 00 00}...
+
+[06716.096]
+{NAME:02 00 00 00}...
+
+[06716.098]
+And that is why I can say it with certainty.
+
+[06716.100]
+...Fortuna. You and I should both pass away. By the hand of mankind...
+
+[06716.101]
+Fortuna
+
+[06716.102]
+What folly...!
+
+[06716.103]
+Fortuna
+
+[06716.104]
+You say you would leave this world to the people!?
+
+[06716.105]
+Fortuna
+
+[06716.106]
+To mankind, so small and fleeting, with no power at all to make itself happy...!
+
+[06716.108]
+Seen from where you are, we may be tiny things.
+
+[06716.110]
+But we can walk on. Without anyone's help, we can carve out our own history.
+
+[06716.112]
+So...
+
+[06716.114]
+We don't need a god any more!
+
+[06716.116]
+That is...
+
+[06716.118]
+Yes. The Lens that is the core of Fortuna, the god. And...
+
+[06716.120]
+The thing that you must break.
+
+[06716.122]
+........
+................
+
+[06716.123]
+Have a safe journey.
+
+[06716.124]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06716.125]
+Will you stay the night?
+
+[06716.127]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06716.128]
+Please rest well.
+
+[06716.129]
+Good morning.
+
+[06716.130]
+You do not have enough money.
+
+[06716.131]
+We look forward to seeing you again.
+
+[06716.136]
+Obtained {16:27 26}.
+
+[06716.138]
+Obtained {08:FF FF FF FF}.
+
+[06716.140]
+Found {16:27 2E}, but you can carry no more.
+
+[06716.142]
+There is nothing here.
+

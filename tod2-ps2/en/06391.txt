@@ -1,0 +1,487 @@
+[06391.001]
+Great Temple of Straylize
+
+[06391.002]
+Great Temple of Straylize
+
+[06391.003]
+Straylize Temple
+
+[06391.004]
+Straylize Temple
+
+[06391.006]
+A big, tall grandfather clock. Did some old lady once use it?
+
+[06391.008]
+A crystal with a mysterious glow. It is enormous. How much would it be worth...?
+
+[06391.010]
+This is the chapel.
+
+[06391.012]
+This is... the Great Temple of Straylize in the future...?
+
+[06391.013]
+Soldier
+
+[06391.014]
+Hey, you there!
+
+[06391.015]
+Soldier
+
+[06391.016]
+What are you doing in a place like this!?
+
+[06391.018]
+Ah, um, we're...
+
+[06391.020]
+Where is Elraine?
+
+[06391.021]
+Soldier
+
+[06391.022]
+And who are you?
+
+[06391.023]
+Soldier
+
+[06391.024]
+H-hey! That pendant!
+
+[06391.025]
+Soldier
+
+[06391.026]
+Could it be, th-the Saint...!?
+
+[06391.027]
+Soldier
+
+[06391.028]
+Lady Elraine is not here.
+
+[06391.030]
+Then where is she?
+
+[06391.031]
+Soldier
+
+[06391.032]
+Well, that is... we were told to reveal her destination to no one.
+
+[06391.034]
+This matter is urgent. Answer me. Where is Elraine?
+
+[06391.035]
+Soldier
+
+[06391.036]
+........C-Calviola.
+
+[06391.038]
+Calviola... that's the place near {NAME:05 00 00 00}'s village where the giant Lens was.
+
+[06391.040]
+Whatever she is plotting... in any case, we had better hurry.
+
+[06391.042]
+Yeah, I know. Let's go, to Calviola!
+
+[06391.043]
+Priest
+
+[06391.044]
+Hm? Today should not be a day of worship...
+
+[06391.046]
+But that girl is in here...!
+
+[06391.048]
+Ha ha... Just a little mix-up. Thanks, thanks~.
+
+[06391.049]
+Priest
+
+[06391.050]
+Honestly, what a nuisance... And after Lady Elraine instructed us to cancel worship.
+
+[06391.051]
+Priest
+
+[06391.052]
+It seems intruders broke into the Great Temple and Philia was attacked.
+
+[06391.053]
+Priest
+
+[06391.054]
+But to make an enemy of the temple... That is what they mean by an act that fears not even God.
+
+[06391.055]
+Priest
+
+[06391.056]
+Hm? By the way, who are you people, and where are you from?
+
+[06391.057]
+Priest
+
+[06391.058]
+Oh, how unusual to find you in a place like this.
+
+[06391.060]
+Does this person know you, {NAME:02 00 00 00}?
+
+[06391.062]
+He must be mistaking me for someone else... Let's go, {NAME:01 00 00 00}.
+
+[06391.063]
+Priest
+
+[06391.064]
+Please, take your time and make yourself comfortable.
+
+[06391.065]
+Priest
+
+[06391.066]
+So even I, a priest, may not attend the Rite of Descent...
+
+[06391.067]
+Priest
+
+[06391.068]
+Ugh... Being told that only makes me want to see it more.
+
+[06391.069]
+Priest
+
+[06391.070]
+But that girl who was allowed through to it... who on earth is she?
+
+[06391.071]
+Priest
+
+[06391.072]
+What is it!? What's the commotion? Has God descended at last?
+
+[06391.074]
+Heh. Like we'd let that happen so easily!
+
+[06391.075]
+Priest
+
+[06391.076]
+Where on earth has Lady Elraine gone!? What became of the ceremony?
+
+[06391.077]
+Priest
+
+[06391.078]
+According to Lady Elraine, the day the world is led to happiness is not far off.
+
+[06391.080]
+Good grief... These people really seem to have been told nothing.
+
+[06391.081]
+Priest
+
+[06391.082]
+According to Lady Elraine, the day the world is led to happiness is not far off.
+
+[06391.084]
+What Elraine will lead is only this world... Humanity isn't included in it!
+
+[06391.085]
+Priest
+
+[06391.086]
+I hope the whole world is soon wrapped in happiness.
+
+[06391.087]
+Priest
+
+[06391.088]
+What is the matter? Do you have something to ask of God?
+
+[06391.090]
+Something to ask? If I said "introduce me to a girl", I'd probably get struck down...
+
+[06391.091]
+Priest
+
+[06391.092]
+If you strive without giving up on anything, God will surely lend you aid.
+
+[06391.093]
+Cleric
+
+[06391.094]
+Today should not be a day of worship... Is this not, as they say, what is known as breaking the rules?
+
+[06391.096]
+Huh! Ah... no, well...
+
+[06391.097]
+Cleric
+
+[06391.098]
+I understand the wish to worship even at the cost of breaking the rules, but please be careful from now on.
+
+[06391.099]
+Cleric
+
+[06391.100]
+You are, as they say, what is known as devout believers.
+
+[06391.101]
+Cleric
+
+[06391.102]
+They say someone has broken in! What is generally known as "intruders"!
+
+[06391.104]
+Looks like we'd better scram before we're misunderstood.
+
+[06391.105]
+Cleric
+
+[06391.106]
+Is this not, as they say, what is known as a "dangerous situation"?
+
+[06391.107]
+Cleric
+
+[06391.108]
+It is always outsiders who bring strife into Aigrette.
+
+[06391.109]
+Cleric
+
+[06391.110]
+If the whole world became like Aigrette, I think strife would vanish...
+
+[06391.112]
+Hmph! Mind your own business.
+
+[06391.113]
+Cleric
+
+[06391.114]
+People must be happy. Why can the people of the outside world not understand that?
+
+[06391.115]
+Cleric
+
+[06391.116]
+"Two young maidens alone in a closed room" ...Hah! No, I was not imagining anything indecent...
+
+[06391.117]
+Cleric
+
+[06391.118]
+Th-this is what is generally known as a "misunderstanding"!
+
+[06391.120]
+Forget this guy, let's try somewhere else!
+
+[06391.121]
+Cleric
+
+[06391.122]
+Aah! What a shameless thing for me to...
+
+[06391.123]
+Cleric
+
+[06391.124]
+What is that commotion outside! Could this be what is known as the "end of the world"?
+
+[06391.125]
+Cleric
+
+[06391.126]
+Hauu~. To think last night's snack-pilfering would bring down such punishment...
+
+[06391.127]
+Cleric
+
+[06391.128]
+Were even my indecent imaginings just now plain to Atamoni~!!
+
+[06391.129]
+Cleric
+
+[06391.130]
+What is commonly called a "happy ending" is about to arrive, you see.
+
+[06391.132]
+Happy ending, my foot. She's just trying to end things the way that suits her.
+
+[06391.134]
+I can't let it end like this... This world... the history of {NAME:01 00 00 00} and the others...
+
+[06391.135]
+Cleric
+
+[06391.136]
+What is a "happy world" like, generally speaking, I wonder?
+
+[06391.137]
+Cleric
+
+[06391.138]
+Every time I see everyone's smiles, fresh energy wells up in me.
+
+[06391.139]
+Cleric
+
+[06391.140]
+What is known as a sense of fulfillment is coursing through my body, you see.
+
+[06391.141]
+Cleric
+
+[06391.142]
+May days filled with a "sense of fulfillment" come to you as well.
+
+[06391.143]
+Cleric
+
+[06391.144]
+Oh? Today should not be a day of worship... Which means...
+
+[06391.146]
+Gulp!
+
+[06391.147]
+Cleric
+
+[06391.148]
+You are here on a tour! Did you come to become clerics? Or to become knights?
+
+[06391.149]
+Cleric
+
+[06391.150]
+Let us join forces and build a happy world together~♪
+
+[06391.151]
+Cleric
+
+[06391.152]
+Whatever shall we do! It seems some bad people have graciously broken in!
+
+[06391.154]
+"Graciously broken in"...
+
+[06391.155]
+Cleric
+
+[06391.156]
+But they are human too. If we talk, I'm sure they'll understand! Yes, yes!
+
+[06391.157]
+Cleric
+
+[06391.158]
+Even bad people do bad things because they want to be happy~.
+
+[06391.159]
+Cleric
+
+[06391.160]
+Since Fortuna descended, the world has been ever so peaceful.
+
+[06391.161]
+Cleric
+
+[06391.162]
+I'd like to have a talk with Fortuna too~♪
+
+[06391.163]
+Cleric
+
+[06391.164]
+It has been noisy outside for a while now. Has something happened~?
+
+[06391.166]
+Aah! Come on, we're in a hurry, let go of me~.
+
+[06391.167]
+Cleric
+
+[06391.168]
+The happy world Lady Elraine speaks of... what sort of world can it be?
+
+[06391.169]
+Cleric
+
+[06391.170]
+A world where everyone can live smiling, surely.
+
+[06391.171]
+Cleric
+
+[06391.172]
+They say that when the ceremony is over, the world will be wrapped in happiness~.
+
+[06391.173]
+Cleric
+
+[06391.174]
+Things are still hard now, but if we all pull together and do our best, it will become a happy world.
+
+[06391.175]
+Cleric
+
+[06391.176]
+After all, everyone shares the same wish to "be happy"~♪
+
+[06391.177]
+Cleric
+
+[06391.178]
+Those who wish to "be happy" will surely be able to join forces~.
+
+[06391.179]
+Have a safe journey.
+
+[06391.180]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06391.181]
+Will you stay the night?
+
+[06391.183]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06391.184]
+Please rest well.
+
+[06391.185]
+Good morning.
+
+[06391.186]
+You do not have enough money.
+
+[06391.187]
+We look forward to seeing you again.
+
+[06391.192]
+Obtained {16:25 BA}.
+
+[06391.194]
+Obtained {08:FF FF FF FF}.
+
+[06391.196]
+Found {16:25 C2}, but you can carry no more.
+
+[06391.198]
+There is nothing here.
+

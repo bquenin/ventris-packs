@@ -1,0 +1,30 @@
+[00628.001]
+Oh yes. Just to be sure: don't go blabbing that you "came from the future".
+
+[00628.002]
+We know. You don't want to be told the answer before you've worked it out, right?
+
+[00628.003]
+Not only that. Tell anyone but {NAME:06 00 00 00} and those who doubt will think you mad, and those who believe may try to misuse it.
+
+[00628.004]
+Misuse it?
+
+[00628.005]
+Knowing the future, one could use it to turn the war around. One could rewrite history at will.
+
+[00628.006]
+Exactly. For someone in a funny mask, you talk a lot of sense.
+
+[00628.007]
+...Hmph. But there is no need to worry. Who would believe the words of fools like these? Only a "true oddity" like you, {NAME:06 00 00 00}, would believe them.
+
+[00628.008]
+Hm. Well, that's true. Only a genius like me could grasp it. But you think things through, don't you. Not as well as me, but not bad. Does that mask have some meaning too?
+
+[00628.009]
+Gh, leave the mask out of this!
+
+[00628.010]
+Ooh, {NAME:04 00 00 00} getting the worst of it... That's new...
+

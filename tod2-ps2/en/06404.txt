@@ -1,0 +1,627 @@
+[06404.001]
+Lienea Village: Lilith's House
+
+[06404.002]
+Lienea Village: Lilith's House
+
+[06404.003]
+Lilith's House
+
+[06404.005]
+Obtained {08:B7 01 00 00}.
+
+[06404.007]
+Books were tucked away along with the seasonings.
+
+[06404.009]
+"The Road to Gourmet Master", "How to Enter the Bistro Chambard", "Mastering the Frying Pan"
+
+[06404.010]
+Peeping Hero
+
+[06404.011]
+Heh. It seems I've been found out.
+
+[06404.012]
+Peeping Hero
+
+[06404.013]
+Twenty-odd years of peeping at the bath at little Lilith's house...
+
+[06404.014]
+Peeping Hero
+
+[06404.015]
+Undaunted by rain, wind or snow... the hero who simply went on peeping at the bath. That is me.
+
+[06404.016]
+Peeping Hero
+
+[06404.017]
+Hah...!?
+
+[06404.018]
+Peeping Hero
+
+[06404.019]
+Wait! I was wrong! I'll stop, so anything but the Thunder Sword, have mercy!
+
+[06404.020]
+Peeping Hero
+
+[06404.021]
+S-stop! Geh! H-help... gah!
+
+[06404.023]
+Farewell... Peeping Hero...
+
+[06404.025]
+The Peeping Hero is nowhere to be seen. He must have departed for a faraway world.
+
+[06404.027]
+It's mabo curry!
+
+[06404.029]
+S-so good!
+
+[06404.031]
+{NAME:01 00 00 00} earned the title "{08:70 08 00 00}".
+
+[06404.033]
+Children's clothes are inside.
+
+[06404.035]
+{NAME:02 00 00 00}...
+
+[06404.037]
+{NAME:02 00 00 00} went outside a little while ago. Go and call her, {NAME:01 00 00 00}.
+
+[06404.039]
+She cannot be fully recovered yet. I told her not to go wandering off.
+
+[06404.040]
+Lilith
+
+[06404.041]
+Since you're here, why not ask everyone in the village all sorts of things? I'm sure you'll hear some interesting stories.
+
+[06404.042]
+Lilith
+
+[06404.043]
+Go and call that girl quickly, would you? Otherwise the breakfast I made will go cold.
+
+[06404.044]
+Lilith
+
+[06404.045]
+When you're tired, when you're troubled, and when things are hard or painful... come again.
+
+[06404.046]
+Lilith
+
+[06404.047]
+I'll always be here.
+
+[06404.049]
+Thank you, Aunt Lilith.
+
+[06404.050]
+Lilith
+
+[06404.051]
+Whenever you're tired or troubled, come anytime. I'll always be here.
+
+[06404.052]
+Lilith
+
+[06404.053]
+{NAME:01 00 00 00}, welco... ...What's wrong?
+
+[06404.055]
+...No, it's... nothing.
+
+[06404.056]
+Lilith
+
+[06404.057]
+It can't be nothing, can it? For you to come here, it must be something serious.
+
+[06404.058]
+Lilith
+
+[06404.059]
+As for what happened... you don't seem inclined to tell me.
+
+[06404.061]
+...Sorry, Aunt Lilith.
+
+[06404.062]
+Lilith
+
+[06404.063]
+There's nothing to apologize for. Only... relying on someone when things are hard is not a bad thing.
+
+[06404.064]
+Lilith
+
+[06404.065]
+You have someone very dependable close at hand, don't you? A hero who saved the world, and your mother.
+
+[06404.066]
+Lilith
+
+[06404.067]
+When it hurts, it's all right to lean on someone. So tell her. Tell Rutee everything.
+
+[06404.068]
+Lilith
+
+[06404.069]
+{NAME:01 00 00 00}, welcome! What brings this on? You, coming here.
+
+[06404.071]
+Oh, no reason. I just wanted to see your face, Aunt Lilith.
+
+[06404.072]
+Lilith
+
+[06404.073]
+What a nice thing to say. ...But.
+
+[06404.074]
+Lilith
+
+[06404.075]
+{NAME:01 00 00 00}, you've changed a great deal.
+
+[06404.076]
+Lilith
+
+[06404.077]
+{NAME:01 00 00 00}... you've changed a great deal.
+
+[06404.078]
+Lilith
+
+[06404.079]
+Not much time has passed since you were last here, and yet it's as if you've been on a very great adventure.
+
+[06404.080]
+Lilith
+
+[06404.081]
+Yes, just... like my brother.
+
+[06404.083]
+Dad?
+
+[06404.084]
+Lilith
+
+[06404.085]
+It's not only that you're father and son. I sense something very large, in you yourself.
+
+[06404.086]
+Lilith
+
+[06404.087]
+{NAME:01 00 00 00}, come and visit anytime.
+
+[06404.088]
+Lilith
+
+[06404.089]
+And that goes for all of you. Don't stand on ceremony. Come anytime.
+
+[06404.090]
+Lilith
+
+[06404.091]
+{NAME:01 00 00 00}... You're {NAME:01 00 00 00}! It's been so long!
+
+[06404.093]
+It's been a long time, Aunt Lilith!
+
+[06404.094]
+Lilith
+
+[06404.095]
+Not since I went to visit my brother... so, ten years already?
+
+[06404.096]
+Lilith
+
+[06404.097]
+You've grown so big... I was quite startled!
+
+[06404.098]
+Lilith
+
+[06404.099]
+Are you on a journey now? A journey to become a hero, I suppose?
+
+[06404.101]
+No, that's not it. It's a journey to find "something irreplaceable"!
+
+[06404.102]
+Lilith
+
+[06404.103]
+My brother said that, didn't he? Honestly, he hasn't changed... So, do you think you'll find it?
+
+[06404.105]
+That's... heh heh. No idea.
+
+[06404.106]
+Lilith
+
+[06404.107]
+Then here's a piece of advice from me for finding "something irreplaceable"!
+
+[06404.108]
+Lilith
+
+[06404.109]
+Listen, {NAME:01 00 00 00}. When you're stuck, go back to where you began.
+
+[06404.110]
+Lilith
+
+[06404.111]
+The reason you wanted to set out. The feeling in your own heart. What drives you...
+
+[06404.112]
+Lilith
+
+[06404.113]
+I think "something irreplaceable" lies where that points.
+
+[06404.115]
+What drives me...
+
+[06404.116]
+Lilith
+
+[06404.117]
+Finding what you're looking for may be hard... but do your best, {NAME:01 00 00 00}!
+
+[06404.119]
+Yeah! I'll find it, I promise! That's my promise to Dad...
+
+[06404.121]
+...No, not only Dad. An important promise to someone... That's how it feels.
+
+[06404.122]
+Lilith
+
+[06404.123]
+Finding what you're looking for may be hard... but do your best, {NAME:01 00 00 00}!
+
+[06404.124]
+Lilith
+
+[06404.125]
+Lilith
+
+[06404.127]
+...And so that's how we ended up coming here.
+
+[06404.128]
+Lilith
+
+[06404.129]
+I see... That must have been hard, {NAME:01 00 00 00}. And for all of you.
+
+[06404.131]
+Oh, it was nothing for us. More to the point, with us barging in all of a sudden, I figure it's harder on you, Lilith.
+
+[06404.132]
+Lilith
+
+[06404.133]
+Oh, that's fine. As you can see, there's nothing at all in this village, is there?
+
+[06404.134]
+Lilith
+
+[06404.135]
+A little upset like this now and then is just about right.
+
+[06404.136]
+Lilith
+
+[06404.137]
+Well, my brother couldn't bear it and left, mind you.
+
+[06404.139]
+Aunt Lilith, can I ask you something? It's, um... about Dad.
+
+[06404.140]
+Lilith
+
+[06404.141]
+I know. You want to know what he was like when he was little, don't you?
+
+[06404.142]
+Lilith
+
+[06404.143]
+Let me see... Above all, he was a sleepyhead. I was the one who woke him, so every day was, oh, such a job.
+
+[06404.144]
+Lilith
+
+[06404.145]
+Shouting at the top of my voice, pulling off his blanket, pinching his cheeks... And you know, even then he wouldn't wake up.
+
+[06404.146]
+Lilith
+
+[06404.147]
+So in the end I'd fetch the frying pan and beat it wildly with a ladle. "Secret Art: Awakening of the Dead!!", you see.
+
+[06404.149]
+...
+......
+
+[06404.150]
+Lilith
+
+[06404.151]
+Apart from that, he was a perfectly ordinary child. Even his dreams were surprisingly small. He used to say he wanted to be a soldier at the castle.
+
+[06404.153]
+Huh!? He didn't say he wanted to be a hero!?
+
+[06404.154]
+Lilith
+
+[06404.155]
+No, not in the leee~ast. To hear him tell it, before he knew it he'd saved the world from crisis.
+
+[06404.156]
+Lilith
+
+[06404.157]
+Hm hm! "Before he knew it", mind you. People would surely be disappointed to hear that.
+
+[06404.158]
+Lilith
+
+[06404.159]
+But I think it's just like my brother, and I like that.
+
+[06404.161]
+I see, so that's how it was...
+
+[06404.162]
+Lilith
+
+[06404.163]
+Since you're here, why not ask everyone in the village all sorts of things? I'm sure you'll hear some interesting stories.
+
+[06404.165]
+But {NAME:02 00 00 00}...
+
+[06404.166]
+Lilith
+
+[06404.167]
+Don't worry about her. I'll look after her properly. Now, off you go!
+
+[06404.168]
+Lilith
+
+[06404.169]
+Oh, welcome back. How was it? Did hearing everyone's stories tell you a little about my brother?
+
+[06404.171]
+Hmm... I found out he's pretty different from what I imagined.
+
+[06404.173]
+He got into fights and played pranks. He slipped up and he got down in the dumps. He was the same as I am now.
+
+[06404.174]
+Lilith
+
+[06404.175]
+Rutee told me long ago that you're aiming to be a hero too.
+
+[06404.176]
+Lilith
+
+[06404.177]
+If that brother of mine could do it, I'm sure you can become a fine hero too. Do your best, {NAME:01 00 00 00}.
+
+[06404.178]
+Lilith
+
+[06404.179]
+You must be tired today. Why not stay the night here?
+
+[06404.181]
+　Rest now　
+　Not yet　
+
+[06404.182]
+Lilith
+
+[06404.183]
+Then I'll get the beds ready right away.
+
+[06404.184]
+Lilith
+
+[06404.185]
+All right. Come back before it gets too late.
+
+[06404.187]
+Good morning, Lilith.
+
+[06404.188]
+Lilith
+
+[06404.189]
+Oh, good morning. You're all up very early.
+
+[06404.191]
+With one exception.
+
+[06404.193]
+Hey~! {NAME:01 00 00 00}! Get up! G-e-t u-p!!
+
+[06404.194]
+Lilith
+
+[06404.195]
+Sigh... So he takes after my brother even in this.
+
+[06404.196]
+Lilith
+
+[06404.197]
+Nothing for it. Time to do that for the first time in ages!
+
+[06404.199]
+Lilith, you don't mean...
+
+[06404.200]
+Lilith
+
+[06404.201]
+Oh, please cover your ears.
+
+[06404.202]
+Lilith
+
+[06404.203]
+Here I go... Secret Art, "Awakening of the Dead"!
+
+[06404.205]
+Funya... morning...
+
+[06404.207]
+...Huh? Somehow, Mom... seems... mumble mumble...
+
+[06404.208]
+Lilith
+
+[06404.209]
+Yes, yes, never mind, up you get, {NAME:01 00 00 00}. Let's have breakfast.
+
+[06404.211]
+...Okaay........
+
+[06404.213]
+...Th-that's the original for you. I'm sure I covered them tight, but my ears are ringing...
+
+[06404.215]
+...Huh? Where's {NAME:02 00 00 00}?
+
+[06404.217]
+She said she had something to think over and went outside.
+
+[06404.219]
+Come to think of it, she's been a while... You go and call her. When she's back, we'll have breakfast.
+
+[06404.221]
+Right, once we've eaten breakfast, we're off! Aunt Lilith~, food!
+
+[06404.222]
+Lilith
+
+[06404.223]
+Perking up at mealtimes is just like my brother too.
+
+[06404.224]
+Lilith
+
+[06404.225]
+It's all ready. Eat it before it gets cold.
+
+[06404.227]
+Aunt Lilith! Thanks for everything! The food was delicious!
+
+[06404.228]
+Lilith
+
+[06404.229]
+Leaving already? You could stay a while.
+
+[06404.231]
+I'll come again someday, I promise. Next time I'll bring Dad and Mom!
+
+[06404.232]
+Lilith
+
+[06404.233]
+Yes, I'll look forward to that day. Oh, that's right! Before you go...
+
+[06404.234]
+Lilith
+
+[06404.235]
+Here, take this with you. My brother used it too. It's the choice of heroes.
+
+[06404.237]
+Obtained {08:FF FF FF FF}.
+
+[06404.239]
+And on top of that, received a heap of fresh vegetables grown in Lienea.
+
+[06404.240]
+Lilith
+
+[06404.241]
+Take care, {NAME:01 00 00 00}. Come and visit again. You're welcome anytime!
+
+[06404.243]
+I'll come again, for sure! You take care too, Aunt Lilith!!
+
+[06404.245]
+"Refine" can now be carried out.
+
+[06404.247]
+Refine is a command that can change a selected item into a different item, or combine weapons, armor and the like.
+
+[06404.249]
+Note that carrying out Refine uses up a {08:12 00 00 00} and Lenses. A {08:12 00 00 00} can be bought in towns, so try all sorts of things.
+
+[06404.250]
+Have a safe journey.
+
+[06404.251]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06404.252]
+Will you stay the night?
+
+[06404.254]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06404.255]
+Please rest well.
+
+[06404.256]
+Good morning.
+
+[06404.257]
+You do not have enough money.
+
+[06404.258]
+We look forward to seeing you again.
+
+[06404.263]
+Obtained {16:25 CE}.
+
+[06404.265]
+Obtained {08:FF FF FF FF}.
+
+[06404.267]
+Found {16:25 D6}, but you can carry no more.
+
+[06404.269]
+There is nothing here.
+

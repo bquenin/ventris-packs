@@ -1,0 +1,609 @@
+[17.000]
+Inn "Euclid Inn"
+
+[17.001]
+Arms Shop "Holy Knight"
+
+[17.002]
+Euclid Castle
+
+[17.003]
+Euclid National Academy of Science
+
+[17.004]
+Eatery "Ajiou"
+
+[17.005]
+Item Shop "Hokkamuri"
+
+[17.006]
+　Uncle Olson's House
+
+[17.007]
+　Uncle Olson's House
+
+[17.008]
+Fruit Shop "Marion"
+
+[17.009]
+General Store "Tenbu"
+
+[17.010]
+General Store "Tenbu"
+
+[17.011]
+"Let's take a look inside the oven."
+
+[17.012]
+"Wh-what the...!?"
+
+[17.013]
+Harrison
+"It seems you are now able to summon Volt."{PAGE}
+{クラース}
+"Yes. I'll try it straight away."
+
+[17.014]
+{クラース}
+"Volt, lend me your power. I want you to pour it into the flying machines around us."{PAGE}
+Volt
+"Q■★3&JW&▲G?◎(&%◆0%○5T."{PAGE}
+{クレス}
+"{クラース}, is this all right?"{PAGE}
+{クラース}
+"P-probably... {アーチェ}, let's do your broom while we're at it."{PAGE}
+{アーチェ}
+"Okay."
+
+[17.015]
+Stanley
+"Right, that should do it. All that's left is to use this."
+
+[17.016]
+{クラース}
+"What is that?"{PAGE}
+Stanley
+"Just watch."
+
+[17.017]
+{チェスター}
+"The Rheaird got sucked in...!?"{PAGE}
+{ミント}
+"What is that capsule?"{PAGE}
+Stanley
+"This is called a {STR:5A0D}. It's an item that can hold a Rheaird inside it.
+With this you can put the Rheaird away and carry it around. Take it with you."{PAGE}
+
+
+[17.018]
+{COLOR:03}Received {STR:5A0D}.{COLOR:02}{PAGE}
+{クレス}
+"Thank you very much."{PAGE}
+Harrison
+"I'll go on ahead to Alvanista by Rheaird. I want to tell the king about you as soon as I possibly can."{PAGE}
+
+
+[17.019]
+Stanley
+"You had better take a {STR:5A0D} too."{PAGE}
+Harrison
+"Thank you."{PAGE}
+
+
+[17.020]
+Then, everyone, please come as soon as you can.
+
+[17.021]
+Stanley
+"Now let me explain the controls. The Rheaird is a small flying craft fitted with the latest control gear and balancer.
+The rider only has to press the right button and it does as it's told."{PAGE}
+
+
+[17.022]
+The red button speeds up, the yellow button lands, and you can land right inside a town. You can't land on obstacles or the sea, of course.
+Watch the shadow to see where you'll come down. Left and right on the control pad turn you, up and down climb and dive. Hold the green button and use the control pad for small moves.
+And the red button takes off. Taking off inside a town is dangerous, so you can't.{PAGE}
+Shall I go over it once more?
+
+[17.023]
+{ミント}
+"Thank you so very much."{PAGE}
+Stanley
+"If it breaks down, come by any time. Not that I expect it will."{PAGE}
+{クレス}
+"Right, then let's go to Alvanista!!"
+
+[17.024]
+"Mama, let's go and see the juggler, quick!"
+
+[17.025]
+"They say travelling performers are coming to town soon.
+I can't wait."
+
+[17.026]
+"If I'm going outside I must watch out for the sun..."
+
+[17.027]
+"Don't just walk into people's houses!"{PAGE}
+{クレス}
+"Oh, I-I'm sorry..."
+
+[17.028]
+"Welcome! This inn has a history, it's been going for over a hundred years.{PAGE}
+Staying the night, are you?
+That'll be 10 Gald a night."
+
+
+[17.029]
+You haven't got enough money, friend.
+
+[17.030]
+Enjoy your stay!
+
+[17.031]
+"We look forward to seeing you again."
+
+[17.032]
+"Mind out, mind out. I'm cleaning here.{PAGE}
+Me? I work here part time. An inn pays pretty well, you know."
+
+[17.033]
+(Asleep... and with his eyes open, too...)
+
+[17.034]
+Troupe master
+"Hello.
+I'm the master of the travelling troupe 'Jugglanlan'.{PAGE}
+This is a big town and a safe one, so I think we'll earn our keep here for a while."
+
+[17.035]
+"Welcome."
+
+[17.036]
+"Now then... what shall I make for dinner tonight...?"
+
+[17.037]
+"Here's a bit of gossip.{PAGE}
+They say a man has broken away from Euclid's Independent Knights and taken several of his men with him.{PAGE}
+It's only a rumour, mind."
+
+[17.038]
+"This city wants for nothing, so it's a good place to live.{PAGE}
+Long ago it was a wasteland with nothing in it at all."
+
+[17.039]
+Boy
+"I can't eat any more..."
+
+[17.040]
+Boy
+"I want an apple."{PAGE}
+{COLOR:03}Buy him an apple?{COLOR:02}
+
+
+[17.041]
+{クレス}
+"Sorry. I haven't any money just now."{PAGE}
+Boy
+"Stingy!"
+
+[17.042]
+Boy
+"Thank you!"
+
+[17.043]
+{クレス}
+"Just how many does he mean to eat...?"
+
+[17.044]
+Boy
+"Stiiingy!"
+
+[17.045]
+"I'm hungry. Now, what shall I have?"
+
+[17.046]
+"Tonight I'm drinking!!!"
+
+
+[17.047]
+"Welcooome."
+
+[17.048]
+"Thanks very much."
+
+[17.049]
+{クレス}
+"Um, excuse me."{PAGE}
+"..."{PAGE}
+{クレス}
+"Ex-cuse-me!!"
+
+[17.050]
+"I-I'm sorry. I was just so bored..."
+
+[17.051]
+"Welcome."
+
+[17.052]
+Thank you. Come again.
+
+[17.053]
+Owner
+"Oh, I'm at my wits' end.
+It seems my bushbaby has been up to mischief again.
+It would be cruel to put a collar on it, but I have to do something..."{PAGE}
+
+
+[17.054]
+"Welcome. What will it be?"
+
+[17.055]
+"Thank you."
+
+[17.056]
+"Welcome. Please pay at the back."
+
+[17.057]
+Olson
+"{クレス}, you must be tired. Go and rest now."{PAGE}
+{COLOR:03}Rest?{COLOR:02}
+
+[17.058]
+Don't say that. Go and rest now.{PAGE}
+{COLOR:03}Rest?{COLOR:02}
+
+[17.059]
+Olson
+"I see... Don't push yourself too hard."
+
+[17.060]
+Joan
+"{クレス}, keep your spirits up."
+
+[17.061]
+"Yes, welcome."
+
+[17.062]
+"Thank you very much."
+
+[17.063]
+"All clear!"
+
+[17.064]
+"This is no place for you. What? The Independent Knights?
+Ah, er, as far as I know...
+the one who took over as captain after Sir Miguel was Sir Mars. He too wields a mighty sword, every bit Sir Miguel's equal, but nobody has seen him lately. They say he is ill in bed, so I suppose he is at home...{PAGE}
+His home? It's in the northeast of town."
+
+[17.065]
+"Please, go right in. Registration for the martial arts tournament is inside."
+
+[17.066]
+"No entry here!{PAGE}
+What? Why is the bridge to Lone Island down? There was a big earthquake about a month ago. Nobody knows when it will be repaired."
+
+[17.067]
+"My dog's really, really clever. He can even sing."{PAGE}
+{COLOR:03}Listen to the song?{COLOR:02}
+
+[17.068]
+It's true, I tell you!
+
+[17.069]
+Music, start!!{PAGE}
+
+
+[17.070]
+"Well? Isn't he amazing?"
+
+[17.071]
+"He's saying 'Aww, done already?'"
+
+[17.072]
+"Are you entering the tournament too?"
+
+[17.073]
+"I hear some really strong people gather for the tournament."
+
+[17.074]
+"What shall I do? Shall I enter? But it looks as if it would hurt."
+
+[17.075]
+"He can never make up his mind, this one..."
+
+[17.076]
+"Say, you haven't seen my husband, have you? To disappear at a time like this, when we're run off our feet!"{PAGE}
+
+
+[17.077]
+{COLOR:03}Tell her?{COLOR:02}
+
+[17.078]
+{クレス}
+"He was outside. Behind the inn."{PAGE}
+"Really!? Thanks!"
+
+[17.079]
+Honestly...
+
+[17.080]
+"We are
+
+[17.081]
+"triplets,
+
+[17.082]
+"you see!"
+
+[17.083]
+"I'll flatten them with my super special move! It's good for 30 HITS!!{PAGE}
+I-I was only joking..."
+
+[17.084]
+"They say you can use weapons in the martial arts tournament. But not magic."
+
+[17.085]
+"When it comes to the finishing blow, a wild flurry is the only way."
+
+[17.086]
+"If you can cancel out of a guard you get even more of an edge... but that's no use here, is it?"
+
+[17.087]
+"I hear something terrible is going on in Venezia. Not that the town is gone or anything."
+
+[17.088]
+"This laboratory is run by the state. So please keep its secrets as far as you can."
+
+[17.089]
+"Please come in. We have been told about you."
+
+[17.090]
+"Authorised persons only beyond this point."
+
+[17.091]
+"I'd like to try flying too."
+
+[17.092]
+"Please come in. We have been told about you."
+
+[17.093]
+"Authorised persons only beyond this point."
+
+[17.094]
+"Would you care for some coffee?"
+
+[17.095]
+"We are the researchers who work in this laboratory. I suppose that makes us civil servants? It is run by the state, after all."
+
+[17.096]
+"I am studying the smallest unit of matter. If you keep dividing a thing more and more finely, how far can you go?"
+
+[17.097]
+"The devices in Volt's cave are said to have been made by the ancients. Could they too come from the civilisation of Thor?{PAGE}
+What? Oh, the cave where the spirit Volt is said to live. It's southwest of the town of Miguel."
+
+[17.098]
+"I should like to study the civilisation of Thor one day."
+
+[17.099]
+"We have taken up the magitech of Midgards and carry on its study.{PAGE}
+You don't know? The Kingdom of Midgards was destroyed by Dhaos. Nothing is left of it now but ruins."
+
+[17.100]
+"I am studying light. What sort of thing is light? And how fast is it?"
+
+[17.101]
+"Magnetism was found by chance while studying electricity. The Rheaird flies by pushing that magnetism against the magnetism of the earth.{PAGE}
+Lately we've found that a witch's broom works on the same principle."
+
+[17.102]
+"We used to study engines that burn oil here too, but being underground, the smoke was terrible. You mustn't foul the air."
+
+[17.103]
+"I am building a machine that stores sound by means of magnetism."
+
+[17.104]
+Stanley
+"Next I might look into a Rheaird that can carry a lot more people."
+
+[17.105]
+Stanley
+"Have you found the spirit Volt?"
+
+[17.106]
+Harrison
+"Volt is said to be in the cave southwest of Miguel.{PAGE}
+Please be as quick as you can. We are running out of time..."
+
+[17.107]
+"This is the bedroom. In this line of work a lot of us stay up all night, you see."
+
+[17.108]
+Mars's wife
+"Where can my husband... have gone...?"
+
+[17.109]
+{クレス}
+"Could you be Mars's..."{PAGE}
+Mars's wife
+"Yes... I am Mars's wife. Do you perhaps know where my husband is!?"{PAGE}
+{クレス}
+"Oh, no. A soldier at Euclid Castle told me to come here. My father Miguel used to be captain of the Independent Knights, and I heard Mars took over from him, so I came."{PAGE}
+Mars's wife
+"You came all this way... But my husband is, well... missing."{PAGE}
+{クレス}
+"Missing?"{PAGE}
+Mars's wife
+"It must be about three months ago. He put on his armour in the middle of the night, went out, and never came back...
+I took it for granted it was his work, but he has not been to the castle either, and so it has gone on..."{PAGE}
+{クレス}
+"I see..."
+
+[17.110]
+"Good day..."
+
+[17.111]
+"Ahh, I'd like to make a killing in business too.{PAGE}
+An old friend of mine made it big importing and exporting trade goods. He's worked his way up to director by now."
+
+[17.112]
+{クレス}
+"Hello!"{PAGE}
+"Uncle, are you home!?"
+
+[17.113]
+Uncle Olson
+"{クレス}!"
+
+[17.114]
+{クレス}
+"Uncle, Aunt, it's been a long time."{PAGE}
+Olson
+"And I'm glad to see you looking well, {クレス}.{PAGE}
+But I've heard an ugly rumour. Is it true that the village of Toltus was attacked?"
+
+[17.115]
+{クレス}
+"It's true.
+Father and Mother are both..."{PAGE}
+Olson
+"I see. So the rumour was true."{PAGE}
+{クレス}
+"Yes..."{PAGE}
+Joan, Olson's wife
+"{クレス}, don't lose heart... You should stay with us for a while."{PAGE}
+{クレス}
+"Thank you. I'm sorry to be a burden."
+
+[17.116]
+
+　　　　That night...
+
+[17.117]
+{クレス}
+"Uncle, what is this!"{PAGE}
+Olson
+"{SPEED:10}...{SPEED:FF}I'm sorry. If I did not do this, not only I but the whole city would go the way of Toltus.
+{SPEED:10}...{SPEED:FF}Forgive me."{PAGE}
+???
+"Now, you will come with us quietly."
+
+[17.118]
+{クレス}
+"Ugh{SPEED:10}...{SPEED:FF}"
+
+[17.119]
+???
+"Get moving!!"
+
+[17.120]
+Olson
+"I'm sorry{SPEED:10}...{SPEED:FF}
+{クレス}{SPEED:10}...{SPEED:FF}"
+
+[17.121]
+Shop assistant
+"Welcome.{PAGE}
+Is something the matter?"{PAGE}
+{クレス}
+"Um... behind you..."{PAGE}
+
+
+[17.122]
+Shop assistant
+"Huh?"
+
+[17.123]
+Shop assistant
+"Oh! It's the general store's pet again!
+How on earth does it get in?"
+
+[17.124]
+Harrison
+"I am an envoy of the Kingdom of Alvanista. I have urgent business. Will you let me through?"{PAGE}
+Guard
+"I am sorry, but only authorised persons may go beyond this point..."{PAGE}
+Harrison
+"Not even on diplomatic privilege?"{PAGE}
+Guard
+"D-diplomatic privilege...!"{PAGE}
+
+
+[17.125]
+Guard
+(Wh-what do we do?){PAGE}
+Guard
+(What can we do? If it's diplomatic privilege, we have no choice...){PAGE}
+
+
+[17.126]
+Guard
+"Very well. Please go through."
+
+[17.127]
+{クラース}
+"And who is this?"{PAGE}
+Harrison
+"This is Stanley, director of the Euclid Academy of Science. He is studying flying machines."{PAGE}
+{クレス}
+"Flying machines?"{PAGE}
+Stanley
+"Let me explain that. Look behind you."
+
+[17.128]
+Stanley
+"That is the 'Rheaird', a craft that carries a rider and flies on magic as its source of energy.
+I say we're studying it, but it's already in use. If it's to help bring down Dhaos, you can have one for nothing.
+But from what Harrison tells me, you need to fly all the way to Alvanista, and the Rheaird can't fly anything like that far."{PAGE}
+
+
+[17.129]
+Harrison
+"You are a magitech engineer of sorts, are you not? Is there no way to raise its output?"{PAGE}
+Stanley
+"There is one, but..."{PAGE}
+
+
+[17.130]
+{クラース}
+"Anything will do. Tell us!"{PAGE}
+Stanley
+"At bottom the Rheaird turns magic into electricity and runs on that. So with the help of Volt, the spirit of thunder, it might just be done, but there's no summoner anywhere around here..."{PAGE}
+
+
+[17.131]
+{クラース}
+"I am a summoner."{PAGE}
+Stanley
+"Huh?"{PAGE}
+{アーチェ}
+"So with that power, could I fly a long way on my broom too?"{PAGE}
+Stanley
+"Eh? Hmm, we're still studying it so I can't say, but they do say a witch's broom flies by turning magic into electrical energy as well. It hasn't been proved, mind."{PAGE}
+{チェスター}
+"I can't make head or tail of this..."{PAGE}
+
+
+[17.132]
+{クレス}
+"Then let's hurry, anyway."{PAGE}
+Stanley
+"Not so fast. You need a ring to make a pact with a spirit, don't you? Take this."{PAGE}
+{クラース}
+"You have a pact ring!?"{PAGE}
+Stanley
+"Yes. Alvanista's survey team found it in the Moria Mine, and I was given it to study."{PAGE}
+{クラース}
+"Are you sure?"{PAGE}
+Stanley
+"Go ahead. I looked into it and couldn't make anything of it."{PAGE}
+
+
+[17.133]
+{COLOR:03}Received {STR:BF0B}.{COLOR:02}{PAGE}
+Stanley
+"Word is that Volt is in the cave southwest of Miguel. It's supposed to be a relic of the far ancient civilisation, with strange devices all over the place, or so they say..."{PAGE}
+{クレス}
+"Thank you. We'll go and see."
+

@@ -1,0 +1,444 @@
+[06413.001]
+Neustadt: Arena
+
+[06413.002]
+Neustadt
+
+[06413.004]
+"The Arena: How to Be Sure of Winning"
+
+[06413.006]
+"What matters most in the arena is staying power. Raise your HP before you go into battle."
+
+[06413.008]
+"A Reverse Doll is a must. Secure as many as you can carry and always fight with one equipped."
+
+[06413.010]
+"While your level is low, make good use of the support effects of Slot equipment. Poisoning the enemy and running around is a perfectly good way to fight."
+
+[06413.012]
+"In the arena, items cannot be used, and about 10 seconds after a battle begins you can no longer change equipment."
+
+[06413.014]
+Mementos are on display. They look like equipment... whose could they be?
+
+[06413.015]
+Entry Girl
+
+[06413.016]
+This is the arena.
+
+[06413.017]
+Will you fight in the arena?
+
+[06413.022]
+{NAME:01 00 00 00} will fight the battle.
+
+[06413.023]
+Please choose a difficulty.
+
+[06413.026]
+Who and who will take part?
+
+[06413.029]
+Who and who will take part?
+
+[06413.032]
+{15:14 86} and {15:24 7E} will enter the tag battle.
+
+[06413.033]
+Who will take part?
+
+[06413.036]
+{15:14 86} will fight the battle.
+
+[06413.038]
+Victory!
+
+[06413.040]
+Single Battle
+
+[06413.041]
+Tag Battle
+
+[06413.042]
+{04:02 00 00 00}Tag Battle{04:07 00 00 00}
+
+[06413.043]
+Challenge Rimul again
+
+[06413.044]
+{04:02 00 00 00}Rimul{04:07 00 00 00}
+
+[06413.045]
+Single Battle: Beginner
+
+[06413.046]
+Single Battle: Intermediate
+
+[06413.047]
+{04:02 00 00 00}Single Battle: Intermediate{04:07 00 00 00}
+
+[06413.048]
+Single Battle: Advanced
+
+[06413.049]
+{04:02 00 00 00}Single Battle: Advanced{04:07 00 00 00}
+
+[06413.050]
+Single Battle: Mania
+
+[06413.051]
+{04:02 00 00 00}Single Battle: Mania{04:07 00 00 00}
+
+[06413.052]
+Tag Battle: Beginner
+
+[06413.053]
+Tag Battle: Intermediate
+
+[06413.054]
+{04:02 00 00 00}Tag Battle: Intermediate{04:07 00 00 00}
+
+[06413.055]
+Tag Battle: Advanced
+
+[06413.056]
+{04:02 00 00 00}Tag Battle: Advanced{04:07 00 00 00}
+
+[06413.057]
+Tag Battle: Mania
+
+[06413.058]
+{04:02 00 00 00}Tag Battle: Mania{04:07 00 00 00}
+
+[06413.059]
+Extra Battle: Beginner
+
+[06413.060]
+Extra Battle: Intermediate
+
+[06413.061]
+Difficulty you cannot enter
+
+[06413.062]
+Extra Battle: Advanced
+
+[06413.063]
+Difficulty you cannot enter
+
+[06413.064]
+Extra Battle: Mania
+
+[06413.065]
+Difficulty you cannot enter
+
+[06413.067]
+??????
+
+[06413.069]
+??????
+
+[06413.071]
+??????
+
+[06413.072]
+Next page
+
+[06413.074]
+??????
+
+[06413.076]
+??????
+
+[06413.078]
+??????
+
+[06413.079]
+Previous page
+
+[06413.081]
+??????
+
+[06413.083]
+??????
+
+[06413.085]
+??????
+
+[06413.087]
+??????
+
+[06413.089]
+??????
+
+[06413.091]
+??????
+
+[06413.092]
+Please come again.
+
+[06413.093]
+There is no such person, though?
+
+[06413.094]
+You are not eligible to enter.
+
+[06413.095]
+Guide Maid
+
+[06413.096]
+Welcome to the arena. Is there anything you'd like to ask?
+
+[06413.098]
+{03:00 00 00 00}　Nothing in particular　
+　About the arena　
+　About the hero of Neustadt　
+
+[06413.099]
+This is where men seeking honor and riches... well, women too, now and then... where people like that come to fight.
+
+[06413.100]
+Battles are run as a tournament. Win three in a row and you can challenge the next class.
+
+[06413.101]
+Win through the Single Battle beginner class and you can enter the Tag Battle.
+
+[06413.102]
+Win the highest class and you earn the title of Champion.
+
+[06413.103]
+There's no champion at present, so... you may have a chance too.
+
+[06413.104]
+Long ago there was a champion here who never lost.
+
+[06413.105]
+His name: Mighty Kongman! Plenty of fans were thrilled by the bold way he knocked down every foe with his bare fists.
+
+[06413.106]
+And what's more! He joined forces with the hero Stahn and brought peace back to the world!
+
+[06413.107]
+I see. Well, if there's anything you don't understand, ask me anything.
+
+[06413.109]
+Congratulations.
+
+[06413.111]
+I did my best for you, {NAME:02 00 00 00}.
+
+[06413.113]
+Nice going!
+
+[06413.115]
+Seeing me in a new light?
+
+[06413.117]
+Not bad.
+
+[06413.119]
+After all that effort, that's all I get?
+
+[06413.121]
+Well done.
+
+[06413.123]
+Thank you.
+
+[06413.125]
+Not bad at all.
+
+[06413.127]
+I guess.
+
+[06413.129]
+You're amazing, {NAME:02 00 00 00}!
+
+[06413.131]
+Because you cheered for me, {NAME:01 00 00 00}...
+
+[06413.133]
+That's quite something.
+
+[06413.135]
+Ehehe, victory, victory♪
+
+[06413.137]
+Is that your power?
+
+[06413.139]
+I can't lose in a place like this.
+
+[06413.141]
+Congratulations, {NAME:02 00 00 00}.
+
+[06413.143]
+Thank you.
+
+[06413.145]
+Your power interests me.
+
+[06413.147]
+Going to take data?
+
+[06413.149]
+That's {NAME:03 00 00 00} for you!
+
+[06413.151]
+Nobody can stop me!
+
+[06413.153]
+Impressive.
+
+[06413.155]
+Have I got the makings of a hero too?
+
+[06413.157]
+It seems you are not merely a womanizer.
+
+[06413.159]
+Right, I'm a strong womanizer.
+
+[06413.161]
+Not like you to do so well.
+
+[06413.163]
+Fallen for me?
+
+[06413.165]
+As if!
+
+[06413.167]
+Data collection!
+
+[06413.169]
+Cut it out!
+
+[06413.171]
+As expected.
+
+[06413.173]
+It was mere play.
+
+[06413.175]
+A hero...
+
+[06413.177]
+You are imagining it.
+
+[06413.179]
+Not bad, masked pervert!
+
+[06413.181]
+Who do you mean?
+
+[06413.183]
+You won, so you could at least show your face.
+
+[06413.185]
+Mind your own business.
+
+[06413.187]
+Won't you let me take your data?
+
+[06413.189]
+I refuse.
+
+[06413.191]
+Nice one, {NAME:05 00 00 00}!
+
+[06413.193]
+Easy, easy!
+
+[06413.195]
+As expected.
+
+[06413.197]
+My bow's something you can count on, isn't it?
+
+[06413.199]
+That's our tomboy!
+
+[06413.201]
+Sounds like you want to die by my bow.
+
+[06413.203]
+As expected, I suppose I should say.
+
+[06413.205]
+Pretty good, right?
+
+[06413.207]
+Won't you be my test subject?
+
+[06413.209]
+I'll pass.
+
+[06413.211]
+That's a genius for you.
+
+[06413.213]
+The word impossible is not in a genius's dictionary!
+
+[06413.215]
+A talent bestowed by heaven...
+
+[06413.217]
+Well, it's really nothing to make a fuss about...
+
+[06413.219]
+I am in awe.
+
+[06413.221]
+My own talent frightens me...
+
+[06413.223]
+........
+
+[06413.225]
+All this praise is making me blush~.
+
+[06413.227]
+So this is what a genius can do, huh?
+
+[06413.229]
+You could say that.
+
+[06413.230]
+Have a safe journey.
+
+[06413.231]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06413.232]
+Will you stay the night?
+
+[06413.234]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06413.235]
+Please rest well.
+
+[06413.236]
+Good morning.
+
+[06413.237]
+You do not have enough money.
+
+[06413.238]
+We look forward to seeing you again.
+
+[06413.243]
+Obtained {16:25 D6}.
+
+[06413.245]
+Obtained {08:FF FF FF FF}.
+
+[06413.247]
+Found {16:25 DE}, but you can carry no more.
+
+[06413.249]
+There is nothing here.
+

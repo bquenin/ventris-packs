@@ -1,0 +1,18 @@
+[00394.001]
+Hey, {NAME:02 00 00 00}. Alone together, did {NAME:01 00 00 00} really try nothing funny?
+
+[00394.002]
+Wh-wh-what kind of rubbish is that!
+
+[00394.003]
+He's a man too, so who knows what goes through his head.
+
+[00394.004]
+N... nothing happened, really...
+
+[00394.005]
+Wh-what! ......{NAME:01 00 00 00}, and you call yourself a man?
+
+[00394.006]
+Don't judge me by you!
+

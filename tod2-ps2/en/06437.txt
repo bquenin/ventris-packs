@@ -1,0 +1,331 @@
+[06437.001]
+Heidelberg: Inn
+
+[06437.002]
+Heidelberg
+
+[06437.003]
+Inn
+
+[06437.005]
+Tropical fruits are laid out, but... they all seem to be replicas.
+
+[06437.007]
+It's still alive...
+
+[06437.009]
+A powerful smell drifts from the pot. What dish could it be for...
+
+[06437.011]
+Mary's special borscht!
+
+[06437.013]
+S-so good!
+
+[06437.015]
+A plate is set into it. "In celebration of your opening... From your friend, Woodrow"
+
+[06437.016]
+Inn
+
+[06437.017]
+I am very sorry. We are full today.
+
+[06437.018]
+Inn
+
+[06437.019]
+Old Man
+
+[06437.020]
+I've handed the family headship to my son, and my wife and I are on a carefree journey.
+
+[06437.021]
+Old Man
+
+[06437.022]
+We've been round all sorts of countries, but this one is truly comfortable. It must be the king's doing.
+
+[06437.023]
+Old Man
+
+[06437.024]
+I've taken quite a liking to this country. I mean to stay a while.
+
+[06437.025]
+Old Man
+
+[06437.026]
+Oh, in such a hurry. Has something happened?
+
+[06437.027]
+Old Man
+
+[06437.028]
+The country is in such trouble, and yet the master of this inn doesn't show one anxious look.
+
+[06437.029]
+Old Man
+
+[06437.030]
+When I asked how he could be so calm, he answered, "I believe in this city and in the king."
+
+[06437.031]
+Old Man
+
+[06437.032]
+To be able to believe in the city you live in, and in your king... It may be improper at a time like this, but I do envy that.
+
+[06437.033]
+Old Man
+
+[06437.034]
+When there was that commotion at the castle I wondered what to do, but it seems to have settled safely, which is the main thing.
+
+[06437.035]
+Old Man
+
+[06437.036]
+Peace is best, after all. It's because there's peace that my wife and I can travel as we please like this.
+
+[06437.037]
+Old Man
+
+[06437.038]
+Well, old girl, which country shall we go to next? Somewhere warm this time?
+
+[06437.039]
+Old Man
+
+[06437.040]
+I've handed the family headship to my son, and my wife and I are on a carefree journey.
+
+[06437.041]
+Old Man
+
+[06437.042]
+We've been round all sorts of countries, but this one is truly comfortable. It must be the king's doing.
+
+[06437.043]
+Old Man
+
+[06437.044]
+I've taken quite a liking to this country. I mean to stay a while.
+
+[06437.045]
+Old Woman
+
+[06437.046]
+Oh dear, I went and ordered far too much borscht. Would you care for one?
+
+[06437.048]
+Huh? Can I? All right!
+
+[06437.050]
+Hey, hey, {NAME:01 00 00 00}! There's somewhere we have to go before you eat borscht.
+
+[06437.051]
+Old Woman
+
+[06437.052]
+The borscht here is superb. I can't help ordering extra.
+
+[06437.053]
+Old Woman
+
+[06437.054]
+My, my♪ What a fresh young couple. It reminds me of ourselves long ago.
+
+[06437.055]
+Old Woman
+
+[06437.056]
+We had it too, long ago. A time when just touching hands, or looking into each other's eyes, made us happy.
+
+[06437.057]
+Old Woman
+
+[06437.058]
+It has been very lively outside for a while now. Has something happened...?
+
+[06437.059]
+Old Woman
+
+[06437.060]
+They say the king has collapsed. Will he be all right...?
+
+[06437.062]
+I am concerned about Woodrow. We hurry, {NAME:01 00 00 00}.
+
+[06437.063]
+Old Woman
+
+[06437.064]
+They say the king has collapsed. Will he be all right...?
+
+[06437.065]
+Old Woman
+
+[06437.066]
+I was saying so to my husband too: the master here has been truly good to us...
+
+[06437.067]
+Old Woman
+
+[06437.068]
+He must have all sorts of worries, and yet he never stops smiling and works on our behalf.
+
+[06437.069]
+Old Woman
+
+[06437.070]
+It must be a hard time for the master too, and still he looks after us so well... I'm truly glad we stayed at such a good inn.
+
+[06437.071]
+Old Woman
+
+[06437.072]
+My husband and I have been saying it's time to move on to the next country... but we just can't decide.
+
+[06437.073]
+Old Woman
+
+[06437.074]
+That shows how comfortable it is here.
+
+[06437.075]
+Old Woman
+
+[06437.076]
+The people of this city have been so truly good to us... It's hard to leave.
+
+[06437.077]
+Old Woman
+
+[06437.078]
+Have you had the borscht here yet? It's so superb that I can't help eating too much.
+
+[06437.079]
+Old Woman
+
+[06437.080]
+Delicious borscht, and a kind master and townsfolk... This really is a good country.
+
+[06437.081]
+Old Woman
+
+[06437.082]
+My husband and I have taken such a liking to it here that we mean to stay a while.
+
+[06437.083]
+Old Woman
+
+[06437.084]
+Have you had the borscht here yet? It's so superb that I can't help eating too much.
+
+[06437.085]
+Old Woman
+
+[06437.086]
+Delicious borscht, and a kind master and townsfolk... This really is a good country.
+
+[06437.087]
+Old Woman
+
+[06437.088]
+My husband and I have taken such a liking to it here that we mean to stay a while.
+
+[06437.089]
+Mary, Mistress of the Inn
+
+[06437.090]
+Hm? You are...
+
+[06437.092]
+Hm? What is it? Is there something on my face?
+
+[06437.093]
+No, it's nothing... You just looked a little like someone I know...
+
+[06437.094]
+That face... that hair...
+
+[06437.095]
+I only thought you looked a little like someone I knew long ago. Pay it no mind.
+
+[06437.096]
+Glad you came. Make yourselves at home.
+
+[06437.098]
+Are you single, Mary? What a waste, with looks like yours...
+
+[06437.099]
+Here I live together with Dalis.
+
+[06437.100]
+...Though he is no longer of this world.
+
+[06437.101]
+Dalis loved the snow. So I decided to put down roots in this city where the snow never stops falling.
+
+[06437.102]
+Mistress of the Inn
+
+[06437.103]
+Heh, that's a good face you have. Just what I'd expect of Stahn and Rutee's son, shall we say?
+
+[06437.105]
+Huh? Ma'am, do you know my dad and mom, by any chance?
+
+[06437.107]
+You... no, ma'am, aren't you the swordswoman Mary, who even fought alongside Stahn and the others!?
+
+[06437.108]
+I may have been called that once. ...Well, what does that matter?
+
+[06437.109]
+You've come all this way. Make yourselves at home.
+
+[06437.110]
+Stahn's son has come all this way. I think I'll treat you to my home cooking.
+
+[06437.112]
+Were treated to Mary's special cooking. Body and heart were warmed.
+
+[06437.113]
+Have a safe journey.
+
+[06437.114]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06437.115]
+Will you stay the night?
+
+[06437.117]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06437.118]
+Please rest well.
+
+[06437.119]
+Good morning.
+
+[06437.120]
+You do not have enough money.
+
+[06437.121]
+We look forward to seeing you again.
+
+[06437.126]
+Obtained {16:25 BA}.
+
+[06437.128]
+Obtained {08:FF FF FF FF}.
+
+[06437.130]
+Found {16:25 C2}, but you can carry no more.
+
+[06437.132]
+There is nothing here.
+

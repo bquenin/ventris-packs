@@ -1,0 +1,9 @@
+[00082.001]
+Hey, {NAME:01 00 00 00}. Your equipment's all in order, right? If we can't heal when it counts, it really won't be funny.
+
+[00082.002]
+What are you talking about, {NAME:03 00 00 00}? Trust me for once... See, it's all fine! Hm? It's fine... right? ...Is it fine?
+
+[00082.003]
+Don't ask me~!
+

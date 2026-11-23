@@ -1,0 +1,15 @@
+[00412.001]
+Say, {NAME:01 00 00 00}... if I were to...
+
+[00412.002]
+What is it, {NAME:02 00 00 00}?
+
+[00412.003]
+............I'm sorry, it's nothing.
+
+[00412.004]
+...Is something wrong, {NAME:02 00 00 00}? You've been odd ever since we all ate together.
+
+[00412.005]
+Really, it's nothing, so don't worry. We must get to Calviola soon... Yes... we really must go...
+

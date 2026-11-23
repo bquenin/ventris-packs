@@ -1,0 +1,185 @@
+[95.000]
+Tower of the Zodiac, floor {NUM:801F}
+
+[95.001]
+{アーチェ}
+"It says: 'I wish for a
+
+[95.002]
+ dark
+
+[95.003]
+ merry
+
+[95.004]
+ quiet
+
+[95.005]
+ brave
+
+[95.006]
+ song, sung by one who is not human.'"
+
+[95.007]
+{アーチェ}
+"Doesn't the relief on this door make a constellation?"
+
+[95.008]
+"It seems to be sealed by some power."
+
+[95.009]
+{COLOR:03}There is a switch. Press it?{COLOR:02}
+
+[95.010]
+"Nothing happens."
+
+[95.011]
+{クレス}
+"That's... Could it be a spirit?"{PAGE}
+
+
+[95.012]
+???
+"I am the spirit Luna. Artemis seems to have caused you trouble..."{PAGE}
+{クレス}
+"No, it's all right. But we would like the emblem of the Kingdom of Alvanista back."{PAGE}
+Luna
+"Yes, of course."
+
+[95.013]
+{COLOR:03}Recovered the emblem of the Kingdom of Alvanista.{COLOR:02}
+
+[95.014]
+{クレス}
+"Thank you."{PAGE}
+
+
+[95.015]
+???
+"I am the spirit Luna. What is it you wish?"{PAGE}
+
+
+[95.016]
+{クラース}
+"To defeat Dhaos, we need your power. I ask you to make a pact of summoning."{PAGE}
+Luna
+"..."{PAGE}
+{クラース}
+"If we must show our strength, we ask nothing better!"{PAGE}
+Luna
+"I do not wish for battle. Not even against monsters. But in this world as it now is, where none can live without fighting, I suppose it cannot be helped. I shall be your strength."{PAGE}
+{クラース}
+"Truly!?"{PAGE}
+{クレス}
+"Thank you, Luna."{PAGE}
+{クラース}
+"Then let us make the pact. {クレス}, all of you, stand back."{PAGE}
+Luna
+"Artemis, you are listening, I know. I am going. It will be hard for you all alone, but be brave... Hold out the Moonstone ring."
+
+[95.017]
+{クラース}
+"I now beseech the spirit of the moon. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[95.018]
+{COLOR:03}{クラース} can now summon {STR:0B08}.{COLOR:02}
+
+[95.019]
+???
+"Who are you lot! Past here is big sister Luna's room! Don't you go barging in!"
+
+[95.020]
+Artemis
+"Oh. You lot again."{PAGE}
+{クラース}
+"Won't you let us through? We have important business with Luna."{PAGE}
+
+
+[95.021]
+{クレス}
+"Wh-what?"{PAGE}
+???
+"Oh, it's you lot."{PAGE}
+{アーチェ}
+"Aah!! It's that insect from Midgards!"{PAGE}
+???
+"I'm not an insect!!"
+
+[95.022]
+{クレス}
+"Wh-what?"{PAGE}
+???
+"
+
+[95.023]
+I'm Artemis, the fairy who attends big sister Luna!"{PAGE}
+{クラース}
+"A f-fairy!?"{PAGE}
+{ミント}
+"A fairy? You mean the fairies of legend?"{PAGE}
+{クラース}
+"Yes. A higher form of life said to have died out in the wars at the end of the far ancient civilisation. To think one still survived..."{PAGE}
+Artemis
+"So there! We don't die as easily as that! Anyway, nobody gets past here!"{PAGE}
+{クラース}
+"Wh-what would it take for you to let us through?"{PAGE}
+
+
+[95.024]
+Artemis
+"Let me see... Then I'll let you through if that girl with the pink hair kisses somebody. It can be me, if you like."{PAGE}
+{アーチェ}
+"Eh, ah..."
+
+[95.025]
+{クレス}
+"{アーチェ}? W-wait a moment!"{PAGE}
+{アーチェ}
+"It's so we can see Luna... All right♥"
+
+[95.026]
+{ミント}
+"Nooo!!"
+
+[95.027]
+???
+"Artemis, stop your mischief."{PAGE}
+Artemis
+"Y-yes."{PAGE}
+{クラース}
+"Wh-who is that?"{PAGE}
+???
+"Artemis, give them that."{PAGE}
+
+
+[95.028]
+Artemis
+"Yes. You're a magic user, aren't you, miss? You can have this."{PAGE}
+{アーチェ}
+"This is a spellbook!"{PAGE}
+
+
+[95.029]
+{COLOR:03}{アーチェ} learned {STR:DD07}.{COLOR:02}{PAGE}
+Artemis
+"Big sister Luna is up above.{PAGE}
+Sorry. Bye-bye."
+
+[95.030]
+{アーチェ}
+"That child had such lonely eyes..."{PAGE}
+{クラース}
+"Could that fairy be the last one..."
+
+[95.031]
+Artemis
+"I like lively girls. Bring one, and I might let you through. See you."
+
+[95.032]
+{クラース}
+"Wh-what a brat!"
+
+[95.033]
+Artemis
+(Big sister Luna...)
+

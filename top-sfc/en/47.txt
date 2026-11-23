@@ -1,0 +1,257 @@
+[47.000]
+Captain
+"Well then, take care. When you want to rest, you can rest in the cabin. When you want to go back, speak to me."
+
+[47.001]
+{クレス}
+"This... looks like Demitel's study."{PAGE}
+{クラース}
+"There may be something here. Let us search it thoroughly."
+
+[47.002]
+"What an eerie place..."
+
+[47.003]
+"Pure white. I can't see a thing."
+
+[47.004]
+"This is... a spellbook!"{PAGE}
+
+
+[47.005]
+{COLOR:03}{アーチェ} learned {STR:E407}.{COLOR:02}
+
+[47.006]
+"But it's no use my holding on to it. I'll put it back."
+
+[47.007]
+Captain
+"Heading back?"
+
+[47.008]
+Then we sail!
+
+[47.009]
+Give me a shout whenever you want to go back.
+
+[47.010]
+"What, going back already? What did you lot come for?{PAGE}
+Oh well. The fare's the same: one way, with food and insurance, {NUM:8169} Gald each, {NUM:816B} Gald for all of you. All right?"
+
+[47.011]
+I see.
+
+[47.012]
+You have to have the money.
+
+[47.013]
+Are you really sure?
+
+[47.014]
+I see.
+
+[47.015]
+Then we saaail!
+
+[47.016]
+"I am unloading the cargo from the ship."
+
+[47.017]
+"I can't wait to say goodbye to this backwater."
+
+[47.018]
+"Don't go falling for a man of the sea, now."
+
+[47.019]
+"Hard a-starboard! Hoist the sails!{PAGE}
+I'm an apprentice sailor. I can't wait to shout lines like that for real."
+
+[47.020]
+"All sailors look alike, you say? Mind your own business."
+
+[47.021]
+"Why is there a prism in a place like this...?{PAGE}
+It's too heavy to move. But it seems I can turn it."
+
+[47.022]
+"What's this place...?{PAGE}
+A toilet."
+
+[47.023]
+{COLOR:03}Found a key.{COLOR:02}{PAGE}
+"Where is this key used?"
+
+[47.024]
+"I'll use the key I found in the study."
+
+[47.025]
+"It's locked..."
+
+[47.026]
+{クレス}
+"What a fine tree..."
+
+[47.027]
+{ミント}
+"There seems to be nothing unusual about it..."
+
+[47.028]
+{クラース}
+"Hm? Did that tree not move just now?"{PAGE}
+{クレス}
+"You're barking up the wrong tree."{PAGE}
+{ミント}
+"Was that a pun?"
+
+[47.029]
+{クラース}
+"It is moving after all!"
+
+[47.030]
+{クレス}
+"Right! Once more!!"
+
+[47.031]
+{クラース}
+"Is this it? He lives in quite a building."{PAGE}
+{クレス}
+"{SPEED:10}...{SPEED:FF}But why did Demitel attack Hamel?"{PAGE}
+Rhea
+"I think he destroyed it simply to show his power. And Demitel did the same to his own master{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"He killed his own master too?"{PAGE}
+
+
+[47.032]
+Rhea
+"...Yes. My father, and{SPEED:10}...{SPEED:FF}
+
+[47.033]
+my mother too{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[47.034]
+{クラース}
+"Let us hurry. I am not so soft-hearted as to let a man like that live long."
+
+[47.035]
+????
+"What dangerous guests."
+
+[47.036]
+{クレス}
+"So you're Demitel!"{PAGE}
+
+
+[47.037]
+????
+"I am indeed. But what of it?"{PAGE}
+
+
+[47.038]
+{クレス}
+"You killed Rhea's parents! Prepare yourself!"{PAGE}
+Demitel
+"Oh, you know of the Scarlets? But what do you mean by calling me their killer, I who look up to that man as my master? Their death was an accident, as I recall."{PAGE}
+{クレス}
+"Don't lie!!"
+
+[47.039]
+Demitel
+"Who on earth put such a tale into your head?"{PAGE}
+{クレス}
+"This girl, Rhea, who else!"
+
+[47.040]
+Demitel
+"Leave quietly.{PAGE}
+I shall tell you the truth. Rhea, my master's beloved daughter, died in the accident together with her parents."
+
+[47.041]
+Demitel
+"Who that girl is and what she intends, I do not know. But what a foolish tale.{PAGE}
+That girl looks nothing whatever like Rhea!"
+
+[47.042]
+{クラース}
+"Which of them is telling the truth...?"{PAGE}
+{クレス}
+"Rhea, tell me he's the one who is lying!"
+
+[47.043]
+Demitel
+"Leave the girl behind, and I shall even forgive you for trespassing in my mansion."
+
+[47.044]
+{クレス}
+"That shadow!{PAGE}
+So you've shown your true colours at last! You're one of Dhaos's minions too!!"{PAGE}
+
+
+[47.045]
+Demitel
+"What!? Tch, so you can see it."
+
+[47.046]
+{クレス}
+"Rhea, stay hidden!"
+
+[47.047]
+Demitel
+"Mwahahahaha!! Do not think you will leave here alive!{PAGE}
+Prepare yourselves!!!"
+
+[47.048]
+{クラース}
+"{SPEED:10}...{SPEED:FF}Was this truly for the best?"
+
+[47.049]
+{ミント}
+"Rhea!?"
+
+[47.050]
+{クラース}
+"Are you all right!?"{PAGE}
+Rhea
+"For believing me{SPEED:10},{SPEED:FF} th{SPEED:10}-{SPEED:FF}thank you{SPEED:10} so{SPEED:FF} much{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Hold on!"{PAGE}
+Rhea
+"N{SPEED:10}-{SPEED:FF}now I too{SPEED:10},{SPEED:FF} can go to where my parents are."{PAGE}
+{ミント}
+"What?"{PAGE}
+Rhea
+"One last request{SPEED:10}...{SPEED:FF} My kind-hearted friend{SPEED:10},{SPEED:FF} please take care of her{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"Rhea, hold on! What friend{SPEED:10}...{SPEED:FF}?"
+
+[47.051]
+{ミント}
+"Rhea!!"
+
+[47.052]
+{ミント}
+"D-did you see?"{PAGE}
+{クレス}
+"I saw!"
+{クラース}
+"What on earth was that...?"
+
+[47.053]
+{ミント}
+"Rhea is holding something in her hand{SPEED:10}...{SPEED:FF} A ribbon?"{PAGE}
+{クレス}
+"A ribbon?"
+
+[47.054]
+???
+"Where is this? Where's Rhea? What happened to Rhea?"
+
+[47.055]
+{ミント}
+"Rhea...?"{PAGE}
+???
+"Rhea? No! I'm {アーチェ}. I'm not Rhea{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"A-{アーチェ}, you say?"
+

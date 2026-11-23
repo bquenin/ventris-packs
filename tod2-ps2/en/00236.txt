@@ -1,0 +1,21 @@
+[00236.001]
+Hey, {NAME:03 00 00 00}. Do you know what Neustadt is like?
+
+[00236.002]
+Hmm, now what was it like...
+
+[00236.003]
+A rich town with thriving industry. Though the gap between rich and poor was wide, and its people were hardly rich at heart.
+
+[00236.004]
+Yeah, that, that! It's that sort of town.
+
+[00236.005]
+Do not just agree at random. That was long ago. After the uprising, reforms were pushed through, and now it is a rich town and good to live in.
+
+[00236.006]
+Wow, {NAME:04 00 00 00}, you know a lot about it.
+
+[00236.007]
+I knew someone there once. That is all.
+

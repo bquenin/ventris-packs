@@ -1,0 +1,21 @@
+[00056.001]
+Hey, {NAME:01 00 00 00}. Anything change while I was away?
+
+[00056.002]
+Change? Come to think of it, Mom's been really troubled lately...
+
+[00056.003]
+What!? Rutee? Don't tell me the orphanage is in trouble for money... Ah! Or there's some guy who won't stop making passes at her!?
+
+[00056.004]
+No, no. She's just making a big fuss that she's "got more wrinkles~".
+
+[00056.005]
+Wrinkles, huh... The way you put it, I thought it was something a lot more serious.
+
+[00056.006]
+It seems to be pretty serious to her, though.
+
+[00056.007]
+You du~mmy! A few more wrinkles won't dim that woman's beauty.
+

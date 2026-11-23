@@ -1,0 +1,21 @@
+[00540.001]
+We are about to enter the enemy's stronghold. Be ready in mind, at least.
+
+[00540.002]
+Aw, it'll be fine. Whatever happens, we get through with "wits and courage"...!!
+
+[00540.003]
+Hold it! Where do you keep any "wits"? Thinking's a bother, so you always just charge in.
+
+[00540.004]
+Then... we get through on "courage"...
+
+[00540.005]
+Mind you, "courage" and "recklessness" are different things.
+
+[00540.006]
+Um... er... on "guts", somehow...
+
+[00540.007]
+So, the same as always.
+

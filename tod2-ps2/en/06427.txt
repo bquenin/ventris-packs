@@ -1,0 +1,54 @@
+[06427.001]
+Oberon Corporation Abandoned Mine
+
+[06427.002]
+Oberon Corporation Abandoned Mine
+
+[06427.004]
+You can carry no more Lenses.
+
+[06427.006]
+{03:00 00 00 00}{0B:01 00 00 00}{14:24 70} Lenses found, but you cannot carry them all.
+・Take {14:34 7C}, discard {14:34 80}{0B:00 00 00 00}
+・Put them back
+
+[06427.008]
+{03:00 00 00 00}Obtained {0B:01 00 00 00}{14:34 88}{0B:00 00 00 00} Lenses.
+
+[06427.009]
+Have a safe journey.
+
+[06427.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06427.011]
+Will you stay the night?
+
+[06427.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06427.014]
+Please rest well.
+
+[06427.015]
+Good morning.
+
+[06427.016]
+You do not have enough money.
+
+[06427.017]
+We look forward to seeing you again.
+
+[06427.022]
+Obtained {16:25 DA}.
+
+[06427.024]
+Obtained {08:FF FF FF FF}.
+
+[06427.026]
+Found {16:25 E2}, but you can carry no more.
+
+[06427.028]
+There is nothing here.
+

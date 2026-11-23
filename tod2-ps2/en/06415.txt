@@ -1,0 +1,314 @@
+[06415.001]
+Neustadt: Inn
+
+[06415.002]
+Neustadt
+
+[06415.003]
+Inn
+
+[06415.005]
+There is a piano, but no pianist.
+
+[06415.007]
+Some kind of flyer is inside. "For all your bow needs, see Chelsea Torn. If you are ever northwest of Heidelberg, do drop in."
+
+[06415.008]
+Part-Timer
+
+[06415.009]
+When my mother worked at the mansion, they didn't pay her properly, she says~.
+
+[06415.010]
+Whenever she talks about those days, Mother always ends up crying, and it's such a to-do~.
+
+[06415.012]
+S-somehow that ought to be a gloomy story, but it sounds oddly cheerful...
+
+[06415.013]
+Phew~! I've finally finished the cleaning~!
+
+[06415.015]
+Cleaning all by yourself? You've got it tough too, miss.
+
+[06415.016]
+Oh no~, not at all. Unlike in Mother's day, I get paid properly~.
+
+[06415.017]
+But~ if they raised my hourly wage, I'd be glad~.
+
+[06415.019]
+You're honest with yourself, miss...
+
+[06415.020]
+When my mother worked at the mansion, they didn't pay her properly, she says~.
+
+[06415.021]
+So I'm happy as I am now~. I'm being paid, so even when the work is hard I can't complain~.
+
+[06415.022]
+Middle-Aged Mach
+
+[06415.023]
+What matters in a race, above all, is the line you take.
+
+[06415.024]
+Middle-Aged Mach
+
+[06415.025]
+If you just can't win, you'd do well to rethink your line.
+
+[06415.026]
+Middle-Aged Mach
+
+[06415.027]
+Have you come to race? Let me tell you, the current champion is fast.
+
+[06415.028]
+Middle-Aged Mach
+
+[06415.029]
+Heh heh! After all, he's the son of yours truly, the first champion!
+
+[06415.030]
+Middle-Aged Mach
+
+[06415.031]
+My dream is to see a race between my son and the son of the hero Stahn, the only one who ever beat me.
+
+[06415.033]
+Oh, in that case, he's right in front of you. This one's Stahn's son.
+
+[06415.034]
+Middle-Aged Mach
+
+[06415.035]
+What, really!? Then by all means, do challenge my son!
+
+[06415.036]
+Inn
+
+[06415.037]
+Bartender
+
+[06415.038]
+Then... how about the "Liqueur Sad Love"?
+
+[06415.040]
+That name sounds like poison...
+
+[06415.041]
+Bartender
+
+[06415.042]
+Hello, welcome. What will it be?
+
+[06415.043]
+Bartender
+
+[06415.044]
+...Oh, a child. Sorry, we don't keep anything but liquor.
+
+[06415.046]
+I can drink. I wonder what cocktail would suit me?
+
+[06415.047]
+Bartender
+
+[06415.048]
+For you... I would say the "Heartbreak Sorrow Drown-Your-Troubles Triple Buster" would suit.
+
+[06415.050]
+Aren't you going to drink it? It's perfect for you, {NAME:03 00 00 00}.
+
+[06415.052]
+Shut up! Dammit all!
+
+[06415.053]
+Sakuraba
+
+[06415.054]
+Care to listen?
+
+[06415.056]
+{03:00 00 00 00}　Later　
+　Yes　
+
+[06415.058]
+Sakuraba is playing the piano.
+　
+　
+　　　　{09:36 00 00 00}: stop the music
+
+[06415.059]
+Sakuraba
+
+[06415.060]
+I play better with a drink in me...
+
+[06415.061]
+-Dummy-
+
+[06415.062]
+Iced Coffee
+
+[06415.063]
+Beer
+
+[06415.064]
+Cake
+
+[06415.065]
+Milk
+
+[06415.066]
+White Wine
+
+[06415.067]
+Coffee
+
+[06415.068]
+Red Wine
+
+[06415.069]
+Cheesecake
+
+[06415.070]
+Hot Milk
+
+[06415.071]
+The usual
+
+[06415.072]
+Life Bottle
+
+[06415.073]
+Bartender
+
+[06415.074]
+Waiter
+
+[06415.075]
+Waitress
+
+[06415.076]
+You there, care to work a while as a {18:45 08}?
+
+[06415.078]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06415.079]
+Do you need an explanation?
+
+[06415.081]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06415.082]
+I want you to go and take the customers' orders.
+
+[06415.083]
+Take each order quickly, within {0B:01 00 00 00}{06:0A 00 00 00}{0B:00 00 00 00} seconds.
+
+[06415.084]
+Now... the customers are starting to come.
+
+[06415.094]
+Thank you. Thanks to you I made a bundle.
+
+[06415.095]
+Here's your share. Take it.
+
+[06415.097]
+{0B:01 00 00 00}Obtained {14:34 80} Gald.{0B:00 00 00 00}
+
+[06415.098]
+I'll count on you again.
+
+[06415.099]
+You said you'd double the takings, so I left it to you, and look at this mess!
+
+[06415.100]
+{05:80 01 00 00}Get out!
+
+[06415.101]
+H-hey! You!?
+
+[06415.102]
+{03:00 00 00 00}{0B:01 00 00 00}Pay: {12:35 38}{14:34 84}{04:07 00 00 00} Gald
+
+[06415.104]
+{03:00 00 00 00}{0B:01 00 00 00}Pay: {12:35 38}{14:34 84}{04:07 00 00 00} Gald
+
+[06415.106]
+Waiteeer!
+
+[06415.107]
+What was the order for that table?
+
+[06415.109]
+{03:00 00 00 00}Cancel the selection to
+finish passing on the order.
+
+[06415.114]
+{03:00 00 00 00}Next
+{18:44 8C 81 35 60 CA C6}
+{18:44 8C 82 35 60 CA C6}
+{18:44 8C 83 35 60 CA C6}
+
+[06415.116]
+{18:44 8C 35 64 C6}. Anything else?
+
+[06415.117]
+They're calling you, hurry!
+
+[06415.119]
+Isn't it ready yet?
+
+[06415.121]
+Yes?
+
+[06415.123]
+One more, then.
+
+[06415.126]
+{15:34 7C} earned the title "{16:A0 7B 08 34 7C CA 81 CB}".
+
+[06415.127]
+Have a safe journey.
+
+[06415.128]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06415.129]
+Will you stay the night?
+
+[06415.131]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06415.132]
+Please rest well.
+
+[06415.133]
+Good morning.
+
+[06415.134]
+You do not have enough money.
+
+[06415.135]
+We look forward to seeing you again.
+
+[06415.140]
+Obtained {16:26 C2}.
+
+[06415.142]
+Obtained {08:FF FF FF FF}.
+
+[06415.144]
+Found {16:26 CA}, but you can carry no more.
+
+[06415.146]
+There is nothing here.
+

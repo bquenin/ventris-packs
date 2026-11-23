@@ -1,0 +1,36 @@
+[00982.001]
+Wh-what!? Fog, all of a sudden...
+
+[00982.002]
+It seems we have entered "White Cloud Ridge".
+
+[00982.003]
+......White Cloud... Ridge?
+
+[00982.004]
+This area was hit by Belcrant in the disaster eighteen years ago, and the lie of the land changed completely. Change the land and you change the weather. The result is this thi~ck fog, here all year round. The fog's what gave it the name "White Cloud Ridge".
+
+[00982.005]
+Wo~w!
+
+[00982.006]
+Amazing, {NAME:03 00 00 00}! You know so much.
+
+[00982.007]
+Oh, well. There was a pretty librarian in the Order's archive. I wanted to know her, so I learned it all by heart. Who knew it'd be useful here!
+
+[00982.008]
+........
+
+[00982.009]
+........
+
+[00982.010]
+{NAME:01 00 00 00}, Neustadt lies to the southeast.
+
+[00982.011]
+...Right. Shall we go, then, everyone.
+
+[00982.012]
+H-hey! Why those faces, you lot!
+

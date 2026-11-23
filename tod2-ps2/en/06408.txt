@@ -1,0 +1,136 @@
+[06408.001]
+Lienea Village
+
+[06408.002]
+Lienea Village
+
+[06408.004]
+...Mmm, it's no use. I'm wide awake and can't sleep a wink...
+
+[06408.006]
+What's up, {NAME:01 00 00 00}? Looks like you can't get to sleep.
+
+[06408.008]
+Ah, {NAME:03 00 00 00}. Sorry, I woke you.
+
+[06408.010]
+Don't worry about it. You were thinking about Stahn anyway, right?
+
+[06408.012]
+Ah, yeah...
+
+[06408.014]
+I thought Dad had lived an amazing life, the kind a hero would.
+
+[06408.016]
+But really it wasn't like that. He was a sleepyhead like me, he slipped up and played pranks...
+
+[06408.018]
+And did that disillusion you?
+
+[06408.020]
+No, not at all! The opposite. It kind of made me happy.
+
+[06408.022]
+Dad and I aren't so different. So I could believe that if I try hard, I can become like him.
+
+[06408.024]
+...I see. That's just like you.
+
+[06408.026]
+But don't get it wrong, {NAME:01 00 00 00}. It's true Stahn was born and raised no different from an ordinary guy.
+
+[06408.028]
+But he became a hero. That's because he was truly a strong person.
+
+[06408.030]
+Right. Dad beat every monster he met on his journey, after all.
+
+[06408.032]
+That's not it, {NAME:01 00 00 00}. It's not that Stahn's strength is great. ...His heart is strong.
+
+[06408.034]
+His heart... is strong?
+
+[06408.036]
+Stahn told me something once.
+
+[06408.038]
+"Keep believing in yourself and in the other person. At times you may be betrayed, or meet with sorrow."
+
+[06408.040]
+"Even so, believe in the other person, and believe in yourself for having believed in them. Do that, and in the end things will surely work out."
+
+[06408.042]
+It's easy to say, but hard to do. People can't help doubting others, and they lose confidence all on their own.
+
+[06408.044]
+The only one who can do that is him... Stahn. That's why he's a hero.
+
+[06408.046]
+Being able to keep believing right to the end... That is true strength.
+
+[06408.048]
+Believing...
+
+[06408.050]
+...I hope you can keep it up too. Believing, I mean.
+
+[06408.052]
+Yeah!
+
+[06408.054]
+...But you know, {NAME:03 00 00 00}, you're amazing. It's like you know everything there is to know about Dad.
+
+[06408.056]
+...He's something like my life itself. That's what Stahn is to me.
+
+[06408.058]
+If it weren't for Stahn, I...
+
+[06408.060]
+...{NAME:03 00 00 00}?
+
+[06408.062]
+...Come on, go to sleep. We've got an early start tomorrow too.
+
+[06408.064]
+Y-yeah... Good night, {NAME:03 00 00 00}.
+
+[06408.065]
+Have a safe journey.
+
+[06408.066]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06408.067]
+Will you stay the night?
+
+[06408.069]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06408.070]
+Please rest well.
+
+[06408.071]
+Good morning.
+
+[06408.072]
+You do not have enough money.
+
+[06408.073]
+We look forward to seeing you again.
+
+[06408.078]
+Obtained {16:25 BA}.
+
+[06408.080]
+Obtained {08:FF FF FF FF}.
+
+[06408.082]
+Found {16:25 C2}, but you can carry no more.
+
+[06408.084]
+There is nothing here.
+

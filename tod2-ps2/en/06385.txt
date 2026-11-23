@@ -1,0 +1,938 @@
+[06385.001]
+Great Temple of Straylize
+
+[06385.002]
+Great Temple of Straylize
+
+[06385.003]
+Straylize Temple
+
+[06385.004]
+Straylize Temple
+
+[06385.007]
+Philia
+
+[06385.008]
+...Before that, I have one question. Why do you seek a hero?
+
+[06385.009]
+???
+
+[06385.010]
+Because I need power... power great enough to change the world.
+
+[06385.011]
+Power?
+
+[06385.012]
+???
+
+[06385.013]
+A hero has the power to change not only people but the very fate of this world.
+
+[06385.014]
+???
+
+[06385.015]
+I want to know what the source of that power is.
+
+[06385.016]
+???
+
+[06385.017]
+And I want to gain such power myself.
+
+[06385.018]
+...To my eyes, you already seem to possess great power.
+
+[06385.019]
+???
+
+[06385.020]
+No, it's no good! The power I have now isn't enough, not nearly!
+
+[06385.021]
+...
+
+[06385.022]
+There is one more thing I would like to ask.
+
+[06385.023]
+When you meet a hero and gain that power, what do you intend to do?
+
+[06385.024]
+???
+
+[06385.025]
+...
+
+[06385.026]
+...You cannot say, is that it? Is that because I am not the hero you seek?
+
+[06385.027]
+???
+
+[06385.028]
+...I'm sorry.
+
+[06385.029]
+???
+
+[06385.030]
+But I won't use the power for anything bad! Please believe me!
+
+[06385.031]
+Yes, I know. That is exactly why I asked.
+
+[06385.032]
+What it is that you, with such power and conviction, could possibly wish for.
+
+[06385.033]
+...To me, you seem just like...
+
+[06385.034]
+?????
+
+[06385.035]
+One of the Four Heroes said to have shattered the Eye of God... You are Philia Felice?
+
+[06385.036]
+Wh-who are you...!?
+
+[06385.037]
+?????
+
+[06385.038]
+Giving my name to one about to die is pointless. ...Prepare yourself!
+
+[06385.039]
+???
+
+[06385.040]
+Philia!!
+
+[06385.041]
+Never mind me! Hurry, run...!
+
+[06385.042]
+?????
+
+[06385.043]
+...Weak. Far too weak. So this is what a former hero looks like. What a disappointment.
+
+[06385.044]
+?????
+
+[06385.045]
+At least let your dying scream entertain...
+
+[06385.047]
+Don't move! Get away from Philia right now!
+
+[06385.048]
+?????
+
+[06385.049]
+...And who are you!?
+
+[06385.051]
+How dare you do that to Philia...! I'm next... You're facing the great hero of the future, {NAME:01 00 00 00} Dunamis!
+
+[06385.052]
+?????
+
+[06385.053]
+A hero...!?
+
+[06385.054]
+?????
+
+[06385.055]
+A worm like you, calling himself a hero...! Do you want to die, boy!!
+
+[06385.057]
+Look out, {NAME:01 00 00 00}!
+
+[06385.059]
+Wha...!? Is he a monster!?
+
+[06385.061]
+This is bad, {NAME:01 00 00 00}! He's tough... no, more than that, we don't stand a chance!!
+
+[06385.063]
+That doesn't mean I can back down! I'll hit him with everything I've got!!
+
+[06385.064]
+?????
+
+[06385.065]
+I'll praise your resolve, at least, boy. You spoke the word hero in front of me... Regret it at death's door!!
+
+[06385.067]
+How's that, had enough!
+
+[06385.068]
+?????
+
+[06385.069]
+Heh heh heh... I see. I was careless and failed to show proper courtesy. Then let me pay my respects anew!
+
+[06385.071]
+Ghh!! H-he's strong...!
+
+[06385.072]
+?????
+
+[06385.073]
+Too bad you fell short of being a hero. Heh heh heh... Haa ha ha ha!!
+
+[06385.074]
+?????
+
+[06385.075]
+Gwah!! Y-you...!?
+
+[06385.077]
+Take it, {NAME:01 00 00 00}!
+
+[06385.079]
+Deyaaaaaah!!
+
+[06385.080]
+?????
+
+[06385.081]
+Gnh!!
+
+[06385.082]
+?????
+
+[06385.083]
+...Heh heh heh. To think there is an opponent in this world who can sate my hunger...
+
+[06385.084]
+Barbatos
+
+[06385.085]
+My name is Barbatos Goetia. {NAME:01 00 00 00} Dunamis... I will remember that name!
+
+[06385.087]
+W-we did it...
+
+[06385.089]
+That's right! Philia!!
+
+[06385.090]
+???
+
+[06385.091]
+She's still breathing... She's alive!
+
+[06385.093]
+Right! Philia's private room should be somewhere in this temple. Let's carry her there now!!
+
+[06385.094]
+Priest
+
+[06385.095]
+Are you ready? Then the birth ceremony will now begin.
+
+[06385.097]
+Birth... wait, this is a temple, right? And there's no doctor.
+
+[06385.098]
+Townsperson
+
+[06385.099]
+Shh! Quiet! The ceremony's under way!
+
+[06385.101]
+S-sorry...
+
+[06385.102]
+Priest
+
+[06385.103]
+O great god Fortuna, lend us your power, and bring a new life here, now!
+
+[06385.104]
+Priest
+
+[06385.105]
+Congratu...
+
+[06385.107]
+Did you see, {NAME:02 00 00 00}!? A flash of light and there's a baby. It's just like a magic trick!
+
+[06385.109]
+Ah... quiet... right. Ahaha, aha, aha...
+
+[06385.110]
+Priest
+
+[06385.111]
+Ahem! ...Then, once more.
+
+[06385.112]
+Priest
+
+[06385.113]
+Congratulations. The birth went safely.
+
+[06385.114]
+Wife
+
+[06385.115]
+Thank you. There was no pain. It was very easy.
+
+[06385.116]
+Priest
+
+[06385.117]
+This is your child.
+
+[06385.118]
+Husband
+
+[06385.119]
+Yes, thank you.
+
+[06385.121]
+Here, births are done like this, by borrowing the power of God.
+
+[06385.123]
+It's painless, with no fear of illness afterward. The safest way to give birth.
+
+[06385.125]
+Hmm, safe, huh. ...But, you know, neither of them looks very happy.
+
+[06385.127]
+...Y-you're right.
+
+[06385.128]
+Priest
+
+[06385.129]
+Now, as for this child's name... by custom, it will be "J-237".
+
+[06385.130]
+Priest
+
+[06385.131]
+"J-237" will be handed over to the two of you once the three-year initial care period is over.
+
+[06385.133]
+"J-237"!? That's a name!?
+
+[06385.134]
+Priest
+
+[06385.135]
+...Ahem! We are in the middle of the birth ceremony, so silence, please.
+
+[06385.137]
+Y-yes...
+
+[06385.138]
+Priest
+
+[06385.139]
+Then, once again, congratulations, "E-102" and "G-113".
+
+[06385.141]
+H-hey, {NAME:02 00 00 00}. What's "J-237"!? And that stuff about a care period...
+
+[06385.143]
+In this city, people are managed not by name but by number. The numbers are given in order of birth.
+
+[06385.145]
+And only after the three-year initial care period are they handed over to their parents.
+
+[06385.147]
+Three years!? He was only just born, and they can't live together for three whole years!?
+
+[06385.149]
+But you see, specialists take proper care of the initial rearing.
+
+[06385.151]
+The children grow up with nothing wrong in character or body.
+
+[06385.153]
+Is that... so... But, I mean, that's...
+
+[06385.154]
+????
+
+[06385.155]
+Totally weird, right? You think so too, don't you?
+
+[06385.156]
+????
+
+[06385.157]
+Oh, sorry. I never thought there'd be any normal people in this city.
+
+[06385.158]
+????
+
+[06385.159]
+I got happy and, well, couldn't help it.
+
+[06385.160]
+????
+
+[06385.161]
+I came by for the first time in ages to buy a bit of medicine... This city's as weird as ever.
+
+[06385.162]
+????
+
+[06385.163]
+A baby's just been born and the parents are that calm. In my village it'd be unthinkable.
+
+[06385.165]
+Yeah, yeah! You'd expect them to be more "We did it!" and overjoyed, right?
+
+[06385.166]
+????
+
+[06385.167]
+Maybe the folks here can't feel much joy because they never have any hardship.
+
+[06385.168]
+????
+
+[06385.169]
+Having a baby, you know, is a big deal. If it goes badly, it can even cost you your life.
+
+[06385.170]
+????
+
+[06385.171]
+But for the folks here, before the birth and after it, the Order of Fortuna does everything for them, every step.
+
+[06385.173]
+But that way is less dangerous, and in the end the parents and the child are happy, so...
+
+[06385.175]
+...Do you really mean that, {NAME:02 00 00 00}? Because then...
+
+[06385.176]
+????
+
+[06385.177]
+{NAME:02 00 00 00}?
+
+[06385.178]
+????
+
+[06385.179]
+...Hey, you two. Are you {NAME:01 00 00 00} and {NAME:02 00 00 00}, by any chance!?
+
+[06385.181]
+Huh!?
+
+[06385.183]
+How do you know our names!?
+
+[06385.184]
+????
+
+[06385.185]
+So what those guys said was true...
+
+[06385.186]
+????
+
+[06385.187]
+See, the other day a weird pair in strange clothes turned up at my village.
+
+[06385.188]
+????
+
+[06385.189]
+They gave your names and went around asking if anyone had seen you.
+
+[06385.190]
+????
+
+[06385.191]
+And on top of that, they kept saying things that made no sense, like "Where is this?" and "Elraine sent us flying".
+
+[06385.193]
+That's... {NAME:03 00 00 00} and {NAME:04 00 00 00}!
+
+[06385.195]
+H-hey! Where are the two of them now!?
+
+[06385.196]
+????
+
+[06385.197]
+They're at my village. Come with me and you can see them. Coming?
+
+[06385.199]
+Of course!
+
+[06385.200]
+????
+
+[06385.201]
+Then it's settled! In that case, let's get a move on. I want out of this gloomy city fast anyway.
+
+[06385.203]
+...Oh, I haven't introduced myself. I'm {NAME:05 00 00 00}. {NAME:05 00 00 00} of Hope Town. Nice to meet you.
+
+[06385.205]
+Hope Town? Is that the name of your village?
+
+[06385.207]
+Yep. It's a village you reach by taking a ship from here and going on past Cherik.
+
+[06385.209]
+It'll be a bit of a journey, but hey, good to have you along.
+
+[06385.211]
+Same here. Nice to meet you, {NAME:05 00 00 00}!
+
+[06385.213]
+{NAME:05 00 00 00} joined the party.
+
+[06385.214]
+Elraine
+
+[06385.215]
+{NAME:02 00 00 00}. Behold. These Lenses...
+
+[06385.216]
+Elraine
+
+[06385.217]
+The number of these Lenses is the sign of people's longing for happiness. And the proof of my love, my wish to save them.
+
+[06385.218]
+Elraine
+
+[06385.219]
+It is my salvation that makes people happy. That is why they chose me.
+
+[06385.221]
+The world you are trying to make certainly has no pain or worry.
+
+[06385.223]
+But along with them, it has lost real pleasure and joy. People would never want a world like that!
+
+[06385.224]
+Elraine
+
+[06385.225]
+Then why are you there?
+
+[06385.226]
+Elraine
+
+[06385.227]
+With no power at all, with no hero, locked away all alone?
+
+[06385.229]
+...! Th-that's...
+
+[06385.230]
+Elraine
+
+[06385.231]
+People fear suffering and worry. But on their own, they cannot do away with them.
+
+[06385.232]
+Elraine
+
+[06385.233]
+That is exactly why we are needed. God, and the Saint who is God's messenger...
+
+[06385.234]
+Elraine
+
+[06385.235]
+When Fortuna descends in complete form, in that moment our role, too, will end.
+
+[06385.236]
+Elraine
+
+[06385.237]
+But there is nothing to grieve over. That will be the very moment all people are filled with the love of God.
+
+[06385.238]
+Elraine
+
+[06385.239]
+A world filled with the love of God... A perfect world, free of pain and worry. This is what salvation should be...
+
+[06385.240]
+Elraine
+
+[06385.241]
+...How strange. That you, a messenger of God, should cling to someone.
+
+[06385.242]
+Elraine
+
+[06385.243]
+Is what you seek a hero to walk beside you and help you? Or...
+
+[06385.245]
+........
+
+[06385.246]
+Elraine
+
+[06385.247]
+I do not understand... Nothing but tragedy waits beyond it, and still you seek it?
+
+[06385.249]
+...{NAME:01 00 00 00} won't come. That's right, there's no way he'd come.
+
+[06385.251]
+Because that time, I...!
+
+[06385.252]
+Elraine
+
+[06385.253]
+Do not worry, {NAME:02 00 00 00}. The wish you could not fulfill, God will fulfill.
+
+[06385.254]
+Elraine
+
+[06385.255]
+Your suffering, too, will all vanish...
+
+[06385.256]
+Elraine
+
+[06385.257]
+The time has come!
+
+[06385.258]
+Elraine
+
+[06385.259]
+Let the spirit of the great God come here! And eternal happiness to the people!
+
+[06385.261]
+{NAME:02 00 00 00}!!
+
+[06385.263]
+{NAME:01 00 00 00}...!?
+
+[06385.264]
+Elraine
+
+[06385.265]
+...So he, too, seeks tragedy, just as you do. How foolish...
+
+[06385.266]
+Elraine
+
+[06385.267]
+Give up. Your efforts will end in vain.
+
+[06385.269]
+Let {NAME:02 00 00 00} go!
+
+[06385.270]
+Elraine
+
+[06385.271]
+...Even disregarding the happiness of all people, you would still defy me?
+
+[06385.272]
+Elraine
+
+[06385.273]
+Then... I will show no mercy!
+
+[06385.274]
+Elraine
+
+[06385.275]
+Fools... What waits... beyond that... is only... sorrow...
+
+[06385.277]
+........
+
+[06385.278]
+Elraine
+
+[06385.279]
+...No matter... My next move... has already... been made...
+
+[06385.280]
+Elraine
+
+[06385.281]
+This time... a truly... perfect... wor...ld...
+
+[06385.283]
+She's withdrawn...
+
+[06385.285]
+{NAME:02 00 00 00}!
+
+[06385.287]
+Thank goodness I made it in time. If anything had happened to you, {NAME:02 00 00 00}, I...
+
+[06385.289]
+...Why?
+
+[06385.291]
+Huh?
+
+[06385.293]
+I thought you wouldn't come anymore. I said such awful things. I thought it was only natural you'd hate me.
+
+[06385.295]
+And yet... why, {NAME:01 00 00 00}!?
+
+[06385.297]
+Why do you... for me...!?
+
+[06385.299]
+I told you, {NAME:02 00 00 00}, the first time we met. The hero you're looking for is me.
+
+[06385.301]
+A hero helps a girl in trouble. No matter what happens, always.
+
+[06385.303]
+{NAME:01 00 00 00}...
+
+[06385.305]
+H-huh...? No, {NAME:01 00 00 00}! I'm not sad!
+
+[06385.307]
+I'm not... sad at all... and yet...
+
+[06385.309]
+Let's go, {NAME:02 00 00 00}! We're going after Elraine!
+
+[06385.311]
+Yes, {NAME:01 00 00 00}!
+
+[06385.313]
+{NAME:01 00 00 00} earned the title "{08:87 08 00 00}".
+
+[06385.314]
+Priest
+
+[06385.315]
+It is always outsiders who bring strife into Aigrette.
+
+[06385.316]
+Priest
+
+[06385.317]
+If the whole world became like Aigrette, I think strife would vanish...
+
+[06385.318]
+G-113
+
+[06385.319]
+No pain of childbirth. No toil of raising a child. No worry about recovering afterward.
+
+[06385.320]
+G-113
+
+[06385.321]
+Ah, this is happiness, surely.
+
+[06385.322]
+G-113
+
+[06385.323]
+No pain of childbirth. No toil of raising a child. No worry about recovering afterward.
+
+[06385.324]
+G-113
+
+[06385.325]
+Ah...! This is happiness, surely.
+
+[06385.327]
+Do you really think so?
+
+[06385.328]
+G-113
+
+[06385.329]
+There are still three whole years until the child comes home, so I can take it easy.
+
+[06385.330]
+E-102
+
+[06385.331]
+A papa from today... huh. But somehow it doesn't feel real. Why is that...?
+
+[06385.332]
+E-102
+
+[06385.333]
+A papa from today... huh. But somehow it doesn't feel real. Why is that...?
+
+[06385.335]
+If you ask me, the reason's plain as day.
+
+[06385.336]
+E-102
+
+[06385.337]
+Honestly, my child's been born and I've got no sense of having become a parent.
+
+[06385.338]
+E-102
+
+[06385.339]
+I can't tell yet, but when three years have passed and the child comes home, will I feel like a papa then?
+
+[06385.340]
+Man
+
+[06385.341]
+Hm? Am I not lonely, unable to live with my child for three whole years?
+
+[06385.342]
+Man
+
+[06385.343]
+What are you talking about? It's far easier than raising it yourself. As a parent I couldn't be happier.
+
+[06385.344]
+Man
+
+[06385.345]
+The Order looks after the most troublesome period of child-rearing, and what's more, the child comes back disciplined.
+
+[06385.346]
+Man
+
+[06385.347]
+The parents only have to raise the children who have been disciplined.
+
+[06385.348]
+Priest
+
+[06385.349]
+In the days of Hugo's uprising, a colossal Lens called the "Eye of God" was enshrined, they say, in the room beyond here.
+
+[06385.350]
+Priest
+
+[06385.351]
+There is nothing there now, but this place is sealed away along with its abhorrent memories.
+
+[06385.352]
+Young Woman
+
+[06385.353]
+That takes me back. Come to think of it, I gave birth here too.
+
+[06385.354]
+Young Woman
+
+[06385.355]
+Mine is "J-164..." No, 152, I think... Oh dear, was it 170?
+
+[06385.357]
+........
+................
+
+[06385.358]
+Young Woman
+
+[06385.359]
+My mother said she had a hard labor when she had me.
+
+[06385.360]
+Young Woman
+
+[06385.361]
+Going through so much just to bear a child is unthinkable now, isn't it?
+
+[06385.362]
+Woman
+
+[06385.363]
+They say that in the old days women endured terrible pain in childbirth, but looking back, it's a silly business.
+
+[06385.364]
+Woman
+
+[06385.365]
+Having to go through that just for one person to be born... It's not worth it, honestly.
+
+[06385.366]
+Woman
+
+[06385.367]
+My son has never once gone against what I tell him.
+
+[06385.368]
+Woman
+
+[06385.369]
+You can see just how solid the Order's education is, can't you?
+
+[06385.370]
+Young Woman
+
+[06385.371]
+Congratulations, "G-113". The child looked very capable, so three years from now will be something to look forward to.
+
+[06385.372]
+Man
+
+[06385.373]
+By three years from now, be sure you've become parents who can raise a fine citizen of Aigrette~.
+
+[06385.374]
+Young Woman
+
+[06385.375]
+Huh~. So that's how I was born too.
+
+[06385.376]
+Have a safe journey.
+
+[06385.377]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06385.378]
+Will you stay the night?
+
+[06385.380]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06385.381]
+Please rest well.
+
+[06385.382]
+Good morning.
+
+[06385.383]
+You do not have enough money.
+
+[06385.384]
+We look forward to seeing you again.
+
+[06385.389]
+Obtained {16:28 F2 09}.
+
+[06385.391]
+Obtained {08:FF FF FF FF}.
+
+[06385.393]
+Found {16:28 FA 09}, but you can carry no more.
+
+[06385.395]
+There is nothing here.
+

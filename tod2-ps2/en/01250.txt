@@ -1,0 +1,3 @@
+[01250.001]
+I'm {NAME:02 00 00 00}. I seek a hero who can change history.
+

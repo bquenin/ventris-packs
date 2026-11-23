@@ -1,0 +1,21 @@
+[00656.001]
+Right, it's done! I don't know if it'll suit the taste of people of this age, though.
+
+[00656.002]
+No, no. Well done, well done! It looks delicious♪
+
+[00656.003]
+Oh, what a spread! Well then, let's ea~t♪ ............By the way, don't you cook, {NAME:06 00 00 00}? Good cooking is a must for a fine woman.
+
+[00656.004]
+That's a man's prejudice. And I do cook when I get hungry in the middle of an experiment. Nobo~dy will eat it, mind.
+
+[00656.005]
+Huh, I wonder why?
+
+[00656.006]
+Maybe it looks bad because I cook in beakers and flasks? ...Or is it that I sometimes test a new drug at the same time?
+
+[00656.007]
+...Hey, {NAME:01 00 00 00}. Never let her cook...
+

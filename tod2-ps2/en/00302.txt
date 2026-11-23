@@ -1,0 +1,30 @@
+[00302.001]
+Hey, we're in snow country, so let's have a snowball fight!
+
+[00302.002]
+Heh... Good idea. Take that!
+
+[00302.003]
+Whoa! Da~mn! From behind's not fair! There!
+
+[00302.004]
+Eek! That's mea~n, {NAME:01 00 00 00}!!
+
+[00302.005]
+Ah! Sorry! That was because {NAME:03 00 00 00} dodged...... whoa!
+
+[00302.006]
+Heh heh~♪ That's your payback~.
+
+[00302.007]
+Da~mn! I'm not losing this!!
+
+[00302.008]
+I am not playing. I grew out of such childish games long a...... Heh...... It seems you did not hear me. I am............ Who was that! Who put a stone in that one!!
+
+[00302.009]
+Waah! {NAME:04 00 00 00} drew his sword!! Ru~n!!
+
+[00302.010]
+Kneel, you lot!
+

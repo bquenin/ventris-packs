@@ -1,0 +1,97 @@
+[06720.001]
+Egg of God: Lower Level
+
+[06720.002]
+Egg of God: Lower Level
+
+[06720.004]
+That's...! Over there... Elraine is there!
+
+[06720.006]
+So at last it's a straight fight with a god!
+
+[06720.008]
+It's been a long road to get here...
+
+[06720.010]
+But it is not over yet. Lose here, and it will all have been for nothing.
+
+[06720.012]
+Don't say things that tempt fate. We're going to win! Right, {NAME:01 00 00 00}?
+
+[06720.014]
+Of course! We'll win! And then... we end it all!
+
+[06720.016]
+Yes, this is the last. There is no telling what they may try. See that you are well prepared, at least.
+
+[06720.018]
+Dear me, cool to the very last. Or should I say cold.
+
+[06720.020]
+It is only that you are too reckless.
+
+[06720.022]
+All right, all right, that's enough! Honestly... like this right to the end?
+
+[06720.024]
+Why not? It's a lot better than getting oddly tense.
+
+[06720.026]
+...Hahaha, that's the truth!
+
+[06720.028]
+Well then, shall we be going!
+
+[06720.030]
+Yeah, let's do it!
+
+[06720.032]
+I'll prove my brain surpasses even a god!
+
+[06720.034]
+Let us make them feel it. What the strength of people is!
+
+[06720.036]
+Let's go, {NAME:01 00 00 00}!
+
+[06720.038]
+Yeah, let's go, everyone!
+
+[06720.039]
+Have a safe journey.
+
+[06720.040]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06720.041]
+Will you stay the night?
+
+[06720.043]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06720.044]
+Please rest well.
+
+[06720.045]
+Good morning.
+
+[06720.046]
+You do not have enough money.
+
+[06720.047]
+We look forward to seeing you again.
+
+[06720.052]
+Obtained {16:25 CA}.
+
+[06720.054]
+Obtained {08:FF FF FF FF}.
+
+[06720.056]
+Found {16:25 D2}, but you can carry no more.
+
+[06720.058]
+There is nothing here.
+

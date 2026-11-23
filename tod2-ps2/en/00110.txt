@@ -1,0 +1,12 @@
+[00110.001]
+Well! How do you like the special soup by the great {NAME:03 00 00 00}?
+
+[00110.002]
+...Mm, it's good! I never knew you had a talent like this, {NAME:03 00 00 00}. When and where did you pick it up?
+
+[00110.003]
+Well, you see, after I left the orphanage I lived alone, never got a girlfriend, cooked just for myself day after day...... The pickups never worked... and only my cooking got better...... ugh...
+
+[00110.004]
+Ew... tears and snot in it...
+

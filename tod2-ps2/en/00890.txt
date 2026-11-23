@@ -1,0 +1,15 @@
+[00890.001]
+That's right. We met in those Laguna Ruins, didn't we...
+
+[00890.002]
+Hehe. It already feels like such a long time ago.
+
+[00890.003]
+........
+
+[00890.004]
+...Come, {NAME:01 00 00 00}, shall we go?
+
+[00890.005]
+R-right.
+

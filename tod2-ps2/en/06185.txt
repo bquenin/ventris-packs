@@ -1,0 +1,2697 @@
+[06185.13308]
+The fastest-running boy
+in Neustadt is?
+
+[06185.13350]
+Mach Boy
+
+[06185.13361]
+Dash Boy
+
+[06185.13374]
+Jet Boy
+
+[06185.13387]
+Sonic Prince Grid
+
+[06185.13408]
+Mach Uncle
+
+[06185.13419]
+Rocket Boy
+
+[06185.13432]
+Right!
+
+[06185.13439]
+Wrong!
+
+[06185.13448]
+The "Dark Wings" trio:
+Grid, John,
+and who else?
+
+[06185.13499]
+Millie
+
+[06185.13506]
+Merry
+
+[06185.13513]
+Molly
+
+[06185.13520]
+Mully
+
+[06185.13527]
+Mary
+
+[06185.13534]
+Mairy
+
+[06185.13543]
+Misery
+
+[06185.13552]
+Emily
+
+[06185.13561]
+{NAME:01 00 00 00}'s mother is?
+
+[06185.13583]
+ Rutee
+
+[06185.13593]
+ Luche
+
+[06185.13603]
+ Rutie
+
+[06185.13615]
+ Lucy
+
+[06185.13625]
+ Rvtee
+
+[06185.13637]
+ Rouge
+
+[06185.13647]
+ Lushe
+
+[06185.13657]
+ Ruteiz
+
+[06185.13669]
+Oh, well spotted!
+
+[06185.13690]
+Haha, you fell for it!
+
+[06185.13715]
+The orphanage we grew up in?
+
+[06185.13746]
+ Dunamis
+
+[06185.13758]
+ Duminas
+
+[06185.13770]
+ Demi-glace
+
+[06185.13782]
+ Dymlos
+
+[06185.13794]
+ Dominus
+
+[06185.13804]
+ Luminous
+
+[06185.13814]
+ Dullahan
+
+[06185.13826]
+ Djunamis
+
+[06185.13838]
+The town where our
+orphanage is?
+
+[06185.13872]
+ Cresta
+
+[06185.13882]
+ Darilsheid
+
+[06185.13898]
+ Aigrette
+
+[06185.13912]
+ Lienea
+
+[06185.13920]
+ Harmentz
+
+[06185.13932]
+ Armeida
+
+[06185.13944]
+ Janos
+
+[06185.13954]
+ Heidelberg
+
+[06185.13970]
+Can't miss this one
+
+[06185.13993]
+As if that's right!
+
+[06185.14014]
+That's where Stahn's from...
+
+[06185.14049]
+That village is gone now...
+
+[06185.14086]
+It's called Aigrette now...
+
+[06185.14123]
+That town is gone now...
+
+[06185.14160]
+The town where our
+orphanage is?
+
+[06185.14194]
+ Crest
+
+[06185.14204]
+ Clusta
+
+[06185.14214]
+ Crust
+
+[06185.14224]
+ Clift
+
+[06185.14234]
+ Crofts
+
+[06185.14244]
+ Clarice
+
+[06185.14254]
+ Christ
+
+[06185.14264]
+Which of the Four
+Heroes is at the
+Straylize Temple?
+
+[06185.14317]
+ Philia
+
+[06185.14327]
+ Stahn
+
+[06185.14335]
+ Woodrow
+
+[06185.14347]
+ Lilith
+
+[06185.14355]
+ Greybum
+
+[06185.14365]
+ Ailts
+
+[06185.14375]
+Your own mother...
+
+[06185.14396]
+Your own father...
+
+[06185.14417]
+The king of Heidelberg...
+
+[06185.14446]
+That's Stahn's Swordian...
+
+[06185.14485]
+That's your aunt...
+
+[06185.14510]
+The Eye of God's thief...
+
+[06185.14539]
+Oh yeah, that guy...
+
+[06185.14568]
+Which of the Four is
+Heidelberg's king?
+
+[06185.14612]
+ Grid
+
+[06185.14622]
+ Dalzen
+
+[06185.14632]
+At the Straylize Temple...
+
+[06185.14667]
+The Dark Wings!?
+
+[06185.14684]
+Of the kids adventuring with {NAME:01 00 00 00} at the
+start, who fell when the Owlbear came?
+
+[06185.14777]
+Uni
+
+[06185.14784]
+Cinnamon
+
+[06185.14793]
+Basil
+
+[06185.14806]
+Not so, eh?
+
+[06185.14819]
+You... it's on purpose
+
+[06185.14844]
+Time's up. You're kidding
+
+[06185.14873]
+ Mary
+
+[06185.14881]
+ Chelsea
+
+[06185.14893]
+ Marian
+
+[06185.14903]
+ Ilene
+
+[06185.14913]
+Your own mother's name...
+
+[06185.14946]
+A crime...
+
+[06185.14959]
+That one's your aunt, isn't it...
+
+[06185.14996]
+Who's Marian, anyway...
+
+[06185.15021]
+As if that's so!!
+
+[06185.15042]
+Which Gate joins Heidelberg's
+old and new towns?
+
+[06185.15096]
+Hero
+
+[06185.15103]
+World
+
+[06185.15110]
+King
+
+[06185.15117]
+Cosmos
+
+[06185.15124]
+Woodrow
+
+[06185.15137]
+Nope
+
+[06185.15142]
+In future Aigrette, the child
+born at the ceremony?
+
+[06185.15196]
+J-237
+
+[06185.15207]
+E-102
+
+[06185.15218]
+G-113
+
+[06185.15229]
+J-273
+
+[06185.15240]
+You remembered!
+
+[06185.15259]
+The husband's
+
+[06185.15276]
+The wife's
+
+[06185.15291]
+Hmm, close!!
+
+[06185.15310]
+Well, no wonder you
+don't remember
+
+[06185.15346]
+On Ilene's tablet in the Oberon
+mine, Belcrant ore was called
+the "stone of..." what?
+
+[06185.15439]
+Miracle
+
+[06185.15448]
+Magic
+
+[06185.15457]
+Power
+
+[06185.15464]
+Oberon
+
+[06185.15475]
+Rebirth
+
+[06185.15484]
+The ferry that sails between
+Aigrette and Snowfria is?
+
+[06185.15540]
+The Algernon
+
+[06185.15557]
+The Neustadt
+
+[06185.15574]
+The Enchant
+
+[06185.15589]
+Seawind
+
+[06185.15598]
+Who peeps at Lilith's bath
+in Lienea village?
+
+[06185.15648]
+Peep Hero
+
+[06185.15659]
+Peep King
+
+[06185.15670]
+Peep Lord
+
+[06185.15681]
+Peep Doc
+
+[06185.15692]
+Who here is not
+one of the "Dark Wings"?
+
+[06185.15738]
+Reid
+
+[06185.15745]
+Grid
+
+[06185.15754]
+John
+
+[06185.15761]
+Who won the War of
+Heaven and Earth?
+
+[06185.15805]
+ Ground
+
+[06185.15813]
+ Heaven
+
+[06185.15821]
+ D.Wings
+
+[06185.15831]
+ Atamoni
+
+[06185.15845]
+Oh, you've studied.
+No, anyone would know
+
+[06185.15889]
+Flip!
+
+[06185.15896]
+Wrong.
+
+[06185.15903]
+The weapon the Surface Army
+used in the war, said to
+have decided it, is?
+
+[06185.15986]
+ Swordian
+
+[06185.16000]
+ Zwordian
+
+[06185.16014]
+ Sealer
+
+[06185.16022]
+ Light
+
+[06185.16030]
+Long Sword
+
+[06185.16043]
+Of course
+
+[06185.16054]
+Fell for it
+
+[06185.16069]
+Was there such a weapon?
+
+[06185.16094]
+A weapon like that
+decides nothing!
+
+[06185.16134]
+Aerial city folk: "Heaven
+Dwellers". And the people
+on the ground?
+
+[06185.16211]
+Earth
+
+[06185.16218]
+Heaven
+
+[06185.16225]
+Depths
+
+[06185.16232]
+Land
+
+[06185.16239]
+Well, as it says
+
+[06185.16256]
+Did you read it right?
+
+[06185.16279]
+Stahn's village, Lienea,
+is on which land?
+
+[06185.16325]
+ Fitzgald
+
+[06185.16341]
+ Seinegald
+
+[06185.16355]
+ Phandaria
+
+[06185.16369]
+ Calvalese
+
+[06185.16383]
+ Aquaveil
+
+[06185.16399]
+{NAME:02 00 00 00} and Elraine wore
+the same what?
+
+[06185.16440]
+ Pendant
+
+[06185.16452]
+ Belcrant
+
+[06185.16466]
+ Penlight
+
+[06185.16478]
+ Helmet
+
+[06185.16490]
+ Headbutt
+
+[06185.16504]
+ Peridot
+
+[06185.16516]
+ Velvet
+
+[06185.16528]
+Right.
+
+[06185.16535]
+My maths test, put away at the
+orphanage: what was my mark?
+
+[06185.16599]
+35
+
+[06185.16606]
+28
+
+[06185.16613]
+100
+
+[06185.16622]
+765
+
+[06185.16631]
+72
+
+[06185.16638]
+0
+
+[06185.16643]
+...Well, not a word
+
+[06185.16668]
+That's {NAME:01 00 00 00}'s history mark
+
+[06185.16704]
+If only I'd got that much...
+Rutee might have worried
+a little less about me
+
+[06185.16797]
+Out of what!?
+
+[06185.16814]
+A so-so mark...
+
+[06185.16833]
+Hey, hey, that's a bit
+harsh, don't you think?
+
+[06185.16885]
+Honestly, I'd be happier
+if you didn't answer...
+
+[06185.16937]
+Know the name of the sweet
+shop in Aigrette?
+
+[06185.16987]
+So Sweet
+
+[06185.16996]
+Yum-Yum
+
+[06185.17005]
+So Tasty
+
+[06185.17014]
+So Fresh
+
+[06185.17023]
+Stripes
+
+[06185.17032]
+So Small
+
+[06185.17041]
+Sounds like sweet
+things for sale
+
+[06185.17077]
+So that one!
+
+[06185.17090]
+Sure,
+it'd be tasty, but
+
+[06185.17118]
+Fresh, is it?
+
+[06185.17135]
+I don't see the link...
+
+[06185.17160]
+Don't be so small-minded!
+
+[06185.17187]
+Don't think so hard, now
+
+[06185.17214]
+What was the first
+title I ever got?
+
+[06185.17260]
+Good Bro
+
+[06185.17269]
+Bestest Bwo
+
+[06185.17284]
+Macho Bro
+
+[06185.17299]
+Sir Bro
+
+[06185.17308]
+Right!
+You remembered well!
+
+[06185.17338]
+Sure I'm the best, but
+
+[06185.17361]
+Really...?
+
+[06185.17374]
+Do I look like a "sir"?
+
+[06185.17401]
+Oh boy~, what am I to you?
+
+[06185.17436]
+What was the name of
+the ferry we took?
+
+[06185.17478]
+The Aligernon
+
+[06185.17495]
+The Alegernon
+
+[06185.17512]
+The Alagernon
+
+[06185.17529]
+That's the one.
+A lot happened, eh
+
+[06185.17565]
+Ali...?
+
+[06185.17576]
+Ale...?
+
+[06185.17587]
+Ala-la?
+
+[06185.17596]
+At times like this, just pick!
+
+[06185.17631]
+Remember Barbatos's full name?
+Barbatos what, again?
+
+[06185.17691]
+Goetia
+
+[06185.17702]
+Dunamis
+
+[06185.17713]
+Katrea
+
+[06185.17724]
+Herschel
+
+[06185.17735]
+Zeibel
+
+[06185.17746]
+Aileron
+
+[06185.17755]
+Yeah, that was the name.
+He should be grateful we
+remember it at all!
+
+[06185.17834]
+Hey...
+that's us, isn't it...
+
+[06185.17866]
+That's Rutee, isn't it?
+
+[06185.17891]
+Sounds red-haired
+
+[06185.17912]
+Quit studying so much!
+
+[06185.17935]
+Mixing him up with Stahn? Bad...
+
+[06185.17972]
+A guy like that:
+no wonder you forgot!
+
+[06185.18020]
+Rutee's best dish is
+"Beast Meat..."
+what, again?
+
+[06185.18085]
+Poele
+
+[06185.18092]
+Stew
+
+[06185.18101]
+Patty
+
+[06185.18112]
+Borscht
+
+[06185.18121]
+Saute
+
+[06185.18128]
+Pot Pie
+
+[06185.18141]
+Right! Well, of course
+
+[06185.18164]
+No way
+
+[06185.18173]
+Hey, seriously?
+
+[06185.18192]
+Which is the
+phantom ore?
+
+[06185.18226]
+Berselium
+
+[06185.18239]
+Heidelium
+
+[06185.18252]
+Zilcrium
+
+[06185.18265]
+Shucrium
+
+[06185.18278]
+Right!
+Not so easy to find, maybe
+
+[06185.18318]
+Something's off, no?
+
+[06185.18339]
+Not it
+
+[06185.18348]
+Sounds sweet...
+or is it just me?
+
+[06185.18384]
+Sorry, that's the time
+
+[06185.18411]
+{NAME:01 00 00 00},
+what is it you call
+your mother, Rutee?
+
+[06185.18477]
+Mom
+
+[06185.18484]
+Ms. Rutee
+
+[06185.18497]
+Ma
+
+[06185.18506]
+Old lady
+
+[06185.18515]
+Rutee
+
+[06185.18524]
+Mrs.
+
+[06185.18529]
+That's right!
+It's about you,
+so you'd know!
+
+[06185.18574]
+That's what I call her
+
+[06185.18597]
+Close!
+But it's about you!
+
+[06185.18627]
+Did you ever say that?
+
+[06185.18652]
+Hey, just her name?
+
+[06185.18675]
+Awfully formal...
+
+[06185.18702]
+I-it's about you...?
+
+[06185.18727]
+The Heidelberg Castle bell
+was made to stand for?
+
+[06185.18779]
+Pax
+
+[06185.18784]
+Free
+
+[06185.18789]
+Win
+
+[06185.18794]
+Guts
+
+[06185.18799]
+Toil
+
+[06185.18804]
+Rule
+
+[06185.18809]
+Right!
+The wish for peace to go on
+is well and truly in it
+
+[06185.18888]
+Too bad.
+
+[06185.18901]
+Living to win:
+I don't dislike it!
+
+[06185.18941]
+Having courage
+matters too,
+but no
+
+[06185.18986]
+Sparing no effort
+may matter too,
+but no~
+
+[06185.19037]
+That doesn't sound great...
+
+[06185.19068]
+Oops.
+Didn't know it?
+
+[06185.19094]
+Know the title of
+Kongman's memoir?
+
+[06185.19134]
+I&Fist
+
+[06185.19141]
+I&Soul
+
+[06185.19148]
+I&Head
+
+[06185.19155]
+I & Arena
+
+[06185.19166]
+I&Tech
+
+[06185.19173]
+I&Pow
+
+[06185.19180]
+A title worthy of
+a champion, eh!
+
+[06185.19216]
+Daaah!
+
+[06185.19225]
+Not his head!
+
+[06185.19242]
+The arena?
+Too plain by half
+
+[06185.19274]
+Less clever technique,
+more brute force, I'd say?
+
+[06185.19324]
+His power's great, sure
+
+[06185.19349]
+Too obscure, eh?
+
+[06185.19368]
+There was a toolbox in
+the Darilsheid waterway.
+Which of these tools
+was not in it?
+
+[06185.19454]
+Neutralizer
+
+[06185.19467]
+Pliers
+
+[06185.19474]
+Pipe
+
+[06185.19481]
+Nail
+
+[06185.19486]
+Valve
+
+[06185.19493]
+Toy duck
+
+[06185.19510]
+That's it!
+It wasn't in there
+
+[06185.19542]
+A tool if ever I saw one?
+
+[06185.19569]
+It was in, in fact
+
+[06185.19588]
+Seems likely to be in, no?
+
+[06185.19615]
+It was in there, somehow
+...why, I wonder?
+
+[06185.19661]
+Can't recall?
+
+[06185.19678]
+Which of these did
+Lilith give us?
+
+[06185.19722]
+Collector Book
+
+[06185.19737]
+Monster Book
+
+[06185.19752]
+World Map
+
+[06185.19767]
+Sorcerer's Ring
+
+[06185.19784]
+Freeze Ring
+
+[06185.19799]
+A must for collectors!
+She gives good things!
+
+[06185.19849]
+Didn't we get that
+from Rutee?
+
+[06185.19891]
+I think {NAME:04 00 00 00}
+gave us that
+
+[06185.19918]
+Want one...?
+
+[06185.19933]
+What's it?
+
+[06185.19944]
+I feel bad for Lilith...
+
+[06185.19973]
+On the forest adventure
+near Cresta, which kid
+was missing?
+
+[06185.20034]
+Rim
+
+[06185.20041]
+Yes, yes.
+Rim's the one who always
+helps with the washing
+
+[06185.20100]
+Came with us, no?
+
+[06185.20119]
+Forgotten already?
+
+[06185.20142]
+Three masters of the flip:
+"Joe the Flipper",
+"Whirlwind {NAME:03 00 00 00}",
+and who else?
+
+[06185.20223]
+Nelson
+
+[06185.20238]
+Sullen {NAME:04 00 00 00}
+
+[06185.20252]
+Capt. Mach
+
+[06185.20263]
+Bouncy Madonna
+
+[06185.20280]
+Right!!
+A fond memory now,
+that one...
+
+[06185.20327]
+Heh heh heh...
+Sullen {NAME:04 00 00 00}, eh!
+
+[06185.20364]
+Fast on the
+getaway, I'd bet
+
+[06185.20394]
+Who's
+that, then?
+
+[06185.20414]
+...{NAME:01 00 00 00}?
+
+[06185.20426]
+One only a master
+would get, eh
+
+[06185.20464]
+{NAME:01 00 00 00} on the orphanage
+slide says what!
+
+[06185.20511]
+All right!
+
+[06185.20522]
+See it!
+
+[06185.20531]
+Howzat!
+
+[06185.20540]
+I can, I can!
+
+[06185.20555]
+Right!!
+
+[06185.20564]
+Didn't see!
+
+[06185.20577]
+Close
+
+[06185.20586]
+I feel I've heard
+that somewhere...
+
+[06185.20622]
+Never been down one?
+
+[06185.20645]
+The move that wakes
+a sleepyhead?
+
+[06185.20679]
+Wake the Dead
+
+[06185.20696]
+Bloody Rose
+
+[06185.20713]
+Sleep Lullaby
+
+[06185.20728]
+Pikohan
+
+[06185.20737]
+Raise Dead
+
+[06185.20750]
+Works in one go!
+
+[06185.20767]
+You'd die...
+
+[06185.20784]
+Don't go to sleep!!
+
+[06185.20805]
+That much won't
+wake him
+
+[06185.20837]
+He's not dead!
+
+[06185.20852]
+They say it got
+Stahn up, too
+
+[06185.20886]
+{NAME:01 00 00 00} and I fell in a pit
+at Laguna. What
+got us out?
+
+[06185.20940]
+Rope
+
+[06185.20947]
+Shovel
+
+[06185.20956]
+Plane
+
+[06185.20963]
+Saw
+
+[06185.20972]
+Rope over a branch,
+and up we went
+
+[06185.21010]
+Hey now.
+Dig out through the
+world's far side?!
+
+[06185.21065]
+Building what!?
+
+[06185.21086]
+Hey, {NAME:01 00 00 00}!
+What about our memories!
+
+[06185.21127]
+Where did we
+first meet {NAME:04 00 00 00}?
+
+[06185.21164]
+Darilsheid
+
+[06185.21179]
+Heidelberg
+
+[06185.21194]
+Straylize Temple
+
+[06185.21215]
+Cresta
+
+[06185.21224]
+In a dungeon cell
+
+[06185.21243]
+Heidelberg means
+King Woodrow
+
+[06185.21277]
+That's Philia
+
+[06185.21294]
+Was {NAME:04 00 00 00} there?
+
+[06185.21314]
+Can't recall?!
+
+[06185.21333]
+What did {NAME:01 00 00 00} and I
+seek at the Laguna Ruins?
+
+[06185.21380]
+Giant lens
+
+[06185.21399]
+Swordian
+
+[06185.21412]
+Food
+
+[06185.21417]
+Worth three million Gald,
+they said, and it broke.
+But for you a fateful
+meeting was waiting.
+
+[06185.21527]
+When we set out we didn't
+know of {NAME:02 00 00 00}, did we?
+
+[06185.21578]
+It wasn't a shopping trip
+
+[06185.21607]
+{NAME:01 00 00 00}
+aims to be?
+
+[06185.21634]
+Hero
+
+[06185.21639]
+Star
+
+[06185.21644]
+Knight
+
+[06185.21651]
+Berserker
+
+[06185.21664]
+A hero? Then work a
+hundred times harder!
+
+[06185.21710]
+Hey, it's what you
+yourself aim for
+
+[06185.21752]
+Don't aim for that
+
+[06185.21773]
+Who was it came out of the
+giant lens at Laguna?
+
+[06185.21841]
+Elraine
+
+[06185.21852]
+That was a shock.
+A girl coming out, of all things
+
+[06185.21906]
+Not me!
+
+[06185.21919]
+Didn't we meet {NAME:04 00 00 00}
+after that?
+
+[06185.21962]
+She does have that
+sort of air, but still
+
+[06185.22004]
+Which Order
+do I serve in?
+
+[06185.22038]
+Atamoni
+
+[06185.22051]
+Atamoh
+
+[06185.22064]
+Akumoni
+
+[06185.22077]
+Matamoni
+
+[06185.22090]
+Atateni
+
+[06185.22103]
+Etamoni
+
+[06185.22116]
+Atarnoni
+
+[06185.22129]
+Atam0ni
+
+[06185.22142]
+Yes, I was a guard of
+the Order of Atamoni
+
+[06185.22190]
+What does {NAME:04 00 00 00}
+always wear?
+
+[06185.22227]
+Mask
+
+[06185.22232]
+Spex
+
+[06185.22237]
+Studs
+
+[06185.22244]
+Bandana
+
+[06185.22253]
+Is his mask some
+kind of bone?
+
+[06185.22285]
+He's our friend, eh?
+
+[06185.22306]
+The machine that
+fell on us deep
+in Laguna?
+
+[06185.22355]
+Buer
+
+[06185.22362]
+Killer Machine
+
+[06185.22377]
+Death Mech
+
+[06185.22390]
+Sigma
+
+[06185.22397]
+Omega
+
+[06185.22404]
+That thing, hung
+from the ceiling:
+gives me chills
+
+[06185.22459]
+Forgot it, eh?
+
+[06185.22478]
+The giant water beast
+we fought under
+Darilsheid was called?
+
+[06185.22541]
+Vassago
+
+[06185.22552]
+Vepar
+
+[06185.22563]
+Elder Dragon
+
+[06185.22580]
+Stoor Worm
+
+[06185.22597]
+Fighting this one,
+we learned to mind
+our Spirits
+
+[06185.22652]
+Who attacked Philia at
+the Straylize Temple?
+
+[06185.22704]
+Barbatos
+
+[06185.22715]
+Ogre
+
+[06185.22722]
+Bashkar
+
+[06185.22733]
+Specter
+
+[06185.22744]
+Attacking a beauty:
+a disgrace to all men
+
+[06185.22794]
+{NAME:04 00 00 00} saved us then too.
+Don't you remember?
+
+[06185.22845]
+At Heat River's source, the
+monster behind the rock?
+
+[06185.22901]
+Sabnock
+
+[06185.22912]
+Forneus
+
+[06185.22925]
+Yes, yes!
+We beat it, somehow!
+
+[06185.22959]
+I think we fought that
+under Darilsheid?
+
+[06185.23003]
+We fought that in the
+castle attack
+
+[06185.23045]
+On the ferry?
+
+[06185.23062]
+The castle's "Knight of
+Conviction" was who?
+
+[06185.23110]
+Summoner
+
+[06185.23119]
+Deep Lancer
+
+[06185.23136]
+Centurion
+
+[06185.23151]
+Sabnock and Ose:
+those two really
+are a pair
+
+[06185.23200]
+Sabnock and Ose.
+Forgot them, eh?
+
+[06185.23236]
+Sabnock's partner?
+
+[06185.23257]
+Ose
+
+[06185.23262]
+Giga Toad
+
+[06185.23275]
+Dormouse
+
+[06185.23286]
+Necronomicon
+
+[06185.23301]
+Beat this one first
+or you'll suffer
+
+[06185.23341]
+What dammed the
+water at Heat River?
+
+[06185.23381]
+Kraken
+
+[06185.23392]
+Lobster
+
+[06185.23401]
+{NAME:05 00 00 00}'s arte "Ice Fan"
+popped its bubbles, I hear
+
+[06185.23454]
+{NAME:01 00 00 00} and I were held
+under which town?
+
+[06185.23497]
+Aigrette
+
+[06185.23510]
+Lienea
+
+[06185.23517]
+Neustadt
+
+[06185.23532]
+Snowfria
+
+[06185.23545]
+Come to think, why
+was {NAME:04 00 00 00} there?
+
+[06185.23588]
+Time's up.
+
+[06185.23601]
+What did Philia,
+one of the Four
+Heroes, wear?
+
+[06185.23654]
+Ribbon
+
+[06185.23661]
+Pendant
+
+[06185.23672]
+A brainy beauty in
+glasses, so neat......
+............nice
+
+[06185.23735]
+Which item got us through
+Darilsheid's hidden passage?
+
+[06185.23793]
+Spectacles
+
+[06185.23808]
+Pickaxe
+
+[06185.23817]
+Really,
+without {NAME:04 00 00 00}, where
+would we be now
+
+[06185.23867]
+Who was it
+we met under
+Darilsheid?
+
+[06185.23930]
+Lilith
+
+[06185.23937]
+No way that
+
+[06185.23952]
+He gave us the
+Sorcerer's Ring.
+The masked guy
+
+[06185.24001]
+{NAME:01 00 00 00}'s adventure began at?
+
+[06185.24031]
+Laguna
+
+[06185.24042]
+Do it properly
+
+[06185.24059]
+Which trap caught {NAME:01 00 00 00}
+and me at Laguna?
+
+[06185.24108]
+Pitfall
+
+[06185.24117]
+Gas
+
+[06185.24124]
+A wrong sign
+
+[06185.24141]
+Slippery
+
+[06185.24150]
+We were fools then
+
+[06185.24175]
+We didn't slip, mind
+
+[06185.24198]
+At Laguna, which item was in
+the chest right before
+the pitfall got us?
+
+[06185.24277]
+Apple Gel
+
+[06185.24290]
+Life Bottle
+
+[06185.24303]
+Orange Gel
+
+[06185.24316]
+Elixir
+
+[06185.24329]
+Nothing that good
+would be in it
+
+[06185.24365]
+Where did {NAME:01 00 00 00} and {NAME:02 00 00 00}
+first meet?
+
+[06185.24405]
+Harmentz Valley
+
+[06185.24424]
+We met {NAME:02 00 00 00} at the
+top of the ruins
+
+[06185.24461]
+All revere Elraine
+as which Saint?
+
+[06185.24499]
+Radiant
+
+[06185.24510]
+Sparkling
+
+[06185.24525]
+Blinking
+
+[06185.24536]
+Lady Saint
+
+[06185.24549]
+The temple in Aigrette is the?
+
+[06185.24582]
+Aigrette Temple
+
+[06185.24601]
+Stingray Temple
+
+[06185.24622]
+Starlight Temple
+
+[06185.24641]
+To join the Order of Atamoni,
+what must you donate?
+
+[06185.24699]
+Lenses
+
+[06185.24706]
+Gald
+
+[06185.24713]
+Rune Bottle
+
+[06185.24726]
+How do you get from
+Aigrette to Phandaria?
+
+[06185.24772]
+By ship
+
+[06185.24781]
+On foot
+
+[06185.24792]
+By flying
+
+[06185.24803]
+Tricycle!
+
+[06185.24818]
+No such thing!
+
+[06185.24837]
+The town with the arena?
+
+[06185.24862]
+Lienea
+
+[06185.24869]
+Stahn was the
+"legendary champ"
+
+[06185.24909]
+What always covers
+White Cloud Ridge?
+
+[06185.24947]
+Fog
+
+[06185.24952]
+Snow
+
+[06185.24957]
+Wind
+
+[06185.24962]
+Turf
+
+[06185.24967]
+Hard to see, easy
+to get lost
+
+[06185.24999]
+It wasn't cold
+
+[06185.25016]
+Not exactly a breezy
+place, I'd say
+
+[06185.25054]
+If anything, it
+was moss growing
+
+[06185.25092]
+What can't I stand?
+
+[06185.25113]
+Ghosts
+
+[06185.25120]
+Worms
+
+[06185.25127]
+Kids
+
+[06185.25132]
+Bird
+
+[06185.25137]
+I-it's not
+that I'm
+s-scared...
+
+[06185.25176]
+{NAME:02 00 00 00} can't stand
+those, I think
+
+[06185.25213]
+I like kids. If they
+don't punch for real
+
+[06185.25255]
+What's to fear in that
+
+[06185.25278]
+Found in the Oberon mine: a
+what that boosts lens power?
+
+[06185.25336]
+Ore
+
+[06185.25341]
+Rock
+
+[06185.25346]
+Lode
+
+[06185.25351]
+Gem
+
+[06185.25356]
+The skilled smith who keeps
+Heidelberg's weapon shop is?
+
+[06185.25416]
+Winters
+
+[06185.25429]
+Summers
+
+[06185.25438]
+Autumns
+
+[06185.25449]
+Springs
+
+[06185.25462]
+Which flyer hit
+Heidelberg Castle?
+
+[06185.25500]
+Dragon
+
+[06185.25507]
+Beast
+
+[06185.25514]
+Fish
+
+[06185.25521]
+Ship
+
+[06185.25528]
+{NAME:01 00 00 00} met {NAME:05 00 00 00} during
+which ceremony?
+
+[06185.25570]
+Birth
+
+[06185.25577]
+Bridal
+
+[06185.25584]
+Split
+
+[06185.25591]
+Burial
+
+[06185.25598]
+Close
+
+[06185.25607]
+No place to meet
+anyone
+
+[06185.25639]
+{NAME:04 00 00 00} and I met {NAME:05 00 00 00}
+on which
+continent?
+
+[06185.25684]
+Calvalese
+
+[06185.25697]
+Calviola
+
+[06185.25708]
+Phandaria
+
+[06185.25721]
+Fitzgald
+
+[06185.25736]
+Fresh from Phandaria, we
+were dressed for snow.
+I nearly keeled over
+
+[06185.25817]
+There's no "Calviola land"
+
+[06185.25848]
+Just before that we
+were in Phandaria
+
+[06185.25886]
+Where does {NAME:05 00 00 00} live?
+
+[06185.25914]
+Hope Town
+
+[06185.25927]
+Cherik
+
+[06185.25936]
+Their Heaven Dweller
+forebears lost the war, so
+they live in harsh land
+
+[06185.26011]
+The river you must cross
+to get from Cherik to
+Hope Town is?
+
+[06185.26078]
+Heat River
+
+[06185.26091]
+Hot River
+
+[06185.26104]
+Burning River
+
+[06185.26121]
+Magma River
+
+[06185.26134]
+Sounds hot...
+
+[06185.26148]
+Sounds on fire...
+
+[06185.26167]
+Not a river...
+
+[06185.26184]
+The nickname {NAME:05 00 00 00}
+gave me?
+
+[06185.26219]
+Lewd {NAME:03 00 00 00}
+
+[06185.26231]
+Perv {NAME:03 00 00 00}
+
+[06185.26243]
+Wolf {NAME:03 00 00 00}
+
+[06185.26255]
+Flirt
+
+[06185.26264]
+...Rude (right)
+
+[06185.26283]
+...Rude
+
+[06185.26294]
+{NAME:05 00 00 00}'s nickname
+for {NAME:04 00 00 00}?
+
+[06185.26332]
+Masked Stalker
+
+[06185.26347]
+Masque Man
+
+[06185.26360]
+Cool {NAME:04 00 00 00}
+
+[06185.26372]
+Yes, yes.
+On this one
+I agree
+
+[06185.26409]
+{NAME:05 00 00 00} gave no
+such name
+
+[06185.26440]
+Sounds like kung fu
+
+[06185.26461]
+{NAME:01 00 00 00} and {NAME:02 00 00 00}'s
+first date was?
+
+[06185.26495]
+Park
+
+[06185.26500]
+Arena
+
+[06185.26507]
+On deck
+
+[06185.26516]
+Port
+
+[06185.26521]
+ Harmentz Valley 
+
+[06185.26542]
+...mutter......
+(Damn......
+ ..leaving the
+ great me out...)
+
+[06185.26614]
+Not there!
+
+[06185.26631]
+Close!
+
+[06185.26642]
+Where?
+
+[06185.26653]
+That's no date
+
+[06185.26672]
+Time's up!
+Hmph......
+
+[06185.26698]
+What title did {NAME:02 00 00 00} win
+
+[06185.26751]
+Miracles
+
+[06185.26762]
+Sleepy
+
+[06185.26771]
+Whirlwind {NAME:02 00 00 00}
+
+[06185.26787]
+Mysterious
+
+[06185.26800]
+Masked
+
+[06185.26811]
+Would-Be
+
+[06185.26820]
+That truly was a miracle
+
+[06185.26847]
+That's {NAME:01 00 00 00}, surely
+
+[06185.26871]
+Whirlwind is me, me!
+
+[06185.26894]
+Hmm, close
+
+[06185.26911]
+Why hide the face...
+No wait!
+That'd be {NAME:04 00 00 00}!
+
+[06185.26965]
+Would-be... is she?
+
+[06185.26988]
+Not even a vague idea?
+
+[06185.27021]
+The Neustadt arena's
+desk girl: remember
+her name?
+
+[06185.27078]
+Entry Girl.
+
+[06185.27093]
+Clerk
+
+[06185.27100]
+Desk
+
+[06185.27107]
+Entry Girl
+
+[06185.27120]
+Arena Girl.
+
+[06185.27135]
+Entry Day
+
+[06185.27152]
+Right!!
+...I've heard that
+somewhere before?
+
+[06185.27205]
+Well, that'd be the
+ordinary guess
+
+[06185.27241]
+Close!
+You're on the right track
+
+[06185.27275]
+That isn't even a
+person's name...
+
+[06185.27315]
+Sorry, time's up.
+I've heard this name
+somewhere before?
+
+[06185.27384]
+Who was peeping at the
+bath of Lilith, Stahn's
+sister?
+
+[06185.27447]
+Peep Brave
+
+[06185.27458]
+Peep Rex
+
+[06185.27467]
+Peep God
+
+[06185.27476]
+Peep Tiger
+
+[06185.27487]
+Peepking
+
+[06185.27498]
+Peep Pop
+
+[06185.27509]
+Peep Champion
+
+[06185.27528]
+Right!
+Lilith's Thunder Sword
+taught him a lesson!
+
+[06185.27591]
+A bit close!
+
+[06185.27610]
+A king!?
+
+[06185.27621]
+Rising all the way
+to god is bad...
+
+[06185.27661]
+Hungry, is he?
+
+[06185.27676]
+Fancy words don't
+make it right
+
+[06185.27714]
+Sounds risky...
+
+[06185.27731]
+Who'd decide a
+champion of that
+
+[06185.27769]
+"I didn't know"
+won't do here!?
+
+[06185.27805]
+The Harmentz Valley trader
+who saw Reala: what did
+he call {NAME:02 00 00 00}?
+
+[06185.27877]
+A girl in pink
+
+[06185.27898]
+A saintly girl
+
+[06185.27917]
+A skirted girl
+
+[06185.27934]
+A cute girl
+
+[06185.27949]
+A girl just my type
+
+[06185.27970]
+Red-shoe girl
+
+[06185.27985]
+Yes, yes, that was it!
+
+[06185.28012]
+Saw through!
+
+[06185.28027]
+She does wear one
+
+[06185.28048]
+Well, she is cute, sure
+
+[06185.28073]
+What can you say to that...
+
+[06185.28106]
+Not quite.
+That's the gist, though
+
+[06185.28148]
+Anything about {NAME:02 00 00 00},
+you should be able to answer!
+
+[06185.28203]
+Rutee told {NAME:01 00 00 00}: "Reflect, yes,
+but you needn't ○○."
+Know what fills the ○○?
+
+[06185.28315]
+rue
+
+[06185.28320]
+beg
+
+[06185.28325]
+cram
+
+[06185.28330]
+hail
+
+[06185.28335]
+bond
+
+[06185.28340]
+win
+
+[06185.28345]
+cook
+
+[06185.28350]
+save
+
+[06185.28355]
+That's Rutee for you!
+Wise words, eh~
+
+[06185.28395]
+Just say sorry
+
+[06185.28412]
+I'm no fan of it either,
+but I don't think you
+can skip it
+
+[06185.28479]
+Manners matter
+
+[06185.28494]
+Sticking together
+matters, I'd say
+
+[06185.28530]
+Nothing beats
+winning, though!
+
+[06185.28564]
+{NAME:01 00 00 00},
+did she teach cooking?
+
+[06185.28595]
+You sure...?
+No hero does that!
+
+[06185.28641]
+Hey now.
+Forgotten already?
+
+[06185.28673]
+The so-called prophet
+on the ferry: what
+was his name?
+
+[06185.28728]
+Sabadicho
+
+[06185.28743]
+Sakedicho
+
+[06185.28758]
+Ajidicho
+
+[06185.28773]
+Masudicho
+
+[06185.28788]
+Ayudicho
+
+[06185.28803]
+Taidicho
+
+[06185.28818]
+Fugudicho
+
+[06185.28833]
+Ikadicho
+
+[06185.28848]
+Said he's never wrong.
+Fishy if you ask me...
+
+[06185.28898]
+Not that one~
+
+[06185.28913]
+Be careful!
+
+[06185.28928]
+Way off
+
+[06185.28939]
+A bold answer
+
+[06185.28954]
+Oh dear~
+
+[06185.28963]
+No, no!
+
+[06185.28974]
+Oh, come on!
+
+[06185.28989]
+Lost, are you?
+
+[06185.29006]
+The lens hunters "Dark Wings":
+which of these is no member?
+
+[06185.29072]
+There was no such guy
+
+[06185.29099]
+Was there, sure
+
+[06185.29116]
+Was there, no?
+
+[06185.29133]
+I remember him being hungry
+
+[06185.29164]
+What's up?
+Didn't know?
+
+[06185.29194]
+Setting out, which of these
+
+[06185.29244]
+The Sorcerer's Ring
+came from {NAME:04 00 00 00}
+
+[06185.29289]
+A map for adventure!
+
+[06185.29310]
+Complete the Monster Book!
+
+[06185.29339]
+Don't remember?
+
+[06185.29356]
+In Aigrette, a youth
+always being cheated
+tried cheating. What
+did he try to sell?
+
+[06185.29444]
+Jar
+
+[06185.29449]
+Barnacle
+
+[06185.29458]
+Octo pot
+
+[06185.29467]
+Moray
+
+[06185.29474]
+He called it a "shady
+jar" himself.
+Not cut out for that job, is he?
+
+[06185.29551]
+Close!
+
+[06185.29560]
+Buy it and you'll be happy
+
+[06185.29591]
+The Straylize Ruins
+puzzle room answer?
+
+[06185.29633]
+DESTINY
+
+[06185.29648]
+DIMLOS
+
+[06185.29661]
+DEVILSREEF
+
+[06185.29682]
+DUNGEON
+
+[06185.29697]
+You remembered!
+
+[06185.29714]
+Was that so?
+
+[06185.29729]
+{NAME:05 00 00 00}'s brother is?
+
+[06185.29749]
+Lou
+
+[06185.29754]
+Guts
+
+[06185.29761]
+Brave
+
+[06185.29770]
+Justice
+
+[06185.29783]
+Frontier
+
+[06185.29796]
+True
+
+[06185.29805]
+Dream
+
+[06185.29814]
+That's right
+
+[06185.29827]
+Nope.
+
+[06185.29834]
+The ferry-attacking sea lord?
+
+[06185.29865]
+Sea Slug
+
+[06185.29878]
+Will-o'-Wisp
+
+[06185.29895]
+Right!
+We had to fight it twice
+
+[06185.29929]
+Sorry!
+We fought that aboard
+
+[06185.29959]
+A Heat River foe, that
+
+[06185.29984]
+Forgot it, eh?
+
+[06185.30001]
+Refining uses lenses and what?
+
+[06185.30032]
+Panacea Bottle
+
+[06185.30049]
+Dark Bottle
+
+[06185.30062]
+A shady potion!
+
+[06185.30081]
+That one cures KO, right?
+
+[06185.30108]
+Cure-all or not, it
+can't do that much
+
+[06185.30148]
+Hey now.
+That brings the monsters!?
+
+[06185.30190]
+Dithering!
+
+[06185.30205]
+At White Cloud Ridge, who
+gives the hut its food
+for travelers?
+
+[06185.30276]
+Kongman
+
+[06185.30287]
+Philia
+
+[06185.30296]
+Kinder than he looks, eh!
+
+[06185.30325]
+It would be like
+Philia to, though
+
+[06185.30369]
+Happiness or not,
+she wouldn't do that
+
+[06185.30411]
+Rutee has her hands full
+just running the orphanage
+
+[06185.30467]
+Huh?
+Never seen it?
+
+[06185.30491]
+Grid of the "Dark Wings"
+flees so fast they
+call him what?
+
+[06185.30558]
+Sonic Prince
+
+[06185.30571]
+Swift Prince
+
+[06185.30584]
+Light Prince
+
+[06185.30597]
+Mach Prince
+
+[06185.30612]
+Right! ...not that I like it
+
+[06185.30643]
+Almost right, though
+
+[06185.30666]
+Zoom!
+
+[06185.30673]
+Don't force fancy words
+
+[06185.30698]
+No loss if you forgot
+
+[06185.30723]
+At the Neustadt bar, my cocktails:
+"Heartbreak Sorrow Drown-Your-
+Troubles Triple Buster" and?
+
+[06185.30820]
+Liqueur Sad Love
+
+[06185.30839]
+Liqueur Sad Want
+
+[06185.30858]
+Liqueur Sad Like
+
+[06185.30877]
+Liqueur Sad Need
+
+[06185.30894]
+Sounds like poison...
+
+[06185.30919]
+Bad for the gut...
+
+[06185.30940]
+Doesn't suit me after all, eh?
+{05:80 01 00 00}Eh?
+
+[06185.30981]
+The treasure we found in the
+Oberon mine for the Neustadt
+merchant was?
+
+[06185.31054]
+Gold
+
+[06185.31059]
+Ring
+
+[06185.31064]
+Bust
+
+[06185.31069]
+Yes, yes!
+That merchant's sour
+face was a sight!
+
+[06185.31120]
+Gold might have
+pleased that
+merchant, though
+
+[06185.31169]
+Nothing like that
+turns up...
+
+[06185.31199]
+Could we carry it...?
+
+[06185.31222]
+Hey, hey, you forgot it!?
+
+[06185.31253]
+Snowfria's "accounts this month":
+what is in the red?
+
+[06185.31317]
+Salmon
+
+[06185.31324]
+Tuna
+
+[06185.31331]
+Bass
+
+[06185.31336]
+Cod
+
+[06185.31341]
+Even a place with
+so much fish can
+run in the red
+
+[06185.31396]
+No wonder you forgot
+
+[06185.31419]
+Too hard?
+
+[06185.31434]
+Not that one
+
+[06185.31449]
+Too geeky a question?
+
+[06185.31476]
+Which Gate parts Heidelberg's
+old and new towns?
+
+[06185.31532]
+Reborn
+
+[06185.31539]
+Victor
+
+[06185.31546]
+Right!
+
+[06185.31555]
+Heidelberg's famous
+wood-carved...?
+
+[06185.31597]
+Kanbara Bear
+
+[06185.31612]
+Owlbear
+
+[06185.31623]
+Werewolf
+
+[06185.31636]
+Bigfoot
+
+[06185.31649]
+Right!!
+Is it really popular,
+though?
+
+[06185.31690]
+Close!
+
+[06185.31701]
+Wrong!
+
+[06185.31712]
+It does seem like one
+for snowy parts, though
+
+[06185.31760]
+That's the time.
+Too bad
+

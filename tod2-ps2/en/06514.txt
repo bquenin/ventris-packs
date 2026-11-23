@@ -1,0 +1,70 @@
+[06514.001]
+Calviola, the Holy Land
+
+[06514.002]
+Calviola, the Holy Land
+
+[06514.004]
+The door is shut fast.
+
+[06514.006]
+Um... "God is light, light is heat. Offer heat and light to God."
+
+[06514.008]
+It's like some kind of code. Heat and light...
+
+[06514.010]
+All right!
+
+[06514.011]
+Warrior Monk
+
+[06514.012]
+You there! What are you doing!
+
+[06514.014]
+Whoa! Damn! They're back already!
+
+[06514.015]
+Warrior Monk
+
+[06514.016]
+Insolent wretches, who would defile the presence of God! Prepare yourselves!
+
+[06514.017]
+Have a safe journey.
+
+[06514.018]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06514.019]
+Will you stay the night?
+
+[06514.021]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06514.022]
+Please rest well.
+
+[06514.023]
+Good morning.
+
+[06514.024]
+You do not have enough money.
+
+[06514.025]
+We look forward to seeing you again.
+
+[06514.030]
+Obtained {16:25 BA}.
+
+[06514.032]
+Obtained {08:FF FF FF FF}.
+
+[06514.034]
+Found {16:25 C2}, but you can carry no more.
+
+[06514.036]
+There is nothing here.
+

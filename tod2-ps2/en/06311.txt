@@ -1,0 +1,306 @@
+[06311.001]
+Cresta: Row House
+
+[06311.002]
+Cresta
+
+[06311.003]
+Row House
+
+[06311.005]
+Obtained 2 {08:69 00 00 00}.
+
+[06311.007]
+There is no more {08:69 00 00 00}...
+
+[06311.009]
+A product of the old Oberon Corporation: a "Lens Water Heater".
+
+[06311.011]
+The "Lens Water Heater" was apparently one of the Oberon Corporation's best sellers.
+
+[06311.013]
+A clean toilet, but there is nothing in particular here.
+
+[06311.015]
+It's mabo curry!
+
+[06311.017]
+S-so good!
+
+[06311.019]
+There is a bottle of liquor.
+"Cloudy sake from Aquaveil: Godslayer"
+80% alcohol
+
+[06311.021]
+I can't drink yet, but... I get the feeling nobody should drink this...
+
+[06311.022]
+Old Woman
+
+[06311.023]
+My, my, {NAME:03 00 00 00}. You've turned into quite the handsome man, haven't you?
+
+[06311.025]
+Look who's talking, Granny. You're as fine a woman as ever.
+
+[06311.026]
+Old Woman
+
+[06311.027]
+Ho ho ho, listen to you. You're fifty years too late to sweet-talk me.
+
+[06311.028]
+Old Woman
+
+[06311.029]
+I thought you'd be a brat forever, but you've grown into a fine man.
+
+[06311.030]
+Old Woman
+
+[06311.031]
+{NAME:01 00 00 00}. Your father was a fine man, and ever so sexy...
+
+[06311.032]
+Old Woman
+
+[06311.033]
+You come back a fine man to my taste too, you hear?
+
+[06311.034]
+Old Woman
+
+[06311.035]
+I'll pray to Atamoni that your journey goes well.
+
+[06311.036]
+Old Woman
+
+[06311.037]
+Stahn will be back from his travels any day now, so {NAME:01 00 00 00} and {NAME:03 00 00 00} have been bouncing off the walls since morning.
+
+[06311.039]
+{NAME:01 00 00 00}...
+
+[06311.040]
+Old Woman
+
+[06311.041]
+That Stahn, going off on a journey and leaving {NAME:01 00 00 00} behind. Well, I'm just glad he's safe.
+
+[06311.042]
+Old Woman
+
+[06311.043]
+{NAME:01 00 00 00}. It looks like you went traveling and found yourself a sexy bride too.
+
+[06311.045]
+G-Granny!
+
+[06311.047]
+Honestly, Grandma...
+
+[06311.048]
+Old Woman
+
+[06311.049]
+So you've reached the age for going on dates with girls, have you?
+
+[06311.050]
+Old Woman
+
+[06311.051]
+I only hope you don't take after that lecher {NAME:03 00 00 00}...
+
+[06311.052]
+Old Woman
+
+[06311.053]
+{NAME:01 00 00 00}, off to find yourself a sweetheart? Maybe I'll set out on a journey to look for a new love too.
+
+[06311.054]
+Old Woman
+
+[06311.055]
+When is my prince on a white horse going to come for me, I wonder?
+
+[06311.056]
+Boy
+
+[06311.057]
+Heheh~♪ Look at this, {NAME:01 00 00 00}! I just found a Lens.
+
+[06311.059]
+Hmm, a Lens, huh. When I was a kid there were handy Lens products made by the Oberon Corporation.
+
+[06311.061]
+But these days, the only use for a Lens is to hand it over to the Order of Atamoni.
+
+[06311.062]
+Boy
+
+[06311.063]
+What should I use the Lens I found for? Hmm...
+
+[06311.064]
+Boy
+
+[06311.065]
+You can't even turn it into money in Cresta. It's worthless.
+
+[06311.066]
+Boy
+
+[06311.067]
+{NAME:01 00 00 00}, let's play heroes! I'll be Stahn, and you be Leon, {NAME:01 00 00 00}!
+
+[06311.069]
+Whaat! Leon's the bad guy! No way!
+
+[06311.070]
+Boy
+
+[06311.071]
+Tch. Nobody ever wants to be Leon.
+
+[06311.072]
+Boy
+
+[06311.073]
+Well, nobody wants to play the traitor.
+
+[06311.074]
+Boy
+
+[06311.075]
+Oh, it's {NAME:01 00 00 00}! Welcome back! So, did you get to be a hero yet?
+
+[06311.077]
+A hero... huh... Why was it I wanted to be a hero again...?
+
+[06311.078]
+Boy
+
+[06311.079]
+What, {NAME:01 00 00 00}? Didn't you get to be a hero?
+
+[06311.080]
+Boy
+
+[06311.081]
+When I'm a bit bigger, I'm going to aim to be a hero like you, {NAME:01 00 00 00}!
+
+[06311.083]
+No, I want you to stay here and protect Mom and everyone.
+
+[06311.084]
+Boy
+
+[06311.085]
+Right, of course. With {NAME:01 00 00 00} and {NAME:03 00 00 00} both gone, I'll have to protect Cresta.
+
+[06311.086]
+Librarian
+
+[06311.087]
+I have come all the way from Heidelberg to visit the home of the Four Heroes.
+
+[06311.088]
+Librarian
+
+[06311.089]
+I had imagined a great city fit for heroes, but what an idyllic place it is.
+
+[06311.090]
+Librarian
+
+[06311.091]
+I met Rutee. She was a lovely person, with no airs at all.
+
+[06311.092]
+Librarian
+
+[06311.093]
+I see now. She truly is a hero. A wonderful woman.
+
+[06311.094]
+Librarian
+
+[06311.095]
+Well, it's about time I went back to Heidelberg.
+
+[06311.096]
+Librarian
+
+[06311.097]
+It's so comfortable here that I ended up staying far too long.
+
+[06311.098]
+Librarian
+
+[06311.099]
+My days in Cresta have become a fond memory.
+
+[06311.100]
+Librarian
+
+[06311.101]
+I'd like to come again someday.
+
+[06311.102]
+Librarian
+
+[06311.103]
+I mean to write a book about the Four Heroes, so I have come all the way from Heidelberg to gather material.
+
+[06311.104]
+Librarian
+
+[06311.105]
+I met Stahn and Rutee, and both of them gave me a warm welcome.
+
+[06311.106]
+Librarian
+
+[06311.107]
+I wondered how grand the Four Heroes would be, but both of them were simple, kind people.
+
+[06311.108]
+Have a safe journey.
+
+[06311.109]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06311.110]
+Will you stay the night?
+
+[06311.112]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06311.113]
+Please rest well.
+
+[06311.114]
+Good morning.
+
+[06311.115]
+You do not have enough money.
+
+[06311.116]
+We look forward to seeing you again.
+
+[06311.121]
+Obtained {16:25 CA}.
+
+[06311.123]
+Obtained {08:FF FF FF FF}.
+
+[06311.125]
+Found {16:25 D2}, but you can carry no more.
+
+[06311.127]
+There is nothing here.
+

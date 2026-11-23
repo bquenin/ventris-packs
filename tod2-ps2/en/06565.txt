@@ -1,0 +1,441 @@
+[06565.001]
+Surface Army Base
+
+[06565.002]
+Surface Army Base
+
+[06565.003]
+Surface Army Base
+
+[06565.004]
+Gate Guard
+
+[06565.005]
+Going outside?
+
+[06565.007]
+Yes
+No
+
+[06565.008]
+Gate Guard
+
+[06565.009]
+You may pass.
+
+[06565.010]
+Technical NCO
+
+[06565.011]
+A gun made of scrap is better than no gun at all.
+
+[06565.012]
+Technical NCO
+
+[06565.013]
+Still, how long can we go on fighting with gear like this...
+
+[06565.014]
+Technical NCO
+
+[06565.015]
+Doing maintenance in this blizzard is hard work.
+
+[06565.016]
+Technical NCO
+
+[06565.017]
+But that's the job. No use grumbling.
+
+[06565.018]
+Technical NCO
+
+[06565.019]
+Major General Igtenos is my superior. He seems silent and cold, but he is a good man at heart.
+
+[06565.021]
+And how able is he?
+
+[06565.022]
+Technical NCO
+
+[06565.023]
+Haha, he was made a general in his thirties. That should tell you.
+
+[06565.024]
+Technical NCO
+
+[06565.025]
+Both armies are badly short of people. I doubt there is hardly anyone who has served more than ten years.
+
+[06565.027]
+What about Clemente?
+
+[06565.028]
+Technical NCO
+
+[06565.029]
+Haha, he is the oldest, no question. How many years has he been a soldier, I wonder.
+
+[06565.030]
+Technical NCO
+
+[06565.031]
+Look at this! A new launcher that fires 7.92mm x 57 bolts with a powder charge.
+
+[06565.032]
+Technical NCO
+
+[06565.033]
+You'd never think it was a weapon put together out of scrap, would you!?
+
+[06565.034]
+Technical NCO
+
+[06565.035]
+The beauty of it! The power of it! Ah, wonderful!
+
+[06565.037]
+Every age has its military buffs, huh...
+
+[06565.038]
+Technical NCO
+
+[06565.039]
+Sigh... I can't wait to fire this thing.
+
+[06565.040]
+Technical NCO
+
+[06565.041]
+But I've never actually shot a person.
+
+[06565.042]
+Technical NCO
+
+[06565.043]
+This is a new launcher that fires 7.92mm x 57 bolts with a powder charge.
+
+[06565.044]
+Technical NCO
+
+[06565.045]
+I put in a request to have it used in the assault on Belcrant, but sadly it was turned down.
+
+[06565.046]
+Technical NCO
+
+[06565.047]
+They say some amazing way of attacking called spells has been worked out, so firearms aren't needed.
+
+[06565.048]
+Technical NCO
+
+[06565.049]
+There used to be heaps of far greater weapons. One shell could wipe out a whole block of a city.
+
+[06565.050]
+Technical NCO
+
+[06565.051]
+But the shells were all fired off, and there are no parts to mend what breaks, so most of them were scrapped.
+
+[06565.052]
+Technical NCO
+
+[06565.053]
+Is military technology just going to die out like this?
+
+[06565.054]
+Senior Officer
+
+[06565.055]
+Of late, more and more rabble openly speak ill of our army.
+
+[06565.056]
+Senior Officer
+
+[06565.057]
+Civilians and soldiers alike should hold their tongues and obey orders!
+
+[06565.058]
+Senior Officer
+
+[06565.059]
+Give your lives to the Surface Army! Do so and victory will be ours!
+
+[06565.060]
+Senior Officer
+
+[06565.061]
+In the fighting so far I have lost more than a hundred men.
+
+[06565.062]
+Senior Officer
+
+[06565.063]
+But what of it? War always has its sacrifices. For victory it cannot be helped.
+
+[06565.064]
+Senior Officer
+
+[06565.065]
+My son gave his life for the Surface Army and died.
+
+[06565.066]
+Senior Officer
+
+[06565.067]
+As a father and as a soldier, nothing could make me prouder.
+
+[06565.068]
+Officer
+
+[06565.069]
+In the last battle my unit took many dead and wounded. It was the result of my own mistaken command.
+
+[06565.070]
+Officer
+
+[06565.071]
+The fault is all mine. I mean to face my judgment quietly at the court-martial.
+
+[06565.072]
+Officer
+
+[06565.073]
+I have learned how hard it is to hold people's lives in your hands.
+
+[06565.074]
+Officer
+
+[06565.075]
+Commander Litler and Lieutenant General Dymlos bear that hardship. They are truly remarkable men...
+
+[06565.076]
+Officer
+
+[06565.077]
+Some time ago I lost many men through an error of judgment. I was tried by court-martial, but...
+
+[06565.078]
+Officer
+
+[06565.079]
+It was passed over, and instead I was made a squad commander for the assault on Dycroft...
+
+[06565.080]
+Officer
+
+[06565.081]
+Was I given a chance to start over, or told to go and die... I believe the former.
+
+[06565.082]
+Officer
+
+[06565.083]
+I will not fail again. I will keep my men alive.
+
+[06565.085]
+Woof
+
+[06565.086]
+Private A
+
+[06565.087]
+Hey, brother! Have you heard about the bunch called the "Dark Wings"?
+
+[06565.088]
+Private B
+
+[06565.089]
+Oh! Sure I have. A special unit that acts on its own authority, right!?
+
+[06565.090]
+Private A
+
+[06565.091]
+Its members have got to be the army's elite! I'd love to get to know them!
+
+[06565.092]
+Private B
+
+[06565.093]
+The "Dark Wings", huh! I'd like to meet them on the battlefield!
+
+[06565.094]
+Private A
+
+[06565.095]
+You said it! With them watching your back you'd feel safe!
+
+[06565.096]
+Private B
+
+[06565.097]
+Did you hear! The "Dark Wings" lot are said to have captured a Heavenly Army general.
+
+[06565.098]
+Private A
+
+[06565.099]
+Really! Now that is cool! I knew the "Dark Wings" were something special.
+
+[06565.100]
+Private B
+
+[06565.101]
+They say the "Dark Wings" have only three members!
+
+[06565.102]
+Private A
+
+[06565.103]
+Seriously! All that with just three people! I think I'm falling for the "Dark Wings"!
+
+[06565.105]
+Hey, {NAME:06 00 00 00}. Isn't it about time you told us where we're going?
+
+[06565.107]
+The Supply Depot, east of here. Belcrant shot it up, so it's not in use now.
+
+[06565.109]
+What are we going to do in a place like that?
+
+[06565.111]
+I told you, rummage through the trash.
+
+[06565.113]
+We need a way to get around, but a whole airship isn't just lying there. So we gather usable parts and build one.
+
+[06565.115]
+Anyway, hush and follow me! Once the parts are together, I can make it in a snap.
+
+[06565.117]
+Following's fine, but we don't have a map of this age, you know?
+
+[06565.119]
+You say east, but which way do we go?
+
+[06565.121]
+I thought as much. Here, a map! You can tell with that, right?
+
+[06565.123]
+{NAME:06 00 00 00} earned the title "{08:29 08 00 00}".
+
+[06565.125]
+Well, I'm getting straight to work on the machine, so report to Commander Litler for me.
+
+[06565.127]
+Huh!? W-wait a minute!
+
+[06565.129]
+Fly~, fly~, rocket~♪ Spouting fuel and breathing fire~♪
+
+[06565.131]
+...Hey, is it really all right to leave it to her?
+
+[06565.133]
+Beats me...
+
+[06565.135]
+A-anyway, let's go and see Litler.
+
+[06565.137]
+{NAME:06 00 00 00} earned the title "{08:72 08 00 00}".
+
+[06565.139]
+...Somehow it doesn't feel like a good time to walk in.
+
+[06565.140]
+Karell
+
+[06565.141]
+There is no use fretting now. In any case, until {NAME:06 00 00 00}'s machine is done, we cannot move.
+
+[06565.142]
+Dymlos
+
+[06565.143]
+Even so, {NAME:06 00 00 00} is late. Where is she idling her time away...
+
+[06565.145]
+...Let's go in, everyone.
+
+[06565.147]
+It's just not right...! Abandoning a comrade is something you must never do!
+
+[06565.149]
+That's why he chose not to save her.
+
+[06565.151]
+Hey, hey, that's backwards. If you mustn't abandon a comrade, why isn't he going to save her?
+
+[06565.153]
+Tell me, how much do you think a human life weighs?
+
+[06565.155]
+Huh?
+
+[06565.157]
+Dymlos answers for every soldier in the Surface Army. In other words, that is the weight of lives he carries.
+
+[06565.159]
+...So Dymlos put all the soldiers of the Surface Army before the one life of Atwight?
+
+[06565.161]
+That's it. And once he has decided, he has a duty to see it through.
+
+[06565.163]
+That is what the rank he bears, "Lieutenant General", means.
+
+[06565.165]
+........
+................
+
+[06565.167]
+More to the point, have you got a moment? I have to get on with the finishing touches to the Swordians now.
+
+[06565.169]
+And you know the door that wouldn't open, at the back of the Supply Depot we went to? There's something I have to do behind it.
+
+[06565.171]
+So won't you take me to the Supply Depot once more?
+
+[06565.172]
+Have a safe journey.
+
+[06565.173]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06565.174]
+Will you stay the night?
+
+[06565.176]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06565.177]
+Please rest well.
+
+[06565.178]
+Good morning.
+
+[06565.179]
+You do not have enough money.
+
+[06565.180]
+We look forward to seeing you again.
+
+[06565.185]
+Obtained {16:26 4E}.
+
+[06565.187]
+Obtained {08:FF FF FF FF}.
+
+[06565.189]
+Found {16:26 56}, but you can carry no more.
+
+[06565.191]
+There is nothing here.
+

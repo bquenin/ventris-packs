@@ -1,0 +1,36 @@
+[06280.4788]
+HRX-2
+
+[06280.4796]
+HLD-α
+
+[06280.4805]
+HLO-1
+
+[06280.4813]
+HRZ-3
+
+[06280.4821]
+HRO-β
+
+[06280.4830]
+Remember the name of the robot
+{NAME:06 00 00 00} built, that we had to fight?
+
+[06280.4901]
+Riiight♪
+{NAME:06 00 00 00} sure causes trouble...
+
+[06280.4944]
+Wrooong
+
+[06280.4953]
+Too bad!
+
+[06280.4964]
+Mmm, not quite right
+
+[06280.4991]
+Forgotten?
+It gave us a hard time
+

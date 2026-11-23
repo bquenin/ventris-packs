@@ -1,0 +1,202 @@
+[06583.001]
+Supply Depot
+
+[06583.002]
+Supply Depot
+
+[06583.003]
+Supply Depot
+
+[06583.005]
+This is the Supply Depot?
+
+[06583.007]
+It looks pretty well wrecked.
+
+[06583.009]
+The building still has its shape, so it got off lightly. It wasn't a direct hit, so this is all it came to.
+
+[06583.011]
+It gives me the chills. Why did they ever make a thing like Belcrant...
+
+[06583.013]
+Why? To make new land, of course. Didn't you know?
+
+[06583.015]
+Huh? Is that so?
+
+[06583.017]
+To begin with, Belcrant was a system for breaking the ground into fine pieces and whirling them up into the sky.
+
+[06583.019]
+And with the stones and rocks it whirled up, they meant to make floating land in the sky and build towns and villages.
+
+[06583.021]
+By rights, all people were to move to that floating land.
+
+[06583.023]
+But in the end only a privileged class, called the Heaven Dwellers, came to use it.
+
+[06583.025]
+And the people of the surface who resented that rose in revolt, and that's the War of Heaven and Earth, right?
+
+[06583.027]
+Yes. And the moment it came to war, Belcrant was turned into a weapon...
+
+[06583.029]
+Well, that's about it. It leaves nothing to be desired as a weapon, either~. At full power it can blow away a whole island.
+
+[06583.031]
+A machine made to help people, made to help kill them instead...
+
+[06583.033]
+It must be painful for the people of the development team...
+
+[06583.035]
+Though sometimes a tool for killing can help people too, like the Swordians I'm making.
+
+[06583.037]
+Anyway, that's why I want this operation to succeed! So work hard for me.
+
+[06583.039]
+Got it!
+
+[06583.041]
+Hold it! ...There's a funny smell.
+
+[06583.043]
+Oh dear, that's bad! Chemicals are leaking.
+
+[06583.045]
+Poison gas? Then we cannot go in...
+
+[06583.047]
+Oh, it's fine, it's fine. It's pretty nasty, but you can stand it for ten minutes or so. Probably.
+
+[06583.049]
+Seriously?
+
+[06583.051]
+Seriously.
+
+[06583.053]
+All right? Listen well. The goods we want are kept in the container at the very back of the materials store.
+
+[06583.055]
+But to open it, we have to get through several locks.
+
+[06583.057]
+The "keys for releasing the locks" should be lying about here and there, so get hold of them all.
+
+[06583.059]
+G-got it.
+
+[06583.061]
+B-but is it really all right to go inside!?
+
+[06583.063]
+I said it's fi~ne for ten minutes or so, didn't I?
+
+[06583.065]
+...But past ten minutes, I can't answer for your lives. All right? Ten minutes, ten!
+
+[06583.067]
+Here will do. Thanks for seeing me over.
+
+[06583.069]
+Usually I'd ask my brother, but he seemed to have his own hands full.
+
+[06583.071]
+Good luck finishing the Swordians, {NAME:06 00 00 00}.
+
+[06583.073]
+When they're done I'll let you people know too. See you.
+
+[06583.075]
+Oh, by the way. They're lovers, you know, those two.
+
+[06583.077]
+Those two?
+
+[06583.079]
+Dymlos and Atwight, of course.
+
+[06583.081]
+Then why did Dymlos act so...!
+
+[06583.083]
+Because Dymlos has his duty... I think.
+
+[06583.085]
+Faced with a very heavy duty, it stops being easy to follow your own heart...
+
+[06583.087]
+{NAME:02 00 00 00}...
+
+[06583.089]
+But why tell us that now?
+
+[06583.091]
+A catalyst.
+
+[06583.093]
+Huh?
+
+[06583.095]
+If nothing can be hoped for from within, you bring about a change from without. Even if it is a poison.
+
+[06583.097]
+Oh, but I think of you people as medicine, so don't worry.
+
+[06583.099]
+...Sigh. I sort of get it, and sort of don't get it at all...
+
+[06583.101]
+Aah, what a pity I can't observe the results of the experiment...
+
+[06583.103]
+So what'll you do, {NAME:01 00 00 00}? Knowing you, you don't mean to leave it at this, do you?
+
+[06583.105]
+Right. I'll try to talk Dymlos round just once more. And if that's still no good, then...
+
+[06583.107]
+The {16:34 70 34 90 C6} crumbled to pieces...
+
+[06583.108]
+Have a safe journey.
+
+[06583.109]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06583.110]
+Will you stay the night?
+
+[06583.112]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06583.113]
+Please rest well.
+
+[06583.114]
+Good morning.
+
+[06583.115]
+You do not have enough money.
+
+[06583.116]
+We look forward to seeing you again.
+
+[06583.121]
+Obtained {16:25 E2}.
+
+[06583.123]
+Obtained {08:FF FF FF FF}.
+
+[06583.125]
+Found {16:25 EA}, but you can carry no more.
+
+[06583.127]
+There is nothing here.
+

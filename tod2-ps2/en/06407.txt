@@ -1,0 +1,431 @@
+[06407.001]
+Lienea Village: Inn & General Store
+
+[06407.002]
+Lienea Village
+
+[06407.003]
+Inn & General Store
+
+[06407.004]
+Uncle Bob
+
+[06407.005]
+Well, well, {NAME:01 00 00 00}. Buy something before you go.
+
+[06407.006]
+Uncle Bob
+
+[06407.007]
+Come again. That's a promise to Uncle Bob.
+
+[06407.008]
+Uncle Bob
+
+[06407.009]
+Well, well, {NAME:01 00 00 00}. Keeping well and working hard?
+
+[06407.010]
+Uncle Bob
+
+[06407.011]
+Don't you know the meaning of restraint? Your old man used to beg just like that.
+
+[06407.012]
+{05:00 02 00 00}I can't stand greedy children!
+
+[06407.013]
+Glad you came, {NAME:01 00 00 00}. My name's Bob. Your old man and I go way back.
+
+[06407.014]
+Here, here, I'll give you some pocket money. Take it.
+
+[06407.016]
+Thank you
+Give me lots
+No, thank you
+
+[06407.017]
+There, {0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} Gald. Mind you use it carefully.
+
+[06407.019]
+Obtained {0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} Gald.
+
+[06407.020]
+Hmph, I'll give you {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald. Young people these days have no restraint.
+
+[06407.022]
+Obtained {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald.
+
+[06407.023]
+Ha ha ha. What a modest child. Nothing like your old man.
+
+[06407.024]
+Don't you know the meaning of restraint? Your old man used to beg just like that.
+
+[06407.025]
+{05:00 02 00 00}I can't stand greedy children!
+
+[06407.026]
+Well, well, it's been a while, {NAME:01 00 00 00}. You haven't forgotten your Uncle Bob, have you?
+
+[06407.027]
+Here, here, I'll give you pocket money today too. Take it.
+
+[06407.029]
+Of course, thank you
+Just give me lots
+I can't accept it
+
+[06407.030]
+There, {14:24 72} Gald. Mind you use it carefully.
+
+[06407.032]
+Obtained {14:24 72} Gald.
+
+[06407.033]
+Hmph, I'll give you {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald. Young people these days have no restraint.
+
+[06407.035]
+Obtained {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald.
+
+[06407.036]
+Ha ha ha. What a modest child. Nothing like your old man.
+
+[06407.037]
+I often gave Stahn pocket money in the old days.
+
+[06407.038]
+"I'll pay you back when I make my fortune, for sure!", he'd boast... but who'd have thought he'd become a hero who saved the world.
+
+[06407.039]
+You... could you be Stahn's son?
+
+[06407.041]
+Huh!? How did you know!?
+
+[06407.042]
+Of course I'd know. My name's Bob. Your old man and I go way back.
+
+[06407.043]
+That spiky head and those determined eyes. The very image of your old man.
+
+[06407.044]
+Boy
+
+[06407.045]
+If you know Stahn's secret training ground, then you're... a Stahn fan!
+
+[06407.046]
+Boy
+
+[06407.047]
+Heh heh! Listen and be amazed! I know where Stahn's secret training ground is!
+
+[06407.049]
+I know it too. It's on the hill out back, right?
+
+[06407.050]
+Boy
+
+[06407.051]
+Wh-what, how does someone like you know Stahn's training ground!?
+
+[06407.052]
+Inn Reception
+
+[06407.053]
+Oh... aren't you Stahn's son, by any chance?
+
+[06407.055]
+That's right!
+No, I'm not
+
+[06407.056]
+Inn Reception
+
+[06407.057]
+I knew it! Hee hee, you look so like Stahn that I could tell right away.
+
+[06407.058]
+Inn Reception
+
+[06407.059]
+Really? I thought you looked alike...
+
+[06407.060]
+Inn Reception
+
+[06407.061]
+{NAME:02 00 00 00}? Oh, the girl you carried in on your back? She was over by the pond.
+
+[06407.062]
+Inn Reception
+
+[06407.063]
+If you mean the girl called {NAME:02 00 00 00}, she was standing by the pond. Why not go and see?
+
+[06407.064]
+Inn Reception
+
+[06407.065]
+Welcome. There's nothing here, but make yourself at home.
+
+[06407.066]
+Inn Reception
+
+[06407.067]
+Welcome. There's nothing here, but make yourself at home.
+
+[06407.068]
+Inn Reception
+
+[06407.069]
+Oh, {NAME:01 00 00 00}! Staying the night? I'll give you a special low price.
+
+[06407.070]
+Inn Reception
+
+[06407.071]
+Inn Reception
+
+[06407.072]
+Oh, {NAME:01 00 00 00}! Staying the night?
+
+[06407.073]
+Inn Reception
+
+[06407.075]
+An artificial rose. It has no scent at all...
+
+[06407.077]
+The pinwheel is turning though there is no wind. It must be a clockwork toy.
+
+[06407.078]
+It's too dark to see inside the stove...
+
+[06407.079]
+Peering in would only get me covered in ash. Better not.
+
+[06407.082]
+Lienea's specialty, Stahn buns, are sold out! -The shopkeeper
+
+[06407.084]
+A flyer for an outfitter is posted.
+
+[06407.086]
+You who seek powerful arms and armor! Do come to "Soul & Sword" in Heidelberg!
+
+[06407.088]
+Vegetables are laid out. For the inn's cooking, perhaps.
+
+[06407.090]
+The goods for sale are neatly laid out.
+
+[06407.091]
+Grocer (Elder Sister)
+
+[06407.092]
+Our ingredients are fresh-picked.
+
+[06407.093]
+Grocer (Elder Sister)
+
+[06407.094]
+Thank you very much.
+
+[06407.095]
+Grocer (Elder Sister)
+
+[06407.096]
+Our ingredients are fresh-picked.
+
+[06407.097]
+Grocer (Younger Sister)
+
+[06407.098]
+If you want ingredients, please speak to my sister by the ladder.
+
+[06407.099]
+Chef
+
+[06407.100]
+Been making {16:34 84}?
+
+[06407.101]
+Chef
+
+[06407.102]
+Would you like to know how to make {16:34 84}?
+
+[06407.104]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06407.105]
+Chef
+
+[06407.106]
+I'll teach you how to make {16:34 84}.
+
+[06407.107]
+Chef
+
+[06407.108]
+Going to make it yourself? Well, that's fine too.
+
+[06407.109]
+Chef
+
+[06407.110]
+I have the recipe for {16:34 84}. Will you buy it for {0B:01 00 00 00}{14:34 7C}{0B:00 00 00 00} Gald?
+
+[06407.112]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06407.113]
+Chef
+
+[06407.114]
+You don't have enough money.
+
+[06407.115]
+Chef
+
+[06407.116]
+I'll sell you the recipe for {16:34 84}.
+
+[06407.117]
+Chef
+
+[06407.118]
+Well, it can't be helped.
+
+[06407.119]
+{16:24 88}, {16:24 8A}, {16:24 8C}
+
+[06407.120]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.121]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.122]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.123]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.124]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}
+
+[06407.125]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.126]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.127]
+Chef
+
+[06407.128]
+To make {16:34 84} you need:
+{18:44 80}
+
+[06407.129]
+Chef
+
+[06407.130]
+Why, you have the ingredients.
+
+[06407.131]
+Chef
+
+[06407.132]
+Let me have them and I'll make {16:34 84}. How about it?
+
+[06407.134]
+{03:00 00 00 00}　Yes
+　No
+
+[06407.135]
+Chef
+
+[06407.136]
+All right, wait there. I'll make you {16:34 84} right away.
+
+[06407.137]
+Chef
+
+[06407.138]
+That's a shame. It's really delicious...
+
+[06407.139]
+Chef
+
+[06407.140]
+I'm looking for ingredients. Would you bring them to me if you find any?
+
+[06407.141]
+Chef
+
+[06407.142]
+You are not worthy. Come back another time.
+
+[06407.143]
+Chef
+
+[06407.144]
+I've been waiting for someone like you. A cook worthy of being handed this.
+
+[06407.146]
+Picked up the recipe for {16:34 84}.
+
+[06407.148]
+Learned how to make {16:34 98}.
+
+[06407.149]
+Have a safe journey.
+
+[06407.150]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06407.151]
+Will you stay the night?
+
+[06407.153]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06407.154]
+Please rest well.
+
+[06407.155]
+Good morning.
+
+[06407.156]
+You do not have enough money.
+
+[06407.157]
+We look forward to seeing you again.
+
+[06407.162]
+Obtained {16:25 E6}.
+
+[06407.164]
+Obtained {08:FF FF FF FF}.
+
+[06407.166]
+Found {16:25 EE}, but you can carry no more.
+
+[06407.168]
+There is nothing here.
+

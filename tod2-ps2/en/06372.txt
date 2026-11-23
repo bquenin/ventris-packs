@@ -1,0 +1,349 @@
+[06372.001]
+Aigrette
+
+[06372.002]
+Aigrette
+
+[06372.004]
+It's full of cat goods.
+
+[06372.006]
+Cat food is inside.
+
+[06372.007]
+Cat-Loving Old Man
+
+[06372.008]
+Hey! Don't you touch my precious kitty goods!
+
+[06372.010]
+A cat figurine.
+
+[06372.011]
+Cat-Loving Old Man
+
+[06372.012]
+I'm the Cat-Loving Old Man.
+
+[06372.013]
+Cat-Loving Old Man
+
+[06372.014]
+...Also known as the Naming Geezer.
+
+[06372.015]
+Cat-Loving Old Man
+
+[06372.016]
+Ahem, I shall bestow splendid titles upon you too, just like "Cat-Loving" Old Man.
+
+[06372.018]
+{03:00 00 00 00}　Yes, please　
+　No, thank you　
+
+[06372.019]
+Cat-Loving Old Man
+
+[06372.020]
+...I see... You don't want one... If you change your mind, do come again.
+
+[06372.021]
+Cat-Loving Old Man
+
+[06372.022]
+Oh! Feeling like being named now, are we? Hm? Hmmm???
+
+[06372.023]
+Cat-Loving Old Man
+
+[06372.024]
+Well then, I shall bestow splendid titles upon you too, just like "Cat-Loving" Old Man.
+
+[06372.026]
+{03:00 00 00 00}　Yes, please　
+　No, thank you　
+
+[06372.027]
+Cat-Loving Old Man
+
+[06372.028]
+Hngh! ...You don't want one... You say that, but really you want me to give you one, don't you? Hm?
+
+[06372.029]
+Cat-Loving Old Man
+
+[06372.030]
+I'm the Cat-Loving Old Man. Mmm, kitty~♪
+
+[06372.031]
+Cat-Loving Old Man
+
+[06372.032]
+Ahem, you there! Are you taking good care of the splendid titles I gave you?
+
+[06372.034]
+Change that weird one you stuck on me!
+
+[06372.035]
+Cat-Loving Old Man
+
+[06372.036]
+{05:80 01 00 00}I absolutely will not!
+
+[06372.037]
+Cat-Loving Old Man
+
+[06372.038]
+I'm the Cat-Loving Old Man. Mmm, kitty~♪
+
+[06372.039]
+Cat-Loving Old Man
+
+[06372.040]
+Oh! I see, I see! ...By the way...
+
+[06372.041]
+Cat-Loving Old Man
+
+[06372.042]
+I collect little cat trinkets! How I'd love a "{08:30 00 00 00}", the famous product of Aquaveil...
+
+[06372.044]
+{03:00 00 00 00}　Give him the {08:30 00 00 00}　
+　Don't give him the {08:30 00 00 00}　
+
+[06372.045]
+Cat-Loving Old Man
+
+[06372.046]
+Oh! Truly! Mmm, kitty~♪
+
+[06372.048]
+Gave him the {08:30 00 00 00}.
+
+[06372.049]
+Cat-Loving Old Man
+
+[06372.050]
+Oh! The lucky kitty says it's no good unless there are six of you!
+
+[06372.052]
+He gave the {08:30 00 00 00} back.
+
+[06372.053]
+Cat-Loving Old Man
+
+[06372.054]
+...How lonely...
+
+[06372.055]
+Cat-Loving Old Man
+
+[06372.056]
+I collect little cat trinkets! How I'd love a "{08:30 00 00 00}", the famous product of Aquaveil...
+
+[06372.057]
+Cat-Loving Old Man
+
+[06372.058]
+No... just talking to myself...
+
+[06372.059]
+Cat-Loving Old Man
+
+[06372.060]
+...How I'd love a {08:30 00 00 00}, the famous product of Aquaveil...
+
+[06372.061]
+Cat-Loving Old Man
+
+[06372.062]
+No... this is purely me talking to myself...
+
+[06372.063]
+Cat-Loving Old Man
+
+[06372.064]
+They say the {08:30 00 00 00} is sold at the souvenir shop in Aquaveil...
+
+[06372.065]
+Cat-Loving Old Man
+
+[06372.066]
+Wah ha ha ha! Now then, everyone line up in a row~!
+
+[06372.067]
+Cat-Loving Old Man
+
+[06372.068]
+Now, I shall bestow on each of you a title that suits you.
+
+[06372.069]
+Cat-Loving Old Man
+
+[06372.070]
+Hmmm... Hmmm...
+
+[06372.071]
+Cat-Loving Old Man
+
+[06372.072]
+You are Whirlwind {NAME:01 00 00 00}!
+
+[06372.073]
+Cat-Loving Old Man
+
+[06372.074]
+And...
+
+[06372.075]
+Cat-Loving Old Man
+
+[06372.076]
+You are Rowdy Gang Boss {NAME:03 00 00 00}!
+
+[06372.078]
+Hey! Don't mess with me! Hey!
+
+[06372.080]
+I won't accept it! No way will I accept it! Think again right now! Make it something cooler! I'll slug you, hey!
+
+[06372.082]
+Rowdy Gang Boss suits you perfectly.
+
+[06372.083]
+Cat-Loving Old Man
+
+[06372.084]
+Awww... Thunder {NAME:03 00 00 00}...
+
+[06372.085]
+Cat-Loving Old Man
+
+[06372.086]
+And, Black-Clad {NAME:04 00 00 00}!
+
+[06372.087]
+Cat-Loving Old Man
+
+[06372.088]
+Sunshine {NAME:02 00 00 00}! How's that!?
+
+[06372.089]
+Cat-Loving Old Man
+
+[06372.090]
+Shooting Star {NAME:05 00 00 00}! Cool, eh!
+
+[06372.091]
+Cat-Loving Old Man
+
+[06372.092]
+And... hmmm...
+
+[06372.094]
+I'm last! I'm not too happy about being last, but fine, I'll be the grand finale.
+
+[06372.095]
+Cat-Loving Old Man
+
+[06372.096]
+Hmmm... Hmmm...
+
+[06372.098]
+Come on! Come on! Think up something magnificent that sings the praises of a genius like me.
+
+[06372.099]
+Cat-Loving Old Man
+
+[06372.100]
+{05:D0 00 00 00}Hmmm... Hmmm...
+
+[06372.102]
+Come on! What's the matter? There are any number of words, aren't there? Cutie... Beauty... "Brilliant mind" or "sparkling wit" would do too.
+
+[06372.103]
+Cat-Loving Old Man
+
+[06372.104]
+{05:A0 00 00 00}Hmmm... Hmmm...
+
+[06372.106]
+Honestly... you're hopeless! Naming Geezer, my foot. You've got no talent, have you!? Just an ordinary man after all...
+
+[06372.107]
+Cat-Loving Old Man
+
+[06372.108]
+Grrrrr!!!!!!!!!
+
+[06372.109]
+Cat-Loving Old Man
+
+[06372.110]
+{05:80 01 00 00}Bedhead {NAME:06 00 00 00}!
+
+[06372.112]
+What's thaaat! I won't accept it! I absolutely won't accept it! Rejected! Totally rejected!
+
+[06372.113]
+Cat-Loving Old Man
+
+[06372.114]
+No! It's Bedhead {NAME:06 00 00 00}, and that's final!
+
+[06372.115]
+Cat-Loving Old Man
+
+[06372.116]
+{05:80 01 00 00}I absolutely will not change it! Decided!
+
+[06372.117]
+Cat-Loving Old Man
+
+[06372.118]
+{05:00 02 00 00}And that settles it!!!!
+
+[06372.120]
+{NAME:01 00 00 00} and company earned titles.
+
+[06372.122]
+Meow.
+
+[06372.123]
+Have a safe journey.
+
+[06372.124]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06372.125]
+Will you stay the night?
+
+[06372.127]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06372.128]
+Please rest well.
+
+[06372.129]
+Good morning.
+
+[06372.130]
+You do not have enough money.
+
+[06372.131]
+We look forward to seeing you again.
+
+[06372.136]
+Obtained {16:25 BA}.
+
+[06372.138]
+Obtained {08:FF FF FF FF}.
+
+[06372.140]
+Found {16:25 C2}, but you can carry no more.
+
+[06372.142]
+There is nothing here.
+

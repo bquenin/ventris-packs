@@ -1,0 +1,97 @@
+[06558.001]
+Shrine of Light
+
+[06558.002]
+Shrine of Light
+
+[06558.003]
+Shrine of Light
+
+[06558.004]
+Shrine of Light
+
+[06558.005]
+Soldier
+
+[06558.006]
+The magic circle is governed by Lady Elraine's will.
+
+[06558.008]
+This is it, right? The magic circle for getting to Dycroft.
+
+[06558.009]
+Soldier
+
+[06558.010]
+Who are you? Only those Lady Elraine has allowed up to the castle may come here.
+
+[06558.011]
+Soldier
+
+[06558.012]
+Turn back at once... Hey!
+
+[06558.014]
+You can hear me, can't you, Elraine! We're not running and we're not hiding! Take us to Dycroft!
+
+[06558.015]
+Elraine
+
+[06558.016]
+...So you have come after all. Very well. As you wish...
+
+[06558.017]
+Soldier
+
+[06558.018]
+Th-this is...! The way to Dycroft...!
+
+[06558.019]
+Soldier
+
+[06558.020]
+Only those Lady Elraine has allowed up to the castle may come here.
+
+[06558.021]
+Soldier
+
+[06558.022]
+Leave at once.
+
+[06558.023]
+Have a safe journey.
+
+[06558.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06558.025]
+Will you stay the night?
+
+[06558.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06558.028]
+Please rest well.
+
+[06558.029]
+Good morning.
+
+[06558.030]
+You do not have enough money.
+
+[06558.031]
+We look forward to seeing you again.
+
+[06558.036]
+Obtained {16:25 BA}.
+
+[06558.038]
+Obtained {08:FF FF FF FF}.
+
+[06558.040]
+Found {16:25 C2}, but you can carry no more.
+
+[06558.042]
+There is nothing here.
+

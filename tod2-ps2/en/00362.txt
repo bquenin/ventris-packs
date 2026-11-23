@@ -1,0 +1,9 @@
+[00362.001]
+Right, let's go to my place. You must all be hungry? ...What's the matter, {NAME:03 00 00 00}?
+
+[00362.002]
+Well, I'm hungry all right... but when I think of the meal that's coming, my feet just won't move.
+
+[00362.003]
+Then just stand there.
+

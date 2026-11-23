@@ -1,0 +1,15 @@
+[00644.001]
+H-hey, {NAME:06 00 00 00}. Is it really all right to be in here? My head's starting to hurt...
+
+[00644.002]
+Hm. Do people of the future resist poison less than we do? Now that's a subject worth studying.
+
+[00644.003]
+So you'd be fine, and we'd keel over first!?
+
+[00644.004]
+It's all right. If it comes to it, I'll transplant artificial lungs. Or shall I make all of you but the head a machine?
+
+[00644.005]
+R-right! No time for chatter! Let's find the keys!
+

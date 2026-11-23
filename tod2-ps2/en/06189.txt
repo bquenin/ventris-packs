@@ -1,0 +1,3159 @@
+[06189.18168]
+"Cleansing flame of old,
+ begone! ○○○!"
+Which spell fills the ○?
+
+[06189.18249]
+Ancient Nova
+
+[06189.18268]
+Burn Strike
+
+[06189.18285]
+Execution
+
+[06189.18304]
+Divine Saber
+
+[06189.18323]
+Wrong!
+
+[06189.18332]
+Which is {NAME:06 00 00 00}'s
+signature line?
+
+[06189.18369]
+Mm! Too much romping!?
+
+[06189.18394]
+Mm! Too much play!?
+
+[06189.18417]
+Mm! Too much cedar!?
+
+[06189.18444]
+Mm! Too hooked!?
+
+[06189.18467]
+The monster Gaap left
+on the Flying Dragon?
+
+[06189.18517]
+Glasya-Labolas
+
+[06189.18534]
+Glasya-Labos
+
+[06189.18549]
+Griffin
+
+[06189.18560]
+Skull Dragon
+
+[06189.18575]
+How many controls did
+the Flying Dragon have?
+
+[06189.18623]
+4
+
+[06189.18628]
+5
+
+[06189.18633]
+3
+
+[06189.18638]
+2
+
+[06189.18643]
+30
+
+[06189.18650]
+10,500
+
+[06189.18667]
+Right!
+Good memory
+
+[06189.18691]
+Sorry, no
+
+[06189.18704]
+Were there that many?
+
+[06189.18727]
+That's way too many!
+
+[06189.18752]
+Sorry, time's up
+
+[06189.18771]
+The giant fought in Spiral Cave?
+
+[06189.18804]
+Halphas
+
+[06189.18815]
+Barbatos
+
+[06189.18826]
+Gaap
+
+[06189.18833]
+Buer
+
+[06189.18840]
+In the Catacombs, who got
+in our way as we went
+to meet Elraine?
+
+[06189.18909]
+Dantalion
+
+[06189.18922]
+Fortuna
+
+[06189.18935]
+In battle {NAME:03 00 00 00} sometimes says
+"Off to the next world!"
+When that fails, what
+comeback do I make?
+
+[06189.19034]
+Why are YOU going?
+
+[06189.19055]
+Me, huh!?
+
+[06189.19066]
+Huh?
+
+[06189.19073]
+Go by yourself
+
+[06189.19088]
+Right!
+It's nerve-racking to watch
+
+[06189.19124]
+"Me, huh"...?
+
+[06189.19141]
+That's what I say to {NAME:04 00 00 00}
+after a battle
+
+[06189.19184]
+Am I really that cold?
+
+[06189.19213]
+A foe nears as {NAME:03 00 00 00}
+casts: he shouts?
+
+[06189.19256]
+Don't come now!
+
+[06189.19277]
+I'm busy here!
+
+[06189.19294]
+Don't get in my way
+
+[06189.19315]
+Waah, stay back!
+
+[06189.19334]
+Use one arte three times
+running: {NAME:04 00 00 00} says?
+
+[06189.19383]
+A one-trick fool.
+
+[06189.19404]
+A waste of TP.
+
+[06189.19421]
+...Hmph
+
+[06189.19430]
+Use your head!
+
+[06189.19447]
+Besides a small HP heal, what good
+does eating Cheesecake do?
+
+[06189.19515]
+Cures KO
+
+[06189.19528]
+Water +
+
+[06189.19537]
+No weak
+
+[06189.19546]
+TP heal
+
+[06189.19555]
+Right!
+Tasty, and heals HP and KO!
+Cheesecake, king of sweets!
+
+[06189.19620]
+Sweet things do perk you up, mind
+
+[06189.19657]
+Close!
+
+[06189.19666]
+Eating with no thought
+for the effect? Glutton!
+
+[06189.19714]
+Which of Elraine's servants blocked
+our way to Dycroft?
+
+[06189.19782]
+Sabnock
+
+[06189.19793]
+Right!
+So polite it was creepy, eh
+
+[06189.19837]
+Well, that one got in our way too
+
+[06189.19880]
+He was more than in the way!
+
+[06189.19911]
+Close, but no
+
+[06189.19928]
+Time's up~
+A pretty tough one, he was~
+
+[06189.19972]
+Dymlos, one of the Swordians:
+what was his rank?
+
+[06189.20024]
+Lt.G
+
+[06189.20029]
+Col.
+
+[06189.20034]
+2Lt.
+
+[06189.20039]
+Gen.
+
+[06189.20044]
+Pvt.3
+
+[06189.20051]
+Right!
+Kind to his men: the ideal officer!
+Ooh! So cool!
+
+[06189.20120]
+Hmm, close, but no
+
+[06189.20145]
+Th-that sounds awfully grand..
+
+[06189.20183]
+Time's up~
+I don't get the ranks either
+
+[06189.20229]
+Dymlos, one of the Swordians:
+what was he known as?
+
+[06189.20281]
+Storm
+
+[06189.20288]
+Rammer
+
+[06189.20295]
+Cadet
+
+[06189.20302]
+Brave
+
+[06189.20309]
+Exactly!
+Ooh! So cool!
+
+[06189.20343]
+He's hardly a boy at his age...
+
+[06189.20376]
+Time's up~
+One day I'll be called
+the hero {NAME:01 00 00 00}...!
+
+[06189.20430]
+In my name, "{NAME:01 00 00 00} Dunamis",
+what does "Dunamis" mean?
+
+[06189.20497]
+Gift
+
+[06189.20502]
+Use
+
+[06189.20507]
+Guts
+
+[06189.20512]
+Wise
+
+[06189.20517]
+Yes!
+Mother told me, when she was young...
+
+[06189.20569]
+Close!
+It's something like that...
+
+[06189.20607]
+That's one of my favorites!
+
+[06189.20638]
+M-maybe the name's a bit
+much for me... ehehe
+
+[06189.20686]
+Bzzt, time's up.
+It's the orphanage's name
+and {NAME:03 00 00 00}'s too
+
+[06189.20746]
+At the Aquaveil lord's house,
+which girl takes to {NAME:03 00 00 00}?
+
+[06189.20807]
+Emily
+
+[06189.20814]
+Salina
+
+[06189.20821]
+Koyuki
+
+[06189.20828]
+Natsu
+
+[06189.20835]
+The Ixifosler's seal had stages:
+fire, water, wood...
+Huh? Wasn't there one more...?
+
+[06189.20928]
+Wing
+
+[06189.20933]
+Land
+
+[06189.20938]
+Gold
+
+[06189.20943]
+Time
+
+[06189.20948]
+Right!
+Move the statues
+to join the wings
+
+[06189.21001]
+It does sound likely, but...
+
+[06189.21030]
+♪Mon Mon Tue Wed Thu Fri...
+no~!
+
+[06189.21068]
+Was it a bit hard?
+
+[06189.21093]
+Supply Depot poison gas: how
+many minutes is it safe for?
+
+[06189.21155]
+10m
+
+[06189.21160]
+5m
+
+[06189.21164]
+3m
+
+[06189.21168]
+1m
+
+[06189.21172]
+30m
+
+[06189.21177]
+Right!
+Phew, that was hard...
+
+[06189.21207]
+Too short to find the release key
+
+[06189.21246]
+Time's up~
+What a bother of a trap
+
+[06189.21288]
+The last Hope Town:
+who is at {NAME:05 00 00 00}'s?
+
+[06189.21335]
+King Cook
+
+[06189.21348]
+Special Chef
+
+[06189.21373]
+Dynamite Girl
+
+[06189.21392]
+When it's cold, a steaming Fish Hot Pot!
+Now, which is not an ingredient of it?
+
+[06189.21480]
+Sable
+
+[06189.21487]
+Tuna
+
+[06189.21494]
+Salmon
+
+[06189.21501]
+Sardin
+
+[06189.21508]
+Cabbage
+
+[06189.21517]
+Right! Mind you,
+it's tasty with this in too
+
+[06189.21567]
+Miss.
+Tuna was in it?
+
+[06189.21593]
+Miss.
+Salmon was in it?
+
+[06189.21619]
+Miss.
+Sardine was in it?
+
+[06189.21645]
+Ha, got you!
+You must eat vegetables too
+
+[06189.21693]
+I ate it all, so you don't
+remember what was in it?
+Ugh... sorry
+
+[06189.21772]
+{NAME:06 00 00 00} caught bugs: the Margrana
+seven-spot mantis and the
+○○ green stag beetle.
+What is ○○?
+
+[06189.21869]
+Chakratan
+
+[06189.21882]
+Calviria
+
+[06189.21893]
+Tilmanic
+
+[06189.21908]
+Oberon
+
+[06189.21917]
+Yes!
+Keen on research is fine, but
+making samples of us is a bit...
+
+[06189.22000]
+That's a tomato's name.
+Calviria tomato!
+
+[06189.22042]
+I don't really know, but wasn't that
+a vegetable of {NAME:06 00 00 00}'s time?
+
+[06189.22111]
+Miss.
+That's no bug's name
+
+[06189.22143]
+Such long names.
+I nearly bite my tongue too
+
+[06189.22189]
+The Dunamis Orphanage's
+hen is called?
+
+[06189.22239]
+Giovanni
+
+[06189.22250]
+Campanella
+
+[06189.22263]
+Cluckie
+
+[06189.22272]
+Miyu
+
+[06189.22277]
+Arnold
+
+[06189.22288]
+Riiight♪
+
+[06189.22301]
+A bit of a lazy name
+
+[06189.22326]
+Isn't that our goat's name?
+
+[06189.22361]
+Time's up~
+Well, a bit of a hard one
+
+[06189.22407]
+The Surface Army flagship
+"Radisrol" was first
+what kind of ship?
+
+[06189.22480]
+Cargo
+
+[06189.22487]
+Escort
+
+[06189.22494]
+Raider
+
+[06189.22501]
+Mother
+
+[06189.22508]
+No warship, yet it was the
+Surface Army's stronghold
+
+[06189.22562]
+See, it carried no
+weapons, did it?
+
+[06189.22598]
+Litler declared the war over.
+What was his title?
+
+[06189.22650]
+Supreme Cmdr
+
+[06189.22663]
+Examiner
+
+[06189.22676]
+Director
+
+[06189.22687]
+Executive Director
+
+[06189.22706]
+In short,
+the one at the very top
+
+[06189.22740]
+Making a film?
+
+[06189.22757]
+{NAME:05 00 00 00} fights with a?
+
+[06189.22783]
+Bow
+
+[06189.22788]
+Locks
+
+[06189.22795]
+Foil
+
+[06189.22800]
+Rod
+
+[06189.22805]
+Sure with a bow, and spells too:
+a true mid-range expert!
+So reliable
+
+[06189.22882]
+Very powerful, but she
+only uses those on {NAME:03 00 00 00}
+
+[06189.22931]
+You should know this
+
+[06189.22952]
+Which era is {NAME:06 00 00 00} from?
+
+[06189.22980]
+The War era
+
+[06189.22993]
+Now
+
+[06189.22998]
+Fut.
+
+[06189.23003]
+Altered today
+
+[06189.23018]
+To think she was Dr. Berselius,
+who made the Swordians!
+
+[06189.23078]
+{NAME:02 00 00 00} and {NAME:05 00 00 00}
+belong there
+
+[06189.23116]
+Which Swordian did
+Father meet?
+
+[06189.23150]
+Dymlos
+
+[06189.23161]
+Atwight
+
+[06189.23172]
+Berselius
+
+[06189.23185]
+Miktran
+
+[06189.23196]
+I'd like to use a Swordian too
+
+[06189.23227]
+That's Mother's Swordian
+
+[06189.23258]
+Toss a coin in Cresta's
+fountain: what is said
+to go well?
+
+[06189.23331]
+Love
+
+[06189.23336]
+Cash
+
+[06189.23341]
+Hale
+
+[06189.23346]
+Exam
+
+[06189.23351]
+{NAME:03 00 00 00} did it
+plenty, it seems
+
+[06189.23382]
+I am...?
+
+[06189.23395]
+Sleepy
+
+[06189.23404]
+Avatar
+
+[06189.23413]
+Leon
+
+[06189.23420]
+Swordian Maker
+
+[06189.23439]
+Soon enough they'll be
+calling me "hero"
+
+[06189.23487]
+That's {NAME:02 00 00 00}
+
+[06189.23509]
+That's {NAME:04 00 00 00}
+
+[06189.23531]
+That's {NAME:06 00 00 00}
+
+[06189.23553]
+For a custom order, what
+did Heidelberg's weapon
+shop ask us to find?
+
+[06189.23628]
+Berselium
+
+[06189.23641]
+Miracle
+
+[06189.23650]
+Dark Bottle
+
+[06189.23663]
+Black Diamond
+
+[06189.23678]
+A precious ore you
+rarely come by
+
+[06189.23716]
+Behind the throne room of
+Heidelberg Castle: a heap of?
+
+[06189.23772]
+Lenses
+
+[06189.23779]
+Junk
+
+[06189.23784]
+Sweets
+
+[06189.23791]
+Gathering up Phandaria's
+lenses made a huge
+amount of them
+
+[06189.23858]
+Woodrow isn't
+that kind of man
+
+[06189.23894]
+What a dirty castle
+
+[06189.23915]
+Would he share
+some with me, then
+
+[06189.23949]
+In Hope Town, what does
+{NAME:05 00 00 00} do at every
+glad event?
+
+[06189.24009]
+Grave
+
+[06189.24016]
+Locks on {NAME:03 00 00 00}
+
+[06189.24032]
+3-3-7 clap
+
+[06189.24043]
+Cooks
+
+[06189.24050]
+Her brother's grave...
+
+[06189.24077]
+Trash Mountain was once
+the Heaven Dwellers' what?
+
+[06189.24129]
+Arsenal
+
+[06189.24138]
+Ship
+
+[06189.24143]
+Wish
+
+[06189.24148]
+Quite a nuisance, eh
+
+[06189.24171]
+When {NAME:02 00 00 00} went to Elraine
+alone, what did we
+ride to catch up
+with her?
+
+[06189.24260]
+Ixifosler
+
+[06189.24277]
+Dragon
+
+[06189.24284]
+Teleporter
+
+[06189.24301]
+Appraiser
+
+[06189.24312]
+How did {NAME:04 00 00 00}
+know about
+this airship
+
+[06189.24362]
+Where was the Ixifosler
+sealed away?
+
+[06189.24404]
+Army Base Ruin
+
+[06189.24419]
+Laguna
+
+[06189.24430]
+Oberon mine
+
+[06189.24445]
+Radisrol
+
+[06189.24458]
+It was guarded by
+seal upon seal
+
+[06189.24502]
+Flying Dragon, Ixifosler:
+the faster is?
+
+[06189.24544]
+Same
+
+[06189.24549]
+Rocket
+
+[06189.24558]
+Did you read it right?
+
+[06189.24581]
+Which item broke the Flying
+Dragon's controls?
+
+[06189.24629]
+Sorcerer's Scope
+
+[06189.24648]
+Sorcerer's Ring
+
+[06189.24665]
+Rope
+
+[06189.24672]
+Cutter
+
+[06189.24681]
+The Flying Dragon had
+all sorts of traps
+
+[06189.24725]
+The Army Base ruins were
+built in which era?
+
+[06189.24773]
+Eye of God era
+
+[06189.24788]
+Cosmic Era
+
+[06189.24805]
+Just as it says
+
+[06189.24822]
+Ruins, yet future?
+That can't be
+
+[06189.24860]
+G seed?
+
+[06189.24869]
+Where was the Sorcerer's
+Scope made?
+
+[06189.24913]
+Oberon
+
+[06189.24924]
+Army Base
+
+[06189.24935]
+Heidelberg
+
+[06189.24950]
+{NAME:04 00 00 00} explains it
+when you get it
+
+[06189.24989]
+You mean it's a thousand
+years old? No!
+
+[06189.25031]
+In the altered present, where
+do townsfolk wear the lens?
+
+[06189.25089]
+Top
+
+[06189.25093]
+Arm
+
+[06189.25097]
+Pec
+
+[06189.25101]
+Mask
+
+[06189.25106]
+Having to wear it always:
+what an awkward world
+
+[06189.25158]
+That's
+only {NAME:04 00 00 00}
+
+
+[06189.25184]
+The lens stuck on the head
+is called?
+
+[06189.25228]
+Life Lens
+
+[06189.25239]
+Soul Lens
+
+[06189.25250]
+Miracle Lens
+
+[06189.25263]
+Saving Lens
+
+[06189.25276]
+Thanks to Elraine, they
+can't move without it
+
+[06189.25322]
+To burn the Wild Forest's
+poison weeds: the Sorcerer's
+Ring and what else?
+
+[06189.25401]
+Garm's Fang
+
+[06189.25414]
+Basilisk Scale
+
+[06189.25429]
+Pompom Seed
+
+[06189.25442]
+Johnny's Lute
+
+[06189.25457]
+{NAME:05 00 00 00}'s idea worked!
+Catching the Garm took
+some doing, though
+
+[06189.25523]
+This cures every ailment
+but KO and restores HP and
+TP: a really handy item
+
+[06189.25604]
+In the altered present, what
+city stands at Heidelberg?
+
+[06189.25662]
+Twilight Realta
+
+[06189.25679]
+Azure Vangelo
+
+[06189.25700]
+Crimson Speranza
+
+[06189.25721]
+Green Shinwucha
+
+[06189.25742]
+In the altered present,
+Barbatos is honored as?
+
+[06189.25794]
+Hero
+
+[06189.25799]
+Star
+
+[06189.25804]
+Knight
+
+[06189.25811]
+Berserker
+
+[06189.25824]
+Barbatos, treated
+as a hero...
+
+[06189.25860]
+Right from where we
+stand, but no!
+
+[06189.25896]
+What place in Realta
+had been forgotten?
+
+[06189.25938]
+Books
+
+[06189.25945]
+Clinic
+
+[06189.25952]
+Arena
+
+[06189.25959]
+Pub
+
+[06189.25964]
+Elraine decides the future,
+so learning history lost
+its meaning...
+
+[06189.26039]
+{NAME:04 00 00 00} likened the
+altered world to?
+
+[06189.26082]
+Mini
+
+[06189.26087]
+Bottle ship
+
+[06189.26100]
+Closet
+
+[06189.26107]
+Child's blocks
+
+[06189.26124]
+A made world,
+complete within itself
+
+[06189.26166]
+Close in sense
+
+[06189.26181]
+For a "small world"?
+
+[06189.26204]
+{NAME:06 00 00 00} said something like that
+at the Egg of God, it seems
+
+[06189.26265]
+What did Elraine do in
+order to alter history?
+
+[06189.26315]
+Reversed the War
+
+[06189.26336]
+Ship sunk
+
+[06189.26347]
+Started Belcrant
+
+[06189.26366]
+Comet
+
+[06189.26375]
+So she ended up bringing
+Barbatos and Leon back
+
+[06189.26429]
+The sea lord did
+
+[06189.26446]
+That was to start the
+world over again
+
+[06189.26486]
+In the altered present, which
+holy shrine links the
+ground to Dycroft?
+
+[06189.26561]
+Light
+
+[06189.26572]
+Rain
+
+[06189.26583]
+Mirror
+
+[06189.26594]
+Truth
+
+[06189.26607]
+Forgotten already?
+
+[06189.26630]
+What did {NAME:04 00 00 00} call Elraine's
+rewriting of history?
+
+[06189.26685]
+A farce
+
+[06189.26694]
+Space opera
+
+[06189.26709]
+Show
+
+[06189.26714]
+Embody
+
+[06189.26721]
+He said it at Fortuna's
+temple, remember?
+
+[06189.26769]
+Lou is {NAME:05 00 00 00}'s?
+
+[06189.26787]
+Bro
+
+[06189.26792]
+Beau
+
+[06189.26797]
+Aide
+
+[06189.26802]
+Son
+
+[06189.26807]
+Struck down by illness...
+
+[06189.26836]
+{NAME:06 00 00 00}'s prototype
+robot is the?
+
+[06189.26873]
+HRX-2
+
+[06189.26886]
+HDX-2
+
+[06189.26899]
+HSX-2
+
+[06189.26912]
+HPX-2
+
+[06189.26925]
+What kind of robot would it
+have been, finished?
+We might not have won...
+
+[06189.27002]
+After it, {NAME:03 00 00 00} got
+a kick from {NAME:06 00 00 00}.
+Remember?
+
+[06189.27057]
+{NAME:06 00 00 00}: "A woman's ???
+ beats chaos theory."
+What is ???
+
+[06189.27118]
+Hunch
+
+[06189.27127]
+Gun
+
+[06189.27136]
+Tears
+
+[06189.27147]
+Charm
+
+[06189.27158]
+..."A woman's hunch"
+is a scary thing
+
+[06189.27198]
+Why does {NAME:06 00 00 00} hate being
+called "Doctor"?
+
+[06189.27241]
+It isn't cute
+
+[06189.27258]
+It's awkward
+
+[06189.27273]
+It's boring
+
+[06189.27288]
+It's uncool
+
+[06189.27303]
+{NAME:06 00 00 00}'s rank?
+
+[06189.27319]
+Lt.C
+
+[06189.27324]
+Exactly!
+Pretty high up, eh
+
+[06189.27360]
+Sorry, but no
+
+[06189.27377]
+Time's up~
+I can't really tell the ranks apart
+
+[06189.27431]
+Karell's rank was?
+
+[06189.27454]
+A higher rank
+
+[06189.27473]
+Atwight's rank was?
+
+[06189.27498]
+Exactly!
+She outranks {NAME:06 00 00 00}
+
+[06189.27537]
+Where were we posted
+under {NAME:06 00 00 00}?
+
+[06189.27586]
+Engrs.
+
+[06189.27593]
+Shock
+
+[06189.27600]
+Spies
+
+[06189.27609]
+Medics
+
+[06189.27616]
+With {NAME:06 00 00 00} we did
+things like stop Belcrant
+
+[06189.27667]
+Truly,
+I wanted this one
+
+[06189.27697]
+Which key stands heat changes?
+
+[06189.27728]
+Master Key
+
+[06189.27741]
+Cell Key
+
+[06189.27750]
+Bio Chip
+
+[06189.27763]
+Gene Chip
+
+[06189.27776]
+So many of them:
+forgotten?
+
+[06189.27810]
+When the Heavenly Army was
+born, who rebelled and
+seized Dycroft?
+
+[06189.27883]
+Elraine
+
+[06189.27894]
+He'd do nothing so petty
+
+[06189.27921]
+The weapon under Dycroft
+is called?
+
+[06189.27965]
+Belcrant
+
+[06189.27978]
+GodEye
+
+[06189.27985]
+It wasn't a weapon
+to begin with
+
+[06189.28023]
+That's wrong
+
+[06189.28036]
+The Swordian lab stands
+in whose grounds?
+
+[06189.28080]
+The Depot
+
+[06189.28091]
+{NAME:06 00 00 00}'s room-lab
+
+[06189.28109]
+Outside this room,
+the gas is a pest
+
+[06189.28147]
+Never in the enemy's
+base
+
+[06189.28175]
+Heal Bangle: a foe falls,
+what recovers?
+
+[06189.28217]
+HP
+
+[06189.28222]
+TP
+
+[06189.28227]
+SP
+
+[06189.28232]
+Guts
+
+[06189.28237]
+Dymlos acted on his own in an
+operation and ignored orders
+from above. What punishment
+did Litler hand down?
+
+[06189.28351]
+Lead the assault
+
+[06189.28372]
+Sacked
+
+[06189.28381]
+Dropkick
+
+[06189.28390]
+Scolding
+
+[06189.28399]
+Litler's a big-hearted man
+
+[06189.28430]
+No one would accept that
+
+[06189.28455]
+He's not {NAME:06 00 00 00}
+
+[06189.28477]
+He's not so petty
+
+[06189.28496]
+Whose mind is the
+Swordian "Berselius"?
+
+[06189.28546]
+Kernel
+
+[06189.28555]
+Litler
+
+[06189.28564]
+A lot went on, it seems
+
+[06189.28591]
+Sorry. No!
+
+[06189.28606]
+Who first wielded the
+Swordian "Berselius"?
+
+[06189.28654]
+Karell
+
+[06189.28663]
+What does {NAME:06 00 00 00} keep hoping
+we'll let her do to us?
+
+[06189.28720]
+Cut
+
+[06189.28725]
+Tidy
+
+[06189.28730]
+Sew
+
+[06189.28735]
+Cook
+
+[06189.28740]
+Wh-what is she thinking!
+Thanks to her I can't
+sleep sound... The other
+day she took my blood
+
+[06189.28834]
+No... wrong
+
+[06189.28851]
+Miyu is the?
+
+[06189.28868]
+Goat
+
+[06189.28879]
+Dog
+
+[06189.28890]
+Cat
+
+[06189.28901]
+Bird
+
+[06189.28912]
+Well spotted
+
+[06189.28927]
+Clue: our home
+
+[06189.28942]
+What does {NAME:04 00 00 00} call
+Chaltier?
+
+[06189.28983]
+Chal
+
+[06189.28990]
+Master
+
+[06189.28999]
+Lord Chaltier
+
+[06189.29014]
+Gramps
+
+[06189.29023]
+Together since he was
+small, like true brothers
+
+[06189.29073]
+That's what Chaltier
+calls {NAME:04 00 00 00}
+
+[06189.29112]
+{NAME:04 00 00 00}, "Lord"...!?
+
+[06189.29136]
+True,
+1,000 years older, but..
+
+[06189.29168]
+What did Woodrow
+hand over to me?
+
+[06189.29216]
+Writ
+
+[06189.29223]
+Collector Book
+
+[06189.29238]
+That's proof he
+trusts us, isn't
+it... heh heh
+
+[06189.29295]
+Traveling alone with me,
+{NAME:03 00 00 00} said we lacked "what"?
+
+[06189.29351]
+Glam
+
+[06189.29356]
+Love
+
+[06189.29361]
+Zest
+
+[06189.29366]
+{NAME:03 00 00 00} is always saying
+things like that!
+
+[06189.29415]
+{NAME:03 00 00 00} leaves girls
+under what age alone?
+
+[06189.29458]
+14 & under
+
+[06189.29469]
+12 & under
+
+[06189.29480]
+16 & under
+
+[06189.29491]
+18 & under
+
+[06189.29502]
+Which active level rises
+when you use normal attacks?
+
+[06189.29556]
+Attack
+
+[06189.29565]
+Magic
+
+[06189.29574]
+Power
+
+[06189.29581]
+Summit
+
+[06189.29590]
+Sorry, wrong
+
+[06189.29607]
+Which active level rises
+with artes and arcane artes?
+
+[06189.29663]
+Skill
+
+[06189.29670]
+Chain
+
+[06189.29679]
+Hope
+
+[06189.29686]
+Kyle
+
+[06189.29693]
+Which active level rises
+when you cast spells?
+
+[06189.29743]
+Malick
+
+[06189.29752]
+Matrix
+
+[06189.29765]
+Sorry, that's for artes
+
+[06189.29792]
+Which active level rises
+when you chain actions?
+
+[06189.29846]
+Chuin
+
+[06189.29855]
+Chine
+
+[06189.29864]
+When Atwight was taken,
+what was left with the letter
+"I wait at Spiral Cave"?
+
+[06189.29966]
+Bracelet
+
+[06189.29979]
+Earring
+
+[06189.29990]
+Necklace
+
+[06189.30001]
+Beret
+
+[06189.30010]
+Right!
+Was Barbatos
+in love with
+Atwight, maybe...?
+
+[06189.30076]
+Sounds right, but no
+
+[06189.30097]
+Atwight does always
+wear one, true
+
+[06189.30141]
+Sorry, time's up.
+A bit hard, maybe?
+
+[06189.30181]
+How do you fast-forward
+a long message?
+
+[06189.30229]
+{09:37 00 00 00}+{09:36 00 00 00}
+
+[06189.30242]
+{09:35 00 00 00}+{09:36 00 00 00}
+
+[06189.30255]
+{09:37 00 00 00}+{09:38 00 00 00}
+
+[06189.30268]
+{09:39 00 00 00}+{09:3A 00 00 00}
+
+[06189.30281]
+Land a "splendid finishing
+blow" and it is judged a what?
+
+[06189.30339]
+Technical Smash
+
+[06189.30360]
+Critical Blade
+
+[06189.30381]
+Hyper Smash
+
+[06189.30400]
+Elegant Smash
+
+[06189.30421]
+Sorry! The "blow
+of mine!" one!
+
+[06189.30459]
+Equip a Reflect Ring and what
+gets easier to do?
+
+[06189.30515]
+Guard strikes
+
+[06189.30532]
+Spirits Blaster
+
+[06189.30553]
+Reflect
+
+[06189.30562]
+TP drain
+
+[06189.30571]
+Thousand Voids' mystic arte, {NAME:04 00 00 00}?
+
+[06189.30609]
+Demon Rend
+
+[06189.30620]
+Azure Voids
+
+[06189.30633]
+Dust Burst
+
+[06189.30644]
+P.Edge
+
+[06189.30651]
+What follow-up spell has Wind Slash?
+
+[06189.30694]
+Cross Blade
+
+[06189.30709]
+Vortex Heat
+
+[06189.30728]
+Sting Grave
+
+[06189.30745]
+Blow Wind Blow
+
+[06189.30760]
+A Freeze Check gives freeze
+resistance and what else?
+
+[06189.30830]
+Counter
+
+[06189.30839]
+Absorb
+
+[06189.30848]
+Immune
+
+[06189.30857]
+TP regen
+
+[06189.30866]
+The Catacombs' four trick
+altars: their initials?
+
+[06189.30922]
+S-D-D-P
+
+[06189.30937]
+D-D-D-P
+
+[06189.30952]
+Wind-wood-fire
+
+[06189.30967]
+Dog-eat-dog
+
+[06189.30982]
+S-G-D-P
+
+[06189.30997]
+S-D-D-S
+
+[06189.31012]
+Right!
+A fiddly trap, that was~
+
+[06189.31050]
+Close!
+Something like that~
+
+[06189.31084]
+H-heard that somewhere...
+
+[06189.31113]
+Answer properly!
+
+[06189.31134]
+Ha-ha, got you♪
+
+[06189.31157]
+Sorry, time's up.
+A fiddly trap, that was~
+
+[06189.31203]
+The Flying Dragon had a room of
+tiny monsters seen only by the
+Sorcerer's Scope.
+What ruled that room?
+
+[06189.31311]
+Mothercell
+
+[06189.31322]
+Master Cell
+
+[06189.31335]
+King Cell
+
+[06189.31346]
+Grand Cell
+
+[06189.31357]
+Big Cell
+
+[06189.31366]
+Cell the Elder
+
+[06189.31381]
+Right!
+Burn it with the Sorcerer's
+Ring and the door opened
+
+[06189.31448]
+Close!
+It is something like that...
+
+[06189.31488]
+A bit too simple??
+
+[06189.31513]
+Hey!
+Answer properly!
+
+[06189.31541]
+Sorry, time's up.
+Burn it with the Sorcerer's
+Ring and the door opened
+
+[06189.31616]
+What does equipping a
+Technical Ring do?
+
+[06189.31674]
+Better item odds
+
+[06189.31695]
+Better skill-up odds
+
+[06189.31716]
+More TP regen
+
+[06189.31733]
+More SP regen
+
+[06189.31750]
+The fight with Dantalion on
+Dycroft: what foe came
+out with it?
+
+[06189.31831]
+Sage
+
+[06189.31838]
+Garm
+
+[06189.31845]
+Nachzehrer
+
+[06189.31860]
+Bandit
+
+[06189.31871]
+The god's avatar fought
+just before Fortuna?
+
+[06189.31919]
+Eleraine
+
+[06189.31930]
+Elrainc
+
+[06189.31941]
+Elruine
+
+[06189.31952]
+Yulraine
+
+[06189.31963]
+Elra1ne
+
+[06189.31974]
+Right!
+...Tch, you didn't fall for it...
+
+[06189.32020]
+Eh-eh?
+Look closely
+
+[06189.32040]
+Mm?
+Look close
+
+[06189.32056]
+Getting slack, are you?
+
+[06189.32081]
+L-l-l?
+Look closely
+
+[06189.32101]
+Look and you'll see
+
+[06189.32122]
+Which of these spells does
+Fortuna not use?
+
+[06189.32170]
+Negative Gate
+
+[06189.32187]
+Freeze Hunter
+
+[06189.32204]
+Splash
+
+[06189.32217]
+Right!
+As it's a dark spell?
+
+[06189.32249]
+Sorry!
+Wrong
+
+[06189.32263]
+So hard a fight, and
+you forgot already?
+
+[06189.32305]
+Who was it we fought in the Catacombs?
+
+[06189.32350]
+Owlbear
+
+[06189.32361]
+Right! A pretty tough one, eh
+
+[06189.32398]
+We fought Elraine before the giant lens
+
+[06189.32449]
+...Isn't that the first one I ever fought?
+
+[06189.32496]
+Close! Gaap set that one on
+us on the Flying Dragon
+
+[06189.32556]
+{NAME:06 00 00 00}'s invention that caught the
+space-time warp in Heidelberg?
+
+[06189.32625]
+Analyzer2-II
+
+[06189.32638]
+Catcher 3-II
+
+[06189.32655]
+Analyst 3-II
+
+[06189.32668]
+Gauger 2-II
+
+[06189.32681]
+Right!
+{NAME:06 00 00 00} really can make anything
+
+[06189.32724]
+A cute name in its own way
+
+[06189.32757]
+Not quite
+
+[06189.32772]
+Close! Like that!
+
+[06189.32793]
+Bzzt, time's up.
+That thing spoiled my date with {NAME:02 00 00 00}
+
+[06189.32858]
+The Supply Depot's chief is named?
+
+[06189.32893]
+Blackburn
+
+[06189.32908]
+Brainburn
+
+[06189.32923]
+Whiteburn
+
+[06189.32938]
+Enamelburn
+
+[06189.32953]
+To lift the Depot's high-
+level lock, what is needed
+besides the Master Key
+and Cell Key?
+
+[06189.33049]
+Bio Key
+
+[06189.33060]
+Common Key
+
+[06189.33071]
+Gene Key
+
+[06189.33082]
+Last Key
+
+[06189.33093]
+The shrine testing who may go
+to Dycroft: its name?
+
+[06189.33155]
+Dark
+
+[06189.33166]
+Salvation
+
+[06189.33179]
+Happiness
+
+[06189.33192]
+God
+
+[06189.33203]
+The Chosen
+
+[06189.33222]
+Right!
+It stood on a low hill
+
+[06189.33252]
+Hmm, it's the opposite name
+
+[06189.33281]
+Something like it... but no
+
+[06189.33312]
+Sounds just right... but no
+
+[06189.33345]
+The shade of meaning's off...
+
+[06189.33378]
+Who holds a corner of the
+Radisrol, forever gossiping?
+
+[06189.33438]
+Old ladies
+
+[06189.33449]
+D. Wings
+
+[06189.33458]
+Supply
+
+[06189.33467]
+{NAME:01 00 00 00}'s
+
+[06189.33475]
+Veteran and rookie
+
+[06189.33494]
+Right!
+Such loud voices, too~
+
+[06189.33528]
+Not us!
+What are you saying
+
+[06189.33560]
+What are the "usual words"
+Dymlos always says when he
+leads his men?
+
+[06189.33633]
+Come back alive
+
+[06189.33650]
+Good luck
+
+[06189.33661]
+Do not die
+
+[06189.33674]
+Give it all
+
+[06189.33687]
+Go-go-go☆
+
+[06189.33700]
+Right!
+So like Dymlos, who
+cares for his men!
+Thrilling!
+
+[06189.33766]
+Mm, that could work too.
+But no
+
+[06189.33802]
+The meaning is about that, but...
+
+[06189.33839]
+...Answer properly or I'll get mad
+
+[06189.33876]
+Bzzt, time's up.
+Those words gave
+everyone courage
+
+[06189.33933]
+Traveling to the future for
+the last battle with Elraine,
+where did we first arrive?
+
+[06189.34020]
+Straylize Temple
+
+[06189.34041]
+Calviola
+
+[06189.34052]
+Dycroft
+
+[06189.34065]
+Right!
+We went using the
+Ixifosler's lens
+
+[06189.34120]
+Sorry!
+Wrong
+
+[06189.34134]
+That's where {NAME:02 00 00 00}
+and I first met
+
+[06189.34175]
+So much time travel:
+forgotten, have you?
+
+[06189.34219]
+What does Dymlos keep
+hidden in his room?
+
+[06189.34267]
+Flare Bottle
+
+[06189.34280]
+Atwight's photo
+
+[06189.34297]
+Swordian
+
+[06189.34310]
+He hides nothing!
+
+[06189.34331]
+A 35-mark math test
+
+[06189.34352]
+Miss.
+...But with a better
+search, who knows...♪
+
+[06189.34409]
+Surely he'd keep that
+locked up tighter?
+
+[06189.34453]
+However great a man, a secret or two
+...eh?
+
+[06189.34505]
+That's {NAME:03 00 00 00}'s, eh~♪
+
+[06189.34531]
+Of the Depot's release keys,
+which alone stands heat changes?
+
+[06189.34597]
+All-Key
+
+[06189.34606]
+Master Chip
+
+[06189.34621]
+Right!
+A bit easy, maybe?
+
+[06189.34653]
+I see what you mean...
+sorry!
+
+[06189.34693]
+?? Was there a key called that?
+
+[06189.34726]
+{NAME:04 00 00 00} can't bear green
+peppers on his plate,
+and what else?
+
+[06189.34790]
+Carrot
+
+[06189.34799]
+Onion
+
+[06189.34808]
+Okra
+
+[06189.34813]
+Calviria Tomato
+
+[06189.34830]
+Green peas
+
+[06189.34843]
+Pfft!
+Right!
+He has a cute side, has
+{NAME:04 00 00 00}
+
+[06189.34894]
+Hmm.
+Sounds right, but no
+
+[06189.34926]
+A vegetable of
+{NAME:06 00 00 00}'s time
+
+[06189.34955]
+Hmm.
+Just the sort,
+but no
+
+[06189.34996]
+Don't be a picky eater.
+It was this
+
+[06189.35036]
+Refine an Orange Gel with an
+Orange Gel: what do you get?
+
+[06189.35100]
+Pine Gel
+
+[06189.35111]
+Miracle Gel
+
+[06189.35124]
+Tuna Gel
+
+[06189.35135]
+200% Juice Gel
+
+[06189.35152]
+Yes!
+The natural answer, eh
+
+[06189.35186]
+No.
+Aiming a bit high, eh?
+
+[06189.35220]
+Ugh...
+how would that ever happen~
+
+[06189.35262]
+A gel like that...
+I'd love to try one♪
+
+[06189.35304]
+Can't be helped.
+Try enough of them and
+they all blur
+
+[06189.35361]
+Refine a Mix Gel with a
+Mix Gel: what do you get?
+
+[06189.35425]
+Life Bottle
+
+[06189.35438]
+Apple Gel
+
+[06189.35451]
+Huh?
+That feels like a
+weaker effect...
+
+[06189.35500]
+Know what Saffron turns
+into when refined?
+
+[06189.35550]
+Lavender
+
+[06189.35561]
+Rosemary
+
+[06189.35574]
+Thyme
+
+[06189.35581]
+Wrong.
+
+[06189.35588]
+Know what Savory turns
+into when refined?
+
+[06189.35636]
+Saffron
+
+[06189.35645]
+Time up
+
+[06189.35654]
+Cabbage Rolls need Cabbage,
+Sinewy Meat and...
+what else?
+
+[06189.35735]
+Egg
+
+[06189.35742]
+Consomme
+
+[06189.35757]
+Kanpyo
+
+[06189.35768]
+Right!
+A bit of a surprise, eh
+
+[06189.35800]
+Tasty with this in too, eh
+
+[06189.35829]
+Well, that's true enough
+
+[06189.35856]
+Well, better with than without it
+
+[06189.35893]
+Might be tasty with it too
+
+[06189.35922]
+Sorry, time's up.
+{NAME:05 00 00 00}'s are the best♪
+
+[06189.35971]
+The spell Fortuna uses late in
+the battle, leaving the whole party
+near death: "Last..." what?
+
+[06189.36066]
+Vanisher
+
+[06189.36081]
+Pressure
+
+[06189.36094]
+Requiem
+
+[06189.36105]
+Pain
+
+[06189.36112]
+Slasher
+
+[06189.36125]
+Flow
+
+[06189.36132]
+Spri-End
+
+[06189.36145]
+Goddess Bless
+
+[06189.36160]
+Right!
+The one with meteors closing
+in from above and below.
+I thought we were done for
+
+[06189.36248]
+Close!
+Something like it, but...
+
+[06189.36282]
+After a fight that hard,
+you forgot?
+The type who forgets
+bad things, maybe?
+
+[06189.36360]
+Who gave us the Sorcerer's Scope,
+that amazing tool for unseen things?
+
+[06189.36436]
+Philia
+
+[06189.36445]
+Woodrow
+
+[06189.36456]
+Exactly.
+Truly a kind and
+lovely person...
+
+[06189.36509]
+{NAME:06 00 00 00} could probably
+build one, mind
+
+[06189.36558]
+As if it'd be him!
+
+[06189.36585]
+Close!
+One of the Four Heroes,
+that much is right
+
+[06189.36644]
+After all she did for us?!
+
+[06189.36721]
+Chaltier's room on the Radisrol:
+which book was really there!
+
+[06189.36787]
+Happy Life
+
+[06189.36798]
+Live Positively
+
+[06189.36819]
+How to Laugh
+
+[06189.36832]
+Thrifty Ways
+
+[06189.36845]
+Right!
+There was "Beating
+Pressure" and such too...
+
+[06189.36900]
+Mm... close?
+
+[06189.36915]
+Imagine Barbatos
+reading that
+
+[06189.36951]
+Times were poor then,
+...no, wait, wrong!
+
+[06189.36995]
+Time's up!
+
+[06189.37008]
+So:
+who is {NAME:04 00 00 00} really?!
+
+[06189.37035]
+Stahn
+
+[06189.37042]
+Johnny
+
+[06189.37051]
+Kongman
+
+[06189.37062]
+Rutee
+
+[06189.37071]
+Yamada
+
+[06189.37080]
+Riiight♪
+Not knowing that
+would be bad
+
+[06189.37127]
+That's my father!
+
+[06189.37152]
+No way that...
+
+[06189.37171]
+H-he must look slim dressed...
+
+[06189.37204]
+So worried she came in
+disguise... no, wrong!
+
+[06189.37250]
+...Who?
+
+[06189.37259]
+Not knowing that would be bad
+
+[06189.37292]
+The title for passing
+400 encounters?
+
+[06189.37340]
+Spiker
+
+[06189.37351]
+Spaper
+
+[06189.37360]
+Slayer
+
+[06189.37371]
+Slender
+
+[06189.37382]
+The title for passing
+800 encounters?
+
+[06189.37430]
+Eraser
+
+[06189.37441]
+Yessir
+
+[06189.37452]
+Oh-You-Fool
+
+[06189.37465]
+The title for reaching total
+GRADE 600, as a skilled
+tactician?
+
+[06189.37540]
+Mars
+
+[06189.37545]
+Savior
+
+[06189.37552]
+Fallen
+
+[06189.37559]
+F... fallen?!
+
+[06189.37578]
+What title do you get
+for beating Fortuna?
+
+[06189.37624]
+None at all
+
+[06189.37639]
+Inhuman
+
+[06189.37648]
+The Hero
+
+[06189.37657]
+Goddess Slayer
+
+[06189.37676]
+...That's
+just picking on me
+
+[06189.37710]
+Well~
+to my mind that
+would be right
+
+[06189.37759]
+Isn't that a title for
+encounter counts...?
+
+[06189.37807]
+We must walk our own road
+
+[06189.37836]
+Sorry.
+Fortuna is a god, so
+...you see?
+
+[06189.37883]
+Which high spell packs
+earth's power and frees it?
+
+[06189.37935]
+Grand Vanish
+
+[06189.37954]
+Graviton Hole
+
+[06189.37971]
+Embrace End
+
+[06189.37990]
+Which high spell drags
+foes to the black abyss?
+
+[06189.38038]
+Excution
+
+[06189.38057]
+Excusijon
+
+[06189.38078]
+Shadow Edge
+
+[06189.38093]
+Ablecution
+
+[06189.38114]
+Which high spell coffins foes
+in ice for "the end"?
+
+[06189.38170]
+Fearful Storm
+
+[06189.38189]
+{NAME:06 00 00 00} leads which
+Army corps?
+
+[06189.38222]
+Prank Mecha
+
+[06189.38237]
+Boffin
+
+[06189.38244]
+Arms
+
+[06189.38251]
+R&D
+
+[06189.38258]
+Right!
+Quite a big shot, eh
+
+[06189.38288]
+Sounds right,
+but no
+
+[06189.38318]
+Sorry, time's up.
+I'd half forgotten {NAME:06 00 00 00}
+led a corps myself
+
+[06189.38382]
+The place Elraine chose for
+the last battle with us?
+
+[06189.38436]
+Egg of God
+
+[06189.38447]
+Star
+
+[06189.38454]
+God's Iris
+
+[06189.38465]
+GodEye
+
+[06189.38472]
+Palm of God
+
+[06189.38485]
+Right!
+A sight, afloat in the sky
+
+[06189.38523]
+That's the name of the
+6-meter lens
+
+[06189.38559]
+Bzzt, time's up.
+Not remembering the last battle...
+were you asleep?
+
+[06189.38632]
+For breaking {NAME:06 00 00 00}'s machine,
+what did {NAME:03 00 00 00} get?
+
+[06189.38690]
+Kick
+
+[06189.38697]
+Body blow
+
+[06189.38712]
+Slap-slap
+
+[06189.38723]
+Surgery
+
+[06189.38732]
+Judo throw
+
+[06189.38743]
+Right!
+That was cruel
+
+[06189.38765]
+That'd hurt too...
+
+[06189.38788]
+That's Mother's forte
+...I'd rather forget...
+
+[06189.38836]
+H-he'd die~!
+
+[06189.38857]
+This is
+"hard beats soft!"
+...no, wrong!
+
+[06189.38902]
+Sorry, time's up.
+And she told us to "clear
+it away" herself... eh?
+
+[06189.38971]
+{NAME:05 00 00 00}'s arte "Dragon ○":
+what goes in the ○?
+
+[06189.39022]
+Fire
+
+[06189.39027]
+Ice
+
+[06189.39032]
+Wave
+
+[06189.39037]
+Sky
+
+[06189.39042]
+{NAME:04 00 00 00}'s Demon Slayer
+Dark is a?
+
+[06189.39077]
+Darkness
+
+[06189.39086]
+Shadows
+
+[06189.39095]
+Moonlit
+
+[06189.39104]
+Slaying
+
+[06189.39113]
+{NAME:03 00 00 00}'s "War Cry ○last":
+which letter is the ○?
+
+[06189.39167]
+B
+
+[06189.39172]
+F
+
+[06189.39177]
+G
+
+[06189.39182]
+P
+
+[06189.39187]
+What follow-up spell
+has Flame Drive?
+
+[06189.39227]
+Photon Blaze
+
+[06189.39244]
+Finger Bowl
+
+[06189.39261]
+Flare Blaze
+
+[06189.39276]
+Flame Ball
+
+[06189.39291]
+What follow-up spell
+has Thrust Fang?
+
+[06189.39331]
+Aerial Edge
+
+[06189.39348]
+Screwdriver
+
+[06189.39369]
+Got Bless
+
+[06189.39382]
+What follow-up spell
+has Air Pressure?
+
+[06189.39422]
+Ceiling Fall
+
+[06189.39439]
+Atomic Fall
+
+[06189.39458]
+Stone Crush
+
+[06189.39477]
+Gravity Stone
+
+[06189.39496]
+Delta Ray's
+follow-up spell?
+
+[06189.39530]
+Trinity Spark
+
+[06189.39549]
+Prism Flash
+
+[06189.39568]
+Shining Spear
+
+[06189.39587]
+Vangelo, an odd city in
+the world Elraine remade:
+what is its full
+name?
+
+[06189.39679]
+Crimson Vangelo
+
+[06189.39700]
+Twilight Vangelo
+
+[06189.39721]
+Blue-Sky Vangelo
+
+[06189.39742]
+Aerial Vangelo
+
+[06189.39763]
+Right!
+A truly odd city, eh~
+
+[06189.39795]
+Close!
+That's Speranza.
+I often mix them
+up myself...
+
+[06189.39871]
+Close!
+That's Realta.
+I often mix them
+up myself...
+
+[06189.39943]
+Mm?
+Was there such a city??
+Don't just make things up!
+
+[06189.40002]
+What floats in the
+sky is Dycroft
+
+[06189.40042]
+Hmm, can't be helped.
+I'd half forgotten myself
+
+[06189.40094]
+After Fortuna fell, everyone
+went back to their own time.
+Who went first?
+
+[06189.40194]
+{NAME:03 00 00 00}&{NAME:01 00 00 00}
+
+[06189.40207]
+Exactly.
+Bonds don't vanish, I know,
+but it was a little lonely
+
+[06189.40278]
+Loni was last, and left
+me a cheesy line as
+he vanished.
+...I was a bit glad, though
+
+[06189.40364]
+{NAME:05 00 00 00} was second
+
+[06189.40388]
+{NAME:03 00 00 00} went back
+a little before me
+
+[06189.40427]
+Bzzt, time's up.
+A moving scene!
+How could you forget!
+
+[06189.40486]
+The Dunamis Orphanage's goat,
+lately heavy with milk, is called?
+
+[06189.40552]
+Yuki
+
+[06189.40557]
+Goat
+
+[06189.40562]
+Lou
+
+[06189.40567]
+Riiight♪
+She's really cute!
+
+[06189.40605]
+She's pure white,
+so it might suit
+
+[06189.40643]
+A goat named Goat?!
+...Surreal...
+
+[06189.40683]
+That's {NAME:05 00 00 00}'s
+brother
+
+[06189.40710]
+Isn't that Father's name?
+
+[06189.40739]
+Time's up~
+Well, a bit of a
+hard one
+
+[06189.40786]
+Which was not in the
+nightmare I had?
+
+[06189.40830]
+Bad {NAME:02 00 00 00}
+
+[06189.40844]
+{NAME:03 00 00 00} a woman
+
+[06189.40860]
+{NAME:04 00 00 00} drunk
+
+[06189.40876]
+Me, rebuilt
+
+[06189.40893]
+Right!
+A nightmare of nightmares~
+
+[06189.40927]
+Ugh...
+don't remind me of that...
+
+[06189.40971]
+That one was rather fun♪
+
+[06189.41000]
+J-just recalling it, I shake...
+
+[06189.41035]
+Glad it was a dream
+
+[06189.41058]
+A Resist Ring is a ring of?
+
+[06189.41087]
+resistance
+
+[06189.41098]
+Insight
+
+[06189.41109]
+Patience
+
+[06189.41120]
+Force
+
+[06189.41131]
+Mind
+
+[06189.41142]
+Which Forest lay between
+Vangelo and Realta?
+
+[06189.41192]
+Wild
+
+[06189.41201]
+Luring
+
+[06189.41214]
+Lost
+
+[06189.41223]
+Primal
+
+[06189.41230]
+Jungle
+
+[06189.41241]
+Taboo
+
+[06189.41250]
+Right!
+Without {NAME:05 00 00 00} we'd
+have been stuck
+
+[06189.41300]
+Th-that's quite on the nose...
+
+[06189.41331]
+Sorry! Time's up.
+{NAME:05 00 00 00} being there
+saved us then
+
+[06189.41385]
+Katz Village has a hot
+spring but no baths.
+Why was that?
+
+[06189.41446]
+Too wet
+
+[06189.41457]
+Too hot
+
+[06189.41468]
+Too scary
+
+[06189.41479]
+They hate it
+
+[06189.41492]
+The boy Oberon's hat, 1,000 years
+ago, was? (白 white, 赤 red)
+
+[06189.41558]
+Aqua
+
+[06189.41563]
+Pink
+
+[06189.41576]
+Orange
+
+[06189.41585]
+Made from Rice, Egg and Onion:
+which dish, one I looove too?
+
+[06189.41653]
+Omurice
+
+[06189.41664]
+Fried Rice
+
+[06189.41675]
+Eggdon
+
+[06189.41682]
+Risotto
+
+[06189.41691]
+Right! I like the one {NAME:04 00 00 00}
+makes best♪
+...Ah, not that {NAME:02 00 00 00}'s
+isn't good...
+
+[06189.41783]
+Hmm,
+you'd think so, but...
+
+[06189.41815]
+Hmm,
+you can make that, true...
+
+[06189.41851]
+Close!
+Risotto needs a few
+more ingredients
+
+[06189.41902]
+The mystic arte on my
+Fang Azure Edge is?
+
+[06189.41952]
+Rend Azure
+
+[06189.41963]
+Rip Azure
+
+[06189.41974]
+Bash Azure
+
+[06189.41985]
+Fire Azure
+
+[06189.41996]
+Right!
+"As if that's all!", eh
+
+[06189.42030]
+Mm... close!
+It feels like it could exist
+
+[06189.42076]
+Don't go bashing the Azure...
+It sounds like a counter
+
+[06189.42134]
+No fire here
+
+[06189.42147]
+Sorcerer's Ring plus Scope:
+lenses used in all?
+
+[06189.42207]
+4
+
+[06189.42212]
+5
+
+[06189.42217]
+3
+
+[06189.42222]
+2
+
+[06189.42227]
+0
+
+[06189.42232]
+1.5
+
+[06189.42239]
+10,000
+
+[06189.42246]
+Right!
+No wasting them, eh
+
+[06189.42274]
+That's asking too much~
+
+[06189.42299]
+An odd half number...
+
+[06189.42322]
+As if that could be!
+

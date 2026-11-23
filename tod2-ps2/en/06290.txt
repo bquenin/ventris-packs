@@ -1,0 +1,38 @@
+[06290.4788]
+Mikheil
+
+[06290.4801]
+Ignacy
+
+[06290.4812]
+Helraios
+
+[06290.4825]
+Claudis
+
+[06290.4838]
+Shusaia
+
+[06290.4849]
+Rodeon
+
+[06290.4860]
+Ansuzun
+
+[06290.4873]
+This is one of the
+aerial cities.
+Which one?
+
+[06290.4922]
+Here you ride moving
+floors that carry you
+across. A mechanized
+aerial city.
+
+[06290.5012]
+Wrong!
+
+[06290.5019]
+Time's up
+

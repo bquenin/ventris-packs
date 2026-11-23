@@ -1,0 +1,432 @@
+[49.000]
+Alvanista Castle
+
+[49.001]
+"It is shut fast."
+
+[49.002]
+"What do you want!? This is no place for commoners like you! Be off!"{PAGE}
+{クラース}
+"But we are here for Master Harrison..."{PAGE}
+"Silence!"{PAGE}
+???
+"Wait."
+
+[49.003]
+"Master Harrison!"{PAGE}
+Harrison
+"These are the people I spoke of the other day. Treat them with courtesy."{PAGE}
+
+
+[49.004]
+"These people!? I-I beg your pardon."
+
+[49.005]
+Harrison
+"Please forgive my subordinate's rudeness. This way, please."
+
+[49.006]
+"They say that lot are the ones who can beat Dhaos."{PAGE}
+"They're still children. Will they be all right?"
+
+[49.007]
+Laird
+"I am still far from ready. I hope soon to become a fine man like my father and to serve the people."
+
+[49.008]
+"Just now the remnants of the pirates are held in this dungeon. You want to talk to them? I don't mind."
+
+[49.009]
+"Ahh, I'm bored..."
+
+[49.010]
+"Nothing to report..."
+
+[49.011]
+"What do you want? We're the pirates who make crying children hush{SPEED:10}...{SPEED:FF} what's left of them."
+
+[49.012]
+"I've nothing to say to you. This is no place for kids
+
+[49.013]
+.{PAGE}
+What? The chief's son asked you?{PAGE}
+The 'true treasure', eh... Hmm, I haven't a clue..."
+
+[49.014]
+."
+
+[49.015]
+"I've nothing to say to you. Clear off
+
+[49.016]
+.{PAGE}
+What? The chief's son asked you?{PAGE}
+The 'true treasure'. I've heard of it, but... It was a keepsake of the chief's wife, so they say. What it looks like, I don't know."
+
+[49.017]
+."
+
+[49.018]
+"So the design of this magic circle does have something to do with it..."
+
+[49.019]
+"Concentrate harder..."
+
+[49.020]
+"Ugh... I've been up all night..."
+
+[49.021]
+"In terms of the algorithm..."
+
+[49.022]
+"Spirits? Let me see...{PAGE}
+There's Undine, the spirit of water, said to be in the sea cave on the lone island in the northern sea, and Gnome, the spirit of earth, said to be in the Cave of Spirits east of Belladam... Was that any help?"
+
+[49.023]
+"They say magitech would make life very easy if it could be put to use. But there's something fishy about it. The backlash looks like being a big one."
+
+[49.024]
+"Spirits? They say Ifrit, the spirit of fire, is in a cave in the desert of Freyland."
+
+[49.025]
+Lundgrom
+"Yggdrasil? What might that be?{PAGE}
+...Oh, there is such a forest?"
+
+[49.026]
+Lundgrom
+"Well? Is the search for spells going forward?{PAGE}
+News of spirits... Hmm, this is not very trustworthy, but they say the spirit Maxwell is in the Moria Mine."{PAGE}
+{クラース}
+"Maxwell!? The one said to rule the four great spirits?"{PAGE}
+Lundgrom
+"Yes. But there is no old document to bear it out. It is only a rumour on the wind."
+
+[49.027]
+Lundgrom
+"Have you your permit to enter the Moria Mine yet?{PAGE}
+What, not yet? The Adventurers' Guild is on the west side of town, under the apothecary's."
+
+[49.028]
+Lundgrom
+"So you are back. By your faces, you have something to show for it."{PAGE}
+{クレス}
+"Yes. We went down to the lowest level of the Moria Mine."{PAGE}
+Lundgrom
+"Oh, that is remarkable! The lowest level is a very hard place."{PAGE}
+{クラース}
+"We found a ring there for making a pact with a spirit, but..."{PAGE}
+Lundgrom
+"I see, so at last you can make a pact with Luna.{PAGE}
+{SPEED:10}...{SPEED:FF}You look troubled. Is something wrong?"{PAGE}
+{クラース}
+"Not here. Outside..."
+
+[49.029]
+Lundgrom
+"Give my regards to Edward."
+
+[49.030]
+{クラース}
+"Lord Lundgrom, may I have a moment of your time?"{PAGE}
+Lundgrom
+"You may, but... Did you see Edward?"{PAGE}
+{クラース}
+"It is about that I wish to speak. Not here. Outside..."
+
+[49.031]
+Lundgrom
+"I am just now asking the King for a permit to enter the Forest of Ymir."
+
+[49.032]
+Lundgrom
+"I have kept you waiting. Wear this on your breast when you go.{PAGE}
+And let me warn you: a half-elf will never be let into the Forest of Ymir."{PAGE}
+
+
+[49.033]
+{COLOR:03}Received the Emblem of the royal house of Alvanista.{COLOR:02}{PAGE}
+
+
+[49.034]
+Lundgrom
+"The Forest of Ymir lies across the bridge to the east of here, then to the south-west."
+
+[49.035]
+Lundgrom
+"So you have a pact ring at last. That leaves the search for spells...{PAGE}
+As the King said, once your search for spells has got some way, lend us your help in the war. Our own magic corps is already on its way to Midgards."
+
+[49.036]
+Lundgrom
+"Should you be here? The war is not over yet."
+
+[49.037]
+"Oh, that girl there is a magic user, isn't she? Shall I sell you a spellbook?"{PAGE}
+Which would you like?
+　1. {STR:D807}
+　2. {STR:DA07}
+
+[49.038]
+That will be 4000 Gald. All right?
+
+[49.039]
+{COLOR:03}{アーチェ} learned {STR:D807}.{COLOR:02}
+
+[49.040]
+That will be 12000 Gald. All right?
+
+[49.041]
+{COLOR:03}{アーチェ} learned {STR:DA07}.{COLOR:02}
+
+[49.042]
+Oh, I see.
+
+[49.043]
+You haven't enough money.
+
+[49.044]
+But you already know this spell.
+
+[49.045]
+"Won't somebody buy a spellbook...?"
+
+[49.046]
+"Nothing to report!"
+
+[49.047]
+"Nothing to report."
+
+[49.048]
+"The three arms? According to the writings of Thor, they are the sword of flame, the sword of ice, and a pact ring."
+
+[49.049]
+"They say Fenrir, a great power of far ancient times, stood where the town of Friezkiel is now. If you went there you might hear something about the three arms."
+
+[49.050]
+"Odin, a great power of far ancient times, seems to have been in the volcanic region of Freyland. According to the writings, it was a green and fertile land in those days."
+
+[49.051]
+"They say far ancient buildings still tower in the volcanic region of Freyland."
+
+[49.052]
+"I wish they'd give us better conditions to develop in."
+
+[49.053]
+"Ninja monsters have started to appear lately. Are they controlled by Dhaos, or made by him...?"
+
+[49.054]
+"The writings of Thor said that Origin is used to fuse the three arms. But Origin is a spirit of legend, isn't it? What can it mean? Still, one of the arms is said to be the Diamond, a spirit pact ring, so there is surely some connection."
+
+[49.055]
+"I have heard about you from my father. It must be hard, but please do your best."
+
+[49.056]
+"The Princess is beautiful whenever one sees her."
+
+[49.057]
+{クレス}
+"Where is this...?"{PAGE}
+{クラース}
+"It is too dark to see anything..."{PAGE}
+????
+"What do you want?"
+
+[49.058]
+????
+"Stealing into my chamber, the prince of this country: you have some nerve."{PAGE}
+{クラース}
+"So you are Prince Laird."{PAGE}
+Laird
+"Intruders!!!"
+
+[49.059]
+{クラース}
+"Damn!"{PAGE}
+{クレス}
+"Someone's coming!"
+
+[49.060]
+Laird
+"Ha ha ha! Look, the soldiers are coming. What will you do?"{PAGE}
+
+
+[49.061]
+{アーチェ}
+"What do we do? This is bad!"{PAGE}
+{クラース}
+"Whoever is controlling him should be somewhere near{SPEED:10}...{SPEED:FF}{PAGE}
+
+
+[49.062]
+Hm?{PAGE}
+What is that parakeet?"
+
+[49.063]
+{クラース}
+"That's it!"
+
+[49.064]
+{アーチェ}
+"Yuck, the parakeet's turned into that! I'll never trust a cute parakeet again!"{PAGE}
+Jamir
+"My name is Jamir. I am pleased to make your acquaintance. Not that you will be of this world much longer. I had thought to watch you being taken as you were... but I have changed my mind.{PAGE}
+Prepare yourselves!!"
+
+[49.065]
+{クレス}
+"Phew... We did it."{PAGE}
+{ミント}
+"And the prince?"
+
+[49.066]
+Laird
+"What have I{SPEED:10}...{SPEED:FF}! Wh-who are you people!?"{PAGE}
+{ミント}
+"We are..."{PAGE}
+
+
+[49.067]
+Laird
+"Intruders!!!"{PAGE}
+{ミント}
+"What?"
+
+[49.068]
+Guard
+"Your Highness, are you all right!?"{PAGE}
+Laird
+"I am all right. Never mind me, seize those people!!"{PAGE}
+Guard
+"Sir!!"
+
+[49.069]
+{クラース}
+"There is no help for it. They are not likely to listen to reason, so let us be taken quietly for now."{PAGE}
+{アーチェ}
+"What, no way! We'll be eating prison slop?"{PAGE}
+{クラース}
+"Most likely only the King and those close to him know how matters stand."{PAGE}
+{ミント}
+"You mean we shall be let out once they see the prince has come to his senses?"{PAGE}
+{クラース}
+"Just so."{PAGE}
+Guard
+"What are you muttering about! Come quietly!"
+
+[49.070]
+{アーチェ}
+"Hey, what's going to happen to us now?"{PAGE}
+{クラース}
+"No need to worry. Once they know the prince is himself again, they are sure to let us out."{PAGE}
+{アーチェ}
+"Oh, honestly!! My skin's going to be ruined in a place like this..."
+
+[49.071]
+????
+"Take these people to the audience chamber, and treat them with courtesy."{PAGE}
+Guard
+"T-to the audience chamber? Sir!"{PAGE}
+
+
+[49.072]
+????
+"I am Lundgrom, court mage of Alvanista. The King wishes to ask you about what you have done.{PAGE}
+Let me show you to the audience chamber."
+
+[49.073]
+{アーチェ}
+"Just as we thought!"
+
+[49.074]
+Lundgrom
+"I see, I understand most of it. You ask whether that broken ring can be mended..."{PAGE}
+{ミント}
+"Can nothing be done...?"
+
+[49.075]
+Lundgrom
+"There is a mage called Edward, my close friend and a good counsellor to our country. He once made a study of the rings."{PAGE}
+{クラース}
+"Where is he now?"{PAGE}
+Lundgrom
+"He keeps a mansion a long way to the west, across the bridge south-west of Alvanista. Come, I shall write you a letter."{PAGE}
+{クラース}
+"Thank you."{PAGE}
+
+
+[49.076]
+{COLOR:03}Received the letter of introduction to Edward.{COLOR:02}{PAGE}
+Lundgrom
+"Then that is all. Do your best."
+
+[49.077]
+{クラース}
+"Right, then shall we go to the house of this Edward?"
+
+[49.078]
+{クラース}
+"What is it, {クレス}?"{PAGE}
+{クレス}
+"Nothing... Just a ringing in my ears..."
+
+[49.079]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+You there, swordsman!{PAGE}
+Do not bear what is above your station!
+
+[49.080]
+{ミント}
+"{クレス}, are you all right!?"{PAGE}
+{クレス}
+"No... I'm fine. It seems I was only hearing things."
+
+[49.081]
+Lundgrom
+"That Edward. To do such a thing without a word even to me..."{PAGE}
+{クラース}
+"And so we should like a letter of introduction to enter the Forest of Ymir."{PAGE}
+Lundgrom
+"Hmm. Will you wait one day? There are various formalities."
+
+[49.082]
+{アーチェ}
+"A half-elf, that's me, isn't it?"{PAGE}
+{クラース}
+"I am sorry."{PAGE}
+{アーチェ}
+"It's fine. I'll wait at the inn."{PAGE}
+{クレス}
+"We'll hurry back, so bear with it for a little while."
+
+[49.083]
+Lundgrom
+"I have been waiting for you."{PAGE}
+
+
+[49.084]
+{ミント}
+"About Morrison... I am sorry."
+
+[49.085]
+Lundgrom
+"It is no fault of yours. The enemy to be hated is elsewhere, is he not?"
+
+[49.086]
+Lundgrom
+"Before Morrison passed away, he left a letter with me."
+
+[49.087]
+{ミント}
+"This is..."{PAGE}
+Lundgrom
+"There was a key inside. With a note asking me to give you my help."{PAGE}
+
+
+[49.088]
+{クレス}
+"What is this key for?"{PAGE}
+Lundgrom
+"Let us go to Morrison's house. We shall talk there."
+

@@ -1,0 +1,514 @@
+[51.000]
+{クレス}
+"That was close..."{PAGE}
+{クラース}
+"We had better move once the guards are out of sight."
+
+[51.001]
+King
+"I shall await good news."
+
+[51.002]
+King
+"Come to me for help at any time."
+
+[51.003]
+Queen
+"I pray that the goddess of fortune may always smile on you, wherever you go."
+
+[51.004]
+"Take care."
+
+[51.005]
+"Please do your best."
+
+[51.006]
+"Welcome to Alvanista Castle."
+
+[51.007]
+"Mind your manners before the King."
+
+[51.008]
+"I am a maid in the King's service. Don't drop any dust, will you?"
+
+[51.009]
+"The prince... I am so glad he is himself again..."
+
+[51.010]
+"They say the elves called their kin, scattered across the continent, together to the Forest of Ymir on the mirror lake. They had reasons of their own, by all accounts..."
+
+[51.011]
+"When an elf and a human fall in love, it ends in sorrow. They say that at the time of the great migration of the elves, many couples were torn apart by force."
+
+[51.012]
+"In Midgards they have been researching a 'new power' to take the place of magic for decades.{PAGE}
+Sorcery technology, also called magitech. A craft that lets humans wield magic, so they say..."
+
+[51.013]
+"They say the Forest of Ymir on the mirror lake has trees growing thick over a great lake. I'd like to see it once."
+
+[51.014]
+"The elves are against Alvanista's alliance of friendship with Midgards.{PAGE}
+But I can't quite see why. I wonder what the reason is?"
+
+[51.015]
+"War, war, they say, but it's nothing to do with us, is it? Still, too much peace is boring."
+
+[51.016]
+Yukari
+"I'm Yukari Yoshida.{PAGE}
+I want to sing a song!!"{PAGE}
+{クレス}
+"A song?"{PAGE}
+{COLOR:03}Listen?{COLOR:02}
+
+[51.017]
+Yukari
+"Aww... Meanie!"
+
+[51.018]
+"Let's go! Music!!"{PAGE}
+
+
+[51.019]
+"Thank you for listening. See you."
+
+[51.020]
+"Aww, that's enough already..."
+
+[51.021]
+"Aren't the elves afraid of humans learning to use magic? There are more humans than elves, after all."
+
+[51.022]
+"Standing watch is no easy job.{PAGE}
+Eh, the story of the spirits? How would I know? Ask the people at the magic laboratory.{PAGE}
+Oh, wait. I did once hear an old tale like this.{PAGE}
+Long, long ago, when there were no monsters like today's, certain wicked people set out to scatter poison over the whole world. They meant to rule the world with that poison. The spirit of the moon came down to earth to stop them. But the spirit draws her power from the light of the moon, and on a moonless night those wicked people captured her. And those wicked people were the kings of some country or other.{PAGE}
+...I don't remember the rest. Sorry."
+
+[51.023]
+"Your match with me is already settled."
+
+[51.024]
+"You there, won't you play a game? If you win I'll give you a present. Will you hear the rules?"
+
+[51.025]
+You play the stone game with me. In the stone game we take stones in turn from one pile, and whoever takes the last one loses. You may take up to three stones at a time, and you may not pass. There is also a time limit: when time runs out, you are made to take the number you have chosen at that moment. If you want to stop partway, cancel when choosing a number.{PAGE}
+
+
+[51.026]
+{COLOR:03}Play?{COLOR:02}
+
+[51.027]
+I shall look forward to your challenge.
+
+[51.028]
+Then take your place.
+
+[51.029]
+"There are {NUM:8066} stones in this pot.{PAGE}
+Will you go first?"
+
+[51.030]
+Then let us play.
+
+[51.031]
+{COLOR:03}{NUM:8066} left.
+How many will you take?{COLOR:02}
+
+[51.032]
+"Stopping? I shall look forward to your next challenge."
+
+[51.033]
+
+{COLOR:03}There are not enough.{COLOR:02}{PAGE}
+
+
+[51.034]
+"I'll take {NUM:8067}."
+
+
+[51.035]
+"A pity, you lose. I shall look forward to your next challenge."
+
+[51.036]
+"Mmm... I-I have lost.{PAGE}
+Then, as promised, I shall give you an item."{PAGE}
+{COLOR:03}Received {STR:180C}.{COLOR:02}
+
+[51.037]
+"The castle's background music really must suit the new age. Think of it that way, and this is what you get."
+
+[51.038]
+"The music of a castle must be solemn and delicate. Considered so, it can only be this."
+
+[51.039]
+Harrison
+"According to our country's expedition to Thor, there was a device in the city that showed illusions. Could that be a kind of monster too?"
+
+[51.040]
+Lundgrom
+"For some time now there has been a space in this world that is shut in darkness at all times. There is a town there. If you go, you may find some clue."
+
+[51.041]
+Lundgrom
+"In the far ancient age, thousands of years ago, three great powers fought for mastery of the continent. Those three were Odin, Fenrir and Thor. After Thor was destroyed by a falling meteorite, the war became a quagmire, and certain mysterious men put an end to it with the ruin of the two countries. There are three arms those men used. It seems that when the three arms are fused, they become a magic sword that commands time. Ask at the magic laboratory for the details.{PAGE}
+I am counting on you. We have no one left to turn to but you."
+
+[51.042]
+"My grandfather was a swordsman, but he left some mysterious words and was never heard of again.{PAGE}
+Up, left, right, confirm. What can it mean?"
+
+[51.043]
+"There is a huge volcano in Freyland. I have been there to survey it myself, and lava is pouring out over the ground even now."
+
+[51.044]
+"They say there is a huge church in Friezkiel. It dates from the age of the far ancient civilisation, I'm told."
+
+[51.045]
+"Would you care for some tea, by royal appointment?"
+
+[51.046]
+"I am Emily, a girl who dreams...{PAGE}
+Ahh... my senior..."
+
+[51.047]
+"It must be, it must!"
+
+[51.048]
+"We're talking about who it is that Emily likes."
+
+[51.049]
+"This is the library."
+
+[51.050]
+"It's got to be that senior of hers, no mistake!"
+
+[51.051]
+"It might just turn out to be the Princess...{PAGE}
+Only joking, only joking!"
+
+[51.052]
+"I used to be in Midgards. I just managed to get away from Dhaos's attack
+
+[51.053]
+."
+
+[51.054]
+.{PAGE}
+You look like a swordsman. Won't you buy this book of secret arts? 18000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[51.055]
+Come and buy it any time.
+
+[51.056]
+"You haven't enough money."
+
+[51.057]
+{COLOR:03}{クレス} learned Shuusouhienkyaku.{COLOR:02}{PAGE}
+"Thank you."
+
+[51.058]
+"Would you like to hear about books?"
+
+[51.059]
+Oh, I see.
+
+[51.060]
+There are three kinds of book you people need. One is the book of secret arts, from which a swordsman learns secret arts. One is the spellbook, from which a magic user learns magic. And the last is the grimoire, which summoners and the like mostly use for study. At times it serves as a weapon charged with magic power too. That is about all.
+
+[51.061]
+"Do you know 'oden'? They say ninja are very fond of this 'oden'. But I'd rather have 'uiro' myself."
+
+[51.062]
+"This is the Princess's chamber. Pray mind your manners."
+
+[51.063]
+"This is the prince's chamber."
+
+[51.064]
+"The Princess... She is a most beautiful lady."
+
+[51.065]
+"The prince is himself again. Now Alvanista is safe."
+
+[51.066]
+"My boyfriend's an explorer, and he told me something interesting.{PAGE}
+It seems the pirate Aifread had more than twenty hidden lairs around the world. Finding them all would be hard work."
+
+[51.067]
+"It was written in an old document of the far ancient civilisation that the spirit called Origin has the power of renewal. Renewal means the power to mend what is broken, but it says it is also the power to remake several things into one. Origin used to be a spirit of legend, but with an account as exact as this, it would be no surprise if he were real.{PAGE}
+Where? Wouldn't it be Heimdall, the sanctuary of the elves? Nearly every old document about Origin says so."
+
+[51.068]
+"I am a member of the Black Armour Knights of Euclid. I am charged with granting official titles to able swordsmen."{PAGE}
+
+
+[51.069]
+"I am from the Alvanista Board of Swordsmen's Titles. Our purpose is to grant official titles to able swordsmen."{PAGE}
+
+
+[51.070]
+Oh, you have mastered Majinhienkyaku, a secret art of the Albane school. Then I shall grant you the title "Swordsman". What do you say?
+
+[51.071]
+I see you are well practised in both mind and body. I shall grant you the title "Veteran". What do you say?
+
+[51.072]
+The way you carry yourself, the way you move without an opening: I see you are quite a master. Then I shall grant you the title "Expert". What do you say?
+
+[51.073]
+Oh, you seem to have mastered a good many secret arts. Then I shall grant you the title "Sword Master". What do you say?
+
+[51.074]
+What! You have mastered every secret art in existence!? Then I shall grant you the title "Fencer". What do you say?
+
+[51.075]
+Mmm... You are already a perfect swordsman. You are far beyond the limits of man. Then I shall grant you the title "Last Fencer". What do you say?
+
+[51.076]
+{COLOR:03}{クレス} gained the title Swordsman.{COLOR:02}{PAGE}
+
+
+[51.077]
+{COLOR:03}{クレス} gained the title Veteran.{COLOR:02}{PAGE}
+
+
+[51.078]
+{COLOR:03}{クレス} gained the title Expert.{COLOR:02}{PAGE}
+
+
+[51.079]
+{COLOR:03}{クレス} gained the title Sword Master.{COLOR:02}{PAGE}
+
+
+[51.080]
+{COLOR:03}{クレス} gained the title Fencer.{COLOR:02}{PAGE}
+
+
+[51.081]
+{COLOR:03}{クレス} gained the title Last Fencer.{COLOR:02}{PAGE}
+
+
+[51.082]
+Come to me when you have learned your own strength.
+
+[51.083]
+"Language Forms of the Far Ancient Age, 1
+It is said that two languages flourished in the age of the far ancient civilisation. One is what is called High Ancient. The history of this language is very old: ten thousand years by one account, a hundred thousand by another. The other is what is called Common. The language we speak is said to come from it. Many stone tablets have also been found, carved with writing that sets the two languages together in the form of a seal."
+
+[51.084]
+"Forbidden Spells
+Among the magic that exists in this world (sometimes called black magic or attack magic) there are what are called forbidden spells, sealed away in ancient times. One of them is the magic of self-sacrifice. It is said to turn all the caster's vital force into heat, compress it with all the caster's magic power, and set it off. Strangely, just before the spell is cast a barrier is said to form of itself around the caster and hold in the reach of the blast. Whether that is to raise its force or to spare the surroundings is not known."
+
+[51.085]
+"Healing Magic
+Most magic is chiefly for attack, but some is said to hold the power of healing. Attack magic uses the caster's own magic power, while healing magic is said to use the power of God. But its existence has yet to be confirmed."
+
+[51.086]
+"The Moons and the Stars
+Of the moons we always see, the larger is called Sylvarant and the smaller Tethe'alla. These two moons are satellites of the world we live on. Sylvarant circles this world in about 35 days, Tethe'alla in about 42. Between the two moons, though it can only be seen with a telescope or the like, countless meteorites are said to drift, held by the pull of each on the other."
+
+[51.087]
+"The People of Thor
+They are said to have grown in great isolation, on a culture and craft unlike and beyond those of any kingdom that exists today. As a race, too, they seem to have had rare abilities."
+
+[51.088]
+"Forbidden Spells, Revised
+Most of the magic sealed away since ancient times seems to have been the kind that commands time and space."
+
+[51.089]
+"Music of Ancient Times
+In the far ancient civilisation, unlike today, fast and fierce music is said to have been in fashion. The beat was kept on percussion called 'drums', and chords were played on an electrical guitar called an 'electric guitar'. The low part was played on a 'bass', something like a double bass, and there was a 'keyboard', a piano played by electricity."
+
+[51.090]
+"It looks like a diary."{PAGE}
+"Month ?, day ?. Fine.
+Today I talked to a super cool senior. He's tall, with a face like a model, and to think I got to talk to someone like that, Emily's on top of the world! BUT, when I stand in front of him my heart pounds so much I don't even know what I'm saying."{PAGE}
+"What on earth is this?"
+
+[51.091]
+"It's full of pebbles."
+
+[51.092]
+"It seems to be empty."
+
+[51.093]
+{アーチェ}
+"Phew, that's everyone."{PAGE}
+{クラース}
+"Then let us look for the prince's bedchamber. Quietly, everyone{SPEED:10}...{SPEED:FF}"
+
+[51.094]
+Lundgrom
+"Tell us why you stole into the castle by night."{PAGE}
+
+
+[51.095]
+{クラース}
+"To save the prince."
+
+[51.096]
+Laird
+"Wh-what nonsense is this...!?"{PAGE}
+King
+"Laird, you know nothing of it. Be silent."{PAGE}
+{クラース}
+"We have need of magic now. We have been searching far and wide for stronger spells."{PAGE}
+Lundgrom
+"To what end?"{PAGE}
+{クラース}
+"To defeat Dhaos, who is said to be harmed only by magic."{PAGE}
+King
+"Is that so! In truth, I wished to make certain whether you were mere thieves who saved Laird by chance, or had meant to save him from the first. You have my heartfelt thanks."{PAGE}
+
+
+[51.097]
+Laird
+"I, controlled by Dhaos? Is it true, Father?"{PAGE}
+King
+"It is true. Because of it, our country can no longer join the war that is soon to come. That was surely Dhaos's aim."{PAGE}
+
+
+[51.098]
+{クレス}
+"A war?"{PAGE}
+Lundgrom
+"You will have heard the rumours on your way, at least? That Midgards, our ally, and the armies of Dhaos are close to open battle."{PAGE}
+{クラース}
+"We know of it."{PAGE}
+King
+"If you come to feel your journey in search of spells has done enough, I would have you think of lending your strength to the war."{PAGE}
+{クラース}
+"Yes."
+
+[51.099]
+Lundgrom
+"This was found on the body of the monster you slew. Take it. And{SPEED:10}...{SPEED:FF}"
+
+[51.100]
+{クラース}
+"A grimoire! Are you sure?"{PAGE}
+Lundgrom
+"And this is for you. The monster you felled had this too."
+
+[51.101]
+{クレス}
+"This is...!?"{PAGE}
+Lundgrom
+"Gungnir, a spear said to have been made at the time of the last battle of the gods."{PAGE}
+King
+"Do not hold back. And if you are ever in difficulty, come to me for help at any time."{PAGE}
+{クラース}
+"Thank you!{PAGE}
+Then may I ask at once for a permit to explore the Moria Mine?"{PAGE}
+Lundgrom
+"To what end? You are surely not after mere treasure."{PAGE}
+{クラース}
+"No. It is said to hold the ring for making a pact with Luna, the spirit of the moon."{PAGE}
+King
+"Very well. Collect it in a few days at the Adventurers' Guild in the town."{PAGE}
+
+
+[51.102]
+Lundgrom
+"Then, Your Majesty, I shall return to the laboratory."{PAGE}
+Laird
+"I shall return to my chamber too."
+
+[51.103]
+{COLOR:03}Received the pact ring {STR:B80B}, {STR:5B0C} and {STR:3F0C}.{COLOR:02}
+
+[51.104]
+Guard
+"Who goes there!?"
+
+[51.105]
+Harrison
+"I have brought them."{PAGE}
+Lundgrom
+"Well done."
+
+[51.106]
+{クレス}
+"Lundgrom!!"
+
+[51.107]
+{チェスター}
+"Who?"{PAGE}
+{アーチェ}
+"Someone we met in the past. He's the court mage here."{PAGE}
+
+
+[51.108]
+{ミント}
+"To think we would meet you again, Lundgrom..."{PAGE}
+Lundgrom
+"The blood of the elves does not flow in me for nothing. In truth I did not want us to meet like this... But I too am glad to see you all."{PAGE}
+{クラース}
+"And you are unchanged, Lundgrom."{PAGE}
+Lundgrom
+"Yes. We must have much to talk of, but will you see the King first?"{PAGE}
+{クレス}
+"Yes."
+
+[51.109]
+Lundgrom
+"Your Majesty, I have brought the five envoys from the past."{PAGE}
+King of Alvanista
+"You have done well."
+
+[51.110]
+King
+"You will have heard it from Harrison, I think: Dhaos is now a threat to the whole world. So long as he has the power to travel on and on through time into the future, it is already plain that the chase will never end. But we have not simply gone on fighting Dhaos to no purpose."{PAGE}
+{クラース}
+"Meaning?"{PAGE}
+Lundgrom
+"From the far ancient legacy found in the ruins of Thor, we have learned something that may be the key to the problem."{PAGE}
+{クレス}
+"A key...?"{PAGE}
+Lundgrom
+"In the far ancient age, thousands of years ago, three great powers fought for mastery of the continent. You will have heard of them, I think: Odin, Fenrir and Thor. After Thor sank beneath a falling meteorite, the war became a quagmire, and certain mysterious men put an end to it with the ruin of the two countries. They used three arms. A document has been found that tells where those arms lie."{PAGE}
+{クラース}
+"And with them Dhaos can be defeated?"{PAGE}
+Lundgrom
+"It seems that when the three arms are fused, they become a magic sword that commands time."{PAGE}
+{クラース}
+"So Dhaos's travel through time can be sealed?"{PAGE}
+Lundgrom
+"Just so. For the details, ask those in the magic laboratory."{PAGE}
+King
+"And yet, that young people such as these should defeat Dhaos... Your story has been handed down in our country as a legend: that 150 years ago you defeated Dhaos, who had become the enemy of the world. We are at the end of our resources and have no one left to turn to but you. I shall await good news."
+
+[51.111]
+Lundgrom
+"I see, so it has been found at last!"{PAGE}
+{クラース}
+"Yes. And now we wish to hear the vital thing: where Dhaos is."{PAGE}
+Lundgrom
+"Hm. The truth is that nothing is known for certain."{PAGE}
+{クレス}
+"What?"{PAGE}
+Lundgrom
+"But there is a clue. For some time now a space has existed in this world that is shut in darkness at all times. Did you know of it?"
+
+[51.112]
+Lundgrom
+"There is such a place. I cannot tell you much myself, but there is a town there. Dhaos has the power to command time, has he not? If you go, you may find some clue."{PAGE}
+{クラース}
+"So it is natural to think the space of everlasting dark is Dhaos's doing too..."{PAGE}
+Lundgrom
+"Hm. And it may be that he hides his stronghold in a space that cannot ordinarily be seen."
+
+[51.113]
+Lundgrom
+"Forgive me. That is conjecture."{PAGE}
+
+
+[51.114]
+{クラース}
+"Well then, shall we go to this land of everlasting dark?"{PAGE}
+Lundgrom
+"Then I shall take my leave. Do your best."
+

@@ -1,0 +1,91 @@
+[06473.001]
+Cherik: Weapon Shop
+
+[06473.002]
+Cherik
+
+[06473.003]
+Weapon Shop
+
+[06473.005]
+Sundries of many kinds are laid out.
+
+[06473.007]
+Weapons of unusual shape are laid out.
+
+[06473.008]
+Weapon Shop
+
+[06473.009]
+Haah. Both my shop and the armor shop used to be lively, but now no customers come at all.
+
+[06473.010]
+Weapon Shop
+
+[06473.011]
+Haah. Both my shop and the armor shop used to be lively, but now no customers come at all.
+
+[06473.012]
+Weapon Shop
+
+[06473.013]
+Attack is the best defense! Here is the strongest weapon shop in history, whose weapons cut through any armor!
+
+[06473.014]
+Thanks.
+
+[06473.015]
+See you, then.
+
+[06473.016]
+Weapon Shop
+
+[06473.017]
+Swordsman
+
+[06473.018]
+That's quite a sword. Or rather, is it really a sword?
+
+[06473.019]
+Swordsman
+
+[06473.020]
+This sword, that hammer... every weapon here is something I've seen somewhere before.
+
+[06473.021]
+Have a safe journey.
+
+[06473.022]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06473.023]
+Will you stay the night?
+
+[06473.025]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06473.026]
+Please rest well.
+
+[06473.027]
+Good morning.
+
+[06473.028]
+You do not have enough money.
+
+[06473.029]
+We look forward to seeing you again.
+
+[06473.034]
+Obtained {16:25 BA}.
+
+[06473.036]
+Obtained {08:FF FF FF FF}.
+
+[06473.038]
+Found {16:25 C2}, but you can carry no more.
+
+[06473.040]
+There is nothing here.
+

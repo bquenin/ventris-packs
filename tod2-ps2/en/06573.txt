@@ -1,0 +1,181 @@
+[06573.001]
+Surface Army Base
+
+[06573.002]
+Surface Army Base
+
+[06573.003]
+Litler
+
+[06573.004]
+Glorious soldiers of the Surface Army! The war we have waged so long has today, at last, been brought to its end.
+
+[06573.005]
+Litler
+
+[06573.006]
+The pitiless tyrant Miktran is dead.
+
+[06573.007]
+Litler
+
+[06573.008]
+The Heavenly Army with all its might, and Dycroft, the symbol of fear and hatred, have passed away forever with his death.
+
+[06573.009]
+Litler
+
+[06573.010]
+We must never forget how brightly shone the lives of the many fallen heroes, Karell Berselius first among them.
+
+[06573.011]
+Litler
+
+[06573.012]
+And we must engrave it on our hearts: this victory is the first step that opens a new tomorrow.
+
+[06573.014]
+Commander-in-Chief Litler's declaration of the war's end, called a speech for the ages... To think I would hear it like this.
+
+[06573.016]
+And... to think we'd hear it feeling like this.
+
+[06573.018]
+Hey, {NAME:03 00 00 00}... Was that really the right thing?
+
+[06573.020]
+Hm? Was what, {NAME:01 00 00 00}?
+
+[06573.022]
+Back then, we could have saved Karell.
+
+[06573.024]
+If we'd gone straight to Miktran, like Barbatos said, then maybe...
+
+[06573.026]
+You're a fool. That puts you on the same level as that ape.
+
+[06573.028]
+{NAME:06 00 00 00}!
+
+[06573.030]
+I told you, didn't I? Those who know the future must not change history just to suit themselves.
+
+[06573.032]
+I know that. But...
+
+[06573.034]
+And besides, my brother's death was neither fate nor a death for nothing.
+
+[06573.036]
+My brother lived as hard as he could, in his own way. That was where it led.
+
+[06573.038]
+So there are no regrets. I think it was a happy life.
+
+[06573.040]
+{NAME:06 00 00 00}...
+
+[06573.042]
+Even if your death is already settled, you live for all you're worth and take hold of happiness...
+
+[06573.044]
+...We~ll, that got rather gloomy. So that's the end of that subject!
+
+[06573.046]
+So, what will you people do now?
+
+[06573.048]
+We mean to go after Barbatos.
+
+[06573.050]
+"Before the Eye of God" most likely means Dycroft at the time of the late uprising.
+
+[06573.052]
+To settle his own fate in the place where the fate of the world is settled... It is just the sort of thing he would think of.
+
+[06573.054]
+But the Lenses... We don't have Lens power enough to travel through time.
+
+[06573.056]
+I thought as much.
+
+[06573.058]
+{NAME:06 00 00 00}, this is...
+
+[06573.060]
+A Swordian is the very cream of Lens technology. The energy in it is no small thing, either.
+
+[06573.062]
+I see! Lucky us. That saves the trouble of hunting for Lenses.
+
+[06573.064]
+Well then, {NAME:06 00 00 00}, thanks for every...
+
+[06573.066]
+Now, to the future, let's go!
+
+[06573.068]
+...Hey, what are you doing?
+
+[06573.070]
+I told you before, didn't I? That I'd prove my brain surpasses even a god.
+
+[06573.072]
+Surely... you don't mean to come with us?
+
+[06573.074]
+If you don't like it, you don't get to use the Swordian.
+
+[06573.076]
+...Sigh. What do we do, {NAME:01 00 00 00}?
+
+[06573.078]
+Why not! It'll be more fun with {NAME:06 00 00 00} along!
+
+[06573.080]
+So there you are. Pleased to be aboard!
+
+[06573.082]
+All right! {NAME:02 00 00 00}, let's go! Eighteen years before our own time... the age my dad lived in!
+
+[06573.084]
+All right. ...Everyone, here we go!
+
+[06573.085]
+Have a safe journey.
+
+[06573.086]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06573.087]
+Will you stay the night?
+
+[06573.089]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06573.090]
+Please rest well.
+
+[06573.091]
+Good morning.
+
+[06573.092]
+You do not have enough money.
+
+[06573.093]
+We look forward to seeing you again.
+
+[06573.098]
+Obtained {16:26 4E}.
+
+[06573.100]
+Obtained {08:FF FF FF FF}.
+
+[06573.102]
+Found {16:26 56}, but you can carry no more.
+
+[06573.104]
+There is nothing here.
+

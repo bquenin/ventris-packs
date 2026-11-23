@@ -1,0 +1,865 @@
+[06418.001]
+Neustadt: Arena
+
+[06418.002]
+Neustadt
+
+[06418.003]
+Single Battle
+
+[06418.004]
+Tag Battle
+
+[06418.005]
+Beginner
+
+[06418.006]
+Intermediate
+
+[06418.007]
+Advanced
+
+[06418.008]
+Mania
+
+[06418.009]
+first round
+
+[06418.010]
+second round
+
+[06418.011]
+final
+
+[06418.012]
+Announcer
+
+[06418.013]
+Arena {18:44 70} {18:44 74}
+The {18:44 6C} begins.
+
+[06418.014]
+Announcer
+
+[06418.015]
+Another clash with the champion Rimul!
+
+[06418.016]
+Announcer
+
+[06418.017]
+Arena {18:44 70} {18:44 74}
+Congratulations on your victory!
+
+[06418.018]
+Announcer
+
+[06418.019]
+Here is your prize money.
+
+[06418.020]
+Announcer
+
+[06418.021]
+Won {0B:01 00 00 00}{14:34 78}{0B:00 00 00 00} Gald.
+
+[06418.022]
+Announcer
+
+[06418.023]
+Here are your prize money and the extra prize.
+
+[06418.024]
+Announcer
+
+[06418.025]
+Won {0B:01 00 00 00}{14:34 78}{0B:00 00 00 00} Gald.
+
+[06418.026]
+Announcer
+
+[06418.027]
+Won {16:24 80}.
+
+[06418.028]
+Announcer
+
+[06418.029]
+Arena {18:44 70} {18:44 74}
+Sadly, you are out in the {18:44 6C}.
+
+[06418.030]
+Announcer
+
+[06418.031]
+Arena {18:44 70} {18:44 74}
+So close, but you lost in the final.
+
+[06418.032]
+Announcer
+
+[06418.033]
+Strong! Overwhelmingly strong! She's felled a vicious monster as easily as twisting a baby's arm!
+
+[06418.035]
+Oh, the place is really buzzing!
+
+[06418.037]
+Sounds like there's someone unbelievably strong. What kind of monster could it be?
+
+[06418.039]
+Huh? That person just now...
+
+[06418.040]
+Manager
+
+[06418.041]
+Honestly, where has she got to!? Doesn't she want her reward!?
+
+[06418.042]
+Manager
+
+[06418.043]
+Ah! Hey, you people!? Did Rimul just come past!?
+
+[06418.045]
+Rimul? Who's that?
+
+[06418.046]
+Manager
+
+[06418.047]
+Rimul, the mightiest of warriors, who appeared like a comet!
+
+[06418.048]
+Manager
+
+[06418.049]
+A fearsome woman whose sword, they say, lays any monster to rest in an instant!
+
+[06418.051]
+I see... it's her!
+
+[06418.053]
+The girl from before? The one we passed the other day...
+
+[06418.054]
+Manager
+
+[06418.055]
+You saw her!? Hey, do you know where she went!?
+
+[06418.057]
+She went out just now. If you go after her, you might still catch her...
+
+[06418.058]
+Manager
+
+[06418.059]
+I see, thanks!
+
+[06418.061]
+She's that amazing, huh...
+
+[06418.063]
+I told you so. She is no ordinary person.
+
+[06418.065]
+She is likely not in the arena for wealth or fame, either. She is testing her skill.
+
+[06418.067]
+So she walks out without even taking the reward. Now that's cool.
+
+[06418.068]
+Spectator
+
+[06418.069]
+E-eeeeek!
+
+[06418.070]
+Spectator
+
+[06418.071]
+It's headed your way! Run, quick!!
+
+[06418.073]
+Wh-what!?
+
+[06418.075]
+Geh!? What's a monster doing in a place like this!!
+
+[06418.077]
+It got out of the arena's cage, didn't it? There's no other explanation.
+
+[06418.079]
+...Our eyes met.
+
+[06418.081]
+Here it comes, everyone!
+
+[06418.083]
+Rimul!
+
+[06418.084]
+Rimul
+
+[06418.085]
+Leave this to me!
+
+[06418.086]
+Rimul
+
+[06418.087]
+...Hah!
+
+[06418.088]
+Rimul
+
+[06418.089]
+...
+
+[06418.091]
+H-hey, what happened!? It was too fast, I couldn't really tell...
+
+[06418.093]
+She simply cut it. At tremendous speed.
+
+[06418.095]
+I see, an attack that turns acceleration into energy and hits the opponent with it. That would certainly work.
+
+[06418.097]
+And at that speed it cannot be dodged. Truly a killing blow.
+
+[06418.099]
+Amazing...
+
+[06418.100]
+Announcer
+
+[06418.101]
+Now, the challenger who has won through smoothly this far faces the final wall!
+
+[06418.102]
+Announcer
+
+[06418.103]
+That wall is all too high, and all too vast!
+
+[06418.104]
+Announcer
+
+[06418.105]
+But without climbing this wall, there can be no victory!
+
+[06418.106]
+Announcer
+
+[06418.107]
+The wall that stands in the way is the champion of this arena!
+
+[06418.108]
+Announcer
+
+[06418.109]
+The woman who appeared one day like a comet, swept aside every foe in the blink of an eye, and took the throne!
+
+[06418.110]
+Announcer
+
+[06418.111]
+Some call her the mightiest of warriors, and some call her invincible!
+
+[06418.112]
+Announcer
+
+[06418.113]
+Her name is... Now! Everyone, all together!
+
+[06418.114]
+Announcer
+
+[06418.115]
+Now! Everyone, all together!
+
+[06418.116]
+Announcer
+
+[06418.117]
+Riiimuuul!!
+
+[06418.119]
+Rimul!?
+
+[06418.120]
+Rimul
+
+[06418.121]
+...{NAME:01 00 00 00}. I have longed for this! For this moment!
+
+[06418.123]
+Longed for it... What do you mean!?
+
+[06418.124]
+Rimul
+
+[06418.125]
+If you win, I'll tell you...
+
+[06418.126]
+Rimul
+
+[06418.127]
+Now come, {NAME:01 00 00 00}! Let us settle it here and now! Which of us is the strongest, you or I!!
+
+[06418.128]
+Announcer
+
+[06418.129]
+Arena Battle
+So close, but you lost to Rimul.
+
+[06418.130]
+Rimul
+
+[06418.131]
+I lost... ...That was splendid, {NAME:01 00 00 00}...
+
+[06418.132]
+Rimul
+
+[06418.133]
+As expected of one who carries the blood of the hero Stahn...
+
+[06418.135]
+Huh!? How do you know that...
+
+[06418.136]
+Rimul
+
+[06418.137]
+I know about you, and about your father too... My mother told me.
+
+[06418.139]
+Your mother...
+
+[06418.140]
+Rimul
+
+[06418.141]
+My mother, Lilith...
+
+[06418.143]
+Whaaat!? Th-then you and I, Rimul, are...
+
+[06418.144]
+Rimul
+
+[06418.145]
+Yes, cousins... I'm sorry I kept quiet.
+
+[06418.147]
+Why did you keep quiet all this time?
+
+[06418.148]
+Rimul
+
+[06418.149]
+If I had said so, you would have gone easy on me, wouldn't you? That would not be a real match.
+
+[06418.150]
+Rimul
+
+[06418.151]
+I wanted to fight you at your full strength...
+
+[06418.153]
+Rimul...
+
+[06418.154]
+Rimul
+
+[06418.155]
+But I lost. It means my training is still far from enough.
+
+[06418.156]
+Rimul
+
+[06418.157]
+{NAME:01 00 00 00}... I'm going on a journey! I'll set out just as you did, and become stronger, you'll see.
+
+[06418.158]
+Rimul
+
+[06418.159]
+And then... will you fight me again?
+
+[06418.161]
+...Of course!
+
+[06418.163]
+{NAME:01 00 00 00} earned the title "{08:6D 08 00 00}".
+
+[06418.165]
+{15:24 B2} earned the title "{08:6B 08 00 00}".
+
+[06418.167]
+{15:24 B2 34 00 C6} earned the title "{08:6C 08 00 00}".
+
+[06418.168]
+Spectator
+
+[06418.169]
+I'm not interested in weak men~.
+
+[06418.170]
+You're not bad. Well, skill-wise you've still got a long way to go.
+
+[06418.171]
+Aahn★ I'm hopelessly weak for strong men~.
+
+[06418.172]
+Right now I'm head over heels for Lady Rimul~★
+
+[06418.173]
+Lady Rimul is so cool~! Oh, wonderful, wonderful, wonderful★
+
+[06418.174]
+Lady Rimul was wonderful too, but... I like strong men best after all★ And so, {NAME:01 00 00 00}~★
+
+[06418.175]
+Spectator
+
+[06418.176]
+Is there no stronger warrior who can satisfy me?
+
+[06418.177]
+Hmph! You can fight a little, it seems, but how long will it last...
+
+[06418.178]
+Chaaampion. I always watch your matches~.
+
+[06418.179]
+Won't somebody beat that Rimul? The odds are so low it's no fun.
+
+[06418.180]
+This is incredible... Rimul's strength is the real thing...
+
+[06418.181]
+Chaaampion. I knew you'd win, naturally!
+
+[06418.182]
+Spectator
+
+[06418.183]
+Fwaah~. Isn't there a warrior like the legendary champ Stahn?
+
+[06418.184]
+The way you fight somehow reminds me of that legendary champ, Stahn.
+
+[06418.185]
+The birth of a new legendary champ, {NAME:01 00 00 00}.
+
+[06418.186]
+The mystery warrior, Rimul... I sense a new legend!
+
+[06418.187]
+Felling that monster with a single blow... So Rimul really is the new legend?
+
+[06418.188]
+Beating even that Rimul... So you people really are the true legendary champs!
+
+[06418.189]
+Spectator
+
+[06418.190]
+Me? I'm no warrior. I'm just a cosplay fanatic.
+
+[06418.191]
+Ha ha ha. Are you cosplaying a warrior too?
+
+[06418.192]
+Huh!? You actually fight? I had no idea...
+
+[06418.193]
+If it were cosplay, I could be champion too...
+
+[06418.194]
+Did you know? A really strong person called Rimul has appeared! Maybe I'll cosplay Rimul next...
+
+[06418.195]
+When the monster got loose I wondered what would happen, but... Rimul really is amazing!
+
+[06418.196]
+And just when my Rimul cosplay was finished, she goes and loses...
+
+[06418.197]
+Spectator
+
+[06418.198]
+Hey, youngster! Don't stand there! You're in the way!
+
+[06418.199]
+Oh no, I got too excited, my blood pressure...
+
+[06418.200]
+Well done! That's my best pupil! You do me proud!
+
+[06418.202]
+Gramps, you were my teacher...?
+
+[06418.203]
+My, that Rimul is amazing! Just watching her fight gets me so excited I could keel over!!
+
+[06418.204]
+My, when the monster got loose I thought I was a goner!!
+
+[06418.205]
+To beat even that Rimul! That's my best pupil! You do me proud!
+
+[06418.207]
+Gramps, you were my teacher...?
+
+[06418.208]
+Spectator
+
+[06418.209]
+Hey, mister, don't push. This is my seat!
+
+[06418.210]
+Huh, I feel like I've seen your face somewhere, mister...
+
+[06418.211]
+Wow, it's the champ, {NAME:01 00 00 00} Dunamis! P-please shake my hand!
+
+[06418.212]
+Rimul's amazing! I wonder if I could get her autograph?
+
+[06418.213]
+I couldn't see Rimul's sword... ...Awesome!
+
+[06418.214]
+Amazing, you're amazing, champ! P-please shake my hand!!
+
+[06418.215]
+Spectator
+
+[06418.216]
+A fighting figure is such a fine thing, don't you know.
+
+[06418.217]
+When I see people fighting, I get hopelessly worked up, don't you know! Go on! There!
+
+[06418.218]
+My~! If it isn't the contestant {NAME:01 00 00 00}! Do shake my hand, don't you know!
+
+[06418.219]
+That girl Rimul... is too amazing, don't you know! No other warrior gets me so worked up!
+
+[06418.220]
+When the monster attacked, I thought it was all over, don't you know!
+
+[06418.221]
+Rimul saved my life, don't you know! And so, I shall bet heavily!
+
+[06418.222]
+What have you people done! What I bet on Rimul is gone, don't you know!
+
+[06418.223]
+Spectator
+
+[06418.224]
+What, you want to enter too? Don't. You'd only get hurt.
+
+[06418.225]
+Ha ha ha. You're dressed just like {NAME:01 00 00 00}. Are you a fan of his?
+
+[06418.226]
+I knew it from the start. That you would surely become champion!
+
+[06418.227]
+Everyone says Rimul is amazing, but... from where I sit, she's got a long way to go.
+
+[06418.228]
+I've been saying it all along. Rimul is the strongest. Nobody's a match for her!
+
+[06418.229]
+My judgment was right after all! You people are the strongest!
+
+[06418.230]
+Kongman
+
+[06418.231]
+Hey! Don't you talk to me like we're friends! Who do you think I am?
+
+[06418.232]
+The former champion, invincible under heaven, from whom even crying children flee: the great Mighty Kongman!!
+
+[06418.234]
+{03:00 00 00 00}　I know you　
+　Never heard of you　
+
+[06418.236]
+Former champion?
+
+[06418.238]
+Come to think of it, I feel like I've heard about you from Mom.
+
+[06418.240]
+I think you traveled with Dad and the others...
+
+[06418.241]
+Ahn?
+
+[06418.242]
+You, are you Stahn's son by any chance!? No wonder I thought you had a face I didn't like!
+
+[06418.243]
+Ahn? You don't know me!?
+
+[06418.244]
+Speaking to me without knowing who I am, you've got some nerve! Go wash your face and come back!
+
+[06418.245]
+To think I'd run into Stahn's son here.
+
+[06418.246]
+I can't stand you! Bleeeh~.
+
+[06418.247]
+Hey, Stahn's son! Enter the tournament! Learn for yourself how tough this arena is!
+
+[06418.248]
+Tch! Get cocky while you can! But a victor, you know, is always the one being chased by somebody! It's rough!
+
+[06418.250]
+Hey, mister, why are you so itching for a fight?
+
+[06418.251]
+Shut up! Because you're Stahn's son! I can't stand Stahn!
+
+[06418.252]
+Tch! Get cocky while you can! But a victor, you know, is always the one being chased by somebody! It's rough!
+
+[06418.253]
+Tch! Get cocky while you can! But a champion, you know, is always the one being chased by somebody! It's reeeally rough!
+
+[06418.254]
+Tch! I just can't stomach her, that Rimul girl! With that cool look on her face!
+
+[06418.255]
+And she won't take the reward!? Heh, does she think that makes her look good!
+
+[06418.256]
+In my prime, I'd have wrung the both of you, you and Rimul, with one hand!
+
+[06418.257]
+That monster that got loose was the smallest of small fry! And still the rest of them whooped and cheered!
+
+[06418.258]
+I don't like it! I just don't like it! That Rimul girl!
+
+[06418.259]
+Heh! Don't get carried away just because you beat Rimul!
+
+[06418.260]
+In my prime, I'd have wrung every last one of them with one hand!
+
+[06418.262]
+Leave it to me!
+
+[06418.263]
+Come on!
+
+[06418.264]
+I'll show you my strength!
+
+[06418.265]
+Here I go!
+
+[06418.266]
+Leave it to me.
+
+[06418.267]
+Is the next one the last?
+
+[06418.268]
+All right, let's go!
+
+[06418.269]
+Leave this one to me!
+
+[06418.270]
+I'll settle it with the next one!
+
+[06418.271]
+Why must I...
+
+[06418.272]
+This is against my wishes, but...
+
+[06418.273]
+There are more?
+
+[06418.274]
+Right, let's begin.
+
+[06418.275]
+You can leave it to me!
+
+[06418.276]
+Let's get this over with quick.
+
+[06418.277]
+The genius {NAME:06 00 00 00} has arrived!
+
+[06418.278]
+Where's my second helping?
+
+[06418.279]
+Next data, please!
+
+[06418.280]
+All right!
+
+[06418.281]
+Am I strong, or what?
+
+[06418.282]
+Remember the hero {NAME:01 00 00 00}!
+
+[06418.283]
+We did it, we did it!
+
+[06418.284]
+Can't lose! As they say.
+
+[06418.285]
+Don't make me angry.
+
+[06418.286]
+Nailed it!
+
+[06418.287]
+Nice one, me!
+
+[06418.288]
+Doryaaah!
+
+[06418.289]
+A waste of time.
+
+[06418.290]
+Tedious.
+
+[06418.291]
+Good grief...
+
+[06418.292]
+Weak, aren't they.
+
+[06418.293]
+Isn't there anyone stronger?
+
+[06418.294]
+Over already?
+
+[06418.295]
+Data collection complete!
+
+[06418.296]
+Felt the power of a genius?
+
+[06418.297]
+Sorry. I'm a genius, you see...
+
+[06418.298]
+This wasn't supposed to...
+
+[06418.299]
+Too strong...
+
+[06418.300]
+And I was one step away...
+
+[06418.301]
+My power really isn't...
+
+[06418.302]
+I can't go on...
+
+[06418.303]
+I can see the gates of heaven...
+
+[06418.304]
+I'm gonna die here!
+
+[06418.305]
+So this is what I'm worth...
+
+[06418.306]
+Fate is hard on me...
+
+[06418.307]
+For me to fall behind small fry...
+
+[06418.308]
+For me to lose...
+
+[06418.309]
+Beaten in a mere game like this...
+
+[06418.310]
+Out in the first round...
+
+[06418.311]
+I lose, huh...
+
+[06418.312]
+I should have realized before the fight...
+
+[06418.313]
+The genius, having her data collected...
+
+[06418.314]
+Hold on a moment...
+
+[06418.315]
+I demand a do-over.
+
+[06418.317]
+Have a safe journey.
+
+[06418.318]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06418.319]
+Will you stay the night?
+
+[06418.321]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06418.322]
+Please rest well.
+
+[06418.323]
+Good morning.
+
+[06418.324]
+You do not have enough money.
+
+[06418.325]
+We look forward to seeing you again.
+
+[06418.330]
+Obtained {16:26 12}.
+
+[06418.332]
+Obtained {08:FF FF FF FF}.
+
+[06418.334]
+Found {16:26 1A}, but you can carry no more.
+
+[06418.336]
+There is nothing here.
+

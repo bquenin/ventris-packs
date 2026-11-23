@@ -1,0 +1,232 @@
+[06429.001]
+Oberon Corporation Abandoned Mine
+
+[06429.002]
+Oberon Corporation Abandoned Mine
+
+[06429.004]
+That light at the back bothers me...
+
+[06429.006]
+The treasure is beyond here...
+
+[06429.008]
+This... is the treasure? What on earth is it?
+
+[06429.010]
+A special ore that can be mined only in this mine. It is kept in that to hold it stable.
+
+[06429.012]
+A special ore? So it's just a lump of rock?
+
+[06429.014]
+...You know of Belcrant, do you not.
+
+[06429.016]
+Yeah, we know. The weapon they say was in the sky city Dycroft, right?
+
+[06429.018]
+An outrageous thing that slams energy into the earth's crust and destroys it.
+
+[06429.020]
+That stone was used in Belcrant. It is a stone that amplifies the power of Lenses.
+
+[06429.022]
+Huh!? Then with this...
+
+[06429.024]
+Yes. Belcrant could be built once more. A weapon that could easily blow away a whole city could be made again.
+
+[06429.026]
+...That said, in reality it cannot be done. Nobody knows how this stone should be used.
+
+[06429.028]
+The Oberon Corporation was meant to go on with the analysis... but it is gone.
+
+[06429.030]
+Ugh, the treasure's a dangerous thing like this?
+
+[06429.032]
+Honestly, that Oberon Corporation never did anything but trouble.
+
+[06429.034]
+...Hey, isn't it bright over there?
+
+[06429.036]
+So it is... Is there still something more?
+
+[06429.038]
+It's beautiful...!
+
+[06429.040]
+Light is coming in through a cleft in the rock. I see, no wonder it is bright.
+
+[06429.042]
+This is...!
+
+[06429.044]
+...Hm hm hm. Ha ha ha ha!
+
+[06429.048]
+...How ironic. That such a thing should exist...
+
+[06429.050]
+What on earth is it? Let's see...
+
+[06429.052]
+"With the ore in this mine, it will become possible to raise the power of Lenses greatly."
+
+[06429.054]
+"Then production will grow, and all people will be able to lead prosperous lives."
+
+[06429.056]
+"The ore will be a miracle stone that can do away with the gap between rich and poor in Neustadt."
+
+[06429.058]
+"This miracle stone seems to be formed only by a chemical reaction with light."
+
+[06429.060]
+"By chance the rocks lie so that light shines in, and by chance the stone was in this place..."
+
+[06429.062]
+"This is surely a gift from God."
+
+[06429.064]
+"So please take great care to protect this place, so that it is not destroyed."
+
+[06429.066]
+"For protecting this place is itself protecting the people of Neustadt."
+
+[06429.068]
+"To whoever in the future reads this. From Ilene Rembrandt, Neustadt Branch Manager, Oberon Corporation"
+
+[06429.070]
+I see... Right enough, the ore isn't only for weapons. It can be used in factories and ships too.
+
+[06429.072]
+We never thought of that. That makes us the same as the ones who built the weapon.
+
+[06429.074]
+The Oberon Corporation was the same. And... so was Ilene...
+
+[06429.076]
+They took the wrong road. In their haste to realize their ideal, they wanted quick results and chose a violent remedy.
+
+[06429.078]
+You mean the uprising over the "Eye of God"? Yeah... How could someone who thought like this...
+
+[06429.080]
+But... I don't think Ilene's feelings were a lie.
+
+[06429.082]
+She mined the ore thinking of the people who live in Neustadt.
+
+[06429.084]
+And she left a message so that this place would not be ravaged and the ore lost...
+
+[06429.086]
+That's why it's so beautiful here. Just... like a treasure.
+
+[06429.088]
+A treasure... huh. Maybe this is the real treasure after all.
+
+[06429.090]
+Yeah! I'm sure it is!
+
+[06429.092]
+The real treasure...
+
+[06429.094]
+...Hmph. What a cheap line.
+
+[06429.096]
+Heh! Shut up...
+
+[06429.098]
+...But something cheap is good now and then.
+
+[06429.100]
+{NAME:04 00 00 00}...
+
+[06429.102]
+Well, now that we've seen the real treasure, shall we head back to town?
+
+[06429.104]
+Yeah!
+
+[06429.106]
+"With the ore in this mine, it will become possible to raise the power of Lenses greatly."
+
+[06429.108]
+"Then production will grow, and all people will be able to lead prosperous lives."
+
+[06429.110]
+"The ore will be a miracle stone that can do away with the gap between rich and poor in Neustadt."
+
+[06429.112]
+"This miracle stone seems to be formed only by a chemical reaction with light."
+
+[06429.114]
+"By chance the rocks lie so that light shines in, and by chance the stone was in this place..."
+
+[06429.116]
+"This is surely a gift from God."
+
+[06429.118]
+"So please take great care to protect this place, so that it is not destroyed."
+
+[06429.120]
+"For protecting this place is itself protecting the people of Neustadt."
+
+[06429.122]
+"To whoever in the future reads this. From Ilene Rembrandt, Neustadt Branch Manager, Oberon Corporation"
+
+[06429.124]
+Hey, {NAME:01 00 00 00}! This stone tablet says something about an ore that raises the power of Lenses!!
+
+[06429.126]
+{NAME:03 00 00 00}! The flower... the Berselia flower...!!
+
+[06429.128]
+The Berselia flower has bloomed.
+
+[06429.130]
+Right, {NAME:01 00 00 00}. Let's hurry and take it to Philia!!
+
+[06429.131]
+Have a safe journey.
+
+[06429.132]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06429.133]
+Will you stay the night?
+
+[06429.135]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06429.136]
+Please rest well.
+
+[06429.137]
+Good morning.
+
+[06429.138]
+You do not have enough money.
+
+[06429.139]
+We look forward to seeing you again.
+
+[06429.144]
+Obtained {16:25 C2}.
+
+[06429.146]
+Obtained {08:FF FF FF FF}.
+
+[06429.148]
+Found {16:25 CA}, but you can carry no more.
+
+[06429.150]
+There is nothing here.
+

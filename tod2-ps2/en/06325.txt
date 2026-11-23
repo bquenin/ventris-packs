@@ -1,0 +1,54 @@
+[06325.001]
+Laguna Ruins
+
+[06325.002]
+Laguna Ruins
+
+[06325.003]
+Obtained {0B:01 00 00 00}{14:34 84}{0B:00 00 00 00} {16:34 88}.
+
+[06325.005]
+Found {0B:01 00 00 00}{14:34 8C}{0B:00 00 00 00} {16:34 88}, but you can carry no more. Returned them to the chest.
+
+[06325.007]
+{16:34 88}: {0B:01 00 00 00}{14:34 8C} found, but you cannot carry them all.
+・Take {14:34 84}, discard {14:34 90}{0B:00 00 00 00}
+・Put them back in the chest
+
+[06325.009]
+Have a safe journey.
+
+[06325.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06325.011]
+Will you stay the night?
+
+[06325.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06325.014]
+Please rest well.
+
+[06325.015]
+Good morning.
+
+[06325.016]
+You do not have enough money.
+
+[06325.017]
+We look forward to seeing you again.
+
+[06325.022]
+Obtained {16:25 E6}.
+
+[06325.024]
+Obtained {08:FF FF FF FF}.
+
+[06325.026]
+Found {16:25 EE}, but you can carry no more.
+
+[06325.028]
+There is nothing here.
+

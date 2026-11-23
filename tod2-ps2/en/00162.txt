@@ -1,0 +1,18 @@
+[00162.001]
+Hey, {NAME:01 00 00 00}. What's with your arm? There's blood seeping through.
+
+[00162.002]
+Hm? Oh, so there is. Did I scrape it climbing the cliff?
+
+[00162.003]
+What! Germs will get in, germs! All right, I'll fix it. Show me.
+
+[00162.004]
+Huh......? Waah! S-stop! Don't lick it, that tickles!
+
+[00162.005]
+...It tickles at first, but it soon feels better. I won't let my precious {NAME:01 00 00 00} be hurt. Bear with it, hm?
+
+[00162.006]
+H-help me~!
+

@@ -1,0 +1,280 @@
+[06414.001]
+Neustadt: Infirmary
+
+[06414.002]
+Neustadt: Infirmary
+
+[06414.003]
+Infirmary
+
+[06414.005]
+Obtained {08:03 00 00 00}.
+
+[06414.007]
+The first-aid box holds Gels. Does that mean: if you get hurt, eat a Gel for a start?
+
+[06414.009]
+It seems to be a medical book. ...It is far too difficult to understand at all.
+
+[06414.011]
+Defeat
+
+[06414.012]
+Doctor
+
+[06414.013]
+That man there enters every time, but apparently he has never once fought.
+
+[06414.014]
+They say "taking part is what counts", but is there really any point to it?
+
+[06414.015]
+If you mean the man over there, there's no need to worry.
+
+[06414.016]
+He enters every time, but whenever his turn gets near he comes running into the infirmary.
+
+[06414.017]
+The infirmary is, strictly speaking, a place for healing the wounds of battle.
+
+[06414.018]
+The only one who rushes in before fighting is that fellow lying there.
+
+[06414.019]
+Swordsman
+
+[06414.020]
+Guoooh! I-I'm dyiiing!!
+
+[06414.021]
+Fuguowaaah!! M-my stomach hurts something fierce!!
+
+[06414.023]
+Was he stabbed in the stomach or something?
+
+[06414.025]
+From what I can see, there is no external wound...
+
+[06414.026]
+Until now I've lost by default every time to sudden illness, but this time I'll fight, you'll see!
+
+[06414.027]
+...Once this stomachache settles...
+
+[06414.029]
+Are you all right?
+
+[06414.031]
+I let you see me at my worst.
+
+[06414.033]
+Hey, hey, you all right?
+
+[06414.035]
+Yeah, more or less...
+
+[06414.037]
+You tried your hardest and that is all?
+
+[06414.039]
+As if I'd give up!
+
+[06414.041]
+You all right?
+
+[06414.043]
+Next time I won't lose.
+
+[06414.045]
+Want me to fix you up?
+
+[06414.047]
+Thank you.
+
+[06414.049]
+Oh, are you all right?
+
+[06414.051]
+Were you worried about me?
+
+[06414.053]
+Are you awake?
+
+[06414.055]
+Yes, I'm all right...
+
+[06414.057]
+Is that all your power amounts to?
+
+[06414.059]
+I have to try harder.
+
+[06414.061]
+Don't push yourself too hard.
+
+[06414.063]
+Yes, thank you.
+
+[06414.065]
+You mustn't push yourself so hard.
+
+[06414.067]
+You're right, I'm sorry.
+
+[06414.069]
+Mom'll worry if you keep being reckless, you know?
+
+[06414.071]
+Who's being reckless?
+
+[06414.073]
+Are you all right?
+
+[06414.075]
+Being sturdy is my strong point.
+
+[06414.077]
+A sorry sight.
+
+[06414.079]
+Leave me alone!
+
+[06414.081]
+Pfft...
+
+[06414.083]
+Don't laugh!
+
+[06414.085]
+So weeeak.
+
+[06414.087]
+Hearing it put that plainly hurts.
+
+[06414.089]
+Are you all right?
+
+[06414.091]
+There is no need to worry.
+
+[06414.093]
+Take care of yourself...
+
+[06414.095]
+Wherever I may fall, I will have no regrets.
+
+[06414.097]
+What are you being so reckless for?
+
+[06414.099]
+Each person lives in their own way.
+
+[06414.101]
+You've got a tragic air about you, you know?
+
+[06414.103]
+So do you.
+
+[06414.105]
+Won't you let me take your data?
+
+[06414.107]
+I refuse.
+
+[06414.109]
+You had a rough time.
+
+[06414.111]
+This much is nothing.
+
+[06414.113]
+Are you all right?
+
+[06414.115]
+And I was confident, too.
+
+[06414.117]
+Pfft...
+
+[06414.119]
+Don't you laugh!
+
+[06414.121]
+You won't get to see the children again.
+
+[06414.123]
+I'll take that to heart.
+
+[06414.125]
+Ta-da, a doping drug!
+
+[06414.127]
+I don't want it.
+
+[06414.129]
+You're being far too reckless.
+
+[06414.131]
+Nothing is impossible for a genius!
+
+[06414.133]
+Are you awake?
+
+[06414.135]
+Next time I'll beat them to a pulp!
+
+[06414.137]
+You aliiive?
+
+[06414.139]
+I'm alive!
+
+[06414.141]
+........
+
+[06414.143]
+Oh, shut up~. Leave me alone!
+
+[06414.145]
+You all right?
+
+[06414.147]
+To think that I, of all people, got beaten up this badly.
+
+[06414.148]
+Have a safe journey.
+
+[06414.149]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06414.150]
+Will you stay the night?
+
+[06414.152]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06414.153]
+Please rest well.
+
+[06414.154]
+Good morning.
+
+[06414.155]
+You do not have enough money.
+
+[06414.156]
+We look forward to seeing you again.
+
+[06414.161]
+Obtained {16:25 BE}.
+
+[06414.163]
+Obtained {08:FF FF FF FF}.
+
+[06414.165]
+Found {16:25 C6}, but you can carry no more.
+
+[06414.167]
+There is nothing here.
+

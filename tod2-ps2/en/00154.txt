@@ -1,0 +1,18 @@
+[00154.001]
+{NAME:01 00 00 00}, why are you so fixed on that girl? Sure, she's got the makings, I'll grant that. In ten years she'll be a fine woman, no doubt. But the world is full of finer women, heaps of them.
+
+[00154.002]
+Don't lump me in with you, {NAME:03 00 00 00}! I'm going after her because I've got a feeling about it!
+
+[00154.003]
+A "feeling"...... A feeling of love, maybe? Hah... So you've reached that age. A~ll right! In that case I'm behind you all the way!
+
+[00154.004]
+N-n-no! What I felt was a "feeling of adventure"! It seemed to me that going after her is the road to becoming a hero!
+
+[00154.005]
+Sure, sure, we'll leave it at that. Just leave the lessons in love to the great {NAME:03 00 00 00}!
+
+[00154.006]
+! Adventure, I told you!
+

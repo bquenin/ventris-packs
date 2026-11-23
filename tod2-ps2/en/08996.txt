@@ -1,0 +1,72 @@
+[08996.178432]
+Aigrette: Warehouse
+
+[08996.178456]
+Shell
+
+[08996.178464]
+Western Mine
+
+[08996.178480]
+Southern Mine
+
+[08996.178496]
+Northern Mine
+
+[08996.178512]
+Field: Around the Spiral Cave
+
+[08996.178552]
+Field: North of the Army Base
+
+[08996.178584]
+Field: Around the Army Base
+
+[08996.178616]
+Field: Around Realta
+
+[08996.178648]
+Field: Around Speranza
+
+[08996.178680]
+Field: Around Vangelo
+
+[08996.178712]
+Field: Northern Calvalese
+
+[08996.178744]
+Field: Southern Calvalese
+
+[08996.178776]
+Field: At Sea
+
+[08996.178800]
+Field: Devil's Reef
+
+[08996.178832]
+Field: Calvalese
+
+[08996.178864]
+Field: Fitzgald
+
+[08996.178896]
+Field: Aquaveil
+
+[08996.178928]
+Field: Isles Southeast of Phandaria
+
+[08996.178968]
+Field: Phandaria
+
+[08996.179000]
+Field: Seinegald
+
+[08996.180672]
+The fog is too thick to land.
+
+[08996.180704]
+You cannot land here.
+
+[08996.180736]
+Please fly lower.
+

@@ -1,0 +1,1362 @@
+[06465.001]
+Heidelberg Castle: Audience Chamber
+
+[06465.002]
+Heidelberg Castle
+
+[06465.003]
+Heidelberg Castle: Audience Chamber
+
+[06465.004]
+The room behind the throne
+
+[06465.005]
+Talk to Woodrow
+
+[06465.007]
+Woodrow
+
+[06465.008]
+Our country's Lenses are gathered in the room behind the throne. Look in, if you are interested.
+
+[06465.009]
+Woodrow
+
+[06465.010]
+The power of Lenses, gathered into one, once brought about a great calamity.
+
+[06465.011]
+Woodrow
+
+[06465.012]
+That error must never be repeated. As king, I tell myself so always.
+
+[06465.013]
+Woodrow
+
+[06465.014]
+Are the Lenses safe...!? Q-quickly, see to them...!
+
+[06465.015]
+Woodrow
+
+[06465.016]
+We will confer on what is to be done... Wait until tomorrow, {NAME:01 00 00 00}.
+
+[06465.017]
+Woodrow
+
+[06465.018]
+Go, {NAME:01 00 00 00}. To become her hero, and no one else's!
+
+[06465.019]
+Woodrow
+
+[06465.020]
+All we can do now is have you stay at the castle. Forgive me, {NAME:01 00 00 00}.
+
+[06465.021]
+Woodrow
+
+[06465.022]
+This is only my own view, but the present peace is the calm before the storm... So I feel.
+
+[06465.023]
+Woodrow
+
+[06465.024]
+{NAME:01 00 00 00}, what has happened? {NAME:06 00 00 00} seemed to be looking for you...
+
+[06465.025]
+Woodrow
+
+[06465.026]
+You say you saw the ruin of this world... What on earth is about to happen?
+
+[06465.027]
+Woodrow
+
+[06465.028]
+I hope what I have told you will be of some help.
+
+[06465.029]
+Woodrow
+
+[06465.030]
+It must be hard, but no one can take your place. Do not lose heart, {NAME:01 00 00 00}.
+
+[06465.032]
+Thank you, Woodrow. Well, we'll be going.
+
+[06465.033]
+Woodrow
+
+[06465.034]
+I am Woodrow. Welcome to our kingdom.
+
+[06465.036]
+How do you do, King Woodrow. I'm {NAME:01 00 00 00} Dunamis!
+
+[06465.037]
+Woodrow
+
+[06465.038]
+{NAME:01 00 00 00} Dunamis...? Could you be Stahn and Rutee's...
+
+[06465.040]
+Yes, I'm their son.
+
+[06465.041]
+Woodrow
+
+[06465.042]
+The son of those two, grown so big! Dear me, no wonder I am getting old.
+
+[06465.043]
+Woodrow
+
+[06465.044]
+Yes, you are certainly very like him. The golden hair, and the light in your eyes...
+
+[06465.045]
+Woodrow
+
+[06465.046]
+You have the same eyes as Stahn in his adventuring days.
+
+[06465.048]
+S-somehow, the thought of the Hero King looking at me makes me nervous...
+
+[06465.049]
+Woodrow
+
+[06465.050]
+Hero King? How distant. The son of those two is like a son to me as well.
+
+[06465.051]
+Woodrow
+
+[06465.052]
+Call me plainly, by my name. I shall call you {NAME:01 00 00 00}.
+
+[06465.054]
+Thank you, Woodrow!
+
+[06465.055]
+Woodrow
+
+[06465.056]
+You seem to be adventuring... Are you aiming to be a hero, as Stahn was?
+
+[06465.058]
+No, I'm not. Because a hero isn't something you become just by wanting to.
+
+[06465.060]
+I think it's what you get called as a result of having done something, like Dad and you, Woodrow.
+
+[06465.061]
+Woodrow
+
+[06465.062]
+...Yes, that is quite right. But to grasp that at your age is admirable.
+
+[06465.064]
+O-oh, no...
+
+[06465.065]
+Woodrow
+
+[06465.066]
+Then, {NAME:01 00 00 00}, let me ask you again. Why are you adventuring?
+
+[06465.068]
+I promised Dad. That I'd find something irreplaceable, even if only one thing.
+
+[06465.069]
+Woodrow
+
+[06465.070]
+Heh heh, that is like Stahn. Well? Do you think you will find it?
+
+[06465.072]
+I don't know... But I'll find it, I promise!
+
+[06465.073]
+Woodrow
+
+[06465.074]
+...Good eyes. As long as you do not lose that light in them, you will surely find it.
+
+[06465.076]
+Yes, I'll do my best!
+
+[06465.077]
+Woodrow
+
+[06465.078]
+{NAME:01 00 00 00}, come and visit anytime. You are always welcome.
+
+[06465.079]
+Woodrow
+
+[06465.080]
+Not as Stahn's son, of course, but as a man in your own right, {NAME:01 00 00 00} Dunamis.
+
+[06465.082]
+Woodrow... Thank you!
+
+[06465.083]
+Woodrow
+
+[06465.084]
+I too hope you find what you are looking for... something irreplaceable.
+
+[06465.085]
+Woodrow
+
+[06465.086]
+The line for this flag is not set.
+
+[06465.087]
+Elraine
+
+[06465.088]
+We wish only to lend our strength so that the people of this country may live happily.
+
+[06465.089]
+Woodrow
+
+[06465.090]
+I am most grateful for so kind an offer. But... as one grows old, one becomes rather suspicious.
+
+[06465.091]
+Elraine
+
+[06465.092]
+We are of course aware that King Woodrow is cautious about providing Lenses.
+
+[06465.093]
+Elraine
+
+[06465.094]
+But with the power of the Lenses, more people can be saved and led to happiness.
+
+[06465.095]
+Elraine
+
+[06465.096]
+As servants of God, we wish to hold out to the people every saving hand we can.
+
+[06465.097]
+Elraine
+
+[06465.098]
+Will you not cooperate?
+
+[06465.099]
+Woodrow
+
+[06465.100]
+........I do not wish to doubt your precious faith.
+
+[06465.101]
+Woodrow
+
+[06465.102]
+But I believe you too know that the last upheaval began with an archbishop of deep faith.
+
+[06465.103]
+Elraine
+
+[06465.104]
+...I see well that winning the king's trust will take fitting time and effort.
+
+[06465.105]
+Elraine
+
+[06465.106]
+For today, I will take my leave. Another time, then...
+
+[06465.107]
+Guard
+
+[06465.108]
+The next to be received is {NAME:01 00 00 00} Dunamis.
+
+[06465.110]
+H-h-how do you do! I-I trust Your Majesty is in the best of, of hea...
+
+[06465.112]
+...Calm down, {NAME:01 00 00 00}. Nobody can tell what you're saying.
+
+[06465.113]
+Woodrow
+
+[06465.114]
+I am Woodrow. Glad to meet you. Now... before we begin, there is one thing I wish to say.
+
+[06465.115]
+Woodrow
+
+[06465.116]
+It seems you cut into the queue for audiences... That is not much to your credit.
+
+[06465.117]
+Woodrow
+
+[06465.118]
+Everyone makes the time and waits their turn. You are not the only one, you know?
+
+[06465.120]
+Ah... I-I'm sorry!
+
+[06465.122]
+It's not him, King Woodrow! I was the one who asked them to let us cut in, so...
+
+[06465.123]
+Woodrow
+
+[06465.124]
+No, as long as you understand, that is enough. I have not the least intention of punishing you.
+
+[06465.125]
+Woodrow
+
+[06465.126]
+And from now on you need not apply for an audience. Come freely, anytime.
+
+[06465.128]
+...Huh?
+
+[06465.129]
+Woodrow
+
+[06465.130]
+The son of my comrades Stahn and Rutee is like a son to me too.
+
+[06465.131]
+Woodrow
+
+[06465.132]
+It would be strange for a son to go through formalities to see his parent, would it not?
+
+[06465.134]
+Your Majesty...
+
+[06465.135]
+Woodrow
+
+[06465.136]
+"Your Majesty" is too stiff as well. My name will do.
+
+[06465.137]
+Woodrow
+
+[06465.138]
+I shall call you {NAME:01 00 00 00}, if I may?
+
+[06465.140]
+Of course! Your Maj... I mean, Woodrow!
+
+[06465.141]
+Woodrow
+
+[06465.142]
+Now, you have come all the way from Cresta, so I take it there is a reason...
+
+[06465.144]
+I will tell you that. There was something I wanted to find out by meeting you, Woodrow.
+
+[06465.146]
+...
+......
+
+[06465.148]
+It was no good...
+
+[06465.150]
+H-hey, cheer up, {NAME:02 00 00 00}!
+
+[06465.151]
+Woodrow
+
+[06465.152]
+{NAME:01 00 00 00}, what is this...?
+
+[06465.154]
+Woodrow, {NAME:02 00 00 00} is looking for a hero.
+
+[06465.155]
+Woodrow
+
+[06465.156]
+Looking for a hero?
+
+[06465.158]
+Yes... First I met Philia, but she was not the hero I seek.
+
+[06465.160]
+And so I thought that you, Woodrow, might perhaps...
+
+[06465.161]
+Woodrow
+
+[06465.162]
+But... I was not what you call a hero either.
+
+[06465.163]
+Woodrow
+
+[06465.164]
+So the heroes the world speaks of are not necessarily the person you seek... That sounds hard indeed.
+
+[06465.166]
+It's all right, {NAME:02 00 00 00}! You've got us with you. It'll work out!
+
+[06465.167]
+Woodrow
+
+[06465.168]
+Ha ha! Like father, like son. Stahn always said that sort of thing when he met with trouble.
+
+[06465.170]
+Dad too...
+
+[06465.171]
+Woodrow
+
+[06465.172]
+{NAME:02 00 00 00}, one piece of advice from me.
+
+[06465.174]
+Yes...
+
+[06465.175]
+Woodrow
+
+[06465.176]
+"Don't give up, we'll manage somehow." It was because of words like those from Stahn that we saw it through to the end.
+
+[06465.177]
+Woodrow
+
+[06465.178]
+A hero may be a person with a heart that does not give up, as he had. Keep that in mind.
+
+[06465.180]
+Yes, thank you.
+
+[06465.181]
+Woodrow
+
+[06465.182]
+And if you are ever about to forget it, look at {NAME:01 00 00 00} beside you.
+
+[06465.183]
+Woodrow
+
+[06465.184]
+He seems to have inherited the makings of a hero from his parents, without a doubt.
+
+[06465.186]
+Huh? You mean...!
+
+[06465.187]
+Woodrow
+
+[06465.188]
+Of course, he still seems to need a great deal of effort... but that he has the makings is beyond doubt.
+
+[06465.190]
+Y-yes, I'll do my best! Leave it to me!
+
+[06465.192]
+A hero... Me, a hero...!
+
+[06465.194]
+Come to think of it... Elraine was here just now. What was she doing here?
+
+[06465.196]
+...She seemed to be saying something about Lenses...
+
+[06465.197]
+Woodrow
+
+[06465.198]
+So you heard... I would rather it had not become known.
+
+[06465.200]
+She came telling you to "hand over the Lenses", I bet. That lot work the same way everywhere.
+
+[06465.201]
+Woodrow
+
+[06465.202]
+Well, something like that.
+
+[06465.203]
+Woodrow
+
+[06465.204]
+To be frank, they are more than I can manage too, but the quantity is what it is. I cannot very well hand them to anyone.
+
+[06465.206]
+Are there that many?
+
+[06465.207]
+Woodrow
+
+[06465.208]
+Have a look, if you like. They are gathered in the room behind the throne.
+
+[06465.209]
+Guard
+
+[06465.210]
+This is the audience chamber.
+
+[06465.211]
+Woodrow
+
+[06465.212]
+Guaaaaaaah!!
+
+[06465.214]
+W-Woodrow!
+
+[06465.216]
+Y-you're Barbatos!!
+
+[06465.217]
+Barbatos
+
+[06465.218]
+Hoh, so we meet again, boy! {NAME:01 00 00 00}, was it. It seems you and I are strangely bound.
+
+[06465.220]
+You did this to Woodrow...! Damn you, I'll never forgive you, never!
+
+[06465.221]
+Barbatos
+
+[06465.222]
+My purpose is achieved! The rest is for that woman to do as she likes. Farewell, {NAME:01 00 00 00}!
+
+[06465.224]
+That woman...? Who do you mean!?
+
+[06465.226]
+Are you all right!? Hold on, Woodrow!!
+
+[06465.227]
+Woodrow
+
+[06465.228]
+Ugh, urgh...
+
+[06465.230]
+The wound is deep, but it has barely missed the vital points. It is all right, he can be saved!
+
+[06465.232]
+Hey, fetch a doctor, quick!
+
+[06465.234]
+First Philia, and now Woodrow too...
+
+[06465.236]
+At this rate, a great distortion will arise in the flow of time...
+
+[06465.238]
+...! Surely all of this isn't... her doing...!?
+
+[06465.239]
+Elraine
+
+[06465.240]
+And if it is, what of it... {NAME:02 00 00 00}?
+
+[06465.241]
+Elraine
+
+[06465.242]
+I see... how very like him. Whatever the hero, he shows no mercy...
+
+[06465.243]
+Elraine
+
+[06465.244]
+Had he simply handed over the Lenses then, he need not have come to this...
+
+[06465.246]
+Elraine! You are wrong! People cannot be saved this way!
+
+[06465.247]
+Elraine
+
+[06465.248]
+...Then what will you do?
+
+[06465.249]
+Elraine
+
+[06465.250]
+Do you, who have still found nothing, claim to speak of salvation?
+
+[06465.252]
+Th-that is...
+
+[06465.254]
+Wh-what's going on!? What's Elraine doing here!?
+
+[06465.256]
+And {NAME:02 00 00 00}, how do you know Elraine...
+
+[06465.258]
+There's a lot I don't get, but one thing's clear.
+
+[06465.260]
+That woman's the one behind it all! Let's go! Prepare yourself, Elraine!
+
+[06465.262]
+Ngh! This guy...
+
+[06465.263]
+Gaap
+
+[06465.264]
+You will not lay a finger on Lady Elraine.
+
+[06465.266]
+Then!
+
+[06465.268]
+Gah!
+
+[06465.270]
+{NAME:04 00 00 00}!
+
+[06465.272]
+Gah!!
+
+[06465.274]
+{NAME:03 00 00 00}!
+
+[06465.275]
+Elraine
+
+[06465.276]
+The salvation of the people is God's wish. Whoever stands in its way, I will show no mercy.
+
+[06465.278]
+Stop, Elraine!
+
+[06465.279]
+Elraine
+
+[06465.280]
+No one can stop me...
+
+[06465.281]
+Elraine
+
+[06465.282]
+No, not even you, {NAME:02 00 00 00}.
+
+[06465.284]
+No! Stop! I still have a mission to fulfill here...!
+
+[06465.285]
+Elraine
+
+[06465.286]
+There is no meaning in the presence here of one who has still found nothing... Go back, weak one.
+
+[06465.288]
+Noooooo!!
+
+[06465.290]
+{NAME:02 00 00 00}!!
+
+[06465.292]
+{NAME:01 00 00 00}! {NAME:02 00 00 00}!
+
+[06465.294]
+After them!
+
+[06465.296]
+Are you all right!? Woodrow!
+
+[06465.297]
+Guard
+
+[06465.298]
+{NAME:01 00 00 00}! Please rest easy. First aid has already been given.
+
+[06465.299]
+Guard
+
+[06465.300]
+We sent for a doctor a moment ago, so he should be here soon.
+
+[06465.302]
+And you people are unhurt? You tangled with that Elraine. You shouldn't have come off without a scratch...
+
+[06465.303]
+Guard
+
+[06465.304]
+Well... Elraine went away without doing anything.
+
+[06465.306]
+What?
+
+[06465.308]
+{NAME:04 00 00 00}?
+
+[06465.310]
+If the king falls, the people are thrown into confusion, and the Order gets its opening. This was the perfect chance for that.
+
+[06465.312]
+Yet she did not take it... Why did Elraine not finish Woodrow off?
+
+[06465.314]
+With Elraine's power, it should not have been impossible...
+
+[06465.315]
+Guard
+
+[06465.316]
+Your Majesty!
+
+[06465.318]
+Woodrow!
+
+[06465.319]
+Guard
+
+[06465.320]
+Your Majesty! Please take care of yourself!
+
+[06465.321]
+Woodrow
+
+[06465.322]
+The Lenses... are the Lenses safe...!? That they should be taken, of all things...!
+
+[06465.323]
+Guard
+
+[06465.324]
+Please rest easy, Your Majesty. Elraine fled without doing anything.
+
+[06465.325]
+Guard
+
+[06465.326]
+No one has been allowed near where the Lenses are!
+
+[06465.327]
+Woodrow
+
+[06465.328]
+But...!
+
+[06465.330]
+Woodrow, we'll go and look right now!
+
+[06465.331]
+Woodrow
+
+[06465.332]
+...From your faces, then, it is as I feared...
+
+[06465.334]
+...Yes.
+
+[06465.335]
+Woodrow
+
+[06465.336]
+What a... disgrace! To let them break in... and on top of that, the Lenses...!
+
+[06465.338]
+Woodrow! We'll do something...!
+
+[06465.339]
+Woodrow
+
+[06465.340]
+...I understand... what you offer. Forgive me, but... I would speak with you tomorrow...
+
+[06465.341]
+Guard
+
+[06465.342]
+Please stay at the castle tonight. His Majesty will be easier for it too.
+
+[06465.344]
+All right...
+
+[06465.345]
+Woodrow
+
+[06465.346]
+I am sorry to have brought you here. About the matter of the Lenses...
+
+[06465.348]
+Um... before that... have you seen {NAME:02 00 00 00}?
+
+[06465.349]
+Woodrow
+
+[06465.350]
+{NAME:02 00 00 00}? No, I have not seen her...
+
+[06465.352]
+She hasn't been here? Then where on earth is she?
+
+[06465.353]
+Soldier
+
+[06465.354]
+Um, about that... I don't know whether it will help, but there is something I should tell you...
+
+[06465.355]
+Soldier
+
+[06465.356]
+Last night I was on guard at the main gate. Someone left the castle before the sun was up, and thinking it strange I called out.
+
+[06465.357]
+Soldier
+
+[06465.358]
+It was {NAME:02 00 00 00}. She murmured "I have to go", and then was wrapped in light and vanished.
+
+[06465.359]
+Soldier
+
+[06465.360]
+I thought I had seen a phantom, so I made no report...
+
+[06465.362]
+No... {NAME:02 00 00 00}, where on earth have you gone!?
+
+[06465.364]
+Aigrette, I expect. She has gone in alone to stop Elraine.
+
+[06465.366]
+That's too reckless... She'll have enemies all around her.
+
+[06465.368]
+{NAME:01 00 00 00}, we've got to go and save her, quick!
+
+[06465.370]
+........
+
+[06465.372]
+Hey, {NAME:01 00 00 00}! If we don't hurry, it'll be bad!
+
+[06465.374]
+Halt.
+
+[06465.376]
+...You are afraid, are you not?
+
+[06465.378]
+What?
+
+[06465.380]
+Afraid of being rejected again, and hurt?
+
+[06465.382]
+........
+
+[06465.384]
+...I was the same. I feared being hurt, and I stood still.
+
+[06465.386]
+And I lost my friends and the one I loved. All that was left to me in the end... was a mask to hide myself.
+
+[06465.388]
+........
+
+[06465.390]
+Whatever outcome you choose, I have no right to say this or that. But I can give you a warning.
+
+[06465.392]
+...Do not be afraid, {NAME:01 00 00 00}! What you seek lies beyond that fear.
+
+[06465.394]
+{NAME:04 00 00 00}...
+
+[06465.396]
+...Heh, that's rare. Me agreeing with this guy.
+
+[06465.398]
+What's up with you, {NAME:01 00 00 00}? Fretting and brooding isn't like you.
+
+[06465.400]
+There's nothing to think about. What matters is how you feel, that's all.
+
+[06465.402]
+........
+
+[06465.404]
+Maybe I'm not needed anymore. Maybe a me who's no hero means nothing to {NAME:02 00 00 00}.
+
+[06465.406]
+But even so... even so, I want to save {NAME:02 00 00 00}!
+
+[06465.408]
+So, everyone...
+
+[06465.410]
+...Let's go, {NAME:01 00 00 00}. If it's come to this, I'm with you all the way.
+
+[06465.412]
+Me too! I'm not being left out after coming this far!
+
+[06465.414]
+I have no reason to refuse. The rest is up to you, {NAME:01 00 00 00}.
+
+[06465.416]
+Right, let's go, everyone. To Aigrette!
+
+[06465.418]
+We go and save {NAME:02 00 00 00}! And we take the Lenses back from Elraine!
+
+[06465.419]
+Woodrow
+
+[06465.420]
+Wait, {NAME:01 00 00 00}.
+
+[06465.421]
+Woodrow
+
+[06465.422]
+This is a political matter that has arisen between Heidelberg and the Order of Atamoni.
+
+[06465.423]
+Woodrow
+
+[06465.424]
+If it is handled by force of arms, a clash cannot be avoided. It may even come to war.
+
+[06465.425]
+Woodrow
+
+[06465.426]
+{NAME:01 00 00 00}, you said you wished to become a hero like Stahn.
+
+[06465.427]
+Woodrow
+
+[06465.428]
+A hero is one who saves many people. Do you not think the course you mean to take is the very opposite?
+
+[06465.430]
+That's true, but...!
+
+[06465.432]
+{NAME:01 00 00 00}... what will you do?
+
+[06465.434]
+...Woodrow, I think that's wrong.
+
+[06465.436]
+Someone who can't protect one person... the person who matters to him... could never become a hero.
+
+[06465.438]
+So I'm going. I'm going to save {NAME:02 00 00 00}!
+
+[06465.439]
+Woodrow
+
+[06465.440]
+...So you will go, come what may...
+
+[06465.441]
+Woodrow
+
+[06465.442]
+Forgive me, {NAME:01 00 00 00}. I did something like putting you to the test.
+
+[06465.444]
+Woodrow...?
+
+[06465.445]
+Woodrow
+
+[06465.446]
+Take this with you.
+
+[06465.448]
+This is...?
+
+[06465.450]
+"The bearer of this letter is charged, by my royal command, with the recovery of the Lenses."
+
+[06465.452]
+"In my name I grant the removal of every restriction that may arise in the discharge of that charge."
+
+[06465.454]
+"Woodrow Kelvin, King of Phandaria" ...Hey, this is a royal writ!
+
+[06465.455]
+Woodrow
+
+[06465.456]
+Do as you think right. I will see to the rest.
+
+[06465.458]
+Woodrow, then...!
+
+[06465.459]
+Woodrow
+
+[06465.460]
+Go, {NAME:01 00 00 00}. To become her hero, and no one else's!
+
+[06465.462]
+Yes!
+
+[06465.463]
+Woodrow
+
+[06465.464]
+...What on earth has happened to him? He is like a different person from yesterday.
+
+[06465.465]
+Woodrow
+
+[06465.466]
+It is like seeing a son who has been on a journey and come back a size larger...
+
+[06465.467]
+Woodrow
+
+[06465.468]
+A son... I can no longer call him "Stahn's son".
+
+[06465.469]
+Woodrow
+
+[06465.470]
+For he is already a man in his own right, {NAME:01 00 00 00} Dunamis...
+
+[06465.472]
+{NAME:01 00 00 00} earned the title "{08:24 08 00 00}".
+
+[06465.473]
+Woodrow
+
+[06465.474]
+After the last calamity, a mood grew among the people to rely less on Lenses.
+
+[06465.475]
+Woodrow
+
+[06465.476]
+That in itself was to be welcomed... but how to dispose of them became a problem.
+
+[06465.478]
+Throw them away carelessly and who's to say someone won't misuse them again, is that it?
+
+[06465.479]
+Woodrow
+
+[06465.480]
+And so I offered to keep them. That great quantity of Lenses is the result.
+
+[06465.481]
+Woodrow
+
+[06465.482]
+That I, who feared the concentration of Lenses, should end up holding so many... It is ironic.
+
+[06465.484]
+But I think that is proof the people of Phandaria trust you, Woodrow.
+
+[06465.486]
+They must have entrusted their Lenses to you because they thought they would be safe in your hands.
+
+[06465.487]
+Woodrow
+
+[06465.488]
+I hope so.
+
+[06465.489]
+Woodrow
+
+[06465.490]
+In any case, having once taken them into my keeping, I must manage them responsibly. I must keep careful watch so that they are not misused.
+
+[06465.491]
+Woodrow
+
+[06465.492]
+Oh, {NAME:01 00 00 00}. And all of you... It seems you achieved your purpose safely.
+
+[06465.494]
+Yes, we managed to save {NAME:02 00 00 00}. Only, Phandaria's Lenses...
+
+[06465.495]
+Woodrow
+
+[06465.496]
+I have had the report. That they sank to the seabed with the Flying Dragon.
+
+[06465.498]
+I'm sorry. It's all because I wasn't strong enough...
+
+[06465.499]
+Woodrow
+
+[06465.500]
+There is nothing for you to apologize for. That the Lenses were kept from gathering in one place is enough.
+
+[06465.501]
+Woodrow
+
+[06465.502]
+On behalf of the people of Phandaria, I thank you. Thank you, {NAME:01 00 00 00}.
+
+[06465.504]
+No, if I was of use, I'm honored.
+
+[06465.505]
+Woodrow
+
+[06465.506]
+I would like to reward what you have done somehow, but all we can do now is have you stay at the castle.
+
+[06465.507]
+Woodrow
+
+[06465.508]
+What do you say, {NAME:01 00 00 00}?
+
+[06465.510]
+Thank you! We'd love to!
+
+[06465.511]
+Woodrow
+
+[06465.512]
+Hm, {NAME:01 00 00 00}. What is the matter? You do not look well.
+
+[06465.514]
+Woodrow, please hear what I have to say...!
+
+[06465.515]
+Woodrow
+
+[06465.516]
+I see... So Elraine was no mere human after all...
+
+[06465.517]
+Woodrow
+
+[06465.518]
+Even so... fate is a cruel thing, to lay such a trial on you who are so young.
+
+[06465.520]
+I don't know what I should do...
+
+[06465.521]
+Woodrow
+
+[06465.522]
+................
+................
+
+[06465.523]
+Woodrow
+
+[06465.524]
+Suppose, for instance, there were a small village and a large town along a river.
+
+[06465.525]
+Woodrow
+
+[06465.526]
+The village upstream drew off the river's water to raise the crops in its fields.
+
+[06465.527]
+Woodrow
+
+[06465.528]
+Because of that, the town downstream was always short of drinking water.
+
+[06465.529]
+Woodrow
+
+[06465.530]
+That strife arose between the two was only natural. Over the right to use the water, of course.
+
+[06465.531]
+Woodrow
+
+[06465.532]
+{NAME:01 00 00 00}, what would you do in this situation?
+
+[06465.534]
+What would I do... The village and the town each have their reasons. I can't give an answer.
+
+[06465.535]
+Woodrow
+
+[06465.536]
+I see. A reasonable view.
+
+[06465.537]
+Woodrow
+
+[06465.538]
+But if you were in my place... if you were king, that is, it would satisfy no one.
+
+[06465.539]
+Woodrow
+
+[06465.540]
+For to the people who live there it is a matter of life or death.
+
+[06465.542]
+Then what would you do, Woodrow?
+
+[06465.543]
+Woodrow
+
+[06465.544]
+Think.
+
+[06465.546]
+Think?
+
+[06465.547]
+Woodrow
+
+[06465.548]
+Yes. Think, and think, and think it through to the end.
+
+[06465.550]
+And if you still couldn't find an answer?
+
+[06465.551]
+Woodrow
+
+[06465.552]
+Think more, until an answer comes.
+
+[06465.553]
+Woodrow
+
+[06465.554]
+And the answer you reach, you hold to until the end, whatever happens.
+
+[06465.555]
+Woodrow
+
+[06465.556]
+That, I believe, is the responsibility borne by one to whom a decision has been entrusted.
+
+[06465.558]
+The responsibility of one entrusted with a decision...
+
+[06465.559]
+Woodrow
+
+[06465.560]
+It may sound an irresponsible thing to say, but... agonize, and think.
+
+[06465.561]
+Woodrow
+
+[06465.562]
+Agonize in earnest, suffer, take all the time there is, and find an answer you yourself can accept.
+
+[06465.563]
+Woodrow
+
+[06465.564]
+It must be hard, but no one can take your place. Do not lose heart, {NAME:01 00 00 00}.
+
+[06465.566]
+I understand... I'll think it through to the very last.
+
+[06465.567]
+Woodrow
+
+[06465.568]
+And {NAME:02 00 00 00}, it must be hard for you too...
+
+[06465.570]
+I'm all right. Because I believe in {NAME:01 00 00 00}!
+
+[06465.572]
+{NAME:02 00 00 00}...
+
+[06465.573]
+Woodrow
+
+[06465.574]
+...I see. There was no need for the likes of me to worry.
+
+[06465.576]
+No, I am truly grateful for your kindness. Woodrow... thank you so much.
+
+[06465.578]
+Thank you so much, Woodrow. Well, we'll be going.
+
+[06465.579]
+Please rest easy. First aid has already been given.
+
+[06465.580]
+We sent for a doctor a moment ago, so I think he will be here soon.
+
+[06465.581]
+Elraine went away without doing anything.
+
+[06465.582]
+Guard
+
+[06465.583]
+Have a safe journey.
+
+[06465.584]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06465.585]
+Will you stay the night?
+
+[06465.587]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06465.588]
+Please rest well.
+
+[06465.589]
+Good morning.
+
+[06465.590]
+You do not have enough money.
+
+[06465.591]
+We look forward to seeing you again.
+
+[06465.596]
+Obtained {16:26 7A}.
+
+[06465.598]
+Obtained {08:FF FF FF FF}.
+
+[06465.600]
+Found {16:26 82}, but you can carry no more.
+
+[06465.602]
+There is nothing here.
+

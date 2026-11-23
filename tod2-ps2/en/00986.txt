@@ -1,0 +1,54 @@
+[00986.001]
+Stahn's adventuring, and Ilene being an officer of the Oberon Corporation, are both more than ten years back. But you seemed to know about both, so...
+
+[00986.002]
+...So you find me suspect? You go a long way round. If you trust me so little, say so plainly.
+
+[00986.003]
+Look, I'll get angry in a minute. I was only talking about ages. How does that turn into doubting you!?
+
+[00986.004]
+S-sto~p!
+
+[00986.005]
+{NAME:01 00 00 00}...
+
+[00986.006]
+Calm down, both of you! Fighting's no good! {NAME:03 00 00 00}, you only asked his age because you were curious, right? And {NAME:04 00 00 00}, you don't want to answer, right? Then that's the end of it!
+
+[00986.007]
+...It seems not. One more person wishes to know who I am.
+
+[00986.008]
+Huh?
+
+[00986.009]
+........
+
+[00986.010]
+{NAME:02 00 00 00}...
+
+[00986.011]
+I've wondered all along too. Why...
+
+[00986.012]
+"Why do you know about me?"... is it not? If you want that answer, first say who you are yourself. Then I too will answer.
+
+[00986.013]
+That is, um...
+
+[00986.014]
+If you must know who I am, we part here.
+
+[00986.015]
+........
+
+[00986.016]
+........
+
+[00986.017]
+When the ship lands, I go. Farewell.
+
+[00986.018]
+Wait, {NAME:04 00 00 00}!
+

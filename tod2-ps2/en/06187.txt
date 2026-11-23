@@ -1,0 +1,2360 @@
+[06187.13306]
+Farah's job is?
+
+[06187.13323]
+Farm
+
+[06187.13328]
+Boxer
+
+[06187.13335]
+Weaver
+
+[06187.13344]
+House help
+
+[06187.13355]
+Right!
+
+[06187.13362]
+Too bad!
+
+[06187.13373]
+Time's up!
+
+[06187.13386]
+Ras is really
+Rassius ○○○○○○○?
+
+[06187.13426]
+Fomalhaut
+
+[06187.13443]
+Formal House
+
+[06187.13460]
+Fomalhanet
+
+[06187.13477]
+Formal Coat
+
+[06187.13494]
+Which Craymel doesn't fit?
+
+[06187.13523]
+Gnome
+
+[06187.13530]
+Undine
+
+[06187.13543]
+Rem
+
+[06187.13548]
+Maxwell
+
+[06187.13561]
+Sylph
+
+[06187.13568]
+Right!
+Only Gnome is a
+Celestian Craymel
+
+[06187.13611]
+Which Aurora wave of Reid's
+fully blocks the dark arte
+"Eternal Finality"?
+
+[06187.13696]
+Eternal Infinity
+
+[06187.13723]
+Eternal Celesti
+
+[06187.13746]
+Eternal Inferia
+
+[06187.13771]
+Eternal Celestia
+
+[06187.13796]
+Right.
+{09:35 00 00 00}{09:36 00 00 00}{09:37 00 00 00} pressed together!
+
+[06187.13841]
+The Mintche clerk's name is?
+
+[06187.13870]
+Gina
+
+[06187.13877]
+Nina
+
+[06187.13884]
+Catherine
+
+[06187.13895]
+Geeni
+
+[06187.13902]
+There were several minigames
+to play on a PocketStation.
+How many in all?
+
+[06187.13987]
+Four
+
+[06187.13994]
+Two
+
+[06187.14001]
+Three
+
+[06187.14008]
+Five
+
+[06187.14015]
+Six
+
+[06187.14022]
+Right!
+
+[06187.14031]
+A bit too few, eh?
+
+[06187.14052]
+So close!
+
+[06187.14065]
+So close!
+Get it next time
+
+[06187.14097]
+A bit too many?
+
+[06187.14116]
+OK, time's up
+
+[06187.14131]
+After clearing Keele's EtaPoke
+game "Keele Academy", what
+title does Keele get?
+
+[06187.14224]
+Dr. Mintche
+
+[06187.14239]
+Dr. Pants
+
+[06187.14254]
+Dr. Mint
+
+[06187.14269]
+Dr. Orange
+
+[06187.14284]
+Right.
+After the university
+
+[06187.14314]
+No.
+A bit pervy, isn't it?
+
+[06187.14346]
+Wrong.
+
+[06187.14353]
+No.
+A title to make you miss the fire
+
+[06187.14393]
+Time's up.
+Next one
+
+[06187.14415]
+In a house in Rasheans, the
+Wonder Chef who teaches the
+sandwich was disguised as?
+
+[06187.14500]
+Piggy bank
+
+[06187.14515]
+Stuffed piggy
+
+[06187.14534]
+Piggy coil holder
+
+[06187.14553]
+Pet piggy
+
+[06187.14570]
+Right.
+How he does the disguise is a mystery
+
+[06187.14626]
+Too bad.
+That'd be cute too
+
+[06187.14662]
+Nope!
+
+[06187.14669]
+Too bad.
+A living thing is asking too much?
+
+[06187.14723]
+Time's up.
+Try hard next time
+
+[06187.14753]
+The animal kept in Rasheans,
+like a cow but not a cow?
+
+[06187.14811]
+Aurochs
+
+[06187.14824]
+Holstein
+
+[06187.14837]
+Gnu
+
+[06187.14842]
+Buffalo
+
+[06187.14855]
+Right.
+Looks like a cow, isn't called one
+
+[06187.14903]
+Sorry, no.
+Isn't that a breed of cow?
+
+[06187.14945]
+Wrong.
+
+[06187.14952]
+For the Rasheans chief's
+medicine, which is not needed?
+
+[06187.15014]
+Powder
+
+[06187.15023]
+Wood bug
+
+[06187.15034]
+Mt. horn
+
+[06187.15043]
+Dry hide
+
+[06187.15052]
+Right.
+Powdering him won't cure him
+
+[06187.15092]
+Sorry, no.
+The bug is brewed
+
+[06187.15124]
+No.
+The horn is brewed
+
+[06187.15150]
+No.
+The hide is brewed
+
+[06187.15176]
+Farah always looks ahead.
+Her catchphrase is?
+
+[06187.15228]
+Can do, can do
+
+[06187.15243]
+Do it, do it
+
+[06187.15258]
+Quit, quit
+
+[06187.15273]
+Coming, coming
+
+[06187.15288]
+Right.
+Let's think positive!
+
+[06187.15328]
+Sorry, no
+
+[06187.15341]
+No.
+That's a rather glum Farah
+
+[06187.15379]
+No.
+A bit loopy, eh?
+
+[06187.15403]
+Time's up.
+Next time: can do!
+
+[06187.15437]
+The god of the immaterial world who
+controlled Shizel of the dark Aurora?
+
+[06187.15511]
+Nereid
+
+[06187.15520]
+Baten Kaitos
+
+[06187.15535]
+Seyfert
+
+[06187.15548]
+Regulus
+
+[06187.15557]
+Right!
+It wants Eternia made immaterial again
+
+[06187.15609]
+Sorry.
+That's a world
+
+[06187.15631]
+No.
+That's the light side
+
+[06187.15661]
+Time's up.
+Answer before you fret!
+
+[06187.15697]
+The immaterial world Nereid made,
+it is said, 10,000 years ago?
+
+[06187.15763]
+Belcrant
+
+[06187.15776]
+Van Eltia
+
+[06187.15791]
+Grand Fall
+
+[06187.15808]
+Right.
+A world of mind-scapes, no substance
+
+[06187.15856]
+No.
+That's a weapon of Destiny's world
+
+[06187.15896]
+Too bad.
+One of the seven treasures
+
+[06187.15932]
+Too bad.
+An arte Nereid uses, is it?
+
+[06187.15972]
+Time's up.
+Answer before you fret!
+
+[06187.16008]
+The Rasheans River lies between
+Rasheans and Mintche.
+Who from the Regulus Dojo
+helps you across?
+
+[06187.16119]
+Paolo
+
+[06187.16126]
+Bitz
+
+[06187.16133]
+Roen
+
+[06187.16140]
+Norris
+
+[06187.16147]
+Hamilt
+
+[06187.16156]
+Right.
+He uses water Artes
+
+[06187.16190]
+No.
+Isn't that Reid's father's name?
+
+[06187.16230]
+Too bad.
+He's at Inferia Castle
+
+[06187.16270]
+Too bad.
+That's Farah's father's name
+
+[06187.16310]
+No.
+An apprentice smith in Imen
+
+[06187.16348]
+In the great hall of Regulus
+Dojo the monks challenge
+Reid. How many monks?
+
+[06187.16437]
+8
+
+[06187.16442]
+4
+
+[06187.16447]
+5
+
+[06187.16452]
+6
+
+[06187.16457]
+7
+
+[06187.16462]
+9
+
+[06187.16467]
+10
+
+[06187.16472]
+Right.
+A guess, by any chance?
+
+[06187.16510]
+No.
+Close! A few more
+
+[06187.16542]
+No.
+Close! A few fewer
+
+[06187.16576]
+At Mintche University, which
+floor has the first room
+for the "Tales Quiz"?
+
+[06187.16659]
+3F
+
+[06187.16664]
+1F
+
+[06187.16669]
+2F
+
+[06187.16674]
+4F
+
+[06187.16679]
+Right!
+The 4th floor has it too,
+but at first only here
+
+[06187.16736]
+Too bad.
+That has the Light Craymel lab
+
+[06187.16776]
+Too bad.
+That has the Water Craymel lab
+
+[06187.16816]
+Too bad.
+In the end you can play there too
+
+[06187.16872]
+After clearing Farah's EtaPoke
+game "Look Away, Farah", what
+title does Farah get?
+
+[06187.16965]
+Head-Shake Queen
+
+[06187.16984]
+Arm-Shake Queen
+
+[06187.17003]
+Hip-Shake Queen
+
+[06187.17022]
+Leg-Shake Queen
+
+[06187.17041]
+Right!
+Seen on its own, the
+title makes you wonder
+
+[06187.17092]
+Nope!
+"Hip-Shake"... a hula hoop?
+
+[06187.17136]
+Time's up.
+Just pick one, even a guess
+
+[06187.17186]
+A ferry runs from Mintche to Inferia
+Port. What does a 2nd-class cabin cost?
+
+[06187.17272]
+720 Gald
+
+[06187.17285]
+700 Gald
+
+[06187.17298]
+750 Gald
+
+[06187.17311]
+780 Gald
+
+[06187.17324]
+800 Gald
+
+[06187.17337]
+Right.
+Now, is that dear or cheap...
+
+[06187.17377]
+Too bad. Close!
+
+[06187.17398]
+Too bad. Close, close!
+
+[06187.17421]
+Too bad. Too dear?
+
+[06187.17440]
+How do you stop the endless
+monsters on Mt. Mintche?
+
+[06187.17502]
+Block the cave
+
+[06187.17517]
+Beat the boss
+
+[06187.17532]
+Wait for night
+
+[06187.17549]
+Bring Keele along
+
+[06187.17568]
+Right!
+Tricky to move, maybe
+
+[06187.17598]
+Too bad.
+This dungeon has no boss
+
+[06187.17644]
+Too bad.
+Day or night, the same
+
+[06187.17676]
+Too bad.
+That gets you nowhere!
+
+[06187.17716]
+Time's up.
+Next time for sure
+
+[06187.17748]
+From Mt. Mintche to the observatory,
+frail Keele joins. What would
+he do if a monster came, he said?
+
+[06187.17857]
+Run away
+
+[06187.17870]
+Play dead
+
+[06187.17887]
+Fight hard
+
+[06187.17898]
+Feed it
+
+[06187.17909]
+Right.
+Holy Bottles were his friends
+
+[06187.17955]
+Too bad.
+Playing dead won't fool a bear
+
+[06187.18005]
+Too bad.
+Keele near the last
+chapter might have
+
+[06187.18066]
+Too bad.
+The Momotaro plan?
+
+[06187.18094]
+Time's up.
+Next time for sure
+
+[06187.18128]
+The Rasheans chief has a bad back.
+What medicine does he need?
+
+[06187.18194]
+Hotei Banri
+
+[06187.18209]
+Polar Banri
+
+[06187.18226]
+Court Bambi
+
+[06187.18241]
+Proper Banri
+
+[06187.18256]
+Right!
+Take it over, get the EtaPoke!
+
+[06187.18296]
+No.
+It sounds nice and cooling, though
+
+[06187.18336]
+No!
+"Court Bambi"... a deer on trial?
+
+[06187.18374]
+Time's up.
+Keep at it!
+
+[06187.18404]
+The item "EtaPoke" unlocks games
+for the PocketStation. The one
+starring Farah is called?
+
+[06187.18503]
+Look Away, Farah
+
+[06187.18522]
+Look Here, Farah
+
+[06187.18541]
+Look There, Farah
+
+[06187.18560]
+Any Way, Farah
+
+[06187.18577]
+Right!
+Named for the game "look away, hoy"?
+
+[06187.18631]
+Sorry, no.
+Can't picture the game from that
+
+[06187.18681]
+Time's up.
+Try hard next time!
+
+[06187.18715]
+The item "EtaPoke" unlocks games
+for the PocketStation. The one
+starring Keele is called?
+
+[06187.18814]
+Keele Academy
+
+[06187.18833]
+Zeibel Academy
+
+[06187.18856]
+Mintche Academy
+
+[06187.18875]
+Eternia Academy
+
+[06187.18898]
+Right.
+A game hard enough to annoy you
+
+[06187.18944]
+The item "EtaPoke" unlocks games
+for the PocketStation. The one
+starring Meredy is called?
+
+[06187.19045]
+Dancing Meredy
+
+[06187.19066]
+Romantic Meredy
+
+[06187.19091]
+Exciting Meredy
+
+[06187.19118]
+Dynamite Meredy
+
+[06187.19141]
+Right.
+Meredy shows off her dancing in it
+
+[06187.19189]
+No.
+That'd feel right too, though
+
+[06187.19227]
+No.
+A lively Meredy, eh?
+
+[06187.19255]
+Sorry.
+It does sound like
+some amazing game, though...
+
+[06187.19322]
+Time's up.
+Just press a button:
+that's my advice
+
+[06187.19383]
+The item "EtaPoke" unlocks games
+for the PocketStation. The one
+starring Reid is called?
+
+[06187.19482]
+Fight! Reid
+
+[06187.19499]
+Help! Reid
+
+[06187.19516]
+Don't Lose! Reid
+
+[06187.19533]
+Go Go! Reid
+
+[06187.19550]
+Right.
+I like the reflex kind
+
+[06187.19584]
+No.
+An errand game, eh?
+
+[06187.19610]
+No.
+Sorry
+
+[06187.19622]
+Sorry.
+Farah cheering him?
+
+[06187.19650]
+After clearing Reid's EtaPoke
+game "Fight! Reid", what
+title does Reid get?
+
+[06187.19741]
+Albane Swordsman
+
+[06187.19760]
+Kaiser
+
+[06187.19769]
+Berserk
+
+[06187.19780]
+Legend Knight
+
+[06187.19795]
+Sonic Warrior
+
+[06187.19812]
+Nope!
+That title comes from the sea battle
+
+[06187.19860]
+Nope!
+That title goes by battle rank
+
+[06187.19902]
+Sorry, no.
+That title comes at level 99
+
+[06187.19950]
+No.
+That title goes by battle time
+
+[06187.19994]
+Time's up!
+
+[06187.20007]
+After clearing Meredy's EtaPoke
+game "Dancing Meredy", what
+title does Meredy get?
+
+[06187.20106]
+Flying Dancer
+
+[06187.20125]
+Crying Dancer
+
+[06187.20144]
+Elegance Dancer
+
+[06187.20163]
+Mysterious Dancer
+
+[06187.20184]
+Right!
+A title with a light step
+
+[06187.20220]
+Nope!
+Meredy dancing in tears, is it?
+
+[06187.20260]
+Nope!
+That one seems fine too, though
+
+[06187.20298]
+Sorry, no.
+She might dance mysteriously
+
+[06187.20344]
+Time's up.
+Next!
+
+[06187.20362]
+The trader outside Nostos Cave is?
+
+[06187.20399]
+Eggman
+
+[06187.20406]
+Eggpro
+
+[06187.20413]
+Ebbman
+
+[06187.20420]
+Ebbpro
+
+[06187.20427]
+Right.
+He had Egg Bear eggs
+
+[06187.20463]
+Too bad.
+A chick sorter, is that?
+
+[06187.20501]
+Too bad.
+High and low tide do
+matter in that dungeon
+
+[06187.20558]
+Too bad.
+What work would that one do?
+
+[06187.20606]
+Time's up.
+Next time for sure
+
+[06187.20638]
+Eternia is made of two worlds,
+Inferia and Celestia. What is
+the language of Celestia called?
+
+[06187.20741]
+Melnics
+
+[06187.20754]
+Miacis
+
+[06187.20765]
+Melnks
+
+[06187.20778]
+Belnics
+
+[06187.20791]
+Right!
+You often hear "baiba" and "waiil"
+
+[06187.20841]
+Too bad.
+That one you wear on your chest
+
+[06187.20883]
+Too bad.
+Foreign names are hard, eh
+
+[06187.20921]
+Too bad.
+Close!
+
+[06187.20941]
+Time's up.
+Don't get flustered
+
+[06187.20973]
+Meredy's words meant nothing
+and no one could talk with her.
+Which item made talk possible?
+
+[06187.21066]
+Orz Earring
+
+[06187.21083]
+Doenis Potpourri
+
+[06187.21100]
+Rosania's Dress
+
+[06187.21117]
+Silver Cage
+
+[06187.21132]
+Right!
+Hearts have to connect, you know?
+
+[06187.21174]
+Too bad.
+Pretty flowers, though
+
+[06187.21208]
+Too bad.
+...Everyone wears it?
+
+[06187.21246]
+Too bad.
+That's an Aifread item
+
+[06187.21292]
+Catherine at Morle's food shop is
+taken for which grandchild?
+
+[06187.21362]
+Simone
+
+[06187.21371]
+Pierre
+
+[06187.21380]
+Mazet
+
+[06187.21389]
+Right!
+She couldn't say she wasn't
+
+[06187.21429]
+Too bad.
+That's Catherine's sweetheart
+
+[06187.21473]
+Too bad.
+That's a Water Craymel
+
+[06187.21507]
+Too bad.
+That's a doctor
+
+[06187.21539]
+In the "Luring Jungle", which of
+these trick statues does not exist?
+
+[06187.21611]
+Desire
+
+[06187.21622]
+Ruin
+
+[06187.21633]
+Creation
+
+[06187.21644]
+Chaos
+
+[06187.21655]
+Order
+
+[06187.21666]
+Time's up.
+Do try to answer!
+
+[06187.21704]
+The play at the Royal
+Theater in Inferia City?
+
+[06187.21758]
+Ultus Buoy
+
+[06187.21773]
+Ulgus Buoy
+
+[06187.21788]
+Ultus Bee
+
+[06187.21803]
+Ultal Bee
+
+[06187.21818]
+Right!
+"I leave it to you"
+
+[06187.21848]
+Too bad.
+The end's a bit off?
+
+[06187.21880]
+Too bad.
+Off all over, I'd say...
+
+[06187.21914]
+The side events seen at
+"Hotel Inferia" in Inferia
+City: how many in all?
+
+[06187.21995]
+Seven
+
+[06187.22002]
+Eight
+
+[06187.22009]
+Right!
+Have you seen them all?
+
+[06187.22041]
+Too bad.
+Close
+
+[06187.22059]
+Too bad.
+Very close
+
+[06187.22079]
+Of the side events at "Hotel
+Inferia" in Inferia City,
+which does not really exist?
+
+[06187.22174]
+Night Sweets
+
+[06187.22187]
+Clumsy Maid
+
+[06187.22200]
+Sexy Maid
+
+[06187.22215]
+Scary
+
+[06187.22224]
+Cats
+
+[06187.22231]
+Ghost Maid
+
+[06187.22244]
+Right!
+...Eel pie
+
+[06187.22266]
+Too bad.
+A slapstick maid appears
+
+[06187.22304]
+Too bad.
+She tempts Keele nicely
+
+[06187.22342]
+Too bad.
+A strange hotel voice...
+
+[06187.22376]
+Too bad.
+The voice's cause is revealed!
+
+[06187.22416]
+Too bad.
+Next day, a shocking truth for Reid...!
+
+[06187.22468]
+Time's up.
+Just pick one, even a guess!
+
+[06187.22514]
+The archbishop at the Seyfert
+Church in Inferia City is named?
+
+[06187.22578]
+Calvani
+
+[06187.22591]
+Zosimos
+
+[06187.22600]
+Arende
+
+[06187.22609]
+Galenos
+
+[06187.22618]
+Right!
+A rather annoying old man
+
+[06187.22656]
+Too bad.
+He heads the observatory
+
+[06187.22692]
+Too bad.
+That's the princess's name
+
+[06187.22728]
+Too bad.
+Isn't he from Celestia?
+
+[06187.22770]
+Time's up.
+Just pick one, even a guess!
+
+[06187.22816]
+Held at Inferia Castle, what
+punishment did Reid's party get?
+
+[06187.22878]
+Flooding
+
+[06187.22889]
+Boiling
+
+[06187.22900]
+Needles
+
+[06187.22909]
+Tickling
+
+[06187.22922]
+Right!
+The princess saved them
+
+[06187.22960]
+Too bad.
+That would kill them
+
+[06187.22994]
+Too bad.
+That sounds painful
+
+[06187.23024]
+Too bad.
+That would be hard, true...
+
+[06187.23064]
+Time's up.
+Keep at it
+
+[06187.23092]
+What element was Chat's
+arte "Poihan"?
+
+[06187.23144]
+Aqua
+
+[06187.23149]
+Land
+
+[06187.23154]
+Ice
+
+[06187.23159]
+Volt
+
+[06187.23164]
+"Land" is Pikohan
+
+[06187.23185]
+"Ice" is Kochihan
+
+[06187.23206]
+"Volt" is Paralyball
+
+[06187.23233]
+Sorry, time's up
+
+[06187.23252]
+Of the artes Reid can use,
+how many in all are of the
+attack type "slash"?
+
+[06187.23329]
+8
+
+[06187.23332]
+6
+
+[06187.23335]
+10
+
+[06187.23338]
+12
+
+[06187.23343]
+Sorry, wrong
+
+[06187.23360]
+Sorry, time's up
+
+[06187.23379]
+The TP cost of Farah's
+"Wild Fist Dance"?
+
+[06187.23429]
+60
+
+[06187.23434]
+40
+
+[06187.23439]
+80
+
+[06187.23444]
+100
+
+[06187.23451]
+Which mineral from Regulus
+Knoll completes the
+Fringe Cannon?
+
+[06187.23522]
+Livavius Ore
+
+[06187.23537]
+Mithril
+
+[06187.23548]
+Regulite
+
+[06187.23559]
+Craymel Ore
+
+[06187.23572]
+Quickie, a rare animal of
+Celestia. But "Quickie" is
+Meredy's name for it. Know
+its real scientific name?
+
+[06187.23688]
+Pot Rabbitchinus
+
+[06187.23707]
+Pot Bunnychinus
+
+[06187.23726]
+Pot Kittychinus
+
+[06187.23745]
+Pot Mousychinus
+
+[06187.23764]
+Exactly!
+
+[06187.23775]
+Sorry, wrong
+
+[06187.23792]
+Which sword was stuck
+deep in the Celsea
+Hideout?
+
+[06187.23851]
+The Swordian Dymlos
+
+[06187.23876]
+The Swordian Atwight
+
+[06187.23901]
+The Swordian Clemente
+
+[06187.23926]
+The Swordian Chaltier
+
+[06187.23953]
+The Swordian Igtenos
+
+[06187.23980]
+The Swordian Berselius
+
+[06187.24007]
+The light Celestians
+bear on their heads
+from birth is the?
+
+[06187.24072]
+Elara
+
+[06187.24081]
+Alara
+
+[06187.24090]
+Ilara
+
+[06187.24099]
+Ulara
+
+[06187.24108]
+Olara
+
+[06187.24117]
+A little off, eh?
+
+[06187.24136]
+The woman seen in Chambard and
+Tinnsia who swaps lenses
+for items is named?
+
+[06187.24219]
+Ilene
+
+[06187.24228]
+Marian
+
+[06187.24237]
+Rutee
+
+[06187.24246]
+Eleanor
+
+[06187.24255]
+Wrong one
+
+[06187.24266]
+The sword won by beating
+Cress at the arena?
+
+[06187.24312]
+Eternal Sword
+
+[06187.24329]
+Eternia Sword
+
+[06187.24346]
+Emotion Sword
+
+[06187.24365]
+Elemental Sword
+
+[06187.24384]
+Wrong one
+
+[06187.24395]
+Which of these is
+not one of the pirate's
+seven tools?
+
+[06187.24450]
+Aye Compass
+
+[06187.24463]
+GPS
+
+[06187.24476]
+Wonder Bag
+
+[06187.24491]
+Aifread's Hat
+
+[06187.24510]
+Scope
+
+[06187.24517]
+Aye Whistle
+
+[06187.24532]
+Aifread's Flag
+
+[06187.24549]
+Pikohan Revenge
+
+[06187.24566]
+Exactly! Well spotted
+
+[06187.24591]
+That's one of the seven
+
+[06187.24616]
+The favorite mascot doll
+Meredy ties to her
+parasol is named?
+
+[06187.24687]
+Corin
+
+[06187.24694]
+Harris
+
+[06187.24701]
+Allen
+
+[06187.24708]
+Decorin
+
+[06187.24717]
+Sorry, no
+
+[06187.24730]
+The Craymel spa's slogan:
+good for back pain, colds,
+and what else?
+
+[06187.24803]
+Bedwet
+
+[06187.24810]
+Chills
+
+[06187.24817]
+Aches
+
+[06187.24824]
+Nerves
+
+[06187.24831]
+At what age do Celestians
+come of age?
+
+[06187.24879]
+10
+
+[06187.24886]
+14
+
+[06187.24893]
+16
+
+[06187.24900]
+18
+
+[06187.24907]
+20
+
+[06187.24914]
+Which flower does Ras wear
+stuck in his hat?
+
+[06187.24970]
+Doenis
+
+[06187.24983]
+Lavender
+
+[06187.24998]
+Apple
+
+[06187.25009]
+Elmera
+
+[06187.25022]
+Sorry, not that one
+
+[06187.25045]
+The Regulus Dojo pupil who
+was fond of Farah is named?
+
+[06187.25101]
+Franco
+
+[06187.25110]
+Camran
+
+[06187.25119]
+Sirius
+
+[06187.25128]
+That's the dojo's master
+
+[06187.25155]
+That's the chief of Rasheans
+
+[06187.25192]
+Nereid's Labyrinth appears
+after you clear the game:
+a sphere of what color?
+
+[06187.25271]
+Plum
+
+[06187.25276]
+Blue
+
+[06187.25281]
+Yel.
+
+[06187.25286]
+Grn.
+
+[06187.25291]
+Right.
+A sinister color, like a labyrinth
+
+[06187.25335]
+Too bad. A bit too fresh, isn't it?
+
+[06187.25374]
+Too bad. That's too bright
+
+[06187.25403]
+Too bad. Nature's color?
+
+[06187.25430]
+Time's up. Keep trying
+
+[06187.25457]
+Hyades keeps turning up
+to stop Reid's party.
+How many fights in all?
+
+[06187.25530]
+4
+
+[06187.25535]
+2
+
+[06187.25540]
+3
+
+[06187.25545]
+5
+
+[06187.25550]
+6
+
+[06187.25555]
+Right. Counting the hidden dungeon, yes
+
+[06187.25602]
+Too bad.
+Haven't you missed one?
+
+[06187.25652]
+Too bad. Close, though
+
+[06187.25675]
+Time's up. Keep at it, you'll get it!
+
+[06187.25716]
+How many trials did Reid
+face for the Aurora Artes?
+
+[06187.25768]
+Right.
+Being Keele, being
+Shizel: he was kept busy
+
+[06187.25823]
+Time's up. Keep trying!
+
+[06187.25850]
+In Seyfert's trial, Reid, as
+the child Keele, went to
+fetch what for Farah?
+
+[06187.25935]
+Star shard
+
+[06187.25946]
+Chief's stash
+
+[06187.25961]
+Aurochs milk
+
+[06187.25978]
+Right.
+This leads to big trouble
+
+[06187.26014]
+Sorry.
+...You mustn't steal, you know
+
+[06187.26052]
+Too bad.
+Wouldn't Reid be the one pleased?
+
+[06187.26098]
+Too bad.
+She might be pleased, true
+
+[06187.26138]
+Time's up.
+Just answer something, anything
+
+[06187.26192]
+Where is Maxwell, Craymel of elements?
+
+[06187.26237]
+Below Farlos
+
+[06187.26256]
+Seyfert Shrine
+
+[06187.26275]
+Top of the castle
+
+[06187.26296]
+Celsea Hideout
+
+[06187.26313]
+Right.
+You reach it with the Seyfert Key
+
+[06187.26359]
+Time's up.
+Just pick something, anything
+
+[06187.26403]
+In the sunken ship dungeon,
+which is not in a chest
+in the boss room?
+
+[06187.26474]
+16,847 Gald
+
+[06187.26491]
+14,305 Gald
+
+[06187.26508]
+15,365 Gald
+
+[06187.26525]
+10,655 Gald
+
+[06187.26542]
+12,245 Gald
+
+[06187.26559]
+Correct
+
+[06187.26568]
+Which map is not in the
+hidden Aifread's Tomb?
+
+[06187.26622]
+Prison map
+
+[06187.26635]
+Haunted house map
+
+[06187.26654]
+Hell map
+
+[06187.26667]
+Manor map
+
+[06187.26680]
+Sorry.
+Aifread's Beard is there
+
+[06187.26716]
+Sorry.
+Aifread's Hat is in there
+
+[06187.26756]
+Sorry.
+Aifread's Garb is there
+
+[06187.26792]
+Time's up.
+No answer, no right one!
+
+[06187.26830]
+In the hidden Aifread's Tomb,
+which item is not fitted to
+the statue of Aifread?
+
+[06187.26919]
+Aifread's Key
+
+[06187.26936]
+Aifread's Beard
+
+[06187.26955]
+Aifread's Hat
+
+[06187.26974]
+Aifread's Garb
+
+[06187.26991]
+To raise the Bridge of
+Expedition, what goes in the
+socket inside Aifread's Stand?
+
+[06187.27080]
+Aifread Cage
+
+[06187.27099]
+Craymel Cage
+
+[06187.27116]
+Olbers Cage
+
+[06187.27133]
+Right.
+You need five
+
+[06187.27155]
+Which of Celestia's 7
+treasures is won at
+Jini's auction?
+
+[06187.27216]
+Resume Ring
+
+[06187.27233]
+Bush Baby Statue
+
+[06187.27254]
+Eden
+
+[06187.27259]
+Corlane Jar
+
+[06187.27274]
+Right!
+
+[06187.27283]
+What style of dungeon
+is Aifread's Cave?
+
+[06187.27333]
+Board game
+
+[06187.27344]
+Rotary
+
+[06187.27351]
+Marathon
+
+[06187.27362]
+Garden
+
+[06187.27369]
+Right.
+You spin a wheel to move
+
+[06187.27403]
+Too bad.
+...I can't picture such a dungeon
+
+[06187.27453]
+Too bad.
+Mashing {09:35 00 00 00} to move on?
+
+[06187.27492]
+Too bad.
+A restful dungeon, is it?
+
+[06187.27528]
+Sorry.
+Time's up
+
+[06187.27546]
+The "Shining Tower" is climbed
+by clearing a puzzle a floor.
+How many floors in all?
+
+[06187.27639]
+8
+
+[06187.27644]
+5
+
+[06187.27649]
+6
+
+[06187.27654]
+7
+
+[06187.27659]
+9
+
+[06187.27664]
+10
+
+[06187.27671]
+Right. Its boss: the Sky Guardian
+
+[06187.27706]
+Too bad.
+Isn't that too few?
+
+[06187.27750]
+Too bad. Close!
+
+[06187.27769]
+Too bad. So close
+
+[06187.27788]
+Time's up. Try harder next
+
+[06187.27819]
+After fighting Shizel at Balir
+Castle, what did Ras give Reid?
+
+[06187.27885]
+Seyfert Key
+
+[06187.27902]
+Inferia Key
+
+[06187.27919]
+Celestia Key
+
+[06187.27936]
+Eternal Key
+
+[06187.27951]
+Right. A vital item that guides Reid
+
+[06187.27998]
+Too bad. Sounds real, but isn't
+
+[06187.28033]
+The inn outside Balir
+Castle costs?
+
+[06187.28077]
+7,700 Gald
+
+[06187.28092]
+5,500 Gald
+
+[06187.28107]
+6,600 Gald
+
+[06187.28122]
+8,800 Gald
+
+[06187.28137]
+Correct. Pricey, eh!
+
+[06187.28158]
+Too bad. That's dear, but it's dearer still!
+
+[06187.28209]
+Too bad. That's far too dear!
+
+[06187.28240]
+After the Volt ruins, what did
+Rem and Shadow, light and
+dark, give Reid?
+
+[06187.28321]
+Excalibur
+
+[06187.28336]
+Last Fencer
+
+[06187.28353]
+Gaia Cleaver
+
+[06187.28370]
+Right. A proper hero's-sword name!
+
+[06187.28415]
+Too bad. The name means "last swordsman"
+
+[06187.28462]
+Too bad. That's from the Inferia tournament
+
+[06187.28513]
+Too bad. That's from Nereid's Labyrinth
+
+[06187.28564]
+When Inferia and Celestia
+came to make an alliance,
+who stood for Inferia?
+
+[06187.28653]
+Reid
+
+[06187.28660]
+Fog
+
+[06187.28669]
+Correct. Inferia's guard captain
+
+[06187.28704]
+Too bad. The hero has another part
+
+[06187.28749]
+Too bad. He stood for Celestia
+
+[06187.28792]
+Too bad. He carried Ras's message to Roen
+
+[06187.28853]
+The free army said to be
+in craftsman Tinnsia?
+
+[06187.28905]
+Shileska
+
+[06187.28916]
+Miacis
+
+[06187.28925]
+Peruti
+
+[06187.28936]
+Too bad. That's Fog's pet animal
+
+[06187.28983]
+Too bad. That's a Celestian town
+
+[06187.29028]
+Too bad. A kind of Quickie, no?
+
+[06187.29063]
+The name of Fog's
+pet animal?
+
+[06187.29099]
+Dede
+
+[06187.29110]
+Toto
+
+[06187.29121]
+Tama
+
+[06187.29132]
+Jiji
+
+[06187.29143]
+Correct.
+His wife's treasured pet, they say?
+
+[06187.29189]
+Too bad.
+...A seal, is it?
+
+[06187.29219]
+Too bad.
+Sounds like a witch's pet
+
+[06187.29257]
+Fog's wife, who ran off and
+is missing, is named?
+
+[06187.29315]
+Lysithea
+
+[06187.29324]
+Mary
+
+[06187.29331]
+Aira
+
+[06187.29338]
+Lilith
+
+[06187.29345]
+Too bad.
+Doesn't some king confess love to her?
+
+[06187.29399]
+Too bad.
+She's the adjutant
+
+[06187.29427]
+Too bad.
+That's Kyle's aunt
+
+[06187.29459]
+Which Destiny character is in
+the "speed-eating contest" at
+Tinnsia's conveyor sushi bar?
+
+[06187.29550]
+Kongman
+
+[06187.29561]
+Woodrow
+
+[06187.29572]
+Leon
+
+[06187.29579]
+Stahn
+
+[06187.29586]
+Correct.
+Looks strong, eh
+
+[06187.29616]
+Too bad.
+...Might be good, though
+
+[06187.29652]
+Too bad.
+Hahaha!
+I'd love to see him try!
+
+[06187.29701]
+Too bad.
+He'd probably be good, though?
+
+[06187.29745]
+Beaten in battle, Hyades
+drops a "Mental Bangle"
+and what?
+
+[06187.29812]
+Egg
+
+[06187.29819]
+Toy duck
+
+[06187.29836]
+Shroom
+
+[06187.29843]
+Rice
+
+[06187.29850]
+Right.
+Why he had it is a mystery
+
+[06187.29886]
+Sorry.
+Maybe he likes cute things?
+
+[06187.29928]
+How tall is Chat's Hut?
+
+[06187.29955]
+8 floors
+
+[06187.29964]
+5 floors
+
+[06187.29973]
+6 floors
+
+[06187.29982]
+7 floors
+
+[06187.29991]
+9 floors
+
+[06187.30000]
+10 floors
+
+[06187.30011]
+Right.
+Clever puzzles on each!
+
+[06187.30047]
+Too bad.
+Close!
+
+[06187.30065]
+The "Shining Tower" is climbed
+by clearing a puzzle a floor.
+So who is its boss?
+
+[06187.30168]
+Valkyrie
+
+[06187.30181]
+Katz
+
+[06187.30190]
+Druaga
+
+[06187.30201]
+Correct.
+A Namco favorite!
+
+[06187.30233]
+Too bad.
+No hurting animals
+
+[06187.30265]
+Too bad.
+A Light Craymel, yes, but no
+
+[06187.30307]
+Too bad.
+A tower link, true, but no
+
+[06187.30349]
+Time's up.
+Next time, try
+
+[06187.30377]
+Each floor under Chat's
+Hut needs two key items:
+the "Toy Duck"
+and what?
+
+[06187.30467]
+Duck Spring
+
+[06187.30484]
+Duck Screw
+
+[06187.30497]
+Duck Coin
+
+[06187.30512]
+Duck Down
+
+[06187.30525]
+Right.
+It goes in the water channel
+
+[06187.30561]
+Too bad.
+...Down? What for?
+
+[06187.30593]
+The riddle room in Chat's Hut:
+which answer was not among them?
+
+[06187.30657]
+Chest
+
+[06187.30664]
+Map
+
+[06187.30669]
+Bib
+
+[06187.30680]
+Knife
+
+[06187.30691]
+Rag
+
+[06187.30700]
+Dustpan
+
+[06187.30709]
+Correct.
+No, it wasn't
+
+[06187.30735]
+Too bad.
+I think it was?
+
+[06187.30765]
+Too bad.
+Wasn't it there?
+
+[06187.30795]
+Too bad.
+That one was
+
+[06187.30821]
+Too bad.
+It was, they say...
+
+[06187.30853]
+Too bad.
+It was, I hear
+
+[06187.30881]
+The Craymel Railway fuel
+sold at Imen's shop?
+
+[06187.30931]
+Train Cage
+
+[06187.30946]
+Elara Cage
+
+[06187.30961]
+Sagura Cage
+
+[06187.30974]
+Right.
+You got it for 2,000 Gald
+
+[06187.31016]
+Too bad.
+That's an Aifread item
+
+[06187.31064]
+Too bad.
+Sagura is the shopkeeper's name
+
+[06187.31112]
+What do you get to
+eat in Katz Village?
+
+[06187.31156]
+Noko Shroom
+
+[06187.31169]
+Noko Doll
+
+[06187.31184]
+Cat Paw Pads
+
+[06187.31199]
+Noko Itself
+
+[06187.31212]
+Correct.
+A "shroom" that grows on a "Noko"
+
+[06187.31260]
+Too bad.
+You can't eat a doll
+
+[06187.31292]
+Too bad.
+Eat that?
+...Stewed, might it be good?
+
+[06187.31349]
+Too bad.
+Reid might... who knows
+
+[06187.31387]
+Time's up.
+Next time, try
+
+[06187.31417]
+At the Craymel spa, with Reid's
+Luck at 90% or more,
+which event do you see?
+
+[06187.31494]
+Meredy in men's bath
+
+[06187.31515]
+Peeping on women
+
+[06187.31532]
+Mixed bath that day
+
+[06187.31553]
+Ringed by hunks
+
+[06187.31572]
+Right.
+Keele couldn't get out
+and got dizzy
+
+[06187.31625]
+Too bad.
+...Though a certain someone who
+flipped skirts might
+
+[06187.31702]
+Too bad.
+Is that... your own wish?
+
+[06187.31742]
+Too bad.
+That's hardly luck, is it?
+
+[06187.31788]
+Time's up.
+Try hard next time
+
+[06187.31820]
+What does it cost to make a
+Van Eltia spare room
+a sick bay?
+
+[06187.31887]
+1,000,000 Gald
+
+[06187.31908]
+170,000 Gald
+
+[06187.31927]
+300,000 Gald
+
+[06187.31946]
+800,000 Gald
+
+[06187.31965]
+Right.
+Pricey all the same!
+
+[06187.31997]
+Too bad.
+That's for making
+it spare again
+
+[06187.32042]
+Too bad.
+That's for making it a bedroom
+
+[06187.32084]
+Too bad.
+That's for making
+it a game room
+
+[06187.32131]
+Time's up.
+Don't give up: next!
+
+[06187.32173]
+The Craymel of time, bound
+by pact at Shizel Castle?
+
+[06187.32227]
+Sekundes
+
+[06187.32240]
+Shadow
+
+[06187.32249]
+Right.
+The highest Craymel
+
+[06187.32279]
+Too bad.
+That one's Light
+
+[06187.32311]
+Too bad.
+That one's Dark
+
+[06187.32343]
+Too bad.
+That one rules the elements
+
+[06187.32383]
+Time's up.
+Don't you give up!
+

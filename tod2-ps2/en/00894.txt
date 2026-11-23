@@ -1,0 +1,15 @@
+[00894.001]
+Hey, {NAME:03 00 00 00}. Was "Cresta"... always this small?
+
+[00894.002]
+Yeah. It hasn't changed a bit since we set out.
+
+[00894.003]
+{NAME:01 00 00 00}. It's you who got bigger. I'm sure...
+
+[00894.004]
+You think? I don't feel like I've grown much taller.
+
+[00894.005]
+No. You have grown, {NAME:01 00 00 00}. Far more than at first...
+

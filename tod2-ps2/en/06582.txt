@@ -1,0 +1,305 @@
+[06582.001]
+The Radisrol: Dymlos's Room and Office
+
+[06582.002]
+The Radisrol
+
+[06582.003]
+Dymlos's Room and Office
+
+[06582.005]
+Found some cleverly hidden liquor. Obtained three each of {08:0C 00 00 00} and {08:0B 00 00 00}.
+
+[06582.006]
+Dymlos
+
+[06582.007]
+...And I was saving it as a treat...
+
+[06582.009]
+There are all sorts of other belongings inside, but let us spare him and take no more.
+
+[06582.011]
+Maps and papers recording military positions are gathered here.
+
+[06582.013]
+Found books in the heap of papers. "A Lovely Married Life", "Talking Round Stubborn Old Men", "100 Ways to Scold Your Men".
+
+[06582.015]
+Dymlos's desk. Nothing needless is kept on it.
+
+[06582.017]
+Dymlos's desk. Half-written papers lie on it, army scrip and drafts of operations among them.
+
+[06582.019]
+Dymlos's very plain bed. He must use the same kind as the privates.
+
+[06582.021]
+Dymlos, we need to talk.
+
+[06582.022]
+Dymlos
+
+[06582.023]
+...I am tired. Later.
+
+[06582.025]
+Dymlos! Let's go and look for Atwight!
+
+[06582.026]
+Dymlos
+
+[06582.027]
+Do not make me say the same thing again and again. As to the search for Atwight, the senior staff's decision...
+
+[06582.029]
+That doesn't matter! Atwight is the one you love, isn't she!?
+
+[06582.030]
+Dymlos
+
+[06582.031]
+...That {NAME:06 00 00 00}. Meddling again...
+
+[06582.032]
+Dymlos
+
+[06582.033]
+...It is true. Atwight is the one I love. But that and this matter are...
+
+[06582.035]
+Not unconnected, are they? To me, at least, it looks like it's weighing on you.
+
+[06582.037]
+If you can't act because it's Atwight who was taken, isn't that the very thing they call mixing duty and private feelings?
+
+[06582.038]
+Dymlos
+
+[06582.039]
+........
+................
+
+[06582.040]
+Soldier
+
+[06582.041]
+General Dymlos, sir!
+
+[06582.042]
+Dymlos
+
+[06582.043]
+What is it, all this noise?
+
+[06582.044]
+Soldier
+
+[06582.045]
+Th-this, sir!
+
+[06582.046]
+Soldier
+
+[06582.047]
+I know it by sight myself. This is Colonel Atwight's bracelet, isn't it!?
+
+[06582.048]
+Dymlos
+
+[06582.049]
+...How did this come here!?
+
+[06582.050]
+Soldier
+
+[06582.051]
+A soldier on patrol found it. It was lying before the main gate of the camp. And a letter...
+
+[06582.052]
+Soldier
+
+[06582.053]
+It says only: "I await you in the Spiral Cave"...
+
+[06582.054]
+Dymlos
+
+[06582.055]
+...I see. You may go.
+
+[06582.056]
+Soldier
+
+[06582.057]
+Sir, um...
+
+[06582.058]
+Dymlos
+
+[06582.059]
+You may go.
+
+[06582.061]
+Dymlos, this has to be a challenge from Barbatos!
+
+[06582.062]
+Dymlos
+
+[06582.063]
+...And a trap of his making, too. I cannot walk tamely into a thing like this.
+
+[06582.065]
+Trap or not, if you don't go, Atwight can't be saved!
+
+[06582.066]
+Dymlos
+
+[06582.067]
+Wait, where are you going!?
+
+[06582.069]
+We're going to save Atwight!
+
+[06582.070]
+Dymlos
+
+[06582.071]
+You will not act on your own! Whatever the form of it, if you too are soldiers of this army...
+
+[06582.073]
+Then we quit!
+
+[06582.074]
+Dymlos
+
+[06582.075]
+Wha...!
+
+[06582.077]
+What happens from here on has nothing to do with you, Dymlos. It's something we do on our own.
+
+[06582.079]
+H-hey, {NAME:01 00 00 00}!
+
+[06582.080]
+Dymlos
+
+[06582.081]
+...Tell me just one thing.
+
+[06582.082]
+Dymlos
+
+[06582.083]
+To you, I and Atwight alike must be perfect strangers... Then why go so far?
+
+[06582.085]
+I think {NAME:01 00 00 00} can't stand by and watch you about to lose someone dear to you.
+
+[06582.086]
+Dymlos
+
+[06582.087]
+Someone dear...
+
+[06582.089]
+That is {NAME:01 00 00 00}. Someone so honest it is almost too much...
+
+[06582.091]
+...Being with him, there are times that honesty is hard to bear...
+
+[06582.093]
+But that is exactly why I can believe. That with him it will be all right.
+
+[06582.094]
+Dymlos
+
+[06582.095]
+My judgment then was by no means mistaken. It was not... mistaken.
+
+[06582.096]
+Dymlos
+
+[06582.097]
+On this operation hangs the fate of our Surface Army... and so of the world.
+
+[06582.098]
+Dymlos
+
+[06582.099]
+If we cannot rescue the Belcrant development team, then...
+
+[06582.101]
+Dymlos...
+
+[06582.102]
+Dymlos
+
+[06582.103]
+On this operation hangs the fate of our Surface Army... and so of the world. Failure will not be allowed... ever.
+
+[06582.104]
+Dymlos
+
+[06582.105]
+As you say, I am a coward. But I have my duty as a lieutenant general. And I have men I must protect.
+
+[06582.107]
+Isn't Atwight one of them?
+
+[06582.108]
+Dymlos
+
+[06582.109]
+I cannot put many of my men in danger for Atwight alone... That is what an army is.
+
+[06582.110]
+Dymlos
+
+[06582.111]
+...The Spiral Cave...
+
+[06582.112]
+Dymlos
+
+[06582.113]
+The talk for this flag is not set.
+
+[06582.114]
+Have a safe journey.
+
+[06582.115]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06582.116]
+Will you stay the night?
+
+[06582.118]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06582.119]
+Please rest well.
+
+[06582.120]
+Good morning.
+
+[06582.121]
+You do not have enough money.
+
+[06582.122]
+We look forward to seeing you again.
+
+[06582.127]
+Obtained {16:25 BA}.
+
+[06582.129]
+Obtained {08:FF FF FF FF}.
+
+[06582.131]
+Found {16:25 C2}, but you can carry no more.
+
+[06582.133]
+There is nothing here.
+

@@ -1,0 +1,57 @@
+[06782.001]
+Wreck of the Aerial City
+
+[06782.002]
+Wreck of the Aerial City
+
+[06782.003]
+Wreck of the Aerial City
+
+[06782.004]
+Wreck of the Aerial City
+
+[06782.005]
+Wreck of the Aerial City
+
+[06782.007]
+Rest here a while?
+{03:00 00 00 00}　Yes　
+　No　
+
+[06782.008]
+Have a safe journey.
+
+[06782.009]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06782.010]
+Will you stay the night?
+
+[06782.012]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06782.013]
+Please rest well.
+
+[06782.014]
+Good morning.
+
+[06782.015]
+You do not have enough money.
+
+[06782.016]
+We look forward to seeing you again.
+
+[06782.021]
+Obtained {16:25 BA}.
+
+[06782.023]
+Obtained {08:FF FF FF FF}.
+
+[06782.025]
+Found {16:25 C2}, but you can carry no more.
+
+[06782.027]
+There is nothing here.
+

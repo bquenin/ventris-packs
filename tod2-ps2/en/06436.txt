@@ -1,0 +1,1015 @@
+[06436.001]
+Heidelberg Memorial Park
+
+[06436.002]
+Heidelberg Memorial Park
+
+[06436.003]
+Heidelberg Memorial Park
+
+[06436.005]
+"This is Heidelberg Memorial Park. King Woodrow himself designed it to commemorate the rebuilding of Heidelberg."
+
+[06436.007]
+An inscription is carved on the pedestal. "To keep the memory of our errors, I leave this place to later ages. Woodrow Kelvin"
+
+[06436.009]
+"For the building of the memorial park, we offer our deep gratitude above all to Mr. Walt, headman of the former Harmentz Village, who gave such generous funds."
+
+[06436.011]
+"To keep up the park, please join the Heidelberg Fund." The fund's keeper is given as the "Dark Wings".
+
+[06436.012]
+Girl
+
+[06436.013]
+What is it? If you're trying to pick me up, no thanks. Someone tried it in the New Town just now and I'm sick of it.
+
+[06436.014]
+Girl
+
+[06436.015]
+I'm not so cheap a woman that I fall for pick-up lines.
+
+[06436.016]
+Girl
+
+[06436.017]
+You two are a brand-new couple, aren't you? Is this your first date, by any chance?
+
+[06436.019]
+I-it's not like that, I tell you.
+
+[06436.020]
+Girl
+
+[06436.021]
+I knew it. You've both gone red in the face. Lucky you, I'm so jealous★
+
+[06436.022]
+Girl
+
+[06436.023]
+You two mustn't tell lies. If you aren't honest, you'll never have a lovely romance.
+
+[06436.024]
+Girl
+
+[06436.025]
+Oh my, miss, you have three boyfriends? Tell me which one is the real one!
+
+[06436.027]
+Um... well... I'm sorry, we're in a hurry. See you later.
+
+[06436.028]
+Girl
+
+[06436.029]
+All right, I'll be waiting. Teach me your tricks of love later, miss!
+
+[06436.030]
+Girl
+
+[06436.031]
+I want to be like you too, miss! A woman with three boyfriends... you know★
+
+[06436.032]
+Girl
+
+[06436.033]
+What is it? If you're trying to pick me up, no thanks. I'm sick of it.
+
+[06436.034]
+Old Man
+
+[06436.035]
+Sipping drink, little by little, with the softly falling snow for company... In this season nothing beats snow-viewing drink.
+
+[06436.037]
+H-how can you sit drinking in cold like this...
+
+[06436.038]
+Old Man
+
+[06436.039]
+Kah kah kah! If you can't see the charm of it, you're still young!
+
+[06436.040]
+Old Man
+
+[06436.041]
+Drink taken while grumbling that it's cold is drink. Drink taken while delighting in the charm of it is drink.
+
+[06436.042]
+Old Man
+
+[06436.043]
+If it's the same drink, you ought to enjoy it. Otherwise it's hard on the drink.
+
+[06436.044]
+Old Man
+
+[06436.045]
+In this city, how you get along with the snow decides whether your days are merry or hard. If it's the same life, better to enjoy it, eh?
+
+[06436.046]
+Old Man
+
+[06436.047]
+How fine a thing it is to be close. Young love like fresh grass. I envy you.
+
+[06436.049]
+O-oh, no...
+
+[06436.050]
+Old Man
+
+[06436.051]
+Ho! A smile like a flower. Flower-viewing drink in the snow. Now that's a treat.
+
+[06436.052]
+Old Man
+
+[06436.053]
+How fine a thing it is to be close. Here's to the future of you two! Kah kah kah!
+
+[06436.054]
+Old Man
+
+[06436.055]
+Wh-what is that!? I can't sit here! I must hurry to the castle!
+
+[06436.057]
+Hey, hey, gramps! Don't do anything rash!
+
+[06436.058]
+Old Man
+
+[06436.059]
+Don't scorn me for being old! I may not look it, but I was a knight! Of course I rush to the castle in its hour of need!
+
+[06436.060]
+Old Man
+
+[06436.061]
+That I've been able to live this long is only because His Majesty's efforts have brought the country stability!
+
+[06436.062]
+Old Man
+
+[06436.063]
+So if I don't repay that debt here, I could never die in peace! I must rush to the castle at once!
+
+[06436.065]
+Calm down, gramps! We'll go in your place, so wait here!
+
+[06436.066]
+Old Man
+
+[06436.067]
+I and this country are what we are thanks to that man! So, young ones, look after His Majesty for me!
+
+[06436.068]
+Old Man
+
+[06436.069]
+You're the ones who went to the castle just now... Hey! What's happening at the castle! What of His Majesty King Woodrow!
+
+[06436.071]
+Well, a lot happened... Anyway, we'll go and see!
+
+[06436.072]
+Old Man
+
+[06436.073]
+Your Majesty... please be safe!
+
+[06436.074]
+Old Man
+
+[06436.075]
+That bell was a thing of proud history, raised by the king before last as a symbol of peace, and now...
+
+[06436.076]
+Old Man
+
+[06436.077]
+...No, this won't do. As you grow old, you can't help clinging more to what's been lost.
+
+[06436.079]
+It is only natural... There are times when people cannot help being held by the past.
+
+[06436.080]
+Old Man
+
+[06436.081]
+This is no time to mourn what is lost. With His Majesty on his sickbed, now is when we must stand firm.
+
+[06436.082]
+Old Man
+
+[06436.083]
+For a while it'll be snow-viewing tea, I suppose, in place of snow-viewing drink. Well, that's a treat of its own.
+
+[06436.085]
+What's this, gramps? Did the doctor stop your drink for overdoing it?
+
+[06436.086]
+Old Man
+
+[06436.087]
+Kah kah kah! There's nothing wrong with my body. You know the new bell they're making now? I put my drinking money toward the donations for it.
+
+[06436.088]
+Old Man
+
+[06436.089]
+You know the new bell they're making now? I put my drinking money toward the donations for it. So no drink for a while.
+
+[06436.090]
+Old Man
+
+[06436.091]
+When the bell is finished, I'll have bell-viewing drink here. That's what I look forward to most now!
+
+[06436.092]
+Old Man
+
+[06436.093]
+When the bell is finished, I'll have bell-viewing drink here. That's what I look forward to most now!
+
+[06436.094]
+Old Man
+
+[06436.095]
+Sipping drink, little by little, with the softly falling snow for company... In this season nothing beats snow-viewing drink.
+
+[06436.097]
+H-how can you sit drinking in cold like this...
+
+[06436.098]
+Old Man
+
+[06436.099]
+Kah kah kah! If you can't see the charm of it, you're still young!
+
+[06436.100]
+Old Man
+
+[06436.101]
+Drink taken while grumbling that it's cold is drink. Drink taken while delighting in the charm of it is drink.
+
+[06436.102]
+Old Man
+
+[06436.103]
+If it's the same drink, you ought to enjoy it. Otherwise it's hard on the drink.
+
+[06436.104]
+Old Man
+
+[06436.105]
+In this city, how you get along with the snow decides whether your days are merry or hard. If it's the same life, better to enjoy it, eh?
+
+[06436.106]
+Young Woman
+
+[06436.107]
+Hey! Have you seen a cat around here!?
+
+[06436.109]
+No, I haven't... What kind of cat?
+
+[06436.110]
+Young Woman
+
+[06436.111]
+Nyanya's a kitten, and she's pure white as snow! ...That's why I can't find her...
+
+[06436.112]
+Young Woman
+
+[06436.113]
+Nyanya's a kitten, with really fluffy fur, and she's pure white as snow!
+
+[06436.114]
+Young Woman
+
+[06436.115]
+...That's why I can't find her. Ahh, white everywhere I look! Where are you, Nyanya!?
+
+[06436.116]
+Young Woman
+
+[06436.117]
+Ahh... where's Nyanya!? When everything's this white, I can't tell!
+
+[06436.118]
+Young Woman
+
+[06436.119]
+Listen, the white kitten I had has gone missing. And we were always together...
+
+[06436.121]
+Oh... I'd love to see her. She must be so cute.
+
+[06436.122]
+Young Woman
+
+[06436.123]
+Of course she's the cutest in the world. Her special skill is... wandering off somewhere in no time!
+
+[06436.124]
+Young Woman
+
+[06436.125]
+Listen, if you see a white kitten, tell her... that I need Nyanya...
+
+[06436.126]
+Young Woman
+
+[06436.127]
+That... sound just now...?
+
+[06436.129]
+I don't know, but something's badly wrong, that's for sure. Stay right here, miss!
+
+[06436.130]
+Young Woman
+
+[06436.131]
+...What do I do? What if Nyanya got caught up in that...!
+
+[06436.132]
+Young Woman
+
+[06436.133]
+...What do I do? What if Nyanya got caught up in that...!
+
+[06436.134]
+Young Woman
+
+[06436.135]
+I can't find Nyanya... I took my eyes off her for a moment and she was gone...
+
+[06436.136]
+Young Woman
+
+[06436.137]
+I don't think she's gone very far, but... What if she got caught up in that explosion...!
+
+[06436.138]
+Young Woman
+
+[06436.139]
+...What do I do? What if Nyanya got caught up in that...!
+
+[06436.140]
+Young Woman
+
+[06436.141]
+Oh? You... were with the girl in pink yesterday, weren't you?
+
+[06436.142]
+Young Woman
+
+[06436.143]
+What's the matter with her? I passed her in the street this morning, and she looked so grim.
+
+[06436.144]
+Young Woman
+
+[06436.145]
+I passed her while I was out for a morning walk with Nyanya.
+
+[06436.146]
+Young Woman
+
+[06436.147]
+She looked so grim... Did you have a fight or something?
+
+[06436.148]
+Young Woman
+
+[06436.149]
+I passed her in the street this morning, and your girlfriend looked so grim.
+
+[06436.150]
+Young Woman
+
+[06436.151]
+When I lost sight of Nyanya here, I honestly thought I'd never find her.
+
+[06436.153]
+From the name Nyanya, that'd be a cat or something. Why did you think you'd never find her?
+
+[06436.154]
+Young Woman
+
+[06436.155]
+Because she's pure white! She blended into the snow and I had no idea where she was!
+
+[06436.156]
+Young Woman
+
+[06436.157]
+I never realized Nyanya was hiding under the bench!
+
+[06436.158]
+Young Woman
+
+[06436.159]
+I thought I'd peered in properly, but she blended into the snow and I couldn't make her out at all.
+
+[06436.160]
+Young Woman
+
+[06436.161]
+So Nyanya was hiding under the bench. She's pure white, so I never noticed!
+
+[06436.162]
+Young Woman
+
+[06436.163]
+Hey! Have you seen a cat around here!?
+
+[06436.165]
+No, I haven't... What kind of cat?
+
+[06436.166]
+Young Woman
+
+[06436.167]
+Nyanya's a kitten, and she's pure white as snow! ...That's why I can't find her...
+
+[06436.168]
+Young Woman
+
+[06436.169]
+Nyanya's a kitten, with really fluffy fur, and she's pure white as snow!
+
+[06436.170]
+Young Woman
+
+[06436.171]
+...That's why I can't find her. Ahh, white everywhere I look! Where are you, Nyanya!?
+
+[06436.172]
+Young Woman
+
+[06436.173]
+Ahh... where's Nyanya!? When everything's this white, I can't tell!
+
+[06436.174]
+Misha
+
+[06436.175]
+My boyfriend is cool and kind and wonderful in every single way★
+
+[06436.176]
+Misha
+
+[06436.177]
+Lark... as long as I'm with you, I don't mind any blizzard★
+
+[06436.179]
+Yeah, yeah, thanks for the show!
+
+[06436.180]
+Misha
+
+[06436.181]
+Lark is my life. As long as I have him, I need nothing else★
+
+[06436.182]
+Misha
+
+[06436.183]
+Lark taught me what real love is.
+
+[06436.184]
+Misha
+
+[06436.185]
+Love is love, love is fire, and love is magma!
+
+[06436.187]
+Somehow just listening makes me embarrassed...
+
+[06436.188]
+Misha
+
+[06436.189]
+Your boyfriend's not bad either.
+
+[06436.191]
+Oh, um... {NAME:01 00 00 00} and I aren't really...
+
+[06436.192]
+Misha
+
+[06436.193]
+Hee hee★ But he's still no match for Lark's charm★
+
+[06436.194]
+Misha
+
+[06436.195]
+Your boyfriend's lovely. But Lark is even lo-ve-li-er★ Hee hee★
+
+[06436.196]
+Misha
+
+[06436.197]
+W-wait, calm down, Lark!
+
+[06436.198]
+Misha
+
+[06436.199]
+Honestly, Lark's the worst! Running off double-quick, all by himself!
+
+[06436.200]
+Misha
+
+[06436.201]
+So much for "whatever happens, I'll protect you with the power of love"! Men are the worst!!
+
+[06436.202]
+Misha
+
+[06436.203]
+So much for "whatever happens, I'll protect you with the power of love"! Men are the worst!!
+
+[06436.204]
+Misha
+
+[06436.205]
+Hmph! After you left me behind and ran off double-quick!
+
+[06436.206]
+Misha
+
+[06436.207]
+And now it's "I love you", is it!? Don't make me laugh!
+
+[06436.208]
+Misha
+
+[06436.209]
+So much for "whatever happens, I'll protect you with the power of love"! Men are the worst!!
+
+[06436.210]
+Misha
+
+[06436.211]
+My boyfriend is cool and kind and wonderful in every single way★
+
+[06436.212]
+Misha
+
+[06436.213]
+Lark... as long as I'm with you, I don't mind any blizzard★
+
+[06436.215]
+Yeah, yeah, thanks for the show!
+
+[06436.216]
+Misha
+
+[06436.217]
+Lark is my life. As long as I have him, I need nothing else★
+
+[06436.218]
+Lark
+
+[06436.219]
+Oh, my honey. Our love could melt even an age-old glacier.
+
+[06436.220]
+Lark
+
+[06436.221]
+Our love is fire. No, it's magma!
+
+[06436.223]
+I don't know what it means... but I can tell it's something tremendous.
+
+[06436.224]
+Lark
+
+[06436.225]
+We're lovey-dovey fire. No, lovey-dovey magma, simmering away!
+
+[06436.226]
+Lark
+
+[06436.227]
+My honey, Misha★ My treasure, the most precious thing in the world.
+
+[06436.228]
+Lark
+
+[06436.229]
+Whatever may happen, I'll go on loving you!
+
+[06436.230]
+Lark
+
+[06436.231]
+Whatever may happen, I'll go on loving you!
+
+[06436.232]
+Lark
+
+[06436.233]
+E-eek! A dragon! A whopping great dragon! I-I-I've got to run!
+
+[06436.235]
+Lark is not here because he ran away.
+
+[06436.236]
+Lark
+
+[06436.237]
+Please, calm your anger, my honey!
+
+[06436.238]
+Lark
+
+[06436.239]
+When I left so suddenly that time, it wasn't that I was scared of the dragon. Um... I got a stomachache!
+
+[06436.240]
+Lark
+
+[06436.241]
+Wasn't our lovey-dovey magma forever!? Please, calm your anger!
+
+[06436.242]
+Lark
+
+[06436.243]
+Oh, my honey. Our love could melt even an age-old glacier.
+
+[06436.244]
+Lark
+
+[06436.245]
+Our love is fire. No, it's magma!
+
+[06436.247]
+I don't know what it means... but I can tell it's something tremendous.
+
+[06436.248]
+Lark
+
+[06436.249]
+We're lovey-dovey fire. No, lovey-dovey magma, simmering away!
+
+[06436.250]
+Youth
+
+[06436.251]
+Yoo-hoo! Hey, girl~★ Forget a dull guy like that and have tea with me?
+
+[06436.253]
+U-um... I'd really rather not...
+
+[06436.255]
+Ahh ha ha! Looks like you got turned down!
+
+[06436.256]
+Youth
+
+[06436.257]
+Sigh... So pick-up number 264 in all is a failure too...
+
+[06436.258]
+Youth
+
+[06436.259]
+Yoo-hoo! Hey, girl~★ Forget a little squirt like that and have tea with wonderful me~?
+
+[06436.261]
+p(kyle) is no little squirt! Believe it or not, he's aiming to be a hero!
+
+[06436.263]
+p(reala), "believe it or not"...
+
+[06436.264]
+Youth
+
+[06436.265]
+Sigh... So pick-up number 276 in all is a failure...
+
+[06436.266]
+Youth
+
+[06436.267]
+Yoo-hoo! Hey, girl~★ Forget those three guys and have tea with me~!
+
+[06436.269]
+If you want tea, drink it alone! We're in a hurry.
+
+[06436.270]
+Youth
+
+[06436.271]
+Sigh... So pick-up number 294 in all too... no, was it number 296...
+
+[06436.272]
+Youth
+
+[06436.273]
+Sigh... I've failed more pick-ups than I can count... I'm so lonely... even a man would do now...
+
+[06436.275]
+The castle...!
+
+[06436.277]
+Heeey! {NAME:01 00 00 00}! {NAME:02 00 00 00}!
+
+[06436.279]
+{NAME:03 00 00 00}, {NAME:04 00 00 00}!
+
+[06436.281]
+Sounds like something terrible's happening at the castle. What do we do? ...Not that I need to ask.
+
+[06436.283]
+Exactly! Let's go, everyone!
+
+[06436.284]
+Soldier
+
+[06436.285]
+You cannot enter from here. Please go round to the main gate.
+
+[06436.287]
+Phew, I'm tired from walking. Let's rest a little.
+
+[06436.289]
+It's quiet... Sitting like this, all the commotion so far seems like a lie.
+
+[06436.291]
+It's a strange feeling. Last time we came, this was a town called Realta.
+
+[06436.293]
+Some small chance, and things change so greatly that there's no undoing it...
+
+[06436.295]
+Elraine tried to use that fragility of history to achieve her aim.
+
+[06436.297]
+But history didn't change.
+
+[06436.299]
+Dymlos, Atwight, and Dad and Mom too... Everyone's strength protected history.
+
+[06436.301]
+You did a great deal too, {NAME:01 00 00 00}.
+
+[06436.303]
+Y-you think so? Heh heh...
+
+[06436.305]
+I still can't believe it.
+
+[06436.307]
+Meeting a mysterious girl in the ruins, traveling the world with my companions, crossing time to fight alongside heroes.
+
+[06436.309]
+Maybe it's really all a dream...
+
+[06436.311]
+What would you do if it really were?
+
+[06436.313]
+If you woke up one morning and I was suddenly gone, what would you do, {NAME:01 00 00 00}?
+
+[06436.315]
+........? Why ask that all of a sudden...
+
+[06436.317]
+Answer me, {NAME:01 00 00 00}...
+
+[06436.319]
+...I'd hate it.
+
+[06436.321]
+Huh?
+
+[06436.323]
+For {NAME:02 00 00 00} to be gone... I'd hate it!
+
+[06436.325]
+If you were gone, {NAME:02 00 00 00}... I'd get you back, {NAME:02 00 00 00}, no matter what it took.
+
+[06436.327]
+{NAME:01 00 00 00}...
+
+[06436.329]
+Huh...!?
+
+[06436.331]
+Th-this is...!?
+
+[06436.333]
+What... what on earth is it!?
+
+[06436.335]
+{NAME:01 00 00 00}!
+
+[06436.337]
+What was that just now...!?
+
+[06436.339]
+{NAME:01 00 00 00}! So this is where you were!
+
+[06436.341]
+Are you feeling sick!? You're white as a sheet!
+
+[06436.343]
+No, it's nothing... More to the point, did something happen?
+
+[06436.345]
+Oh, right, right! {NAME:06 00 00 00} is calling for you. She says come at once.
+
+[06436.347]
+Something about time being warped and enterpy-something or other...
+
+[06436.349]
+Anyway, come with me! Everyone's at the castle.
+
+[06436.351]
+I wondered where you'd got to, and here you are.
+
+[06436.353]
+{NAME:05 00 00 00}...
+
+[06436.355]
+I thought it might be meddling, but it was on my mind a little.
+
+[06436.357]
+Shall I guess what's been troubling you?
+
+[06436.359]
+One thing is that Elraine is trying to bring down a god.
+
+[06436.361]
+The other is... {NAME:01 00 00 00}. You think you hurt him terribly.
+
+[06436.363]
+And because you're thinking about both at once, your head's all in a jumble... Am I wrong?
+
+[06436.365]
+...You're right.
+
+[06436.367]
+Well, Elraine just has to be stopped, so we'll leave that aside.
+
+[06436.369]
+The problem is {NAME:01 00 00 00}... Do you regret it?
+
+[06436.371]
+I do... I think.
+
+[06436.373]
+When I think this is the end of it, it's a little... no, very painful.
+
+[06436.375]
+The end of it? Of what?
+
+[06436.377]
+I mean, {NAME:01 00 00 00} and I... I said such awful things, so now...
+
+[06436.379]
+...I've fought with Lou too, you know. Any number of times.
+
+[06436.381]
+Really shouting, really angry. There were even times it came to blows.
+
+[06436.383]
+With your little brother? But you said you were so close...
+
+[06436.385]
+You fight because you're close. You don't fight with somebody you don't care about, do you?
+
+[06436.387]
+You want them to understand you. You want them to see where they're wrong. You want to understand each other more and more.
+
+[06436.389]
+Unless you care about someone that much, in earnest, you don't fight, and you can't, right?
+
+[06436.391]
+...Yeah.
+
+[06436.393]
+So when there's something you can't accept, you just can't give way. After all, both sides are in earnest.
+
+[06436.395]
+Then there's nothing for it but to fight. You throw your real feelings at each other, you shout, you get angry, you cry...
+
+[06436.397]
+And only then do you understand each other.
+
+[06436.399]
+........
+
+[06436.401]
+A fight hurts, and it's hard.
+
+[06436.403]
+But it's only by getting through it that you can truly grow close, and be happy too.
+
+[06436.405]
+You two threw your real feelings at each other for the first time, and had your first fight.
+
+[06436.407]
+So this is the start, at last. It's no ending.
+
+[06436.409]
+...Were you able to be happy, {NAME:05 00 00 00}?
+
+[06436.411]
+Of course I was. If not, I couldn't be telling you this.
+
+[06436.413]
+I may not have been much of a big sister, you know.
+
+[06436.415]
+But the one thing I'm sure of is that I understood Lou better than anyone.
+
+[06436.417]
+I can think that because we fought in earnest, again and again.
+
+[06436.419]
+........
+
+[06436.421]
+So for you two as well, it's all still to come. Don't you worry.
+
+[06436.423]
+Still to come... I wonder if there is anything?
+
+[06436.425]
+Of course there is. What are you saying!
+
+[06436.427]
+Fwaah... Saying serious things has worn me out.
+
+[06436.429]
+I'm off to bed. You get some rest soon too.
+
+[06436.431]
+It's before noon here, but we've been awake ever since we left Hope Town.
+
+[06436.433]
+Good night, then, {NAME:02 00 00 00}.
+
+[06436.435]
+Anything still to come... there can't be.
+
+[06436.437]
+{NAME:01 00 00 00}, go down that passage and come out at the castle's back door. It should be quicker that way.
+
+[06436.439]
+Got it!
+
+[06436.440]
+Have a safe journey.
+
+[06436.441]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06436.442]
+Will you stay the night?
+
+[06436.444]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06436.445]
+Please rest well.
+
+[06436.446]
+Good morning.
+
+[06436.447]
+You do not have enough money.
+
+[06436.448]
+We look forward to seeing you again.
+
+[06436.453]
+Obtained {16:26 6A}.
+
+[06436.455]
+Obtained {08:FF FF FF FF}.
+
+[06436.457]
+Found {16:26 72}, but you can carry no more.
+
+[06436.459]
+There is nothing here.
+

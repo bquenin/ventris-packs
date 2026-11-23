@@ -1,0 +1,24 @@
+[00542.001]
+Hey, {NAME:05 00 00 00}, your forebears were Heaven Dwellers, right?
+
+[00542.002]
+Hm? Well, I'm from Calvalese, so I suppose so.
+
+[00542.003]
+So in the history we've got now, "{NAME:05 00 00 00} might be up in Dycroft"?
+
+[00542.004]
+If the flow of history changes, how people live and think changes too, so the very same {NAME:05 00 00 00} would hardly ever be born. Though the chance is not zero...
+
+[00542.005]
+Stop it. Me, living up that high and looking down on the people on the ground? The thought alone gives me the shivers. Even if someone looked just like me, she'd be nothing to do with me.
+
+[00542.006]
+Of course. As if we could stand two or three of this violent woman.
+
+[00542.007]
+...Right. Because I alone am plenty to stop your breath for good!!
+
+[00542.008]
+Gah... I c-can't... b-breathe...
+

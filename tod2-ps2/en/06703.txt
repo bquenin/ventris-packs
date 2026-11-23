@@ -1,0 +1,56 @@
+[06703.001]
+Egg of God: Middle Level
+
+[06703.002]
+Egg of God: Middle Level
+
+[06703.004]
+This is... the abandoned Oberon mine. It seems to be my memory.
+
+[06703.006]
+There is a "fragment" of something, glowing eerily. It bodes ill. Take it with you?
+
+[06703.008]
+{03:00 00 00 00}　Take it　
+　Don't take it　
+
+[06703.010]
+Obtained a fragment of the Derris Emblem.
+
+[06703.011]
+Have a safe journey.
+
+[06703.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06703.013]
+Will you stay the night?
+
+[06703.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06703.016]
+Please rest well.
+
+[06703.017]
+Good morning.
+
+[06703.018]
+You do not have enough money.
+
+[06703.019]
+We look forward to seeing you again.
+
+[06703.024]
+Obtained {16:25 C2}.
+
+[06703.026]
+Obtained {08:FF FF FF FF}.
+
+[06703.028]
+Found {16:25 CA}, but you can carry no more.
+
+[06703.030]
+There is nothing here.
+

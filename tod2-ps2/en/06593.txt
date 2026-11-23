@@ -1,0 +1,46 @@
+[06593.001]
+Dycroft
+
+[06593.002]
+Dycroft
+
+[06593.004]
+Use the Sorcerer's Scope to see what the monsters can see. Slip past the monsters and move on.
+
+[06593.005]
+Have a safe journey.
+
+[06593.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06593.007]
+Will you stay the night?
+
+[06593.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06593.010]
+Please rest well.
+
+[06593.011]
+Good morning.
+
+[06593.012]
+You do not have enough money.
+
+[06593.013]
+We look forward to seeing you again.
+
+[06593.018]
+Obtained {16:26 42}.
+
+[06593.020]
+Obtained {08:FF FF FF FF}.
+
+[06593.022]
+Found {16:26 4A}, but you can carry no more.
+
+[06593.024]
+There is nothing here.
+

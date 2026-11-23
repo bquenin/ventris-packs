@@ -1,0 +1,112 @@
+[06733.001]
+The Flying Dragon
+
+[06733.002]
+The Flying Dragon
+
+[06733.003]
+Gaap
+
+[06733.004]
+...So you have come. Pitiable ones, who cannot grasp the lofty ideal.
+
+[06733.006]
+Yes, yes, pity us all you like. But... we won't let you use the Lenses!
+
+[06733.008]
+Stand aside quietly. If you get in our way... I cut you down!
+
+[06733.009]
+Gaap
+
+[06733.010]
+Lady {NAME:02 00 00 00}... Are you truly content with this?
+
+[06733.011]
+Gaap
+
+[06733.012]
+To go about with those who refuse the salvation of God. I can hardly think it the act of a Saint.
+
+[06733.014]
+...The hero I was seeking was {NAME:01 00 00 00}.
+
+[06733.016]
+So whatever may come of it, I will walk with him. That... is what I decided.
+
+[06733.018]
+{NAME:02 00 00 00}...
+
+[06733.019]
+Gaap
+
+[06733.020]
+...You are too unlike Lady Elraine. That way you can bring no salvation.
+
+[06733.022]
+Jabber away if you like. But move soon, or you'll get hurt.
+
+[06733.023]
+Gaap
+
+[06733.024]
+So you mean to stop the Flying Dragon at all costs. Then...!
+
+[06733.025]
+Gaap
+
+[06733.026]
+For the likes of you, this Glasya-Labolas is enough.
+
+[06733.028]
+Hey, hey, is that even fair!
+
+[06733.030]
+What's this, you're backing off! Weren't you going to hurt him?
+
+[06733.032]
+Enough idle talk. Here it comes...!
+
+[06733.033]
+Have a safe journey.
+
+[06733.034]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06733.035]
+Will you stay the night?
+
+[06733.037]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06733.038]
+Please rest well.
+
+[06733.039]
+Good morning.
+
+[06733.040]
+You do not have enough money.
+
+[06733.041]
+We look forward to seeing you again.
+
+[06733.046]
+Obtained {16:25 CA}.
+
+[06733.048]
+Obtained {08:FF FF FF FF}.
+
+[06733.050]
+Found {16:25 D2}, but you can carry no more.
+
+[06733.052]
+There is nothing here.
+
+[06733.053]
+Time over
+
+[06733.055]
+Destroyed the control unit.
+

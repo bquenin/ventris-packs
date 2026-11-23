@@ -1,0 +1,65 @@
+[06315.001]
+Dunamis Orphanage
+
+[06315.002]
+Dunamis Orphanage
+
+[06315.003]
+Orphanage, Second Floor
+
+[06315.005]
+A stuffed toy. A label says "Bear, made by Mary".
+
+[06315.007]
+The hamster the orphanage keeps. Its name is...
+
+[06315.009]
+Is the name "{08:01 0C 00 00}" all right?
+
+[06315.011]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06315.013]
+The hamster the orphanage keeps. Its name is "{08:01 0C 00 00}".
+
+[06315.015]
+This is the orphanage's second floor.
+
+[06315.016]
+Have a safe journey.
+
+[06315.017]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06315.018]
+Will you stay the night?
+
+[06315.020]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06315.021]
+Please rest well.
+
+[06315.022]
+Good morning.
+
+[06315.023]
+You do not have enough money.
+
+[06315.024]
+We look forward to seeing you again.
+
+[06315.029]
+Obtained {16:25 CA}.
+
+[06315.031]
+Obtained {08:FF FF FF FF}.
+
+[06315.033]
+Found {16:25 D2}, but you can carry no more.
+
+[06315.035]
+There is nothing here.
+

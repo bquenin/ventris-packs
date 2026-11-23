@@ -1,0 +1,12 @@
+[00176.001]
+Elraine the Saint... huh. I heard she was off on a journey to save people, but she's back in Aigrette.
+
+[00176.002]
+Hey, hey, {NAME:03 00 00 00}, let's go back to the inn. I'm starving.
+
+[00176.003]
+Right, and thanks to a certain someone I'm worn right out! Back to the inn it is! Worn right out, I am!
+
+[00176.004]
+S-sorry...
+

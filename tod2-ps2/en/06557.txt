@@ -1,0 +1,43 @@
+[06557.001]
+Realta, the Twilight City
+
+[06557.002]
+Realta, the Twilight City
+
+[06557.003]
+Have a safe journey.
+
+[06557.004]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06557.005]
+Will you stay the night?
+
+[06557.007]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06557.008]
+Please rest well.
+
+[06557.009]
+Good morning.
+
+[06557.010]
+You do not have enough money.
+
+[06557.011]
+We look forward to seeing you again.
+
+[06557.016]
+Obtained {16:25 BA}.
+
+[06557.018]
+Obtained {08:FF FF FF FF}.
+
+[06557.020]
+Found {16:25 C2}, but you can carry no more.
+
+[06557.022]
+There is nothing here.
+

@@ -1,0 +1,85 @@
+[06784.001]
+Cresta
+
+[06784.002]
+Cresta
+
+[06784.004]
+Mm... Ugh, wh-where am I...?
+
+[06784.006]
+Awake, {NAME:01 00 00 00}? Relax, we're in Cresta already. I sent the kids home ahead of us.
+
+[06784.008]
+Oh, and I told them to keep quiet about what happened. There'd be trouble if Rutee found out.
+
+[06784.010]
+...Sorry, {NAME:03 00 00 00}. We finally see each other after so long, and all I do is cause you trouble...
+
+[06784.012]
+Trouble? Haha! Don't be such a stranger, {NAME:01 00 00 00}. This is you and me we're talking about.
+
+[06784.014]
+Besides, ever since I joined the Order of Atamoni, I've left the orphanage entirely to you.
+
+[06784.016]
+I wouldn't call it making amends, but this much is only natural. Don't worry about it.
+
+[06784.018]
+{NAME:03 00 00 00}...
+
+[06784.020]
+How about it: before we go back to the orphanage, shall we wander around town? I'd like to see everyone after all this time.
+
+[06784.022]
+Let's do that, then. ...Uh, {NAME:03 00 00 00}? Could you put me down about now?
+
+[06784.024]
+Hmm? I don't mind staying like this. You know, your weight kind of takes me back.
+
+[06784.026]
+Y-you idiot! Don't treat me like a kid!
+
+[06784.028]
+Hahaha! All right, all right.
+
+[06784.030]
+Well, let's go, {NAME:01 00 00 00}.
+
+[06784.031]
+Have a safe journey.
+
+[06784.032]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06784.033]
+Will you stay the night?
+
+[06784.035]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06784.036]
+Please rest well.
+
+[06784.037]
+Good morning.
+
+[06784.038]
+You do not have enough money.
+
+[06784.039]
+We look forward to seeing you again.
+
+[06784.044]
+Obtained {16:25 BA}.
+
+[06784.046]
+Obtained {08:FF FF FF FF}.
+
+[06784.048]
+Found {16:25 C2}, but you can carry no more.
+
+[06784.050]
+There is nothing here.
+

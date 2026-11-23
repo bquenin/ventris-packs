@@ -1,0 +1,18 @@
+[00230.001]
+Eek!
+
+[00230.002]
+Wh-what is it, {NAME:02 00 00 00}!?
+
+[00230.003]
+Th-there's something wriggly at my feet...!
+
+[00230.004]
+Eh? ......Oh, it's just an earthworm. Never seen one, {NAME:02 00 00 00}? Soil with these in it is rich and good for crops. Look.
+
+[00230.005]
+D-don't show me~!
+
+[00230.006]
+Kids.
+

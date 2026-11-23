@@ -1,0 +1,214 @@
+[06310.001]
+Cresta: Inn
+
+[06310.002]
+Cresta
+
+[06310.003]
+Old Man
+
+[06310.004]
+I came to this town meaning to take in a child from the orphanage, but I can't possibly choose which one...
+
+[06310.005]
+Old Man
+
+[06310.006]
+They're as close as brothers and sisters. Somehow I can't bear to pull them apart...
+
+[06310.007]
+Old Man
+
+[06310.008]
+Maybe we should just move to this town ourselves.
+
+[06310.009]
+Old Man
+
+[06310.010]
+It's a peaceful, quiet, good place here. If only this happiness could last forever.
+
+[06310.011]
+Old Man
+
+[06310.012]
+At my age you miss the smiles of children, so I offered to take in an orphan.
+
+[06310.013]
+Old Man
+
+[06310.014]
+But Rutee turned me down. "I'm grateful for your kindness, but they're all my children," she said.
+
+[06310.015]
+Old Man
+
+[06310.016]
+Perhaps living at the orphanage is what makes those children happiest.
+
+[06310.017]
+Old Man
+
+[06310.018]
+Looking at those smiles, bright as the sun, I begin to think so.
+
+[06310.019]
+Old Man
+
+[06310.020]
+I've long been wondering how the children at the orphanage can smile like that.
+
+[06310.021]
+Old Man
+
+[06310.022]
+But I finally understand. It's simple. With Stahn and Rutee as parents, that place is a family.
+
+[06310.023]
+Old Man
+
+[06310.024]
+The orphanage seemed hard up, so I thought I'd take a child in, but it seems there was no need.
+
+[06310.025]
+Rich Lady
+
+[06310.026]
+My daughter married into this town, you see...
+
+[06310.027]
+Rich Lady
+
+[06310.028]
+I never imagined it was this far out in the country. Why would she give up a wealthy life in Aigrette to come here?
+
+[06310.029]
+Rich Lady
+
+[06310.030]
+There are any number of towns more pleasant to live in, surely...
+
+[06310.031]
+Rich Lady
+
+[06310.032]
+It smells of earth, somehow... It hardly suits a refined person like myself.
+
+[06310.033]
+Rich Lady
+
+[06310.034]
+Haah... It seems my daughter has no intention of going back to Aigrette.
+
+[06310.035]
+Rich Lady
+
+[06310.036]
+Once you're used to it, I'm sure this is a nice enough place, but it isn't better than Aigrette.
+
+[06310.037]
+Rich Lady
+
+[06310.038]
+After all, Lady Elraine is in Aigrette.
+
+[06310.039]
+Rich Lady
+
+[06310.040]
+Aigrette is the city under Lady Elraine's protection.
+
+[06310.041]
+Rich Lady
+
+[06310.042]
+There is no city better than Aigrette, and yet...
+
+[06310.043]
+Rich Lady
+
+[06310.044]
+The food here is really very good.
+
+[06310.045]
+Rich Lady
+
+[06310.046]
+And I don't mind the country seasoning.
+
+[06310.048]
+The cooking here was taught by my mom herself. Though it seems Mom learned to cook from someone too.
+
+[06310.049]
+Rich Lady
+
+[06310.050]
+I wonder who it was that taught your mother to cook?
+
+[06310.051]
+Rich Lady
+
+[06310.052]
+I would dearly love to have them as our own private chef.
+
+[06310.054]
+A landscape painting. It seems to be a picture of some ruins.
+
+[06310.056]
+A painting of ruins covered in green. Wasn't there a place like that near Cresta...?
+
+[06310.058]
+This is a guest room. Better not touch things without asking.
+
+[06310.060]
+There seems to be nothing inside.
+
+[06310.062]
+There seems to be something at the back...?
+
+[06310.064]
+There's something here...
+
+[06310.066]
+Obtained {08:22 01 00 00}.
+
+[06310.068]
+This is... Nelson's taste, I guess...
+
+[06310.069]
+Have a safe journey.
+
+[06310.070]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06310.071]
+Will you stay the night?
+
+[06310.073]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06310.074]
+Please rest well.
+
+[06310.075]
+Good morning.
+
+[06310.076]
+You do not have enough money.
+
+[06310.077]
+We look forward to seeing you again.
+
+[06310.082]
+Obtained {16:25 CA}.
+
+[06310.084]
+Obtained {08:FF FF FF FF}.
+
+[06310.086]
+Found {16:25 D2}, but you can carry no more.
+
+[06310.088]
+There is nothing here.
+

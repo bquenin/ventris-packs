@@ -1,0 +1,33 @@
+[00856.001]
+Say, I've got a favor to ask you all. Will you hear it?
+
+[00856.002]
+What is this? Unusually humble of you...
+
+[00856.003]
+Anyone likely to die in the last battle, let me take your data now★
+
+[00856.004]
+Hey, you idiot! Don't say things that tempt fate!
+
+[00856.005]
+Hehe. Not one of us is going to die. Right, {NAME:01 00 00 00}?
+
+[00856.006]
+Yeah! Of course not!
+
+[00856.007]
+Yes... I will not let anyone die. Never.
+
+[00856.008]
+I see~♪ Then after the battle, one dissection each.
+
+[00856.009]
+No
+
+[00856.010]
+No!!
+
+[00856.011]
+No!!
+

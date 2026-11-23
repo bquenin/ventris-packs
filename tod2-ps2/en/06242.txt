@@ -1,0 +1,72 @@
+[06242.3252]
+Name this item
+
+[06242.3277]
+Nope
+
+[06242.3282]
+Right!
+
+[06242.3289]
+Time up
+
+[06242.3298]
+What's this item's name?
+
+[06242.3327]
+Wrong!
+
+[06242.3336]
+Time's up!
+
+[06242.3349]
+What is this item's name?
+
+[06242.3384]
+Wrong.
+
+[06242.3391]
+Right.
+
+[06242.3398]
+Time's up
+
+[06242.3409]
+What's this item?
+
+[06242.3430]
+Wrong!
+
+[06242.3439]
+Right!
+
+[06242.3448]
+Time's up.
+
+[06242.3461]
+Wrong!
+
+[06242.3468]
+Time's up
+
+[06242.3479]
+Know what this item is?
+
+[06242.3510]
+Wrong.
+
+[06242.3517]
+Right!
+
+[06242.3528]
+Time's up!
+
+[06242.3541]
+Wrong.
+
+[06242.3552]
+Right!
+
+[06242.3561]
+Time's up
+

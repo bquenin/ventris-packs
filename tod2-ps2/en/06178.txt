@@ -1,0 +1,106 @@
+[06178.17734]
+The "Tales of Phantasia" quiz
+is mine to ask.
+
+[06178.17786]
+Let's aim for a perfect score!
+
+[06178.17817]
+OK, let's go
+
+[06178.17830]
+Maybe too easy for %s
+
+[06178.17853]
+Heh, maybe
+
+[06178.17866]
+Then let's begin. No. 1
+
+[06178.17897]
+Got it!
+
+[06178.17906]
+Keep going like that
+
+[06178.17929]
+H-huh...?
+
+[06178.17953]
+No. 2
+
+[06178.17960]
+No. 3
+
+[06178.17967]
+A good start, I see
+
+[06178.17988]
+No. 4
+
+[06178.17995]
+No. 5
+
+[06178.18002]
+No. 6
+
+[06178.18009]
+Yes, yes!
+
+[06178.18028]
+You're on form
+
+[06178.18043]
+That's odd...
+
+[06178.18060]
+No. 7
+
+[06178.18067]
+No. 8
+
+[06178.18074]
+No. 9
+
+[06178.18081]
+One more right and...
+
+[06178.18106]
+Right, I'll do it!
+
+[06178.18125]
+Get at least one right, hm?
+
+[06178.18158]
+Y-yeah...
+
+[06178.18171]
+The last one: No. 10
+
+[06178.18192]
+All riiight!
+
+[06178.18207]
+Aaaaaaah...!
+
+[06178.18226]
+Damn, so close...
+
+[06178.18251]
+Phew, close one...
+
+[06178.18272]
+Well, that's about it...
+
+[06178.18297]
+Well done! All correct!
+
+[06178.18322]
+Are you even trying?
+
+[06178.18343]
+Let's aim higher next time
+
+[06178.18372]
+Let's study some more...
+

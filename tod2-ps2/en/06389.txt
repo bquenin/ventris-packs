@@ -1,0 +1,70 @@
+[06389.001]
+Great Temple of Straylize
+
+[06389.002]
+Great Temple of Straylize
+
+[06389.003]
+Straylize Temple
+
+[06389.004]
+Straylize Temple
+
+[06389.006]
+Books on geography are kept here. They record that the terrain changed greatly in the "uprising over the Eye of God".
+
+[06389.008]
+Books on geography are kept here. ...They record that on the continent of Fitzgald there is a ridge shrouded in mist called the "White Cloud Ridge".
+
+[06389.010]
+Obtained {08:03 00 00 00}.
+
+[06389.012]
+"Walking the Continent of Calvalese" ...The story of an adventurer who walked all over the continent of Calvalese with its harsh climate.
+
+[06389.014]
+It says he made his fortune picking up the many treasures abandoned in the desert. ...Many treasures may still lie sleeping in the Calvalese region.
+
+[06389.016]
+"Aquaveil, Land of a Different Culture" ...A book describing the Aquaveil region, with its distinctive culture and history.
+
+[06389.018]
+It says the archipelago in the northeast of the world is known collectively as the Aquaveil region. It might be worth going there if the chance arises.
+
+[06389.019]
+Have a safe journey.
+
+[06389.020]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06389.021]
+Will you stay the night?
+
+[06389.023]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06389.024]
+Please rest well.
+
+[06389.025]
+Good morning.
+
+[06389.026]
+You do not have enough money.
+
+[06389.027]
+We look forward to seeing you again.
+
+[06389.032]
+Obtained {16:25 B6}.
+
+[06389.034]
+Obtained {08:FF FF FF FF}.
+
+[06389.036]
+Found {16:25 BE}, but you can carry no more.
+
+[06389.038]
+There is nothing here.
+

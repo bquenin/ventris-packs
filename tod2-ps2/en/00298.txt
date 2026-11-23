@@ -1,0 +1,15 @@
+[00298.001]
+That voyage was a bit dull. It'd have been more fun with some thrilling adventure. Like another sea monster turning up.
+
+[00298.002]
+Du~mmy! If a monster attacked every time I boarded a ship, I'd never sail again.
+
+[00298.003]
+Oh yeah, a really pretty lady was buying a ticket for the next sailing.
+
+[00298.004]
+What!? A beauty enjoying a voyage alone... when suddenly a monster attacks! All seems lost, when a dashing man appears! "What is your name?" "{NAME:03 00 00 00} Dunamis, at your service." "Oh, what a wonderful man, marry me★" "But of course..." ...Hm... Ri~ght, right, right, we sail back too!
+
+[00298.005]
+...Leave him. Go.
+

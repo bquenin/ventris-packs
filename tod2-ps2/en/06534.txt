@@ -1,0 +1,465 @@
+[06534.001]
+Vangelo, the Azure City
+
+[06534.002]
+Vangelo, the Azure City
+
+[06534.003]
+Vangelo, the Azure City
+
+[06534.004]
+Youth
+
+[06534.005]
+If we took the sun straight on, and not through the dome, no number of lives would be enough.
+
+[06534.006]
+Youth
+
+[06534.007]
+The sun's a little strong today. If you don't watch out you could keel over.
+
+[06534.009]
+The sun's strong... This place is covered by a dome, you know? It's not as if the sunlight hits you directly.
+
+[06534.010]
+Youth
+
+[06534.011]
+Well, of course. Take the sun straight on and your life would be in danger.
+
+[06534.012]
+Girl
+
+[06534.013]
+........ ............
+
+[06534.015]
+They're awfully wary of us. Hey, {NAME:04 00 00 00}, don't scare them. Poor things.
+
+[06534.017]
+I have done nothing. Is it not your overbearing manner that frightens them?
+
+[06534.018]
+Girl
+
+[06534.019]
+........ ............
+
+[06534.020]
+Girl
+
+[06534.021]
+........ ............
+
+[06534.023]
+Hello! What's wrong? Is there something on our faces?
+
+[06534.024]
+Girl
+
+[06534.025]
+........ ............
+
+[06534.026]
+Woman
+
+[06534.027]
+Outside is full of polluted air. There is no need to go out of our way and risk danger to visit another city, is there?
+
+[06534.029]
+So that means... you people never set one foot outside this city?
+
+[06534.030]
+Woman
+
+[06534.031]
+Yes, that's right. It is rare for anyone to come from outside, too.
+
+[06534.032]
+Woman
+
+[06534.033]
+Come on, say hello to these young men. "Hello."
+
+[06534.034]
+Woman
+
+[06534.035]
+I'm sorry. This child has never met anyone from outside this city before.
+
+[06534.037]
+Huh? But he's quite big already, isn't he? He's never been to another city?
+
+[06534.038]
+Woman
+
+[06534.039]
+We can live here wanting for nothing. Why would we need to go to another city?
+
+[06534.040]
+Man
+
+[06534.041]
+See the child over there? One person came before that child was born. That was the last time anyone came from outside.
+
+[06534.043]
+Then for some ten years there has been no coming and going... Do you know exactly how many years ago it was?
+
+[06534.044]
+Man
+
+[06534.045]
+I don't remember it that exactly. Before that child was born. I can't tell you any more than that.
+
+[06534.046]
+Man
+
+[06534.047]
+Someone from outside... It's been a very long time.
+
+[06534.049]
+A long time? How long ago was it?
+
+[06534.050]
+Man
+
+[06534.051]
+How long... Let me see. About before that child over there was born.
+
+[06534.053]
+That dome was... a city! It's like the whole town is covered by one huge Lens.
+
+[06534.055]
+It's true. Amazing...!
+
+[06534.057]
+And see how airtight it is. It is designed to keep the outside air from getting in at all.
+
+[06534.059]
+Why would they need to go that far? Sure, it's a rough world out there, but not so bad you can't live in it.
+
+[06534.061]
+For some reason they have no choice but to shut out the outside world... That would be about it.
+
+[06534.062]
+Townsperson
+
+[06534.063]
+Y-you people came from outside!? Are you all right!? What happened to your Lenses!?
+
+[06534.065]
+...And why have you got a Lens stuck to your forehead?
+
+[06534.066]
+Townsperson
+
+[06534.067]
+Why...?
+
+[06534.068]
+Townsperson
+
+[06534.069]
+Ah! The outside air must have got to your heads! This is terrible...
+
+[06534.071]
+What are you talking about! We're not...
+
+[06534.073]
+...It seems that is so. We cannot remember a thing.
+
+[06534.077]
+{05:C8 00 00 00}Just keep quiet. It is easier to get information this way.
+
+[06534.079]
+I am sorry, but could you tell us? About the Lenses, and about this city.
+
+[06534.080]
+Townsperson
+
+[06534.081]
+Sure, all right. We all need help sometimes.
+
+[06534.082]
+Townsperson
+
+[06534.083]
+This is a city called Vangelo, the Azure City.
+
+[06534.084]
+Townsperson
+
+[06534.085]
+And what you people have lost is called a "Lens of Life".
+
+[06534.086]
+Townsperson
+
+[06534.087]
+It is only thanks to this Lens of Life that people can touch the polluted outside air and live.
+
+[06534.088]
+Townsperson
+
+[06534.089]
+Lady Elraine, in her mercy, gave a light of hope to us who could live only inside the domes.
+
+[06534.091]
+Elraine...!
+
+[06534.092]
+Townsperson
+
+[06534.093]
+Ah, so you do remember Lady Elraine. Thank goodness...
+
+[06534.094]
+Townsperson
+
+[06534.095]
+After all, Lady Elraine is the one who gives us this dome and the strength to live. She is very dear to us.
+
+[06534.097]
+No way...
+
+[06534.098]
+Townsperson
+
+[06534.099]
+For now, you people should go and talk to the Order of Fortuna.
+
+[06534.101]
+The Order of Fortuna?
+
+[06534.102]
+Townsperson
+
+[06534.103]
+Ah, the Order of Fortuna is the body of people who support Lady Elraine.
+
+[06534.104]
+Townsperson
+
+[06534.105]
+They are all kind people, so I'm sure they will hear you out as if your troubles were their own.
+
+[06534.107]
+...I see. Thank you.
+
+[06534.109]
+...This is the world we came from, to be sure. The name Elraine proves it.
+
+[06534.111]
+Even so, a change like this isn't normal!
+
+[06534.113]
+These Lenses of Life, the domes... It's as if Elraine ruled this world!
+
+[06534.115]
+It seems history has been altered on a grand scale. What on earth happened...?
+
+[06534.116]
+Have a safe journey.
+
+[06534.117]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06534.118]
+Will you stay the night?
+
+[06534.120]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06534.121]
+Please rest well.
+
+[06534.122]
+Good morning.
+
+[06534.123]
+You do not have enough money.
+
+[06534.124]
+We look forward to seeing you again.
+
+[06534.129]
+Obtained {16:25 C2}.
+
+[06534.131]
+Obtained {08:FF FF FF FF}.
+
+[06534.133]
+Found {16:25 CA}, but you can carry no more.
+
+[06534.135]
+There is nothing here.
+
+[06534.136]
+{08:12 00 00 00} Seller
+
+[06534.137]
+We sell {08:12 00 00 00} here.
+
+[06534.138]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06534.139]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06534.140]
+That will be {0B:01 00 00 00}{14:35 D4}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06534.142]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 DE} at once ({14:35 D8} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06534.144]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06534.145]
+Thank you for your purchase.
+
+[06534.146]
+Thank you for your purchase.
+
+[06534.147]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 D4}{0B:00 00 00 00} Gald a bottle.
+
+[06534.148]
+Would you like to hear the Refine lessons?
+
+[06534.150]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06534.151]
+What would you like to know about?
+
+[06534.153]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06534.155]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06534.156]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06534.157]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06534.158]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06534.159]
+Lenses can be picked up by fighting monsters.
+
+[06534.160]
+Do take this chance to refine all you like.
+
+[06534.161]
+Changing an item means refining a single item to turn it into a different item.
+
+[06534.162]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06534.163]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06534.164]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06534.165]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06534.166]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06534.167]
+Ah, I should explain Slots first, shouldn't I.
+
+[06534.168]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06534.169]
+I will explain Slots in detail separately.
+
+[06534.170]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06534.171]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06534.172]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06534.173]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06534.174]
+Let me explain Slots in detail.
+
+[06534.175]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06534.176]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06534.177]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06534.178]
+Equipment with Slots is mostly dropped by monsters.
+
+[06534.179]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06534.180]
+Just between us, accessories can be refined too. But not with one another.
+
+[06534.181]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06534.182]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06534.183]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06534.184]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06534.185]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06534.186]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06534.187]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06534.188]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06534.189]
+So I recommend selling off the items you no longer need.
+
+[06534.190]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06534.191]
+...Keeping your items tidy matters too.
+

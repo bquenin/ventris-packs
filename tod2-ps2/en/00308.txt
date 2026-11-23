@@ -1,0 +1,21 @@
+[00308.001]
+...Hm.
+
+[00308.002]
+Hey, {NAME:04 00 00 00}. What are you brooding about? Let's go see King Woodrow♪
+
+[00308.003]
+Do you think the king of a country will receive a commoner from abroad he has never met?
+
+[00308.004]
+Huh? He won't see us?
+
+[00308.005]
+Is it no good, then... But if we speak in earnest, surely...!
+
+[00308.006]
+Hopeless...
+
+[00308.007]
+Now, now. Let's get to the castle. I'll sort out that much.
+

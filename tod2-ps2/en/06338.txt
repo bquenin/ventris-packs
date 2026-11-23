@@ -1,0 +1,107 @@
+[06338.001]
+Darilsheid, the Old Capital
+
+[06338.002]
+Darilsheid, the Old Capital
+
+[06338.004]
+No good, there's a guard. We can't go any farther.
+
+[06338.006]
+No good, there's a guard. We can't go any farther.
+
+[06338.008]
+But there's no other way out. What do we do? Force our way through?
+
+[06338.010]
+Wait. ...This way. Follow me.
+
+[06338.012]
+This was the mansion of "Hugo", who was head of the Oberon Corporation.
+
+[06338.014]
+When the Oberon Corporation was dissolved, the mansion was seized and rebuilt as a temple, but the hidden passage should still be there.
+
+[06338.016]
+...Here. Hey, use this and try shooting that mark over there.
+
+[06338.018]
+Received {08:2B 00 00 00}.
+
+[06338.020]
+What's this?
+
+[06338.022]
+A tool that draws energy from Lenses and fires a heat ray and a shock.
+
+[06338.024]
+The {09:3C 00 00 00} button fires the heat ray, but each shot uses up one Lens. Don't waste your shots.
+
+[06338.026]
+With the {08:2B 00 00 00}, you can press switches that are out of reach.
+
+[06338.028]
+Naturally, you can also use its heat to light a fire. Use it well.
+
+[06338.030]
+Got it. ...By the way, {NAME:04 00 00 00}, how do you know about a passage like this?
+
+[06338.032]
+...What good would knowing do you?
+
+[06338.034]
+Well, nothing really, but...
+
+[06338.036]
+Then let's go.
+
+[06338.038]
+{NAME:04 00 00 00} earned the title "{08:26 08 00 00}".
+
+[06338.040]
+Documents that seem to be the Oberon Corporation's are kept here. They appear to concern the uprising over the Eye of God.
+
+[06338.042]
+The documents are signed. The names "Hugo", "Ilene" and "Rembrandt" can be made out.
+
+[06338.044]
+"With prayers for Darilsheid's rebirth
+　Philia Felice, Straylize Temple"
+
+[06338.045]
+Have a safe journey.
+
+[06338.046]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06338.047]
+Will you stay the night?
+
+[06338.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06338.050]
+Please rest well.
+
+[06338.051]
+Good morning.
+
+[06338.052]
+You do not have enough money.
+
+[06338.053]
+We look forward to seeing you again.
+
+[06338.058]
+Obtained {16:25 BE}.
+
+[06338.060]
+Obtained {08:FF FF FF FF}.
+
+[06338.062]
+Found {16:25 C6}, but you can carry no more.
+
+[06338.064]
+There is nothing here.
+

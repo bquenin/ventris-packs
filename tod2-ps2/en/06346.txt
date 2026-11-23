@@ -1,0 +1,88 @@
+[06346.001]
+Darilsheid Underground Waterway
+
+[06346.002]
+Darilsheid Underground Waterway
+
+[06346.004]
+Broke the iron bars.
+
+[06346.006]
+Put the tool you took back.
+
+[06346.008]
+There is a toolbox. It holds all sorts of tools. Take something?
+
+[06346.009]
+You take nothing.
+
+[06346.011]
+・Valve
+・Stone cutter
+・Toy duck
+Back
+
+[06346.013]
+・Pliers
+・Water pipe
+・Nails
+Next
+
+[06346.014]
+You take the valve.
+
+[06346.015]
+You take the stone cutter.
+
+[06346.016]
+You take the toy duck.
+
+[06346.017]
+You take the pliers.
+
+[06346.018]
+You take the water pipe.
+
+[06346.019]
+You take the nails.
+
+[06346.022]
+{NAME:01 00 00 00}... Is this any time to be playing with toys?
+
+[06346.023]
+Have a safe journey.
+
+[06346.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06346.025]
+Will you stay the night?
+
+[06346.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06346.028]
+Please rest well.
+
+[06346.029]
+Good morning.
+
+[06346.030]
+You do not have enough money.
+
+[06346.031]
+We look forward to seeing you again.
+
+[06346.036]
+Obtained {16:25 C2}.
+
+[06346.038]
+Obtained {08:FF FF FF FF}.
+
+[06346.040]
+Found {16:25 CA}, but you can carry no more.
+
+[06346.042]
+There is nothing here.
+

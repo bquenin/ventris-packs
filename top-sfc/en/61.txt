@@ -1,0 +1,589 @@
+[61.000]
+Elven Settlement
+
+[61.001]
+Inn "Elf Inn"
+
+[61.002]
+Food Shop "Akasatana"
+
+[61.003]
+Arms Shop "Twilight"
+
+[61.004]
+General Store "Sunset"
+
+[61.005]
+Inn with No Name
+
+[61.006]
+Food Shop with No Name
+
+[61.007]
+Arms Shop with No Name
+
+[61.008]
+Item & Medicine Shop with No Name
+
+[61.009]
+Treant's Forest
+
+[61.010]
+"It's locked. It looks like a storehouse."
+
+[61.011]
+"The Properties of Herbs
+There are a great many kinds of herb, but Savory, Sage, Lavender and Verbena are the best known. Steeped in a certain special medicine, they are said to turn red and become stronger herbs."
+
+[61.012]
+"The Secret of the Elves' Long Life
+The elves live a very long time compared with humans. Daily care of one's health, and above all nourishing food, matter of course, but it is also a peculiar thing bound up with the 'evolution of living things'. Parent and child seem alike, yet there are slight differences. That is the far end of the course of 'evolution', and over dozens of generations these slight differences become a great 'evolution'. That 'evolution' takes place means a living thing is still in the midst of 'evolving'. Reasoning from this, we elves 'evolve' slowly in proportion to our long lives, which makes us living things with that much less need to 'evolve': superior even among living things."
+
+[61.013]
+Brambert
+"I am sorry. I cannot leave this village, you see."
+
+[61.014]
+"Chief, we have caught a suspicious person!"{PAGE}
+Brambert
+"A human trespasser?"{PAGE}
+"No, well, a half-elf..."{PAGE}
+Brambert
+"What!!"
+
+[61.015]
+???
+"Hey, let go of me! Ooh, you there, mister, aren't you handsome♥ Aww, don't go away!"
+
+[61.016]
+{クレス}
+"That voice{SPEED:10}...{SPEED:FF}"
+
+[61.017]
+{クラース}
+"{アーチェ}!{PAGE}
+After all I said about waiting..."{PAGE}
+{アーチェ}
+"But...{PAGE}
+Untie me, quick! I keep telling you I'm not into this sort of thing!"{PAGE}
+Brambert
+"Is she with you?"{PAGE}
+{ミント}
+"Please untie her, I beg you!"{PAGE}
+
+
+[61.018]
+"Chief, allow an exception and you set a bad example to the others!"
+
+[61.019]
+"For a half-elf who trespasses, without exception, it is death{SPEED:10}...{SPEED:FF}"
+
+[61.020]
+???
+"Please wait!!"
+
+[61.021]
+???
+"Please let her go, I beg you! If you mean to kill this girl, I shall take her place! So{SPEED:10}...{SPEED:FF}{PAGE}
+I beg you!"
+
+[61.022]
+Brambert
+"Very well. Untie her ropes."{PAGE}
+"But...!"{PAGE}
+Brambert
+"That is the chief's order."{PAGE}
+
+
+[61.023]
+???
+"I am sorry, {アーチェ}. Forgive me{SPEED:10}...{SPEED:FF} I am truly sorry{SPEED:10}...{SPEED:FF} I am sorry{SPEED:10}...{SPEED:FF}"{PAGE}
+{アーチェ}
+"Eh...? Eh?"
+
+[61.024]
+{クラース}
+"What is it?"
+
+[61.025]
+Guard
+"Yes?"{PAGE}
+{アーチェ}
+"Please, let me see that person again!"{PAGE}
+Guard
+"No! Be thankful you are leaving unharmed!"
+
+[61.026]
+{アーチェ}
+"Hey! Can you hear me!? Mum, you're my mum, aren't you? Please! Show me your face once more, let me see you{SPEED:10}...{SPEED:FF} I'm begging you{SPEED:10}...{SPEED:FF}"
+
+[61.027]
+{クレス}
+"{アーチェ}{SPEED:10}...{SPEED:FF}"
+
+[61.028]
+Guard
+"I am sorry, but as long as that girl is with you, you may not enter this village. Leave at once."
+
+[61.029]
+Brambert
+"Then let us go."
+
+[61.030]
+{クレス}
+"Brambert, what should we do now?"{PAGE}
+Brambert
+"Ahead lies a place called Heimdall, which is a sanctuary to us. We must look for the jet-black stone tablet there."{PAGE}
+{クレス}
+"What will we do with the tablet?"{PAGE}
+Brambert
+"I shall explain at the tablet... The animals of the forest will guide us."
+
+[61.031]
+{クラース}
+"Origin is here after all, there is no doubt of it."{PAGE}
+{クレス}
+"Here?"{PAGE}
+{クラース}
+"Yes. When the pact ring was renewed for us in the world of the past, I saw Origin, though only for an instant."
+
+[61.032]
+{チェスター}
+"{アーチェ}!"{PAGE}
+
+
+[61.033]
+{クレス}
+"What!?"
+
+[61.034]
+{アーチェ}
+"Heh heh, I came after all."{PAGE}
+{クラース}
+"I see. From the sky."{PAGE}
+{ミント}
+"Thanks to the power of Volt."{PAGE}
+
+
+[61.035]
+{クラース}
+"Yes, quite so."
+
+[61.036]
+{クラース}
+"This is no time to stand about laughing."{PAGE}
+
+
+[61.037]
+Origin
+"You who have broken the seals of flame and ice and come into the sanctuary. You are prepared, I trust!"{PAGE}
+{クラース}
+"...We ask nothing better!"
+
+[61.038]
+Origin
+"Kh... That I should yield to mere humans... Wh-what do you want?"{PAGE}
+{クラース}
+"I wish to make a pact of summoning, but before that I want you to make the Sword of Time. That is why we broke the seals on the sword of flame and the sword of ice."{PAGE}
+Origin
+"To what end?"{PAGE}
+{クレス}
+"To defeat Dhaos! Without the Sword of Time, Dhaos will at once escape into the future by his arts."{PAGE}
+Origin
+"Dhaos. He who is now the threat of this world...{PAGE}
+Heh heh..."{PAGE}
+{チェスター}
+"What's so funny!? Do you know the position you're in!?"{PAGE}
+Origin
+"Have you ever asked yourselves why Dhaos appeared on this world?{PAGE}
+What kind of being he is, where he came from, why he does these things!"{PAGE}
+{ミント}
+"It is true that we know almost nothing of what Dhaos really is.{PAGE}
+But how many people have been made wretched because of him..."{PAGE}
+{クレス}
+"We want to protect this world! This world, where everyone is!"
+
+[61.039]
+Origin
+"{SPEED:10}...{SPEED:FF}Very well. I was beaten. I shall obey you. You wanted the Sword of Time made. Then lay the swords and the Diamond ring before the tablet and stand back."
+
+[61.040]
+{クレス}
+"So this is the Sword of Time..."{PAGE}
+
+
+[61.041]
+{COLOR:03}Received {STR:450C}.{COLOR:02}{PAGE}
+{クレス}
+"Wh-what!? It's speaking straight into my head..."{PAGE}
+Sword of Time
+"You who wield the sword that marks time, be one with my power and strike down those of evil heart..."
+
+[61.042]
+{クレス}
+"I-it feels as if something is being poured into my head..."{PAGE}
+
+
+[61.043]
+{COLOR:03}{クレス} learned Kuukanshouteni, Jikuusouhazan and Tenisouhazan.{COLOR:02}{PAGE}
+
+
+[61.044]
+{クラース}
+"Good, then it is my turn. The Diamond ring will serve for the pact?"{PAGE}
+Origin
+"It will."
+
+[61.045]
+{クラース}
+"I now beseech the spirit of the source. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[61.046]
+{COLOR:03}{クラース} can now summon {STR:0F08}.{COLOR:02}{PAGE}
+
+
+[61.047]
+{クラース}
+"All that is left is to find out where Dhaos is."{PAGE}
+{ミント}
+"But where can he be?"{PAGE}
+{アーチェ}
+"Wouldn't Lundgrom know?"{PAGE}
+{クレス}
+"Right, let's go to Alvanista!"
+
+[61.048]
+{ミント}
+"What is this tablet?"{PAGE}
+Brambert
+"Ymir, which is also the name of the forest, is a word that means the source. Origin, the spirit who governs the source, is said to sleep here."{PAGE}
+{クレス}
+"Origin..."{PAGE}
+Brambert
+"The king of the spirits, so it is said. In the last battle of the far ancient age{SPEED:10}...{SPEED:FF} we elves call it 'Ragnarok'; he is said to have appeared in this world then, one single time.{PAGE}
+
+
+[61.049]
+Whether it is because the tablet has such a history I do not know, but it has the power to renew matter."{PAGE}
+{クラース}
+"Hmm. Why, that is the very power Origin is said to have."{PAGE}
+Brambert
+"Perhaps the people of old tied it to Origin because it has so strange a power."
+
+[61.050]
+{ミント}
+"Then please go ahead."{PAGE}
+Brambert
+"Please stand back..."
+
+[61.051]
+Brambert
+"It is done."{PAGE}
+{ミント}
+"So it was as lovely a ring as this."{PAGE}
+{クラース}
+"Good. Next comes the pact with the spirit Luna."{PAGE}
+{ミント}
+"And after that, helping Morrison."{PAGE}
+Brambert
+"In that case, you would do well to go to a place called the 'Tower of the Zodiac', between Freyland and Midgards. A spirit is said to live there. What spirit, I do not know, but if you become able to summon it, it should add greatly to your strength."{PAGE}
+{クラース}
+"I see. Thank you."
+
+[61.052]
+{COLOR:03}Received the pact rings {STR:BD0B} and {STR:C20B}.{COLOR:02}
+
+[61.053]
+{クレス}
+"What are you doing in a place like this?"{PAGE}
+???
+
+
+[61.054]
+Suzu
+
+
+[61.055]
+"I shall show you the way."{PAGE}
+{アーチェ}
+"Wait!{PAGE}
+
+
+[61.056]
+Take me with you!"
+
+[61.057]
+"Here. Your bow is ready."{PAGE}
+
+
+[61.058]
+{COLOR:03}Received {STR:4B0C}.{COLOR:02}{PAGE}
+This is a holy bow such as the elves have made since old times. See the instructions for the details.
+
+[61.059]
+"The bow can't be mended yet. Please be patient."
+
+[61.060]
+"Ah, it's you. Have you saved up the money to mend the bow?"
+
+[61.061]
+"Adventurers, are you?{PAGE}
+I'm sorry, but I've no arms to sell you. Everything here is for hunting
+
+[61.062]
+."{PAGE}
+{クレス}
+"For hunting? Bows and such?"{PAGE}
+"That's right."{PAGE}
+{クレス}
+"Then could you mend this bow?"{PAGE}
+{チェスター}
+"That's...!?"{PAGE}
+{クレス}
+"Yes. It's your bow, {チェスター}. It was lying there when {ミント} and I were sent through time to the world of the past. I thought the day would surely come when it would be of use."{PAGE}
+{チェスター}
+"{クレス}..."{PAGE}
+"What'll it be? Shall I mend it? The cost is 20000 Gald."{PAGE}
+
+
+[61.063]
+{COLOR:03}Have {チェスター}'s bow mended?{COLOR:02}
+
+[61.064]
+"Come back when you have the money."
+
+[61.065]
+"You haven't enough money. Come back when you've saved it up."
+
+[61.066]
+"Right. Then give me a day. You'd best stay the night in this village."
+
+[61.067]
+."
+
+[61.068]
+"Welcome."
+
+[61.069]
+"Thank you very much."
+
+[61.070]
+"Welcome. I've a fine stock of medicines."
+
+[61.071]
+"Thank you."
+
+[61.072]
+"You are..."{PAGE}
+{クレス}
+"Er... is something the matter?"{PAGE}
+"No...{PAGE}
+Are you the heroes I have heard tell of?"{PAGE}
+{クレス}
+"No, we're not heroes. Only adventurers."{PAGE}
+"Please give this... to the girl with pink hair. It is of no use to me..."{PAGE}
+{クレス}
+"This is... a broom?"{PAGE}
+
+
+[61.073]
+{COLOR:03}Received {STR:650C}.{COLOR:02}{PAGE}
+"Please keep this to yourselves..."{PAGE}
+{クレス}
+"Er, then you really are {アーチェ}'s..."{PAGE}
+"{SPEED:10}...{SPEED:FF}Please do not ask...{PAGE}
+By the way..."{PAGE}
+
+
+[61.074]
+"Welcome. Will you stay? It is 30 Gald a night."
+
+
+[61.075]
+You haven't enough money, I'm afraid.
+
+[61.076]
+Make yourselves at home.
+
+[61.077]
+"Please come again."
+
+[61.078]
+"Welcome. We're full of natural food."
+
+[61.079]
+"Thank you."
+
+[61.080]
+"We're playing hide and seek just now."
+
+[61.081]
+"Found you!"{PAGE}
+"Ugh! Now I've been found!"{PAGE}
+"Then it's my turn to hide."
+
+[61.082]
+"Damn! Don't get in the way!!"
+
+[61.083]
+"We're playing hide and seek just now. Don't get in the way."{PAGE}
+
+
+[61.084]
+"One, two, three..."
+
+[61.085]
+"We're playing hide and seek just now. Don't get in the way this time."{PAGE}
+
+
+[61.086]
+"One, two, three..."
+
+[61.087]
+"We're playing hide and seek just now."
+
+[61.088]
+"Found you!"{PAGE}
+"Aww, no! I've been found!"{PAGE}
+"Then it's my turn to hide."
+
+[61.089]
+"Honestly! Don't get in the way!"
+
+[61.090]
+"Are the sons I left in Venezia all right...? I can't stop worrying."
+
+[61.091]
+"Lovely weather."
+
+[61.092]
+"You may pass!"
+
+[61.093]
+"There are few people about, with getting ready for the autumn harvest. The shops are all open."
+
+[61.094]
+"Everyone's gone hunting, so there are few people about.{PAGE}
+I say hunting, but it goes on for a good long while."
+
+[61.095]
+"This is... a spellbook!"{PAGE}
+
+
+[61.096]
+{COLOR:03}{アーチェ} learned {STR:DC07}.{COLOR:02}
+
+[61.097]
+"But it's no use my holding on to it. I'll put it back."
+
+[61.098]
+"This year's harvest looks like hard work. They say a good many monsters haunt Treant's Forest and the Forest of Ymir."
+
+[61.099]
+"Lord Brambert, the head of this village, has changed his mind a great deal. Closer ties with humans, of all things..."
+
+[61.100]
+"I work at the supermarket 'Overeating' in Alvanista. There is plenty of natural food in the elven settlement, and I often come to buy stock. But it is a long way, so I deal mostly in things that keep, and medicines."
+
+[61.101]
+"I'd like to go to the capital, just once."
+
+[61.102]
+"I've come here for my health. There's so much nature here, it does one good."
+
+[61.103]
+"I have come to spread the faith. The worship of nature, which is the teaching of Martel, the mother goddess of the earth, is close to the thinking of the elves. I am sure they will accept it."
+
+[61.104]
+"I went to the Kingdom of Alvanista as an envoy the other day, and the Princess was sooooo beautiful!"
+
+[61.105]
+"More people and more bustle may be good for the growth of this village, but I like it quiet."
+
+[61.106]
+"We are debating the future of the elves.{PAGE}
+Why is it that we accept humans and yet will not accept half-elves?"
+
+[61.107]
+"We are debating the future of the elves.{PAGE}
+I was against accepting humans from the first. See how the animals of the forests of Ymir and Treant grow fewer! I am dead against accepting half-elves!"
+
+[61.108]
+"We are debating the future of the elves.{PAGE}
+For the elves to thrive in time to come, I believe we need the strength of the half-elves.{PAGE}
+For they have the strong spirit of those who have come through hardship."
+
+[61.109]
+Brambert
+"The matter of the half-elves I wish to talk over again, at leisure, once peace has come to the world."
+
+[61.110]
+Brambert
+"You...! It has been a long time. We last met... about 150 years ago, was it?"{PAGE}
+{クレス}
+"Y-yes, that would be right..."{PAGE}
+(His sense of time is rather different from ours...){PAGE}
+Brambert
+"This village has changed a good deal, has it not? Since you brought peace back to the world 150 years ago, my thinking has changed. I saw that among humans too there are those who understand us... The King of Alvanista was one. He took in our culture eagerly and did much to raise our standing."{PAGE}
+{クラース}
+"Indeed. But why will you not accept half-elves?"{PAGE}
+Brambert
+"I am one of them myself, but among the old there are those who say it would end in repeating the mistake of the past."{PAGE}
+{クラース}
+"The mistake of the past?"{PAGE}
+Brambert
+"Half-elves have abilities we lack. Magic power beyond all measure, learning greater than a human's... And most of the ablest scientists of Midgards, it turns out, were half-elves."{PAGE}
+{クラース}
+"The scientists of Midgards!? But Midgards flatly refused to take in elves..."{PAGE}
+Brambert
+"In the open, yes... And a pure elf would never lend his strength to a science like magitech, which toys with magic power. But the half-elves did lend their strength to magitech... They themselves are bringing about the danger that the power of mana will be lost."{PAGE}
+{ミント}
+"Th-there must have been some reason! Half-elves use magic too, after all..."{PAGE}
+Brambert
+"I... should like to think so.{PAGE}
+But we too should change our thinking, no doubt. To judge without hearing them is selfishness itself. I believe we need to think about the half-elves once more."{PAGE}
+{クレス}
+"But as things are, it's only a matter of time before mana is gone from the world altogether."{PAGE}
+{ミント}
+"Even magitech depends on how it is used. Put to peaceful use, like the Rheaird, surely..."{PAGE}
+Brambert
+"Yes. Thank you. I feel a good idea coming to me."
+
+[61.111]
+"For the sake of the baby you are carrying, too, we had better leave here."
+
+[61.112]
+"How good it would be if I could live here with you..."
+
+[61.113]
+"What a strange feel this tablet has..."
+
+[61.114]
+"Who are you!? No one but elves may enter here!"
+
+[61.115]
+{クラース}
+"Do you not see this emblem? Take us to the chief."{PAGE}
+"That is the Kingdom of Alvanista's...!{PAGE}
+I beg your pardon. This way."
+
+[61.116]
+???
+"Forgive me for keeping you waiting. How do you do. I am Brambert, the chief."{PAGE}
+{クラース}
+"I am {クラース}, and these are {クレス} and {ミント}."
+
+[61.117]
+{クラース}
+"To come straight to the point, this..."{PAGE}
+
+
+[61.118]
+Brambert
+"This is a pact ring! {SPEED:10}...{SPEED:FF}But it seems to be broken."{PAGE}
+{ミント}
+"We came all this way because we heard there is a way to mend it."{PAGE}
+Brambert
+"...I see. The power of the tablet is needed.{PAGE}
+I shall wait on the north side of the village. I shall explain then."
+

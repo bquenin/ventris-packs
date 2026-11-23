@@ -1,0 +1,30 @@
+[00740.001]
+There is no telling when or where a trap is laid... Better to go as carefully as we can.
+
+[00740.002]
+But what if something happens to Atwight while we're being careful?
+
+[00740.003]
+...Then what would you do?
+
+[00740.004]
+Charge on! If there's a trap, we think once we're in it.
+
+[00740.005]
+So, the same as always.
+
+[00740.006]
+Well, it'll work out, won't it? Same as always.
+
+[00740.007]
+...Honestly, you people...
+
+[00740.008]
+You knew it would come to this when you said it, {NAME:04 00 00 00}, didn't you?
+
+[00740.009]
+True. Telling these simple fools "do not fall into a trap" was asking the impossible.
+
+[00740.010]
+Haha... So if we're trapped, save us. Clever little {NAME:04 00 00 00}★
+

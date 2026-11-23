@@ -1,0 +1,62 @@
+[06732.001]
+Dycroft, Eighteen Years Ago
+
+[06732.002]
+Dycroft, Eighteen Years Ago
+
+[06732.003]
+Paid Support Robot
+
+[06732.004]
+Please choose the service you wish.
+
+[06732.006]
+{03:00 00 00 00}　Restock　
+　Treatment ({0B:01 00 00 00}{06:FD 02 00 00}{0B:00 00 00 00} Gald)　
+
+[06732.007]
+First aid, commencing!
+
+[06732.008]
+Fully healed!
+
+[06732.009]
+This one is on the house.
+
+[06732.010]
+Have a safe journey.
+
+[06732.011]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06732.012]
+Will you stay the night?
+
+[06732.014]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06732.015]
+Please rest well.
+
+[06732.016]
+Good morning.
+
+[06732.017]
+You do not have enough money.
+
+[06732.018]
+We look forward to seeing you again.
+
+[06732.023]
+Obtained {16:25 BA}.
+
+[06732.025]
+Obtained {08:FF FF FF FF}.
+
+[06732.027]
+Found {16:25 C2}, but you can carry no more.
+
+[06732.029]
+There is nothing here.
+

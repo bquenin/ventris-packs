@@ -1,0 +1,12 @@
+[00244.001]
+The place we're headed is up on White Cloud Ridge, right...... So it's back through that fog again.
+
+[00244.002]
+Getting lost in there would be a nuisance...... No going off alone. We keep together.
+
+[00244.003]
+Do as {NAME:04 00 00 00} says, everyone! Getting lost would be bad!
+
+[00244.004]
+I meant you...
+

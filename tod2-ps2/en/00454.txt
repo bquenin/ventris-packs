@@ -1,0 +1,6 @@
+[00454.001]
+What happened!? {NAME:02 00 00 00} isn't here? What do you mean!?
+
+[00454.002]
+Calm down, {NAME:01 00 00 00}. Maybe she went ahead to Woodrow. Try the audience chamber.
+

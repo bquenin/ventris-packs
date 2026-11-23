@@ -1,0 +1,485 @@
+[06592.001]
+Dycroft
+
+[06592.002]
+Dycroft
+
+[06592.003]
+Dycroft
+
+[06592.005]
+Ow, ow, ow... What is with this machine! The flying and the landing are both a mess!
+
+[06592.007]
+It's not a mess. I worked out the shaking and the jolts pro~perly and put in the flight path.
+
+[06592.009]
+...Hold on. So you made it fly like that on purpose!?
+
+[06592.011]
+If it doesn't bump and thump this much, it doesn't feel like flying, does it?
+
+[06592.013]
+........
+
+[06592.015]
+Mm-hm, just as calculated. We've arrived in the hangar.
+
+[06592.017]
+Look, these are the escape pods. Remember them.
+
+[06592.018]
+Soldier
+
+[06592.019]
+A Surface Army assault landing craft! Send the guardians of G Block! Let not one of them go back alive!
+
+[06592.020]
+Karell
+
+[06592.021]
+Not good. They have noticed us sooner than I thought.
+
+[06592.022]
+Dymlos
+
+[06592.023]
+What of it, we would be found some time. It has only come a little early.
+
+[06592.024]
+Dymlos
+
+[06592.025]
+Good, the operation begins! {NAME:06 00 00 00}, the diversion is yours. The rest of you, follow me!
+
+[06592.027]
+Your opponents are over here! Now, come on!
+
+[06592.029]
+There, one down! Right, let's get a move on our...
+
+[06592.031]
+Hold it!
+
+[06592.033]
+What is it, {NAME:06 00 00 00}?
+
+[06592.035]
+Have you people fought this monster before?
+
+[06592.037]
+Huh? Yeah, we have... What about it?
+
+[06592.039]
+I see... So someone else has come from the future, the same as you.
+
+[06592.041]
+What do you mean?
+
+[06592.043]
+Because I've never seen this monster.
+
+[06592.045]
+Things like it exist now, but this one is evolved beyond all reason.
+
+[06592.047]
+In other words, someone brought it here from the future. Any idea who?
+
+[06592.049]
+Any idea? Every idea. It's the work of someone called Elraine.
+
+[06592.051]
+Most likely her underlings have already got into the Heavenly Army and are backing it.
+
+[06592.053]
+Hm, hm... So what you people are after is setting history right.
+
+[06592.055]
+This Elraine is siding with the Heavenly Army and trying to make it win this war.
+
+[06592.057]
+And you people came to this age to stop it.
+
+[06592.059]
+Yes, exactly. We came here to keep Elraine from meddling with history.
+
+[06592.061]
+Tinkering with history? That's a pretty interesting thing to be doing. She thinks she's a god.
+
+[06592.063]
+No, she doesn't just speak in a god's name. She has truly brought a god down and uses its power.
+
+[06592.065]
+The power of a real god!? So you people are picking a fight with a god!?
+
+[06592.067]
+W-well, I guess so.
+
+[06592.069]
+...Hehe, hehehe!
+
+[06592.071]
+{NAME:06 00 00 00}!? Wh-what is it!?
+
+[06592.073]
+Now this is getting interesting! A fight with a god, that's the best!
+
+[06592.075]
+A~ll right! I'll prove my brain outdoes even a god!
+
+[06592.077]
+R-right...
+
+[06592.079]
+Now that we know that, we can't dawdle here!
+
+[06592.081]
+The operation goes on! Come on, everybody!
+
+[06592.083]
+{NAME:01 00 00 00} earned the title "{08:2C 08 00 00}".
+
+[06592.085]
+Made it, just in time!
+
+[06592.086]
+Atwight
+
+[06592.087]
+Thank goodness... You are all safe.
+
+[06592.088]
+Dymlos
+
+[06592.089]
+The enemy must be on our heels! Hurry!
+
+[06592.090]
+Barbatos
+
+[06592.091]
+Heh heh heh... You are late, {NAME:01 00 00 00} Dunamis.
+
+[06592.093]
+Y-you...!
+
+[06592.095]
+Barbatos Goetia!?
+
+[06592.096]
+Dymlos
+
+[06592.097]
+Barbatos Goetia!?
+
+[06592.098]
+Barbatos
+
+[06592.099]
+Oho, that His Excellency Lieutenant General Dymlos of the Surface Army should remember one such as me. The highest of honors.
+
+[06592.100]
+Dymlos
+
+[06592.101]
+Why are you here!? That day, with these very hands, I surely...!
+
+[06592.102]
+Barbatos
+
+[06592.103]
+I did die once. But my endless hatred of you gave me life again!
+
+[06592.104]
+Barbatos
+
+[06592.105]
+Now, shall we begin... This time it is your turn to die, Dymlos!
+
+[06592.106]
+Dymlos
+
+[06592.107]
+Bark away!! If you have come back to life, I will simply strike you down again!
+
+[06592.108]
+Dymlos
+
+[06592.109]
+The score between us, piled up so high... This time I will settle it!
+
+[06592.110]
+Dymlos
+
+[06592.111]
+Gh, impossible! He turns my sword aside so lightly...!?
+
+[06592.112]
+Barbatos
+
+[06592.113]
+What is this, is that all? Then I come for you!
+
+[06592.114]
+Barbatos
+
+[06592.115]
+...You disappoint me, Dymlos.
+
+[06592.116]
+Barbatos
+
+[06592.117]
+I have crossed time and fought many heroes. Even so, what a gap in strength is this?
+
+[06592.118]
+Barbatos
+
+[06592.119]
+Dull... What a dull outcome. So you too cannot slake my thirst.
+
+[06592.120]
+Barbatos
+
+[06592.121]
+Then at least amuse me at the last. ...Yes, with your death cry.
+
+[06592.122]
+Barbatos
+
+[06592.123]
+I will carve you up little by little. First... the right leg!!
+
+[06592.124]
+Atwight
+
+[06592.125]
+Stop it, Barbatos!
+
+[06592.126]
+Atwight
+
+[06592.127]
+You were killed because you betrayed your comrades and tried to go over to the Heavenly Army!
+
+[06592.128]
+Atwight
+
+[06592.129]
+And yet you come shamelessly back to life and seek your revenge like this... It is nothing but a twisted grudge!
+
+[06592.130]
+Atwight
+
+[06592.131]
+If you have even a little of a soldier's pride left, sheathe your sword at once and go!
+
+[06592.132]
+Barbatos
+
+[06592.133]
+...It is always so. Atwight, why do you shield this man even at the risk of your life?
+
+[06592.134]
+Barbatos
+
+[06592.135]
+Be my woman instead. Then you can have everything. Power, gold, even everlasting fame!
+
+[06592.136]
+Dymlos
+
+[06592.137]
+S-stop, Barbatos! Do not lay a hand... on Atwight...!
+
+[06592.138]
+Barbatos
+
+[06592.139]
+So you still have breath for such fool talk, you half-dead wretch...!
+
+[06592.140]
+Barbatos
+
+[06592.141]
+...Wait. Hmph, there is a way. A way to make you suffer to the utmost!
+
+[06592.142]
+Barbatos
+
+[06592.143]
+This is your weak point!
+
+[06592.144]
+Atwight
+
+[06592.145]
+...!
+
+[06592.146]
+Dymlos
+
+[06592.147]
+Stop, Barbatos! Your fight is with me! Let Atwight go!
+
+[06592.148]
+Barbatos
+
+[06592.149]
+Heh heh heh. In the little time left to you, taste a pain worse than death.
+
+[06592.151]
+H-he's gone...!
+
+[06592.152]
+Dymlos
+
+[06592.153]
+Wait, Barbatos!!
+
+[06592.154]
+Dymlos
+
+[06592.155]
+...Gh!
+
+[06592.157]
+Dymlos! Are you all right!?
+
+[06592.158]
+Dymlos
+
+[06592.159]
+{NAME:01 00 00 00}... Yes, it is nothing.
+
+[06592.161]
+...Dymlos, please wait here. We'll go and look for Atwight!
+
+[06592.163]
+He can't fly very far with Atwight. He must still be near here...
+
+[06592.164]
+Dymlos
+
+[06592.165]
+...No, we withdraw as we are. You too, get into a pod quickly.
+
+[06592.167]
+What are you saying! A comrade's been taken hostage! You mean to abandon her and go home!?
+
+[06592.168]
+Dymlos
+
+[06592.169]
+The rescue of the development team has succeeded. So that there are no more losses, we should fall back at once.
+
+[06592.170]
+Dymlos
+
+[06592.171]
+She too is a soldier. She will always have been ready for danger, even death. I choose to lean on that.
+
+[06592.173]
+No... Do you mean it, Dymlos!? I can't accept that!!
+
+[06592.175]
+And Dymlos, you said it yourself! That we'd all go back safe!
+
+[06592.176]
+Dymlos
+
+[06592.177]
+That is an order!
+
+[06592.178]
+Dymlos
+
+[06592.179]
+...We return to the Radisrol. Hurry!
+
+[06592.181]
+Right, right. When he says we go back, we go back! In you get!
+
+[06592.183]
+H-hey, what are you doing, {NAME:06 00 00 00}!!
+
+[06592.185]
+This is how you want it, right?
+
+[06592.186]
+Dymlos
+
+[06592.187]
+...I am sorry, {NAME:06 00 00 00}.
+
+[06592.189]
+To be honest, I can't accept it either.
+
+[06592.190]
+Paid Support Robot
+
+[06592.191]
+Please choose the service you wish.
+
+[06592.193]
+{03:00 00 00 00}　Restock　
+　Treatment ({0B:01 00 00 00}{06:FD 02 00 00}{0B:00 00 00 00} Gald)　
+
+[06592.194]
+First aid, commencing!
+
+[06592.195]
+Fully healed!
+
+[06592.196]
+This one is on the house.
+
+[06592.198]
+A monster lies fallen.
+
+[06592.200]
+A monster lies fallen.
+
+[06592.202]
+A monster lies fallen.
+
+[06592.204]
+A monster lies fallen.
+
+[06592.205]
+Have a safe journey.
+
+[06592.206]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06592.207]
+Will you stay the night?
+
+[06592.209]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06592.210]
+Please rest well.
+
+[06592.211]
+Good morning.
+
+[06592.212]
+You do not have enough money.
+
+[06592.213]
+We look forward to seeing you again.
+
+[06592.218]
+Obtained {16:25 CE}.
+
+[06592.220]
+Obtained {08:FF FF FF FF}.
+
+[06592.222]
+Found {16:25 D6}, but you can carry no more.
+
+[06592.224]
+There is nothing here.
+

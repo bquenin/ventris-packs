@@ -1,0 +1,229 @@
+[05.000]
+{クレス}'s House
+
+[05.001]
+{チェスター}'s House
+
+[05.002]
+St. Lenios Church
+
+[05.003]
+Weapon Shop "Teasel"
+
+[05.004]
+Inn "Repose"
+
+[05.005]
+General Store "Gori"
+
+[05.006]
+Miguel
+"{クレス}, stay out of the way!"
+
+[05.007]
+{COLOR:03}Rest here?{COLOR:01}
+
+[05.008]
+{クレス}
+"Father, I'm going hunting."{PAGE}
+
+
+[05.009]
+Miguel
+"Be back before it gets late."{PAGE}
+{クレス}
+"I know."
+
+[05.010]
+Receptionist
+"Oh, {クレス}, are you off somewhere?"{PAGE}
+{クレス}
+"I'm going hunting. I'll bring back a big one."{PAGE}
+
+
+[05.011]
+Receptionist
+"Take care."
+
+[05.012]
+"She's fast asleep..."
+
+[05.013]
+Maid
+"Oh, {クレス}. Your mother is sleeping, so keep it quiet."
+
+[05.014]
+Sister
+"Oh, {クレス}. What brings you here today?"{PAGE}
+{クレス}
+"I thought it would be nice to drop by the church now and then..."{PAGE}
+
+
+[05.015]
+Sister
+"Didn't you say the same thing a moment ago? Oh well. May the gods watch over you..."{PAGE}
+{クレス}
+"Th-thank you..."
+
+[05.016]
+Sister
+"That is the right spirit. May the gods watch over you..."
+
+[05.017]
+"Nature worship is all very well until it goes too far. Some people get the teaching wrong and say it's cruel to snap a twig."
+
+[05.018]
+"Those two statues on either side of the altar are rather alluring, aren't they?{PAGE}
+Oops, they're goddesses, aren't they... I shouldn't, I shouldn't."
+
+[05.019]
+"Hey, {クレス}!{PAGE}
+Listen, just carrying a weapon does you no good. It's no use unless you equip it properly."
+
+[05.020]
+"You can't come in from that side."
+
+[05.021]
+"Good day.{PAGE}
+If you want to rest, rest in your own house."
+
+[05.022]
+"Thank you. Here, a little pocket money."{PAGE}
+{COLOR:03}Received 10 Gald.{COLOR:02}
+
+[05.023]
+"Oh, good timing. I was hoping someone would carry that ornament for me."
+
+[05.024]
+"Hurry up and carry that ornament out to the corridor. Set it right up against the window side. Leave it in the middle of the corridor and it will be in the guests' way."
+
+[05.025]
+"Is that you, {クレス}?{PAGE}
+Sorry to ask, but would you carry that ornament out to the corridor for me?"{PAGE}
+{クレス}
+"That ornament... is it a statue of a bushbaby? Why a bushbaby?"{PAGE}
+"It's the old man's taste."{PAGE}
+{クレス}
+"I see..."{PAGE}
+{COLOR:03}Carry the ornament?{COLOR:02}
+
+[05.026]
+I see.
+Young people these days...
+
+[05.027]
+Set it right up against the window. Leave it in the middle of the corridor and it will be in the guests' way.{PAGE}
+I'm counting on you.
+
+[05.028]
+"I'm travelling with my husband.
+This is a lovely place. I could stay here forever...{PAGE}
+My husband? He's out for a walk."
+
+[05.029]
+"Oh, it's you, {クレス}. Did you want something?{PAGE}
+Fine weather out there.
+But some strange clouds have been gathering in the west. Looks like rain, maybe."
+
+[05.030]
+"Oh, {チェスター}. Is your sister well? Here, take this with you."{PAGE}
+{COLOR:03}Received an Apple.{COLOR:02}
+
+[05.031]
+Hired hand
+"Damn that slave-driving old man. It's not as if we have any customers."{PAGE}
+Owner
+"Did you say something!? Put your back into it!"{PAGE}
+Hired hand
+"Y-yes, sir!"
+
+[05.032]
+"At last I have become a pupil of Master Albane...{PAGE}
+Under him I shall polish my swordsmanship further!"
+
+[05.033]
+"Hello. You must be {クレス}, Master Albane's son.{PAGE}
+I'd very much like to cross swords with you one day."
+
+[05.034]
+{チェスター}
+"Ami, here."{PAGE}
+Ami
+"You got another apple from the old man at the general store, didn't you?
+Mm, it's good♥"
+
+[05.035]
+Ami
+"Oh, hello, {クレス}. You're going hunting, aren't you? Bring back a really big one.
+And big brother, don't you go slowing {クレス} down!"{PAGE}
+{チェスター}
+"I don't need you to tell me that."
+
+[05.036]
+Ami
+"See you later. Be careful."
+
+[05.037]
+"Hmm, just what you'd expect of a village with a sword master. They stock fine weapons."
+
+[05.038]
+Priest
+"Ah, {クレス}. Is something troubling you?"{PAGE}
+{クレス}
+"No, it's nothing like that..."{PAGE}
+Priest
+"We shall be holding a wedding here before long. Might I ask you to help?"{PAGE}
+{クレス}
+"Yes, of course."{PAGE}
+Priest
+"Thank you. This church is named after Lenios, the founder of Toltus.
+I hope to hold a wedding worthy of our great founder's name."
+
+[05.039]
+Priest
+"To live with nature, as people are meant to be: that is the teaching of Martel, goddess of the earth."
+
+[05.040]
+"Hah!"
+
+[05.041]
+"Hyah!"
+
+[05.042]
+{SPEED:01}"How long{SPEED:1B},{SPEED:01} are we{SPEED:1B},{SPEED:01} going to{SPEED:1B},{SPEED:01} keep this up?"{SPEED:FF}
+
+[05.043]
+"I wish practice would end soon..."
+
+[05.044]
+{クレス}
+"Hello, Master Tristan."{PAGE}
+Tristan
+"Ah, {クレス}. Keeping up your training? You must become a swordsman who surpasses your father."
+
+[05.045]
+{クレス}
+"Father, did you call me?"{PAGE}
+Miguel, {クレス}'s father
+"I did. How is your mother's cold?"{PAGE}
+{クレス}
+"Her fever seems to have gone down. She'll be fine. So, what did you want to talk about?"{PAGE}
+Miguel
+"The pendant I gave you."{PAGE}
+{クレス}
+"The pendant? Oh, the one I got for my fifteenth birthday... What about it?"
+
+[05.046]
+Miguel
+"That voice is {チェスター}'s."{PAGE}
+{クレス}
+"Oh, sorry, Father. I promised to meet {チェスター}."{PAGE}
+Miguel
+"All right. We'll talk about the pendant at dinner."{PAGE}
+{クレス}
+"Yes."{PAGE}
+
+
+[05.047]
+Master Tristan, please make yourself at home.
+

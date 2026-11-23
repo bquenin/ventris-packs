@@ -1,0 +1,302 @@
+[06314.001]
+Dunamis Orphanage
+
+[06314.002]
+Dunamis Orphanage
+
+[06314.004]
+I'm home, Mom. Sorry I'm late...
+
+[06314.006]
+U-um, listen. Actually, there's something I want to talk about...
+
+[06314.007]
+Rutee
+
+[06314.008]
+...
+......
+
+[06314.010]
+M-Mom...?
+
+[06314.011]
+Rutee
+
+[06314.012]
+...
+......
+
+[06314.014]
+Listen, Mom. There's something I want to tell you!
+
+[06314.016]
+...!
+
+[06314.017]
+Rutee
+
+[06314.018]
+What time do you think it is!
+
+[06314.019]
+Rutee
+
+[06314.020]
+I told you you're far too young for adventures... Everyone was worried!
+
+[06314.022]
+I know it was wrong to go off to the ruins without telling you. But because I did, I understand now.
+
+[06314.024]
+Mom! I'm going with {NAME:03 00 00 00}...
+
+[06314.025]
+Rutee
+
+[06314.026]
+That's enough! Go to bed for today!
+
+[06314.028]
+No! Listen to me properly, Mom!
+
+[06314.029]
+Rutee
+
+[06314.030]
+That is enough!!
+
+[06314.031]
+Rutee
+
+[06314.032]
+...!
+
+[06314.034]
+...I want to be like Dad! A great hero like Dad!! So...!!
+
+[06314.035]
+Rutee
+
+[06314.036]
+...
+
+[06314.038]
+Mom...
+
+[06314.040]
+You all right, {NAME:01 00 00 00}?
+
+[06314.042]
+...Yeah.
+
+[06314.044]
+Today was just a bad day for it. Let's talk to her again tomorrow.
+
+[06314.046]
+Hey, don't worry. Talk it through properly and she'll understand how serious you are.
+
+[06314.048]
+...Yeah.
+
+[06314.050]
+Get to bed for today. A lot's happened, and you must be tired.
+
+[06314.052]
+What are you doing, {NAME:01 00 00 00}? You're going to talk to Rutee, aren't you?
+
+[06314.053]
+Rutee
+
+[06314.054]
+...And then, when his wife let out a yell, he upended the sack of flour, and he was pure white from the top of his head to the tips of his toes!
+
+[06314.055]
+Rutee
+
+[06314.056]
+Oh, it was so funny, so funny...
+
+[06314.057]
+Stahn
+
+[06314.058]
+That's Gazelle all over. Ahahaha!
+
+[06314.060]
+........
+................
+
+[06314.062]
+Dad, Mom, have you got a moment? There's something I want to talk about.
+
+[06314.063]
+Rutee
+
+[06314.064]
+What's this? So formal all of a sudden.
+
+[06314.066]
+I think I'm really happy, you know. Surrounded by Dad and Mom and the little ones, getting to enjoy every day.
+
+[06314.067]
+Rutee
+
+[06314.068]
+...And?
+
+[06314.070]
+I know that, so I know it's selfish of me to say this, but...
+
+[06314.072]
+I want to go on a journey. To see the wide world on my own two feet...
+
+[06314.073]
+Rutee
+
+[06314.074]
+A journey!?
+
+[06314.075]
+Rutee
+
+[06314.076]
+What are you saying! You're far too young!
+
+[06314.078]
+No I'm not.
+
+[06314.080]
+You were already a full-fledged Lens hunter when you were my age, weren't you, Mom?
+
+[06314.082]
+And I've got Dad's blood in me too.
+
+[06314.083]
+Rutee
+
+[06314.084]
+That's exactly why I'm worried.
+
+[06314.085]
+Rutee
+
+[06314.086]
+Anyway, no means no! And you, don't just sit there, say something!
+
+[06314.087]
+Stahn
+
+[06314.088]
+........
+................
+
+[06314.090]
+It's no use trying to stop me. The truth is, I'm already packed and ready.
+
+[06314.092]
+If you say no, I'll just walk out as I am.
+
+[06314.093]
+Rutee
+
+[06314.094]
+{NAME:01 00 00 00}, you...
+
+[06314.095]
+Stahn
+
+[06314.096]
+I've no intention of stopping you. Go, if you want to.
+
+[06314.097]
+Rutee
+
+[06314.098]
+Hold on, Stahn!
+
+[06314.100]
+Dad...!
+
+[06314.101]
+Stahn
+
+[06314.102]
+On one condition, though.
+
+[06314.103]
+Stahn
+
+[06314.104]
+On that journey, just one will do: find the thing that is irreplaceable to you, and bring it back.
+
+[06314.106]
+Something irreplaceable...
+
+[06314.107]
+Stahn
+
+[06314.108]
+If you can do that, I'll see you off without a word.
+
+[06314.110]
+I understand... Thank you, Dad.
+
+[06314.111]
+Rutee
+
+[06314.112]
+Oh, honestly, how silly. Now I'm the only one who looks like a nasty woman.
+
+[06314.113]
+Rutee
+
+[06314.114]
+...All right. If Stahn says so, I won't stand in your way either.
+
+[06314.115]
+Rutee
+
+[06314.116]
+Take care out there, {NAME:01 00 00 00}...
+
+[06314.118]
+Thank you, Mom.
+
+[06314.119]
+Have a safe journey.
+
+[06314.120]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06314.121]
+Will you stay the night?
+
+[06314.123]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06314.124]
+Please rest well.
+
+[06314.125]
+Good morning.
+
+[06314.126]
+You do not have enough money.
+
+[06314.127]
+We look forward to seeing you again.
+
+[06314.132]
+Obtained {16:25 D2}.
+
+[06314.134]
+Obtained {08:FF FF FF FF}.
+
+[06314.136]
+Found {16:25 DA}, but you can carry no more.
+
+[06314.138]
+There is nothing here.
+

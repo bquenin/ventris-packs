@@ -1,0 +1,33 @@
+[00988.001]
+...up...... wake...... up......... wake...... up...
+
+[00988.002]
+............M-mmm...
+
+[00988.003]
+...Wake up... {NAME:01 00 00 00}, wake up!
+
+[00988.004]
+...{NAME:02 00 00 00}...?
+
+[00988.005]
+Are you awake, {NAME:01 00 00 00}?
+
+[00988.006]
+...Huh? Where is this? Wait, that's right! Where's Elraine!?
+
+[00988.007]
+She's gone... No, perhaps it is truer to say that we are the ones who are gone.
+
+[00988.008]
+We're the ones who are gone...? Huh? Where are {NAME:03 00 00 00} and the others?
+
+[00988.009]
+...I think they were probably flung somewhere different from us.
+
+[00988.010]
+Flung... by Elraine!? We can't just stand here! We've got to find {NAME:03 00 00 00} and the others!
+
+[00988.011]
+Y-yes... right...
+

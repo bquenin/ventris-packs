@@ -1,0 +1,412 @@
+[06497.001]
+Hope Town: {NAME:05 00 00 00}'s House
+
+[06497.002]
+Hope Town
+
+[06497.003]
+{NAME:05 00 00 00}'s House
+
+[06497.004]
+{NAME:05 00 00 00}'s House
+
+[06497.005]
+{NAME:05 00 00 00}'s House
+
+[06497.006]
+House
+
+[06497.008]
+The pelt of a bear... or something like one.
+
+[06497.010]
+The pelt of a bear... or something like one.
+
+[06497.012]
+The pelt of a bear... or something like one.
+
+[06497.014]
+Dishes that are little better than scrap are lined up. In Hope Town nothing must go to waste.
+
+[06497.015]
+Lou
+
+[06497.016]
+It hurts... big sis {NAME:05 00 00 00}...
+
+[06497.017]
+Lou
+
+[06497.018]
+Zzz, zzz...
+
+[06497.020]
+A bed...
+
+[06497.022]
+{NAME:05 00 00 00}'s bed...
+
+[06497.024]
+{NAME:05 00 00 00}'s bed...
+
+[06497.026]
+Modest furniture.
+
+[06497.028]
+Modest furniture.
+
+[06497.030]
+Obtained {08:05 00 00 00}.
+
+[06497.032]
+There is nothing.
+
+[06497.033]
+Dream
+
+[06497.034]
+Frontier
+
+[06497.035]
+True
+
+[06497.037]
+Wait there a moment. I'll whip it up in no time.
+
+[06497.039]
+Well then, let's eeeat!
+
+[06497.041]
+I-it's delicious! Did you really make all of this, {NAME:05 00 00 00}?
+
+[06497.043]
+Of course I did. Believe it or not, I'm good at cooking.
+
+[06497.045]
+Well, everybody's got at least one thing they're good at.
+
+[06497.047]
+...{NAME:03 00 00 00}, no meal for you after all.
+
+[06497.049]
+Good at cooking, good with a bow, and stronger in the arm than any man! Ah, Miss {NAME:05 00 00 00}, you're the best!
+
+[06497.051]
+You can leave out the arm!
+
+[06497.053]
+But it really is delicious! This soup especially is the best! Right, {NAME:02 00 00 00}?
+
+[06497.055]
+...{NAME:02 00 00 00}?
+
+[06497.057]
+Huh? Wh-what?
+
+[06497.059]
+You haven't eaten much. Wasn't it to your taste?
+
+[06497.061]
+Oh, no, not at all... Yes, it's delicious!
+
+[06497.063]
+That's all right, then...
+
+[06497.065]
+Being absorbed in the meal is all very well, but have we not left the essential matter undiscussed?
+
+[06497.067]
+The essential matter?
+
+[06497.069]
+The past... that is, the way back to the era we were in. {NAME:02 00 00 00}, do you have some means?
+
+[06497.071]
+Ah, yes. About that...
+
+[06497.073]
+So in short: we can get back to the past all right, but there's not enough Lens power?
+
+[06497.075]
+Yes. For me alone it would be one thing, but going to the past together with everyone...
+
+[06497.077]
+Then I've got an idea. I've heard there's a giant Lens in a town called Calviola, up ahead.
+
+[06497.079]
+Calviola... there should be a temple of the Order of Atamoni there, if I remember right.
+
+[06497.081]
+But it may not be the Calviola you know.
+
+[06497.083]
+They say it prospered well enough once, but now there are only clerics there guarding the god.
+
+[06497.085]
+About that... I still can't believe it. That there's a real god in this world.
+
+[06497.087]
+You people came from about ten years ago, wasn't it?
+
+[06497.089]
+They say it was right around then that the god descended.
+
+[06497.091]
+In our time there wasn't so much as a rumor of it...
+
+[06497.093]
+Calviola...
+
+[06497.095]
+What's wrong, {NAME:02 00 00 00}? Is something the matter with it?
+
+[06497.097]
+N-no, it's nothing.
+
+[06497.099]
+Yes... if we are to return to the past, I think we should head for Calviola.
+
+[06497.101]
+Right, anyway, let's go to Calviola! To get back to our own time!
+
+[06497.103]
+{NAME:05 00 00 00} earned the title "{08:1D 08 00 00}".
+
+[06497.104]
+Phew~. Fetching the water was hard work.
+
+[06497.106]
+Thanks. You're always such a help.
+
+[06497.107]
+I can't hunt like {NAME:05 00 00 00} and the boys, but fetching water and cooking I can do.
+
+[06497.108]
+I hate tomatoes. Please eat them for me~.
+
+[06497.110]
+Ahaha. There's plenty, so just eat what you like.
+
+[06497.111]
+Where's {NAME:05 00 00 00} gone? I wanted her to eat the tomatoes I hate so much~.
+
+[06497.112]
+Hey, hey, you eat some too, misters.
+
+[06497.113]
+{NAME:05 00 00 00}, I'd like you to teach me how to make other dishes.
+
+[06497.115]
+Sure. I'll teach you properly next time I'm back...
+
+[06497.116]
+I can't hunt or anything, but I want to learn to cook like {NAME:05 00 00 00}.
+
+[06497.117]
+I can't hunt like {NAME:05 00 00 00} and the boys, but fetching water and cooking I can do.
+
+[06497.119]
+Mister! Did you find a way to cure Lou!?
+
+[06497.121]
+Mm... well, we're nearly there... Never mind, don't worry and wait.
+
+[06497.123]
+It's all right! This time I'll protect Lou!!
+
+[06497.125]
+{NAME:03 00 00 00}, really, thank you!
+
+[06497.127]
+Lou... my little brother... has caught an illness...
+
+[06497.129]
+I had the people of the Order of Atamoni look at him too, but... they say short of a miracle he can't be saved...
+
+[06497.131]
+But I won't have it, I won't have that... so I looked for a way to cure the illness!
+
+[06497.133]
+I looked and looked and looked... but I can't find one anywhere!!
+
+[06497.135]
+Lou is suffering so much and there's nothing I can do for him... I don't know what to do!!
+
+[06497.137]
+It's all right...
+
+[06497.139]
+What's all right! It's not all right at all!!
+
+[06497.141]
+It is all right... as long as you leave it to us!
+
+[06497.143]
+Are you doctors, misters!?
+
+[06497.145]
+Well, something like that... We'll do something about it, so wait a while!
+
+[06497.147]
+{NAME:03 00 00 00}... Is it all right to make a promise like that!?
+
+[06497.149]
+Shut up... I just couldn't leave her like that... You think so too, don't you!
+
+[06497.151]
+Yeah! I think we absolutely should help! ...But what on earth can we do...
+
+[06497.153]
+Well, you know... Philia's sure to know something!
+
+[06497.155]
+Philia... Then first we have to go to the Great Temple of Straylize.
+
+[06497.157]
+One of the Four Heroes, who is said to be at the Great Temple of Straylize, should know a good deal about treating illness.
+
+[06497.159]
+She is said to have fought alongside Stahn and Rutee. She will surely help us.
+
+[06497.161]
+Mister! Did you find a way to cure Lou!?
+
+[06497.163]
+Yeah! Only... they say that when the patient takes this medicine, the body's functions are lowered for a time.
+
+[06497.165]
+And during that time someone has to nurse the patient for several days without sleep, so the condition doesn't take a sudden turn...
+
+[06497.167]
+I'll do it!
+
+[06497.169]
+Huh?
+
+[06497.171]
+You did your best for us, misters, so now it's my turn!
+
+[06497.173]
+Gave the secret medicine of Berselia to {NAME:05 00 00 00}.
+
+[06497.175]
+Shall we take turns helping you?
+
+[06497.177]
+It's all right! This time I'll protect Lou!!
+
+[06497.179]
+I've given him the medicine! From here on I'll protect this child myself!!
+
+[06497.181]
+Don't push yourself too hard...
+
+[06497.183]
+If I don't push myself, he won't get better, will he?
+
+[06497.185]
+Lou's fever... is so high...
+
+[06497.187]
+Even when I put a wet towel on his head, it dries right away...
+
+[06497.189]
+It's all right... That's a sign he'll soon be better, so don't worry!
+
+[06497.191]
+Lou... it's all right... Your sister's... right here with you...
+
+[06497.193]
+When you're... better, your sister... will play with you... So... so you have to hang on...
+
+[06497.195]
+That's it! Hang on! Just a little longer!!
+
+[06497.197]
+Thank you, misters! It really looks like Lou's illness is cured!
+
+[06497.199]
+I told you so. That was a magic medicine.
+
+[06497.201]
+Are you a wizard, mister?
+
+[06497.203]
+...Now listen.
+
+[06497.205]
+It doesn't really matter, but could you stop calling me "mister"?
+
+[06497.207]
+Somehow, when you say it, it tickles in a funny way, or... it throws me off, I don't know why...
+
+[06497.209]
+Then what should I call you?
+
+[06497.211]
+{NAME:03 00 00 00}... just the name will do.
+
+[06497.213]
+Then call me {NAME:05 00 00 00} too.
+
+[06497.215]
+All right. Got it, {NAME:05 00 00 00}.
+
+[06497.217]
+I've got it too, {NAME:03 00 00 00}.
+
+[06497.219]
+Heh heh. Yeah, this way sits better...
+
+[06497.220]
+Lou
+
+[06497.221]
+Thank you, mister. I'm all better~.
+
+[06497.223]
+The party now has five members. The top four on the main menu take part in battle.
+
+[06497.225]
+Put the cursor on a character and press the {09:38 00 00 00} button to change the order.
+
+[06497.227]
+The fifth and later members are in reserve, but they gain experience just as the others do.
+
+[06497.228]
+Have a safe journey.
+
+[06497.229]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06497.230]
+Will you stay the night?
+
+[06497.232]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06497.233]
+Please rest well.
+
+[06497.234]
+Good morning.
+
+[06497.235]
+You do not have enough money.
+
+[06497.236]
+We look forward to seeing you again.
+
+[06497.241]
+Obtained {16:25 DA}.
+
+[06497.243]
+Obtained {08:FF FF FF FF}.
+
+[06497.245]
+Found {16:25 E2}, but you can carry no more.
+
+[06497.247]
+There is nothing here.
+

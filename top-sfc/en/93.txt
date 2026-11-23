@@ -1,0 +1,144 @@
+[93.000]
+Temple of the Dwarves
+
+[93.001]
+Moria Mine, floor B{NUM:801F}
+
+[93.002]
+"This is... a spellbook!"{PAGE}
+
+
+[93.003]
+{COLOR:03}{アーチェ} learned {STR:E607}.{COLOR:02}
+
+[93.004]
+"But it's no use my holding on to it. I'll put it back."
+
+[93.005]
+"This is... a spellbook!"{PAGE}
+
+
+[93.006]
+{COLOR:03}{アーチェ} learned {STR:E707}.{COLOR:02}
+
+[93.007]
+"But it's no use my holding on to it. I'll put it back."
+
+[93.008]
+"This is... a book of secret arts!"{PAGE}
+
+
+[93.009]
+{COLOR:03}{クレス} learned Shuusouraizanha.{COLOR:02}
+
+[93.010]
+"Shall I turn back...? I have a feeling I'd never get back here again..."
+
+[93.011]
+"You can see houses up on the sheer cliff, can't you? Those are the old dwellings of the dwarves, they say."
+
+[93.012]
+It reads: "Please press them all."
+
+[93.013]
+It reads: "Emergency exit"
+
+[93.014]
+???
+"Hey, you!"
+
+[93.015]
+???
+"Behind you."
+
+[93.016]
+{クレス}
+"Wh-what are you!?"{PAGE}
+???
+"They call me Gremlin Lair.{PAGE}
+What are you, more like? This is no place for humans."{PAGE}
+{クラース}
+"What manner of thing are you?"{PAGE}
+Gremlin Lair
+"I'm a dweller in the demon world. You can tell by this miasma, can't you?"{PAGE}
+{クレス}
+({クラース}, could this thing be...){PAGE}
+{クラース}
+(With a pact, it might be useful as a summoned beast.){PAGE}
+
+
+[93.017]
+Gremlin Lair
+"What are you whispering about?"{PAGE}
+{クラース}
+"Oh, nothing, nothing. More to the point, are you not hungry?"{PAGE}
+Gremlin Lair
+"Hungry? Are you going to give me something good to eat?"{PAGE}
+{クラース}
+"I am. It is called magic power, and to your kind it is a rare delicacy. Lend us your strength and you may have as much as you like."{PAGE}
+Gremlin Lair
+"All right, all right, I'll do anything! Feed me, quick!"{PAGE}
+{クラース}
+"Now, do not be hasty. First we make a pact. Tell me which ring you like."{PAGE}
+Gremlin Lair
+"A pact? Sounds fishy... Oh well. Let's see... I like that blue one."{PAGE}
+{クラース}
+"The Sapphire."
+
+[93.018]
+{クラース}
+"I now beseech the spirit of the demon world. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[93.019]
+{COLOR:03}{クラース} can now summon Gremlin Lair.{COLOR:02}{PAGE}
+
+
+[93.020]
+{クレス}
+"That went well."{PAGE}
+{クラース}
+"I told no lie."
+
+[93.021]
+{クレス}
+"I thought I heard a strange voice from this hole..."
+
+[93.022]
+{クレス}
+"Wh-what... is this creature!?"{PAGE}
+???
+"This place leads to the demon world. It is no place for you humans. Leave at once."{PAGE}
+{クラース}
+"I-its words are weightier than its face would suggest...{PAGE}
+Are you perhaps a dweller in the demon world?"{PAGE}
+???
+"I am. I am the one called Chameleon."{PAGE}
+{クラース}
+"Our world now lies under the threat of one called Dhaos. Will you not lend us your strength?"{PAGE}
+Chameleon
+"I do not mind, so long as I am paid. But the spell that summons us dwellers in the demon world should have been sealed away long ago. As things stand..."{PAGE}
+{クラース}
+"We have a pact ring. If a new pact is made with it, the ancient seal should be broken."{PAGE}
+Chameleon
+"Very well. Then the Emerald ring."
+
+[93.023]
+{クラース}
+"I now beseech the spirit of the demon world. By the covenant of the ring, let the spirit obey me. My name is {クラース}..."
+
+[93.024]
+{COLOR:03}{クラース} can now summon Chameleon.{COLOR:02}
+
+[93.025]
+{クレス}
+"Th-the Holy Bottle has broken... What is going on?"
+
+[93.026]
+???
+"My name is Wyvern, the guardian of this place.{PAGE}
+Beyond lies the sanctuary of the dwarves. I can let no one pass!!"
+
+[93.027]
+Wyvern
+"C-curse you... To be struck down by the foolish race of men..."
+

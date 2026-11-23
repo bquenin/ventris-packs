@@ -1,0 +1,54 @@
+[06510.001]
+Trash Mountain
+
+[06510.002]
+Trash Mountain
+
+[06510.003]
+Obtained {0B:01 00 00 00}{14:34 88}{0B:00 00 00 00} {16:34 8C}.
+
+[06510.005]
+Found {0B:01 00 00 00}{14:34 90}{0B:00 00 00 00} {16:34 8C}, but you can carry no more. Returned them to the chest.
+
+[06510.007]
+{16:34 8C}: {0B:01 00 00 00}{14:34 90} found, but you cannot carry them all.
+・Take {14:34 88}, discard {14:34 94}{0B:00 00 00 00}
+・Put them back in the chest
+
+[06510.009]
+Have a safe journey.
+
+[06510.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06510.011]
+Will you stay the night?
+
+[06510.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06510.014]
+Please rest well.
+
+[06510.015]
+Good morning.
+
+[06510.016]
+You do not have enough money.
+
+[06510.017]
+We look forward to seeing you again.
+
+[06510.022]
+Obtained {16:26 A6}.
+
+[06510.024]
+Obtained {08:FF FF FF FF}.
+
+[06510.026]
+Found {16:26 AE}, but you can carry no more.
+
+[06510.028]
+There is nothing here.
+

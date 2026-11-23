@@ -1,0 +1,21 @@
+[00878.001]
+Come to think of it, Rutee of the Four Heroes lives at the orphanage where {NAME:01 00 00 00} and {NAME:03 00 00 00} grew up. Sounds interesting.
+
+[00878.002]
+Curious after all? About where that man was born.
+
+[00878.003]
+Wh-who'd care about a lecher like him!
+
+[00878.004]
+I only said "that man". I never once said {NAME:03 00 00 00}.
+
+[00878.005]
+I-I only...! I just thought I'd learn something for our village... I mean... Aah! Honestly! You make me so mad!!
+
+[00878.006]
+Ow! That hurt, you! Don't go hitting people out of nowhere!
+
+[00878.007]
+Quiet! It's all your fault!
+

@@ -1,0 +1,18 @@
+[00678.001]
+Right, you heard. Next is the control room.
+
+[00678.002]
+Hey, {NAME:06 00 00 00}. You said you'd "take over the controls of Dycroft". Have you ever handled the Heavenly Army's systems?
+
+[00678.003]
+Nope. Never touched them, never even seen them.
+
+[00678.004]
+Never seen them...? Will it be all right?
+
+[00678.005]
+Oh, it'll work out. Come on, let's go. I can't wait to see what system they use~♪
+
+[00678.006]
+I-I'm getting dizzy...
+

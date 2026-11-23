@@ -1,0 +1,464 @@
+[06627.001]
+Catacombs: Stairway to Birth
+
+[06627.002]
+Catacombs
+
+[06627.003]
+Stairway to Birth
+
+[06627.004]
+Gaap
+
+[06627.005]
+Never trying to grasp that great one's lofty ideal, defying her, hindering her time and again, and at the last plotting to do her harm...
+
+[06627.006]
+Gaap
+
+[06627.007]
+You no longer have any need of salvation. Though Lady Elraine forgive you, I will not.
+
+[06627.009]
+Hah! Your salvation? We wouldn't take it if you begged us!
+
+[06627.011]
+If you get in our way, we'll move you by force!
+
+[06627.012]
+Gaap
+
+[06627.013]
+There is no need to trouble Lady Elraine's own hand. I shall end it all here and now.
+
+[06627.015]
+That's far enough!!
+
+[06627.017]
+What are you plotting this time! What do you mean to do to our age! Answer me, Elraine!
+
+[06627.018]
+Elraine
+
+[06627.019]
+It is you... But the hour is already past. The arrow is about to be loosed.
+
+[06627.021]
+Loose an arrow...? What do you mean!
+
+[06627.022]
+Elraine
+
+[06627.023]
+The arrow of light that pierced this star a thousand years ago. That radiance, now once more...!
+
+[06627.025]
+Whoa, th-this is...
+
+[06627.027]
+What on earth is she trying to do!?
+
+[06627.029]
+A thousand years ago, an arrow of light...
+
+[06627.031]
+...I see, so that's it. She does speak in a god's name, I'll give her that. She does things on a grand scale.
+
+[06627.033]
+Don't just nod to yourself. Explain, {NAME:06 00 00 00}!
+
+[06627.035]
+Do you know what happened in the world a thousand years ago?
+
+[06627.037]
+Of course. The War of Heaven and Earth, right?
+
+[06627.039]
+A little before that. What set it off, why the War of Heaven and Earth came about at all.
+
+[06627.041]
+What set off... the War of Heaven and Earth?
+
+[06627.043]
+The War of Heaven and Earth began with a plan to abandon the wasted land and raise cities into the sky.
+
+[06627.045]
+The privileged who went aboard those risen cities ruled the surface by overwhelming force of arms.
+
+[06627.047]
+The people of the surface rose in revolt against that, and the War of Heaven and Earth began...
+
+[06627.049]
+I get the part about the war. But what's that got to do with these Lenses...?
+
+[06627.051]
+Hear me out to the end!
+
+[06627.053]
+Why did the cities have to be raised in the first place? Why was the land so wasted?
+
+[06627.055]
+The comet strike.
+
+[06627.057]
+Yes. About a thousand years ago, when a huge comet struck this star, more than half of mankind died in an instant.
+
+[06627.059]
+The dust thrown up by the blow shut out the light of the sun entirely, and the surface became a land of bitter cold.
+
+[06627.061]
+So they floated the cities themselves, higher still than the dust that covered the sky.
+
+[06627.063]
+Using the unknown power the comet brought. Lenses.
+
+[06627.065]
+So I'm asking, what has that got to do with these Lenses!?
+
+[06627.067]
+Still don't see? Elraine is trying to make that tragedy happen all over again.
+
+[06627.069]
+The strike of the giant comet that drove mankind to the very edge of dying out...
+
+[06627.071]
+So that's what wiping out the world meant. But why now, after all this...!?
+
+[06627.072]
+Elraine
+
+[06627.073]
+To save you.
+
+[06627.074]
+Elraine
+
+[06627.075]
+And not you alone. To save all of this world, I destroy all of it.
+
+[06627.077]
+That logic has plainly broken down. Destroy in order to save? There is no such thing.
+
+[06627.078]
+Elraine
+
+[06627.079]
+I am not mistaken!
+
+[06627.080]
+Elraine
+
+[06627.081]
+If God descends in perfect form... the absolute happiness of all mankind can be brought about.
+
+[06627.082]
+Elraine
+
+[06627.083]
+To achieve it, I altered history. But every attempt came to nothing. ...By your hands!
+
+[06627.085]
+................
+................
+
+[06627.086]
+Elraine
+
+[06627.087]
+And so I take the last resort. To bring down upon the earth the giant comet, which may be called the egg of God.
+
+[06627.088]
+Elraine
+
+[06627.089]
+With the tremendous energy born when two heavenly bodies collide, the descent of God becomes real.
+
+[06627.090]
+Elraine
+
+[06627.091]
+Yes, of the perfect God...!
+
+[06627.093]
+Wait, Elraine!
+
+[06627.095]
+Destroying everything to save everything. If such a thing is allowed...
+
+[06627.097]
+Then what are we! To God, what on earth are we humans!
+
+[06627.098]
+Elraine
+
+[06627.099]
+Frail, pitiable, beloved beings who are to be saved by God. No more and no less.
+
+[06627.101]
+Don't mock us!!
+
+[06627.103]
+I've seen it with my own eyes all this time. The strength of the people who built history!
+
+[06627.105]
+The history that piles up as the proof that people lived!
+
+[06627.107]
+I won't let anyone wipe that out!
+
+[06627.108]
+Elraine
+
+[06627.109]
+There is no cause for worry.
+
+[06627.110]
+Elraine
+
+[06627.111]
+Though every one of you die, if only the perfect God descends, a new mankind can be brought forth.
+
+[06627.112]
+Elraine
+
+[06627.113]
+And the new mankind can have perfect happiness in a perfect world.
+
+[06627.114]
+Elraine
+
+[06627.115]
+Now is the time, for mankind's own sake, to put everything back to the beginning.
+
+[06627.117]
+Destroying history is for people's sake...!? Don't make me laugh!!
+
+[06627.118]
+Elraine
+
+[06627.119]
+Foolish... Do you still not understand?
+
+[06627.120]
+Elraine
+
+[06627.121]
+Only by the power of God can people escape every unhappiness and gain absolute happiness.
+
+[06627.122]
+Elraine
+
+[06627.123]
+Why will you not admit that truth?
+
+[06627.125]
+There's no such thing as absolute happiness in this world!
+
+[06627.127]
+It's because there's pain and sorrow that people wish to be happy! And try to take hold of it by their own strength!
+
+[06627.129]
+True happiness is in the days you live searching for it. That's how people build history!
+
+[06627.130]
+Elraine
+
+[06627.131]
+...It seems there is no use in talking further.
+
+[06627.132]
+Elraine
+
+[06627.133]
+The arrow is already about to be loosed. You cannot stop it.
+
+[06627.135]
+We can! We'll beat you and stop the strike!
+
+[06627.136]
+Elraine
+
+[06627.137]
+To strike down the me who stands here now would mean nothing.
+
+[06627.138]
+Elraine
+
+[06627.139]
+I am one born of God. I am born again as often as need be, and I will build the perfect world.
+
+[06627.141]
+Then... we'll kill the god!
+
+[06627.143]
+And make sure you're never born again!
+
+[06627.144]
+Elraine
+
+[06627.145]
+Kill God...
+
+[06627.146]
+Elraine
+
+[06627.147]
+So you could not tell him the truth after all, {NAME:02 00 00 00}...
+
+[06627.149]
+...The truth!?
+
+[06627.151]
+................
+................
+
+[06627.152]
+Elraine
+
+[06627.153]
+Then I shall tell him in your place. {NAME:02 00 00 00} and I...
+
+[06627.155]
+Stop it, Elraine!!
+
+[06627.156]
+Elraine
+
+[06627.157]
+{NAME:02 00 00 00} and I are God...
+
+[06627.159]
+{NAME:02 00 00 00} is... God!?
+
+[06627.160]
+Elraine
+
+[06627.161]
+So if you kill God, then with me... {NAME:02 00 00 00} dies too.
+
+[06627.163]
+I-it's a lie!! {NAME:02 00 00 00}, a god... That can't be!
+
+[06627.165]
+Don't be fooled, {NAME:01 00 00 00}! It's rubbish, it has to be rubbish!
+
+[06627.166]
+Elraine
+
+[06627.167]
+Believe it or not, as you choose. But there is one truth.
+
+[06627.169]
+It's a lie, isn't it, {NAME:02 00 00 00}? You, a god!? Elraine's just making it up, right!!
+
+[06627.171]
+................
+................
+
+[06627.173]
+Please, tell me it's a lie.
+
+[06627.175]
+No... The two Saints were brought forth by God. You might say we are God in human form...
+
+[06627.177]
+When God ceases to be, Elraine and I will also...
+
+[06627.179]
+......N-no...!
+
+[06627.180]
+Elraine
+
+[06627.181]
+Yes. After all, you cannot kill God.
+
+[06627.182]
+Elraine
+
+[06627.183]
+If you understand that, go home. And choose with your own hands the place where you will meet the hour of judgment.
+
+[06627.184]
+Elraine
+
+[06627.185]
+That is the last happiness given to you.
+
+[06627.187]
+Hold it right there, Elraine!
+
+[06627.189]
+You're not getting away!
+
+[06627.191]
+Nowaah!
+
+[06627.193]
+Uwaah!
+
+[06627.195]
+{NAME:01 00 00 00}... ...I'm sorry. For not being able to tell you until now.
+
+[06627.197]
+...But {NAME:01 00 00 00}, there is no other way. Unless God is killed, this world...
+
+[06627.199]
+...Stop. I don't want to hear anything right now.
+
+[06627.201]
+{NAME:01 00 00 00}...
+
+[06627.203]
+I don't know... what I should do from here.
+
+[06627.205]
+I don't know... I don't know anything!
+
+[06627.207]
+We will get nowhere staying here. In any case, let us go back...
+
+[06627.209]
+................
+................
+
+[06627.211]
+{NAME:02 00 00 00} earned the title "{08:2D 08 00 00}".
+
+[06627.212]
+Have a safe journey.
+
+[06627.213]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06627.214]
+Will you stay the night?
+
+[06627.216]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06627.217]
+Please rest well.
+
+[06627.218]
+Good morning.
+
+[06627.219]
+You do not have enough money.
+
+[06627.220]
+We look forward to seeing you again.
+
+[06627.225]
+Obtained {16:28 86 09}.
+
+[06627.227]
+Obtained {08:FF FF FF FF}.
+
+[06627.229]
+Found {16:28 8E 09}, but you can carry no more.
+
+[06627.231]
+There is nothing here.
+

@@ -1,0 +1,118 @@
+[06430.001]
+Snowfria: General Store
+
+[06430.002]
+Snowfria: General Store
+
+[06430.003]
+General Store
+
+[06430.004]
+Sailor
+
+[06430.005]
+For a fellow from Calvalese like me, the cold here is too harsh, it is.
+
+[06430.007]
+Calvalese...?
+
+[06430.009]
+The name of the second continent, far to the northwest of here. A harsh land where most of the ground is desert.
+
+[06430.010]
+Sailor
+
+[06430.011]
+Being in this land makes me miss the hellish heat of Calvalese, strange to say, it does.
+
+[06430.012]
+Sailor
+
+[06430.013]
+I-it's cold, it is. I think I've caught a cold, I have.
+
+[06430.014]
+Sailor
+
+[06430.015]
+Does it mean a fellow raised in Calvalese shouldn't come to a place like Snowfria?
+
+[06430.017]
+Dressed that lightly, of course you'd catch a cold...
+
+[06430.018]
+Sailor
+
+[06430.019]
+You lot dress lightly anytime, anywhere, whatever the weather, though...
+
+[06430.021]
+You're not supposed to say that...
+
+[06430.022]
+Sailor
+
+[06430.023]
+For a fellow from Calvalese like me, the cold here is too harsh, it is.
+
+[06430.024]
+Sailor
+
+[06430.025]
+I've seen enough snow, I have. I miss the desert back home, I do.
+
+[06430.026]
+General Store
+
+[06430.027]
+Welcome! Care for a snow-country souvenir?
+
+[06430.028]
+Thanks.
+
+[06430.029]
+See you!
+
+[06430.030]
+General Store
+
+[06430.032]
+A poster for advertising. "Bows made to order. If you need one, come to Chelsea Torn's house, northwest of Heidelberg."
+
+[06430.033]
+Have a safe journey.
+
+[06430.034]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06430.035]
+Will you stay the night?
+
+[06430.037]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06430.038]
+Please rest well.
+
+[06430.039]
+Good morning.
+
+[06430.040]
+You do not have enough money.
+
+[06430.041]
+We look forward to seeing you again.
+
+[06430.046]
+Obtained {16:25 BA}.
+
+[06430.048]
+Obtained {08:FF FF FF FF}.
+
+[06430.050]
+Found {16:25 C2}, but you can carry no more.
+
+[06430.052]
+There is nothing here.
+

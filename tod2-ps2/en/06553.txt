@@ -1,0 +1,259 @@
+[06553.001]
+Realta, the Twilight City
+
+[06553.002]
+Realta, the Twilight City
+
+[06553.004]
+Not here...?
+
+[06553.006]
+Above us, {NAME:01 00 00 00}!
+
+[06553.008]
+To the devout, the blessing of God...!
+
+[06553.009]
+Townsperson
+
+[06553.010]
+Ohh... the power...!
+
+[06553.011]
+Townsperson
+
+[06553.012]
+Bless you, bless you...
+
+[06553.014]
+What was that just now...!?
+
+[06553.016]
+Most likely that is how she gives power to the people's Lenses, from Dycroft.
+
+[06553.018]
+Looking down from the sky and handing out power... Hah! Playing god, is she?
+
+[06553.020]
+Wait... Of course, there is that way!
+
+[06553.022]
+What is it, {NAME:04 00 00 00}?
+
+[06553.024]
+Lenses for traveling through time? There are heaps of them up there.
+
+[06553.026]
+What is being beamed down is the power of Lenses. Which means there must be a great many Lenses in Dycroft.
+
+[06553.028]
+I get it! We go and use those Lenses ourselves!
+
+[06553.030]
+Then while we're at it, let's take Elraine down a peg! I won't feel right till I've given her one good punch!
+
+[06553.032]
+All right, that settles it! So then...
+
+[06553.034]
+Hey, Elraine's up there, isn't she!?
+
+[06553.035]
+Townsperson
+
+[06553.036]
+Ah, that's right. She always watches over us from that castle.
+
+[06553.038]
+Say, how do you get up there!?
+
+[06553.039]
+Townsperson
+
+[06553.040]
+You go through the Shrine of Light. Didn't you know?
+
+[06553.042]
+The Shrine of Light?
+
+[06553.043]
+Townsperson
+
+[06553.044]
+It is the holy shrine that is said to join this earth to Dycroft.
+
+[06553.046]
+So if we go there, we can get to Dycroft?
+
+[06553.047]
+Townsperson
+
+[06553.048]
+Hahaha, it is not so simple. Only those with the proper standing can go to Dycroft.
+
+[06553.049]
+Townsperson
+
+[06553.050]
+And the Shrine of Light is the place where that is tested.
+
+[06553.051]
+Townsperson
+
+[06553.052]
+But I should like to go there too one day. For that I must live each day to the full, and better myself.
+
+[06553.054]
+Those with the proper standing, huh... I wonder if we've got it?
+
+[06553.056]
+Whether we have or not doesn't matter. We're boarding Dycroft all the same! Let's go, to the Shrine of Light!
+
+[06553.058]
+A strange mood hangs over the square.
+
+[06553.059]
+Townsperson
+
+[06553.060]
+Where is the Shrine of Light? You get to the Shrine of Light by the mountain path behind this town.
+
+[06553.061]
+Townsperson
+
+[06553.062]
+Once you have climbed the mountain, head northwest.
+
+[06553.063]
+Man
+
+[06553.064]
+To be born, have children and die... It is the most natural thing, isn't it?
+
+[06553.065]
+Man
+
+[06553.066]
+My uncle died just now. His face in death was truly peaceful.
+
+[06553.068]
+...Why are you smiling? Aren't you sad?
+
+[06553.069]
+Man
+
+[06553.070]
+Sad? Why? He finished his task of living, so of course he died.
+
+[06553.071]
+Young Woman
+
+[06553.072]
+Seasons and temperature mean nothing here. We can always live in comfort.
+
+[06553.073]
+I have only heard tell of it, but the world outside is a very cold place, isn't it?
+
+[06553.075]
+I see. Inside a dome, heat and cold don't come into it. That's a dull way to live, somehow.
+
+[06553.077]
+But... nobody dies of the cold, either. That... is a good thing, isn't it?
+
+[06553.078]
+Boy
+
+[06553.079]
+Lady Elraine, thank you for our lives today too.
+
+[06553.080]
+Boy
+
+[06553.081]
+Lady Elraine, thank you for our lives today too.
+
+[06553.083]
+Even a child this small is offering prayers to Elraine...
+
+[06553.085]
+It's the same as Aigrette. From the day they're born it's drilled right into them. How thankful they should be for Lady Elraine.
+
+[06553.086]
+Boy
+
+[06553.087]
+I want to join the Order of Fortuna and go to Lady Elraine's side.
+
+[06553.088]
+Boy
+
+[06553.089]
+I want to join the Order of Fortuna and go to Lady Elraine's side.
+
+[06553.090]
+Boy
+
+[06553.091]
+So I'm going to pray lots and lots, so that Lady Elraine will notice me!
+
+[06553.093]
+Even a child like this has been thoroughly schooled... Truly, how far she takes things is frightening.
+
+[06553.094]
+Boy
+
+[06553.095]
+I want to be one of Lady Elraine's favorites too, like you!
+
+[06553.096]
+Boy
+
+[06553.097]
+You're fine without a Lens. That's amazing!
+
+[06553.099]
+A-am I?
+
+[06553.100]
+Boy
+
+[06553.101]
+You were given a special power by Lady Elraine, weren't you? She must like you a lot!
+
+[06553.102]
+Have a safe journey.
+
+[06553.103]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06553.104]
+Will you stay the night?
+
+[06553.106]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06553.107]
+Please rest well.
+
+[06553.108]
+Good morning.
+
+[06553.109]
+You do not have enough money.
+
+[06553.110]
+We look forward to seeing you again.
+
+[06553.115]
+Obtained {16:27 52}.
+
+[06553.117]
+Obtained {08:FF FF FF FF}.
+
+[06553.119]
+Found {16:27 5A}, but you can carry no more.
+
+[06553.121]
+There is nothing here.
+

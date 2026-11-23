@@ -1,0 +1,307 @@
+[85.000]
+Forest of Ymir on the Mirror Lake
+
+[85.001]
+{クレス}
+"Let's hurry!!"
+
+[85.002]
+White Birch Forest
+
+[85.003]
+{クレス}
+"{アーチェ}! What's happened to {ミント}!?"{PAGE}
+{アーチェ}
+"Eh? Well... um..."{PAGE}
+{クラース}
+"Let us hurry, at any rate!"
+
+[85.004]
+{アーチェ}
+"I'll go and look somewhere else!"
+
+[85.005]
+"More humans come and go these days. The King of Alvanista has made it so that every race but half-elves may enter and leave without a permit. Every race but half-elves."
+
+[85.006]
+"You look like humans.{PAGE}
+If you are going to fight the lizardmen of the forest, you would do better with a spear."
+
+[85.007]
+{COLOR:03}Your items are full. You cannot carry any more.{COLOR:02}
+
+[85.008]
+{COLOR:03}Received the Cordyceps.{COLOR:02}
+
+[85.009]
+{クラース}
+"Hm?"{PAGE}
+
+
+[85.010]
+{ミント}
+"What is it?"{PAGE}
+{クラース}
+"Just now I thought something pink was in the shadow of a tree..."{PAGE}
+{クレス}
+"Isn't it your imagination?"{PAGE}
+{クラース}
+"Ah. Perhaps so."
+
+[85.011]
+{アーチェ}
+"We're leaving this forest, are we? Ahh, that was boring."
+
+[85.012]
+{クラース}
+"This is awkward. The place where Origin is must lie deep in this forest... But we cannot very well take {アーチェ} with us..."{PAGE}
+{クレス}
+"And we can't very well leave her behind either..."{PAGE}
+{アーチェ}
+"It's fine. I'll wait."{PAGE}
+{クラース}
+"You mean it this time?"{PAGE}
+{アーチェ}
+"Probably."
+
+[85.013]
+{クラース}
+"Ah, of course, half-elves may not go beyond here.{PAGE}
+But to leave {アーチェ} behind..."{PAGE}
+{アーチェ}
+"It's fine, I'll wait."{PAGE}
+{クラース}
+"I see. I am sorry."
+
+[85.014]
+Guard
+"Who are you? Beyond here is a region only elves may enter. Leave at once."{PAGE}
+
+
+[85.015]
+{クレス}
+"We have leave. This emblem is the proof."{PAGE}
+Guard
+"That is the crest of the Kingdom of Alvanista, right enough. You may pass!"
+
+[85.016]
+{クレス}
+"Is there really no way?"{PAGE}
+Guard
+
+
+[85.017]
+"No!"
+
+[85.018]
+"Enough!"
+
+[85.019]
+{クレス}
+"We have to save {ミント} and the others!"
+
+[85.020]
+{アーチェ}
+"I-I'll try over there! You go that way, {ミント}!"{PAGE}
+{ミント}
+"Wh-what is the matter, {アーチェ}?"{PAGE}
+
+
+[85.021]
+{ミント}
+"Oh, please wait! I say!!{PAGE}
+She has gone..."
+
+[85.022]
+{クレス}
+"Shall we leave this forest for now?"
+
+[85.023]
+{クレス}
+"Where's {アーチェ}?"{PAGE}
+{ミント}
+"Oh, we must fetch her..."
+
+[85.024]
+{ミント}
+"Oh! It really is here...{PAGE}
+
+
+[85.025]
+I wonder if it bites?"
+
+[85.026]
+{ミント}
+"Um{SPEED:10}...{SPEED:FF}"
+
+[85.027]
+Unicorn
+"I knew that you would come. What is it you wish, pretty young lady?"{PAGE}
+
+
+[85.028]
+{ミント}
+"...Th-thank goodness. You can speak..."
+
+[85.029]
+{ミント}
+"Please hear what I have to say. It is a grave matter that touches the lives of the people and the animals of this world..."
+
+[85.030]
+{ミント}
+"I shall be back."
+
+[85.031]
+{クラース}
+"Is this the forest? Where the white horse with a horn is said to be?"{PAGE}
+{ミント}
+"Probably{SPEED:10}...{SPEED:FF}"
+
+[85.032]
+{クレス}
+"{ミント}, what's the matter?"{PAGE}
+{クラース}
+"Well, {ミント} must have something in mind, but..."{PAGE}
+{クレス}
+"It will only meet women, and only pure maidens at that. What a tiresome horse."{PAGE}
+
+
+[85.033]
+{ミント}
+"It is not a horse. It is a unicorn."{PAGE}
+{クレス}
+"It hardly matters which...{PAGE}
+Anyway, this forest looks safe, so you and {アーチェ} go on, the two of you."{PAGE}
+
+
+[85.034]
+{アーチェ}
+"M-me too? I'd rather not{SPEED:10}...{SPEED:FF}"
+
+[85.035]
+{アーチェ}
+"A-all right, all right. {ミント}, let's go."
+
+[85.036]
+{クラース}
+"{SPEED:10}...{SPEED:FF}Nothing to do."{PAGE}
+{クレス}
+"No."{PAGE}
+{クラース}
+"When those two come back, shall we take a stroll in the forest ourselves?"{PAGE}
+{クレス}
+"Yes, let's."
+
+[85.037]
+{クラース}
+"By the way..."{PAGE}
+{クレス}
+"By the way?"{PAGE}
+{クラース}
+"What do you think of {ミント}, {クレス}?"{PAGE}
+
+
+[85.038]
+{クレス}
+"What do I...? Nothing in particular..."{PAGE}
+
+
+[85.039]
+{クラース}
+"No, never mind..."
+
+[85.040]
+{クレス}
+"What is it?"{PAGE}
+{クラース}
+"An evil presence in the forest...!"{PAGE}
+
+
+[85.041]
+{クレス}
+"What!?"
+
+[85.042]
+{ミント}
+"...And that is how things are."
+
+[85.043]
+{ミント}
+"...Do you doubt me?"
+
+[85.044]
+{ミント}
+"I can say no more than this. But... please believe me!"
+
+[85.045]
+Unicorn
+"Look out!!"{PAGE}
+"MY MASTER'S NAME IS DHAOS. BY HIS COMMAND I HAVE COME TO TAKE YOUR SOUL!"
+
+[85.046]
+{クレス}
+"{ミント}!!"
+
+[85.047]
+{クレス}
+"{ミント}, are you all right!?"{PAGE}
+{ミント}
+"I am all right..."
+
+[85.048]
+{アーチェ}
+"Is everyone all right!?{PAGE}
+What on earth happened?"
+
+[85.049]
+{ミント}
+"Hold on..."
+
+[85.050]
+Unicorn
+"What you told me, I believe it..."{PAGE}
+{ミント}
+"What?"{PAGE}
+Unicorn
+"There is not one shadow in your heart, young lady...{PAGE}
+I shall change my form, and be, your strength..."
+
+[85.051]
+{COLOR:03}Received {STR:570C}.{COLOR:02}{PAGE}
+{クラース}
+"The unicorn is the symbol of the healing arts... With that, Yggdrasil can be brought back to life!"{PAGE}
+
+
+[85.052]
+{ミント}
+"Yes. I feel a holy power from the Unicorn Horn, the holy power of the healing arts."{PAGE}
+{クレス}
+"Right, then let's go to the Forest of Spirits!{PAGE}
+By the way...
+
+[85.053]
+{アーチェ}, what were you doing in a place like that?"{PAGE}
+
+
+[85.054]
+{アーチェ}, where did you go?"{PAGE}
+
+
+[85.055]
+{アーチェ}
+"Eh, oh, um... I-I just thought someone like me wouldn't get to meet the unicorn..."{PAGE}
+{クレス}
+"Huh?"{PAGE}
+
+
+[85.056]
+{アーチェ}
+"I-I had a boyfriend once... and, well..."{PAGE}
+{クレス}
+"?????"{PAGE}
+
+
+[85.057]
+{アーチェ}
+"Oh, sh-shut up! The point is I can't meet the unicorn!! Let's get to the Forest of Spirits!!"
+

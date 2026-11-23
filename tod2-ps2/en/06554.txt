@@ -1,0 +1,173 @@
+[06554.001]
+Realta, the Twilight City: Distribution Point
+
+[06554.002]
+Realta, the Twilight City
+
+[06554.003]
+Distribution Point
+
+[06554.004]
+Townsperson
+
+[06554.005]
+Thank you. Now my mother will surely be called safely to heaven.
+
+[06554.007]
+Hey, are you RE-54609?
+
+[06554.008]
+Townsperson
+
+[06554.009]
+Yes? RE-54609 is certainly my name, but...
+
+[06554.011]
+Good. The thing is, we've got something for you from your father.
+
+[06554.012]
+Townsperson
+
+[06554.013]
+This is my mother's Lens... I see... So my mother has died.
+
+[06554.015]
+Yeah... So that Lens is her keepsake.
+
+[06554.016]
+Townsperson
+
+[06554.017]
+Thank you for coming all this way to deliver it. Um, what is your name?
+
+[06554.019]
+{NAME:01 00 00 00} Dunamis.
+
+[06554.020]
+Townsperson
+
+[06554.021]
+{NAME:01 00 00 00}...? That is a very odd name.
+
+[06554.022]
+Townsperson
+
+[06554.023]
+In any case, thank you. Now my mother will surely be called to heaven.
+
+[06554.024]
+Townsperson
+
+[06554.025]
+Now, let us break the Lens!
+
+[06554.027]
+Wh-what are you doing! That Lens is your mother's keepsake, isn't it!
+
+[06554.028]
+Townsperson
+
+[06554.029]
+The body perishes and returns to the earth... And only when the Lens is returned to heaven with it can the soul of the dead return to nothing.
+
+[06554.030]
+Townsperson
+
+[06554.031]
+That way the Lens is passed on to the next child to be born. It is only natural, isn't it?
+
+[06554.033]
+And doing it by the child's own hand is the custom of this world...
+
+[06554.034]
+Townsperson
+
+[06554.035]
+Thank you. Now my mother will surely be called safely to heaven.
+
+[06554.036]
+Townsperson
+
+[06554.037]
+This is a small token of my thanks. Please take it.
+
+[06554.039]
+Obtained {08:09 00 00 00}.
+
+[06554.041]
+Hey, aren't you sad? Your mother has died...
+
+[06554.042]
+Townsperson
+
+[06554.043]
+Sad? Why should I have to be sad?
+
+[06554.045]
+There really is something wrong with this world...
+
+[06554.046]
+Townsperson
+
+[06554.047]
+Under Lady Elraine's population policy, I was moved from Speranza to Realta.
+
+[06554.048]
+Townsperson
+
+[06554.049]
+I was parted from my family. Since the move I have not seen them once.
+
+[06554.050]
+Shop Machine
+
+[06554.051]
+Welcome. What do you need?
+
+[06554.053]
+{03:00 00 00 00}　Items　
+　Ingredients　
+
+[06554.054]
+Shop Machine
+
+[06554.055]
+Thank you very much.
+
+[06554.056]
+Have a safe journey.
+
+[06554.057]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06554.058]
+Will you stay the night?
+
+[06554.060]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06554.061]
+Please rest well.
+
+[06554.062]
+Good morning.
+
+[06554.063]
+You do not have enough money.
+
+[06554.064]
+We look forward to seeing you again.
+
+[06554.069]
+Obtained {16:25 BA}.
+
+[06554.071]
+Obtained {08:FF FF FF FF}.
+
+[06554.073]
+Found {16:25 C2}, but you can carry no more.
+
+[06554.075]
+There is nothing here.
+

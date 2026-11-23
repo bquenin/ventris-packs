@@ -1,0 +1,322 @@
+[06441.001]
+Heidelberg: House
+
+[06441.002]
+Heidelberg
+
+[06441.003]
+House
+
+[06441.005]
+Heidelberg New Town, tinted with snow, can be seen in one sweep.
+
+[06441.006]
+Housewife
+
+[06441.007]
+Hey, hey! What do you think you're doing!?
+
+[06441.008]
+Housewife
+
+[06441.009]
+My husband works at Heidelberg Castle.
+
+[06441.010]
+Housewife
+
+[06441.011]
+Why, the other day he was over the moon because King Woodrow spoke to him. Hee hee!
+
+[06441.012]
+Housewife
+
+[06441.013]
+At first I was against it, because it's dangerous. You know, with what happened eighteen years ago and all...
+
+[06441.014]
+Housewife
+
+[06441.015]
+But it's peaceful now, and above all castle service seems to suit my husband.
+
+[06441.016]
+Housewife
+
+[06441.017]
+Castle service seems to suit my husband. He goes off to work every day looking truly happy.
+
+[06441.018]
+Housewife
+
+[06441.019]
+Oh, the two of you on a date? It's like seeing my husband and me long ago.
+
+[06441.021]
+Um, well... it's not like that...!
+
+[06441.022]
+Housewife
+
+[06441.023]
+My husband and I often went on dates in this city too.
+
+[06441.024]
+Housewife
+
+[06441.025]
+Sitting on a bench in the park, talking, watching the snow... It really takes me back.
+
+[06441.026]
+Housewife
+
+[06441.027]
+For a date I recommend the park. It's quiet, and the view is lovely.
+
+[06441.028]
+Housewife
+
+[06441.029]
+What was that tremendous noise just now!?
+
+[06441.030]
+Housewife
+
+[06441.031]
+Surely there hasn't been some trouble at the castle!?
+
+[06441.033]
+Something seems to have happened at the castle. It is dangerous, so you had better not leave the house.
+
+[06441.034]
+Housewife
+
+[06441.035]
+The castle!? No... My husband is there!
+
+[06441.036]
+Housewife
+
+[06441.037]
+My husband works at the castle! Whatever shall I do...
+
+[06441.039]
+We'll go and see, so wait here, ma'am!
+
+[06441.040]
+Housewife
+
+[06441.041]
+Oh, my dear... Please, be safe...!
+
+[06441.042]
+Housewife
+
+[06441.043]
+My husband works at the castle. Luckily his injuries were light, but they say his colleagues were badly hurt...
+
+[06441.044]
+Housewife
+
+[06441.045]
+He says he'll be staying at the castle for a while. I only hope nothing more happens...
+
+[06441.046]
+Housewife
+
+[06441.047]
+The seasoning... is about right? I wonder if my husband will like it...
+
+[06441.049]
+Oh, that lunch looks good. A lunch made with a wife's love, eh?
+
+[06441.050]
+Housewife
+
+[06441.051]
+Yes... My husband works at the castle and has been staying there all this time. So I thought, a lunch at least.
+
+[06441.052]
+Housewife
+
+[06441.053]
+Um, if you don't mind, would you have a little taste for me?
+
+[06441.055]
+Let's see... Mm, delicious! With a wife who cooks this well, your husband's a lucky man.
+
+[06441.056]
+Housewife
+
+[06441.057]
+O-oh, no... I only wondered whether there wasn't something I could do too, and so...
+
+[06441.058]
+Housewife
+
+[06441.059]
+There, all ready! Now I only have to deliver it★
+
+[06441.060]
+Housewife
+
+[06441.061]
+My husband works at Heidelberg Castle.
+
+[06441.062]
+Housewife
+
+[06441.063]
+Why, the other day he was over the moon because King Woodrow spoke to him. Hee hee!
+
+[06441.064]
+Housewife
+
+[06441.065]
+At first I was against it, because it's dangerous. You know, with what happened eighteen years ago and all...
+
+[06441.066]
+Housewife
+
+[06441.067]
+But it's peaceful now, and above all castle service seems to suit my husband.
+
+[06441.068]
+Housewife
+
+[06441.069]
+Castle service seems to suit my husband. He goes off to work every day looking truly happy.
+
+[06441.070]
+Housewife
+
+[06441.071]
+My husband works at Heidelberg Castle.
+
+[06441.072]
+Housewife
+
+[06441.073]
+Why, the other day he was over the moon because King Woodrow spoke to him. Hee hee!
+
+[06441.074]
+Boy
+
+[06441.075]
+My papa's really strong! He guards the castle.
+
+[06441.076]
+Boy
+
+[06441.077]
+When I grow up, I'm going to marry Papa!
+
+[06441.078]
+Boy
+
+[06441.079]
+And we'll live in the castle together and I'll be a princess!
+
+[06441.080]
+Boy
+
+[06441.081]
+Pri-incess~, pri-incess~♪
+
+[06441.082]
+Boy
+
+[06441.083]
+Lucky~. A date, lucky~♪
+
+[06441.084]
+Boy
+
+[06441.085]
+I'm going on a date with Papa too, on his next day off.
+
+[06441.086]
+Boy
+
+[06441.087]
+He's going to let me eat loooots of yummy things♪
+
+[06441.088]
+Boy
+
+[06441.089]
+Date♪ Date♪
+
+[06441.090]
+Boy
+
+[06441.091]
+Hey, what's wrong? Why is Mama crying?
+
+[06441.092]
+Boy
+
+[06441.093]
+When Mama cries, I start to feel sad too...
+
+[06441.094]
+Boy
+
+[06441.095]
+My papa's really strong! He guards the castle.
+
+[06441.096]
+Boy
+
+[06441.097]
+When I grow up, I'm going to marry Papa!
+
+[06441.098]
+Boy
+
+[06441.099]
+And we'll live in the castle together and I'll be a princess!
+
+[06441.100]
+Boy
+
+[06441.101]
+Pri-incess~, pri-incess~♪
+
+[06441.102]
+Have a safe journey.
+
+[06441.103]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06441.104]
+Will you stay the night?
+
+[06441.106]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06441.107]
+Please rest well.
+
+[06441.108]
+Good morning.
+
+[06441.109]
+You do not have enough money.
+
+[06441.110]
+We look forward to seeing you again.
+
+[06441.115]
+Obtained {16:25 BA}.
+
+[06441.117]
+Obtained {08:FF FF FF FF}.
+
+[06441.119]
+Found {16:25 C2}, but you can carry no more.
+
+[06441.121]
+There is nothing here.
+

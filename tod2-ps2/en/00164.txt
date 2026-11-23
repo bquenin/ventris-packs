@@ -1,0 +1,15 @@
+[00164.001]
+Listen, {NAME:01 00 00 00}. Hand that lost pendant back to her yourself.
+
+[00164.002]
+Huh... why?
+
+[00164.003]
+Find a lost thing and bring it to its owner. What better way to get friendly with a girl?
+
+[00164.004]
+I-I wasn't thinking that! I just thought she might be in trouble...
+
+[00164.005]
+Sure, sure. Let's find her quick.
+

@@ -1,0 +1,30 @@
+[00300.001]
+Wooo! Amazing! White as far as you can see~!!
+
+[00300.002]
+Do not romp about. Slip and hit your head, and a poor head will get poorer still.
+
+[00300.003]
+Hmph! It would not!
+
+[00300.004]
+Well, hit it in the right spot and it might improve.
+
+[00300.005]
+Damn! Let him talk and he...!!
+
+[00300.006]
+{NAME:04 00 00 00}. Don't mock {NAME:01 00 00 00} when you hardly know him!
+
+[00300.007]
+Oh! That's it, {NAME:03 00 00 00}, you tell him!!
+
+[00300.008]
+His dumbness goes to the bone!! A knock or two on the head won't cure it!!
+
+[00300.009]
+{NAME:03 00 00 00}...
+
+[00300.010]
+Sorry, {NAME:01 00 00 00}. I've got no comeback...
+

@@ -1,0 +1,49 @@
+[06369.001]
+Aigrette
+
+[06369.002]
+Aigrette
+
+[06369.004]
+A book called "How to Make Tempura" is inside. Tempura is apparently a dish of the Aquaveil region.
+
+[06369.006]
+A "Lens refrigerator", once a best-selling product of the old Oberon Corporation.
+
+[06369.007]
+Have a safe journey.
+
+[06369.008]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06369.009]
+Will you stay the night?
+
+[06369.011]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06369.012]
+Please rest well.
+
+[06369.013]
+Good morning.
+
+[06369.014]
+You do not have enough money.
+
+[06369.015]
+We look forward to seeing you again.
+
+[06369.020]
+Obtained {16:25 BA}.
+
+[06369.022]
+Obtained {08:FF FF FF FF}.
+
+[06369.024]
+Found {16:25 C2}, but you can carry no more.
+
+[06369.026]
+There is nothing here.
+

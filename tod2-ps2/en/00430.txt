@@ -1,0 +1,18 @@
+[00430.001]
+One more riddle about {NAME:04 00 00 00}.
+
+[00430.002]
+Really, who on earth is he?
+
+[00430.003]
+He wears that mask, but really he's the prince of some country...
+
+[00430.004]
+He wears that mask, but really he's the last of an old race...
+
+[00430.005]
+No, even with that mask, really he's...
+
+[00430.006]
+Enough about the mask!
+

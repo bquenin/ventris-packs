@@ -1,0 +1,12 @@
+[00092.001]
+Hey, {NAME:03 00 00 00}. When was our very first adventure again?
+
+[00092.002]
+Our first adventure? Let's see... Weren't you about five? You swore your bed-wetting stain was a treasure map, and dragged us all around yelling "I'll find that treasure for sure!"
+
+[00092.003]
+Wah! You still remember that!?
+
+[00092.004]
+Like I'd forget. How many holes did I dig for your fib!?
+

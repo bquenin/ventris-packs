@@ -1,0 +1,18 @@
+[00072.001]
+Aaah!?
+
+[00072.002]
+What is it, {NAME:01 00 00 00}!? A monster!?
+
+[00072.003]
+Look, {NAME:03 00 00 00}! I've never seen a bird that color before!
+
+[00072.004]
+Is that all? Don't yell over every little thing. Listen, you'll see plenty of those from now...
+
+[00072.005]
+Whoa-ho! Over there, a giant lizard you hardly ever get to catch!!
+
+[00072.006]
+Hey, listen to me! That's the wrong way... W-wait, you dummy {NAME:01 00 00 00}!!
+

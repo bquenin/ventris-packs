@@ -1,0 +1,33 @@
+[00514.001]
+Those people said the outside air is polluted, but we feel fine, don't we?
+
+[00514.002]
+Most likely, living always in a sterile place has weakened their immunity.
+
+[00514.003]
+"Immunity"? What's that?
+
+[00514.004]
+"Immunity" is, in short...
+
+[00514.005]
+Explaining to him is a waste. Leave it to me... Hey, {NAME:01 00 00 00}. Can you walk through muddy water without minding?
+
+[00514.006]
+Sure. Doesn't bother me at all.
+
+[00514.007]
+That's because you're dirty to begin with. But a woman in a new dress won't go into mud, right?
+
+[00514.008]
+Uh-huh.
+
+[00514.009]
+Those people are all like that "woman in a dress".
+
+[00514.010]
+Geh! They were all "women"!?
+
+[00514.011]
+Heh... As you said, a waste to explain...
+

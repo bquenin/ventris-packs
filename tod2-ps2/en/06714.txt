@@ -1,0 +1,43 @@
+[06714.001]
+Egg of God: Lower Level
+
+[06714.002]
+Egg of God: Lower Level
+
+[06714.003]
+Have a safe journey.
+
+[06714.004]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06714.005]
+Will you stay the night?
+
+[06714.007]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06714.008]
+Please rest well.
+
+[06714.009]
+Good morning.
+
+[06714.010]
+You do not have enough money.
+
+[06714.011]
+We look forward to seeing you again.
+
+[06714.016]
+Obtained {16:25 C2}.
+
+[06714.018]
+Obtained {08:FF FF FF FF}.
+
+[06714.020]
+Found {16:25 CA}, but you can carry no more.
+
+[06714.022]
+There is nothing here.
+

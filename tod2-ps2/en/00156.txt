@@ -1,0 +1,12 @@
+[00156.001]
+{NAME:01 00 00 00}, you remember how to use the Sorcerer's Ring?
+
+[00156.002]
+Of course! You can light fires with it, right?
+
+[00156.003]
+Not only that. The shock can also press switches. Do not forget it.
+
+[00156.004]
+One more big thing. Each shot uses Lenses. Waste shots and you're cleaned out fast.
+

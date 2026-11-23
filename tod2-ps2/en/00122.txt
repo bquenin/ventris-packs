@@ -1,0 +1,15 @@
+[00122.001]
+Listen. Above all we get out of here. As things are, you're no hero, just a criminal.
+
+[00122.002]
+Right. Thanks, {NAME:04 00 00 00}!
+
+[00122.003]
+................
+
+[00122.004]
+Hm? What is it, {NAME:04 00 00 00}? Something on my face?
+
+[00122.005]
+No, nothing...
+

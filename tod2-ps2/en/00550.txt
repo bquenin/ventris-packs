@@ -1,0 +1,54 @@
+[00550.001]
+Aaah!
+
+[00550.002]
+What is it, {NAME:01 00 00 00}! Something big happen!?
+
+[00550.003]
+The snack I was saving to eat later is go~ne!
+
+[00550.004]
+...Don't make such a fuss over every little thing.
+
+[00550.005]
+Little...? Aah! {NAME:03 00 00 00}, you ate it!
+
+[00550.006]
+Why me!?
+
+[00550.007]
+I don't know anything either...
+
+[00550.008]
+Tch, no help for it. Leave this to {NAME:03 00 00 00}, the great detective!
+
+[00550.009]
+{NAME:03 00 00 00} looks the shadiest of all...
+
+[00550.010]
+In a word, the culprit is among us!!
+
+[00550.011]
+Well, obviously. Who else is there?
+
+[00550.012]
+Ahem! Hear the deduction to the end. In a word, the culprit loved {NAME:01 00 00 00}, loved him to distraction. And so, knowing it was wrong, to feel the warmth of {NAME:01 00 00 00}, the snack was...
+
+[00550.013]
+No! I was merely peckish in the night!!
+
+[00550.014]
+........
+
+[00550.015]
+........
+
+[00550.016]
+........
+
+[00550.017]
+........
+
+[00550.018]
+...Ahem. Enough foolery. We press on.
+

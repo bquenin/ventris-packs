@@ -1,0 +1,863 @@
+[06361.001]
+Aigrette: Temple Town
+
+[06361.002]
+Aigrette
+
+[06361.003]
+Aigrette: Temple Town
+
+[06361.004]
+Aigrette: Temple Town
+
+[06361.005]
+Guard
+
+[06361.006]
+Halt.
+
+[06361.007]
+Guard
+
+[06361.008]
+No entry except on days of worship.
+
+[06361.009]
+Aigrette: Temple Town
+
+[06361.010]
+Boy
+
+[06361.011]
+My papa's a sailor. So once he goes out to sea, he doesn't come back for ages.
+
+[06361.012]
+Boy
+
+[06361.013]
+But you know, when he does come back, he tells me lots and lots of stories about all sorts of countries!
+
+[06361.015]
+Oh yeah? Then he's just like my dad!
+
+[06361.016]
+Boy
+
+[06361.017]
+I always pray to Atamoni for Papa to come home safe.
+
+[06361.018]
+Boy
+
+[06361.019]
+Ships are just like clouds. They come in all sorts of shapes.
+
+[06361.020]
+Boy
+
+[06361.021]
+Watching the ships in the harbor is nice, but I like gazing at the sky too.
+
+[06361.022]
+Boy
+
+[06361.023]
+What I like best is offering prayers to Atamoni.
+
+[06361.024]
+Boy
+
+[06361.025]
+You know, I like the view where the sea and the sky meet.
+
+[06361.026]
+Boy
+
+[06361.027]
+Someday I want to sail on a ship all the way to that place!
+
+[06361.028]
+Boy
+
+[06361.029]
+When I grow up, I'm going to be a sailor like Papa!
+
+[06361.030]
+Guard
+
+[06361.031]
+No entry except on days of worship.
+
+[06361.032]
+Guard
+
+[06361.033]
+Guarding the temple is our duty.
+
+[06361.034]
+Elraine
+
+[06361.035]
+May the blessing of the great god Atamoni be upon the people of this city...!
+
+[06361.036]
+Man
+
+[06361.037]
+H-huh? My stomach was hurting all this time, and now it's completely fine!
+
+[06361.038]
+Old Man
+
+[06361.039]
+Oh, how wondrous! For thirty years I couldn't see, and now there's light in my eyes...!
+
+[06361.040]
+Boy
+
+[06361.041]
+Yaay, Mommy! Look, I can walk! I can walk!!
+
+[06361.043]
+A-amazing... A miracle really happened!
+
+[06361.045]
+That much is child's play. It's only a rumor, but they say she can work even greater miracles.
+
+[06361.047]
+...More to the point, {NAME:01 00 00 00}, doesn't that pendant catch your eye?
+
+[06361.049]
+Pendant...? Ah! That's!!
+
+[06361.051]
+Right, the pendant that girl was wearing. Is it just the same kind by chance, or...
+
+[06361.053]
+...Wait, h-hey! {NAME:01 00 00 00}!
+
+[06361.055]
+Give back the pendant! That's hers!!
+
+[06361.056]
+Elraine
+
+[06361.057]
+What...?
+
+[06361.058]
+Guardsman
+
+[06361.059]
+You! You are in the presence of Lady Elraine!!
+
+[06361.061]
+S-sorry! This kid doesn't know how to speak properly, heh heh heh...
+
+[06361.063]
+You idiot! Nobody said that pendant is that girl's!!
+
+[06361.064]
+Elraine
+
+[06361.065]
+Wait.
+
+[06361.066]
+Elraine
+
+[06361.067]
+You said "that girl", did you not? Who exactly do you mean?
+
+[06361.069]
+No, we just happen to know a girl who had the same pendant, that's all...
+
+[06361.070]
+Elraine
+
+[06361.071]
+The same pendant?
+
+[06361.072]
+Elraine
+
+[06361.073]
+...I see. So that is how it is.
+
+[06361.074]
+Elraine
+
+[06361.075]
+Let me say this first: this is certainly mine.
+
+[06361.076]
+Elraine
+
+[06361.077]
+Everyone in the Order of Atamoni will vouch for that.
+
+[06361.079]
+I-is that so?
+
+[06361.081]
+Idiot, that's what I told you!
+
+[06361.083]
+I-I'm sorry! That girl treasured her pendant so much...
+
+[06361.084]
+Elraine
+
+[06361.085]
+And so, if I had taken it from her, you meant to get it back no matter what... Is that it?
+
+[06361.087]
+Even so, you don't just yell "Give it back!" That's treating her like a thief.
+
+[06361.089]
+S-sorry...
+
+[06361.090]
+Elraine
+
+[06361.091]
+It is all right. It shows how earnest you were.
+
+[06361.092]
+Elraine
+
+[06361.093]
+You are... kind. It is to those like you that the protection of God will be granted.
+
+[06361.095]
+Huh, um, well...
+
+[06361.096]
+Elraine
+
+[06361.097]
+I have not introduced myself. My name is Elraine. I serve as head of the Order of Atamoni.
+
+[06361.098]
+Elraine
+
+[06361.099]
+If you would, might I hear your names?
+
+[06361.101]
+Ah, um, I'm {NAME:01 00 00 00}! {NAME:01 00 00 00} Dunamis! And this is {NAME:03 00 00 00}!
+
+[06361.102]
+Elraine
+
+[06361.103]
+{NAME:01 00 00 00} and {NAME:03 00 00 00}. I shall remember.
+
+[06361.104]
+Elraine
+
+[06361.105]
+I hope we may meet again somewhere. When we do, I should like to meet the owner of the pendant as well.
+
+[06361.106]
+Elraine
+
+[06361.107]
+...I think we could have a most enjoyable talk. Hm hm hm...
+
+[06361.109]
+...
+
+[06361.110]
+Elraine
+
+[06361.111]
+Now, if you will excuse me. Farewell, {NAME:01 00 00 00}.
+
+[06361.113]
+Honestly, that took three years off my life... Hey, are you listening, {NAME:01 00 00 00}!
+
+[06361.115]
+That Elraine person... she looked like her.
+
+[06361.117]
+Huh? Like who?
+
+[06361.119]
+Like that girl. Didn't you think so, {NAME:03 00 00 00}?
+
+[06361.121]
+I was so tense I didn't have a scrap of room to look at her face. ...Thanks to a certain someone.
+
+[06361.123]
+Come on, let's head back to the inn for now. I'm suddenly worn right out...
+
+[06361.124]
+Guard
+
+[06361.125]
+What do you people want!? Today is not a day of worship.
+
+[06361.127]
+Hey, a girl went in here, didn't she!? A girl wearing a pendant!
+
+[06361.128]
+Guard
+
+[06361.129]
+...A girl wearing a pendant? I know of no such person!
+
+[06361.131]
+What?
+
+[06361.132]
+Guard
+
+[06361.133]
+As I said before, today is not a day of worship. Now be off with you!
+
+[06361.135]
+Why hasn't she come!? The innkeeper said she definitely headed for the Great Temple...
+
+[06361.137]
+Hey, {NAME:03 00 00 00}, isn't there some other way to the Great Temple?
+
+[06361.139]
+No, this should be the only...
+
+[06361.141]
+...Wait, hold on. Come to think of it, I heard something from the captain of the knights.
+
+[06361.143]
+Beneath the city of Aigrette there are old ruins, and they connect to the Great Temple.
+
+[06361.145]
+Then that's the way she went!
+
+[06361.147]
+But he said not many even in the Order know those ruins exist. I doubt she'd know of them...
+
+[06361.149]
+Never mind, let's just go and see! Hey, where do you get into these ruins!?
+
+[06361.151]
+I don't know exactly where, but there's supposed to be an entrance somewhere in the city.
+
+[06361.153]
+All right, let's look for it!
+
+[06361.154]
+Guard
+
+[06361.155]
+As I said before, today is not a day of worship. Now be off with you.
+
+[06361.156]
+Old Man
+
+[06361.157]
+Even after I grew old and retired from sailing, I somehow find myself going to the harbor every day.
+
+[06361.158]
+Old Man
+
+[06361.159]
+If I don't smell the sea once a day, I just can't settle.
+
+[06361.160]
+Old Man
+
+[06361.161]
+Back when Darilsheid had a harbor, we'd raise a ruckus in that city every time we put in.
+
+[06361.162]
+Old Man
+
+[06361.163]
+Now it's fallen so far there's no trace of what it was.
+
+[06361.164]
+Old Man
+
+[06361.165]
+Lady Elraine's power is amazing. How is she able to work such miracles, I wonder?
+
+[06361.166]
+Old Man
+
+[06361.167]
+After seeing that miracle with my own eyes, I can hardly not believe that God exists.
+
+[06361.168]
+Old Man
+
+[06361.169]
+Perhaps I should donate Lenses too. I'm rather interested in these worldly blessings, you see.
+
+[06361.170]
+Old Man
+
+[06361.171]
+Back when Darilsheid had a harbor, we'd raise a ruckus in that city every time we put in.
+
+[06361.172]
+Old Man
+
+[06361.173]
+Now it's fallen so far there's no trace of what it was.
+
+[06361.174]
+Old Man
+
+[06361.175]
+Even after I grew old and retired from sailing, I somehow find myself going to the harbor every day.
+
+[06361.176]
+Old Man
+
+[06361.177]
+If I don't smell the sea once a day, I just can't settle.
+
+[06361.178]
+Man
+
+[06361.179]
+Aigrette Harbor is just ahead.
+
+[06361.180]
+Man
+
+[06361.181]
+It's a single road all the way to the harbor, so you won't get lost.
+
+[06361.182]
+Old Woman
+
+[06361.183]
+They say Lady Elraine the Saint, head of the Order of Atamoni, has divine powers.
+
+[06361.184]
+Old Woman
+
+[06361.185]
+I hear even those suffering from incurable illnesses were made well in an instant, thanks to Lady Elraine.
+
+[06361.186]
+Old Woman
+
+[06361.187]
+Oh, my heart's pounding like a youngster's. I wonder what Lady Elraine is like.
+
+[06361.188]
+Old Woman
+
+[06361.189]
+Good grief... When you lot burst out there, I broke into a cold sweat wondering what would happen.
+
+[06361.190]
+Old Woman
+
+[06361.191]
+But to forgive such rudeness... That's Lady Elraine for you.
+
+[06361.192]
+Old Woman
+
+[06361.193]
+We're poor, you see. We can't even make a proper donation to the Order of Atamoni.
+
+[06361.194]
+Old Woman
+
+[06361.195]
+Somehow or other I want to offer Lenses to Lady Elraine.
+
+[06361.196]
+Old Woman
+
+[06361.197]
+If I could die for Lady Elraine, I'd ask for nothing more.
+
+[06361.198]
+Old Woman
+
+[06361.199]
+We're poor, you see. We can't even make a proper donation.
+
+[06361.200]
+Old Woman
+
+[06361.201]
+But Lady Philia says this: what matters is not the donation but the heart. I was so moved.
+
+[06361.202]
+Old Woman
+
+[06361.203]
+Lady Philia says this: what matters is not the donation but the heart. I was so moved.
+
+[06361.204]
+Woodcutter
+
+[06361.205]
+Do you know why Aigrette grew this much in barely a dozen years?
+
+[06361.206]
+Woodcutter
+
+[06361.207]
+Because people flocked here from the provinces out of devotion to Lady Elraine. Like me.
+
+[06361.208]
+Woodcutter
+
+[06361.209]
+I'd love to meet Lady Elraine. She must be so beautiful.
+
+[06361.210]
+Woodcutter
+
+[06361.211]
+Ah, Lady Elraine. How divine she looks...
+
+[06361.212]
+Woodcutter
+
+[06361.213]
+I've decided, I'm going to live in this city too! That way I might get to see Lady Elraine again!
+
+[06361.214]
+Woodcutter
+
+[06361.215]
+I donated everything I own to Lady Elraine...
+
+[06361.216]
+Woodcutter
+
+[06361.217]
+I don't know how I'll live from tomorrow, but at least right now I'm happy...
+
+[06361.218]
+Woodcutter
+
+[06361.219]
+Ah, Lady Elraine, please guide me...
+
+[06361.220]
+Woodcutter
+
+[06361.221]
+Do you know why Aigrette grew this much in just a few years?
+
+[06361.222]
+Woodcutter
+
+[06361.223]
+With the nation in crisis and no king, Straylize Temple was quick to step in.
+
+[06361.224]
+Woodcutter
+
+[06361.225]
+I hear that behind Aigrette's growth lie the efforts of King Woodrow of Phandaria and Lady Philia.
+
+[06361.226]
+Woodcutter
+
+[06361.227]
+The Four Heroes really are something.
+
+[06361.228]
+Traveler
+
+[06361.229]
+You folks here to donate Lenses?
+
+[06361.231]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06361.232]
+Traveler
+
+[06361.233]
+Oh yeah? Then you get to experience that miracle. I'm jealous~.
+
+[06361.234]
+Traveler
+
+[06361.235]
+So you folks are just here to watch the miracle too, the sightseeing crowd.
+
+[06361.236]
+Traveler
+
+[06361.237]
+I want to hurry up and gather Lenses too, and experience Lady Elraine's miracle for myself.
+
+[06361.238]
+Traveler
+
+[06361.239]
+I want to hurry up and gather Lenses too and experience Lady Elraine's miracle for myself.
+
+[06361.241]
+Could that power cure the way {NAME:03 00 00 00} chases women?
+
+[06361.243]
+Before that, we'd have to get them to cure how dim {NAME:01 00 00 00} is♪
+
+[06361.244]
+Traveler
+
+[06361.245]
+What exactly are Lady Elraine's miracles, I wonder?
+
+[06361.246]
+Traveler
+
+[06361.247]
+Well, I suppose they're called miracles because nobody understands how they work.
+
+[06361.248]
+Traveler
+
+[06361.249]
+I'm saving up to get married, but the money just won't pile up.
+
+[06361.250]
+Traveler
+
+[06361.251]
+I thought if I came to Aigrette I'd find work that pays well. Guess it's not that easy.
+
+[06361.252]
+Traveler
+
+[06361.253]
+At this rate, I'll try my hand at gambling and multiply it lickety-split.
+
+[06361.255]
+I get the feeling he'll never save it up...
+
+[06361.256]
+Young Woman
+
+[06361.257]
+Excuse me, but have we met somewhere?
+
+[06361.258]
+Young Woman
+
+[06361.259]
+I'm sorry. My eyes have been bad since long ago, and I can't see your face well.
+
+[06361.260]
+Young Woman
+
+[06361.261]
+I came because I heard that if I came here, I might be able to see again...
+
+[06361.262]
+Young Woman
+
+[06361.263]
+Thanks to Lady Elraine, I can see now!
+
+[06361.264]
+Young Woman
+
+[06361.265]
+Ah! How wonderful Lady Elraine is!
+
+[06361.266]
+Young Woman
+
+[06361.267]
+Thanks to Lady Elraine, I can see now.
+
+[06361.268]
+Young Woman
+
+[06361.269]
+But the scenery I saw as a child was nowhere to be found. It was a bit of a shock.
+
+[06361.271]
+This used to be a peaceful village, after all...
+
+[06361.272]
+Young Woman
+
+[06361.273]
+I had hoped to see that scenery once more...
+
+[06361.274]
+Young Woman
+
+[06361.275]
+But I am deeply grateful to Lady Elraine.
+
+[06361.276]
+Young Woman
+
+[06361.277]
+I cannot see. How wonderful it would be if these eyes could see.
+
+[06361.278]
+Young Woman
+
+[06361.279]
+I want the power of God to heal these eyes. Is it wrong to ask God for what human power cannot do?
+
+[06361.280]
+Young Woman
+
+[06361.281]
+If there were people who denied the almighty God, I would resent them for the rest of my life.
+
+[06361.282]
+Young Woman
+
+[06361.283]
+Excuse me, but have we met somewhere?
+
+[06361.284]
+Young Woman
+
+[06361.285]
+I'm sorry. My eyes have been bad since long ago, and I can't see your face well.
+
+[06361.286]
+Young Man
+
+[06361.287]
+This week I donated a whole 30 Lenses to the Order of Atamoni!
+
+[06361.288]
+Young Man
+
+[06361.289]
+As long as you hand over Lenses, they make you happy! Easy as that!
+
+[06361.290]
+Young Man
+
+[06361.291]
+Next week maybe I'll splash out and go for 50 Lenses, huh?
+
+[06361.292]
+Young Man
+
+[06361.293]
+Yeee-haw! I kept donating Lenses and now I'm a member of the Order of Atamoni!
+
+[06361.294]
+Young Man
+
+[06361.295]
+My future's rosy now!
+
+[06361.296]
+Young Man
+
+[06361.297]
+Aah, every day's so boring. Hey, God, how about making something fun happen?
+
+[06361.298]
+Young Man
+
+[06361.299]
+I mean, I pray and nothing happens. Is God maybe a fraud?
+
+[06361.300]
+Girl
+
+[06361.301]
+They say if you hand over lots of Lenses, they let you join the Order of Atamoni~.
+
+[06361.302]
+Girl
+
+[06361.303]
+I could only donate 5 Lenses.
+
+[06361.304]
+Girl
+
+[06361.305]
+I want to donate lots more, and join the Order of Atamoni, and live the easy life~.
+
+[06361.306]
+Girl
+
+[06361.307]
+Lucky~. I want to join the Order of Atamoni too!
+
+[06361.308]
+Girl
+
+[06361.309]
+Once you're in the Order of Atamoni, you get to be happy without doing anything, right? That's the best.
+
+[06361.310]
+Girl
+
+[06361.311]
+I don't wanna study~. God, help me~.
+
+[06361.312]
+Girl
+
+[06361.313]
+I'm praying and nothing happens. What's up with that? So boring~.
+
+[06361.314]
+Girl
+
+[06361.315]
+A god who doesn't do anything for you is the worst.
+
+[06361.316]
+Cat
+
+[06361.317]
+Mrow~?
+
+[06361.318]
+Have a safe journey.
+
+[06361.319]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06361.320]
+Will you stay the night?
+
+[06361.322]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06361.323]
+Please rest well.
+
+[06361.324]
+Good morning.
+
+[06361.325]
+You do not have enough money.
+
+[06361.326]
+We look forward to seeing you again.
+
+[06361.331]
+Obtained {16:27 42}.
+
+[06361.333]
+Obtained {08:FF FF FF FF}.
+
+[06361.335]
+Found {16:27 4A}, but you can carry no more.
+
+[06361.337]
+There is nothing here.
+

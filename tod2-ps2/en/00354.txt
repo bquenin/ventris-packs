@@ -1,0 +1,21 @@
+[00354.001]
+Say, {NAME:05 00 00 00}... would you teach me to sew too, some time?
+
+[00354.002]
+I don't mind, but...... does a Saint do sewing?
+
+[00354.003]
+...I don't much like being spoken of that way.
+
+[00354.004]
+...Sorry, my fault... I see, of course. You'd like to mend the frays in your boyfriend's shirt yourself, is that it♪
+
+[00354.005]
+N-no! I only, for {NAME:01 00 00 00}...
+
+[00354.006]
+Hm... What about me?
+
+[00354.007]
+N-nothing!
+

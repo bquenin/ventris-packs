@@ -1,0 +1,11 @@
+format = 1
+game = "tod2-ps2"
+language = "en"
+name = "Tales of Destiny 2 in English"
+version = "0.1"
+authors = ["Machine translated, directed by bquenin"]
+license = "CC-BY-NC-SA-4.0"
+description = "Machine translated and not yet reviewed by a human translator. A first full pass. The dialogue of every story script from the prologue to the ending, 608 skits, the menu screens, the messages of the battle program, the enemy names, the lists of artes, items, titles, recipes, shops and places, and the quiz books and minigames. It builds with nothing refused. On screen, the opening, ten skits, the menus, a shop, the first battle and a quiz book have been seen; nothing past Cresta has been. NOTES.md has the names and terms chosen and what is still open."
+
+[build]
+options = ["skit-pace", "narrow-spell-names"]

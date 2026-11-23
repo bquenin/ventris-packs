@@ -1,0 +1,505 @@
+[06395.001]
+Regular Ship
+
+[06395.002]
+Regular Ship
+
+[06395.003]
+Oh dear, oh dear...
+
+[06395.004]
+...Is the ship going to sink?
+
+[06395.005]
+What do we do...
+
+[06395.006]
+Help...
+
+[06395.007]
+........
+
+[06395.008]
+Aah... the seawater...
+
+[06395.009]
+I should never have boarded...
+
+[06395.010]
+I want to get away...
+
+[06395.011]
+The curse of the lord of the sea...
+
+[06395.012]
+What to do, what to do...
+
+[06395.013]
+What became of the lord of the sea?
+
+[06395.014]
+Aah... O God...
+
+[06395.015]
+Passenger
+
+[06395.017]
+That damn {NAME:04 00 00 00}...
+
+[06395.019]
+...
+
+[06395.021]
+I...
+
+[06395.024]
+Sailor
+
+[06395.025]
+Watch yourself, sonny! Storms, pirates, ghost ships. Danger comes with the sea!
+
+[06395.026]
+Sailor
+
+[06395.027]
+Listen, sonny. Out at sea, danger is always right beside you.
+
+[06395.028]
+Sailor
+
+[06395.029]
+But there's nothing to fear... Because yours truly is aboard this ship!
+
+[06395.030]
+Sailor
+
+[06395.031]
+One look at yours truly and any danger turns tail and runs!
+
+[06395.032]
+Sailor
+
+[06395.033]
+I-if you get f-f-flustered just because the lord of the sea shows up, you'll never make it as a man of the sea!!
+
+[06395.035]
+You look awfully flustered to me, though...
+
+[06395.036]
+Sailor
+
+[06395.037]
+A-attacking the ship yours truly is on... what an unlucky creature.
+
+[06395.038]
+Sailor
+
+[06395.039]
+J-just you watch! With my steel harpoon, I'll be sent to the bottom of the sea!!
+
+[06395.041]
+What good does it do if you're the one sent to the bottom?
+
+[06395.042]
+Sailor
+
+[06395.043]
+Just you wait, monster! O-once my stomachache clears up, I'll finish you off!!
+
+[06395.044]
+Sailor
+
+[06395.045]
+Well, I never thought you lot would beat me to it.
+
+[06395.046]
+Sailor
+
+[06395.047]
+You got me! Before yours truly could get there, you went and beat it.
+
+[06395.048]
+Sailor
+
+[06395.049]
+If I hadn't had that stomachache, yours truly would've wrung the neck of a lord of the sea or two.
+
+[06395.050]
+Sailor
+
+[06395.051]
+Gah ha ha ha! Next time the lord of the sea shows up, leave it to yours truly!
+
+[06395.052]
+Sailor
+
+[06395.053]
+I'm in top shape now! If the lord of the sea appears, yours truly will drive it off!
+
+[06395.054]
+Sailor
+
+[06395.055]
+You lot are strong too, but you're still kids.
+
+[06395.056]
+Sailor
+
+[06395.057]
+If anything happens, yours truly will protect you. Gah ha ha!
+
+[06395.058]
+Sailor
+
+[06395.059]
+Gah ha ha ha! Next time the lord of the sea shows up, leave it to yours truly!
+
+[06395.060]
+Sailor
+
+[06395.061]
+A world where God exists is a fine thing. You're always being watched over.
+
+[06395.062]
+Sailor
+
+[06395.063]
+This voyage too is watched over by Fortuna, so we're sure to arrive safely.
+
+[06395.064]
+Sailor
+
+[06395.065]
+Being watched over by God... Ten years ago it'd have been unthinkable.
+
+[06395.066]
+Sailor
+
+[06395.067]
+Watch yourself, sonny! Storms, pirates, ghost ships. Danger comes with the sea!
+
+[06395.068]
+Sailor
+
+[06395.069]
+Listen, sonny. Out at sea, danger is always right beside you.
+
+[06395.070]
+Sailor
+
+[06395.071]
+But there's nothing to fear... Because yours truly is aboard this ship!
+
+[06395.072]
+Sailor
+
+[06395.073]
+One look at yours truly and any danger turns tail and runs!
+
+[06395.075]
+{NAME:01 00 00 00}~! Look, over here, over here!
+
+[06395.077]
+Th-that's dangerous, {NAME:02 00 00 00}! It'd be awful if you fell!!
+
+[06395.079]
+Hee hee, I'm fine, I'm fine! Even if I fall, {NAME:01 00 00 00} will save me!
+
+[06395.081]
+After all, you're the great hero of the future, aren't you!
+
+[06395.083]
+Hey, why don't you come up too, {NAME:01 00 00 00}? The smell of the sea feels so good!
+
+[06395.085]
+Wait there, {NAME:02 00 00 00}! I'll be right over!
+
+[06395.086]
+Sailor
+
+[06395.087]
+It's the lord! The lord of Devil's Reef!!
+
+[06395.088]
+Sailor
+
+[06395.089]
+Eeeeek! H-hel, help!! I don't wanna die yet!
+
+[06395.090]
+Sailor
+
+[06395.091]
+Quit your whining! Just go and tell the captain!
+
+[06395.092]
+Sailor
+
+[06395.093]
+And put more men on watch! Check the hull for damage! Hurry!
+
+[06395.095]
+Hey, you two! This is no time to be flirting over there!
+
+[06395.097]
+Ah! N-no, it's not like that, {NAME:02 00 00 00}! I didn't mean to...
+
+[06395.099]
+{NAME:01 00 00 00}, are you all right!?
+
+[06395.101]
+No need to worry. Idiots are sturdy. It has always been so.
+
+[06395.103]
+Hey! Stop calling me an idiot!!
+
+[06395.105]
+All right, all right, fight later! First we find out what's happened! Let's go to the bow!
+
+[06395.107]
+So this is why the ship stopped!
+
+[06395.108]
+Sailor
+
+[06395.109]
+Hey! You people get out of here too, quick!!
+
+[06395.110]
+Sailor
+
+[06395.111]
+That thing is the "lord of the sea"! No ship has ever met this monster and come away safe!!
+
+[06395.113]
+Run, he says. Where exactly are we supposed to run to!?
+
+[06395.115]
+Leave it to us! We'll take care of a thing like this!!
+
+[06395.117]
+We did it! Now the ship can...
+
+[06395.118]
+Sailor
+
+[06395.119]
+Trouble! The lord of the sea is at the ship's bottom!!
+
+[06395.120]
+Sailor
+
+[06395.121]
+What!?
+
+[06395.123]
+This is bad. If it's punched a hole in the bottom...
+
+[06395.125]
+Anyway, let's go and see!
+
+[06395.127]
+We've gathered everyone on deck for now... but what on earth do we do next!?
+
+[06395.129]
+Hey, couldn't we swim to shore!?
+
+[06395.131]
+The men, perhaps. The women and children could not.
+
+[06395.133]
+With lifeboats that size, we couldn't save hardly anyone...
+
+[06395.135]
+Damn! We're completely out of moves!!
+
+[06395.137]
+........
+
+[06395.139]
+We can't give up! Let's think of some way to save everyone!!
+
+[06395.141]
+Easy to say, but...
+
+[06395.143]
+There is just one way for everyone to be saved.
+
+[06395.145]
+Huh!? R-really!?
+
+[06395.147]
+...Use your power, {NAME:02 00 00 00}.
+
+[06395.149]
+I...
+
+[06395.151]
+Whoaa!!
+
+[06395.153]
+This is seriously bad!
+
+[06395.155]
+...I... everyone...
+
+[06395.157]
+...!
+
+[06395.159]
+{NAME:02 00 00 00}...!?
+
+[06395.161]
+...Please... ........fly!!
+
+[06395.163]
+Hey, what on earth is {NAME:02 00 00 00} going to do!?
+
+[06395.165]
+She means to lift the ship. But...
+
+[06395.167]
+...Ngh!!
+
+[06395.169]
+She is moving something this large. Whether {NAME:02 00 00 00} can do it as she is now...
+
+[06395.171]
+No way...
+
+[06395.173]
+Hang in there! Hang in there, {NAME:02 00 00 00}!
+
+[06395.175]
+...Aah!
+
+[06395.177]
+Please...!
+
+[06395.179]
+...I-it's no... use... after all...
+
+[06395.181]
+You can't give up, {NAME:02 00 00 00}!!
+
+[06395.183]
+........!
+
+[06395.185]
+You can do it, {NAME:02 00 00 00}! I know you can!!
+
+[06395.187]
+...! {NAME:01 00 00 00}...!
+
+[06395.189]
+Incredible... We're actually saved...! Ha ha... ahahaha!!
+
+[06395.191]
+You're amazing, {NAME:02 00 00 00}...!
+
+[06395.193]
+...I did it... ........I... my power... I... did... it...
+
+[06395.195]
+{NAME:02 00 00 00}!? {NAME:02 00 00 00}!!
+
+[06395.197]
+{NAME:02 00 00 00} earned the title "{08:1B 08 00 00}".
+
+[06395.200]
+I'm telling you, that's not why I'm asking!
+
+[06395.202]
+That voice... it's {NAME:03 00 00 00}! What's going on?
+
+[06395.204]
+The harbor of Snowfria should be coming into view about now.
+
+[06395.206]
+Once we're this far, Heidelberg is right under our noses.
+
+[06395.208]
+So this is the end of our long voyage. I feel a little sad to leave it.
+
+[06395.210]
+Hey, we can just ride it again when we go home. Right?
+
+[06395.212]
+...That's true. When we go home...
+
+[06395.214]
+We arrive at Snowfria shortly. Get ready to set out. Dawdle and I'll leave you behind.
+
+[06395.216]
+{NAME:04 00 00 00}... Yeah!
+
+[06395.218]
+{NAME:04 00 00 00}, l-listen... Sorry. About earlier, I mean...
+
+[06395.220]
+No, I was childish too.
+
+[06395.222]
+{NAME:04 00 00 00}...
+
+[06395.224]
+Actual age aside, my mental age is the higher one.
+
+[06395.226]
+Talking on the same level as a child like you was not something an adult like me should have done. I regret it.
+
+[06395.228]
+Wh-wh-wh... what's that supposed to mean! So you're saying I'm a kid!?
+
+[06395.230]
+That is what I meant to say. Did you not understand? It seems my way of putting things still needs work.
+
+[06395.232]
+...Pfft! Ahahaha!!
+
+[06395.234]
+Hee hee! Ahaha!
+
+[06395.236]
+Don't laugh, you two!
+
+[06395.238]
+Why, that little... saying whatever he likes...
+
+[06395.239]
+Have a safe journey.
+
+[06395.240]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06395.241]
+Will you stay the night?
+
+[06395.243]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06395.244]
+Please rest well.
+
+[06395.245]
+Good morning.
+
+[06395.246]
+You do not have enough money.
+
+[06395.247]
+We look forward to seeing you again.
+
+[06395.252]
+Obtained {16:27 6A}.
+
+[06395.254]
+Obtained {08:FF FF FF FF}.
+
+[06395.256]
+Found {16:27 72}, but you can carry no more.
+
+[06395.258]
+There is nothing here.
+

@@ -1,0 +1,3 @@
+[00624.001]
+This isn't the happiness she wanted! Wake up, {NAME:05 00 00 00}!
+

@@ -1,0 +1,113 @@
+[03.000]
+Toltus Village
+
+[03.001]
+Change the time on the field.
+1. Present  2. Past  3. Future
+
+[03.002]
+Done.{COLOR:02}
+
+[03.003]
+Reset done.
+
+[03.004]
+{アーチェ} can now use every spell.
+
+[03.005]
+{アーチェ} isn't he-ere.
+
+[03.006]
+{クレス} can now use every skill.
+
+[03.007]
+{クラース} can now use every spell.
+
+[03.008]
+{クラース} isn't here, I tell you.
+
+[03.009]
+{ミント} can now use every spell.
+
+[03.010]
+{ミント} is not here, I'm afraid.
+
+[03.011]
+You got every item.
+
+[03.012]
+Choose.
+
+[03.013]
+{クレス}
+(This is Maple Bridge. They say a love sworn on it lasts forever.{PAGE}
+I don't know why they say that, though.)
+
+[03.014]
+Tristan
+"Hey there, {クレス}!"
+
+[03.015]
+{クレス}
+"Master, are you going home already?"{PAGE}
+Tristan
+"Something like that. And where are you two off to?"{PAGE}
+{チェスター}
+"The south forest, to hunt boar."{PAGE}
+Tristan
+"I see. Keep up your training."
+
+[03.016]
+"Oh, it's you, {クレス}. You startled me.{PAGE}
+We're getting married next month, you know. He and I were talking about what kind of wedding to have."
+
+[03.017]
+"Hey!
+You should find yourself someone nice too, {クレス}!"
+
+[03.018]
+"Hey, mister, teach me the sword sometime. I want to get stronger!"
+
+[03.019]
+"Ahh, I wish I could be a bride soon too."
+
+[03.020]
+"I'm a traveller.
+This is a nice place. I think I'll stay here for a while."
+
+[03.021]
+"Hey, {クレス}.{PAGE}
+The world's turned dangerous lately. I hope we never have to ring this bell."
+
+[03.022]
+{チェスター}
+"I'm off hunting then, Ami."{PAGE}
+Ami
+"Be careful, big brother."
+
+[03.023]
+{チェスター}
+"{クレス}, let's go!"
+
+[03.024]
+{クレス}
+"Sorry, sorry. My master's at the house just now. Shall we go, {チェスター}?"{PAGE}
+Maria
+"Wait, {クレス}."
+
+[03.025]
+{クレス}
+"Mother! You've only just got over your illness. You shouldn't be outside."{PAGE}
+Maria
+"But I worry about you. It's been dangerous around here lately..."{PAGE}
+{クレス}
+"With {チェスター}'s bow and my sword we'll be fine. And Father is here in the village."{PAGE}
+
+
+[03.026]
+{チェスター}
+"Don't worry, ma'am. We'll bring back a mountain of game."{PAGE}
+Maria
+"...All right. Just don't push yourselves too hard. Here, take this with you."{PAGE}
+{COLOR:03}Received {STR:A90C}.{COLOR:02}
+

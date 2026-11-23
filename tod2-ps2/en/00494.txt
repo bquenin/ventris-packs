@@ -1,0 +1,21 @@
+[00494.001]
+Of course! I've got it, how this world works!
+
+[00494.002]
+Really, {NAME:03 00 00 00}!?
+
+[00494.003]
+Yeah, this is...... a "dream"! And slapdash as it is, it has to be "the dream of {NAME:01 00 00 00}"! ...So... wake up! You!
+
+[00494.004]
+Ow! I am awake!!
+
+[00494.005]
+No! You're dreaming that you're awake.
+
+[00494.006]
+Geh!? So that's it!
+
+[00494.007]
+Leave them. Find a town.
+

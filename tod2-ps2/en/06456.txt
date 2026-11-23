@@ -1,0 +1,145 @@
+[06456.001]
+Heidelberg Castle
+
+[06456.002]
+Heidelberg Castle
+
+[06456.004]
+The fire in the hearth burns on, with no telling when it will end...
+
+[06456.005]
+Minister of Finance
+
+[06456.006]
+The soldiers think war means fighting with weapons in hand... but the economy, too, is war.
+
+[06456.007]
+Where someone gains, there is someone else who loses...
+
+[06456.008]
+For everyone to be well off is no easy matter.
+
+[06456.009]
+You have {0B:01 00 00 00}{14:34 70}{0B:00 00 00 00} Gald.
+
+[06456.010]
+You are penniless.
+
+[06456.011]
+Do not forget the importance of money, nor the "evil" that lurks in money.
+
+[06456.013]
+{NAME:01 00 00 00} and company earned the title "{08:65 08 00 00}".
+
+[06456.014]
+It is when you have none that you understand all the better how important and how welcome money is.
+
+[06456.015]
+As personal support from me, I shall give you a very little Gald.
+
+[06456.017]
+Obtained {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald.
+
+[06456.018]
+The sum is small, but as you are now, you should understand what it means.
+
+[06456.020]
+{NAME:01 00 00 00} and company earned the title "{08:64 08 00 00}".
+
+[06456.021]
+Carry too much money, and you are apt to be caught by the "evil" of money...
+
+[06456.022]
+What truly matters is not making the sum grow... It is "how you use" the money you have.
+
+[06456.023]
+When your funds have become very low... and when they have become very large... come and see me again.
+
+[06456.024]
+When your funds have become very low... come and see me again.
+
+[06456.025]
+When your funds have become very large... come and see me again.
+
+[06456.026]
+Have a safe journey.
+
+[06456.027]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06456.028]
+Will you stay the night?
+
+[06456.030]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06456.031]
+Please rest well.
+
+[06456.032]
+Good morning.
+
+[06456.033]
+You do not have enough money.
+
+[06456.034]
+We look forward to seeing you again.
+
+[06456.039]
+Obtained {16:25 C2}.
+
+[06456.041]
+Obtained {08:FF FF FF FF}.
+
+[06456.043]
+Found {16:25 CA}, but you can carry no more.
+
+[06456.045]
+There is nothing here.
+
+[06456.047]
+Well-kept weapons are lined up. Every one looks like a costly piece.
+
+[06456.049]
+Battle-ready weapons are lined up, no doubt for use in an emergency.
+
+[06456.051]
+A keenly honed weapon. The work of a first-rate smith, surely.
+
+[06456.053]
+This weapon has a proper edge. It must be the real thing, not a work of art.
+
+[06456.055]
+Weapons used by the soldiers of Heidelberg Castle. The blades are honed without a single blemish.
+
+[06456.057]
+A huge suit of plate armor. It looks very heavy...
+
+[06456.059]
+Battle-ready armor. It is very elaborately made.
+
+[06456.061]
+Full-body armor made by beating out sheet metal. It is very elaborate. How much would one suit cost...
+
+[06456.063]
+A real suit of full armor. It gives off an overwhelming sense of menace...
+
+[06456.065]
+Suits of armor are lined up. They look like the real thing, battle-ready, not works of art.
+
+[06456.067]
+It looks like a piece of some age. ...Take care not to break it.
+
+[06456.069]
+Small items are lined up. Every one looks very costly.
+
+[06456.071]
+A royal castle, sure enough. Every small ornament is splendidly made.
+
+[06456.073]
+Splendid pieces are lined up...
+
+[06456.075]
+Antiques, perhaps. Pieces of some age are lined up.
+

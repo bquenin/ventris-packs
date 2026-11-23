@@ -1,0 +1,2177 @@
+[captions.001]
+ Gald gained!
+
+[captions.002]
+ EXP gained!
+
+[captions.003]
+All down
+
+[captions.004]
+Not enough TP
+
+[captions.005]
+Ambushed!
+
+[captions.006]
+Poison
+
+[captions.007]
+ levels up!
+
+[captions.008]
+ obtained!
+
+[captions.009]
+ learned.
+
+[captions.010]
+ mastered.
+
+[captions.011]
+ can now be used.
+
+[captions.012]
+Spells are sealed
+
+[captions.013]
+Kogahazan
+
+[captions.014]
+Majinken
+
+[captions.015]
+Shugohoujin
+
+[captions.016]
+Akisazame
+
+[captions.017]
+Shinkuuhazan
+
+[captions.018]
+Shishisenkou
+
+[captions.019]
+Gurenken
+
+[captions.020]
+Shuukihou
+
+[captions.021]
+Goushourai
+
+[captions.022]
+Juushourai
+
+[captions.023]
+Hououtenku
+
+[captions.024]
+Hienrenkyaku
+
+[captions.025]
+Shuusouraizan
+
+[captions.026]
+Senkuuretsuha
+
+[captions.027]
+Kokuusouhazan
+
+[captions.028]
+Kuukanshouteni
+
+[captions.029]
+Jigenzan
+
+[captions.030]
+Majinhienkyaku
+
+[captions.031]
+Majinsouhazan
+
+[captions.032]
+Majinsenretsuha
+
+[captions.033]
+Majinsenkuuha
+
+[captions.034]
+Shishihienkyaku
+
+[captions.035]
+Shishikouhazan
+
+[captions.036]
+Shishisenretsuha
+
+[captions.037]
+Shishisenkuuha
+
+[captions.038]
+Shuusouhienkyaku
+
+[captions.039]
+Shuusouraizanha
+
+[captions.040]
+Shuusousenretsuha
+
+[captions.041]
+Shuusousenkuuha
+
+[captions.042]
+Hououtenshoukyaku
+
+[captions.043]
+Hououshouhazan
+
+[captions.044]
+Houousenretsuha
+
+[captions.045]
+Hououtenkuuha
+
+[captions.046]
+Jikuusouhazan
+
+[captions.047]
+Tenisouhazan
+
+[captions.048]
+Mirror Strike
+
+[captions.049]
+Double Slash
+
+[captions.050]
+Triple Slash
+
+[captions.051]
+Blink
+
+[captions.052]
+Slow Touch
+
+[captions.053]
+Gutsy Jump
+
+[captions.054]
+Blazing Raid
+
+[captions.055]
+Headlong Charge
+
+[captions.056]
+Apple Frenzy
+
+[captions.057]
+Gaze
+
+[captions.058]
+Petrifying Ray
+
+[captions.059]
+Hell Gate Eye
+
+[captions.060]
+Lightning Burst
+
+[captions.061]
+Scream
+
+[captions.062]
+Death Scream
+
+[captions.063]
+Critical
+
+[captions.064]
+Hell Gem
+
+[captions.065]
+Molecular Attack
+
+[captions.066]
+Collapse
+
+[captions.067]
+Photon Beam
+
+[captions.068]
+Physics Missile
+
+[captions.069]
+Tetra Assault
+
+[captions.070]
+Tetra Spell
+
+[captions.071]
+Dhaos Laser
+
+[captions.072]
+Dhaos Collider
+
+[captions.073]
+Para Triangle
+
+[captions.074]
+Circular
+
+[captions.075]
+Hidden
+
+[captions.076]
+Chaos
+
+[captions.077]
+Last Ray
+
+[captions.078]
+Triad
+
+[captions.079]
+A pact ring.
+
+
+[captions.080]
+Unknown item. Type:
+
+[captions.081]
+A small jelly,
+
+[captions.082]
+ +60% of max
+
+[captions.083]
+A kind of herb.
+
+[captions.084]
+ max +10%
+
+[captions.085]
++2
+
+
+[captions.086]
+ring. Stops
+
+[captions.087]
+
+attacks. May break: 50%
+
+[captions.088]
+mantle. Stops
+
+[captions.089]
+magic, 30% chance
+
+[captions.090]
+A gemstone. Worn:
+
+[captions.091]
+ max +30%
+
+[captions.092]
+A kind of rapier
+
+[captions.093]
+
+One of the three arms
+
+[captions.094]
+Wooden one-piece
+
+[captions.095]
+magic in a bow.
+
+
+[captions.096]
+
+
+[captions.097]
+ on a staff's tip
+
+[captions.098]
+A grimoire.
+
+[captions.099]
+A peerless masterpiece with
+the soul of the smith Geese
+
+[captions.100]
+ +30% of max
+
+[captions.101]
+ max +5%
+
+[captions.102]
++1
+
+[captions.103]
+ air in a bottle.
+
+[captions.104]
+One ingredient of oden
+
+[captions.105]
+
+attacks. May break: 99%
+
+[captions.106]
+Stops the black magic
+
+[captions.107]
+
+
+[captions.108]
+ rises by 1
+
+[captions.109]
+Trade goods.
+
+[captions.110]
+{PHRASE:EA60}Gives defence against fire
+
+[captions.111]
+{PHRASE:EA60}Gives defence against earth
+
+[captions.112]
+{PHRASE:EA60}Gives defence against water
+
+[captions.113]
+{PHRASE:EA60}Raises various powers
+
+[captions.114]
+{PHRASE:EA60}Raises max HP while worn
+
+[captions.115]
+{PHRASE:EA60}Gives defence against light
+
+[captions.116]
+{PHRASE:EA60}Raises attack power
+
+[captions.117]
+{PHRASE:EA60}Gives defence against wind
+
+[captions.118]
+{PHRASE:EA60}Gives defence against thunder
+
+[captions.119]
+{PHRASE:EA60}Raises defence
+
+[captions.120]
+{PHRASE:EA60}Raises the critical rate
+
+[captions.121]
+{PHRASE:EA60}Raises max TP while worn
+
+[captions.122]
+Japanese spear, good to thrust
+or cut. Fair in a lady's hand
+
+[captions.123]
+{PHRASE:EA61}weapon
+
+[captions.124]
+{PHRASE:EA61}bow
+
+[captions.125]
+{PHRASE:EA61}staff
+
+[captions.126]
+Add a red ribbon and black
+clothes: a proper witch fan
+
+[captions.127]
+{PHRASE:EA61}staff
+
+[captions.128]
+{PHRASE:EA61}book
+
+[captions.129]
+{PHRASE:EA61}armour
+
+[captions.130]
+Clothes popular with witches.
+Black brings out beauty
+
+[captions.131]
+{PHRASE:EA61}weapon
+
+[captions.132]
+{PHRASE:EA61}armour
+
+[captions.133]
+A golden helm. The hero
+Gilgamesh's, in Ishtar's tale
+
+[captions.134]
+{PHRASE:EA61}armour
+
+[captions.135]
+{PHRASE:EA61}weapon
+
+[captions.136]
+{PHRASE:EA61}armour
+
+[captions.137]
+{PHRASE:EA61}weapon
+
+[captions.138]
+{PHRASE:EA61}bow
+
+[captions.139]
+{PHRASE:EA61}armour
+
+[captions.140]
+{PHRASE:EA62} lemon flavour.
+HP{PHRASE:EA63}
+
+[captions.141]
+{PHRASE:EA62} pine flavour.
+TP{PHRASE:EA63}
+
+[captions.142]
+A jelly, miracle flavour.
+HP and TP:{PHRASE:EA63}
+
+[captions.143]
+{PHRASE:EA64}TP{PHRASE:EA65}
+
+[captions.144]
+{PHRASE:EA64}HP{PHRASE:EA65}
+
+[captions.145]
+{PHRASE:EA64}STR {PHRASE:EA66}
+
+[captions.146]
+{PHRASE:EA64}AGL {PHRASE:EA66}
+
+[captions.147]
+An hourglass of the god of
+time. Stops foes for long
+
+[captions.148]
+Makes the taker look a cool
+guy. Half price in the shops
+
+[captions.149]
+The classic junk food, born
+of the far ancient culture
+
+[captions.150]
+Cheese that melts on the
+tongue like powder snow
+
+[captions.151]
+Fine beef. Its dripping juice
+speaks for itself
+
+[captions.152]
+Steak of a rare beast, said
+to taste like dragon meat
+
+[captions.153]
+A meat dish named for one who
+leapt in the fire to feed many
+
+[captions.154]
+Sushi topped boldly with the
+fattest cut of fine tuna
+
+[captions.155]
+An apple from a land of legend
+Melts on the tongue
+
+[captions.156]
+A speciality of Nagoya:
+green tea uiro
+
+[captions.157]
+A goddess statue. EXP and
+money gained rise by 20%
+
+[captions.158]
+A magic pouch. Outdoors, an
+item pops out now and then
+
+[captions.159]
+A ring with a fairy on it.
+Halves the TP that is spent
+
+[captions.160]
+War god {PHRASE:EA67}physical{PHRASE:EA68}
+
+[captions.161]
+Goddess {PHRASE:EA67}magic{PHRASE:EA68}
+
+[captions.162]
+Flame {PHRASE:EA69}fire
+and earth {PHRASE:EA6A}
+
+[captions.163]
+Water {PHRASE:EA69}wind
+and water {PHRASE:EA6A}
+
+[captions.164]
+A spring-green mantle of the
+elves. Evasion rises by 10%
+
+[captions.165]
+A fine sheer cape for women.
+Stops fire magic, 50% chance
+
+[captions.166]
+A demon's seal. Double EXP,
+but defence and skills sealed
+
+[captions.167]
+A kind of charm.
+Defence rises by 10%
+
+[captions.168]
+Boots with a nightmare charm.
+Battle speed rises by 50%
+
+[captions.169]
+Cat's-paw boots, cute pads
+and all. Damage falls by 30%
+
+[captions.170]
+A crystal ball of smoke.
+Escape speed rises by 50%
+
+[captions.171]
+{PHRASE:EA6B}HP{PHRASE:EA6C}
+
+[captions.172]
+{PHRASE:EA6B}TP{PHRASE:EA6C}
+
+[captions.173]
+Ivory mahjong tiles
+
+[captions.174]
+A crest of fine goldwork.
+Its use is unknown
+
+[captions.175]
+A charm that halves the time
+spent stunned
+
+[captions.176]
+In battle, restores 1 TP
+at set intervals
+
+[captions.177]
+The key that opens the door
+of the Common Room
+
+[captions.178]
+A ring with a gem like flame.
+Its use is unknown
+
+[captions.179]
+A ring with a gem like ice.
+Its use is unknown
+
+[captions.180]
+An accessory that lets every
+skill be used by command
+
+[captions.181]
+A scale of the rare Basilisk.
+Makes a sovereign remedy
+
+[captions.182]
+An iron long sword, with a
+blade of some 90 centimetres
+
+[captions.183]
+A long sword one size larger
+than the Long Sword
+
+[captions.184]
+A long sword of Damascus
+steel, springy and lasting
+
+[captions.185]
+A slender sword made only
+for thrusting
+
+[captions.187]
+{PHRASE:EA6D}.
+Well made and easy to use
+
+[captions.188]
+A kind of polearm. Also called
+a trident or a winged spear
+
+[captions.189]
+A spear fitted with a blade
+like a sabre's
+
+[captions.190]
+A battle axe:
+an axe made for fighting
+
+[captions.191]
+An axe fitted with a blade
+shaped like a crescent moon
+
+[captions.192]
+A kind of Crescent Axe,
+refined in how it handles
+
+[captions.193]
+A straight sword made only
+for cutting
+
+[captions.194]
+A good sword with a blade
+that is half curved
+
+[captions.195]
+A kind of sabre,
+refined in how it handles
+
+[captions.196]
+A halberd. A fine weapon, with
+the best of axe and spear
+
+[captions.197]
+A kind of halberd, made
+with a special metal
+
+[captions.198]
+A kind of axe, but with much
+of the halberd about it
+
+[captions.199]
+A thin, keen curved sword.
+Green marks on a deep blue
+
+[captions.200]
+A sword of light. Its gleam
+is pale and cold as moonlight
+
+[captions.201]
+A famed sword given to one
+hailed a hero in an old realm
+
+[captions.202]
+An axe of springy Damascus
+steel. Light and quick
+
+[captions.203]
+A magic sword named for souls
+crushed. They stain it black
+
+[captions.204]
+A holy sword blessed by the
+goddess of luck. Raises LUC
+
+[captions.205]
+A weapon born of the science
+of Thor, the sunken city
+
+[captions.206]
+An axe with a thunder beast's
+ward. Its blade glows blue
+
+[captions.207]
+A magic sword made with one
+wish: to kill all that lives
+
+[captions.208]
+A holy sword blessed by the
+highest of the gods
+
+[captions.209]
+A sword named for the seal of
+ice. Once the bane of dragons
+
+[captions.210]
+A long sword forged of dragon
+fang. It cuts iron like paper
+
+
+[captions.211]
+A slender sword of old name,
+said to be a great noble's
+
+[captions.212]
+A sacred slender sword blessed
+by the highest of the gods
+
+[captions.213]
+A slender sword that holds the
+power of the demon Flamberge
+
+[captions.214]
+A battle axe with the power
+to rend a dragon of legend
+
+[captions.215]
+A spear made in the gods' last
+war. Mark of the horse's lord
+
+[captions.216]
+A holy halberd blessed by the
+highest of the gods
+
+[captions.217]
+A spear named for a great
+wind. One swing raises a gale
+
+[captions.218]
+Mark of the king of kings.
+Once the hero Gilgamesh's
+
+[captions.219]
+Magic sword, blade like fire{PHRASE:EA6E}
+
+[captions.220]
+Magic sword, blade like ice{PHRASE:EA6E}
+
+[captions.221]
+A magic sword named for time.
+It has power over time
+
+
+[captions.222]
+{PHRASE:EA6F} short bow
+
+[captions.223]
+{PHRASE:EA6F} long bow
+
+[captions.224]
+A strong bow, used to fell a
+berserker who ravaged the land
+
+[captions.225]
+A bow made of several
+materials: a composite bow
+
+[captions.226]
+A bow with a repeater.
+It shoots twice running
+
+
+[captions.227]
+A holy bow of the elves. It
+never, ever misses its mark
+
+[captions.228]
+The bow of light. Its arrow
+flies as one streak of light
+
+[captions.229]
+Earth {PHRASE:EA70}Works well on wind monsters
+
+[captions.230]
+Water {PHRASE:EA70}Works well on fire monsters
+
+[captions.231]
+Flame {PHRASE:EA70}Works well on water monsters
+
+[captions.232]
+Storm {PHRASE:EA70}Works well on earth monsters
+
+[captions.233]
+A magic bow that turns the
+user's own life into power
+
+[captions.234]
+A staff made of oak
+
+[captions.235]
+Cheap gems{PHRASE:EA72}
+
+[captions.236]
+A ruby{PHRASE:EA72}
+
+[captions.237]
+A costly staff carved with
+runes, magic made into letters
+
+[captions.238]
+A sacred staff blessed by
+the highest of the gods
+
+
+[captions.239]
+The horn of the holy unicorn.
+A strong aid to healing arts
+
+[captions.240]
+A magic staff whose swing
+leaves a trail like starlight
+
+[captions.241]
+In full, the Blue Crystal Rod.
+A holy tool of Ishtar's legend
+
+[captions.242]
+{PHRASE:EA73}
+The bible of magic scholars
+
+[captions.243]
+{PHRASE:EA73}A fragment once
+sealed under a certain library
+
+[captions.244]
+{PHRASE:EA73}Bound in the
+hide of some unknown beast
+
+[captions.245]
+{PHRASE:EA73}Metal plates from
+northern ruins, translated
+
+[captions.246]
+{PHRASE:EA73}Crimson, with a
+seal drawn in yellow dye
+
+[captions.247]
+{PHRASE:EA73}Parts of it are
+written in letters of blood
+
+[captions.248]
+{PHRASE:EA73}A phantom book
+rumoured of in the east
+
+[captions.249]
+{PHRASE:EA73}Its spells are
+hidden in the form of a play
+
+[captions.250]
+{PHRASE:EA73}The ultimate one,
+titled The Truth of Magic
+
+[captions.251]
+I'm only a child, I can't tell
+
+[captions.252]
+Only a broom. But in "her"
+hands it is a handy ride
+
+[captions.253]
+A magic broom that leaves a
+trail like a shooting star
+
+[captions.254]
+A pretty broom worked
+with silver
+
+[captions.255]
+A broom that holds the power
+of the spirit of wind
+
+
+[captions.256]
+The famed blade Muramasa. So
+keen its cut gives no pain
+
+[captions.257]
+A broom once ridden by a
+witch from another world
+
+[captions.258]
+Leather armour for the
+upper body
+
+[captions.259]
+Upper-body armour of woven
+metal rings 1 to 2 cm across
+
+[captions.260]
+Upper-body armour of 4 cm
+metal rings sewn on leather
+
+[captions.261]
+Chain mail with square metal
+plates across the chest
+
+[captions.262]
+Armour of metal plate for
+the upper body
+
+[captions.263]
+Armour of metal plate for
+the whole body
+
+[captions.264]
+A cloak made of cloth
+
+[captions.265]
+A cloth cloak worked
+with embroidery
+
+[captions.266]
+A cloak woven of
+silver thread
+
+[captions.267]
+Plate armour made of silver
+
+[captions.268]
+A cloak woven of threads of
+mithril, the magic metal
+
+[captions.269]
+Plate armour of mithril
+silver, the magic metal
+
+[captions.271]
+Magic armour named for
+reflection
+
+[captions.272]
+A holy cloak blessed by
+the highest of the gods
+
+[captions.273]
+A magic cloak that glints
+like a star at times
+
+[captions.274]
+Golden armour. The hero
+Gilgamesh's, in Ishtar's tale
+
+[captions.275]
+Armour warded by the great
+mother goddess of the earth
+
+[captions.276]
+A magitech sword. It uses TP
+but has a high critical rate
+
+[captions.277]
+A wooden shield
+
+[captions.278]
+A round metal shield
+
+[captions.279]
+A square metal shield, finer
+to use than a Round Shield
+
+[captions.280]
+A metal shield for swordsmen
+
+[captions.281]
+A kind of Feet Shield,
+refined and easy to use
+
+[captions.282]
+A shield with the holy sign
+of the ankh at its centre
+
+[captions.283]
+A shield of an unknown metal.
+Strong, and light
+
+[captions.285]
+A ring in shape. Held up, it
+shows a sheer magic shield
+
+[captions.286]
+The Red Line Shield. Raise it
+and fighting spirit wells up
+
+[captions.287]
+The Blue Line Shield. Raise it
+and courage wells up
+
+[captions.288]
+A leather helm. The kind that
+covers only the head
+
+[captions.289]
+An iron helm. The kind that
+shows only the lower face
+
+[captions.290]
+An iron helm that covers
+the head and the whole face
+
+
+[captions.291]
+A kind of Armet Helm,
+refined in how it works
+
+[captions.292]
+A hat
+
+[captions.293]
+A hat that clergy like to wear
+
+[captions.294]
+A kind of beret
+
+[captions.295]
+A well-made beret
+
+[captions.296]
+A red ribbon
+
+[captions.297]
+A blue ribbon
+
+[captions.298]
+A striped ribbon
+
+[captions.299]
+A very pretty ribbon
+
+[captions.300]
+A helm given to a warrior
+hailed a hero in an old realm
+
+[captions.301]
+A helm of an unknown metal.
+Strong, and light
+
+[captions.303]
+A ribbon of strong magic.
+Its design has taste too
+
+[captions.304]
+A magic hat that glints
+like a star at times
+
+[captions.305]
+Leather gloves
+
+[captions.306]
+Iron gloves
+
+[captions.307]
+Iron gauntlets
+
+[captions.308]
+Gauntlets of mithril,
+the magic metal
+
+[captions.309]
+Gauntlets of unknown metal.
+Strong, and light
+
+[captions.311]
+Hyper Gauntlets. Put them on
+and the sword feels quicker
+
+[captions.312]
+Very pretty gloves
+
+[captions.313]
+A strange lens that shows a
+foe's HP, TP and element
+
+[captions.314]
+In battle, it can stop the
+foes for a short time
+
+[captions.315]
+The water of life. It can
+revive a stunned companion
+
+[captions.316]
+Magic that makes the taker a
+nice guy. 30% off in the shops
+
+[captions.317]
+Fire water. In battle, attack
+rises by 30% for a time
+
+[captions.318]
+A potion of enchantment. Used
+on an item, it changes it
+
+[captions.319]
+Good drink. Attack falls 20%,
+no poison, palsy or stone
+
+[captions.320]
+A cure-all. Heals poison,
+palsy and turning to stone
+
+[captions.321]
+{PHRASE:EA62} apple flavour.
+HP{PHRASE:EA75}
+
+[captions.322]
+{PHRASE:EA62} orange flavour.
+TP{PHRASE:EA75}
+
+[captions.323]
+A jelly, mixed flavour.
+HP and TP:{PHRASE:EA75}
+
+[captions.324]
+{PHRASE:EA64}TP{PHRASE:EA76}
+
+[captions.325]
+{PHRASE:EA64}HP{PHRASE:EA76}
+
+[captions.326]
+{PHRASE:EA64}STR {PHRASE:EA77}
+
+[captions.327]
+{PHRASE:EA64}AGL {PHRASE:EA77}
+
+[captions.328]
+Holy{PHRASE:EA78}
+It keeps foes away
+
+[captions.329]
+Evil{PHRASE:EA78}
+It draws foes near
+
+[captions.330]
+An elixir that restores all
+HP and TP
+
+[captions.331]
+Bread baked brown, full of
+good smells
+
+[captions.332]
+Camembert cheese
+
+[captions.333]
+Good meat
+
+[captions.334]
+A splendid steak (boom)
+
+[captions.335]
+Fowl. Meat this rich must
+come of a life in the wild
+
+[captions.336]
+Meat of a beast
+
+[captions.337]
+Meat of a young animal. Mild
+and soft, good cooked any way
+
+[captions.338]
+Seafood, fresh off the boat:
+more bite than flavour
+
+[captions.339]
+Greens. Fresh greens are
+sweet. True. Don't trust looks
+
+[captions.340]
+The fat cut of tuna on a
+mouthful of vinegared rice
+
+[captions.341]
+A sweet and sour apple
+
+[captions.342]
+A sweet with a clean
+sweetness all its own
+
+[captions.343]
+Miso made with care by a
+master. The point of oden
+
+[captions.345]
+Konnyaku root, ground, mixed
+with lime and boiled firm
+
+[captions.346]
+A sword of Euclid's Black
+Knights. Keener than a shop's
+
+[captions.347]
+{PHRASE:EA79}.
+Good stock comes of good kelp
+
+[captions.348]
+{PHRASE:EA79}.
+A firm white shows it's fresh
+
+[captions.349]
+A magic orb. It lets you
+sense foes nearby
+
+[captions.350]
+A magic pouch. Outdoors, an
+item pops out now and then
+
+[captions.351]
+Magic lipstick. Smear it on
+for ?0% off in the shops
+
+[captions.352]
+A nameless goddess's statue.
+EXP and money rise by 10%
+
+[captions.353]
+Feel like a drummer
+
+[captions.354]
+A holy crest. Restores 5% of
+max HP at set intervals
+
+[captions.355]
+A warrior's crest.
+Attack rises by 10%
+
+[captions.356]
+A mage's crest.
+Casting time is halved
+
+[captions.357]
+A magic ring.
+TP spent falls to 2/3
+
+[captions.358]
+War god {PHRASE:EA67}physical{PHRASE:EA7A}
+
+[captions.359]
+Goddess {PHRASE:EA67}magic{PHRASE:EA7A}
+
+[captions.360]
+A cloth mantle. A must for
+the well-dressed adventurer
+
+[captions.361]
+A leather mantle, for the old
+hand. No fear of rainy days
+
+[captions.362]
+A black mantle thieves like.
+Evasion rises by 5%
+
+[captions.363]
+A woman's cape, silver-woven.
+Stops fire spells, 30% chance
+
+[captions.364]
+An evil seal. EXP gained is
+1.5 times, but skills sealed
+
+[captions.365]
+A stand-in statue. Revives you
+at once. May break: 99%
+
+[captions.366]
+A kind of charm.
+Defence rises by 5%
+
+[captions.367]
+Boots of the elves. In battle,
+speed rises by 20%
+
+[captions.368]
+Iron boots. Triple the weight
+and half the speed in battle
+
+[captions.369]
+Stops the summoning magic
+Chameleon
+
+[captions.370]
+{PHRASE:EA7B}
+Death Cloud
+
+[captions.371]
+{PHRASE:EA7B}
+Tractor Beam
+
+[captions.372]
+Stops Wall spells
+
+[captions.373]
+A charm against poison
+
+[captions.374]
+A charm against turning to
+stone
+
+[captions.375]
+A charm against palsy
+
+[captions.376]
+A crystal ball of smoke.
+Escape speed rises by 30%
+
+[captions.377]
+A rabbit's foot, a famed
+charm. LUC rises by 10%
+
+[captions.378]
+A candle with a blue flame.
+In dungeons, B{PHRASE:EA7E}
+
+[captions.379]
+A lantern with a red flame.
+In dungeons, R{PHRASE:EA7E}
+
+[captions.380]
+A torch with a green flame.
+In dungeons, G{PHRASE:EA7E}
+
+[captions.381]
+Lets Custom turn the combo
+display ON and OFF
+
+[captions.382]
+{PHRASE:EA7F} A gem that shows
+its true beauty under light
+
+[captions.383]
+{PHRASE:EA7F} Elephant tusk,
+often used in craftwork
+
+[captions.384]
+{PHRASE:EA7F} Whale meat, of
+a bite no beast's meat has
+
+[captions.385]
+{PHRASE:EA7F} Dangerous:
+handle with care
+
+[captions.386]
+{PHRASE:EA7F} A sparkling
+sake. Harmony brews good sake
+
+[captions.387]
+{PHRASE:EA7F} Pure rice sake,
+crisp to drink and to finish
+
+[captions.388]
+{PHRASE:EA7F} A herbal medicine
+
+[captions.389]
+{PHRASE:EA7F} A mystery cloth
+with a striking crimson S
+
+[captions.390]
+{PHRASE:EA7F} A painting in
+the mystic style of Japon
+
+[captions.391]
+{PHRASE:EA7F} An old pot full
+of flavour. Gives a deep taste
+
+[captions.392]
+Mother's keepsake, a healer's
+token. Stops plain spells
+
+[captions.393]
+Boots with wings on them.
+Dash with the cancel button
+
+[captions.394]
+A book with a round yellow
+fellow on it. Not "no good"
+
+[captions.395]
+Miso oden. Tasty
+
+[captions.396]
+A tool for breaking rock
+
+[captions.397]
+A tool for climbing up to
+high places and down to low
+
+[captions.398]
+A ring of the fire spirit.
+Confirm button makes fire
+
+[captions.399]
+Alvanista's king
+
+[captions.400]
+A sack that holds food.
+
+[captions.401]
+A present from his father
+Miguel, for his 15th birthday
+
+[captions.402]
+An earring from a mystery
+woman. It opened the dungeon
+
+[captions.403]
+A gem holding a dead soul.
+Needed to open a special door
+
+[captions.404]
+The book received from
+Trinicus D. Morrison
+
+[captions.405]
+The bow a close friend used.
+It is already broken
+
+[captions.406]
+A gem from the spirit of wind.
+Lets you speak with Yggdrasil
+
+[captions.407]
+The key that opens the doors
+inside Demitel's mansion
+
+[captions.408]
+A permit to enter Moria Mine,
+issued by {PHRASE:EA80}
+
+[captions.409]
+Lets you into the elves' land.
+Emblem of {PHRASE:EA80}
+
+[captions.410]
+{PHRASE:EA81}
+Holds up to 200
+
+[captions.411]
+{PHRASE:EA81}
+Holds up to 2000
+
+[captions.412]
+{PHRASE:EA81}
+Holds up to 20000
+
+[captions.413]
+The letter Lundgrom wrote
+to Edward
+
+[captions.414]
+A pact ring, nearly broken,
+found in the Moria Mine
+
+[captions.415]
+A key found in the Cave of
+Burning Sand
+
+[captions.416]
+Playing cards found in Thor,
+marked with an odd crest
+
+[captions.417]
+A bluish hand mirror.
+Its use is unknown
+
+[captions.418]
+A golden key
+
+[captions.419]
+A small capsule holding the
+Rheaird. Easy to carry
+
+[captions.420]
+A paper in Aifread's family
+code, telling of treasure
+
+[captions.421]
+The dress Aifread gave his
+wife Rosania. Soiled past use
+
+[captions.422]
+A fire attack spell.
+
+[captions.423]
+A wind attack spell.
+
+[captions.424]
+A water attack spell.
+
+[captions.425]
+An earth attack spell.
+
+[captions.426]
+A non-elemental attack spell.
+
+[captions.427]
+A forbidden magic, long sealed
+
+[captions.428]
+
+
+[captions.429]
+A healing art.
+
+[captions.430]
+A summoning spell.
+
+[captions.431]
+A forbidden spell, long sealed
+
+
+[captions.432]
+A thunder attack spell.
+
+[captions.433]
+The simplest fire spell.
+Shoots a ball of fire
+
+[captions.434]
+The simplest thunder spell.
+Calls down a small bolt
+
+[captions.435]
+The simplest water spell.
+Shoots countless blades of ice
+
+[captions.436]
+The simplest earth spell.
+Raises spears of rock
+
+[captions.437]
+{PHRASE:EA84}
+Raises magma around the foe
+
+[captions.438]
+{PHRASE:EA85}
+Whips up a gale around the foe
+
+[captions.439]
+{PHRASE:EA86}
+Traps the foe in an ice storm
+
+[captions.440]
+{PHRASE:EA87}
+Shuts the foe inside rock
+
+[captions.441]
+{PHRASE:EA88}
+Lifts foes skyward, drops them
+
+[captions.442]
+{PHRASE:EA84}
+Raises a blazing wall of fire
+
+[captions.443]
+{PHRASE:EA8E}
+Drops bolts around the foe
+
+[captions.444]
+{PHRASE:EA86}
+Shuts the foe in ice
+
+[captions.445]
+{PHRASE:EA84}
+Blows magma up from the ground
+
+[captions.446]
+A light attack spell.
+Burns the foe with many lasers
+
+[captions.447]
+{PHRASE:EA84}
+Raises a firestorm on the foe
+
+[captions.448]
+{PHRASE:EA85}
+Crushes the foe with wind
+
+[captions.449]
+{PHRASE:EA88}
+Seals the foe in warped space
+
+[captions.450]
+{PHRASE:EA84}
+Sets off a great blast
+
+[captions.451]
+{PHRASE:EA8E}
+Brings down the thunder of God
+
+[captions.452]
+{PHRASE:EA86}
+Raises a flood around the foe
+
+[captions.453]
+{PHRASE:EA87}
+Calls death's cloud from hell
+
+[captions.454]
+{PHRASE:EA88}
+Drops meteorites on the foe
+
+[captions.455]
+{PHRASE:EA89}
+A dark hole swallows the foe
+
+[captions.456]
+{PHRASE:EA89}
+Breaks foes down to molecules
+
+[captions.457]
+{PHRASE:EA8B}
+Restores one ally's HP
+
+[captions.458]
+{PHRASE:EA8B}
+Fog that lowers the foe's aim
+
+[captions.459]
+{PHRASE:EA8B}
+Stuns the foe
+
+[captions.460]
+{PHRASE:EA8B}
+Restores one ally's HP
+
+[captions.461]
+{PHRASE:EA8B}
+Clears poison from one ally
+
+[captions.462]
+{PHRASE:EA8B}
+Seals the foe's spells
+
+[captions.463]
+{PHRASE:EA8B}
+Rain that lowers foes' defence
+
+[captions.464]
+{PHRASE:EA8B}
+Restores one ally's HP
+
+[captions.465]
+{PHRASE:EA8B}
+Raises all allies' attack
+
+[captions.466]
+{PHRASE:EA8B}
+Cures poison, palsy and stone
+
+[captions.467]
+{PHRASE:EA8B}
+Raises all allies' defence
+
+[captions.468]
+{PHRASE:EA8B}
+Undoes changes to an ally
+
+[captions.469]
+{PHRASE:EA8B}
+Restores all allies' HP
+
+[captions.470]
+{PHRASE:EA8B}
+Raises all allies' speed
+
+[captions.471]
+{PHRASE:EA8B}
+Lowers the foe's speed
+
+[captions.472]
+{PHRASE:EA8B}
+Stuns the foe and those near
+
+[captions.473]
+{PHRASE:EA8B}
+Restores all allies' HP
+
+[captions.474]
+{PHRASE:EA8B}
+Revives one fallen ally
+
+[captions.475]
+{PHRASE:EA8C}
+Calls Sylph, spirit of wind
+
+[captions.476]
+{PHRASE:EA8C}
+Calls Undine, spirit of water
+
+[captions.477]
+{PHRASE:EA8C}
+Calls Gnome, spirit of earth
+
+[captions.478]
+{PHRASE:EA8C}
+Calls Ifrit, spirit of fire
+
+[captions.479]
+{PHRASE:EA8C}
+Calls Maxwell, lord of spirits
+
+[captions.480]
+{PHRASE:EA8C}
+Calls Luna, spirit of the moon
+
+[captions.481]
+{PHRASE:EA8C}
+Calls Shadow, spirit of dark
+
+[captions.482]
+{PHRASE:EA8C}
+Calls Aska, spirit of light
+
+[captions.483]
+{PHRASE:EA8C}
+Calls Volt, spirit of thunder
+
+[captions.484]
+{PHRASE:EA8C}
+Calls Origin, spirit of source
+
+[captions.485]
+{PHRASE:EA8D}Summons a swarm of imps
+
+[captions.486]
+{PHRASE:EA8D}Summons the beast Chameleon
+
+[captions.487]
+Like a beast's fangs on prey:
+two cuts, from above and below
+
+[captions.488]
+Sends sword force flying to
+strike a distant foe
+
+[captions.489]
+Plants the weapon to raise a
+wall of light that bars foes
+
+[captions.490]
+A flurry of thrusts. Each one
+has half the usual power
+
+[captions.491]
+A vacuum wave cuts a far foe.
+Three times the power
+
+[captions.492]
+A fierce charge that drives
+the foes back together
+
+[captions.493]
+Hurls the weapon, wrapped in
+fiery spirit, to burn the foe
+
+[captions.494]
+Draws in the air's spirit to
+restore one's own strength
+
+[captions.495]
+Focuses spirit to raise
+attack power for a time
+
+[captions.496]
+Focuses spirit to raise
+defence for a time
+
+[captions.497]
+Wrapped in a phoenix's aura,
+soars up and dives at the foe
+
+[captions.498]
+Two kicks, then a thrust.
+Best used at close quarters
+
+[captions.499]
+Calls down lightning that
+catches the foes all around
+
+[captions.500]
+A spinning thrust that sends
+spirit whirling skyward
+
+[captions.501]
+A time-space sword art. Cuts
+with spirit beyond human power
+
+[captions.502]
+A time-space sword art. Warps
+before the foe and strikes on
+
+[captions.503]
+A time-space sword art. Warps
+space to cut the foe in two
+
+[captions.504]
+
+as one secret art
+
+[captions.505]
+
+as one secret art
+
+[captions.506]
+Majinken + Hienrenkyaku{PHRASE:EA82}
+
+[captions.507]
+Majinken + Kogahazan{PHRASE:EA82}
+
+[captions.508]
+Majinken + Akisazame
+as one secret art
+
+[captions.509]
+Majinken + Senkuuretsuha{PHRASE:EA82}
+
+[captions.510]
+Shishisenkou + Hienrenkyaku{PHRASE:EA83}
+
+[captions.511]
+Shishisenkou + Kogahazan{PHRASE:EA83}
+
+[captions.512]
+Shishisenkou + Akisazame{PHRASE:EA82}
+
+[captions.513]
+Shishisenkou + Senkuuretsuha{PHRASE:EA83}
+
+[captions.514]
+Shuusouraizan + Hienrenkyaku{PHRASE:EA83}
+
+[captions.515]
+Shuusouraizan + Kogahazan{PHRASE:EA83}
+
+[captions.516]
+Shuusouraizan + Akisazame{PHRASE:EA82}
+
+[captions.517]
+Shuusouraizan + Senkuuretsuha{PHRASE:EA83}
+
+[captions.518]
+Hououtenku + Hienrenkyaku{PHRASE:EA83}
+
+[captions.519]
+Hououtenku + Kogahazan{PHRASE:EA83}
+
+[captions.520]
+Hououtenku + Akisazame{PHRASE:EA82}
+
+[captions.521]
+Hououtenku + Senkuuretsuha{PHRASE:EA83}
+
+[captions.522]
+Jigenzan + Kokuusouhazan
+as one secret art of time
+
+[captions.523]
+Kuukanshouteni + Kokuusouhazan
+as one secret art of time
+
+[captions.524]
+Items
+
+[captions.525]
+Gear
+
+[captions.526]
+Tech
+
+[captions.527]
+Plan
+
+[captions.528]
+Line
+
+[captions.529]
+Status
+
+[captions.530]
+Custom
+
+[captions.531]
+Save
+
+[captions.532]
+ obtained.
+
+[captions.533]
+Empty.
+
+[captions.534]
+ was here, but you can carry no more.
+
+[captions.535]
+Load
+
+[captions.536]
+Naming
+
+[captions.537]
+Tech
+
+[captions.538]
+SL
+
+[captions.539]
+TH
+
+[captions.540]
+Controls (in battle)
+　: slashing skill
+　+ 　: thrusting skill
+
+[captions.541]
+Arts
+
+[captions.542]
+After that,
+no one ever learned
+where they went...
+
+[captions.543]
+Prized
+
+[captions.544]
+Arms
+
+[captions.545]
+Armour
+
+[captions.546]
+Arms, armour
+
+[captions.547]
+Items
+
+[captions.548]
+Food
+
+[captions.549]
+General
+
+[captions.550]
+Meds
+
+[captions.551]
+Pedlar
+
+[captions.552]
+Geese's Shop
+
+[captions.553]
+Supplies
+
+[captions.554]
+　　　Choose an item
+　　Fewer
+　　More
+　　Confirm
+　　Switch description
+
+[captions.555]
+Nothing to sell
+
+[captions.556]
+It cannot be taken off.
+She will not have it
+
+[captions.557]
+Skills
+
+[captions.558]
+Please wait
+
+
+[captions.559]
+Items are full, so some gear
+cannot be swapped
+
+[captions.560]
+Items are full, so it
+cannot be taken off
+
+[captions.561]
+Use it on whom?
+
+[captions.562]
+Everyone became a cool guy
+
+[captions.563]
+Everyone became a nice guy
+
+[captions.564]
+Everyone became a beauty
+
+[captions.565]
+Sword
+
+[captions.566]
+Spear
+
+[captions.567]
+Axe
+
+[captions.568]
+Bow
+
+[captions.569]
+Staff
+
+[captions.570]
+Sword
+
+[captions.571]
+Body
+
+[captions.572]
+Shield
+
+[captions.573]
+Head
+
+[captions.574]
+Arms
+
+[captions.575]
+Accessory
+
+[captions.576]
+Tools
+
+[captions.577]
+Food
+
+[captions.578]
+Broom
+
+[captions.579]
+Book
+
+[captions.580]
+Food went into the Food Sack.
+
+[captions.581]
+It feels as if holy air
+wraps your whole body
+
+[captions.582]
+It feels as if evil air
+wraps your whole body
+
+[captions.583]
+Now you too are a drummer,
+from today!!
+
+[captions.584]
+It grew brighter all around
+
+[captions.585]
+No more food will go
+into the Food Sack
+
+[captions.586]
+It cannot be used here
+
+[captions.587]
+There are none left
+
+[captions.588]
+This item lets you sense
+foes nearby.
+It works for good and
+can be used again and again
+
+[captions.589]
+ is what it turned into.
+
+[captions.590]
+　: use the art (healing only)
+　: set whether it is used
+in battle
+
+[captions.591]
+Equip it on whom?
+
+[captions.592]
+Not enough TP
+
+[captions.593]
+Unable to fight
+
+[captions.594]
+Newly obtained items
+to the front
+
+[captions.595]
+Items for use in battle
+to the front
+
+[captions.596]
+Sorts in alphabetical order
+
+[captions.597]
+Weapons to the front
+
+[captions.598]
+Armour, clothes to the front
+
+[captions.599]
+Other armour to the front
+
+[captions.600]
+Accessories to the front
+
+[captions.601]
+Food to the front
+
+[captions.602]
+Tools to the front
+
+[captions.603]
+Yume wa Owaranai
+
+[captions.604]
+Lyrics: Shoko Fujibayashi
+
+[captions.605]
+Music: Toshiyuki Sekiguchi
+
+[captions.606]
+Arranged: Hiroya Hatsushiba
+
+[captions.607]
+Vocals: Yukari Yoshida
+
+[captions.608]
+Takeshi Kusao
+
+[captions.609]
+Kazuhiko Inoue
+
+[captions.610]
+Kaneto Shiozawa
+
+[captions.611]
+Kosuke Fujishima
+
+[captions.612]
+Put it in the Food Sack?
+
+[captions.613]
+Nothing chosen yet
+
+[captions.614]
+Items are full: cannot buy
+
+[captions.615]
+～Drops of time fall～
+
+[captions.616]
+ Gald obtained.
+
+[captions.617]
+Change the party
+Swap with whom?
+
+[captions.618]
+No swap can be made
+
+[captions.619]
+No room for the new item
+（　　　　　　　　　）
+
+[captions.620]
+That swap would leave no one
+standing. It cannot be made
+

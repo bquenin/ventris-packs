@@ -1,0 +1,209 @@
+[06610.001]
+Dycroft: Control Room
+
+[06610.002]
+Dycroft
+
+[06610.003]
+Control Room
+
+[06610.004]
+Barbatos
+
+[06610.005]
+So you have come at last... I was tired of waiting, {NAME:01 00 00 00} Dunamis!
+
+[06610.007]
+Barbatos! I knew it was you!
+
+[06610.009]
+We won't let you toy with the history of mankind any longer!
+
+[06610.010]
+Barbatos
+
+[06610.011]
+The history of mankind...? Hah! That is nothing to me any more!
+
+[06610.013]
+What...!?
+
+[06610.014]
+Barbatos
+
+[06610.015]
+Dymlos, and those they call heroes, are nothing to me any more.
+
+[06610.016]
+Barbatos
+
+[06610.017]
+My one aim... {NAME:01 00 00 00}! ...is to strike you down!!
+
+[06610.019]
+I see. So that's why you couldn't beat Dymlos even born over again.
+
+[06610.020]
+Barbatos
+
+[06610.021]
+...What!?
+
+[06610.023]
+With no conviction like Dymlos's, just hunting for enemies. Even an ape could do that.
+
+[06610.025]
+If you're going to play the villain, at least struggle to the end to change history. It's a sorry sight.
+
+[06610.026]
+Barbatos
+
+[06610.027]
+...Hmph. Is it not you, of all people, who wishes to change history?
+
+[06610.029]
+...What did you say?
+
+[06610.030]
+Barbatos
+
+[06610.031]
+Your brother dies in the fight with Miktran, each striking the other down. That is the history, as things stand now.
+
+[06610.032]
+Barbatos
+
+[06610.033]
+But go at once and you will be in good time. You can change history.
+
+[06610.034]
+Barbatos
+
+[06610.035]
+Come, let me see you struggle. To change history! Heheheh... Haahahahaha!
+
+[06610.037]
+........
+................
+
+[06610.039]
+Barbatos, you...!
+
+[06610.040]
+Barbatos
+
+[06610.041]
+Yes, those eyes, {NAME:01 00 00 00}! Those eyes full of hatred are what I have longed for!
+
+[06610.042]
+Barbatos
+
+[06610.043]
+Now you are worth the killing! Come, {NAME:01 00 00 00}, have at me! Slake my thirst!!
+
+[06610.044]
+Voice on the Radio
+
+[06610.045]
+Blocks A through J have fallen! Enemy units pushing on into Block M. Send help, at once, send...!
+
+[06610.046]
+Voice on the Radio
+
+[06610.047]
+Where is Lord Miktran!? Damn, can no one reach him!? Our unit has heavy losses. Request leave to surrender.
+
+[06610.049]
+Give it up, Barbatos!
+
+[06610.050]
+Barbatos
+
+[06610.051]
+Dull... This age will not do... A place more... more fitting!
+
+[06610.053]
+Wait, where are you going, Barbatos!?
+
+[06610.054]
+Barbatos
+
+[06610.055]
+To the place most fitting for the contest between you and me...
+
+[06610.056]
+Barbatos
+
+[06610.057]
+{NAME:01 00 00 00} Dunamis... Beyond time... before the "Eye of God", I shall be waiting...!
+
+[06610.059]
+So he got away in the end...
+
+[06610.061]
+Barbatos can meddle no further. We may leave him be.
+
+[06610.063]
+More to the point, {NAME:01 00 00 00}...
+
+[06610.065]
+That's right, {NAME:06 00 00 00}...!
+
+[06610.067]
+I'd better lock it. We can't have Belcrant started up again.
+
+[06610.069]
+{NAME:06 00 00 00}... Um, what Barbatos said just now...
+
+[06610.071]
+...I told you. Even if I knew the future, I wouldn't mean to change it.
+
+[06610.073]
+I do what I have to do. ...That's all.
+
+[06610.075]
+{NAME:06 00 00 00}...
+
+[06610.077]
+...It's done. Come on, let's go, everybody.
+
+[06610.079]
+...To the throne room, where Miktran is.
+
+[06610.080]
+Have a safe journey.
+
+[06610.081]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06610.082]
+Will you stay the night?
+
+[06610.084]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06610.085]
+Please rest well.
+
+[06610.086]
+Good morning.
+
+[06610.087]
+You do not have enough money.
+
+[06610.088]
+We look forward to seeing you again.
+
+[06610.093]
+Obtained {16:26 0E}.
+
+[06610.095]
+Obtained {08:FF FF FF FF}.
+
+[06610.097]
+Found {16:26 16}, but you can carry no more.
+
+[06610.099]
+There is nothing here.
+

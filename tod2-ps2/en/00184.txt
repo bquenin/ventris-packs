@@ -1,0 +1,12 @@
+[00184.001]
+The Great Temple of Straylize. I knew the name from your letters, {NAME:03 00 00 00}, but I never thought I'd be going there.
+
+[00184.002]
+Well, to anyone but a believer it's a place of no account. Hoarding Lenses, building a grand temple. Nothing good.
+
+[00184.003]
+You were a knight of the Order of Atamoni, {NAME:03 00 00 00}. Should you be saying that?
+
+[00184.004]
+It's fine. I only wanted to be a knight. Atamoni was just thrown in. Seems it mattered more to everyone but me.
+

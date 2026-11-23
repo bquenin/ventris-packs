@@ -1,0 +1,15 @@
+[00208.001]
+I know! Let's buy something before we board!
+
+[00208.002]
+Hey, hey, this isn't a school outing. You mean snacks, don't you?
+
+[00208.003]
+Hehe~, of course! Hey, hey, what'll we buy? What do you want, {NAME:02 00 00 00}?
+
+[00208.004]
+{NAME:01 00 00 00}, snacks up to 300 Gald, no more.
+
+[00208.005]
+Eh? Are bananas a snack?
+

@@ -1,0 +1,54 @@
+[06270.4788]
+Kanbara Bear
+
+[06270.4803]
+God Bear
+
+[06270.4814]
+Whatsit Bear
+
+[06270.4829]
+Nam Pla Bear
+
+[06270.4844]
+Moon
+
+[06270.4851]
+Cute Little Teddy
+
+[06270.4870]
+Strong Teddy
+
+[06270.4887]
+Kandata Bear
+
+[06270.4902]
+This monster's name is?
+
+[06270.4927]
+Good.
+
+[06270.4934]
+Naive.
+
+[06270.4943]
+Like gels
+that much?
+
+[06270.4967]
+Are you mocking me?
+
+[06270.4988]
+Your taste is
+beyond me
+
+[06270.5014]
+True, it looks strong...
+
+[06270.5041]
+Close
+...but wrong
+
+[06270.5067]
+Too slow!
+

@@ -1,0 +1,102 @@
+[39.000]
+{クラース}
+"Come now, we have no time to spare. Let us stop dawdling here and get to the Forest of Spirits."
+
+[39.001]
+Town of Hamel
+
+[39.002]
+{クラース}
+"The town{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"How terrible{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"Are there no survivors?"{PAGE}
+{クレス}
+"{SPEED:10}...{SPEED:FF}"
+
+[39.003]
+{クレス}
+"Are you all right!?"
+
+[39.004]
+Girl
+"Oh, I{SPEED:10}...{SPEED:FF} I am not hurt."{PAGE}
+{クラース}
+"What on earth happened to this town!?"{PAGE}
+Girl
+"Demitel{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"What?"{PAGE}
+Girl
+"That is the name of the mage who attacked this town. He killed my parents too..."
+
+[39.005]
+{クレス}
+"If it's revenge you want, I'll help you!"{PAGE}
+
+
+[39.006]
+Girl
+"What?"{PAGE}
+
+
+[39.007]
+{クラース}
+"Now, now! We have no time for this!"
+
+[39.008]
+{ミント}
+"B-but{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"Come now, not you too, {ミント}!"{PAGE}
+{クレス}
+"I know we have to hurry, but I...!"
+
+[39.009]
+{クラース}
+"You are very worked up. Did something happen?"{PAGE}
+
+
+[39.010]
+{クレス}
+"{SPEED:10}...{SPEED:FF}"
+
+[39.011]
+{クレス}
+"It's nothing. I just can't leave her like this{SPEED:10}...{SPEED:FF}"
+
+[39.012]
+{ミント}
+"I agree with {クレス}."
+
+[39.013]
+{クラース}
+"{SPEED:10}...{SPEED:FF}Very well, then."{PAGE}
+
+
+[39.014]
+"Then let us hear her story. If our man is a mage, we may learn something about magic."{PAGE}
+
+
+[39.015]
+Girl
+"Oh, I don't know how to thank you{SPEED:10}...{SPEED:FF} Thank you so very much.{PAGE}
+Ah, I should have said sooner: my name is Rhea Scarlet.{PAGE}
+I don't know exactly where Demitel is, but I saw him go off to the north."{PAGE}
+{クラース}
+"I see. So if we search towards Venezia, we are likely to find him."{PAGE}
+{ミント}
+"I am {ミント}. This is {クレス}. And that is {クラース}. Pleased to meet you."{PAGE}
+Rhea
+"Yes, and I am pleased to meet you too."
+
+[39.016]
+"Eh? Why are there so few people about?{PAGE}
+Everyone's gone to the church to pray to God."
+
+
+[39.017]
+"Is God important?{PAGE}
+Everyone goes to church to pray every single day, after all."
+

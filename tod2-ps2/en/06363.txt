@@ -1,0 +1,304 @@
+[06363.001]
+Aigrette: Approach to the Great Temple
+
+[06363.002]
+Aigrette
+
+[06363.003]
+Aigrette: Approach to the Temple
+
+[06363.004]
+Aigrette
+
+[06363.005]
+Aigrette: Approach to the Great Temple
+
+[06363.006]
+Aigrette: Approach to the Temple
+
+[06363.008]
+The Great Temple of Straylize can be seen, surrounded by majestic nature.
+
+[06363.010]
+Straylize Temple can be seen, surrounded by majestic nature.
+
+[06363.012]
+Wait, {NAME:04 00 00 00}!
+
+[06363.014]
+Just walking off like that is mean! We haven't even thanked you for saving us yet.
+
+[06363.016]
+I need no thanks. I happened to be passing and helped you on a whim. That is all.
+
+[06363.018]
+How do you just happen to pass by a place like that! You came to save us, obviously.
+
+[06363.020]
+...If that's what you want to think, suit yourself. Farewell.
+
+[06363.022]
+Wait! {NAME:04 00 00 00}, why do you keep helping us!?
+
+[06363.024]
+Because watching you is so nerve-racking that it irritates me.
+
+[06363.026]
+Well then, {NAME:04 00 00 00}, you should just come with us!
+
+[06363.028]
+What?
+
+[06363.030]
+It irritates you because you watch from far away. If you're close by, it won't.
+
+[06363.032]
+Besides, Philia said so too, didn't she? That {NAME:02 00 00 00} needs companions. So you too, {NAME:04 00 00 00}...
+
+[06363.034]
+{NAME:04 00 00 00}?
+
+[06363.036]
+...Don't. Take me as a companion and nothing good will come of it.
+
+[06363.038]
+Nothing good, like what?
+
+[06363.040]
+...I have no need to tell you.
+
+[06363.041]
+Guard
+
+[06363.042]
+Hey, you there!
+
+[06363.043]
+Guard
+
+[06363.044]
+Have you seen anyone suspicious around here?
+
+[06363.045]
+Guard
+
+[06363.046]
+It seems intruders have broken into the temple. Do you know anything?
+
+[06363.048]
+Gulp!
+
+[06363.049]
+Guard
+
+[06363.050]
+What, do you know something?
+
+[06363.052]
+N-no! Nothing at all! Intruders, huh. Wow, how terrifying!
+
+[06363.053]
+Guard
+
+[06363.054]
+...Come to think of it, today is not a day of worship. What are you doing in a place like this?
+
+[06363.056]
+Uh, um, well...
+
+[06363.058]
+W-well, you see, we were walking along the road and got lost, and ended up here...
+
+[06363.060]
+If we shouldn't be here, we'll be gone right away! See you!
+
+[06363.061]
+Guard
+
+[06363.062]
+...Hey, hold it! The one standing behind you. Why won't he look this way?
+
+[06363.064]
+...
+
+[06363.065]
+Guard
+
+[06363.066]
+A suspicious fellow... Hey, I'm telling you to turn around!
+
+[06363.068]
+P-please wait! He's one of our companions!
+
+[06363.070]
+...!
+
+[06363.071]
+Guard
+
+[06363.072]
+A companion...?
+
+[06363.074]
+Yes! Isn't that right, {NAME:03 00 00 00}!
+
+[06363.076]
+Ah... Yes, that's right!
+
+[06363.078]
+You see, he's got a stomachache or something... Right, {NAME:02 00 00 00}?
+
+[06363.080]
+Ah, um... that's right! He said it hurt to move, so he was resting here!
+
+[06363.081]
+Guard
+
+[06363.082]
+Is that true...?
+
+[06363.084]
+Aaaah! A suspicious figure, just now!
+
+[06363.085]
+Guard
+
+[06363.086]
+What, where!?
+
+[06363.088]
+Look, look, over there! If you don't chase him quick, you'll lose him!
+
+[06363.089]
+Guard
+
+[06363.090]
+Right, let's go!
+
+[06363.092]
+Hey, {NAME:03 00 00 00}, where!? Where is he!?
+
+[06363.094]
+You du~mmy, it was a lie. If I hadn't done that, they'd have kept grilling us, right?
+
+[06363.096]
+...Why did you cover for me? Even lying that I was a companion.
+
+[06363.098]
+Because you are our companion, {NAME:04 00 00 00}. Of course we'd cover for you.
+
+[06363.100]
+I am not your...!
+
+[06363.102]
+Then let me ask you. When {NAME:01 00 00 00} said you were a "companion", you kept quiet, didn't you?
+
+[06363.104]
+If you didn't think so, you'd have said "no" flat out. That's your nature.
+
+[06363.106]
+That was simply because I had no chance to say it...
+
+[06363.108]
+And you know, when we parted in Darilsheid, you started to say something, didn't you?
+
+[06363.110]
+You were about to say "let's go together", weren't you? Yeah, I'm sure of it!
+
+[06363.112]
+That's...
+
+[06363.114]
+...As happened just now, you may get dragged into more trouble.
+
+[06363.116]
+Even so... is that all right?
+
+[06363.118]
+A hero fears no hardship! In fact, bring it on!
+
+[06363.120]
+I'm traveling with a happy-go-lucky guy like this, you know? So it's been trouble from the start.
+
+[06363.122]
+One or two more bits of trouble at this point won't make any difference.
+
+[06363.124]
+If it's a matter of dragging people into hardship, I think I'm the same. So I don't mind.
+
+[06363.126]
+...Fools. Don't come crying to me when you regret it.
+
+[06363.128]
+Then it's settled! Glad to have you, {NAME:04 00 00 00}!
+
+[06363.130]
+Well then, now that the gang's all here, shall we set off?
+
+[06363.132]
+But where to? {NAME:02 00 00 00}, do you have somewhere in mind?
+
+[06363.134]
+Just one. The hero we haven't met yet... King Woodrow of Heidelberg.
+
+[06363.136]
+One of the Four Heroes, the Hero King Woodrow. He's certainly the one who most deserves to be called a hero, alongside Stahn.
+
+[06363.138]
+In that case, we take a ship from the harbor, land at Snowfria, and make for Heidelberg.
+
+[06363.140]
+A sea voyage...!
+
+[06363.142]
+Then let's get going! The harbor should be to the east of Aigrette, if I remember right.
+
+[06363.144]
+All right, first to the harbor, and from there we head for Snowfria!
+
+[06363.146]
+{NAME:02 00 00 00} joined the party.
+
+[06363.148]
+{NAME:04 00 00 00} joined the party.
+
+[06363.150]
+Obtained {08:41 00 00 00}.
+
+[06363.151]
+Have a safe journey.
+
+[06363.152]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06363.153]
+Will you stay the night?
+
+[06363.155]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06363.156]
+Please rest well.
+
+[06363.157]
+Good morning.
+
+[06363.158]
+You do not have enough money.
+
+[06363.159]
+We look forward to seeing you again.
+
+[06363.164]
+Obtained {16:26 22}.
+
+[06363.166]
+Obtained {08:FF FF FF FF}.
+
+[06363.168]
+Found {16:26 2A}, but you can carry no more.
+
+[06363.170]
+There is nothing here.
+

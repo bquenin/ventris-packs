@@ -1,0 +1,27 @@
+[00912.001]
+Hardly anyone knows a crisis is closing in on the world now, I think.
+
+[00912.002]
+Yeah.
+
+[00912.003]
+Even if you save the world, nobody will know you're a hero, {NAME:01 00 00 00}...
+
+[00912.004]
+That's fine. I'm not going to fight in order to be a hero.
+
+[00912.005]
+...You are a hero, {NAME:01 00 00 00}. You have saved so many people, in so many ages.
+
+[00912.006]
+You think? I always thought heroes were something cooler.
+
+[00912.007]
+I thought they were more special too... But in fact it wasn't so. He laughed, got angry, cried like anyone, an ordinary boy whose only gifts were being lively and trying his hardest.
+
+[00912.008]
+{NAME:02 00 00 00}...
+
+[00912.009]
+It's fine if no one notices. Because you... are my hero, mine alone.
+

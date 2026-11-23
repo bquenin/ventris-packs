@@ -1,0 +1,18 @@
+[00910.001]
+{NAME:06 00 00 00}. Shouldn't you go back to your own time? There's no promise you'll get home safe.
+
+[00910.002]
+Why worry about the way home before we've gone? I'll manage that, so relax♪
+
+[00910.003]
+But...
+
+[00910.004]
+No buts, no gourds, no Calvilia tomatoes, no Tilmanic Diatonhose! You're only my test subject! A thousand years too soon to argue with me.
+
+[00910.005]
+Hehe, all right. I'll leave it to you, {NAME:06 00 00 00}.
+
+[00910.006]
+Right, right♪ God or not, nothing beats my brain★
+

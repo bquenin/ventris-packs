@@ -1,0 +1,67 @@
+[06657.001]
+Egg of God: Upper Level
+
+[06657.002]
+Egg of God: Upper Level
+
+[06657.004]
+{03:00 00 00 00}Get on?
+
+[06657.006]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06657.007]
+{09:37 00 00 00}: Start over
+
+[06657.009]
+{03:00 00 00 00}Get off?
+
+[06657.011]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06657.013]
+{03:00 00 00 00}Start over?
+
+[06657.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06657.016]
+Have a safe journey.
+
+[06657.017]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06657.018]
+Will you stay the night?
+
+[06657.020]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06657.021]
+Please rest well.
+
+[06657.022]
+Good morning.
+
+[06657.023]
+You do not have enough money.
+
+[06657.024]
+We look forward to seeing you again.
+
+[06657.029]
+Obtained {16:26 32}.
+
+[06657.031]
+Obtained {08:FF FF FF FF}.
+
+[06657.033]
+Found {16:26 3A}, but you can carry no more.
+
+[06657.035]
+There is nothing here.
+

@@ -1,0 +1,289 @@
+[06652.001]
+The World Within a Dream
+
+[06652.002]
+The World Within a Dream
+
+[06652.004]
+Ugh, urgh...
+
+[06652.006]
+Th-this is...!
+
+[06652.007]
+Elraine
+
+[06652.008]
+So you have woken at last. Well, how do you find the new world?
+
+[06652.010]
+Elraine! What on earth have you...!?
+
+[06652.011]
+Elraine
+
+[06652.012]
+Do not fear. By the power of Fortuna they are only dreaming.
+
+[06652.014]
+Dreaming...?
+
+[06652.015]
+Elraine
+
+[06652.016]
+What cannot be in the waking world all goes as one wishes in a dream. No pain, no suffering is felt.
+
+[06652.017]
+Elraine
+
+[06652.018]
+This is the perfect happiness that God desired, and that the people desired...
+
+[06652.020]
+That is nothing but an illusion! What meaning is there in being happy in a dream!?
+
+[06652.021]
+Elraine
+
+[06652.022]
+There is meaning. For they will never wake from the dream.
+
+[06652.023]
+Elraine
+
+[06652.024]
+A dream that does not end is the same as the waking world. And in an eternal dream, happiness too is eternal...
+
+[06652.025]
+Elraine
+
+[06652.026]
+This is the one and absolute way to lead all people to happiness.
+
+[06652.028]
+...No. That is utterly wrong!
+
+[06652.030]
+Where are {NAME:01 00 00 00} and the others!? Where have you put them all!?
+
+[06652.031]
+Elraine
+
+[06652.032]
+They too are dreaming the eternal dream. Your voice will not reach them now...
+
+[06652.034]
+No...!
+
+[06652.035]
+Elraine
+
+[06652.036]
+There is no one left to answer your voice. Your part is over.
+
+[06652.038]
+It is not over!
+
+[06652.040]
+{NAME:01 00 00 00} will answer my voice without fail! So...!
+
+[06652.041]
+Elraine
+
+[06652.042]
+...Give up this useless struggle. Enter the worlds of their minds, and still you cannot wake them.
+
+[06652.043]
+Elraine
+
+[06652.044]
+No human can throw away eternal happiness. People are frail and weak.
+
+[06652.045]
+Elraine
+
+[06652.046]
+That is why they need God, and the salvation of God.
+
+[06652.048]
+No, I believe. In the strength of people... in {NAME:01 00 00 00} and the others!
+
+[06652.049]
+Elraine
+
+[06652.050]
+Even should you wake them, nothing but tragedy awaits you...
+
+[06652.051]
+Elraine
+
+[06652.052]
+And still you would go on, though it torments you. Why?
+
+[06652.054]
+...When I saw the world you made, I thought:
+
+[06652.056]
+If this is the happiness people wish for, my part is over, and I am freed from my mission.
+
+[06652.058]
+Then I could be with {NAME:01 00 00 00} forever...
+
+[06652.060]
+But that was a mistake...
+
+[06652.062]
+Whatever ending may be waiting, people's happiness is in the walking of the road. That is what he said.
+
+[06652.064]
+So I too will walk with {NAME:01 00 00 00}... whatever ending may be waiting...
+
+[06652.066]
+Because I want to be with {NAME:01 00 00 00}...... Because I love {NAME:01 00 00 00}!
+
+[06652.067]
+Elraine
+
+[06652.068]
+Foolish... When that very love deepens the suffering...
+
+[06652.069]
+Elraine
+
+[06652.070]
+........
+
+[06652.072]
+We got over them. Those loathsome pasts of ours.
+
+[06652.073]
+Elraine
+
+[06652.074]
+I do not understand... Why do you choose the painful road yourselves?
+
+[06652.075]
+Elraine
+
+[06652.076]
+Slumber in the power of God, and every wish comes true.
+
+[06652.078]
+And what would a wish that came true like that be worth?
+
+[06652.080]
+It's worth nothing! It's only worth something if you take hold of it with your own hands!
+
+[06652.082]
+No one can always choose the right road, and so everyone has a painful past and sad memories.
+
+[06652.084]
+But the mistakes that can never be undone, the regrets beyond counting, all of them are the proof that we lived.
+
+[06652.086]
+No one can deny that. No... I will not let them!
+
+[06652.087]
+Elraine
+
+[06652.088]
+For you that may be so. But... they are different.
+
+[06652.089]
+Elraine
+
+[06652.090]
+The people all wished to be freed from suffering. They wished for their own desires to be granted.
+
+[06652.092]
+No, the people have only forgotten.
+
+[06652.094]
+How empty a false happiness is. And that true happiness lies in the doings of people that we call history.
+
+[06652.096]
+One day they will see it, without fail. As {NAME:01 00 00 00} and the others did.
+
+[06652.098]
+That's right, we saw it. Thanks to {NAME:02 00 00 00}...
+
+[06652.100]
+{NAME:01 00 00 00}...
+
+[06652.102]
+So we're taking back the history you stole from us!
+
+[06652.104]
+And we're taking back our own true happiness! No matter what!
+
+[06652.105]
+Elraine
+
+[06652.106]
+...Give up this useless struggle. Whatever you may think, you can change not one thing.
+
+[06652.108]
+No, it can be changed. The power of people's hearts can do anything. So...!
+
+[06652.110]
+I am going to travel through time now. The age... is that of the War of Heaven and Earth.
+
+[06652.112]
+So we put history back the way it was!!
+
+[06652.114]
+Let's do it, then!
+
+[06652.116]
+I ask for nothing better!
+
+[06652.118]
+{NAME:02 00 00 00}, let's go! To take back our history!
+
+[06652.120]
+Yes!
+
+[06652.121]
+Elraine
+
+[06652.122]
+Foolish... When nothing but sorrow waits beyond...
+
+[06652.123]
+Have a safe journey.
+
+[06652.124]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06652.125]
+Will you stay the night?
+
+[06652.127]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06652.128]
+Please rest well.
+
+[06652.129]
+Good morning.
+
+[06652.130]
+You do not have enough money.
+
+[06652.131]
+We look forward to seeing you again.
+
+[06652.136]
+Obtained {16:26 66}.
+
+[06652.138]
+Obtained {08:FF FF FF FF}.
+
+[06652.140]
+Found {16:26 6E}, but you can carry no more.
+
+[06652.142]
+There is nothing here.
+

@@ -1,0 +1,12 @@
+[00248.001]
+Come on, everyone! To the mine, full speed ahead!
+
+[00248.002]
+Hey, wait, {NAME:01 00 00 00}! You walk too fast! Keep up that pace and you'll be worn out before we find any treasure!
+
+[00248.003]
+Hehe, I know! But what if someone beats us to it! Fetching treasure is a hero's job. I can't let anyone snatch it!
+
+[00248.004]
+Oh, {NAME:01 00 00 00}.
+

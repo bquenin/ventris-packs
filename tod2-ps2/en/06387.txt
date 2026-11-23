@@ -1,0 +1,47 @@
+[06387.001]
+Laboratory
+
+[06387.002]
+Laboratory
+
+[06387.004]
+Lens event
+sw[3] : on
+
+[06387.005]
+Have a safe journey.
+
+[06387.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06387.007]
+Will you stay the night?
+
+[06387.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06387.010]
+Please rest well.
+
+[06387.011]
+Good morning.
+
+[06387.012]
+You do not have enough money.
+
+[06387.013]
+We look forward to seeing you again.
+
+[06387.018]
+Obtained {16:26 C6}.
+
+[06387.020]
+Obtained {08:FF FF FF FF}.
+
+[06387.022]
+Found {16:26 CE}, but you can carry no more.
+
+[06387.024]
+There is nothing here.
+

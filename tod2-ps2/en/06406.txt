@@ -1,0 +1,201 @@
+[06406.001]
+Lienea Village: Granny Maggie's House
+
+[06406.002]
+Lienea Village
+
+[06406.003]
+Granny Maggie
+
+[06406.004]
+Granny Maggie's House
+
+[06406.005]
+Strange... Why did you look like Stahn to me, I wonder?
+
+[06406.006]
+It must be that spiky blond head of yours, eh?
+
+[06406.007]
+S-S-S-Stahn! H-h-h-h-how...!
+
+[06406.009]
+Calm down, granny! I'm not my dad. I'm his son, {NAME:01 00 00 00}!
+
+[06406.010]
+Eh...? Oh, so you are. What a start you gave me! Just now you looked like Stahn!
+
+[06406.011]
+Sorry, sorry. So this one was Stahn's son. A bit of a dull-looking one, isn't he?
+
+[06406.013]
+...Like I said, not me. This little one is Stahn's son!
+
+[06406.014]
+Oh, so you're Stahn's son? Hm, you take after your mother.
+
+[06406.015]
+Don't wear a mask like that. Let me see your face.
+
+[06406.017]
+No... not me... The one over here is Stahn's son.
+
+[06406.018]
+Sorry, sorry. So this one was Stahn's son. He takes after his father.
+
+[06406.019]
+Try sowing {16:34 70} in the field in front of the house.
+
+[06406.020]
+Are the seeds growing?
+
+[06406.022]
+{03:00 00 00 00}　They are　
+　They aren't　
+
+[06406.023]
+If you look after them properly, they should sprout in about 10 minutes.
+
+[06406.024]
+Give the first fertilizer before they sprout, and feed them again once they've sprouted.
+
+[06406.025]
+Then give the last fertilizer after about another 10 minutes.
+
+[06406.026]
+If you water them moderately so they don't wither, they should bear fruit in time.
+
+[06406.027]
+It takes about 30 minutes from sprouting, I'd say.
+
+[06406.028]
+Water them too much and they'll rot, so take care with them.
+
+[06406.029]
+The time for harvesting is about 10 minutes after they bear fruit.
+
+[06406.030]
+If you never harvest them, they'll wither.
+
+[06406.031]
+Look after them properly and you should get a harvest.
+
+[06406.032]
+Do your best.
+
+[06406.033]
+Well done.
+
+[06406.034]
+Won't you try growing some seeds?
+
+[06406.036]
+{03:00 00 00 00}　I'll try　
+　No thanks　
+
+[06406.037]
+I'll give you {16:34 70}.
+
+[06406.038]
+I'll lend you the field in front of the house, so try sowing {16:34 70}.
+
+[06406.039]
+Grow seeds and you can sometimes get a lovely harvest.
+
+[06406.040]
+Stahn used to grow seeds too, long ago.
+
+[06406.041]
+Sorry, sorry. So you were Stahn's son.
+
+[06406.042]
+By the way, what did Stahn's face look like again?
+
+[06406.043]
+Oh, you are... Stahn's son, by any chance? Everyone's making a fuss outside, so I know.
+
+[06406.044]
+Even so... you don't look like him. Unlike Stahn, you've got the face of a man who'll have trouble with women.
+
+[06406.046]
+...Well, excuse me for looking like trouble. And you've got it wrong! Stahn's son is this little one!
+
+[06406.048]
+There is an album. Granny Maggie in her younger days...!?
+
+[06406.049]
+Don't go looking into people's pasts without asking!
+
+[06406.050]
+Granny Maggie's special stew. It looks delicious...
+
+[06406.051]
+I'd love to try just one mouthful...
+
+[06406.054]
+A clean toilet, properly scrubbed!
+
+[06406.056]
+A slip of paper is inside. "Neustadt Arena: First Champion..."
+
+[06406.057]
+Don't go looking into people's pasts without asking!
+
+[06406.059]
+There is a suspicious door, but no telling how to open it. Look into it once you have a tool.
+
+[06406.061]
+1st seed
+2nd seed
+3rd seed
+4th seed
+
+[06406.068]
+1st water
+2nd water
+3rd water
+4th water
+
+[06406.075]
+1st fertilizer
+2nd fertilizer
+3rd fertilizer
+4th fertilizer
+
+[06406.082]
+Have a safe journey.
+
+[06406.083]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06406.084]
+Will you stay the night?
+
+[06406.086]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06406.087]
+Please rest well.
+
+[06406.088]
+Good morning.
+
+[06406.089]
+You do not have enough money.
+
+[06406.090]
+We look forward to seeing you again.
+
+[06406.095]
+Obtained {16:25 CE}.
+
+[06406.097]
+Obtained {08:FF FF FF FF}.
+
+[06406.099]
+Found {16:25 D6}, but you can carry no more.
+
+[06406.101]
+There is nothing here.
+

@@ -1,0 +1,238 @@
+[77.000]
+Miguel School of Swordsmanship
+
+[77.001]
+Church of St Lenios
+
+[77.002]
+Arms Shop "Explosion"
+
+[77.003]
+Inn "Miguel Inn"
+
+[77.004]
+Item Shop "Benjamin"
+
+[77.005]
+Town of Miguel
+
+[77.006]
+Priest
+"To live with nature, as a person, just as one is: that is the teaching of Martel, the mother goddess of the earth."
+
+[77.007]
+Sister
+"Are you travellers? May God's protection be with you..."{PAGE}
+{クレス}
+"Thank you."
+
+[77.008]
+"Welcome!"
+
+[77.009]
+"Much obliged!"
+
+[77.010]
+"Welcome. Staying the night? It is 50 Gald a night."
+
+
+[77.011]
+Please make yourselves at home.
+
+[77.012]
+I'm sorry. You haven't enough money.
+
+[77.013]
+"Please come again."
+
+[77.014]
+"Ahh, I want to go fishing."
+
+[77.015]
+"Welcome."
+
+[77.016]
+"Ta very much."
+
+[77.017]
+"Eh? This statue? It's for sale.{PAGE}
+100,000,000 Gald. Not that anyone will buy it."
+
+[77.018]
+{クレス}
+"Isn't this... the statue that was in the inn at Toltus...?"{PAGE}
+{チェスター}
+"It is."
+
+[77.019]
+"Mutter, mutter..."
+
+[77.020]
+"Martel, please protect the world..."
+
+[77.021]
+"The training hall is small, so we practise outside."
+
+[77.022]
+"They say that in the days of the late Master Miguel the school was much bigger than it is now."
+
+[77.023]
+"They say martial arts tournaments are held nearly every day in the capital, Euclid. To find warriors who can defeat Dhaos."
+
+[77.024]
+"Spirit, spirit!!"
+
+[77.025]
+"There are few monsters round here, which is a mercy."
+
+[77.026]
+"I want to be a scientist. I'd like to work at the science laboratory in Euclid."
+
+[77.027]
+Receptionist
+"Welcome to the Miguel School of Swordsmanship. Will you join? Or will you watch? We have trial membership too."
+
+[77.028]
+Instructor
+"The number of students has been going up lately."
+
+[77.029]
+Instructor
+"A lot of people come with an eye on the martial arts tournament in Euclid. They say the winner gets quite a prize."
+
+[77.030]
+"Hyah!"
+
+[77.031]
+"Hah!"
+
+[77.032]
+"Ha!"
+
+[77.033]
+"Yah!{PAGE}
+A secret word: left, right, upper right, lower left, confirm.{PAGE}
+Don't tell anyone else."
+
+[77.034]
+"Chestooo!!"
+
+[77.035]
+"Taa, too, toryaa."
+
+[77.036]
+"You've a strong arm there. Won't you train it further here? I'll make it cheap if you join now
+
+[77.037]
+."
+
+[77.038]
+."{PAGE}
+{クレス}
+"No, thank you."{PAGE}
+"Then won't you buy a book of secret arts? A bargain just now at 20000 Gald."{PAGE}
+{COLOR:03}Buy the book of secret arts?{COLOR:02}
+
+[77.039]
+That's a pity.
+
+[77.040]
+You haven't enough money. I can't go any lower.
+
+[77.041]
+{COLOR:03}{クレス} learned Hououtenshoukyaku.{COLOR:02}{PAGE}
+"Thanks! Keep the Miguel School of Swordsmanship in mind!"
+
+[77.042]
+"Honestly, Grandpa will overdo it, and this is what comes of it.{PAGE}
+He won't be told he can't enter the martial arts tournament."
+
+[77.043]
+"Ow ow ow ow... M-my back
+
+[77.044]
+..."
+
+[77.045]
+...{PAGE}
+Oh, you're a swordsman. You can have what's in that chest of drawers. In the state I'm in, I was going to throw it out."
+
+[77.046]
+"Nyah, catch me if you can!"
+
+[77.047]
+"No running in the inn, big brother!{PAGE}
+You mustn't run either."
+
+[77.048]
+"They say there are magic and summoned beasts in this world that were sealed away in ancient times. I'd like to see them once
+
+[77.049]
+."
+
+[77.050]
+.{PAGE}
+Hm, are you a magic user? I'll let you have a spellbook. It's not a very strong one, as attack magic goes."{PAGE}
+
+
+[77.051]
+{COLOR:03}{アーチェ} learned {STR:D407}.{COLOR:02}
+
+[77.052]
+"There is a rumour. Someone says they saw the spirit Origin in Treant's Forest. I thought that was a far ancient legend, but can he be real after all?"
+
+[77.053]
+"Hello, you're adventurers, aren't you? I'll sell you this. A Food Sack, size L. 30000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[77.054]
+"It's a very good one, you know."
+
+[77.055]
+"You haven't enough money."
+
+[77.056]
+{COLOR:03}Received {STR:530D}.{COLOR:02}{PAGE}
+"Much obliged!{PAGE}
+Now I can live easy for a while."
+
+[77.057]
+{クレス}
+(The village has changed, but this bridge at least is still here...)
+
+[77.058]
+"This is... a book of secret arts!"{PAGE}
+
+
+[77.059]
+{COLOR:03}{クレス} learned Majinsouhazan.
+
+[77.060]
+Student
+"Careful. Don't get in the way."
+
+[77.061]
+{チェスター}
+"Is this Toltus in the future?"{PAGE}
+Harrison
+"This is a town called Miguel."{PAGE}
+{クレス}
+"My father's name, the name of the village...?"{PAGE}
+Harrison
+"For some reason Dhaos does not attack this continent of South Euclid. So I believe you are safe as long as you stay in these parts."{PAGE}
+
+
+[77.062]
+{クラース}
+"Is Venezia safe?"{PAGE}
+Harrison
+"Yes. First let us go by ship to Alvanista. I want you to see the King and hear what he has to say. I shall go ahead to Venezia and arrange the ship. Please come as soon as you are ready."
+
+[77.063]
+{クレス}
+"Right, from now on the five of us go everywhere together!"
+
+[77.064]
+{COLOR:03}From now on the party has five members, but only four can take part in battle.{PAGE}
+Change the party in the lineup mode of the status screen.{COLOR:02}
+

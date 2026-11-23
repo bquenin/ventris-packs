@@ -1,0 +1,159 @@
+[06755.001]
+Katz Village: Grandpa's House
+
+[06755.002]
+Katz Village
+
+[06755.003]
+Grandpa's House
+
+[06755.004]
+Grandpa
+
+[06755.005]
+Good! As fine a job of knocking it off as I have ever seen, mew!
+
+[06755.007]
+"One meal a day." Eat a meal at least once a day.
+
+[06755.009]
+A splendid bonsai.
+
+[06755.011]
+A cupboard. Something could be hidden in it.
+
+[06755.012]
+Grandpa
+
+[06755.013]
+At this age, one's friends grow few, mew.
+
+[06755.014]
+Grandpa
+
+[06755.015]
+An old one living alone wants for nothing, mew, but now and then one does wish for someone to talk to, mew...
+
+[06755.016]
+Grandpa
+
+[06755.017]
+At this age, one's friends grow few, mew.
+
+[06755.018]
+Grandpa
+
+[06755.019]
+An old one living alone wants for nothing, mew, but now and then one does wish for someone to talk to, mew...
+
+[06755.020]
+Grandpa
+
+[06755.021]
+A traveling child has come to live with me, mew.
+
+[06755.022]
+Grandpa
+
+[06755.023]
+Under here is a sunken hearth, mew.
+
+[06755.024]
+Grandpa
+
+[06755.025]
+{08:02 0C 00 00}. A very good name, mew.
+
+[06755.027]
+Is there something you want, mya?
+
+[06755.029]
+　Yes　
+　No　
+
+[06755.031]
+Call me when you need me, mya.
+
+[06755.033]
+I've got a home now too, mya.
+
+[06755.035]
+Grandpa calls me "little {08:02 0C 00 00}", mya. It's a bit embarrassing, mya.
+
+[06755.037]
+From now on I'll be good to Grandpa here, mya!
+
+[06755.039]
+I'm off for a walk, mya!
+
+[06755.040]
+Grandpa
+
+[06755.041]
+Hey there!
+
+[06755.042]
+Grandpa
+
+[06755.043]
+No shoes in here, mew! If you really must set foot in my house with your shoes on...
+
+[06755.044]
+Grandpa
+
+[06755.045]
+...then wipe the snow off your feet on that "scratchy foot mat" before you come in, mew!
+
+[06755.047]
+Go in?
+
+[06755.049]
+　Go in　
+　Don't　
+
+[06755.050]
+Grandpa
+
+[06755.051]
+Good! As fine a job of knocking it off as I have ever seen, mew!
+
+[06755.053]
+The walk was fun, mya. Call me when you need me, mya.
+
+[06755.054]
+Have a safe journey.
+
+[06755.055]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06755.056]
+Will you stay the night?
+
+[06755.058]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06755.059]
+Please rest well.
+
+[06755.060]
+Good morning.
+
+[06755.061]
+You do not have enough money.
+
+[06755.062]
+We look forward to seeing you again.
+
+[06755.067]
+Obtained {16:25 D6}.
+
+[06755.069]
+Obtained {08:FF FF FF FF}.
+
+[06755.071]
+Found {16:25 DE}, but you can carry no more.
+
+[06755.073]
+There is nothing here.
+

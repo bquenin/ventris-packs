@@ -1,0 +1,24 @@
+[00732.001]
+Say, {NAME:05 00 00 00}, in Atwight's place, would you want Dymlos to come and save you?
+
+[00732.002]
+Well, as a woman, you want to be saved by the man you love.
+
+[00732.003]
+Yes... of course.
+
+[00732.004]
+I'd have thought you'd know that better than anyone. After all, the hero you sought came to save you.
+
+[00732.005]
+Yes... that's true, but...... there are times you wouldn't want him to choose that...
+
+[00732.006]
+...{NAME:02 00 00 00}?
+
+[00732.007]
+Oh, s-sorry! I said something odd! For now we must think only of saving Atwight!
+
+[00732.008]
+Yes, true...
+

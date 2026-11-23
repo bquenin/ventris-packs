@@ -1,0 +1,49 @@
+[06492.001]
+Heat River
+
+[06492.002]
+Heat River
+
+[06492.003]
+Heat River
+
+[06492.004]
+Heat River
+
+[06492.005]
+Have a safe journey.
+
+[06492.006]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06492.007]
+Will you stay the night?
+
+[06492.009]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06492.010]
+Please rest well.
+
+[06492.011]
+Good morning.
+
+[06492.012]
+You do not have enough money.
+
+[06492.013]
+We look forward to seeing you again.
+
+[06492.018]
+Obtained {16:25 D6}.
+
+[06492.020]
+Obtained {08:FF FF FF FF}.
+
+[06492.022]
+Found {16:25 DE}, but you can carry no more.
+
+[06492.024]
+There is nothing here.
+

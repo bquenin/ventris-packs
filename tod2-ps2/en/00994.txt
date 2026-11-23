@@ -1,0 +1,24 @@
+[00994.001]
+Vanishing in light like that, she must have used her power to jump to Aigrette.
+
+[00994.002]
+That being so, we too must fly there.
+
+[00994.003]
+Fly... How!?
+
+[00994.004]
+Near here is a Surface Army camp from the War of Heaven and Earth. If my memory serves, there was an airship there.
+
+[00994.005]
+An airship... You mean to fly through the sky!?
+
+[00994.006]
+Hey, how do you know a thing like... ah, never mind. Saving {NAME:02 00 00 00} comes first now.
+
+[00994.007]
+That's it! So lead the way, {NAME:04 00 00 00}!
+
+[00994.008]
+Southwest of here. Hurry.
+

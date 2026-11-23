@@ -1,0 +1,175 @@
+[06443.001]
+Heidelberg: General Store & Accessory Shop
+
+[06443.002]
+Heidelberg
+
+[06443.003]
+General Store & Accessory Shop
+
+[06443.004]
+General Store
+
+[06443.005]
+Welcome.
+
+[06443.006]
+Thank you very much.
+
+[06443.007]
+Buy something.
+
+[06443.008]
+General Store
+
+[06443.009]
+Man
+
+[06443.010]
+Whoa! There it is! Heidelberg's famous wood-carved Kanbara Bear!!
+
+[06443.011]
+Man
+
+[06443.012]
+Everybody brings back a Kanbara Bear figure as a souvenir of Heidelberg.
+
+[06443.013]
+Man
+
+[06443.014]
+And they're so big you never know where to put them.
+
+[06443.015]
+Man
+
+[06443.016]
+Maybe I'll buy one for the couple next door, just to annoy them.
+
+[06443.017]
+Man
+
+[06443.018]
+You two are still so fresh and innocent. How nice.
+
+[06443.019]
+Man
+
+[06443.020]
+Listen. Girls are only sweet to you until you're married.
+
+[06443.021]
+Man
+
+[06443.022]
+I'm a brand-new newlywed, and I'm being made to do the shopping alone.
+
+[06443.024]
+I wouldn't do anything so mean!
+
+[06443.025]
+Man
+
+[06443.026]
+Why do I have to buy our honeymoon souvenirs alone?
+
+[06443.027]
+Man
+
+[06443.028]
+Wasn't there a noise like fireworks outside?
+
+[06443.029]
+Man
+
+[06443.030]
+If there were fireworks, is there some festival on?
+
+[06443.031]
+Man
+
+[06443.032]
+Maybe I'll take her along later to watch.
+
+[06443.033]
+Man
+
+[06443.034]
+I must buy the souvenirs quickly and get back to her.
+
+[06443.035]
+Man
+
+[06443.036]
+Whoa! There it is! Heidelberg's famous wood-carved Kanbara Bear!!
+
+[06443.037]
+Man
+
+[06443.038]
+Everybody brings back a Kanbara Bear figure as a souvenir of Heidelberg.
+
+[06443.039]
+Man
+
+[06443.040]
+And they're so big you never know where to put them.
+
+[06443.041]
+Man
+
+[06443.042]
+Maybe I'll buy one for the couple next door, just to annoy them.
+
+[06443.043]
+Accessory Shop
+
+[06443.044]
+Welcome. We deal in accessories here.
+
+[06443.045]
+Thank you very much.
+
+[06443.046]
+Please come again.
+
+[06443.047]
+Accessory Shop
+
+[06443.048]
+Have a safe journey.
+
+[06443.049]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06443.050]
+Will you stay the night?
+
+[06443.052]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06443.053]
+Please rest well.
+
+[06443.054]
+Good morning.
+
+[06443.055]
+You do not have enough money.
+
+[06443.056]
+We look forward to seeing you again.
+
+[06443.061]
+Obtained {16:25 BA}.
+
+[06443.063]
+Obtained {08:FF FF FF FF}.
+
+[06443.065]
+Found {16:25 C2}, but you can carry no more.
+
+[06443.067]
+There is nothing here.
+

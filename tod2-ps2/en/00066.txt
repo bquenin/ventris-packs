@@ -1,0 +1,18 @@
+[00066.001]
+Hm hm hm hmm~♪
+
+[00066.002]
+Hey, {NAME:01 00 00 00}. Wait a sec.
+
+[00066.003]
+Hm? What?
+
+[00066.004]
+You've been striding along all this time, but you do know where the ruins are, don't you?
+
+[00066.005]
+Yeah. I went close to them once, a long time ago. I dropped breadcrumbs to mark the way, so as long as I find those, all we have to do is follow them and...
+
+[00066.006]
+You du~mmy! Breadcrumbs from that long ago won't be there. Look at the map! The map! ........Got it? Here's Cresta. Go southeast from there, and that's the Laguna Ruins. See?
+

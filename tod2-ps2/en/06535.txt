@@ -1,0 +1,654 @@
+[06535.001]
+Vangelo, the Azure City
+
+[06535.002]
+Vangelo, the Azure City
+
+[06535.003]
+Priest of Fortuna
+
+[06535.004]
+Is something troubling you? We of the Order of Fortuna will answer anything you ask.
+
+[06535.006]
+What is the Order of Fortuna?
+Where do we rest?
+I'd like to do some shopping.
+We'll be going
+
+[06535.007]
+Priest of Fortuna
+
+[06535.008]
+Under Lady Elraine's guidance, we help people to live better lives. That is our Order.
+
+[06535.009]
+Priest of Fortuna
+
+[06535.010]
+The name "Fortuna" we received from the great god who made this world.
+
+[06535.011]
+Priest of Fortuna
+
+[06535.012]
+Use the Lens Healer on the first floor. By the power of the god Fortuna, sickness and wounds alike are healed in an instant.
+
+[06535.014]
+Huh? There's no inn?
+
+[06535.015]
+Priest of Fortuna
+
+[06535.016]
+An inn? What is an inn? With a Lens Healer you can get by, can't you?
+
+[06535.017]
+Priest of Fortuna
+
+[06535.018]
+Have you been to the distribution point on the first floor? You can get most things there.
+
+[06535.020]
+Do we buy them with Gald?
+
+[06535.021]
+Priest of Fortuna
+
+[06535.022]
+Buy? Don't you mean receive? I hear they called it that long ago, when there was such a thing as an economy.
+
+[06535.023]
+Priest of Fortuna
+
+[06535.024]
+If anything troubles you, speak to us at any time.
+
+[06535.025]
+Old Woman
+
+[06535.026]
+Lady Elraine has given us more than Lenses. She has even sent us such wonderful people.
+
+[06535.027]
+Old Woman
+
+[06535.028]
+To repay her kindness, we must never forget to be thankful, and offer our prayers every day.
+
+[06535.029]
+Old Woman
+
+[06535.030]
+That's one of the Order of Fortuna over there. Such a good person.
+
+[06535.031]
+Old Woman
+
+[06535.032]
+They look after our health, they keep us company... Truly, there is so much to be thankful for.
+
+[06535.033]
+Old Woman
+
+[06535.034]
+If anything troubles you people, go and ask them. I'm sure they will help you.
+
+[06535.035]
+Have a safe journey.
+
+[06535.036]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06535.037]
+Will you stay the night?
+
+[06535.039]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06535.040]
+Please rest well.
+
+[06535.041]
+Good morning.
+
+[06535.042]
+You do not have enough money.
+
+[06535.043]
+We look forward to seeing you again.
+
+[06535.048]
+Obtained {16:25 BA}.
+
+[06535.050]
+Obtained {08:FF FF FF FF}.
+
+[06535.052]
+Found {16:25 C2}, but you can carry no more.
+
+[06535.054]
+There is nothing here.
+
+[06535.055]
+Veteran
+
+[06535.056]
+Rookie
+
+[06535.058]
+They seem to be talking about "weapon attacks". Listen in?
+
+[06535.059]
+Well, we're about to start adventuring ourselves. Have you got the basics down?
+
+[06535.060]
+You bet! I attack like crazy with {09:45 00 00 00}!!
+
+[06535.061]
+True, but combine it with the directional keys {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00} and {09:17 00 00 00}, and you get four kinds of attack!
+
+[06535.062]
+Start by actually trying each a few times, and learn their speed and reach.
+
+[06535.063]
+How do I attack several times in a row?
+
+[06535.064]
+Just press {09:45 00 00 00} again during an attack. And of course the directional keys {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00} and {09:17 00 00 00} change the attack.
+
+[06535.065]
+Attacking drains the Spirits gauge. (SP: the {04:01 00 00 00}blue gauge{04:07 00 00 00} in battle.) When it gets too low, hold off attacking and wait for it to recover.
+
+[06535.066]
+Why? Just keep on attacking!
+
+[06535.067]
+Because when the Spirits gauge is low, your accuracy and evasion drop. You can end up worse off. Be careful.
+
+[06535.068]
+A successful guard recovers a lot of SP, so guarding with {09:47 00 00 00} matters too.
+
+[06535.070]
+They seem to be talking about "artes". Listen in?
+
+[06535.071]
+Well? Now that you've learned artes, you've more room for strategy, haven't you?
+
+[06535.072]
+Artes {09:46 00 00 00} are strong, but my TP's gone in no time. It comes back by itself in battle, but I'm still puny, so it's slow.
+
+[06535.073]
+Quite so. That is where normal attacks with {09:45 00 00 00} come in. Each normal attack that hits recovers 1 TP.
+
+[06535.074]
+Then it's normal attacks {09:45 00 00 00} like crazy!
+
+[06535.075]
+...Having TP left over is a waste as well. Using it well is what matters, for instance casting spells to let your SP recover.
+
+[06535.076]
+TP also recovers a little when you defeat an enemy. And if you defeat several at once during a combo, you recover more TP.
+
+[06535.078]
+They seem to be talking about "Enchants". Listen in?
+
+[06535.079]
+I learned an Enchant too.
+
+[06535.080]
+...So what's an Enchant?
+
+[06535.081]
+Hm. Put simply, it's "the ability to customize the artes and spells you've learned to your own taste".
+
+[06535.082]
+First, keep using an arte to raise its use count! Then you'll be able to equip all sorts of Enchants.
+
+[06535.083]
+Then I'll use one arte like crazy!
+
+[06535.084]
+That is one way. But Enchants can't be changed during battle. Putting a variety of Enchants on many artes isn't a bad idea either.
+
+[06535.085]
+Cast a spell that lowers the enemy's abilities, then cut in with your weapon... Master artes and spells and your strategy widens. ...Friends can cover for one another, too.
+
+[06535.086]
+By the way, take an equipped Enchant off and the use count comes back, so you'd do well to try all sorts.
+
+[06535.087]
+My favorite arte doesn't hit much, so I'll put on an accuracy Enchant to make up for it.
+
+[06535.088]
+...In your case you're simply swinging at thin air. A miss doesn't add to the use count, so it's a waste!
+
+[06535.089]
+And healing spells only gain use count "when cast on a target at 50% HP or less". Watch out!!
+
+[06535.090]
+True, using one on a scratch wouldn't teach you anything.
+
+[06535.092]
+They seem to be talking about "battle strategies". Listen in?
+
+[06535.093]
+Let's settle our strategies so we can deal with any enemy we meet! What do you do when "an enemy with tough defense" shows up?
+
+[06535.094]
+Everybody casts spells like crazy!
+
+[06535.095]
+Spells aren't a bad idea, but if everyone's chanting, the enemy will clobber you as it pleases. Better to keep one fighter up front.
+
+[06535.096]
+And if "the enemy's rear guard uses powerful spells"?
+
+[06535.097]
+I learned that by heart yesterday. You use "Don't let them cast" and break up their chanting.
+
+[06535.098]
+That's about it.
+
+[06535.099]
+You can register up to three strategies at once. Switching between them in an instant during battle is a fine thing to see.
+
+[06535.100]
+Change how often you attack and how much you heal to suit each character's abilities and the enemy, and you can expect to fight more efficiently.
+
+[06535.102]
+They seem to be talking about "Technical Smash". Listen in?
+
+[06535.103]
+What's a Technical Smash?
+
+[06535.104]
+Hm. Land "a dazzling finishing blow" that even battle pros admire, and it is recognized as a Technical Smash.
+
+[06535.105]
+Defeat an enemy with a Technical Smash and, perhaps because it is so splendid, your chance of getting items shoots up. Or so everyone says.
+
+[06535.106]
+It must be true.
+
+[06535.107]
+They come out all the time with combos, or beating several at once!
+
+[06535.108]
+Hm. "Finishing with a combo" matters most. The moment you land the finisher, all the SP you spent on that combo comes back. Even after a long combo you can recover your footing.
+
+[06535.109]
+Then I'll save follow-up artes and such for finishers.
+
+[06535.110]
+If you are short of SP, that would be wise.
+
+[06535.111]
+The trouble with Action Enchants is that they use up SP, but making good use of the finisher is the road to mastery.
+
+[06535.113]
+They seem to be talking about "Spirits". Listen in?
+
+[06535.114]
+I attack, and the enemy just blocks everything!
+
+[06535.115]
+Enemies with high evasion are a nuisance. Hitting them with spells is one strategy, but some enemies are one-hit wonders that slash your Spirits in a single attack.
+
+[06535.116]
+Draw them into missing and the like to wear down their Spirits, and their evasion drops too... Aiming for that is another way.
+
+[06535.117]
+I use Press Guard with {09:47 00 00 00} and {09:1D 00 00 00} to knock their SP down on purpose.
+
+[06535.118]
+The trouble is you do it in the middle of their combos too. Press Guard is best used on the enemy's last attack. A Press Guard takes off as much as 20 SP. Read the enemy's attacks.
+
+[06535.119]
+With the enemy target display set to Custom, the brighter the cursor, the higher their SP. You can read an enemy's SP while you fight.
+
+[06535.121]
+They seem to be talking about "consecutive hits". Listen in?
+
+[06535.122]
+What's a consecutive hit?
+
+[06535.123]
+Damage an enemy again before it gets back into its fighting stance, and the hit count adds up and is shown.
+
+[06535.124]
+What happens if I land lots?
+
+[06535.125]
+Hm. Your highest hit count affects the experience you earn. For a splendid chain of attacks like that is experience beyond any other.
+
+[06535.126]
+For a higher hit count, working with your friends is essential. Apart from the hit count, each "different kind of attack" is added up as CHAIN.
+
+[06535.127]
+It's rough if you don't spend your SP cleverly.
+
+[06535.128]
+That's right. Join a chain of attacks with low SP and you'll only drag everyone down. Here too, the balance of spells and artes is what matters.
+
+[06535.130]
+They seem to be talking about "area of influence". Listen in?
+
+[06535.131]
+I thought attacking from behind the enemy would be an advantage, but somehow it wears me out.
+
+[06535.132]
+Hm. Fighting together with your friends is what gives you courage, Spirits included. So when the enemy splits you up, all kinds of recovery slow down, it seems.
+
+[06535.133]
+If you end up on the enemy's right side against your will, backstep with {09:47 00 00 00} + {09:19 00 00 00} to get back to the left.
+
+[06535.134]
+So I'd better not go round the back at all.
+
+[06535.135]
+By and large you can think of it that way. But once you learn to read the fight, you may be able to do work that makes up for the penalty.
+
+[06535.136]
+Theory isn't always right, after all.
+
+[06535.137]
+Once in a while you say something worth hearing.
+
+[06535.138]
+Too Veteran
+
+[06535.139]
+Son
+
+[06535.141]
+They seem to be talking about "status changes". Listen in?
+
+[06535.142]
+I've come down with a status ailment in battle. And not a Panacea Bottle to my name. Is this the end of me...?
+
+[06535.143]
+You mustn't give up, Father. Even if you get a status ailment in battle, it seems to wear off with time.
+
+[06535.144]
+Status ailments come in levels, so even gear that prevents them sometimes can't soften them enough, and they get through. We must be careful.
+
+[06535.145]
+Mmph... Must I go and fight again? It's hard on me...
+
+[06535.146]
+It's best to have food ready that cures status ailments, Father. I hear there are dishes and items that prevent them, too.
+
+[06535.147]
+Too late for that now! Poison {09:56 00 00 00}, paralysis {09:5F 00 00 00}, weakness {09:5A 00 00 00}, frozen, and slowed. I'm worn to a thread!
+
+[06535.148]
+You mustn't fib, Father. Only four status ailments can stay on one person at a time. And raising your abilities with an Enchant can even clear the poison.
+
+[06535.149]
+What's more, frozen and slowed are cured when the battle ends.
+
+[06535.150]
+So they are. And come to think of it, I was slow to begin with.
+
+[06535.151]
+Ha ha ha ha ha ha ha ha
+ha ha ha ha ha ha ha ha
+
+[06535.152]
+(Laughing rather too hard, I'd say...)
+
+[06535.153]
+Too Veteran
+
+[06535.154]
+Son
+
+[06535.156]
+They seem to be talking about "Spirits Blaster". Listen in?
+
+[06535.157]
+Even in a pinch, go Spirits Blaster and you've a chance to turn things around.
+
+[06535.158]
+If you want to go Spirits Blaster, Father, it helps to land attacks and not let the enemy guard them. Taking hits gets you there too, but that's dangerous for you, Father.
+
+[06535.159]
+Even with my strength gone, as a Spirits Blaster I can attack without flinching.
+
+[06535.160]
+Even so, Father, the effect ends when your HP runs out, and having healing magic cast on you makes it wear off sooner.
+
+[06535.161]
+I don't fuss over such trifles. My finest mystic arte can't be shown unless I'm a Spirits Blaster.
+
+[06535.162]
+No, Father. It's true mystic artes use a lot of SP, but it seems you can sometimes pull one off by using the SP that comes back when you defeat an enemy.
+
+[06535.163]
+Though they do say some archers can use the Spirits Blaster state to fire off a mystic arte in place of a follow-up spell, Father.
+
+[06535.164]
+Mind you, even when the arcane arte hits, you can't go on to the mystic arte unless the enemy is staggered. So with an arcane arte that launches them, it may not work on heavy foes.
+
+[06535.165]
+And so, let us be off at once, the two of us, to unleash our mystic artes.
+
+[06535.166]
+No, Father. I'm a spellcaster, so I don't use mystic artes.
+
+[06535.167]
+In fact, Father, SP drops to 0 after a mystic arte, so it gets terribly in the way. Please don't use a mystic arte when it won't even finish them off, Father.
+
+[06535.168]
+Because it gets in the way.
+
+[06535.169]
+(Once would have been enough, I'd say...)
+
+[06535.170]
+Too Veteran
+
+[06535.171]
+Son
+
+[06535.173]
+They seem to be talking about "Field of Effect". Listen in?
+
+[06535.174]
+The other day, that "Field of Effect" the enemy put out had me at my wits' end.
+
+[06535.175]
+FOE for short, Father. There are two main kinds: those that work on the enemies inside the area, and those that lower our abilities.
+
+[06535.176]
+When one of those comes out, is it all up with us?
+
+[06535.177]
+It's too soon to give up, Father. Some wear off with time, and some wear off as you pile up hits. And of course, they vanish when you land the finishing blow.
+
+[06535.178]
+If they put out one that works on us, would it be best to keep just one fighter up front and use spells?
+
+[06535.179]
+Yes, Father. But it still seems best to change strategy to suit the change of state. When it works on the enemy, Spectacles will tell you what it does.
+
+[06535.180]
+That aside, young people these days want to abbreviate anything and everything. It's a nuisance.
+
+[06535.181]
+(A bit late to say so, Father...)
+
+[06535.183]
+They seem to be talking about "Battle Grade". Listen in?
+
+[06535.184]
+So what's Battle Grade in the end?
+
+[06535.185]
+It tallies up all sorts of things you do in battle to measure "how well you fight", wasn't it, sir? The ratio of damage, misses, even using the same arte over and over all get judged.
+
+[06535.186]
+If you want a high score, aim for Technical Smashes, mix in your Enchants, and take as little damage as you can.
+
+[06535.187]
+Word is that using items, casting healing spells or changing equipment in battle is decidedly uncool.
+
+[06535.188]
+What's so good about it being high?
+
+[06535.189]
+That is under investigation, sir. Though some impudent people do say it is no use in this life...
+
+[06535.190]
+Well, don't think too hard about it. Just polish your own skills.
+
+[06535.191]
+Just what I'd expect of you, sir. I learn so much.
+
+[06535.193]
+They seem to be talking about "recovering". Listen in?
+
+[06535.194]
+When I get slammed into the ground, I go down.
+
+[06535.195]
+That is hard, sir. But if you press {09:47 00 00 00} at the very moment you touch the ground, you can recover, can't you?
+
+[06535.196]
+O-o-o-of course I knew that.
+
+[06535.197]
+Recovering cuts the time you spend down and, best of all, it's nice that it restores SP and TP, isn't it?
+
+[06535.198]
+O-o-o-o-of course I knew that.
+
+[06535.200]
+They seem to be talking about "battle difficulty". Listen in?
+
+[06535.201]
+What's the point of making battles harder?
+
+[06535.202]
+True, raising the battle difficulty won't bring peace to the world. But rumor has it the weapons and armor enemies drop get better.
+
+[06535.203]
+Then I'll crank it right up!
+
+[06535.204]
+But as you know, raising the difficulty raises the enemies' attack power and wits, and they use fearsome attacks they never use on normal difficulty. It's a hard choice, isn't it?
+
+[06535.205]
+In that case, NORMAL will do until I've brought peace to the world once.
+
+[06535.206]
+I don't quite follow what you mean, but you're quite right.
+
+[06535.207]
+SECOND is a moderate difficulty, so I feel I can recommend it if you want a bit more of a challenge.
+
+[06535.209]
+They seem to be deep in talk about "normal attacks". Listen in?
+
+[06535.210]
+I've got the hang of it, so lately for normal attacks I just keep hammering {09:45 00 00 00}.
+
+[06535.211]
+Hopeless. Utterly hopeless.
+
+[06535.212]
+The truth is, accuracy and damage drop somewhat on the second and third hits, but with the same attack repeated they drop even more.
+
+[06535.213]
+Whaat? Then what should I do?
+
+[06535.214]
+Hm. Building it as "{09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00}", that is, varying the combination, is the first step.
+
+[06535.215]
+What's the second step?
+
+[06535.216]
+{09:45 00 00 00}: attack and accuracy fall the most
+{09:17 00 00 00}{09:45 00 00 00}: attack up, accuracy down
+{09:19 00 00 00}{09:45 00 00 00}: attack down, accuracy up
+{09:16 00 00 00}{09:45 00 00 00}: attack and accuracy fall least
+
+[06535.217]
+Remember all that! Attacks with {09:45 00 00 00} cover a wide area and tend to hit easily, but in return they are not much use in a chain of attacks.
+
+[06535.218]
+This affects the next attack as well, so with "{09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}" and with "{09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}", the numbers for the third attack come out different.
+
+[06535.219]
+Then against enemies with high evasion I'll build from {09:19 00 00 00}{09:45 00 00 00}. And against enemies with low evasion I'll start from {09:17 00 00 00}{09:45 00 00 00}.
+
+[06535.220]
+As an example, that's the idea. Mind you, the differences are tiny, so if the other rules are all you can handle, there's no need to force yourself to learn this.
+
+[06535.222]
+They seem to be talking about "long talks". Listen in?
+
+[06535.223]
+Even useful talk wears a fellow out after about ten years of listening.
+
+[06535.224]
+Come to think of it, I never told you. Hold down {09:2F 00 00 00} and {09:2E 00 00 00} to fast-forward messages. Handy for skipping a conversation you've already read.
+
+[06535.225]
+Whaat? Why didn't you tell me that for ten whole years?
+
+[06535.226]
+Fool! A rookie like you, skipping through what I have to say? You're ten years too early for that!
+
+[06535.227]
+...is what I thought, and so I'm telling you now.
+
+[06535.228]
+Fair enough.
+
+[06535.230]
+They seem to be talking about "picking up items". Listen in?
+
+[06535.231]
+If I'm going to live as an adventurer, I want to grab items off enemies like crazy.
+
+[06535.232]
+Hm. Quite right. But there is a plausible-sounding rumor going round among adventurers.
+
+[06535.233]
+What rumor?
+
+[06535.234]
+"It seems the more items of one kind you carry, the lower the chance that enemies drop items," they say.
+
+[06535.235]
+That's no good! I'll sell the lot!
+
+[06535.236]
+I wouldn't go that far, but selling equipment you don't need wherever you can is a good idea for keeping things tidy, too.
+
+[06535.237]
+Of course, you might say an adventurer's wisdom is to refine: fewer things, better things.
+
+[06535.238]
+Also, if you want to use up consumables as you go, I've heard you should keep only a small number of each.
+
+[06535.239]
+With consumables, it's not the total that counts but how many of each you hold. That's the accepted view in adventuring circles, it seems.
+
+[06535.240]
+But with only a few, I tend to be stuck against strong enemies.
+
+[06535.241]
+There's that too. What matters is to adventure in the way that suits your own style.
+
+[06535.243]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06535.245]
+I'm going to master my own way!!
+

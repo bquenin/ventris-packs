@@ -1,0 +1,453 @@
+[25.000]
+Inn "Euclid Inn"
+
+[25.001]
+Greengrocer "Vegit"
+
+[25.002]
+Item Shop "Cat's Eye"
+
+[25.003]
+Arms Shop "Bishop"
+
+[25.004]
+{クラース}'s School of Magic
+
+[25.005]
+"We stock good things here. They come straight from Venezia, the trading town in the north, after all."
+
+[25.006]
+{クレス}
+"Are you Elwin?"{PAGE}
+Elwin
+"Yes, I am. How do you know my name?"{PAGE}
+{クレス}
+"The truth is, there is a woman who has feelings for you."{PAGE}
+Elwin
+"What{SPEED:10}...{SPEED:FF}"{PAGE}
+"What is she like? What is her name?"{PAGE}
+{クレス}
+"Huh?"
+
+[25.007]
+Elwin
+"Tell me what she's like, quickly."
+
+[25.008]
+{クレス}
+"Her name is Nancy.
+She's the greengrocer's daughter."{PAGE}
+Elwin
+"I see{SPEED:10}...{SPEED:FF} so her name is Nancy."{PAGE}
+"But as for meeting her{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Why not?"{PAGE}
+Elwin
+"I am the son of the president of an import company in Venezia. I'm in this village on business just now.
+But I have to go back to Venezia. And my father would never allow it."{PAGE}
+{クレス}
+"But couldn't you meet her just once?"{PAGE}
+Elwin
+"No. If I met her even once, I would want to see her again{SPEED:10}...{SPEED:FF}"{PAGE}
+"Give her my regards."{PAGE}
+"Now, back to work."
+
+[25.009]
+Elwin
+"Now, back to work."
+
+[25.010]
+"I want to play outside.{PAGE}
+But Father says I have to help in the shop. Honestly{SPEED:10}...{SPEED:FF}"
+
+[25.011]
+"Elwin? He went back to Venezia."
+
+[25.012]
+"Welcome."
+
+[25.013]
+"Thank you. Please come again."
+
+[25.014]
+"Welcome."
+
+[25.015]
+"Thank you, traveller."
+
+[25.016]
+"Nancy has gone and left me.{PAGE}
+But it was for the man she loves. I'm her mother; how could I stop her?"{PAGE}
+
+
+[25.017]
+"Welcome. We've got good things in stock."
+
+[25.018]
+"Thank you."
+
+[25.019]
+"Now, for tonight's dinner, let me see..."
+
+[25.020]
+"Word on the wind is that a tremendously large army is being raised far away."
+
+[25.021]
+"I am a traveller.{PAGE}
+On my way I saw a valley called Lone Valley, and there was always a strange wind blowing there.{PAGE}
+Oh yes, a man named Klein lives there and foretells the weather, they say. He is often right, I hear."
+
+[25.022]
+"Welcome. Staying the night? It's 20 Gald a night."
+
+
+[25.023]
+Please make yourselves comfortable.
+
+[25.024]
+I'm very sorry. You haven't enough money.
+
+[25.025]
+"Please come again."
+
+[25.026]
+"Oh, I'm sorry. I'm getting dinner ready just now."{PAGE}
+{クレス}
+"For the cats?"{PAGE}
+"Yes, for the cats."
+
+[25.027]
+"Uuugh, cats everywhere{SPEED:10}...{SPEED:FF} Why, oh why..."
+
+[25.028]
+{クレス}
+"Is this one a dog?"
+
+[25.029]
+Old man who loves cats
+"I am an old man who loves cats! Mmm, here, kitty♥"
+
+[25.030]
+Mirald
+"You brought Yggdrasil back to life! Then is your journey over?"{PAGE}
+{クラース}
+"No, there is still something we must do. It may be that..."{PAGE}
+Mirald
+"It may be that...?"{PAGE}
+{クラース}
+"No, it's nothing. Look after the place while I'm away."{PAGE}
+Mirald
+"I will..."
+
+[25.031]
+Mirald
+"A way to save Yggdrasil? I can't help you there. Magic gives rise to nothing but the power to destroy..."
+
+[25.032]
+Mirald
+"Take care. And do look after {クラース}."{PAGE}
+{クラース}
+"Is that a thing to say about a man in his late twenties?"
+
+[25.033]
+"You know the cave east of Belladam village? Someone who went in told me there were lots of tiny little people inside. Spirits, do you think?"
+
+[25.034]
+"I am a traveller. I came from Venezia."{PAGE}
+{クレス}
+"W-were you all right? A woman travelling alone..."{PAGE}
+"I have the protection of the gods. And I carry plenty of Holy Bottles.{PAGE}
+A Holy Bottle is said to hold the power of the gods. Use one and not even a demon will come near."
+
+[25.035]
+"Let's take a look inside the fireplace."
+
+[25.036]
+{クレス}
+"Hot, hot!!"
+
+[25.037]
+The Four Elements and the Spirits
+"Each spirit has an element it governs: wind, water, fire or earth.
+These are what are known as the four elements."
+
+[25.038]
+Definitions Concerning Spirits and Elements
+"Spirits are of a great many kinds.
+There are those centred on the four elements (wind, water, fire, earth).
+And there are those of the stars, the moon, darkness, light and the like, which exist in the world of the mind. They are varied indeed."
+
+[25.039]
+Spirits and the Physical World
+"Let me name the chief spirits that can exist in this physical world of ours.{PAGE}
+Sylph, spirit of wind, Undine, spirit of water, Ifrit, spirit of fire, Gnome, spirit of earth, and Maxwell, spirit of molecules, who commands those four elements.{PAGE}
+Besides these there are Luna, spirit of the moon, Shadow, spirit of darkness, Aska, spirit of light, and more.
+There also seem to be many spirits not yet confirmed."
+
+[25.040]
+The Social Order of Spirits
+"Looking at the world of spirits as a society, it seems they can be divided into higher and lower spirits.
+But all that is known at present is the existence of the four great spirits and of Maxwell, who commands them."
+
+[25.041]
+The Social Order of Spirits 2
+"Though it is not confirmed, Luna, Shadow and Aska too are said to have lower spirits who obey them.
+It is also said that there are spirits whose social order is nothing like these."
+
+[25.042]
+You found an old newspaper.{PAGE}
+"What appear to be ruins have been found deep under the Moria Mine. The King of Alvanista has announced that he will send a survey team at once.
+Archaeologists suggest they may be the remains of a dwarven settlement."
+
+[25.043]
+Spirits and Rings
+"A pact with a spirit requires a special ring. Those rings are said to be the joint work of Leonardo, an elf, and Geese, a master craftsman of the dwarves."
+
+[25.044]
+It looks like a letter.
+"{クラース}, I am sorry to say that the craft of making pact rings seems to have been lost.
+I have searched every ruin I could... But there is hope: the Moria Mine. In the dwarven ruins found there, there may be rings that were never used. Why not search there?"
+
+[25.045]
+There was some money.{PAGE}
+{クラース}
+"Ah, w-wait, that's..."{PAGE}
+It seems to be {クラース}'s secret savings. Better put it back.
+
+[25.046]
+"There doesn't seem to be anything here."
+
+[25.047]
+"This is a spell book!"{PAGE}
+
+
+[25.048]
+{COLOR:03}{アーチェ} learned {STR:D307}.{COLOR:02}
+
+[25.049]
+But it's no use to me... I'll put it back.
+
+[25.050]
+"This is...!!{PAGE}
+A comic book."
+
+[25.051]
+"This is a spell book!"{PAGE}
+
+
+[25.052]
+{COLOR:03}{アーチェ} learned {STR:D607}.{COLOR:02}
+
+[25.053]
+???
+"Is that you, Mirald? If it's tea, leave it on the table there."{PAGE}
+{ミント}
+"Excuse me, are you {クラース}?"{PAGE}
+???
+"Hm?"
+
+[25.054]
+{クラース}
+"I am.
+Did you want something, 'little miss'?"
+
+[25.055]
+{ミント}
+"We would like you to lend us the power of your majic."{PAGE}
+{クラース}
+"Majic? Ah, you want lessons in magic. Then speak to Mirald in the back. The fee is {NUM:8263}0,000 Gald, paid in advance."{PAGE}
+{ミント}
+"What? Money? We don't have that much{SPEED:10}...{SPEED:FF}"
+
+[25.056]
+{クラース}
+"Then it's no good. Come back another time, little miss."{PAGE}
+{ミント}
+"{SPEED:10}...{SPEED:FF}Please stop calling me that."{PAGE}
+{クラース}
+"My apologies. I don't know your name yet, you see. Or was I wrong to think we had only just met?"{PAGE}
+
+
+[25.057]
+{ミント}
+"Oh! M{SPEED:10},{SPEED:FF} my name{SPEED:10},{SPEED:FF} is {ミント}. This is {クレス}{SPEED:10}...{SPEED:FF}"
+
+[25.058]
+{クレス}
+"We need magic to defeat Dhaos. Won't you lend us your strength?"{PAGE}
+
+
+[25.059]
+{クラース}
+"Dhaos?{SPEED:10}...{SPEED:FF}Are you serious?"
+
+[25.060]
+{クラース}
+"Hmph. As an excuse to learn spells for nothing, I'd say that is rather a tall story."{PAGE}
+
+
+[25.061]
+{クレス}
+"What!"
+{ミント}
+"How could you!"{PAGE}
+
+
+[25.062]
+????
+"{クラース}! That's no way to speak to them!"
+
+[25.063]
+{クラース}
+"Mirald!"{PAGE}
+Mirald
+"Honestly! Why are you so blunt and rough and thoughtless? You've only just met them, haven't you? They came here counting on you, didn't they? Can't you be a little kinder? You real{SPEED:40}l{SPEED:FF}y are a fool, fool, fool! Oh!"
+
+[25.064]
+Mirald
+"I'm so sorry. He is a child at heart."
+
+[25.065]
+Never mind a man like that; I'll introduce you to someone you can rely on far more.
+Not {SPEED:10}a man like that.{SPEED:FF}{PAGE}
+{クラース}
+"What!"
+
+
+[25.066]
+Hey! What do you mean, 'a man like that'!! 'A man like that'!!!{PAGE}
+Mirald
+"Is there something wrong with saying it to a man nobody can rely on?"{PAGE}
+{クラース}
+"Of course they can rely on me! Who else is there around here but me!?"{PAGE}
+Mirald
+"Why, so you do understand."{PAGE}
+
+
+[25.067]
+{クラース}
+"Grrrrrr{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[25.068]
+{ミント}
+"Um, we were told something. Humans cannot use magic{SPEED:10}...{SPEED:FF}can they?
+So we would like you, who can use magic, to join us, {クラース}."{PAGE}
+
+
+[25.069]
+{クラース}
+"Join you?"{PAGE}
+{ミント}
+"Yes, that's right."
+
+[25.070]
+{クラース}
+"Let me hear what this is all about."
+
+[25.071]
+{クラース}
+"Hmmm... from the future, you say."{PAGE}
+"I find it hard to believe..."{PAGE}
+{クレス}
+"If you can't believe it yet, that can't be helped."{PAGE}
+{ミント}
+"Either way, magic is needed to defeat Dhaos. Please. Lend us your strength!"
+
+[25.072]
+{クラース}
+"I am a human too. My ears aren't pointed, are they? Nor am I a half-elf.
+Much as it galls me, I cannot use magic either."{PAGE}
+{ミント}
+"Oh no..."{PAGE}
+{クラース}
+"But one day I mean to make it possible for humans to use magic, without fail!{PAGE}
+As a first step, I am studying what is called the art of summoning."{PAGE}
+
+
+[25.073]
+Mirald
+"He can't use it yet, though."{PAGE}
+{クラース}
+"Must you remark on everything?"{PAGE}
+
+
+[25.074]
+I'm sorry to ask so soon, but come with me to Lone Valley.
+{クレス} and {ミント}{SPEED:10},{SPEED:FF} was it?"{PAGE}
+{クレス} and {ミント}
+"Y-yes!
+Thank you very much!!"
+
+[25.075]
+Mirald
+"Oh, and the books here are all about magic and spirits. Why not read some of them?"
+
+[25.076]
+{ミント}
+"Mother."
+
+[25.077]
+Meryl, {ミント}'s mother
+"What is it?"{PAGE}
+{ミント}
+"That's so pretty..."{PAGE}
+Meryl
+"Oh, this?"{PAGE}
+{ミント}
+"The one on your ear... I want it."
+
+[25.078]
+Meryl
+"This earring, you see, I can't give you."{PAGE}
+{ミント}
+"Why not?"{PAGE}
+Meryl
+"This is the precious, precious mark of a healer that my own mother gave to me."
+
+[25.079]
+{ミント}
+"Something precious to you, Mother?"{PAGE}
+Meryl
+"That's right."
+
+[25.080]
+{ミント}
+"It's shaped like a horsie."{PAGE}
+Meryl
+"It's called a unicorn. This horse is the symbol of the healers."{PAGE}
+{ミント}
+"Sym, bol?"{PAGE}
+Meryl
+"So I'll give you this hat in place of the earring. Will that do?"
+
+[25.081]
+{ミント}
+"Thank you, Mother."{PAGE}
+Meryl
+"Perhaps it's a little too big. But it suits you very well. You're a fine healer too now, {ミント}."{PAGE}
+{ミント}
+"Yes! I'm going to be a healer just like you, Mother!"
+
+[25.082]
+Mirald
+"There, that's all for today's lesson. With today we've covered most of the basics."{PAGE}
+Pupil
+"Thank you very much. By the way..."{PAGE}
+"when is {クラース} coming back? He beat Dhaos, didn't he? The chief is overjoyed, and he's all fired up about the whole village throwing a party."{PAGE}
+Mirald
+"...Who knows? Well, he is as tough as a golem and as hard to kill as a zombie, so I'm sure he is well."{PAGE}
+Pupil
+"Ha ha. I-I suppose so."{PAGE}
+"Well then, see you tomorrow."{PAGE}
+Mirald
+"Yes."
+
+[25.083]
+Mirald
+"Honestly, where can he be wandering about? I only hope he is making himself useful..."
+
+[25.084]
+Mirald
+"Well, I'll wait for him, however long it takes."
+

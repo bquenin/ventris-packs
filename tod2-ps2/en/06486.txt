@@ -1,0 +1,73 @@
+[06486.001]
+Heat River
+
+[06486.002]
+Heat River
+
+[06486.004]
+The water's risen... The bridge has been swallowed by it.
+
+[06486.006]
+Can't we get across somehow...
+
+[06486.008]
+Hoooot! N-no good! Wading across is out, out!
+
+[06486.010]
+Hey, {NAME:05 00 00 00}. Is this normal in Calvalese?
+
+[06486.012]
+No, this is a bit strange. This river usually has hardly any water in it.
+
+[06486.014]
+And this temperature... It's like boiling water.
+
+[06486.016]
+Anyway, unless we find the cause, there's no getting across. Shall we go upstream?
+
+[06486.018]
+It's a detour, but I guess there's no help for it...
+
+[06486.020]
+{NAME:02 00 00 00}, are you all right?
+
+[06486.022]
+Y-yes, somehow...
+
+[06486.023]
+Have a safe journey.
+
+[06486.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06486.025]
+Will you stay the night?
+
+[06486.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06486.028]
+Please rest well.
+
+[06486.029]
+Good morning.
+
+[06486.030]
+You do not have enough money.
+
+[06486.031]
+We look forward to seeing you again.
+
+[06486.036]
+Obtained {16:25 D6}.
+
+[06486.038]
+Obtained {08:FF FF FF FF}.
+
+[06486.040]
+Found {16:25 DE}, but you can carry no more.
+
+[06486.042]
+There is nothing here.
+

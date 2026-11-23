@@ -1,0 +1,388 @@
+[06604.001]
+Spiral Cave
+
+[06604.002]
+Spiral Cave
+
+[06604.004]
+Obtained {08:41 00 00 00}.
+
+[06604.006]
+There! It's Atwight!
+
+[06604.008]
+Wait, {NAME:01 00 00 00}! Above us!
+
+[06604.010]
+Atwight! Hold on, we're coming!
+
+[06604.011]
+Atwight
+
+[06604.012]
+........! No, stay back!!
+
+[06604.014]
+Huh...!?
+
+[06604.016]
+Wh-what is this!?
+
+[06604.018]
+This is a magic barrier!!
+
+[06604.019]
+Barbatos
+
+[06604.020]
+So Dymlos lost his nerve... No matter. If it is you who are caught in the net, that will do for sport.
+
+[06604.022]
+Barbatos, you...!!
+
+[06604.023]
+Barbatos
+
+[06604.024]
+Ah, I forgot to mention. Touch that magic barrier and you will not get off lightly.
+
+[06604.026]
+Damn! Everyone, get away from the barrier!
+
+[06604.027]
+Barbatos
+
+[06604.028]
+I will kill you all together. Then you will not be lonely, will you? Heh heh heh...
+
+[06604.029]
+Barbatos
+
+[06604.030]
+What is it? Nowhere left to run!? Heh heh heh... Aahahahaha!
+
+[06604.031]
+Dymlos
+
+[06604.032]
+Haaaaaaah!
+
+[06604.033]
+Barbatos
+
+[06604.034]
+Guoooaaaah!!
+
+[06604.036]
+Was that... a spell!?
+
+[06604.038]
+Then that means...
+
+[06604.039]
+Dymlos
+
+[06604.040]
+I thought your fight was with me, Barbatos!!
+
+[06604.041]
+Atwight
+
+[06604.042]
+Dymlos...!? Lieutenant General...
+
+[06604.043]
+Barbatos
+
+[06604.044]
+Dymlos...!
+
+[06604.046]
+Hi there, Atwight. Keeping well?
+
+[06604.047]
+Atwight
+
+[06604.048]
+{NAME:06 00 00 00}!
+
+[06604.050]
+Sorry, we're a bit late. It took a while to drag this one out.
+
+[06604.051]
+Dymlos
+
+[06604.052]
+I was well and truly fooled. Told it was a test of the new weapon, I come along, and...
+
+[06604.054]
+But with him to fight, you can go all out, can't you?
+
+[06604.055]
+Dymlos
+
+[06604.056]
+Yes, exactly so!
+
+[06604.057]
+Barbatos
+
+[06604.058]
+That sword...!
+
+[06604.059]
+Dymlos
+
+[06604.060]
+Taste the new weapon, and learn it on your own body!!
+
+[06604.061]
+Barbatos
+
+[06604.062]
+Bark away! You think getting hold of a Swordian is enough to beat me!!
+
+[06604.063]
+Dymlos
+
+[06604.064]
+It is you who should take a good look at where you stand.
+
+[06604.065]
+Barbatos
+
+[06604.066]
+What...!?
+
+[06604.068]
+Barbatos, prepare yourself!!
+
+[06604.070]
+You did a fine job on us back there! We'll pay it back double!!
+
+[06604.072]
+You used that dirty trap just now. You're not going to call seven on one unfair at this point, are you?
+
+[06604.073]
+Barbatos
+
+[06604.074]
+...Tch! Meddlers again...!
+
+[06604.076]
+Dymlos!
+
+[06604.077]
+Dymlos
+
+[06604.078]
+Forgive me, {NAME:01 00 00 00}. I have put you all in danger.
+
+[06604.080]
+Never mind about us. Go to Atwight, quickly.
+
+[06604.081]
+Dymlos
+
+[06604.082]
+...Yes.
+
+[06604.083]
+Dymlos
+
+[06604.084]
+...You may say it is too late. You may reproach me that I abandoned you once.
+
+[06604.085]
+Dymlos
+
+[06604.086]
+But... but even so, I wanted to save you. I did not want to lose you. And so...
+
+[06604.088]
+A-Atwight...!
+
+[06604.089]
+Atwight
+
+[06604.090]
+You put {NAME:01 00 00 00}, who has no part in this, and yourself, with so many men under you, in danger.
+
+[06604.091]
+Atwight
+
+[06604.092]
+And for private feelings... for one single woman.
+
+[06604.093]
+Atwight
+
+[06604.094]
+...It can never be excused. You are not fit to be a soldier!
+
+[06604.095]
+Atwight
+
+[06604.096]
+But...
+
+[06604.097]
+Atwight
+
+[06604.098]
+But I love you for it!
+
+[06604.099]
+Atwight
+
+[06604.100]
+...That you came for me... I truly...!
+
+[06604.101]
+Dymlos
+
+[06604.102]
+Atwight...!
+
+[06604.104]
+Thank goodness...
+
+[06604.106]
+Yeah! They both look really happy.
+
+[06604.108]
+Of course. The one she loves came to save her.
+
+[06604.110]
+I know how happy that makes you.
+
+[06604.112]
+...I see.
+
+[06604.114]
+...Say, {NAME:01 00 00 00}. If... just if.
+
+[06604.116]
+If, like Dymlos this time, you had to choose between something very important and me...
+
+[06604.118]
+I'd choose you, {NAME:02 00 00 00}, of course, whatever happens!
+
+[06604.120]
+........
+
+[06604.122]
+...What's wrong? You don't think I wouldn't choose you!?
+
+[06604.124]
+That's mean! I'd ab-so-lute-ly choose you, {NAME:02 00 00 00}!
+
+[06604.126]
+...Yes. You would...
+
+[06604.128]
+He~y, Dymlos. Cuddle all you like, but give me back the Swordian first.
+
+[06604.129]
+Dymlos
+
+[06604.130]
+We are not cuddling...!
+
+[06604.131]
+Atwight
+
+[06604.132]
+Oh, {NAME:06 00 00 00}, really!
+
+[06604.134]
+Yes, yes, all right, all right.
+
+[06604.136]
+You two, first get back to the Radisrol. There's still work to do, right?
+
+[06604.137]
+Dymlos
+
+[06604.138]
+True... There are still things that must be done.
+
+[06604.140]
+Oh, we'll go our own way, so the road home is all yours, you two~.
+
+[06604.141]
+Dymlos
+
+[06604.142]
+{NAME:06 00 00 00}!
+
+[06604.143]
+Dymlos
+
+[06604.144]
+...Ahem! Come, Atwight.
+
+[06604.145]
+Atwight
+
+[06604.146]
+Yes...
+
+[06604.148]
+Huh, that was thoughtful of you, {NAME:06 00 00 00}. Leaving the two of them alone.
+
+[06604.150]
+Well, once in a while. Those two have a hard time ahead.
+
+[06604.152]
+He went to rescue Atwight without waiting for the senior staff's decision. He will not escape punishment.
+
+[06604.154]
+I see...
+
+[06604.156]
+Well, shall we head home too?
+
+[06604.158]
+{NAME:06 00 00 00} joined the party.
+
+[06604.160]
+{0B:01 00 00 00}Obtained {14:34 08} Gald.{0B:00 00 00 00}
+
+[06604.161]
+Have a safe journey.
+
+[06604.162]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06604.163]
+Will you stay the night?
+
+[06604.165]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06604.166]
+Please rest well.
+
+[06604.167]
+Good morning.
+
+[06604.168]
+You do not have enough money.
+
+[06604.169]
+We look forward to seeing you again.
+
+[06604.174]
+Obtained {16:26 86}.
+
+[06604.176]
+Obtained {08:FF FF FF FF}.
+
+[06604.178]
+Found {16:26 8E}, but you can carry no more.
+
+[06604.180]
+There is nothing here.
+

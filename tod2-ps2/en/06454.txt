@@ -1,0 +1,247 @@
+[06454.001]
+Heidelberg Castle
+
+[06454.002]
+Heidelberg Castle
+
+[06454.003]
+Soldier
+
+[06454.004]
+Everybody's making a fuss that the hero Stahn's son has come, but it's bound to be a hoax, a hoax!
+
+[06454.006]
+What are you saying! I'm my dad's son, the genuine article!
+
+[06454.007]
+Soldier
+
+[06454.008]
+...You, the hero Stahn's son? Come on, a joke's a joke.
+
+[06454.009]
+Soldier
+
+[06454.010]
+I bet you told a fib and now you can't back out. Hurry up and say sorry.
+
+[06454.011]
+Soldier
+
+[06454.012]
+Hmm, the real son of Stahn... I wonder...
+
+[06454.014]
+Wh-what are you staring at! ...Hey, that's creepy! Don't grab my hand all of a sudden!
+
+[06454.015]
+Soldier
+
+[06454.016]
+...No, I was thinking, if you're the real thing, this means I've shaken hands with Stahn...
+
+[06454.017]
+Soldier
+
+[06454.018]
+I-I'm not saying I believe you! It's not that, but... could I shake your hand once more?
+
+[06454.019]
+Soldier
+
+[06454.020]
+Hm? What is it? Want something?
+
+[06454.021]
+Soldier
+
+[06454.022]
+Ngh! I slipped up...!
+
+[06454.024]
+They got your arm... Hey, don't go moving it! Keep still!
+
+[06454.025]
+Soldier
+
+[06454.026]
+Heh, you're joking! I'm a soldier of Phandaria! As if I could rest at a time like this!
+
+[06454.027]
+Soldier
+
+[06454.028]
+...Ow! Getting my arm hit. What a blunder...!
+
+[06454.029]
+Soldier
+
+[06454.030]
+Is it... over? ...Is His Majesty... safe?
+
+[06454.031]
+Soldier
+
+[06454.032]
+This time we lost. A complete defeat, you could say. ...But next time we won't lose!
+
+[06454.033]
+Soldier
+
+[06454.034]
+And for that, I've got to keep the weapons in good order at least.
+
+[06454.035]
+Soldier
+
+[06454.036]
+...Honestly, if I'm not doing something, it's more than I can bear. ........Damn!
+
+[06454.037]
+Soldier
+
+[06454.038]
+Oh, those maids! They leave everything out and never tidy up!
+
+[06454.039]
+Soldier
+
+[06454.040]
+Sheesh, it's fine that they're wrapped up in repairing the castle, but spare the barracks' gear, will you...
+
+[06454.041]
+Soldier
+
+[06454.042]
+Honestly, the maids are one thing, but what are the soldiers doing so wrapped up in castle repairs! Nobody's seen to the weapons!
+
+[06454.043]
+Soldier
+
+[06454.044]
+...Sheesh! If I don't do it, nobody will. Nothing for it, I'll do it!
+
+[06454.045]
+Soldier
+
+[06454.046]
+Sheesh, if I don't do it, nobody sees to the weapons...
+
+[06454.047]
+Soldier
+
+[06454.048]
+Sheesh, the rest of them do nothing but deal with tourists and slack off on caring for their swords!
+
+[06454.049]
+Soldier
+
+[06454.050]
+Rub, rub, rub! Yep, a sword only shines when it's polished!
+
+[06454.051]
+Soldier
+
+[06454.052]
+Everybody's making a fuss that the hero Stahn's son has come. Why do they get so worked up?
+
+[06454.054]
+I know, right? I don't really get it either.
+
+[06454.055]
+Soldier
+
+[06454.056]
+You think so too? Right, when it's bound to be a hoax anyway.
+
+[06454.057]
+Soldier
+
+[06454.058]
+If the one who's come really is Stahn's son, I'll do a lap of the castle on my hands, stark naked.
+
+[06454.060]
+...Hear that, {NAME:01 00 00 00}? Shall we have him do it?
+
+[06454.061]
+Have a safe journey.
+
+[06454.062]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06454.063]
+Will you stay the night?
+
+[06454.065]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06454.066]
+Please rest well.
+
+[06454.067]
+Good morning.
+
+[06454.068]
+You do not have enough money.
+
+[06454.069]
+We look forward to seeing you again.
+
+[06454.074]
+Obtained {16:25 BA}.
+
+[06454.076]
+Obtained {08:FF FF FF FF}.
+
+[06454.078]
+Found {16:25 C2}, but you can carry no more.
+
+[06454.080]
+There is nothing here.
+
+[06454.082]
+Well-kept weapons are lined up. Every one looks like a costly piece.
+
+[06454.084]
+Battle-ready weapons are lined up, no doubt for use in an emergency.
+
+[06454.086]
+A keenly honed weapon. The work of a first-rate smith, surely.
+
+[06454.088]
+This weapon has a proper edge. It must be the real thing, not a work of art.
+
+[06454.090]
+Weapons used by the soldiers of Heidelberg Castle. The blades are honed without a single blemish.
+
+[06454.092]
+A huge suit of plate armor. It looks very heavy...
+
+[06454.094]
+Battle-ready armor. It is very elaborately made.
+
+[06454.096]
+Full-body armor made by beating out sheet metal. It is very elaborate. How much would one suit cost...
+
+[06454.098]
+A real suit of full armor. It gives off an overwhelming sense of menace...
+
+[06454.100]
+Suits of armor are lined up. They look like the real thing, battle-ready, not works of art.
+
+[06454.102]
+It looks like a piece of some age. ...Take care not to break it.
+
+[06454.104]
+Small items are lined up. Every one looks very costly.
+
+[06454.106]
+A royal castle, sure enough. Every small ornament is splendidly made.
+
+[06454.108]
+Splendid pieces are lined up...
+
+[06454.110]
+Antiques, perhaps. Pieces of some age are lined up.
+

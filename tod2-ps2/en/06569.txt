@@ -1,0 +1,127 @@
+[06569.001]
+Surface Army Base: Commissary
+
+[06569.002]
+Surface Army Base
+
+[06569.003]
+Commissary
+
+[06569.005]
+A half-broken barrel holding moldy food.
+
+[06569.006]
+Auntie
+
+[06569.007]
+Now you listen to this!
+
+[06569.008]
+Auntie
+
+[06569.009]
+That soldier there says he won't sell goods to us refugees!
+
+[06569.010]
+Auntie
+
+[06569.011]
+Shortages or whatever it is, we have to live too!
+
+[06569.012]
+Auntie
+
+[06569.013]
+Honestly! Soldiers just won't bend!
+
+[06569.014]
+Auntie
+
+[06569.015]
+Now you listen to this!
+
+[06569.016]
+Auntie
+
+[06569.017]
+Some noble thieves called the "Dark Wings" brought us food!
+
+[06569.018]
+Auntie
+
+[06569.019]
+Noble thieves who help people in need! Isn't that grand!
+
+[06569.020]
+Auntie
+
+[06569.021]
+I'm sure the name of the Dark Wings will go down in history and be told for ages to come.
+
+[06569.022]
+Supply Officer
+
+[06569.023]
+Supplies are strictly controlled. Even to army people I cannot hand them out for nothing.
+
+[06569.024]
+Thank you very much.
+
+[06569.025]
+Please come again.
+
+[06569.026]
+Supply Officer
+
+[06569.027]
+Grocer
+
+[06569.028]
+There's little food left now. This is all we have.
+
+[06569.029]
+Thank you kindly.
+
+[06569.030]
+Are we all going to starve, I wonder.
+
+[06569.031]
+Grocer
+
+[06569.032]
+Have a safe journey.
+
+[06569.033]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06569.034]
+Will you stay the night?
+
+[06569.036]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06569.037]
+Please rest well.
+
+[06569.038]
+Good morning.
+
+[06569.039]
+You do not have enough money.
+
+[06569.040]
+We look forward to seeing you again.
+
+[06569.045]
+Obtained {16:25 BA}.
+
+[06569.047]
+Obtained {08:FF FF FF FF}.
+
+[06569.049]
+Found {16:25 C2}, but you can carry no more.
+
+[06569.051]
+There is nothing here.
+

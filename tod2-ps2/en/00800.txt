@@ -1,0 +1,15 @@
+[00800.001]
+Say, {NAME:06 00 00 00}. Why is it that {NAME:06 00 00 00}...
+
+[00800.002]
+I told you, "I don't want to be the only one who cheats". I like solving hard problems by my own strength. Handed the answer first and working back to it? No thanks.
+
+[00800.003]
+......You're strong.
+
+[00800.004]
+Strong... Mm, I've not been called that much, but it's rather a nice compliment! Not that I think it's the right word.
+
+[00800.005]
+No, you are strong, {NAME:06 00 00 00}...... Yes, people are strong...
+

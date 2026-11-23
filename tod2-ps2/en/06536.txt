@@ -1,0 +1,106 @@
+[06536.001]
+Vangelo, the Azure City: Fountain Square
+
+[06536.002]
+Vangelo, the Azure City
+
+[06536.003]
+Fountain Square
+
+[06536.004]
+Old Man
+
+[06536.005]
+Lady Elraine brings blessings to the land, and the thanks of we who receive them go back to Lady Elraine as prayer...
+
+[06536.006]
+Old Man
+
+[06536.007]
+This fountain shows that bond.
+
+[06536.008]
+Old Man
+
+[06536.009]
+The bond between Lady Elraine and us... That is what this fountain holds.
+
+[06536.010]
+Old Man
+
+[06536.011]
+Curious fountain, isn't it? The water that falls is drawn up again, and round and round it goes.
+
+[06536.013]
+It certainly is an odd shape. But why go to the trouble of making it like this?
+
+[06536.014]
+Old Man
+
+[06536.015]
+That, you see, is because this fountain stands for the bond between Lady Elraine and us.
+
+[06536.017]
+Just right. Let's rest here a bit.
+
+[06536.019]
+I just can't make sense of it. Changing the world this much... Can that really be done?
+
+[06536.021]
+On that, there is one thing I have noticed.
+
+[06536.023]
+A long time has passed since this dome was built. Centuries, at the least.
+
+[06536.025]
+So the world changed into this a very long time ago.
+
+[06536.027]
+Most likely history was tampered with far in the past. That is why the dome is old, and why so much is different.
+
+[06536.029]
+So, about where did history change?
+
+[06536.031]
+That much I cannot tell. To find out, it seems we must go to another city.
+
+[06536.033]
+All right, then let's gather more information in another city!
+
+[06536.034]
+Have a safe journey.
+
+[06536.035]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06536.036]
+Will you stay the night?
+
+[06536.038]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06536.039]
+Please rest well.
+
+[06536.040]
+Good morning.
+
+[06536.041]
+You do not have enough money.
+
+[06536.042]
+We look forward to seeing you again.
+
+[06536.047]
+Obtained {16:25 BA}.
+
+[06536.049]
+Obtained {08:FF FF FF FF}.
+
+[06536.051]
+Found {16:25 C2}, but you can carry no more.
+
+[06536.053]
+There is nothing here.
+

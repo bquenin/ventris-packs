@@ -1,0 +1,121 @@
+[06368.001]
+Aigrette: General Store
+
+[06368.002]
+Aigrette
+
+[06368.003]
+General Store
+
+[06368.004]
+General Store
+
+[06368.005]
+Welcome.
+
+[06368.006]
+Thank you very much.
+
+[06368.007]
+Please come again.
+
+[06368.008]
+General Store
+
+[06368.009]
+General Store
+
+[06368.010]
+Welcome. We deal in tools here.
+
+[06368.011]
+Rich Man
+
+[06368.012]
+The Order of Atamoni is always so good to me that I'd like to donate something besides Lenses.
+
+[06368.013]
+Rich Man
+
+[06368.014]
+But the goods here are too cheap... Is there nothing more refined, something high-class?
+
+[06368.015]
+Rich Man
+
+[06368.016]
+You there, shopkeeper. Have you no large jewel or the like, worthy of the "Radiant Saint"?
+
+[06368.017]
+Rich Man
+
+[06368.018]
+I tried to donate costly ornaments to the Order of Atamoni, but they told me they need nothing but Lenses.
+
+[06368.019]
+Rich Man
+
+[06368.020]
+All they want is the Lenses that are the source of Lady Elraine's power. What an ungreedy lot.
+
+[06368.021]
+Rich Man
+
+[06368.022]
+In that case, I shall have to donate about three times my usual Lenses.
+
+[06368.023]
+Rich Man
+
+[06368.024]
+Hmm~. Don't you have any finer ornaments, something to suit my mansion?
+
+[06368.025]
+Rich Man
+
+[06368.026]
+I hear there is a skilled blacksmith in Heidelberg. Perhaps I'll commission something from him.
+
+[06368.027]
+Rich Man
+
+[06368.028]
+A bear figurine in alluring colors, smooth to the touch, would do too...
+
+[06368.029]
+Have a safe journey.
+
+[06368.030]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06368.031]
+Will you stay the night?
+
+[06368.033]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06368.034]
+Please rest well.
+
+[06368.035]
+Good morning.
+
+[06368.036]
+You do not have enough money.
+
+[06368.037]
+We look forward to seeing you again.
+
+[06368.042]
+Obtained {16:25 BA}.
+
+[06368.044]
+Obtained {08:FF FF FF FF}.
+
+[06368.046]
+Found {16:25 C2}, but you can carry no more.
+
+[06368.048]
+There is nothing here.
+

@@ -1,0 +1,94 @@
+[06570.001]
+Surface Army Base
+
+[06570.002]
+Surface Army Base
+
+[06570.004]
+The fire in the hearth burns on with no sign of dying.
+
+[06570.006]
+A stretcher and some simple medical tools. Every one of them is worn with use.
+
+[06570.008]
+What little medicine is left is kept here.
+
+[06570.009]
+Private
+
+[06570.010]
+The bigwigs inside the Radisrol wouldn't know what we grunts go through.
+
+[06570.011]
+Private
+
+[06570.012]
+We're the ones risking our lives out here. They could treat us a little better.
+
+[06570.013]
+Private
+
+[06570.014]
+Well, I guess the top has its own troubles. But I wish they'd see a bit of what the grunts go through, fighting for their lives.
+
+[06570.015]
+Private
+
+[06570.016]
+Damn it all, if this wound had healed I could have been in the assault on Dycroft.
+
+[06570.017]
+Private
+
+[06570.018]
+No use at all when it counts. It's pathetic...
+
+[06570.019]
+Private
+
+[06570.020]
+Hmph, in that case I'll cheer them on from the ground for all I'm worth.
+
+[06570.021]
+Private
+
+[06570.022]
+"Drop dead, Miktran"!
+
+[06570.023]
+Have a safe journey.
+
+[06570.024]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06570.025]
+Will you stay the night?
+
+[06570.027]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06570.028]
+Please rest well.
+
+[06570.029]
+Good morning.
+
+[06570.030]
+You do not have enough money.
+
+[06570.031]
+We look forward to seeing you again.
+
+[06570.036]
+Obtained {16:25 BA}.
+
+[06570.038]
+Obtained {08:FF FF FF FF}.
+
+[06570.040]
+Found {16:25 C2}, but you can carry no more.
+
+[06570.042]
+There is nothing here.
+

@@ -1,0 +1,21 @@
+[00872.001]
+Hey, {NAME:04 00 00 00}. Which do you think I should choose, {NAME:04 00 00 00}?
+
+[00872.002]
+I told you not to ask me.
+
+[00872.003]
+I know... I just want to hear it. How you'd see it, {NAME:04 00 00 00}.
+
+[00872.004]
+I am a man who thought of neither the world nor his comrades, only of having his own way. Such a man has nothing to tell you.
+
+[00872.005]
+{NAME:04 00 00 00}...
+
+[00872.006]
+There is only one thing I can say... Be honest with your own heart.
+
+[00872.007]
+Honest with myself.
+

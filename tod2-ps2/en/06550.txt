@@ -1,0 +1,58 @@
+[06550.001]
+Speranza, the Crimson City
+
+[06550.002]
+Speranza, the Crimson City
+
+[06550.003]
+Man
+
+[06550.004]
+To think you can go outside the dome without a Lens of Life. You people like a challenge!
+
+[06550.005]
+Man
+
+[06550.006]
+You people came from outside!? Aah, and without even a Lens! Are you really all right!?
+
+[06550.008]
+Good grief... We get asked the same things here too...
+
+[06550.009]
+Have a safe journey.
+
+[06550.010]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06550.011]
+Will you stay the night?
+
+[06550.013]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06550.014]
+Please rest well.
+
+[06550.015]
+Good morning.
+
+[06550.016]
+You do not have enough money.
+
+[06550.017]
+We look forward to seeing you again.
+
+[06550.022]
+Obtained {16:25 BA}.
+
+[06550.024]
+Obtained {08:FF FF FF FF}.
+
+[06550.026]
+Found {16:25 C2}, but you can carry no more.
+
+[06550.028]
+There is nothing here.
+

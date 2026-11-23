@@ -1,0 +1,42 @@
+[97.000]
+Moria Mine, floor B{NUM:801F}
+
+[97.001]
+{アーチェ}
+"So much treasure, it's amazing!"
+
+[97.002]
+{クレス}
+"Found it!"{PAGE}
+
+
+[97.003]
+{クラース}
+"Really!?"
+
+[97.004]
+{クラース}
+"...This is an ordinary ring."{PAGE}
+
+
+[97.005]
+{アーチェ}
+"Found a ring!"{PAGE}
+
+
+[97.006]
+{ミント}
+"There was one over here too."
+
+[97.007]
+{クレス}
+"But this..."{PAGE}
+{クラース}
+"It is nearly broken... And the others?"{PAGE}
+{ミント}
+"The others do not seem to be rings..."{PAGE}
+{アーチェ}
+"What do we do?"{PAGE}
+{クラース}
+"It is beyond my power... We may do best to go back to Alvanista."
+

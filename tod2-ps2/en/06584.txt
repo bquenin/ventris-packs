@@ -1,0 +1,122 @@
+[06584.001]
+Supply Depot
+
+[06584.002]
+Supply Depot
+
+[06584.004]
+Jump down to the floor below?
+
+[06584.006]
+Jump down
+Go back
+
+[06584.008]
+A container locked by three chips: {08:36 00 00 00}, {08:37 00 00 00}, {08:38 00 00 00}.
+
+[06584.010]
+Used {08:36 00 00 00}, {08:37 00 00 00} and {08:38 00 00 00} and obtained {08:35 00 00 00}.
+
+[06584.012]
+This is the Master Key. With this we can release most locks.
+
+[06584.014]
+The Master Key won't break from a change of temperature, so let's step outside and take a rest.
+
+[06584.016]
+A memo has been left on the wall.
+
+[06584.017]
+Memo
+
+[06584.018]
+"Belcrant seems to have us in range. We must leave the materials and flee. In case they survive, here is how to unlock them."
+
+[06584.019]
+Memo
+
+[06584.020]
+"The low-level lock needs three chips: {08:36 00 00 00}, {08:37 00 00 00}, {08:38 00 00 00}. Release it and take {08:35 00 00 00}."
+
+[06584.021]
+Memo
+
+[06584.022]
+"The high-level lock needs three keys: {08:35 00 00 00}, {08:33 00 00 00}, {08:34 00 00 00}. With them the container at the back will open."
+
+[06584.023]
+Memo
+
+[06584.024]
+"For safety, the chips and keys crumble if the temperature changes. May the materials help end the war. The Director"
+
+[06584.025]
+Time over
+
+[06584.027]
+A key for releasing the low-level lock. There should be two more like it.
+
+[06584.029]
+Oh, that's right. Don't go outside while you're carrying this.
+
+[06584.031]
+Huh, why not?
+
+[06584.033]
+This thing can't stand a change of temperature. Take it out into that blizzard and it'll be ruined in no time.
+
+[06584.035]
+A key for releasing the low-level lock. There should be one more like it.
+
+[06584.037]
+With these three keys we can get the Master Key. It should be somewhere about, so let's look.
+
+[06584.039]
+This is a key for releasing the high-level lock.
+
+[06584.041]
+The Master Key, the Cell Key and the Bio Key. Use these three on the materials container and the lock is released.
+
+[06584.043]
+But the Cell Key and Bio Key can't stand a change of temperature, so don't go outside. The blizzard would ruin them at once!
+
+[06584.044]
+There is nothing of note here.
+
+[06584.045]
+Have a safe journey.
+
+[06584.046]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06584.047]
+Will you stay the night?
+
+[06584.049]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06584.050]
+Please rest well.
+
+[06584.051]
+Good morning.
+
+[06584.052]
+You do not have enough money.
+
+[06584.053]
+We look forward to seeing you again.
+
+[06584.058]
+Obtained {16:25 F6}.
+
+[06584.060]
+Obtained {08:FF FF FF FF}.
+
+[06584.062]
+Found {16:25 FE}, but you can carry no more.
+
+[06584.064]
+There is nothing here.
+

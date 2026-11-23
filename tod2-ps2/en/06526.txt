@@ -1,0 +1,61 @@
+[06526.001]
+The Flying Dragon: Core
+
+[06526.002]
+The Flying Dragon
+
+[06526.003]
+Core
+
+[06526.005]
+Wh-what's that!?
+
+[06526.007]
+The Flying Dragon has lost the power of the Lenses and begun to descend.
+
+[06526.009]
+Ah, I see... Wait, this is no time to be calm about it! Let's get out of here, quick!
+
+[06526.010]
+Have a safe journey.
+
+[06526.011]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06526.012]
+Will you stay the night?
+
+[06526.014]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06526.015]
+Please rest well.
+
+[06526.016]
+Good morning.
+
+[06526.017]
+You do not have enough money.
+
+[06526.018]
+We look forward to seeing you again.
+
+[06526.023]
+Obtained {16:25 CA}.
+
+[06526.025]
+Obtained {08:FF FF FF FF}.
+
+[06526.027]
+Found {16:25 D2}, but you can carry no more.
+
+[06526.029]
+There is nothing here.
+
+[06526.030]
+Time over
+
+[06526.032]
+Destroyed the control unit.
+

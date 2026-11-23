@@ -1,0 +1,384 @@
+[73.000]
+{クラース}
+"Brr, it's cold. Let us rest a while at the inn."
+
+[73.001]
+Arlee, Town of Everlasting Dark
+
+[73.002]
+Inn "Splatterhouse"
+
+[73.003]
+Arms Shop "3 a.m."
+
+[73.004]
+Item Shop "Dead of Night"
+
+[73.005]
+Cafe "Oversleep"
+
+[73.006]
+"Welcome. Staying the night? It is 70 Gald a night."
+
+
+[73.007]
+Enjoy your stay. Checkout is at nine tomorrow.
+
+[73.008]
+I'm sorry. You do not have enough money.
+
+[73.009]
+"Please come again, travellers."
+
+[73.010]
+"Welcome."
+
+[73.011]
+"Thanks."
+
+[73.012]
+"Welcome. We deal in medicines too."
+
+[73.013]
+"Thank you very much."
+
+[73.014]
+"Welcome to the cafe 'Oversleep'. We sell food as well."
+
+[73.015]
+"Thank you. Please come again."
+
+[73.016]
+"Would you like a coffee too? It'll warm you up."
+
+[73.017]
+"We are a survey team from Alvanista. We were sent to find the cause of this darkness."
+
+[73.018]
+"This darkness appeared some years ago. It was at the same time as Dhaos appeared, so we think it must be his doing..."
+
+[73.019]
+"This town was once a resting place for miners. There were several hundred people here, but since the darkness covered it, it has quite gone to ruin."
+
+[73.020]
+"The cave north-west of here used to be a mine shaft. But when Dhaos appeared, a whole mountain was destroyed. The mine is gone too."
+
+[73.021]
+"Ahh, that warms you up. The coffee in this place is something special
+
+[73.022]
+!"
+
+[73.023]
+!{PAGE}
+Hm? Aren't you {クレス}? We have had word from the Kingdom of Alvanista. You are looking for where Dhaos is, I hear."{PAGE}
+{クレス}
+"Yes. Is there any clue?"{PAGE}
+"Well now. We of the survey team think this region of darkness is suspicious too, but no clue has turned up."{PAGE}
+{クレス}
+"I see..."{PAGE}
+"Sorry.{PAGE}
+Oh yes. I got this crest from a monster I killed, and it may be of some use. Do take it."{PAGE}
+{クレス}
+"Th-thank you."{PAGE}
+{COLOR:03}Received {STR:160C}.{COLOR:02}
+
+[73.024]
+"Brr, freezing. I could do with a hot spring. They say the ninja village has a hot spring that's good for poor circulation. I'd love to try it once. Eh? The ninja village? They say it's deep in Treant's Forest."
+
+[73.025]
+"It's cold. Just my luck to be on watch at a time like this.{PAGE}
+They say that when it drops below minus 20 outside, insects called stardust come flying from somewhere. In winter, mind you. Strange, isn't it?"
+
+[73.026]
+"There are a lot of monsters round here."
+
+[73.027]
+Swordswoman
+"Who can be bothered with training!"
+
+[73.028]
+Swordswoman
+"You a swordsman? Want to buy this book of secret arts?"{PAGE}
+{クレス}
+"What, a book of secret arts!?"{PAGE}
+Swordswoman
+"I set out on a journey of training, but I'm sick of it. I'm going home to the country. Well? 50000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[73.029]
+Tch. I can't go home till I've sold this.
+
+[73.030]
+"You haven't enough money."
+
+[73.031]
+{COLOR:03}{クレス} learned Hououtenkuuha.{COLOR:02}{PAGE}
+Swordswoman
+"Thanks! Now I can go home."
+
+[73.032]
+"Stardust, the messengers of the spirit of snow, live for only a day. They're the finest of creatures, as fleeting as they are beautiful.{PAGE}
+Eh? Can you make a pact with them? It's nothing like that. On the morning of a terribly cold day, things like glittering stars drift in the air. That's what we call stardust."
+
+[73.033]
+"Origin is no spirit of legend. Once you accept a legend as only a legend, it's all over. It's dreams, dreams, DREAMS, that's what. You've got to have dreams!"
+
+[73.034]
+"Welcome.{PAGE}
+Somebody said they saw the spirit of darkness on this continent. I wonder if it's true?"
+
+[73.035]
+"Mutter, mutter...{PAGE}
+Up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm,
+up, up, confirm, down, down, confirm."
+
+[73.036]
+"{クレス}, is {クレス} here!?"
+
+[73.037]
+{クレス}
+"Who are you?"{PAGE}
+Surveyor
+"I am from the intelligence section of the Alvanista survey team. The fact is, someone says they saw a huge castle at the old mine."{PAGE}
+{クレス}
+"A huge castle?"{PAGE}
+Surveyor
+"Yes. The old mine comes out partway up the mountainside, and from there a huge castle could be seen, they say..."{PAGE}
+{クラース}
+"I see. That is suspicious."{PAGE}
+{クレス}
+"Right, let's go and see."{PAGE}
+Surveyor
+"The old mine lies north-west of here.{PAGE}
+Then I shall take my leave."
+
+[73.038]
+{COLOR:03}Received the Earring that is the token of a healer. It can be equipped as an accessory.{COLOR:02}
+
+[73.039]
+{クラース}
+"Brr, it's cold. A stove, a stove..."
+
+[73.040]
+{クレス}
+"What is it, {ミント}?"
+
+[73.041]
+{ミント}
+"{クレス}, um... there is something I want to say. I shall wait behind the inn, so please come when you have put down your things."{PAGE}
+{クレス}
+"Eh, oh, right..."
+
+[73.042]
+{アーチェ}
+"Hm? Where's {ミント} gone?"{PAGE}
+{クレス}
+"...For a walk, she said."{PAGE}
+{クラース}
+"Of all places, in cold like this... Brr, freezing."
+
+[73.043]
+{クラース}
+"What is it, {クレス}?"{PAGE}
+
+
+[73.044]
+{クレス}
+"Eh? No...{PAGE}
+I-I'm just going for a walk..."
+
+[73.045]
+{アーチェ}
+"Me too!"{PAGE}
+
+
+[73.046]
+{クレス}
+"I-I want to go alone."
+
+[73.047]
+{アーチェ}
+"Weirdo."{PAGE}
+{クラース}
+"Even {クレス}, out in cold like this... Youth is a fine thing."{PAGE}
+{アーチェ}
+"Don't talk like an old man. You're not even thirty yet."{PAGE}
+{クラース}
+"Yes, yes."
+
+[73.048]
+{クラース}
+"Now, we have time on our hands. What shall I do...?"
+
+[73.049]
+{アーチェ}
+"What is it?"{PAGE}
+{クラース}
+"Oh, just a little mischief."
+
+[73.050]
+{クラース}
+"Origin. Did you not have the power to show us the future and the past?"{PAGE}
+Origin
+"...It can indeed be done with the Sword of Time, but to know the future is not permitted. A small glimpse of the past, though, I do not mind."
+
+[73.051]
+{アーチェ}
+"Gone into a trance?"
+
+[73.052]
+Origin
+"Even at my master's wish, this is once only, a special case."{PAGE}
+{クラース}
+"Only once."
+
+[73.053]
+{クラース}
+"Sorry. Would you leave the room?"{PAGE}
+{アーチェ}
+"Why?"{PAGE}
+
+
+[73.054]
+{クラース}
+"Just go!"{PAGE}
+{アーチェ}
+"What is it with everyone today!"
+
+[73.055]
+Origin
+"So, what do you wish to see?"{PAGE}
+{クラース}
+"..."{PAGE}
+Origin
+"Eh?"{PAGE}
+
+
+[73.056]
+{クラース}
+"..."{PAGE}
+Origin
+"Eh? Oh, I see. I see, but do speak up, as you do when you summon me.{PAGE}
+Well then..."
+
+[73.057]
+{アーチェ}
+"What are you looking at, {チェスター}?"{PAGE}
+{チェスター}
+"You're going to spy on those two, aren't you? Makes me wonder what kind of person you are."
+
+[73.058]
+{アーチェ}
+"What!"{PAGE}
+{チェスター}
+"What yourself."
+
+[73.059]
+{アーチェ}
+"You're the exact opposite of me, aren't you?"{PAGE}
+{チェスター}
+"And a good thing too."{PAGE}
+{アーチェ}
+"You pick a fight over every little thing."{PAGE}
+{チェスター}
+"Look who's talking! Anyway, from the first time I saw you, you..."{PAGE}
+
+
+[73.060]
+{アーチェ}
+"{SPEED:10}...From the first time you saw me{SPEED:FF}?"
+
+[73.061]
+{チェスター}
+"It's nothing."
+
+[73.062]
+{アーチェ}
+"Hey, let's go outside."{PAGE}
+{チェスター}
+"Not me, thanks."{PAGE}
+{アーチェ}
+"Come on. Come on, come on"
+
+[73.063]
+{クレス}
+"Sorry, have you been waiting?"{PAGE}
+{ミント}
+"No."{PAGE}
+{クレス}
+"I couldn't find the moment to slip out on my own..."
+
+[73.064]
+{クレス}
+"May I... sit beside you?"{PAGE}
+{ミント}
+"Yes."
+
+[73.065]
+{クレス}
+"So, what did you{SPEED:10}...{SPEED:FF} want to say?"{PAGE}
+{ミント}
+"Look at this..."
+
+[73.066]
+{クレス}
+"This is..."
+
+[73.067]
+{クレス}
+"...Is this... an earring?"{PAGE}
+???
+"Hold it up to the wall... You, I am sure, can get out of this mansion..."{PAGE}
+{クレス}
+"W-wait! You are...{PAGE}
+...Anyway, I'll try holding up the earring."
+
+[73.068]
+{ミント}
+"This earring with the unicorn on it is unusual, isn't it?{PAGE}
+There is no other like it in the world. The token of a healer, which my mother wore{SPEED:10}...{SPEED:FF}"
+
+[73.069]
+{ミント}
+"My mother is already{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[73.070]
+{クレス}
+"{SPEED:10}...{SPEED:FF}I'm sorry{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[73.071]
+{ミント}
+"Do not apologise. If you had not lied to me then, {クレス}, I am sure I would have lost my head and been a burden to you..."{PAGE}
+
+
+[73.072]
+{クレス}
+"{ミント}{SPEED:10}...{SPEED:FF}"{PAGE}
+{ミント}
+"Truly{SPEED:10}...{SPEED:FF} thank you{SPEED:10}...{SPEED:FF}"
+
+[73.073]
+{アーチェ}
+"{ミント}..."{PAGE}
+{チェスター}
+"Hey, let's go back. It's started snowing again too..."{PAGE}
+{アーチェ}
+"J-just a bit longer..."
+

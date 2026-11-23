@@ -1,0 +1,70 @@
+[06501.001]
+Trash Mountain
+
+[06501.002]
+Trash Mountain
+
+[06501.003]
+Trash Mountain
+
+[06501.004]
+Trash Mountain
+
+[06501.006]
+You're going to see {NAME:03 00 00 00} and the others, right? Hope Town is southwest of here.
+
+[06501.008]
+Let's go back to Hope Town.
+
+[06501.009]
+The poison gas has spoiled what was in the box!
+
+[06501.011]
+Whoa! A mountain of garbage!!
+
+[06501.013]
+It's where the Heavenly Army dumped its waste in the days of the War of Heaven and Earth.
+
+[06501.015]
+I'd rather not go through it, truth be told, but this is the only road through to Calviola.
+
+[06501.017]
+Hey, hey, we're going through a garbage heap like this...
+
+[06501.018]
+Have a safe journey.
+
+[06501.019]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06501.020]
+Will you stay the night?
+
+[06501.022]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06501.023]
+Please rest well.
+
+[06501.024]
+Good morning.
+
+[06501.025]
+You do not have enough money.
+
+[06501.026]
+We look forward to seeing you again.
+
+[06501.031]
+Obtained {16:26 9E}.
+
+[06501.033]
+Obtained {08:FF FF FF FF}.
+
+[06501.035]
+Found {16:26 A6}, but you can carry no more.
+
+[06501.037]
+There is nothing here.
+

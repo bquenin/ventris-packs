@@ -1,0 +1,124 @@
+[06350.001]
+Darilsheid, the Old Capital: Inn
+
+[06350.002]
+Darilsheid, the Old Capital
+
+[06350.004]
+A cheap bed... Sleeping here wouldn't take away any fatigue...
+
+[06350.005]
+Maid
+
+[06350.006]
+Still, I'm so bored... Having nothing to do is pretty hard in its own way, you know.
+
+[06350.007]
+Maid
+
+[06350.008]
+Sigh, today again our only guest is one of the regulars... No work to do, and I'm so bored.
+
+[06350.009]
+Maid
+
+[06350.010]
+They say that back when this city had a harbor, the lobby was overflowing with guests.
+
+[06350.012]
+So our orphanage isn't the only place having a hard time making ends meet...
+
+[06350.013]
+Maid
+
+[06350.014]
+Say, if you like, why not stay at this hotel? There's no work and I've got nothing to do.
+
+[06350.015]
+Maid
+
+[06350.016]
+Please, pretty please. Let me take care of you★
+
+[06350.017]
+Maid
+
+[06350.018]
+Say, if you like, why not stay? There's no work and I've got nothing to do.
+
+[06350.019]
+Maid
+
+[06350.020]
+Please, pretty please. Let me take care of you★
+
+[06350.022]
+All riiight! Take care of us, then!! Now, show us to your most expensive room!
+
+[06350.024]
+Hey, don't let her sweet-talk you! Honestly...
+
+[06350.025]
+Maid
+
+[06350.026]
+Aah, I'm so bored~! Maybe I'll just go home!
+
+[06350.027]
+Maid
+
+[06350.028]
+I'm a newlywed, you know. I want to hurry home and cuddle up with my sweet darling.
+
+[06350.029]
+Maid
+
+[06350.030]
+Even if today is hard, if you believe and keep at it, something good is sure to come tomorrow...
+
+[06350.031]
+Maid
+
+[06350.032]
+There were few guests again today. But I'll keep at it! ...Something like that?
+
+[06350.034]
+"Something like that?"... Don't ask me... But yeah, I think so.
+
+[06350.035]
+Have a safe journey.
+
+[06350.036]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06350.037]
+Will you stay the night?
+
+[06350.039]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06350.040]
+Please rest well.
+
+[06350.041]
+Good morning.
+
+[06350.042]
+You do not have enough money.
+
+[06350.043]
+We look forward to seeing you again.
+
+[06350.048]
+Obtained {16:25 BA}.
+
+[06350.050]
+Obtained {08:FF FF FF FF}.
+
+[06350.052]
+Found {16:25 C2}, but you can carry no more.
+
+[06350.054]
+There is nothing here.
+

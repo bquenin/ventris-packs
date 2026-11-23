@@ -1,0 +1,54 @@
+[09.000]
+{クレス}
+(I'd better not go back there...)
+
+[09.001]
+{クレス}
+"We should be safe now that we've come this far."
+
+[09.002]
+{クレス}
+"{ミント}, look out!!"
+
+[09.003]
+{クレス}
+"Ugh...!?"
+{ミント}
+"{クレス}!?"{PAGE}
+{クレス}
+"Damn, I let my guard down..."
+
+[09.004]
+{ミント}
+"{クレス}... hold on, {クレス}!"
+
+[09.005]
+{ミント}
+"Are they{SPEED:10}... after us?{SPEED:FF}"{PAGE}
+"We have to get away...!"
+
+[09.006]
+
+
+
+　　Father{SPEED:10},{SPEED:FF} Mother{SPEED:10}...{SPEED:FF}
+
+[09.007]
+{クレス}
+"What is that...?"{PAGE}
+{ミント}
+"That is a memory circle."{PAGE}
+{クレス}
+"A memory circle?"{PAGE}
+{ミント}
+"They say that if you stand on one, the memory of all you have been through stays behind as a lingering thought."
+
+[09.008]
+"You're not getting past here!!"
+
+[09.009]
+{COLOR:03}{ミント} has joined the party. In battle she supports {クレス} with her healing arts.{PAGE}
+She uses her arts by herself, but when you think "I want this art used right now!"
+you can also choose the art you want by hand.
+And when you think "I don't want this art used!", open the Skills screen from the menu on the field map and press the Set Target button (normally the Y button) to choose whether it is used (arts that are not used are shown in grey).{COLOR:02}
+

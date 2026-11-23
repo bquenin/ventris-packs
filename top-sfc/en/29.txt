@@ -1,0 +1,388 @@
+[29.000]
+"It's locked."
+
+[29.001]
+{COLOR:03}Rest?{COLOR:02}
+
+
+[29.002]
+{ミント}
+"{クレス}, are you all right now?"{PAGE}
+{クレス}
+"Yes. I'm sorry I worried you. I'm fine now."{PAGE}
+{ミント}
+"Thank goodness{SPEED:10}...{SPEED:FF}"
+
+[29.003]
+I am a pedlar. Will you buy something?
+
+[29.004]
+"Oh, excuse me. Is Mr. Morrison in? I keep calling and nobody answers...{PAGE}
+Ah, you'll do. Will you buy something?"
+
+[29.005]
+"Much obliged!"
+
+[29.006]
+Maid
+"Hello.
+A friend got me a place working here.{PAGE}
+But Mr. Morrison is {SPEED:10}so dreamy{SPEED:FF}"{PAGE}
+
+
+[29.007]
+Eek, I said it♥{PAGE}
+
+
+[29.008]
+{クレス}
+"..."
+
+[29.009]
+Morrison
+"Go outside and breathe some fresh air. You will feel better for it."
+
+[29.010]
+"I'm the maid. This is a lovely place, isn't it? The air is fresh and there is nature all around."
+
+[29.011]
+"Let me tell you some words handed down from long ago.{PAGE}
+'The power of the spirit is the demon's power. Swing the sword up from below, and confirm.' They sound as if they mean something, don't they? But what's the demon?"
+
+[29.012]
+"My great-grandfather was a wonderful healer, you know. And his grandfather's grandfather was a hero who defeated the demon king.{PAGE}
+It's not a lie."
+
+[29.013]
+Harold D. Morrison
+"I cannot offer you much, but please make yourselves at home."
+
+[29.014]
+???
+"Hm? Who are you? I have my hands full just now."{PAGE}
+{クレス}
+"Is your name Morrison, by any chance?"{PAGE}
+???
+"It is. My name is Harold D. Morrison. And you are..."{PAGE}
+"Could you be the Sir {クレス} my grandfather spoke of!?"{PAGE}
+{クレス}
+"Yes, I am."{PAGE}
+Harold
+"I see... so you are the ones my grandfather spoke of... By rights I ought to be helping you, but...
+I have neither the courage nor the strength to fight. My father and my grandfather, whose name was Trinicus D. Morrison, were both splendid healers, but I..."{PAGE}
+{クレス}
+"The thought alone is enough."{PAGE}
+{チェスター}
+"More to the point, did your grandfather tell you anything about us? About what lies ahead of us, say."{PAGE}
+Harold
+"{SPEED:10}...{SPEED:FF}If I knew, I could not tell you."{PAGE}
+{チェスター}
+"I thought as much. Because it would change history, right?"{PAGE}
+Harold
+"That too, but... I believe each of us must carve out our own fate. Fortune-tellers often say it as well: ninety-nine parts in a hundred of a person's fate are already settled, but the last one part can be changed by that person's own effort."{PAGE}
+{クレス}
+"Yes, I think so too."{PAGE}
+Harold
+"I cannot offer you much, but at least make yourselves at home."
+
+[29.015]
+{クレス}
+"Waah!"
+
+[29.016]
+???
+"You're awake, {クレス}!"
+
+[29.017]
+{クレス}
+"...{チェスター}{SPEED:10}...{SPEED:FF}!!"
+
+[29.018]
+Morrison
+"I told you I heard your name from a friend of yours, did I not?
+Did you not realise?"
+
+[29.019]
+{チェスター}
+"Mr. Morrison came just after you left the village, {クレス}.
+Thanks to him we were able to bury the villagers sooner than I had thought."{PAGE}
+{クレス}
+"So that's how it was."
+
+[29.020]
+"But why you, Mr. Morrison?"{PAGE}
+Morrison
+"I am hunting the man in black armour. Had word reached me a little sooner, I could have protected the village.
+But that Miguel was there and still could not protect the village, or even Maria{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[29.021]
+{クレス}
+"You knew my father and mother!?"{PAGE}
+Morrison
+"Yes. The two of them were old friends of mine. And I knew the young lady's mother, Meryl, very well too."
+
+[29.022]
+Morrison
+"Better than you do, perhaps."
+
+[29.023]
+{ミント}
+"Mother{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[29.024]
+{クレス}
+"{SPEED:10}...{SPEED:FF}"
+
+[29.025]
+Morrison
+"That reminds me. {クレス}, do you know of a jewel that Miguel treasured?"{PAGE}
+{クレス}
+"That jewel was made into a pendant, and I was given it as a birthday present, but..."{PAGE}
+Morrison
+"Do you have it now?"{PAGE}
+{クレス}
+"It was taken from me."{PAGE}
+
+
+[29.026]
+Morrison
+"What!?"{PAGE}
+{クレス}
+"The man in black armour took it when I was captured. What on earth does that pendant mean...?"{PAGE}
+Morrison
+"{SPEED:10}...{SPEED:FF}This is terrible. We are one step behind at every turn.
+This is bad{SPEED:10}...{SPEED:FF}"
+
+[29.027]
+Morrison
+"You are to stay here. I must go to the catacombs at once."{PAGE}
+{クレス}
+"The man in armour is there, isn't he? We're coming too! Let us avenge them!"{PAGE}
+Morrison
+"No."{PAGE}
+
+
+[29.028]
+{ミント}
+"But why!"
+{チェスター}
+"Please!"{PAGE}
+Morrison
+"You would only be in my way."{PAGE}
+{クレス}
+"You can't know that until we try...!"{PAGE}
+Morrison
+"Have you ever beaten your father?"{PAGE}
+{クレス}
+"That's{SPEED:10}...{SPEED:FF}"
+
+[29.029]
+Morrison
+"I am sorry. You are all that my dearest friends left behind. If I put you in danger, I could not face them, who have gone before us. I beg you, do not be wilful."
+
+[29.030]
+{ミント}
+"What are we to do now?"
+
+[29.031]
+{チェスター}
+"Whatever Mr. Morrison said, there's no way I'm going to sit and wait."{PAGE}
+{ミント}
+"Nor I{SPEED:10}...{SPEED:FF}"{PAGE}
+{クレス}
+"{SPEED:10}...{SPEED:FF}"{PAGE}
+{チェスター}
+"{クレス}, what about you?"
+
+[29.032]
+{チェスター}
+"Make up your mind! The two of us made a promise! Back then, that we would avenge everyone, without fail...
+Does what Mr. Morrison said just now bother you that much!?"
+
+[29.033]
+{チェスター}
+"Hey, I'm talking to you!"{PAGE}
+{ミント}
+"Please stop fighting!
+I beg you{SPEED:10}...{SPEED:FF}"
+
+[29.034]
+???
+"What a racket.
+Morrison, hello there, won't you keep me company over a cup of tea?"
+
+[29.035]
+???
+"What's this, the lad left to mind the house?"{PAGE}
+{クレス}
+"Master Tristan!?
+Why are you here?"{PAGE}
+Tristan
+"Why, if it isn't Miguel's lad. I often come here for tea.
+And what are you doing in a place like this?"{PAGE}
+{クレス}
+"Well, the truth is..."{PAGE}
+"...and that is how it is."{PAGE}
+Tristan
+"Hmm. So Morrison said that, did he? That you'd be in his way."
+
+[29.036]
+{ミント}
+"Yes{SPEED:10}...{SPEED:FF}"{PAGE}
+
+
+[29.037]
+Tristan
+"Ho ho ho. Just because he can do a bit of healing, the fellow has got above himself."{PAGE}
+{ミント}
+"Is Mr. Morrison a healer too?"{PAGE}
+
+
+[29.038]
+Tristan
+"Too?{SPEED:10}...{SPEED:FF}Oh ho, you are Meryl's girl. The very image of your mother. You will be a beauty."
+
+[29.039]
+{クレス}
+"But why? Everyone we meet knows about me and {ミント}, even about our parents. It's strange."{PAGE}
+Tristan
+"Do you want to know?"{PAGE}
+{クレス}
+"Very much. And besides, we do want to avenge them!"{PAGE}
+
+
+[29.040]
+{チェスター}
+"{クレス}!"
+{ミント}
+"{クレス}!"{PAGE}
+{クレス}
+"What Mr. Morrison said may be right{SPEED:10}...{SPEED:FF} but I won't waver any more!
+Master, please!!"{PAGE}
+Tristan
+"Very well. But you'll be in a poor way with that gear. There's a pedlar here just now, so go and fit yourselves out.
+When you are ready, go to the cave in the southeast. I'll go ahead and wait for you."
+
+[29.041]
+{クレス}
+"Huh?"{PAGE}
+{チェスター}
+"What is it, {クレス}?"
+
+[29.042]
+The earring... the earring I got in the dungeon is gone. Where did I lose it?
+
+[29.043]
+{クレス}
+"It's nothing. Let's go!"
+
+[29.044]
+???
+"Are you all right{SPEED:10}...{SPEED:FF}?"
+
+[29.045]
+{クレス}
+"It was you{SPEED:10},{SPEED:FF} who saved me."{PAGE}
+"{SPEED:10}...{SPEED:FF}Where is this?"{PAGE}
+???
+"This is my house. I am Trinicus D. Morrison.{PAGE}
+And you are {クレス}. Your friend told me. And the young lady told me how you came to be here.{PAGE}
+I believe I understand the matter, more or less."
+
+[29.046]
+{ミント}
+"{クレス}, you're awake. Thank goodness{SPEED:10}...{SPEED:FF}"{PAGE}
+"Oh, outside there is{SPEED:10}...{SPEED:FF}"{PAGE}
+Morrison
+"Yes. {クレス}, why not step outside for a change of air?"{PAGE}
+{クレス}
+"Oh, yes."
+
+[29.047]
+{クレス}
+"So this is goodbye..."{PAGE}
+{クラース}
+"Yes...
+We'll go on to Thor by ourselves from here."{PAGE}
+{アーチェ}
+"Don't you forget me, all right?
+I'll never forget any of you, ever..."
+
+[29.048]
+{クラース}
+"{ミント}, don't cry.
+We met as we were never meant to meet...
+no, we were able to meet.
+So can't we be glad of it instead, and say how good it was to have known you?"{PAGE}
+{ミント}
+"{SPEED:10}...{SPEED:FF}Yes."{PAGE}
+{クラース}
+"Ha ha. It's only a quibble to cover things over, though."{PAGE}
+{クレス}
+"Take care, {クラース}, and you too, {アーチェ}."{PAGE}
+{クラース}
+"We will. Take care, all of you..."
+
+[29.049]
+{アーチェ}
+"Well then, it's bye-bye."
+
+[29.050]
+Morrison
+"Wh-what is this!?"{PAGE}
+
+
+[29.051]
+{アーチェ}
+"Everyone, look at that!!"
+
+[29.052]
+{クラース}
+"I-it seems to have died down."{PAGE}
+{クレス}
+"Wh-what is going on!?"
+
+[29.053]
+???
+"Oh, I have arrived!
+This is the house of Master Trinicus D. Morrison, there is no doubt."
+
+[29.054]
+Morrison
+"That was the light of travel through time... Who are you?"{PAGE}
+???
+"I am Harrison. I have come from fifty years in the future, by command of the King of Alvanista."
+
+[29.055]
+{クラース}
+"What? From the future!?"{PAGE}
+Harrison
+"It is several years now since Dhaos appeared in our world. The world stands on the brink of ruin, and with every plan exhausted, we have no one left to turn to but you..."{PAGE}
+{クレス}
+"Then that meteor just now was Dhaos's doing!?"{PAGE}
+Harrison
+"So he did attack. I believe Dhaos feared I would bring you from the world of the past, and struck."{PAGE}
+
+
+[29.056]
+{クレス}
+"This can't be... Wasn't Dhaos dead!?"{PAGE}
+{アーチェ}
+"We can't just stand here!"{PAGE}
+{クラース}
+"Let's go, to the future! It seems it is too soon to part after all."{PAGE}
+{ミント}
+"Yes!"{PAGE}
+{クレス}
+"{チェスター}, you're coming too, aren't you?"{PAGE}
+{チェスター}
+"Yeah. Let's keep our promise!"
+
+[29.057]
+Morrison
+"This time I am the one who would be in the way. I shall be waiting. Be sure to come back alive."{PAGE}
+{クレス}
+"We will!"
+

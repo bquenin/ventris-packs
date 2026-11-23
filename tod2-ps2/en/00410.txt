@@ -1,0 +1,27 @@
+[00410.001]
+Ah, I'm starving! What will {NAME:05 00 00 00} make us? Can't wait, eh, {NAME:02 00 00 00}!
+
+[00410.002]
+........
+
+[00410.003]
+...{NAME:02 00 00 00}, what's wrong?
+
+[00410.004]
+Eh? N-nothing! Nothing...
+
+[00410.005]
+I see. That's all right, then...
+
+[00410.006]
+...Listen, {NAME:01 00 00 00}. About what was said earlier. The god...
+
+[00410.007]
+He~y, what are you dawdling for? We'll leave you behind.
+
+[00410.008]
+I know! Come on, {NAME:02 00 00 00}!
+
+[00410.009]
+...Yes...
+

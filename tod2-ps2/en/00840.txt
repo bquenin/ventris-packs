@@ -1,0 +1,15 @@
+[00840.001]
+By the way, {NAME:01 00 00 00}. A date with {NAME:02 00 00 00} at dawn, behind my back? Not bad. You! Poke poke poke poke!
+
+[00840.002]
+......O-oh, come on. It wasn't like that.
+
+[00840.003]
+What, no need to hide it. Of course, you're at that age now, {NAME:01 00 00 00}. Jeez... getting ahead of the great me, you've got a nerve. You, you♪ You! You! Why you! You little! Damn you!
+
+[00840.004]
+Ow, ow, that hurts! {NAME:03 00 00 00}, aren't you actually angry!?
+
+[00840.005]
+Nooo, I'm not! Damn it!
+

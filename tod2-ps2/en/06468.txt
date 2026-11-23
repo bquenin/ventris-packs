@@ -1,0 +1,756 @@
+[06468.001]
+Aigrette
+
+[06468.002]
+Aigrette
+
+[06468.003]
+Aigrette
+
+[06468.004]
+Aigrette
+
+[06468.005]
+Aigrette
+
+[06468.007]
+"This is Aigrette, the holy city where the faithful servants of God dwell."
+
+[06468.009]
+"In celebration of the descent of Fortuna. The volunteers of Aigrette"
+
+[06468.011]
+Try using the {08:32 00 00 00} in suspicious places.
+
+[06468.013]
+The chest at the upper right bothers me... If only there were "a tool that detects and perceives what the eye normally cannot see"...
+
+[06468.015]
+The Sorcerer's Scope revealed a hidden door.
+
+[06468.017]
+...This is Aigrette!
+
+[06468.019]
+{NAME:02 00 00 00}, we're in luck! We weren't sent somewhere we don't know!
+
+[06468.021]
+Huh? But doesn't it feel different somehow?
+
+[06468.023]
+...In ten years, things change this much.
+
+[06468.025]
+...Huh?
+
+[06468.027]
+Listen calmly, {NAME:01 00 00 00}. We were sent away by Elraine's power.
+
+[06468.029]
+...To the future. To a future ten years after the era you all were in, {NAME:01 00 00 00}.
+
+[06468.031]
+Ha...
+
+[06468.033]
+Ahahaha! Come on, that's a rough joke, {NAME:02 00 00 00}!
+
+[06468.035]
+...I knew you wouldn't believe me. But this really is ten years on. I think you'll see before long.
+
+[06468.037]
+{NAME:02 00 00 00}...?
+
+[06468.039]
+Wh-what is that...
+
+[06468.041]
+"In celebration of the descent of Fortuna. The volunteers of Aigrette"
+
+[06468.043]
+What... is this!? This statue wasn't here last time we came, was it!?
+
+[06468.045]
+Of course it wasn't.
+
+[06468.047]
+This statue was made a little after the era you all were in, {NAME:01 00 00 00}.
+
+[06468.049]
+Th-then what you said, {NAME:02 00 00 00}, is really...
+
+[06468.051]
+Yes. This is the world ten years after the era you all were in, {NAME:01 00 00 00}.
+
+[06468.053]
+What Elraine used then was a power to send me into the future... The rest of you were caught up in it.
+
+[06468.055]
+B-but Elraine's a high-up person in the Order of Atamoni, right!? Why would she do that to you, {NAME:02 00 00 00}...
+
+[06468.057]
+A-and another thing! "In celebration of the descent of Fortuna"... what on earth does that mean!?
+
+[06468.059]
+Just what it says. In this era there is a god. A god called Fortuna.
+
+[06468.061]
+No... I mean, nobody said one word about that!
+
+[06468.063]
+It's so much a matter of course that nobody says it. A god really did descend.
+
+[06468.065]
+No way...
+
+[06468.067]
+H-hey! Is it true there's a god in this world!?
+
+[06468.068]
+Townsperson
+
+[06468.069]
+Of course. What about it?
+
+[06468.071]
+No way...
+
+[06468.072]
+Townsperson
+
+[06468.073]
+Dear, if we don't hurry we'll be late for the birth ceremony.
+
+[06468.074]
+Townsperson
+
+[06468.075]
+Ah, so we will. Was that all you wanted, sonny?
+
+[06468.077]
+...Ah, yes...
+
+[06468.078]
+Townsperson
+
+[06468.079]
+Dear, if we don't hurry we won't make it.
+
+[06468.080]
+Townsperson
+
+[06468.081]
+The bishop is strict about time. All the more for a birth ceremony. Let's hurry to the Great Temple.
+
+[06468.083]
+So there really is a god in this world...
+
+[06468.085]
+A birth ceremony... That may be just the thing.
+
+[06468.087]
+Hey, {NAME:01 00 00 00}. Why don't we go to the birth ceremony with those people too?
+
+[06468.089]
+What?
+
+[06468.091]
+If we attend, I think you'll come to see what kind of place this world is.
+
+[06468.092]
+Man
+
+[06468.093]
+Today again was neither good nor bad, a day with no trouble.
+
+[06468.094]
+Man
+
+[06468.095]
+I must report this happiness to Fortuna.
+
+[06468.096]
+Man
+
+[06468.097]
+O Fortuna, may tomorrow too be a day when nothing at all happens...
+
+[06468.098]
+Man
+
+[06468.099]
+The birth ceremony's over, so I suppose I'll head home. E-114 is waiting.
+
+[06468.101]
+U-um, "E-114"... that's a person's name... isn't it?
+
+[06468.102]
+Man
+
+[06468.103]
+What are you saying? Of course it is. It's the name of my beloved wife.
+
+[06468.104]
+Man
+
+[06468.105]
+The birth ceremony's over, so I'll go home to our house, where my beloved E-114 is waiting.
+
+[06468.106]
+Man
+
+[06468.107]
+Lately I don't much like my own name.
+
+[06468.109]
+I'm not surprised. It's odd for a number to be a name.
+
+[06468.110]
+Man
+
+[06468.111]
+No, that's not it. I want a better number.
+
+[06468.112]
+Man
+
+[06468.113]
+For instance, F-46107 could be read as Fortuna, couldn't it? That's the kind of name I want.
+
+[06468.114]
+Man
+
+[06468.115]
+No conversation set for this flag.
+
+[06468.116]
+Man
+
+[06468.117]
+Until about ten years ago I ran a business in this city. Life was hard then, not like now.
+
+[06468.118]
+Man
+
+[06468.119]
+But since Fortuna descended, there's no fear of going hungry. I'm thankful for it.
+
+[06468.120]
+Man
+
+[06468.121]
+Since Fortuna descended, there's no fear of going hungry. I'm thankful for it.
+
+[06468.122]
+Man
+
+[06468.123]
+Living a life with no wants like this, sometimes I'm no longer sure.
+
+[06468.124]
+Man
+
+[06468.125]
+Until about ten years ago I lived in great poverty, but I wonder whether that wasn't a dream.
+
+[06468.126]
+Man
+
+[06468.127]
+No conversation set for this flag.
+
+[06468.128]
+Young Woman
+
+[06468.129]
+You're wearing clothes with a very old sense of style.
+
+[06468.131]
+A-am I?
+
+[06468.132]
+Young Woman
+
+[06468.133]
+Yes. I mean, that's the fashion sense of about ten years ago.
+
+[06468.134]
+Young Woman
+
+[06468.135]
+You people are strange. It's just as if you'd slipped through time from ten years ago.
+
+[06468.136]
+Young Woman
+
+[06468.137]
+When I was a child, I think... I feel I had a name that wasn't a number...
+
+[06468.138]
+Young Woman
+
+[06468.139]
+But I can't quite remember what it was...
+
+[06468.141]
+So she has lost her name somewhere...
+
+[06468.142]
+Young Woman
+
+[06468.143]
+Well, not being able to remember my name has never been a problem, so it doesn't really matter.
+
+[06468.144]
+Young Woman
+
+[06468.145]
+No conversation set for this flag.
+
+[06468.146]
+Young Woman
+
+[06468.147]
+Did you come to become a citizen of Aigrette?
+
+[06468.149]
+No, not particularly...
+
+[06468.150]
+Young Woman
+
+[06468.151]
+Oh, is that so? Choosing a hard way of living on purpose. You're an odd one.
+
+[06468.152]
+Young Woman
+
+[06468.153]
+Become a citizen of Aigrette and it's guaranteed that anyone, without fail, will be happy.
+
+[06468.154]
+Young Woman
+
+[06468.155]
+In the old days we were caught up in tiresome things like work and making a living, and the irritation never ended.
+
+[06468.156]
+Young Woman
+
+[06468.157]
+Now we can do nothing and think only of our own happiness♪
+
+[06468.158]
+Young Woman
+
+[06468.159]
+We never fall ill, and there's a mountain of time to use. What luxury~.
+
+[06468.160]
+Young Woman
+
+[06468.161]
+No conversation set for this flag.
+
+[06468.162]
+Man
+
+[06468.163]
+Strife arises because people want to stand above others.
+
+[06468.164]
+Man
+
+[06468.165]
+If everyone is equally happy, as in this city, no strife arises.
+
+[06468.166]
+Man
+
+[06468.167]
+You too should turn all your useless desires into Lenses and donate them to the Order.
+
+[06468.168]
+Man
+
+[06468.169]
+It seems there are still people in this world who reject the culture of Aigrette and desire strife.
+
+[06468.171]
+We don't desire strife or anything... A hothouse upbringing just isn't to our taste.
+
+[06468.172]
+Man
+
+[06468.173]
+If only they would cast off desire and offer everything to God...
+
+[06468.174]
+Man
+
+[06468.175]
+No conversation set for this flag.
+
+[06468.176]
+Man
+
+[06468.177]
+Long ago, all I ever got was swindled.
+
+[06468.178]
+Man
+
+[06468.179]
+But in Aigrette nowadays, there's not one soul who'd swindle me.
+
+[06468.180]
+Man
+
+[06468.181]
+I've no need to sell pots anymore, either.
+
+[06468.182]
+Man
+
+[06468.183]
+What? Come to me all you like, I don't sell shady pots anymore.
+
+[06468.185]
+We don't want that stuff either.
+
+[06468.186]
+Man
+
+[06468.187]
+In Aigrette, as long as you do your duty as a citizen, you can live without working.
+
+[06468.188]
+Man
+
+[06468.189]
+No conversation set for this flag.
+
+[06468.190]
+Young Woman
+
+[06468.191]
+Hey, did you know? They say people in the old days did nothing but pointless things.
+
+[06468.193]
+Pointless things?
+
+[06468.194]
+Young Woman
+
+[06468.195]
+War, and quarrels, and swindling people and being swindled. Reeeally nothing but pointless things.
+
+[06468.196]
+Young Woman
+
+[06468.197]
+Did the people of long ago think they could be happy by doing what others hate, I wonder?
+
+[06468.198]
+Young Woman
+
+[06468.199]
+In the future I'm going to be a childcare officer of the Order of Fortuna.
+
+[06468.200]
+Young Woman
+
+[06468.201]
+I have to study more so I'll pass the entrance exam!
+
+[06468.202]
+Young Woman
+
+[06468.203]
+Unless you're an able person, you can't be a childcare officer who raises able children.
+
+[06468.204]
+Man
+
+[06468.205]
+No conversation set for this flag.
+
+[06468.206]
+Young Woman
+
+[06468.207]
+How about these clothes? They say people who served other people used to wear them long ago.
+
+[06468.208]
+Young Woman
+
+[06468.209]
+People serving people. What an odd idea.
+
+[06468.210]
+Young Woman
+
+[06468.211]
+All human beings ought to serve God. What were the people of long ago thinking?
+
+[06468.212]
+Young Woman
+
+[06468.213]
+How about these clothes? They say people who served other people used to wear them long ago.
+
+[06468.214]
+Young Woman
+
+[06468.215]
+People working under people. What an odd idea~.
+
+[06468.216]
+Young Woman
+
+[06468.217]
+Don't you think all people should be equal under God?
+
+[06468.218]
+Man
+
+[06468.219]
+No conversation set for this flag.
+
+[06468.220]
+Grocer
+
+[06468.221]
+I've opened a shop, remembering the old days. Please buy something if you'd like.
+
+[06468.222]
+I never noticed there was a door in a place like that...
+
+[06468.223]
+What's to be done about that chest... There must be a way in somewhere...
+
+[06468.224]
+Grocer
+
+[06468.225]
+Temple Knight
+
+[06468.226]
+There was once a bazaar beyond here. The people who lived there were unbelievers, every one, with nothing in their heads but trade.
+
+[06468.227]
+Temple Knight
+
+[06468.228]
+This is the city of God, the holy city. Unbelievers have no place in the holy city... The bazaar was torn down.
+
+[06468.229]
+Temple Knight
+
+[06468.230]
+And so this city has become a better place to live.
+
+[06468.231]
+Have a safe journey.
+
+[06468.232]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06468.233]
+Will you stay the night?
+
+[06468.235]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06468.236]
+Please rest well.
+
+[06468.237]
+Good morning.
+
+[06468.238]
+You do not have enough money.
+
+[06468.239]
+We look forward to seeing you again.
+
+[06468.244]
+Obtained {16:25 BA}.
+
+[06468.246]
+Obtained {08:FF FF FF FF}.
+
+[06468.248]
+Found {16:25 C2}, but you can carry no more.
+
+[06468.250]
+There is nothing here.
+
+[06468.251]
+{08:12 00 00 00} Seller
+
+[06468.252]
+We sell {08:12 00 00 00} here.
+
+[06468.253]
+They say that refining with a {08:12 00 00 00} sometimes makes something wonderful.
+
+[06468.254]
+They say that when weapons and armor are refined, their added abilities are sometimes carried over.
+
+[06468.255]
+That will be {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald a bottle. Will you buy a {08:12 00 00 00}?
+
+[06468.257]
+{03:00 00 00 00}　Buy one　
+　{0B:01 00 00 00}Buy {14:25 D6} at once ({14:35 D0} Gald){0B:00 00 00 00}　
+　Refine lesson　
+　No thanks　
+
+[06468.259]
+{03:00 00 00 00}　Buy one　
+　Refine lessons　
+　No thanks　
+
+[06468.260]
+Thank you for your purchase.
+
+[06468.261]
+Thank you for your purchase.
+
+[06468.262]
+A {08:12 00 00 00} is {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald a bottle.
+
+[06468.263]
+Would you like to hear the Refine lessons?
+
+[06468.265]
+{03:00 00 00 00}　Yes, please　
+　No, thanks　
+
+[06468.266]
+What would you like to know about?
+
+[06468.268]
+{03:00 00 00 00}　4. About Slots　
+　5. Refining accessories　
+　6. Equipment you cannot refine　
+　Previous page　
+
+[06468.270]
+{03:00 00 00 00}　1. What is Refine?
+　2. Changing items　　　　　　　　　　
+　3. Combining equipment　
+　Next page　
+
+[06468.271]
+Refine is a command that can change a chosen item into a different item, or combine weapons and armor.
+
+[06468.272]
+To refine, you need a {08:12 00 00 00} and Lenses.
+
+[06468.273]
+Please buy your {08:12 00 00 00} from us Rune Bottle sellers, found all over the land.
+
+[06468.274]
+Lenses can be picked up by fighting monsters.
+
+[06468.275]
+Do take this chance to refine all you like.
+
+[06468.276]
+Changing an item means refining a single item to turn it into a different item.
+
+[06468.277]
+For example, refining {08:01 00 00 00} turns it into {08:02 00 00 00}, and refining {08:02 00 00 00} turns it back into {08:01 00 00 00}.
+
+[06468.278]
+A single piece of equipment can also be refined into an item such as {08:01 00 00 00}.
+
+[06468.279]
+This can be useful when you run out of items in a dungeon, for instance. Of course, the wiser course is to prepare properly from the start...
+
+[06468.280]
+But the greatest feature of Refine is, of course, combining equipment.
+
+[06468.281]
+By combining equipment, you can make your favorite piece of equipment with your favorite Slot on it...
+
+[06468.282]
+Ah, I should explain Slots first, shouldn't I.
+
+[06468.283]
+A Slot is something like an added ability that can be attached to a piece of equipment.
+
+[06468.284]
+I will explain Slots in detail separately.
+
+[06468.285]
+The simplest way to refine equipment is to refine two pieces that have one Slot each.
+
+[06468.286]
+Do that and, wonderfully, you get a piece of equipment with two Slots.
+
+[06468.287]
+One thing to watch: you can only refine equipment of the same kind, sword with sword, armor with armor.
+
+[06468.288]
+There are all sorts of other combinations, but those are for you to discover.
+
+[06468.289]
+Let me explain Slots in detail.
+
+[06468.290]
+Slots come in many kinds. Typical ones are
+Attack: raises attack power
+Defense: raises defense
+
+[06468.291]
+A Slot also changes the name of the equipment. {08:78 00 00 00} + Attack makes an Attack Sword, for example.
+
+[06468.292]
+Slots also have levels, and the higher the level, the greater the effect. The highest is level 8.
+
+[06468.293]
+Equipment with Slots is mostly dropped by monsters.
+
+[06468.294]
+Fight lots of monsters, collect equipment with Slots, and try making Slot equipment that is yours alone.
+
+[06468.295]
+Just between us, accessories can be refined too. But not with one another.
+
+[06468.296]
+They can only be refined as an accessory together with a piece of equipment.
+
+[06468.297]
+The advantage here is that the Slot changes with the kind of equipment you refine it with. It differs between weapons and armor.
+
+[06468.298]
+Also, since only one accessory can be equipped, putting unwanted accessories to use in refining is very effective.
+
+[06468.299]
+Besides these, outerwear, that is, "capes", can be refined with equipment just as accessories can. And in that case, believe it or not, you can add an element to the equipment.
+
+[06468.300]
+Make good use of refining with accessories, and aim to become an even finer Refine artisan.
+
+[06468.301]
+Now and then you will see equipment with a yellow-framed icon. Those are what we call Unique Items.
+
+[06468.302]
+Unique Items look impressive, and many have high attack power and a high Slot level, but they have only one Slot.
+
+[06468.303]
+On the other hand, Unique Items other than accessories cannot be refined. They cannot be strengthened any further.
+
+[06468.304]
+So I recommend selling off the items you no longer need.
+
+[06468.305]
+Because rumor has it that when you carry a lot of items, monsters stop dropping them.
+
+[06468.306]
+...Keeping your items tidy matters too.
+

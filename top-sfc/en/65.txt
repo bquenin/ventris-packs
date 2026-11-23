@@ -1,0 +1,559 @@
+[65.000]
+General Store "Tenderloin"
+
+[65.001]
+Arms Shop "Garlic"
+
+[65.002]
+Food Shop "Sirloin"
+
+[65.003]
+Inn "Spaghetti"
+
+[65.004]
+Inn "Hamburger"
+
+[65.005]
+Olive Village
+
+[65.006]
+Mr Hyodo
+"Hot, isn't it, Mr Okamoto?"{PAGE}
+Mr Okamoto
+"Hot, isn't it, Mr Hyodo?"{PAGE}
+Mr Hyodo
+"I could do with a juice, Mr Okamoto."{PAGE}
+Mr Okamoto
+"I could do with a juice, Mr Hyodo."{PAGE}
+Mr Hyodo
+"Go to Olive Village and buy some, Mr Okamoto."{PAGE}
+Mr Okamoto
+"Go to Olive Village and buy some, Mr Hyodo."{PAGE}
+Mr Hyodo
+"..."
+Mr Okamoto
+"..."{PAGE}
+Mr Hyodo
+"I hope this game sells, Mr Okamoto."{PAGE}
+Mr Okamoto
+"This game is sure to sell, Mr Hyodo."
+
+[65.007]
+Masaking
+"I'LL KILL YOU!!"
+
+[65.008]
+Rokumoto
+"Tenderloin steak, 200 grams. And soup.{PAGE}
+Oh, you're not a waiter."
+
+[65.009]
+Ueki
+"Eh, the story of the spirits? Ah, that one might amuse you. Long, long ago, when..."{PAGE}
+{クレス}
+"I only know the first part of that. I want to know the rest. From where the spirit of the moon was captured by the king of the country that grew up after the world perished."{PAGE}
+Ueki
+"Oh, let me see... The soldier who found the spirit of the moon agonised over it, and in the end he resolved to save her. Treason against one's country deserves the heaviest penalty, but the soldier's feeling for the spirit swept that aside. With help from those who bore the country a grudge, the soldier brought the spirit out safely. But the king hunted the soldier without rest. Inside the barrier there could be no safe place to live. So the soldier took a gamble: to go outside the barrier. With the spirit's power she could live even outside, where the poison lay thick. The soldier meant to save the spirit at the risk of his own life.{PAGE}
+That's as much as I know. Sorry."
+
+[65.010]
+Ueki
+"This is a food shop, but they'll cook you a meal as well."
+
+[65.011]
+Yu-chan
+"Grrr!!!"
+
+[65.012]
+Yasu
+"A lot of the graphics I drew got cut, you know."
+
+[65.013]
+Kinpara
+"Cheep cheep."
+
+[65.014]
+Hasshie
+"I made the sound driver."
+
+[65.015]
+Mari-chan
+"I drew the characters."
+
+[65.016]
+"Why are there so many people in this shop?"
+
+[65.017]
+"Oh, you've got Basilisk Scales there, haven't you?
+
+[65.018]
+ But that's not many. With five or six they would make a good medicine.{PAGE}
+By the way...{PAGE}
+
+
+[65.019]
+Stay here a day and wait, won't you? I won't charge you a thing."{PAGE}
+{COLOR:03}Stay?{COLOR:02}
+
+[65.020]
+"I see..."
+
+[65.021]
+"I must let the whole village know at once."
+
+[65.022]
+Innkeeper
+"{クレス}! Edward is here!"
+
+[65.023]
+Edward
+"So it is you. The ones who will let me have the precious scales."{PAGE}
+{クラース}
+"You must be Edward. The truth is, this..."
+
+[65.024]
+{クレス} and {ミント}
+"Morrison!!?"
+
+[65.025]
+"Edward? Oh yes, he came here. He seemed to be asking all over the place for Basilisk Scales."{PAGE}
+{クラース}
+"Ah, the ones said to make a sovereign remedy for wounds?"{PAGE}
+"That's right, you know your stuff. It's hard to get them in any quantity these days."{PAGE}
+{ミント}
+"What is a Basilisk?"{PAGE}
+"A fearsome monster that lives in the desert. It's rare enough even to get a scale that can be used for medicine. Edward left word: if anyone turns up with Basilisk Scales, let him know. He'll come flying, he said.{PAGE}
+
+
+[65.026]
+By the way...{PAGE}
+
+
+[65.027]
+"Welcome. Staying? That'll be 45 Gald a night."
+
+
+[65.028]
+You haven't enough money, I'm afraid.
+
+[65.029]
+Enjoy your stay.
+
+[65.030]
+"Come again."
+
+[65.031]
+"Welcome. What will it be?"
+
+[65.032]
+"Thank you very much."
+
+[65.033]
+"Welcome."
+
+[65.034]
+"Thanks."
+
+[65.035]
+"Welcome. I've got good medicine."
+
+[65.036]
+"Not much of a change, you say? Mind your own business."
+
+[65.037]
+"Welcome. These are imports from Alvanista."
+
+[65.038]
+"Welcome. This town's a sort of halfway point between Midgards and Alvanista, so we've a good stock."
+
+[65.039]
+"Thanks!"
+
+[65.040]
+Teshimiyagura
+"Welcome. Eh? What's a sailor doing in a place like this?{PAGE}
+I'm not a sailor at all. This is fashion."
+
+[65.041]
+"They say a spirit lives in the cave to the east of here.{PAGE}
+But inside it's a hell of lava. Terribly hot, by all accounts."
+
+[65.042]
+"Phew, hot, isn't it?"
+
+[65.043]
+"The man called Edward? I think he went to the oasis south-east of here."
+
+[65.044]
+"Edward? Oh, he went to the oasis north of here."
+
+[65.045]
+"Ahh, this is restful."
+
+[65.046]
+"Eh? What's that?"{PAGE}
+{クレス}
+"As I said, did a man called Edward come here?"{PAGE}
+"What? What about a snail?"{PAGE}
+{クレス}
+"Eh? A snail?"{PAGE}
+"You said escargot just now."{PAGE}
+{クレス}
+"Edward! They only start with the same letter!"{PAGE}
+"...I was joking. Edward went on to the oasis further north."
+
+[65.047]
+"Well? Did you find your Edmund?"{PAGE}
+{クレス}
+"Edward!"
+
+[65.048]
+"So hot..."
+
+[65.049]
+"Edward? He went to Olive Village."{PAGE}
+{アーチェ}
+"Looks like we've missed each other on the way."{PAGE}
+{クレス}
+"Let's hurry back."
+
+[65.050]
+{クレス}
+"Those bush babies...?"{PAGE}
+"Oh, they're all my friends."
+
+[65.051]
+Piroshi
+"Grr, anyone who's boiling over gets a bucket of water!"
+
+[65.052]
+Kashiwagi
+"Pinkman is here!{PAGE}
+Sorry, it's a habit of mine. Do you know of the master craftsman Geese? They called him 'Iron Fist Geese', famous for forging steel with his fists, but he's gone off somewhere."
+
+[65.053]
+Mr Sato
+"Hot, isn't it?{PAGE}
+I hear there's a town on a continent wrapped in ice. I'd like to move there from this heat."
+
+[65.054]
+Hechi
+"It's the old man!{PAGE}
+Beyond the elven settlement, in Treant's Forest, in Heimdall, the sanctuary of the elves, there is a spirit. The far ancient documents wrote of it like a legend, but it really does exist.{PAGE}
+It's true."
+
+[65.055]
+Mr Toyoda
+"Thank you as always for your custom.{PAGE}
+They say Geese moved to a small island to keep away from people's eyes."
+
+[65.056]
+It reads: "Here lies Yu-chan."
+
+[65.057]
+On the back was written "Good-for-nothing".
+
+[65.058]
+"The medicines here are{SPEED:10} e-ve-ry one{SPEED:FF} made by my own hands. Well? Amazing, isn't it?"
+
+[65.059]
+"Any eggs? Fresh-laid eggs! 80 Gald each!"{PAGE}
+{COLOR:03}Buy an egg?{COLOR:02}
+
+[65.060]
+"Thanks!"
+
+[65.061]
+"You haven't enough money!"
+
+[65.062]
+"You can't carry any more, can you?"
+
+[65.063]
+"Much obliged!"
+
+[65.064]
+Swordsman
+"Clear the mind of all thought, and even fire is cool!"
+
+[65.065]
+Swordsman
+"You, are you a swordsman? Will you not buy this book of secret arts?"{PAGE}
+{クレス}
+"What, a book of secret arts!?"{PAGE}
+Swordsman
+"I bought it, but I do not think I shall ever master it.{PAGE}
+Well? 40000 Gald will do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[65.066]
+Mm... I see.
+
+[65.067]
+"You have not the money!"
+
+[65.068]
+{COLOR:03}{クレス} learned Hououshouhazan.{COLOR:02}{PAGE}
+"I am in your debt."
+
+[65.069]
+"There's a tower in the lava fields east of here, isn't there? Inside it's a blazing hell, and they say nobody has come back alive. But you might also think that treasure worth that much lies sleeping there. Heh heh heh..."
+
+[65.070]
+"They say the monster in the Cave of Burning Sand has a bow of flame."
+
+[65.071]
+"They say this region was ruled by Odin, the great power of far ancient times. But the wars of those days turned it into a continent of desert, so I'm told. I had it from an archaeologist."
+
+[65.072]
+"A secret word: right, lower right, down, lower left, left, right, left, right, confirm.{PAGE}
+Don't tell anyone else."
+
+[65.073]
+"A secret word: lower right, down, lower left, up, confirm.{PAGE}
+Don't tell anyone else."
+
+[65.074]
+Edward
+"My family name is Morrison. Why are you so startled?"{PAGE}
+{クレス} and {ミント}
+"Aaah{SPEED:10},{SPEED:FF} ah{SPEED:10},{SPEED:FF} er{SPEED:10}...{SPEED:FF}"{PAGE}
+{クラース}
+"You two are acting strangely.{PAGE}
+
+
+[65.075]
+Edward, before we speak of the scales, this letter."{PAGE}
+Edward
+"An introduction from Grom? You must have your reasons, to come all this way?"{PAGE}
+{クラース}
+"Yes. If possible, let us talk in a room..."
+
+[65.076]
+Edward
+"Oho! So it was you who saved Prince Laird."{PAGE}
+{クラース}
+"Yes. Though we were arrested afterwards."{PAGE}
+Edward
+"Ha ha ha! It even has a punchline. Well, I understand most of it."{PAGE}
+{クラース}
+"So, is there some good way?"{PAGE}
+Edward
+"There is a quicker way than finding another ring.{PAGE}
+This broken ring, from the look of it, is for a pact with a very powerful spirit. But you will never come by its like again. It is the joint work of an elf and the dwarves, who are no more."{PAGE}
+{クラース}
+"Which means?"{PAGE}
+Edward
+"You should go to the Forest of Ymir. There is sure to be a way to mend it."{PAGE}
+{クラース}
+"The elves' forest!? We could never get in!"{PAGE}
+Edward
+"Ask Lundgrom. With a letter of introduction from Alvanista you will be all right."{PAGE}
+{クラース}
+"I see."{PAGE}
+Edward
+"Then I shall gratefully take the Basilisk Scales. I mean to gather companions and make for Midgards before the war breaks out. If possible..."{PAGE}
+{クラース}
+"Yes?"{PAGE}
+Edward
+"If possible I should like people as dependable as you to come too, but it is not a thing I can press on you.{PAGE}
+Well then, let us meet again somewhere."
+
+[65.077]
+{クレス}
+"Morrison!"{PAGE}
+
+
+[65.078]
+Morrison
+"Is there something more?"{PAGE}
+{クレス}
+"...Please look at this. I'm sure it will be of use to you."
+
+[65.079]
+Morrison
+"A very old book, this. {SPEED:10}...{SPEED:FF}Hm?{PAGE}
+My handwriting...? What? My signature?"{PAGE}
+{クレス}
+"Trinicus D. Morrison. That is the name of the man who entrusted this book to me."{PAGE}
+Morrison
+"Morrison, you say?"{PAGE}
+{クレス}
+"He is your descendant. I come from the world of the future."{PAGE}
+Morrison
+"...Travel through time? Heh{SPEED:10}...{SPEED:FF} ha ha. Enough of your jokes. Even I am still only studying it."{PAGE}
+{クレス}
+"That's why! Your study must bear fruit, and the Morrison of the future...!"{PAGE}
+Morrison
+"Even supposing it is as you say, I do not want to hear it."{PAGE}
+{クレス}
+"What?"
+
+[65.080]
+{ミント}
+"I had not told you yet, {アーチェ}, but {クレス} and I travelled through time from a hundred years in the future."{PAGE}
+{アーチェ}
+"Huh? So that means, in other words..."
+
+[65.081]
+{アーチェ}
+"I'm a granny a hundred years older?"{PAGE}
+
+
+[65.082]
+{ミント}
+"Through the power of a man who is Edward's descendant{SPEED:10}...{SPEED:FF}"
+
+[65.083]
+Morrison
+"You know how the war ends, do you not? What happens after this, and where it all leads... But I do not want to learn everything and give up. You yourself are here now to save this descendant of mine and your friend, are you not? To change history!{PAGE}
+I feel the same. Even if it should be in vain!"{PAGE}
+
+
+[65.084]
+{クレス}
+"I never went so far as to say..."{PAGE}
+Morrison
+"No, you must feel the same. That you are here now{SPEED:20},{SPEED:FF} is the best proof of it."
+
+[65.085]
+{クレス}
+"Morrison! {SPEED:10}...{SPEED:FF}Please wait for us in Midgards. We will meet again, I promise! We'll lend our strength too!"{PAGE}
+
+
+[65.086]
+Morrison
+"...Have you any means of going back to the future?"{PAGE}
+{クレス}
+"That is another thing we have to solve..."{PAGE}
+Morrison
+"Good. I shall have it worked out by the time we next meet. What my descendant can do, I can surely do."
+
+[65.087]
+Morrison
+"Heh heh. In truth I had all but given up the study of time travel."{PAGE}
+{クレス}
+"Do your best!"{PAGE}
+Morrison
+"And you."
+
+[65.088]
+{クラース}
+"Well then, shall we hurry back to Alvanista?{PAGE}
+We must ask Lundgrom for a permit to enter the elven settlement."
+
+[65.089]
+{クレス}
+"What a hot place."{PAGE}
+{クラース}
+"In a desert like this, Edward cannot have failed to stop at this town."{PAGE}
+{ミント}
+"Oh, let us ask that person."
+
+[65.090]
+{クレス}
+"Excuse me."{PAGE}
+
+
+[65.091]
+"Yes?"{PAGE}
+{クレス}
+"Did a man called Edward come to this town?"{PAGE}
+"Edward? Oh yes, there was a traveller of that name here until the other day."{PAGE}
+{クレス}
+"And where is he now?"{PAGE}
+"He left town, saying he had some urgent business... I'd say by now he'll have gone to the oasis south-east of the town."{PAGE}
+{クレス}
+"Thank you."{PAGE}
+{クラース}
+"If we go now we may be in time. Let us hurry."
+
+[65.092]
+Olive Village
+
+[65.093]
+{クレス}
+"Edward should have come back here, but..."{PAGE}
+{ミント}
+"Let us ask that person again."
+
+[65.094]
+{クレス}
+"Excuse me."{PAGE}
+
+
+[65.095]
+"Yes?"{PAGE}
+{クレス}
+"Have you seen the man called Edward I spoke to you about the other day?"{PAGE}
+"Oh yes, I saw him go into the inn a few hours ago."{PAGE}
+{クレス}
+"Thank you."
+
+[65.096]
+Olive Village
+
+[65.097]
+{クレス}
+"Ahh... I slept well.{PAGE}
+
+
+[65.098]
+Good morning, {ミント}. You're up early this morning."
+
+[65.099]
+{クレス}
+"{ミント}?"
+
+[65.100]
+{クラース}
+"Ah, good morning..."
+
+[65.101]
+{クラース}
+"Hm? What is it?"
+
+[65.102]
+{ミント}
+"Everyone, please listen."{PAGE}
+{クレス}
+"What is it?"{PAGE}
+{ミント}
+"I have been thinking about how to bring the tree Yggdrasil back to life. I wondered whether my healing arts might do it... But with the power I have now, there is nothing I can do."{PAGE}
+{クラース}
+"And?"{PAGE}
+{ミント}
+"We borrow the power of the white horse, the unicorn."{PAGE}
+{クレス}
+"A unicorn?"{PAGE}
+{ミント}
+"The unicorn is the token of a healer. There must be one somewhere in this world."{PAGE}
+{クラース}
+"But{SPEED:10}...{SPEED:FF} even if we find a unicorn, will it lend us its power?"{PAGE}
+
+
+[65.103]
+{ミント}
+"I do not know. I do not know, but..."{PAGE}
+{クレス}
+"It's the only thing we can turn to now, isn't it, {ミント}? Let's go and look for the unicorn! We're sure to find it."{PAGE}
+
+
+[65.104]
+{ミント}
+"Thank you, {クレス}..."{PAGE}
+{クラース}
+"Then if that is settled, we act at once."
+
+[65.105]
+{クラース}
+"{アーチェ}, wake up! It is morning already!"{PAGE}
+{アーチェ}
+"Mmm... just a bit longer..."{PAGE}
+{クラース}
+"Wake up, I said!!"
+
+[65.106]
+{アーチェ}
+"You're all up so early. What's going on?"
+

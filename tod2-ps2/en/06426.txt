@@ -1,0 +1,69 @@
+[06426.001]
+Oberon Corporation Abandoned Mine
+
+[06426.002]
+Oberon Corporation Abandoned Mine
+
+[06426.004]
+This wall looks like it could be broken.
+
+[06426.005]
+The bomb exploded!
+
+[06426.007]
+{03:00 00 00 00}　Unload the bomb　
+　Set the boat adrift　
+
+[06426.009]
+Set the boat adrift?
+{03:00 00 00 00}　Yes　
+　No　
+
+[06426.011]
+You can carry no more Lenses.
+
+[06426.013]
+{03:00 00 00 00}{0B:01 00 00 00}{14:24 6C} Lenses found, but you cannot carry them all.
+・Take {14:34 80}, discard {14:34 84}{0B:00 00 00 00}
+・Put them back
+
+[06426.015]
+{03:00 00 00 00}Obtained {0B:01 00 00 00}{14:34 8C}{0B:00 00 00 00} Lenses.
+
+[06426.016]
+Have a safe journey.
+
+[06426.017]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06426.018]
+Will you stay the night?
+
+[06426.020]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06426.021]
+Please rest well.
+
+[06426.022]
+Good morning.
+
+[06426.023]
+You do not have enough money.
+
+[06426.024]
+We look forward to seeing you again.
+
+[06426.029]
+Obtained {16:25 DE}.
+
+[06426.031]
+Obtained {08:FF FF FF FF}.
+
+[06426.033]
+Found {16:25 E6}, but you can carry no more.
+
+[06426.035]
+There is nothing here.
+

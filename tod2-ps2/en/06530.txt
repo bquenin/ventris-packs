@@ -1,0 +1,49 @@
+[06530.001]
+The Flying Dragon
+
+[06530.002]
+The Flying Dragon
+
+[06530.003]
+Have a safe journey.
+
+[06530.004]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06530.005]
+Will you stay the night?
+
+[06530.007]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06530.008]
+Please rest well.
+
+[06530.009]
+Good morning.
+
+[06530.010]
+You do not have enough money.
+
+[06530.011]
+We look forward to seeing you again.
+
+[06530.016]
+Obtained {16:25 BE}.
+
+[06530.018]
+Obtained {08:FF FF FF FF}.
+
+[06530.020]
+Found {16:25 C6}, but you can carry no more.
+
+[06530.022]
+There is nothing here.
+
+[06530.023]
+Time over
+
+[06530.025]
+Destroyed the control unit.
+

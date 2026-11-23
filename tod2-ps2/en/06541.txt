@@ -1,0 +1,55 @@
+[06541.001]
+Coastal Cave
+
+[06541.002]
+Coastal Cave
+
+[06541.003]
+Coastal Cave
+
+[06541.005]
+What's wrong, {NAME:05 00 00 00}?
+
+[06541.007]
+While we were walking along the cliff, I thought I spotted a healing herb...
+
+[06541.009]
+That thing we got the other day, you know, the Sorcerer's whatsit. Look with that and we might find something.
+
+[06541.010]
+Have a safe journey.
+
+[06541.011]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06541.012]
+Will you stay the night?
+
+[06541.014]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06541.015]
+Please rest well.
+
+[06541.016]
+Good morning.
+
+[06541.017]
+You do not have enough money.
+
+[06541.018]
+We look forward to seeing you again.
+
+[06541.023]
+Obtained {16:25 C2}.
+
+[06541.025]
+Obtained {08:FF FF FF FF}.
+
+[06541.027]
+Found {16:25 CA}, but you can carry no more.
+
+[06541.029]
+There is nothing here.
+

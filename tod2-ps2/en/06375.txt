@@ -1,0 +1,52 @@
+[06375.001]
+Straylize Ruins
+
+[06375.002]
+Straylize Ruins
+
+[06375.004]
+This is the puzzle room.
+
+[06375.017]
+The seal did not break.
+
+[06375.019]
+The seal broke.
+
+[06375.020]
+Have a safe journey.
+
+[06375.021]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06375.022]
+Will you stay the night?
+
+[06375.024]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06375.025]
+Please rest well.
+
+[06375.026]
+Good morning.
+
+[06375.027]
+You do not have enough money.
+
+[06375.028]
+We look forward to seeing you again.
+
+[06375.033]
+Obtained {16:26 9E}.
+
+[06375.035]
+Obtained {08:FF FF FF FF}.
+
+[06375.037]
+Found {16:26 A6}, but you can carry no more.
+
+[06375.039]
+There is nothing here.
+

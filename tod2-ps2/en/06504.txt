@@ -1,0 +1,49 @@
+[06504.001]
+Trash Mountain
+
+[06504.002]
+Trash Mountain
+
+[06504.004]
+This rock can't be broken with the Sorcerer's Ring...
+
+[06504.006]
+Nothing for it but to shift it by hand while dodging the gas.
+
+[06504.007]
+Have a safe journey.
+
+[06504.008]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06504.009]
+Will you stay the night?
+
+[06504.011]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06504.012]
+Please rest well.
+
+[06504.013]
+Good morning.
+
+[06504.014]
+You do not have enough money.
+
+[06504.015]
+We look forward to seeing you again.
+
+[06504.020]
+Obtained {16:26 76}.
+
+[06504.022]
+Obtained {08:FF FF FF FF}.
+
+[06504.024]
+Found {16:26 7E}, but you can carry no more.
+
+[06504.026]
+There is nothing here.
+

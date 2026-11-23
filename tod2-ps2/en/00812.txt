@@ -1,0 +1,18 @@
+[00812.001]
+Hey, {NAME:04 00 00 00}. If we meet Stahn and the others, what will you do?
+
+[00812.002]
+That's right. There must be so much... you never got to say?
+
+[00812.003]
+I do not mean to excuse myself. And I resolved then not to deny the past.
+
+[00812.004]
+But still...
+
+[00812.005]
+...If {NAME:04 00 00 00} has decided that, it's fine by me.
+
+[00812.006]
+{NAME:01 00 00 00}.
+

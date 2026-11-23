@@ -1,0 +1,30 @@
+[00956.001]
+Oh yeah, the other day Dad bought a weird mask from some peddler...
+
+[00956.002]
+A mask!?
+
+[00956.003]
+Yeah... What about it?
+
+[00956.004]
+Better watch out for masks. Anyone who wears one is a twisted sort.
+
+[00956.005]
+Not all of them!? That was just him, he happened to...!!
+
+[00956.006]
+Hm? Who's "him"?
+
+[00956.007]
+"Who"...? You're the one who brought it up, {NAME:03 00 00 00}.
+
+[00956.008]
+...Who were we talking about?
+
+[00956.009]
+Dunno...? ...Who was it?
+
+[00956.010]
+Dunno?
+

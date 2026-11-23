@@ -1,0 +1,9 @@
+[00570.001]
+Dycroft... To think I would come here in this fashion...
+
+[00570.002]
+What is it, {NAME:04 00 00 00}? You've been muttering for a while now...
+
+[00570.003]
+Nothing. Come, we go!
+

@@ -1,0 +1,15 @@
+[00908.001]
+Chal... are you watching from somewhere? If you are, there is just one thing I would ask of you............ I do not matter, for I am a man who died once... Only...... will you keep their lives safe? ......They are a slapdash, hopeless lot, but the future needs them...... And besides, Rutee... I do not want to see her face in tears again.
+
+[00908.002]
+He~y! {NAME:04 00 00 00}! Are your wounds from the last fight all right now?
+
+[00908.003]
+Mind your own business. If you have time to worry about others, worry about yourself.
+
+[00908.004]
+Tch! And here I was worrying about you...
+
+[00908.005]
+I ask it, Chal.
+

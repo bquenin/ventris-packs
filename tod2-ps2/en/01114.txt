@@ -1,0 +1,9 @@
+[01114.001]
+Let's go to the harbor in Neustadt!
+
+[01114.002]
+It's at the east end of town. Head east along the main street.
+
+[01114.003]
+Right, go!
+

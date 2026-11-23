@@ -1,0 +1,473 @@
+[06449.001]
+Heidelberg: Library
+
+[06449.002]
+Heidelberg
+
+[06449.003]
+Heidelberg Library
+
+[06449.005]
+This is...!
+
+[06449.007]
+Found a TOP quiz question!
+
+[06449.009]
+A new category has been added to the quiz book.
+
+[06449.011]
+There are all sorts of books. "The Book for Playing Tales of Phantasia to Death", "The Book for Doing Everything in Tales of Destiny", "The Book for Mastering Tales of Eternia to the Last"
+
+[06449.013]
+There is a book called "Aigrette, City of Miracles". Read it?
+
+[06449.015]
+{03:00 00 00 00}　Read it　
+　Don't read it　
+
+[06449.017]
+Aigrette is a city built by refugees right after the uprising over the Eye of God.
+
+[06449.019]
+Most of the refugees were people of "Darilsheid", "Harmentz" and "Almeida", whose homes had been almost wholly wiped out.
+
+[06449.021]
+They needed salvation. Straylize Temple sheltered them and built a city at the temple's feet. This is how Aigrette came to be.
+
+[06449.023]
+As a key point of travel in the north of the continent, Aigrette grew before one's eyes, and today has become a great city renowned across the world.
+
+[06449.025]
+There is a book called "History of the Giant Company, the Oberon Corporation". Read it?
+
+[06449.027]
+{03:00 00 00 00}　Read it　
+　Don't read it　
+
+[06449.029]
+The Oberon Corporation was a company founded by "Hugo Gilchrist", the man held to be the source of the last uprising.
+
+[06449.031]
+Its main business was developing and selling products that used Lenses, and buying Lenses. It was a giant company with branches on every continent.
+
+[06449.033]
+However, that great corporate strength ended by backing Hugo's ambition.
+
+[06449.035]
+Hugo's ambition was shattered by the Four Heroes, and with it the Oberon Corporation declined.
+
+[06449.037]
+Today its name survives only on the Lens products the Oberon Corporation made.
+
+[06449.039]
+There is a book called "History of the War of Heaven and Earth". Read it?
+
+[06449.041]
+{03:00 00 00 00}　Read it　
+　Don't read it　
+
+[06449.043]
+Some thousand years ago... a giant comet struck this planet.
+
+[06449.045]
+The dust thrown up by the impact cut off the blessing of the sun, and the surface fell to ruin...
+
+[06449.047]
+To escape the surface, now a land of bitter cold, and survive, people floated cities high in the sky and tried to win back the light.
+
+[06449.049]
+But only a very few, such as the powerful of the day, could move to the cities in the heavens. Most people were left on the surface...
+
+[06449.051]
+The people of the heavenly cities called themselves the "Heaven Dwellers", and with the power of Belcrant, the weapon mounted on their capital Dycroft, ruled those left on the surface by force...
+
+[06449.053]
+The people left on the surface resisted these acts of the "Heaven Dwellers".
+
+[06449.055]
+So began the war between the heavens and the surface, the "War of Heaven and Earth".
+
+[06449.057]
+Before the overwhelming military might of the Heavenly Army, the Surface Army struggled and defeat seemed certain, but through the power of a new weapon, the "Swordians", it won a victory snatched from the jaws of death.
+
+[06449.059]
+There is a book called "The Uprising over the Eye of God". Read it?
+
+[06449.061]
+{03:00 00 00 00}　Read it　
+　Don't read it　
+
+[06449.063]
+Hugo Gilchrist, head of the Oberon Corporation, stole the "Eye of God", the giant Lens sealed in Straylize Temple.
+
+[06449.065]
+With this mighty power in hand, Hugo revived the heavenly cities of the War of Heaven and Earth and plunged the world into fear and chaos.
+
+[06449.067]
+Those who stood boldly against this were four young people with Swordians in hand.
+
+[06449.069]
+Through the deeds of these Four Heroes, Hugo's ambition was shattered, and the aerial cities and the Eye of God were destroyed.
+
+[06449.071]
+With cities everywhere in ruins and the surface laid waste, the cost of the "uprising over the Eye of God" was great, and recovery took a long time.
+
+[06449.072]
+Youth
+
+[06449.073]
+I want to be a great scholar like Dr. {NAME:06 00 00 00}, you see. That's why I come to the library every day like this.
+
+[06449.075]
+Dr. {NAME:06 00 00 00}... a scientist of the days of the War of Heaven and Earth, as I recall. Said to have been a genius beyond dispute.
+
+[06449.076]
+Youth
+
+[06449.077]
+Yes, yes, that's right! He built the Swordians and the Radisrol single-handed!
+
+[06449.078]
+Youth
+
+[06449.079]
+Everyone treats the Swordian team as heroes, but if you ask me, Dr. {NAME:06 00 00 00} is the more amazing.
+
+[06449.080]
+Youth
+
+[06449.081]
+After all, if Dr. {NAME:06 00 00 00} hadn't made the Swordians, the Surface Army might have lost, you know?
+
+[06449.082]
+Youth
+
+[06449.083]
+I want to be a great scholar like Dr. {NAME:06 00 00 00}, you see. That's why I come to the library every day like this.
+
+[06449.084]
+Youth
+
+[06449.085]
+Now, I read up to here yesterday, so today I start with this book. Let's see... "Lenses and Their Properties".
+
+[06449.087]
+Whoa, it's crammed with letters! Just looking at it makes me dizzy...
+
+[06449.089]
+Hee hee! A sword suits you better than a book, {NAME:01 00 00 00}.
+
+[06449.090]
+Youth
+
+[06449.091]
+I want to be a wonderful scientist like Dr. {NAME:06 00 00 00}. That's why I study every day like this.
+
+[06449.092]
+Youth
+
+[06449.093]
+That thing stopped at the castle is the Flying Dragon, isn't it!?
+
+[06449.094]
+Youth
+
+[06449.095]
+The one said to use the finest Lens technology of our age! ...But why is it in this city?
+
+[06449.096]
+Youth
+
+[06449.097]
+Why has something like the Flying Dragon come to this city?
+
+[06449.098]
+Youth
+
+[06449.099]
+When I saw the Flying Dragon, I got innocently excited. "It's the very crystallization of Lens technology!" and so on.
+
+[06449.100]
+Youth
+
+[06449.101]
+But to think it was something that threatened the peace of this country...
+
+[06449.102]
+Youth
+
+[06449.103]
+I'm aiming to be a scientist. So when I see something like the Flying Dragon, I get excited and lose all judgment...
+
+[06449.104]
+Youth
+
+[06449.105]
+But that won't do. A scientist must always observe events calmly and draw out the truth.
+
+[06449.106]
+Youth
+
+[06449.107]
+A scientist, after all, must always be able to judge and analyze calmly. I've still a long way to go...
+
+[06449.108]
+Youth
+
+[06449.109]
+The city's getting back its calm, so I'm thinking of taking up my studies again.
+
+[06449.110]
+Youth
+
+[06449.111]
+My dream is to be a genius scientist like Dr. {NAME:06 00 00 00}, so I have to try harder and harder!
+
+[06449.113]
+What, you have to try hard to become a scientist? I just sort of became one.
+
+[06449.114]
+Youth
+
+[06449.115]
+Dr. {NAME:06 00 00 00} left no books. "Books get in the way of flexible thinking", you see! Geniuses really are different!
+
+[06449.117]
+Is that so, {NAME:06 00 00 00}...?
+
+[06449.119]
+Well, I did try writing one once. But my brother told me "it's so hard nobody can make head or tail of it", so I gave up on making it a book.
+
+[06449.120]
+Youth
+
+[06449.121]
+...What is it with you? You've been talking as if you were Dr. {NAME:06 00 00 00} yourself.
+
+[06449.123]
+In other words, you think I'm not {NAME:06 00 00 00}. Tsk tsk, you're not thinking flexibly!
+
+[06449.124]
+Youth
+
+[06449.125]
+In other words, you're the real Dr. {NAME:06 00 00 00}, and you've come to the present by time travel? Even a child wouldn't believe such a fairy tale!
+
+[06449.126]
+Youth
+
+[06449.127]
+You're the real Dr. {NAME:06 00 00 00}, and you've come to the present by time travel? Even a child wouldn't believe such a fairy tale!
+
+[06449.128]
+Youth
+
+[06449.129]
+I want to be a great scholar like Dr. {NAME:06 00 00 00}, you see. That's why I come to the library every day like this.
+
+[06449.131]
+Whaat!? You want to be like that?
+
+[06449.132]
+Youth
+
+[06449.133]
+Like that? How rude! That's the genius scientist who built the Swordians and the Radisrol!
+
+[06449.134]
+Youth
+
+[06449.135]
+Dr. {NAME:06 00 00 00} is a genius scientist who went down in history, you know? And you call that "like that"!
+
+[06449.137]
+For a start, you don't know the first thing about Dr. {NAME:06 00 00 00}, do you?
+
+[06449.139]
+Y-yeah, that's true, but... I just sort of...
+
+[06449.140]
+Youth
+
+[06449.141]
+I want to become a genius scientist like Dr. {NAME:06 00 00 00} someday too! That's why I come to the library every day like this.
+
+[06449.142]
+Librarian
+
+[06449.143]
+Noise in the building, and couples canoodling, are strictly forbidden.
+
+[06449.145]
+Oh, um, we're...
+
+[06449.146]
+Librarian
+
+[06449.147]
+Strictly, forbidden!
+
+[06449.148]
+Librarian
+
+[06449.149]
+Noise in the building, and couples canoodling, are strictly forbidden.
+
+[06449.150]
+Librarian
+
+[06449.151]
+Hasn't it been rather noisy for a while now?
+
+[06449.152]
+Librarian
+
+[06449.153]
+Are the children playing in the museum again? Honestly, what a nuisance.
+
+[06449.154]
+Librarian
+
+[06449.155]
+It says "Quiet in the building, please", and still, those children...
+
+[06449.157]
+That's not it! Right now, at the castle...!!
+
+[06449.158]
+Librarian
+
+[06449.159]
+Shhhhhhhhhhhh!! Quiet in the building, please!
+
+[06449.160]
+Librarian
+
+[06449.161]
+Quiet in the building, if you please!
+
+[06449.162]
+Librarian
+
+[06449.163]
+How odd... Mr. Verde always comes to read at this hour...
+
+[06449.164]
+Librarian
+
+[06449.165]
+Could it have something to do with the commotion outside...?
+
+[06449.166]
+Librarian
+
+[06449.167]
+How odd... Mr. Verde always comes to read at this hour...
+
+[06449.168]
+Librarian
+
+[06449.169]
+When I saw the ruined castle, I thought it was eighteen years ago come again. Does history repeat itself, I wonder...
+
+[06449.170]
+Librarian
+
+[06449.171]
+And I had thought places like this library and museum existed so that mistake would not be made...
+
+[06449.172]
+Librarian
+
+[06449.173]
+Does history repeat itself, I wonder... If so, that is a very sad thing...
+
+[06449.174]
+Librarian
+
+[06449.175]
+I am thinking of putting this incident together in a book.
+
+[06449.176]
+Librarian
+
+[06449.177]
+In the hope of helping, even a little, those who mean to learn from past history and not repeat its mistakes.
+
+[06449.178]
+Librarian
+
+[06449.179]
+The whole story of this incident, the people of the castle who were there, those who gave of their own money to help in the rescue...
+
+[06449.180]
+Librarian
+
+[06449.181]
+I mean to gather all that into a book. To hand it down to the people of the future.
+
+[06449.182]
+Librarian
+
+[06449.183]
+I mean to write a book that will help those who wish to learn from past history and not repeat its mistakes.
+
+[06449.184]
+Librarian
+
+[06449.185]
+This is a place for those who wish to read in quiet. Quiet, if you please.
+
+[06449.186]
+Librarian
+
+[06449.187]
+Quiet in the building, if you please.
+
+[06449.189]
+Heh... How am I to express your beauty without words?
+
+[06449.190]
+Librarian
+
+[06449.191]
+If you wish to talk of love, do so outside the building, by yourself.
+
+[06449.192]
+Have a safe journey.
+
+[06449.193]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06449.194]
+Will you stay the night?
+
+[06449.196]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06449.197]
+Please rest well.
+
+[06449.198]
+Good morning.
+
+[06449.199]
+You do not have enough money.
+
+[06449.200]
+We look forward to seeing you again.
+
+[06449.205]
+Obtained {16:25 BA}.
+
+[06449.207]
+Obtained {08:FF FF FF FF}.
+
+[06449.209]
+Found {16:25 C2}, but you can carry no more.
+
+[06449.211]
+There is nothing here.
+

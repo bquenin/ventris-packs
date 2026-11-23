@@ -1,0 +1,130 @@
+[06351.001]
+Darilsheid, the Old Capital: Inn
+
+[06351.002]
+Darilsheid, the Old Capital
+
+[06351.003]
+Young Man
+
+[06351.004]
+I stay here for one reason only: to see her.
+
+[06351.005]
+Young Man
+
+[06351.006]
+...But my house is right nearby, and staying at a hotel every day is rough. Boo hoo...
+
+[06351.007]
+Young Man
+
+[06351.008]
+Have you folks ever stayed at this inn? There's a cute girl working here, right?
+
+[06351.009]
+Young Man
+
+[06351.010]
+But don't you dare make a move on her!
+
+[06351.011]
+Young Man
+
+[06351.012]
+Hmm, should I go for it and ask her out? But what if she turns me down...
+
+[06351.013]
+Young Man
+
+[06351.014]
+I'm thinking of confessing my feelings to the maid who works at this inn.
+
+[06351.015]
+Young Man
+
+[06351.016]
+But when I think she might turn me down, I get scared...
+
+[06351.017]
+Young Man
+
+[06351.018]
+I've made up my mind to ask her out, but it seems she's already married. Not that I mind...
+
+[06351.020]
+The outcome's plain to see... Poor guy...
+
+[06351.021]
+Young Man
+
+[06351.022]
+A whole year already, and I still haven't told her how I feel... Ah, what should I do?
+
+[06351.024]
+Just go for it. If she turns you down, have a good cry.
+
+[06351.025]
+Young Man
+
+[06351.026]
+A-all right, I'll do it! I'll tell her how I feel. Watch me, Big Bro!
+
+[06351.028]
+Don't call me Big Bro!
+
+[06351.029]
+Young Man
+
+[06351.030]
+I'm thinking of working up my courage and confessing to her.
+
+[06351.031]
+Young Man
+
+[06351.032]
+But when I think she might turn me down, I get scared...
+
+[06351.034]
+You'll be fine. {NAME:03 00 00 00} here has been turned down as many times as there are stars, and look how lively he still is.
+
+[06351.036]
+True enough, but... that was one remark too many!
+
+[06351.037]
+Have a safe journey.
+
+[06351.038]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06351.039]
+Will you stay the night?
+
+[06351.041]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06351.042]
+Please rest well.
+
+[06351.043]
+Good morning.
+
+[06351.044]
+You do not have enough money.
+
+[06351.045]
+We look forward to seeing you again.
+
+[06351.050]
+Obtained {16:25 BA}.
+
+[06351.052]
+Obtained {08:FF FF FF FF}.
+
+[06351.054]
+Found {16:25 C2}, but you can carry no more.
+
+[06351.056]
+There is nothing here.
+

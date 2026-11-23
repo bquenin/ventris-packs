@@ -1,0 +1,21 @@
+[00596.001]
+Hey, {NAME:05 00 00 00}. What do you make of {NAME:02 00 00 00} lately?
+
+[00596.002]
+Where did that come from?
+
+[00596.003]
+Well... when we first came to this world, I thought "{NAME:02 00 00 00} has really changed". Stronger, or as if she'd shaken something off...... But lately she seems to have gone back to how she was.
+
+[00596.004]
+Not so much "gone back"... More like she's torn.
+
+[00596.005]
+Torn? Over what?
+
+[00596.006]
+How would I know. I'm not her. So... this time we have to keep a proper eye on her. I won't have her fretting alone and running off alone like before.
+
+[00596.007]
+...Yeah, true.
+

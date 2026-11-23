@@ -1,0 +1,82 @@
+[06715.001]
+Egg of God: Lower Level
+
+[06715.002]
+Egg of God: Lower Level
+
+[06715.004]
+Warp to the entrance of the "Egg of God"?
+
+[06715.006]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06715.008]
+The entrance and this save point are now linked, and you can warp between them.
+
+[06715.009]
+The Last Merchant
+
+[06715.010]
+Shall I sell you {16:25 74} for {0B:01 00 00 00}{14:35 70}{0B:00 00 00 00} Gald?
+
+[06715.012]
+{03:00 00 00 00}　Buy　
+　Another item　
+　Buy nothing　
+
+[06715.013]
+Here you are.
+
+[06715.014]
+You don't have enough money.
+
+[06715.015]
+Well then...
+
+[06715.016]
+I am out of stock.
+
+[06715.017]
+See you.
+
+[06715.018]
+I am sorry, but... it seems I can be of no help to you.
+
+[06715.019]
+Have a safe journey.
+
+[06715.020]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06715.021]
+Will you stay the night?
+
+[06715.023]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06715.024]
+Please rest well.
+
+[06715.025]
+Good morning.
+
+[06715.026]
+You do not have enough money.
+
+[06715.027]
+We look forward to seeing you again.
+
+[06715.032]
+Obtained {16:27 06}.
+
+[06715.034]
+Obtained {08:FF FF FF FF}.
+
+[06715.036]
+Found {16:27 0E}, but you can carry no more.
+
+[06715.038]
+There is nothing here.
+

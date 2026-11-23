@@ -1,0 +1,21 @@
+[00970.001]
+Dad and Mom must be great too, but they're so close to home they don't feel like heroes.
+
+[00970.002]
+Then what do you think a hero is like?
+
+[00970.003]
+Hmm... Woodrow, sure, but really the Swordian team of the War of Heaven and Earth. Dymlos, Atwight, Clemente, {NAME:06 00 00 00}... They feel like heroes of legend, don't they.
+
+[00970.004]
+{NAME:06 00 00 00}? By {NAME:06 00 00 00}, you mean Dr. {NAME:06 00 00 00} Berselius? He was a scientist, so you can't really call him a hero, can you?
+
+[00970.005]
+Oh, right... But I get the feeling {NAME:06 00 00 00}... wasn't much like a scientist.
+
+[00970.006]
+Huh? What are you on about? And why do you talk about "{NAME:06 00 00 00}" like an old friend? The others you speak of with respect...
+
+[00970.007]
+I wonder why...? It just felt more natural... hmm...
+

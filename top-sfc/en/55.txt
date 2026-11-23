@@ -1,0 +1,443 @@
+[55.000]
+Item Shop "Calendar"
+
+[55.001]
+Inn "Alvanista Inn"
+
+[55.002]
+Supermarket "Overeating"
+
+[55.003]
+Arms Shop "Lime"
+
+[55.004]
+Apothecary "Dokudami"
+
+[55.005]
+Adventurers' Guild "Panic"
+
+[55.006]
+{アーチェ}
+"Come back soon♥"
+
+[55.007]
+"Do you know about trade goods? They're goods whose price changes from region to region. Something that's worth little in one town can sometimes sell for a staggering price in another."
+
+[55.008]
+Welcome!
+
+[55.009]
+Thanks!
+
+[55.010]
+"It looks as if my dream will come true. The war is over and peace has come at last."
+
+[55.011]
+"My dream is for the four of us, my family, to live happily always.{PAGE}
+But who knows when this town too will be caught up in the war..."
+
+[55.012]
+"Mmm, lovely flavour.{PAGE}
+I'm happiest of all when I'm cooking♥"
+
+[55.013]
+"Hyah! We're playing heroes!!"
+
+[55.014]
+"I'm the magic user, and I help the hero.{PAGE}
+Hero!"
+
+[55.015]
+"With Dhaos gone, I can breathe easy at last."
+
+[55.016]
+"It may be about time I left this town."
+
+[55.017]
+"I worry about my son, who went to Midgards."
+
+[55.018]
+"The war is over, but my father has not come back from Midgards. I am worried..."
+
+[55.019]
+"Grandpa and Grandma are both uneasy. They think the war may spread here too."
+
+[55.020]
+Welcome.
+
+[55.021]
+Thank you very much.
+
+[55.022]
+"Welcome. It's 40 Gald a night. Will you stay?"
+
+[55.023]
+You're short of money, I'm afraid.
+
+[55.024]
+Please make yourselves at home.
+
+[55.025]
+{クラース}
+"I have been thinking. If Dhaos has a hand inside the royal household, a clumsy move plays straight into his hands. Far from learning anything about magic, we would be putting our lives in danger."{PAGE}
+{ミント}
+"Then what shall we do?"{PAGE}
+{クラース}
+"Quite simply, we save the prince, who is being controlled by one of those close to Dhaos."{PAGE}
+{クレス}
+"What! You mean break into the castle?"{PAGE}
+{クラース}
+"Yes. But how to steal in{SPEED:10},{SPEED:FF} that is the question..."
+
+[55.026]
+{アーチェ}
+"Wh-what is it? Why's everyone looking at me so seriously...?{PAGE}
+Y-you don't mean on my broom{SPEED:10}...{SPEED:FF}"
+
+[55.027]
+{アーチェ}
+"H-hang on, are you serious? I can only carry one at a time."{PAGE}
+{クラース}
+"Please. One of those close to Dhaos is certain to be near the prince."{PAGE}
+{アーチェ}
+"{SPEED:10}...{SPEED:FF}All right. If that's settled, shall we sneak in tonight? No moon means it's our chance, right?"{PAGE}
+{ミント}
+"But isn't it dangerous to go straight away? We should see to our equipment and so on..."{PAGE}
+
+
+[55.028]
+{COLOR:03}Steal into the castle?{COLOR:02}
+
+[55.029]
+{COLOR:03}Are you really sure?{COLOR:02}
+
+[55.030]
+{クレス}
+"Right, let's go!!"
+
+[55.031]
+{クレス}
+"Let's leave it till tomorrow."
+
+[55.032]
+"Please come again."
+
+[55.033]
+"There's a theory that mana, the source of magic, is born of magical photosynthesis. But what is magical photosynthesis? Do flowers cast spells?"
+
+[55.034]
+"Welcome. We've a fine stock of armour."
+
+[55.035]
+"Thank you kindly."
+
+[55.036]
+"Welcome. We've a fine stock of weapons."
+
+[55.037]
+"Thank you kindly."
+
+[55.038]
+{クレス}
+"Oh, a bush baby."
+
+[55.039]
+"They say that if you trace the family tree of the royal house of Alvanista, there's an elf partway along."
+
+[55.040]
+"Elves are handsome. Elves are beautiful. Grr, it's not fair!!!{PAGE}
+But I'm not so bad myself, am I? Heh heh. I eat nothing but natural food every day, after all."
+
+[55.041]
+"Welcome. What'll it be?"
+
+[55.042]
+"Thanks."
+
+[55.043]
+"Ahh, that does go to the heart."
+
+[55.044]
+"I'll let you lot hear some piano. Sakuraba
+
+[55.045]
+ the Third
+
+[55.046]
+, an amazing pianist, is here. You won't lose by listening."{PAGE}
+{COLOR:03}Listen to the piano?{COLOR:02}
+
+[55.047]
+Well, I won't force you.
+
+[55.048]
+Hey! Sakuraba, give us one.
+
+[55.049]
+"Well, amazing, isn't it? How shall I put it, it's a tune that soaks right into the heart."
+
+[55.050]
+{クレス}
+"I think a permit to enter the Moria Mine should have arrived for us."{PAGE}
+"Aye, it's here. So you're {クレス}. Then sign here to say you've received it."{PAGE}
+
+
+[55.051]
+{COLOR:03}Received the permit to enter the Moria Mine.{COLOR:02}{PAGE}
+
+
+[55.052]
+{クレス}
+"Thank you."
+
+[55.053]
+"But there's no point going now. It seems there's a dead end partway down."{PAGE}
+{クレス}
+"A dead end?"{PAGE}
+{クラース}
+"We shall not know how things stand until we go and see..."{PAGE}
+{ミント}
+"Shall we explore somewhere else before the Moria Mine?"{PAGE}
+{クラース}
+"Hmm...{PAGE}
+{クレス}, I leave this one to your judgement."
+
+[55.054]
+"This is no place for kids like you. Clear off."
+
+[55.055]
+Elwin
+"Keep it from my father, won't you?"
+
+[55.056]
+{ミント}
+"Good luck, Nancy!"{PAGE}
+Nancy
+"Thank you, {ミント}."
+
+[55.057]
+{クレス}
+"Er, aren't you Elwin and Nancy?"{PAGE}
+
+
+[55.058]
+Elwin
+"Hello! {クレス}!"
+Nancy
+"It has been a long time."{PAGE}
+{クレス}
+"So you really did elope."{PAGE}
+Elwin
+"Yes. But I have no regrets. With her, I mean to go anywhere."{PAGE}
+Nancy
+"But we shall stay here for a while. Things are unsettled in Midgards."{PAGE}
+Elwin
+"Keep it from my father that we are here, won't you?"
+
+[55.059]
+Elwin
+"Thank you. Truly, thank you."
+
+[55.060]
+Nancy
+"I don't know how to thank you... I shall never forget this kindness as long as I live."
+
+[55.061]
+"Hey, mister. Want to have some fun with me?"{PAGE}
+
+
+[55.062]
+"Hey, miss. Want to go somewhere nice with me?"{PAGE}
+
+
+[55.063]
+{クレス}
+(They seem to be chatting people up...)
+
+[55.064]
+"N-no, thank you..."
+
+[55.065]
+"I don't like men who won't take no. Try again another day!"
+
+[55.066]
+"They say the Moria Mine still hides deep mysteries."
+
+[55.067]
+"A mine of the dwarves, who are seen no more. That's the old Moria Mine."
+
+[55.068]
+"They say the dwarves made the oddest items with those clever hands of theirs."
+
+[55.069]
+"They say a great treasure sleeps in the Moria Mine."
+
+[55.070]
+"My grandfather was a wonderful pianist. I play the piano too, but I am no match for him."
+
+[55.071]
+Sakuraba
+"I play better with a drink in me, you know
+
+[55.072]
+."
+
+[55.073]
+.{PAGE}
+By the way, won't you buy a secret word? 1000 Gald will do."{PAGE}
+{COLOR:03}Buy the secret word?{COLOR:02}
+
+[55.074]
+Oh, I see.
+
+[55.075]
+You haven't enough money.
+
+[55.076]
+It's 'Kikurin'. I had it from an explorer, and it's said to be the spell that opens the mouth of a certain cave.
+
+[55.077]
+"They say there are forbidden spells among the summoning magic too. Where would you get hold of them?"
+
+[55.078]
+"You can't enter the Moria Mine without a permit issued by the royal house, which you get at the Guild. I'm waiting for a cancellation."
+
+[55.079]
+"They say there's an ancient tower in the lava fields of Freyland."
+
+[55.080]
+"I hear the permit to enter the Moria Mine costs a great deal. Though it's another matter if you have connections."
+
+[55.081]
+"Urgh... I feel sick... I drank too much
+
+[55.082]
+..."
+
+[55.083]
+...{PAGE}
+Y-you, a swordsman...? This... book of secret arts, shall I sell it to you...?"{PAGE}
+{クレス}
+"What, a book of secret arts!?"{PAGE}
+"U-urgh... 6000 Gald, will do..."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[55.084]
+Urgh...
+
+[55.085]
+"You haven't... enough money..."
+
+[55.086]
+{COLOR:03}{クレス} learned Majinsenretsuha.{COLOR:02}{PAGE}
+"Th-thanks..."{PAGE}
+{クレス}
+(How does he do business in that state...?)
+
+[55.087]
+"I've had enough of dogs..."
+
+[55.088]
+"Walking the dog is no easy job."
+
+[55.089]
+"I'm no dog! I'm a wolf!!"
+
+[55.090]
+"Prices have gone up lately. It's a worry."
+
+[55.091]
+"For a proper rolled omelette you have to mix the egg into the stock before you fry it.{PAGE}
+Eggs? Those are a speciality of Olive Village. The eggs from there have good firm yolks, and they're delicious."
+
+[55.092]
+"If only there were no Dhaos."
+
+[55.093]
+"I want some sweets."
+
+[55.094]
+"Oden simply has to be made in an earthenware pot that's soaked up the flavour!"
+
+[55.095]
+"My grandma once told me there's a white horse with a horn in the forest west of the Valhalla Plains, north-west of Midgards. They say that white horse will only meet a pure maiden."
+
+[55.096]
+"I'm travelling in search of the three arms.{PAGE}
+There are things in this world called the three arms: one is a ring, they say, and the others are swords.{PAGE}
+One of the swords is said to be on the continent of Friezkiel, but there was nothing there that looked the least bit like it... Damn!"
+
+[55.097]
+"The Moria Mine? The entrance is to the south-east of here. Due north of the landing for the Freyland ship."
+
+[55.098]
+"I'm the senior!"
+
+[55.099]
+"Let's have a look inside the oven."
+
+[55.100]
+{クレス}
+"Why...?"
+
+[55.101]
+Elwin
+"We have decided to marry! Go home!!"{PAGE}
+Doug, Elwin's father
+"Don't be selfish! We are going back to Venezia!!"{PAGE}
+{COLOR:03}Help Elwin and Nancy?{COLOR:02}
+
+[55.102]
+{クラース}
+"Perhaps we had better not get involved any further."
+
+[55.103]
+{クレス}
+"W-wait, calm down, both of you..."{PAGE}
+Doug
+"This is no business of yours! Kindly leave us alone!"{PAGE}
+{ミント}
+"Why do you dislike Nancy so much!?"{PAGE}
+
+
+[55.104]
+Doug
+"{SPEED:10}...{SPEED:FF}{PAGE}
+
+
+[55.105]
+I do not dislike her. I do not want Elwin to lead an unhappy life. How I struggled until the company found its feet. And..."{PAGE}
+{クレス}
+"And?"{PAGE}
+Doug
+"Because of it my wife died when Elwin was small. She must surely bear me a grudge..."{PAGE}
+
+
+[55.106]
+Elwin
+"Father..."{PAGE}
+Doug
+"I do not want Elwin to make the same mistake..."{PAGE}
+Elwin
+"Father, I am sure Mother bears you no grudge at all.{PAGE}
+While she lived, she always used to tell me what a wonderful man you were..."
+
+[55.107]
+Elwin
+"Father!"{PAGE}
+Elwin's father
+"I have been away from the company a good while, so the work will have piled up. You will have to help me.{PAGE}
+And Nancy too..."{PAGE}
+Elwin
+"Father...!"
+Nancy
+"Father-in-law..."
+
+[55.108]
+{ミント}
+"I am so glad..."{PAGE}
+{クラース}
+"Well, all's well that ends well, I suppose."{PAGE}
+{クレス}
+"Yes, it is."
+

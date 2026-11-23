@@ -1,0 +1,151 @@
+[06615.001]
+Aquaveil: Moryu General Store
+
+[06615.002]
+Aquaveil
+
+[06615.003]
+Moryu General Store
+
+[06615.005]
+Rare goods such as you have never seen stand in rows.
+
+[06615.007]
+A suit of armor of a curious shape is on show.
+
+[06615.009]
+Cushions are laid on the floor.
+
+[06615.010]
+Moryu's Owner
+
+[06615.011]
+Welcome to the Moryu General Store! We're a cut or two above your everyday shop.
+
+[06615.012]
+Customer
+
+[06615.013]
+I bought them and tried it right away. The first time the armor turned the sword, and the second time the sword went through the armor.
+
+[06615.014]
+Customer
+
+[06615.015]
+So I can't take them back. The old man at the shop wasn't lying.
+
+[06615.016]
+Customer
+
+[06615.017]
+When I came in to shop, the old man here said to me:
+
+[06615.018]
+Customer
+
+[06615.019]
+This sword goes through any armor, and this armor turns every sword.
+
+[06615.020]
+Customer
+
+[06615.021]
+So I shot right back: then what happens if you swing the sword at the armor?
+
+[06615.022]
+Customer
+
+[06615.023]
+What do you think the old man said?
+
+[06615.025]
+...I've got no idea. What did he say?
+
+[06615.026]
+Customer
+
+[06615.027]
+You'll have the fun of finding out when you buy them, he says. The joke beat me, and I bought them, both of them.
+
+[06615.028]
+Item Shop: Safe Home
+
+[06615.029]
+You can pay in Gald, travelers from abroad.
+
+[06615.030]
+Thank you very much.
+
+[06615.031]
+Please come again.
+
+[06615.032]
+Item Shop: Safe Home
+
+[06615.033]
+Weapon Shop: One Against a Thousand
+
+[06615.034]
+Welcome. We deal in weapons here.
+
+[06615.035]
+Thank you very much.
+
+[06615.036]
+Please come again.
+
+[06615.037]
+Weapon Shop: One Against a Thousand
+
+[06615.038]
+Armor Shop: One Brush of the Sleeve
+
+[06615.039]
+Welcome. We deal in armor here.
+
+[06615.040]
+Thank you very much.
+
+[06615.041]
+Please come again.
+
+[06615.042]
+Armor Shop: One Brush of the Sleeve
+
+[06615.043]
+Have a safe journey.
+
+[06615.044]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06615.045]
+Will you stay the night?
+
+[06615.047]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06615.048]
+Please rest well.
+
+[06615.049]
+Good morning.
+
+[06615.050]
+You do not have enough money.
+
+[06615.051]
+We look forward to seeing you again.
+
+[06615.056]
+Obtained {16:25 BA}.
+
+[06615.058]
+Obtained {08:FF FF FF FF}.
+
+[06615.060]
+Found {16:25 C2}, but you can carry no more.
+
+[06615.062]
+There is nothing here.
+

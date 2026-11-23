@@ -1,0 +1,53 @@
+name: A new pack or language
+description: Propose a pack for a new language, or for a game that has an adapter and no pack yet.
+labels: ["new pack"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        There is one pack per game and language, so it helps to say what you are starting before you
+        start. A game needs an adapter in ventris before it can have a pack: the app lists them.
+        [Translating a game](https://github.com/bquenin/ventris/blob/main/docs/translating.md#start-a-pack)
+        says how to begin.
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      description: The game, by its name or its id, such as top-sfc for Tales of Phantasia.
+      placeholder: top-sfc
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language
+      description: The language, and its IETF tag if you know it.
+      placeholder: French (fr)
+    validations:
+      required: true
+  - type: dropdown
+    id: from
+    attributes:
+      label: Translated from
+      options:
+        - The game's own script
+        - Another pack here (say which below)
+        - Not decided yet
+    validations:
+      required: true
+  - type: dropdown
+    id: how
+    attributes:
+      label: How it will be made
+      options:
+        - By hand
+        - Machine translated, then corrected by hand
+        - Machine translated
+        - Not decided yet
+    validations:
+      required: true
+  - type: textarea
+    id: plan
+    attributes:
+      label: What you plan
+      description: Which parts of the game you mean to translate first, and anything else worth knowing, such as whether you are looking for others to work with.

@@ -1,0 +1,67 @@
+[06528.001]
+The Flying Dragon
+
+[06528.002]
+The Flying Dragon
+
+[06528.004]
+The bulkhead is down, so you cannot pass.
+
+[06528.006]
+There should be an emergency escape route nearby. Look for it.
+
+[06528.008]
+There is not enough power to reach the top. Look for the auxiliary power supply.
+
+[06528.009]
+Switched on the lift's auxiliary power.
+
+[06528.010]
+Switched off the lift's auxiliary power.
+
+[06528.013]
+The treasure chest was a fake.
+
+[06528.014]
+Have a safe journey.
+
+[06528.015]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06528.016]
+Will you stay the night?
+
+[06528.018]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06528.019]
+Please rest well.
+
+[06528.020]
+Good morning.
+
+[06528.021]
+You do not have enough money.
+
+[06528.022]
+We look forward to seeing you again.
+
+[06528.027]
+Obtained {16:25 BE}.
+
+[06528.029]
+Obtained {08:FF FF FF FF}.
+
+[06528.031]
+Found {16:25 C6}, but you can carry no more.
+
+[06528.033]
+There is nothing here.
+
+[06528.034]
+Time over
+
+[06528.036]
+Destroyed the control unit.
+

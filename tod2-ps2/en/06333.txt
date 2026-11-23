@@ -1,0 +1,193 @@
+[06333.001]
+Laguna Ruins
+
+[06333.002]
+Laguna Ruins
+
+[06333.004]
+Obtained {08:B5 00 00 00}.
+
+[06333.006]
+This is the room without the Lens.
+
+[06333.008]
+Hey, wait, you! I said wait!
+
+[06333.010]
+What on earth was that? She pops out of the Lens out of nowhere, then walks off as if nothing had happened.
+
+[06333.012]
+And on top of that, "I am looking for a hero"?
+
+[06333.014]
+Let's go after her, {NAME:03 00 00 00}!
+
+[06333.016]
+Go after... that girl!?
+
+[06333.018]
+Come on, quick!
+
+[06333.020]
+Uh-oh! This is ba...
+
+[06333.021]
+Captain
+
+[06333.022]
+Who are you people!? What are you doing here!
+
+[06333.023]
+Trooper
+
+[06333.024]
+S-sir, it's terrible! The Lens is gone!
+
+[06333.025]
+Captain
+
+[06333.026]
+What! What do you mean!?
+
+[06333.027]
+Trooper
+
+[06333.028]
+I saw a giant Lens in this room before, I'm certain of it! And now there's no trace of it...
+
+[06333.029]
+Captain
+
+[06333.030]
+What have you done with the Lens!? Out with it!
+
+[06333.032]
+H-how should I know! We haven't got the faintest idea what's going on either!
+
+[06333.034]
+A girl came out of nowhere, and the Lens shattered...
+
+[06333.035]
+Captain
+
+[06333.036]
+Wha...! Breaking a priceless giant Lens, of all the stupid...!
+
+[06333.037]
+Captain
+
+[06333.038]
+Men, seize them! That man over there too!!
+
+[06333.039]
+Trooper
+
+[06333.040]
+C-Captain! This one is {NAME:03 00 00 00} Dunamis!!
+
+[06333.042]
+...Oh, great~
+
+[06333.043]
+Captain
+
+[06333.044]
+You... an escort soldier, in the company of a thief? What is the meaning of this!?
+
+[06333.046]
+Thief? You mean me!?
+
+[06333.047]
+Captain
+
+[06333.048]
+Who else is there!
+
+[06333.050]
+I'm no thief!
+
+[06333.051]
+Captain
+
+[06333.052]
+That's what every thief says! Now, you're coming with us. You too, {NAME:03 00 00 00}!
+
+[06333.054]
+...If it's come to this... we...!
+
+[06333.055]
+Captain
+
+[06333.056]
+Are you listening, {NAME:03 00 00 00} Dunamis!
+
+[06333.058]
+...Ahh, to hell with it!
+
+[06333.060]
+If it's come to this, we break through! Follow me, {NAME:01 00 00 00}!
+
+[06333.062]
+{NAME:03 00 00 00}!
+
+[06333.063]
+Captain
+
+[06333.064]
+Take them to Darilsheid! Make them tell us where the Lens is, whatever it takes!
+
+[06333.065]
+Trooper
+
+[06333.066]
+Yes, sir!
+
+[06333.068]
+Why is it? I feel as if this isn't the first time I've come here...
+
+[06333.070]
+What is it? This ache in my chest...
+
+[06333.072]
+...Am I imagining it?
+
+[06333.074]
+{NAME:03 00 00 00}'s waiting. I should go back...
+
+[06333.075]
+Have a safe journey.
+
+[06333.076]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06333.077]
+Will you stay the night?
+
+[06333.079]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06333.080]
+Please rest well.
+
+[06333.081]
+Good morning.
+
+[06333.082]
+You do not have enough money.
+
+[06333.083]
+We look forward to seeing you again.
+
+[06333.088]
+Obtained {16:25 C6}.
+
+[06333.090]
+Obtained {08:FF FF FF FF}.
+
+[06333.092]
+Found {16:25 CE}, but you can carry no more.
+
+[06333.094]
+There is nothing here.
+

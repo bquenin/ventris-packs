@@ -1,0 +1,15 @@
+[00166.001]
+It's my first time in "Aigrette". Tell me what kind of town it is.
+
+[00166.002]
+Hmm, let's see... In a word, the "center of the world". People and goods pour in from all over. Know what that means, {NAME:01 00 00 00}?
+
+[00166.003]
+Hehe... not really.
+
+[00166.004]
+Heh... It means that with so many people gathering, the odds are high there are beauties among them! Can't wait! Can you? Eh? Eh?
+
+[00166.005]
+...That again. Why did I even ask...
+

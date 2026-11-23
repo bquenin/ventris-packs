@@ -1,0 +1,121 @@
+[06453.001]
+Heidelberg Castle
+
+[06453.002]
+Heidelberg Castle
+
+[06453.003]
+Kitchen Knife Master
+
+[06453.004]
+Are you cooking? Are you using your kitchen knife?
+
+[06453.005]
+Kitchen Knife Master
+
+[06453.006]
+I see you have a {08:74 00 00 00}.
+
+[06453.007]
+Kitchen Knife Master
+
+[06453.008]
+I see you have a {08:75 00 00 00}.
+
+[06453.009]
+Kitchen Knife Master
+
+[06453.010]
+I see you have a {08:76 00 00 00}.
+
+[06453.011]
+Kitchen Knife Master
+
+[06453.012]
+I see you have a {08:77 00 00 00}.
+
+[06453.014]
+{NAME:01 00 00 00} and company earned the title "{08:4B 08 00 00}".
+
+[06453.015]
+Have a safe journey.
+
+[06453.016]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06453.017]
+Will you stay the night?
+
+[06453.019]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06453.020]
+Please rest well.
+
+[06453.021]
+Good morning.
+
+[06453.022]
+You do not have enough money.
+
+[06453.023]
+We look forward to seeing you again.
+
+[06453.028]
+Obtained {16:25 BA}.
+
+[06453.030]
+Obtained {08:FF FF FF FF}.
+
+[06453.032]
+Found {16:25 C2}, but you can carry no more.
+
+[06453.034]
+There is nothing here.
+
+[06453.036]
+Well-kept weapons are lined up. Every one looks like a costly piece.
+
+[06453.038]
+Battle-ready weapons are lined up, no doubt for use in an emergency.
+
+[06453.040]
+A keenly honed weapon. The work of a first-rate smith, surely.
+
+[06453.042]
+This weapon has a proper edge. It must be the real thing, not a work of art.
+
+[06453.044]
+Weapons used by the soldiers of Heidelberg Castle. The blades are honed without a single blemish.
+
+[06453.046]
+A huge suit of plate armor. It looks very heavy...
+
+[06453.048]
+Battle-ready armor. It is very elaborately made.
+
+[06453.050]
+Full-body armor made by beating out sheet metal. It is very elaborate. How much would one suit cost...
+
+[06453.052]
+A real suit of full armor. It gives off an overwhelming sense of menace...
+
+[06453.054]
+Suits of armor are lined up. They look like the real thing, battle-ready, not works of art.
+
+[06453.056]
+It looks like a piece of some age. ...Take care not to break it.
+
+[06453.058]
+Small items are lined up. Every one looks very costly.
+
+[06453.060]
+A royal castle, sure enough. Every small ornament is splendidly made.
+
+[06453.062]
+Splendid pieces are lined up...
+
+[06453.064]
+Antiques, perhaps. Pieces of some age are lined up.
+

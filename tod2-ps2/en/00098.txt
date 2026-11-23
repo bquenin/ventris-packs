@@ -1,0 +1,15 @@
+[00098.001]
+Is this your first time going to Aigrette?
+
+[00098.002]
+Yeah. It's a really huge town, right?
+
+[00098.003]
+Think it's anything like Cresta and your eyes will pop out.
+
+[00098.004]
+Wo~w. I can't wait♪ Let's hurry up and go!!
+
+[00098.005]
+Dummy! Don't run!! How far do you think it is! Wait, you dummy {NAME:01 00 00 00}!
+

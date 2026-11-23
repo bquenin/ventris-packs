@@ -1,0 +1,106 @@
+[06466.001]
+Heidelberg Castle: Lens Vault
+
+[06466.002]
+Heidelberg Castle
+
+[06466.003]
+Heidelberg Castle: Lens Vault
+
+[06466.005]
+Whoa, incredible...!
+
+[06466.007]
+Gather them from all over Phandaria and it does come to about this many.
+
+[06466.009]
+I can see why the Atamoni lot would have their eye on this.
+
+[06466.011]
+No...!
+
+[06466.013]
+There's not a trace of a Lens!
+
+[06466.015]
+The attack on Woodrow was a decoy. What they were really after was the Lenses.
+
+[06466.017]
+B-but how on earth could they take that many Lenses...
+
+[06466.019]
+...With Elraine's power, moving matter is nothing. She can even send people into the future.
+
+[06466.021]
+But... what does she mean to use so many Lenses for!?
+
+[06466.023]
+{NAME:05 00 00 00}, you said Fortuna descended ten years ago.
+
+[06466.025]
+Y-yeah, that's how it should be... What about it?
+
+[06466.027]
+...Could it be...
+
+[06466.028]
+Guard
+
+[06466.029]
+{NAME:01 00 00 00}, is something the mat...
+
+[06466.030]
+Guard
+
+[06466.031]
+N-no! The Lenses are gone!!
+
+[06466.032]
+Guard
+
+[06466.033]
+Tell every soldier at once! Search the castle from top to bottom!
+
+[06466.034]
+Guard
+
+[06466.035]
+Y-yes, sir!
+
+[06466.036]
+Have a safe journey.
+
+[06466.037]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06466.038]
+Will you stay the night?
+
+[06466.040]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06466.041]
+Please rest well.
+
+[06466.042]
+Good morning.
+
+[06466.043]
+You do not have enough money.
+
+[06466.044]
+We look forward to seeing you again.
+
+[06466.049]
+Obtained {16:25 BA}.
+
+[06466.051]
+Obtained {08:FF FF FF FF}.
+
+[06466.053]
+Found {16:25 C2}, but you can carry no more.
+
+[06466.055]
+There is nothing here.
+

@@ -1,0 +1,2244 @@
+[06186.13306]
+Which character could use
+both sword and bow?
+
+[06186.13353]
+Woodrow
+
+[06186.13364]
+Stahn
+
+[06186.13371]
+Rutee
+
+[06186.13380]
+Leon
+
+[06186.13387]
+Mary
+
+[06186.13394]
+Chelsea
+
+[06186.13405]
+And as a Swordian
+wielder he could cast
+spells as well.
+A true all-round warrior.
+
+[06186.13505]
+Nope
+
+[06186.13510]
+Time's up
+
+[06186.13521]
+The gourmet dish "Queen's Sweet"
+is a dessert of every fruit,
+but one fruit it does not need.
+Which?
+
+[06186.13645]
+Lemon
+
+[06186.13652]
+Durian
+
+[06186.13661]
+Prune
+
+[06186.13670]
+Acerola
+
+[06186.13679]
+Apple
+
+[06186.13686]
+Pine
+
+[06186.13693]
+Melon
+
+[06186.13700]
+Persimmon and chestnut are
+also not needed for it.
+Put those in the Food Sack
+on their own.
+
+[06186.13806]
+Searching a bookshelf, Stahn
+finds a "grown-ups' book".
+If he reads it, what
+happens to him?
+
+[06186.13900]
+Philia hits him
+
+[06186.13921]
+Rutee thrashes him
+
+[06186.13942]
+Leon shocks him
+
+[06186.13963]
+Woodrow scolds him
+
+[06186.13984]
+Chelsea hates him
+
+[06186.14005]
+Mary wants a look
+
+[06186.14026]
+Johnny takes it
+
+[06186.14045]
+Kongman tears it up
+
+[06186.14066]
+"Repent!" she said,
+and punished him
+
+[06186.14108]
+Too soon for you, {NAME:01 00 00 00}.
+If you find one,
+don't read it!
+
+[06186.14174]
+Mary and her husband Dalis
+share a token of love.
+What? (剣 sword, 盾 shield)
+
+[06186.14260]
+Ring
+
+[06186.14265]
+Emblem
+
+[06186.14279]
+Pendant
+
+[06186.14290]
+Wing
+
+[06186.14295]
+Bracelet
+
+[06186.14308]
+Knife
+
+[06186.14315]
+Mary, who had lost her
+memory, got it back with
+this sword as the clue.
+A painful memory, but...
+
+[06186.14417]
+Oberon develops and sells
+goods made from lenses.
+Which of these lens goods
+can you buy in its shops?
+
+[06186.14525]
+Energy Bullet
+
+[06186.14542]
+Elixir
+
+[06186.14555]
+Hourglass
+
+[06186.14568]
+Sorcerer's Ring
+
+[06186.14585]
+Rune Bottle
+
+[06186.14598]
+An attack item: lens power
+makes electricity that
+damages the foe.
+
+[06186.14665]
+This is not a lens product.
+
+[06186.14696]
+A ring that burns lenses
+to fire a ray, but it is
+no Oberon product and no
+shop sells it.
+
+[06186.14790]
+This is no lens product.
+
+[06186.14819]
+The "Old Staff" Rutee
+fetched from the old
+temple for Walt:
+what is it really?
+
+[06186.14901]
+BC Rod
+
+[06186.14912]
+RC Rod
+
+[06186.14923]
+GC Rod
+
+[06186.14934]
+PC Rod
+
+[06186.14945]
+A Rune Bottle turns it
+into this. BC Rod is
+short for Blue
+Crystal Rod.
+
+[06186.15037]
+RC Rod, by the way,
+is short for Red Crystal
+Rod. One is found in a
+certain laboratory.
+
+[06186.15131]
+GC Rod, by the way,
+is short for Green
+Crystal Rod. One is in
+a certain aerial city.
+
+[06186.15223]
+There's no item
+called a PC Rod
+
+[06186.15259]
+In the "seed growing game"
+you grow seeds to get
+items. Which is the finest
+seed, for very good items?
+
+[06186.15377]
+Charac Seed
+
+[06186.15394]
+Pompom Seed
+
+[06186.15409]
+Estema Seed
+
+[06186.15424]
+Ranakeal Seed
+
+[06186.15441]
+Dolgenia Seed
+
+[06186.15458]
+Penpen Seed
+
+[06186.15473]
+Oriola Seed
+
+[06186.15488]
+It gives rare items, very
+strong and useful: the
+disc "Wind God's Power",
+the gem "Diamond".
+
+[06186.15594]
+This seed gives mostly
+"Apple Gels", "Orange
+Gels" and such: items,
+sadly, of no great use.
+
+[06186.15710]
+This seed gives mostly
+low-rank food such as
+"Strawberry" and
+"Chicken".
+
+[06186.15790]
+This seed gives mostly
+low-rank food such as
+"Apple" and
+"EGG".
+
+[06186.15870]
+This seed gives food that
+sells high, "Tuna" and
+"Melon" and so on.
+But it withers easily.
+
+[06186.15964]
+This seed gives food and
+gels of every rank:
+"Prawn", "Lemon Gel"
+and so on.
+
+[06186.16058]
+This seed is rather good,
+though: food, rare armor,
+stat-raising herbs and other
+useful things come of it.
+
+[06186.16172]
+Discs fitted to a Swordian
+raise its powers. Which
+disc teaches the spell
+"Heal"?
+
+[06186.16272]
+Saint's Grace
+
+[06186.16289]
+Welling Power
+
+[06186.16306]
+Angel's Smile
+
+[06186.16323]
+Cleansing Prayer
+
+[06186.16340]
+Pouring Light
+
+[06186.16357]
+A disc that teaches much:
+"Heal" for HP, "Recover"
+for ailments, "Pikohan"
+to stun the foe.
+
+[06186.16473]
+"Welling Power" is
+the disc that teaches
+"First Aid", a small
+HP heal.
+
+[06186.16563]
+"Angel's Smile" is the
+disc that teaches the
+poison cure "Antidote".
+
+[06186.16644]
+"Cleansing Prayer" is
+the disc that teaches
+"Recover" for ailments.
+
+[06186.16723]
+"Pouring Light" is the
+disc that teaches "Ray":
+a rain of light from the
+sky, light damage to foes.
+
+[06186.16835]
+First to steal the "Eye of
+God" was the high priest of
+Straylize Temple. His name?
+
+[06186.16924]
+Greybum
+
+[06186.16933]
+Ailts
+
+[06186.16942]
+Batista
+
+[06186.16953]
+Tiberius
+
+[06186.16966]
+Greybum Bernhardt.
+He stole the "Eye of God"
+from Straylize Temple and
+plotted world conquest.
+
+[06186.17066]
+On the field map, what
+if you ride the
+"Tricycle"?
+
+[06186.17121]
+No more foes
+
+[06186.17138]
+More foes
+
+[06186.17151]
+HP heals as you walk
+
+[06186.17172]
+TP heals as you walk
+
+[06186.17193]
+But you move
+very slowly
+
+[06186.17227]
+Putting HP-healing food in
+the Food Sack, "Apple" or
+"Beef" and such, gave
+this effect.
+
+[06186.17321]
+Putting TP-healing food in
+the Food Sack, "Lemon" or
+"Chicken" and such, gave
+this effect.
+
+[06186.17415]
+The "Egg" Stahn found and
+Lilith raised: what
+hatched? (蛇 = snake)
+
+[06186.17491]
+Dragon
+
+[06186.17500]
+Cat
+
+[06186.17505]
+Chick
+
+[06186.17515]
+What hatched was a
+greedy baby dragon
+
+[06186.17569]
+Cats are born from
+the mother cat.
+Not from eggs.
+
+[06186.17630]
+With the "Horn" Litler
+gives you, what can
+you call? (海竜 = sea
+dragon)
+
+[06186.17715]
+Dragon
+
+[06186.17722]
+Radisrol
+
+[06186.17735]
+Hover Cruiser
+
+[06186.17750]
+Strong foes
+
+[06186.17765]
+Weak foes
+
+[06186.17780]
+Tricycle
+
+[06186.17793]
+Ferry
+
+[06186.17800]
+Blow the "Horn" in port and
+the sea dragon Bernardo came
+to carry you over the sea.
+
+[06186.17885]
+As if a "Tricycle"
+would come!
+
+[06186.17925]
+Ferries could be boarded for
+a fare at Darilsheid, Cherik,
+Snowfria and Neustadt ports.
+
+[06186.18034]
+"Arcane artes" join arte
+and spell. Which joins
+Stahn's "Sunder"
+and Dymlos's "Explode"?
+
+[06186.18134]
+Heat Whirl
+
+[06186.18145]
+Blaze
+
+[06186.18152]
+Hell Pyre
+
+[06186.18163]
+Stahn lifts the foe with
+"Sunder"; where it
+falls, Dymlos's spell
+"Explode" goes off.
+
+[06186.18259]
+A somewhat special arcane
+arte. To learn it, clear a
+certain side event once past
+a certain level.
+
+[06186.18373]
+This arcane arte joins
+Stahn's "Demon Fang" and
+Dymlos's "Fire Wall".
+
+[06186.18454]
+In the "rock-paper-scissors fan
+game", who is Stahn's opponent?
+
+[06186.18524]
+Philia
+
+[06186.18533]
+Johnny
+
+[06186.18542]
+Kongman
+
+[06186.18553]
+Well spotted.
+
+[06186.18568]
+In enemy-held Heidelberg,
+a loyal man of Woodrow's
+helped Stahn's party.
+His name?
+
+[06186.18660]
+Dalzen
+
+[06186.18669]
+Isaac
+
+[06186.18678]
+Alba
+
+[06186.18685]
+Dalis
+
+[06186.18692]
+Dalzen Beagran. Served two
+reigns of Phandaria's kings:
+Woodrow's right hand.
+
+[06186.18771]
+That is
+Woodrow's father's name
+
+[06186.18803]
+That is
+Woodrow's master's name
+
+[06186.18835]
+That is
+the enemy general who
+held Heidelberg
+
+[06186.18882]
+The lenses needed to finish
+the lens cannon are in three
+places: Straylize Forest,
+Cresta, and where else?
+
+[06186.18994]
+Harmentz
+
+[06186.19009]
+Straylize Temple
+
+[06186.19030]
+Darilsheid
+
+[06186.19049]
+Janos
+
+[06186.19066]
+A man named Walt
+in this village
+lets you have it.
+
+[06186.19125]
+Where was the Swordian
+Igtenos restored?
+
+[06186.19175]
+Helraios
+
+[06186.19188]
+Claudis
+
+[06186.19201]
+Mikheil
+
+[06186.19214]
+Ignacy
+
+[06186.19225]
+With the equipment of
+Helraios, Igtenos was
+repaired and joined in.
+
+[06186.19296]
+In the city "Helraios",
+which item turned up
+oddly often?
+
+[06186.19359]
+Juicy Beef
+
+[06186.19376]
+Spectacles
+
+[06186.19391]
+Pine Gel
+
+[06186.19402]
+Winged Boots
+
+[06186.19419]
+Gorgeous Mantle
+
+[06186.19436]
+A mystery...?
+Why this item...?
+
+[06186.19478]
+The "fan game" is played in the
+living room of Heiroku's house.
+What was written on the scroll
+on its wall?
+
+[06186.19594]
+Phoenix Dive
+
+[06186.19609]
+Song Soul
+
+[06186.19620]
+Tea Soul
+
+[06186.19631]
+Art Soul
+
+[06186.19640]
+Lion's Howl
+
+[06186.19653]
+Demon Fang
+
+[06186.19664]
+But why
+Phoenix Dive...?
+I don't get it....
+Did Stahn write it?
+
+[06186.19740]
+That was on
+the scroll in
+Johnny's house
+in Shiden.
+
+[06186.19806]
+What was needed to restart
+the systems of the Radisrol,
+sunk on the seabed?
+
+[06186.19887]
+Disc
+
+[06186.19896]
+Key
+
+[06186.19901]
+Card key
+
+[06186.19912]
+Lens
+
+[06186.19919]
+{09:25 00 00 00} and {09:27 00 00 00} together give the
+"blow-away attack" that sends
+a foe flying. What must be
+true for it to work?
+
+[06186.20031]
+HP at 95% or more
+
+[06186.20052]
+TP at 95% or more
+
+[06186.20073]
+Food Sack empty
+
+[06186.20096]
+Food Sack full
+
+[06186.20117]
+No ailments
+
+[06186.20136]
+Has an ailment
+
+[06186.20157]
+Fell for it
+
+[06186.20172]
+Which precious fruit can
+be bought only in the
+shop in Cyril town?
+
+[06186.20241]
+Blueberry
+
+[06186.20254]
+Sweetie
+
+[06186.20267]
+Kyoho
+
+[06186.20276]
+In Tokei Castle's twelve-
+door hall, after the
+"snake" door, which
+door is next?
+
+[06186.20364]
+Pony
+
+[06186.20369]
+Sheep
+
+[06186.20376]
+Ape
+
+[06186.20381]
+Bird
+
+[06186.20386]
+Dog
+
+[06186.20391]
+Rat
+
+[06186.20398]
+Ox
+
+[06186.20403]
+Rabbit
+
+[06186.20410]
+Open the doors here in
+zodiac order. In the
+zodiac, what follows
+the "snake"?
+
+[06186.20502]
+Its people fled to Darilsheid,
+and monsters began to appear
+in the empty village of
+Armeida. Which monster?
+
+[06186.20612]
+Ogre
+
+[06186.20619]
+Golem
+
+[06186.20628]
+Zombie
+
+[06186.20635]
+Skeleton
+
+[06186.20646]
+It appears alone, not in
+a party, so combos land
+easily. Use it to pile
+up the combo bonus.
+
+[06186.20762]
+Hugo's man Baruk attacks
+by controlling a certain
+creature. Which creature?
+
+[06186.20847]
+Bugs
+
+[06186.20852]
+Cats
+
+[06186.20857]
+Fish
+
+[06186.20862]
+Bear
+
+[06186.20867]
+He flings bugs, raises
+them from the ground,
+rains them down:
+many kinds of attack.
+
+[06186.20951]
+What happens if a
+"Wormy Apple" goes
+in the Food Sack?
+
+[06186.21006]
+Fewer foes met
+
+[06186.21027]
+More foes met
+
+[06186.21048]
+Poison{09:56 00 00 00} sets in
+
+[06186.21068]
+Numb{09:5F 00 00 00} sets in
+
+[06186.21088]
+HP recovers
+
+[06186.21103]
+HP drops
+
+[06186.21118]
+TP recovers
+
+[06186.21133]
+TP drops
+
+[06186.21148]
+A Wormy Apple sounds
+like food to refuse, but
+it's quite useful, in fact.
+
+[06186.21229]
+Swordians strike as swords
+and cast spells as lens
+weapons. Which Swordian is
+best at attack spells?
+
+[06186.21343]
+Clemente
+
+[06186.21354]
+Dymlos
+
+[06186.21365]
+Atwight
+
+[06186.21376]
+Igtenos
+
+[06186.21389]
+Chaltier
+
+[06186.21402]
+It learns attack spells
+of every element.
+Its direct attack
+was low, though.
+
+[06186.21488]
+Dymlos is a
+Swordian strong in
+direct attack.
+
+[06186.21539]
+Atwight is a Swordian
+good at spells, but
+healing ones: for HP
+and for ailments.
+
+[06186.21629]
+Igtenos is a
+Swordian balanced
+between spell power
+and direct attack.
+
+[06186.21703]
+Chaltier is a Swordian
+balanced between spell power
+and direct attack.
+
+[06186.21776]
+The attachment disc won
+for first clearing the
+"Tower of Druaga" is?
+
+[06186.21859]
+Super Blast
+
+[06186.21874]
+Blue Dragon
+
+[06186.21887]
+Giant Rises
+
+[06186.21900]
+God's Thunder
+
+[06186.21915]
+Fitted to a Swordian, this
+disc gives the mightiest
+spell, "Big Bang".
+
+[06186.21994]
+Which minigame could
+you try at the hotel
+in Neustadt?
+
+[06186.22057]
+Blackjack
+
+[06186.22074]
+Poker
+
+[06186.22083]
+Doubt
+
+[06186.22090]
+Beggar
+
+[06186.22097]
+Sevens
+
+[06186.22106]
+Memory
+
+[06186.22115]
+Right!
+
+[06186.22124]
+Wrong!
+
+[06186.22131]
+Which of these
+could only
+Leon use?
+
+[06186.22172]
+Strafe
+
+[06186.22179]
+Drake Fang
+
+[06186.22190]
+Sunder
+
+[06186.22197]
+He dashes to scatter the
+foes, then thrusts up at
+the one in the air. A fast
+arte that suits quick Leon.
+
+[06186.22315]
+Stahn could use this
+one as well as Leon.
+It slashes the foe in a row.
+
+[06186.22390]
+Stahn and Woodrow
+could use this one: a
+whirlwind lifts the foe.
+
+[06186.22457]
+The "mirror barrier"
+guarded Dycroft.
+Who built the device
+that broke it?
+
+[06186.22533]
+The Swordian Igtenos
+
+[06186.22560]
+The Swordian Clemente
+
+[06186.22584]
+The Swordian Atwight
+
+[06186.22608]
+Dr. Otto
+
+[06186.22621]
+Dr. Ailts
+
+[06186.22634]
+Oberon
+
+[06186.22645]
+The original, Igtenos
+Minard, was an expert
+in information and
+machine engineering.
+
+[06186.22739]
+The original, Raville
+Clemente, was a biologist,
+so this would be
+outside his field.
+
+[06186.22833]
+The original, Atwight
+Eks, was a doctor,
+so this would be
+outside her field.
+
+[06186.22925]
+Dr. Otto is a
+botanist.
+Not his field.
+
+[06186.22978]
+In the last scene of
+the epilogue, who
+went in last and
+shut the door?
+
+[06186.23052]
+Lilith
+
+[06186.23059]
+Right.
+
+[06186.23066]
+Cress and Arche set the
+Tales of Phantasia quiz.
+Where were the two?
+
+[06186.23147]
+By Armeida's inn
+
+[06186.23166]
+By Armeida's store
+
+[06186.23189]
+By Harmentz's inn
+
+[06186.23208]
+By Harmentz's shop
+
+[06186.23229]
+By Cresta's inn
+
+[06186.23246]
+By the orphanage
+
+[06186.23265]
+By Stahn's in Lienea
+
+[06186.23288]
+By Lienea's chief's
+
+[06186.23309]
+Armeida, at least,
+is right
+
+[06186.23353]
+By an inn, at least,
+is right
+
+[06186.23395]
+The very costly food
+"Crab Miso" heals 60%
+of HP. Where can it
+be bought?
+
+[06186.23481]
+Snowfria
+
+[06186.23494]
+Neustadt
+
+[06186.23509]
+Cherik
+
+[06186.23518]
+Shiden
+
+[06186.23525]
+Moryu
+
+[06186.23534]
+Tokei
+
+[06186.23543]
+"Crab Miso" is sold only
+here: rare and costly.
+The price: 4,000 Gald!
+That buys over 100 sauries.
+
+[06186.23657]
+"Crab" landed from
+cold seas is firm and
+tasty. Think it over
+again later.
+
+[06186.23753]
+A Rune Bottle turns an
+Apple into a Wormy Apple.
+Then what does it make
+of a Wormy Apple?
+
+[06186.23857]
+Jam
+
+[06186.23864]
+Rotten Orange
+
+[06186.23879]
+The Shiden house cook who
+makes "Sea Spirit's Gift"
+is known as "Seafood ○○".
+What goes in the ○○?
+
+[06186.23987]
+Yasu
+
+[06186.23992]
+Tora
+
+[06186.23997]
+Hide
+
+[06186.24002]
+Taka
+
+[06186.24007]
+Shig
+
+[06186.24012]
+He shows fine knife
+work, they say: the
+Shiden secret arte
+"Void Azure Slash"...
+
+[06186.24094]
+The Armeida boy taught the
+sword by Grid of the Dark
+Wings: what became of him?
+
+[06186.24181]
+Idle at home
+
+[06186.24198]
+Off adventuring
+
+[06186.24219]
+Joins the Dark Wings
+
+[06186.24240]
+Teaches the sword
+
+[06186.24261]
+Turns soldier
+
+[06186.24278]
+Fails and goes bad
+
+[06186.24299]
+Learning the sword is
+fine, but taught by
+Grid, that's about
+his limit.
+
+[06186.24379]
+Not hard to imagine,
+but no
+
+[06186.24407]
+I wonder.
+Learning the sword is
+all very well, but
+with Grid teaching...
+
+[06186.24483]
+Do you think Grid
+could give lessons
+serious enough to
+break a pupil?
+
+[06186.24561]
+The lord of Shiden
+is named?
+
+[06186.24594]
+Artur
+
+[06186.24605]
+Gino
+
+[06186.24610]
+Norris
+
+[06186.24617]
+Bart
+
+[06186.24624]
+Gizlo
+
+[06186.24631]
+Artur Shiden. Johnny
+Shiden is his third son.
+
+[06186.24679]
+That is
+the father of
+Fayte Moryu,
+lord of Moryu.
+
+[06186.24734]
+That is
+the father of
+Farah Oersted of
+Tales of Eternia.
+
+[06186.24800]
+That is
+the father of
+Arche Klein of
+Tales of Phantasia.
+
+[06186.24866]
+That is
+the father of
+Keele Zeibel of
+Tales of Eternia.
+
+[06186.24930]
+Walt, the rich man of
+Harmentz who sent Rutee
+for the staff: who was
+his woman secretary?
+
+[06186.25030]
+A bunny girl
+
+[06186.25049]
+A maid
+
+[06186.25056]
+His wife
+
+[06186.25069]
+Daughter
+
+[06186.25078]
+A girl he adopted
+
+[06186.25099]
+Don't joke{03:10 00 00 00}...{03:02 00 00 00} is
+what I'd like to say...
+but it is correct.
+Really...
+
+[06186.25183]
+What living metal
+mended the Flying Dragon?
+
+[06186.25229]
+Berselium
+
+[06186.25242]
+Orichalcum
+
+[06186.25255]
+Barium
+
+[06186.25264]
+Barbatos
+
+[06186.25275]
+Berselm
+
+[06186.25286]
+Belladonna
+
+[06186.25297]
+Mithril
+
+[06186.25306]
+Oberonamin
+
+[06186.25319]
+Of course.
+
+[06186.25334]
+Are you mocking me?
+
+[06186.25355]
+Fooled by a thing like that
+
+[06186.25384]
+Is that all you have?
+
+[06186.25407]
+Which of these
+is not in
+Chelsea's room?
+
+[06186.25448]
+Desk
+
+[06186.25453]
+Mir.
+
+[06186.25458]
+Bed
+
+[06186.25465]
+Draft sketch
+
+[06186.25478]
+Ethics
+
+[06186.25485]
+Pane
+
+[06186.25490]
+You know a lot
+
+[06186.25505]
+In the Flying Dragon's
+hold, go back to where
+the Swordian Dymlos was
+kept: what do you get?
+
+[06186.25599]
+Deck Brush
+
+[06186.25612]
+SW180180
+
+[06186.25629]
+Flamberge
+
+[06186.25646]
+Hot Power
+
+[06186.25659]
+Gold Frying Pan
+
+[06186.25676]
+Broom
+
+[06186.25685]
+With Dymlos gone, the
+empty case... Hmph,
+became a cleaning
+cupboard, did it.
+
+[06186.25779]
+You get that item
+somewhere else.
+
+[06186.25819]
+That item does
+not exist in
+Tales of Destiny...
+
+[06186.25878]
+The book on the
+shelf at Mary's?
+
+[06186.25912]
+Diary
+
+[06186.25919]
+Recipe book
+
+[06186.25936]
+Spells
+
+[06186.25943]
+War manual
+
+[06186.25954]
+Catalogue
+
+[06186.25967]
+The diary of Dalis,
+Mary's husband, was
+there. Pages torn out
+by Dalis, though...
+
+[06186.26051]
+A book like that was on
+the shelf of the Baruk
+Fund office in Cherik...
+
+[06186.26126]
+In Tales of Phantasia a
+mage could learn magic by
+finding and reading a spell
+book hidden on a shelf...
+
+[06186.26240]
+Mary and her husband Dalis
+were in Cyril's militia,
+so such a book would be
+no surprise. But wrong.
+
+[06186.26348]
+...Well, in snowbound
+Phandaria, where going
+out is hard, one at home
+might come in handy...
+
+[06186.26450]
+The girl in Calviola
+with the tangled, sad
+past is named?
+
+[06186.26519]
+Elena
+
+[06186.26526]
+Elina
+
+[06186.26533]
+Elis
+
+[06186.26540]
+Ellen
+
+[06186.26547]
+Karen
+
+[06186.26554]
+Kanna
+
+[06186.26561]
+Her father was Calvalese,
+her mother Phandarian,
+driven out when he died.
+She lives alone, missing her.
+
+[06186.26667]
+Which Ezogematsu cries
+"Ezogematsu" when you
+check it with {09:35 00 00 00}?
+
+[06186.26753]
+Black one
+
+[06186.26766]
+Red one
+
+[06186.26779]
+Blue one
+
+[06186.26792]
+White one
+
+[06186.26805]
+It cries "Ezogematsu"
+in a shrill, hoarse
+voice. What plant is
+that? Most odd...
+
+[06186.26901]
+Check this one with {09:35 00 00 00}
+and it sounds like a
+baby. What plant is
+that? Most odd...
+
+[06186.27012]
+The plant Ezogematsu
+comes red and black,
+it seems. I'm not sure.
+
+[06186.27079]
+Which instrument
+is not in Johnny's
+room at Shiden?
+
+[06186.27135]
+Accordion
+
+[06186.27150]
+Piano
+
+[06186.27157]
+Guitar
+
+[06186.27164]
+Drum
+
+[06186.27171]
+Fit the disc "Blazing
+Earth" to a Swordian:
+which spell can
+it then cast?
+
+[06186.27259]
+Eruption
+
+[06186.27272]
+Fire Storm
+
+[06186.27289]
+Fearful Flare
+
+[06186.27306]
+Explode
+
+[06186.27321]
+Flare Tornado
+
+[06186.27338]
+Reason from what the disc's
+name means, compare the
+spells, and the answer will
+narrow itself. Think again.
+
+[06186.27450]
+Johnny never learns?
+
+[06186.27475]
+Dance Rumba
+
+[06186.27488]
+Go-Go Samba
+
+[06186.27503]
+Dodge March
+
+[06186.27516]
+Friends Waltz
+
+[06186.27531]
+Miracle Voice
+
+[06186.27546]
+Hit Symphony
+
+[06186.27563]
+Sleep Lullaby
+
+[06186.27578]
+Not bad at all
+
+[06186.27593]
+Hmph
+
+[06186.27598]
+At score G, Johnny learns what?
+
+[06186.27631]
+Numb Rumba
+
+[06186.27644]
+At score A, Johnny learns what?
+
+[06186.27677]
+In a corner of Junkland a
+"boyfriend" and "girlfriend"
+are fighting. What does she
+say as she slaps him?
+
+[06186.27783]
+You good-for-naught!
+
+[06186.27804]
+You pauper!
+
+[06186.27817]
+You wastrel!
+
+[06186.27834]
+You coward!
+
+[06186.27851]
+...They all mean much
+the same, but
+...this is right.
+
+[06186.27914]
+...They all mean much
+the same, but
+...this one is wrong.
+
+[06186.27987]
+...Well, they all mean
+much the same, but
+...next time this comes
+up, think calmly.
+
+[06186.28087]
+Which is the lens six
+meters across?
+
+[06186.28127]
+GodEye
+
+[06186.28134]
+CodEye
+
+[06186.28141]
+AspEye
+
+[06186.28148]
+MyEye
+
+[06186.28155]
+CatEye
+
+[06186.28162]
+GodNap
+
+[06186.28169]
+OwlEye
+
+[06186.28176]
+MeEye
+
+[06186.28183]
+Fooled by a thing like that.
+
+[06186.28214]
+That's your limit?
+
+[06186.28233]
+Which item makes visible
+the unseen monster "Ghost"
+that appears in the
+"Tower of Druaga"?
+
+[06186.28341]
+Lantern
+
+[06186.28350]
+Sorcerer's Scope
+
+[06186.28369]
+Magic Mist
+
+[06186.28384]
+Scout Orb
+
+[06186.28399]
+Flashlight
+
+[06186.28418]
+Found on floor 6 of the
+60 in the "Tower".
+
+[06186.28466]
+The Sorcerer's Scope
+is an item that did
+not exist in
+Tales of Destiny.
+
+[06186.28546]
+That item
+speeds up fleeing
+from battle.
+
+[06186.28593]
+That item
+lets you change
+how often foes
+appear, at will.
+
+[06186.28663]
+No item by that
+name exists...
+
+[06186.28705]
+What is Calvalese's
+main export in
+trade with other
+lands?
+
+[06186.28769]
+Wool
+
+[06186.28776]
+Cotton
+
+[06186.28783]
+Wood
+
+[06186.28788]
+Corn
+
+[06186.28793]
+Ores
+
+[06186.28798]
+Its main buyer, by
+the way: Seinegald.
+
+[06186.28840]
+Calvalese has no room for
+cotton fields. Much desert,
+little rain: farming itself
+barely works.
+
+[06186.28942]
+Mostly desert, with
+little rain, Calvalese
+has no rich forests to
+give plenty of timber.
+
+[06186.29038]
+Calvalese can't grow rice
+or wheat. Much desert,
+little rain: farming itself
+barely works.
+
+[06186.29138]
+I've never heard of any
+great mine in Calvalese.
+The land rich in ores
+is Fitzgald.
+
+[06186.29234]
+The tablet in Dycroft's
+Crystal Hall says: "The door
+opens to who beats the ○○
+of crystal." What is ○○?
+
+[06186.29350]
+Lone
+
+[06186.29355]
+Haze
+
+[06186.29360]
+Test
+
+[06186.29365]
+Wisp
+
+[06186.29370]
+Void
+
+[06186.29375]
+Maze
+
+[06186.29380]
+In the Crystal Hall Stahn
+must cross the dark alone.
+The words seem a veiled
+warning of that danger.
+
+[06186.29484]
+The crystal here is no
+illusion: it truly exists.
+
+[06186.29542]
+True, the Crystal Hall
+tests Stahn, but as
+an answer, no.
+
+[06186.29601]
+Earth, water, fire and
+wind have spirits. A
+crystal one? No.
+Don't just guess.
+
+[06186.29685]
+True,
+it is a crystal space,
+but as an answer, no.
+
+[06186.29736]
+True, the Crystal
+Hall is a kind of
+crystal maze, but
+no.
+
+[06186.29808]
+An orphanage child asks what
+Stahn is to Rutee. If Stahn
+answers vaguely, how does
+Rutee react?
+
+[06186.29914]
+Says he's her pupil
+
+[06186.29935]
+Says he's her beau
+
+[06186.29956]
+Flies into a rage
+
+[06186.29975]
+Sulks angrily
+
+[06186.29990]
+Smiles at the child
+
+[06186.30011]
+Gets shy
+
+[06186.30024]
+Says he's her slave
+
+[06186.30045]
+Just like Rutee...
+
+[06186.30066]
+Do you think Rutee
+is a woman who could
+say such a thing?
+
+[06186.30127]
+Not impossible
+to imagine, though
+
+[06186.30163]
+She grew up in that
+orphanage, so one
+could imagine it
+
+[06186.30226]
+I wonder.
+Is that
+Rutee's nature?
+
+[06186.30267]
+I can see why
+you'd want to
+pick that one...
+
+[06186.30324]
+Marian, the maid of Hugo's
+house, escaped to the ground
+in a pod from Mikheil.
+What became of her?
+
+[06186.30426]
+Back to Hugo's
+
+[06186.30445]
+Went home
+
+[06186.30458]
+Hired elsewhere
+
+[06186.30477]
+Disappeared
+
+[06186.30494]
+Hurt, convalescing
+
+[06186.30520]
+She might well have,
+I think...
+
+[06186.30556]
+That would have been
+best, I think...
+
+[06186.30598]
+She{03:08 00 00 00}...
+{03:02 00 00 00}%Swould never do that!
+
+[06186.30640]
+To her{03:08 00 00 00}...
+{03:02 00 00 00}%SI won't have that happen!
+
+[06186.30696]
+At home in Lienea, Stahn
+and Lilith share a room.
+Which of these is not
+in that room?
+
+[06186.30798]
+Stahn's alarm clock
+
+[06186.30819]
+Stahn's bed
+
+[06186.30834]
+Stahn's chest
+
+[06186.30849]
+Lilith's trove
+
+[06186.30864]
+Lilith's teddy
+
+[06186.30883]
+Her dresser
+
+[06186.30896]
+No alarm clock wakes
+Stahn... Nor {NAME:01 00 00 00},
+for that matter.
+...A sorry thing to inherit.
+
+[06186.30989]
+The answer is the
+one thing of little
+use to Stahn and
+Lilith alike.
+
+[06186.31063]
+Do you remember the name
+of the item shop in
+Harmentz? Choose.
+
+[06186.31132]
+Heaven
+
+[06186.31139]
+Cheery
+
+[06186.31148]
+Heavan
+
+[06186.31155]
+Haeven
+
+[06186.31162]
+Leaven
+
+[06186.31169]
+Carefree
+
+[06186.31178]
+Wicked
+
+[06186.31185]
+Fenix
+
+[06186.31192]
+Hopeless.
+
+[06186.31205]
+You lack focus.
+
+[06186.31224]
+Close. But no
+
+[06186.31239]
+Honestly. Hopeless.
+
+[06186.31262]
+Do you remember the name
+of the food shop in
+Darilsheid? Choose.
+
+[06186.31331]
+Piccolo
+
+[06186.31340]
+Flute
+
+[06186.31349]
+Clarinet
+
+[06186.31362]
+Shami.
+
+[06186.31369]
+Harp
+
+[06186.31376]
+Cembalo
+
+[06186.31387]
+Bagpipe
+
+[06186.31398]
+Trombone
+
+[06186.31411]
+This much you
+should get right.
+
+[06186.31443]
+Which traveler stayed
+at the Junkland inn?
+
+[06186.31491]
+Lens hunter
+
+[06186.31506]
+Hawker
+
+[06186.31513]
+Bard
+
+[06186.31522]
+Art.
+
+[06186.31527]
+Cook
+
+[06186.31534]
+A trade that pays best just
+where, as around Junkland,
+people are few and monsters
+have not yet been cleared.
+
+[06186.31650]
+A hawker might come
+for the treasure that
+must lie in Trash
+Mountain, but wrong.
+
+[06186.31738]
+A bard going all the way
+to Junkland to sing...
+Can't you easily guess
+there are few of those?
+
+[06186.31848]
+A painter might come to
+paint a town lived in
+yet like a ruin,
+but wrong.
+
+[06186.31948]
+What business would
+a cook have going all
+the way to Junkland?
+
+[06186.32015]
+Think which trade pays best
+where people are few and
+the monsters uncleared,
+and you will see.
+
+[06186.32127]
+A parent and child in
+Darilsheid love Oberon's
+lens goods. Which did
+they like best?
+
+[06186.32219]
+Shaver
+
+[06186.32228]
+Vacuum
+
+[06186.32237]
+Stove
+
+[06186.32244]
+Dryer
+
+[06186.32255]
+Board
+
+[06186.32264]
+A maker of lens goods,
+selling chopping
+boards? You think?
+
+[06186.32329]
+Where was
+Rutee born?
+
+[06186.32361]
+Darilsheid
+
+[06186.32376]
+Cresta
+
+[06186.32385]
+Lienea
+
+[06186.32392]
+Rutee was born to a rich
+family in Darilsheid...
+and soon after was left at
+the orphanage door in Cresta.
+
+[06186.32506]
+Cresta is where Rutee
+grew up. The orphanage
+she lived in must be the
+Dunamis Orphanage of today.
+
+[06186.32608]
+Lienea is Stahn's home, deep
+in the hills of the third
+continent. Rutee often called
+him a "bumpkin" for it.
+
+[06186.32718]
+Rutee grew up in a poor
+orphanage, and Neustadt
+too had many poor children,
+but she is not from there.
+
+[06186.32822]
+The two guests in the
+suite of the inn at
+Harmentz:
+who were they?
+
+[06186.32896]
+Writer & ed.
+
+[06186.32909]
+Star & manager
+
+[06186.32930]
+Tea master&pupil
+
+[06186.32947]
+Athlete & coach
+
+[06186.32966]
+Rich heir & fiancee
+
+[06186.32987]
+The writer was taking it
+easy with the deadline
+close, so the editor
+was fretting, it seems.
+
+[06186.33083]
+The "S Flag", a collecting
+item of Tales of Phantasia,
+exists in Destiny too. Where
+among these can it be seen?
+
+[06186.33197]
+LensShop
+
+[06186.33206]
+Seeds
+
+[06186.33213]
+Heiroku
+
+[06186.33222]
+Druaga's Tower
+
+[06186.33237]
+You can't get it, but
+it shows on the lens
+shop shelf, and in a
+"dev room" too.
+
+[06186.33325]
+The title screen theme,
+"Tales of Destiny": to hear
+it in sound test mode, which
+BGM number do you set?
+
+[06186.33444]
+No. 55
+
+[06186.33451]
+No. 11
+
+[06186.33458]
+No. 22
+
+[06186.33465]
+No. 33
+
+[06186.33472]
+No. 44
+
+[06186.33479]
+No. 66
+
+[06186.33486]
+No. 77
+
+[06186.33493]
+No. 88
+
+[06186.33500]
+A statue spouts water at
+Straylize's save point.
+Of what? (犬 dog, 亀 turtle)
+
+[06186.33579]
+Frog
+
+[06186.33586]
+Bush Baby
+
+[06186.33603]
+Amor
+
+[06186.33608]
+Lion
+
+[06186.33623]
+Naive.
+
+[06186.33632]
+These gems raise
+defense when equipped.
+Which raises it
+the most?
+
+[06186.33716]
+Topaz
+
+[06186.33725]
+Garnet
+
+[06186.33736]
+Moonstone
+
+[06186.33751]
+Amethyst
+
+[06186.33762]
+What did the orphanage
+children play at?
+
+[06186.33808]
+Blocks
+
+[06186.33815]
+Hide&seek
+
+[06186.33826]
+Musical chairs
+
+[06186.33841]
+House
+
+[06186.33850]
+Paints
+
+[06186.33857]
+In the passage under
+Heidelberg, Woodrow told
+of a rumored ghost there.
+Who was frightened?
+
+[06186.33953]
+She has faith in a god,
+a thing unseen, but
+ghosts, it seems, she can't bear.
+
+[06186.34032]
+Curious as Stahn is,
+interest would come
+before fear.
+
+[06186.34087]
+Would she believe
+such a tale?
+
+[06186.34125]
+That can't be.
+Are you answering seriously?
+
+[06186.34173]
+Her husband Dalis was
+hovering between life
+and death then; she had
+no mind for such tales.
+
+[06186.34269]
+It was no mere rumor,
+by the way. Anyone
+afraid of ghosts must
+have been scared stiff.
+

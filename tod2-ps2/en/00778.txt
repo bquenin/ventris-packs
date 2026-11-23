@@ -1,0 +1,9 @@
+[00778.001]
+{NAME:01 00 00 00}. It's fine to be keen, but let's get some sleep ready for tomorrow.
+
+[00778.002]
+Yes. If you overslept as usual and missed the battle, nothing could be more pathetic.
+
+[00778.003]
+Tch! I know that much...
+

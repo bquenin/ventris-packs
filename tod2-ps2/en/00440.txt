@@ -1,0 +1,12 @@
+[00440.001]
+"Go to Aigrette" is fine, but... where do we look after that?
+
+[00440.002]
+Think. {NAME:02 00 00 00} went to stop Elraine. Where would you break in?
+
+[00440.003]
+You don't mean... the Great Temple of Straylize!?
+
+[00440.004]
+Yes... Whether she got in or was caught on the way, {NAME:02 00 00 00} is there, almost surely.
+

@@ -1,0 +1,510 @@
+[57.000]
+{クレス}
+"Hm?{PAGE}
+There's some commotion at the castle gate."
+
+[57.001]
+Southern Midgards
+
+[57.002]
+Northern Midgards
+
+[57.003]
+Arms Shop "Spirit"
+
+[57.004]
+Inn "Saber"
+
+[57.005]
+Drugstore "Buster"
+
+[57.006]
+Item Shop "Slayer 4"
+
+[57.007]
+Food Shop "Ninja"
+
+[57.008]
+Mayor's House
+
+[57.009]
+"There's nobody here!!"
+
+[57.010]
+"A cowshed..."
+
+[57.011]
+{ミント}
+"It would be better not to walk about outside the town just now."
+
+[57.012]
+Guard
+"Halt there!"
+
+[57.013]
+Guard
+"Who are you? You look suspicious. Be off with you!"
+
+[57.014]
+Guard
+"Who are you?"{PAGE}
+{クラース}
+"We are acquaintances of Master Edward. We wish to see him."{PAGE}
+Guard
+"Of Master Edward? Have you anything to prove who you are!?"{PAGE}
+{クラース}
+"Well, as to that, we have lost the emblem the King of Alvanista gave us..."{PAGE}
+Guard
+"You look suspicious. Be off with you!"
+
+[57.015]
+Guard
+"Hm, adventurers? First, have you anything to prove who all of you are?"{PAGE}
+{クラース}
+"Will this not do? It is an emblem given us by the King of Alvanista."
+
+[57.016]
+Guard
+"This is indeed...!"{PAGE}
+{クラース}
+"We wish to see Master Edward D. Morrison."
+
+[57.017]
+Guard
+"This way."
+
+[57.018]
+???
+"Hey, you lot!"
+
+[57.019]
+{クレス}
+"Wh-what was that?"{PAGE}
+{アーチェ}
+"There was a voice, wasn't there?"{PAGE}
+{クラース}
+"Yes..."
+
+[57.020]
+{クレス}
+"Wh-what is it, an insect?"{PAGE}
+???
+"I'm no insect, so there!"{PAGE}
+{クラース}
+"A monster, then!?"{PAGE}
+???
+"Nyah, wrong again. I was bored, so I thought I'd play with you lot."{PAGE}
+{アーチェ}
+"We're travelling on an important mission. We've no time to play with you, so there!"{PAGE}
+???
+"Then take this!"
+
+[57.021]
+{ミント}
+"{クレス}, are you all right!?"{PAGE}
+{アーチェ}
+"What was that thing!"{PAGE}
+
+
+[57.022]
+{クレス}
+"Ah!!"{PAGE}
+{クラース}
+"What is it, {クレス}!"{PAGE}
+{クレス}
+"The emblem of the Kingdom of Alvanista is gone!"{PAGE}
+{クラース}
+"Whaaaat!!"
+
+[57.023]
+???
+"If you want the emblem, come to the Tower of the Zodiac! Bye-bye, then."
+
+[57.024]
+{クレス}
+"Wh-what do we do?"{PAGE}
+{クラース}
+"We can only get it back. We need proof of who we are to enter Midgards Castle. The Tower of the Zodiac... That is the tower Brambert spoke of."{PAGE}
+{ミント}
+"The one where a spirit is said to live?"{PAGE}
+{クラース}
+"Yes. It should be to the south of this town."
+
+[57.025]
+Guard
+"Nothing to report!"
+
+[57.026]
+"Welcome. Lord Raizen has told us about you.{PAGE}
+Will you stay the night?"
+
+[57.027]
+Enjoy your stay.
+
+[57.028]
+"We look forward to your next visit."
+
+[57.029]
+"I am very sorry, but with things as they are..."
+
+[57.030]
+"Welcome."
+
+[57.031]
+"Thanks."
+
+[57.032]
+"Welcome."
+
+[57.033]
+"Thank you."
+
+[57.034]
+"Hello there, welcome."
+
+[57.035]
+"It's at times like these that a man must keep his trade going.{PAGE}
+Thank you kindly."
+
+[57.036]
+"Welcome."
+
+[57.037]
+"Thank you kindly."
+
+[57.038]
+"I haven't much to offer, but will it do?"
+
+[57.039]
+"Thank you kindly."
+
+[57.040]
+"How did that thing get in?"
+
+[57.041]
+"Master Morrison seems to be reasoning with it, but it's a monster. It will never listen!"
+
+[57.042]
+"What on earth can be done...?"
+
+[57.043]
+"I-it's terrible! A monster has taken a child hostage!!"
+
+[57.044]
+Mayor
+"They say a white horse that grown-ups cannot see lives in the forest to the north. Can it be true?"
+
+[57.045]
+Mayor
+"Most of the people have left the town. There'll be no work for me till the war is over, that's plain."
+
+[57.046]
+"I worry about my parents, whom I left behind in Alvanista."
+
+[57.047]
+"Will this place get any easier to live in, I wonder?"
+
+[57.048]
+"Got to clear out quick. It's far too dangerous round here."
+
+[57.049]
+"Hey, you a swordsman, friend? Won't you buy this book of secret arts? 18000 Gald'll do."{PAGE}
+{COLOR:03}Buy it?{COLOR:02}
+
+[57.050]
+Tch.
+
+[57.051]
+"You're short of money, friend."
+
+[57.052]
+{COLOR:03}{クレス} learned Shuusouhienkyaku.{COLOR:02}{PAGE}
+"Much obliged!"
+
+[57.053]
+"Hey, mister, how about 80000?"{PAGE}
+{クレス}
+"How about what?"{PAGE}
+"Tch, I've no use for children!"{PAGE}
+{クレス}
+"Isn't 80000 rather a lot?"{PAGE}
+"How do you know that?"
+
+[57.054]
+"It is a story I had from my grandmother: the white horse will only meet a pure maiden. It must have a very pure heart itself."
+
+[57.055]
+"These children have all lost their parents in the war.{PAGE}
+Why has it come to this...?"
+
+[57.056]
+"I'm fine on my own!"
+
+[57.057]
+"I wish Mummy would come home soon."
+
+[57.058]
+"I want to go home..."
+
+[57.059]
+"There's a pure white horse in the forest to the north!"
+
+[57.060]
+"..."
+
+[57.061]
+"Give me something."
+
+[57.062]
+"Play with me, mister."
+
+[57.063]
+"They say only a maiden pure in body and heart can meet the white horse. I wonder if it's true?"
+
+[57.064]
+"Peace has come at last!!"
+
+[57.065]
+"They say the heroes who defeated Dhaos went away somewhere before they could receive the King's blessing. I'd have loved one look at them. What, it was you!?{PAGE}
+Don't tell lies."
+
+[57.066]
+"I heard the fighting was over, so I came back."
+
+[57.067]
+"They say the heroes' battle was a real fight to the death. Amazing!"
+
+[57.068]
+"Huh. I could've beaten Dhaos with one hand. Pity he's gone."
+
+[57.069]
+"Telling lies is how thieves begin, you know. What! You defeated Dhaos, mister!?{PAGE}
+Then you're beginning to be a thief too!"
+
+[57.070]
+"At last, at last we are free of the long years of suffering... I am so glad."
+
+[57.071]
+"I'm tired out. And my son is no longer in this world..."
+
+[57.072]
+"I came as a volunteer. I want to work for the orphans too."
+
+[57.073]
+"I came meaning to join the army of Midgards to put down Dhaos... but it seems I am too late.{PAGE}
+Bit of a relief."
+
+[57.074]
+"Now that Dhaos is gone, perhaps I'll set up in trade in this town."
+
+[57.075]
+"I've had enough of the strain of wartime. Even the best of friends end up quarrelling."
+
+[57.076]
+"What on earth was Dhaos fighting this country for? His aim was never quite clear."
+
+[57.077]
+"Where has Daddy gone...? Mummy said he's gone to be with God, but..."
+
+[57.078]
+"I can go outside at last. I was indoors the whole war, and it was so dull."
+
+[57.079]
+"This country will come to lead the world before long. Though by what means it will lead, I cannot say."
+
+[57.080]
+"I only hope the magitech weapons do not become a threat to the world..."
+
+[57.081]
+"I'm only part-time. Please pay at the back."
+
+[57.082]
+"I've come to buy in supplies. The war is over, but food is not much easier to come by."
+
+[57.083]
+"There is an outcry about the shortage of rice, but it will not be much of a problem. We need only import foreign rice.{PAGE}
+Eh? Easier said than done, you say?"
+
+[57.084]
+"The war may be over, but research into magitech weapons will not stop. It is research the future of mankind needs."
+
+[57.085]
+"The King of Midgards means to widen the research into magitech weapons still further, but I'm against it. One day those things will be a threat to the world."
+
+[57.086]
+"I am a retired soldier. Where shall I find work next...?"
+
+[57.087]
+"Peace has come at last. Now if only plenty of sightseers come, I'll have nothing more to ask."
+
+[57.088]
+"I'm telling an old tale just now to get this child to sleep. Be quiet, please.{PAGE}
+
+
+[57.089]
+Now, where were we? The soldier ran straight for the outside of the barrier. The king came after him and would not give up. At last the soldier shook off the king and came out beyond the barrier. The world outside was nothing like the hell everyone imagined, thick with poison where the light of the sun could not reach. Butterflies danced and deer stood by the water: it was like heaven itself. Outside the barrier, the world had gone back to its old beauty. The soldier set the spirit free. He watched and watched as the spirit vanished into the sky. The end.{PAGE}
+There, now go to sleep."
+
+[57.090]
+"Come, off to sleep now."
+
+[57.091]
+{クラース}
+"A-amazing... Against this, even Dhaos would not stand a chance."
+
+[57.092]
+"I-it's terrible!! They say the magitech weapon can no longer be used!!"{PAGE}
+"What!?"{PAGE}
+{クラース}
+"So handling magic power by science is impossible after all...?"{PAGE}
+
+
+[57.093]
+{アーチェ}
+"Never mind that, what do we do!?"{PAGE}
+{クラース}
+"Ah, damn! If only {クレス} were here..."
+
+[57.094]
+{クラース}
+"{クレス}! You are safe?"{PAGE}
+{ミント}
+"{クレス}? Is it really... you, {クレス}?"{PAGE}
+{クレス}
+"I'm sorry I worried you."{PAGE}
+{アーチェ}
+"{クレス}, where did you get that horse? It looks great!"{PAGE}
+{クレス}
+"I'll explain later! I'm going to strike at the enemy's leader in one go! They'll be sure we can't fly!"{PAGE}
+{アーチェ}
+"Oh, wait! I'm coming too!"{PAGE}
+{クレス}
+"But on that broom..."{PAGE}
+{アーチェ}
+"I don't think I can fly for very long, but two's better than one, right?"{PAGE}
+
+
+[57.095]
+Pegasus
+"By my power I shall let you fly long and high. The more fighters the better, is it not so?"{PAGE}
+{クレス}
+"Thank you, Pegasus."{PAGE}
+Pegasus
+"And for your weapon, use Gungnir. Swords and axes are of no use in fighting from horseback."{PAGE}
+
+
+[57.096]
+{クレス}
+"Right! Let's go!!"
+
+[57.097]
+{クレス}
+"Thank you, Pegasus."{PAGE}
+Pegasus
+"I have only carried out the charge my master gave me. I shall take Gungnir back.{PAGE}
+Farewell."
+
+[57.098]
+Raizen
+"{クレス}, {アーチェ}, are you unhurt!?"{PAGE}
+{クレス}
+"Yes. With their leader gone, the enemy's flying corps fell into disorder and withdrew."{PAGE}
+Raizen
+"I am truly sorry. If only our army had more strength...{PAGE}
+The King is pleased too. You will be receiving a decoration before long."{PAGE}
+{クラース}
+"No, it is too soon for that."{PAGE}
+{クレス}
+"We had better not let our guard down until Dhaos is defeated."{PAGE}
+Raizen
+"Hm, that is so. But the enemy will not be able to move for a while. Take a good rest today. But first, this."
+
+[57.099]
+{クレス}
+"This is... a spellbook!"{PAGE}
+Raizen
+"It was on Edward's desk in the laboratory. With a letter he left.{PAGE}
+'Should anything happen to me, I want this book given to {アーチェ}. She, I am sure, will be able to master this magic.'"{PAGE}
+{アーチェ}
+"Morrison..."{PAGE}
+
+
+[57.100]
+{COLOR:03}{アーチェ} learned {STR:E207}.{COLOR:02}{PAGE}
+Raizen
+"Edward entrusted his mission to you. Do your best, for his sake too!"
+
+[57.101]
+　　　　With his passing
+　　　the wheels of history
+　　　slipped, and no one
+　　could tell who would win
+
+[57.102]
+　　　On whom would the goddess
+　　of victory smile?
+
+[57.103]
+{クレス}
+"Ahh... I slept well.{PAGE}
+
+
+[57.104]
+Good morning, {ミント}. You're up early this morning."
+
+[57.105]
+{クレス}
+"{ミント}?"
+
+[57.106]
+{クラース}
+"Ah, good morning..."
+
+[57.107]
+{クラース}
+"Hm? What is it?"
+
+[57.108]
+{ミント}
+"Everyone, please listen."{PAGE}
+{クレス}
+"What is it?"{PAGE}
+{ミント}
+"I have been thinking about how to bring the tree Yggdrasil back to life. I wondered whether my healing arts might do it... But with the power I have now, there is nothing I can do."{PAGE}
+{クラース}
+"And?"{PAGE}
+{ミント}
+"We borrow the power of the white horse, the unicorn."{PAGE}
+{クレス}
+"A unicorn?"{PAGE}
+{ミント}
+"The unicorn is the token of a healer. There must be one somewhere in this world."{PAGE}
+{クラース}
+"But{SPEED:10}...{SPEED:FF} even if we find a unicorn, will it lend us its power?"{PAGE}
+
+
+[57.109]
+{ミント}
+"I do not know. I do not know, but..."{PAGE}
+{クレス}
+"It's the only thing we can turn to now, isn't it, {ミント}? Let's go and look for the unicorn! We're sure to find it."{PAGE}
+
+
+[57.110]
+{ミント}
+"Thank you, {クレス}..."{PAGE}
+{クラース}
+"Then if that is settled, we act at once."
+
+[57.111]
+{クラース}
+"{アーチェ}, wake up! It is morning already!"{PAGE}
+{アーチェ}
+"Mmm... just a bit longer..."{PAGE}
+{クラース}
+"Wake up, I said!!"
+
+[57.112]
+{アーチェ}
+"You're all up so early. What's going on?"
+

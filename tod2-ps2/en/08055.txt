@@ -1,0 +1,294 @@
+[08055.337288]
++
+
+[08055.337296]
+Status resist
+
+[08055.337312]
+HP heal
+
+[08055.337320]
+Dark-R
+
+[08055.337328]
+Light-R
+
+[08055.337336]
+Wind-R
+
+[08055.337344]
+Fire-R
+
+[08055.337352]
+Water-R
+
+[08055.337360]
+Earth-R
+
+[08055.337368]
+Casting
+
+[08055.337376]
+TP heal
+
+[08055.337384]
+SP heal
+
+[08055.337392]
+Luck
+
+[08055.337400]
+Evasion
+
+[08055.337408]
+Aim
+
+[08055.337416]
+Mind
+
+[08055.337424]
+Defense
+
+[08055.337432]
+Attack
+
+[08055.337440]
+Stop
+
+[08055.337448]
+Slow
+
+[08055.337456]
+Frozen
+
+[08055.337464]
+Numb
+
+[08055.337472]
+Weak
+
+[08055.337480]
+Poison
+
+[08055.337488]
+that is, during {04:06 00 00 00}Spirits Blaster{04:07 00 00 00}, is your chance!
+
+[08055.337552]
+so it cannot normally be used. But while SP stays full,
+
+[08055.337608]
+but it calls for {04:05 00 00 00}SP 100%{04:07 00 00 00}. SP falls during an arcane arte,
+
+[08055.337680]
+ You learned a {04:06 00 00 00}mystic arte{04:07 00 00 00} to follow arcane artes,
+
+[08055.337744]
+{04:06 00 00 00}<Mystic Arte>{04:07 00 00 00}
+
+[08055.337776]
+ After Azure Edge, with {09:3D 00 00 00} {04:06 00 00 00}held down{04:07 00 00 00}, it goes off.
+
+[08055.337840]
+under {04:05 00 00 00}Enchant{04:07 00 00 00} in the menu, fit it to {04:04 00 00 00}Action{04:07 00 00 00}.
+
+[08055.337912]
+{04:06 00 00 00}Azure Lotus{04:07 00 00 00} follows Azure Edge only. At 50 uses or more,
+
+[08055.337984]
+ After learning artes, {NAME:01 00 00 00} learns {04:06 00 00 00}follow-up arte{04:07 00 00 00} enchants.
+
+[08055.338056]
+{04:06 00 00 00}<Follow-up Arte>{04:07 00 00 00}
+
+[08055.338088]
+into a combo.
+
+[08055.338112]
+ The great difference: {04:06 00 00 00}entered while an arte is in use{04:07 00 00 00}, it chains
+
+[08055.338192]
+it is set from {04:05 00 00 00}Artes{04:07 00 00 00} in the menu, to {09:3E 00 00 00}.
+
+[08055.338248]
+ An {04:06 00 00 00}arcane arte{04:07 00 00 00} is a higher kind of arte. Likewise
+
+[08055.338312]
+{04:06 00 00 00}<Arcane Arte>{04:07 00 00 00}
+
+[08055.338336]
+ An enchant can also be taken off with {09:28 00 00 00}.
+
+[08055.338392]
+fit {04:06 00 00 00}Attack Up{04:07 00 00 00}, and it will do more damage.
+
+[08055.338464]
+In the menu's {04:05 00 00 00}Enchant{04:07 00 00 00}, pick an arte used 40 times or more,
+
+[08055.338536]
+Fitting one takes the arte's or spell's use count {04:06 00 00 00}(COUNT){04:07 00 00 00}.
+
+[08055.338616]
+ An {04:06 00 00 00}enchant{04:07 00 00 00} is fitted to an arte or spell to strengthen it.
+
+[08055.338696]
+{04:06 00 00 00}<Enchant>{04:07 00 00 00}
+
+[08055.338728]
+ It also works to cast spells while you wait for {04:05 00 00 00}SP{04:07 00 00 00} to recover.
+
+[08055.338808]
+to change the target.
+
+[08055.338848]
+directly. While casting, hold {09:3E 00 00 00} and press {09:21 00 00 00}
+
+[08055.338912]
+Spells need {04:06 00 00 00}TP{04:07 00 00 00} and time to cast, but can hit the back row
+
+[08055.338984]
+ Spells too are set from {04:05 00 00 00}Artes{04:07 00 00 00} in the menu, to {09:3E 00 00 00}, like artes.
+
+[08055.339064]
+{04:06 00 00 00}<Attack Spell>{04:07 00 00 00}
+
+[08055.339096]
+{04:04 00 00 00}Defense{04:07 00 00 00} setting.
+
+[08055.339144]
+in {04:05 00 00 00}Tactics{04:07 00 00 00}, {NAME:03 00 00 00}'s
+
+[08055.339176]
+according to HP. To choose when, change
+
+[08055.339232]
+ On {04:06 00 00 00}auto{04:07 00 00 00} {NAME:03 00 00 00} casts healing spells in battle
+
+[08055.339288]
+{04:06 00 00 00}<Healing Spell>{04:07 00 00 00}
+
+[08055.339320]
+and {04:06 00 00 00}entered during a normal attack{04:07 00 00 00} they chain into a combo.
+
+[08055.339392]
+Artes need {04:06 00 00 00}TP{04:07 00 00 00} but do more damage than normal attacks,
+
+[08055.339456]
+Use a set arte with the directional buttons and {09:3E 00 00 00}.
+
+[08055.339520]
+ Once you learn an arte, set it from {04:05 00 00 00}Artes{04:07 00 00 00} in the menu.
+
+[08055.339592]
+{04:06 00 00 00}<Artes>{04:07 00 00 00}
+
+[08055.339632]
+Free Spectacles
+
+[08055.339688]
+All gear was lost...
+
+[08055.339712]
+.
+
+[08055.339728]
+the paired slot LV rose
+
+[08055.339752]
+max HP rose
+
+[08055.339768]
+Slot effect: 
+
+[08055.339808]
+Dark
+
+[08055.339816]
+Light
+
+[08055.339824]
+Wind
+
+[08055.339832]
+Fire
+
+[08055.339840]
+Water
+
+[08055.339848]
+Earth
+
+[08055.339856]
+Embody Crystal
+
+[08055.339872]
+Follow-up spell
+
+[08055.339888]
+Mystic
+
+[08055.339896]
+Follow-up arte
+
+[08055.339912]
+{04:07 00 00 00}" earned.
+
+[08055.339936]
+Title "{04:06 00 00 00}
+
+[08055.339952]
+ But it failed somehow.
+
+[08055.339976]
+ was cooked.
+
+[08055.339992]
+'s 
+
+[08055.340024]
+ learnt
+
+[08055.340032]
+Spell
+
+[08055.340040]
+Skill
+
+[08055.340048]
+Enchant
+
+[08055.340064]
+-Mystic Arte-
+
+[08055.340080]
+Set
+
+[08055.340088]
+State
+
+[08055.340096]
+Cook
+
+[08055.340104]
+Added
+
+[08055.340112]
+Tools
+
+[08055.340120]
+Equip
+
+[08055.340128]
+Tactics
+
+[08055.340136]
+Artes
+
+[08055.340144]
+Blew itself up!
+
+[08055.340160]
+Ran away...
+
+[08055.340176]
+Wiped out...
+

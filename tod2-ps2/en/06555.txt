@@ -1,0 +1,190 @@
+[06555.001]
+Realta, the Twilight City: Archive
+
+[06555.002]
+Realta, the Twilight City
+
+[06555.003]
+Archive
+
+[06555.005]
+Hm, what's this?
+
+[06555.007]
+It appears to be a projector. If it is kept here, it must be of value as a record.
+
+[06555.009]
+A film record, huh. This might just be what we're looking for.
+
+[06555.011]
+Stop yammering. Trying it is the quickest way to find out. There!
+
+[06555.013]
+Ah! Y-you fool...!
+
+[06555.015]
+...Now it is plain. History was changed after all. By Elraine's hand.
+
+[06555.017]
+She switched the victor and the loser of the War of Heaven and Earth, and built the world she wanted... a world where people praise and worship a god.
+
+[06555.019]
+Hey, {NAME:04 00 00 00}. There's something I've been thinking all along...
+
+[06555.021]
+If this world came to be, then the world we came from is...
+
+[06555.023]
+I am sorry, but it is as you think. On the line of this twisted history, our world does not exist...
+
+[06555.025]
+Damn it, of all the...!
+
+[06555.027]
+So now it's plain at last. How this world works, I mean.
+
+[06555.029]
+...But I'm not a big enough person to say "Oh, is that so" and just accept it all!
+
+[06555.031]
+Me neither! Elraine made a world like this, and I'll never forgive her!
+
+[06555.033]
+But... the people of this world all seem happy.
+
+[06555.035]
+Huh?
+
+[06555.037]
+...Say, {NAME:01 00 00 00}. Is this world really wrong?
+
+[06555.039]
+True, this world may have been made in a twisted way.
+
+[06555.041]
+But in the end... the people are living happily, aren't they?
+
+[06555.043]
+If it isn't wrong, then my task is over too, and {NAME:01 00 00 00} and I could...
+
+[06555.045]
+{NAME:02 00 00 00}!
+
+[06555.047]
+What's got into you, {NAME:02 00 00 00}! {NAME:02 00 00 00}, are you saying you're fine with things like this!?
+
+[06555.049]
+That's...
+
+[06555.051]
+I'm not! Because there's nobody here!
+
+[06555.053]
+Not Dad, not Mom, not Philia or Woodrow... Nobody!
+
+[06555.055]
+Everyone just vanishing like this... I won't have it!
+
+[06555.057]
+Vanishing...
+
+[06555.059]
+When a person vanishes, the history that person built up vanishes too.
+
+[06555.061]
+A world that exists by denying the history of mankind... I, for one, cannot forgive it!
+
+[06555.063]
+{NAME:04 00 00 00}...
+
+[06555.065]
+...I understand. I'm sorry, everyone. I said something strange...
+
+[06555.067]
+...As long as you understand, that's fine.
+
+[06555.069]
+Let's do it, everyone! We're taking our world back!
+
+[06555.071]
+Yeah! Let's show Elraine what we're made of!
+
+[06555.073]
+But how do we put the world back the way it was?
+
+[06555.075]
+It is simple. We put the history Elraine twisted back as it was.
+
+[06555.077]
+And the power to do that... {NAME:02 00 00 00}... you have.
+
+[06555.079]
+Traveling through time...
+
+[06555.081]
+...I get it!
+We go to the time of the War of
+Heaven and Earth and undo
+what Elraine did!
+
+[06555.083]
+Let's go right now, {NAME:02 00 00 00}! Take us to that time!
+
+[06555.085]
+That cannot be done.
+
+[06555.087]
+Why not!?
+
+[06555.089]
+I don't have the power to take everyone to the past... If only there were Lenses...
+
+[06555.091]
+Oh, right...
+
+[06555.093]
+People who dwell upon the earth... Open your doors and come outside. And receive the blessing of God...
+
+[06555.095]
+That voice... Elraine!
+
+[06555.097]
+Let's go outside!
+
+[06555.098]
+Have a safe journey.
+
+[06555.099]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06555.100]
+Will you stay the night?
+
+[06555.102]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06555.103]
+Please rest well.
+
+[06555.104]
+Good morning.
+
+[06555.105]
+You do not have enough money.
+
+[06555.106]
+We look forward to seeing you again.
+
+[06555.111]
+Obtained {16:25 CE}.
+
+[06555.113]
+Obtained {08:FF FF FF FF}.
+
+[06555.115]
+Found {16:25 D6}, but you can carry no more.
+
+[06555.117]
+There is nothing here.
+

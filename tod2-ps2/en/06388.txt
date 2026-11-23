@@ -1,0 +1,626 @@
+[06388.001]
+Great Temple of Straylize
+
+[06388.002]
+Great Temple of Straylize
+
+[06388.003]
+Straylize Temple
+
+[06388.004]
+Straylize Temple
+
+[06388.005]
+Philia
+
+[06388.007]
+"Report on the Disposal of Philia Bombs"... It seems she disposed of something she mass-produced in her youth.
+
+[06388.009]
+"The Truth of the Uprising over the Eye of God". A nonfiction book that went on sale right after the uprising and became a bestseller.
+
+[06388.011]
+The author seems to be a scientist who took part in developing a weapon called the "Concentrated Lens Cannon".
+
+[06388.013]
+A cabinet holding Philia's personal belongings. Philia's private life is in here...!
+
+[06388.015]
+...That would be a crime, so I decided not to open it. A great pity, though...
+
+[06388.017]
+Books of every sort of genre. Did Philia collect them?
+
+[06388.019]
+"A Reader in Lens Science", "The Origins of the Atamoni Faith", "The Life of Dr. {NAME:06 00 00 00}", "Gel Haters Rule the Titles", and so on.
+
+[06388.020]
+I pray for your safety, and I would like you to have this {08:B1 01 00 00}.
+
+[06388.021]
+Hm hm. Watching you, I am reminded of old times myself.
+
+[06388.022]
+I, who knew nothing of the outside world, ran out of the temple and traveled the world with my companions...
+
+[06388.023]
+There were sad things and hard things, but it was fun...
+
+[06388.024]
+Everyone, take care on your way. I will pray for your safe journey.
+
+[06388.025]
+Please be sure to deliver it.
+
+[06388.026]
+How is little Ginny?
+
+[06388.027]
+If my words can cheer someone up, nothing could make me happier.
+
+[06388.028]
+Philia
+
+[06388.029]
+Hm hm. Watching you, I am reminded of old times myself.
+
+[06388.030]
+I, who knew nothing of the outside world, ran out of the temple and traveled the world with my companions...
+
+[06388.031]
+There were sad things and hard things, but it was fun...
+
+[06388.032]
+Everyone, take care on your way. I will pray for your safe journey.
+
+[06388.033]
+If I was able to help, I am glad.
+
+[06388.034]
+Um... {NAME:04 00 00 00}... haven't we met... somewhere before?
+
+[06388.036]
+...No. I have never met you. You must have mistaken me for someone else.
+
+[06388.037]
+...I see. Forgive me. It seems I was mistaken.
+
+[06388.038]
+Of course... that's right. He could not possibly be alive...
+
+[06388.039]
+{NAME:01 00 00 00}, great hardship may lie in wait on the road ahead of you.
+
+[06388.040]
+But please, never run away. Do not give up on moving forward.
+
+[06388.041]
+However painful it may be, walk the road you chose yourself. As your parents did...
+
+[06388.043]
+Philia...
+
+[06388.044]
+I have a feeling that something terrible is about to happen.
+
+[06388.045]
+The upheaval Hugo once caused... no, something even greater...
+
+[06388.046]
+May the Berselia flower answer your strong wish...
+
+[06388.047]
+May wonderful encounters await you on your journey...
+
+[06388.048]
+Oh, could you be... {NAME:01 00 00 00}?
+
+[06388.050]
+Huh! How did you know?
+
+[06388.051]
+Hm hm! Because you look just like him. The man I once traveled the world with.
+
+[06388.052]
+Welcome, {NAME:01 00 00 00}. As you can see, I cannot offer much hospitality, but please make yourself at home.
+
+[06388.053]
+There is no line.
+
+[06388.055]
+...Yes, she's fine now. Her breathing has settled too.
+
+[06388.057]
+Thank goodness...
+
+[06388.059]
+But you're amazing! Healing an injury that bad in no time at all!
+
+[06388.061]
+...I'm not amazing. I got Philia caught up in it, and on top of that I couldn't even save her...
+
+[06388.063]
+B-but! It's because you were there that her injury could be healed! There's no need to be so down!
+
+[06388.065]
+It's no good... it really is no good... With my power I can't protect even one person. With power like this...
+
+[06388.067]
+...You know, my mom used to say something.
+
+[06388.069]
+"You should reflect on what you did, but you don't have to regret it."
+
+[06388.071]
+Reflecting leads to the future, but regret only ties you to the past, she says.
+
+[06388.073]
+...?
+
+[06388.075]
+So, well, um... You seem to have been regretting things this whole time, and that's not good, is what I...
+
+[06388.076]
+He is quite right.
+
+[06388.078]
+Philia...!
+
+[06388.079]
+The Archbishop stole the "Eye of God" and joined an ambition to rule the world. And I had helped him without knowing it...
+
+[06388.080]
+When I learned that, I regretted everything I had been, and I only wept.
+
+[06388.081]
+And to me, Stahn said "Just crying won't do", and held out his hand.
+
+[06388.082]
+Regret creates nothing. He taught me that, and that is why I am who I am today.
+
+[06388.083]
+I am sorry to say that I do not know the way to meet a hero either.
+
+[06388.084]
+But I do know what you need.
+
+[06388.086]
+What I need...? What is it!?
+
+[06388.087]
+Companions. People like Stahn and Rutee were to me.
+
+[06388.088]
+They believed in my strength when even I could not... And so I, too, could move forward.
+
+[06388.089]
+I think you need people like that as well.
+
+[06388.091]
+Companions...
+
+[06388.093]
+Like Dad and Mom...
+
+[06388.095]
+All right! I'll be one!
+
+[06388.097]
+Huh?
+
+[06388.099]
+I'll be your companion! I'll be with you always, always! That's settled!!
+
+[06388.101]
+If we're together, you'll surely come to see that I'm a hero!
+
+[06388.103]
+Ph-Philia, I...
+
+[06388.104]
+You already have your answer, do you not? Then you must know what to do next.
+
+[06388.106]
+...Will you come with me?
+
+[06388.108]
+Of course! You don't even have to ask!!
+
+[06388.110]
+Thank you...
+
+[06388.112]
+Oh yeah! What should I call you? I can't keep saying "you" forever.
+
+[06388.114]
+...{NAME:02 00 00 00}.
+
+[06388.116]
+{NAME:02 00 00 00}... Nice to meet you all over again, {NAME:02 00 00 00}!
+
+[06388.118]
+...Yes! Nice to meet you, {NAME:01 00 00 00}!
+
+[06388.120]
+...Hey, am I being left out?
+
+[06388.122]
+Ah! S-sorry, {NAME:03 00 00 00}. I didn't mean it like that...
+
+[06388.124]
+Then how did you mean it? Let's hear all about it. We're "companions", after all!
+
+[06388.126]
+Hm hm hm... Ahaha!
+
+[06388.128]
+Ah! Wait, {NAME:04 00 00 00}!
+
+[06388.130]
+Why you, don't run off!!
+
+[06388.132]
+Ah! Philia, see you!
+
+[06388.134]
+{NAME:02 00 00 00}! Come on, hurry!
+
+[06388.136]
+Philia, take good care of yourself!
+
+[06388.138]
+...Hey, wait up, {NAME:01 00 00 00}!
+
+[06388.140]
+W-well then, Philia, I'll be...
+
+[06388.141]
+{NAME:02 00 00 00}.
+
+[06388.142]
+Can you hear it, {NAME:02 00 00 00}? The sound of my heart, beating, beating.
+
+[06388.143]
+This sound... my life... was protected by you.
+
+[06388.145]
+Philia...
+
+[06388.146]
+You do have real power. The power to save people... So please, believe in yourself more.
+
+[06388.148]
+...Yes!
+
+[06388.150]
+Goodbye, then, Philia. Thank you so much!
+
+[06388.151]
+...What curious children. {NAME:02 00 00 00}. And {NAME:01 00 00 00}.
+
+[06388.152]
+Hm hm! His hair, his face, and even the things he says are just like that man's...
+
+[06388.153]
+...{NAME:01 00 00 00}? Why, of course! Stahn and Rutee's child was...!
+
+[06388.154]
+...{NAME:02 00 00 00}. What you are looking for may be closer than you think.
+
+[06388.155]
+Oh, hello.
+
+[06388.156]
+A letter for me? Thank you very much.
+
+[06388.157]
+This is... You must be at a loss.
+
+[06388.158]
+I will write a reply, so please wait a little.
+
+[06388.160]
+Dear Virginia,
+
+[06388.162]
+I have read your letter.
+
+[06388.164]
+You ask: is there really a Santa Claus?...
+
+[06388.166]
+............
+
+[06388.167]
+This is my reply. Please be sure to give it to little Ginny.
+
+[06388.169]
+Received Philia's reply.
+
+[06388.170]
+I am counting on you.
+
+[06388.171]
+Oh, {NAME:01 00 00 00}! And everyone. It has been a while.
+
+[06388.173]
+Hello, Philia!
+
+[06388.175]
+...Philia, we came today because there's something we want to ask your advice on.
+
+[06388.176]
+...From the look of you, you must be deeply troubled.
+
+[06388.177]
+Please, tell me. If there is anything I can do, I will help.
+
+[06388.178]
+So that is what happened... As one who belongs to the Order of Atamoni myself, I have very mixed feelings.
+
+[06388.179]
+{NAME:01 00 00 00}, {NAME:02 00 00 00}, it must have been very painful for you both.
+
+[06388.181]
+I'm all right. Compared with what {NAME:01 00 00 00} is going through, it's nothing.
+
+[06388.182]
+...You are strong, {NAME:02 00 00 00}.
+
+[06388.184]
+...Philia, I've been agonizing all this time over what I should do. But I can't find an answer, and so...
+
+[06388.185]
+...I understand. It may not be of much help, but let me tell you about us, long ago.
+
+[06388.186]
+As you may know, we too were forced to make a painful choice on our journey over the Eye of God.
+
+[06388.187]
+We had no choice but to fight someone who had been our companion.
+
+[06388.188]
+His name was Leon Magnus. Behind eyes as cold as ice, he hid a warmer heart than anyone.
+
+[06388.190]
+Wasn't it painful for you all, then?
+
+[06388.191]
+Of course it was a painful battle. Far more than any before it...
+
+[06388.192]
+But I had no regrets. Even now, eighteen years later, that feeling has not changed.
+
+[06388.194]
+But he was a companion who'd fought beside you, wasn't he? I could never do something like that...!
+
+[06388.195]
+We can live without regret because it was all something we chose for ourselves.
+
+[06388.197]
+Chose for yourselves...?
+
+[06388.198]
+Until then, I had always run from deciding anything for myself.
+
+[06388.199]
+As a result, the Eye of God was carried off from the temple and the world was put in peril.
+
+[06388.200]
+The ones who saved me were Stahn and Rutee, and Leon and the others.
+
+[06388.202]
+Dad and the others...?
+
+[06388.203]
+They taught me how precious it is to live by my own will.
+
+[06388.204]
+And at the same time, how hard it is...
+
+[06388.205]
+I can only imagine now, but I believe Leon, too, does not regret the decision he made then.
+
+[06388.206]
+For it was a noble decision, made to protect the one he loved...
+
+[06388.208]
+........
+........
+
+[06388.210]
+Your decision too...
+
+[06388.211]
+Huh?
+
+[06388.213]
+Your decision, and the decision of that man Leon, were by no means mistaken.
+
+[06388.215]
+If he were here, I am sure that is what he would have said.
+
+[06388.216]
+...Thank you, {NAME:04 00 00 00}.
+
+[06388.218]
+Philia... Thank you so much.
+
+[06388.220]
+A little... only a little, but I feel like I understand something now.
+
+[06388.221]
+I see. If I was able to help, I am glad.
+
+[06388.222]
+...{NAME:01 00 00 00}. One last thing.
+
+[06388.223]
+This may be a cruel thing to say to you when you are so troubled, but...
+
+[06388.224]
+Whatever you do, do not run away. This is something only you can decide.
+
+[06388.225]
+Because to {NAME:02 00 00 00}, you are the hero...
+
+[06388.227]
+Yes... I know that... or I think I do.
+
+[06388.228]
+...I see. So that happened in Hope Town...
+
+[06388.230]
+And the child's life...
+
+[06388.231]
+I am sorry to say... the cleric's judgment is correct.
+
+[06388.232]
+With an illness showing those symptoms, short of a miracle there is no saving the child...
+
+[06388.234]
+Isn't there any other way!?
+
+[06388.236]
+Please! I want to save that kid no matter what!!
+
+[06388.237]
+...All that remains is for you yourselves to work a miracle...
+
+[06388.238]
+There is just one medicine that cures that ancient disease, but preparing it is next to a miracle.
+
+[06388.240]
+What do we have to do?
+
+[06388.241]
+To prepare the medicine, you need a Berselia flower.
+
+[06388.243]
+A Berselia flower? Don't tell me it only grows at the ends of the earth?
+
+[06388.244]
+No... I have the seed here.
+
+[06388.246]
+So we just have to make this bloom?
+
+[06388.247]
+The trouble is, there is no longer any way to make it bloom.
+
+[06388.249]
+What do you mean!?
+
+[06388.250]
+This plant cannot bloom without the help of the power of a special ore.
+
+[06388.252]
+A special ore?
+
+[06388.253]
+That ore is the substance once used, they say, to amplify the power of Lenses...
+
+[06388.254]
+A very dangerous stone, said to have produced the destructive force of Belcrant, the weapon of the sky city Dycroft...
+
+[06388.256]
+It can't be... the "Eye of God"?
+
+[06388.257]
+Yes... And the last of that ore remaining on the surface was shattered by us, eighteen years ago.
+
+[06388.259]
+So it doesn't exist anywhere anymore?
+
+[06388.260]
+I do not know... But I would think that finding it is next to impossible.
+
+[06388.262]
+...But "next to impossible" means it's not impossible, right...
+
+[06388.263]
+But...
+
+[06388.265]
+Please give me that seed! I'll make that flower bloom, I swear.
+
+[06388.267]
+I don't really know why I'm going this far for that kid, but...
+
+[06388.269]
+But I want to save the kid, no matter what!!
+
+[06388.270]
+...Very well. If you manage to make the flower bloom, please bring it to me...
+
+[06388.272]
+Obtained the Berselia seed.
+
+[06388.273]
+May the flower answer your strong wish...
+
+[06388.274]
+I can't believe it... You really made the Berselia flower bloom...!!
+
+[06388.276]
+Philia, sorry to rush you, but the medicine, quick...!!
+
+[06388.277]
+Y-yes... of course! With this flower, all that remains is to brew it and...
+
+[06388.278]
+It's done! This is the secret medicine of Berselia!!
+
+[06388.280]
+Obtained the secret medicine of Berselia.
+
+[06388.282]
+With this, the illness will be cured, right?
+
+[06388.283]
+No... When the patient takes this medicine, the body's functions are lowered for a time.
+
+[06388.284]
+During that time, someone must nurse the patient for several days without sleep, so that the condition does not take a sudden turn.
+
+[06388.286]
+Trouble right to the end... Well, anyway, let's get this medicine to the kid.
+
+[06388.287]
+Have a safe journey.
+
+[06388.288]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06388.289]
+Will you stay the night?
+
+[06388.291]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06388.292]
+Please rest well.
+
+[06388.293]
+Good morning.
+
+[06388.294]
+You do not have enough money.
+
+[06388.295]
+We look forward to seeing you again.
+
+[06388.300]
+Obtained {16:26 36}.
+
+[06388.302]
+Obtained {08:FF FF FF FF}.
+
+[06388.304]
+Found {16:26 3E}, but you can carry no more.
+
+[06388.306]
+There is nothing here.
+

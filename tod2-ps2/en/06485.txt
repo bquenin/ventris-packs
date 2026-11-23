@@ -1,0 +1,58 @@
+[06485.001]
+Heat River
+
+[06485.002]
+Heat River
+
+[06485.003]
+Heat River
+
+[06485.004]
+Heat River
+
+[06485.006]
+Ow ow ow ow! H-hot~!
+
+[06485.008]
+...That's odd. It's a hot place, sure, but this heat isn't normal.
+
+[06485.010]
+Anyway, let's go on a little farther.
+
+[06485.011]
+Have a safe journey.
+
+[06485.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06485.013]
+Will you stay the night?
+
+[06485.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06485.016]
+Please rest well.
+
+[06485.017]
+Good morning.
+
+[06485.018]
+You do not have enough money.
+
+[06485.019]
+We look forward to seeing you again.
+
+[06485.024]
+Obtained {16:25 D6}.
+
+[06485.026]
+Obtained {08:FF FF FF FF}.
+
+[06485.028]
+Found {16:25 DE}, but you can carry no more.
+
+[06485.030]
+There is nothing here.
+

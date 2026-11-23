@@ -1,0 +1,145 @@
+[06595.001]
+Dycroft
+
+[06595.002]
+Dycroft
+
+[06595.003]
+Dymlos
+
+[06595.004]
+Lieutenant General Dymlos Timber, Junkers Corps, Surface Army. I have come to bring you home!
+
+[06595.005]
+Atwight
+
+[06595.006]
+Dymlos...! Lieutenant General...
+
+[06595.007]
+Clemente
+
+[06595.008]
+Ah, Dymlos! Good of you to come.
+
+[06595.009]
+Dymlos
+
+[06595.010]
+Master Clemente, I am glad to find you safe.
+
+[06595.011]
+Clemente
+
+[06595.012]
+Well, I can hardly drop dead in a place like this. "Old soldiers never die."
+
+[06595.013]
+Dymlos
+
+[06595.014]
+I come by order of Litler, Commander-in-Chief of the Surface Army. We welcome you.
+
+[06595.015]
+Raditz
+
+[06595.016]
+On behalf of the Belcrant developers, I thank you. Thank you, Dymlos.
+
+[06595.017]
+Igtenos
+
+[06595.018]
+We must hurry, Lieutenant General Dymlos. Pursuers will be here too before long.
+
+[06595.019]
+Dymlos
+
+[06595.020]
+Yes, understood.
+
+[06595.021]
+Dymlos
+
+[06595.022]
+We now make for the hangar, breaking straight through the enemy. On no account leave our side.
+
+[06595.023]
+Dymlos
+
+[06595.024]
+As first planned, take over the control room and shut Dycroft down for a time.
+
+[06595.026]
+Just you leave it to me.
+
+[06595.027]
+Dymlos
+
+[06595.028]
+The moment they know the control room has fallen, all the enemy's attention turns that way. Take great care.
+
+[06595.030]
+I know, I know. Now hurry up.
+
+[06595.031]
+Dymlos
+
+[06595.032]
+{NAME:01 00 00 00}.
+
+[06595.034]
+Y-yes, sir!
+
+[06595.035]
+Dymlos
+
+[06595.036]
+I leave {NAME:06 00 00 00} in your hands. We will be waiting in the hangar!
+
+[06595.038]
+Looks like we've earned a little respect?
+
+[06595.040]
+...Yeah, looks like it!
+
+[06595.042]
+All right, let's show them! Come on, everyone!
+
+[06595.043]
+Have a safe journey.
+
+[06595.044]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06595.045]
+Will you stay the night?
+
+[06595.047]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06595.048]
+Please rest well.
+
+[06595.049]
+Good morning.
+
+[06595.050]
+You do not have enough money.
+
+[06595.051]
+We look forward to seeing you again.
+
+[06595.056]
+Obtained {16:25 BA}.
+
+[06595.058]
+Obtained {08:FF FF FF FF}.
+
+[06595.060]
+Found {16:25 C2}, but you can carry no more.
+
+[06595.062]
+There is nothing here.
+

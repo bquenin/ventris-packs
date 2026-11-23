@@ -1,0 +1,761 @@
+[06444.001]
+Heidelberg: Church
+
+[06444.002]
+Heidelberg
+
+[06444.003]
+Church
+
+[06444.004]
+Cleric
+
+[06444.005]
+Do the people of this city not wish to be happy?
+
+[06444.006]
+Cleric
+
+[06444.007]
+In this city there is hardly anyone who donates to the Order of Atamoni.
+
+[06444.008]
+Cleric
+
+[06444.009]
+Do they not wish to be happy, I wonder?
+
+[06444.011]
+They are happy enough without donating, I expect.
+
+[06444.012]
+Cleric
+
+[06444.013]
+In every other city the place overflows with people donating to the Order of Atamoni...
+
+[06444.014]
+Cleric
+
+[06444.015]
+Um, you people, could you be... no, surely not...
+
+[06444.016]
+Cleric
+
+[06444.017]
+Could it be... that the two of you have come to donate Lenses...?
+
+[06444.019]
+No, nothing like that...
+
+[06444.020]
+Cleric
+
+[06444.021]
+Haah, I thought as much... As if the people here would come to donate...
+
+[06444.022]
+Cleric
+
+[06444.023]
+Why don't the people of this city come to donate Lenses...
+
+[06444.024]
+Cleric
+
+[06444.025]
+Wh-what! What was that boom!!
+
+[06444.026]
+Cleric
+
+[06444.027]
+There, you see... The people don't donate Lenses, and so misfortune has come upon the city!
+
+[06444.028]
+Cleric
+
+[06444.029]
+Ahh! What if we get caught up in it too!!
+
+[06444.030]
+Cleric
+
+[06444.031]
+If everyone had donated, we would have had Atamoni's protection...
+
+[06444.032]
+Cleric
+
+[06444.033]
+Is something troubling you? Come anytime you are in need.
+
+[06444.034]
+Cleric
+
+[06444.035]
+In this city there is hardly anyone who donates to the Order of Atamoni.
+
+[06444.036]
+Cleric
+
+[06444.037]
+Haah... At this rate, the Lenses donated today will again be zero.
+
+[06444.038]
+Cleric
+
+[06444.039]
+I crossed the sea to lead everyone to happiness... but it seems I am not needed...
+
+[06444.040]
+Cleric
+
+[06444.041]
+Is our missionary work falling short...
+
+[06444.042]
+Cleric
+
+[06444.043]
+We must spread word of the Order of Atamoni's wonders more widely...
+
+[06444.044]
+Cleric
+
+[06444.045]
+I must do something so that the people will come to visit here...
+
+[06444.046]
+Cleric
+
+[06444.047]
+Everyone, please, think of it as being tricked and offer your Lenses...
+
+[06444.048]
+Cleric
+
+[06444.049]
+No... if I use the word "tricked", it sounds as if I really am tricking them...
+
+[06444.050]
+Cleric
+
+[06444.051]
+If they saw Lady Elraine's power, they would surely understand...
+
+[06444.052]
+Cleric
+
+[06444.053]
+This very confusion is our chance to show the people the worth of the Order of Atamoni.
+
+[06444.054]
+Cleric
+
+[06444.055]
+If we save everyone from the confusion, from now on they will surely rely on the Order!
+
+[06444.056]
+Cleric
+
+[06444.057]
+But how are we, who have no power at all, to save everyone...
+
+[06444.059]
+What good are you lot if you're the ones in confusion?
+
+[06444.060]
+Cleric
+
+[06444.061]
+Ahh... somehow I must make myself useful to the people...
+
+[06444.062]
+Cleric
+
+[06444.063]
+Haah... Peace is a good thing, but when it's this peaceful it's dull...
+
+[06444.064]
+Cleric
+
+[06444.065]
+Haah... At this rate, the Lenses donated today will again be zero.
+
+[06444.066]
+Regina
+
+[06444.067]
+It will soon be the Nativity Festival.
+
+[06444.068]
+Let us get the children's presents ready.
+
+[06444.069]
+On the night of the Nativity Festival, Santa comes and gives lovely presents.
+
+[06444.070]
+I want to treasure the children's dreams.
+
+[06444.071]
+There is a girl called Ginny in this church.
+
+[06444.072]
+She is a very pure child.
+
+[06444.073]
+Ginny is a very honest child.
+
+[06444.074]
+I want to make her wish come true.
+
+[06444.075]
+That child truly believes in Santa.
+
+[06444.076]
+It is heartwarming, isn't it.
+
+[06444.077]
+Ginny has no family, and lives here in the church.
+
+[06444.078]
+She is a very good child.
+
+[06444.079]
+Little Saga is a good child too, but she is the very opposite of Ginny.
+
+[06444.080]
+Little Saga is a sensible child.
+
+[06444.081]
+But perhaps she would do well to have a few more dreams.
+
+[06444.082]
+The next courier... will not be for quite some time.
+
+[06444.083]
+I do hope we receive a good reply...
+
+[06444.084]
+I cannot find the words to say to Ginny.
+
+[06444.085]
+What would Lady Philia do at a time like this?
+
+[06444.086]
+Did you receive a reply from Lady Philia?
+
+[06444.087]
+I want to treasure Ginny's gentle heart.
+
+[06444.088]
+Thanks to Lady Philia, the children's smiles were not lost.
+
+[06444.089]
+I am grateful beyond words.
+
+[06444.090]
+Dreams and hope... We must not forget them even when we grow up.
+
+[06444.091]
+This child is like an only daughter to me.
+
+[06444.092]
+A girl called Ginny lives in this church.
+
+[06444.093]
+This child is Virginia. Those close to her call her Ginny.
+
+[06444.094]
+Where has Ginny got to?
+
+[06444.095]
+Ginny
+
+[06444.096]
+I really believed.
+
+[06444.097]
+Ginny
+
+[06444.098]
+The truth is, I already know...
+
+[06444.099]
+Ginny
+
+[06444.100]
+Part of me is pinning my hopes on Lady Philia...
+
+[06444.101]
+Ginny
+
+[06444.102]
+I wish there really were a Santa...
+
+[06444.103]
+Ginny
+
+[06444.104]
+Now that I've been told the facts, have I grown up a little too?
+
+[06444.105]
+Ginny
+
+[06444.106]
+But somehow I feel sad.
+
+[06444.107]
+Ginny
+
+[06444.108]
+I'd like to meet Philia too.
+
+[06444.109]
+Ginny
+
+[06444.110]
+I believe in Santa.
+
+[06444.111]
+Ginny
+
+[06444.112]
+I'm a little ashamed that I stopped being able to believe in Santa.
+
+[06444.113]
+Ginny
+
+[06444.114]
+My name's Virginia. You can call me Ginny.
+
+[06444.115]
+Saga
+
+[06444.116]
+I said something bad.
+
+[06444.117]
+Saga
+
+[06444.118]
+I hope you get a good reply.
+
+[06444.119]
+Saga
+
+[06444.120]
+What did Lady Philia say?
+
+[06444.121]
+Saga
+
+[06444.122]
+Yes, that's right. I was wrong.
+
+[06444.123]
+Saga
+
+[06444.124]
+I used to believe too, once...
+
+[06444.125]
+Saga
+
+[06444.126]
+I had forgotten something important.
+
+[06444.127]
+Saga
+
+[06444.128]
+Lady Philia's words opened my eyes.
+
+[06444.129]
+Regina
+
+[06444.130]
+It will soon be the Nativity Festival.
+
+[06444.131]
+Ginny
+
+[06444.132]
+Yes! I wonder if Santa will come this year too?
+
+[06444.133]
+Regina
+
+[06444.134]
+What would you like, Ginny?
+
+[06444.135]
+Ginny
+
+[06444.136]
+Um... a pretty ribbon, maybe.
+
+[06444.137]
+Regina
+
+[06444.138]
+I see... I'm sure Santa will give you one.
+
+[06444.139]
+Ginny
+
+[06444.140]
+Yes, I can't wait.
+
+[06444.141]
+Ginny
+
+[06444.142]
+Oh no, I just remembered I promised to play with Saga.
+
+[06444.143]
+Ginny
+
+[06444.144]
+I'm off, Grandma.
+
+[06444.145]
+Regina
+
+[06444.146]
+Off you go. Take care.
+
+[06444.147]
+Regina
+
+[06444.148]
+Oh my, what is the matter?
+
+[06444.149]
+Ginny
+
+[06444.150]
+You know, Saga said there's no Santa...
+
+[06444.151]
+Regina
+
+[06444.152]
+There is no Santa?
+
+[06444.153]
+Ginny
+
+[06444.154]
+She said it's really the Father who gives the presents...
+
+[06444.155]
+Ginny
+
+[06444.156]
+Is it true, is there really no Santa?
+
+[06444.157]
+Ginny
+
+[06444.158]
+Was it the Father who gave me my present?
+
+[06444.159]
+Ginny
+
+[06444.160]
+Have I been a bother?
+
+[06444.161]
+Regina
+
+[06444.162]
+Not at all. You always help with the work, Ginny.
+
+[06444.163]
+Ginny
+
+[06444.164]
+But...
+
+[06444.165]
+Saga
+
+[06444.166]
+I know, Ginny. Why not write a letter and ask whether there really is a Santa?
+
+[06444.167]
+Ginny
+
+[06444.168]
+A letter? Who would I ask?
+
+[06444.169]
+Saga
+
+[06444.170]
+Lady Philia, of the Great Temple of Straylize.
+
+[06444.171]
+Ginny
+
+[06444.172]
+Lady Philia?
+
+[06444.173]
+Saga
+
+[06444.174]
+Yes. Lady Philia will surely tell you the truth.
+
+[06444.175]
+Regina
+
+[06444.176]
+Yes, that is a good idea.
+
+[06444.177]
+Ginny
+
+[06444.178]
+All right, I will.
+
+[06444.180]
+Hello, Philia.
+
+[06444.182]
+I am writing today because there is something I would like you to tell me.
+
+[06444.184]
+It is about Santa, who gives us presents on the night of the Nativity Festival.
+
+[06444.186]
+Until today I truly thought there was a Santa...
+
+[06444.188]
+........
+
+[06444.189]
+Ginny
+
+[06444.190]
+Phew, it's written.
+
+[06444.191]
+Ginny
+
+[06444.192]
+But now I'm stuck.
+
+[06444.193]
+Ginny
+
+[06444.194]
+How am I to get this letter to Lady Philia...
+
+[06444.195]
+Ginny
+
+[06444.196]
+Could it be that you know Philia?{02}
+
+[06444.198]
+{03:00 00 00 00}　I'll deliver it　
+　I'm busy just now　
+
+[06444.199]
+Ginny
+
+[06444.200]
+Really? Thank you so much!
+
+[06444.201]
+Ginny
+
+[06444.202]
+Then would you take this letter to Lady Philia at the Great Temple of Straylize?
+
+[06444.204]
+Received Ginny's letter.
+
+[06444.205]
+Ginny
+
+[06444.206]
+I am counting on you, then.
+
+[06444.207]
+Ginny
+
+[06444.208]
+Of course, I'm sorry.
+
+[06444.209]
+Ginny
+
+[06444.210]
+Haah, what am I to do...
+
+[06444.211]
+Ginny
+
+[06444.212]
+Is this the reply from Lady Philia?
+
+[06444.213]
+Ginny
+
+[06444.214]
+Thank you very much.
+
+[06444.215]
+Saga
+
+[06444.216]
+What's wrong? Aren't you going to read it?
+
+[06444.217]
+Ginny
+
+[06444.218]
+Somewhere in my heart, I was hoping no reply would come.
+
+[06444.219]
+Regina
+
+[06444.220]
+Don't say such a thing...
+
+[06444.221]
+Ginny
+
+[06444.222]
+Yes, I know. Don't worry, Grandma.
+
+[06444.224]
+Dear Virginia,
+
+[06444.226]
+I have read your letter.
+
+[06444.228]
+You ask: is there really a Santa?
+
+[06444.230]
+Of course there is a Santa.
+
+[06444.232]
+It may be true, as your friend says, that nobody has seen Santa.
+
+[06444.234]
+But if nobody has seen him, does that mean he is not really there?
+
+[06444.236]
+Can we not believe in Santa because we cannot see him?
+
+[06444.238]
+I hope that I can give many people kindness and love, dreams and hope.
+
+[06444.240]
+I wish to be so, as I have until now and from now on, and to act so.
+
+[06444.242]
+For I believe we need things that are uncertain and cannot be seen, like dreams and hope.
+
+[06444.244]
+From the moment you come to think there is no Santa, Ginny, Santa will be gone.
+
+[06444.246]
+I think that the things that truly matter in this world may be the things that cannot be seen.
+
+[06444.248]
+Please do not say anything so sad as that you cannot believe because you cannot see.
+
+[06444.250]
+As long as you believe, Ginny, Santa will surely be there in your heart.
+
+[06444.252]
+Close your eyes and think back to the night of the Nativity Festival.
+
+[06444.254]
+To that time when you slipped into bed all excited and could hardly get to sleep.
+
+[06444.256]
+To that thrill when you woke in the morning and found a present in your worn old stocking.
+
+[06444.258]
+That is Santa.
+
+[06444.260]
+As long as there are children's gentle hearts all over the world, he will live on in those hearts forever.
+
+[06444.262]
+May Santa be with your gentle heart always, Ginny.
+
+[06444.264]
+From Philia Felice, who would like to be Ginny's friend
+
+[06444.265]
+Ginny
+
+[06444.266]
+Yes, that's right.
+
+[06444.267]
+Ginny
+
+[06444.268]
+I forgot something important, and worried over something so trivial...
+
+[06444.269]
+Ginny
+
+[06444.270]
+{NAME:E8 03 00 00}, I'm all right now. Thank you so much.
+
+[06444.271]
+Ginny
+
+[06444.272]
+Please tell Philia that thanks to her, Virginia is cheerful again.
+
+[06444.273]
+Have a safe journey.
+
+[06444.274]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06444.275]
+Will you stay the night?
+
+[06444.277]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06444.278]
+Please rest well.
+
+[06444.279]
+Good morning.
+
+[06444.280]
+You do not have enough money.
+
+[06444.281]
+We look forward to seeing you again.
+
+[06444.286]
+Obtained {16:25 CA}.
+
+[06444.288]
+Obtained {08:FF FF FF FF}.
+
+[06444.290]
+Found {16:25 D2}, but you can carry no more.
+
+[06444.292]
+There is nothing here.
+

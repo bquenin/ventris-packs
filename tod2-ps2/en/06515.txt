@@ -1,0 +1,283 @@
+[06515.001]
+Calviola, the Holy Land
+
+[06515.002]
+Calviola, the Holy Land
+
+[06515.012]
+Amazing, it's as big as the one we saw in the Laguna Ruins!
+
+[06515.014]
+Well, will this do it?
+
+[06515.016]
+Yes. But more than that...
+
+[06515.018]
+...You are here, aren't you? Answer me, Fortuna.
+
+[06515.019]
+Fortuna
+
+[06515.020]
+...You have done well to come, my Saint...
+
+[06515.022]
+Wh-what is this!?
+
+[06515.024]
+{NAME:02 00 00 00}, you did say Fortuna, didn't you!?
+
+[06515.026]
+Then this is...
+
+[06515.028]
+Fortuna... A god that exists here and now...
+
+[06515.030]
+Is it... real... A real god...!
+
+[06515.031]
+Fortuna
+
+[06515.032]
+I know why you have come here. By my power, I will grant your wish.
+
+[06515.033]
+Fortuna
+
+[06515.034]
+But before that, there is one thing I must ask.
+
+[06515.036]
+...Yes.
+
+[06515.037]
+Fortuna
+
+[06515.038]
+Elraine has already determined what she herself must do.
+
+[06515.039]
+Fortuna
+
+[06515.040]
+And she acts to that end, and has won the trust of many people.
+
+[06515.042]
+...That may be so. But...!
+
+[06515.043]
+Fortuna
+
+[06515.044]
+I know. That you walk a different road from Elraine.
+
+[06515.045]
+Fortuna
+
+[06515.046]
+Two Saints, two roads... That is the fate I gave to you and to Elraine.
+
+[06515.047]
+Fortuna
+
+[06515.048]
+But though the roads differ, the wish should be the same. {NAME:02 00 00 00}, never forget our purpose.
+
+[06515.050]
+...Yes.
+
+[06515.052]
+W-wait, {NAME:02 00 00 00}!
+
+[06515.054]
+Two Saints, leading the people... What on earth is all this about!?
+
+[06515.056]
+That's...
+
+[06515.057]
+Fortuna
+
+[06515.058]
+The two Saints are my deputies. They are the ones who lead the people to salvation.
+
+[06515.060]
+The deputies... of a god!?
+
+[06515.061]
+Fortuna
+
+[06515.062]
+The people's longing for salvation brought forth me, and the two Saints.
+
+[06515.063]
+Fortuna
+
+[06515.064]
+One is Elraine. And the other is {NAME:02 00 00 00}, who stands there.
+
+[06515.065]
+Fortuna
+
+[06515.066]
+The two took different roads, and each set out on a journey to seek the form the people's salvation should take.
+
+[06515.068]
+Then, then! What Elraine's trying to do is... to save people!?
+
+[06515.070]
+No... That's a lie!
+
+[06515.072]
+She had Barbatos attack Woodrow, and she stole the Lenses!
+
+[06515.073]
+Fortuna
+
+[06515.074]
+Elraine must have thought that in the end it would lead to the people's salvation.
+
+[06515.076]
+That's... wrong! Woodrow really was hurt!
+
+[06515.077]
+Fortuna
+
+[06515.078]
+Wrong? ...Why do you think so?
+
+[06515.079]
+Fortuna
+
+[06515.080]
+You saw Aigrette, did you not? The people live happily in a safe and comfortable city.
+
+[06515.082]
+True, if you knew nothing else, even that might be happiness.
+
+[06515.084]
+But... is taking children from their parents happiness?
+
+[06515.086]
+They've lost the feeling of being alive. Is that really happiness?
+
+[06515.088]
+That's right! It is wrong, after all! Elraine and Fortuna have both got it wrong!
+
+[06515.090]
+You think so too, {NAME:02 00 00 00}, don't you!? Tell her! That that isn't happiness at all!
+
+[06515.092]
+What's the matter with you, {NAME:02 00 00 00}! Why are you keeping quiet!
+
+[06515.094]
+I too...
+
+[06515.096]
+What?
+
+[06515.098]
+I too think Elraine is wrong.
+
+[06515.100]
+But Elraine has power! There are people who feel happy thanks to her!
+
+[06515.102]
+...But I have no power at all! I haven't even a hero!
+
+[06515.104]
+I have made not one person happy, and I don't even know how it can be done...
+
+[06515.106]
+No... that's not true! You've got amazing power, {NAME:02 00 00 00}...!
+
+[06515.108]
+Stop it! You understand nothing, so don't say irresponsible things!
+
+[06515.110]
+Don't understand... I!
+
+[06515.112]
+You understand nothing! Not the weight of bearing a mission, nor what true power is!
+
+[06515.114]
+I would not!
+
+[06515.116]
+You don't understand!
+
+[06515.118]
+Because you, {NAME:01 00 00 00}, are neither a Saint...
+
+[06515.120]
+...nor a hero!
+
+[06515.122]
+...!?
+
+[06515.124]
+...Fortuna. Send us to the era of ten years ago.
+
+[06515.125]
+Fortuna
+
+[06515.126]
+Very well. Go, my Saint.
+
+[06515.127]
+Fortuna
+
+[06515.128]
+May good fortune be with you... When all is over, we shall meet again, {NAME:02 00 00 00}.
+
+[06515.130]
+{NAME:02 00 00 00} earned the title "{08:1C 08 00 00}".
+
+[06515.132]
+The Lens is gone...
+
+[06515.134]
+This looks like the place, all right. Elraine's in here, I bet.
+
+[06515.136]
+Right, let's go!
+
+[06515.137]
+Have a safe journey.
+
+[06515.138]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06515.139]
+Will you stay the night?
+
+[06515.141]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06515.142]
+Please rest well.
+
+[06515.143]
+Good morning.
+
+[06515.144]
+You do not have enough money.
+
+[06515.145]
+We look forward to seeing you again.
+
+[06515.150]
+Obtained {16:27 CE}.
+
+[06515.152]
+Obtained {08:FF FF FF FF}.
+
+[06515.154]
+Found {16:27 D6}, but you can carry no more.
+
+[06515.156]
+There is nothing here.
+

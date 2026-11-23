@@ -1,0 +1,21 @@
+[00634.001]
+Still... trial model or not, you beat my HRX-2. {NAME:01 00 00 00}, you're stronger than you look. I'm interested in you. Hey, come with me for a bit later!
+
+[00634.002]
+Eh!? Y-you can't do that!
+
+[00634.003]
+Hm? Then shall I dissect you too?
+
+[00634.004]
+Dissect...?
+
+[00634.005]
+Yup. To study what the body can do.
+
+[00634.006]
+Ah, I-I'll pass... You go ahead alone, {NAME:06 00 00 00}.
+
+[00634.007]
+W-wait! No, {NAME:06 00 00 00}! No dissecting!
+

@@ -1,0 +1,24 @@
+[00108.001]
+Hey, {NAME:03 00 00 00}. You were in the Order of Atamoni, so you must have met Philia the hero, right?
+
+[00108.002]
+Only a glimpse from far off. Small fry like us get sent to the provinces. We hardly get the chance.
+
+[00108.003]
+And? And? What was she like?
+
+[00108.004]
+A brainy beauty who suits her glasses...... Heh... Rutee's type is good too, but that pure, big-sister type really gets you in its own way...
+
+[00108.005]
+Not that! Come on, there's more, isn't there? A hero's aura about her, a mighty spirit!
+
+[00108.006]
+Dunno.
+
+[00108.007]
+"Dunno"? Is "pretty or not" the only thing you go by, {NAME:03 00 00 00}!?
+
+[00108.008]
+Yes! What else is there!
+

@@ -1,0 +1,23 @@
+[06275.4788]
+Apple Gel
+
+[06275.4801]
+Red Slime
+
+[06275.4816]
+Lens
+
+[06275.4823]
+Is this a gel?
+Or a lens?
+Or else a slime?
+
+[06275.4878]
+Right.
+
+[06275.4887]
+Wrong!
+
+[06275.4896]
+Time's up.
+

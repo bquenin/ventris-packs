@@ -1,0 +1,133 @@
+[06567.001]
+Surface Army Base
+
+[06567.002]
+Surface Army Base
+
+[06567.003]
+Black Marketeer
+
+[06567.004]
+Heheh... Hey, boys. I've got some good stuff. Care to take a look?
+
+[06567.006]
+Hey, you! Isn't that army property!? Trading in equipment is supposed to be forbidden!
+
+[06567.007]
+Dealer
+
+[06567.008]
+Whoa! Trouble! She's with the army!
+
+[06567.009]
+Black Marketeer
+
+[06567.010]
+Sorry, boys! Come back when that girl's not around!
+
+[06567.011]
+Heheh... Thanks.
+
+[06567.012]
+Heheh... See you.
+
+[06567.013]
+Black Marketeer
+
+[06567.014]
+Dealer
+
+[06567.015]
+Hey, how much is the Liqueur Bottle?
+
+[06567.016]
+Black Marketeer
+
+[06567.017]
+Heheh... That one runs a bit high. Liquor's precious, you see.
+
+[06567.018]
+Dealer
+
+[06567.019]
+Tch, taking advantage. I bet this was sold off out of army stores too, wasn't it?
+
+[06567.020]
+Dealer
+
+[06567.021]
+Damn those soldiers. How long do they mean to make us civilians live like this?
+
+[06567.022]
+Dealer
+
+[06567.023]
+Whether the Surface Army wins or the Heavenly Army wins, there won't be much in it.
+
+[06567.024]
+Dealer
+
+[06567.025]
+I don't care how, just end the war quick...
+
+[06567.026]
+Dealer
+
+[06567.027]
+Looks like the war's coming to a head at last. The soldiers are in a flap.
+
+[06567.028]
+Dealer
+
+[06567.029]
+The Surface Army doesn't have to win. If the war just ends, that's enough.
+
+[06567.030]
+Dealer
+
+[06567.031]
+When the war ends, what will become of the war criminals, I wonder.
+
+[06567.032]
+Dealer
+
+[06567.033]
+Executed at worst... and at best, banished somewhere like Calvalese.
+
+[06567.034]
+Have a safe journey.
+
+[06567.035]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06567.036]
+Will you stay the night?
+
+[06567.038]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06567.039]
+Please rest well.
+
+[06567.040]
+Good morning.
+
+[06567.041]
+You do not have enough money.
+
+[06567.042]
+We look forward to seeing you again.
+
+[06567.047]
+Obtained {16:25 BA}.
+
+[06567.049]
+Obtained {08:FF FF FF FF}.
+
+[06567.051]
+Found {16:25 C2}, but you can carry no more.
+
+[06567.053]
+There is nothing here.
+

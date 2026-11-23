@@ -1,0 +1,367 @@
+[06472.001]
+Cherik
+
+[06472.002]
+Cherik
+
+[06472.003]
+Cherik
+
+[06472.004]
+Cherik
+
+[06472.006]
+Obtained {08:0F 00 00 00}.
+
+[06472.008]
+Bedding is laid out. Someone seems to be sleeping here.
+
+[06472.010]
+The shadows of fish can be seen close by. The waters off Cherik are famous for their rich marine life.
+
+[06472.012]
+An unsteady boat...
+
+[06472.013]
+Priest of Fortuna
+
+[06472.014]
+Now, believers. Are you ready to set out for Aigrette?
+
+[06472.015]
+Man
+
+[06472.016]
+Say... is it really true you don't need money or goods in Aigrette?
+
+[06472.017]
+Woman
+
+[06472.018]
+Moving away and leaving house and shop behind... What do we do if something happens over there?
+
+[06472.019]
+Priest of Fortuna
+
+[06472.020]
+There is nothing to fear. Your life in Aigrette is guaranteed by us, the Order of Fortuna.
+
+[06472.021]
+Priest of Fortuna
+
+[06472.022]
+You will be reborn in Aigrette as believers in Fortuna.
+
+[06472.023]
+Priest of Fortuna
+
+[06472.024]
+Think of giving up your old life, your wealth and your goods, as a "cleansing".
+
+[06472.025]
+Priest of Fortuna
+
+[06472.026]
+Entrust everything to Fortuna. Do so, and you shall gain eternal happiness.
+
+[06472.027]
+Priest of Fortuna
+
+[06472.028]
+Before Fortuna, all are equal. Leave in this land the wealth and goods you have gained in your lives until now.
+
+[06472.029]
+Priest of Fortuna
+
+[06472.030]
+Praise God! For people cannot live without Fortuna's protection!
+
+[06472.031]
+Old Woman
+
+[06472.032]
+We are descendants of the proud Heaven Dwellers. By rights we are not people who should taste hardship like today's.
+
+[06472.033]
+Old Woman
+
+[06472.034]
+...But however often I say so, nobody will lend an ear. It is deplorable.
+
+[06472.035]
+Old Woman
+
+[06472.036]
+If only the Heavenly Army had won the War of Heaven and Earth, we would not be living like this now...
+
+[06472.037]
+Big Sis
+
+[06472.038]
+Honestly... ever since my little sister married into Aigrette, my grandma does nothing but grumble whenever she has a moment.
+
+[06472.039]
+Big Sis
+
+[06472.040]
+"A groom worthy of a descendant of the Heaven Dwellers", "if only we hadn't lost the War of Heaven and Earth"... I'm sick of it.
+
+[06472.041]
+Big Sis
+
+[06472.042]
+The ancestors of the people of Calvalese are the Heaven Dwellers who lost the War of Heaven and Earth.
+
+[06472.043]
+Big Sis
+
+[06472.044]
+Having lost the war and been branded war criminals, they were exiled to Calvalese.
+
+[06472.045]
+Rich Kid
+
+[06472.046]
+Oh, the poor things... The people here live in shacks like these.
+
+[06472.047]
+Rich Kid
+
+[06472.048]
+Why doesn't everyone live in Aigrette? Aigrette has everything.
+
+[06472.049]
+Rich Kid
+
+[06472.050]
+In Aigrette, if you ask the Order of Fortuna, they'll do anything for you.
+
+[06472.051]
+Rich Kid
+
+[06472.052]
+We don't need to do a thing. It's great fun.
+
+[06472.053]
+Big Sis
+
+[06472.054]
+Honestly... ever since my little sister married into Aigrette, my grandma does nothing but grumble whenever she has a moment.
+
+[06472.055]
+Big Sis
+
+[06472.056]
+"A groom worthy of a descendant of the Heaven Dwellers", "if only we hadn't lost the War of Heaven and Earth"... I'm sick of it.
+
+[06472.057]
+Big Sis
+
+[06472.058]
+The ancestors of the people of Calvalese are the Heaven Dwellers who lost the War of Heaven and Earth.
+
+[06472.059]
+Big Sis
+
+[06472.060]
+Having lost the war and been branded war criminals, they were exiled to Calvalese.
+
+[06472.061]
+Hunter
+
+[06472.062]
+Do you know about basilisk scales? They're the makings of a wonder drug that works on every illness and injury.
+
+[06472.063]
+Hunter
+
+[06472.064]
+You get them from a monster called the basilisk, but the basilisk is terribly savage.
+
+[06472.065]
+Hunter
+
+[06472.066]
+Do you know about a tool called the Magical Pot? A mysterious pot, and there's no telling what will pop out of it.
+
+[06472.067]
+Hunter
+
+[06472.068]
+They say there are tools you can only get from a Magical Pot. Getting them may take luck.
+
+[06472.069]
+Old Man
+
+[06472.070]
+Everyone's gone and moved to Aigrette in a body.
+
+[06472.071]
+Old Man
+
+[06472.072]
+Is it so good to be helped by a god? Is it worth abandoning your home for?
+
+[06472.073]
+Old Man
+
+[06472.074]
+My son and my grandchildren have gone off to Aigrette. Leaving me behind.
+
+[06472.075]
+Old Man
+
+[06472.076]
+How am I to live from tomorrow... Did they want to go to Aigrette so much they'd abandon their own parent?
+
+[06472.078]
+The door is locked. There seems to be nobody inside.
+
+[06472.079]
+Mr. Thief
+
+[06472.080]
+Whoa! I'm no thief, you know? I'm collecting the things that were left behind here!
+
+[06472.081]
+Mr. Thief
+
+[06472.082]
+I mean, it'd be a waste to leave them out in the rain, right!?
+
+[06472.083]
+Mr. Thief
+
+[06472.084]
+But what on earth were they thinking, the ones who moved away! Leaving their property behind to move. Are they out of their minds!?
+
+[06472.085]
+Mr. Thief
+
+[06472.086]
+Throwing away house, money and the whole life they'd led, just to side with this Fortuna?
+
+[06472.087]
+Mr. Thief
+
+[06472.088]
+That way of thinking is kind of scary...
+
+[06472.089]
+Woodcutter
+
+[06472.090]
+I am thinking of joining the Order of Atamoni to overcome the weakness of my heart.
+
+[06472.091]
+Woodcutter
+
+[06472.092]
+I mean to lay everything bare before God and be shown the road I should take.
+
+[06472.093]
+Woodcutter
+
+[06472.094]
+I am thinking of moving to Aigrette with the next group.
+
+[06472.095]
+Woodcutter
+
+[06472.096]
+I want to live among fellow believers, after all. I have no regrets about leaving here.
+
+[06472.097]
+Auntie A
+
+[06472.098]
+Lately the people I know are going off to Aigrette one after another, don't you know!
+
+[06472.099]
+Auntie B
+
+[06472.100]
+Oh, aren't you going, madam? They say that in Aigrette the people of the Order of Atamoni do everything for you, don't you know!
+
+[06472.101]
+Auntie B
+
+[06472.102]
+To join the Order of Atamoni one must donate Lenses, don't you know!
+
+[06472.103]
+Auntie A
+
+[06472.104]
+Well! So money, or rather Lenses, are needed! Aren't they supposed to help everyone!?
+
+[06472.105]
+Auntie B
+
+[06472.106]
+The Order of Atamoni is surprisingly stingy, don't you know.
+
+[06472.107]
+Sailor
+
+[06472.108]
+A boathouse is a pretty fine thing too. They're what Cherik is known for!
+
+[06472.109]
+Sailor
+
+[06472.110]
+But if you toss in your sleep, don't sleep here! You'll fall in the sea and never wake again!
+
+[06472.112]
+I'd definitely better not...
+
+[06472.113]
+Sailor
+
+[06472.114]
+The old Cherik sank under the water in the fighting eighteen years ago.
+
+[06472.115]
+Sailor
+
+[06472.116]
+Old houses lie on the seabed around here. Along with the victims...
+
+[06472.117]
+Have a safe journey.
+
+[06472.118]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06472.119]
+Will you stay the night?
+
+[06472.121]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06472.122]
+Please rest well.
+
+[06472.123]
+Good morning.
+
+[06472.124]
+You do not have enough money.
+
+[06472.125]
+We look forward to seeing you again.
+
+[06472.130]
+Obtained {16:25 BE}.
+
+[06472.132]
+Obtained {08:FF FF FF FF}.
+
+[06472.134]
+Found {16:25 C6}, but you can carry no more.
+
+[06472.136]
+There is nothing here.
+

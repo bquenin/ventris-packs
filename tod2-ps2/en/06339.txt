@@ -1,0 +1,57 @@
+[06339.001]
+Darilsheid, the Old Capital
+
+[06339.002]
+Darilsheid, the Old Capital
+
+[06339.004]
+This is the underground waterway.
+
+[06339.005]
+Obtained {0B:01 00 00 00}{14:34 84}{0B:00 00 00 00} {16:34 88}.
+
+[06339.007]
+Found {0B:01 00 00 00}{14:34 8C}{0B:00 00 00 00} {16:34 88}, but you can carry no more. Returned them to the chest.
+
+[06339.009]
+{16:34 88}: {0B:01 00 00 00}{14:34 8C} found, but you cannot carry them all.
+・Take {14:34 84}, discard {14:34 90}{0B:00 00 00 00}
+・Put them back in the chest
+
+[06339.011]
+Have a safe journey.
+
+[06339.012]
+That will be {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Will you stay the night?
+
+[06339.013]
+Will you stay the night?
+
+[06339.015]
+{03:00 00 00 00}　Yes　
+　No　
+
+[06339.016]
+Please rest well.
+
+[06339.017]
+Good morning.
+
+[06339.018]
+You do not have enough money.
+
+[06339.019]
+We look forward to seeing you again.
+
+[06339.024]
+Obtained {16:25 E6}.
+
+[06339.026]
+Obtained {08:FF FF FF FF}.
+
+[06339.028]
+Found {16:25 EE}, but you can carry no more.
+
+[06339.030]
+There is nothing here.
+

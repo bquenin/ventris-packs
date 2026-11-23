@@ -1,0 +1,21 @@
+[00100.001]
+Best stay out of Darilsheid a while...
+
+[00100.002]
+Huh! Why?
+
+[00100.003]
+Dummy! We're jailbreakers, remember.
+
+[00100.004]
+Right! We're jailbreakers! Hehe, so we are♪
+
+[00100.005]
+Hey... what are you looking so pleased about?
+
+[00100.006]
+Well, it's awesome! We were wanted men, and now we turn it around and become heroes! Ooh, so co~ol!!
+
+[00100.007]
+...Say, {NAME:01 00 00 00}. I really do envy that nature of yours.
+

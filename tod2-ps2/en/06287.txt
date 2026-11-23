@@ -1,0 +1,29 @@
+[06287.4788]
+Johnny
+
+[06287.4797]
+Stahn
+
+[06287.4804]
+Leon
+
+[06287.4811]
+Woodrow
+
+[06287.4822]
+Kongman
+
+[06287.4833]
+Who is this?
+
+[06287.4846]
+Johnny Shiden.
+The bard of Aquaveil who
+helped Stahn's party.
+
+[06287.4913]
+Wrong!
+
+[06287.4920]
+Time's up
+

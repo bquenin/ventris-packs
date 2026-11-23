@@ -1,0 +1,36 @@
+[00886.001]
+Hey, {NAME:04 00 00 00}. What were Dad and Mom like when you traveled with them?
+
+[00886.002]
+Hm? What were they like... well...
+
+[00886.003]
+Didn't you have a soft spot for Rutee? "A fatal triangle with Stahn", ha...
+
+[00886.004]
+Y-you fool! She is my...!!
+
+[00886.005]
+Hm? Your... what?
+
+[00886.006]
+M-my............ not my type. A coarse woman like that, without a scrap of delicacy...
+
+[00886.007]
+Wha~t! How dare you, about my Rutee!!
+
+[00886.008]
+"My"?
+
+[00886.009]
+Ah... no... "my... Rutee, who was like a mother to me"...
+
+[00886.010]
+You, even the mother of {NAME:01 00 00 00}!!
+
+[00886.011]
+Eeek! It's nothing to do with you!!
+
+[00886.012]
+Phew...
+
