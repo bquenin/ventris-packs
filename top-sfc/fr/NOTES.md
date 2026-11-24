@@ -41,8 +41,8 @@ that ends with `{PAGE}` ending with it. What is particular to French:
 - **Accented capitals are written** (`À mains nues`, `Épée longue`). Dialogue draws them correctly.
 - **Place names hold 16 characters.** The name of a place or a shop shown in the box at the top of
   the screen is centred by counting its characters, and a longer one is not drawn at all. From ventris
-  0.2.0 the build refuses a longer one. A party
-  member's name counts as its letters and one more. So: no guillemets, and the short form:
+  0.2.0 the build refuses a longer one. A party member's name counts as its letters and one more.
+  So: no guillemets, and the short form:
   `Village Toltus`, `Chez {クレス}`, `Église St-Lenios`, `Armurerie Teasel`, `Auberge Le Repos`,
   `Bazar Gori`. In these six sections the place names are `03.000` and `05.000` to `05.005`.
 - **Leading lines.** `09.006` starts with three empty lines where the game has three lines holding a
