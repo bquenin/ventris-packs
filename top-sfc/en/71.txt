@@ -1,5 +1,5 @@
 [71.000]
-Mother Computer Room
+Mother Computer
 
 [71.001]
 Common Room

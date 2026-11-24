@@ -3,16 +3,16 @@
 "Brr, it's cold. Let us rest a while at the inn."
 
 [73.001]
-Arlee, Town of Everlasting Dark
+Arlee, Dark Town
 
 [73.002]
-Inn "Splatterhouse"
+Splatterhouse
 
 [73.003]
-Arms Shop "3 a.m."
+3 a.m. Arms
 
 [73.004]
-Item Shop "Dead of Night"
+Dead of Night
 
 [73.005]
 Cafe "Oversleep"

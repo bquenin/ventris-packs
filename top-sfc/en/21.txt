@@ -1,5 +1,5 @@
 [21.000]
-Arms Shop "Double K.O."
+Double K.O. Arms
 
 [21.001]
 Item Shop "Draw"

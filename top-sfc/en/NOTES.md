@@ -35,6 +35,15 @@ the names that were chosen, and what was learned about the game along the way.
   How each is drawn has been seen by putting its text in the place of `01.004`, which is a minute
   from a saved state. Only
   `01.004` has been seen in its own scene; where on the screen the others sit there has not.
+- **Place names hold 16 characters.** The name of a place or a shop, shown in a box at the top of
+  the screen when you enter it, is one of 122 strings the game centres by counting their characters.
+  It holds 16; a party member's name counts as its letters and one more. A longer one is not drawn
+  at all: the box shows what was left of the message before it. So these names are short, without
+  quotes, the shop's name before what it sells (`Teasel Weapons`, `Gori's Store`), and a place can
+  be named more shortly here than in a sentence (`Spirit Forest` in the box, the Forest of Spirits
+  when someone speaks of it). Version 0.9 had 69 of them too long; 0.9.1 shortens those and leaves
+  alone the ones that already fitted, which is why some shop names still carry quotes
+  (`Item Shop "Draw"`). The build does not check this yet.
 - **Comments.** A line that starts with `# ` is a comment, in any script file. Use them for what
   the next translator should know about one string: why it is worded as it is, what it must agree
   with elsewhere.
@@ -210,6 +219,11 @@ A tactic name on the status screen has 13 columns, the most the game clears when
 (a longer trial name left its end behind): `Normal attack` fits, leaves nothing on the next page, and
 sits inside its box on the Tactic screen, which has room for 18. No saved state reaches the fifth
 member, so `F. Lester` was seen in place of Cress's family name in a scratch build: `Cress F. Lester`.
+
+The place names as 0.9.1 shortened them: `Teasel Weapons` was seen on walking into the weapon shop
+in Toltus, `St Lenios Church` and `Gori's Store` in the place of `05.000` (Cress's house) in a
+scratch build, and `Toltus Village`, which already fitted, on entering the village. Each was drawn
+whole, and the box closed. The other place names have not been seen.
 
 Of the dialogue, only the opening scene, the hunt in the forest south of Toltus and one long
 passage have been looked at, and the eight lines shown as sprites as said above.

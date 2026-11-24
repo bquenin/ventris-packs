@@ -1,12 +1,12 @@
 [85.000]
-Forest of Ymir on the Mirror Lake
+Ymir Forest
 
 [85.001]
 {クレス}
 "Let's hurry!!"
 
 [85.002]
-White Birch Forest
+Birch Forest
 
 [85.003]
 {クレス}

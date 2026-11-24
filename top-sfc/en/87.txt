@@ -2,10 +2,10 @@
 Ninja Village
 
 [87.001]
-The Chief's House
+Chief's House
 
 [87.002]
-General Store "Kurikinton"
+Kurikinton Store
 
 [87.003]
 Ranzo

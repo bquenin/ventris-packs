@@ -63,13 +63,13 @@ I'll be waiting for your next challenge!!!
 "Too bad. Better luck next time!!"
 
 [53.017]
-City of Alvanista
+Alvanista City
 
 [53.018]
-Port of Alvanista
+Alvanista Port
 
 [53.019]
-Port of Alvanista
+Alvanista Port
 
 [53.020]
 "Waaah! All my data's been wiped!!"

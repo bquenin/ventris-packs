@@ -4,25 +4,25 @@
 There's some commotion at the castle gate."
 
 [57.001]
-Southern Midgards
+South Midgards
 
 [57.002]
-Northern Midgards
+North Midgards
 
 [57.003]
-Arms Shop "Spirit"
+Spirit Arms
 
 [57.004]
 Inn "Saber"
 
 [57.005]
-Drugstore "Buster"
+Buster Drugs
 
 [57.006]
-Item Shop "Slayer 4"
+Slayer 4 Items
 
 [57.007]
-Food Shop "Ninja"
+Ninja Foods
 
 [57.008]
 Mayor's House

@@ -2,34 +2,34 @@
 Inn "Euclid Inn"
 
 [17.001]
-Arms Shop "Holy Knight"
+Holy Knight Arms
 
 [17.002]
 Euclid Castle
 
 [17.003]
-Euclid National Academy of Science
+Science Academy
 
 [17.004]
 Eatery "Ajiou"
 
 [17.005]
-Item Shop "Hokkamuri"
+Hokkamuri Items
 
 [17.006]
-　Uncle Olson's House
+　Olson's House
 
 [17.007]
-　Uncle Olson's House
+　Olson's House
 
 [17.008]
-Fruit Shop "Marion"
+Marion's Fruit
 
 [17.009]
-General Store "Tenbu"
+Tenbu's Store
 
 [17.010]
-General Store "Tenbu"
+Tenbu's Store
 
 [17.011]
 "Let's take a look inside the oven."

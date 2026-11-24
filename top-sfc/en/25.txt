@@ -2,16 +2,16 @@
 Inn "Euclid Inn"
 
 [25.001]
-Greengrocer "Vegit"
+Vegit Greens
 
 [25.002]
-Item Shop "Cat's Eye"
+Cat's Eye Items
 
 [25.003]
-Arms Shop "Bishop"
+Bishop Arms
 
 [25.004]
-{クラース}'s School of Magic
+{クラース}'s School
 
 [25.005]
 "We stock good things here. They come straight from Venezia, the trading town in the north, after all."

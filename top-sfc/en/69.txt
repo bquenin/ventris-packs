@@ -1,5 +1,5 @@
 [69.000]
-Cave of Burning Sand
+Burning Sands
 
 [69.001]
 Sea Cave

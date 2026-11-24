@@ -1,17 +1,17 @@
 [77.000]
-Miguel School of Swordsmanship
+Miguel's Dojo
 
 [77.001]
-Church of St Lenios
+St Lenios Church
 
 [77.002]
-Arms Shop "Explosion"
+Explosion Arms
 
 [77.003]
 Inn "Miguel Inn"
 
 [77.004]
-Item Shop "Benjamin"
+Benjamin Items
 
 [77.005]
 Town of Miguel
