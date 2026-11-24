@@ -1,0 +1,173 @@
+[07.000]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+# No guillemets here: they would cost two of the page's 32 letters.
+???
+Ma voix{SPEED:10}...{SPEED:FF} vous parvient-elle ?
+
+[07.001]
+{クレス}
+(À l'instant... j'ai cru entendre la voix d'une femme{SPEED:10}...{SPEED:FF})
+
+[07.002]
+{クレス}
+« Une voix de femme, de l'autre côté du trou... »{PAGE}
+???
+« Votre main, par ici... »{PAGE}
+{クレス}
+« Qui... êtes-vous ? »{PAGE}
+???
+« Tendez la main vers moi, je vous en prie... Je veux vous venir en aide. »{PAGE}
+{COLOR:03}Tendre la main ?{COLOR:02}
+
+[07.003]
+{クレス}
+« ...C'est... une boucle d'oreille ? »{PAGE}
+???
+« Présentez-la devant le mur...
+Vous, vous pourrez sûrement sortir de ce manoir... »{PAGE}
+{クレス}
+« A-attendez !
+Vous êtes... »{PAGE}
+« ...Bon, essayons toujours de présenter la boucle d'oreille. »
+
+[07.004]
+{クレス}
+« C'est... !? »{PAGE}
+« Il faut que je retrouve cette personne pour la remercier{SPEED:10}...{SPEED:FF} »
+
+[07.005]
+« Tendez la main...
+La main... »
+
+[07.006]
+{クレス}
+« Impossible de sortir par ce trou... »
+
+[07.007]
+{COLOR:03}Vous forcez la porte avec l'épée.{COLOR:02}
+
+[07.008]
+{クレス}
+« À mains nues, c'est impossible... »
+
+[07.009]
+{クレス}
+« Où suis-je... ? »
+
+[07.010]
+{ミント}
+« On dirait que ça mène au canal. »{PAGE}
+« Si seulement on pouvait l'ouvrir... »
+
+[07.011]
+{COLOR:03}Vous forcez les barreaux avec l'épée.{COLOR:02}
+
+[07.012]
+{クレス}
+« À mains nues, c'est impossible... »
+
+[07.013]
+{クレス}
+« Si j'avance encore, je vais me faire repérer... »
+
+[07.014]
+{クレス}
+(Elle ne sait pas que sa mère est morte. Lui montrer la réalité serait trop cruel...)
+
+[07.015]
+{クレス}
+« Ce n'est pas possible{SPEED:10}...{SPEED:FF} »{PAGE}
+« Alors, cette main si chaude, qu'est-ce que c'était... ? »
+
+[07.016]
+{クレス}
+« Ça va ? Tu n'es pas blessée ? »{PAGE}
+???
+« Qui êtes-vous... ? »{PAGE}
+{クレス}
+« Je m'appelle {クレス}. Et toi ? »{PAGE}
+
+
+[07.017]
+???
+« {ミント}. »{PAGE}
+« Euh... merci de m'avoir sauvée... »{PAGE}
+{クレス}
+« On ne peut pas rester ici. Fuyons, vite. »{PAGE}
+{ミント}
+« ...Je, je vous en prie ! Sauvez aussi ma mère ! »{PAGE}
+« Elle est dans le cachot d'en face... »{PAGE}
+
+
+[07.018]
+{クレス}
+« Hein ? »
+
+[07.019]
+{クレス}
+« ...Il n'y avait personne là-bas. Allez, vite ! »{PAGE}
+{ミント}
+« {SPEED:10}...{SPEED:FF}M-mais... »{PAGE}
+« J'entendais bien la voix de ma mère ! Elle m'encourageait...
+J'en suis sûre, c'était ma mère{SPEED:10}...{SPEED:FF} »
+
+[07.020]
+{クレス}
+« Une épée plantée là... Quelle cruauté... »{PAGE}
+{COLOR:03}Vous pouvez retirer l'épée.
+La retirer ?{COLOR:02}
+
+[07.021]
+« Permettez que je m'en serve... ! »{PAGE}
+
+
+[07.022]
+{COLOR:03}Obtenu : Épée longue.{COLOR:02}
+
+[07.023]
+« Laissons-la où elle est. »
+
+[07.024]
+« Allez, entre. »
+
+[07.025]
+« Ne traîne pas ! »
+
+[07.026]
+« Tiens-toi tranquille, tu vivras plus longtemps. Compris ? »
+
+[07.027]
+{クレス}
+« Bon sang !! »
+
+[07.028]
+« Nous avons capturé le fils de Miguel ! »
+
+[07.029]
+???
+« Beau travail. »
+
+[07.030]
+???
+« Hmph. Dire que c'était un gamin comme toi qui l'avait{SPEED:10}...{SPEED:FF} »{PAGE}
+{クレス}
+« C'est vous, n'est-ce pas ? C'est vous qui avez attaqué le village ! »{PAGE}
+???
+« Hmph. Je ne sais rien de cela. »
+
+[07.031]
+{クレス}
+« R... rendez-le-moi ! »{PAGE}
+???
+« Ce pendentif, je le garde. Hé, prenez son arme à ce gamin et jetez-le au cachot. »
+
+[07.032]
+???
+« Hé hé{SPEED:10}...{SPEED:FF}
+Avec ça, enfin... »
+
+[07.033]
+
+{クレス}
+(Qu-qu'est-ce que... !? C'est{SPEED:10}...{SPEED:FF})
+

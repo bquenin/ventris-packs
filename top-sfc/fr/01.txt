@@ -1,0 +1,63 @@
+[01.000]
+On peut y lire :
+« L'Arbre des Esprits. On dit qu'un esprit habite cet arbre. Veillons tous ensemble à ne pas l'abîmer.
+- Office du tourisme d'Euclid »
+
+[01.001]
+{クレス}
+« Tiens ? On l'a perdu de vue... »
+
+[01.002]
+{チェスター}
+« Je vais voir dans les environs. »
+
+[01.003]
+{クレス}
+« J'étais pourtant sûr qu'il était venu par ici... »
+
+[01.004]
+# Shown as sprites: 15 to a row, 32 letters to a page. The build breaks the rows.
+Ne souillez{SPEED:10}...{SPEED:FF} pas l'arbre...
+
+[01.005]
+{チェスター}
+« Rien de mon côté. Et du tien ? »{PAGE}
+« {クレス}, qu'est-ce qu'il y a ? »{PAGE}
+{クレス}
+« Non, rien... »
+
+[01.006]
+{チェスター}
+« Le voilà ! »
+
+[01.007]
+{クレス}
+« Belle prise. »{PAGE}
+
+
+[01.008]
+{チェスター}
+« Avec ça, on a largement de quoi. Rentrons au village. »
+
+[01.009]
+{クレス}
+« C'est{SPEED:10}...{SPEED:FF} la cloche du village ! Il s'est passé quelque chose !? »{PAGE}
+{チェスター}
+« Dépêchons-nous !! »
+
+[01.010]
+{チェスター}
+« Ah ! Un sanglier ! »
+
+[01.011]
+{チェスター}
+« Poursuivons-le ! »
+
+[01.012]
+« Là ! Il est là-bas ! »
+
+[01.013]
+{チェスター}
+« On rentre déjà ?
+On n'a presque rien attrapé. »
+

@@ -1,0 +1,54 @@
+[09.000]
+{クレス}
+(Mieux vaut ne pas retourner là-bas...)
+
+[09.001]
+{クレス}
+« Arrivés jusqu'ici, on ne devrait plus rien craindre. »
+
+[09.002]
+{クレス}
+« {ミント}, attention !! »
+
+[09.003]
+{クレス}
+« Ngh... !? »
+{ミント}
+« {クレス} !? »{PAGE}
+{クレス}
+« Bon sang, j'ai baissé ma garde... »
+
+[09.004]
+{ミント}
+« {クレス}... tenez bon, {クレス} ! »
+
+[09.005]
+{ミント}
+« Des poursuivants{SPEED:10}... ?{SPEED:FF} »{PAGE}
+« Il faut fuir... ! »
+
+[09.006]
+
+
+
+　　Papa{SPEED:10},{SPEED:FF} maman{SPEED:10}...{SPEED:FF}
+
+[09.007]
+{クレス}
+« Qu'est-ce que c'est... ? »{PAGE}
+{ミント}
+« C'est un cercle de mémoire. »{PAGE}
+{クレス}
+« Un cercle de mémoire ? »{PAGE}
+{ミント}
+« On dit que si l'on se tient dessus, le souvenir de tout ce que l'on a vécu y demeure, comme une pensée qui persiste. »
+
+[09.008]
+« Vous n'irez pas plus loin !! »
+
+[09.009]
+{COLOR:03}{ミント} rejoint le groupe. En combat, elle soutient {クレス} avec ses arts de guérison.{PAGE}
+Elle les utilise d'elle-même, mais quand vous pensez « Je veux cet art maintenant ! »,
+vous pouvez aussi choisir à la main l'art à utiliser.
+Et quand vous pensez « Je ne veux pas de cet art ! », ouvrez l'écran des techniques dans le menu de la carte, puis appuyez sur le bouton de cible (le bouton Y par défaut) pour choisir s'il est utilisé ou non (les arts non utilisés sont affichés en gris).{COLOR:02}
+

@@ -1,0 +1,8 @@
+format = 1
+game = "top-sfc"
+language = "fr"
+name = "Tales of Phantasia en français"
+version = "0.1"
+authors = ["Machine translated, directed by bquenin"]
+license = "CC-BY-NC-SA-4.0"
+description = "Machine translated from the Japanese and not yet reviewed by a human translator. A first part only: the dialogue of the opening of the game (sections 01 to 11). The menus, the captions and the rest of the dialogue are still the game's own Japanese. Written to show a second language working; NOTES.md says what was seen on screen."

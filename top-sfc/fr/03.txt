@@ -1,0 +1,113 @@
+[03.000]
+Village Toltus
+
+[03.001]
+Change l'époque du terrain.
+1. Présent  2. Passé  3. Futur
+
+[03.002]
+Terminé.{COLOR:02}
+
+[03.003]
+Réinitialisation terminée.
+
+[03.004]
+{アーチェ} peut maintenant utiliser tous les sorts.
+
+[03.005]
+{アーチェ} n'est pas lààà.
+
+[03.006]
+{クレス} peut maintenant utiliser toutes les techniques.
+
+[03.007]
+{クラース} peut maintenant utiliser tous les sorts.
+
+[03.008]
+Je te dis que {クラース} n'est pas là.
+
+[03.009]
+{ミント} peut maintenant utiliser tous les sorts.
+
+[03.010]
+{ミント} n'est pas là, voyons.
+
+[03.011]
+Vous avez obtenu tous les objets.
+
+[03.012]
+Choisissez.
+
+[03.013]
+{クレス}
+(Voici le pont de l'Érable. On dit qu'un amour juré ici dure pour toujours.{PAGE}
+Je ne sais pas d'où vient cette légende, cela dit.)
+
+[03.014]
+Tristan
+« Ohé, {クレス} ! »
+
+[03.015]
+{クレス}
+« Maître, vous rentrez déjà ? »{PAGE}
+Tristan
+« C'est à peu près ça. Et toi, où vas-tu comme ça ? »{PAGE}
+{チェスター}
+« Chasser le sanglier dans la forêt du sud. »{PAGE}
+Tristan
+« Je vois. Applique-toi bien. »
+
+[03.016]
+« Oh, c'est toi, {クレス}. Tu m'as fait peur.{PAGE}
+On se marie le mois prochain, tu sais. On discutait du genre de cérémonie qu'on aimerait. »
+
+[03.017]
+« Salut !
+Trouve-toi quelqu'un de bien toi aussi, {クレス} ! »
+
+[03.018]
+« Hé, tu m'apprendras l'escrime un de ces jours ? Je veux devenir plus fort ! »
+
+[03.019]
+« Aaah, moi aussi j'aimerais vite me marier. »
+
+[03.020]
+« Je suis un voyageur.
+C'est un bel endroit. Je pense m'y installer quelque temps. »
+
+[03.021]
+« Salut, {クレス}.{PAGE}
+Le monde est devenu dangereux ces temps-ci. J'espère qu'on n'aura jamais à sonner cette cloche. »
+
+[03.022]
+{チェスター}
+« Bon, je pars à la chasse, Ami. »{PAGE}
+Ami
+« Fais attention à toi, grand frère. »
+
+[03.023]
+{チェスター}
+« {クレス}, on y va ! »
+
+[03.024]
+{クレス}
+« Désolé, désolé. Mon maître est à la maison en ce moment. Bon, on y va, {チェスター} ? »{PAGE}
+Maria
+« Attends, {クレス}. »
+
+[03.025]
+{クレス}
+« Maman ! Tu sors à peine de maladie, tu ne dois pas rester dehors. »{PAGE}
+Maria
+« Mais je m'inquiète pour toi. Les environs sont dangereux ces derniers temps... »{PAGE}
+{クレス}
+« Avec l'arc de {チェスター} et mon épée, tout ira bien. Et puis papa est au village. »{PAGE}
+
+
+[03.026]
+{チェスター}
+« Ne vous inquiétez pas, madame. On rapportera une montagne de gibier. »{PAGE}
+Maria
+« ...D'accord. Surtout, ne prenez pas de risques. Tenez, emportez ceci. »{PAGE}
+{COLOR:03}Obtenu : {STR:A90C}.{COLOR:02}
+

@@ -1,0 +1,232 @@
+[11.000]
+{クレス}
+« N-non... ce n'est pas possible... »{PAGE}
+{チェスター}
+« Je... je vais voir chez moi ! »
+
+[11.001]
+{クレス}
+« {SPEED:10}...{チェスター}...{SPEED:FF} »
+
+[11.002]
+{クレス}
+« {チェスター}, c'est dangereux ici.
+Allons d'abord chez mon oncle... »{PAGE}
+{チェスター}
+« {SPEED:10}...{SPEED:FF}Tu veux qu'on s'enfuie en laissant Ami et les gens du village comme ça ? »{PAGE}
+
+
+[11.003]
+« Pas question !
+Si tu veux partir, pars tout seul !
+{SPEED:10}...{SPEED:FF}Il faut bien que quelqu'un les enterre tous, »{PAGE}
+« même si je suis le seul... »{PAGE}
+{クレス}
+« Si ceux qui ont attaqué le village reviennent, tu risques de te faire tuer ! »{PAGE}
+{チェスター}
+« {SPEED:10}...{SPEED:FF} »
+
+[11.004]
+{チェスター}
+« ...Pardon, {クレス}. Malgré tout, je... »{PAGE}
+{クレス}
+« {チェスター}{SPEED:10}...{SPEED:FF} »{PAGE}
+{チェスター}
+« Pars devant. C'est dangereux de rester tous les deux, et je te rejoindrai, c'est promis... »{PAGE}
+{クレス}
+« C'est promis, hein. »{PAGE}
+
+
+[11.005]
+{チェスター}
+« Oui, promis... Et à nous deux, on les vengera ! »{PAGE}
+{クレス}
+« Oui !! »
+
+[11.006]
+Ils en avaient après ton pendentif{SPEED:10}...{SPEED:FF}
+
+[11.007]
+{クレス}
+(Le pendentif dont parlait maman{SPEED:10}...{SPEED:FF} ce serait celui que papa m'a donné{SPEED:10}...{SPEED:FF} ?)
+
+[11.008]
+{クレス}
+(Il faut vite m'éloigner d'ici !
+Comme ça, {チェスター} sera sûrement en sécurité{SPEED:10}...{SPEED:FF})
+
+[11.009]
+« Il faut vite que j'aille à la maison... Je m'inquiète pour papa et maman. »
+
+[11.010]
+{クレス}
+« P-papa... »
+
+[11.011]
+{クレス}
+« Maman !! »
+
+[11.012]
+{クレス}
+« Maman, tiens bon ! »{PAGE}
+Maria
+« {クレス}, sauve-toi. Va chez ton oncle, à Euclid, la cité du nord... »{PAGE}
+« Ils en avaient après ton pendentif{SPEED:10}...{SPEED:FF} »{PAGE}
+{クレス}
+« Qui ça, « ils » !? Qui a bien pu faire une chose pareille... !! »
+
+[11.013]
+{クレス}
+« Maman, maman !
+Ouvre les yeux...
+Mamaaan !! »{PAGE}
+
+
+[11.014]
+Aaaaaaaah !!!
+
+[11.015]
+(Il ne respire déjà plus...)
+
+[11.016]
+{チェスター}
+« {クレス}, je te rejoindrai, c'est promis... »{PAGE}
+{クレス}
+« C'est promis, hein. Je t'attendrai à Euclid, au nord ! »
+
+[11.017]
+(Elle ne respire déjà plus...)
+
+[11.018]
+{クレス}
+« Mademoiselle... puissiez-vous trouver le bonheur au ciel... »
+
+[11.019]
+{クレス}
+« Le mariage était pour le mois prochain... Pourquoi a-t-il fallu que ça arrive... ? »
+
+[11.020]
+{クレス}
+« Pardon de n'avoir pas pu t'apprendre l'escrime... »
+
+[11.021]
+{クレス}
+(Même les petits enfants... Qui a bien pu faire une chose pareille... ?)
+
+[11.022]
+{クレス}
+« Papa... »
+
+[11.023]
+{クレス}
+« Maman... »
+
+[11.024]
+On peut y lire : « Ci-gît Miguel Albane. »{PAGE}
+{クレス}
+« Papa... »
+
+[11.025]
+On peut y lire : « Ci-gît Maria Albane. »{PAGE}
+{クレス}
+« Maman... Si seulement j'avais été plus fort... »
+
+[11.026]
+{クレス}
+« Reposez en paix, je vous en prie... »
+
+[11.027]
+On peut y lire : « Ci-gît Ami Barklight. »{PAGE}
+{クレス}
+« {チェスター}... »
+
+[11.028]
+{クレス}
+« Cette épée... ce n'est ni celle de papa ni la mienne. Serait-ce celle de ceux qui nous ont attaqués... !? »{PAGE}
+
+
+[11.029]
+{COLOR:03}Obtenu : {STR:C20C}.{COLOR:02}
+
+[11.030]
+{チェスター}
+« ...Quelqu'un vient... !! »
+
+[11.031]
+{チェスター}
+« Ils sont revenus... ? »{PAGE}
+« Ami, {SPEED:10}maintenant{SPEED:FF}, je vais te venger... !! »
+
+[11.032]
+{クレス}
+« Je vous confie l'Épée du Temps. »{PAGE}
+{クラース}
+« Je sais. Je me charge de la sceller. »{PAGE}
+{クレス}
+« Eh bien, portez-vous bien... »
+
+[11.033]
+{アーチェ}
+« Vous tous{SPEED:10}...{SPEED:FF}
+je ne vous dirai pas adieu. Ce n'est pas comme si on ne se reverrait plus. »
+
+
+[11.034]
+« Mais{SPEED:0F}...{SPEED:FF}
+ne pouvoir se revoir que dans cent ans, c'est bien trop triste{SPEED:10}...{SPEED:FF} »{PAGE}
+
+
+[11.035]
+{クレス}
+« {アーチェ}... »
+
+[11.036]
+{クラース}
+« Moi, je ne vous reverrai plus jamais. »{PAGE}
+{クレス}
+« {クラース}... »{PAGE}
+{クラース}
+« Ne t'en fais pas. Je suis déjà heureux de vous avoir rencontrés. »{PAGE}
+« {チェスター}, {ミント}, portez-vous bien vous aussi. »
+
+[11.037]
+{クラース}
+« Allons, il est temps. »
+
+[11.038]
+{クレス}
+« {チェスター}, tu es prêt ? »{PAGE}
+{チェスター}
+« {SPEED:10}...{SPEED:FF}Ouais. »
+
+[11.039]
+{チェスター}
+« Ne fais pas cette tête triste. »{PAGE}
+{アーチェ}
+« {SPEED:0F}...{SPEED:FF}Tu as raison. »{PAGE}
+{チェスター}
+« À la prochaine. »{PAGE}
+{アーチェ}
+« Oui. »
+
+[11.040]
+{クラース}
+« Épée du Temps ! Conduis-nous à notre époque !! »
+
+[11.041]
+{チェスター}
+« Et maintenant, on fait quoi ? »{PAGE}
+{クレス}
+« D'abord, on rebâtit le village.
+Et quand ce sera fini{SPEED:0F}...{SPEED:FF} »{PAGE}
+{チェスター}
+« Quand ce sera fini ? »{PAGE}
+{クレス}
+« {アーチェ} vit sûrement à la même époque que nous.
+Allons la voir ! »{PAGE}
+{ミント}
+« Vous voulez bien{SPEED:10}...{SPEED:FF}
+m'emmener moi aussi ? »{PAGE}
+{クレス}
+« Bien sûr !! »
+

@@ -1,0 +1,229 @@
+[05.000]
+Chez {クレス}
+
+[05.001]
+Chez {チェスター}
+
+[05.002]
+Église St-Lenios
+
+[05.003]
+Armurerie Teasel
+
+[05.004]
+Auberge Le Repos
+
+[05.005]
+Bazar Gori
+
+[05.006]
+Miguel
+« {クレス}, ne reste pas dans mes jambes ! »
+
+[05.007]
+{COLOR:03}Se reposer ici ?{COLOR:01}
+
+[05.008]
+{クレス}
+« Papa, je pars à la chasse. »{PAGE}
+
+
+[05.009]
+Miguel
+« Rentre avant qu'il ne soit tard. »{PAGE}
+{クレス}
+« Je sais. »
+
+[05.010]
+Réceptionniste
+« Oh, {クレス}, tu vas quelque part ? »{PAGE}
+{クレス}
+« Je pars à la chasse. Je vais en rapporter un gros. »{PAGE}
+
+
+[05.011]
+Réceptionniste
+« Fais attention à toi. »
+
+[05.012]
+« Elle dort à poings fermés... »
+
+[05.013]
+Servante
+« Oh, {クレス}. Ta mère dort, alors ne fais pas de bruit. »
+
+[05.014]
+Sœur
+« Oh, {クレス}. Qu'est-ce qui t'amène aujourd'hui ? »{PAGE}
+{クレス}
+« Je me suis dit que ce serait bien de passer à l'église de temps en temps... »{PAGE}
+
+
+[05.015]
+Sœur
+« Tu ne m'as pas dit la même chose tout à l'heure ? Enfin, peu importe. Que les dieux te protègent... »{PAGE}
+{クレス}
+« M-merci... »
+
+[05.016]
+Sœur
+« Voilà un bel état d'esprit. Que les dieux te protègent... »
+
+[05.017]
+« Vénérer la nature, c'est bien, mais il ne faut pas exagérer. Il y en a qui comprennent la doctrine de travers et trouvent cruel de casser une branche. »
+
+[05.018]
+« Les deux statues de chaque côté de l'autel sont plutôt séduisantes, non ?{PAGE}
+Oups, ce sont des déesses, c'est vrai... Il ne faut pas, il ne faut pas. »
+
+[05.019]
+« Salut, {クレス} !{PAGE}
+Au fait, avoir une arme sur soi ne sert à rien. Si tu ne l'équipes pas comme il faut, elle ne te sera d'aucune utilité. »
+
+[05.020]
+« On n'entre pas par ce côté-là. »
+
+[05.021]
+« Bonjour.{PAGE}
+Si tu veux te reposer, repose-toi chez toi. »
+
+[05.022]
+« Merci bien. Tiens, un peu d'argent de poche. »{PAGE}
+{COLOR:03}Obtenu : 10 Gald.{COLOR:02}
+
+[05.023]
+« Ah, tu tombes bien. Je me demandais justement qui pourrait me déplacer ce bibelot. »
+
+[05.024]
+« Dépêche-toi de porter ce bibelot dans le couloir. Colle-le bien contre le mur des fenêtres. Si tu le laisses en plein milieu du couloir, il gênera les clients. »
+
+[05.025]
+« C'est toi, {クレス} ?{PAGE}
+Excuse-moi de te demander ça, mais tu voudrais bien porter ce bibelot dans le couloir ? »{PAGE}
+{クレス}
+« Ce bibelot... c'est une statue de galago ? Pourquoi un galago ? »{PAGE}
+« C'est le goût du grand-père. »{PAGE}
+{クレス}
+« Ah bon... »{PAGE}
+{COLOR:03}Porter le bibelot ?{COLOR:02}
+
+[05.026]
+Ah bon.
+Les jeunes d'aujourd'hui...
+
+[05.027]
+Colle-le bien contre la fenêtre. Si tu le laisses en plein milieu du couloir, il gênera les clients.{PAGE}
+Je compte sur toi.
+
+[05.028]
+« Je voyage avec mon mari.
+C'est un bel endroit. J'aimerais y rester pour toujours...{PAGE}
+Mon mari ? Il est parti se promener. »
+
+[05.029]
+« Tiens, c'est toi, {クレス}. Tu voulais quelque chose ?{PAGE}
+Il fait beau dehors.
+Mais de drôles de nuages s'amoncellent à l'ouest. On dirait bien qu'il va pleuvoir. »
+
+[05.030]
+« Oh, {チェスター}. Ta sœur va bien ? Tiens, emporte ça. »{PAGE}
+{COLOR:03}Obtenu : Pomme.{COLOR:02}
+
+[05.031]
+Employé
+« Bon sang, ce vieux nous fait trimer comme des bêtes. Alors qu'on n'a même pas de clients. »{PAGE}
+Patron
+« Tu as dit quelque chose !? Mets-y un peu plus de cœur ! »{PAGE}
+Employé
+« O-oui ! »
+
+[05.032]
+« Me voilà enfin disciple de maître Albane...{PAGE}
+Sous sa direction, je vais encore affûter mon art de l'épée ! »
+
+[05.033]
+« Bonjour. Tu dois être {クレス}, le fils de maître Albane.{PAGE}
+J'aimerais beaucoup croiser le fer avec toi un de ces jours. »
+
+[05.034]
+{チェスター}
+« Ami, tiens. »{PAGE}
+Ami
+« Grand frère, le grand-père du bazar t'a encore donné une pomme.
+Mmh, c'est bon♥ »
+
+[05.035]
+Ami
+« Oh, bonjour, {クレス}. Vous partez à la chasse, c'est ça ? Rapportez-en un é-nor-me.
+Et toi, grand frère, ne va pas ralentir {クレス} ! »{PAGE}
+{チェスター}
+« Je n'ai pas besoin que tu me le dises. »
+
+[05.036]
+Ami
+« À tout à l'heure. Faites attention. »
+
+[05.037]
+« Hmm, on voit bien que c'est le village d'un maître d'armes. Ils ont de belles armes en stock. »
+
+[05.038]
+Prêtre
+« Tiens, {クレス}. Quelque chose te tracasse ? »{PAGE}
+{クレス}
+« Non, ce n'est pas ça... »{PAGE}
+Prêtre
+« Nous célébrerons bientôt un mariage ici. Puis-je te demander ton aide ? »{PAGE}
+{クレス}
+« Oui, bien sûr. »{PAGE}
+Prêtre
+« Merci. Cette église porte le nom de Lenios, le fondateur de Toltus.
+J'aimerais célébrer un mariage digne du nom de notre grand fondateur. »
+
+[05.039]
+Prêtre
+« Vivre avec la nature, tel que l'on est : voilà l'enseignement de Martel, déesse mère de la terre. »
+
+[05.040]
+« Hah ! »
+
+[05.041]
+« Yah ! »
+
+[05.042]
+{SPEED:01}« Nous{SPEED:1B},{SPEED:01} jusqu'à quand{SPEED:1B},{SPEED:01} on va faire{SPEED:1B},{SPEED:01} ce genre de choses ? »{SPEED:FF}
+
+[05.043]
+« Vivement que l'entraînement se termine... »
+
+[05.044]
+{クレス}
+« Bonjour, maître Tristan. »{PAGE}
+Tristan
+« Ah, {クレス}. Tu t'appliques ? Toi aussi, tu dois devenir un épéiste qui surpasse son père. »
+
+[05.045]
+{クレス}
+« Papa, tu m'as appelé ? »{PAGE}
+Miguel, père de {クレス}
+« Oui. Comment va le rhume de ta mère ? »{PAGE}
+{クレス}
+« Sa fièvre a l'air d'être tombée, ça va aller. Alors, de quoi voulais-tu me parler ? »{PAGE}
+Miguel
+« Du pendentif que je t'ai donné. »{PAGE}
+{クレス}
+« Le pendentif ? Ah, celui que j'ai reçu pour mes quinze ans... Qu'est-ce qu'il a ? »
+
+[05.046]
+Miguel
+« Cette voix, c'est {チェスター}. »{PAGE}
+{クレス}
+« Ah, pardon, papa. J'avais rendez-vous avec {チェスター}. »{PAGE}
+Miguel
+« Bien. Nous parlerons du pendentif au dîner. »{PAGE}
+{クレス}
+« D'accord. »{PAGE}
+
+
+[05.047]
+Maître Tristan, je vous en prie, mettez-vous à l'aise.
+

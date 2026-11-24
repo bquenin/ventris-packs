@@ -14,6 +14,7 @@ was made for (the app names it on the game's page).
 | Game | Language | Folder | Version | How it was made | Seen on screen |
 | --- | --- | --- | --- | --- | --- |
 | Tales of Phantasia (Super Famicom, Japan) | English | [`top-sfc/en`](top-sfc/en) | 0.9.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | Parts: the main menu and most menu screens, battles on the world map and in the forest, the opening scene, a hunt early in the game, one long passage, and the eight lines shown as sprites. Most of the dialogue has only been built. |
+| Tales of Phantasia (Super Famicom, Japan) | French | [`top-sfc/fr`](top-sfc/fr) | 0.1 | Machine translated from the Japanese, directed by bquenin; not yet reviewed by a human translator | A first part: the dialogue of the opening only. Seen: the seven place names of the first village and about twenty boxes of dialogue in the village and the forest. Not seen: the scene at the tree, the attack on the village, the manor and the escape. |
 | Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | English | [`tod2-ps2/en`](tod2-ps2/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | The opening, ten skits, the menus, a shop, the first battle and a quiz book. Nothing past Cresta. |
 
 ![A line of dialogue in Tales of Phantasia's blue text window, in Japanese and in English](images/top-dialogue.png)
@@ -24,18 +25,19 @@ Tales of Phantasia: the original on the left, the game built with the English pa
 
 Tales of Destiny 2: the original on the left, the game built with the English pack on the right.
 
-Tales of Phantasia's pack is the whole game in text: all the dialogue, the menus, the captions of battles
-and menu screens, and the characters' names. Tales of Destiny 2's is a first full pass: the dialogue of
-every story script from the prologue to the ending, 608 skits, the menu screens, the messages of the battle
-program, the enemy names, the lists of artes, items, titles, recipes, shops and places, and the quiz books
-and minigames. Both build with nothing refused.
+Tales of Phantasia's English pack is the whole game in text: all the dialogue, the menus, the captions of
+battles and menu screens, and the characters' names. Tales of Destiny 2's is a first full pass: the dialogue
+of every story script from the prologue to the ending, 608 skits, the menu screens, the messages of the
+battle program, the enemy names, the lists of artes, items, titles, recipes, shops and places, and the quiz
+books and minigames. Both build with nothing refused. Tales of Phantasia's French pack is a first part: the
+dialogue of the opening, 175 strings; the menus, the captions and the rest of the dialogue stay Japanese.
 
 Each pack's `NOTES.md` holds the names and terms it chose, how its strings are written, and exactly what
 has and has not been seen on screen.
 
 ## Working samples, machine translated
 
-**Both packs are machine translated and have not been reviewed by a human translator.** They are working
+**All the packs are machine translated and have not been reviewed by a human translator.** They are working
 samples: they show that ventris carries a whole game, from the dialogue to the menus and lists, and they
 are playable as far as has been seen. Expect lines that are mostly right, sometimes stiff, now and then
 wrong, and here and there too long for the box the game gives them.
