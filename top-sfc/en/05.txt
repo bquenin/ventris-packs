@@ -5,16 +5,16 @@
 {チェスター}'s House
 
 [05.002]
-St. Lenios Church
+St Lenios Church
 
 [05.003]
-Weapon Shop "Teasel"
+Teasel Weapons
 
 [05.004]
 Inn "Repose"
 
 [05.005]
-General Store "Gori"
+Gori's Store
 
 [05.006]
 Miguel

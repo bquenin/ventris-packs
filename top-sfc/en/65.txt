@@ -1,11 +1,11 @@
 [65.000]
-General Store "Tenderloin"
+Tenderloin Store
 
 [65.001]
-Arms Shop "Garlic"
+Garlic Arms
 
 [65.002]
-Food Shop "Sirloin"
+Sirloin Foods
 
 [65.003]
 Inn "Spaghetti"

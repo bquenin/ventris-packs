@@ -1,5 +1,5 @@
 [95.000]
-Tower of the Zodiac, floor {NUM:801F}
+Zodiac {NUM:801F}F
 
 [95.001]
 {アーチェ}

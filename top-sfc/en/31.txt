@@ -1,5 +1,5 @@
 [31.000]
-Forest of Spirits
+Spirit Forest
 
 [31.001]
 {クラース}

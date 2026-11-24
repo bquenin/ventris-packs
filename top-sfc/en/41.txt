@@ -8,10 +8,10 @@ Inn "Hamel Inn"
 Item Shop "RAM"
 
 [41.003]
-Weapon Shop "Crystal Rod"
+Crystal Rod Arms
 
 [41.004]
-Armour Shop "Patience"
+Patience Armour
 
 [41.005]
 He seems to be reading a holy book.

@@ -2,22 +2,22 @@
 Inn "Bay Area"
 
 [37.001]
-Weapon Shop "Suiken"
+Suiken Weapons
 
 [37.002]
-Armour Shop "See-Through"
+See-Thru Armour
 
 [37.003]
-Supermarket "Waterfront"
+Waterfront Mart
 
 [37.004]
-Item Shop "Sea of Malaga"
+Sea of Malaga
 
 [37.005]
 Mayor's House
 
 [37.006]
-Import Company "Rayot"
+Rayot Imports
 
 [37.007]
 "I'm practising just now, so don't disturb me."

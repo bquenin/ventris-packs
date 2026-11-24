@@ -1,5 +1,5 @@
 [97.000]
-Moria Mine, floor B{NUM:801F}
+Moria Mine B{NUM:801F}
 
 [97.001]
 {アーチェ}

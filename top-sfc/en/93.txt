@@ -1,8 +1,8 @@
 [93.000]
-Temple of the Dwarves
+Dwarven Temple
 
 [93.001]
-Moria Mine, floor B{NUM:801F}
+Moria Mine B{NUM:801F}
 
 [93.002]
 "This is... a spellbook!"{PAGE}

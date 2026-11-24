@@ -13,7 +13,7 @@
 "Good. You wait here."
 
 [67.002]
-Moria Mine, floor B{NUM:801F}
+Moria Mine B{NUM:801F}
 
 [67.003]
 　　　~Old Moria Mine~

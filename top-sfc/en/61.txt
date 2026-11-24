@@ -5,25 +5,25 @@ Elven Settlement
 Inn "Elf Inn"
 
 [61.002]
-Food Shop "Akasatana"
+Akasatana Foods
 
 [61.003]
-Arms Shop "Twilight"
+Twilight Arms
 
 [61.004]
-General Store "Sunset"
+Sunset Store
 
 [61.005]
 Inn with No Name
 
 [61.006]
-Food Shop with No Name
+Nameless Foods
 
 [61.007]
-Arms Shop with No Name
+Nameless Arms
 
 [61.008]
-Item & Medicine Shop with No Name
+Nameless Items
 
 [61.009]
 Treant's Forest

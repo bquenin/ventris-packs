@@ -1,11 +1,11 @@
 [63.000]
-Town of Friezkiel
+Friezkiel Town
 
 [63.001]
-Supermarket "Freezer"
+Freezer Mart
 
 [63.002]
-Arms Shop "Iced Coffee"
+Iced Coffee Arms
 
 [63.003]
 Inn "Snow Tears"

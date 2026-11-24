@@ -1,20 +1,20 @@
 [55.000]
-Item Shop "Calendar"
+Calendar Items
 
 [55.001]
-Inn "Alvanista Inn"
+Alvanista Inn
 
 [55.002]
-Supermarket "Overeating"
+Overeating Mart
 
 [55.003]
 Arms Shop "Lime"
 
 [55.004]
-Apothecary "Dokudami"
+Dokudami Drugs
 
 [55.005]
-Adventurers' Guild "Panic"
+Guild "Panic"
 
 [55.006]
 {アーチェ}
