@@ -356,15 +356,17 @@ the minigames' French was written without seeing the pictures or hearing the sou
 - **Not reached on screen:** the Laguna Ruins and everything after; the Rune Bottle seller and the
   mystery warrior in Cresta; the table of normal attacks in the lessons (06308.618, which the game plays
   at Aigrette's harbour as 06394.376); the skit list and the skit titles; every skit but three; every
-  quiz and every minigame; Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
+  quiz question but one (06185.29194) and every minigame but one (06272); Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
 
 ## Open
 
 - Not seen on screen: all the story after the first steps on the world map, all the skits but three,
-  the enemy names but three, the skit titles, all the quiz text and all the minigames. Nothing has
-  shown how a quiz question's lines sit in their box: the build holds each string to its bytes and its
-  number of lines, not to a width. The longest are the recipe questions of 06201, whose second line
-  runs to 44 letters where the Japanese line is as wide as 38.
+  the enemy names but three, the skit titles, and the quiz books and minigames apart from the quiz's
+  opening and the two questions seen (one of the second quiz book, one picture question with a list of
+  eight answers). Those two sat inside their boxes; nothing has shown how the longer questions do: the
+  build holds each string to its bytes and its number of lines, not to a width. The longest are the
+  recipe questions of 06201, whose second line runs to 44 letters where the Japanese line is as wide
+  as 38.
 - The strings of 08055 (battle menu labels, what a new arte or lesson says, the three ways a battle
   ends) and 08996 (names of places on the field, three messages of the airship) are translated and do
   not reach the screen until a released ventris writes them where the game loads them; a few were seen
