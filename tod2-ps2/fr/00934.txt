@@ -1,0 +1,15 @@
+[00934.001]
+Au fait, {NAME:01 00 00 00}, tu as bien dit au revoir à tout le monde avant de partir ? Un aventurier ne sait jamais quand il reverra son pays. Il faut saluer comme il se doit ceux qui comptent.
+
+[00934.002]
+Hé, je suis pas un gamin. J’ai dit au revoir. À papa et maman, à Villetta, à Joe, à tout l’orphelinat...
+
+[00934.003]
+Hm, hm.
+
+[00934.004]
+Et à Miyu et Arnold, les chèvres de l’orphelinat, et à Giovanni, le coq. Et puis...
+
+[00934.005]
+Même aux bêtes !? T’es bien consciencieux...
+

@@ -2,7 +2,7 @@
 Cette ordure de Barbatos, un héros. Non mais, qu’est-ce qu’elle est devenue, l’histoire de ce monde ?
 
 [00532.002]
-Il a attaqué et blessé Woodrow et dame Philia. Un type pareil... ! Ce monde est fou ! Lui, un héros !
+Il a attaqué et blessé Woodrow et Philia. Un type pareil... ! Ce monde est fou ! Lui, un héros !
 
 [00532.003]
 {NAME:01 00 00 00}...

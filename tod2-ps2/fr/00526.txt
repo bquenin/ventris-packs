@@ -1,5 +1,5 @@
 [00526.001]
-Dis, {NAME:01 00 00 00}... si, simple supposition, toi et moi étions nés sans rien savoir de ce qui a rendu ce monde ainsi... aurions-nous pu être heureux ?
+Dis, {NAME:01 00 00 00}... si, simple supposition, toi et moi étions nés sans rien savoir de ce qui a fait de ce monde ce qu’il est... aurions-nous pu être heureux ?
 
 [00526.002]
 ... Qu’est-ce que tu racontes, {NAME:02 00 00 00} ? Ça ne peut pas...

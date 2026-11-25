@@ -1,0 +1,9 @@
+[01090.001]
+Aïe, il est super tard ! Il faut vite rentrer à l’orphelinat !
+
+[01090.002]
+De Darilsheid, Cresta est à l’est. On contourne les monts du sud.
+
+[01090.003]
+Bien. Vite !
+

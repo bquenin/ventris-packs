@@ -5,7 +5,7 @@ On dirait qu’Elraine est au bout du passage secret. Bon sang, fabriquer des m�
 À ce compte, il peut y en avoir d’autres. Restez vigilants.
 
 [00916.003]
-Oui. Vous autres, pas de rêverie, pas de piège, hein.
+Oui. Vous autres, restez éveillés, gare aux pièges.
 
 [00916.004]
 ... Je vise surtout toi.

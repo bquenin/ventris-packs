@@ -1,0 +1,15 @@
+[00966.001]
+Après ce voyage, il faudra encore apprendre des bottes secrètes aux petits.
+
+[00966.002]
+À notre retour, ils seront peut-être plus forts que toi. Il paraît que Stahn leur apprend l’épée de temps en temps.
+
+[00966.003]
+Zuuut ! Pas question d’être battu ! Puisque c’est ça, j’invente ma botte secrète à moi ! « Super taillade en rafale tourbillonnante !! » Nuoooooooooh !!
+
+[00966.004]
+Crétin ! À tourner comme ça, tu vas avoir le tournis, et... Hé ! {NAME:01 00 00 00}, l’arbre ! Il y a un arbre par là !!
+
+[00966.005]
+Kuooh... redoutable, la botte secrète...
+

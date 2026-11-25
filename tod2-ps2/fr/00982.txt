@@ -1,0 +1,36 @@
+[00982.001]
+Q-quoi !? De la brume, d’un coup...
+
+[00982.002]
+Nous voici dans la « Crête des Nuages blancs ».
+
+[00982.003]
+...... La Crête... des Nuages blancs ?
+
+[00982.004]
+Par ici, lors du désastre d’il y a dix-huit ans, Belcrant a frappé, et le relief a complètement changé. Quand le relief change, le climat aussi. Résultat : cette brume épaaaisse, là toute l’année. C’est elle qui a valu son nom à la « Crête des Nuages blancs ».
+
+[00982.005]
+Oooh~ !
+
+[00982.006]
+Formidable, {NAME:03 00 00 00} ! Tu en sais, des choses.
+
+[00982.007]
+Oh, tu sais. Aux archives de l’Ordre, il y avait une jolie bibliothécaire. Pour l’approcher, j’ai tout appris par cœur. Et voilà que ça sert ici !
+
+[00982.008]
+........
+
+[00982.009]
+........
+
+[00982.010]
+{NAME:01 00 00 00}, Neustadt est au sud-est.
+
+[00982.011]
+... Compris. Bon, on y va, tout le monde.
+
+[00982.012]
+H-hé ! Pourquoi ces têtes ?
+

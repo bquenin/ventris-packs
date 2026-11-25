@@ -1,0 +1,15 @@
+[00944.001]
+Booon. Tant qu’à faire le tour du monde, je repère des filles de toutes sortes. Et là, je choisis tranquillement celle qui me... attends ! Attends !
+
+[00944.002]
+Hm ? Tu fais quoi, tout seul, {NAME:03 00 00 00} ?
+
+[00944.003]
+Ben... d’habitude, à ce moment-là, un sacré coup de poing me tombe dessus...
+
+[00944.004]
+Un coup de poing... de qui ?
+
+[00944.005]
+Hm ? Tiens, de qui, déjà...
+

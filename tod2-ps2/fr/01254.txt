@@ -1,0 +1,3 @@
+[01254.001]
+Un nom ne m’est rien. {NAME:04 00 00 00}, ou ce que vous voudrez.
+

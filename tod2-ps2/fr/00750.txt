@@ -11,7 +11,7 @@ Eh bien, à Barbatos...
 Ouaaah ! La passion de {NAME:04 00 00 00} éclate au grand jour ! « Je pense à Barbatos », dit-il ! Quelle fin pour cet amour interdit, par-delà les sexes, par-delà les camps !?
 
 [00750.005]
-Ce à quoi je pense, c’est à l’aisance avec laquelle il s’est retiré !
+Ce à quoi je pense, c’est l’aisance avec laquelle il s’est retiré !
 
 [00750.006]
 Maintenant que tu le dis, il est reparti drôlement vite... Ah, tiens, on est devenus plus forts : il a paniqué, non ?

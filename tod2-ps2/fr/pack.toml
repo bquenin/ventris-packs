@@ -5,7 +5,7 @@ name = "Tales of Destiny 2 en français"
 version = "0.1"
 authors = ["Machine translated, directed by bquenin"]
 license = "CC-BY-NC-SA-4.0"
-description = "Machine translated from the Japanese and not reviewed by a human translator. Partial, and in progress. In French so far: the whole story, the menu screens, the battle messages, the enemy names, the lists the menus read, and the skits up to number 00918 with their titles. Still the game's own Japanese: the later skits, the quiz books and the minigames. Only the opening, the first town, three skits and the menu screens have been seen on screen; the rest has been built and checked by tools. NOTES.md says how far it goes, the names and terms chosen, and what has been seen on screen."
+description = "Machine translated from the Japanese and not reviewed by a human translator. Partial, and in progress. In French so far: the whole story, the menu screens, the battle messages, the enemy names, the lists the menus read, all the skits with their titles, the first quiz book and part of the second. Still the game's own Japanese: the rest of the quiz books and the minigames. With ventris 0.2.0 the battle messages and the field's place names are in the pack but the game still shows its Japanese for them. Only the opening, the first town, the first steps on the world map, three skits and the menu screens have been seen on screen; the rest has been built and checked by tools. NOTES.md says how far it goes, the names and terms chosen, and what has been seen on screen."
 
 [build]
 options = ["skit-pace", "narrow-spell-names"]

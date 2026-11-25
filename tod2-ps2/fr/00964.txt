@@ -1,0 +1,24 @@
+[00964.001]
+Dis, {NAME:01 00 00 00}. La sœur de Stahn, « Lilith », c’est ça ? Et si on allait la voir ?
+
+[00964.002]
+{NAME:03 00 00 00}... elle est déjà mariée, tu sais.
+
+[00964.003]
+Dis donc... je veux juste la voir ! C’est la sœur du héros Stahn Aileron !?
+
+[00964.004]
+C’est vraaai... ?
+
+[00964.005]
+Ah ! C’est quoi, cet air soupçonneux ! Je t’ai déjà menti une seule fois, moi ?
+
+[00964.006]
+Ah ! Là-bas, une femme qui voyage seule !
+
+[00964.007]
+Mademoiselle ! Même en temps de paix, voyager seule est trop dangereux. Que {NAME:03 00 00 00} Dunamis soit votre compagnon de route... non, de vie...
+
+[00964.008]
+Aucune crédibilité...
+

@@ -1,0 +1,3 @@
+[01162.001]
+Le but est au-delà des sceaux. Pour sauver {NAME:02 00 00 00}, hâte-toi.
+

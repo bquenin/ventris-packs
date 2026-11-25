@@ -35,7 +35,7 @@ En un mot : le coupable est parmi nous !!
 Hum ! Écoutez jusqu’au bout. En un mot, le coupable aimait {NAME:01 00 00 00}, l’aimait à la folie. Alors, se sachant en faute, pour sentir la chaleur de {NAME:01 00 00 00}, le goûter...
 
 [00550.013]
-Faux ! Juste un creux, la nuit !!
+Faux ! J’avais juste un creux, la nuit !!
 
 [00550.014]
 ......

@@ -1,0 +1,12 @@
+[00998.001]
+On débouche à l’air libre, mais on est où, là ?
+
+[00998.002]
+Où que ce soit, ça vaut cent fois mieux qu’une grotte sombre. Ça finit par saper le moral... Tiens ? Qu’est-ce que tu as, {NAME:03 00 00 00} ?
+
+[00998.003]
+H-hé, c’est quoi, ça !?
+
+[00998.004]
+Hé
+

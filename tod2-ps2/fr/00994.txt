@@ -1,0 +1,24 @@
+[00994.001]
+Disparaître dans la lumière... elle a dû se servir de son pouvoir pour filer à Aigrette.
+
+[00994.002]
+Dès lors, nous n’avons qu’à y voler aussi.
+
+[00994.003]
+Voler... et comment !?
+
+[00994.004]
+Près d’ici, un camp de l’armée terrestre, du temps de la guerre du Ciel et de la Terre. Si ma mémoire est bonne, il y avait là un aéronef.
+
+[00994.005]
+Un aéronef... On y va par les airs, tu veux dire !?
+
+[00994.006]
+Hé, comment tu sais ça, toi... bah, peu importe. Sauver {NAME:02 00 00 00}, c’est ça qui passe d’abord.
+
+[00994.007]
+Voilà ! Alors guide-nous, {NAME:04 00 00 00} !
+
+[00994.008]
+D’ici, au sud-ouest. Vite.
+

@@ -8077,14 +8077,551 @@ Dépôt de matériel
 [program.1117280]
 Œuf de Dieu
 
+[program.1121248]
+Le pont doit être ouvert
+
+[program.1121280]
+Tenez bon !
+
+[program.1121296]
+Trop de chaleur...
+
+[program.1121328]
+Vers mon village 2
+
+[program.1121360]
+Vers mon village 1
+
+[program.1121392]
+Visitons la ville
+
+[program.1121416]
+Cap sur Heidelberg 2
+
+[program.1121448]
+Trésor : les bases
+
+[program.1121464]
+Les machines marchent ?
+
+[program.1121488]
+À la mine Oberon
+
+[program.1121512]
+Pousser un conteneur
+
+[program.1121536]
+Que de brume
+
+[program.1121552]
+Se servir de la carte
+
+[program.1121576]
+On s’y perd vite
+
+[program.1121592]
+Au port d’Aigrette 2
+
+[program.1121616]
+Gare aux gardes...
+
+[program.1121640]
+Passer tout droit
+
+[program.1121664]
+Ce socle
+
+[program.1121680]
+Voilà Aigrette
+
+[program.1121704]
+Et si on sautait...
+
+[program.1121728]
+{NAME:06 00 00 00} se présente
+
+[program.1121744]
+{NAME:05 00 00 00} se présente
+
+[program.1121760]
+{NAME:04 00 00 00} se présente
+
+[program.1121776]
+{NAME:03 00 00 00} se présente
+
+[program.1121792]
+{NAME:02 00 00 00} se présente
+
+[program.1121808]
+{NAME:01 00 00 00} se présente
+
+[program.1121824]
+La sortie vers la surface
+
+[program.1121848]
+Ruines de Laguna
+
+[program.1121864]
+Vers les niveaux bas
+
+[program.1121880]
+Elraine proche ?
+
+[program.1121904]
+Dans le miroir
+
+[program.1121920]
+Au cœur de l’Œuf de Dieu
+
+[program.1121944]
+La peur du vide !
+
+[program.1121960]
+Apparu !?
+
+[program.1121976]
+Vers ce lieu...
+
+[program.1121992]
+Demander à Rutee
+
+[program.1122016]
+Demander à Philia
+
+[program.1122040]
+Pour aller à Aigrette
+
+[program.1122072]
+Sûrement au temple
+
+[program.1122088]
+Elraine, au fond du temple
+
+[program.1122112]
+Sus à Elraine
+
+[program.1122136]
+Regagner le futur
+
+[program.1122160]
+Vu quelque chose ?
+
+[program.1122184]
+Encore une nuit au château
+
+[program.1122200]
+Vite, à l’Œil de Dieu !
+
+[program.1122224]
+Traverse la Coque
+
+[program.1122240]
+Veille du combat 3
+
+[program.1122256]
+Swordians achevés 3
+
+[program.1122280]
+Vers Spiral Cave 5
+
+[program.1122304]
+Vole, fusée ! 3
+
+[program.1122328]
+Rapport sur la fusée
+
+[program.1122352]
+Le matériel 5
+
+[program.1122368]
+À Darilsheid
+
+[program.1122392]
+Après la Clé maîtresse
+
+[program.1122416]
+Les canaux, il me semble
+
+[program.1122432]
+But : le matériel
+
+[program.1122456]
+De la base au Dépôt
+
+[program.1122480]
+Au matériel !
+
+[program.1122496]
+Présentations, au fond
+
+[program.1122520]
+L’esprit de {NAME:05 00 00 00} 8
+
+[program.1122536]
+L’esprit de {NAME:05 00 00 00} 4
+
+[program.1122552]
+Sanctuaire de Lumière
+
 [program.1122568]
 Grotte du littoral
 
+[program.1122584]
+Brise le sceau
+
+[program.1122600]
+À l’ancienne base 3
+
+[program.1122624]
+Une nuit au château
+
+[program.1122640]
+Pas de Lentille !
+
+[program.1122656]
+Retour au présent
+
+[program.1122680]
+Par Trash Mountain
+
+[program.1122712]
+Vers mon village 3
+
+[program.1122744]
+Ferry du futur : et {NAME:02 00 00 00} ?
+
+[program.1122768]
+Allons au parc
+
+[program.1122792]
+L’ardeur après l’audience
+
+[program.1122816]
+Écoutons-le
+
+[program.1122832]
+Suis cette fille
+
+[program.1122856]
+L’audience, enfin
+
+[program.1122872]
+Tu as dit quoi, {NAME:03 00 00 00} ?
+
+[program.1122896]
+Où est le roi ?
+
+[program.1122920]
+Cap sur Heidelberg 1
+
+[program.1122952]
+Prêts ? On appareille !
+
+[program.1122976]
+Le bateau part enfin ?
+
+[program.1123008]
+Reste à le livrer
+
+[program.1123032]
+Trésor caché
+
+[program.1123048]
+En route pour la mine
+
+[program.1123064]
+La demande du marchand 2
+
+[program.1123080]
+Du nouveau au port... ?
+
+[program.1123096]
+Port de Neustadt
+
+[program.1123120]
+Petit-déj chez Lilith
+
+[program.1123144]
+Sur le pont, vite !
+
+[program.1123168]
+Au port d’Aigrette 1
+
+[program.1123192]
+Ruines de Straylize
+
+[program.1123216]
+Su à l’auberge
+
+[program.1123232]
+Auberge d’Aigrette 2
+
+[program.1123256]
+L’Œuf de Dieu...
+
+[program.1123280]
+Auberge d’Aigrette 1
+
+[program.1123304]
+Elle est à Aigrette
+
+[program.1123328]
+Tire avec l’Anneau du sorcier
+
+[program.1123352]
+Cresta - Aigrette
+
+[program.1123376]
+Fuite : Cresta
+
+[program.1123392]
+Canaux
+
+[program.1123408]
+Sous Darilsheid
+
+[program.1123432]
+Laguna, c’est où ?
+
+[program.1123456]
+C’est pas par là, non ?
+
+[program.1123480]
+Pas par là, hein
+
+[program.1123504]
+Pas par là, tu sais ?
+
+[program.1123528]
+Pas par ici
+
+[program.1123552]
+C’est pas par là
+
+[program.1123576]
+Pas ici
+
+[program.1123592]
+Corps du génie
+
+[program.1123600]
+Vers Spiral Cave
+
+[program.1123624]
+Devant les cachots
+
+[program.1123648]
+On va au hangar
+
+[program.1123664]
+On va au Radisrol
+
+[program.1123688]
+Par le sentier
+
+[program.1123704]
+On va à Realta !!
+
+[program.1123728]
+Dôme rouge... ?
+
+[program.1123752]
+Ce dôme, là ?
+
+[program.1123776]
+Trop lent, le bateau
+
+[program.1123800]
+La vérité à Woodrow
+
+[program.1123824]
+La Lentille !
+
+[program.1123840]
+Encore à Hope Town...
+
+[program.1123864]
+C’est Aigrette ?
+
+[program.1123888]
+Assaut !
+
+[program.1123896]
+Rendez-vous à Heidelberg
+
+[program.1123920]
+Du calme
+
+[program.1123936]
+À Lienea
+
+[program.1123952]
+Le port, c’est de l’autre côté
+
+[program.1123976]
+Au temple, sur ses traces
+
+[program.1124000]
+Trouver l’entrée des ruines
+
+[program.1124024]
+Entendu à l’auberge...
+
+[program.1124048]
+À maman
+
+[program.1124056]
+Fin des canaux
+
+[program.1124072]
+Laguna : le sommet
+
+[program.1124096]
+Demain, Laguna
+
+[program.1124120]
+Traverse la grotte !
+
+[program.1124136]
+Après les canaux : ruines
+
+[program.1124160]
+Après les canaux : canaux
+
+[program.1124192]
+Après les canaux : pont
+
+[program.1124216]
+Après les canaux : ville
+
+[program.1124240]
+Laguna : le pont
+
+[program.1124256]
+Hauteur dangereuse
+
+[program.1124272]
+Départ
+
 [program.1124280]
-Coque
+La Coque
+
+[program.1124288]
+Ce qui flotte dans le ciel
+
+[program.1124312]
+Les yeux au ciel
+
+[program.1124328]
+Chute
+
+[program.1124336]
+Par la voie des airs
+
+[program.1124352]
+Par Trash Mountain
+
+[program.1124384]
+Réunis à Hope Town
+
+[program.1124408]
+Projetés...
+
+[program.1124424]
+Doutes
+
+[program.1124432]
+Un refuge, là !
+
+[program.1124448]
+Crête des Nuages blancs
+
+[program.1124464]
+Le cap
+
+[program.1124472]
+Rencontre du destin
+
+[program.1124488]
+On t’attend à Hope Town
 
 [program.1124512]
 Aquaveil
+
+[program.1124528]
+Râteau-Man : l’ultime combat
+
+[program.1124552]
+Le génie de légende
+
+[program.1124576]
+Royaume de {NAME:01 00 00 00}
+
+[program.1124592]
+Botte secrète maison
+
+[program.1124616]
+Râteau-Man : cœur pur
+
+[program.1124640]
+L’arte arcane hérité
+
+[program.1124656]
+Moi, sauver le monde
+
+[program.1124672]
+Râteau-Man : version légende
+
+[program.1124704]
+En voyant un masque
+
+[program.1124720]
+Un lieu déjà vu
+
+[program.1124736]
+Encore Râteau-Man
+
+[program.1124760]
+Au gré du vent et de l’envie
+
+[program.1124792]
+Un million de fois
+
+[program.1124800]
+Une scène de rêve
+
+[program.1124816]
+Ça devrait voler, pourtant
+
+[program.1124840]
+Toi-même, un jour...
+
+[program.1124864]
+Elle m’obsède !
+
+[program.1124888]
+Râteau-Man Forever
+
+[program.1124920]
+En dormant
+
+[program.1124928]
+Adieux avant le départ
+
+[program.1124952]
+L’amour naît
+
+[program.1124968]
+Rendez-vous 2
+
+[program.1124984]
+Rendez-vous 1
+
+[program.1125000]
+Rapport à Woodrow
+
+[program.1125024]
+Pour l’avenir
 
 [program.1125040]
 Catacombes
@@ -8114,7 +8651,7 @@ Le décrocheur d’étoiles
 Fais un vœu
 
 [program.1125208]
-Vers notre rencontre...
+Où l’on s’est vus...
 
 [program.1125232]
 Le cœur retrouvé
@@ -8126,13 +8663,13 @@ LOLO
 Grandir 2
 
 [program.1125272]
-Notre rencontre 2
+Lieu de rencontre 2
 
 [program.1125288]
-Notre rencontre 1
+Lieu de rencontre 1
 
 [program.1125304]
-Mise en scène émue
+Soigner l’émotion
 
 [program.1125320]
 Liens 2
@@ -8156,7 +8693,7 @@ La tournée des héros 3
 Selon son cœur
 
 [program.1125416]
-Insectes !
+Fan d’insectes
 
 [program.1125432]
 La tournée des héros 2
@@ -8384,7 +8921,7 @@ Dymlos tourmenté 2
 Si on me capturait
 
 [program.1127056]
-Catalyse
+Catalyseur
 
 [program.1127064]
 Escorte 2
@@ -8582,7 +9119,7 @@ Histoire altérée
 Speranza
 
 [program.1128264]
-Poupées en miniature
+Les poupées du jardin
 
 [program.1128280]
 Une autre ville
@@ -8615,7 +9152,7 @@ La fête commence !
 Dycroft 1
 
 [program.1128472]
-Âge inutile
+Ans perdus
 
 [program.1128480]
 Si vous vous taisiez...
@@ -9104,7 +9641,7 @@ La vie d’une fleur...
 Lombric
 
 [program.1131520]
-Râteau-Man, la suite
+Râteau-Man : la suite
 
 [program.1131536]
 La femme idéale

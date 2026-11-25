@@ -1,0 +1,30 @@
+[00956.001]
+Au fait, l’autre jour, papa a acheté à un colporteur un masque bizarre...
+
+[00956.002]
+Un masque !?
+
+[00956.003]
+Oui... Et alors ?
+
+[00956.004]
+Méfie-toi des masques. Ceux qui en portent ont l’esprit tordu.
+
+[00956.005]
+Pas tous, quand même !? Lui, c’est juste que, par hasard... !!
+
+[00956.006]
+Hm ? Lui, c’est qui ?
+
+[00956.007]
+« C’est qui ? »... C’est toi, {NAME:03 00 00 00}, qui as lancé le sujet.
+
+[00956.008]
+... On parlait de qui, déjà ?
+
+[00956.009]
+Va savoir... ? ... De qui, alors ?
+
+[00956.010]
+Hein ?
+

@@ -1,0 +1,18 @@
+[00938.001]
+Deux hommes qui marchent, qui tapent des monstres... c’est pas mal, mais, comment dire... ça manque d’une « fleur ».
+
+[00938.002]
+Une fleur ? Tu veux des fleurs, {NAME:03 00 00 00} ? Je vais t’en cueillir quelque part ?
+
+[00938.003]
+Haa~, tu ne piges rien... Une « fleur », c’est une présence féminine. Je voudrais une jolie demoiselle comme compagne de route.
+
+[00938.004]
+Hmm... Mais dans ce cas, tu ne pourrais plus aborder les autres femmes.
+
+[00938.005]
+Urgh... c’est vrai. Je veux du réconfort... mais renoncer aux nouvelles rencontres... Aah ! Que faire, mais que faire !!
+
+[00938.006]
+Soucie-t’en le moment venu...
+

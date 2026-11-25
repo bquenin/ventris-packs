@@ -23,7 +23,7 @@ Oh ! Rends-la !!
 ........
 
 [00882.009]
-Toi, au lieu de broyer du noir, soutiens-la comme il faut, {NAME:02 00 00 00}. Tu es un garçon, non ?
+Toi, au lieu de broyer du noir, soutiens {NAME:02 00 00 00} comme il faut. Tu es un garçon, non ?
 
 [00882.010]
 Mais moi... avec quelle tête...

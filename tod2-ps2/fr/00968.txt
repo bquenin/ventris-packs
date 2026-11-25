@@ -1,0 +1,12 @@
+[00968.001]
+Woodrow, il est formidaaable~ ! Moi aussi, quand je serai grand, je fonderai peut-être mon royaume~♪
+
+[00968.002]
+Haha ! Le « royaume de {NAME:01 00 00 00} » ! Haha ! Un nom à s’effondrer en un an, à peu près.
+
+[00968.003]
+Hmpf ! Hé ! Le « royaume de {NAME:01 00 00 00} », il est super ! D’abord, tous les jours fériés, la fête tout le temps, aucune règle pénible. On mange et on joue quand on veut, on veille, on ne se lève pas tôt...
+
+[00968.004]
+Fini en trois jours.
+

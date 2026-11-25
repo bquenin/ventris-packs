@@ -1,0 +1,33 @@
+[00932.001]
+On m’a dit que « papa et maman se disputaient tout le temps » : pourquoi se sont-ils mariés ?
+
+[00932.002]
+Haha ! Le bébé {NAME:01 00 00 00} ne peut pas encore comprendre.
+
+[00932.003]
+Hmpf. Hé, me traite pas en gamin !
+
+[00932.004]
+Ils voyageaient avec un même but : « sauver le monde ». Ça a dû être épreuve sur épreuve. À partager ainsi joies et peines, que l’amitié se soit un jour changée en amour, rien d’étonnant, non ?
+
+[00932.005]
+Mmh... C’est comme ça que ça marche... ?
+
+[00932.006]
+Hm ? Attends voir...
+
+[00932.007]
+Quoi ?
+
+[00932.008]
+Ben, à ce compte-là, entre {NAME:01 00 00 00} et moi aussi, l’amour pourrait éclore un jour...
+
+[00932.009]
+A-arrête tes blagues !
+
+[00932.010]
+C’est pas une blague. Regarde, mes yeux, quand je te regarde... ils sont pas plus humides que d’habitude ? Hein, {NAME:01 00 00 00}~...★
+
+[00932.011]
+B-beurk ! Approche pas !!
+

@@ -5,7 +5,7 @@
 Hé, ça va, {NAME:05 00 00 00} ? Je te prête mon épaule ?
 
 [00674.003]
-Bêêê, raté♪ Si tu comptes faire de moi ton obligée, c’est non.
+Nananère, raté♪ Si tu comptes faire de moi ton obligée, c’est non.
 
 [00674.004]
 Hé. Avec un tel bagou, tu survivras.

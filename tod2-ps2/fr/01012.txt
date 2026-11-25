@@ -1,0 +1,3 @@
+[01012.001]
+{NAME:01 00 00 00} ! Pas par là ! Cresta, c’est à l’est d’ici, enfin.
+

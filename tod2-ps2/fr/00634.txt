@@ -17,5 +17,5 @@ Voilà. Pour étudier les capacités du corps.
 Ah, m-moi, je vais m’abstenir... Fais-le toute seule, {NAME:06 00 00 00}.
 
 [00634.007]
-Non ! Ni {NAME:06 00 00 00} seule ! Ni rien !
+Attends ! Pas de dissection, point !
 

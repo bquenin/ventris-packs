@@ -1,0 +1,9 @@
+[01106.001]
+Ces ruines mènent jusqu’au grand temple de Straylize, c’est ça ?
+
+[01106.002]
+Oui, c’est ce qu’on m’a dit.
+
+[01106.003]
+On y va !
+

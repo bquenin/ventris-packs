@@ -18,15 +18,23 @@ written, the names and terms chosen, and what has been seen on screen.
   - the lists the menus read (`program.txt`): artes and spells, tactics, enchants, the powers of
     refining, items, valuables, food, cookware, recipes, equipment, titles, shops, the world map's
     places and the short labels of the status screens;
-  - the skits from the first (00056) to 00918, and their titles.
-- **What is not:** the skits after 00918 and their titles, and the quiz books and minigames (06167 to
-  06301). They keep the game's own Japanese.
+  - all the skits (00056 to 01298) and their titles;
+  - of the quiz game: its screens and what its six hosts say (06167 to 06183), the first quiz book
+    (06184) but one answer, and the second quiz book (06185) up to its offset 20119.
+- **What is not:** the rest of the second quiz book, the other quiz books and the minigames (06186 to
+  06301): about 4,000 strings. They keep the game's own Japanese.
 - **Left as the game has them, on purpose:** the seven digits of the Options screen and the two arrows
-  `＜` `＞` of a list. They are wide characters in the game, and the Options values overlap when they
-  are written as narrow ones (see "What has been seen on screen").
-- **Read against the Japanese by a second reader.** Every hand-written string of the story and the
-  skits up to 00440 was read beside its Japanese by an agent that had not written it, and its findings
-  were corrected. The skits from 00442 on have not had that reading.
+  `＜` `＞` of a list (they are wide characters in the game, and the Options values overlap when they
+  are written as narrow ones); two skit lines whose time on screen leaves room for no letter or for one
+  (00856.012, 00926.009); and one quiz answer, 06184.28733, where no French word fits the six bytes.
+- **Two parts of this text do not reach the screen with ventris 0.2.0**, in this pack or in the English
+  one. The game loads the battle module and the field module from a second, compressed copy that the
+  build does not rewrite, so the strings of 08055 and 08996 are in the pack and the game still shows its
+  Japanese; and the prompt for leaving a town is a string the build does not yet reach. A correction to
+  ventris is on its way. See "What has been seen on screen".
+- **Read against the Japanese by a second reader.** Every hand-written string of the story, every skit,
+  and the quiz text of 06167 to 06184 was read beside its Japanese by an agent that had not written it,
+  and its findings were corrected. The second quiz book has not had that reading.
 
 ## How the text is written
 
@@ -58,7 +66,19 @@ written, the names and terms chosen, and what has been seen on screen.
 - **Four skit lines write a name in letters** (`Reala` at 00472.003, 00526.006 and 00600.015, `Kyle` at
   00796.004), as the English pack does, because the name tag would not fit the line's budget. One
   line, 00856.012, has a budget of no letters at all and is left as the game has it, as the English
-  pack leaves it.
+  pack leaves it; another, 00926.009, has a budget of one letter and is left too.
+- **A quiz string cannot grow.** Each string of the quiz books has a room counted in bytes, the room its
+  Japanese took, and may have no more lines than the Japanese. A French letter costs one byte and a
+  Japanese character two, so a question usually fits, written short, and a two-character answer leaves
+  four bytes. Where the French word does not fit:
+  - a wrong answer gets a short French word of the same kind (`Loup` where the Japanese has a dog,
+    `Jade` for a gem, `Pin` for a tall tree);
+  - a name of this game that is too long for its room is shortened, and the question carries the rest
+    (`Le Héros` for the `Héros voyeur`, with `quel voyeur` in the question; `Gamin Mach` for the
+    `Garçon Mach`; `Bon aîné` for the title `Bon grand frère`);
+  - an answer that begins with a space in the game begins with one in the pack.
+  Names from the other games of the series are spelled as the English pack spells them, and their
+  artes and items have short French names made for the room they have.
 - **The letters the pack uses** beyond plain ASCII: `é è ê ë à â ç î ï ô ù û ü œ`, `À Â Ç É È Ê Î Ô Œ`,
   `« » ’` and the no-break space. The game has 80 spare cells for narrow letters and this set, with the
   small letters `a` to `z`, `;`, `~`, `[` and `]`, takes 55 of them. A character outside the set would
@@ -235,9 +255,22 @@ serpent de Galua : jamais ensemble`.
 ## What has been seen on screen
 
 All of it in PCSX2, from power-on, on images built with ventris 0.2.0 from the Japanese disc (version
-1.01). **Nothing after the town of Cresta has been seen on screen**: every later string has only been
-built and checked by tools.
+1.01). **Nothing after the world map outside Cresta has been seen on screen**: the Laguna Ruins and
+every later string have only been built and checked by tools. No quiz has been seen on screen.
 
+- **Seen whole and right on a third build**, played from power-on to the world map: Rutee's room and
+  the balcony scene, the evening at the table, the night with its choice and the dream, the morning
+  with Loni, Rutee in the kitchen, the inn and the grocer of Cresta with the recipe offer, a battle won
+  on the world map (two name plates and two items won) and the map's `Entrer` / `Annuler` prompt: about
+  110 bubbles more, with no line cut and no mark alone at the start of a line. On a fourth build the
+  Options screen was seen right: its values stand apart and its digits are the game's own.
+- **Seen wrong on that third build:**
+  - Fleeing a battle shows the game's Japanese message, though the pack translates it (08055.340160),
+    and the prompt for leaving Cresta reads the French place name followed by Japanese. Both are text
+    the build does not put where the game reads it (see "Where it stands"); the pack cannot correct
+    them.
+  - One line of the balcony scene (06321.092) ended on a page of three words. It has been shortened to
+    one page since; that has been built and not seen.
 - **Seen whole and right** on two earlier builds of this pack: the title menu; the opening caption and
   the forest scene; the first battle, an enemy's name plate and the item won; the notices after it; the
   town of Cresta (townspeople, the signboard, the monument, the alarm bell and its choice, an
@@ -250,26 +283,35 @@ built and checked by tools.
 - **Faults seen and corrected**, then seen right on the second build: `Nouveau` cut on the cooking
   screen (now `Neuf`); three strategy names touching their label; `Manteau` and `Vit. sorts` starting
   on a panel's border (now `Mant.`, `Vit. sort`); a label against the edge of an Options popup.
-- **Faults seen and still there on the last build looked at:**
-  - On the Options screen the values of a row ran into each other (`Off` into `On`, `Perso` into
-    `Visage`), and the digit row touched. The game places the next value by the bytes of the one
-    before. Since then `Off`, `On` and `Perso` end on a space, as the English pack does, and the seven
-    digits are left as the game's wide ones. That correction has been built and has not been seen.
+- **Seen wrong on the second build, corrected and then seen right on the fourth:** on the Options screen
+  the values of a row ran into each other (`Off` into `On`, `Perso` into `Visage`), and the digit row
+  touched. The game places the next value by the bytes of the one before. `Off`, `On` and `Perso` now
+  end on a space, as the English pack does, and the seven digits are left as the game's wide ones.
+- **Faults seen and still there:**
   - In the Équipement list a slot grade and a kind of weapon are drawn joined, `AttackEpée`: the game
     puts the two words together with no space, as it does in Japanese.
   - Capitals with an accent lose it (`É` shows as `E`), and the hyphen is drawn as the game's long
     minus sign, so `dis-moi` reads `dis–moi`. The first is ventris's to correct.
   - The circumflex of `î` in the small label font is one pixel high; `Chaîne` reads almost `Chaine`.
-- **Not reached on screen:** everything after Cresta; the inn, the Rune Bottle seller and the mystery
-  warrior in Cresta; battle messages; the skit list and the skit titles; Raffinage; the Bestiaire; the
-  status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
+- **Not reached on screen:** the Laguna Ruins and everything after; the Rune Bottle seller and the
+  mystery warrior in Cresta; the table of normal attacks in the lessons (06308.618, which the game plays
+  at Aigrette's harbour as 06394.376); the skit list and the skit titles; every skit but three; every
+  quiz; Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
 
 ## Open
 
-- Not seen on screen: all the story after Cresta, all the skits but three, the battle messages, the
-  enemy names but one, the skit titles.
-- The skits after 00918, their titles, and the quiz books and minigames are still to be translated.
-- The skits from 00442 on have not been read against the Japanese by a second reader.
+- Not seen on screen: all the story after the first steps on the world map, all the skits but three,
+  the enemy names but three, the skit titles, and all the quiz text. Nothing has shown how a quiz
+  question's lines sit in their box.
+- The strings of 08055 (battle menu labels, what a new arte or lesson says, the three ways a battle
+  ends) and 08996 (names of places on the field, three messages of the airship) are translated and do
+  not reach the screen until ventris writes them where the game loads them. The same goes for the
+  prompt for leaving a town, whose French is ready: `Quitter` and the place's name.
+- The rest of the second quiz book, the other quiz books and the minigames are still to be translated.
+- The second quiz book has not been read against the Japanese by a second reader.
+- Quiz answers with four to six bytes of room: the rule in "How the text is written" is one choice
+  among others, and where the right answer itself is such a string the player is asked to recognise a
+  shorter word than the story's. The cure would be for these strings to be able to move.
 - About 200 lines of dialogue end on a page that holds only a word or two, where the French runs a
   little past the last full page. They are whole and readable; they have not been reworded.
 - The words the program joins into a sentence (`HP ` + a number + ` % rendus`, ` : guérison`,

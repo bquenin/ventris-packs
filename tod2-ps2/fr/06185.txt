@@ -1,0 +1,1128 @@
+[06185.13308]
+Le garçon le plus
+rapide de Neustadt ?
+
+[06185.13350]
+Gamin Mach
+
+[06185.13361]
+Gamin Dash
+
+[06185.13374]
+Gamin Jet
+
+[06185.13387]
+Grid le supersonique
+
+[06185.13408]
+Vieux Mach
+
+[06185.13419]
+Gamin Fusée
+
+[06185.13432]
+Oui !
+
+[06185.13439]
+Raté !
+
+[06185.13448]
+Trio « Ailes Noires » :
+Grid, John,
+et puis ?
+
+[06185.13499]
+Millie
+
+[06185.13506]
+Merry
+
+[06185.13513]
+Molly
+
+[06185.13520]
+Mully
+
+[06185.13527]
+Mary
+
+[06185.13534]
+Mairy
+
+[06185.13543]
+Misery
+
+[06185.13552]
+Emily
+
+[06185.13561]
+La mère de {NAME:01 00 00 00} ?
+
+[06185.13583]
+ Rutee
+
+[06185.13593]
+ Luche
+
+[06185.13603]
+ Rutie
+
+[06185.13615]
+ Lucy
+
+[06185.13625]
+ Rvtee
+
+[06185.13637]
+ Rouge
+
+[06185.13647]
+ Lushe
+
+[06185.13657]
+ Ruteiz
+
+[06185.13669]
+Oh, tu as l’œil !
+
+[06185.13690]
+Haha, je t’ai eu !
+
+[06185.13715]
+L’orphelinat où on a grandi ?
+
+[06185.13746]
+ Dunamis
+
+[06185.13758]
+ Duminas
+
+[06185.13770]
+ Demi-glace
+
+[06185.13782]
+ Dymlos
+
+[06185.13794]
+ Dominus
+
+[06185.13804]
+ Luminous
+
+[06185.13814]
+ Dullahan
+
+[06185.13826]
+ Djunamis
+
+[06185.13838]
+La ville de notre
+orphelinat ?
+
+[06185.13872]
+ Cresta
+
+[06185.13882]
+ Darilsheid
+
+[06185.13898]
+ Aigrette
+
+[06185.13912]
+ Lienea
+
+[06185.13920]
+ Harmentz
+
+[06185.13932]
+ Armeida
+
+[06185.13944]
+ Janos
+
+[06185.13954]
+ Heidelberg
+
+[06185.13970]
+Facile, celle-là, hein
+
+[06185.13993]
+N’importe quoi !
+
+[06185.14014]
+Ça, c’est le village de Stahn...
+
+[06185.14049]
+Ce village-là n’existe plus...
+
+[06185.14086]
+Ça s’appelle Aigrette, maintenant...
+
+[06185.14123]
+Cette ville-là n’existe plus...
+
+[06185.14160]
+La ville de notre
+orphelinat ?
+
+[06185.14194]
+ Crest
+
+[06185.14204]
+ Clusta
+
+[06185.14214]
+ Crust
+
+[06185.14224]
+ Clift
+
+[06185.14234]
+ Crofts
+
+[06185.14244]
+ Clarice
+
+[06185.14254]
+ Christ
+
+[06185.14264]
+Lequel des Quatre
+Héros vit au temple
+de Straylize ?
+
+[06185.14317]
+ Philia
+
+[06185.14327]
+ Stahn
+
+[06185.14335]
+ Woodrow
+
+[06185.14347]
+ Lilith
+
+[06185.14355]
+ Greybum
+
+[06185.14365]
+ Ailts
+
+[06185.14375]
+Ta mère, voyons...
+
+[06185.14396]
+Ton père, voyons...
+
+[06185.14417]
+Le roi de Heidelberg, lui...
+
+[06185.14446]
+C’est le Swordian de Stahn, enfin...
+
+[06185.14485]
+Ta tante, voyons...
+
+[06185.14510]
+Voleur de l’Œil de Dieu...
+
+[06185.14539]
+Ah oui, ce type-là aussi...
+
+[06185.14568]
+Lequel des Quatre est
+roi de Heidelberg ?
+
+[06185.14612]
+ Grid
+
+[06185.14622]
+ Dalzen
+
+[06185.14632]
+Elle est au temple de Straylize...
+
+[06185.14667]
+Ailes Noires !?
+
+[06185.14684]
+Des enfants partis à l’aventure avec
+{NAME:01 00 00 00} au début, qui tombe devant l’Ours-hibou ?
+
+[06185.14777]
+Uni
+
+[06185.14784]
+Cinnamon
+
+[06185.14793]
+Basil
+
+[06185.14806]
+Raté, non ?
+
+[06185.14819]
+Toi... tu fais exprès.
+
+[06185.14844]
+Trop tard. Hé, tu rigoles ?
+
+[06185.14873]
+ Mary
+
+[06185.14881]
+ Chelsea
+
+[06185.14893]
+ Marian
+
+[06185.14903]
+ Ilene
+
+[06185.14913]
+Le nom de ta mère, quand même...
+
+[06185.14946]
+Un crime...
+
+[06185.14959]
+Elle, c’est ta tante, enfin...
+
+[06185.14996]
+C’est qui, Marian... ?
+
+[06185.15021]
+N’importe quoi !!
+
+[06185.15042]
+La porte entre le vieux et
+le nouveau Heidelberg ?
+
+[06185.15096]
+Héros
+
+[06185.15103]
+Monde
+
+[06185.15110]
+Roi
+
+[06185.15117]
+Cosmos
+
+[06185.15124]
+Woodrow
+
+[06185.15137]
+Non.
+
+[06185.15142]
+Aigrette du futur :
+l’enfant né à la cérémonie ?
+
+[06185.15196]
+J-237
+
+[06185.15207]
+E-102
+
+[06185.15218]
+G-113
+
+[06185.15229]
+J-273
+
+[06185.15240]
+Quelle mémoire !
+
+[06185.15259]
+Ça, le mari
+
+[06185.15276]
+Ça, la femme
+
+[06185.15291]
+Mmh, presque !!
+
+[06185.15310]
+Bah, pas étonnant
+d’avoir oublié
+
+[06185.15346]
+Mine Oberon : sur la stèle d’Ilene,
+le minerai de Belcrant est
+la « pierre... » de quoi ?
+
+[06185.15439]
+Miracle
+
+[06185.15448]
+Magie
+
+[06185.15457]
+Force
+
+[06185.15464]
+Oberon
+
+[06185.15475]
+Renaître
+
+[06185.15484]
+Le navire de ligne entre
+Aigrette et Snowfria ?
+
+[06185.15540]
+L’Algernon
+
+[06185.15557]
+Le Neustadt
+
+[06185.15574]
+L’Enchant
+
+[06185.15589]
+Embruns
+
+[06185.15598]
+À Lienea, quel voyeur épie
+le bain de Lilith ?
+
+[06185.15648]
+Le Héros
+
+[06185.15659]
+Le Roi
+
+[06185.15670]
+L’Altesse
+
+[06185.15681]
+Le Docteur
+
+[06185.15692]
+Lequel n’est pas
+des « Ailes Noires » ?
+
+[06185.15738]
+Reid
+
+[06185.15745]
+Grid
+
+[06185.15754]
+John
+
+[06185.15761]
+Guerre du Ciel et de la
+Terre : qui gagna ?
+
+[06185.15805]
+ Terre
+
+[06185.15813]
+ Ciel
+
+[06185.15821]
+ Ailes N.
+
+[06185.15831]
+ Atamoni
+
+[06185.15845]
+Oh, tu as bien révisé.
+Enfin, c’est normal.
+
+[06185.15889]
+Opposé
+
+[06185.15896]
+Faux.
+
+[06185.15903]
+L’arme décisive de l’armée
+terrestre, qui aurait tranché
+la guerre : son nom ?
+
+[06185.15986]
+ Swordian
+
+[06185.16000]
+ Zwordian
+
+[06185.16014]
+ Sceau
+
+[06185.16022]
+ Lueur
+
+[06185.16030]
+Épée longue
+
+[06185.16043]
+Normal, ça
+
+[06185.16054]
+Je t’ai eu.
+
+[06185.16069]
+Ça existe, cette arme ?
+
+[06185.16094]
+Une arme pareille,
+ça ne tranche rien !
+
+[06185.16134]
+Au ciel vivent les « Célestes ».
+Et ceux restés à terre,
+les gens de quoi ?
+
+[06185.16211]
+Terre
+
+[06185.16218]
+Ciel
+
+[06185.16225]
+Abîme
+
+[06185.16232]
+Sol
+
+[06185.16239]
+Bah, tel quel.
+
+[06185.16256]
+Tu as bien lu, là ?
+
+[06185.16279]
+Lienea, village de Stahn :
+quel continent ?
+
+[06185.16325]
+ Fitzgald
+
+[06185.16341]
+ Seinegald
+
+[06185.16355]
+ Phandaria
+
+[06185.16369]
+ Calvalese
+
+[06185.16383]
+ Aquaveil
+
+[06185.16399]
+{NAME:02 00 00 00} et Elraine ont
+le même... quoi ?
+
+[06185.16440]
+ Pendentif
+
+[06185.16452]
+ Belcrant
+
+[06185.16466]
+ Mini-lampe
+
+[06185.16478]
+ Casque
+
+[06185.16490]
+ Coup de tête
+
+[06185.16504]
+ Péridot
+
+[06185.16516]
+ Velours
+
+[06185.16528]
+Exact.
+
+[06185.16535]
+Mon contrôle de maths rangé à
+l’orphelinat : quelle note ?
+
+[06185.16599]
+35
+
+[06185.16606]
+28
+
+[06185.16613]
+100
+
+[06185.16622]
+765
+
+[06185.16631]
+72
+
+[06185.16638]
+0
+
+[06185.16643]
+... Bon, pas un mot.
+
+[06185.16668]
+Ça, c’est {NAME:01 00 00 00} en histoire
+
+[06185.16704]
+Si j’avais eu autant...
+Rutee se serait peut-être
+fait un peu moins de souci
+
+[06185.16797]
+Sur combien !?
+
+[06185.16814]
+Bof, comme note...
+
+[06185.16833]
+Hé, hé, quand même,
+c’est un peu dur, non ?
+
+[06185.16885]
+Franchement, je préfère
+que tu ne répondes pas...
+
+[06185.16937]
+Le nom de la confiserie
+d’Aigrette, tu connais ?
+
+[06185.16987]
+Ama-Ama
+
+[06185.16996]
+Mmh-Mmh
+
+[06185.17005]
+Bon-Bon
+
+[06185.17014]
+Cru-Cru
+
+[06185.17023]
+Zig-Zag
+
+[06185.17032]
+Riquiqui
+
+[06185.17041]
+Un nom tout sucre,
+tout miel, hein
+
+[06185.17077]
+Tiens donc !
+
+[06185.17090]
+Bon,
+ça doit l’être, mais
+
+[06185.17118]
+Du frais, donc ?
+
+[06185.17135]
+Où est le rapport... ?
+
+[06185.17160]
+Ne sois pas si riquiqui !
+
+[06185.17187]
+Bah, cherche pas si loin.
+
+[06185.17214]
+Mon tout premier titre,
+c’était quoi, déjà ?
+
+[06185.17260]
+Bon aîné
+
+[06185.17269]
+Fwère au top
+
+[06185.17284]
+Frangin macho
+
+[06185.17299]
+Messire
+
+[06185.17308]
+Oui !
+Quelle mémoire !
+
+[06185.17338]
+Au top, oui, mais...
+
+[06185.17361]
+Sérieux... ?
+
+[06185.17374]
+« Messire », c’est pas moi
+
+[06185.17401]
+Aïe aïe~, je suis quoi pour toi ?
+
+[06185.17436]
+Le navire qu’on a pris,
+c’était lequel ?
+
+[06185.17478]
+L’Aligernon
+
+[06185.17495]
+L’Alegernon
+
+[06185.17512]
+L’Alagernon
+
+[06185.17529]
+Eh oui.
+Il s’en est passé, hein
+
+[06185.17565]
+Ali... ?
+
+[06185.17576]
+Ale... ?
+
+[06185.17587]
+Ala-la ?
+
+[06185.17596]
+Dans le doute, choisis-en un !
+
+[06185.17631]
+Le nom complet de Barbatos,
+tu sais ? Barbatos... quoi ?
+
+[06185.17691]
+Goetia
+
+[06185.17702]
+Dunamis
+
+[06185.17713]
+Katrea
+
+[06185.17724]
+Herschel
+
+[06185.17735]
+Zeibel
+
+[06185.17746]
+Aileron
+
+[06185.17755]
+Oui, oui, c’était ce nom-là.
+Qu’il soit déjà content
+qu’on s’en souvienne !
+
+[06185.17834]
+Dis...
+c’est nous, ça, non...
+
+[06185.17866]
+Ça, c’est Rutee, non ?
+
+[06185.17891]
+Ça fait rouquin, ça
+
+[06185.17912]
+Arrête de bûcher !
+
+[06185.17935]
+Le confondre avec Stahn, aïe...
+
+[06185.17972]
+Un type pareil :
+normal d’avoir oublié !
+
+[06185.18020]
+La spécialité de Rutee :
+« ... de viande de bête »,
+c’est quoi ?
+
+[06185.18085]
+Poêlée
+
+[06185.18092]
+Ragoût
+
+[06185.18101]
+Hachis
+
+[06185.18112]
+Bortsch
+
+[06185.18121]
+Sauté
+
+[06185.18128]
+Tourte
+
+[06185.18141]
+Oui ! Bah, évidemment.
+
+[06185.18164]
+Mais non
+
+[06185.18173]
+Hé, sérieux, là ?
+
+[06185.18192]
+Le minerai fabuleux,
+c’est quoi ?
+
+[06185.18226]
+Berselium
+
+[06185.18239]
+Heidelium
+
+[06185.18252]
+Zilcrium
+
+[06185.18265]
+Sucrium
+
+[06185.18278]
+Oui !
+Pas si facile à trouver, hein
+
+[06185.18318]
+Ça cloche, non ?
+
+[06185.18339]
+Pas ça.
+
+[06185.18348]
+Ça sonne sucré...
+ou c’est moi ?
+
+[06185.18384]
+Désolé, temps écoulé.
+
+[06185.18411]
+{NAME:01 00 00 00},
+ta mère, Rutee, tu
+l’appelles comment, déjà ?
+
+[06185.18477]
+Maman
+
+[06185.18484]
+Rutee
+
+[06185.18497]
+M’man
+
+[06185.18506]
+Daronne
+
+[06185.18515]
+La Rutee
+
+[06185.18524]
+Mère
+
+[06185.18529]
+Eh oui !
+Ça te concerne,
+tu le sais bien !
+
+[06185.18574]
+Moi, oui, je dis ça...
+
+[06185.18597]
+Presque !
+C’est de toi, là ?
+
+[06185.18627]
+Tu l’appelais comme ça ?
+
+[06185.18652]
+Hé, quel sans-gêne !
+
+[06185.18675]
+Bien cérémonieux, dis...
+
+[06185.18702]
+Ç-ça te concerne... ?
+
+[06185.18727]
+La cloche du château de
+Heidelberg : symbole de ?
+
+[06185.18779]
+Paix
+
+[06185.18784]
+Élan
+
+[06185.18789]
+Gain
+
+[06185.18794]
+Cran
+
+[06185.18799]
+Zèle
+
+[06185.18804]
+Joug
+
+[06185.18809]
+Oui !
+Le vœu que la paix dure y est
+mis tout entier, pas vrai
+
+[06185.18888]
+Dommage.
+
+[06185.18901]
+Vivre pour gagner :
+ça me déplaît pas !
+
+[06185.18941]
+Avoir du cran,
+ça compte aussi,
+mais non
+
+[06185.18986]
+Du zèle sans compter,
+c’est bien aussi.
+Mais non~
+
+[06185.19037]
+Ça sonne pas très bien, ça...
+
+[06185.19068]
+Oups.
+Tu savais pas ?
+
+[06185.19094]
+Mémoires de Kongman :
+« ... et moi » ?
+
+[06185.19134]
+Poings
+
+[06185.19141]
+Âme
+
+[06185.19148]
+Tête
+
+[06185.19155]
+Arène
+
+[06185.19166]
+Style
+
+[06185.19173]
+Force
+
+[06185.19180]
+Un vrai titre
+de champion, hein !
+
+[06185.19216]
+Daaah !
+
+[06185.19225]
+Fixe pas sa tête
+
+[06185.19242]
+L’arène ?
+Trop direct, ça
+
+[06185.19274]
+C’est moins le style
+que la force brute, non ?
+
+[06185.19324]
+Fort, il l’est, mais...
+
+[06185.19349]
+Trop pointu ?
+
+[06185.19368]
+Dans la boîte à outils des
+canaux de Darilsheid,
+quel outil n’y était pas ?
+
+[06185.19454]
+Neutralisant
+
+[06185.19467]
+Pince
+
+[06185.19474]
+Tuyau
+
+[06185.19481]
+Clou
+
+[06185.19486]
+Vanne
+
+[06185.19493]
+Canard jouet
+
+[06185.19510]
+Exactement !
+Il n’y était pas
+
+[06185.19542]
+Ça fait bien outil, non ?
+
+[06185.19569]
+Il y était, si si.
+
+[06185.19588]
+Ça a bien l’air d’y être ?
+
+[06185.19615]
+Il y était, mine de rien
+... pourquoi donc ?
+
+[06185.19661]
+Tu as oublié ?
+
+[06185.19678]
+Lilith nous a donné
+lequel de ces objets ?
+
+[06185.19722]
+Collectionneur
+
+[06185.19737]
+Bestiaire
+
+[06185.19752]
+Carte du monde
+
+[06185.19767]
+Anneau sorcier
+
+[06185.19784]
+Anneau de gel
+
+[06185.19799]
+L’objet clé du collectionneur !
+Beau cadeau !
+
+[06185.19849]
+Ça, c’est pas Rutee
+qui nous l’a donné ?
+
+[06185.19891]
+C’est de {NAME:04 00 00 00},
+je crois
+
+[06185.19918]
+T’en veux... ?
+
+[06185.19933]
+Quoi, ça ?
+
+[06185.19944]
+Pauvre Lilith, quand même...
+
+[06185.19973]
+L’aventure en forêt près
+de Cresta : quel enfant
+manquait ?
+
+[06185.20034]
+Rim
+
+[06185.20041]
+Oui, oui.
+Rim, qui aide toujours
+à la lessive, hein
+
+[06185.20100]
+Du voyage, non ?
+
+[06185.20119]
+Déjà oublié ?
+
+[06185.20511]
+Et hop !
+
+[06185.21179]
+Heidelberg
+
+[06185.21215]
+Cresta
+
+[06185.23497]
+Aigrette
+
+[06185.23517]
+Neustadt
+
+[06185.23532]
+Snowfria
+
+[06185.23930]
+Lilith
+
+[06185.24277]
+Gelée pomme
+
+[06185.24290]
+Fiole de vie
+
+[06185.24303]
+Gelée orange
+
+[06185.24405]
+Vallée de Harmentz
+
+[06185.25351]
+Jade
+
+[06185.25914]
+Hope Town
+
+[06185.25927]
+Cherik
+
+[06185.26078]
+Heat River
+
+[06185.26500]
+Arène
+
+[06185.29754]
+Guts
+
+[06185.29761]
+Brave
+
+[06185.29770]
+Justice
+
+[06185.29783]
+Frontier
+
+[06185.29796]
+True
+
+[06185.29805]
+Dream
+
+[06185.30276]
+Kongman
+
+[06185.30287]
+Philia
+

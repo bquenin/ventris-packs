@@ -1,0 +1,54 @@
+[00986.001]
+Que Stahn soit parti à l’aventure, qu’Ilene ait été cadre de la compagnie Oberon, tout ça remonte à plus de dix ans. Mais toi, tu avais l’air de connaître les deux, alors...
+
+[00986.002]
+... Alors je serais suspect ? Que de détours. Si tu me fais si peu confiance, dis-le clairement.
+
+[00986.003]
+Dis donc, je vais finir par me fâcher. Je parlais juste d’âge : comment on en arrive à des soupçons !?
+
+[00986.004]
+S-stooop !
+
+[00986.005]
+{NAME:01 00 00 00}...
+
+[00986.006]
+Du calme, tous les deux ! Se disputer, c’est pas bien ! {NAME:03 00 00 00}, tu as demandé son âge par curiosité, c’est tout, hein ? Et {NAME:04 00 00 00}, tu ne veux pas répondre, c’est ça ? Alors le sujet est clos !
+
+[00986.007]
+... Pas si simple. Quelqu’un d’autre veut savoir qui je suis.
+
+[00986.008]
+Hé ?
+
+[00986.009]
+........
+
+[00986.010]
+{NAME:02 00 00 00}...
+
+[00986.011]
+Moi aussi, je me le demande depuis le début. Pourquoi...
+
+[00986.012]
+« Pourquoi sais-tu qui je suis ? »... n’est-ce pas ? Si tu veux la réponse, dis d’abord qui tu es, toi. Alors je répondrai aussi.
+
+[00986.013]
+C’est que, euh...
+
+[00986.014]
+S’il faut le savoir, nos routes se séparent.
+
+[00986.015]
+........
+
+[00986.016]
+........
+
+[00986.017]
+À l’accostage, je disparais. Adieu.
+
+[00986.018]
+Hé, {NAME:04 00 00 00} !
+

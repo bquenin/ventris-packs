@@ -1,0 +1,6 @@
+[00922.001]
+Allez, on y va, {NAME:02 00 00 00}. Pour notre avenir... !
+
+[00922.002]
+Oui ! Pour l’avenir où l’on se reverra !
+

@@ -8,7 +8,7 @@ Se soucier du retour avant même d’y aller ? Je me débrouille, sois tranquil
 Mais...
 
 [00910.004]
-Ni mais, ni courge, ni tomate de Calvilia, ni Tilmanic Diatonhose ! D’abord, tu n’es qu’un cobaye ! Me contredire, c’est mille ans trop tôt.
+Ni mais, ni courge, ni tomate de Calvilia, ni Tilmanic Diatonhose ! D’abord, tu n’es qu’un cobaye ! Pour me contredire, repasse dans mille ans.
 
 [00910.005]
 Hé hé, d’accord. Je m’en remets à toi, {NAME:06 00 00 00}.

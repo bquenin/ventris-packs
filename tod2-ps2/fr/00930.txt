@@ -1,0 +1,12 @@
+[00930.001]
+C’était quoi, ça...
+
+[00930.002]
+........
+
+[00930.003]
+Ohé, vous rêvez ? {NAME:06 00 00 00} vous appelle, j’ai dit !
+
+[00930.004]
+P-pardon !
+

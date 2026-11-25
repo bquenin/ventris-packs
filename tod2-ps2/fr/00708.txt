@@ -2,10 +2,10 @@
 Mmh...
 
 [00708.002]
-Quoi ? Tu n’as toujours pas renoncé pour Atwight ?
+Quoi ? Tu n’as toujours pas renoncé à sauver Atwight ?
 
 [00708.003]
-Bien sûr ! Je ne renonce pas si vite !
+Non ! Je ne renonce pas si vite !
 
 [00708.004]
 Vous aussi ?

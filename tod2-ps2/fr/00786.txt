@@ -5,7 +5,7 @@ Dis, {NAME:06 00 00 00}. « Contrôler Belcrant », ça ne peut pas être just
 Tu peux essayer... mais l’énergie s’emballe et, au pire, Belcrant part tout seul.
 
 [00786.003]
-Si « Belcrant est cassé », c’est très bien, non !
+Si « Belcrant est cassé », c’est très bien, non ?
 
 [00786.004]
 Et là, « Dycroft explose aussi » : tous morts. « Les cités aériennes en miettes » pleuvent, et au passage, « plus de surface ». Alors ? Envie de casser ?

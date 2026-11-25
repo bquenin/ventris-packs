@@ -1,0 +1,9 @@
+[01136.001]
+Tiens, on entre drôlement facilement... J’en suis presque déçu. Tu leur as dit quoi, au juste, {NAME:03 00 00 00} ?
+
+[01136.002]
+Oh, j’ai dit : « Le fils des héros Stahn et Rutee vient voir Woodrow. » Et ils nous ont laissés passer sans histoire.
+
+[01136.003]
+Ooh~. Hé hé ! Je suis donc célèbre, moi♪
+

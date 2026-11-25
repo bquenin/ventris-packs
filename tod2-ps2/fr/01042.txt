@@ -1,0 +1,3 @@
+[01042.001]
+{NAME:01 00 00 00} ! Où vas-tu donc !? Vite, auprès de Woodrow !
+

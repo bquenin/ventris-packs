@@ -1,0 +1,15 @@
+[00976.001]
+Dis, la prochaine fois, on apporte des cadeaux aux enfants de Hope Town aussi.
+
+[00976.002]
+Oui. Je veux bien, mais moi, j’aimerais mieux, comment dire... un endroit plein de femmes adultes... Là-bas, il n’y a presque que des gosses, non ?
+
+[00976.003]
+Qu’est-ce que tu racontes, {NAME:03 00 00 00}. Ta future épouse est peut-être parmi ces enfants.
+
+[00976.004]
+Cré~tin ! Ça, même si le ciel et la terre se renversaient, jamais. Moi, c’est « les grandes demoiselles, et rien d’autre ».
+
+[00976.005]
+Tu crois... Moi, j’ai comme un pressentiment...
+

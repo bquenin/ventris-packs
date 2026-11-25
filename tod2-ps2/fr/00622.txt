@@ -5,7 +5,7 @@ Pourquoi... pourquoi Lou vit-il !? Et... elle ne s’étonne de rien ? C’est
 {NAME:03 00 00 00}...
 
 [00622.003]
-{NAME:01 00 00 00}. Réveillons cette idiote !
+{NAME:01 00 00 00}. Réveillons cette crétine !
 
 [00622.004]
 Oui

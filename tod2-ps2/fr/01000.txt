@@ -1,0 +1,48 @@
+[01000.001]
+C’est... Dycroft !
+
+[01000.002]
+... Pourquoi ce truc est là... Stahn et les autres l’ont détruit il y a dix-huit ans !?
+
+[01000.003]
+A-alors, ici... c’est le passé !?
+
+[01000.004]
+Impossible ! Nous n’avons pas voyagé dans le temps. Ni vers le passé, ni vers l’avenir... !
+
+[01000.005]
+Dans ce cas... nous sommes à notre époque.
+
+[01000.006]
+M-mais c’est pas possible ! Si ce truc flotte là-haut...
+
+[01000.007]
+Vous avez vu la lumière de tout à l’heure. C’était celle de Lentilles. Pas celle de Belcrant. Elle fournit sans doute une énergie à ce dôme. Dycroft a paru deux fois dans l’histoire, et jamais il n’a alimenté la surface en énergie.
+
+[01000.008]
+Elraine ?
+
+[01000.009]
+Hein ?
+
+[01000.010]
+Elraine aurait fait ça !?
+
+[01000.011]
+Sans doute.
+
+[01000.012]
+Hé, ça veut dire quoi ? Explique, {NAME:04 00 00 00} !
+
+[01000.013]
+Nous sommes bien à notre époque. Mais une époque refaite par Elraine, à sa convenance...
+
+[01000.014]
+C-comment ce serait possible !
+
+[01000.015]
+... C’est possible. Parce qu’Elraine peut aller dans le passé. Changer le passé change l’avenir. Elle peut même changer le monde.
+
+[01000.016]
+B-bon, allons voir là-bas ! On saura peut-être.
+
