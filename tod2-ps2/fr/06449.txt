@@ -36,7 +36,7 @@ La plupart de ces réfugiés venaient de « Darilsheid », de « Harmentz »
 Il leur fallait un secours. Le temple de Straylize les recueillit et bâtit une ville à ses pieds : ainsi naquit Aigrette.
 
 [06449.023]
-Carrefour des routes du nord du continent, Aigrette grandit à vue d’œil, jusqu’à devenir la grande ville que le monde entier connaît.
+Carrefour du nord du continent, Aigrette grandit à vue d’œil, jusqu’à devenir la grande ville que le monde entier connaît.
 
 [06449.025]
 Il y a un livre intitulé « Histoire d’un géant : la compagnie Oberon ». Le lire ?
@@ -49,7 +49,7 @@ Il y a un livre intitulé « Histoire d’un géant : la compagnie Oberon ».
 La compagnie Oberon fut fondée par « Hugo Gilchrist », l’homme en qui l’on voit l’origine des derniers troubles.
 
 [06449.031]
-Elle concevait et vendait des articles à Lentilles, et rachetait les Lentilles : c’était un géant, présent sur chaque continent.
+Elle concevait et vendait des articles à Lentilles, rachetait les Lentilles : un géant présent sur chaque continent.
 
 [06449.033]
 Mais cette puissance finit par servir l’ambition de Hugo.
@@ -74,7 +74,7 @@ Il y a quelque mille ans... une comète géante heurta cette planète.
 La poussière soulevée par le choc priva la terre des bienfaits du soleil, et la terre dépérit...
 
 [06449.047]
-Pour fuir une terre devenue glaciale et survivre, les hommes firent flotter des cités haut dans le ciel, afin de retrouver la lumière.
+Fuyant une terre glacée pour survivre, les hommes firent flotter des cités haut dans le ciel, afin de retrouver la lumière.
 
 [06449.049]
 Mais seuls quelques-uns, les puissants du moment, purent gagner les cités célestes : la plupart restèrent à terre...
@@ -186,7 +186,7 @@ Pourquoi le Dragon volant vient-il dans cette ville ?
 Jeune
 
 [06449.099]
-Moi, en voyant le Dragon volant, je me suis emballé, naïvement : « C’est la technique des Lentilles à l’état pur ! », et tout ça.
+Moi, devant le Dragon volant, je me suis emballé, naïvement : « C’est la technique des Lentilles à l’état pur ! », tout ça.
 
 [06449.100]
 Jeune
@@ -231,7 +231,7 @@ Quoi, pour devenir scientifique, il faut travailler dur ? Moi, je le suis deven
 Jeune
 
 [06449.115]
-Le professeur {NAME:06 00 00 00} n’a laissé aucun livre : « Les livres gênent la souplesse de pensée », voilà ! Les génies, ce n’est pas comme nous !
+Le professeur {NAME:06 00 00 00} n’a laissé aucun livre : « Les livres gênent la souplesse de pensée » ! Les génies, c’est différent !
 
 [06449.117]
 C’est vrai, {NAME:06 00 00 00}... ?
@@ -258,7 +258,7 @@ Autrement dit, vous seriez le vrai professeur {NAME:06 00 00 00}, venu à notre 
 Jeune
 
 [06449.127]
-Vous seriez le vrai professeur {NAME:06 00 00 00}, venu à notre époque en voyageant dans le temps ? Même un enfant ne croirait pas à ce conte !
+Vous seriez le vrai professeur {NAME:06 00 00 00}, venu à notre époque à travers le temps ? Même un enfant ne croirait pas ce conte !
 
 [06449.128]
 Jeune
@@ -399,7 +399,7 @@ Pour aider, si peu que ce soit, ceux qui veulent apprendre de l’histoire pass�
 Bibliothécaire
 
 [06449.179]
-Le déroulement de cette affaire, les gens du château qui étaient sur place, ceux qui ont donné de leurs biens pour porter secours...
+Le déroulement de cette affaire, les gens du château présents, ceux qui ont donné de leurs biens pour porter secours...
 
 [06449.180]
 Bibliothécaire

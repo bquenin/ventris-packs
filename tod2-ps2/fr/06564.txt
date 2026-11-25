@@ -350,7 +350,7 @@ Lame courbe et fine, 67,3 cm de tranchant. Longueur totale, garde comprise : 81
 La poignée est légèrement renflée, à la main de Chaltier lui-même. Le relief porte un motif de gerbes.
 
 [06564.177]
-Élément : terre. Emploie surtout des sorts à base de pierres et de rochers... Ah, tu veux aussi les sorts disponibles au départ ?
+Élément : terre. Emploie surtout des sorts à base de pierres et de rochers... Ah, tu veux aussi les sorts de départ ?
 
 [06564.179]
 Des données aussi précises...
@@ -900,7 +900,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06564.400]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06564.401]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

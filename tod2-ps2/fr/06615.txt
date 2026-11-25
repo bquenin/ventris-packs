@@ -20,7 +20,7 @@ Des coussins sont posés sur le sol.
 Maître de Moryu
 
 [06615.011]
-Bienvenue au bazar Moryu ! Chez nous, ce n’est pas une boutique comme on en voit partout : on est un cran, deux crans au-dessus !
+Bienvenue au bazar Moryu ! Ici, ce n’est pas une boutique comme les autres : on est un cran, deux crans au-dessus !
 
 [06615.012]
 Client

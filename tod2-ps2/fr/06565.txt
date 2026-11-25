@@ -351,7 +351,7 @@ E-en tout cas, allons voir le commandant.
 Karell
 
 [06565.141]
-S’impatienter ici ne sert à rien. De toute façon, tant que la machine de {NAME:06 00 00 00} n’est pas prête, nous ne pouvons rien entreprendre.
+Inutile de s’impatienter. De toute façon, tant que la machine de {NAME:06 00 00 00} n’est pas prête, nous ne pouvons rien faire.
 
 [06565.142]
 Dymlos
@@ -381,7 +381,7 @@ Hein ?
 Dymlos répond de tous les soldats de l’armée terrestre. Autrement dit, c’est le poids de toutes ces vies qu’il porte.
 
 [06565.159]
-... Autrement dit, entre la seule vie d’Atwight et tous les soldats de l’armée terrestre, Dymlos a fait passer ces derniers d’abord ?
+... Autrement dit, Dymlos a fait passer tous les soldats de l’armée terrestre avant la seule vie d’Atwight ?
 
 [06565.161]
 C’est ça. Et une fois sa décision prise, il a le devoir de s’y tenir.

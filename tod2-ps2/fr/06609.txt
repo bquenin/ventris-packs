@@ -116,7 +116,7 @@ Regarde cette bague. Je l’ai prise tout à l’heure à un type qui se rendait
 Troupier terrestre
 
 [06609.044]
-Prendre du butin aux vaincus, ça n’a rien de mal, tu sais. Regarde l’histoire des guerres : ça se fait partout et de tout temps.
+Prendre du butin aux vaincus, ça n’a rien de mal, tu sais. Regarde l’histoire des guerres : ça se fait partout, toujours.
 
 [06609.045]
 Troupier terrestre

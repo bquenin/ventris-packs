@@ -57,7 +57,7 @@ Des îles que nulle main n’a touchées
 La plus haute prairie du pays des brumes
 Au sein des monts embrumés
 
-　　　Là, obtiens les preuves du malheur
+　　　Obtiens-y les preuves du malheur
 
 [06348.030]
 Des mots sont gravés sur la stèle, mais ils sont trop difficiles à lire.
@@ -267,7 +267,7 @@ Vieil homme
 Si je n’avais rien eu de précieux, je n’aurais pas connu la douleur de perdre...
 
 [06348.110]
-Perdre fait peut-être souffrir. Mais ne changez pas en souffrance jusqu’aux souvenirs heureux que ces êtres chers vous ont laissés...
+Perdre fait peut-être mal. Mais ne changez pas en douleur jusqu’aux souvenirs heureux que ces êtres chers ont laissés...
 
 [06348.112]
 {NAME:02 00 00 00}...
@@ -381,7 +381,7 @@ Le château royal est écrasé sous les décombres. Impossible d’aller plus lo
 Grid
 
 [06348.158]
-... Pourquoi !? Nous sommes les « Ailes Noires », la bande de chasseurs de Lentilles la plus forte de l’histoire, jamais vaincue !
+... Pourquoi !? Nous sommes les « Ailes Noires », chasseurs de Lentilles les plus forts de l’histoire, jamais vaincus !
 
 [06348.159]
 Grid
@@ -675,7 +675,7 @@ Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge b
 Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
 
 [06348.267]
-Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+Avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut s’en trouver désavantagé. Fais-y attention.
 
 [06348.268]
 Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
@@ -765,7 +765,7 @@ C’est à peu près ça.
 On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
 
 [06348.300]
-Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tu seras plus efficace.
 
 [06348.302]
 Leur sujet semble être : « le Technical Smash ». Écouter ?
@@ -840,7 +840,7 @@ Pour un nombre de coups plus élevé, la coordination avec tes compagnons est in
 Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
 
 [06348.328]
-En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+Oui. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là aussi, il faut équilibrer sorts et artes.
 
 [06348.330]
 Leur sujet semble être : « la zone d’influence ». Écouter ?
@@ -1003,7 +1003,7 @@ Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se
 Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
 
 [06348.387]
-On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+On dit qu’utiliser des objets, lancer des soins ou changer d’équipement en plein combat, c’est vraiment pas la classe.
 
 [06348.388]
 Et s’il est haut, ça apporte quoi de bien ?
@@ -1138,7 +1138,7 @@ C’est quoi, cette rumeur ?
 Ça va pas du tout, quoi. Je vends tout.
 
 [06348.436]
-Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+Je n’irais pas jusque-là, mais vendre le plus possible d’équipement inutile est conseillé, rien que pour ranger.
 
 [06348.437]
 Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.

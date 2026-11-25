@@ -14,10 +14,10 @@ Temple de Straylize
 Philia
 
 [06388.007]
-« Rapport sur l’élimination des Bombes Philia »... Elle semble s’être débarrassée d’une chose produite en masse dans sa jeunesse.
+« Rapport sur l’élimination des Bombes Philia »... Elle aurait jeté une chose produite en masse dans sa jeunesse.
 
 [06388.009]
-« La vérité sur les troubles de l’Œil de Dieu ». Un récit véridique paru juste après les troubles, devenu un succès de librairie.
+« La vérité sur les troubles de l’Œil de Dieu ». Un récit véridique paru juste après, devenu un succès de librairie.
 
 [06388.011]
 L’auteur serait un scientifique ayant pris part à la mise au point d’une arme appelée « canon à Lentilles concentrées ».
@@ -167,7 +167,7 @@ Il a tout à fait raison.
 Philia... !
 
 [06388.079]
-Le Grand prêtre avait volé « l’Œil de Dieu » et servi une ambition : dominer le monde. Et moi, sans le savoir, je l’y avais aidé...
+Le Grand prêtre avait volé « l’Œil de Dieu » pour qui voulait dominer le monde. Et moi, sans le savoir, je l’avais aidé...
 
 [06388.080]
 Quand je l’ai appris, j’ai regretté tout ce que j’avais été, et je n’ai su que pleurer.
@@ -522,7 +522,7 @@ Un minerai particulier ?
 Ce minerai est celui dont on se servait jadis, dit-on, pour amplifier le pouvoir des Lentilles...
 
 [06388.254]
-Une pierre très dangereuse : c’est elle, dit-on, qui donnait sa force de destruction à Belcrant, l’arme de Dycroft, la cité céleste...
+Une pierre très dangereuse : elle donnait, dit-on, sa force destructrice à Belcrant, l’arme de Dycroft, la cité céleste...
 
 [06388.256]
 Ne me dites pas... « l’Œil de Dieu » ?

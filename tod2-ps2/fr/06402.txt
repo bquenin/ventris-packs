@@ -152,7 +152,7 @@ Les prophéties de Sabadicho se réalisent toujours, parfaitement~.
 Passager
 
 [06402.060]
-Ces pèlerins, ils trimballent des Lentilles, de l’argent, tout un tas de choses. À la première occasion, je leur fais les poches.
+Ces pèlerins, ils trimballent plein de Lentilles et d’argent. À la première occasion, je leur fais les poches.
 
 [06402.061]
 Passager
@@ -176,7 +176,7 @@ Mais j’ai peur d’être puni...
 Passager
 
 [06402.068]
-Ces pèlerins, ils trimballent des Lentilles, de l’argent, tout un tas de choses. À la première occasion, je leur fais les poches.
+Ces pèlerins, ils trimballent plein de Lentilles et d’argent. À la première occasion, je leur fais les poches.
 
 [06402.069]
 Bon voyage.

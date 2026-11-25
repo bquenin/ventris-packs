@@ -152,7 +152,7 @@ Celui-ci renferme celle de {NAME:06 00 00 00}.
 Karell
 
 [06591.069]
-Je le manie... la personnalité est celle de {NAME:06 00 00 00}... {NAME:06 00 00 00} et moi sommes ensemble en toute circonstance : c’est ce qui fait ma force.
+Je le manie... la personnalité est celle de {NAME:06 00 00 00}... {NAME:06 00 00 00} et moi sommes toujours ensemble : c’est ce qui fait ma force.
 
 [06591.070]
 Clemente

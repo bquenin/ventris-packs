@@ -104,7 +104,7 @@ Vraiment... depuis que ma petite sœur s’est mariée à Aigrette, ma grand-mè
 Gaillarde
 
 [06472.040]
-« Un gendre digne d’une descendante des Célestes », « si nous n’avions pas perdu la guerre du Ciel et de la Terre »... J’en ai assez.
+« Un gendre digne du sang des Célestes », « si on n’avait pas perdu la guerre du Ciel et de la Terre »... J’en ai assez.
 
 [06472.041]
 Gaillarde
@@ -152,7 +152,7 @@ Vraiment... depuis que ma petite sœur s’est mariée à Aigrette, ma grand-mè
 Gaillarde
 
 [06472.056]
-« Un gendre digne d’une descendante des Célestes », « si nous n’avions pas perdu la guerre du Ciel et de la Terre »... J’en ai assez.
+« Un gendre digne du sang des Célestes », « si on n’avait pas perdu la guerre du Ciel et de la Terre »... J’en ai assez.
 
 [06472.057]
 Gaillarde
@@ -233,7 +233,7 @@ Ce serait du gâchis de laisser ça sous la pluie, non !?
 Monsieur Voleur
 
 [06472.084]
-Mais ceux qui ont déménagé, qu’est-ce qu’ils ont dans le crâne ! Partir en laissant ses biens : ils sont tombés sur la tête, ou quoi !?
+Mais ceux qui ont déménagé, qu’est-ce qu’ils ont dans le crâne ! Partir en laissant ses biens : ils sont fous, ou quoi !?
 
 [06472.085]
 Monsieur Voleur
@@ -281,7 +281,7 @@ Ces temps-ci, mes connaissances partent pour Aigrette l’une après l’autre, 
 Commère B
 
 [06472.100]
-Tiens, vous n’y allez pas, chère madame ? À Aigrette, les gens de l’Ordre d’Atamoni font tout pour vous, à ce qu’on dit, sachez-le !
+Tiens, vous n’y allez pas, chère madame ? À Aigrette, les gens de l’Ordre d’Atamoni feraient tout pour vous, sachez-le !
 
 [06472.101]
 Commère B

@@ -14,13 +14,13 @@ Musée « Mémoire de la guerre du Ciel et de la Terre »
 Pour fuir la poussière soulevée par la chute d’une comète géante, les hommes bâtirent des cités dans les airs.
 
 [06448.009]
-Ces cités aériennes auraient été englouties au fond des mers par l’armée terrestre, à la fin de la guerre du Ciel et de la Terre.
+Ces cités aériennes auraient été coulées au fond des mers par l’armée terrestre, après la guerre du Ciel et de la Terre.
 
 [06448.011]
 « Soldat de l’armée terrestre »
 
 [06448.013]
-L’armée terrestre fut formée par les gens de la terre, soulevés contre la domination armée du ciel, qu’ils ne supportaient plus.
+L’armée terrestre fut formée par les gens de la terre, soulevés contre la domination armée du ciel, devenue intolérable.
 
 [06448.015]
 Acculée au bord de la défaite, l’armée terrestre l’emporta grâce au pouvoir des Swordians.

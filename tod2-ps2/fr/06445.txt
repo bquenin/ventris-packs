@@ -71,7 +71,7 @@ Moi, j’ai mis au point l’épée ultime ! Devant elle, même les Swordians p
 Marchand
 
 [06445.029]
-Rien à voir avec les épées d’avant ! Figurez-vous que la lame s’allonge jusqu’au triple ! De quoi abattre même les ennemis haut perchés !
+Rien à voir avec les épées d’avant ! Eh oui, la lame triple de longueur ! De quoi abattre même les ennemis haut perchés !
 
 [06445.031]
 C’est quoi, des « ennemis haut perchés »...
@@ -278,7 +278,7 @@ Ah, des aventuriers. Hmm, alors je pourrais peut-être vous confier l’affaire 
 Winters
 
 [06445.107]
-{NAME:01 00 00 00}, je cherche en ce moment un minerai fabuleux, le « Berselium », mais il est d’une rareté terrible : on n’en trouve presque jamais.
+{NAME:01 00 00 00}, je cherche en ce moment un minerai fabuleux, le « Berselium », mais il est rarissime, presque introuvable.
 
 [06445.108]
 Winters
@@ -308,7 +308,7 @@ Ohhh ! Ça, c’est fort ! Bravo de l’avoir trouvé !
 Winters
 
 [06445.119]
-Alors, {NAME:01 00 00 00}, on fait quoi ! Je te fabrique quelque chose en échange ? Je fais à mon idée : ce que ça donnera, c’est la surprise !
+Alors, {NAME:01 00 00 00}, on fait quoi ! Je te fabrique un truc en échange ? Je fais à mon idée : le résultat, c’est la surprise !
 
 [06445.121]
 {03:00 00 00 00}　Volontiers　

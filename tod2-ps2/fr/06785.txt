@@ -131,7 +131,7 @@ Ne bouge plus ! Écarte-toi de Philia tout de suite !
 ... Qui es-tu, toi !?
 
 [06785.047]
-Comment as-tu osé t’en prendre à Philia... ! Le suivant, c’est moi... {NAME:01 00 00 00} Dunamis, futur grand héros : je suis ton adversaire !
+Tu as osé t’en prendre à Philia... ! À mon tour... {NAME:01 00 00 00} Dunamis, futur grand héros, sera ton adversaire !
 
 [06785.048]
 ?????

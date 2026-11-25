@@ -62,7 +62,7 @@ Il a tout à fait raison.
 Philia... !
 
 [06786.029]
-Le Grand prêtre avait volé « l’Œil de Dieu » et servi une ambition : dominer le monde. Et moi, sans le savoir, je l’y avais aidé...
+Le Grand prêtre avait volé « l’Œil de Dieu » pour qui voulait dominer le monde. Et moi, sans le savoir, je l’avais aidé...
 
 [06786.030]
 Quand je l’ai appris, j’ai regretté tout ce que j’avais été, et je n’ai su que pleurer.
@@ -435,7 +435,7 @@ Un minerai particulier ?
 Ce minerai est celui dont on se servait jadis, dit-on, pour amplifier le pouvoir des Lentilles...
 
 [06786.204]
-Une pierre très dangereuse : c’est elle, dit-on, qui donnait sa force de destruction à Belcrant, l’arme de Dycroft, la cité céleste...
+Une pierre très dangereuse : elle donnait, dit-on, sa force destructrice à Belcrant, l’arme de Dycroft, la cité céleste...
 
 [06786.206]
 Ne me dites pas... « l’Œil de Dieu » ?

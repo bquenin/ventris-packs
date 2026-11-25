@@ -101,10 +101,10 @@ D’abord, pourquoi fallait-il faire flotter des cités ? Pourquoi la terre ét
 La chute de la comète.
 
 [06627.057]
-Oui. Il y a environ mille ans, quand une comète géante a heurté cet astre, plus de la moitié de l’humanité a péri en un instant.
+Oui. Il y a environ mille ans, quand une comète géante a heurté cet astre, la majorité de l’humanité a péri d’un coup.
 
 [06627.059]
-La poussière soulevée par le choc a entièrement masqué la lumière du soleil, et la surface est devenue une terre de froid extrême.
+La poussière soulevée par le choc a entièrement masqué le soleil, et la surface est devenue une terre de froid extrême.
 
 [06627.061]
 Voilà pourquoi on a fait flotter les cités elles-mêmes, plus haut encore que la poussière qui couvrait le ciel.

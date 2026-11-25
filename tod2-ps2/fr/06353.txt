@@ -180,7 +180,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06353.070]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06353.071]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
@@ -435,16 +435,16 @@ Que dois-je fabriquer ?{02}
 　Protection　
 
 [06353.159]
-{03:00 00 00 00}　Épée ({NAME:01 00 00 00}, {NAME:04 00 00 00})　
+{03:00 00 00 00}　Épée ({NAME:01 00 00 00}/{NAME:04 00 00 00})　
 　Arme à deux mains ({NAME:03 00 00 00})　
-　Bâton ({NAME:02 00 00 00}, {NAME:06 00 00 00})　
+　Bâton ({NAME:02 00 00 00}/{NAME:06 00 00 00})　
 　Arc ({NAME:05 00 00 00})　
 
 [06353.161]
-{03:00 00 00 00}　Armure ({NAME:01 00 00 00}, {NAME:03 00 00 00}, {NAME:04 00 00 00})　
-　Habit ({NAME:02 00 00 00}, {NAME:05 00 00 00}, {NAME:06 00 00 00})　
-　Heaume ({NAME:01 00 00 00}, {NAME:03 00 00 00}, {NAME:04 00 00 00})　
-　Coiffe ({NAME:02 00 00 00}, {NAME:05 00 00 00}, {NAME:06 00 00 00})　
+{03:00 00 00 00}　Armure ({NAME:01 00 00 00}/{NAME:03 00 00 00}/{NAME:04 00 00 00})　
+　Habit ({NAME:02 00 00 00}/{NAME:05 00 00 00}/{NAME:06 00 00 00})　
+　Heaume ({NAME:01 00 00 00}/{NAME:03 00 00 00}/{NAME:04 00 00 00})　
+　Coiffe ({NAME:02 00 00 00}/{NAME:05 00 00 00}/{NAME:06 00 00 00})　
 
 [06353.163]
 {03:00 00 00 00}Lancer la fabrication ?

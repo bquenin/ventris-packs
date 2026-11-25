@@ -48,7 +48,7 @@ Des îles que nulle main n’a touchées
 La plus haute prairie du pays des brumes
 Au sein des monts embrumés
 
-　　　Là, obtiens les preuves du malheur
+　　　Obtiens-y les preuves du malheur
 
 [06384.022]
 Des mots sont gravés sur la stèle, mais ils sont trop difficiles à lire.
@@ -261,7 +261,7 @@ Awawawawawa... ! Pendant que je dormais... non, que je méditais, il s’est pa
 Clerc
 
 [06384.098]
-Pas de panique ! C’est dans ces moments-là qu’il faut garder son calme... Respirer à fond... Ffff, haaa, ffff, haaa, ffff, ffff...
+Pas de panique ! C’est justement là qu’il faut rester calme... Respirer à fond... Ffff, haaa, ffff, haaa, ffff, ffff...
 
 [06384.100]
 Sans qu’on s’en aperçoive, la respiration est devenue un ronflement...
@@ -453,7 +453,7 @@ La promenade jusqu’au temple de Straylize : voilà le secret d’une longue v
 Pèlerine
 
 [06384.170]
-Chez moi, à la campagne, l’an dernier, les légumes et les fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Atamoni.
+Dans ma campagne, l’an dernier, légumes et fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Atamoni.
 
 [06384.171]
 Pèlerine
@@ -477,7 +477,7 @@ Si loin que j’habite, jamais je n’oublierais ce que je dois au grand temple.
 Pèlerine
 
 [06384.178]
-Chez moi, à la campagne, l’an dernier, les légumes et les fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Fortuna.
+Dans ma campagne, l’an dernier, légumes et fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Fortuna.
 
 [06384.179]
 Pèlerine
@@ -519,7 +519,7 @@ J’aime beaucoup dame Elraine aussi, mais me voilà devenue une admiratrice de 
 Pèlerine
 
 [06384.192]
-Chez moi, à la campagne, l’an dernier, les légumes et les fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Atamoni.
+Dans ma campagne, l’an dernier, légumes et fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Atamoni.
 
 [06384.193]
 Pèlerine

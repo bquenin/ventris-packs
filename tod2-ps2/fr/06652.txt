@@ -200,7 +200,7 @@ Tous les hommes ont souhaité être délivrés de la souffrance. Ils ont souhait
 Non : les hommes ont seulement oublié.
 
 [06652.094]
-Combien un faux bonheur est vide de sens. Et que le vrai bonheur se trouve dans cette œuvre des hommes qu’on appelle l’histoire.
+Combien un faux bonheur est vide de sens. Et que le vrai est dans cette œuvre des hommes qu’on appelle l’histoire.
 
 [06652.096]
 Un jour, ils s’en apercevront, c’est certain. Comme {NAME:01 00 00 00} et les autres.

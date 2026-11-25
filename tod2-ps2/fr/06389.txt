@@ -26,7 +26,7 @@ Obtenu : {08:03 00 00 00}.
 Il aurait fait fortune en ramassant les nombreux trésors abandonnés dans le désert. ... Bien des trésors dorment peut-être encore dans la région de Calvalese.
 
 [06389.016]
-« Aquaveil, terre d’une autre culture » ... Un livre qui présente la région d’Aquaveil, à la culture et à l’histoire bien à elle.
+« Aquaveil, terre d’une autre culture » ... Un livre sur la région d’Aquaveil, à la culture et à l’histoire bien à elle.
 
 [06389.018]
 On y lit qu’on appelle région d’Aquaveil tout l’archipel situé au nord-est du monde. Ce serait une bonne idée d’y aller, si l’occasion se présente.

@@ -11,7 +11,7 @@ Auberge
 Il y a un piano, mais pas de pianiste.
 
 [06415.007]
-Un prospectus. « Pour tout arc, adressez-vous à Chelsea Torn. Si vous passez au nord-ouest de Heidelberg, ne manquez pas de venir. »
+Un prospectus. « Pour tout arc, adressez-vous à Chelsea Torn. Si vous venez au nord-ouest de Heidelberg, passez nous voir. »
 
 [06415.008]
 Extra

@@ -266,7 +266,7 @@ Si tu as été tué, c’est pour avoir trahi tes camarades et voulu passer à l
 Atwight
 
 [06592.129]
-Et te voilà revenu sans vergogne à la vie, cherchant à te venger de cette manière... Ce n’est rien d’autre que la rancune d’un coupable !
+Et te voilà revenu sans vergogne à la vie, cherchant à te venger ainsi... Ce n’est que la rancune d’un coupable !
 
 [06592.130]
 Atwight

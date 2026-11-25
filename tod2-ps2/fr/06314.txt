@@ -109,7 +109,7 @@ Qu’est-ce que tu fabriques, {NAME:01 00 00 00} ? Tu vas parler à Rutee, non�
 Rutee
 
 [06314.054]
-... Et là, quand sa femme a poussé un cri, il a renversé le sac de farine : tout blanc, du sommet du crâne au bout des orteils !
+... Et là, quand sa femme a crié, il a renversé le sac de farine : tout blanc, de la tête au bout des orteils !
 
 [06314.055]
 Rutee

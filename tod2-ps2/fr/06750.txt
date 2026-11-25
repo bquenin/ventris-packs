@@ -353,7 +353,7 @@ Vous aider à la relever, ça consiste en quoi ?
 Jeune femme
 
 [06750.145]
-En ce moment, je vais seule aux provisions, tu vois ? Il y a pas mal de choses trop lourdes ou trop nombreuses pour que je les porte.
+En ce moment, je vais seule aux provisions, tu vois ? Il y a pas mal de choses trop lourdes ou trop nombreuses à porter.
 
 [06750.146]
 Jeune femme

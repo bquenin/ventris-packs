@@ -113,7 +113,7 @@ Ah, mon chéri... Je t’en prie, sois sain et sauf... !
 Madame
 
 [06441.043]
-Mon mari travaille au château. Par bonheur, il s’en tire avec des blessures légères, mais ses camarades seraient grièvement atteints...
+Mon mari travaille au château. Par bonheur, ses blessures sont légères, mais ses camarades seraient gravement atteints...
 
 [06441.044]
 Madame

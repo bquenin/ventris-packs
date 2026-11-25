@@ -113,7 +113,7 @@ Bon sang, qu’elles se passionnent pour les réparations du château, très bie
 Soldat
 
 [06454.042]
-Les servantes, encore, passe, mais les soldats aussi, tout aux réparations du château ? Et les armes, personne les entretient !
+Les servantes, encore, passe, mais les soldats aussi, tout aux réparations ? Et les armes, personne s’en occupe !
 
 [06454.043]
 Soldat
