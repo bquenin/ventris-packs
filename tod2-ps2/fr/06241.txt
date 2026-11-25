@@ -1,0 +1,23 @@
+[06241.5852]
+Lequel est {NAME:01 00 00 00},
+dis ?
+
+[06241.5879]
+Tu veux être
+chef ?
+
+[06241.5901]
+Pas encore~
+Naïf, va~
+
+[06241.5923]
+Presque~
+
+[06241.5934]
+Bingoooooooo
+
+[06241.5951]
+Alors ?
+Un coup de mou ?
+Je te porte ?
+

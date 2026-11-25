@@ -1,0 +1,38 @@
+[06289.4788]
+Claudis
+
+[06289.4801]
+Ignacy
+
+[06289.4812]
+Mikheil
+
+[06289.4825]
+Helraios
+
+[06289.4838]
+Shusaia
+
+[06289.4849]
+Rodeon
+
+[06289.4860]
+Ansuzun
+
+[06289.4873]
+Ce lieu : l’une
+des cités aériennes.
+Laquelle ?
+
+[06289.4924]
+Les cités aériennes
+sont surtout mécaniques,
+mais Claudis, elle,
+est pleine de verdure.
+
+[06289.5014]
+Faux !
+
+[06289.5021]
+Trop tard.
+

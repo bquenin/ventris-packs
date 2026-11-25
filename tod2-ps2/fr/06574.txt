@@ -458,7 +458,7 @@ Karell
 Litler
 
 [06574.173]
-Allons, allons, général Karell.
+Allons, allons, général de division Karell.
 
 [06574.174]
 Litler
@@ -713,7 +713,7 @@ Ah, vous ne le savez pas. Voyez-vous, c’est lui que les soldats aiment le plus
 Karell
 
 [06574.283]
-Sa force, qui lui a valu le surnom de « Fonceur », y est pour quelque chose, mais plus encore, sa manière d’être avec ses hommes.
+Sa force, qui lui a valu le surnom de « Bélier », y est pour quelque chose, mais plus encore, sa manière d’être avec ses hommes.
 
 [06574.284]
 Karell

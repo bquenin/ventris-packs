@@ -1,0 +1,32 @@
+[06271.4788]
+Révèle spectres
+
+[06271.4805]
+Gelées en +
+
+[06271.4818]
+Brise-mur
+
+[06271.4829]
+Réveille morts
+
+[06271.4844]
+Quel effet a cet objet ?
+
+[06271.4873]
+Oui, cette lanterne
+montre les{03:10 00 00 00}...%SAh !
+{03:02 00 00 00}Derrière toi, un spectre !
+
+[06271.4952]
+Sot...
+
+[06271.4965]
+L’objet casserait avant, lui.
+
+[06271.4996]
+Exclu.
+
+[06271.5005]
+Aucune ardeur ?
+

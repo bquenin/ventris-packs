@@ -58,8 +58,8 @@ Sylph
 
 [06187.13568]
 Oui !
-Seul Gnome est
-Craymel de Celestia
+Seul Gnome vient
+de Celestia
 
 [06187.13611]
 Quelle onde d’Aurora de Reid
@@ -175,7 +175,7 @@ Suivante
 [06187.14415]
 À Rasheans, en quoi s’était
 déguisé le Wonder Chef
-qui apprend le sandwich ?
+qui enseigne le sandwich ?
 
 [06187.14500]
 Goret tirelire
@@ -390,7 +390,7 @@ Hamilt
 
 [06187.16156]
 Gagné !
-Il use des artes d’eau
+Il lance des sorts d’eau
 
 [06187.16190]
 Non.
@@ -466,7 +466,7 @@ au « Quiz Tales » ?
 [06187.16679]
 Oui !
 Au 4e aussi, en fait,
-mais d’abord ici seul
+mais d’abord, ici seulement
 
 [06187.16736]
 Dommage !
@@ -580,7 +580,7 @@ Après, ça ira
 
 [06187.17748]
 Du mont de Mintche à l’observatoire,
-le frêle Keele se joint. Face à un
+le frêle Keele est du groupe. Face à un
 monstre, que disait-il faire ?
 
 [06187.17857]
@@ -642,7 +642,7 @@ Un nom qui rafraîchit, pourtant
 
 [06187.18336]
 Non !
-Un faon au tribunal... ?
+« Bambi »... un petit faon ?
 
 [06187.18374]
 Trop tard !
@@ -785,7 +785,7 @@ Kaiser
 Berserk
 
 [06187.19780]
-Preux mythique
+Chevalier
 
 [06187.19795]
 Guerrier sonique
@@ -796,7 +796,7 @@ Ce titre vient de la bataille navale
 
 [06187.19860]
 Raté !
-Ce titre tient au rang de combat
+Ce titre tient à la difficulté
 
 [06187.19902]
 Dommage, non.
@@ -840,7 +840,7 @@ Celui-là irait bien aussi
 
 [06187.20298]
 Dommage, non.
-Sa danse a du mystère, si
+Sa danse a du mystère, pourtant
 
 [06187.20344]
 Fini !
@@ -938,7 +938,7 @@ Cage d’argent
 
 [06187.21132]
 Oui !
-Il faut s’ouvrir le cœur, hein ?
+Il faut ouvrir son cœur, hein ?
 
 [06187.21174]
 Raté !
@@ -1064,7 +1064,7 @@ lequel n’existe pas ?
 Douce nuit
 
 [06187.22187]
-Bonne gauche
+Bonne cruche
 
 [06187.22200]
 Bonne coquine
@@ -1073,7 +1073,7 @@ Bonne coquine
 Frisson
 
 [06187.22224]
-Chat
+Minou
 
 [06187.22231]
 Bonne hantée
@@ -1561,7 +1561,7 @@ Dommage !
 Tu n’en aurais pas oublié un ?
 
 [06187.25652]
-Raté ! Pas loin, si
+Raté ! Pas loin, hein
 
 [06187.25675]
 Trop tard ! Insiste, tu y arriveras !
@@ -1606,7 +1606,7 @@ C’est Reid que ça réjouirait, non ?
 
 [06187.26098]
 Raté !
-Ça lui plairait peut-être, si
+Ça lui plairait, remarque
 
 [06187.26138]
 Trop tard !
@@ -1805,7 +1805,7 @@ Combien d’étages en tout ?
 10
 
 [06187.27671]
-Gagné ! Boss : Gardien du ciel
+Gagné ! Boss : Gardienne du ciel
 
 [06187.27706]
 Dommage !
@@ -1876,16 +1876,16 @@ Rem et Shadow ?
 Excalibur
 
 [06187.28336]
-Last Fencer
+Dernier bretteur
 
 [06187.28353]
-Gaia Cleaver
+Fendoir de Gaïa
 
 [06187.28370]
-Gagné ! Un vrai nom d’épée de héros !
+Gagné ! Un vrai nom d’épée de preux !
 
 [06187.28415]
-Raté ! Ça veut dire « dernier épéiste »
+Raté ! Son nom anglais : « Last Fencer »
 
 [06187.28462]
 Dommage ! Ça, c’est le prix du tournoi d’Inferia
@@ -1895,7 +1895,7 @@ Dommage ! Ça vient du Labyrinthe de Nereid
 
 [06187.28564]
 Quand Inferia et Celestia
-en vinrent à s’allier,
+se sont alliées,
 qui représentait Inferia ?
 
 [06187.28653]
@@ -2029,9 +2029,9 @@ Dommage !
 Lui serait fort, sans doute ?
 
 [06187.29745]
-Hyades vaincu laisse
-tomber un « Bracelet
-mental » et quoi ?
+Vaincu, Hyades lâche
+un « Jonc mental » et
+quoi d’autre ?
 
 [06187.29812]
 Œuf
@@ -2283,7 +2283,7 @@ Raté !
 
 [06187.31742]
 Raté !
-Ce n’est pas de la chance, ça ?
+Pas vraiment de la chance, ça !
 
 [06187.31788]
 Trop tard !
@@ -2348,7 +2348,7 @@ Lui, c’est la lumière
 
 [06187.32311]
 Raté !
-Lui, c’est l’ombre
+Lui, c’est les ténèbres
 
 [06187.32343]
 Dommage !

@@ -1,0 +1,38 @@
+[06290.4788]
+Mikheil
+
+[06290.4801]
+Ignacy
+
+[06290.4812]
+Helraios
+
+[06290.4825]
+Claudis
+
+[06290.4838]
+Shusaia
+
+[06290.4849]
+Rodeon
+
+[06290.4860]
+Ansuzun
+
+[06290.4873]
+Ce lieu : l’une
+des cités aériennes.
+Laquelle ?
+
+[06290.4922]
+Ici,
+on avance de plancher mobile
+en plancher mobile.
+Une cité aérienne mécanisée.
+
+[06290.5012]
+Faux !
+
+[06290.5019]
+Trop tard.
+

@@ -1,0 +1,42 @@
+[06266.4788]
+Slime vert
+
+[06266.4805]
+Fève
+
+[06266.4814]
+Gel. miracle
+
+[06266.4827]
+Gelée thon
+
+[06266.4838]
+Oberonamine
+
+[06266.4851]
+Gelée spéciale
+
+[06266.4866]
+Gelée géniale
+
+[06266.4881]
+Gelée ultra
+
+[06266.4894]
+Sais-tu ce que c’est ?
+
+[06266.4919]
+Bien vu.
+
+[06266.4934]
+Tu te moques ?
+
+[06266.4955]
+Naïf.
+
+[06266.4964]
+Gelée inconnue.
+
+[06266.4981]
+Voilà toute ta force ?
+

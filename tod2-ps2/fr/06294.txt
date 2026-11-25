@@ -1,0 +1,24 @@
+[06294.4788]
+Rheaird
+
+[06294.4799]
+Eyebird
+
+[06294.4810]
+Van Eltia
+
+[06294.4825]
+Elbird
+
+[06294.4836]
+Comment s’appelle cet engin ?
+
+[06294.4867]
+Oui.
+
+[06294.4874]
+Non.
+
+[06294.4881]
+Trop tard.
+

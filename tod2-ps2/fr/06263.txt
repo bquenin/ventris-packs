@@ -1,0 +1,43 @@
+[06263.06068]
+ 9
+
+[06263.06075]
+10
+
+[06263.06082]
+11
+
+[06263.06089]
+ 6
+
+[06263.06096]
+Gelées pomme,
+orange,
+citron :
+combien de Gald ?
+
+[06263.06150]
+Tu vois
+que tu peux
+
+[06263.06172]
+Ça manque
+d’attention
+
+[06263.06194]
+Tu seras
+mon cobaye
+
+[06263.06214]
+Bien
+compté ?
+
+[06263.06232]
+Trop tard.
+
+[06263.94836]
+{0B:01 00 00 00}%d Gald{0B:00 00 00 00}
+
+[06263.94855]
+%d Gald
+

@@ -1,0 +1,23 @@
+[06275.4788]
+Gelée pomme
+
+[06275.4801]
+Slime rouge
+
+[06275.4816]
+Lens
+
+[06275.4823]
+Une gelée, ça ?
+Ou une Lentille ?
+Ou bien un slime ?
+
+[06275.4878]
+Exact.
+
+[06275.4887]
+Mais non
+
+[06275.4896]
+Trop tard.
+

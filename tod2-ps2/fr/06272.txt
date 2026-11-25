@@ -1,0 +1,40 @@
+[06272.4788]
+Cresta
+
+[06272.4797]
+Darilsheid
+
+[06272.4812]
+Aigrette
+
+[06272.4825]
+Lienea
+
+[06272.4832]
+Neustadt
+
+[06272.4847]
+Heidelberg
+
+[06272.4862]
+Rasheans
+
+[06272.4873]
+Totus
+
+[06272.4884]
+Quelle
+ville ?
+
+[06272.4902]
+Oui, notre ville, Cresta !
+
+[06272.4933]
+Mais non...
+
+[06272.4946]
+C’est où, ça...
+
+[06272.4964]
+Quoi, tu cales ?
+

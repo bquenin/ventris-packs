@@ -1,0 +1,24 @@
+[06274.4788]
+Heidelberg
+
+[06274.4803]
+Heibeldelg
+
+[06274.4818]
+Neunstadt
+
+[06274.4835]
+Neustadt
+
+[06274.4850]
+Cette ville ?
+
+[06274.4867]
+Exact.
+
+[06274.4876]
+Mais non
+
+[06274.4885]
+Trop tard.
+

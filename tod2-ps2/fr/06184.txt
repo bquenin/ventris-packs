@@ -1300,7 +1300,7 @@ que t’offre-t-il à manger ?
 Vrai curry
 
 [06184.23567]
-Napolitain
+Spaghettis
 
 [06184.23578]
 Bœuf Stroganoff

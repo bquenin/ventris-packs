@@ -1,0 +1,25 @@
+[06284.4788]
+Basilic
+
+[06284.4799]
+Bugbear
+
+[06284.4808]
+Basicil
+
+[06284.4819]
+Banilic
+
+[06284.4830]
+Quel monstre
+rencontre-t-on par ici ?
+
+[06284.4876]
+Oui.
+
+[06284.4883]
+Non.
+
+[06284.4890]
+Trop tard.
+

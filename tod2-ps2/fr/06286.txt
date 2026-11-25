@@ -1,0 +1,30 @@
+[06286.4788]
+Kongman
+
+[06286.4799]
+Stahn
+
+[06286.4806]
+Leon
+
+[06286.4813]
+Woodrow
+
+[06286.4824]
+Johnny
+
+[06286.4833]
+Qui est-ce ?
+
+[06286.4846]
+Mighty Kongman.
+Champion de l’arène
+de Neustadt, qui a aidé
+Stahn et les siens.
+
+[06286.4928]
+Faux !
+
+[06286.4935]
+Trop tard.
+

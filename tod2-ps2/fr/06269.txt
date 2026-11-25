@@ -1,0 +1,50 @@
+[06269.4788]
+Croacroa
+
+[06269.4797]
+Yatagarasu
+
+[06269.4808]
+Pioupiou
+
+[06269.4817]
+Cui-cui
+
+[06269.4830]
+Cocorico
+
+[06269.4849]
+Ogarasu
+
+[06269.4860]
+Onigarasu
+
+[06269.4871]
+Piaf noir
+
+[06269.4882]
+Le nom de ce monstre ?
+
+[06269.4907]
+Bien.
+
+[06269.4914]
+Non.
+
+[06269.4921]
+Il s’en faut
+d’un pas
+
+[06269.4947]
+Trop tordu.
+
+[06269.4960]
+Naïf.
+
+[06269.4969]
+Trop littéral...
+
+[06269.4986]
+Hésiter pour
+si peu, vraiment
+

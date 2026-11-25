@@ -1,0 +1,53 @@
+[06230.4788]
+Tête bizarre
+
+[06230.4801]
+Idylle
+
+[06230.4810]
+Voir l’invisible
+
+[06230.4829]
+Invisible
+
+[06230.4840]
+Réfléchit
+
+[06230.4853]
+Téléport
+
+[06230.4862]
+Attaque accrue
+
+[06230.4877]
+Défense accrue
+
+[06230.4892]
+Quel est l’effet
+de cet objet ?
+
+[06230.4926]
+Oui !
+La tête de l’écran État
+devient bizarre.
+Hi hi, drôle d’objet
+
+[06230.4994]
+Non.
+... Ces choses
+t’intéressent ?
+
+[06230.5033]
+Non.
+Rien d’aussi utile
+
+[06230.5065]
+Non.
+
+[06230.5072]
+Non.
+Ce ne serait qu’un miroir...
+
+[06230.5108]
+C’était un peu dur, non ?
+

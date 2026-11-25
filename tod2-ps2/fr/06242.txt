@@ -1,0 +1,72 @@
+[06242.3252]
+Quel est cet objet ?
+
+[06242.3277]
+Raté
+
+[06242.3282]
+Oui !
+
+[06242.3289]
+Fini !
+
+[06242.3298]
+Le nom de cet objet ?
+
+[06242.3327]
+Non !
+
+[06242.3336]
+Trop tard~
+
+[06242.3349]
+Quel est le nom de cet objet ?
+
+[06242.3384]
+Non.
+
+[06242.3391]
+Oui.
+
+[06242.3398]
+Trop tard.
+
+[06242.3409]
+Cet objet, c’est ?
+
+[06242.3430]
+Mais non
+
+[06242.3439]
+Oui !
+
+[06242.3448]
+Trop tard.
+
+[06242.3461]
+Faux !
+
+[06242.3468]
+Trop tard.
+
+[06242.3479]
+Tu reconnais cet objet ?
+
+[06242.3510]
+Raté !
+
+[06242.3517]
+Gagné !
+
+[06242.3528]
+Trop tard !
+
+[06242.3541]
+C’est faux
+
+[06242.3552]
+Exact !
+
+[06242.3561]
+Trop tard.
+

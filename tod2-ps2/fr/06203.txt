@@ -1,0 +1,61 @@
+[06203.6468]
+Tales of Destiny 2
+
+[06203.6495]
+Tales of Destiny
+
+[06203.6520]
+Tales of Phantasia
+
+[06203.6545]
+Tales of Eternia
+
+[06203.6568]
+Divers...
+
+[06203.6581]
+Tales of Destiny 2 of {NAME:01 00 00 00}
+
+[06203.6626]
+Hein ?
+Un livre vide...
+
+[06203.6652]
+Vieille sauvegarde,
+ou données modifiées
+
+[06203.6694]
+Ou alors{03:10 00 00 00}...{03:04 00 00 00} un bug ?
+
+[06203.6725]
+Quel quiz je vais faire ?
+{03:00 00 00 00}{05:C0 00 00 00}({09:36 00 00 00} : annuler)
+
+[06203.6787]
+Allez !
+« %s » !
+
+[06203.6805]
+Finalement, non
+
+[06203.6822]
+Sortir
+
+[06203.6829]
+Rester
+
+[06203.6838]
+ %s reçoit
+ le titre « %s »
+
+[06203.6866]
+C’est parti pour le quiz !
+
+[06203.6893]
+Ouf... bonne suée
+
+[06203.6914]
+{05:80 01 00 00}Quiz indisponible
+ 
+{09:35 00 00 00}{09:36 00 00 00}Fermer le livre
+

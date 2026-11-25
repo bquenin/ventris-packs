@@ -1,0 +1,31 @@
+[06291.4788]
+Élec.
+
+[06291.4795]
+Mandoline
+
+[06291.4806]
+Biwa
+
+[06291.4811]
+Luth
+
+[06291.4820]
+Gratte
+
+[06291.4827]
+Quel est cet objet ?
+
+[06291.4848]
+Sa teinte blanche.
+
+[06291.4867]
+Faux.
+
+[06291.4874]
+Pas de cette
+couleur, non
+
+[06291.4900]
+Trop tard.
+

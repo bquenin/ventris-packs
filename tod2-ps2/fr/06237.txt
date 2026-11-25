@@ -1,0 +1,54 @@
+[06237.4788]
+Mary
+
+[06237.4795]
+Rutee
+
+[06237.4804]
+Elraine
+
+[06237.4815]
+Stahn
+
+[06237.4834]
+Philia
+
+[06237.4843]
+Kongman
+
+[06237.4854]
+Cet ours en peluche
+de l’orphelinat
+Dunamis : tu sais
+qui l’a fait ?
+
+[06237.4930]
+Tu savais ça !
+Moi-même j’avais oublié
+
+[06237.4970]
+Rutee n’y arriverait
+pas, je crois
+
+[06237.5010]
+Pour le bonheur de tous !?
+
+[06237.5037]
+Tu l’aurais vu en
+train de le coudre ?
+
+[06237.5077]
+{NAME:01 00 00 00}...
+faut pas mentir
+
+[06237.5102]
+Tu rêves, toi...
+
+[06237.5123]
+Ça aurait pu,
+remarque
+
+[06237.5158]
+Peu de gens le savent.
+C’est comme ça
+

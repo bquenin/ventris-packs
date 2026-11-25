@@ -1,0 +1,34 @@
+[06222.4788]
+Quox
+
+[06222.4799]
+Dragon vert
+
+[06222.4816]
+Crax
+
+[06222.4827]
+Griffon
+
+[06222.4838]
+Léviathan
+
+[06222.4851]
+Cœlacanthe
+
+[06222.4864]
+Ce monstre,
+tu le reconnais ?
+
+[06222.4898]
+Bien.
+
+[06222.4905]
+Naïf.
+
+[06222.4914]
+Hmf
+
+[06222.4919]
+Trop lent !
+

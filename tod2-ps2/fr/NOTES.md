@@ -19,27 +19,31 @@ written, the names and terms chosen, and what has been seen on screen.
     refining, items, valuables, food, cookware, recipes, equipment, titles, shops, the world map's
     places and the short labels of the status screens;
   - all the skits (00056 to 01298) and their titles;
-  - of the quiz game: its screens and what its six hosts say (06167 to 06183), four of its six quiz
-    books whole (06184 to 06187), and the fifth (06188) up to its offset 14923, with twelve later
-    answers that repeat a string written elsewhere.
-- **What is not:** the rest of the fifth quiz book, the sixth (06189) and the minigames (06190 to
-  06301): about 2,100 strings. They keep the game's own Japanese.
+  - the quiz game: its screens and what its six hosts say (06167 to 06183) and its six quiz books
+    (06184 to 06189);
+  - the minigames (06190 to 06299): short quizzes on a picture, a sound, a voice or a tune.
+- **What stays Japanese is what the English pack of this game also leaves.** In the quiz books and the
+  minigames this pack changes exactly the strings the English pack changes, and no other. That leaves:
+  - the answers a player composes in kana in five minigames (06190 to 06194: a name, a password, a
+    metal). The French question says what is asked; entering the answer still takes kana;
+  - the wide digits and letters that label a picture to choose, and the test strings at the head of
+    each quiz script, which no player meets;
+  - two minigames that neither pack touches, 06300 (whose Swordian is this) and 06301 (which town of
+    Aquaveil is this). If the game reaches them, they are in Japanese.
 - **Left as the game has them, on purpose:** the seven digits of the Options screen and the two arrows
   `＜` `＞` of a list (they are wide characters in the game, and the Options values overlap when they
   are written as narrow ones); two skit lines whose time on screen leaves room for no letter or for one
-  (00856.012, 00926.009); and six answers of the third quiz book (06186) that are one kanji in two
-  bytes or two kanji in four, where no French word fits: their questions say what each means (see "A
+  (00856.012, 00926.009); and eight quiz answers that are one kanji in two bytes or two kanji in four
+  (six in 06186, two in 06189), where no French word fits: their questions say what each means (see "A
   quiz string cannot grow").
 - **Two parts of this text do not reach the screen with ventris 0.2.0**, in this pack or in the English
   one. The game loads the battle module and the field module from a second, compressed copy that the
   build does not rewrite, so the strings of 08055 and 08996 are in the pack and the game still shows its
-  Japanese; and the prompt for leaving a town is a string the build does not yet reach. A correction is
-  proposed to ventris (its pull request 15) and is in no release yet. See "What has been seen on
-  screen".
+  Japanese; and the prompt for leaving a town is a string the build does not yet reach. The correction
+  is merged in ventris and is in no release yet. See "What has been seen on screen".
 - **Read against the Japanese by a second reader.** Every hand-written string of the story, every skit,
-  and the quiz text of 06167 to 06186 was read beside its Japanese by an agent that had not written it,
-  and its findings were corrected. The fourth and fifth quiz books (06187, 06188) have not had that
-  reading.
+  the six quiz books and the minigames were read beside their Japanese by an agent that had not written
+  them, and its findings were corrected.
 
 ## How the text is written
 
@@ -53,7 +57,7 @@ written, the names and terms chosen, and what has been seen on screen.
 - **Three dots are three full stops** (`...`). The game's own `…` is a wide character with its dots at
   mid-height.
 - **Accented capitals are written** (`Épée longue`, `À toi de voir`). ventris 0.2.0 draws them without
-  their accent in this game; a correction to the font is on its way to ventris.
+  their accent in this game; the correction to the font is merged in ventris and is in no release yet.
 - **`HP`, `TP`, `SP`, `LV` and `GRADE` stay as they are.** The game draws them as pictures on the status
   and battle screens, and a pack does not change pictures, so the text says what the screen says.
 - **A line of dialogue is written unbroken**; the build breaks it to fit the bubble. In the lists every
@@ -81,17 +85,33 @@ written, the names and terms chosen, and what has been seen on screen.
   - a name of this game that is too long for its room is shortened, and the question carries the rest
     (`Le Héros` for the `Héros voyeur`, with `quel voyeur` in the question; `Gamin Mach` for the
     `Garçon Mach`; `Bon aîné` for the title `Bon grand frère`);
-  - an answer that begins with a space in the game begins with one in the pack;
+  - where four choices have three or four bytes each and no French word fits, the question lists them
+    and the answers are letters (`A tête, B bras, C torse` in 06189; `A dissection B ménage C couture
+    D cuisine`); colours in four bytes are `Bleu`, `Rge.`, `Blc.`, `Noir`, `Jne.`, `Vert` (06276);
+  - an answer of the second quiz book that begins with a space and a word begins with one in the pack
+    (`␣` in the working text); a single kanji that the game sets between two spaces does not;
   - an answer that is one kanji in two bytes stays as the game has it, as the English pack leaves it,
     and its question gives the meaning in brackets: `(剣 épée, 盾 bouclier)`, `(蛇 = serpent)`,
-    `(海竜 = dragon des mers)`, `(犬 chien, 亀 tortue)`. Four questions of 06186 do this. Their seven
-    kanji are the only Japanese characters the pack writes; they are the game's own wide characters
+    `(海竜 = dragon des mers)`, `(犬 chien, 亀 tortue)` in 06186, `(白 blanc, 赤 rouge)` in 06189. Five
+    questions do this, with nine kanji. Two minigame questions quote the Japanese they ask about, as
+    the game does: `« カ○ラ »` (06193, with `éclat` beside it) and `le « 統 » de son prénom` (06194).
+    These are the only Japanese characters the pack writes; they are the game's own wide characters
     and take none of the spare cells below.
+  **One answer string can serve several questions.** The game stores each answer once and a later
+  question may show it again, as a right or a wrong answer. So a short form has to hold in every
+  question that uses it: the four cities of the altered present carry a byname (`Vangelo d’azur`,
+  `Realta du soir`) because a later question asks for Vangelo's full name with that string as its
+  right answer, and `Bris` stands for the garbage of Trash Mountain because it is a wrong answer in
+  one question and the right one in the next. There is no table of which question shows which string;
+  the second reader worked the reuses out from the comments, and three could not be confirmed.
+  Where the right answer is a short form, the player is asked to recognise it: `Lens` for the
+  `Lentille`, `GDiv` for a `général de division`, `Mars` for the title `Dieu de la guerre`, `Cell
+  mère` for the `Cellule mère`, `Clos` for Judas's `jardin miniature`.
   Names from the other games of the series are spelled as the English pack spells them, and their
   artes and items have short French names made for the room they have.
 - **The letters the pack uses** beyond plain ASCII: `é è ê ë à â ç î ï ô ù û ü œ`, `À Â Ç É È Ê Î Ô Œ`,
   `« » ’` and the no-break space. The game has 80 spare cells for narrow letters and this set, with the
-  small letters `a` to `z`, `;`, `~`, `[` and `]`, takes 55 of them. A character outside the set would
+  small letters `a` to `z`, `;`, `~`, `[` and `]`, takes 56 of them. A character outside the set would
   take one more cell, so the checks refuse it.
 - **A list to choose from** keeps the wide spaces (U+3000) the game puts around each choice.
 - **Button prompts** (`{09:..}` tags) are written without quotation marks: `Maintenir {..}`.
@@ -266,7 +286,9 @@ serpent de Galua : jamais ensemble`.
 
 All of it in PCSX2, from power-on, on images built with ventris 0.2.0 from the Japanese disc (version
 1.01). **Nothing after the world map outside Cresta has been seen on screen**: the Laguna Ruins and
-every later string have only been built and checked by tools. No quiz has been seen on screen.
+every later string have only been built and checked by tools. No quiz and no minigame has been seen
+on screen; the minigames' French was written without seeing the pictures or hearing the sounds they
+ask about.
 
 - **Seen whole and right on a third build**, played from power-on to the world map: Rutee's room and
   the balcony scene, the evening at the table, the night with its choice and the dream, the morning
@@ -281,7 +303,7 @@ every later string have only been built and checked by tools. No quiz has been s
     them.
   - One line of the balcony scene (06321.092) ended on a page of three words. It has been shortened to
     one page since; that has been built and not seen.
-- **Seen on a build made with the correction proposed to ventris** (not released; the pack as it was
+- **Seen on a build made with the correction since merged in ventris** (not released; the pack as it was
   at its first push), from power-on: the battle menu in French, the banner `En fuite...` on fleeing a
   battle, and the menu's location panel `Monde : Seinegald`. So those strings do reach the screen
   once the build writes them where the game loads them. On that build the four labels of the battle
@@ -313,13 +335,15 @@ every later string have only been built and checked by tools. No quiz has been s
 - **Not reached on screen:** the Laguna Ruins and everything after; the Rune Bottle seller and the
   mystery warrior in Cresta; the table of normal attacks in the lessons (06308.618, which the game plays
   at Aigrette's harbour as 06394.376); the skit list and the skit titles; every skit but three; every
-  quiz; Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
+  quiz and every minigame; Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
 
 ## Open
 
 - Not seen on screen: all the story after the first steps on the world map, all the skits but three,
-  the enemy names but three, the skit titles, and all the quiz text. Nothing has shown how a quiz
-  question's lines sit in their box.
+  the enemy names but three, the skit titles, all the quiz text and all the minigames. Nothing has
+  shown how a quiz question's lines sit in their box: the build holds each string to its bytes and its
+  number of lines, not to a width. The longest are the recipe questions of 06201, whose second line
+  runs to 44 letters where the Japanese line is as wide as 38.
 - The strings of 08055 (battle menu labels, what a new arte or lesson says, the three ways a battle
   ends) and 08996 (names of places on the field, three messages of the airship) are translated and do
   not reach the screen until a released ventris writes them where the game loads them; a few were seen
@@ -327,16 +351,25 @@ every later string have only been built and checked by tools. No quiz has been s
   yet: its address is one that correction adds. The game writes the place's name into the string at a
   set position, so the French has to begin with the button and the name: the button, the place's name,
   then ` : sortir`.
-- The rest of the fifth quiz book, the sixth and the minigames are still to be translated.
-- The fourth and fifth quiz books (06187, 06188) have not been read against the Japanese by a second
-  reader.
+- The kana answers of the minigames 06190 to 06194 and the two minigames 06300 and 06301 stay in
+  Japanese (see "Where it stands"). How the game takes a kana answer has not been looked at, nor whether
+  it reaches 06300 and 06301.
 - Quiz answers with four to six bytes of room: the rule in "How the text is written" is one choice
   among others, and where the right answer itself is such a string the player is asked to recognise a
   shorter word than the story's (`Lens` for the `Lentille`, `Mûre` where the answer is purple, `Cof.`
-  for a treasure chest). The cure would be for these strings to be able to move.
-- The four questions that give a kanji its meaning have not been seen on screen: nothing shows how the
-  game's kanji sit inside a French line. The checks report those seven kanji as characters outside the
+  for a treasure chest, `Bris` for garbage). The cure would be for these strings to be able to move;
+  that has not been studied, and the rule is kept as it is.
+- Which question shows which answer string is not known from a table. Three reuses could not be
+  confirmed (the fourth answers of 06189.23716, .29295 and .37465, and 06187.25850), nor that no later
+  question shows the letter answers `A` to `D` again.
+- One story line was changed for a quiz's sake: Litler says `général de division Karell` (06574.173),
+  where plain `général` is how one would address him, so that the quiz's right answer for his rank,
+  `GDiv`, agrees with what the player has read.
+- The questions that give a kanji or a kana its meaning have not been seen on screen: nothing shows how
+  the game's own characters sit inside a French line. The checks report them as characters outside the
   pack's set; that is expected.
+- The minigames were written from their Japanese alone. Where a comment speaks of what a picture shows
+  (a room, a monster, a colour), the French has not been held against the picture.
 - About 200 lines of dialogue end on a page that holds only a word or two, where the French runs a
   little past the last full page. They are whole and readable; they have not been reworded.
 - The words the program joins into a sentence (`HP ` + a number + ` % rendus`, ` : guérison`,

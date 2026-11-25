@@ -1978,7 +1978,7 @@ monstres pas encore chassés.
 [06186.31650]
 Un forain viendrait
 peut-être pour le trésor
-du mont Trash,
+de Trash Mountain,
 mais c’est faux.
 
 [06186.31738]
