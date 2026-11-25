@@ -19,22 +19,27 @@ written, the names and terms chosen, and what has been seen on screen.
     refining, items, valuables, food, cookware, recipes, equipment, titles, shops, the world map's
     places and the short labels of the status screens;
   - all the skits (00056 to 01298) and their titles;
-  - of the quiz game: its screens and what its six hosts say (06167 to 06183), the first quiz book
-    (06184) but one answer, and the second quiz book (06185) up to its offset 20119.
-- **What is not:** the rest of the second quiz book, the other quiz books and the minigames (06186 to
-  06301): about 4,000 strings. They keep the game's own Japanese.
+  - of the quiz game: its screens and what its six hosts say (06167 to 06183), four of its six quiz
+    books whole (06184 to 06187), and the fifth (06188) up to its offset 14923, with twelve later
+    answers that repeat a string written elsewhere.
+- **What is not:** the rest of the fifth quiz book, the sixth (06189) and the minigames (06190 to
+  06301): about 2,100 strings. They keep the game's own Japanese.
 - **Left as the game has them, on purpose:** the seven digits of the Options screen and the two arrows
   `＜` `＞` of a list (they are wide characters in the game, and the Options values overlap when they
   are written as narrow ones); two skit lines whose time on screen leaves room for no letter or for one
-  (00856.012, 00926.009); and one quiz answer, 06184.28733, where no French word fits the six bytes.
+  (00856.012, 00926.009); and six answers of the third quiz book (06186) that are one kanji in two
+  bytes or two kanji in four, where no French word fits: their questions say what each means (see "A
+  quiz string cannot grow").
 - **Two parts of this text do not reach the screen with ventris 0.2.0**, in this pack or in the English
   one. The game loads the battle module and the field module from a second, compressed copy that the
   build does not rewrite, so the strings of 08055 and 08996 are in the pack and the game still shows its
-  Japanese; and the prompt for leaving a town is a string the build does not yet reach. A correction to
-  ventris is on its way. See "What has been seen on screen".
+  Japanese; and the prompt for leaving a town is a string the build does not yet reach. A correction is
+  proposed to ventris (its pull request 15) and is in no release yet. See "What has been seen on
+  screen".
 - **Read against the Japanese by a second reader.** Every hand-written string of the story, every skit,
-  and the quiz text of 06167 to 06184 was read beside its Japanese by an agent that had not written it,
-  and its findings were corrected. The second quiz book has not had that reading.
+  and the quiz text of 06167 to 06186 was read beside its Japanese by an agent that had not written it,
+  and its findings were corrected. The fourth and fifth quiz books (06187, 06188) have not had that
+  reading.
 
 ## How the text is written
 
@@ -76,7 +81,12 @@ written, the names and terms chosen, and what has been seen on screen.
   - a name of this game that is too long for its room is shortened, and the question carries the rest
     (`Le Héros` for the `Héros voyeur`, with `quel voyeur` in the question; `Gamin Mach` for the
     `Garçon Mach`; `Bon aîné` for the title `Bon grand frère`);
-  - an answer that begins with a space in the game begins with one in the pack.
+  - an answer that begins with a space in the game begins with one in the pack;
+  - an answer that is one kanji in two bytes stays as the game has it, as the English pack leaves it,
+    and its question gives the meaning in brackets: `(剣 épée, 盾 bouclier)`, `(蛇 = serpent)`,
+    `(海竜 = dragon des mers)`, `(犬 chien, 亀 tortue)`. Four questions of 06186 do this. Their seven
+    kanji are the only Japanese characters the pack writes; they are the game's own wide characters
+    and take none of the spare cells below.
   Names from the other games of the series are spelled as the English pack spells them, and their
   artes and items have short French names made for the room they have.
 - **The letters the pack uses** beyond plain ASCII: `é è ê ë à â ç î ï ô ù û ü œ`, `À Â Ç É È Ê Î Ô Œ`,
@@ -271,6 +281,13 @@ every later string have only been built and checked by tools. No quiz has been s
     them.
   - One line of the balcony scene (06321.092) ended on a page of three words. It has been shortened to
     one page since; that has been built and not seen.
+- **Seen on a build made with the correction proposed to ventris** (not released; the pack as it was
+  at its first push), from power-on: the battle menu in French, the banner `En fuite...` on fleeing a
+  battle, and the menu's location panel `Monde : Seinegald`. So those strings do reach the screen
+  once the build writes them where the game loads them. On that build the four labels of the battle
+  menu ran into each other: each has a slot of five letters. `Artes` and `Équiper` are now `Arte` and
+  `Équip`; that has been built and not seen. Not seen there: the results labels, the message for a
+  title earned, what a new arte or lesson says, the other ways a battle ends, the airship's messages.
 - **Seen whole and right** on two earlier builds of this pack: the title menu; the opening caption and
   the forest scene; the first battle, an enemy's name plate and the item won; the notices after it; the
   town of Cresta (townspeople, the signboard, the monument, the alarm bell and its choice, an
@@ -305,13 +322,21 @@ every later string have only been built and checked by tools. No quiz has been s
   question's lines sit in their box.
 - The strings of 08055 (battle menu labels, what a new arte or lesson says, the three ways a battle
   ends) and 08996 (names of places on the field, three messages of the airship) are translated and do
-  not reach the screen until ventris writes them where the game loads them. The same goes for the
-  prompt for leaving a town, whose French is ready: `Quitter` and the place's name.
-- The rest of the second quiz book, the other quiz books and the minigames are still to be translated.
-- The second quiz book has not been read against the Japanese by a second reader.
+  not reach the screen until a released ventris writes them where the game loads them; a few were seen
+  right on a build with the correction (see above). The prompt for leaving a town is not in the pack
+  yet: its address is one that correction adds. The game writes the place's name into the string at a
+  set position, so the French has to begin with the button and the name: the button, the place's name,
+  then ` : sortir`.
+- The rest of the fifth quiz book, the sixth and the minigames are still to be translated.
+- The fourth and fifth quiz books (06187, 06188) have not been read against the Japanese by a second
+  reader.
 - Quiz answers with four to six bytes of room: the rule in "How the text is written" is one choice
   among others, and where the right answer itself is such a string the player is asked to recognise a
-  shorter word than the story's. The cure would be for these strings to be able to move.
+  shorter word than the story's (`Lens` for the `Lentille`, `Mûre` where the answer is purple, `Cof.`
+  for a treasure chest). The cure would be for these strings to be able to move.
+- The four questions that give a kanji its meaning have not been seen on screen: nothing shows how the
+  game's kanji sit inside a French line. The checks report those seven kanji as characters outside the
+  pack's set; that is expected.
 - About 200 lines of dialogue end on a page that holds only a word or two, where the French runs a
   little past the last full page. They are whole and readable; they have not been reworded.
 - The words the program joins into a sentence (`HP ` + a number + ` % rendus`, ` : guérison`,

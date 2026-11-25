@@ -275,13 +275,13 @@ Ajout
 Objets
 
 [08055.340120]
-Équiper
+Équip
 
 [08055.340128]
 Plan
 
 [08055.340136]
-Artes
+Arte
 
 [08055.340144]
 A explosé !

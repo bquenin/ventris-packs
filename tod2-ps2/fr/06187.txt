@@ -1,0 +1,2360 @@
+[06187.13306]
+Farah, son job ?
+
+[06187.13323]
+Blés
+
+[06187.13328]
+Karaté
+
+[06187.13335]
+Tisseuse
+
+[06187.13344]
+Ménagère
+
+[06187.13355]
+Oui !
+
+[06187.13362]
+Dommage !
+
+[06187.13373]
+Trop tard !
+
+[06187.13386]
+Le vrai nom de Ras :
+Rassius ○○○ ?
+
+[06187.13426]
+Fomalhaut
+
+[06187.13443]
+Formal House
+
+[06187.13460]
+Fomalhanet
+
+[06187.13477]
+Formal Coat
+
+[06187.13494]
+Quel Craymel est l’intrus ?
+
+[06187.13523]
+Gnome
+
+[06187.13530]
+Undine
+
+[06187.13543]
+Rem
+
+[06187.13548]
+Maxwell
+
+[06187.13561]
+Sylph
+
+[06187.13568]
+Oui !
+Seul Gnome est
+Craymel de Celestia
+
+[06187.13611]
+Quelle onde d’Aurora de Reid
+arrête net l’arte sombre
+« Eternal Finality » ?
+
+[06187.13696]
+Eternal Infinity
+
+[06187.13723]
+Eternal Celesti
+
+[06187.13746]
+Eternal Inferia
+
+[06187.13771]
+Eternal Celestia
+
+[06187.13796]
+Gagné !
+{09:35 00 00 00}{09:36 00 00 00}{09:37 00 00 00} en même temps !
+
+[06187.13841]
+L’hôtesse de Mintche ?
+
+[06187.13870]
+Gina
+
+[06187.13877]
+Nina
+
+[06187.13884]
+Catherine
+
+[06187.13895]
+Geeni
+
+[06187.13902]
+On pouvait jouer à plusieurs
+mini-jeux sur PocketStation.
+Combien en tout ?
+
+[06187.13987]
+Quatre
+
+[06187.13994]
+Deux
+
+[06187.14001]
+Trois
+
+[06187.14008]
+Cinq
+
+[06187.14015]
+Six
+
+[06187.14022]
+Gagné !
+
+[06187.14031]
+Un peu juste, non ?
+
+[06187.14052]
+Presque !
+
+[06187.14065]
+Presque !
+La prochaine, tu l’as
+
+[06187.14097]
+Un peu trop, non ?
+
+[06187.14116]
+Hop, trop tard
+
+[06187.14131]
+Après « Keele Academy », le jeu
+EtaPoke de Keele, quel titre
+Keele reçoit-il ?
+
+[06187.14224]
+Dr Mintche
+
+[06187.14239]
+Dr Slip
+
+[06187.14254]
+Dr Menthe
+
+[06187.14269]
+Dr Mandarine
+
+[06187.14284]
+Gagné !
+Du nom de la fac
+
+[06187.14314]
+Non.
+Un peu pervers, non ?
+
+[06187.14346]
+Non.
+
+[06187.14353]
+Non.
+Ça sent l’hiver au coin du feu
+
+[06187.14393]
+Trop tard !
+Suivante
+
+[06187.14415]
+À Rasheans, en quoi s’était
+déguisé le Wonder Chef
+qui apprend le sandwich ?
+
+[06187.14500]
+Goret tirelire
+
+[06187.14515]
+Goret en peluche
+
+[06187.14534]
+Goret à encens
+
+[06187.14553]
+Goret apprivoisé
+
+[06187.14570]
+Gagné !
+Mais comment il fait, mystère
+
+[06187.14626]
+Dommage !
+Ce serait mignon aussi
+
+[06187.14662]
+Raté !
+
+[06187.14669]
+Dommage !
+Se changer en bête vivante, impossible ?
+
+[06187.14723]
+Trop tard !
+Fais mieux après
+
+[06187.14753]
+L’animal élevé à Rasheans,
+bœuf sans en être un ?
+
+[06187.14811]
+Aurochs
+
+[06187.14824]
+Holstein
+
+[06187.14837]
+Gnou
+
+[06187.14842]
+Buffle
+
+[06187.14855]
+Gagné !
+On dirait un bœuf, sans le nom
+
+[06187.14903]
+Dommage, non.
+Une race de vache, ça ?
+
+[06187.14945]
+Non.
+
+[06187.14952]
+Pour le remède du chef de
+Rasheans, lequel est inutile ?
+
+[06187.15014]
+Poudre
+
+[06187.15023]
+Ver à bois
+
+[06187.15034]
+Corne
+
+[06187.15043]
+Cuir sec
+
+[06187.15052]
+Gagné !
+Le poudrer ne guérit rien
+
+[06187.15092]
+Dommage, non.
+Le ver s’infuse
+
+[06187.15124]
+Non.
+La corne s’infuse
+
+[06187.15150]
+Non.
+Le cuir s’infuse
+
+[06187.15176]
+Farah voit toujours le bon côté.
+Son mot fétiche ?
+
+[06187.15228]
+Ça ira, ça ira
+
+[06187.15243]
+Fonce, fonce
+
+[06187.15258]
+Laisse, laisse
+
+[06187.15273]
+Ondes, ondes
+
+[06187.15288]
+Gagné !
+Allez, pensée positive !
+
+[06187.15328]
+Dommage, non
+
+[06187.15341]
+Non.
+Une Farah bien défaitiste, ça
+
+[06187.15379]
+Non.
+Un peu allumée ?
+
+[06187.15403]
+Trop tard !
+Après : ça ira !
+
+[06187.15437]
+Le dieu du monde immatériel qui
+dominait Shizel, douée d’Aurora sombre ?
+
+[06187.15511]
+Nereid
+
+[06187.15520]
+Baten Kaitos
+
+[06187.15535]
+Seyfert
+
+[06187.15548]
+Regulus
+
+[06187.15557]
+Oui !
+Rendre Eternia immatérielle : son but
+
+[06187.15609]
+Raté.
+C’est un monde
+
+[06187.15631]
+Non.
+Lui, côté lumière
+
+[06187.15661]
+Trop tard !
+Réponds sans douter !
+
+[06187.15697]
+Le monde immatériel que Nereid
+aurait créé il y a 10 000 ans ?
+
+[06187.15763]
+Belcrant
+
+[06187.15776]
+Van Eltia
+
+[06187.15791]
+Grand Fall
+
+[06187.15808]
+Gagné !
+Un monde de songes, sans corps
+
+[06187.15856]
+Non.
+Ça, c’est une arme de Destiny
+
+[06187.15896]
+Dommage !
+L’un des sept trésors
+
+[06187.15932]
+Dommage !
+Un arte de Nereid, ça ?
+
+[06187.15972]
+Trop tard !
+Réponds sans douter !
+
+[06187.16008]
+Entre Rasheans et Mintche coule
+le fleuve Rasheans.
+Qui, du dojo Regulus,
+aide à le traverser ?
+
+[06187.16119]
+Paolo
+
+[06187.16126]
+Bitz
+
+[06187.16133]
+Roen
+
+[06187.16140]
+Norris
+
+[06187.16147]
+Hamilt
+
+[06187.16156]
+Gagné !
+Il use des artes d’eau
+
+[06187.16190]
+Non.
+C’est pas le père de Reid ?
+
+[06187.16230]
+Dommage !
+Lui, château d’Inferia
+
+[06187.16270]
+Dommage !
+C’est le père de Farah
+
+[06187.16310]
+Non.
+Lui, apprenti armurier à Imen
+
+[06187.16348]
+Au grand dojo de Regulus,
+des moines défient Reid.
+Combien sont-ils ?
+
+[06187.16437]
+8
+
+[06187.16442]
+4
+
+[06187.16447]
+5
+
+[06187.16452]
+6
+
+[06187.16457]
+7
+
+[06187.16462]
+9
+
+[06187.16467]
+10
+
+[06187.16472]
+Gagné !
+Au hasard, peut-être ?
+
+[06187.16510]
+Non.
+Presque ! Un peu plus
+
+[06187.16542]
+Non.
+Presque ! Un peu moins
+
+[06187.16576]
+À l’université de Mintche,
+à quel étage joue-t-on d’abord
+au « Quiz Tales » ?
+
+[06187.16659]
+3e
+
+[06187.16664]
+1er
+
+[06187.16669]
+2e
+
+[06187.16674]
+4e
+
+[06187.16679]
+Oui !
+Au 4e aussi, en fait,
+mais d’abord ici seul
+
+[06187.16736]
+Dommage !
+Là, le labo Craymel lumière
+
+[06187.16776]
+Dommage !
+Là, le labo Craymel eau
+
+[06187.16816]
+Dommage !
+À la fin, on y joue aussi, remarque
+
+[06187.16872]
+Après « Par là, Farah », le jeu
+EtaPoke de Farah, quel titre
+reçoit-elle ?
+
+[06187.16965]
+Reine du cou
+
+[06187.16984]
+Reine du bras
+
+[06187.17003]
+Reine des hanches
+
+[06187.17022]
+Reine des jambes
+
+[06187.17041]
+Oui !
+Mais ce titre, vu seul,
+laisse perplexe
+
+[06187.17092]
+Raté !
+« Hanches »... un hula hoop ?
+
+[06187.17136]
+Trop tard !
+Choisis toujours, même au hasard
+
+[06187.17186]
+Un navire relie Mintche au port d’Inferia.
+Le prix d’une cabine de 2e classe ?
+
+[06187.17272]
+720 Gald
+
+[06187.17285]
+700 Gald
+
+[06187.17298]
+750 Gald
+
+[06187.17311]
+780 Gald
+
+[06187.17324]
+800 Gald
+
+[06187.17337]
+Gagné !
+Cher ou pas, va savoir...
+
+[06187.17377]
+Raté. Tout près !
+
+[06187.17398]
+Raté. Près, près !
+
+[06187.17421]
+Raté. Trop cher ?
+
+[06187.17440]
+Au mont de Mintche, comment arrêter
+les monstres sans fin ?
+
+[06187.17502]
+Murer l’antre
+
+[06187.17517]
+Tuer le boss
+
+[06187.17532]
+Attendre la nuit
+
+[06187.17549]
+Amener Keele
+
+[06187.17568]
+Oui !
+Pas simple à déplacer
+
+[06187.17598]
+Dommage !
+Ce donjon n’a pas de boss
+
+[06187.17644]
+Dommage !
+Jour ou nuit, pareil
+
+[06187.17676]
+Dommage !
+Ça n’arrange rien du tout !
+
+[06187.17716]
+Trop tard !
+Après, ça ira
+
+[06187.17748]
+Du mont de Mintche à l’observatoire,
+le frêle Keele se joint. Face à un
+monstre, que disait-il faire ?
+
+[06187.17857]
+Détaler
+
+[06187.17870]
+Faire le mort
+
+[06187.17887]
+Se battre
+
+[06187.17898]
+Le nourrir
+
+[06187.17909]
+Gagné !
+Ses amies : les Fioles sacrées
+
+[06187.17955]
+Dommage !
+Faire le mort ne trompe pas un ours
+
+[06187.18005]
+Dommage !
+Le Keele de la fin
+l’aurait fait, peut-être
+
+[06187.18066]
+Raté !
+Façon Momotaro ?
+
+[06187.18094]
+Trop tard !
+Après, ça ira
+
+[06187.18128]
+Le chef de Rasheans a mal aux reins.
+Quel remède lui faut-il ?
+
+[06187.18194]
+Hotei Banri
+
+[06187.18209]
+Polaire Banri
+
+[06187.18226]
+Hotei Bambi
+
+[06187.18241]
+Vrai Banri
+
+[06187.18256]
+Oui !
+Apporte-le : un EtaPoke !
+
+[06187.18296]
+Non.
+Un nom qui rafraîchit, pourtant
+
+[06187.18336]
+Non !
+Un faon au tribunal... ?
+
+[06187.18374]
+Trop tard !
+Accroche-toi !
+
+[06187.18404]
+L’objet « EtaPoke » ouvre des jeux
+sur PocketStation. Celui dont
+Farah est la vedette ?
+
+[06187.18503]
+Par là, Farah
+
+[06187.18522]
+Par ici, Farah
+
+[06187.18541]
+Par là-bas, Farah
+
+[06187.18560]
+Partout, Farah
+
+[06187.18577]
+Oui !
+Du jeu de mains « Par là, hop ! », non ?
+
+[06187.18631]
+Dommage, non.
+Un titre qui ne dit rien du jeu
+
+[06187.18681]
+Trop tard !
+Accroche-toi !
+
+[06187.18715]
+L’objet « EtaPoke » ouvre des jeux
+sur PocketStation. Celui dont
+Keele est la vedette ?
+
+[06187.18814]
+Keele Academy
+
+[06187.18833]
+Zeibel Academy
+
+[06187.18856]
+Mintche Academy
+
+[06187.18875]
+Eternia Academy
+
+[06187.18898]
+Gagné !
+Un jeu dur à rendre fou
+
+[06187.18944]
+L’objet « EtaPoke » ouvre des jeux
+sur PocketStation. Celui dont
+Meredy est la vedette ?
+
+[06187.19045]
+Dancing Meredy
+
+[06187.19066]
+Romantic Meredy
+
+[06187.19091]
+Exciting Meredy
+
+[06187.19118]
+Dynamite Meredy
+
+[06187.19141]
+Gagné !
+Meredy y montre sa danse
+
+[06187.19189]
+Non.
+Ça sonnerait bien aussi
+
+[06187.19227]
+Non.
+Meredy survoltée ?
+
+[06187.19255]
+Raté.
+Ça sent le jeu énorme,
+ce titre, pourtant...
+
+[06187.19322]
+Trop tard !
+Appuie toujours sur un bouton :
+mon conseil
+
+[06187.19383]
+L’objet « EtaPoke » ouvre des jeux
+sur PocketStation. Celui dont
+Reid est la vedette ?
+
+[06187.19482]
+Bats-toi, Reid !
+
+[06187.19499]
+Au secours, Reid
+
+[06187.19516]
+Tiens bon, Reid
+
+[06187.19533]
+Allez, Reid !
+
+[06187.19550]
+Gagné !
+Moi, j’aime les réflexes
+
+[06187.19584]
+Non.
+Un jeu de corvées ?
+
+[06187.19610]
+Non.
+Raté
+
+[06187.19622]
+Raté.
+Farah l’encourage ?
+
+[06187.19650]
+Après « Bats-toi, Reid ! », le jeu
+EtaPoke de Reid, quel titre
+reçoit-il ?
+
+[06187.19741]
+Épéiste d’Albane
+
+[06187.19760]
+Kaiser
+
+[06187.19769]
+Berserk
+
+[06187.19780]
+Preux mythique
+
+[06187.19795]
+Guerrier sonique
+
+[06187.19812]
+Raté !
+Ce titre vient de la bataille navale
+
+[06187.19860]
+Raté !
+Ce titre tient au rang de combat
+
+[06187.19902]
+Dommage, non.
+Ce titre s’obtient au niveau 99
+
+[06187.19950]
+Non.
+Ce titre tient à la durée du combat
+
+[06187.19994]
+Trop tard !
+
+[06187.20007]
+Après « Dancing Meredy », le jeu
+EtaPoke de Meredy, quel titre
+reçoit-elle ?
+
+[06187.20106]
+Flying Dancer
+
+[06187.20125]
+Crying Dancer
+
+[06187.20144]
+Elegance Dancer
+
+[06187.20163]
+Mysterious Dancer
+
+[06187.20184]
+Oui !
+Un titre au pas léger
+
+[06187.20220]
+Raté !
+Meredy qui danse en pleurs ?
+
+[06187.20260]
+Raté !
+Celui-là irait bien aussi
+
+[06187.20298]
+Dommage, non.
+Sa danse a du mystère, si
+
+[06187.20344]
+Fini !
+Suite !
+
+[06187.20362]
+Le marchand, grotte Nostos ?
+
+[06187.20399]
+M. Œuf
+
+[06187.20406]
+Me Œuf
+
+[06187.20413]
+M. Mer
+
+[06187.20420]
+Me Mer
+
+[06187.20427]
+Gagné !
+Il avait des œufs d’ours
+
+[06187.20463]
+Dommage !
+Il trie les poussins ?
+
+[06187.20501]
+Dommage !
+Marées haute et basse
+y comptent, c’est vrai
+
+[06187.20558]
+Dommage !
+Il ferait quoi, cet artisan-là ?
+
+[06187.20606]
+Trop tard !
+Après, ça ira
+
+[06187.20638]
+Eternia, ce sont deux mondes,
+Inferia et Celestia. Comment
+nomme-t-on la langue de Celestia ?
+
+[06187.20741]
+Melnics
+
+[06187.20754]
+Miacis
+
+[06187.20765]
+Melnks
+
+[06187.20778]
+Belnics
+
+[06187.20791]
+Oui !
+On entend souvent « baiba » et « waiil »
+
+[06187.20841]
+Dommage !
+Ça se porte sur la poitrine
+
+[06187.20883]
+Dommage !
+Durs, ces noms étrangers
+
+[06187.20921]
+Raté !
+Presque !
+
+[06187.20941]
+Trop tard !
+Pas de panique
+
+[06187.20973]
+On ne comprenait rien à ce que
+disait Meredy. Quel objet a
+permis de lui parler ?
+
+[06187.21066]
+Boucle d’Orz
+
+[06187.21083]
+Fleurs de Doenis
+
+[06187.21100]
+Robe de Rosania
+
+[06187.21117]
+Cage d’argent
+
+[06187.21132]
+Oui !
+Il faut s’ouvrir le cœur, hein ?
+
+[06187.21174]
+Raté !
+Jolies fleurs, pourtant
+
+[06187.21208]
+Dommage !
+... On la porte tous, ça ?
+
+[06187.21246]
+Dommage !
+Ça, c’est un objet lié à Aifread
+
+[06187.21292]
+À Morle, un vieillard prend Catherine
+pour sa petite-fille. Nom ?
+
+[06187.21362]
+Simone
+
+[06187.21371]
+Pierre
+
+[06187.21380]
+Mazet
+
+[06187.21389]
+Oui !
+Elle n’osait pas le détromper
+
+[06187.21429]
+Dommage !
+C’est l’amoureux de Catherine
+
+[06187.21473]
+Dommage !
+C’est un Craymel d’eau
+
+[06187.21507]
+Dommage !
+C’est un docteur
+
+[06187.21539]
+À la « Jungle de l’Appel », quelle
+statue à mécanisme n’existe pas ?
+
+[06187.21611]
+Désir
+
+[06187.21622]
+Ruine
+
+[06187.21633]
+Création
+
+[06187.21644]
+Chaos
+
+[06187.21655]
+Ordre
+
+[06187.21666]
+Trop tard !
+Tâche de répondre !
+
+[06187.21704]
+Au Théâtre royal d’Inferia,
+le titre de la pièce ?
+
+[06187.21758]
+Ultus Buoy
+
+[06187.21773]
+Ulgus Buoy
+
+[06187.21788]
+Ultus Bee
+
+[06187.21803]
+Ultal Bee
+
+[06187.21818]
+Oui !
+« À toi de voir »
+
+[06187.21848]
+Raté !
+La fin cloche un peu ?
+
+[06187.21880]
+Dommage !
+Faux un peu partout...
+
+[06187.21914]
+À l’« Hôtel Inferia »
+de la capitale, les récits annexes
+sont combien en tout ?
+
+[06187.21995]
+Sept
+
+[06187.22002]
+Huit
+
+[06187.22009]
+Oui !
+Tu les as tous vus ?
+
+[06187.22041]
+Raté !
+Presque
+
+[06187.22059]
+Raté !
+Tout près
+
+[06187.22079]
+Parmi les récits annexes de
+l’« Hôtel Inferia », à la capitale,
+lequel n’existe pas ?
+
+[06187.22174]
+Douce nuit
+
+[06187.22187]
+Bonne gauche
+
+[06187.22200]
+Bonne coquine
+
+[06187.22215]
+Frisson
+
+[06187.22224]
+Chat
+
+[06187.22231]
+Bonne hantée
+
+[06187.22244]
+Oui !
+... Unagi pie
+
+[06187.22266]
+Raté !
+Une bonne gaffeuse y paraît
+
+[06187.22304]
+Raté !
+Elle charme Keele en beauté
+
+[06187.22342]
+Raté !
+Une voix dans l’hôtel...
+
+[06187.22376]
+Raté !
+La cause de la voix, révélée !
+
+[06187.22416]
+Raté !
+Au matin, quel choc pour Reid... !
+
+[06187.22468]
+Trop tard !
+Choisis donc, même au hasard !
+
+[06187.22514]
+À l’Église de Seyfert d’Inferia,
+le nom de l’archevêque ?
+
+[06187.22578]
+Calvani
+
+[06187.22591]
+Zosimos
+
+[06187.22600]
+Arende
+
+[06187.22609]
+Galenos
+
+[06187.22618]
+Oui !
+Un papy plutôt agaçant, hein
+
+[06187.22656]
+Raté !
+Lui dirige l’observatoire
+
+[06187.22692]
+Raté !
+C’est la princesse, ça
+
+[06187.22728]
+Raté !
+Lui, il est de Celestia, non ?
+
+[06187.22770]
+Trop tard !
+Choisis donc, même au hasard !
+
+[06187.22816]
+Captifs au château d’Inferia,
+Reid et les siens subissent ?
+
+[06187.22878]
+La noyade
+
+[06187.22889]
+Bouillon
+
+[06187.22900]
+Épines
+
+[06187.22909]
+Chatouilles
+
+[06187.22922]
+Oui !
+La princesse les a sauvés
+
+[06187.22960]
+Dommage !
+Ça les aurait tués
+
+[06187.22994]
+Dommage !
+Ça doit faire mal
+
+[06187.23024]
+Raté !
+Dur aussi, c’est vrai, mais...
+
+[06187.23064]
+Trop tard !
+Accroche-toi
+
+[06187.23092]
+L’arte « Poihan » de Chat,
+de quel élément ?
+
+[06187.23144]
+Eau
+
+[06187.23149]
+Sol
+
+[06187.23154]
+Gel
+
+[06187.23159]
+Volt
+
+[06187.23164]
+« Sol » : Pikohan
+
+[06187.23185]
+« Gel » : Kochihan
+
+[06187.23206]
+« Volt » : Paralyball
+
+[06187.23233]
+Raté, trop tard
+
+[06187.23252]
+Parmi les artes de Reid,
+combien sont du type
+d’attaque « taille » ?
+
+[06187.23329]
+8
+
+[06187.23332]
+6
+
+[06187.23335]
+10
+
+[06187.23338]
+12
+
+[06187.23343]
+Dommage, raté
+
+[06187.23360]
+Raté, trop tard
+
+[06187.23379]
+« Poings fous » de Farah :
+combien de TP ?
+
+[06187.23429]
+60
+
+[06187.23434]
+40
+
+[06187.23439]
+80
+
+[06187.23444]
+100
+
+[06187.23451]
+Quel minerai du coteau de
+Regulus achève le
+canon Fringe ?
+
+[06187.23522]
+Livavius
+
+[06187.23537]
+Mithril
+
+[06187.23548]
+Régulite
+
+[06187.23559]
+Craymélite
+
+[06187.23572]
+Quickie, animal rare de
+Celestia. Mais « Quickie » est le
+nom que lui donne Meredy.
+Son vrai nom savant, tu sais ?
+
+[06187.23688]
+Pot Rabbitchinus
+
+[06187.23707]
+Pot Lapinchinus
+
+[06187.23726]
+Pot Chatchinus
+
+[06187.23745]
+Pot Sourichinus
+
+[06187.23764]
+Exact !
+
+[06187.23775]
+Dommage, raté
+
+[06187.23792]
+Quelle épée était plantée
+au fond du repaire
+Celsea ?
+
+[06187.23851]
+Le Swordian Dymlos
+
+[06187.23876]
+Le Swordian Atwight
+
+[06187.23901]
+Le Swordian Clemente
+
+[06187.23926]
+Le Swordian Chaltier
+
+[06187.23953]
+Le Swordian Igtenos
+
+[06187.23980]
+Le Swordian Berselius
+
+[06187.24007]
+La lueur que les
+Célestiens ont au front
+dès la naissance ?
+
+[06187.24072]
+Elara
+
+[06187.24081]
+Alara
+
+[06187.24090]
+Ilara
+
+[06187.24099]
+Ulara
+
+[06187.24108]
+Olara
+
+[06187.24117]
+Pas tout à fait ?
+
+[06187.24136]
+À Chambard et Tinnsia, une
+femme troque des objets contre
+des Lentilles. Nom ?
+
+[06187.24219]
+Ilene
+
+[06187.24228]
+Marian
+
+[06187.24237]
+Rutee
+
+[06187.24246]
+Eleanor
+
+[06187.24255]
+Raté !
+
+[06187.24266]
+L’épée gagnée en battant
+Cress à l’arène ?
+
+[06187.24312]
+Épée éternelle
+
+[06187.24329]
+Épée d’Eternia
+
+[06187.24346]
+Épée d’émotion
+
+[06187.24365]
+Épée élémentaire
+
+[06187.24384]
+Raté !
+
+[06187.24395]
+Lequel n’est pas
+l’un des sept outils
+du pirate ?
+
+[06187.24450]
+Compas Aye
+
+[06187.24463]
+GPS
+
+[06187.24476]
+Sac Wonder
+
+[06187.24491]
+Chapeau d’Aifread
+
+[06187.24510]
+Lunet.
+
+[06187.24517]
+Sifflet Aye
+
+[06187.24532]
+Pavillon Aifread
+
+[06187.24549]
+Pikohan Revenge
+
+[06187.24566]
+Exact ! Bien vu, dis
+
+[06187.24591]
+C’est l’un des sept, ça
+
+[06187.24616]
+La poupée fétiche que Meredy
+attache à son ombrelle
+s’appelle ?
+
+[06187.24687]
+Corin
+
+[06187.24694]
+Harris
+
+[06187.24701]
+Allen
+
+[06187.24708]
+Decorin
+
+[06187.24717]
+Dommage, non
+
+[06187.24730]
+La source Craymel soigne, dit
+sa devise, le dos, le rhume,
+et quoi ?
+
+[06187.24803]
+Pipi
+
+[06187.24810]
+Froid
+
+[06187.24817]
+Épaule
+
+[06187.24824]
+Nerfs
+
+[06187.24831]
+L’âge adulte, chez les
+Célestiens, c’est ?
+
+[06187.24879]
+10 ans
+
+[06187.24886]
+14 ans
+
+[06187.24893]
+16 ans
+
+[06187.24900]
+18 ans
+
+[06187.24907]
+20 ans
+
+[06187.24914]
+Quelle fleur Ras porte-t-il
+piquée à son chapeau ?
+
+[06187.24970]
+Doenis
+
+[06187.24983]
+Lavande
+
+[06187.24998]
+Pommier
+
+[06187.25009]
+Elmera
+
+[06187.25022]
+Raté, pas cette fleur
+
+[06187.25045]
+L’élève du dojo Regulus
+qui en pinçait pour Farah ?
+
+[06187.25101]
+Franco
+
+[06187.25110]
+Camran
+
+[06187.25119]
+Sirius
+
+[06187.25128]
+Lui, le maître du dojo
+
+[06187.25155]
+Lui, c’est le chef de Rasheans
+
+[06187.25192]
+Le Labyrinthe de Nereid,
+paru le jeu fini, est une
+sphère de quelle teinte ?
+
+[06187.25271]
+Mûre
+
+[06187.25276]
+Bleu
+
+[06187.25281]
+Or
+
+[06187.25286]
+Vert
+
+[06187.25291]
+Gagné !
+Sinistre, digne d’un labyrinthe
+
+[06187.25335]
+Dommage ! Un peu trop frais, non ?
+
+[06187.25374]
+Dommage ! Trop clair, ça
+
+[06187.25403]
+Raté ! Couleur nature ?
+
+[06187.25430]
+Trop tard ! Accroche-toi
+
+[06187.25457]
+Hyades revient sans cesse
+barrer la route à Reid.
+Combien de duels ?
+
+[06187.25530]
+4
+
+[06187.25535]
+2
+
+[06187.25540]
+3
+
+[06187.25545]
+5
+
+[06187.25550]
+6
+
+[06187.25555]
+Gagné ! Avec le donjon caché, ça fait ça
+
+[06187.25602]
+Dommage !
+Tu n’en aurais pas oublié un ?
+
+[06187.25652]
+Raté ! Pas loin, si
+
+[06187.25675]
+Trop tard ! Insiste, tu y arriveras !
+
+[06187.25716]
+Pour l’Aurora, Reid a passé
+combien d’épreuves ?
+
+[06187.25768]
+Gagné !
+Tantôt Keele, tantôt
+Shizel : pas de répit
+
+[06187.25823]
+Trop tard ! Courage !
+
+[06187.25850]
+À l’épreuve de Seyfert, Reid,
+devenu Keele enfant, part chercher
+quoi pour Farah ?
+
+[06187.25935]
+Étoile
+
+[06187.25946]
+Magot du chef
+
+[06187.25961]
+Lait d’aurochs
+
+[06187.25978]
+Gagné !
+Ça finira en gros drame
+
+[06187.26014]
+Raté.
+... On ne vole pas, voyons
+
+[06187.26052]
+Raté !
+C’est Reid que ça réjouirait, non ?
+
+[06187.26098]
+Raté !
+Ça lui plairait peut-être, si
+
+[06187.26138]
+Trop tard !
+Réponds toujours, n’importe quoi
+
+[06187.26192]
+Où est Maxwell, Craymel des éléments ?
+
+[06187.26237]
+Crypte de Farlos
+
+[06187.26256]
+Temple de Seyfert
+
+[06187.26275]
+Haut du château
+
+[06187.26296]
+Repaire Celsea
+
+[06187.26313]
+Gagné !
+On y va avec la Clé de Seyfert
+
+[06187.26359]
+Trop tard !
+Choisis, n’importe lequel
+
+[06187.26403]
+Épave sous la mer, salle du
+boss : lequel n’est pas
+dans un coffre ?
+
+[06187.26474]
+16 847 Gald
+
+[06187.26491]
+14 305 Gald
+
+[06187.26508]
+15 365 Gald
+
+[06187.26525]
+10 655 Gald
+
+[06187.26542]
+12 245 Gald
+
+[06187.26559]
+Exact.
+
+[06187.26568]
+Tombe d’Aifread : quelle
+zone n’y est pas ?
+
+[06187.26622]
+Zone prison
+
+[06187.26635]
+Zone maison hantée
+
+[06187.26654]
+Zone enfer
+
+[06187.26667]
+Zone manoir
+
+[06187.26680]
+Raté.
+La Barbe d’Aifread y est
+
+[06187.26716]
+Raté.
+Le Chapeau d’Aifread y est
+
+[06187.26756]
+Raté.
+L’Habit d’Aifread y est
+
+[06187.26792]
+Trop tard !
+Qui ne dit rien a faux !
+
+[06187.26830]
+À la Tombe d’Aifread, lequel
+de ces objets ne se fixe pas
+sur la statue d’Aifread ?
+
+[06187.26919]
+Clé d’Aifread
+
+[06187.26936]
+Barbe d’Aifread
+
+[06187.26955]
+Chapeau d’Aifread
+
+[06187.26974]
+Habit d’Aifread
+
+[06187.26991]
+Pour lever le Pont
+de l’expédition, que met-on dans
+la douille du Socle d’Aifread ?
+
+[06187.27080]
+Cage d’Aifread
+
+[06187.27099]
+Cage Craymel
+
+[06187.27116]
+Cage d’Olbers
+
+[06187.27133]
+Gagné !
+Il en faut 5
+
+[06187.27155]
+Quel trésor de Celestia
+se gagne aux enchères
+de Jini ?
+
+[06187.27216]
+Anneau Resume
+
+[06187.27233]
+Statue du galago
+
+[06187.27254]
+Éden
+
+[06187.27259]
+Jarre Corlane
+
+[06187.27274]
+Gagné !
+
+[06187.27283]
+Grotte d’Aifread : un donjon
+de quel genre ?
+
+[06187.27333]
+Jeu d’oie
+
+[06187.27344]
+Manège
+
+[06187.27351]
+Marathon
+
+[06187.27362]
+Jardin
+
+[06187.27369]
+Gagné !
+Une roue fait avancer
+
+[06187.27403]
+Dommage !
+... J’imagine mal un donjon pareil
+
+[06187.27453]
+Raté !
+On avance en tapant {09:35 00 00 00} ?
+
+[06187.27492]
+Raté !
+Un donjon pour se détendre ?
+
+[06187.27528]
+Raté.
+Trop tard
+
+[06187.27546]
+La « Tour étincelante » se gravit,
+une énigme par étage.
+Combien d’étages en tout ?
+
+[06187.27639]
+8
+
+[06187.27644]
+5
+
+[06187.27649]
+6
+
+[06187.27654]
+7
+
+[06187.27659]
+9
+
+[06187.27664]
+10
+
+[06187.27671]
+Gagné ! Boss : Gardien du ciel
+
+[06187.27706]
+Dommage !
+Un peu court, non ?
+
+[06187.27750]
+Raté ! Presque !
+
+[06187.27769]
+Raté ! Tout près
+
+[06187.27788]
+Trop tard ! Fais mieux après
+
+[06187.27819]
+Après Shizel, au château de Balir,
+que confie Ras à Reid ?
+
+[06187.27885]
+Clé de Seyfert
+
+[06187.27902]
+Clé d’Inferia
+
+[06187.27919]
+Clé de Celestia
+
+[06187.27936]
+Clé éternelle
+
+[06187.27951]
+Gagné ! L’objet précieux qui guide Reid
+
+[06187.27998]
+Raté ! Plausible, mais inventé
+
+[06187.28033]
+L’auberge du château de
+Balir : combien ?
+
+[06187.28077]
+7 700 Gald
+
+[06187.28092]
+5 500 Gald
+
+[06187.28107]
+6 600 Gald
+
+[06187.28122]
+8 800 Gald
+
+[06187.28137]
+Exact. Cher, ça !
+
+[06187.28158]
+Dommage ! Cher déjà, mais c’est encore plus !
+
+[06187.28209]
+Raté ! Bien trop cher, là !
+
+[06187.28240]
+Ruines de la foudre finies,
+que donnent à Reid
+Rem et Shadow ?
+
+[06187.28321]
+Excalibur
+
+[06187.28336]
+Last Fencer
+
+[06187.28353]
+Gaia Cleaver
+
+[06187.28370]
+Gagné ! Un vrai nom d’épée de héros !
+
+[06187.28415]
+Raté ! Ça veut dire « dernier épéiste »
+
+[06187.28462]
+Dommage ! Ça, c’est le prix du tournoi d’Inferia
+
+[06187.28513]
+Dommage ! Ça vient du Labyrinthe de Nereid
+
+[06187.28564]
+Quand Inferia et Celestia
+en vinrent à s’allier,
+qui représentait Inferia ?
+
+[06187.28653]
+Reid
+
+[06187.28660]
+Fog
+
+[06187.28669]
+Exact. Chef des gardes d’Inferia
+
+[06187.28704]
+Dommage ! Le héros a un autre rôle, lui
+
+[06187.28749]
+Dommage ! Lui représentait Celestia
+
+[06187.28792]
+Dommage ! Lui portait à Roen le message de Ras
+
+[06187.28853]
+L’armée libre de Tinnsia,
+la ville des artisans ?
+
+[06187.28905]
+Shileska
+
+[06187.28916]
+Miacis
+
+[06187.28925]
+Peruti
+
+[06187.28936]
+Dommage ! Ça, c’est la bête de Fog
+
+[06187.28983]
+Dommage ! C’est une ville de Celestia
+
+[06187.29028]
+Raté ! Une race de Quickie, non ?
+
+[06187.29063]
+Le nom de la bête
+de Fog ?
+
+[06187.29099]
+Dédé
+
+[06187.29110]
+Toto
+
+[06187.29121]
+Tama
+
+[06187.29132]
+Jiji
+
+[06187.29143]
+Exact.
+La bête chérie de sa femme, dit-on ?
+
+[06187.29189]
+Raté !
+... Un phoque, non ?
+
+[06187.29219]
+Dommage !
+Un nom de bête de sorcière
+
+[06187.29257]
+La femme de Fog, partie et
+introuvable, s’appelle ?
+
+[06187.29315]
+Lysithea
+
+[06187.29324]
+Mary
+
+[06187.29331]
+Aira
+
+[06187.29338]
+Lilith
+
+[06187.29345]
+Dommage !
+Un roi ne lui fait pas sa cour, à elle ?
+
+[06187.29399]
+Raté !
+Elle, l’adjointe
+
+[06187.29427]
+Raté !
+C’est la tante de Kyle
+
+[06187.29459]
+Au sushi tournant de
+Tinnsia, quel héros de Destiny
+joue au « duel de goinfres » ?
+
+[06187.29550]
+Kongman
+
+[06187.29561]
+Woodrow
+
+[06187.29572]
+Leon
+
+[06187.29579]
+Stahn
+
+[06187.29586]
+Exact.
+Il a l’air costaud
+
+[06187.29616]
+Raté !
+... Doué, qui sait
+
+[06187.29652]
+Dommage !
+Hahaha !
+J’aimerais voir ça !
+
+[06187.29701]
+Dommage !
+Lui serait fort, sans doute ?
+
+[06187.29745]
+Hyades vaincu laisse
+tomber un « Bracelet
+mental » et quoi ?
+
+[06187.29812]
+Œuf
+
+[06187.29819]
+Canard jouet
+
+[06187.29836]
+Champi
+
+[06187.29843]
+Riz
+
+[06187.29850]
+Gagné !
+Pourquoi l’avait-il ?
+
+[06187.29886]
+Raté.
+Il aimerait le mignon, qui sait ?
+
+[06187.29928]
+Cabane de Chat : étages ?
+
+[06187.29955]
+8 étages
+
+[06187.29964]
+5 étages
+
+[06187.29973]
+6 étages
+
+[06187.29982]
+7 étages
+
+[06187.29991]
+9 étages
+
+[06187.30000]
+10 étages
+
+[06187.30011]
+Gagné !
+Belles énigmes partout !
+
+[06187.30047]
+Raté !
+Presque !
+
+[06187.30065]
+La « Tour étincelante » se gravit,
+une énigme par étage.
+Et le boss de ce donjon ?
+
+[06187.30168]
+Valkyrie
+
+[06187.30181]
+Katz
+
+[06187.30190]
+Druaga
+
+[06187.30201]
+Exact.
+Une habituée de Namco !
+
+[06187.30233]
+Dommage !
+Pas de mal aux bêtes
+
+[06187.30265]
+Raté !
+Craymel de lumière, oui, mais non
+
+[06187.30307]
+Raté !
+Une histoire de tour, oui, mais
+
+[06187.30349]
+Trop tard !
+Après, ça ira
+
+[06187.30377]
+Sous la cabane de Chat,
+chaque étage veut
+deux objets clés :
+le « Canard jouet » et ?
+
+[06187.30467]
+Ressort canard
+
+[06187.30484]
+Vis canard
+
+[06187.30497]
+Pièce canard
+
+[06187.30512]
+Duvet canard
+
+[06187.30525]
+Gagné !
+On le met dans le canal
+
+[06187.30561]
+Raté !
+... Du duvet ? Pour ?
+
+[06187.30593]
+Salle des devinettes de Chat :
+quelle réponse n’y était pas ?
+
+[06187.30657]
+Bahut
+
+[06187.30664]
+Plan
+
+[06187.30669]
+Bavoir
+
+[06187.30680]
+Couteau
+
+[06187.30691]
+Chiffon
+
+[06187.30700]
+Pelle
+
+[06187.30709]
+Exact.
+Oui, absente
+
+[06187.30735]
+Raté !
+Elle y était, non ?
+
+[06187.30765]
+Raté !
+Elle y était, si ?
+
+[06187.30795]
+Raté !
+Celle-là y était
+
+[06187.30821]
+Raté !
+Elle y était, dit-on...
+
+[06187.30853]
+Raté !
+Si, paraît-il
+
+[06187.30881]
+Le carburant du rail Craymel,
+vendu à Imen ?
+
+[06187.30931]
+Cage Train
+
+[06187.30946]
+Cage Elara
+
+[06187.30961]
+Cage Sagura
+
+[06187.30974]
+Gagné !
+Cédée pour 2 000 Gald, hein
+
+[06187.31016]
+Dommage !
+Ça, c’est un objet lié à Aifread
+
+[06187.31064]
+Dommage !
+Sagura, c’est le nom du marchand
+
+[06187.31112]
+Au village des Katz,
+on y mange quoi ?
+
+[06187.31156]
+Cèpe de Noko
+
+[06187.31169]
+Poupée Noko
+
+[06187.31184]
+Coussinets
+
+[06187.31199]
+Noko en vrai
+
+[06187.31212]
+Exact.
+Un cèpe qui pousse sur un « Noko »
+
+[06187.31260]
+Raté !
+Immangeable, la poupée
+
+[06187.31292]
+Dommage !
+Manger ça ?
+... En ragoût, ce serait bon ?
+
+[06187.31349]
+Dommage !
+Reid, lui... va savoir
+
+[06187.31387]
+Trop tard !
+Fais mieux après
+
+[06187.31417]
+Source Craymel : si la chance
+de Reid atteint 90 %,
+quelle scène voit-on ?
+
+[06187.31494]
+Meredy, bain hommes
+
+[06187.31515]
+Épier les femmes
+
+[06187.31532]
+Bain mixte ce jour
+
+[06187.31553]
+Cerné de costauds
+
+[06187.31572]
+Gagné !
+Keele, coincé dedans,
+a eu un malaise
+
+[06187.31625]
+Dommage !
+... Bon, un certain trousseur de jupes
+en serait capable, lui
+
+[06187.31702]
+Raté !
+Ça... c’est ton souhait à toi ?
+
+[06187.31742]
+Raté !
+Ce n’est pas de la chance, ça ?
+
+[06187.31788]
+Trop tard !
+Fais mieux après
+
+[06187.31820]
+Faire d’une cabine du
+Van Eltia une infirmerie
+coûte combien ?
+
+[06187.31887]
+1 000 000 Gald
+
+[06187.31908]
+170 000 Gald
+
+[06187.31927]
+300 000 Gald
+
+[06187.31946]
+800 000 Gald
+
+[06187.31965]
+Gagné !
+Cher, quand même !
+
+[06187.31997]
+Raté !
+Ça, c’est pour la
+remettre en cabine
+
+[06187.32042]
+Dommage !
+Ça, c’est pour une chambre
+
+[06187.32084]
+Dommage !
+Ça, c’est pour une
+salle de jeux
+
+[06187.32131]
+Trop tard !
+Ne lâche pas : suivante !
+
+[06187.32173]
+Le Craymel du temps, à lier
+au château de Shizel ?
+
+[06187.32227]
+Sekundes
+
+[06187.32240]
+Shadow
+
+[06187.32249]
+Gagné !
+Le Craymel suprême
+
+[06187.32279]
+Raté !
+Lui, c’est la lumière
+
+[06187.32311]
+Raté !
+Lui, c’est l’ombre
+
+[06187.32343]
+Dommage !
+Lui régit les éléments
+
+[06187.32383]
+Trop tard !
+N’abandonne pas !
+

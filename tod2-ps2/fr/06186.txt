@@ -1,0 +1,2243 @@
+[06186.13306]
+Qui maniait à la fois
+l’épée et l’arc ?
+
+[06186.13353]
+Woodrow
+
+[06186.13364]
+Stahn
+
+[06186.13371]
+Rutee
+
+[06186.13380]
+Leon
+
+[06186.13387]
+Mary
+
+[06186.13394]
+Chelsea
+
+[06186.13405]
+De plus, porteur
+d’un Swordian, il lançait
+aussi des sorts : un vrai
+guerrier complet.
+
+[06186.13505]
+Non.
+
+[06186.13510]
+Trop tard.
+
+[06186.13521]
+Le mets fin « Douceur de reine »,
+un dessert de tous les fruits.
+Pourtant un fruit n’y entre
+pas. Lequel ?
+
+[06186.13645]
+Citron
+
+[06186.13652]
+Durian
+
+[06186.13661]
+Pruneau
+
+[06186.13670]
+Acérola
+
+[06186.13679]
+Pomme
+
+[06186.13686]
+Ananas
+
+[06186.13693]
+Melon
+
+[06186.13700]
+Le « kaki » et la « châtaigne »
+n’y entrent pas non plus.
+Mets-les tels quels dans
+le Sac à vivres.
+
+[06186.13806]
+Stahn fouille une étagère :
+un « livre pour adultes ».
+S’il le lit, que lui
+arrive-t-il ?
+
+[06186.13900]
+Philia le frappe
+
+[06186.13921]
+Rutee le rosse
+
+[06186.13942]
+Leon l’électrocute
+
+[06186.13963]
+Woodrow le gronde
+
+[06186.13984]
+Chelsea le déteste
+
+[06186.14005]
+Mary veut le lire
+
+[06186.14026]
+Johnny le prend
+
+[06186.14045]
+Kongman le déchire
+
+[06186.14066]
+« Repens-toi ! », et il
+était puni
+
+[06186.14108]
+Trop tôt pour toi, {NAME:01 00 00 00}.
+Si tu en trouves un,
+ne le lis pas !
+
+[06186.14174]
+Quel gage d’amour ont Mary
+et Dalis, son mari ?
+(剣 épée, 盾 bouclier)
+
+[06186.14260]
+Jonc
+
+[06186.14265]
+Emblème
+
+[06186.14279]
+Pendentif
+
+[06186.14290]
+Aile
+
+[06186.14295]
+Bracelet
+
+[06186.14308]
+Dague
+
+[06186.14315]
+Mary, amnésique, a retrouvé
+la mémoire grâce à cette
+épée. Des souvenirs
+douloureux, pourtant...
+
+[06186.14417]
+La compagnie Oberon conçoit
+et vend des articles à base
+de Lentilles. Lequel s’achète
+dans ses boutiques ?
+
+[06186.14525]
+Balle d’énergie
+
+[06186.14542]
+Élixir
+
+[06186.14555]
+Sablier
+
+[06186.14568]
+Anneau sorcier
+
+[06186.14585]
+Fiole rune
+
+[06186.14598]
+Objet d’attaque : sa
+Lentille fait du courant
+qui blesse l’ennemi.
+
+[06186.14665]
+Pas un article à Lentilles.
+
+[06186.14696]
+Un anneau qui brûle des
+Lentilles et tire un rayon.
+Ni d’Oberon,
+ni en boutique.
+
+[06186.14790]
+Pas un article à Lentilles
+
+[06186.14819]
+Le « Vieux bâton » que Rutee
+a pris au temple antique
+pour Walt :
+c’est quoi ?
+
+[06186.14901]
+Bâton BC
+
+[06186.14912]
+Bâton RC
+
+[06186.14923]
+Bâton GC
+
+[06186.14934]
+Bâton PC
+
+[06186.14945]
+Une Fiole runique le
+change en ceci : le
+« Blue Crystal Rod »,
+en abrégé Bâton BC.
+
+[06186.15037]
+Au passage, Bâton RC
+abrège « Red Crystal
+Rod ». Il se trouve dans
+un certain laboratoire.
+
+[06186.15131]
+Au passage, Bâton GC
+abrège « Green Crystal
+Rod ». Il se trouve dans
+une cité aérienne.
+
+[06186.15223]
+Aucun objet ne s’appelle
+Bâton PC.
+
+[06186.15259]
+Au « jeu des graines », on
+cultive pour avoir des objets.
+Quelle graine, la meilleure,
+donne les plus beaux ?
+
+[06186.15377]
+Graine Charac
+
+[06186.15394]
+Graine Pompom
+
+[06186.15409]
+Graine Estema
+
+[06186.15424]
+Graine Ranakeal
+
+[06186.15441]
+Graine Dolgenia
+
+[06186.15458]
+Graine Penpen
+
+[06186.15473]
+Graine Oriola
+
+[06186.15488]
+Elle donne du rare et du
+très puissant : le disque
+« Force du dieu du vent »,
+la gemme « Diamant ».
+
+[06186.15594]
+Celle-ci donne surtout des
+« Gelées de pomme » ou « d’orange » :
+hélas, rien de
+bien utile.
+
+[06186.15710]
+Celle-ci
+donne surtout des vivres
+de bas rang : « Fraise »,
+« Poulet ».
+
+[06186.15790]
+Celle-ci
+donne surtout des vivres
+de bas rang : « Pomme »,
+« ŒUF ».
+
+[06186.15870]
+Celle-ci donne des vivres
+qui se vendent cher : « Thon »,
+« Melon ». Mais elle fane
+vite.
+
+[06186.15964]
+Celle-ci donne des vivres
+et des gelées de tout rang :
+« Crevette », « Gelée de
+citron ».
+
+[06186.16058]
+Mais cette graine est plutôt
+bonne : vivres, armures rares,
+herbes dopantes...
+bien des choses utiles.
+
+[06186.16172]
+Un disque monté sur un
+Swordian en élève les dons.
+Quel disque enseigne
+le sort « Heal » ?
+
+[06186.16272]
+Grâce de sainte
+
+[06186.16289]
+Force montante
+
+[06186.16306]
+Sourire d’ange
+
+[06186.16323]
+Prière lustrale
+
+[06186.16340]
+Pluie de lumière
+
+[06186.16357]
+Outre « Heal », qui rend des HP,
+ce disque enseigne « Recover »
+contre les altérations, « Pikohan »
+qui assomme...
+
+[06186.16473]
+« Force montante » :
+ce disque enseigne
+« First Aid », qui rend
+un peu de HP.
+
+[06186.16563]
+« Sourire d’ange » : ce
+disque enseigne « Antidote »,
+qui chasse le poison.
+
+[06186.16644]
+« Prière lustrale » : ce
+disque enseigne « Recover »,
+contre les altérations.
+
+[06186.16723]
+« Pluie de lumière » : ce disque
+enseigne « Ray », une pluie de
+lumière venue du ciel qui
+frappe l’ennemi.
+
+[06186.16835]
+Qui vola le premier l’« Œil de
+Dieu » ? Le Grand prêtre de
+Straylize : son nom ?
+
+[06186.16924]
+Greybum
+
+[06186.16933]
+Ailts
+
+[06186.16942]
+Batista
+
+[06186.16953]
+Tiberius
+
+[06186.16966]
+Greybum Bernhardt.
+Il vola l’« Œil de Dieu »
+du temple de Straylize
+et voulut dominer le monde.
+
+[06186.17066]
+Sur la carte, à
+« Tricycle », que se
+passe-t-il ?
+
+[06186.17121]
+Aucun ennemi
+
+[06186.17138]
+Combats en +
+
+[06186.17151]
+Marcher rend des HP
+
+[06186.17172]
+Marcher rend des TP
+
+[06186.17193]
+Mais on avance
+très lentement
+
+[06186.17227]
+Mettre dans le Sac à vivres
+des aliments à HP, « Pomme »
+ou « Bœuf », donnait
+cet effet.
+
+[06186.17321]
+Mettre dans le Sac à vivres
+des aliments à TP, « Citron »
+ou « Poulet », donnait
+cet effet.
+
+[06186.17415]
+L’« Œuf » de Stahn, couvé
+par Lilith : il en sort
+quoi ? (蛇 = serpent)
+
+[06186.17491]
+Dragon
+
+[06186.17500]
+Chat
+
+[06186.17505]
+Poulet
+
+[06186.17515]
+Il en est sorti un bébé
+dragon bien glouton
+
+[06186.17569]
+Un chat naît du
+ventre de sa mère.
+Pas d’un œuf.
+
+[06186.17630]
+Le « Cor » de Litler :
+que peut-on appeler ?
+(海竜 = dragon
+des mers)
+
+[06186.17715]
+Dragon
+
+[06186.17722]
+Radisrol
+
+[06186.17735]
+Aéroglisseur
+
+[06186.17750]
+Ennemis forts
+
+[06186.17765]
+Petits ennemis
+
+[06186.17780]
+Tricycle
+
+[06186.17793]
+Navire
+
+[06186.17800]
+Le « Cor » sonné dans un port,
+Bernardo, dragon des mers,
+portait sur les flots.
+
+[06186.17885]
+Un « Tricycle »,
+venir tout seul !
+
+[06186.17925]
+Le navire se prenait, contre
+paiement, aux ports de Darilsheid,
+Cherik, Snowfria et Neustadt.
+
+[06186.18034]
+L’arte mystique unit arte
+et sort. Lequel unit la
+Brèche de Stahn et
+Explode de Dymlos ?
+
+[06186.18134]
+Typhon feu
+
+[06186.18145]
+Braise
+
+[06186.18152]
+Feu démon
+
+[06186.18163]
+Stahn soulève l’ennemi par
+sa Brèche ; là où il
+retombe, le sort Explode
+de Dymlos éclate.
+
+[06186.18259]
+Un arte mystique à part.
+Pour l’apprendre : atteindre un
+certain niveau, puis finir un
+certain épisode annexe.
+
+[06186.18373]
+Cet arte mystique unit le
+Croc démon de Stahn et le
+Fire Wall de Dymlos.
+
+[06186.18454]
+Au « chifoumi à l’éventail »,
+qui affronte Stahn ?
+
+[06186.18524]
+Philia
+
+[06186.18533]
+Johnny
+
+[06186.18542]
+Kongman
+
+[06186.18553]
+Bien vu.
+
+[06186.18568]
+Dans Heidelberg tenue par
+l’ennemi, un fidèle de Woodrow
+aida Stahn et les siens.
+Son nom ?
+
+[06186.18660]
+Dalzen
+
+[06186.18669]
+Isaac
+
+[06186.18678]
+Alba
+
+[06186.18685]
+Dalis
+
+[06186.18692]
+Dalzen Beagran. Il servit deux
+rois de Phandaria : le bras
+droit de Woodrow.
+
+[06186.18771]
+C’est le nom
+du père de Woodrow
+
+[06186.18803]
+C’est le maître
+de Woodrow
+
+[06186.18835]
+C’est le général
+ennemi qui tenait
+Heidelberg
+
+[06186.18882]
+Les Lentilles qu’il faut pour
+finir le canon à Lentilles sont
+en trois lieux : forêt de
+Straylize, Cresta, et ?
+
+[06186.18994]
+Harmentz
+
+[06186.19009]
+Temple de Straylize
+
+[06186.19030]
+Darilsheid
+
+[06186.19049]
+Janos
+
+[06186.19066]
+Un certain Walt, qui
+vit dans ce village,
+te la cède.
+
+[06186.19125]
+Où le Swordian Igtenos
+a-t-il été restauré ?
+
+[06186.19175]
+Helraios
+
+[06186.19188]
+Claudis
+
+[06186.19201]
+Mikheil
+
+[06186.19214]
+Ignacy
+
+[06186.19225]
+Avec le matériel de
+Helraios, Igtenos fut
+réparé et reprit le combat.
+
+[06186.19296]
+Cité céleste « Helraios » :
+quel objet y avait-on
+à foison ?
+
+[06186.19359]
+Bœuf juteux
+
+[06186.19376]
+Besicles
+
+[06186.19391]
+Gel ananas
+
+[06186.19402]
+Bottes ailées
+
+[06186.19419]
+Cape luxueuse
+
+[06186.19436]
+Mystère... ?
+Pourquoi cet objet... ?
+
+[06186.19478]
+Le chifoumi à l’éventail se joue
+au salon de la maison de Heiroku.
+Sur le rouleau pendu au mur,
+qu’était-il écrit ?
+
+[06186.19594]
+Piqué phénix
+
+[06186.19609]
+Âme chant
+
+[06186.19620]
+Âme thé
+
+[06186.19631]
+Âme art
+
+[06186.19640]
+Cri du lion
+
+[06186.19653]
+Croc démon
+
+[06186.19664]
+Mais pourquoi
+Piqué phénix... ?
+Je ne saisis pas...
+Stahn l’aurait écrit ?
+
+[06186.19740]
+C’était
+écrit sur le rouleau
+de la maison de Johnny,
+à Shiden.
+
+[06186.19806]
+Que fallait-il pour relancer
+les systèmes du Radisrol,
+englouti sous la mer ?
+
+[06186.19887]
+Disque
+
+[06186.19896]
+Clé
+
+[06186.19901]
+Carte-clé
+
+[06186.19912]
+Lens
+
+[06186.19919]
+{09:25 00 00 00} et {09:27 00 00 00} ensemble donnent
+l’« attaque projetante », qui
+envoie l’ennemi au loin.
+À quelle condition ?
+
+[06186.20031]
+HP à 95 % ou plus
+
+[06186.20052]
+TP à 95 % ou plus
+
+[06186.20073]
+Sac à vivres vide
+
+[06186.20096]
+Sac à vivres plein
+
+[06186.20117]
+Aucune altération
+
+[06186.20136]
+Une altération
+
+[06186.20157]
+Piégé.
+
+[06186.20172]
+Quel fruit précieux ne
+s’achète qu’à la boutique
+de Cyril ?
+
+[06186.20241]
+Myrtille
+
+[06186.20254]
+Sweetie
+
+[06186.20267]
+Kyoho
+
+[06186.20276]
+Château de Tokei, salle des
+douze portes : après le
+« serpent »,
+quelle porte ?
+
+[06186.20364]
+Dada
+
+[06186.20369]
+Mouton
+
+[06186.20376]
+Maki
+
+[06186.20381]
+Coq
+
+[06186.20386]
+Loup
+
+[06186.20391]
+Rat
+
+[06186.20398]
+Bœuf
+
+[06186.20403]
+Lapin
+
+[06186.20410]
+Ici, on ouvre les portes
+dans l’ordre du zodiaque.
+Quel animal y
+suit le « serpent » ?
+
+[06186.20502]
+Ses habitants réfugiés à
+Darilsheid, le village désert
+d’Almeida voit paraître des
+monstres. Lesquels ?
+
+[06186.20612]
+Ogre
+
+[06186.20619]
+Golem
+
+[06186.20628]
+Zombie
+
+[06186.20635]
+Squelette
+
+[06186.20646]
+Il paraît seul, sans groupe :
+les combos passent bien.
+Profites-en pour amasser
+des bonus de combo.
+
+[06186.20762]
+Baruk, l’homme de Hugo, attaque
+en dirigeant une créature.
+Laquelle ?
+
+[06186.20847]
+Puce
+
+[06186.20852]
+Chat
+
+[06186.20857]
+Thon
+
+[06186.20862]
+Ours
+
+[06186.20867]
+Il lance ses insectes,
+les tire du sol,
+les fait pleuvoir du ciel :
+à sa guise.
+
+[06186.20951]
+« Pomme véreuse » au
+Sac à vivres :
+quel effet ?
+
+[06186.21006]
+Moins de rencontres
+
+[06186.21027]
+Plus de rencontres
+
+[06186.21048]
+Empoisonné{09:56 00 00 00}
+
+[06186.21068]
+Paralysé{09:5F 00 00 00}
+
+[06186.21088]
+Rend des HP
+
+[06186.21103]
+Ôte des HP
+
+[06186.21118]
+Rend des TP
+
+[06186.21133]
+Ôte des TP
+
+[06186.21148]
+Une pomme véreuse, on s’en
+passerait ; c’est pourtant
+un aliment bien utile.
+
+[06186.21229]
+Un Swordian frappe en épée et
+lance des sorts en arme à
+Lentille. Lequel excelle le
+plus aux sorts d’attaque ?
+
+[06186.21343]
+Clemente
+
+[06186.21354]
+Dymlos
+
+[06186.21365]
+Atwight
+
+[06186.21376]
+Igtenos
+
+[06186.21389]
+Chaltier
+
+[06186.21402]
+Il apprend des sorts
+d’attaque de tout
+élément. Mais il
+frappait peu fort.
+
+[06186.21488]
+Dymlos, lui,
+excelle surtout à
+l’attaque directe.
+
+[06186.21539]
+Atwight est douée pour
+les sorts, mais ceux de
+soin : pour la vigueur
+et les altérations.
+
+[06186.21629]
+Igtenos est
+équilibré entre
+puissance des sorts
+et attaque directe.
+
+[06186.21703]
+Chaltier est
+équilibré entre puissance des sorts
+et attaque directe.
+
+[06186.21776]
+Quel disque gagne-t-on en
+finissant la « Tour de
+Druaga » la première fois ?
+
+[06186.21859]
+Superexplosion
+
+[06186.21874]
+Dragon bleu
+
+[06186.21887]
+Géant debout
+
+[06186.21900]
+Foudre divine
+
+[06186.21915]
+Monté sur un Swordian, ce
+disque donne le plus fort
+des sorts, « Big Bang ».
+
+[06186.21994]
+Quel mini-jeu pouvait-on
+tenter à l’hôtel
+de Neustadt ?
+
+[06186.22057]
+Blackjack
+
+[06186.22074]
+Poker
+
+[06186.22083]
+Bluff
+
+[06186.22090]
+Gueux
+
+[06186.22097]
+Les sept
+
+[06186.22106]
+Paires
+
+[06186.22115]
+Exact !
+
+[06186.22124]
+Non !
+
+[06186.22131]
+De ces artes,
+lequel était à
+Leon seul ?
+
+[06186.22172]
+Raid
+
+[06186.22179]
+Dracocroc
+
+[06186.22190]
+Brèche
+
+[06186.22197]
+Il fonce et disperse le groupe,
+puis pique vers le haut
+l’ennemi soulevé. Un arte vif,
+digne du rapide Leon.
+
+[06186.22315]
+Outre Leon, Stahn aussi
+s’en servait. Il taille
+l’ennemi coup sur coup.
+
+[06186.22390]
+Arte de Stahn et
+de Woodrow : une
+tornade soulève l’ennemi.
+
+[06186.22457]
+La « barrière miroir »
+protégeait Dycroft.
+Qui fit l’engin
+qui la brisa ?
+
+[06186.22533]
+Le Swordian Igtenos
+
+[06186.22560]
+Le Swordian Clemente
+
+[06186.22584]
+Le Swordian Atwight
+
+[06186.22608]
+Dr Otto
+
+[06186.22621]
+Dr Ailts
+
+[06186.22634]
+Oberon
+
+[06186.22645]
+L’original, Igtenos
+Minard, était, dit-on,
+expert en informatique
+et en mécanique.
+
+[06186.22739]
+L’original, Raville
+Clemente, était biologiste :
+ceci sortait de
+son domaine.
+
+[06186.22833]
+L’originale, Atwight
+Eks, était médecin :
+ceci sortait de
+son domaine.
+
+[06186.22925]
+Le Dr Otto est
+botaniste.
+Hors de son domaine.
+
+[06186.22978]
+Dernière scène de
+l’épilogue : qui
+entre le dernier et
+ferme la porte ?
+
+[06186.23052]
+Lilith
+
+[06186.23059]
+Exact.
+
+[06186.23066]
+Cress et Arche posaient le quiz
+de Tales of Phantasia.
+Où étaient-ils ?
+
+[06186.23147]
+Almeida, auberge
+
+[06186.23166]
+Almeida, bazar
+
+[06186.23189]
+Harmentz, auberge
+
+[06186.23208]
+Harmentz, boutique
+
+[06186.23229]
+Cresta, auberge
+
+[06186.23246]
+Cresta, orphelinat
+
+[06186.23265]
+Lienea, chez Stahn
+
+[06186.23288]
+Lienea, chez le chef
+
+[06186.23309]
+Almeida, jusque-là,
+c’est juste
+
+[06186.23353]
+Une auberge,
+jusque-là, c’est juste
+
+[06186.23395]
+Mets de grand luxe, le
+« Corail de crabe » rend
+60 % des HP. Où
+s’achète-t-il ?
+
+[06186.23481]
+Snowfria
+
+[06186.23494]
+Neustadt
+
+[06186.23509]
+Cherik
+
+[06186.23518]
+Shiden
+
+[06186.23525]
+Moryu
+
+[06186.23534]
+Tokei
+
+[06186.23543]
+Le « Corail de crabe » ne se vend
+qu’ici : rare et coûteux.
+Son prix : 4 000 Gald !
+De quoi avoir cent balaous.
+
+[06186.23657]
+Le « crabe » pêché dans
+les mers froides a la chair
+ferme et savoureuse.
+Repenses-y plus tard.
+
+[06186.23753]
+Une Fiole runique change une
+Pomme en Pomme véreuse.
+Et une Pomme véreuse,
+en quoi la change-t-elle ?
+
+[06186.23857]
+Confit
+
+[06186.23864]
+Orange pourrie
+
+[06186.23879]
+Le chef des Shiden, qui fait
+le « Don de la mer », a pour
+surnom « ○○ la marée ».
+Que mettre aux ○○ ?
+
+[06186.23987]
+Yasu
+
+[06186.23992]
+Tora
+
+[06186.23997]
+Hide
+
+[06186.24002]
+Taka
+
+[06186.24007]
+Shig
+
+[06186.24012]
+Arcane du couteau Shiden,
+« Taille du vide azur »...
+Du bel ouvrage,
+dit-on.
+
+[06186.24094]
+Le garçon d’Almeida formé à
+l’épée par Grid, chef des
+Ailes Noires : son sort ?
+
+[06186.24181]
+Oisif chez lui
+
+[06186.24198]
+Parti à l’aventure
+
+[06186.24219]
+Devenu Aile Noire
+
+[06186.24240]
+Maître d’armes
+
+[06186.24261]
+Soldat du roi
+
+[06186.24278]
+Échoue et tourne mal
+
+[06186.24299]
+L’épée, c’est bien ;
+mais avec Grid pour
+maître, il n’ira
+guère plus loin.
+
+[06186.24379]
+Imaginable,
+mais non
+
+[06186.24407]
+Voire.
+Apprendre l’épée,
+c’est fort bien, mais
+avec Grid pour maître...
+
+[06186.24483]
+Tu crois Grid
+capable de leçons
+assez sérieuses pour
+briser un élève ?
+
+[06186.24561]
+Le seigneur de Shiden
+se nomme ?
+
+[06186.24594]
+Artur
+
+[06186.24605]
+Gino
+
+[06186.24610]
+Norris
+
+[06186.24617]
+Bart
+
+[06186.24624]
+Gizlo
+
+[06186.24631]
+Artur Shiden. Johnny
+est son troisième fils.
+
+[06186.24679]
+Le nom du
+père de
+Fayte Moryu,
+seigneur de Moryu.
+
+[06186.24734]
+C’est le nom
+du père de
+Farah Oersted, de
+Tales of Eternia.
+
+[06186.24800]
+C’est le nom
+du père
+d’Arche Klein, de
+Tales of Phantasia.
+
+[06186.24866]
+C’est le nom
+du père de
+Keele Zeibel, de
+Tales of Eternia.
+
+[06186.24930]
+Walt, le riche de Harmentz
+qui chargea Rutee du bâton,
+a une secrétaire.
+Qui est-elle ?
+
+[06186.25030]
+Une bunny girl
+
+[06186.25049]
+Bonne
+
+[06186.25056]
+Sa femme
+
+[06186.25069]
+Sa fille
+
+[06186.25078]
+Orpheline adoptée
+
+[06186.25099]
+Ne plaisante pas{03:10 00 00 00}...{03:02 00 00 00},
+aimerais-je dire...
+mais c’est juste.
+Vraiment...
+
+[06186.25183]
+Quel métal vivant
+répara le Dragon volant ?
+
+[06186.25229]
+Berselium
+
+[06186.25242]
+Orichalque
+
+[06186.25255]
+Baryum
+
+[06186.25264]
+Barbatos
+
+[06186.25275]
+Berselm
+
+[06186.25286]
+Belladone
+
+[06186.25297]
+Mithril
+
+[06186.25306]
+Oberonamine
+
+[06186.25319]
+Évidemment.
+
+[06186.25334]
+Tu te moques ?
+
+[06186.25355]
+Te laisser piéger par ça...
+
+[06186.25384]
+C’est là ton niveau ?
+
+[06186.25407]
+Chez Chelsea,
+qu’est-ce qui
+manque ?
+
+[06186.25448]
+Bur.
+
+[06186.25453]
+Mir.
+
+[06186.25458]
+Lit
+
+[06186.25465]
+Esquisse
+
+[06186.25478]
+Traité
+
+[06186.25485]
+Baie
+
+[06186.25490]
+Tu es calé.
+
+[06186.25505]
+Dans la soute du Dragon
+volant, retourne où reposait
+le Swordian Dymlos :
+qu’y trouves-tu ?
+
+[06186.25599]
+Balai-brosse
+
+[06186.25612]
+SW180180
+
+[06186.25629]
+Flamberge
+
+[06186.25646]
+Force chaude
+
+[06186.25659]
+Poêle d’or
+
+[06186.25676]
+Balai
+
+[06186.25685]
+Le Swordian Dymlos disparu,
+sa caisse vide... Hmf,
+on en a fait un placard
+à balais, donc.
+
+[06186.25779]
+Cet objet-là s’obtient
+ailleurs.
+
+[06186.25819]
+Cet objet
+n’existe pas dans
+Tales of Destiny...
+
+[06186.25878]
+Le livre sur l’étagère
+de Mary ?
+
+[06186.25912]
+Carnet
+
+[06186.25919]
+Livre de cuisine
+
+[06186.25936]
+Sorts
+
+[06186.25943]
+Tactique
+
+[06186.25954]
+Catalogue
+
+[06186.25967]
+Le carnet de Dalis,
+mari de Mary, y était.
+Dalis en a arraché
+des pages, mais...
+
+[06186.26051]
+Un tel livre se trouvait à
+Cherik, je crois, au bureau
+du Fonds Baruk...
+
+[06186.26126]
+Dans Tales of Phantasia, un
+mage apprenait la magie
+en lisant un grimoire caché
+dans une étagère, dit-on...
+
+[06186.26240]
+Mary et son mari Dalis étaient
+de la milice de Cyril : un tel
+livre n’étonnerait pas.
+Mais c’est faux.
+
+[06186.26348]
+... Bon, en Phandaria
+enneigée, où sortir est rude,
+en avoir un chez soi peut
+rendre service, mais...
+
+[06186.26450]
+La fille de Calviola,
+au passé triste et compliqué,
+s’appelle ?
+
+[06186.26519]
+Elena
+
+[06186.26526]
+Elina
+
+[06186.26533]
+Elis
+
+[06186.26540]
+Ellen
+
+[06186.26547]
+Karen
+
+[06186.26554]
+Kanna
+
+[06186.26561]
+Père de Calvalese, mère de
+Phandaria, chassée par sa
+belle-mère, lui mort.
+Seule, elle pense à sa mère.
+
+[06186.26667]
+Parmi ceux-ci, lequel crie
+« Ezogematsu » quand on
+l’examine avec {09:35 00 00 00} ?
+
+[06186.26753]
+Le noir
+
+[06186.26766]
+Le rouge
+
+[06186.26779]
+Le bleu
+
+[06186.26792]
+Le blanc
+
+[06186.26805]
+Il crie « Ezogematsu »
+d’une voix aiguë et rauque.
+Quelle plante est-ce ?
+Des plus étranges...
+
+[06186.26901]
+Celui-ci, examiné avec {09:35 00 00 00},
+émet comme une voix de bébé.
+Quelle plante est-ce ?
+Des plus étranges...
+
+[06186.27012]
+L’Ezogematsu : rouge
+ou noir, semble-t-il.
+Je n’en sais guère.
+
+[06186.27079]
+Chez Johnny, à Shiden,
+quel instrument
+manque ?
+
+[06186.27135]
+Accordéon
+
+[06186.27150]
+Piano
+
+[06186.27157]
+Gratte
+
+[06186.27164]
+Caisse
+
+[06186.27171]
+Le disque « Terre ardente »
+monté sur un Swordian,
+quel sort devient
+possible ?
+
+[06186.27259]
+Eruption
+
+[06186.27272]
+Fire Storm
+
+[06186.27289]
+Fearful Flare
+
+[06186.27306]
+Explode
+
+[06186.27321]
+Flare Tornado
+
+[06186.27338]
+Déduis le sens du nom du disque,
+compare les sorts entre eux,
+et la réponse se dessine.
+Repenses-y plus tard.
+
+[06186.27450]
+Pas un arte de Johnny ?
+
+[06186.27475]
+Danse, rumba
+
+[06186.27488]
+Go-go samba
+
+[06186.27503]
+Pare, marche
+
+[06186.27516]
+Valse des amis
+
+[06186.27531]
+Voix miracle
+
+[06186.27546]
+Symphonie juste
+
+[06186.27563]
+Dodo, berceuse
+
+[06186.27578]
+Pas mal.
+
+[06186.27593]
+Hmf.
+
+[06186.27598]
+L’arte de Johnny au score G ?
+
+[06186.27631]
+Rumba choc
+
+[06186.27644]
+L’arte de Johnny au score A ?
+
+[06186.27677]
+Dans un coin de Junkland, un
+« copain » et sa « copine » se
+disputent. Que dit-elle en
+le giflant ?
+
+[06186.27783]
+Espèce d’incapable !
+
+[06186.27804]
+Fauché !
+
+[06186.27817]
+Bon à rien !
+
+[06186.27834]
+Poule mouillée !
+
+[06186.27851]
+... Ces choix se
+valent à peu près, mais
+... c’est le bon.
+
+[06186.27914]
+... Ces choix se
+valent à peu près, mais
+... celui-ci est faux.
+
+[06186.27987]
+... Bon, ces choix se
+valent à peu près, mais
+... la prochaine fois,
+réfléchis posément.
+
+[06186.28087]
+Lentille de 6 m :
+c’est l’Œil de... ?
+
+[06186.28127]
+Dieu
+
+[06186.28134]
+carpe
+
+[06186.28141]
+vipère
+
+[06186.28148]
+moi
+
+[06186.28155]
+chat
+
+[06186.28162]
+Dieux
+
+[06186.28169]
+tortue
+
+[06186.28176]
+bibi
+
+[06186.28183]
+Te laisser piéger par ça.
+
+[06186.28214]
+C’est ton niveau ?
+
+[06186.28233]
+À la « Tour de Druaga » rôde
+un monstre invisible, le
+« Fantôme ». Quel objet
+le rend visible ?
+
+[06186.28341]
+Lanterne
+
+[06186.28350]
+Lunette du sorcier
+
+[06186.28369]
+Brume magique
+
+[06186.28384]
+Orbe éclaireur
+
+[06186.28399]
+Lampe de poche
+
+[06186.28418]
+Elle est au 6e des
+60 étages de la « Tour ».
+
+[06186.28466]
+La Lunette du sorcier
+n’existait pas
+dans Tales of
+Destiny.
+
+[06186.28546]
+Cet objet
+fait fuir plus vite
+en combat.
+
+[06186.28593]
+Cet objet
+permet de régler
+à volonté la venue
+des ennemis.
+
+[06186.28663]
+Aucun objet ne porte
+ce nom...
+
+[06186.28705]
+Que vend surtout
+Calvalese aux
+autres pays ?
+
+[06186.28769]
+Laine
+
+[06186.28776]
+Coton
+
+[06186.28783]
+Bois
+
+[06186.28788]
+Blé
+
+[06186.28793]
+Fer
+
+[06186.28798]
+Son grand client,
+au passage : Seinegald.
+
+[06186.28840]
+À Calvalese, pas de vastes
+champs de coton : trop de
+désert, trop peu de pluie,
+on y cultive à peine.
+
+[06186.28942]
+Tout en désert et pauvre
+en pluie, Calvalese n’a
+pas de riches forêts
+pour fournir du bois.
+
+[06186.29038]
+À Calvalese, nul champ
+de riz ou de blé : trop de
+désert, trop peu de pluie,
+on y cultive à peine.
+
+[06186.29138]
+Une grande mine à Calvalese ?
+Jamais entendu parler.
+Le pays riche en minerais,
+c’est Fitzgald.
+
+[06186.29234]
+Dycroft, salle de cristal, stèle :
+« ○○ de cristal : la porte s’ouvre
+à qui en triomphe. »
+Quel mot pour ○○ ?
+
+[06186.29350]
+Exil
+
+[06186.29355]
+Rêve
+
+[06186.29360]
+Défi
+
+[06186.29365]
+Âme
+
+[06186.29370]
+Vide
+
+[06186.29375]
+Murs
+
+[06186.29380]
+Stahn doit y traverser seul
+les ténèbres. Ces mots
+semblent l’en avertir,
+à demi-mot.
+
+[06186.29484]
+Ce cristal n’est pas un rêve :
+il existe bel et bien.
+
+[06186.29542]
+Certes, la salle défie
+Stahn, mais c’est
+faux.
+
+[06186.29601]
+Terre, eau, feu, vent ont
+un esprit. Le cristal ?
+Non. Ne réponds
+pas au hasard.
+
+[06186.29685]
+Certes,
+c’est un vide de cristal,
+mais c’est faux.
+
+[06186.29736]
+Certes, la salle est
+en somme un
+dédale de cristal,
+mais c’est faux.
+
+[06186.29808]
+Un enfant de l’orphelinat demande
+ce que Stahn est pour Rutee.
+Stahn reste vague :
+que fait Rutee ?
+
+[06186.29914]
+« C’est mon élève »
+
+[06186.29935]
+« C’est mon copain »
+
+[06186.29956]
+Elle explose
+
+[06186.29975]
+Elle boude
+
+[06186.29990]
+Sourit à l’enfant
+
+[06186.30011]
+Elle rougit
+
+[06186.30024]
+« C’est mon valet »
+
+[06186.30045]
+Du Rutee tout craché
+
+[06186.30066]
+Toi, tu crois Rutee
+femme à dire
+une chose pareille ?
+
+[06186.30127]
+Ce n’est pas
+inimaginable, cela dit
+
+[06186.30163]
+Elle vient de cet
+orphelinat : ce n’est
+pas inimaginable
+
+[06186.30226]
+Voire.
+Est-ce bien
+le genre de Rutee ?
+
+[06186.30267]
+Je comprends
+qu’on soit tenté
+par ce choix, mais...
+
+[06186.30324]
+Marian, la bonne de Hugo,
+a fui du ciel à la terre
+en capsule depuis Mikheil.
+Qu’est-elle devenue ?
+
+[06186.30426]
+Retour chez Hugo
+
+[06186.30445]
+Chez elle
+
+[06186.30458]
+Placée ailleurs
+
+[06186.30477]
+Disparue
+
+[06186.30494]
+Blessée, alitée
+
+[06186.30520]
+Elle aurait pu,
+je crois, mais...
+
+[06186.30556]
+C’eût été le mieux,
+je crois, mais...
+
+[06186.30598]
+Elle{03:08 00 00 00}...
+{03:02 00 00 00}%Sne ferait pas ça !
+
+[06186.30640]
+À elle{03:08 00 00 00}...
+{03:02 00 00 00}%Sune chose pareille, jamais !
+
+[06186.30696]
+Chez eux à Lienea, Stahn et
+Lilith partagent une chambre.
+Qu’est-ce qui ne s’y
+trouve pas ?
+
+[06186.30798]
+Réveil de Stahn
+
+[06186.30819]
+Lit de Stahn
+
+[06186.30834]
+Commode Stahn
+
+[06186.30849]
+Coffret Lilith
+
+[06186.30864]
+Nounours de Lilith
+
+[06186.30883]
+Sa coiffeuse
+
+[06186.30896]
+Un réveil ne suffit pas
+à lever Stahn... {NAME:01 00 00 00}
+non plus, d’ailleurs.
+... Triste hérédité.
+
+[06186.30989]
+La réponse :
+ce qui ne servirait
+guère ni à Stahn
+ni à Lilith.
+
+[06186.31063]
+Le nom de la boutique
+de Harmentz, tu t’en
+souviens ? Choisis.
+
+[06186.31132]
+Éden
+
+[06186.31139]
+Gaieté
+
+[06186.31148]
+Édan
+
+[06186.31155]
+Edèn
+
+[06186.31162]
+Aden
+
+[06186.31169]
+Relax
+
+[06186.31178]
+Vilain
+
+[06186.31185]
+Phénix
+
+[06186.31192]
+Pitoyable.
+
+[06186.31205]
+Concentre-toi.
+
+[06186.31224]
+Pas loin. Non.
+
+[06186.31239]
+Vraiment pitoyable.
+
+[06186.31262]
+Le nom de l’épicerie
+de Darilsheid, tu t’en
+souviens ? Choisis.
+
+[06186.31331]
+Piccolo
+
+[06186.31340]
+Flûte
+
+[06186.31349]
+Clarinette
+
+[06186.31362]
+Luth
+
+[06186.31369]
+Harpe
+
+[06186.31376]
+Clavecin
+
+[06186.31387]
+Cornemuse
+
+[06186.31398]
+Trombone
+
+[06186.31411]
+À ce niveau,
+on répond juste.
+
+[06186.31443]
+Qui logeait à l’auberge
+de Junkland ?
+
+[06186.31491]
+Chasseur
+
+[06186.31506]
+Forain
+
+[06186.31513]
+Barde
+
+[06186.31522]
+Art.
+
+[06186.31527]
+Chef
+
+[06186.31534]
+Un métier qui paie le mieux
+là où, comme près de Junkland,
+les gens sont rares et les
+monstres pas encore chassés.
+
+[06186.31650]
+Un forain viendrait
+peut-être pour le trésor
+du mont Trash,
+mais c’est faux.
+
+[06186.31738]
+Un barde qui irait jusqu’à
+Junkland pour chanter...
+Il n’y en a guère :
+tu ne le devines pas ?
+
+[06186.31848]
+Un peintre viendrait peut-être
+peindre cette ville habitée
+et pourtant en ruine,
+mais c’est faux.
+
+[06186.31948]
+Qu’irait donc faire
+un cuisinier jusqu’à
+Junkland ?
+
+[06186.32015]
+Cherche quel métier paie le
+mieux là où les gens sont
+rares et les monstres encore
+là : tu comprendras.
+
+[06186.32127]
+À Darilsheid, parent et
+enfant adorent les articles
+à Lentilles d’Oberon.
+Lequel surtout ?
+
+[06186.32219]
+Rasoir
+
+[06186.32228]
+Aspiro
+
+[06186.32237]
+Plaque
+
+[06186.32244]
+Séchoir
+
+[06186.32255]
+Planche
+
+[06186.32264]
+Une firme à Lentilles
+vendrait des planches ?
+Tu le crois ?
+
+[06186.32329]
+Où Rutee
+est-elle née ?
+
+[06186.32361]
+Darilsheid
+
+[06186.32376]
+Cresta
+
+[06186.32385]
+Lienea
+
+[06186.32392]
+Rutee est née à Darilsheid,
+dans une famille aisée...
+et fut bientôt abandonnée devant
+l’orphelinat de Cresta.
+
+[06186.32506]
+Cresta : là où Rutee a
+grandi. Son orphelinat
+doit être le Dunamis
+d’aujourd’hui.
+
+[06186.32608]
+Lienea : chez Stahn, un
+coin perdu des monts du 3e
+continent. Rutee le traitait
+souvent de « campagnard ».
+
+[06186.32718]
+Rutee a grandi pauvre, et
+Neustadt aussi comptait
+bien des enfants pauvres,
+mais elle n’en vient pas.
+
+[06186.32822]
+Les deux hôtes de la
+suite, à l’auberge de
+Harmentz :
+qui étaient-ils ?
+
+[06186.32896]
+Auteur & éd.
+
+[06186.32909]
+Vedette et agent
+
+[06186.32930]
+Maître et élève
+
+[06186.32947]
+Sportif et coach
+
+[06186.32966]
+Héritier et fiancée
+
+[06186.32987]
+L’auteur se la coulait douce
+à la veille de sa remise,
+et l’éditeur s’affolait,
+semble-t-il.
+
+[06186.33083]
+Le « Drapeau S », objet à
+collectionner de Tales of
+Phantasia, existe aussi dans
+Destiny. Où le voit-on ?
+
+[06186.33197]
+Lentille
+
+[06186.33206]
+Graine
+
+[06186.33213]
+Heiroku
+
+[06186.33222]
+Tour de Druaga
+
+[06186.33237]
+On ne l’obtient pas ; on
+le voit au magasin de
+Lentilles et au
+« bureau d’études ».
+
+[06186.33325]
+Le thème de l’écran-titre,
+« Tales of Destiny » : pour
+l’entendre au test sonore, quel
+numéro de BGM choisir ?
+
+[06186.33444]
+55
+
+[06186.33451]
+11
+
+[06186.33458]
+22
+
+[06186.33465]
+33
+
+[06186.33472]
+44
+
+[06186.33479]
+66
+
+[06186.33486]
+77
+
+[06186.33493]
+88
+
+[06186.33500]
+Sauvegarde de Straylize :
+quelle statue verse l’eau ?
+(犬 chien, 亀 tortue)
+
+[06186.33579]
+Gren.
+
+[06186.33586]
+Galago
+
+[06186.33603]
+Ange
+
+[06186.33608]
+Lion
+
+[06186.33623]
+Naïf.
+
+[06186.33632]
+Ces gemmes, équipées,
+élèvent la défense.
+Laquelle l’élève
+le plus ?
+
+[06186.33716]
+Topaze
+
+[06186.33725]
+Grenat
+
+[06186.33736]
+Pierre de lune
+
+[06186.33751]
+Améthyste
+
+[06186.33762]
+À l’orphelinat, à quoi
+jouaient les petits ?
+
+[06186.33808]
+Cubes
+
+[06186.33815]
+Cachette
+
+[06186.33826]
+Les chaises
+
+[06186.33841]
+Dînette
+
+[06186.33850]
+Dessin
+
+[06186.33857]
+Sous Heidelberg, Woodrow parle
+d’un fantôme qui hanterait
+le passage. Qui a
+pris peur ?
+
+[06186.33953]
+Elle croit en la déesse,
+chose invisible, mais les
+fantômes, non, semble-t-il.
+
+[06186.34032]
+Stahn le curieux
+serait intrigué
+avant d’avoir peur.
+
+[06186.34087]
+Elle, croire
+une histoire pareille ?
+
+[06186.34125]
+C’est impossible.
+Tu réponds sérieusement ?
+
+[06186.34173]
+Dalis, son mari, était alors
+entre la vie et la mort :
+elle avait bien d’autres
+soucis.
+
+[06186.34269]
+Au passage, ce n’était pas
+qu’une rumeur. Qui craint
+les fantômes a dû vivre
+un cauchemar.
+

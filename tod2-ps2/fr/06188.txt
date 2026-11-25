@@ -1,0 +1,782 @@
+[06188.08442]
+Tales of Phantasia sur Super
+Famicom : la couleur du
+chapeau de Mint,
+en pixels ?
+
+[06188.08530]
+Azur
+
+[06188.08535]
+Violet
+
+[06188.08546]
+Rose
+
+[06188.08555]
+Vert pomme
+
+[06188.08566]
+Feu
+
+[06188.08571]
+Exact★
+
+[06188.08582]
+Mm~ raté
+
+[06188.08591]
+Trop tard.
+
+[06188.08602]
+Le premier tirage de
+Tales of Destiny contenait
+un cadeau avec le jeu.
+Lequel ?
+
+[06188.08698]
+Cartes post.
+
+[06188.08711]
+Télécarte
+
+[06188.08726]
+Cartes à échanger
+
+[06188.08747]
+CD drama
+
+[06188.08758]
+CD-ROM de croquis
+
+[06188.08781]
+Un lot de cinq cartes
+postales, à l’effigie de
+Stahn, Rutee, Philia,
+Leon et Woodrow.
+
+[06188.08891]
+Au Tokyo Game Show 2002,
+si on apportait un dessin de
+Tales au stand Namco,
+que recevait-on ?
+
+[06188.08993]
+Pochette
+
+[06188.09008]
+Bandana
+
+[06188.09017]
+{NAME:01 00 00 00}, {NAME:02 00 00 00}, {NAME:03 00 00 00},
+{NAME:04 00 00 00}, {NAME:05 00 00 00} et moi :
+une pochette hors commerce
+ornée de nous six.
+
+[06188.09116]
+Au Tokyo Game Show,
+printemps 2000 : des
+télécartes Quickie
+offertes, dit-on, mais
+
+[06188.09200]
+Au Tokyo Game Show,
+automne 2000 : des
+bandanas Quickie
+offerts, dit-on, mais
+
+[06188.09280]
+L’édition limitée de Tales
+of Eternia avait un réveil.
+Sa sonnerie, c’était
+les voix de qui ?
+
+[06188.09376]
+Meredy et Quickie
+
+[06188.09397]
+Reid et Farah
+
+[06188.09412]
+Farah et Meredy
+
+[06188.09429]
+Keele et Meredy
+
+[06188.09446]
+Farah et Quickie
+
+[06188.09465]
+Chat et Quickie
+
+[06188.09486]
+Farah et Ras
+
+[06188.09501]
+Meredy et Chat
+
+[06188.09520]
+Meredy et Quickie
+t’appelaient tour à tour
+pour te réveiller.
+
+[06188.09589]
+Sur Tales of Eternia
+The Animation :
+le nom de la fille devenue
+la grande amie de Meredy ?
+
+[06188.09683]
+Corina
+
+[06188.09692]
+Marone
+
+[06188.09701]
+Minima
+
+[06188.09708]
+Platia
+
+[06188.09719]
+Exusia
+
+[06188.09730]
+Corina Sorgente. Barde, à
+l’en croire. Très gaie, très
+vive, mais une enfant au
+passé triste, dit-on.
+
+[06188.09840]
+Sur Tales of Eternia
+The Animation :
+qui est devenue la rivale
+de Farah auprès de Reid ?
+
+[06188.09944]
+Marone Bulcano. Toujours
+digne, mais une femme sans
+cesse en lutte avec un
+souvenir douloureux.
+
+[06188.10046]
+Sur Tales of Eternia
+The Animation : le nom de
+l’hôtesse de l’auberge où
+logeait Reid, sur l’île ?
+
+[06188.10150]
+Douce et posée,
+une dame
+
+[06188.10178]
+Sur Tales of Phantasia :
+Narikiri Dungeon.
+Où se trouvait Lilith ?
+
+[06188.10257]
+Cof.
+
+[06188.10262]
+Donjon
+
+[06188.10273]
+Cité
+
+[06188.10278]
+Derris-Kharlan
+
+[06188.10297]
+À une certaine condition,
+un coffre apparaît chez les
+héros : elle était dedans.
+Surprenant.
+
+[06188.10391]
+Le CD drama « Tales of Destiny »
+avait combien de volumes ?
+
+[06188.10453]
+6
+
+[06188.10458]
+3
+
+[06188.10463]
+4
+
+[06188.10468]
+5
+
+[06188.10473]
+7
+
+[06188.10478]
+3 pour la terre,
+3 pour le ciel :
+une œuvre
+énorme.
+
+[06188.10538]
+Le manga Enterbrain de
+Shinki Kitsutsuki, « Tales of
+Destiny : l’ambition de l’Œil
+de Dieu » : tomes ?
+
+[06188.10646]
+Oui, bien
+
+[06188.10657]
+Le manga d’Enix « Tales of
+Destiny », par Mao Kuon :
+qui figure au dos du
+tome 1 ?
+
+[06188.10759]
+Leon
+
+[06188.10766]
+Stahn
+
+[06188.10773]
+Rutee
+
+[06188.10782]
+Philia
+
+[06188.10791]
+Woodrow
+
+[06188.10802]
+C’était Leon
+et le Swordian
+Chaltier.
+
+[06188.10853]
+Sur Tales of Eternia The Animation :
+les premiers mots de Reid,
+à l’épisode 1 ?
+
+[06188.10944]
+Ciel ?
+
+[06188.10951]
+J’ai faim~
+
+[06188.10962]
+Dis, Farah
+
+[06188.10975]
+Atchoum !
+
+[06188.10990]
+Je serai héros !
+
+[06188.11007]
+Exact.
+Au début, quel insouciant
+
+[06188.11047]
+Non.
+Mais il mangeait bien, oui.
+Voir Reid dévorer est
+presque un plaisir.
+
+[06188.11135]
+Non !
+Devant Farah, Reid est
+carré, mou et plat !
+
+[06188.11200]
+Non.
+Même lui n’était pas
+insouciant à ce point.
+
+[06188.11255]
+Non, non !
+Ce garçon n’était pas si
+remonté dès le début.
+
+[06188.11316]
+Sur Tales of Eternia The Animation :
+à l’épisode 1, quelle est la
+« bonne chose » que Corina
+apprend à Reid ?
+
+[06188.11448]
+Le marais maudit
+
+[06188.11465]
+L’antre de l’ours
+
+[06188.11484]
+Un nouvel arte
+
+[06188.11501]
+Où est Farah
+
+[06188.11514]
+Vrai nom de Quickie
+
+[06188.11535]
+Trou au pantalon
+
+[06188.11552]
+Exact.
+Farah venait juste de
+s’y égarer, non ?
+L’info tombait bien.
+
+[06188.11632]
+Raté.
+La viande séchée d’ours-œuf serait
+bonne ? Moi, c’est l’ours qui
+pond des œufs qui m’intrigue !
+
+[06188.11742]
+Non.
+Un arte s’apprend au combat
+
+[06188.11782]
+Non.
+Farah a disparu après
+qu’on lui a dit la « bonne chose »
+
+[06188.11857]
+Non.
+Quickie, c’est Quickie
+
+[06188.11887]
+Raté !
+
+[06188.11896]
+Sur Tales of Eternia The Animation :
+à l’épisode 1, quelle fille est la
+barde tombée d’un arbre
+sur Reid ?
+
+[06188.12016]
+Oui, oui, c’était elle
+
+[06188.12043]
+Pas elle, non
+
+[06188.12062]
+Le roman MediaWorks de
+Ryuji Saiki, « Tales of
+Phantasia : l’histoire tue » :
+qui en est le héros ?
+
+[06188.12164]
+Winona
+
+[06188.12173]
+Alan
+
+[06188.12180]
+Carol
+
+[06188.12189]
+Edward
+
+[06188.12200]
+Cress
+
+[06188.12207]
+Trinicus
+
+[06188.12218]
+Exact.
+
+[06188.12225]
+Non.
+
+[06188.12234]
+Le CD drama
+« Tales of Phantasia : Narikiri Dungeon » :
+le sous-titre du volume 1 ?
+
+[06188.12321]
+Soleil
+
+[06188.12330]
+Lune
+
+[06188.12337]
+Étoile
+
+[06188.12344]
+Clarté
+
+[06188.12351]
+Ombre
+
+[06188.12358]
+Le sous-titre
+du volume 2
+
+[06188.12390]
+Sur Tales of Eternia The Animation :
+qui chantait le générique
+de début ?
+
+[06188.12483]
+M. Okui
+
+[06188.12492]
+M.Kuraki
+
+[06188.12518]
+Oui !
+J’aime le passage « enlacés »
+
+[06188.12562]
+Non !
+Un reset, et tu l’entends quand tu veux !
+
+[06188.12612]
+Non, non !
+Ça date de tes parents, eux !
+
+[06188.12658]
+Non !
+Eux chantaient le générique du jeu Eternia, non ?
+Le coup de pied de Farah, superbe.
+
+[06188.12757]
+Le roman MediaWorks de
+Ryuji Saiki, « Tales of
+Eternia : le feu de Saint-Elme » :
+son héros ?
+
+[06188.12857]
+Aifread
+
+[06188.12870]
+Reid
+
+[06188.12877]
+Meredy
+
+[06188.12886]
+Bilial
+
+[06188.12895]
+Balir
+
+[06188.12902]
+Rona
+
+[06188.12907]
+Shizel
+
+[06188.12914]
+Non !
+
+[06188.12925]
+Le manga d’Enix « Tales of Eternia »,
+par Yoko Koike : qui est dessiné
+au dos du tome 1 ?
+
+[06188.13030]
+Keele
+
+[06188.13037]
+Farah
+
+[06188.13044]
+Un dessin de Meredy
+et Quickie ornait
+le dos.
+
+[06188.13103]
+Le CD drama « Tales of Eternia »
+raconte le jeu à sa façon.
+Combien de volumes ?
+
+[06188.13214]
+Les nouvelles Tales of Eternia de
+Sara Yajima, chez Enterbrain :
+leur sous-titre ?
+
+[06188.13310]
+Lézard de Reid
+
+[06188.13325]
+Gecko de Reid
+
+[06188.13340]
+Souris de Reid
+
+[06188.13355]
+Lapin de Reid
+
+[06188.13370]
+Grillon de Reid
+
+[06188.13387]
+La série Tales, c’est
+la Gelée de pomme.
+Un seul de ceux-ci n’en a
+pas. Tu sais lequel ?
+
+[06188.13485]
+Narikiri Dungeon
+
+[06188.13504]
+Phantasia
+
+[06188.13517]
+Destiny
+
+[06188.13530]
+Eternia
+
+[06188.13541]
+Destiny 2
+
+[06188.13556]
+Narikiri Dungeon 2
+
+[06188.13577]
+Mm~ exact !!
+Un vrai savant
+
+[06188.13613]
+Faux !!
+Dès le début
+
+[06188.13637]
+Bzzt~ !!
+Sans elle, quelle galère, non
+
+[06188.13679]
+Raté !!
+Si, paraît-il
+
+[06188.13703]
+Bzzt~ !!
+Jamais utilisée !?
+
+[06188.13737]
+Dommage !!
+Raté !!
+Il y en a
+
+[06188.13768]
+Bzz~ !!
+Trop tard~
+
+[06188.13788]
+Sur Tales of Phantasia :
+Narikiri Dungeon, quelle
+est la maison de
+Mel et Dio ?
+
+[06188.13872]
+Narikiri House
+
+[06188.13887]
+Zélée House
+
+[06188.13902]
+Rasée House
+
+[06188.13917]
+Mante House
+
+[06188.13932]
+Bazar House
+
+[06188.13947]
+Conserve House
+
+[06188.13962]
+Ongles House
+
+[06188.13977]
+Aucune
+
+[06188.13986]
+Mm~ exact !!
+C’était bien elle
+
+[06188.14020]
+Bzzt~ !!
+Zélée, et alors
+
+[06188.14048]
+Bzz~ !!
+Ça sonne mal
+
+[06188.14074]
+Raté !!
+Une mante, et puis quoi encore !!
+
+[06188.14118]
+Raté !!
+« Bazar », dis
+
+[06188.14142]
+Faux !!
+C’est absurde, voyons
+
+[06188.14176]
+Bzz~ !!
+Les ongles, non
+
+[06188.14208]
+Bzzt~ !!
+Raté~
+Sans maison, ça va mal
+
+[06188.14249]
+Sur Tales of Phantasia :
+Narikiri Dungeon, en qui
+ne peut-on se déguiser ?
+
+[06188.14324]
+Tristan
+
+[06188.14335]
+Mint
+
+[06188.14342]
+Chester
+
+[06188.14353]
+Arche
+
+[06188.14362]
+Claus
+
+[06188.14371]
+Suzu
+
+[06188.14376]
+Morrison
+
+[06188.14385]
+Oui !!
+Tu vois qui ?
+
+[06188.14407]
+Raté !!
+Le héros !?
+
+[06188.14431]
+Raté !!
+L’héroïne !?
+
+[06188.14457]
+Raté~ !!
+Discret, certes
+
+[06188.14485]
+Raté !!
+Elle volait bien sur son balai
+
+[06188.14527]
+Raté !!
+Il invoquait à tout-va
+
+[06188.14561]
+Dommage.
+Très « nin-nin », ça
+
+[06188.14597]
+Faux !!
+Je comprends, cela dit
+
+[06188.14633]
+Mappy
+
+[06188.14642]
+Sandra
+
+[06188.14651]
+Dhaos
+
+[06188.14658]
+Heihachi
+
+[06188.14667]
+Kagekiyo
+
+[06188.14676]
+Reiko Nagase
+
+[06188.14689]
+Bacura
+
+[06188.14698]
+Gil
+
+[06188.14703]
+Exact !!
+
+[06188.14712]
+Faux !!
+Valkyrie aussi, on peut
+
+[06188.14752]
+Raté !!
+Un vrai Dhaos, c’était
+
+[06188.14788]
+Bzzt~ !!
+Avec tous ses muscles, oui
+
+[06188.14828]
+Raté !!
+Très Kagekiyo, ça
+
+[06188.14856]
+Bzz~ !!
+Faux.
+Costumée à fond
+
+[06188.14889]
+Dommage.
+Bien plaque de fer, oui
+
+[06188.14923]
+Dommage.
+On l’était, si ?
+
+[06188.21096]
+Kongman
+
+[06188.21107]
+Johnny
+
+[06188.21116]
+Fog
+
+[06188.21718]
+Rat
+
+[06188.21725]
+Lapin
+
+[06188.21751]
+Ours
+
+[06188.23468]
+Dymlos
+
+[06188.23479]
+Atwight
+
+[06188.23490]
+Clemente
+
+[06188.23501]
+Igtenos
+
+[06188.24941]
+Paix
+
+[06188.25444]
+Oui !
+
