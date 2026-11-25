@@ -1,0 +1,21 @@
+[00850.001]
+Dis, {NAME:01 00 00 00}.
+
+[00850.002]
+Hm ? Qu’y a-t-il, {NAME:02 00 00 00} ?
+
+[00850.003]
+C’était bien, notre rendez-vous.
+
+[00850.004]
+Qu... ! Qu’est-ce que tu racontes, tout à coup.
+
+[00850.005]
+Rien. Je voulais juste te le dire.
+
+[00850.006]
+{NAME:12 27 00 00}-{NAME:02 00 00 00}, si tu veux bien... euh... on pourrait, encore, ensemble...
+
+[00850.007]
+... Oui... c’est ça...... encore, ensemble...
+

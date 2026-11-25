@@ -1,0 +1,267 @@
+[06476.001]
+Cherik : maison
+
+[06476.002]
+Cherik
+
+[06476.003]
+Maison
+
+[06476.004]
+Demoiselle
+
+[06476.005]
+C’est il y a dix ans que les pèlerins ont commencé à faire vivre cette ville.
+
+[06476.006]
+Demoiselle
+
+[06476.007]
+Mais en dix ans, bien des gens sont partis s’installer à Aigrette.
+
+[06476.008]
+Demoiselle
+
+[06476.009]
+Au bout du compte, c’est une grosse perte... La ville elle-même a décliné, et ici non plus, ça ne durera peut-être pas.
+
+[06476.010]
+Demoiselle
+
+[06476.011]
+Moi, les dieux ne m’intéressent pas, mais pour les autres, c’est différent, on dirait.
+
+[06476.012]
+Demoiselle
+
+[06476.013]
+Croyant aux bienfaits ici-bas de la déesse Fortuna, bien des gens sont partis pour Aigrette...
+
+[06476.014]
+Toshu
+
+[06476.015]
+Salut ! Voyageur ! Moi, c’est Toshu ! Il n’y a pas si longtemps, j’étais un guerrier de renom !
+
+[06476.016]
+Toshu
+
+[06476.017]
+Autrefois, j’ai combattu des monstres aux côtés de Stahn, des Quatre Héros ! Les monstres, je les ai expédiés en un clin d’œil, évidemment !
+
+[06476.019]
+Au fait, papa m’a raconté qu’il avait un jour « sauvé un garçon attaqué par des limaces ». Le garçon s’appelait Toshu, je crois...
+
+[06476.020]
+Toshu
+
+[06476.021]
+Gloups ! C-comment tu connais la vérité, toi !?
+
+[06476.022]
+Toshu
+
+[06476.023]
+Bon, oui ! Stahn m’a sauvé un jour ! Faut dire qu’à l’époque, je n’étais qu’un gamin !
+
+[06476.024]
+Toshu
+
+[06476.025]
+Hé ! Mais guerrier de renom, c’est vrai, hein ? Depuis que j’ai rencontré Stahn, j’ai appris l’épée pour de bon.
+
+[06476.026]
+Toshu
+
+[06476.027]
+Ma rencontre avec lui a changé toute ma vie. Stahn est un vrai héros !
+
+[06476.029]
+Il y a une poule.
+
+[06476.031]
+Des toilettes tout à fait ordinaires.
+
+[06476.032]
+Chef
+
+[06476.033]
+{16:34 7C} : tu en prépares ?
+
+[06476.034]
+Chef
+
+[06476.035]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06476.037]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06476.038]
+Chef
+
+[06476.039]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06476.040]
+Chef
+
+[06476.041]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06476.042]
+Chef
+
+[06476.043]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06476.045]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06476.046]
+Chef
+
+[06476.047]
+Tu n’as pas assez d’argent.
+
+[06476.048]
+Chef
+
+[06476.049]
+Je te vends la recette : {16:34 7C}.
+
+[06476.050]
+Chef
+
+[06476.051]
+Bah, tant pis.
+
+[06476.052]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06476.053]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.054]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.055]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.056]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.057]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06476.058]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.059]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06476.060]
+Chef
+
+[06476.061]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06476.062]
+Chef
+
+[06476.063]
+Mais tu as les ingrédients.
+
+[06476.064]
+Chef
+
+[06476.065]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06476.067]
+{03:00 00 00 00}　Oui
+　Non
+
+[06476.068]
+Chef
+
+[06476.069]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06476.070]
+Chef
+
+[06476.071]
+Dommage. C’est vraiment délicieux...
+
+[06476.072]
+Chef
+
+[06476.073]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06476.074]
+Chef
+
+[06476.075]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06476.076]
+Chef
+
+[06476.077]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06476.079]
+Recette ramassée : {16:34 7C}.
+
+[06476.081]
+Recette apprise : {16:34 90}.
+
+[06476.082]
+Bon voyage.
+
+[06476.083]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06476.084]
+Voulez-vous passer la nuit ?
+
+[06476.086]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06476.087]
+Reposez-vous bien.
+
+[06476.088]
+Bonjour.
+
+[06476.089]
+Vous n’avez pas assez d’argent.
+
+[06476.090]
+Au plaisir de vous revoir.
+
+[06476.095]
+Obtenu : {16:25 DE}.
+
+[06476.097]
+Obtenu : {08:FF FF FF FF}.
+
+[06476.099]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06476.101]
+Il n’y a rien ici.
+

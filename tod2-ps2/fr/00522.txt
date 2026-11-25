@@ -1,0 +1,27 @@
+[00522.001]
+La guerre du Ciel et de la Terre, où s’est illustrée l’équipe des Swordians, puis ce combat où papa et les autres ont tout donné... À chaque époque où il y a eu des héros, ce Dycroft flottait dans le ciel. Donc, si ça continue comme ça, moi aussi, un héros...
+
+[00522.002]
+Je te l’ai déjà dit. « Héros » est un titre que les gens décernent pour des mérites passés ; on ne cherche pas à le devenir. Et l’on ne le devient pas davantage parce qu’on le souhaite. Si tu veux être un héros, règle d’abord le problème que tu as sous les yeux.
+
+[00522.003]
+Oui, bon, je sais ! Je voulais juste savourer un peu. Je sais bien qu’on ne devient pas héros si...
+
+[00522.004]
+Tu es un héros.
+
+[00522.005]
+Hein ?
+
+[00522.006]
+Tu es mon héros, {NAME:01 00 00 00}. Cela, c’est une certitude.
+
+[00522.007]
+Hé, hé hé hé...
+
+[00522.008]
+Voilà pourquoi j’ai décidé de te suivre, {NAME:01 00 00 00}, quoi qu’il arrive... quelle qu’en soit l’issue...
+
+[00522.009]
+......
+

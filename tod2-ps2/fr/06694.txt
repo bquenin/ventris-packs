@@ -1,0 +1,49 @@
+[06694.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06694.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06694.004]
+« L’emblème de Derris : ce qui redresse le temps et l’espace déformés. »
+
+[06694.006]
+« Pour ceux qui cherchent la forme véritable, il paraît en tout monde et en tout lieu. »
+
+[06694.007]
+Bon voyage.
+
+[06694.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06694.009]
+Voulez-vous passer la nuit ?
+
+[06694.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06694.012]
+Reposez-vous bien.
+
+[06694.013]
+Bonjour.
+
+[06694.014]
+Vous n’avez pas assez d’argent.
+
+[06694.015]
+Au plaisir de vous revoir.
+
+[06694.020]
+Obtenu : {16:25 BA}.
+
+[06694.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06694.024]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06694.026]
+Il n’y a rien ici.
+

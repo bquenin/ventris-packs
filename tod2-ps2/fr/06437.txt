@@ -1,0 +1,331 @@
+[06437.001]
+Heidelberg : auberge
+
+[06437.002]
+Heidelberg
+
+[06437.003]
+Auberge
+
+[06437.005]
+Des fruits des pays chauds sont alignés, mais... ce sont tous des imitations, semble-t-il.
+
+[06437.007]
+Ça vit encore...
+
+[06437.009]
+Une odeur puissante monte de la jarre. Dans quel plat peut-on bien mettre ça...
+
+[06437.011]
+Le bortsch maison de Mary !
+
+[06437.013]
+C’est b-bon !
+
+[06437.015]
+Une plaque y est sertie. « Pour fêter l’ouverture... Ton ami, Woodrow »
+
+[06437.016]
+Auberge
+
+[06437.017]
+Je regrette : nous sommes complets aujourd’hui.
+
+[06437.018]
+Auberge
+
+[06437.019]
+Vieil homme
+
+[06437.020]
+J’ai laissé la maison à mon fils, et me voilà en voyage avec ma femme, au gré de l’envie.
+
+[06437.021]
+Vieil homme
+
+[06437.022]
+Nous avons vu bien des pays, mais on est vraiment à son aise, ici. Ce doit être l’œuvre du roi.
+
+[06437.023]
+Vieil homme
+
+[06437.024]
+Ce pays m’a tout à fait conquis. Je compte y rester quelque temps.
+
+[06437.025]
+Vieil homme
+
+[06437.026]
+Tiens, si pressés : serait-il arrivé quelque chose ?
+
+[06437.027]
+Vieil homme
+
+[06437.028]
+Le pays traverse une rude épreuve, et le maître de cette auberge ne montre pas le moindre air inquiet.
+
+[06437.029]
+Vieil homme
+
+[06437.030]
+Quand je lui ai demandé d’où lui venait ce calme, il m’a répondu : « J’ai foi en cette ville et en son roi. »
+
+[06437.031]
+Vieil homme
+
+[06437.032]
+Pouvoir croire en sa ville et en son roi... C’est peut-être déplacé en un tel moment, mais comme je l’envie.
+
+[06437.033]
+Vieil homme
+
+[06437.034]
+Quand il y a eu ce tumulte au château, je ne savais que faire, mais tout s’est apaisé, semble-t-il : c’est l’essentiel.
+
+[06437.035]
+Vieil homme
+
+[06437.036]
+Rien ne vaut la paix, décidément. C’est grâce à elle que ma femme et moi pouvons voyager ainsi à notre guise.
+
+[06437.037]
+Vieil homme
+
+[06437.038]
+Dis, ma vieille, dans quel pays irons-nous ensuite ? Un endroit chaud, cette fois ?
+
+[06437.039]
+Vieil homme
+
+[06437.040]
+J’ai laissé la maison à mon fils, et me voilà en voyage avec ma femme, au gré de l’envie.
+
+[06437.041]
+Vieil homme
+
+[06437.042]
+Nous avons vu bien des pays, mais on est vraiment à son aise, ici. Ce doit être l’œuvre du roi.
+
+[06437.043]
+Vieil homme
+
+[06437.044]
+Ce pays m’a tout à fait conquis. Je compte y rester quelque temps.
+
+[06437.045]
+Vieille dame
+
+[06437.046]
+Étourdie que je suis, j’ai commandé bien trop de bortsch. En voulez-vous un, si le cœur vous en dit ?
+
+[06437.048]
+Hein ? Je peux ? Génial !
+
+[06437.050]
+Hé, hé, {NAME:01 00 00 00} ! Avant de manger du bortsch, on a quelque part où aller, non ?
+
+[06437.051]
+Vieille dame
+
+[06437.052]
+Le bortsch d’ici est exquis, vous savez. On en commande toujours un peu trop, malgré soi.
+
+[06437.053]
+Vieille dame
+
+[06437.054]
+Oh, oh♪ Quel couple tout neuf. Cela me rappelle nous deux, autrefois.
+
+[06437.055]
+Vieille dame
+
+[06437.056]
+Nous aussi, autrefois, nous avons connu ce temps où un frôlement de mains, un regard, suffit à rendre heureux.
+
+[06437.057]
+Vieille dame
+
+[06437.058]
+Il y a bien de l’animation dehors depuis tout à l’heure : serait-il arrivé quelque chose... ?
+
+[06437.059]
+Vieille dame
+
+[06437.060]
+Le roi aurait été terrassé, à ce qu’on dit. Va-t-il s’en remettre...
+
+[06437.062]
+L’état de Woodrow m’inquiète. Pressons, {NAME:01 00 00 00}.
+
+[06437.063]
+Vieille dame
+
+[06437.064]
+Le roi aurait été terrassé, à ce qu’on dit. Va-t-il s’en remettre...
+
+[06437.065]
+Vieille dame
+
+[06437.066]
+Je le disais aussi à mon mari : le maître des lieux a vraiment été bon pour nous...
+
+[06437.067]
+Vieille dame
+
+[06437.068]
+Il doit avoir bien des soucis, et pourtant il garde le sourire et se dépense pour nous.
+
+[06437.069]
+Vieille dame
+
+[06437.070]
+Ce doit être un moment difficile pour lui aussi, et il est aux petits soins... Quelle chance d’être descendus dans une si bonne auberge.
+
+[06437.071]
+Vieille dame
+
+[06437.072]
+Mon mari et moi parlons de gagner le pays suivant... mais nous n’arrivons pas à nous décider.
+
+[06437.073]
+Vieille dame
+
+[06437.074]
+C’est dire comme on est bien, ici.
+
+[06437.075]
+Vieille dame
+
+[06437.076]
+Les gens de cette ville ont vraiment été bons pour nous... Il nous en coûte de partir.
+
+[06437.077]
+Vieille dame
+
+[06437.078]
+Avez-vous déjà goûté le bortsch d’ici ? Il est si exquis qu’on en mange toujours trop.
+
+[06437.079]
+Vieille dame
+
+[06437.080]
+Un bortsch délicieux, un maître de maison et des habitants pleins de bonté... C’est vraiment un bon pays, vous savez.
+
+[06437.081]
+Vieille dame
+
+[06437.082]
+Mon mari et moi, cet endroit nous a tout à fait conquis : nous comptons y rester quelque temps.
+
+[06437.083]
+Vieille dame
+
+[06437.084]
+Avez-vous déjà goûté le bortsch d’ici ? Il est si exquis qu’on en mange toujours trop.
+
+[06437.085]
+Vieille dame
+
+[06437.086]
+Un bortsch délicieux, un maître de maison et des habitants pleins de bonté... C’est vraiment un bon pays, vous savez.
+
+[06437.087]
+Vieille dame
+
+[06437.088]
+Mon mari et moi, cet endroit nous a tout à fait conquis : nous comptons y rester quelque temps.
+
+[06437.089]
+Mary, patronne de l’auberge
+
+[06437.090]
+Hm ? Toi, tu es...
+
+[06437.092]
+Hm ? Qu’y a-t-il ? J’ai quelque chose sur la figure ?
+
+[06437.093]
+Non, ce n’est rien... Tu ressemblais un peu à quelqu’un que je connais...
+
+[06437.094]
+Ce visage... ces cheveux...
+
+[06437.095]
+Je trouvais seulement que tu ressemblais un peu à une connaissance d’autrefois. N’y fais pas attention.
+
+[06437.096]
+Soyez les bienvenus. Prenez votre temps.
+
+[06437.098]
+Vous vivez seule, Mary ? Belle comme vous l’êtes, quel dommage...
+
+[06437.099]
+Ici, je vis avec Dalis.
+
+[06437.100]
+... Encore qu’il ne soit plus de ce monde.
+
+[06437.101]
+Dalis aimait la neige. Alors j’ai choisi de m’enraciner dans cette ville où elle ne cesse de tomber.
+
+[06437.102]
+Aubergiste
+
+[06437.103]
+Hé hé, tu as une bonne tête, dis donc. Digne du fils de Stahn et de Rutee, disons ?
+
+[06437.105]
+Hein ? Madame, vous connaîtriez papa et maman ?
+
+[06437.107]
+Tu... non, vous ne seriez pas Mary, l’épéiste, celle qui s’est battue aux côtés de Stahn et des autres !?
+
+[06437.108]
+On m’a appelée ainsi, autrefois, peut-être. ... Bah, quelle importance ?
+
+[06437.109]
+Vous êtes venus jusqu’ici : prenez votre temps.
+
+[06437.110]
+Le fils de Stahn est venu jusqu’ici : je vais lui offrir un plat de ma façon.
+
+[06437.112]
+Vous goûtez la cuisine maison de Mary. Le corps et le cœur en sont réchauffés.
+
+[06437.113]
+Bon voyage.
+
+[06437.114]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06437.115]
+Voulez-vous passer la nuit ?
+
+[06437.117]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06437.118]
+Reposez-vous bien.
+
+[06437.119]
+Bonjour.
+
+[06437.120]
+Vous n’avez pas assez d’argent.
+
+[06437.121]
+Au plaisir de vous revoir.
+
+[06437.126]
+Obtenu : {16:25 BA}.
+
+[06437.128]
+Obtenu : {08:FF FF FF FF}.
+
+[06437.130]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06437.132]
+Il n’y a rien ici.
+

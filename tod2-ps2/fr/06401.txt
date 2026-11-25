@@ -1,0 +1,94 @@
+[06401.001]
+Navire de ligne
+
+[06401.002]
+Navire de ligne
+
+[06401.004]
+Q-qu’est-ce que c’est que ça !?
+
+[06401.006]
+Bon sang, c’est ici, le corps principal ! Il nous a bien eus !!
+
+[06401.008]
+À ce train-là, le navire ne tiendra pas ! Mais même si on l’abat, l’eau entrera par le trou... On fait quoi, {NAME:01 00 00 00} !?
+
+[06401.010]
+C-ce qu’on fait, ce qu’on fait...
+
+[06401.012]
+Pas le temps de réfléchir. ... Il arrive !!
+
+[06401.014]
+Ça va mal ! On commence déjà à couler !
+
+[06401.016]
+Q-qu’est-ce qu’on fait !? Euh, l’eau, il faut écoper l’eau...
+
+[06401.018]
+Idiot ! Ça ne suffira jamais !
+
+[06401.020]
+En tout cas, tous ceux qui sont restés dans les cabines, on les amène sur le pont, tous !
+
+[06401.022]
+C-compris !!
+
+[06401.024]
+Q-que faire...
+
+[06401.026]
+... Pourquoi ne te sers-tu pas de ton pouvoir ?
+
+[06401.028]
+Hein !?
+
+[06401.030]
+Avec ton pouvoir, tu devrais pouvoir sauver tous ceux qui sont ici.
+
+[06401.032]
+Mais non... c’est impossible ! Avec le pouvoir que j’ai maintenant...
+
+[06401.034]
+Qu’est-ce que vous faites, {NAME:02 00 00 00}, {NAME:04 00 00 00} !
+
+[06401.036]
+P-pardon !
+
+[06401.037]
+Bon voyage.
+
+[06401.038]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06401.039]
+Voulez-vous passer la nuit ?
+
+[06401.041]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06401.042]
+Reposez-vous bien.
+
+[06401.043]
+Bonjour.
+
+[06401.044]
+Vous n’avez pas assez d’argent.
+
+[06401.045]
+Au plaisir de vous revoir.
+
+[06401.050]
+Obtenu : {16:25 BA}.
+
+[06401.052]
+Obtenu : {08:FF FF FF FF}.
+
+[06401.054]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06401.056]
+Il n’y a rien ici.
+

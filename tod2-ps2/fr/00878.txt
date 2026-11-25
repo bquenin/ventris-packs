@@ -1,0 +1,21 @@
+[00878.001]
+Au fait, Rutee, des Quatre Héros, elle vit à l’orphelinat où {NAME:01 00 00 00} et {NAME:03 00 00 00} ont grandi, non ? Ça a l’air intéressant.
+
+[00878.002]
+Il t’intrigue donc ? Le pays natal de cet homme.
+
+[00878.003]
+Q-qui s’intéresserait à ce pervers, d’abord !
+
+[00878.004]
+J’ai seulement dit « cet homme ». Je n’ai pas prononcé le nom de {NAME:03 00 00 00}.
+
+[00878.005]
+M-moi, c’est juste... ! Je voulais m’en inspirer pour notre village... enfin... Aah ! Mais ! Tu m’énerves !!
+
+[00878.006]
+Aïe ! Ça fait mal, dis donc ! On tape pas sur les gens comme ça !
+
+[00878.007]
+Tais-toi ! C’est ta faute !
+

@@ -1,0 +1,9 @@
+[00278.001]
+{NAME:01 00 00 00}, tu ne trouves pas ça bizarre ? Pourquoi {NAME:04 00 00 00} connaît-il aussi bien les installations d’ici ? J’ai toujours l’impression qu’il cache quelque chose...
+
+[00278.002]
+Hein ? Pourquoi ? Tu t’en fais trop, non ? Depuis le temps qu’il est avec nous, ce n’est pas un mauvais gars, si ?
+
+[00278.003]
+... C’est vrai. À ce stade, inutile de râler...
+

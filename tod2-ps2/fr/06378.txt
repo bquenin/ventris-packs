@@ -1,0 +1,46 @@
+[06378.001]
+Ruines de Straylize
+
+[06378.002]
+Ruines de Straylize
+
+[06378.004]
+Un « T » s’affiche en « lettres jaunes ».
+
+[06378.005]
+Bon voyage.
+
+[06378.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06378.007]
+Voulez-vous passer la nuit ?
+
+[06378.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06378.010]
+Reposez-vous bien.
+
+[06378.011]
+Bonjour.
+
+[06378.012]
+Vous n’avez pas assez d’argent.
+
+[06378.013]
+Au plaisir de vous revoir.
+
+[06378.018]
+Obtenu : {16:25 BA}.
+
+[06378.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06378.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06378.024]
+Il n’y a rien ici.
+

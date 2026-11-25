@@ -1,0 +1,88 @@
+[06457.001]
+Château de Heidelberg
+
+[06457.002]
+Château de Heidelberg
+
+[06457.003]
+Bon voyage.
+
+[06457.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06457.005]
+Voulez-vous passer la nuit ?
+
+[06457.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06457.008]
+Reposez-vous bien.
+
+[06457.009]
+Bonjour.
+
+[06457.010]
+Vous n’avez pas assez d’argent.
+
+[06457.011]
+Au plaisir de vous revoir.
+
+[06457.016]
+Obtenu : {16:25 BA}.
+
+[06457.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06457.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06457.022]
+Il n’y a rien ici.
+
+[06457.024]
+Des armes bien entretenues sont alignées. Toutes ont l’air de pièces de prix.
+
+[06457.026]
+Des armes de guerre sont alignées : pour les jours de crise, sans doute.
+
+[06457.028]
+Une arme au tranchant affûté. L’œuvre d’un forgeron de premier ordre, sûrement.
+
+[06457.030]
+Cette arme a un vrai tranchant. Ce n’est pas un objet d’art : c’est une arme véritable.
+
+[06457.032]
+Les armes des soldats du château de Heidelberg. Les lames sont affûtées, sans la moindre ternissure.
+
+[06457.034]
+Une énorme armure de plates. Elle a l’air très lourde...
+
+[06457.036]
+Une armure de guerre. Elle est d’une facture très soignée.
+
+[06457.038]
+Une armure complète, en tôle martelée. Un travail très soigné : combien peut coûter une seule pièce...
+
+[06457.040]
+Une vraie armure complète. Il s’en dégage une présence écrasante...
+
+[06457.042]
+Des armures sont alignées. Pas des objets d’art : de vraies armures de guerre, semble-t-il.
+
+[06457.044]
+Une pièce ancienne, semble-t-il. ... Attention à ne pas la casser.
+
+[06457.046]
+De menus objets sont alignés. Tous ont l’air de valoir très cher.
+
+[06457.048]
+C’est bien un château royal : le moindre bibelot est d’une facture splendide.
+
+[06457.050]
+Des pièces splendides sont alignées...
+
+[06457.052]
+Des antiquités, peut-être. Des pièces anciennes sont alignées.
+

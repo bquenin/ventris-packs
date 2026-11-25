@@ -1,0 +1,6 @@
+[00444.001]
+Dis, {NAME:04 00 00 00}. Il y a quoi, au fond ? Tu parlais d’un Ixi-quelque chose, tout à l’heure...
+
+[00444.002]
+Le temps presse, non ? Moins de questions, plus de pas.
+

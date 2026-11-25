@@ -1,0 +1,863 @@
+[06361.001]
+Aigrette : quartier du temple
+
+[06361.002]
+Aigrette
+
+[06361.003]
+Aigrette : quartier du temple
+
+[06361.004]
+Aigrette : quartier du temple
+
+[06361.005]
+Garde
+
+[06361.006]
+Halte.
+
+[06361.007]
+Garde
+
+[06361.008]
+On n’entre qu’aux jours de culte.
+
+[06361.009]
+Aigrette : quartier du temple
+
+[06361.010]
+Enfant
+
+[06361.011]
+Mon papa, il est marin. Alors quand il part en mer, il ne revient pas avant longtemps.
+
+[06361.012]
+Enfant
+
+[06361.013]
+Mais tu sais, quand il rentre de temps en temps, il me raconte plein d’histoires sur toutes sortes de pays !
+
+[06361.015]
+Ah oui ? Alors c’est pareil que mon père !
+
+[06361.016]
+Enfant
+
+[06361.017]
+Pour que papa rentre sain et sauf, moi, je prie toujours la déesse Atamoni.
+
+[06361.018]
+Enfant
+
+[06361.019]
+Les bateaux, c’est comme les nuages : il y en a de toutes les formes.
+
+[06361.020]
+Enfant
+
+[06361.021]
+C’est bien de regarder les bateaux au port, mais j’aime aussi contempler le ciel.
+
+[06361.022]
+Enfant
+
+[06361.023]
+Ce que je préfère, moi, c’est offrir mes prières à la déesse Atamoni.
+
+[06361.024]
+Enfant
+
+[06361.025]
+Moi, tu sais, j’aime le paysage où la mer et le ciel se rejoignent.
+
+[06361.026]
+Enfant
+
+[06361.027]
+Un jour, je voudrais voyager en bateau jusque là-bas !
+
+[06361.028]
+Enfant
+
+[06361.029]
+Quand je serai grand, je serai marin comme papa !
+
+[06361.030]
+Garde
+
+[06361.031]
+On n’entre qu’aux jours de culte.
+
+[06361.032]
+Garde
+
+[06361.033]
+Garder le temple est notre devoir.
+
+[06361.034]
+Elraine
+
+[06361.035]
+Que la bénédiction de la grande déesse Atamoni soit sur les habitants de cette ville... !
+
+[06361.036]
+Homme
+
+[06361.037]
+T-tiens ? J’avais mal au ventre depuis tout à l’heure, et là, plus rien du tout !
+
+[06361.038]
+Vieil homme
+
+[06361.039]
+Oh, quel prodige ! Mes yeux qui ne voyaient plus depuis trente ans... la lumière... !
+
+[06361.040]
+Enfant
+
+[06361.041]
+Youpi, maman ! Regarde, je marche ! Je marche !!
+
+[06361.043]
+I-incroyable... Un miracle s’est vraiment produit !
+
+[06361.045]
+Ça, c’est un jeu d’enfant pour elle. Ce n’est qu’une rumeur, mais il paraît qu’elle peut faire des miracles bien plus grands.
+
+[06361.047]
+... Mais dis, {NAME:01 00 00 00}, ce pendentif, il ne t’intrigue pas ?
+
+[06361.049]
+Un pendentif... ? Ah ! Mais c’est... !!
+
+[06361.051]
+Oui, le pendentif que portait cette fille. Est-ce le même par hasard, ou bien...
+
+[06361.053]
+... Hé, a-attends ! {NAME:01 00 00 00} !
+
+[06361.055]
+Rends ce pendentif ! Il est à cette fille !!
+
+[06361.056]
+Elraine
+
+[06361.057]
+Comment... ?
+
+[06361.058]
+Garde d’honneur
+
+[06361.059]
+Misérable ! Tu es devant dame Elraine !!
+
+[06361.061]
+P-pardon ! Il ne sait pas parler aux gens, ce gamin, hé hé hé...
+
+[06361.063]
+Crétin ! Rien ne dit que ce pendentif est celui de cette fille !!
+
+[06361.064]
+Elraine
+
+[06361.065]
+Attendez.
+
+[06361.066]
+Elraine
+
+[06361.067]
+« Cette fille »... avez-vous dit ? De qui parlez-vous donc ?
+
+[06361.069]
+Non, c’est juste qu’on connaît une fille qui portait le même pendentif, par hasard...
+
+[06361.070]
+Elraine
+
+[06361.071]
+Le même pendentif ?
+
+[06361.072]
+Elraine
+
+[06361.073]
+... Je vois. C’est donc cela.
+
+[06361.074]
+Elraine
+
+[06361.075]
+Je vous préviens d’emblée : celui-ci est bel et bien à moi.
+
+[06361.076]
+Elraine
+
+[06361.077]
+Tous les membres de l’Ordre d’Atamoni pourront en témoigner.
+
+[06361.079]
+A-ah bon ?
+
+[06361.081]
+Crétin, je te l’avais bien dit !
+
+[06361.083]
+P-pardon ! C’est que cette fille tenait énormément à son pendentif...
+
+[06361.084]
+Elraine
+
+[06361.085]
+Et donc, si je le lui avais pris, vous vouliez le reprendre coûte que coûte... C’est bien cela ?
+
+[06361.087]
+N’empêche, on ne crie pas « Rends ça ! » comme ça, d’entrée. C’est la traiter de voleuse, non ?
+
+[06361.089]
+P-pardon...
+
+[06361.090]
+Elraine
+
+[06361.091]
+Ce n’est rien. C’est que vous y mettiez tout votre cœur.
+
+[06361.092]
+Elraine
+
+[06361.093]
+Vous êtes... bon. C’est à des êtres tels que vous que sera accordée la protection divine.
+
+[06361.095]
+Hein, euh, eh bien...
+
+[06361.096]
+Elraine
+
+[06361.097]
+Je ne me suis pas présentée. Mon nom est Elraine. Je suis à la tête de l’Ordre d’Atamoni.
+
+[06361.098]
+Elraine
+
+[06361.099]
+Si vous le voulez bien, me direz-vous vos noms ?
+
+[06361.101]
+Ah, euh, moi, c’est {NAME:01 00 00 00} ! {NAME:01 00 00 00} Dunamis ! Et lui, c’est {NAME:03 00 00 00} !
+
+[06361.102]
+Elraine
+
+[06361.103]
+{NAME:01 00 00 00} et {NAME:03 00 00 00}. Je m’en souviendrai.
+
+[06361.104]
+Elraine
+
+[06361.105]
+J’espère que nous nous reverrons quelque part. Ce jour-là, j’aimerais rencontrer aussi la propriétaire du pendentif.
+
+[06361.106]
+Elraine
+
+[06361.107]
+... Nous aurions, je crois, une conversation fort agréable. Hu hu hu...
+
+[06361.109]
+...
+
+[06361.110]
+Elraine
+
+[06361.111]
+Sur ce, je vous laisse. Portez-vous bien, {NAME:01 00 00 00}.
+
+[06361.113]
+Bon sang, ça m’a bien coûté trois ans de vie... Hé, tu m’écoutes, {NAME:01 00 00 00} !
+
+[06361.115]
+Cette Elraine... elle lui ressemblait, non ?
+
+[06361.117]
+Hein ? À qui ?
+
+[06361.119]
+À cette fille. Tu n’as pas trouvé, {NAME:03 00 00 00} ?
+
+[06361.121]
+J’étais si tendu que je n’ai pas eu une seconde pour regarder son visage. ... La faute à qui, hein.
+
+[06361.123]
+Allez, on rentre à l’auberge pour l’instant. Je me sens tout à coup vidé, moi...
+
+[06361.124]
+Garde
+
+[06361.125]
+Qu’est-ce que vous voulez, vous !? Ce n’est pas jour de culte, aujourd’hui.
+
+[06361.127]
+Dites, une fille est entrée ici, non !? Une fille avec un pendentif !
+
+[06361.128]
+Garde
+
+[06361.129]
+... Une fille avec un pendentif ? Connais pas !
+
+[06361.131]
+Hein ?
+
+[06361.132]
+Garde
+
+[06361.133]
+Je vous l’ai déjà dit : ce n’est pas jour de culte, aujourd’hui. Allez, déguerpissez !
+
+[06361.135]
+Pourquoi elle n’est pas venue !? Le patron de l’auberge a bien dit qu’elle allait au grand temple...
+
+[06361.137]
+Dis, {NAME:03 00 00 00}, il n’y aurait pas un autre chemin pour aller au grand temple ?
+
+[06361.139]
+Non, il n’y a que celui-ci, normalement...
+
+[06361.141]
+... Enfin, attends. Maintenant que j’y pense, le capitaine des chevaliers m’en a parlé un jour.
+
+[06361.143]
+Sous la ville d’Aigrette, il y aurait de vieilles ruines qui communiquent avec le grand temple.
+
+[06361.145]
+Alors c’est par là qu’elle est passée !
+
+[06361.147]
+Mais d’après lui, même dans l’Ordre, peu de gens savent que ces ruines existent. Ça m’étonnerait qu’elle soit au courant...
+
+[06361.149]
+Peu importe, allons toujours voir ! Dis, on y entre par où, dans ces ruines !?
+
+[06361.151]
+Je ne connais pas l’endroit exact, mais il paraît que l’entrée est quelque part en ville.
+
+[06361.153]
+Bon, cherchons !
+
+[06361.154]
+Garde
+
+[06361.155]
+Je vous l’ai déjà dit : ce n’est pas jour de culte, aujourd’hui. Allez, déguerpissez.
+
+[06361.156]
+Vieil homme
+
+[06361.157]
+Même vieux, même retiré de la mer, je ne sais pourquoi, je vais au port tous les jours.
+
+[06361.158]
+Vieil homme
+
+[06361.159]
+Si je ne hume pas l’odeur de la mer une fois par jour, je ne tiens pas en place, vois-tu.
+
+[06361.160]
+Vieil homme
+
+[06361.161]
+Du temps où Darilsheid avait un port, on y faisait la fête à chaque escale.
+
+[06361.162]
+Vieil homme
+
+[06361.163]
+Aujourd’hui, elle est tombée si bas qu’on ne la reconnaît plus, hélas.
+
+[06361.164]
+Vieil homme
+
+[06361.165]
+Quel pouvoir que celui de dame Elraine. Comment peut-elle donc accomplir de tels miracles ?
+
+[06361.166]
+Vieil homme
+
+[06361.167]
+Après avoir vu ce miracle de mes yeux, impossible de ne pas croire à l’existence de la déesse.
+
+[06361.168]
+Vieil homme
+
+[06361.169]
+Je devrais peut-être offrir des Lentilles, moi aussi. Ces fameux bienfaits ici-bas m’intéressent, vois-tu.
+
+[06361.170]
+Vieil homme
+
+[06361.171]
+Du temps où Darilsheid avait un port, on y faisait la fête à chaque escale.
+
+[06361.172]
+Vieil homme
+
+[06361.173]
+Aujourd’hui, elle est tombée si bas qu’on ne la reconnaît plus, hélas.
+
+[06361.174]
+Vieil homme
+
+[06361.175]
+Même vieux, même retiré de la mer, je ne sais pourquoi, je vais au port tous les jours.
+
+[06361.176]
+Vieil homme
+
+[06361.177]
+Si je ne hume pas l’odeur de la mer une fois par jour, je ne tiens pas en place, vois-tu.
+
+[06361.178]
+Homme
+
+[06361.179]
+Le port d’Aigrette, c’est par là, tout droit.
+
+[06361.180]
+Homme
+
+[06361.181]
+Il n’y a qu’un chemin jusqu’au port : vous ne risquez pas de vous perdre.
+
+[06361.182]
+Vieille dame
+
+[06361.183]
+Dame Elraine la Sainte, qui est à la tête de l’Ordre d’Atamoni, aurait des pouvoirs divins, à ce qu’on dit.
+
+[06361.184]
+Vieille dame
+
+[06361.185]
+Même des gens atteints de maux incurables auraient retrouvé la santé sur-le-champ grâce à dame Elraine.
+
+[06361.186]
+Vieille dame
+
+[06361.187]
+Oh, à mon âge, voilà que j’ai le cœur qui bat. Comment est-elle donc, dame Elraine ?
+
+[06361.188]
+Vieille dame
+
+[06361.189]
+Eh bien... Quand vous avez bondi comme ça, j’en ai eu des sueurs froides : qu’allait-il arriver ?
+
+[06361.190]
+Vieille dame
+
+[06361.191]
+Mais pardonner pareille insolence... C’est bien là dame Elraine.
+
+[06361.192]
+Vieille dame
+
+[06361.193]
+Chez nous, on est pauvres, vois-tu. On ne peut même pas faire une offrande convenable à l’Ordre d’Atamoni.
+
+[06361.194]
+Vieille dame
+
+[06361.195]
+J’aimerais tant trouver le moyen d’offrir des Lentilles à dame Elraine.
+
+[06361.196]
+Vieille dame
+
+[06361.197]
+Mourir pour dame Elraine, je ne demanderais rien de plus.
+
+[06361.198]
+Vieille dame
+
+[06361.199]
+Chez nous, on est pauvres, vois-tu. On ne peut même pas faire une offrande convenable.
+
+[06361.200]
+Vieille dame
+
+[06361.201]
+Mais dame Philia dit ceci : ce qui compte, ce n’est pas l’offrande, c’est le cœur. Ça m’a toute remuée.
+
+[06361.202]
+Vieille dame
+
+[06361.203]
+Dame Philia dit ceci : ce qui compte, ce n’est pas l’offrande, c’est le cœur. Ça m’a toute remuée.
+
+[06361.204]
+Bûcheron
+
+[06361.205]
+Tu sais pourquoi Aigrette s’est développée à ce point en à peine plus de dix ans ?
+
+[06361.206]
+Bûcheron
+
+[06361.207]
+Parce que des foules sont venues des provinces par dévotion pour dame Elraine. Comme moi.
+
+[06361.208]
+Bûcheron
+
+[06361.209]
+J’aimerais tant rencontrer dame Elraine. Elle doit être d’une beauté...
+
+[06361.210]
+Bûcheron
+
+[06361.211]
+Ah, dame Elraine. Quelle apparition divine...
+
+[06361.212]
+Bûcheron
+
+[06361.213]
+C’est décidé, je m’installe dans cette ville, moi aussi ! Comme ça, je reverrai peut-être dame Elraine !
+
+[06361.214]
+Bûcheron
+
+[06361.215]
+J’ai offert tous mes biens à dame Elraine...
+
+[06361.216]
+Bûcheron
+
+[06361.217]
+Je ne sais pas comment je vivrai à partir de demain, mais en ce moment, au moins, je suis heureux...
+
+[06361.218]
+Bûcheron
+
+[06361.219]
+Ah, dame Elraine, guidez-moi...
+
+[06361.220]
+Bûcheron
+
+[06361.221]
+Tu sais pourquoi Aigrette s’est développée à ce point en quelques années à peine ?
+
+[06361.222]
+Bûcheron
+
+[06361.223]
+Quand le pays, privé de roi, était en péril, le temple de Straylize est vite intervenu.
+
+[06361.224]
+Bûcheron
+
+[06361.225]
+Derrière l’essor d’Aigrette, il y aurait les efforts de Woodrow, roi de Phandaria, et de dame Philia.
+
+[06361.226]
+Bûcheron
+
+[06361.227]
+Les Quatre Héros, c’est quand même quelque chose.
+
+[06361.228]
+Voyageur
+
+[06361.229]
+Vous êtes venus offrir des Lentilles, vous autres ?
+
+[06361.231]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06361.232]
+Voyageur
+
+[06361.233]
+Tiens donc. Alors vous allez vivre ce miracle. Ça, je vous envie~.
+
+[06361.234]
+Voyageur
+
+[06361.235]
+Alors vous aussi, vous êtes juste venus voir le miracle, en simples spectateurs.
+
+[06361.236]
+Voyageur
+
+[06361.237]
+Moi aussi, j’aimerais vite réunir des Lentilles et goûter au miracle de dame Elraine.
+
+[06361.238]
+Voyageur
+
+[06361.239]
+Moi aussi, j’aimerais vite réunir des Lentilles et goûter au miracle de dame Elraine.
+
+[06361.241]
+Ce pouvoir-là, il guérirait {NAME:03 00 00 00} de courir les filles ?
+
+[06361.243]
+Avant ça, faudrait d’abord qu’on guérisse {NAME:01 00 00 00} de sa bêtise♪
+
+[06361.244]
+Voyageur
+
+[06361.245]
+Les miracles de dame Elraine, qu’est-ce que c’est, au juste ?
+
+[06361.246]
+Voyageur
+
+[06361.247]
+Enfin, c’est sans doute parce qu’on n’y comprend rien qu’on appelle ça des miracles.
+
+[06361.248]
+Voyageur
+
+[06361.249]
+En ce moment, j’économise pour mon mariage, mais ça ne s’accumule pas vite.
+
+[06361.250]
+Voyageur
+
+[06361.251]
+Je pensais trouver à Aigrette un travail bien payé. Ce n’est pas si simple, on dirait.
+
+[06361.252]
+Voyageur
+
+[06361.253]
+Puisque c’est comme ça, je vais tâter du jeu et faire grossir tout ça en deux temps trois mouvements.
+
+[06361.255]
+J’ai l’impression qu’il n’économisera jamais rien de sa vie...
+
+[06361.256]
+Jeune femme
+
+[06361.257]
+Excusez-moi, nous sommes-nous déjà rencontrés quelque part ?
+
+[06361.258]
+Jeune femme
+
+[06361.259]
+Pardonnez-moi. J’ai mauvaise vue depuis toujours, et je distingue mal votre visage.
+
+[06361.260]
+Jeune femme
+
+[06361.261]
+Je suis venue parce qu’on m’a dit qu’ici, je retrouverais peut-être la vue...
+
+[06361.262]
+Jeune femme
+
+[06361.263]
+Grâce à dame Elraine, je vois, maintenant !
+
+[06361.264]
+Jeune femme
+
+[06361.265]
+Ah ! Que dame Elraine est merveilleuse !
+
+[06361.266]
+Jeune femme
+
+[06361.267]
+Grâce à dame Elraine, je vois, maintenant.
+
+[06361.268]
+Jeune femme
+
+[06361.269]
+Mais le paysage que je voyais enfant n’existe plus nulle part. Cela m’a fait un petit choc.
+
+[06361.271]
+Autrefois, ce n’était ici qu’un paisible village...
+
+[06361.272]
+Jeune femme
+
+[06361.273]
+J’espérais tant revoir ce paysage une fois encore...
+
+[06361.274]
+Jeune femme
+
+[06361.275]
+Mais je suis profondément reconnaissante à dame Elraine.
+
+[06361.276]
+Jeune femme
+
+[06361.277]
+Je suis aveugle. Si ces yeux pouvaient voir, quelle merveille ce serait.
+
+[06361.278]
+Jeune femme
+
+[06361.279]
+Je voudrais que le pouvoir divin guérisse ces yeux. Est-ce mal de demander à la déesse ce que les hommes ne peuvent faire ?
+
+[06361.280]
+Jeune femme
+
+[06361.281]
+S’il se trouvait des gens pour renier la déesse toute-puissante, je leur en voudrais toute ma vie.
+
+[06361.282]
+Jeune femme
+
+[06361.283]
+Excusez-moi, nous sommes-nous déjà rencontrés quelque part ?
+
+[06361.284]
+Jeune femme
+
+[06361.285]
+Pardonnez-moi. J’ai mauvaise vue depuis toujours, et je distingue mal votre visage.
+
+[06361.286]
+Jeune homme
+
+[06361.287]
+Cette semaine, j’ai offert pas moins de 30 Lentilles à l’Ordre d’Atamoni !
+
+[06361.288]
+Jeune homme
+
+[06361.289]
+Il suffit de donner des Lentilles pour qu’on vous rende heureux ! C’est du gâteau !
+
+[06361.290]
+Jeune homme
+
+[06361.291]
+La semaine prochaine, je me lâche et je tente les 50 Lentilles, hein ?
+
+[06361.292]
+Jeune homme
+
+[06361.293]
+Yiiiiiha ! À force d’offrir des Lentilles, me voilà membre de l’Ordre d’Atamoni !
+
+[06361.294]
+Jeune homme
+
+[06361.295]
+Avec ça, mon avenir est tout rose !
+
+[06361.296]
+Jeune homme
+
+[06361.297]
+Aah, qu’est-ce qu’on s’ennuie, tous les jours. Hé, la déesse, là-haut, tu nous ferais pas arriver un truc marrant ?
+
+[06361.298]
+Jeune homme
+
+[06361.299]
+D’ailleurs, on a beau prier, il se passe rien. Si ça se trouve, la déesse, c’est du pipeau ?
+
+[06361.300]
+Jeune fille
+
+[06361.301]
+Il paraît que si on donne plein de Lentilles, on peut entrer dans l’Ordre d’Atamoni~.
+
+[06361.302]
+Jeune fille
+
+[06361.303]
+Moi, j’ai pu en offrir que 5, de Lentilles.
+
+[06361.304]
+Jeune fille
+
+[06361.305]
+Je veux en offrir beaucoup plus, entrer dans l’Ordre d’Atamoni et mener la belle vie~.
+
+[06361.306]
+Jeune fille
+
+[06361.307]
+La chance~. Moi aussi, je veux entrer dans l’Ordre d’Atamoni !
+
+[06361.308]
+Jeune fille
+
+[06361.309]
+Une fois dans l’Ordre d’Atamoni, on est heureux sans rien faire, non ? C’est trop bien, ça.
+
+[06361.310]
+Jeune fille
+
+[06361.311]
+Je veux pas étudier~. Au secours, mon dieu~.
+
+[06361.312]
+Jeune fille
+
+[06361.313]
+Je prie et il se passe rien, c’est quoi, ça ? C’est nul~.
+
+[06361.314]
+Jeune fille
+
+[06361.315]
+Une déesse qui fait rien pour toi, c’est nul de chez nul.
+
+[06361.316]
+Chat
+
+[06361.317]
+Miou~ ?
+
+[06361.318]
+Bon voyage.
+
+[06361.319]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06361.320]
+Voulez-vous passer la nuit ?
+
+[06361.322]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06361.323]
+Reposez-vous bien.
+
+[06361.324]
+Bonjour.
+
+[06361.325]
+Vous n’avez pas assez d’argent.
+
+[06361.326]
+Au plaisir de vous revoir.
+
+[06361.331]
+Obtenu : {16:27 42}.
+
+[06361.333]
+Obtenu : {08:FF FF FF FF}.
+
+[06361.335]
+Trouvé : {16:27 4A}, mais vous n’avez plus de place.
+
+[06361.337]
+Il n’y a rien ici.
+

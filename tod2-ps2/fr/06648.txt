@@ -1,0 +1,53 @@
+[06648.001]
+Ruines de la base terrestre
+
+[06648.002]
+Ruines de la base terrestre
+
+[06648.004]
+Il y a ceci à un endroit pareil : {08:2F 00 00 00}. Cela semble encore utilisable. L’emporter ({08:2F 00 00 00}) ?
+
+[06648.006]
+{03:00 00 00 00}　Emporter　
+　Laisser　
+
+[06648.008]
+Obtenu : {08:2F 00 00 00}.
+
+[06648.009]
+Bon voyage.
+
+[06648.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06648.011]
+Voulez-vous passer la nuit ?
+
+[06648.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06648.014]
+Reposez-vous bien.
+
+[06648.015]
+Bonjour.
+
+[06648.016]
+Vous n’avez pas assez d’argent.
+
+[06648.017]
+Au plaisir de vous revoir.
+
+[06648.022]
+Obtenu : {16:25 BA}.
+
+[06648.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06648.026]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06648.028]
+Il n’y a rien ici.
+

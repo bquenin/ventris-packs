@@ -1,0 +1,756 @@
+[06468.001]
+Aigrette
+
+[06468.002]
+Aigrette
+
+[06468.003]
+Aigrette
+
+[06468.004]
+Aigrette
+
+[06468.005]
+Aigrette
+
+[06468.007]
+« Ici, Aigrette, la ville sainte où demeurent les fidèles serviteurs de la déesse. »
+
+[06468.009]
+« En l’honneur de la Descente de la déesse Fortuna. Les bonnes volontés d’Aigrette »
+
+[06468.011]
+Dans les endroits suspects, essayez ceci : {08:32 00 00 00}.
+
+[06468.013]
+Le coffre, en haut à droite, m’intrigue... S’il y avait « un instrument qui décèle et perçoit ce que l’œil ne voit pas d’ordinaire »...
+
+[06468.015]
+La Lunette du sorcier révèle une porte cachée.
+
+[06468.017]
+... Mais on est à Aigrette, ici !
+
+[06468.019]
+{NAME:02 00 00 00}, on a de la veine ! On n’a pas été expédiés dans un endroit inconnu !
+
+[06468.021]
+Tiens ? Mais l’ambiance n’est pas la même, non ?
+
+[06468.023]
+... En dix ans, les choses changent à ce point.
+
+[06468.025]
+... Hein ?
+
+[06468.027]
+Écoute-moi calmement, {NAME:01 00 00 00}. Le pouvoir d’Elraine nous a expédiés au loin.
+
+[06468.029]
+... Dans le futur. Dix ans après l’époque où vous viviez, {NAME:01 00 00 00}.
+
+[06468.031]
+Ha...
+
+[06468.033]
+Ahahaha ! Elle est raide, ta blague, {NAME:02 00 00 00} !
+
+[06468.035]
+... Tu ne me crois pas, bien sûr. Mais nous sommes bel et bien dix ans plus tard. Tu le verras d’ici peu, je pense.
+
+[06468.037]
+{NAME:02 00 00 00}... ?
+
+[06468.039]
+Q-qu’est-ce que c’est que ça...
+
+[06468.041]
+« En l’honneur de la Descente de la déesse Fortuna. Les bonnes volontés d’Aigrette »
+
+[06468.043]
+C’est quoi... ça !? Cette statue n’était pas là, la dernière fois, hein !?
+
+[06468.045]
+Bien sûr que non.
+
+[06468.047]
+Cette statue a été faite un peu après l’époque où vous viviez, {NAME:01 00 00 00}.
+
+[06468.049]
+A-alors ce que tu disais, {NAME:02 00 00 00}, c’est vraiment...
+
+[06468.051]
+Oui. Ici, c’est le monde dix ans après l’époque où vous viviez, {NAME:01 00 00 00}.
+
+[06468.053]
+Ce jour-là, Elraine s’est servie d’un pouvoir pour m’expédier dans le futur... et vous avez tous été emportés avec moi.
+
+[06468.055]
+M-mais Elraine, c’est quelqu’un de haut placé dans l’Ordre d’Atamoni, non !? Pourquoi te faire ça, {NAME:02 00 00 00}...
+
+[06468.057]
+E-et puis ! « En l’honneur de la Descente de la déesse Fortuna », ça veut dire quoi, à la fin !?
+
+[06468.059]
+Ce que ça dit. À cette époque, il y a une divinité : la déesse Fortuna.
+
+[06468.061]
+Non... Mais personne n’en a dit un mot !
+
+[06468.063]
+C’est si évident que personne n’en parle, voilà tout. Une divinité est vraiment descendue.
+
+[06468.065]
+Oh non...
+
+[06468.067]
+D-dites ! C’est vrai qu’il y a une déesse dans ce monde !?
+
+[06468.068]
+Habitant
+
+[06468.069]
+Évidemment. Et alors ?
+
+[06468.071]
+Pas possible...
+
+[06468.072]
+Habitante
+
+[06468.073]
+Dis, mon chéri, dépêchons, ou nous serons en retard à la cérémonie de naissance.
+
+[06468.074]
+Habitant
+
+[06468.075]
+Ah, c’est vrai. C’est tout ce que tu voulais, mon garçon ?
+
+[06468.077]
+... Ah, oui...
+
+[06468.078]
+Habitante
+
+[06468.079]
+Mon chéri, dépêchons, ou nous n’y serons pas à temps.
+
+[06468.080]
+Habitant
+
+[06468.081]
+Monseigneur l’évêque est à cheval sur l’heure. Pour une cérémonie de naissance, plus encore. Vite, au grand temple.
+
+[06468.083]
+Il y a donc vraiment une déesse, dans ce monde...
+
+[06468.085]
+Une cérémonie de naissance... Ça tombe peut-être bien.
+
+[06468.087]
+Dis, {NAME:01 00 00 00}, si on allait à la cérémonie de naissance avec eux, nous aussi ?
+
+[06468.089]
+Hein ?
+
+[06468.091]
+En y assistant, tu comprendras quel genre d’endroit est ce monde, je crois.
+
+[06468.092]
+Homme
+
+[06468.093]
+Aujourd’hui encore, ni bien ni mal : une journée sans problème.
+
+[06468.094]
+Homme
+
+[06468.095]
+Ce bonheur, il faut que j’en rende compte à la déesse Fortuna.
+
+[06468.096]
+Homme
+
+[06468.097]
+Ô déesse Fortuna, que demain aussi soit une journée où il ne se passe rien...
+
+[06468.098]
+Homme
+
+[06468.099]
+La cérémonie de naissance est finie : je vais rentrer. E-114 m’attend.
+
+[06468.101]
+E-euh~, E-114, c’est bien... le nom de quelqu’un ?
+
+[06468.102]
+Homme
+
+[06468.103]
+Que dis-tu là ? Bien sûr. C’est le nom de mon épouse bien-aimée.
+
+[06468.104]
+Homme
+
+[06468.105]
+La cérémonie de naissance est finie : rentrons chez nous, où m’attend ma bien-aimée E-114.
+
+[06468.106]
+Homme
+
+[06468.107]
+Ces temps-ci, mon nom ne me plaît plus trop.
+
+[06468.109]
+Tu m’étonnes. Un numéro pour nom, c’est tordu.
+
+[06468.110]
+Homme
+
+[06468.111]
+Non, ce n’est pas ça : je voudrais un meilleur numéro.
+
+[06468.112]
+Homme
+
+[06468.113]
+Par exemple, F-00001 : F comme Fortuna, et le numéro un ! C’est un nom comme ça que je voudrais.
+
+[06468.114]
+Homme
+
+[06468.115]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.116]
+Homme
+
+[06468.117]
+Jusqu’à il y a dix ans, je tenais un commerce dans cette ville. Une vie rude, pas comme maintenant.
+
+[06468.118]
+Homme
+
+[06468.119]
+Mais depuis que la déesse Fortuna est descendue, plus de crainte de manquer de pain. Quelle chance.
+
+[06468.120]
+Homme
+
+[06468.121]
+Depuis que la déesse Fortuna est descendue, plus de crainte de manquer de pain. Quelle chance.
+
+[06468.122]
+Homme
+
+[06468.123]
+À vivre ainsi, sans manquer de rien, il m’arrive de ne plus savoir.
+
+[06468.124]
+Homme
+
+[06468.125]
+Jusqu’à il y a dix ans, j’étais très pauvre, mais je me demande si ce n’était pas un rêve.
+
+[06468.126]
+Homme
+
+[06468.127]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.128]
+Jeune femme
+
+[06468.129]
+Dis donc, tu portes des habits d’un goût bien ancien.
+
+[06468.131]
+A-ah bon ?
+
+[06468.132]
+Jeune femme
+
+[06468.133]
+Oui : c’est le goût d’il y a dix ans, ça.
+
+[06468.134]
+Jeune femme
+
+[06468.135]
+Vous êtes étranges, vous autres. On dirait que vous arrivez tout droit d’il y a dix ans.
+
+[06468.136]
+Jeune femme
+
+[06468.137]
+Quand j’étais petite, peut-être... il me semble que j’avais un nom qui n’était pas un numéro...
+
+[06468.138]
+Jeune femme
+
+[06468.139]
+Mais je n’arrive pas à me rappeler lequel...
+
+[06468.141]
+Elle a donc perdu son nom quelque part...
+
+[06468.142]
+Jeune femme
+
+[06468.143]
+Bah, ne pas me rappeler mon nom ne m’a jamais gênée : ça n’a pas d’importance.
+
+[06468.144]
+Jeune femme
+
+[06468.145]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.146]
+Jeune femme
+
+[06468.147]
+Tu viens pour devenir citoyen d’Aigrette ?
+
+[06468.149]
+Non, pas spécialement...
+
+[06468.150]
+Jeune femme
+
+[06468.151]
+Ah bon ? Choisir exprès une vie pénible : tu es un original, toi.
+
+[06468.152]
+Jeune femme
+
+[06468.153]
+Citoyen d’Aigrette, chacun est sûr d’être heureux : c’est garanti.
+
+[06468.154]
+Jeune femme
+
+[06468.155]
+Autrefois, on s’empêtrait dans des choses sans intérêt, le travail, la vie de tous les jours, et l’agacement ne cessait pas.
+
+[06468.156]
+Jeune femme
+
+[06468.157]
+Aujourd’hui, on ne fait rien, et on ne pense qu’à son propre bonheur♪
+
+[06468.158]
+Jeune femme
+
+[06468.159]
+Jamais malade, du temps à ne savoir qu’en faire : quel luxe~.
+
+[06468.160]
+Jeune femme
+
+[06468.161]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.162]
+Homme
+
+[06468.163]
+C’est parce qu’on veut l’emporter sur les autres que naissent les conflits.
+
+[06468.164]
+Homme
+
+[06468.165]
+Si tous sont également heureux, comme dans cette ville, il n’y a pas de conflits.
+
+[06468.166]
+Homme
+
+[06468.167]
+Vous aussi, changez tous vos désirs inutiles en Lentilles, et offrez-les à l’Ordre.
+
+[06468.168]
+Homme
+
+[06468.169]
+Il y a encore dans ce monde, semble-t-il, des gens qui refusent la culture d’Aigrette et veulent le conflit.
+
+[06468.171]
+On ne veut pas le conflit, nous... C’est juste que la vie en serre, ce n’est pas notre genre.
+
+[06468.172]
+Homme
+
+[06468.173]
+S’ils renonçaient au désir et offraient tout à la déesse...
+
+[06468.174]
+Homme
+
+[06468.175]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.176]
+Homme
+
+[06468.177]
+Moi, dans l’temps, j’me faisais toujours rouler.
+
+[06468.178]
+Homme
+
+[06468.179]
+Mais dans l’Aigrette d’à présent, y a pas une âme pour me rouler.
+
+[06468.180]
+Homme
+
+[06468.181]
+Plus b’soin d’vendre des jarres, non plus.
+
+[06468.182]
+Homme
+
+[06468.183]
+Quoi ? T’as beau v’nir me voir, j’vends plus d’jarres louches.
+
+[06468.185]
+On n’en veut pas non plus, nous.
+
+[06468.186]
+Homme
+
+[06468.187]
+À Aigrette, tant qu’on fait son d’voir de citoyen, on vit sans travailler.
+
+[06468.188]
+Homme
+
+[06468.189]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.190]
+Jeune femme
+
+[06468.191]
+Dis, tu sais ? Les gens d’autrefois ne faisaient que des choses inutiles, il paraît.
+
+[06468.193]
+Des choses inutiles ?
+
+[06468.194]
+Jeune femme
+
+[06468.195]
+La guerre, les disputes, tromper les gens, se faire tromper : rien que de l’inutile, vraiii~ment.
+
+[06468.196]
+Jeune femme
+
+[06468.197]
+Les gens d’autrefois croyaient-ils être heureux en faisant ce que les autres détestent ?
+
+[06468.198]
+Jeune femme
+
+[06468.199]
+Moi, plus tard, je serai gardienne d’enfants de l’Ordre de Fortuna.
+
+[06468.200]
+Jeune femme
+
+[06468.201]
+Il faut que j’étudie encore, pour réussir l’examen d’entrée !
+
+[06468.202]
+Jeune femme
+
+[06468.203]
+Si on n’est pas excellente, on ne peut pas être gardienne et élever d’excellents enfants.
+
+[06468.204]
+Homme
+
+[06468.205]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.206]
+Jeune femme
+
+[06468.207]
+Alors, cette robe ? Il paraît qu’autrefois, c’était l’habit de ceux qui servaient d’autres gens.
+
+[06468.208]
+Jeune femme
+
+[06468.209]
+Des gens au service d’autres gens : quelle drôle d’idée.
+
+[06468.210]
+Jeune femme
+
+[06468.211]
+Tous les humains devraient servir la déesse : à quoi pensaient les gens d’autrefois ?
+
+[06468.212]
+Jeune femme
+
+[06468.213]
+Alors, cette robe ? Il paraît qu’autrefois, c’était l’habit de ceux qui servaient d’autres gens.
+
+[06468.214]
+Jeune femme
+
+[06468.215]
+Des gens qui travaillent sous d’autres gens : quelle drôle d’idée~.
+
+[06468.216]
+Jeune femme
+
+[06468.217]
+Tous devraient être égaux sous la déesse, tu ne trouves pas ?
+
+[06468.218]
+Homme
+
+[06468.219]
+Pas de dialogue défini pour ce drapeau.
+
+[06468.220]
+Épicier
+
+[06468.221]
+Je tiens boutique en souvenir d’autrefois. Achetez-moi quelque chose, si vous voulez bien.
+
+[06468.222]
+Une porte à cet endroit : je ne l’avais jamais remarquée...
+
+[06468.223]
+Ce coffre, comment faire... Il doit bien y avoir une entrée quelque part...
+
+[06468.224]
+Épicier
+
+[06468.225]
+Templier
+
+[06468.226]
+Autrefois, il y avait un bazar, plus loin. Ceux qui y vivaient n’avaient que le commerce en tête : des mécréants, tous.
+
+[06468.227]
+Templier
+
+[06468.228]
+Ici, c’est la cité de la déesse, la ville sainte. Les mécréants n’y ont pas leur place... Le bazar a été rasé.
+
+[06468.229]
+Templier
+
+[06468.230]
+Et la ville en est devenue plus agréable à vivre.
+
+[06468.231]
+Bon voyage.
+
+[06468.232]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06468.233]
+Voulez-vous passer la nuit ?
+
+[06468.235]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06468.236]
+Reposez-vous bien.
+
+[06468.237]
+Bonjour.
+
+[06468.238]
+Vous n’avez pas assez d’argent.
+
+[06468.239]
+Au plaisir de vous revoir.
+
+[06468.244]
+Obtenu : {16:25 BA}.
+
+[06468.246]
+Obtenu : {08:FF FF FF FF}.
+
+[06468.248]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06468.250]
+Il n’y a rien ici.
+
+[06468.251]
+Vendeur ({08:12 00 00 00})
+
+[06468.252]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06468.253]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06468.254]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06468.255]
+C’est {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06468.257]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 D6} ({14:35 D0} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06468.259]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06468.260]
+Merci de votre achat.
+
+[06468.261]
+Merci de votre achat.
+
+[06468.262]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald pièce.
+
+[06468.263]
+Voulez-vous suivre le cours de raffinage ?
+
+[06468.265]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06468.266]
+Que voulez-vous savoir ?
+
+[06468.268]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06468.270]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06468.271]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06468.272]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06468.273]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06468.274]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06468.275]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06468.276]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06468.277]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06468.278]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06468.279]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06468.280]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06468.281]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06468.282]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06468.283]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06468.284]
+Je vous expliquerai les emplacements en détail à part.
+
+[06468.285]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06468.286]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06468.287]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06468.288]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06468.289]
+Je vais vous expliquer les emplacements en détail.
+
+[06468.290]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06468.291]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06468.292]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06468.293]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06468.294]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06468.295]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06468.296]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06468.297]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06468.298]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06468.299]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06468.300]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06468.301]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06468.302]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06468.303]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06468.304]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06468.305]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06468.306]
+... Ranger ses objets, c’est important aussi.
+

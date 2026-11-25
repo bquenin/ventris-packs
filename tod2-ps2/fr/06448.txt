@@ -1,0 +1,88 @@
+[06448.001]
+Heidelberg : musée « Mémoire de la guerre du Ciel et de la Terre »
+
+[06448.002]
+Heidelberg
+
+[06448.003]
+Musée « Mémoire de la guerre du Ciel et de la Terre »
+
+[06448.005]
+« Les cités aériennes »
+
+[06448.007]
+Pour fuir la poussière soulevée par la chute d’une comète géante, les hommes bâtirent des cités dans les airs.
+
+[06448.009]
+Ces cités aériennes auraient été englouties au fond des mers par l’armée terrestre, à la fin de la guerre du Ciel et de la Terre.
+
+[06448.011]
+« Soldat de l’armée terrestre »
+
+[06448.013]
+L’armée terrestre fut formée par les gens de la terre, soulevés contre la domination armée du ciel, qu’ils ne supportaient plus.
+
+[06448.015]
+Acculée au bord de la défaite, l’armée terrestre l’emporta grâce au pouvoir des Swordians.
+
+[06448.017]
+« Mitrailleuse sur trépied antiaérien »
+
+[06448.019]
+Pseudo-mitrailleuse fixe, faite de matériaux de récupération.
+
+[06448.021]
+À la fin de la guerre, les munitions manquant, on y mettait des boulons de métal, tirés à la charge explosive.
+
+[06448.023]
+« Le navire des neiges »
+
+[06448.025]
+On y voit un engin de transport de l’armée terrestre, mais bien des points restent obscurs.
+
+[06448.027]
+Les soldats de l’armée terrestre l’auraient surnommé « Shoes ».
+
+[06448.029]
+Une estampe sur le thème de la guerre du Ciel et de la Terre...
+
+[06448.031]
+Un tableau est exposé. « Le cauchemar de la chute de la comète »
+
+[06448.032]
+Bon voyage.
+
+[06448.033]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06448.034]
+Voulez-vous passer la nuit ?
+
+[06448.036]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06448.037]
+Reposez-vous bien.
+
+[06448.038]
+Bonjour.
+
+[06448.039]
+Vous n’avez pas assez d’argent.
+
+[06448.040]
+Au plaisir de vous revoir.
+
+[06448.045]
+Obtenu : {16:25 BA}.
+
+[06448.047]
+Obtenu : {08:FF FF FF FF}.
+
+[06448.049]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06448.051]
+Il n’y a rien ici.
+

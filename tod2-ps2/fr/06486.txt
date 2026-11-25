@@ -1,0 +1,73 @@
+[06486.001]
+Heat River
+
+[06486.002]
+Heat River
+
+[06486.004]
+Les eaux ont monté... Le pont est englouti.
+
+[06486.006]
+On ne pourrait pas traverser quand même...
+
+[06486.008]
+Ça brûûûle ! R-rien à faire ! Traverser à pied, impossible, impossible !
+
+[06486.010]
+Dis, {NAME:05 00 00 00}, en Calvalese, c’est normal, ça ?
+
+[06486.012]
+Non, là, c’est un peu bizarre. D’habitude, il ne coule presque pas d’eau dans cette rivière.
+
+[06486.014]
+Et cette température... On dirait de l’eau bouillante.
+
+[06486.016]
+En tout cas, tant qu’on n’aura pas trouvé la cause, on ne passera pas. On remonte la rivière ?
+
+[06486.018]
+Ça fait un détour, mais tant pis...
+
+[06486.020]
+{NAME:02 00 00 00}, ça va ?
+
+[06486.022]
+O-oui, tant bien que mal...
+
+[06486.023]
+Bon voyage.
+
+[06486.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06486.025]
+Voulez-vous passer la nuit ?
+
+[06486.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06486.028]
+Reposez-vous bien.
+
+[06486.029]
+Bonjour.
+
+[06486.030]
+Vous n’avez pas assez d’argent.
+
+[06486.031]
+Au plaisir de vous revoir.
+
+[06486.036]
+Obtenu : {16:25 D6}.
+
+[06486.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06486.040]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06486.042]
+Il n’y a rien ici.
+

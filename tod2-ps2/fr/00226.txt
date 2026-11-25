@@ -1,0 +1,15 @@
+[00226.001]
+Madame Lilith était si gaie, une femme merveilleuse.
+
+[00226.002]
+Elle cuisine bien, et surtout, elle est gentille !
+
+[00226.003]
+Gentille, charmante, bonne cuisinière, et belle avec ça. Écoute, {NAME:01 00 00 00} : celui qui épouse une femme pareille est un homme heureux. Retiens-le.
+
+[00226.004]
+Encore la femme idéale de {NAME:03 00 00 00}...
+
+[00226.005]
+Crétin ! Trouver la femme idéale, c’est capital dans la vie d’un homme !
+

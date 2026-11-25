@@ -1,0 +1,151 @@
+[06787.001]
+Village de Lienea
+
+[06787.002]
+Village de Lienea
+
+[06787.004]
+{NAME:02 00 00 00} ! Le petit-déjeuner est prêt, il paraît !
+
+[06787.006]
+Ah, {NAME:01 00 00 00}...
+
+[06787.008]
+Tu as l’air d’aller mieux. Tant mieux !
+
+[06787.010]
+Pardon de t’avoir inquiété.
+
+[06787.012]
+Ne t’en fais pas pour ça ! Après un effort pareil, c’est normal d’être épuisée.
+
+[06787.014]
+N’empêche, c’était incroyable ! Le pendentif a brillé, le navire s’est soulevé, et en plus, il a carrément volé !
+
+[06787.016]
+Oh non...
+
+[06787.018]
+Le capitaine, lui, il était tout excité : « C’est une Sainte, à coup sûr ! »
+
+[06787.020]
+... Quoi !?
+
+[06787.022]
+Une Sainte, je te dis. Une femme qui peut faire des miracles. Il y a une certaine Elraine qui est comme ça.
+
+[06787.024]
+Elraine...
+
+[06787.026]
+Oui, et cette Elraine, elle porte le même pendentif que toi, {NAME:02 00 00 00}. Et quand elle use de son pouvoir, le pendentif brille...
+
+[06787.028]
+... Ah ! Ce pendentif, il n’aurait pas un pouvoir incroyable, par hasard ? Avec lui, moi aussi, je pourrais faire des miracles !?
+
+[06787.030]
+C’est que...
+
+[06787.032]
+Je plaisaaante ! Ça ne peut pas être ça. Ton pendentif, je l’ai ramassé une fois, et il ne s’est rien passé de spécial.
+
+[06787.034]
+Donc c’est bien ton pouvoir à toi, {NAME:02 00 00 00}. Vraiment, c’est incroyable !
+
+[06787.036]
+... Mais non. Mon pouvoir est encore bien faible.
+
+[06787.038]
+Cette fois, ça a marché par hasard. Si on me demandait de refaire la même chose...
+
+[06787.040]
+{NAME:02 00 00 00}...
+
+[06787.042]
+« Continue de croire en toi et en l’autre. Alors, à la fin, tout ira bien, c’est sûr. »
+
+[06787.044]
+Hein ?
+
+[06787.046]
+C’est {NAME:03 00 00 00} qui me l’a appris. Ce sont les mots de papa, il paraît.
+
+[06787.048]
+Depuis que je suis ici, on m’a raconté plein de choses sur papa.
+
+[06787.050]
+Papa aussi était un enfant ordinaire, pas différent de moi : il faisait des farces, il faisait des gaffes.
+
+[06787.052]
+Alors je me suis dit que moi aussi, je pourrais peut-être devenir un héros.
+
+[06787.054]
+Mais... {NAME:03 00 00 00} m’a appris ces mots-là.
+
+[06787.056]
+Continuer de croire en soi et en l’autre...
+
+[06787.058]
+C’est très difficile, ça, je le sens bien, moi aussi.
+
+[06787.060]
+Mais papa, lui, il y arrivait. C’est pour ça qu’il est devenu un héros.
+
+[06787.062]
+Alors... moi aussi, je vais essayer ! Croire en moi, en tout le monde... et en toi, {NAME:02 00 00 00} !
+
+[06787.064]
+{NAME:01 00 00 00}...
+
+[06787.066]
+Tu disais que tu ne savais pas si tu pourrais refaire ce que tu as fait l’autre jour, mais...
+
+[06787.068]
+Moi, je pense que si ! Toi, {NAME:02 00 00 00}, tu y arriveras, j’en suis sûr !
+
+[06787.070]
+Alors toi aussi, {NAME:02 00 00 00}, essaie d’y croire. En toi... et en nous.
+
+[06787.072]
+... Oui !
+
+[06787.074]
+Allons-y, {NAME:02 00 00 00}. Tout le monde nous attend !
+
+[06787.075]
+Bon voyage.
+
+[06787.076]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06787.077]
+Voulez-vous passer la nuit ?
+
+[06787.079]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06787.080]
+Reposez-vous bien.
+
+[06787.081]
+Bonjour.
+
+[06787.082]
+Vous n’avez pas assez d’argent.
+
+[06787.083]
+Au plaisir de vous revoir.
+
+[06787.088]
+Obtenu : {16:25 C6}.
+
+[06787.090]
+Obtenu : {08:FF FF FF FF}.
+
+[06787.092]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06787.094]
+Il n’y a rien ici.
+

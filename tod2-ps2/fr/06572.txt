@@ -1,0 +1,245 @@
+[06572.001]
+Base de l’armée terrestre
+
+[06572.002]
+Base de l’armée terrestre
+
+[06572.004]
+C’est l’Ixifosler qu’on a utilisé à notre époque, ça ?
+
+[06572.006]
+Il n’était donc pas terminé pendant la guerre du Ciel et de la Terre.
+
+[06572.008]
+Une sorte de moteur ? Qu’est-ce que cela peut bien être...
+
+[06572.009]
+Garçon
+
+[06572.010]
+Il paraît que c’est le bloc moteur d’une cité aérienne. On est allé le tirer exprès d’une cité aérienne qui s’était écrasée.
+
+[06572.011]
+Garçon
+
+[06572.012]
+C’est une pièce précieuse. Avec la technique d’aujourd’hui, impossible de refaire la même. Les gens d’autrefois étaient vraiment forts.
+
+[06572.014]
+Obtenu : {08:12 00 00 00}.
+
+[06572.016]
+Il y a là des ouvrages d’aérodynamique.
+
+[06572.017]
+Dymlos
+
+[06572.018]
+Il ne reste plus que vous. Quand vous serez prêts, montez à bord.
+
+[06572.020]
+Êtes-vous prêts ?
+
+[06572.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06572.023]
+Scientifique
+
+[06572.024]
+Ceci est une machine volante en cours de mise au point.
+
+[06572.025]
+Scientifique
+
+[06572.026]
+Faute de pièces, le travail n’avance pas : hélas, elle ne pourra pas servir au combat.
+
+[06572.027]
+Scientifique
+
+[06572.028]
+Avec des pièces convenables, je la terminerais tout de suite, pourtant.
+
+[06572.029]
+Scientifique
+
+[06572.030]
+Bah, je la construirai tranquillement après la guerre.
+
+[06572.031]
+Scientifique
+
+[06572.032]
+À la base, il n’y a aucun endroit qui puisse servir de terrain de jeu aux enfants.
+
+[06572.033]
+Scientifique
+
+[06572.034]
+Alors je leur ai prêté le hangar pour jouer, mais...
+
+[06572.035]
+Scientifique
+
+[06572.036]
+Quel vacarme, je ne vous dis pas ! Mes recherches n’avancent plus, c’est bien ennuyeux.
+
+[06572.037]
+Scientifique
+
+[06572.038]
+Ces petits ne voudraient-ils pas prendre ma suite et devenir scientifiques ?
+
+[06572.039]
+Scientifique
+
+[06572.040]
+Et s’ils construisaient un jour des machines utiles au monde, j’en serais heureux.
+
+[06572.041]
+Garçon
+
+[06572.042]
+Moi, je serai scientifique, et je construirai plein de machines utiles au monde !
+
+[06572.043]
+Garçon
+
+[06572.044]
+Pour ça, il faut que j’étudie plein de choses dès maintenant.
+
+[06572.045]
+Garçon
+
+[06572.046]
+Je fonderai ma propre compagnie, et je vendrai des machines utiles.
+
+[06572.047]
+Garçon
+
+[06572.048]
+Pour le nom, je prendrai le mien : la « compagnie Oberon », ça ira ?
+
+[06572.049]
+Enfant
+
+[06572.050]
+On s’ennuie tous les jours~. Pourquoi on n’a pas le droit d’aller loin d’ici ?
+
+[06572.051]
+Enfant
+
+[06572.052]
+C’est pas drôle, la guerre.
+
+[06572.053]
+Enfant
+
+[06572.054]
+Maman était embêtée : elle dit que les rations ont diminué, ces temps-ci.
+
+[06572.055]
+Enfant
+
+[06572.056]
+Pourquoi on ne peut pas manger à notre faim ?
+
+[06572.057]
+Enfant
+
+[06572.058]
+Mon papa, il est parti dans un endroit qui s’appelle « l’armée célesse ».
+
+[06572.059]
+Enfant
+
+[06572.060]
+Il y a très longtemps, il a dit « Je participe à la révolussion », et il est parti.
+
+[06572.061]
+Enfant
+
+[06572.062]
+Je reverrai mon papa, un jour ?
+
+[06572.063]
+Fillette
+
+[06572.064]
+Depuis combien d’années je n’ai pas vu le soleil...
+
+[06572.065]
+Fillette
+
+[06572.066]
+Le ciel bleu, je ne m’en souviens plus.
+
+[06572.067]
+Fillette
+
+[06572.068]
+La neige s’arrêtera-t-elle avant que je sois grande ?
+
+[06572.069]
+Fillette
+
+[06572.070]
+Les grands s’agitent en disant que la guerre va bientôt finir, mais est-ce vrai ?
+
+[06572.071]
+Fillette
+
+[06572.072]
+Je voudrais vite jouer dehors tant que je veux.
+
+[06572.073]
+Fillette
+
+[06572.074]
+Un jour, je voudrais rejouer sous le soleil.
+
+[06572.076]
+Vole~, vole~, fusée~♪ Crache ton carburant, lance tes flammes~♪
+
+[06572.078]
+Obtenu : {08:41 00 00 00}.
+
+[06572.079]
+Bon voyage.
+
+[06572.080]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06572.081]
+Voulez-vous passer la nuit ?
+
+[06572.083]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06572.084]
+Reposez-vous bien.
+
+[06572.085]
+Bonjour.
+
+[06572.086]
+Vous n’avez pas assez d’argent.
+
+[06572.087]
+Au plaisir de vous revoir.
+
+[06572.092]
+Obtenu : {16:25 C2}.
+
+[06572.094]
+Obtenu : {08:FF FF FF FF}.
+
+[06572.096]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06572.098]
+Il n’y a rien ici.
+

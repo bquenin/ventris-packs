@@ -1,0 +1,21 @@
+[00558.001]
+Aïeuuh ! Cette {NAME:05 00 00 00}, si seulement elle guérissait de cette brutalité, elle serait un peu regardable.
+
+[00558.002]
+C’est toi qui la rends brutale, {NAME:03 00 00 00}, non ? Si vous vous taisiez, vous iriez plutôt bien ensemble, tous les deux...
+
+[00558.003]
+Cré~tin ! Il y a une fille bien plus digne de moi. Douce, belle, pure comme un lys des champs.
+
+[00558.004]
+Où ça ?
+
+[00558.005]
+O-o-où ça ? Ben, tu sais... euh... dans un coin lointain du monde...
+
+[00558.006]
+Jamais, donc...
+
+[00558.007]
+Chut !
+

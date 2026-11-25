@@ -1,0 +1,43 @@
+[06336.001]
+Ruines de Laguna
+
+[06336.002]
+Ruines de Laguna
+
+[06336.003]
+Bon voyage.
+
+[06336.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06336.005]
+Voulez-vous passer la nuit ?
+
+[06336.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06336.008]
+Reposez-vous bien.
+
+[06336.009]
+Bonjour.
+
+[06336.010]
+Vous n’avez pas assez d’argent.
+
+[06336.011]
+Au plaisir de vous revoir.
+
+[06336.016]
+Obtenu : {16:25 BE}.
+
+[06336.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06336.020]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06336.022]
+Il n’y a rien ici.
+

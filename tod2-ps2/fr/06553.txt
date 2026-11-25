@@ -1,0 +1,259 @@
+[06553.001]
+Realta, la Cité du crépuscule
+
+[06553.002]
+Realta, la Cité du crépuscule
+
+[06553.004]
+Personne... ?
+
+[06553.006]
+En haut, {NAME:01 00 00 00} !
+
+[06553.008]
+Aux âmes pieuses, les bienfaits de la déesse... !
+
+[06553.009]
+Habitant
+
+[06553.010]
+Ooh... la force... !
+
+[06553.011]
+Habitant
+
+[06553.012]
+Grâces soient rendues, grâces soient rendues...
+
+[06553.014]
+C’était quoi, ça... !?
+
+[06553.016]
+C’est sans doute ainsi que, depuis Dycroft, elle donne de la force aux Lentilles des gens.
+
+[06553.018]
+Regarder d’en haut, du ciel, et distribuer la force... Hah ! Elle se prend pour une déesse ?
+
+[06553.020]
+Attendez... Mais oui, il y avait ce moyen !
+
+[06553.022]
+Qu’est-ce qu’il y a, {NAME:04 00 00 00} ?
+
+[06553.024]
+Des Lentilles pour voyager dans le temps, il y en a des montagnes, là-haut.
+
+[06553.026]
+Ce qui est projeté, c’est la force des Lentilles. Il doit donc y avoir à Dycroft une quantité considérable de Lentilles.
+
+[06553.028]
+Je vois ! On va se servir de ces Lentilles-là, c’est ça !
+
+[06553.030]
+Alors, au passage, allons rabattre le caquet d’Elraine ! Tant que je ne lui aurai pas collé un bon coup de poing, je ne décolérerai pas !
+
+[06553.032]
+Bon, c’est décidé ! Alors...
+
+[06553.034]
+Dites, Elraine est là-haut, n’est-ce pas !?
+
+[06553.035]
+Habitant
+
+[06553.036]
+Oui, c’est cela. De ce château, elle veille toujours sur nous.
+
+[06553.038]
+Et dites, comment on fait pour y aller !?
+
+[06553.039]
+Habitant
+
+[06553.040]
+On passe par le « Sanctuaire de Lumière ». Vous ne le savez pas ?
+
+[06553.042]
+Le « Sanctuaire de Lumière » ?
+
+[06553.043]
+Habitant
+
+[06553.044]
+C’est le sanctuaire sacré qui, dit-on, relie cette terre à Dycroft.
+
+[06553.046]
+Alors, en y allant, on peut monter à Dycroft ?
+
+[06553.047]
+Habitant
+
+[06553.048]
+Hahaha, ce n’est pas si simple. Seuls ceux qui en sont dignes peuvent aller à Dycroft.
+
+[06553.049]
+Habitant
+
+[06553.050]
+Et l’endroit où on le vérifie, c’est justement le Sanctuaire de Lumière.
+
+[06553.051]
+Habitant
+
+[06553.052]
+Mais moi aussi, j’aimerais y aller un jour. Pour cela, il faut vivre chaque jour de toutes ses forces et s’élever soi-même.
+
+[06553.054]
+Ceux qui en sont dignes, hein... Est-ce qu’on l’est, nous ? Je me le demande.
+
+[06553.056]
+Dignes ou pas, peu importe : on monte à l’assaut de Dycroft, voilà tout ! Allons-y, au Sanctuaire de Lumière !
+
+[06553.058]
+Une atmosphère étrange enveloppe la place.
+
+[06553.059]
+Habitant
+
+[06553.060]
+Le « Sanctuaire de Lumière » ? Pour y aller, on prend le sentier de montagne derrière la ville.
+
+[06553.061]
+Habitant
+
+[06553.062]
+Une fois en haut de la montagne, avancez vers le nord-ouest.
+
+[06553.063]
+Homme
+
+[06553.064]
+Naître, avoir des enfants, puis mourir... Quoi de plus naturel ?
+
+[06553.065]
+Homme
+
+[06553.066]
+Mon oncle vient de mourir. Il avait un visage vraiment paisible.
+
+[06553.068]
+... Pourquoi vous souriez ? Vous n’êtes pas triste ?
+
+[06553.069]
+Homme
+
+[06553.070]
+Triste ? Pourquoi ? Il a fini son rôle de vivant : il est normal qu’il meure, non ?
+
+[06553.071]
+Jeune femme
+
+[06553.072]
+Ici, ni les saisons ni la température ne comptent. On vit toujours dans le confort.
+
+[06553.073]
+Je n’en ai jamais entendu que des récits, mais le monde du dehors est un endroit très froid, n’est-ce pas ?
+
+[06553.075]
+Je vois : sous un dôme, le chaud et le froid, ça n’existe pas. C’est un peu fade, comme vie.
+
+[06553.077]
+Mais... personne ne meurt de froid non plus. Ça... c’est une bonne chose, non ?
+
+[06553.078]
+Enfant
+
+[06553.079]
+Dame Elraine, merci pour la vie, aujourd’hui encore.
+
+[06553.080]
+Enfant
+
+[06553.081]
+Dame Elraine, merci pour la vie, aujourd’hui encore.
+
+[06553.083]
+Même un enfant aussi petit offre ses prières à Elraine...
+
+[06553.085]
+C’est comme à Aigrette. Dès la naissance, on leur inculque bien comme il faut ce qu’ils doivent à dame Elraine.
+
+[06553.086]
+Enfant
+
+[06553.087]
+Moi, je veux entrer dans l’Ordre de Fortuna et aller auprès de dame Elraine.
+
+[06553.088]
+Enfant
+
+[06553.089]
+Moi, je veux entrer dans l’Ordre de Fortuna et aller auprès de dame Elraine.
+
+[06553.090]
+Enfant
+
+[06553.091]
+Alors je prie beaucoup, beaucoup, pour que dame Elraine me remarque !
+
+[06553.093]
+Même un enfant pareil est parfaitement endoctriné... Vraiment, sa minutie est effrayante.
+
+[06553.094]
+Enfant
+
+[06553.095]
+Moi aussi, je voudrais être parmi les préférés de dame Elraine, comme vous !
+
+[06553.096]
+Enfant
+
+[06553.097]
+Vous n’avez pas besoin de Lentille : c’est fort, ça !
+
+[06553.099]
+A-ah bon ?
+
+[06553.100]
+Enfant
+
+[06553.101]
+Dame Elraine vous a donné un pouvoir spécial, hein ? Elle doit vous aimer beaucoup !
+
+[06553.102]
+Bon voyage.
+
+[06553.103]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06553.104]
+Voulez-vous passer la nuit ?
+
+[06553.106]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06553.107]
+Reposez-vous bien.
+
+[06553.108]
+Bonjour.
+
+[06553.109]
+Vous n’avez pas assez d’argent.
+
+[06553.110]
+Au plaisir de vous revoir.
+
+[06553.115]
+Obtenu : {16:27 52}.
+
+[06553.117]
+Obtenu : {08:FF FF FF FF}.
+
+[06553.119]
+Trouvé : {16:27 5A}, mais vous n’avez plus de place.
+
+[06553.121]
+Il n’y a rien ici.
+

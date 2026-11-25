@@ -1,0 +1,320 @@
+[06613.001]
+Dycroft, il y a dix-huit ans
+
+[06613.002]
+Dycroft, il y a dix-huit ans
+
+[06613.004]
+Dymlos
+
+[06613.005]
+C’est bien ainsi, Stahn. Nous avons vécu trop longtemps...
+
+[06613.006]
+Stahn
+
+[06613.007]
+........
+................
+
+[06613.008]
+Stahn
+
+[06613.009]
+Deyaaaaah !
+
+[06613.010]
+Woodrow
+
+[06613.011]
+Vite, Stahn ! Tout va bientôt s’effondrer ici !
+
+[06613.012]
+Stahn
+
+[06613.013]
+... Gh, bon sang !
+
+[06613.015]
+H-hé, qu’est-ce qui se passe !? Il ne se passe rien du tout !
+
+[06613.017]
+Ce n’est pas possible ! Une fois les Swordians plantés, la force de l’Œil de Dieu doit briser la Coque externe, non !?
+
+[06613.019]
+L’énergie de l’Œil de Dieu dépasse de très peu la force des Swordians...
+
+[06613.021]
+Voilà pourquoi ils n’arrivent pas à le maîtriser. Il ne manque qu’une poussée...
+
+[06613.023]
+Comment faire, comment... !
+
+[06613.024]
+Dymlos
+
+[06613.025]
+Mille ans déjà... Cela faisait longtemps, {NAME:01 00 00 00}.
+
+[06613.026]
+Dymlos
+
+[06613.027]
+... Encore que, pour vous, cela n’ait pas dû être bien long.
+
+[06613.029]
+...... ! Cette voix... Dymlos !?
+
+[06613.030]
+Dymlos
+
+[06613.031]
+Hélas, {NAME:06 00 00 00} a raison. À nous seuls, la force nous manque, semble-t-il. Et à cela, il n’y a rien à faire...
+
+[06613.033]
+Mais ce n’est pas une raison pour renoncer ! Il doit y avoir un moyen, forcément... !
+
+[06613.034]
+Dymlos
+
+[06613.035]
+Il y a un moyen, un seul. Mais il est impossible...
+
+[06613.037]
+Impossible, on ne le sait pas tant qu’on n’a pas essayé ! Dites-le-moi, Dymlos !
+
+[06613.039]
+Cesse ce tapage, {NAME:01 00 00 00}. Tu te donnes en spectacle.
+
+[06613.041]
+{NAME:04 00 00 00}... ?
+
+[06613.043]
+Tais-toi et regarde.
+
+[06613.044]
+Chaltier
+
+[06613.045]
+Eh bien, je vous ai fait attendre, tous. Pardon du retard.
+
+[06613.046]
+Dymlos
+
+[06613.047]
+T-toi... Chaltier !?
+
+[06613.048]
+Clemente
+
+[06613.049]
+Ho, paraître de cette façon : c’est bien de toi, esprit de contradiction...
+
+[06613.050]
+Atwight
+
+[06613.051]
+Tous les Swordians sont réunis. Ainsi, sûrement... !
+
+[06613.052]
+Barbatos
+
+[06613.053]
+Fini de jouer aux héros ! Vous mourrez ici, et moi avec vous !
+
+[06613.055]
+B-Barbatos... !
+
+[06613.057]
+Ce monde doit être sauvé par Stahn et les siens.
+
+[06613.059]
+Quiconque y fait obstacle... je ne le lui pardonnerai pas !
+
+[06613.061]
+Tu n’as plus nulle part où fuir. Prépare-toi, Barbatos !
+
+[06613.062]
+Barbatos
+
+[06613.063]
+H-hé hé hé... Me préparer !? Un gamin comme toi, m’abattre, moi !?
+
+[06613.064]
+Barbatos
+
+[06613.065]
+Personne ne peut m’abattre ! Personnnne !!
+
+[06613.067]
+B-Barbatos... !
+
+[06613.068]
+Barbatos
+
+[06613.069]
+Ne te méprends pas, {NAME:01 00 00 00}. Ce n’est pas toi qui m’as abattu !
+
+[06613.070]
+Barbatos
+
+[06613.071]
+C’est de ma main que je choisis la mort !! Hé hé hé... Aah ha ha ha !
+
+[06613.073]
+A-attends, Barbatos !
+
+[06613.074]
+Barbatos
+
+[06613.075]
+Gwoooaaaaaah !!!!
+
+[06613.076]
+Dymlos
+
+[06613.077]
+... Jusqu’au lieu de sa mort, il le choisit de sa propre volonté. Égoïste jusqu’au bout...
+
+[06613.078]
+Igtenos
+
+[06613.079]
+Nous n’avons pas le loisir de nous attendrir. À ce train, la force de l’Œil de Dieu va nous engloutir.
+
+[06613.081]
+{NAME:04 00 00 00} ! Qu’est-ce que tu comptes faire !?
+
+[06613.083]
+C’est Chaltier. S’il le plante là, la force des Swordians dépassera celle de l’Œil de Dieu, et ils pourront le maîtriser.
+
+[06613.085]
+Après, il n’y a qu’à mettre l’Œil de Dieu en surcharge pour détruire la Coque externe : voilà le principe.
+
+[06613.087]
+Mais oui ! {NAME:04 00 00 00}, c’est Leon : il avait un Swordian, lui aussi !
+
+[06613.089]
+Mais alors...
+
+[06613.090]
+Dymlos
+
+[06613.091]
+... Es-tu sûr, Leon ? Tu vas perdre Chaltier.
+
+[06613.093]
+Je l’ai dit : ce monde doit être sauvé de la main de Stahn et des siens.
+
+[06613.094]
+Igtenos
+
+[06613.095]
+... Un Swordian et celui qui le manie ne font qu’un. Et il faut que ce soit son maître qui l’efface de sa main...
+
+[06613.096]
+Clemente
+
+[06613.097]
+Le destin est-il donc si cruel ?
+
+[06613.099]
+... Pardonne-moi, Chal. Je...
+
+[06613.100]
+Chaltier
+
+[06613.101]
+Ce n’est rien, jeune maître. Dymlos l’a dit tout à l’heure, n’est-ce pas ? Nous avons vécu trop longtemps.
+
+[06613.102]
+Chaltier
+
+[06613.103]
+Et puis, à vrai dire, veiller sur vous, jeune maître, m’a fatigué... voyez-vous.
+
+[06613.105]
+Cela tombe bien. Je me disais justement que je ne supportais plus tes remontrances.
+
+[06613.106]
+Chaltier
+
+[06613.107]
+Eh bien, puisque c’est ainsi, finissons-en vite.
+
+[06613.108]
+Chaltier
+
+[06613.109]
+Ah, et puis.
+
+[06613.111]
+... Il y a encore quelque chose ? Si tu as à parler, fais vite : le temps presse.
+
+[06613.112]
+Chaltier
+
+[06613.113]
+Être avec vous, jeune maître, m’a fatigué, c’est vrai... mais c’était bien agréable.
+
+[06613.115]
+... Pour moi aussi. Pour tout... merci.
+
+[06613.116]
+Chaltier
+
+[06613.117]
+Cela ne vous ressemble pas, jeune maître.
+
+[06613.119]
+Toi non plus, Chal.
+
+[06613.121]
+Allons-y, Chal !!
+
+[06613.122]
+Chaltier
+
+[06613.123]
+Oui !!
+
+[06613.125]
+Daaaaaah !!
+
+[06613.126]
+Bon voyage.
+
+[06613.127]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06613.128]
+Voulez-vous passer la nuit ?
+
+[06613.130]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06613.131]
+Reposez-vous bien.
+
+[06613.132]
+Bonjour.
+
+[06613.133]
+Vous n’avez pas assez d’argent.
+
+[06613.134]
+Au plaisir de vous revoir.
+
+[06613.139]
+Obtenu : {16:26 BE}.
+
+[06613.141]
+Obtenu : {08:FF FF FF FF}.
+
+[06613.143]
+Trouvé : {16:26 C6}, mais vous n’avez plus de place.
+
+[06613.145]
+Il n’y a rien ici.
+

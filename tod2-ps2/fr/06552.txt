@@ -1,0 +1,321 @@
+[06552.001]
+Realta : centre de soins
+
+[06552.002]
+Realta, la Cité du crépuscule
+
+[06552.003]
+Centre de soins
+
+[06552.004]
+Vieil homme
+
+[06552.005]
+Les vieux meurent et cèdent la place à ceux qui naîtront après eux. C’est bien naturel, non ?
+
+[06552.006]
+Vieil homme
+
+[06552.007]
+Et puis, après la mort, on reçoit cette fois le bonheur éternel auprès de la déesse Fortuna.
+
+[06552.008]
+Vieil homme
+
+[06552.009]
+À mon âge, forcément, si je ne passe pas sans cesse dans la capsule, le corps ne tient plus.
+
+[06552.010]
+Vieil homme
+
+[06552.011]
+Il est peut-être temps. Mourir pour la génération suivante, ce serait peut-être bien.
+
+[06552.013]
+Hé là, ce n’est pas rassurant, ça. Vous comptez vous tuer ?
+
+[06552.014]
+Vieil homme
+
+[06552.015]
+J’ai bien assez vécu. Céder la place à ceux qui naîtront, c’est bien naturel, non ?
+
+[06552.017]
+N’empêche, se tuer, moi, je trouve ça plutôt inquiétant, vous savez ?
+
+[06552.019]
+Mais... c’est peut-être parce que sa vie a été heureuse jusqu’ici qu’une idée pareille peut lui venir...
+
+[06552.021]
+Je m’y attendais, mais... pas de château, évidemment.
+
+[06552.023]
+Puisque ce n’est pas Heidelberg, ni le château ni Woodrow, qui l’habite, n’existent.
+
+[06552.025]
+........
+
+[06552.026]
+Habitant
+
+[06552.027]
+L’histoire est-elle si importante ? L’essentiel, c’est de vivre le présent.
+
+[06552.029]
+Dites, il y a un certain Woodrow dans cette ville ? Normalement, on l’appelle le Roi-Héros.
+
+[06552.030]
+Habitant
+
+[06552.031]
+Woodrow... ? Ne voulez-vous pas dire messire Barbatos ?
+
+[06552.032]
+Habitant
+
+[06552.033]
+Qui dit héros dit messire Barbatos. C’est lui qui, avec dame Elraine, a sauvé le monde du chaos.
+
+[06552.035]
+Barbatos, le héros qui a sauvé le monde !?
+
+[06552.036]
+Habitant
+
+[06552.037]
+Vous l’ignorez ? Demandez à quelqu’un de l’Ordre de Fortuna, on vous l’expliquera.
+
+[06552.039]
+Non, nous voulons chercher par nous-mêmes. Y a-t-il dans cette ville une bibliothèque où étudier l’histoire ?
+
+[06552.040]
+Habitant
+
+[06552.041]
+Où étudier l’histoire... J’ai entendu dire qu’il existait autrefois un tel endroit.
+
+[06552.042]
+Habitant
+
+[06552.043]
+Mais plus personne ne s’en servait, et l’on ne sait plus où il se trouve, paraît-il.
+
+[06552.045]
+Je vois...
+
+[06552.047]
+Barbatos, un héros !? Mais qu’est-ce que ça veut dire !?
+
+[06552.049]
+Sans doute Barbatos a-t-il prêté main-forte à Elraine quand elle est intervenue dans l’histoire.
+
+[06552.051]
+Toutes les réponses sont à la bibliothèque... hein. Mais que l’endroit où elle se trouve soit lui-même un mystère...
+
+[06552.053]
+Plus personne ne s’en servait... c’est ce qu’il a dit, non ? Alors les gens d’ici ne s’intéressent pas à l’histoire ?
+
+[06552.055]
+Je crois que des jours paisibles, où il ne se passe rien, se sont répétés si longtemps qu’apprendre l’histoire a perdu son sens.
+
+[06552.057]
+On apprend l’histoire pour réfléchir aux fautes du passé et bâtir un avenir meilleur.
+
+[06552.059]
+Mais l’avenir de ce monde, c’est Elraine qui en décide. Nul besoin, dès lors, d’apprendre l’histoire... C’est donc cela.
+
+[06552.061]
+Mais c’est peut-être la preuve que ce monde a vraiment connu la paix jusqu’ici...
+
+[06552.063]
+... Peut-être bien. Mais ça reste anormal ! Qu’un autre décide de ton avenir !
+
+[06552.065]
+Oui...
+
+[06552.067]
+Quoi qu’il en soit, cherchons la bibliothèque. Tous les mystères devraient s’y éclaircir.
+
+[06552.068]
+Chef
+
+[06552.069]
+{16:34 7C} : tu en prépares ?
+
+[06552.070]
+Chef
+
+[06552.071]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06552.073]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06552.074]
+Chef
+
+[06552.075]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06552.076]
+Chef
+
+[06552.077]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06552.078]
+Chef
+
+[06552.079]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06552.081]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06552.082]
+Chef
+
+[06552.083]
+Tu n’as pas assez d’argent.
+
+[06552.084]
+Chef
+
+[06552.085]
+Je te vends la recette : {16:34 7C}.
+
+[06552.086]
+Chef
+
+[06552.087]
+Bah, tant pis.
+
+[06552.088]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06552.089]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.090]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.091]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.092]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.093]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06552.094]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.095]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06552.096]
+Chef
+
+[06552.097]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06552.098]
+Chef
+
+[06552.099]
+Mais tu as les ingrédients.
+
+[06552.100]
+Chef
+
+[06552.101]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06552.103]
+{03:00 00 00 00}　Oui
+　Non
+
+[06552.104]
+Chef
+
+[06552.105]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06552.106]
+Chef
+
+[06552.107]
+Dommage. C’est vraiment délicieux...
+
+[06552.108]
+Chef
+
+[06552.109]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06552.110]
+Chef
+
+[06552.111]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06552.112]
+Chef
+
+[06552.113]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06552.115]
+Recette ramassée : {16:34 7C}.
+
+[06552.117]
+Recette apprise : {16:34 90}.
+
+[06552.118]
+Bon voyage.
+
+[06552.119]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06552.120]
+Voulez-vous passer la nuit ?
+
+[06552.122]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06552.123]
+Reposez-vous bien.
+
+[06552.124]
+Bonjour.
+
+[06552.125]
+Vous n’avez pas assez d’argent.
+
+[06552.126]
+Au plaisir de vous revoir.
+
+[06552.131]
+Obtenu : {16:25 DE}.
+
+[06552.133]
+Obtenu : {08:FF FF FF FF}.
+
+[06552.135]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06552.137]
+Il n’y a rien ici.
+

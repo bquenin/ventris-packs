@@ -1,0 +1,9 @@
+[00112.001]
+Allez, {NAME:01 00 00 00}. Il serait temps de te lever.
+
+[00112.002]
+Mmm...... encore un tout petit peu~.
+
+[00112.003]
+Vraiment... À te vider chaque jour, impossible de te lever.
+

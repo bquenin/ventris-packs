@@ -1,0 +1,271 @@
+[06321.001]
+Orphelinat Dunamis
+
+[06321.002]
+Orphelinat Dunamis
+
+[06321.003]
+Rim
+
+[06321.004]
+Ouf. Lessive terminée !
+
+[06321.005]
+Rim
+
+[06321.006]
+Tout le monde se roule dans la boue sans se gêner, alors c’est du travail~
+
+[06321.008]
+Rim fera une bonne épouse, je parie.
+
+[06321.009]
+Rim
+
+[06321.010]
+Grand frère {NAME:01 00 00 00}, et toi aussi, grand frère {NAME:03 00 00 00}, ne salissez pas trop vos habits.
+
+[06321.012]
+Désolé pour le dérangement...
+
+[06321.013]
+Rim
+
+[06321.014]
+Ouf. Lessive terminée !
+
+[06321.015]
+Rim
+
+[06321.016]
+Tout le monde se roule dans la boue sans se gêner, alors c’est du travail~
+
+[06321.018]
+Bonjour... Rim... Zzz...
+
+[06321.019]
+Rim
+
+[06321.020]
+Oh là là. Grand frère {NAME:01 00 00 00}, tu baves.
+
+[06321.021]
+Rim
+
+[06321.022]
+Ah, grand frère {NAME:01 00 00 00}, tu es vraiment négligé.
+
+[06321.023]
+Rim
+
+[06321.024]
+Grand frère {NAME:01 00 00 00}, ne salis pas trop tes habits.
+
+[06321.026]
+Pardon. Je crois qu’ils seront encore sales aujourd’hui...
+
+[06321.027]
+Rim
+
+[06321.028]
+Oh... ! Tes habits à toi, grand frère {NAME:01 00 00 00}, ce sont les plus durs à laver~ !
+
+[06321.029]
+Rim
+
+[06321.030]
+Oh... Grand frère {NAME:01 00 00 00}, tu as encore sali tes habits.
+
+[06321.031]
+Rim
+
+[06321.032]
+Tu as ton mouchoir et tes mouchoirs en papier ? Tu n’oublies rien ?
+
+[06321.034]
+Rim, ne parle pas comme maman~
+
+[06321.035]
+Rim
+
+[06321.036]
+C’est que toi, grand frère {NAME:01 00 00 00}, pour ces choses-là, tu es nul de chez nul.
+
+[06321.037]
+Rim
+
+[06321.038]
+Grand frère {NAME:01 00 00 00}, ta lessive, il faut la faire toi-même comme il faut !
+
+[06321.040]
+Oui...
+
+[06321.041]
+Rim
+
+[06321.042]
+Ah, bon retour, grand frère {NAME:01 00 00 00} ! Si tu as du linge sale, sors-le.
+
+[06321.043]
+Rim
+
+[06321.044]
+C’est du balcon qu’on a la plus belle vue, hein.
+
+[06321.045]
+Rim
+
+[06321.046]
+Quand papa Stahn rentrera, est-ce que je serai la première à le voir ?
+
+[06321.047]
+Rim
+
+[06321.048]
+Hmm... Elle, c’est ton amoureuse, grand frère ?
+
+[06321.050]
+Quoi ! M-mais non... son amoureuse, enfin... !!
+
+[06321.051]
+Rim
+
+[06321.052]
+Toi... tu laves les habits de grand frère {NAME:01 00 00 00} ?
+
+[06321.054]
+Oui... De temps en temps...
+
+[06321.056]
+Rim, arrête... !!
+
+[06321.057]
+Rim
+
+[06321.058]
+Ah, bon retour, grand frère {NAME:01 00 00 00} ! Si tu as du linge sale, sors-le.
+
+[06321.059]
+Rim
+
+[06321.060]
+Les habits de grand frère {NAME:01 00 00 00}, c’est moi qui les ai lavés tou~t ce temps.
+
+[06321.061]
+Rim
+
+[06321.062]
+Bon, la lessive est finie ! Aah, que de travail !
+
+[06321.063]
+Rim
+
+[06321.064]
+Avec leurs exercices d’escrime, papa Stahn et grand frère {NAME:01 00 00 00} salissent leurs habits en un rien de temps, tu vois !
+
+[06321.065]
+Rim
+
+[06321.066]
+Grand frère {NAME:01 00 00 00}, sortir, c’est bien, mais mets ton linge sale au panier avant.
+
+[06321.068]
+Oui...
+
+[06321.069]
+Rim
+
+[06321.070]
+Pas de dialogue défini pour ce drapeau.
+
+[06321.072]
+Ah, la voilà. Mam...
+
+[06321.074]
+Attends, {NAME:01 00 00 00}. Approche ton oreille.
+
+[06321.076]
+Pas mal, ça. On le fait, {NAME:03 00 00 00} !
+
+[06321.078]
+À la une, à la deux...
+
+[06321.080]
+{05:00 02 00 00}Bouh !
+
+[06321.082]
+{05:00 02 00 00}Bouh !
+
+[06321.083]
+Rutee
+
+[06321.084]
+Kyaa !
+
+[06321.085]
+Rutee
+
+[06321.086]
+{NAME:01 00 00 00} ! Espèce de petit... !!
+
+[06321.087]
+Rutee
+
+[06321.088]
+... {NAME:03 00 00 00} !?
+
+[06321.090]
+Hé hé hé... Me revoilà, Rutee.
+
+[06321.091]
+Rutee
+
+[06321.092]
+Non mais, quel garnement ! Pas une seule lettre depuis que tu es entré dans l’Ordre d’Atamoni... ! Je me suis fait du souci, idiot !
+
+[06321.094]
+A-attends, Rutee ! J’é-j’étouffe... ! Gaaaah... !!
+
+[06321.096]
+Quel beau temps. Ça me donne sommeil...
+
+[06321.098]
+Mmh... J’ai envie de m’enrouler dans cette couette et de dormir...
+
+[06321.099]
+Bon voyage.
+
+[06321.100]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06321.101]
+Voulez-vous passer la nuit ?
+
+[06321.103]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06321.104]
+Reposez-vous bien.
+
+[06321.105]
+Bonjour.
+
+[06321.106]
+Vous n’avez pas assez d’argent.
+
+[06321.107]
+Au plaisir de vous revoir.
+
+[06321.112]
+Obtenu : {16:25 C6}.
+
+[06321.114]
+Obtenu : {08:FF FF FF FF}.
+
+[06321.116]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06321.118]
+Il n’y a rien ici.
+

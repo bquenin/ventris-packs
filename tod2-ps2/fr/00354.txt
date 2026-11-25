@@ -1,0 +1,21 @@
+[00354.001]
+Dis, {NAME:05 00 00 00}... tu voudrais bien m’apprendre à coudre, à moi aussi, un de ces jours ?
+
+[00354.002]
+Je veux bien, mais...... ça coud, une Sainte ?
+
+[00354.003]
+... Je n’aime pas beaucoup qu’on parle de moi comme ça.
+
+[00354.004]
+... Pardon, j’ai eu tort... Je vois, bien sûr. Tu voudrais recoudre toi-même la chemise de ton amoureux, c’est ça♪
+
+[00354.005]
+N-non ! Moi, c’est juste que, pour {NAME:01 00 00 00}...
+
+[00354.006]
+Hm... On parle de moi ?
+
+[00354.007]
+R-rien !
+

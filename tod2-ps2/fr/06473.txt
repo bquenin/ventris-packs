@@ -1,0 +1,91 @@
+[06473.001]
+Cherik : armes
+
+[06473.002]
+Cherik
+
+[06473.003]
+Armes
+
+[06473.005]
+Des articles de toutes sortes sont alignés.
+
+[06473.007]
+Des armes aux formes singulières sont alignées.
+
+[06473.008]
+Marchand d’armes
+
+[06473.009]
+Haa. Chez moi comme chez le marchand d’armures, il y avait de l’animation, autrefois. Maintenant, plus un client.
+
+[06473.010]
+Marchand d’armes
+
+[06473.011]
+Haa. Chez moi comme chez le marchand d’armures, il y avait de l’animation, autrefois. Maintenant, plus un client.
+
+[06473.012]
+Marchand d’armes
+
+[06473.013]
+L’attaque est la meilleure défense ! Ici, le plus fort marchand d’armes de l’histoire : rien ne résiste à ses lames !
+
+[06473.014]
+Merci, l’ami.
+
+[06473.015]
+Allez, à la prochaine.
+
+[06473.016]
+Armes
+
+[06473.017]
+Épéiste
+
+[06473.018]
+Quelle épée, dis donc. Ou plutôt : c’est vraiment une épée, ça ?
+
+[06473.019]
+Épéiste
+
+[06473.020]
+Cette épée, ce marteau, là : toutes les armes d’ici, j’ai l’impression de les avoir déjà vues quelque part.
+
+[06473.021]
+Bon voyage.
+
+[06473.022]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06473.023]
+Voulez-vous passer la nuit ?
+
+[06473.025]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06473.026]
+Reposez-vous bien.
+
+[06473.027]
+Bonjour.
+
+[06473.028]
+Vous n’avez pas assez d’argent.
+
+[06473.029]
+Au plaisir de vous revoir.
+
+[06473.034]
+Obtenu : {16:25 BA}.
+
+[06473.036]
+Obtenu : {08:FF FF FF FF}.
+
+[06473.038]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06473.040]
+Il n’y a rien ici.
+

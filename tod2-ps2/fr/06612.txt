@@ -1,0 +1,254 @@
+[06612.001]
+Dycroft, il y a dix-huit ans
+
+[06612.002]
+Dycroft, il y a dix-huit ans
+
+[06612.003]
+Rutee
+
+[06612.004]
+Qu-qu’est-ce que c’est que celui-là !? Il est coriace : ne relâchez pas votre garde ! Surtout toi, Stahn !
+
+[06612.005]
+Stahn
+
+[06612.006]
+J-je sais ! Fais attention, toi aussi, Rutee !
+
+[06612.008]
+H-hé ! Regarde, {NAME:01 00 00 00} ! C’est... !
+
+[06612.010]
+P-papa, maman... !?
+
+[06612.012]
+{NAME:01 00 00 00}, il faut les aider !
+
+[06612.014]
+O-oui, allons-y ! Aidez-moi, tous !
+
+[06612.015]
+Barbatos
+
+[06612.016]
+Te voilà, {NAME:01 00 00 00} ! Je les affrontais pour tromper l’ennui... mais ceux-là ne me suffisent pas.
+
+[06612.018]
+Barbatos, espèce de... !
+
+[06612.019]
+Barbatos
+
+[06612.020]
+Les tuer tous les deux ensemble, voilà qui serait divertissant aussi... Hah !
+
+[06612.021]
+Stahn
+
+[06612.022]
+Gwaah !
+
+[06612.024]
+Ouaah !
+
+[06612.025]
+Barbatos
+
+[06612.026]
+Eh bien, {NAME:01 00 00 00} Dunamis ! Ce n’est pas ainsi que tu étancheras ma soif !
+
+[06612.027]
+Stahn
+
+[06612.028]
+Quelle force... !
+
+[06612.030]
+Pa...
+
+[06612.032]
+... Stahn ! Accordons-nous, et attaquons d’un seul coup !
+
+[06612.033]
+Stahn
+
+[06612.034]
+... Compris, essayons !
+
+[06612.035]
+Barbatos
+
+[06612.036]
+Hah !
+
+[06612.037]
+Stahn
+
+[06612.038]
+Teyaaaah !
+
+[06612.040]
+Teyaaaah !
+
+[06612.041]
+Barbatos
+
+[06612.042]
+Gah... !
+
+[06612.043]
+Stahn
+
+[06612.044]
+Merci, on était mal partis. Tu nous as sauvés.
+
+[06612.045]
+Stahn
+
+[06612.046]
+... N’empêche, tu es fort, toi. Réussir une attaque aussi bien accordée avec quelqu’un qu’on rencontre pour la première fois.
+
+[06612.048]
+... Ce n’est pas la première fois.
+
+[06612.049]
+Stahn
+
+[06612.050]
+... Hein ?
+
+[06612.051]
+Rutee
+
+[06612.052]
+Stahn !
+
+[06612.053]
+Rutee
+
+[06612.054]
+Merci, on était mal partis. Tu nous as vraiment sauvés. Comment tu t’appelles ?
+
+[06612.056]
+{NAME:01 00 00 00}... Je m’appelle {NAME:01 00 00 00} Dunamis.
+
+[06612.057]
+Rutee
+
+[06612.058]
+Dunamis... Ça veut dire « potentiel », non ? C’est un joli nom.
+
+[06612.059]
+Stahn
+
+[06612.060]
+{NAME:01 00 00 00}, ça sonne bien aussi. Si j’ai un enfant un jour, je lui donnerai peut-être ce nom-là.
+
+[06612.061]
+Stahn
+
+[06612.062]
+... Je plaisaaante, je plaisante !
+
+[06612.063]
+Rutee
+
+[06612.064]
+Au lieu de dire des bêtises, dépêchons-nous. On n’a pas le temps, nous.
+
+[06612.066]
+E-euh, vous partez déjà ? Vous êtes encore blessés du combat de tout à l’heure...
+
+[06612.067]
+Stahn
+
+[06612.068]
+Oui, il faut qu’on y aille. Nous aussi, on se bat au péril de notre vie. Comme vous.
+
+[06612.070]
+........
+................
+
+[06612.071]
+Stahn
+
+[06612.072]
+Bon, alors...
+
+[06612.074]
+Attendez, Stahn !
+
+[06612.076]
+Sûrement... non, c’est certain : tout ira bien !
+
+[06612.077]
+Stahn
+
+[06612.078]
+... Merci. Bon courage à vous aussi.
+
+[06612.080]
+Le reste, c’est votre affaire. Pas vrai, papa...
+
+[06612.082]
+... C’est bien, hein.
+
+[06612.084]
+... Oui !
+
+[06612.086]
+Bon, on fait quoi, maintenant ? À voir ça, ce Barbatos est encore en vie.
+
+[06612.088]
+Il a dû se diriger vers l’Œil de Dieu. Allons-y, nous aussi.
+
+[06612.090]
+En suivant Stahn et les autres, ce serait plus rapide, non ?
+
+[06612.092]
+Comme si je pouvais m’abaisser à les suivre en cachette. Nous prendrons un autre chemin.
+
+[06612.094]
+Justement, cet escalier semble permettre d’avancer.
+
+[06612.096]
+Alors, on y va !
+
+[06612.097]
+Bon voyage.
+
+[06612.098]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06612.099]
+Voulez-vous passer la nuit ?
+
+[06612.101]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06612.102]
+Reposez-vous bien.
+
+[06612.103]
+Bonjour.
+
+[06612.104]
+Vous n’avez pas assez d’argent.
+
+[06612.105]
+Au plaisir de vous revoir.
+
+[06612.110]
+Obtenu : {16:25 E6}.
+
+[06612.112]
+Obtenu : {08:FF FF FF FF}.
+
+[06612.114]
+Trouvé : {16:25 EE}, mais vous n’avez plus de place.
+
+[06612.116]
+Il n’y a rien ici.
+

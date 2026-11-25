@@ -1,0 +1,9 @@
+[00240.001]
+Dis, {NAME:01 00 00 00}. Tu comptes accepter ? ...... Il est louche, ce bonhomme.
+
+[00240.002]
+Tu crois ? Mais non. Il a quand même su deviner mes talents cachés !
+
+[00240.003]
+Pff...... Cette assurance sans fondement...
+

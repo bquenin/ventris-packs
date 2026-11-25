@@ -1,0 +1,49 @@
+[06369.001]
+Aigrette
+
+[06369.002]
+Aigrette
+
+[06369.004]
+Il y a là un livre intitulé « L’art du tempura ». Le tempura serait un plat de la région d’Aquaveil.
+
+[06369.006]
+Un « réfrigérateur à Lentilles », jadis l’un des succès de l’ancienne compagnie Oberon.
+
+[06369.007]
+Bon voyage.
+
+[06369.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06369.009]
+Voulez-vous passer la nuit ?
+
+[06369.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06369.012]
+Reposez-vous bien.
+
+[06369.013]
+Bonjour.
+
+[06369.014]
+Vous n’avez pas assez d’argent.
+
+[06369.015]
+Au plaisir de vous revoir.
+
+[06369.020]
+Obtenu : {16:25 BA}.
+
+[06369.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06369.024]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06369.026]
+Il n’y a rien ici.
+

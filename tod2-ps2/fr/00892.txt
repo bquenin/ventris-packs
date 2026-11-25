@@ -1,0 +1,18 @@
+[00892.001]
+Mais où sont allés {NAME:01 00 00 00} et {NAME:02 00 00 00}, au juste ?
+
+[00892.002]
+Ah... aux Ruines de Laguna. Leur « lieu de souvenirs », là où ces deux-là se sont rencontrés.
+
+[00892.003]
+Oh... un « lieu de souvenirs »...
+
+[00892.004]
+Mais ces deux-là oublient sûrement l’essentiel.
+
+[00892.005]
+L’essentiel ?
+
+[00892.006]
+« J’y étais aussi » !
+

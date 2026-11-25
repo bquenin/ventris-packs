@@ -1,0 +1,718 @@
+[06753.001]
+Navire de ligne
+
+[06753.002]
+Navire de ligne
+
+[06753.003]
+Oh là là, oh là là...
+
+[06753.004]
+... Le navire va-t-il couler ?
+
+[06753.005]
+Que faire...
+
+[06753.006]
+Au secours...
+
+[06753.007]
+Passager
+
+[06753.009]
+Ce satané {NAME:04 00 00 00}...
+
+[06753.011]
+...
+
+[06753.013]
+Je...
+
+[06753.016]
+Marin
+
+[06753.017]
+Fais gaffe, petit ! Tempêtes, pirates, vaisseaux fantômes : en mer, le danger est toujours du voyage !
+
+[06753.018]
+Marin
+
+[06753.019]
+Écoute, petit. En mer, on a toujours le danger pour voisin.
+
+[06753.020]
+Marin
+
+[06753.021]
+Mais rien à craindre... Parce que Bibi est à bord de ce navire !
+
+[06753.022]
+Marin
+
+[06753.023]
+Dès qu’il voit Bibi, n’importe quel danger file la queue entre les jambes !
+
+[06753.024]
+Marin
+
+[06753.025]
+S-si on p-p-panique pour un maître des mers qui se montre, on n’est pas fait pour être un homme de la mer !!
+
+[06753.027]
+On dirait bien que c’est toi qui paniques, pourtant...
+
+[06753.028]
+Marin
+
+[06753.029]
+S-s’attaquer au navire où se trouve Bibi : en voilà un qui n’a pas de chance.
+
+[06753.030]
+Marin
+
+[06753.031]
+A-attends un peu ! Avec mon harpon d’acier, je vais finir au fond de l’eau !!
+
+[06753.033]
+Si c’est toi qui finis au fond de l’eau, on est bien avancés.
+
+[06753.034]
+Marin
+
+[06753.035]
+Attends un peu, le monstre ! D-dès que mon mal de ventre sera passé, je te règle ton compte !!
+
+[06753.036]
+Marin
+
+[06753.037]
+Ça alors, je n’aurais jamais cru que vous me prendriez de vitesse.
+
+[06753.038]
+Marin
+
+[06753.039]
+Je m’incline ! Avant que Bibi ait eu le temps d’accourir, vous l’aviez déjà abattu.
+
+[06753.040]
+Marin
+
+[06753.041]
+Sans ce mal de ventre, un maître des mers ou deux, Bibi vous les aurait tordus comme rien.
+
+[06753.042]
+Marin
+
+[06753.043]
+Gahahaha ! La prochaine fois que le maître des mers se montre, laissez faire Bibi !
+
+[06753.044]
+Marin
+
+[06753.045]
+Je suis en pleine forme, maintenant ! Si le maître des mers revient, Bibi le chassera !
+
+[06753.046]
+Marin
+
+[06753.047]
+Vous êtes costauds, vous aussi, mais vous n’êtes encore que des mômes.
+
+[06753.048]
+Marin
+
+[06753.049]
+S’il arrive quoi que ce soit, Bibi vous protégera. Gah ha ha !
+
+[06753.050]
+Marin
+
+[06753.051]
+Gahahaha ! La prochaine fois que le maître des mers se montre, laissez faire Bibi !
+
+[06753.052]
+Passager
+
+[06753.053]
+Un monde où la déesse existe, c’est quand même bien. On veille toujours sur nous.
+
+[06753.054]
+Passager
+
+[06753.055]
+Cette traversée aussi, la déesse Fortuna veille sur elle : on arrivera à bon port, c’est sûr.
+
+[06753.056]
+Passager
+
+[06753.057]
+Avoir une déesse qui veille sur soi : il y a dix ans, c’était impensable.
+
+[06753.058]
+Marin
+
+[06753.059]
+Fais gaffe, petit ! Tempêtes, pirates, vaisseaux fantômes : en mer, le danger est toujours du voyage !
+
+[06753.060]
+Marin
+
+[06753.061]
+Écoute, petit. En mer, on a toujours le danger pour voisin.
+
+[06753.062]
+Marin
+
+[06753.063]
+Mais rien à craindre... Parce que Bibi est à bord de ce navire !
+
+[06753.064]
+Marin
+
+[06753.065]
+Dès qu’il voit Bibi, n’importe quel danger file la queue entre les jambes !
+
+[06753.067]
+{NAME:01 00 00 00}~ ! Regarde, par ici, par ici !
+
+[06753.069]
+A-attention, {NAME:02 00 00 00} ! Si tu tombes, ce sera grave !!
+
+[06753.071]
+Ahaha, ça va, ça va ! Même si je tombe, {NAME:01 00 00 00} me rattrapera !
+
+[06753.073]
+Puisque tu es le futur grand héros, non !
+
+[06753.075]
+Dis, {NAME:01 00 00 00}, tu ne montes pas aussi ? L’odeur de la mer, c’est tellement agréable !
+
+[06753.077]
+Attends-moi, {NAME:02 00 00 00} ! J’arrive tout de suite !
+
+[06753.079]
+Ouah... c’est incroyable ! À part la mer, on ne voit rieeen du tout !
+
+[06753.081]
+Et le vent qui souffle, fuiii, fuiii... on se croirait en train de voler !
+
+[06753.083]
+Tu vois ? C’est beau, hein ?
+
+[06753.085]
+Mais ça m’étonne. Je croyais que tu aurais peur de ce genre d’endroit, {NAME:02 00 00 00}.
+
+[06753.087]
+Pourquoi ? Avec la brise de mer, on est si bien.
+
+[06753.089]
+Non, je ne sais pas, je te voyais bien dire « J’ai peuuur ! » dès qu’on monte un peu haut.
+
+[06753.091]
+Pff ! Ahaha ! C’était quoi, ce « J’ai peuuur ! » ? Tu m’imitais ? Ça ne me ressemble pas du tout !
+
+[06753.093]
+T-tu n’es pas obligée de rire !
+
+[06753.095]
+P-pardon, {NAME:01 00 00 00}... Mais « J’ai peuuur ! »... Ahahaha !
+
+[06753.097]
+... C’était si bizarre que ça ? H-hé hé hé...
+
+[06753.099]
+... Mais ça me rassure, moi. Toi aussi, {NAME:02 00 00 00}, tu ris comme ça.
+
+[06753.101]
+Évidemment. Tu es drôle, {NAME:01 00 00 00} !
+
+[06753.103]
+C’est que, quand on s’est rencontrés, j’avais beau dire n’importe quoi, tu ne changeais pas d’expression.
+
+[06753.105]
+Franchement, je me suis dit : « Elle n’est pas commode, cette fille. »
+
+[06753.107]
+... À ce moment-là, je n’avais qu’une idée en tête : « Il faut que je trouve un héros »...
+
+[06753.109]
+Ah, oui... C’est vrai, maintenant que tu le dis.
+
+[06753.111]
+... Dis, {NAME:01 00 00 00} ? Pourquoi as-tu voulu devenir un héros ?
+
+[06753.113]
+Parce que je veux être comme papa, je crois.
+
+[06753.115]
+Papa était grand, fort, mais gentil et chaleureux aussi... Il avait toujours le sourire.
+
+[06753.117]
+Enfin, il est parti en voyage quand j’étais petit et il n’est jamais revenu, alors je ne m’en souviens pas bien.
+
+[06753.119]
+Mais moi aussi, un jour, je veux être comme papa. ... Un vrai héros, comme lui.
+
+[06753.121]
+... Un vrai héros.
+
+[06753.123]
+Au fait, {NAME:02 00 00 00}, pourquoi tu cherches un héros, toi ?
+
+[06753.125]
+... La raison pour laquelle... pour laquelle je cherche un héros...
+
+[06753.127]
+Q-qu’est-ce que... !?
+
+[06753.128]
+Marin
+
+[06753.129]
+Le maître ! C’est le maître de Devil’s Reef !!
+
+[06753.130]
+Marin
+
+[06753.131]
+Hiiiii ! A-au sec, au secours !! Je veux pas mourir, moi, pas encore !
+
+[06753.132]
+Marin
+
+[06753.133]
+Arrête de geindre ! Va prévenir le capitaine, et vite !
+
+[06753.134]
+Marin
+
+[06753.135]
+Et puis doublez les vigies ! Vérifiez que la coque n’a rien ! Vite !
+
+[06753.137]
+Hé, les deux tourtereaux ! C’est pas le moment de roucouler là-haut !
+
+[06753.139]
+Ah ! N-non, ce n’est pas ça, {NAME:02 00 00 00} ! Je ne voulais pas...
+
+[06753.141]
+{NAME:01 00 00 00}, ça va !?
+
+[06753.143]
+Inutile de s’inquiéter. Les idiots sont solides : c’est ainsi depuis toujours.
+
+[06753.145]
+Hé ! Arrête de me traiter d’idiot !!
+
+[06753.147]
+Oui, oui, la dispute, plus tard ! D’abord, on va voir ce qui se passe ! Allons à la proue !
+
+[06753.149]
+Alors c’est à cause de lui que le navire s’est arrêté !
+
+[06753.150]
+Marin
+
+[06753.151]
+Hé ! Vous aussi, sauvez-vous, vite !!
+
+[06753.152]
+Marin
+
+[06753.153]
+C’est le « maître des mers » ! Aucun navire n’a croisé ce monstre et s’en est tiré !!
+
+[06753.155]
+Se sauver, il est bien bon : et pour aller où, au juste !?
+
+[06753.157]
+Laissez-nous faire ! Un truc pareil, on va lui régler son compte !!
+
+[06753.159]
+On l’a eu ! Maintenant, le navire va...
+
+[06753.160]
+Marin
+
+[06753.161]
+C’est grave ! Le maître des mers est sous la coque !!
+
+[06753.162]
+Marin
+
+[06753.163]
+Quoi !?
+
+[06753.165]
+Ça sent mauvais. S’il a percé un trou dans la cale...
+
+[06753.167]
+En tout cas, allons voir !
+
+[06753.169]
+Le port de Snowfria ne devrait plus tarder à être en vue.
+
+[06753.171]
+Arrivés là, Heidelberg est à deux pas.
+
+[06753.173]
+La longue traversée s’achève donc. Ça me fait un petit pincement au cœur.
+
+[06753.175]
+Bah, on n’aura qu’à reprendre le bateau au retour. Pas vrai ?
+
+[06753.177]
+... Oui. Au retour, c’est ça...
+
+[06753.179]
+Nous arrivons bientôt à Snowfria. Préparez-vous à partir. Traînez, et je vous laisse là.
+
+[06753.181]
+{NAME:04 00 00 00}... Oui !
+
+[06753.183]
+{NAME:04 00 00 00}, d-dis... Désolé. Pour tout à l’heure, enfin...
+
+[06753.185]
+Non, j’ai manqué de maturité, moi aussi.
+
+[06753.187]
+{NAME:04 00 00 00}...
+
+[06753.189]
+L’âge réel mis à part, c’est moi qui ai l’âge mental le plus élevé.
+
+[06753.191]
+Discuter au même niveau que l’enfant que tu es : l’adulte que je suis n’aurait pas dû. Je m’en veux.
+
+[06753.193]
+Qu-qu-qu... qu’est-ce que ça veut dire, ça ! Alors le gamin, c’est moi !?
+
+[06753.195]
+C’est bien ce que je voulais dire : tu n’as pas compris ? Ma façon de parler laisse encore à désirer, semble-t-il.
+
+[06753.197]
+... Pff ! Ahahaha !!
+
+[06753.199]
+Hi hi ! Ahaha !
+
+[06753.201]
+Riez pas, vous deux !
+
+[06753.203]
+Non mais, celui-là... Il dit tout ce qui lui chante...
+
+[06753.205]
+Tu étais donc là.
+
+[06753.207]
+... {NAME:01 00 00 00}.
+
+[06753.209]
+Aujourd’hui, tu étais sur le pont. Moi, je ne regardais qu’en l’air !
+
+[06753.211]
+E-euh, {NAME:02 00 00 00}... J’ai une question à te poser.
+
+[06753.213]
+Toi, tu savais tout, hein ? Qu’on était dans le monde de dans dix ans, et qu’il y avait une déesse.
+
+[06753.215]
+... Oui.
+
+[06753.217]
+Alors, {NAME:02 00 00 00}, est-ce que par hasard... tu étais de cette époque depuis le début ?
+
+[06753.219]
+... Oui, c’est cela.
+
+[06753.221]
+Je m’en doutais...
+
+[06753.223]
+Pardon. De m’être tue tout ce temps...
+
+[06753.225]
+Ah, non, je ne te reproche rien ! C’est juste que ça m’a un peu surpris...
+
+[06753.227]
+Tu comprends ? Faire la connaissance d’une fille venue du futur, je n’y aurais jamais pensé.
+
+[06753.229]
+........
+
+[06753.231]
+E-euh, alors, Elraine aussi, forcément...
+
+[06753.235]
+Hein ?
+
+[06753.237]
+... Pardon. Je ne peux pas en dire plus. Alors...
+
+[06753.239]
+Ah... o-oui. Compris...
+
+[06753.241]
+Tu étais donc là.
+
+[06753.243]
+On arrive bientôt à Cherik. Prépare-toi à descendre.
+
+[06753.245]
+Ah, oui...
+
+[06753.247]
+Au fait, {NAME:02 00 00 00}. Tu ne serais pas, par hasard, une des « deux Saintes » ?
+
+[06753.249]
+C’est bien ça, alors. Quand j’ai entendu ton nom, je me suis dit : et si...
+
+[06753.251]
+Je t’en prie, {NAME:05 00 00 00} ! Cela...
+
+[06753.253]
+Ne rien dire à {NAME:01 00 00 00}, c’est ça ? Moi, ça ne me dérange pas.
+
+[06753.255]
+Merci...
+
+[06753.257]
+{NAME:02 00 00 00}, toi...
+
+[06753.259]
+... Bah, ce n’est pas à moi de m’en mêler.
+
+[06753.261]
+Je vais à la cabine. Descends vite.
+
+[06753.263]
+... Si c’est possible, je ne veux pas que {NAME:01 00 00 00} le sache.
+
+[06753.265]
+Mais un jour, il le saura, c’est sûr. Et ce jour-là, moi...
+
+[06753.267]
+{NAME:02 00 00 00} obtient le titre « {08:23 08 00 00} ».
+
+[06753.269]
+On a réuni tout le monde sur le pont, pour l’instant... mais on fait quoi, maintenant !?
+
+[06753.271]
+Dites, on ne pourrait pas nager jusqu’à la côte !?
+
+[06753.273]
+Les hommes, passe encore ; les femmes et les enfants, impossible.
+
+[06753.275]
+Avec des canots de cette taille, on ne sauvera presque personne...
+
+[06753.277]
+Bon sang ! On est complètement coincés !!
+
+[06753.279]
+........
+
+[06753.281]
+Il ne faut pas renoncer ! Cherchons un moyen de sauver tout le monde, coûte que coûte !!
+
+[06753.283]
+N’empêche...
+
+[06753.285]
+Il existe un moyen, un seul, de sauver tout le monde.
+
+[06753.287]
+Hein !? C-c’est vrai !?
+
+[06753.289]
+... Sers-toi de ton pouvoir, {NAME:02 00 00 00}.
+
+[06753.291]
+Moi...
+
+[06753.293]
+Ouaah !!
+
+[06753.295]
+Là, ça craint pour de bon !
+
+[06753.297]
+... C’est à moi... de les sauver... tous...
+
+[06753.299]
+... !
+
+[06753.301]
+{NAME:02 00 00 00}... !?
+
+[06753.303]
+... Je t’en prie... ...... vole !!
+
+[06753.305]
+Hé, qu’est-ce qu’elle compte faire, {NAME:02 00 00 00} !?
+
+[06753.307]
+Elle veut soulever le navire. Mais...
+
+[06753.309]
+... Nngh !!
+
+[06753.311]
+Déplacer une masse pareille : {NAME:02 00 00 00}, telle qu’elle est aujourd’hui, en est-elle capable...
+
+[06753.313]
+Oh non...
+
+[06753.315]
+Tiens bon ! Tiens bon, {NAME:02 00 00 00} !
+
+[06753.317]
+... Aah !
+
+[06753.319]
+Je t’en prie... !
+
+[06753.321]
+... D-décidément... je n’y... arrive... pas...
+
+[06753.323]
+Il ne faut pas renoncer, {NAME:02 00 00 00} !!
+
+[06753.325]
+...... !
+
+[06753.327]
+Tu peux le faire, {NAME:02 00 00 00} ! Tu vas y arriver, j’en suis sûr !!
+
+[06753.329]
+... ! {NAME:01 00 00 00}... !
+
+[06753.331]
+Incroyable... On est sauvés pour de bon... ! Ha ha... ahahaha !!
+
+[06753.333]
+Tu es incroyable, {NAME:02 00 00 00}... !
+
+[06753.335]
+... J’ai réussi... ...... moi... mon pouvoir... j’y suis... arrivée...
+
+[06753.337]
+{NAME:02 00 00 00} !? {NAME:02 00 00 00} !!
+
+[06753.340]
+Mais puisque je te dis que c’est pas pour ça que je te le demande !
+
+[06753.342]
+Cette voix... c’est {NAME:03 00 00 00} ! Qu’est-ce qui se passe ?
+
+[06753.344]
+Je t’ai cherché, {NAME:04 00 00 00} ! Vraiment, disparaître comme ça d’un coup !
+
+[06753.346]
+........
+
+[06753.348]
+E-euh, {NAME:04 00 00 00}...
+
+[06753.350]
+Moi, je te fais confiance !
+
+[06753.352]
+{NAME:01 00 00 00}... ?
+
+[06753.354]
+Ton âge, qui tu es : ça ne compte pas. Moi, je te fais confiance, {NAME:04 00 00 00} !
+
+[06753.356]
+Alors viens avec nous ! Continuons le voyage !
+
+[06753.358]
+{NAME:01 00 00 00}, toi...
+
+[06753.360]
+... Pourquoi ? Comment peux-tu me faire confiance ? À moi, qui ne veux rien révéler...
+
+[06753.362]
+Pourquoi... Mmh, voyons...
+
+[06753.364]
+Parce que je t’aime bien, {NAME:04 00 00 00}... je crois.
+
+[06753.366]
+... Tu m’aimes bien ?
+
+[06753.368]
+Je t’aime bien, alors j’ai envie d’être avec toi, et je peux te faire confiance.
+
+[06753.370]
+Je ne t’ai rien appris sur moi, tu le sais ? Se prendre d’amitié pour quelqu’un comme cela...
+
+[06753.372]
+Dis, {NAME:04 00 00 00}, toi, il faut qu’on te dise tous ses secrets pour que tu aimes bien quelqu’un ?
+
+[06753.374]
+C’est que...
+
+[06753.376]
+Non, hein ? Des secrets ou pas, ça ne compte pas. Ce qui compte, c’est si on l’aime bien ou non.
+
+[06753.378]
+Alors pour toi, c’est pareil, {NAME:04 00 00 00}. Même avec des secrets...
+
+[06753.380]
+Non : tes secrets et touuut le reste, je t’aime bien comme ça, {NAME:04 00 00 00} !
+
+[06753.382]
+{NAME:01 00 00 00}...
+
+[06753.384]
+... {NAME:01 00 00 00}. Je...
+
+[06753.386]
+C’est tout ce que je voulais dire ! À plus !
+
+[06753.388]
+... Cette fois serait différente : voilà ce que je croyais. Mais au bout du compte, je refais la même chose...
+
+[06753.390]
+Malgré cela... malgré cela, je ne peux pas ôter ce masque. Il me faut tout cacher, et aller jusqu’au bout...
+
+[06753.391]
+Bon voyage.
+
+[06753.392]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06753.393]
+Voulez-vous passer la nuit ?
+
+[06753.395]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06753.396]
+Reposez-vous bien.
+
+[06753.397]
+Bonjour.
+
+[06753.398]
+Vous n’avez pas assez d’argent.
+
+[06753.399]
+Au plaisir de vous revoir.
+
+[06753.404]
+Obtenu : {16:26 E6}.
+
+[06753.406]
+Obtenu : {08:FF FF FF FF}.
+
+[06753.408]
+Trouvé : {16:26 EE}, mais vous n’avez plus de place.
+
+[06753.410]
+Il n’y a rien ici.
+

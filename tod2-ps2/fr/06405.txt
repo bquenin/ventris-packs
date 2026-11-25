@@ -1,0 +1,181 @@
+[06405.001]
+Lienea : maison du chef
+
+[06405.002]
+Lienea : maison du chef
+
+[06405.003]
+Maison du chef
+
+[06405.004]
+Chef du village
+
+[06405.005]
+Pour Stahn, demande aux gens du village. Ils te diront même ce que j’ai oublié, moi.
+
+[06405.006]
+Chef du village
+
+[06405.007]
+Attaqués par le maître de Devil’s Reef : quelle pénible traversée ce fut là.
+
+[06405.009]
+Hein ! Vous le savez déjà ?
+
+[06405.010]
+Chef du village
+
+[06405.011]
+Fo fo fo. Les nouvelles vont vite : c’est cela, la campagne.
+
+[06405.012]
+Chef du village
+
+[06405.013]
+Si tu passes dans les parages, viens me voir quand tu veux, sans façons.
+
+[06405.014]
+Chef du village
+
+[06405.015]
+Je suis heureux, moi aussi, d’avoir vu le fils de Stahn. Prends ton temps.
+
+[06405.016]
+Chef du village
+
+[06405.017]
+Un visiteur dans une campagne pareille, voilà qui est rare. Tiens, mais tu es...
+
+[06405.019]
+Je suis {NAME:01 00 00 00} Dunamis, le fils de Stahn Aileron.
+
+[06405.020]
+Chef du village
+
+[06405.021]
+Oh... oh... ! Quelle belle journée : le fils de Stahn qui vient nous voir !
+
+[06405.022]
+Fille du chef
+
+[06405.023]
+Dans ce village, il ne s’est jamais rien passé qui mérite le nom d’événement.
+
+[06405.024]
+Fille du chef
+
+[06405.025]
+Ah, à part Stahn devenu un héros, bien sûr.
+
+[06405.026]
+Fille du chef
+
+[06405.027]
+Un navire qui fait naufrage, c’est le plus grand événement depuis la fondation du village.
+
+[06405.029]
+C’est un événement, c’est sûr... mais de là à en faire toute une histoire ?
+
+[06405.030]
+Fille du chef
+
+[06405.031]
+Tu ne connais pas la campagne, toi. Dans ce village, il n’arrive presque jamais rien.
+
+[06405.032]
+Fille du chef
+
+[06405.033]
+Si Stahn venait, Lilith serait contente. Moi aussi, j’aimerais le revoir, depuis le temps...
+
+[06405.034]
+Fille du chef
+
+[06405.035]
+Dis, que devient Stahn ?
+
+[06405.037]
+Euh, eh bien...
+
+[06405.038]
+Fille du chef
+
+[06405.039]
+Dis à Stahn de se montrer au pays de temps en temps.
+
+[06405.040]
+Fille du chef
+
+[06405.041]
+Bienvenue, {NAME:01 00 00 00} ! Comme tu vois, il n’y a rien ici, mais prends ton temps.
+
+[06405.042]
+Fille du chef
+
+[06405.043]
+Tiens... tu ne serais pas {NAME:01 00 00 00}, le fils de Stahn ?
+
+[06405.045]
+Quoi ! Comment l’avez-vous deviné ?
+
+[06405.046]
+Fille du chef
+
+[06405.047]
+Hi hi, ça se voit tout de suite. Tu es tout le portrait de Stahn enfant.
+
+[06405.049]
+Du bois de chauffage et de la paille sont entassés.
+
+[06405.051]
+Des assiettes décoratives, qui ont l’air chères, sont alignées.
+
+[06405.053]
+Un poêle qui a de l’âge.
+
+[06405.054]
+Un canard en jouet, à remontoir.
+
+[06405.055]
+Un nom est écrit sur le canard. « Ch...t » : les lettres sont trop effacées pour être lues.
+
+[06405.058]
+Un magazine à potins. « Le roi Woodrow : sur la piste de ses amours »
+
+[06405.059]
+Bon voyage.
+
+[06405.060]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06405.061]
+Voulez-vous passer la nuit ?
+
+[06405.063]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06405.064]
+Reposez-vous bien.
+
+[06405.065]
+Bonjour.
+
+[06405.066]
+Vous n’avez pas assez d’argent.
+
+[06405.067]
+Au plaisir de vous revoir.
+
+[06405.072]
+Obtenu : {16:25 BA}.
+
+[06405.074]
+Obtenu : {08:FF FF FF FF}.
+
+[06405.076]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06405.078]
+Il n’y a rien ici.
+

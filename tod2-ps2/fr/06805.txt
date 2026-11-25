@@ -1,0 +1,152 @@
+[06805.15888]
+Sauvegarde
+
+[06805.15896]
+Fente MEMORY CARD 4
+
+[06805.15920]
+Fente MEMORY CARD 3
+
+[06805.15944]
+Fente MEMORY CARD 2
+
+[06805.15968]
+Fente MEMORY CARD 1
+
+[06805.15992]
+Chargement
+
+[06805.16000]
+Suspendre
+
+[06805.16008]
+Reprendre
+
+[06805.16016]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+
+[06805.16040]
+ : annuler ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06805.16096]
+Terminé
+
+[06805.16112]
+Gald
+
+[06805.16120]
+Lentilles
+
+[06805.16240]
+ : la carte mémoire (PS2)
+n’est pas formatée.
+La formater ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06805.16352]
+Formatage en cours. Ne retirez pas la carte
+mémoire (PS2) et n’éteignez pas la console.
+
+[06805.16440]
+Formatage terminé !
+
+[06805.16472]
+Échec du formatage.
+
+[06805.16504]
+ : accès à la
+carte mémoire (PS2).
+
+[06805.16552]
+Aucune sauvegarde de ce jeu.
+
+[06805.16696]
+Suspendre la partie ?
+Attention : les données de suspension
+sont effacées à la reprise.
+
+
+[06805.16784]
+{05:E0 00 00 00}(Les données de suspension seront écrasées.){05:00 01 00 00}
+
+
+[06805.16832]
+
+Êtes-vous sûr ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06805.16880]
+Créer de nouvelles données. Êtes-vous sûr ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06805.16952]
+Écraser les données sélectionnées.
+Êtes-vous sûr ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06805.17032]
+Charger ces données. Êtes-vous sûr ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06805.17128]
+ : la carte mémoire (PS2)
+n’a pas assez d’espace libre pour créer
+des données de suspension de ce jeu.
+Il faut au moins
+
+[06805.17240]
+ Ko d’espace libre.
+
+[06805.17272]
+ : la carte mémoire (PS2)
+n’a pas assez d’espace libre pour créer
+des données de sauvegarde de ce jeu.
+Il faut au moins
+
+[06805.17384]
+Échec de la sauvegarde.
+
+[06805.17408]
+Échec du chargement.
+
+[06805.17432]
+Sauvegarde en cours. Ne retirez pas la carte
+mémoire (PS2) et n’éteignez pas la console.
+
+[06805.17520]
+Sauvegarde terminée !
+
+[06805.17544]
+Chargement en cours. Ne retirez pas la carte
+mémoire (PS2) et n’éteignez pas la console.
+
+[06805.17632]
+Chargement terminé !
+
+[06805.17656]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+{09:37 00 00 00}Graphique
+
+
+[06805.17752]
+ : aucune carte mémoire (PS2)
+n’est insérée.
+
+[06805.17808]
+ : accès impossible à la
+carte mémoire (PS2).
+
+[06805.17856]
+Terminer la sauvegarde ?
+
+{09:35 00 00 00}Terminer  {09:36 00 00 00}Retour
+

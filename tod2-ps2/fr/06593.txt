@@ -1,0 +1,46 @@
+[06593.001]
+Dycroft
+
+[06593.002]
+Dycroft
+
+[06593.004]
+La Lunette du sorcier montre le champ de vision des monstres. Avancez en les évitant.
+
+[06593.005]
+Bon voyage.
+
+[06593.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06593.007]
+Voulez-vous passer la nuit ?
+
+[06593.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06593.010]
+Reposez-vous bien.
+
+[06593.011]
+Bonjour.
+
+[06593.012]
+Vous n’avez pas assez d’argent.
+
+[06593.013]
+Au plaisir de vous revoir.
+
+[06593.018]
+Obtenu : {16:26 42}.
+
+[06593.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06593.022]
+Trouvé : {16:26 4A}, mais vous n’avez plus de place.
+
+[06593.024]
+Il n’y a rien ici.
+

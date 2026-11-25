@@ -1,0 +1,24 @@
+[00076.001]
+Maman m’a dit que papa est parti à l’aventure à peu près à mon âge... Donc moi aussi, je deviendrai un héros un jour, non ?
+
+[00076.002]
+Tu rê~ves ! Si tu crois qu’on devient un héros si facilement, tu te trompes, {NAME:01 00 00 00}.
+
+[00076.003]
+Mmh ! Quoi ! Pourquoi tu décides que j’y arriverai pas !
+
+[00076.004]
+J’ai pas dit ça. Je dis qu’il te faut encore beaucoup, beaucoup d’entraînement. Réfléchis bien : si c’était si facile, personne n’y verrait rien d’admirable. C’est parce que personne n’y arrive que tout le monde rêve des héros.
+
+[00076.005]
+Ah oui, c’est vrai...
+
+[00076.006]
+Bref, pour devenir un héros, il faut s’entraîner cent fois plus que les autres.
+
+[00076.007]
+Cent fois ! Bon ! Puisque c’est comme ça, je cours jusqu’aux ruines ! Yaaaaah~~~ !!
+
+[00076.008]
+H-hé ! Pars pas tout seul !! Pff... Il a encore bien besoin de moi...
+

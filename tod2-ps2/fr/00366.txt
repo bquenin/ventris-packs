@@ -1,0 +1,36 @@
+[00366.001]
+{NAME:04 00 00 00}... tu ne ris presque jamais, toi.
+
+[00366.002]
+Je n’ai aucune raison de rire.
+
+[00366.003]
+Mais la vie n’est pas drôle, comme ça, non ?
+
+[00366.004]
+Je n’ai aucun droit de profiter de la vie...
+
+[00366.005]
+... Bon, tu as tes raisons, on dirait, mais tu as le droit de te plaindre de temps en temps, non ? Les compagnons, c’est fait pour ça.
+
+[00366.006]
+Dis, {NAME:03 00 00 00}. Il y a des champignons appétissants, ici. Ils sont vénéneux, tu crois ?
+
+[00366.007]
+Goûte, et tu le sauras, non ?
+
+[00366.008]
+Dis, {NAME:03 00 00 00}. Mon corps... s’en... gour... dit... on... dirait.
+
+[00366.009]
+Crétin ! Qui en mange pour de vrai ! Recrache !!
+
+[00366.010]
+Beuuurk !
+
+[00366.011]
+... Tu crois qu’on peut compter sur ces deux-là ?
+
+[00366.012]
+Pardon... J’ai eu tort.
+

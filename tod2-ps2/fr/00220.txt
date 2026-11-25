@@ -1,0 +1,3 @@
+[00220.001]
+Hé, tu vas où ? Il n’y a nulle part ailleurs où dormir, par ici. Et tu laisserais {NAME:02 00 00 00} ?
+

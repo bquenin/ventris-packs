@@ -1,0 +1,15 @@
+[00726.001]
+Dymlos me déçoit. Abandonner quelqu’un de cher... !!
+
+[00726.002]
+À la place de Dymlos, que ferais-tu ? ... Irais-tu la sauver, quitte à exposer tes compagnons, quitte à te mettre le monde entier à dos ? ... Ce choix-là n’a rien de facile.
+
+[00726.003]
+... Je vois. Pour toi aussi, ça a été comme ça, {NAME:04 00 00 00}.
+
+[00726.004]
+Écoute, {NAME:01 00 00 00}. Un jour, tu seras peut-être acculé à un tel choix. Ta réponse t’appartient, mais...... n’aie aucun regret.
+
+[00726.005]
+Mm...
+

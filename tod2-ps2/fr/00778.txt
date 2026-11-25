@@ -1,0 +1,9 @@
+[00778.001]
+{NAME:01 00 00 00}. L’entrain, c’est bien, mais il est temps de dormir pour demain.
+
+[00778.002]
+En effet. Te lever tard comme d’habitude et manquer la bataille, rien ne serait plus pitoyable.
+
+[00778.003]
+Tss ! Je sais bien...
+

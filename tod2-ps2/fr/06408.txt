@@ -1,0 +1,136 @@
+[06408.001]
+Village de Lienea
+
+[06408.002]
+Village de Lienea
+
+[06408.004]
+... Mmh, rien à faire. Je suis tout éveillé, impossible de dormir...
+
+[06408.006]
+Qu’est-ce que tu as, {NAME:01 00 00 00} ? Tu n’arrives pas à dormir, on dirait.
+
+[06408.008]
+Ah, {NAME:03 00 00 00}. Pardon, je t’ai réveillé.
+
+[06408.010]
+T’en fais pas. De toute façon, tu pensais à Stahn, pas vrai ?
+
+[06408.012]
+Ah, oui...
+
+[06408.014]
+Moi, je croyais que papa avait eu une vie formidable, une vraie vie de héros.
+
+[06408.016]
+Mais en fait, non. Il était gros dormeur comme moi, il faisait des gaffes, des farces...
+
+[06408.018]
+Et ça t’a déçu ?
+
+[06408.020]
+Non, pas du tout ! Au contraire, ça m’a fait plaisir, je ne sais pas.
+
+[06408.022]
+Papa et moi, on n’est pas si différents. Alors je me suis dit que moi aussi, en m’accrochant, je pourrais devenir comme lui.
+
+[06408.024]
+... Je vois, c’est bien toi, ça.
+
+[06408.026]
+Mais ne te trompe pas, {NAME:01 00 00 00}. C’est vrai, par sa naissance comme par son enfance, Stahn ne diffère en rien d’un gars ordinaire.
+
+[06408.028]
+Pourtant, il est devenu un héros. Parce que c’était quelqu’un de vraiment fort.
+
+[06408.030]
+C’est sûr. Pendant son voyage, papa a battu tous les monstres, quels qu’ils soient.
+
+[06408.032]
+C’est pas ça, {NAME:01 00 00 00}. Stahn, c’est pas ses bras qui sont forts. ... C’est son cœur.
+
+[06408.034]
+Son cœur... est fort ?
+
+[06408.036]
+Un jour, Stahn m’a dit quelque chose.
+
+[06408.038]
+« Continue de croire en toi et en l’autre. Parfois, on te trahira peut-être, ou tu auras du chagrin. »
+
+[06408.040]
+« Malgré tout, crois en l’autre, et crois en toi, qui as cru en lui. Alors, à la fin, tout ira bien, c’est sûr. »
+
+[06408.042]
+C’est facile à dire, mais dur à faire. On se met vite à douter des autres, et on perd confiance en soi tout seul.
+
+[06408.044]
+Le seul qui en soit capable, c’est lui... Stahn. C’est pour ça que c’est un héros.
+
+[06408.046]
+Savoir croire jusqu’au bout... C’est ça, la vraie force.
+
+[06408.048]
+Croire...
+
+[06408.050]
+... J’espère que toi aussi, tu tiendras jusqu’au bout. À croire, je veux dire.
+
+[06408.052]
+Oui !
+
+[06408.054]
+... Mais dis, {NAME:03 00 00 00}, tu es incroyable. On dirait que tu sais tout de papa.
+
+[06408.056]
+... C’est un peu comme ma vie, tu sais. Stahn, pour moi.
+
+[06408.058]
+Sans Stahn, je...
+
+[06408.060]
+... {NAME:03 00 00 00} ?
+
+[06408.062]
+... Allez, dors, maintenant. On se lève tôt demain aussi.
+
+[06408.064]
+O-oui... Bonne nuit, {NAME:03 00 00 00}.
+
+[06408.065]
+Bon voyage.
+
+[06408.066]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06408.067]
+Voulez-vous passer la nuit ?
+
+[06408.069]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06408.070]
+Reposez-vous bien.
+
+[06408.071]
+Bonjour.
+
+[06408.072]
+Vous n’avez pas assez d’argent.
+
+[06408.073]
+Au plaisir de vous revoir.
+
+[06408.078]
+Obtenu : {16:25 BA}.
+
+[06408.080]
+Obtenu : {08:FF FF FF FF}.
+
+[06408.082]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06408.084]
+Il n’y a rien ici.
+

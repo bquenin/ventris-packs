@@ -1,0 +1,11 @@
+format = 1
+game = "tod2-ps2"
+language = "fr"
+name = "Tales of Destiny 2 en français"
+version = "0.1"
+authors = ["Machine translated, directed by bquenin"]
+license = "CC-BY-NC-SA-4.0"
+description = "Machine translated from the Japanese and not reviewed by a human translator. Partial, and in progress. In French so far: the whole story, the menu screens, the battle messages, the enemy names, the lists the menus read, and the skits up to number 00918 with their titles. Still the game's own Japanese: the later skits, the quiz books and the minigames. Only the opening, the first town, three skits and the menu screens have been seen on screen; the rest has been built and checked by tools. NOTES.md says how far it goes, the names and terms chosen, and what has been seen on screen."
+
+[build]
+options = ["skit-pace", "narrow-spell-names"]

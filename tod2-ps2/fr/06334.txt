@@ -1,0 +1,58 @@
+[06334.001]
+Ruines de Laguna
+
+[06334.002]
+Ruines de Laguna
+
+[06334.004]
+Ici, la salle du boss.
+
+[06334.006]
+Un cul-de-sac ?
+
+[06334.008]
+Raté, celui-là.
+
+[06334.010]
+... Haa, on est venus pour rien.
+
+[06334.012]
+... {NAME:01 00 00 00}, recule !
+
+[06334.013]
+Bon voyage.
+
+[06334.014]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06334.015]
+Voulez-vous passer la nuit ?
+
+[06334.017]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06334.018]
+Reposez-vous bien.
+
+[06334.019]
+Bonjour.
+
+[06334.020]
+Vous n’avez pas assez d’argent.
+
+[06334.021]
+Au plaisir de vous revoir.
+
+[06334.026]
+Obtenu : {16:25 D2}.
+
+[06334.028]
+Obtenu : {08:FF FF FF FF}.
+
+[06334.030]
+Trouvé : {16:25 DA}, mais vous n’avez plus de place.
+
+[06334.032]
+Il n’y a rien ici.
+

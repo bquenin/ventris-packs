@@ -1,0 +1,27 @@
+[00410.001]
+Aah, j’ai faim ! Que va nous préparer {NAME:05 00 00 00} ? J’ai hâte, hein, {NAME:02 00 00 00} !
+
+[00410.002]
+........
+
+[00410.003]
+... {NAME:02 00 00 00}, qu’est-ce que tu as ?
+
+[00410.004]
+Hein ? R-rien ! Rien du tout...
+
+[00410.005]
+Ah bon. Tant mieux, alors...
+
+[00410.006]
+... Écoute, {NAME:01 00 00 00}. À propos de ce qu’on disait tout à l’heure, la déesse...
+
+[00410.007]
+Ohé, qu’est-ce que vous avez à lambiner ? On va vous laisser là.
+
+[00410.008]
+Oui, oui ! Allez, viens, {NAME:02 00 00 00} !
+
+[00410.009]
+O-oui...
+

@@ -1,0 +1,61 @@
+[06580.001]
+Radisrol : chambre de Chaltier et Igtenos
+
+[06580.002]
+Radisrol
+
+[06580.003]
+Chambre de Chaltier et Igtenos
+
+[06580.005]
+Le journal de Chaltier. « ... Je vais vite devenir aussi fort que le général Dymlos, et je ferai ravaler leur mépris à ceux qui se sont moqués de moi... »
+
+[06580.007]
+... Mieux vaut ne pas lire plus loin.
+
+[06580.009]
+Une machine appartenant à Igtenos. Un mémoire de tactique y est affiché.
+
+[06580.011]
+Un objet personnel d’Igtenos : un pendentif renfermant le portrait d’une femme.
+
+[06580.013]
+Les livres de Chaltier sont rangés là. « La vie est belle », « Tenir bon sous la pression », « Bon ou mauvais chef : savoir les reconnaître ».
+
+[06580.014]
+Bon voyage.
+
+[06580.015]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06580.016]
+Voulez-vous passer la nuit ?
+
+[06580.018]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06580.019]
+Reposez-vous bien.
+
+[06580.020]
+Bonjour.
+
+[06580.021]
+Vous n’avez pas assez d’argent.
+
+[06580.022]
+Au plaisir de vous revoir.
+
+[06580.027]
+Obtenu : {16:25 BA}.
+
+[06580.029]
+Obtenu : {08:FF FF FF FF}.
+
+[06580.031]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06580.033]
+Il n’y a rien ici.
+

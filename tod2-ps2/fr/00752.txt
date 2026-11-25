@@ -1,0 +1,18 @@
+[00752.001]
+Atwight avait l’air vraiment heureuse. Bah, normal. L’homme qu’elle aime a enfreint les ordres pour venir la sauver.
+
+[00752.002]
+Toi aussi, {NAME:05 00 00 00}, ça te fait rêver, ce genre de chose ?
+
+[00752.003]
+Mm... ben... je suis une femme, moi aussi, après tout.
+
+[00752.004]
+Aaah ! {NAME:03 00 00 00} ! Prends pas ma viaaande !!
+
+[00752.005]
+Fouhahaha !! Encore trop tendre, jeune {NAME:01 00 00 00} ! Ce monde, c’est la loi du plus fort ! Autrement dit, un monde où seuls les forts mangent la viande !
+
+[00752.006]
+... Mais pas sauvée par un type pareil.
+

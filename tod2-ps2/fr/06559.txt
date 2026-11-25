@@ -1,0 +1,97 @@
+[06559.001]
+Dycroft
+
+[06559.002]
+Dycroft
+
+[06559.003]
+Dycroft
+
+[06559.005]
+C’est ça... Dycroft, la cité des cieux... ?
+
+[06559.007]
+Faire entrer ses ennemis chez soi, quelle assurance. Ou alors, elle nous prend pour des rigolos.
+
+[06559.009]
+Peu importe. On le lui fera regretter après, voilà tout.
+
+[06559.011]
+Exactement ! Bon, allons-y, tout le monde !
+
+[06559.012]
+Dantalion
+
+[06559.013]
+Messire {NAME:01 00 00 00}. Et dame {NAME:02 00 00 00}, n’est-ce pas ?
+
+[06559.015]
+Qui... es-tu !?
+
+[06559.016]
+Dantalion
+
+[06559.017]
+Mon nom est Dantalion. Je suis de ceux qui partagent l’idéal de dame Elraine.
+
+[06559.018]
+Dantalion
+
+[06559.019]
+Je sais que c’est beaucoup demander, mais je vous en prie... messire {NAME:01 00 00 00} : retirez-vous.
+
+[06559.021]
+... Ça, je ne peux pas. Il faut absolument qu’on voie Elraine.
+
+[06559.023]
+Et si tu comptes nous barrer la route... on te battra !
+
+[06559.024]
+Dantalion
+
+[06559.025]
+Les deux voies ne se croisent donc pas...
+
+[06559.026]
+Dantalion
+
+[06559.027]
+Alors, moi aussi, je suivrai mon idéal. L’idéal de dame Elraine... !
+
+[06559.028]
+Bon voyage.
+
+[06559.029]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06559.030]
+Voulez-vous passer la nuit ?
+
+[06559.032]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06559.033]
+Reposez-vous bien.
+
+[06559.034]
+Bonjour.
+
+[06559.035]
+Vous n’avez pas assez d’argent.
+
+[06559.036]
+Au plaisir de vous revoir.
+
+[06559.041]
+Obtenu : {16:25 BA}.
+
+[06559.043]
+Obtenu : {08:FF FF FF FF}.
+
+[06559.045]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06559.047]
+Il n’y a rien ici.
+

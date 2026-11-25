@@ -1,0 +1,106 @@
+[06312.001]
+Cresta : bazar et équipement
+
+[06312.002]
+Cresta
+
+[06312.003]
+Bazar et équipement
+
+[06312.004]
+Bazar
+
+[06312.005]
+Oh, bienvenue ! Il te faut quelque chose ?
+
+[06312.006]
+À la prochaine !
+
+[06312.007]
+Tu ne m’achètes rien ?
+
+[06312.008]
+Bazar
+
+[06312.009]
+Bazar
+
+[06312.010]
+Oh, bienvenue !
+
+[06312.011]
+Équipement
+
+[06312.012]
+Salut ! Achète-moi donc quelque chose !
+
+[06312.013]
+Merci, hein !
+
+[06312.014]
+Tu n’achètes rien ? Les temps sont durs !
+
+[06312.015]
+Équipement
+
+[06312.016]
+Équipement
+
+[06312.017]
+Salut ! Toujours en forme, toi !
+
+[06312.018]
+Bazar
+
+[06312.019]
+Hé ! On ne touche pas à la marchandise sans demander !
+
+[06312.021]
+Cette roue à aubes sert à moudre la farine, semble-t-il.
+
+[06312.023]
+Une roue précieuse, qui fait vivre les cuisines de Cresta. N’y touchons pas.
+
+[06312.025]
+Il est écrit : « Miso d’Aquaveil : 298 Gald le sachet ».
+
+[06312.027]
+La soupe miso est, paraît-il, un plat familial typique de la région d’Aquaveil.
+
+[06312.028]
+Bon voyage.
+
+[06312.029]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06312.030]
+Voulez-vous passer la nuit ?
+
+[06312.032]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06312.033]
+Reposez-vous bien.
+
+[06312.034]
+Bonjour.
+
+[06312.035]
+Vous n’avez pas assez d’argent.
+
+[06312.036]
+Au plaisir de vous revoir.
+
+[06312.041]
+Obtenu : {16:25 CA}.
+
+[06312.043]
+Obtenu : {08:FF FF FF FF}.
+
+[06312.045]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06312.047]
+Il n’y a rien ici.
+

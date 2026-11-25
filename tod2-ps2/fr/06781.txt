@@ -1,0 +1,73 @@
+[06781.001]
+Cabane
+
+[06781.002]
+Cabane
+
+[06781.003]
+Cabane
+
+[06781.004]
+Femme mystérieuse
+
+[06781.005]
+Ici, c’est le lieu qui réveille tes souvenirs...
+
+[06781.007]
+Ici, vous pouvez revoir les saynètes déjà survenues.
+
+[06781.009]
+Choisissez le numéro de la saynète à revoir et appuyez sur la touche {09:25 00 00 00}. Pour interrompre, c’est la touche {09:26 00 00 00}.
+
+[06781.011]
+Notez que les saynètes que vous n’avez pas vues ne peuvent pas être rejouées.
+
+[06781.015]
+{03:00 00 00 00}{0B:01 00 00 00}NO.{14:14 76}{14:14 75}{14:14 74}　Saynète impossible à revoir
+　　　　　{09:39 00 00 00}:-100　　{09:3A 00 00 00}:+100　　　　
+　　　　　{09:3B 00 00 00}:- 10　　{09:3C 00 00 00}:+ 10　　　　
+　　　　　{09:19 00 00 00}:-  1　　{09:1D 00 00 00}:+  1　　　　{0B:00 00 00 00}
+
+[06781.017]
+{03:00 00 00 00}{0B:01 00 00 00}NO.{14:14 76}{14:14 75}{14:14 74}　Saynète impossible à revoir
+　　　　　{09:39 00 00 00}:-100　　{09:3A 00 00 00}:+100　　　　
+　　　　　{09:3B 00 00 00}:- 10　　{09:3C 00 00 00}:+ 10　　　　
+　　　　　{09:19 00 00 00}:-  1　　{09:1D 00 00 00}:+  1　　　　{0B:00 00 00 00}
+
+[06781.018]
+Bon voyage.
+
+[06781.019]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06781.020]
+Voulez-vous passer la nuit ?
+
+[06781.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06781.023]
+Reposez-vous bien.
+
+[06781.024]
+Bonjour.
+
+[06781.025]
+Vous n’avez pas assez d’argent.
+
+[06781.026]
+Au plaisir de vous revoir.
+
+[06781.031]
+Obtenu : {16:25 C6}.
+
+[06781.033]
+Obtenu : {08:FF FF FF FF}.
+
+[06781.035]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06781.037]
+Il n’y a rien ici.
+

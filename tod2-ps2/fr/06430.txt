@@ -1,0 +1,118 @@
+[06430.001]
+Snowfria : bazar
+
+[06430.002]
+Snowfria : bazar
+
+[06430.003]
+Bazar
+
+[06430.004]
+Marin
+
+[06430.005]
+Moi qui suis de Calvalese, le froid d’ici, c’est trop rude, ma parole.
+
+[06430.007]
+Calvalese... ?
+
+[06430.009]
+C’est le nom du deuxième continent, loin au nord-ouest d’ici. Une terre rude, presque toute en désert.
+
+[06430.010]
+Marin
+
+[06430.011]
+C’est drôle : à force d’être ici, on se prend à regretter la chaleur d’enfer de Calvalese, ma parole.
+
+[06430.012]
+Marin
+
+[06430.013]
+Il f-fait froid, ma parole. Je crois bien que j’ai attrapé un rhume.
+
+[06430.014]
+Marin
+
+[06430.015]
+Ça veut dire, ma parole, qu’un gars élevé en Calvalese ne devrait pas mettre les pieds à Snowfria ?
+
+[06430.017]
+Habillé aussi léger, c’est normal de s’enrhumer...
+
+[06430.018]
+Marin
+
+[06430.019]
+Mais vous autres, vous êtes habillés léger toujours et partout, par tous les temps...
+
+[06430.021]
+Ça, il ne faut pas le dire...
+
+[06430.022]
+Marin
+
+[06430.023]
+Moi qui suis de Calvalese, le froid d’ici, c’est trop rude, ma parole.
+
+[06430.024]
+Marin
+
+[06430.025]
+La neige, j’en ai ma claque, ma parole. Le désert du pays me manque.
+
+[06430.026]
+Bazar
+
+[06430.027]
+Bienvenue ! Un souvenir du pays des neiges, ça ne vous dit rien ?
+
+[06430.028]
+Merci, l’ami.
+
+[06430.029]
+À la prochaine !
+
+[06430.030]
+Bazar
+
+[06430.032]
+Une affiche publicitaire. « Fabrication d’arcs sur commande. Pour toute demande, venez chez Chelsea Torn, au nord-ouest de Heidelberg. »
+
+[06430.033]
+Bon voyage.
+
+[06430.034]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06430.035]
+Voulez-vous passer la nuit ?
+
+[06430.037]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06430.038]
+Reposez-vous bien.
+
+[06430.039]
+Bonjour.
+
+[06430.040]
+Vous n’avez pas assez d’argent.
+
+[06430.041]
+Au plaisir de vous revoir.
+
+[06430.046]
+Obtenu : {16:25 BA}.
+
+[06430.048]
+Obtenu : {08:FF FF FF FF}.
+
+[06430.050]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06430.052]
+Il n’y a rien ici.
+

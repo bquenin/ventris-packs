@@ -1,0 +1,98 @@
+[06481.001]
+Cherik : auberge
+
+[06481.002]
+Cherik
+
+[06481.004]
+Des peignoirs et des robes de chambre pour les clients.
+
+[06481.005]
+Millie
+
+[06481.006]
+Moi, c’est Millie, des « Ailes Noires ». Aux yeux du monde, on est des chasseurs de Lentilles assez célèbres, paraît-il.
+
+[06481.008]
+{03:00 00 00 00}　Je connais　
+　Jamais entendu parler　
+
+[06481.009]
+Millie
+
+[06481.010]
+Ça fait plaisir. Mais tu n’as entendu que du mal de nous, pas vrai ?
+
+[06481.011]
+Millie
+
+[06481.012]
+Haa, si seulement ce Grid était un peu plus fiable.
+
+[06481.013]
+Millie
+
+[06481.014]
+On lui fait porter des colis, il les fait tomber à la mer ; livrer un paquet, il se perd ; garder une boutique, il s’endort.
+
+[06481.015]
+Millie
+
+[06481.016]
+Haa~. Pourquoi est-ce que je traîne partout derrière un type pareil, moi ?
+
+[06481.017]
+Millie
+
+[06481.018]
+Ah bon... Bah, c’est peut-être une chance de ne pas nous connaître.
+
+[06481.019]
+Millie
+
+[06481.020]
+À tout prendre, on dit plus de mal que de bien de nous...
+
+[06481.021]
+Millie
+
+[06481.022]
+Haa, si seulement ce Grid était un peu plus fiable.
+
+[06481.023]
+Bon voyage.
+
+[06481.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06481.025]
+Voulez-vous passer la nuit ?
+
+[06481.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06481.028]
+Reposez-vous bien.
+
+[06481.029]
+Bonjour.
+
+[06481.030]
+Vous n’avez pas assez d’argent.
+
+[06481.031]
+Au plaisir de vous revoir.
+
+[06481.036]
+Obtenu : {16:25 BA}.
+
+[06481.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06481.040]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06481.042]
+Il n’y a rien ici.
+

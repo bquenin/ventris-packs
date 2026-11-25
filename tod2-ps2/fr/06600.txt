@@ -1,0 +1,52 @@
+[06600.001]
+Spiral Cave
+
+[06600.002]
+Spiral Cave
+
+[06600.003]
+Spiral Cave
+
+[06600.004]
+Spiral Cave
+
+[06600.006]
+Obtenu : {08:41 00 00 00}.
+
+[06600.007]
+Bon voyage.
+
+[06600.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06600.009]
+Voulez-vous passer la nuit ?
+
+[06600.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06600.012]
+Reposez-vous bien.
+
+[06600.013]
+Bonjour.
+
+[06600.014]
+Vous n’avez pas assez d’argent.
+
+[06600.015]
+Au plaisir de vous revoir.
+
+[06600.020]
+Obtenu : {16:25 C2}.
+
+[06600.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06600.024]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06600.026]
+Il n’y a rien ici.
+

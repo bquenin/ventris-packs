@@ -1,0 +1,52 @@
+[06375.001]
+Ruines de Straylize
+
+[06375.002]
+Ruines de Straylize
+
+[06375.004]
+Ici, la salle de l’énigme.
+
+[06375.017]
+Le sceau n’a pas cédé.
+
+[06375.019]
+Le sceau est rompu.
+
+[06375.020]
+Bon voyage.
+
+[06375.021]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06375.022]
+Voulez-vous passer la nuit ?
+
+[06375.024]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06375.025]
+Reposez-vous bien.
+
+[06375.026]
+Bonjour.
+
+[06375.027]
+Vous n’avez pas assez d’argent.
+
+[06375.028]
+Au plaisir de vous revoir.
+
+[06375.033]
+Obtenu : {16:26 9E}.
+
+[06375.035]
+Obtenu : {08:FF FF FF FF}.
+
+[06375.037]
+Trouvé : {16:26 A6}, mais vous n’avez plus de place.
+
+[06375.039]
+Il n’y a rien ici.
+

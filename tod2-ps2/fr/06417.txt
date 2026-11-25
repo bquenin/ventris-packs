@@ -1,0 +1,193 @@
+[06417.001]
+Neustadt : équipement
+
+[06417.002]
+Neustadt
+
+[06417.003]
+Équipement
+
+[06417.004]
+Richard
+
+[06417.005]
+Cette boutique est une succursale de « Soul & Sword », le magasin d’équipement de Heidelberg.
+
+[06417.006]
+Richard
+
+[06417.007]
+Et voici une pièce de la main de « Winters », son patron, qui est aussi forgeron...
+
+[06417.008]
+Richard
+
+[06417.009]
+Mmh... Un travail splendide. Ce forgeron, Winters, n’est décidément pas le premier venu.
+
+[06417.010]
+Manteaux
+
+[06417.011]
+Bienvenue. Ici, nous vendons des manteaux.
+
+[06417.012]
+Armes
+
+[06417.013]
+Bienvenue. Ici, nous vendons des armes.
+
+[06417.014]
+Merci beaucoup.
+
+[06417.015]
+Revenez nous voir.
+
+[06417.016]
+Accessoires
+
+[06417.017]
+Bienvenue. Ici, nous vendons des accessoires.
+
+[06417.018]
+Armures
+
+[06417.019]
+Bienvenue. Ici, nous vendons des armures.
+
+[06417.020]
+Merci beaucoup.
+
+[06417.021]
+Revenez nous voir.
+
+[06417.022]
+Jeune femme
+
+[06417.023]
+Je prends celui-là... ou plutôt celui-ci... Vraiment, je n’arrive pas à choisir~.
+
+[06417.024]
+Jeune femme
+
+[06417.025]
+Autrefois, sans rien savoir de la valeur de l’argent, j’achetais ce qui me plaisait, autant qu’il me plaisait.
+
+[06417.026]
+Jeune femme
+
+[06417.027]
+Aujourd’hui, j’achète avec l’argent que j’ai gagné moi-même et mis de côté à grand-peine : pas question de gaspiller.
+
+[06417.028]
+Jeune femme
+
+[06417.029]
+Je n’aurais jamais cru qu’il était si difficile de gagner de l’argent.
+
+[06417.030]
+Jeune femme
+
+[06417.031]
+J’ai acheté un accessoire avec l’argent que j’ai gagné et économisé moi-même.
+
+[06417.032]
+Jeune femme
+
+[06417.033]
+Autrefois, il me suffisait de demander à mon père pour avoir bien plus luxueux que les articles d’ici.
+
+[06417.034]
+Jeune femme
+
+[06417.035]
+Mais ce qu’on a obtenu par son propre travail brille plus que n’importe quel objet de luxe.
+
+[06417.036]
+Jeune femme
+
+[06417.037]
+J’ai perdu ma fortune, mais j’ai l’impression d’avoir gagné quelque chose de plus précieux.
+
+[06417.038]
+Jeune femme
+
+[06417.039]
+Je n’aurais jamais cru qu’il était si difficile de gagner de l’argent.
+
+[06417.041]
+Eh oui, c’est bien pour ça qu’avec lui, je suis allé chercher la Lentille à trois millions de Gald... ... ou pas ?
+
+[06417.043]
+Non, on n’y est pas allés... normalement. Et pourtant... ?
+
+[06417.044]
+Jeune femme
+
+[06417.045]
+Autrefois, sans rien savoir de la valeur de l’argent, j’achetais ce qui me plaisait, autant qu’il me plaisait.
+
+[06417.046]
+Jeune femme
+
+[06417.047]
+Aujourd’hui, j’achète avec l’argent que j’ai gagné moi-même et mis de côté à grand-peine : pas question de gaspiller.
+
+[06417.049]
+Une hallebarde richement ornée. Il est écrit : « Pas à vendre ».
+
+[06417.051]
+Une armure de plates aux belles courbes. Il est écrit : « Œuvre de Winters ».
+
+[06417.053]
+Des gantelets et des jambières sont exposés. Il est écrit : « Pas à vendre ».
+
+[06417.055]
+Des armes de rebut, vendues au tas. Il est écrit : « Les 10 pour 980 Gald ».
+
+[06417.057]
+Des armures de rebut, vendues au tas. Il est écrit : « Heaume et plastron, à partir de 1980 Gald ».
+
+[06417.059]
+Une armure de tissu pour femme. Il est écrit : « Essayage strictement interdit aux hommes ! »...
+
+[06417.061]
+Le tout dernier accessoire à Lentille. Il est écrit : « Prototype, pas à vendre ».
+
+[06417.062]
+Bon voyage.
+
+[06417.063]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06417.064]
+Voulez-vous passer la nuit ?
+
+[06417.066]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06417.067]
+Reposez-vous bien.
+
+[06417.068]
+Bonjour.
+
+[06417.069]
+Vous n’avez pas assez d’argent.
+
+[06417.070]
+Au plaisir de vous revoir.
+
+[06417.075]
+Obtenu : {16:25 BA}.
+
+[06417.077]
+Obtenu : {08:FF FF FF FF}.
+
+[06417.079]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06417.081]
+Il n’y a rien ici.
+

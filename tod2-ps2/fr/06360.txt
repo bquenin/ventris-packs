@@ -1,0 +1,591 @@
+[06360.001]
+Aigrette : Grand Bazar
+
+[06360.002]
+Aigrette
+
+[06360.003]
+Aigrette : Grand Bazar
+
+[06360.005]
+Il faut vite aller à la cathédrale !
+
+[06360.006]
+Aigrette : Grand Bazar
+
+[06360.008]
+La charrette est chargée de denrées d’Aquaveil.
+
+[06360.010]
+Du riz récolté dans la région d’Aquaveil. Le riz y serait l’aliment de base.
+
+[06360.012]
+Un casque de chantier. Il a beaucoup servi.
+
+[06360.014]
+Un gros tonneau, haut comme un homme. Dedans... des denrées, on dirait.
+
+[06360.016]
+Dans le tonneau... des épices, une spécialité de Calvalese.
+
+[06360.018]
+Un sac de blé. Il porte la mention « Produit à Cresta ».
+
+[06360.020]
+Serait-ce du blé moulu au moulin à eau de Cresta ?
+
+[06360.022]
+Ouaah... !
+
+[06360.024]
+Voici Aigrette, la ville sainte. La plus grande cité de ce continent.
+
+[06360.026]
+Et le grand temple de Straylize, siège de l’Ordre d’Atamoni, se trouve ici aussi.
+
+[06360.028]
+Alors, {NAME:01 00 00 00} ? C’est bien, bien plus grand que Cresta, hein ?
+
+[06360.030]
+Oui, oui ! C’est incroyable...
+
+[06360.032]
+Pour commencer, flânons un peu en ville et cherchons une auberge.
+
+[06360.033]
+Homme
+
+[06360.034]
+Moi, mon gars, je vais bientôt ouvrir boutique ici. Passez donc, si ça vous dit.
+
+[06360.036]
+Tiens donc. Et tu vendras quoi ?
+
+[06360.037]
+Homme
+
+[06360.038]
+J’achète la camelote pas chère qu’on vend dans le coin, et je la revends cher ! C’est la base du commerce, la base !
+
+[06360.039]
+Homme
+
+[06360.040]
+Quand la boutique sera montée, achetez à tour de bras et faites ma fortune !
+
+[06360.042]
+Compte là-dessus !
+
+[06360.043]
+Homme
+
+[06360.044]
+Aaah, j’ai tout raté. Bon sang de bois...
+
+[06360.046]
+Euh, que vous arrive-t-il ?
+
+[06360.047]
+Homme
+
+[06360.048]
+J’ai voulu acheter plein de trucs pas chers pour les revendre cher, mais j’y ai laissé tout mon argent, et je ne peux plus ouvrir la boutique.
+
+[06360.050]
+On appelle cela : « Le bon marché revient toujours cher ».
+
+[06360.051]
+Homme
+
+[06360.052]
+Dire que j’ai englouti tout l’argent de la boutique... Le commerce, ça fait peur...
+
+[06360.053]
+Homme
+
+[06360.054]
+Dites, les gamins, c’est votre première fois dans cette ville ? Eh bien, moi aussi. Je compte monter une affaire ici.
+
+[06360.055]
+Homme
+
+[06360.056]
+J’ai pas le sou, mais ici, les occasions traînent par terre. Moi aussi, je vais me retrousser les manches !
+
+[06360.057]
+Vendeuse
+
+[06360.058]
+Bienvenue~★ Ici, c’est la confiserie « Ama-Ama ». Le sucré, ça chasse la fatigue, vous savez.
+
+[06360.059]
+Merci bien.
+
+[06360.060]
+À bientôt.
+
+[06360.061]
+Vendeuse
+
+[06360.062]
+Vendeuse
+
+[06360.063]
+Bienvenue~★ Ici, c’est la confiserie « Ama-Ama ». Le sucré, ça chasse la fatigue, vous savez.
+
+[06360.064]
+Étal
+
+[06360.065]
+Ho ! Un petit morceau sur le pouce, ça vous dit ?
+
+[06360.066]
+Merci, hein !
+
+[06360.067]
+Revenez !
+
+[06360.068]
+Étal
+
+[06360.069]
+Étal
+
+[06360.070]
+Ho ! Un petit morceau sur le pouce, ça vous dit ?
+
+[06360.071]
+Jeune homme
+
+[06360.072]
+J’suis ben trop honnête, moi, et j’me suis toujours fait rouler. Alors c’te fois, c’est moi qui vas rouler l’monde.
+
+[06360.073]
+Jeune homme
+
+[06360.074]
+... D-donc, vous autres, ach’tez-moi c’te jarre louche...
+
+[06360.076]
+Dis donc, t’es pas vraiment fait pour ce métier, toi...
+
+[06360.077]
+Jeune homme
+
+[06360.078]
+A-ach’tez-moi c’te jarre ! Elle rend heureux...
+
+[06360.079]
+Jeune homme
+
+[06360.080]
+... Moi, j’veux dire...
+
+[06360.081]
+Jeune homme
+
+[06360.082]
+Dame Elraine, avec ses miracles du tonnerre, elle pourrait pas faire que mes jarres se vendent~ ?
+
+[06360.083]
+Jeune homme
+
+[06360.084]
+J’vas vendre des jarres de toutes mes forces, et quand j’aurai assez de Lentilles, j’lui demanderai, tiens~.
+
+[06360.085]
+Jeune homme
+
+[06360.086]
+D-dites, vous autres, vous m’ach’teriez pas une jarre où l’eau rentre tant qu’on veut ?
+
+[06360.088]
+Tu ne vas quand même pas me dire qu’elle ne se remplit jamais parce qu’elle a un trou au fond ?
+
+[06360.090]
+Il a carrément détourné les yeux.
+
+[06360.091]
+Jeune homme
+
+[06360.092]
+J’suis ben trop honnête, moi, et j’me suis toujours fait rouler. Alors c’te fois, c’est moi qui vas rouler l’monde.
+
+[06360.093]
+Jeune homme
+
+[06360.094]
+... D-donc, vous autres, ach’tez-moi c’te statue louche...
+
+[06360.096]
+Quel idiot irait l’acheter après avoir entendu ça...
+
+[06360.098]
+... Hé, ne la regarde pas avec ces yeux d’envie, {NAME:01 00 00 00} !
+
+[06360.099]
+Jeune homme
+
+[06360.100]
+A-ach’tez-moi c’te statue ! Elle fait fureur, vous savez... Dans ma tête à moi...
+
+[06360.101]
+Savant
+
+[06360.102]
+Après les troubles d’il y a dix-huit ans, ce sont les gens venus chercher le salut au temple qui auraient bâti cette grande ville.
+
+[06360.104]
+Ah bon. Alors Aigrette est une ville plutôt récente.
+
+[06360.105]
+Savant
+
+[06360.106]
+Dix-huit ans depuis les troubles de l’Œil de Dieu... Qu’une si grande ville ait pu naître : la force des hommes est admirable.
+
+[06360.107]
+Savant
+
+[06360.108]
+J’ai vu pour la première fois le pouvoir de dame Elraine... J’en suis resté stupéfait... C’est donc cela, le pouvoir divin.
+
+[06360.109]
+Savant
+
+[06360.110]
+Je trouvais la force des hommes admirable, mais le pouvoir divin l’est plus encore.
+
+[06360.111]
+Savant
+
+[06360.112]
+Cette ville a été bâtie par des gens venus chercher le pouvoir divin...
+
+[06360.113]
+Savant
+
+[06360.114]
+L’homme ne peut-il donc vivre sans s’en remettre à un dieu ?
+
+[06360.115]
+Savant
+
+[06360.116]
+Après les troubles d’il y a dix-huit ans, ce sont les gens venus chercher le salut au temple qui auraient bâti cette grande ville.
+
+[06360.117]
+Savant
+
+[06360.118]
+Qu’une si grande ville ait pu naître en dix-huit ans à peine : la force des hommes est admirable.
+
+[06360.119]
+Savant
+
+[06360.120]
+Dix-huit ans depuis les troubles de l’Œil de Dieu... Qu’une si grande ville ait pu naître : la force des hommes est admirable.
+
+[06360.121]
+Jeune homme
+
+[06360.122]
+Tout le monde s’agite, Elraine par-ci, Elraine par-là, mais si vous voulez mon avis, les miracles, c’est du trucage.
+
+[06360.123]
+Jeune homme
+
+[06360.124]
+Guérir les malades ou faire pousser les bébés comme des champignons rien qu’en priant : si c’était possible, la vie serait trop facile.
+
+[06360.125]
+Jeune homme
+
+[06360.126]
+Au fond, les miracles de la Sainte, ce n’est que du trucage. Moi, je l’ai compris tout de suite.
+
+[06360.127]
+Jeune homme
+
+[06360.128]
+Vous, là ! Regardez cette pierre ! Magnifique, non ?
+
+[06360.130]
+C’est juste un caillou.
+
+[06360.131]
+Jeune homme
+
+[06360.132]
+C’est une pierre du bord du chemin sur laquelle dame Elraine a daigné poser le pied !
+
+[06360.133]
+Jeune homme
+
+[06360.134]
+Avec dame Elraine, forcément, même une simple pierre prend un parfum de noblesse...
+
+[06360.136]
+N’importe quoi.
+
+[06360.137]
+Jeune homme
+
+[06360.138]
+Aah... dame Elraine...
+
+[06360.139]
+Jeune homme
+
+[06360.140]
+J’étais bien venu à Aigrette, mais sans savoir quoi y faire, j’errais sans fin dans les ruelles.
+
+[06360.141]
+Jeune homme
+
+[06360.142]
+Mais ce jour-là, en voyant de mes yeux le pouvoir miraculeux de dame Elraine, je me suis dit : je vais la suivre.
+
+[06360.143]
+Jeune homme
+
+[06360.144]
+Je suivrai dame Elraine toute ma vie. Même si je m’égare, elle sera la lumière qui me guide.
+
+[06360.145]
+Jeune homme
+
+[06360.146]
+Vous savez quoi ? Dame Philia a un faible pour moi.
+
+[06360.148]
+Hein ? Et comment tu sais ça, toi ?
+
+[06360.149]
+Jeune homme
+
+[06360.150]
+Eh bien, elle m’a souri, à moi. Elle est éprise de moi, c’est sûr et certain !
+
+[06360.151]
+Jeune homme
+
+[06360.152]
+Dame Philia m’a souri, à moi. Elle est éprise de moi, c’est sûr et certain !
+
+[06360.154]
+Ridicule. Elle sourit tout le temps, cette dame.
+
+[06360.156]
+Par ici, c’est le bout de la ville, on dirait.
+
+[06360.158]
+Par ici, on dirait bien le bout de la ville.
+
+[06360.160]
+Par ici, c’est le bout de la ville, on dirait.
+
+[06360.161]
+Bon voyage.
+
+[06360.162]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06360.163]
+Voulez-vous passer la nuit ?
+
+[06360.165]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06360.166]
+Reposez-vous bien.
+
+[06360.167]
+Bonjour.
+
+[06360.168]
+Vous n’avez pas assez d’argent.
+
+[06360.169]
+Au plaisir de vous revoir.
+
+[06360.174]
+Obtenu : {16:25 BA}.
+
+[06360.176]
+Obtenu : {08:FF FF FF FF}.
+
+[06360.178]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06360.180]
+Il n’y a rien ici.
+
+[06360.181]
+Vendeur ({08:12 00 00 00})
+
+[06360.182]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06360.183]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06360.184]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06360.185]
+C’est {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06360.187]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 D6} ({14:35 D0} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06360.189]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06360.190]
+Merci de votre achat.
+
+[06360.191]
+Merci de votre achat.
+
+[06360.192]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald pièce.
+
+[06360.193]
+Voulez-vous suivre le cours de raffinage ?
+
+[06360.195]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06360.196]
+Que voulez-vous savoir ?
+
+[06360.198]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06360.200]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06360.201]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06360.202]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06360.203]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06360.204]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06360.205]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06360.206]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06360.207]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06360.208]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06360.209]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06360.210]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06360.211]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06360.212]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06360.213]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06360.214]
+Je vous expliquerai les emplacements en détail à part.
+
+[06360.215]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06360.216]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06360.217]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06360.218]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06360.219]
+Je vais vous expliquer les emplacements en détail.
+
+[06360.220]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06360.221]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06360.222]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06360.223]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06360.224]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06360.225]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06360.226]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06360.227]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06360.228]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06360.229]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06360.230]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06360.231]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06360.232]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06360.233]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06360.234]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06360.235]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06360.236]
+... Ranger ses objets, c’est important aussi.
+

@@ -1,0 +1,722 @@
+[06384.001]
+Grand temple de Straylize
+
+[06384.002]
+Grand temple de Straylize
+
+[06384.003]
+Temple de Straylize
+
+[06384.004]
+Temple de Straylize
+
+[06384.005]
+Grand temple de Straylize
+
+[06384.006]
+Temple de Straylize
+
+[06384.008]
+Des mots sont gravés sur la stèle.
+
+[06384.010]
+Je te la lis ?
+
+[06384.012]
+{03:00 00 00 00}　Se la faire lire　
+　Sans intérêt　
+
+[06384.014]
+Terre de désert, au cœur des flammes
+À mi-pente d’un mont blanc et abrupt
+Sur l’idole engloutie en haute mer
+Vestige mégalithique 1
+
+[06384.016]
+Vestige mégalithique 2
+Au bord d’un lac drapé de vert profond
+Île blanche sans visiteur, jardin vert
+Terre lointaine, cercle creusé au sol
+
+[06384.018]
+Une île mêlée de brume
+Une île absente des cartes
+Derrière une petite cabane
+Des îles que nulle main n’a touchées
+
+[06384.020]
+La plus haute prairie du pays des brumes
+Au sein des monts embrumés
+
+　　　Là, obtiens les preuves du malheur
+
+[06384.022]
+Des mots sont gravés sur la stèle, mais ils sont trop difficiles à lire.
+
+[06384.023]
+Clerc
+
+[06384.024]
+Bienvenue au grand temple de Straylize... Venez-vous offrir des Lentilles ?
+
+[06384.025]
+Clerc
+
+[06384.026]
+Pour offrir des Lentilles, veuillez vous rendre au grand temple, au fond. Que la déesse Atamoni vous protège.
+
+[06384.027]
+Clerc
+
+[06384.028]
+Soyez prudents. Quelqu’un s’est introduit dans le temple, semble-t-il.
+
+[06384.029]
+Clerc
+
+[06384.030]
+Il est dangereux d’approcher du temple ! Mettez-vous à l’abri en lieu sûr.
+
+[06384.031]
+Clerc
+
+[06384.032]
+Les intrus se sont retirés, semble-t-il. Cela aussi, nous le devons à la déesse Atamoni.
+
+[06384.034]
+C’est nous qui les avons chassés, pourtant...
+
+[06384.035]
+Clerc
+
+[06384.036]
+Le châtiment de la déesse Atamoni s’abattra sûrement sur les intrus qui ont profané le temple.
+
+[06384.037]
+Clerc
+
+[06384.038]
+Une cérémonie importante va se tenir au grand temple : veuillez vous abstenir de venir y prier.
+
+[06384.039]
+Clerc
+
+[06384.040]
+Il y a eu comme du tumulte : la cérémonie s’est-elle achevée sans encombre ?
+
+[06384.042]
+Pas d’inquiétude, on va y mettre fin nous-mêmes...
+
+[06384.043]
+Clerc
+
+[06384.044]
+Voyez-vous cela. J’ignore qui vous êtes, mais merci de votre concours.
+
+[06384.045]
+Clerc
+
+[06384.046]
+Pourvu que la cérémonie s’achève sans encombre.
+
+[06384.047]
+Clerc
+
+[06384.048]
+Pour offrir des Lentilles, veuillez vous rendre au grand temple, au fond. Que la déesse Atamoni vous protège.
+
+[06384.049]
+Clerc
+
+[06384.050]
+Ces temps-ci, on ne voit plus dame Elraine.
+
+[06384.051]
+Clerc
+
+[06384.052]
+Elle doit être fort occupée à visiter les différents pays.
+
+[06384.054]
+Visiter, je ne sais pas, mais occupée, ça, c’est bien possible...
+
+[06384.055]
+Clerc
+
+[06384.056]
+Pour offrir des Lentilles, veuillez vous rendre au grand temple, au fond. Que la déesse Atamoni vous protège.
+
+[06384.057]
+Clerc
+
+[06384.058]
+Pour offrir des Lentilles, veuillez vous rendre au grand temple, au fond. Que la déesse Fortuna vous protège.
+
+[06384.059]
+Clerc
+
+[06384.060]
+Ces temps-ci, on ne voit plus dame Elraine.
+
+[06384.061]
+Clerc
+
+[06384.062]
+Elle doit être fort occupée à visiter les différents pays.
+
+[06384.064]
+Visiter, je ne sais pas, mais occupée, ça, c’est bien possible...
+
+[06384.065]
+Clerc
+
+[06384.066]
+Pour offrir des Lentilles, veuillez vous rendre au grand temple, au fond. Que la déesse Fortuna vous protège.
+
+[06384.067]
+Clerc
+
+[06384.068]
+Dame Philia doit être dans sa chambre.
+
+[06384.069]
+Clerc
+
+[06384.070]
+Dame Philia est sans doute dans sa chambre.
+
+[06384.071]
+Clerc
+
+[06384.072]
+Moi aussi, à tout prendre, à dame Elraine, je préfère dame Philia... Ah, non, rien du tout.
+
+[06384.073]
+Clerc
+
+[06384.074]
+Ces lunettes d’intellectuelle ont un je-ne-sais-quoi... Ah, non, rien du tout.
+
+[06384.075]
+Clerc
+
+[06384.076]
+Je vous en prie, priez à votre guise.
+
+[06384.078]
+Et si je prie, je tomberai sur une femme charmante ?
+
+[06384.079]
+Clerc
+
+[06384.080]
+Cela, voyez-vous, dépend des efforts de chacun...
+
+[06384.081]
+Clerc
+
+[06384.082]
+La déesse Atamoni veille sur nous à chaque instant.
+
+[06384.084]
+Elle veille, c’est tout... Ça pourrait rapporter un peu plus, quand même.
+
+[06384.085]
+Clerc
+
+[06384.086]
+Le bonheur ne se reçoit pas d’autrui : on le saisit de ses propres mains.
+
+[06384.087]
+Clerc
+
+[06384.088]
+Je vous en prie, je vous en prie, priez à votre guise.
+
+[06384.089]
+Clerc
+
+[06384.090]
+... ...... Ha !
+
+[06384.091]
+Clerc
+
+[06384.092]
+Je ne dors pas ! Je ne dors pas ! J’étais juste plongé dans ma méditation ! Je le jure sur la déesse Atamoni, je...
+
+[06384.093]
+Clerc
+
+[06384.094]
+... ...... Rrr...
+
+[06384.095]
+Clerc
+
+[06384.096]
+Awawawawawa... ! Pendant que je dormais... non, que je méditais, il s’est passé des choses terribles dans le temple !!
+
+[06384.097]
+Clerc
+
+[06384.098]
+Pas de panique ! C’est dans ces moments-là qu’il faut garder son calme... Respirer à fond... Ffff, haaa, ffff, haaa, ffff, ffff...
+
+[06384.100]
+Sans qu’on s’en aperçoive, la respiration est devenue un ronflement...
+
+[06384.102]
+Dans un sens, c’est peut-être un grand homme...
+
+[06384.103]
+Clerc
+
+[06384.104]
+... ...... Rrr...
+
+[06384.105]
+Clerc
+
+[06384.106]
+Pendant que je dormais... non, que je méditais, l’affaire s’est réglée, semble-t-il.
+
+[06384.107]
+Clerc
+
+[06384.108]
+Me voilà rassuré, je vais pouvoir redormir... ah, non, reméditer.
+
+[06384.109]
+Clerc
+
+[06384.110]
+... ...... Rrr...
+
+[06384.111]
+Clerc
+
+[06384.112]
+... ...... Ha !
+
+[06384.113]
+Clerc
+
+[06384.114]
+Je ne dors pas ! Je ne dors pas ! J’étais juste plongé dans ma méditation avant la cérémonie importante !
+
+[06384.115]
+Clerc
+
+[06384.116]
+Ouf... Si on me surprenait à somnoler pendant une cérémonie, pour le coup, je serais peut-être excommunié...
+
+[06384.117]
+Clerc
+
+[06384.118]
+Mmmmmmm... Alors, qu’en dites-vous ! J’ai tenu jusqu’à la fin de la cérémonie sans somnoler.
+
+[06384.119]
+Clerc
+
+[06384.120]
+Mmmmmmm... Jusqu’à la fin de la cérémonie, coûte que coûte, tenir sans somnoler... il... le... faut...
+
+[06384.121]
+Clerc
+
+[06384.122]
+... ...... Rrr...
+
+[06384.123]
+Fidèle
+
+[06384.124]
+Haah. J’ai bien fait d’offrir autant. Pouvoir visiter le temple tout à loisir, comme ça.
+
+[06384.125]
+Fidèle
+
+[06384.126]
+De retour au village, il faudra que je m’en vante un bon coup auprès du vieux d’à côté.
+
+[06384.127]
+Fidèle
+
+[06384.128]
+Qui sait quand je pourrai revenir : je me grave la vue de ce temple jusqu’au fond des paupières.
+
+[06384.129]
+Fidèle
+
+[06384.130]
+Dis donc, toi. Ça s’agite drôlement : il s’est passé quelque chose ?
+
+[06384.131]
+Fidèle
+
+[06384.132]
+Quelle agitation, vraiment. Les jeunes d’aujourd’hui... Ne peuvent-ils pas au moins prier en silence ?
+
+[06384.133]
+Fidèle
+
+[06384.134]
+Avant de rentrer au village, je refais le tour du temple, jusqu’au moindre recoin ! Je serais capable d’oublier en chemin.
+
+[06384.135]
+Fidèle
+
+[06384.136]
+Quand le vieux d’à côté entendra mes récits de voyage, il en tombera à la renverse, c’est certain.
+
+[06384.137]
+Fidèle
+
+[06384.138]
+Avant de rentrer au village, je refais le tour du temple, jusqu’au moindre recoin ! Je serais capable d’oublier en chemin.
+
+[06384.139]
+Fidèle
+
+[06384.140]
+Haah. J’ai bien fait d’offrir autant. Pouvoir visiter le temple tout à loisir, comme ça.
+
+[06384.142]
+Comment puis-je rencontrer un héros !? Je vous en prie, dites-le-moi, Philia !
+
+[06384.144]
+Cette voix... c’est elle !
+
+[06384.146]
+Ça sent mauvais, {NAME:01 00 00 00} !
+
+[06384.148]
+Allons-y, {NAME:03 00 00 00} !
+
+[06384.149]
+Pèlerin
+
+[06384.150]
+Dis donc, toi, il y a eu du tapage du côté du temple : il s’est passé quelque chose ?
+
+[06384.152]
+Oh, des visiteurs pas très recommandables sont passés. Ils sont repartis, maintenant.
+
+[06384.153]
+Pèlerin
+
+[06384.154]
+Vraiment, les jeunes d’aujourd’hui, ne peuvent-ils pas au moins prier en silence...
+
+[06384.155]
+Pèlerine
+
+[06384.156]
+Pouvoir venir prier au grand temple de mon vivant : j’en ai, de la chance.
+
+[06384.157]
+Pèlerine
+
+[06384.158]
+De retour à la maison, il faudra que je raconte tout ça au vieux, et pas qu’un peu.
+
+[06384.159]
+Pèlerin
+
+[06384.160]
+Hoo~. Il y a une drôle de chose qui flotte dans le ciel. Qu’est-ce que ça peut bien être ?
+
+[06384.161]
+Pèlerine
+
+[06384.162]
+Ho ho ho. Encore du beau temps aujourd’hui.
+
+[06384.164]
+Oui, c’est vrai. Vous êtes venue prier, grand-mère ?
+
+[06384.165]
+Pèlerine
+
+[06384.166]
+Que non, c’est juste ma promenade. Les jours de beau temps, je marche jusqu’ici, c’est mon habitude.
+
+[06384.167]
+Pèlerine
+
+[06384.168]
+La promenade jusqu’au temple de Straylize : voilà le secret d’une longue vie.
+
+[06384.169]
+Pèlerine
+
+[06384.170]
+Chez moi, à la campagne, l’an dernier, les légumes et les fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Atamoni.
+
+[06384.171]
+Pèlerine
+
+[06384.172]
+Je suis venue de bien loin jusqu’au grand temple pour l’en remercier.
+
+[06384.173]
+Pèlerine
+
+[06384.174]
+C’est grâce à la déesse Atamoni que nous pouvons vivre.
+
+[06384.175]
+Pèlerine
+
+[06384.176]
+Si loin que j’habite, jamais je n’oublierais ce que je dois au grand temple.
+
+[06384.177]
+Pèlerine
+
+[06384.178]
+Chez moi, à la campagne, l’an dernier, les légumes et les fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Fortuna.
+
+[06384.179]
+Pèlerine
+
+[06384.180]
+Je suis venue de bien loin jusqu’au grand temple pour l’en remercier.
+
+[06384.181]
+Pèlerine
+
+[06384.182]
+C’est grâce à la déesse Fortuna que nous pouvons vivre.
+
+[06384.183]
+Pèlerine
+
+[06384.184]
+Si loin que j’habite, jamais je n’oublierais ce que je dois au grand temple.
+
+[06384.185]
+Pèlerine
+
+[06384.186]
+Dame Philia est d’une grande bonté.
+
+[06384.187]
+Pèlerine
+
+[06384.188]
+Une personne si importante, et elle écoute mes soucis de tout son cœur.
+
+[06384.189]
+Pèlerine
+
+[06384.190]
+J’aime beaucoup dame Elraine aussi, mais me voilà devenue une admiratrice de dame Philia.
+
+[06384.191]
+Pèlerine
+
+[06384.192]
+Chez moi, à la campagne, l’an dernier, les légumes et les fruits ont donné comme jamais. Ça aussi, c’est grâce à la déesse Atamoni.
+
+[06384.193]
+Pèlerine
+
+[06384.194]
+Moi, je suis venue de bien loin jusqu’au temple pour l’en remercier.
+
+[06384.195]
+Pèlerine
+
+[06384.196]
+La déesse Atamoni veille sur nous, alors on peut vivre l’esprit en paix. Quelle bénédiction.
+
+[06384.197]
+Pèlerin
+
+[06384.198]
+Tu as l’air heureux, toi. Combien de Lentilles as-tu donc offertes ?
+
+[06384.200]
+Sa tête, c’est pas du bonheur, c’est de l’insouciance. Les Lentilles n’y sont pour rien.
+
+[06384.201]
+Pèlerin
+
+[06384.202]
+Combien de Lentilles faut-il donc offrir pour être heureux...
+
+[06384.203]
+Pèlerin
+
+[06384.204]
+Tu as apporté combien de Lentilles, toi ? Moi, je n’en ai que 15 : je serai heureux, avec ça ?
+
+[06384.205]
+Pèlerin
+
+[06384.206]
+C’est ta première fois au temple ? Moi, je viens tous les jours. Comment dire, ça m’apaise.
+
+[06384.207]
+Pèlerin
+
+[06384.208]
+Et tant que j’y suis, je prie pour me trouver une petite amie.
+
+[06384.210]
+I-incroyable... ! C’est donc ça, le grand temple de Straylize !
+
+[06384.212]
+Voici la cathédrale, au cœur du grand temple. Seuls les clercs de haut rang y entrent : moi-même, c’est la première fois.
+
+[06384.214]
+Hm, j’entends quelque chose...
+
+[06384.216]
+C’est ici ! {NAME:02 00 00 00} est de l’autre côté !
+
+[06384.217]
+Philia
+
+[06384.218]
+{NAME:01 00 00 00} !
+
+[06384.220]
+Philia !
+
+[06384.221]
+Philia
+
+[06384.222]
+Toutes les Lentilles que nous gardions pour la recherche ont disparu ! Savez-vous quelque chose !?
+
+[06384.224]
+Les Lentilles... ont disparu ?
+
+[06384.226]
+Q-qu’est-ce que... !?
+
+[06384.228]
+Bon sang ! Il a vite détalé, celui-là !
+
+[06384.230]
+Ne me dites pas que les Lentilles sont dans le Dragon volant... !
+
+[06384.231]
+Philia
+
+[06384.232]
+Euh, {NAME:01 00 00 00}, que se passe-t-il donc...
+
+[06384.234]
+Ce n’est qu’une supposition, mais... Elraine s’est enfuie avec les Lentilles.
+
+[06384.235]
+Philia
+
+[06384.236]
+Hein !?
+
+[06384.238]
+Elle compte se servir du pouvoir des Lentilles pour faire descendre une divinité.
+
+[06384.239]
+Philia
+
+[06384.240]
+Non... Elle n’est pas ce genre de personne... !
+
+[06384.242]
+Vous ne nous croirez peut-être pas... mais nous ne mentons pas.
+
+[06384.243]
+Philia
+
+[06384.244]
+........
+
+[06384.246]
+Alors au revoir, Philia.
+
+[06384.247]
+Philia
+
+[06384.248]
+Attendez !
+
+[06384.249]
+Philia
+
+[06384.250]
+Prenez ceci... Cela vous sera sûrement utile.
+
+[06384.251]
+Philia
+
+[06384.252]
+C’est un instrument qui décèle ce que l’œil ne voit pas, ce que les sens ne perçoivent pas.
+
+[06384.253]
+Philia
+
+[06384.254]
+Avec lui, vous trouverez ce qui d’ordinaire vous échappait.
+
+[06384.256]
+Philia...
+
+[06384.257]
+Philia
+
+[06384.258]
+Vos yeux ne mentaient pas. Alors... je vous crois.
+
+[06384.260]
+... Merci, Philia ! Alors, nous y allons !
+
+[06384.261]
+Philia
+
+[06384.262]
+{NAME:01 00 00 00}, je... crois en vous.
+
+[06384.263]
+Bon voyage.
+
+[06384.264]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06384.265]
+Voulez-vous passer la nuit ?
+
+[06384.267]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06384.268]
+Reposez-vous bien.
+
+[06384.269]
+Bonjour.
+
+[06384.270]
+Vous n’avez pas assez d’argent.
+
+[06384.271]
+Au plaisir de vous revoir.
+
+[06384.276]
+Obtenu : {16:25 EE}.
+
+[06384.278]
+Obtenu : {08:FF FF FF FF}.
+
+[06384.280]
+Trouvé : {16:25 F6}, mais vous n’avez plus de place.
+
+[06384.282]
+Il n’y a rien ici.
+

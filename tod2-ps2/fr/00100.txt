@@ -1,0 +1,21 @@
+[00100.001]
+Évitons Darilsheid un bon moment...
+
+[00100.002]
+Hein ! Pourquoi ?
+
+[00100.003]
+Crétin ! On est des évadés, je te rappelle.
+
+[00100.004]
+Mais oui ! On est des évadés ! Hé hé, c’est vrai♪
+
+[00100.005]
+Dis... pourquoi t’as l’air si content ?
+
+[00100.006]
+Ben, c’est trop fort ! Nous, des hommes recherchés, on va devenir des héros ! Rhaa, la cla~sse !!
+
+[00100.007]
+... Dis, {NAME:01 00 00 00}. Ton caractère, franchement, je l’envie.
+

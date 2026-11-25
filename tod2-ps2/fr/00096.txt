@@ -1,0 +1,27 @@
+[00096.001]
+Sans moi, les petits vont se sentir seuls...
+
+[00096.002]
+Sûrement...
+
+[00096.003]
+Sans moi... ils vont s’en sortir, tu crois ?
+
+[00096.004]
+Bah, t’inquiète donc pas.
+
+[00096.005]
+Comment tu peux en être si sûr ?
+
+[00096.006]
+En quittant l’orphelinat, je pensais pareil : « Laisser ça à {NAME:01 00 00 00}, c’est bien prudent ? »
+
+[00096.007]
+Hé, c’est pas gentil. Je me suis bien débrouillé, non !
+
+[00096.008]
+Oui. Tu t’en es très bien tiré... Alors eux aussi, ils s’en sortiront... Pas vrai ?
+
+[00096.009]
+Ah... Oui... C’est vrai.
+

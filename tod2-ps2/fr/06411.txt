@@ -1,0 +1,325 @@
+[06411.001]
+Neustadt
+
+[06411.002]
+Neustadt
+
+[06411.004]
+Un trophée doré de mauvais goût est exposé.
+
+[06411.006]
+Des pierreries sont exposées avec ostentation.
+
+[06411.008]
+Des faïences qui ont l’air coûteuses sont exhibées avec fierté.
+
+[06411.010]
+Obtenu : {08:89 01 00 00}.
+
+[06411.012]
+Des cigares qui ont l’air chers sont posés sur le bureau.
+
+[06411.013]
+Marchand
+
+[06411.014]
+La « Mine désaffectée Oberon » se trouve à l’ouest de cette ville.
+
+[06411.015]
+Marchand
+
+[06411.016]
+Suivez la côte sud à travers la Crête des Nuages blancs, et vous la trouverez vite.
+
+[06411.018]
+Compris ! On rapportera le trésor, c’est promis !
+
+[06411.019]
+Marchand
+
+[06411.020]
+La « Mine désaffectée Oberon » se trouve à l’ouest de cette ville.
+
+[06411.021]
+Marchand
+
+[06411.022]
+Suivez la côte sud à travers la Crête des Nuages blancs, et vous la trouverez vite.
+
+[06411.023]
+Marchand
+
+[06411.024]
+Bouhouhou... Dire que le trésor de la compagnie Oberon, ce géant, n’était que cette camelote...
+
+[06411.026]
+Pas de veine, mon vieux. Bah, ça finira bien par s’arranger.
+
+[06411.027]
+Marchand
+
+[06411.028]
+Grr~ ! Ce testament que j’avais eu tant de mal à obtenir !!
+
+[06411.029]
+Marchand
+
+[06411.030]
+Ho ho ho ho. Rencontrer de si remarquables combattants : j’ai de la chance, vraiment.
+
+[06411.031]
+Marchand
+
+[06411.032]
+Qu’est-ce que cela signifie ! Vous aviez dit que vous me mettriez dans le coup~ !
+
+[06411.033]
+Marchand
+
+[06411.034]
+Il m’a dit de lui passer le papier : j’ai cru qu’il parlait du testament, et je le lui ai donné.
+
+[06411.035]
+Marchand
+
+[06411.036]
+Et lui, il me l’arrache des mains et court droit aux toilettes...
+
+[06411.037]
+Bazar
+
+[06411.038]
+Bienvenue ?
+
+[06411.039]
+Merci beaucoup.
+
+[06411.040]
+Revenez nous voir.
+
+[06411.041]
+Bazar
+
+[06411.042]
+Servante
+
+[06411.043]
+Au-delà, ce sont les appartements de monsieur. Je regrette, mais je dois prier les visiteurs de se retirer.
+
+[06411.044]
+Marchand
+
+[06411.045]
+Oh, je vous attendais ! J’étais certain que vous viendriez !
+
+[06411.047]
+Évidemment ! Aider ceux qui sont dans l’embarras, c’est aussi la mission d’un héros.
+
+[06411.049]
+... Alors, c’est quoi, ce que vous voulez nous demander ?
+
+[06411.050]
+Marchand
+
+[06411.051]
+Voici : il y avait autrefois dans cette ville une succursale d’une grande entreprise, la compagnie Oberon...
+
+[06411.052]
+Marchand
+
+[06411.053]
+Quand la compagnie Oberon a disparu dans les derniers grands troubles, le trésor gardé dans son coffre s’est évanoui lui aussi, comme une brume.
+
+[06411.054]
+Marchand
+
+[06411.055]
+Or mes recherches m’ont appris que ce trésor dort dans une mine désaffectée, près de la ville.
+
+[06411.057]
+Autrement dit : « allez me chercher ce trésor dans la mine ». C’est bien ça ?
+
+[06411.058]
+Marchand
+
+[06411.059]
+Je vous récompenserai autant qu’il vous plaira : je vous en prie, je vous en supplie, acceptez.
+
+[06411.061]
+... Toi. Où as-tu flairé cela ? Ce qui n’est écrit que dans son testament à elle, comment le sais-tu ?
+
+[06411.062]
+Marchand
+
+[06411.063]
+L-le testament de dame Ilene ? Nous n’en savons rien, rien du tout ! Nous avons tout appris par hasard...
+
+[06411.065]
+Étrange. Je n’ai dit que « elle ». Je n’ai pas prononcé le nom d’Ilene.
+
+[06411.066]
+Marchand
+
+[06411.067]
+C-c’est que...
+
+[06411.069]
+Hé, hé, {NAME:04 00 00 00}. Qu’est-ce que tu as à lui chercher noise ! Tu vois bien qu’il a peur, le bonhomme.
+
+[06411.071]
+Peur ? Il s’affole d’avoir été percé à jour, voilà tout.
+
+[06411.072]
+Marchand
+
+[06411.073]
+P-percé à jour ? C’est une calomnie ! Puisque c’est ainsi, n’en parlons plus...
+
+[06411.075]
+Waaah ! E-en tout cas ! Il suffit de rapporter le trésor, c’est bien ça ?
+
+[06411.076]
+Marchand
+
+[06411.077]
+... Eh bien, oui. Mais...
+
+[06411.079]
+Bon, compris ! Attendez-nous, monsieur : on vous le rapportera, c’est promis !
+
+[06411.080]
+Marchand
+
+[06411.081]
+Quand j’ai racheté cette demeure, sur l’ancien terrain de la compagnie Oberon, il y avait un testament dans le coffre.
+
+[06411.082]
+Marchand
+
+[06411.083]
+N’empêche, ces imbéciles : un peu de flatterie, et les voilà partis ventre à terre.
+
+[06411.084]
+Marchand
+
+[06411.085]
+Qu’ils crèvent en chemin, je n’y perds pas 1 Gald. Sans me vanter, c’est joliment joué.
+
+[06411.086]
+Marchand
+
+[06411.087]
+Toujours aussi habile en affaires. J’aimerais avoir votre chance. Ho ho ho ho !
+
+[06411.088]
+Marchand
+
+[06411.089]
+Oh, je vous attendais ! Je n’avais qu’un souci : que vous soyez blessés...
+
+[06411.091]
+Tss, menteur !
+
+[06411.092]
+Marchand
+
+[06411.093]
+Au fait, l’objet convenu, avez-vous pu le rapporter ?
+
+[06411.095]
+Oui, bien sûr ! Tenez, le voilà !
+
+[06411.096]
+Marchand
+
+[06411.097]
+... C’est cela, le trésor, vraiment ?
+
+[06411.099]
+Il n’y avait que ça qui y ressemblait.
+
+[06411.100]
+Marchand
+
+[06411.101]
+... Euh, qu’est-ce donc que cette chose ?
+
+[06411.103]
+Aucune idée !
+
+[06411.105]
+Nous, on nous a juste dit de rapporter le trésor, vous comprenez.
+
+[06411.107]
+... Hmf.
+
+[06411.108]
+Marchand
+
+[06411.109]
+C-c’est vrai, mais...
+
+[06411.111]
+Bon, on a rapporté ce qui était convenu : la récompense, s’il vous plaît ?
+
+[06411.112]
+Marchand
+
+[06411.113]
+... M-mais une chose dont on ignore ce qu’elle est, peut-on l’appeler un trésor...
+
+[06411.115]
+... Au point où nous en sommes, tu veux qu’on aille te chercher autre chose encore ?
+
+[06411.116]
+Marchand
+
+[06411.117]
+Hii ! N-n-non, rien du tout ! T-t-t-tenez, prenez, je vous en prie !
+
+[06411.119]
+Obtenu : {0B:01 00 00 00}{06:B8 0B 00 00}{0B:00 00 00 00} Gald.
+
+[06411.121]
+Génial !
+
+[06411.123]
+Bon, eh bien, voilà.
+
+[06411.124]
+Bon voyage.
+
+[06411.125]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06411.126]
+Voulez-vous passer la nuit ?
+
+[06411.128]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06411.129]
+Reposez-vous bien.
+
+[06411.130]
+Bonjour.
+
+[06411.131]
+Vous n’avez pas assez d’argent.
+
+[06411.132]
+Au plaisir de vous revoir.
+
+[06411.137]
+Obtenu : {16:25 BA}.
+
+[06411.139]
+Obtenu : {08:FF FF FF FF}.
+
+[06411.141]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06411.143]
+Il n’y a rien ici.
+

@@ -1,0 +1,33 @@
+[00514.001]
+Ces gens disaient que l’air du dehors est pollué, mais nous, on n’a rien de spécial, non ?
+
+[00514.002]
+Sans doute leur immunité a-t-elle baissé, à force de vivre en milieu stérile.
+
+[00514.003]
+« Immunité » ? C’est quoi, ça ?
+
+[00514.004]
+L’« immunité », c’est-à-dire, vois-tu...
+
+[00514.005]
+Lui expliquer, c’est peine perdue. Laisse-moi faire... Dis, {NAME:01 00 00 00}. Toi, marcher dans l’eau boueuse, ça ne te gêne pas ?
+
+[00514.006]
+Non. Pas du tout.
+
+[00514.007]
+Normal, tu es déjà sale. Mais une femme en robe toute neuve ne voudra pas entrer dans la boue, non ?
+
+[00514.008]
+Hm, hm.
+
+[00514.009]
+Eux, ils sont tous comme cette « femme en robe ».
+
+[00514.010]
+Hein ! C’étaient tous des « femmes » !?
+
+[00514.011]
+Hmf... Tu disais vrai : peine perdue...
+

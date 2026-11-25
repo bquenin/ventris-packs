@@ -1,0 +1,214 @@
+[06310.001]
+Cresta : auberge
+
+[06310.002]
+Cresta
+
+[06310.003]
+Vieil homme
+
+[06310.004]
+Je suis venu dans cette ville pour adopter un enfant de l’orphelinat, mais lequel choisir ? Impossible...
+
+[06310.005]
+Vieil homme
+
+[06310.006]
+Ils s’entendent comme frères et sœurs. Les séparer, vraiment, je n’en ai pas le cœur...
+
+[06310.007]
+Vieil homme
+
+[06310.008]
+Autant venir nous installer ici nous-mêmes, tiens.
+
+[06310.009]
+Vieil homme
+
+[06310.010]
+C’est un endroit paisible, tranquille, où il fait bon vivre. Si seulement ce bonheur durait toujours.
+
+[06310.011]
+Vieil homme
+
+[06310.012]
+À mon âge, le sourire des enfants vous manque. Alors j’ai proposé d’adopter un orphelin.
+
+[06310.013]
+Vieil homme
+
+[06310.014]
+Mais Rutee a refusé. « Votre bonté me touche, mais ce sont tous mes enfants », m’a-t-elle dit.
+
+[06310.015]
+Vieil homme
+
+[06310.016]
+C’est peut-être à l’orphelinat que ces enfants sont le plus heureux.
+
+[06310.017]
+Vieil homme
+
+[06310.018]
+À voir ces sourires pareils au soleil, on finit par le croire.
+
+[06310.019]
+Vieil homme
+
+[06310.020]
+Je me suis longtemps demandé comment les enfants de l’orphelinat pouvaient rire ainsi.
+
+[06310.021]
+Vieil homme
+
+[06310.022]
+Mais j’ai enfin compris. C’est tout simple : avec Stahn et Rutee pour parents, c’est une famille, là-bas.
+
+[06310.023]
+Vieil homme
+
+[06310.024]
+L’orphelinat semblait avoir du mal à joindre les deux bouts, alors je pensais adopter un enfant. Mais ce n’était pas la peine, on dirait.
+
+[06310.025]
+Riche dame
+
+[06310.026]
+Ma fille s’est mariée dans cette ville, voyez-vous...
+
+[06310.027]
+Riche dame
+
+[06310.028]
+Jamais je n’aurais imaginé une telle campagne. Pourquoi a-t-elle quitté la vie aisée d’Aigrette pour venir ici ?
+
+[06310.029]
+Riche dame
+
+[06310.030]
+Des villes agréables à vivre, il y en a tant d’autres, pourtant...
+
+[06310.031]
+Riche dame
+
+[06310.032]
+Et puis ça sent la terre... Ce lieu ne sied guère à une personne raffinée comme moi.
+
+[06310.033]
+Riche dame
+
+[06310.034]
+Haa... Ma fille n’a pas l’intention de rentrer à Aigrette, semble-t-il.
+
+[06310.035]
+Riche dame
+
+[06310.036]
+Une fois habituée, on doit s’y plaire, je n’en doute pas, mais cela ne vaut pas Aigrette.
+
+[06310.037]
+Riche dame
+
+[06310.038]
+Après tout, à Aigrette, il y a dame Elraine.
+
+[06310.039]
+Riche dame
+
+[06310.040]
+Aigrette est la ville que protège dame Elraine.
+
+[06310.041]
+Riche dame
+
+[06310.042]
+Aucune ville ne surpasse Aigrette, et pourtant...
+
+[06310.043]
+Riche dame
+
+[06310.044]
+On mange vraiment très bien, ici.
+
+[06310.045]
+Riche dame
+
+[06310.046]
+Et l’assaisonnement campagnard ne me dérange pas.
+
+[06310.048]
+La cuisine d’ici, c’est ma mère qui l’a transmise en personne. Même si elle l’a apprise de quelqu’un, paraît-il.
+
+[06310.049]
+Riche dame
+
+[06310.050]
+Qui donc a bien pu apprendre la cuisine à votre mère ?
+
+[06310.051]
+Riche dame
+
+[06310.052]
+Je voudrais tant l’avoir comme chef attitré de notre maison.
+
+[06310.054]
+Un paysage peint. On dirait des ruines, quelque part.
+
+[06310.056]
+Un tableau de ruines couvertes de verdure. Il y avait un endroit comme ça près de Cresta, non... ?
+
+[06310.058]
+C’est une chambre réservée aux clients. Mieux vaut ne toucher à rien.
+
+[06310.060]
+Il n’y a rien dedans, semble-t-il.
+
+[06310.062]
+Il semble y avoir quelque chose au fond... ?
+
+[06310.064]
+Il y a quelque chose...
+
+[06310.066]
+Obtenu : {08:22 01 00 00}.
+
+[06310.068]
+Ça, c’est... les goûts de Nelson, j’imagine...
+
+[06310.069]
+Bon voyage.
+
+[06310.070]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06310.071]
+Voulez-vous passer la nuit ?
+
+[06310.073]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06310.074]
+Reposez-vous bien.
+
+[06310.075]
+Bonjour.
+
+[06310.076]
+Vous n’avez pas assez d’argent.
+
+[06310.077]
+Au plaisir de vous revoir.
+
+[06310.082]
+Obtenu : {16:25 CA}.
+
+[06310.084]
+Obtenu : {08:FF FF FF FF}.
+
+[06310.086]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06310.088]
+Il n’y a rien ici.
+

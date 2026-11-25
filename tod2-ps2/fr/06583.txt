@@ -1,0 +1,202 @@
+[06583.001]
+Dépôt de matériel
+
+[06583.002]
+Dépôt de matériel
+
+[06583.003]
+Dépôt de matériel
+
+[06583.005]
+C’est ça, le Dépôt de matériel ?
+
+[06583.007]
+Il est dans un bel état de ruine, on dirait.
+
+[06583.009]
+Le bâtiment a gardé sa forme : il s’en tire bien. Ce n’était pas un coup direct, voilà pourquoi ça s’arrête là.
+
+[06583.011]
+Ça fait froid dans le dos. Pourquoi avoir fabriqué un truc comme Belcrant...
+
+[06583.013]
+Pourquoi ? Pour créer de nouvelles terres, voyons. Tu ne savais pas ?
+
+[06583.015]
+Hein ? C’est vrai ?
+
+[06583.017]
+À l’origine, Belcrant était un système destiné à broyer finement la surface du sol et à la projeter dans le ciel.
+
+[06583.019]
+Et avec les pierres et les rochers projetés, on comptait fabriquer dans le ciel des terres flottantes, pour y bâtir villes et villages.
+
+[06583.021]
+En principe, toute la population devait émigrer sur ces terres flottantes.
+
+[06583.023]
+Mais seule une classe de privilégiés, ceux qu’on appelle les Célestes, a fini par en profiter.
+
+[06583.025]
+Et les gens de la terre, révoltés, ont levé l’étendard de la rébellion : c’est ça, la guerre du Ciel et de la Terre, non ?
+
+[06583.027]
+Oui. Et dès que la guerre a éclaté, Belcrant s’est changé en arme...
+
+[06583.029]
+Bah, c’est à peu près ça. Comme arme, il est irréprochable, il faut dire~. À pleine puissance, il peut rayer une île de la carte.
+
+[06583.031]
+Une machine faite pour aider les gens, qu’on force à aider à les tuer...
+
+[06583.033]
+Pour ceux de l’équipe de conception, ce doit être bien dur...
+
+[06583.035]
+Remarque, il arrive aussi qu’un outil de mort aide les gens, comme les Swordians que je fabrique.
+
+[06583.037]
+Bref, voilà pourquoi je tiens à ce que cette opération réussisse ! Alors au travail, et que ça saute.
+
+[06583.039]
+Compris !
+
+[06583.041]
+Minute ! ... Ça sent bizarre, non ?
+
+[06583.043]
+Aïe, raté ! Des produits chimiques ont fui.
+
+[06583.045]
+Un gaz toxique ? On ne peut donc pas entrer...
+
+[06583.047]
+Oh, ça va, ça va. C’est plutôt méchant, mais dix minutes, ça se supporte. Sans doute.
+
+[06583.049]
+Sérieux ?
+
+[06583.051]
+Sérieux.
+
+[06583.053]
+Bon. Écoutez bien : ce qu’on cherche est rangé dans le conteneur tout au fond de la réserve de matériaux.
+
+[06583.055]
+Mais pour l’ouvrir, il faut forcer plusieurs verrous de sécurité.
+
+[06583.057]
+Les « clés de déverrouillage » doivent traîner un peu partout : récupérez-les toutes.
+
+[06583.059]
+C-compris.
+
+[06583.061]
+M-mais on peut vraiment entrer sans danger !?
+
+[06583.063]
+Puisque je te dis que dix minutes, ça vaaa !
+
+[06583.065]
+... Mais passé dix minutes, je ne garantis plus vos vies. Compris ? Dix minutes, dix !
+
+[06583.067]
+Ici, ça ira. Merci de m’avoir accompagnée.
+
+[06583.069]
+D’habitude, je demande à mon frère, mais il avait l’air d’avoir fort à faire de son côté.
+
+[06583.071]
+Bon courage pour les finitions des Swordians, {NAME:06 00 00 00}.
+
+[06583.073]
+Quand ce sera fini, je vous préviendrai, vous aussi. Allez, à plus.
+
+[06583.075]
+Ah, au fait : ils sont amoureux, ces deux-là, vous savez.
+
+[06583.077]
+Ces deux-là ?
+
+[06583.079]
+Dymlos et Atwight, évidemment.
+
+[06583.081]
+Mais alors, pourquoi Dymlos a-t-il été si... !
+
+[06583.083]
+Parce que Dymlos a des responsabilités... je crois.
+
+[06583.085]
+Devant une responsabilité très lourde, on ne peut plus suivre son cœur aussi simplement...
+
+[06583.087]
+{NAME:02 00 00 00}...
+
+[06583.089]
+Mais pourquoi nous l’apprendre seulement maintenant ?
+
+[06583.091]
+Un catalyseur.
+
+[06583.093]
+Hein ?
+
+[06583.095]
+Quand il n’y a rien à attendre des facteurs internes, on provoque le changement par un facteur externe. Même si c’est un poison.
+
+[06583.097]
+Ah, mais vous, je vous prends pour un remède, rassurez-vous.
+
+[06583.099]
+... Pff. J’ai l’impression de comprendre, et de ne rien comprendre du tout...
+
+[06583.101]
+Aah, quel dommage de ne pas pouvoir observer le résultat de l’expérience...
+
+[06583.103]
+Alors, tu fais quoi, {NAME:01 00 00 00} ? Te connaissant, tu ne comptes pas en rester là, hein ?
+
+[06583.105]
+Non. Je vais essayer encore une fois, une seule, de convaincre Dymlos. Et si ça ne marche toujours pas, alors...
+
+[06583.107]
+{16:34 70 34 90 C6} : en miettes...
+
+[06583.108]
+Bon voyage.
+
+[06583.109]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06583.110]
+Voulez-vous passer la nuit ?
+
+[06583.112]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06583.113]
+Reposez-vous bien.
+
+[06583.114]
+Bonjour.
+
+[06583.115]
+Vous n’avez pas assez d’argent.
+
+[06583.116]
+Au plaisir de vous revoir.
+
+[06583.121]
+Obtenu : {16:25 E2}.
+
+[06583.123]
+Obtenu : {08:FF FF FF FF}.
+
+[06583.125]
+Trouvé : {16:25 EA}, mais vous n’avez plus de place.
+
+[06583.127]
+Il n’y a rien ici.
+

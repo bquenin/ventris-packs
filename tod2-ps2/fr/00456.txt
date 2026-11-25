@@ -1,0 +1,12 @@
+[00456.001]
+Vraiment... je pensais que tu ne viendrais jamais... Après ce que j’ai fait de si cruel... que jamais tu ne viendrais me sauver...
+
+[00456.002]
+{NAME:02 00 00 00}...
+
+[00456.003]
+Mais en vérité, j’attendais ! « Que ce soit toi, et personne d’autre, qui viennes me sauver »... je l’ai souhaité du fond du cœur... Et alors, {NAME:01 00 00 00}... tu es vraiment venu...
+
+[00456.004]
+Si tu pleures, {NAME:02 00 00 00}, j’accours, même au bout du monde. Parce que moi... je suis ton héros.
+

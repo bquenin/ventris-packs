@@ -1,0 +1,30 @@
+[00300.001]
+Ouooh ! C’est fou ! Tout est blanc~ !!
+
+[00300.002]
+Du calme. Si tu glisses et te cognes, ta pauvre cervelle n’en sera que pire.
+
+[00300.003]
+Hmpf ! N’importe quoi !
+
+[00300.004]
+Remarque, bien placé, le coup pourrait l’arranger.
+
+[00300.005]
+Bon sang ! On le laisse dire, et... !!
+
+[00300.006]
+{NAME:04 00 00 00}. Ne te moque pas de {NAME:01 00 00 00} sans le connaître !
+
+[00300.007]
+Oh ! Oui, {NAME:03 00 00 00}, dis-lui !!
+
+[00300.008]
+Sa bêtise, c’est du béton !! Un coup ou deux sur la tête n’y fera rien !!
+
+[00300.009]
+{NAME:03 00 00 00}...
+
+[00300.010]
+Pardon, {NAME:01 00 00 00}. Rien pour te défendre...
+

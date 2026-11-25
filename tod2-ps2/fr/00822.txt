@@ -1,0 +1,21 @@
+[00822.001]
+Mmh, que c’est bon♪ Marcher en ville le matin, il n’y a pas mieux ! ... Hi hi. Même s’il fait un petit peu froid.
+
+[00822.002]
+U-un petit peu ? Moi, je trouve qu’il fait drôlement froid...
+
+[00822.003]
+Quelle mollesse, {NAME:01 00 00 00}. Pas très « héros qui a sauvé le monde ».
+
+[00822.004]
+M-mais, quand même...
+
+[00822.005]
+Ou alors... ça t’ennuie de marcher avec moi ?
+
+[00822.006]
+P-pas du tout ! C’est juste que c’était si soudain, j’ai été surpris, enfin, comment dire...
+
+[00822.007]
+Hi hi ! Drôle de {NAME:01 00 00 00} ! Ta voix déraille★
+

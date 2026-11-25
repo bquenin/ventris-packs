@@ -1,0 +1,45 @@
+[06815.2448]
+Fente MEMORY CARD 4
+
+[06815.2472]
+Fente MEMORY CARD 3
+
+[06815.2496]
+Fente MEMORY CARD 2
+
+[06815.2520]
+Fente MEMORY CARD 1
+
+[06815.2544]
+ : aucune carte mémoire (PS2)
+n’est insérée.
+
+En l’état, la sauvegarde est impossible.
+
+
+[06815.2640]
+ : veuillez insérer une
+carte mémoire (PS2).
+
+[06815.2696]
+    Commencer la partie ainsi ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Non
+
+[06815.2768]
+ : accès impossible à la
+carte mémoire (PS2).
+
+[06815.2824]
+ : la carte mémoire (PS2)
+n’a pas assez d’espace libre.
+
+Pour sauvegarder ce jeu, il faut au moins
+l’espace libre suivant.
+
+- Sauvegarde (nouvelle)
+
+[06815.2992]
+ Ko
+- Suspension (nouvelle)
+

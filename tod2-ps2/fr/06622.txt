@@ -1,0 +1,52 @@
+[06622.001]
+Autel du Péché
+
+[06622.002]
+Catacombes : autel du Péché
+
+[06622.003]
+Catacombes
+
+[06622.005]
+Des mots sont gravés sur la stèle.
+
+[06622.007]
+Prends garde ! Les « ténèbres » sont « mensonge » ! Éclaire les « ténèbres » de « l’œil de vérité » !
+
+[06622.008]
+Bon voyage.
+
+[06622.009]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06622.010]
+Voulez-vous passer la nuit ?
+
+[06622.012]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06622.013]
+Reposez-vous bien.
+
+[06622.014]
+Bonjour.
+
+[06622.015]
+Vous n’avez pas assez d’argent.
+
+[06622.016]
+Au plaisir de vous revoir.
+
+[06622.021]
+Obtenu : {16:27 4A}.
+
+[06622.023]
+Obtenu : {08:FF FF FF FF}.
+
+[06622.025]
+Trouvé : {16:27 52}, mais vous n’avez plus de place.
+
+[06622.027]
+Il n’y a rien ici.
+

@@ -1,0 +1,73 @@
+[06623.001]
+Autel des Ténèbres
+
+[06623.002]
+Catacombes : autel des Ténèbres
+
+[06623.003]
+Catacombes
+
+[06623.005]
+Des mots sont gravés sur la stèle.
+
+[06623.007]
+1 : souffre dans le « péché »
+2 : reçois le « châtiment »
+3 : accueille la « mort »
+4 : tombe dans les « ténèbres »
+
+[06623.009]
+Grâce à la Lunette du sorcier, vous découvrez une inscription cachée.
+
+[06623.011]
+1 : tombe dans les « ténèbres »
+2 : reçois le « châtiment »
+3 : expie le « péché »
+4 : accueille la « mort »
+
+[06623.013]
+Grâce à la Lunette du sorcier, vous découvrez une inscription cachée.
+
+[06623.015]
+1 : tombe dans les « ténèbres »
+2 : reçois le « châtiment »
+3 : expie le « péché »
+4 : accueille la « mort »
+
+[06623.016]
+Bon voyage.
+
+[06623.017]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06623.018]
+Voulez-vous passer la nuit ?
+
+[06623.020]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06623.021]
+Reposez-vous bien.
+
+[06623.022]
+Bonjour.
+
+[06623.023]
+Vous n’avez pas assez d’argent.
+
+[06623.024]
+Au plaisir de vous revoir.
+
+[06623.029]
+Obtenu : {16:27 4A}.
+
+[06623.031]
+Obtenu : {08:FF FF FF FF}.
+
+[06623.033]
+Trouvé : {16:27 52}, mais vous n’avez plus de place.
+
+[06623.035]
+Il n’y a rien ici.
+

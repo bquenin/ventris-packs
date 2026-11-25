@@ -1,0 +1,367 @@
+[06472.001]
+Cherik
+
+[06472.002]
+Cherik
+
+[06472.003]
+Cherik
+
+[06472.004]
+Cherik
+
+[06472.006]
+Obtenu : {08:0F 00 00 00}.
+
+[06472.008]
+Une couche est étendue là. Quelqu’un dort ici, semble-t-il.
+
+[06472.010]
+On voit des ombres de poissons tout près. Les eaux de Cherik sont réputées aussi pour leur richesse.
+
+[06472.012]
+Une barque qui tangue...
+
+[06472.013]
+Prêtre de Fortuna
+
+[06472.014]
+Allons, fidèles. Êtes-vous prêts à partir pour Aigrette ?
+
+[06472.015]
+Homme
+
+[06472.016]
+Dites... c’est bien vrai qu’à Aigrette, on n’a besoin ni d’argent ni de rien ?
+
+[06472.017]
+Dame
+
+[06472.018]
+Déménager en laissant maison et boutique... S’il nous arrive quelque chose là-bas, on fait quoi ?
+
+[06472.019]
+Prêtre de Fortuna
+
+[06472.020]
+Soyez sans crainte. Votre vie à Aigrette, nous, l’Ordre de Fortuna, nous en répondons.
+
+[06472.021]
+Prêtre de Fortuna
+
+[06472.022]
+Fidèles de Fortuna, vous renaîtrez à Aigrette.
+
+[06472.023]
+Prêtre de Fortuna
+
+[06472.024]
+Abandonner votre vie passée, vos biens, vos affaires : voyez-y une « purification ».
+
+[06472.025]
+Prêtre de Fortuna
+
+[06472.026]
+Remettez tout à Fortuna. Alors vous recevrez le bonheur éternel.
+
+[06472.027]
+Prêtre de Fortuna
+
+[06472.028]
+Devant Fortuna, tous sont égaux. Les biens et les affaires acquis au cours de votre vie, laissez-les sur cette terre.
+
+[06472.029]
+Prêtre de Fortuna
+
+[06472.030]
+Gloire à la déesse ! Car l’homme ne peut vivre sans la protection de Fortuna !
+
+[06472.031]
+Vieille dame
+
+[06472.032]
+Nous sommes les descendants des fiers Célestes. Nous ne sommes pas faits pour la misère d’aujourd’hui.
+
+[06472.033]
+Vieille dame
+
+[06472.034]
+... J’ai beau le répéter, personne ne veut m’écouter. C’est affligeant.
+
+[06472.035]
+Vieille dame
+
+[06472.036]
+Si seulement l’armée céleste avait gagné la guerre du Ciel et de la Terre, nous ne vivrions pas ainsi aujourd’hui...
+
+[06472.037]
+Gaillarde
+
+[06472.038]
+Vraiment... depuis que ma petite sœur s’est mariée à Aigrette, ma grand-mère passe son temps à se plaindre.
+
+[06472.039]
+Gaillarde
+
+[06472.040]
+« Un gendre digne d’une descendante des Célestes », « si nous n’avions pas perdu la guerre du Ciel et de la Terre »... J’en ai assez.
+
+[06472.041]
+Gaillarde
+
+[06472.042]
+Les ancêtres des gens de Calvalese, ce sont les Célestes, les vaincus de la guerre du Ciel et de la Terre.
+
+[06472.043]
+Gaillarde
+
+[06472.044]
+Vaincus et tenus pour criminels de guerre, ils ont été exilés en Calvalese.
+
+[06472.045]
+Fils à papa
+
+[06472.046]
+Oh, les pauvres... Les gens d’ici vivent dans des masures pareilles.
+
+[06472.047]
+Fils à papa
+
+[06472.048]
+Pourquoi ne vivent-ils pas tous à Aigrette ? À Aigrette, il y a tout.
+
+[06472.049]
+Fils à papa
+
+[06472.050]
+À Aigrette, il suffit de demander à l’Ordre de Fortuna, et il fait tout pour nous.
+
+[06472.051]
+Fils à papa
+
+[06472.052]
+Nous, on n’a rien à faire du tout. C’est très amusant.
+
+[06472.053]
+Gaillarde
+
+[06472.054]
+Vraiment... depuis que ma petite sœur s’est mariée à Aigrette, ma grand-mère passe son temps à se plaindre.
+
+[06472.055]
+Gaillarde
+
+[06472.056]
+« Un gendre digne d’une descendante des Célestes », « si nous n’avions pas perdu la guerre du Ciel et de la Terre »... J’en ai assez.
+
+[06472.057]
+Gaillarde
+
+[06472.058]
+Les ancêtres des gens de Calvalese, ce sont les Célestes, les vaincus de la guerre du Ciel et de la Terre.
+
+[06472.059]
+Gaillarde
+
+[06472.060]
+Vaincus et tenus pour criminels de guerre, ils ont été exilés en Calvalese.
+
+[06472.061]
+Chasseur
+
+[06472.062]
+Tu connais l’Écaille de basilic ? C’est de quoi faire un remède souverain contre toute maladie et toute blessure.
+
+[06472.063]
+Chasseur
+
+[06472.064]
+On la prend sur un monstre, le basilic, mais le basilic est terriblement féroce.
+
+[06472.065]
+Chasseur
+
+[06472.066]
+Tu connais un objet qui s’appelle le Pot magique ? Un pot étrange : on ne sait jamais ce qui va en sortir.
+
+[06472.067]
+Chasseur
+
+[06472.068]
+Certains objets ne s’obtiendraient que par le Pot magique. Pour les avoir, il faut peut-être de la chance.
+
+[06472.069]
+Vieil homme
+
+[06472.070]
+Tout le monde est parti s’installer à Aigrette, en bloc.
+
+[06472.071]
+Vieil homme
+
+[06472.072]
+Est-ce donc si bon, d’être secouru par une déesse ? Cela vaut-il d’abandonner son pays ?
+
+[06472.073]
+Vieil homme
+
+[06472.074]
+Mon fils et mes petits-enfants sont partis à Aigrette. En me laissant là.
+
+[06472.075]
+Vieil homme
+
+[06472.076]
+Comment vais-je vivre, à partir de demain... Tenaient-ils à Aigrette au point d’abandonner leur père ?
+
+[06472.078]
+La porte est fermée à clé. Il n’y a personne à l’intérieur, semble-t-il.
+
+[06472.079]
+Monsieur Voleur
+
+[06472.080]
+Holà ! Je ne suis pas un voleur, hein ? Je récupère ce qu’on a laissé ici, voilà tout !
+
+[06472.081]
+Monsieur Voleur
+
+[06472.082]
+Ce serait du gâchis de laisser ça sous la pluie, non !?
+
+[06472.083]
+Monsieur Voleur
+
+[06472.084]
+Mais ceux qui ont déménagé, qu’est-ce qu’ils ont dans le crâne ! Partir en laissant ses biens : ils sont tombés sur la tête, ou quoi !?
+
+[06472.085]
+Monsieur Voleur
+
+[06472.086]
+Quitter sa maison, son argent, toute sa vie d’avant, pour se ranger du côté de cette Fortuna ?
+
+[06472.087]
+Monsieur Voleur
+
+[06472.088]
+Cette façon de penser, ça fait un peu peur...
+
+[06472.089]
+Bûcheron
+
+[06472.090]
+Pour vaincre la faiblesse de mon cœur, je pense entrer dans l’Ordre d’Atamoni.
+
+[06472.091]
+Bûcheron
+
+[06472.092]
+Je veux tout mettre à nu devant la déesse, et qu’elle me montre la voie à suivre.
+
+[06472.093]
+Bûcheron
+
+[06472.094]
+Je pense partir pour Aigrette avec le prochain convoi.
+
+[06472.095]
+Bûcheron
+
+[06472.096]
+Je veux vivre parmi les fidèles, après tout. Je quitte cet endroit sans regret.
+
+[06472.097]
+Commère A
+
+[06472.098]
+Ces temps-ci, mes connaissances partent pour Aigrette l’une après l’autre, sachez-le !
+
+[06472.099]
+Commère B
+
+[06472.100]
+Tiens, vous n’y allez pas, chère madame ? À Aigrette, les gens de l’Ordre d’Atamoni font tout pour vous, à ce qu’on dit, sachez-le !
+
+[06472.101]
+Commère B
+
+[06472.102]
+Pour entrer dans l’Ordre d’Atamoni, il faut offrir des Lentilles, sachez-le !
+
+[06472.103]
+Commère A
+
+[06472.104]
+Ça alors ! Il faut donc de l’argent, pardon, des Lentilles ! Ne devaient-ils pas aider tout le monde !?
+
+[06472.105]
+Commère B
+
+[06472.106]
+L’Ordre d’Atamoni est plus pingre qu’on ne croit, sachez-le.
+
+[06472.107]
+Marin
+
+[06472.108]
+Une maison sur l’eau, ça a du bon aussi. C’est la spécialité de Cherik !
+
+[06472.109]
+Marin
+
+[06472.110]
+Mais si tu remues en dormant, ne dors pas ici ! Tu tombes à la mer, et tu ne te réveilles plus jamais !
+
+[06472.112]
+Moi, il vaut vraiment mieux que j’évite...
+
+[06472.113]
+Marin
+
+[06472.114]
+L’ancienne Cherik a été engloutie pendant les combats d’il y a dix-huit ans.
+
+[06472.115]
+Marin
+
+[06472.116]
+Au fond de la mer, par ici, reposent les maisons d’autrefois. Avec les victimes...
+
+[06472.117]
+Bon voyage.
+
+[06472.118]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06472.119]
+Voulez-vous passer la nuit ?
+
+[06472.121]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06472.122]
+Reposez-vous bien.
+
+[06472.123]
+Bonjour.
+
+[06472.124]
+Vous n’avez pas assez d’argent.
+
+[06472.125]
+Au plaisir de vous revoir.
+
+[06472.130]
+Obtenu : {16:25 BE}.
+
+[06472.132]
+Obtenu : {08:FF FF FF FF}.
+
+[06472.134]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06472.136]
+Il n’y a rien ici.
+

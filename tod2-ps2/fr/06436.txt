@@ -1,0 +1,1015 @@
+[06436.001]
+Parc du Souvenir de Heidelberg
+
+[06436.002]
+Parc du Souvenir de Heidelberg
+
+[06436.003]
+Parc du Souvenir de Heidelberg
+
+[06436.005]
+« Ici, le parc du Souvenir de Heidelberg, dessiné par le roi Woodrow lui-même en mémoire du relèvement de la ville. »
+
+[06436.007]
+Une inscription est gravée sur le socle. « Pour garder la mémoire de nos fautes, je lègue ce lieu aux générations futures. Woodrow Kelvin »
+
+[06436.009]
+« Pour la création du parc du Souvenir, notre profonde gratitude va tout spécialement à M. Walt, chef de l’ancien village de Harmentz, qui en a généreusement financé les travaux. »
+
+[06436.011]
+« Pour l’entretien du parc, participez au Fonds de Heidelberg. » Le nom du gérant du fonds : « les Ailes Noires ».
+
+[06436.012]
+Fillette
+
+[06436.013]
+Quoi ? Si c’est pour me draguer, c’est non. On m’a déjà abordée dans la ville neuve tout à l’heure : j’en ai par-dessus la tête.
+
+[06436.014]
+Fillette
+
+[06436.015]
+Je ne suis pas une fille assez facile pour me laisser draguer, moi.
+
+[06436.016]
+Fillette
+
+[06436.017]
+Vous deux, vous êtes un couple tout neuf, non ? Votre premier rendez-vous, peut-être ?
+
+[06436.019]
+C-ce n’est pas ça, je te dis.
+
+[06436.020]
+Fillette
+
+[06436.021]
+J’en étais sûre. Vous êtes tout rouges, tous les deux. La chance, je vous envie★
+
+[06436.022]
+Fillette
+
+[06436.023]
+Il ne faut pas mentir, vous deux. Sans franchise, pas de bel amour.
+
+[06436.024]
+Fillette
+
+[06436.025]
+Oh, mademoiselle, vous avez trois amoureux ? Dites-moi lequel est le vrai !
+
+[06436.027]
+Eh... bien... Pardon, nous sommes pressés. À plus tard.
+
+[06436.028]
+Fillette
+
+[06436.029]
+D’accord, je vous attends. Vous m’apprendrez vos secrets de séduction, hein, mademoiselle !
+
+[06436.030]
+Fillette
+
+[06436.031]
+Moi aussi, je veux devenir comme vous, mademoiselle ! Une femme qui a trois amoureux... voilà★
+
+[06436.032]
+Fillette
+
+[06436.033]
+Quoi ? Si c’est pour me draguer, c’est non. J’en ai par-dessus la tête.
+
+[06436.034]
+Vieil homme
+
+[06436.035]
+La neige qui tombe en silence pour toute compagnie, et l’on boit à petites gorgées... En cette saison, rien ne vaut un verre devant la neige.
+
+[06436.037]
+P-par un froid pareil, comment vous faites pour boire...
+
+[06436.038]
+Vieil homme
+
+[06436.039]
+Ka ka ka ! Ne pas goûter ce charme-là : tu es encore bien jeune, toi !
+
+[06436.040]
+Vieil homme
+
+[06436.041]
+Boire en grognant qu’il fait froid, c’est boire. Boire en savourant le charme du moment, c’est boire aussi.
+
+[06436.042]
+Vieil homme
+
+[06436.043]
+Tant qu’à boire, autant y prendre plaisir. Sinon, c’est le vin qui est à plaindre.
+
+[06436.044]
+Vieil homme
+
+[06436.045]
+Dans cette ville, selon qu’on s’entend ou non avec la neige, les jours sont gais ou pénibles. Tant qu’à vivre, mieux vaut y prendre plaisir, non ?
+
+[06436.046]
+Vieil homme
+
+[06436.047]
+Qu’il est beau de bien s’entendre. Un jeune amour comme l’herbe tendre : je vous envie fort.
+
+[06436.049]
+M-mais non...
+
+[06436.050]
+Vieil homme
+
+[06436.051]
+Ho ! Un sourire comme une fleur. Boire devant les fleurs, en pleine neige : voilà qui ne manque pas de sel.
+
+[06436.052]
+Vieil homme
+
+[06436.053]
+Qu’il est beau de bien s’entendre. À votre avenir à tous deux : santé ! Ka ka ka !
+
+[06436.054]
+Vieil homme
+
+[06436.055]
+Qu-qu’est-ce que c’est que ça !? Je ne peux pas rester là ! Vite, au château !
+
+[06436.057]
+Holà, grand-père ! Pas de folies !
+
+[06436.058]
+Vieil homme
+
+[06436.059]
+Ne me méprise pas parce que je suis vieux ! Tel que tu me vois, j’ai été chevalier ! Quand le château est en péril, on accourt, cela va de soi !
+
+[06436.060]
+Vieil homme
+
+[06436.061]
+Si j’ai pu vivre si vieux, c’est que les efforts de Sa Majesté ont donné la paix au pays !
+
+[06436.062]
+Vieil homme
+
+[06436.063]
+Si je ne paie pas ma dette ici, je ne pourrai jamais mourir en paix ! Vite, au château !
+
+[06436.065]
+Calmez-vous, grand-père ! Nous y allons à votre place : attendez ici !
+
+[06436.066]
+Vieil homme
+
+[06436.067]
+Ce que nous sommes aujourd’hui, ce pays et moi, nous le devons à cet homme ! Alors, jeunes gens, je vous confie Sa Majesté !
+
+[06436.068]
+Vieil homme
+
+[06436.069]
+Vous, vous êtes ceux qui sont partis au château tout à l’heure... Hé ! Qu’en est-il du château ! Et Sa Majesté le roi Woodrow !
+
+[06436.071]
+Bah, il s’est passé pas mal de choses... En tout cas, on y retourne !
+
+[06436.072]
+Vieil homme
+
+[06436.073]
+Majesté... soyez sain et sauf !
+
+[06436.074]
+Vieil homme
+
+[06436.075]
+Cette cloche, le roi d’avant le précédent l’avait fait élever en symbole de paix : un objet vénérable, et la voilà...
+
+[06436.076]
+Vieil homme
+
+[06436.077]
+... Non, il ne faut pas. Avec l’âge, on s’attache malgré soi à ce qui est perdu.
+
+[06436.079]
+C’est bien naturel... Il est des moments où l’on reste, quoi qu’on fasse, prisonnier du passé.
+
+[06436.080]
+Vieil homme
+
+[06436.081]
+L’heure n’est pas à pleurer ce qui est perdu. Sa Majesté est alitée : c’est maintenant que nous devons tenir bon.
+
+[06436.082]
+Vieil homme
+
+[06436.083]
+Pour un temps, au lieu du verre devant la neige, ce sera du thé devant la neige. Bah, cela a son charme aussi.
+
+[06436.085]
+Quoi, grand-père ? Le médecin vous a interdit de boire, à force d’abus ?
+
+[06436.086]
+Vieil homme
+
+[06436.087]
+Ka ka ka ! Ma santé va très bien. Tu sais, la cloche neuve qu’on fabrique ? J’ai mis l’argent de mes verres dans la collecte.
+
+[06436.088]
+Vieil homme
+
+[06436.089]
+Tu sais, la cloche neuve qu’on fabrique ? J’ai mis l’argent de mes verres dans la collecte. Alors plus de vin pour un temps.
+
+[06436.090]
+Vieil homme
+
+[06436.091]
+Quand la cloche sera finie, je boirai ici un verre devant la cloche. C’est ce que j’attends le plus, aujourd’hui !
+
+[06436.092]
+Vieil homme
+
+[06436.093]
+Quand la cloche sera finie, je boirai ici un verre devant la cloche. C’est ce que j’attends le plus, aujourd’hui !
+
+[06436.094]
+Vieil homme
+
+[06436.095]
+La neige qui tombe en silence pour toute compagnie, et l’on boit à petites gorgées... En cette saison, rien ne vaut un verre devant la neige.
+
+[06436.097]
+P-par un froid pareil, comment vous faites pour boire...
+
+[06436.098]
+Vieil homme
+
+[06436.099]
+Ka ka ka ! Ne pas goûter ce charme-là : tu es encore bien jeune, toi !
+
+[06436.100]
+Vieil homme
+
+[06436.101]
+Boire en grognant qu’il fait froid, c’est boire. Boire en savourant le charme du moment, c’est boire aussi.
+
+[06436.102]
+Vieil homme
+
+[06436.103]
+Tant qu’à boire, autant y prendre plaisir. Sinon, c’est le vin qui est à plaindre.
+
+[06436.104]
+Vieil homme
+
+[06436.105]
+Dans cette ville, selon qu’on s’entend ou non avec la neige, les jours sont gais ou pénibles. Tant qu’à vivre, mieux vaut y prendre plaisir, non ?
+
+[06436.106]
+Jeune femme
+
+[06436.107]
+Dites ! Vous n’avez pas vu un chat, par ici !?
+
+[06436.109]
+Non, je n’en ai pas vu... Quel genre de chat ?
+
+[06436.110]
+Jeune femme
+
+[06436.111]
+Nyanya, c’est un chaton, tout blanc comme la neige ! ... C’est pour ça que je ne le trouve pas...
+
+[06436.112]
+Jeune femme
+
+[06436.113]
+Nyanya, c’est un chaton, au poil tout touffu, tout blanc comme la neige !
+
+[06436.114]
+Jeune femme
+
+[06436.115]
+... C’est pour ça que je ne le trouve pas. Ah, du blanc partout où je regarde ! Où es-tu, Nyanya !?
+
+[06436.116]
+Jeune femme
+
+[06436.117]
+Aah... où est Nyanya !? Avec tout ce blanc, impossible de savoir !
+
+[06436.118]
+Jeune femme
+
+[06436.119]
+Écoutez : le chaton blanc que j’avais a disparu. Nous qui étions toujours ensemble...
+
+[06436.121]
+Oh... j’aimerais bien le voir. Il doit être mignon.
+
+[06436.122]
+Jeune femme
+
+[06436.123]
+Le plus mignon du monde, évidemment. Son talent particulier... c’est de filer on ne sait où en un rien de temps !
+
+[06436.124]
+Jeune femme
+
+[06436.125]
+Dites, si vous voyez un chaton blanc, dites-lui... que j’ai besoin de Nyanya...
+
+[06436.126]
+Jeune femme
+
+[06436.127]
+Ce... bruit... ?
+
+[06436.129]
+Je ne sais pas, mais ça sent mauvais, c’est sûr. Ne bougez pas d’ici, mademoiselle !
+
+[06436.130]
+Jeune femme
+
+[06436.131]
+... Que faire ? Si jamais Nyanya était pris là-dedans... !
+
+[06436.132]
+Jeune femme
+
+[06436.133]
+... Que faire ? Si jamais Nyanya était pris là-dedans... !
+
+[06436.134]
+Jeune femme
+
+[06436.135]
+Je ne trouve plus Nyanya... Je l’ai quitté des yeux un instant, et il avait disparu...
+
+[06436.136]
+Jeune femme
+
+[06436.137]
+Il n’a pas dû aller bien loin, je crois... Mais s’il était pris dans cette explosion... !
+
+[06436.138]
+Jeune femme
+
+[06436.139]
+... Que faire ? Si jamais Nyanya était pris là-dedans... !
+
+[06436.140]
+Jeune femme
+
+[06436.141]
+Tiens ? Vous... vous étiez hier avec la jeune fille en rose, non ?
+
+[06436.142]
+Jeune femme
+
+[06436.143]
+Qu’est-ce qu’elle a, votre amie ? Je l’ai croisée dans la rue ce matin : elle avait un visage terrible.
+
+[06436.144]
+Jeune femme
+
+[06436.145]
+Je l’ai croisée pendant ma promenade du matin avec Nyanya.
+
+[06436.146]
+Jeune femme
+
+[06436.147]
+Elle avait un visage terrible... Vous vous êtes disputés, ou quoi ?
+
+[06436.148]
+Jeune femme
+
+[06436.149]
+Je l’ai croisée dans la rue ce matin : votre amie avait un visage terrible.
+
+[06436.150]
+Jeune femme
+
+[06436.151]
+Quand j’ai perdu Nyanya de vue ici, j’ai vraiment cru que je ne le retrouverais plus.
+
+[06436.153]
+À ce nom-là, Nyanya, ce doit être un chat ou quelque chose comme ça. Pourquoi vous pensiez ne plus le retrouver ?
+
+[06436.154]
+Jeune femme
+
+[06436.155]
+Mais parce qu’il est tout blanc ! Confondu avec la neige, impossible de savoir où il était !
+
+[06436.156]
+Jeune femme
+
+[06436.157]
+Je ne me doutais pas que Nyanya se cachait sous le banc !
+
+[06436.158]
+Jeune femme
+
+[06436.159]
+Je croyais avoir bien regardé dessous, mais confondu avec la neige, je ne le voyais pas du tout.
+
+[06436.160]
+Jeune femme
+
+[06436.161]
+Nyanya caché sous le banc, dites donc. Tout blanc comme il est, je n’avais rien vu !
+
+[06436.162]
+Jeune femme
+
+[06436.163]
+Dites ! Vous n’avez pas vu un chat, par ici !?
+
+[06436.165]
+Non, je n’en ai pas vu... Quel genre de chat ?
+
+[06436.166]
+Jeune femme
+
+[06436.167]
+Nyanya, c’est un chaton, tout blanc comme la neige ! ... C’est pour ça que je ne le trouve pas...
+
+[06436.168]
+Jeune femme
+
+[06436.169]
+Nyanya, c’est un chaton, au poil tout touffu, tout blanc comme la neige !
+
+[06436.170]
+Jeune femme
+
+[06436.171]
+... C’est pour ça que je ne le trouve pas. Ah, du blanc partout où je regarde ! Où es-tu, Nyanya !?
+
+[06436.172]
+Jeune femme
+
+[06436.173]
+Aah... où est Nyanya !? Avec tout ce blanc, impossible de savoir !
+
+[06436.174]
+Misha
+
+[06436.175]
+Mon amoureux est beau, gentil, merveilleux de la tête aux pieds★
+
+[06436.176]
+Misha
+
+[06436.177]
+Lark... avec toi, je me moque du pire blizzard★
+
+[06436.179]
+Oui, oui, merci pour le spectacle !
+
+[06436.180]
+Misha
+
+[06436.181]
+Lark, c’est ma vie. Tant que je l’ai, je n’ai besoin de rien d’autre★
+
+[06436.182]
+Misha
+
+[06436.183]
+C’est Lark qui m’a appris ce qu’est le véritable amour.
+
+[06436.184]
+Misha
+
+[06436.185]
+L’amour, c’est love, l’amour, c’est fire, et l’amour, c’est du magma !
+
+[06436.187]
+Rien qu’à l’écouter, c’est moi qui suis gêné...
+
+[06436.188]
+Misha
+
+[06436.189]
+Ton amoureux n’est pas mal non plus.
+
+[06436.191]
+Oh, euh... {NAME:01 00 00 00} et moi, on n’est pas vraiment...
+
+[06436.192]
+Misha
+
+[06436.193]
+Hi hi★ Mais il est encore loin d’avoir le charme de Lark★
+
+[06436.194]
+Misha
+
+[06436.195]
+Ton amoureux est charmant. Mais Lark est encore plus char-mant★ Hi hi★
+
+[06436.196]
+Misha
+
+[06436.197]
+A-attends, calme-toi, Lark !
+
+[06436.198]
+Misha
+
+[06436.199]
+Vraiment, Lark est un moins que rien ! Il a filé tout seul, à toutes jambes !
+
+[06436.200]
+Misha
+
+[06436.201]
+Tu parles d’un « quoi qu’il arrive, je te protégerai par la force de l’amour » ! Les hommes, c’est nul !!
+
+[06436.202]
+Misha
+
+[06436.203]
+Tu parles d’un « quoi qu’il arrive, je te protégerai par la force de l’amour » ! Les hommes, c’est nul !!
+
+[06436.204]
+Misha
+
+[06436.205]
+Pff ! Toi qui m’as plantée là pour filer à toutes jambes !
+
+[06436.206]
+Misha
+
+[06436.207]
+Et maintenant, c’est « je t’aime » !? Non mais je rêve !
+
+[06436.208]
+Misha
+
+[06436.209]
+Tu parles d’un « quoi qu’il arrive, je te protégerai par la force de l’amour » ! Les hommes, c’est nul !!
+
+[06436.210]
+Misha
+
+[06436.211]
+Mon amoureux est beau, gentil, merveilleux de la tête aux pieds★
+
+[06436.212]
+Misha
+
+[06436.213]
+Lark... avec toi, je me moque du pire blizzard★
+
+[06436.215]
+Oui, oui, merci pour le spectacle !
+
+[06436.216]
+Misha
+
+[06436.217]
+Lark, c’est ma vie. Tant que je l’ai, je n’ai besoin de rien d’autre★
+
+[06436.218]
+Lark
+
+[06436.219]
+Oh, my honey. Notre amour à nous ferait fondre jusqu’aux glaces éternelles.
+
+[06436.220]
+Lark
+
+[06436.221]
+Notre love à tous deux, c’est du fire. Non : du magma !
+
+[06436.223]
+Je ne comprends pas ce que ça veut dire... mais je sens bien que c’est énorme.
+
+[06436.224]
+Lark
+
+[06436.225]
+Nous deux, c’est du love-love fire. Non : du love-love magma, qui bout à gros bouillons !
+
+[06436.226]
+Lark
+
+[06436.227]
+My honey, Misha★ Mon trésor, ce que j’ai de plus précieux au monde.
+
+[06436.228]
+Lark
+
+[06436.229]
+Quoi qu’il arrive, je continuerai de te lover !
+
+[06436.230]
+Lark
+
+[06436.231]
+Quoi qu’il arrive, je continuerai de te lover !
+
+[06436.232]
+Lark
+
+[06436.233]
+H-hiii ! Un dragon ! Un dragon gigantesque ! I-i-il faut filer !
+
+[06436.235]
+Lark n’est pas là : il s’est enfui.
+
+[06436.236]
+Lark
+
+[06436.237]
+Je t’en prie, calme ta colère, my honey !
+
+[06436.238]
+Lark
+
+[06436.239]
+L’autre fois, si je suis rentré tout d’un coup, ce n’est pas que le dragon m’ait fait peur : euh... j’avais mal au ventre !
+
+[06436.240]
+Lark
+
+[06436.241]
+Notre love-love magma n’était donc pas éternel !? Je t’en prie, calme ta colère !
+
+[06436.242]
+Lark
+
+[06436.243]
+Oh, my honey. Notre amour à nous ferait fondre jusqu’aux glaces éternelles.
+
+[06436.244]
+Lark
+
+[06436.245]
+Notre love à tous deux, c’est du fire. Non : du magma !
+
+[06436.247]
+Je ne comprends pas ce que ça veut dire... mais je sens bien que c’est énorme.
+
+[06436.248]
+Lark
+
+[06436.249]
+Nous deux, c’est du love-love fire. Non : du love-love magma, qui bout à gros bouillons !
+
+[06436.250]
+Jeune
+
+[06436.251]
+Youhou ! Hé, la jolie~★ Laisse tomber ce ringard et viens prendre un thé avec moi ?
+
+[06436.253]
+E-euh... cela me gêne, ce genre de choses...
+
+[06436.255]
+Aah ha ha ! Râteau, on dirait !
+
+[06436.256]
+Jeune
+
+[06436.257]
+Haa... Et de 264 : encore une drague de ratée...
+
+[06436.258]
+Jeune
+
+[06436.259]
+Youhou ! Hé, la jolie~★ Laisse tomber cette demi-portion et viens prendre un thé avec moi, le magnifique~ ?
+
+[06436.261]
+p(kyle) n’est pas une demi-portion ! Tout petit qu’il est, il veut devenir un héros !
+
+[06436.263]
+p(reala), « tout petit qu’il est »...
+
+[06436.264]
+Jeune
+
+[06436.265]
+Haa... Et de 276 : encore une drague de ratée...
+
+[06436.266]
+Jeune
+
+[06436.267]
+Youhou ! Hé, la jolie~★ Laisse tomber ces trois types et viens prendre un thé avec moi~ !
+
+[06436.269]
+Si tu veux du thé, bois-le seul ! Nous sommes pressés.
+
+[06436.270]
+Jeune
+
+[06436.271]
+Haa... Et de 294, encore une... non, c’était la 296e...
+
+[06436.272]
+Jeune
+
+[06436.273]
+Haa... Je ne compte plus mes dragues ratées... Je suis si seul... même un homme ferait l’affaire, maintenant...
+
+[06436.275]
+Le château... !
+
+[06436.277]
+Ohé ! {NAME:01 00 00 00} ! {NAME:02 00 00 00} !
+
+[06436.279]
+{NAME:03 00 00 00}, {NAME:04 00 00 00} !
+
+[06436.281]
+Il se passe des choses graves au château, paraît-il. On fait quoi ? ... Question idiote, je sais.
+
+[06436.283]
+Exactement ! Allons-y, tout le monde !
+
+[06436.284]
+Soldat
+
+[06436.285]
+On n’entre pas par ici. Veuillez faire le tour par la grande porte.
+
+[06436.287]
+Ouf, je suis fatiguée de marcher. Reposons-nous un peu.
+
+[06436.289]
+Que c’est calme... Comme ça, on croirait que tout ce tumulte n’a jamais existé.
+
+[06436.291]
+Ça me fait tout drôle. La dernière fois qu’on est venus, ici, c’était une ville appelée Realta.
+
+[06436.293]
+Un rien suffit, et tout change au point de ne plus pouvoir revenir en arrière...
+
+[06436.295]
+C’est de cette fragilité de l’histoire qu’Elraine a voulu se servir pour arriver à ses fins.
+
+[06436.297]
+Mais l’histoire n’a pas changé.
+
+[06436.299]
+Dymlos, Atwight, et papa, et maman... C’est leur force à tous qui a protégé l’histoire.
+
+[06436.301]
+Toi aussi, tu as fait beaucoup, {NAME:01 00 00 00}.
+
+[06436.303]
+T-tu crois ? Hé hé...
+
+[06436.305]
+Moi, je n’arrive toujours pas à y croire.
+
+[06436.307]
+Rencontrer une fille mystérieuse dans des ruines, courir le monde avec mes compagnons, franchir le temps pour me battre aux côtés des héros.
+
+[06436.309]
+Et si, en fait, tout ça n’était qu’un rêve...
+
+[06436.311]
+Et si c’était vraiment le cas, que ferais-tu ?
+
+[06436.313]
+Si un matin, au réveil, je n’étais plus là, d’un coup, que ferais-tu, {NAME:01 00 00 00} ?
+
+[06436.315]
+...... ? Pourquoi tu me demandes ça, tout d’un coup...
+
+[06436.317]
+Réponds-moi, {NAME:01 00 00 00}...
+
+[06436.319]
+... Je ne veux pas.
+
+[06436.321]
+Hein ?
+
+[06436.323]
+Que tu disparaisses, {NAME:02 00 00 00}, je ne veux pas !
+
+[06436.325]
+Si tu disparaissais, {NAME:02 00 00 00}... je te ramènerais, {NAME:02 00 00 00}, coûte que coûte, quoi que j’aie à faire.
+
+[06436.327]
+{NAME:01 00 00 00}...
+
+[06436.329]
+Hein... !?
+
+[06436.331]
+Q-qu’est-ce que... !?
+
+[06436.333]
+Quoi... qu’est-ce que c’est, enfin !?
+
+[06436.335]
+{NAME:01 00 00 00} !
+
+[06436.337]
+C’était quoi, ça... !?
+
+[06436.339]
+{NAME:01 00 00 00} ! C’est donc là que tu étais !
+
+[06436.341]
+Ça ne va pas !? Tu es blanc comme un linge !
+
+[06436.343]
+Non, ce n’est rien... Et toi, il s’est passé quelque chose ?
+
+[06436.345]
+Ah, oui, oui ! {NAME:06 00 00 00} te demande. Elle veut que tu viennes tout de suite.
+
+[06436.347]
+Il paraît que le temps se déforme, avec je ne sais quelle histoire d’entropette...
+
+[06436.349]
+En tout cas, viens avec moi ! Tout le monde est au château.
+
+[06436.351]
+Je ne te voyais plus : c’est donc ici que tu étais.
+
+[06436.353]
+{NAME:05 00 00 00}...
+
+[06436.355]
+Je me mêle peut-être de ce qui ne me regarde pas, mais ça me tracassait un peu.
+
+[06436.357]
+Tu veux que je devine ce qui te tracasse ?
+
+[06436.359]
+D’abord, Elraine, qui veut faire descendre la déesse.
+
+[06436.361]
+Ensuite... {NAME:01 00 00 00}. Tu te dis que tu l’as terriblement blessé.
+
+[06436.363]
+Et comme tu penses aux deux à la fois, tout s’embrouille dans ta tête... Je me trompe ?
+
+[06436.365]
+... C’est ça.
+
+[06436.367]
+Bon, pour Elraine, il suffit de l’arrêter : laissons ça de côté.
+
+[06436.369]
+Le problème, c’est {NAME:01 00 00 00}... Tu regrettes ?
+
+[06436.371]
+Oui... je crois.
+
+[06436.373]
+Quand je me dis que tout est fini, c’est un peu... non, c’est très dur.
+
+[06436.375]
+Fini ? Qu’est-ce qui est fini ?
+
+[06436.377]
+Eh bien, {NAME:01 00 00 00} et moi... Je lui ai dit des choses si dures, alors maintenant...
+
+[06436.379]
+... Moi aussi, tu sais, je me suis disputée avec Lou. Et pas qu’une fois.
+
+[06436.381]
+On criait pour de bon, on se fâchait, il arrivait même que les coups partent.
+
+[06436.383]
+Avec ton petit frère ? Mais vous vous entendiez si bien, tu disais...
+
+[06436.385]
+C’est parce qu’on s’entend bien qu’on se dispute. On ne se dispute pas avec quelqu’un dont on se moque, non ?
+
+[06436.387]
+On veut être compris. On veut que l’autre voie son erreur. On veut se comprendre encore, encore plus.
+
+[06436.389]
+Si on ne tient pas à l’autre à ce point, pour de bon, on ne se dispute pas, on ne le peut même pas, non ?
+
+[06436.391]
+... Oui.
+
+[06436.393]
+Alors, quand il y a une chose qu’on n’accepte pas, on ne peut pas céder. Forcément : des deux côtés, c’est pour de bon.
+
+[06436.395]
+Et là, il n’y a plus qu’à se disputer. On se jette à la figure ce qu’on pense vraiment, on crie, on se fâche, on pleure...
+
+[06436.397]
+Et c’est alors seulement qu’on se comprend.
+
+[06436.399]
+........
+
+[06436.401]
+Une dispute, ça fait mal, c’est dur.
+
+[06436.403]
+Mais c’est en passant par là qu’on devient vraiment proches, et qu’on devient heureux, aussi.
+
+[06436.405]
+Vous deux, vous vous êtes dit pour la première fois ce que vous pensiez vraiment, et vous avez eu votre première dispute.
+
+[06436.407]
+Alors ce n’est que le départ, enfin. Ce n’est pas la fin, pas du tout.
+
+[06436.409]
+... Et toi, {NAME:05 00 00 00}, tu as pu être heureuse ?
+
+[06436.411]
+Évidemment. Sinon, je ne pourrais pas te raconter ça.
+
+[06436.413]
+Moi, tu sais, je n’ai peut-être pas été une très bonne grande sœur.
+
+[06436.415]
+Mais Lou, j’ai su le comprendre mieux que personne : ça, au moins, j’en suis sûre.
+
+[06436.417]
+Et si je peux le penser, c’est qu’on s’est disputés pour de bon, bien des fois.
+
+[06436.419]
+........
+
+[06436.421]
+Alors pour vous aussi, tout est devant vous. Sois tranquille.
+
+[06436.423]
+Devant nous... Y a-t-il seulement quelque chose ?
+
+[06436.425]
+Évidemment. Qu’est-ce que tu racontes !
+
+[06436.427]
+Fwaah... Dire des choses sérieuses, ça m’a fatiguée.
+
+[06436.429]
+Moi, je vais me coucher. Toi aussi, repose-toi vite.
+
+[06436.431]
+Ici, il n’est pas encore midi, mais nous, on est debout depuis le départ de Hope Town.
+
+[06436.433]
+Alors bonne nuit, {NAME:02 00 00 00}.
+
+[06436.435]
+Devant nous... il ne peut rien y avoir.
+
+[06436.437]
+{NAME:01 00 00 00}, prends ce passage : il débouche sur l’entrée de derrière du château. Ce sera plus rapide par là.
+
+[06436.439]
+Compris !
+
+[06436.440]
+Bon voyage.
+
+[06436.441]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06436.442]
+Voulez-vous passer la nuit ?
+
+[06436.444]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06436.445]
+Reposez-vous bien.
+
+[06436.446]
+Bonjour.
+
+[06436.447]
+Vous n’avez pas assez d’argent.
+
+[06436.448]
+Au plaisir de vous revoir.
+
+[06436.453]
+Obtenu : {16:26 6A}.
+
+[06436.455]
+Obtenu : {08:FF FF FF FF}.
+
+[06436.457]
+Trouvé : {16:26 72}, mais vous n’avez plus de place.
+
+[06436.459]
+Il n’y a rien ici.
+

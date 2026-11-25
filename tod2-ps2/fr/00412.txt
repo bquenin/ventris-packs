@@ -1,0 +1,15 @@
+[00412.001]
+Dis, {NAME:01 00 00 00}... si jamais, moi...
+
+[00412.002]
+Quoi, {NAME:02 00 00 00} ?
+
+[00412.003]
+............ Pardon, ce n’est rien.
+
+[00412.004]
+... Qu’est-ce qui ne va pas, {NAME:02 00 00 00} ? Tu es bizarre depuis qu’on a tous mangé ensemble, tu sais ?
+
+[00412.005]
+Ce n’est rien, vraiment, ne t’en fais pas. Il faut vite aller à Calviola... Oui... il le faut, n’est-ce pas...
+

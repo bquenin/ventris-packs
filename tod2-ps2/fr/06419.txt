@@ -1,0 +1,112 @@
+[06419.001]
+Neustadt : arène
+
+[06419.002]
+Neustadt
+
+[06419.003]
+Arène
+
+[06419.004]
+Épicier
+
+[06419.005]
+Pour accompagner le spectacle, une pomme de terre au beurre ?
+
+[06419.006]
+Merci, hein !
+
+[06419.007]
+À la prochaine !
+
+[06419.008]
+Épicier
+
+[06419.009]
+Épicier
+
+[06419.010]
+Avec le spectacle, rien ne vaut une pomme de terre au beurre, hein.
+
+[06419.012]
+Ouh là !
+
+[06419.013]
+???
+
+[06419.014]
+Pardon...
+
+[06419.015]
+???
+
+[06419.016]
+... Ah, tu es...
+
+[06419.017]
+???
+
+[06419.018]
+Non, ce n’est rien... Sur ce...
+
+[06419.020]
+C’est quoi, cette fille ? Elle te rentre dedans, et c’est tout ce qu’elle dit !?
+
+[06419.022]
+Tu veux la rattraper et lui chercher querelle ? Tu perdrais sans doute en un instant.
+
+[06419.024]
+Hé ! Comme si j’allais perdre contre une fille pareille !
+
+[06419.026]
+Voilà justement pourquoi je dis que tu perdrais. Cette femme n’est pas la première venue : ne pas le voir, c’est déjà n’avoir aucune chance.
+
+[06419.028]
+Tiens, c’est rare, {NAME:04 00 00 00}, de t’entendre dire ça.
+
+[06419.030]
+Moi, je dis sans détour qu’un fort est fort. Seulement, de tels adversaires sont rares.
+
+[06419.032]
+Mais toi, tu la reconnais forte... Ça promet d’être amusant.
+
+[06419.034]
+Amusant ou non, c’est le genre d’adversaire que j’aimerais mieux ne pas affronter.
+
+[06419.035]
+Bon voyage.
+
+[06419.036]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06419.037]
+Voulez-vous passer la nuit ?
+
+[06419.039]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06419.040]
+Reposez-vous bien.
+
+[06419.041]
+Bonjour.
+
+[06419.042]
+Vous n’avez pas assez d’argent.
+
+[06419.043]
+Au plaisir de vous revoir.
+
+[06419.048]
+Obtenu : {16:25 BA}.
+
+[06419.050]
+Obtenu : {08:FF FF FF FF}.
+
+[06419.052]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06419.054]
+Il n’y a rien ici.
+

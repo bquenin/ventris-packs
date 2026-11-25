@@ -1,0 +1,46 @@
+[06748.001]
+Aigrette
+
+[06748.002]
+Aigrette
+
+[06748.004]
+Un « réfrigérateur à Lentilles », jadis l’un des succès de l’ancienne compagnie Oberon.
+
+[06748.005]
+Bon voyage.
+
+[06748.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06748.007]
+Voulez-vous passer la nuit ?
+
+[06748.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06748.010]
+Reposez-vous bien.
+
+[06748.011]
+Bonjour.
+
+[06748.012]
+Vous n’avez pas assez d’argent.
+
+[06748.013]
+Au plaisir de vous revoir.
+
+[06748.018]
+Obtenu : {16:25 BA}.
+
+[06748.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06748.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06748.024]
+Il n’y a rien ici.
+

@@ -1,0 +1,9 @@
+[00470.001]
+Connaître jusqu’au nom de l’aéronef que l’armée de Phandaria garde jalousement... On dirait que {NAME:04 00 00 00} sait tout.
+
+[00470.002]
+... Est-ce le moment de parler de cela ?
+
+[00470.003]
+T’énerve pas. Il y en a tant que j’en ai assez de douter. Je ne demande plus rien. Et ce n’est pas le moment, non ? Allons-y.
+

@@ -1,0 +1,232 @@
+[06429.001]
+Mine désaffectée Oberon
+
+[06429.002]
+Mine désaffectée Oberon
+
+[06429.004]
+Cette lueur, au fond, m’intrigue...
+
+[06429.006]
+Le trésor est par là...
+
+[06429.008]
+C’est ça... le trésor ? Qu’est-ce que ça peut bien être ?
+
+[06429.010]
+Un minerai particulier, qu’on n’extrait que dans cette mine. On l’a mis là-dedans pour le garder stable.
+
+[06429.012]
+Un minerai particulier ? Alors c’est juste un caillou ?
+
+[06429.014]
+... Vous connaissez Belcrant, je suppose.
+
+[06429.016]
+Ouais, on connaît. L’arme qu’il y avait à Dycroft, la cité céleste, c’est ça ?
+
+[06429.018]
+Un engin de fou, qui balançait de l’énergie dans l’écorce terrestre pour tout détruire.
+
+[06429.020]
+Cette pierre servait dans Belcrant : elle amplifie le pouvoir des Lentilles.
+
+[06429.022]
+Hein !? Alors, avec ça...
+
+[06429.024]
+Oui : on pourrait refaire Belcrant. Une arme capable de souffler une ville entière sans effort pourrait renaître.
+
+[06429.026]
+... Cela dit, en pratique, c’est impossible. Comment se servir de cette pierre : personne ne le sait.
+
+[06429.028]
+La compagnie Oberon devait en poursuivre l’analyse... mais elle n’existe plus.
+
+[06429.030]
+Aïe, le trésor, c’est un truc aussi dangereux ?
+
+[06429.032]
+Décidément, cette compagnie Oberon n’a jamais rien fait de bon.
+
+[06429.034]
+... Dites, ce n’est pas éclairé, par là ?
+
+[06429.036]
+C’est vrai... Il y a encore autre chose ?
+
+[06429.038]
+Que c’est beau... !
+
+[06429.040]
+La lumière entre par une fente de la roche. Je vois, voilà pourquoi il fait clair.
+
+[06429.042]
+Mais c’est... !
+
+[06429.044]
+... Hin hin hin. Ha ha ha ha !
+
+[06429.048]
+... Quelle ironie. Qu’une chose pareille existe...
+
+[06429.050]
+Mais qu’est-ce que c’est, à la fin ? Voyons voir...
+
+[06429.052]
+« Avec le minerai de cette mine, on pourra accroître grandement le pouvoir des Lentilles. »
+
+[06429.054]
+« La production augmentera, et tous pourront alors vivre dans l’aisance. »
+
+[06429.056]
+« Ce minerai sera la pierre miraculeuse qui effacera, à Neustadt, l’écart entre riches et pauvres. »
+
+[06429.058]
+« Cette pierre miraculeuse ne se forme, semble-t-il, que par une réaction chimique avec la lumière. »
+
+[06429.060]
+« Le hasard a disposé les rochers de sorte que la lumière entre, et le hasard a mis la pierre en ce lieu... »
+
+[06429.062]
+« C’est sûrement un présent du ciel. »
+
+[06429.064]
+« Aussi, veillez sur ce lieu avec soin, pour qu’il ne soit pas détruit. »
+
+[06429.066]
+« Car protéger ce lieu, c’est protéger les gens de Neustadt. »
+
+[06429.068]
+« À celui qui, dans l’avenir, lira ceci. Ilene Rembrandt, directrice de la succursale de Neustadt, compagnie Oberon »
+
+[06429.070]
+Je vois... C’est vrai que le minerai ne sert pas qu’aux armes : aux usines, aux navires aussi.
+
+[06429.072]
+Nous, ça ne nous est même pas venu à l’idée. On ne vaut pas mieux que ceux qui ont fait l’arme.
+
+[06429.074]
+La compagnie Oberon non plus. Ni... Ilene...
+
+[06429.076]
+Ils ont fait fausse route. Trop pressés de réaliser leur idéal, ils ont voulu un effet immédiat et choisi un remède violent.
+
+[06429.078]
+Tu parles des troubles de « l’Œil de Dieu » ? C’est vrai... Quelqu’un qui pensait comme ça, pourquoi donc...
+
+[06429.080]
+Pourtant... je crois que les sentiments d’Ilene n’étaient pas un mensonge.
+
+[06429.082]
+Elle extrayait ce minerai en pensant à ceux qui vivent à Neustadt.
+
+[06429.084]
+Et elle a laissé un message, pour que ce lieu ne soit pas saccagé et le minerai perdu...
+
+[06429.086]
+C’est pour ça que c’est si beau, ici. On dirait... un vrai trésor.
+
+[06429.088]
+Un trésor... hein. Le vrai trésor, c’est peut-être celui-ci, après tout.
+
+[06429.090]
+Oui ! C’est sûrement ça !
+
+[06429.092]
+Le vrai trésor...
+
+[06429.094]
+... Hmf. Voilà une réplique de quatre sous.
+
+[06429.096]
+Hé ! La ferme...
+
+[06429.098]
+... Mais ce qui vaut quatre sous a du bon, parfois.
+
+[06429.100]
+{NAME:04 00 00 00}...
+
+[06429.102]
+Bon, on a vu le vrai trésor : on rentre en ville ?
+
+[06429.104]
+Oui !
+
+[06429.106]
+« Avec le minerai de cette mine, on pourra accroître grandement le pouvoir des Lentilles. »
+
+[06429.108]
+« La production augmentera, et tous pourront alors vivre dans l’aisance. »
+
+[06429.110]
+« Ce minerai sera la pierre miraculeuse qui effacera, à Neustadt, l’écart entre riches et pauvres. »
+
+[06429.112]
+« Cette pierre miraculeuse ne se forme, semble-t-il, que par une réaction chimique avec la lumière. »
+
+[06429.114]
+« Le hasard a disposé les rochers de sorte que la lumière entre, et le hasard a mis la pierre en ce lieu... »
+
+[06429.116]
+« C’est sûrement un présent du ciel. »
+
+[06429.118]
+« Aussi, veillez sur ce lieu avec soin, pour qu’il ne soit pas détruit. »
+
+[06429.120]
+« Car protéger ce lieu, c’est protéger les gens de Neustadt. »
+
+[06429.122]
+« À celui qui, dans l’avenir, lira ceci. Ilene Rembrandt, directrice de la succursale de Neustadt, compagnie Oberon »
+
+[06429.124]
+Hé, {NAME:01 00 00 00} ! Sur cette stèle, on parle d’un minerai qui accroît le pouvoir des Lentilles !!
+
+[06429.126]
+{NAME:03 00 00 00} ! La fleur... la fleur de Berselia... !!
+
+[06429.128]
+La fleur de Berselia s’est épanouie.
+
+[06429.130]
+Bien, {NAME:01 00 00 00}. Vite, on l’apporte à Philia !!
+
+[06429.131]
+Bon voyage.
+
+[06429.132]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06429.133]
+Voulez-vous passer la nuit ?
+
+[06429.135]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06429.136]
+Reposez-vous bien.
+
+[06429.137]
+Bonjour.
+
+[06429.138]
+Vous n’avez pas assez d’argent.
+
+[06429.139]
+Au plaisir de vous revoir.
+
+[06429.144]
+Obtenu : {16:25 C2}.
+
+[06429.146]
+Obtenu : {08:FF FF FF FF}.
+
+[06429.148]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06429.150]
+Il n’y a rien ici.
+

@@ -1,0 +1,206 @@
+[06352.001]
+Darilsheid : église
+
+[06352.002]
+Darilsheid, l’ancienne capitale
+
+[06352.003]
+Église
+
+[06352.005]
+Il y a un registre. On y lit la signature : « Philia Felice, temple de Straylize ».
+
+[06352.007]
+Il y a un registre. Plus de dix mille personnes l’ont signé.
+
+[06352.009]
+Sur le colis, il est écrit : « Rayer ces rations de la liste par la méthode habituelle. »
+
+[06352.011]
+Voici un orgue entièrement automatique de l’ancienne compagnie Oberon. Faire jouer l’orgue ?
+
+[06352.013]
+{03:00 00 00 00}　Le faire jouer　
+　S’abstenir　
+
+[06352.015]
+Annuler
+
+[06352.017]
+Il y a un document. Il y est écrit : « Dépenses hors comptes ce mois-ci : 25000 Gald. Combler le trou en détournant des rations. »
+
+[06352.018]
+Fillette
+
+[06352.019]
+Grâce à mon grand frère qui travaille, on a de quoi manger, mais en vrai, j’aimerais vivre avec lui...
+
+[06352.020]
+Fillette
+
+[06352.021]
+Mon grand frère, tu sais, il est parti travailler à Aigrette. Parce que la paie est bonne, il dit.
+
+[06352.022]
+Fillette
+
+[06352.023]
+Mais en vrai, j’aimerais vivre avec mon grand frère...
+
+[06352.024]
+Fillette
+
+[06352.025]
+Moi, je l’aime plutôt bien aussi, cette ville...
+
+[06352.026]
+Fillette
+
+[06352.027]
+Dis, Aigrette, c’est vraiment un si bel endroit ?
+
+[06352.029]
+Pourquoi tu penses ça ?
+
+[06352.030]
+Fillette
+
+[06352.031]
+Ce sont les grands qui le disent. Que là-bas, il y a du travail, et qu’on y mange de bonnes choses.
+
+[06352.032]
+Fillette
+
+[06352.033]
+Tra, la la, la♪ Je vais vivre avec mon grand frère. Que je suis contente~♪
+
+[06352.034]
+Fillette
+
+[06352.035]
+Hé, écoute ! Mon grand frère qui travaillait à Aigrette, il revient !
+
+[06352.036]
+Fillette
+
+[06352.037]
+Il dit que maintenant, on vivra toujours ensemble. Que je suis contente !
+
+[06352.039]
+{NAME:01 00 00 00}... Nous aussi, un jour, quand le voyage sera fini, on rentrera à l’orphelinat Dunamis, hein.
+
+[06352.040]
+Prêtre
+
+[06352.041]
+Quand cette ville sera relevée, les Lentilles y afflueront d’elles-mêmes.
+
+[06352.042]
+Prêtre
+
+[06352.043]
+Alors, par le pouvoir de la déesse Atamoni, nous pourrons la rendre plus belle encore qu’autrefois.
+
+[06352.045]
+Haa... Autrement dit, sans Lentilles, on ne peut rien faire du tout...
+
+[06352.046]
+Prêtre
+
+[06352.047]
+Je suis devenu clerc de l’Ordre d’Atamoni parce que je voulais rendre à cette ville son animation d’autrefois.
+
+[06352.048]
+Prêtre
+
+[06352.049]
+Pour l’heure, distribuer des vivres est tout ce que nous pouvons faire, mais un jour, je lui rendrai l’espoir.
+
+[06352.050]
+Prêtre
+
+[06352.051]
+Dame Elraine nous guidera sûrement vers le bonheur.
+
+[06352.052]
+Prêtre
+
+[06352.053]
+Cette fois, cela n’a pas été sans peine, mais nous avons pu remettre à dame Elraine une belle quantité de Lentilles.
+
+[06352.054]
+Prêtre
+
+[06352.055]
+Pourvu que ces Lentilles servent, si peu que ce soit, à relever cette ville.
+
+[06352.057]
+Imbécile ! Elle se moque bien de relever la ville ! Au contraire... Bon sang !!
+
+[06352.058]
+Prêtre
+
+[06352.059]
+Pour l’heure, croyons en la bonté des gens, comme l’enseigne la déesse Atamoni.
+
+[06352.060]
+Prêtre
+
+[06352.061]
+Les habitants de cette ville, semble-t-il, portent encore en eux le poids de ce qui s’est passé il y a dix-huit ans...
+
+[06352.062]
+Prêtre
+
+[06352.063]
+Mais je crois qu’un jour ils surmonteront leur chagrin et se remettront en marche.
+
+[06352.064]
+Pasteur
+
+[06352.065]
+Le sous-sol sert d’entrepôt à l’Ordre d’Atamoni. Les simples fidèles ne peuvent y être admis.
+
+[06352.066]
+Pasteur
+
+[06352.067]
+Le sous-sol sert d’entrepôt au temple de Straylize. Les simples fidèles ne peuvent y être admis.
+
+[06352.068]
+Bon voyage.
+
+[06352.069]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06352.070]
+Voulez-vous passer la nuit ?
+
+[06352.072]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06352.073]
+Reposez-vous bien.
+
+[06352.074]
+Bonjour.
+
+[06352.075]
+Vous n’avez pas assez d’argent.
+
+[06352.076]
+Au plaisir de vous revoir.
+
+[06352.081]
+Obtenu : {16:25 BA}.
+
+[06352.083]
+Obtenu : {08:FF FF FF FF}.
+
+[06352.085]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06352.087]
+Il n’y a rien ici.
+

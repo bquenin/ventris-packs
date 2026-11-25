@@ -1,0 +1,18 @@
+[00344.001]
+Le monde dans dix ans............ Dis, {NAME:05 00 00 00} ? Tu n’as pas entendu parler d’un héros nommé {NAME:01 00 00 00} ?
+
+[00344.002]
+Mmh~......... non.
+
+[00344.003]
+Aïe... Tu fabriques quoi, moi du futur ! Non, attends... peut-être qu’en devenant un héros, j’ai changé de nom...... Sûrement... Oui, c’est forcément ça !!
+
+[00344.004]
+C’est quoi, ça... ? On dirait qu’il est parti dans son monde...
+
+[00344.005]
+Ç-ça va. C’est... une sorte de petite maladie...
+
+[00344.006]
+... « Stahn Junior » ? Ringard. « Général Dunamis »... mmh, presque. « Roi Dunamis », maître de tout un pays... Non, ou alors, peut-être...
+

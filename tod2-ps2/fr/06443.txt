@@ -1,0 +1,175 @@
+[06443.001]
+Heidelberg : bazar et accessoires
+
+[06443.002]
+Heidelberg
+
+[06443.003]
+Bazar et accessoires
+
+[06443.004]
+Bazar
+
+[06443.005]
+Bienvenue.
+
+[06443.006]
+Merci beaucoup.
+
+[06443.007]
+Achetez donc quelque chose !
+
+[06443.008]
+Bazar
+
+[06443.009]
+Homme
+
+[06443.010]
+Ouah ! Le voilà ! La spécialité de Heidelberg : l’ours de Kanbara en bois sculpté !!
+
+[06443.011]
+Homme
+
+[06443.012]
+L’ours de Kanbara, tout le monde le rapporte en souvenir de Heidelberg.
+
+[06443.013]
+Homme
+
+[06443.014]
+Et il est si gros qu’on ne sait jamais où le mettre, mais alors jamais.
+
+[06443.015]
+Homme
+
+[06443.016]
+Et si j’en achetais un aux voisins, pour les embêter ?
+
+[06443.017]
+Homme
+
+[06443.018]
+Vous, vous avez encore toute votre fraîcheur : c’est beau.
+
+[06443.019]
+Homme
+
+[06443.020]
+Écoute bien : une fille n’est gentille avec toi que jusqu’au mariage.
+
+[06443.021]
+Homme
+
+[06443.022]
+Moi, je suis tout jeune marié, et on m’envoie faire les achats tout seul.
+
+[06443.024]
+Moi, je ne ferais jamais une chose aussi méchante, na !
+
+[06443.025]
+Homme
+
+[06443.026]
+Pourquoi faut-il que j’achète tout seul les souvenirs de notre voyage de noces ?
+
+[06443.027]
+Homme
+
+[06443.028]
+Il n’y a pas eu comme un bruit de feu d’artifice, dehors ?
+
+[06443.029]
+Homme
+
+[06443.030]
+S’il y a un feu d’artifice, c’est qu’il y a une fête, non ?
+
+[06443.031]
+Homme
+
+[06443.032]
+J’irai voir ça tout à l’heure avec ma femme, tiens.
+
+[06443.033]
+Homme
+
+[06443.034]
+Vite, les souvenirs, et je retourne auprès d’elle.
+
+[06443.035]
+Homme
+
+[06443.036]
+Ouah ! Le voilà ! La spécialité de Heidelberg : l’ours de Kanbara en bois sculpté !!
+
+[06443.037]
+Homme
+
+[06443.038]
+L’ours de Kanbara, tout le monde le rapporte en souvenir de Heidelberg.
+
+[06443.039]
+Homme
+
+[06443.040]
+Et il est si gros qu’on ne sait jamais où le mettre, mais alors jamais.
+
+[06443.041]
+Homme
+
+[06443.042]
+Et si j’en achetais un aux voisins, pour les embêter ?
+
+[06443.043]
+Bijoutier
+
+[06443.044]
+Bienvenue. Ici, nous vendons des accessoires.
+
+[06443.045]
+Merci beaucoup.
+
+[06443.046]
+Revenez nous voir.
+
+[06443.047]
+Accessoires
+
+[06443.048]
+Bon voyage.
+
+[06443.049]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06443.050]
+Voulez-vous passer la nuit ?
+
+[06443.052]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06443.053]
+Reposez-vous bien.
+
+[06443.054]
+Bonjour.
+
+[06443.055]
+Vous n’avez pas assez d’argent.
+
+[06443.056]
+Au plaisir de vous revoir.
+
+[06443.061]
+Obtenu : {16:25 BA}.
+
+[06443.063]
+Obtenu : {08:FF FF FF FF}.
+
+[06443.065]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06443.067]
+Il n’y a rien ici.
+

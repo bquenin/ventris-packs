@@ -1,0 +1,304 @@
+[06563.001]
+Monde du rêve
+
+[06563.002]
+Monde du rêve
+
+[06563.004]
+... Encore. Le cauchemar commence toujours ici, n’est-ce pas, Chal.
+
+[06563.006]
+Le dernier, c’est le souvenir de {NAME:04 00 00 00}...
+
+[06563.008]
+Pour être exact, ce serait plutôt le souvenir de Leon Magnus.
+
+[06563.010]
+Attention, quelqu’un vient !
+
+[06563.011]
+Stahn
+
+[06563.012]
+À quoi tu joues, Leon !?
+
+[06563.013]
+Leon
+
+[06563.014]
+Comme tu le vois. Si vous voulez aller plus loin, il faudra d’abord m’abattre.
+
+[06563.015]
+Rutee
+
+[06563.016]
+Qu’est-ce que tu racontes, toi ! Tu sais quand même que l’heure est grave, non !?
+
+[06563.017]
+Leon
+
+[06563.018]
+Cela n’a aucune importance. Je ne fais que tenir le rôle qu’on m’a donné : celui de vous tuer.
+
+[06563.019]
+Woodrow
+
+[06563.020]
+Ouvre les yeux, Leon ! Hugo ne fait que se servir de toi !
+
+[06563.021]
+Leon
+
+[06563.022]
+C’est exact. Pour Hugo, je ne suis qu’un pion parmi d’autres, bon à jeter.
+
+[06563.023]
+Philia
+
+[06563.024]
+Comment... ! Si vous le savez à ce point, pourquoi... ?
+
+[06563.025]
+Leon
+
+[06563.026]
+J’ai quelque chose à protéger. Rien de plus.
+
+[06563.027]
+Leon
+
+[06563.028]
+Prépare-toi ! J’y vais, Stahn !
+
+[06563.029]
+Leon
+
+[06563.030]
+... Gah !
+
+[06563.031]
+Stahn
+
+[06563.032]
+... Leon, pourquoi...
+
+[06563.033]
+Leon
+
+[06563.034]
+Stahn...
+
+[06563.035]
+Stahn
+
+[06563.036]
+Qu-qu’est-ce que c’est !?
+
+[06563.037]
+Leon
+
+[06563.038]
+... L’horloge de la fin... s’est mise... en marche... Plus personne... ne peut... l’arrêter...
+
+[06563.039]
+Woodrow
+
+[06563.040]
+Ce bruit... !? Ne me dites pas que l’eau s’engouffre !?
+
+[06563.041]
+Woodrow
+
+[06563.042]
+C’est mauvais... Il faut fuir, vite !
+
+[06563.043]
+Philia
+
+[06563.044]
+Mais Leon... !
+
+[06563.045]
+Rutee
+
+[06563.046]
+Non, on n’a plus le temps !
+
+[06563.047]
+Stahn
+
+[06563.048]
+Leooooon !
+
+[06563.049]
+Elraine
+
+[06563.050]
+Insensé... Pourquoi cherches-tu encore à te faire souffrir ?
+
+[06563.051]
+Elraine
+
+[06563.052]
+Un seul mot : « Je veux changer l’avenir ». Dis-le, et tu échapperas à cette souffrance.
+
+[06563.053]
+Elraine
+
+[06563.054]
+Tu serais célébré non comme un vil traître, mais comme un héros qui restera longtemps dans la mémoire des hommes.
+
+[06563.055]
+Elraine
+
+[06563.056]
+Tu pourrais même avoir celle que tu aimes.
+
+[06563.057]
+Elraine
+
+[06563.058]
+L’amour et l’honneur... Tu les as tous deux sous les yeux : pourquoi les refuses-tu ?
+
+[06563.060]
+... Pourquoi ? ...... Hmf, toi... tu ne comprends... rien.
+
+[06563.062]
+Cette fin... je m’y étais... préparé... La vie de Marian... voilà... tout ce que j’ai...
+
+[06563.064]
+Pour elle... j’accepte... toutes... les injures... sans me plaindre...
+
+[06563.065]
+Elraine
+
+[06563.066]
+C’est bien pourquoi je te dis de le souhaiter. L’avenir que tu désires. Un avenir où tu aurais l’honneur et l’amour, les deux.
+
+[06563.068]
+... Je n’en... veux... pas...
+
+[06563.070]
+L’amour... et l’honneur factices... que tu fabriques... n’ont aucun... sens...
+
+[06563.071]
+Elraine
+
+[06563.072]
+... Tu veux donc revivre ce cauchemar pour l’éternité ? Leon Magnus.
+
+[06563.074]
+... Hmf, voilà bien... pourquoi... tu ne... comprends... rien...
+
+[06563.076]
+... Je... je ne suis pas... Leon.
+
+[06563.078]
+... Je suis... {NAME:04 00 00 00}... !
+
+[06563.079]
+Elraine
+
+[06563.080]
+... Alors, comme tu le souhaites : le cauchemar éternel...
+
+[06563.082]
+Arrête !
+
+[06563.083]
+Elraine
+
+[06563.084]
+... !
+
+[06563.086]
+On ne te laissera plus faire ce que tu veux !
+
+[06563.087]
+Elraine
+
+[06563.088]
+Je ne comprends pas... Pourquoi prenez-vous la défense de cet homme ?
+
+[06563.089]
+Elraine
+
+[06563.090]
+Cet homme... Leon est un traître, qui a abandonné ses compagnons par intérêt.
+
+[06563.092]
+Leon ? Connais pas, ce type.
+
+[06563.094]
+Nous, on vient juste aider un ami. Un ami précieux, qui s’appelle {NAME:04 00 00 00} !
+
+[06563.096]
+Vous...
+
+[06563.097]
+Elraine
+
+[06563.098]
+Nul ne sait quand cet homme vous trahira de nouveau.
+
+[06563.099]
+Elraine
+
+[06563.100]
+Maintenant encore que vous savez tout, vous dites pouvoir vous fier à un tel être ?
+
+[06563.102]
+Savoir ou ne pas savoir, ça n’a rien à voir ! Moi, j’ai confiance en {NAME:04 00 00 00} !
+
+[06563.104]
+Ça a toujours été comme ça ! Et ça le restera !
+
+[06563.106]
+{NAME:01 00 00 00}...
+
+[06563.108]
+Allez, on rentre, {NAME:04 00 00 00} ! Dans notre monde !
+
+[06563.110]
+Et continuons. Notre histoire à nous...
+
+[06563.112]
+... Oui !
+
+[06563.113]
+Bon voyage.
+
+[06563.114]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06563.115]
+Voulez-vous passer la nuit ?
+
+[06563.117]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06563.118]
+Reposez-vous bien.
+
+[06563.119]
+Bonjour.
+
+[06563.120]
+Vous n’avez pas assez d’argent.
+
+[06563.121]
+Au plaisir de vous revoir.
+
+[06563.126]
+Obtenu : {16:26 7A}.
+
+[06563.128]
+Obtenu : {08:FF FF FF FF}.
+
+[06563.130]
+Trouvé : {16:26 82}, mais vous n’avez plus de place.
+
+[06563.132]
+Il n’y a rien ici.
+

@@ -1,0 +1,6 @@
+[00760.001]
+Si on a convoqué {NAME:06 00 00 00}, c’est bien... pour Dymlos, hein.
+
+[00760.002]
+On saura à l’état-major.
+

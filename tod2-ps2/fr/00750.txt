@@ -1,0 +1,33 @@
+[00750.001]
+Pourtant, j’y pense...
+
+[00750.002]
+Tu penses à quoi ?
+
+[00750.003]
+Eh bien, à Barbatos...
+
+[00750.004]
+Ouaaah ! La passion de {NAME:04 00 00 00} éclate au grand jour ! « Je pense à Barbatos », dit-il ! Quelle fin pour cet amour interdit, par-delà les sexes, par-delà les camps !?
+
+[00750.005]
+Ce à quoi je pense, c’est à l’aisance avec laquelle il s’est retiré !
+
+[00750.006]
+Maintenant que tu le dis, il est reparti drôlement vite... Ah, tiens, on est devenus plus forts : il a paniqué, non ?
+
+[00750.007]
+T’es bête. C’est parce qu’il n’a pas paniqué qu’il a su juger froidement le moment de se retirer, non ?
+
+[00750.008]
+Retiré sans paniquer... Donc il se sait capable de nous battre quand il veut, c’est ça ?
+
+[00750.009]
+C’est l’interprétation la plus raisonnable...
+
+[00750.010]
+Il n’a donc pas encore montré toute sa force...
+
+[00750.011]
+Hmf ! Même à fond, il ne nous aura pas !
+

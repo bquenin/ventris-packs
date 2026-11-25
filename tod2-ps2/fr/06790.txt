@@ -1,0 +1,208 @@
+[06790.001]
+Navire de ligne
+
+[06790.002]
+Navire de ligne
+
+[06790.004]
+Je t’ai cherché, {NAME:04 00 00 00} ! Vraiment, disparaître comme ça d’un coup !
+
+[06790.006]
+........
+
+[06790.008]
+E-euh, {NAME:04 00 00 00}...
+
+[06790.010]
+Moi, je te fais confiance !
+
+[06790.012]
+{NAME:01 00 00 00}... ?
+
+[06790.014]
+Ton âge, qui tu es : ça ne compte pas. Moi, je te fais confiance, {NAME:04 00 00 00} !
+
+[06790.016]
+Alors viens avec nous ! Continuons le voyage !
+
+[06790.018]
+{NAME:01 00 00 00}, toi...
+
+[06790.020]
+... Pourquoi ? Comment peux-tu me faire confiance ? À moi, qui ne veux rien révéler...
+
+[06790.022]
+Pourquoi... Mmh, voyons...
+
+[06790.024]
+Parce que je t’aime bien, {NAME:04 00 00 00}... je crois.
+
+[06790.026]
+... Tu m’aimes bien ?
+
+[06790.028]
+Je t’aime bien, alors j’ai envie d’être avec toi, et je peux te faire confiance.
+
+[06790.030]
+Je ne t’ai rien appris sur moi, tu le sais ? Se prendre d’amitié pour quelqu’un comme cela...
+
+[06790.032]
+Dis, {NAME:04 00 00 00}, toi, il faut qu’on te dise tous ses secrets pour que tu aimes bien quelqu’un ?
+
+[06790.034]
+C’est que...
+
+[06790.036]
+Non, hein ? Des secrets ou pas, ça ne compte pas. Ce qui compte, c’est si on l’aime bien ou non.
+
+[06790.038]
+Alors pour toi, c’est pareil, {NAME:04 00 00 00}. Même avec des secrets...
+
+[06790.040]
+Non : tes secrets et touuut le reste, je t’aime bien comme ça, {NAME:04 00 00 00} !
+
+[06790.042]
+{NAME:01 00 00 00}...
+
+[06790.044]
+... {NAME:01 00 00 00}. Je...
+
+[06790.046]
+C’est tout ce que je voulais dire ! À plus !
+
+[06790.048]
+... Cette fois serait différente : voilà ce que je croyais. Mais au bout du compte, je refais la même chose...
+
+[06790.050]
+Malgré cela... malgré cela, je ne peux pas ôter ce masque. Il me faut tout cacher, et aller jusqu’au bout...
+
+[06790.052]
+Tu étais donc là.
+
+[06790.054]
+... {NAME:01 00 00 00}.
+
+[06790.056]
+Aujourd’hui, tu étais sur le pont. Moi, je ne regardais qu’en l’air !
+
+[06790.058]
+E-euh, {NAME:02 00 00 00}... J’ai une question à te poser.
+
+[06790.060]
+Toi, tu savais tout, hein ? Qu’on était dans le monde de dans dix ans, et qu’il y avait une déesse.
+
+[06790.062]
+... Oui.
+
+[06790.064]
+Alors, {NAME:02 00 00 00}, est-ce que par hasard... tu étais de cette époque depuis le début ?
+
+[06790.066]
+... Oui, c’est cela.
+
+[06790.068]
+Je m’en doutais...
+
+[06790.070]
+Pardon. De m’être tue tout ce temps...
+
+[06790.072]
+Ah, non, je ne te reproche rien ! C’est juste que ça m’a un peu surpris...
+
+[06790.074]
+Tu comprends ? Faire la connaissance d’une fille venue du futur, je n’y aurais jamais pensé.
+
+[06790.076]
+........
+
+[06790.078]
+E-euh, alors, Elraine aussi, forcément...
+
+[06790.082]
+Hein ?
+
+[06790.084]
+... Pardon. Je ne peux pas en dire plus. Alors...
+
+[06790.086]
+Ah... o-oui. Compris...
+
+[06790.088]
+Tu étais donc là.
+
+[06790.090]
+On arrive bientôt à Cherik. Prépare-toi à descendre.
+
+[06790.092]
+Ah, oui...
+
+[06790.094]
+Au fait, {NAME:02 00 00 00}. Tu ne serais pas, par hasard, une des « deux Saintes » ?
+
+[06790.096]
+C’est bien ça, alors. Quand j’ai entendu ton nom, je me suis dit : et si...
+
+[06790.098]
+Je t’en prie, {NAME:05 00 00 00} ! Cela...
+
+[06790.100]
+Ne rien dire à {NAME:01 00 00 00}, c’est ça ? Moi, ça ne me dérange pas.
+
+[06790.102]
+Merci...
+
+[06790.104]
+{NAME:02 00 00 00}, toi...
+
+[06790.106]
+... Bah, ce n’est pas à moi de m’en mêler.
+
+[06790.108]
+Je vais à la cabine. Descends vite.
+
+[06790.110]
+... Si c’est possible, je ne veux pas que {NAME:01 00 00 00} le sache.
+
+[06790.112]
+Mais un jour, il le saura, c’est sûr. Et ce jour-là, moi...
+
+[06790.114]
+{NAME:02 00 00 00} obtient le titre « {08:23 08 00 00} ».
+
+[06790.116]
+Bon voyage.
+
+[06790.117]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06790.118]
+Voulez-vous passer la nuit ?
+
+[06790.120]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06790.121]
+Reposez-vous bien.
+
+[06790.122]
+Bonjour.
+
+[06790.123]
+Vous n’avez pas assez d’argent.
+
+[06790.124]
+Au plaisir de vous revoir.
+
+[06790.129]
+Obtenu : {16:26 F2}.
+
+[06790.131]
+Obtenu : {08:FF FF FF FF}.
+
+[06790.133]
+Trouvé : {16:26 FA}, mais vous n’avez plus de place.
+
+[06790.135]
+Il n’y a rien ici.
+

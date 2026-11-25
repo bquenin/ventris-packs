@@ -1,0 +1,15 @@
+[00532.001]
+Cette ordure de Barbatos, un héros. Non mais, qu’est-ce qu’elle est devenue, l’histoire de ce monde ?
+
+[00532.002]
+Il a attaqué et blessé Woodrow et dame Philia. Un type pareil... ! Ce monde est fou ! Lui, un héros !
+
+[00532.003]
+{NAME:01 00 00 00}...
+
+[00532.004]
+T’échauffer, soit, mais il faut d’abord établir comment l’histoire a été altérée.
+
+[00532.005]
+Oui, {NAME:01 00 00 00}. Garde ta rage pour le cogner.
+

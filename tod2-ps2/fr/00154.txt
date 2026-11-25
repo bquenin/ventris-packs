@@ -1,0 +1,18 @@
+[00154.001]
+{NAME:01 00 00 00}, pourquoi tu t’accroches à cette fille ? D’accord, elle a de quoi, je le reconnais : dans dix ans, ce sera une belle femme, c’est sûr. Mais le monde est plein de femmes bien plus belles, à la pelle.
+
+[00154.002]
+Ne me confonds pas avec toi, {NAME:03 00 00 00} ! Si je cours après elle, c’est que j’ai un pressentiment !
+
+[00154.003]
+Un « pressentiment »...... Un pressentiment d’amour, par hasard ? Hah... Alors toi aussi, tu as l’âge. Trèèès bien ! Dans ce cas, je te soutiens !
+
+[00154.004]
+M-m-mais non ! Moi, c’est un « pressentiment d’aventure » ! J’ai senti que la suivre, c’était la voie pour devenir un héros !
+
+[00154.005]
+Oui, oui, on va dire ça. Pour les leçons d’amour, compte sur le grand {NAME:03 00 00 00} !
+
+[00154.006]
+! D’aventure, j’ai dit !
+

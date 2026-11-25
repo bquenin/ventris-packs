@@ -1,0 +1,127 @@
+[06569.001]
+Base terrestre : magasin
+
+[06569.002]
+Base de l’armée terrestre
+
+[06569.003]
+Magasin
+
+[06569.005]
+Un tonneau à moitié défoncé, plein de vivres moisis.
+
+[06569.006]
+Commère
+
+[06569.007]
+Écoutez un peu ça, vous !
+
+[06569.008]
+Commère
+
+[06569.009]
+Le soldat, là, il dit qu’à nous autres, les réfugiés, il ne vend rien !
+
+[06569.010]
+Commère
+
+[06569.011]
+Pénurie ou pas, je n’en sais rien, mais nous aussi, il faut bien qu’on vive !
+
+[06569.012]
+Commère
+
+[06569.013]
+Non mais vraiment ! Les soldats, ça n’a aucune souplesse !
+
+[06569.014]
+Commère
+
+[06569.015]
+Écoutez un peu ça, vous !
+
+[06569.016]
+Commère
+
+[06569.017]
+Des brigands au grand cœur qu’on appelle les « Ailes Noires » nous ont apporté à manger !
+
+[06569.018]
+Commère
+
+[06569.019]
+Des brigands au grand cœur qui aident les gens dans le besoin ! Ça a de l’allure, non ?
+
+[06569.020]
+Commère
+
+[06569.021]
+Le nom des Ailes Noires restera sûrement dans l’histoire, et on se le transmettra de génération en génération.
+
+[06569.022]
+Officier d’intendance
+
+[06569.023]
+Le matériel est strictement contrôlé. Même à quelqu’un de l’armée, je ne peux pas le donner gratuitement.
+
+[06569.024]
+Merci beaucoup.
+
+[06569.025]
+Revenez nous voir.
+
+[06569.026]
+Officier d’intendance
+
+[06569.027]
+Épicier
+
+[06569.028]
+Il ne reste presque plus de vivres, voyez. Je n’ai plus que ça.
+
+[06569.029]
+Merci bien.
+
+[06569.030]
+On va tous mourir de faim, nous autres...
+
+[06569.031]
+Épicier
+
+[06569.032]
+Bon voyage.
+
+[06569.033]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06569.034]
+Voulez-vous passer la nuit ?
+
+[06569.036]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06569.037]
+Reposez-vous bien.
+
+[06569.038]
+Bonjour.
+
+[06569.039]
+Vous n’avez pas assez d’argent.
+
+[06569.040]
+Au plaisir de vous revoir.
+
+[06569.045]
+Obtenu : {16:25 BA}.
+
+[06569.047]
+Obtenu : {08:FF FF FF FF}.
+
+[06569.049]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06569.051]
+Il n’y a rien ici.
+

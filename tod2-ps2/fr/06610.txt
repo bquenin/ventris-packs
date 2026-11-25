@@ -1,0 +1,209 @@
+[06610.001]
+Dycroft : salle de contrôle
+
+[06610.002]
+Dycroft
+
+[06610.003]
+Salle de contrôle
+
+[06610.004]
+Barbatos
+
+[06610.005]
+Te voilà enfin... J’étais las d’attendre, {NAME:01 00 00 00} Dunamis !
+
+[06610.007]
+Barbatos ! C’était bien toi !
+
+[06610.009]
+Nous ne te laisserons plus jouer avec l’histoire des hommes !
+
+[06610.010]
+Barbatos
+
+[06610.011]
+L’histoire des hommes... ? Hah ! Cela ne m’importe plus !
+
+[06610.013]
+Quoi... !?
+
+[06610.014]
+Barbatos
+
+[06610.015]
+Dymlos, et ceux qu’on appelle des héros : tout cela ne m’importe plus.
+
+[06610.016]
+Barbatos
+
+[06610.017]
+Mon seul but... {NAME:01 00 00 00} ! ... c’est de t’abattre, toi !!
+
+[06610.019]
+Je vois : voilà pourquoi, même revenu à la vie, tu ne peux pas battre Dymlos.
+
+[06610.020]
+Barbatos
+
+[06610.021]
+... Quoi !?
+
+[06610.023]
+Sans une conviction comme celle de Dymlos, ne chercher que des ennemis : même un singe en est capable.
+
+[06610.025]
+Si tu joues les méchants, débats-toi au moins jusqu’au bout pour changer l’histoire. C’est pitoyable.
+
+[06610.026]
+Barbatos
+
+[06610.027]
+... Hmf. Celle qui veut changer l’histoire, n’est-ce pas toi, justement ?
+
+[06610.029]
+... Qu’est-ce que tu dis ?
+
+[06610.030]
+Barbatos
+
+[06610.031]
+Ton frère meurt en combattant Miktran, chacun transperçant l’autre. Tel est, à ce stade, le fait historique.
+
+[06610.032]
+Barbatos
+
+[06610.033]
+Mais en y allant sur-le-champ, tu arriveras bien à temps : tu peux changer l’histoire.
+
+[06610.034]
+Barbatos
+
+[06610.035]
+Allons, débats-toi donc : change l’histoire ! Hé hé hé... Haa ha ha ha ha !
+
+[06610.037]
+........
+................
+
+[06610.039]
+Barbatos, espèce de... !
+
+[06610.040]
+Barbatos
+
+[06610.041]
+Oui, ce regard, {NAME:01 00 00 00} ! Ce regard plein de haine, voilà ce que j’attendais !
+
+[06610.042]
+Barbatos
+
+[06610.043]
+C’est ainsi que tu vaux la peine d’être tué ! Allons, {NAME:01 00 00 00}, viens ! Étanche ma soif !!
+
+[06610.044]
+Voix à la radio
+
+[06610.045]
+Chute des blocs A à J ! Les unités ennemies pénètrent maintenant dans le bloc M. Demandons des renforts, d’urgence, des ren... !
+
+[06610.046]
+Voix à la radio
+
+[06610.047]
+Où est le seigneur Miktran !? Bon sang, impossible de le joindre !? Notre unité a de lourdes pertes : demandons l’autorisation de nous rendre.
+
+[06610.049]
+Rends-toi à l’évidence, Barbatos !
+
+[06610.050]
+Barbatos
+
+[06610.051]
+Insipide... Cette époque ne convient pas... Un lieu plus... plus digne !
+
+[06610.053]
+Attends, où vas-tu, Barbatos !?
+
+[06610.054]
+Barbatos
+
+[06610.055]
+Au lieu le plus digne de notre duel, à toi et à moi...
+
+[06610.056]
+Barbatos
+
+[06610.057]
+{NAME:01 00 00 00} Dunamis... Par-delà le temps... devant « l’Œil de Dieu », je t’attends... !
+
+[06610.059]
+Finalement, il nous a échappé...
+
+[06610.061]
+Barbatos ne pourra plus intervenir. Nous pouvons le laisser.
+
+[06610.063]
+Mais surtout, {NAME:01 00 00 00}...
+
+[06610.065]
+Oui, {NAME:06 00 00 00}... !
+
+[06610.067]
+Il faut que je verrouille ça. Pas question qu’on relance Belcrant.
+
+[06610.069]
+{NAME:06 00 00 00}... Euh, ce que Barbatos a dit tout à l’heure...
+
+[06610.071]
+... Je l’ai dit, non ? Même si je connaissais l’avenir, je n’ai pas l’intention de le changer.
+
+[06610.073]
+Je fais ce que j’ai à faire. ... C’est tout.
+
+[06610.075]
+{NAME:06 00 00 00}...
+
+[06610.077]
+... C’est fini. Allez, on y va, tout le monde.
+
+[06610.079]
+... À la salle du trône, où se trouve Miktran.
+
+[06610.080]
+Bon voyage.
+
+[06610.081]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06610.082]
+Voulez-vous passer la nuit ?
+
+[06610.084]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06610.085]
+Reposez-vous bien.
+
+[06610.086]
+Bonjour.
+
+[06610.087]
+Vous n’avez pas assez d’argent.
+
+[06610.088]
+Au plaisir de vous revoir.
+
+[06610.093]
+Obtenu : {16:26 0E}.
+
+[06610.095]
+Obtenu : {08:FF FF FF FF}.
+
+[06610.097]
+Trouvé : {16:26 16}, mais vous n’avez plus de place.
+
+[06610.099]
+Il n’y a rien ici.
+

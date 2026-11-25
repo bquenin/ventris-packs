@@ -1,0 +1,52 @@
+[06359.001]
+Vallée de Harmentz
+
+[06359.002]
+Vallée de Harmentz
+
+[06359.003]
+Vallée de Harmentz
+
+[06359.004]
+Vallée de Harmentz
+
+[06359.006]
+Ici, la vallée de Harmentz.
+
+[06359.007]
+Bon voyage.
+
+[06359.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06359.009]
+Voulez-vous passer la nuit ?
+
+[06359.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06359.012]
+Reposez-vous bien.
+
+[06359.013]
+Bonjour.
+
+[06359.014]
+Vous n’avez pas assez d’argent.
+
+[06359.015]
+Au plaisir de vous revoir.
+
+[06359.020]
+Obtenu : {16:25 B6}.
+
+[06359.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06359.024]
+Trouvé : {16:25 BE}, mais vous n’avez plus de place.
+
+[06359.026]
+Il n’y a rien ici.
+

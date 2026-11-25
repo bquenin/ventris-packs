@@ -1,0 +1,21 @@
+[00860.001]
+Dites, il n’y a pas moyen de « vaincre Elraine sans tuer {NAME:02 00 00 00} »... ?
+
+[00860.002]
+Le demander à {NAME:02 00 00 00} ne serait-il pas plus rapide ?
+
+[00860.003]
+Crétin ! Comme si on pouvait lui demander une chose pareille !!
+
+[00860.004]
+Pourquoi pas ? Tu refuses de l’entendre dire elle-même qu’il n’y en a pas ?
+
+[00860.005]
+B... ben, oui...
+
+[00860.006]
+Je comprends qu’on ne veuille pas accepter la réalité... Mais sans l’accepter, on n’avance pas.
+
+[00860.007]
+...... Bon sang ! Que faire, alors !!
+

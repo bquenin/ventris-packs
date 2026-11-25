@@ -1,0 +1,109 @@
+[06577.001]
+Radisrol
+
+[06577.002]
+Radisrol
+
+[06577.004]
+Une boîte marquée « Collecte ».
+
+[06577.006]
+« Patron du costume d’ours Kanbara »
+
+[06577.008]
+La boîte contient des vivres.
+
+[06577.009]
+Troupier A
+
+[06577.010]
+Toi, tu comptes faire quoi quand la guerre sera finie ?
+
+[06577.011]
+Troupier B
+
+[06577.012]
+Va savoir... Je n’arrive pas à penser si loin.
+
+[06577.013]
+Troupier A
+
+[06577.014]
+Moi, tu vois, je pense fonder un village quelque part au fond des montagnes.
+
+[06577.015]
+Troupier B
+
+[06577.016]
+Un village au fond des montagnes, hein. Tu comptes y vivre en cultivant un champ ?
+
+[06577.017]
+Troupier A
+
+[06577.018]
+Pas mal, comme vie, non ? Porter l’épée, j’en ai assez.
+
+[06577.019]
+Troupier B
+
+[06577.020]
+Peut-être bien. Si je m’en sors vivante, je te suivrai.
+
+[06577.021]
+Troupier C
+
+[06577.022]
+Salut. Tu es d’où, toi ?
+
+[06577.024]
+D’un endroit qui s’appelle Cresta.
+
+[06577.025]
+Troupier C
+
+[06577.026]
+Cresta ? Jamais entendu parler.
+
+[06577.028]
+Hé, hé, {NAME:01 00 00 00}. Du temps de la guerre du Ciel et de la Terre, Cresta n’existe pas.
+
+[06577.030]
+Ah, c’est vrai...
+
+[06577.031]
+Bon voyage.
+
+[06577.032]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06577.033]
+Voulez-vous passer la nuit ?
+
+[06577.035]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06577.036]
+Reposez-vous bien.
+
+[06577.037]
+Bonjour.
+
+[06577.038]
+Vous n’avez pas assez d’argent.
+
+[06577.039]
+Au plaisir de vous revoir.
+
+[06577.044]
+Obtenu : {16:25 BA}.
+
+[06577.046]
+Obtenu : {08:FF FF FF FF}.
+
+[06577.048]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06577.050]
+Il n’y a rien ici.
+

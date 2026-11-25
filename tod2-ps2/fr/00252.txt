@@ -1,0 +1,21 @@
+[00252.001]
+Dites, à votre avis, c’est quoi, le trésor ? Une épée de légende, peut-être ?
+
+[00252.002]
+Un truc comme un Swordian ? Aucun intérêt. Il faudrait plutôt...... voyons. Un trésor fa-bu-leux, que personne n’a jamais vu...... par exemple... une belle femme, une belle femme, ou une belle femme...
+
+[00252.003]
+Ça, c’est ce que tu veux, toi, {NAME:03 00 00 00}... Alors moi, je voudrais un héros !
+
+[00252.004]
+Voyons, {NAME:02 00 00 00}~. Un héros, il y en a déjà un ici.
+
+[00252.005]
+Votre façon de penser m’échappe. Il ne peut pas y avoir un être humain dans un coffre.
+
+[00252.006]
+Oh, {NAME:04 00 00 00}. On plaisante, voyons♪ Pas vrai, {NAME:03 00 00 00} ?
+
+[00252.007]
+Hein ? ... Ah bon ?
+

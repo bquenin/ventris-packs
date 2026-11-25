@@ -1,0 +1,281 @@
+[06459.001]
+Château de Heidelberg : chambres d’amis
+
+[06459.002]
+Château de Heidelberg
+
+[06459.003]
+Château de Heidelberg : chambres d’amis
+
+[06459.005]
+Le feu de la cheminée brûle, comme s’il ne devait jamais s’éteindre...
+
+[06459.006]
+Soldat
+
+[06459.007]
+Voici vos chambres. Souhaitez-vous vous reposer dès maintenant ?
+
+[06459.009]
+{03:00 00 00 00}　Se reposer　
+　Pas encore　
+
+[06459.010]
+Soldat
+
+[06459.011]
+Reposez-vous bien.
+
+[06459.013]
+On rentre d’un voyage dans le temps, et plus de Lentilles. C’est fou, cette suite de casse-tête sans fin.
+
+[06459.015]
+Une vie pleine de rebondissements, c’est le cas de le dire. Depuis qu’on a rencontré {NAME:02 00 00 00}, pas une minute pour s’ennuyer.
+
+[06459.017]
+Aïe !! Qu’est-ce qui te prend, espèce de... !
+
+[06459.019]
+Idiot ! Réfléchis un peu avant de parler !
+
+[06459.021]
+Ah, non, ce n’est pas ça. Je ne dis pas que la venue de {NAME:02 00 00 00} nous dérange, pas du tout...
+
+[06459.023]
+Je voulais dire que c’est bien, de ne jamais s’ennuyer... h-hein, {NAME:01 00 00 00} !
+
+[06459.025]
+... Hein ? Quoi ? Pardon, je n’écoutais pas.
+
+[06459.027]
+... Reposons-nous. Il n’y a plus rien à faire aujourd’hui.
+
+[06459.029]
+Mmh, déjà le matin ? J’ai l’impression de m’être couché à l’instant...
+
+[06459.031]
+Salut, {NAME:05 00 00 00} ! ... Tiens, {NAME:02 00 00 00} n’est pas avec toi ?
+
+[06459.033]
+Elle a disparu...
+
+[06459.035]
+Quoi ?
+
+[06459.037]
+{NAME:01 00 00 00} ! Réveille-toi, {NAME:01 00 00 00} !
+
+[06459.039]
+... Fwah ? Ah, bonjour...
+
+[06459.041]
+Allez, ne reste pas hébété ! Lève-toi vite !
+
+[06459.043]
+Hé, qu’est-ce qui se passe, enfin ?
+
+[06459.045]
+La petite... {NAME:02 00 00 00} n’est plus là !
+
+[06459.047]
+Quand je me suis réveillée, elle n’était déjà plus là ! Je la cherche depuis tout à l’heure...
+
+[06459.049]
+H-hé, calme-toi. Elle est peut-être juste partie se promener, non ?
+
+[06459.051]
+Mais non ! Ce n’est pas ça...
+
+[06459.053]
+Ah, peu importe : on va trouver le roi Woodrow !
+
+[06459.055]
+Dis, {NAME:01 00 00 00}, réveille-toi.
+
+[06459.057]
+Hé, {NAME:01 00 00 00}, je te parle !
+
+[06459.059]
+Hééé, {NAME:01 00 00 00} ! Debouuut !
+
+[06459.061]
+... Fwah ? Mm, {NAME:02 00 00 00}... ... Il est tard. Bonne nuiiit......
+
+[06459.063]
+Qu’est-ce que tu racontes ! C’est le matin, le matin ! Allez, lève-toi, {NAME:01 00 00 00}.
+
+[06459.065]
+Encore un peu... rien qu’un tout petit peu...
+
+[06459.067]
+Allez, tant qu’on y est, sortons quelque part.
+
+[06459.069]
+Bonne promenaaade... Moi, je dors...
+
+[06459.071]
+Bon, tant pis. Tu n’as donc aucune envie d’un rendez-vous avec moi, {NAME:01 00 00 00} ?
+
+[06459.073]
+Aucune, aucune... Un rendez-vous, pas du tout...
+
+[06459.075]
+............ ... Hein, un rendez-vous !?
+
+[06459.077]
+Oui, un rendez-vous ! Allons-y, {NAME:01 00 00 00} !
+
+[06459.079]
+Pour l’endroit... je sais ! Le parc. On y sera bien, c’est sûr.
+
+[06459.081]
+Ah, les voilà. Tout le monde est là, maintenant.
+
+[06459.083]
+C’est à quel sujet ? {NAME:03 00 00 00} m’en a parlé, mais je n’ai rien compris...
+
+[06459.085]
+Mon « Analyseur numéro 2 bis » a détecté une distorsion de l’axe du temps et une hausse anormale de l’entropie.
+
+[06459.087]
+En clair : le cours du temps est dans un état très inquiétant.
+
+[06459.089]
+T-très inquiétant, c’est-à-dire ?
+
+[06459.091]
+Pour parler net : l’avenir est en train de disparaître.
+
+[06459.093]
+L’avenir qui disparaît... Qu’est-ce que ça veut dire, ça !?
+
+[06459.095]
+Je ne connais pas le détail, mais on dirait qu’une sorte d’interférence s’exerce sur cette époque depuis l’avenir.
+
+[06459.097]
+Et sous son effet, l’avenir qui devrait exister est en passe d’être perdu.
+
+[06459.099]
+Ça veut dire qu’Elraine veut changer cette époque, maintenant ?
+
+[06459.101]
+Même dans ce cas, ce ne sera plus aussi simple que jusqu’ici.
+
+[06459.103]
+C’est d’une ampleur effrayante, de quoi effacer l’avenir lui-même.
+
+[06459.105]
+Les signes sont déjà là. Tout à l’heure, j’ai observé un flottement de l’espace-temps : un instant, le présent et l’avenir se sont superposés, semble-t-il.
+
+[06459.107]
+{NAME:01 00 00 00}, ce qu’on a vu... !
+
+[06459.109]
+O-oui...
+
+[06459.111]
+Vous deux, vous avez une idée là-dessus ?
+
+[06459.113]
+... On l’a vu.
+
+[06459.115]
+Vu quoi ?
+
+[06459.117]
+... Heidelberg qui se déformait, et commençait à disparaître...
+
+[06459.119]
+La fin du monde, donc...
+
+[06459.121]
+La fin du monde... Comment ça, {NAME:06 00 00 00} ?
+
+[06459.123]
+Comme je le dis. Elraine veut effacer ce monde : forcément, il n’y aura plus d’avenir.
+
+[06459.125]
+Effacer le monde... ! Pourquoi ferait-elle ça !?
+
+[06459.127]
+Ah, la raison... Pour ça, il n’y a qu’à le lui demander à elle, non ?
+
+[06459.129]
+Il n’y a que cela, semble-t-il. Mais où donc est Elraine...
+
+[06459.131]
+Oh, pas d’inquiétude là-dessus : j’ai suivi l’impulsion restée dans l’espace-temps.
+
+[06459.133]
+Dans quatre-vingt-sept mille heures environ, autrement dit dans dix ans : elle est dans ces eaux-là.
+
+[06459.135]
+Alors le problème suivant, c’est la Lentille pour voyager dans le temps.
+
+[06459.137]
+Celles du château, on les a envoyées au fond de la mer...
+
+[06459.139]
+Vous vous êtes bien servis de l’Ixifosler, vous autres ?
+
+[06459.141]
+Alors servez-vous de sa Lentille. Fabrication spéciale de ma main, la même que pour les Swordians : de l’énergie à revendre.
+
+[06459.143]
+Mais nous ignorons où il s’est écrasé.
+
+[06459.145]
+À terre, passe encore, mais s’il a été pris dans la distorsion de l’espace-temps...
+
+[06459.147]
+Hé hé~ ! J’avais prévu le coup : je l’ai doté d’un retour automatique~ !
+
+[06459.149]
+... Ça sent l’entourloupe, dis donc.
+
+[06459.151]
+Dis plutôt « prévoyance ». En tout cas, le pilote automatique a dû s’enclencher, et il est rentré d’où il venait.
+
+[06459.153]
+Alors on vise le hangar de l’ancienne base de l’armée terrestre, c’est ça ?
+
+[06459.155]
+Bien, allons-y, tout le monde !
+
+[06459.156]
+Bon voyage.
+
+[06459.157]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06459.158]
+Voulez-vous passer la nuit ?
+
+[06459.160]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06459.161]
+Reposez-vous bien.
+
+[06459.162]
+Bonjour.
+
+[06459.163]
+Vous n’avez pas assez d’argent.
+
+[06459.164]
+Au plaisir de vous revoir.
+
+[06459.169]
+Obtenu : {16:25 BA}.
+
+[06459.171]
+Obtenu : {08:FF FF FF FF}.
+
+[06459.173]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06459.175]
+Il n’y a rien ici.
+

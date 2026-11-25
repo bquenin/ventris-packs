@@ -1,0 +1,24 @@
+[00356.001]
+Dis donc, {NAME:02 00 00 00}, tu as vraiment la peau toute blanche. Moi, le soleil de Calvalese m’a bien grillée : je suis couleur de blé.
+
+[00356.002]
+Oh non...... C’est plutôt moi qui ne sais rien faire seule... Si je pouvais devenir forte, comme toi, {NAME:05 00 00 00}...
+
+[00356.003]
+Allons. Si tu deviens forte, ton héros n’a plus de rôle.
+
+[00356.004]
+Hm ? Quoi, quoi ?
+
+[00356.005]
+Rien ne presse pour devenir forte. Tu n’es pas seule, après tout.
+
+[00356.006]
+Oui... c’est vrai...
+
+[00356.007]
+Hé ? Quoi, quoi ?
+
+[00356.008]
+Secret de filles★
+

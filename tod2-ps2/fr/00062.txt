@@ -1,0 +1,12 @@
+[00062.001]
+Hé, {NAME:01 00 00 00}, t’es prêt ?
+
+[00062.002]
+Attends un peu... Et un, deux, trois, quatre♪ Un, deux, trois, quatre♪
+
+[00062.003]
+Pas l’échauffement ! Je te demande si t’as bien ton équipement et tes objets ! Les ruines grouillent de monstres, je te signale.
+
+[00062.004]
+Ah... ahaha... Je le sais bien, va~♪
+

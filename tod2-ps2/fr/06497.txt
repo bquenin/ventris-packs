@@ -1,0 +1,412 @@
+[06497.001]
+Hope Town : maison de {NAME:05 00 00 00}
+
+[06497.002]
+Hope Town
+
+[06497.003]
+Maison de {NAME:05 00 00 00}
+
+[06497.004]
+Maison de {NAME:05 00 00 00}
+
+[06497.005]
+Maison de {NAME:05 00 00 00}
+
+[06497.006]
+Maison
+
+[06497.008]
+La fourrure d’un ours... ou de quelque chose d’approchant.
+
+[06497.010]
+La fourrure d’un ours... ou de quelque chose d’approchant.
+
+[06497.012]
+La fourrure d’un ours... ou de quelque chose d’approchant.
+
+[06497.014]
+De la vaisselle qui ne vaut guère mieux que du rebut. À Hope Town, on ne doit rien gaspiller.
+
+[06497.015]
+Lou
+
+[06497.016]
+J’ai mal... grande sœur {NAME:05 00 00 00}...
+
+[06497.017]
+Lou
+
+[06497.018]
+Zzz... zzz...
+
+[06497.020]
+Un lit...
+
+[06497.022]
+Le lit de {NAME:05 00 00 00}...
+
+[06497.024]
+Le lit de {NAME:05 00 00 00}...
+
+[06497.026]
+Des meubles modestes.
+
+[06497.028]
+Des meubles modestes.
+
+[06497.030]
+Obtenu : {08:05 00 00 00}.
+
+[06497.032]
+Il n’y a rien.
+
+[06497.033]
+Dream
+
+[06497.034]
+Frontier
+
+[06497.035]
+True
+
+[06497.037]
+Attendez-moi un instant. Je vous prépare ça en un tournemain.
+
+[06497.039]
+Alors, bon appétiiit~ !
+
+[06497.041]
+C-c’est bon ! C’est vraiment toi qui as tout fait, {NAME:05 00 00 00} ?
+
+[06497.043]
+Évidemment ! Telle que tu me vois, la cuisine, ça me connaît.
+
+[06497.045]
+Bah, tout le monde a bien au moins un talent.
+
+[06497.047]
+... {NAME:03 00 00 00}. Finalement, toi, pas de repas.
+
+[06497.049]
+Bonne cuisinière, bonne archère, et plus de poigne qu’un homme ! Ah, maître {NAME:05 00 00 00}, la meilleure de toutes !
+
+[06497.051]
+La poigne, c’était de trop !
+
+[06497.053]
+Mais quand même, c’est vraiment bon ! Cette soupe, surtout, un régal ! Pas vrai, {NAME:02 00 00 00} ?
+
+[06497.055]
+... {NAME:02 00 00 00} ?
+
+[06497.057]
+Hein ? Qu-quoi ?
+
+[06497.059]
+Tu n’as pas beaucoup mangé. Ce n’est pas à ton goût ?
+
+[06497.061]
+Ah, pas du tout... Si, c’est très bon !
+
+[06497.063]
+Tant mieux, alors...
+
+[06497.065]
+Se régaler est fort bien, mais l’essentiel n’a pas encore été abordé, il me semble ?
+
+[06497.067]
+L’essentiel ?
+
+[06497.069]
+Le passé... autrement dit, le moyen de regagner l’époque d’où nous venons. {NAME:02 00 00 00}, as-tu une solution ?
+
+[06497.071]
+Ah, oui. À ce propos...
+
+[06497.073]
+Autrement dit : rentrer dans le passé, on peut, mais la force des Lentilles ne suffit pas, c’est ça ?
+
+[06497.075]
+Oui. Moi seule, passe encore, mais aller dans le passé avec vous tous...
+
+[06497.077]
+Dans ce cas, j’ai une idée. J’ai entendu dire qu’à Calviola, une ville un peu plus loin, il y a une Lentille géante.
+
+[06497.079]
+Calviola... Si je me souviens bien, il devait y avoir un temple de l’Ordre d’Atamoni.
+
+[06497.081]
+Mais ce n’est peut-être plus la Calviola que tu connais.
+
+[06497.083]
+Il paraît qu’autrefois elle était assez prospère, mais aujourd’hui, il n’y a plus que les clercs qui gardent la déesse.
+
+[06497.085]
+À ce propos... J’ai encore du mal à y croire. Qu’il y ait une vraie déesse dans ce monde...
+
+[06497.087]
+Vous venez d’il y a une dizaine d’années, c’est bien ça ?
+
+[06497.089]
+C’est justement vers cette époque que la déesse serait descendue sur terre, à ce qu’on raconte.
+
+[06497.091]
+De notre temps, on n’en parlait pas, même pas en rumeur...
+
+[06497.093]
+Calviola...
+
+[06497.095]
+Qu’est-ce qu’il y a, {NAME:02 00 00 00} ? Quelque chose qui cloche ?
+
+[06497.097]
+N-non, ce n’est rien.
+
+[06497.099]
+Oui... Pour retourner dans le passé aussi, je crois qu’il vaut mieux aller à Calviola.
+
+[06497.101]
+Bon, en tout cas, allons à Calviola ! Pour rentrer à notre époque !
+
+[06497.103]
+{NAME:05 00 00 00} obtient le titre « {08:1D 08 00 00} ».
+
+[06497.104]
+Pfiou~. Puiser l’eau, c’était dur !
+
+[06497.106]
+Merci. Tu me rends toujours bien service.
+
+[06497.107]
+Je ne sais pas chasser comme {NAME:05 00 00 00} et les garçons, mais puiser l’eau ou faire la cuisine, ça, je peux.
+
+[06497.108]
+Moi, j’aime pas les tomates. S’il te plaît, mange-les~.
+
+[06497.110]
+Ahaha ! Il y en a plein, alors ne mange que ce que tu aimes.
+
+[06497.111]
+Elle est passée où, {NAME:05 00 00 00} ? Je voulais lui faire manger mes tomates que je déteste~.
+
+[06497.112]
+Dites, dites, vous aussi, mangez-en avant de partir !
+
+[06497.113]
+{NAME:05 00 00 00}, je voudrais que tu m’apprennes à faire d’autres plats.
+
+[06497.115]
+Oui. La prochaine fois que je rentre, je t’apprendrai tranquillement...
+
+[06497.116]
+Je ne sais pas chasser, mais je voudrais savoir cuisiner comme {NAME:05 00 00 00}.
+
+[06497.117]
+Je ne sais pas chasser comme {NAME:05 00 00 00} et les garçons, mais puiser l’eau ou faire la cuisine, ça, je peux.
+
+[06497.119]
+Monsieur ! Vous avez trouvé comment guérir Lou !?
+
+[06497.121]
+Mm... Disons qu’on y est presque... Allez, attends sans t’inquiéter.
+
+[06497.123]
+Ça ira ! Cette fois, c’est moi qui protégerai Lou, vous verrez !!
+
+[06497.125]
+{NAME:03 00 00 00}, vraiment, merci !
+
+[06497.127]
+Lou... mon petit frère... est tombé malade...
+
+[06497.129]
+Je l’ai montré aussi aux gens de l’Ordre d’Atamoni, mais... ils disent qu’à moins d’un miracle, on ne pourra pas le sauver...
+
+[06497.131]
+Mais moi, je veux pas, je veux pas de ça... alors j’ai cherché comment le guérir !
+
+[06497.133]
+J’ai cherché, cherché partout... mais il n’y a rien, nulle part !!
+
+[06497.135]
+Lou souffre tellement, et moi, je ne peux rien faire pour lui... Je ne sais plus quoi faire !!
+
+[06497.137]
+Ça va aller...
+
+[06497.139]
+Qu’est-ce qui va aller ! Rien ne va, rien du tout !!
+
+[06497.141]
+Ça va aller, je te dis... du moment que tu nous laisses faire !
+
+[06497.143]
+Vous êtes médecins, messieurs !?
+
+[06497.145]
+Enfin, quelque chose comme ça... On va arranger ça, alors attends un peu !
+
+[06497.147]
+{NAME:03 00 00 00}... Tu es sûr, de promettre une chose pareille !?
+
+[06497.149]
+Oh, la ferme... Je ne pouvais pas la laisser comme ça... Toi aussi, tu penses pareil, non !
+
+[06497.151]
+Oui ! Il faut l’aider, c’est sûr ! ... Mais comment faire, au juste...
+
+[06497.153]
+Eh bien, tu sais... Philia doit sûrement savoir quelque chose !
+
+[06497.155]
+Philia... Alors il faut d’abord aller au grand temple de Straylize.
+
+[06497.157]
+L’un des Quatre Héros, qui serait au grand temple de Straylize, s’y connaît en maladies, il me semble.
+
+[06497.159]
+Quelqu’un qui a combattu aux côtés de Stahn et de Rutee. On peut sûrement compter sur son aide.
+
+[06497.161]
+Monsieur ! Vous avez trouvé comment guérir Lou !?
+
+[06497.163]
+Oui ! Seulement... il paraît que ce remède affaiblit un temps le corps du malade.
+
+[06497.165]
+Pendant ce temps, pour que son état ne bascule pas d’un coup, il faut que quelqu’un le veille plusieurs jours sans dormir...
+
+[06497.167]
+Je le ferai !
+
+[06497.169]
+Hein ?
+
+[06497.171]
+Vous avez tout fait pour nous, messieurs, alors maintenant, c’est mon tour !
+
+[06497.173]
+L’élixir de Berselia est remis à {NAME:05 00 00 00}.
+
+[06497.175]
+On te relaie, si tu veux ?
+
+[06497.177]
+Ça ira ! Cette fois, c’est moi qui protégerai Lou, vous verrez !!
+
+[06497.179]
+Je lui ai donné le remède ! Maintenant, c’est moi qui protégerai ce petit, vous verrez !!
+
+[06497.181]
+N’en fais pas trop, quand même...
+
+[06497.183]
+Si je n’en fais pas trop, il ne guérira pas, non ?
+
+[06497.185]
+La fièvre de Lou... est très, très forte...
+
+[06497.187]
+Même quand je lui mets une serviette mouillée sur le front, elle sèche tout de suite...
+
+[06497.189]
+Ça va aller... C’est la preuve qu’il ira bientôt mieux, ne t’en fais pas !
+
+[06497.191]
+Lou... ça va aller... tu vois... ta grande sœur... est là, tout près...
+
+[06497.193]
+Quand tu seras... guéri, ta grande sœur... jouera avec toi... Alors... alors il faut tenir bon...
+
+[06497.195]
+C’est ça ! Tiens bon ! Encore un petit peu !!
+
+[06497.197]
+Merci, messieurs ! On dirait que Lou est vraiment guéri !
+
+[06497.199]
+Je te l’avais bien dit : c’était un remède magique.
+
+[06497.201]
+Vous êtes magicien, monsieur ?
+
+[06497.203]
+... Dis donc.
+
+[06497.205]
+Ce n’est pas que ça compte, mais ce « monsieur », tu ne voudrais pas arrêter ?
+
+[06497.207]
+Je ne sais pas, quand ça vient de toi, ça me chatouille bizarrement... ça me déroute, va savoir pourquoi...
+
+[06497.209]
+Alors je dis quoi ?
+
+[06497.211]
+{NAME:03 00 00 00}... tout court, ça ira.
+
+[06497.213]
+Alors moi aussi, appelle-moi {NAME:05 00 00 00}.
+
+[06497.215]
+Ça marche. Compris, {NAME:05 00 00 00}.
+
+[06497.217]
+Compris, moi aussi, {NAME:03 00 00 00}.
+
+[06497.219]
+Hé hé. Oui, comme ça, ça sonne plus juste...
+
+[06497.220]
+Lou
+
+[06497.221]
+Merci, monsieur. Je suis guéri~ !
+
+[06497.223]
+Le groupe compte maintenant cinq membres. Les quatre premiers du menu principal prennent part aux combats.
+
+[06497.225]
+Placez le curseur sur un personnage et appuyez sur la touche {09:38 00 00 00} pour changer l’ordre.
+
+[06497.227]
+À partir du cinquième, les membres sont en réserve, mais ils gagnent de l’expérience comme les autres.
+
+[06497.228]
+Bon voyage.
+
+[06497.229]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06497.230]
+Voulez-vous passer la nuit ?
+
+[06497.232]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06497.233]
+Reposez-vous bien.
+
+[06497.234]
+Bonjour.
+
+[06497.235]
+Vous n’avez pas assez d’argent.
+
+[06497.236]
+Au plaisir de vous revoir.
+
+[06497.241]
+Obtenu : {16:25 DA}.
+
+[06497.243]
+Obtenu : {08:FF FF FF FF}.
+
+[06497.245]
+Trouvé : {16:25 E2}, mais vous n’avez plus de place.
+
+[06497.247]
+Il n’y a rien ici.
+

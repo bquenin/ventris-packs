@@ -1,0 +1,24 @@
+[00640.001]
+Dis, {NAME:06 00 00 00}. Tu ne peux pas fabriquer des Swordians pour nous aussi ?
+
+[00640.002]
+Renonce. Il n’existe que six Swordians. Ne change pas l’histoire.
+
+[00640.003]
+Je sais bien, mais... avec des Swordians, les combats à venir seraient bieeen plus faciles.
+
+[00640.004]
+Mmh. Je veux bien vous en faire, mais en échange, examen d’aptitude obligatoire.
+
+[00640.005]
+Hein, un examen ? On fait quoi, dans cet examen ?
+
+[00640.006]
+Trois fois rien. On administre quelques produits, on ouvre le ventre, on ouvre le crâne...
+
+[00640.007]
+Aah ! Stop !! Avec {NAME:06 00 00 00}, sérieux ou pas, va savoir !
+
+[00640.008]
+Malpoli. Tout l’est.
+

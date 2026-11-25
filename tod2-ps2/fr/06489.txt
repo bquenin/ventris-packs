@@ -1,0 +1,52 @@
+[06489.001]
+Heat River
+
+[06489.002]
+Heat River
+
+[06489.004]
+À l’abri des rochers, on échappe à la vague de chaleur.
+
+[06489.006]
+On avance en se cachant derrière ces rochers.
+
+[06489.008]
+À l’abri de ce rocher, on doit pouvoir se protéger de la vague de chaleur.
+
+[06489.009]
+Bon voyage.
+
+[06489.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06489.011]
+Voulez-vous passer la nuit ?
+
+[06489.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06489.014]
+Reposez-vous bien.
+
+[06489.015]
+Bonjour.
+
+[06489.016]
+Vous n’avez pas assez d’argent.
+
+[06489.017]
+Au plaisir de vous revoir.
+
+[06489.022]
+Obtenu : {16:26 42}.
+
+[06489.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06489.026]
+Trouvé : {16:26 4A}, mais vous n’avez plus de place.
+
+[06489.028]
+Il n’y a rien ici.
+

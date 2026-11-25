@@ -1,0 +1,30 @@
+[00302.001]
+Dites, on est au pays des neiges : faisons une bataille de boules de neige !
+
+[00302.002]
+Hé... Bonne idée, ça. Tiens !
+
+[00302.003]
+Ouah ! Zu~t ! Par-derrière, c’est lâche ! Tiens !
+
+[00302.004]
+Aïe ! C’est méchaaant, {NAME:01 00 00 00} !!
+
+[00302.005]
+Ah ! Pardon ! C’est {NAME:03 00 00 00} qui a esquivé...... hé, ouah !
+
+[00302.006]
+Hé hé~♪ Et voilà pour toi~.
+
+[00302.007]
+Bon saaang ! Je ne me laisserai pas battre !!
+
+[00302.008]
+Moi, je ne joue pas. Ces jeux de gamins, j’en ai passé l’âge depuis long...... Hmf...... Vous n’avez pas entendu, semble-t-il. Je............ Qui ! Qui vient d’y mettre une pierre !!
+
+[00302.009]
+Ouaah ! {NAME:04 00 00 00} a dégainé !! Fuyez~ !!
+
+[00302.010]
+À genoux, là !
+

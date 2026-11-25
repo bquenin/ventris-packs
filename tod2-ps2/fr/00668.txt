@@ -1,0 +1,27 @@
+[00668.001]
+Oh, {NAME:01 00 00 00}. Levé tôt aujourd’hui, pour une fois.
+
+[00668.002]
+Hé hé... Moi aussi, quand il faut, j’assure... Je vous sauverai tous, touuus...
+
+[00668.003]
+Eh oui. Avant une opération importante, la motivation n’est pas la même, on dirait. Bravo, bravo♪
+
+[00668.004]
+Naïve, {NAME:05 00 00 00}. Il n’est pas réveillé... Il rêve qu’il l’est, c’est tout !
+
+[00668.005]
+Hein... sérieux ?
+
+[00668.006]
+Sérieux. Regarde... Yaaah !
+
+[00668.007]
+Aïeee !! ... Ah, {NAME:03 00 00 00}, bonjour. J’ai faim.
+
+[00668.008]
+Tu vois ?
+
+[00668.009]
+O-oui...
+

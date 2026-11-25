@@ -1,0 +1,67 @@
+[06528.001]
+Dragon volant
+
+[06528.002]
+Dragon volant
+
+[06528.004]
+La cloison est abaissée : impossible de passer.
+
+[06528.006]
+Il doit y avoir une issue de secours tout près : cherchez-la.
+
+[06528.008]
+Pas assez de puissance pour atteindre le haut. Cherchez l’alimentation de secours.
+
+[06528.009]
+Alimentation de secours de l’élévateur enclenchée.
+
+[06528.010]
+Alimentation de secours de l’élévateur coupée.
+
+[06528.013]
+Le coffre était un leurre.
+
+[06528.014]
+Bon voyage.
+
+[06528.015]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06528.016]
+Voulez-vous passer la nuit ?
+
+[06528.018]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06528.019]
+Reposez-vous bien.
+
+[06528.020]
+Bonjour.
+
+[06528.021]
+Vous n’avez pas assez d’argent.
+
+[06528.022]
+Au plaisir de vous revoir.
+
+[06528.027]
+Obtenu : {16:25 BE}.
+
+[06528.029]
+Obtenu : {08:FF FF FF FF}.
+
+[06528.031]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06528.033]
+Il n’y a rien ici.
+
+[06528.034]
+Temps écoulé
+
+[06528.036]
+Dispositif de contrôle détruit.
+

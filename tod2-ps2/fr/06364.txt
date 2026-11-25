@@ -1,0 +1,441 @@
+[06364.001]
+Patron de l’auberge
+
+[06364.002]
+Aigrette : auberge
+
+[06364.003]
+Aigrette
+
+[06364.004]
+Auberge
+
+[06364.005]
+Homme
+
+[06364.006]
+Aïe aïe... Aïe aïe aïe aïe aïe... J-j’ai mal au ventre !
+
+[06364.007]
+Homme
+
+[06364.008]
+Aïe aïe aïe... Le fromage de tout à l’heure... ou bien c’est la pomme ?
+
+[06364.009]
+Vieille dame
+
+[06364.010]
+La ville grouille de pèlerins... Je vais me reposer un peu ici jusqu’au jour de culte.
+
+[06364.011]
+Jeune femme
+
+[06364.012]
+Je vais bientôt être maman... Je suis venue au temple prier pour un accouchement sans peine.
+
+[06364.013]
+Bienvenue, voyageurs ! C’est pour la nuit ? Pour deux, c’est bien ça ?
+
+[06364.014]
+Ah ça, avec tous les pèlerins du temple comme vous, de plus en plus nombreux, on fait des affaires en or.
+
+[06364.016]
+Ah, non, nous, on...
+
+[06364.017]
+Il suffit d’offrir des Lentilles et de prier pour que n’importe quel vœu se réalise ! Je comprends qu’on ait envie de venir.
+
+[06364.018]
+Homme
+
+[06364.019]
+C’est dame Elraine ! Dame Elraine est là, juste dehors !
+
+[06364.020]
+Vieille dame
+
+[06364.021]
+Voir dame Elraine à mon âge ! J’ai vraiment bien fait de vivre si longtemps !
+
+[06364.022]
+Homme
+
+[06364.023]
+Ça valait la peine de venir de si loin, depuis Snowfria. J’arrive, dame Elraine !
+
+[06364.024]
+Jeune femme
+
+[06364.025]
+Il faut que j’aille lui demander un bébé en bonne santé. Un garçon, si possible !
+
+[06364.026]
+Homme
+
+[06364.027]
+Ce pouvoir mystérieux de la Sainte, j’aimerais bien le voir une fois de mes yeux.
+
+[06364.028]
+Oh, je ne peux pas rester planté là ! Je vous montrerai la chambre plus tard, attendez-moi un peu !
+
+[06364.030]
+Q-quoi ? Il se passe quelque chose !?
+
+[06364.032]
+Elraine est là. ... C’est rare, qu’elle sorte.
+
+[06364.034]
+Elraine ? C’est qui ?
+
+[06364.036]
+Celle qui dirige l’Ordre d’Atamoni aujourd’hui. Elle a le pouvoir de faire des miracles, et on l’appelle « la Sainte radieuse ».
+
+[06364.038]
+Elle fait des miracles sous les yeux de tous, et ça compte pour beaucoup dans le nombre de fidèles gagnés.
+
+[06364.040]
+... Mais moi, elle ne me revient pas. Depuis qu’elle est apparue, l’Ordre d’Atamoni ne tourne plus rond...
+
+[06364.042]
+Des miracles !? Une sainte !? C’est vrai !? Génial, c’est génial !
+
+[06364.044]
+Dis, si on lui demande, elle donne un autographe !? Ça doit être difficile... Une poignée de main, au moins, ça passe !?
+
+[06364.046]
+Ah, pas le temps de traîner ! Vite, on y va aussi, {NAME:03 00 00 00} !
+
+[06364.048]
+... Haa. J’ai été bête de lui parler sérieusement, à celui-là...
+
+[06364.050]
+Mais qu’est-ce que tu marmonnes ! Vite, vite !
+
+[06364.051]
+Ah, désolé pour tout à l’heure. Je vous conduis à la chambre.
+
+[06364.052]
+Au fait, c’est bien pour deux ? Et la petite qui est avec vous ?
+
+[06364.054]
+La petite qui est avec nous... C’est qui, ça ?
+
+[06364.055]
+Mais si, la fille qui porte le même pendentif que dame Elraine. Votre connaissance.
+
+[06364.056]
+Elle est mignonne, hein. Alors, c’est la copine de qui ?
+
+[06364.058]
+Mignonne... Vous l’avez vue, monsieur !?
+
+[06364.059]
+Je l’ai aperçue tout à l’heure en faisant mes courses. Ce pendentif a une drôle de forme, alors je m’en suis souvenu.
+
+[06364.061]
+D-dites, vous savez où elle est allée !?
+
+[06364.062]
+Elle allait vers le grand temple de Straylize. Quoi, vous n’aviez pas rendez-vous ?
+
+[06364.064]
+Attends, attends ! Qu’est-ce que tu comptes faire ?
+
+[06364.066]
+Ce que je compte faire ? La rattraper, évidemment !
+
+[06364.068]
+Si on reste plantés là, elle va encore filer on ne sait où ! Allez, vite !
+
+[06364.070]
+H-hé !
+
+[06364.071]
+Homme
+
+[06364.072]
+Dès que la lumière de dame Elraine m’a baigné, mon mal de ventre a complètement disparu.
+
+[06364.073]
+Homme
+
+[06364.074]
+Pour la remercier aussi, je compte offrir de plus en plus de Lentilles à l’Ordre.
+
+[06364.075]
+Homme
+
+[06364.076]
+Je compte offrir de plus en plus de Lentilles à l’Ordre.
+
+[06364.077]
+Homme
+
+[06364.078]
+On a beau dire que le monde est en paix, rien ne garantit qu’un drame comme celui d’il y a dix-huit ans ne reviendra pas, non ?
+
+[06364.079]
+Homme
+
+[06364.080]
+Pour l’éviter, on offre des Lentilles à l’Ordre et on s’en remet aux miracles de dame Elraine.
+
+[06364.082]
+Et ce sont ces Lentilles qui les perdront... « Le serpent qui se mord la queue », c’est exactement ça.
+
+[06364.083]
+Homme
+
+[06364.084]
+On offre des Lentilles à l’Ordre et on s’en remet aux miracles de dame Elraine.
+
+[06364.086]
+Se servir pour une chose pareille de Lentilles chargées des vœux des gens... Je ne le pardonnerai jamais...
+
+[06364.087]
+Homme
+
+[06364.088]
+Aïe aïe... Aïe aïe aïe aïe aïe... J-j’ai mal au ventre !
+
+[06364.089]
+Homme
+
+[06364.090]
+On mange si bien à Aigrette que j’ai fini par trop manger.
+
+[06364.092]
+Ha ha ha. Fais gaffe, toi aussi, {NAME:01 00 00 00}.
+
+[06364.093]
+Homme
+
+[06364.094]
+Aïe aïe... Il faut que j’aille chercher un remède au temple de Straylize.
+
+[06364.095]
+Jeune femme
+
+[06364.096]
+Fff, fff... Avec ce ventre qui grossit, le pèlerinage jusqu’au grand temple est pénible.
+
+[06364.097]
+Jeune femme
+
+[06364.098]
+Mais je dois tenir bon, pour l’enfant qui va naître.
+
+[06364.099]
+Jeune femme
+
+[06364.100]
+Fff, fff... Vous ne manquez pas de cran, vous. S’en prendre à dame Elraine comme ça.
+
+[06364.101]
+Jeune femme
+
+[06364.102]
+Si j’ai un garçon, j’aimerais qu’il grandisse aussi turbulent que ça.
+
+[06364.103]
+Jeune femme
+
+[06364.104]
+Fff, fff... Quand l’enfant sera né, j’aimerais tant que dame Elraine lui choisisse son nom.
+
+[06364.105]
+Jeune femme
+
+[06364.106]
+Fff, fff... Avec ce ventre qui grossit, le pèlerinage jusqu’au grand temple est pénible.
+
+[06364.107]
+Jeune femme
+
+[06364.108]
+Fff, fff... Aller prier au temple avec ce ventre, ce n’est pas une mince affaire.
+
+[06364.109]
+Jeune femme
+
+[06364.110]
+Mais plus mon ventre grossit, plus je le sens pour de bon : ah, je vais avoir un enfant.
+
+[06364.112]
+Une plaque est sertie dans le socle de l’horloge. « Pour l’essor d’Aigrette. Don du chef de l’ancien village d’Almeida »
+
+[06364.114]
+Au-delà, seul le personnel de l’auberge peut entrer, semble-t-il.
+
+[06364.115]
+-Menu factice-
+
+[06364.116]
+Riz à l’orientale
+
+[06364.117]
+Comme d’habitude
+
+[06364.118]
+Menu grillade
+
+[06364.119]
+Brioche à la viande
+
+[06364.120]
+Thé exquis
+
+[06364.121]
+Menu poisson grillé
+
+[06364.122]
+Menu porc au gingembre
+
+[06364.123]
+Menu grillade au radis râpé
+
+[06364.124]
+Plat du jour
+
+[06364.125]
+Curry mapo
+
+[06364.126]
+Fiole de vie
+
+[06364.127]
+Chef cuisinier
+
+[06364.128]
+Serveur
+
+[06364.129]
+Serveuse
+
+[06364.130]
+Dis-moi, toi : un petit travail de {18:45 00}, ça te tente ?
+
+[06364.132]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06364.133]
+Faut-il t’expliquer ?
+
+[06364.135]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06364.136]
+Je veux que tu apportes aux clients les plats qu’ils commandent.
+
+[06364.137]
+Les plats sont préparés d’avance : demande-les-moi et je te les donne aussitôt.
+
+[06364.138]
+Si on les fait trop attendre, les clients se fâchent et s’en vont : fais vite.
+
+[06364.139]
+Allez... les clients commencent à arriver.
+
+[06364.147]
+Trop lent ! Je n’attends plus ! Je m’en vais !
+
+[06364.153]
+Merci. Grâce à toi, j’ai fait une belle recette.
+
+[06364.154]
+Voici ta part, prends-la.
+
+[06364.156]
+{0B:01 00 00 00}Obtenu : {14:34 88} Gald.{0B:00 00 00 00}
+
+[06364.157]
+Je compte encore sur toi.
+
+[06364.158]
+Tu répétais que tu savais faire, je t’ai fait confiance, et voilà le résultat !
+
+[06364.159]
+{05:80 01 00 00}Dehors !
+
+[06364.160]
+H-hé ! Toi !?
+
+[06364.163]
+{03:00 00 00 00}{0B:01 00 00 00}Reste : {04:06 00 00 00}{14:24 84 24 7E CB}{04:07 00 00 00} / Paie : {12:25 44}{14:34 8C}{04:07 00 00 00} Gald
+{12:25 46}1:{04:06 00 00 00}{18:45 4C}
+{12:25 48}2:{04:06 00 00 00}{18:45 50}
+{12:25 4A}3:{04:06 00 00 00}{18:45 54}{0B:00 00 00 00}
+
+[06364.165]
+{03:00 00 00 00}{0B:01 00 00 00}Reste : {04:06 00 00 00}{14:24 84 24 7E CB}{04:07 00 00 00} / Paie : {12:25 44}{14:34 8C}{04:07 00 00 00} Gald
+{12:25 46}1:{04:06 00 00 00}{18:45 4C}
+{12:25 48}2:{04:06 00 00 00}{18:45 50}
+{12:25 4A}3:{04:06 00 00 00}{18:45 54}{0B:00 00 00 00}
+
+[06364.166]
+1
+
+[06364.167]
+2
+
+[06364.168]
+3
+
+[06364.169]
+4
+
+[06364.174]
+{03:00 00 00 00}Suite
+{18:44 98 81 35 74 CA C6}
+{18:44 98 82 35 74 CA C6}
+{18:44 98 83 35 74 CA C6}
+
+[06364.176]
+{18:44 98 14 CE 25 7C C6 C6}, et vite, hein.
+
+[06364.178]
+Ne me parle pas pendant que je mange !
+
+[06364.180]
+{15:24 86} obtient le titre « {16:A0 75 08 24 86 CA 81 CB} ».
+
+[06364.181]
+Bon voyage.
+
+[06364.182]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06364.183]
+Voulez-vous passer la nuit ?
+
+[06364.185]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06364.186]
+Reposez-vous bien.
+
+[06364.187]
+Bonjour.
+
+[06364.188]
+Vous n’avez pas assez d’argent.
+
+[06364.189]
+Au plaisir de vous revoir.
+
+[06364.194]
+Obtenu : {16:26 D2}.
+
+[06364.196]
+Obtenu : {08:FF FF FF FF}.
+
+[06364.198]
+Trouvé : {16:26 DA}, mais vous n’avez plus de place.
+
+[06364.200]
+Il n’y a rien ici.
+

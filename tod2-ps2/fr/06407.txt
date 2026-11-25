@@ -1,0 +1,431 @@
+[06407.001]
+Lienea : auberge et bazar
+
+[06407.002]
+Village de Lienea
+
+[06407.003]
+Auberge et bazar
+
+[06407.004]
+Tonton Bob
+
+[06407.005]
+Ho, ho, {NAME:01 00 00 00}. Achète-moi donc quelque chose.
+
+[06407.006]
+Tonton Bob
+
+[06407.007]
+Reviens me voir. C’est promis à tonton Bob, hein.
+
+[06407.008]
+Tonton Bob
+
+[06407.009]
+Ho, ho, {NAME:01 00 00 00}. Tu vas bien, tu t’accroches ?
+
+[06407.010]
+Tonton Bob
+
+[06407.011]
+Dis donc, tu ne sais pas ce que c’est, la retenue ? Ton père réclamait tout pareil, remarque.
+
+[06407.012]
+{05:00 02 00 00}Moi, j’aime pas les enfants rapaces !
+
+[06407.013]
+Sois le bienvenu, {NAME:01 00 00 00}. Moi, c’est Bob. Ton père et moi, on se connaît depuis toujours.
+
+[06407.014]
+Tiens, tiens, je te donne un peu d’argent de poche : prends.
+
+[06407.016]
+Merci beaucoup
+Donnez-m’en plein
+Non merci
+
+[06407.017]
+Tiens, voilà {0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} Gald. Fais-en bon usage, hein.
+
+[06407.019]
+Obtenu : {0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} Gald.
+
+[06407.020]
+Mmh, je te donne {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald. Les jeunes d’aujourd’hui ne se gênent plus.
+
+[06407.022]
+Obtenu : {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald.
+
+[06407.023]
+Ha ha ha. Quel enfant modeste. Rien à voir avec ton père.
+
+[06407.024]
+Dis donc, tu ne sais pas ce que c’est, la retenue ? Ton père réclamait tout pareil, remarque.
+
+[06407.025]
+{05:00 02 00 00}Moi, j’aime pas les enfants rapaces !
+
+[06407.026]
+Ho, ho, ça faisait longtemps, {NAME:01 00 00 00}. Tu n’as pas oublié tonton Bob, hein ?
+
+[06407.027]
+Tiens, tiens, aujourd’hui aussi, je te donne un peu d’argent de poche : prends.
+
+[06407.029]
+Bien sûr, merci
+Donnez-m’en plein, allez
+Je ne peux pas accepter
+
+[06407.030]
+Tiens, voilà {14:24 72} Gald. Fais-en bon usage, hein.
+
+[06407.032]
+Obtenu : {14:24 72} Gald.
+
+[06407.033]
+Mmh, je te donne {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald. Les jeunes d’aujourd’hui ne se gênent plus.
+
+[06407.035]
+Obtenu : {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald.
+
+[06407.036]
+Ha ha ha. Quel enfant modeste. Rien à voir avec ton père.
+
+[06407.037]
+Autrefois, je donnais souvent de l’argent de poche à Stahn.
+
+[06407.038]
+« Je te rembourserai quand j’aurai réussi, juré ! », qu’il fanfaronnait... Qui aurait cru qu’il deviendrait un héros qui sauverait le monde.
+
+[06407.039]
+Toi... tu ne serais pas le fils de Stahn ?
+
+[06407.041]
+Hein !? Comment vous avez deviné !?
+
+[06407.042]
+Pardi, ça se devine ! Moi, c’est Bob. Ton père et moi, on se connaît depuis toujours.
+
+[06407.043]
+Cette tête hérissée, ce regard qui ne lâche rien : ton père tout craché.
+
+[06407.044]
+Enfant
+
+[06407.045]
+Si tu connais le terrain d’entraînement secret de Stahn, alors toi... t’es un fan de Stahn !
+
+[06407.046]
+Enfant
+
+[06407.047]
+Hé hé ! Écoute ça et tombe à la renverse ! Moi, je connais le terrain d’entraînement secret de Stahn !
+
+[06407.049]
+Je le connais aussi. Il est sur la colline, derrière, non ?
+
+[06407.050]
+Enfant
+
+[06407.051]
+Qu-quoi, comment un type comme toi connaît le terrain d’entraînement de Stahn !?
+
+[06407.052]
+Réceptionniste
+
+[06407.053]
+Tiens... vous ne seriez pas le fils de Stahn, par hasard ?
+
+[06407.055]
+Tout juste !
+Non
+
+[06407.056]
+Réceptionniste
+
+[06407.057]
+J’en étais sûre ! Hi hi, vous ressemblez tellement à Stahn que je l’ai vu tout de suite.
+
+[06407.058]
+Réceptionniste
+
+[06407.059]
+Ah bon ? Je trouvais pourtant que vous lui ressembliez...
+
+[06407.060]
+Réceptionniste
+
+[06407.061]
+{NAME:02 00 00 00} ? Ah, la jeune fille que vous portiez sur le dos ? Elle était du côté de l’étang.
+
+[06407.062]
+Réceptionniste
+
+[06407.063]
+La jeune fille qui s’appelle {NAME:02 00 00 00} ? Elle se tenait au bord de l’étang. Allez donc voir ?
+
+[06407.064]
+Réceptionniste
+
+[06407.065]
+Bienvenue. Il n’y a rien ici, mais prenez votre temps.
+
+[06407.066]
+Réceptionniste
+
+[06407.067]
+Bienvenue. Il n’y a rien ici, mais prenez votre temps.
+
+[06407.068]
+Réceptionniste
+
+[06407.069]
+Tiens, {NAME:01 00 00 00} ! Tu restes pour la nuit ? Je te fais un prix d’ami.
+
+[06407.070]
+Réceptionniste
+
+[06407.071]
+Réceptionniste
+
+[06407.072]
+Tiens, {NAME:01 00 00 00} ! Tu restes pour la nuit ?
+
+[06407.073]
+Réceptionniste
+
+[06407.075]
+Une rose artificielle. Elle ne sent rien du tout...
+
+[06407.077]
+Le moulin à vent tourne sans le moindre vent. Un jouet à ressort, sans doute.
+
+[06407.078]
+Il fait trop noir pour voir dans le poêle...
+
+[06407.079]
+En y regardant, je ne ferais que me couvrir de cendre. Laissons.
+
+[06407.082]
+La spécialité de Lienea, la brioche Stahn, est épuisée ! Le patron
+
+[06407.084]
+Un prospectus d’un magasin d’équipement est affiché.
+
+[06407.086]
+Vous qui cherchez des armes et des armures puissantes ! Venez donc chez « Soul & Sword », à Heidelberg !
+
+[06407.088]
+Des légumes sont alignés. Pour la cuisine de l’auberge, peut-être.
+
+[06407.090]
+Les articles à vendre sont joliment rangés.
+
+[06407.091]
+Épicière (l’aînée)
+
+[06407.092]
+Nos ingrédients sont tout frais cueillis.
+
+[06407.093]
+Épicière (l’aînée)
+
+[06407.094]
+Merci beaucoup.
+
+[06407.095]
+Épicière (l’aînée)
+
+[06407.096]
+Nos ingrédients sont tout frais cueillis.
+
+[06407.097]
+Épicière (la cadette)
+
+[06407.098]
+Pour des ingrédients, adressez-vous à ma sœur aînée, près de l’échelle.
+
+[06407.099]
+Chef
+
+[06407.100]
+{16:34 84} : tu en prépares ?
+
+[06407.101]
+Chef
+
+[06407.102]
+Veux-tu apprendre la recette : {16:34 84} ?
+
+[06407.104]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06407.105]
+Chef
+
+[06407.106]
+Je vais t’apprendre la recette : {16:34 84}.
+
+[06407.107]
+Chef
+
+[06407.108]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06407.109]
+Chef
+
+[06407.110]
+J’ai la recette : {16:34 84}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 7C}{0B:00 00 00 00} Gald ?
+
+[06407.112]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06407.113]
+Chef
+
+[06407.114]
+Tu n’as pas assez d’argent.
+
+[06407.115]
+Chef
+
+[06407.116]
+Je te vends la recette : {16:34 84}.
+
+[06407.117]
+Chef
+
+[06407.118]
+Bah, tant pis.
+
+[06407.119]
+{16:24 88}, {16:24 8A}, {16:24 8C}
+
+[06407.120]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.121]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.122]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.123]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.124]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}
+
+[06407.125]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.126]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06407.127]
+Chef
+
+[06407.128]
+Pour préparer {16:34 84}, il faut :
+{18:44 80}
+
+[06407.129]
+Chef
+
+[06407.130]
+Mais tu as les ingrédients.
+
+[06407.131]
+Chef
+
+[06407.132]
+Si tu me les cèdes, je prépare : {16:34 84}. Ça te va ?
+
+[06407.134]
+{03:00 00 00 00}　Oui
+　Non
+
+[06407.135]
+Chef
+
+[06407.136]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 84}.
+
+[06407.137]
+Chef
+
+[06407.138]
+Dommage. C’est vraiment délicieux...
+
+[06407.139]
+Chef
+
+[06407.140]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06407.141]
+Chef
+
+[06407.142]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06407.143]
+Chef
+
+[06407.144]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06407.146]
+Recette ramassée : {16:34 84}.
+
+[06407.148]
+Recette apprise : {16:34 98}.
+
+[06407.149]
+Bon voyage.
+
+[06407.150]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06407.151]
+Voulez-vous passer la nuit ?
+
+[06407.153]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06407.154]
+Reposez-vous bien.
+
+[06407.155]
+Bonjour.
+
+[06407.156]
+Vous n’avez pas assez d’argent.
+
+[06407.157]
+Au plaisir de vous revoir.
+
+[06407.162]
+Obtenu : {16:25 E6}.
+
+[06407.164]
+Obtenu : {08:FF FF FF FF}.
+
+[06407.166]
+Trouvé : {16:25 EE}, mais vous n’avez plus de place.
+
+[06407.168]
+Il n’y a rien ici.
+

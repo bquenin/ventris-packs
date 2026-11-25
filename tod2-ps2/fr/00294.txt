@@ -1,0 +1,12 @@
+[00294.001]
+Quelle brume... Se perdre ici, ce serait terrible.
+
+[00294.002]
+Bien des caravanes marchandes y auraient disparu. Mieux vaut ne pas errer au hasard.
+
+[00294.003]
+Si les caravanes ont disparu, les trésors qu’elles portaient se sont évanouis dans la brume aussi. Pff~, quel gâchis.
+
+[00294.004]
+Qui veut un trésor quitte la route. On risque plus de se perdre, mais cela vaut peut-être le danger.
+

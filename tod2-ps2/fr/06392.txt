@@ -1,0 +1,88 @@
+[06392.001]
+Grand temple de Straylize
+
+[06392.002]
+Grand temple de Straylize
+
+[06392.003]
+Temple de Straylize
+
+[06392.004]
+Temple de Straylize
+
+[06392.006]
+Une statue de la déesse Atamoni. On croit qu’Atamoni est la déesse qui apporte la paix.
+
+[06392.008]
+Obtenu : {08:03 00 00 00}.
+
+[06392.010]
+Entrer par le toit : bien vu, {NAME:04 00 00 00}.
+
+[06392.012]
+Je n’ai fait qu’imiter leur méthode. Pour un assaut, c’est assurément la plus efficace.
+
+[06392.013]
+Garde
+
+[06392.014]
+Intrus ! Ne croyez pas repartir vivants !
+
+[06392.016]
+Q-q-quoi !?
+
+[06392.017]
+Garde
+
+[06392.018]
+Préparez-vous !
+
+[06392.020]
+Ils ont pris la peine de poster des gardes : {NAME:02 00 00 00} est là-dedans, pas de doute.
+
+[06392.022]
+Si elle est allée trouver Elraine, c’est à la cathédrale. Elle y est forcément.
+
+[06392.024]
+La cathédrale... Bon, dépêchons-nous, tout le monde !
+
+[06392.026]
+Montez vite dans l’Ixifosler ! Nous poursuivons le Dragon volant !
+
+[06392.027]
+Bon voyage.
+
+[06392.028]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06392.029]
+Voulez-vous passer la nuit ?
+
+[06392.031]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06392.032]
+Reposez-vous bien.
+
+[06392.033]
+Bonjour.
+
+[06392.034]
+Vous n’avez pas assez d’argent.
+
+[06392.035]
+Au plaisir de vous revoir.
+
+[06392.040]
+Obtenu : {16:25 BA}.
+
+[06392.042]
+Obtenu : {08:FF FF FF FF}.
+
+[06392.044]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06392.046]
+Il n’y a rien ici.
+

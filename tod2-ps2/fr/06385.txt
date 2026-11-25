@@ -1,0 +1,938 @@
+[06385.001]
+Grand temple de Straylize
+
+[06385.002]
+Grand temple de Straylize
+
+[06385.003]
+Temple de Straylize
+
+[06385.004]
+Temple de Straylize
+
+[06385.007]
+Philia
+
+[06385.008]
+... Avant cela, j’ai une question. Pourquoi cherchez-vous un héros ?
+
+[06385.009]
+???
+
+[06385.010]
+Parce qu’il me faut un pouvoir... un pouvoir capable de changer le monde.
+
+[06385.011]
+Un pouvoir ?
+
+[06385.012]
+???
+
+[06385.013]
+Un héros possède le pouvoir de changer non seulement les hommes, mais jusqu’au destin de ce monde.
+
+[06385.014]
+???
+
+[06385.015]
+Je veux savoir quelle est la source de ce pouvoir.
+
+[06385.016]
+???
+
+[06385.017]
+Et je veux, moi aussi, obtenir un tel pouvoir.
+
+[06385.018]
+... À mes yeux, vous semblez déjà détenir un grand pouvoir.
+
+[06385.019]
+???
+
+[06385.020]
+Non, cela ne va pas ! Le pouvoir que j’ai maintenant ne suffit pas, pas du tout !
+
+[06385.021]
+...
+
+[06385.022]
+J’ai encore une chose à vous demander.
+
+[06385.023]
+Quand vous aurez rencontré un héros et obtenu ce pouvoir, que comptez-vous faire ?
+
+[06385.024]
+???
+
+[06385.025]
+...
+
+[06385.026]
+... Vous ne pouvez pas le dire, c’est cela ? Parce que je ne suis pas le héros que vous cherchez ?
+
+[06385.027]
+???
+
+[06385.028]
+... Pardonnez-moi.
+
+[06385.029]
+???
+
+[06385.030]
+Mais je ne m’en servirai pas pour faire le mal ! Croyez-moi !
+
+[06385.031]
+Oui, je le sais. C’est justement pourquoi je vous le demandais.
+
+[06385.032]
+Ce que vous, avec un tel pouvoir et une telle conviction, pouvez bien désirer.
+
+[06385.033]
+... À mes yeux, vous êtes tout à fait comme...
+
+[06385.034]
+?????
+
+[06385.035]
+L’un des Quatre Héros qui auraient brisé l’Œil de Dieu... Tu es Philia Felice, n’est-ce pas ?
+
+[06385.036]
+Q-qui êtes-vous... !?
+
+[06385.037]
+?????
+
+[06385.038]
+Inutile de me nommer devant qui va mourir. ... Prépare-toi !
+
+[06385.039]
+???
+
+[06385.040]
+Philia !!
+
+[06385.041]
+Ne vous occupez pas de moi ! Fuyez, vite... !
+
+[06385.042]
+?????
+
+[06385.043]
+... Faible, bien trop faible. Voilà donc ce qu’est devenue une héroïne d’autrefois. Quelle déception.
+
+[06385.044]
+?????
+
+[06385.045]
+Que ton dernier râle, au moins, me divertisse...
+
+[06385.047]
+Ne bouge plus ! Écarte-toi de Philia tout de suite !
+
+[06385.048]
+?????
+
+[06385.049]
+... Qui es-tu, toi !?
+
+[06385.051]
+Comment as-tu osé t’en prendre à Philia... ! Le suivant, c’est moi... {NAME:01 00 00 00} Dunamis, futur grand héros : je suis ton adversaire !
+
+[06385.052]
+?????
+
+[06385.053]
+Un héros... !?
+
+[06385.054]
+?????
+
+[06385.055]
+Une vermine comme toi, se dire héros... ! Tu veux mourir, gamin !!
+
+[06385.057]
+Attention, {NAME:01 00 00 00} !
+
+[06385.059]
+Qu... !? C’est un monstre, ce type !?
+
+[06385.061]
+Ça craint, {NAME:01 00 00 00} ! Il est coriace... non, pire : on n’a aucune chance !!
+
+[06385.063]
+Et alors, pas question de reculer ! Je vais tout lui donner !!
+
+[06385.064]
+?????
+
+[06385.065]
+Je salue au moins ta résolution, gamin. Avoir prononcé le mot héros devant moi... tu le regretteras au seuil de la mort !!
+
+[06385.067]
+Alors, ça t’apprendra !
+
+[06385.068]
+?????
+
+[06385.069]
+Hin hin hin... Je vois. Par négligence, j’ai manqué aux égards. Alors laisse-moi te rendre hommage comme il se doit !
+
+[06385.071]
+Gh !! Qu-quelle force... !
+
+[06385.072]
+?????
+
+[06385.073]
+Dommage pour toi, héros manqué. Hin hin hin... Haa ha ha ha !!
+
+[06385.074]
+?????
+
+[06385.075]
+Guah !! T-toi... !?
+
+[06385.077]
+Attrape, {NAME:01 00 00 00} !
+
+[06385.079]
+Deyaaaaaah !!
+
+[06385.080]
+?????
+
+[06385.081]
+Gnh !!
+
+[06385.082]
+?????
+
+[06385.083]
+... Hin hin hin. Qu’il existe en ce monde un adversaire capable d’assouvir ma faim...
+
+[06385.084]
+Barbatos
+
+[06385.085]
+Mon nom est Barbatos Goetia. {NAME:01 00 00 00} Dunamis... Je retiendrai ce nom !
+
+[06385.087]
+O-on a réussi...
+
+[06385.089]
+Ah oui ! Philia !!
+
+[06385.090]
+???
+
+[06385.091]
+Elle respire encore... Elle est vivante !
+
+[06385.093]
+Bien ! Philia doit avoir ses appartements dans ce temple. On l’y porte tout de suite !!
+
+[06385.094]
+Prêtre
+
+[06385.095]
+Vous êtes prêts ? Alors la cérémonie de naissance va commencer.
+
+[06385.097]
+Une naissance... mais c’est un temple, ici, non ? Et il n’y a même pas de médecin.
+
+[06385.098]
+Habitant
+
+[06385.099]
+Chut ! Silence ! On est en pleine cérémonie !
+
+[06385.101]
+P-pardon...
+
+[06385.102]
+Prêtre
+
+[06385.103]
+Ô grande déesse Fortuna, prête-nous ta puissance, et qu’une vie nouvelle paraisse ici, maintenant !
+
+[06385.104]
+Prêtre
+
+[06385.105]
+Félicita...
+
+[06385.107]
+Tu as vu, {NAME:02 00 00 00} !? Un éclair, et hop, un bébé : on dirait un tour de magie !
+
+[06385.109]
+Ah... silence... c’est vrai. Ahaha, aha, aha...
+
+[06385.110]
+Prêtre
+
+[06385.111]
+Hum ! ... Bien, reprenons.
+
+[06385.112]
+Prêtre
+
+[06385.113]
+Toutes mes félicitations. La naissance s’est bien passée.
+
+[06385.114]
+Épouse
+
+[06385.115]
+Merci beaucoup. Aucune douleur, tout a été très facile.
+
+[06385.116]
+Prêtre
+
+[06385.117]
+Voici votre enfant.
+
+[06385.118]
+Mari
+
+[06385.119]
+Oui, merci beaucoup.
+
+[06385.121]
+Ici, on donne naissance ainsi, en empruntant le pouvoir divin.
+
+[06385.123]
+Sans douleur, sans risque de maladie après l’accouchement : c’est la façon la plus sûre de mettre au monde.
+
+[06385.125]
+Hmm, sûre, hein. ... Mais dis, ils n’ont pas l’air bien contents, tous les deux.
+
+[06385.127]
+... O-oui, c’est vrai.
+
+[06385.128]
+Prêtre
+
+[06385.129]
+Quant au nom de cet enfant... selon l’usage, ce sera « J-237 ».
+
+[06385.130]
+Prêtre
+
+[06385.131]
+« J-237 » vous sera remis à tous deux au terme des trois ans de la période de garde initiale.
+
+[06385.133]
+« J-237 » !? C’est ça, son nom !?
+
+[06385.134]
+Prêtre
+
+[06385.135]
+... Hum hum ! Nous sommes en pleine cérémonie de naissance : silence, je vous prie.
+
+[06385.137]
+O-oui...
+
+[06385.138]
+Prêtre
+
+[06385.139]
+Alors, encore toutes mes félicitations, « E-102 » et « G-113 ».
+
+[06385.141]
+D-dis, {NAME:02 00 00 00}, c’est quoi, « J-237 » !? Et cette histoire de période de garde...
+
+[06385.143]
+Dans cette ville, les gens sont gérés non par leur nom, mais par un numéro. Il est attribué dans l’ordre des naissances.
+
+[06385.145]
+Et ce n’est qu’après les trois ans de garde initiale que l’enfant est remis à ses parents.
+
+[06385.147]
+Trois ans !? Il vient à peine de naître, et ils ne vivront pas avec lui pendant trois ans !?
+
+[06385.149]
+Mais tu sais, la garde initiale est assurée comme il faut par des spécialistes.
+
+[06385.151]
+Les enfants grandissent sans le moindre problème, ni de caractère ni de santé.
+
+[06385.153]
+Ah... bon... Mais dis, ça, c’est...
+
+[06385.154]
+????
+
+[06385.155]
+Complètement tordu, hein ? Tu le penses aussi, pas vrai ?
+
+[06385.156]
+????
+
+[06385.157]
+Ah, pardon. Je n’aurais jamais cru trouver des gens normaux dans cette ville.
+
+[06385.158]
+????
+
+[06385.159]
+Ça m’a fait plaisir, alors voilà.
+
+[06385.160]
+????
+
+[06385.161]
+Je suis venue acheter quelques remèdes, pour la première fois depuis longtemps... Toujours aussi tordue, cette ville.
+
+[06385.162]
+????
+
+[06385.163]
+Un bébé vient de naître, et des parents aussi impassibles : dans mon village, ce serait impensable.
+
+[06385.165]
+C’est vrai, c’est vrai ! D’habitude, on saute de joie, genre « On a réussi ! », non ?
+
+[06385.166]
+????
+
+[06385.167]
+Comme ils n’ont jamais la moindre peine, les gens d’ici ne savent peut-être plus trop se réjouir.
+
+[06385.168]
+????
+
+[06385.169]
+Mettre un bébé au monde, tu sais, c’est une sacrée épreuve. Si ça tourne mal, on peut y laisser la vie.
+
+[06385.170]
+????
+
+[06385.171]
+Mais ici, avant la naissance comme après, l’Ordre de Fortuna leur mâche tout le travail.
+
+[06385.173]
+Mais c’est moins dangereux ainsi, et au bout du compte, les parents comme l’enfant sont heureux, alors...
+
+[06385.175]
+... Tu le penses vraiment, {NAME:02 00 00 00} ? Parce que dans ce cas...
+
+[06385.176]
+????
+
+[06385.177]
+{NAME:02 00 00 00} ?
+
+[06385.178]
+????
+
+[06385.179]
+... Dites, vous deux, vous ne seriez pas {NAME:01 00 00 00} et {NAME:02 00 00 00}, par hasard !?
+
+[06385.181]
+Hein !?
+
+[06385.183]
+Comment tu connais nos noms !?
+
+[06385.184]
+????
+
+[06385.185]
+Alors ce qu’ils disaient, ces deux-là, c’était vrai...
+
+[06385.186]
+????
+
+[06385.187]
+Figurez-vous que l’autre jour, deux drôles de types en tenue bizarre ont débarqué dans mon village.
+
+[06385.188]
+????
+
+[06385.189]
+Ils donnaient vos noms et demandaient partout si on ne vous avait pas vus.
+
+[06385.190]
+????
+
+[06385.191]
+En plus, ils n’arrêtaient pas de dire des trucs incompréhensibles : « On est où, ici ? », « Elraine nous a expédiés »...
+
+[06385.193]
+Mais c’est... {NAME:03 00 00 00} et {NAME:04 00 00 00} !
+
+[06385.195]
+D-dis ! Ils sont où, maintenant, tous les deux !?
+
+[06385.196]
+????
+
+[06385.197]
+Dans mon village. Venez avec moi et vous les verrez. Vous venez ?
+
+[06385.199]
+Bien sûr !
+
+[06385.200]
+????
+
+[06385.201]
+Alors c’est décidé ! Dans ce cas, filons sans traîner. J’ai hâte de quitter cette ville sinistre, de toute façon.
+
+[06385.203]
+... Oups, je ne me suis pas présentée. Moi, c’est {NAME:05 00 00 00}. {NAME:05 00 00 00}, de Hope Town. Enchantée.
+
+[06385.205]
+Hope Town ? C’est le nom de ton village ?
+
+[06385.207]
+Ouais. Un village qu’on atteint en prenant le bateau d’ici, une fois passé Cherik.
+
+[06385.209]
+Ça va faire un petit voyage, mais bon, bonne route à nous.
+
+[06385.211]
+Moi de même ! Enchanté, {NAME:05 00 00 00} !
+
+[06385.213]
+{NAME:05 00 00 00} rejoint le groupe.
+
+[06385.214]
+Elraine
+
+[06385.215]
+{NAME:02 00 00 00}. Regarde. Ces Lentilles...
+
+[06385.216]
+Elraine
+
+[06385.217]
+Leur nombre même est le signe du désir de bonheur des hommes. Et la preuve de mon amour, de mon désir de les sauver.
+
+[06385.218]
+Elraine
+
+[06385.219]
+C’est mon salut qui rend les hommes heureux. Voilà pourquoi ils m’ont choisie.
+
+[06385.221]
+Le monde que tu veux créer est sans douleur ni tourment, c’est vrai.
+
+[06385.223]
+Mais avec eux, il perd jusqu’aux vraies joies et aux vrais plaisirs. Les hommes ne peuvent pas vouloir d’un monde pareil !
+
+[06385.224]
+Elraine
+
+[06385.225]
+Alors pourquoi es-tu là ?
+
+[06385.226]
+Elraine
+
+[06385.227]
+Sans aucun pouvoir, sans héros, enfermée toute seule ?
+
+[06385.229]
+... ! C-c’est que...
+
+[06385.230]
+Elraine
+
+[06385.231]
+Les hommes redoutent la souffrance et les tourments. Mais seuls, ils ne peuvent s’en défaire.
+
+[06385.232]
+Elraine
+
+[06385.233]
+Voilà pourquoi on a besoin de nous. De la déesse, et de ses envoyées, les Saintes...
+
+[06385.234]
+Elraine
+
+[06385.235]
+Quand Fortuna descendra sous sa forme parfaite, à cet instant, notre rôle aussi prendra fin.
+
+[06385.236]
+Elraine
+
+[06385.237]
+Mais il n’y a rien à déplorer. Car ce sera l’instant où tous les hommes seront comblés de l’amour divin.
+
+[06385.238]
+Elraine
+
+[06385.239]
+Un monde comblé de l’amour divin... Un monde parfait, étranger à la douleur et aux tourments. Voilà ce que doit être le salut...
+
+[06385.240]
+Elraine
+
+[06385.241]
+... Étrange. Que toi, envoyée de la déesse, tu t’accroches à quelqu’un.
+
+[06385.242]
+Elraine
+
+[06385.243]
+Ce que tu cherches, est-ce un héros qui marche à tes côtés et te vient en aide ? Ou bien...
+
+[06385.245]
+........
+
+[06385.246]
+Elraine
+
+[06385.247]
+Je ne comprends pas... Seule la tragédie t’attend au bout, et tu le cherches malgré tout ?
+
+[06385.249]
+... {NAME:01 00 00 00} ne viendra pas. Non, il n’a aucune raison de venir.
+
+[06385.251]
+Parce que, ce jour-là, je... !
+
+[06385.252]
+Elraine
+
+[06385.253]
+Ne crains rien, {NAME:02 00 00 00}. Le vœu que tu n’as pu accomplir, la déesse l’accomplira.
+
+[06385.254]
+Elraine
+
+[06385.255]
+Ta souffrance aussi s’effacera tout entière...
+
+[06385.256]
+Elraine
+
+[06385.257]
+Les temps sont accomplis !
+
+[06385.258]
+Elraine
+
+[06385.259]
+Que l’esprit de la grande déesse vienne ici ! Et aux hommes, le bonheur éternel !
+
+[06385.261]
+{NAME:02 00 00 00} !!
+
+[06385.263]
+{NAME:01 00 00 00}... !?
+
+[06385.264]
+Elraine
+
+[06385.265]
+... Ainsi, lui aussi, comme toi, cherche la tragédie. Quelle folie...
+
+[06385.266]
+Elraine
+
+[06385.267]
+Renoncez. Vos efforts resteront vains.
+
+[06385.269]
+Lâche {NAME:02 00 00 00} !
+
+[06385.270]
+Elraine
+
+[06385.271]
+... Quitte à faire fi du bonheur de tous les hommes, tu t’obstines à me défier ?
+
+[06385.272]
+Elraine
+
+[06385.273]
+Alors... je serai sans pitié !
+
+[06385.274]
+Elraine
+
+[06385.275]
+Insensés... Ce qui vous... attend au bout... ce n’est que... la tristesse...
+
+[06385.277]
+........
+
+[06385.278]
+Elraine
+
+[06385.279]
+... Peu importe... Le prochain... coup... est déjà... joué...
+
+[06385.280]
+Elraine
+
+[06385.281]
+Cette fois... enfin... un monde... par... fait...
+
+[06385.283]
+Elle s’est retirée...
+
+[06385.285]
+{NAME:02 00 00 00} !
+
+[06385.287]
+Ouf, je suis arrivé à temps. S’il t’était arrivé quelque chose, {NAME:02 00 00 00}, je...
+
+[06385.289]
+... Pourquoi ?
+
+[06385.291]
+Hein ?
+
+[06385.293]
+Je croyais que tu ne viendrais plus. Je t’avais dit des choses si dures. Je trouvais normal que tu me détestes.
+
+[06385.295]
+Et pourtant... pourquoi, {NAME:01 00 00 00} !?
+
+[06385.297]
+Pourquoi fais-tu tout ça... pour moi... !?
+
+[06385.299]
+Je te l’ai dit, {NAME:02 00 00 00}, la première fois qu’on s’est vus : le héros que tu cherches, c’est moi.
+
+[06385.301]
+Un héros, ça vient en aide aux filles en détresse. Quoi qu’il arrive, toujours.
+
+[06385.303]
+{NAME:01 00 00 00}...
+
+[06385.305]
+T-tiens... ? Ce n’est pas ça, {NAME:01 00 00 00} ! Je ne suis pas triste !
+
+[06385.307]
+Pas triste du tout... et pourtant...
+
+[06385.309]
+Allons-y, {NAME:02 00 00 00} ! On poursuit Elraine !
+
+[06385.311]
+Oui, {NAME:01 00 00 00} !
+
+[06385.313]
+{NAME:01 00 00 00} obtient le titre « {08:87 08 00 00} ».
+
+[06385.314]
+Prêtre
+
+[06385.315]
+Ce sont toujours des gens de l’extérieur qui apportent la discorde à Aigrette.
+
+[06385.316]
+Prêtre
+
+[06385.317]
+Si le monde entier devenait comme Aigrette, toute discorde disparaîtrait, je crois...
+
+[06385.318]
+G-113
+
+[06385.319]
+Pas de douleurs de l’enfantement. Pas de peine à élever l’enfant. Pas de souci pour les suites de couches.
+
+[06385.320]
+G-113
+
+[06385.321]
+Ah, c’est cela, le bonheur, sûrement.
+
+[06385.322]
+G-113
+
+[06385.323]
+Pas de douleurs de l’enfantement. Pas de peine à élever l’enfant. Pas de souci pour les suites de couches.
+
+[06385.324]
+G-113
+
+[06385.325]
+Ah... ! C’est cela, le bonheur, sûrement.
+
+[06385.327]
+Tu le penses vraiment, toi ?
+
+[06385.328]
+G-113
+
+[06385.329]
+Il reste encore trois ans avant que l’enfant ne revienne : j’ai tout mon temps.
+
+[06385.330]
+E-102
+
+[06385.331]
+Papa à partir d’aujourd’hui... hein. Mais je n’arrive pas vraiment à le sentir : pourquoi donc... ?
+
+[06385.332]
+E-102
+
+[06385.333]
+Papa à partir d’aujourd’hui... hein. Mais je n’arrive pas vraiment à le sentir : pourquoi donc... ?
+
+[06385.335]
+Si tu veux mon avis, la raison est claire comme le jour.
+
+[06385.336]
+E-102
+
+[06385.337]
+Franchement, mon enfant est né, et je n’ai pas l’impression d’être devenu père.
+
+[06385.338]
+E-102
+
+[06385.339]
+Pour l’instant, je ne sais pas, mais dans trois ans, quand l’enfant reviendra, je me sentirai papa, peut-être.
+
+[06385.340]
+Homme
+
+[06385.341]
+Hm ? Si ça ne me manque pas, de ne pas vivre avec mon enfant pendant trois ans ?
+
+[06385.342]
+Homme
+
+[06385.343]
+Qu’est-ce que tu racontes ? C’est bien plus facile que de l’élever soi-même. Pour un parent, rien de plus réjouissant.
+
+[06385.344]
+Homme
+
+[06385.345]
+Les gens de l’Ordre s’occupent de la période la plus pénible, et en plus, l’enfant revient bien élevé.
+
+[06385.346]
+Homme
+
+[06385.347]
+Les parents n’ont plus qu’à s’occuper d’enfants déjà bien élevés.
+
+[06385.348]
+Prêtre
+
+[06385.349]
+Au temps des troubles de Hugo, une Lentille géante nommée « l’Œil de Dieu » aurait été conservée dans la salle du fond.
+
+[06385.350]
+Prêtre
+
+[06385.351]
+Il n’y a plus rien à présent, mais ce lieu est scellé, avec ses souvenirs abominables.
+
+[06385.352]
+Jeune femme
+
+[06385.353]
+Ça me rappelle des souvenirs. C’est vrai, moi aussi, j’ai accouché ici.
+
+[06385.354]
+Jeune femme
+
+[06385.355]
+Le mien, c’est « J-164... » Non, 152, je crois... Oh là là, ou bien 170 ?
+
+[06385.357]
+........
+................
+
+[06385.358]
+Jeune femme
+
+[06385.359]
+Ma mère disait qu’elle avait eu un accouchement difficile en me mettant au monde.
+
+[06385.360]
+Jeune femme
+
+[06385.361]
+Tant de peine rien que pour avoir un enfant, c’est impensable aujourd’hui, n’est-ce pas ?
+
+[06385.362]
+Dame
+
+[06385.363]
+Autrefois, à ce qu’il paraît, on endurait de terribles douleurs en accouchant, mais quand on y pense, quelle absurdité.
+
+[06385.364]
+Dame
+
+[06385.365]
+Devoir en passer par là pour qu’une seule personne naisse : le jeu n’en vaut pas la chandelle, vraiment.
+
+[06385.366]
+Dame
+
+[06385.367]
+Mon fils, lui, ne m’a jamais désobéi une seule fois.
+
+[06385.368]
+Dame
+
+[06385.369]
+Tu vois bien à quel point l’éducation de l’Ordre est solide, non ?
+
+[06385.370]
+Jeune femme
+
+[06385.371]
+Félicitations, « G-113 ». L’enfant avait l’air très doué : vivement dans trois ans.
+
+[06385.372]
+Homme
+
+[06385.373]
+D’ici trois ans, tâchez de devenir des parents capables d’élever un excellent citoyen d’Aigrette~.
+
+[06385.374]
+Jeune femme
+
+[06385.375]
+Tiens~. Alors moi aussi, je suis née comme ça.
+
+[06385.376]
+Bon voyage.
+
+[06385.377]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06385.378]
+Voulez-vous passer la nuit ?
+
+[06385.380]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06385.381]
+Reposez-vous bien.
+
+[06385.382]
+Bonjour.
+
+[06385.383]
+Vous n’avez pas assez d’argent.
+
+[06385.384]
+Au plaisir de vous revoir.
+
+[06385.389]
+Obtenu : {16:28 F2 09}.
+
+[06385.391]
+Obtenu : {08:FF FF FF FF}.
+
+[06385.393]
+Trouvé : {16:28 FA 09}, mais vous n’avez plus de place.
+
+[06385.395]
+Il n’y a rien ici.
+

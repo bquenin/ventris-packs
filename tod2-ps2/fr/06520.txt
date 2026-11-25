@@ -1,0 +1,80 @@
+[06520.001]
+Dragon volant
+
+[06520.002]
+Dragon volant
+
+[06520.003]
+Le sol de cette salle a l’air très glissant.
+
+[06520.004]
+Dégâts : suc digestif
+
+[06520.006]
+Tu as l’air d’avoir du mal. Je te donne un coup de main ?
+
+[06520.008]
+{03:00 00 00 00}　À l’aide, {NAME:05 00 00 00}　
+　Je m’accroche　
+
+[06520.010]
+Laisse-moi faire !
+
+[06520.012]
+Et voilà le travail.
+
+[06520.014]
+Génial ! Tu nous sauves.
+
+[06520.016]
+On reconnaît bien là le garçon manqué !
+
+[06520.018]
+Toi, tu le fais exprès, hein ?
+
+[06520.020]
+Accroche-toi !
+
+[06520.021]
+Bon voyage.
+
+[06520.022]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06520.023]
+Voulez-vous passer la nuit ?
+
+[06520.025]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06520.026]
+Reposez-vous bien.
+
+[06520.027]
+Bonjour.
+
+[06520.028]
+Vous n’avez pas assez d’argent.
+
+[06520.029]
+Au plaisir de vous revoir.
+
+[06520.034]
+Obtenu : {16:26 12}.
+
+[06520.036]
+Obtenu : {08:FF FF FF FF}.
+
+[06520.038]
+Trouvé : {16:26 1A}, mais vous n’avez plus de place.
+
+[06520.040]
+Il n’y a rien ici.
+
+[06520.041]
+Temps écoulé
+
+[06520.043]
+Dispositif de contrôle détruit.
+

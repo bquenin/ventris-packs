@@ -1,0 +1,139 @@
+[06598.001]
+Dycroft
+
+[06598.002]
+Dycroft
+
+[06598.003]
+Soldat
+
+[06598.004]
+Hé, il paraît que des intrus ont débarqué. Des gars de l’armée terrestre seraient montés à bord d’une drôle de machine.
+
+[06598.005]
+Soldat
+
+[06598.006]
+Baaah, nous, on n’a qu’à tenir notre poste. Ils ne vont quand même pas attaquer ici.
+
+[06598.007]
+Soldat
+
+[06598.008]
+C’est vrai : à quelques-uns, on ne fait pas tomber Dycroft. Je me demande ce qu’ils ont dans la tête, ces naïfs.
+
+[06598.009]
+Soldat
+
+[06598.010]
+Qu-qui êtes-vous, vous autres !?
+
+[06598.012]
+Les naïfs venus de la surface !
+
+[06598.013]
+Soldat
+
+[06598.014]
+Quoi !? Alors ceux-là... !
+
+[06598.015]
+Soldat
+
+[06598.016]
+A-attaque ennemie sur la salle de contrôle... Renforts, d’urgence... Gah !
+
+[06598.018]
+Mais peut-on vraiment s’emparer des commandes de Dycroft ?
+
+[06598.020]
+« Impossible » n’est pas dans mon dictionnaire !
+
+[06598.022]
+Écoutez : gagnez-moi cinq minutes, pas plus. Ça me suffit pour pirater l’ordinateur central.
+
+[06598.024]
+Compris ! On n’a qu’à tenir ici pendant ce temps, c’est ça !
+
+[06598.025]
+Les voilà... ! Mais vous ne toucherez pas à un cheveu de {NAME:06 00 00 00} !
+
+[06598.026]
+Si vous me prenez de haut parce que je suis une femme, vous allez le sentir passer. Déguerpissez avant d’avoir mal !
+
+[06598.027]
+Encore eux ! Désolé, on est occupés : l’accueil va être un peu rude !
+
+[06598.028]
+Je me battrai de toutes mes forces jusqu’au bout. C’est tout ce que je peux faire en ce moment... !
+
+[06598.030]
+Eh bien, quelle persévérance. Ils ne connaissent pas le mot « leçon », on dirait.
+
+[06598.031]
+Tant que tu as la langue bien pendue, je suis tranquille. Fanfaronne tant que tu veux.
+
+[06598.032]
+{0B:01 00 00 00}Tenez encore {14:34 04 A0 10 0E C8} min {14:34 04 A0 10 0E C9 90 3C C8} s☆{0B:00 00 00 00}
+
+[06598.033]
+{0B:01 00 00 00}Tenez encore {14:34 04 A0 10 0E C9 90 3C C8} s☆{0B:00 00 00 00}
+
+[06598.036]
+Ce n’est pas fini, {NAME:06 00 00 00} !? Nous, on arrive au bout !
+
+[06598.038]
+Hm, hm, hmm~♪ Hm hm hm, hmm~♪
+
+[06598.040]
+Ne fredonne pas tranquillement ! Tu écoutes, {NAME:06 00 00 00} !?
+
+[06598.042]
+3, 2, 1... 0 !
+
+[06598.044]
+Voilà : toutes les fonctions de Dycroft sont arrêtées, sauf les capsules de sauvetage. Belcrant aussi fait dodo.
+
+[06598.046]
+Bon, nous aussi, on évacue ! D’une traite jusqu’au hangar !
+
+[06598.048]
+{NAME:06 00 00 00} obtient le titre « {08:71 08 00 00} ».
+
+[06598.050]
+Bon voyage.
+
+[06598.051]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06598.052]
+Voulez-vous passer la nuit ?
+
+[06598.054]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06598.055]
+Reposez-vous bien.
+
+[06598.056]
+Bonjour.
+
+[06598.057]
+Vous n’avez pas assez d’argent.
+
+[06598.058]
+Au plaisir de vous revoir.
+
+[06598.063]
+Obtenu : {16:26 1E}.
+
+[06598.065]
+Obtenu : {08:FF FF FF FF}.
+
+[06598.067]
+Trouvé : {16:26 26}, mais vous n’avez plus de place.
+
+[06598.069]
+Il n’y a rien ici.
+

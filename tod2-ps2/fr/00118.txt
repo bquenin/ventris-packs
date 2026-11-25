@@ -1,0 +1,3 @@
+[00118.001]
+Ce combat a pu alerter l’Ordre... {NAME:01 00 00 00}, trouvons vite la Lentille !!
+

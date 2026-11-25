@@ -1,0 +1,49 @@
+[06464.001]
+Château de Heidelberg
+
+[06464.002]
+Château de Heidelberg
+
+[06464.003]
+Soldat
+
+[06464.004]
+Passage interdit.
+
+[06464.005]
+Bon voyage.
+
+[06464.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06464.007]
+Voulez-vous passer la nuit ?
+
+[06464.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06464.010]
+Reposez-vous bien.
+
+[06464.011]
+Bonjour.
+
+[06464.012]
+Vous n’avez pas assez d’argent.
+
+[06464.013]
+Au plaisir de vous revoir.
+
+[06464.018]
+Obtenu : {16:25 BA}.
+
+[06464.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06464.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06464.024]
+Il n’y a rien ici.
+

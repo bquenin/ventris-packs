@@ -1,0 +1,267 @@
+[06432.001]
+Snowfria : auberge
+
+[06432.002]
+Snowfria
+
+[06432.003]
+Auberge
+
+[06432.005]
+De la tisane !
+
+[06432.007]
+C’est b-bon !
+
+[06432.009]
+Que c’est bon, cette chaleur...
+
+[06432.011]
+Il y avait un livre de comptes : j’y ai jeté un œil. ... Les affaires marchent plutôt bien, on dirait.
+
+[06432.012]
+Jeune femme
+
+[06432.013]
+Puisque je suis venue jusqu’en Phandaria, je vais acheter quelque chose en souvenir.
+
+[06432.014]
+Jeune femme
+
+[06432.015]
+N’y aurait-il pas un souvenir qui glace le corps et l’âme de celui qui le reçoit ?
+
+[06432.017]
+On ne vend pas de souvenirs aussi effrayants...
+
+[06432.018]
+Jeune femme
+
+[06432.019]
+N’y aurait-il pas un souvenir qui fasse grelotter sans fin celui qui le reçoit ?
+
+[06432.020]
+Jeune femme
+
+[06432.021]
+La peau d’ours exposée au bazar m’intrigue.
+
+[06432.023]
+Une peau d’ours de Kanbara ? La queue est mignonne.
+
+[06432.024]
+Jeune femme
+
+[06432.025]
+La spécialité de Snowfria, la « cape de fourrure », est épuisée, semble-t-il. Quel dommage.
+
+[06432.026]
+Jeune femme
+
+[06432.027]
+Puisque je suis venue jusqu’en Phandaria, je vais acheter quelque chose en souvenir.
+
+[06432.028]
+Jeune femme
+
+[06432.029]
+N’y aurait-il pas un souvenir qui glace le corps et l’âme de celui qui le reçoit ?
+
+[06432.031]
+On ne vend pas de souvenirs aussi effrayants...
+
+[06432.032]
+Jeune femme
+
+[06432.033]
+N’y aurait-il pas un souvenir qui fasse grelotter sans fin celui qui le reçoit ?
+
+[06432.034]
+Auberge
+
+[06432.035]
+Auberge
+
+[06432.036]
+Chef
+
+[06432.037]
+{16:34 7C} : tu en prépares ?
+
+[06432.038]
+Chef
+
+[06432.039]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06432.041]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06432.042]
+Chef
+
+[06432.043]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06432.044]
+Chef
+
+[06432.045]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06432.046]
+Chef
+
+[06432.047]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06432.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06432.050]
+Chef
+
+[06432.051]
+Tu n’as pas assez d’argent.
+
+[06432.052]
+Chef
+
+[06432.053]
+Je te vends la recette : {16:34 7C}.
+
+[06432.054]
+Chef
+
+[06432.055]
+Bah, tant pis.
+
+[06432.056]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06432.057]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.058]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.059]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.060]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.061]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06432.062]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.063]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06432.064]
+Chef
+
+[06432.065]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06432.066]
+Chef
+
+[06432.067]
+Mais tu as les ingrédients.
+
+[06432.068]
+Chef
+
+[06432.069]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06432.071]
+{03:00 00 00 00}　Oui
+　Non
+
+[06432.072]
+Chef
+
+[06432.073]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06432.074]
+Chef
+
+[06432.075]
+Dommage. C’est vraiment délicieux...
+
+[06432.076]
+Chef
+
+[06432.077]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06432.078]
+Chef
+
+[06432.079]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06432.080]
+Chef
+
+[06432.081]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06432.083]
+Recette ramassée : {16:34 7C}.
+
+[06432.085]
+Recette apprise : {16:34 90}.
+
+[06432.086]
+Bon voyage.
+
+[06432.087]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06432.088]
+Voulez-vous passer la nuit ?
+
+[06432.090]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06432.091]
+Reposez-vous bien.
+
+[06432.092]
+Bonjour.
+
+[06432.093]
+Vous n’avez pas assez d’argent.
+
+[06432.094]
+Au plaisir de vous revoir.
+
+[06432.099]
+Obtenu : {16:25 DE}.
+
+[06432.101]
+Obtenu : {08:FF FF FF FF}.
+
+[06432.103]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06432.105]
+Il n’y a rien ici.
+

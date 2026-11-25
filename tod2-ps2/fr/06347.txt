@@ -1,0 +1,320 @@
+[06347.001]
+Darilsheid, l’ancienne capitale
+
+[06347.002]
+Darilsheid, l’ancienne capitale
+
+[06347.003]
+Darilsheid, l’ancienne capitale
+
+[06347.004]
+Darilsheid, l’ancienne capitale
+
+[06347.006]
+Jadis, le port de Darilsheid se trouvait au-delà, semble-t-il. Les décombres barrent tout passage...
+
+[06347.007]
+Homme
+
+[06347.008]
+À quoi bon faire quoi que ce soit, maintenant ? De toute façon, rien ne changera...
+
+[06347.009]
+Homme
+
+[06347.010]
+Tss, à prendre ses grands airs. Une statue pareille, ça ne fait que gêner, ça ne paie même pas un verre.
+
+[06347.012]
+Monsieur, s’en prendre à une statue ne sert à rien. Si vous n’avez pas de quoi boire, travaillez, non ?
+
+[06347.013]
+Homme
+
+[06347.014]
+Fiche-moi la paix. Boire et ressasser mes souvenirs, je n’ai plus que ça à faire...
+
+[06347.015]
+Homme
+
+[06347.016]
+Les troubles d’il y a dix-huit ans m’ont tout arraché. Ma famille, mes biens...
+
+[06347.017]
+Homme
+
+[06347.018]
+Si délabrée qu’elle soit, j’aime cette ville.
+
+[06347.019]
+Homme
+
+[06347.020]
+Mais il n’y a rien ici. Si, il y avait, autrefois, mais les troubles d’il y a dix-huit ans ont tout emporté.
+
+[06347.021]
+Homme
+
+[06347.022]
+À attendre, on n’arrive à rien. Il faut bien bouger par nos propres forces.
+
+[06347.023]
+Homme
+
+[06347.024]
+Toi aussi, gamin, si l’envie te prend de participer à la reconstruction de la ville, fais-moi signe quand tu veux !
+
+[06347.025]
+Homme
+
+[06347.026]
+Si on unit nos forces, la reconstruction avancera, je crois. Alors je songe à monter une organisation.
+
+[06347.027]
+Homme
+
+[06347.028]
+Alors, gamin, ça te tente ? Pour un jeune d’aujourd’hui, tu as l’air d’avoir du cran !
+
+[06347.030]
+Ça me plaît, ce genre de chose ! Mais j’ai quelque chose à faire. Pardon, monsieur.
+
+[06347.031]
+Dame
+
+[06347.032]
+Aujourd’hui, rien que faire du feu, c’est toute une histoire. Vraiment, c’était mieux avant.
+
+[06347.033]
+Dame
+
+[06347.034]
+Avant, les articles à Lentilles nous facilitaient la vie. Quel monde peu commode c’est devenu.
+
+[06347.036]
+Au fait, autrefois, une société machin-chose fabriquait plein d’articles à Lentilles, non ?
+
+[06347.038]
+La compagnie Oberon. Quand j’étais gosse, il y avait toutes sortes de choses.
+
+[06347.039]
+Dame
+
+[06347.040]
+Depuis la disparition de cette grande société, la compagnie Oberon, cette ville ne fait que dépérir.
+
+[06347.041]
+Dame
+
+[06347.042]
+Hugo, le président de la compagnie Oberon, était un grand scélérat, mais il a apporté à cette ville les bienfaits des articles à Lentilles.
+
+[06347.043]
+Dame
+
+[06347.044]
+Vu comme ça, cet homme était peut-être nécessaire à la ville...
+
+[06347.045]
+Dame
+
+[06347.046]
+Même pour cuire un œuf, on se servait de bois. Les gens d’autrefois vivaient comme ça.
+
+[06347.047]
+Dame
+
+[06347.048]
+Avant, les Lentilles faisaient tout pour nous ; maintenant, c’est du travail, rien que pour cuire un œuf.
+
+[06347.049]
+Dame
+
+[06347.050]
+Mais je trouve ça bien. On sent qu’on « vit », non ?
+
+[06347.051]
+Vieil homme
+
+[06347.052]
+Mfa mfa ! Ne vous en déplaise, celui qui a élevé le héros Stahn, c’est moi !
+
+[06347.054]
+Hein !? C’est vrai !?
+
+[06347.055]
+Vieil homme
+
+[06347.056]
+C’est vrai ! Un jour que Stahn s’était perdu en ville, je lui ai montré le chemin ! Ka ka ka, hngh !
+
+[06347.058]
+Pépé, ça, ça s’appelle pas élever...
+
+[06347.059]
+Vieil homme
+
+[06347.060]
+Mfa mfa ! Figurez-vous que les gens de l’Ordre d’Atamoni pourchassent des évadés !
+
+[06347.061]
+Vieil homme
+
+[06347.062]
+Deux compères, paraît-il, de 15 et 23 ans environ.
+
+[06347.064]
+A-ah bon~. Tenir tête à l’Ordre, quels vilains, ceux-là.
+
+[06347.065]
+Vieil homme
+
+[06347.066]
+N’est-ce pas ! Ka ka ka, hngh !
+
+[06347.067]
+Vieil homme
+
+[06347.068]
+Mfa mfa ! Ne vous en déplaise, celui qui a élevé le héros Stahn, c’est moi !
+
+[06347.070]
+Hein !? C’est vrai !?
+
+[06347.071]
+Vieil homme
+
+[06347.072]
+C’est vrai ! Un jour que Stahn s’était perdu en ville, je lui ai montré le chemin ! Ka ka ka, hngh !
+
+[06347.074]
+Pépé, ça, ça s’appelle pas élever...
+
+[06347.075]
+Vieil homme
+
+[06347.076]
+Même tout seul, je le ferai. C’est que j’aime cette ville plus que tout. Ka ka ka, hngh !
+
+[06347.077]
+Vieil homme
+
+[06347.078]
+La vie, c’est tomber sept fois et se relever huit. Même si l’on tombe 7 fois, qui se relève 8 fois a gagné.
+
+[06347.079]
+Vieil homme
+
+[06347.080]
+Ce qui est cassé, on le rebâtit à neuf. Si personne ne s’y met, je m’y mettrai. Ka ka ka, hngh !
+
+[06347.081]
+Vieil homme
+
+[06347.082]
+Tu me ressembles, toi. Tu deviendras un grand personnage. Ka ka ka, hngh !
+
+[06347.083]
+Vieil homme
+
+[06347.084]
+Mfa mfa ! Tu as un bon regard, toi. Je crois me revoir dans ma jeunesse.
+
+[06347.086]
+Quoooi ! Alors en vieillissant, je deviendrai comme toi, pépé ?
+
+[06347.087]
+Vieil homme
+
+[06347.088]
+Qu’est-ce que c’est que cette grimace !? Tel que tu me vois, j’étais dans ma jeunesse un garçon frais et mignon.
+
+[06347.089]
+Servante férue d’éclat
+
+[06347.090]
+Pour {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lentilles, ça ne te dirait pas de savoir comment aller à Aigrette ?
+
+[06347.092]
+　Je veux savoir　
+　Je me débrouille　
+
+[06347.093]
+Servante férue d’éclat
+
+[06347.094]
+Hé hé... Merci bien♪
+
+[06347.095]
+Servante férue d’éclat
+
+[06347.096]
+Pour aller à Aigrette, il faut passer par la vallée de Harmentz.
+
+[06347.097]
+Servante férue d’éclat
+
+[06347.098]
+Traverse le pont à l’ouest de la ville, garde la côte à ta droite, et tu verras un pont suspendu. C’est la vallée de Harmentz.
+
+[06347.099]
+Servante férue d’éclat
+
+[06347.100]
+La vallée de Harmentz franchie, va vers l’est. Quand tu verras une rivière, tu seras à Aigrette.
+
+[06347.101]
+Servante férue d’éclat
+
+[06347.102]
+... Hé, tu n’en as pas assez !
+
+[06347.103]
+Servante férue d’éclat
+
+[06347.104]
+Si tu erres sans fin, ce ne sera pas ma faute.
+
+[06347.106]
+« Statue des Sept Généraux ». Une statue en l’honneur des 7 généraux qui gouvernaient Seinegald au temps des troubles de Hugo.
+
+[06347.108]
+À l’effondrement de la Coque externe, frappée par la pluie de débris, elle a disparu sous terre avec le château de Seinegald.
+
+[06347.109]
+Bon voyage.
+
+[06347.110]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06347.111]
+Voulez-vous passer la nuit ?
+
+[06347.113]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06347.114]
+Reposez-vous bien.
+
+[06347.115]
+Bonjour.
+
+[06347.116]
+Vous n’avez pas assez d’argent.
+
+[06347.117]
+Au plaisir de vous revoir.
+
+[06347.122]
+Obtenu : {16:25 BA}.
+
+[06347.124]
+Obtenu : {08:FF FF FF FF}.
+
+[06347.126]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06347.128]
+Il n’y a rien ici.
+

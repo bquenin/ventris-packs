@@ -1,0 +1,6 @@
+[08618.001]
+Élémentaire de glace
+
+[08618.004]
+Élémentaire de terre
+

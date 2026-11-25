@@ -1,0 +1,214 @@
+[06807.28320]
+ et les siens
+obtiennent «
+
+[06807.28336]
+ ».
+
+[06807.29696]
+Auto (égalité :                 )
+
+[06807.29736]
+Maîtrise
+
+[06807.29752]
+Globale
+
+[06807.29768]
+Cuisine
+
+[06807.29776]
+Vous avez déjà une recette identique.
+
+[06807.29816]
+Supprimer
+
+[06807.29824]
+Adapter
+
+[06807.29840]
+Renommer
+
+[06807.29856]
+Auto : cas d’égalité
+
+[06807.29880]
+Réglage auto
+
+[06807.29896]
+Supprimer la recette ?
+
+{09:35 00 00 00}Supprimer  {09:36 00 00 00}Annuler
+
+[06807.29944]
+ : cuisiner ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Annuler
+
+[06807.29992]
+ : plat raté.
+
+[06807.30016]
+ : plat prêt.
+
+[06807.30032]
+Cuisiner avec ces ingrédients ?
+
+{09:35 00 00 00}Oui  {09:36 00 00 00}Annuler
+
+[06807.30096]
+Une recette demande au moins
+deux sortes d’aliments.
+
+Arrêter de créer la recette ?
+
+{09:35 00 00 00}Arrêter  {09:36 00 00 00}Continuer
+
+[06807.30208]
+Créer une nouvelle recette ?
+
+{09:35 00 00 00}Créer  {09:36 00 00 00}Annuler
+
+[06807.30264]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+{09:37 00 00 00}Détails
+{09:38 00 00 00}Menu
+
+[06807.30320]
+K.-O.
+
+[06807.30336]
+Lenteur
+
+[06807.30344]
+Gel
+
+[06807.30352]
+Paraly.
+
+[06807.30360]
+Faible
+
+[06807.30368]
+Poison
+
+[06807.30376]
+INT+
+
+[06807.30384]
+PRÉ+
+
+[06807.30392]
+DÉF+
+
+[06807.30400]
+ATQ+
+
+[06807.30408]
+Régén. HP
+
+[06807.30424]
+Ténèbres
+
+[06807.30432]
+Lumière
+
+[06807.30440]
+Vent
+
+[06807.30448]
+Feu
+
+[06807.30456]
+Eau
+
+[06807.30464]
+Terre
+
+[06807.30472]
+Chaîne
+
+[06807.30488]
+Magie
+
+[06807.30504]
+Artes
+
+[06807.30512]
+Attaque
+
+[06807.30528]
+Bonus
+
+[06807.30536]
+Résist.
+
+[06807.30544]
+État
+
+[06807.30560]
+TP
+
+[06807.30568]
+HP
+
+[06807.30624]
+Énorme
+
+[06807.30632]
+Grand
+
+[06807.30640]
+Moyen
+
+[06807.30648]
+Petit
+
+[06807.30656]
+Soin
+
+[06807.30664]
+Dégâts
+
+[06807.30680]
+,
+
+[06807.30704]
++
+
+[06807.30720]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+
+[06807.30744]
+Tout le monde est repu.
+
+[06807.30840]
+{09:35 00 00 00}Choisir
+{09:36 00 00 00}Cuisiner
+{09:37 00 00 00}Détails
+{09:38 00 00 00}Annuler
+
+[06807.30952]
+La liste des recettes est pleine.
+Il faut d’abord en supprimer une.
+
+[06807.31024]
+Une recette demande d’avoir au moins
+deux sortes d’aliments.
+
+[06807.31088]
+{09:35 00 00 00}Enregistrer  {09:36 00 00 00}Ne pas enregistrer
+
+[06807.31120]
+Enregistré.
+
+[06807.31256]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+{09:37 00 00 00}Détails
+
+[06807.31352]
+Neuf
+

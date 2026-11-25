@@ -1,0 +1,288 @@
+[06716.001]
+Œuf de Dieu : niveau inférieur
+
+[06716.002]
+Œuf de Dieu : niveau inférieur
+
+[06716.004]
+Elraine !!
+
+[06716.005]
+Elraine
+
+[06716.006]
+Pourquoi êtes-vous venus ? Vous ne pouvez pas tuer la déesse...
+
+[06716.008]
+Ne nous sous-estime pas ! On est venus pour se battre, évidemment. De notre propre volonté !
+
+[06716.009]
+Elraine
+
+[06716.010]
+... Alors que vous savez ce qui en résultera ?
+
+[06716.012]
+Nous... y sommes prêts.
+
+[06716.014]
+Elraine... Nous portons la même mission, toi et moi : le salut des hommes...
+
+[06716.016]
+Mais les jours passés avec eux me l’ont appris : les hommes n’ont pas besoin de salut.
+
+[06716.018]
+Ils ont la force de croire à un bonheur lointain, et de surmonter la souffrance et le chagrin.
+
+[06716.019]
+Elraine
+
+[06716.020]
+Tu ne comprends rien...
+
+[06716.021]
+Elraine
+
+[06716.022]
+L’homme est un être fragile et éphémère. Il fait naître la souffrance de ses propres mains, et ne sait pas même l’éteindre.
+
+[06716.023]
+Elraine
+
+[06716.024]
+C’est bien pourquoi l’homme doit être gardé par la déesse, vivre par la déesse, et être sauvé par la déesse.
+
+[06716.026]
+Hah, sûrement pas !
+
+[06716.028]
+Ce qu’on veut, nous, ce n’est pas un bonheur en toc ! Même tout petit, on veut le vrai !
+
+[06716.030]
+Ce qui est le bonheur et ce qui ne l’est pas, c’est nous qui en décidons ! On n’a pas sonné la déesse !
+
+[06716.032]
+C’est vrai que vivre, c’est dur ! Mais c’est justement pour ça qu’on peut y trouver le bonheur !
+
+[06716.034]
+Le bonheur n’est pas une chose qu’on reçoit d’un autre ! Il n’a de prix que saisi de ses propres mains !
+
+[06716.035]
+Elraine
+
+[06716.036]
+Le salut de la déesse est le seul vrai salut. Que vous ne le compreniez pas...
+
+[06716.037]
+Elraine
+
+[06716.038]
+La déesse descendra bientôt... Oui, sous sa forme parfaite, elle apportera aux hommes le salut parfait...
+
+[06716.039]
+Elraine
+
+[06716.040]
+Si vous entendez y faire obstacle... je vous rendrai à la déesse, de ma propre main.
+
+[06716.041]
+Elraine
+
+[06716.042]
+C’est le seul salut que je puisse vous donner...
+
+[06716.044]
+Moi aussi, je pense comme eux tous. C’est pour ça que j’ai pu venir jusqu’ici... !
+
+[06716.046]
+Nous n’avons aucun besoin du salut d’une déesse !
+
+[06716.048]
+Je n’hésiterai plus ! De nos mains, nous abattrons la déesse, c’est sûr !
+
+[06716.049]
+Elraine
+
+[06716.050]
+Je... vou... lais... sauver... les hommes...
+
+[06716.051]
+Elraine
+
+[06716.052]
+Seul... le pou... voir... di... vin... le rend... possi... ble...
+
+[06716.053]
+Fortuna
+
+[06716.054]
+{NAME:02 00 00 00}, ma Sainte...
+
+[06716.056]
+Qu-qu’est-ce que c’est !?
+
+[06716.058]
+Fortuna !
+
+[06716.059]
+Fortuna
+
+[06716.060]
+La voie que suivait Elraine n’a pu, hélas, mener les hommes au bonheur absolu.
+
+[06716.061]
+Fortuna
+
+[06716.062]
+Allons, c’est ton tour, à présent. Montre-moi quelle réponse tu as rapportée.
+
+[06716.063]
+Fortuna
+
+[06716.064]
+Ce que je dois accomplir pour apporter aux hommes le vrai salut, le vrai bonheur...
+
+[06716.066]
+........
+................
+
+[06716.068]
+Fortuna... Il n’y a rien que tu doives accomplir.
+
+[06716.069]
+Fortuna
+
+[06716.070]
+Rien... ?
+
+[06716.072]
+Non... Parce que le vrai bonheur est ici.
+
+[06716.074]
+Tous les hommes portent le bonheur en eux.
+
+[06716.076]
+C’est le cœur qui cherche le bonheur jusque dans la souffrance.
+
+[06716.078]
+C’est le cœur qui continue de croire à un avenir heureux.
+
+[06716.080]
+C’est le cœur qui souhaite saisir le bonheur de ses propres mains.
+
+[06716.082]
+Une chose que même le pouvoir divin ne peut donner...
+
+[06716.083]
+Fortuna
+
+[06716.084]
+{NAME:02 00 00 00}... Sais-tu ce que signifient ces paroles ?
+
+[06716.085]
+Fortuna
+
+[06716.086]
+Tu nies ta propre existence.
+
+[06716.088]
+Non, ce n’est pas cela. Ma naissance avait un sens, c’est certain.
+
+[06716.090]
+C’est... d’avoir rencontré {NAME:01 00 00 00}.
+
+[06716.092]
+Avec {NAME:01 00 00 00}, j’ai douté, j’ai souffert, et... j’ai tenu le bonheur.
+
+[06716.094]
+Oui : c’est pour rencontrer {NAME:01 00 00 00} que je suis née...
+
+[06716.096]
+{NAME:02 00 00 00}...
+
+[06716.098]
+C’est bien pourquoi je peux le dire avec certitude.
+
+[06716.100]
+... Fortuna. Toi et moi, nous devons disparaître. De la main des hommes...
+
+[06716.101]
+Fortuna
+
+[06716.102]
+Quelle folie... !
+
+[06716.103]
+Fortuna
+
+[06716.104]
+Tu dis vouloir confier ce monde aux hommes !?
+
+[06716.105]
+Fortuna
+
+[06716.106]
+À cet être si petit, si éphémère, qu’on appelle l’homme, et qui n’a nul pouvoir de se rendre heureux... !
+
+[06716.108]
+C’est vrai, vus par toi, on n’est peut-être que des êtres minuscules.
+
+[06716.110]
+Mais nous pouvons marcher. Sans l’aide de personne, nous pouvons graver notre propre histoire.
+
+[06716.112]
+Alors...
+
+[06716.114]
+On n’a plus besoin de déesse !
+
+[06716.116]
+C’est...
+
+[06716.118]
+Oui : la Lentille qui est le noyau de Fortuna, la déesse. Et...
+
+[06716.120]
+Ce que tu dois briser.
+
+[06716.122]
+........
+................
+
+[06716.123]
+Bon voyage.
+
+[06716.124]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06716.125]
+Voulez-vous passer la nuit ?
+
+[06716.127]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06716.128]
+Reposez-vous bien.
+
+[06716.129]
+Bonjour.
+
+[06716.130]
+Vous n’avez pas assez d’argent.
+
+[06716.131]
+Au plaisir de vous revoir.
+
+[06716.136]
+Obtenu : {16:27 26}.
+
+[06716.138]
+Obtenu : {08:FF FF FF FF}.
+
+[06716.140]
+Trouvé : {16:27 2E}, mais vous n’avez plus de place.
+
+[06716.142]
+Il n’y a rien ici.
+

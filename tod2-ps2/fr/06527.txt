@@ -1,0 +1,52 @@
+[06527.001]
+Dragon volant
+
+[06527.002]
+Dragon volant
+
+[06527.004]
+Le téléporteur ne fonctionne plus du tout. Il semble cassé.
+
+[06527.005]
+Bon voyage.
+
+[06527.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06527.007]
+Voulez-vous passer la nuit ?
+
+[06527.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06527.010]
+Reposez-vous bien.
+
+[06527.011]
+Bonjour.
+
+[06527.012]
+Vous n’avez pas assez d’argent.
+
+[06527.013]
+Au plaisir de vous revoir.
+
+[06527.018]
+Obtenu : {16:25 BE}.
+
+[06527.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06527.022]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06527.024]
+Il n’y a rien ici.
+
+[06527.025]
+Temps écoulé
+
+[06527.027]
+Dispositif de contrôle détruit.
+

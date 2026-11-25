@@ -1,0 +1,266 @@
+[06718.001]
+Œuf de Dieu : niveau inférieur
+
+[06718.002]
+Œuf de Dieu : niveau inférieur
+
+[06718.004]
+{NAME:01 00 00 00}...
+
+[06718.006]
+{NAME:01 00 00 00}...
+
+[06718.008]
+{NAME:01 00 00 00}
+
+[06718.010]
+... {NAME:01 00 00 00}.
+
+[06718.012]
+...... ... M-moi......
+
+[06718.014]
+Q-qu’est-ce que... !?
+
+[06718.016]
+La distorsion de l’espace-temps s’aggrave... C’est l’histoire qui se répare.
+
+[06718.018]
+...... ? Qu’est-ce que ça veut dire !?
+
+[06718.020]
+La déesse ayant disparu, toutes les interventions sur le cours du temps sont en train d’être effacées.
+
+[06718.022]
+La descente de la déesse, qu’Elraine avait accomplie, comme le meurtre des héros, que Barbatos avait comploté.
+
+[06718.024]
+... Et tout ce que nous avons fait jusqu’ici : rien de tout cela n’aura eu lieu.
+
+[06718.026]
+Et bien sûr, nos souvenirs s’effacent du même coup. On oubliera ce voyage, et on s’oubliera les uns les autres.
+
+[06718.028]
+Autrement dit... nous ne nous serons jamais rencontrés, nous.
+
+[06718.030]
+Tout reprend la forme qui devait être la sienne, c’est ça...
+
+[06718.032]
+Malgré ça...
+
+[06718.034]
+Malgré ça, les liens ne disparaissent pas.
+
+[06718.036]
+Ce lien noué en voyageant avec vous tous, il ne peut pas disparaître, jamais. ... Moi, j’y crois !
+
+[06718.038]
+Ce n’est guère scientifique...
+
+[06718.040]
+Mais ce genre de chose, ce n’est peut-être pas si mal.
+
+[06718.042]
+Après tout, donner forme à ce que ressentent les gens, c’est peut-être ça, la force de la science...
+
+[06718.044]
+Ah ! J’ai comme l’impression que ça ferait un nouveau sujet de recherche !
+
+[06718.046]
+Oh là là, c’est moi la première, on dirait.
+
+[06718.048]
+{NAME:06 00 00 00}... !
+
+[06718.050]
+Merci. De m’avoir fait vivre une expérience aussi intéressante.
+
+[06718.052]
+Rien que de savoir qu’il y a des gens comme vous dans le futur, j’ai eu de la chance, vraiment.
+
+[06718.054]
+Allez, salut... !
+
+[06718.056]
+La suivante, c’est moi, on dirait.
+
+[06718.058]
+{NAME:05 00 00 00}... !
+
+[06718.060]
+Ne fais pas cette tête-là. Les petits de l’orphelinat vont se moquer de toi. Tu es leur grand frère, non ?
+
+[06718.062]
+Fais de ton mieux pour être un modèle pour eux tous. Comme quelqu’un que je connais.
+
+[06718.064]
+Hé, {NAME:05 00 00 00}. Tu parles de...
+
+[06718.066]
+On vit à la même époque, nous. Alors je crois qu’on se retrouvera un jour, quelque part.
+
+[06718.068]
+Alors je ne dis pas adieu.
+
+[06718.070]
+... On se reverra ! C’est promis... !
+
+[06718.072]
+H-hé, {NAME:05 00 00 00} !
+
+[06718.074]
+Elle est partie...
+
+[06718.076]
+Nous y voilà... donc.
+
+[06718.078]
+{NAME:04 00 00 00}... Toi, tu retournes où... ?
+
+[06718.080]
+Je l’ignore... L’homme appelé {NAME:04 00 00 00} n’existe, à l’origine, en aucun lieu ni à aucune époque.
+
+[06718.082]
+Errer au-delà de l’espace et du temps, ou disparaître en tant que Leon Magnus...
+
+[06718.084]
+Non... ! Et ça te va, {NAME:04 00 00 00} !?
+
+[06718.086]
+J’y étais prêt depuis le jour où j’ai décidé de vivre sous le nom de {NAME:04 00 00 00}.
+
+[06718.088]
+Et puis... je vous ai rencontrés.
+
+[06718.090]
+Pour un homme déjà mort une fois, c’est un bonheur trop grand.
+
+[06718.092]
+Et ce bonheur, je l’ai eu. Je n’ai aucun regret.
+
+[06718.094]
+{NAME:04 00 00 00}... !
+
+[06718.096]
+Je comptais vous aider, mais c’est peut-être l’inverse qui s’est produit... Merci, {NAME:01 00 00 00}, {NAME:03 00 00 00}.
+
+[06718.098]
+{NAME:04 00 00 00}...
+
+[06718.100]
+Adieu...
+
+[06718.102]
+Tiens, nous aussi...
+
+[06718.104]
+{NAME:03 00 00 00} !
+
+[06718.106]
+Bon, autant le dire avant de disparaître.
+
+[06718.108]
+Depuis la mort de Stahn, je me suis toujours imposé d’être le bouclier qui te protège.
+
+[06718.110]
+C’était ma fierté, c’était ma joie, et par moments, ça me pesait aussi.
+
+[06718.112]
+... Mais sans que je m’en rende compte, tu as cessé d’avoir besoin de moi comme bouclier.
+
+[06718.114]
+Depuis le jour où tu as trouvé quelqu’un à protéger, et où tu es devenu toi-même un bouclier...
+
+[06718.116]
+Mais moi, je n’ai pas su protéger {NAME:02 00 00 00}. Je n’ai pas pu être son bouclier... !
+
+[06718.118]
+Non...
+
+[06718.120]
+Tu l’as protégée, {NAME:02 00 00 00}. C’était le seul moyen de la sauver. Et...
+
+[06718.122]
+Toi seul pouvais le faire, {NAME:01 00 00 00}...
+
+[06718.124]
+........
+................
+
+[06718.126]
+... Tu t’es bien battu.
+
+[06718.128]
+Décidément, tu es quelqu’un. Mon pote, ma fierté.
+
+[06718.130]
+... Moi aussi. Toi, {NAME:03 00 00 00}... tu es mon meilleur ami, ma fierté !
+
+[06718.132]
+Merci.
+
+[06718.134]
+... Allez, à la prochaine, {NAME:01 00 00 00}.
+
+[06718.136]
+{NAME:03 00 00 00}, {NAME:04 00 00 00}, {NAME:05 00 00 00}, {NAME:06 00 00 00}...
+
+[06718.138]
+Merci, vous tous...
+
+[06718.140]
+L’avenir est ici...
+
+[06718.142]
+C’est d’ici qu’il commence...
+
+[06718.144]
+Chacun de nous bâtira l’avenir par ses propres forces...
+
+[06718.146]
+Ce qu’il sera, je n’en sais rien...
+
+[06718.148]
+Mais le lien qui nous unit... ne disparaîtra jamais... !
+
+[06718.150]
+Pas vrai... {NAME:02 00 00 00} ?
+
+[06718.151]
+Bon voyage.
+
+[06718.152]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06718.153]
+Voulez-vous passer la nuit ?
+
+[06718.155]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06718.156]
+Reposez-vous bien.
+
+[06718.157]
+Bonjour.
+
+[06718.158]
+Vous n’avez pas assez d’argent.
+
+[06718.159]
+Au plaisir de vous revoir.
+
+[06718.164]
+Obtenu : {16:27 46}.
+
+[06718.166]
+Obtenu : {08:FF FF FF FF}.
+
+[06718.168]
+Trouvé : {16:27 4E}, mais vous n’avez plus de place.
+
+[06718.170]
+Il n’y a rien ici.
+

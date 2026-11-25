@@ -1,0 +1,122 @@
+[06584.001]
+Dépôt de matériel
+
+[06584.002]
+Dépôt de matériel
+
+[06584.004]
+Sauter à l’étage du dessous ?
+
+[06584.006]
+Sauter
+Revenir
+
+[06584.008]
+Un conteneur verrouillé par trois puces : {08:36 00 00 00}, {08:37 00 00 00}, {08:38 00 00 00}.
+
+[06584.010]
+Avec {08:36 00 00 00}, {08:37 00 00 00} et {08:38 00 00 00}, vous obtenez : {08:35 00 00 00}.
+
+[06584.012]
+Voilà la Clé maîtresse. Avec ça, on fait sauter la plupart des verrous.
+
+[06584.014]
+La Clé maîtresse ne casse pas aux écarts de température : sortons un moment nous reposer.
+
+[06584.016]
+Une note est restée sur le mur.
+
+[06584.017]
+Note
+
+[06584.018]
+« ... Belcrant semble nous tenir à sa portée. Abandonner les matériaux pour nous mettre à l’abri est rageant, mais il le faut. Au cas où ce lieu et les matériaux survivraient, je laisse par écrit la manière de lever les verrous. »
+
+[06584.019]
+Note
+
+[06584.020]
+« Pour lever le verrou de bas niveau, il faut trois puces : {08:36 00 00 00}, {08:37 00 00 00}, {08:38 00 00 00}. Levez-le et prenez : {08:35 00 00 00}. »
+
+[06584.021]
+Note
+
+[06584.022]
+« Pour lever le verrou de haut niveau, il faut trois clés : {08:35 00 00 00}, {08:33 00 00 00}, {08:34 00 00 00}. Une fois les clés réunies, on peut ouvrir le conteneur au fond du dépôt. »
+
+[06584.023]
+Note
+
+[06584.024]
+« Par sécurité, j’ai fait en sorte qu’on ne puisse emporter ni puces ni clés : elles se désagrègent aux écarts de température. ... Je prie pour que les matériaux servent à finir la guerre. Le directeur »
+
+[06584.025]
+Temps écoulé
+
+[06584.027]
+Une clé pour lever le verrou de bas niveau. Il doit y en avoir deux autres pareilles.
+
+[06584.029]
+Ah, oui, au fait : ne sortez pas avec ça sur vous.
+
+[06584.031]
+Hein, pourquoi ?
+
+[06584.033]
+Ce truc craint les écarts de température. Dehors, dans le blizzard, il serait en miettes en un rien de temps.
+
+[06584.035]
+Une clé pour lever le verrou de bas niveau. Il doit y en avoir encore une pareille.
+
+[06584.037]
+Avec ces trois clés, on aura la Clé maîtresse. Elle doit être quelque part : cherchons.
+
+[06584.039]
+Voilà une clé du verrou de haut niveau.
+
+[06584.041]
+« Clé maîtresse », « Clé Cell », « Clé Bio » : en utilisant ces trois clés sur le conteneur de matériaux, on lève le verrou.
+
+[06584.043]
+Mais la « Clé Cell » et la « Clé Bio » craignent les écarts de température : interdiction de sortir. Dans un blizzard pareil, elles seraient en miettes d’un seul coup !
+
+[06584.044]
+Rien de particulier.
+
+[06584.045]
+Bon voyage.
+
+[06584.046]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06584.047]
+Voulez-vous passer la nuit ?
+
+[06584.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06584.050]
+Reposez-vous bien.
+
+[06584.051]
+Bonjour.
+
+[06584.052]
+Vous n’avez pas assez d’argent.
+
+[06584.053]
+Au plaisir de vous revoir.
+
+[06584.058]
+Obtenu : {16:25 F6}.
+
+[06584.060]
+Obtenu : {08:FF FF FF FF}.
+
+[06584.062]
+Trouvé : {16:25 FE}, mais vous n’avez plus de place.
+
+[06584.064]
+Il n’y a rien ici.
+

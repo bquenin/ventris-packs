@@ -1,0 +1,30 @@
+[00882.001]
+Allez, tout le monde. Le repas est prêt !
+
+[00882.002]
+Oh ! Cette assiette est plus remplie, non ?
+
+[00882.003]
+Ah ! Celle-là, c’est pour {NAME:01 00 00 00}...
+
+[00882.004]
+Mmh. Favoriser quelqu’un, ce n’est pas bien... Donc, moi, je...
+
+[00882.005]
+Oh ! Rends-la !!
+
+[00882.006]
+{NAME:02 00 00 00}... elle n’a pas peur ? Alors qu’elle risque de disparaître...
+
+[00882.007]
+... Elle essaie de vivre l’instant à fond, cette petite. Je le sais : Lou était pareil.
+
+[00882.008]
+........
+
+[00882.009]
+Toi, au lieu de broyer du noir, soutiens-la comme il faut, {NAME:02 00 00 00}. Tu es un garçon, non ?
+
+[00882.010]
+Mais moi... avec quelle tête...
+

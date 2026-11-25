@@ -1,0 +1,39 @@
+[06332.001]
+Ruines de Laguna
+
+[06332.002]
+Ruines de Laguna
+
+[06332.004]
+Incroyable... C’est incroyable, {NAME:03 00 00 00} ! Une Lentille aussi grosse, je n’en avais jamais vu de ma vie.
+
+[06332.006]
+Moi non plus, {NAME:01 00 00 00}. C’est pas un rêve, dis...
+
+[06332.008]
+Ça sert à rien de rester plantés là. Le problème, c’est comment rapporter ce machin...
+
+[06332.010]
+Ou-ouah... !!
+
+[06332.012]
+Qu’est-ce qu’il y a, {NAME:03 00 00 00} ?
+
+[06332.014]
+L-là, à l’instant, y avait quelque chose dans la Lentille !
+
+[06332.016]
+Dans la Lentille ? C’est pas juste un effet de lumière ?
+
+[06332.018]
+Fais gaffe, {NAME:01 00 00 00} ! Y a peut-être un piège !
+
+[06332.020]
+Haha, mais non, ça va, regarde.
+
+[06332.022]
+Ouaah !! Qu-qu’est-ce que... !?
+
+[06332.024]
+Attention ! Baisse-toi, {NAME:01 00 00 00} !
+

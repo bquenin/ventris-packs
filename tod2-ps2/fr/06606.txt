@@ -1,0 +1,43 @@
+[06606.001]
+Dycroft
+
+[06606.002]
+Dycroft
+
+[06606.003]
+Bon voyage.
+
+[06606.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06606.005]
+Voulez-vous passer la nuit ?
+
+[06606.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06606.008]
+Reposez-vous bien.
+
+[06606.009]
+Bonjour.
+
+[06606.010]
+Vous n’avez pas assez d’argent.
+
+[06606.011]
+Au plaisir de vous revoir.
+
+[06606.016]
+Obtenu : {16:25 BA}.
+
+[06606.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06606.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06606.022]
+Il n’y a rien ici.
+

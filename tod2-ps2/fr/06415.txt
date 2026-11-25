@@ -1,0 +1,314 @@
+[06415.001]
+Neustadt : auberge
+
+[06415.002]
+Neustadt
+
+[06415.003]
+Auberge
+
+[06415.005]
+Il y a un piano, mais pas de pianiste.
+
+[06415.007]
+Un prospectus. « Pour tout arc, adressez-vous à Chelsea Torn. Si vous passez au nord-ouest de Heidelberg, ne manquez pas de venir. »
+
+[06415.008]
+Extra
+
+[06415.009]
+Quand ma mère travaillait à la grande demeure, on ne la payait pas comme il faut, elle dit~.
+
+[06415.010]
+Dès qu’elle parle de ce temps-là, ma mère finit toujours par pleurer, et c’est toute une histoire~.
+
+[06415.012]
+C-c’est censé être une histoire triste, et pourtant, ça sonne drô~lement gai...
+
+[06415.013]
+Ouf~ ! J’ai enfin fini le ménage~ !
+
+[06415.015]
+Tu fais le ménage toute seule ? C’est pas facile pour toi non plus, la miss.
+
+[06415.016]
+Oh non~, pas du tout. Ce n’est pas comme au temps de ma mère : on me paie comme il faut~.
+
+[06415.017]
+Mais~ si on augmentait mon salaire à l’heure, ça me ferait plaisir~.
+
+[06415.019]
+Elle est franche avec elle-même, la miss...
+
+[06415.020]
+Quand ma mère travaillait à la grande demeure, on ne la payait pas comme il faut, elle dit~.
+
+[06415.021]
+Alors moi, aujourd’hui, je suis heureuse~. On me paie : même si le travail est dur, je n’ai pas à me plaindre~.
+
+[06415.022]
+Quadra Mach
+
+[06415.023]
+Dans une course, ce qui compte avant tout, c’est la trajectoire.
+
+[06415.024]
+Quadra Mach
+
+[06415.025]
+Si tu n’arrives vraiment pas à gagner, revois ta trajectoire.
+
+[06415.026]
+Quadra Mach
+
+[06415.027]
+Vous êtes venus faire la course ? Je vous préviens : le champion actuel est rapide.
+
+[06415.028]
+Quadra Mach
+
+[06415.029]
+Hé hé ! C’est qu’il est le fils du premier champion : moi !
+
+[06415.030]
+Quadra Mach
+
+[06415.031]
+Mon rêve, c’est de voir une course entre mon fils et le fils de Stahn le héros, le seul qui m’ait battu.
+
+[06415.033]
+Oh, dans ce cas, il est devant vous. Lui, c’est le fils de Stahn.
+
+[06415.034]
+Quadra Mach
+
+[06415.035]
+Quoi, c’est vrai !? Alors défie donc mon fils, je t’en prie !
+
+[06415.036]
+Auberge
+
+[06415.037]
+Barman
+
+[06415.038]
+Dans ce cas... que diriez-vous de la « Liqueur Aïe Love You » ?
+
+[06415.040]
+On dirait un nom de poison...
+
+[06415.041]
+Barman
+
+[06415.042]
+Bonsoir, bienvenue. Qu’est-ce que ce sera ?
+
+[06415.043]
+Barman
+
+[06415.044]
+... Ah, un enfant. Désolé, je n’ai que de l’alcool, ici.
+
+[06415.046]
+Moi, je peux boire. C’est quoi, le cocktail qui me va ?
+
+[06415.047]
+Barman
+
+[06415.048]
+Pour vous... je verrais bien le « Triple Buster du cœur brisé qui noie son chagrin ».
+
+[06415.050]
+Tu ne bois pas ? C’est tout toi, {NAME:03 00 00 00}.
+
+[06415.052]
+La ferme ! Bon sang de bon sang !
+
+[06415.053]
+Sakuraba
+
+[06415.054]
+Tu veux écouter ?
+
+[06415.056]
+{03:00 00 00 00}　Plus tard　
+　Oui　
+
+[06415.058]
+Sakuraba joue du piano.
+　
+　
+　　　　{09:36 00 00 00} : arrêter la musique
+
+[06415.059]
+Sakuraba
+
+[06415.060]
+Je joue mieux quand j’ai bu, moi...
+
+[06415.061]
+-Factice-
+
+[06415.062]
+Café glacé
+
+[06415.063]
+Bière
+
+[06415.064]
+Gâteau
+
+[06415.065]
+Lait
+
+[06415.066]
+Vin blanc
+
+[06415.067]
+Café
+
+[06415.068]
+Vin rouge
+
+[06415.069]
+Gâteau au fromage
+
+[06415.070]
+Lait chaud
+
+[06415.071]
+Comme d’habitude
+
+[06415.072]
+Fiole de vie
+
+[06415.073]
+Barman
+
+[06415.074]
+serveur
+
+[06415.075]
+serveuse
+
+[06415.076]
+Dis-moi, toi : un petit travail de {18:45 08}, ça te tente ?
+
+[06415.078]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06415.079]
+Faut-il t’expliquer ?
+
+[06415.081]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06415.082]
+Je veux que tu ailles prendre les commandes des clients.
+
+[06415.083]
+Chaque commande en moins de {0B:01 00 00 00}{06:0A 00 00 00}{0B:00 00 00 00} secondes, et vite.
+
+[06415.084]
+Allez... les clients commencent à arriver.
+
+[06415.094]
+Merci. Grâce à toi, j’ai gagné gros.
+
+[06415.095]
+Voici ta part, prends-la.
+
+[06415.097]
+{0B:01 00 00 00}Obtenu : {14:34 80} Gald.{0B:00 00 00 00}
+
+[06415.098]
+Je compte encore sur toi.
+
+[06415.099]
+Tu disais que tu doublerais la recette, je t’ai fait confiance, et voilà le résultat !
+
+[06415.100]
+{05:80 01 00 00}Dehors !
+
+[06415.101]
+H-hé ! Toi !?
+
+[06415.102]
+{03:00 00 00 00}{0B:01 00 00 00}Paie : {12:35 38}{14:34 84}{04:07 00 00 00} Gald
+
+[06415.104]
+{03:00 00 00 00}{0B:01 00 00 00}Paie : {12:35 38}{14:34 84}{04:07 00 00 00} Gald
+
+[06415.106]
+S’il vous plaîît !
+
+[06415.107]
+La commande de cette table, c’était quoi ?
+
+[06415.109]
+{03:00 00 00 00}Annulez la sélection pour
+finir de transmettre.
+
+[06415.114]
+{03:00 00 00 00}Suite
+{18:44 8C 81 35 60 CA C6}
+{18:44 8C 82 35 60 CA C6}
+{18:44 8C 83 35 60 CA C6}
+
+[06415.116]
+{18:44 8C 35 64 C6}. Et avec ça ?
+
+[06415.117]
+On t’appelle, dépêche-toi !
+
+[06415.119]
+Ça vient ?
+
+[06415.121]
+Oui ?
+
+[06415.123]
+Un de plus, alors.
+
+[06415.126]
+{15:34 7C} obtient le titre « {16:A0 7B 08 34 7C CA 81 CB} ».
+
+[06415.127]
+Bon voyage.
+
+[06415.128]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06415.129]
+Voulez-vous passer la nuit ?
+
+[06415.131]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06415.132]
+Reposez-vous bien.
+
+[06415.133]
+Bonjour.
+
+[06415.134]
+Vous n’avez pas assez d’argent.
+
+[06415.135]
+Au plaisir de vous revoir.
+
+[06415.140]
+Obtenu : {16:26 C2}.
+
+[06415.142]
+Obtenu : {08:FF FF FF FF}.
+
+[06415.144]
+Trouvé : {16:26 CA}, mais vous n’avez plus de place.
+
+[06415.146]
+Il n’y a rien ici.
+

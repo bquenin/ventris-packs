@@ -1,0 +1,154 @@
+[06323.001]
+Ruines de Laguna
+
+[06323.002]
+Ruines de Laguna
+
+[06323.003]
+Ruines de Laguna
+
+[06323.004]
+Ruines de Laguna
+
+[06323.006]
+Tu disais qu’une équipe d’enquête venait, mais je ne vois personne.
+
+[06323.008]
+On dirait qu’on est arrivés avant eux... et à peine dit, les voilà. {NAME:01 00 00 00}, cache-toi !
+
+[06323.009]
+Capitaine
+
+[06323.010]
+C’est ici ? Les ruines où se trouverait la Lentille géante ?
+
+[06323.011]
+Équipier
+
+[06323.012]
+Oui, capitaine ! J’ai bel et bien vu la Lentille dans ces ruines, il y a quelque temps !
+
+[06323.013]
+Équipier
+
+[06323.014]
+On pense que ces ruines sont une cité de l’époque où furent fabriquées les Lentilles.
+
+[06323.015]
+Capitaine
+
+[06323.016]
+Et donc il n’y aurait rien d’étonnant à y trouver une Lentille, c’est cela ? ... J’en doute.
+
+[06323.017]
+Équipier
+
+[06323.018]
+Quand vous la verrez de vos yeux, vous y croirez. La Lentille est à l’intérieur.
+
+[06323.019]
+Équipier
+
+[06323.020]
+Hé, la Lunette du sorcier.
+
+[06323.022]
+On fait quoi... Si on ne se dépêche pas, ils vont prendre la Lentille !
+
+[06323.024]
+N’empêche, entrer dans les ruines par-devant, c’est risqué. On tomberait nez à nez avec eux.
+
+[06323.026]
+Et la galerie sur le côté, là-bas ?
+
+[06323.028]
+Mm... Ça devrait passer. {NAME:01 00 00 00}, on se dépêche !
+
+[06323.030]
+Tiens, c’est où, ici... ?
+
+[06323.032]
+Les ruines de Laguna.
+
+[06323.034]
+Des ruines qu’on appelait jadis une cité aérienne, mais tout a été fouillé ou presque, et leur valeur archéologique est nulle, à ce qu’on dit.
+
+[06323.036]
+........
+................
+
+[06323.038]
+Qu’est-ce qu’il y a ? Quelque chose t’intrigue ?
+
+[06323.040]
+Non, ce n’est pas ça. Mais ici, j’ai comme une impression étrange.
+
+[06323.042]
+Une impression étrange ?
+
+[06323.044]
+Je n’arrive pas à l’expliquer. Comme si quelqu’un m’appelait. Quelqu’un que je devrais bien connaître, en plus...
+
+[06323.046]
+Hé, tu me fiches la trouille. Une femme morte pleine de rancune... ce genre de truc, très peu pour moi.
+
+[06323.048]
+Si ça te travaille tant que ça, vas-y voir. Je t’attends ici.
+
+[06323.050]
+Oui, j’y vais. Pardon, {NAME:03 00 00 00}.
+
+[06323.052]
+J’ai l’impression qu’ils sont entrés par ici... ? Ce serait ennuyeux qu’ils nous voient : nous, entrons par la galerie de côté.
+
+[06323.054]
+C’est l’entrée, ici ? Mais je ne sais pas comment ouvrir. Revenons quand on aura trouvé un outil.
+
+[06323.055]
+Bon voyage.
+
+[06323.056]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06323.057]
+Voulez-vous passer la nuit ?
+
+[06323.059]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06323.060]
+Reposez-vous bien.
+
+[06323.061]
+Bonjour.
+
+[06323.062]
+Vous n’avez pas assez d’argent.
+
+[06323.063]
+Au plaisir de vous revoir.
+
+[06323.068]
+Obtenu : {16:26 16}.
+
+[06323.070]
+Obtenu : {08:FF FF FF FF}.
+
+[06323.072]
+Trouvé : {16:26 1E}, mais vous n’avez plus de place.
+
+[06323.074]
+Il n’y a rien ici.
+
+[06323.075]
+Obtenu : {16:36 44} x{0B:01 00 00 00}{14:36 40}{0B:00 00 00 00}.
+
+[06323.077]
+Trouvé : {16:36 44} x{0B:01 00 00 00}{14:36 48}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06323.079]
+{16:36 44} x{0B:01 00 00 00}{14:36 48} : vous ne pouvez pas tout porter.
+・En prendre {14:36 40}, en jeter {14:36 4C}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+

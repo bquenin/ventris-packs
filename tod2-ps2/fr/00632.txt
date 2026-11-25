@@ -1,0 +1,18 @@
+[00632.001]
+Dis, {NAME:06 00 00 00}. L’avenir, ça ne t’intrigue pas ?
+
+[00632.002]
+Pourquoi ? Si je connaissais l’avenir, j’aurais moins de plaisir, voyons.
+
+[00632.003]
+Ben, peut-être bien. Mais tu ne te dis pas que connaître l’avenir, « ça faciliterait les combats à venir », par exemple ?
+
+[00632.004]
+T’es bête, toi★ Résoudre un problème dont on connaît la réponse, ça n’a rien d’amusant.
+
+[00632.005]
+A... amusant ou pas, c’est donc ça, ton critère...
+
+[00632.006]
+Voilà ! Et si je vous suis, c’est que ça a l’air amusant. Rencontrer des gens du futur, c’est si rare♪
+

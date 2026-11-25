@@ -1,0 +1,362 @@
+[06740.001]
+Orphelinat Dunamis
+
+[06740.002]
+Orphelinat Dunamis
+
+[06740.003]
+Orphelinat Dunamis
+
+[06740.005]
+{05:80 01 00 00}Aïeeeuuuh~ !!
+
+[06740.006]
+Basil
+
+[06740.007]
+Ouaiiis ! Gagné, gagné, encore gagné !
+
+[06740.008]
+Cinnamon
+
+[06740.009]
+Mais qu’est-ce que tu fabriques, à la fin ! Si {NAME:01 00 00 00} se fait battre à ce moment-là, ça ne rime à rien !
+
+[06740.010]
+Cinnamon
+
+[06740.011]
+Tu es le fils de Stahn le héros, non ? Fais un petit effort, quoi ! Vraiment...
+
+[06740.013]
+Haha, pardon, pardon. J’ai du mal à faire aussi bien que papa.
+
+[06740.014]
+Cinnamon
+
+[06740.015]
+N’empêche, jouer à faire semblant tous les jours, c’est pas drôle~. Et {NAME:01 00 00 00} qui est comme ça...
+
+[06740.016]
+Cinnamon
+
+[06740.017]
+... J’ai trouvé ! Aujourd’hui, on part pour une vraie aventure !
+
+[06740.018]
+Uni
+
+[06740.019]
+Ah, bonne idée ! Je suis pour~ !
+
+[06740.020]
+Basil
+
+[06740.021]
+M-mais hors de la ville, il y a des monstres !? Rien que nous, c’est dangereux...
+
+[06740.022]
+Cinnamon
+
+[06740.023]
+T’inquiète ! Si des monstres arrivent, on n’a qu’à se sauver.
+
+[06740.024]
+Cinnamon
+
+[06740.025]
+Et puis, au pire, {NAME:01 00 00 00} nous protégera ! Hein, pas vrai ?
+
+[06740.027]
+Oui ! Comptez sur {NAME:01 00 00 00} Dunamis, le futur grand héros !
+
+[06740.029]
+Bon, on sort de la ville, et à l’aventure ! Que personne ne s’éloigne de moi ! Compris !
+
+[06740.031]
+Tah ! Hah ! Deyah !!
+
+[06740.032]
+Stahn
+
+[06740.033]
+Eh bien, {NAME:01 00 00 00} ! La pointe de ton épée descend de plus en plus ! Déjà à bout !?
+
+[06740.035]
+Bon sang, pas encore !
+
+[06740.037]
+Deyaaaaah !!
+
+[06740.038]
+Stahn
+
+[06740.039]
+Qu-quoiii !?
+
+[06740.040]
+Stahn
+
+[06740.041]
+... !
+
+[06740.043]
+Hah, hah... J-j’ai réussi... !
+
+[06740.044]
+Stahn
+
+[06740.045]
+H-hé ! Ça va, {NAME:01 00 00 00} !?
+
+[06740.047]
+Hé hé... C’est ma première victoire, hein, papa ?
+
+[06740.048]
+Stahn
+
+[06740.049]
+Oui, c’est vrai. Tu m’as eu, je me rends.
+
+[06740.050]
+Stahn
+
+[06740.051]
+Te voilà encore un pas plus près de devenir un héros, toi aussi.
+
+[06740.053]
+Non, ce n’est pas ça.
+
+[06740.055]
+Un héros, on ne cherche pas à le devenir, et ce n’est pas parce qu’on le veut qu’on le devient.
+
+[06740.057]
+Pas vrai, papa ?
+
+[06740.058]
+Stahn
+
+[06740.059]
+Tiens...
+
+[06740.061]
+Oh, tu ne chômes pas, {NAME:01 00 00 00} !
+
+[06740.063]
+Ah, {NAME:03 00 00 00} !
+
+[06740.065]
+Tiens, du pain de la boutique. Des invendus, remarque.
+
+[06740.067]
+Merci, ça nous aide toujours beaucoup...
+
+[06740.068]
+Voix d’enfant
+
+[06740.069]
+Ouaiiis !
+
+[06740.070]
+Cinnamon
+
+[06740.071]
+Ouaiiis !
+
+[06740.072]
+Basil
+
+[06740.073]
+Du pain, du pain !
+
+[06740.074]
+Rim
+
+[06740.075]
+J’ai faim !
+
+[06740.076]
+Blue
+
+[06740.077]
+À table ! À table !
+
+[06740.078]
+Salt
+
+[06740.079]
+À manger, ouaiiis !
+
+[06740.080]
+Jan
+
+[06740.081]
+J’ai trop faim !
+
+[06740.082]
+Mina
+
+[06740.083]
+Du bon pain !
+
+[06740.084]
+Tonia
+
+[06740.085]
+Merci, {NAME:03 00 00 00} !
+
+[06740.086]
+Salt
+
+[06740.087]
+Ouaiiis ! Ouaiiis !
+
+[06740.089]
+D-dites, j’ai l’impression qu’il y en a beaucoup plus qu’avant...
+
+[06740.090]
+Stahn
+
+[06740.091]
+Ha ha ha ha ha ! Autant qu’il en viendra, on les prend tous !
+
+[06740.093]
+... Mmh, décidément, je trouve que papa et maman sont des héros.
+
+[06740.094]
+Stahn
+
+[06740.095]
+Évidemment ! Allez, dépêche-toi, ou tu n’auras plus rien à manger !
+
+[06740.097]
+Oui !
+
+[06740.098]
+Stahn
+
+[06740.099]
+{NAME:03 00 00 00}, à ton prochain jour de congé, viens passer un moment tranquille chez nous.
+
+[06740.101]
+O-oui ! Allez, à plus, {NAME:01 00 00 00} !
+
+[06740.103]
+Merci, {NAME:03 00 00 00} ! À plus !
+
+[06740.105]
+Papa, maman, et vous tous... j’y vais !
+
+[06740.107]
+Hé, tu en as mis, du temps !
+
+[06740.109]
+{NAME:03 00 00 00} !? Mais pourquoi...
+
+[06740.111]
+Vraiment, partir en voyage tout seul sans rien me dire, à moi, ton meilleur ami : tu es sans cœur, toi.
+
+[06740.113]
+P-pardon. Mais comment...
+
+[06740.115]
+Tout ce que tu fais, je le vois venir. C’est comme ça depuis que tu es tout gamin, non ?
+
+[06740.117]
+N’empêche, je n’aurais jamais cru que tu me devancerais.
+
+[06740.119]
+Hein ?
+
+[06740.121]
+Ça veut dire que tu n’es pas le seul à admirer Stahn et Rutee.
+
+[06740.123]
+Allez, on y va, mon vieux !
+
+[06740.125]
+... C’est vrai. Sans {NAME:03 00 00 00}, rien ne peut commencer !
+
+[06740.127]
+Oh, tu as enfin compris ! Ha ha ha !
+
+[06740.129]
+Allez, on y va. Vers un monde inconnu, qu’on n’a encore jamais vu !
+
+[06740.131]
+... Oui !
+
+[06740.133]
+« Pendant ton voyage, cherche ce qui est irremplaçable pour toi » : c’est ce que papa m’a dit...
+
+[06740.135]
+Ce que c’est, je ne le sais pas encore...
+
+[06740.137]
+Mais je le trouverai, c’est sûr ! Du moment que je suis avec {NAME:03 00 00 00} !
+
+[06740.138]
+Bon voyage.
+
+[06740.139]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06740.140]
+Voulez-vous passer la nuit ?
+
+[06740.142]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06740.143]
+Reposez-vous bien.
+
+[06740.144]
+Bonjour.
+
+[06740.145]
+Vous n’avez pas assez d’argent.
+
+[06740.146]
+Au plaisir de vous revoir.
+
+[06740.151]
+Obtenu : {16:26 7A}.
+
+[06740.153]
+Obtenu : {08:FF FF FF FF}.
+
+[06740.155]
+Trouvé : {16:26 82}, mais vous n’avez plus de place.
+
+[06740.157]
+Il n’y a rien ici.
+
+[06740.158]
+Orphelinat Dunamis
+
+[06740.160]
+Jouer sur le toboggan ?
+
+[06740.162]
+{03:00 00 00 00}　Jouer　
+　Ne pas jouer　
+
+[06740.164]
+Et hop !
+
+[06740.166]
+Comme {NAME:01 00 00 00} tire au flanc, il n’y a pas une seule bûche dans la réserve...
+
+[06740.168]
+Ça en fait, du linge. Jour après jour, maman n’a pas la vie facile...
+
+[06740.170]
+Le linge des orphelins sèche ici. Rutee l’étend toute seule, semble-t-il.
+
+[06740.172]
+Le parterre de l’orphelinat. De jolies fleurs y sont écloses.
+
+[06740.174]
+Un panneau. « Orphelinat Dunamis. Directeurs : Stahn Aileron et Rutee Katrea »
+

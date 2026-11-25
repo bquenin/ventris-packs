@@ -1,0 +1,15 @@
+[00720.001]
+Nous voilà séparés de {NAME:06 00 00 00} pour un moment...... Enfin, je vais pouvoir dormir tranquille.
+
+[00720.002]
+Quelle froideur. En vrai, elle va te manquer.
+
+[00720.003]
+Toi, tu as les nerfs épais, tu ne vois rien. L’autre jour, je me réveille : elle affûtait un scalpel en fredonnant ! À me demander « quand m’ouvre-t-elle le ventre », j’ai trop peur pour dormir.
+
+[00720.004]
+Moi aussi ! Depuis sa potion, plus moyen de me lever le matin... !!
+
+[00720.005]
+{NAME:01 00 00 00}, ça, pas la potion !
+

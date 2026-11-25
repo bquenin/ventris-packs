@@ -1,0 +1,121 @@
+[06368.001]
+Aigrette : bazar
+
+[06368.002]
+Aigrette
+
+[06368.003]
+Bazar
+
+[06368.004]
+Bazar
+
+[06368.005]
+Bienvenue.
+
+[06368.006]
+Merci beaucoup.
+
+[06368.007]
+Revenez nous voir.
+
+[06368.008]
+Bazar
+
+[06368.009]
+Bazar
+
+[06368.010]
+Bienvenue. Ici, nous vendons des articles de bazar.
+
+[06368.011]
+Richard
+
+[06368.012]
+L’Ordre d’Atamoni fait toujours tant pour moi que j’aimerais lui offrir autre chose que des Lentilles.
+
+[06368.013]
+Richard
+
+[06368.014]
+Mais les articles d’ici sont trop bon marché... N’y a-t-il rien de plus distingué, de plus luxueux ?
+
+[06368.015]
+Richard
+
+[06368.016]
+Holà, patron. N’auriez-vous pas un gros joyau, ou autre, digne de « la Sainte radieuse » ?
+
+[06368.017]
+Richard
+
+[06368.018]
+J’ai voulu offrir des parures de prix à l’Ordre d’Atamoni, mais on m’a répondu qu’il ne leur fallait que des Lentilles.
+
+[06368.019]
+Richard
+
+[06368.020]
+Se contenter des Lentilles, source du pouvoir de dame Elraine : voilà des gens bien désintéressés, non ?
+
+[06368.021]
+Richard
+
+[06368.022]
+Dans ce cas, il me faudra offrir à peu près trois fois plus de Lentilles que d’habitude.
+
+[06368.023]
+Richard
+
+[06368.024]
+Mmh~. N’avez-vous pas de parures plus magnifiques, qui iraient avec ma demeure ?
+
+[06368.025]
+Richard
+
+[06368.026]
+On dit qu’il y a un forgeron habile à Heidelberg. Je pourrais lui commander quelque chose.
+
+[06368.027]
+Richard
+
+[06368.028]
+Un ours décoratif aux couleurs voluptueuses, lisse et doux au toucher, ferait aussi l’affaire...
+
+[06368.029]
+Bon voyage.
+
+[06368.030]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06368.031]
+Voulez-vous passer la nuit ?
+
+[06368.033]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06368.034]
+Reposez-vous bien.
+
+[06368.035]
+Bonjour.
+
+[06368.036]
+Vous n’avez pas assez d’argent.
+
+[06368.037]
+Au plaisir de vous revoir.
+
+[06368.042]
+Obtenu : {16:25 BA}.
+
+[06368.044]
+Obtenu : {08:FF FF FF FF}.
+
+[06368.046]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06368.048]
+Il n’y a rien ici.
+

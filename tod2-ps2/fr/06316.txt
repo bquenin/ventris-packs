@@ -1,0 +1,85 @@
+[06316.001]
+Orphelinat Dunamis : chambre de Rutee
+
+[06316.002]
+Orphelinat Dunamis
+
+[06316.003]
+Chambre de Rutee
+
+[06316.004]
+Rim
+
+[06316.005]
+Grand frère {NAME:01 00 00 00} et les autres salissent tellement leurs habits que la lessive, c’est toute une affaire !
+
+[06316.006]
+Rim
+
+[06316.007]
+... Maman Rutee ? Elle étend les couettes de tout le monde sur le balcon. Moi, j’aide à la lessive.
+
+[06316.008]
+Rim
+
+[06316.009]
+Le reste du temps, je dois être sur le balcon.
+
+[06316.010]
+Rutee
+
+[06316.011]
+L’aventure, c’est encore bien trop tôt pour toi !
+
+[06316.013]
+Vous avez fait tomber le linge.
+
+[06316.015]
+Obtenu : {08:0C 00 00 00}.
+
+[06316.017]
+Il y a là toutes sortes de petites affaires.
+
+[06316.019]
+Il y a une lettre à l’intérieur.
+
+[06316.021]
+« ... Ici, l’auberge marche bien et chaque jour est un plaisir. Si tu passes un jour par Heidelberg, viens me voir. Mary »
+
+[06316.022]
+Bon voyage.
+
+[06316.023]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06316.024]
+Voulez-vous passer la nuit ?
+
+[06316.026]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06316.027]
+Reposez-vous bien.
+
+[06316.028]
+Bonjour.
+
+[06316.029]
+Vous n’avez pas assez d’argent.
+
+[06316.030]
+Au plaisir de vous revoir.
+
+[06316.035]
+Obtenu : {16:25 BA}.
+
+[06316.037]
+Obtenu : {08:FF FF FF FF}.
+
+[06316.039]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06316.041]
+Il n’y a rien ici.
+

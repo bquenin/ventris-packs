@@ -1,0 +1,166 @@
+[06365.001]
+Aigrette : auberge
+
+[06365.002]
+Aigrette
+
+[06365.003]
+Vieil homme
+
+[06365.004]
+J’ai longtemps souffert du dos, vois-tu. Ah ça, il me lançait à tout bout de champ.
+
+[06365.005]
+Vieil homme
+
+[06365.006]
+Mais le miracle de dame Elraine m’a délivré de mon mal. J’en suis bien reconnaissant, va.
+
+[06365.007]
+Vieil homme
+
+[06365.008]
+Depuis qu’elle m’a guéri le dos, j’offre des Lentilles à l’Ordre, en signe de gratitude.
+
+[06365.009]
+Vieil homme
+
+[06365.010]
+La vie en devient plus dure, mais bah, c’est aussi la preuve de ma foi, vois-tu.
+
+[06365.011]
+Vieil homme
+
+[06365.012]
+Voilà bien dix ans que j’offre chaque mois des Lentilles à l’Ordre.
+
+[06365.013]
+Vieil homme
+
+[06365.014]
+Les clercs ont la bonté de me dire de ne pas me forcer à en offrir, mais j’en aurais des scrupules, vois-tu.
+
+[06365.016]
+Et c’est ainsi que les Lentilles ont fini concentrées en un seul point, je vois.
+
+[06365.017]
+Vieil homme
+
+[06365.018]
+Offrir des Lentilles, c’est la preuve de ma foi !
+
+[06365.019]
+Vieil homme
+
+[06365.020]
+Aïe aïe aïe... Mon vieux mal de dos...
+
+[06365.022]
+Ça va, grand-père ?
+
+[06365.023]
+Vieil homme
+
+[06365.024]
+Mais quand mon dos me fait souffrir, dame Philia vient me rendre visite. C’est ma joie, vois-tu...
+
+[06365.025]
+Vieil homme
+
+[06365.026]
+Dame Philia vient me voir de temps en temps, quand mon dos me fait souffrir. C’est elle, la vraie déesse.
+
+[06365.027]
+Dame
+
+[06365.028]
+Je m’en vais de ce pas au grand temple offrir des Lentilles.
+
+[06365.029]
+Dame
+
+[06365.030]
+Moi qui n’ai plus de famille, l’Ordre est tout pour moi. Je compte lui consacrer le reste de ma vie.
+
+[06365.031]
+Dame
+
+[06365.032]
+Moi qui n’ai plus de famille, l’Ordre est tout pour moi. Je compte lui consacrer le reste de ma vie.
+
+[06365.033]
+Dame
+
+[06365.034]
+J’ai perdu mon pays dans les troubles d’il y a dix-huit ans, et je suis venue dans cette ville.
+
+[06365.035]
+Dame
+
+[06365.036]
+Moi qui n’avais nulle part où aller, les gens du temple de Straylize m’ont accueillie de bon cœur.
+
+[06365.037]
+Dame
+
+[06365.038]
+Ici, la déesse Atamoni veille toujours sur nous. La vie est dure, mais je suis heureuse.
+
+[06365.040]
+Tiens ? Une gelée est tombée dans l’eau chaude.
+
+[06365.042]
+Obtenu : {08:03 00 00 00}.
+
+[06365.044]
+Elle a fondu en bouillie... Bah, elle reste mangeable, à la rigueur...
+
+[06365.046]
+Tremper dans le bain tout habillé, quel délice...
+
+[06365.048]
+Un canapé qui a l’air bien confortable.
+
+[06365.049]
+Ça, c’est un hôtel de luxe ! Quelles toilettes impeccables !
+
+[06365.051]
+Si j’emportais le papier toilette de l’étagère, est-ce qu’on me gronderait...
+
+[06365.053]
+Bon voyage.
+
+[06365.054]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06365.055]
+Voulez-vous passer la nuit ?
+
+[06365.057]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06365.058]
+Reposez-vous bien.
+
+[06365.059]
+Bonjour.
+
+[06365.060]
+Vous n’avez pas assez d’argent.
+
+[06365.061]
+Au plaisir de vous revoir.
+
+[06365.066]
+Obtenu : {16:25 BA}.
+
+[06365.068]
+Obtenu : {08:FF FF FF FF}.
+
+[06365.070]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06365.072]
+Il n’y a rien ici.
+

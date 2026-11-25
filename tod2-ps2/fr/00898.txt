@@ -1,0 +1,21 @@
+[00898.001]
+Je te remercie... {NAME:02 00 00 00}.
+
+[00898.002]
+Hein !?
+
+[00898.003]
+Il a enfin retrouvé son regard à lui.
+
+[00898.004]
+... Hi hi. Tu es gentil, {NAME:04 00 00 00}.
+
+[00898.005]
+N-ne te méprends pas ! Je ne pensais qu’au moral de toute l’équipe, moi... !
+
+[00898.006]
+Merci... de t’être inquiété pour {NAME:01 00 00 00}.
+
+[00898.007]
+Hmf. Crois ce qui te plaît.
+

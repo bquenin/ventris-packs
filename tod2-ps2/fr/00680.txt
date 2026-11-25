@@ -1,0 +1,3 @@
+[00680.001]
+{NAME:01 00 00 00}, on ne flâne pas. Vite, la salle de contrôle. Dymlos encerclé, ce serait trop tard !
+

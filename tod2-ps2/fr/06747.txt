@@ -1,0 +1,61 @@
+[06747.001]
+Aigrette : bazar
+
+[06747.002]
+Aigrette
+
+[06747.003]
+Bazar
+
+[06747.004]
+Objets
+
+[06747.005]
+Bienvenue ! Ici, c’est la boutique de ceux qui n’ont pas droit à la distribution.
+
+[06747.006]
+À vrai dire, j’ai beau gagner de l’argent, ici, je n’ai rien à en faire.
+
+[06747.007]
+Vous êtes de ceux qui n’ont pas droit à la distribution ?
+
+[06747.008]
+Objets
+
+[06747.009]
+Bon voyage.
+
+[06747.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06747.011]
+Voulez-vous passer la nuit ?
+
+[06747.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06747.014]
+Reposez-vous bien.
+
+[06747.015]
+Bonjour.
+
+[06747.016]
+Vous n’avez pas assez d’argent.
+
+[06747.017]
+Au plaisir de vous revoir.
+
+[06747.022]
+Obtenu : {16:25 BA}.
+
+[06747.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06747.026]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06747.028]
+Il n’y a rien ici.
+

@@ -1,0 +1,148 @@
+[06546.001]
+Speranza, la Cité écarlate
+
+[06546.002]
+Speranza, la Cité écarlate
+
+[06546.003]
+Habitant
+
+[06546.004]
+Dame Elraine doit être aussi belle que vous, sûrement. Non, plus belle encore.
+
+[06546.005]
+Habitant
+
+[06546.006]
+... Incroyable ! C’est la première fois que j’en vois !
+
+[06546.008]
+Q-quoi, qu’est-ce qu’il y a ?
+
+[06546.009]
+Habitant
+
+[06546.010]
+Des gens du dehors... et des jeunes filles aussi jolies, en plus : c’est la première fois que j’en vois !
+
+[06546.011]
+Jeune homme
+
+[06546.012]
+Hiii ! Pourquoi vous me courez après !?
+
+[06546.014]
+Et vous, pourquoi vous vous sauvez !
+
+[06546.015]
+Jeune homme
+
+[06546.016]
+C’est que, euh... vous qui venez du monde extérieur, vous devez être couverts de microbes...
+
+[06546.017]
+Jeune homme
+
+[06546.018]
+Ou-ouah !! N-ne venez pas par ici, s’il vous plaît !!
+
+[06546.020]
+C’est quoi, ça ?
+
+[06546.022]
+Il y a un bouton... J’appuie, pour voir.
+
+[06546.024]
+Ouah ! Qu-qu’est-ce que c’est !?
+
+[06546.026]
+Une carte du monde, semble-t-il.
+
+[06546.028]
+Mais ceci...
+
+[06546.030]
+C’est pareil... Les montagnes, les fleuves, tout est au même endroit que dans ce qu’on connaît !
+
+[06546.032]
+Plus de doute, à présent. Ce monde est bien le même que celui d’où nous venons.
+
+[06546.034]
+Mais dis, les villes ne sont pas les mêmes ? Ni Cresta, ni Aigrette, ni Heidelberg.
+
+[06546.036]
+Ni les emplacements ni les noms. Voilà qui pourrait nous mettre sur la piste de l’altération de l’histoire...
+
+[06546.038]
+... Hm ?
+
+[06546.040]
+... Est-ce possible ? Rien n’aurait changé depuis la guerre du Ciel et de la Terre !?
+
+[06546.042]
+{NAME:04 00 00 00}, qu’est-ce qu’il y a ?
+
+[06546.044]
+Ah, non...
+
+[06546.046]
+Vangelo comme Speranza seraient des noms de villes qui existaient avant la guerre du Ciel et de la Terre.
+
+[06546.048]
+Normalement, après la fin de la guerre du Ciel et de la Terre, les villes anéanties ont été relevées, et leurs noms et leurs emplacements ont changé à cette occasion.
+
+[06546.050]
+Mais dans ce monde, cela n’a pas eu lieu... L’histoire a été tordue.
+
+[06546.052]
+Je vois...
+
+[06546.054]
+Dites, cette ville, elle ne serait pas au même endroit que Heidelberg ?
+
+[06546.056]
+Voyons voir... Un endroit appelé Realta. Et là, on est à Speranza, donc... on devrait pouvoir y aller.
+
+[06546.058]
+À en juger par la carte, la ville paraît grande. Là-bas, nous en apprendrons peut-être davantage.
+
+[06546.060]
+Bon, allons-y ! À Heidelberg... non, pardon, à Realta !
+
+[06546.061]
+Bon voyage.
+
+[06546.062]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06546.063]
+Voulez-vous passer la nuit ?
+
+[06546.065]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06546.066]
+Reposez-vous bien.
+
+[06546.067]
+Bonjour.
+
+[06546.068]
+Vous n’avez pas assez d’argent.
+
+[06546.069]
+Au plaisir de vous revoir.
+
+[06546.074]
+Obtenu : {16:25 BA}.
+
+[06546.076]
+Obtenu : {08:FF FF FF FF}.
+
+[06546.078]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06546.080]
+Il n’y a rien ici.
+

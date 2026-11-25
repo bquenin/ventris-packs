@@ -1,0 +1,3 @@
+[00264.001]
+Seul, je m’ennuie : et si j’allais voir {NAME:02 00 00 00} ? Mmh, mais où elle est passée...
+

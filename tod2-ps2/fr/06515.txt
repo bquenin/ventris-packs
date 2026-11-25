@@ -1,0 +1,283 @@
+[06515.001]
+Calviola, la Terre sainte
+
+[06515.002]
+Calviola, la Terre sainte
+
+[06515.012]
+Incroyable, elle est aussi grosse que celle qu’on a vue aux ruines de Laguna !
+
+[06515.014]
+Alors, avec ça, on devrait y arriver ?
+
+[06515.016]
+Oui. Mais avant tout...
+
+[06515.018]
+... Tu es là, n’est-ce pas ? Réponds-moi, Fortuna.
+
+[06515.019]
+Fortuna
+
+[06515.020]
+... Tu as bien fait de venir, ma Sainte...
+
+[06515.022]
+Qu-qu’est-ce que c’est que ça !?
+
+[06515.024]
+{NAME:02 00 00 00}, tu as bien dit Fortuna, non !?
+
+[06515.026]
+Alors, c’est...
+
+[06515.028]
+Fortuna... Une déesse qui existe bel et bien...
+
+[06515.030]
+Elle est... vraie... Une vraie déesse... !
+
+[06515.031]
+Fortuna
+
+[06515.032]
+Je sais pourquoi tu es venue ici. Par mon pouvoir, j’exaucerai ton vœu.
+
+[06515.033]
+Fortuna
+
+[06515.034]
+Mais auparavant, il est une chose que je dois te demander.
+
+[06515.036]
+... Oui.
+
+[06515.037]
+Fortuna
+
+[06515.038]
+Elraine a déjà discerné ce qu’elle doit accomplir.
+
+[06515.039]
+Fortuna
+
+[06515.040]
+Elle agit dans ce but, et elle a gagné la confiance de bien des gens.
+
+[06515.042]
+... C’est peut-être vrai. Mais... !
+
+[06515.043]
+Fortuna
+
+[06515.044]
+Je le sais. Tu suis une autre voie que celle d’Elraine.
+
+[06515.045]
+Fortuna
+
+[06515.046]
+Deux Saintes, deux voies... Tel est le destin que je vous ai donné, à Elraine et à toi.
+
+[06515.047]
+Fortuna
+
+[06515.048]
+Mais si les voies diffèrent, le vœu doit être le même. {NAME:02 00 00 00}, n’oublie jamais notre but.
+
+[06515.050]
+... Oui.
+
+[06515.052]
+A-attends, {NAME:02 00 00 00} !
+
+[06515.054]
+Deux Saintes, guider les gens... Mais de quoi vous parlez, à la fin !?
+
+[06515.056]
+C’est que...
+
+[06515.057]
+Fortuna
+
+[06515.058]
+Les deux Saintes sont mes représentantes : elles guident les hommes vers le salut.
+
+[06515.060]
+Les représentantes... d’une déesse !?
+
+[06515.061]
+Fortuna
+
+[06515.062]
+C’est l’aspiration des hommes au salut qui m’a fait naître, moi, ainsi que les deux Saintes.
+
+[06515.063]
+Fortuna
+
+[06515.064]
+L’une est Elraine. Et l’autre, {NAME:02 00 00 00}, que voici.
+
+[06515.065]
+Fortuna
+
+[06515.066]
+Elles ont pris des voies différentes, et chacune est partie en quête de la forme que doit prendre le salut des hommes.
+
+[06515.068]
+Alors, alors, dis ! Ce qu’Elraine essaie de faire... c’est de sauver les gens !?
+
+[06515.070]
+Non... C’est faux !
+
+[06515.072]
+Enfin, elle a fait attaquer Woodrow par Barbatos, elle a volé les Lentilles !
+
+[06515.073]
+Fortuna
+
+[06515.074]
+Elraine a dû juger qu’au bout du compte, cela mènerait au salut des hommes.
+
+[06515.076]
+Mais c’est... mal ! La preuve, Woodrow a bel et bien été blessé !
+
+[06515.077]
+Fortuna
+
+[06515.078]
+Mal ? ... Pourquoi penses-tu cela ?
+
+[06515.079]
+Fortuna
+
+[06515.080]
+Vous avez vu Aigrette, n’est-ce pas ? Les gens y vivent heureux, dans une ville sûre et confortable.
+
+[06515.082]
+C’est sûr, quand on ne connaît rien d’autre, même ça, c’est peut-être le bonheur.
+
+[06515.084]
+Mais dis... arracher les enfants à leurs parents, c’est ça, le bonheur ?
+
+[06515.086]
+Ils n’ont même plus le sentiment de vivre : c’est vraiment le bonheur, ça ?
+
+[06515.088]
+C’est vrai ! Oui, c’est mal ! Elraine et Fortuna, elles déraillent toutes les deux !
+
+[06515.090]
+Toi aussi, tu le penses, {NAME:02 00 00 00}, non !? Dis-le-lui ! Que ça, ce n’est pas du tout le bonheur !
+
+[06515.092]
+Qu’est-ce qui te prend, {NAME:02 00 00 00} ! Pourquoi tu ne dis rien !
+
+[06515.094]
+Moi aussi...
+
+[06515.096]
+Hein ?
+
+[06515.098]
+Moi aussi, je pense qu’Elraine a tort.
+
+[06515.100]
+Mais Elraine a du pouvoir ! Il y a des gens qui se sentent heureux grâce à elle !
+
+[06515.102]
+... Alors que moi, je n’ai aucun pouvoir ! Je n’ai même pas de héros !
+
+[06515.104]
+Je n’ai rendu personne heureux, et je ne sais même pas comment on rend les gens heureux...
+
+[06515.106]
+Mais non... ce n’est pas vrai ! Toi, {NAME:02 00 00 00}, tu as un pouvoir incroyable... !
+
+[06515.108]
+Arrête ! Tu ne comprends rien, alors ne parle pas à la légère !
+
+[06515.110]
+Je ne comprends rien... Moi, je... !
+
+[06515.112]
+Toi, tu ne comprends rien ! Ni le poids d’une mission à porter, ni ce qu’est un vrai pouvoir !
+
+[06515.114]
+C’est pas vrai !
+
+[06515.116]
+Tu ne comprends pas !
+
+[06515.118]
+Parce que toi, {NAME:01 00 00 00}, tu n’es ni une Sainte...
+
+[06515.120]
+... ni un héros !
+
+[06515.122]
+... !?
+
+[06515.124]
+... Fortuna. Envoie-nous dix ans en arrière.
+
+[06515.125]
+Fortuna
+
+[06515.126]
+Soit. Va, ma Sainte.
+
+[06515.127]
+Fortuna
+
+[06515.128]
+Que la fortune te sourie... Quand tout sera fini, nous nous reverrons, {NAME:02 00 00 00}.
+
+[06515.130]
+{NAME:02 00 00 00} obtient le titre « {08:1C 08 00 00} ».
+
+[06515.132]
+La Lentille a disparu...
+
+[06515.134]
+Ça en a tout l’air, hein. Elraine doit être là-dedans.
+
+[06515.136]
+Bon, allons-y !
+
+[06515.137]
+Bon voyage.
+
+[06515.138]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06515.139]
+Voulez-vous passer la nuit ?
+
+[06515.141]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06515.142]
+Reposez-vous bien.
+
+[06515.143]
+Bonjour.
+
+[06515.144]
+Vous n’avez pas assez d’argent.
+
+[06515.145]
+Au plaisir de vous revoir.
+
+[06515.150]
+Obtenu : {16:27 CE}.
+
+[06515.152]
+Obtenu : {08:FF FF FF FF}.
+
+[06515.154]
+Trouvé : {16:27 D6}, mais vous n’avez plus de place.
+
+[06515.156]
+Il n’y a rien ici.
+

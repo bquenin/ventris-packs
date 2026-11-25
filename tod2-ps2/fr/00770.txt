@@ -1,0 +1,12 @@
+[00770.001]
+Allez, vite, retour à la « Base de l’armée terrestre ». Tous doivent guetter la nouvelle.
+
+[00770.002]
+Hé hé. Ils vont être contents, tous♪
+
+[00770.003]
+Ensuite viendra sans doute la bataille finale, à « Dycroft ». Pas le moment de t’emballer, {NAME:01 00 00 00}.
+
+[00770.004]
+Je sais ! On reprendra notre histoire !
+

@@ -1,0 +1,18 @@
+[00360.001]
+Oh, {NAME:01 00 00 00} ! Mon petit {NAME:01 00 00 00} adoré !!
+
+[00360.002]
+Arrête ! Ne te colle pas à moi ! C’est dégoûtant.
+
+[00360.003]
+Allooons. Toi aussi, tu mourais d’envie de me voir~.
+
+[00360.004]
+Pas du tout.
+
+[00360.005]
+Quoooi ! Quel sans-cœur... {NAME:04 00 00 00}, lui, criait ton nom toutes les nuits en dormant.
+
+[00360.006]
+Mensonges !
+

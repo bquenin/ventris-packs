@@ -1,0 +1,6 @@
+[00380.001]
+Pourvu que {NAME:03 00 00 00} et {NAME:04 00 00 00} soient sains et saufs...
+
+[00380.002]
+Eux ? Aucun souci. {NAME:04 00 00 00} est doué, et {NAME:03 00 00 00} a dit : « Pas question de mourir sans belle épouse ».
+

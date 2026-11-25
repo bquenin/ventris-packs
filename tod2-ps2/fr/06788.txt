@@ -1,0 +1,142 @@
+[06788.001]
+Parc du Souvenir de Heidelberg
+
+[06788.002]
+Parc du Souvenir de Heidelberg
+
+[06788.004]
+Ouah... c’est incroyable ! Regarde ! La montagne, la forêt, tout est blanc de neige ! Quel paysage !
+
+[06788.006]
+C’est vraiment beau...
+
+[06788.008]
+... Mais je ne sais pas, à le regarder, je me sens inquiète...
+
+[06788.010]
+Inquiète... ?
+
+[06788.012]
+Une plaine de neige à perte de vue, sans un repère, sans rien...
+
+[06788.014]
+On ne sait pas où aller. Ça... ça ne t’inquiète pas ?
+
+[06788.016]
+Tu crois ? Moi, rien qu’à regarder, ça m’emballe.
+
+[06788.018]
+Parce que, une plaine de neige à perte de vue, ça veut dire qu’on ne sait pas où elle mène, non ?
+
+[06788.020]
+Là, rien qu’à regarder, j’ai le cœur qui bat : qu’est-ce qui nous attend au bout de cette plaine ?
+
+[06788.022]
+{NAME:01 00 00 00}...
+
+[06788.024]
+Mais dis, il n’y a que nous pour penser des choses pareilles.
+
+[06788.026]
+Si on disait aux gens de Heidelberg : « Ça ne vous emballe pas, de regarder la neige ? »...
+
+[06788.028]
+On nous tendrait une pelle en disant : « Déblaie donc, au lieu de causer ! » À coup sûr !
+
+[06788.030]
+... C’est admirable.
+
+[06788.032]
+Oui, les gens d’ici sont vraiment admirables. Même dans un endroit couvert de neige, ils ne se découragent jamais...
+
+[06788.034]
+Non, ce n’est pas ça. ... Celui que je trouve admirable, c’est toi.
+
+[06788.036]
+M-moi ?
+
+[06788.038]
+Toi et moi, {NAME:01 00 00 00}, nous regardions le même paysage. Mais nous avons pensé tout le contraire.
+
+[06788.040]
+Moi, parce qu’il n’y avait rien, j’étais inquiète. Ne pas voir devant moi me laissait perdue.
+
+[06788.042]
+Mais... toi, non. Tu te réjouissais de ce qui attend au bout.
+
+[06788.044]
+Savoir penser ainsi, toujours tourné vers l’avant, je t’envie...
+
+[06788.046]
+T-tu crois... Moi, je ne suis pas fin comme toi, {NAME:02 00 00 00} : je crois que je suis juste bête.
+
+[06788.048]
+D’ailleurs, {NAME:04 00 00 00} et {NAME:03 00 00 00} me disent tout le temps « réfléchis un peu » ou « idiot »... ahaha...
+
+[06788.050]
+Mais {NAME:04 00 00 00} et {NAME:03 00 00 00} aiment sûrement ce côté-là de toi, {NAME:01 00 00 00}.
+
+[06788.052]
+Droit, toujours tourné vers l’avant, celui qui redonne du cœur à tout le monde... C’est ce {NAME:01 00 00 00}-là qu’ils aiment.
+
+[06788.054]
+T-tu crois ?
+
+[06788.056]
+J’en suis certaine. Moi, je le sais. Parce que...
+
+[06788.058]
+Parce que moi aussi, c’est pareil...
+
+[06788.060]
+Hein ? ... {NAME:02 00 00 00}, tu veux dire...
+
+[06788.062]
+...... ... Si tu étais...
+
+[06788.064]
+Si tu étais le héros que je cherche, comme ce serait bien...
+
+[06788.066]
+{NAME:02 00 00 00}...
+
+[06788.068]
+........
+
+[06788.069]
+Bon voyage.
+
+[06788.070]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06788.071]
+Voulez-vous passer la nuit ?
+
+[06788.073]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06788.074]
+Reposez-vous bien.
+
+[06788.075]
+Bonjour.
+
+[06788.076]
+Vous n’avez pas assez d’argent.
+
+[06788.077]
+Au plaisir de vous revoir.
+
+[06788.082]
+Obtenu : {16:26 5A}.
+
+[06788.084]
+Obtenu : {08:FF FF FF FF}.
+
+[06788.086]
+Trouvé : {16:26 62}, mais vous n’avez plus de place.
+
+[06788.088]
+Il n’y a rien ici.
+

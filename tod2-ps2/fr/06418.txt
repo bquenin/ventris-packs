@@ -1,0 +1,860 @@
+[06418.001]
+Neustadt : arène
+
+[06418.002]
+Neustadt
+
+[06418.003]
+Combat solo
+
+[06418.004]
+Combat en duo
+
+[06418.005]
+débutant
+
+[06418.006]
+intermédiaire
+
+[06418.007]
+avancé
+
+[06418.008]
+Mania
+
+[06418.009]
+premier tour
+
+[06418.010]
+deuxième tour
+
+[06418.011]
+finale
+
+[06418.012]
+Animateur
+
+[06418.013]
+Arène, {18:44 70} {18:44 74} : {18:44 6C}, c’est parti !
+
+[06418.014]
+Animateur
+
+[06418.015]
+Nouveau choc avec Rimul, la championne !
+
+[06418.016]
+Animateur
+
+[06418.017]
+Arène, {18:44 70} {18:44 74} : félicitations pour votre victoire !
+
+[06418.018]
+Animateur
+
+[06418.019]
+Voici votre prime.
+
+[06418.020]
+Animateur
+
+[06418.021]
+Gagné : {0B:01 00 00 00}{14:34 78}{0B:00 00 00 00} Gald.
+
+[06418.022]
+Animateur
+
+[06418.023]
+Voici votre prime, et votre lot !
+
+[06418.024]
+Animateur
+
+[06418.025]
+Gagné : {0B:01 00 00 00}{14:34 78}{0B:00 00 00 00} Gald.
+
+[06418.026]
+Animateur
+
+[06418.027]
+Gagné : {16:24 80}.
+
+[06418.028]
+Animateur
+
+[06418.029]
+Arène, {18:44 70} {18:44 74} : hélas, élimination ({18:44 6C}).
+
+[06418.030]
+Animateur
+
+[06418.031]
+Arène, {18:44 70} {18:44 74} : défaite en finale, de si peu !
+
+[06418.032]
+Animateur
+
+[06418.033]
+Quelle force ! Une force écrasante ! Elle a terrassé un monstre féroce comme en se jouant !
+
+[06418.035]
+Oh, il y a de l’ambiance !
+
+[06418.037]
+Il y a quelqu’un de drôlement fort, on dirait. Quel genre de monstre ça peut être ?
+
+[06418.039]
+Tiens ? La personne, là...
+
+[06418.040]
+Gérant
+
+[06418.041]
+Mais enfin, où est-elle passée !? Elle ne veut pas de sa récompense !?
+
+[06418.042]
+Gérant
+
+[06418.043]
+Ah ! Dites, vous autres !? Rimul ne vient pas de passer par ici !?
+
+[06418.045]
+Rimul ? C’est qui ?
+
+[06418.046]
+Gérant
+
+[06418.047]
+Rimul, la combattante la plus forte de toutes, apparue comme une comète !
+
+[06418.048]
+Gérant
+
+[06418.049]
+Une femme redoutable : son épée expédie n’importe quel monstre en un instant, dit-on !
+
+[06418.051]
+Je vois... c’est elle !
+
+[06418.053]
+La fille de tout à l’heure ? Celle qu’on a croisée l’autre jour...
+
+[06418.054]
+Gérant
+
+[06418.055]
+Vous l’avez vue !? Dites, vous savez où elle est allée !?
+
+[06418.057]
+Elle vient de sortir. En la suivant, vous la rattraperez peut-être encore...
+
+[06418.058]
+Gérant
+
+[06418.059]
+Ah bon, merci !
+
+[06418.061]
+Elle est si forte que ça...
+
+[06418.063]
+Je te l’avais dit : ce n’est pas la première venue.
+
+[06418.065]
+Et si elle est dans l’arène, ce n’est sans doute ni pour la fortune ni pour la gloire : elle se met à l’épreuve.
+
+[06418.067]
+Alors elle s’en va sans même prendre la récompense. Ça, c’est la classe.
+
+[06418.068]
+Spectateur
+
+[06418.069]
+H-hiiiii~ !
+
+[06418.070]
+Spectateur
+
+[06418.071]
+Il va vers vous ! Sauvez-vous, vite !!
+
+[06418.073]
+Q-quoi !?
+
+[06418.075]
+Gueh !? Qu’est-ce qu’un monstre fait ici !!
+
+[06418.077]
+Il s’est échappé de la cage de l’arène, non ? Je ne vois que ça.
+
+[06418.079]
+... Il m’a regardé dans les yeux.
+
+[06418.081]
+Il arrive, tout le monde !
+
+[06418.083]
+Rimul !
+
+[06418.084]
+Rimul
+
+[06418.085]
+Laissez-moi faire !
+
+[06418.086]
+Rimul
+
+[06418.087]
+... Ha !
+
+[06418.088]
+Rimul
+
+[06418.089]
+...
+
+[06418.091]
+D-dites, que s’est-il passé !? C’était trop rapide, je n’ai pas bien vu...
+
+[06418.093]
+Elle l’a frappé d’un coup d’épée, simplement. À une vitesse prodigieuse.
+
+[06418.095]
+Je vois : une attaque qui change l’accélération en énergie et la projette sur l’adversaire. Ça doit faire mal, en effet.
+
+[06418.097]
+Et à cette vitesse, impossible d’esquiver. Un coup mortel, au sens propre.
+
+[06418.099]
+Incroyable...
+
+[06418.100]
+Animateur
+
+[06418.101]
+Et voici que devant le challenger, vainqueur sans faute jusqu’ici, se dresse le dernier mur !
+
+[06418.102]
+Animateur
+
+[06418.103]
+Un mur bien trop haut, bien trop grand !
+
+[06418.104]
+Animateur
+
+[06418.105]
+Mais sans franchir ce mur, pas de victoire possible !
+
+[06418.106]
+Animateur
+
+[06418.107]
+Ce mur qui se dresse, c’est la championne de cette arène !
+
+[06418.108]
+Animateur
+
+[06418.109]
+Celle qui parut un jour comme une comète, balaya tous ses adversaires en un clin d’œil et monta sur le trône !
+
+[06418.110]
+Animateur
+
+[06418.111]
+Les uns l’appellent la combattante suprême, les autres l’invincible !
+
+[06418.112]
+Animateur
+
+[06418.113]
+Son nom... Allez ! Tous ensemble !
+
+[06418.114]
+Animateur
+
+[06418.115]
+Allez ! Tous ensemble !
+
+[06418.116]
+Animateur
+
+[06418.117]
+Riiimuuul !!
+
+[06418.119]
+Rimul !?
+
+[06418.120]
+Rimul
+
+[06418.121]
+... {NAME:01 00 00 00}. Je l’attendais tant ! Cet instant !
+
+[06418.123]
+Tu l’attendais... Comment ça !?
+
+[06418.124]
+Rimul
+
+[06418.125]
+Si tu gagnes, je te le dirai...
+
+[06418.126]
+Rimul
+
+[06418.127]
+Allez, viens, {NAME:01 00 00 00} ! Tranchons la question maintenant ! De toi ou de moi, qui est le plus fort !!
+
+[06418.128]
+Animateur
+
+[06418.129]
+Combat d’arène : défaite contre Rimul, de si peu.
+
+[06418.130]
+Rimul
+
+[06418.131]
+J’ai perdu... ... C’était magnifique, {NAME:01 00 00 00}...
+
+[06418.132]
+Rimul
+
+[06418.133]
+On voit bien que tu as hérité du sang de Stahn le héros...
+
+[06418.135]
+Hein !? Comment tu sais ça...
+
+[06418.136]
+Rimul
+
+[06418.137]
+Je sais tout de toi, et de ton père aussi... Ma mère m’en a parlé.
+
+[06418.139]
+Ta mère...
+
+[06418.140]
+Rimul
+
+[06418.141]
+Ma mère, Lilith...
+
+[06418.143]
+Quoiii !? A-alors toi et moi, Rimul, on est...
+
+[06418.144]
+Rimul
+
+[06418.145]
+Oui, cousins... Pardon de n’avoir rien dit.
+
+[06418.147]
+Pourquoi tu n’as rien dit, tout ce temps ?
+
+[06418.148]
+Rimul
+
+[06418.149]
+Si je l’avais dit, tu aurais retenu tes coups, non ? Ce ne serait plus un vrai combat.
+
+[06418.150]
+Rimul
+
+[06418.151]
+Je voulais t’affronter quand tu donnes tout...
+
+[06418.153]
+Rimul...
+
+[06418.154]
+Rimul
+
+[06418.155]
+Mais j’ai perdu. Mon entraînement est encore loin de suffire.
+
+[06418.156]
+Rimul
+
+[06418.157]
+{NAME:01 00 00 00}... je pars en voyage ! Je vais partir comme toi, et devenir plus forte, tu verras.
+
+[06418.158]
+Rimul
+
+[06418.159]
+Ce jour-là... tu m’affronteras encore ?
+
+[06418.161]
+... Bien sûr !
+
+[06418.163]
+{NAME:01 00 00 00} obtient le titre « {08:6D 08 00 00} ».
+
+[06418.165]
+{15:24 B2} obtient le titre « {08:6B 08 00 00} ».
+
+[06418.167]
+{15:24 B2 34 00 C6} obtient le titre « {08:6C 08 00 00} ».
+
+[06418.168]
+Spectatrice
+
+[06418.169]
+Moi, les hommes faibles, ça ne m’intéresse pas~.
+
+[06418.170]
+Tu te débrouilles pas mal, toi. Enfin, côté niveau, il y a encore du chemin.
+
+[06418.171]
+Aahn★ Moi, les hommes forts, j’y résiste pas du tout~.
+
+[06418.172]
+En ce moment, je suis folle de dame Rimul~★
+
+[06418.173]
+Dame Rimul, quelle classe~ ! Ah, sublime, sublime, sublime★
+
+[06418.174]
+Dame Rimul était sublime aussi, mais... décidément, j’aime les hommes forts★ Et donc, {NAME:01 00 00 00}~★
+
+[06418.175]
+Spectateur
+
+[06418.176]
+N’y a-t-il pas un guerrier plus fort, de quoi me contenter ?
+
+[06418.177]
+Hmf ! Tu te défends un peu, on dirait, mais pour combien de temps...
+
+[06418.178]
+Champiooon~. Je ne manque jamais un de vos combats~.
+
+[06418.179]
+Personne ne voudrait nous battre cette Rimul ? La cote est si basse que ça n’a plus de sel.
+
+[06418.180]
+Prodigieux... La force de Rimul, c’est du vrai...
+
+[06418.181]
+Champiooon~. Moi, j’étais sûr que vous gagneriez, évidemment !
+
+[06418.182]
+Spectatrice
+
+[06418.183]
+Fwaah~. N’y a-t-il donc aucun guerrier comme Stahn, le champion de légende ?
+
+[06418.184]
+Ta façon de te battre rappelle un peu ce champion de légende, Stahn.
+
+[06418.185]
+Un nouveau champion de légende est né : {NAME:01 00 00 00} !
+
+[06418.186]
+Rimul, la mystérieuse combattante... Je pressens une nouvelle légende !
+
+[06418.187]
+Abattre ce monstre d’un seul coup... C’est donc bien Rimul, la nouvelle légende ?
+
+[06418.188]
+Vaincre même cette Rimul... C’est donc bien vous, les vrais champions de légende !
+
+[06418.189]
+Spectateur
+
+[06418.190]
+Moi ? Je ne suis pas un guerrier. Juste un mordu de déguisement.
+
+[06418.191]
+Ha ha ha. Vous aussi, vous êtes déguisé en guerrier ?
+
+[06418.192]
+Hein !? Vous vous battez pour de bon ? Je ne savais pas...
+
+[06418.193]
+Si c’était un concours de déguisement, moi aussi, je serais champion...
+
+[06418.194]
+Vous savez ? Une certaine Rimul, drôlement forte, est apparue ! La prochaine fois, je me déguise en Rimul, tiens...
+
+[06418.195]
+Quand le monstre s’est échappé, je me demandais comment ça finirait... Rimul, c’est vraiment quelqu’un !
+
+[06418.196]
+Mon déguisement de Rimul était enfin prêt, et voilà qu’elle perd...
+
+[06418.197]
+Spectateur
+
+[06418.198]
+Hé, jeune homme ! Reste pas planté là ! Tu gênes !
+
+[06418.199]
+A-aïe, je m’échauffe trop, ma tension...
+
+[06418.200]
+Bien joué ! Ça, c’est mon meilleur disciple ! J’en suis tout fier, moi !
+
+[06418.202]
+Papy, vous étiez mon maître... ?
+
+[06418.203]
+Ah ça, cette Rimul est prodigieuse ! Rien qu’à la voir se battre, je m’échauffe à en tomber raide !!
+
+[06418.204]
+Ah ça, quand le monstre s’est échappé, j’ai cru ma dernière heure venue !!
+
+[06418.205]
+Vaincre même cette Rimul ! Ça, c’est mon meilleur disciple ! J’en suis tout fier, moi !
+
+[06418.207]
+Papy, vous étiez mon maître... ?
+
+[06418.208]
+Spectateur
+
+[06418.209]
+Hé, pousse pas, toi. C’est ma place, ici !
+
+[06418.210]
+Tiens, ta tête, je l’ai déjà vue quelque part...
+
+[06418.211]
+Waah, c’est le champion, {NAME:01 00 00 00} Dunamis ! S-serrez-moi la main, s’il vous plaît !
+
+[06418.212]
+Elle est géniale, Rimul ! Elle me signerait un autographe, vous croyez ?
+
+[06418.213]
+L’épée de Rimul, je l’ai pas vue... ... Trop fooort !
+
+[06418.214]
+Génial, vous êtes génial, champion ! S-serrez-moi la main, s’il vous plaît !!
+
+[06418.215]
+Spectatrice
+
+[06418.216]
+Décidément, le spectacle du combat est superbe, sachez-le.
+
+[06418.217]
+Devant des combattants, je m’enflamme sans pouvoir me retenir ! Allez ! Là, là !
+
+[06418.218]
+Ça alors ! Mais c’est le grand {NAME:01 00 00 00} ! Serrez-moi la main, je vous prie !
+
+[06418.219]
+Cette petite Rimul... est prodigieuse, sachez-le ! Aucun autre guerrier ne m’enflamme à ce point !
+
+[06418.220]
+Quand le monstre s’est jeté sur moi, je me suis crue perdue !
+
+[06418.221]
+Rimul m’a sauvé la vie, sachez-le ! Aussi vais-je miser gros sur elle !
+
+[06418.222]
+Qu’avez-vous fait là, vous autres ! Tout ce que j’avais misé sur Rimul est parti en fumée !
+
+[06418.223]
+Spectateur
+
+[06418.224]
+Quoi, tu veux participer, toi aussi ? Renonce : tu ne ferais que te blesser.
+
+[06418.225]
+Ha ha ha. Tu es habillé tout comme {NAME:01 00 00 00}, dis donc. Tu es de ses admirateurs ?
+
+[06418.226]
+Moi, je le savais depuis le début : tu deviendrais champion, c’était sûr !
+
+[06418.227]
+Tout le monde trouve Rimul prodigieuse... mais à mes yeux, il lui reste du chemin.
+
+[06418.228]
+Je l’ai toujours dit : Rimul est la plus forte. Personne ne fait le poids !
+
+[06418.229]
+J’avais vu juste, décidément ! Les plus forts, c’est vous !
+
+[06418.230]
+Kongman
+
+[06418.231]
+Hé ! Me parle pas comme à un copain ! Tu sais à qui tu as affaire ?
+
+[06418.232]
+À l’ex-champion invincible devant qui même les mioches en pleurs détalent : au grand Mighty Kongman !!
+
+[06418.234]
+{03:00 00 00 00}　Je vous connais　
+　Connais pas　
+
+[06418.236]
+L’ex-champion ?
+
+[06418.238]
+Au fait, il me semble que maman m’en a parlé.
+
+[06418.240]
+Vous voyagiez avec papa et les autres, je crois...
+
+[06418.241]
+Hein ?
+
+[06418.242]
+Toi, tu serais pas le fils de Stahn !? Je me disais bien que ta tronche me revenait pas !
+
+[06418.243]
+Hein ? Tu me connais pas, moi !?
+
+[06418.244]
+M’adresser la parole sans me connaître, t’as du cran ! Reviens quand tu sauras à qui tu parles !
+
+[06418.245]
+Tomber ici sur le fils de Stahn, ça alors.
+
+[06418.246]
+Moi, je peux pas te sentir ! Nananère~ !
+
+[06418.247]
+Hé, fils de Stahn ! Inscris-toi au tournoi ! Tu verras ce qu’elle a de dur, cette arène !
+
+[06418.248]
+Tss ! Fais le malin tant que tu peux ! Mais un vainqueur, tu sais, il a toujours quelqu’un à ses trousses ! C’est dur !
+
+[06418.250]
+Dites, monsieur, pourquoi vous cherchez la bagarre comme ça ?
+
+[06418.251]
+La ferme ! Parce que t’es le fils de Stahn ! Moi, Stahn, je peux pas le sentir !
+
+[06418.252]
+Tss ! Fais le malin tant que tu peux ! Mais un vainqueur, tu sais, il a toujours quelqu’un à ses trousses ! C’est dur !
+
+[06418.253]
+Tss ! Fais le malin tant que tu peux ! Mais un champion, tu sais, il a toujours quelqu’un à ses trousses ! C’est trèèès dur !
+
+[06418.254]
+Tss ! Elle me revient pas, cette gamine de Rimul ! Avec ses airs détachés !
+
+[06418.255]
+Et en plus, elle prend pas la récompense !? Hé, elle croit que ça fait classe !
+
+[06418.256]
+De mon temps, toi et Rimul, je vous aurais pliés d’une main !
+
+[06418.257]
+Ce monstre échappé, c’était le plus minable des minables ! Et les autres qui l’acclament !
+
+[06418.258]
+Elle me revient pas ! Vraiment pas ! Cette gamine de Rimul !
+
+[06418.259]
+Hé ! Te monte pas la tête parce que t’as battu Rimul !
+
+[06418.260]
+De mon temps, tous autant qu’ils sont, je les aurais pliés d’une main !
+
+[06418.262]
+Comptez sur moi !
+
+[06418.263]
+Amenez-vous !
+
+[06418.264]
+Je vais vous montrer ma force !
+
+[06418.265]
+J’y vais !
+
+[06418.266]
+Laissez-moi faire.
+
+[06418.267]
+Le prochain, c’est le dernier ?
+
+[06418.268]
+Allez, c’est parti !
+
+[06418.269]
+Laissez-moi ça !
+
+[06418.270]
+Le prochain, je le règle !
+
+[06418.271]
+Pourquoi faut-il que moi...
+
+[06418.272]
+À contrecœur, mais...
+
+[06418.273]
+Il y en a encore ?
+
+[06418.274]
+Bon, on commence.
+
+[06418.275]
+Vous pouvez compter sur moi !
+
+[06418.276]
+On expédie ça vite fait.
+
+[06418.277]
+{NAME:06 00 00 00} le génie, en scène !
+
+[06418.278]
+Et mon rab, c’est pour quand~ ?
+
+[06418.279]
+Données suivantes, s’il vous plaît !
+
+[06418.280]
+Génial !
+
+[06418.281]
+Je suis fort, non ?
+
+[06418.282]
+{NAME:01 00 00 00} le héros, pour vous servir !
+
+[06418.283]
+Gagné, gagnééé !
+
+[06418.284]
+Pas question de perdre ! Voilà.
+
+[06418.285]
+Ne me mettez pas en colère.
+
+[06418.286]
+Et voilà le travail !
+
+[06418.287]
+Bien joué, moi !
+
+[06418.288]
+Doryaaah !
+
+[06418.289]
+Perte de temps.
+
+[06418.290]
+Sans intérêt.
+
+[06418.291]
+Eh bien...
+
+[06418.292]
+Pas bien costauds.
+
+[06418.293]
+Il n’y a pas plus fort ?
+
+[06418.294]
+C’est déjà fini ?
+
+[06418.295]
+Relevé de données terminé !
+
+[06418.296]
+Alors, la force d’un génie, ça vous parle ?
+
+[06418.297]
+Pardon. C’est que je suis un génie...
+
+[06418.298]
+Ça ne devait pas...
+
+[06418.299]
+Trop fort...
+
+[06418.300]
+J’y étais presque...
+
+[06418.301]
+Mon pouvoir ne suffit donc pas...
+
+[06418.302]
+Je n’en peux plus...
+
+[06418.303]
+Je vois les portes du paradis...
+
+[06418.304]
+Je vais y passer !
+
+[06418.305]
+Voilà donc ce que je vaux...
+
+[06418.306]
+Le destin est dur avec moi...
+
+[06418.307]
+Moi, battu par du menu fretin...
+
+[06418.308]
+Moi, perdre...
+
+[06418.309]
+Battu dans un simple jeu...
+
+[06418.310]
+Éliminée au premier tour...
+
+[06418.311]
+J’ai perdu, alors...
+
+[06418.312]
+J’aurais dû m’en douter avant...
+
+[06418.313]
+Le génie, se faire relever ses données...
+
+[06418.314]
+Une minute...
+
+[06418.315]
+J’exige de recommencer.
+
+[06418.317]
+Bon voyage.
+
+[06418.318]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06418.319]
+Voulez-vous passer la nuit ?
+
+[06418.321]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06418.322]
+Reposez-vous bien.
+
+[06418.323]
+Bonjour.
+
+[06418.324]
+Vous n’avez pas assez d’argent.
+
+[06418.325]
+Au plaisir de vous revoir.
+
+[06418.330]
+Obtenu : {16:26 12}.
+
+[06418.332]
+Obtenu : {08:FF FF FF FF}.
+
+[06418.334]
+Trouvé : {16:26 1A}, mais vous n’avez plus de place.
+
+[06418.336]
+Il n’y a rien ici.
+

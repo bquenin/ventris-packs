@@ -1,0 +1,43 @@
+[06647.001]
+Ruines de la base terrestre
+
+[06647.002]
+Ruines de la base terrestre
+
+[06647.003]
+Bon voyage.
+
+[06647.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06647.005]
+Voulez-vous passer la nuit ?
+
+[06647.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06647.008]
+Reposez-vous bien.
+
+[06647.009]
+Bonjour.
+
+[06647.010]
+Vous n’avez pas assez d’argent.
+
+[06647.011]
+Au plaisir de vous revoir.
+
+[06647.016]
+Obtenu : {16:25 BA}.
+
+[06647.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06647.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06647.022]
+Il n’y a rien ici.
+

@@ -1,0 +1,172 @@
+[06475.001]
+Cherik : maison
+
+[06475.002]
+Cherik
+
+[06475.003]
+Maison
+
+[06475.004]
+Homme
+
+[06475.005]
+Pour ce qu’elle paraît, cette ville n’a pas beaucoup d’habitants, hein ?
+
+[06475.006]
+Homme
+
+[06475.007]
+Les départs en bloc pour Aigrette y sont pour quelque chose, mais la première cause, c’est l’épidémie d’il y a quelques années.
+
+[06475.008]
+Homme
+
+[06475.009]
+Faute de médecin dans cette ville, tout le monde est parti chercher du secours à Aigrette...
+
+[06475.010]
+Homme
+
+[06475.011]
+S’il y avait eu un médecin, la ville serait un peu mieux lotie...
+
+[06475.012]
+Homme
+
+[06475.013]
+Il y a une dizaine d’années, je crois. On a eu une période assez grave, avec une épidémie.
+
+[06475.014]
+Homme
+
+[06475.015]
+C’est de là que datent les départs en bloc de Cherik pour Aigrette.
+
+[06475.016]
+Homme
+
+[06475.017]
+Sous la protection de l’Ordre, on vit sans gagner d’argent, paraît-il.
+
+[06475.018]
+Homme
+
+[06475.019]
+À entendre ça, n’importe qui pense à déménager, pardi.
+
+[06475.020]
+Jeune homme
+
+[06475.021]
+Il y a quelques mois à peine, un mal terrible s’est répandu dans toute la région.
+
+[06475.022]
+Jeune homme
+
+[06475.023]
+La plupart ont été protégés par l’Ordre d’Atamoni et s’en sont tirés, mais il y avait là de drôles de gens.
+
+[06475.024]
+Jeune homme
+
+[06475.025]
+Ils sont partis s’installer à Hope Town, parce qu’ils ne voulaient pas être aux ordres d’une déesse.
+
+[06475.026]
+Jeune homme
+
+[06475.027]
+Il y a quelques mois à peine, un mal terrible s’est répandu dans toute la région.
+
+[06475.028]
+Jeune homme
+
+[06475.029]
+La plupart ont été protégés par le temple de Straylize et s’en sont tirés, mais il y avait là de drôles de gens.
+
+[06475.030]
+Jeune homme
+
+[06475.031]
+Ils sont partis s’installer à Hope Town, parce qu’ils ne voulaient pas être aux ordres d’une déesse.
+
+[06475.032]
+Jeune homme
+
+[06475.033]
+Il y avait une sœur qui est partie pour Hope Town avec son petit frère malade, parce qu’elle ne voulait pas être aux ordres d’une déesse.
+
+[06475.034]
+Jeune homme
+
+[06475.035]
+Que font-ils, maintenant ? Le petit frère va-t-il bien ?
+
+[06475.036]
+Garçon Mach de Cherik
+
+[06475.037]
+Hmf. Dans le monde, nombreux sont ceux qui veulent atteindre le sommet de la course.
+
+[06475.038]
+Hmf. Il y aurait à Neustadt une piste où se retrouvent les plus forts.
+
+[06475.039]
+Hmf. Moi aussi, un jour, je voudrais être un dur à Neustadt.
+
+[06475.040]
+Hmf. Il existerait un titre réservé à ceux qui ont atteint le sommet de la course.
+
+[06475.041]
+Hmf. Toi, on te nommerait sans doute « Masque Mach », ou quelque chose comme ça.
+
+[06475.043]
+Masque Mach...
+
+[06475.045]
+Elle a dû rester longtemps exposée au vent du large : cette commode tombe en morceaux.
+
+[06475.047]
+Des articles rares, aux couleurs de la culture de la région de Calvalese.
+
+[06475.049]
+Une mer d’émeraude... Quand j’y pense, on en a fait, du chemin.
+
+[06475.050]
+Bon voyage.
+
+[06475.051]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06475.052]
+Voulez-vous passer la nuit ?
+
+[06475.054]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06475.055]
+Reposez-vous bien.
+
+[06475.056]
+Bonjour.
+
+[06475.057]
+Vous n’avez pas assez d’argent.
+
+[06475.058]
+Au plaisir de vous revoir.
+
+[06475.063]
+Obtenu : {16:25 BA}.
+
+[06475.065]
+Obtenu : {08:FF FF FF FF}.
+
+[06475.067]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06475.069]
+Il n’y a rien ici.
+

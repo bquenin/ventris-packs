@@ -1,0 +1,57 @@
+[06782.001]
+Épave de la cité aérienne
+
+[06782.002]
+Épave de la cité aérienne
+
+[06782.003]
+Épave de la cité aérienne
+
+[06782.004]
+Épave de la cité aérienne
+
+[06782.005]
+Épave de la cité aérienne
+
+[06782.007]
+Se reposer ici ?
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06782.008]
+Bon voyage.
+
+[06782.009]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06782.010]
+Voulez-vous passer la nuit ?
+
+[06782.012]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06782.013]
+Reposez-vous bien.
+
+[06782.014]
+Bonjour.
+
+[06782.015]
+Vous n’avez pas assez d’argent.
+
+[06782.016]
+Au plaisir de vous revoir.
+
+[06782.021]
+Obtenu : {16:25 BA}.
+
+[06782.023]
+Obtenu : {08:FF FF FF FF}.
+
+[06782.025]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06782.027]
+Il n’y a rien ici.
+

@@ -1,0 +1,24 @@
+[00228.001]
+Pff...
+
+[00228.002]
+Qu’y a-t-il ? Te voilà bien silencieux. Aurais-tu mangé quelque chose par terre ?
+
+[00228.003]
+Hmf, laisse-moi. Moi aussi, j’ai mes soucis.
+
+[00228.004]
+Tiens, tu as donc une tête capable de se tourmenter... On ne le croirait pas.
+
+[00228.005]
+Voyons, {NAME:04 00 00 00}. {NAME:03 00 00 00} a raté une drague, il est abattu. Sois gentil avec lui, tu veux ?
+
+[00228.006]
+Ce n’est que cela ? ... Quelle futilité.
+
+[00228.007]
+Pour {NAME:03 00 00 00}, c’est une question de vie ou de mort. Il est au bord du gouffre.
+
+[00228.008]
+Vous êtes bruyants ! Vous allez voir~~, à Neustadt, je me rattrape ! Attends-moi, Neustadt !
+

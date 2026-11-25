@@ -1,0 +1,60 @@
+[06624.001]
+Autel de la Mort
+
+[06624.002]
+Catacombes : autel de la Mort
+
+[06624.003]
+Catacombes
+
+[06624.005]
+L’inscription de la stèle a été grattée : impossible de la lire.
+
+[06624.007]
+Une note est tombée à côté des ossements.
+
+[06624.009]
+« Les bougies... tirez-y du feu... »
+« Mais l’ordre... »
+« Cette inscription... est fausse... »
+
+[06624.011]
+Quelque part, on a entendu une cloche tomber.
+
+[06624.012]
+Bon voyage.
+
+[06624.013]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06624.014]
+Voulez-vous passer la nuit ?
+
+[06624.016]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06624.017]
+Reposez-vous bien.
+
+[06624.018]
+Bonjour.
+
+[06624.019]
+Vous n’avez pas assez d’argent.
+
+[06624.020]
+Au plaisir de vous revoir.
+
+[06624.025]
+Obtenu : {16:27 4A}.
+
+[06624.027]
+Obtenu : {08:FF FF FF FF}.
+
+[06624.029]
+Trouvé : {16:27 52}, mais vous n’avez plus de place.
+
+[06624.031]
+Il n’y a rien ici.
+

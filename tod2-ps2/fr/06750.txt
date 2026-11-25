@@ -1,0 +1,614 @@
+[06750.001]
+Cabane de Chelsea
+
+[06750.002]
+Cabane de Chelsea
+
+[06750.003]
+Cabane de Chelsea
+
+[06750.004]
+Chelsea
+
+[06750.005]
+Fleur bleue... Hi hi, peut-être bien ! C’est mon « prince éternel », après tout.
+
+[06750.006]
+Chelsea
+
+[06750.007]
+... Mais c’est vrai, vous savez. Dans mon cœur, vous resterez toujours un prince.
+
+[06750.008]
+Chelsea
+
+[06750.009]
+... Messire Woodrow.
+
+[06750.010]
+Cabane de Chelsea
+
+[06750.011]
+Petite maison
+
+[06750.013]
+Obtenu : {08:EB 00 00 00}.
+
+[06750.015]
+Un tableau représentant un jeune homme est rangé là. ... On dirait le roi Woodrow dans sa jeunesse.
+
+[06750.017]
+Il y avait un livre dans le placard : « Cent façons de converser pour de bon avec monsieur le zelkova ».
+
+[06750.019]
+Une armure bleue d’homme est rangée là. Elle est bien vieille : à qui peut-elle être ?
+
+[06750.021]
+... Pourquoi y a-t-il deux lits ? Pour les invités, peut-être ? Tout de même, les mettre côte à côte, c’est curieux...
+
+[06750.022]
+Chelsea
+
+[06750.023]
+{NAME:01 00 00 00}, grâce à toi, j’ai été drôlement aidée. Vraiment, merci.
+
+[06750.024]
+Chelsea
+
+[06750.025]
+Prends bien soin de l’arc ! Sa puissance est garantie !
+
+[06750.026]
+Jeune femme
+
+[06750.027]
+De la visite, dans un endroit pareil ! Qu’est-ce qu’il y a ? Vous vous êtes perdus ?
+
+[06750.029]
+Non, ce n’est pas ça, mais...
+
+[06750.031]
+Vous vivez seule ici, mademoiselle ?
+
+[06750.032]
+Jeune femme
+
+[06750.033]
+Pas « mademoiselle » : Chelsea. Chelsea Torn.
+
+[06750.034]
+Chelsea
+
+[06750.035]
+J’ai quelque chose à faire ici, vois-tu.
+
+[06750.037]
+Dans un endroit pareil ?
+
+[06750.038]
+Chelsea
+
+[06750.039]
+Oui : une chose qu’on ne peut faire qu’ici.
+
+[06750.040]
+Chelsea
+
+[06750.041]
+Autrefois, il y avait une ville ici. Pas bien grande, mais pour moi, une ville pleine de souvenirs.
+
+[06750.043]
+Il y avait vraiment une ville, ici ? Maintenant, il n’y a plus rien, non ?
+
+[06750.044]
+Chelsea
+
+[06750.045]
+Non, elle a disparu. Il y a dix-huit ans.
+
+[06750.047]
+Je vois... Détruite par Belcrant, pendant les derniers troubles...
+
+[06750.048]
+Chelsea
+
+[06750.049]
+Oui : frappée de plein fouet par Belcrant, elle a été anéantie. Elle s’appelait « Janos ».
+
+[06750.050]
+Chelsea
+
+[06750.051]
+Moi, je compte rebâtir cette ville.
+
+[06750.053]
+Pourquoi vouloir refaire la ville ? C’est très dur, non ?
+
+[06750.054]
+Chelsea
+
+[06750.055]
+Oui, c’est dur, c’est vrai. Belcrant a ravagé la terre.
+
+[06750.056]
+Chelsea
+
+[06750.057]
+Mais... malgré tout, pour ceux qui vivaient ici, cela reste leur pays natal.
+
+[06750.058]
+Chelsea
+
+[06750.059]
+Le chagrin d’avoir perdu son pays... la maison où l’on doit rentrer... moi, je le connais très bien...
+
+[06750.060]
+Chelsea
+
+[06750.061]
+Alors je veux leur refaire une maison où rentrer.
+
+[06750.062]
+Chelsea
+
+[06750.063]
+Et leur permettre de vivre de nouveau avec ceux qui leur sont chers.
+
+[06750.065]
+De nouveau, avec ceux qui leur sont chers...
+
+[06750.066]
+Chelsea
+
+[06750.067]
+Qu’est-ce qu’il y a ?
+
+[06750.069]
+Non... je me suis dit, comme ça... que moi, c’est peut-être pareil.
+
+[06750.070]
+Chelsea
+
+[06750.071]
+Je vois... Toi aussi, tu cherches à reprendre quelque chose.
+
+[06750.073]
+Je ne sais pas trop... mais peut-être bien.
+
+[06750.074]
+Chelsea
+
+[06750.075]
+Alors, nous sommes des compagnons, toi et moi. Courage à nous deux !
+
+[06750.077]
+Oui !
+
+[06750.078]
+Chelsea
+
+[06750.079]
+Toi et moi, nous vivons pour reprendre ce qui a été perdu : des compagnons, en somme.
+
+[06750.080]
+Chelsea
+
+[06750.081]
+Courage à nous deux ! J’espère que tu retrouveras, toi aussi, ce que tu as perdu.
+
+[06750.082]
+Chelsea
+
+[06750.083]
+Erreur
+
+[06750.084]
+Jeune femme
+
+[06750.085]
+De la visite, dans un endroit pareil ! Qu’est-ce qu’il y a ? Vous vous êtes perdus ?
+
+[06750.087]
+Non, ce n’est pas ça, mais...
+
+[06750.089]
+Vous vivez seule ici, mademoiselle ?
+
+[06750.090]
+Jeune femme
+
+[06750.091]
+Oui, c’est ça. J’ai quelque chose à faire ici, vois-tu.
+
+[06750.093]
+Dans un endroit pareil ?
+
+[06750.094]
+Jeune femme
+
+[06750.095]
+Oui : une chose qu’on ne peut faire qu’ici.
+
+[06750.096]
+Jeune femme
+
+[06750.097]
+Autrefois, il y avait une ville ici. Pas bien grande, mais pour moi, une ville pleine de souvenirs.
+
+[06750.099]
+Il y avait vraiment une ville, ici ? Maintenant, il n’y a plus rien, non ?
+
+[06750.100]
+Jeune femme
+
+[06750.101]
+Non, elle a disparu. Il y a dix-huit ans.
+
+[06750.103]
+Je vois... Détruite par Belcrant, pendant les derniers troubles...
+
+[06750.105]
+Il y a dix-huit ans... Par Belcrant, donc, pendant les troubles ?
+
+[06750.106]
+Jeune femme
+
+[06750.107]
+Oui : frappée de plein fouet par Belcrant, elle a été anéantie. Elle s’appelait « Janos ».
+
+[06750.108]
+Jeune femme
+
+[06750.109]
+Moi, je compte rebâtir cette ville.
+
+[06750.111]
+Pourquoi vouloir refaire la ville ? C’est très dur, non ?
+
+[06750.112]
+Jeune femme
+
+[06750.113]
+Oui, c’est dur, c’est vrai. Belcrant a ravagé la terre.
+
+[06750.114]
+Jeune femme
+
+[06750.115]
+Mais... malgré tout, pour ceux qui vivaient ici, cela reste leur pays natal.
+
+[06750.116]
+Jeune femme
+
+[06750.117]
+Le chagrin d’avoir perdu son pays... la maison où l’on doit rentrer... moi, je le connais très bien...
+
+[06750.118]
+Jeune femme
+
+[06750.119]
+Alors je veux leur refaire une maison où rentrer.
+
+[06750.121]
+Ah bon...
+
+[06750.122]
+Jeune femme
+
+[06750.123]
+Enfin, je parle avec de grands mots, mais en réalité, j’ai déjà du mal à subvenir à mes seuls besoins.
+
+[06750.124]
+Jeune femme
+
+[06750.125]
+Si je pouvais vivre de ce que je produis, passe encore, mais vu l’état du dehors, tu penses.
+
+[06750.126]
+Jeune femme
+
+[06750.127]
+Alors je fabrique des arcs, je vais les vendre à Heidelberg, et avec cet argent, je fais mes provisions.
+
+[06750.129]
+Vous savez fabriquer des arcs, mademoiselle ?
+
+[06750.130]
+Jeune femme
+
+[06750.131]
+Telle que tu me vois, l’arc, ça me connaît : pour en faire, bien sûr, et pour en tirer aussi.
+
+[06750.132]
+Jeune femme
+
+[06750.133]
+C’est que mon grand-père était un si grand archer qu’on disait : « En Phandaria, il n’y en a pas deux comme lui. »
+
+[06750.135]
+Ouah... ! Alors, si je vous le demandais, vous m’en feriez un !?
+
+[06750.136]
+Jeune femme
+
+[06750.137]
+Bien sûr !
+
+[06750.138]
+Jeune femme
+
+[06750.139]
+... J’aimerais dire oui, mais en ce moment, je me consacre à relever la ville : je n’en fais que ce qu’il faut pour vivre.
+
+[06750.140]
+Jeune femme
+
+[06750.141]
+Ah, mais si tu m’aides à la relever, je veux bien t’en faire un.
+
+[06750.143]
+Vous aider à la relever, ça consiste en quoi ?
+
+[06750.144]
+Jeune femme
+
+[06750.145]
+En ce moment, je vais seule aux provisions, tu vois ? Il y a pas mal de choses trop lourdes ou trop nombreuses pour que je les porte.
+
+[06750.146]
+Jeune femme
+
+[06750.147]
+Si tu vas m’acheter ces choses-là, je te ferai un arc !
+
+[06750.149]
+Compris !
+
+[06750.150]
+Jeune femme
+
+[06750.151]
+Marché conclu ! Alors je compte sur toi ! Euh...
+
+[06750.153]
+{NAME:01 00 00 00} ! {NAME:01 00 00 00} Dunamis !
+
+[06750.154]
+Chelsea
+
+[06750.155]
+Moi, c’est Chelsea Torn. Enchantée, {NAME:01 00 00 00} !
+
+[06750.156]
+Tu viens à peine de m’apporter ça, et j’en suis désolée... mais je peux encore te demander quelque chose ?
+
+[06750.157]
+{NAME:01 00 00 00}, tu ne voudrais pas m’acheter la chose suivante ?
+
+[06750.158]
+Chelsea
+
+[06750.159]
+D’abord, de quoi déblayer la neige : j’aimerais que tu m’achètes ceci ({08:39 00 00 00}), au nombre de {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00}.
+
+[06750.160]
+Ensuite, de quoi creuser un puits : achète-moi ceci ({08:3A 00 00 00}), au nombre de {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00}.
+
+[06750.161]
+De quoi construire une cabane : ceci ({08:3B 00 00 00}), au nombre de {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00}, s’il te plaît.
+
+[06750.162]
+Cette fois, de quoi construire une cabane : j’aimerais que tu m’achètes ceci ({08:3C 00 00 00}), au nombre de {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00}.
+
+[06750.163]
+De quoi construire une cabane : j’aimerais que tu m’apportes ceci ({08:3D 00 00 00}), au nombre de {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00}.
+
+[06750.164]
+Chelsea
+
+[06750.166]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06750.167]
+Chelsea
+
+[06750.168]
+Merci, comme toujours.
+
+[06750.169]
+Chelsea
+
+[06750.170]
+Grâce à toi, {NAME:01 00 00 00}, me voilà bien aidée.
+
+[06750.171]
+Chelsea
+
+[06750.172]
+Alors, je compte sur toi★
+
+[06750.173]
+Chelsea
+
+[06750.174]
+... Ah bon. Alors, quand tu auras le temps, donne-moi un coup de main.
+
+[06750.175]
+Chelsea
+
+[06750.176]
+{NAME:01 00 00 00}, tu as ce que je t’ai demandé ?
+
+[06750.178]
+Pardon, Chelsea. Je devais acheter quoi, déjà ?
+
+[06750.179]
+Chelsea
+
+[06750.180]
+Allons, il ne faut pas oublier. Retiens bien, cette fois.
+
+[06750.181]
+Chelsea
+
+[06750.182]
+Ceci ({16:24 8E}), au nombre de {0B:01 00 00 00}{14:11 5B}{0B:00 00 00 00}, s’il te plaît.
+
+[06750.184]
+C’est bien ça, hein ? Tenez !
+
+[06750.185]
+Chelsea
+
+[06750.186]
+Oui, oui, c’est ça, c’est ça ! Merci, tu me rends service !
+
+[06750.187]
+Chelsea
+
+[06750.188]
+... {NAME:01 00 00 00}, grâce à toi, j’ai été aidée plus que je ne saurais dire.
+
+[06750.189]
+Chelsea
+
+[06750.190]
+Ça t’a donné bien du tracas, non ? Vraiment, merci.
+
+[06750.191]
+Chelsea
+
+[06750.192]
+Pour te remercier, cette fois, j’ai préparé un arc spécial. Prends-le.
+
+[06750.193]
+Chelsea
+
+[06750.194]
+Alors, voici un arc, en remerciement. Prends-le !
+
+[06750.196]
+Obtenu : {08:FF FF FF FF}.
+
+[06750.198]
+Cet arc... il a beaucoup servi.
+
+[06750.199]
+Chelsea
+
+[06750.200]
+Cet arc, vois-tu, c’est quelqu’un qui me l’a fabriqué.
+
+[06750.201]
+Chelsea
+
+[06750.202]
+Il était l’élève de mon grand-père, et il était terriblement beau !
+
+[06750.203]
+Chelsea
+
+[06750.204]
+Cet arc à la main, nous sommes allés partout, tous les deux : à la chasse, à l’aventure...
+
+[06750.206]
+Un arc aussi précieux... Je peux vraiment le prendre ?
+
+[06750.207]
+Chelsea
+
+[06750.208]
+C’est parce qu’il est précieux que je veux te le donner. Parce que toi, {NAME:01 00 00 00}, tu t’es donné tant de mal.
+
+[06750.209]
+Chelsea
+
+[06750.210]
+Et puis, tu sais, même sans l’arc, les souvenirs de lui restent. Alors ça va !
+
+[06750.212]
+Et lui... que fait-il maintenant ? Vous n’allez pas le voir ?
+
+[06750.213]
+Chelsea
+
+[06750.214]
+Il est maintenant là où quelqu’un comme moi ne peut plus l’atteindre... Alors je ne le vois pas.
+
+[06750.215]
+Chelsea
+
+[06750.216]
+Et puis, tu sais ! Il y a des choses qu’il vaut mieux garder comme de beaux souvenirs, non ?
+
+[06750.217]
+Chelsea
+
+[06750.218]
+Dans mon cœur, il reste... mon prince éternel.
+
+[06750.220]
+... Chelsea, vous êtes plus fleur bleue qu’on ne croirait.
+
+[06750.221]
+Chelsea
+
+[06750.222]
+Eh bien, pardon d’être fleur bleue !
+
+[06750.223]
+Chelsea
+
+[06750.224]
+... En tout cas, prends-le.
+
+[06750.225]
+Chelsea
+
+[06750.226]
+C’est le plus grand merci que je puisse te faire, {NAME:01 00 00 00}.
+
+[06750.228]
+... Oui ! Merci, Chelsea !
+
+[06750.230]
+On vous offre {08:FF FF FF FF}, mais vous n’avez plus de place.
+
+[06750.231]
+Bon voyage.
+
+[06750.232]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06750.233]
+Voulez-vous passer la nuit ?
+
+[06750.235]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06750.236]
+Reposez-vous bien.
+
+[06750.237]
+Bonjour.
+
+[06750.238]
+Vous n’avez pas assez d’argent.
+
+[06750.239]
+Au plaisir de vous revoir.
+
+[06750.244]
+Obtenu : {16:25 DE}.
+
+[06750.246]
+Obtenu : {08:FF FF FF FF}.
+
+[06750.248]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06750.250]
+Il n’y a rien ici.
+

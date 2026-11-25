@@ -1,0 +1,12 @@
+[00838.001]
+{NAME:02 00 00 00}... avec le pouvoir des Lentilles, on peut détruire le monde ?
+
+[00838.002]
+Je pense que non, sans doute. En combinant les Lentilles avec autre chose, comme Belcrant, ce serait peut-être possible, mais...
+
+[00838.003]
+Une chose pareille ne se fabrique pas si aisément. Pourtant, les relevés de {NAME:06 00 00 00} comme votre vision annonçaient la fin du monde... Par quel moyen Elraine compte-t-elle s’y prendre ?
+
+[00838.004]
+Retournons au futur !
+

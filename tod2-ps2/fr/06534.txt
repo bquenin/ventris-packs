@@ -1,0 +1,468 @@
+[06534.001]
+Vangelo, la Cité d’azur
+
+[06534.002]
+Vangelo, la Cité d’azur
+
+[06534.003]
+Vangelo, la Cité d’azur
+
+[06534.004]
+Jeune
+
+[06534.005]
+Si on prenait le soleil en plein, sans le dôme, on n’aurait jamais assez de vies.
+
+[06534.006]
+Jeune
+
+[06534.007]
+Aujourd’hui, le soleil tape un petit peu. Si on ne fait pas attention, on risque de tomber raide.
+
+[06534.009]
+Le soleil tape... Mais ici, tout est couvert par le dôme, non ? Ce n’est pas comme si on le prenait en plein.
+
+[06534.010]
+Jeune
+
+[06534.011]
+Mais évidemment ! Prendre le soleil en plein, on y laisserait la vie.
+
+[06534.012]
+Fillette
+
+[06534.013]
+...... ......
+
+[06534.015]
+On dirait qu’on se méfie drôlement de nous. Hé, {NAME:04 00 00 00}, ne leur fais pas peur. Les pauvres.
+
+[06534.017]
+Je n’ai rien fait. Ne serait-ce pas plutôt ton sans-gêne qui les effraie ?
+
+[06534.018]
+Fillette
+
+[06534.019]
+...... ......
+
+[06534.020]
+Fillette
+
+[06534.021]
+...... ......
+
+[06534.023]
+Bonjour ! Qu’est-ce qu’il y a ? On a quelque chose sur la figure ?
+
+[06534.024]
+Fillette
+
+[06534.025]
+...... ......
+
+[06534.026]
+Dame
+
+[06534.027]
+Dehors, tout est plein d’un air pollué. Il n’y a aucune raison de courir exprès ce danger pour aller dans une autre ville, voyons.
+
+[06534.029]
+Ce qui veut dire... que vous ne mettez jamais un pied hors de cette ville ?
+
+[06534.030]
+Dame
+
+[06534.031]
+Oui, c’est cela. Et il est rare que quelqu’un vienne du dehors.
+
+[06534.032]
+Dame
+
+[06534.033]
+Allons, dis bonjour à ces messieurs. « Bonjour ».
+
+[06534.034]
+Dame
+
+[06534.035]
+Excusez-la : c’est la première fois que cette petite rencontre des gens qui ne sont pas de la ville.
+
+[06534.037]
+Hein ? Elle est déjà grande, pourtant ? Elle n’est jamais allée dans une autre ville ?
+
+[06534.038]
+Dame
+
+[06534.039]
+On peut vivre ici sans manquer de rien : pourquoi faudrait-il aller dans une autre ville ?
+
+[06534.040]
+Homme
+
+[06534.041]
+Vous voyez l’enfant, là-bas ? Quelqu’un est venu avant sa naissance, je crois bien. Depuis, personne n’est venu du dehors.
+
+[06534.043]
+Il n’y aurait donc eu aucun échange depuis une dizaine d’années... Savez-vous au juste combien d’années cela fait ?
+
+[06534.044]
+Homme
+
+[06534.045]
+Je ne m’en souviens pas aussi précisément. Avant la naissance de cette enfant : je ne saurais pas en dire plus.
+
+[06534.046]
+Homme
+
+[06534.047]
+Des gens qui viennent du dehors... Ça faisait bien longtemps.
+
+[06534.049]
+Longtemps, c’est-à-dire combien ?
+
+[06534.050]
+Homme
+
+[06534.051]
+Combien... Voyons. À peu près avant la naissance de l’enfant qui est là-bas.
+
+[06534.053]
+Ce dôme... c’était une ville ! On dirait que toute la ville est recouverte d’une énorme Lentille.
+
+[06534.055]
+C’est vrai, c’est incroyable... !
+
+[06534.057]
+Et quelle étanchéité... Tout est conçu pour empêcher absolument l’air du dehors d’entrer.
+
+[06534.059]
+Pourquoi aller jusque-là ? D’accord, dehors, le monde est rude, mais pas au point qu’on ne puisse pas y vivre.
+
+[06534.061]
+Pour une raison ou une autre, ils sont forcés de se couper du monde extérieur... Voilà ce qu’il en est, sans doute.
+
+[06534.062]
+Habitant
+
+[06534.063]
+V-vous venez du dehors, vous !? Ça va !? Et vos Lentilles, où sont-elles !?
+
+[06534.065]
+... Et vous, pourquoi vous avez une Lentille collée sur le front ?
+
+[06534.066]
+Habitant
+
+[06534.067]
+Pourquoi...
+
+[06534.068]
+Habitant
+
+[06534.069]
+Aah ! C’est l’air du dehors : il vous a détraqué la tête ! Ça, c’est grave...
+
+[06534.071]
+Qu’est-ce que vous racontez ! Nous, on n’a rien...
+
+[06534.073]
+... Il semble que ce soit le cas. Nous ne nous souvenons de rien.
+
+[06534.075]
+{NAME:04 00 00 00} !?
+
+[06534.077]
+{05:C8 00 00 00}Tais-toi donc. Ce sera plus facile ainsi d’obtenir des renseignements.
+
+[06534.079]
+Pardonnez-nous, mais pourriez-vous nous renseigner ? Sur les Lentilles, et sur cette ville.
+
+[06534.080]
+Habitant
+
+[06534.081]
+Oui, bien sûr. Dans le besoin, on s’entraide.
+
+[06534.082]
+Habitant
+
+[06534.083]
+Ici, c’est la ville de Vangelo, la Cité d’azur.
+
+[06534.084]
+Habitant
+
+[06534.085]
+Et ce que vous avez perdu, on l’appelle la « Lentille de vie ».
+
+[06534.086]
+Habitant
+
+[06534.087]
+C’est grâce à cette Lentille de vie, et à elle seule, qu’on peut vivre au contact de l’air pollué du dehors.
+
+[06534.088]
+Habitant
+
+[06534.089]
+Dame Elraine, dans sa grande miséricorde, a donné une lueur d’espoir à nous autres, qui ne pouvions vivre que sous les dômes.
+
+[06534.091]
+Elraine... !
+
+[06534.092]
+Habitant
+
+[06534.093]
+Ah, de dame Elraine, vous vous souvenez. Tant mieux...
+
+[06534.094]
+Habitant
+
+[06534.095]
+C’est que dame Elraine nous donne ce dôme et la force de vivre : c’est quelqu’un de précieux pour nous.
+
+[06534.097]
+Oh non...
+
+[06534.098]
+Habitant
+
+[06534.099]
+Vous autres, allez donc d’abord parler à ceux de l’Ordre de Fortuna.
+
+[06534.101]
+L’Ordre de Fortuna ?
+
+[06534.102]
+Habitant
+
+[06534.103]
+Oui, l’Ordre de Fortuna, c’est l’assemblée de ceux qui secondent dame Elraine.
+
+[06534.104]
+Habitant
+
+[06534.105]
+Ce sont tous des gens pleins de bonté : ils vous écouteront sûrement comme si vous étiez des leurs.
+
+[06534.107]
+... Entendu. Merci.
+
+[06534.109]
+... C’est bien le monde d’où nous venons. Le nom d’Elraine le prouve.
+
+[06534.111]
+N’empêche, un changement pareil, ça n’a rien de normal !?
+
+[06534.113]
+Ces Lentilles de vie, les dômes... on dirait qu’Elraine règne sur ce monde, non !
+
+[06534.115]
+L’histoire a été remaniée à très grande échelle, semble-t-il. Que s’est-il donc passé... ?
+
+[06534.116]
+Bon voyage.
+
+[06534.117]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06534.118]
+Voulez-vous passer la nuit ?
+
+[06534.120]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06534.121]
+Reposez-vous bien.
+
+[06534.122]
+Bonjour.
+
+[06534.123]
+Vous n’avez pas assez d’argent.
+
+[06534.124]
+Au plaisir de vous revoir.
+
+[06534.129]
+Obtenu : {16:25 C2}.
+
+[06534.131]
+Obtenu : {08:FF FF FF FF}.
+
+[06534.133]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06534.135]
+Il n’y a rien ici.
+
+[06534.136]
+Vendeur ({08:12 00 00 00})
+
+[06534.137]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06534.138]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06534.139]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06534.140]
+C’est {0B:01 00 00 00}{14:35 D4}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06534.142]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 DE} ({14:35 D8} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06534.144]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06534.145]
+Merci de votre achat.
+
+[06534.146]
+Merci de votre achat.
+
+[06534.147]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 D4}{0B:00 00 00 00} Gald pièce.
+
+[06534.148]
+Voulez-vous suivre le cours de raffinage ?
+
+[06534.150]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06534.151]
+Que voulez-vous savoir ?
+
+[06534.153]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06534.155]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06534.156]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06534.157]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06534.158]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06534.159]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06534.160]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06534.161]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06534.162]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06534.163]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06534.164]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06534.165]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06534.166]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06534.167]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06534.168]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06534.169]
+Je vous expliquerai les emplacements en détail à part.
+
+[06534.170]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06534.171]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06534.172]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06534.173]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06534.174]
+Je vais vous expliquer les emplacements en détail.
+
+[06534.175]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06534.176]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06534.177]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06534.178]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06534.179]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06534.180]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06534.181]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06534.182]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06534.183]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06534.184]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06534.185]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06534.186]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06534.187]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06534.188]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06534.189]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06534.190]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06534.191]
+... Ranger ses objets, c’est important aussi.
+

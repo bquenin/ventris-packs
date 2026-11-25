@@ -1,0 +1,15 @@
+[00908.001]
+Chal... tu me regardes, de quelque part ? Si oui, j’ai une seule chose à te demander............ Moi, peu importe : je suis déjà mort une fois... Seulement...... veux-tu protéger leur vie, à eux ? ...... Ce sont des écervelés, des cas désespérés, mais l’avenir a besoin d’eux...... Et puis, Rutee... je ne veux plus voir son visage en larmes.
+
+[00908.002]
+Ohé ! {NAME:04 00 00 00} ! Tes blessures du dernier combat, ça va mieux ?
+
+[00908.003]
+Cela ne te regarde pas. Si tu as le loisir de t’inquiéter des autres, inquiète-toi de toi-même.
+
+[00908.004]
+Tss ! Moi qui m’inquiétais pour toi...
+
+[00908.005]
+Je te prie, Chal.
+

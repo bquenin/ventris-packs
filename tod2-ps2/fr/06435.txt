@@ -1,0 +1,973 @@
+[06435.001]
+Heidelberg
+
+[06435.002]
+Heidelberg
+
+[06435.003]
+Heidelberg
+
+[06435.004]
+Heidelberg
+
+[06435.005]
+Heidelberg
+
+[06435.007]
+L’épicerie est juste après ce coin de rue. « Look Delicious ! »
+
+[06435.009]
+Du bonhomme de neige est sorti : {08:03 00 00 00}.
+
+[06435.011]
+Obtenu : {08:03 00 00 00}.
+
+[06435.013]
+Un bonhomme de neige en forme de chef cuisinier.
+
+[06435.015]
+« Ici, la vieille ville de Heidelberg, cité chargée d’histoire, bâtie après la fin de la guerre du Ciel et de la Terre. »
+
+[06435.017]
+« Pour le parc du Souvenir de Heidelberg, continuez tout droit en gardant le château sur votre gauche. »
+
+[06435.018]
+Homme
+
+[06435.019]
+Bon, la rue est déblayée ! Maintenant, la neige devant chez moi !
+
+[06435.021]
+Ça a l’air pénible, de déblayer la neige... Vous n’avez pas froid ?
+
+[06435.022]
+Homme
+
+[06435.023]
+Bah, on a froid aussi à rester planté là. Tant qu’à avoir froid, autant bouger : c’est toujours ça de mieux !
+
+[06435.024]
+Homme
+
+[06435.025]
+Il y a quelques années, on a eu une année presque sans neige. Là, ça a été dur !
+
+[06435.027]
+Pourquoi dur ? Sans neige à déblayer, c’est plus facile, non ?
+
+[06435.028]
+Homme
+
+[06435.029]
+Ah non : le manger, le boire, tout était mauvais ! Décidément, il faut se remuer, rien à faire !
+
+[06435.030]
+Homme
+
+[06435.031]
+On déblaie ! On se remue ! Et alors le manger et le boire sont bons ! C’est comme ça que ça doit être !
+
+[06435.032]
+Homme
+
+[06435.033]
+H-hé, c’est quoi, ça... ! Hé, la mère ! Il se passe quelque chose de grave au château !
+
+[06435.034]
+Homme
+
+[06435.035]
+Le château a des ennuis, je le sais bien, mais moi, je ne suis bon qu’à déblayer la neige.
+
+[06435.036]
+Homme
+
+[06435.037]
+Alors je déblaie, au moins, pour que tout le monde marche dans les rues comme d’habitude. Ha ha ! Ça ne paie pas de mine, hein.
+
+[06435.039]
+Mais si. Chacun fait ce qu’il sait faire : c’est beau, non ?
+
+[06435.040]
+Homme
+
+[06435.041]
+Une pelletée pour tout le monde~♪ Deux pelletées pour le roi Woodrow~, et hop !
+
+[06435.042]
+Homme
+
+[06435.043]
+Hop, hop, hop♪ On déblaie, on déblaie, on dé-é-blaie♪ Sinon, tout le monde fait patatras♪
+
+[06435.044]
+Homme
+
+[06435.045]
+Si personne ne déblaie, tout le monde se retrouve les quatre fers en l’air !
+
+[06435.046]
+Jeune
+
+[06435.047]
+Hmf. Vous venez d’un autre pays, vous. Ça se voit à votre démarche.
+
+[06435.048]
+Jeune
+
+[06435.049]
+C’est que, comme moi, vous n’êtes pas très sûrs sur vos jambes. ... Ouaah !
+
+[06435.050]
+Jeune
+
+[06435.051]
+Marcher sans glisser : rien que ça, dans ce pays, c’est difficile...
+
+[06435.052]
+Jeune
+
+[06435.053]
+Hmf. Vous êtes en plein rendez-vous galant, vous deux. Ça se voit à votre figure.
+
+[06435.054]
+Jeune
+
+[06435.055]
+C’est que, à vous regarder, je sens la jalousie me monter, je ne sais pourquoi.
+
+[06435.056]
+Jeune
+
+[06435.057]
+Aah... moi aussi, je voudrais vite une petite amie...
+
+[06435.058]
+Jeune
+
+[06435.059]
+Hmf. Vous êtes pressés, vous. Ça se voit à votre figure.
+
+[06435.060]
+Jeune
+
+[06435.061]
+En un mot ! Vous cherchez des toilettes, pas vrai !?
+
+[06435.063]
+Idiot ! On court au château !
+
+[06435.064]
+Jeune
+
+[06435.065]
+Vous allez aux toilettes du château ? Mais il y a eu une explosion : mieux vaut ne pas trop s’approcher.
+
+[06435.066]
+Jeune
+
+[06435.067]
+Hmf. Vous êtes abattus, vous. Ça se voit à votre figure.
+
+[06435.068]
+Jeune
+
+[06435.069]
+En un mot ! Ce froid vous a donné mal au ventre ! Pas vrai !?
+
+[06435.071]
+Idiot ! On court au château !
+
+[06435.072]
+Jeune
+
+[06435.073]
+J’ai mal... j’ai mal au ventre... Vous aussi, c’est le mal de ventre qui vous abat... ouh !
+
+[06435.074]
+Jeune
+
+[06435.075]
+Hmf. Vous débordez d’ardeur, vous. Ça se voit à votre figure.
+
+[06435.076]
+Jeune
+
+[06435.077]
+En un mot ! Vous brûlez de gagner enfin à la bataille de boules de neige, aujourd’hui !
+
+[06435.079]
+Laisse cet idiot et allons-y, {NAME:01 00 00 00}.
+
+[06435.080]
+Jeune
+
+[06435.081]
+Moi aussi, je veux faire une bataille de boules de neige... Mais tout seul, c’est impossible...
+
+[06435.082]
+Jeune
+
+[06435.083]
+Hmf. Vous avez accompli quelque chose, vous. Ça se voit à votre figure.
+
+[06435.084]
+Jeune
+
+[06435.085]
+En un mot ! Vous avez fini de déblayer toute la neige de chez vous, pas vrai !?
+
+[06435.087]
+... Allons-y, {NAME:01 00 00 00}.
+
+[06435.088]
+Jeune
+
+[06435.089]
+Moi, je n’ai pas fini de déblayer... S’il vous plaît, aidez-moi...
+
+[06435.090]
+Jeune
+
+[06435.091]
+Hmf. Vous êtes en plein rendez-vous galant, vous deux. Ça se voit à votre figure.
+
+[06435.092]
+Jeune
+
+[06435.093]
+C’est que, à vous regarder, les larmes me viennent toutes seules.
+
+[06435.094]
+Jeune
+
+[06435.095]
+Aah, ce froid me transperce... Je veux une petite amie...
+
+[06435.096]
+Jeune
+
+[06435.097]
+Hmf. Vous êtes pressés, vous. Ça se voit à votre figure.
+
+[06435.098]
+Jeune
+
+[06435.099]
+En un mot... !
+
+[06435.101]
+Hé, vite, {NAME:01 00 00 00} ! {NAME:06 00 00 00} nous attend, je te dis !
+
+[06435.102]
+Jeune
+
+[06435.103]
+... S’il vous plaît, écoutez-moi...
+
+[06435.104]
+Jeune
+
+[06435.105]
+Hmf. Vous êtes pleins de résolution, vous. Ça se voit à votre figure.
+
+[06435.106]
+Jeune
+
+[06435.107]
+En un mot ! Vous vous apprêtez à détruire le monde ! Pas vrai !?
+
+[06435.109]
+C’est l’inverse ! On va empêcher qu’on détruise le monde !
+
+[06435.110]
+Jeune
+
+[06435.111]
+Empêcher... qu’on détruise... le monde... ? ... Euh, moi, je disais ça pour rire...
+
+[06435.112]
+Jeune
+
+[06435.113]
+Hmf. Vous êtes au fond du désespoir, vous. Ça se voit à votre figure.
+
+[06435.114]
+Jeune
+
+[06435.115]
+En un mot ! On a démoli le bonhomme de neige que vous aviez pris la peine de faire, pas vrai !?
+
+[06435.116]
+Jeune
+
+[06435.117]
+Le mien aussi, on me l’a démoli... Bon sang ! Sales garnements...
+
+[06435.118]
+Jeune
+
+[06435.119]
+Hmf. Vous voulez en finir avec tout, vous. Ça se voit à votre figure.
+
+[06435.120]
+Jeune
+
+[06435.121]
+En un mot ! Vous allez chercher querelle à quelqu’un que vous détestez, pas vrai !?
+
+[06435.123]
+Tout juuuste ! Une grosse bagarre avec la déesse en personne !
+
+[06435.124]
+Jeune
+
+[06435.125]
+Une bagarre avec la déesse... Sérieux ?
+
+[06435.126]
+Jeune
+
+[06435.127]
+Hmf. Vous cherchez quelque chose, vous. Ça se voit à votre figure.
+
+[06435.129]
+Bien vu ! On cherche ce qui, pour chacun de nous, est sans prix.
+
+[06435.130]
+Jeune
+
+[06435.131]
+Ah, c’est ça ? Je croyais que vous cherchiez une pièce tombée dans la neige, comme moi...
+
+[06435.132]
+Jeune
+
+[06435.133]
+Une pièce tombée dans la neige, c’est si dur à retrouver. Snif, snif...
+
+[06435.134]
+Enfant
+
+[06435.135]
+Graou~ !! Mon souffle est tout blanc : on dirait un dragon, hein ?
+
+[06435.136]
+Enfant
+
+[06435.137]
+Le souffle de mon papa, il est plus fort que celui d’un dragon.
+
+[06435.138]
+Enfant
+
+[06435.139]
+Rien qu’à le sentir, tout le monde tombe par terre.
+
+[06435.141]
+Te vante pas de ça...
+
+[06435.142]
+Enfant
+
+[06435.143]
+Graou~ !! Attaque de l’haleine qui pue !
+
+[06435.144]
+Enfant
+
+[06435.145]
+Le souffle de mon papa, il sent très fort l’alcool.
+
+[06435.146]
+Enfant
+
+[06435.147]
+Maman a dit que si on y mettait le feu, à son souffle, ça brûlerait, c’est sûr.
+
+[06435.149]
+Quand même, ça, c’est une blague...
+
+[06435.150]
+Enfant
+
+[06435.151]
+Mon papa, quand il sera grand, il deviendra un dragon, tu crois ?
+
+[06435.152]
+Enfant
+
+[06435.153]
+Un dragon ! Un vrai dragon ! Trop fooort~ !
+
+[06435.154]
+Enfant
+
+[06435.155]
+Un dragon ! Un vrai dragon ! Trop fooort~ !
+
+[06435.157]
+Hé, hé ! C’est dangereux, tu n’y vas pas ! Reste ici, bien sage !
+
+[06435.158]
+Enfant
+
+[06435.159]
+Oooh, c’est pas drôle~ ! Moi aussi, je veux voir le vrai dragon~ !
+
+[06435.160]
+Enfant
+
+[06435.161]
+Vous allez voir le vrai dragon rien que vous ! C’est pas juste !
+
+[06435.162]
+Enfant
+
+[06435.163]
+Le dragon s’est envolé... C’est nul~ !
+
+[06435.165]
+Un dragon ?
+
+[06435.167]
+Ah, il parle du Dragon volant. C’est lui qui a attaqué et mis le château dans cet état.
+
+[06435.168]
+Enfant
+
+[06435.169]
+Le dragon, il s’est envolé où, dis...
+
+[06435.170]
+Enfant
+
+[06435.171]
+Il était trop classe, le dragon ! ... J’ai dit ça à maman, et elle m’a mis une taloche.
+
+[06435.172]
+Enfant
+
+[06435.173]
+C’était un méchant dragon, alors ? C’est pour ça que tout le monde était fâché ou pleurait ?
+
+[06435.175]
+Bah, plus que le dragon, ce sont ceux qui étaient dessus, les méchants.
+
+[06435.176]
+Enfant
+
+[06435.177]
+Pour moi, la taloche de maman fait bien plus peur qu’un méchant dragon.
+
+[06435.178]
+Enfant
+
+[06435.179]
+Le dragon qui était venu au château, il est allé où ?
+
+[06435.181]
+Ah, le Dragon volant ? Celui-là, les grands que voici l’ont envoyé au fond de la mer !
+
+[06435.182]
+Enfant
+
+[06435.183]
+Oooh, menteur ! Toi, tu pourrais jamais battre un dragon !
+
+[06435.184]
+Enfant
+
+[06435.185]
+Ce dragon-là, il n’y a que l’épée du roi Woodrow ou la taloche de ma maman pour le battre !
+
+[06435.186]
+Enfant
+
+[06435.187]
+Graou~ !! Mon souffle est tout blanc : on dirait un dragon, hein ?
+
+[06435.188]
+Enfant
+
+[06435.189]
+Le souffle de mon papa, il est plus fort que celui d’un dragon.
+
+[06435.190]
+Enfant
+
+[06435.191]
+Rien qu’à le sentir, tout le monde tombe par terre.
+
+[06435.193]
+Te vante pas de ça...
+
+[06435.194]
+Enfant
+
+[06435.195]
+Graou~ !! Attaque de l’haleine qui pue !
+
+[06435.196]
+Vieil homme
+
+[06435.197]
+Si cette ville s’est relevée à ce point, c’est grâce au roi Woodrow.
+
+[06435.198]
+Vieil homme
+
+[06435.199]
+Dans cette ville en ruine, le premier à se mettre à porter des poutres, ce fut le roi Woodrow lui-même.
+
+[06435.200]
+Vieil homme
+
+[06435.201]
+Nous n’avons pas eu le temps de nous lamenter : nous avons couru derrière le roi, voilà tout.
+
+[06435.203]
+Tiens~. C’est une belle histoire, ça.
+
+[06435.204]
+Vieil homme
+
+[06435.205]
+Pour le roi Woodrow, ma vieille carcasse, je la donnerais n’importe quand sans regret.
+
+[06435.206]
+Vieil homme
+
+[06435.207]
+Si les rires ne cessent jamais dans cette ville, c’est encore grâce au roi Woodrow.
+
+[06435.208]
+Vieil homme
+
+[06435.209]
+Moi, je vais tous les jours dire une prière de gratitude devant la statue du héros, au parc.
+
+[06435.210]
+Vieil homme
+
+[06435.211]
+Vous aussi, plutôt que de perdre votre temps en « rendez-vous galants », allez donc prier devant la statue du héros, au parc.
+
+[06435.212]
+Vieil homme
+
+[06435.213]
+Il n’est tout de même pas arrivé malheur au roi Woodrow !
+
+[06435.214]
+Vieil homme
+
+[06435.215]
+Puisque c’est ainsi, je ferai de mon corps un rempart pour protéger le roi Woodrow... !!
+
+[06435.217]
+Arrête, papy !
+
+[06435.218]
+Vieil homme
+
+[06435.219]
+Le roi Woodrow est notre espoir ! Il faut le protéger coûte que coûte !!
+
+[06435.220]
+Vieil homme
+
+[06435.221]
+Si cette ville s’est relevée à ce point, c’est grâce au roi Woodrow.
+
+[06435.222]
+Vieil homme
+
+[06435.223]
+Dans cette ville en ruine, le premier à se mettre à porter des poutres, ce fut le roi Woodrow lui-même.
+
+[06435.224]
+Vieil homme
+
+[06435.225]
+Nous n’avons pas eu le temps de nous lamenter : nous avons couru derrière le roi, voilà tout.
+
+[06435.227]
+Tiens~. C’est une belle histoire, ça.
+
+[06435.228]
+Vieil homme
+
+[06435.229]
+Pour le roi Woodrow, ma vieille carcasse, je la donnerais n’importe quand sans regret.
+
+[06435.230]
+Dame
+
+[06435.231]
+Aah... mon petit Billy s’en sort-il bien, au château ?
+
+[06435.232]
+Dame
+
+[06435.233]
+Mon petit Billy travaille au château depuis cette année.
+
+[06435.234]
+Dame
+
+[06435.235]
+Travailler loin de sa maman : il doit se sentir bien seul...
+
+[06435.236]
+Dame
+
+[06435.237]
+Si vous allez au château, voudriez-vous regarder si mon petit Billy ne pleure pas ?
+
+[06435.238]
+Dame
+
+[06435.239]
+Oh, mon Dieu : un jeune homme et une jeune fille tout seuls, quelle inconvenance...
+
+[06435.240]
+Dame
+
+[06435.241]
+Mon petit Billy, lui, n’est pas inconvenant comme vous deux.
+
+[06435.242]
+Dame
+
+[06435.243]
+Il n’a sûrement jamais touché d’autre femme que sa maman, voyez-vous.
+
+[06435.244]
+Dame
+
+[06435.245]
+Mon petit Billy ne se laisse pas séduire par les servantes du château, au moins...
+
+[06435.246]
+Dame
+
+[06435.247]
+Que s’est-il passé !? Mon petit Billy chéri est dans ce château !!
+
+[06435.248]
+Dame
+
+[06435.249]
+Tiens bon, mon petit Billy ! Maman vient te sauver tout de suite !!
+
+[06435.251]
+Aller au château maintenant ne serait que dangereux... Laissez-nous faire.
+
+[06435.252]
+Dame
+
+[06435.253]
+Tiens bon, mon petit Billy ! Je t’envoie ces gens tout de suite !!
+
+[06435.254]
+Dame
+
+[06435.255]
+Ah ! Mon petit Billy chéri, pourvu que tu sois sain et sauf !!
+
+[06435.256]
+Dame
+
+[06435.257]
+Aah... mon petit Billy s’en sort-il bien, au château ?
+
+[06435.258]
+Grid
+
+[06435.259]
+... Aah... un champ de fleurs... tout blanc... Bientôt... j’y serai...
+
+[06435.260]
+Millie
+
+[06435.261]
+Cet imbécile de Grid a dilapidé l’argent du voyage, et voilà... On va vraiment mourir de froid...
+
+[06435.262]
+John
+
+[06435.263]
+... ............
+
+[06435.265]
+Pas de réponse. Et pas de conscience non plus, semble-t-il.
+
+[06435.266]
+Ginny
+
+[06435.267]
+J’aimerais bien rencontrer le père Noël.
+
+[06435.268]
+Saga
+
+[06435.269]
+Moi, je voudrais un piano... mais c’est trop demander, hein.
+
+[06435.271]
+On est... à Heidelberg ?
+
+[06435.273]
+On dirait. Nous voilà revenus, semble-t-il. À notre époque.
+
+[06435.275]
+Ouf, eh bien. Quelle histoire, hein, {NAME:01 00 00 00}.
+
+[06435.277]
+........
+
+[06435.279]
+........
+
+[06435.281]
+... B-bon, enfin. On est revenus sans casse, dix ans en arrière. Ça se fête, non ? Hein ?
+
+[06435.283]
+... Toi, alors. Tu pourrais sentir un peu l’ambiance, non ?
+
+[06435.285]
+La ferme ! Toi, si t’as fini, rentre vite chez...
+
+[06435.287]
+Eh, une minute !? Qu’est-ce que tu fais là, toi !?
+
+[06435.289]
+Ce que je fais là ? La lumière m’a emportée, et quand j’ai ouvert les yeux, j’étais ici.
+
+[06435.291]
+Pardon, {NAME:05 00 00 00} ! Je te renvoie tout de suite dans le futur, toi seule...
+
+[06435.293]
+Stop ! Moi aussi, j’ai décidé de vous suivre.
+
+[06435.295]
+... Quoi !?
+
+[06435.297]
+Elraine change l’histoire à sa guise pour que tout l’arrange, non ?
+
+[06435.299]
+Alors moi, je l’en empêcherai ! Je ne la laisserai pas faire ce qui lui chante !
+
+[06435.301]
+Mais cela revient, au bout du compte, à changer l’histoire aussi.
+
+[06435.303]
+Et d’ailleurs, toi qui n’es pas de cette époque, par ta seule présence ici, l’histoire est déjà changée.
+
+[06435.305]
+À ce compte-là, que vous soyez venus à notre époque, ce n’était pas gênant, ça aussi ?
+
+[06435.307]
+Ben, oui, c’est sûr, mais...
+
+[06435.309]
+Alors on est quittes. Inutile d’y revenir maintenant.
+
+[06435.311]
+Et donc, je vous suis ! C’est décidé, un point c’est tout !
+
+[06435.313]
+... Qu’en dis-tu, {NAME:01 00 00 00} ? À toi de décider.
+
+[06435.315]
+... D’accord. Si c’est ce que veut {NAME:05 00 00 00}, moi, ça me va.
+
+[06435.317]
+Alors c’est dit !
+
+[06435.319]
+... Bon sang, voilà qu’on se coltine une sacrée pipelette... grmbl grmbl...
+
+[06435.321]
+Tu as dit quelque chose, {NAME:03 00 00 00} !
+
+[06435.323]
+Quoi qu’il en soit !
+
+[06435.325]
+... Allons d’abord voir Woodrow.
+
+[06435.327]
+Il faut voir ce qu’est devenu le château de Heidelberg, après cela.
+
+[06435.329]
+Dis, {NAME:01 00 00 00}, il y a un parc par ici, on dirait.
+
+[06435.331]
+Un parc ?
+
+[06435.333]
+Tant qu’on y est, reposons-nous un peu. ... Tu veux ?
+
+[06435.335]
+Mais il ne va pas faire froid ? Si on se repose, autant retrouver les autres et aller au chaud...
+
+[06435.337]
+Tiens, tu comptes refuser mon invitation à un rendez-vous ?
+
+[06435.339]
+U-un rendez-vous !?
+
+[06435.341]
+Hi hi ! Allez, vite, vite !
+
+[06435.342]
+Millie
+
+[06435.343]
+Aah, quel froid ! Qu’est-ce que c’est que ce froid, à la fin !
+
+[06435.344]
+Grid
+
+[06435.345]
+N-ne pas pouvoir payer l’auberge... nous, les Ailes Noires... q-quelle honte......
+
+[06435.346]
+Grid
+
+[06435.347]
+...... Mais... peu à peu... ... on se sent... bien... ?
+
+[06435.348]
+Grid
+
+[06435.349]
+... Aah, je le vois... ...... un champ de fleurs... tout blanc... ... que c’est... beau...
+
+[06435.350]
+John
+
+[06435.351]
+Patron, faut pas dormir, pour sûr ! Si on dort... si on dort...
+
+[06435.352]
+John
+
+[06435.353]
+... Tiens ? Qu’est-ce qui se passe, si on dort ? J’essaie de dormir, pour voir, pour sûr...
+
+[06435.354]
+Saga
+
+[06435.355]
+Le père Noël, en vrai, il n’existe pas.
+
+[06435.356]
+Ginny
+
+[06435.357]
+Mais si, il existe ! Il m’a bien donné un cadeau !
+
+[06435.358]
+Ginny
+
+[06435.359]
+Il m’a donné des gants bien chauds, comme je l’avais demandé.
+
+[06435.360]
+Saga
+
+[06435.361]
+Ça, c’est sûrement monsieur le curé.
+
+[06435.362]
+Saga
+
+[06435.363]
+Pendant qu’on dort, c’est monsieur le curé qui dépose les cadeaux.
+
+[06435.364]
+Ginny
+
+[06435.365]
+C’est pas vrai ! C’est le père Noël qui vient !
+
+[06435.366]
+Saga
+
+[06435.367]
+Ginny, attends-moi !
+
+[06435.368]
+Patrouilleur
+
+[06435.369]
+Ici, le poste de la patrouille. En cas d’ennui, adressez-vous à nous.
+
+[06435.370]
+Patrouilleur
+
+[06435.371]
+Cela dit, Heidelberg est une ville paisible. Il n’y a pas une chance sur dix mille qu’un crime s’y commette : poursuivez votre visite l’esprit tranquille.
+
+[06435.372]
+Patrouilleur
+
+[06435.373]
+Ici, le poste de la patrouille.
+
+[06435.374]
+Patrouilleur
+
+[06435.375]
+La paix de la ville, c’est nous qui la gardons ! Poursuivez votre visite l’esprit tranquille.
+
+[06435.377]
+Mieux vaut ne pas quitter la ville pour l’instant.
+
+[06435.379]
+Dis, allons au parc.
+
+[06435.381]
+Ah oui, c’est vrai.
+
+[06435.382]
+Bon voyage.
+
+[06435.383]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06435.384]
+Voulez-vous passer la nuit ?
+
+[06435.386]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06435.387]
+Reposez-vous bien.
+
+[06435.388]
+Bonjour.
+
+[06435.389]
+Vous n’avez pas assez d’argent.
+
+[06435.390]
+Au plaisir de vous revoir.
+
+[06435.395]
+Obtenu : {16:25 CA}.
+
+[06435.397]
+Obtenu : {08:FF FF FF FF}.
+
+[06435.399]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06435.401]
+Il n’y a rien ici.
+

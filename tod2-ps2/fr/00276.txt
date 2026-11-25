@@ -1,0 +1,15 @@
+[00276.001]
+Iiih ! Là, à l’instant, une silhouette !
+
+[00276.002]
+Qu-qu-qu’est-ce qu’il y a, {NAME:02 00 00 00} ? Un fantôme ? C’est ça ? Dis-moi tout ! Ah non, ne dis rien ! Mais si c’est un fantôme, il faut fuir~, non~, ça n’existe pas ! Impossible...
+
+[00276.003]
+Du calme, tous les deux. {NAME:02 00 00 00}, ce que tu as vu, c’est ta propre ombre.
+
+[00276.004]
+... Hein ? O-oui, {NAME:14 27 00 00}-{NAME:04 00 00 00} a raison ! Les fantômes, ça ne peut pas exister, {NAME:02 00 00 00} ! V-vraiment, tout ce cirque pour rien !
+
+[00276.005]
+Ah, {NAME:03 00 00 00}, pas juste ! Je n’ai pas dit fantôme !
+

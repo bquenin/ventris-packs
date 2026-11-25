@@ -1,0 +1,18 @@
+[00230.001]
+Iiih !
+
+[00230.002]
+Qu-qu’est-ce qu’il y a, {NAME:02 00 00 00} !?
+
+[00230.003]
+À-à mes pieds, il y a un truc qui gigote... !
+
+[00230.004]
+Hein ? ...... Bah, c’est un ver de terre. Tu n’en as jamais vu, {NAME:02 00 00 00} ? Une terre où il y en a est riche, bonne pour les cultures. Tiens.
+
+[00230.005]
+N-ne me montre pas~ !
+
+[00230.006]
+Mômes
+

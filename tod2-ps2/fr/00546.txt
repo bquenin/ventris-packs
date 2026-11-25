@@ -1,0 +1,18 @@
+[00546.001]
+Les gens de ce monde ne doivent jamais voyager. Toutes les villes se ressemblent, et la nourriture aussi, à peu près.
+
+[00546.002]
+Avant tout, l’air du dehors leur est nocif, non ? Personne ne sort par plaisir.
+
+[00546.003]
+S’il y en avait, ce seraient des gens comme {NAME:03 00 00 00}.
+
+[00546.004]
+Hm~ ? Quoi, tu veux dire que je suis un aventurier ?
+
+[00546.005]
+Non. Largué par toutes : obligé de changer de ville.
+
+[00546.006]
+Ah bon.
+

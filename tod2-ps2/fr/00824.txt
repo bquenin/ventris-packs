@@ -1,0 +1,12 @@
+[00824.001]
+C’est quoi, la « chose terrible » qu’a trouvée {NAME:06 00 00 00} ?
+
+[00824.002]
+Va savoir... Mais c’est sûrement si ardu que même le cerveau du grand {NAME:03 00 00 00} n’y comprendrait rien.
+
+[00824.003]
+Dit par {NAME:03 00 00 00}, ça a l’air de rien du tout, c’est drôle.
+
+[00824.004]
+Tais-toi ! Au château !
+

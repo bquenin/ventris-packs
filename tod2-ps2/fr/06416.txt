@@ -1,0 +1,297 @@
+[06416.001]
+Neustadt : bazar et épicerie
+
+[06416.002]
+Neustadt
+
+[06416.003]
+Bazar et épicerie
+
+[06416.005]
+Des articles importés d’autres pays sont alignés. Beaucoup viennent d’Aigrette et de Heidelberg, semble-t-il.
+
+[06416.007]
+Un « congélateur à Lentilles », produit à succès de l’ancienne compagnie Oberon, est en marche. Une machine indispensable pour garder la viande fraîche, paraît-il.
+
+[06416.008]
+Épicier
+
+[06416.009]
+Des ingrédients bien frais, ça vous dit ?
+
+[06416.010]
+Merci bien !
+
+[06416.011]
+À bientôt.
+
+[06416.012]
+Épicier
+
+[06416.013]
+Bazar
+
+[06416.014]
+Bienvenuuue au bazar !
+
+[06416.015]
+Merciii.
+
+[06416.016]
+À bientôôt.
+
+[06416.017]
+Bazar
+
+[06416.018]
+Dame
+
+[06416.019]
+D’après la rumeur, qui offre des Lentilles à la déesse Atamoni voit exaucer n’importe quel vœu.
+
+[06416.020]
+Dame
+
+[06416.021]
+Je prierai pour redevenir noble, sachez-le.
+
+[06416.022]
+Dame
+
+[06416.023]
+Je ne puis rien soulever de plus lourd qu’une cuiller : je ne saurais travailler comme le vulgaire.
+
+[06416.024]
+Dame
+
+[06416.025]
+Tout ce que je puis faire, c’est prier pour que revienne le temps où l’on vivait sans rien faire.
+
+[06416.027]
+Allez, travaille, quoi...
+
+[06416.028]
+Dame
+
+[06416.029]
+Pourquoi faut-il que je peine à ce point ? Le monde marche sur la tête, sachez-le !
+
+[06416.031]
+Celle qui marche sur la tête, c’est toi, je crois... mais je n’ajouterai rien.
+
+[06416.032]
+Dame
+
+[06416.033]
+Sans argent, je ne puis acheter de quoi manger. Mais travailler, il n’en est pas question.
+
+[06416.034]
+Dame
+
+[06416.035]
+Recevoir l’aumône me répugne, mais avoir faim me répugne plus encore ! Que dois-je faire ?
+
+[06416.036]
+Dame
+
+[06416.037]
+Si les repas en deviennent si bons, travailler n’est pas si mal, sachez-le.
+
+[06416.038]
+Dame
+
+[06416.039]
+Une amie de mon temps de richesse a tant insisté que j’ai essayé de travailler, un tout petit peu.
+
+[06416.040]
+Dame
+
+[06416.041]
+Et quelle surprise ! Mes repas m’ont paru meilleurs qu’autrefois, sachez-le !
+
+[06416.043]
+Y a rien de meilleur qu’un repas après avoir sué au travail, hein.
+
+[06416.044]
+Chef
+
+[06416.045]
+{16:34 7C} : tu en prépares ?
+
+[06416.046]
+Chef
+
+[06416.047]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06416.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06416.050]
+Chef
+
+[06416.051]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06416.052]
+Chef
+
+[06416.053]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06416.054]
+Chef
+
+[06416.055]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06416.057]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06416.058]
+Chef
+
+[06416.059]
+Tu n’as pas assez d’argent.
+
+[06416.060]
+Chef
+
+[06416.061]
+Je te vends la recette : {16:34 7C}.
+
+[06416.062]
+Chef
+
+[06416.063]
+Bah, tant pis.
+
+[06416.064]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06416.065]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06416.066]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06416.067]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06416.068]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06416.069]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06416.070]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06416.071]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06416.072]
+Chef
+
+[06416.073]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06416.074]
+Chef
+
+[06416.075]
+Mais tu as les ingrédients.
+
+[06416.076]
+Chef
+
+[06416.077]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06416.079]
+{03:00 00 00 00}　Oui
+　Non
+
+[06416.080]
+Chef
+
+[06416.081]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06416.082]
+Chef
+
+[06416.083]
+Dommage. C’est vraiment délicieux...
+
+[06416.084]
+Chef
+
+[06416.085]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06416.086]
+Chef
+
+[06416.087]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06416.088]
+Chef
+
+[06416.089]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06416.091]
+Recette ramassée : {16:34 7C}.
+
+[06416.093]
+Recette apprise : {16:34 90}.
+
+[06416.094]
+Bon voyage.
+
+[06416.095]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06416.096]
+Voulez-vous passer la nuit ?
+
+[06416.098]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06416.099]
+Reposez-vous bien.
+
+[06416.100]
+Bonjour.
+
+[06416.101]
+Vous n’avez pas assez d’argent.
+
+[06416.102]
+Au plaisir de vous revoir.
+
+[06416.107]
+Obtenu : {16:25 DE}.
+
+[06416.109]
+Obtenu : {08:FF FF FF FF}.
+
+[06416.111]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06416.113]
+Il n’y a rien ici.
+

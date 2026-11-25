@@ -1,0 +1,302 @@
+[06314.001]
+Orphelinat Dunamis
+
+[06314.002]
+Orphelinat Dunamis
+
+[06314.004]
+Je suis rentré, maman. Pardon pour le retard...
+
+[06314.006]
+D-dis, en fait, j’ai quelque chose à te dire...
+
+[06314.007]
+Rutee
+
+[06314.008]
+...
+......
+
+[06314.010]
+M-maman... ?
+
+[06314.011]
+Rutee
+
+[06314.012]
+...
+......
+
+[06314.014]
+Écoute-moi, maman. J’ai quelque chose à te dire !
+
+[06314.016]
+... !
+
+[06314.017]
+Rutee
+
+[06314.018]
+Tu as vu l’heure qu’il est !
+
+[06314.019]
+Rutee
+
+[06314.020]
+Je t’avais dit que l’aventure, c’était encore bien trop tôt pour toi... Tout le monde s’inquiétait !
+
+[06314.022]
+Je sais que j’ai eu tort de partir aux ruines sans rien dire. Mais grâce à ça, j’ai compris.
+
+[06314.024]
+Maman ! Moi, avec {NAME:03 00 00 00}, je...
+
+[06314.025]
+Rutee
+
+[06314.026]
+Ça suffit ! Pour aujourd’hui, va te coucher !
+
+[06314.028]
+Non ! Écoute-moi pour de bon, maman !
+
+[06314.029]
+Rutee
+
+[06314.030]
+Ça suffit, maintenant !!
+
+[06314.031]
+Rutee
+
+[06314.032]
+... !
+
+[06314.034]
+... Je veux devenir comme papa ! Un grand héros, comme papa !! Alors... !!
+
+[06314.035]
+Rutee
+
+[06314.036]
+...
+
+[06314.038]
+Maman...
+
+[06314.040]
+Ça va, {NAME:01 00 00 00} ?
+
+[06314.042]
+... Oui.
+
+[06314.044]
+C’était pas le bon jour. On lui en reparlera demain.
+
+[06314.046]
+Allez, t’en fais pas. Si tu lui parles comme il faut, elle comprendra que t’es sérieux, c’est sûr.
+
+[06314.048]
+... Oui.
+
+[06314.050]
+Pour aujourd’hui, va dormir. Avec tout ce qui s’est passé, tu dois être crevé.
+
+[06314.052]
+Qu’est-ce que tu fabriques, {NAME:01 00 00 00} ? Tu vas parler à Rutee, non ?
+
+[06314.053]
+Rutee
+
+[06314.054]
+... Et là, quand sa femme a poussé un cri, il a renversé le sac de farine : tout blanc, du sommet du crâne au bout des orteils !
+
+[06314.055]
+Rutee
+
+[06314.056]
+Ah, c’était drôle, mais drôle...
+
+[06314.057]
+Stahn
+
+[06314.058]
+Ça, c’est bien Gazelle. Ahahaha !
+
+[06314.060]
+........
+................
+
+[06314.062]
+Papa, maman, vous avez un instant ? J’ai quelque chose à vous dire.
+
+[06314.063]
+Rutee
+
+[06314.064]
+Qu’est-ce qu’il y a ? Te voilà bien solennel, tout d’un coup.
+
+[06314.066]
+Vous savez, je crois que je suis vraiment heureux. Entouré de papa, de maman et des petits, à passer de bonnes journées.
+
+[06314.067]
+Rutee
+
+[06314.068]
+... Et donc ?
+
+[06314.070]
+Je le sais bien, alors dire ça, c’est égoïste de ma part, mais...
+
+[06314.072]
+J’ai envie de voyager, moi. De parcourir le vaste monde sur mes deux jambes...
+
+[06314.073]
+Rutee
+
+[06314.074]
+Voyager !?
+
+[06314.075]
+Rutee
+
+[06314.076]
+Qu’est-ce que tu racontes ! C’est encore bien trop tôt pour toi !
+
+[06314.078]
+C’est pas vrai.
+
+[06314.080]
+Toi, maman, à mon âge, tu étais déjà une vraie chasseuse de Lentilles, non ?
+
+[06314.082]
+Et puis j’ai aussi le sang de papa dans les veines.
+
+[06314.083]
+Rutee
+
+[06314.084]
+C’est bien pour ça que je m’inquiète.
+
+[06314.085]
+Rutee
+
+[06314.086]
+Bref, non, c’est non ! Et toi, ne reste pas muet, dis quelque chose !
+
+[06314.087]
+Stahn
+
+[06314.088]
+........
+................
+
+[06314.090]
+Inutile de m’en empêcher. En fait, mes affaires sont déjà prêtes.
+
+[06314.092]
+Si vous refusez, je pars comme ça.
+
+[06314.093]
+Rutee
+
+[06314.094]
+{NAME:01 00 00 00}, toi...
+
+[06314.095]
+Stahn
+
+[06314.096]
+Je n’ai pas l’intention de t’en empêcher. Vas-y.
+
+[06314.097]
+Rutee
+
+[06314.098]
+Hé, Stahn !
+
+[06314.100]
+Papa... !
+
+[06314.101]
+Stahn
+
+[06314.102]
+Mais à une condition.
+
+[06314.103]
+Stahn
+
+[06314.104]
+Pendant ce voyage, une seule suffira : trouve la chose qui te sera irremplaçable.
+
+[06314.106]
+Une chose irremplaçable...
+
+[06314.107]
+Stahn
+
+[06314.108]
+Si tu en es capable, je te regarderai partir sans rien dire.
+
+[06314.110]
+Compris... Merci, papa.
+
+[06314.111]
+Rutee
+
+[06314.112]
+Aah, c’est idiot. Du coup, je suis la seule à passer pour une mégère.
+
+[06314.113]
+Rutee
+
+[06314.114]
+... C’est bon. Si Stahn le dit, je ne m’y opposerai pas non plus.
+
+[06314.115]
+Rutee
+
+[06314.116]
+Fais attention à toi, {NAME:01 00 00 00}...
+
+[06314.118]
+Merci, maman.
+
+[06314.119]
+Bon voyage.
+
+[06314.120]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06314.121]
+Voulez-vous passer la nuit ?
+
+[06314.123]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06314.124]
+Reposez-vous bien.
+
+[06314.125]
+Bonjour.
+
+[06314.126]
+Vous n’avez pas assez d’argent.
+
+[06314.127]
+Au plaisir de vous revoir.
+
+[06314.132]
+Obtenu : {16:25 D2}.
+
+[06314.134]
+Obtenu : {08:FF FF FF FF}.
+
+[06314.136]
+Trouvé : {16:25 DA}, mais vous n’avez plus de place.
+
+[06314.138]
+Il n’y a rien ici.
+

@@ -1,0 +1,82 @@
+[06715.001]
+Œuf de Dieu : niveau inférieur
+
+[06715.002]
+Œuf de Dieu : niveau inférieur
+
+[06715.004]
+Se téléporter à l’entrée de « l’Œuf de Dieu » ?
+
+[06715.006]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06715.008]
+L’entrée et ce point de sauvegarde sont maintenant reliés : vous pouvez vous téléporter de l’un à l’autre.
+
+[06715.009]
+Le dernier marchand
+
+[06715.010]
+Voulez-vous que je vous vende ceci ({16:25 74}) pour {0B:01 00 00 00}{14:35 70}{0B:00 00 00 00} Gald ?
+
+[06715.012]
+{03:00 00 00 00}　Acheter　
+　Un autre objet　
+　Ne rien acheter　
+
+[06715.013]
+Tenez, voici.
+
+[06715.014]
+Tu n’as pas assez d’argent.
+
+[06715.015]
+Eh bien, alors...
+
+[06715.016]
+Je n’ai plus rien à proposer.
+
+[06715.017]
+À bientôt.
+
+[06715.018]
+Je suis navré... mais je ne peux rien pour vous, semble-t-il.
+
+[06715.019]
+Bon voyage.
+
+[06715.020]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06715.021]
+Voulez-vous passer la nuit ?
+
+[06715.023]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06715.024]
+Reposez-vous bien.
+
+[06715.025]
+Bonjour.
+
+[06715.026]
+Vous n’avez pas assez d’argent.
+
+[06715.027]
+Au plaisir de vous revoir.
+
+[06715.032]
+Obtenu : {16:27 06}.
+
+[06715.034]
+Obtenu : {08:FF FF FF FF}.
+
+[06715.036]
+Trouvé : {16:27 0E}, mais vous n’avez plus de place.
+
+[06715.038]
+Il n’y a rien ici.
+

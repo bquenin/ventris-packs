@@ -1,0 +1,15 @@
+[00102.001]
+Haa~. Encore un bon moment sans la cuisine de Rutee~. Ce « poêlé de viande de bête », j’aurais dû mieux le savourer.
+
+[00102.002]
+Ça, maman le tient d’une vieille amie, non ?
+
+[00102.003]
+Oui, je sais. Une certaine Mary, hein ? Bonne cuisinière, et une vraie beauté en plus, paraît-il. J’aimerais la rencontrer, tiens♪
+
+[00102.004]
+Mais il paraît qu’elle est plus âgée que maman : ça doit être une dame mûre, maintenant.
+
+[00102.005]
+T’y connais rien, {NAME:01 00 00 00}. Une vraie beauté embellit avec l’âge. Enfin, un gamin peut pas comprendre.
+

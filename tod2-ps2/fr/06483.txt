@@ -1,0 +1,91 @@
+[06483.001]
+Cherik
+
+[06483.002]
+Cherik
+
+[06483.004]
+Des marchandises sont entassées. L’endroit sert d’entrepôt, semble-t-il.
+
+[06483.006]
+Obtenu : {08:12 00 00 00}.
+
+[06483.007]
+Homme
+
+[06483.008]
+Aah, du travail de force pour une paie à l’heure de misère, c’est rude !
+
+[06483.010]
+Être payé, c’est déjà ça, non ? Les soldats de l’armée terrestre travaillent tous pour rien.
+
+[06483.011]
+Homme
+
+[06483.012]
+À Cherik, il n’y a que des petits boulots de déchargement, comme travail.
+
+[06483.013]
+Homme
+
+[06483.014]
+Il y a moins de monde chaque année : Cherik, c’est peut-être fichu.
+
+[06483.015]
+Homme
+
+[06483.016]
+Aah, du travail de force pour une paie à l’heure de misère, c’est rude !
+
+[06483.018]
+Te plains pas. Du côté de Darilsheid, du travail, il n’y en a pas du tout, tu sais ?
+
+[06483.019]
+Homme
+
+[06483.020]
+À Cherik, il n’y a que des petits boulots de déchargement, comme travail.
+
+[06483.021]
+Homme
+
+[06483.022]
+Il y a moins de monde chaque année : Cherik, c’est peut-être fichu.
+
+[06483.023]
+Bon voyage.
+
+[06483.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06483.025]
+Voulez-vous passer la nuit ?
+
+[06483.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06483.028]
+Reposez-vous bien.
+
+[06483.029]
+Bonjour.
+
+[06483.030]
+Vous n’avez pas assez d’argent.
+
+[06483.031]
+Au plaisir de vous revoir.
+
+[06483.036]
+Obtenu : {16:25 BA}.
+
+[06483.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06483.040]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06483.042]
+Il n’y a rien ici.
+

@@ -1,0 +1,92 @@
+[06533.001]
+Vangelo, la Cité d’azur
+
+[06533.002]
+Vangelo, la Cité d’azur
+
+[06533.003]
+Vangelo, la Cité d’azur
+
+[06533.004]
+Servante férue d’éclat
+
+[06533.005]
+Pour {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lentilles, ça ne te dirait pas de savoir comment aller à Speranza, la Cité écarlate ?
+
+[06533.007]
+　Je veux savoir　
+　Je me débrouille　
+
+[06533.008]
+Servante férue d’éclat
+
+[06533.009]
+Hé hé... Merci bien♪
+
+[06533.010]
+Servante férue d’éclat
+
+[06533.011]
+Pour aller à Speranza, traverse les sables au sud, puis aussitôt, va tout droit sur ta droite.
+
+[06533.012]
+Servante férue d’éclat
+
+[06533.013]
+Passe le gué, franchis le désert, et continue tout droit en gardant la montagne sur ta droite.
+
+[06533.014]
+Servante férue d’éclat
+
+[06533.015]
+Coupe à travers la forêt qui suit, et te voilà bel et bien à Speranza.
+
+[06533.016]
+Servante férue d’éclat
+
+[06533.017]
+... Hé, tu n’en as pas assez !
+
+[06533.018]
+Servante férue d’éclat
+
+[06533.019]
+Si tu erres sans fin, ce ne sera pas ma faute.
+
+[06533.020]
+Bon voyage.
+
+[06533.021]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06533.022]
+Voulez-vous passer la nuit ?
+
+[06533.024]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06533.025]
+Reposez-vous bien.
+
+[06533.026]
+Bonjour.
+
+[06533.027]
+Vous n’avez pas assez d’argent.
+
+[06533.028]
+Au plaisir de vous revoir.
+
+[06533.033]
+Obtenu : {16:25 FE}.
+
+[06533.035]
+Obtenu : {08:FF FF FF FF}.
+
+[06533.037]
+Trouvé : {16:26 06}, mais vous n’avez plus de place.
+
+[06533.039]
+Il n’y a rien ici.
+

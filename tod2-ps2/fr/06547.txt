@@ -1,0 +1,61 @@
+[06547.001]
+Speranza : centre de soins
+
+[06547.002]
+Speranza, la Cité écarlate
+
+[06547.003]
+Centre de soins
+
+[06547.004]
+Fillette
+
+[06547.005]
+Décidément, qu’on est bien sous le dôme. Sortir ? C’est impensable, voyons.
+
+[06547.006]
+Fillette
+
+[06547.007]
+Qu’on est bien sous le dôme. Sortir ? C’est impensable, voyons.
+
+[06547.009]
+Rester là-dedans toute ma vie, moi, ça ne me dirait rien...
+
+[06547.010]
+Bon voyage.
+
+[06547.011]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06547.012]
+Voulez-vous passer la nuit ?
+
+[06547.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06547.015]
+Reposez-vous bien.
+
+[06547.016]
+Bonjour.
+
+[06547.017]
+Vous n’avez pas assez d’argent.
+
+[06547.018]
+Au plaisir de vous revoir.
+
+[06547.023]
+Obtenu : {16:25 BA}.
+
+[06547.025]
+Obtenu : {08:FF FF FF FF}.
+
+[06547.027]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06547.029]
+Il n’y a rien ici.
+

@@ -1,0 +1,305 @@
+[06582.001]
+Radisrol : chambre-bureau de Dymlos
+
+[06582.002]
+Radisrol
+
+[06582.003]
+Chambre-bureau de Dymlos
+
+[06582.005]
+Vous découvrez de l’alcool habilement caché. Obtenu : {08:0C 00 00 00} et {08:0B 00 00 00}, trois de chaque.
+
+[06582.006]
+Dymlos
+
+[06582.007]
+... Moi qui les gardais pour une bonne occasion...
+
+[06582.009]
+Il y a bien d’autres effets personnels, mais épargnons-le : n’emportons rien de plus.
+
+[06582.011]
+Des cartes et des documents sur les positions militaires sont rassemblés ici.
+
+[06582.013]
+Dans la pile de documents, vous trouvez des livres : « Une vie conjugale heureuse », « L’art de raisonner un vieillard têtu », « Cent façons de réprimander ses subordonnés ».
+
+[06582.015]
+Le bureau de Dymlos. Rien de superflu n’y est posé.
+
+[06582.017]
+Le bureau de Dymlos. Des papiers en cours de rédaction s’y alignent : bons militaires, projets d’opérations...
+
+[06582.019]
+Le lit de Dymlos, d’une grande simplicité. Il doit avoir le même que les simples soldats.
+
+[06582.021]
+Dymlos, il faut qu’on parle.
+
+[06582.022]
+Dymlos
+
+[06582.023]
+... Je suis fatigué. Plus tard.
+
+[06582.025]
+Dymlos ! Allons chercher Atwight !
+
+[06582.026]
+Dymlos
+
+[06582.027]
+Ne me faites pas répéter cent fois la même chose. Pour la recherche d’Atwight, la décision de l’état-major...
+
+[06582.029]
+Ça n’a rien à voir ! Atwight, c’est celle que vous aimez, non !?
+
+[06582.030]
+Dymlos
+
+[06582.031]
+... Cette {NAME:06 00 00 00}. Toujours à se mêler de ce qui...
+
+[06582.032]
+Dymlos
+
+[06582.033]
+... C’est vrai : Atwight est celle que j’aime. Mais cela et l’affaire présente sont...
+
+[06582.035]
+Sans rapport ? Sûrement pas. Moi, en tout cas, j’ai l’impression que vous vous y accrochez.
+
+[06582.037]
+Si vous ne pouvez pas bouger parce que c’est Atwight qui a été prise, c’est justement ça, confondre le service et les sentiments, non ?
+
+[06582.038]
+Dymlos
+
+[06582.039]
+........
+................
+
+[06582.040]
+Soldat
+
+[06582.041]
+Mon général !
+
+[06582.042]
+Dymlos
+
+[06582.043]
+Qu’y a-t-il ? Quel vacarme.
+
+[06582.044]
+Soldat
+
+[06582.045]
+C-ceci !
+
+[06582.046]
+Soldat
+
+[06582.047]
+Je le reconnais, moi aussi. C’est bien le bracelet du colonel Atwight, n’est-ce pas !?
+
+[06582.048]
+Dymlos
+
+[06582.049]
+... D’où vient ceci !?
+
+[06582.050]
+Soldat
+
+[06582.051]
+Un soldat en patrouille l’a trouvé. Il était devant la grande porte du camp, paraît-il. Et il y avait une lettre...
+
+[06582.052]
+Soldat
+
+[06582.053]
+Rien que ces mots : « Je t’attends à la Spiral Cave »...
+
+[06582.054]
+Dymlos
+
+[06582.055]
+... Bien. Vous pouvez disposer.
+
+[06582.056]
+Soldat
+
+[06582.057]
+Mon général, euh...
+
+[06582.058]
+Dymlos
+
+[06582.059]
+Vous pouvez disposer.
+
+[06582.061]
+Dymlos, c’est un défi de Barbatos, à coup sûr !
+
+[06582.062]
+Dymlos
+
+[06582.063]
+... Et aussi un piège tendu par lui. Je ne puis m’y jeter aussi facilement.
+
+[06582.065]
+Piège ou pas, si on n’y va pas, on ne sauvera pas Atwight !
+
+[06582.066]
+Dymlos
+
+[06582.067]
+Attendez, où allez-vous !?
+
+[06582.069]
+Sauver Atwight !
+
+[06582.070]
+Dymlos
+
+[06582.071]
+Je vous interdis d’agir de votre chef ! Quelle qu’en soit la forme, vous êtes vous aussi des soldats de cette armée, et...
+
+[06582.073]
+Alors on démissionne !
+
+[06582.074]
+Dymlos
+
+[06582.075]
+Qu... !
+
+[06582.077]
+Ce qui va se passer ne vous concerne pas, Dymlos. C’est nous qui le faisons de notre propre chef.
+
+[06582.079]
+H-hé, {NAME:01 00 00 00} !
+
+[06582.080]
+Dymlos
+
+[06582.081]
+... Dites-moi une seule chose.
+
+[06582.082]
+Dymlos
+
+[06582.083]
+Pour vous, je ne suis rien, et Atwight non plus : de parfaits étrangers... Alors pourquoi aller jusque-là ?
+
+[06582.085]
+Je crois que {NAME:01 00 00 00} ne peut pas regarder sans rien faire quelqu’un qui va perdre un être cher.
+
+[06582.086]
+Dymlos
+
+[06582.087]
+Un être cher...
+
+[06582.089]
+{NAME:01 00 00 00} est comme ça. Droit, presque trop droit...
+
+[06582.091]
+... Quand on est avec lui, cette droiture est parfois dure à supporter...
+
+[06582.093]
+Mais c’est justement pour cela qu’on peut y croire : avec lui, tout ira bien.
+
+[06582.094]
+Dymlos
+
+[06582.095]
+Mon jugement, ce jour-là, n’était nullement une erreur. Ce n’était pas... une erreur.
+
+[06582.096]
+Dymlos
+
+[06582.097]
+De cette opération dépend le sort de notre armée terrestre... et, par là, celui du monde.
+
+[06582.098]
+Dymlos
+
+[06582.099]
+Si nous ne parvenons pas à délivrer l’équipe de conception de Belcrant, alors...
+
+[06582.101]
+Dymlos...
+
+[06582.102]
+Dymlos
+
+[06582.103]
+De cette opération dépend le sort de notre armée terrestre... et, par là, celui du monde. L’échec n’est pas permis... en aucun cas.
+
+[06582.104]
+Dymlos
+
+[06582.105]
+Vous avez raison : je suis un lâche. Mais j’ai mes devoirs de général de division. Et des hommes à protéger.
+
+[06582.107]
+Atwight n’en fait pas partie, elle ?
+
+[06582.108]
+Dymlos
+
+[06582.109]
+Je ne puis mettre en péril beaucoup de mes hommes pour la seule Atwight... C’est cela, une armée.
+
+[06582.110]
+Dymlos
+
+[06582.111]
+... La Spiral Cave...
+
+[06582.112]
+Dymlos
+
+[06582.113]
+Pas de dialogue défini pour ce drapeau.
+
+[06582.114]
+Bon voyage.
+
+[06582.115]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06582.116]
+Voulez-vous passer la nuit ?
+
+[06582.118]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06582.119]
+Reposez-vous bien.
+
+[06582.120]
+Bonjour.
+
+[06582.121]
+Vous n’avez pas assez d’argent.
+
+[06582.122]
+Au plaisir de vous revoir.
+
+[06582.127]
+Obtenu : {16:25 BA}.
+
+[06582.129]
+Obtenu : {08:FF FF FF FF}.
+
+[06582.131]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06582.133]
+Il n’y a rien ici.
+

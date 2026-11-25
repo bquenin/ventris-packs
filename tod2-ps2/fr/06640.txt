@@ -1,0 +1,154 @@
+[06640.001]
+Ruines de la base terrestre
+
+[06640.002]
+Ruines de la base terrestre
+
+[06640.003]
+Ruines de la base terrestre
+
+[06640.004]
+Ruines de la base terrestre
+
+[06640.005]
+Soldat
+
+[06640.006]
+Halte ! Au-delà, les lieux sont sous l’autorité du royaume !
+
+[06640.007]
+Soldat
+
+[06640.008]
+Nul n’entre sans autorisation ! Retirez-vous sur-le-champ !
+
+[06640.010]
+Nous agissons sur ordre du roi Woodrow. Voici la lettre.
+
+[06640.011]
+Soldat
+
+[06640.012]
+C-c’est... ! Veuillez m’excuser !
+
+[06640.014]
+Fiouu~♪ Ça, c’est l’effet d’un ordre royal.
+
+[06640.016]
+Ne fais pas le fou, tu te donnes en spectacle.
+
+[06640.018]
+Au fait, l’Ixifosler est-il toujours ici ?
+
+[06640.019]
+Soldat
+
+[06640.020]
+Il y est, certes, mais... le hangar est scellé, et l’on ne peut pas y entrer.
+
+[06640.021]
+Soldat
+
+[06640.022]
+Notre mission est de garder l’Ixifosler. On ne nous a pas appris comment lever le sceau.
+
+[06640.024]
+Entendu. Nous nous chargeons du reste.
+
+[06640.026]
+Dis, {NAME:04 00 00 00}, c’est quoi, l’Ixifosler ?
+
+[06640.028]
+Tu verras sur place. Suis-moi, c’est tout.
+
+[06640.029]
+Soldat
+
+[06640.030]
+Dans la salle scellée, il y avait une stèle où semble inscrite la manière de lever le sceau.
+
+[06640.031]
+Soldat
+
+[06640.032]
+Si vous alliez l’examiner ?
+
+[06640.033]
+Soldat
+
+[06640.034]
+Passez librement. Rien à signaler.
+
+[06640.035]
+Soldat
+
+[06640.036]
+Ces ruines sont sous la garde du royaume de Phandaria. Vous pouvez entrer, mais ne saccagez rien à l’intérieur.
+
+[06640.037]
+Soldat
+
+[06640.038]
+Je le répéterai autant qu’il le faudra : au-delà, les lieux sont sous l’autorité du royaume !
+
+[06640.039]
+Soldat
+
+[06640.040]
+Nul n’entre sans autorisation ! Retirez-vous sur-le-champ !
+
+[06640.041]
+Soldat
+
+[06640.042]
+Halte ! Au-delà, les lieux sont sous l’autorité du royaume !
+
+[06640.043]
+Soldat
+
+[06640.044]
+Nul n’entre sans autorisation ! Retirez-vous sur-le-champ !
+
+[06640.045]
+Soldat
+
+[06640.046]
+Nul n’entre sans autorisation ! Retirez-vous sur-le-champ !
+
+[06640.047]
+Bon voyage.
+
+[06640.048]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06640.049]
+Voulez-vous passer la nuit ?
+
+[06640.051]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06640.052]
+Reposez-vous bien.
+
+[06640.053]
+Bonjour.
+
+[06640.054]
+Vous n’avez pas assez d’argent.
+
+[06640.055]
+Au plaisir de vous revoir.
+
+[06640.060]
+Obtenu : {16:25 BA}.
+
+[06640.062]
+Obtenu : {08:FF FF FF FF}.
+
+[06640.064]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06640.066]
+Il n’y a rien ici.
+

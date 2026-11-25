@@ -1,0 +1,115 @@
+[06319.001]
+Orphelinat Dunamis
+
+[06319.002]
+Orphelinat Dunamis
+
+[06319.004]
+Qu’est-ce que tu fabriques, {NAME:01 00 00 00} ? Tu vas parler à Rutee, non ?
+
+[06319.006]
+Ici, devant l’orphelinat, la nuit.
+
+[06319.008]
+On dirait que Rutee est encore debout.
+
+[06319.010]
+...
+
+[06319.012]
+On fait quoi, {NAME:01 00 00 00} ? Si t’as du mal à parler du voyage, je peux le faire à ta place...
+
+[06319.014]
+Non, {NAME:03 00 00 00}. Je le dirai moi-même. Je crois... qu’il le faut.
+
+[06319.016]
+... T’as raison, pardon. Bon ! Alors on y va !
+
+[06319.017]
+Rutee
+
+[06319.018]
+Tu sais, aujourd’hui, j’ai encore giflé {NAME:01 00 00 00}... Mais cette fois, il n’était pas comme d’habitude.
+
+[06319.019]
+Rutee
+
+[06319.020]
+Figure-toi que ce garçon a voulu me tenir tête. À moi !
+
+[06319.021]
+Rutee
+
+[06319.022]
+Il veut devenir un héros comme toi, qu’il dit. ... C’est bien ton fils.
+
+[06319.023]
+Rutee
+
+[06319.024]
+Aah, si seulement il me ressemblait un peu plus. Il ne dirait pas de bêtises pareilles...
+
+[06319.025]
+Rutee
+
+[06319.026]
+... Ah, tu viens de rire, là, non ? Hi hi !
+
+[06319.027]
+Rutee
+
+[06319.028]
+Ne t’inquiète pas. Je suis prête... enfin, je crois.
+
+[06319.029]
+Rutee
+
+[06319.030]
+Demain, quand il viendra se confier, alors moi...
+
+[06319.032]
+Il faut que je rentre à l’orphelinat...
+
+[06319.034]
+Il faut que je parle à maman...
+
+[06319.036]
+Il faut que je parle à maman...
+
+[06319.045]
+Bon voyage.
+
+[06319.046]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06319.047]
+Voulez-vous passer la nuit ?
+
+[06319.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06319.050]
+Reposez-vous bien.
+
+[06319.051]
+Bonjour.
+
+[06319.052]
+Vous n’avez pas assez d’argent.
+
+[06319.053]
+Au plaisir de vous revoir.
+
+[06319.058]
+Obtenu : {16:27 CA}.
+
+[06319.060]
+Obtenu : {08:FF FF FF FF}.
+
+[06319.062]
+Trouvé : {16:27 D2}, mais vous n’avez plus de place.
+
+[06319.064]
+Il n’y a rien ici.
+

@@ -1,0 +1,52 @@
+[06330.001]
+Ruines de Laguna
+
+[06330.002]
+Ruines de Laguna
+
+[06330.003]
+On doit pouvoir passer par-dessus le rocher.
+
+[06330.004]
+Rocher déplacé.
+
+[06330.006]
+Il y a un creux où quelque chose semble pouvoir s’emboîter.
+
+[06330.007]
+Bon voyage.
+
+[06330.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06330.009]
+Voulez-vous passer la nuit ?
+
+[06330.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06330.012]
+Reposez-vous bien.
+
+[06330.013]
+Bonjour.
+
+[06330.014]
+Vous n’avez pas assez d’argent.
+
+[06330.015]
+Au plaisir de vous revoir.
+
+[06330.020]
+Obtenu : {16:25 BA}.
+
+[06330.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06330.024]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06330.026]
+Il n’y a rien ici.
+

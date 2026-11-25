@@ -1,0 +1,9 @@
+[00570.001]
+Dycroft... Qui eût cru que j’y viendrais de cette façon...
+
+[00570.002]
+Qu’est-ce que tu as, {NAME:04 00 00 00} ? Tu marmonnes depuis tout à l’heure...
+
+[00570.003]
+Rien. En avant, vite !
+

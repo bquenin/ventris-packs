@@ -1,0 +1,54 @@
+[06506.001]
+Trash Mountain
+
+[06506.002]
+Trash Mountain
+
+[06506.003]
+Obtenu : {16:34 8C} x{0B:01 00 00 00}{14:34 88}{0B:00 00 00 00}.
+
+[06506.005]
+Trouvé : {16:34 8C} x{0B:01 00 00 00}{14:34 90}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06506.007]
+{16:34 8C} x{0B:01 00 00 00}{14:34 90} : vous ne pouvez pas tout porter.
+・En prendre {14:34 88}, en jeter {14:34 94}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+
+[06506.009]
+Bon voyage.
+
+[06506.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06506.011]
+Voulez-vous passer la nuit ?
+
+[06506.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06506.014]
+Reposez-vous bien.
+
+[06506.015]
+Bonjour.
+
+[06506.016]
+Vous n’avez pas assez d’argent.
+
+[06506.017]
+Au plaisir de vous revoir.
+
+[06506.022]
+Obtenu : {16:26 A6}.
+
+[06506.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06506.026]
+Trouvé : {16:26 AE}, mais vous n’avez plus de place.
+
+[06506.028]
+Il n’y a rien ici.
+

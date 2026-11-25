@@ -1,0 +1,597 @@
+[06745.001]
+Aigrette : équipement
+
+[06745.002]
+Aigrette
+
+[06745.003]
+Équipement
+
+[06745.004]
+Marchand d’armes
+
+[06745.005]
+Bienvenue. Ici, nous vendons des armes.
+
+[06745.006]
+Merci beaucoup.
+
+[06745.007]
+Revenez nous voir.
+
+[06745.008]
+Armes
+
+[06745.009]
+Marchand d’armures
+
+[06745.010]
+Bienvenue. Ici, nous vendons des armures.
+
+[06745.011]
+Merci beaucoup.
+
+[06745.012]
+Revenez nous voir.
+
+[06745.013]
+Armures
+
+[06745.014]
+Bon voyage.
+
+[06745.015]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06745.016]
+Voulez-vous passer la nuit ?
+
+[06745.018]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06745.019]
+Reposez-vous bien.
+
+[06745.020]
+Bonjour.
+
+[06745.021]
+Vous n’avez pas assez d’argent.
+
+[06745.022]
+Au plaisir de vous revoir.
+
+[06745.027]
+Obtenu : {16:25 BA}.
+
+[06745.029]
+Obtenu : {08:FF FF FF FF}.
+
+[06745.031]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06745.033]
+Il n’y a rien ici.
+
+[06745.034]
+Vétéran
+
+[06745.035]
+Bleu
+
+[06745.037]
+Leur sujet semble être : « l’attaque à l’arme ». Écouter ?
+
+[06745.038]
+Bon, nous aussi, on va se lancer dans l’aventure. Tu as les bases ?
+
+[06745.039]
+Évidemment, quoi ! J’attaque à l’arme à fond avec {09:45 00 00 00} !!
+
+[06745.040]
+Certes, mais combine-le avec les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00}, et tu obtiens quatre sortes d’attaques !
+
+[06745.041]
+Commence par les essayer vraiment plusieurs fois, pour apprendre leur vitesse et leur portée.
+
+[06745.042]
+Et pour attaquer plusieurs fois de suite, on fait comment ?
+
+[06745.043]
+Il suffit de rappuyer sur {09:45 00 00 00} pendant l’attaque. Et bien sûr, les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00} changent la façon d’attaquer.
+
+[06745.044]
+Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge bleue{04:07 00 00 00} en combat.) Si elle tombe trop bas, mieux vaut cesser d’attaquer et attendre qu’elle remonte.
+
+[06745.045]
+Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
+
+[06745.046]
+Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+
+[06745.047]
+Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
+
+[06745.049]
+Leur sujet semble être : « les artes ». Écouter ?
+
+[06745.050]
+Alors, maintenant que tu as appris des artes, ta stratégie a gagné en ampleur, non ?
+
+[06745.051]
+Les artes {09:46 00 00 00}, c’est costaud, mais les TP filent tout de suite, quoi. Ils remontent tout seuls en combat, mais je suis encore faiblard, alors c’est lent.
+
+[06745.052]
+Certes. C’est là que comptent les attaques normales avec {09:45 00 00 00}. Chaque attaque normale qui touche rend 1 TP.
+
+[06745.053]
+Alors attaques normales {09:45 00 00 00} à fond, quoi !
+
+[06745.054]
+... Garder des TP en trop, c’est du gâchis aussi. L’important est de bien s’en servir : lancer un sort pour laisser remonter les SP, par exemple.
+
+[06745.055]
+Les TP remontent aussi un peu quand on abat un ennemi. Et si on en abat plusieurs d’un coup pendant un enchaînement, on en récupère davantage.
+
+[06745.057]
+Leur sujet semble être : « les enchantements ». Écouter ?
+
+[06745.058]
+J’ai appris un enchantement aussi.
+
+[06745.059]
+... Et c’est quoi, un enchantement ?
+
+[06745.060]
+Hm. Pour faire simple : « le pouvoir de régler à son goût les artes et les sorts qu’on connaît ».
+
+[06745.061]
+D’abord, sers-t’en sans cesse pour faire monter le nombre d’usages ! Tu pourras alors équiper toutes sortes d’enchantements.
+
+[06745.062]
+Alors j’utilise un seul arte à fond, quoi.
+
+[06745.063]
+C’est une méthode. Mais on ne change pas d’enchantement en plein combat. Mettre des enchantements variés sur beaucoup d’artes n’est pas mal non plus.
+
+[06745.064]
+Lancer un sort qui affaiblit l’ennemi, puis foncer l’arme au poing... En maîtrisant artes et sorts, la stratégie s’élargit. ... On peut aussi se compléter entre compagnons.
+
+[06745.065]
+Au fait, retirer un enchantement équipé rend les usages : tu as tout intérêt à faire des essais.
+
+[06745.066]
+Mon arte préféré touche pas souvent, alors pour compenser, je lui mets un enchantement de précision.
+
+[06745.067]
+... Dans ton cas, tu frappes simplement dans le vide. Un coup dans le vide ne compte pas comme usage : c’est du gâchis !
+
+[06745.068]
+Et un sort de soin ne gagne un usage que « lancé sur une cible à 50 % de HP ou moins ». Attention !!
+
+[06745.069]
+C’est sûr, s’en servir pour une égratignure, ça forme pas, quoi.
+
+[06745.071]
+Leur sujet semble être : « la stratégie de combat ». Écouter ?
+
+[06745.072]
+Décidons de nos stratégies pour faire face à n’importe quel ennemi ! Que fais-tu si surgit « un ennemi à la défense solide » ?
+
+[06745.073]
+Tout le monde lance des sorts à fond, quoi.
+
+[06745.074]
+Les sorts, ce n’est pas mal, mais si tout le monde incante, on se fait rosser à loisir. Mieux vaut garder quelqu’un à l’avant.
+
+[06745.075]
+Et si « l’arrière-garde ennemie lance des sorts puissants » ?
+
+[06745.076]
+Ça, je l’ai appris par cœur hier. Avec « Bloque les sorts », on gêne leur incantation.
+
+[06745.077]
+C’est à peu près ça.
+
+[06745.078]
+On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
+
+[06745.079]
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+
+[06745.081]
+Leur sujet semble être : « le Technical Smash ». Écouter ?
+
+[06745.082]
+C’est quoi, un Technical Smash ?
+
+[06745.083]
+Hm. Porte « un coup de grâce éblouissant », de ceux que saluent même les pros du combat, et il est homologué Technical Smash.
+
+[06745.084]
+Abats un ennemi d’un Technical Smash et, tant c’est beau sans doute, tes chances d’obtenir un objet bondissent. C’est du moins ce que tout le monde raconte.
+
+[06745.085]
+Ce doit être vrai.
+
+[06745.086]
+Avec les enchaînements, ou en en abattant plusieurs d’un coup, ça sort à fond, quoi.
+
+[06745.087]
+Hm. « Achever par un enchaînement » est capital. Au moment du coup de grâce, tous les SP dépensés dans cet enchaînement reviennent. Même après un long enchaînement, on se remet d’aplomb.
+
+[06745.088]
+Alors les artes additionnels et tout ça, je les garde pour achever.
+
+[06745.089]
+Si tu manques de SP, c’est une bonne idée.
+
+[06745.090]
+L’ennui des enchantements d’Action, c’est qu’ils coûtent des SP ; savoir user du coup de grâce est la voie du maître.
+
+[06745.092]
+Leur sujet semble être : « les Spirits ». Écouter ?
+
+[06745.093]
+J’attaque, et l’ennemi pare tout à fond, quoi.
+
+[06745.094]
+Les ennemis à forte esquive sont une plaie. Les toucher par des sorts est une stratégie, mais certains sont du genre à faire fondre tes Spirits en une seule attaque.
+
+[06745.095]
+Pousse-les à frapper dans le vide pour user leurs Spirits, et leur esquive baisse aussi... C’est une ouverture à viser.
+
+[06745.096]
+Moi, avec le Press Guard, {09:47 00 00 00} et {09:1D 00 00 00}, je fais baisser leurs SP exprès.
+
+[06745.097]
+L’ennui, c’est que tu le fais aussi au milieu de leurs enchaînements. Le Press Guard se place sur la dernière attaque de l’ennemi. Il lui retire pas moins de 20 SP. Apprends à lire ses attaques.
+
+[06745.098]
+Si tu as réglé l’affichage de la cible dans les Options, plus le curseur est clair, plus ses SP sont hauts. Tu peux jauger les SP de l’ennemi tout en te battant.
+
+[06745.100]
+Leur sujet semble être : « les coups consécutifs ». Écouter ?
+
+[06745.101]
+C’est quoi, des coups consécutifs ?
+
+[06745.102]
+Blesse de nouveau un ennemi avant qu’il ne se remette en garde, et le nombre de coups s’additionne et s’affiche.
+
+[06745.103]
+Et si j’en place plein, il se passe quoi ?
+
+[06745.104]
+Hm. Ton record de coups influe sur l’expérience gagnée. Car une si belle série d’attaques est une expérience qui surpasse toutes les autres.
+
+[06745.105]
+Pour un nombre de coups plus élevé, la coordination avec tes compagnons est indispensable. Indépendamment du nombre de coups, chaque « sorte d’attaque » différente s’ajoute au CHAIN.
+
+[06745.106]
+Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
+
+[06745.107]
+En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+
+[06745.109]
+Leur sujet semble être : « la zone d’influence ». Écouter ?
+
+[06745.110]
+Je pensais qu’attaquer l’ennemi par-derrière serait un avantage, mais va savoir, ça fatigue.
+
+[06745.111]
+Hm. C’est la cohésion avec tes compagnons qui te donne du cœur, Spirits compris. Quand l’ennemi vous sépare, toutes sortes de récupérations ralentissent, semble-t-il.
+
+[06745.112]
+Si tu te retrouves malgré toi à droite de l’ennemi, reviens à gauche d’un pas en arrière avec {09:47 00 00 00} + {09:19 00 00 00}.
+
+[06745.113]
+Autant pas passer derrière, alors, quoi.
+
+[06745.114]
+En gros, tu peux voir les choses ainsi. Mais quand tu sauras lire le combat, tu pourras peut-être y faire un travail qui compense la pénalité.
+
+[06745.115]
+La théorie a pas toujours raison, quoi.
+
+[06745.116]
+Il t’arrive de dire des choses sensées.
+
+[06745.117]
+Trop vétéran
+
+[06745.118]
+Fils
+
+[06745.120]
+Leur sujet semble être : « les altérations d’état ». Écouter ?
+
+[06745.121]
+Me voilà frappé d’une altération d’état en plein combat. Et pas la moindre Fiole de panacée. Serait-ce la fin, ma foi...
+
+[06745.122]
+Il ne faut pas renoncer, père. Même frappé d’une altération en combat, on en guérit avec le temps, paraît-il.
+
+[06745.123]
+Les altérations ont des niveaux : même avec un équipement préventif, il arrive qu’on ne puisse les atténuer assez et qu’on les subisse. Il faut rester prudent.
+
+[06745.124]
+Mmh... Faut-il donc que je reparte au combat ? C’est rude, ma foi...
+
+[06745.125]
+Le mieux est d’avoir sous la main un plat qui guérit les altérations, père. Il existe aussi, semble-t-il, des plats et des objets qui les préviennent.
+
+[06745.126]
+Trop tard, ma foi ! Poison {09:56 00 00 00}, paralysie {09:5F 00 00 00}, faiblesse {09:5A 00 00 00}, gel et lenteur : je n’en peux plus !
+
+[06745.127]
+Il ne faut pas mentir, père. Quatre altérations au plus peuvent rester sur une même personne. Et augmenter ses capacités par un enchantement fait parfois disparaître le poison.
+
+[06745.128]
+De plus, le gel et la lenteur guérissent à la fin du combat.
+
+[06745.129]
+C’est juste. Et la lenteur, ma foi, je l’avais dès le départ.
+
+[06745.130]
+Hahahahahahahaha
+hahahahahahahaha
+
+[06745.131]
+(Il rit un peu trop, ce me semble...)
+
+[06745.132]
+Trop vétéran
+
+[06745.133]
+Fils
+
+[06745.135]
+Leur sujet semble être : « le Spirits Blaster ». Écouter ?
+
+[06745.136]
+Même au pied du mur, en Spirits Blaster, on tient sa chance de tout renverser, ma foi.
+
+[06745.137]
+Pour passer en Spirits Blaster, père, il est efficace de toucher l’ennemi sans se faire parer. Encaisser des coups y mène aussi, mais pour vous, père, c’est dangereux.
+
+[06745.138]
+Même avec mes forces déclinantes, en Spirits Blaster, j’attaque sans chanceler, ma foi.
+
+[06745.139]
+Tout de même, père, l’effet cesse quand les HP tombent à zéro, et recevoir une magie de soin l’abrège.
+
+[06745.140]
+Je ne m’arrête pas à ces détails. Mon plus bel arte mystique ne se montre qu’en Spirits Blaster.
+
+[06745.141]
+Non, père. Certes, un arte mystique coûte beaucoup de SP, mais en profitant des SP rendus par un ennemi abattu, on parvient parfois à le placer, semble-t-il.
+
+[06745.142]
+Cela dit, certains archers profiteraient de l’état Spirits Blaster pour placer un arte mystique au lieu d’un sort additionnel, père.
+
+[06745.143]
+Enfin, même si l’arte arcane touche, on ne passe pas à l’arte mystique si l’ennemi ne chancelle pas : avec un arcane qui soulève, cela échoue parfois sur les ennemis lourds.
+
+[06745.144]
+Sur ce, allons sans tarder tous les deux placer nos artes mystiques.
+
+[06745.145]
+Non, père. Je suis lanceur de sorts, je n’utilise pas d’arte mystique.
+
+[06745.146]
+À vrai dire, père, après un arte mystique les SP tombent à 0, et c’est terriblement gênant. N’en placez pas s’il n’achève même pas l’ennemi, père.
+
+[06745.147]
+Parce que c’est gênant.
+
+[06745.148]
+(Une fois suffisait, ce me semble...)
+
+[06745.149]
+Trop vétéran
+
+[06745.150]
+Fils
+
+[06745.152]
+Leur sujet semble être : « le Field of Effect ». Écouter ?
+
+[06745.153]
+L’autre jour, ce « Field of Effect » lancé par l’ennemi m’a donné bien du fil à retordre.
+
+[06745.154]
+FOE en abrégé, père. Il en existe deux grandes sortes : ceux qui agissent sur les ennemis dans la zone, et ceux qui réduisent nos capacités.
+
+[06745.155]
+Quand cela sort, n’y a-t-il plus qu’à baisser les bras ?
+
+[06745.156]
+Il est trop tôt pour renoncer, père. Certains cessent avec le temps, d’autres à force de coups. Et bien sûr, ils disparaissent au coup de grâce.
+
+[06745.157]
+S’ils en lancent un qui agit sur nous, vaut-il mieux ne laisser qu’un seul homme à l’avant et user de sorts ?
+
+[06745.158]
+Oui, père. Mais le mieux reste de changer de stratégie selon le changement d’état. S’il agit sur l’ennemi, des Besicles en révèlent la nature.
+
+[06745.159]
+À part ça, les jeunes d’aujourd’hui veulent tout abréger, c’en est pénible.
+
+[06745.160]
+(Vous le dites un peu tard, père...)
+
+[06745.162]
+Leur sujet semble être : « le Battle Grade ». Écouter ?
+
+[06745.163]
+C’est quoi, au bout du compte, le Battle Grade ?
+
+[06745.164]
+Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se battre », n’est-ce pas, chef ? Le ratio des dégâts, les coups dans le vide, le fait d’user toujours du même arte : tout est jugé.
+
+[06745.165]
+Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
+
+[06745.166]
+On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+
+[06745.167]
+Et s’il est haut, ça apporte quoi de bien ?
+
+[06745.168]
+C’est à l’étude, chef. Certains insolents disent bien que cela ne sert à rien en ce bas monde...
+
+[06745.169]
+Bah, te prends pas la tête et peaufine ta technique.
+
+[06745.170]
+Bravo, chef, j’apprends tant avec vous.
+
+[06745.172]
+Leur sujet semble être : « le rétablissement ». Écouter ?
+
+[06745.173]
+Quand on me plaque au sol, je reste à terre, quoi.
+
+[06745.174]
+C’est rude, en effet, chef. Mais en appuyant sur {09:47 00 00 00} à l’instant précis où l’on touche le sol, on se rétablit, n’est-ce pas ?
+
+[06745.175]
+B-b-b-bien sûr que je le savais, quoi.
+
+[06745.176]
+Se rétablir réduit le temps passé à terre et, surtout, rend des SP et des TP : c’est appréciable, n’est-ce pas ?
+
+[06745.177]
+B-b-b-b-bien sûr que je le savais, quoi.
+
+[06745.179]
+Leur sujet semble être : « la difficulté des combats ». Écouter ?
+
+[06745.180]
+Ça rime à quoi, de monter la difficulté des combats ?
+
+[06745.181]
+Il est vrai que monter la difficulté ne ramènera pas la paix dans le monde. Mais on dit que les armes et armures lâchées par les ennemis sont meilleures.
+
+[06745.182]
+Dans ce cas, je la monte à fond, quoi.
+
+[06745.183]
+Mais vous le savez, monter la difficulté augmente l’attaque et l’intellect des ennemis, qui lancent en plus des attaques terribles absentes en difficulté normale. Le choix est délicat, n’est-ce pas ?
+
+[06745.184]
+Dans ce cas, NORMAL me va tant que j’ai pas ramené la paix dans le monde une fois.
+
+[06745.185]
+Je ne saisis pas bien ce que vous voulez dire, mais vous avez tout à fait raison.
+
+[06745.186]
+SECOND est d’une difficulté mesurée : je le conseillerais à qui veut un peu plus de répondant.
+
+[06745.188]
+Ils semblent approfondir le sujet : « les attaques normales ». Écouter ?
+
+[06745.189]
+J’ai pris le coup, alors ces temps-ci, pour les attaques normales, je martèle juste {09:45 00 00 00}, quoi.
+
+[06745.190]
+Ce n’est vraiment pas ça.
+
+[06745.191]
+En vérité, précision et dégâts baissent un peu au deuxième et au troisième coup, mais ils baissent davantage si l’on répète la même attaque.
+
+[06745.192]
+Quoiii ? Alors je fais comment ?
+
+[06745.193]
+Hm. Construire « {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00} », bref varier les combinaisons, voilà le premier pas.
+
+[06745.194]
+Et le deuxième pas, c’est quoi ?
+
+[06745.195]
+{09:45 00 00 00} : attaque --, précision --
+{09:17 00 00 00}{09:45 00 00 00} : attaque +, précision -
+{09:19 00 00 00}{09:45 00 00 00} : attaque -, précision +
+{09:16 00 00 00}{09:45 00 00 00} : attaque -, précision -
+
+[06745.196]
+Retiens tout ça ! Les attaques avec {09:45 00 00 00} couvrent large et touchent souvent sans peine, mais en contrepartie elles ne valent pas grand-chose dans une série.
+
+[06745.197]
+Cela influe aussi sur l’attaque suivante : avec « {09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} » et avec « {09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} », les chiffres du troisième coup diffèrent.
+
+[06745.198]
+Alors contre un ennemi à forte esquive, je construis à partir de {09:19 00 00 00}{09:45 00 00 00}. Et contre un ennemi à faible esquive, je démarre par {09:17 00 00 00}{09:45 00 00 00}.
+
+[06745.199]
+Par exemple, oui. Cela dit, l’écart est infime : si les autres règles t’occupent déjà bien assez, inutile de te forcer à retenir celle-ci.
+
+[06745.201]
+Leur sujet semble être : « les longs discours ». Écouter ?
+
+[06745.202]
+Même des propos instructifs, au bout de dix ans à les écouter, ça fatigue, quoi.
+
+[06745.203]
+Tiens, je ne te l’avais pas dit. En maintenant {09:2F 00 00 00} et {09:2E 00 00 00}, on fait défiler les messages en accéléré. Pratique pour sauter une conversation déjà lue.
+
+[06745.204]
+Quoiii ? Pourquoi tu me l’as pas dit pendant dix ans ?
+
+[06745.205]
+Imbécile ! Qu’un bleu comme toi saute mes paroles, c’est dix ans trop tôt !
+
+[06745.206]
+... me disais-je, et voilà pourquoi je te le dis maintenant.
+
+[06745.207]
+Ça se tient, quoi.
+
+[06745.209]
+Leur sujet semble être : « le ramassage d’objets ». Écouter ?
+
+[06745.210]
+Tant qu’à vivre en aventurier, je veux rafler des objets aux ennemis à fond, quoi.
+
+[06745.211]
+Hm. C’est juste. Mais une rumeur fort plausible court parmi les aventuriers.
+
+[06745.212]
+C’est quoi, cette rumeur ?
+
+[06745.213]
+« Plus on porte d’objets d’une même sorte, moins les ennemis auraient de chances d’en lâcher », dit-on.
+
+[06745.214]
+Ça va pas du tout, quoi. Je vends tout.
+
+[06745.215]
+Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+
+[06745.216]
+Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
+
+[06745.217]
+Par ailleurs, si tu veux avancer en consommant tes objets, on m’a dit qu’il valait mieux n’en garder qu’un petit nombre.
+
+[06745.218]
+Pour les consommables, ce n’est pas le total qui compte mais le nombre détenu de chacun : telle est, paraît-il, l’opinion admise chez les aventuriers.
+
+[06745.219]
+Mais avec peu, on est vite mal face aux ennemis costauds.
+
+[06745.220]
+Il y a de ça. L’important, c’est de mener l’aventure qui convient à son propre style.
+
+[06745.222]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06745.224]
+Moi, je vais aller au bout de ma propre voie !!
+

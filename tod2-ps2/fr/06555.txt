@@ -1,0 +1,187 @@
+[06555.001]
+Realta : salle des archives
+
+[06555.002]
+Realta, la Cité du crépuscule
+
+[06555.003]
+Salle des archives
+
+[06555.005]
+Hm, c’est quoi, ça ?
+
+[06555.007]
+Un projecteur, semble-t-il. S’il se trouve ici, c’est qu’il a valeur de document.
+
+[06555.009]
+Des archives filmées, en somme. C’est peut-être bien ce qu’on cherche.
+
+[06555.011]
+Au lieu de jacasser, le plus rapide, c’est d’essayer. Et hop !
+
+[06555.013]
+Ah ! I-idiote, toi alors... !
+
+[06555.015]
+... Voilà qui est clair. L’histoire a bel et bien été changée. De la main d’Elraine.
+
+[06555.017]
+Elle a interverti le vainqueur et le vaincu de la guerre du Ciel et de la Terre, et bâti le monde qu’elle désirait... un monde où les hommes louent et vénèrent la déesse.
+
+[06555.019]
+Dis, {NAME:04 00 00 00}. Il y a un truc qui me trotte dans la tête depuis le début...
+
+[06555.021]
+Si ce monde existe, alors le monde d’où on vient...
+
+[06555.023]
+Hélas, c’est bien ce que tu penses. Sur la ligne de cette histoire faussée, notre monde n’existe pas...
+
+[06555.025]
+Bon sang, c’est pas vrai... !
+
+[06555.027]
+Enfin, tout est clair. Les rouages de ce monde, je veux dire.
+
+[06555.029]
+... Seulement, moi, je n’ai pas assez de grandeur d’âme pour dire « Ah bon, très bien » et tout accepter !
+
+[06555.031]
+Moi non plus ! Elraine, qui a fait un monde pareil, je ne lui pardonnerai jamais !
+
+[06555.033]
+Mais... les gens de ce monde ont tous l’air heureux.
+
+[06555.035]
+Hein ?
+
+[06555.037]
+... Dis, {NAME:01 00 00 00}. Ce monde est-il vraiment une erreur ?
+
+[06555.039]
+C’est vrai, ce monde a peut-être été fait d’une manière faussée.
+
+[06555.041]
+Mais au bout du compte... les gens vivent heureux, non ?
+
+[06555.043]
+S’il n’était pas une erreur, mon rôle serait fini, lui aussi, et toi et moi, {NAME:01 00 00 00}...
+
+[06555.045]
+{NAME:02 00 00 00} !
+
+[06555.047]
+Qu’est-ce qui t’arrive, {NAME:02 00 00 00} ! Tu veux dire que ça te va, que tout reste comme ça !?
+
+[06555.049]
+C’est que...
+
+[06555.051]
+Moi, je ne veux pas ! Parce qu’ici, il n’y a personne !
+
+[06555.053]
+Ni papa, ni maman, ni Philia, ni Woodrow... Personne !
+
+[06555.055]
+Que tout le monde disparaisse comme ça, moi... je ne veux pas !
+
+[06555.057]
+Disparaître...
+
+[06555.059]
+Qu’un homme disparaisse, et l’histoire qu’il a bâtie disparaît avec lui.
+
+[06555.061]
+Un monde qui n’existe qu’en reniant l’histoire des hommes... Moi, du moins, je ne puis l’admettre !
+
+[06555.063]
+{NAME:04 00 00 00}...
+
+[06555.065]
+... J’ai compris. Pardon, tout le monde. J’ai dit des choses bizarres...
+
+[06555.067]
+... Si tu as compris, ça me va.
+
+[06555.069]
+Allons-y, tout le monde ! On va reprendre notre monde !
+
+[06555.071]
+Ouais ! Montrons à Elraine de quel bois on se chauffe !
+
+[06555.073]
+Mais comment on fait pour remettre le monde comme avant ?
+
+[06555.075]
+C’est simple. Il suffit de remettre en état l’histoire qu’Elraine a tordue.
+
+[06555.077]
+Et le pouvoir qu’il faut pour cela... {NAME:02 00 00 00}... c’est toi qui l’as.
+
+[06555.079]
+Le voyage dans le temps...
+
+[06555.081]
+... Mais oui ! Il suffit d’aller à l’époque de la guerre du Ciel et de la Terre et de défaire ce qu’Elraine a fait !
+
+[06555.083]
+Allons-y tout de suite, {NAME:02 00 00 00} ! Emmène-nous à cette époque !
+
+[06555.085]
+Impossible.
+
+[06555.087]
+Pourquoi !?
+
+[06555.089]
+Je n’ai pas assez de pouvoir pour emmener tout le monde dans le passé... S’il y avait des Lentilles, ce serait possible...
+
+[06555.091]
+Ah, c’est vrai...
+
+[06555.093]
+Vous qui vivez sur la terre... Ouvrez vos portes et sortez. Et recevez en vous les bienfaits de la déesse...
+
+[06555.095]
+Cette voix... Elraine !
+
+[06555.097]
+Allons voir dehors !
+
+[06555.098]
+Bon voyage.
+
+[06555.099]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06555.100]
+Voulez-vous passer la nuit ?
+
+[06555.102]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06555.103]
+Reposez-vous bien.
+
+[06555.104]
+Bonjour.
+
+[06555.105]
+Vous n’avez pas assez d’argent.
+
+[06555.106]
+Au plaisir de vous revoir.
+
+[06555.111]
+Obtenu : {16:25 CE}.
+
+[06555.113]
+Obtenu : {08:FF FF FF FF}.
+
+[06555.115]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06555.117]
+Il n’y a rien ici.
+

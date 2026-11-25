@@ -1,0 +1,157 @@
+[06756.001]
+Village Katz : maison
+
+[06756.002]
+Village Katz
+
+[06756.003]
+Maison
+
+[06756.005]
+Ce n’est pas grand, et ce n’est pas très haut non plus.
+
+[06756.007]
+Obtenu : {08:0A 00 00 00} x1.
+
+[06756.009]
+Un placard. On peut y cacher quelque chose.
+
+[06756.011]
+Du curry mapo !
+
+[06756.013]
+Tiens, cette partie...
+
+[06756.015]
+Ah !!
+
+[06756.016]
+Katz
+
+[06756.017]
+Ah !! Je venais juste de la réparer : c’est méchant, miou...
+
+[06756.018]
+Katz
+
+[06756.019]
+Le tapis moelleux épouse tout doucement mes coussinets, miou.
+
+[06756.020]
+Katz
+
+[06756.021]
+Les maisons du village sont chauffées par le sol grâce à la source chaude, miou.
+
+[06756.022]
+Katz
+
+[06756.023]
+C’est méchant, miou...
+
+[06756.024]
+Katz
+
+[06756.025]
+Les courants d’air aussi, ça fait du bien, miou~ Je vais laisser ça comme ça un moment, miou.
+
+[06756.026]
+Katz
+
+[06756.027]
+Les courants d’air, ça fait du bien, miou~
+
+[06756.028]
+Kipuruchi
+
+[06756.029]
+Ma combinaison s’est déchirée : je la raccommode, miou...
+
+[06756.030]
+Kipuruchi
+
+[06756.031]
+Je répare ma « combinaison de Katz » en vitesse, miou.
+
+[06756.032]
+Kipuruchi
+
+[06756.033]
+J’ai hâte de redevenir tout doux, miou.
+
+[06756.034]
+???
+
+[06756.035]
+Mmh ! Me voilà découvert, miou !
+
+[06756.036]
+???
+
+[06756.037]
+Je suis un ninja des Katz : autrement dit, un « ninja Katz », miou.
+
+[06756.038]
+Ninja Katz
+
+[06756.039]
+Katz nin-nin, pour vous servir. Nin nin nin nin... miou !
+
+[06756.040]
+Gori
+
+[06756.041]
+Ce chapeau, personne ne l’aime...
+
+[06756.042]
+Gori
+
+[06756.043]
+C’est peut-être parce que ce ne sont pas des « oreilles de chat »...
+
+[06756.045]
+Ah, un trou, mia ! Moi, je peux passer, mia~ J’y vais, mia !
+
+[06756.047]
+J’ai trouvé ça, miou.
+
+[06756.049]
+La promenade était chouette, mia. Je rentre avant vous, mia.
+
+[06756.050]
+Bon voyage.
+
+[06756.051]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06756.052]
+Voulez-vous passer la nuit ?
+
+[06756.054]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06756.055]
+Reposez-vous bien.
+
+[06756.056]
+Bonjour.
+
+[06756.057]
+Vous n’avez pas assez d’argent.
+
+[06756.058]
+Au plaisir de vous revoir.
+
+[06756.063]
+Obtenu : {16:25 C6}.
+
+[06756.065]
+Obtenu : {08:FF FF FF FF}.
+
+[06756.067]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06756.069]
+Il n’y a rien ici.
+

@@ -1,0 +1,42 @@
+[00902.001]
+Dis, {NAME:03 00 00 00}. Tu as déjà... fait un vœu à une étoile filante ?
+
+[00902.002]
+Tiens. Même une fille comme toi croit à ces choses-là, alors♪
+
+[00902.003]
+... On s’en fiche, de moi ! Alors, tu as déjà fait un vœu, oui ou non ?
+
+[00902.004]
+Gamin, peut-être que oui, peut-être que non... Et alors, pourquoi ?
+
+[00902.005]
+Non. Je me demandais si même une étoile filante comme celle-là exaucerait un vœu...
+
+[00902.006]
+Une étoile filante... tu parles de l’« Œuf de Dieu » ?
+
+[00902.007]
+Ben quoi. Grosse comme elle est... elle doit avoir du pouvoir, non ?
+
+[00902.008]
+... Ha haaa. Donc toi, tu veux faire un vœu avec moi. C’est ça que tu as en tête, hein ?
+
+[00902.009]
+M-moi, je n’ai jamais dit ça... !!
+
+[00902.010]
+On prie, alors... De toute façon, c’est gratuit.
+
+[00902.011]
+S-si c’est toi qui y tiens... je veux bien te tenir compagnie, tiens...
+
+[00902.012]
+Vraiment... pas franche jusqu’au bout...
+
+[00902.013]
+Tais-toi ! Allez, on prie !
+
+[00902.014]
+Oui, oui.
+

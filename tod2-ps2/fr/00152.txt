@@ -1,0 +1,21 @@
+[00152.001]
+À Darilsheid, quelle galère. Sans ce type au masque, où on en serait...
+
+[00152.002]
+Je me demande ce que fait {NAME:04 00 00 00}, en ce moment.
+
+[00152.003]
+Aucune idée. Il astique son masque sous un ciel lointain, sans doute.
+
+[00152.004]
+Qu’est-ce que tu as, {NAME:03 00 00 00} ? Tu es de mauvais poil, on dirait.
+
+[00152.005]
+Moi, les poseurs comme lui, je ne peux pas les voir ! Un masque sur la figure, et ça joue les beaux gosses : on voit trop qu’il veut plaire aux filles.
+
+[00152.006]
+Hmm... Donc tu détestes ceux qui plaisent plus que toi, {NAME:03 00 00 00}.
+
+[00152.007]
+Hé ! Jamais de... ! Jamais de...... enfin, si.
+

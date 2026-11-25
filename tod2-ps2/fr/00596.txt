@@ -1,0 +1,21 @@
+[00596.001]
+Dis, {NAME:05 00 00 00}. {NAME:02 00 00 00}, ces temps-ci... t’en penses quoi ?
+
+[00596.002]
+Qu’est-ce qui te prend, tout à coup ?
+
+[00596.003]
+Ben... tu vois, quand on est arrivés dans ce monde, je me suis dit : « {NAME:02 00 00 00} a drôlement changé. » Plus forte, ou libérée de quelque chose...... Mais ces temps-ci, on dirait qu’elle est redevenue comme avant.
+
+[00596.004]
+Plutôt que « redevenue comme avant »... elle hésite, je dirais.
+
+[00596.005]
+Elle hésite ? Sur quoi ?
+
+[00596.006]
+Ça, je n’en sais rien. Je ne suis pas elle. Alors... cette fois, il faut bien veiller sur elle. Qu’elle se ronge seule et file seule comme l’autre fois, ça, non merci.
+
+[00596.007]
+... C’est vrai.
+

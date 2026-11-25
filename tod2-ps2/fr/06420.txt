@@ -1,0 +1,152 @@
+[06420.001]
+Neustadt
+
+[06420.002]
+Neustadt
+
+[06420.004]
+Interruption en cours. Veuillez patienter.
+
+[06420.006]
+Vous êtes en course. Interrompre ?{03:00 00 00 00}
+　Oui
+　Non
+
+[06420.008]
+Interruption.
+
+[06420.010]
+Vous êtes bien détendu, pour quelqu’un en pleine course.
+
+[06420.012]
+Les gens forts, c’est génial !!
+
+[06420.014]
+Bonne course.
+
+[06420.016]
+Revenez quand vous voulez !
+
+[06420.017]
+{05:C0 00 00 00}Lap {14:25 6C} Coureur blanc {18:44 9C}
+
+[06420.018]
+{05:C0 00 00 00}Lap {14:25 6E} Coureur noir {18:44 9C}
+
+[06420.019]
+{05:C0 00 00 00}Lap {14:25 70} Coureur rouge {18:44 9C}
+
+[06420.020]
+{05:C0 00 00 00}Lap {14:25 72} Coureur bleu {18:44 9C}
+
+[06420.021]
+{05:C0 00 00 00}Lap {14:25 74} Coureur vert {18:44 9C}
+
+[06420.022]
+{05:C0 00 00 00}Lap {14:25 76} Coureur jaune {18:44 9C}
+
+[06420.023]
+{05:C0 00 00 00}Finish Coureur blanc {18:44 9C}
+
+[06420.024]
+{05:C0 00 00 00}Finish Coureur noir {18:44 9C}
+
+[06420.025]
+{05:C0 00 00 00}Finish Coureur rouge {18:44 9C}
+
+[06420.026]
+{05:C0 00 00 00}Finish Coureur bleu {18:44 9C}
+
+[06420.027]
+{05:C0 00 00 00}Finish Coureur vert {18:44 9C}
+
+[06420.028]
+{05:C0 00 00 00}Finish Coureur jaune {18:44 9C}
+
+[06420.038]
+{05:00 04 00 00}ARRIVÉE !
+
+[06420.043]
+Rang : {0B:01 00 00 00}{14:15 AC}
+Temps : {18:46 1C}{0B:00 00 00 00}
+
+[06420.045]
+Félicitations.
+Meilleur temps battu.
+　　{0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00}
+
+[06420.047]
+{0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00} enregistré comme
+meilleur temps.
+
+[06420.049]
+Félicitations.
+Meilleur tour battu.
+　　　　{0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00}
+
+[06420.051]
+{0B:01 00 00 00}{18:46 1C}{0B:00 00 00 00} enregistré comme
+meilleur tour.
+
+[06420.053]
+{03:00 00 00 00}Départ de la course !
+Parcourir la piste à pied
+Voir les records de la piste
+Quitter la course
+
+[06420.055]
+À vos marques...
+
+[06420.057]
+Prêts...
+
+[06420.059]
+Partez !
+
+[06420.061]
+{09:25 00 00 00} : terminer
+
+[06420.063]
+{03:00 00 00 00}{0B:01 00 00 00}Meilleur temps　{14:21 56 A0 10 0E C8}:{14:21 56 A0 10 0E C9 90 3C C8 90 0A C8}{14:21 56 A0 10 0E C9 90 3C C8 90 0A C9}:{14:21 56 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C8}{14:21 56 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C9}
+Meilleur tour 　{14:21 58 A0 10 0E C8}:{14:21 58 A0 10 0E C9 90 3C C8 90 0A C8}{14:21 58 A0 10 0E C9 90 3C C8 90 0A C9}:{14:21 58 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C8}{14:21 58 90 3C C9 90 64 C7 90 1E CA 90 3C C8 90 0A C9}{0B:00 00 00 00}
+
+[06420.065]
+Aucun record.
+
+[06420.066]
+Bon voyage.
+
+[06420.067]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06420.068]
+Voulez-vous passer la nuit ?
+
+[06420.070]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06420.071]
+Reposez-vous bien.
+
+[06420.072]
+Bonjour.
+
+[06420.073]
+Vous n’avez pas assez d’argent.
+
+[06420.074]
+Au plaisir de vous revoir.
+
+[06420.079]
+Obtenu : {16:27 82}.
+
+[06420.081]
+Obtenu : {08:FF FF FF FF}.
+
+[06420.083]
+Trouvé : {16:27 8A}, mais vous n’avez plus de place.
+
+[06420.085]
+Il n’y a rien ici.
+

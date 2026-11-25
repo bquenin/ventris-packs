@@ -1,0 +1,82 @@
+[06474.001]
+Cherik : armures
+
+[06474.002]
+Cherik
+
+[06474.003]
+Armures
+
+[06474.005]
+Une grande armure, comme on en fait depuis toujours dans la région d’Aquaveil.
+
+[06474.007]
+N’empêche, nous, on porte les mêmes habits toute l’année...
+
+[06474.009]
+Une armure qui n’a pas l’air bien pratique. Un modèle d’exposition, sans doute.
+
+[06474.010]
+Marchand d’armures
+
+[06474.011]
+J’ai beau réunir d’aussi belles pièces, personne ne vient les acheter. Cette ville a bien décliné.
+
+[06474.012]
+Marchand d’armures
+
+[06474.013]
+J’ai beau réunir d’aussi belles pièces, personne ne vient les acheter. Cette ville a bien décliné.
+
+[06474.014]
+Marchand d’armures
+
+[06474.015]
+La défense est la meilleure attaque ! Si on n’arrive pas à vous entamer, l’adversaire se décourage de lui-même !
+
+[06474.016]
+Merci beaucoup.
+
+[06474.017]
+Revenez nous voir.
+
+[06474.018]
+Armures
+
+[06474.019]
+Bon voyage.
+
+[06474.020]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06474.021]
+Voulez-vous passer la nuit ?
+
+[06474.023]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06474.024]
+Reposez-vous bien.
+
+[06474.025]
+Bonjour.
+
+[06474.026]
+Vous n’avez pas assez d’argent.
+
+[06474.027]
+Au plaisir de vous revoir.
+
+[06474.032]
+Obtenu : {16:25 BA}.
+
+[06474.034]
+Obtenu : {08:FF FF FF FF}.
+
+[06474.036]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06474.038]
+Il n’y a rien ici.
+

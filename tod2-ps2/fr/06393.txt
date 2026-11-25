@@ -1,0 +1,205 @@
+[06393.001]
+Grand temple de Straylize
+
+[06393.002]
+Grand temple de Straylize
+
+[06393.003]
+Temple de Straylize
+
+[06393.004]
+Temple de Straylize
+
+[06393.006]
+Des ouvrages sur des personnages sont rangés ici. « Greybum Bernhardt » : Grand prêtre du grand temple de Straylize, qui trempa dans les troubles de l’Œil de Dieu.
+
+[06393.008]
+Il vola l’Œil de Dieu et prit la fuite, mais fut vaincu par les Quatre Héros.
+
+[06393.010]
+Ça, c’est... !
+
+[06393.012]
+Question de quiz TOD1 trouvée !
+
+[06393.014]
+Une nouvelle catégorie s’ajoute au Livre de quiz.
+
+[06393.016]
+Des ouvrages sur des personnages sont rangés ici. « Hugo Gilchrist » : président de la compagnie Oberon, qui trempa dans les troubles de l’Œil de Dieu.
+
+[06393.018]
+Maître de l’Œil de Dieu, Hugo ranima l’arme antique « Belcrant » et mena la terre au bord de l’anéantissement, avant d’être abattu par les Quatre Héros.
+
+[06393.020]
+Un bibelot de forme très ouvragée. Acheté normalement, il coûterait sûrement une fortune...
+
+[06393.022]
+« Unité spéciale : les Ailes Noires » ... Un livre sur les « Ailes Noires », unité spéciale qui s’illustra pendant la guerre du Ciel et de la Terre, semble-t-il.
+
+[06393.024]
+Unité spéciale de l’armée terrestre, elle menait des missions d’infiltration et protégeait les personnalités, y lit-on.
+
+[06393.026]
+« Le transport Radisrol » ... Une notice sur le navire qui servit de vaisseau amiral à l’armée terrestre pendant la guerre du Ciel et de la Terre.
+
+[06393.027]
+Savant
+
+[06393.028]
+Moi, je fais des recherches sur les Lentilles.
+
+[06393.029]
+Savant
+
+[06393.030]
+Les Lentilles auraient été apportées, il y a très, très longtemps, par une comète tombée sur la terre... dit-on.
+
+[06393.031]
+Savant
+
+[06393.032]
+En vrai, j’aimerais étudier aussi les armes à Lentilles, les Swordians, mais elles ont disparu il y a dix-huit ans.
+
+[06393.033]
+Savant
+
+[06393.034]
+Celui qui les aurait créées, {NAME:06 00 00 00} Berselius : un génie, sans l’ombre d’un doute.
+
+[06393.035]
+Savant
+
+[06393.036]
+J’espère que mes recherches serviront un jour à dame Elraine.
+
+[06393.037]
+Savant
+
+[06393.038]
+Faire descendre la déesse Fortuna... Le pouvoir des Lentilles est vraiment prodigieux.
+
+[06393.040]
+C’est bien le moment de s’extasier ! Hé, toi ! Cette Descente, elle a lieu où !?
+
+[06393.041]
+Savant
+
+[06393.042]
+Aïe aïe aïe... D-dans la chapelle !
+
+[06393.043]
+Savant
+
+[06393.044]
+Moi aussi, on m’a refusé d’y assister ! On ne vous laissera sûrement pas entrer dans la chapelle !
+
+[06393.045]
+Savant
+
+[06393.046]
+D-dites ! La Descente de la déesse Atamoni a réussi ? Pour mes recherches, j’aimerais vraiment...
+
+[06393.048]
+Aah ! Quel pot de colle ! On est occupés, là.
+
+[06393.049]
+Savant
+
+[06393.050]
+D-dites ! Rien qu’un peu, racontez-moi la cérémonie~.
+
+[06393.051]
+Savant
+
+[06393.052]
+Hmm... J’ai beau refaire les calculs, rien à faire~ ! Si j’avais un cerveau comme celui de {NAME:06 00 00 00}...
+
+[06393.054]
+Peine perdue. Tu ne saurais sûrement pas t’en servir.
+
+[06393.055]
+Savant
+
+[06393.056]
+Je ne m’avouerai pas vaincu ! Pas avant le jour où l’on m’appellera le {NAME:06 00 00 00} de notre temps !!
+
+[06393.057]
+Savant
+
+[06393.058]
+Cette comète, on dirait qu’elle vient par ici, mais ce doit être une impression~.
+
+[06393.059]
+Savant
+
+[06393.060]
+Ahahaha... Allez, il faut que je retourne à mes recherches.
+
+[06393.062]
+Il fuit la réalité...
+
+[06393.063]
+Savant
+
+[06393.064]
+Allez, on se reprend : recherches♪ recherches♪
+
+[06393.065]
+Savant
+
+[06393.066]
+En ce moment, j’étudie des cultures capables de pousser même en terre aride.
+
+[06393.067]
+Savant
+
+[06393.068]
+Si ça marche, Calvalese deviendra un continent bien plus vivable qu’aujourd’hui.
+
+[06393.070]
+Ah ouais~. J’espère que ça donnera quelque chose de bon à manger.
+
+[06393.071]
+Savant
+
+[06393.072]
+Voyons... je croise ce cactus avec une patate, et... hop.
+
+[06393.073]
+Bon voyage.
+
+[06393.074]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06393.075]
+Voulez-vous passer la nuit ?
+
+[06393.077]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06393.078]
+Reposez-vous bien.
+
+[06393.079]
+Bonjour.
+
+[06393.080]
+Vous n’avez pas assez d’argent.
+
+[06393.081]
+Au plaisir de vous revoir.
+
+[06393.086]
+Obtenu : {16:25 BA}.
+
+[06393.088]
+Obtenu : {08:FF FF FF FF}.
+
+[06393.090]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06393.092]
+Il n’y a rien ici.
+

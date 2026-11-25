@@ -1,0 +1,15 @@
+[00894.001]
+Dis, {NAME:03 00 00 00}. « Cresta »... c’était aussi petit que ça ?
+
+[00894.002]
+Oui. Ça n’a pas changé d’un poil depuis notre départ.
+
+[00894.003]
+{NAME:01 00 00 00}. C’est toi qui as grandi. Sûrement...
+
+[00894.004]
+Tu crois ? Je n’ai pas l’impression d’avoir pris tant de centimètres.
+
+[00894.005]
+Si. Tu as grandi, {NAME:01 00 00 00}. Bien plus qu’au début...
+

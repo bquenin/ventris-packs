@@ -1,0 +1,15 @@
+[00164.001]
+Écoute, {NAME:01 00 00 00}. Ce pendentif, rends-le-lui toi-même.
+
+[00164.002]
+Hein... pourquoi ?
+
+[00164.003]
+Ramasser un objet perdu et le rapporter : le moyen rêvé de sympathiser avec une fille, non ?
+
+[00164.004]
+J-je ne pensais pas à ça ! Je me disais juste qu’elle devait être embêtée...
+
+[00164.005]
+Oui, oui. Vite, retrouvons-la.
+

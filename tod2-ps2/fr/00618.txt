@@ -1,0 +1,15 @@
+[00618.001]
+Le passé douloureux de {NAME:05 00 00 00}, ce doit être son petit frère disparu...
+
+[00618.002]
+Hé ! Telle que je la connais, c’est du genre « un homme l’a plaquée ». Faut le comprendre. Brutale comme elle est, n’importe quel homme prendrait la fuite.
+
+[00618.003]
+Hin hin. Tu dis ça, {NAME:03 00 00 00}, mais c’est toi qui t’inquiètes le plus pour {NAME:05 00 00 00}.
+
+[00618.004]
+Qu... andouille ! N’importe quoi ! Allez, on va la chercher, et vite.
+
+[00618.005]
+Hi hi. Oui, il s’énerve♪
+

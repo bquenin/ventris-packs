@@ -1,0 +1,12 @@
+[00184.001]
+Le grand temple de Straylize... Je connaissais le nom par tes lettres, {NAME:03 00 00 00}, mais je ne pensais pas y aller un jour.
+
+[00184.002]
+Bah, pour qui n’est pas croyant, c’est un endroit sans intérêt. Rafler des Lentilles, bâtir un temple luxueux : rien de bon.
+
+[00184.003]
+{NAME:03 00 00 00}, tu étais chevalier de l’Ordre d’Atamoni : tu peux dire ça ?
+
+[00184.004]
+Je peux. Je voulais juste être chevalier : Atamoni, c’était en prime. Les autres, eux, y tenaient plus que moi.
+

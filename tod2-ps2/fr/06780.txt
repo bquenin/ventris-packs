@@ -1,0 +1,43 @@
+[06780.001]
+Snowfria
+
+[06780.002]
+Snowfria
+
+[06780.003]
+Bon voyage.
+
+[06780.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06780.005]
+Voulez-vous passer la nuit ?
+
+[06780.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06780.008]
+Reposez-vous bien.
+
+[06780.009]
+Bonjour.
+
+[06780.010]
+Vous n’avez pas assez d’argent.
+
+[06780.011]
+Au plaisir de vous revoir.
+
+[06780.016]
+Obtenu : {16:25 BA}.
+
+[06780.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06780.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06780.022]
+Il n’y a rien ici.
+

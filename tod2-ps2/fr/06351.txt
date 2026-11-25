@@ -1,0 +1,130 @@
+[06351.001]
+Darilsheid : auberge
+
+[06351.002]
+Darilsheid, l’ancienne capitale
+
+[06351.003]
+Jeune homme
+
+[06351.004]
+Je loge ici pour une seule raison : la voir, elle.
+
+[06351.005]
+Jeune homme
+
+[06351.006]
+... Mais ma maison est tout près, alors dormir à l’hôtel tous les jours, c’est dur, quand même. Snif...
+
+[06351.007]
+Jeune homme
+
+[06351.008]
+Vous avez déjà dormi dans cette auberge ? Il y a une fille mignonne qui y travaille, hein ?
+
+[06351.009]
+Jeune homme
+
+[06351.010]
+Mais pas touche à elle, compris !
+
+[06351.011]
+Jeune homme
+
+[06351.012]
+Hmm, est-ce que je dois me lancer et lui faire ma déclaration ? Mais si elle me repousse...
+
+[06351.013]
+Jeune homme
+
+[06351.014]
+La servante qui travaille dans cette auberge... je pense lui avouer mes sentiments.
+
+[06351.015]
+Jeune homme
+
+[06351.016]
+Mais à l’idée qu’elle me repousse, j’ai peur...
+
+[06351.017]
+Jeune homme
+
+[06351.018]
+J’ai décidé de me lancer, mais il paraît qu’elle est déjà mariée. Moi, ça ne me dérange pas...
+
+[06351.020]
+L’issue est courue d’avance... Pauvre gars...
+
+[06351.021]
+Jeune homme
+
+[06351.022]
+Déjà un an sans avoir pu lui dire ce que je ressens... Ah, que dois-je faire ?
+
+[06351.024]
+Lance-toi, voilà tout. Et si elle te repousse, tu pleureras un bon coup.
+
+[06351.025]
+Jeune homme
+
+[06351.026]
+T-très bien, je vais le faire ! Je vais lui dire ce que je ressens. Regardez-moi bien, grand frère !
+
+[06351.028]
+Ne m’appelle pas grand frère !
+
+[06351.029]
+Jeune homme
+
+[06351.030]
+Je pense prendre mon courage à deux mains et lui avouer mes sentiments.
+
+[06351.031]
+Jeune homme
+
+[06351.032]
+Mais à l’idée qu’elle me repousse, j’ai peur...
+
+[06351.034]
+Ça ira. Regardez {NAME:03 00 00 00} : il s’est fait repousser autant de fois qu’il y a d’étoiles, et il vit quand même, plein d’entrain comme ça.
+
+[06351.036]
+C’est tout à fait vrai, mais... c’était un mot de trop !
+
+[06351.037]
+Bon voyage.
+
+[06351.038]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06351.039]
+Voulez-vous passer la nuit ?
+
+[06351.041]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06351.042]
+Reposez-vous bien.
+
+[06351.043]
+Bonjour.
+
+[06351.044]
+Vous n’avez pas assez d’argent.
+
+[06351.045]
+Au plaisir de vous revoir.
+
+[06351.050]
+Obtenu : {16:25 BA}.
+
+[06351.052]
+Obtenu : {08:FF FF FF FF}.
+
+[06351.054]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06351.056]
+Il n’y a rien ici.
+

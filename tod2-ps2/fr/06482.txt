@@ -1,0 +1,184 @@
+[06482.001]
+Cherik : bazar et épicerie
+
+[06482.002]
+Cherik
+
+[06482.003]
+Bazar et épicerie
+
+[06482.004]
+Épicier
+
+[06482.005]
+Ah, un client ? Il ne me reste plus grand-chose, mais vous prendrez bien quelque chose ?
+
+[06482.006]
+Épicier
+
+[06482.007]
+Bienvenue ! Du poisson frais, ça vous dit ?
+
+[06482.008]
+Merci beaucoup.
+
+[06482.009]
+Revenez nous voir.
+
+[06482.010]
+Épicier
+
+[06482.011]
+Bazar
+
+[06482.012]
+Il vous faut des articles de bazar ?
+
+[06482.013]
+Bazar
+
+[06482.014]
+Achetez-moi quelque chooose. Je vous fais un priiix.
+
+[06482.015]
+Merciii.
+
+[06482.016]
+Radiiin.
+
+[06482.017]
+Bazar
+
+[06482.018]
+Merci beaucoup.
+
+[06482.019]
+Revenez nous voir.
+
+[06482.020]
+Bazar
+
+[06482.021]
+Helen
+
+[06482.022]
+Avez-vous trouvé ceci : {08:49 00 00 00} ?
+
+[06482.024]
+{03:00 00 00 00}　J’ai trouvé　
+　Je n’ai pas trouvé　
+　Je ne cherche pas　
+
+[06482.025]
+Avez-vous de nouveau ceci : {08:49 00 00 00} ?
+
+[06482.026]
+Merci beaucoup. Avec cela, le manque de vivres sera comblé pour un temps.
+
+[06482.027]
+Je dis « pour un temps », car on ne peut pas, semble-t-il, tirer les mêmes graines de ceci : {08:49 00 00 00}.
+
+[06482.028]
+Si vous en récoltez encore ({08:49 00 00 00}), je serais heureuse que vous m’en cédiez.
+
+[06482.029]
+C’est peu de chose, mais voici pour vous remercier.
+
+[06482.030]
+Merci infiniment.
+
+[06482.031]
+C’est vrai ? Ne voudriez-vous pas m’en céder ?
+
+[06482.032]
+D’après mes recherches, en améliorant l’espèce {08:44 00 00 00}, on obtiendrait {08:49 00 00 00}.
+
+[06482.033]
+Je vous donne ceci : {08:44 00 00 00}.
+
+[06482.034]
+Je compte sur vous pour ceci : {08:49 00 00 00}.
+
+[06482.035]
+Que c’est cruel...
+
+[06482.036]
+Si vous en trouvez, dites-le-moi, je vous prie.
+
+[06482.037]
+Jeune femme
+
+[06482.038]
+Je cherche les graines d’une plante qui pousse même en terre pauvre.
+
+[06482.039]
+Si cela ne vous ennuie pas, voudriez-vous m’aider ?
+
+[06482.041]
+{03:00 00 00 00}　L’écouter　
+　Sans façon　
+
+[06482.042]
+Le village où je vis est gagné par le désert.
+
+[06482.043]
+Il n’a pas la chance d’avoir une source abondante, comme Hope Town.
+
+[06482.044]
+À ce train-là, les vivres manqueront avant longtemps.
+
+[06482.045]
+Je suis donc venue jusqu’à Cherik chercher une plante qui pousse même en terre pauvre, mais...
+
+[06482.046]
+D’après ce qu’on m’a dit, il existerait une plante qui résiste à la sécheresse et donne beaucoup : {08:49 00 00 00}.
+
+[06482.047]
+Si vous en trouvez ({08:49 00 00 00}), voudriez-vous m’en céder ?
+
+[06482.048]
+J’aurais dû le dire plus tôt : je m’appelle Helen, et j’habite un village sans nom, dans le désert.
+
+[06482.049]
+Écoutez-moi au moins, je vous en prie.
+
+[06482.050]
+Quel dommage.
+
+[06482.051]
+Bon voyage.
+
+[06482.052]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06482.053]
+Voulez-vous passer la nuit ?
+
+[06482.055]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06482.056]
+Reposez-vous bien.
+
+[06482.057]
+Bonjour.
+
+[06482.058]
+Vous n’avez pas assez d’argent.
+
+[06482.059]
+Au plaisir de vous revoir.
+
+[06482.064]
+Obtenu : {16:25 BE}.
+
+[06482.066]
+Obtenu : {08:FF FF FF FF}.
+
+[06482.068]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06482.070]
+Il n’y a rien ici.
+

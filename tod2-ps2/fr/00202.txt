@@ -1,0 +1,15 @@
+[00202.001]
+Philia a dit cela, mais... si le roi Woodrow n’est pas le héros que je cherche...
+
+[00202.002]
+Alors ce sera mon tour ! Je m’entraîne encore, mais je serai un grand héros un jour ! Compte sur moi !
+
+[00202.003]
+Pardon, {NAME:01 00 00 00}. Moi, je suis sérieuse...
+
+[00202.004]
+Eeeh ! Moi aussi, je suis sérieux ! Crois-moi, {NAME:02 00 00 00}~ !
+
+[00202.005]
+Je vois...... Alors j’attendrai, futur héros !
+

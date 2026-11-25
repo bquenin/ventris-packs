@@ -1,0 +1,3 @@
+[00624.001]
+Ce n’est pas son bonheur, ça ! Réveille-toi, {NAME:05 00 00 00} !
+

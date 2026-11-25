@@ -1,0 +1,24 @@
+[00836.001]
+Ce {NAME:04 00 00 00}... il n’a toujours pas perdu l’habitude de parler à Chaltier, on dirait.
+
+[00836.002]
+Ça se comprend. Il disait qu’ils étaient « ensemble depuis tout petit, comme de vrais frères ».
+
+[00836.003]
+{NAME:06 00 00 00} aussi a beau jouer la gaieté, il lui arrive d’appeler Karell dans son sommeil.
+
+[00836.004]
+J’ai perdu mon petit frère, alors je sais : on ne tourne pas la page si facilement...
+
+[00836.005]
+N’empêche... un jour, il faut bien les dépasser, ces choses-là.
+
+[00836.006]
+Et pouvoir le faire, c’est la force des humains...
+
+[00836.007]
+Ça ira, pour {NAME:04 00 00 00} comme pour {NAME:06 00 00 00} ! Ils sont forts, tous les deux !
+
+[00836.008]
+Oui, c’est vrai. Alors faisons-leur confiance, et attendons.
+

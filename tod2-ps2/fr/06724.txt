@@ -1,0 +1,43 @@
+[06724.001]
+Vallée de Harmentz
+
+[06724.002]
+Vallée de Harmentz
+
+[06724.003]
+Bon voyage.
+
+[06724.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06724.005]
+Voulez-vous passer la nuit ?
+
+[06724.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06724.008]
+Reposez-vous bien.
+
+[06724.009]
+Bonjour.
+
+[06724.010]
+Vous n’avez pas assez d’argent.
+
+[06724.011]
+Au plaisir de vous revoir.
+
+[06724.016]
+Obtenu : {16:25 BA}.
+
+[06724.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06724.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06724.022]
+Il n’y a rien ici.
+

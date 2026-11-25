@@ -1,0 +1,626 @@
+[06388.001]
+Grand temple de Straylize
+
+[06388.002]
+Grand temple de Straylize
+
+[06388.003]
+Temple de Straylize
+
+[06388.004]
+Temple de Straylize
+
+[06388.005]
+Philia
+
+[06388.007]
+« Rapport sur l’élimination des Bombes Philia »... Elle semble s’être débarrassée d’une chose produite en masse dans sa jeunesse.
+
+[06388.009]
+« La vérité sur les troubles de l’Œil de Dieu ». Un récit véridique paru juste après les troubles, devenu un succès de librairie.
+
+[06388.011]
+L’auteur serait un scientifique ayant pris part à la mise au point d’une arme appelée « canon à Lentilles concentrées ».
+
+[06388.013]
+Une armoire où sont rangés les effets personnels de Philia. La vie privée de Philia est là-dedans... !
+
+[06388.015]
+... Ce serait un délit : je renonce à l’ouvrir. À très grand regret...
+
+[06388.017]
+Des livres de tous les genres. Est-ce Philia qui les a réunis ?
+
+[06388.019]
+« Précis de science des Lentilles », « Aux origines du culte d’Atamoni », « Vie du professeur {NAME:06 00 00 00} », « Qui boude les gelées règne sur les titres », et ainsi de suite.
+
+[06388.020]
+En priant pour que tout aille bien pour vous, je vous offre ceci : {08:B1 01 00 00}.
+
+[06388.021]
+Hi hi. À vous regarder, je me rappelle moi aussi le temps passé.
+
+[06388.022]
+Moi qui ne savais rien du monde extérieur, je me suis élancée hors du temple et j’ai parcouru le monde avec mes compagnons...
+
+[06388.023]
+Il y a eu des chagrins, des moments difficiles, mais c’était un bonheur...
+
+[06388.024]
+Soyez tous prudents en chemin. Je prierai pour que votre voyage se passe bien.
+
+[06388.025]
+Veillez à bien la remettre.
+
+[06388.026]
+Comment va la petite Ginny ?
+
+[06388.027]
+Si mes mots peuvent rendre courage à quelqu’un, rien ne saurait me faire plus plaisir.
+
+[06388.028]
+Philia
+
+[06388.029]
+Hi hi. À vous regarder, je me rappelle moi aussi le temps passé.
+
+[06388.030]
+Moi qui ne savais rien du monde extérieur, je me suis élancée hors du temple et j’ai parcouru le monde avec mes compagnons...
+
+[06388.031]
+Il y a eu des chagrins, des moments difficiles, mais c’était un bonheur...
+
+[06388.032]
+Soyez tous prudents en chemin. Je prierai pour que votre voyage se passe bien.
+
+[06388.033]
+Si j’ai pu vous être utile, j’en suis heureuse.
+
+[06388.034]
+Euh... {NAME:04 00 00 00}... ne nous sommes-nous pas... déjà rencontrés quelque part ?
+
+[06388.036]
+... Non. Je ne vous ai jamais rencontrée. Vous devez me confondre avec un autre.
+
+[06388.037]
+... Ah, vraiment. Pardonnez-moi. Je me serai trompée.
+
+[06388.038]
+Oui... bien sûr. Il est impossible qu’il soit en vie...
+
+[06388.039]
+{NAME:01 00 00 00}, de très grandes épreuves vous attendent peut-être sur votre route.
+
+[06388.040]
+Mais ne fuyez jamais, je vous en prie. Ne renoncez pas à aller de l’avant.
+
+[06388.041]
+Si dur que ce soit, suivez la voie que vous aurez choisie vous-même. Comme l’ont fait vos parents...
+
+[06388.043]
+Philia...
+
+[06388.044]
+J’ai le pressentiment que quelque chose de grave va se produire.
+
+[06388.045]
+Les troubles que Hugo causa jadis... non, quelque chose de plus grave encore...
+
+[06388.046]
+Puisse la fleur de Berselia répondre à la force de votre vœu...
+
+[06388.047]
+Puissent de belles rencontres vous attendre au fil de votre voyage...
+
+[06388.048]
+Oh, ne seriez-vous pas... {NAME:01 00 00 00} ?
+
+[06388.050]
+Hein ! Comment l’avez-vous su ?
+
+[06388.051]
+Hi hi ! C’est que vous lui ressemblez trait pour trait. À celui avec qui j’ai jadis parcouru le monde.
+
+[06388.052]
+Soyez le bienvenu, {NAME:01 00 00 00}. Comme vous le voyez, je ne peux guère vous recevoir, mais prenez votre temps, je vous en prie.
+
+[06388.053]
+Il n’y a pas de réplique.
+
+[06388.055]
+... Oui, elle est hors de danger. Sa respiration s’est apaisée.
+
+[06388.057]
+Ouf...
+
+[06388.059]
+Mais tu es incroyable, toi ! Guérir une blessure pareille en un clin d’œil !
+
+[06388.061]
+... Je n’ai rien d’incroyable. J’ai entraîné Philia là-dedans, et je n’ai même pas su la protéger...
+
+[06388.063]
+M-mais ! C’est parce que tu étais là qu’elle a pu être soignée ! Il n’y a pas de quoi te désoler comme ça !
+
+[06388.065]
+Non... décidément, non... Avec mon pouvoir, je ne peux pas protéger une seule personne. Avec un pouvoir pareil...
+
+[06388.067]
+... Tu sais, ma mère disait quelque chose.
+
+[06388.069]
+« Il faut tirer la leçon de ses erreurs, mais pas la peine d’avoir des regrets. »
+
+[06388.071]
+La leçon mène vers l’avenir, alors que le regret ne fait que t’enchaîner au passé, d’après elle.
+
+[06388.073]
+... ?
+
+[06388.075]
+Alors, enfin, euh... Toi, on dirait que tu regrettes sans arrêt, et ça, ce n’est pas bon, voilà...
+
+[06388.076]
+Il a tout à fait raison.
+
+[06388.078]
+Philia... !
+
+[06388.079]
+Le Grand prêtre avait volé « l’Œil de Dieu » et servi une ambition : dominer le monde. Et moi, sans le savoir, je l’y avais aidé...
+
+[06388.080]
+Quand je l’ai appris, j’ai regretté tout ce que j’avais été, et je n’ai su que pleurer.
+
+[06388.081]
+C’est alors que Stahn m’a dit : « Pleurer ne suffit pas », et qu’il m’a tendu la main.
+
+[06388.082]
+Le regret n’engendre rien. C’est parce qu’il me l’a appris que je suis celle que je suis aujourd’hui.
+
+[06388.083]
+Hélas, le moyen de rencontrer un héros, je ne le connais pas non plus.
+
+[06388.084]
+Mais ce qu’il vous faut, cela, je le sais.
+
+[06388.086]
+Ce qu’il me faut... ? Qu’est-ce que c’est !?
+
+[06388.087]
+Des compagnons. Des êtres comme l’ont été pour moi Stahn et Rutee.
+
+[06388.088]
+Ils ont cru en ma force, quand moi-même je n’y croyais pas... Alors j’ai pu avancer, moi aussi.
+
+[06388.089]
+Je crois qu’il vous faut, à vous aussi, des êtres comme eux.
+
+[06388.091]
+Des compagnons...
+
+[06388.093]
+Comme papa et maman...
+
+[06388.095]
+Bon ! Ce sera moi !
+
+[06388.097]
+Hein ?
+
+[06388.099]
+Je serai ton compagnon ! Je resterai avec toi, toujours, toujours ! C’est décidé !!
+
+[06388.101]
+Et si on reste ensemble, tu finiras bien par voir que le héros, c’est moi !
+
+[06388.103]
+Ph-Philia, je...
+
+[06388.104]
+Vous avez déjà la réponse, n’est-ce pas ? Alors vous savez ce qu’il vous reste à faire.
+
+[06388.106]
+... Veux-tu bien venir avec moi ?
+
+[06388.108]
+Bien sûr ! Ça ne se demande même pas !!
+
+[06388.110]
+Merci...
+
+[06388.112]
+Ah oui ! Je t’appelle comment ? Je ne vais pas te dire « toi » éternellement.
+
+[06388.114]
+... {NAME:02 00 00 00}.
+
+[06388.116]
+{NAME:02 00 00 00}... Alors enchanté, pour de bon, {NAME:02 00 00 00} !
+
+[06388.118]
+... Oui ! Enchantée, {NAME:01 00 00 00} !
+
+[06388.120]
+... Hé, et moi, je compte pour du beurre ?
+
+[06388.122]
+Ah ! P-pardon, {NAME:03 00 00 00}. Ce n’est pas ce que je voulais dire...
+
+[06388.124]
+Et tu voulais dire quoi, alors ? Explique-moi ça bien comme il faut. Puisqu’on est des « compagnons », nous !
+
+[06388.126]
+Hi hi hi... Ahaha !
+
+[06388.128]
+Ah ! Attends, {NAME:04 00 00 00} !
+
+[06388.130]
+Reviens ici, toi, file pas !!
+
+[06388.132]
+Ah ! Philia, au revoir !
+
+[06388.134]
+{NAME:02 00 00 00} ! Viens vite !
+
+[06388.136]
+Philia, prenez bien soin de vous !
+
+[06388.138]
+... Hé, attends-moi, {NAME:01 00 00 00} !
+
+[06388.140]
+A-alors, Philia, je vais vous laisser...
+
+[06388.141]
+{NAME:02 00 00 00}.
+
+[06388.142]
+L’entendez-vous, {NAME:02 00 00 00} ? Ce bruit, boum, boum : c’est mon cœur qui bat.
+
+[06388.143]
+Ce bruit... ma vie... c’est vous qui les avez protégés.
+
+[06388.145]
+Philia...
+
+[06388.146]
+Vous avez un pouvoir véritable. Celui de sauver les gens... Alors ayez davantage foi en vous.
+
+[06388.148]
+... Oui !
+
+[06388.150]
+Alors au revoir, Philia. Merci infiniment !
+
+[06388.151]
+... Quels enfants étonnants. {NAME:02 00 00 00}. Et {NAME:01 00 00 00}.
+
+[06388.152]
+Hi hi ! Les cheveux, le visage, et jusqu’à sa façon de parler : tout le portrait de cet homme...
+
+[06388.153]
+... {NAME:01 00 00 00} ? Mais oui ! Si je me souviens bien, l’enfant de Stahn et de Rutee... !
+
+[06388.154]
+... {NAME:02 00 00 00}. Ce que vous cherchez est peut-être plus près que vous ne le croyez.
+
+[06388.155]
+Oh, bonjour.
+
+[06388.156]
+Une lettre pour moi ? Merci beaucoup.
+
+[06388.157]
+Voilà qui... doit vous embarrasser.
+
+[06388.158]
+Je vais écrire une réponse : attendez un instant, je vous prie.
+
+[06388.160]
+Chère Virginia,
+
+[06388.162]
+J’ai bien lu ta lettre.
+
+[06388.164]
+Tu me demandes si le père Noël existe vraiment...
+
+[06388.166]
+............
+
+[06388.167]
+Voici ma réponse. Veillez à bien la remettre à la petite Ginny.
+
+[06388.169]
+Reçu : la réponse de Philia.
+
+[06388.170]
+Je compte sur vous.
+
+[06388.171]
+Oh, {NAME:01 00 00 00} ! Et vous tous. Cela faisait longtemps.
+
+[06388.173]
+Bonjour, Philia !
+
+[06388.175]
+... Philia, nous sommes venus aujourd’hui vous demander conseil.
+
+[06388.176]
+... À vous voir, vous êtes bien tourmenté.
+
+[06388.177]
+Parlez, je vous en prie. Si je peux quelque chose, je vous aiderai.
+
+[06388.178]
+C’était donc cela... Appartenant moi-même à l’Ordre d’Atamoni, j’en suis toute partagée.
+
+[06388.179]
+{NAME:01 00 00 00}, {NAME:02 00 00 00}, vous avez dû tous deux beaucoup souffrir.
+
+[06388.181]
+Moi, ça va. À côté de ce qu’endure {NAME:01 00 00 00}, ce n’est rien.
+
+[06388.182]
+... Vous êtes forte, {NAME:02 00 00 00}.
+
+[06388.184]
+... Philia, je me tourmente depuis tout ce temps : que dois-je faire ? Mais je ne trouve pas de réponse, alors...
+
+[06388.185]
+... Je comprends. Cela ne vous éclairera peut-être pas, mais laissez-moi vous parler de nous, autrefois.
+
+[06388.186]
+Vous le savez peut-être : nous aussi, au cours de notre quête de l’Œil de Dieu, nous avons été acculés à un choix douloureux.
+
+[06388.187]
+Il nous a fallu combattre celui qui avait été notre compagnon.
+
+[06388.188]
+Il s’appelait Leon Magnus. Sous un regard froid comme la glace, il cachait le cœur le plus chaleureux de tous.
+
+[06388.190]
+Et à ce moment-là, ça ne vous a pas fait mal, à vous tous ?
+
+[06388.191]
+Bien sûr, ce fut un combat douloureux. Bien plus que tous ceux d’avant...
+
+[06388.192]
+Pourtant, je n’ai pas eu de regrets. Dix-huit ans ont passé, et ce sentiment n’a pas changé.
+
+[06388.194]
+Mais c’était un compagnon, il s’était battu à vos côtés, non ? Moi, jamais je ne pourrais... !
+
+[06388.195]
+Si nous pouvons vivre sans regrets, c’est que tout cela, nous l’avions choisi nous-mêmes.
+
+[06388.197]
+Choisi vous-mêmes... ?
+
+[06388.198]
+Jusque-là, j’avais toujours fui devant toute décision à prendre par moi-même.
+
+[06388.199]
+C’est ainsi que l’Œil de Dieu a été emporté hors du temple, et que j’ai mis le monde en péril.
+
+[06388.200]
+Ceux qui m’ont sauvée, ce sont Stahn, Rutee, et aussi Leon et les autres.
+
+[06388.202]
+Papa et les autres... ?
+
+[06388.203]
+Ils m’ont appris combien il est précieux de vivre selon sa propre volonté.
+
+[06388.204]
+Et, du même coup, combien c’est rude...
+
+[06388.205]
+Je ne peux plus que l’imaginer, mais je crois que Leon non plus ne regrette pas la décision qu’il prit alors.
+
+[06388.206]
+Car c’était une noble décision, prise pour protéger celle qu’il aimait...
+
+[06388.208]
+........
+........
+
+[06388.210]
+Votre décision aussi...
+
+[06388.211]
+Hein ?
+
+[06388.213]
+Votre décision, comme celle de ce Leon, n’était en rien une erreur.
+
+[06388.215]
+S’il était ici, c’est sûrement ce qu’il aurait dit.
+
+[06388.216]
+... Merci, {NAME:04 00 00 00}.
+
+[06388.218]
+Philia... Merci infiniment.
+
+[06388.220]
+Un peu... rien qu’un tout petit peu, mais j’ai l’impression d’avoir compris quelque chose.
+
+[06388.221]
+Vraiment ? Si j’ai pu vous être utile, j’en suis heureuse.
+
+[06388.222]
+... {NAME:01 00 00 00}. Une dernière chose.
+
+[06388.223]
+C’est peut-être cruel à dire, à vous qui êtes si tourmenté...
+
+[06388.224]
+Mais ne fuyez pas, cela seulement. C’est une chose que vous seul pouvez décider.
+
+[06388.225]
+Car pour {NAME:02 00 00 00}, le héros, c’est vous...
+
+[06388.227]
+Oui... je le sais... enfin, je crois.
+
+[06388.228]
+... Je vois. Voilà donc ce qui s’est passé à Hope Town...
+
+[06388.230]
+Et la vie de cet enfant...
+
+[06388.231]
+Hélas... le jugement de ce clerc est juste.
+
+[06388.232]
+Un mal qui présente ces symptômes, à moins d’un miracle, on n’en réchappe pas...
+
+[06388.234]
+Il n’y a pas un autre moyen, quelque chose !?
+
+[06388.236]
+Je vous en prie ! Je veux le sauver, coûte que coûte !!
+
+[06388.237]
+... Il ne vous reste qu’à accomplir vous-mêmes un miracle...
+
+[06388.238]
+Il existe un remède, un seul, contre ce mal ancien, mais le préparer tient presque du miracle.
+
+[06388.240]
+Que faut-il faire, au juste ?
+
+[06388.241]
+Pour préparer ce remède, il faut une fleur de Berselia.
+
+[06388.243]
+Une fleur de Berselia ? Ne me dites pas qu’elle ne pousse qu’au bout du monde ?
+
+[06388.244]
+Non... La graine est ici.
+
+[06388.246]
+Alors il suffit de la faire fleurir, c’est ça ?
+
+[06388.247]
+Seulement, il n’y a plus aucun moyen de la faire fleurir.
+
+[06388.249]
+Comment ça !?
+
+[06388.250]
+Cette plante ne peut fleurir sans le secours du pouvoir d’un minerai particulier.
+
+[06388.252]
+Un minerai particulier ?
+
+[06388.253]
+Ce minerai est celui dont on se servait jadis, dit-on, pour amplifier le pouvoir des Lentilles...
+
+[06388.254]
+Une pierre très dangereuse : c’est elle, dit-on, qui donnait sa force de destruction à Belcrant, l’arme de Dycroft, la cité céleste...
+
+[06388.256]
+Ne me dites pas... « l’Œil de Dieu » ?
+
+[06388.257]
+Si... Et le dernier de ces minerais qui restait sur terre, nous l’avons brisé il y a dix-huit ans.
+
+[06388.259]
+Alors il n’en existe plus nulle part ?
+
+[06388.260]
+Je l’ignore... Mais en retrouver me paraît presque impossible.
+
+[06388.262]
+... Mais « presque impossible », ça veut dire que ce n’est pas impossible, non...
+
+[06388.263]
+Mais...
+
+[06388.265]
+Donnez-moi cette graine ! Cette fleur, je la ferai fleurir, c’est juré.
+
+[06388.267]
+Pourquoi je me donne tant de mal pour ce gosse, je ne sais pas trop...
+
+[06388.269]
+Mais je veux le sauver, coûte que coûte !!
+
+[06388.270]
+... Très bien. Si vous parvenez à faire éclore cette fleur, apportez-la-moi...
+
+[06388.272]
+Obtenu : la graine de Berselia.
+
+[06388.273]
+Puisse cette fleur répondre à la force de votre vœu...
+
+[06388.274]
+Ce n’est pas possible... Vous avez vraiment fait éclore la fleur de Berselia... !!
+
+[06388.276]
+Philia, pardon de vous presser, mais le remède, vite... !!
+
+[06388.277]
+O-oui... bien sûr ! Avec cette fleur, il ne reste plus qu’à la faire infuser, et...
+
+[06388.278]
+C’est prêt ! Voici l’élixir de Berselia !!
+
+[06388.280]
+Obtenu : l’élixir de Berselia.
+
+[06388.282]
+Avec ça, la maladie va guérir, hein ?
+
+[06388.283]
+Non... Quand on donne ce remède au malade, les fonctions de son corps faiblissent pour un temps.
+
+[06388.284]
+Pendant ce temps, pour que son état ne s’aggrave pas d’un coup, il faut que quelqu’un le veille plusieurs jours sans dormir.
+
+[06388.286]
+Rien n’est simple, jusqu’au bout... Enfin, bref, allons porter ce remède au gosse.
+
+[06388.287]
+Bon voyage.
+
+[06388.288]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06388.289]
+Voulez-vous passer la nuit ?
+
+[06388.291]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06388.292]
+Reposez-vous bien.
+
+[06388.293]
+Bonjour.
+
+[06388.294]
+Vous n’avez pas assez d’argent.
+
+[06388.295]
+Au plaisir de vous revoir.
+
+[06388.300]
+Obtenu : {16:26 36}.
+
+[06388.302]
+Obtenu : {08:FF FF FF FF}.
+
+[06388.304]
+Trouvé : {16:26 3E}, mais vous n’avez plus de place.
+
+[06388.306]
+Il n’y a rien ici.
+

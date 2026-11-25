@@ -1,0 +1,112 @@
+[06733.001]
+Dragon volant
+
+[06733.002]
+Dragon volant
+
+[06733.003]
+Gaap
+
+[06733.004]
+... Vous voilà. Pauvres êtres, incapables de comprendre le noble idéal.
+
+[06733.006]
+Oui, oui, plains-nous tant que tu veux. Mais... les Lentilles, tu ne t’en serviras pas !
+
+[06733.008]
+Écarte-toi sans faire d’histoires. Si tu nous barres la route... je te pourfends !
+
+[06733.009]
+Gaap
+
+[06733.010]
+Dame {NAME:02 00 00 00}... Est-ce vraiment ce que vous voulez ?
+
+[06733.011]
+Gaap
+
+[06733.012]
+Marcher avec ceux qui refusent le salut de la déesse : j’ai peine à croire que ce soit l’acte d’une Sainte.
+
+[06733.014]
+... Le héros que je cherchais, c’était {NAME:01 00 00 00}.
+
+[06733.016]
+Alors, quoi qu’il en advienne, je marcherai avec lui. C’est... ce que j’ai décidé.
+
+[06733.018]
+{NAME:02 00 00 00}...
+
+[06733.019]
+Gaap
+
+[06733.020]
+... Vous êtes trop différente de dame Elraine. Ce n’est pas ainsi que vous apporterez le salut.
+
+[06733.022]
+Cause tant que tu veux, mais si tu ne dégages pas bientôt, tu vas le sentir passer.
+
+[06733.023]
+Gaap
+
+[06733.024]
+Vous tenez donc à arrêter le Dragon volant. Dans ce cas... !
+
+[06733.025]
+Gaap
+
+[06733.026]
+Pour vous, ce Glasya-Labolas suffira bien.
+
+[06733.028]
+Hé, hé, c’est permis, ça !?
+
+[06733.030]
+Eh bien, tu recules ! Tu ne devais pas le lui faire sentir passer ?
+
+[06733.032]
+Assez de bavardages. Le voilà... !
+
+[06733.033]
+Bon voyage.
+
+[06733.034]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06733.035]
+Voulez-vous passer la nuit ?
+
+[06733.037]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06733.038]
+Reposez-vous bien.
+
+[06733.039]
+Bonjour.
+
+[06733.040]
+Vous n’avez pas assez d’argent.
+
+[06733.041]
+Au plaisir de vous revoir.
+
+[06733.046]
+Obtenu : {16:25 CA}.
+
+[06733.048]
+Obtenu : {08:FF FF FF FF}.
+
+[06733.050]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06733.052]
+Il n’y a rien ici.
+
+[06733.053]
+Temps écoulé
+
+[06733.055]
+Dispositif de contrôle détruit.
+

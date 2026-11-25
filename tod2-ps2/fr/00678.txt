@@ -1,0 +1,18 @@
+[00678.001]
+Bon, vous avez entendu : ensuite, la salle de contrôle.
+
+[00678.002]
+Dis, {NAME:06 00 00 00}. Tu parlais de « prendre le contrôle de Dycroft ». As-tu déjà manipulé les systèmes de l’armée céleste ?
+
+[00678.003]
+Non. Ni manipulés, ni même vus.
+
+[00678.004]
+Pas même vus... ? Cela ira-t-il ?
+
+[00678.005]
+Bah, ça ira bien. Allez, on y va, et vite. J’ai hâte de voir quel système ils utilisent, en face, miaou~♪
+
+[00678.006]
+J-j’ai le vertige, moi...
+

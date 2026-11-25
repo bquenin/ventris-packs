@@ -1,0 +1,49 @@
+[06626.001]
+Catacombes : porte de la Renaissance
+
+[06626.002]
+Catacombes
+
+[06626.003]
+Porte de la Renaissance
+
+[06626.005]
+Une énorme dalle de pierre barre le chemin. Elle n’a pas l’air de pouvoir être brisée.
+
+[06626.006]
+Bon voyage.
+
+[06626.007]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06626.008]
+Voulez-vous passer la nuit ?
+
+[06626.010]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06626.011]
+Reposez-vous bien.
+
+[06626.012]
+Bonjour.
+
+[06626.013]
+Vous n’avez pas assez d’argent.
+
+[06626.014]
+Au plaisir de vous revoir.
+
+[06626.019]
+Obtenu : {16:27 3A}.
+
+[06626.021]
+Obtenu : {08:FF FF FF FF}.
+
+[06626.023]
+Trouvé : {16:27 42}, mais vous n’avez plus de place.
+
+[06626.025]
+Il n’y a rien ici.
+

@@ -1,0 +1,1404 @@
+[06496.001]
+Hope Town
+
+[06496.002]
+Hope Town
+
+[06496.003]
+Hope Town
+
+[06496.004]
+Hope Town
+
+[06496.005]
+Hope Town
+
+[06496.006]
+Dream
+
+[06496.007]
+Frontier
+
+[06496.008]
+True
+
+[06496.009]
+Guts
+
+[06496.010]
+Justice
+
+[06496.011]
+Brave
+
+[06496.012]
+Grande sœur {NAME:05 00 00 00}, la prochaine fois, tu m’apprends à tirer à l’arc, dis.
+
+[06496.013]
+Une épée lourde, je ne peux pas la manier, mais un petit arc, moi aussi, je saurais m’en servir, non ?
+
+[06496.015]
+Bien. Alors on commence par le petit gibier.
+
+[06496.016]
+Moi aussi, je veux devenir forte comme grande sœur {NAME:05 00 00 00}.
+
+[06496.018]
+Devenir forte, très bien, mais pour le caractère, mieux vaut ne pas lui ressembler.
+
+[06496.019]
+Moi aussi, je veux vite grandir, pour aider grande sœur {NAME:05 00 00 00}.
+
+[06496.020]
+Dans cette ville, il y a une règle : chacun s’occupe de ses affaires, et ce qui regarde tout le monde, on le fait tous ensemble.
+
+[06496.021]
+Ce n’est pas parce qu’on est un enfant qu’on peut passer son temps à jouer.
+
+[06496.022]
+J’ai enfin fini d’arroser le champ. Je suis allé vingt-cinq fois jusqu’au puits.
+
+[06496.024]
+Bravo, bravo. Tu as tout fait tout seul ? Ça, c’est quelque chose.
+
+[06496.025]
+Euh... une fois le champ arrosé, je vais puiser l’eau pour la cuisine, et...
+
+[06496.027]
+Ouah~. Ils sont tous drôlement travailleurs.
+
+[06496.028]
+Euh... une fois le champ arrosé, je vais puiser l’eau pour la cuisine, et...
+
+[06496.030]
+Pas de dialogue défini pour ce drapeau.
+
+[06496.031]
+Youpi~♪ Deux de plus pour faire les monstres~ !
+
+[06496.033]
+Ces deux-là sont fatigués par leur long voyage : si vous y tenez, prenez {NAME:03 00 00 00}.
+
+[06496.035]
+Ouh... J’ai le ventre un peu barbouillé...
+
+[06496.036]
+Youpi~♪ Deux de plus pour faire les monstres !
+
+[06496.038]
+Deux... tu veux dire {NAME:02 00 00 00} et moi !?
+
+[06496.040]
+Des monstres...
+
+[06496.041]
+Les coups que j’ai essayés sur {NAME:03 00 00 00} et {NAME:04 00 00 00}, je vais peut-être m’en servir pour aller prendre du gibier.
+
+[06496.042]
+{NAME:03 00 00 00}, la prochaine fois, tu m’apprends la suite pour draguer, hein.
+
+[06496.044]
+Idiot ! Si tu dis ça tout haut...
+
+[06496.046]
+Toi, alors... tu n’apprends que des âneries à nos enfants !
+
+[06496.047]
+{NAME:03 00 00 00}, la prochaine fois, tu m’apprends la suite pour draguer, hein.
+
+[06496.049]
+Ça marche♪ Mais pas un mot à {NAME:05 00 00 00} ! Elle est plutôt coincée, celle-là.
+
+[06496.050]
+{NAME:03 00 00 00}, pour s’entraîner à l’épée, il ne sert à rien, mais il sait plein de trucs bizarres.
+
+[06496.051]
+Il y en a tellement qu’on ne finira jamais : on fait une bataille de tartes !
+
+[06496.052]
+J’ai fait comme {NAME:03 00 00 00} m’avait appris, et une fille m’a mis une claque !
+
+[06496.054]
+Ça, tout est dans le bon moment. Si l’occasion se présente, je t’apprendrai ça aussi, la prochaine fois.
+
+[06496.056]
+Ne mets pas des sottises dans la tête de nos enfants si innocents !
+
+[06496.057]
+{NAME:03 00 00 00}, tu as dit que tu m’apprendrais à draguer : c’est promis, hein !
+
+[06496.059]
+Pas de dialogue défini pour ce drapeau.
+
+[06496.060]
+{NAME:04 00 00 00}, cette fois, ton masque, je te le prends !
+
+[06496.062]
+Hé ! En voilà une façon de parler à un invité !
+
+[06496.063]
+Dis, {NAME:04 00 00 00}, tu trouves ça bête de jouer avec nous, pas vrai ?
+
+[06496.065]
+N-non, ce n’est pas cela...
+
+[06496.066]
+Pour nous, ça aussi, c’est de l’entraînement. Si tu ne le fais pas sérieusement, pas de dîner !
+
+[06496.067]
+Prendre le masque de {NAME:04 00 00 00}, qui est rapide, c’est s’entraîner à attraper le gibier.
+
+[06496.068]
+Avec autant à manger, plus besoin de travailler~♪
+
+[06496.069]
+Pendant que tu étais partie, {NAME:05 00 00 00}, j’ai encore fabriqué une arme. Tiens, regarde !
+
+[06496.071]
+Hé, ce n’est pas mal fait. Avec ça, même du gros gibier, tu pourrais l’abattre.
+
+[06496.072]
+C’est vrai ? Alors la prochaine fois, tu m’emmènes à la chasse, hein !
+
+[06496.073]
+{NAME:05 00 00 00}, la prochaine fois, tu m’emmènes à la chasse, hein !
+
+[06496.075]
+Pas de dialogue défini pour ce drapeau.
+
+[06496.076]
+Tonton Byrus
+
+[06496.077]
+C’est vous, les compagnons dont parlaient {NAME:03 00 00 00} et {NAME:04 00 00 00} ?
+
+[06496.078]
+Tonton Byrus
+
+[06496.079]
+Ils vous attendaient avec une de ces impatiences, dites donc.
+
+[06496.080]
+Tonton Byrus
+
+[06496.081]
+{NAME:05 00 00 00} est allée sur la tombe ? Elle doit parler de vous à Lou, sûrement.
+
+[06496.083]
+Sur la tombe ? Lou ?
+
+[06496.084]
+Tonton Byrus
+
+[06496.085]
+{NAME:05 00 00 00} doit parler de vous à Lou, sûrement.
+
+[06496.086]
+Tonton Byrus
+
+[06496.087]
+Je vous confie {NAME:05 00 00 00}, hein♪ Elle n’en a pas l’air, mais elle est plus sensible qu’on ne croit.
+
+[06496.089]
+I-idiot ! Ne dis pas de bêtises.
+
+[06496.091]
+Tout à fait. Elle, sensible : c’est une blague, rien d’autre.
+
+[06496.092]
+Tonton Byrus
+
+[06496.093]
+Je vous confie {NAME:05 00 00 00}, hein♪
+
+[06496.094]
+Tonton Byrus
+
+[06496.095]
+Hé, {NAME:05 00 00 00}. À trop manger, tu vas grossir : fais attention.
+
+[06496.097]
+C’est plutôt toi : une bouchée de plus, et ton ventre éclate, non♪
+
+[06496.098]
+Tonton Byrus
+
+[06496.099]
+Hé hé. Une bouchée de plus, et je ne bouge plus jamais.
+
+[06496.100]
+Tonton Byrus
+
+[06496.101]
+Vraiment, on a beau manger, manger, ça ne diminue pas.
+
+[06496.102]
+Tonton Byrus
+
+[06496.103]
+Qu’est-ce que tu as, {NAME:05 00 00 00} ? Tu as l’air toute nostalgique...
+
+[06496.104]
+Tonton Byrus
+
+[06496.105]
+Ça ne fait guère qu’une semaine que tu es partie avec eux, pourtant.
+
+[06496.107]
+C’est vrai... Depuis mon départ, il ne s’est passé que ça.
+
+[06496.108]
+Tonton Byrus
+
+[06496.109]
+Si le pays te manque tant, tu peux rentrer tout de suite, tu sais ?
+
+[06496.111]
+Il me reste encore un sacré travail à faire. Je ne peux pas rentrer.
+
+[06496.113]
+Pas de dialogue défini pour ce drapeau.
+
+[06496.114]
+Tata Camille
+
+[06496.115]
+Nous autres, autrefois, on habitait une ville qui s’appelait Junkland.
+
+[06496.116]
+Tata Camille
+
+[06496.117]
+Junkland, la ville où on vivait autrefois, ah ça, c’était un endroit affreux.
+
+[06496.118]
+Tata Camille
+
+[06496.119]
+Les déchets de la guerre du Ciel et de la Terre s’y entassaient, des gaz puants en sortaient : ce n’était pas un endroit où vivre.
+
+[06496.120]
+Tata Camille
+
+[06496.121]
+Dans le cauchemar d’il y a vingt-huit ans, Junkland a été détruite, et on a perdu notre toit.
+
+[06496.122]
+Tata Camille
+
+[06496.123]
+Mais la terre a dû bouger, à ce moment-là : une oasis a jailli ici, et voilà comment est née Hope Town.
+
+[06496.125]
+Une terre d’espoir trouvée en plein cauchemar... D’où le nom de Hope Town.
+
+[06496.126]
+Tata Camille
+
+[06496.127]
+Le climat a beau être rude, on a beau dire l’endroit dangereux : pour nous, c’est le meilleur endroit qui soit.
+
+[06496.128]
+Tata Camille
+
+[06496.129]
+Mon poids, je m’en moque bien. Moi, je mangerai tout mon soûl jusqu’à ma mort !
+
+[06496.131]
+Ah ! Celui-là aussi a l’air bon~♪
+
+[06496.133]
+Hé, {NAME:05 00 00 00}, reprends-toi !
+
+[06496.134]
+Tata Camille
+
+[06496.135]
+Allez, allez, mangez, vous aussi ! Jusqu’à vous en faire éclater le ventre !
+
+[06496.136]
+Tata Camille
+
+[06496.137]
+Ceux d’Aigrette disent qu’ils ne nous comprennent pas, de vivre dans un endroit pareil...
+
+[06496.138]
+Tata Camille
+
+[06496.139]
+Mais se laver à grande eau après avoir bien travaillé, le bien que ça fait, le sentiment d’avoir rempli sa journée : ils ne connaissent pas ça, sûrement.
+
+[06496.140]
+Tata Camille
+
+[06496.141]
+J’aimerais leur apprendre, à ceux d’Aigrette, le bien que ça fait de suer.
+
+[06496.142]
+Camille
+
+[06496.143]
+Ce grand désastre d’il y a dix-huit ans, qui nous a pris notre pays, fait naître une oasis pareille : qui l’aurait cru...
+
+[06496.145]
+Tantine ! C’est vrai qu’à cette époque, elle était encore jeune.
+
+[06496.146]
+Camille
+
+[06496.147]
+Je n’ai pas encore l’âge d’être appelée « tantine » ! Quelle petite malpolie...
+
+[06496.148]
+Camille
+
+[06496.149]
+Ce grand désastre d’il y a dix-huit ans, qui nous a pris notre pays, fait naître une oasis pareille : qui l’aurait cru...
+
+[06496.150]
+Camille
+
+[06496.151]
+La vie, vraiment, on ne sait jamais ce qui arrive, ni quand...
+
+[06496.152]
+Camille
+
+[06496.153]
+Et vous non plus, vous ne savez pas ce qui peut vous arriver, ni quand.
+
+[06496.154]
+Camille
+
+[06496.155]
+Vraiment, cette petite, c’est quelqu’un ! Elle a voyagé jusqu’ici avec son petit frère malade sur le dos.
+
+[06496.156]
+Mamie Crouton
+
+[06496.157]
+Haa~. Pour une vieille, cette chaleur est rude...
+
+[06496.159]
+Mamie est encore vivante !
+
+[06496.160]
+Mamie Crouton
+
+[06496.161]
+Grrr~ ! On ne tue pas les gens comme ça !!
+
+[06496.163]
+{NAME:05 00 00 00}... tais-toi un peu.
+
+[06496.164]
+Mamie Crouton
+
+[06496.165]
+Haa~. Pour une vieille, cette chaleur est rude...
+
+[06496.166]
+Mamie Crouton
+
+[06496.167]
+Si je ne me lave pas à grande eau, ma cervelle va bouillir...
+
+[06496.168]
+Mamie Crouton
+
+[06496.169]
+Pfou~. Voilà que j’ai mal à la tête, maintenant...
+
+[06496.170]
+Mamie Crouton
+
+[06496.171]
+Qu’un si petit enfant doive souffrir, je ne l’accepte pas...
+
+[06496.172]
+Mamie Crouton
+
+[06496.173]
+La déesse Atamoni n’était-elle pas censée aider ceux qui s’aident eux-mêmes !?
+
+[06496.174]
+Donna
+
+[06496.175]
+Moi, je ne me marierai jamais : je protégerai ce village toute ma vie !
+
+[06496.177]
+Sauf que grande sœur Donna va tomber amoureuse d’un colporteur et lui courir après.
+
+[06496.178]
+Donna
+
+[06496.179]
+Moi, je ne me marierai jamais : je protégerai ce village toute ma vie !
+
+[06496.180]
+Donna
+
+[06496.181]
+Les hommes, tiens ! Doryaaaah ! Kiyeeeh !!
+
+[06496.182]
+Donna
+
+[06496.183]
+Hmm... Une maladie, comment est-ce qu’on la terrasse, au juste ?
+
+[06496.184]
+Billy
+
+[06496.185]
+Vous êtes des voyageurs, vous ? Le coin est dangereux : je vous sers de garde du corps ?
+
+[06496.187]
+Grand frère Billy, c’était mon premier amour...
+
+[06496.189]
+Qu-quoi... Même toi, tu as été amoureuse, comme tout le monde !?
+
+[06496.191]
+Un jour, à la chasse, il est tombé d’une falaise et il est mort...
+
+[06496.192]
+Billy
+
+[06496.193]
+Vous êtes des voyageurs, vous ? Le coin est dangereux : je vous sers de garde du corps ?
+
+[06496.194]
+Billy
+
+[06496.195]
+Mademoiselle, je vous protège, alors après, vous m’accordez un rendez-vous, hein.
+
+[06496.197]
+C’est vrai : il ressemblait à {NAME:03 00 00 00}, il aimait les femmes plus âgées...
+
+[06496.199]
+M-moi, je ne suis pas un type aussi léger !
+
+[06496.200]
+Billy
+
+[06496.201]
+Alors, ça vous dit ? Je vous fais un prix : vous m’engagez comme garde du corps ?
+
+[06496.202]
+Billy
+
+[06496.203]
+Bon sang ! Qu’ils ne guérissent jamais : c’est trop cruel pour ces petits !!
+
+[06496.205]
+Allez passer un peu le temps, vous voulez ?
+
+[06496.207]
+Moi, je prépare le repas. Et puis... je dois passer quelque part.
+
+[06496.208]
+Ah, grande sœur {NAME:05 00 00 00} ! Bon retouuur~ !
+
+[06496.210]
+Me revoilà ! Vous avez tous été sages ?
+
+[06496.211]
+Bien sûr ! Dis, grande sœur {NAME:05 00 00 00}, les cadeaux !? Les cadeaux !
+
+[06496.213]
+Oh, ne me pressez pas ! Bien sûr qu’il y en a. Mais d’abord...
+
+[06496.215]
+Où sont {NAME:03 00 00 00} et {NAME:04 00 00 00} ? J’ai à leur parler.
+
+[06496.216]
+Ces deux-là, tu sais...
+
+[06496.218]
+Attends un peu, toi ! Sale garnement~ !
+
+[06496.220]
+Pas la peine de demander, je vois.
+
+[06496.222]
+Dites donc, vous autres, pas besoin de taper aussi fort pour de vrai !
+
+[06496.223]
+Mais {NAME:03 00 00 00} et {NAME:04 00 00 00} n’y mettent pas du tout du leur !
+
+[06496.224]
+C’est vrai ! Surtout {NAME:04 00 00 00} ! Fais-le plus sérieusement !
+
+[06496.225]
+Un monstre, ça ne marmonne pas comme ça ! Il faut faire « Grouaah ! », plus fort !
+
+[06496.227]
+Pourquoi faut-il que je fasse cela...
+
+[06496.228]
+Aah ! Si vous râlez, {NAME:03 00 00 00} et {NAME:04 00 00 00}, pas de dîner !
+
+[06496.230]
+I-idiot ! Fais-le sérieusement ! Si on nous prive de repas, on est fichus !
+
+[06496.231]
+Si c’est compris, on reprend depuis le début !
+
+[06496.233]
+Ohé, {NAME:03 00 00 00}, {NAME:04 00 00 00} !
+
+[06496.235]
+{NAME:05 00 00 00}~, dis-leur quelque chose, à ceux-là...
+
+[06496.237]
+... {NAME:01 00 00 00} !? Mais c’est {NAME:01 00 00 00} !!
+
+[06496.239]
+Vous êtes sains et saufs ! Vous nous avez fait une de ces peurs, tous les deux !!
+
+[06496.241]
+C’est à nous de dire ça ! Nous aussi, on vous cherchait, et ça n’a pas été simple !
+
+[06496.243]
+Pour nous, cela a été pire. Vraiment, pourquoi faut-il que je garde des enfants...
+
+[06496.244]
+Ça ne va pas, {NAME:04 00 00 00} ! On va vraiment te priver de dîner !
+
+[06496.245]
+Dis, dis, {NAME:03 00 00 00}, on continue !
+
+[06496.246]
+Dis, {NAME:05 00 00 00}, c’est qui, eux ?
+
+[06496.247]
+On s’y remet, viiite ! Allez, {NAME:03 00 00 00} ! Pas de dîner, sinon !
+
+[06496.249]
+Oui, oui, ne parlez pas tous à la fois !
+
+[06496.251]
+Eux deux, ce sont {NAME:01 00 00 00} et {NAME:02 00 00 00}. Des amis de {NAME:03 00 00 00} et de {NAME:04 00 00 00}. Et les miens aussi, bien sûr !
+
+[06496.253]
+Et comme on a à se parler, je vous emprunte un peu {NAME:03 00 00 00} et {NAME:04 00 00 00} : d’accord ?
+
+[06496.254]
+Oui !
+
+[06496.256]
+Et puis, {NAME:03 00 00 00} et {NAME:04 00 00 00}, pas de dîner ce soir ! Dites-le aux tantines.
+
+[06496.258]
+Qu-quoi, qu’est-ce que ça veut dire !?
+
+[06496.260]
+Ne vous faites pas d’idées ! Ce soir, c’est moi qui régale.
+
+[06496.262]
+... Pourvu qu’il en sorte quelque chose de mangeable pour un être humain.
+
+[06496.264]
+... Tu peux vraiment te passer de dîner, tu sais, {NAME:03 00 00 00} ?
+
+[06496.266]
+Non, non, je mangerai avec joie ce qu’on me servira !
+
+[06496.268]
+C’est dit ! Alors allez passer un peu le temps, vous voulez ?
+
+[06496.270]
+Vous devez avoir bien des choses à vous raconter, et j’aimerais que vous voyiez ce village.
+
+[06496.272]
+Et toi, {NAME:05 00 00 00} ?
+
+[06496.274]
+Moi, je prépare le repas. Et puis... je dois passer quelque part.
+
+[06496.276]
+Allez, à tout à l’heure !
+
+[06496.278]
+Bon, on y va ?
+
+[06496.280]
+... Hé, {NAME:03 00 00 00}, qu’est-ce que tu as ?
+
+[06496.282]
+Ah, non... Je me disais qu’elle n’y manque jamais, elle.
+
+[06496.284]
+Rien, rien. Allez, on y va.
+
+[06496.286]
+Là-bas, c’est... Ohé, {NAME:05 00 00 00}...
+
+[06496.288]
+Attends, {NAME:01 00 00 00}.
+
+[06496.290]
+Hein ?
+
+[06496.292]
+Me revoilà, Lou. Il est arrivé quelque chose de bien, aujourd’hui : je viens te le dire.
+
+[06496.294]
+Tu sais, ce coureur de {NAME:03 00 00 00} et ce taciturne de {NAME:04 00 00 00} ?
+
+[06496.296]
+Ceux qu’ils cherchaient, {NAME:01 00 00 00} et {NAME:02 00 00 00} : on les a retrouvés.
+
+[06496.298]
+Ce sont de très braves petits, tous les deux. {NAME:01 00 00 00}, surtout : franc jusqu’à la bêtise, tout droit...
+
+[06496.300]
+... Si tu vivais, tu aurais à peu près l’âge de {NAME:01 00 00 00}...
+
+[06496.302]
+Il n’a pas du tout ton caractère, mais vous auriez été bons amis, j’en suis sûre.
+
+[06496.304]
+Cette tombe, serait-ce...
+
+[06496.306]
+Celle du petit frère de {NAME:05 00 00 00}, à ce qu’on m’a dit.
+
+[06496.308]
+Quand elle rentre de voyage, ou qu’il lui arrive quelque chose d’heureux, elle vient toujours le lui dire comme ça.
+
+[06496.310]
+Ah bon...
+
+[06496.312]
+Ah, pardon. Quand je viens ici, je m’attarde toujours.
+
+[06496.314]
+C’est la tombe... de ton petit frère, on nous a dit.
+
+[06496.316]
+Oui, c’est ça. Il est mort de maladie, quand j’étais petite.
+
+[06496.318]
+On ne pouvait pas le guérir ?
+
+[06496.320]
+Pas par les moyens ordinaires.
+
+[06496.322]
+Les moyens ordinaires... Il y en a qui ne le sont pas ?
+
+[06496.324]
+... Oui. En se donnant à l’Ordre de Fortuna, on est guéri, grâce à un miracle.
+
+[06496.326]
+Mais ni Lou ni moi n’avons choisi ça.
+
+[06496.328]
+Pourquoi ? Avec le pouvoir de la déesse Fortuna, tout est...
+
+[06496.330]
+Mais en échange, il faut passer toute sa vie à Aigrette.
+
+[06496.332]
+C’est un endroit sûr et propre... mais on ne s’y sent pas vivre.
+
+[06496.334]
+C’est que...
+
+[06496.336]
+Alors je suis venue ici, avec Lou.
+
+[06496.338]
+Jusqu’à sa mort... ça n’a pas duré longtemps, mais il a toujours eu le sourire. Et tout le village a été vraiment bon pour nous.
+
+[06496.340]
+Alors je ne regrette rien, et je suis fière de ce village.
+
+[06496.342]
+Aah, j’ai la gorge sèche, moi. Dites, avant de manger, on ne boirait pas quelque chose au bazar ?
+
+[06496.344]
+Après tout, on ne s’est même pas encore raconté ce qui nous est arrivé.
+
+[06496.346]
+Quoi, c’est vrai ? Alors allons du côté des maisons mitoyennes.
+
+[06496.348]
+Tant qu’on y est, il vaut peut-être mieux se caler un peu l’estomac.
+
+[06496.350]
+Si ce qu’elle nous sert est immangeable, on sera privés de dîner pour de bon.
+
+[06496.352]
+Ça m’est égal : je mangerai gaiement avec {NAME:01 00 00 00} et les autres, sans toi !
+
+[06496.354]
+Vraiment, {NAME:03 00 00 00}, ce que tu es capricieux~.
+
+[06496.356]
+... Vraiment, quelle comédie.
+
+[06496.358]
+Hein ?
+
+[06496.360]
+Il a voulu les ménager : {NAME:02 00 00 00}, et {NAME:05 00 00 00}.
+
+[06496.362]
+Ah...
+
+[06496.364]
+{NAME:03 00 00 00} obtient le titre « {08:31 08 00 00} ».
+
+[06496.366]
+{NAME:04 00 00 00} obtient le titre « {08:32 08 00 00} ».
+
+[06496.368]
+C’est... Hope Town. Ce qui veut dire...
+
+[06496.370]
+Que ce sont les souvenirs de {NAME:05 00 00 00}. Alors cherchons-la, pour commencer.
+
+[06496.372]
+Mais c’est {NAME:01 00 00 00} ! Tu tombes bien. Dis, viens avec moi !
+
+[06496.374]
+Hein ? Venir avec toi... Il s’est passé quelque chose ?
+
+[06496.376]
+C’est que, ces temps-ci, les récoltes sont si bonnes qu’on a trop à manger : on ne sait plus qu’en faire.
+
+[06496.378]
+Tout le village mange, et ça ne suffit pas. Vous aussi, {NAME:01 00 00 00}, donnez un coup de main.
+
+[06496.380]
+Tiens, c’est rare. Autour de Hope Town, il ne pousse pas grand-chose, non ?
+
+[06496.382]
+{NAME:01 00 00 00}, on est dans le rêve de {NAME:05 00 00 00}, alors...
+
+[06496.384]
+Ah, c’est vrai...
+
+[06496.386]
+Qu’est-ce que vous chuchotez, tous les deux ? C’est louche, ça !
+
+[06496.388]
+Ah, non, ahaha...
+
+[06496.390]
+Mais s’il y a tant à manger, ça doit s’entasser devant la tombe, à l’heure qu’il est.
+
+[06496.392]
+La tombe... ?
+
+[06496.394]
+Qu’est-ce que tu as ? Dès que tu avais de quoi manger, tu en déposais toujours sur la tombe de ton petit frère, non ?
+
+[06496.396]
+Qu’est-ce que tu racontes, {NAME:03 00 00 00} ? Lou est...
+
+[06496.397]
+Lou
+
+[06496.398]
+Grande sœur {NAME:05 00 00 00}~ !
+
+[06496.400]
+{NAME:05 00 00 00}, cet enfant...
+
+[06496.402]
+Cet enfant... Oh, que de cérémonies ! Dis « Lou », comme toujours.
+
+[06496.404]
+Hé, hé, qu’est-ce qui vous prend, tous ?
+
+[06496.406]
+Ah, non...
+
+[06496.407]
+Lou
+
+[06496.408]
+Dis, grande sœur {NAME:05 00 00 00}, à table, à table !
+
+[06496.410]
+Ah, pardon, pardon. Allez, on y va, tout le monde.
+
+[06496.412]
+... {NAME:02 00 00 00}. Elle a vraiment...
+
+[06496.414]
+Oui, elle a oublié. Que son petit frère est déjà mort...
+
+[06496.416]
+... Tss !
+
+[06496.418]
+Allez ! Venez vite !
+
+[06496.420]
+A-ah, pardon !
+
+[06496.422]
+Qu’est-ce que tu as ?
+
+[06496.424]
+... Moi aussi, je ne sais pas... Quand je viens par ici, je me sens mal...
+
+[06496.425]
+Lou
+
+[06496.426]
+... Par ici, je veux pas...
+
+[06496.428]
+... Tu vois, Lou le dit aussi : rentrons ! Par ici, il n’y a que des tombes...
+
+[06496.430]
+... Viens voir un peu.
+
+[06496.432]
+H-hé, {NAME:03 00 00 00} ! Lâche-moi, je te dis !
+
+[06496.433]
+Lou
+
+[06496.434]
+Grande sœur, grande sœur !
+
+[06496.436]
+{NAME:03 00 00 00} !
+
+[06496.438]
+Je déteste cet endroit... J’ai la poitrine qui se serre, ça fait mal...
+
+[06496.440]
+Alors allons-nous-en vite. On n’a rien à faire dans un endroit pareil...
+
+[06496.442]
+{NAME:05 00 00 00} !
+
+[06496.444]
+... Écoute-moi bien. Le Lou qui est là... est un faux !
+
+[06496.446]
+Un faux... tu dis...
+
+[06496.448]
+Qu’est-ce que tu racontes, {NAME:03 00 00 00} ! Vraiment, toujours à plaisanter...
+
+[06496.450]
+J’ai la tête de quelqu’un qui plaisante !? Lou est mort. De maladie !
+
+[06496.452]
+Mais non... Lou va si bien...
+
+[06496.454]
+... Gh !
+
+[06496.456]
+Ma tête... j’ai mal... ... Pourquoi... gh !
+
+[06496.458]
+Tu disais aussi ceci : que Lou, c’est comme si tu l’avais tué par ton entêtement.
+
+[06496.460]
+Que si tu avais baissé la tête devant ceux de Fortuna pour avoir le remède, Lou ne serait peut-être pas mort.
+
+[06496.461]
+Lou
+
+[06496.462]
+... Grande sœur {NAME:05 00 00 00}, qu’est-ce qu’il dit... lui ?
+
+[06496.464]
+Lou... ... Aah !
+
+[06496.466]
+{NAME:05 00 00 00} !
+
+[06496.468]
+Attends, {NAME:01 00 00 00} !
+
+[06496.470]
+Mais !
+
+[06496.472]
+... Fais confiance à {NAME:03 00 00 00}.
+
+[06496.474]
+Je sais que tu l’as regretté... regretté à en vouloir mourir.
+
+[06496.476]
+Mais... c’est ça, la réalité. Lou est mort !
+
+[06496.477]
+Lou
+
+[06496.478]
+Grande sœur {NAME:05 00 00 00} ! Je suis vivant, moi !? Je suis pas mort !?
+
+[06496.480]
+... Lou...... ...... C’est... vrai... Lou n’est... pas mort...
+
+[06496.482]
+Réveille-toi, {NAME:05 00 00 00} !
+
+[06496.484]
+Faire un rêve commode, fabriqué par la déesse, et détourner les yeux de la réalité... C’est ça, le bonheur que tu voulais !
+
+[06496.486]
+Bien sûr que non ! Avoir vécu de toutes tes forces avec Lou : c’est ça, ton bonheur !
+
+[06496.487]
+Lou
+
+[06496.488]
+Grande sœur {NAME:05 00 00 00} ! Je suis pas mort !!
+
+[06496.490]
+Ce que tu as gagné à vivre comme ça avec Lou, il y en a des montagnes !
+
+[06496.492]
+Le prix d’une vie, la volonté de protéger celui qu’on aime : tout ça, c’est Lou qui te l’a donné !
+
+[06496.493]
+Lou
+
+[06496.494]
+Grande sœur {NAME:05 00 00 00}, regarde-moi ! Je suis là, moi !!
+
+[06496.496]
+Souviens-toi, {NAME:05 00 00 00} ! De la vérité ! De ton vrai bonheur !!
+
+[06496.498]
+........
+
+[06496.500]
+« Ici repose Lou » ... ......
+
+[06496.502]
+... C’est vrai. Moi...
+
+[06496.503]
+Lou
+
+[06496.504]
+Grande sœur {NAME:05 00 00 00}... Je suis vivant...
+
+[06496.505]
+Lou
+
+[06496.506]
+Grande sœur {NAME:05 00 00 00}... ?
+
+[06496.508]
+... Ta grande sœur a été bête...
+
+[06496.510]
+Je t’ai laissé mourir, et je l’ai toujours regretté...
+
+[06496.512]
+Dans un coin de ma tête, je pensais sans cesse : si Lou vivait, et rien d’autre...
+
+[06496.514]
+Et pour finir, un rêve... un rêve pareil, qu’on m’a fait faire, et moi... contente...
+
+[06496.516]
+Le temps... qu’on a vécu, toi et moi... j’avais tout oublié...
+
+[06496.517]
+Lou
+
+[06496.518]
+Grande sœur, je...
+
+[06496.520]
+Mais ça aussi... c’est fini. ...... Ta grande sœur se souvient enfin de tout... alors...
+
+[06496.522]
+Au revoir, Lou... !
+
+[06496.524]
+........
+
+[06496.526]
+... {NAME:03 00 00 00}... Moi... moi !
+
+[06496.528]
+... !
+
+[06496.530]
+... Allez, pleure. Je te cache le visage.
+
+[06496.532]
+... {NAME:03 00 00 00}...
+
+[06496.534]
+Uh... aah... ! ... Ouaaaaah !
+
+[06496.536]
+... Ça a été dur.
+
+[06496.538]
+Mais c’est... mieux ainsi. Pas vrai ?
+
+[06496.540]
+Oui... oui... !
+
+[06496.542]
+Il y a la tombe de quelqu’un, par ici.
+
+[06496.544]
+Allez, laisse ça : d’abord, on va montrer à ces deux-là qu’on va bien, non ?
+
+[06496.546]
+C’est celle du petit frère de {NAME:05 00 00 00}...
+
+[06496.548]
+Allez, {NAME:01 00 00 00}. On va vite se faire servir à manger.
+
+[06496.550]
+Il est vrai que ce n’est pas une chose à regarder avec insistance.
+
+[06496.552]
+Bon, je repars un petit moment : sois sage.
+
+[06496.554]
+Pardon d’être restée absente si longtemps...
+
+[06496.556]
+... Enfin, dans ce monde-ci, il ne s’est pas écoulé tant de temps...
+
+[06496.558]
+Je m’absente encore un peu, mais tu sauras m’attendre bien sagement, hein ?
+
+[06496.560]
+Mes récits de voyage, je te les ferai tous d’un coup, à mon retour.
+
+[06496.562]
+J’ai des montagnes de choses à te raconter...
+
+[06496.564]
+Une tombe... La tombe de qui ?
+
+[06496.566]
+Il faut retrouver {NAME:05 00 00 00}...
+
+[06496.568]
+Il faut réveiller {NAME:05 00 00 00}...
+
+[06496.570]
+Mieux vaut ne pas sortir pour l’instant...
+
+[06496.572]
+{NAME:03 00 00 00} ! Tu es encore allé draguer dans les autres villes, hein !
+
+[06496.574]
+Dur, dur, d’être un homme à succès♪ Ouh ! Ne pointe pas ton arc sur moi, {NAME:05 00 00 00} !!
+
+[06496.576]
+Une poterie au décor propre à la région de Calvalese.
+
+[06496.578]
+Quelques légumes poussent dans la terre desséchée. Sous le rude climat de Calvalese, on ne peut sans doute pas cultiver comme il faut.
+
+[06496.580]
+Un puits plein d’une eau limpide.
+
+[06496.582]
+Des articles de bazar sont alignés. ... Prendre quelque chose à Hope Town, si pauvre, on en a scrupule.
+
+[06496.584]
+Il y a un serpent dans la jarre.
+
+[06496.585]
+Fillette
+
+[06496.586]
+Encore une chaude journée... Euh... vous, là, avec le masque... vous n’avez pas chaud ?
+
+[06496.588]
+........
+
+[06496.589]
+Fillette
+
+[06496.590]
+Lou a l’air tout à fait guéri ! Quel bonheur !
+
+[06496.591]
+Fillette
+
+[06496.592]
+Pauvre Lou...
+
+[06496.593]
+Garçonnet
+
+[06496.594]
+Moi, j’adore travailler ! Suer un bon coup, et après, boire de l’eau d’un trait : il n’y a rien de mieux !
+
+[06496.595]
+Garçonnet
+
+[06496.596]
+{NAME:05 00 00 00} est jolie, gentille, elle est bien... J’aimerais l’épouser, {NAME:05 00 00 00}.
+
+[06496.597]
+Garçonnet
+
+[06496.598]
+Je voudrais tant aider {NAME:05 00 00 00}, mais moi, je ne peux rien faire...
+
+[06496.599]
+Fillette
+
+[06496.600]
+L’eau est la source de la vie... Là où il n’y a pas d’eau, ni les bêtes ni les plantes ne peuvent vivre.
+
+[06496.601]
+Fillette
+
+[06496.602]
+Moi, je voudrais être médecin.
+
+[06496.603]
+Fillette
+
+[06496.604]
+Comment faire...
+
+[06496.605]
+Garçonnet
+
+[06496.606]
+Les gens d’ici sont gentils, mais ils se mêlent un peu de tout ! Moi, je voudrais qu’on respecte davantage « l’individu ».
+
+[06496.607]
+Garçonnet
+
+[06496.608]
+Si je tombais malade, moi aussi, est-ce que tout le monde s’inquiéterait... Est-ce qu’on m’aiderait...
+
+[06496.609]
+Garçonnet
+
+[06496.610]
+L’enfant venu d’ailleurs est au lit, malade. Ça ne me plaît pas trop... Ça ne s’attrape pas, au moins ?
+
+[06496.611]
+Garçonnet
+
+[06496.612]
+Ici, tout le monde vit en s’entraidant. On partage les joies et les peines.
+
+[06496.613]
+Bon voyage.
+
+[06496.614]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06496.615]
+Voulez-vous passer la nuit ?
+
+[06496.617]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06496.618]
+Reposez-vous bien.
+
+[06496.619]
+Bonjour.
+
+[06496.620]
+Vous n’avez pas assez d’argent.
+
+[06496.621]
+Au plaisir de vous revoir.
+
+[06496.626]
+Obtenu : {16:27 26}.
+
+[06496.628]
+Obtenu : {08:FF FF FF FF}.
+
+[06496.630]
+Trouvé : {16:27 2E}, mais vous n’avez plus de place.
+
+[06496.632]
+Il n’y a rien ici.
+
+[06496.633]
+Vendeur ({08:12 00 00 00})
+
+[06496.634]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06496.635]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06496.636]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06496.637]
+C’est {0B:01 00 00 00}{14:37 38}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06496.639]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:27 42} ({14:37 3C} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06496.641]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06496.642]
+Merci de votre achat.
+
+[06496.643]
+Merci de votre achat.
+
+[06496.644]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:37 38}{0B:00 00 00 00} Gald pièce.
+
+[06496.645]
+Voulez-vous suivre le cours de raffinage ?
+
+[06496.647]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06496.648]
+Que voulez-vous savoir ?
+
+[06496.650]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06496.652]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06496.653]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06496.654]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06496.655]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06496.656]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06496.657]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06496.658]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06496.659]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06496.660]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06496.661]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06496.662]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06496.663]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06496.664]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06496.665]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06496.666]
+Je vous expliquerai les emplacements en détail à part.
+
+[06496.667]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06496.668]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06496.669]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06496.670]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06496.671]
+Je vais vous expliquer les emplacements en détail.
+
+[06496.672]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06496.673]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06496.674]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06496.675]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06496.676]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06496.677]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06496.678]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06496.679]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06496.680]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06496.681]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06496.682]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06496.683]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06496.684]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06496.685]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06496.686]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06496.687]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06496.688]
+... Ranger ses objets, c’est important aussi.
+

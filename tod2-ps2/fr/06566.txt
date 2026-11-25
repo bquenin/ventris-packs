@@ -1,0 +1,130 @@
+[06566.001]
+Base de l’armée terrestre
+
+[06566.002]
+Base de l’armée terrestre
+
+[06566.004]
+Un vieil équipement à moitié cassé. On doit être forcé de se servir même de cela.
+
+[06566.005]
+Gradé novice
+
+[06566.006]
+Pourquoi une organisation comme l’armée céleste est-elle née ?
+
+[06566.007]
+Gradé vétéran
+
+[06566.008]
+Un coup d’État. Miktran et ses hommes, qui convoitaient la puissance écrasante de Dycroft, se sont révoltés.
+
+[06566.009]
+Gradé vétéran
+
+[06566.010]
+Cette guerre est une sottise, née de l’ambition de Miktran et de ses hommes.
+
+[06566.011]
+Gradé novice
+
+[06566.012]
+... L’autre jour, j’ai été nommé chef d’unité. Qu’un bleu comme moi se retrouve avec des subordonnés, je ne l’aurais jamais imaginé.
+
+[06566.013]
+Gradé vétéran
+
+[06566.014]
+Bah, vu la situation... À vrai dire, on n’a plus le luxe de faire les difficiles.
+
+[06566.015]
+Gradé vétéran
+
+[06566.016]
+Mais tes hommes sont à plaindre. Mourir sous les ordres d’un blanc-bec sans expérience, on ne repose pas en paix après ça !
+
+[06566.017]
+Gradé novice
+
+[06566.018]
+N-ne me mettez pas la pression, s’il vous plaît !
+
+[06566.019]
+Gradé vétéran
+
+[06566.020]
+Le bleu, il paraît que pour l’assaut de Dycroft, toi, tu restes en attente au sol.
+
+[06566.021]
+Gradé novice
+
+[06566.022]
+C’est rageant. Tout ça parce que je n’ai pas d’expérience...
+
+[06566.023]
+Gradé vétéran
+
+[06566.024]
+Bah, personne n’a envie de confier sa vie à un amateur.
+
+[06566.025]
+Gradé vétéran
+
+[06566.026]
+Je me donnerai du mal à ta place, alors attends-moi en préparant la popote.
+
+[06566.027]
+Gradé novice
+
+[06566.028]
+À vos ordres, madame ! Bonne chance au combat !
+
+[06566.029]
+Gradé vétéran
+
+[06566.030]
+La vie militaire n’était pas si mal. Mais à la prochaine opération, c’est fini : si je rentre vivante, je quitte le service.
+
+[06566.031]
+Gradé novice
+
+[06566.032]
+À vos ordres, madame ! Gagnons à coup sûr et finissons-en avec la guerre !
+
+[06566.033]
+Bon voyage.
+
+[06566.034]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06566.035]
+Voulez-vous passer la nuit ?
+
+[06566.037]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06566.038]
+Reposez-vous bien.
+
+[06566.039]
+Bonjour.
+
+[06566.040]
+Vous n’avez pas assez d’argent.
+
+[06566.041]
+Au plaisir de vous revoir.
+
+[06566.046]
+Obtenu : {16:25 BA}.
+
+[06566.048]
+Obtenu : {08:FF FF FF FF}.
+
+[06566.050]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06566.052]
+Il n’y a rien ici.
+

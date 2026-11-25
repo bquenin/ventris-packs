@@ -1,0 +1,106 @@
+[06536.001]
+Vangelo : place de la Fontaine
+
+[06536.002]
+Vangelo, la Cité d’azur
+
+[06536.003]
+Place de la Fontaine
+
+[06536.004]
+Vieil homme
+
+[06536.005]
+Dame Elraine répand ses bienfaits sur la terre, et la gratitude de nous autres qui les recevons lui revient sous forme de prières...
+
+[06536.006]
+Vieil homme
+
+[06536.007]
+C’est ce lien que représente cette fontaine, voyez-vous.
+
+[06536.008]
+Vieil homme
+
+[06536.009]
+Le lien entre dame Elraine et nous... Voilà ce que renferme cette fontaine.
+
+[06536.010]
+Vieil homme
+
+[06536.011]
+Curieuse, cette fontaine, hein ? L’eau, une fois tombée, est puisée de nouveau, et elle tourne, tourne sans fin.
+
+[06536.013]
+C’est vrai, elle a une forme étrange. Mais pourquoi lui avoir donné exprès cette forme ?
+
+[06536.014]
+Vieil homme
+
+[06536.015]
+C’est que, voyez-vous, cette fontaine représente le lien entre dame Elraine et nous.
+
+[06536.017]
+Ça tombe bien. Reposons-nous un peu ici.
+
+[06536.019]
+Moi, il y a un truc que je n’arrive pas à avaler. Changer le monde à ce point, c’est vraiment possible ?
+
+[06536.021]
+À ce sujet, j’ai remarqué une chose.
+
+[06536.023]
+Ce dôme est bâti depuis fort longtemps. Cela se compte en siècles, au bas mot.
+
+[06536.025]
+Autrement dit, le monde est devenu ainsi il y a très longtemps.
+
+[06536.027]
+Sans doute est-ce parce qu’on a touché à une histoire fort ancienne que le dôme est vieux et que tout a changé à ce point.
+
+[06536.029]
+Mais alors, l’histoire a changé à peu près quand ?
+
+[06536.031]
+Cela, je l’ignore moi aussi. Pour le découvrir, il nous faudra sans doute gagner une autre ville.
+
+[06536.033]
+Bon, alors allons chercher d’autres renseignements dans une autre ville !
+
+[06536.034]
+Bon voyage.
+
+[06536.035]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06536.036]
+Voulez-vous passer la nuit ?
+
+[06536.038]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06536.039]
+Reposez-vous bien.
+
+[06536.040]
+Bonjour.
+
+[06536.041]
+Vous n’avez pas assez d’argent.
+
+[06536.042]
+Au plaisir de vous revoir.
+
+[06536.047]
+Obtenu : {16:25 BA}.
+
+[06536.049]
+Obtenu : {08:FF FF FF FF}.
+
+[06536.051]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06536.053]
+Il n’y a rien ici.
+

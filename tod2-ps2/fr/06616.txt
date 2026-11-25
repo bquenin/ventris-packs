@@ -1,0 +1,79 @@
+[06616.001]
+Aquaveil : auberge Shiden
+
+[06616.002]
+Aquaveil
+
+[06616.003]
+Auberge Shiden
+
+[06616.005]
+Un jardin plein de verdure s’étend là.
+
+[06616.007]
+Un mobilier simple et sobre, reflet de la culture du « wabi-sabi » d’Aquaveil.
+
+[06616.008]
+Patronne
+
+[06616.009]
+Soyez les bienvenus à la Shiden. On n’a pas grand-chose à vous offrir, mais prenez donc vos aises.
+
+[06616.010]
+Patronne
+
+[06616.011]
+Habitant
+
+[06616.012]
+Pour notre malheur, il donne de temps en temps un concert de rue sur la place.
+
+[06616.013]
+Habitant
+
+[06616.014]
+Vous avez déjà entendu chanter messire Johnny ? Si ce n’est pas le cas, prenez garde.
+
+[06616.015]
+Habitant
+
+[06616.016]
+Figurez-vous que certains, pour l’avoir entendu par mégarde, ne se sont pas réveillés de trois jours et trois nuits.
+
+[06616.017]
+Bon voyage.
+
+[06616.018]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06616.019]
+Voulez-vous passer la nuit ?
+
+[06616.021]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06616.022]
+Reposez-vous bien.
+
+[06616.023]
+Bonjour.
+
+[06616.024]
+Vous n’avez pas assez d’argent.
+
+[06616.025]
+Au plaisir de vous revoir.
+
+[06616.030]
+Obtenu : {16:25 BA}.
+
+[06616.032]
+Obtenu : {08:FF FF FF FF}.
+
+[06616.034]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06616.036]
+Il n’y a rien ici.
+

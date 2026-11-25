@@ -1,0 +1,97 @@
+[06581.001]
+Radisrol : chambre-labo de {NAME:06 00 00 00}
+
+[06581.002]
+Radisrol
+
+[06581.003]
+Chambre-labo de {NAME:06 00 00 00}
+
+[06581.005]
+Une machine louche affiche des données louches. Peut-être une recherche louche de {NAME:06 00 00 00}.
+
+[06581.007]
+Ça n’a rien de louche.
+
+[06581.009]
+{NAME:06 00 00 00} obtient le titre « {08:33 08 00 00} ».
+
+[06581.011]
+Il est écrit : « Swordian : premier prototype »...
+
+[06581.013]
+On dirait le journal de {NAME:06 00 00 00}...
+
+[06581.015]
+Sur la couverture, on lit... Jennifer Berselius...
+
+[06581.017]
+Plein de petits objets chers à {NAME:06 00 00 00}...
+
+[06581.019]
+Des lettres sont gravées sur le miroir à main : « Est Berselius ». Serait-ce le vrai nom de {NAME:06 00 00 00} ?
+
+[06581.021]
+Une énorme machine marquée « Moteur d’essai de l’Ixifosler ». Ce moteur sera sans doute monté un jour sur l’Ixifosler.
+
+[06581.023]
+« Dragon à intelligence artificielle à Lentille » ... Une machine louche fabriquée par {NAME:06 00 00 00}, apparemment.
+
+[06581.025]
+Les plans des Swordians, semble-t-il. Ils décrivent en détail comment projeter une personnalité sur un cristal-noyau.
+
+[06581.027]
+Une peluche d’un personnage déjà vu quelque part...
+
+[06581.029]
+Le lit de {NAME:06 00 00 00}, d’un goût terriblement fillette. Des vêtements ôtés à la hâte traînent partout...
+
+[06581.031]
+La broderie du vêtement indique... Catherine Berselius...
+
+[06581.033]
+La broderie d’un autre vêtement indique... Camille Berselius...
+
+[06581.035]
+On n’y comprend plus rien...
+
+[06581.037]
+La coqueluche de Phantomile. Ses longues oreilles et sa casquette à l’emblème chic sont adorables !
+
+[06581.038]
+Bon voyage.
+
+[06581.039]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06581.040]
+Voulez-vous passer la nuit ?
+
+[06581.042]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06581.043]
+Reposez-vous bien.
+
+[06581.044]
+Bonjour.
+
+[06581.045]
+Vous n’avez pas assez d’argent.
+
+[06581.046]
+Au plaisir de vous revoir.
+
+[06581.051]
+Obtenu : {16:25 BA}.
+
+[06581.053]
+Obtenu : {08:FF FF FF FF}.
+
+[06581.055]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06581.057]
+Il n’y a rien ici.
+

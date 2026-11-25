@@ -1,0 +1,67 @@
+[06373.001]
+Ruines de Straylize
+
+[06373.002]
+Ruines de Straylize
+
+[06373.003]
+Ruines de Straylize
+
+[06373.005]
+Ici, le temple de Straylize.
+
+[06373.007]
+Cela semble pouvoir se briser sous un choc.
+
+[06373.009]
+Hmm... On dirait bien des ruines liées au grand temple de Straylize. La facture des colonnes, par exemple, c’est tout pareil.
+
+[06373.011]
+Dis, {NAME:03 00 00 00}, ce couloir, il ne partirait pas en direction du grand temple de Straylize ?
+
+[06373.013]
+Si ça se trouve, cet endroit communique avec le grand temple ?
+
+[06373.015]
+Sans doute. Mais fais gaffe, {NAME:01 00 00 00} ! Apparemment, les monstres en ont fait leur repaire.
+
+[06373.017]
+Un « D » s’affiche en « lettres bleues ».
+
+[06373.018]
+Bon voyage.
+
+[06373.019]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06373.020]
+Voulez-vous passer la nuit ?
+
+[06373.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06373.023]
+Reposez-vous bien.
+
+[06373.024]
+Bonjour.
+
+[06373.025]
+Vous n’avez pas assez d’argent.
+
+[06373.026]
+Au plaisir de vous revoir.
+
+[06373.031]
+Obtenu : {16:25 EA}.
+
+[06373.033]
+Obtenu : {08:FF FF FF FF}.
+
+[06373.035]
+Trouvé : {16:25 F2}, mais vous n’avez plus de place.
+
+[06373.037]
+Il n’y a rien ici.
+

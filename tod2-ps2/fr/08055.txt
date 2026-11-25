@@ -1,0 +1,294 @@
+[08055.337288]
++
+
+[08055.337296]
+Anti-altération
+
+[08055.337312]
+Gain HP
+
+[08055.337320]
+Ténèb-R
+
+[08055.337328]
+Lumi-R
+
+[08055.337336]
+Vent-R
+
+[08055.337344]
+Feu-R
+
+[08055.337352]
+Eau-R
+
+[08055.337360]
+Terre-R
+
+[08055.337368]
+Incant.
+
+[08055.337376]
+Gain TP
+
+[08055.337384]
+Gain SP
+
+[08055.337392]
+Chance
+
+[08055.337400]
+Esquive
+
+[08055.337408]
+Précis.
+
+[08055.337416]
+Intell.
+
+[08055.337424]
+Défense
+
+[08055.337432]
+Attaque
+
+[08055.337440]
+Arrêt
+
+[08055.337448]
+Lenteur
+
+[08055.337456]
+Gel
+
+[08055.337464]
+Paraly.
+
+[08055.337472]
+Faible
+
+[08055.337480]
+Poison
+
+[08055.337488]
+c’est-à-dire en {04:06 00 00 00}Spirits Blaster{04:07 00 00 00}, c’est l’occasion !
+
+[08055.337552]
+donc il sert peu. Mais quand les SP restent pleins,
+
+[08055.337608]
+exige {04:05 00 00 00}SP 100 %{04:07 00 00 00}. Les SP baissent pendant l’arte arcane,
+
+[08055.337680]
+ {04:06 00 00 00}Arte mystique{04:07 00 00 00} appris : il suit l’arte arcane, mais
+
+[08055.337744]
+{04:06 00 00 00}[Arte mystique]{04:07 00 00 00}
+
+[08055.337776]
+ Après Lame d’azur, {09:3D 00 00 00} {04:06 00 00 00}maintenu{04:07 00 00 00} le déclenche.
+
+[08055.337840]
+dans le menu {04:05 00 00 00}Enchantement{04:07 00 00 00}, équipez-le sur {04:04 00 00 00}Action{04:07 00 00 00}.
+
+[08055.337912]
+{04:06 00 00 00}Lotus d’azur{04:07 00 00 00} suit la seule Lame d’azur. Dès 50 usages,
+
+[08055.337984]
+ {NAME:01 00 00 00} apprend ensuite l’enchantement {04:06 00 00 00}Arte additionnel{04:07 00 00 00}.
+
+[08055.338056]
+{04:06 00 00 00}[Arte additionnel]{04:07 00 00 00}
+
+[08055.338088]
+en combo.
+
+[08055.338112]
+ La grande différence : {04:06 00 00 00}saisi pendant un arte{04:07 00 00 00}, il s’enchaîne
+
+[08055.338192]
+il se règle dans {04:05 00 00 00}Artes{04:07 00 00 00} du menu, sur {09:3E 00 00 00}.
+
+[08055.338248]
+ L’{04:06 00 00 00}arte arcane{04:07 00 00 00} est un arte supérieur. De même,
+
+[08055.338312]
+{04:06 00 00 00}[Arte arcane]{04:07 00 00 00}
+
+[08055.338336]
+ Un enchantement se retire aussi avec {09:28 00 00 00}.
+
+[08055.338392]
+équipez {04:06 00 00 00}Attaque +{04:07 00 00 00} : il fera plus de dégâts.
+
+[08055.338464]
+Dans {04:05 00 00 00}Enchantement{04:07 00 00 00}, prenez un arte utilisé 40 fois ou plus,
+
+[08055.338536]
+L’équiper demande un nombre d’usages {04:06 00 00 00}(COUNT){04:07 00 00 00} de l’arte ou du sort.
+
+[08055.338616]
+ Un {04:06 00 00 00}enchantement{04:07 00 00 00} s’équipe sur un arte ou un sort pour le renforcer.
+
+[08055.338696]
+{04:06 00 00 00}[Enchantement]{04:07 00 00 00}
+
+[08055.338728]
+ Autre stratégie : des sorts le temps que les {04:05 00 00 00}SP{04:07 00 00 00} remontent.
+
+[08055.338808]
+pour changer de cible.
+
+[08055.338848]
+directement. En incantant, tenez {09:3E 00 00 00} et pressez {09:21 00 00 00}
+
+[08055.338912]
+Un sort coûte des {04:06 00 00 00}TP{04:07 00 00 00} et du temps, mais il vise au loin
+
+[08055.338984]
+ Les sorts aussi se règlent dans {04:05 00 00 00}Artes{04:07 00 00 00} du menu, sur {09:3E 00 00 00}.
+
+[08055.339064]
+{04:06 00 00 00}[Sort d’attaque]{04:07 00 00 00}
+
+[08055.339096]
+changez le réglage {04:04 00 00 00}Défense{04:07 00 00 00}.
+
+[08055.339144]
+{04:05 00 00 00}Stratégie{04:07 00 00 00} : à {NAME:03 00 00 00},
+
+[08055.339176]
+de soin selon ses HP. Pour choisir quand, ouvrez
+
+[08055.339232]
+ En {04:06 00 00 00}auto{04:07 00 00 00}, {NAME:03 00 00 00} lance en combat des sorts
+
+[08055.339288]
+{04:06 00 00 00}[Sort de soin]{04:07 00 00 00}
+
+[08055.339320]
+attaque normale et, {04:06 00 00 00}saisi pendant celle-ci{04:07 00 00 00}, s’enchaîne.
+
+[08055.339392]
+Un arte coûte des {04:06 00 00 00}TP{04:07 00 00 00} mais fait plus de dégâts qu’une
+
+[08055.339456]
+L’arte réglé se lance avec une direction et {09:3E 00 00 00}.
+
+[08055.339520]
+ Un arte appris se règle dans {04:05 00 00 00}Artes{04:07 00 00 00} du menu.
+
+[08055.339592]
+{04:06 00 00 00}[Arte]{04:07 00 00 00}
+
+[08055.339632]
+Besicles d’office
+
+[08055.339688]
+Équipement perdu...
+
+[08055.339712]
+.
+
+[08055.339728]
+LV du jumelé accru
+
+[08055.339752]
+HP max accrus
+
+[08055.339768]
+Emplacement :
+
+[08055.339808]
+Ténèb.
+
+[08055.339816]
+Lumière
+
+[08055.339824]
+Vent
+
+[08055.339832]
+Feu
+
+[08055.339840]
+Eau
+
+[08055.339848]
+Terre
+
+[08055.339856]
+Cristal incarné
+
+[08055.339872]
+Sort addit.
+
+[08055.339888]
+Mystiq.
+
+[08055.339896]
+Arte addit.
+
+[08055.339912]
+{04:07 00 00 00} » obtenu.
+
+[08055.339936]
+Titre « {04:06 00 00 00}
+
+[08055.339952]
+ : c’est raté...
+
+[08055.339976]
+ : plat prêt.
+
+[08055.339992]
+ :
+
+[08055.340024]
+ appris
+
+[08055.340032]
+Sort
+
+[08055.340040]
+Arte
+
+[08055.340048]
+Enchantement
+
+[08055.340064]
+-Arte mystique-
+
+[08055.340080]
+Réglage
+
+[08055.340088]
+État
+
+[08055.340096]
+Cuisine
+
+[08055.340104]
+Ajout
+
+[08055.340112]
+Objets
+
+[08055.340120]
+Équiper
+
+[08055.340128]
+Plan
+
+[08055.340136]
+Artes
+
+[08055.340144]
+A explosé !
+
+[08055.340160]
+En fuite...
+
+[08055.340176]
+Anéantis...
+

@@ -1,0 +1,505 @@
+[06395.001]
+Navire de ligne
+
+[06395.002]
+Navire de ligne
+
+[06395.003]
+Oh là là, oh là là...
+
+[06395.004]
+... Le navire va-t-il couler ?
+
+[06395.005]
+Que faire...
+
+[06395.006]
+Au secours...
+
+[06395.007]
+........
+
+[06395.008]
+Aah... l’eau de mer...
+
+[06395.009]
+Je n’aurais jamais dû embarquer...
+
+[06395.010]
+Je veux m’enfuir...
+
+[06395.011]
+La malédiction du maître des mers...
+
+[06395.012]
+Que faire, que faire...
+
+[06395.013]
+Qu’est devenu le maître des mers ?
+
+[06395.014]
+Aah... ô déesse...
+
+[06395.015]
+Passager
+
+[06395.017]
+Ce satané {NAME:04 00 00 00}...
+
+[06395.019]
+...
+
+[06395.021]
+Je...
+
+[06395.024]
+Marin
+
+[06395.025]
+Fais gaffe, petit ! Tempêtes, pirates, vaisseaux fantômes : en mer, le danger est toujours du voyage !
+
+[06395.026]
+Marin
+
+[06395.027]
+Écoute, petit. En mer, on a toujours le danger pour voisin.
+
+[06395.028]
+Marin
+
+[06395.029]
+Mais rien à craindre... Parce que Bibi est à bord de ce navire !
+
+[06395.030]
+Marin
+
+[06395.031]
+Dès qu’il voit Bibi, n’importe quel danger file la queue entre les jambes !
+
+[06395.032]
+Marin
+
+[06395.033]
+S-si on p-p-panique pour un maître des mers qui se montre, on n’est pas fait pour être un homme de la mer !!
+
+[06395.035]
+On dirait bien que c’est toi qui paniques, pourtant...
+
+[06395.036]
+Marin
+
+[06395.037]
+S-s’attaquer au navire où se trouve Bibi : en voilà un qui n’a pas de chance.
+
+[06395.038]
+Marin
+
+[06395.039]
+A-attends un peu ! Avec mon harpon d’acier, je vais finir au fond de l’eau !!
+
+[06395.041]
+Si c’est toi qui finis au fond de l’eau, on est bien avancés.
+
+[06395.042]
+Marin
+
+[06395.043]
+Attends un peu, le monstre ! D-dès que mon mal de ventre sera passé, je te règle ton compte !!
+
+[06395.044]
+Marin
+
+[06395.045]
+Ça alors, je n’aurais jamais cru que vous me prendriez de vitesse.
+
+[06395.046]
+Marin
+
+[06395.047]
+Je m’incline ! Avant que Bibi ait eu le temps d’accourir, vous l’aviez déjà abattu.
+
+[06395.048]
+Marin
+
+[06395.049]
+Sans ce mal de ventre, un maître des mers ou deux, Bibi vous les aurait tordus comme rien.
+
+[06395.050]
+Marin
+
+[06395.051]
+Gahahaha ! La prochaine fois que le maître des mers se montre, laissez faire Bibi !
+
+[06395.052]
+Marin
+
+[06395.053]
+Je suis en pleine forme, maintenant ! Si le maître des mers revient, Bibi le chassera !
+
+[06395.054]
+Marin
+
+[06395.055]
+Vous êtes costauds, vous aussi, mais vous n’êtes encore que des mômes.
+
+[06395.056]
+Marin
+
+[06395.057]
+S’il arrive quoi que ce soit, Bibi vous protégera. Gah ha ha !
+
+[06395.058]
+Marin
+
+[06395.059]
+Gahahaha ! La prochaine fois que le maître des mers se montre, laissez faire Bibi !
+
+[06395.060]
+Marin
+
+[06395.061]
+Un monde où la déesse existe, c’est quand même bien. On veille toujours sur nous.
+
+[06395.062]
+Marin
+
+[06395.063]
+Cette traversée aussi, la déesse Fortuna veille sur elle : on arrivera à bon port, c’est sûr.
+
+[06395.064]
+Marin
+
+[06395.065]
+Avoir une déesse qui veille sur soi : il y a dix ans, c’était impensable.
+
+[06395.066]
+Marin
+
+[06395.067]
+Fais gaffe, petit ! Tempêtes, pirates, vaisseaux fantômes : en mer, le danger est toujours du voyage !
+
+[06395.068]
+Marin
+
+[06395.069]
+Écoute, petit. En mer, on a toujours le danger pour voisin.
+
+[06395.070]
+Marin
+
+[06395.071]
+Mais rien à craindre... Parce que Bibi est à bord de ce navire !
+
+[06395.072]
+Marin
+
+[06395.073]
+Dès qu’il voit Bibi, n’importe quel danger file la queue entre les jambes !
+
+[06395.075]
+{NAME:01 00 00 00}~ ! Regarde, par ici, par ici !
+
+[06395.077]
+A-attention, {NAME:02 00 00 00} ! Si tu tombes, ce sera grave !!
+
+[06395.079]
+Hi hi, ça va, ça va ! Même si je tombe, tu me sauveras, {NAME:01 00 00 00} !
+
+[06395.081]
+Puisque tu es le futur grand héros, non !
+
+[06395.083]
+Dis, {NAME:01 00 00 00}, tu ne montes pas aussi ? L’odeur de la mer, c’est tellement agréable !
+
+[06395.085]
+Attends-moi, {NAME:02 00 00 00} ! J’arrive tout de suite !
+
+[06395.086]
+Marin
+
+[06395.087]
+Le maître ! C’est le maître de Devil’s Reef !!
+
+[06395.088]
+Marin
+
+[06395.089]
+Hiiiii ! A-au sec, au secours !! Je veux pas mourir, moi, pas encore !
+
+[06395.090]
+Marin
+
+[06395.091]
+Arrête de geindre ! Va prévenir le capitaine, et vite !
+
+[06395.092]
+Marin
+
+[06395.093]
+Et puis doublez les vigies ! Vérifiez que la coque n’a rien ! Vite !
+
+[06395.095]
+Hé, les deux tourtereaux ! C’est pas le moment de roucouler là-haut !
+
+[06395.097]
+Ah ! N-non, ce n’est pas ça, {NAME:02 00 00 00} ! Je ne voulais pas...
+
+[06395.099]
+{NAME:01 00 00 00}, ça va !?
+
+[06395.101]
+Inutile de s’inquiéter. Les idiots sont solides : c’est ainsi depuis toujours.
+
+[06395.103]
+Hé ! Arrête de me traiter d’idiot !!
+
+[06395.105]
+Oui, oui, la dispute, c’est pour plus tard ! D’abord, on va voir ce qui se passe ! Allons à la proue !
+
+[06395.107]
+Alors c’est à cause de lui que le navire s’est arrêté !
+
+[06395.108]
+Marin
+
+[06395.109]
+Hé ! Vous aussi, sauvez-vous, vite !!
+
+[06395.110]
+Marin
+
+[06395.111]
+C’est le « maître des mers » ! Aucun navire n’a croisé ce monstre et s’en est tiré !!
+
+[06395.113]
+Se sauver, il est bien bon : et pour aller où, au juste !?
+
+[06395.115]
+Laissez-nous faire ! Un truc pareil, on va lui régler son compte !!
+
+[06395.117]
+On l’a eu ! Maintenant, le navire va...
+
+[06395.118]
+Marin
+
+[06395.119]
+C’est grave ! Le maître des mers est sous la coque !!
+
+[06395.120]
+Marin
+
+[06395.121]
+Quoi !?
+
+[06395.123]
+Ça sent mauvais. S’il a percé un trou dans la cale...
+
+[06395.125]
+En tout cas, allons voir !
+
+[06395.127]
+On a réuni tout le monde sur le pont, pour l’instant... mais on fait quoi, maintenant !?
+
+[06395.129]
+Dites, on ne pourrait pas nager jusqu’à la côte !?
+
+[06395.131]
+Les hommes, passe encore ; les femmes et les enfants, impossible.
+
+[06395.133]
+Avec des canots de cette taille, on ne sauvera presque personne...
+
+[06395.135]
+Bon sang ! On est complètement coincés !!
+
+[06395.137]
+........
+
+[06395.139]
+Il ne faut pas renoncer ! Cherchons un moyen de sauver tout le monde, coûte que coûte !!
+
+[06395.141]
+Facile à dire...
+
+[06395.143]
+Il existe un moyen, un seul, de sauver tout le monde.
+
+[06395.145]
+Hein !? C-c’est vrai !?
+
+[06395.147]
+... Sers-toi de ton pouvoir, {NAME:02 00 00 00}.
+
+[06395.149]
+Moi...
+
+[06395.151]
+Ouaah !!
+
+[06395.153]
+Là, ça craint pour de bon !
+
+[06395.155]
+... C’est à moi... de les sauver... tous...
+
+[06395.157]
+... !
+
+[06395.159]
+{NAME:02 00 00 00}... !?
+
+[06395.161]
+... Je t’en prie... ...... vole !!
+
+[06395.163]
+Hé, qu’est-ce qu’elle compte faire, {NAME:02 00 00 00} !?
+
+[06395.165]
+Elle veut soulever le navire. Mais...
+
+[06395.167]
+... Nngh !!
+
+[06395.169]
+Déplacer une masse pareille : {NAME:02 00 00 00}, telle qu’elle est aujourd’hui, en est-elle capable...
+
+[06395.171]
+Oh non...
+
+[06395.173]
+Tiens bon ! Tiens bon, {NAME:02 00 00 00} !
+
+[06395.175]
+... Aah !
+
+[06395.177]
+Je t’en prie... !
+
+[06395.179]
+... D-décidément... je n’y... arrive... pas...
+
+[06395.181]
+Il ne faut pas renoncer, {NAME:02 00 00 00} !!
+
+[06395.183]
+...... !
+
+[06395.185]
+Tu peux le faire, {NAME:02 00 00 00} ! Tu vas y arriver, j’en suis sûr !!
+
+[06395.187]
+... ! {NAME:01 00 00 00}... !
+
+[06395.189]
+Incroyable... On est sauvés pour de bon... ! Ha ha... ahahaha !!
+
+[06395.191]
+Tu es incroyable, {NAME:02 00 00 00}... !
+
+[06395.193]
+... J’ai réussi... ...... moi... mon pouvoir... j’y suis... arrivée...
+
+[06395.195]
+{NAME:02 00 00 00} !? {NAME:02 00 00 00} !!
+
+[06395.197]
+{NAME:02 00 00 00} obtient le titre « {08:1B 08 00 00} ».
+
+[06395.200]
+Mais puisque je te dis que c’est pas pour ça que je te le demande !
+
+[06395.202]
+Cette voix... c’est {NAME:03 00 00 00} ! Qu’est-ce qui se passe ?
+
+[06395.204]
+Le port de Snowfria ne devrait plus tarder à être en vue.
+
+[06395.206]
+Arrivés là, Heidelberg est à deux pas.
+
+[06395.208]
+La longue traversée s’achève donc. Ça me fait un petit pincement au cœur.
+
+[06395.210]
+Bah, on n’aura qu’à reprendre le bateau au retour. Pas vrai ?
+
+[06395.212]
+... Oui. Au retour, c’est ça...
+
+[06395.214]
+Nous arrivons bientôt à Snowfria. Préparez-vous à partir. Traînez, et je vous laisse là.
+
+[06395.216]
+{NAME:04 00 00 00}... Oui !
+
+[06395.218]
+{NAME:04 00 00 00}, d-dis... Désolé. Pour tout à l’heure, enfin...
+
+[06395.220]
+Non, j’ai manqué de maturité, moi aussi.
+
+[06395.222]
+{NAME:04 00 00 00}...
+
+[06395.224]
+L’âge réel mis à part, c’est moi qui ai l’âge mental le plus élevé.
+
+[06395.226]
+Discuter au même niveau que l’enfant que tu es : l’adulte que je suis n’aurait pas dû. Je m’en veux.
+
+[06395.228]
+Qu-qu-qu... qu’est-ce que ça veut dire, ça ! Alors le gamin, c’est moi !?
+
+[06395.230]
+C’est ce que j’entendais dire : tu n’avais pas compris ? Ma façon de m’exprimer laisse encore à désirer, semble-t-il.
+
+[06395.232]
+... Pff ! Ahahaha !!
+
+[06395.234]
+Hi hi ! Ahaha !
+
+[06395.236]
+Riez pas, vous deux !
+
+[06395.238]
+Ah, celui-là... il se gêne pas pour dire ce qui lui chante...
+
+[06395.239]
+Bon voyage.
+
+[06395.240]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06395.241]
+Voulez-vous passer la nuit ?
+
+[06395.243]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06395.244]
+Reposez-vous bien.
+
+[06395.245]
+Bonjour.
+
+[06395.246]
+Vous n’avez pas assez d’argent.
+
+[06395.247]
+Au plaisir de vous revoir.
+
+[06395.252]
+Obtenu : {16:27 6A}.
+
+[06395.254]
+Obtenu : {08:FF FF FF FF}.
+
+[06395.256]
+Trouvé : {16:27 72}, mais vous n’avez plus de place.
+
+[06395.258]
+Il n’y a rien ici.
+

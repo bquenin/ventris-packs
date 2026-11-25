@@ -1,0 +1,12 @@
+[00352.001]
+C’est comment, là où tu vis, {NAME:05 00 00 00} ? Comme « Aigrette » ?
+
+[00352.002]
+Tu plaisantes ! Là-bas, l’eau et la nourriture abondent, on y vit sans manquer de rien, non ? « Hope Town »... eh bien, c’est tout le contraire.
+
+[00352.003]
+Le contraire ? Donc pas de nourriture... mais c’est terrible ! Pourquoi tu ne vis pas à Aigrette ?
+
+[00352.004]
+Mmh... Tu me poses une colle. Je n’y ai jamais réfléchi...... Bah, disons : « parce que ça me va ». La vie est dure, c’est vrai, et rude avec les monstres, mais c’est en vivant de toutes ses forces qu’on se sent vivre... Et puis, vivre en priant la déesse, ce n’est pas mon genre.
+

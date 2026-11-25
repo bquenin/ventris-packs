@@ -1,0 +1,76 @@
+[06660.001]
+Œuf de Dieu : niveau supérieur
+
+[06660.002]
+Œuf de Dieu : niveau supérieur
+
+[06660.004]
+On dirait un cul-de-sac. N’empêche, c’est quoi, cet endroit ? Des miroirs aux murs, un drôle de motif au sol...
+
+[06660.006]
+Celui du sol, c’est un « emblème de Derris ». Une marque magique qui redresse le temps et l’espace déformés.
+
+[06660.008]
+Et ces miroirs-là, c’est quoi ? À vue de nez, ça sent le miroir ordinaire, mais...
+
+[06660.010]
+Ouah ! Ce ne sont pas de simples miroirs !
+
+[06660.012]
+... Ces miroirs ne reflètent pas le corps, mais l’esprit.
+
+[06660.014]
+Refléter l’esprit ?
+
+[06660.016]
+Elraine nous a fait rêver, une fois, vous vous souvenez ? C’est la même chose.
+
+[06660.018]
+Dans ces miroirs s’étendent des mondes façonnés d’après les souvenirs de chacun...
+
+[06660.020]
+Des mondes façonnés d’après les souvenirs. Hmf, à quel point sont-ils déformés, je me le demande.
+
+[06660.022]
+Il s’agit sans doute de corriger la déformation avec ce prétendu emblème de Derris...
+
+[06660.024]
+Si Elraine est au-delà, on n’a qu’à avancer. Allons-y, tout le monde !
+
+[06660.025]
+Bon voyage.
+
+[06660.026]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06660.027]
+Voulez-vous passer la nuit ?
+
+[06660.029]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06660.030]
+Reposez-vous bien.
+
+[06660.031]
+Bonjour.
+
+[06660.032]
+Vous n’avez pas assez d’argent.
+
+[06660.033]
+Au plaisir de vous revoir.
+
+[06660.038]
+Obtenu : {16:25 BA}.
+
+[06660.040]
+Obtenu : {08:FF FF FF FF}.
+
+[06660.042]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06660.044]
+Il n’y a rien ici.
+

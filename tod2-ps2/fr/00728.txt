@@ -1,0 +1,27 @@
+[00728.001]
+On a beau dire, c’est un piège de Barbatos.
+
+[00728.002]
+Sans doute... oui.
+
+[00728.003]
+J’ai tort, au fond ? Foncer sans réfléchir, au risque de mettre tout le monde en danger...
+
+[00728.004]
+Mais non.
+
+[00728.005]
+Hein ?
+
+[00728.006]
+Toi, {NAME:01 00 00 00}, reste comme ça. Cours tout droit, comme ton cœur te le dit. Tu trébucheras peut-être, mais pour ces moments-là, nous sommes là, moi et les autres.
+
+[00728.007]
+{NAME:02 00 00 00}...
+
+[00728.008]
+Alors crois en toi, {NAME:01 00 00 00}. Moi aussi... j’y crois.
+
+[00728.009]
+Oui
+

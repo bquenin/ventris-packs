@@ -1,0 +1,49 @@
+[06469.001]
+Aigrette : chemin du grand temple
+
+[06469.002]
+Aigrette
+
+[06469.003]
+Aigrette : chemin du grand temple
+
+[06469.005]
+On voit le grand temple de Straylize, entouré d’une nature grandiose.
+
+[06469.006]
+Bon voyage.
+
+[06469.007]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06469.008]
+Voulez-vous passer la nuit ?
+
+[06469.010]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06469.011]
+Reposez-vous bien.
+
+[06469.012]
+Bonjour.
+
+[06469.013]
+Vous n’avez pas assez d’argent.
+
+[06469.014]
+Au plaisir de vous revoir.
+
+[06469.019]
+Obtenu : {16:25 F6}.
+
+[06469.021]
+Obtenu : {08:FF FF FF FF}.
+
+[06469.023]
+Trouvé : {16:25 FE}, mais vous n’avez plus de place.
+
+[06469.025]
+Il n’y a rien ici.
+

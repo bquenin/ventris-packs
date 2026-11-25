@@ -1,0 +1,21 @@
+[00664.001]
+Haa~, retour du Dépôt en ruine : une base pleine de mecs... Ça manque de douceur, tout ça.
+
+[00664.002]
+De douceur ?
+
+[00664.003]
+Ouais, on est sur un champ de bataille, je sais. Mais... justement, il faut une chose, non ? Oui, c’est...
+
+[00664.004]
+C’est quoi ?
+
+[00664.005]
+Ben, c’est-à-dire... {NAME:15 27 00 00}-{NAME:05 00 00 00}, chère demoiselle !? Pourquoi donc faites-vous craquer vos doigts !?
+
+[00664.006]
+Oh, rien : je me disais que ce qui te manque, c’est peut-être un massage !
+
+[00664.007]
+Stop, {NAME:05 00 00 00} ! Ça, c’est pas un massage, c’est une clé... Gah !
+

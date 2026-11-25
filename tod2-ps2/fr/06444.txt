@@ -1,0 +1,761 @@
+[06444.001]
+Heidelberg : église
+
+[06444.002]
+Heidelberg
+
+[06444.003]
+Église
+
+[06444.004]
+Clerc
+
+[06444.005]
+Les habitants de cette ville ne veulent-ils donc pas être heureux ?
+
+[06444.006]
+Clerc
+
+[06444.007]
+Dans cette ville, presque personne ne fait d’offrande à l’Ordre d’Atamoni.
+
+[06444.008]
+Clerc
+
+[06444.009]
+Ne veulent-ils donc pas être heureux, tous autant qu’ils sont ?
+
+[06444.011]
+Ils doivent être bien assez heureux sans faire d’offrande.
+
+[06444.012]
+Clerc
+
+[06444.013]
+Dans toutes les autres villes, on se presse pour faire des offrandes à l’Ordre d’Atamoni...
+
+[06444.014]
+Clerc
+
+[06444.015]
+Euh~, vous deux, se pourrait-il... non, tout de même pas...
+
+[06444.016]
+Clerc
+
+[06444.017]
+Se pourrait-il... que vous soyez venus tous les deux offrir des Lentilles... ?
+
+[06444.019]
+Non, pas du tout...
+
+[06444.020]
+Clerc
+
+[06444.021]
+Haah~, je m’en doutais... Les habitants d’ici ne viendraient pas faire une offrande...
+
+[06444.022]
+Clerc
+
+[06444.023]
+Pourquoi les habitants de cette ville ne viennent-ils pas offrir de Lentilles...
+
+[06444.024]
+Clerc
+
+[06444.025]
+Qu... ! Qu’est-ce que c’est ? Ce fracas !!
+
+[06444.026]
+Clerc
+
+[06444.027]
+Vous voyez bien... Les habitants n’offrent pas de Lentilles, alors le malheur s’abat sur la ville !
+
+[06444.028]
+Clerc
+
+[06444.029]
+Aah ! Et si nous étions pris là-dedans, nous aussi !!
+
+[06444.030]
+Clerc
+
+[06444.031]
+Si tout le monde avait fait des offrandes, la déesse Atamoni nous aurait protégés...
+
+[06444.032]
+Clerc
+
+[06444.033]
+Vous avez un souci ? En cas de souci, venez quand vous voulez.
+
+[06444.034]
+Clerc
+
+[06444.035]
+Dans cette ville, presque personne ne fait d’offrande à l’Ordre d’Atamoni.
+
+[06444.036]
+Clerc
+
+[06444.037]
+Haa... À ce train-là, aujourd’hui encore, zéro Lentille offerte.
+
+[06444.038]
+Clerc
+
+[06444.039]
+J’ai traversé la mer pour conduire chacun au bonheur... mais on n’a pas besoin de moi, semble-t-il...
+
+[06444.040]
+Clerc
+
+[06444.041]
+Est-ce notre prédication qui ne suffit pas...
+
+[06444.042]
+Clerc
+
+[06444.043]
+Il faut faire connaître davantage à tous les merveilles de l’Ordre d’Atamoni...
+
+[06444.044]
+Clerc
+
+[06444.045]
+Il faut que je trouve le moyen de faire venir les habitants ici...
+
+[06444.046]
+Clerc
+
+[06444.047]
+Mesdames et messieurs, allez, quitte à vous faire avoir, essayez : donnez vos Lentilles...
+
+[06444.048]
+Clerc
+
+[06444.049]
+Non... avec « vous faire avoir », on croirait que je les escroque pour de bon...
+
+[06444.050]
+Clerc
+
+[06444.051]
+S’ils voyaient le pouvoir de dame Elraine, ils comprendraient sûrement...
+
+[06444.052]
+Clerc
+
+[06444.053]
+Ce désordre, voilà l’occasion de montrer aux habitants ce que nous valons, nous, l’Ordre d’Atamoni.
+
+[06444.054]
+Clerc
+
+[06444.055]
+Si nous les tirons tous de ce désordre, ils s’en remettront désormais à l’Ordre, c’est sûr !
+
+[06444.056]
+Clerc
+
+[06444.057]
+Mais comment, nous qui n’avons aucun pouvoir, pourrions-nous les en tirer...
+
+[06444.059]
+Si c’est vous qui perdez la tête, où va-t-on ?
+
+[06444.060]
+Clerc
+
+[06444.061]
+Aah... il faut que je me rende utile aux habitants, d’une façon ou d’une autre...
+
+[06444.062]
+Clerc
+
+[06444.063]
+Haa... La paix est une bonne chose, mais à ce point-là, on s’ennuie...
+
+[06444.064]
+Clerc
+
+[06444.065]
+Haa... À ce train-là, aujourd’hui encore, zéro Lentille offerte.
+
+[06444.066]
+Regina
+
+[06444.067]
+Ce sera bientôt la fête de la Nativité.
+
+[06444.068]
+Préparons les cadeaux des enfants.
+
+[06444.069]
+La nuit de la Nativité, le père Noël vient et offre de beaux cadeaux, vous savez.
+
+[06444.070]
+Je voudrais préserver les rêves des enfants.
+
+[06444.071]
+Il y a dans cette église une petite fille qui s’appelle Ginny.
+
+[06444.072]
+C’est une enfant d’une grande pureté.
+
+[06444.073]
+Ginny est une enfant très droite.
+
+[06444.074]
+J’aimerais exaucer son souhait.
+
+[06444.075]
+Cette petite croit vraiment au père Noël.
+
+[06444.076]
+C’est attendrissant, n’est-ce pas ?
+
+[06444.077]
+Ginny n’a pas de famille : elle vit dans cette église.
+
+[06444.078]
+C’est une très bonne enfant.
+
+[06444.079]
+La petite Saga est une bonne enfant aussi, mais c’est tout le contraire de Ginny.
+
+[06444.080]
+La petite Saga a les pieds sur terre.
+
+[06444.081]
+Mais elle gagnerait peut-être à rêver un peu plus.
+
+[06444.082]
+Le prochain courrier... ne partira pas avant longtemps.
+
+[06444.083]
+Pourvu que la réponse soit bonne...
+
+[06444.084]
+Je ne trouve pas les mots qu’il faudrait dire à Ginny.
+
+[06444.085]
+En pareil cas, que ferait dame Philia ?
+
+[06444.086]
+Avez-vous reçu la réponse de dame Philia ?
+
+[06444.087]
+Je veux préserver le bon cœur de Ginny.
+
+[06444.088]
+Grâce à dame Philia, les enfants ont gardé le sourire.
+
+[06444.089]
+Ma gratitude est sans bornes.
+
+[06444.090]
+Les rêves, l’espoir... Même adulte, il ne faut pas les oublier.
+
+[06444.091]
+Cette enfant est un peu comme ma propre fille.
+
+[06444.092]
+Dans cette église vit une petite fille qui s’appelle Ginny.
+
+[06444.093]
+Cette enfant, c’est Virginia. Ses proches l’appellent Ginny.
+
+[06444.094]
+Où Ginny est-elle donc passée ?
+
+[06444.095]
+Ginny
+
+[06444.096]
+Moi, j’y croyais vraiment.
+
+[06444.097]
+Ginny
+
+[06444.098]
+En vrai, j’ai déjà compris...
+
+[06444.099]
+Ginny
+
+[06444.100]
+Une part de moi espère en dame Philia...
+
+[06444.101]
+Ginny
+
+[06444.102]
+Si le père Noël existait pour de vrai, ce serait bien...
+
+[06444.103]
+Ginny
+
+[06444.104]
+On m’a dit la vérité : est-ce que j’ai un peu grandi, moi aussi ?
+
+[06444.105]
+Ginny
+
+[06444.106]
+Mais je me sens triste, je ne sais pas.
+
+[06444.107]
+Ginny
+
+[06444.108]
+Moi aussi, j’aimerais rencontrer Philia.
+
+[06444.109]
+Ginny
+
+[06444.110]
+Moi, je crois au père Noël.
+
+[06444.111]
+Ginny
+
+[06444.112]
+J’ai un peu honte de n’avoir plus su croire au père Noël.
+
+[06444.113]
+Ginny
+
+[06444.114]
+Je m’appelle Virginia. Vous pouvez dire Ginny.
+
+[06444.115]
+Saga
+
+[06444.116]
+J’ai dit quelque chose de mal.
+
+[06444.117]
+Saga
+
+[06444.118]
+J’espère que tu auras une bonne réponse.
+
+[06444.119]
+Saga
+
+[06444.120]
+Qu’a dit dame Philia ?
+
+[06444.121]
+Saga
+
+[06444.122]
+Oui, c’est vrai. C’est moi qui avais tort.
+
+[06444.123]
+Saga
+
+[06444.124]
+Moi aussi, j’y croyais, autrefois...
+
+[06444.125]
+Saga
+
+[06444.126]
+J’avais oublié une chose importante.
+
+[06444.127]
+Saga
+
+[06444.128]
+Les mots de dame Philia m’ont ouvert les yeux.
+
+[06444.129]
+Regina
+
+[06444.130]
+C’est bientôt la fête de la Nativité.
+
+[06444.131]
+Ginny
+
+[06444.132]
+Oui ! Le père Noël viendra, cette année aussi ?
+
+[06444.133]
+Regina
+
+[06444.134]
+Que voudrais-tu, Ginny ?
+
+[06444.135]
+Ginny
+
+[06444.136]
+Euh... un joli ruban, peut-être.
+
+[06444.137]
+Regina
+
+[06444.138]
+Ah... Le père Noël te l’offrira sûrement.
+
+[06444.139]
+Ginny
+
+[06444.140]
+Oui, j’ai tellement hâte.
+
+[06444.141]
+Ginny
+
+[06444.142]
+Oh, j’y pense : j’avais promis à Saga de jouer avec elle.
+
+[06444.143]
+Ginny
+
+[06444.144]
+Mamie, j’y vais.
+
+[06444.145]
+Regina
+
+[06444.146]
+Va. Fais bien attention.
+
+[06444.147]
+Regina
+
+[06444.148]
+Eh bien, eh bien, que se passe-t-il ?
+
+[06444.149]
+Ginny
+
+[06444.150]
+Tu sais, Saga dit que le père Noël n’existe pas...
+
+[06444.151]
+Regina
+
+[06444.152]
+Le père Noël n’existe pas ?
+
+[06444.153]
+Ginny
+
+[06444.154]
+Qu’en vrai, c’est monsieur le curé qui donne les cadeaux...
+
+[06444.155]
+Ginny
+
+[06444.156]
+Dis, c’est vrai que le père Noël n’existe pas ?
+
+[06444.157]
+Ginny
+
+[06444.158]
+Mon cadeau, c’est monsieur le curé qui me l’a donné ?
+
+[06444.159]
+Ginny
+
+[06444.160]
+Je vous ai causé du souci ?
+
+[06444.161]
+Regina
+
+[06444.162]
+Mais non. Tu m’aides toujours dans mon travail, Ginny.
+
+[06444.163]
+Ginny
+
+[06444.164]
+Mais...
+
+[06444.165]
+Saga
+
+[06444.166]
+J’ai une idée, Ginny : si tu écrivais une lettre pour demander si le père Noël existe vraiment ?
+
+[06444.167]
+Ginny
+
+[06444.168]
+Une lettre ? Demander à qui ?
+
+[06444.169]
+Saga
+
+[06444.170]
+À dame Philia, du grand temple de Straylize.
+
+[06444.171]
+Ginny
+
+[06444.172]
+Dame Philia ?
+
+[06444.173]
+Saga
+
+[06444.174]
+Oui. Dame Philia te dira sûrement la vérité.
+
+[06444.175]
+Regina
+
+[06444.176]
+Oui, c’est une bonne idée.
+
+[06444.177]
+Ginny
+
+[06444.178]
+D’accord.
+
+[06444.180]
+Bonjour, Philia.
+
+[06444.182]
+Je vous écris aujourd’hui parce que je voudrais que vous m’appreniez une chose.
+
+[06444.184]
+C’est à propos du père Noël, qui nous donne des cadeaux la nuit de la Nativité.
+
+[06444.186]
+Jusqu’à aujourd’hui, je croyais vraiment que le père Noël...
+
+[06444.188]
+........
+
+[06444.189]
+Ginny
+
+[06444.190]
+Ouf, c’est écrit.
+
+[06444.191]
+Ginny
+
+[06444.192]
+Mais me voilà bien ennuyée.
+
+[06444.193]
+Ginny
+
+[06444.194]
+Comment faire parvenir cette lettre à dame Philia...
+
+[06444.195]
+Ginny
+
+[06444.196]
+Vous connaîtriez Philia, par hasard ?{02}
+
+[06444.198]
+{03:00 00 00 00}　La porter pour elle　
+　Pas le temps pour l’instant　
+
+[06444.199]
+Ginny
+
+[06444.200]
+C’est vrai ? Merci beaucoup !
+
+[06444.201]
+Ginny
+
+[06444.202]
+Alors, voudriez-vous porter cette lettre à dame Philia, au grand temple de Straylize ?
+
+[06444.204]
+Reçu : la lettre de Ginny.
+
+[06444.205]
+Ginny
+
+[06444.206]
+Je compte sur vous, alors.
+
+[06444.207]
+Ginny
+
+[06444.208]
+Je comprends, pardon.
+
+[06444.209]
+Ginny
+
+[06444.210]
+Haa, comment faire...
+
+[06444.211]
+Ginny
+
+[06444.212]
+C’est la réponse de dame Philia ?
+
+[06444.213]
+Ginny
+
+[06444.214]
+Merci beaucoup.
+
+[06444.215]
+Saga
+
+[06444.216]
+Qu’est-ce que tu as ? Tu ne la lis pas ?
+
+[06444.217]
+Ginny
+
+[06444.218]
+Quelque part au fond de moi, j’espérais que la réponse n’arriverait pas.
+
+[06444.219]
+Regina
+
+[06444.220]
+Ne dis pas cela...
+
+[06444.221]
+Ginny
+
+[06444.222]
+Oui, je sais. Ne t’inquiète pas, mamie.
+
+[06444.224]
+Chère Virginia,
+
+[06444.226]
+J’ai bien lu ta lettre.
+
+[06444.228]
+Tu me demandes si le père Noël existe vraiment.
+
+[06444.230]
+Bien sûr que le père Noël existe.
+
+[06444.232]
+Il est vrai, comme le dit ton amie, que personne peut-être n’a vu le père Noël.
+
+[06444.234]
+Mais si personne ne l’a vu, n’existe-t-il vraiment pas ?
+
+[06444.236]
+Ne peut-on croire au père Noël parce qu’on ne le voit pas ?
+
+[06444.238]
+Moi, j’aimerais pouvoir donner à beaucoup de gens de la bonté et de l’affection, des rêves, de l’espoir.
+
+[06444.240]
+C’est ce que j’ai voulu jusqu’ici, et ce que je souhaite faire encore à l’avenir.
+
+[06444.242]
+Car je crois que nous avons besoin de choses incertaines, que l’œil ne voit pas, comme les rêves et l’espoir.
+
+[06444.244]
+Du jour où tu penseras que le père Noël n’existe pas, Ginny, le père Noël n’existera plus.
+
+[06444.246]
+Ce qui compte vraiment en ce monde, je crois que c’est peut-être ce que l’œil ne voit pas.
+
+[06444.248]
+Ne dis pas une chose aussi triste : qu’on ne peut croire à ce qu’on ne voit pas.
+
+[06444.250]
+Il suffit que tu y croies, Ginny, pour que le père Noël existe bel et bien dans ton cœur.
+
+[06444.252]
+Ferme les yeux et rappelle-toi la nuit de la Nativité.
+
+[06444.254]
+Ce moment où, le cœur battant, tu t’es glissée dans ton lit sans pouvoir t’endormir.
+
+[06444.256]
+Cette émotion, au réveil, en trouvant un cadeau dans ta vieille chaussette.
+
+[06444.258]
+C’est cela, le père Noël.
+
+[06444.260]
+Tant qu’il y aura dans le monde entier le bon cœur des enfants, il vivra à jamais dans ces cœurs.
+
+[06444.262]
+Que le père Noël reste toujours auprès de ton bon cœur, Ginny.
+
+[06444.264]
+Philia Felice, qui aimerait être l’amie de Ginny
+
+[06444.265]
+Ginny
+
+[06444.266]
+Oui, c’est vrai.
+
+[06444.267]
+Ginny
+
+[06444.268]
+J’avais oublié une chose importante, et je me tourmentais pour une chose sans importance...
+
+[06444.269]
+Ginny
+
+[06444.270]
+{NAME:E8 03 00 00}, ça va, maintenant. Merci beaucoup.
+
+[06444.271]
+Ginny
+
+[06444.272]
+Dites bien à Philia que, grâce à elle, Virginia a retrouvé sa gaieté.
+
+[06444.273]
+Bon voyage.
+
+[06444.274]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06444.275]
+Voulez-vous passer la nuit ?
+
+[06444.277]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06444.278]
+Reposez-vous bien.
+
+[06444.279]
+Bonjour.
+
+[06444.280]
+Vous n’avez pas assez d’argent.
+
+[06444.281]
+Au plaisir de vous revoir.
+
+[06444.286]
+Obtenu : {16:25 CA}.
+
+[06444.288]
+Obtenu : {08:FF FF FF FF}.
+
+[06444.290]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06444.292]
+Il n’y a rien ici.
+

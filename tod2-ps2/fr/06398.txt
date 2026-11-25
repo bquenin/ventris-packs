@@ -1,0 +1,166 @@
+[06398.001]
+Navire de ligne
+
+[06398.002]
+Navire de ligne
+
+[06398.004]
+Ça, c’est... !
+
+[06398.006]
+Question de quiz TOE trouvée !
+
+[06398.008]
+Une nouvelle catégorie s’ajoute au Livre de quiz.
+
+[06398.010]
+Quelque chose est écrit dans le carnet... « Je déteste les gelées ! Jamais je ne mangerai de gelée en combat ! Comme ça, le titre... »
+
+[06398.018]
+À bord, chacun fait ce qu’il veut, d’accord ? Bon, sur ce.
+
+[06398.020]
+Tu vas où, {NAME:03 00 00 00} ?
+
+[06398.022]
+{NAME:01 00 00 00}, comme tu ne dois pas le savoir, je vais te l’apprendre.
+
+[06398.024]
+Le voyage, ça met les gens d’humeur à se laisser aller.
+
+[06398.026]
+Oui, oui.
+
+[06398.028]
+Des amoureux de passage. Un rendez-vous, un seul...
+
+[06398.030]
+Mais c’est parce qu’il n’y aura pas de prochaine fois que la flamme brûle si fort ! Tu saisis ?
+
+[06398.032]
+... Bref, tu vas draguer, {NAME:03 00 00 00}.
+
+[06398.034]
+Fais pas cette tête. Et puis, que ça mette d’humeur à se laisser aller, c’est pas si faux, à mon avis.
+
+[06398.036]
+Tiens, essaie donc d’inviter {NAME:02 00 00 00} ? Ça pourrait bien coller entre vous.
+
+[06398.038]
+M-moi, ce n’est pas du tout ça !
+
+[06398.040]
+Si je croise {NAME:02 00 00 00}, je lui dirai que tu la cherchais. Allez, salut !
+
+[06398.042]
+{NAME:03 00 00 00} obtient le titre « {08:1E 08 00 00} ».
+
+[06398.044]
+... Vraiment. Bruyant où qu’il aille, celui-là.
+
+[06398.046]
+Tiens ? Tu t’en vas aussi, {NAME:04 00 00 00} ?
+
+[06398.048]
+Je veux réfléchir seul. Ne me suis pas.
+
+[06398.050]
+Bon, qu’est-ce que je fais...
+
+[06398.052]
+Rester là à rêvasser, c’est ennuyeux aussi...
+
+[06398.054]
+{NAME:03 00 00 00} et {NAME:04 00 00 00}, où sont-ils passés ?
+
+[06398.056]
+J’ai une question à lui poser, à lui. Désolé, mais reste ici, toi aussi.
+
+[06398.058]
+Je le trouvais déjà insaisissable, mais avec cette affaire, c’est devenu clair.
+
+[06398.060]
+Ce qui m’a d’abord paru louche, c’est que tu connaissais Stahn. Et plutôt bien, qui plus est.
+
+[06398.062]
+Ce qui m’a fait tiquer ensuite, c’est que tu connaissais Ilene Rembrandt, et même ses dernières volontés.
+
+[06398.064]
+Stahn est un héros des derniers grands troubles, et Ilene, une dirigeante de la compagnie Oberon, se serait donné la mort à sa chute...
+
+[06398.066]
+Que tu les aies connus tous les deux, à ton âge, ce n’est vraiment pas naturel.
+
+[06398.068]
+À mon avis, c’est de ce côté-là qu’il faut chercher pourquoi tu caches ton visage. Alors, je me trompe, {NAME:04 00 00 00} ?
+
+[06398.070]
+Cette question était déjà tranchée, il me semble : qui que je sois, vous me faisiez confiance comme à un compagnon.
+
+[06398.072]
+Je le sais, et je te le demande quand même. Je veux juste connaître la vérité.
+
+[06398.074]
+Si tu y tiens, il faudra qu’elle s’y prête. C’est le seul moyen de donner une explication rationnelle.
+
+[06398.076]
+M-moi... !
+
+[06398.078]
+Arrête, maintenant, {NAME:03 00 00 00} !
+
+[06398.080]
+Moi, j’ai décidé de faire confiance à {NAME:04 00 00 00}, et je veux que tu en fasses autant, {NAME:03 00 00 00} !
+
+[06398.082]
+Si on a pu voyager jusqu’ici, c’est bien parce qu’on se faisait confiance, non !
+
+[06398.084]
+D’accord. Tu as raison. On remet ça à plus tard. Désolé, {NAME:04 00 00 00}.
+
+[06398.086]
+Pour se changer les idées, on fait un tour du navire ? Viens, {NAME:01 00 00 00}.
+
+[06398.088]
+C’est bien de savoir où sont {NAME:03 00 00 00} et {NAME:04 00 00 00}, mais...
+
+[06398.090]
+Le plus important, je ne l’ai toujours pas appris : {NAME:02 00 00 00}, elle est où ?
+
+[06398.091]
+Bon voyage.
+
+[06398.092]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06398.093]
+Voulez-vous passer la nuit ?
+
+[06398.095]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06398.096]
+Reposez-vous bien.
+
+[06398.097]
+Bonjour.
+
+[06398.098]
+Vous n’avez pas assez d’argent.
+
+[06398.099]
+Au plaisir de vous revoir.
+
+[06398.104]
+Obtenu : {16:25 BA}.
+
+[06398.106]
+Obtenu : {08:FF FF FF FF}.
+
+[06398.108]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06398.110]
+Il n’y a rien ici.
+

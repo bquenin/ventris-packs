@@ -1,0 +1,6 @@
+[00442.001]
+Pour rattraper {NAME:02 00 00 00}, hâte-toi vers l’ancienne base de l’armée terrestre. Au sud-ouest de Heidelberg, près du cratère.
+
+[00442.002]
+Oui ! ... Attends, {NAME:02 00 00 00} ! J’arrive !!
+

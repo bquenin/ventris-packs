@@ -1,0 +1,30 @@
+[00628.001]
+Ah oui. J’insiste : n’allez pas raconter à tort et à travers que vous « venez du futur ».
+
+[00628.002]
+On sait, on sait. Tu ne veux pas qu’on te dise la réponse avant de l’avoir trouvée toi-même, c’est ça ?
+
+[00628.003]
+Pas seulement. Parlez-en à un autre que {NAME:06 00 00 00} : qui n’y croit pas vous prendra pour des fous, et qui y croit pourrait vouloir en abuser.
+
+[00628.004]
+En abuser ?
+
+[00628.005]
+Qui connaît l’avenir peut s’en servir pour renverser le cours de la guerre. Autrement dit, falsifier l’histoire à sa guise.
+
+[00628.006]
+Exactement. Pour quelqu’un qui porte un drôle de masque, tu dis des choses plutôt sensées.
+
+[00628.007]
+... Hmf. Mais inutile de s’inquiéter. Qui croirait les paroles d’idiots comme ceux-là ? Pour y croire, il faut un « vrai phénomène » de ton espèce, {NAME:06 00 00 00}.
+
+[00628.008]
+Hm. Bah, c’est pas faux. Seul un génie comme moi peut comprendre, c’est certain. Mais dis donc, tu réfléchis drôlement bien. Pas autant que moi, mais pas mal du tout. Et ce masque, il aurait un sens, lui aussi ?
+
+[00628.009]
+Gh, laisse ce masque tranquille !
+
+[00628.010]
+Oooh, {NAME:04 00 00 00} qui se fait moucher... C’est nouveau...
+

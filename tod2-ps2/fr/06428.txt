@@ -1,0 +1,55 @@
+[06428.001]
+Mine désaffectée Oberon
+
+[06428.002]
+Mine désaffectée Oberon
+
+[06428.004]
+Vous ne pouvez pas porter plus de Lentilles.
+
+[06428.006]
+{03:00 00 00 00}Trouvé : {0B:01 00 00 00}{14:24 6E} Lentilles,
+mais vous ne pouvez pas tout porter.
+・En prendre {14:34 78}, en jeter {14:34 7C}{0B:00 00 00 00}
+・Les remettre
+
+[06428.008]
+{03:00 00 00 00}Obtenu : {0B:01 00 00 00}{14:34 84}{0B:00 00 00 00} Lentilles.
+
+[06428.009]
+Bon voyage.
+
+[06428.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06428.011]
+Voulez-vous passer la nuit ?
+
+[06428.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06428.014]
+Reposez-vous bien.
+
+[06428.015]
+Bonjour.
+
+[06428.016]
+Vous n’avez pas assez d’argent.
+
+[06428.017]
+Au plaisir de vous revoir.
+
+[06428.022]
+Obtenu : {16:25 D6}.
+
+[06428.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06428.026]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06428.028]
+Il n’y a rien ici.
+

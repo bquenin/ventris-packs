@@ -1,0 +1,15 @@
+[00090.001]
+Rencontrer cette fille, c’était le destin, c’est sûr !
+
+[00090.002]
+Destin ou pas, elle t’a même pas calculé.
+
+[00090.003]
+C’était sa façon de m’encourager ! « Tu n’es pas encore un héros, alors courage, deviens-le » !
+
+[00090.004]
+Entre ça et l’ironie de {NAME:04 00 00 00}, t’as l’art de tout prendre comme ça t’arrange...
+
+[00090.005]
+Papa a eu son Swordian ; moi, c’est elle, mon premier pas de héros !
+

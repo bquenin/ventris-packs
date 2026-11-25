@@ -1,0 +1,18 @@
+[00072.001]
+Aah !?
+
+[00072.002]
+Quoi, {NAME:01 00 00 00} ! Un monstre !?
+
+[00072.003]
+Regarde, {NAME:03 00 00 00} ! Un oiseau de cette couleur, j’en avais jamais vu !?
+
+[00072.004]
+C’est tout ? Crie pas pour si peu. Écoute, des comme ça, t’en verras tant que...
+
+[00072.005]
+Ouhaa ! Là-bas, un grand lézard qu’on n’attrape presque jamais !!
+
+[00072.006]
+Hé, écoute ! Où tu vas ! C’est à l’opposé... A-attends, crétin de {NAME:01 00 00 00} !!
+

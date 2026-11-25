@@ -1,0 +1,298 @@
+[06337.001]
+Darilsheid, l’ancienne capitale
+
+[06337.002]
+Darilsheid, l’ancienne capitale
+
+[06337.003]
+Hé, {NAME:01 00 00 00}, laisse tomber. Ce type est louche, ça crève les yeux.
+
+[06337.006]
+{03:00 00 00 00}Se reposer ?
+　Oui　
+　Non　
+
+[06337.008]
+Hé ! Nous enfermer au cachot sans même nous écouter, c’est quoi, ces manières !
+
+[06337.010]
+Hé, vous ! Le responsable, qu’il se montre !!
+
+[06337.012]
+Bon sang ! On s’est plantés. Jamais j’aurais cru finir comme ça...
+
+[06337.014]
+Mmh... C-c’est où, ici... ?
+
+[06337.016]
+Euh, on est allés aux ruines de Laguna, on a trouvé la Lentille, mais elle s’est brisée, l’Ordre d’Atamoni nous a attrapés...
+
+[06337.018]
+... Tiens ? Et après, il s’est passé quoi, déjà ?
+
+[06337.020]
+... T’es pas du genre à t’en faire, toi.
+
+[06337.022]
+Comme tu vois, on nous a jetés au cachot. Sous Darilsheid, sans doute.
+
+[06337.024]
+Hein
+
+[06337.026]
+Il rigole...
+
+[06337.028]
+H-hé, {NAME:01 00 00 00} !? Qu’est-ce que t’as !? Tu t’es cogné la tête !? Fais voir un peu !
+
+[06337.030]
+Mais non, {NAME:03 00 00 00}. C’est juste que là, je suis super heureux ! Parce que tu vois, l’aventure a commencé !
+
+[06337.032]
+L’aventure... ?
+
+[06337.034]
+À l’instant où cette fille est apparue, je me suis dit : l’aventure a commencé.
+
+[06337.036]
+Tu te rends compte, elle sort d’une Lentille et dit « Je cherche un héros » !
+
+[06337.038]
+Ça n’arrive que dans les histoires... non, même dans les histoires, ça n’arrivait pas ! Et c’est arrivé là, sous mes yeux !
+
+[06337.040]
+Ça y est, {NAME:03 00 00 00} ! Une fois rentré à Cresta, je pars en voyage.
+
+[06337.042]
+En voyage... ?
+
+[06337.044]
+Oui, un voyage d’aventure pour devenir un héros !
+
+[06337.046]
+Celui que cette fille cherche, c’est moi ! Peut-être pas maintenant, mais... oui ! Le moi de plus tard !
+
+[06337.048]
+Je vais aller le lui dire... non, le lui faire comprendre !
+
+[06337.050]
+Le toi de plus tard... hein. Hé... ça me déplaît pas, ce genre de truc.
+
+[06337.052]
+Bon ! Ce voyage, j’en suis !
+
+[06337.054]
+Hein !? Mais toi, {NAME:03 00 00 00}, l’Ordre d’Atamoni...
+
+[06337.056]
+Ces gens-là, c’est moi qui n’en veux plus. Cette histoire m’a bien ouvert les yeux ! C’est pas là qu’est ma place.
+
+[06337.058]
+Ma place... elle est à côté de toi, {NAME:01 00 00 00}... Alors je viens avec toi.
+
+[06337.060]
+{NAME:03 00 00 00}...
+
+[06337.062]
+Et puis tu sais, j’aimerais pouvoir remplacer Stahn... ton père.
+
+[06337.064]
+Depuis ce jour-là, toujours...
+
+[06337.066]
+Ce jour-là... ?
+
+[06337.067]
+?????
+
+[06337.068]
+Hin hin hin... Hahahaha !
+
+[06337.070]
+Qui est là !?
+
+[06337.071]
+?????
+
+[06337.072]
+Tu crois sérieusement pouvoir devenir un héros, toi ? Alors tu es un doux rêveur.
+
+[06337.074]
+Dis, pourquoi je ne pourrais pas devenir un héros !?
+
+[06337.075]
+?????
+
+[06337.076]
+Hmf, c’est simple.
+
+[06337.077]
+?????
+
+[06337.078]
+Héros, c’est un titre que les gens décernent pour des hauts faits passés.
+
+[06337.079]
+?????
+
+[06337.080]
+On ne cherche pas à le devenir soi-même, et on le devient encore moins parce qu’on en a envie.
+
+[06337.082]
+T’en parles comme un connaisseur, dis donc. On dirait que tu veux nous faire croire que t’es un héros toi-même.
+
+[06337.083]
+?????
+
+[06337.084]
+...
+......
+
+[06337.085]
+?????
+
+[06337.086]
+Moi, je ne suis pas un héros. Mais je connais au moins quatre personnes qu’on appelle ainsi.
+
+[06337.088]
+Quatre ? Ha ha~... Nous, on ne fait pas que les connaître de nom. Deux d’entre eux sont des proches !
+
+[06337.090]
+Vu que les parents de ce gars-là en font partie.
+
+[06337.091]
+?????
+
+[06337.092]
+Ses parents... des héros !? ... ! Je vois, c’est leur... !
+
+[06337.094]
+Hé hé~ ! T’en restes sans voix, on dirait.
+
+[06337.096]
+Laisse ça, {NAME:03 00 00 00}. Rentrons vite à Cresta ! Sinon, l’aventure...
+
+[06337.098]
+Je sais bien. N’empêche, ce cachot est solide...
+
+[06337.099]
+?????
+
+[06337.100]
+Hé, vous deux.
+
+[06337.102]
+Quoi ? On est occupés, nous. Ça se voit pas ?
+
+[06337.103]
+?????
+
+[06337.104]
+Vous voulez sortir d’ici, non ? Alors j’ai une bonne idée.
+
+[06337.106]
+C’est vrai !? C’est quoi, cette bonne idée !?
+
+[06337.108]
+Holà, holà, {NAME:01 00 00 00}. Fais pas confiance à ce que raconte ce type.
+
+[06337.110]
+Un gars qui cache sa figure sous un masque, hein ? Va savoir ce qu’il a derrière la tête.
+
+[06337.112]
+Mais si on traîne ici, cette fille va s’éloigner de plus en plus ! Moi, je veux partir à l’aventure tout de suite !!
+
+[06337.114]
+... C’est bon. Fais comme tu veux.
+
+[06337.116]
+Décidé ! Alors, dis-nous ! Euh...
+
+[06337.117]
+?????
+
+[06337.118]
+Mon nom ? ... Un nom, pour moi, ça n’a aucun sens.
+
+[06337.119]
+?????
+
+[06337.120]
+Appelez-moi comme il vous plaira.
+
+[06337.122]
+Alors... {NAME:04 00 00 00} !
+
+[06337.124]
+{NAME:04 00 00 00}... hm. Bon, je m’en contenterai.
+
+[06337.126]
+Alors, monsieur {NAME:04 00 00 00}, tu comptes nous sortir d’ici comment ?
+
+[06337.128]
+C’est simple. Il suffit de sortir par la sortie.
+
+[06337.130]
+Par la sortie... hé !
+
+[06337.132]
+Reculez.
+
+[06337.134]
+Haa !
+
+[06337.136]
+La vache... !
+
+[06337.138]
+Qu’est-ce que vous attendez, plantés là ? On y va.
+
+[06337.140]
+{NAME:01 00 00 00} obtient le titre « {08:09 08 00 00} ».
+
+[06337.142]
+{NAME:03 00 00 00} obtient le titre « {08:0C 08 00 00} ».
+
+[06337.144]
+{NAME:04 00 00 00} rejoint le groupe.
+
+[06337.146]
+Ça ne s’ouvre pas.
+
+[06337.147]
+Bon voyage.
+
+[06337.148]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06337.149]
+Voulez-vous passer la nuit ?
+
+[06337.151]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06337.152]
+Reposez-vous bien.
+
+[06337.153]
+Bonjour.
+
+[06337.154]
+Vous n’avez pas assez d’argent.
+
+[06337.155]
+Au plaisir de vous revoir.
+
+[06337.160]
+Obtenu : {16:25 CA}.
+
+[06337.162]
+Obtenu : {08:FF FF FF FF}.
+
+[06337.164]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06337.166]
+Il n’y a rien ici.
+

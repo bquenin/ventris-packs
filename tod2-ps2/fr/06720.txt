@@ -1,0 +1,97 @@
+[06720.001]
+Œuf de Dieu : niveau inférieur
+
+[06720.002]
+Œuf de Dieu : niveau inférieur
+
+[06720.004]
+Là... ! Là-bas... c’est Elraine !
+
+[06720.006]
+Ça y est : le face-à-face avec la déesse !
+
+[06720.008]
+Ça a été long, pour arriver jusqu’ici...
+
+[06720.010]
+Mais rien n’est encore fini. Perdre ici, et tout serait perdu.
+
+[06720.012]
+Ne parle pas de malheur. On va gagner, c’est sûr ! Pas vrai, {NAME:01 00 00 00} ?
+
+[06720.014]
+Bien sûr ! On va gagner ! Et... on mettra fin à tout ça !
+
+[06720.016]
+Oui, c’est la dernière fois. Nul ne sait à quoi ils auront recours. Soyez du moins bien préparés.
+
+[06720.018]
+Eh bien, jusqu’au tout dernier moment : flegmatique, ou plutôt glacial.
+
+[06720.020]
+C’est vous qui êtes trop téméraires, voilà tout.
+
+[06720.022]
+Oui, oui, ça suffit ! Vraiment... comme ça jusqu’au bout ?
+
+[06720.024]
+Et pourquoi pas ? C’est bien mieux que d’être bêtement crispés.
+
+[06720.026]
+... Ha ha ha, pas faux !
+
+[06720.028]
+Bon, on y va, alors !
+
+[06720.030]
+Oui, on va le faire, tiens !
+
+[06720.032]
+Je vais prouver que mon cerveau surpasse même les dieux !
+
+[06720.034]
+Faisons-leur sentir ce qu’est la force des hommes !
+
+[06720.036]
+Allons-y, {NAME:01 00 00 00} !
+
+[06720.038]
+Oui, allons-y, tout le monde !
+
+[06720.039]
+Bon voyage.
+
+[06720.040]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06720.041]
+Voulez-vous passer la nuit ?
+
+[06720.043]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06720.044]
+Reposez-vous bien.
+
+[06720.045]
+Bonjour.
+
+[06720.046]
+Vous n’avez pas assez d’argent.
+
+[06720.047]
+Au plaisir de vous revoir.
+
+[06720.052]
+Obtenu : {16:25 CA}.
+
+[06720.054]
+Obtenu : {08:FF FF FF FF}.
+
+[06720.056]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06720.058]
+Il n’y a rien ici.
+

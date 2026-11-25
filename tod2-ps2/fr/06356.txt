@@ -1,0 +1,77 @@
+[06356.001]
+Vallée de Harmentz
+
+[06356.002]
+Vallée de Harmentz
+
+[06356.004]
+Ici, la vallée de Harmentz.
+
+[06356.005]
+Un éboulement !
+
+[06356.006]
+Vous chancelez !
+
+[06356.008]
+{03:00 00 00 00}{09:25 00 00 00} : sauter
+{09:26 00 00 00} : annuler
+
+[06356.009]
+Une rafale !
+
+[06356.010]
+Une paroi à pic ! Impossible de la gravir « par vos propres moyens » !
+
+[06356.011]
+Pas de vent : c’est la grande chute !
+
+[06356.012]
+Un grand saut porté par le vent !
+
+[06356.013]
+Vous chancelez !
+
+[06356.015]
+Ce n’est qu’un rocher, semble-t-il. Rien de particulier à signaler.
+
+[06356.017]
+La Lunette du sorcier révèle une cavité derrière le rocher.
+
+[06356.018]
+Bon voyage.
+
+[06356.019]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06356.020]
+Voulez-vous passer la nuit ?
+
+[06356.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06356.023]
+Reposez-vous bien.
+
+[06356.024]
+Bonjour.
+
+[06356.025]
+Vous n’avez pas assez d’argent.
+
+[06356.026]
+Au plaisir de vous revoir.
+
+[06356.031]
+Obtenu : {16:25 FA}.
+
+[06356.033]
+Obtenu : {08:FF FF FF FF}.
+
+[06356.035]
+Trouvé : {16:26 02}, mais vous n’avez plus de place.
+
+[06356.037]
+Il n’y a rien ici.
+

@@ -1,0 +1,153 @@
+[06478.001]
+Cherik : auberge
+
+[06478.002]
+Cherik
+
+[06478.004]
+On ne sait pas trop ce que cela fait là, mais il y a ceci : {08:0A 00 00 00}. L’emporter ?
+
+[06478.006]
+{03:00 00 00 00}　L’emporter, bien sûr　
+　Ne l’emporter à aucun prix　
+
+[06478.008]
+Obtenu : {08:0A 00 00 00}. On a comme le sentiment d’avoir perdu quelque chose d’important, en tant qu’être humain.
+
+[06478.010]
+On a comme le sentiment de n’avoir pas perdu ce qui importe, en tant qu’être humain.
+
+[06478.012]
+Il n’y a plus de gelée...
+
+[06478.013]
+Grid
+
+[06478.014]
+Qui es-tu, toi ? Sais-tu, en m’adressant la parole, que je suis le grand Grid, chef des « Ailes Noires » ?
+
+[06478.016]
+{03:00 00 00 00}　Je connais　
+　Jamais entendu parler　
+
+[06478.017]
+Grid
+
+[06478.018]
+Hé hé, c’est que je suis célèbre : il est normal qu’on me connaisse !
+
+[06478.019]
+Grid
+
+[06478.020]
+Le nom des « Ailes Noires » est un honneur réservé aux talents hors pair ! Il ne peut pas exister quelqu’un qui l’ignore !
+
+[06478.021]
+Grid
+
+[06478.022]
+Allez ! Vénérez-moi ! Les dons pour ma note d’auberge sont acceptés à toute heure !
+
+[06478.023]
+Grid
+
+[06478.024]
+Quoi ! Quelle ignorance ! Qu’il y ait en ce monde quelqu’un qui ignore le nom des « Ailes Noires » !
+
+[06478.025]
+Grid
+
+[06478.026]
+Écoute, et retiens-le bien ! Le chef des « Ailes Noires », ces fiers brigands au grand cœur, jamais vaincus, c’est moi, le grand Grid !
+
+[06478.027]
+Grid
+
+[06478.028]
+Les « Ailes Noires » sont aujourd’hui une équipe aussi célèbre que les Quatre Héros, sais-tu !? Mets-toi bien ça dans le crâne !
+
+[06478.029]
+Grid
+
+[06478.030]
+Nos devanciers, dit-on, se sont battus aux côtés de ces Quatre Héros pour briser l’ambition de Hugo.
+
+[06478.031]
+Grid
+
+[06478.032]
+Moi, je surpasserai bientôt jusqu’à nos devanciers ! Retiens bien mon visage tant qu’il est temps !
+
+[06478.033]
+Grid
+
+[06478.034]
+Allez ! Vénérez-moi ! Les dons pour ma note d’auberge sont acceptés à toute heure !
+
+[06478.035]
+Servante
+
+[06478.036]
+Pas un client ne vient : je m’ennuie tellement...
+
+[06478.037]
+Servante
+
+[06478.038]
+Les chambres sont vides : à ce train-là, on va faire faillite...
+
+[06478.039]
+Servante
+
+[06478.040]
+Quand j’étais enfant, Cherik était bien plus petite.
+
+[06478.041]
+Servante
+
+[06478.042]
+Après les combats d’il y a dix-huit ans, elle a recueilli les réfugiés de tout Calvalese et a grandi d’un coup.
+
+[06478.043]
+Servante
+
+[06478.044]
+Enfant, j’ai joué au loup avec Stahn le héros. C’est un beau souvenir.
+
+[06478.045]
+Bon voyage.
+
+[06478.046]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06478.047]
+Voulez-vous passer la nuit ?
+
+[06478.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06478.050]
+Reposez-vous bien.
+
+[06478.051]
+Bonjour.
+
+[06478.052]
+Vous n’avez pas assez d’argent.
+
+[06478.053]
+Au plaisir de vous revoir.
+
+[06478.058]
+Obtenu : {16:25 BA}.
+
+[06478.060]
+Obtenu : {08:FF FF FF FF}.
+
+[06478.062]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06478.064]
+Il n’y a rien ici.
+

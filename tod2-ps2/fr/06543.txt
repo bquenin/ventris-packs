@@ -1,0 +1,46 @@
+[06543.001]
+Forêt vierge
+
+[06543.002]
+Forêt vierge
+
+[06543.004]
+Des herbes sèches barrent le chemin.
+
+[06543.005]
+Bon voyage.
+
+[06543.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06543.007]
+Voulez-vous passer la nuit ?
+
+[06543.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06543.010]
+Reposez-vous bien.
+
+[06543.011]
+Bonjour.
+
+[06543.012]
+Vous n’avez pas assez d’argent.
+
+[06543.013]
+Au plaisir de vous revoir.
+
+[06543.018]
+Obtenu : {16:25 BA}.
+
+[06543.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06543.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06543.024]
+Il n’y a rien ici.
+

@@ -1,0 +1,46 @@
+[06746.001]
+Aigrette : équipement
+
+[06746.002]
+Aigrette
+
+[06746.004]
+La boîte contient le stock de la boutique.
+
+[06746.005]
+Bon voyage.
+
+[06746.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06746.007]
+Voulez-vous passer la nuit ?
+
+[06746.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06746.010]
+Reposez-vous bien.
+
+[06746.011]
+Bonjour.
+
+[06746.012]
+Vous n’avez pas assez d’argent.
+
+[06746.013]
+Au plaisir de vous revoir.
+
+[06746.018]
+Obtenu : {16:25 BA}.
+
+[06746.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06746.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06746.024]
+Il n’y a rien ici.
+

@@ -1,0 +1,12 @@
+[00178.001]
+Allez, {NAME:03 00 00 00} ! Dépêche-toi ! Si tu traînes, je te laisse là !
+
+[00178.002]
+Attends ! Tu as trop d’énergie ! ...... Écoute, les filles n’aiment pas les types trop pressés. C’est le moment de montrer qu’on a de la marge...
+
+[00178.003]
+Là, je lui dirai que je suis un héros !
+
+[00178.004]
+Il écoute pas.
+

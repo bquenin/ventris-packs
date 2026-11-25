@@ -1,0 +1,21 @@
+[00872.001]
+Dis, {NAME:04 00 00 00}. D’après toi, lequel je devrais choisir ?
+
+[00872.002]
+Je t’ai dit de ne pas me le demander.
+
+[00872.003]
+Je sais... J’ai juste envie de savoir. Ce que toi, tu en penserais, {NAME:04 00 00 00}.
+
+[00872.004]
+Je suis un homme qui n’a pensé ni au monde ni à ses compagnons, qui n’a fait qu’imposer son caprice. Un tel homme n’a rien à te dire.
+
+[00872.005]
+{NAME:04 00 00 00}...
+
+[00872.006]
+Je n’ai qu’une chose à te dire... Sois honnête avec ton cœur.
+
+[00872.007]
+Honnête avec moi...
+

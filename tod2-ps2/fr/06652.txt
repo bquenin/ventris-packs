@@ -1,0 +1,289 @@
+[06652.001]
+Monde du rêve
+
+[06652.002]
+Monde du rêve
+
+[06652.004]
+Gh, mmh...
+
+[06652.006]
+C-c’est... !
+
+[06652.007]
+Elraine
+
+[06652.008]
+Te voilà enfin réveillée. Alors, que dis-tu de ce monde nouveau ?
+
+[06652.010]
+Elraine ! Toi, mais qu’est-ce que tu... !?
+
+[06652.011]
+Elraine
+
+[06652.012]
+Ne crains rien. Par le pouvoir de Fortuna, ils ne font que rêver.
+
+[06652.014]
+Rêver... ?
+
+[06652.015]
+Elraine
+
+[06652.016]
+Ce qui est impossible dans la réalité se plie en rêve à tous les désirs. On n’y sent ni douleur ni souffrance.
+
+[06652.017]
+Elraine
+
+[06652.018]
+Voilà le bonheur parfait que la déesse a voulu, et que les hommes ont voulu...
+
+[06652.020]
+Ce n’est qu’un leurre ! Quel sens y a-t-il à être heureux dans un rêve !?
+
+[06652.021]
+Elraine
+
+[06652.022]
+Il y a un sens. Car ils ne s’éveilleront jamais de ce rêve.
+
+[06652.023]
+Elraine
+
+[06652.024]
+Un rêve dont on ne s’éveille pas vaut la réalité. Et dans un rêve éternel, le bonheur aussi est éternel...
+
+[06652.025]
+Elraine
+
+[06652.026]
+Voilà la loi unique et absolue qui mène tous les peuples au bonheur.
+
+[06652.028]
+... Non. C’est faux, absolument faux !
+
+[06652.030]
+Où sont {NAME:01 00 00 00} et les autres !? Qu’as-tu fait d’eux tous !?
+
+[06652.031]
+Elraine
+
+[06652.032]
+Eux aussi font le rêve éternel. Ta voix ne les atteint plus...
+
+[06652.034]
+Oh non... !
+
+[06652.035]
+Elraine
+
+[06652.036]
+Il n’y a plus personne pour répondre à ta voix. Ton rôle est terminé.
+
+[06652.038]
+Rien n’est terminé !
+
+[06652.040]
+{NAME:01 00 00 00} répondra à ma voix, c’est certain ! Alors... !
+
+[06652.041]
+Elraine
+
+[06652.042]
+... Cesse de te débattre en vain. Tu aurais beau entrer dans leur monde intérieur, tu ne saurais les réveiller.
+
+[06652.043]
+Elraine
+
+[06652.044]
+Aucun être humain ne peut renoncer au bonheur éternel. L’homme est fragile et faible.
+
+[06652.045]
+Elraine
+
+[06652.046]
+C’est bien pourquoi il leur faut la déesse, et le salut de la déesse.
+
+[06652.048]
+Non. Moi, je crois en la force des hommes... en {NAME:01 00 00 00} et les autres !
+
+[06652.049]
+Elraine
+
+[06652.050]
+Quand bien même tu les réveillerais, seule la tragédie vous attend...
+
+[06652.051]
+Elraine
+
+[06652.052]
+Alors pourquoi veux-tu avancer, au prix de ta propre souffrance ?
+
+[06652.054]
+... Quand j’ai vu le monde que tu as créé, j’ai pensé ceci :
+
+[06652.056]
+si c’est là le bonheur que souhaitent les hommes, mon rôle est fini, et je suis délivrée de ma mission.
+
+[06652.058]
+Alors je pourrais rester pour toujours avec {NAME:01 00 00 00}...
+
+[06652.060]
+Mais c’était une erreur...
+
+[06652.062]
+Quelle que soit la fin qui nous attend, le bonheur des hommes est dans le chemin qu’on parcourt : voilà ce qu’il a dit.
+
+[06652.064]
+Alors moi aussi, je marcherai avec {NAME:01 00 00 00}... quelle que soit la fin qui nous attend...
+
+[06652.066]
+Parce que je veux être avec {NAME:01 00 00 00}...... Parce que j’aime {NAME:01 00 00 00} !
+
+[06652.067]
+Elraine
+
+[06652.068]
+Insensée... Quand c’est cet amour même qui accroît la souffrance...
+
+[06652.069]
+Elraine
+
+[06652.070]
+........
+
+[06652.072]
+On en est venus à bout, de ces fameux passés maudits.
+
+[06652.073]
+Elraine
+
+[06652.074]
+Je ne comprends pas... Pourquoi choisir de vous-mêmes la voie douloureuse ?
+
+[06652.075]
+Elraine
+
+[06652.076]
+Il suffisait de sommeiller dans le pouvoir divin pour que tous vos souhaits s’accomplissent.
+
+[06652.078]
+Un souhait exaucé de cette façon, quelle valeur aurait-il, hein ?
+
+[06652.080]
+Aucune ! C’est quand on le saisit de ses propres mains qu’il vaut quelque chose !
+
+[06652.082]
+On ne choisit pas toujours la bonne voie : chacun a donc un passé douloureux, des souvenirs tristes.
+
+[06652.084]
+Mais les fautes irréparables, les regrets sans nombre : tout cela est la preuve que nous avons vécu.
+
+[06652.086]
+Cela, nul ne peut le nier. Non... je ne le laisserai pas faire !
+
+[06652.087]
+Elraine
+
+[06652.088]
+Pour vous, peut-être. Mais... pour eux, il en va autrement.
+
+[06652.089]
+Elraine
+
+[06652.090]
+Tous les hommes ont souhaité être délivrés de la souffrance. Ils ont souhaité voir leurs désirs exaucés.
+
+[06652.092]
+Non : les hommes ont seulement oublié.
+
+[06652.094]
+Combien un faux bonheur est vide de sens. Et que le vrai bonheur se trouve dans cette œuvre des hommes qu’on appelle l’histoire.
+
+[06652.096]
+Un jour, ils s’en apercevront, c’est certain. Comme {NAME:01 00 00 00} et les autres.
+
+[06652.098]
+C’est vrai, nous, on s’en est aperçus. Grâce à {NAME:02 00 00 00}...
+
+[06652.100]
+{NAME:01 00 00 00}...
+
+[06652.102]
+Alors, l’histoire que tu nous as volée, nous la reprendrons !
+
+[06652.104]
+Et nous reprendrons notre vrai bonheur ! Coûte que coûte !
+
+[06652.105]
+Elraine
+
+[06652.106]
+... Cessez de vous débattre en vain. Quoi que vous pensiez, vous ne changerez rien, pas une seule chose.
+
+[06652.108]
+Si, on peut changer les choses. La force des sentiments humains peut tout. Alors... !
+
+[06652.110]
+Je vais faire le voyage dans le temps. L’époque... celle de la guerre du Ciel et de la Terre.
+
+[06652.112]
+Remettre l’histoire en état, c’est ça !!
+
+[06652.114]
+On va le faire, tiens !
+
+[06652.116]
+Je ne demande que cela !
+
+[06652.118]
+{NAME:02 00 00 00}, allons-y ! Reprendre notre histoire !
+
+[06652.120]
+Oui !
+
+[06652.121]
+Elraine
+
+[06652.122]
+Insensés... Quand seul le chagrin vous attend au bout...
+
+[06652.123]
+Bon voyage.
+
+[06652.124]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06652.125]
+Voulez-vous passer la nuit ?
+
+[06652.127]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06652.128]
+Reposez-vous bien.
+
+[06652.129]
+Bonjour.
+
+[06652.130]
+Vous n’avez pas assez d’argent.
+
+[06652.131]
+Au plaisir de vous revoir.
+
+[06652.136]
+Obtenu : {16:26 66}.
+
+[06652.138]
+Obtenu : {08:FF FF FF FF}.
+
+[06652.140]
+Trouvé : {16:26 6E}, mais vous n’avez plus de place.
+
+[06652.142]
+Il n’y a rien ici.
+

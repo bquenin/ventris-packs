@@ -1,0 +1,147 @@
+[06758.001]
+Aqua Labyrinth
+
+[06758.002]
+Aqua Labyrinth
+
+[06758.004]
+Passer au suivant ?
+
+[06758.006]
+{03:00 00 00 00}　Continuer　
+　S’échapper　
+
+[06758.008]
+S’échapper ?
+
+[06758.010]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06758.011]
+????????
+
+[06758.012]
+Je suis Magnadeus... celui qui est scellé dans ce labyrinthe...
+
+[06758.013]
+Magnadeus
+
+[06758.014]
+Un cercle fermé depuis plus de mille ans... Voilà des visiteurs qui tombent à point pour tromper mon ennui...
+
+[06758.015]
+Magnadeus
+
+[06758.016]
+Allons... je vais m’occuper un peu de vous.
+
+[06758.017]
+Magnadeus
+
+[06758.018]
+Errez avec moi dans le couloir sans fin...
+
+[06758.019]
+????
+
+[06758.020]
+Vraiment, tourner, tourner, tourner... Même moi, je suis fatigué...
+
+[06758.022]
+Euh... vous êtes Johnny ?
+
+[06758.023]
+Johnny
+
+[06758.024]
+Baby ! Voilà un garçon que j’ai l’impression d’avoir vu quelque part. C’est bien ça, mon nom est Johnny ! Johnny Shiden.
+
+[06758.025]
+Johnny
+
+[06758.026]
+On m’a dit que le sceau du démon avait sauté : je suis venu voir ce qu’il en était, et voilà où j’en suis.
+
+[06758.027]
+Johnny
+
+[06758.028]
+Un démon qui revient à la vie autant de fois qu’on l’abat, un labyrinthe sans fin si loin qu’on avance : on dirait un mauvais rêve.
+
+[06758.029]
+Johnny
+
+[06758.030]
+« Croire en quelque chose compte énormément. Mais douter de tout, cela compte aussi. » ... Les paroles d’une chanson que j’ai écrite il y a bien longtemps.
+
+[06758.031]
+Johnny
+
+[06758.032]
+L’endroit où l’on est, ce qu’on a sous les yeux : tout est peut-être faux. Tout serait fabriqué, et rien n’existerait vraiment.
+
+[06758.033]
+Johnny
+
+[06758.034]
+Emporte ceci. Moi, je cherche encore un peu ici : ce qu’on appelle la « réponse ».
+
+[06758.036]
+Obtenu : {08:4A 00 00 00}.
+
+[06758.037]
+Johnny
+
+[06758.038]
+Mes yeux voient le présent. Et les yeux de mon cœur voient l’avenir... Baby ! Je le vois, ton lendemain...
+
+[06758.040]
+Cette carte est plongée dans le noir.
+
+[06758.042]
+Sur cette carte, vous subissez des dégâts.
+
+[06758.044]
+Sur cette carte, les rencontres sont au maximum.
+
+[06758.046]
+Sur cette carte, le champ de vision est réduit.
+
+[06758.047]
+Bon voyage.
+
+[06758.048]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06758.049]
+Voulez-vous passer la nuit ?
+
+[06758.051]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06758.052]
+Reposez-vous bien.
+
+[06758.053]
+Bonjour.
+
+[06758.054]
+Vous n’avez pas assez d’argent.
+
+[06758.055]
+Au plaisir de vous revoir.
+
+[06758.060]
+Obtenu : {16:25 C2}.
+
+[06758.062]
+Obtenu : {08:FF FF FF FF}.
+
+[06758.064]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06758.066]
+Il n’y a rien ici.
+

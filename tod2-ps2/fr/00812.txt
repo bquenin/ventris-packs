@@ -1,0 +1,18 @@
+[00812.001]
+Dis, {NAME:04 00 00 00}. Si on croise Stahn et les autres, tu feras quoi ?
+
+[00812.002]
+C’est vrai. Tout ce que tu n’as pas pu dire... il y en a beaucoup, non ?
+
+[00812.003]
+Je n’entends pas me justifier. Et j’ai résolu, ce jour-là, de ne pas renier le passé.
+
+[00812.004]
+Oui, mais...
+
+[00812.005]
+... Si {NAME:04 00 00 00} l’a décidé, moi, ça me va.
+
+[00812.006]
+{NAME:01 00 00 00}.
+

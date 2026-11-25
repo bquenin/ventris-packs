@@ -1,0 +1,21 @@
+[00056.001]
+Dis, {NAME:01 00 00 00}. Il s’est passé du neuf pendant mon absence ?
+
+[00056.002]
+Du neuf ? Tiens, maman se fait un sang d’encre, ces temps-ci...
+
+[00056.003]
+Quoi !? Rutee ? L’orphelinat manque d’argent... Ah ! Ou alors un type lui tourne autour sans la lâcher !?
+
+[00056.004]
+Mais non. Elle fait juste tout un foin parce qu’elle a « plus de rides~ ».
+
+[00056.005]
+Des rides... À t’entendre, je croyais à quelque chose de bien plus grave.
+
+[00056.006]
+Pour elle, c’est grave, on dirait.
+
+[00056.007]
+Cré~tin ! Quelques rides de plus ne terniront pas sa beauté.
+

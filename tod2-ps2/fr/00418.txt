@@ -1,0 +1,15 @@
+[00418.001]
+Vraiment, comment a-t-on pu jeter autant de déchets ?
+
+[00418.002]
+C’est la preuve du faste dans lequel vivait l’armée céleste... ou plutôt, les Célestes. Ils devaient se dire qu’il suffisait de jeter ce qui ne servait plus.
+
+[00418.003]
+Et comme ils se disaient « on lâche ça du ciel, et voilà », ils balançaient à tour de bras. Hé~, fais quelque chose, {NAME:05 00 00 00}. C’est tes ancêtres qui ont jeté tout ça, non ?
+
+[00418.004]
+Ce genre de plainte, va la faire aux intéressés. Tiens, va donc dans le passé, la prochaine fois, te plaindre en face.
+
+[00418.005]
+Ah non, pitié. Un voyage dans le temps me suffit.
+

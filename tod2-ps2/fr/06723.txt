@@ -1,0 +1,154 @@
+[06723.001]
+Ruines de Laguna
+
+[06723.002]
+Ruines de Laguna
+
+[06723.004]
+Regarde, {NAME:01 00 00 00} ! Tout est comme ce jour-là.
+
+[06723.006]
+Ces fleurs, cette source, cet oiseau, ce ciel... !
+
+[06723.008]
+... Enfin, c’est normal. Il ne s’est presque pas écoulé de temps depuis.
+
+[06723.010]
+Mais c’est étrange. Le temps n’a pas passé, et pourtant je suis restée si longtemps avec toi, {NAME:01 00 00 00}.
+
+[06723.012]
+Au regard du temps qui coule, ce n’est qu’un bref instant, et pourtant nous avons vécu tant et tant de moments...
+
+[06723.014]
+Ça fait une drôle d’impression ! Hi hi...
+
+[06723.016]
+... Pourquoi ?
+
+[06723.018]
+Comment peux-tu sourire comme ça, {NAME:02 00 00 00} ?
+
+[06723.020]
+Tu... tu vas peut-être mourir, tu sais !?
+
+[06723.022]
+Et malgré ça, comment peux-tu avoir l’air aussi tranquille !?
+
+[06723.024]
+Pourquoi tu me montres... ce sourire-là... !
+
+[06723.026]
+Quand je te vois comme ça, moi... !
+
+[06723.028]
+{NAME:01 00 00 00}...
+
+[06723.030]
+... Pourquoi moi... Pourquoi faut-il que ce soit moi qui te tue !!
+
+[06723.032]
+J’en ai assez ! Je ne veux plus me battre ! Les héros, c’est fini pour moi !
+
+[06723.034]
+« Les héros, c’est fini pour moi », tu dis... !
+
+[06723.036]
+Ressaisis-toi, {NAME:01 00 00 00} Dunamis !
+
+[06723.038]
+Ce que toi seul peux faire...
+
+[06723.040]
+Non : ce que toi seul peux faire, tu l’as là, devant toi.
+
+[06723.042]
+C’est vrai, c’est peut-être bien plus douloureux, bien plus encore que de mourir.
+
+[06723.044]
+... Mais tu sais, j’y crois : le {NAME:01 00 00 00} que j’aime ne fuira jamais devant ça.
+
+[06723.046]
+Parce que c’est ça, {NAME:01 00 00 00}.
+
+[06723.048]
+Dis-le-moi, {NAME:02 00 00 00}... Qu’est-ce que je dois faire, moi... !?
+
+[06723.050]
+Tu le sais, toi aussi, {NAME:01 00 00 00}, n’est-ce pas ? ... Oui. Cette réponse n’est pas la mauvaise.
+
+[06723.052]
+Si je choisis cette voie, qu’est-ce que tu deviens, {NAME:02 00 00 00}... ?
+
+[06723.054]
+Je disparaîtrai, sans doute. De tout l’espace et de tout le temps.
+
+[06723.056]
+Tu n’as pas peur, de disparaître ?
+
+[06723.058]
+... Je n’ai pas peur.
+
+[06723.060]
+Parce que c’est toi qui me l’as appris, {NAME:01 00 00 00}.
+
+[06723.062]
+Quel que soit le malheur qui attend au bout... l’important est de marcher de sa propre volonté.
+
+[06723.064]
+C’est en marchant ainsi, et alors seulement, qu’on peut tenir le vrai bonheur.
+
+[06723.066]
+{NAME:02 00 00 00}...
+
+[06723.068]
+Comme tu as choisi, toi, la voie qui rend l’histoire aux mains des hommes, moi aussi, j’ai choisi.
+
+[06723.070]
+La voie où l’on marche avec celui qu’on aime... avec toi, {NAME:01 00 00 00}.
+
+[06723.072]
+Quelle que soit la fin qui attend au bout... je ne m’arrêterai pas.
+
+[06723.074]
+Parce que c’est sur le chemin que je fais avec toi que se trouve mon bonheur.
+
+[06723.076]
+................
+
+[06723.077]
+Bon voyage.
+
+[06723.078]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06723.079]
+Voulez-vous passer la nuit ?
+
+[06723.081]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06723.082]
+Reposez-vous bien.
+
+[06723.083]
+Bonjour.
+
+[06723.084]
+Vous n’avez pas assez d’argent.
+
+[06723.085]
+Au plaisir de vous revoir.
+
+[06723.090]
+Obtenu : {16:25 BA}.
+
+[06723.092]
+Obtenu : {08:FF FF FF FF}.
+
+[06723.094]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06723.096]
+Il n’y a rien ici.
+

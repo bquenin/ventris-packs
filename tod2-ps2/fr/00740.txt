@@ -1,0 +1,30 @@
+[00740.001]
+Nul ne sait où ni quand un piège nous attend... Mieux vaut avancer avec toute la prudence possible.
+
+[00740.002]
+Mais à avancer prudemment, s’il arrive malheur à Atwight entre-temps ?
+
+[00740.003]
+... Alors, que proposes-tu ?
+
+[00740.004]
+On fonce ! S’il y a un piège, on avisera une fois dedans.
+
+[00740.005]
+Bref, comme d’habitude.
+
+[00740.006]
+Bah, ça ira bien, non ? Comme d’habitude.
+
+[00740.007]
+... Vraiment, vous autres...
+
+[00740.008]
+Toi aussi, {NAME:04 00 00 00}, tu savais que ça finirait comme ça en le disant, non ?
+
+[00740.009]
+Certes. Dire à ces nigauds « ne tombez pas dans un piège », c’était demander l’impossible.
+
+[00740.010]
+Haha... Donc, piégés, on compte sur toi. Notre petit malin {NAME:04 00 00 00}★
+

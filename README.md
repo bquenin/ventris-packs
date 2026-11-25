@@ -15,6 +15,7 @@ was made for (the app names it on the game's page).
 | --- | --- | --- | --- | --- | --- |
 | Tales of Phantasia (Super Famicom, Japan) | English | [`top-sfc/en`](top-sfc/en) | 0.9.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | Parts: the main menu and most menu screens, battles on the world map and in the forest, the opening scene, a hunt early in the game, one long passage, and the eight lines shown as sprites. Most of the dialogue has only been built. |
 | Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | English | [`tod2-ps2/en`](tod2-ps2/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | The opening, ten skits, the menus, a shop, the first battle and a quiz book. Nothing past Cresta. |
+| Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | French | [`tod2-ps2/fr`](tod2-ps2/fr) | 0.1 | Machine translated from the Japanese, directed by bquenin; not yet reviewed by a human translator. Partial: the story, the menus, the lists and the skits up to 00918; the later skits, the quiz books and the minigames are still Japanese | The opening, the first town, three skits, the menus, a shop and the first battle. Nothing past Cresta. |
 
 ![A line of dialogue in Tales of Phantasia's blue text window, in Japanese and in English](images/top-dialogue.png)
 

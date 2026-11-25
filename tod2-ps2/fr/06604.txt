@@ -1,0 +1,388 @@
+[06604.001]
+Spiral Cave
+
+[06604.002]
+Spiral Cave
+
+[06604.004]
+Obtenu : {08:41 00 00 00}.
+
+[06604.006]
+Là ! C’est Atwight !
+
+[06604.008]
+Attends, {NAME:01 00 00 00} ! En haut !
+
+[06604.010]
+Atwight ! Tenez bon, on arrive !
+
+[06604.011]
+Atwight
+
+[06604.012]
+...... ! Non, n’approchez pas !!
+
+[06604.014]
+Hein... !?
+
+[06604.016]
+Qu-qu’est-ce que c’est que ça !?
+
+[06604.018]
+C’est une barrière magique !!
+
+[06604.019]
+Barbatos
+
+[06604.020]
+Dymlos a donc eu peur... Qu’importe. Si c’est vous qui êtes pris au filet, je m’en amuserai tout autant.
+
+[06604.022]
+Barbatos, espèce de... !!
+
+[06604.023]
+Barbatos
+
+[06604.024]
+Ah, j’oubliais de le dire : toucher cette barrière magique, cela ne pardonne pas.
+
+[06604.026]
+Bon sang ! Écartez-vous tous de la barrière !
+
+[06604.027]
+Barbatos
+
+[06604.028]
+Je vais vous tuer tous ensemble. Ainsi, vous ne vous sentirez pas seuls, n’est-ce pas ? Hé hé hé...
+
+[06604.029]
+Barbatos
+
+[06604.030]
+Eh bien ? Plus d’issue, à présent !? Hé hé hé... Aah ha ha ha !
+
+[06604.031]
+Dymlos
+
+[06604.032]
+Haaaaaaah !
+
+[06604.033]
+Barbatos
+
+[06604.034]
+Gwoooaaah !!
+
+[06604.036]
+C’était... un sort !?
+
+[06604.038]
+Ça veut dire que...
+
+[06604.039]
+Dymlos
+
+[06604.040]
+Ton adversaire, n’était-ce pas moi, Barbatos !!
+
+[06604.041]
+Atwight
+
+[06604.042]
+Dymlos... mon général !?
+
+[06604.043]
+Barbatos
+
+[06604.044]
+Dymlos... !
+
+[06604.046]
+Coucou, Atwight, ça va ?
+
+[06604.047]
+Atwight
+
+[06604.048]
+{NAME:06 00 00 00} !
+
+[06604.050]
+Désolée, on est un peu en retard. Il a fallu du temps pour traîner celui-là jusqu’ici.
+
+[06604.051]
+Dymlos
+
+[06604.052]
+Je me suis fait avoir en beauté. On me parle d’un essai de la nouvelle arme, je viens, et voilà...
+
+[06604.054]
+Mais contre lui, tu peux y aller de bon cœur, non ?
+
+[06604.055]
+Dymlos
+
+[06604.056]
+Oui, parfaitement !
+
+[06604.057]
+Barbatos
+
+[06604.058]
+Cette épée... !
+
+[06604.059]
+Dymlos
+
+[06604.060]
+Le goût de la nouvelle arme : apprends-le dans ta chair !!
+
+[06604.061]
+Barbatos
+
+[06604.062]
+Cause toujours ! Tu crois qu’il te suffit d’avoir un Swordian pour me vaincre !!
+
+[06604.063]
+Dymlos
+
+[06604.064]
+C’est toi qui devrais mieux juger de la situation.
+
+[06604.065]
+Barbatos
+
+[06604.066]
+Quoi... !?
+
+[06604.068]
+Barbatos, prépare-toi !!
+
+[06604.070]
+Tu nous en as fait voir, tout à l’heure ! On te le rend au double !!
+
+[06604.072]
+Après ton piège minable de tout à l’heure, tu ne vas pas venir dire que sept contre un, c’est déloyal, hein ?
+
+[06604.073]
+Barbatos
+
+[06604.074]
+... Tss ! Encore des gêneurs... !
+
+[06604.076]
+Dymlos !
+
+[06604.077]
+Dymlos
+
+[06604.078]
+Pardonnez-moi, {NAME:01 00 00 00}. Je vous ai mis en danger.
+
+[06604.080]
+Ne vous occupez pas de nous : allez vite auprès d’Atwight.
+
+[06604.081]
+Dymlos
+
+[06604.082]
+... Oui.
+
+[06604.083]
+Dymlos
+
+[06604.084]
+... Tu diras peut-être qu’il est bien tard. Tu me reprocheras peut-être de t’avoir abandonnée une fois.
+
+[06604.085]
+Dymlos
+
+[06604.086]
+Mais... mais malgré tout, j’ai voulu te sauver. Je ne voulais pas te perdre. Alors...
+
+[06604.088]
+A-Atwight... !
+
+[06604.089]
+Atwight
+
+[06604.090]
+Vous avez mis en danger {NAME:01 00 00 00}, qui n’y était pour rien, et vous-même, qui avez tant d’hommes sous vos ordres.
+
+[06604.091]
+Atwight
+
+[06604.092]
+Et cela, pour des sentiments personnels... pour une seule femme.
+
+[06604.093]
+Atwight
+
+[06604.094]
+... C’est absolument inexcusable. Vous êtes indigne d’être soldat !
+
+[06604.095]
+Atwight
+
+[06604.096]
+Mais...
+
+[06604.097]
+Atwight
+
+[06604.098]
+Mais moi, c’est cet homme-là que j’aime !
+
+[06604.099]
+Atwight
+
+[06604.100]
+... Que tu sois venu, je suis vraiment... !
+
+[06604.101]
+Dymlos
+
+[06604.102]
+Atwight... !
+
+[06604.104]
+Tant mieux...
+
+[06604.106]
+Oui ! Ils ont l’air vraiment heureux, tous les deux.
+
+[06604.108]
+Évidemment. Celui qu’elle aime est venu la sauver.
+
+[06604.110]
+À quel point cela rend heureuse, moi, je le sais.
+
+[06604.112]
+... Je vois.
+
+[06604.114]
+... Dis, {NAME:01 00 00 00}. Si... je dis bien si.
+
+[06604.116]
+Si, comme Dymlos cette fois, tu devais choisir entre une chose très importante et moi...
+
+[06604.118]
+Moi, évidemment, quoi qu’il arrive, c’est toi que je choisirais, {NAME:02 00 00 00} !
+
+[06604.120]
+........
+
+[06604.122]
+... Qu’est-ce qu’il y a ? Tu ne crois quand même pas que je ne te choisirais pas !?
+
+[06604.124]
+C’est méchant ! Moi, c’est toi que je choisirais, ab-so-lu-ment !
+
+[06604.126]
+... Oui. C’est vrai...
+
+[06604.128]
+Ohééé, Dymlos. Les mamours, je veux bien, mais rends-moi d’abord le Swordian.
+
+[06604.129]
+Dymlos
+
+[06604.130]
+Nous ne faisons pas de... !
+
+[06604.131]
+Atwight
+
+[06604.132]
+Oh, {NAME:06 00 00 00}, voyons !
+
+[06604.134]
+Oui, oui, c’est bon, c’est bon.
+
+[06604.136]
+Vous deux, rentrez d’abord au Radisrol : il vous reste des choses à faire, non ?
+
+[06604.137]
+Dymlos
+
+[06604.138]
+C’est juste... Il reste des choses à accomplir.
+
+[06604.140]
+Ah, nous, on fait bande à part : le chemin du retour, rien que pour vous deeeux.
+
+[06604.141]
+Dymlos
+
+[06604.142]
+{NAME:06 00 00 00} !
+
+[06604.143]
+Dymlos
+
+[06604.144]
+... Hum, hum ! Allons-y, Atwight.
+
+[06604.145]
+Atwight
+
+[06604.146]
+Oui...
+
+[06604.148]
+Tiens, tu as du tact, finalement, {NAME:06 00 00 00} : les laisser seuls tous les deux.
+
+[06604.150]
+Bah, une fois de temps en temps. Ça ne va pas être facile pour ces deux-là, maintenant.
+
+[06604.152]
+Il est parti délivrer Atwight sans attendre la décision de l’état-major. Il n’échappera pas à la sanction.
+
+[06604.154]
+Je vois...
+
+[06604.156]
+Bon, nous aussi, on rentre ?
+
+[06604.158]
+{NAME:06 00 00 00} rejoint le groupe.
+
+[06604.160]
+{0B:01 00 00 00}Obtenu : {14:34 08} Gald.{0B:00 00 00 00}
+
+[06604.161]
+Bon voyage.
+
+[06604.162]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06604.163]
+Voulez-vous passer la nuit ?
+
+[06604.165]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06604.166]
+Reposez-vous bien.
+
+[06604.167]
+Bonjour.
+
+[06604.168]
+Vous n’avez pas assez d’argent.
+
+[06604.169]
+Au plaisir de vous revoir.
+
+[06604.174]
+Obtenu : {16:26 86}.
+
+[06604.176]
+Obtenu : {08:FF FF FF FF}.
+
+[06604.178]
+Trouvé : {16:26 8E}, mais vous n’avez plus de place.
+
+[06604.180]
+Il n’y a rien ici.
+

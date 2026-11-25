@@ -1,0 +1,18 @@
+[00350.001]
+Tiens, j’ai raccommodé tant bien que mal les trous faits par les combats.
+
+[00350.002]
+Oh ! Formidaaable. Les trous sont refermés bien proprement !
+
+[00350.003]
+C’est vrai ! Tieeens, {NAME:05 00 00 00}, tu sais coudre, alors.
+
+[00350.004]
+Ça t’étonne tant que ça, que je sache coudre ?
+
+[00350.005]
+Ah... non, je ne voulais pas dire ça...
+
+[00350.006]
+Haha, je sais♪ Dans notre village, chacun s’occupe de soi, c’est la règle. Alors tout le monde sait faire ça.
+

@@ -1,0 +1,627 @@
+[06404.001]
+Lienea : maison de Lilith
+
+[06404.002]
+Lienea : maison de Lilith
+
+[06404.003]
+Maison de Lilith
+
+[06404.005]
+Obtenu : {08:B7 01 00 00}.
+
+[06404.007]
+Des livres étaient rangés avec les condiments.
+
+[06404.009]
+« La voie du Maître gourmet », « Comment participer au Bistro Chambard », « L’art de la poêle »
+
+[06404.010]
+Héros voyeur
+
+[06404.011]
+Hmf. Me voilà découvert, on dirait.
+
+[06404.012]
+Héros voyeur
+
+[06404.013]
+Vingt et quelques années à épier le bain chez la petite Lilith...
+
+[06404.014]
+Héros voyeur
+
+[06404.015]
+Sans céder à la pluie, ni au vent, ni à la neige... le héros qui n’a fait qu’épier le bain, encore et toujours. C’est moi.
+
+[06404.016]
+Héros voyeur
+
+[06404.017]
+Ha... !?
+
+[06404.018]
+Héros voyeur
+
+[06404.019]
+Attends ! J’ai eu tort ! J’arrête, promis : tout, mais pas l’Épée du tonnerre, pitié !
+
+[06404.020]
+Héros voyeur
+
+[06404.021]
+A-arrête ! Gueuh ! A-au sec... gah !
+
+[06404.023]
+Adieu... Héros voyeur...
+
+[06404.025]
+Plus trace du Héros voyeur. Il a dû partir pour un monde lointain.
+
+[06404.027]
+Du curry mapo !
+
+[06404.029]
+C’est b-bon !
+
+[06404.031]
+{NAME:01 00 00 00} obtient le titre « {08:70 08 00 00} ».
+
+[06404.033]
+Des habits d’enfant.
+
+[06404.035]
+{NAME:02 00 00 00}...
+
+[06404.037]
+{NAME:02 00 00 00} ? Elle est sortie tout à l’heure. Va vite la chercher, {NAME:01 00 00 00}.
+
+[06404.039]
+Elle ne peut pas être tout à fait remise. Je lui avais pourtant dit de ne pas sortir à sa guise.
+
+[06404.040]
+Lilith
+
+[06404.041]
+Puisque tu es là, pourquoi ne pas interroger aussi les gens du village ? Tu entendras sûrement de drôles d’histoires.
+
+[06404.042]
+Lilith
+
+[06404.043]
+Va vite chercher cette petite, tu veux ? Sinon, le petit-déjeuner que j’ai préparé va refroidir, hein.
+
+[06404.044]
+Lilith
+
+[06404.045]
+Quand tu seras fatigué, tourmenté, et quand ce sera dur, douloureux... reviens.
+
+[06404.046]
+Lilith
+
+[06404.047]
+Je serai toujours ici.
+
+[06404.049]
+Merci, tante Lilith.
+
+[06404.050]
+Lilith
+
+[06404.051]
+Quand tu seras fatigué ou tourmenté, viens quand tu veux. Je serai toujours ici.
+
+[06404.052]
+Lilith
+
+[06404.053]
+{NAME:01 00 00 00}, bienve... ... Qu’est-ce que tu as ?
+
+[06404.055]
+... Non, ce n’est... rien.
+
+[06404.056]
+Lilith
+
+[06404.057]
+Ce n’est pas rien, voyons. Que tu viennes ici, c’est qu’il y a quelque chose de grave.
+
+[06404.058]
+Lilith
+
+[06404.059]
+Ce qui s’est passé... tu n’as pas l’air décidé à me le dire.
+
+[06404.061]
+... Pardon, tante Lilith.
+
+[06404.062]
+Lilith
+
+[06404.063]
+Tu n’as pas à t’excuser. Seulement... s’appuyer sur quelqu’un quand c’est dur, ce n’est pas mal.
+
+[06404.064]
+Lilith
+
+[06404.065]
+Tu as tout près de toi quelqu’un sur qui on peut vraiment compter, non ? Une héroïne qui a sauvé le monde, et qui est ta mère.
+
+[06404.066]
+Lilith
+
+[06404.067]
+Quand c’est dur, on a le droit de s’appuyer sur quelqu’un. Alors parle. Dis tout à Rutee.
+
+[06404.068]
+Lilith
+
+[06404.069]
+{NAME:01 00 00 00}, bienvenue ! Quel bon vent t’amène ? Toi, ici.
+
+[06404.071]
+Oh, comme ça. J’avais envie de te voir, tante Lilith.
+
+[06404.072]
+Lilith
+
+[06404.073]
+Voilà qui fait plaisir à entendre. ... Mais.
+
+[06404.074]
+Lilith
+
+[06404.075]
+{NAME:01 00 00 00}, tu as beaucoup changé.
+
+[06404.076]
+Lilith
+
+[06404.077]
+{NAME:01 00 00 00}... tu as beaucoup changé.
+
+[06404.078]
+Lilith
+
+[06404.079]
+Il ne s’est pas passé grand temps depuis ta dernière visite, et pourtant, on dirait que tu reviens d’une très grande aventure.
+
+[06404.080]
+Lilith
+
+[06404.081]
+Oui, tout à fait... comme mon frère.
+
+[06404.083]
+Papa ?
+
+[06404.084]
+Lilith
+
+[06404.085]
+Ce n’est pas seulement que vous êtes père et fils. Je sens quelque chose de très grand. En toi-même.
+
+[06404.086]
+Lilith
+
+[06404.087]
+{NAME:01 00 00 00}, reviens me voir quand tu veux.
+
+[06404.088]
+Lilith
+
+[06404.089]
+Et cela vaut pour vous tous. Sans façons : venez quand vous voulez.
+
+[06404.090]
+Lilith
+
+[06404.091]
+{NAME:01 00 00 00}... Tu es {NAME:01 00 00 00} ! Ça fait si longtemps !
+
+[06404.093]
+Ça fait longtemps, tante Lilith !
+
+[06404.094]
+Lilith
+
+[06404.095]
+Depuis que j’étais allée voir mon frère... ça fait déjà dix ans ?
+
+[06404.096]
+Lilith
+
+[06404.097]
+Comme tu as grandi... J’en suis toute surprise !
+
+[06404.098]
+Lilith
+
+[06404.099]
+Tu es en voyage, en ce moment ? Un voyage pour devenir un héros, j’imagine ?
+
+[06404.101]
+Non, pas ça. Un voyage pour trouver « ce que rien ne remplace » !
+
+[06404.102]
+Lilith
+
+[06404.103]
+C’est mon frère qui a dit ça, hein ? Vraiment, il n’a pas changé... Et alors, tu crois que tu le trouveras ?
+
+[06404.105]
+Ça... hé hé. Aucune idée.
+
+[06404.106]
+Lilith
+
+[06404.107]
+Alors voici mon conseil, pour chercher « ce que rien ne remplace » !
+
+[06404.108]
+Lilith
+
+[06404.109]
+Écoute, {NAME:01 00 00 00} : quand tu ne sais plus, reviens au point de départ.
+
+[06404.110]
+Lilith
+
+[06404.111]
+Ce qui t’a donné envie de partir. Ce que tu as au fond du cœur. Ce qui te pousse en avant...
+
+[06404.112]
+Lilith
+
+[06404.113]
+C’est là où cela te mène que se trouve, je crois, « ce que rien ne remplace ».
+
+[06404.115]
+Ce qui me pousse en avant...
+
+[06404.116]
+Lilith
+
+[06404.117]
+Ce que tu cherches sera peut-être difficile à trouver... mais courage, {NAME:01 00 00 00} !
+
+[06404.119]
+Oui ! Je le trouverai, c’est promis ! C’est ma promesse à papa...
+
+[06404.121]
+... Non, pas seulement à papa. Une promesse importante, faite à quelqu’un... J’en ai l’impression.
+
+[06404.122]
+Lilith
+
+[06404.123]
+Ce que tu cherches sera peut-être difficile à trouver... mais courage, {NAME:01 00 00 00} !
+
+[06404.124]
+Lilith
+
+[06404.125]
+Lilith
+
+[06404.127]
+... Et voilà comment on est arrivés ici.
+
+[06404.128]
+Lilith
+
+[06404.129]
+Je vois... Ça a dû être dur, {NAME:01 00 00 00}. Et pour vous tous aussi.
+
+[06404.131]
+Oh, pour nous, ce n’est rien. C’est plutôt pour vous, Lilith, qu’on s’inquiète, à débarquer comme ça.
+
+[06404.132]
+Lilith
+
+[06404.133]
+Oh, ne vous en faites pas. Comme vous voyez, il n’y a rien dans ce village, n’est-ce pas ?
+
+[06404.134]
+Lilith
+
+[06404.135]
+Un petit imprévu comme celui-ci de temps en temps, c’est juste ce qu’il faut.
+
+[06404.136]
+Lilith
+
+[06404.137]
+Enfin, mon frère, lui, n’a pas supporté et il est parti d’ici.
+
+[06404.139]
+Tante Lilith, je peux te demander quelque chose ? C’est... à propos de papa.
+
+[06404.140]
+Lilith
+
+[06404.141]
+Je sais. Tu veux savoir comment il était, petit, hein ?
+
+[06404.142]
+Lilith
+
+[06404.143]
+Voyons... Avant tout, c’était un gros dormeur. C’est moi qui le réveillais, alors chaque jour, quelle affaire.
+
+[06404.144]
+Lilith
+
+[06404.145]
+Crier à tue-tête, lui arracher sa couverture, lui pincer les joues... Eh bien, même comme ça, il ne se réveillait pas.
+
+[06404.146]
+Lilith
+
+[06404.147]
+Alors pour finir, je sortais la poêle et je tapais dessus à tout va avec la louche. « Botte secrète : le Réveil des morts !! », tu vois.
+
+[06404.149]
+...
+......
+
+[06404.150]
+Lilith
+
+[06404.151]
+Pour le reste, c’était un enfant tout à fait ordinaire. Même ses rêves étaient étonnamment modestes : il disait vouloir être soldat au château.
+
+[06404.153]
+Hein !? Il ne disait pas qu’il voulait être un héros !?
+
+[06404.154]
+Lilith
+
+[06404.155]
+Non, pas du touuut. À l’entendre, il a sauvé le monde du péril sans s’en rendre compte.
+
+[06404.156]
+Lilith
+
+[06404.157]
+Hi hi ! « Sans s’en rendre compte », tu te rends compte ? Les gens seraient sûrement déçus de l’entendre.
+
+[06404.158]
+Lilith
+
+[06404.159]
+Mais moi, je trouve que ça lui ressemble, et c’est très bien.
+
+[06404.161]
+Ah bon, c’était donc ça...
+
+[06404.162]
+Lilith
+
+[06404.163]
+Puisque tu es là, pourquoi ne pas interroger aussi les gens du village ? Tu entendras sûrement de drôles d’histoires.
+
+[06404.165]
+Mais {NAME:02 00 00 00}...
+
+[06404.166]
+Lilith
+
+[06404.167]
+Ne t’inquiète pas pour elle. Je vais bien la veiller. Allez, file !
+
+[06404.168]
+Lilith
+
+[06404.169]
+Ah, te revoilà. Alors ? Avec ce qu’ils t’ont raconté, tu connais un peu mieux mon frère ?
+
+[06404.171]
+Hmm... J’ai compris qu’il était assez différent de ce que j’imaginais.
+
+[06404.173]
+Il se bagarrait, il faisait des farces. Il faisait des gaffes, il avait le moral à zéro. Il était comme moi maintenant, quoi.
+
+[06404.174]
+Lilith
+
+[06404.175]
+Rutee me l’a dit, il y a longtemps : toi aussi, tu veux devenir un héros.
+
+[06404.176]
+Lilith
+
+[06404.177]
+Si ce frère-là y est arrivé, tu deviendras sûrement un grand héros, toi aussi. Courage, {NAME:01 00 00 00}.
+
+[06404.178]
+Lilith
+
+[06404.179]
+Tu dois être fatigué, aujourd’hui ? Si tu passais la nuit ici ?
+
+[06404.181]
+　Se reposer　
+　Pas encore　
+
+[06404.182]
+Lilith
+
+[06404.183]
+Alors je prépare les lits tout de suite.
+
+[06404.184]
+Lilith
+
+[06404.185]
+D’accord. Reviens avant qu’il soit trop tard.
+
+[06404.187]
+Bonjour, Lilith.
+
+[06404.188]
+Lilith
+
+[06404.189]
+Oh, bonjour. Vous êtes tous levés de bien bonne heure.
+
+[06404.191]
+À une exception près.
+
+[06404.193]
+Hé~ ! {NAME:01 00 00 00} ! Debout ! De-bout !!
+
+[06404.194]
+Lilith
+
+[06404.195]
+Haa... Il tient de mon frère jusque-là.
+
+[06404.196]
+Lilith
+
+[06404.197]
+Tant pis. Il y a longtemps, mais je vais le refaire !
+
+[06404.199]
+Lilith, vous n’allez quand même pas...
+
+[06404.200]
+Lilith
+
+[06404.201]
+Ah, bouchez-vous les oreilles, je vous prie.
+
+[06404.202]
+Lilith
+
+[06404.203]
+J’y vais... Botte secrète : le « Réveil des morts » !
+
+[06404.205]
+Mnya... bonjour...
+
+[06404.207]
+... Tiens ? On dirait, maman... pas comme... mnyam mnyam...
+
+[06404.208]
+Lilith
+
+[06404.209]
+Oui, oui, allez, debout, {NAME:01 00 00 00}. On passe à table.
+
+[06404.211]
+... Vouiii......
+
+[06404.213]
+... Ç-ça, c’est l’original. Je les avais pourtant bien bouchées, et j’ai les oreilles qui sifflent...
+
+[06404.215]
+... Tiens ? Et {NAME:02 00 00 00} ?
+
+[06404.217]
+Elle avait à réfléchir, a-t-elle dit, et elle est sortie.
+
+[06404.219]
+C’est vrai que ça fait un moment... Va la chercher, toi. Quand elle sera là, on prend le petit-déjeuner.
+
+[06404.221]
+Allez, on mange, et on part tout de suite ! Tante Lilith~, à table !
+
+[06404.222]
+Lilith
+
+[06404.223]
+Retrouver son entrain à l’heure des repas : ça aussi, c’est comme mon frère.
+
+[06404.224]
+Lilith
+
+[06404.225]
+Tout est prêt. Mangez tant que c’est chaud.
+
+[06404.227]
+Tante Lilith ! Merci pour tout ! C’était délicieux !
+
+[06404.228]
+Lilith
+
+[06404.229]
+Vous partez déjà ? Vous pourriez rester un peu.
+
+[06404.231]
+Je reviendrai un jour, c’est promis. La prochaine fois, avec papa et maman !
+
+[06404.232]
+Lilith
+
+[06404.233]
+Oui, j’attendrai ce jour avec joie. Ah, j’y pense ! Avant de partir...
+
+[06404.234]
+Lilith
+
+[06404.235]
+Tiens, emporte ceci. Mon frère s’en servait aussi : c’est l’article des héros.
+
+[06404.237]
+Obtenu : {08:FF FF FF FF}.
+
+[06404.239]
+Et en plus, vous recevez un gros tas de légumes frais de Lienea.
+
+[06404.240]
+Lilith
+
+[06404.241]
+Porte-toi bien, {NAME:01 00 00 00}. Reviens me voir. Tu seras toujours le bienvenu !
+
+[06404.243]
+Je reviendrai, c’est sûr ! Porte-toi bien aussi, tante Lilith !!
+
+[06404.245]
+Le « Raffinage » est désormais possible.
+
+[06404.247]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06404.249]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles. La {08:12 00 00 00} s’achète en ville : faites toutes sortes d’essais.
+
+[06404.250]
+Bon voyage.
+
+[06404.251]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06404.252]
+Voulez-vous passer la nuit ?
+
+[06404.254]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06404.255]
+Reposez-vous bien.
+
+[06404.256]
+Bonjour.
+
+[06404.257]
+Vous n’avez pas assez d’argent.
+
+[06404.258]
+Au plaisir de vous revoir.
+
+[06404.263]
+Obtenu : {16:25 CE}.
+
+[06404.265]
+Obtenu : {08:FF FF FF FF}.
+
+[06404.267]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06404.269]
+Il n’y a rien ici.
+

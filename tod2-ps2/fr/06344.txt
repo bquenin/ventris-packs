@@ -1,0 +1,118 @@
+[06344.001]
+Canaux souterrains de Darilsheid
+
+[06344.002]
+Canaux souterrains de Darilsheid
+
+[06344.003]
+Canaux souterrains de Darilsheid
+
+[06344.005]
+Voici la sortie. Elle mène hors de la ville.
+
+[06344.007]
+N’empêche, ça a pris plus de temps que prévu. Vraiment, seul, je serais sorti bien plus vite...
+
+[06344.009]
+Oui, oui, cause toujours. Non mais...
+
+[06344.011]
+{NAME:01 00 00 00}, laisse ce type et rentrons vite à l’orphelinat.
+
+[06344.013]
+Ah, oui.
+
+[06344.015]
+Qu’y a-t-il ? Tu ne devais pas rentrer vite et partir en voyage ?
+
+[06344.017]
+{NAME:04 00 00 00}, vraiment, merci !
+
+[06344.019]
+Tu n’as aucune raison de me remercier.
+
+[06344.021]
+Merci quand même. Tu nous as vraiment tirés d’affaire !
+
+[06344.023]
+...
+
+[06344.025]
+Alors salut, {NAME:04 00 00 00}. J’espère qu’on se reverra quelque part !
+
+[06344.027]
+{NAME:01 00 00 00}...
+
+[06344.029]
+Quoi ?
+
+[06344.031]
+Moi, avec toi, je...
+
+[06344.033]
+... Non, rien.
+
+[06344.035]
+Si tu veux devenir un héros, tâche donc de faire de ton mieux. Sur ce.
+
+[06344.037]
+... Tu sais, {NAME:04 00 00 00}, il est mystérieux, non ?
+
+[06344.039]
+Mystérieux ? Ce genre-là, on dit pas mystérieux, on dit « bizarre ».
+
+[06344.041]
+Tu exagères, {NAME:03 00 00 00}. {NAME:04 00 00 00} est quelqu’un de bien.
+
+[06344.043]
+Il aurait pu s’évader tout seul, et il nous a emmenés avec lui.
+
+[06344.045]
+Et là encore, il m’a encouragé !
+
+[06344.047]
+... Écoute, {NAME:01 00 00 00}. Ça, c’était de l’ironie, pas un encouragement.
+
+[06344.049]
+Tu crois...
+
+[06344.051]
+Laisse ça, rentrons vite à l’orphelinat. Il est rudement tard, dépêchons.
+
+[06344.052]
+Bon voyage.
+
+[06344.053]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06344.054]
+Voulez-vous passer la nuit ?
+
+[06344.056]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06344.057]
+Reposez-vous bien.
+
+[06344.058]
+Bonjour.
+
+[06344.059]
+Vous n’avez pas assez d’argent.
+
+[06344.060]
+Au plaisir de vous revoir.
+
+[06344.065]
+Obtenu : {16:25 CE}.
+
+[06344.067]
+Obtenu : {08:FF FF FF FF}.
+
+[06344.069]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06344.071]
+Il n’y a rien ici.
+

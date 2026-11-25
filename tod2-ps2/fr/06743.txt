@@ -1,0 +1,207 @@
+[06743.001]
+Aigrette
+
+[06743.002]
+Aigrette
+
+[06743.004]
+Une vieille horloge. On y lit : « Don du chef de l’ancien village d’Almeida ».
+
+[06743.005]
+Jeune femme
+
+[06743.006]
+Ceux qui ne sont pas citoyens paient en Gald.
+
+[06743.007]
+Jeune femme
+
+[06743.008]
+Les citoyens logent gratuitement, vous savez. Enfin, comme ils ont leur maison, personne ne vient jamais dormir ici...
+
+[06743.009]
+Jeune femme
+
+[06743.010]
+Chef
+
+[06743.011]
+{16:34 7C} : tu en prépares ?
+
+[06743.012]
+Chef
+
+[06743.013]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06743.015]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06743.016]
+Chef
+
+[06743.017]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06743.018]
+Chef
+
+[06743.019]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06743.020]
+Chef
+
+[06743.021]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06743.023]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06743.024]
+Chef
+
+[06743.025]
+Tu n’as pas assez d’argent.
+
+[06743.026]
+Chef
+
+[06743.027]
+Je te vends la recette : {16:34 7C}.
+
+[06743.028]
+Chef
+
+[06743.029]
+Bah, tant pis.
+
+[06743.030]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06743.031]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.032]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.033]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.034]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.035]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06743.036]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.037]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06743.038]
+Chef
+
+[06743.039]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06743.040]
+Chef
+
+[06743.041]
+Mais tu as les ingrédients.
+
+[06743.042]
+Chef
+
+[06743.043]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06743.045]
+{03:00 00 00 00}　Oui
+　Non
+
+[06743.046]
+Chef
+
+[06743.047]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06743.048]
+Chef
+
+[06743.049]
+Dommage. C’est vraiment délicieux...
+
+[06743.050]
+Chef
+
+[06743.051]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06743.052]
+Chef
+
+[06743.053]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06743.054]
+Chef
+
+[06743.055]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06743.057]
+Recette ramassée : {16:34 7C}.
+
+[06743.059]
+Recette apprise : {16:34 90}.
+
+[06743.060]
+Bon voyage.
+
+[06743.061]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06743.062]
+Voulez-vous passer la nuit ?
+
+[06743.064]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06743.065]
+Reposez-vous bien.
+
+[06743.066]
+Bonjour.
+
+[06743.067]
+Vous n’avez pas assez d’argent.
+
+[06743.068]
+Au plaisir de vous revoir.
+
+[06743.073]
+Obtenu : {16:25 DE}.
+
+[06743.075]
+Obtenu : {08:FF FF FF FF}.
+
+[06743.077]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06743.079]
+Il n’y a rien ici.
+

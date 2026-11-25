@@ -1,0 +1,17 @@
+[06741.001]
+{0B:01 00 00 00}{03:00 00 00 00}Vous = {14:25 46} cartes / Homme aux cartes = {14:25 48} cartes{0B:00 00 00 00}
+
+[06741.004]
+Égalité.
+
+[06741.006]
+Vous avez gagné.
+
+[06741.008]
+L’Homme aux cartes a gagné.
+
+[06741.010]
+{03:00 00 00 00}Arrêter la partie ?
+
+{09:35 00 00 00}Arrêter　{09:36 00 00 00}Continuer
+

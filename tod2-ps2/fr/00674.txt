@@ -1,0 +1,12 @@
+[00674.001]
+... Aïe ! Aïe aïe, je me suis un peu tordu la cheville, on dirait.
+
+[00674.002]
+Hé, ça va, {NAME:05 00 00 00} ? Je te prête mon épaule ?
+
+[00674.003]
+Bêêê, raté♪ Si tu comptes faire de moi ton obligée, c’est non.
+
+[00674.004]
+Hé. Avec un tel bagou, tu survivras.
+

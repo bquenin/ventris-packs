@@ -1,0 +1,49 @@
+[06507.001]
+Trash Mountain
+
+[06507.002]
+Trash Mountain
+
+[06507.004]
+Ce rocher, l’Anneau du sorcier ne le brisera pas...
+
+[06507.006]
+Il ne reste qu’à l’écarter à la main, en évitant le gaz.
+
+[06507.007]
+Bon voyage.
+
+[06507.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06507.009]
+Voulez-vous passer la nuit ?
+
+[06507.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06507.012]
+Reposez-vous bien.
+
+[06507.013]
+Bonjour.
+
+[06507.014]
+Vous n’avez pas assez d’argent.
+
+[06507.015]
+Au plaisir de vous revoir.
+
+[06507.020]
+Obtenu : {16:26 76}.
+
+[06507.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06507.024]
+Trouvé : {16:26 7E}, mais vous n’avez plus de place.
+
+[06507.026]
+Il n’y a rien ici.
+

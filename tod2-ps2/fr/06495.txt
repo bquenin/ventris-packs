@@ -1,0 +1,97 @@
+[06495.001]
+Heat River
+
+[06495.002]
+Heat River
+
+[06495.004]
+Ouf... On va pouvoir passer, comme ça.
+
+[06495.006]
+Ça va, {NAME:02 00 00 00} ?
+
+[06495.008]
+Ç-ça va... Un peu fatiguée, c’est tout...
+
+[06495.010]
+Ah bon ? Mes petits, eux, font ce genre de chemin tous les jours, aller et retour, pour chercher l’eau.
+
+[06495.012]
+Tes petits... {NAME:05 00 00 00}, tu as des enfants !?
+
+[06495.014]
+Ahahahaha ! Mais non ! Je parle des enfants du village.
+
+[06495.016]
+Enfin, je m’en occupe depuis qu’ils portaient encore des couches : c’est un peu comme mes vrais enfants.
+
+[06495.018]
+Ah, d’accord. Tu sais, moi aussi, j’ai plein de petits frères et de petites sœurs...
+
+[06495.020]
+Chut ! Silence ! J’entends un drôle de bruit !
+
+[06495.022]
+I-il y a quelque chose !
+
+[06495.024]
+Ce cri... attention, vous deux !
+
+[06495.026]
+Eh bien... Ouf, pas le temps de souffler.
+
+[06495.028]
+Tu trouves ? S’il n’était rien sorti du tout, on aurait été déçus.
+
+[06495.030]
+Et puis, après avoir autant bougé, le repas d’aujourd’hui sera drôlement bon !
+
+[06495.032]
+Ha, haha...
+
+[06495.034]
+Haa, haa... ... Je n’en peux plus...
+
+[06495.036]
+Allez, courage ! Le village est tout près.
+
+[06495.038]
+En arrivant, un booon repas nous attend ! Allez, on y va !
+
+[06495.039]
+Bon voyage.
+
+[06495.040]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06495.041]
+Voulez-vous passer la nuit ?
+
+[06495.043]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06495.044]
+Reposez-vous bien.
+
+[06495.045]
+Bonjour.
+
+[06495.046]
+Vous n’avez pas assez d’argent.
+
+[06495.047]
+Au plaisir de vous revoir.
+
+[06495.052]
+Obtenu : {16:25 D6}.
+
+[06495.054]
+Obtenu : {08:FF FF FF FF}.
+
+[06495.056]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06495.058]
+Il n’y a rien ici.
+

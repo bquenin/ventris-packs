@@ -1,0 +1,3 @@
+[00148.001]
+Écoute, {NAME:01 00 00 00}. Mets-toi devant ce qu’on peut déplacer et appuie sur {09:25 00 00 00}. Avance en tenant {09:2D 00 00 00} : tu le traînes.
+

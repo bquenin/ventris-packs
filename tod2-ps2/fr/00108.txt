@@ -1,0 +1,24 @@
+[00108.001]
+Dis, {NAME:03 00 00 00}. Toi qui étais dans l’Ordre d’Atamoni, tu as dû rencontrer Philia, l’héroïne, non ?
+
+[00108.002]
+Je l’ai juste aperçue de loin. Les sous-fifres comme nous, on les envoie en province : on n’a guère l’occasion.
+
+[00108.003]
+Et alors ? Et alors ? Elle est comment ?
+
+[00108.004]
+Une beauté intellectuelle, à qui les lunettes vont bien...... Hé... Le genre de Rutee, c’est bien aussi, mais ce genre grande sœur toute sage, ça fait son petit effet, à sa manière...
+
+[00108.005]
+Mais non, pas ça ! Il y a autre chose, non ? Une aura de héros, une force d’âme incroyable !
+
+[00108.006]
+Sais pas.
+
+[00108.007]
+« Sais pas » ? Tu ne juges que sur « belle ou pas belle », {NAME:03 00 00 00} !?
+
+[00108.008]
+Oui ! Quoi d’autre !!
+

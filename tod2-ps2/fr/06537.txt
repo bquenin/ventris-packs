@@ -1,0 +1,92 @@
+[06537.001]
+Vangelo : distribution
+
+[06537.002]
+Vangelo, la Cité d’azur
+
+[06537.003]
+Distribution
+
+[06537.004]
+Jeune femme
+
+[06537.005]
+Les vêtements, le logis, la nourriture : c’est dame Elraine qui nous donne tout.
+
+[06537.006]
+Jeune femme
+
+[06537.007]
+Alors, les faire soi-même, ce serait renier les bienfaits de dame Elraine, non ?
+
+[06537.009]
+Moi, ça me dépasse. C’est justement parce qu’on fait une chose de ses mains qu’on s’y attache, non ?
+
+[06537.010]
+Jeune femme
+
+[06537.011]
+Vous... vous portez de drôles de vêtements. Dans les autres villes, on distribue des habits pareils ?
+
+[06537.013]
+On distribue ? Vous ne les cousez pas vous-mêmes ?
+
+[06537.014]
+Jeune femme
+
+[06537.015]
+Coudre... c’est quoi ? Il y a besoin de faire ça ? Puisque dame Elraine nous donne tout.
+
+[06537.016]
+Machine-boutique
+
+[06537.017]
+Bienvenue. Que vous faut-il ?
+
+[06537.019]
+{03:00 00 00 00}　Objets　
+　Ingrédients　
+
+[06537.020]
+Machine-boutique
+
+[06537.021]
+Merci beaucoup.
+
+[06537.022]
+Bon voyage.
+
+[06537.023]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06537.024]
+Voulez-vous passer la nuit ?
+
+[06537.026]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06537.027]
+Reposez-vous bien.
+
+[06537.028]
+Bonjour.
+
+[06537.029]
+Vous n’avez pas assez d’argent.
+
+[06537.030]
+Au plaisir de vous revoir.
+
+[06537.035]
+Obtenu : {16:25 B6}.
+
+[06537.037]
+Obtenu : {08:FF FF FF FF}.
+
+[06537.039]
+Trouvé : {16:25 BE}, mais vous n’avez plus de place.
+
+[06537.041]
+Il n’y a rien ici.
+

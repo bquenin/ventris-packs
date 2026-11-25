@@ -1,0 +1,145 @@
+[06568.001]
+Base de l’armée terrestre
+
+[06568.002]
+Base de l’armée terrestre
+
+[06568.004]
+Des vivres de secours et autres réserves sont entreposés ici.
+
+[06568.006]
+Un passage barré par des chaînes. Au-delà, plus rien ne sert, semble-t-il.
+
+[06568.008]
+Une bouteille d’alcool à l’odeur violente. De la gnôle clandestine, peut-être...
+
+[06568.009]
+Troupier
+
+[06568.010]
+Ça, c’est de l’alcool médical. Même ça, si on en boit, ça soûle. Bon, je ne garantis pas l’état dans lequel on est après.
+
+[06568.012]
+« Du grand quartier général à tous les soldats. Sur le sort des soldats de l’armée céleste qui se rendent : nous n’avons plus de quoi nourrir des soldats ennemis ; ceux qui se rendent seront donc, sur place... »
+
+[06568.013]
+Troupier
+
+[06568.014]
+La situation empire de jour en jour. Pouvons-nous vraiment vaincre l’armée céleste ?
+
+[06568.015]
+Sergent-chef
+
+[06568.016]
+Soldat. Ton travail n’est pas de penser, mais de remuer ta carcasse.
+
+[06568.017]
+Officier
+
+[06568.018]
+C’est juste. Penser, laissons cela au commandant Litler ou au général de division Dymlos.
+
+[06568.019]
+Officier
+
+[06568.020]
+Nous autres soldats, il nous suffit d’exécuter les ordres reçus.
+
+[06568.021]
+Troupier
+
+[06568.022]
+À vos ordres.
+
+[06568.023]
+Troupier
+
+[06568.024]
+Mon capitaine, d’où êtes-vous originaire ?
+
+[06568.025]
+Sergent-chef
+
+[06568.026]
+Holà, soldat. Il y a une prime sur cette question.
+
+[06568.027]
+Sergent-chef
+
+[06568.028]
+Si tu arrives à faire raconter son passé au capitaine, c’est 300 Gald.
+
+[06568.029]
+Officier
+
+[06568.030]
+J’attendrai qu’elle monte à 500 Gald. Alors nous partagerons, toi et moi.
+
+[06568.031]
+Officier
+
+[06568.032]
+À condition d’être encore en vie d’ici là.
+
+[06568.033]
+Troupier
+
+[06568.034]
+Chaltier, qui était dans notre unité : il a réussi l’épreuve d’aptitude aux Swordians et il est affecté au quartier général, c’est bien beau, mais il paraît que l’entraînement est en train de le tuer.
+
+[06568.035]
+Sergent-chef
+
+[06568.036]
+Ce gamin sûr de lui ? Un sacré insolent.
+
+[06568.037]
+Officier
+
+[06568.038]
+Insolent, oui, mais on n’arrivait pas à le détester.
+
+[06568.039]
+Officier
+
+[06568.040]
+J’espère qu’il s’en sortira vivant.
+
+[06568.041]
+Bon voyage.
+
+[06568.042]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06568.043]
+Voulez-vous passer la nuit ?
+
+[06568.045]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06568.046]
+Reposez-vous bien.
+
+[06568.047]
+Bonjour.
+
+[06568.048]
+Vous n’avez pas assez d’argent.
+
+[06568.049]
+Au plaisir de vous revoir.
+
+[06568.054]
+Obtenu : {16:25 BA}.
+
+[06568.056]
+Obtenu : {08:FF FF FF FF}.
+
+[06568.058]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06568.060]
+Il n’y a rien ici.
+

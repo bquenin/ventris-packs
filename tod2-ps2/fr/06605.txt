@@ -1,0 +1,250 @@
+[06605.001]
+Dycroft
+
+[06605.002]
+Dycroft
+
+[06605.003]
+Dymlos
+
+[06605.004]
+Les voilà... ! L’ennemi aussi est fin prêt, semble-t-il.
+
+[06605.005]
+Karell
+
+[06605.006]
+Alors, passons sans attendre à l’emploi des nouvelles armes au combat !
+
+[06605.007]
+Dymlos
+
+[06605.008]
+Fearful Flare !
+
+[06605.009]
+Igtenos
+
+[06605.010]
+Cyclone !
+
+[06605.011]
+Chaltier
+
+[06605.012]
+Press !
+
+[06605.013]
+Atwight
+
+[06605.014]
+Maître Clemente !
+
+[06605.015]
+Atwight
+
+[06605.016]
+First Aid !
+
+[06605.017]
+Clemente
+
+[06605.018]
+Ne me sous-estimez pas parce que je suis un vieux soldat !
+
+[06605.019]
+Clemente
+
+[06605.020]
+Meteor Swarm !
+
+[06605.021]
+Karell
+
+[06605.022]
+Alors, moi aussi...
+
+[06605.023]
+Karell
+
+[06605.024]
+Black Hole !
+
+[06605.026]
+Ça, c’est les Swordians ! Tous ces monstres, en un instant... !
+
+[06605.027]
+Dymlos
+
+[06605.028]
+Bien, la voie est libre. En avant, tous !
+
+[06605.029]
+Dymlos
+
+[06605.030]
+C’est ici que nous nous séparons, {NAME:01 00 00 00}.
+
+[06605.032]
+Hein !?
+
+[06605.033]
+Dymlos
+
+[06605.034]
+Le reste est notre affaire. L’histoire doit être faite par les hommes de son temps... n’est-ce pas ?
+
+[06605.036]
+Dymlos, ne me dites pas que vous savez, pour nous... !
+
+[06605.037]
+Dymlos
+
+[06605.038]
+Si nous pouvons créer l’avenir où vous vivez, nous ne sommes pas si mauvais, non ?
+
+[06605.040]
+Dymlos...
+
+[06605.041]
+Dymlos
+
+[06605.042]
+Vous, suivez votre route. Remettre le cours de l’histoire en état, vous seuls le pouvez.
+
+[06605.044]
+Oui !
+
+[06605.045]
+Dymlos
+
+[06605.046]
+Bon courage, {NAME:01 00 00 00} !
+
+[06605.048]
+Bon, nous aussi, on y va.
+
+[06605.050]
+Si Barbatos vient tout gâcher au dernier moment, toute notre peine sera fichue.
+
+[06605.052]
+Exactement ! Alors, let’s go !
+
+[06605.054]
+Attends, {NAME:06 00 00 00} !
+
+[06605.056]
+{NAME:06 00 00 00}, rattrape Dymlos et les autres. Maintenant, il est encore temps !
+
+[06605.058]
+{NAME:01 00 00 00} !
+
+[06605.060]
+Je sais ! Je sais, mais...
+
+[06605.062]
+Non, je ne peux pas ! Me taire comme ça, moi... !
+
+[06605.064]
+........
+
+[06605.066]
+{NAME:06 00 00 00} !
+
+[06605.068]
+T’es bête, toi.
+
+[06605.070]
+Votre but, c’est de corriger l’histoire, non ? Alors il ne faut pas faire ce qui la mettrait sens dessus dessous.
+
+[06605.072]
+Mais {NAME:06 00 00 00}, tu vas avoir de la peine, c’est sûr ! Ça te va quand même !?
+
+[06605.074]
+Tu me demandes de changer l’histoire ? Pour m’éviter un résultat qui me déplaît ?
+
+[06605.076]
+Tu plaisantes ! Si je faisais ça, je serais au même niveau que votre fameuse déesse.
+
+[06605.078]
+{NAME:06 00 00 00}...
+
+[06605.080]
+Je n’ai pas envie de connaître l’avenir, et même si je le connaissais, je ne changerais rien à ce que je fais. Je fais ce qu’il faut faire maintenant, c’est tout.
+
+[06605.082]
+C’est comme ça que les hommes ont fait l’histoire : à tâtons.
+
+[06605.084]
+Je n’ai pas la moindre intention d’être la seule à tricher. Compris ?
+
+[06605.086]
+...... Compris.
+
+[06605.088]
+Très bien ! Alors, on reprend : let’s...
+
+[06605.090]
+Q-quoi !?
+
+[06605.092]
+Le bruit du tir de Belcrant. Tout se passe comme prévu : vraiment, aucune imagination.
+
+[06605.094]
+Ne me dis pas que c’est un tir aveugle de Belcrant !?
+
+[06605.096]
+Il faut faire vite... ! Tout le monde, à la salle de contrôle !
+
+[06605.097]
+Cyclone !
+
+[06605.098]
+Press !
+
+[06605.099]
+Meteor Swarm !
+
+[06605.100]
+Black Hole !
+
+[06605.101]
+Fearful Flare !
+
+[06605.102]
+Bon voyage.
+
+[06605.103]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06605.104]
+Voulez-vous passer la nuit ?
+
+[06605.106]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06605.107]
+Reposez-vous bien.
+
+[06605.108]
+Bonjour.
+
+[06605.109]
+Vous n’avez pas assez d’argent.
+
+[06605.110]
+Au plaisir de vous revoir.
+
+[06605.115]
+Obtenu : {16:26 4A}.
+
+[06605.117]
+Obtenu : {08:FF FF FF FF}.
+
+[06605.119]
+Trouvé : {16:26 52}, mais vous n’avez plus de place.
+
+[06605.121]
+Il n’y a rien ici.
+

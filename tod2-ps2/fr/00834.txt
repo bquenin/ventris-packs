@@ -1,0 +1,21 @@
+[00834.001]
+Tiens, {NAME:03 00 00 00}. Mange... ça.
+
+[00834.002]
+De la bouillie ? Dis donc, {NAME:05 00 00 00}. Tu l’as faite pour moi ?
+
+[00834.003]
+Oui... Tu as encore l’estomac détraqué par la cuisine d’essai de {NAME:06 00 00 00}, non ? Alors voilà, un menu spécial, facile à digérer.
+
+[00834.004]
+... Je vois... Toi, malgré tout ce que tu dis, tu m’aimais... Je le reçois, ton amour...
+
+[00834.005]
+Qu’est-ce que tu racontes, idiot !
+
+[00834.006]
+Agh !! Guuuh... uuu......... je... meurs......
+
+[00834.007]
+Intoxiqué, puis frappé : fatal.
+

@@ -1,0 +1,43 @@
+[06509.001]
+Trash Mountain
+
+[06509.002]
+Trash Mountain
+
+[06509.003]
+Bon voyage.
+
+[06509.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06509.005]
+Voulez-vous passer la nuit ?
+
+[06509.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06509.008]
+Reposez-vous bien.
+
+[06509.009]
+Bonjour.
+
+[06509.010]
+Vous n’avez pas assez d’argent.
+
+[06509.011]
+Au plaisir de vous revoir.
+
+[06509.016]
+Obtenu : {16:26 76}.
+
+[06509.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06509.020]
+Trouvé : {16:26 7E}, mais vous n’avez plus de place.
+
+[06509.022]
+Il n’y a rien ici.
+

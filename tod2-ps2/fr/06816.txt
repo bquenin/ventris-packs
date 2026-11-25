@@ -1,0 +1,197 @@
+[06816.4072]
+Commencer la partie avec ces réglages.
+{09:25 00 00 00}Commencer{09:26 00 00 00}Retour
+
+[06816.4136]
+Commencer
+
+[06816.4152]
+Permet un lancement de plus après le
+sort additionnel de « Crazy Comet ».
+
+[06816.4224]
+Sorts en chaîne
+
+[06816.4240]
+Commencer en gardant le nombre de
+rencontres et le record de coups.
+
+[06816.4304]
+Stats de combat
+
+[06816.4320]
+Commencer en gardant le temps de jeu.
+
+[06816.4368]
+Garder temps de jeu
+
+[06816.4392]
+Permet de porter jusqu’à 30 objets
+consommables de chaque sorte.
+
+[06816.4448]
+30 objets par sorte
+
+[06816.4472]
+Permet de porter jusqu’à 20 objets
+consommables de chaque sorte.
+
+[06816.4528]
+20 objets par sorte
+
+[06816.4552]
+Commencer en gardant les données
+de la carte du monde.
+
+[06816.4608]
+Garder la carte
+
+[06816.4632]
+Commencer en gardant les données
+du Livre du collectionneur.
+
+[06816.4688]
+Garder le Livre
+
+[06816.4712]
+Commencer en gardant les données
+du Bestiaire.
+
+[06816.4768]
+Garder le Bestiaire
+
+[06816.4792]
+Commencer en gardant la maîtrise
+des recettes de base.
+
+[06816.4840]
+Garder la maîtrise
+
+[06816.4864]
+Commencer en gardant vos recettes.
+
+[06816.4904]
+Garder les recettes
+
+[06816.4920]
+L’expérience normale tombe à 1, mais le
+bonus d’expérience de combo est quadruplé.
+
+[06816.5000]
+Le combo ou rien
+
+[06816.5016]
+L’expérience gagnée est divisée par deux.
+Pour qui veut finir à bas niveau.
+
+[06816.5080]
+Demi-expérience
+
+[06816.5096]
+L’expérience donnée par les ennemis est doublée.
+
+[06816.5136]
+Expérience x2
+
+[06816.5152]
+Commencer en gardant l’Orbe d’éclaireur,
+le Sélecteur lunaire et le Pot magique.
+
+[06816.5232]
+Garder objets chics
+
+[06816.5256]
+Plus aucune rencontre aléatoire.
+Finir le jeu n’est pas garanti.
+
+
+[06816.5336]
+Sans rencontres
+
+[06816.5360]
+Tout le monde commence avec 160 HP max.
+Pour qui aime les sueurs froides d’entrée.
+
+[06816.5440]
+Départ à 160 HP max
+
+[06816.5464]
+Commencer avec 500 HP max de plus pour tous.
+
+[06816.5512]
+HP max accrus
+
+[06816.5528]
+Dès qu’un arte ou un sort est appris, ses
+enchantements additionnels le sont aussi.
+
+[06816.5600]
+Additionnels directs
+
+[06816.5624]
+Commencer en ajoutant les emplacements de
+votre équipement à l’équipement de départ.
+
+[06816.5688]
+Garder emplacements
+
+[06816.5704]
+Commencer en gardant vos enchantements,
+additionnels exceptés.
+
+[06816.5768]
+Garder enchantements
+
+[06816.5792]
+Commencer en gardant vos sorts.
+
+[06816.5832]
+Garder les sorts
+
+[06816.5848]
+Commencer en gardant vos artes.
+
+[06816.5888]
+Garder les artes
+
+[06816.5904]
+Commencer en gardant le nombre d’usages
+de vos artes et sorts.
+
+[06816.5960]
+Garder les usages
+
+[06816.5976]
+Commencer en gardant vos titres et
+les difficultés débloquées.
+
+[06816.6032]
+Garder modes, titres
+
+[06816.6056]
+Le GRADE restant est reporté.
+Vous pouvez aussi ne rien dépenser cette fois
+et l’utiliser au début de la partie suivante.
+
+[06816.6160]
+Le score de combat (GRADE) de fin de jeu permet
+de commencer une partie à diverses conditions.
+
+[06816.6248]
+Félicitations, vous avez fini le jeu !
+
+[06816.6576]
+GRADE SHOP
+
+[06816.6600]
+{09:35 00 00 00}Acheter/Annuler
+{09:36 00 00 00}Terminer
+{09:37 00 00 00}Détails
+{09:38 00 00 00}Recommencer
+
+[06816.6656]
+GRADE
+
+[06816.6680]
+        Achat
+

@@ -1,0 +1,88 @@
+[06594.001]
+Dycroft
+
+[06594.002]
+Dycroft
+
+[06594.003]
+Dymlos
+
+[06594.004]
+Tu n’as rien, {NAME:06 00 00 00} ? Personne ne manque ?
+
+[06594.006]
+Comme tu vois, tout le monde va bien.
+
+[06594.007]
+Dymlos
+
+[06594.008]
+Tiens... Pour un premier combat réel, vous vous en tirez bien.
+
+[06594.010]
+Et de votre côté, ça va ?
+
+[06594.011]
+Dymlos
+
+[06594.012]
+Comme tu vois. Mais la porte ne s’ouvre pas. Nous allions la détruire...
+
+[06594.014]
+Eh bien, rester bloqués à un endroit pareil...
+
+[06594.016]
+Ils sont tous derrière la porte, non ? On les sort de là vite fait et on rentre.
+
+[06594.017]
+Karell
+
+[06594.018]
+Ne demande pas l’impossible, {NAME:06 00 00 00}. La serrure fonctionne par mot de passe, et sans doute seul Miktran...
+
+[06594.020]
+Tu disais, frangin ?
+
+[06594.021]
+Dymlos
+
+[06594.022]
+Le bon sens ne s’applique pas à ta sœur, on dirait, Karell.
+
+[06594.023]
+Bon voyage.
+
+[06594.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06594.025]
+Voulez-vous passer la nuit ?
+
+[06594.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06594.028]
+Reposez-vous bien.
+
+[06594.029]
+Bonjour.
+
+[06594.030]
+Vous n’avez pas assez d’argent.
+
+[06594.031]
+Au plaisir de vous revoir.
+
+[06594.036]
+Obtenu : {16:25 BE}.
+
+[06594.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06594.040]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06594.042]
+Il n’y a rien ici.
+

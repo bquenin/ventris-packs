@@ -1,0 +1,67 @@
+[06683.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06683.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06683.003]
+Œuf de Dieu : niveau intermédiaire
+
+[06683.005]
+« {NAME:06 00 00 00} Berselius. Imprégnée d’un savoir hérétique qui trompe la déesse. Pour cela, condamnée. »
+
+[06683.007]
+« {NAME:05 00 00 00} Fletch. Mécréante qui nie la gloire de la déesse. Pour cela, condamnée. »
+
+[06683.009]
+« Leon Magnus. Traître oublieux des bienfaits de la déesse. Pour cela, condamné. »
+
+[06683.011]
+« {NAME:03 00 00 00} Dunamis. Sot qui a oublié sa foi en la déesse. Pour cela, condamné. »
+
+[06683.013]
+« {NAME:01 00 00 00} Dunamis. Être dangereux qui se dresse contre la déesse. Pour cela, condamné. »
+
+[06683.015]
+Hah ! Causez toujours. On va bientôt vous ôter l’envie de débiter des âneries pareilles.
+
+[06683.017]
+Le coffre était un Cheap Trick.
+
+[06683.018]
+Bon voyage.
+
+[06683.019]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06683.020]
+Voulez-vous passer la nuit ?
+
+[06683.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06683.023]
+Reposez-vous bien.
+
+[06683.024]
+Bonjour.
+
+[06683.025]
+Vous n’avez pas assez d’argent.
+
+[06683.026]
+Au plaisir de vous revoir.
+
+[06683.031]
+Obtenu : {16:25 BA}.
+
+[06683.033]
+Obtenu : {08:FF FF FF FF}.
+
+[06683.035]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06683.037]
+Il n’y a rien ici.
+

@@ -1,0 +1,1106 @@
+[06313.001]
+Orphelinat Dunamis
+
+[06313.002]
+Orphelinat Dunamis
+
+[06313.003]
+Orphelinat, rez-de-chaussée
+
+[06313.005]
+Je ne peux quand même pas partir en laissant {NAME:03 00 00 00}.
+
+[06313.006]
+Tonia
+
+[06313.007]
+Enfin, {NAME:01 00 00 00}, ne dors pas en marchant ! On dirait un zombie, ça fait peur !
+
+[06313.008]
+Tonia
+
+[06313.009]
+Alors c’est vrai, {NAME:01 00 00 00}, tu veux devenir un vrai héros...
+
+[06313.011]
+Pardon, Tonia. Tu vas te sentir seule, je sais...
+
+[06313.012]
+Tonia
+
+[06313.013]
+Mm, ça ira. Il y a Rutee et tous les autres... Je ne serai pas seule.
+
+[06313.014]
+Tonia
+
+[06313.015]
+Courage, {NAME:01 00 00 00} ! Et ne fais rien qui rende Rutee triste, hein !
+
+[06313.016]
+Uni
+
+[06313.017]
+Ah, {NAME:01 00 00 00}, {NAME:03 00 00 00}, bon retou~r !! Notre aventure hors de la ville, je n’en ai rien dit à Rutee !
+
+[06313.019]
+Wah ! Pas si fort ! Maman va t’entendre !
+
+[06313.020]
+Uni
+
+[06313.021]
+Oups... Notre aventure hors de la ville, c’était un secret pour Rutee, c’est vrai...
+
+[06313.022]
+Uni
+
+[06313.023]
+Tiens ? {NAME:01 00 00 00} debout à cette heure-ci, c’est rare !
+
+[06313.025]
+Mais non... Regarde, je mange même toutes mes carottes...
+
+[06313.026]
+Uni
+
+[06313.027]
+{NAME:01 00 00 00}, on dirait que tu dors encore à moitié...
+
+[06313.028]
+Uni
+
+[06313.029]
+Fwaa... Tiens ? {NAME:01 00 00 00}, tu sors ?
+
+[06313.031]
+... Oui. Je vais m’absenter un moment. Sois sage, d’accord ?
+
+[06313.032]
+Uni
+
+[06313.033]
+Bon voyage~, tous les deux... Fwaa...
+
+[06313.034]
+Uni
+
+[06313.035]
+Dis, regarde, regarde ! Cette jupe, c’est moi qui l’ai faite !
+
+[06313.037]
+Oh, pas mal du tout. Uni, tu feras une bonne épouse, plus tard !
+
+[06313.038]
+Uni
+
+[06313.039]
+Hé hé hé~★ Les habits de tout le monde, c’est moi qui les fais. Je te fais quelque chose aussi, {NAME:03 00 00 00} ?
+
+[06313.041]
+Tu es adroite, Uni. Tu pourrais te marier quand tu veux.
+
+[06313.042]
+Uni
+
+[06313.043]
+Je sais ! {NAME:03 00 00 00}, je vais te faire une jupe assortie à la mienne !
+
+[06313.045]
+Euh, une jupe, c’est un peu...
+
+[06313.046]
+Uni
+
+[06313.047]
+Dis ! Dis ! {NAME:03 00 00 00}, à toi aussi je vais faire une jupe assortie à la mienne !
+
+[06313.048]
+Cinnamon
+
+[06313.049]
+Hé hé~ ! Moi, pendant l’aventure de tout à l’heure, j’ai ramassé une Lentille~ !
+
+[06313.051]
+Ben alors, tu amasses les Lentilles ? Tu comptes en faire don à l’Ordre d’Atamoni, ou quoi ?
+
+[06313.052]
+Cinnamon
+
+[06313.053]
+Mais non, ces Lentilles, je vais les changer en argent et le donner à Rutee !
+
+[06313.054]
+Cinnamon
+
+[06313.055]
+Ces Lentilles, je vais les changer en argent et le donner à Rutee !
+
+[06313.056]
+Cinnamon
+
+[06313.057]
+Avec autant de Lentilles, on pourrait faire de cette maison un vrai château !
+
+[06313.058]
+Cinnamon
+
+[06313.059]
+Ohé, {NAME:01 00 00 00}, ça va ? Tu titubes, on dirait.
+
+[06313.061]
+... Zzz...
+
+[06313.063]
+... Marcher en dormant, c’est un talent aussi, faut croire...
+
+[06313.064]
+Cinnamon
+
+[06313.065]
+Ohé, {NAME:01 00 00 00}, ça va ? Tu titubes, on dirait.
+
+[06313.066]
+Cinnamon
+
+[06313.067]
+Oh, {NAME:01 00 00 00} la marmotte ! T’es matinal, aujourd’hui !
+
+[06313.068]
+Cinnamon
+
+[06313.069]
+Moi, quand je serai un peu plus grand, je ferai tout pour devenir un héros, comme toi, {NAME:01 00 00 00} !
+
+[06313.071]
+... Non, toi, je veux que tu restes ici et que tu protèges maman et tout le monde.
+
+[06313.072]
+Cinnamon
+
+[06313.073]
+Ah oui, c’est vrai... {NAME:01 00 00 00} et {NAME:03 00 00 00} ne seront plus là. C’est à moi de protéger la maison...
+
+[06313.074]
+Cinnamon
+
+[06313.075]
+L’orphelinat, laisse-le-moi. Je le protégerai bien, promis.
+
+[06313.076]
+Cinnamon
+
+[06313.077]
+Dis, {NAME:01 00 00 00}, joue au loup avec nous. Si tu gagnes, je te donne mon trésor.
+
+[06313.078]
+Cinnamon
+
+[06313.079]
+Dis, grand frère {NAME:03 00 00 00}, joue au loup avec nous. Si tu gagnes, je te donne mon trésor.
+
+[06313.080]
+Cinnamon
+
+[06313.081]
+Dis, le grand louche, là, joue au loup avec nous. Si tu gagnes, je te donne mon trésor.
+
+[06313.082]
+Cinnamon
+
+[06313.083]
+Dis, la grande, là, joue au loup avec nous. Si tu gagnes, je te donne mon trésor.
+
+[06313.084]
+Cinnamon
+
+[06313.085]
+T’as l’air de courir vite, toi, la grande. Joue au loup avec nous. Si tu gagnes, je te donne mon trésor.
+
+[06313.086]
+Cinnamon
+
+[06313.087]
+Hé, la grande louche, là, joue au loup avec nous. Si tu gagnes, je te donne mon trésor.
+
+[06313.088]
+Cinnamon
+
+[06313.089]
+Dis, on joue au loup.
+
+[06313.091]
+{03:00 00 00 00}　Jouer　
+　Ne pas jouer　
+
+[06313.092]
+Cinnamon
+
+[06313.093]
+Alors c’est parti !
+
+[06313.094]
+Cinnamon
+
+[06313.095]
+Bah, tant pis.
+
+[06313.096]
+Cinnamon
+
+[06313.097]
+Oh, {NAME:01 00 00 00} la marmotte ! T’es matinal, aujourd’hui !
+
+[06313.098]
+Basil
+
+[06313.099]
+Ah, attention, ce plancher-là est dangereux. Il pourrit par en dessous, il peut céder d’un moment à l’autre.
+
+[06313.101]
+Il paraît que papa et maman ont rebâti cet orphelinat, mais ça remonte à dix-huit ans, quand même.
+
+[06313.103]
+On n’a qu’à le rebâtir nous-mêmes. Avec une Lentille à trois millions de Gald, tout sera flambant neuf.
+
+[06313.104]
+Basil
+
+[06313.105]
+Cette maison se déglingue de partout, c’est dangereux, vraiment...
+
+[06313.106]
+Basil
+
+[06313.107]
+Aïe aïe, {NAME:01 00 00 00}, ne me tire pas comme ça. J’ai mes corvées du matin à...
+
+[06313.109]
+Laisse ça, d’abord il faut récupérer la Lentille. Allez, on y va, {NAME:03 00 00 00}...
+
+[06313.111]
+Hé... Je suis par ici, moi...
+
+[06313.112]
+Basil
+
+[06313.113]
+Aah, ne me tire pas, {NAME:01 00 00 00}...
+
+[06313.114]
+Basil
+
+[06313.115]
+Wah, {NAME:01 00 00 00} est levé ? Alors c’est que j’ai trop dormi, moi !?
+
+[06313.116]
+Basil
+
+[06313.117]
+Je suis peut-être en train de rêver...
+
+[06313.118]
+Basil
+
+[06313.119]
+Ah, c’est {NAME:01 00 00 00}. Bon retour ! L’aventure, c’est bien, mais il ne faut pas forcer.
+
+[06313.121]
+... Ne parle pas comme maman...
+
+[06313.122]
+Basil
+
+[06313.123]
+Mais c’est que toi, {NAME:01 00 00 00}, tu fonces tête baissée, au petit bonheur. J’en ai le cœur qui bat la chamade !
+
+[06313.124]
+Basil
+
+[06313.125]
+{NAME:01 00 00 00}, tu fonces tête baissée, au petit bonheur. J’en ai le cœur qui bat la chamade !
+
+[06313.126]
+Salt
+
+[06313.127]
+{NAME:01 00 00 00}, tu es couvert d’égratignures. Si tu restais lire dans ta chambre, pour une fois ?
+
+[06313.129]
+Lire, c’est bien, mais jouer au soleil, c’est chouette aussi.
+
+[06313.130]
+Salt
+
+[06313.131]
+Non... moi, ça va. J’aime bien lire tout seul...
+
+[06313.132]
+Salt
+
+[06313.133]
+Moi, ça va. J’aime bien lire tout seul...
+
+[06313.134]
+Salt
+
+[06313.135]
+{NAME:01 00 00 00}, va vite te brosser les dents.
+
+[06313.137]
+Mmh... alors il faut que j’aille acheter un nécessaire à dents... Zzz...
+
+[06313.138]
+Salt
+
+[06313.139]
+{NAME:01 00 00 00}, avant les dents, tu devrais peut-être te laver la figure...
+
+[06313.140]
+Salt
+
+[06313.141]
+Ah, {NAME:01 00 00 00}... Ouf. J’ai fait un cauchemar...
+
+[06313.143]
+Pourquoi ? Tout le monde est là, non ? Il n’y a rien qui fasse peur, hein ?
+
+[06313.144]
+Salt
+
+[06313.145]
+Oui... je sais... Je sais, mais...
+
+[06313.146]
+Salt
+
+[06313.147]
+Il n’y a que toi qui sois gentil avec moi, {NAME:01 00 00 00}. Les autres, de toute façon...
+
+[06313.149]
+Qu’est-ce que tu racontes ? Si tu vas vers eux, ils t’accueilleront tous.
+
+[06313.151]
+Moi non plus, je ne serai pas toujours là, tu sais. Il faut que tu te débrouilles par toi-même.
+
+[06313.152]
+Salt
+
+[06313.153]
+C’est vrai... Tu as raison, {NAME:01 00 00 00}. Je vais essayer...
+
+[06313.155]
+Voilà. On fait de notre mieux, d’accord ?
+
+[06313.156]
+Salt
+
+[06313.157]
+{NAME:01 00 00 00}, tu te lèves tôt pour aller quelque part ? Ne va pas dans des endroits dangereux.
+
+[06313.159]
+T’inquiète pas. Ça ira pour moi.
+
+[06313.160]
+Salt
+
+[06313.161]
+{NAME:01 00 00 00}, ne va pas dans des endroits trop dangereux.
+
+[06313.163]
+C’est grand frère {NAME:03 00 00 00} qui veille sur lui, alors sois tranquille !
+
+[06313.164]
+Salt
+
+[06313.165]
+{NAME:01 00 00 00}, on dirait un héros de livre. Tu es classe...
+
+[06313.166]
+Salt
+
+[06313.167]
+Tu sais ! Ces temps-ci, je travaille au potager avec Uni.
+
+[06313.169]
+Ah oui ! Le travail comme le jeu, c’est plus amusant avec les autres, pas vrai ?
+
+[06313.170]
+Salt
+
+[06313.171]
+Oui !
+
+[06313.172]
+Salt
+
+[06313.173]
+Ce sera bientôt la récolte des concombres et des tomates. J’ai hâte !
+
+[06313.174]
+Rutee
+
+[06313.175]
+Tiens, toi, levé tout seul comme un grand ? C’est rare.
+
+[06313.177]
+Oui... Je vais juste rafler une grosse Lentille...
+
+[06313.179]
+Wawa, c’est rien ! Rien du tout, Rutee !
+
+[06313.180]
+Rutee
+
+[06313.181]
+Bon, passons. Ne rentrez pas trop tard.
+
+[06313.182]
+Rutee
+
+[06313.183]
+{NAME:01 00 00 00}, écoute-moi. Si tu pars à l’aventure, fais quelque chose d’aussi grand que ton père.
+
+[06313.184]
+Rutee
+
+[06313.185]
+... Mais ne cours pas après l’ombre de ton père. Toi, c’est toi.
+
+[06313.186]
+Rutee
+
+[06313.187]
+Allez, {NAME:03 00 00 00} t’attend, non ? File.
+
+[06313.188]
+Rutee
+
+[06313.189]
+{NAME:03 00 00 00}, je te confie {NAME:01 00 00 00}. Là où ce garçon est tête en l’air, rattrape-le comme il faut.
+
+[06313.190]
+Rutee
+
+[06313.191]
+... Et toi aussi, bien sûr, tu rentres sain et sauf ! Fais pleurer ta « mère », et tu auras affaire à moi !
+
+[06313.193]
+... Oui ! Moi aussi, je rentrerai sain et sauf, c’est juré !
+
+[06313.194]
+Rutee
+
+[06313.195]
+Bon, alors allez-y, les enfants !
+
+[06313.196]
+Rutee
+
+[06313.197]
+Qu’est-ce qu’il y a, {NAME:01 00 00 00} ? Quand on se lance, je ne tolère pas les demi-mesures.
+
+[06313.198]
+Rutee
+
+[06313.199]
+Enfin, tu peux bien revenir de temps en temps...
+
+[06313.200]
+Rutee
+
+[06313.201]
+L’argent de Papa-Longues-Jambes, on n’en a pas besoin pour un bon moment. Alors ne t’inquiète pas, et fais ça bien.
+
+[06313.202]
+Rutee
+
+[06313.203]
+Je t’attendrai avec une soupe bien chaude, alors donne tout ce que tu as.
+
+[06313.204]
+Rutee
+
+[06313.205]
+Tiens, qu’y a-t-il, {NAME:01 00 00 00} ? Déjà fini de jouer à l’aventurier ?
+
+[06313.207]
+Je ne joue pas à l’aventurier. Et ce n’est pas encore fini.
+
+[06313.208]
+Rutee
+
+[06313.209]
+Hi hi. Alors cherche-la bien, ta « chose irremplaçable »♪
+
+[06313.210]
+Rutee
+
+[06313.211]
+Ce que tu rapporteras de ce voyage... j’ai hâte de le voir.
+
+[06313.212]
+Stahn
+
+[06313.213]
+Pendant mon voyage d’il y a dix-huit ans, j’ai trouvé quelque chose d’irremplaçable, et je l’ai fait mien.
+
+[06313.214]
+Stahn
+
+[06313.215]
+Ce n’était ni le titre de héros, ni la puissance.
+
+[06313.216]
+Stahn
+
+[06313.217]
+C’était l’amitié de mes compagnons, et quelqu’un à aimer toute ma vie.
+
+[06313.218]
+Stahn
+
+[06313.219]
+J’espère que toi aussi, tu trouveras quelque chose comme ce que j’ai trouvé.
+
+[06313.220]
+Stahn
+
+[06313.221]
+Vas-y, {NAME:01 00 00 00} ! Toi, tu trouveras quelque chose, j’en suis sûr.
+
+[06313.223]
+Tant pis... Finalement, on dira que t’emmener aux ruines, c’était jamais arrivé...
+
+[06313.225]
+Ne pars pas encore.
+
+[06313.226]
+Rutee
+
+[06313.227]
+Ahaha, c’est bien toi ! Mais avec ça, tu dois agacer tes supérieurs, non ?
+
+[06313.229]
+Ah ça, et pas qu’un peu. Bah, j’ai l’habitude.
+
+[06313.231]
+N’empêche, il y a quelque chose qui cloche. Les prières, les soins aux malades : ceux qui ont des Lentilles passent d’abord.
+
+[06313.233]
+L’Ordre d’Atamoni, il était pas censé aider tout le monde ?
+
+[06313.234]
+Rutee
+
+[06313.235]
+C’est que...
+
+[06313.237]
+Tout ça, c’est depuis l’arrivée de cette femme, Elraine. Depuis, l’Ordre a changé...
+
+[06313.238]
+Rutee
+
+[06313.239]
+{NAME:03 00 00 00}...
+
+[06313.241]
+Dis, {NAME:03 00 00 00}, laisse ça. Je peux lui parler de tu-sais-quoi ?
+
+[06313.242]
+Rutee
+
+[06313.243]
+De tu-sais-quoi ?
+
+[06313.245]
+{NAME:03 00 00 00} va aux ruines de Laguna ! Et moi, je l’accompagne !
+
+[06313.246]
+Rutee
+
+[06313.247]
+Hein ?
+
+[06313.249]
+Enfin, j’ai bien essayé de l’en empêcher, mais tu le connais, c’est pas le genre à écouter...
+
+[06313.251]
+Dis, je peux, hein ?
+
+[06313.252]
+Rutee
+
+[06313.253]
+Non, non ! N’embête pas {NAME:03 00 00 00}. Si tu y vas, tu ne feras que le gêner.
+
+[06313.255]
+C’est pas vrai !
+
+[06313.257]
+Toi, maman, à mon âge, tu étais déjà une vraie chasseuse de Lentilles...
+
+[06313.259]
+Et puis j’ai aussi le sang de papa dans les veines ! Je ne gênerai personne !
+
+[06313.260]
+Rutee
+
+[06313.261]
+... C’est bien ce qui m’inquiète le plus. Que tu aies le sang de ce Stahn dans les veines...
+
+[06313.263]
+Rutee...
+
+[06313.264]
+Rutee
+
+[06313.265]
+Bref, le sujet est clos ! L’aventure, c’est encore bien trop tôt pour toi !
+
+[06313.267]
+... Tu l’as entendue. Tant pis, on dira que cette histoire n’a jamais existé...
+
+[06313.269]
+Non, j’irai aux ruines de Laguna, coûte que coûte !
+
+[06313.271]
+J’ai décidé de protéger cette maison jusqu’au retour de papa. Alors je rapporterai cette Lentille, coûte que coûte !
+
+[06313.273]
+............
+
+[06313.275]
+Fwaa~... ... Bonjour, {NAME:03 00 00 00}...
+
+[06313.277]
+Salut, {NAME:01 00 00 00}. T’es rudement matinal. Alors, guéri de ta manie de marmotte...
+
+[06313.279]
+........
+
+[06313.281]
+... Pas guéri, on dirait.
+
+[06313.283]
+Bon, tant mieux. J’en profite pour filer aux ruines de Laguna...
+
+[06313.285]
+Les ruines de Laguna... C’est vrai ! {NAME:03 00 00 00}, tu vas où !? On part déjà ?
+
+[06313.287]
+... Décidément, trop parler nuit.
+
+[06313.289]
+C’est bon, {NAME:01 00 00 00}, j’ai compris. Je t’emmène.
+
+[06313.291]
+Mais ! Si je juge que c’est trop pour toi, on fait demi-tour aussitôt. Ça marche ?
+
+[06313.293]
+OK, OK ! J’ai compris !
+
+[06313.295]
+Eh bien... Écoute, on part tout de suite, alors prépare tes affaires.
+
+[06313.297]
+Ce qui manque, on l’achètera en boutique. Compris, {NAME:01 00 00 00} ?
+
+[06313.299]
+Bonjour, maman.
+
+[06313.300]
+Rutee
+
+[06313.301]
+Bonjour, toi... Attends, toi, levé tout seul ? Quelle mouche t’a piqué !?
+
+[06313.302]
+Rutee
+
+[06313.303]
+Qu’est-ce que tu as ? Ne reste pas planté là, viens vite à table.
+
+[06313.305]
+Qu’est-ce qui se passe ? Maman est drôlement de bonne humeur.
+
+[06313.307]
+Dis, maman, j’ai quelque chose à te dire. Je...
+
+[06313.308]
+Rutee
+
+[06313.309]
+C’est bon, hein ? C’est la femme de Gazelle qui m’a appris. Le secret, c’est l’oignon, paraît-il.
+
+[06313.311]
+Maman...
+
+[06313.312]
+Rutee
+
+[06313.313]
+Ah, il va falloir réveiller {NAME:03 00 00 00}. Tu vas le chercher ?
+
+[06313.315]
+Maman !!
+
+[06313.316]
+Rutee
+
+[06313.317]
+Tu pars en voyage, c’est ça ? Avec {NAME:03 00 00 00}...
+
+[06313.319]
+Hein... !? C-comment tu le sais ?
+
+[06313.320]
+Rutee
+
+[06313.321]
+Tu me prends pour qui ? Ça ne fait pas quinze ans que je suis ta mère pour rien.
+
+[06313.322]
+Rutee
+
+[06313.323]
+Ça, vois-tu, c’est ce dont ton père se servait autrefois.
+
+[06313.325]
+Papa... ?
+
+[06313.326]
+Rutee
+
+[06313.327]
+Et puis... tiens.
+
+[06313.328]
+Rutee
+
+[06313.329]
+L’argent que Papa-Longues-Jambes a envoyé à l’orphelinat... avec la même écriture biscornue que la tienne.
+
+[06313.331]
+Tu le savais, maman !? Mais nous, on n’a jamais envoyé autant...
+
+[06313.332]
+Rutee
+
+[06313.333]
+Prends-le et tais-toi ! Un enfant, ça se comporte en enfant : ça vit aux crochets de ses parents !
+
+[06313.334]
+Rutee
+
+[06313.335]
+... C’est ce qui rend le plus heureux, vois-tu, quand on est parent...
+
+[06313.336]
+Rutee
+
+[06313.337]
+Dis, {NAME:01 00 00 00}. Tu te souviens de ton père ?
+
+[06313.339]
+Papa est parti en voyage il y a plus de dix ans, non ? ... Franchement, je ne me souviens pas de grand-chose.
+
+[06313.340]
+Rutee
+
+[06313.341]
+Ah oui... C’est ce que je t’avais dit, c’est vrai.
+
+[06313.342]
+Rutee
+
+[06313.343]
+Pardon, {NAME:01 00 00 00}...
+
+[06313.344]
+Rutee
+
+[06313.345]
+Dans un moment pareil, je ne sais pas quel visage te montrer pour te laisser partir, mais...
+
+[06313.346]
+Rutee
+
+[06313.347]
+Va, et déchaîne-toi ! Assez pour ne pas être en reste avec lui... avec Stahn !
+
+[06313.349]
+Maman... !
+
+[06313.351]
+... Maman. J’y vais !
+
+[06313.352]
+Rutee
+
+[06313.353]
+... Bonne route, {NAME:01 00 00 00}.
+
+[06313.355]
+Obtenu : {0B:01 00 00 00}{06:E8 03 00 00}{0B:00 00 00 00} Gald.
+
+[06313.356]
+Cinnamon
+
+[06313.357]
+T’as encore du chemin à faire.
+
+[06313.358]
+Cinnamon
+
+[06313.359]
+Promis, c’est promis : je te donne mon trésor.
+
+[06313.361]
+{NAME:01 00 00 00} obtient le titre « {08:88 08 00 00} ».
+
+[06313.362]
+Rutee
+
+[06313.363]
+Oh, {NAME:01 00 00 00} ! Bon retour ! Qu’est-ce qui t’amène, tout d’un coup ?
+
+[06313.365]
+Maman, je...
+
+[06313.366]
+Rutee
+
+[06313.367]
+Ha ha~. Toi, pour une fois, quelque chose te tracasse, pas vrai ?
+
+[06313.369]
+Hein !? C-comment tu... ?
+
+[06313.370]
+Rutee
+
+[06313.371]
+Tu ne t’en rends sans doute pas compte, mais tu n’arrêtes pas de te gratter le bout du nez. Ton père avait la même manie.
+
+[06313.373]
+Papa...
+
+[06313.375]
+Pardon, tout le monde. Vous pouvez nous laisser un instant ?
+
+[06313.377]
+Oui, je sais.
+
+[06313.378]
+Rutee
+
+[06313.379]
+Je vois. Tu t’en es souvenu, alors. Que ton père a été tué.
+
+[06313.380]
+Rutee
+
+[06313.381]
+Seul ce jour-là manquait à ta mémoire, alors j’en ai parlé avec {NAME:03 00 00 00}, et on a pensé qu’il valait mieux ne rien te dire...
+
+[06313.382]
+Rutee
+
+[06313.383]
+On croyait bien faire, mais on t’a peut-être blessé davantage. Pardon, {NAME:01 00 00 00}.
+
+[06313.385]
+Ce n’est rien. Ça n’a plus d’importance...
+
+[06313.386]
+Rutee
+
+[06313.387]
+Mais jamais je n’aurais cru que tu deviendrais un héros au point de décider du sort du monde.
+
+[06313.388]
+Rutee
+
+[06313.389]
+Bon sang ne saurait mentir, on dirait. Hi hi...
+
+[06313.391]
+Maman, j’ai réfléchi à plein de choses, à ma façon.
+
+[06313.393]
+Mais j’ai beau faire, je ne trouve pas la réponse...
+
+[06313.394]
+Rutee
+
+[06313.395]
+La réponse que tu cherches, je ne l’ai pas. Elle est...
+
+[06313.396]
+Rutee
+
+[06313.397]
+Ici.
+
+[06313.399]
+Dans mon...
+
+[06313.400]
+Rutee
+
+[06313.401]
+Cette réponse n’est nulle part ailleurs que dans ton cœur.
+
+[06313.403]
+........
+
+[06313.405]
+M-maman... !?
+
+[06313.406]
+Rutee
+
+[06313.407]
+{NAME:01 00 00 00}... C’est dur, hein... Ça fait mal, hein...
+
+[06313.408]
+Rutee
+
+[06313.409]
+Devoir tuer de ses propres mains celle qu’on aime... !
+
+[06313.411]
+... Maman !
+
+[06313.412]
+Rutee
+
+[06313.413]
+... Mais vois-tu, {NAME:01 00 00 00}, c’est quand même à toi de décider.
+
+[06313.414]
+Rutee
+
+[06313.415]
+Et pas parce que tu es un héros.
+
+[06313.416]
+Rutee
+
+[06313.417]
+Parce que tu es un garçon. Et parce que tu es tombé amoureux d’elle...
+
+[06313.419]
+Maman, je... !
+
+[06313.420]
+Rutee
+
+[06313.421]
+C’est aussi dur pour elle. C’est pour ça que c’est à toi de décider. Franchement, en homme !
+
+[06313.422]
+Rutee
+
+[06313.423]
+Quoi qu’il en sorte, elle croira en toi, j’en suis sûre.
+
+[06313.425]
+Oui, oui... !
+
+[06313.426]
+Rutee
+
+[06313.427]
+Ça ne court pas les rues, tu sais, quelqu’un qui croit en toi à ce point.
+
+[06313.428]
+Rutee
+
+[06313.429]
+Alors... prends bien soin d’elle.
+
+[06313.430]
+Rutee
+
+[06313.431]
+Courage, {NAME:01 00 00 00}. Toi, tu y arriveras. Tu es mon fils et celui de ton père, non ?
+
+[06313.433]
+O-oui... !
+
+[06313.434]
+Rutee
+
+[06313.435]
+Allez, va maintenant. Tout le monde t’attend.
+
+[06313.437]
+Merci, maman... J’y vais.
+
+[06313.438]
+Rutee
+
+[06313.440]
+Rutee
+
+[06313.441]
+Quand tout sera fini, revenez tous ensemble. Je vous attendrai ici...
+
+[06313.442]
+Rutee
+
+[06313.443]
+Nous aussi, nous croyons en toi. Pas vrai, Stahn...
+
+[06313.445]
+... Tu lui as parlé, alors.
+
+[06313.447]
+... Oui.
+
+[06313.449]
+... Bon, on y va ?
+
+[06313.451]
+... Oui !
+
+[06313.452]
+Bon voyage.
+
+[06313.453]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06313.454]
+Voulez-vous passer la nuit ?
+
+[06313.456]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06313.457]
+Reposez-vous bien.
+
+[06313.458]
+Bonjour.
+
+[06313.459]
+Vous n’avez pas assez d’argent.
+
+[06313.460]
+Au plaisir de vous revoir.
+
+[06313.465]
+Obtenu : {16:26 12}.
+
+[06313.467]
+Obtenu : {08:FF FF FF FF}.
+
+[06313.469]
+Trouvé : {16:26 1A}, mais vous n’avez plus de place.
+
+[06313.471]
+Il n’y a rien ici.
+

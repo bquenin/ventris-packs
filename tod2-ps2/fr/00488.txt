@@ -1,0 +1,12 @@
+[00488.001]
+Cette Lunette du sorcier, c’est quoi, au juste ?
+
+[00488.002]
+Un legs de la compagnie Oberon : un outil qui détecte ce qu’on ne voit pas, ce qu’on ne perçoit pas. Avec elle, tu trouveras ce qui t’échappait d’ordinaire.
+
+[00488.003]
+Oh... ! Alors avec ça, on trouvera peut-être ce qu’on a raté dans les endroits déjà visités !
+
+[00488.004]
+Si on sort d’ici vivants.
+

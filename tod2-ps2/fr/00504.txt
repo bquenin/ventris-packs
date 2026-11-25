@@ -1,0 +1,15 @@
+[00504.001]
+Si c’est un autre monde, ici, comment on retourne dans le nôtre ?
+
+[00504.002]
+Mmh... On dit que quand on est perdu, il vaut mieux « revenir sur ses pas », alors on retourne à la plage, et...
+
+[00504.003]
+Et ensuite, que comptes-tu faire ? C’est le pouvoir de {NAME:02 00 00 00} de se déplacer dans l’espace qui nous a menés là-bas.
+
+[00504.004]
+Ça, je le sais bien. {NAME:02 00 00 00} a pensé très fort « tous en lieu sûr ! », alors cette fois, à l’inverse, elle pense « tous en lieu dangereux ! », et...
+
+[00504.005]
+Voilà pourquoi tu te perds...
+

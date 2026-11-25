@@ -1,0 +1,97 @@
+[06367.001]
+Aigrette : équipement
+
+[06367.002]
+Aigrette
+
+[06367.004]
+Obtenu : {08:78 00 00 00}.
+
+[06367.006]
+Des armes et des armures cassées. De l’occasion reprise aux clients, peut-être...
+
+[06367.007]
+Épéiste
+
+[06367.008]
+Elraine la Sainte... On dit qu’elle fait des miracles devant le peuple, mais qui est-elle au juste ?
+
+[06367.009]
+Épéiste
+
+[06367.010]
+Si ce n’est qu’un charlatan qui égare les esprits, je l’arrêterai de mes propres mains.
+
+[06367.011]
+Épéiste
+
+[06367.012]
+On ne me dupe pas si facilement. Croire sans broncher à une chose aussi douteuse que des miracles ? Allons donc.
+
+[06367.013]
+Épéiste
+
+[06367.014]
+Ses miracles sont bel et bien authentiques ! Si quelqu’un dit du mal de dame Elraine, je l’arrêterai de mes propres mains.
+
+[06367.015]
+Épéiste
+
+[06367.016]
+Pour dame Elraine et la déesse Atamoni, je donnerais ma vie sans regret.
+
+[06367.017]
+Épéiste
+
+[06367.018]
+Je veux devenir chevalier et garder les portes du temple. Son amour m’a touché au cœur.
+
+[06367.019]
+Épéiste
+
+[06367.020]
+Elle ? Je parle de dame Philia, bien sûr.
+
+[06367.021]
+Épéiste
+
+[06367.022]
+Aah... dame Philia... dame Philia... dame Philia...
+
+[06367.023]
+Bon voyage.
+
+[06367.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06367.025]
+Voulez-vous passer la nuit ?
+
+[06367.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06367.028]
+Reposez-vous bien.
+
+[06367.029]
+Bonjour.
+
+[06367.030]
+Vous n’avez pas assez d’argent.
+
+[06367.031]
+Au plaisir de vous revoir.
+
+[06367.036]
+Obtenu : {16:25 BA}.
+
+[06367.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06367.040]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06367.042]
+Il n’y a rien ici.
+

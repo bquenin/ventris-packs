@@ -1,0 +1,9 @@
+[00816.001]
+Hmm~~ ? Vous avez l’air drôlement contents, les hommes. Il s’est passé quelque chose ?
+
+[00816.002]
+Bien sûr. {NAME:01 00 00 00} a pu voir le père qu’il a perdu enfant, et {NAME:03 00 00 00} a pu protéger celui qu’il n’avait pas su protéger, petit. {NAME:04 00 00 00} aussi a dû être très heureux de sauver les compagnons qu’il avait trahis autrefois...
+
+[00816.003]
+Oui... Tous... l’air délivrés... De beaux visages.
+

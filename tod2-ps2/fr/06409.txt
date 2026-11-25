@@ -1,0 +1,397 @@
+[06409.001]
+Refuge de montagne
+
+[06409.002]
+Refuge de montagne
+
+[06409.003]
+Refuge de montagne
+
+[06409.004]
+Refuge de montagne
+
+[06409.006]
+Obtenu : {08:21 00 00 00}.
+
+[06409.008]
+Des vivres de secours et des articles divers de la marque Kongman. Ils sont offerts aux voyageurs, semble-t-il.
+
+[06409.010]
+Obtenu : {08:07 00 00 00}.
+
+[06409.012]
+Des vivres de secours et des articles divers de la marque Kongman. Ils sont offerts aux voyageurs, semble-t-il.
+
+[06409.014]
+Une carte du continent de Fitzgald. ... Mais elle date d’il y a dix-huit ans, semble-t-il : elle ne doit plus servir à rien.
+
+[06409.016]
+C’est la première fois que j’entre dans un refuge de montagne ! Tiens~, c’est donc comme ça...
+
+[06409.018]
+Tu en as, de l’énergie, toi. Fwaah... Un sentier de montagne dans la brume, rien que d’y marcher, ça épuise.
+
+[06409.020]
+Si vous avez sommeil, dormez un peu. Je monte la garde.
+
+[06409.022]
+Tu es sûr ? Toi aussi, {NAME:04 00 00 00}, tu dois être fatigué...
+
+[06409.024]
+Je vous réveillerai quand je voudrai être relevé. D’ici là, reposez-vous.
+
+[06409.026]
+... Vraiment, comme il dort. Tout à fait comme lui.
+
+[06409.028]
+... Chal ? Pas maintenant, ils sont juste là...
+
+[06409.030]
+... Un instant seulement. Mais tu le penses aussi ? Qu’il est tout à fait comme lui.
+
+[06409.032]
+... Stahn, puis {NAME:01 00 00 00}... Le destin a de ces ironies.
+
+[06409.034]
+... Au cours de ce voyage, je vais... lui... {NAME:01 00 00 00}...
+
+[06409.036]
+Qu’est-ce qu’il y a, {NAME:04 00 00 00} ?
+
+[06409.038]
+... Rien. Rendors-toi.
+
+[06409.040]
+Il n’y a personne... hein ? Il m’a semblé entendre parler de faire je ne sais quoi à {NAME:01 00 00 00}...
+
+[06409.042]
+Rien, te dis-je !
+
+[06409.044]
+........
+
+[06409.046]
+... {NAME:04 00 00 00}. Je vais te dire une chose, une seule.
+
+[06409.048]
+Dans quel but tu restes avec nous, j’ai pas l’intention de te le demander.
+
+[06409.050]
+Mais... essaie seulement de faire quoi que ce soit qui nuise à {NAME:01 00 00 00}. Ce jour-là... !
+
+[06409.052]
+... Quel zèle. Et combien de temps comptes-tu encore jouer les tuteurs ?
+
+[06409.054]
+... Quoi !?
+
+[06409.056]
+Je te demande combien de temps tu comptes encore jouer les tuteurs.
+
+[06409.058]
+Toi, cela te satisfait peut-être, mais tant que tu dorloteras {NAME:01 00 00 00} ainsi, il ne grandira pas.
+
+[06409.060]
+Espèce de... tu te prends pour qui ! Moi, bien plus que toi, je tiens à {NAME:01 00 00 00}... !
+
+[06409.062]
+... {NAME:03 00 00 00} ?
+
+[06409.064]
+Il s’est passé quelque chose ?
+
+[06409.066]
+A-ah, {NAME:02 00 00 00}. On t’a réveillée ? Désolé, c’est rien.
+
+[06409.068]
+... Menteur. Tu as le visage tout crispé, {NAME:03 00 00 00}.
+
+[06409.070]
+M-mais non...
+
+[06409.072]
+C’est à propos de {NAME:01 00 00 00}, hein ? Il n’y a que {NAME:01 00 00 00} pour te mettre dans une colère pareille.
+
+[06409.074]
+Dis, qu’est-ce qui s’est passé ?
+
+[06409.076]
+... Vraiment, c’est rien.
+
+[06409.078]
+Ça ne peut pas être rien ! Tu étais à deux doigts de le frapper, {NAME:03 00 00 00}...
+
+[06409.080]
+C’est rien, je te dis !
+
+[06409.082]
+Ah... d-désolé. Je voulais pas crier. C’est que...
+
+[06409.084]
+{NAME:02 00 00 00}~
+
+[06409.086]
+... Mnyam...... ... toujours, ensemble...
+
+[06409.088]
+Quoi, il parle en dormant... Il nous fait de ces frayeurs, celui-là. Bon sang !
+
+[06409.090]
+... Ensemble...... {NAME:03 00 00 00} aussi... {NAME:04 00 00 00}... aussi... ... ensemble... hé hé...
+
+[06409.092]
+{NAME:01 00 00 00}...
+
+[06409.094]
+Hé, {NAME:04 00 00 00}.
+
+[06409.096]
+Quoi ? Tu as encore quelque chose à dire ?
+
+[06409.098]
+... Va dormir. Je prends la garde à ta place.
+
+[06409.100]
+... Toi...
+
+[06409.102]
+À l’entendre parler en dormant, j’en ai plus rien à faire. Sacré {NAME:01 00 00 00}, va !
+
+[06409.104]
+... Hmf. Alors je vais me reposer.
+
+[06409.106]
+{NAME:02 00 00 00}, dors encore un peu, toi aussi. Je monte la garde.
+
+[06409.108]
+E-euh, {NAME:03 00 00 00} ! ... Pardon.
+
+[06409.110]
+C’est rien. De toute façon, je n’arriverais plus à dormir.
+
+[06409.112]
+Non, ce n’est pas ça. C’est pour tout à l’heure : je t’ai pressé de questions, bêtement...
+
+[06409.114]
+... C’est moi qui ai tort. T’en fais pas.
+
+[06409.116]
+Allez, dors un peu, autant que tu peux. On a encore de la marche devant nous, à s’en dégoûter.
+
+[06409.118]
+... D’accord. Bonne nuit.
+
+[06409.120]
+On a dormi, on est reposés : filons d’une traite jusqu’à Neustadt !
+
+[06409.122]
+...
+
+[06409.124]
+T-tiens ? Qu’est-ce que vous avez, tous ?
+
+[06409.126]
+... Rien. Je me disais que tu as de la chance d’être aussi insouciant.
+
+[06409.128]
+Hi hi ! Mais c’est ce qu’il a de bien, {NAME:01 00 00 00}, non ?
+
+[06409.130]
+Ouais, enfin.
+
+[06409.132]
+Laissons l’idiot et partons. Neustadt est encore assez loin.
+
+[06409.134]
+M-mais qu’est-ce que vous avez~ !
+
+[06409.136]
+Se reposer ?
+
+[06409.138]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06409.139]
+Chef
+
+[06409.140]
+{16:34 88} : tu en prépares ?
+
+[06409.141]
+Chef
+
+[06409.142]
+Veux-tu apprendre la recette : {16:34 88} ?
+
+[06409.144]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06409.145]
+Chef
+
+[06409.146]
+Je vais t’apprendre la recette : {16:34 88}.
+
+[06409.147]
+Chef
+
+[06409.148]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06409.149]
+Chef
+
+[06409.150]
+J’ai la recette : {16:34 88}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 80}{0B:00 00 00 00} Gald ?
+
+[06409.152]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06409.153]
+Chef
+
+[06409.154]
+Tu n’as pas assez d’argent.
+
+[06409.155]
+Chef
+
+[06409.156]
+Je te vends la recette : {16:34 88}.
+
+[06409.157]
+Chef
+
+[06409.158]
+Bah, tant pis.
+
+[06409.159]
+{16:24 8C}, {16:24 8E}, {16:24 90}
+
+[06409.160]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}, {16:24 94}
+
+[06409.161]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}, {16:24 94}
+
+[06409.162]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}, {16:24 94}
+
+[06409.163]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}, {16:24 94}
+
+[06409.164]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}
+
+[06409.165]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}, {16:24 94}
+
+[06409.166]
+{16:24 8C}, {16:24 8E}, {16:24 90},
+{16:24 92}, {16:24 94}
+
+[06409.167]
+Chef
+
+[06409.168]
+Pour préparer {16:34 88}, il faut :
+{18:44 84}
+
+[06409.169]
+Chef
+
+[06409.170]
+Mais tu as les ingrédients.
+
+[06409.171]
+Chef
+
+[06409.172]
+Si tu me les cèdes, je prépare : {16:34 88}. Ça te va ?
+
+[06409.174]
+{03:00 00 00 00}　Oui
+　Non
+
+[06409.175]
+Chef
+
+[06409.176]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 88}.
+
+[06409.177]
+Chef
+
+[06409.178]
+Dommage. C’est vraiment délicieux...
+
+[06409.179]
+Chef
+
+[06409.180]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06409.181]
+Chef
+
+[06409.182]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06409.183]
+Chef
+
+[06409.184]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06409.186]
+Recette ramassée : {16:34 88}.
+
+[06409.188]
+Recette apprise : {16:34 9C}.
+
+[06409.189]
+Bon voyage.
+
+[06409.190]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06409.191]
+Voulez-vous passer la nuit ?
+
+[06409.193]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06409.194]
+Reposez-vous bien.
+
+[06409.195]
+Bonjour.
+
+[06409.196]
+Vous n’avez pas assez d’argent.
+
+[06409.197]
+Au plaisir de vous revoir.
+
+[06409.202]
+Obtenu : {16:25 EA}.
+
+[06409.204]
+Obtenu : {08:FF FF FF FF}.
+
+[06409.206]
+Trouvé : {16:25 F2}, mais vous n’avez plus de place.
+
+[06409.208]
+Il n’y a rien ici.
+

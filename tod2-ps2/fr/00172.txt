@@ -1,0 +1,15 @@
+[00172.001]
+Dis, Elraine, elle ressemblait quand même à cette fille. Elles se connaissent, peut-être ? ... T’en penses quoi, {NAME:03 00 00 00} ?
+
+[00172.002]
+Mmh... Elraine est belle, je le reconnais.
+
+[00172.003]
+Hein ?
+
+[00172.004]
+Mais ce n’est pas mon genre. « La déesse d’abord », je n’arrive pas à adhérer. Bon, bien sûr, si elle me disait « sors avec moi », je répondrais « OK ! » aussitôt. C’est une beauté, après tout.
+
+[00172.005]
+Plus jamais {NAME:03 00 00 00}...
+

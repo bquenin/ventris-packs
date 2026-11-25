@@ -1,0 +1,70 @@
+[06514.001]
+Calviola, la Terre sainte
+
+[06514.002]
+Calviola, la Terre sainte
+
+[06514.004]
+La porte est solidement close.
+
+[06514.006]
+Euh... « La déesse est lumière, la lumière est chaleur. Offrez à la déesse chaleur et lumière. »
+
+[06514.008]
+On dirait un code. La chaleur et la lumière...
+
+[06514.010]
+Et hop !
+
+[06514.011]
+Moine-soldat
+
+[06514.012]
+Vous, là ! Que faites-vous ici !?
+
+[06514.014]
+Ouah ! Mince ! Ils sont déjà revenus, ceux-là !
+
+[06514.015]
+Moine-soldat
+
+[06514.016]
+Insolents, qui osez souiller la présence de la déesse ! Préparez-vous !
+
+[06514.017]
+Bon voyage.
+
+[06514.018]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06514.019]
+Voulez-vous passer la nuit ?
+
+[06514.021]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06514.022]
+Reposez-vous bien.
+
+[06514.023]
+Bonjour.
+
+[06514.024]
+Vous n’avez pas assez d’argent.
+
+[06514.025]
+Au plaisir de vous revoir.
+
+[06514.030]
+Obtenu : {16:25 BA}.
+
+[06514.032]
+Obtenu : {08:FF FF FF FF}.
+
+[06514.034]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06514.036]
+Il n’y a rien ici.
+

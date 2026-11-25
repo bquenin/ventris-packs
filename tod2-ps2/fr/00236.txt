@@ -1,0 +1,21 @@
+[00236.001]
+Dis, {NAME:03 00 00 00}. Tu sais comment c’est, Neustadt ?
+
+[00236.002]
+Mmh, voyons, c’était comment...
+
+[00236.003]
+Une ville riche, à l’industrie florissante. Mais l’écart entre riches et pauvres était cruel, et les cœurs guère riches.
+
+[00236.004]
+Voilà, c’est ça ! C’est ce genre de ville.
+
+[00236.005]
+N’approuve pas au hasard. C’était autrefois. Après les troubles, des réformes ont été imposées : c’est aujourd’hui une ville prospère et agréable à vivre.
+
+[00236.006]
+Tieeens, {NAME:04 00 00 00}, tu en sais, des choses.
+
+[00236.007]
+J’y connaissais quelqu’un... c’est tout.
+

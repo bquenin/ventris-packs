@@ -1,0 +1,136 @@
+[06370.001]
+Aigrette : maison
+
+[06370.002]
+Aigrette
+
+[06370.003]
+Maison
+
+[06370.005]
+Obtenu : {08:68 00 00 00}.
+
+[06370.006]
+Mère
+
+[06370.007]
+Vous avez vu tous nos chats ? C’est le « Vieil ami des chats » qui nous les a donnés.
+
+[06370.008]
+Mère
+
+[06370.009]
+Personne ne connaît son vrai nom, mais c’est un vieil homme qui chérit les chats comme ses propres enfants.
+
+[06370.010]
+Mère
+
+[06370.011]
+Lors des troubles d’il y a dix-huit ans, la Coque externe qui couvrait le ciel a aspiré la force vitale de bien des gens... Et des animaux aussi, bien sûr...
+
+[06370.012]
+Mère
+
+[06370.013]
+Les chats du « Vieil ami des chats » dont je parlais ont tous péri, eux aussi... Il fallait voir le chagrin du vieil homme...
+
+[06370.014]
+Mère
+
+[06370.015]
+Mais une fois la paix revenue dans le monde, il s’est remis à s’occuper de chats.
+
+[06370.016]
+Mère
+
+[06370.017]
+Les chats que voici sont peut-être les descendants de ceux-là...
+
+[06370.018]
+Fillette
+
+[06370.019]
+Ma maman, elle a été malade très longtemps.
+
+[06370.020]
+Fillette
+
+[06370.021]
+Mais dame Elraine a guéri maman par un miracle !
+
+[06370.022]
+Fillette
+
+[06370.023]
+Moi aussi, quand je serai grande, je veux devenir comme la Sainte !
+
+[06370.024]
+Fillette
+
+[06370.025]
+Oh, grande sœur, ton pendentif est pareil que celui de dame Elraine ! Tu en as de la chance~ !
+
+[06370.026]
+Fillette
+
+[06370.027]
+Ton pendentif, grande sœur, j’en voudrais un aussi.
+
+[06370.028]
+Fillette
+
+[06370.029]
+Ma maman, elle a été malade très longtemps.
+
+[06370.030]
+Fillette
+
+[06370.031]
+Mais grâce à dame Philia, elle va très bien maintenant !
+
+[06370.032]
+Fillette
+
+[06370.033]
+Moi aussi, quand je serai grande, je veux devenir comme dame Philia !
+
+[06370.035]
+Miaou.
+
+[06370.036]
+Bon voyage.
+
+[06370.037]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06370.038]
+Voulez-vous passer la nuit ?
+
+[06370.040]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06370.041]
+Reposez-vous bien.
+
+[06370.042]
+Bonjour.
+
+[06370.043]
+Vous n’avez pas assez d’argent.
+
+[06370.044]
+Au plaisir de vous revoir.
+
+[06370.049]
+Obtenu : {16:25 BE}.
+
+[06370.051]
+Obtenu : {08:FF FF FF FF}.
+
+[06370.053]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06370.055]
+Il n’y a rien ici.
+

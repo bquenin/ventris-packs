@@ -1,0 +1,15 @@
+[00298.001]
+Ce voyage en mer était un peu ennuyeux. Avec de l’aventure palpitante, ç’aurait été mieux. Un autre monstre marin, par exemple.
+
+[00298.002]
+Cré~tin ! Si un monstre attaquait à chaque traversée, je ne reprendrais plus jamais le bateau.
+
+[00298.003]
+Au fait, une dame super belle achetait un billet pour le prochain départ.
+
+[00298.004]
+Quoi !? Une beauté voyageant seule... Soudain, un monstre attaque ! Tout semble perdu, quand surgit un homme fringant ! « Votre nom ? » « {NAME:03 00 00 00} Dunamis, pour vous servir. » « Oh, quel homme merveilleux, épousez-moi★ » « Mais bien sûr... » ... Hm... Booon, bon, on rentre en bateau aussi !
+
+[00298.005]
+... Laissons-le.
+

@@ -1,0 +1,21 @@
+[00914.001]
+Pas question de perdre ! On va leur montrer ce qu’on a dans le ventre !!
+
+[00914.002]
+Hé, {NAME:01 00 00 00}. Ne t’emballe pas au point de trébucher, comme d’habitude.
+
+[00914.003]
+Et toi, ne te laisse pas embobiner par les charmes d’Elraine.
+
+[00914.004]
+Allons bon... Pas une once de tension chez eux, jusqu’au bout...
+
+[00914.005]
+Tu piques, tu piques, mais au fond tu les aimes bien~♪
+
+[00914.006]
+Moi, je voulais seulement... !!
+
+[00914.007]
+Viens, {NAME:04 00 00 00}. Tous t’attendent.
+

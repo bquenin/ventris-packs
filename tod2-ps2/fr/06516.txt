@@ -1,0 +1,90 @@
+[06516.001]
+Dragon volant
+
+[06516.002]
+Dragon volant
+
+[06516.003]
+Dragon volant
+
+[06516.005]
+C’est bien joli d’avoir rattrapé le Dragon volant, mais on fait quoi, maintenant ?
+
+[06516.007]
+Même si nous reprenions les Lentilles, il y en a trop pour les emporter.
+
+[06516.009]
+Il ne reste qu’à couper la propulsion du Dragon volant, à le faire tomber et à l’envoyer par le fond.
+
+[06516.011]
+Sérieux...
+
+[06516.013]
+À la salle des machines. Par ici !
+
+[06516.014]
+Se soigner ? ({0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald)
+
+[06516.015]
+Se soigner ? (gratuit)
+
+[06516.018]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06516.020]
+Vous voilà soignés.
+
+[06516.022]
+Refaire le plein d’objets ?
+
+[06516.024]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06516.026]
+En remontant la chaîne jusqu’à l’Ixifosler, vous pouvez vous soigner et refaire le plein d’objets, contre paiement.
+
+[06516.027]
+Bon voyage.
+
+[06516.028]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06516.029]
+Voulez-vous passer la nuit ?
+
+[06516.031]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06516.032]
+Reposez-vous bien.
+
+[06516.033]
+Bonjour.
+
+[06516.034]
+Vous n’avez pas assez d’argent.
+
+[06516.035]
+Au plaisir de vous revoir.
+
+[06516.040]
+Obtenu : {16:25 BE}.
+
+[06516.042]
+Obtenu : {08:FF FF FF FF}.
+
+[06516.044]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06516.046]
+Il n’y a rien ici.
+
+[06516.047]
+Temps écoulé
+
+[06516.049]
+Dispositif de contrôle détruit.
+

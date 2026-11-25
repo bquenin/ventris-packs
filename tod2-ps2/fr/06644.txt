@@ -1,0 +1,62 @@
+[06644.001]
+Ruines de la base terrestre
+
+[06644.002]
+Ruines de la base terrestre
+
+[06644.004]
+Du charbon de bois est posé dans la cheminée.
+
+[06644.006]
+Seule cette cheminée est tout à fait intacte. Y mettre du charbon de bois ?
+
+[06644.008]
+{03:00 00 00 00}　En mettre　
+　Renoncer　
+
+[06644.010]
+Charbon de bois mis dans la cheminée.
+
+[06644.012]
+Seule cette cheminée est tout à fait intacte. On sent une force étrange en émaner.
+
+[06644.014]
+Le feu de la cheminée brûle, comme s’il ne devait jamais s’éteindre.
+
+[06644.015]
+Bon voyage.
+
+[06644.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06644.017]
+Voulez-vous passer la nuit ?
+
+[06644.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06644.020]
+Reposez-vous bien.
+
+[06644.021]
+Bonjour.
+
+[06644.022]
+Vous n’avez pas assez d’argent.
+
+[06644.023]
+Au plaisir de vous revoir.
+
+[06644.028]
+Obtenu : {16:27 06}.
+
+[06644.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06644.032]
+Trouvé : {16:27 0E}, mais vous n’avez plus de place.
+
+[06644.034]
+Il n’y a rien ici.
+

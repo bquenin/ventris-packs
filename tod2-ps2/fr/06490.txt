@@ -1,0 +1,17 @@
+[06490.001]
+Heat River
+
+[06490.002]
+Heat River
+
+[06490.003]
+Obtenu : {16:34 8C} x{0B:01 00 00 00}{14:34 88}{0B:00 00 00 00}.
+
+[06490.005]
+Trouvé : {16:34 8C} x{0B:01 00 00 00}{14:34 90}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06490.007]
+{16:34 8C} x{0B:01 00 00 00}{14:34 90} : vous ne pouvez pas tout porter.
+・En prendre {14:34 88}, en jeter {14:34 94}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+

@@ -1,0 +1,15 @@
+[00180.001]
+Pff... En la suivant, on va forcément finir au grand temple de Straylize.
+
+[00180.002]
+Qu’est-ce que tu racontes, {NAME:03 00 00 00} ? Évidemment.
+
+[00180.003]
+Je sais bien... Mais j’ai quitté l’Ordre, tu te souviens ? Pas facile d’y remettre les pieds.
+
+[00180.004]
+T’inquiète ! Ta tête, {NAME:03 00 00 00}, persoooonne ne s’en souvient !
+
+[00180.005]
+... Ça ne me console pas, ça...
+

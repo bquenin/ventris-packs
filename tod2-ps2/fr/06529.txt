@@ -1,0 +1,52 @@
+[06529.001]
+Dragon volant
+
+[06529.002]
+Dragon volant
+
+[06529.004]
+Le coffre était un leurre.
+
+[06529.005]
+Bon voyage.
+
+[06529.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06529.007]
+Voulez-vous passer la nuit ?
+
+[06529.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06529.010]
+Reposez-vous bien.
+
+[06529.011]
+Bonjour.
+
+[06529.012]
+Vous n’avez pas assez d’argent.
+
+[06529.013]
+Au plaisir de vous revoir.
+
+[06529.018]
+Obtenu : {16:25 BE}.
+
+[06529.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06529.022]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06529.024]
+Il n’y a rien ici.
+
+[06529.025]
+Temps écoulé
+
+[06529.027]
+Dispositif de contrôle détruit.
+

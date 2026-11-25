@@ -1,0 +1,15 @@
+[00166.001]
+Moi, « Aigrette », c’est la première fois. Dis-moi quel genre de ville c’est.
+
+[00166.002]
+Mmh, voyons... En un mot, le « centre du monde ». Les gens et les choses y affluent de partout. Tu vois ce que ça veut dire, {NAME:01 00 00 00} ?
+
+[00166.003]
+Hé hé... pas trop.
+
+[00166.004]
+Hé... Ça veut dire que s’il y a beaucoup de monde, il y a de fortes chances d’y trouver des beautés ! J’ai hâte ! Toi aussi, non ? Hein ? Hein ?
+
+[00166.005]
+... Encore ça. Quelle idée de demander.
+
