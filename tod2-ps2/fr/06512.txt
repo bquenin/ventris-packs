@@ -1,0 +1,79 @@
+[06512.001]
+Calviola, la Terre sainte
+
+[06512.002]
+Calviola, la Terre sainte
+
+[06512.003]
+Calviola, la Terre sainte
+
+[06512.004]
+Calviola, la Terre sainte
+
+[06512.005]
+Prêtre
+
+[06512.006]
+Ce bâtiment est en cours de construction.
+
+[06512.008]
+Voilà donc Calviola, la Terre sainte... Elle a une drôle de forme.
+
+[06512.010]
+Un édifice en dôme... Dix ans plus tard, forcément, l’endroit n’a plus rien à voir.
+
+[06512.012]
+... Dites, ce n’est pas bizarre ? Il faisait une de ces chaleurs il y a un instant, et là, il fait drôlement frais.
+
+[06512.014]
+Et puis, regardez. Ici, pas un grain de sable, que dis-je : pas un grain de poussière.
+
+[06512.016]
+On dirait que cet endroit seul est coupé du monde...
+
+[06512.018]
+... Chut ! Quelqu’un vient !
+
+[06512.020]
+L’office vient de s’achever, semble-t-il.
+
+[06512.022]
+C’est le moment ou jamais. Faufilons-nous vite avant qu’ils reviennent.
+
+[06512.023]
+Bon voyage.
+
+[06512.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06512.025]
+Voulez-vous passer la nuit ?
+
+[06512.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06512.028]
+Reposez-vous bien.
+
+[06512.029]
+Bonjour.
+
+[06512.030]
+Vous n’avez pas assez d’argent.
+
+[06512.031]
+Au plaisir de vous revoir.
+
+[06512.036]
+Obtenu : {16:25 EE}.
+
+[06512.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06512.040]
+Trouvé : {16:25 F6}, mais vous n’avez plus de place.
+
+[06512.042]
+Il n’y a rien ici.
+

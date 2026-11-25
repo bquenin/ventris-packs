@@ -1,0 +1,193 @@
+[06333.001]
+Ruines de Laguna
+
+[06333.002]
+Ruines de Laguna
+
+[06333.004]
+Obtenu : {08:B5 00 00 00}.
+
+[06333.006]
+Ici, la salle sans la Lentille.
+
+[06333.008]
+Hé, attends, toi ! Attends, je te dis !
+
+[06333.010]
+C’est quoi, cette histoire ? Elle sort d’un coup de la Lentille, puis elle s’en va comme si de rien n’était.
+
+[06333.012]
+Et en prime : « Je cherche un héros », tu parles !
+
+[06333.014]
+Suivons-la, {NAME:03 00 00 00} !
+
+[06333.016]
+La suivre... cette fille !?
+
+[06333.018]
+Viens, vite !
+
+[06333.020]
+Ouh là ! Ça sent mauv...
+
+[06333.021]
+Capitaine
+
+[06333.022]
+Qui êtes-vous !? Que faites-vous ici !
+
+[06333.023]
+Équipier
+
+[06333.024]
+C-c’est terrible ! La Lentille a disparu !
+
+[06333.025]
+Capitaine
+
+[06333.026]
+Quoi ! Comment ça !?
+
+[06333.027]
+Équipier
+
+[06333.028]
+J’ai bel et bien vu une Lentille géante dans cette salle ! Et il n’en reste aucune trace...
+
+[06333.029]
+Capitaine
+
+[06333.030]
+Qu’avez-vous fait de la Lentille !? Allez, parlez !
+
+[06333.032]
+J-j’en sais rien, moi ! Nous non plus, on n’y comprend rien du tout !
+
+[06333.034]
+Une fille est sortie d’un coup, la Lentille a volé en éclats...
+
+[06333.035]
+Capitaine
+
+[06333.036]
+Qu... ! Briser une Lentille géante si précieuse, quelle idiotie... !
+
+[06333.037]
+Capitaine
+
+[06333.038]
+Hé, arrêtez-les ! L’homme, là-bas, aussi !!
+
+[06333.039]
+Équipier
+
+[06333.040]
+C-capitaine ! C’est {NAME:03 00 00 00} Dunamis !!
+
+[06333.042]
+... Aïe~
+
+[06333.043]
+Capitaine
+
+[06333.044]
+Toi... un garde de l’escorte en compagnie d’un voleur ? Qu’est-ce que cela signifie !?
+
+[06333.046]
+Un voleur, moi !?
+
+[06333.047]
+Capitaine
+
+[06333.048]
+Qui d’autre !
+
+[06333.050]
+Je ne suis pas un voleur !
+
+[06333.051]
+Capitaine
+
+[06333.052]
+Tous les voleurs disent ça ! Allez, suivez-nous. Toi aussi, {NAME:03 00 00 00} !
+
+[06333.054]
+... Puisqu’on... en est là... !
+
+[06333.055]
+Capitaine
+
+[06333.056]
+Tu m’écoutes, {NAME:03 00 00 00} Dunamis !
+
+[06333.058]
+... Ah, et puis zut, advienne que pourra !
+
+[06333.060]
+Puisqu’on en est là, on force le passage ! Suis-moi, {NAME:01 00 00 00} !
+
+[06333.062]
+{NAME:03 00 00 00} !
+
+[06333.063]
+Capitaine
+
+[06333.064]
+Emmenez-les à Darilsheid ! Faites-leur cracher où est la Lentille, coûte que coûte !
+
+[06333.065]
+Équipier
+
+[06333.066]
+À vos ordres !
+
+[06333.068]
+Pourquoi ? J’ai l’impression que ce n’est pas la première fois que je viens ici...
+
+[06333.070]
+Qu’est-ce que c’est ? Cette douleur dans la poitrine...
+
+[06333.072]
+... C’est mon imagination ?
+
+[06333.074]
+{NAME:03 00 00 00} m’attend. Rentrons...
+
+[06333.075]
+Bon voyage.
+
+[06333.076]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06333.077]
+Voulez-vous passer la nuit ?
+
+[06333.079]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06333.080]
+Reposez-vous bien.
+
+[06333.081]
+Bonjour.
+
+[06333.082]
+Vous n’avez pas assez d’argent.
+
+[06333.083]
+Au plaisir de vous revoir.
+
+[06333.088]
+Obtenu : {16:25 C6}.
+
+[06333.090]
+Obtenu : {08:FF FF FF FF}.
+
+[06333.092]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06333.094]
+Il n’y a rien ici.
+

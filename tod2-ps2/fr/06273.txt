@@ -1,0 +1,55 @@
+[06273.4788]
+Laguna
+
+[06273.4799]
+Vallée de Harmentz
+
+[06273.4818]
+Ruines Straylize
+
+[06273.4837]
+Récif
+
+[06273.4846]
+Yggdrasil
+
+[06273.4859]
+Claudis
+
+[06273.4872]
+Jungle d’Appel
+
+[06273.4887]
+Ruines feu
+
+[06273.4898]
+C’est où, ça ?
+
+[06273.4913]
+Normal que tu saches
+
+[06273.4936]
+C’est pas ça...
+
+[06273.4955]
+Bon, des ruines, si on veut...
+
+[06273.4988]
+Pas la mer, ça...
+
+[06273.5007]
+Un autre monde ?
+
+[06273.5024]
+Mmh...
+Juste, en un sens... mais non !
+
+[06273.5064]
+C’est où, ça...
+
+[06273.5083]
+Mmh... proche !
+
+[06273.5100]
+Quoi, tu cales ?
+

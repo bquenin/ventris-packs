@@ -1,0 +1,46 @@
+[06540.001]
+Vangelo : centre de soins
+
+[06540.002]
+Vangelo, la Cité d’azur
+
+[06540.003]
+Centre de soins
+
+[06540.004]
+Bon voyage.
+
+[06540.005]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06540.006]
+Voulez-vous passer la nuit ?
+
+[06540.008]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06540.009]
+Reposez-vous bien.
+
+[06540.010]
+Bonjour.
+
+[06540.011]
+Vous n’avez pas assez d’argent.
+
+[06540.012]
+Au plaisir de vous revoir.
+
+[06540.017]
+Obtenu : {16:25 BA}.
+
+[06540.019]
+Obtenu : {08:FF FF FF FF}.
+
+[06540.021]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06540.023]
+Il n’y a rien ici.
+

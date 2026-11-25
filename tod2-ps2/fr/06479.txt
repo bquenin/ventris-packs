@@ -1,0 +1,46 @@
+[06479.001]
+Cherik : auberge
+
+[06479.002]
+Cherik
+
+[06479.004]
+Un lit sous une moustiquaire. Pays chaud oblige, les insectes doivent pulluler.
+
+[06479.005]
+Bon voyage.
+
+[06479.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06479.007]
+Voulez-vous passer la nuit ?
+
+[06479.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06479.010]
+Reposez-vous bien.
+
+[06479.011]
+Bonjour.
+
+[06479.012]
+Vous n’avez pas assez d’argent.
+
+[06479.013]
+Au plaisir de vous revoir.
+
+[06479.018]
+Obtenu : {16:25 BA}.
+
+[06479.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06479.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06479.024]
+Il n’y a rien ici.
+

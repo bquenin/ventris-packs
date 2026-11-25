@@ -1,0 +1,223 @@
+[06462.001]
+Château de Heidelberg
+
+[06462.002]
+Château de Heidelberg
+
+[06462.003]
+Soldat
+
+[06462.004]
+Guaaaah !
+
+[06462.006]
+H-hé ! Ça va !?
+
+[06462.008]
+Ça va mal ! Tout le monde, on y va !
+
+[06462.010]
+Vous allez bien ?
+
+[06462.011]
+Soldat
+
+[06462.012]
+M-moi, je tiendrai ! Mais il faut protéger le roi Woodrow !
+
+[06462.014]
+Cette attaque vise donc bien Woodrow ?
+
+[06462.015]
+Soldat
+
+[06462.016]
+Aucun doute ! L’homme qui mène les monstres a dit : « Je viens prendre la vie du roi Woodrow »...
+
+[06462.018]
+C’est terrible... !
+
+[06462.020]
+Vite, tout le monde !
+
+[06462.021]
+Soldat
+
+[06462.022]
+Il faut protéger Sa Majesté le roi Woodrow... !
+
+[06462.023]
+Soldat
+
+[06462.024]
+Bon sang, quel désastre ! Personne n’arrive à faire face à une attaque si soudaine ! Et la garnison est dispersée dans tout le château !
+
+[06462.025]
+Soldat
+
+[06462.026]
+Les renforts de la ville n’arriveront pas avant un moment. À ce train-là, les soldats dispersés dans le château seront abattus un à un... !
+
+[06462.028]
+Nous assurerons la liaison. Toi, ne quitte pas ton poste, et mets d’abord l’annexe en sûreté.
+
+[06462.029]
+Soldat
+
+[06462.030]
+Où en est le combat ! Le roi Woodrow est-il sauf !
+
+[06462.032]
+On va voir pour le roi Woodrow, nous : gardez votre poste, monsieur !
+
+[06462.033]
+Soldat
+
+[06462.034]
+Entendu... Je vous confie Sa Majesté !
+
+[06462.035]
+Soldat
+
+[06462.036]
+... La cloche de la paix... ... Quel malheur...
+
+[06462.037]
+Soldat
+
+[06462.038]
+Oh... hisse ! ... Ouf ! Tout seul, c’est quand même un peu dur...
+
+[06462.040]
+Tu fais quoi, toi ?
+
+[06462.041]
+Soldat
+
+[06462.042]
+Ah, je déblaie les gravats. Tant qu’on ne pourra pas passer ici, pas moyen de réparer la cloche.
+
+[06462.043]
+Soldat
+
+[06462.044]
+Cette cloche sonnait tous les jours dans cette ville. C’était, pour ainsi dire, le symbole de la vie de tous les jours.
+
+[06462.045]
+Soldat
+
+[06462.046]
+C’est pour ça que c’est maintenant qu’il faut la faire sonner, je trouve. La vie de tous les jours, la paix, tout ce qu’on a perdu : si la cloche sonne, on les retrouvera peut-être...
+
+[06462.047]
+Soldat
+
+[06462.048]
+On rira peut-être de moi, on dira que c’est idiot... mais je veux faire sonner la cloche encore une fois.
+
+[06462.049]
+Soldat
+
+[06462.050]
+Le déblaiement avance bien. À ce train-là, le chemin du beffroi sera bientôt ouvert.
+
+[06462.051]
+Soldat
+
+[06462.052]
+Une fois le chemin ouvert, je compte réparer la cloche. Combien de temps il faudra, je l’ignore... mais je veux essayer.
+
+[06462.053]
+Soldat
+
+[06462.054]
+Cette cloche, je crois que c’est le symbole de la vie de tous les jours, dans cette ville. Alors je veux la réparer à tout prix.
+
+[06462.055]
+Soldat
+
+[06462.056]
+Je croyais être le seul à avoir une idée aussi idiote... et j’ai reçu un don anonyme !
+
+[06462.057]
+Soldat
+
+[06462.058]
+Cela prendra peut-être du temps... mais pour celui qui a fait ce don aussi, je remettrai la cloche en état, coûte que coûte !
+
+[06462.059]
+Soldat
+
+[06462.060]
+Oh, bienvenue ! Il est rare qu’on monte jusqu’ici.
+
+[06462.062]
+C’est... une cloche ? Elle est drôlement grosse.
+
+[06462.063]
+Soldat
+
+[06462.064]
+Oui, le roi d’avant le précédent l’a fait élever en symbole de paix. Elle a un son très pur, très beau.
+
+[06462.065]
+Soldat
+
+[06462.066]
+L’entretien de la cloche, c’est fastidieux et sans éclat, disent-ils tous... mais moi, ça me convient, on dirait.
+
+[06462.067]
+Soldat
+
+[06462.068]
+Et puis, d’ici, on voit toute la ville. Le soir, quand j’ai fini l’entretien et que je regarde, la fatigue de la journée s’envole.
+
+[06462.069]
+Soldat
+
+[06462.070]
+La cloche sonne à heures fixes : quand vous l’entendrez, prêtez l’oreille.
+
+[06462.071]
+Soldat
+
+[06462.072]
+Pas de dialogue défini pour ce drapeau.
+
+[06462.073]
+Bon voyage.
+
+[06462.074]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06462.075]
+Voulez-vous passer la nuit ?
+
+[06462.077]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06462.078]
+Reposez-vous bien.
+
+[06462.079]
+Bonjour.
+
+[06462.080]
+Vous n’avez pas assez d’argent.
+
+[06462.081]
+Au plaisir de vous revoir.
+
+[06462.086]
+Obtenu : {16:25 BA}.
+
+[06462.088]
+Obtenu : {08:FF FF FF FF}.
+
+[06462.090]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06462.092]
+Il n’y a rien ici.
+

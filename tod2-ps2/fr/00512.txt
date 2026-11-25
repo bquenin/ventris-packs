@@ -1,0 +1,24 @@
+[00512.001]
+Mmh...
+
+[00512.002]
+Qu’est-ce que tu as, {NAME:01 00 00 00} ? Cette mine soucieuse... Quelque chose te tracasse ?
+
+[00512.003]
+Tu sais... ces patates douces grillées sur des feuilles mortes, allumées avec une Lentille ? Avec une Lentille grande comme une ville, ça ferait combien de parts ?
+
+[00512.004]
+{NAME:01 00 00 00}... tu pourrais avoir un peu d’inquiétude, de tension...
+
+[00512.005]
+Ça ira. On est tous ensemble.
+
+[00512.006]
+Haha ! Laisse, {NAME:04 00 00 00}. {NAME:01 00 00 00}, c’est comme ça qu’on l’aime.
+
+[00512.007]
+Oui, c’est vrai.
+
+[00512.008]
+Hm ? Vous riez de quoi ?
+

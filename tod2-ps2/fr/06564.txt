@@ -1,0 +1,987 @@
+[06564.001]
+Base de l’armée terrestre
+
+[06564.002]
+Base de l’armée terrestre
+
+[06564.003]
+Base de l’armée terrestre
+
+[06564.004]
+Base de l’armée terrestre
+
+[06564.005]
+Base de l’armée terrestre
+
+[06564.007]
+Il y a là un « canon sol-sol à rondins de 280 mm ».
+
+[06564.009]
+Voilà donc le monde d’il y a mille ans, l’époque de la guerre du Ciel et de la Terre...
+
+[06564.011]
+Bon, on est arrivés, c’est bien, mais on fait quoi, maintenant ?
+
+[06564.013]
+Il faut d’abord nous renseigner. Comment Elraine compte-t-elle renverser l’issue de la guerre du Ciel et de la Terre...
+
+[06564.015]
+Tant que nous l’ignorons, nous ne pouvons rien entreprendre.
+
+[06564.017]
+Au fait, ici... ce ne serait pas la base de l’armée terrestre ? Tu sais, là où était rangé l’Ixifosler.
+
+[06564.019]
+En effet. Cela tombe bien : ici, il sera facile de se renseigner.
+
+[06564.021]
+Alors, commençons par interroger les gens d’ici.
+
+[06564.023]
+... C’est quoi ?
+
+[06564.024]
+????
+
+[06564.025]
+Arrête-toiii~~~ !
+
+[06564.026]
+????
+
+[06564.027]
+Dis donc ! Ton maître, c’est moi, figure-toi ! Obéis !
+
+[06564.028]
+????
+
+[06564.029]
+S’emballer pour trois malheureuses pièces d’essai que je lui ai montées ! Dis dooonc~~~~ !
+
+[06564.031]
+C’est quoi ?
+
+[06564.033]
+Va savoir...
+
+[06564.034]
+????
+
+[06564.035]
+« Stop », tu ne comprends pas, espèce de tas de ferraille ! Je vais te mettre en pièces, et direction la caisse à rebuts !!
+
+[06564.036]
+????
+
+[06564.037]
+Qu-quoi, encore...
+
+[06564.038]
+????
+
+[06564.039]
+Dis dooonc~~~~ ! Puisque je te dis que ton maître, c’est moi !
+
+[06564.041]
+Euh, excusez-moi...
+
+[06564.043]
+Inutile, {NAME:02 00 00 00}. Elle a l’air fort occupée.
+
+[06564.045]
+Ou-ouah !
+
+[06564.047]
+H-hé, toi ! Qu’est-ce que tu fais à te cacher !
+
+[06564.048]
+????
+
+[06564.049]
+Dites, vous autres ! Réglez-moi son compte à ce truc, et que ça saute !
+
+[06564.051]
+... Par hasard, c’est à nous que tu parles ?
+
+[06564.052]
+????
+
+[06564.053]
+Tu vois quelqu’un d’autre à qui je pourrais parler ?
+
+[06564.055]
+Ça ne nous regarde pas, nous !
+
+[06564.057]
+Il semble que cette chose nous ait rangés, nous aussi, parmi ses ennemis.
+
+[06564.059]
+C’est bien le moment de le dire calmement !
+
+[06564.061]
+Allez, pas le temps de râler !
+
+[06564.063]
+Ouf, quelle peur !
+
+[06564.065]
+Franchement, se retrouver mêlés à ça à peine arrivés...
+
+[06564.067]
+Hé, mam’zelle. Rien de cassé ?
+
+[06564.068]
+????
+
+[06564.069]
+........
+
+[06564.071]
+... Qu-quoi ? J’ai quelque chose sur la figure ?
+
+[06564.072]
+????
+
+[06564.073]
+...... Yah !
+
+[06564.075]
+Aïe ! Qu-qu-qu... Qu’est-ce qui te prend, espèce de... !
+
+[06564.076]
+????
+
+[06564.077]
+Ce qui me prend ? Je me venge.
+
+[06564.079]
+Hein !?
+
+[06564.080]
+????
+
+[06564.081]
+Mon modèle HRX-2 : vous l’avez cassé, non ? Alors je me venge.
+
+[06564.083]
+Te venger... C’est toi-même qui as dit « Réglez-moi son compte » !
+
+[06564.084]
+????
+
+[06564.085]
+De quoi tu te plains ? Normalement, ça relevait de la cour martiale, et tu t’en tires avec un coup de pied sauté.
+
+[06564.087]
+La cour martiale !? Alors ce truc... il est à l’armée terrestre !?
+
+[06564.088]
+????
+
+[06564.089]
+Bah, on n’y peut rien. Vous venez du futur, vous autres, vous ne pouviez pas savoir.
+
+[06564.091]
+A-attends un peu ! On n’a rien dit du tout, alors comment...
+
+[06564.092]
+????
+
+[06564.093]
+Ah, j’ai vu juste ? J’ai dit ce qui avait le moins de chances d’être vrai, pour voir.
+
+[06564.095]
+Elle prêchait le faux pour savoir le vrai. Nous nous sommes fait avoir en beauté.
+
+[06564.097]
+... Tout de même, qu’est-ce qui t’a fait penser que nous venions du futur ?
+
+[06564.098]
+????
+
+[06564.099]
+Des raisons, j’en ai dans les trente-six, depuis les changements de composition de l’air dus à la distorsion de l’espace-temps jusqu’à votre façon de bâiller.
+
+[06564.100]
+????
+
+[06564.101]
+Mais la plus grosse de toutes, c’est le « flair ».
+
+[06564.103]
+Le flair... ?
+
+[06564.104]
+????
+
+[06564.105]
+On le dit bien, non ? Le flair d’une femme dépasse même la théorie du chaos.
+
+[06564.107]
+D-dis, c’est quoi, la « théorie du K.-O. » ?
+
+[06564.109]
+Va savoir...
+
+[06564.111]
+En tout cas, cette mam’zelle est dangereuse. Filons d’ici, et vite.
+
+[06564.113]
+Mais si elle pilotait ce robot, elle fait sans doute partie de l’armée.
+
+[06564.115]
+Et puisqu’elle manie des machines, c’est peut-être l’assistante du professeur {NAME:06 00 00 00}.
+
+[06564.117]
+Le professeur {NAME:06 00 00 00}, c’est celui qui a fabriqué l’Ixifosler qu’on a utilisé, non ?
+
+[06564.119]
+Le professeur a peut-être aussi découvert quelque chose sur l’intervention d’Elraine.
+
+[06564.121]
+De plus, le professeur est le frère jumeau du stratège Karell : il doit être bien informé des affaires de l’armée. Le mieux reste de demander à voir le professeur {NAME:06 00 00 00}...
+
+[06564.122]
+????
+
+[06564.123]
+On m’appelle ?
+
+[06564.125]
+N-non, on ne t’appelle pas !
+
+[06564.127]
+M-mais dis... elle est vraiment savante, elle ?
+
+[06564.129]
+C’est déjà ça qui est louche. L’assistante du savant de génie devant qui tout le monde tremble ? C’est un peu gros, non ?
+
+[06564.130]
+????
+
+[06564.131]
+Dites, on m’appelle ?
+
+[06564.133]
+Puisqu’on te dit que non !
+
+[06564.134]
+????
+
+[06564.135]
+Mais vous venez de dire « savant de génie » : c’est moi, ça, non ?
+
+[06564.137]
+... Pas toi. Ton supérieur... enfin, je n’en sais rien, mais le professeur {NAME:06 00 00 00}, tu le connais, non ?
+
+[06564.139]
+Si c’est possible, nous aimerions le rencontrer. Nous voudrions lui parler.
+
+[06564.140]
+????
+
+[06564.141]
+Vous voulez parler ? Rien de plus facile.
+
+[06564.143]
+C’est vrai ? Alors conduis-nous jusqu’au professeur !
+
+[06564.144]
+????
+
+[06564.145]
+Pas la peine. Allez, parlez.
+
+[06564.147]
+H-hé là, ce n’est pas ce qu’on avait dit ! Nous, c’est au professeur {NAME:06 00 00 00} qu’on veut parler...
+
+[06564.148]
+????
+
+[06564.149]
+Eh bien, parlez ici, voilà tout ! Ce que vous êtes lents !
+
+[06564.151]
+Puis-que-je-te-dis ! Nous, c’est au professeur {NAME:06 00 00 00} qu’on a à parler, alors toi, l’assistante...
+
+[06564.152]
+????
+
+[06564.153]
+L’assistante ? Moi ? L’assistante de qui ?
+
+[06564.155]
+... Tu n’es pas l’assistante du professeur {NAME:06 00 00 00} ?
+
+[06564.156]
+????
+
+[06564.157]
+Je ne suis l’assistante de personne, moi.
+
+[06564.159]
+Pff... C’est idiot... Allez, on s’en va.
+
+[06564.160]
+????
+
+[06564.161]
+Puisque {NAME:06 00 00 00}, c’est moi.
+
+[06564.163]
+Oui, oui, c’est ça, c’est ça. {NAME:06 00 00 00}, c’est toi...
+
+[06564.165]
+Hein ? C-c’est vrai... ?
+
+[06564.167]
+Oui.
+
+[06564.169]
+Assez de plaisanteries stupides. Tu ne peux pas être le professeur {NAME:06 00 00 00}...
+
+[06564.171]
+Ce que tu as dans le dos, c’est Chaltier, non ?
+
+[06564.173]
+Lame courbe et fine, 67,3 cm de tranchant. Longueur totale, garde comprise : 81,7 cm. Poids : 2,64 kg.
+
+[06564.175]
+La poignée est légèrement renflée, à la main de Chaltier lui-même. Le relief porte un motif de gerbes.
+
+[06564.177]
+Élément : terre. Emploie surtout des sorts à base de pierres et de rochers... Ah, tu veux aussi les sorts disponibles au départ ?
+
+[06564.179]
+Des données aussi précises...
+
+[06564.181]
+Normal que je les connaisse : c’est moi qui l’ai conçu.
+
+[06564.183]
+M-mais enfin ! Le professeur {NAME:06 00 00 00} est un homme, non !
+
+[06564.185]
+Ah, alors c’est bien ce qu’on raconte !
+
+[06564.187]
+C’est que, en prenant un nom d’homme, je me disais que tooout le monde s’y tromperait.
+
+[06564.189]
+Et comme prévu, tout le monde est tombé dans le panneau ! Gni, gnihihihi !
+
+[06564.191]
+A-alors, vous êtes vraiment le professeur {NAME:06 00 00 00}...
+
+[06564.193]
+Oh, {NAME:06 00 00 00} tout court, ça ira. « Professeur », ça sonne trop raide, ce n’est pas mignon.
+
+[06564.195]
+Pas mignon...
+
+[06564.197]
+Bon, eh bien, on y va ?
+
+[06564.199]
+A-attends un peu. On va où...
+
+[06564.201]
+Je vais vous présenter à tout le monde. Comme mes subordonnés.
+
+[06564.203]
+Comme ça, vous circulerez plus facilement dans le Radisrol, non ?
+
+[06564.205]
+... Et ça, c’est sérieux : la raison de votre venue à cette époque, gardez-la absolument secrète.
+
+[06564.207]
+Oui, compris ! On ne le dira à personne d’autre que toi, {NAME:06 00 00 00}, c’est promis.
+
+[06564.209]
+Mais non, mais non ! À moi aussi, vous la gardez secrète !
+
+[06564.211]
+Hein ? Mais...
+
+[06564.213]
+Un problème aussi passionnant, et entendre la réponse d’entrée : où serait le plaisir !
+
+[06564.215]
+Compris ? Tant que je réfléchis, interdiction absolue de me dire la réponse !
+
+[06564.217]
+Bon, direction l’intérieur du Radisrol : let’s go !
+
+[06564.219]
+... E-enfin bon, on y va, tout le monde...
+
+[06564.221]
+{NAME:06 00 00 00} rejoint le groupe.
+
+[06564.222]
+Soldat
+
+[06564.223]
+Professeur {NAME:06 00 00 00}, le commandant en chef Litler vous demande. Veuillez vous présenter sans délai à la « salle d’état-major ».
+
+[06564.225]
+C’est au sujet de Dymlos... sûrement.
+
+[06564.227]
+Bah, on verra bien en y allant.
+
+[06564.228]
+Officier
+
+[06564.229]
+{05:9C 01 00 00}Armée céleste, armée terrestre ! Laquelle gagnera cette guerre !
+
+[06564.230]
+Sous-officier A
+
+[06564.231]
+{05:00 02 00 00}L’armée terrestre, à vos ordres !
+
+[06564.232]
+Sous-officier B
+
+[06564.233]
+{05:00 02 00 00}L’armée terrestre, à vos ordres !
+
+[06564.234]
+Sous-officier C
+
+[06564.235]
+{05:00 02 00 00}L’armée terrestre, à vos ordres !
+
+[06564.236]
+Officier
+
+[06564.237]
+{05:9C 01 00 00}Pour le commandant en chef Litler et pour le Radisrol, trois hourras !
+
+[06564.238]
+Officier
+
+[06564.239]
+{05:9C 01 00 00}Armée céleste, armée terrestre ! Laquelle gagnera cette guerre !
+
+[06564.240]
+Sous-officier A
+
+[06564.241]
+{05:00 02 00 00}L’armée terrestre, à vos ordres !
+
+[06564.242]
+Sous-officier B
+
+[06564.243]
+{05:00 02 00 00}L’armée terrestre, à vos ordres !
+
+[06564.244]
+Sous-officier C
+
+[06564.245]
+{05:00 02 00 00}L’armée terrestre, à vos ordres !
+
+[06564.246]
+Officier
+
+[06564.247]
+{05:9C 01 00 00}Pour ces messieurs les Swordians, trois hourras !
+
+[06564.248]
+Sous-officier A
+
+[06564.249]
+{05:00 02 00 00}Hourra !
+
+[06564.250]
+Sous-officier B
+
+[06564.251]
+{05:00 02 00 00}Hourra !
+
+[06564.252]
+Sous-officier C
+
+[06564.253]
+{05:00 02 00 00}Hourra !
+
+[06564.254]
+Sous-officier
+
+[06564.255]
+Sitôt la comète tombée, toutes les armées et toutes les forces de l’ordre ont perdu leurs moyens.
+
+[06564.256]
+Sous-officier
+
+[06564.257]
+Forcément : plus aucun ravitaillement, ni en matériel ni en hommes.
+
+[06564.258]
+Sous-officier
+
+[06564.259]
+Dire qu’on en est à affronter Belcrant avec des bouts de bois pareils.
+
+[06564.260]
+Sous-officier
+
+[06564.261]
+C’est un miracle que Belcrant ne nous ait pas encore tiré dessus.
+
+[06564.262]
+Sous-officier
+
+[06564.263]
+Hé. L’armée céleste ne doit pas avoir un pointeur convenable.
+
+[06564.264]
+Sous-officier
+
+[06564.265]
+Rien de plus inutile qu’une troupe sans entraînement.
+
+[06564.266]
+Portier
+
+[06564.267]
+À vos ordres. Aucun objectif hostile n’a été aperçu ces derniers jours.
+
+[06564.268]
+Portier
+
+[06564.269]
+Nous poursuivons la surveillance jusqu’à ce que la situation évolue.
+
+[06564.270]
+Portier
+
+[06564.271]
+À vos ordres. Aurions-nous commis une faute ?
+
+[06564.273]
+Non. Pardon de vous avoir dérangés.
+
+[06564.274]
+Officier d’intendance
+
+[06564.275]
+On me dit que, par ici, du matériel destiné à la distribution est détourné.
+
+[06564.276]
+Officier d’intendance
+
+[06564.277]
+Pour quoi prend-on un matériel si précieux ? Je trouverai le coupable, et je le ferai jeter au cachot.
+
+[06564.278]
+Officier d’intendance
+
+[06564.279]
+Vivres, équipement : nous manquons de tout.
+
+[06564.280]
+Officier d’intendance
+
+[06564.281]
+Tant que le moral est haut, on peut encore contenir le mécontentement, mais chacun voit bien que la limite est proche.
+
+[06564.282]
+Officier d’intendance
+
+[06564.283]
+L’ordre est venu d’affecter tout le matériel à la prochaine opération.
+
+[06564.284]
+Officier d’intendance
+
+[06564.285]
+Mais si l’opération échoue, que se passera-t-il ? Faudra-t-il mourir de froid dans ce blizzard, sans rien à manger ?
+
+[06564.287]
+T’es bête, toi. Si l’opération d’assaut échoue, l’armée terrestre sera anéantie tôt ou tard.
+
+[06564.289]
+Alors autant mettre toutes nos forces dans cette opération, non ?
+
+[06564.290]
+Officier d’intendance
+
+[06564.291]
+Cet ordre repose-t-il sur une vraie chance de victoire ? Je n’arrive pas à l’admettre...
+
+[06564.292]
+Troupier
+
+[06564.293]
+Vous portez un drôle d’équipement, vous autres. Vous êtes de quelle unité ?
+
+[06564.295]
+Unité ? L’armée, moi, je n’y connais pas grand-chose.
+
+[06564.296]
+Troupier
+
+[06564.297]
+Tu n’y connais rien ? Ah, vous êtes donc des miliciens levés à la hâte ?
+
+[06564.298]
+Troupier
+
+[06564.299]
+C’est lamentable. Mettre des armes aux mains de civils : l’armée n’a plus de quoi être fière.
+
+[06564.300]
+Troupier
+
+[06564.301]
+Les militaires existent pour protéger les civils.
+
+[06564.302]
+Troupier
+
+[06564.303]
+Devoir emprunter la force de ces civils-là, c’est le monde à l’envers.
+
+[06564.304]
+Troupier
+
+[06564.305]
+Il paraît que l’opération d’assaut sur Dycroft va enfin être lancée.
+
+[06564.306]
+Troupier
+
+[06564.307]
+On monte à l’assaut du repaire ennemi. On n’en reviendra peut-être pas vivants.
+
+[06564.308]
+Troupier
+
+[06564.309]
+Mais il faut y aller quand même. Le sort de ce monde en dépend.
+
+[06564.310]
+Troupier
+
+[06564.311]
+Si j’en réchappe, j’arrête le métier des armes.
+
+[06564.312]
+Troupier
+
+[06564.313]
+J’aimerais entrer dans l’Ordre de Straylize, par exemple, et vivre en paix.
+
+[06564.314]
+Soldat terrestre
+
+[06564.315]
+Dis, tu y crois, toi ? Contre une arme comme Belcrant, nous, on part au combat avec des épées et des arcs !
+
+[06564.316]
+Soldat terrestre
+
+[06564.317]
+C’est de la folie. On ne peut pas gagner.
+
+[06564.318]
+Ex-parachutiste
+
+[06564.319]
+Moi, j’étais parachutiste, à l’origine, mais aujourd’hui, il ne reste plus un seul avion.
+
+[06564.320]
+Ex-parachutiste
+
+[06564.321]
+Remarque, même s’il en restait, contre Belcrant, on ne pourrait rien faire...
+
+[06564.322]
+Soldat terrestre
+
+[06564.323]
+Les Swordians, hein... Une simple épée renverserait le cours de la guerre ?
+
+[06564.324]
+Soldat terrestre
+
+[06564.325]
+Un soldat, une arme : ça ne suffit pas à finir une guerre, voyons.
+
+[06564.327]
+Eh bien si, justement : elle finit pour de bon. C’est ça, les mystères de l’histoire.
+
+[06564.328]
+Soldat terrestre
+
+[06564.329]
+Si les Swordians valent ce qu’on en dit, moi aussi, j’aimerais en manier un.
+
+[06564.330]
+Soldat terrestre
+
+[06564.331]
+Une guerre pourrie comme celle-là, il faut la finir au plus vite. Je m’en servirais bien, pour ça.
+
+[06564.332]
+Soldate
+
+[06564.333]
+Moi, je suis une milicienne levée à la hâte. Jusqu’ici, l’armée, c’était un autre monde pour moi...
+
+[06564.334]
+Soldate
+
+[06564.335]
+Les militaires sont vraiment solides. Rester debout comme ça en plein blizzard...
+
+[06564.336]
+Soldate
+
+[06564.337]
+Oups, si je me plains, mon supérieur va me crier dessus. Il faut monter la garde comme il faut.
+
+[06564.338]
+Soldate
+
+[06564.339]
+N’empêche, quel froid. Je vais mourir gelée.
+
+[06564.340]
+Soldate
+
+[06564.341]
+Si on bat l’armée céleste, je compte m’engager pour de bon.
+
+[06564.342]
+Soldate
+
+[06564.343]
+Même la guerre finie, le désordre durera un moment. Plus il y aura de soldats, mieux ce sera, non ?
+
+[06564.344]
+Soldate
+
+[06564.345]
+Il faut gagner à tout prix, et laisser un monde meilleur aux enfants.
+
+[06564.346]
+Soldat
+
+[06564.347]
+Professeur {NAME:06 00 00 00}, le commandant en chef Litler vous demande. Veuillez vous présenter sans délai à la « salle d’état-major ».
+
+[06564.349]
+Récup’, récup’~♪
+
+[06564.351]
+Les sacs sont pleins.
+
+[06564.352]
+Bon voyage.
+
+[06564.353]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06564.354]
+Voulez-vous passer la nuit ?
+
+[06564.356]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06564.357]
+Reposez-vous bien.
+
+[06564.358]
+Bonjour.
+
+[06564.359]
+Vous n’avez pas assez d’argent.
+
+[06564.360]
+Au plaisir de vous revoir.
+
+[06564.365]
+Obtenu : {16:25 CA}.
+
+[06564.367]
+Obtenu : {08:FF FF FF FF}.
+
+[06564.369]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06564.371]
+Il n’y a rien ici.
+
+[06564.372]
+Vendeur ({08:12 00 00 00})
+
+[06564.373]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06564.374]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06564.375]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06564.376]
+C’est {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06564.378]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 E6} ({14:35 E0} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06564.380]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06564.381]
+Merci de votre achat.
+
+[06564.382]
+Merci de votre achat.
+
+[06564.383]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald pièce.
+
+[06564.384]
+Voulez-vous suivre le cours de raffinage ?
+
+[06564.386]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06564.387]
+Que voulez-vous savoir ?
+
+[06564.389]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06564.391]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06564.392]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06564.393]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06564.394]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06564.395]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06564.396]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06564.397]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06564.398]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06564.399]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06564.400]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06564.401]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06564.402]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06564.403]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06564.404]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06564.405]
+Je vous expliquerai les emplacements en détail à part.
+
+[06564.406]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06564.407]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06564.408]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06564.409]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06564.410]
+Je vais vous expliquer les emplacements en détail.
+
+[06564.411]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06564.412]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06564.413]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06564.414]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06564.415]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06564.416]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06564.417]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06564.418]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06564.419]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06564.420]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06564.421]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06564.422]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06564.423]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06564.424]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06564.425]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06564.426]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06564.427]
+... Ranger ses objets, c’est important aussi.
+

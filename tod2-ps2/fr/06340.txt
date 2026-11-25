@@ -1,0 +1,96 @@
+[06340.001]
+Canaux souterrains de Darilsheid
+
+[06340.002]
+Canaux souterrains de Darilsheid
+
+[06340.003]
+Canaux souterrains de Darilsheid
+
+[06340.005]
+Ouah, il fait tout noir !
+
+[06340.007]
+En suivant ce canal, on doit ressortir à la surface.
+
+[06340.009]
+La sortie est vraiment par là ? On n’y voit strictement rien.
+
+[06340.011]
+Pas de panique. Allumez les chandeliers et on verra devant.
+
+[06340.013]
+Bon, on y va. Tâchez de suivre sans traîner.
+
+[06340.015]
+Hé ! C’est toi qui vas nous ralentir, monsieur Sûr-de-lui !
+
+[06340.016]
+Tout est devenu noir.
+
+[06340.017]
+Grille brisée.
+
+[06340.018]
+Il fait tout noir. On n’y voit rien.
+
+[06340.021]
+Il y a un chandelier.
+
+[06340.022]
+Il fait tout noir. On n’y voit rien.
+
+[06340.024]
+Il fait tout noir. On n’y voit rien.
+
+[06340.026]
+Il fait tout noir. On n’y voit rien.
+
+[06340.028]
+Obtenu : {16:34 A4} x{0B:01 00 00 00}{14:34 A0}{0B:00 00 00 00}.
+
+[06340.030]
+Trouvé : {16:34 A4} x{0B:01 00 00 00}{14:34 A8}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06340.032]
+{16:34 A4} x{0B:01 00 00 00}{14:34 A8} : vous ne pouvez pas tout porter.
+・En prendre {14:34 A0}, en jeter {14:34 AC}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+
+[06340.034]
+Bon voyage.
+
+[06340.035]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06340.036]
+Voulez-vous passer la nuit ?
+
+[06340.038]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06340.039]
+Reposez-vous bien.
+
+[06340.040]
+Bonjour.
+
+[06340.041]
+Vous n’avez pas assez d’argent.
+
+[06340.042]
+Au plaisir de vous revoir.
+
+[06340.047]
+Obtenu : {16:26 02}.
+
+[06340.049]
+Obtenu : {08:FF FF FF FF}.
+
+[06340.051]
+Trouvé : {16:26 0A}, mais vous n’avez plus de place.
+
+[06340.053]
+Il n’y a rien ici.
+

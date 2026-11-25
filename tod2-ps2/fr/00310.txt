@@ -1,0 +1,27 @@
+[00310.001]
+♪ Regarde, {NAME:01 00 00 00} ! Les rues, les toits, tout est sous la neige ! C’est beau !
+
+[00310.002]
+Haha ! Tu t’amuses comme une folle, {NAME:02 00 00 00} !
+
+[00310.003]
+Oh, et toi, {NAME:01 00 00 00} ? Ta tête de tout à l’heure a disparu. Tu es tout sourire !
+
+[00310.004]
+T-tu crois... hé hé hé.
+
+[00310.005]
+... Mais c’est mieux ainsi : c’est tout toi, {NAME:01 00 00 00}.
+
+[00310.006]
+Hé~, on dirait que je rigole tout le temps.
+
+[00310.007]
+Oh, je me trompe ?
+
+[00310.008]
+Ah, c’est comme ça ! Attends un peu !
+
+[00310.009]
+Hi hi ! Tu ne m’auras pas, {NAME:01 00 00 00} !
+

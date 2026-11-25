@@ -1,0 +1,15 @@
+[00762.001]
+Les Swordians enfin achevés ! Si ça se trouve, on va assister à un moment incroyable... !!
+
+[00762.002]
+Vaudrait mieux pas trop rêver, non ? C’est {NAME:06 00 00 00}. Elle est capable de sortir « testons le tranchant des Swordians sur vous ».
+
+[00762.003]
+Mmiaou~♪ Pas bête. Je prends l’idée~ !
+
+[00762.004]
+Ah...
+
+[00762.005]
+Trop parler nuit...
+

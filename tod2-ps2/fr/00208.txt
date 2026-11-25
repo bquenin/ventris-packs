@@ -1,0 +1,15 @@
+[00208.001]
+J’y pense ! Avant d’embarquer, achetons quelque chose !
+
+[00208.002]
+Hé, hé, on ne part pas en sortie scolaire. C’est pour le goûter, hein ?
+
+[00208.003]
+Hé hé~, évidemment ! Dis, dis, on prend quoi ? Tu veux quoi, {NAME:02 00 00 00} ?
+
+[00208.004]
+{NAME:01 00 00 00}, le goûter, c’est 300 Gald au plus.
+
+[00208.005]
+La banane, ça compte ?
+

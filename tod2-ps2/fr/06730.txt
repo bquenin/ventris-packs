@@ -1,0 +1,46 @@
+[06730.001]
+Dycroft, il y a dix-huit ans
+
+[06730.002]
+Dycroft, il y a dix-huit ans
+
+[06730.004]
+L’ascenseur ne réagit pas du tout. Il semble cassé.
+
+[06730.005]
+Bon voyage.
+
+[06730.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06730.007]
+Voulez-vous passer la nuit ?
+
+[06730.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06730.010]
+Reposez-vous bien.
+
+[06730.011]
+Bonjour.
+
+[06730.012]
+Vous n’avez pas assez d’argent.
+
+[06730.013]
+Au plaisir de vous revoir.
+
+[06730.018]
+Obtenu : {16:25 BA}.
+
+[06730.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06730.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06730.024]
+Il n’y a rien ici.
+

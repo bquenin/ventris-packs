@@ -1,0 +1,181 @@
+[06573.001]
+Base de l’armée terrestre
+
+[06573.002]
+Base de l’armée terrestre
+
+[06573.003]
+Litler
+
+[06573.004]
+Glorieux soldats de l’armée terrestre ! La guerre que nous avons si longtemps menée a pris fin aujourd’hui, enfin.
+
+[06573.005]
+Litler
+
+[06573.006]
+Miktran, le tyran sans pitié, est mort.
+
+[06573.007]
+Litler
+
+[06573.008]
+L’armée céleste, si fière de sa puissance, et Dycroft, symbole de terreur et de haine, ont disparu à jamais avec lui.
+
+[06573.009]
+Litler
+
+[06573.010]
+Nous ne devons jamais oublier l’éclat des vies de tant de héros tombés, Karell Berselius le premier.
+
+[06573.011]
+Litler
+
+[06573.012]
+Et nous devons graver ceci dans nos cœurs : cette victoire est le premier pas qui ouvre un nouveau lendemain.
+
+[06573.014]
+La proclamation de la fin de la guerre par le commandant en chef Litler, ce discours qu’on dit sans égal... Qui eût cru que je l’entendrais ainsi.
+
+[06573.016]
+Et... qu’on l’écouterait le cœur aussi lourd.
+
+[06573.018]
+Dis, {NAME:03 00 00 00}... Est-ce que c’était vraiment bien, comme ça ?
+
+[06573.020]
+Hm ? De quoi tu parles, {NAME:01 00 00 00} ?
+
+[06573.022]
+À ce moment-là, on aurait dû pouvoir sauver Karell.
+
+[06573.024]
+Si on avait foncé tout de suite chez Miktran, comme disait Barbatos, peut-être que...
+
+[06573.026]
+T’es bête, toi. Là, tu es au même niveau que ce singe.
+
+[06573.028]
+{NAME:06 00 00 00} !
+
+[06573.030]
+Je l’ai dit, non ? Ceux qui connaissent l’avenir ne doivent pas changer l’histoire à leur seule convenance.
+
+[06573.032]
+Ça, je le sais. Mais...
+
+[06573.034]
+Et puis, tu sais, la mort de mon frère, ce n’était ni le destin ni une mort pour rien.
+
+[06573.036]
+Mon frère a vécu de toutes ses forces, à sa façon. C’en est le résultat.
+
+[06573.038]
+Alors il n’y a pas de regrets. Je crois que ça a été une vie heureuse.
+
+[06573.040]
+{NAME:06 00 00 00}...
+
+[06573.042]
+Même si la mort est déjà fixée, vivre de toutes ses forces, et saisir le bonheur...
+
+[06573.044]
+... Booon, on est devenus bien sombres. Sur ce, le sujet est clos !
+
+[06573.046]
+Et vous, vous faites quoi, maintenant ?
+
+[06573.048]
+On compte poursuivre Barbatos.
+
+[06573.050]
+« Devant l’Œil de Dieu » : il doit s’agir de Dycroft, au temps des derniers troubles.
+
+[06573.052]
+Décider de son propre sort là où se décide le sort du monde... C’est bien une idée à lui.
+
+[06573.054]
+Mais les Lentilles... Pour voyager dans le temps, la force des Lentilles ne suffit pas.
+
+[06573.056]
+Je m’en doutais.
+
+[06573.058]
+{NAME:06 00 00 00}, mais c’est...
+
+[06573.060]
+Un Swordian, c’est la fine fleur de la technique des Lentilles. Côté énergie, ce n’est pas rien non plus.
+
+[06573.062]
+Ah, je vois ! Tant mieux : ça nous évite de chercher des Lentilles.
+
+[06573.064]
+Bon, {NAME:06 00 00 00}, merci pour tou...
+
+[06573.066]
+Allez, cap sur le futur : let’s go !
+
+[06573.068]
+... Hé, qu’est-ce que tu fais ?
+
+[06573.070]
+Je l’ai déjà dit, non ? Que je prouverais que mon cerveau surpasse même les dieux.
+
+[06573.072]
+Ne me dis pas... que tu comptes nous suivre ?
+
+[06573.074]
+Si ça ne vous plaît pas, pas de Swordian.
+
+[06573.076]
+... Pff. On fait quoi, {NAME:01 00 00 00} ?
+
+[06573.078]
+Pourquoi pas ! Avec {NAME:06 00 00 00}, ce sera encore plus amusant !
+
+[06573.080]
+Alors voilà : comptez sur moi !
+
+[06573.082]
+Bon ! {NAME:02 00 00 00}, on y va ! Destination : dix-huit ans avant notre époque... le temps où vivait mon père !
+
+[06573.084]
+Compris. ... Tout le monde, on y va !
+
+[06573.085]
+Bon voyage.
+
+[06573.086]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06573.087]
+Voulez-vous passer la nuit ?
+
+[06573.089]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06573.090]
+Reposez-vous bien.
+
+[06573.091]
+Bonjour.
+
+[06573.092]
+Vous n’avez pas assez d’argent.
+
+[06573.093]
+Au plaisir de vous revoir.
+
+[06573.098]
+Obtenu : {16:26 4E}.
+
+[06573.100]
+Obtenu : {08:FF FF FF FF}.
+
+[06573.102]
+Trouvé : {16:26 56}, mais vous n’avez plus de place.
+
+[06573.104]
+Il n’y a rien ici.
+

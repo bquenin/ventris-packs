@@ -1,0 +1,12 @@
+[00622.001]
+Pourquoi... pourquoi Lou vit-il !? Et... elle ne s’étonne de rien ? C’est pas ça, la vérité, {NAME:05 00 00 00}... !
+
+[00622.002]
+{NAME:03 00 00 00}...
+
+[00622.003]
+{NAME:01 00 00 00}. Réveillons cette crétine !
+
+[00622.004]
+Oui
+

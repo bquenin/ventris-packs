@@ -1,0 +1,12 @@
+[00274.001]
+Une mine déserte, ça donne le frisson. On dirait que quelque chose va sortir...
+
+[00274.002]
+Bon, écoutez bieeen, tous. Si vous voyez un fantôme, dites-le-moi d’abord.
+
+[00274.003]
+Oh ? Tu nous en débarrasseras, {NAME:03 00 00 00} ?
+
+[00274.004]
+Non : je fuis le premier.
+

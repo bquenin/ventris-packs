@@ -1,0 +1,64 @@
+[06322.001]
+Orphelinat Dunamis
+
+[06322.002]
+Orphelinat Dunamis
+
+[06322.004]
+Ramassé : {08:01 00 00 00}.
+
+[06322.006]
+On a le droit, au moins ?
+
+[06322.008]
+Mieux vaut ne pas en prendre beaucoup d’un coup.
+
+[06322.010]
+Il y a ici : {08:59 00 00 00}.
+
+[06322.012]
+Du linge soigneusement plié se trouve dans le panier.
+
+[06322.014]
+Grâce au chauffe-eau à Lentilles, le bain est toujours chaud.
+
+[06322.016]
+C’est pas le moment de traîner dans le bain...
+
+[06322.017]
+Bon voyage.
+
+[06322.018]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06322.019]
+Voulez-vous passer la nuit ?
+
+[06322.021]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06322.022]
+Reposez-vous bien.
+
+[06322.023]
+Bonjour.
+
+[06322.024]
+Vous n’avez pas assez d’argent.
+
+[06322.025]
+Au plaisir de vous revoir.
+
+[06322.030]
+Obtenu : {16:25 BA}.
+
+[06322.032]
+Obtenu : {08:FF FF FF FF}.
+
+[06322.034]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06322.036]
+Il n’y a rien ici.
+

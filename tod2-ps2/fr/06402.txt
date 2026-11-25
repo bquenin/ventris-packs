@@ -1,0 +1,217 @@
+[06402.001]
+Navire de ligne
+
+[06402.002]
+Navire de ligne
+
+[06402.004]
+Des livres prêtés à bord sont éparpillés.
+
+[06402.005]
+Passager
+
+[06402.006]
+Je suis le grand prophète Sabadicho, parfaitement~.
+
+[06402.007]
+Passager
+
+[06402.008]
+D’après ma prophétie, il va bientôt se produire une chose fâcheuse...
+
+[06402.009]
+Passager
+
+[06402.010]
+Beurp... bleuh~.
+
+[06402.012]
+Une chose fâcheuse s’est produite, c’est sûr...
+
+[06402.013]
+Passager
+
+[06402.014]
+Beurp... Les prophéties de Sabadicho se réalisent, parfaitement~.
+
+[06402.015]
+Passager
+
+[06402.016]
+Je suis le grand prophète Sabadicho, parfaitement~.
+
+[06402.017]
+Passager
+
+[06402.018]
+Vous terrasserez à coup sûr le maître de Devil’s Reef~...
+
+[06402.019]
+Passager
+
+[06402.020]
+Ou plutôt, par pitié, terrassez-le~.
+
+[06402.022]
+Ça n’a rien d’une prophétie, ça...
+
+[06402.023]
+Passager
+
+[06402.024]
+Mon destin n’est pas de mourir dans un endroit pareil, parfaitement~ !!
+
+[06402.025]
+Passager
+
+[06402.026]
+Je suis le grand prophète Sabadicho, parfaitement~.
+
+[06402.027]
+Passager
+
+[06402.028]
+Me faire monter le premier dans un canot de sauvetage : « bon présage »... disent les signes, parfaitement~.
+
+[06402.030]
+Pour toi, c’est sûr que ce serait un « bon présage ».
+
+[06402.031]
+Passager
+
+[06402.032]
+Mon destin n’est pas de mourir dans un endroit pareil, parfaitement~ !!
+
+[06402.033]
+Passager
+
+[06402.034]
+Je suis le grand prophète Sabadicho, parfaitement~.
+
+[06402.035]
+Passager
+
+[06402.036]
+Que vous nous sauveriez, ma prophétie me l’avait appris, parfaitement~.
+
+[06402.037]
+Passager
+
+[06402.038]
+Vous deviendrez un jour de grands héros~.
+
+[06402.040]
+C’est vrai, ça !?
+
+[06402.042]
+Va pas croire les prophéties d’un type aussi louche...
+
+[06402.043]
+Passager
+
+[06402.044]
+Sabadicho ne ment pas. Vous deviendrez un jour de grands héros, parfaitement~.
+
+[06402.045]
+Passager
+
+[06402.046]
+Je suis le grand prophète Sabadicho, parfaitement~.
+
+[06402.047]
+Passager
+
+[06402.048]
+Vous allez être conduits vers une terre de froid extrême, à vous glacer jusqu’aux os~.
+
+[06402.050]
+Hein ! Qu’est-ce qu’on va faire !
+
+[06402.052]
+Évidemment... Ce navire va à Snowfria.
+
+[06402.053]
+Passager
+
+[06402.054]
+Les prophéties de Sabadicho se réalisent toujours, parfaitement~.
+
+[06402.055]
+Passager
+
+[06402.056]
+Je suis le grand prophète Sabadicho, parfaitement~.
+
+[06402.057]
+Passager
+
+[06402.058]
+Les prophéties de Sabadicho se réalisent toujours, parfaitement~.
+
+[06402.059]
+Passager
+
+[06402.060]
+Ces pèlerins, ils trimballent des Lentilles, de l’argent, tout un tas de choses. À la première occasion, je leur fais les poches.
+
+[06402.061]
+Passager
+
+[06402.062]
+... Mais si je fais ça, la déesse Fortuna va me punir, non...
+
+[06402.063]
+Passager
+
+[06402.064]
+Ils vont jusqu’à Calviola, si loin. N’importe quoi fera l’affaire : je mettrai la main sur quelque chose qui vaut cher.
+
+[06402.065]
+Passager
+
+[06402.066]
+Mais j’ai peur d’être puni...
+
+[06402.067]
+Passager
+
+[06402.068]
+Ces pèlerins, ils trimballent des Lentilles, de l’argent, tout un tas de choses. À la première occasion, je leur fais les poches.
+
+[06402.069]
+Bon voyage.
+
+[06402.070]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06402.071]
+Voulez-vous passer la nuit ?
+
+[06402.073]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06402.074]
+Reposez-vous bien.
+
+[06402.075]
+Bonjour.
+
+[06402.076]
+Vous n’avez pas assez d’argent.
+
+[06402.077]
+Au plaisir de vous revoir.
+
+[06402.082]
+Obtenu : {16:25 BA}.
+
+[06402.084]
+Obtenu : {08:FF FF FF FF}.
+
+[06402.086]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06402.088]
+Il n’y a rien ici.
+

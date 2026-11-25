@@ -1,0 +1,21 @@
+[00634.001]
+N’empêche... même à l’état de prototype, tu as battu mon HRX-2 : {NAME:01 00 00 00}, tu es plutôt fort, mine de rien. Tu m’intéresses, toi. Dis, tu m’accompagnes un moment, tout à l’heure !
+
+[00634.002]
+Hein !? N-non, pas question !
+
+[00634.003]
+Hm ? Alors je te dissèque avec lui ?
+
+[00634.004]
+Dis-sé-quer... ?
+
+[00634.005]
+Voilà. Pour étudier les capacités du corps.
+
+[00634.006]
+Ah, m-moi, je vais m’abstenir... Fais-le toute seule, {NAME:06 00 00 00}.
+
+[00634.007]
+Attends ! Pas de dissection, point !
+

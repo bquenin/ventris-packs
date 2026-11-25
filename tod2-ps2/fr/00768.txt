@@ -1,0 +1,6 @@
+[00768.001]
+La naissance des Swordians, enfin ! Allez, tout le monde, on y va vite !!
+
+[00768.002]
+Oui, j’ai compris ! Alors cours pas... {NAME:01 00 00 00}, tu m’écoutes ? Hé ! Ohééé !!
+

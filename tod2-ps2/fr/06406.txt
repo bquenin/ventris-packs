@@ -1,0 +1,201 @@
+[06406.001]
+Lienea : maison de mamie Maggie
+
+[06406.002]
+Village de Lienea
+
+[06406.003]
+Mamie Maggie
+
+[06406.004]
+Maison de mamie Maggie
+
+[06406.005]
+Bizarre... Pourquoi t’ai-je pris pour Stahn, moi ?
+
+[06406.006]
+Ça doit être cette tête blonde hérissée, hein ?
+
+[06406.007]
+S-S-S-Stahn ! C-c-c-c-comment... !
+
+[06406.009]
+Du calme, mamie ! Je ne suis pas mon père. Je suis son fils, {NAME:01 00 00 00} !
+
+[06406.010]
+Hein... ? Ah, c’est vrai. Tu m’as fait une de ces peurs ! Là, je t’ai pris pour Stahn !
+
+[06406.011]
+Pardon, pardon. C’était donc celui-ci, le fils de Stahn. Il ne paie pas de mine, dis donc.
+
+[06406.013]
+... Puisque je vous dis que ce n’est pas moi : le fils de Stahn, c’est le petit, là !
+
+[06406.014]
+Tiens, c’est toi, le fils de Stahn ? Hé, tu tiens de ta mère.
+
+[06406.015]
+Ne garde pas ce masque sur la figure : montre-moi ton visage.
+
+[06406.017]
+Non... ce n’est pas moi... Le fils de Stahn, c’est celui-ci.
+
+[06406.018]
+Pardon, pardon. C’était donc celui-ci, le fils de Stahn. Il tient de son père.
+
+[06406.019]
+Sème donc dans le champ devant la maison : {16:34 70}.
+
+[06406.020]
+Les graines poussent bien ?
+
+[06406.022]
+{03:00 00 00 00}　Elles poussent　
+　Elles ne poussent pas　
+
+[06406.023]
+Si tu t’en occupes bien, elles devraient germer en 10 minutes environ.
+
+[06406.024]
+Donne le premier engrais avant qu’elles germent, et remets-en une fois qu’elles ont germé.
+
+[06406.025]
+Puis, 10 minutes plus tard environ, donne le dernier engrais.
+
+[06406.026]
+Arrose-les juste assez pour qu’elles ne se dessèchent pas, et elles finiront par donner des fruits.
+
+[06406.027]
+Il faut compter dans les 30 minutes après la germination, je dirais.
+
+[06406.028]
+Trop d’eau, et elles pourrissent : fais bien attention.
+
+[06406.029]
+La récolte se fait dans les 10 minutes qui suivent l’apparition des fruits.
+
+[06406.030]
+Si tu ne récoltes jamais, elles se dessèchent.
+
+[06406.031]
+Occupe-t’en bien et tu auras une récolte.
+
+[06406.032]
+Bon courage.
+
+[06406.033]
+C’est bien, ça.
+
+[06406.034]
+Ça te dirait de faire pousser des graines ?
+
+[06406.036]
+{03:00 00 00 00}　Essayer　
+　Non merci　
+
+[06406.037]
+Je te donne ceci : {16:34 70}.
+
+[06406.038]
+Je te prête le champ devant la maison : sèmes-y donc {16:34 70}.
+
+[06406.039]
+En faisant pousser des graines, on a parfois une belle récolte, tu sais.
+
+[06406.040]
+Autrefois, Stahn aussi faisait pousser des graines.
+
+[06406.041]
+Pardon, pardon. C’était donc toi, le fils de Stahn.
+
+[06406.042]
+Au fait, quelle tête il avait, Stahn, déjà ?
+
+[06406.043]
+Tiens, tu es... le fils de Stahn, peut-être ? Tout le monde en parle dehors, alors je sais.
+
+[06406.044]
+N’empêche... tu ne lui ressembles pas. Pas comme Stahn : tu as une tête à avoir des ennuis avec les femmes.
+
+[06406.046]
+... Désolé d’avoir une tête à ennuis. Et puis c’est pas ça ! Le fils de Stahn, c’est le petit, là !
+
+[06406.048]
+Un album. Mamie Maggie du temps de sa jeunesse... !?
+
+[06406.049]
+On ne fouille pas dans le passé des gens sans demander !
+
+[06406.050]
+Le ragoût maison de mamie Maggie. Il a l’air délicieux...
+
+[06406.051]
+Rien qu’une bouchée, j’aimerais goûter...
+
+[06406.054]
+Des toilettes propres, bien nettoyées !
+
+[06406.056]
+Il y a un bout de papier. « Arène de Neustadt : premier champion... »
+
+[06406.057]
+On ne fouille pas dans le passé des gens sans demander !
+
+[06406.059]
+Une porte suspecte, mais comment l’ouvrir ? Revenez l’examiner une fois l’outil en main.
+
+[06406.061]
+1re graine
+2e graine
+3e graine
+4e graine
+
+[06406.068]
+1re eau
+2e eau
+3e eau
+4e eau
+
+[06406.075]
+1er engrais
+2e engrais
+3e engrais
+4e engrais
+
+[06406.082]
+Bon voyage.
+
+[06406.083]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06406.084]
+Voulez-vous passer la nuit ?
+
+[06406.086]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06406.087]
+Reposez-vous bien.
+
+[06406.088]
+Bonjour.
+
+[06406.089]
+Vous n’avez pas assez d’argent.
+
+[06406.090]
+Au plaisir de vous revoir.
+
+[06406.095]
+Obtenu : {16:25 CE}.
+
+[06406.097]
+Obtenu : {08:FF FF FF FF}.
+
+[06406.099]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06406.101]
+Il n’y a rien ici.
+

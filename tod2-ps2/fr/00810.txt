@@ -1,0 +1,21 @@
+[00810.001]
+Hé, {NAME:01 00 00 00}. Si jamais tu croises Stahn ou Rutee, déguise-toi comme il faut, pour ne pas être démasqué.
+
+[00810.002]
+Ah ! C’est vrai ! ... Ah, mais comment faire ? Je n’ai rien pour me déguiser, moi...
+
+[00810.003]
+... Tu n’as qu’à emprunter le masque de {NAME:04 00 00 00}, non ?
+
+[00810.004]
+Ooh ! Ça, c’est une bonne idée ! Donc, {NAME:04 00 00 00}, ton masque, s’il te...
+
+[00810.005]
+Et l’on découvrirait qui je suis. Avant cela : qui reconnaîtrait un fils qui n’est pas encore né ? Réfléchis un peu.
+
+[00810.006]
+... Pff ! Aahahaha ! Hiii ! J’ai mal au ventre !
+
+[00810.007]
+Ah ! {NAME:03 00 00 00}, traître !
+

@@ -1,0 +1,21 @@
+[00494.001]
+Mais oui ! J’ai pigé le truc de ce monde !
+
+[00494.002]
+C’est vrai, {NAME:03 00 00 00} !?
+
+[00494.003]
+Oui, tout ça...... c’est un « rêve » ! Et vu comme c’est fait n’importe comment, c’est forcément « le rêve de {NAME:01 00 00 00} » ! ... Donc... réveille-toi ! Andouille !
+
+[00494.004]
+Aïe ! Mais je suis réveillé !!
+
+[00494.005]
+Non ! Tu rêves que tu es réveillé.
+
+[00494.006]
+Gloups !? Ah, c’était ça !
+
+[00494.007]
+Laissons-les : une ville !
+

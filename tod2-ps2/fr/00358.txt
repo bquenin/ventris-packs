@@ -1,0 +1,9 @@
+[00358.001]
+Booon, allons chercher {NAME:03 00 00 00} et {NAME:04 00 00 00}. Vraiment, ces deux-là, il faut tout le temps s’en occuper.
+
+[00358.002]
+Hi hi. Ils se fâcheraient s’ils t’entendaient.
+
+[00358.003]
+Hé hé, d’habitude c’est moi : j’en profite♪
+

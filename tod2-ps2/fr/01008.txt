@@ -1,0 +1,9 @@
+[01008.001]
+Dis, {NAME:01 00 00 00}. Tu sais où sont les Ruines de Laguna ?
+
+[01008.002]
+Hein ? C’était pas par ici ?
+
+[01008.003]
+Elles sont au sud de Cresta. Allez, demi-tour.
+

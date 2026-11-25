@@ -1,0 +1,6 @@
+[00454.001]
+Qu’est-ce qui s’est passé !? {NAME:02 00 00 00} n’est pas là, comment ça !?
+
+[00454.002]
+Du calme, {NAME:01 00 00 00}. Elle est peut-être chez Woodrow. Voyons la salle d’audience.
+

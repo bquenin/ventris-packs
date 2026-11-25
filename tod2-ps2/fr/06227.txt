@@ -1,0 +1,42 @@
+[06227.4788]
+Correct
+
+[06227.4797]
+Bœuf en trop
+
+[06227.4814]
+Fromage en trop
+
+[06227.4831]
+Pain en trop
+
+[06227.4850]
+Il manque le riz
+
+[06227.4867]
+Aucun
+
+[06227.4876]
+Pour ce plat, il faut
+Bœuf, Fromage et Pain :
+c’est correct ?
+
+[06227.4945]
+Oui !
+Quand il s’agit de manger,
+tu sais, hi hi
+
+[06227.5002]
+Non.
+Ce ne serait pas bon
+
+[06227.5032]
+Ça irait avec du riz ?
+
+[06227.5055]
+Tu prépares quoi ?
+
+[06227.5076]
+Ne fais pas que manger :
+apprends aussi la cuisine
+

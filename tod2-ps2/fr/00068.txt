@@ -1,0 +1,18 @@
+[00068.001]
+Tu sais, comme ça, on se croirait revenus en arrière. Au temps où on jouait souvent aux aventuriers ensemble.
+
+[00068.002]
+C’est vrai... ........ Pff... à bien y penser, je passe mon temps à garder {NAME:01 00 00 00}. Et toi, t’as toujours pas changé d’un poil...
+
+[00068.003]
+Si ! À l’époque, ce n’était qu’un jeu, mais plus maintenant. Cette fois, la vraie aventure, la route pour devenir un héros, a commencé...
+
+[00068.004]
+Oui, oui. Alors montre-moi que t’as grandi, par pitié. Te voir perdu et en larmes, j’en ai ma dose.
+
+[00068.005]
+! Quoi, à t’entendre, tout est de ma faute ! Si tu le penses, au lieu de me suivre sans rien dire, tu pourrais me dire par où aller !
+
+[00068.006]
+Si {NAME:01 00 00 00} écoutait, j’aurais moins de mal... Ça va, ça va ! Me fusille pas du regard. On suit cette fille, hein ? Avec {NAME:01 00 00 00}, ça peut virer à la romance...
+

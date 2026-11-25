@@ -1,0 +1,118 @@
+[06588.001]
+Dépôt de matériel
+
+[06588.002]
+Dépôt de matériel
+
+[06588.004]
+Ah, au-delà, c’est le laboratoire : pas la peine d’y aller.
+
+[06588.006]
+Le laboratoire ? Comment tu sais ça ?
+
+[06588.008]
+Je suis passée par ici autrefois... du temps où il n’y avait pas encore de gaz, et j’y ai jeté un œil. Je compte en faire un jour le centre de recherche des Swordians.
+
+[06588.010]
+Ah, au-delà, c’est le laboratoire : pas la peine d’y aller. Je compte en faire un jour le centre de recherche des Swordians.
+
+[06588.012]
+La porte est fermée.
+
+[06588.014]
+Un grand conteneur. Il semble verrouillé par trois clés : {08:33 00 00 00}, {08:34 00 00 00}, {08:35 00 00 00}.
+
+[06588.016]
+Avec les trois clés {08:33 00 00 00}, {08:34 00 00 00} et {08:35 00 00 00}, vous levez le verrou.
+
+[06588.018]
+Voyooons, les pièces qu’il me faut : une valve, une tuyère, du matériau réfractaire...
+
+[06588.020]
+Parfaaait, avec ça, j’ai largement de quoi faire. Il n’y a plus qu’à assembler.
+
+[06588.022]
+Avec ce tas de ferraille, tu peux vraiment fabriquer un engin volant ?
+
+[06588.024]
+Avec autant de matériaux ? N’importe qui y arriverait, non ?
+
+[06588.026]
+... Non, je crois que tu es la seule à en être capable.
+
+[06588.028]
+Tout le monde me dit ça. Je ne vois pas pourquoi.
+
+[06588.030]
+Bon, on a ce qu’il nous faut : on rentre, et vite.
+
+[06588.031]
+Temps écoulé
+
+[06588.033]
+Une clé pour lever le verrou de bas niveau. Il doit y en avoir deux autres pareilles.
+
+[06588.035]
+Ah, oui, au fait : ne sortez pas avec ça sur vous.
+
+[06588.037]
+Hein, pourquoi ?
+
+[06588.039]
+Ce truc craint les écarts de température. Dehors, dans le blizzard, il serait en miettes en un rien de temps.
+
+[06588.041]
+Une clé pour lever le verrou de bas niveau. Il doit y en avoir encore une pareille.
+
+[06588.043]
+Avec ces trois clés, on aura la Clé maîtresse. Elle doit être quelque part : cherchons.
+
+[06588.045]
+Voilà une clé du verrou de haut niveau.
+
+[06588.047]
+« Clé maîtresse », « Clé Cell », « Clé Bio » : en utilisant ces trois clés sur le conteneur de matériaux, on lève le verrou.
+
+[06588.049]
+Mais la « Clé Cell » et la « Clé Bio » craignent les écarts de température : interdiction de sortir. Dans un blizzard pareil, elles seraient en miettes d’un seul coup !
+
+[06588.050]
+Rien de particulier.
+
+[06588.051]
+Bon voyage.
+
+[06588.052]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06588.053]
+Voulez-vous passer la nuit ?
+
+[06588.055]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06588.056]
+Reposez-vous bien.
+
+[06588.057]
+Bonjour.
+
+[06588.058]
+Vous n’avez pas assez d’argent.
+
+[06588.059]
+Au plaisir de vous revoir.
+
+[06588.064]
+Obtenu : {16:25 F6}.
+
+[06588.066]
+Obtenu : {08:FF FF FF FF}.
+
+[06588.068]
+Trouvé : {16:25 FE}, mais vous n’avez plus de place.
+
+[06588.070]
+Il n’y a rien ici.
+

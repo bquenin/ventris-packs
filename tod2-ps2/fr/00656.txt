@@ -1,0 +1,21 @@
+[00656.001]
+Voilà, c’est prêt ! Je ne sais pas si ça plaira à des gens de cette époque, par contre.
+
+[00656.002]
+Mais si. Bravo, bravo ! Ça a l’air délicieux♪
+
+[00656.003]
+Ooh, quel festin ! Bon, eh bien, bon appétit~♪ ............ Au fait, {NAME:06 00 00 00}, tu ne cuisines pas, toi ? Savoir cuisiner, c’est indispensable pour être une femme accomplie.
+
+[00656.004]
+Préjugé d’homme. Et puis moi aussi, quand j’ai faim en pleine expérience, je cuisine. Seulement, perso~nne n’en mange.
+
+[00656.005]
+Tiens, pourquoi donc ?
+
+[00656.006]
+Comme je cuisine dans des béchers et des fioles, ça doit manquer d’allure, non ? ... Ou alors, c’est d’y tester parfois un nouveau médicament, le problème ?
+
+[00656.007]
+... Hé, {NAME:01 00 00 00}. Elle, jamais de corvée de cuisine...
+

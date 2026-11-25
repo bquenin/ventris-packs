@@ -1,0 +1,55 @@
+[06228.4788]
+Mangoustan
+
+[06228.4801]
+Carotte
+
+[06228.4810]
+Gelée pomme
+
+[06228.4823]
+Œuf
+
+[06228.4830]
+Cerise
+
+[06228.4841]
+Bar
+
+[06228.4846]
+Lequel de ces
+ingrédients va
+dans ce plat ?
+
+[06228.4891]
+Oui !
+Toutes sortes d’autres
+fruits y sont bons aussi
+
+[06228.4946]
+Non.
+Ça ferait une salade
+
+[06228.4974]
+Non.
+En garniture, ce
+serait amusant, mais...
+
+[06228.5023]
+Non.
+Tu veux faire un flan ?
+
+[06228.5053]
+... Hmm,
+cet ingrédient-là
+n’existe pas, pourtant...
+
+[06228.5106]
+Pas envie...
+de ça
+
+[06228.5130]
+Trop tard.
+Une occasion d’apprendre
+à cuisiner ?
+

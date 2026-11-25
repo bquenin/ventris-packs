@@ -1,0 +1,172 @@
+[06609.001]
+Dycroft
+
+[06609.002]
+Dycroft
+
+[06609.004]
+Jetez tous vos armes et rendez-vous !
+
+[06609.005]
+Soldat céleste
+
+[06609.006]
+L’armée terrestre ! ... C’est donc la fin.
+
+[06609.007]
+Commandant céleste
+
+[06609.008]
+Compris ! Nous nous rendons !
+
+[06609.010]
+Allez, ouvrez-nous la porte de la salle de contrôle.
+
+[06609.011]
+Soldat céleste
+
+[06609.012]
+Perdu... Qu’est-ce qu’on va devenir, maintenant ?
+
+[06609.014]
+On ne vous tuera pas. Seulement, une dure vie d’exil vous attend, pour un millier d’années à peu près.
+
+[06609.015]
+Soldat céleste
+
+[06609.016]
+Qu’est-ce qu’on va nous faire... On dit que ceux que l’armée terrestre capture ne reviennent pas vivants...
+
+[06609.017]
+Soldat céleste
+
+[06609.018]
+Toi, un simple homme de la terre, ne touche pas au Céleste que je suis !
+
+[06609.019]
+Soldat céleste
+
+[06609.020]
+Hmf ! Nous recommencerons une guerre au plus tôt, et nous enterrerons tous ces gens de la terre !
+
+[06609.021]
+Soldat céleste
+
+[06609.022]
+Désobéir à Miktran, c’était la mort... On ne pouvait pas refuser les ordres. Nous aussi, les soldats de l’armée céleste, nous sommes des victimes.
+
+[06609.023]
+Soldat céleste
+
+[06609.024]
+Il fallait bien ça pour survivre. Personne n’a envie de faire la guerre.
+
+[06609.025]
+Soldat céleste
+
+[06609.026]
+M-moi, on m’a fait travailler de force ! Je ne mens pas !
+
+[06609.027]
+Soldat céleste
+
+[06609.028]
+Dis, je t’en prie. Laisse-moi filer.
+
+[06609.029]
+Soldat céleste
+
+[06609.030]
+Vous avez eu de la chance, vous autres, de vous trouver du côté des vainqueurs.
+
+[06609.031]
+Gradé terrestre
+
+[06609.032]
+Colonel {NAME:06 00 00 00}, beau travail. Laissez-nous le soin d’évacuer ceux-là vers l’arrière.
+
+[06609.034]
+Je compte sur vous. ... Vous les remettez bien au quartier général, hein ?
+
+[06609.035]
+Gradé terrestre
+
+[06609.036]
+Allez, vous autres, on se déplace jusqu’au quartier général. Bombez le torse et marchez au pas !
+
+[06609.037]
+Troupier terrestre
+
+[06609.038]
+Il paraît que ça continue à tourner à l’avantage de notre armée. Il ne resterait que Miktran et les monstres de garde.
+
+[06609.039]
+Troupier terrestre
+
+[06609.040]
+Ça finit un peu en queue de poisson. Bah, si ça met fin à la guerre, tout me va.
+
+[06609.041]
+Troupier terrestre
+
+[06609.042]
+Regarde cette bague. Je l’ai prise tout à l’heure à un type qui se rendait.
+
+[06609.043]
+Troupier terrestre
+
+[06609.044]
+Prendre du butin aux vaincus, ça n’a rien de mal, tu sais. Regarde l’histoire des guerres : ça se fait partout et de tout temps.
+
+[06609.045]
+Troupier terrestre
+
+[06609.046]
+Vous aussi, prenez-leur donc quelque chose ! Profitons-en tous, mon frère.
+
+[06609.048]
+Obtenu : {08:FF FF FF FF}.
+
+[06609.049]
+Soldat céleste
+
+[06609.050]
+Que c’est cruel...
+
+[06609.051]
+Bon voyage.
+
+[06609.052]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06609.053]
+Voulez-vous passer la nuit ?
+
+[06609.055]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06609.056]
+Reposez-vous bien.
+
+[06609.057]
+Bonjour.
+
+[06609.058]
+Vous n’avez pas assez d’argent.
+
+[06609.059]
+Au plaisir de vous revoir.
+
+[06609.064]
+Obtenu : {16:25 CA}.
+
+[06609.066]
+Obtenu : {08:FF FF FF FF}.
+
+[06609.068]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06609.070]
+Il n’y a rien ici.
+

@@ -1,0 +1,133 @@
+[06446.001]
+Heidelberg
+
+[06446.002]
+Heidelberg
+
+[06446.004]
+Musée « Mémoire de la guerre du Ciel et de la Terre » : par ici
+
+[06446.006]
+Musée « Les troubles de l’Œil de Dieu » : par ici
+
+[06446.007]
+Miya
+
+[06446.008]
+Je suis Miya, architecte. Sur ordre du roi Woodrow, j’ai dessiné et bâti cette ville.
+
+[06446.009]
+Miya
+
+[06446.010]
+Vous avez une question sur cette ville ?
+
+[06446.012]
+{03:00 00 00 00}　Sur la ville neuve　
+　Sur la vieille ville　
+　Sur les symboles du relèvement　
+　Je m’en vais　
+
+[06446.013]
+Miya
+
+[06446.014]
+La ville neuve, c’est le quartier bâti par les réfugiés et les nouveaux venus après les troubles d’il y a dix-huit ans.
+
+[06446.015]
+Miya
+
+[06446.016]
+On a taillé dans l’ancien Heidelberg pour y faire des logements et des rues commerçantes. Un rude chantier, celui-là.
+
+[06446.017]
+Miya
+
+[06446.018]
+Ça en valait la peine : c’est devenu une grande ville, connue dans le monde entier. Rien ne me fait plus plaisir.
+
+[06446.019]
+Miya
+
+[06446.020]
+La vieille ville, c’est le quartier qui a tout juste survécu aux troubles d’il y a dix-huit ans.
+
+[06446.021]
+Miya
+
+[06446.022]
+Il y a plus de bâtiments anciens que dans la ville neuve, non ?
+
+[06446.023]
+Miya
+
+[06446.024]
+On y a travaillé en veillant à ne pas gâter le calme de la vieille capitale.
+
+[06446.025]
+Miya
+
+[06446.026]
+Pour qu’on n’oublie pas les troubles d’il y a dix-huit ans, et en mémoire du relèvement de la ville, on a créé des symboles.
+
+[06446.027]
+Miya
+
+[06446.028]
+Le premier, c’est la « Porte des Héros » : la porte géante entre la ville neuve et la vieille ville.
+
+[06446.029]
+Miya
+
+[06446.030]
+Elle abrite un musée et une bibliothèque. Si vous avez des recherches à faire, allez-y donc.
+
+[06446.031]
+Miya
+
+[06446.032]
+Le second, c’est le « parc du Souvenir » : le grand parc à côté du château de Heidelberg. Oublier les combats et s’y reposer tranquillement, ça a du bon aussi.
+
+[06446.033]
+Miya
+
+[06446.034]
+Maintenant que la ville est achevée, les peines d’autrefois sont de bons souvenirs.
+
+[06446.035]
+Bon voyage.
+
+[06446.036]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06446.037]
+Voulez-vous passer la nuit ?
+
+[06446.039]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06446.040]
+Reposez-vous bien.
+
+[06446.041]
+Bonjour.
+
+[06446.042]
+Vous n’avez pas assez d’argent.
+
+[06446.043]
+Au plaisir de vous revoir.
+
+[06446.048]
+Obtenu : {16:25 BE}.
+
+[06446.050]
+Obtenu : {08:FF FF FF FF}.
+
+[06446.052]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06446.054]
+Il n’y a rien ici.
+

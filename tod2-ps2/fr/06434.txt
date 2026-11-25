@@ -1,0 +1,1895 @@
+[06434.001]
+Heidelberg
+
+[06434.002]
+Heidelberg
+
+[06434.003]
+Heidelberg
+
+[06434.004]
+Heidelberg
+
+[06434.005]
+Heidelberg
+
+[06434.006]
+Heidelberg
+
+[06434.007]
+Heidelberg
+
+[06434.008]
+Heidelberg
+
+[06434.009]
+Heidelberg
+
+[06434.010]
+Enfant
+
+[06434.011]
+Ya ! Ha ! Toh !!
+
+[06434.012]
+Enfant
+
+[06434.013]
+Moi, je veux devenir fort comme le roi Woodrow, alors je m’entraîne !
+
+[06434.014]
+Enfant
+
+[06434.015]
+Je m’entraîne tous les jours, tu sais. Je me lève tôt pour faire de la gymnastique, je retiens ma respiration dans le bain...
+
+[06434.016]
+Enfant
+
+[06434.017]
+Je vais vite devenir fort comme le roi Woodrow !
+
+[06434.018]
+Enfant
+
+[06434.019]
+Moi, je deviendrai fort comme le roi Woodrow ! C’est pour ça que je m’entraîne !
+
+[06434.020]
+Enfant
+
+[06434.021]
+Il faut que j’aille aider le roi Woodrow ! Allez, c’est le moment de montrer mon entraînement...
+
+[06434.023]
+Arrête, c’est dangereux pour un enfant. Reste ici bien sagement.
+
+[06434.024]
+Enfant
+
+[06434.025]
+Le roi Woodrow nous protège tout le temps. Alors cette fois, c’est moi qui le protège !
+
+[06434.026]
+Enfant
+
+[06434.027]
+Le roi Woodrow est blessé, il paraît. Ça doit faire très mal. J’ai dit à papa que c’était grave.
+
+[06434.028]
+Enfant
+
+[06434.029]
+Et alors papa a dit : « Du coup, c’est à papa et à toi de tenir bon » !
+
+[06434.030]
+Enfant
+
+[06434.031]
+Alors moi, je tiens bon ! Je vais beaucoup aider à la maison aussi !
+
+[06434.032]
+Enfant
+
+[06434.033]
+L’entraînement pour devenir plus fort que le roi Woodrow, je fais une petite pause ! Là, j’aide à la maison !
+
+[06434.034]
+Enfant
+
+[06434.035]
+Ya ! Ha ! Toh !!
+
+[06434.036]
+Enfant
+
+[06434.037]
+Moi, je veux devenir fort comme le roi Woodrow, alors je m’entraîne !
+
+[06434.038]
+Enfant
+
+[06434.039]
+Le roi Woodrow, tu sais, il était très blessé, et il va déjà mieux ! Alors moi non plus, je ne lâche pas !
+
+[06434.040]
+Enfant
+
+[06434.041]
+Moi aussi, je veux vite devenir fort comme le roi Woodrow ! C’est pour ça que je m’entraîne !
+
+[06434.042]
+Enfant
+
+[06434.043]
+Ya ! Ha ! Toh !!
+
+[06434.044]
+Enfant
+
+[06434.045]
+Moi, je veux devenir fort comme le roi Woodrow, alors je m’entraîne !
+
+[06434.046]
+Enfant
+
+[06434.047]
+Je m’entraîne tous les jours, tu sais. Je me lève tôt pour faire de la gymnastique, je retiens ma respiration dans le bain...
+
+[06434.048]
+Enfant
+
+[06434.049]
+Je vais vite devenir fort comme le roi Woodrow !
+
+[06434.050]
+Enfant
+
+[06434.051]
+Moi, je deviendrai fort comme le roi Woodrow ! C’est pour ça que je m’entraîne !
+
+[06434.052]
+Jeune femme
+
+[06434.053]
+Même un homme comme le roi Woodrow a connu autrefois un chagrin d’amour, à ce qu’on dit.
+
+[06434.054]
+Jeune femme
+
+[06434.055]
+Repousser un homme aussi merveilleux : quel gâchis, non !
+
+[06434.056]
+Jeune femme
+
+[06434.057]
+Celle qui a repoussé le roi Woodrow, quel genre de femme était-ce donc...
+
+[06434.058]
+Jeune femme
+
+[06434.059]
+Aah ! Vous deux, vous avez rendez-vous ! Un rendez-vous ! Pas vrai !?
+
+[06434.060]
+Jeune femme
+
+[06434.061]
+La chance... Snif...
+
+[06434.062]
+Jeune femme
+
+[06434.063]
+Moi aussi, il faut vite que je trouve quelqu’un. Pour une célibataire, ce froid est rude...
+
+[06434.064]
+Jeune femme
+
+[06434.065]
+Cette explosion, tout à l’heure... J’ai comme un pressentiment. C’est mon intuition de femme qui me le dit.
+
+[06434.067]
+Mon intuition d’homme me le dit aussi. En tout cas, dépêchons !
+
+[06434.068]
+Jeune femme
+
+[06434.069]
+Cette explosion, tout à l’heure... J’ai comme un pressentiment. C’est mon intuition de femme qui me le dit.
+
+[06434.070]
+Jeune femme
+
+[06434.071]
+Dites, vous êtes au courant !? Le roi Woodrow a été attaqué, paraît-il !
+
+[06434.072]
+Jeune femme
+
+[06434.073]
+Blesser le roi Woodrow, lui... C’est donc quelqu’un de terrible qui est venu !?
+
+[06434.075]
+Terrible, c’est le mot. Barbatos, et Elraine aussi... !
+
+[06434.076]
+Jeune femme
+
+[06434.077]
+Blesser le roi Woodrow, lui... C’est donc quelqu’un de terrible qui est venu !?
+
+[06434.078]
+Jeune femme
+
+[06434.079]
+Même un homme comme le roi Woodrow a connu autrefois un chagrin d’amour, à ce qu’on dit.
+
+[06434.080]
+Jeune femme
+
+[06434.081]
+Repousser un homme aussi merveilleux : quel gâchis, non !
+
+[06434.082]
+Jeune femme
+
+[06434.083]
+Celle qui a repoussé le roi Woodrow, quel genre de femme était-ce donc...
+
+[06434.084]
+Homme
+
+[06434.085]
+Ouhahaha ! Qu’est-ce qu’il y a, mon gars ! T’en fais, une tête crispée !
+
+[06434.087]
+On est venus de Seinegald pour voir le Roi-Héros, mais j’ai le trac...
+
+[06434.088]
+Homme
+
+[06434.089]
+Pas la peine d’avoir le trac. Le roi Woodrow est un homme tout simple !
+
+[06434.090]
+Homme
+
+[06434.091]
+Quand on a le trac, on rit et on se détend, voilà ! Ouhahaha !
+
+[06434.092]
+Homme
+
+[06434.093]
+Ouhahaha ! Un rendez-vous, mademoiselle !? De quoi chasser le froid, ça !
+
+[06434.095]
+N-ne le dites pas si fort, s’il vous plaît !
+
+[06434.096]
+Homme
+
+[06434.097]
+Ah, la jeunesse, que c’est beau ! Ouhahaha ! Ouhahaha !
+
+[06434.098]
+Homme
+
+[06434.099]
+C’était quoi, cette explosion... On se croirait il y a dix-huit ans...
+
+[06434.100]
+Homme
+
+[06434.101]
+Vraiment, les gens d’ici, chapeau. Dès qu’ils ont su le château attaqué, ils ont tous couru aider.
+
+[06434.102]
+Homme
+
+[06434.103]
+Moi, j’ai repensé à il y a dix-huit ans, j’ai eu la trouille, et je n’ai rien pu faire... Ça ne va pas, ça !
+
+[06434.104]
+Homme
+
+[06434.105]
+Je ne tremblerai plus devant l’ombre d’il y a dix-huit ans ! Je ferai ce que je peux faire, moi ! À commencer par aider à rebâtir le château !
+
+[06434.106]
+Homme
+
+[06434.107]
+Ouhahaha ! Regarde, mon gars !
+
+[06434.109]
+Tout un attirail de charpentier... ?
+
+[06434.110]
+Homme
+
+[06434.111]
+Et comment ! C’est avec ça qu’on répare le château ! Avec un trou pareil, on doit y geler, non ?
+
+[06434.112]
+Homme
+
+[06434.113]
+Ce qui est cassé, on le répare ! Bah, c’est comme il y a dix-huit ans ! Cette fois, on en fera un château encore plus beau !
+
+[06434.114]
+Homme
+
+[06434.115]
+Ouhahaha ! Hé, mon gars ! Tu es de passage ?
+
+[06434.117]
+On est venus de Seinegald pour voir le Roi-Héros.
+
+[06434.118]
+Homme
+
+[06434.119]
+Ah, t’en fais pas ! Le roi Woodrow est un homme tout simple. Il te recevra, c’est sûr !
+
+[06434.120]
+Homme
+
+[06434.121]
+Avec l’air décidé que tu as, mon gars, tu lui plairas, au roi Woodrow ! Sois tranquille ! Ouhaha !
+
+[06434.122]
+Jeune
+
+[06434.123]
+Je pense m’engager comme chevalier au château de Heidelberg.
+
+[06434.124]
+Jeune
+
+[06434.125]
+Sans le roi Woodrow, nous serions morts il y a dix-huit ans, paraît-il.
+
+[06434.126]
+Jeune
+
+[06434.127]
+Alors cette fois, c’est moi qui veux devenir chevalier et protéger le roi Woodrow.
+
+[06434.128]
+Jeune
+
+[06434.129]
+Je veux devenir chevalier et protéger le roi Woodrow et les gens de ce pays.
+
+[06434.130]
+Jeune
+
+[06434.131]
+Mon père s’oppose à ce que je devienne chevalier...
+
+[06434.132]
+Jeune
+
+[06434.133]
+Mon père veut à tout prix que je reprenne le commerce familial.
+
+[06434.134]
+Jeune
+
+[06434.135]
+Dans ce monde en paix, on n’a nul besoin de devenir chevalier, dit-il...
+
+[06434.137]
+C’est vrai que le mieux, c’est quand il n’arrive rien, mais...
+
+[06434.138]
+Jeune
+
+[06434.139]
+Moi, je veux à tout prix devenir un chevalier qui protège tout le monde.
+
+[06434.140]
+Jeune
+
+[06434.141]
+Le château... ! C’est grave, il faut que j’y aille aussi !
+
+[06434.142]
+Jeune
+
+[06434.143]
+Moi aussi, je vais voir ce qui se passe au château !
+
+[06434.145]
+Un amateur ne ferait que gêner.
+
+[06434.146]
+Jeune
+
+[06434.147]
+C’est... vrai... Bon sang... Si j’étais devenu chevalier, moi aussi...
+
+[06434.148]
+Jeune
+
+[06434.149]
+Bon sang ! Si j’étais chevalier, c’est maintenant que je pourrais me rendre utile à tous... !
+
+[06434.150]
+Jeune
+
+[06434.151]
+J’aurais dû m’engager comme chevalier, quitte à passer outre le refus de mon père.
+
+[06434.152]
+Jeune
+
+[06434.153]
+Alors, quand les intrus sont entrés au château, j’aurais pu me battre avec les autres... !
+
+[06434.154]
+Jeune
+
+[06434.155]
+Le château est en pleine épreuve, et mon père continue sa vie de tous les jours... Ce n’est pas possible !
+
+[06434.156]
+Jeune
+
+[06434.157]
+Le château venait d’être attaqué, et mon père est parti acheter sa marchandise comme si de rien n’était : je me suis fâché.
+
+[06434.158]
+Jeune
+
+[06434.159]
+Mais j’avais tort... Cette marchandise, mon père la cédait au château à un prix dérisoire.
+
+[06434.160]
+Jeune
+
+[06434.161]
+À moi qui voulais être chevalier, mon père a dit : « Sans devenir chevalier, on peut protéger quelque chose. »
+
+[06434.162]
+Jeune
+
+[06434.163]
+J’ai enfin compris ce qu’il voulait dire : un marchand a sa façon à lui d’aider ce pays.
+
+[06434.164]
+Jeune
+
+[06434.165]
+Un marchand a sa façon à lui... Sans devenir chevalier, on peut rendre ce pays meilleur.
+
+[06434.166]
+Jeune
+
+[06434.167]
+Je pense m’engager comme chevalier au château de Heidelberg.
+
+[06434.168]
+Jeune
+
+[06434.169]
+Sans le roi Woodrow, nous serions morts il y a dix-huit ans, paraît-il.
+
+[06434.170]
+Jeune
+
+[06434.171]
+Alors cette fois, c’est moi qui veux devenir chevalier et protéger le roi Woodrow.
+
+[06434.172]
+Jeune
+
+[06434.173]
+Je veux devenir chevalier et protéger le roi Woodrow et les gens de ce pays.
+
+[06434.174]
+Homme
+
+[06434.175]
+Haah~. Ma bourse est si froide que j’en ai le cœur gelé.
+
+[06434.176]
+Homme
+
+[06434.177]
+On m’a dit que la neige était rare dans les autres pays, alors j’en ai chargé un bateau pour aller la vendre.
+
+[06434.178]
+Homme
+
+[06434.179]
+Et avant d’arriver, presque tout avait fondu : une perte énorme...
+
+[06434.180]
+Homme
+
+[06434.181]
+Il n’y aurait pas un moyen plus simple de gagner de l’argent...
+
+[06434.182]
+Homme
+
+[06434.183]
+J’ai trouvé comment emporter la neige dans les autres pays sans qu’elle fonde.
+
+[06434.184]
+Homme
+
+[06434.185]
+En la refroidissant avec beaucoup de glace, on l’emmène dans les autres pays sans qu’elle fonde.
+
+[06434.186]
+Homme
+
+[06434.187]
+Et vendue dans un pays sans neige, me voilà riche en un rien de temps !!
+
+[06434.189]
+Mais... la glace ne va-t-elle pas fondre avec...
+
+[06434.190]
+Homme
+
+[06434.191]
+Ah...
+
+[06434.192]
+Homme
+
+[06434.193]
+Il n’y aurait pas moyen de gagner de l’argent sans se fatiguer...
+
+[06434.194]
+Homme
+
+[06434.195]
+Là, je ne sais pas ce que c’est, mais j’ai eu une idée formidable !!
+
+[06434.196]
+Homme
+
+[06434.197]
+Je cherchais comment faire fortune, et un grand « boum » m’a résonné dans la tête !!
+
+[06434.198]
+Homme
+
+[06434.199]
+Ce ne serait pas le bruit d’une idée formidable ?
+
+[06434.201]
+Ce ne serait pas plutôt l’explosion qui a résonné du côté du château...
+
+[06434.202]
+Homme
+
+[06434.203]
+J’ai l’impression d’avoir eu une idée formidable, mais je ne sais pas laquelle...
+
+[06434.204]
+Homme
+
+[06434.205]
+Haah~. Ma bourse est si froide que j’en ai le cœur gelé.
+
+[06434.206]
+Homme
+
+[06434.207]
+Pas un sou... je veux du blé... Quel froid... du blé... du blé d’hiver !
+
+[06434.208]
+Homme
+
+[06434.209]
+... Enfin, je dis ça comme ça...
+
+[06434.210]
+Homme
+
+[06434.211]
+Haah~. Ma bourse est si froide que j’en ai le cœur gelé.
+
+[06434.212]
+Jeune femme
+
+[06434.213]
+Moi, je veux devenir guide touristique. Vous voulez bien m’écouter m’exercer à présenter les curiosités ?
+
+[06434.215]
+{03:00 00 00 00}　L’écouter　
+　Pas le temps　
+
+[06434.216]
+Jeune femme
+
+[06434.217]
+Alors j’y vais. Euh, hum !
+
+[06434.218]
+Jeune femme
+
+[06434.219]
+Cette porte, appelée la « Porte des Héros », a été bâtie pour fêter la fin des derniers troubles.
+
+[06434.220]
+Jeune femme
+
+[06434.221]
+De part et d’autre de cette porte, on appelle le côté du château la vieille ville, et le côté extérieur la ville neuve.
+
+[06434.222]
+Jeune femme
+
+[06434.223]
+La vieille ville, ce sont les rues d’autrefois. On y trouve beaucoup de bâtiments anciens, et un parc où les gens viennent se détendre.
+
+[06434.224]
+Jeune femme
+
+[06434.225]
+La ville neuve a été créée pour accueillir les habitants de Janos et de Cyril, détruites après les troubles d’il y a dix-huit ans.
+
+[06434.226]
+Jeune femme
+
+[06434.227]
+La « Porte des Héros », qui relie ces deux villes, est un monument : le symbole du nouveau Heidelberg.
+
+[06434.228]
+Jeune femme
+
+[06434.229]
+Au-dessus de la porte se trouve aussi un musée-bibliothèque, riche en documents sur les derniers troubles et sur la guerre du Ciel et de la Terre.
+
+[06434.230]
+Jeune femme
+
+[06434.231]
+... Voilà ! Ouf ! Aujourd’hui, je ne me suis pas trompée une seule fois !
+
+[06434.232]
+Jeune femme
+
+[06434.233]
+Dommage... Quand vous aurez un moment, faites-moi signe !
+
+[06434.234]
+Jeune femme
+
+[06434.235]
+Quoi, c’était quoi, ça !? Du côté du château... non ?
+
+[06434.236]
+Jeune femme
+
+[06434.237]
+Haa... c’est fini, tout est fini. Moi qui avais tant étudié pour devenir guide touristique...
+
+[06434.238]
+Jeune femme
+
+[06434.239]
+Le château a été attaqué : plus personne ne viendra visiter, c’est sûr...
+
+[06434.241]
+Mais... le roi Woodrow, lui, n’a pas renoncé, j’en suis sûr ! Alors vous non plus, il ne faut pas lâcher !
+
+[06434.242]
+Jeune femme
+
+[06434.243]
+Le roi Woodrow n’a pas renoncé... ? Avec le château dans cet état ?
+
+[06434.245]
+Si tu veux être guide, tu dois le savoir : s’il était homme à renoncer facilement, ce pays ne se serait jamais relevé à ce point.
+
+[06434.246]
+Jeune femme
+
+[06434.247]
+C’est vrai... oui. On s’est bien relevés il y a dix-huit ans, alors cette fois aussi !
+
+[06434.248]
+Jeune femme
+
+[06434.249]
+On s’est bien relevés après les troubles d’il y a dix-huit ans : cette fois aussi, on s’en sortira peut-être !
+
+[06434.250]
+Jeune femme
+
+[06434.251]
+Moi, je veux devenir guide touristique. Vous voulez bien m’écouter m’exercer à présenter les curiosités ?
+
+[06434.253]
+{03:00 00 00 00}　L’écouter　
+　Pas le temps　
+
+[06434.254]
+Jeune femme
+
+[06434.255]
+Alors j’y vais. Euh, hum !
+
+[06434.256]
+Jeune femme
+
+[06434.257]
+L’autre jour, le château de Heidelberg a subi une attaque mystérieuse, et son beffroi a été détruit.
+
+[06434.258]
+Jeune femme
+
+[06434.259]
+Dans le même temps, le roi Woodrow lui-même a été blessé.
+
+[06434.260]
+Jeune femme
+
+[06434.261]
+Mais le peuple de Phandaria, loin de s’abîmer dans le chagrin, reprend de lui-même le chemin du renouveau.
+
+[06434.262]
+Jeune femme
+
+[06434.263]
+Il le fait comme après les troubles d’il y a dix-huit ans, non, avec une volonté plus forte encore.
+
+[06434.264]
+Jeune femme
+
+[06434.265]
+Le château porte encore ses plaies, mais les sourires et l’espoir des gens n’ont pas changé. Ils brillent même plus qu’avant.
+
+[06434.266]
+Jeune femme
+
+[06434.267]
+À vous qui êtes venus en de telles circonstances : regardez, je vous prie, non seulement le château, mais les gens.
+
+[06434.268]
+Jeune femme
+
+[06434.269]
+Car notre fierté, ce n’est pas le seul château de Heidelberg : ce sont tous ceux qui vivent dans cette ville.
+
+[06434.270]
+Jeune femme
+
+[06434.271]
+... Voilà ! Alors, c’était comment ?
+
+[06434.273]
+Je trouve ça très bien ! Ce sont les gens qui font le charme de cette ville, et son trésor, c’est ça !
+
+[06434.274]
+Jeune femme
+
+[06434.275]
+Oui, oui ! C’est ce que je voulais dire ! Bon, c’est parfait comme ça !
+
+[06434.276]
+Jeune femme
+
+[06434.277]
+Dommage... Quand vous aurez un moment, faites-moi signe !
+
+[06434.278]
+Jeune femme
+
+[06434.279]
+Moi, je veux devenir guide touristique. Vous voulez bien m’écouter m’exercer à présenter les curiosités ?
+
+[06434.281]
+{03:00 00 00 00}　L’écouter　
+　Pas le temps　
+
+[06434.282]
+Jeune femme
+
+[06434.283]
+Alors j’y vais. Euh, hum !
+
+[06434.284]
+Jeune femme
+
+[06434.285]
+Cette porte, appelée la « Porte des Héros », a été bâtie pour fêter la fin des derniers troubles.
+
+[06434.286]
+Jeune femme
+
+[06434.287]
+De part et d’autre de cette porte, on appelle le côté du château la vieille ville, et le côté extérieur la ville neuve.
+
+[06434.288]
+Jeune femme
+
+[06434.289]
+La vieille ville, ce sont les rues d’autrefois. On y trouve beaucoup de bâtiments anciens, et un parc où les gens viennent se détendre.
+
+[06434.290]
+Jeune femme
+
+[06434.291]
+La ville neuve a été créée pour accueillir les habitants de Janos et de Cyril, détruites après les troubles d’il y a dix-huit ans.
+
+[06434.292]
+Jeune femme
+
+[06434.293]
+La « Porte des Héros », qui relie ces deux villes, est un monument : le symbole du nouveau Heidelberg.
+
+[06434.294]
+Jeune femme
+
+[06434.295]
+Au-dessus de la porte se trouve aussi un musée-bibliothèque, riche en documents sur les derniers troubles et sur la guerre du Ciel et de la Terre.
+
+[06434.296]
+Jeune femme
+
+[06434.297]
+... Voilà ! Ouf ! Aujourd’hui, je ne me suis pas trompée une seule fois !
+
+[06434.298]
+Jeune femme
+
+[06434.299]
+Dommage... Quand vous aurez un moment, faites-moi signe !
+
+[06434.301]
+C’est donc ça, Heidelberg ! Une ville immense, digne du Roi-Héros qui la gouverne !
+
+[06434.303]
+Hé hé hé... c’est sûr. Le monde a beau être vaste, des villes de cette taille, il n’y a que celle-ci et Aigrette.
+
+[06434.305]
+Mais ce n’est pas la même impression qu’à Aigrette. Je ne saurais pas bien dire...
+
+[06434.307]
+Et puis zut, allons vite voir le roi Woodrow !
+
+[06434.309]
+Il est comment, tu crois ? Qu’est-ce que j’ai hâte !
+
+[06434.311]
+{NAME:01 00 00 00} !!
+
+[06434.313]
+{NAME:02 00 00 00}...
+
+[06434.315]
+Haa, haa... Vraiment ! Tu cours tellement vite, {NAME:01 00 00 00} !
+
+[06434.317]
+... {NAME:02 00 00 00}. Pardon.
+
+[06434.319]
+... Hein ?
+
+[06434.321]
+Je t’ai rencontrée au fond des ruines, {NAME:02 00 00 00}, puis on a voyagé dans tant d’endroits, et je me croyais devenu grand.
+
+[06434.323]
+Le roi Woodrow m’a dit : « Tu deviendras peut-être un héros », et je me suis cru reconnu.
+
+[06434.325]
+... Mais ce n’était que ça. Je n’ai dépassé ni papa ni maman. Je n’ai sauvé personne.
+
+[06434.327]
+Même quand tu étais en peine, {NAME:02 00 00 00}, moi, je ne faisais que m’emballer... Je ne suis qu’un gamin, quoi.
+
+[06434.329]
+{NAME:01 00 00 00}...
+
+[06434.331]
+{NAME:04 00 00 00} me l’a dit, et je me suis rendu compte que j’étais vraiment bête, et j’ai eu honte...
+
+[06434.333]
+Ah, mais ça va, maintenant ! Ne t’inquiète pas, rentre devant.
+
+[06434.335]
+Et toi, {NAME:01 00 00 00} ?
+
+[06434.337]
+Moi, je vais marcher un peu, me rafraîchir les idées.
+
+[06434.339]
+... Dis, {NAME:01 00 00 00}. Je peux marcher avec toi ?
+
+[06434.341]
+Oui, si tu veux, mais...
+
+[06434.343]
+C’est décidé ! Allons-y, {NAME:01 00 00 00} !
+
+[06434.345]
+Un tonneau énorme, haut comme un homme. Dedans... des matériaux de construction, semble-t-il.
+
+[06434.347]
+Beaucoup de caisses en bois sont empilées devant la boutique.
+
+[06434.349]
+Pour la nuit, c’est ici ! « Adventurers’ Inn »
+
+[06434.350]
+Du bois est empilé. Pour l’auberge, sans doute.
+
+[06434.351]
+Un fagot de bois. Du matériel de l’auberge, sans doute.
+
+[06434.354]
+Un ours de Kanbara en bois sculpté, ça vous dit ? « Thousand Cross »
+
+[06434.356]
+Parmi les matériaux, voici un objet gelé : {08:60 00 00 00}.
+
+[06434.358]
+Gelé... {08:60 00 00 00}... Ils ne plantaient quand même pas des clous avec ça... si... ?
+
+[06434.360]
+Obtenu : {08:60 00 00 00}.
+
+[06434.362]
+Ni marteau ni maillet en vue. Ils plantaient donc bien des clous avec cet objet gelé : {08:60 00 00 00}.
+
+[06434.364]
+Une offre d’emploi est affichée. « 5e tranche des travaux d’agrandissement de la ville neuve. Durée... »
+
+[06434.366]
+Sous la bâche, des briques noires étaient empilées. Elles serviront aussi de matériaux.
+
+[06434.367]
+Du bois de chauffage s’entasse en une vraie montagne.
+
+[06434.368]
+Une étiquette de prix était collée sur le bois. « 1 Gald la bûche, 9 Gald les 10 »
+
+[06434.371]
+L’enseigne du magasin d’équipement. « Soul & Sword »
+
+[06434.373]
+Un feu brûle dans le bidon.
+
+[06434.375]
+Un feu brûle dans le bidon.
+
+[06434.377]
+Un dépôt d’ordures. Un avis est affiché : « Ne jetez pas ici vos déchets de cuisine ! »
+
+[06434.379]
+Ah, on a jeté un poisson. On n’a pas le droit de le jeter ici. Bon ! Je vais aller le jeter là où il faut !
+
+[06434.381]
+Ce n’est pas du tout que j’aie eu envie de le manger !
+
+[06434.383]
+Obtenu : {08:52 00 00 00}.
+
+[06434.385]
+Un dépôt d’ordures. Un avis est affiché : « Ne jetez pas ici vos déchets de cuisine ! »
+
+[06434.386]
+Jeune
+
+[06434.387]
+Bienvenue à Heidelberg. C’est la ville la plus chaleureuse du monde !
+
+[06434.389]
+Chaleureuse... vraiment ? Moi, je trouve qu’il y fait bien froid...
+
+[06434.390]
+Jeune
+
+[06434.391]
+Ha ha ha ! Ça, c’est le climat, non ? Moi, je parle du cœur des gens !
+
+[06434.392]
+Jeune
+
+[06434.393]
+Promenez-vous un peu en ville. Vous comprendrez ce que je veux dire !
+
+[06434.394]
+Jeune
+
+[06434.395]
+Pour le climat, la plus froide du monde ; pour le cœur des gens, la plus chaude. C’est ça, Heidelberg.
+
+[06434.396]
+Jeune
+
+[06434.397]
+Hé, ça chauffe entre vous deux ! Le froid s’envole d’un coup !
+
+[06434.399]
+Oh... ! N-ne nous taquinez pas !
+
+[06434.400]
+Jeune
+
+[06434.401]
+À vous regarder tous les deux, moi aussi, j’ai tout chaud.
+
+[06434.402]
+Jeune
+
+[06434.403]
+Qu-qu’est-ce que c’était, ce bruit !? On aurait dit une explosion...
+
+[06434.405]
+Pas « on aurait dit » : c’en était une. {NAME:01 00 00 00}, vite, au château !
+
+[06434.406]
+Jeune
+
+[06434.407]
+Qu-qu’est-ce que c’était, ce bruit !? On aurait dit une explosion...
+
+[06434.408]
+Jeune
+
+[06434.409]
+Bienvenue à Heidelberg. C’est la ville la plus chaleureuse du monde !
+
+[06434.411]
+........
+
+[06434.412]
+Jeune
+
+[06434.413]
+Tiens ? Toi, tu as le cœur bien froid, on dirait...
+
+[06434.414]
+Jeune
+
+[06434.415]
+Promène-toi un peu en ville. Au contact de la chaleur des gens d’ici, ton cœur se réchauffera bien un peu.
+
+[06434.416]
+Jeune
+
+[06434.417]
+Bienvenue à Heidelberg. C’est la ville la plus chaleureuse...
+
+[06434.419]
+Dites, vous n’avez pas vu une fille !? Les cheveux courts, habillée en rose !
+
+[06434.420]
+Jeune
+
+[06434.421]
+Ah, cette jeune fille a quitté la ville tôt ce matin...
+
+[06434.422]
+Jeune
+
+[06434.423]
+Une jeune fille aux cheveux courts, habillée en rose, a quitté la ville tôt ce matin... Il s’est passé quelque chose ?
+
+[06434.424]
+Jeune
+
+[06434.425]
+Vous arrivez à un mauvais moment, voyageurs. C’est que, l’autre jour, Sa Majesté le roi Woodrow a été attaqué.
+
+[06434.427]
+Quoi, encore !? ... Ah, mais oui. Il ne s’est presque pas écoulé de temps, depuis.
+
+[06434.428]
+Jeune
+
+[06434.429]
+Vous arrivez à un mauvais moment, voyageurs. C’est que, l’autre jour, Sa Majesté le roi Woodrow a été attaqué.
+
+[06434.430]
+Jeune
+
+[06434.431]
+Bienvenue à Heidelberg ! Cette ville, voyez-vous...
+
+[06434.433]
+Pardon, on n’a pas le temps ! Au revoir !
+
+[06434.434]
+Jeune
+
+[06434.435]
+... Euh, c’est la ville la plus chaude du monde, et...
+
+[06434.436]
+Jeune
+
+[06434.437]
+Bienvenue à Heidelberg ! Cette ville, voyez-vous...
+
+[06434.439]
+Pardon, on n’a pas le temps ! Au revoir !
+
+[06434.440]
+Jeune
+
+[06434.441]
+Bienvenue à Heidelberg. C’est la ville la plus chaleureuse du monde !
+
+[06434.443]
+Ch-chaleureuse ? Dis pas de bêtises. Avec un froid pareil...
+
+[06434.445]
+Mais non, {NAME:03 00 00 00}. Il veut dire que les gens d’ici ont le cœur chaud.
+
+[06434.446]
+Jeune
+
+[06434.447]
+Tu es fort, toi ! Tu as bien compris ce que je voulais dire !
+
+[06434.448]
+Jeune
+
+[06434.449]
+Tu es fort, toi ! Comprendre ce que je voulais dire !
+
+[06434.451]
+Tiens... pourquoi donc ? Ça m’est venu comme ça...
+
+[06434.453]
+Dans une ville où on vient pour la première fois, on devine ça, d’habitude ?
+
+[06434.454]
+Jeune
+
+[06434.455]
+Tu es fort, toi ! Comprendre ce que je voulais dire !
+
+[06434.457]
+Tout est fini, comme ça, tu crois ?
+
+[06434.459]
+Barbatos est vaincu : on aimerait le croire, en tout cas.
+
+[06434.461]
+............ ............
+
+[06434.463]
+En tout cas, allons voir le roi Woodrow. Il faut lui parler des Lentilles qui ont été emportées.
+
+[06434.465]
+Mieux vaut ne pas quitter la ville pour l’instant.
+
+[06434.466]
+Vétéran
+
+[06434.467]
+Bleu
+
+[06434.469]
+Leur sujet semble être : « l’attaque à l’arme ». Écouter ?
+
+[06434.470]
+Bon, nous aussi, on va se lancer dans l’aventure. Tu as les bases ?
+
+[06434.471]
+Évidemment, quoi ! J’attaque à l’arme à fond avec {09:45 00 00 00} !!
+
+[06434.472]
+Certes, mais combine-le avec les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00}, et tu obtiens quatre sortes d’attaques !
+
+[06434.473]
+Commence par les essayer vraiment plusieurs fois, pour apprendre leur vitesse et leur portée.
+
+[06434.474]
+Et pour attaquer plusieurs fois de suite, on fait comment ?
+
+[06434.475]
+Il suffit de rappuyer sur {09:45 00 00 00} pendant l’attaque. Et bien sûr, les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00} changent la façon d’attaquer.
+
+[06434.476]
+Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge bleue{04:07 00 00 00} en combat.) Si elle tombe trop bas, mieux vaut cesser d’attaquer et attendre qu’elle remonte.
+
+[06434.477]
+Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
+
+[06434.478]
+Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+
+[06434.479]
+Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
+
+[06434.481]
+Leur sujet semble être : « les artes ». Écouter ?
+
+[06434.482]
+Alors, maintenant que tu as appris des artes, ta stratégie a gagné en ampleur, non ?
+
+[06434.483]
+Les artes {09:46 00 00 00}, c’est costaud, mais les TP filent tout de suite, quoi. Ils remontent tout seuls en combat, mais je suis encore faiblard, alors c’est lent.
+
+[06434.484]
+Certes. C’est là que comptent les attaques normales avec {09:45 00 00 00}. Chaque attaque normale qui touche rend 1 TP.
+
+[06434.485]
+Alors attaques normales {09:45 00 00 00} à fond, quoi !
+
+[06434.486]
+... Garder des TP en trop, c’est du gâchis aussi. L’important est de bien s’en servir : lancer un sort pour laisser remonter les SP, par exemple.
+
+[06434.487]
+Les TP remontent aussi un peu quand on abat un ennemi. Et si on en abat plusieurs d’un coup pendant un enchaînement, on en récupère davantage.
+
+[06434.489]
+Leur sujet semble être : « les enchantements ». Écouter ?
+
+[06434.490]
+J’ai appris un enchantement aussi.
+
+[06434.491]
+... Et c’est quoi, un enchantement ?
+
+[06434.492]
+Hm. Pour faire simple : « le pouvoir de régler à son goût les artes et les sorts qu’on connaît ».
+
+[06434.493]
+D’abord, sers-t’en sans cesse pour faire monter le nombre d’usages ! Tu pourras alors équiper toutes sortes d’enchantements.
+
+[06434.494]
+Alors j’utilise un seul arte à fond, quoi.
+
+[06434.495]
+C’est une méthode. Mais on ne change pas d’enchantement en plein combat. Mettre des enchantements variés sur beaucoup d’artes n’est pas mal non plus.
+
+[06434.496]
+Lancer un sort qui affaiblit l’ennemi, puis foncer l’arme au poing... En maîtrisant artes et sorts, la stratégie s’élargit. ... On peut aussi se compléter entre compagnons.
+
+[06434.497]
+Au fait, retirer un enchantement équipé rend les usages : tu as tout intérêt à faire des essais.
+
+[06434.498]
+Mon arte préféré touche pas souvent, alors pour compenser, je lui mets un enchantement de précision.
+
+[06434.499]
+... Dans ton cas, tu frappes simplement dans le vide. Un coup dans le vide ne compte pas comme usage : c’est du gâchis !
+
+[06434.500]
+Et un sort de soin ne gagne un usage que « lancé sur une cible à 50 % de HP ou moins ». Attention !!
+
+[06434.501]
+C’est sûr, s’en servir pour une égratignure, ça forme pas, quoi.
+
+[06434.503]
+Leur sujet semble être : « la stratégie de combat ». Écouter ?
+
+[06434.504]
+Décidons de nos stratégies pour faire face à n’importe quel ennemi ! Que fais-tu si surgit « un ennemi à la défense solide » ?
+
+[06434.505]
+Tout le monde lance des sorts à fond, quoi.
+
+[06434.506]
+Les sorts, ce n’est pas mal, mais si tout le monde incante, on se fait rosser à loisir. Mieux vaut garder quelqu’un à l’avant.
+
+[06434.507]
+Et si « l’arrière-garde ennemie lance des sorts puissants » ?
+
+[06434.508]
+Ça, je l’ai appris par cœur hier. Avec « Bloque les sorts », on gêne leur incantation.
+
+[06434.509]
+C’est à peu près ça.
+
+[06434.510]
+On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
+
+[06434.511]
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+
+[06434.513]
+Leur sujet semble être : « le Technical Smash ». Écouter ?
+
+[06434.514]
+C’est quoi, un Technical Smash ?
+
+[06434.515]
+Hm. Porte « un coup de grâce éblouissant », de ceux que saluent même les pros du combat, et il est homologué Technical Smash.
+
+[06434.516]
+Abats un ennemi d’un Technical Smash et, tant c’est beau sans doute, tes chances d’obtenir un objet bondissent. C’est du moins ce que tout le monde raconte.
+
+[06434.517]
+Ce doit être vrai.
+
+[06434.518]
+Avec les enchaînements, ou en en abattant plusieurs d’un coup, ça sort à fond, quoi.
+
+[06434.519]
+Hm. « Achever par un enchaînement » est capital. Au moment du coup de grâce, tous les SP dépensés dans cet enchaînement reviennent. Même après un long enchaînement, on se remet d’aplomb.
+
+[06434.520]
+Alors les artes additionnels et tout ça, je les garde pour achever.
+
+[06434.521]
+Si tu manques de SP, c’est une bonne idée.
+
+[06434.522]
+L’ennui des enchantements d’Action, c’est qu’ils coûtent des SP ; savoir user du coup de grâce est la voie du maître.
+
+[06434.524]
+Leur sujet semble être : « les Spirits ». Écouter ?
+
+[06434.525]
+J’attaque, et l’ennemi pare tout à fond, quoi.
+
+[06434.526]
+Les ennemis à forte esquive sont une plaie. Les toucher par des sorts est une stratégie, mais certains sont du genre à faire fondre tes Spirits en une seule attaque.
+
+[06434.527]
+Pousse-les à frapper dans le vide pour user leurs Spirits, et leur esquive baisse aussi... C’est une ouverture à viser.
+
+[06434.528]
+Moi, avec le Press Guard, {09:47 00 00 00} et {09:1D 00 00 00}, je fais baisser leurs SP exprès.
+
+[06434.529]
+L’ennui, c’est que tu le fais aussi au milieu de leurs enchaînements. Le Press Guard se place sur la dernière attaque de l’ennemi. Il lui retire pas moins de 20 SP. Apprends à lire ses attaques.
+
+[06434.530]
+Si tu as réglé l’affichage de la cible dans les Options, plus le curseur est clair, plus ses SP sont hauts. Tu peux jauger les SP de l’ennemi tout en te battant.
+
+[06434.532]
+Leur sujet semble être : « les coups consécutifs ». Écouter ?
+
+[06434.533]
+C’est quoi, des coups consécutifs ?
+
+[06434.534]
+Blesse de nouveau un ennemi avant qu’il ne se remette en garde, et le nombre de coups s’additionne et s’affiche.
+
+[06434.535]
+Et si j’en place plein, il se passe quoi ?
+
+[06434.536]
+Hm. Ton record de coups influe sur l’expérience gagnée. Car une si belle série d’attaques est une expérience qui surpasse toutes les autres.
+
+[06434.537]
+Pour un nombre de coups plus élevé, la coordination avec tes compagnons est indispensable. Indépendamment du nombre de coups, chaque « sorte d’attaque » différente s’ajoute au CHAIN.
+
+[06434.538]
+Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
+
+[06434.539]
+En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+
+[06434.541]
+Leur sujet semble être : « la zone d’influence ». Écouter ?
+
+[06434.542]
+Je pensais qu’attaquer l’ennemi par-derrière serait un avantage, mais va savoir, ça fatigue.
+
+[06434.543]
+Hm. C’est la cohésion avec tes compagnons qui te donne du cœur, Spirits compris. Quand l’ennemi vous sépare, toutes sortes de récupérations ralentissent, semble-t-il.
+
+[06434.544]
+Si tu te retrouves malgré toi à droite de l’ennemi, reviens à gauche d’un pas en arrière avec {09:47 00 00 00} + {09:19 00 00 00}.
+
+[06434.545]
+Autant pas passer derrière, alors, quoi.
+
+[06434.546]
+En gros, tu peux voir les choses ainsi. Mais quand tu sauras lire le combat, tu pourras peut-être y faire un travail qui compense la pénalité.
+
+[06434.547]
+La théorie a pas toujours raison, quoi.
+
+[06434.548]
+Il t’arrive de dire des choses sensées.
+
+[06434.549]
+Trop vétéran
+
+[06434.550]
+Fils
+
+[06434.552]
+Leur sujet semble être : « les altérations d’état ». Écouter ?
+
+[06434.553]
+Me voilà frappé d’une altération d’état en plein combat. Et pas la moindre Fiole de panacée. Serait-ce la fin, ma foi...
+
+[06434.554]
+Il ne faut pas renoncer, père. Même frappé d’une altération en combat, on en guérit avec le temps, paraît-il.
+
+[06434.555]
+Les altérations ont des niveaux : même avec un équipement préventif, il arrive qu’on ne puisse les atténuer assez et qu’on les subisse. Il faut rester prudent.
+
+[06434.556]
+Mmh... Faut-il donc que je reparte au combat ? C’est rude, ma foi...
+
+[06434.557]
+Le mieux est d’avoir sous la main un plat qui guérit les altérations, père. Il existe aussi, semble-t-il, des plats et des objets qui les préviennent.
+
+[06434.558]
+Trop tard, ma foi ! Poison {09:56 00 00 00}, paralysie {09:5F 00 00 00}, faiblesse {09:5A 00 00 00}, gel et lenteur : je n’en peux plus !
+
+[06434.559]
+Il ne faut pas mentir, père. Quatre altérations au plus peuvent rester sur une même personne. Et augmenter ses capacités par un enchantement fait parfois disparaître le poison.
+
+[06434.560]
+De plus, le gel et la lenteur guérissent à la fin du combat.
+
+[06434.561]
+C’est juste. Et la lenteur, ma foi, je l’avais dès le départ.
+
+[06434.562]
+Hahahahahahahaha
+hahahahahahahaha
+
+[06434.563]
+(Il rit un peu trop, ce me semble...)
+
+[06434.564]
+Trop vétéran
+
+[06434.565]
+Fils
+
+[06434.567]
+Leur sujet semble être : « le Spirits Blaster ». Écouter ?
+
+[06434.568]
+Même au pied du mur, en Spirits Blaster, on tient sa chance de tout renverser, ma foi.
+
+[06434.569]
+Pour passer en Spirits Blaster, père, il est efficace de toucher l’ennemi sans se faire parer. Encaisser des coups y mène aussi, mais pour vous, père, c’est dangereux.
+
+[06434.570]
+Même avec mes forces déclinantes, en Spirits Blaster, j’attaque sans chanceler, ma foi.
+
+[06434.571]
+Tout de même, père, l’effet cesse quand les HP tombent à zéro, et recevoir une magie de soin l’abrège.
+
+[06434.572]
+Je ne m’arrête pas à ces détails. Mon plus bel arte mystique ne se montre qu’en Spirits Blaster.
+
+[06434.573]
+Non, père. Certes, un arte mystique coûte beaucoup de SP, mais en profitant des SP rendus par un ennemi abattu, on parvient parfois à le placer, semble-t-il.
+
+[06434.574]
+Cela dit, certains archers profiteraient de l’état Spirits Blaster pour placer un arte mystique au lieu d’un sort additionnel, père.
+
+[06434.575]
+Enfin, même si l’arte arcane touche, on ne passe pas à l’arte mystique si l’ennemi ne chancelle pas : avec un arcane qui soulève, cela échoue parfois sur les ennemis lourds.
+
+[06434.576]
+Sur ce, allons sans tarder tous les deux placer nos artes mystiques.
+
+[06434.577]
+Non, père. Je suis lanceur de sorts, je n’utilise pas d’arte mystique.
+
+[06434.578]
+À vrai dire, père, après un arte mystique les SP tombent à 0, et c’est terriblement gênant. N’en placez pas s’il n’achève même pas l’ennemi, père.
+
+[06434.579]
+Parce que c’est gênant.
+
+[06434.580]
+(Une fois suffisait, ce me semble...)
+
+[06434.581]
+Trop vétéran
+
+[06434.582]
+Fils
+
+[06434.584]
+Leur sujet semble être : « le Field of Effect ». Écouter ?
+
+[06434.585]
+L’autre jour, ce « Field of Effect » lancé par l’ennemi m’a donné bien du fil à retordre.
+
+[06434.586]
+FOE en abrégé, père. Il en existe deux grandes sortes : ceux qui agissent sur les ennemis dans la zone, et ceux qui réduisent nos capacités.
+
+[06434.587]
+Quand cela sort, n’y a-t-il plus qu’à baisser les bras ?
+
+[06434.588]
+Il est trop tôt pour renoncer, père. Certains cessent avec le temps, d’autres à force de coups. Et bien sûr, ils disparaissent au coup de grâce.
+
+[06434.589]
+S’ils en lancent un qui agit sur nous, vaut-il mieux ne laisser qu’un seul homme à l’avant et user de sorts ?
+
+[06434.590]
+Oui, père. Mais le mieux reste de changer de stratégie selon le changement d’état. S’il agit sur l’ennemi, des Besicles en révèlent la nature.
+
+[06434.591]
+À part ça, les jeunes d’aujourd’hui veulent tout abréger, c’en est pénible.
+
+[06434.592]
+(Vous le dites un peu tard, père...)
+
+[06434.594]
+Leur sujet semble être : « le Battle Grade ». Écouter ?
+
+[06434.595]
+C’est quoi, au bout du compte, le Battle Grade ?
+
+[06434.596]
+Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se battre », n’est-ce pas, chef ? Le ratio des dégâts, les coups dans le vide, le fait d’user toujours du même arte : tout est jugé.
+
+[06434.597]
+Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
+
+[06434.598]
+On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+
+[06434.599]
+Et s’il est haut, ça apporte quoi de bien ?
+
+[06434.600]
+C’est à l’étude, chef. Certains insolents disent bien que cela ne sert à rien en ce bas monde...
+
+[06434.601]
+Bah, te prends pas la tête et peaufine ta technique.
+
+[06434.602]
+Bravo, chef, j’apprends tant avec vous.
+
+[06434.604]
+Leur sujet semble être : « le rétablissement ». Écouter ?
+
+[06434.605]
+Quand on me plaque au sol, je reste à terre, quoi.
+
+[06434.606]
+C’est rude, en effet, chef. Mais en appuyant sur {09:47 00 00 00} à l’instant précis où l’on touche le sol, on se rétablit, n’est-ce pas ?
+
+[06434.607]
+B-b-b-bien sûr que je le savais, quoi.
+
+[06434.608]
+Se rétablir réduit le temps passé à terre et, surtout, rend des SP et des TP : c’est appréciable, n’est-ce pas ?
+
+[06434.609]
+B-b-b-b-bien sûr que je le savais, quoi.
+
+[06434.611]
+Leur sujet semble être : « la difficulté des combats ». Écouter ?
+
+[06434.612]
+Ça rime à quoi, de monter la difficulté des combats ?
+
+[06434.613]
+Il est vrai que monter la difficulté ne ramènera pas la paix dans le monde. Mais on dit que les armes et armures lâchées par les ennemis sont meilleures.
+
+[06434.614]
+Dans ce cas, je la monte à fond, quoi.
+
+[06434.615]
+Mais vous le savez, monter la difficulté augmente l’attaque et l’intellect des ennemis, qui lancent en plus des attaques terribles absentes en difficulté normale. Le choix est délicat, n’est-ce pas ?
+
+[06434.616]
+Dans ce cas, NORMAL me va tant que j’ai pas ramené la paix dans le monde une fois.
+
+[06434.617]
+Je ne saisis pas bien ce que vous voulez dire, mais vous avez tout à fait raison.
+
+[06434.618]
+SECOND est d’une difficulté mesurée : je le conseillerais à qui veut un peu plus de répondant.
+
+[06434.620]
+Ils semblent approfondir le sujet : « les attaques normales ». Écouter ?
+
+[06434.621]
+J’ai pris le coup, alors ces temps-ci, pour les attaques normales, je martèle juste {09:45 00 00 00}, quoi.
+
+[06434.622]
+Ce n’est vraiment pas ça.
+
+[06434.623]
+En vérité, précision et dégâts baissent un peu au deuxième et au troisième coup, mais ils baissent davantage si l’on répète la même attaque.
+
+[06434.624]
+Quoiii ? Alors je fais comment ?
+
+[06434.625]
+Hm. Construire « {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00} », bref varier les combinaisons, voilà le premier pas.
+
+[06434.626]
+Et le deuxième pas, c’est quoi ?
+
+[06434.627]
+{09:45 00 00 00} : attaque --, précision --
+{09:17 00 00 00}{09:45 00 00 00} : attaque +, précision -
+{09:19 00 00 00}{09:45 00 00 00} : attaque -, précision +
+{09:16 00 00 00}{09:45 00 00 00} : attaque -, précision -
+
+[06434.628]
+Retiens tout ça ! Les attaques avec {09:45 00 00 00} couvrent large et touchent souvent sans peine, mais en contrepartie elles ne valent pas grand-chose dans une série.
+
+[06434.629]
+Cela influe aussi sur l’attaque suivante : avec « {09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} » et avec « {09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} », les chiffres du troisième coup diffèrent.
+
+[06434.630]
+Alors contre un ennemi à forte esquive, je construis à partir de {09:19 00 00 00}{09:45 00 00 00}. Et contre un ennemi à faible esquive, je démarre par {09:17 00 00 00}{09:45 00 00 00}.
+
+[06434.631]
+Par exemple, oui. Cela dit, l’écart est infime : si les autres règles t’occupent déjà bien assez, inutile de te forcer à retenir celle-ci.
+
+[06434.633]
+Leur sujet semble être : « les longs discours ». Écouter ?
+
+[06434.634]
+Même des propos instructifs, au bout de dix ans à les écouter, ça fatigue, quoi.
+
+[06434.635]
+Tiens, je ne te l’avais pas dit. En maintenant {09:2F 00 00 00} et {09:2E 00 00 00}, on fait défiler les messages en accéléré. Pratique pour sauter une conversation déjà lue.
+
+[06434.636]
+Quoiii ? Pourquoi tu me l’as pas dit pendant dix ans ?
+
+[06434.637]
+Imbécile ! Qu’un bleu comme toi saute mes paroles, c’est dix ans trop tôt !
+
+[06434.638]
+... me disais-je, et voilà pourquoi je te le dis maintenant.
+
+[06434.639]
+Ça se tient, quoi.
+
+[06434.641]
+Leur sujet semble être : « le ramassage d’objets ». Écouter ?
+
+[06434.642]
+Tant qu’à vivre en aventurier, je veux rafler des objets aux ennemis à fond, quoi.
+
+[06434.643]
+Hm. C’est juste. Mais une rumeur fort plausible court parmi les aventuriers.
+
+[06434.644]
+C’est quoi, cette rumeur ?
+
+[06434.645]
+« Plus on porte d’objets d’une même sorte, moins les ennemis auraient de chances d’en lâcher », dit-on.
+
+[06434.646]
+Ça va pas du tout, quoi. Je vends tout.
+
+[06434.647]
+Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+
+[06434.648]
+Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
+
+[06434.649]
+Par ailleurs, si tu veux avancer en consommant tes objets, on m’a dit qu’il valait mieux n’en garder qu’un petit nombre.
+
+[06434.650]
+Pour les consommables, ce n’est pas le total qui compte mais le nombre détenu de chacun : telle est, paraît-il, l’opinion admise chez les aventuriers.
+
+[06434.651]
+Mais avec peu, on est vite mal face aux ennemis costauds.
+
+[06434.652]
+Il y a de ça. L’important, c’est de mener l’aventure qui convient à son propre style.
+
+[06434.654]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06434.656]
+Moi, je vais aller au bout de ma propre voie !!
+
+[06434.657]
+Bon voyage.
+
+[06434.658]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06434.659]
+Voulez-vous passer la nuit ?
+
+[06434.661]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06434.662]
+Reposez-vous bien.
+
+[06434.663]
+Bonjour.
+
+[06434.664]
+Vous n’avez pas assez d’argent.
+
+[06434.665]
+Au plaisir de vous revoir.
+
+[06434.670]
+Obtenu : {16:25 D6}.
+
+[06434.672]
+Obtenu : {08:FF FF FF FF}.
+
+[06434.674]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06434.676]
+Il n’y a rien ici.
+
+[06434.677]
+Vendeur ({08:12 00 00 00})
+
+[06434.678]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06434.679]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06434.680]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06434.681]
+C’est {0B:01 00 00 00}{14:35 E8}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06434.683]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 F2} ({14:35 EC} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06434.685]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06434.686]
+Merci de votre achat.
+
+[06434.687]
+Merci de votre achat.
+
+[06434.688]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 E8}{0B:00 00 00 00} Gald pièce.
+
+[06434.689]
+Voulez-vous suivre le cours de raffinage ?
+
+[06434.691]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06434.692]
+Que voulez-vous savoir ?
+
+[06434.694]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06434.696]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06434.697]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06434.698]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06434.699]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06434.700]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06434.701]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06434.702]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06434.703]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06434.704]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06434.705]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06434.706]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06434.707]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06434.708]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06434.709]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06434.710]
+Je vous expliquerai les emplacements en détail à part.
+
+[06434.711]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06434.712]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06434.713]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06434.714]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06434.715]
+Je vais vous expliquer les emplacements en détail.
+
+[06434.716]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06434.717]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06434.718]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06434.719]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06434.720]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06434.721]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06434.722]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06434.723]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06434.724]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06434.725]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06434.726]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06434.727]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06434.728]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06434.729]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06434.730]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06434.731]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06434.732]
+... Ranger ses objets, c’est important aussi.
+

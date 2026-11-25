@@ -1,0 +1,27 @@
+[00594.001]
+Haa... Qui qu’on interroge, c’est « dame Elraine est merveilleuse », « vive dame Elraine ». Ils ont quoi dans la tête, ces gens...
+
+[00594.002]
+... Ils sont heureux.
+
+[00594.003]
+{NAME:02 00 00 00}... ?
+
+[00594.004]
+Quand on est heureux, peu importe que ce bonheur soit vrai ou faux. Non, peut-être même que le bonheur n’est jamais ni vrai ni faux. Et dans ce cas, ce que fait Elraine, c’est...
+
+[00594.005]
+Stop ! ... Un mot de plus, et je pourrais me fâcher pour de bon.
+
+[00594.006]
+........
+
+[00594.007]
+Hé, on y va bientôt... euh, il s’est passé quelque chose ?
+
+[00594.008]
+Rien du tout. J’arrive...... {NAME:02 00 00 00}, je ferai comme si je n’avais rien entendu.
+
+[00594.009]
+............
+

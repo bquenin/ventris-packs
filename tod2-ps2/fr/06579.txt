@@ -1,0 +1,265 @@
+[06579.001]
+Radisrol : chambre de Karell
+
+[06579.002]
+Radisrol
+
+[06579.003]
+Chambre de Karell
+
+[06579.005]
+Un sac à dos, celui de Karell apparemment, est rangé là.
+
+[06579.007]
+Ça, c’est... !
+
+[06579.009]
+Trouvé toutes sortes de questions de quiz !
+
+[06579.011]
+Une nouvelle catégorie s’ajoute au Livre de quiz.
+
+[06579.013]
+Le bureau de Karell. Les rapports y sont soigneusement classés.
+
+[06579.014]
+Soldat
+
+[06579.015]
+Veuillez vous reposer ici jusqu’au début de l’opération.
+
+[06579.017]
+{03:00 00 00 00}　Se reposer　
+　Ne pas se reposer　
+
+[06579.018]
+Soldat
+
+[06579.019]
+Veuillez vous reposer ici jusqu’au début de l’opération.
+
+[06579.021]
+{03:00 00 00 00}　Se reposer　
+　Ne pas se reposer　
+
+[06579.022]
+Soldat
+
+[06579.023]
+Bonne route.
+
+[06579.024]
+Soldat
+
+[06579.025]
+Voulez-vous vous reposer ?
+
+[06579.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06579.028]
+Soldat
+
+[06579.029]
+Reposez-vous bien.
+
+[06579.030]
+Soldat
+
+[06579.031]
+Bonjour.
+
+[06579.032]
+Soldat
+
+[06579.033]
+On me dit que vous pouvez vous reposer quand vous voulez.
+
+[06579.035]
+Ça donne des frissons, quand même ! Se battre aux côtés de la fameuse équipe des Swordians !
+
+[06579.037]
+À trop t’emballer, tu te blesseras.
+
+[06579.039]
+Je le sais, pas besoin de me le dire !
+
+[06579.041]
+Bah, c’est forcé. L’équipe des Swordians, ce sont des héros de légende, et des plus célèbres, avec ça.
+
+[06579.043]
+Lui dire de se calmer, c’est demander l’impossible. Surtout que lui, sa passion des héros, c’est du solide.
+
+[06579.045]
+Hi hi ! C’est vrai.
+
+[06579.047]
+Ah, même {NAME:02 00 00 00} qui rit ! C’est pas sympa !
+
+[06579.049]
+Mais... toi aussi, {NAME:01 00 00 00}, à mes yeux, tu es un vrai héros.
+
+[06579.051]
+T-tu crois...
+
+[06579.053]
+Oui, oui, n’en jetez plus ! Forcément : {NAME:01 00 00 00}, c’est le héros de {NAME:02 00 00 00}, à elle toute seule.
+
+[06579.055]
+Aah, c’est d’un bête. Qu’est-ce que j’ai fait pour devoir écouter les roucoulades des autres ?
+
+[06579.057]
+Je vais prendre un peu l’air. ... Hé, {NAME:05 00 00 00}. Viens avec moi.
+
+[06579.059]
+P-pourquoi il faudrait que je vienne avec toi !
+
+[06579.061]
+Un peu de tact, idiote.
+
+[06579.063]
+... D-d’accord. Mais ne te fais pas d’idées ! C’est bien parce qu’il le faut !
+
+[06579.065]
+Oui, oui. Allez, viens.
+
+[06579.067]
+Je vais voir où en est {NAME:06 00 00 00}.
+
+[06579.069]
+Ah, ahaha... Tout le monde est parti, on dirait...
+
+[06579.071]
+... {NAME:01 00 00 00}. Ce que j’ai dit tout à l’heure... je ne plaisantais pas.
+
+[06579.073]
+Hein ?
+
+[06579.075]
+Qu’à mes yeux, toi aussi, {NAME:01 00 00 00}, tu es un vrai héros.
+
+[06579.077]
+Ah, ahaha...
+
+[06579.079]
+Parce que je le crois : toi, {NAME:01 00 00 00}, tu exauceras mon vœu.
+
+[06579.081]
+J-je sais, je sais ! Bonne nuit, {NAME:02 00 00 00}.
+
+[06579.083]
+J’ai confiance en toi, {NAME:01 00 00 00}. Tu exauceras mon vœu.
+
+[06579.085]
+... Quoi qu’il arrive, tu l’exauceras...
+
+[06579.087]
+Ça y est, la bataille finale !
+
+[06579.089]
+Qui aurait cru qu’on ferait la guerre du Ciel et de la Terre aux côtés de l’équipe légendaire des Swordians.
+
+[06579.091]
+Atwight est là, elle aussi : il ne reste qu’à neutraliser Barbatos à Dycroft, et...
+
+[06579.093]
+On peut empêcher l’altération de l’histoire !
+
+[06579.095]
+Et Karell mourra...
+
+[06579.097]
+Karell mourra... ?
+
+[06579.099]
+Tu ignores comment s’achève la guerre du Ciel et de la Terre ?
+
+[06579.101]
+L’équipe des Swordians bat Miktran, le roi céleste, et tout est bien qui finit bien, non ?
+
+[06579.103]
+Ce n’est pas faux. Mais il y manque l’essentiel.
+
+[06579.105]
+Miktran était d’une force écrasante : même l’équipe des Swordians a eu fort à faire.
+
+[06579.107]
+Si un homme ne s’était pas sacrifié dans une attaque désespérée, s’il n’avait pas entraîné Miktran dans la mort, la victoire eût été bien incertaine.
+
+[06579.109]
+Et cet homme... c’est Karell.
+
+[06579.111]
+Non... ! Qu-qu’est-ce qu’on fait !?
+
+[06579.113]
+Je sais ! Parlons-en à {NAME:06 00 00 00} ! Comme ça, Karell n’aura pas à mourir !
+
+[06579.115]
+Non. Ce serait changer l’histoire. Comptes-tu faire comme Elraine, toi aussi ?
+
+[06579.117]
+Ah...
+
+[06579.119]
+... En tout cas, pas un mot de cela à {NAME:06 00 00 00}.
+
+[06579.121]
+Franchement... ça me met mal à l’aise. Cacher des choses, je veux dire.
+
+[06579.123]
+Ouais, et en plus, se taire quand il y va de la vie de quelqu’un...
+
+[06579.125]
+Tout homme meurt un jour, immanquablement. Tôt ou tard : voilà la seule différence.
+
+[06579.127]
+... Il faut s’y résoudre ainsi.
+
+[06579.129]
+........
+
+[06579.131]
+Une mort déjà fixée... ... N’importe qui, un jour...
+
+[06579.133]
+...... Un jour, moi aussi...
+
+[06579.134]
+Bon voyage.
+
+[06579.135]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06579.136]
+Voulez-vous passer la nuit ?
+
+[06579.138]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06579.139]
+Reposez-vous bien.
+
+[06579.140]
+Bonjour.
+
+[06579.141]
+Vous n’avez pas assez d’argent.
+
+[06579.142]
+Au plaisir de vous revoir.
+
+[06579.147]
+Obtenu : {16:25 C6}.
+
+[06579.149]
+Obtenu : {08:FF FF FF FF}.
+
+[06579.151]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06579.153]
+Il n’y a rien ici.
+

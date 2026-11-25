@@ -1,0 +1,55 @@
+[06541.001]
+Grotte du littoral
+
+[06541.002]
+Grotte du littoral
+
+[06541.003]
+Grotte du littoral
+
+[06541.005]
+Qu’est-ce qu’il y a, {NAME:05 00 00 00} ?
+
+[06541.007]
+En marchant le long de la falaise, j’ai cru apercevoir une herbe médicinale...
+
+[06541.009]
+Tu sais, ce qu’on a reçu l’autre jour, la Lunette du machin-chose : en regardant avec, on trouvera peut-être quelque chose.
+
+[06541.010]
+Bon voyage.
+
+[06541.011]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06541.012]
+Voulez-vous passer la nuit ?
+
+[06541.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06541.015]
+Reposez-vous bien.
+
+[06541.016]
+Bonjour.
+
+[06541.017]
+Vous n’avez pas assez d’argent.
+
+[06541.018]
+Au plaisir de vous revoir.
+
+[06541.023]
+Obtenu : {16:25 C2}.
+
+[06541.025]
+Obtenu : {08:FF FF FF FF}.
+
+[06541.027]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06541.029]
+Il n’y a rien ici.
+

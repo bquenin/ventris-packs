@@ -1,0 +1,9 @@
+[01190.001]
+Une fois bien prêts, on monte dans la fusée de {NAME:06 00 00 00} !
+
+[01190.002]
+Le hangar est sous le bâtiment près du Radisrol.
+
+[01190.003]
+On y va !
+

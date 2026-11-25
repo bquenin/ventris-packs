@@ -1,0 +1,796 @@
+[06451.001]
+Château de Heidelberg
+
+[06451.002]
+Château de Heidelberg
+
+[06451.003]
+Soldat
+
+[06451.004]
+Oui, pour l’audience, c’est l’escalier d’en face. ... Aah, tous les jours, rien que des gens qui viennent en audience.
+
+[06451.005]
+Soldat
+
+[06451.006]
+Il ne se passerait pas un truc énorme, des fois... Dans un monde aussi paisible, aucune chance.
+
+[06451.007]
+Soldat
+
+[06451.008]
+Quand je dis ça, mon voisin se fâche, mais il ne se passerait pas un truc énorme, des fois ?
+
+[06451.009]
+Soldat
+
+[06451.010]
+Alors c’était vrai, tu es le fils de Stahn le héros ! Ça, c’est un truc énorme !
+
+[06451.011]
+Soldat
+
+[06451.012]
+Ah ça, j’aurai de quoi me vanter devant mes parents. Dis, serre-moi la main, allez !
+
+[06451.014]
+Oh, avec plaisir !
+
+[06451.015]
+Soldat
+
+[06451.016]
+Le fils de Stahn le héros, venu ici... De quoi me vanter devant mes parents !
+
+[06451.017]
+Soldat
+
+[06451.018]
+Qu’y a-t-il, fils de héros ? Tu as oublié de dire quelque chose à Sa Majesté ?
+
+[06451.019]
+Soldat
+
+[06451.020]
+... M-mmh......
+
+[06451.021]
+Soldat
+
+[06451.022]
+U-un type d’une force terrible... ! ... S-sauvez-vous... ! Même vous... vous ne gagnerez pas !
+
+[06451.023]
+Soldat
+
+[06451.024]
+Sa Majesté va-t-elle bien ?
+
+[06451.025]
+Soldat
+
+[06451.026]
+... Dire que je demandais naïvement s’il ne se passerait pas un truc énorme : je m’en veux, bon sang... !
+
+[06451.027]
+Soldat
+
+[06451.028]
+Ah, oui... Sa Majesté vous attend dans la salle d’audience.
+
+[06451.029]
+Soldat
+
+[06451.030]
+... Sa Majesté vous attend dans la salle d’audience.
+
+[06451.031]
+Soldat
+
+[06451.032]
+... Vous y allez, alors. Un fils de héros, ce n’est décidément pas pareil. Fort, même dans un moment comme ça...
+
+[06451.034]
+... Non. Je ne suis pas un héros. Je n’en ai peut-être même pas le droit.
+
+[06451.036]
+Mais malgré tout, moi... je veux sauver {NAME:02 00 00 00} ! C’est tout.
+
+[06451.037]
+Soldat
+
+[06451.038]
+... Vous êtes forts, décidément. ...... On compte... sur vous !
+
+[06451.039]
+Soldat
+
+[06451.040]
+Vous voilà ! Bravo d’être revenus ! Allez, Sa Majesté vous attend ! Vite, vite !
+
+[06451.041]
+Soldat
+
+[06451.042]
+Je suis bête, hein. « Il ne se passe rien d’énorme, on s’ennuie »... voilà ce que je disais, avant.
+
+[06451.043]
+Soldat
+
+[06451.044]
+Qu’il ne se passe rien, je comprends enfin quelle chance c’est.
+
+[06451.046]
+C’est bien. C’est ainsi que les hommes apprennent, et bâtissent un avenir meilleur.
+
+[06451.047]
+Soldat
+
+[06451.048]
+Aah, et si je prenais femme, moi aussi ? Je deviendrais peut-être plus adulte, comme mon voisin.
+
+[06451.049]
+Soldat
+
+[06451.050]
+Oui, pour l’audience, c’est l’escalier d’en face. ... Aah, tous les jours, rien que des gens qui viennent en audience.
+
+[06451.051]
+Soldat
+
+[06451.052]
+Il ne se passerait pas un truc énorme, des fois... Dans un monde aussi paisible, aucune chance.
+
+[06451.053]
+Soldat
+
+[06451.054]
+Quand je dis ça, mon voisin se fâche, mais il ne se passerait pas un truc énorme, des fois ?
+
+[06451.055]
+Soldat
+
+[06451.056]
+Alors c’était vrai, tu es le fils de Stahn le héros ! Ça, c’est un truc énorme !
+
+[06451.058]
+Vous croyez ? Moi, je ne suis que le fils de papa, pas lui...
+
+[06451.059]
+Soldat
+
+[06451.060]
+Quand même ! Pour moi, c’est bien assez énorme !
+
+[06451.061]
+Soldat
+
+[06451.062]
+Le fils de Stahn le héros, venu ici... De quoi me vanter devant mes parents !
+
+[06451.063]
+Soldat
+
+[06451.064]
+Vous venez pour une audience auprès de Sa Majesté ? Prenez l’escalier d’en face.
+
+[06451.065]
+Soldat
+
+[06451.066]
+Mon voisin répète sans arrêt : « Il ne se passe rien ? Vraiment rien ? »...
+
+[06451.067]
+Soldat
+
+[06451.068]
+Il ne comprend pas combien il est précieux qu’il ne se passe rien, qu’on vive en paix. Vraiment...
+
+[06451.069]
+Soldat
+
+[06451.070]
+Ah, pardonnez-moi, je me laisse aller à me plaindre... La salle d’audience est en face.
+
+[06451.071]
+Soldat
+
+[06451.072]
+Pouvoir parler ainsi avec le fils de Stahn le héros... J’aurai une belle histoire à rapporter à ma femme.
+
+[06451.073]
+Soldat
+
+[06451.074]
+{NAME:01 00 00 00}, allez donc voir la ville aussi. Elle vous plaira, j’en suis sûr.
+
+[06451.076]
+Oui, je n’y manquerai pas ! Merci !
+
+[06451.077]
+Soldat
+
+[06451.078]
+Pouvoir parler ainsi avec le fils de Stahn le héros... J’aurai une belle histoire à rapporter à ma femme.
+
+[06451.079]
+Soldat
+
+[06451.080]
+{NAME:01 00 00 00}, vous avez encore affaire à Sa Majesté ?
+
+[06451.081]
+Soldat
+
+[06451.082]
+... M-Majesté... !
+
+[06451.084]
+Hé, ça va !? Hé !
+
+[06451.085]
+Soldat
+
+[06451.086]
+Vite... auprès de Sa Majesté... ! ... Cet homme est... d’une force terrible !
+
+[06451.087]
+Soldat
+
+[06451.088]
+... Gh, M-Majesté... ! J’arrive... à vos côtés... !
+
+[06451.089]
+Soldat
+
+[06451.090]
+Moi, ça va. ... Mais Sa Majesté... !
+
+[06451.091]
+Soldat
+
+[06451.092]
+Ce qui est sans prix, on n’en voit la valeur qu’après l’avoir perdu... Je le savais, pourtant...
+
+[06451.093]
+Soldat
+
+[06451.094]
+Il faut à tout prix rendre la paix à ce pays. Et pour cela, c’est à nous de tenir bon.
+
+[06451.095]
+Soldat
+
+[06451.096]
+{NAME:01 00 00 00}, Sa Majesté vous attend dans la salle d’audience. ... Écoutez ce qu’elle a à vous dire, je vous en prie.
+
+[06451.097]
+Soldat
+
+[06451.098]
+{NAME:01 00 00 00}, soyez prudent, je vous en prie... !
+
+[06451.100]
+Merci... Je vous confie le roi Woodrow !
+
+[06451.101]
+Soldat
+
+[06451.102]
+... Oui ! Au prix de ma vie !
+
+[06451.103]
+Soldat
+
+[06451.104]
+Laissez-nous Sa Majesté : nous la protégerons, coûte que coûte !
+
+[06451.105]
+Soldat
+
+[06451.106]
+Vous êtes... {NAME:01 00 00 00} !? Ah, pardon... on aurait dit quelqu’un d’autre.
+
+[06451.108]
+Bah, il s’en est passé assez pour changer un visage.
+
+[06451.109]
+Soldat
+
+[06451.110]
+Je vois... Ah, pardon de vous retenir. Sa Majesté est dans la salle d’audience.
+
+[06451.111]
+Soldat
+
+[06451.112]
+Pardon de vous retenir. Sa Majesté est dans la salle d’audience.
+
+[06451.113]
+Soldat
+
+[06451.114]
+L’autre jour, mon voisin m’a demandé : « C’est bien, d’avoir une femme ? » Quelle mouche l’a piqué ?
+
+[06451.115]
+Soldat
+
+[06451.116]
+... Mais avoir quelqu’un à protéger, c’est un vrai bonheur. Je le sens en regardant ma femme dormir.
+
+[06451.117]
+Soldat
+
+[06451.118]
+Protéger Sa Majesté, ma femme, et les gens de ce pays... Cette fois, j’irai jusqu’au bout !
+
+[06451.119]
+Soldat
+
+[06451.120]
+Vous venez pour une audience auprès de Sa Majesté ? Prenez l’escalier d’en face.
+
+[06451.121]
+Soldat
+
+[06451.122]
+Mon voisin répète sans arrêt : « Il ne se passe rien ? Vraiment rien ? »...
+
+[06451.123]
+Soldat
+
+[06451.124]
+Il ne comprend pas combien il est précieux qu’il ne se passe rien, qu’on vive en paix. Vraiment...
+
+[06451.125]
+Soldat
+
+[06451.126]
+Ah, pardonnez-moi, je me laisse aller à me plaindre... La salle d’audience est en face.
+
+[06451.127]
+Soldat
+
+[06451.128]
+Pouvoir parler ainsi avec le fils de Stahn le héros... J’aurai une belle histoire à rapporter à ma femme.
+
+[06451.130]
+Une histoire à rapporter ? M’avoir rencontré, moi ? ... Hmm, je ne comprends pas bien.
+
+[06451.131]
+Soldat
+
+[06451.132]
+Par exemple, {NAME:01 00 00 00}, vous raconterez à tout le monde que vous avez vu Sa Majesté le roi Woodrow, n’est-ce pas ?
+
+[06451.134]
+Oui, sans doute... mais c’est parce que le roi Woodrow est quelqu’un d’extraordinaire, non ?
+
+[06451.135]
+Soldat
+
+[06451.136]
+Pour nous, vous êtes quelqu’un d’aussi extraordinaire que Sa Majesté le roi Woodrow.
+
+[06451.137]
+Soldat
+
+[06451.138]
+Pour nous, vous êtes quelqu’un d’aussi extraordinaire que Sa Majesté le roi Woodrow.
+
+[06451.139]
+Servante
+
+[06451.140]
+Ce couloir mène aux chambres d’amis.
+
+[06451.141]
+Servante
+
+[06451.142]
+... Aah... quel malheur...
+
+[06451.143]
+Servante
+
+[06451.144]
+Ce couloir mène aux chambres d’amis.
+
+[06451.145]
+Servante
+
+[06451.146]
+Ce couloir mène aux chambres d’amis.
+
+[06451.147]
+Servante
+
+[06451.148]
+Ce couloir mène aux chambres d’amis.
+
+[06451.149]
+Servante
+
+[06451.150]
+Pour l’audience, vous montez l’escalier, là, et... Oh, quelque chose ne va pas ?
+
+[06451.152]
+N-non, c’est que, une fois devant, j’ai un trac terrible...
+
+[06451.153]
+Servante
+
+[06451.154]
+Hi hi ! Tout ira bien. Sa Majesté est un homme simple et bon.
+
+[06451.155]
+Servante
+
+[06451.156]
+Sa Majesté est un homme simple et bon : inutile de vous raidir, tout ira bien.
+
+[06451.157]
+Servante
+
+[06451.158]
+Le roi Woodrow est bon, n’est-ce pas ? C’est parce qu’il est ainsi que son peuple le suit.
+
+[06451.159]
+Servante
+
+[06451.160]
+Seulement... manger avec le sourire jusqu’aux plats ratés d’un cuisinier débutant, c’est peut-être un peu trop.
+
+[06451.161]
+Servante
+
+[06451.162]
+Le roi Woodrow est un homme bon. Mais manger avec le sourire jusqu’aux plats ratés, c’est peut-être un peu...
+
+[06451.163]
+Servante
+
+[06451.164]
+Hiiiii ! N-ne me tuez paaas !
+
+[06451.166]
+Hé, du calme ! On n’est pas des ennemis !
+
+[06451.167]
+Servante
+
+[06451.168]
+... E-euh, je... ! Ou-ouaaah !
+
+[06451.169]
+Servante
+
+[06451.170]
+J-j’ai eu si peur... mais, mais... !
+
+[06451.172]
+Je sais, je sais ! Nous, on va rejoindre le roi Woodrow. Écoute : tu ne bouges pas d’ici !
+
+[06451.173]
+Servante
+
+[06451.174]
+Les soldats... sont blessés...
+
+[06451.175]
+Servante
+
+[06451.176]
+Ces deux soldats, là-bas... Jamais d’accord, ils se chamaillaient sans arrêt.
+
+[06451.177]
+Servante
+
+[06451.178]
+Mais... à présent, ils n’en ont même plus la force... Cela fait presque mal à voir...
+
+[06451.179]
+Servante
+
+[06451.180]
+Que leurs chamailleries manquent à ce point : je ne l’aurais pas cru...
+
+[06451.181]
+Servante
+
+[06451.182]
+Je sais que ma demande est égoïste. Mais... laissez-moi la faire.
+
+[06451.183]
+Servante
+
+[06451.184]
+Pour que le roi Woodrow retrouve le sourire, {NAME:01 00 00 00}... tenez bon !
+
+[06451.185]
+Servante
+
+[06451.186]
+Nous aussi, nous tiendrons bon, pour rendre son sourire au roi Woodrow ! Alors vous aussi, {NAME:01 00 00 00}, tenez bon !
+
+[06451.187]
+Servante
+
+[06451.188]
+Devant les pièces saccagées par l’ennemi, je ne savais plus trop que faire.
+
+[06451.189]
+Servante
+
+[06451.190]
+Et voilà que les gens de la ville sont venus offrir leur aide... Quel soulagement, vraiment.
+
+[06451.191]
+Servante
+
+[06451.192]
+Le sourire du roi Woodrow quand les gens de la ville ont offert leur aide... À le voir, j’en avais le cœur tout plein.
+
+[06451.193]
+Servante
+
+[06451.194]
+Vous êtes une connaissance de Sa Majesté le roi Woodrow ?
+
+[06451.196]
+Hein ? Je vais le voir pour la première fois aujourd’hui... Pourquoi ?
+
+[06451.197]
+Servante
+
+[06451.198]
+Vraiment !? C’est rare, quelqu’un d’aussi détendu.
+
+[06451.199]
+Servante
+
+[06451.200]
+Ceux qui paraissent pour la première fois devant Sa Majesté ont presque tous le trac, quels qu’ils soient. Mais vous, non, alors...
+
+[06451.202]
+Ha ha ha ! Elle te dit d’être un peu plus tendu.
+
+[06451.204]
+J’ai un peu le trac, moi aussi ! Mais... à choisir, je crois que c’est l’impatience qui l’emporte !
+
+[06451.205]
+Servante
+
+[06451.206]
+Je n’avais jamais vu quelqu’un faire cette tête avant de voir Sa Majesté ! Vous lui plairez, j’en suis sûre.
+
+[06451.207]
+Servante
+
+[06451.208]
+Le roi Woodrow est bon, n’est-ce pas ? C’est parce qu’il est ainsi que son peuple le suit.
+
+[06451.210]
+Oui, je le pense vraiment. Bon, et fort... On sent un vrai héros.
+
+[06451.211]
+Servante
+
+[06451.212]
+Le roi Woodrow est bon, n’est-ce pas ? C’est parce qu’il est ainsi que son peuple le suit.
+
+[06451.213]
+Servante
+
+[06451.214]
+Seulement... manger avec le sourire jusqu’aux plats ratés d’un cuisinier débutant, c’est peut-être un peu trop.
+
+[06451.215]
+Servante
+
+[06451.216]
+Le roi Woodrow est un homme bon. Mais manger avec le sourire jusqu’aux plats ratés, c’est peut-être un peu...
+
+[06451.218]
+Hm, il y a quelqu’un, on dirait...
+
+[06451.219]
+Elraine
+
+[06451.220]
+Tiens, vous êtes... Hu hu, nous nous revoyons donc, {NAME:01 00 00 00}.
+
+[06451.222]
+C-c’est elle... !
+
+[06451.224]
+Je ne te voyais plus : c’est donc ici que tu étais.
+
+[06451.226]
+{NAME:05 00 00 00}...
+
+[06451.228]
+Je me mêle peut-être de ce qui ne me regarde pas, mais ça me tracassait un peu.
+
+[06451.230]
+Tu veux que je devine ce qui te tracasse ?
+
+[06451.232]
+D’abord, Elraine, qui veut faire descendre la déesse.
+
+[06451.234]
+Ensuite... {NAME:01 00 00 00}. Tu te dis que tu l’as terriblement blessé.
+
+[06451.236]
+Et comme tu penses aux deux à la fois, tout s’embrouille dans ta tête... Je me trompe ?
+
+[06451.238]
+... C’est ça.
+
+[06451.240]
+Bon, pour Elraine, il suffit de l’arrêter : laissons ça de côté.
+
+[06451.242]
+Le problème, c’est {NAME:01 00 00 00}... Tu regrettes ?
+
+[06451.244]
+Oui... je crois.
+
+[06451.246]
+Quand je me dis que tout est fini, c’est un peu... non, c’est très dur.
+
+[06451.248]
+Fini ? Qu’est-ce qui est fini ?
+
+[06451.250]
+Eh bien, {NAME:01 00 00 00} et moi... Je lui ai dit des choses si dures, alors maintenant...
+
+[06451.252]
+... Moi aussi, tu sais, je me suis disputée avec Lou. Et pas qu’une fois.
+
+[06451.254]
+On criait pour de bon, on se fâchait, il arrivait même que les coups partent.
+
+[06451.256]
+Avec ton petit frère ? Mais vous vous entendiez si bien, tu disais...
+
+[06451.258]
+C’est parce qu’on s’entend bien qu’on se dispute. On ne se dispute pas avec quelqu’un dont on se moque, non ?
+
+[06451.260]
+On veut être compris. On veut que l’autre voie son erreur. On veut se comprendre encore, encore plus.
+
+[06451.262]
+Si on ne tient pas à l’autre à ce point, pour de bon, on ne se dispute pas, on ne le peut même pas, non ?
+
+[06451.264]
+... Oui.
+
+[06451.266]
+Alors, quand il y a une chose qu’on n’accepte pas, on ne peut pas céder. Forcément : des deux côtés, c’est pour de bon.
+
+[06451.268]
+Et là, il n’y a plus qu’à se disputer. On se jette à la figure ce qu’on pense vraiment, on crie, on se fâche, on pleure...
+
+[06451.270]
+Et c’est alors seulement qu’on se comprend.
+
+[06451.272]
+........
+
+[06451.274]
+Une dispute, ça fait mal, c’est dur.
+
+[06451.276]
+Mais c’est en passant par là qu’on devient vraiment proches, et qu’on devient heureux, aussi.
+
+[06451.278]
+Vous deux, vous vous êtes dit pour la première fois ce que vous pensiez vraiment, et vous avez eu votre première dispute.
+
+[06451.280]
+Alors ce n’est que le départ, enfin. Ce n’est pas la fin, pas du tout.
+
+[06451.282]
+... Et toi, {NAME:05 00 00 00}, tu as pu être heureuse ?
+
+[06451.284]
+Évidemment. Sinon, je ne pourrais pas te raconter ça.
+
+[06451.286]
+Moi, tu sais, je n’ai peut-être pas été une très bonne grande sœur.
+
+[06451.288]
+Mais Lou, j’ai su le comprendre mieux que personne : ça, au moins, j’en suis sûre.
+
+[06451.290]
+Et si je peux le penser, c’est qu’on s’est disputés pour de bon, bien des fois.
+
+[06451.292]
+........
+
+[06451.294]
+Alors pour vous aussi, tout est devant vous. Sois tranquille.
+
+[06451.296]
+Devant nous... Y a-t-il seulement quelque chose ?
+
+[06451.298]
+Évidemment. Qu’est-ce que tu racontes !
+
+[06451.300]
+Fwaah... Dire des choses sérieuses, ça m’a fatiguée.
+
+[06451.302]
+Moi, je vais me coucher. Toi aussi, repose-toi vite.
+
+[06451.304]
+Ici, il n’est pas encore midi, mais nous, on est debout depuis le départ de Hope Town.
+
+[06451.306]
+Alors bonne nuit, (reala).
+
+[06451.308]
+Devant nous... il ne peut rien y avoir.
+
+[06451.309]
+Sabnock
+
+[06451.310]
+Mon nom est Sabnock ! Chevalier qui met sa vie en jeu pour ses convictions !
+
+[06451.312]
+{NAME:01 00 00 00} ! Vite, sinon le roi Woodrow... !
+
+[06451.314]
+Je sais !
+
+[06451.316]
+Si tu nous barres la route, on passera, de force s’il le faut !
+
+[06451.317]
+Sabnock
+
+[06451.318]
+Venez, jeune homme ! Votre conviction et la mienne : que le combat montre laquelle est la plus ferme !
+
+[06451.320]
+Bien ! On avance !
+
+[06451.321]
+Bon voyage.
+
+[06451.322]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06451.323]
+Voulez-vous passer la nuit ?
+
+[06451.325]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06451.326]
+Reposez-vous bien.
+
+[06451.327]
+Bonjour.
+
+[06451.328]
+Vous n’avez pas assez d’argent.
+
+[06451.329]
+Au plaisir de vous revoir.
+
+[06451.334]
+Obtenu : {16:25 C6}.
+
+[06451.336]
+Obtenu : {08:FF FF FF FF}.
+
+[06451.338]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06451.340]
+Il n’y a rien ici.
+

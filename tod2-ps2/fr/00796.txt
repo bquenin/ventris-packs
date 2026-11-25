@@ -1,0 +1,12 @@
+[00796.001]
+Pour Karell, qu’est-ce qu’on fait... On devrait quand même le dire à {NAME:06 00 00 00}... !
+
+[00796.002]
+La question a été tranchée hier... Nous sommes venus corriger l’histoire. Crois-tu que nous ayons, nous, le droit de la fausser ?
+
+[00796.003]
+Je sais, mais... !
+
+[00796.004]
+Kyle...
+

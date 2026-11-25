@@ -1,0 +1,133 @@
+[06179.18758]
+Le quiz « Tales of Destiny 2 »
+du grand %s !
+
+[06179.18810]
+Vise le sans-faute !
+
+[06179.18837]
+On y va !
+
+[06179.18850]
+Fastoche pour toi, non ?
+
+[06179.18883]
+Hé hé, oui
+
+[06179.18896]
+Bon, c’est parti. Q. 1
+
+[06179.18923]
+Ouais !
+
+[06179.18932]
+Bien, bien, continue !
+
+[06179.18961]
+H-hein... ?
+
+[06179.18976]
+Déjà ? Sérieux...
+
+[06179.18997]
+Ensuite, Q. 2
+
+[06179.19012]
+Et puis, Q. 3
+
+[06179.19027]
+Bon début, on dirait
+
+[06179.19050]
+Bon, Q. 4
+
+[06179.19063]
+Allez, Q. 5
+
+[06179.19078]
+Et hop, Q. 6
+
+[06179.19095]
+Ouais, ouais !
+
+[06179.19114]
+T’es en feu, dis donc
+
+[06179.19137]
+Bizarre...
+
+[06179.19154]
+Sale jour...
+
+[06179.19167]
+On se reprend. Q. 7
+
+[06179.19190]
+Sprint final ! Q. 7
+
+[06179.19215]
+Tout doux. Q. 7
+
+[06179.19240]
+Q. 8
+
+[06179.19247]
+Voilà...
+
+[06179.19256]
+... Oui
+
+[06179.19265]
+Hé...
+
+[06179.19274]
+O-oui...
+
+[06179.19287]
+Donne tout ! Q. 9 !
+
+[06179.19312]
+Ça vient... ça vient !
+
+[06179.19335]
+Bon, je l’aurai !
+
+[06179.19354]
+Une bonne réponse, au moins...
+
+[06179.19387]
+La décisive : Q. 10 !
+
+[06179.19412]
+Dernière chance : Q. 10
+
+[06179.19437]
+La dernière : Q. 10
+
+[06179.19460]
+Ouaiiis !
+
+[06179.19475]
+Aaaaaah... !
+
+[06179.19494]
+Zut, si près du but...
+
+[06179.19519]
+Ouf, de justesse...
+
+[06179.19540]
+Bah, ça ira comme ça...
+
+[06179.19565]
+Bravo, %s ! Sans faute !
+
+[06179.19596]
+Rien à redire... Beau boulot
+
+[06179.19631]
+Pas mal. Travaille et vise encore plus haut
+
+[06179.19676]
+Faut réviser plus que ça...
+

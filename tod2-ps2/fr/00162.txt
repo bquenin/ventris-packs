@@ -1,0 +1,18 @@
+[00162.001]
+Hé, {NAME:01 00 00 00}. Qu’est-ce que tu as au bras ? Ça saigne, dis donc.
+
+[00162.002]
+Hm ? Ah, c’est vrai. Je me suis écorché en grimpant la falaise ?
+
+[00162.003]
+Quoi ! Les microbes vont entrer, les microbes ! Bon, je te soigne. Fais voir.
+
+[00162.004]
+Hein...... ? Ouah ! A-arrête ! Ne lèche pas, ça chatouille !
+
+[00162.005]
+... Ça chatouille au début, mais ça passe vite. Je ne laisserai pas souffrir mon cher {NAME:01 00 00 00}. Tiens bon, hein ?
+
+[00162.006]
+À-à l’aide~ !
+

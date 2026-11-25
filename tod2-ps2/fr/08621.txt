@@ -1,0 +1,6 @@
+[08621.001]
+Élémentaire de vent
+
+[08621.004]
+Élémentaire de glace
+

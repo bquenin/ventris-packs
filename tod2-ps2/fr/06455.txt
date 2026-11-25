@@ -1,0 +1,91 @@
+[06455.001]
+Château de Heidelberg
+
+[06455.002]
+Château de Heidelberg
+
+[06455.004]
+Le feu de la cheminée brûle, comme s’il ne devait jamais s’éteindre...
+
+[06455.005]
+Bon voyage.
+
+[06455.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06455.007]
+Voulez-vous passer la nuit ?
+
+[06455.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06455.010]
+Reposez-vous bien.
+
+[06455.011]
+Bonjour.
+
+[06455.012]
+Vous n’avez pas assez d’argent.
+
+[06455.013]
+Au plaisir de vous revoir.
+
+[06455.018]
+Obtenu : {16:25 BA}.
+
+[06455.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06455.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06455.024]
+Il n’y a rien ici.
+
+[06455.026]
+Des armes bien entretenues sont alignées. Toutes ont l’air de pièces de prix.
+
+[06455.028]
+Des armes de guerre sont alignées : pour les jours de crise, sans doute.
+
+[06455.030]
+Une arme au tranchant affûté. L’œuvre d’un forgeron de premier ordre, sûrement.
+
+[06455.032]
+Cette arme a un vrai tranchant. Ce n’est pas un objet d’art : c’est une arme véritable.
+
+[06455.034]
+Les armes des soldats du château de Heidelberg. Les lames sont affûtées, sans la moindre ternissure.
+
+[06455.036]
+Une énorme armure de plates. Elle a l’air très lourde...
+
+[06455.038]
+Une armure de guerre. Elle est d’une facture très soignée.
+
+[06455.040]
+Une armure complète, en tôle martelée. Un travail très soigné : combien peut coûter une seule pièce...
+
+[06455.042]
+Une vraie armure complète. Il s’en dégage une présence écrasante...
+
+[06455.044]
+Des armures sont alignées. Pas des objets d’art : de vraies armures de guerre, semble-t-il.
+
+[06455.046]
+Une pièce ancienne, semble-t-il. ... Attention à ne pas la casser.
+
+[06455.048]
+De menus objets sont alignés. Tous ont l’air de valoir très cher.
+
+[06455.050]
+C’est bien un château royal : le moindre bibelot est d’une facture splendide.
+
+[06455.052]
+Des pièces splendides sont alignées...
+
+[06455.054]
+Des antiquités, peut-être. Des pièces anciennes sont alignées.
+

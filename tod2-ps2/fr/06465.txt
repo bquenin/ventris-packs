@@ -1,0 +1,1361 @@
+[06465.001]
+Château de Heidelberg : salle d’audience
+
+[06465.002]
+Château de Heidelberg
+
+[06465.003]
+Château de Heidelberg : salle d’audience
+
+[06465.004]
+La salle derrière le trône
+
+[06465.005]
+Parler à Woodrow
+
+[06465.007]
+Woodrow
+
+[06465.008]
+Les Lentilles de notre pays sont réunies dans la salle derrière le trône. Va y jeter un œil, si cela t’intéresse.
+
+[06465.009]
+Woodrow
+
+[06465.010]
+Le pouvoir des Lentilles, réuni en un seul point, a causé jadis un grand malheur.
+
+[06465.011]
+Woodrow
+
+[06465.012]
+Cette faute ne doit jamais se répéter. En tant que roi, je me le répète sans cesse.
+
+[06465.013]
+Woodrow
+
+[06465.014]
+Les Lentilles sont-elles sauves... !? V-vite, qu’on s’en assure... !
+
+[06465.015]
+Woodrow
+
+[06465.016]
+Nous délibérerons entre nous de ce qu’il convient de faire... Attends jusqu’à demain, {NAME:01 00 00 00}.
+
+[06465.017]
+Woodrow
+
+[06465.018]
+Va, {NAME:01 00 00 00}. Pour devenir son héros à elle, et celui de nul autre !
+
+[06465.019]
+Woodrow
+
+[06465.020]
+Tout ce que nous pouvons faire à présent, c’est vous loger au château. Pardonne-moi, {NAME:01 00 00 00}.
+
+[06465.021]
+Woodrow
+
+[06465.022]
+Ce n’est que mon sentiment, mais la paix d’aujourd’hui est le calme avant la tempête... J’en ai l’impression.
+
+[06465.023]
+Woodrow
+
+[06465.024]
+{NAME:01 00 00 00}, que s’est-il passé ? {NAME:06 00 00 00} te cherchait, semble-t-il...
+
+[06465.025]
+Woodrow
+
+[06465.026]
+Tu dis avoir vu la fin de ce monde... Que va-t-il donc se produire ?
+
+[06465.027]
+Woodrow
+
+[06465.028]
+J’espère que ce que je t’ai dit pourra t’éclairer.
+
+[06465.029]
+Woodrow
+
+[06465.030]
+Ce doit être dur, mais nul ne peut prendre ta place. Ne te laisse pas abattre, {NAME:01 00 00 00}.
+
+[06465.032]
+Merci beaucoup, Woodrow. Alors, nous y allons.
+
+[06465.033]
+Woodrow
+
+[06465.034]
+Je suis Woodrow. Sois le bienvenu dans notre royaume.
+
+[06465.036]
+Enchanté, roi Woodrow. Je suis {NAME:01 00 00 00} Dunamis !
+
+[06465.037]
+Woodrow
+
+[06465.038]
+{NAME:01 00 00 00} Dunamis... ? Serais-tu le fils de Stahn et de Rutee...
+
+[06465.040]
+Oui, je suis leur fils.
+
+[06465.041]
+Woodrow
+
+[06465.042]
+Le fils de ces deux-là, déjà si grand ! Eh bien, pas étonnant que je me fasse vieux.
+
+[06465.043]
+Woodrow
+
+[06465.044]
+Oui, tu lui ressembles beaucoup. Les cheveux d’or, et l’éclat du regard...
+
+[06465.045]
+Woodrow
+
+[06465.046]
+Tu as les yeux de Stahn, du temps où il courait l’aventure.
+
+[06465.048]
+Ç-ça m’intimide, d’être regardé par le Roi-Héros...
+
+[06465.049]
+Woodrow
+
+[06465.050]
+« Roi-Héros », que de cérémonie. Le fils de ces deux-là est pour moi comme un fils.
+
+[06465.051]
+Woodrow
+
+[06465.052]
+Appelle-moi simplement Woodrow. Moi, je t’appellerai {NAME:01 00 00 00}.
+
+[06465.054]
+Merci beaucoup, Woodrow !
+
+[06465.055]
+Woodrow
+
+[06465.056]
+Tu cours l’aventure, à ce que je vois... Veux-tu devenir un héros, comme Stahn ?
+
+[06465.058]
+Non, ce n’est pas ça. On ne devient pas un héros parce qu’on en a envie.
+
+[06465.060]
+C’est un nom qu’on reçoit pour ce qu’on a fait, je crois, comme papa ou comme vous, Woodrow.
+
+[06465.061]
+Woodrow
+
+[06465.062]
+... Oui, c’est tout à fait juste. Mais le savoir à ton âge, voilà qui est remarquable.
+
+[06465.064]
+M-mais non...
+
+[06465.065]
+Woodrow
+
+[06465.066]
+Alors, {NAME:01 00 00 00}, je te le redemande : pourquoi cours-tu l’aventure ?
+
+[06465.068]
+Je l’ai promis à papa : trouver ce que rien ne remplace, ne serait-ce qu’une seule chose.
+
+[06465.069]
+Woodrow
+
+[06465.070]
+Hé hé, c’est bien de Stahn. Et alors ? Penses-tu le trouver ?
+
+[06465.072]
+Je ne sais pas... Mais je le trouverai, c’est promis !
+
+[06465.073]
+Woodrow
+
+[06465.074]
+... Beau regard. Tant que tu ne perdras pas cet éclat dans les yeux, tu le trouveras, sois-en sûr.
+
+[06465.076]
+Oui, je ferai de mon mieux !
+
+[06465.077]
+Woodrow
+
+[06465.078]
+{NAME:01 00 00 00}, reviens me voir quand tu voudras. Tu seras toujours le bienvenu.
+
+[06465.079]
+Woodrow
+
+[06465.080]
+Non pas comme le fils de Stahn, bien sûr, mais comme un homme : {NAME:01 00 00 00} Dunamis.
+
+[06465.082]
+Woodrow... Merci beaucoup !
+
+[06465.083]
+Woodrow
+
+[06465.084]
+Ce que tu cherches... ce que rien ne remplace : je souhaite moi aussi que tu le trouves.
+
+[06465.085]
+Woodrow
+
+[06465.086]
+Pas de dialogue défini pour ce drapeau.
+
+[06465.087]
+Elraine
+
+[06465.088]
+Nous voulons seulement prêter notre force, pour que les gens de ce pays vivent heureux.
+
+[06465.089]
+Woodrow
+
+[06465.090]
+Je vous sais gré d’une offre si généreuse. Mais... avec l’âge, on devient méfiant, que voulez-vous.
+
+[06465.091]
+Elraine
+
+[06465.092]
+Que le roi Woodrow soit prudent quand il s’agit de fournir des Lentilles, nous le savons, bien entendu.
+
+[06465.093]
+Elraine
+
+[06465.094]
+Mais avec le pouvoir des Lentilles, on peut sauver davantage de gens et les conduire au bonheur.
+
+[06465.095]
+Elraine
+
+[06465.096]
+Nous qui servons la déesse, nous voulons tendre une main secourable au plus grand nombre.
+
+[06465.097]
+Elraine
+
+[06465.098]
+Ne voudriez-vous pas nous prêter votre concours ?
+
+[06465.099]
+Woodrow
+
+[06465.100]
+...... Je ne voudrais pas douter de votre précieuse piété.
+
+[06465.101]
+Woodrow
+
+[06465.102]
+Mais les derniers troubles sont partis d’un Grand prêtre de grande piété : vous le savez aussi, je pense.
+
+[06465.103]
+Elraine
+
+[06465.104]
+... Pour gagner la confiance du roi, il faut le temps et les efforts qui conviennent : je l’ai bien compris.
+
+[06465.105]
+Elraine
+
+[06465.106]
+Pour aujourd’hui, je me retire. À une autre fois...
+
+[06465.107]
+Garde
+
+[06465.108]
+L’audience suivante est celle de messire {NAME:01 00 00 00} Dunamis.
+
+[06465.110]
+E-e-enchanté ! J-je souhaite à Votre Majesté une excellente, une excell...
+
+[06465.112]
+... Calme-toi, {NAME:01 00 00 00}. On ne comprend rien à ce que tu racontes.
+
+[06465.113]
+Woodrow
+
+[06465.114]
+Je suis Woodrow, enchanté. Bien... avant d’en venir au fait, j’ai une chose à dire.
+
+[06465.115]
+Woodrow
+
+[06465.116]
+Vous êtes passés, semble-t-il, devant ceux qui attendaient leur audience... Ce n’est guère louable.
+
+[06465.117]
+Woodrow
+
+[06465.118]
+Chacun prend sur son temps et attend son tour. Vous n’êtes pas les seuls, savez-vous ?
+
+[06465.120]
+Ah... p-pardonnez-moi !
+
+[06465.122]
+Ce n’est pas lui, roi Woodrow ! C’est moi qui ai demandé qu’on nous fasse passer, alors...
+
+[06465.123]
+Woodrow
+
+[06465.124]
+Non, du moment que vous l’avez compris, c’est bien. Je n’ai pas la moindre intention de vous punir.
+
+[06465.125]
+Woodrow
+
+[06465.126]
+Et désormais, plus besoin de demander audience. Venez quand vous voudrez, sans façons.
+
+[06465.128]
+... Hein ?
+
+[06465.129]
+Woodrow
+
+[06465.130]
+Le fils de Stahn et de Rutee, mes compagnons d’armes, est pour moi comme un fils.
+
+[06465.131]
+Woodrow
+
+[06465.132]
+Qu’un fils fasse des démarches pour voir son père, ce serait étrange, non ?
+
+[06465.134]
+Majesté...
+
+[06465.135]
+Woodrow
+
+[06465.136]
+« Majesté », c’est trop raide aussi. Woodrow suffira.
+
+[06465.137]
+Woodrow
+
+[06465.138]
+Moi, je t’appellerai {NAME:01 00 00 00}, si tu veux bien ?
+
+[06465.140]
+Bien sûr ! Majes... non : Woodrow !
+
+[06465.141]
+Woodrow
+
+[06465.142]
+À propos, si vous êtes venus tout exprès de Cresta, c’est qu’il y a une raison, j’imagine...
+
+[06465.144]
+C’est à moi de vous le dire. Il y avait une chose que je voulais vérifier en vous rencontrant, Woodrow.
+
+[06465.146]
+...
+......
+
+[06465.148]
+Ce n’est pas ça, alors...
+
+[06465.150]
+D-dis, courage, {NAME:02 00 00 00} !
+
+[06465.151]
+Woodrow
+
+[06465.152]
+{NAME:01 00 00 00}, qu’est-ce donc... ?
+
+[06465.154]
+Woodrow, {NAME:02 00 00 00} cherche un héros.
+
+[06465.155]
+Woodrow
+
+[06465.156]
+Elle cherche un héros ?
+
+[06465.158]
+Oui... J’ai d’abord rencontré Philia, mais ce n’était pas le héros que je cherche.
+
+[06465.160]
+Alors je me suis dit que vous, Woodrow, peut-être...
+
+[06465.161]
+Woodrow
+
+[06465.162]
+Mais... moi non plus, je n’étais pas ce que tu appelles un héros.
+
+[06465.163]
+Woodrow
+
+[06465.164]
+Autrement dit, les héros que le monde nomme ainsi ne sont pas forcément celui que tu cherches... Voilà qui s’annonce rude.
+
+[06465.166]
+Ça ira, {NAME:02 00 00 00} ! On est là, nous. On va s’en sortir !
+
+[06465.167]
+Woodrow
+
+[06465.168]
+Ha ha ! Tel père, tel fils. Devant les difficultés, Stahn disait toujours cela, lui aussi.
+
+[06465.170]
+Papa aussi...
+
+[06465.171]
+Woodrow
+
+[06465.172]
+{NAME:02 00 00 00}, un conseil de ma part.
+
+[06465.174]
+Oui...
+
+[06465.175]
+Woodrow
+
+[06465.176]
+« Ne renonce pas, on va s’en sortir. » C’est grâce à ces mots de Stahn que nous sommes allés jusqu’au bout.
+
+[06465.177]
+Woodrow
+
+[06465.178]
+Un héros, c’est peut-être un homme comme lui, dont le cœur ne renonce pas. Souviens-t’en.
+
+[06465.180]
+Oui, merci beaucoup.
+
+[06465.181]
+Woodrow
+
+[06465.182]
+Et si tu étais près de l’oublier, regarde {NAME:01 00 00 00}, à côté de toi.
+
+[06465.183]
+Woodrow
+
+[06465.184]
+Car il semble bien avoir hérité de ses parents l’étoffe d’un héros.
+
+[06465.186]
+Hein ? Ça veut dire... !
+
+[06465.187]
+Woodrow
+
+[06465.188]
+Bien sûr, il lui reste, semble-t-il, bien des efforts à faire... mais l’étoffe, il l’a, sans aucun doute.
+
+[06465.190]
+O-oui, je ferai de mon mieux ! Comptez sur moi !
+
+[06465.192]
+Un héros... Moi, un héros... !
+
+[06465.194]
+Au fait... Elraine était là tout à l’heure. Que venait-elle faire ici ?
+
+[06465.196]
+... Elle parlait de Lentilles, il m’a semblé...
+
+[06465.197]
+Woodrow
+
+[06465.198]
+Vous avez entendu... J’aurais préféré que cela ne se sache pas.
+
+[06465.200]
+Elle est venue dire « donnez les Lentilles », j’imagine ? Leur façon de faire est partout la même.
+
+[06465.201]
+Woodrow
+
+[06465.202]
+Disons que c’est à peu près cela.
+
+[06465.203]
+Woodrow
+
+[06465.204]
+À vrai dire, elles me pèsent à moi aussi, mais il y en a tant que je ne peux les remettre à personne.
+
+[06465.206]
+Il y en a tant que ça ?
+
+[06465.207]
+Woodrow
+
+[06465.208]
+Va voir, si tu veux. Elles sont réunies dans la salle derrière le trône.
+
+[06465.209]
+Garde
+
+[06465.210]
+Ici, la salle d’audience.
+
+[06465.211]
+Woodrow
+
+[06465.212]
+Guaaaaaaah !!
+
+[06465.214]
+W-Woodrow !
+
+[06465.216]
+T-toi, Barbatos !!
+
+[06465.217]
+Barbatos
+
+[06465.218]
+Hoo, nous revoilà, gamin ! {NAME:01 00 00 00}, c’est cela ? Un lien singulier nous unit, on dirait.
+
+[06465.220]
+C’est toi qui as fait ça au roi Woodrow... ! Bon sang, je ne te le pardonnerai pas, jamais !
+
+[06465.221]
+Barbatos
+
+[06465.222]
+J’ai atteint mon but ! Le reste, cette femme en fera ce qu’elle voudra. Adieu, {NAME:01 00 00 00} !
+
+[06465.224]
+Cette femme... ? De qui tu parles !?
+
+[06465.226]
+Ça va !? Tiens bon, Woodrow !!
+
+[06465.227]
+Woodrow
+
+[06465.228]
+Gh, mmh...
+
+[06465.230]
+La plaie est profonde, mais les points vitaux sont épargnés de justesse. Ça ira, on peut le sauver !
+
+[06465.232]
+Hé, un médecin, vite !
+
+[06465.234]
+Après Philia, voilà que Woodrow aussi...
+
+[06465.236]
+À ce train-là, le cours du temps va se déformer gravement...
+
+[06465.238]
+... ! Tout cela ne serait tout de même pas... son œuvre à elle... !?
+
+[06465.239]
+Elraine
+
+[06465.240]
+Et quand ce serait, qu’en dirais-tu... {NAME:02 00 00 00} ?
+
+[06465.241]
+Elraine
+
+[06465.242]
+Je vois... c’est bien de lui. Quel que soit le héros, il est sans pitié...
+
+[06465.243]
+Elraine
+
+[06465.244]
+S’il avait remis les Lentilles de bonne grâce, ce jour-là, il n’en serait pas là...
+
+[06465.246]
+Elraine ! Tu te trompes ! On ne sauve pas les hommes de cette façon !
+
+[06465.247]
+Elraine
+
+[06465.248]
+... Et toi, que feras-tu ?
+
+[06465.249]
+Elraine
+
+[06465.250]
+Toi qui n’as encore rien trouvé, prétends-tu parler de salut ?
+
+[06465.252]
+C-c’est que...
+
+[06465.254]
+Qu-qu’est-ce qui se passe !? Pourquoi Elraine est ici !?
+
+[06465.256]
+Et toi, {NAME:02 00 00 00}, comment tu connais Elraine...
+
+[06465.258]
+Il y a plein de choses que je ne comprends pas, mais une au moins est claire.
+
+[06465.260]
+C’est elle qui tire les ficelles ! Allons-y ! Prépare-toi, Elraine !
+
+[06465.262]
+Gh ! Lui...
+
+[06465.263]
+Gaap
+
+[06465.264]
+Nul ne posera un doigt sur dame Elraine.
+
+[06465.266]
+Alors... !
+
+[06465.268]
+Guah !
+
+[06465.270]
+{NAME:04 00 00 00} !
+
+[06465.272]
+Gah !!
+
+[06465.274]
+{NAME:03 00 00 00} !
+
+[06465.275]
+Elraine
+
+[06465.276]
+Le salut des hommes est le vœu de la déesse. Qui s’y oppose, quel qu’il soit, n’aura pas de pitié à attendre.
+
+[06465.278]
+Arrête, Elraine !
+
+[06465.279]
+Elraine
+
+[06465.280]
+Nul ne peut m’arrêter...
+
+[06465.281]
+Elraine
+
+[06465.282]
+Non, pas même toi, {NAME:02 00 00 00}.
+
+[06465.284]
+Non ! Arrête ! J’ai encore ici une mission à accomplir... !
+
+[06465.285]
+Elraine
+
+[06465.286]
+Qui n’a encore rien trouvé n’a pas de raison d’être ici... Retourne-t’en, faible créature.
+
+[06465.288]
+Nooooon !!
+
+[06465.290]
+{NAME:02 00 00 00} !!
+
+[06465.292]
+{NAME:01 00 00 00} ! {NAME:02 00 00 00} !
+
+[06465.294]
+On les suit !
+
+[06465.296]
+Vous allez bien !? Woodrow !
+
+[06465.297]
+Garde
+
+[06465.298]
+{NAME:01 00 00 00} ! Soyez tranquille : les premiers soins sont déjà donnés.
+
+[06465.299]
+Garde
+
+[06465.300]
+Nous avons fait appeler un médecin : il ne va pas tarder.
+
+[06465.302]
+Et vous, vous n’avez rien ? Vous vous êtes frottés à Elraine : vous ne devriez pas être indemnes...
+
+[06465.303]
+Garde
+
+[06465.304]
+C’est que... Elraine s’en est allée sans rien faire.
+
+[06465.306]
+Comment ?
+
+[06465.308]
+{NAME:04 00 00 00} ?
+
+[06465.310]
+Le roi tombé, le peuple se trouble, et l’Ordre trouve la brèche où s’engouffrer. L’occasion était rêvée.
+
+[06465.312]
+Et elle ne l’a pas saisie... Pourquoi Elraine n’a-t-elle pas achevé Woodrow ?
+
+[06465.314]
+Avec le pouvoir d’Elraine, ce n’était pourtant pas impossible...
+
+[06465.315]
+Garde
+
+[06465.316]
+Majesté !
+
+[06465.318]
+Woodrow !
+
+[06465.319]
+Garde
+
+[06465.320]
+Majesté ! Ménagez-vous, je vous en prie !
+
+[06465.321]
+Woodrow
+
+[06465.322]
+Les Lentilles... les Lentilles sont-elles sauves... !? Qu’on me les prenne, cela seul... !
+
+[06465.323]
+Garde
+
+[06465.324]
+Soyez tranquille, Majesté. Elraine a pris la fuite sans rien faire.
+
+[06465.325]
+Garde
+
+[06465.326]
+Personne n’a pu approcher de l’endroit où sont les Lentilles !
+
+[06465.327]
+Woodrow
+
+[06465.328]
+Mais... !
+
+[06465.330]
+Woodrow, nous allons voir tout de suite !
+
+[06465.331]
+Woodrow
+
+[06465.332]
+... À vos visages, c’est donc bien cela...
+
+[06465.334]
+... Oui.
+
+[06465.335]
+Woodrow
+
+[06465.336]
+Quelle... honte ! Les laisser entrer... et pour finir, jusqu’aux Lentilles... !
+
+[06465.338]
+Woodrow ! Nous, on va trouver un moyen... !
+
+[06465.339]
+Woodrow
+
+[06465.340]
+... Ce que tu proposes... je le sais. Pardonne-moi, mais... je voudrais t’en parler demain...
+
+[06465.341]
+Garde
+
+[06465.342]
+Logez au château cette nuit. Sa Majesté en sera plus tranquille.
+
+[06465.344]
+Entendu...
+
+[06465.345]
+Woodrow
+
+[06465.346]
+Pardon de vous avoir fait venir. Pour l’affaire des Lentilles...
+
+[06465.348]
+Euh... avant ça... vous n’auriez pas vu {NAME:02 00 00 00} ?
+
+[06465.349]
+Woodrow
+
+[06465.350]
+{NAME:02 00 00 00} ? Non, je ne l’ai pas vue...
+
+[06465.352]
+Elle n’est pas venue ici ? Alors où est-elle, cette petite ?
+
+[06465.353]
+Soldat
+
+[06465.354]
+Euh, à ce sujet... je ne sais pas si cela vous aidera, mais j’ai quelque chose à vous dire...
+
+[06465.355]
+Soldat
+
+[06465.356]
+Cette nuit, j’étais de garde à la grande porte. Quelqu’un a quitté le château avant le lever du soleil : j’ai trouvé cela étrange, et je l’ai appelé.
+
+[06465.357]
+Soldat
+
+[06465.358]
+C’était {NAME:02 00 00 00}. Elle a murmuré : « Il faut que j’y aille », puis une lumière l’a enveloppée, et elle a disparu.
+
+[06465.359]
+Soldat
+
+[06465.360]
+J’ai cru avoir vu un mirage, et je n’ai rien signalé...
+
+[06465.362]
+Oh non... {NAME:02 00 00 00}, où es-tu donc partie !?
+
+[06465.364]
+À Aigrette, sans doute. Elle y est allée seule, pour arrêter Elraine.
+
+[06465.366]
+C’est de la folie... Elle n’aura que des ennemis autour d’elle.
+
+[06465.368]
+{NAME:01 00 00 00}, il faut vite aller la sauver !
+
+[06465.370]
+........
+
+[06465.372]
+Hé, {NAME:01 00 00 00} ! Si on ne se dépêche pas, ça va mal tourner !
+
+[06465.374]
+Halte.
+
+[06465.376]
+... Tu as peur, n’est-ce pas ?
+
+[06465.378]
+Hein ?
+
+[06465.380]
+Peur d’être encore repoussé, et blessé ?
+
+[06465.382]
+........
+
+[06465.384]
+... J’étais pareil. Par peur d’être blessé, je me suis arrêté.
+
+[06465.386]
+Et j’ai perdu mes amis, et celle que j’aimais. Il ne m’est resté, pour finir... qu’un masque pour me cacher.
+
+[06465.388]
+........
+
+[06465.390]
+Quel que soit le dénouement que tu choisiras, je n’ai aucun titre à m’en mêler. Mais un conseil, je peux le donner.
+
+[06465.392]
+... N’aie pas peur, {NAME:01 00 00 00} ! C’est au-delà de cette peur que se trouve ce que tu cherches.
+
+[06465.394]
+{NAME:04 00 00 00}...
+
+[06465.396]
+... Hé, c’est rare, ça : être du même avis que lui.
+
+[06465.398]
+Qu’est-ce que tu as, {NAME:01 00 00 00} ? Ruminer comme ça, ce n’est pas toi.
+
+[06465.400]
+Il n’y a pas à réfléchir. Ce qui compte, c’est ce que tu ressens, rien d’autre.
+
+[06465.402]
+........
+
+[06465.404]
+Elle n’a peut-être plus besoin de moi. Moi qui ne suis pas un héros, je ne suis peut-être plus rien pour {NAME:02 00 00 00}.
+
+[06465.406]
+Mais malgré tout... malgré tout, je veux sauver {NAME:02 00 00 00} !
+
+[06465.408]
+Alors, vous tous...
+
+[06465.410]
+... Allons-y, {NAME:01 00 00 00}. Au point où on en est, je te suis jusqu’au bout.
+
+[06465.412]
+Moi aussi ! Arrivée jusqu’ici, pas question qu’on me laisse de côté !
+
+[06465.414]
+Pour ma part, je n’ai aucune raison de refuser. Le reste dépend de toi, {NAME:01 00 00 00}.
+
+[06465.416]
+Bien, allons-y, tout le monde. À Aigrette !
+
+[06465.418]
+On y va, et on sauve {NAME:02 00 00 00} ! Et on reprend les Lentilles à Elraine !
+
+[06465.419]
+Woodrow
+
+[06465.420]
+Attends, {NAME:01 00 00 00}.
+
+[06465.421]
+Woodrow
+
+[06465.422]
+C’est là une affaire politique, née entre Heidelberg et l’Ordre d’Atamoni.
+
+[06465.423]
+Woodrow
+
+[06465.424]
+Si l’on y répond par les armes, le heurt est inévitable. Cela peut aller jusqu’à la guerre.
+
+[06465.425]
+Woodrow
+
+[06465.426]
+{NAME:01 00 00 00}, tu as dit vouloir devenir un héros comme Stahn.
+
+[06465.427]
+Woodrow
+
+[06465.428]
+Un héros, c’est celui qui sauve beaucoup de gens. Ce que tu t’apprêtes à faire n’en est-il pas tout le contraire ?
+
+[06465.430]
+C’est vrai, mais... !
+
+[06465.432]
+{NAME:01 00 00 00}... qu’est-ce que tu décides ?
+
+[06465.434]
+... Woodrow, je crois que vous vous trompez.
+
+[06465.436]
+Celui qui ne sait pas protéger une seule personne... celle qui compte pour lui... ne deviendra jamais un héros.
+
+[06465.438]
+Alors j’y vais. J’y vais, et je sauve {NAME:02 00 00 00} !
+
+[06465.439]
+Woodrow
+
+[06465.440]
+... Tu iras donc, quoi qu’il en soit...
+
+[06465.441]
+Woodrow
+
+[06465.442]
+Pardonne-moi, {NAME:01 00 00 00}. Je t’ai mis à l’épreuve, en quelque sorte.
+
+[06465.444]
+Woodrow... ?
+
+[06465.445]
+Woodrow
+
+[06465.446]
+Emporte ceci.
+
+[06465.448]
+Qu’est-ce que c’est... ?
+
+[06465.450]
+« Le porteur de la présente est chargé, par mon ordre royal, de reprendre les Lentilles. »
+
+[06465.452]
+« J’autorise, en mon nom, la levée de toute contrainte qui s’opposerait à l’accomplissement de cette charge. »
+
+[06465.454]
+« Woodrow Kelvin, roi de Phandaria » ... Mais c’est un ordre royal, ça !
+
+[06465.455]
+Woodrow
+
+[06465.456]
+Fais comme tu l’entends. Je me charge du reste.
+
+[06465.458]
+Woodrow, alors... !
+
+[06465.459]
+Woodrow
+
+[06465.460]
+Va, {NAME:01 00 00 00}. Pour devenir son héros à elle, et celui de nul autre !
+
+[06465.462]
+Oui !
+
+[06465.463]
+Woodrow
+
+[06465.464]
+... Que lui est-il donc arrivé ? On dirait un autre que celui d’hier.
+
+[06465.465]
+Woodrow
+
+[06465.466]
+C’est comme regarder un fils revenu de voyage, grandi d’une tête...
+
+[06465.467]
+Woodrow
+
+[06465.468]
+Un fils... Non : je ne peux plus l’appeler « le fils de Stahn ».
+
+[06465.469]
+Woodrow
+
+[06465.470]
+Car il est déjà un homme : {NAME:01 00 00 00} Dunamis...
+
+[06465.472]
+{NAME:01 00 00 00} obtient le titre « {08:24 08 00 00} ».
+
+[06465.473]
+Woodrow
+
+[06465.474]
+Après le dernier désastre, l’idée s’est répandue qu’il fallait moins dépendre des Lentilles.
+
+[06465.475]
+Woodrow
+
+[06465.476]
+En soi, il y avait lieu de s’en réjouir... mais la façon de s’en défaire a posé problème.
+
+[06465.478]
+Jetées n’importe comment, rien ne dit qu’un autre n’en ferait pas mauvais usage, c’est ça ?
+
+[06465.479]
+Woodrow
+
+[06465.480]
+J’ai donc proposé d’en assurer la garde. Cette masse de Lentilles en est le résultat.
+
+[06465.481]
+Woodrow
+
+[06465.482]
+Moi qui redoutais de voir les Lentilles réunies, me voilà chargé d’une telle masse... Quelle ironie.
+
+[06465.484]
+Mais je crois que c’est la preuve que les gens de Phandaria ont confiance en vous, Woodrow.
+
+[06465.486]
+S’ils vous ont confié leurs Lentilles, c’est qu’ils se sont dit qu’entre vos mains, elles seraient en sûreté.
+
+[06465.487]
+Woodrow
+
+[06465.488]
+Puisses-tu dire vrai.
+
+[06465.489]
+Woodrow
+
+[06465.490]
+En tout cas, les ayant prises en garde, je dois en répondre : veiller de près à ce qu’on n’en fasse pas mauvais usage.
+
+[06465.491]
+Woodrow
+
+[06465.492]
+Oh, {NAME:01 00 00 00}. Et vous tous... Vous avez atteint votre but sans dommage, semble-t-il.
+
+[06465.494]
+Oui, nous avons pu sauver {NAME:02 00 00 00}, tant bien que mal. Seulement, les Lentilles de Phandaria...
+
+[06465.495]
+Woodrow
+
+[06465.496]
+On me l’a rapporté : englouties au fond de la mer, avec le Dragon volant.
+
+[06465.498]
+Pardonnez-moi. Tout ça parce que je n’ai pas été assez fort...
+
+[06465.499]
+Woodrow
+
+[06465.500]
+Tu n’as pas à t’excuser. Avoir empêché les Lentilles d’être réunies en un seul point, c’est bien assez.
+
+[06465.501]
+Woodrow
+
+[06465.502]
+Au nom du peuple de Phandaria, je te remercie. Merci, {NAME:01 00 00 00}.
+
+[06465.504]
+Non, si j’ai pu être utile, j’en suis honoré.
+
+[06465.505]
+Woodrow
+
+[06465.506]
+Je voudrais récompenser vos mérites, mais tout ce que nous pouvons faire à présent, c’est vous loger au château.
+
+[06465.507]
+Woodrow
+
+[06465.508]
+Qu’en dis-tu, {NAME:01 00 00 00} ?
+
+[06465.510]
+Merci beaucoup ! Avec grand plaisir !
+
+[06465.511]
+Woodrow
+
+[06465.512]
+Hm, {NAME:01 00 00 00}. Qu’y a-t-il ? Tu n’as pas bonne mine.
+
+[06465.514]
+Woodrow, écoutez-moi, je vous en prie... !
+
+[06465.515]
+Woodrow
+
+[06465.516]
+Je vois... Elraine n’était donc pas une simple humaine...
+
+[06465.517]
+Woodrow
+
+[06465.518]
+Tout de même... le destin est cruel, d’imposer pareille épreuve à des êtres si jeunes.
+
+[06465.520]
+Moi, je ne sais pas ce que je dois faire...
+
+[06465.521]
+Woodrow
+
+[06465.522]
+................ ................
+
+[06465.523]
+Woodrow
+
+[06465.524]
+Supposons, par exemple, un petit village et une grande ville au bord d’une rivière.
+
+[06465.525]
+Woodrow
+
+[06465.526]
+Le village, en amont, détourne l’eau de la rivière pour faire pousser ses cultures.
+
+[06465.527]
+Woodrow
+
+[06465.528]
+Si bien que la ville, en aval, manque toujours d’eau à boire.
+
+[06465.529]
+Woodrow
+
+[06465.530]
+Qu’un conflit naisse entre les deux, c’est dans l’ordre des choses. Pour le droit à l’eau, bien sûr.
+
+[06465.531]
+Woodrow
+
+[06465.532]
+{NAME:01 00 00 00}, toi, que ferais-tu en pareil cas ?
+
+[06465.534]
+Ce que je ferais... Le village et la ville ont chacun leurs raisons : je ne peux pas trancher.
+
+[06465.535]
+Woodrow
+
+[06465.536]
+Je vois. L’avis se défend.
+
+[06465.537]
+Woodrow
+
+[06465.538]
+Mais si tu étais à ma place... si tu étais roi, cela ne convaincrait personne.
+
+[06465.539]
+Woodrow
+
+[06465.540]
+Car pour les habitants, c’est une question de vie ou de mort.
+
+[06465.542]
+Alors vous, Woodrow, que feriez-vous ?
+
+[06465.543]
+Woodrow
+
+[06465.544]
+Je réfléchirais.
+
+[06465.546]
+Vous réfléchiriez ?
+
+[06465.547]
+Woodrow
+
+[06465.548]
+Oui : réfléchir, réfléchir, réfléchir jusqu’au bout.
+
+[06465.550]
+Et si la réponse ne vient toujours pas ?
+
+[06465.551]
+Woodrow
+
+[06465.552]
+Réfléchir encore, jusqu’à ce qu’elle vienne.
+
+[06465.553]
+Woodrow
+
+[06465.554]
+Et la réponse trouvée, s’y tenir jusqu’à la fin, quoi qu’il arrive.
+
+[06465.555]
+Woodrow
+
+[06465.556]
+Telle est, je crois, la responsabilité de celui à qui une décision est confiée.
+
+[06465.558]
+La responsabilité de celui à qui une décision est confiée...
+
+[06465.559]
+Woodrow
+
+[06465.560]
+Cela peut sembler une parole légère, mais... tourmente-toi, et réfléchis.
+
+[06465.561]
+Woodrow
+
+[06465.562]
+Tourmente-toi pour de bon, souffre, prends tout le temps qu’il reste, et trouve la réponse que toi-même tu pourras accepter.
+
+[06465.563]
+Woodrow
+
+[06465.564]
+Ce doit être dur, mais nul ne peut prendre ta place. Ne te laisse pas abattre, {NAME:01 00 00 00}.
+
+[06465.566]
+J’ai compris... Je réfléchirai jusqu’au tout dernier instant.
+
+[06465.567]
+Woodrow
+
+[06465.568]
+Et toi, {NAME:02 00 00 00}, ce doit être dur pour toi aussi...
+
+[06465.570]
+Moi, ça va. Parce que je crois en {NAME:01 00 00 00} !
+
+[06465.572]
+{NAME:02 00 00 00}...
+
+[06465.573]
+Woodrow
+
+[06465.574]
+... Je vois. Je n’avais donc pas à m’inquiéter.
+
+[06465.576]
+Si, je vous suis vraiment reconnaissante de votre sollicitude. Woodrow... merci infiniment.
+
+[06465.578]
+Merci infiniment, Woodrow. Alors, nous y allons.
+
+[06465.579]
+Soyez tranquille : les premiers soins sont déjà donnés.
+
+[06465.580]
+Nous avons fait appeler un médecin : il ne va pas tarder, je pense.
+
+[06465.581]
+Elraine s’en est allée sans rien faire.
+
+[06465.582]
+Garde
+
+[06465.583]
+Bon voyage.
+
+[06465.584]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06465.585]
+Voulez-vous passer la nuit ?
+
+[06465.587]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06465.588]
+Reposez-vous bien.
+
+[06465.589]
+Bonjour.
+
+[06465.590]
+Vous n’avez pas assez d’argent.
+
+[06465.591]
+Au plaisir de vous revoir.
+
+[06465.596]
+Obtenu : {16:26 7A}.
+
+[06465.598]
+Obtenu : {08:FF FF FF FF}.
+
+[06465.600]
+Trouvé : {16:26 82}, mais vous n’avez plus de place.
+
+[06465.602]
+Il n’y a rien ici.
+

@@ -1,0 +1,43 @@
+[06425.001]
+Mine désaffectée Oberon
+
+[06425.002]
+Mine désaffectée Oberon
+
+[06425.003]
+Bon voyage.
+
+[06425.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06425.005]
+Voulez-vous passer la nuit ?
+
+[06425.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06425.008]
+Reposez-vous bien.
+
+[06425.009]
+Bonjour.
+
+[06425.010]
+Vous n’avez pas assez d’argent.
+
+[06425.011]
+Au plaisir de vous revoir.
+
+[06425.016]
+Obtenu : {16:25 BA}.
+
+[06425.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06425.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06425.022]
+Il n’y a rien ici.
+

@@ -1,0 +1,244 @@
+[06438.001]
+Heidelberg : auberge
+
+[06438.002]
+Heidelberg
+
+[06438.004]
+Des toilettes vraiment propres. Le maître de cette auberge doit aimer la propreté.
+
+[06438.006]
+Il y a un bâtiment juste derrière : la vue est bouchée...
+
+[06438.008]
+Un énorme tuyau de vapeur. C’est lui qui doit porter la chaleur dans chaque chambre.
+
+[06438.009]
+Ménestrel
+
+[06438.010]
+Je suis un ménestrel de passage. Écoutez donc un air.
+
+[06438.011]
+Ménestrel
+
+[06438.012]
+Sur la ville où s’amoncellent les flocons blancs~♪ se dresse un héros solitaire~♪ Son nom est... a, a-atchoum !
+
+[06438.013]
+Ménestrel
+
+[06438.014]
+P-pardod... Il fait froid, à Heidelberg, dites. Du coup, j’ai attrapé un rhume...
+
+[06438.015]
+Ménestrel
+
+[06438.016]
+Je me disais qu’une ville où vit Woodrow, le Roi-Héros, m’inspirerait une chanson, mais ce n’est pas le mo... a-atchoum !
+
+[06438.017]
+Ménestrel
+
+[06438.018]
+Je me disais qu’une ville où vit Woodrow, le Roi-Héros, m’inspirerait une chanson, mais ce n’est pas le mo... a-atchoum !
+
+[06438.019]
+Ménestrel
+
+[06438.020]
+À ce jeune et charmant couple, j’offre une chanson d’amour...
+
+[06438.021]
+Ménestrel
+
+[06438.022]
+Aah, ton amour~♪ fond dans cette neige~ et s’efface~♪
+
+[06438.024]
+S’efface... Ce n’est pas une chanson d’amour, ça.
+
+[06438.025]
+Ménestrel
+
+[06438.026]
+Tiens ? Ma chanson avait quelque chose de bizarre !?
+
+[06438.027]
+Ménestrel
+
+[06438.028]
+Pardon, j’ai mal à la tête depuis tout à l’heure, je ne... a, a-atchoum !
+
+[06438.029]
+Ménestrel
+
+[06438.030]
+A-atchoum ! A-atchoum ! ... Aïe, j’ai peut-être bien attrapé un rhume pour de bon...
+
+[06438.031]
+Ménestrel
+
+[06438.032]
+A-atchoum ! Aah... j’ai la tête dans le brouillard...
+
+[06438.033]
+Ménestrel
+
+[06438.034]
+C’était quoi, ce bruit, tout à l’heure... On aurait dit un feu d’artifice géant... ... J’ai dû l’imaginer...
+
+[06438.035]
+Ménestrel
+
+[06438.036]
+C’était quoi, ce bruit, tout à l’heure... On aurait dit un feu d’artifice géant... ... J’ai dû l’imaginer...
+
+[06438.037]
+Ménestrel
+
+[06438.038]
+A-atchoum ! Aah... j’ai la tête dans le brouillard...
+
+[06438.039]
+Ménestrel
+
+[06438.040]
+... Tout à l’heure, j’ai même cru voir le Dragon volant... C’est un rhume, pas de doute...
+
+[06438.041]
+Ménestrel
+
+[06438.042]
+Le Dragon volant qui fait « bam » sur le château... C’était une vision, forcément... ... a, a-atchoum !
+
+[06438.043]
+Ménestrel
+
+[06438.044]
+Le Dragon volant attaque le château de Heidelberg ! Assister à un instant aussi dramatique ! Un ménestrel ne peut pas se taire !
+
+[06438.045]
+Ménestrel
+
+[06438.046]
+Je me suis mis à composer sans tarder. Voyons : l’assassin venu du ciel déploie ses ailes... ... a, a-atchim !
+
+[06438.047]
+Ménestrel
+
+[06438.048]
+... Tiens ? Je ne retrouve plus les paroles... L’assassin venu du ciel... l’assassin... ... euh...
+
+[06438.049]
+Ménestrel
+
+[06438.050]
+Ah, zut ! Avec cet éternuement, j’ai tout oublié !
+
+[06438.051]
+Ménestrel
+
+[06438.052]
+Oublier ses paroles pour un éternuement ! Faut-il être bê... bê... Atchoum ! Atchoum !
+
+[06438.053]
+Ménestrel
+
+[06438.054]
+Les gens~ se relèvent~♪ ... Hmm, plutôt que « les gens », « tous ceux qui », peut-être ?
+
+[06438.056]
+Hm ? Tu fais quoi, toi ?
+
+[06438.057]
+Ménestrel
+
+[06438.058]
+Ah, c’est une chanson sur l’affaire de l’autre jour. Pour un ménestrel, c’est dans ces moments-là qu’il faut chanter.
+
+[06438.059]
+Ménestrel
+
+[06438.060]
+Quand le Dragon volant a attaqué, je me suis dit : voilà de quoi faire une chanson sur le roi Woodrow.
+
+[06438.061]
+Ménestrel
+
+[06438.062]
+Mais j’y ai renoncé : je chanterai les gens de la ville. C’est plus intéressant.
+
+[06438.063]
+Ménestrel
+
+[06438.064]
+Se relèvent... atchoum ! ... Tiens ? Euh, les paroles d’après... c’était quoi ?
+
+[06438.065]
+Ménestrel
+
+[06438.066]
+Je suis un ménestrel de passage. Écoutez donc un air.
+
+[06438.067]
+Ménestrel
+
+[06438.068]
+Sur la ville où s’amoncellent les flocons blancs~♪ se dresse un héros solitaire~♪ Son nom est... a, a-atchoum !
+
+[06438.069]
+Ménestrel
+
+[06438.070]
+P-pardod... Il fait froid, à Heidelberg, dites. Du coup, j’ai attrapé un rhume...
+
+[06438.071]
+Ménestrel
+
+[06438.072]
+Je me disais qu’une ville où vit Woodrow, le Roi-Héros, m’inspirerait une chanson, mais ce n’est pas le mo... a-atchoum !
+
+[06438.073]
+Ménestrel
+
+[06438.074]
+Je me disais qu’une ville où vit Woodrow, le Roi-Héros, m’inspirerait une chanson, mais ce n’est pas le mo... a-atchoum !
+
+[06438.075]
+Bon voyage.
+
+[06438.076]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06438.077]
+Voulez-vous passer la nuit ?
+
+[06438.079]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06438.080]
+Reposez-vous bien.
+
+[06438.081]
+Bonjour.
+
+[06438.082]
+Vous n’avez pas assez d’argent.
+
+[06438.083]
+Au plaisir de vous revoir.
+
+[06438.088]
+Obtenu : {16:25 BA}.
+
+[06438.090]
+Obtenu : {08:FF FF FF FF}.
+
+[06438.092]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06438.094]
+Il n’y a rien ici.
+

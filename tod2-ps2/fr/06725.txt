@@ -1,0 +1,61 @@
+[06725.001]
+Mine désaffectée Oberon
+
+[06725.002]
+Mine désaffectée Oberon
+
+[06725.004]
+La note laissée par quelqu’un que l’éboulement a enfermé ici, peut-être.
+
+[06725.006]
+« C’est fini... Plus d’eau... Les vivres sont épuisés depuis longtemps... »
+
+[06725.008]
+« C’est juste dans ces moments-là que le visage de mes parents me revient... Après tout le mal que je leur ai fait... Quel égoïste je suis... »
+
+[06725.010]
+« Partir avant ses parents, c’est le pire des torts qu’on puisse leur faire... Au secours au secours au secours AU SECOURS AU SECOURS AU SECOURS ! »
+
+[06725.012]
+« Pourvu que je vive, pourvu que je vive ! Je ne veux plus rien, plus d’argent ! Je veux vivre à l’aide à l’aide à l’aide... »
+
+[06725.014]
+À partir d’ici, l’écriture est trop désordonnée pour être lue...
+
+[06725.015]
+Bon voyage.
+
+[06725.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06725.017]
+Voulez-vous passer la nuit ?
+
+[06725.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06725.020]
+Reposez-vous bien.
+
+[06725.021]
+Bonjour.
+
+[06725.022]
+Vous n’avez pas assez d’argent.
+
+[06725.023]
+Au plaisir de vous revoir.
+
+[06725.028]
+Obtenu : {16:25 BA}.
+
+[06725.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06725.032]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06725.034]
+Il n’y a rien ici.
+

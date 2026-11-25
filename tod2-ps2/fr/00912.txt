@@ -1,0 +1,27 @@
+[00912.001]
+Presque personne ne sait qu’un péril menace le monde en ce moment, je crois.
+
+[00912.002]
+Oui.
+
+[00912.003]
+Même si tu sauves le monde, personne ne saura que tu es un héros, {NAME:01 00 00 00}...
+
+[00912.004]
+Ça ne fait rien. Je ne vais pas me battre pour devenir un héros.
+
+[00912.005]
+... Tu es un héros, {NAME:01 00 00 00}. Tu as sauvé tant de gens, à tant d’époques.
+
+[00912.006]
+Tu crois ? Moi, je pensais qu’un héros, c’était quelque chose de plus classe.
+
+[00912.007]
+Moi aussi, je l’imaginais plus extraordinaire... Mais en vrai, non. Il riait, se fâchait, pleurait comme tout le monde : un garçon tout à fait ordinaire, dont les seuls atouts étaient l’entrain et l’ardeur.
+
+[00912.008]
+{NAME:02 00 00 00}...
+
+[00912.009]
+Peu importe que nul ne le voie. Car tu es... mon héros, à moi seule.
+

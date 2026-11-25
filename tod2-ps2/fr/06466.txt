@@ -1,0 +1,106 @@
+[06466.001]
+Château de Heidelberg : réserve des Lentilles
+
+[06466.002]
+Château de Heidelberg
+
+[06466.003]
+Château de Heidelberg : réserve des Lentilles
+
+[06466.005]
+Ouah, incroyable... !
+
+[06466.007]
+Réunies de tout Phandaria, ça finit par faire ce nombre-là, forcément.
+
+[06466.009]
+Je comprends que ceux d’Atamoni aient des vues dessus.
+
+[06466.011]
+Oh non... !
+
+[06466.013]
+Plus l’ombre d’une Lentille !
+
+[06466.015]
+L’attaque contre Woodrow était un leurre. Leur vrai but, c’étaient les Lentilles.
+
+[06466.017]
+M-mais autant de Lentilles, comment ont-ils pu...
+
+[06466.019]
+... Avec le pouvoir d’Elraine, déplacer de la matière n’est rien. Elle envoie bien des êtres humains dans le futur.
+
+[06466.021]
+Mais... une telle masse de Lentilles, que compte-t-elle en faire !?
+
+[06466.023]
+{NAME:05 00 00 00}, tu as dit que la déesse Fortuna était descendue il y a dix ans.
+
+[06466.025]
+O-oui, normalement... Et alors ?
+
+[06466.027]
+... Se pourrait-il...
+
+[06466.028]
+Garde
+
+[06466.029]
+{NAME:01 00 00 00}, quelque chose ne va...
+
+[06466.030]
+Garde
+
+[06466.031]
+C-ce n’est pas possible ! Les Lentilles ont disparu !!
+
+[06466.032]
+Garde
+
+[06466.033]
+Vite, prévenez tous les soldats ! Qu’on fouille le château de fond en comble !
+
+[06466.034]
+Garde
+
+[06466.035]
+O-oui !
+
+[06466.036]
+Bon voyage.
+
+[06466.037]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06466.038]
+Voulez-vous passer la nuit ?
+
+[06466.040]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06466.041]
+Reposez-vous bien.
+
+[06466.042]
+Bonjour.
+
+[06466.043]
+Vous n’avez pas assez d’argent.
+
+[06466.044]
+Au plaisir de vous revoir.
+
+[06466.049]
+Obtenu : {16:25 BA}.
+
+[06466.051]
+Obtenu : {08:FF FF FF FF}.
+
+[06466.053]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06466.055]
+Il n’y a rien ici.
+

@@ -1,0 +1,1062 @@
+[06394.001]
+Port d’Aigrette
+
+[06394.002]
+Port d’Aigrette
+
+[06394.003]
+Port d’Aigrette
+
+[06394.004]
+Port d’Aigrette
+
+[06394.005]
+Guichetier
+
+[06394.006]
+Les billets du navire de ligne sont tous vendus.
+
+[06394.007]
+Guichetier
+
+[06394.008]
+Ici, l’embarcadère.
+
+[06394.009]
+Guichetier
+
+[06394.010]
+Je regrette, les billets du navire de ligne sont tous vendus.
+
+[06394.011]
+Guichetier
+
+[06394.012]
+Veuillez attendre le prochain départ.
+
+[06394.013]
+Guichetier
+
+[06394.014]
+Ici, l’embarcadère.
+
+[06394.015]
+Guichetier
+
+[06394.016]
+D’ici, vous pouvez gagner Cherik. Voulez-vous embarquer ?
+
+[06394.018]
+{03:00 00 00 00}　Aller à Cherik ({0B:01 00 00 00}{14:24 6C}{0B:00 00 00 00} Gald)　
+　Ne pas embarquer　
+
+[06394.019]
+Guichetier
+
+[06394.020]
+Hé là, il n’y a pas le compte. Soyez gentil, voyons, m’sieur !
+
+[06394.021]
+Guichetier
+
+[06394.022]
+D’ici, vous pouvez gagner Cherik. Voulez-vous embarquer ?
+
+[06394.024]
+{03:00 00 00 00}　Aller à Cherik　
+　Ne pas embarquer　
+
+[06394.025]
+Guichetier
+
+[06394.026]
+Vous êtes sûr, m’sieur ? Dépêchez-vous, le navire va partir !
+
+[06394.028]
+Le roi Woodrow, il est comment, tu crois !?
+
+[06394.030]
+Bah, on l’appelle le Roi-Héros : ce n’est pas le premier venu, ça, c’est sûr.
+
+[06394.032]
+Pourvu que cette fois, ce soit un vrai héros...
+
+[06394.034]
+Tu le sauras en le voyant. Mais dis-moi, les billets, tu ne les achètes pas ?
+
+[06394.036]
+Ah, j’avais complètement oublié ! Allons vite les acheter !
+
+[06394.037]
+Guichetier
+
+[06394.039]
+Monsieur, des billets pour le navire de ligne de Snowfria, s’il vous plaît. Quatre en tout !
+
+[06394.040]
+Bien, quatre personnes ! Ça fera 400 Gald. Ça vous va ?
+
+[06394.042]
+{03:00 00 00 00}　Embarquer　
+　Ne pas embarquer　
+
+[06394.043]
+Merci bien ! Vous avez eu de la chance, m’sieur : c’étaient les derniers pour ce départ.
+
+[06394.045]
+C’est vrai !? Génial, quelle veine ! C’est peut-être le signe qu’il va arriver quelque chose de bien !
+
+[06394.046]
+Hé là, il n’y a pas le compte. Soyez gentil, voyons, m’sieur !
+
+[06394.048]
+Je paie.
+
+[06394.049]
+Guichet
+
+[06394.051]
+Dites, monsieur, il reste des billets pour le navire de Cherik ? S’il y en a, j’en voudrais trois.
+
+[06394.052]
+Pour Cherik, bien. Trois billets : cela fera {0B:01 00 00 00}{14:24 6C}{0B:00 00 00 00} Gald.
+
+[06394.054]
+{03:00 00 00 00}　Embarquer　
+　Ne pas embarquer　
+
+[06394.055]
+Vous n’avez pas assez d’argent, semble-t-il.
+
+[06394.057]
+Je paie, moi.
+
+[06394.058]
+Guichetier
+
+[06394.059]
+Au fait, vous comptez sérieusement aller en Calvalese ?
+
+[06394.061]
+Oui, c’est ce qu’on compte faire... Il y a un problème ?
+
+[06394.062]
+Guichetier
+
+[06394.063]
+C’est que, par là-bas, il y a beaucoup de gens grossiers qui ne suivent pas la volonté de la déesse Fortuna.
+
+[06394.064]
+Guichetier
+
+[06394.065]
+Soyez bien prudents. Que la déesse vous protège...
+
+[06394.067]
+Grossiers... il parle de {NAME:05 00 00 00} et des siens, peut-être ? Il est drôlement impoli, lui !
+
+[06394.069]
+Laisse, {NAME:01 00 00 00}. Qu’il dise ce qui lui chante.
+
+[06394.071]
+Des gens qui ne bougent pas sans la « volonté de la déesse », ils peuvent bien dire ce qu’ils veulent : moi, je m’en moque.
+
+[06394.073]
+Et puis le navire va lever l’ancre. Allez, dépêchons.
+
+[06394.074]
+Marin
+
+[06394.075]
+Faut croire que je suis un homme de la mer jusqu’à la moelle. Gah ha ha !
+
+[06394.076]
+Marin
+
+[06394.077]
+Aujourd’hui, je ne travaille pas, mais va savoir, mes pieds m’ont porté tout seuls jusqu’au port.
+
+[06394.078]
+Marin
+
+[06394.079]
+Faut croire que je suis un homme de la mer jusqu’à la moelle. Gah ha ha !
+
+[06394.080]
+Marin
+
+[06394.081]
+Holà, si tu veux monter à bord, achète un billet !
+
+[06394.082]
+Marin
+
+[06394.083]
+Et alors, le grand large est à toi !
+
+[06394.084]
+Marin
+
+[06394.085]
+Alors, gamin, le voyage en mer t’a plu ? C’est beau, la mer ! Tout y est grandiose !
+
+[06394.086]
+Marin
+
+[06394.087]
+Tous les voyages en mer commencent au port !
+
+[06394.088]
+Marin
+
+[06394.089]
+Vous, vous êtes vraiment faits pour être marins. Jeunes, l’air robustes, et puis ces jo~lies fri-mou-sses...♪
+
+[06394.090]
+Jeune
+
+[06394.091]
+Cette carrure solide ! Et ces jolies frimousses ! Vous êtes très bien, vous~♪
+
+[06394.093]
+Q-quoi, qu’est-ce qu’il y a ?
+
+[06394.094]
+Jeune
+
+[06394.095]
+Vous, vous êtes vraiment faits pour être marins. Jeunes, l’air robustes, et puis ces jo~lies fri-mou-sses...♪
+
+[06394.097]
+Quel rapport entre une jolie frimousse et le métier de marin...
+
+[06394.098]
+Jeune
+
+[06394.099]
+La mer est belle. Et moi, je suis tout aussi beau, non ?
+
+[06394.100]
+Jeune
+
+[06394.101]
+J’aime la mer, mais le vent du large m’abîme la peau, et ça, ça ne va pas.
+
+[06394.102]
+Jeune
+
+[06394.103]
+Une mer agitée, c’est ennuyeux, mais une peau irritée, c’est ennuyeux aussi...
+
+[06394.104]
+Jeune
+
+[06394.105]
+Quelque part dans le monde, il y a sûrement un garçon tendre qui me serrera bien fort dans ses bras...★
+
+[06394.106]
+Jeune
+
+[06394.107]
+Vous êtes des voyageurs, vous ? Pourquoi donc voyagez-vous ?
+
+[06394.109]
+J’ai eu l’impression que quelque chose m’attendait quelque part, alors j’ai décidé de partir le chercher.
+
+[06394.110]
+Jeune
+
+[06394.111]
+Alors c’est comme moi★ Moi aussi, c’est pour chercher l’amoureux idéal que je suis devenu marin.
+
+[06394.113]
+Pas de réplique.
+
+[06394.114]
+Bonhomme
+
+[06394.115]
+Bon, qu’est-ce que je fais jusqu’à la prochaine traversée ? Un bon repas ? Ou alors je pars à la recherche d’une fille ?
+
+[06394.116]
+Bonhomme
+
+[06394.117]
+Bon, jusqu’au prochain départ, je me détends à fond !
+
+[06394.118]
+Bonhomme
+
+[06394.119]
+Une fois en mer, on y reste un bon moment : alors à terre, on s’amuse tant qu’on peut.
+
+[06394.120]
+Bonhomme
+
+[06394.121]
+Homme de la mer, y a pas mieux. À chaque pays, un nouvel amour éclot : c’est ça, le sel du voyage.
+
+[06394.122]
+Bonhomme
+
+[06394.123]
+Homme de la mer, y a pas mieux. À chaque pays, un nouvel amour éclot : c’est ça, le sel du voyage.
+
+[06394.125]
+Oh ! Un type comme {NAME:03 00 00 00}, repéré !
+
+[06394.127]
+La ferme !
+
+[06394.128]
+Bonhomme
+
+[06394.129]
+Les larmes ne vont pas à un homme de la mer ! Alors je ne vais pas pleurer parce que ma belle m’a plaqué.
+
+[06394.130]
+Bonhomme
+
+[06394.131]
+Mmh, le vent du large me pique les yeux...
+
+[06394.132]
+Bonhomme
+
+[06394.133]
+Ahaha... Les larmes ne vont pas à un homme de la mer. Tu ne trouves pas ?
+
+[06394.135]
+Je vois... Un chagrin d’amour. Laissons-le tranquille, {NAME:01 00 00 00}.
+
+[06394.136]
+Marin
+
+[06394.137]
+Que la prochaine traversée se passe bien...
+
+[06394.138]
+Protégez notre navire...
+
+[06394.139]
+Il paraît que l’Algernon a disparu.
+
+[06394.140]
+Le capitaine de ce navire était un mécréant qui faisait peu de cas de la majesté de la déesse Fortuna.
+
+[06394.141]
+Il n’a que ce qu’il mérite.
+
+[06394.142]
+Veillons à ne pas commettre la même faute...
+
+[06394.143]
+Guichetier
+
+[06394.144]
+Achetez un billet avant d’embarquer.
+
+[06394.145]
+Chef
+
+[06394.146]
+{16:34 84} : tu en prépares ?
+
+[06394.147]
+Chef
+
+[06394.148]
+Veux-tu apprendre la recette : {16:34 84} ?
+
+[06394.150]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06394.151]
+Chef
+
+[06394.152]
+Je vais t’apprendre la recette : {16:34 84}.
+
+[06394.153]
+Chef
+
+[06394.154]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06394.155]
+Chef
+
+[06394.156]
+J’ai la recette : {16:34 84}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 7C}{0B:00 00 00 00} Gald ?
+
+[06394.158]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06394.159]
+Chef
+
+[06394.160]
+Tu n’as pas assez d’argent.
+
+[06394.161]
+Chef
+
+[06394.162]
+Je te vends la recette : {16:34 84}.
+
+[06394.163]
+Chef
+
+[06394.164]
+Bah, tant pis.
+
+[06394.165]
+{16:24 88}, {16:24 8A}, {16:24 8C}
+
+[06394.166]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.167]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.168]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.169]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.170]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}
+
+[06394.171]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.172]
+{16:24 88}, {16:24 8A}, {16:24 8C},
+{16:24 8E}, {16:24 90}
+
+[06394.173]
+Chef
+
+[06394.174]
+Pour préparer {16:34 84}, il faut :
+{18:44 80}
+
+[06394.175]
+Chef
+
+[06394.176]
+Mais tu as les ingrédients.
+
+[06394.177]
+Chef
+
+[06394.178]
+Si tu me les cèdes, je prépare : {16:34 84}. Ça te va ?
+
+[06394.180]
+{03:00 00 00 00}　Oui
+　Non
+
+[06394.181]
+Chef
+
+[06394.182]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 84}.
+
+[06394.183]
+Chef
+
+[06394.184]
+Dommage. C’est vraiment délicieux...
+
+[06394.185]
+Chef
+
+[06394.186]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06394.187]
+Chef
+
+[06394.188]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06394.189]
+Chef
+
+[06394.190]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06394.192]
+Recette ramassée : {16:34 84}.
+
+[06394.194]
+Recette apprise : {16:34 98}.
+
+[06394.195]
+Bon voyage.
+
+[06394.196]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06394.197]
+Voulez-vous passer la nuit ?
+
+[06394.199]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06394.200]
+Reposez-vous bien.
+
+[06394.201]
+Bonjour.
+
+[06394.202]
+Vous n’avez pas assez d’argent.
+
+[06394.203]
+Au plaisir de vous revoir.
+
+[06394.208]
+Obtenu : {16:25 E6}.
+
+[06394.210]
+Obtenu : {08:FF FF FF FF}.
+
+[06394.212]
+Trouvé : {16:25 EE}, mais vous n’avez plus de place.
+
+[06394.214]
+Il n’y a rien ici.
+
+[06394.215]
+Vétéran
+
+[06394.216]
+Bleu
+
+[06394.218]
+Leur sujet semble être : « l’attaque à l’arme ». Écouter ?
+
+[06394.219]
+Bon, nous aussi, on va se lancer dans l’aventure. Tu as les bases ?
+
+[06394.220]
+Évidemment, quoi ! J’attaque à l’arme à fond avec {09:45 00 00 00} !!
+
+[06394.221]
+Certes, mais combine-le avec les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00}, et tu obtiens quatre sortes d’attaques !
+
+[06394.222]
+Commence par les essayer vraiment plusieurs fois, pour apprendre leur vitesse et leur portée.
+
+[06394.223]
+Et pour attaquer plusieurs fois de suite, on fait comment ?
+
+[06394.224]
+Il suffit de rappuyer sur {09:45 00 00 00} pendant l’attaque. Et bien sûr, les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00} changent la façon d’attaquer.
+
+[06394.225]
+Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge bleue{04:07 00 00 00} en combat.) Si elle tombe trop bas, mieux vaut cesser d’attaquer et attendre qu’elle remonte.
+
+[06394.226]
+Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
+
+[06394.227]
+Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+
+[06394.228]
+Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
+
+[06394.230]
+Leur sujet semble être : « les artes ». Écouter ?
+
+[06394.231]
+Alors, maintenant que tu as appris des artes, ta stratégie a gagné en ampleur, non ?
+
+[06394.232]
+Les artes {09:46 00 00 00}, c’est costaud, mais les TP filent tout de suite, quoi. Ils remontent tout seuls en combat, mais je suis encore faiblard, alors c’est lent.
+
+[06394.233]
+Certes. C’est là que comptent les attaques normales avec {09:45 00 00 00}. Chaque attaque normale qui touche rend 1 TP.
+
+[06394.234]
+Alors attaques normales {09:45 00 00 00} à fond, quoi !
+
+[06394.235]
+... Garder des TP en trop, c’est du gâchis aussi. L’important est de bien s’en servir : lancer un sort pour laisser remonter les SP, par exemple.
+
+[06394.236]
+Les TP remontent aussi un peu quand on abat un ennemi. Et si on en abat plusieurs d’un coup pendant un enchaînement, on en récupère davantage.
+
+[06394.238]
+Leur sujet semble être : « les enchantements ». Écouter ?
+
+[06394.239]
+J’ai appris un enchantement aussi.
+
+[06394.240]
+... Et c’est quoi, un enchantement ?
+
+[06394.241]
+Hm. Pour faire simple : « le pouvoir de régler à son goût les artes et les sorts qu’on connaît ».
+
+[06394.242]
+D’abord, sers-t’en sans cesse pour faire monter le nombre d’usages ! Tu pourras alors équiper toutes sortes d’enchantements.
+
+[06394.243]
+Alors j’utilise un seul arte à fond, quoi.
+
+[06394.244]
+C’est une méthode. Mais on ne change pas d’enchantement en plein combat. Mettre des enchantements variés sur beaucoup d’artes n’est pas mal non plus.
+
+[06394.245]
+Lancer un sort qui affaiblit l’ennemi, puis foncer l’arme au poing... En maîtrisant artes et sorts, la stratégie s’élargit. ... On peut aussi se compléter entre compagnons.
+
+[06394.246]
+Au fait, retirer un enchantement équipé rend les usages : tu as tout intérêt à faire des essais.
+
+[06394.247]
+Mon arte préféré touche pas souvent, alors pour compenser, je lui mets un enchantement de précision.
+
+[06394.248]
+... Dans ton cas, tu frappes simplement dans le vide. Un coup dans le vide ne compte pas comme usage : c’est du gâchis !
+
+[06394.249]
+Et un sort de soin ne gagne un usage que « lancé sur une cible à 50 % de HP ou moins ». Attention !!
+
+[06394.250]
+C’est sûr, s’en servir pour une égratignure, ça forme pas, quoi.
+
+[06394.252]
+Leur sujet semble être : « la stratégie de combat ». Écouter ?
+
+[06394.253]
+Décidons de nos stratégies pour faire face à n’importe quel ennemi ! Que fais-tu si surgit « un ennemi à la défense solide » ?
+
+[06394.254]
+Tout le monde lance des sorts à fond, quoi.
+
+[06394.255]
+Les sorts, ce n’est pas mal, mais si tout le monde incante, on se fait rosser à loisir. Mieux vaut garder quelqu’un à l’avant.
+
+[06394.256]
+Et si « l’arrière-garde ennemie lance des sorts puissants » ?
+
+[06394.257]
+Ça, je l’ai appris par cœur hier. Avec « Bloque les sorts », on gêne leur incantation.
+
+[06394.258]
+C’est à peu près ça.
+
+[06394.259]
+On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
+
+[06394.260]
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+
+[06394.262]
+Leur sujet semble être : « le Technical Smash ». Écouter ?
+
+[06394.263]
+C’est quoi, un Technical Smash ?
+
+[06394.264]
+Hm. Porte « un coup de grâce éblouissant », de ceux que saluent même les pros du combat, et il est homologué Technical Smash.
+
+[06394.265]
+Abats un ennemi d’un Technical Smash et, tant c’est beau sans doute, tes chances d’obtenir un objet bondissent. C’est du moins ce que tout le monde raconte.
+
+[06394.266]
+Ce doit être vrai.
+
+[06394.267]
+Avec les enchaînements, ou en en abattant plusieurs d’un coup, ça sort à fond, quoi.
+
+[06394.268]
+Hm. « Achever par un enchaînement » est capital. Au moment du coup de grâce, tous les SP dépensés dans cet enchaînement reviennent. Même après un long enchaînement, on se remet d’aplomb.
+
+[06394.269]
+Alors les artes additionnels et tout ça, je les garde pour achever.
+
+[06394.270]
+Si tu manques de SP, c’est une bonne idée.
+
+[06394.271]
+L’ennui des enchantements d’Action, c’est qu’ils coûtent des SP ; savoir user du coup de grâce est la voie du maître.
+
+[06394.273]
+Leur sujet semble être : « les Spirits ». Écouter ?
+
+[06394.274]
+J’attaque, et l’ennemi pare tout à fond, quoi.
+
+[06394.275]
+Les ennemis à forte esquive sont une plaie. Les toucher par des sorts est une stratégie, mais certains sont du genre à faire fondre tes Spirits en une seule attaque.
+
+[06394.276]
+Pousse-les à frapper dans le vide pour user leurs Spirits, et leur esquive baisse aussi... C’est une ouverture à viser.
+
+[06394.277]
+Moi, avec le Press Guard, {09:47 00 00 00} et {09:1D 00 00 00}, je fais baisser leurs SP exprès.
+
+[06394.278]
+L’ennui, c’est que tu le fais aussi au milieu de leurs enchaînements. Le Press Guard se place sur la dernière attaque de l’ennemi. Il lui retire pas moins de 20 SP. Apprends à lire ses attaques.
+
+[06394.279]
+Si tu as réglé l’affichage de la cible dans les Options, plus le curseur est clair, plus ses SP sont hauts. Tu peux jauger les SP de l’ennemi tout en te battant.
+
+[06394.281]
+Leur sujet semble être : « les coups consécutifs ». Écouter ?
+
+[06394.282]
+C’est quoi, des coups consécutifs ?
+
+[06394.283]
+Blesse de nouveau un ennemi avant qu’il ne se remette en garde, et le nombre de coups s’additionne et s’affiche.
+
+[06394.284]
+Et si j’en place plein, il se passe quoi ?
+
+[06394.285]
+Hm. Ton record de coups influe sur l’expérience gagnée. Car une si belle série d’attaques est une expérience qui surpasse toutes les autres.
+
+[06394.286]
+Pour un nombre de coups plus élevé, la coordination avec tes compagnons est indispensable. Indépendamment du nombre de coups, chaque « sorte d’attaque » différente s’ajoute au CHAIN.
+
+[06394.287]
+Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
+
+[06394.288]
+En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+
+[06394.290]
+Leur sujet semble être : « la zone d’influence ». Écouter ?
+
+[06394.291]
+Je pensais qu’attaquer l’ennemi par-derrière serait un avantage, mais va savoir, ça fatigue.
+
+[06394.292]
+Hm. C’est la cohésion avec tes compagnons qui te donne du cœur, Spirits compris. Quand l’ennemi vous sépare, toutes sortes de récupérations ralentissent, semble-t-il.
+
+[06394.293]
+Si tu te retrouves malgré toi à droite de l’ennemi, reviens à gauche d’un pas en arrière avec {09:47 00 00 00} + {09:19 00 00 00}.
+
+[06394.294]
+Autant pas passer derrière, alors, quoi.
+
+[06394.295]
+En gros, tu peux voir les choses ainsi. Mais quand tu sauras lire le combat, tu pourras peut-être y faire un travail qui compense la pénalité.
+
+[06394.296]
+La théorie a pas toujours raison, quoi.
+
+[06394.297]
+Il t’arrive de dire des choses sensées.
+
+[06394.298]
+Trop vétéran
+
+[06394.299]
+Fils
+
+[06394.301]
+Leur sujet semble être : « les altérations d’état ». Écouter ?
+
+[06394.302]
+Me voilà frappé d’une altération d’état en plein combat. Et pas la moindre Fiole de panacée. Serait-ce la fin, ma foi...
+
+[06394.303]
+Il ne faut pas renoncer, père. Même frappé d’une altération en combat, on en guérit avec le temps, paraît-il.
+
+[06394.304]
+Les altérations ont des niveaux : même avec un équipement préventif, il arrive qu’on ne puisse les atténuer assez et qu’on les subisse. Il faut rester prudent.
+
+[06394.305]
+Mmh... Faut-il donc que je reparte au combat ? C’est rude, ma foi...
+
+[06394.306]
+Le mieux est d’avoir sous la main un plat qui guérit les altérations, père. Il existe aussi, semble-t-il, des plats et des objets qui les préviennent.
+
+[06394.307]
+Trop tard, ma foi ! Poison {09:56 00 00 00}, paralysie {09:5F 00 00 00}, faiblesse {09:5A 00 00 00}, gel et lenteur : je n’en peux plus !
+
+[06394.308]
+Il ne faut pas mentir, père. Quatre altérations au plus peuvent rester sur une même personne. Et augmenter ses capacités par un enchantement fait parfois disparaître le poison.
+
+[06394.309]
+De plus, le gel et la lenteur guérissent à la fin du combat.
+
+[06394.310]
+C’est juste. Et la lenteur, ma foi, je l’avais dès le départ.
+
+[06394.311]
+Hahahahahahahaha
+hahahahahahahaha
+
+[06394.312]
+(Il rit un peu trop, ce me semble...)
+
+[06394.313]
+Trop vétéran
+
+[06394.314]
+Fils
+
+[06394.316]
+Leur sujet semble être : « le Spirits Blaster ». Écouter ?
+
+[06394.317]
+Même au pied du mur, en Spirits Blaster, on tient sa chance de tout renverser, ma foi.
+
+[06394.318]
+Pour passer en Spirits Blaster, père, il est efficace de toucher l’ennemi sans se faire parer. Encaisser des coups y mène aussi, mais pour vous, père, c’est dangereux.
+
+[06394.319]
+Même avec mes forces déclinantes, en Spirits Blaster, j’attaque sans chanceler, ma foi.
+
+[06394.320]
+Tout de même, père, l’effet cesse quand les HP tombent à zéro, et recevoir une magie de soin l’abrège.
+
+[06394.321]
+Je ne m’arrête pas à ces détails. Mon plus bel arte mystique ne se montre qu’en Spirits Blaster.
+
+[06394.322]
+Non, père. Certes, un arte mystique coûte beaucoup de SP, mais en profitant des SP rendus par un ennemi abattu, on parvient parfois à le placer, semble-t-il.
+
+[06394.323]
+Cela dit, certains archers profiteraient de l’état Spirits Blaster pour placer un arte mystique au lieu d’un sort additionnel, père.
+
+[06394.324]
+Enfin, même si l’arte arcane touche, on ne passe pas à l’arte mystique si l’ennemi ne chancelle pas : avec un arcane qui soulève, cela échoue parfois sur les ennemis lourds.
+
+[06394.325]
+Sur ce, allons sans tarder tous les deux placer nos artes mystiques.
+
+[06394.326]
+Non, père. Je suis lanceur de sorts, je n’utilise pas d’arte mystique.
+
+[06394.327]
+À vrai dire, père, après un arte mystique les SP tombent à 0, et c’est terriblement gênant. N’en placez pas s’il n’achève même pas l’ennemi, père.
+
+[06394.328]
+Parce que c’est gênant.
+
+[06394.329]
+(Une fois suffisait, ce me semble...)
+
+[06394.330]
+Trop vétéran
+
+[06394.331]
+Fils
+
+[06394.333]
+Leur sujet semble être : « le Field of Effect ». Écouter ?
+
+[06394.334]
+L’autre jour, ce « Field of Effect » lancé par l’ennemi m’a donné bien du fil à retordre.
+
+[06394.335]
+FOE en abrégé, père. Il en existe deux grandes sortes : ceux qui agissent sur les ennemis dans la zone, et ceux qui réduisent nos capacités.
+
+[06394.336]
+Quand cela sort, n’y a-t-il plus qu’à baisser les bras ?
+
+[06394.337]
+Il est trop tôt pour renoncer, père. Certains cessent avec le temps, d’autres à force de coups. Et bien sûr, ils disparaissent au coup de grâce.
+
+[06394.338]
+S’ils en lancent un qui agit sur nous, vaut-il mieux ne laisser qu’un seul homme à l’avant et user de sorts ?
+
+[06394.339]
+Oui, père. Mais le mieux reste de changer de stratégie selon le changement d’état. S’il agit sur l’ennemi, des Besicles en révèlent la nature.
+
+[06394.340]
+À part ça, les jeunes d’aujourd’hui veulent tout abréger, c’en est pénible.
+
+[06394.341]
+(Vous le dites un peu tard, père...)
+
+[06394.343]
+Leur sujet semble être : « le Battle Grade ». Écouter ?
+
+[06394.344]
+C’est quoi, au bout du compte, le Battle Grade ?
+
+[06394.345]
+Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se battre », n’est-ce pas, chef ? Le ratio des dégâts, les coups dans le vide, le fait d’user toujours du même arte : tout est jugé.
+
+[06394.346]
+Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
+
+[06394.347]
+On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+
+[06394.348]
+Et s’il est haut, ça apporte quoi de bien ?
+
+[06394.349]
+C’est à l’étude, chef. Certains insolents disent bien que cela ne sert à rien en ce bas monde...
+
+[06394.350]
+Bah, te prends pas la tête et peaufine ta technique.
+
+[06394.351]
+Bravo, chef, j’apprends tant avec vous.
+
+[06394.353]
+Leur sujet semble être : « le rétablissement ». Écouter ?
+
+[06394.354]
+Quand on me plaque au sol, je reste à terre, quoi.
+
+[06394.355]
+C’est rude, en effet, chef. Mais en appuyant sur {09:47 00 00 00} à l’instant précis où l’on touche le sol, on se rétablit, n’est-ce pas ?
+
+[06394.356]
+B-b-b-bien sûr que je le savais, quoi.
+
+[06394.357]
+Se rétablir réduit le temps passé à terre et, surtout, rend des SP et des TP : c’est appréciable, n’est-ce pas ?
+
+[06394.358]
+B-b-b-b-bien sûr que je le savais, quoi.
+
+[06394.360]
+Leur sujet semble être : « la difficulté des combats ». Écouter ?
+
+[06394.361]
+Ça rime à quoi, de monter la difficulté des combats ?
+
+[06394.362]
+Il est vrai que monter la difficulté ne ramènera pas la paix dans le monde. Mais on dit que les armes et armures lâchées par les ennemis sont meilleures.
+
+[06394.363]
+Dans ce cas, je la monte à fond, quoi.
+
+[06394.364]
+Mais vous le savez, monter la difficulté augmente l’attaque et l’intellect des ennemis, qui lancent en plus des attaques terribles absentes en difficulté normale. Le choix est délicat, n’est-ce pas ?
+
+[06394.365]
+Dans ce cas, NORMAL me va tant que j’ai pas ramené la paix dans le monde une fois.
+
+[06394.366]
+Je ne saisis pas bien ce que vous voulez dire, mais vous avez tout à fait raison.
+
+[06394.367]
+SECOND est d’une difficulté mesurée : je le conseillerais à qui veut un peu plus de répondant.
+
+[06394.369]
+Ils semblent approfondir le sujet : « les attaques normales ». Écouter ?
+
+[06394.370]
+J’ai pris le coup, alors ces temps-ci, pour les attaques normales, je martèle juste {09:45 00 00 00}, quoi.
+
+[06394.371]
+Ce n’est vraiment pas ça.
+
+[06394.372]
+En vérité, précision et dégâts baissent un peu au deuxième et au troisième coup, mais ils baissent davantage si l’on répète la même attaque.
+
+[06394.373]
+Quoiii ? Alors je fais comment ?
+
+[06394.374]
+Hm. Construire « {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00} », bref varier les combinaisons, voilà le premier pas.
+
+[06394.375]
+Et le deuxième pas, c’est quoi ?
+
+[06394.376]
+{09:45 00 00 00} : attaque --, précision --
+{09:17 00 00 00}{09:45 00 00 00} : attaque +, précision -
+{09:19 00 00 00}{09:45 00 00 00} : attaque -, précision +
+{09:16 00 00 00}{09:45 00 00 00} : attaque -, précision -
+
+[06394.377]
+Retiens tout ça ! Les attaques avec {09:45 00 00 00} couvrent large et touchent souvent sans peine, mais en contrepartie elles ne valent pas grand-chose dans une série.
+
+[06394.378]
+Cela influe aussi sur l’attaque suivante : avec « {09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} » et avec « {09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} », les chiffres du troisième coup diffèrent.
+
+[06394.379]
+Alors contre un ennemi à forte esquive, je construis à partir de {09:19 00 00 00}{09:45 00 00 00}. Et contre un ennemi à faible esquive, je démarre par {09:17 00 00 00}{09:45 00 00 00}.
+
+[06394.380]
+Par exemple, oui. Cela dit, l’écart est infime : si les autres règles t’occupent déjà bien assez, inutile de te forcer à retenir celle-ci.
+
+[06394.382]
+Leur sujet semble être : « les longs discours ». Écouter ?
+
+[06394.383]
+Même des propos instructifs, au bout de dix ans à les écouter, ça fatigue, quoi.
+
+[06394.384]
+Tiens, je ne te l’avais pas dit. En maintenant {09:2F 00 00 00} et {09:2E 00 00 00}, on fait défiler les messages en accéléré. Pratique pour sauter une conversation déjà lue.
+
+[06394.385]
+Quoiii ? Pourquoi tu me l’as pas dit pendant dix ans ?
+
+[06394.386]
+Imbécile ! Qu’un bleu comme toi saute mes paroles, c’est dix ans trop tôt !
+
+[06394.387]
+... me disais-je, et voilà pourquoi je te le dis maintenant.
+
+[06394.388]
+Ça se tient, quoi.
+
+[06394.390]
+Leur sujet semble être : « le ramassage d’objets ». Écouter ?
+
+[06394.391]
+Tant qu’à vivre en aventurier, je veux rafler des objets aux ennemis à fond, quoi.
+
+[06394.392]
+Hm. C’est juste. Mais une rumeur fort plausible court parmi les aventuriers.
+
+[06394.393]
+C’est quoi, cette rumeur ?
+
+[06394.394]
+« Plus on porte d’objets d’une même sorte, moins les ennemis auraient de chances d’en lâcher », dit-on.
+
+[06394.395]
+Ça va pas du tout, quoi. Je vends tout.
+
+[06394.396]
+Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+
+[06394.397]
+Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
+
+[06394.398]
+Par ailleurs, si tu veux avancer en consommant tes objets, on m’a dit qu’il valait mieux n’en garder qu’un petit nombre.
+
+[06394.399]
+Pour les consommables, ce n’est pas le total qui compte mais le nombre détenu de chacun : telle est, paraît-il, l’opinion admise chez les aventuriers.
+
+[06394.400]
+Mais avec peu, on est vite mal face aux ennemis costauds.
+
+[06394.401]
+Il y a de ça. L’important, c’est de mener l’aventure qui convient à son propre style.
+
+[06394.403]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06394.405]
+Moi, je vais aller au bout de ma propre voie !!
+

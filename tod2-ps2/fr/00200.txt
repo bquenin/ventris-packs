@@ -1,0 +1,21 @@
+[00200.001]
+Pff... un voyage en mer... ça ne me dit rien...
+
+[00200.002]
+Qu’est-ce que tu as, {NAME:03 00 00 00} ? Tu es tout pâle.
+
+[00200.003]
+Mais enfin, on monte sur un bateau ! Une masse pareille, ça ne peut pas flotter. Une fois à bord, on ne reverra peut-être jamais la terre ferme.
+
+[00200.004]
+Ça ira. Il y avait beaucoup de petits enfants et de femmes à bord.
+
+[00200.005]
+C-c’est vrai !? Quelles femmes !? Belles !? Mignonnes !? Hein !? Hein !?
+
+[00200.006]
+Hein ? Non, euh...
+
+[00200.007]
+Bon, pas le temps de traîner ! Allons-y, tous ! Les belles... non, la mer nous attend !!
+

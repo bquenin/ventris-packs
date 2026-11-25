@@ -1,0 +1,21 @@
+[00970.001]
+Papa et maman sont sûrement formidables, mais ils sont trop proches pour faire héros.
+
+[00970.002]
+Alors c’est quoi, un héros, pour toi ?
+
+[00970.003]
+Mmh... Woodrow, bien sûr, mais surtout l’équipe des Swordians, à l’époque de la guerre du Ciel et de la Terre. Le général Dymlos, dame Atwight, maître Clemente, {NAME:06 00 00 00}... Ça, ça fait héros de légende, non ?
+
+[00970.004]
+{NAME:06 00 00 00} ? {NAME:06 00 00 00}, tu veux dire le professeur {NAME:06 00 00 00} Berselius ? C’était un savant : on ne peut pas vraiment parler de héros, non ?
+
+[00970.005]
+Ah, c’est vrai... Mais {NAME:06 00 00 00}, j’ai l’impression... que ça ne faisait pas très savant.
+
+[00970.006]
+Hein ? Qu’est-ce que tu racontes ? Et pourquoi « {NAME:06 00 00 00} » tout court ? Les autres, tu leur donnes tous un titre...
+
+[00970.007]
+Je sais pas... ? Ça m’a paru plus naturel... mmh...
+

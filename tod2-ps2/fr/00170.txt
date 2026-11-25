@@ -1,0 +1,9 @@
+[00170.001]
+Ouaaah~ ! Quelle ville animée ! C’est la fête, ou quoi ? Rien qu’à marcher, j’en ai le tournis... Ah, là-bas, il y a un truc qui a l’air drôle ! Allons voir, {NAME:03 00 00 00} !
+
+[00170.002]
+Atteeends ! Du calme, {NAME:01 00 00 00} ! Ne file pas partout. Tu vas te perdre ! Tiens-moi bien la main !
+
+[00170.003]
+Hé~. Pas un gamin, moi !
+

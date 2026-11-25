@@ -1,0 +1,429 @@
+[06471.001]
+Cherik
+
+[06471.002]
+Cherik
+
+[06471.003]
+Cherik
+
+[06471.004]
+Cherik
+
+[06471.006]
+Il pousse dans un drôle d’endroit, cet arbre. On dirait qu’il va tomber au premier coup de vent.
+
+[06471.008]
+Des articles de bazar sont laissés dehors, à l’abandon.
+
+[06471.010]
+On voit jusqu’au bout de l’horizon. Quelle vue !
+
+[06471.012]
+Des articles de bazar, rongés par le vent du large, sont éparpillés.
+
+[06471.014]
+Des bagages. Il est écrit : « Mobilier : pour le nouveau logis, à Aigrette ».
+
+[06471.015]
+Chevalier
+
+[06471.016]
+Vous connaissez un instrument qui s’appelle la « Lunette du sorcier », vous autres ?
+
+[06471.017]
+Chevalier
+
+[06471.018]
+Un instrument du tonnerre, qui décèle ce que l’œil ne voit pas, ce qu’on ne perçoit pas d’ordinaire.
+
+[06471.019]
+Chevalier
+
+[06471.020]
+La Lunette du sorcier sert à bien d’autres choses. Essayez-la un peu partout.
+
+[06471.021]
+Jeune homme
+
+[06471.022]
+Pour un jeune dans le vent, cette ville est trop morne.
+
+[06471.023]
+Jeune homme
+
+[06471.024]
+À ce compte-là, Hope Town vaut encore mieux : là-bas, au moins, il y a de la vie.
+
+[06471.025]
+Jeune homme
+
+[06471.026]
+Plutôt que d’aller à Aigrette, moi, j’irais à Hope Town.
+
+[06471.027]
+Jeune homme
+
+[06471.028]
+Seulement, les gamins de là-bas font peur... Sous prétexte d’entraînement, ils cognent pour de bon.
+
+[06471.029]
+Fillette riche
+
+[06471.030]
+Je suis venue de Heidelberg en visite, mais...
+
+[06471.031]
+Fillette riche
+
+[06471.032]
+Pour qui a grandi au pays des neiges, il fait trop chaud ici...
+
+[06471.033]
+Fillette riche
+
+[06471.034]
+À Heidelberg, on ne voit pas de tels paysages : cela fera un beau souvenir, mais...
+
+[06471.035]
+Fillette riche
+
+[06471.036]
+Cette chaleur, cette moiteur... risquent de rester dans ma mémoire comme un mauvais souvenir...
+
+[06471.037]
+Homme en nage
+
+[06471.038]
+Le continent de Calvalese compte d’innombrables volcans.
+
+[06471.039]
+Homme en nage
+
+[06471.040]
+Presque tous sont en activité. Tous les deux ou trois ans, l’un d’eux entre en éruption quelque part.
+
+[06471.041]
+Homme en nage
+
+[06471.042]
+Et en plus, la terre tremble souvent. Presque personne ne veut s’établir ici.
+
+[06471.043]
+Homme en nage
+
+[06471.044]
+C’est ici que furent exilés les Célestes, vaincus dans la guerre du Ciel et de la Terre.
+
+[06471.045]
+Homme en nage
+
+[06471.046]
+À première vue, c’est riant, mais l’endroit porte une sombre histoire.
+
+[06471.047]
+Vieille dame
+
+[06471.048]
+Il ne me reste plus longtemps à vivre. Je voudrais au moins rendre mon dernier souffle auprès de la déesse Atamoni.
+
+[06471.049]
+Vieille dame
+
+[06471.050]
+On dit que la déesse Atamoni est très belle. J’aimerais la voir de mes yeux.
+
+[06471.051]
+Jeune femme
+
+[06471.052]
+Presque personne n’habite en Calvalese.
+
+[06471.053]
+Jeune femme
+
+[06471.054]
+Cherik, Hope Town, et Calviola, la Terre sainte.
+
+[06471.055]
+Jeune femme
+
+[06471.056]
+Il n’y a que ces trois villes. C’est un endroit bien désert.
+
+[06471.057]
+Jeune femme
+
+[06471.058]
+Le continent de Calvalese est un endroit dangereux.
+
+[06471.059]
+Jeune femme
+
+[06471.060]
+Les monstres d’ici sont féroces : faites bonne provision de remèdes.
+
+[06471.061]
+Garçon riche
+
+[06471.062]
+Quel endroit pauvre. Rien à voir avec Heidelberg.
+
+[06471.063]
+Garçon riche
+
+[06471.064]
+C’est peut-être faute d’un grand souverain comme le roi Woodrow.
+
+[06471.065]
+Garçon riche
+
+[06471.066]
+Il y a ici une chaleur que n’a pas Heidelberg, bâtie en pierre.
+
+[06471.067]
+Garçon riche
+
+[06471.068]
+La culture du bois de Cherik a du bon, elle aussi.
+
+[06471.069]
+Garçon riche
+
+[06471.070]
+Seulement, l’ennui, c’est que ça fait miséreux...
+
+[06471.071]
+Demoiselle
+
+[06471.072]
+Autrefois, le seigneur d’Aquaveil est venu ici en vacances.
+
+[06471.073]
+Demoiselle
+
+[06471.074]
+Le seigneur a chanté à l’auberge, voyez-vous...
+
+[06471.075]
+Demoiselle
+
+[06471.076]
+Et il chantait si faux que les gens tombaient l’un après l’autre en l’écoutant.
+
+[06471.077]
+Demoiselle
+
+[06471.078]
+Le seigneur a quitté Cherik l’air bien triste...
+
+[06471.079]
+Demoiselle
+
+[06471.080]
+Si son seigneur vient ici en vacances, Aquaveil doit être un pays où l’on a du temps à perdre.
+
+[06471.081]
+Bon voyage.
+
+[06471.082]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06471.083]
+Voulez-vous passer la nuit ?
+
+[06471.085]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06471.086]
+Reposez-vous bien.
+
+[06471.087]
+Bonjour.
+
+[06471.088]
+Vous n’avez pas assez d’argent.
+
+[06471.089]
+Au plaisir de vous revoir.
+
+[06471.094]
+Obtenu : {16:25 B6}.
+
+[06471.096]
+Obtenu : {08:FF FF FF FF}.
+
+[06471.098]
+Trouvé : {16:25 BE}, mais vous n’avez plus de place.
+
+[06471.100]
+Il n’y a rien ici.
+
+[06471.101]
+Vendeur ({08:12 00 00 00})
+
+[06471.102]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06471.103]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06471.104]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06471.105]
+C’est {0B:01 00 00 00}{14:35 C8}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06471.107]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 D2} ({14:35 CC} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06471.109]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06471.110]
+Merci de votre achat.
+
+[06471.111]
+Merci de votre achat.
+
+[06471.112]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 C8}{0B:00 00 00 00} Gald pièce.
+
+[06471.113]
+Voulez-vous suivre le cours de raffinage ?
+
+[06471.115]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06471.116]
+Que voulez-vous savoir ?
+
+[06471.118]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06471.120]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06471.121]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06471.122]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06471.123]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06471.124]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06471.125]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06471.126]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06471.127]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06471.128]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06471.129]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06471.130]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06471.131]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06471.132]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06471.133]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06471.134]
+Je vous expliquerai les emplacements en détail à part.
+
+[06471.135]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06471.136]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06471.137]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06471.138]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06471.139]
+Je vais vous expliquer les emplacements en détail.
+
+[06471.140]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06471.141]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06471.142]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06471.143]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06471.144]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06471.145]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06471.146]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06471.147]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06471.148]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06471.149]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06471.150]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06471.151]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06471.152]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06471.153]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06471.154]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06471.155]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06471.156]
+... Ranger ses objets, c’est important aussi.
+

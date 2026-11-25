@@ -1,0 +1,76 @@
+[06374.001]
+Ruines de Straylize
+
+[06374.002]
+Ruines de Straylize
+
+[06374.004]
+Ce mur semble pouvoir se briser sous un choc.
+
+[06374.006]
+C’est quoi, cette salle ? Il y a des « chiffres » tracés devant des « pierres de couleur ».
+
+[06374.008]
+Hmm. Après le « 4 », du « jaune »...
+
+[06374.010]
+Ça ne voudrait pas dire que « quelque chose de jaune vient en 4e » ?
+
+[06374.012]
+Au-delà du chiffre « 1 » est posée une « gemme bleue ».
+
+[06374.014]
+Au-delà du chiffre « 2 » est posée une « gemme blanche ».
+
+[06374.016]
+Au-delà du chiffre « 3 » est posée une « gemme verte ».
+
+[06374.018]
+Au-delà du chiffre « 4 » est posée une « gemme jaune ».
+
+[06374.020]
+Au-delà du chiffre « 5 » est posée une « gemme rouge ».
+
+[06374.022]
+Au-delà du chiffre « 6 » est posée une « gemme grise ».
+
+[06374.024]
+Au-delà du chiffre « 7 » est posée une « gemme violette ».
+
+[06374.025]
+Bon voyage.
+
+[06374.026]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06374.027]
+Voulez-vous passer la nuit ?
+
+[06374.029]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06374.030]
+Reposez-vous bien.
+
+[06374.031]
+Bonjour.
+
+[06374.032]
+Vous n’avez pas assez d’argent.
+
+[06374.033]
+Au plaisir de vous revoir.
+
+[06374.038]
+Obtenu : {16:25 BA}.
+
+[06374.040]
+Obtenu : {08:FF FF FF FF}.
+
+[06374.042]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06374.044]
+Il n’y a rien ici.
+

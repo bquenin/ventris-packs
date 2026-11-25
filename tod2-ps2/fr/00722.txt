@@ -1,0 +1,15 @@
+[00722.001]
+Devenu important, je ne serai plus libre d’agir, comme Dymlos... ?
+
+[00722.002]
+Bah, toi, aucun risque.
+
+[00722.003]
+Sacré {NAME:03 00 00 00} ! Tu me connais vraiment bien.
+
+[00722.004]
+Ben oui : toi, important, jamais. T’en fais pas pour ça.
+
+[00722.005]
+... Mauvais conseiller.
+

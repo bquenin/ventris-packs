@@ -1,0 +1,9 @@
+[00242.001]
+{NAME:01 00 00 00}. Tu comptes sérieusement accepter ? Nous n’avons pas le loisir de......
+
+[00242.002]
+Pourquoi pas ? Une chance pareille, ça n’arrive presque jamais...... Une chasse au trésor, tu te rends compte !
+
+[00242.003]
+Inutile de le retenir, {NAME:04 00 00 00}. Une fois lancé, personne ne l’arrête. C’est {NAME:01 00 00 00}.
+

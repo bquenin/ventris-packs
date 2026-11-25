@@ -1,0 +1,342 @@
+[06575.001]
+Radisrol
+
+[06575.002]
+Radisrol
+
+[06575.004]
+Des armes bien entretenues sont alignées.
+
+[06575.006]
+Ils ont la technique pour construire une chose comme le Radisrol : pourquoi donc se battent-ils à l’épée ?
+
+[06575.008]
+Le bric-à-brac des commères. ... Elles auraient annexé un coin du Radisrol pour l’y entasser de force.
+
+[06575.010]
+Un bric-à-brac si abondant qu’il gêne le passage. Personne n’oserait s’en plaindre aux commères : elles font trop peur.
+
+[06575.012]
+Qu’est-ce que cela peut bien être ? Peut-être un morceau d’une des machines louches de {NAME:06 00 00 00}.
+
+[06575.013]
+Officier technique
+
+[06575.014]
+Tu prends le Radisrol pour un navire de guerre ?
+
+[06575.015]
+Officier technique
+
+[06575.016]
+En fait, ce n’est pas un navire de guerre : c’est un simple transport.
+
+[06575.017]
+Officier technique
+
+[06575.018]
+La preuve : il n’a ni canons ni armement d’aucune sorte, tu vois ?
+
+[06575.019]
+Officier technique
+
+[06575.020]
+Comme il n’est pas armé, tu penses bien : livrer bataille à Dycroft, pas question, pas question !
+
+[06575.021]
+Officier technique
+
+[06575.022]
+Se faufiler sous le feu ennemi et foncer droit dessus : c’est à peu près tout ce qu’il sait faire.
+
+[06575.023]
+Officier technique
+
+[06575.024]
+L’assaut, enfin... Le Radisrol est réglé à la perfection, mais qui sait comment ça tournera...
+
+[06575.025]
+Officier technique
+
+[06575.026]
+C’est un transport, à l’origine, vois-tu. Il n’a aucun blindage : un tir de Belcrant, et il est coulé net.
+
+[06575.027]
+Officier technique
+
+[06575.028]
+Au début de la guerre, le Radisrol a été touché par Belcrant et a sombré dans un lac.
+
+[06575.029]
+Officier technique
+
+[06575.030]
+L’armée terrestre l’a retrouvé, l’a remis en état et en a fait sa base.
+
+[06575.031]
+Gradé
+
+[06575.032]
+Le général Dymlos comme le commandant Litler sont de ceux qui gardent leurs soucis pour eux.
+
+[06575.033]
+Gradé
+
+[06575.034]
+Ils ont toujours l’air sûrs d’eux, mais au fond, ce n’est pas tout à fait cela.
+
+[06575.035]
+Gradé
+
+[06575.036]
+Aussi faut-il que leur entourage les soutienne fermement.
+
+[06575.037]
+Gradé
+
+[06575.038]
+Le vieux Clemente est mon supérieur.
+
+[06575.039]
+Gradé
+
+[06575.040]
+Lui se croit sans doute encore bon pour le service, mais nous, à le regarder, nous en avons des sueurs froides.
+
+[06575.041]
+Gradé
+
+[06575.042]
+Lui conseiller la retraite, ce serait se faire rabrouer, et rien d’autre. Enfin...
+
+[06575.043]
+Gradé
+
+[06575.044]
+Abattre Miktran, le chef ennemi : tel est le rôle de l’équipe des Swordians.
+
+[06575.045]
+Gradé
+
+[06575.046]
+La troupe, elle, se déploiera pour s’emparer des points clés de Dycroft.
+
+[06575.047]
+Gradé
+
+[06575.048]
+Si vous vous joigniez à l’équipe de conquête, nous serions rassurés.
+
+[06575.049]
+Gradé
+
+[06575.050]
+Dans un assaut, la vitesse est tout. Si la prise des lieux traîne, ils pourraient tirer à l’aveugle avec Belcrant.
+
+[06575.051]
+Gradé
+
+[06575.052]
+C’est pourquoi une unité d’élite sera envoyée prendre la salle de contrôle.
+
+[06575.053]
+Homme
+
+[06575.054]
+Quand la guerre sera finie, tu vois, je pense passer sur le continent, de l’autre côté de la mer.
+
+[06575.055]
+On dit qu’il y a encore beaucoup de réfugiés là-bas. J’aimerais bâtir une ville avec eux, en unissant nos forces.
+
+[06575.056]
+Que penseront de notre époque et de nous ceux qui viendront après ?
+
+[06575.057]
+Des fous de guerre dans une époque de brutes, sans doute. De toute façon, ça ne leur fera pas bonne impression.
+
+[06575.058]
+N’empêche, nous aussi, on fait ce qu’on peut. Ça au moins, j’aimerais qu’ils le comprennent.
+
+[06575.059]
+Commère A
+
+[06575.060]
+{05:38 01 00 00}Oh chère madame toujours aussi belle on ne vous donnerait jamais votre âge sachez-le ho ho ho ho au fait votre mari serait chef d’unité sous les ordres du lieutenant-colonel {NAME:06 00 00 00} ah que je vous envie sachez-le
+
+[06575.061]
+Commère B
+
+[06575.062]
+{05:38 01 00 00}Que dites-vous là votre fiston est bien infirmier attaché au colonel Atwight avec une grosse solde que je vous envie ces temps-ci les rations sont si maigres quel tracas sachez-le ho ho ho ho
+
+[06575.063]
+Commère C
+
+[06575.064]
+{05:38 01 00 00}Au fait avez-vous entendu ce qu’on dit du petit Chaltier encore célibataire paraît-il si j’avais dix ans de moins je ne le laisserais pas filer sachez-le ah la jeunesse rien à voir avec mon bon à rien de mari
+
+[06575.065]
+Commère A
+
+[06575.066]
+{05:00 02 00 00}Oh ho ho ho ho ho !
+
+[06575.067]
+Commère B
+
+[06575.068]
+{05:00 02 00 00}Oh ho ho ho ho ho !
+
+[06575.069]
+Commère C
+
+[06575.070]
+{05:00 02 00 00}Oh ho ho ho ho ho !
+
+[06575.072]
+Ouh... ! C-c’est donc ça, la puissance des commères !
+
+[06575.074]
+N-ne leur parlons pas. Je ne crois pas que je supporterais cette voix une deuxième fois...
+
+[06575.075]
+Commère A
+
+[06575.076]
+Tiens, vous, là ! Vous avez l’air de porter toutes sortes de victuailles, sachez-le !
+
+[06575.077]
+Commère A
+
+[06575.078]
+Oh, que je vous envie ! Partagez vos ingrédients équitablement avec tout le monde !
+
+[06575.080]
+{03:00 00 00 00}　Trop peur pour refuser　
+　Fuir　
+
+[06575.081]
+Commère C
+
+[06575.082]
+Voilà un bel état d’esprit ! Nous allons nous servir largement, sachez-le !
+
+[06575.084]
+On vous a pris toutes sortes d’ingrédients...
+
+[06575.085]
+Commère C
+
+[06575.086]
+Voici pour vous remercier !
+
+[06575.088]
+Vous recevez une Gelée de pomme, ce qui est très loin du compte.
+
+[06575.089]
+Commère A
+
+[06575.090]
+Revenez nous faire des offrandes, sachez-le !
+
+[06575.092]
+Vous recevez une Gelée d’orange, ce qui est très loin du compte.
+
+[06575.093]
+Commère A
+
+[06575.094]
+Revenez nous faire des offrandes, sachez-le !
+
+[06575.096]
+Vous recevez une Gelée mixte.
+
+[06575.097]
+Commère A
+
+[06575.098]
+Revenez nous faire des offrandes, sachez-le !
+
+[06575.099]
+Servante férue d’éclat
+
+[06575.100]
+Pour {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lentilles, ça ne te dirait pas de savoir comment aller à la Spiral Cave ?
+
+[06575.102]
+　Dis-moi　
+　J’irai par mes propres moyens　
+
+[06575.103]
+Servante férue d’éclat
+
+[06575.104]
+Hé hé... Merci bien♪
+
+[06575.105]
+Servante férue d’éclat
+
+[06575.106]
+Pour aller à la Spiral Cave, contourne par le sud la falaise de derrière en montant, puis continue vers le nord-ouest...
+
+[06575.107]
+Servante férue d’éclat
+
+[06575.108]
+En longeant la côte, tu verras apparaître une grande montagne. La Spiral Cave est à son pied.
+
+[06575.109]
+Servante férue d’éclat
+
+[06575.110]
+... Hé, tu n’en as pas assez !
+
+[06575.111]
+Servante férue d’éclat
+
+[06575.112]
+Si tu erres sans fin, ce ne sera pas ma faute.
+
+[06575.114]
+J’ai décidé tout seul d’aller à la Spiral Cave... Ça vous va ?
+
+[06575.116]
+Tout le monde pense comme toi. Allons-y, {NAME:01 00 00 00}.
+
+[06575.117]
+Bon voyage.
+
+[06575.118]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06575.119]
+Voulez-vous passer la nuit ?
+
+[06575.121]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06575.122]
+Reposez-vous bien.
+
+[06575.123]
+Bonjour.
+
+[06575.124]
+Vous n’avez pas assez d’argent.
+
+[06575.125]
+Au plaisir de vous revoir.
+
+[06575.130]
+Obtenu : {16:25 BE}.
+
+[06575.132]
+Obtenu : {08:FF FF FF FF}.
+
+[06575.134]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06575.136]
+Il n’y a rien ici.
+

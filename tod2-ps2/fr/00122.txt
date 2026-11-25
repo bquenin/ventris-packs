@@ -1,0 +1,15 @@
+[00122.001]
+Écoute. D’abord, sortons d’ici. En l’état, loin d’être un héros, tu n’es qu’un criminel.
+
+[00122.002]
+Oui. Merci, {NAME:04 00 00 00} !
+
+[00122.003]
+................
+
+[00122.004]
+Hm ? Qu’y a-t-il, {NAME:04 00 00 00} ? J’ai un truc sur la figure ?
+
+[00122.005]
+Non, rien...
+

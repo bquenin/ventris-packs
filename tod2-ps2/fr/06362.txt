@@ -1,0 +1,104 @@
+[06362.001]
+Aigrette
+
+[06362.002]
+Aigrette
+
+[06362.003]
+Vieille dame
+
+[06362.004]
+Autrefois, il y avait des ruines ici.
+
+[06362.005]
+Vieille dame
+
+[06362.006]
+On les a oubliées à mesure qu’Aigrette grandissait, hélas.
+
+[06362.007]
+Vieille dame
+
+[06362.008]
+Tiens, juste là, du côté de cette colline.
+
+[06362.009]
+Homme
+
+[06362.010]
+Ah là là, j’ai rentré un peu trop de marchandises, et l’entrepôt est sens dessus dessous.
+
+[06362.011]
+Homme
+
+[06362.012]
+Si ça ne vous ennuie pas, vous ne voudriez pas ranger l’entrepôt pour qu’on puisse y passer ?
+
+[06362.014]
+{03:00 00 00 00}　Aider　
+　Ne pas aider　
+
+[06362.015]
+Homme
+
+[06362.016]
+Si vous voulez recommencer ou arrêter en route, choisissez dans le menu de la touche SELECT. Pour retenter, vous pouvez repartir de n’importe quel entrepôt déjà réussi : bon courage.
+
+[06362.017]
+Homme
+
+[06362.018]
+Ah là là, j’ai rentré un peu trop de marchandises, et l’entrepôt est sens dessus dessous.
+
+[06362.019]
+Homme
+
+[06362.020]
+Haa, personne ne m’aiderait à ranger l’entrepôt ? À qui le rangerait comme il faut, je donnerais bien un titre ou deux...
+
+[06362.021]
+Homme
+
+[06362.022]
+Par quel entrepôt commencer ?
+
+[06362.027]
+Un quai de déchargement. On voit qu’une grande quantité de marchandises y a été déplacée.
+
+[06362.028]
+Bon voyage.
+
+[06362.029]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06362.030]
+Voulez-vous passer la nuit ?
+
+[06362.032]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06362.033]
+Reposez-vous bien.
+
+[06362.034]
+Bonjour.
+
+[06362.035]
+Vous n’avez pas assez d’argent.
+
+[06362.036]
+Au plaisir de vous revoir.
+
+[06362.041]
+Obtenu : {16:25 C2}.
+
+[06362.043]
+Obtenu : {08:FF FF FF FF}.
+
+[06362.045]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06362.047]
+Il n’y a rien ici.
+

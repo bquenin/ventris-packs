@@ -1,0 +1,49 @@
+[06492.001]
+Heat River
+
+[06492.002]
+Heat River
+
+[06492.003]
+Heat River
+
+[06492.004]
+Heat River
+
+[06492.005]
+Bon voyage.
+
+[06492.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06492.007]
+Voulez-vous passer la nuit ?
+
+[06492.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06492.010]
+Reposez-vous bien.
+
+[06492.011]
+Bonjour.
+
+[06492.012]
+Vous n’avez pas assez d’argent.
+
+[06492.013]
+Au plaisir de vous revoir.
+
+[06492.018]
+Obtenu : {16:25 D6}.
+
+[06492.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06492.022]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06492.024]
+Il n’y a rien ici.
+

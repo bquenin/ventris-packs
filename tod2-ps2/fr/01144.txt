@@ -1,0 +1,6 @@
+[01144.001]
+Un héros... moi !
+
+[01144.002]
+Bon, rejoignons {NAME:04 00 00 00}.
+

@@ -1,0 +1,180 @@
+[06317.001]
+Orphelinat Dunamis : chambre de {NAME:01 00 00 00}
+
+[06317.002]
+Orphelinat Dunamis
+
+[06317.003]
+Chambre de {NAME:01 00 00 00}
+
+[06317.005]
+Bon, qu’est-ce que je fais ?
+
+[06317.007]
+　Aller dormir　
+　Pas encore sommeil　
+
+[06317.009]
+Une Lentille à trois millions de Gald... Si je rapportais ça, tout le monde serait soufflé.
+
+[06317.011]
+Maman a dit ce qu’elle a dit, mais moi aussi, un jour, je serai un héros comme papa, c’est sûr.
+
+[06317.013]
+Et pour ça, demain...
+
+[06317.015]
+{05:80 01 00 00}Ouaaaaah !
+
+[06317.016]
+Rutee
+
+[06317.017]
+Kyaa !
+
+[06317.019]
+... Hein ? Maman... ?
+
+[06317.020]
+Rutee
+
+[06317.021]
+Non mais, tu m’as fait peur ! Crier comme ça, sans prévenir !
+
+[06317.022]
+Rutee
+
+[06317.023]
+Enfin, passons. Ça m’épargne la peine de te réveiller.
+
+[06317.024]
+Rutee
+
+[06317.025]
+N’empêche, c’est rare. Toi, réveillé d’un coup, frais et dispos... Il va neiger, aujourd’hui...
+
+[06317.026]
+Rutee
+
+[06317.027]
+... Haa. Finalement, comme d’habitude.
+
+[06317.028]
+Rutee
+
+[06317.029]
+C’est parti... Technique secrète : le Réveil des morts !!
+
+[06317.031]
+Ouah ! Qu-qu-qu’est-ce que c’est !?
+
+[06317.032]
+Rutee
+
+[06317.033]
+Allez, allez, debout, debout ! Je ne peux pas débarrasser le petit-déjeuner, moi !
+
+[06317.034]
+Rutee
+
+[06317.035]
+Ah, et {NAME:03 00 00 00} est déjà levé. Il attend que tu te réveilles...
+
+[06317.036]
+Rutee
+
+[06317.037]
+{05:80 01 00 00}{NAME:01 00 00 00} !
+
+[06317.039]
+O-oui ! Je suis debout, je suis debout !
+
+[06317.040]
+Rutee
+
+[06317.041]
+... Bien.
+
+[06317.043]
+Fwaaa... C’était quoi, ce rêve...
+
+[06317.045]
+... Fwaa... mmgn mmgn... ... En tout cas, il faut que j’aille voir {NAME:03 00 00 00}...
+
+[06317.047]
+{NAME:01 00 00 00} obtient le titre « {08:17 08 00 00} ».
+
+[06317.049]
+... Finalement, je n’ai pas fermé l’œil de la nuit.
+
+[06317.051]
+En tout cas, je vais en reparler à maman. Lui dire que je pars en voyage !
+
+[06317.053]
+{NAME:01 00 00 00} ! Hé, {NAME:01 00 00 00}, debout !
+
+[06317.055]
+Mmgn... ... ’jour, {NAME:03 00 00 00}...
+
+[06317.057]
+C’est pas le moment de dormir debout ! Ça y est, il est apparu ! L’« Œuf de Dieu » !
+
+[06317.059]
+... Apparu... ? Un œuf... ?
+
+[06317.061]
+L’« Œuf de Dieu »... !?
+
+[06317.063]
+Peu importe, viens vite ! Tout le monde attend !
+
+[06317.065]
+　Se reposer　
+　Ne pas se reposer　
+
+[06317.067]
+Il faudrait que j’étudie un peu, moi aussi, de temps en temps...
+
+[06317.069]
+L’étagère ne contient que les jouets de {NAME:01 00 00 00}...
+
+[06317.071]
+Par la fenêtre s’étend un paysage bucolique.
+
+[06317.072]
+Bon voyage.
+
+[06317.073]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06317.074]
+Voulez-vous passer la nuit ?
+
+[06317.076]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06317.077]
+Reposez-vous bien.
+
+[06317.078]
+Bonjour.
+
+[06317.079]
+Vous n’avez pas assez d’argent.
+
+[06317.080]
+Au plaisir de vous revoir.
+
+[06317.085]
+Obtenu : {16:25 E2}.
+
+[06317.087]
+Obtenu : {08:FF FF FF FF}.
+
+[06317.089]
+Trouvé : {16:25 EA}, mais vous n’avez plus de place.
+
+[06317.091]
+Il n’y a rien ici.
+

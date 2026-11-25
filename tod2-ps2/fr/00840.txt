@@ -1,0 +1,15 @@
+[00840.001]
+Au fait, {NAME:01 00 00 00}. Un rendez-vous avec {NAME:02 00 00 00} dès l’aube, dans mon dos : pas mal, dis donc. Tiens ! Et tiens, tiens, tiens !
+
+[00840.002]
+...... A-arrête. Ce n’est pas ça du tout.
+
+[00840.003]
+Allez, pas la peine de cacher. C’est vrai, {NAME:01 00 00 00} a l’âge de ces choses-là. Franchement... passer devant moi, le grand moi, quel toupet. Tiens, tiens♪ Tiens ! Tiens ! Toi ! Espèce de ! Bon sang de bon sang !
+
+[00840.004]
+Aïe, ça fait mal ! {NAME:03 00 00 00}, tu es fâché pour de vrai, non !?
+
+[00840.005]
+Nooon, pas fâché ! Zut !
+

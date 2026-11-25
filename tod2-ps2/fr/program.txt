@@ -1,0 +1,10672 @@
+[program.1042096]
+Mix Master
+
+[program.1042120]
+Princess of Mermaid
+
+[program.1042160]
+Twinkle Star
+
+[program.1042184]
+Sort interdit : des comètes en furie venues
+d’ailleurs. TP et incantation démesurés.
+
+[program.1042264]
+Crazy Comet
+
+[program.1042288]
+Last Vanisher
+
+[program.1042312]
+Indignate Judgment
+
+[program.1042352]
+Invocation de ténèbres
+
+[program.1042368]
+Luna Shade
+
+[program.1042384]
+Invocation de lumière
+
+[program.1042400]
+Sol Bright
+
+[program.1042416]
+Invocation de vent
+
+[program.1042432]
+Sylphistia
+
+[program.1042456]
+Invocation de feu
+
+[program.1042472]
+Flambrave
+
+[program.1042488]
+Invocation d’eau
+
+[program.1042504]
+Aqualimus
+
+[program.1042520]
+Invocation de terre
+
+[program.1042544]
+Earth Stepper
+
+[program.1042560]
+Entraîne l’ennemi dans un abîme de
+ténèbres. Sort majeur
+
+[program.1042600]
+Execution
+
+[program.1042624]
+Décoche la foudre du jugement sacré.
+Sort majeur
+
+[program.1042664]
+Divine Saber
+
+[program.1042688]
+Lève une tempête dévastatrice.
+Sort majeur
+
+[program.1042728]
+Fearful Storm
+
+[program.1042752]
+Réveille la flamme purificatrice des temps
+anciens. Sort majeur
+
+[program.1042800]
+Ancient Nova
+
+[program.1042824]
+Enferme l’ennemi dans un cercueil de glace
+pour « la fin ». Sort majeur
+
+[program.1042872]
+Embrace End
+
+[program.1042896]
+Comprime la force de la terre, puis la
+libère. Sort majeur
+
+[program.1042944]
+Grand Vanish
+
+[program.1042968]
+Evil Sphere
+
+[program.1042992]
+Plante une lance éclatante, puis frappe
+encore. Sort médian sublimé
+
+[program.1043048]
+Shining Spear
+
+[program.1043072]
+Un vent brûlant balaie les ennemis.
+Sort médian sublimé
+
+[program.1043120]
+Vortex Heat
+
+[program.1043144]
+La chaleur concentrée dans le sol y
+déclenche une éruption. Sort médian sublimé
+
+[program.1043200]
+Volcanic Ray
+
+[program.1043224]
+Le vent broie la glace et la projette.
+Sort médian sublimé
+
+[program.1043272]
+Crush Gust
+
+[program.1043296]
+La pression de l’eau fait tomber un énorme
+minerai. Sort médian sublimé
+
+[program.1043352]
+Ceiling Fall
+
+[program.1043376]
+Ouvre un espace maléfique qui immobilise.
+Sort médian
+
+[program.1043424]
+Negative Gate
+
+[program.1043448]
+Des épées de lumière aux sept couleurs
+pleuvent. Sort médian
+
+[program.1043496]
+Prism Flasher
+
+[program.1043520]
+D’innombrables lames de vide lacèrent.
+Sort médian
+
+[program.1043560]
+Thrust Fang
+
+[program.1043584]
+Fait pleuvoir des boules de feu qui
+explosent au sol. Sort médian
+
+[program.1043640]
+Burn Strike
+
+[program.1043664]
+Abat des trombes d’eau au sol. Sort médian
+
+[program.1043704]
+Splash
+
+[program.1043720]
+Un champ de gravité écrase les ennemis,
+sol compris. Sort médian
+
+[program.1043784]
+Air Pressure
+
+[program.1043808]
+Les ondes d’une malédiction sanglante se
+croisent. Sort mineur sublimé
+
+[program.1043856]
+Bloody Cross
+
+[program.1043880]
+Trois traits de lumière lâchent des
+éclairs mortels. Sort mineur sublimé
+
+[program.1043928]
+Trinity Spark
+
+[program.1043952]
+Des lames de vide fondent des deux côtés
+et lacèrent. Sort mineur sublimé
+
+[program.1044024]
+Cross Blade
+
+[program.1044040]
+Une chaleur intense en un point abat
+la cible. Sort mineur sublimé
+
+[program.1044096]
+Photon Blaze
+
+[program.1044120]
+Des lances de glace visent et percent
+l’une après l’autre. Sort mineur sublimé
+
+[program.1044184]
+Freeze Hunter
+
+[program.1044208]
+Des rocs pointus jaillissent en file.
+Sort mineur sublimé
+
+[program.1044264]
+Sting Grave
+
+[program.1044288]
+Une lame de ténèbres sort du sol.
+Sort mineur
+
+[program.1044336]
+Shadow Edge
+
+[program.1044352]
+Tire trois traits de lumière. Sort mineur
+
+[program.1044392]
+Delta Ray
+
+[program.1044408]
+Des lames de vide, à n’importe quelle
+distance. Sort mineur
+
+[program.1044464]
+Wind Slash
+
+[program.1044488]
+Des boules de feu traquent l’ennemi.
+Sort mineur
+
+[program.1044520]
+Flame Drive
+
+[program.1044544]
+Projette de l’eau en vrille. Sort mineur
+
+[program.1044584]
+Aqua Spike
+
+[program.1044600]
+Lance des pierres en cloche. Sort mineur
+
+[program.1044648]
+Stone Zapper
+
+[program.1044672]
+Sort qui ranime un allié K.-O.
+
+[program.1044712]
+Raise Dead
+
+[program.1044728]
+Soigne tout le groupe hors combat,
+les alliés à portée en combat
+
+[program.1044792]
+Resurrection
+
+[program.1044808]
+Sort qui soigne beaucoup un allié
+
+[program.1044848]
+Cure
+
+[program.1044856]
+Sort qui soigne un allié
+
+[program.1044888]
+Heal
+
+[program.1044896]
+Transperce l’« ombre » qui mène à l’âme
+
+[program.1044936]
+Kyoeiso
+
+[program.1044952]
+Lance miroir
+
+[program.1044960]
+Une lame lancée de l’ombre, fulgurante.
+Le choc atteint aussi l’ennemi derrière.
+
+[program.1045016]
+Eisenken
+
+[program.1045032]
+Éclair d’ombre
+
+[program.1045040]
+Un enchaînement splendide, à l’en croire
+
+[program.1045072]
+Karengeki
+
+[program.1045088]
+Chaîne splendide
+
+[program.1045096]
+Frappe avec la force de la foudre
+
+[program.1045128]
+Raigasho
+
+[program.1045144]
+Croc de foudre
+
+[program.1045152]
+Un éclair de flammes qui traverse plusieurs
+ennemis
+
+[program.1045200]
+Ryuensen
+
+[program.1045216]
+Feu du dragon
+
+[program.1045224]
+Des flèches rapides tirées depuis les airs
+
+[program.1045264]
+Kokusen
+
+[program.1045280]
+Trait du vide
+
+[program.1045288]
+Des flèches qui traquent l’ennemi en
+pleine attaque
+
+[program.1045336]
+Tsuiyosen
+
+[program.1045352]
+Soleil tombant
+
+[program.1045360]
+Décoche des flèches en cinq directions
+
+[program.1045392]
+Senhyosen
+
+[program.1045408]
+Éventail de glace
+
+[program.1045416]
+Trois flèches d’affilée, d’une main experte
+
+[program.1045456]
+Garensen
+
+[program.1045472]
+Salve de crocs
+
+[program.1045480]
+Une flèche qui explose à l’impact
+
+[program.1045512]
+Rekkasen
+
+[program.1045528]
+Trait ardent
+
+[program.1045536]
+Saisit l’ennemi et ouvre « la nuit
+qui anéantit ». Arte arcane obscur
+
+[program.1045584]
+Majin Messatsuen
+
+[program.1045608]
+Ténèbres funestes
+
+[program.1045624]
+Des tailles et des bonds que l’œil ne peut
+suivre. Arte arcane
+
+[program.1045672]
+Horyu Zankoken
+
+[program.1045696]
+Éclat du dragon
+
+[program.1045712]
+Soulève la poussière et l’enflamme aux
+étincelles des deux lames. Arte arcane
+
+[program.1045776]
+Funjin Reppasho
+
+[program.1045800]
+Coup de poussier
+
+[program.1045816]
+Cueille l’ennemi projeté par des estocs
+fulgurants. Arte arcane
+
+[program.1045856]
+Senretsu Kokosen
+
+[program.1045880]
+Mille déchirures
+
+[program.1045896]
+Une onde de vide qui trace un croissant
+
+[program.1045936]
+Gessenko
+
+[program.1045952]
+Éclat lunaire
+
+[program.1045960]
+Si l’estoc touche, traverse l’ennemi proche
+pour frapper celui de derrière
+
+[program.1046040]
+Gen’eijin
+
+[program.1046056]
+Lame fantôme
+
+[program.1046064]
+Quatre coups, les deux lames en alternance
+
+[program.1046104]
+Sorengeki
+
+[program.1046120]
+Lames alternées
+
+[program.1046128]
+Une double taille qui atteint les airs
+
+[program.1046168]
+Hirenzan
+
+[program.1046184]
+Taille volante
+
+[program.1046192]
+Du ciel des dieux, celui qui fend est un
+homme. Bref, mon arte arcane à moi
+
+[program.1046240]
+Shinku Kassaijin
+
+[program.1046264]
+Fendeur des cieux
+
+[program.1046280]
+Assène sans retenue un trop-plein d’ardeur.
+Arte arcane explosif
+
+[program.1046320]
+Senko Bappa
+
+[program.1046336]
+Cri explosif
+
+[program.1046352]
+Un plaquage tournoyant à ras du sol qui
+envoie tout valser. Arte arcane gênant
+
+[program.1046408]
+Kuha Tokkodan
+
+[program.1046432]
+Boulet aérien
+
+[program.1046448]
+Abat, attire, puis accule d’une charge.
+Un arte arcane qui va de l’avant
+
+[program.1046504]
+Kappa Bakusogeki
+
+[program.1046528]
+Charge fendante
+
+[program.1046544]
+Un coup vers le bas si puissant que
+la terre en tremble
+
+[program.1046600]
+Bakkaisho
+
+[program.1046616]
+Glas de cendres
+
+[program.1046624]
+Transperce l’ennemi d’une lance de froid
+depuis les airs. Chic en pleine esquive
+
+[program.1046696]
+Muhyosho
+
+[program.1046712]
+Envol de givre
+
+[program.1046720]
+Soulève à bout de bras l’ennemi embroché.
+Vise mal, mais parfait pour mêler les rangs.
+
+[program.1046808]
+Hotsuisho
+
+[program.1046824]
+Glas renversant
+
+[program.1046832]
+Appelle la foudre, fruit de l’entraînement,
+et en libère la force
+
+[program.1046880]
+Raijinsho
+
+[program.1046896]
+Dieu du tonnerre
+
+[program.1046904]
+Deux coups, dont un poing d’homme, un vrai
+
+[program.1046944]
+Sodasho
+
+[program.1046960]
+Double glas
+
+[program.1046968]
+Tire une balle d’eau comprimée
+
+[program.1047000]
+Ryurendan
+
+[program.1047016]
+Flot de lotus
+
+[program.1047024]
+Dresse une barrière qui repousse l’ennemi
+et soigne un peu les alliés tout proches
+
+[program.1047104]
+Gohoren
+
+[program.1047120]
+Lotus gardien
+
+[program.1047128]
+Soulève une petite tornade
+
+[program.1047160]
+Fujinsho
+
+[program.1047176]
+Dieu du vent
+
+[program.1047184]
+Saute, puis décoche un tir d’esprit vers
+le bas
+
+[program.1047232]
+Tenshodan
+
+[program.1047248]
+Tir céleste
+
+[program.1047256]
+Ébranle le sol et projette des éclats de
+roche. Arte arcane
+
+[program.1047304]
+Ganzan Messaijin
+
+[program.1047328]
+Fracas de roches
+
+[program.1047344]
+Une série de coups soulève l’ennemi, une
+lame de vide le rabat. Arte arcane
+
+[program.1047400]
+Shikku Rensatsuken
+
+[program.1047424]
+Carnage aérien
+
+[program.1047440]
+Une série de coups après une frappe
+antiaérienne. Arte arcane
+
+[program.1047480]
+Toryu Rengekiha
+
+[program.1047504]
+Assaut tue-dragon
+
+[program.1047520]
+Des estocs fulgurants lèvent une rafale
+qui balaie l’ennemi. Arte arcane
+
+[program.1047592]
+Kuha Zeppugeki
+
+[program.1047616]
+Rafale céleste
+
+[program.1047632]
+Coups chargés d’énergie, puis onde de vide.
+L’arte arcane suit attaques et artes.
+
+[program.1047712]
+Garen Sohajin
+
+[program.1047736]
+Croc d’azur
+
+[program.1047752]
+L’onde de vide d’une taille vive tournoie
+et projette l’ennemi dans un éclair
+
+[program.1047824]
+Senkosho
+
+[program.1047840]
+Estoc éclair
+
+[program.1047848]
+Si l’épée plantée au sol touche, le feu
+jaillit sous les pieds de la cible
+
+[program.1047920]
+Bakuenken
+
+[program.1047936]
+Lame explosive
+
+[program.1047944]
+Bondit en un instant et abat son épée
+
+[program.1047992]
+Kushozan
+
+[program.1048008]
+Taille aérienne
+
+[program.1048016]
+Des coups d’épée assez vifs pour hacher
+les feuilles qui dansent
+
+[program.1048064]
+Chirihajin
+
+[program.1048080]
+Feuilles éparses
+
+[program.1048088]
+Une taille dont l’onde de vide part en tir.
+Un arte s’enchaîne après les coups normaux.
+
+[program.1048168]
+Sohajin
+
+[program.1048184]
+Lame d’azur
+
+[program.1048192]
+Reste à l’arrière, prépare ses sorts et
+frappe l’ennemi qui commence à incanter
+
+[program.1048256]
+Coupe les sorts
+
+[program.1048280]
+Reste à l’arrière et vise de ses sorts
+les ennemis qui esquivent bien
+
+[program.1048336]
+Abats les vifs
+
+[program.1048352]
+Depuis le centre ou l’arrière, attaques et
+sorts d’abord sur les ennemis en l’air
+
+[program.1048416]
+Vise les airs
+
+[program.1048432]
+Depuis le centre ou l’arrière, sorts et
+attaques sur les ennemis à court de HP
+
+[program.1048496]
+Décime-les
+
+[program.1048512]
+Au centre, frappe à l’arme l’ennemi proche
+et vise de ses sorts celui qui attaque
+
+[program.1048592]
+Garde l’arrière
+
+[program.1048608]
+Au centre : sorts si les SP ennemis sont à
+50 % ou plus, attaques en dessous de 50 %
+
+[program.1048688]
+Vise la faille
+
+[program.1048704]
+À l’avant, pare l’attaque ennemie,
+puis frappe à l’arme
+
+[program.1048752]
+Contre-attaque
+
+[program.1048768]
+Suit le personnage du joueur et attaque ou
+lance des sorts pendant qu’il attaque.
+
+[program.1048840]
+Suis le meneur
+
+[program.1048856]
+De l’avant ou du centre, attaque à
+l’arme l’ennemi proche si possible
+
+[program.1048912]
+Au plus proche
+
+[program.1048928]
+Se place selon ses aptitudes et choisit
+ses cibles à sa façon
+
+[program.1048984]
+À toi de voir
+
+[program.1049000]
+5 : attaque jusqu’à épuisement des SP et TP
+
+[program.1049040]
+4 : attaque et lance des sorts tant que
+    SP et TP dépassent 25 %
+
+[program.1049104]
+3 : attaque et lance des sorts tant que
+    SP et TP dépassent 50 %
+
+[program.1049168]
+2 : attaque et lance des sorts tant que
+    SP et TP dépassent 75 %
+
+[program.1049232]
+1 : pas d’attaque ni de sort spontanés
+
+[program.1049272]
+5 : toujours en garde, soigne tout allié
+    à moins de 100 % de HP
+
+[program.1049336]
+4 : à 75 % de HP ou moins, se retient et
+    soigne les alliés à 75 % de HP ou moins
+
+[program.1049424]
+3 : à 50 % de HP ou moins, se retient et
+    soigne les alliés à 50 % de HP ou moins
+
+[program.1049512]
+2 : à 25 % de HP ou moins, se retient et
+    soigne les alliés à 25 % de HP ou moins
+
+[program.1049600]
+1 : se bat en attaquant jusqu’au bout
+
+[program.1049640]
+Pour en finir au plus vite. Ces paroles
+grossières passent, mais sans excès.
+
+[program.1049720]
+Sus aux minables
+
+[program.1049736]
+Pour dévoiler le plan mûri de longue date.
+On se sent l’âme d’un bel homme mûr ?
+
+[program.1049800]
+C’est le moment
+
+[program.1049816]
+Pour votre plan secret rien qu’à vous.
+Ne l’ébruitez pas.
+
+[program.1049880]
+Le fameux plan
+
+[program.1049896]
+Vraiment ? Gare à toi si tu mens.
+Suivre en confiance, c’est aussi l’amitié.
+
+[program.1049976]
+Je m’en charge
+
+[program.1049992]
+Le mot qu’il faut pour attaquer tous à
+distance. Prévoyons un dessert pour après.
+
+[program.1050080]
+Aux sorts !
+
+[program.1050096]
+Tout le monde se met en garde.
+On se reprend, puis on le rend au centuple.
+
+[program.1050160]
+Tenez bon
+
+[program.1050176]
+Pour charger tous ensemble, arme au poing.
+Mais pas question de se sacrifier.
+
+[program.1050248]
+Chargez !
+
+[program.1050264]
+Un mot de confiance envers ses compagnons.
+C’est beau, l’amitié.
+
+[program.1050312]
+À vous de jouer
+
+[program.1050328]
+Un mot pour se donner du cœur.
+Même tout seul, ça passe.
+
+[program.1050392]
+Allez, on y va !
+
+[program.1050408]
+Jouer les taciturnes a aussi son charme.
+Mais n’en abusez pas.
+
+[program.1050472]
+.....
+
+[program.1050488]
+La stratégie du milieu s’applique au début
+du combat. Une stratégie personnalisée peut
+recevoir le mot d’ordre de votre choix.
+
+[program.1050600]
+Après avoir maintenu {09:3D 00 00 00}, les coups
+étourdissent plus facilement l’ennemi.
+
+[program.1050656]
+Étourdissement
+
+[program.1050672]
+Maintenir {09:3D 00 00 00} permet d’agir aussitôt
+après avoir lancé un sort.
+
+[program.1050728]
+Sans récupération
+
+[program.1050744]
+Maintenir {09:3D 00 00 00} esquive toute attaque
+environ 1 seconde pendant la récupération.
+
+[program.1050816]
+Esquive totale
+
+[program.1050832]
+Attraction
+
+[program.1050848]
+Maintenir {09:3D 00 00 00} rend 15 % de SP
+aux alliés.
+
+[program.1050904]
+Don de SP
+
+[program.1050912]
+Maintenir {09:3D 00 00 00} rend 10 % des TP.
+
+
+[program.1050952]
+Conversion TP
+
+[program.1050960]
+Maintenir {09:3D 00 00 00} rend 30 % des SP.
+
+
+[program.1051000]
+Conversion SP
+
+[program.1051008]
+Maintenir {09:3D 00 00 00} absorbe des HP en
+proportion des dégâts infligés.
+
+[program.1051072]
+Vol de HP
+
+[program.1051080]
+Presser {09:3D 00 00 00} dès le début de l’incantation
+réduit sa durée au quart.
+
+[program.1051144]
+Incantation x4
+
+[program.1051160]
+Sort chargé : presser {09:3D 00 00 00} le retient ;
+relâcher {09:3D 00 00 00} après un combo le lance vite.
+
+[program.1051240]
+Sort en combo
+
+[program.1051256]
+Maintenir {09:3D 00 00 00} incarne un cristal spirituel.
+Seulement en Spirits Blaster.
+
+[program.1051328]
+Cristal incarné
+
+[program.1051344]
+Maintenir {09:3D 00 00 00} lance ensuite un sort sublimé.
+
+
+[program.1051392]
+Sort additionnel
+
+[program.1051408]
+Rend des TP à la cible soignée
+
+[program.1051432]
+Mental
+
+[program.1051448]
+Rend des SP à la cible soignée
+
+[program.1051472]
+Spirits
+
+[program.1051488]
+(Chance) Plus de chances d’obtenir un objet
+en achevant un ennemi avec ce sort
+
+[program.1051552]
+Butin
+
+[program.1051568]
+LV 1 à 4 : poison/faiblesse/paralysie/
+lenteur, gel. Agit non équipé hors combat.
+
+[program.1051648]
+Guérison
+
+[program.1051664]
+Prolonge l’immobilisation de l’ennemi touché
+
+[program.1051704]
+Immobilise plus
+
+[program.1051720]
+(Chance, durable) Ralentit l’ennemi
+
+[program.1051768]
+Effet lenteur
+
+[program.1051784]
+(Chance, durable) Paralyse l’ennemi
+
+[program.1051832]
+Effet paralysie
+
+[program.1051848]
+(Chance, durable) Gèle l’ennemi
+
+[program.1051896]
+Effet gel
+
+[program.1051912]
+(Chance, durable) Empoisonne l’ennemi
+
+[program.1051960]
+Effet poison
+
+[program.1051968]
+(Chance) Inflige des dégâts aux TP ennemis
+
+[program.1052016]
+(Chance) Inflige des dégâts aux SP ennemis
+
+[program.1052064]
+(Chance, durable) Réduit un temps
+l’esquive ennemie
+
+[program.1052120]
+Esquive -
+
+[program.1052136]
+(Chance, durable) Réduit un temps
+la défense ennemie
+
+[program.1052192]
+Défense -
+
+[program.1052208]
+(Chance, durable) Réduit un temps
+la précision ennemie
+
+[program.1052264]
+Précision -
+
+[program.1052272]
+(Chance, durable) Réduit un temps
+l’attaque ennemie
+
+[program.1052328]
+Attaque -
+
+[program.1052344]
+(Durable) Augmente un temps la résistance
+à l’élément du sort
+
+[program.1052400]
+Rés. élément +
+
+[program.1052416]
+Réduit le coût en TP du sort
+
+[program.1052448]
+Économie de TP
+
+[program.1052464]
+Accélère l’incantation du sort
+
+[program.1052496]
+Incantation vive
+
+[program.1052512]
+Plus de dégâts aux sorts d’attaque,
+plus de soins aux sorts de soin
+
+[program.1052560]
+Effet +
+
+[program.1052576]
+Saisir un autre arte pendant un arte
+permet d’enchaîner, une seule fois.
+
+[program.1052632]
+Chaîne d’artes
+
+[program.1052648]
+Saisir un sort après un arte lance aussitôt
+un sort d’attaque mineur.
+
+[program.1052704]
+Sort enchaîné
+
+[program.1052720]
+Maintenir {09:3D 00 00 00} après un arte : passe
+derrière l’ennemi proche.
+
+[program.1052784]
+Prise à revers
+
+[program.1052800]
+Maintenir {09:3D 00 00 00} : bond en arrière
+pendant la récupération.
+
+[program.1052864]
+Ruée arrière
+
+[program.1052880]
+Maintenir {09:3D 00 00 00} : ruée en avant
+pendant la récupération.
+
+[program.1052944]
+Ruée avant
+
+[program.1052960]
+Maintenir {09:3D 00 00 00} après un arte :
+suite d’attaques normales.
+
+[program.1053024]
+Chaîne normale
+
+[program.1053040]
+Maintenir {09:3D 00 00 00} sur un coup porté
+projette l’ennemi au loin
+
+[program.1053096]
+Projection
+
+[program.1053112]
+Maintenir {09:3D 00 00 00} quand l’ennemi pare
+réduit sa garde de 8 d’un coup.
+
+[program.1053176]
+Brise-garde
+
+[program.1053192]
+Saisir un arte en l’air pour l’y lancer
+
+
+[program.1053240]
+Arte en l’air
+
+[program.1053256]
+Saisir un arte à l’instant où l’on pare
+une attaque au sol permet de le lancer.
+
+[program.1053320]
+Arte en garde
+
+[program.1053336]
+Saisir un arte à l’instant où l’on est
+touché au sol permet de le lancer.
+
+[program.1053400]
+Arte en riposte
+
+[program.1053416]
+Maintenir {09:3D 00 00 00} quand l’ennemi chancelle
+déclenche un arte mystique.
+
+[program.1053472]
+Arte mystique
+
+[program.1053480]
+Maintenir {09:3D 00 00 00} sur un coup porté
+déclenche la suite de l’arte.
+
+[program.1053536]
+Arte additionnel
+
+[program.1053552]
+Esquive toute attaque un court instant
+au début de l’arte
+
+[program.1053608]
+Esquive éclair
+
+[program.1053624]
+(Chance) Peut voler un objet
+sur un coup porté
+
+[program.1053680]
+Vol d’objet
+
+[program.1053696]
+(Durable) Accélère un temps l’incantation
+
+[program.1053736]
+Vit. sorts +
+
+[program.1053752]
+Ajoute au compteur qui mène à
+l’état Spirits Blaster
+
+[program.1053816]
+Blaster
+
+[program.1053832]
+Pendant l’arte, résiste aux sorts de son
+meilleur élément, autant que le niveau
+
+[program.1053904]
+Endure-sorts
+
+[program.1053920]
+Pendant l’arte, résiste aux attaques de son
+meilleur élément, autant que le niveau
+
+[program.1053992]
+Endure-attaques
+
+[program.1054008]
+(Chance, durable) Un coup réduit un temps
+la résistance aux ténèbres
+
+[program.1054072]
+Rés. ténèbres -
+
+[program.1054088]
+(Chance, durable) Un coup réduit un temps
+la résistance à la lumière
+
+[program.1054152]
+Rés. lumière -
+
+[program.1054168]
+(Chance, durable) Un coup réduit un temps
+la résistance au vent
+
+[program.1054232]
+Rés. vent -
+
+[program.1054248]
+(Chance, durable) Un coup réduit un temps
+la résistance au feu
+
+[program.1054312]
+Rés. feu -
+
+[program.1054328]
+(Chance, durable) Un coup réduit un temps
+la résistance à l’eau
+
+[program.1054392]
+Rés. eau -
+
+[program.1054408]
+(Chance, durable) Un coup réduit un temps
+la résistance à la terre
+
+[program.1054472]
+Rés. terre -
+
+[program.1054488]
+(Chance, durable) Un coup réduit un temps
+l’intellect ennemi
+
+[program.1054552]
+Intellect -
+
+[program.1054560]
+(Chance, durable) Un coup ralentit un temps
+l’incantation ennemie
+
+[program.1054624]
+Vit. sorts -
+
+[program.1054640]
+Augmente le taux de critique de l’arte
+
+[program.1054672]
+Critique
+
+[program.1054688]
+Réduit les SP dépensés pendant l’arte
+
+[program.1054720]
+Économie de SP
+
+[program.1054736]
+Augmente les dégâts de l’arte
+
+[program.1054760]
+Attaque +
+
+[program.1054776]
+Augmente la précision de l’arte
+
+[program.1054800]
+Précision +
+
+[program.1054816]
+Cardinal
+
+[program.1054832]
+Cleric
+
+[program.1054848]
+Priest
+
+[program.1054864]
+Rector
+
+[program.1054880]
+Acolyte
+
+[program.1054896]
+HP et TP se régénèrent tout seuls
+
+[program.1054920]
+Invalid
+
+[program.1054936]
+Deflect
+
+[program.1054952]
+Avoid
+
+[program.1054968]
+Response
+
+[program.1054984]
+Reduce
+
+[program.1055000]
+Plus de chances de bloquer les altérations
+
+[program.1055032]
+Spectral
+
+[program.1055048]
+Ether
+
+[program.1055064]
+Reflect
+
+[program.1055080]
+Elemental
+
+[program.1055096]
+Prism
+
+[program.1055112]
+Intellect accru, incantation accélérée
+
+[program.1055144]
+Hermit
+
+[program.1055160]
+Conjurer
+
+[program.1055176]
+Shaman
+
+[program.1055192]
+Magician
+
+[program.1055208]
+Fraud
+
+[program.1055224]
+Augmente économie et régén. de TP
+
+[program.1055256]
+Excellent
+
+[program.1055272]
+Wonderful
+
+[program.1055288]
+Quality
+
+[program.1055304]
+Major
+
+[program.1055320]
+Worth
+
+[program.1055328]
+Augmente défense et HP max
+
+[program.1055352]
+Universe
+
+[program.1055368]
+Galaxy
+
+[program.1055384]
+Nebula
+
+[program.1055400]
+Horoscope
+
+[program.1055416]
+Star
+
+[program.1055424]
+Augmente la régén. de SP et de TP
+
+[program.1055456]
+Seer
+
+[program.1055464]
+Void
+
+[program.1055480]
+Innocence
+
+[program.1055496]
+Ignorance
+
+[program.1055512]
+Mercy
+
+[program.1055528]
+Augmente chance et esquive
+
+[program.1055544]
+Dread
+
+[program.1055560]
+Miracle
+
+[program.1055576]
+Ornate
+
+[program.1055592]
+Basis
+
+[program.1055608]
+Skillful
+
+[program.1055624]
+Augmente défense et esquive
+
+[program.1055648]
+Misery
+
+[program.1055664]
+Welfare
+
+[program.1055680]
+Harvest
+
+[program.1055696]
+Mason
+
+[program.1055712]
+Forge
+
+[program.1055728]
+Rend des TP selon les dégâts subis
+
+[program.1055752]
+Waylay
+
+[program.1055768]
+Revenge
+
+[program.1055784]
+Repulse
+
+[program.1055800]
+Rebound
+
+[program.1055816]
+Thorns
+
+[program.1055832]
+Facilite les Guard Strikes
+
+[program.1055864]
+Seraphic
+
+[program.1055880]
+Cherubim
+
+[program.1055896]
+Dominion
+
+[program.1055912]
+Angel
+
+[program.1055928]
+Errand
+
+[program.1055944]
+Les dégâts subis se soignent avec le temps
+
+[program.1055976]
+Lovely
+
+[program.1055992]
+Cutie
+
+[program.1056008]
+Pretty
+
+[program.1056024]
+Sweet
+
+[program.1056040]
+Stripe
+
+[program.1056056]
+Immobilisation réduite quand on est touché
+
+[program.1056080]
+Stability
+
+[program.1056096]
+Tireless
+
+[program.1056112]
+Dexterous
+
+[program.1056128]
+Balance
+
+[program.1056144]
+Blocking
+
+[program.1056160]
+Moins de temps à terre après une chute
+
+[program.1056184]
+Devote
+
+[program.1056200]
+Humility
+
+[program.1056216]
+Grasp
+
+[program.1056232]
+Pillage
+
+[program.1056248]
+Familiar
+
+[program.1056264]
+La garde rapporte des Gald
+
+[program.1056296]
+Avatar
+
+[program.1056312]
+Wizard
+
+[program.1056328]
+Magus
+
+[program.1056344]
+Adept
+
+[program.1056360]
+Sorcerer
+
+[program.1056376]
+Incantation accélérée en garde
+
+[program.1056400]
+Mirage
+
+[program.1056416]
+Enlight
+
+[program.1056432]
+Inspect
+
+[program.1056448]
+Insight
+
+[program.1056464]
+Geyser
+
+[program.1056480]
+Esquive accrue en garde
+
+[program.1056504]
+Oberon
+
+[program.1056520]
+Prime
+
+[program.1056536]
+Justice
+
+[program.1056552]
+Defense
+
+[program.1056568]
+Resolve
+
+[program.1056584]
+Défense accrue en garde
+
+[program.1056608]
+Silky
+
+[program.1056624]
+Velvet
+
+[program.1056640]
+Feather
+
+[program.1056656]
+Woolly
+
+[program.1056672]
+Cotton
+
+[program.1056688]
+Rend des TP en garde
+
+[program.1056712]
+Titania
+
+[program.1056728]
+Sylvan
+
+[program.1056744]
+Forest
+
+[program.1056760]
+Timber
+
+[program.1056776]
+Thicket
+
+[program.1056792]
+Rend des SP en garde
+
+[program.1056816]
+Chaotic
+
+[program.1056832]
+Doom
+
+[program.1056848]
+Spite
+
+[program.1056864]
+Skull
+
+[program.1056872]
+Bone
+
+[program.1056880]
+Réduit légèrement tous les dégâts
+
+[program.1056904]
+Ebony
+
+[program.1056920]
+Amethyst
+
+[program.1056936]
+Onyx
+
+[program.1056952]
+Carbon
+
+[program.1056968]
+Charcoal
+
+[program.1056984]
+Résistance aux ténèbres
+
+[program.1057000]
+Diamond
+
+[program.1057016]
+Crystal
+
+[program.1057032]
+Alabaster
+
+[program.1057048]
+Ivory
+
+[program.1057064]
+Coral
+
+[program.1057080]
+Résistance à la lumière
+
+[program.1057096]
+Disaster
+
+[program.1057112]
+Tempest
+
+[program.1057128]
+Cyclone
+
+[program.1057144]
+Hurricane
+
+[program.1057160]
+Storm
+
+[program.1057176]
+Résistance au vent
+
+[program.1057192]
+Carnelian
+
+[program.1057208]
+Ruby
+
+[program.1057216]
+Scarlet
+
+[program.1057232]
+Crimson
+
+[program.1057248]
+Vermilion
+
+[program.1057264]
+Résistance au feu
+
+[program.1057280]
+Cerulean
+
+[program.1057296]
+Sapphire
+
+[program.1057312]
+Aquamarine
+
+[program.1057328]
+Lapis Lazuli
+
+[program.1057344]
+Cyan
+
+[program.1057352]
+Résistance à l’eau
+
+[program.1057368]
+Amber
+
+[program.1057384]
+Topaz
+
+[program.1057400]
+Tangerine
+
+[program.1057416]
+Ochre
+
+[program.1057432]
+Brown
+
+[program.1057448]
+Résistance à la terre
+
+[program.1057464]
+Rebirth
+
+[program.1057480]
+Regrowth
+
+[program.1057496]
+Resume
+
+[program.1057512]
+Vitality
+
+[program.1057528]
+Survival
+
+[program.1057544]
+Rend des HP quand la mort est proche
+
+[program.1057568]
+Goodwill
+
+[program.1057584]
+Energy
+
+[program.1057600]
+Conscious
+
+[program.1057616]
+Resist
+
+[program.1057632]
+Strong
+
+[program.1057648]
+Réduit la durée d’étourdissement
+
+[program.1057672]
+Aura
+
+[program.1057680]
+Faith
+
+[program.1057696]
+Order
+
+[program.1057712]
+Morale
+
+[program.1057728]
+Leading
+
+[program.1057744]
+Résistance à la faiblesse, effet de riposte
+
+[program.1057776]
+Stuffy
+
+[program.1057792]
+Thawing
+
+[program.1057808]
+Heating
+
+[program.1057824]
+Melting
+
+[program.1057840]
+Warming
+
+[program.1057856]
+Résistance au gel et effet de riposte
+
+[program.1057888]
+Funny
+
+[program.1057904]
+Optimum
+
+[program.1057920]
+Active
+
+[program.1057936]
+Easy
+
+[program.1057952]
+Rocking
+
+[program.1057968]
+Résistance à la paralysie, effet de riposte
+
+[program.1058000]
+Elven
+
+[program.1058016]
+Swift
+
+[program.1058032]
+Agility
+
+[program.1058048]
+Haste
+
+[program.1058064]
+Step
+
+[program.1058080]
+Résistance à la lenteur, effet de riposte
+
+[program.1058112]
+Fragrance
+
+[program.1058128]
+Comfort
+
+[program.1058144]
+Cure-all
+
+[program.1058160]
+Restful
+
+[program.1058176]
+Antidote
+
+[program.1058192]
+Résistance au poison et effet de riposte
+
+[program.1058216]
+Ancient
+
+[program.1058232]
+Archaic
+
+[program.1058248]
+Royal
+
+[program.1058264]
+Persian
+
+[program.1058280]
+Damascus
+
+[program.1058296]
+Attaque accrue à bas niveau du porteur
+
+[program.1058328]
+Earnest
+
+[program.1058344]
+Impress
+
+[program.1058360]
+Zealous
+
+[program.1058376]
+Fervor
+
+[program.1058392]
+Ardent
+
+[program.1058408]
+Accélère incantation et régén. de TP
+
+[program.1058440]
+Rare Metal
+
+[program.1058456]
+Lava
+
+[program.1058472]
+Granite
+
+[program.1058488]
+Marble
+
+[program.1058504]
+Basalt
+
+[program.1058520]
+Augmente attaque et HP max
+
+[program.1058544]
+Arcadia
+
+[program.1058560]
+El Dorado
+
+[program.1058576]
+Paradise
+
+[program.1058592]
+Heavens
+
+[program.1058608]
+World
+
+[program.1058624]
+Augmente l’économie de SP et de TP
+
+[program.1058656]
+Deity
+
+[program.1058672]
+Tyrant
+
+[program.1058688]
+Kaiser
+
+[program.1058704]
+Emperor
+
+[program.1058720]
+Lord
+
+[program.1058728]
+Augmente attaque et critique
+
+[program.1058760]
+Final
+
+[program.1058776]
+Hyper
+
+[program.1058792]
+Perfect
+
+[program.1058808]
+Majesty
+
+[program.1058824]
+Courageous
+
+[program.1058840]
+Augmente attaque et précision
+
+[program.1058864]
+Valiant
+
+[program.1058880]
+Guardian
+
+[program.1058896]
+Gargoyle
+
+[program.1058912]
+Golem
+
+[program.1058928]
+Puppet
+
+[program.1058944]
+Efficace contre les inanimés
+
+[program.1058968]
+Daemon
+
+[program.1058984]
+Devil
+
+[program.1058992]
+Gremlin
+
+[program.1059008]
+Fiend
+
+[program.1059024]
+Ogre
+
+[program.1059040]
+Efficace contre les démons
+
+[program.1059064]
+Phoenix
+
+[program.1059080]
+Griffin
+
+[program.1059096]
+Pegasus
+
+[program.1059112]
+Harpy
+
+[program.1059128]
+Raptor
+
+[program.1059144]
+Efficace contre les ennemis volants
+
+[program.1059168]
+Slayer
+
+[program.1059184]
+Bestial
+
+[program.1059200]
+Predator
+
+[program.1059216]
+Beast
+
+[program.1059232]
+Hound
+
+[program.1059248]
+Efficace contre les bêtes
+
+[program.1059264]
+Demolition
+
+[program.1059280]
+Hang-up
+
+[program.1059296]
+Destroy
+
+[program.1059312]
+Crash
+
+[program.1059328]
+Break
+
+[program.1059344]
+Efficace contre les machines
+
+[program.1059368]
+Bahamut
+
+[program.1059384]
+Wyrm
+
+[program.1059400]
+Dragon
+
+[program.1059416]
+Drake
+
+[program.1059432]
+Lizard
+
+[program.1059448]
+Efficace contre les dragons
+
+[program.1059472]
+Cheering
+
+[program.1059488]
+Useful
+
+[program.1059504]
+Vision
+
+[program.1059520]
+Bloom
+
+[program.1059536]
+Scout
+
+[program.1059552]
+Effets (Durable) plus longs
+
+[program.1059576]
+Harlequin
+
+[program.1059592]
+Arlequin
+
+[program.1059608]
+Jester
+
+[program.1059624]
+Fantasy
+
+[program.1059640]
+Dream
+
+[program.1059656]
+Le niv. Chaîne monte plus vite
+
+[program.1059688]
+Apocalypse
+
+[program.1059704]
+Armageddon
+
+[program.1059720]
+Catastrophe
+
+[program.1059736]
+Slaughter
+
+[program.1059752]
+Le niv. Magie monte plus vite
+
+[program.1059776]
+Accurate
+
+[program.1059792]
+Guided
+
+[program.1059808]
+Fine
+
+[program.1059824]
+Aiming
+
+[program.1059840]
+Gambit
+
+[program.1059856]
+Le niv. Artes monte plus vite
+
+[program.1059880]
+Deadly
+
+[program.1059896]
+Savage
+
+[program.1059912]
+Onslaught
+
+[program.1059928]
+Trample
+
+[program.1059944]
+Assault
+
+[program.1059960]
+Le niv. Attaque monte plus vite
+
+[program.1059992]
+Strange
+
+[program.1060008]
+Wonder
+
+[program.1060024]
+Rune
+
+[program.1060032]
+Magical
+
+[program.1060048]
+Mage
+
+[program.1060056]
+Plus de TP rendus par ennemi vaincu
+
+[program.1060088]
+Reentry
+
+[program.1060104]
+Pastime
+
+[program.1060120]
+Relieve
+
+[program.1060136]
+Pleasure
+
+[program.1060152]
+Harmony
+
+[program.1060168]
+Rend des HP à chaque ennemi vaincu
+
+[program.1060200]
+Vulpine
+
+[program.1060216]
+Nightmare
+
+[program.1060232]
+Spirit
+
+[program.1060248]
+Specter
+
+[program.1060264]
+Phantom
+
+[program.1060280]
+Absorbe des TP en attaquant
+
+[program.1060304]
+Vampire
+
+[program.1060320]
+Succubus
+
+[program.1060336]
+Snatcher
+
+[program.1060352]
+Bloody
+
+[program.1060368]
+Mosquito
+
+[program.1060384]
+Absorbe des HP en attaquant
+
+[program.1060408]
+Genocide
+
+[program.1060424]
+Carnage
+
+[program.1060440]
+Merciless
+
+[program.1060456]
+Rampage
+
+[program.1060472]
+Augmente le taux de critique
+
+[program.1060504]
+Driving
+
+[program.1060520]
+Strike
+
+[program.1060536]
+Groggy
+
+[program.1060552]
+Bashing
+
+[program.1060568]
+Howling
+
+[program.1060584]
+(Chance) Ajoute l’étourdissement
+
+[program.1060616]
+Fatigue
+
+[program.1060632]
+Painful
+
+[program.1060648]
+Fainter
+
+[program.1060664]
+Disease
+
+[program.1060680]
+Weaken
+
+[program.1060696]
+(Chance) Ajoute la faiblesse
+
+[program.1060728]
+Stasis
+
+[program.1060744]
+Glacial
+
+[program.1060760]
+Iceberg
+
+[program.1060776]
+Freeze
+
+[program.1060792]
+Cold
+
+[program.1060808]
+(Chance) Ajoute le gel
+
+[program.1060840]
+Medusa
+
+[program.1060856]
+Basilisk
+
+[program.1060872]
+Cockatrice
+
+[program.1060888]
+Spider
+
+[program.1060904]
+Paralyze
+
+[program.1060920]
+(Chance) Ajoute la paralysie
+
+[program.1060952]
+Plague
+
+[program.1060968]
+Epidemic
+
+[program.1060984]
+Venom
+
+[program.1061000]
+Noxious
+
+[program.1061016]
+Poison
+
+[program.1061032]
+(Chance) Ajoute le poison
+
+[program.1061064]
+Shadow
+
+[program.1061080]
+Darkness
+
+[program.1061096]
+Shade
+
+[program.1061112]
+Silhouette
+
+[program.1061128]
+Dusk
+
+[program.1061136]
+Ajoute l’élément ténèbres
+
+[program.1061160]
+Photon
+
+[program.1061176]
+Twinkle
+
+[program.1061192]
+Brilliant
+
+[program.1061208]
+Illuminate
+
+[program.1061224]
+Light
+
+[program.1061232]
+Ajoute l’élément lumière
+
+[program.1061256]
+Sylphy
+
+[program.1061272]
+Aerial
+
+[program.1061288]
+Zephyr
+
+[program.1061304]
+Gale
+
+[program.1061312]
+Windy
+
+[program.1061328]
+Ajoute l’élément vent
+
+[program.1061352]
+Ifrit
+
+[program.1061368]
+Salamander
+
+[program.1061384]
+Searing
+
+[program.1061400]
+Flare
+
+[program.1061408]
+Fire
+
+[program.1061424]
+Ajoute l’élément feu
+
+[program.1061448]
+Poseidon
+
+[program.1061464]
+Undine
+
+[program.1061480]
+Triton
+
+[program.1061496]
+Aquarius
+
+[program.1061512]
+Water
+
+[program.1061528]
+Ajoute l’élément eau
+
+[program.1061552]
+Martel
+
+[program.1061568]
+Gnome
+
+[program.1061576]
+Gaia
+
+[program.1061584]
+Earth
+
+[program.1061592]
+Soil
+
+[program.1061600]
+Ajoute l’élément terre
+
+[program.1061624]
+Meteoric
+
+[program.1061640]
+Orichalcum
+
+[program.1061656]
+Stardust
+
+[program.1061672]
+Mithril
+
+[program.1061688]
+Platinum
+
+[program.1061704]
+L’emplacement jumelé peut monter de LV
+
+[program.1061736]
+Crusader
+
+[program.1061752]
+Patriot
+
+[program.1061768]
+Paladin
+
+[program.1061784]
+Knights
+
+[program.1061792]
+Squire
+
+[program.1061808]
+Renforce l’emplacement jumelé
+
+[program.1061832]
+Berserk
+
+[program.1061848]
+Master
+
+[program.1061864]
+Champion
+
+[program.1061880]
+Dragoon
+
+[program.1061896]
+Duelist
+
+[program.1061912]
+Effets (Chance) plus fréquents
+
+[program.1061944]
+Sacred
+
+[program.1061960]
+Glorious
+
+[program.1061976]
+Saintly
+
+[program.1061992]
+Prestige
+
+[program.1062008]
+Awesome
+
+[program.1062024]
+Augmente l’EXP gagnée
+
+[program.1062048]
+Legacy
+
+[program.1062064]
+Plenty
+
+[program.1062080]
+Abound
+
+[program.1062096]
+Quantum
+
+[program.1062112]
+Treasure
+
+[program.1062128]
+Plus de chances d’obtenir des objets
+
+[program.1062152]
+Bounty
+
+[program.1062168]
+Wealth
+
+[program.1062184]
+High Reward
+
+[program.1062200]
+Prize
+
+[program.1062216]
+Merchant
+
+[program.1062232]
+Augmente les Gald gagnés
+
+[program.1062256]
+Artist
+
+[program.1062272]
+Expert
+
+[program.1062288]
+Veteran
+
+[program.1062304]
+Craftsman
+
+[program.1062320]
+Sleight
+
+[program.1062336]
+Réduit la récup. après un objet
+
+[program.1062368]
+Marshal
+
+[program.1062384]
+General
+
+[program.1062400]
+Elite
+
+[program.1062416]
+Warrior
+
+[program.1062432]
+Mercenary
+
+[program.1062448]
+Faible chance d’ajouter des HP max
+
+[program.1062472]
+Holy
+
+[program.1062488]
+Anthem
+
+[program.1062504]
+Calming
+
+[program.1062520]
+Medical
+
+[program.1062536]
+Healing
+
+[program.1062552]
+Rend des HP à intervalles réguliers
+
+[program.1062584]
+Vanishing
+
+[program.1062600]
+Sprint
+
+[program.1062616]
+Runaway
+
+[program.1062632]
+Dash
+
+[program.1062648]
+Escape
+
+[program.1062664]
+Accélère la fuite
+
+[program.1062688]
+Misty
+
+[program.1062704]
+Arcane
+
+[program.1062720]
+Ritual
+
+[program.1062736]
+Paradigm
+
+[program.1062752]
+Spell
+
+[program.1062760]
+Accélère l’incantation
+
+[program.1062784]
+Fairy
+
+[program.1062800]
+Leprechaun
+
+[program.1062816]
+Dryad
+
+[program.1062832]
+Sprite
+
+[program.1062848]
+Pixie
+
+[program.1062864]
+Augmente l’économie de TP
+
+[program.1062888]
+Sanctum
+
+[program.1062904]
+Zodiac
+
+[program.1062920]
+Welkin
+
+[program.1062936]
+Cosmic
+
+[program.1062952]
+Aether
+
+[program.1062968]
+Augmente l’économie de SP
+
+[program.1062992]
+Serenity
+
+[program.1063008]
+Meditate
+
+[program.1063024]
+Tranquil
+
+[program.1063040]
+Mind
+
+[program.1063056]
+Augmente la régén. de TP
+
+[program.1063080]
+Lunatic
+
+[program.1063096]
+Artemis
+
+[program.1063112]
+Planet
+
+[program.1063128]
+Selene
+
+[program.1063136]
+Moon
+
+[program.1063144]
+Augmente la régén. de SP
+
+[program.1063168]
+Colossus
+
+[program.1063184]
+Behemoth
+
+[program.1063200]
+Giant
+
+[program.1063216]
+Wolverine
+
+[program.1063232]
+Troll
+
+[program.1063248]
+Augmente les HP max
+
+[program.1063272]
+Fortune
+
+[program.1063288]
+Luck
+
+[program.1063296]
+Chance
+
+[program.1063312]
+Happy
+
+[program.1063328]
+Rabbit
+
+[program.1063344]
+Augmente la chance
+
+[program.1063360]
+Wisdom
+
+[program.1063376]
+Clever
+
+[program.1063392]
+Thinking
+
+[program.1063408]
+Wiseman
+
+[program.1063424]
+Knowledge
+
+[program.1063440]
+Augmente l’intellect
+
+[program.1063456]
+Maneuver
+
+[program.1063472]
+Invisible
+
+[program.1063488]
+Flux
+
+[program.1063504]
+Dancing
+
+[program.1063520]
+Evasion
+
+[program.1063536]
+Augmente l’esquive
+
+[program.1063552]
+Carapace
+
+[program.1063568]
+Rampart
+
+[program.1063584]
+Protect
+
+[program.1063600]
+Armored
+
+[program.1063616]
+Steel
+
+[program.1063632]
+Augmente la défense
+
+[program.1063648]
+Sliver
+
+[program.1063664]
+Precision
+
+[program.1063680]
+Nimble
+
+[program.1063696]
+Sharp
+
+[program.1063712]
+Feat
+
+[program.1063728]
+Augmente la précision
+
+[program.1063744]
+Mighty
+
+[program.1063760]
+Force
+
+[program.1063776]
+Strength
+
+[program.1063792]
+Power
+
+[program.1063800]
+Attack
+
+[program.1063816]
+Augmente l’attaque
+
+[program.1063880]
+Berselius
+
+[program.1063896]
+Harold
+
+[program.1063912]
+Fletch
+
+[program.1063928]
+Nanaly
+
+[program.1063944]
+Judas
+
+[program.1063960]
+Loni
+
+[program.1063976]
+Reala
+
+[program.1063984]
+Dunamis
+
+[program.1064000]
+Kyle
+
+[program.1064008]
+Sans nom
+
+[program.1064024]
+Permettent de marcher sans un bruit.
+À porter avec la Tenue de kannagi.
+
+[program.1064072]
+Tabi de Mikagura
+
+[program.1064088]
+Bottes en pattes de chat, aux
+coussinets mignons. Amortissent bien.
+
+[program.1064152]
+Bottes persanes
+
+[program.1064168]
+Bottes ornées d’un incube.
+On se déplace comme en glissant !
+
+[program.1064224]
+Bottes de cauchemar
+
+[program.1064248]
+Bottes de légende, du nom
+de frères conteurs.
+
+[program.1064328]
+Bottes Grimm
+
+[program.1064344]
+Bottes légères vert tendre des elfes.
+On court en forêt sans trébucher.
+
+[program.1064408]
+Bottes elfiques
+
+[program.1064424]
+Accélération folle.
+Vos compagnons pourront-ils suivre ?
+
+[program.1064472]
+Bottes à réaction
+
+[program.1064488]
+Bottes avec des ailes.
+Le cœur s’envole aussi.
+
+[program.1064528]
+Bottes ailées
+
+[program.1064552]
+Bottes sobres et gracieuses.
+La claaasse !!
+
+[program.1064600]
+Bottes gothiques
+
+[program.1064616]
+Bottes dures, parfaites au corps à
+corps. Très résistantes.
+
+[program.1064664]
+Bottes d’assaut
+
+[program.1064688]
+Bottes qui protègent jusqu’au genou.
+Un coup dans le tibia ? Même pas mal.
+
+[program.1064736]
+Grèves
+
+[program.1064752]
+Ce qu’on appelle des brodequins.
+Le pratique avant tout.
+
+[program.1064800]
+Bottes de combat
+
+[program.1064816]
+Bottes affreusement lourdes, comme
+leur nom. Se déplacer sera pénible.
+
+[program.1064872]
+Bottes lourdes
+
+[program.1064888]
+Bottes en résille.
+Légères et ravissantes.
+
+[program.1064920]
+Bottes en résille
+
+[program.1064936]
+Bottes en plaques d’acier.
+Un éléphant peut marcher dessus.
+
+[program.1064976]
+Bottes de plates
+
+[program.1064992]
+Bottes cousues de fil d’acier.
+À porter avec la Cotte de mailles.
+
+[program.1065048]
+Bottes de mailles
+
+[program.1065064]
+Bottes en cuir.
+Marcher sur un caillou ? Même pas mal.
+
+[program.1065104]
+Bottes de cuir
+
+[program.1065120]
+Veste qu’un général de l’est portait
+à la guerre. On se sent important.
+
+[program.1065176]
+Jinbaori
+
+[program.1065184]
+Mantelet tissé de fils d’argent.
+L’argent repousserait le mal.
+
+[program.1065240]
+Mantelet d’argent
+
+[program.1065256]
+Une princesse le mettait pour sortir
+incognito. Un vrai garçon manqué.
+
+[program.1065328]
+Mantelet de princesse
+
+[program.1065352]
+Cape des cieux.
+Augmente la résistance à la magie.
+
+[program.1065392]
+Cape céleste
+
+[program.1065416]
+Cape qui crée des illusions.
+Les attaques vous touchent moins.
+
+[program.1065464]
+Cape mirage
+
+[program.1065488]
+Cape fastueuse des gens de haut rang.
+Tous les regards sont pour vous !
+
+[program.1065544]
+Cape somptueuse
+
+[program.1065568]
+Cape de luxe en fourrure.
+Indispensable au pays des neiges.
+
+[program.1065624]
+Cape de fourrure
+
+[program.1065640]
+Cape légère vert tendre des elfes.
+Pour vos balades en forêt.
+
+[program.1065696]
+Cape elfique
+
+[program.1065712]
+Cape sobre et gracieuse.
+La grande classe !!
+
+[program.1065752]
+Cape gothique
+
+[program.1065768]
+Cape à l’emblème de la terre.
+Augmente la résistance à la terre.
+
+[program.1065816]
+Cape de la terre
+
+[program.1065832]
+Cape à l’emblème du vent.
+Augmente la résistance au vent.
+
+[program.1065880]
+Cape de sylphe
+
+[program.1065896]
+Cape à l’emblème de l’eau.
+Augmente la résistance à l’eau.
+
+[program.1065944]
+Cape d’onde
+
+[program.1065960]
+Cape à l’emblème du feu.
+Augmente la résistance au feu.
+
+[program.1066008]
+Cape de flamme
+
+[program.1066024]
+La cape que préfèrent les chasseurs.
+Sert de couverture à la belle étoile.
+
+[program.1066080]
+Cape de chasseur
+
+[program.1066104]
+Sombre, elle passe inaperçue.
+Pratique pour se cacher.
+
+[program.1066144]
+Cape de voleur
+
+[program.1066160]
+Cape en cuir.
+Rien à craindre les jours de pluie.
+
+[program.1066192]
+Cape de cuir
+
+[program.1066208]
+Parure qui marquerait un empereur.
+L’un des trois trésors sacrés.
+
+[program.1066256]
+Magatama de Yasakani
+
+[program.1066280]
+Charme qui prévient ou atténue la
+faiblesse. En garde, peut affaiblir.
+
+[program.1066344]
+Pare-faiblesse
+
+[program.1066368]
+Charme en forme de poussin.
+Atténue étourdissement et chute.
+
+[program.1066408]
+Piyohan
+
+[program.1066424]
+Lance les artes par saisie de commande.
+Prétend valoir la place qu’elle prend.
+
+[program.1066496]
+Commande combo
+
+[program.1066512]
+Portée d’avance, elle se brise à votre
+place au K.-O. et vous ranime.
+
+[program.1066584]
+Poupée substitut
+
+[program.1066600]
+Charme où un démon est scellé.
+Augmente l’EXP gagnée.
+
+[program.1066640]
+Sceau du démon
+
+[program.1066656]
+Pour experts : SELECT change aussitôt
+le personnage que l’on dirige.
+
+[program.1066736]
+Sélecteur lunaire
+
+[program.1066760]
+Charme d’onyx noir.
+Augmente les HP max.
+
+[program.1066800]
+Onyx noir
+
+[program.1066824]
+Statuette de déesse.
+Augmente les Gald gagnés.
+
+[program.1066856]
+Séphira
+
+[program.1066872]
+Charme ordinaire.
+Augmente la défense.
+
+[program.1066904]
+Talisman
+
+[program.1066920]
+L’emblème du dieu de la guerre.
+Augmente la régén. de SP.
+
+[program.1066952]
+Task Force
+
+[program.1066968]
+Patte de lapin.
+Augmente la chance.
+
+[program.1067000]
+Symbole du lapin
+
+[program.1067024]
+Emblème mystique.
+Raccourcit l’incantation.
+
+[program.1067056]
+Symbole mystique
+
+[program.1067080]
+L’emblème du guerrier.
+Augmente l’attaque.
+
+[program.1067104]
+Symbole de prouesse
+
+[program.1067128]
+Emblème sacré.
+Rend des HP peu à peu.
+
+[program.1067160]
+Symbole sacré
+
+[program.1067184]
+Charme qui prévient ou atténue le
+gel. En garde, peut geler l’ennemi.
+
+[program.1067248]
+Pare-gel
+
+[program.1067272]
+Charme qui prévient ou atténue la
+lenteur. En garde, peut ralentir.
+
+[program.1067344]
+Pare-lenteur
+
+[program.1067368]
+Charme qui prévient ou atténue la
+paralysie. En garde, peut paralyser.
+
+[program.1067432]
+Pare-paralysie
+
+[program.1067456]
+Charme qui prévient ou atténue le
+poison. En garde, peut empoisonner.
+
+[program.1067520]
+Pare-poison
+
+[program.1067544]
+L’anneau de l’adresse.
+Plus de chances d’obtenir des objets.
+
+[program.1067592]
+Anneau technique
+
+[program.1067616]
+Anneau aux gestes fantasques qui
+déroutent l’ennemi. Précision accrue.
+
+[program.1067664]
+Farceur
+
+[program.1067680]
+L’anneau de la protection.
+Réduit le temps passé à chanceler.
+
+[program.1067720]
+Anneau de protection
+
+[program.1067744]
+L’anneau du reflet.
+Renvoie parfois les dégâts subis.
+
+[program.1067792]
+Anneau de reflet
+
+[program.1067816]
+L’anneau de la résistance.
+Réduit un peu tous les dégâts.
+
+[program.1067856]
+Anneau de résistance
+
+[program.1067872]
+L’anneau de la force.
+Rend des SP en garde.
+
+[program.1067904]
+Anneau de force
+
+[program.1067920]
+Anneau qui apaise et stabilise.
+Augmente la régén. de TP.
+
+[program.1067968]
+Anneau mental
+
+[program.1067984]
+Anneau fait par des mains de fée.
+Augmente l’économie de TP.
+
+[program.1068040]
+Anneau de fée
+
+[program.1068064]
+Anneau d’émeraude.
+Augmente l’économie de TP.
+
+[program.1068096]
+Anneau d’émeraude
+
+[program.1068120]
+Jonc de l’esprit.
+Rend des TP par ennemi vaincu.
+
+[program.1068152]
+Jonc mental
+
+[program.1068176]
+Jonc de guérison.
+Rend des HP par ennemi vaincu.
+
+[program.1068208]
+Jonc de soin
+
+[program.1068224]
+Le bracelet de l’espoir.
+Gardez le soleil au cœur !
+
+[program.1068256]
+Bracelet de fortune
+
+[program.1068288]
+Miroir qui marquerait un empereur.
+L’un des trois trésors sacrés.
+
+[program.1068328]
+Miroir de Yata
+
+[program.1068344]
+Gants qui prouvent la confiance des
+dieux. Les cœurs se rejoignent !
+
+[program.1068392]
+Cœur à cœur
+
+[program.1068416]
+Gants du sage qui seconda le Roi-Héros.
+On les dit les doigts de la magie.
+
+[program.1068464]
+Doigts de mage
+
+[program.1068488]
+Bracelet béni par les anges.
+Il rend tou~t le monde heureux !
+
+[program.1068544]
+Bracelet d’ange
+
+[program.1068568]
+Bracelet béni par l’éclat des
+étoiles. Sois une lueur dans la nuit.
+
+[program.1068624]
+Bracelet étoilé
+
+[program.1068648]
+La marque d’une jeune fille pure.
+À porter avec la Robe de mariée.
+
+[program.1068696]
+Gants blancs
+
+[program.1068720]
+Bracelet de mithril, plus dur et
+léger que l’acier. De l’art nain.
+
+[program.1068776]
+Bracelet de mithril
+
+[program.1068800]
+De mignonnes moufles
+
+
+[program.1068816]
+Moufles mignonnes
+
+[program.1068840]
+Bracelet de diamants.
+Un article de luxe un peu extravagant.
+
+[program.1068896]
+Bracelet de diamants
+
+[program.1068928]
+D’adorables moufles
+
+
+[program.1068944]
+Moufles adorables
+
+[program.1068960]
+Bracelet de lapis-lazuli.
+Il préviendrait des malheurs à venir.
+
+[program.1069008]
+Bracelet de lapis
+
+[program.1069040]
+De jolies moufles
+
+
+[program.1069056]
+Jolies moufles
+
+[program.1069072]
+Bracelet en or.
+À porter avec la Cape somptueuse.
+
+[program.1069120]
+Bracelet d’or
+
+[program.1069144]
+Gants de cuisine.
+Marmites brûlantes ? Aucun souci.
+
+[program.1069176]
+Maniques
+
+[program.1069192]
+Gantelets donnés par le dieu de la
+guerre. Conçus pour le corps à corps.
+
+[program.1069240]
+Corps à corps
+
+[program.1069264]
+Gantelets qui affineraient la visée.
+Ont appartenu au preux Gilgamesh.
+
+[program.1069336]
+Hyper gantelets
+
+[program.1069360]
+Gantelets venus d’un pays de l’est.
+Un arbre sacré les protège.
+
+[program.1069408]
+Gantelets tamagushi
+
+[program.1069424]
+Gantelets qui résistent au feu.
+Mais peut-être un peu froids...
+
+[program.1069472]
+Jack Frost
+
+[program.1069496]
+Gantelets qui couvrent jusqu’au bras
+
+
+[program.1069520]
+Brassards
+
+[program.1069536]
+Gantelets de légende, du nom
+de frères conteurs.
+
+[program.1069608]
+Gants Grimm
+
+[program.1069624]
+Chef-d’œuvre unique où vit l’âme de
+maître Geese. D’une extrême rareté.
+
+[program.1069688]
+Gantelets rares
+
+[program.1069712]
+Gantelets bénis par l’éclat des
+étoiles. Sois une lueur dans la nuit.
+
+[program.1069768]
+Gants étoilés
+
+[program.1069784]
+Gantelets sobres et gracieux.
+Le bel ouvrage d’une vieille forge.
+
+[program.1069832]
+Gantelets gothiques
+
+[program.1069856]
+Gantelets de mithril, plus durs et
+légers que l’acier. De l’art nain.
+
+[program.1069912]
+Gants de mithril
+
+[program.1069936]
+Gantelets de combat.
+Faits exprès pour l’escrime.
+
+[program.1069976]
+Gantelets
+
+[program.1069992]
+Gantelets d’acier.
+Mais peut-être un peu lourds...
+
+[program.1070024]
+Gants de fer
+
+[program.1070048]
+Protègent le poignet d’un tissu doux.
+Légers, et faits pour ne pas glisser.
+
+[program.1070104]
+Gants de tissu
+
+[program.1070128]
+Gantelets renforcés de cuir tanné
+
+
+[program.1070160]
+Gants de cuir
+
+[program.1070176]
+Protègent un peu le poignet.
+Ferrailler à mains nues est risqué.
+
+[program.1070224]
+Gants
+
+[program.1070240]
+Dague d’aspect fruste. Rien de trop,
+tout est utile : « simple et robuste ».
+
+[program.1070296]
+Kongo Rakan
+
+[program.1070312]
+Dague qui porte le coup fatal
+
+
+[program.1070336]
+Coup mortel
+
+[program.1070352]
+Dague forgée dans un métal mystique
+
+
+[program.1070392]
+Orichalque
+
+[program.1070408]
+Dague à lame aux deux bouts du manche.
+La manier demande une grande adresse.
+
+[program.1070464]
+Karura
+
+[program.1070472]
+Dague à la lame épaisse comme une serpe
+
+
+[program.1070504]
+Kukri
+
+[program.1070512]
+Dague forgée d’un acier spécial
+
+
+[program.1070536]
+Katar
+
+[program.1070552]
+Dague acérée comme une dent de requin
+
+
+[program.1070584]
+Dent de requin
+
+[program.1070608]
+Dague qui perce les plaques d’acier
+
+
+[program.1070632]
+Brise-mailles
+
+[program.1070656]
+Dague aux ornements éclatants
+
+
+[program.1070688]
+Cinquedea
+
+[program.1070704]
+Dague faite pour briser l’arme adverse
+
+
+[program.1070744]
+Brise-épée
+
+[program.1070768]
+Dague pour parer
+
+
+[program.1070784]
+Dague de parade
+
+[program.1070808]
+La dague de la miséricorde
+
+
+[program.1070824]
+Miséricorde
+
+[program.1070840]
+Dague pour la main gauche
+
+
+[program.1070856]
+Main-gauche
+
+[program.1070872]
+Dague fine et acérée
+
+
+[program.1070888]
+Stylet
+
+[program.1070904]
+Sorte de couteau de chasse
+
+
+[program.1070936]
+Couteau Bowie
+
+[program.1070952]
+Dague dont le nom signifie plaie.
+La dague sert surtout à se défendre.
+
+[program.1071000]
+Scramasaxe
+
+[program.1071016]
+Ruban béni par l’éclat des étoiles.
+Il scintille !
+
+[program.1071072]
+Poussière d’étoiles
+
+[program.1071096]
+Auréole d’ange.
+À porter avec l’Habit céleste.
+
+[program.1071144]
+Auréole d’ange
+
+[program.1071168]
+Parure de cheveux de jeune fille.
+On y retrouve son âme d’enfant.
+
+[program.1071208]
+Barrette de demoiselle
+
+[program.1071224]
+Coiffe en verre réfractaire.
+Même le feu des enfers ne la fond pas.
+
+[program.1071272]
+Pyrex
+
+[program.1071288]
+Masque rigolo.
+Toujours le sourire aux lèvres.
+
+[program.1071328]
+Masque comique
+
+[program.1071352]
+Voile de brume épaisse.
+Son défaut : on y voit moins bien ?
+
+[program.1071400]
+Brume épaisse
+
+[program.1071416]
+Ornement de cheveux des femmes de
+l’est. Bref, un kanzashi.
+
+[program.1071464]
+Komachi
+
+[program.1071472]
+Couronne de jolies fleurs.
+Elle rend le cœur pur.
+
+[program.1071520]
+Guirlande
+
+[program.1071536]
+Panache de légende, du nom
+de frères conteurs.
+
+[program.1071616]
+Panache Grimm
+
+[program.1071632]
+Chapeau qui enrichit le cœur.
+Le pouvoir d’une fée l’habite.
+
+[program.1071688]
+Béret lyrique
+
+[program.1071712]
+Couronne en malachite.
+Elle recèle une force étrange.
+
+[program.1071760]
+Couronne de malachite
+
+[program.1071784]
+Panache béni.
+Il recèle une force sacrée.
+
+[program.1071832]
+Panache divin
+
+[program.1071856]
+La tiare d’une souveraine.
+On se sent une princesse capricieuse.
+
+[program.1071912]
+Tiare dominatrice
+
+[program.1071936]
+Couronne de majesté.
+On se sent une reine hautaine.
+
+[program.1071984]
+Couronne de majesté
+
+[program.1072008]
+Diadème sobre et gracieux. Jadis
+cher à une guerrière aux cheveux roux.
+
+[program.1072072]
+Diadème gothique
+
+[program.1072096]
+Ruban béni selon le rite.
+Éclaire la nuit et chasse le mal.
+
+[program.1072144]
+Ruban béni
+
+[program.1072160]
+Noble voile.
+On se sent une grande dame d’ailleurs.
+
+[program.1072208]
+Voile noble
+
+[program.1072232]
+Couronne de joyaux.
+Ornée pour les cérémonies.
+
+[program.1072272]
+Tiare
+
+[program.1072288]
+La couronne du maître d’un pays.
+La marque des gens de haut rang.
+
+[program.1072328]
+Couronne
+
+[program.1072344]
+Ornement de tête circulaire.
+Il aiderait à se concentrer...
+
+[program.1072392]
+Diadème
+
+[program.1072408]
+Soie fine qui protège le visage
+
+
+[program.1072432]
+Voile
+
+[program.1072448]
+Panache de plumes d’un blanc pur.
+La beauté avant tout !
+
+[program.1072496]
+Panache
+
+[program.1072512]
+Chapeau vert.
+On se sent une âme de peintre.
+
+[program.1072544]
+Béret
+
+[program.1072560]
+Ruban rouge.
+Le rouge va bien aux cheveux noirs.
+
+[program.1072600]
+Ruban
+
+[program.1072608]
+Le heaume d’un chevalier noir.
+On risque de vous croire sinistre ?
+
+[program.1072656]
+Desperado
+
+[program.1072672]
+Heaume d’or
+
+[program.1072696]
+Du nom du rude gaillard de l’est qui
+terrassa le serpent à huit têtes.
+
+[program.1072752]
+Heaume de Susanoo
+
+[program.1072768]
+Le heaume d’un général ambitieux.
+Il en impose à l’ennemi.
+
+[program.1072824]
+Envisage
+
+[program.1072840]
+Couronne que d’anciens États donnaient
+aux preux. L’insigne du guerrier !
+
+[program.1072904]
+Laurier
+
+[program.1072920]
+La tête d’une armure d’apparat
+
+
+[program.1072944]
+Maximilien
+
+[program.1072960]
+Heaume robuste des unités spéciales
+qui se retranchent en terrain ennemi.
+
+[program.1073008]
+Tête de pont
+
+[program.1073024]
+Heaume du nom du roi Barberousse
+
+
+[program.1073048]
+Barbute
+
+[program.1073064]
+Heaume de légende, du nom
+de frères conteurs.
+
+[program.1073136]
+Heaume Grimm
+
+[program.1073152]
+Salade en malachite.
+Elle recèle une force étrange.
+
+[program.1073200]
+Salade de malachite
+
+[program.1073224]
+Heaume sobre et gracieux.
+Le sommet de l’artisanat.
+
+[program.1073264]
+Heaume gothique
+
+[program.1073280]
+La cervelière d’un souverain.
+Sa prestance de roi en impose.
+
+[program.1073320]
+Cervelière dominatrice
+
+[program.1073344]
+Armet béni selon le rite.
+Il chasserait le mal.
+
+[program.1073408]
+Armet béni
+
+[program.1073432]
+Heaume de majesté.
+Un vieux général d’antan y tenait.
+
+[program.1073472]
+Heaume majestueux
+
+[program.1073488]
+Noble salade.
+Pour vous qui rêvez de chevalerie.
+
+[program.1073536]
+Salade noble
+
+[program.1073560]
+Cervelière de frénésie.
+La porter remonte le moral ?
+
+[program.1073600]
+Cervelière de frénésie
+
+[program.1073624]
+Heaume grand comme son nom.
+Avec des cornes, il a de l’allure.
+
+[program.1073672]
+Grand heaume
+
+[program.1073688]
+Vue améliorée pour les combats confus.
+D’où son nom : la mêlée.
+
+[program.1073744]
+Bassinet de mêlée
+
+[program.1073768]
+Protège entièrement la tête.
+Une pièce pour un guerrier accompli.
+
+[program.1073816]
+Heaume clos
+
+[program.1073832]
+Un ventail protège le visage.
+Pour qui veut cacher le sien ?
+
+[program.1073872]
+Armet
+
+[program.1073888]
+Avec sa visière,
+le soleil dans les yeux ne gêne plus.
+
+[program.1073936]
+Bassinet
+
+[program.1073952]
+Casque d’acier.
+Pour l’aventurier qui se bat !
+
+[program.1073984]
+Salade
+
+[program.1074000]
+Protège toute la tête.
+On devient un peu tête dure.
+
+[program.1074040]
+Cervelière
+
+[program.1074048]
+Casque léger en cuir.
+Vraiment pas cher.
+
+[program.1074088]
+Casque de cuir
+
+[program.1074104]
+Armure légère vert pré, bénie par une
+valkyrie. Aventure et légende aussi !
+
+[program.1074160]
+Armure de valkyrie
+
+[program.1074184]
+Habit mystique qui porte le nom du
+paradis. Vraiment sans couture ?
+
+[program.1074240]
+Habit céleste
+
+[program.1074264]
+L’habit d’une prêtresse de l’est,
+dit-on. Bref, une tenue de miko.
+
+[program.1074320]
+Tenue de kannagi
+
+[program.1074336]
+Tenue légère pour les travaux des
+champs. Résiste à la terre.
+
+[program.1074376]
+Tenue paysanne
+
+[program.1074400]
+Garde au chaud même trempé.
+Résiste à l’eau.
+
+[program.1074456]
+Combinaison de plongée
+
+[program.1074472]
+Veste contre le vent et le froid.
+Résiste au vent.
+
+[program.1074520]
+Coupe-vent
+
+[program.1074544]
+Jupe au motif de flammes vives.
+Résiste au feu.
+
+[program.1074600]
+Jupe flammée
+
+[program.1074616]
+Jadis un habit de marin, paraît-il.
+Bref, un uniforme à col marin.
+
+[program.1074672]
+Marinière
+
+[program.1074688]
+Rouge, en principe ?
+On baigne dans 4 000 ans d’histoire.
+
+[program.1074728]
+Robe chinoise
+
+[program.1074744]
+Blanche, en principe ?
+On se sent une âme de mariée.
+
+[program.1074776]
+Robe de mariée
+
+[program.1074800]
+Robe noire.
+On se sent une âme de sorcière.
+
+[program.1074832]
+Robe de sorcière
+
+[program.1074848]
+Habit de protection en tissu fleuri.
+Parfum de pays lointains.
+
+[program.1074888]
+Sarasa
+
+[program.1074896]
+Tenue d’une pièce, près du corps.
+Elle met en valeur la beauté féminine.
+
+[program.1074968]
+Body
+
+[program.1074984]
+Tenue d’apparat pour les soirées.
+On se sent une vraie dame.
+
+[program.1075024]
+Robe de cocktail
+
+[program.1075040]
+Se noue à la taille comme une jupe.
+Costume des îles des mers du Sud.
+
+[program.1075104]
+Paréo
+
+[program.1075112]
+Vêtement tricoté d’une laine spéciale.
+Douillet et chaud.
+
+[program.1075168]
+Tricot
+
+[program.1075184]
+Tenue d’apparat toute fine.
+Incroyable, mais faite pour le combat.
+
+[program.1075232]
+Robe fourreau
+
+[program.1075248]
+Habit de protection en résille.
+Un soutien solide pour les guerrières !
+
+[program.1075296]
+Armure en résille
+
+[program.1075320]
+Jupe de dame taillée en pantalon.
+L’aisance avant tout !
+
+[program.1075368]
+Jupe-culotte
+
+[program.1075384]
+Tenue d’apparat ornée.
+L’allure avant tout !
+
+[program.1075424]
+Robe fantaisie
+
+[program.1075448]
+Habit de protection matelassé.
+Fait pour tenir au combat.
+
+[program.1075496]
+Gambison
+
+[program.1075512]
+Vêtement taillé dans un beau tissu.
+Très résistant.
+
+[program.1075560]
+Tunique
+
+[program.1075576]
+Bref, une tenue de soubrette.
+Plus pratique qu’elle n’en a l’air.
+
+[program.1075632]
+Robe à tablier
+
+[program.1075648]
+L’habit de ceux qui sont dans les
+ordres. C’est l’intention qui compte.
+
+[program.1075704]
+Robe de clerc
+
+[program.1075712]
+Vêtement très répandu.
+Hélas, pas fait pour le combat.
+
+[program.1075776]
+Pèlerine
+
+[program.1075792]
+Armure chère aux chevaliers en guerre
+sainte. La foi la protège.
+
+[program.1075856]
+Dernier croisé
+
+[program.1075880]
+À Gilgamesh, le preux de la
+légende d’Ishtar.
+
+[program.1075928]
+Armure d’or
+
+[program.1075952]
+Armure où loge l’âme d’un dieu d’un
+pays lointain. Esquive sans y penser.
+
+[program.1076008]
+Esprit d’Amaterasu
+
+[program.1076032]
+Armure sous la garde de Martel, déesse
+mère. Une aura sacrée l’enveloppe.
+
+[program.1076096]
+Mumbane
+
+[program.1076112]
+Ceinture dont la magie double la
+force. Elle serait au dieu du tonnerre.
+
+[program.1076168]
+Megingjord
+
+[program.1076184]
+Armure qui renvoie les attaques.
+Science de la guerre Ciel-Terre.
+
+[program.1076232]
+Reflet
+
+[program.1076248]
+Tenue de combat au blindage solide.
+En fait, le prototype de quelqu’un ?
+
+[program.1076296]
+Tenue de combat
+
+[program.1076312]
+Porte le nom du dieu gardien des
+soldats. On en revient toujours vivant.
+
+[program.1076376]
+Schlachtfeld
+
+[program.1076400]
+Œuvre sans égale d’un forgeron inconnu.
+Certains y voient la main des nains.
+
+[program.1076464]
+Chef-d’œuvre
+
+[program.1076480]
+Armure de légende, du nom
+de frères conteurs.
+
+[program.1076552]
+Plates Grimm
+
+[program.1076568]
+Armure robuste qu’on dit forteresse.
+Un vrai rempart de fer, on le sent.
+
+[program.1076624]
+Forteresse
+
+[program.1076640]
+Armure protégée jusqu’aux jointures.
+Dure, solide... mais lourde...
+
+[program.1076704]
+Harnois
+
+[program.1076720]
+Armure sobre et gracieuse.
+Une défense massive, on le sent.
+
+[program.1076768]
+Plates gothiques
+
+[program.1076792]
+Cotte de mailles d’un fil de métal
+spécial. Un certain hobbit en portait.
+
+[program.1076864]
+Haubert
+
+[program.1076880]
+Armure de majesté.
+Elle irait bien au Roi-Héros.
+
+[program.1076920]
+Grandes plates
+
+[program.1076944]
+Armure qui cuirasse tout le corps.
+Qui dit armure pense à celle-ci !
+
+[program.1076992]
+Armure de plates
+
+[program.1077008]
+Armure faite de plaques d’acier.
+Plutôt légère, pour des plates.
+
+[program.1077056]
+Plates de campagne
+
+[program.1077080]
+Armure qui cuirasse le haut du corps.
+Plutôt bon marché, pour des plates.
+
+[program.1077136]
+Plastron
+
+[program.1077160]
+Cotte de mailles renforcée de plaques.
+La meilleure des armures légères.
+
+[program.1077224]
+Armure à éclisses
+
+[program.1077248]
+Lamellaire aux plaques plus nombreuses.
+Elle protège vraiment bien.
+
+[program.1077312]
+Brigandine
+
+[program.1077328]
+Armure cousue de fil d’acier.
+Chérie de bien des guerriers.
+
+[program.1077376]
+Cotte de mailles
+
+[program.1077392]
+Armure de cuir renforcée de plaques.
+Une armure plutôt sérieuse.
+
+[program.1077432]
+Lamellaire
+
+[program.1077448]
+Armure de plaques cousues en écailles.
+Le minimum pour aller se battre.
+
+[program.1077512]
+Cotte d’écailles
+
+[program.1077528]
+Armure d’anneaux de métal cousus.
+Bon rapport qualité-prix.
+
+[program.1077584]
+Cotte annelée
+
+[program.1077600]
+Armure de cuir.
+Le b.a.-ba de l’aventurier débutant ?
+
+[program.1077632]
+Armure de cuir
+
+[program.1077648]
+Arc sacré aux flèches de feu purifiant.
+Tire très vite.
+
+[program.1077688]
+Feu d’Éden
+
+[program.1077712]
+Une vie est comme l’éclat d’une étoile.
+Enfin, cet arc y veille.
+
+[program.1077784]
+Étoile céleste
+
+[program.1077808]
+Arc magique à la force ténébreuse.
+Dérobe des TP à l’ennemi.
+
+[program.1077848]
+Vol d’âme
+
+[program.1077872]
+Quand cet arc crache le feu, la terre
+devient une lande calcinée.
+
+[program.1077920]
+Feu grégeois
+
+[program.1077944]
+Arc chasse-démons dont un héros de
+l’est aurait usé contre des monstres.
+
+[program.1077992]
+Arc exorciste
+
+[program.1078008]
+Sa puissance est aussi terrible que
+le souffle d’un dragon de feu.
+
+[program.1078056]
+Souffle de salamandre
+
+[program.1078080]
+Arc sacré fait d’une serre de bête
+ailée. Ses flèches suivent la cible.
+
+[program.1078136]
+Serre de griffon
+
+[program.1078160]
+Arc de légende, dit le Vent divin.
+Un joyau de la guerre Ciel-Terre.
+
+[program.1078208]
+Force du vent
+
+[program.1078232]
+Arc puissant du nom du vent du nord.
+Ses flèches sont fulgurantes.
+
+[program.1078272]
+Borée
+
+[program.1078288]
+Arc long du nom d’un grand aigle de
+légende. Son attaque est très élevée.
+
+[program.1078344]
+Aigle d’assaut
+
+[program.1078368]
+Surnommé l’onde de choc,
+il tire des flèches supersoniques.
+
+[program.1078408]
+Onde de choc
+
+[program.1078432]
+Ses flèches volent en traînées aux
+sept couleurs. Pas qu’après la pluie.
+
+[program.1078496]
+Arc-en-ciel
+
+[program.1078512]
+Arc qui tue de ses flèches à poison.
+Bien des guerriers en sont morts net.
+
+[program.1078568]
+Aiguille écarlate
+
+[program.1078592]
+Arc fameux de H. Focke, qu’aurait
+chéri le grand tireur G. Wulf.
+
+[program.1078656]
+Focke-Wulf
+
+[program.1078672]
+Arc magique qui tire le feu des enfers.
+L’armure d’acier fond sans peine.
+
+[program.1078720]
+Feu d’enfer
+
+[program.1078736]
+Arc de légende, du nom
+de frères conteurs.
+
+[program.1078808]
+Arc Grimm
+
+[program.1078824]
+Arc long perce-armure.
+Il coulerait un navire de guerre.
+
+[program.1078864]
+Torpille
+
+[program.1078880]
+Arc long sobre et gracieux.
+Un bel arc affiné au combat.
+
+[program.1078928]
+Arc gothique
+
+[program.1078944]
+Arc court en tir automatique.
+Ce qu’il avale comme flèches...
+
+[program.1078984]
+Rafale
+
+[program.1079000]
+Arc court au tir rapide.
+Pour dégainer vite, c’est lui !
+
+[program.1079040]
+Arc rapide
+
+[program.1079056]
+Arc de siège pour la guerre.
+Perce même les portes de château.
+
+[program.1079096]
+Arc de siège
+
+[program.1079112]
+Dotation de la garde royale de
+Phandaria. Ses tireurs : grenadiers.
+
+[program.1079184]
+Grenade
+
+[program.1079200]
+Arc puissant fait pour la guerre.
+Surtout utilisé par les gardes royaux.
+
+[program.1079256]
+Arc de guerre
+
+[program.1079272]
+Arc long à lunette.
+Permet un tir précis.
+
+[program.1079312]
+Fusil
+
+[program.1079328]
+Arc court de combat, bien pratique.
+Équipement courant des francs-tireurs.
+
+[program.1079384]
+Arc de combat
+
+[program.1079400]
+Arc composite pour flèches lourdes.
+Perce même les blindages épais.
+
+[program.1079456]
+Balle
+
+[program.1079472]
+Arc à l’élasticité renforcée.
+Il porte plus loin.
+
+[program.1079512]
+Arc composite
+
+[program.1079536]
+Arc pour la chasse.
+Assez fort pour son petit prix.
+
+[program.1079576]
+Arc de chasse
+
+[program.1079592]
+Le marteau de Thor.
+On dit qu’il ne manque jamais.
+
+[program.1079632]
+Mjollnir
+
+[program.1079648]
+Lance du dieu suprême des mythes du
+nord. Très célèbre, mais...
+
+[program.1079696]
+Gungnir
+
+[program.1079712]
+Le type louche tout vert.
+Un type vraiment très louche.
+
+[program.1079752]
+Lance de Sandra
+
+[program.1079768]
+Hache de guerre du nom du vent du sud
+
+
+[program.1079792]
+Notos
+
+[program.1079800]
+Lance magique faite par une sorcière
+avec la dépouille d’une bête marine.
+
+[program.1079856]
+Gae Bolg
+
+[program.1079872]
+Lance de légende au coup funeste
+
+
+[program.1079912]
+Longinus
+
+[program.1079928]
+Arme d’hast redoutée, dite croc du
+diable. Réservée aux ennemis de Dieu.
+
+[program.1079992]
+Croc diabolique
+
+[program.1080016]
+Immense hache de guerre.
+Dite larme du dragon ancien.
+
+[program.1080048]
+Larme de Bahamut
+
+[program.1080072]
+Longue lance de feu née du magma.
+Sa pointe brûle d’un feu ardent.
+
+[program.1080128]
+Ignis
+
+[program.1080144]
+Hache du pourfendeur. Un joyau du jour
+où les barbares furent repoussés.
+
+[program.1080192]
+Hache pourfendeuse
+
+[program.1080216]
+Hache des forges du Troisième Empire.
+Sa science est la première au monde !
+
+[program.1080272]
+Messerschmitt
+
+[program.1080296]
+Hallebarde du chevalier dit Tristesse.
+Elle porte le nom d’une dame.
+
+[program.1080360]
+Iseut
+
+[program.1080376]
+La hallebarde du dieu du vent.
+Ses estocs sont fulgurants.
+
+[program.1080408]
+Arc Wind
+
+[program.1080424]
+Hache de guerre du nom de l’ours gris
+féroce des mythes.
+
+[program.1080472]
+Grizzly
+
+[program.1080488]
+L’immense hache du monstre mi-taureau.
+Sa taille écrase qui la regarde.
+
+[program.1080552]
+Minotaure
+
+[program.1080568]
+Marteau à enfoncer les pieux.
+Un coup, et... on en meurt !
+
+[program.1080608]
+Marteau-pilon
+
+[program.1080632]
+Hache à deux fers interchangeables
+
+
+[program.1080664]
+Double lame
+
+[program.1080680]
+Hache de guerre qui trouve sa cible.
+Pulvérise l’ennemi.
+
+[program.1080720]
+Tomahawk
+
+[program.1080736]
+On frotte fort et tout devient propre.
+Un héros d’antan s’en serait servi.
+
+[program.1080792]
+Balai-brosse
+
+[program.1080808]
+Hache de légende, du nom
+de frères conteurs.
+
+[program.1080880]
+Hache Grimm
+
+[program.1080896]
+Abréviation d’« extra pression ».
+Un poids qu’un humain ne peut plus...
+
+[program.1080960]
+Express
+
+[program.1080976]
+Hache de guerre à lame immense.
+Née du couperet de boucher.
+
+[program.1081016]
+Couperet
+
+[program.1081032]
+Hache à l’immense lame en croissant
+
+
+[program.1081064]
+Croissant
+
+[program.1081080]
+Hache de guerre au fer en demi-lune
+
+
+[program.1081112]
+Tabar
+
+[program.1081128]
+Hache de guerre sobre et gracieuse.
+Elle fendrait même un blindage épais.
+
+[program.1081184]
+Hache gothique
+
+[program.1081200]
+Marteau alourdi pour frapper plus fort.
+Un coup, et ça fait violemment mal.
+
+[program.1081256]
+Cogneur
+
+[program.1081272]
+Lance à trois pointes.
+Celle du dieu marin, dit-on.
+
+[program.1081304]
+Trident
+
+[program.1081320]
+Lance et hache de guerre à la fois.
+L’arme principale de la garde royale.
+
+[program.1081376]
+Hallebarde
+
+[program.1081392]
+Marteau géant pour les sièges
+
+
+[program.1081416]
+Marteau de guerre
+
+[program.1081432]
+Hache de guerre.
+C’est dit dans le nom.
+
+[program.1081456]
+Hache de guerre
+
+[program.1081472]
+Lance à ailerons.
+Courante mais bonne.
+
+[program.1081512]
+Corsèque
+
+[program.1081528]
+Hache au large fer caractéristique
+
+
+[program.1081552]
+Doloire
+
+[program.1081568]
+Hache de guerre légère et maniable
+
+
+[program.1081592]
+Chakmak
+
+[program.1081608]
+Lance aux allures de hache
+
+
+[program.1081632]
+Guisarme
+
+[program.1081648]
+Hache à long manche.
+Le nom dit tout.
+
+[program.1081672]
+Hache d’hast
+
+[program.1081688]
+Aussi appelé bâton à volonté.
+Il obéit à la volonté du porteur.
+
+[program.1081744]
+Bâton de Hanuman
+
+[program.1081768]
+Bâton de cristal bleu.
+Relique de la légende de Druaga.
+
+[program.1081800]
+Bâton de cristal bleu
+
+[program.1081824]
+Bâton du serpent qui se dévore.
+Quel pouvoir vaut un tel sacrifice ?
+
+[program.1081880]
+Ouroboros
+
+[program.1081896]
+Bâton réservé aux génies, na !
+Dixit {NAME:06 00 00 00}.
+
+[program.1081928]
+Bâton du génie {NAME:06 00 00 00}
+
+[program.1081944]
+Bâton où s’enroulent deux serpents.
+Il a un effet de poison.
+
+[program.1081992]
+Caducée
+
+[program.1082008]
+Sceptre du nom du vent d’est. Le vent
+divin qui sauva un pays est célèbre.
+
+[program.1082056]
+Euros
+
+[program.1082072]
+Donne à son porteur le savoir obscur.
+Un héritage des elfes noirs.
+
+[program.1082128]
+Savoir obscur
+
+[program.1082144]
+La corne d’une bête sacrée.
+Elle rend des HP.
+
+[program.1082176]
+Corne de licorne
+
+[program.1082200]
+L’œuvre ratée d’un certain maître.
+Force féroce, précision exécrable.
+
+[program.1082272]
+Baguette brise-âme
+
+[program.1082296]
+La masse de cérémonie d’un suzerain.
+Un coup, et ça fait très, très mal.
+
+[program.1082336]
+Suzerain
+
+[program.1082352]
+Insigne du plus haut juge.
+Il scelle le sort de l’ennemi.
+
+[program.1082400]
+Merkmal
+
+[program.1082416]
+Insigne de lamentation.
+On se sent tout triste, allez savoir.
+
+[program.1082456]
+Cri de l’âme
+
+[program.1082472]
+La main droite du cordon-bleu.
+Pour cuire steaks hachés et autres.
+
+[program.1082512]
+Poêle d’or
+
+[program.1082528]
+Le bâton d’un chef barbare.
+Un coup, et ça fait atrocement mal.
+
+[program.1082576]
+Chef de clan
+
+[program.1082592]
+Sceptre tisseur de rêves.
+Un coup, et on voit des étoiles♪
+
+[program.1082624]
+Sceptre des songes
+
+[program.1082648]
+Bâton de majorette.
+Et ça tourne, tourne, tou~rne♪
+
+[program.1082688]
+Bâton de twirling
+
+[program.1082712]
+Baguette de jolie fille insouciante.
+Ça s’arrangera bien♪
+
+[program.1082760]
+Que sera sera
+
+[program.1082776]
+La main gauche du cordon-bleu.
+Pour remuer les ragoûts et le reste.
+
+[program.1082824]
+Louche d’argent
+
+[program.1082840]
+Bref, une sucette géante.
+Trop su~crée♪
+
+[program.1082888]
+Sucette
+
+[program.1082904]
+Sceptre qui enrichit le cœur.
+Le pouvoir d’une fée l’habite.
+
+[program.1082960]
+Sceptre lyrique
+
+[program.1082984]
+Baguette de légende, du nom
+de frères conteurs.
+
+[program.1083056]
+Baguette Grimm
+
+[program.1083072]
+Bâton apaisant taillé dans un bois
+odorant. Son parfum calme le cœur.
+
+[program.1083128]
+Bourdon de cèdre
+
+[program.1083152]
+Masse de cérémonie en malachite.
+Elle recèle une force étrange.
+
+[program.1083200]
+Masse de malachite
+
+[program.1083224]
+Bâton béni.
+Il recèle une force sacrée.
+
+[program.1083264]
+Bâton divin
+
+[program.1083288]
+Sceptre de majesté.
+L’un des Quatre Héros s’en servait ?
+
+[program.1083328]
+Grand sceptre
+
+[program.1083352]
+L’insigne d’un souverain
+
+
+[program.1083368]
+Baguette dominatrice
+
+[program.1083392]
+Long bâton noueux.
+On se sent l’âme d’un berger.
+
+[program.1083432]
+Bourdon noueux
+
+[program.1083456]
+Masse de cérémonie sobre et gracieuse.
+Un coup, et ça fait vraiment mal.
+
+[program.1083504]
+Masse gothique
+
+[program.1083520]
+Bâton de frénésie.
+On l’agite, et le moral grimpe.
+
+[program.1083552]
+Bâton de frénésie
+
+[program.1083576]
+Sceptre royal.
+Orné pour les cérémonies.
+
+[program.1083616]
+Sceptre
+
+[program.1083632]
+Insigne d’autorité.
+Il aiderait à se concentrer...
+
+[program.1083672]
+Baguette
+
+[program.1083680]
+Long bâton.
+Un compagnon pour un long voyage ?
+
+[program.1083712]
+Bourdon
+
+[program.1083728]
+Masse de cérémonie.
+Un coup, et ça fait plutôt mal.
+
+[program.1083760]
+Masse
+
+[program.1083768]
+Bâton banal, ordinaire, quelconque.
+On se sent quand même un peu magicien.
+
+[program.1083832]
+Bâton
+
+[program.1083840]
+Épée longue à la lumière sans tache.
+Un emblème de vierge y est gravé.
+
+[program.1083888]
+Pur éclat
+
+[program.1083904]
+Épée qui causerait la fin du monde.
+Perdue à la guerre des dieux, mais...
+
+[program.1083968]
+Laevateinn
+
+[program.1083992]
+Épée magique qui appelle la tempête.
+L’épée d’un héros élu.
+
+[program.1084032]
+Stormbringer
+
+[program.1084056]
+Épée qui marquerait un empereur.
+L’un des trois trésors sacrés.
+
+[program.1084096]
+Ama no Murakumo
+
+[program.1084112]
+L’épée des rois, remise au héros que
+reconnaît la fée du lac.
+
+[program.1084160]
+Excalibur
+
+[program.1084176]
+Que trouve-t-on tout au bout
+de la voie de l’épée ?
+
+[program.1084216]
+Dernier bretteur
+
+[program.1084240]
+Épée fameuse qu’aurait portée un
+chevalier de la Table ronde.
+
+[program.1084280]
+Galatine
+
+[program.1084296]
+Sainte épée de loyauté, chère à un
+chevalier du Roi-Héros.
+
+[program.1084336]
+Arondight
+
+[program.1084352]
+Épée fameuse qui porte le nom de la
+miséricorde. Un ange y est gravé.
+
+[program.1084400]
+Durandal
+
+[program.1084416]
+Lame forgée au pays du Soleil levant.
+Elle laisse un sillage d’éclair.
+
+[program.1084464]
+Shiden
+
+[program.1084472]
+Épée d’un héros du nord, liée à la
+légende de l’iceberg fendu en deux.
+
+
+[program.1084528]
+Iceberg
+
+[program.1084544]
+Épée magique forgée par des fées.
+On dit qu’elle choisit son porteur.
+
+[program.1084600]
+Caladbolg
+
+[program.1084616]
+Épée du preux qui tua le dragon. Fend
+des écailles plus dures que l’acier.
+
+[program.1084688]
+Balmung
+
+[program.1084704]
+Lame de ninja, redoutée comme le croc
+des ténèbres. Abat sans un bruit.
+
+[program.1084752]
+Croc de l’ombre
+
+[program.1084776]
+Des runes de victoire ornent sa lame
+
+
+[program.1084808]
+Lame runique
+
+[program.1084824]
+Épée de ruine née de la science de
+la guerre du Ciel et de la Terre
+
+
+[program.1084872]
+Destructrice
+
+[program.1084888]
+Épée enterrée dans un cercueil de
+glace. Lame de glace éternelle.
+
+[program.1084928]
+Cercueil de glace
+
+[program.1084944]
+Épée taillée dans le diamant.
+Un dieu gardien des portes y logerait.
+
+[program.1085000]
+Fil de diamant
+
+[program.1085024]
+Épée capable de fendre le roc.
+Sa lame fut taillée dans le cristal.
+
+[program.1085080]
+Hauteclaire
+
+[program.1085096]
+Épée acérée née d’un croc de dragon.
+On dit qu’elle perce toute armure.
+
+[program.1085152]
+Dent de dragon
+
+[program.1085176]
+L’épée longue qui porte le dernier
+coup. Elle a vaincu l’ogre de Bemble.
+
+[program.1085232]
+Coup de grâce
+
+[program.1085248]
+Épée de légende forgée à la création
+du monde. Elle a la force de la terre.
+
+[program.1085312]
+Lien de la terre
+
+[program.1085328]
+Son nom signifie espoir dans la
+langue d’un vieux royaume de l’ouest.
+
+[program.1085368]
+Esperancer
+
+[program.1085384]
+Épée droite à la lame glaçante.
+Épée magique de neige et de glace.
+
+[program.1085416]
+Arme vorpale
+
+[program.1085440]
+Du nom du vent d’ouest.
+Un faucon y est gravé.
+
+[program.1085488]
+Zéphyr
+
+[program.1085504]
+Taillée dans la griffe du dragon
+qu’un preux terrassa, dit-on.
+
+[program.1085552]
+Fafnir
+
+[program.1085568]
+Épée longue à lame ondulée.
+Épée magique de flammes.
+
+[program.1085600]
+Flamberge
+
+[program.1085616]
+Épée d’honneur jadis réservée, dit-on,
+aux seuls paladins.
+
+[program.1085664]
+Fame Face
+
+[program.1085688]
+Lame qui fend le vent.
+Sa taille soulève un tourbillon.
+
+[program.1085728]
+Cisaille-vent
+
+[program.1085744]
+Son nom : grand fondateur.
+Forgée par un maître célèbre.
+
+[program.1085784]
+Grandfather
+
+[program.1085808]
+Épée longue de légende, du nom
+de frères conteurs.
+
+[program.1085880]
+Épée Grimm
+
+[program.1085896]
+Épée droite à lame massive, en usage
+chez les peuples des hautes terres.
+
+[program.1085944]
+Claymore
+
+[program.1085960]
+Grande épée courbe.
+Son nom signifie queue de lion.
+
+[program.1086008]
+Shamshir
+
+[program.1086024]
+Sabre à la puissance renforcée.
+Il porte le nom de son inventeur.
+
+[program.1086080]
+Sinclair
+
+[program.1086096]
+Épée à lame courbe comme une
+faucille. Extrêmement meurtrière.
+
+[program.1086152]
+Falx
+
+[program.1086168]
+Épée longue, sobre et gracieuse.
+D’une grande valeur artistique aussi.
+
+[program.1086216]
+Épée gothique
+
+[program.1086232]
+Lame épaisse dite en croissant de lune.
+Elle a comme un air exotique.
+
+[program.1086296]
+Fauchon
+
+[program.1086312]
+Excellente épée de charge.
+Petite d’aspect, mais puissante.
+
+[program.1086360]
+Baselard
+
+[program.1086376]
+Lame courbe, le célèbre sabre en
+croissant. Parfum de pays lointains.
+
+[program.1086424]
+Cimeterre
+
+[program.1086440]
+Épée longue et courbe.
+Appréciée des marins.
+
+[program.1086472]
+Coutelas
+
+[program.1086488]
+Épée droite faite pour tailler.
+L’arme de base de la cavalerie.
+
+[program.1086536]
+Sabre
+
+[program.1086552]
+Épée large faite pour la guerre.
+Son attaque est élevée.
+
+[program.1086592]
+Épée large
+
+[program.1086608]
+Épée longue au fil acéré.
+Bien équilibrée.
+
+[program.1086640]
+Lame
+
+[program.1086656]
+Épée de combat en formation.
+Affinée par bien des améliorations.
+
+[program.1086712]
+Glaive
+
+[program.1086728]
+Épée longue et fine.
+Élégante, mais difficile à manier.
+
+[program.1086768]
+Rapière
+
+[program.1086784]
+Épée longue et puissante. Qui la
+manie à sa guise est un bretteur.
+
+[program.1086832]
+Épée longue
+
+[program.1086848]
+Couteau fait pour la viande.
+Maîtrise globale +5 à l’usage.
+
+[program.1086904]
+Couteau de chef
+
+[program.1086920]
+Couteau fait pour les légumes.
+Maîtrise globale +5 à l’usage.
+
+[program.1086976]
+Couteau nakiri
+
+[program.1086992]
+Couteau fait pour tous les ingrédients.
+Maîtrise globale +7 à l’usage.
+
+[program.1087048]
+Couteau santoku
+
+[program.1087064]
+Couteau fait pour le poisson.
+Maîtrise globale +5 à l’usage.
+
+[program.1087120]
+Couteau yanagiba
+
+[program.1087136]
+Poêle qui conduit bien la chaleur.
+Maîtrise globale +7 à l’usage.
+
+[program.1087184]
+Poêle en cuivre
+
+[program.1087200]
+Poêle coûteuse, excellente conductrice.
+Maîtrise globale +4 à l’usage.
+
+[program.1087256]
+Poêle en titane
+
+[program.1087280]
+Poêle qui chauffe de façon inégale.
+Maîtrise globale +1 à l’usage.
+
+[program.1087336]
+Poêle en inox
+
+[program.1087360]
+Poêle solide qui garde la chaleur.
+Maîtrise globale +3 à l’usage.
+
+[program.1087416]
+Poêle en fer
+
+[program.1087432]
+Marmite qui conduit bien la chaleur.
+Maîtrise globale +7 à l’usage.
+
+[program.1087480]
+Marmite en cuivre
+
+[program.1087488]
+La marmite qu’exigent les potées.
+Maîtrise globale +4 à l’usage.
+
+[program.1087544]
+Marmite en terre
+
+[program.1087552]
+Marmite solide qui garde la chaleur.
+Maîtrise globale +3 à l’usage.
+
+[program.1087600]
+Marmite en fer
+
+[program.1087608]
+Marmite bon marché, garde bien chaud.
+Maîtrise globale +1 à l’usage.
+
+[program.1087656]
+Marmite émaillée
+
+[program.1087672]
+Bloc de matière grasse du lait.
+À tartiner en couche épaisse.
+
+[program.1087720]
+Beurre
+
+[program.1087728]
+Aliment de conserve à base de soja.
+Se mange le plus souvent en soupe.
+
+[program.1087776]
+Miso
+
+[program.1087784]
+Farine de blé pétrie puis cuite.
+Toujours tout chaud, allez savoir.
+
+[program.1087840]
+Pain
+
+[program.1087856]
+Farine pétrie à l’eau ou à l’œuf.
+Il en existe de toutes les formes.
+
+[program.1087904]
+Pâtes
+
+[program.1087912]
+Aliment blanc et tendre, à base de
+soja. Son nom s’écrit « fève pourrie ».
+
+[program.1087960]
+Tofu
+
+[program.1087968]
+Aliment riche en protéines, présent
+dans bien des plats. Fils de la poule.
+
+[program.1088016]
+Œuf
+
+[program.1088024]
+Céréale qu’on mange cuite. Pensez à
+toutes les peines du paysan.
+
+[program.1088080]
+Riz
+
+[program.1088088]
+Le lait de la vache.
+Une boisson blanche et nourrissante.
+
+[program.1088128]
+Lait
+
+[program.1088136]
+Du lait fermenté.
+Il nettoie l’estomac et les intestins.
+
+[program.1088184]
+Yaourt
+
+[program.1088200]
+Du lait affiné.
+Nourrissant et bon pour la santé.
+
+[program.1088248]
+Fromage
+
+[program.1088256]
+Fruit rouge et rond, aigre-doux.
+En tarte aux pommes, peut-être ?
+
+[program.1088312]
+Pomme
+
+[program.1088320]
+Longue, épaisse et courbe.
+On ôte la peau jaune et on mange.
+
+[program.1088368]
+Banane
+
+[program.1088376]
+Fruit jaune, acidulé et parfumé.
+Plein de vitamine C.
+
+[program.1088432]
+Citron
+
+[program.1088440]
+À point quand le petit fruit rougit.
+Délicieuse aussi en confiture.
+
+[program.1088496]
+Fraise
+
+[program.1088504]
+Étrange fruit brun et poilu.
+Il tiendrait son nom d’un oiseau.
+
+[program.1088568]
+Kiwi
+
+[program.1088576]
+Se mange cru ou en saumure. Son odeur
+de courge en rebute plus d’un ?
+
+[program.1088640]
+Concombre
+
+[program.1088656]
+La reine des salades.
+Son croquant est un plaisir.
+
+[program.1088704]
+Laitue
+
+[program.1088712]
+Se mange crue ou se boit en jus.
+Riche en lycopène.
+
+[program.1088760]
+Tomate
+
+[program.1088768]
+Légume-racine blanc, long et épais.
+Délicieux mijoté.
+
+[program.1088816]
+Radis blanc
+
+[program.1088832]
+Étrange légume aux feuilles en boule.
+Émincé et cru, c’est parfait.
+
+[program.1088888]
+Chou
+
+[program.1088904]
+Odeur à nulle autre pareille.
+On le coupe, et les larmes...
+
+[program.1088952]
+Oignon
+
+[program.1088968]
+Riche en carotène, adorée des lapins.
+En langue étrangère : « carrot ».
+
+[program.1089032]
+Carotte
+
+[program.1089048]
+Se mange bouillie, rôtie ou frite.
+Riche en amidon.
+
+[program.1089104]
+Pomme de terre
+
+[program.1089120]
+Poisson de luxe, délicieux.
+On en fait de la gelée.
+
+[program.1089152]
+Thon
+
+[program.1089160]
+Poisson des jours de fête : on l’adore.
+Et ce n’est pas un jeu de mots !
+
+[program.1089208]
+Daurade
+
+[program.1089216]
+Poisson qui remonte de la mer à la
+rivière en automne. Régal des ours.
+
+[program.1089272]
+Saumon
+
+[program.1089280]
+Poisson bon marché.
+Parfois séché en brochette.
+
+[program.1089320]
+Sardine
+
+[program.1089328]
+Fruit de mer qu’on mange frit, etc.
+Sert aussi à pêcher la daurade ?
+
+[program.1089384]
+Crevette
+
+[program.1089392]
+Créature marine à huit pattes. Parfois,
+elle attaque au fond d’un puits.
+
+[program.1089440]
+Poulpe
+
+[program.1089448]
+Créature marine à dix pattes.
+Parfois séchée pour être mangée.
+
+[program.1089496]
+Calmar
+
+[program.1089504]
+Du persillé.
+La meilleure des viandes persillées.
+
+[program.1089536]
+Viande persillée
+
+[program.1089552]
+Viande bon marché.
+Pas mauvaise pour autant.
+
+[program.1089584]
+Viande nerveuse
+
+[program.1089600]
+Carte de collection. S’échange quelque
+part contre un objet à emplacement.
+
+[program.1089656]
+Carte de collection
+
+[program.1089664]
+L’instrument de Johnny
+
+
+[program.1089680]
+Instrument de Johnny
+
+[program.1089696]
+Voici la Graine d’or ! Une goutte
+d’eau, et elle nourrit cent personnes.
+
+[program.1089752]
+Graine d’or
+
+[program.1089768]
+Graine issue de sélection. Encore
+sélectionnée, elle donne...
+
+[program.1089816]
+Graine de charac
+
+[program.1089832]
+Graine issue de sélection. Encore
+sélectionnée : graine de charac.
+
+[program.1089896]
+Graine d’oriola
+
+[program.1089912]
+Graine issue de sélection. Encore
+sélectionnée : graine d’oriola.
+
+[program.1089976]
+Graine de penpen
+
+[program.1089992]
+Graine issue de sélection. Encore
+sélectionnée : graine de penpen.
+
+[program.1090056]
+Graine de dolgenia
+
+[program.1090072]
+Graine issue de sélection. Encore
+sélectionnée : graine de dolgenia.
+
+[program.1090136]
+Graine de ranakeal
+
+[program.1090152]
+Graine issue de sélection. Encore
+sélectionnée : graine de ranakeal.
+
+[program.1090216]
+Graine d’estema
+
+[program.1090232]
+La graine d’une plante commune.
+Largement cultivée.
+
+[program.1090272]
+Graine de pompom
+
+[program.1090288]
+Minerai inconnu au pouvoir immense.
+Pour armes et armures ; dur à forger.
+
+[program.1090352]
+Berselium
+
+[program.1090368]
+Corail noir
+
+[program.1090392]
+Perle noire
+
+[program.1090408]
+Gemme funeste qui attirerait le
+malheur. Dans un certain lieu... ?
+
+[program.1090464]
+Diamant noir
+
+[program.1090480]
+Outil de charpentier.
+Indispensable pour raboter le bois.
+
+[program.1090528]
+Rabot
+
+[program.1090536]
+Outil de charpentier.
+Indispensable pour couper le bois.
+
+[program.1090584]
+Scie
+
+[program.1090600]
+Outil de charpentier.
+Indispensable pour planter des clous.
+
+[program.1090648]
+Marteau
+
+[program.1090664]
+Outil pour creuser des puits
+
+
+[program.1090688]
+Pioche
+
+[program.1090704]
+Outil pour déblayer la neige
+
+
+[program.1090728]
+Pelle
+
+[program.1090744]
+Puce Gène
+
+[program.1090760]
+Puce Cell
+
+[program.1090776]
+Code qui ouvre les conteneurs.
+Il faut les trois sortes de puces.
+
+[program.1090848]
+Puce Bio
+
+[program.1090864]
+Clé du Dépôt de matériel.
+Ouvre toutes sortes de verrous.
+
+[program.1090904]
+Clé maîtresse
+
+[program.1090920]
+Jumelle de la Clé Bio. Un brusque
+écart de température la détruit.
+
+[program.1090968]
+Clé Cell
+
+[program.1090984]
+Jumelle de la Clé Cell. Un brusque
+écart de température la détruit.
+
+[program.1091032]
+Clé Bio
+
+[program.1091048]
+Scrute les alentours.
+Chaque usage coûte trois Lentilles.
+
+[program.1091104]
+Lunette du sorcier
+
+[program.1091128]
+Planté en terre, il devrait pousser
+
+
+[program.1091152]
+Jeune plant
+
+[program.1091160]
+Aussi appelé chat porte-bonheur.
+On dit qu’il attire la chance.
+
+[program.1091200]
+Maneki-neko
+
+[program.1091216]
+À mettre dans l’âtre pour faire du feu
+
+
+[program.1091256]
+Charbon
+
+[program.1091264]
+Morceau de l’emblème brisé en cinq
+
+
+[program.1091296]
+Fragment
+
+[program.1091304]
+Vieille corde de mille ans.
+Prête à rompre. Ça fait un peu peur.
+
+[program.1091352]
+Corde
+
+[program.1091360]
+Un tampon à collecter par ligne
+maritime. Tous réunis : un prix.
+
+[program.1091416]
+Carte à tampons
+
+[program.1091432]
+{05:40 01 00 00}{09:2C 00 00 00}{05:80 00 00 00} {05:00 01 00 00}tire un rayon ardent.
+Chaque tir coûte une Lentille.
+
+[program.1091504]
+Anneau du sorcier
+
+[program.1091528]
+Le livre indispensable aux amateurs
+de quiz. Saurez-vous tout résoudre ?
+
+[program.1091584]
+Livre de quiz
+
+[program.1091600]
+Étrange carte du monde.
+Elle renseigne sur chaque région.
+
+[program.1091656]
+Carte du monde
+
+[program.1091672]
+Le catalogue indispensable aux
+collectionneurs. Rien d’oublié ?
+
+[program.1091736]
+Livre du collectionneur
+
+[program.1091752]
+Recueil de l’aspect et des données des
+ennemis. Tâchez de le compléter !
+
+[program.1091808]
+Bestiaire
+
+[program.1091824]
+Rouge à lèvres étrange, à utiliser
+sans fin. Remise de ?0 % en boutique.
+
+[program.1091880]
+Rouge magique
+
+[program.1091904]
+Pari : nul ne sait ce qui en sort
+quand on soulève le couvercle.
+
+[program.1091960]
+Pot magique
+
+[program.1091976]
+Orbe magique pour régler
+la fréquence des rencontres.
+
+[program.1092016]
+Orbe d’éclaireur
+
+[program.1092032]
+Écaille d’un basilic, bête rare. Guérit
+tout sauf le K.-O., rend tous HP et TP.
+
+[program.1092112]
+Écaille de basilic
+
+[program.1092128]
+Fiole d’air maléfique.
+Augmente la fréquence des rencontres.
+
+[program.1092168]
+Fiole obscure
+
+[program.1092184]
+Fiole d’air sacré.
+Réduit la fréquence des rencontres.
+
+[program.1092224]
+Fiole sacrée
+
+[program.1092240]
+Herbe médicinale.
+Esquive +2.
+
+[program.1092272]
+Safran rouge
+
+[program.1092288]
+Herbe médicinale.
+Précision +2.
+
+[program.1092320]
+Romarin rouge
+
+[program.1092344]
+Herbe médicinale.
+Économie de TP +3.
+
+[program.1092376]
+Camomille rouge
+
+[program.1092400]
+Herbe médicinale.
+Défense +2.
+
+[program.1092432]
+Verveine rouge
+
+[program.1092456]
+Herbe médicinale.
+Attaque +2.
+
+[program.1092488]
+Lavande rouge
+
+[program.1092512]
+Herbe médicinale.
+HP max +6 %.
+
+[program.1092544]
+Sauge rouge
+
+[program.1092560]
+Herbe médicinale.
+Régén. de TP +3.
+
+[program.1092592]
+Sarriette rouge
+
+[program.1092608]
+Herbe médicinale.
+Esquive +1.
+
+[program.1092640]
+Safran
+
+[program.1092656]
+Herbe médicinale.
+Précision +1.
+
+[program.1092688]
+Romarin
+
+[program.1092704]
+Herbe médicinale.
+Économie de TP +2.
+
+[program.1092736]
+Camomille
+
+[program.1092752]
+Herbe médicinale.
+Défense +1.
+
+[program.1092784]
+Verveine
+
+[program.1092800]
+Herbe médicinale.
+Attaque +1.
+
+[program.1092832]
+Lavande
+
+[program.1092848]
+Herbe médicinale.
+HP max +3 %.
+
+[program.1092880]
+Sauge
+
+[program.1092888]
+Herbe médicinale.
+Régén. de TP +2.
+
+[program.1092920]
+Sarriette
+
+[program.1092936]
+Potion douteuse. Elle a le pouvoir
+de transformer les objets.
+
+[program.1092984]
+Fiole runique
+
+[program.1093000]
+Potion étrange : charme au maximum.
+Tout est à moitié prix en boutique.
+
+[program.1093056]
+Charme miracle
+
+[program.1093080]
+Potion étrange qui rend charmant.
+30 % de remise en boutique.
+
+[program.1093136]
+Fiole de charme
+
+[program.1093152]
+Divise par deux tous les dégâts en
+combat, amis et ennemis. À bien placer.
+
+[program.1093224]
+Division totale
+
+[program.1093248]
+Sablier étrange. Fige les ennemis
+un temps pendant le combat.
+
+[program.1093304]
+Sablier
+
+[program.1093320]
+Verre étrange. Montre les HP,
+les faiblesses, etc. d’un ennemi.
+
+[program.1093376]
+Besicles
+
+[program.1093392]
+Contre poison, faiblesse, paralysie,
+lenteur, gel. Baisse attaque/intellect.
+
+[program.1093456]
+Fiole de liqueur
+
+[program.1093480]
+Potion : un temps en combat, l’attaque
+monte et la régén. de SP baisse.
+
+[program.1093536]
+Fiole ardente
+
+[program.1093552]
+Gelée au bouillon de thon. En combat,
+l’arrière-goût rend des HP peu à peu.
+
+[program.1093624]
+Gelée de thon
+
+[program.1093640]
+Potion miraculeuse. Rend tous les HP
+et TP, et guérit aussi le K.-O.
+
+[program.1093688]
+Élixir
+
+[program.1093704]
+Remède universel. Guérit poison,
+faiblesse, paralysie, lenteur et gel.
+
+[program.1093768]
+Fiole de panacée
+
+[program.1093792]
+Eau vitale.
+Ranime un allié K.-O.
+
+[program.1093816]
+Fiole de vie
+
+[program.1093832]
+Remède en gelée.
+Rend 60 % des HP et TP max.
+
+[program.1093880]
+Gelée miracle
+
+[program.1093896]
+Remède en gelée.
+Rend 60 % des TP max.
+
+[program.1093936]
+Gelée d’ananas
+
+[program.1093952]
+Remède en gelée.
+Rend 60 % des HP max.
+
+[program.1093992]
+Gelée de citron
+
+[program.1094008]
+Remède en gelée.
+Rend 30 % des HP et TP max.
+
+[program.1094056]
+Gelée mixte
+
+[program.1094072]
+Remède en gelée.
+Rend 30 % des TP max.
+
+[program.1094112]
+Gelée d’orange
+
+[program.1094128]
+Remède en gelée.
+Rend 30 % des HP max.
+
+[program.1094168]
+Gelée de pomme
+
+[program.1094184]
+Description de l’objet
+
+[program.1094208]
+Bassinet
+
+[program.1094224]
+Heaume
+
+[program.1094232]
+Tenue
+
+[program.1094240]
+Costume
+
+[program.1094248]
+Robe
+
+[program.1094256]
+Résille
+
+[program.1094272]
+Matelassé
+
+[program.1094280]
+Plates
+
+[program.1094296]
+Plastron
+
+[program.1094312]
+Chaîne
+
+[program.1094328]
+Mailles
+
+[program.1094336]
+Cuir
+
+[program.1094344]
+Composite
+
+[program.1094360]
+Marteau
+
+[program.1094376]
+Hache
+
+[program.1094384]
+Talwar
+
+[program.1094400]
+Kriss
+
+[program.1094408]
+Épée
+
+[program.1094424]
+Un pilote cool, vraiment COOL !
+COOL FLYING !
+Yahou ! Bobsleigh ! (?)
+
+[program.1094520]
+Pilote cool
+
+[program.1094544]
+Pourquoi un jeu qui use les nerfs ?
+C’est un jeu, et on s’y use les nerfs ?
+Quel vilain nom. Roi à bout de nerfs.
+
+[program.1094672]
+Roi à bout de nerfs
+
+[program.1094688]
+Roi du jeu du loup, donc : Roi-Loup !
+{NAME:01 00 00 00} fuyait, pourtant : Roi-Loup !
+N’empêche, quel nom féroce ! Roi-Loup !
+
+[program.1094792]
+Roi-Loup
+
+[program.1094800]
+C’était donc toi...
+Toi, celui que je cherchais tant...
+Mon héros...
+
+[program.1094880]
+Héros de {NAME:02 00 00 00}
+
+[program.1094896]
+Pas tout à fait normal, hein...
+
+[program.1094928]
+Reine du sushi ultra géniale
+
+[program.1094952]
+Frangine née pour le sushi
+
+[program.1094976]
+Masque né pour le sushi
+
+[program.1094992]
+Artisan né pour le sushi
+
+[program.1095008]
+Fille née pour le sushi
+
+[program.1095024]
+Une vraie vocation !
+Pourquoi ne pas s’y vouer, plutôt que
+de se battre ?
+
+[program.1095072]
+Garçon né pour le sushi
+
+[program.1095088]
+Un service hors norme, mémoire de génie !
+Pour un génie, cette difficulté va de soi.
+
+[program.1095152]
+Serveuse géniale hors norme
+
+[program.1095176]
+Mémoire et pas légers ! {NAME:05 00 00 00} virevolte
+en salle, les clients sont charmés...
+
+[program.1095264]
+Serveuse adorable
+
+[program.1095288]
+Mémoire et pas légers ! {NAME:04 00 00 00} virevolte
+en salle, les clients sont charmés...
+
+[program.1095376]
+Grand serveur
+
+[program.1095400]
+Mémoire et pas légers ! {NAME:03 00 00 00} virevolte
+en salle, les clients sont charmés...
+
+[program.1095488]
+Serveur à succès
+
+[program.1095512]
+Mémoire et pas légers ! {NAME:02 00 00 00} virevolte
+en salle, les clients sont charmés...
+
+[program.1095600]
+Serveuse mignonne
+
+[program.1095624]
+Mémoire et pas légers ! {NAME:01 00 00 00} virevolte
+en salle, les clients sont charmés...
+
+[program.1095712]
+Meilleur serveur
+
+[program.1095736]
+Un service qui tue, mémoire de génie !
+Hé, tuer, ça ne va pas !
+
+[program.1095792]
+Serveuse géniale qui tue
+
+[program.1095816]
+Jolie serveuse
+
+[program.1095840]
+Serveur cool
+
+[program.1095864]
+Bon serveur
+
+[program.1095888]
+Serveuse souriante
+
+[program.1095912]
+Une mémoire hors pair !
+Un service rapide, des clients ravis !
+
+[program.1095968]
+Serveur sympa
+
+[program.1095992]
+Savoir, réflexes et chance du jour !
+Vraiment, Quiz {05:D0 00 00 00}Na{05:C0 00 00 00}ga{05:B0 00 00 00}shi{05:A0 00 00 00}ma...
+{05:00 01 00 00}pardon... Mister Quiz {NAME:01 00 00 00} !
+
+[program.1096104]
+Mister Quiz
+
+[program.1096120]
+Savoir, réflexes et chance du jour !
+Vraiment, le roi du quiz, {NAME:01 00 00 00} !
+
+[program.1096176]
+Roi du quiz
+
+[program.1096192]
+« Vole~ vole~☆ Fusée~e~♪ »
+Une oreille bien à elle, un chant bien
+à elle ! Les génies, c’est autre chose !
+
+[program.1096288]
+Brillante à l’oreille unique
+
+[program.1096312]
+Un HACKER incroyable !
+« Le noir de l’ennemi jaune » n’a
+rien à voir.
+
+[program.1096360]
+Super hacker
+
+[program.1096384]
+Le curry vous parle...
+C’est b-bon ! Trop bon !
+
+[program.1096440]
+Fan de curry mapo
+
+[program.1096464]
+Beaucoup de râteaux, c’est la preuve
+d’autant de tentatives.
+Restons positifs !
+
+[program.1096568]
+Râteau-Man
+
+[program.1096584]
+J’aime les caisses♪ Caissovski♪
+
+[program.1096616]
+Maître des conteneurs
+
+[program.1096640]
+Le champion des champions.
+Champ of champs.
+
+[program.1096704]
+Grand champion
+
+[program.1096728]
+Lui et moi : la force de l’amitié !
+Nos forces réunies : puissance cent !
+(Calcul étrange.)
+
+[program.1096808]
+Champion en duo
+
+[program.1096832]
+Victoire à l’arène !
+C’est vous, oui vous, le champion !
+
+[program.1096888]
+Champion
+
+[program.1096936]
+Great Golden Victory
+Super Special Raffineur !
+Le raffinage est votre raison de vivre !
+
+[program.1097048]
+Raffineur GGVSS
+
+[program.1097072]
+Que cherchez-vous donc à créer...
+À vous qui raffinez du matin au soir,
+nous offrons le titre d’alchimiste.
+
+[program.1097168]
+Alchimiste
+
+[program.1097184]
+Vous avez accumulé bien des raffinages.
+Vous voilà au niveau d’un artisan.
+
+[program.1097256]
+Artisan
+
+[program.1097272]
+Hi hi★
+Tu a-do-res le raffinage, hein★
+
+[program.1097320]
+Mordu de raffinage
+
+[program.1097344]
+L’argent ne fait pas tout en ce monde...
+La richesse du cœur, voilà l’important !
+
+[program.1097400]
+Pauvre mais honnête
+
+[program.1097416]
+Vous qui avez plus d’argent que vous
+n’en pouvez porter : l’argent, ça se
+dépense. Allez, lâchez-vous !
+
+[program.1097512]
+Gros richard
+
+[program.1097528]
+Titre libre donné à {NAME:06 00 00 00}.
+« Hmm~. Ton imagination s’arrête là ? »
+
+[program.1097600]
+Titre libre donné à {NAME:05 00 00 00}.
+« Moi, j’aimerais un nom mignon... »
+
+[program.1097672]
+Titre libre donné à {NAME:04 00 00 00}.
+« Appelle-moi comme tu veux... »
+
+[program.1097728]
+Titre libre donné à {NAME:03 00 00 00}.
+« Un qui me va bien, hein ! »
+
+[program.1097792]
+Titre libre donné à {NAME:02 00 00 00}.
+« Oui. D’accord... »
+
+[program.1097848]
+Titre libre donné à {NAME:01 00 00 00}.
+« Un truc classe, s’il te plaît ! »
+
+[program.1097904]
+On a beau savoir ce rôle très important,
+on ne tient pas forcément à l’avoir.
+Ah, pourquoi est-ce toujours moi qui...
+
+[program.1098024]
+Préposé aux objets
+
+[program.1098040]
+Vous avez surmonté tant d’épreuves sans
+jamais prendre de gelée en combat.
+Cela dit, manger en plein combat...
+
+[program.1098152]
+Fâché avec les gelées
+
+[program.1098168]
+Titre pour qui conclut un combat par une
+chaîne de 40 ou plus. À ce stade, c’est
+l’ennemi qui mérite un titre de pitié.
+
+[program.1098264]
+Maître des chaînes
+
+[program.1098288]
+Titre pour qui conclut un combat par une
+chaîne de 20 ou plus. Merci aux coups et,
+plus que tout, aux compagnons.
+
+[program.1098384]
+Chasseur de chaînes
+
+[program.1098408]
+À vous qui avez conquis un emplacement
+suprême de LV8, quasi chimérique tant il
+est rare : notre respect, sans flatterie !
+
+[program.1098528]
+Kaiser du rare
+
+[program.1098544]
+Titre pour un groupe à plus de 1 200
+rencontres. Les habitants espèrent juste
+que vous ne combattez pas pour combattre.
+
+[program.1098656]
+Effaceur
+
+[program.1098672]
+Titre pour un groupe à plus de 400
+rencontres. N’oubliez pas : pour chaque
+victoire, il existe aussi un vaincu.
+
+[program.1098784]
+Spiker
+
+[program.1098800]
+GRADE total au-delà de 6 400 : à qui se
+croirait le meilleur tacticien s’ouvre le
+dernier rang, « Unknown ». Abstenez-vous.
+
+[program.1098920]
+Dieu déchaîné
+
+[program.1098928]
+GRADE total de 1 600 : reconnu maître
+tacticien, vous pouvez choisir « Mania »
+pour des équipements plus rares encore !
+
+[program.1099048]
+Dieu du combat
+
+[program.1099056]
+GRADE total de 600 : reconnu tacticien
+aguerri, vous pouvez choisir « Hard »
+pour des armes et armures plus rares ?
+
+[program.1099176]
+Dieu de la guerre
+
+[program.1099184]
+La difficulté « Easy » est possible, mais
+les bons objets n’y tombent plus.
+Une fois à l’aise, préférez « Normal ».
+
+[program.1099304]
+Débutant autoproclamé
+
+[program.1099320]
+Titre pour qui franchit tous les murs et
+conclut un combat en 100 coups ou plus.
+Un festival de miracles né des chaînes.
+
+[program.1099416]
+Maître des combos
+
+[program.1099432]
+Titre pour qui conclut un combat en
+50 coups ou plus. S’en contenter,
+ou viser plus haut ?
+
+[program.1099520]
+Chasseur de combos
+
+[program.1099536]
+Titre offert à vous, bien seul, qui avez
+lancé un ordre à tout le monde sans
+personne. Attendez qu’ils soient là.
+
+[program.1099632]
+Larmes de solitude
+
+[program.1099648]
+Preuve d’un rêve : un combat conclu
+par une vraie chaîne solo de huit.
+Rêve grand comment ? Comme un dream.
+
+[program.1099728]
+Octo Slasher
+
+[program.1099752]
+Titre pour qui conclut un combat par une
+vraie chaîne solo de quatre : trois coups
+normaux puis un arte. Entre autres...
+
+[program.1099856]
+Tetra Slash
+
+[program.1099880]
+Le « domaine du non-esprit », où seul
+entre qui dépasse ses propres limites.
+Tout est néant, et tout est là.
+
+[program.1099976]
+Guerrier du zéro
+
+[program.1099992]
+Un guerrier sorti de 1 000 combats.
+« J’en ai pas fini !
+  Ooraaaaaaaaaaaaah !!!! »
+
+[program.1100096]
+Guerrier aux mille combats
+
+[program.1100104]
+Tous les couteaux réunis. Maître-lame !
+Sauriez-vous, par hasard, trancher un
+concombre flottant sans rider l’eau ?
+
+[program.1100224]
+Couteau vagabond
+
+[program.1100240]
+Une cuisine unique, flanquée d’un « ? » !
+Un goût à part ! Non, bien trop à part !
+Seriez-vous... accro aux plats « ? » ?
+
+[program.1100344]
+Chef un peu trop original
+
+[program.1100368]
+Un plat original, rien qu’à vous !
+L’invention compte en cuisine, mais
+pensez à ceux qui doivent le manger...
+
+[program.1100456]
+Chef inventif
+
+[program.1100472]
+Aimer la cuisine au point d’en apprendre
+toutes les recettes : quel grand chef !
+Wonderful ! Vegetable !
+
+[program.1100576]
+Chef suprême
+
+[program.1100592]
+Vous qui maniez tant de recettes,
+vous êtes un magicien de la cuisine !
+Bravissimo !
+
+[program.1100664]
+Grand chef
+
+[program.1100680]
+Vous avez rencontré tous les ennemis.
+Le Bestiaire est complet !
+Magnifique !
+
+[program.1100744]
+Maître des monstres
+
+[program.1100768]
+Vous avez obtenu tous les objets
+et complété le Livre du collectionneur !
+Félicitations !
+
+[program.1100848]
+Collectionneur d’objets
+
+[program.1100872]
+La preuve d’un rallye des tampons mené
+à bien. De lieu en lieu, et tamponne, et
+tamponne. Une preuve d’effort, oui !
+
+[program.1100968]
+Maître des tampons
+
+[program.1100992]
+« Mach, c’est la vitesse d’un corps en
+  mouvement rapportée à celle du son.
+  Mach 3 : trois fois la vitesse du son. »
+
+[program.1101088]
+Belle, brillante et véloce
+
+[program.1101104]
+« Moi, je cours tout le temps, tu vois.
+  Ce qui compte, c’est l’effort de tous
+  les jours. »
+
+[program.1101176]
+Frangine Mach
+
+[program.1101200]
+« Un humain ne peut pas courir à la
+  vitesse du son... Mach n’est qu’une
+  image pour dire extrêmement rapide... »
+
+[program.1101304]
+Masque Mach
+
+[program.1101320]
+« Il existe un domaine où seul entre qui
+  dépasse sa propre limite de vitesse...
+  Mais gare, ce domaine est dangereux... »
+
+[program.1101432]
+Grand frère Mach
+
+[program.1101448]
+« J’ai couru de toutes mes forces ! »
+
+[program.1101480]
+Fille Mach
+
+[program.1101496]
+Grande victoire sur le Garçon Mach de
+Neustadt ! Autrement dit : victory !
+Véloce, Mach, victory, jambes rapides.
+
+[program.1101608]
+Jeune Mach
+
+[program.1101624]
+Dingue de la mante à sept points de
+Margrana, du lucane vert de Chakratan !
+Et du puceron géant de Ribkigon...
+
+[program.1101736]
+Fou d’insectes
+
+[program.1101752]
+Maître Swordian {NAME:01 00 00 00} !
+Tout n’est que rêve... rêve éphémère...
+{04:06 00 00 00}{NAME:03 00 00 00} : « Réveille-toi, {NAME:01 00 00 00} ! »
+
+[program.1101856]
+Maîdre Zwordian
+
+[program.1101880]
+La sœur jumelle de Karell, ce qui veut
+dire que... Oups, stop, baby !
+Qui fouine sur elle, une potion louche...
+
+[program.1101984]
+Petite frimousse
+
+[program.1102000]
+Experte des clés articulaires.
+Mais {NAME:05 00 00 00} reste une archère.
+Les clés, c’est pour {NAME:03 00 00 00} seul.
+
+[program.1102080]
+Reine de la clé de bras
+
+[program.1102104]
+Beaucoup de ceux qu’on dit géniaux avaient
+aussi une réputation d’excentriques.
+Donc, super génie, super excentrique...
+
+[program.1102208]
+Excentrique
+
+[program.1102224]
+J’ai l’impression d’avoir tout résolu !
+Nul ne peut dire que ce n’est pas ça.
+Bref, ce n’est pas que je n’y crois pas !
+
+[program.1102344]
+Détective privé de flair
+
+[program.1102352]
+Un garçon ? Non : un garçon manqué.
+Une femme aussi hardie qu’un homme.
+Pas un compliment. {04:06 00 00 00}Trouvé par {NAME:03 00 00 00}
+
+[program.1102464]
+Garçon manqué
+
+[program.1102472]
+Peau dorée, preuve de jeunesse et de
+santé. Soleil et brise marine te vont
+bien. Une vraie déesse hâlée.
+
+[program.1102552]
+Déesse au teint hâlé
+
+[program.1102568]
+Une peau blanche de porcelaine.
+Une belle peau au grain fin.
+Vraiment, un ange au teint clair.
+
+[program.1102632]
+Ange au teint clair
+
+[program.1102648]
+Il vole au secours des demoiselles !
+Son nom : « le Rôdeur masqué ! » Hourra !
+... Raté... {04:06 00 00 00}Trouvé par {NAME:03 00 00 00}
+
+[program.1102752]
+Rôdeur masqué
+
+[program.1102768]
+Des données louches, une machine louche,
+des recherches louches... peut-être...
+{05:A0 00 00 00}Louche... louche...{05:00 01 00 00}
+
+[program.1102888]
+{05:C0 00 00 00}Louche{05:00 01 00 00}
+
+[program.1102912]
+Renfrogné, paraît-il.
+Cool ou renfrogné : la nuance est mince.
+{04:03 00 00 00}Trouvé par {NAME:05 00 00 00}
+
+[program.1102984]
+{NAME:04 00 00 00} le Renfrogné
+
+[program.1103000]
+Sans fard, disons... ou droit au but.
+Le charmant surnom de {NAME:03 00 00 00}.
+{04:03 00 00 00}Trouvé par {NAME:05 00 00 00}
+
+[program.1103088]
+{NAME:03 00 00 00} l’Obsédé
+
+[program.1103104]
+L’homme marqué du nom de traître...
+Il s’appelle Leon Magnus.
+Et aussi Emilio Katrea.
+
+[program.1103192]
+Leon Magnus
+
+[program.1103216]
+Un jour... un jour...
+plus « le fils du héros Stahn » :
+ils diront « le héros {NAME:01 00 00 00} » !
+
+[program.1103304]
+Fils de Stahn
+
+[program.1103320]
+Le grand rival de Joe le Trousseur !
+Tel un tourbillon : vous-savez-quoi.
+Un maître trousseur !
+
+[program.1103408]
+{NAME:03 00 00 00} le Tourbillon
+
+[program.1103424]
+Avatar né de la déesse, comme Elraine
+
+[program.1103464]
+Avatar de la déesse
+
+[program.1103480]
+{NAME:01 00 00 00} affronte un pouvoir divin.
+Un dieu, c’est quoi !? Et la vérité !?
+Bref, bagarre lancée, bagarre finie !
+
+[program.1103560]
+Il a provoqué un dieu
+
+[program.1103584]
+Choc ! Le génial savant était une femme !
+« Avec un nom d’homme, je pensais bien
+  que tou~t le monde se tromperait. »
+
+[program.1103688]
+Une demoiselle !
+
+[program.1103696]
+Prodige ! La femme qui sait tout des
+Swordians ! « Normal que j’aie toutes
+  les données : je les ai conçus. »
+
+[program.1103792]
+Conceptrice des Swordians
+
+[program.1103816]
+À l’assaut ! En avant, le génie !
+« Je suis la capitaine !
+  Vous êtes tous mes hommes ! »
+
+[program.1103880]
+Capitaine du génie
+
+[program.1103896]
+Celle qui a la sagesse sauvage :
+elle trouve ses réponses dans la nature
+et résout tout par sa force.
+
+[program.1103976]
+Dame sauvage
+
+[program.1103992]
+Il nous apprend vraiment plein de choses.
+« La Lunette du sorcier, c’est {09:2B 00 00 00}. »
+{04:08 00 00 00}(Chaque usage : trois Lentilles.)
+
+[program.1104104]
+Commentateur de la Lunette
+
+[program.1104128]
+Il sait toutes sortes de choses.
+« L’Anneau du sorcier, c’est {09:2C 00 00 00} ! »
+{04:08 00 00 00}(Chaque tir coûte une Lentille.)
+
+[program.1104232]
+Commentateur de l’Anneau
+
+[program.1104248]
+Pilote de l’aéronef Ixifosler
+
+[program.1104280]
+Pilote
+
+[program.1104296]
+« Par ordre royal, le porteur de ce pli
+  est chargé de reprendre la Lentille. »
+{04:01 00 00 00}Woodrow Kelvin, roi de Phandaria
+
+[program.1104416]
+Reprise de la Lentille
+
+[program.1104440]
+Voyageuse du temps.
+Celle qui traverse le temps.
+
+[program.1104464]
+Voyageuse du temps
+
+[program.1104488]
+C’est la Sainte !
+
+[program.1104504]
+Je t’appellerai héros !
+
+[program.1104528]
+Un héros, rien d’autre !
+
+[program.1104552]
+Vous avez vaincu Forneus, la terreur même,
+et sauvé le navire du naufrage : comment
+vous appeler, sinon !? {04:02 00 00 00}(Capitaine exalté)
+
+[program.1104672]
+Des héros, c’est sûr !
+
+[program.1104696]
+Le voyage rend d’humeur légère...
+Le navire voyageur, le port du repos...
+Fleur et abeille... homme et femme...
+
+[program.1104784]
+Chercheur d’amour
+
+[program.1104800]
+Dixit {NAME:03 00 00 00} :
+« Tout le monde a bien au moins
+  un talent, pas vrai ? »
+
+[program.1104864]
+Cordon-bleu
+
+[program.1104880]
+Les deux Saintes au service de la déesse
+Fortuna : Elraine et {NAME:02 00 00 00}.
+
+[program.1104944]
+Sainte
+
+[program.1104952]
+La lumière jaillie du pendentif...
+Était-ce la lumière d’un miracle...
+Quel pouvoir détient-elle donc...
+
+[program.1105048]
+Jeune fille aux miracles
+
+[program.1105064]
+En quête d’un héros. But inconnu.
+Si c’est « sois mon héros à moi... » :
+déclaration ? Mariage ? Love & peace ?
+
+[program.1105176]
+Chercheuse de héros
+
+[program.1105192]
+Regard froid et avis tranchants.
+Nihil, nihiler, nihiliste.
+
+[program.1105248]
+Nihiliste
+
+[program.1105264]
+{NAME:05 00 00 00} la frangine...
+Frangine {NAME:05 00 00 00}...
+« Laissez-moi faire ! »
+
+[program.1105328]
+Frangine
+
+[program.1105336]
+Est-ce le sang !?
+Est-ce l’œuvre du sang d’un héros !?
+Une marque gravée dans les gènes !?
+
+[program.1105416]
+Marmotte
+
+[program.1105432]
+La coiffure de {NAME:06 00 00 00}...
+On dirait des épis au saut du lit.
+« Quoi ! Elle a quoi, ma coiffure ! »
+
+[program.1105496]
+{NAME:06 00 00 00} l’Épi rebelle
+
+[program.1105512]
+Les flèches de {NAME:05 00 00 00}...
+Des astres traversant la galaxie,
+telles des étoiles filantes bleues.
+
+[program.1105576]
+{NAME:05 00 00 00} l’Étoile filante
+
+[program.1105592]
+La couleur de son habit est-elle
+celle de son cœur ? Quand flotte le
+noir, à quoi pense-t-il...
+
+[program.1105656]
+{NAME:04 00 00 00} le Noir
+
+[program.1105672]
+Quand {NAME:03 00 00 00} brandit sa hallebarde...
+c’est l’heure où le tonnerre gronde
+sur la terre.
+
+[program.1105736]
+{NAME:03 00 00 00} le Tonnerre
+
+[program.1105752]
+Soleil et lune, deux lumières.
+Chaud rayon de soleil qui fait
+tout grandir.
+
+[program.1105808]
+{NAME:02 00 00 00} Rayon de soleil
+
+[program.1105824]
+Quand {NAME:01 00 00 00} court l’épée à la main,
+on dirait un coup de vent.
+
+[program.1105872]
+{NAME:01 00 00 00} la Bourrasque
+
+[program.1105888]
+Un être doué dès le départ de talent et
+de moyens. « Et si un génie fait des
+  efforts, il devient un super génie♪ »
+
+[program.1105984]
+Génie
+
+[program.1105992]
+Swordian Original.
+L’un des humains dont la personnalité fut
+placée dans un Swordian, épée qui pense.
+
+[program.1106080]
+S.O.
+
+[program.1106088]
+« Je n’ai rien. Pas besoin de titre.
+  Je suis un homme qui a tout jeté... »
+Voilà ce qu’il a murmuré.
+
+[program.1106184]
+.....
+
+[program.1106200]
+L’épéiste n’a pas besoin que d’adresse :
+le cœur aussi doit s’exercer.
+À cœur émoussé, lame émoussée.
+
+[program.1106304]
+Épéiste
+
+[program.1106312]
+Guerrier qui a quitté l’Ordre pour
+errer. L’âme dans son arme, il
+tranche ses doutes et repart.
+
+[program.1106392]
+Guerrier errant
+
+[program.1106408]
+Tantôt sévère, tantôt doux, tantôt drôle !
+Le grand frère idéal, le voici.
+
+[program.1106472]
+Bon grand frère
+
+[program.1106488]
+« Laisse-moi prendre quelques données. »
+Des données sur quoi, au juste ?
+Prises comment ? Le mystère s’épaissit.
+
+[program.1106592]
+Maniaque des données
+
+[program.1106616]
+Dépasser mon père, je le dépasserai !
+Mon père si grand, je le dépasserai !
+Un jour, je le serai ! Un héros !
+
+[program.1106704]
+Aspirant héros
+
+[program.1106720]
+Les enfants recueillis à l’orphelinat
+Dunamis portent le nom de Dunamis.
+Nés ailleurs, ils sont une famille.
+
+[program.1106824]
+{NAME:01 00 00 00} aide à l’orphelinat que tient sa
+mère. Sans être orphelin, il porte le
+nom du lien : « Dunamis ».
+
+[program.1106920]
+Famille Dunamis
+
+[program.1106944]
+Scientifique. Mais elle ne pouvait pas
+tenir dans ce seul cadre.
+Ce qu’on appelle une savante folle.
+
+[program.1107048]
+Scientifique
+
+[program.1107056]
+L’arc est son arme, et aussi son ami.
+La voir le manier a quelque chose
+de beau, tout simplement.
+
+[program.1107144]
+Archère
+
+[program.1107152]
+Sous le masque, un regard un peu triste.
+Pourquoi cache-t-il son visage...
+
+[program.1107216]
+Épéiste masqué
+
+[program.1107232]
+Un garde de l’Ordre d’Atamoni.
+Il s’emploie chaque jour à protéger
+les gens des monstres.
+
+[program.1107304]
+Garde de l’Ordre
+
+[program.1107320]
+Une jeune fille mystérieuse sortie de la
+Lentille géante. Mais qui est-elle donc...
+
+[program.1107384]
+Jeune fille mystérieuse
+
+[program.1107400]
+Encore apprenti, mais un bel épéiste.
+N’oublie pas l’entraînement quotidien.
+
+[program.1107456]
+Apprenti épéiste
+
+[program.1107472]
+Description du titre
+Ligne 2
+Ligne 3
+
+[program.1107512]
+SELFISH
+
+[program.1107528]
+RESISTANCE
+
+[program.1107552]
+MYSTERIOUS
+
+[program.1107576]
+BOMBER
+
+[program.1107592]
+LIBERTY
+
+[program.1107608]
+FREEMAN
+
+[program.1107624]
+Entrez un nom pour le titre
+
+[program.1107656]
+Parures : Comona
+
+[program.1107680]
+Manteaux : Arms Lore
+
+[program.1107704]
+Marché noir
+
+[program.1107720]
+Armures : Toilettage
+
+[program.1107744]
+Armes : Griffoir
+
+[program.1107768]
+Épicerie : Bonite séchée
+
+[program.1107792]
+Bazar : Coussinets
+
+[program.1107816]
+Parures : Killer Queen
+
+[program.1107848]
+Atelier de campagne
+
+[program.1107864]
+Robot ravitailleur
+
+[program.1107880]
+Objets : Moon River
+
+[program.1107904]
+Entrepôt de vivres
+
+[program.1107920]
+Objets : Mamie Taylor
+
+[program.1107944]
+Épicerie : Sherry Twist
+
+[program.1107976]
+Épicerie : Kings Valley
+
+[program.1108000]
+Étal : Douceurs
+
+[program.1108016]
+Étal : Paradis des goinfres
+
+[program.1108040]
+Équipement : Trinity
+
+[program.1108064]
+Armes : Shandy Gaff
+
+[program.1108088]
+Épicerie : Harvester
+
+[program.1108112]
+Objets : Happy Master
+
+[program.1108144]
+Étal : Pomme de terre
+
+[program.1108168]
+Épicerie : Obanzai
+
+[program.1108192]
+Souvenirs : Tokei
+
+[program.1108216]
+Poissonnerie : Kaisen-maru
+
+[program.1108232]
+Ravitaillement
+
+[program.1108248]
+Armures : D’un revers de manche
+
+[program.1108272]
+Armes : Un contre mille
+
+[program.1108296]
+Debug Test
+
+[program.1108320]
+Bazar : Mana Breaker
+
+[program.1108344]
+Armures : Knight Killer
+
+[program.1108368]
+Armes : Braveheart
+
+[program.1108392]
+Distributeur : Cablegram
+
+[program.1108424]
+Distributeur : Rob Roy
+
+[program.1108448]
+Distributeur : Stone Fence
+
+[program.1108480]
+Colporteur
+
+[program.1108488]
+Distributeur : Elk’s Own
+
+[program.1108520]
+Bazar : Bergelmir
+
+[program.1108544]
+Armures : Thrudgelmir
+
+[program.1108576]
+Armes : Aurgelmir
+
+[program.1108600]
+Parures : Merry Widow
+
+[program.1108632]
+Bazar : Bifrost
+
+[program.1108656]
+Armures : Lifthrasir
+
+[program.1108680]
+Armes : Lif
+
+[program.1108696]
+Bazar : Ward Eight
+
+[program.1108720]
+Bazar : Fuzzy Navel
+
+[program.1108752]
+Bazar : Blue Lagoon
+
+[program.1108776]
+Bazar : Balalaïka
+
+[program.1108800]
+Bazar : Affinity
+
+[program.1108824]
+Épicerie : Marché de campagne
+
+[program.1108848]
+Armures : Waiapolo
+
+[program.1108872]
+Épicerie : Yggdrasil
+
+[program.1108896]
+Objets : Paix du foyer
+
+[program.1108920]
+Épicerie : Marché frais
+
+[program.1108944]
+Thé : Pause bonheur
+
+[program.1108960]
+Épicerie : Mahlzeit
+
+[program.1108984]
+Épicerie : Look Delicious !
+
+[program.1109016]
+Épicerie : Christiania
+
+[program.1109040]
+Épicerie : San Marino
+
+[program.1109064]
+Épicerie : Herbe-aux-chats
+
+[program.1109088]
+Épicerie : Itatoma
+
+[program.1109112]
+Épicerie : Cresta Kitchen
+
+[program.1109144]
+Armes : Soul & Sword
+
+[program.1109168]
+Armures : Comona
+
+[program.1109184]
+Armes : Arms Lore
+
+[program.1109208]
+Armures : Meriton
+
+[program.1109232]
+Armes : Lightning
+
+[program.1109256]
+Armures : Anchorhead
+
+[program.1109280]
+Armes : Satsugeki Bukoken
+
+[program.1109304]
+Équipement : Gambit
+
+[program.1109328]
+Bazar : Bâton gagnant
+
+[program.1109360]
+DEBUG
+
+[program.1109376]
+RETOUR
+
+[program.1109392]
+APERÇU
+
+[program.1109408]
+OPTIONS
+
+[program.1109424]
+CONTINUER
+
+[program.1109448]
+NOUVELLE PARTIE
+
+[program.1109472]
+elle
+
+[program.1109480]
+ils
+
+[program.1109488]
+il
+
+[program.1109496]
+Quitter le jeu
+
+[program.1109512]
+Charger une partie
+
+[program.1109560]
+{09:36 00 00 00} Retour
+
+[program.1109576]
+{09:35 00 00 00} Sortir
+
+[program.1109592]
+{09:36 00 00 00} Annuler
+
+[program.1109608]
+{09:35 00 00 00} Entrer
+
+[program.1109624]
+Réservé 3
+
+[program.1109640]
+Saisie nom scénario 3
+
+[program.1109664]
+Nom du chaton Katz
+
+[program.1109688]
+Hamster
+
+[program.1109704]
+Nom du hamster
+
+[program.1109760]
+Rencontres impossibles
+
+[program.1109784]
+ID  :○○○○-○○○○-○○○○
+CODE:○○○○-○○○○
+
+[program.1109856]
+Une symphonie de viande, de fruits de mer
+et de légumes. Quelle mélodie
+jouerez-vous aujourd’hui ?
+
+[program.1109944]
+Salade somptueuse
+
+[program.1109968]
+Dommage... quelque chose cloche...
+Quoi au juste ? Mystère et soupe miso.
+
+[program.1110032]
+Garnitures variées, longuement
+mijotées pour mûrir la saveur !
+Le miso est obligatoire, évidemment.
+
+[program.1110104]
+Oden au miso
+
+[program.1110120]
+Amer ! Piquant ! Salé !
+Nourrissant ou non, nul ne le sait,
+mais est-ce vraiment bien comme ça ?
+
+[program.1110216]
+Une boisson pour le moral !
+Une boisson pour le physique !
+L’énergie gagne tout le corps !
+
+[program.1110288]
+Boisson énergisante
+
+[program.1110304]
+Hmf... il manque quelque chose...
+Profond est le monde du sandwich !
+
+[program.1110368]
+Des fruits frais
+entre des tranches de pain moelleux.
+Un sandwich haut en couleur.
+
+[program.1110448]
+Sandwich aux fruits
+
+[program.1110464]
+La vie est née de la mer...
+Un plat riche des bienfaits de la mer.
+Autrement dit, un plat de vie.
+
+[program.1110544]
+Don de l’esprit marin
+
+[program.1110560]
+Du curry, et pourtant du mapo !
+Du mapo, et pourtant du curry !
+Miracle du doubanjiang et des épices !
+
+[program.1110656]
+Curry mapo
+
+[program.1110672]
+Un jus de fruits haut en couleur.
+Fraîchement pressé, à servir frais.
+
+[program.1110728]
+Jus de fruits
+
+[program.1110752]
+Un goût plat, monotone, sans profondeur.
+Il manque peut-être une idée...
+
+[program.1110816]
+Une marmite qui bouillonne !
+La saveur de la viande jaillit !
+Allons-y, à pleines dents !
+
+[program.1110888]
+Potée de viande
+
+[program.1110896]
+Des vaches en tablier dansent en
+tournant autour du soleil...
+Ce genre d’image ? ... Hein ???
+
+[program.1111000]
+Couleur et forme. Parfum et moelleux...
+Toi et moi, et lui, et elle...
+À chacun son gâteau au fromage.
+
+[program.1111096]
+Gâteau au fromage
+
+[program.1111112]
+De la viande hachée roulée dans un chou
+tendre et doux, cuite bien juteuse.
+OH ! Roll me !
+
+[program.1111200]
+Chou farci
+
+[program.1111216]
+Des crevettes bien dodues
+cuisinées en un goût qui picote.
+Ça pique, le piment !
+
+[program.1111288]
+Crevettes pimentées
+
+[program.1111304]
+De grosses pâtes bien enrobées
+d’une sauce à base de tomate.
+On aspire une bouchée. Ferme et élastique.
+
+[program.1111408]
+Spaghettis napolitaine
+
+[program.1111424]
+C’est comme boueux...
+L’aspect n’est pas terrible...
+
+[program.1111488]
+Un goût qui fond.
+Une douceur lisse et veloutée.
+Une féerie qui s’appelle dessert.
+
+[program.1111560]
+Parfait sucré
+
+[program.1111576]
+Ça sent un peu le poisson...
+Pas assez d’âme dans le geste ?
+
+[program.1111632]
+La saveur du poisson mijoté est un tissu
+de goûts en deux ou trois épaisseurs.
+Savourez ce bouillon profond et corsé.
+
+[program.1111736]
+Potée de poisson
+
+[program.1111744]
+Hein ?
+Ça avait ce goût-là... ?
+On y songe, l’alu entre les molaires...
+
+[program.1111816]
+Le beurre imprègne le saumon : divin !
+Deux saveurs qui s’élèvent l’une l’autre.
+Saluons les meilleurs partenaires.
+
+[program.1111912]
+Papillote
+
+[program.1111928]
+Hmf... Ta cuisine manque
+du sens de l’hospitalité !
+Profond est l’art culinaire d’Orient !
+
+[program.1112016]
+Tranche comme si tu poignardais !
+Voilà le secret du sashimi !
+Le poisson frais se coupe vite.
+
+[program.1112088]
+Sashimi
+
+[program.1112096]
+Une viande de choix, grillée
+selon la tradition.
+À déguster presque saignante.
+
+[program.1112176]
+Steak
+
+[program.1112192]
+Ça sent l’aigre...
+Et la soupe est devenue toute rouge...
+Qu’est-ce qui n’allait pas ?
+
+[program.1112280]
+Une soupe rouge dont la vue et le parfum
+ouvrent l’appétit. Mmm, ça réchauffe...
+
+[program.1112344]
+Minestrone
+
+[program.1112360]
+Façonnez-les avec amour.
+Façonnez-les de tout votre cœur.
+Le goût en est plus profond... si, si !
+
+[program.1112448]
+Onigiri
+
+[program.1112464]
+Ça sent l’aigre...
+Et la soupe est devenue toute rouge...
+
+
+[program.1112528]
+Par une nuit froide, pourquoi ne pas se
+réchauffer d’un bortsch ? Un plat mijoté
+nourrissant, bien sûr.
+
+[program.1112608]
+Bortsch
+
+[program.1112624]
+C’est tout détrempé...
+Un souci dans la finition ?
+
+[program.1112680]
+Faites sauter les légumes. Quelle saveur !
+Puis mijotez-les avec le riz.
+La saveur l’imprègne.
+
+[program.1112768]
+Risotto
+
+[program.1112784]
+Un goût rustique et plein d’élan !
+Vraiment, un grand talent inachevé !
+Hé, inachevé, ce n’est pas bien !
+
+[program.1112872]
+Viande hachée, pétrie, moulée et rôtie.
+Son propre jus la rend meilleure !
+Un peu plus chic qu’un steak haché.
+
+[program.1112968]
+Pain de viande
+
+[program.1112984]
+Le goût est comme différent...
+Faut-il parler de personnalité,
+ou bien parler d’échec...
+
+[program.1113072]
+Faites bien croustiller du poulet frais,
+pressez un citron et mordez dedans.
+Le jus jaillit en bouche ! Chaud, chaud !
+
+[program.1113176]
+Poulet frit
+
+[program.1113192]
+En le mangeant, chacun repense
+soudain à son enfance...
+Un mets qui met en scène la nostalgie.
+
+[program.1113288]
+Toast à la confiture
+
+[program.1113304]
+Ça a crissé au moment de servir...
+Qu... qu’est-ce que c’est que ce bruit ?
+Une erreur quelque part ?
+
+[program.1113392]
+Des pâtes aux fruits de mer. Avant de
+manger, il faut crier « Pescatore ! »
+(et avec le ventre, s’il vous plaît).
+
+[program.1113504]
+Pescatore
+
+[program.1113520]
+Ça... ça sent le danger...
+C’est une vraie bagarre d’ingrédients !
+
+[program.1113592]
+Un tofu tendre, brûlant et soyeux.
+La sauce pimentée le relève à merveille !
+
+[program.1113664]
+Tofu mapo
+
+[program.1113680]
+Ça manque de corps...
+Des goûts parasites se font sentir...
+
+[program.1113728]
+Le piquant des épices, le goût de la mer.
+Un instant d’ivresse : on rêve de flotter
+sur les vagues sous un soleil d’été...
+
+[program.1113832]
+Curry de la mer
+
+[program.1113848]
+Jeté en vrac, un aspect douteux...
+Trois personnes sur dix en mangeraient ?
+
+[program.1113928]
+Des légumes frais et juteux,
+dressés à votre façon.
+Composez formes et couleurs en peintre.
+
+[program.1114024]
+Salade de légumes
+
+[program.1114040]
+Vous explorez les mers de la cuisine.
+Votre esprit pionnier va si loin que
+tout le monde reste en arrière !
+
+[program.1114128]
+Le sirop, c’est l’espace...
+Les fruits y brillent en étoiles.
+À le voir, on rêve en couleurs !
+
+[program.1114208]
+Punch aux fruits
+
+[program.1114224]
+Le riz est la vedette ! Fais-le sauter !
+La sauce tomate : rouge passion !
+Flammes !!!
+
+[program.1114304]
+Paella
+
+[program.1114320]
+Quoi qu’on y mette, c’est un sandwich.
+Oui... quoi qu’on y mette, un sandwich.
+... Et si on n’y met rien, c’est quoi ?
+
+[program.1114416]
+L’extérieur ne doit être ni sec ni
+détrempé. Moelleux, rien d’autre !
+Le concombre tu n’ôteras point.
+
+[program.1114504]
+Sandwich
+
+[program.1114520]
+Pour viser plus haut en cuisine,
+il convient de revoir la recette.
+La voie de la cuisine est sans fin...
+
+[program.1114624]
+Du riz sauté à l’oignon, enveloppé d’une
+omelette baveuse et crémeuse.
+Presque dommage de l’entamer.
+
+[program.1114736]
+Omurice
+
+[program.1114752]
+Une jolie fille coiffée en samouraï danse
+dans une robe à froufrous...
+Ce genre d’image ? ... Hein ???
+
+[program.1114864]
+Une crème onctueuse au parfum de citron.
+Acidulée, sucrée, et d’un goût limpide.
+
+[program.1114936]
+Tarte au citron
+
+[program.1114952]
+La couleur a l’air un peu bizarre...
+Ça irait bien à qui touille en habit de
+sorcière en faisant « hi hi hi »...
+
+[program.1115048]
+Moelleux et onctueux, épais et crémeux.
+Mijotez doucement beaucoup de légumes.
+Savourez, du bonheur plein l’assiette !
+
+[program.1115160]
+Ragoût à la crème
+
+[program.1115184]
+Profond, car simple...
+Jamais trop d’idées ni d’application.
+Réfléchissez encore un peu.
+
+[program.1115272]
+Un goût sans rapport avec le légume cru,
+et tout cela s’accomplit en une nuit !
+Une magie qui s’appelle cuisine !?
+
+[program.1115376]
+Pickles d’une nuit
+
+[program.1115392]
+Quelque chose pendouille et dépasse...
+Qui y plante les dents mérite bien
+le nom de téméraire...
+
+[program.1115488]
+Le goût du steak ne fait pas tout !
+Celui du pain qui l’entoure compte !
+Un véritable équilibre des forces !
+
+[program.1115592]
+Hamburger
+
+[program.1115616]
+Un allié subit une altération d’état
+
+[program.1115648]
+Un seul allié à 20 % de TP ou moins
+
+[program.1115696]
+2 alliés ou plus à 40 % de TP ou moins
+
+[program.1115744]
+2 alliés ou plus à 60 % de TP ou moins
+
+[program.1115792]
+3 alliés ou plus à 80 % de TP ou moins
+
+[program.1115840]
+Un seul allié à 20 % de HP ou moins
+
+[program.1115888]
+2 alliés ou plus à 40 % de HP ou moins
+
+[program.1115936]
+2 alliés ou plus à 60 % de HP ou moins
+
+[program.1115984]
+3 alliés ou plus à 80 % de HP ou moins
+
+[program.1116032]
+Cuisine tous les 10 combats
+
+[program.1116072]
+Cuisine tous les 5 combats
+
+[program.1116104]
+Cuisine après chaque combat
+
+[program.1116136]
+Pas de cuisine automatique
+
+[program.1116160]
+Coût ingréd.
+
+[program.1116176]
+Nb de plats
+
+[program.1116192]
+Maîtrise
+
+[program.1116208]
+Au choix
+
+[program.1116224]
+Cuisine le plat le moins coûteux
+
+[program.1116264]
+Cuisine le plat faisable le plus de fois
+
+[program.1116304]
+Cuisine le plat le moins maîtrisé
+
+[program.1116336]
+Cuisine un plat au hasard
+
+[program.1116368]
+Cabane
+
+[program.1116376]
+Village Katz
+
+[program.1116392]
+Tente du forgeron
+
+[program.1116408]
+Cabane de Chelsea
+
+[program.1116432]
+Aquaveil
+
+[program.1116448]
+Calviola
+
+[program.1116464]
+Hope Town
+
+[program.1116480]
+Cherik
+
+[program.1116496]
+Heidelberg
+
+[program.1116512]
+Snowfria
+
+[program.1116528]
+Mine désaffectée Oberon
+
+[program.1116544]
+Neustadt
+
+[program.1116560]
+Refuge de montagne
+
+[program.1116568]
+Mine du sud, entrée NE
+
+[program.1116600]
+Mine du sud, entrée S
+
+[program.1116632]
+Mine du sud, entrée NO
+
+[program.1116664]
+Mine de l’ouest, entrée NO
+
+[program.1116696]
+Mine de l’ouest, entrée SO
+
+[program.1116728]
+Mine de l’ouest, entrée SE
+
+[program.1116760]
+Mine de l’ouest, entrée NE
+
+[program.1116792]
+Mine du nord, entrée S
+
+[program.1116824]
+Mine du nord, entrée N
+
+[program.1116856]
+Lienea
+
+[program.1116864]
+Port d’Aigrette
+
+[program.1116880]
+Aigrette
+
+[program.1116896]
+Grand temple de Straylize
+
+[program.1116920]
+Vallée de Harmentz
+
+[program.1116944]
+Ruines de la base terrestre
+
+[program.1116960]
+Darilsheid, l’ancienne capitale
+
+[program.1116984]
+Ruines de Laguna
+
+[program.1117000]
+Ville de Cresta
+
+[program.1117016]
+Calviola, la Terre sainte
+
+[program.1117032]
+Trash Mountain
+
+[program.1117056]
+Heat River
+
+[program.1117072]
+Épave de la cité aérienne
+
+[program.1117088]
+Dycroft
+
+[program.1117104]
+Sanctuaire de Lumière
+
+[program.1117120]
+Forêt vierge
+
+[program.1117136]
+Realta, la Cité du crépuscule
+
+[program.1117160]
+Speranza, la Cité écarlate
+
+[program.1117184]
+Vangelo, la Cité d’azur
+
+[program.1117208]
+Grotte du littoral
+
+[program.1117224]
+Spiral Cave
+
+[program.1117248]
+Base de l’armée terrestre
+
+[program.1117264]
+Dépôt de matériel
+
+[program.1117280]
+Œuf de Dieu
+
+[program.1121248]
+Le pont doit être ouvert
+
+[program.1121280]
+Tenez bon !
+
+[program.1121296]
+Trop de chaleur...
+
+[program.1121328]
+Vers mon village 2
+
+[program.1121360]
+Vers mon village 1
+
+[program.1121392]
+Visitons la ville
+
+[program.1121416]
+Cap sur Heidelberg 2
+
+[program.1121448]
+Trésor : les bases
+
+[program.1121464]
+Les machines marchent ?
+
+[program.1121488]
+À la mine Oberon
+
+[program.1121512]
+Pousser un conteneur
+
+[program.1121536]
+Que de brume
+
+[program.1121552]
+Se servir de la carte
+
+[program.1121576]
+On s’y perd vite
+
+[program.1121592]
+Au port d’Aigrette 2
+
+[program.1121616]
+Gare aux gardes...
+
+[program.1121640]
+Passer tout droit
+
+[program.1121664]
+Ce socle
+
+[program.1121680]
+Voilà Aigrette
+
+[program.1121704]
+Et si on sautait...
+
+[program.1121728]
+{NAME:06 00 00 00} se présente
+
+[program.1121744]
+{NAME:05 00 00 00} se présente
+
+[program.1121760]
+{NAME:04 00 00 00} se présente
+
+[program.1121776]
+{NAME:03 00 00 00} se présente
+
+[program.1121792]
+{NAME:02 00 00 00} se présente
+
+[program.1121808]
+{NAME:01 00 00 00} se présente
+
+[program.1121824]
+La sortie vers la surface
+
+[program.1121848]
+Ruines de Laguna
+
+[program.1121864]
+Vers les niveaux bas
+
+[program.1121880]
+Elraine proche ?
+
+[program.1121904]
+Dans le miroir
+
+[program.1121920]
+Au cœur de l’Œuf de Dieu
+
+[program.1121944]
+La peur du vide !
+
+[program.1121960]
+Apparu !?
+
+[program.1121976]
+Vers ce lieu...
+
+[program.1121992]
+Demander à Rutee
+
+[program.1122016]
+Demander à Philia
+
+[program.1122040]
+Pour aller à Aigrette
+
+[program.1122072]
+Sûrement au temple
+
+[program.1122088]
+Elraine, au fond du temple
+
+[program.1122112]
+Sus à Elraine
+
+[program.1122136]
+Regagner le futur
+
+[program.1122160]
+Vu quelque chose ?
+
+[program.1122184]
+Encore une nuit au château
+
+[program.1122200]
+Vite, à l’Œil de Dieu !
+
+[program.1122224]
+Traverse la Coque
+
+[program.1122240]
+Veille du combat 3
+
+[program.1122256]
+Swordians achevés 3
+
+[program.1122280]
+Vers Spiral Cave 5
+
+[program.1122304]
+Vole, fusée ! 3
+
+[program.1122328]
+Rapport sur la fusée
+
+[program.1122352]
+Le matériel 5
+
+[program.1122368]
+À Darilsheid
+
+[program.1122392]
+Après la Clé maîtresse
+
+[program.1122416]
+Les canaux, il me semble
+
+[program.1122432]
+But : le matériel
+
+[program.1122456]
+De la base au Dépôt
+
+[program.1122480]
+Au matériel !
+
+[program.1122496]
+Présentations, au fond
+
+[program.1122520]
+L’esprit de {NAME:05 00 00 00} 8
+
+[program.1122536]
+L’esprit de {NAME:05 00 00 00} 4
+
+[program.1122552]
+Sanctuaire de Lumière
+
+[program.1122568]
+Grotte du littoral
+
+[program.1122584]
+Brise le sceau
+
+[program.1122600]
+À l’ancienne base 3
+
+[program.1122624]
+Une nuit au château
+
+[program.1122640]
+Pas de Lentille !
+
+[program.1122656]
+Retour au présent
+
+[program.1122680]
+Par Trash Mountain
+
+[program.1122712]
+Vers mon village 3
+
+[program.1122744]
+Ferry du futur : et {NAME:02 00 00 00} ?
+
+[program.1122768]
+Allons au parc
+
+[program.1122792]
+L’ardeur après l’audience
+
+[program.1122816]
+Écoutons-le
+
+[program.1122832]
+Suis cette fille
+
+[program.1122856]
+L’audience, enfin
+
+[program.1122872]
+Tu as dit quoi, {NAME:03 00 00 00} ?
+
+[program.1122896]
+Où est le roi ?
+
+[program.1122920]
+Cap sur Heidelberg 1
+
+[program.1122952]
+Prêts ? On appareille !
+
+[program.1122976]
+Le bateau part enfin ?
+
+[program.1123008]
+Reste à le livrer
+
+[program.1123032]
+Trésor caché
+
+[program.1123048]
+En route pour la mine
+
+[program.1123064]
+La demande du marchand 2
+
+[program.1123080]
+Du nouveau au port... ?
+
+[program.1123096]
+Port de Neustadt
+
+[program.1123120]
+Petit-déj chez Lilith
+
+[program.1123144]
+Sur le pont, vite !
+
+[program.1123168]
+Au port d’Aigrette 1
+
+[program.1123192]
+Ruines de Straylize
+
+[program.1123216]
+Su à l’auberge
+
+[program.1123232]
+Auberge d’Aigrette 2
+
+[program.1123256]
+L’Œuf de Dieu...
+
+[program.1123280]
+Auberge d’Aigrette 1
+
+[program.1123304]
+Elle est à Aigrette
+
+[program.1123328]
+Tire avec l’Anneau du sorcier
+
+[program.1123352]
+Cresta - Aigrette
+
+[program.1123376]
+Fuite : Cresta
+
+[program.1123392]
+Canaux
+
+[program.1123408]
+Sous Darilsheid
+
+[program.1123432]
+Laguna, c’est où ?
+
+[program.1123456]
+C’est pas par là, non ?
+
+[program.1123480]
+Pas par là, hein
+
+[program.1123504]
+Pas par là, tu sais ?
+
+[program.1123528]
+Pas par ici
+
+[program.1123552]
+C’est pas par là
+
+[program.1123576]
+Pas ici
+
+[program.1123592]
+Corps du génie
+
+[program.1123600]
+Vers Spiral Cave
+
+[program.1123624]
+Devant les cachots
+
+[program.1123648]
+On va au hangar
+
+[program.1123664]
+On va au Radisrol
+
+[program.1123688]
+Par le sentier
+
+[program.1123704]
+On va à Realta !!
+
+[program.1123728]
+Dôme rouge... ?
+
+[program.1123752]
+Ce dôme, là ?
+
+[program.1123776]
+Trop lent, le bateau
+
+[program.1123800]
+La vérité à Woodrow
+
+[program.1123824]
+La Lentille !
+
+[program.1123840]
+Encore à Hope Town...
+
+[program.1123864]
+C’est Aigrette ?
+
+[program.1123888]
+Assaut !
+
+[program.1123896]
+Rendez-vous à Heidelberg
+
+[program.1123920]
+Du calme
+
+[program.1123936]
+À Lienea
+
+[program.1123952]
+Le port, c’est de l’autre côté
+
+[program.1123976]
+Au temple, sur ses traces
+
+[program.1124000]
+Trouver l’entrée des ruines
+
+[program.1124024]
+Entendu à l’auberge...
+
+[program.1124048]
+À maman
+
+[program.1124056]
+Fin des canaux
+
+[program.1124072]
+Laguna : le sommet
+
+[program.1124096]
+Demain, Laguna
+
+[program.1124120]
+Traverse la grotte !
+
+[program.1124136]
+Après les canaux : ruines
+
+[program.1124160]
+Après les canaux : canaux
+
+[program.1124192]
+Après les canaux : pont
+
+[program.1124216]
+Après les canaux : ville
+
+[program.1124240]
+Laguna : le pont
+
+[program.1124256]
+Hauteur dangereuse
+
+[program.1124272]
+Départ
+
+[program.1124280]
+La Coque
+
+[program.1124288]
+Ce qui flotte dans le ciel
+
+[program.1124312]
+Les yeux au ciel
+
+[program.1124328]
+Chute
+
+[program.1124336]
+Par la voie des airs
+
+[program.1124352]
+Par Trash Mountain
+
+[program.1124384]
+Réunis à Hope Town
+
+[program.1124408]
+Projetés...
+
+[program.1124424]
+Doutes
+
+[program.1124432]
+Un refuge, là !
+
+[program.1124448]
+Crête des Nuages blancs
+
+[program.1124464]
+Le cap
+
+[program.1124472]
+Rencontre du destin
+
+[program.1124488]
+On t’attend à Hope Town
+
+[program.1124512]
+Aquaveil
+
+[program.1124528]
+Râteau-Man : l’ultime combat
+
+[program.1124552]
+Le génie de légende
+
+[program.1124576]
+Royaume de {NAME:01 00 00 00}
+
+[program.1124592]
+Botte secrète maison
+
+[program.1124616]
+Râteau-Man : cœur pur
+
+[program.1124640]
+L’arte arcane hérité
+
+[program.1124656]
+Moi, sauver le monde
+
+[program.1124672]
+Râteau-Man : version légende
+
+[program.1124704]
+En voyant un masque
+
+[program.1124720]
+Un lieu déjà vu
+
+[program.1124736]
+Encore Râteau-Man
+
+[program.1124760]
+Au gré du vent et de l’envie
+
+[program.1124792]
+Un million de fois
+
+[program.1124800]
+Une scène de rêve
+
+[program.1124816]
+Ça devrait voler, pourtant
+
+[program.1124840]
+Toi-même, un jour...
+
+[program.1124864]
+Elle m’obsède !
+
+[program.1124888]
+Râteau-Man Forever
+
+[program.1124920]
+En dormant
+
+[program.1124928]
+Adieux avant le départ
+
+[program.1124952]
+L’amour naît
+
+[program.1124968]
+Rendez-vous 2
+
+[program.1124984]
+Rendez-vous 1
+
+[program.1125000]
+Rapport à Woodrow
+
+[program.1125024]
+Pour l’avenir
+
+[program.1125040]
+Catacombes
+
+[program.1125056]
+Passage secret
+
+[program.1125072]
+Bataille finale
+
+[program.1125088]
+Mon héros à moi
+
+[program.1125112]
+Pas de mais !
+
+[program.1125128]
+Chaltier...
+
+[program.1125152]
+Dix ans avant ton futur
+
+[program.1125176]
+Le décrocheur d’étoiles
+
+[program.1125192]
+Fais un vœu
+
+[program.1125208]
+Où l’on s’est vus...
+
+[program.1125232]
+Le cœur retrouvé
+
+[program.1125248]
+LOLO
+
+[program.1125264]
+Grandir 2
+
+[program.1125272]
+Lieu de rencontre 2
+
+[program.1125288]
+Lieu de rencontre 1
+
+[program.1125304]
+Soigner l’émotion
+
+[program.1125320]
+Liens 2
+
+[program.1125328]
+Liens 1
+
+[program.1125336]
+Vivre l’instant à fond
+
+[program.1125352]
+Jeu de cubes
+
+[program.1125368]
+Grandir 1
+
+[program.1125376]
+La tournée des héros 3
+
+[program.1125400]
+Selon son cœur
+
+[program.1125416]
+Fan d’insectes
+
+[program.1125432]
+La tournée des héros 2
+
+[program.1125456]
+L’un ou l’autre
+
+[program.1125472]
+La tournée des héros 1
+
+[program.1125496]
+Face à la réalité
+
+[program.1125520]
+Sous Calviola 5
+
+[program.1125544]
+Les données 2
+
+[program.1125560]
+Sous Calviola 4
+
+[program.1125584]
+Les données 1
+
+[program.1125600]
+C’était bien
+
+[program.1125616]
+Sous Calviola 3
+
+[program.1125640]
+Sous Calviola 2
+
+[program.1125664]
+De nouveau le futur
+
+[program.1125680]
+Sous Calviola 1
+
+[program.1125704]
+Râteau-Man : le retour
+
+[program.1125728]
+La ruine du monde
+
+[program.1125744]
+Voix solitaire
+
+[program.1125760]
+{NAME:03 00 00 00}, mange
+
+[program.1125776]
+{NAME:03 00 00 00}, man-ge★
+
+[program.1125800]
+Mémoire de génie
+
+[program.1125816]
+Tout rendre au néant
+
+[program.1125840]
+Forts sans protection divine
+
+[program.1125864]
+Urgence
+
+[program.1125880]
+Ville sous la neige
+
+[program.1125896]
+Histoire réparée
+
+[program.1125912]
+Avoir survécu
+
+[program.1125936]
+Mon père, jeune 2
+
+[program.1125952]
+Mon père, jeune 1
+
+[program.1125968]
+Je ne renie pas le passé
+
+[program.1126000]
+Déguisé
+
+[program.1126008]
+{NAME:04 00 00 00} savait
+
+[program.1126032]
+Ne jamais naître
+
+[program.1126056]
+Arrêter Belcrant 3
+
+[program.1126080]
+En attendant l’ascenseur
+
+[program.1126104]
+Le sort de Karell 4
+
+[program.1126128]
+Le sort de Karell 2
+
+[program.1126152]
+Le sort de Karell 1
+
+[program.1126176]
+Sauver Atwight 1
+
+[program.1126200]
+Salle du trône
+
+[program.1126216]
+Le sort de Karell 5
+
+[program.1126240]
+Arrêter Belcrant 2
+
+[program.1126264]
+Arrêter Belcrant 1
+
+[program.1126288]
+Le sort de Karell 3
+
+[program.1126312]
+Suivons les Swordians !
+
+[program.1126344]
+Engagés dans la guerre
+
+[program.1126360]
+Veille du combat 2
+
+[program.1126376]
+Veille du combat 1
+
+[program.1126392]
+Swordians achevés 6
+
+[program.1126416]
+Swordians achevés 5
+
+[program.1126440]
+Swordians achevés 4
+
+[program.1126464]
+Swordians achevés 2
+
+[program.1126488]
+Le nom de {NAME:06 00 00 00}
+
+[program.1126504]
+Le beau geste de Litler
+
+[program.1126536]
+Swordians achevés 1
+
+[program.1126560]
+Dymlos sanctionné 2
+
+[program.1126584]
+Dymlos sanctionné 1
+
+[program.1126608]
+Maîdre Zwordian
+
+[program.1126632]
+Au fait, et les Swordians ?
+
+[program.1126664]
+La loi du plus fort
+
+[program.1126680]
+Barbatos se retire
+
+[program.1126704]
+Tout au creux de sa main
+
+[program.1126728]
+Atwight sauvée
+
+[program.1126752]
+Les Swordians au complet
+
+[program.1126784]
+Vers Spiral Cave 4
+
+[program.1126808]
+Vers Spiral Cave 3
+
+[program.1126832]
+Pas sa place...
+
+[program.1126856]
+Deux destins
+
+[program.1126872]
+Vers Spiral Cave 2
+
+[program.1126896]
+Vers Spiral Cave 1
+
+[program.1126920]
+Délire en roue libre
+
+[program.1126936]
+Le défi de Barbatos
+
+[program.1126960]
+Le choix imposé
+
+[program.1126976]
+Convaincre
+
+[program.1126984]
+Dymlos tourmenté 2
+
+[program.1127008]
+{NAME:06 00 00 00}, dose secrète
+
+[program.1127024]
+Si on me capturait
+
+[program.1127056]
+Catalyseur
+
+[program.1127064]
+Escorte 2
+
+[program.1127080]
+Escorte 1
+
+[program.1127096]
+Dymlos tourmenté 1
+
+[program.1127120]
+Sauver Atwight 2
+
+[program.1127144]
+Monde parallèle
+
+[program.1127168]
+Dilemme
+
+[program.1127184]
+L’opération continue !
+
+[program.1127200]
+Vole, fusée ! 1
+
+[program.1127224]
+Rapport fait
+
+[program.1127240]
+La Clé maîtresse
+
+[program.1127264]
+Choc thermique
+
+[program.1127280]
+Vers les capsules 2
+
+[program.1127296]
+En pleine guerre 2
+
+[program.1127320]
+En pleine guerre 1
+
+[program.1127344]
+Vers les capsules 1
+
+[program.1127360]
+Gare au relâchement
+
+[program.1127376]
+Salle de contrôle 2
+
+[program.1127392]
+Salle de contrôle 1
+
+[program.1127408]
+Défier la déesse
+
+[program.1127424]
+Bon tandem
+
+[program.1127440]
+Vole, fusée ! 2
+
+[program.1127464]
+Visage poupin
+
+[program.1127480]
+Rêve éveillé
+
+[program.1127496]
+Caprices de {NAME:06 00 00 00}
+
+[program.1127512]
+Un mas-sa-ge pour toi
+
+[program.1127544]
+Sauvetage 3
+
+[program.1127560]
+Un groupe hors du temps
+
+[program.1127584]
+Sauvetage 2
+
+[program.1127600]
+Sa cuisine
+
+[program.1127616]
+Technique
+
+[program.1127632]
+Sauvetage 1
+
+[program.1127648]
+Le matériel 4
+
+[program.1127664]
+Le matériel 3
+
+[program.1127680]
+Le matériel 2
+
+[program.1127696]
+Le matériel 1
+
+[program.1127712]
+Râteau-Man NEO
+
+[program.1127736]
+Un Swordian !
+
+[program.1127760]
+Gemini 2
+
+[program.1127776]
+Gemini 1
+
+[program.1127792]
+Tu m’intéresses
+
+[program.1127816]
+Résoudre ce qu’on sait déjà ?
+
+[program.1127856]
+La vérité sur le génie
+
+[program.1127880]
+Rencontre avec le génie
+
+[program.1127904]
+L’esprit de {NAME:05 00 00 00} 7
+
+[program.1127920]
+L’esprit de {NAME:05 00 00 00} 6
+
+[program.1127936]
+L’esprit de {NAME:05 00 00 00} 5
+
+[program.1127952]
+L’esprit de {NAME:05 00 00 00} 3
+
+[program.1127968]
+L’esprit de {NAME:05 00 00 00} 2
+
+[program.1127984]
+L’esprit de {NAME:05 00 00 00} 1
+
+[program.1128000]
+L’esprit de {NAME:01 00 00 00} 4
+
+[program.1128016]
+L’esprit de {NAME:01 00 00 00} 3
+
+[program.1128032]
+L’esprit de {NAME:01 00 00 00} 2
+
+[program.1128048]
+L’esprit de {NAME:01 00 00 00} 1
+
+[program.1128064]
+Crocs de Garm
+
+[program.1128080]
+Forêt vierge 2
+
+[program.1128096]
+Forêt vierge 1
+
+[program.1128112]
+{NAME:02 00 00 00} décidée
+
+[program.1128128]
+Château en plein ciel 3
+
+[program.1128144]
+{NAME:02 00 00 00} hésite
+
+[program.1128160]
+La définition du bonheur
+
+[program.1128176]
+La voix du ciel
+
+[program.1128192]
+Realta ({NAME:01 00 00 00})
+
+[program.1128216]
+Monde factice
+
+[program.1128232]
+Histoire altérée
+
+[program.1128248]
+Speranza
+
+[program.1128264]
+Les poupées du jardin
+
+[program.1128280]
+Une autre ville
+
+[program.1128296]
+Mémoire à neuf
+
+[program.1128320]
+Monde distordu
+
+[program.1128336]
+Leurre
+
+[program.1128344]
+Je reprendrai le monde !
+
+[program.1128376]
+Dycroft 2
+
+[program.1128392]
+Un monde restauré
+
+[program.1128408]
+Nouveau Râteau-Man
+
+[program.1128424]
+La fête commence !
+
+[program.1128456]
+Dycroft 1
+
+[program.1128472]
+Ans perdus
+
+[program.1128480]
+Si vous vous taisiez...
+
+[program.1128504]
+Reprends le monde !
+
+[program.1128528]
+Ceux qui ignorent le vent
+
+[program.1128552]
+Un monde uniforme ? 2
+
+[program.1128576]
+Détective privé de flair {NAME:03 00 00 00}
+
+[program.1128592]
+Un monde sans aventure
+
+[program.1128608]
+Un monde uniforme ? 1
+
+[program.1128632]
+Agir avant de penser
+
+[program.1128656]
+Ancêtres
+
+[program.1128664]
+Vers le repaire ennemi
+
+[program.1128680]
+Polis l’homme !
+
+[program.1128696]
+La bibliothèque ? 2
+
+[program.1128720]
+La bibliothèque ? 1
+
+[program.1128744]
+Le héros Barbatos
+
+[program.1128760]
+Realta ({NAME:04 00 00 00})
+
+[program.1128784]
+Clé de bras 3
+
+[program.1128808]
+{NAME:02 00 00 00} en peine
+
+[program.1128824]
+Soleil, air et...
+
+[program.1128840]
+Le héros {NAME:01 00 00 00}
+
+[program.1128856]
+Les Masqués Lens Five
+
+[program.1128880]
+Virago
+
+[program.1128896]
+Joyeux repas
+
+[program.1128912]
+Nichée sous verre
+
+[program.1128936]
+Patates grillées
+
+[program.1128952]
+Le monde altéré 5
+
+[program.1128976]
+Le monde altéré 4
+
+[program.1129000]
+Un monde vide
+
+[program.1129016]
+Retrouver notre monde ?
+
+[program.1129040]
+Château en plein ciel 2
+
+[program.1129056]
+Le monde altéré 3
+
+[program.1129080]
+Château en plein ciel 1
+
+[program.1129096]
+Le monde altéré 2
+
+[program.1129120]
+Le monde altéré 1
+
+[program.1129144]
+Fuir le Dragon volant 4
+
+[program.1129168]
+Fuir le Dragon volant 3
+
+[program.1129192]
+Usage de la Lunette
+
+[program.1129224]
+Les dispositifs 2
+
+[program.1129248]
+À l’ancienne base 2
+
+[program.1129272]
+À l’ancienne base 1
+
+[program.1129296]
+Fuir le Dragon volant 2
+
+[program.1129320]
+Fuir le Dragon volant 1
+
+[program.1129344]
+Les dispositifs 1
+
+[program.1129368]
+Cerbère
+
+[program.1129376]
+Il sait tout
+
+[program.1129400]
+Lentille ? 2
+
+[program.1129416]
+Le Roi-Héros blessé 1
+
+[program.1129440]
+Venue du futur 1
+
+[program.1129464]
+Lentille ? 1
+
+[program.1129480]
+À bord du Dragon volant
+
+[program.1129496]
+Coup suivant
+
+[program.1129504]
+Mon héros à moi
+
+[program.1129520]
+Disparue 1
+
+[program.1129536]
+Sus au Dragon volant !
+
+[program.1129552]
+Pouvoir des Lentilles
+
+[program.1129568]
+La princesse captive
+
+[program.1129584]
+On fonce
+
+[program.1129592]
+Ixifosler
+
+[program.1129616]
+Vers l’ancienne base
+
+[program.1129640]
+Au grand temple !
+
+[program.1129664]
+Moi dans 10 ans
+
+[program.1129680]
+La marmotte insomniaque
+
+[program.1129704]
+Le Roi-Héros blessé 2
+
+[program.1129728]
+Vains regrets
+
+[program.1129744]
+Mystérieux
+
+[program.1129760]
+Disparue 2
+
+[program.1129776]
+Petit repos
+
+[program.1129792]
+Venue du futur 2
+
+[program.1129816]
+Gaz nocif 2
+
+[program.1129832]
+Gaz nocif 1
+
+[program.1129848]
+Trash Mountain
+
+[program.1129872]
+Infiltrer Calviola 3
+
+[program.1129896]
+Infiltrer Calviola 2
+
+[program.1129920]
+Désarroi
+
+[program.1129928]
+Un repas très attendu
+
+[program.1129944]
+Une pause
+
+[program.1129952]
+En être humain
+
+[program.1129968]
+Vers l’amont
+
+[program.1129984]
+La rivière en feu
+
+[program.1130000]
+Qui est-elle ?
+
+[program.1130016]
+Rossé par les mioches
+
+[program.1130040]
+Préparatifs de son repas
+
+[program.1130064]
+Un vrai homme
+
+[program.1130080]
+On s’inquiète pour lui
+
+[program.1130096]
+Par-delà Heat River
+
+[program.1130120]
+La ligne de Cherik
+
+[program.1130144]
+Vers la cérémonie
+
+[program.1130160]
+Aigrette, pourtant... 2
+
+[program.1130192]
+Deux qui prient pour deux
+
+[program.1130216]
+Aigrette, pourtant... 1
+
+[program.1130248]
+Cap sur le présent
+
+[program.1130264]
+Infiltrer Calviola 1
+
+[program.1130288]
+Lointain présent
+
+[program.1130304]
+Clé de bras 2
+
+[program.1130328]
+À Calviola
+
+[program.1130344]
+POISON
+
+[program.1130360]
+Clé de bras 1
+
+[program.1130384]
+Chez moi
+
+[program.1130400]
+Retrouvailles
+
+[program.1130416]
+Profitons-en
+
+[program.1130432]
+Ange pâle, déesse hâlée
+
+[program.1130464]
+Apprends-moi
+
+[program.1130488]
+Une terre à mon goût
+
+[program.1130504]
+Coudre
+
+[program.1130520]
+L’histoire des vaincus
+
+[program.1130536]
+Pays chaud
+
+[program.1130544]
+Moi dans 10 ans
+
+[program.1130560]
+Le crime du séducteur
+
+[program.1130576]
+Qui aime bien...
+
+[program.1130600]
+Numéros de gestion
+
+[program.1130624]
+Débordée
+
+[program.1130640]
+Cours, ris et poursuis
+
+[program.1130664]
+Le pays le plus « fort »
+
+[program.1130688]
+Rentrons ?
+
+[program.1130704]
+Éloge de Heidelberg
+
+[program.1130728]
+Un trésor dangereux
+
+[program.1130744]
+Trop de Lentilles
+
+[program.1130768]
+Indiscrétion
+
+[program.1130784]
+Le passé de {NAME:04 00 00 00}
+
+[program.1130800]
+Assaut sur Heidelberg 3
+
+[program.1130832]
+Assaut sur Heidelberg 2
+
+[program.1130864]
+Assaut sur Heidelberg 1
+
+[program.1130896]
+Cours et ris
+
+[program.1130912]
+Reçus par le Roi-Héros
+
+[program.1130928]
+Ça alors...
+
+[program.1130944]
+Atchi
+
+[program.1130960]
+Bataille de neige
+
+[program.1130976]
+Blanc éblouissant
+
+[program.1131000]
+Idylle à bord
+
+[program.1131016]
+Ce qu’a laissé Oberon
+
+[program.1131040]
+Qui veut un trésor
+
+[program.1131056]
+Brume
+
+[program.1131072]
+La vraie aventure
+
+[program.1131088]
+Lueur
+
+[program.1131096]
+Ouah
+
+[program.1131104]
+On repart
+
+[program.1131112]
+Mené en bateau
+
+[program.1131120]
+Trésor rêvé
+
+[program.1131128]
+Soupçon
+
+[program.1131136]
+Des fantômes ?
+
+[program.1131160]
+Prêt à détaler
+
+[program.1131176]
+Après le miracle
+
+[program.1131192]
+Urgence SOS
+
+[program.1131208]
+Le maître des mers
+
+[program.1131224]
+Toi, dans la brise
+
+[program.1131240]
+Balade à bord
+
+[program.1131256]
+Mission accomplie
+
+[program.1131272]
+Le complot
+
+[program.1131288]
+Beauté du cœur
+
+[program.1131304]
+Au fond du cœur
+
+[program.1131320]
+Legs
+
+[program.1131328]
+Quel trésor ?
+
+[program.1131344]
+Bon camarade
+
+[program.1131368]
+Vers la mine
+
+[program.1131376]
+Le mystère de la mine
+
+[program.1131392]
+Dans la brume
+
+[program.1131408]
+En quête du trésor
+
+[program.1131424]
+La demande du marchand 1
+
+[program.1131440]
+Long chemin
+
+[program.1131456]
+Neustadt
+
+[program.1131472]
+En croissance
+
+[program.1131488]
+La vie d’une fleur...
+
+[program.1131504]
+Lombric
+
+[program.1131520]
+Râteau-Man : la suite
+
+[program.1131536]
+La femme idéale
+
+[program.1131560]
+Le héros au naturel
+
+[program.1131576]
+Adieu, douce quiétude
+
+[program.1131600]
+Errants
+
+[program.1131616]
+Le village de papa
+
+[program.1131632]
+Le détour
+
+[program.1131648]
+À bord
+
+[program.1131656]
+Rencontres
+
+[program.1131672]
+Un éclat de miracle
+
+[program.1131688]
+Oh ? Goûter ?
+
+[program.1131712]
+Masque esseulé
+
+[program.1131728]
+La hache meurtrière
+
+[program.1131744]
+Futur grand héros
+
+[program.1131760]
+En avant, grand large !
+
+[program.1131784]
+Le cap
+
+[program.1131792]
+El-Ele-Ero
+
+[program.1131808]
+Bruits sur le Roi-Héros
+
+[program.1131824]
+Rôdeur masqué
+
+[program.1131840]
+Entrés !
+
+[program.1131856]
+Une autre voie !
+
+[program.1131880]
+Plan d’intrusion
+
+[program.1131896]
+Critique de l’Ordre
+
+[program.1131912]
+La femme aux miracles
+
+[program.1131928]
+Chevalier embarrassé
+
+[program.1131952]
+Le temple
+
+[program.1131960]
+Voici la Sainte
+
+[program.1131976]
+2 pendentifs
+
+[program.1132000]
+Beautés et foi
+
+[program.1132016]
+Enfant perdu
+
+[program.1132024]
+Sans toit
+
+[program.1132040]
+Aigrette
+
+[program.1132056]
+Objet perdu
+
+[program.1132080]
+Soin tendre
+
+[program.1132096]
+Rêve d’homme
+
+[program.1132112]
+L’Anneau du sorcier
+
+[program.1132144]
+Parfum d’aventure
+
+[program.1132160]
+Jalousie
+
+[program.1132168]
+Frérot Longues-Jambes
+
+[program.1132192]
+Déplacer un objet
+
+[program.1132208]
+La chute
+
+[program.1132216]
+À maman...
+
+[program.1132232]
+Râteau-Man
+
+[program.1132248]
+Futur héros
+
+[program.1132264]
+Grave-le dans ton cœur
+
+[program.1132280]
+L’aventure commence
+
+[program.1132296]
+Décidé à partir
+
+[program.1132312]
+Décidé
+
+[program.1132320]
+Ardeur
+
+[program.1132336]
+La grande évasion
+
+[program.1132352]
+D’où tu sais !?
+
+[program.1132376]
+Insouciant
+
+[program.1132384]
+Avec l’inconnu
+
+[program.1132400]
+Ça urge
+
+[program.1132416]
+Gros bâillement
+
+[program.1132432]
+Qui dort... dort
+
+[program.1132448]
+Marmotte
+
+[program.1132464]
+Talent caché
+
+[program.1132480]
+LOVE ! Binoclardes
+
+[program.1132504]
+L’affaire des autres
+
+[program.1132520]
+Un vœu sur une pièce
+
+[program.1132544]
+On parle de Mary
+
+[program.1132560]
+Les évadés
+
+[program.1132568]
+Voyage et cœur battant
+
+[program.1132584]
+Voler de ses ailes
+
+[program.1132592]
+L’homme au masque
+
+[program.1132608]
+La première aventure
+
+[program.1132624]
+Destin absolu
+
+[program.1132640]
+Amour de mère et gifle
+
+[program.1132656]
+Couvre-feu
+
+[program.1132664]
+Poudre d’escampette
+
+[program.1132688]
+Mieux vaut prévenir
+
+[program.1132704]
+Le piège
+
+[program.1132720]
+Orphelinat de luxe
+
+[program.1132744]
+Sur les pas de papa
+
+[program.1132768]
+Trésor antique
+
+[program.1132784]
+Tête en l’air
+
+[program.1132800]
+Râteau-Man : bande-annonce
+
+[program.1132824]
+Jeux d’aventure d’antan
+
+[program.1132848]
+Le repère
+
+[program.1132856]
+Explorer les ruines
+
+[program.1132872]
+Tout est prêt
+
+[program.1132888]
+Tournée de bonjours
+
+[program.1132904]
+Chère vieille ville
+
+[program.1132920]
+Bon retour !
+
+[program.1135888]
+Fin
+
+[program.1135896]
+Faille entre les dimensions
+
+[program.1135912]
+Final (bas)
+
+[program.1135928]
+Final (milieu, Harold)
+
+[program.1135960]
+Final (milieu, Nanaly)
+
+[program.1135992]
+Final (milieu, Judas)
+
+[program.1136024]
+Final (milieu, Loni)
+
+[program.1136048]
+Final (milieu, Kyle)
+
+[program.1136072]
+Final (milieu)
+
+[program.1136088]
+Final (haut)
+
+[program.1136104]
+Aquaveil (côte)
+
+[program.1136128]
+Aquaveil (forêt)
+
+[program.1136152]
+Aquaveil (plaine)
+
+[program.1136176]
+Phandaria (neige, forêt)
+
+[program.1136208]
+Phandaria (forêt)
+
+[program.1136232]
+Phandaria (neige)
+
+[program.1136256]
+Phandaria (plaine)
+
+[program.1136280]
+Calvalese (désert)
+
+[program.1136304]
+Calvalese (côte)
+
+[program.1136328]
+Calvalese (forêt)
+
+[program.1136352]
+Calvalese (plaine)
+
+[program.1136376]
+Fitzgald (brume)
+
+[program.1136400]
+Fitzgald (côte)
+
+[program.1136424]
+Fitzgald (forêt)
+
+[program.1136448]
+Fitzgald (plaine)
+
+[program.1136472]
+Seinegald (neige, forêt)
+
+[program.1136504]
+Seinegald (route)
+
+[program.1136528]
+Seinegald (pont de pierre)
+
+[program.1136552]
+Seinegald (pont de bois)
+
+[program.1136576]
+Seinegald (neige)
+
+[program.1136600]
+Seinegald (désert)
+
+[program.1136624]
+Seinegald (côte)
+
+[program.1136648]
+Seinegald (forêt)
+
+[program.1136672]
+Seinegald (plaine)
+
+[program.1136696]
+Catacombes
+
+[program.1136712]
+Futur (désert)
+
+[program.1136728]
+Futur (côte)
+
+[program.1136744]
+Futur (forêt)
+
+[program.1136760]
+Futur (plaine)
+
+[program.1136776]
+Dycroft (TOD)
+
+[program.1136800]
+TOD
+
+[program.1136808]
+Spiral Cave
+
+[program.1136832]
+Dycroft (guerre)
+
+[program.1136856]
+Réserve de matériel
+
+[program.1136872]
+Guerre (neige)
+
+[program.1136896]
+Guerre (côte)
+
+[program.1136920]
+Guerre (forêt)
+
+[program.1136936]
+Forêt vierge
+
+[program.1136952]
+Grotte du littoral
+
+[program.1136968]
+Présent altéré (lande)
+
+[program.1136992]
+Présent altéré (neige, sentier)
+
+[program.1137016]
+Présent altéré (neige, forêt)
+
+[program.1137040]
+Présent altéré (neige)
+
+[program.1137064]
+Présent altéré (désert)
+
+[program.1137088]
+Présent altéré (côte)
+
+[program.1137112]
+Présent altéré (forêt)
+
+[program.1137128]
+Présent altéré (plaine)
+
+[program.1137152]
+Dragon volant
+
+[program.1137160]
+Grand temple de Straylize
+
+[program.1137184]
+Ruines de la base terrestre
+
+[program.1137200]
+Calviola
+
+[program.1137216]
+Trash Mountain (énigme)
+
+[program.1137248]
+Trash Mountain (sous-sol)
+
+[program.1137280]
+Trash Mountain (surface)
+
+[program.1137312]
+Hope-Calvi (désert)
+
+[program.1137336]
+Hope-Calvi (côte)
+
+[program.1137360]
+Hope-Calvi (forêt)
+
+[program.1137384]
+Hope-Calvi (plaine)
+
+[program.1137408]
+Heat River
+
+[program.1137424]
+Cherik-Hope (désert)
+
+[program.1137456]
+Cherik-Hope (côte)
+
+[program.1137488]
+Cherik-Hope (forêt)
+
+[program.1137512]
+Cherik-Hope (plaine)
+
+[program.1137544]
+Château de Heidelberg
+
+[program.1137568]
+Snow-Heidel (neige, forêt)
+
+[program.1137600]
+Snow-Heidel (forêt)
+
+[program.1137632]
+Snow-Heidel (neige)
+
+[program.1137664]
+Snow-Heidel (plaine)
+
+[program.1137696]
+Grotte Oberon
+
+[program.1137712]
+Mine désaffectée Oberon
+
+[program.1137728]
+Lienea-Neu (route)
+
+[program.1137760]
+Lienea-Neu (brume)
+
+[program.1137784]
+Lienea-Neu (côte)
+
+[program.1137816]
+Lienea-Neu (forêt)
+
+[program.1137840]
+Lienea-Neu (plaine)
+
+[program.1137872]
+Navire : cabine
+
+[program.1137888]
+Navire : couloir
+
+[program.1137904]
+Ruines de Straylize
+
+[program.1137928]
+Vallée de Harmentz
+
+[program.1137952]
+Daril-Aig (route)
+
+[program.1137976]
+Daril-Aig (pont de pierre)
+
+[program.1138008]
+Daril-Aig (pont de bois)
+
+[program.1138040]
+Daril-Aig (désert)
+
+[program.1138064]
+Daril-Aig (côte)
+
+[program.1138088]
+Daril-Aig (forêt)
+
+[program.1138112]
+Daril-Aig (plaine)
+
+[program.1138136]
+Cres-Daril (route, nuit)
+
+[program.1138168]
+Cres-Daril (pont de pierre, nuit)
+
+[program.1138200]
+Cres-Daril (pont de bois, nuit)
+
+[program.1138232]
+Cres-Daril (côte, nuit)
+
+[program.1138264]
+Cres-Daril (forêt, nuit)
+
+[program.1138288]
+Cres-Daril (plaine, nuit)
+
+[program.1138320]
+Égouts
+
+[program.1138336]
+Ruines de Laguna
+
+[program.1138352]
+Cres-Daril (route)
+
+[program.1138376]
+Cres-Daril (pont de pierre)
+
+[program.1138408]
+Cres-Daril (pont de bois)
+
+[program.1138440]
+Cres-Daril (côte)
+
+[program.1138464]
+Cres-Daril (forêt)
+
+[program.1138488]
+Cres-Daril (plaine)
+
+[program.1138512]
+Numéro libre
+
+[program.1138912]
+Coût
+
+[program.1138920]
+, 
+
+[program.1138928]
+.
+
+[program.1139488]
+?
+
+[program.1139496]
++
+
+[program.1139576]
+ : plat prêt.
+
+[program.1139592]
+ : plat raté.
+
+[program.1139616]
+
+Maîtrise 
+
+[program.1139648]
+K.-O.
+
+[program.1139664]
+Lenteur
+
+[program.1139672]
+Gel
+
+[program.1139680]
+Paraly.
+
+[program.1139688]
+Faible
+
+[program.1139696]
+Poison
+
+[program.1139704]
+INT+
+
+[program.1139712]
+PRÉ+
+
+[program.1139720]
+DÉF+
+
+[program.1139728]
+ATQ+
+
+[program.1139736]
+Régén. HP
+
+[program.1139752]
+Niv. Ténèbres
+
+[program.1139768]
+Niv. Lumière
+
+[program.1139784]
+Niv. Vent
+
+[program.1139800]
+Niv. Feu
+
+[program.1139816]
+Niv. Eau
+
+[program.1139832]
+Niv. Terre
+
+[program.1139848]
+Niv. Chaîne
+
+[program.1139864]
+Niv. Magie
+
+[program.1139880]
+Niv. Artes
+
+[program.1139896]
+Niv. Attaque
+
+[program.1139912]
+HP 
+
+[program.1139944]
+ % rendus
+
+
+[program.1139952]
+TP 
+
+[program.1139960]
+, 
+
+[program.1139976]
+ : guérison
+
+
+[program.1139984]
+ : résistance
+
+
+[program.1139992]
+ en hausse
+
+
+[program.1140000]
+ en baisse
+
+
+[program.1140008]
+ : utilisé
+
+[program.1140928]
+Régén. SP
+
+[program.1140944]
+Déplacement
+
+[program.1140960]
+Réduc. dégâts
+
+[program.1140976]
+Nb gardes
+
+[program.1140992]
+Écon. TP
+
+[program.1141008]
+Intellect
+
+[program.1141016]
+Régén. TP
+
+[program.1141032]
+Esquive
+
+[program.1141040]
+Défense
+
+[program.1141048]
+Vit. sorts
+
+[program.1141064]
+Critique
+
+[program.1141080]
+Précision
+
+[program.1141088]
+Attaque
+
+[program.1141096]
+Gemme
+
+[program.1141104]
+Poupée
+
+[program.1141112]
+Emblème
+
+[program.1141120]
+Anneau
+
+[program.1141128]
+Jonc
+
+[program.1141136]
+Bottes
+
+[program.1141144]
+Mantelet
+
+[program.1141152]
+Cape
+
+[program.1141160]
+Bracelet
+
+[program.1141168]
+Gants
+
+[program.1141176]
+Gantelets
+
+[program.1141184]
+Dague
+
+[program.1141192]
+Coiffe
+
+[program.1141200]
+Chapeau
+
+[program.1141208]
+Casque
+
+[program.1141216]
+Habit
+
+[program.1141224]
+Armure
+
+[program.1141232]
+Bâton
+
+[program.1141240]
+Arc
+
+[program.1141248]
+Masse
+
+[program.1141256]
+Hallebarde
+
+[program.1141264]
+Hache
+
+[program.1141272]
+Lance
+
+[program.1141280]
+Sabre
+
+[program.1141288]
+Épée
+
+[program.1141296]
+Ustensiles
+
+[program.1141312]
+Fiole/Pot
+
+[program.1141320]
+Remèdes
+
+[program.1141328]
+Conso.
+
+[program.1141336]
+Vivres
+
+[program.1141344]
+Collection
+
+[program.1141352]
+Clés
+
+[program.1141360]
+Parure
+
+[program.1141368]
+Pieds
+
+[program.1141376]
+Manteau
+
+[program.1141384]
+Bras
+
+[program.1141392]
+Tête
+
+[program.1141400]
+Corps
+
+[program.1141408]
+Armes
+
+[program.1141424]
+Ténèbres
+
+[program.1141432]
+Lumière
+
+[program.1141440]
+Vent
+
+[program.1141448]
+Feu
+
+[program.1141456]
+Eau
+
+[program.1141464]
+Terre
+
+[program.1141472]
+Écon. SP
+
+[program.1141488]
+Chance
+
+[program.1141496]
+Déf
+
+[program.1141504]
+Atq
+
+[program.1141512]
+HP max
+
+[program.1141528]
+Ténèbres
+
+[program.1141536]
+Lumière
+
+[program.1141544]
+Vent
+
+[program.1141552]
+Feu
+
+[program.1141560]
+Eau
+
+[program.1141568]
+Terre
+
+[program.1141576]
+Monte en enchaînant
+
+[program.1141600]
+Monte en lançant des sorts
+
+[program.1141624]
+Monte en utilisant des artes
+
+[program.1141648]
+Monte par attaques normales
+
+[program.1141704]
+Chaîne
+
+[program.1141720]
+Magie
+
+[program.1141736]
+Artes
+
+[program.1141744]
+Attaque
+
+[program.1141840]
+Plan
+
+[program.1141848]
+À apprendre : 
+
+[program.1141976]
+Bonus de niveau
+
+[program.1142176]
+HP
+
+[program.1142184]
+TP
+
+[program.1142200]
+Sort
+
+[program.1142208]
+Partage d’EXP
+
+[program.1142240]
+ : monte par sorts et artes
+
+[program.1253712]
+Fermer le menu ?
+
+{09:35 00 00 00}Fermer  {09:36 00 00 00}Retour
+
+[program.1255712]
+Sauvegarde
+
+[program.1255720]
+État
+
+[program.1255736]
+Raffinage
+
+[program.1255752]
+Équipement
+
+[program.1255760]
+Objets
+
+[program.1255776]
+Options
+
+[program.1255792]
+Cuisine
+
+[program.1255800]
+Stratégie
+
+[program.1255808]
+Enchantement
+
+[program.1255824]
+Artes
+
+[program.1255832]
+Temps de jeu
+
+[program.1255848]
+Difficulté
+
+[program.1255864]
+Coups max
+
+[program.1255880]
+Rencontres
+
+[program.1255896]
+Lentilles
+
+[program.1255904]
+Gald
+
+[program.1255912]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+{09:37 00 00 00}Graphique
+{09:38 00 00 00}Trier
+
+[program.1255968]
+L’{04:05 00 00 00}aide des touches{04:07 00 00 00}, affichée après un moment
+sans action, s’affiche ou se masque avec
+la {04:05 00 00 00}touche SELECT{04:07 00 00 00}.
+
+[program.1256176]
+Aucun combattant en état de se battre.
+

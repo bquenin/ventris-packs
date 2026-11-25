@@ -1,0 +1,9 @@
+[00138.001]
+Hé, {NAME:01 00 00 00}. Tant que tu peux, grave bien ce paysage dans tes yeux.
+
+[00138.002]
+T’inquiète ! Pas besoin de ça, je ne l’oublierai pas.
+
+[00138.003]
+Fais ce que je dis... Un paysage banal comme ça... ça te soutient, le moment venu.
+

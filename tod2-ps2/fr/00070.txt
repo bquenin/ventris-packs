@@ -1,0 +1,15 @@
+[00070.001]
+Dis, {NAME:03 00 00 00}. C’est un peu tard pour demander, mais... t’as pas une amoureuse qui t’attend à l’Ordre ?
+
+[00070.002]
+Urgh ! Q-que dis-tu là, mon petit {NAME:01 00 00 00} ? Je suis entré dans l’Ordre pour devenir chevalier, pas dans un but aussi impur.
+
+[00070.003]
+Ah, c’est que ça~. Tu t’es pris râteau sur râteau, comme d’habitude♪
+
+[00070.004]
+Non ! Absolument pas ! C’est moi qui les ai plaquées, juré ! D’abord, elles n’ont qu’Atamoni à la bouche, un beau gars pareil à côté d’elles et pas un regard, je les invite, j’offre des fleurs, et elles refusent d’un air pincé ! Aucun goût en matière d’hommes, ou la tête trop dure, ah, ces bigotes... Ha !
+
+[00070.005]
+Pardon, {NAME:03 00 00 00}. J’aurais pas dû...
+

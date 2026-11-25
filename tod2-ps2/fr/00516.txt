@@ -1,0 +1,42 @@
+[00516.001]
+Allez, tous, à table !
+
+[00516.002]
+Youhouu~ ! Enfin !!
+
+[00516.003]
+Dans ces moments, justement, il faut bien se nourrir.
+
+[00516.004]
+Hé, {NAME:01 00 00 00} ! L’aîné d’abord, et c’est moi !!
+
+[00516.005]
+Tiens, tu ne connais pas l’expression « les dames d’abord » ?
+
+[00516.006]
+Une dame, tu parles. Ça, tu le diras quand tu en seras une !
+
+[00516.007]
+Et toi, bon à pas grand-chose, tu joues l’aîné quand ça t’arrange...
+
+[00516.008]
+Répète !
+
+[00516.009]
+Na !
+
+[00516.010]
+Arrêtez, tous les deux...
+
+[00516.011]
+Sans carottes ni poivrons. Oui. Cela suffit.
+
+[00516.012]
+Aaaaaaaah !!
+
+[00516.013]
+Aaaaaaaah !!
+
+[00516.014]
+Alors ? Vite, ou plus rien.
+

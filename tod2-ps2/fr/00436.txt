@@ -1,0 +1,12 @@
+[00436.001]
+{NAME:01 00 00 00}, allez, dors, maintenant.
+
+[00436.002]
+Quand je me dis « {NAME:02 00 00 00} est peut-être en danger quelque part », je n’arrive pas à dormir...
+
+[00436.003]
+Pfff... Je comprends, mais repose-toi comme il faut, sinon tu ne tiendras pas le moment venu.
+
+[00436.004]
+C’est vrai...
+

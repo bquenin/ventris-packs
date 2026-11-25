@@ -1,0 +1,6 @@
+[08620.001]
+Élémentaire de feu
+
+[08620.004]
+Élémentaire de terre
+

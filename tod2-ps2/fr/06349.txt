@@ -1,0 +1,198 @@
+[06349.001]
+Darilsheid : auberge
+
+[06349.002]
+Darilsheid, l’ancienne capitale
+
+[06349.003]
+Auberge
+
+[06349.005]
+Des meubles usés par le temps sont alignés.
+
+[06349.006]
+Auberge
+
+[06349.007]
+Bon voyage.
+
+[06349.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06349.009]
+Voulez-vous passer la nuit ?
+
+[06349.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06349.012]
+Reposez-vous bien.
+
+[06349.013]
+Bonjour.
+
+[06349.014]
+Vous n’avez pas assez d’argent.
+
+[06349.015]
+Au plaisir de vous revoir.
+
+[06349.020]
+Obtenu : {16:25 BA}.
+
+[06349.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06349.024]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06349.026]
+Il n’y a rien ici.
+
+[06349.027]
+Chef
+
+[06349.028]
+{16:35 D8} : tu en prépares ?
+
+[06349.029]
+Chef
+
+[06349.030]
+Veux-tu apprendre la recette : {16:35 D8} ?
+
+[06349.032]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06349.033]
+Chef
+
+[06349.034]
+Je vais t’apprendre la recette : {16:35 D8}.
+
+[06349.035]
+Chef
+
+[06349.036]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06349.037]
+Chef
+
+[06349.038]
+J’ai la recette : {16:35 D8}. Tu me l’achètes pour {0B:01 00 00 00}{14:35 D0}{0B:00 00 00 00} Gald ?
+
+[06349.040]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06349.041]
+Chef
+
+[06349.042]
+Tu n’as pas assez d’argent.
+
+[06349.043]
+Chef
+
+[06349.044]
+Je te vends la recette : {16:35 D8}.
+
+[06349.045]
+Chef
+
+[06349.046]
+Bah, tant pis.
+
+[06349.047]
+{16:25 DC}, {16:25 DE}, {16:25 E0}
+
+[06349.048]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.049]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.050]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.051]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.052]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}
+
+[06349.053]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.054]
+{16:25 DC}, {16:25 DE}, {16:25 E0},
+{16:25 E2}, {16:25 E4}
+
+[06349.055]
+Chef
+
+[06349.056]
+Pour préparer {16:35 D8}, il faut :
+{18:45 D4}
+
+[06349.057]
+Chef
+
+[06349.058]
+Mais tu as les ingrédients.
+
+[06349.059]
+Chef
+
+[06349.060]
+Si tu me les cèdes, je prépare : {16:35 D8}. Ça te va ?
+
+[06349.062]
+{03:00 00 00 00}　Oui
+　Non
+
+[06349.063]
+Chef
+
+[06349.064]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:35 D8}.
+
+[06349.065]
+Chef
+
+[06349.066]
+Dommage. C’est vraiment délicieux...
+
+[06349.067]
+Chef
+
+[06349.068]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06349.069]
+Chef
+
+[06349.070]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06349.071]
+Chef
+
+[06349.072]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06349.074]
+Recette ramassée : {16:35 D8}.
+
+[06349.076]
+Recette apprise : {16:35 EC}.
+

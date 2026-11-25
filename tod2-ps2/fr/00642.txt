@@ -1,0 +1,15 @@
+[00642.001]
+Dis, {NAME:06 00 00 00}. Tu es un génie, hein ? Alors fais de moi l’homme le plus adulé du monde. Que toutes les filles crient « {NAME:03 00 00 00}, quel homme~~★ Kyaaa~~★ », ce genre-là. Tu peux, hein ? Hein ? Hein ?
+
+[00642.002]
+Oh, ça, rien de plus simple.
+
+[00642.003]
+Ouaiiis ! Alors vas-y, {NAME:06 00 00 00}, tout de suite !
+
+[00642.004]
+Bon, il faut commencer par remplacer la cervelle. Ensuite, refonte complète des pièces du visage... non, autant tout changer au-dessus du cou, ce sera plus rapide... Ah, tiens, il me reste des pièces du HRX-2.
+
+[00642.005]
+Laisse... J’ai eu tort...
+

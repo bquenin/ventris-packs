@@ -1,0 +1,9 @@
+[00766.001]
+Dis, {NAME:06 00 00 00}. Tu as pris exprès un nom d’homme pour berner les gens du futur, c’est ça ?
+
+[00766.002]
+Mmh, il y a vingt-trois autres raisons, mais disons que celle que même toi peux comprendre, c’est à peu près ça.
+
+[00766.003]
+Même celle-là me dépasse...
+

@@ -1,0 +1,118 @@
+[06789.001]
+Navire de ligne
+
+[06789.002]
+Navire de ligne
+
+[06789.004]
+Ouah... c’est incroyable ! À part la mer, on ne voit rieeen du tout !
+
+[06789.006]
+Et le vent qui souffle, fuiii, fuiii... on se croirait en train de voler !
+
+[06789.008]
+Tu vois ? C’est beau, hein ?
+
+[06789.010]
+Mais ça m’étonne. Je croyais que tu aurais peur de ce genre d’endroit, {NAME:02 00 00 00}.
+
+[06789.012]
+Pourquoi ? Avec la brise de mer, on est si bien.
+
+[06789.014]
+Non, je ne sais pas, je te voyais bien dire « J’ai peuuur ! » dès qu’on monte un peu haut.
+
+[06789.016]
+Pff ! Ahaha ! C’était quoi, ce « J’ai peuuur ! » ? Tu m’imitais ? Ça ne me ressemble pas du tout !
+
+[06789.018]
+T-tu n’es pas obligée de rire !
+
+[06789.020]
+P-pardon, {NAME:01 00 00 00}... Mais « J’ai peuuur ! »... Ahahaha !
+
+[06789.022]
+... C’était si bizarre que ça ? H-hé hé hé...
+
+[06789.024]
+... Mais ça me rassure, moi. Toi aussi, {NAME:02 00 00 00}, tu ris comme ça.
+
+[06789.026]
+Évidemment. Tu es drôle, {NAME:01 00 00 00} !
+
+[06789.028]
+C’est que, quand on s’est rencontrés, j’avais beau dire n’importe quoi, tu ne changeais pas d’expression.
+
+[06789.030]
+Franchement, je me suis dit : « Elle n’est pas commode, cette fille. »
+
+[06789.032]
+... À ce moment-là, je n’avais qu’une idée en tête : « Il faut que je trouve un héros »...
+
+[06789.034]
+Ah, oui... C’est vrai, maintenant que tu le dis.
+
+[06789.036]
+... Dis, {NAME:01 00 00 00} ? Pourquoi as-tu voulu devenir un héros ?
+
+[06789.038]
+Parce que je veux être comme papa, je crois.
+
+[06789.040]
+Papa était grand, fort, mais gentil et chaleureux aussi... Il avait toujours le sourire.
+
+[06789.042]
+Enfin, il est parti en voyage quand j’étais petit et il n’est jamais revenu, alors je ne m’en souviens pas bien.
+
+[06789.044]
+Mais moi aussi, un jour, je veux être comme papa. ... Un vrai héros, comme lui.
+
+[06789.046]
+... Un vrai héros.
+
+[06789.048]
+Au fait, {NAME:02 00 00 00}, pourquoi tu cherches un héros, toi ?
+
+[06789.050]
+... La raison pour laquelle... pour laquelle je cherche un héros...
+
+[06789.052]
+Q-qu’est-ce que... !?
+
+[06789.053]
+Bon voyage.
+
+[06789.054]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06789.055]
+Voulez-vous passer la nuit ?
+
+[06789.057]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06789.058]
+Reposez-vous bien.
+
+[06789.059]
+Bonjour.
+
+[06789.060]
+Vous n’avez pas assez d’argent.
+
+[06789.061]
+Au plaisir de vous revoir.
+
+[06789.066]
+Obtenu : {16:25 C6}.
+
+[06789.068]
+Obtenu : {08:FF FF FF FF}.
+
+[06789.070]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06789.072]
+Il n’y a rien ici.
+

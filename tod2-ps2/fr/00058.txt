@@ -1,0 +1,15 @@
+[00058.001]
+Je fais un tour en ville, et après on rentre à l’orphelinat.
+
+[00058.002]
+Pourquoi tu ne rentres pas tout droit ? Maman sera sûrement contente de te voir, {NAME:03 00 00 00}.
+
+[00058.003]
+Moi aussi, j’ai hâte de rentrer. Mais au moment d’y aller, ça me gêne, va savoir. Et j’ai des gens à saluer.
+
+[00058.004]
+Hmm... Ah bon.
+
+[00058.005]
+Pars un peu, tu verras.
+

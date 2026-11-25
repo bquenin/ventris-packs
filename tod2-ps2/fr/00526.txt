@@ -1,0 +1,18 @@
+[00526.001]
+Dis, {NAME:01 00 00 00}... si, simple supposition, toi et moi étions nés sans rien savoir de ce qui a fait de ce monde ce qu’il est... aurions-nous pu être heureux ?
+
+[00526.002]
+... Qu’est-ce que tu racontes, {NAME:02 00 00 00} ? Ça ne peut pas...
+
+[00526.003]
+C’est que, sans mission, sans rien de tout ça, on n’aurait ni tourments ni souffrances...
+
+[00526.004]
+Mais... dans ce cas, toi et moi, on ne se serait sûrement jamais rencontrés, {NAME:02 00 00 00}. C’est parce que tu cherchais un héros qu’on s’est rencontrés, non ?
+
+[00526.005]
+Oui... ça, je le sais. Mais............ Pardon, j’ai dit quelque chose d’étrange. Oublie, {NAME:01 00 00 00}.
+
+[00526.006]
+Reala...
+

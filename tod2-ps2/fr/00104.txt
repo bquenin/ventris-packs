@@ -1,0 +1,15 @@
+[00104.001]
+Dis, {NAME:03 00 00 00}. T’as déjà lancé une pièce dans la fontaine de Cresta ?
+
+[00104.002]
+Oui. Lancée de dos, si elle tombe dedans, l’amour te sourit, c’est ça ? J’en ai lancé des tas. L’amour pour une pièce, c’est donné.
+
+[00104.003]
+Et alors ? Ça a marché ?
+
+[00104.004]
+Si ça marchait, je voyagerais pas avec toi, je vivrais avec une jolie petite femme ! ........ Si seulement j’avais mieux joué, cette fois-là... uuh...
+
+[00104.005]
+Aïe~, j’ai touché un point sensible.
+

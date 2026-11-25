@@ -1,0 +1,15 @@
+[00746.001]
+Hé hé ! Il est venu, finalement. Dymlos♪
+
+[00746.002]
+Dis donc, toi. Tu l’as traité de « lâche », et tu parles comme si tu avais toujours cru que ça finirait ainsi.
+
+[00746.003]
+J’y croyais. S’il est un vrai héros, il ne pouvait que venir, non ?
+
+[00746.004]
+... Une raison sans le moindre fondement.
+
+[00746.005]
+Mais Dymlos est venu... Ta droiture l’a touché, {NAME:01 00 00 00}.
+

@@ -1,0 +1,18 @@
+[00430.001]
+Un mystère de plus autour de {NAME:04 00 00 00}.
+
+[00430.002]
+Vraiment, qui peut-il bien être ?
+
+[00430.003]
+Sous ce masque, c’est peut-être le prince d’un pays...
+
+[00430.004]
+Sous ce masque, peut-être le dernier d’un peuple antique...
+
+[00430.005]
+Non, même sous ce masque, c’est peut-être...
+
+[00430.006]
+Oubliez ce masque, à la fin !
+

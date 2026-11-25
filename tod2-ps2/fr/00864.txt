@@ -1,0 +1,30 @@
+[00864.001]
+Dis, {NAME:06 00 00 00}, tu es un génie de la science, non ? Alors, dans un cas pareil, que faut-il...
+
+[00864.002]
+Aucune idée. Je ne suis pas toi.
+
+[00864.003]
+Expédie pas ça en une phrase.
+
+[00864.004]
+Je veux bien répondre, mais ça ne t’avancera sûrement pas.
+
+[00864.005]
+Bah, dis toujours. Qu’on l’entende, l’avis de Sa Majesté le génie.
+
+[00864.006]
+Bon. Moi, sans hésiter, je terrasse la déesse. Je suis venue me mesurer à elle, à la base.
+
+[00864.007]
+Mais alors, et {NAME:02 00 00 00}, elle devient quoi !
+
+[00864.008]
+Alors je prends {NAME:02 00 00 00} et je laisse tomber le monde. Ce que devient le monde après ma mort, je m’en fiche~.
+
+[00864.009]
+Haa~... J’ai été bête de te demander.
+
+[00864.010]
+Je l’avais dit : « ça ne t’avancera pas ». Ça, personne ne le décide pour toi : on le décide soi-même.
+

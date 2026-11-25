@@ -1,0 +1,31 @@
+[06281.4788]
+Garm
+
+[06281.4795]
+Wolf
+
+[06281.4804]
+Grrr
+
+[06281.4811]
+Dorm
+
+[06281.4818]
+Forêt vierge : nom de la bête
+aux crocs inflammables ?
+
+[06281.4882]
+Oui !
+{NAME:05 00 00 00} nous a bien aidés, là
+
+[06281.4919]
+Pas tout à fait...
+
+[06281.4940]
+Assez mignon, tiens...
+
+[06281.4965]
+Si vif,
+si dur à attraper,
+et tu as oublié~ ?
+

@@ -1,0 +1,12 @@
+[00110.001]
+Alors ! Elle est comment, la soupe spéciale du grand {NAME:03 00 00 00} ?
+
+[00110.002]
+... Mm, c’est bon ! Je ne savais pas que tu avais ce talent, {NAME:03 00 00 00}. Tu as appris ça où, et quand ?
+
+[00110.003]
+Eh bien, vois-tu, après l’orphelinat, je me suis mis à vivre seul, sans petite amie, à cuisiner jour après jour rien que pour moi...... Je ratais toutes mes dragues... et il n’y a que ma cuisine qui s’améliorait...... snif...
+
+[00110.004]
+Beurk... ça coule dedans...
+

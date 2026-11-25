@@ -1,0 +1,441 @@
+[06565.001]
+Base de l’armée terrestre
+
+[06565.002]
+Base de l’armée terrestre
+
+[06565.003]
+Base de l’armée terrestre
+
+[06565.004]
+Portier
+
+[06565.005]
+Vous sortez ?
+
+[06565.007]
+Oui
+Non
+
+[06565.008]
+Portier
+
+[06565.009]
+Passez.
+
+[06565.010]
+Spécialiste
+
+[06565.011]
+Un canon fait de rebuts, c’est toujours mieux que pas de canon du tout.
+
+[06565.012]
+Spécialiste
+
+[06565.013]
+Cela dit, avec un équipement pareil, jusqu’à quand tiendrons-nous...
+
+[06565.014]
+Spécialiste
+
+[06565.015]
+Faire l’entretien en plein blizzard, ce n’est pas une mince affaire.
+
+[06565.016]
+Spécialiste
+
+[06565.017]
+Mais c’est le métier. On ne va pas se plaindre.
+
+[06565.018]
+Spécialiste
+
+[06565.019]
+Le général de brigade Igtenos est mon supérieur. Il est taciturne et donne une impression de froideur, mais au fond, c’est quelqu’un de bien.
+
+[06565.021]
+Et que vaut-il, au juste ?
+
+[06565.022]
+Spécialiste
+
+[06565.023]
+Haha, il a été nommé général avant quarante ans, vous savez ? Cela se passe de commentaire.
+
+[06565.024]
+Spécialiste
+
+[06565.025]
+L’armée terrestre comme l’armée céleste manquent cruellement de monde. Des gens qui servent depuis plus de dix ans, il n’y en a presque pas, je crois.
+
+[06565.027]
+Et Clemente ?
+
+[06565.028]
+Spécialiste
+
+[06565.029]
+Haha, lui, c’est le doyen, sans discussion. Depuis combien d’années est-il soldat, je me le demande.
+
+[06565.030]
+Spécialiste
+
+[06565.031]
+Regarde-moi ça ! Un lanceur d’un nouveau type, qui tire des carreaux de 7,92 mm x 57 à la poudre !
+
+[06565.032]
+Spécialiste
+
+[06565.033]
+On ne croirait jamais que c’est une arme faite de rebuts ramassés par-ci par-là, hein !?
+
+[06565.034]
+Spécialiste
+
+[06565.035]
+Cette beauté ! Cette puissance ! Aah, c’est ma-gni-fique !
+
+[06565.037]
+Des mordus d’armement, il y en a à toutes les époques, hein...
+
+[06565.038]
+Spécialiste
+
+[06565.039]
+Haa... Vivement que je puisse faire feu avec ça.
+
+[06565.040]
+Spécialiste
+
+[06565.041]
+Mais moi, je n’ai jamais vraiment tiré sur quelqu’un.
+
+[06565.042]
+Spécialiste
+
+[06565.043]
+Ça, c’est un lanceur d’un nouveau type, qui tire des carreaux de 7,92 mm x 57 à la poudre.
+
+[06565.044]
+Spécialiste
+
+[06565.045]
+J’ai demandé qu’on s’en serve pour l’assaut de Belcrant, mais hélas, on m’a dit non.
+
+[06565.046]
+Spécialiste
+
+[06565.047]
+Il paraît qu’on a mis au point une méthode d’attaque incroyable, les « sorts » ou je ne sais quoi, et qu’on n’a plus besoin d’armes à feu.
+
+[06565.048]
+Spécialiste
+
+[06565.049]
+Autrefois, il y avait des montagnes d’armes bien plus terribles. Un seul obus pouvait raser tout un quartier.
+
+[06565.050]
+Spécialiste
+
+[06565.051]
+Mais on a tiré tous les obus, et faute de pièces pour réparer ce qui casse, presque tout a été mis au rebut.
+
+[06565.052]
+Spécialiste
+
+[06565.053]
+La technique militaire va-t-elle dépérir comme ça ?
+
+[06565.054]
+Officier supérieur
+
+[06565.055]
+Ces temps-ci, ceux qui critiquent ouvertement notre armée se multiplient.
+
+[06565.056]
+Officier supérieur
+
+[06565.057]
+Civils ou militaires, ils n’ont qu’à obéir aux ordres en silence !
+
+[06565.058]
+Officier supérieur
+
+[06565.059]
+Vouez-vous corps et âme à l’armée terrestre ! Alors la victoire sera nôtre !
+
+[06565.060]
+Officier supérieur
+
+[06565.061]
+Dans les combats livrés jusqu’ici, j’ai perdu plus de cent hommes.
+
+[06565.062]
+Officier supérieur
+
+[06565.063]
+Et alors ? La guerre ne va pas sans sacrifices. Pour la victoire, il faut bien en passer par là.
+
+[06565.064]
+Officier supérieur
+
+[06565.065]
+Mon fils a donné sa vie pour l’armée terrestre : il est mort.
+
+[06565.066]
+Officier supérieur
+
+[06565.067]
+Comme père et comme soldat, il n’est rien dont je sois plus fier.
+
+[06565.068]
+Officier
+
+[06565.069]
+Au dernier combat, mon unité a eu beaucoup de morts et de blessés. C’est le fruit de mes erreurs de commandement.
+
+[06565.070]
+Officier
+
+[06565.071]
+Tout est de ma faute. Je compte me soumettre sans discuter au jugement de la cour martiale.
+
+[06565.072]
+Officier
+
+[06565.073]
+J’ai compris combien il est dur d’avoir la vie des autres entre ses mains.
+
+[06565.074]
+Officier
+
+[06565.075]
+Le commandant Litler et le général de division Dymlos portent ce fardeau. Ces gens-là sont vraiment admirables...
+
+[06565.076]
+Officier
+
+[06565.077]
+Naguère, une erreur de jugement m’a coûté beaucoup d’hommes. Je suis passé en cour martiale, mais...
+
+[06565.078]
+Officier
+
+[06565.079]
+On a passé l’éponge, et à la place, on m’a nommé chef de section pour l’assaut de Dycroft...
+
+[06565.080]
+Officier
+
+[06565.081]
+M’a-t-on donné une chance de me racheter, ou m’a-t-on dit d’aller mourir... Je crois que c’est la première réponse.
+
+[06565.082]
+Officier
+
+[06565.083]
+Je n’échouerai plus jamais. La vie de mes hommes, je la protégerai.
+
+[06565.085]
+Ouaf
+
+[06565.086]
+Troupier A
+
+[06565.087]
+Hey, brother ! Tu connais l’histoire de ceux qu’on appelle les « Ailes Noires » ?
+
+[06565.088]
+Troupier B
+
+[06565.089]
+Ah ! Bien sûr ! Une unité spéciale qui agit de sa propre autorité, c’est ça !?
+
+[06565.090]
+Troupier A
+
+[06565.091]
+Ses membres, c’est sûrement l’élite de l’armée ! J’aimerais trop faire leur connaissance !
+
+[06565.092]
+Troupier B
+
+[06565.093]
+Les « Ailes Noires », hein ! J’aimerais bien les croiser sur le champ de bataille !
+
+[06565.094]
+Troupier A
+
+[06565.095]
+Tu l’as dit ! S’ils couvraient nos arrières, on serait tranquilles !
+
+[06565.096]
+Troupier B
+
+[06565.097]
+Tu as entendu ! Les gars des « Ailes Noires » auraient capturé un général de l’armée céleste !
+
+[06565.098]
+Troupier A
+
+[06565.099]
+C’est vrai !? Ça, c’est la classe absolue ! Décidément, les « Ailes Noires », ce n’est pas n’importe qui.
+
+[06565.100]
+Troupier B
+
+[06565.101]
+Il paraît que les « Ailes Noires » ne sont que trois !
+
+[06565.102]
+Troupier A
+
+[06565.103]
+Sérieux ! Un tel palmarès à trois seulement ! Je crois que je tombe amoureux des « Ailes Noires » !
+
+[06565.105]
+Dis, {NAME:06 00 00 00}. Tu pourrais nous dire où on va, maintenant, non ?
+
+[06565.107]
+Au « Dépôt de matériel », à l’est d’ici. Belcrant lui a tiré dessus, alors il ne sert plus.
+
+[06565.109]
+Et on va faire quoi, là-bas ?
+
+[06565.111]
+Je l’ai dit, non ? Fouiller les poubelles.
+
+[06565.113]
+Trouver un moyen de transport, d’accord, mais un aéronef entier ne va pas traîner par terre, hein ? Alors on ramasse les pièces utilisables et on le construit.
+
+[06565.115]
+Bref, taisez-vous et suivez-moi ! Une fois les pièces réunies, c’est fait en deux temps trois mouvements.
+
+[06565.117]
+Te suivre, d’accord, mais nous, on n’a pas de carte de cette époque, tu sais ?
+
+[06565.119]
+L’est, tu dis, mais on va de quel côté ?
+
+[06565.121]
+Je m’en doutais. Tiens, une carte ! Avec ça, vous vous y retrouverez, non ?
+
+[06565.123]
+{NAME:06 00 00 00} obtient le titre « {08:29 08 00 00} ».
+
+[06565.125]
+Bon, moi, je m’attaque tout de suite à la fabrication de la machine : le rapport au commandant Litler, je vous le laisse.
+
+[06565.127]
+Hein !? A-attends un peu !
+
+[06565.129]
+Vole~, vole~, fusée~♪ Crache ton carburant, lance tes flammes~♪
+
+[06565.131]
+... Dis, on peut vraiment lui confier ça, à elle ?
+
+[06565.133]
+Va savoir...
+
+[06565.135]
+E-en tout cas, allons voir le commandant.
+
+[06565.137]
+{NAME:06 00 00 00} obtient le titre « {08:72 08 00 00} ».
+
+[06565.139]
+... On dirait que ce n’est pas le moment d’entrer.
+
+[06565.140]
+Karell
+
+[06565.141]
+S’impatienter ici ne sert à rien. De toute façon, tant que la machine de {NAME:06 00 00 00} n’est pas prête, nous ne pouvons rien entreprendre.
+
+[06565.142]
+Dymlos
+
+[06565.143]
+Tout de même, {NAME:06 00 00 00} tarde. Où est-elle encore allée flâner...
+
+[06565.145]
+... Entrons, tout le monde.
+
+[06565.147]
+Non, ce n’est pas possible, ça... ! Abandonner une camarade, il ne faut jamais !
+
+[06565.149]
+C’est bien pour ça qu’il a choisi de ne pas la sauver.
+
+[06565.151]
+Hé là, c’est contradictoire. Si on ne doit pas abandonner ses camarades, pourquoi il ne va pas la sauver ?
+
+[06565.153]
+Dis, à ton avis, ça pèse combien, la vie d’un homme ?
+
+[06565.155]
+Hein ?
+
+[06565.157]
+Dymlos répond de tous les soldats de l’armée terrestre. Autrement dit, c’est le poids de toutes ces vies qu’il porte.
+
+[06565.159]
+... Autrement dit, entre la seule vie d’Atwight et tous les soldats de l’armée terrestre, Dymlos a fait passer ces derniers d’abord ?
+
+[06565.161]
+C’est ça. Et une fois sa décision prise, il a le devoir de s’y tenir.
+
+[06565.163]
+Voilà ce que veut dire son titre de « général de division ».
+
+[06565.165]
+........
+................
+
+[06565.167]
+Au fait, vous avez une minute ? Moi, il faut que je m’attaque maintenant aux dernières finitions des Swordians.
+
+[06565.169]
+Et vous savez, au fond du Dépôt de matériel où on est allés l’autre jour, il y avait une porte qui ne s’ouvrait pas ? J’ai quelque chose à faire derrière.
+
+[06565.171]
+Alors vous ne m’emmèneriez pas encore une fois au Dépôt de matériel ?
+
+[06565.172]
+Bon voyage.
+
+[06565.173]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06565.174]
+Voulez-vous passer la nuit ?
+
+[06565.176]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06565.177]
+Reposez-vous bien.
+
+[06565.178]
+Bonjour.
+
+[06565.179]
+Vous n’avez pas assez d’argent.
+
+[06565.180]
+Au plaisir de vous revoir.
+
+[06565.185]
+Obtenu : {16:26 4E}.
+
+[06565.187]
+Obtenu : {08:FF FF FF FF}.
+
+[06565.189]
+Trouvé : {16:26 56}, mais vous n’avez plus de place.
+
+[06565.191]
+Il n’y a rien ici.
+

@@ -1,0 +1,133 @@
+[06799.25456]
+ et les siens
+obtiennent «
+
+[06799.25472]
+ ».
+
+[06799.25784]
+Objets
+
+[06799.25800]
+Access.
+
+[06799.25808]
+Armures
+
+[06799.25816]
+Armes
+
+[06799.25824]
+Conso.
+
+[06799.25832]
+Nouveau
+
+[06799.25840]
+Bottes
+
+[06799.25848]
+Manteau
+
+[06799.25856]
+Parure
+
+[06799.25864]
+Jonc
+
+[06799.25872]
+Dague
+
+[06799.25880]
+Gants
+
+[06799.25888]
+Coiffe
+
+[06799.25896]
+Casque
+
+[06799.25904]
+Habit
+
+[06799.25912]
+Armure
+
+[06799.25920]
+Arc
+
+[06799.25928]
+Bâton
+
+[06799.25936]
+2 mains
+
+[06799.25944]
+Épée
+
+[06799.25952]
+Clés
+
+[06799.25960]
+Vivres
+
+[06799.25968]
+Ustensiles
+
+[06799.25984]
+{09:35 00 00 00}OK
+{09:36 00 00 00}Retour
+
+[06799.26088]
+Fréquent
+
+[06799.26104]
+Rare
+
+[06799.26128]
+Normal
+
+[06799.26136]
+Utiliser ?
+
+{09:35 00 00 00}Utiliser  {09:36 00 00 00}Annuler
+
+[06799.26176]
+Jeter ?
+
+{09:35 00 00 00}Jeter  {09:36 00 00 00}Annuler
+
+[06799.26240]
+{09:35 00 00 00}Utiliser
+{09:36 00 00 00}Retour
+{09:37 00 00 00}Détails
+{09:38 00 00 00}Jeter
+
+[06799.26288]
+{09:36 00 00 00}Retour
+
+[06799.26304]
+ : impossible à jeter.
+
+[06799.26392]
+Tout le monde a gagné en charme.
+
+[06799.26424]
+Une aura sacrée semble vous envelopper.
+
+[06799.26464]
+Une aura maléfique semble vous envelopper.
+
+[06799.26504]
+ surgit.
+
+[06799.26520]
+ surgit
+... mais vous ne pouvez plus en porter.
+
+[06799.26568]
+ disparaît.
+
+[06799.26592]
+Veuillez patienter.
+

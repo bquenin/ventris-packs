@@ -1,0 +1,43 @@
+[06620.001]
+Catacombes
+
+[06620.002]
+Catacombes
+
+[06620.003]
+Bon voyage.
+
+[06620.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06620.005]
+Voulez-vous passer la nuit ?
+
+[06620.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06620.008]
+Reposez-vous bien.
+
+[06620.009]
+Bonjour.
+
+[06620.010]
+Vous n’avez pas assez d’argent.
+
+[06620.011]
+Au plaisir de vous revoir.
+
+[06620.016]
+Obtenu : {16:26 FE}.
+
+[06620.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06620.020]
+Trouvé : {16:27 06}, mais vous n’avez plus de place.
+
+[06620.022]
+Il n’y a rien ici.
+

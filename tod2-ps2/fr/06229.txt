@@ -1,0 +1,49 @@
+[06229.4788]
+Pescatore
+
+[06229.4801]
+Spaghettis
+
+[06229.4812]
+Gratin
+
+[06229.4821]
+Sashimi
+
+[06229.4830]
+Sandwich
+
+[06229.4843]
+Punch fruits
+
+[06229.4858]
+Comment s’appelle ce plat ?
+
+[06229.4887]
+Oui !
+Des pâtes de fête
+
+[06229.4915]
+Presque.
+C’est bien un plat
+de pâtes, pourtant...
+
+[06229.4968]
+Non.
+Il y a aussi des crevettes
+
+[06229.5000]
+Non.
+
+[06229.5007]
+... Pas de
+pain autour
+
+[06229.5035]
+Un dessert ?
+Ça ?
+
+[06229.5055]
+Apprends
+le nom des plats
+

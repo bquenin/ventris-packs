@@ -1,0 +1,151 @@
+[06615.001]
+Aquaveil : bazar Moryu
+
+[06615.002]
+Aquaveil
+
+[06615.003]
+Bazar Moryu
+
+[06615.005]
+Des articles rares, comme on n’en a jamais vu, sont alignés.
+
+[06615.007]
+Une armure d’une forme curieuse est exposée.
+
+[06615.009]
+Des coussins sont posés sur le sol.
+
+[06615.010]
+Maître de Moryu
+
+[06615.011]
+Bienvenue au bazar Moryu ! Chez nous, ce n’est pas une boutique comme on en voit partout : on est un cran, deux crans au-dessus !
+
+[06615.012]
+Client
+
+[06615.013]
+J’ai acheté et essayé aussitôt : la première fois, l’armure a repoussé le sabre ; la seconde, le sabre a traversé l’armure.
+
+[06615.014]
+Client
+
+[06615.015]
+Du coup, impossible de les rendre : le patron de la boutique n’avait pas menti.
+
+[06615.016]
+Client
+
+[06615.017]
+Quand je suis venu faire mes achats, le patron d’ici m’a sorti ça :
+
+[06615.018]
+Client
+
+[06615.019]
+ce sabre-ci transperce toutes les armures, et cette armure-là repousse tous les sabres.
+
+[06615.020]
+Client
+
+[06615.021]
+Du tac au tac, je lui ai dit : et si on frappe l’armure avec le sabre, il se passe quoi ?
+
+[06615.022]
+Client
+
+[06615.023]
+Devine ce qu’il m’a répondu, le patron ?
+
+[06615.025]
+... Aucune idée. Il a dit quoi ?
+
+[06615.026]
+Client
+
+[06615.027]
+« La surprise, c’est pour après l’achat. » La blague m’a eu : je les ai achetés, tous les deux.
+
+[06615.028]
+Objets : Paix du foyer
+
+[06615.029]
+Voyageurs d’ailleurs, vous pouvez payer en Gald.
+
+[06615.030]
+Merci beaucoup.
+
+[06615.031]
+À bientôt.
+
+[06615.032]
+Objets : Paix du foyer
+
+[06615.033]
+Armes : Un contre mille
+
+[06615.034]
+Bienvenue. Ici, nous vendons des armes.
+
+[06615.035]
+Merci beaucoup.
+
+[06615.036]
+Revenez nous voir.
+
+[06615.037]
+Armes : Un contre mille
+
+[06615.038]
+Armures : D’un revers de manche
+
+[06615.039]
+Bienvenue. Ici, nous vendons des armures.
+
+[06615.040]
+Merci beaucoup.
+
+[06615.041]
+Revenez nous voir.
+
+[06615.042]
+Armures : D’un revers de manche
+
+[06615.043]
+Bon voyage.
+
+[06615.044]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06615.045]
+Voulez-vous passer la nuit ?
+
+[06615.047]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06615.048]
+Reposez-vous bien.
+
+[06615.049]
+Bonjour.
+
+[06615.050]
+Vous n’avez pas assez d’argent.
+
+[06615.051]
+Au plaisir de vous revoir.
+
+[06615.056]
+Obtenu : {16:25 BA}.
+
+[06615.058]
+Obtenu : {08:FF FF FF FF}.
+
+[06615.060]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06615.062]
+Il n’y a rien ici.
+

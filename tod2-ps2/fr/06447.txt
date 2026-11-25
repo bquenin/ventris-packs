@@ -1,0 +1,241 @@
+[06447.001]
+Heidelberg : musée « Les troubles de l’Œil de Dieu »
+
+[06447.002]
+Heidelberg
+
+[06447.003]
+Musée « Les troubles de l’Œil de Dieu »
+
+[06447.005]
+« Le Swordian Dymlos »
+
+[06447.007]
+Swordian de l’élément feu, porté par Stahn Aileron.
+
+[06447.009]
+« Le Swordian Atwight »
+
+[06447.011]
+Swordian de l’élément eau, porté par Rutee Katrea.
+
+[06447.013]
+« Le Swordian Clemente »
+
+[06447.015]
+Swordian de l’élément foudre, porté par Philia Felice.
+
+[06447.017]
+« Le Swordian Igtenos »
+
+[06447.019]
+Swordian de l’élément vent, porté par Woodrow Kelvin.
+
+[06447.021]
+« Les Quatre Héros : Stahn Aileron »
+
+[06447.023]
+Jeune homme venu d’un village de paysans, qui mit fin aux troubles, le Swordian Dymlos à la main. 19 ans au moment des troubles.
+
+[06447.025]
+Chef des Quatre Héros, il se battit en première ligne et rendit la paix au monde.
+
+[06447.027]
+« Les Quatre Héros : Rutee Katrea »
+
+[06447.029]
+Maîtresse du Swordian Atwight. De chasseuse de Lentilles, elle devint une héroïne qui sauva le monde. 18 ans au moment des troubles.
+
+[06447.031]
+Après les troubles, elle regagna Cresta, son pays, reprit la direction de l’orphelinat et rendit de grands services à la société.
+
+[06447.033]
+« Les Quatre Héros : Philia Felice »
+
+[06447.035]
+Prêtresse du temple de Straylize. Prise dans les troubles, elle devint la maîtresse du Swordian Clemente. 19 ans au moment des troubles.
+
+[06447.037]
+Après les troubles, devenue grande prêtresse du grand temple de Straylize, elle montra aux hommes la voie du relèvement.
+
+[06447.039]
+« Les Quatre Héros : Woodrow Kelvin »
+
+[06447.041]
+Prince de Phandaria et maître du Swordian Igtenos. 23 ans au moment des troubles.
+
+[06447.043]
+Roi sage, d’un ascendant sans égal, qui mena son peuple et répara le monde meurtri par les troubles.
+
+[06447.045]
+« Mary Agent. De son vrai nom : Mary Vincent »
+
+[06447.047]
+Guerrière intrépide, qui se battit aux côtés des Quatre Héros. 24 ans au moment des troubles.
+
+[06447.049]
+Après les troubles, elle aurait posé l’épée et vivrait paisiblement.
+
+[06447.051]
+« Chelsea Torn »
+
+[06447.053]
+Jeune fille qui soutint le roi Woodrow quand il était jeune. 14 ans au moment des troubles.
+
+[06447.055]
+Quelque temps après les troubles, elle disparut de l’entourage du roi Woodrow : on ignore ce qu’elle est devenue.
+
+[06447.057]
+« Mighty Kongman »
+
+[06447.059]
+« ... Mais c’est là le nom de ring qu’il se donne : son vrai nom n’est pas public. »
+
+[06447.061]
+Pugiliste qui partagea le rude voyage des héros, et champion de l’arène de Neustadt. 39 ans au moment des troubles.
+
+[06447.063]
+Après les troubles, il aida au relèvement de Neustadt et devint une célébrité, figure du pays de Fitzgald.
+
+[06447.065]
+« Johnny Shiden »
+
+[06447.067]
+Ménestrel issu d’une grande famille de la région d’Aquaveil. Il épaula les Quatre Héros en bien des circonstances. 26 ans au moment des troubles.
+
+[06447.069]
+Après les troubles, il unit les pays de la région d’Aquaveil et fonda un pays en paix.
+
+[06447.071]
+« Le Radisrol »
+
+[06447.073]
+Immense navire de transport qui servit de vaisseau amiral à l’armée terrestre pendant la guerre du Ciel et de la Terre.
+
+[06447.075]
+« L’Œil de Dieu »
+
+[06447.077]
+Lentille de légende, présente à chaque détour de l’histoire. Son diamètre serait de 6 mètres, ou de 10, selon les dires.
+
+[06447.079]
+Son pouvoir étant trop grand, elle était scellée au temple de Straylize, mais elle fut dérobée lors des derniers troubles.
+
+[06447.081]
+On allait s’en servir pour anéantir le monde, mais les Quatre Héros et les Swordians la détruisirent.
+
+[06447.083]
+« Qu’est-ce qu’un Swordian ? »
+
+[06447.085]
+Un Swordian est une arme mise au point par l’armée terrestre pendant la guerre du Ciel et de la Terre.
+
+[06447.087]
+Chaque Swordian porte une Lentille enchâssée, qui lui permet d’user des sorts.
+
+[06447.088]
+Homme
+
+[06447.089]
+Les Swordians, il y en avait six en tout, tu sais.
+
+[06447.090]
+Homme
+
+[06447.091]
+Le Swordian « Berselius », c’est ce salaud de Hugo qui l’avait, à ce qu’on dit.
+
+[06447.092]
+Homme
+
+[06447.093]
+Et « Chaltier », c’est Leon, le traître, qui s’en servait, paraît-il.
+
+[06447.094]
+Homme
+
+[06447.095]
+Des scélérats avec des Swordians ! Vraiment, ni Berselius ni Chaltier ne doivent reposer en paix !
+
+[06447.096]
+Homme
+
+[06447.097]
+Quoi ? Tu trouves qu’il manque un portrait, là-bas ?
+
+[06447.098]
+Homme
+
+[06447.099]
+Tu ne vas pas me dire qu’il y manque Leon Magnus, des fois ?
+
+[06447.100]
+Homme
+
+[06447.101]
+Dis pas de bêtises ! Un traître comme Leon, accroché au même endroit que les héros, et puis quoi encore !
+
+[06447.102]
+Dix coups d’épée de temps à autre ne valent pas un coup chaque jour...
+
+[06447.103]
+N’attends rien d’autrui, compte sur toi-même...
+
+[06447.104]
+Apprendre, et s’exercer en temps voulu à ce qu’on a appris...
+
+[06447.105]
+Le héros a du loisir...
+
+[06447.106]
+Simple et droit, mais point sage...
+
+[06447.108]
+Le héros aime les femmes...
+
+[06447.110]
+Ce n’est pas une qualité de héros. Retiens-le.
+
+[06447.112]
+Qu’est-ce qu’un héros ? Y as-tu déjà réfléchi ?
+
+[06447.115]
+C’est une qualité de héros. Retiens-le.
+
+[06447.116]
+Bon voyage.
+
+[06447.117]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06447.118]
+Voulez-vous passer la nuit ?
+
+[06447.120]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06447.121]
+Reposez-vous bien.
+
+[06447.122]
+Bonjour.
+
+[06447.123]
+Vous n’avez pas assez d’argent.
+
+[06447.124]
+Au plaisir de vous revoir.
+
+[06447.129]
+Obtenu : {16:25 BA}.
+
+[06447.131]
+Obtenu : {08:FF FF FF FF}.
+
+[06447.133]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06447.135]
+Il n’y a rien ici.
+

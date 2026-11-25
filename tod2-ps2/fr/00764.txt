@@ -1,0 +1,9 @@
+[00764.001]
+Le commandant en chef Litler a de beaux gestes, dis donc. Voilà ce qu’on appelle « un homme au grand cœur ». Prends-en de la graine, {NAME:03 00 00 00}.
+
+[00764.002]
+Crétine ! Pas de cœur plus grand que le mien. N’importe quand, n’importe quel genre de beauté : il y a de la place pour toutes, autant qu’il en vient !
+
+[00764.003]
+Ça, c’est « sans discernement », andouille !
+

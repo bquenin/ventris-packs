@@ -1,0 +1,15 @@
+[00644.001]
+D-dis, {NAME:06 00 00 00}. On peut vraiment rester ici sans danger ? Moi, je commence à avoir mal à la tête...
+
+[00644.002]
+Hm. Les gens du futur résisteraient-ils moins bien au poison que nous ? Voilà un sujet d’étude intéressant.
+
+[00644.003]
+Donc toi, tu ne risques rien, et nous, on s’écroule en premier !?
+
+[00644.004]
+T’inquiète. Au besoin, je vous grefferai des poumons artificiels. Ou alors, carrément, je vous mets tout en machine, sauf la tête ?
+
+[00644.005]
+A-allez ! Assez bavardé ! Cherchons la clé !
+

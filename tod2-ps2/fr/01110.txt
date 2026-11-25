@@ -1,0 +1,9 @@
+[01110.001]
+Il faut rassembler les passagers sur le pont !
+
+[01110.002]
+Trouvons un plan, ou on coule tous avec le navire !
+
+[01110.003]
+Sur le pont !
+

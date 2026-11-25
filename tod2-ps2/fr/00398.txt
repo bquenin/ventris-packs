@@ -1,0 +1,18 @@
+[00398.001]
+N’empêche, vous retrouver, ça m’a vraiment sauvé. S’occuper des mioches, j’en ai ma claque...
+
+[00398.002]
+Hein ? {NAME:03 00 00 00}, {NAME:04 00 00 00} et toi, vous jouiez avec eux, et vous aviez l’air de bien vous amuser.
+
+[00398.003]
+Cré~tin ! Ça, ce n’était pas un gentil « jeu ». C’est un véritable entraînement, en vue des combats contre les monstres. Tu n’imagines pas ce que {NAME:04 00 00 00} et moi, on a encaissé avant votre arrivée...
+
+[00398.004]
+Moi, j’esquivais comme il faut, de façon à ne garder aucune séquelle. Tu ferais mieux de rester t’entraîner ici encore un peu, non ?
+
+[00398.005]
+Haha. Bien vu. Je dirai aux enfants de bien s’occuper de toi.
+
+[00398.006]
+Urgh... Pitié, sérieux...
+

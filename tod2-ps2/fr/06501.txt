@@ -1,0 +1,70 @@
+[06501.001]
+Trash Mountain
+
+[06501.002]
+Trash Mountain
+
+[06501.003]
+Trash Mountain
+
+[06501.004]
+Trash Mountain
+
+[06501.006]
+Tu vas retrouver {NAME:03 00 00 00} et les autres, non ? Hope Town est au sud-ouest d’ici.
+
+[06501.008]
+Retournons à Hope Town.
+
+[06501.009]
+Le gaz toxique a altéré le contenu du coffre !
+
+[06501.011]
+Ouah ! Une montagne d’ordures !!
+
+[06501.013]
+C’est là que l’armée céleste jetait ses déchets, du temps de la guerre du Ciel et de la Terre.
+
+[06501.015]
+À vrai dire, j’aimerais mieux ne pas y passer, mais c’est le seul chemin qui mène à Calviola.
+
+[06501.017]
+Hé, hé, on doit passer par un tas d’ordures pareil ?
+
+[06501.018]
+Bon voyage.
+
+[06501.019]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06501.020]
+Voulez-vous passer la nuit ?
+
+[06501.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06501.023]
+Reposez-vous bien.
+
+[06501.024]
+Bonjour.
+
+[06501.025]
+Vous n’avez pas assez d’argent.
+
+[06501.026]
+Au plaisir de vous revoir.
+
+[06501.031]
+Obtenu : {16:26 9E}.
+
+[06501.033]
+Obtenu : {08:FF FF FF FF}.
+
+[06501.035]
+Trouvé : {16:26 A6}, mais vous n’avez plus de place.
+
+[06501.037]
+Il n’y a rien ici.
+

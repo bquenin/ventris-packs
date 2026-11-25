@@ -1,0 +1,460 @@
+[06627.001]
+Catacombes : escalier de la Naissance
+
+[06627.002]
+Catacombes
+
+[06627.003]
+Escalier de la Naissance
+
+[06627.004]
+Gaap
+
+[06627.005]
+Ne pas chercher à comprendre le noble idéal de cette personne, lui tenir tête, lui faire sans cesse obstacle, et pour finir, comploter de lui nuire...
+
+[06627.006]
+Gaap
+
+[06627.007]
+Il n’est plus de salut pour vous. Quand bien même dame Elraine vous pardonnerait, moi, je ne vous pardonnerai pas.
+
+[06627.009]
+Hah ! Votre salut, c’est nous qui n’en voulons pas !
+
+[06627.011]
+Si tu nous barres la route, on t’écartera de force !
+
+[06627.012]
+Gaap
+
+[06627.013]
+Inutile d’importuner dame Elraine. C’est moi qui vais mettre fin à tout, ici et maintenant.
+
+[06627.015]
+Ça suffit !!
+
+[06627.017]
+Qu’est-ce que tu manigances, cette fois ! Que comptes-tu faire de notre époque ! Réponds, Elraine !
+
+[06627.018]
+Elraine
+
+[06627.019]
+C’est vous... Mais l’heure est déjà passée. La flèche est sur le point d’être tirée.
+
+[06627.021]
+Tirer une flèche... ? Qu’est-ce que ça veut dire !
+
+[06627.022]
+Elraine
+
+[06627.023]
+La flèche de lumière qui transperça cet astre il y a mille ans : que son éclat brille de nouveau... !
+
+[06627.025]
+Ouh, c-c’est...
+
+[06627.027]
+Mais qu’est-ce qu’elle compte faire, celle-là !?
+
+[06627.029]
+Il y a mille ans, une flèche de lumière...
+
+[06627.031]
+... Je vois, c’est donc ça. Pour quelqu’un qui parle au nom de la déesse, elle voit grand, il faut le reconnaître.
+
+[06627.033]
+Ne comprends pas toute seule dans ton coin : explique, {NAME:06 00 00 00} !
+
+[06627.035]
+Vous savez ce qui s’est passé dans le monde il y a mille ans ?
+
+[06627.037]
+Bien sûr : la guerre du Ciel et de la Terre, non ?
+
+[06627.039]
+Un peu avant. Le point de départ : pourquoi la guerre du Ciel et de la Terre a-t-elle fini par éclater ?
+
+[06627.041]
+Le point de départ... de la guerre du Ciel et de la Terre ?
+
+[06627.043]
+À l’origine de la guerre du Ciel et de la Terre, il y a le projet d’abandonner une terre dévastée et de faire s’élever des cités dans le ciel.
+
+[06627.045]
+Les privilégiés montés à bord de ces cités ont dominé la surface par une force armée écrasante.
+
+[06627.047]
+Les hommes de la surface se sont révoltés, et la guerre du Ciel et de la Terre a commencé...
+
+[06627.049]
+La guerre, j’ai compris. Mais quel rapport avec ces Lentilles... ?
+
+[06627.051]
+On écoute jusqu’au bout !
+
+[06627.053]
+D’abord, pourquoi fallait-il faire flotter des cités ? Pourquoi la terre était-elle dévastée à ce point ?
+
+[06627.055]
+La chute de la comète.
+
+[06627.057]
+Oui. Il y a environ mille ans, quand une comète géante a heurté cet astre, plus de la moitié de l’humanité a péri en un instant.
+
+[06627.059]
+La poussière soulevée par le choc a entièrement masqué la lumière du soleil, et la surface est devenue une terre de froid extrême.
+
+[06627.061]
+Voilà pourquoi on a fait flotter les cités elles-mêmes, plus haut encore que la poussière qui couvrait le ciel.
+
+[06627.063]
+Grâce à la force inconnue apportée par la comète : les Lentilles.
+
+[06627.065]
+Mais enfin, quel rapport avec ces Lentilles-ci !?
+
+[06627.067]
+Vous ne voyez toujours pas ? Elraine veut faire recommencer cette tragédie.
+
+[06627.069]
+La chute de la comète géante, qui a mené l’humanité au bord de l’extinction...
+
+[06627.071]
+Effacer le monde, c’était donc ça. Mais pourquoi maintenant... !?
+
+[06627.072]
+Elraine
+
+[06627.073]
+Pour vous sauver.
+
+[06627.074]
+Elraine
+
+[06627.075]
+Et pas vous seulement. Pour sauver tout ce monde, je détruis tout.
+
+[06627.077]
+La logique s’effondre, c’est évident. Détruire pour sauver ? Ça ne tient pas debout.
+
+[06627.078]
+Elraine
+
+[06627.079]
+Je ne me trompe pas !
+
+[06627.080]
+Elraine
+
+[06627.081]
+Si la déesse descend sous sa forme parfaite... le bonheur absolu de toute l’humanité pourra s’accomplir.
+
+[06627.082]
+Elraine
+
+[06627.083]
+Pour y parvenir, j’ai modifié l’histoire. Mais chacune de mes tentatives a été réduite à néant. ... De vos mains !
+
+[06627.085]
+................ ................
+
+[06627.086]
+Elraine
+
+[06627.087]
+C’est pourquoi je recours au dernier moyen : faire tomber sur la terre la comète géante, que l’on peut appeler l’Œuf de Dieu.
+
+[06627.088]
+Elraine
+
+[06627.089]
+Avec l’énergie formidable qui naît du choc de deux astres, la descente de la déesse deviendra réalité.
+
+[06627.090]
+Elraine
+
+[06627.091]
+Oui, de la déesse parfaite... !
+
+[06627.093]
+Attends, Elraine !
+
+[06627.095]
+Tout détruire pour tout sauver. Si une chose pareille est permise...
+
+[06627.097]
+Alors nous, on est quoi ! Pour la déesse, nous, les humains, on est quoi, à la fin !
+
+[06627.098]
+Elraine
+
+[06627.099]
+Des êtres fragiles, pitoyables et chers, que la déesse doit sauver. Rien de plus, rien de moins.
+
+[06627.101]
+Ne te moque pas de nous !!
+
+[06627.103]
+Moi, je l’ai vue de mes yeux, tout ce temps : la force de ceux qui ont bâti l’histoire !
+
+[06627.105]
+L’histoire qui s’accumule, comme la preuve que des hommes ont vécu !
+
+[06627.107]
+L’effacer, je ne le laisserai faire à personne !
+
+[06627.108]
+Elraine
+
+[06627.109]
+Il n’y a rien à craindre.
+
+[06627.110]
+Elraine
+
+[06627.111]
+Quand bien même vous péririez tous, il suffit que la déesse parfaite descende pour qu’une humanité nouvelle puisse naître.
+
+[06627.112]
+Elraine
+
+[06627.113]
+Et cette humanité nouvelle pourra goûter, dans un monde parfait, un bonheur parfait.
+
+[06627.114]
+Elraine
+
+[06627.115]
+Le moment est venu, pour l’humanité elle-même, de tout remettre au point de départ.
+
+[06627.117]
+Détruire l’histoire, ce serait pour le bien des hommes... !? Tu plaisantes !!
+
+[06627.118]
+Elraine
+
+[06627.119]
+Insensés... Vous ne comprenez toujours pas ?
+
+[06627.120]
+Elraine
+
+[06627.121]
+C’est par le seul pouvoir divin que l’homme peut échapper à tous les malheurs et obtenir le bonheur absolu.
+
+[06627.122]
+Elraine
+
+[06627.123]
+Pourquoi refusez-vous d’admettre cette vérité ?
+
+[06627.125]
+Le bonheur absolu, ça n’existe pas en ce monde !
+
+[06627.127]
+C’est parce qu’il y a la souffrance et le chagrin qu’on souhaite être heureux ! Qu’on cherche à saisir le bonheur par ses propres forces !
+
+[06627.129]
+Le vrai bonheur est dans chaque jour qu’on vit à le chercher. C’est comme ça que les hommes bâtissent l’histoire !
+
+[06627.130]
+Elraine
+
+[06627.131]
+... Parler davantage serait vain, semble-t-il.
+
+[06627.132]
+Elraine
+
+[06627.133]
+La flèche est déjà sur le point d’être tirée. L’arrêter, vous ne le pourrez pas.
+
+[06627.135]
+Si ! On va te battre, et on arrêtera la collision !
+
+[06627.136]
+Elraine
+
+[06627.137]
+Abattre celle qui se tient ici devant vous, en cet instant, n’aurait aucun sens.
+
+[06627.138]
+Elraine
+
+[06627.139]
+Je suis née de la déesse. Je renaîtrai autant de fois qu’il le faudra, et je bâtirai le monde parfait.
+
+[06627.141]
+Alors... on tuera la déesse !
+
+[06627.143]
+Et on fera en sorte que tu ne renaisses plus jamais !
+
+[06627.144]
+Elraine
+
+[06627.145]
+Tuer la déesse...
+
+[06627.146]
+Elraine
+
+[06627.147]
+Tu n’as donc pas pu lui dire la vérité, {NAME:02 00 00 00}...
+
+[06627.149]
+... La vérité !?
+
+[06627.151]
+................ ................
+
+[06627.152]
+Elraine
+
+[06627.153]
+Alors, je vais la lui apprendre à ta place. {NAME:02 00 00 00} et moi...
+
+[06627.155]
+Arrête, Elraine !!
+
+[06627.156]
+Elraine
+
+[06627.157]
+{NAME:02 00 00 00} et moi, nous sommes la déesse...
+
+[06627.159]
+{NAME:02 00 00 00}... la déesse !?
+
+[06627.160]
+Elraine
+
+[06627.161]
+Tuez donc la déesse, et avec moi... {NAME:02 00 00 00} mourra aussi.
+
+[06627.163]
+C-c’est faux !! {NAME:02 00 00 00}, la déesse... C’est impossible !
+
+[06627.165]
+Ne te laisse pas avoir, {NAME:01 00 00 00} ! Elle dit n’importe quoi, c’est forcément n’importe quoi !
+
+[06627.166]
+Elraine
+
+[06627.167]
+Libre à vous de le croire ou non. Mais il n’y a qu’une vérité.
+
+[06627.169]
+C’est faux, hein, {NAME:02 00 00 00} ? Toi, la déesse !? Elraine dit n’importe quoi, hein !!
+
+[06627.171]
+................ ................
+
+[06627.173]
+Je t’en prie, dis-moi que c’est faux.
+
+[06627.175]
+Non... Les deux Saintes sont nées de la déesse. Autant dire son incarnation...
+
+[06627.177]
+Quand la déesse cessera d’exister, Elraine et moi aussi...
+
+[06627.179]
+...... N-non... !
+
+[06627.180]
+Elraine
+
+[06627.181]
+Oui : décidément, vous ne pouvez pas tuer la déesse.
+
+[06627.182]
+Elraine
+
+[06627.183]
+Puisque vous l’avez compris, rentrez. Et choisissez de vos mains le lieu où vous accueillerez l’heure du jugement.
+
+[06627.184]
+Elraine
+
+[06627.185]
+Tel est le dernier bonheur qui vous soit accordé.
+
+[06627.187]
+Attends un peu, Elraine !
+
+[06627.189]
+Tu ne nous échapperas pas !
+
+[06627.191]
+Ouaah !
+
+[06627.193]
+Ouaah !
+
+[06627.195]
+{NAME:01 00 00 00}... ... Pardon. De n’avoir pas pu te le dire jusqu’ici.
+
+[06627.197]
+... Mais tu sais, {NAME:01 00 00 00}, il n’y a pas d’autre moyen. Si on ne tue pas la déesse, ce monde...
+
+[06627.199]
+... Arrête. Je ne veux rien entendre pour l’instant.
+
+[06627.201]
+{NAME:01 00 00 00}...
+
+[06627.203]
+Je ne sais pas... ce que je dois faire, maintenant.
+
+[06627.205]
+Je ne sais pas... Je ne sais plus rien !
+
+[06627.207]
+Rester ici ne mènera à rien. Rentrons, pour l’instant...
+
+[06627.209]
+................ ................
+
+[06627.211]
+{NAME:02 00 00 00} obtient le titre « {08:2D 08 00 00} ».
+
+[06627.212]
+Bon voyage.
+
+[06627.213]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06627.214]
+Voulez-vous passer la nuit ?
+
+[06627.216]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06627.217]
+Reposez-vous bien.
+
+[06627.218]
+Bonjour.
+
+[06627.219]
+Vous n’avez pas assez d’argent.
+
+[06627.220]
+Au plaisir de vous revoir.
+
+[06627.225]
+Obtenu : {16:28 86 09}.
+
+[06627.227]
+Obtenu : {08:FF FF FF FF}.
+
+[06627.229]
+Trouvé : {16:28 8E 09}, mais vous n’avez plus de place.
+
+[06627.231]
+Il n’y a rien ici.
+

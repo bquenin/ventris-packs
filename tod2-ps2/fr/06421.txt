@@ -1,0 +1,86 @@
+[06421.001]
+Mine désaffectée Oberon
+
+[06421.002]
+Mine désaffectée Oberon
+
+[06421.003]
+Mine désaffectée Oberon
+
+[06421.004]
+Mine désaffectée Oberon
+
+[06421.006]
+...
+......
+
+[06421.008]
+Hm ? Qu’est-ce que tu as, {NAME:04 00 00 00}... ?
+
+[06421.010]
+Rien... Pressons le pas...
+
+[06421.012]
+{03:00 00 00 00}　Décharger la bombe　
+　Laisser dériver la barque　
+
+[06421.014]
+Laisser dériver la barque ?
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06421.015]
+La bombe a explosé !
+
+[06421.017]
+Le passage est enseveli sous la terre. Si on ne dégage pas ça, on ne passera pas.
+
+[06421.019]
+Il n’y a qu’à faire sauter cette terre à la bombe.
+
+[06421.021]
+Une bombe ? Dis donc, où veux-tu qu’on trouve un truc pareil...
+
+[06421.023]
+On s’en servait autrefois pour faire sauter la roche des galeries. En cherchant, on en trouvera. Pour l’allumer... voyons, l’Anneau du sorcier fera l’affaire.
+
+[06421.025]
+L’escalier est enseveli sous la roche et la terre. Cette roche semble pouvoir être dynamitée.
+
+[06421.026]
+Bon voyage.
+
+[06421.027]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06421.028]
+Voulez-vous passer la nuit ?
+
+[06421.030]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06421.031]
+Reposez-vous bien.
+
+[06421.032]
+Bonjour.
+
+[06421.033]
+Vous n’avez pas assez d’argent.
+
+[06421.034]
+Au plaisir de vous revoir.
+
+[06421.039]
+Obtenu : {16:25 C2}.
+
+[06421.041]
+Obtenu : {08:FF FF FF FF}.
+
+[06421.043]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06421.045]
+Il n’y a rien ici.
+

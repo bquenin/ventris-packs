@@ -1,0 +1,34 @@
+[06233.4788]
+Ours-hibou
+
+[06233.4799]
+Ours Kanbara
+
+[06233.4814]
+Ours œuf
+
+[06233.4825]
+Bigfoot
+
+[06233.4838]
+Le premier monstre
+qu’on a battu,
+{NAME:01 00 00 00} et moi :
+son nom ?
+
+[06233.4899]
+Tu t’en souviens, dis !
+
+[06233.4926]
+Pas loin
+
+[06233.4935]
+Surmonte l’épreuve
+
+[06233.4956]
+Pas de ça près de Cresta
+
+[06233.4983]
+J’ai tant brillé que
+tu as oublié ?
+

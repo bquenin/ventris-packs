@@ -1,0 +1,55 @@
+[06331.001]
+Ruines de Laguna
+
+[06331.002]
+Ruines de Laguna
+
+[06331.004]
+Examine-la.
+
+[06331.006]
+C’est ça... la Lentille !? Elle est énooorme... !
+
+[06331.008]
+Sans blague, ce truc vaut ses trois millions de Gald...
+
+[06331.010]
+Qu-qu’est-ce que c’est !?
+
+[06331.011]
+Bon voyage.
+
+[06331.012]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06331.013]
+Voulez-vous passer la nuit ?
+
+[06331.015]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06331.016]
+Reposez-vous bien.
+
+[06331.017]
+Bonjour.
+
+[06331.018]
+Vous n’avez pas assez d’argent.
+
+[06331.019]
+Au plaisir de vous revoir.
+
+[06331.024]
+Obtenu : {16:26 C2}.
+
+[06331.026]
+Obtenu : {08:FF FF FF FF}.
+
+[06331.028]
+Trouvé : {16:26 CA}, mais vous n’avez plus de place.
+
+[06331.030]
+Il n’y a rien ici.
+

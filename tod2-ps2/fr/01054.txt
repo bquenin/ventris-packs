@@ -1,0 +1,3 @@
+[01054.001]
+{NAME:01 00 00 00}... entrons dans ce dôme. Un indice, peut-être.
+

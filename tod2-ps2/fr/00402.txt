@@ -1,0 +1,6 @@
+[00402.001]
+Chauuud ! Dis, {NAME:05 00 00 00}, tu passes toujours par des endroits pareils !?
+
+[00402.002]
+Non, cette chaleur est anormale. Il y a quoi ?
+

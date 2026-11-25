@@ -1,0 +1,3162 @@
+[06189.18168]
+« Flamme d’antan qui purifie,
+disparais ! ○○○ ! »
+Quel sort va dans les ○ ?
+
+[06189.18249]
+Ancient Nova
+
+[06189.18268]
+Burn Strike
+
+[06189.18285]
+Execution
+
+[06189.18304]
+Divine Saber
+
+[06189.18323]
+Non !
+
+[06189.18332]
+La réplique de {NAME:06 00 00 00} :
+laquelle ?
+
+[06189.18369]
+Mmh ! Trop excitée !?
+
+[06189.18394]
+Mmh ! Trop joueuse !?
+
+[06189.18417]
+Mmh ! Trop de cèdre !?
+
+[06189.18444]
+Mmh ! Trop accro !?
+
+[06189.18467]
+Le monstre laissé par Gaap
+au Dragon volant ?
+
+[06189.18517]
+Glasya-Labolas
+
+[06189.18534]
+Glasya-Labos
+
+[06189.18549]
+Griffon
+
+[06189.18560]
+Dragon crâne
+
+[06189.18575]
+Le Dragon volant :
+combien de dispositifs ?
+
+[06189.18623]
+4
+
+[06189.18628]
+5
+
+[06189.18633]
+3
+
+[06189.18638]
+2
+
+[06189.18643]
+30
+
+[06189.18650]
+10 500
+
+[06189.18667]
+Oui !
+Quelle mémoire
+
+[06189.18691]
+Dommage, non
+
+[06189.18704]
+Il y en avait tant ?
+
+[06189.18727]
+Beaucoup trop, voyons !
+
+[06189.18752]
+Raté, trop tard
+
+[06189.18771]
+Le géant de la Spiral Cave ?
+
+[06189.18804]
+Halphas
+
+[06189.18815]
+Barbatos
+
+[06189.18826]
+Gaap
+
+[06189.18833]
+Buer
+
+[06189.18840]
+Aux Catacombes, qui nous a
+barré la route vers
+Elraine ?
+
+[06189.18909]
+Dantalion
+
+[06189.18922]
+Fortuna
+
+[06189.18935]
+En combat, {NAME:03 00 00 00} lance parfois
+« File dans l’autre monde ! »
+Quand ça rate,
+je réplique quoi ?
+
+[06189.19034]
+Et toi, tu y vas ?!
+
+[06189.19055]
+Moi !?
+
+[06189.19066]
+Hein ?
+
+[06189.19073]
+Vas-y seul
+
+[06189.19088]
+Oui !
+Ça donne des sueurs froides
+
+[06189.19124]
+« Moi !? », hein
+
+[06189.19141]
+Ça, je le dis à {NAME:04 00 00 00}
+après un combat
+
+[06189.19184]
+Je suis si froid que ça ?
+
+[06189.19213]
+{NAME:03 00 00 00} incante, l’ennemi
+vient : son cri ?
+
+[06189.19256]
+Approche pas, là !
+
+[06189.19277]
+Occupé, là !
+
+[06189.19294]
+Me dérange pas !
+
+[06189.19315]
+Waah, recule !
+
+[06189.19334]
+Le même arte 3 fois de suite :
+que dit {NAME:04 00 00 00} ?
+
+[06189.19383]
+Sot d’un seul tour.
+
+[06189.19404]
+Gâchis de TP.
+
+[06189.19421]
+... Hmf
+
+[06189.19430]
+Pense un peu !
+
+[06189.19447]
+Outre un peu de HP, que fait de bon
+le Gâteau au fromage ?
+
+[06189.19515]
+Ranime
+
+[06189.19528]
+Eau +
+
+[06189.19537]
+Vigueur
+
+[06189.19546]
+Rend TP
+
+[06189.19555]
+Oui !
+Exquis, il rend HP et ranime !
+Le roi des gâteaux !
+
+[06189.19620]
+Le sucré requinque, certes
+
+[06189.19657]
+Presque
+
+[06189.19666]
+Tu manges sans voir l’effet ?
+Quel goinfre !
+
+[06189.19714]
+Quel serviteur d’Elraine nous a
+barré la route de Dycroft ?
+
+[06189.19782]
+Sabnock
+
+[06189.19793]
+Oui !
+Poli à l’excès, c’en était gênant
+
+[06189.19837]
+Bon, lui aussi nous a gênés, c’est vrai
+
+[06189.19880]
+Lui, c’était bien pire !
+
+[06189.19911]
+Presque, non
+
+[06189.19928]
+Trop tard~
+Un sacré adversaire, celui-là~
+
+[06189.19972]
+Dymlos, l’un des Swordians :
+son grade ?
+
+[06189.20024]
+GDiv
+
+[06189.20029]
+Col.
+
+[06189.20034]
+S-Lt
+
+[06189.20039]
+Gén.
+
+[06189.20044]
+3e cl.
+
+[06189.20051]
+Oui !
+Bon avec ses hommes : l’officier idéal !
+Ouah ! La classe !
+
+[06189.20120]
+Mmh, proche, mais non
+
+[06189.20145]
+Ç-ça fait drôlement gradé...
+
+[06189.20183]
+Trop tard~
+Moi non plus, je m’y perds
+
+[06189.20229]
+Dymlos, l’un des Swordians :
+son surnom ?
+
+[06189.20281]
+Bélier
+
+[06189.20288]
+Martyr
+
+[06189.20295]
+Cadet
+
+[06189.20302]
+Brave
+
+[06189.20309]
+Exactement !
+Ouah ! La classe !
+
+[06189.20343]
+Plus l’âge d’un cadet, lui...
+
+[06189.20376]
+Trop tard~
+Un jour, on me dira
+{NAME:01 00 00 00} le héros... !
+
+[06189.20430]
+Dans mon nom, « {NAME:01 00 00 00} Dunamis »,
+que veut dire « Dunamis » ?
+
+[06189.20497]
+Don
+
+[06189.20502]
+Prix
+
+[06189.20507]
+Cran
+
+[06189.20512]
+Sage
+
+[06189.20517]
+Oui ! « Potentiel »,
+m’a dit maman, jeune...
+
+[06189.20569]
+Presque !
+C’est un peu ça, mais...
+
+[06189.20607]
+Un de mes mots préférés !
+
+[06189.20638]
+U-un nom trop grand
+pour moi... hé hé
+
+[06189.20686]
+Bzzt, trop tard.
+Le nom aussi de
+l’orphelinat et de {NAME:03 00 00 00}
+
+[06189.20746]
+Chez le seigneur d’Aquaveil,
+quelle fille aime bien {NAME:03 00 00 00} ?
+
+[06189.20807]
+Emily
+
+[06189.20814]
+Salina
+
+[06189.20821]
+Koyuki
+
+[06189.20828]
+Natsu
+
+[06189.20835]
+Le sceau de l’Ixifosler, par étapes :
+feu, eau, bois...
+Tiens ? Et un autre encore... ?
+
+[06189.20928]
+Aile
+
+[06189.20933]
+Sol
+
+[06189.20938]
+Or
+
+[06189.20943]
+Ère
+
+[06189.20948]
+Oui !
+On bouge les statues
+jusqu’aux ailes, là
+
+[06189.21001]
+Ça y ressemble, mais...
+
+[06189.21030]
+♪ Lundi, lundi, mardi...
+non~ !
+
+[06189.21068]
+Un peu dur, peut-être ?
+
+[06189.21093]
+Gaz toxique du Dépôt de matériel :
+on y tient combien ?
+
+[06189.21155]
+10’
+
+[06189.21160]
+5’
+
+[06189.21164]
+3’
+
+[06189.21168]
+1’
+
+[06189.21172]
+30’
+
+[06189.21177]
+Oui !
+Ouf, on étouffait...
+
+[06189.21207]
+Trop court pour trouver la clé, ça
+
+[06189.21246]
+Trop tard~
+Quel piège pénible
+
+[06189.21288]
+Hope Town, à la fin :
+qui est chez {NAME:05 00 00 00} ?
+
+[06189.21335]
+Roi cuistot
+
+[06189.21348]
+Chef spécial
+
+[06189.21373]
+Fille dynamite
+
+[06189.21392]
+Quand il fait froid, rien ne vaut une potée de poisson !
+Mais lequel n’y entre pas ?
+
+[06189.21480]
+Morue
+
+[06189.21487]
+Thon
+
+[06189.21494]
+Saumon
+
+[06189.21501]
+Sard.
+
+[06189.21508]
+Chou
+
+[06189.21517]
+Oui ! Remarque,
+c’est bon aussi avec, hein
+
+[06189.21567]
+Raté.
+Du thon, si ?
+
+[06189.21593]
+Raté.
+Du saumon, si ?
+
+[06189.21619]
+Raté.
+Des sardines, si ?
+
+[06189.21645]
+Ouais, je t’ai eu !
+Mange aussi des légumes
+
+[06189.21693]
+J’ai tout mangé, et tu ne sais
+plus ce qu’il y avait dedans ?
+Oups... pardon
+
+[06189.21772]
+Insectes pris par {NAME:06 00 00 00} :
+mante à 7 points Margrana
+et lucane vert ○○.
+Quel mot pour ○○ ?
+
+[06189.21869]
+Chakratan
+
+[06189.21882]
+Calvilia
+
+[06189.21893]
+Tilmanic
+
+[06189.21908]
+Oberon
+
+[06189.21917]
+Oui !
+Chercher avec zèle, d’accord, mais
+nous prendre pour échantillons...
+
+[06189.22000]
+C’est une tomate, ça.
+De Calvilia !
+
+[06189.22042]
+Ça, je sais pas trop, mais c’était
+un légume du temps de {NAME:06 00 00 00} ?
+
+[06189.22111]
+Raté.
+Pas un nom d’insecte
+
+[06189.22143]
+Des noms à rallonge.
+Moi aussi, je bafouille
+
+[06189.22189]
+La poule de l’orphelinat
+Dunamis s’appelle ?
+
+[06189.22239]
+Giovanni
+
+[06189.22250]
+Campanella
+
+[06189.22263]
+Cot-cot
+
+[06189.22272]
+Miyu
+
+[06189.22277]
+Arnold
+
+[06189.22288]
+Gagnééé♪
+
+[06189.22301]
+Un nom un peu facile
+
+[06189.22326]
+C’est le nom de notre chèvre, ça
+
+[06189.22361]
+Trop tard~
+Bon, elle était un peu dure
+
+[06189.22407]
+Le « Radisrol » de l’armée
+terrestre servait d’abord
+à quoi ?
+
+[06189.22480]
+Cargo
+
+[06189.22487]
+Aviso
+
+[06189.22494]
+Assaut
+
+[06189.22501]
+Mère
+
+[06189.22508]
+Pas un navire de guerre,
+et c’était leur bastion
+
+[06189.22562]
+Il ne portait pas
+d’armes, hein ?
+
+[06189.22598]
+Litler a annoncé la fin de la guerre.
+Son titre ?
+
+[06189.22650]
+Commandant
+
+[06189.22663]
+Examinateur
+
+[06189.22676]
+Directeur
+
+[06189.22687]
+Metteur en scène
+
+[06189.22706]
+Autrement dit,
+le chef de tous
+
+[06189.22740]
+Un film, ça ?
+
+[06189.22757]
+{NAME:05 00 00 00} se bat avec... ?
+
+[06189.22783]
+Arc
+
+[06189.22788]
+Clés
+
+[06189.22795]
+Épée
+
+[06189.22800]
+Pieu
+
+[06189.22805]
+Sûre à l’arc, douée en sorts :
+l’as de la mi-distance !
+On compte sur elle
+
+[06189.22882]
+Redoutable, mais c’est
+réservé à {NAME:03 00 00 00}
+
+[06189.22931]
+Ça, quand même...
+
+[06189.22952]
+{NAME:06 00 00 00} est de quel temps ?
+
+[06189.22980]
+La guerre
+
+[06189.22993]
+Auj.
+
+[06189.22998]
+Fut.
+
+[06189.23003]
+Présent altéré
+
+[06189.23018]
+Elle était donc Berselius,
+conceptrice des Swordians !
+
+[06189.23078]
+L’époque de {NAME:02 00 00 00}
+et de {NAME:05 00 00 00}, ça
+
+[06189.23116]
+Le Swordian de papa ?
+
+[06189.23150]
+Dymlos
+
+[06189.23161]
+Atwight
+
+[06189.23172]
+Berselius
+
+[06189.23185]
+Miktran
+
+[06189.23196]
+Moi aussi, j’en voudrais un
+
+[06189.23227]
+Ça, c’est celui de maman
+
+[06189.23258]
+Une pièce jetée dans la
+fontaine de Cresta :
+qu’est-ce qui réussit ?
+
+[06189.23331]
+Cœur
+
+[06189.23336]
+Sous
+
+[06189.23341]
+Vie
+
+[06189.23346]
+Bac
+
+[06189.23351]
+{NAME:03 00 00 00} l’a fait
+plein de fois
+
+[06189.23382]
+Et moi... ?
+
+[06189.23395]
+Marmotte
+
+[06189.23404]
+Avatar
+
+[06189.23413]
+Leon
+
+[06189.23420]
+Mère des Swordians
+
+[06189.23439]
+Bientôt, on m’appellera
+« héros », tu verras
+
+[06189.23487]
+Ça, c’est {NAME:02 00 00 00}
+
+[06189.23509]
+Ça, c’est {NAME:04 00 00 00}
+
+[06189.23531]
+Ça, c’est {NAME:06 00 00 00}
+
+[06189.23553]
+Pour la commande sur mesure,
+que voulait l’armurerie
+de Heidelberg ?
+
+[06189.23628]
+Berselium
+
+[06189.23641]
+Miracle
+
+[06189.23650]
+Fiole obsc.
+
+[06189.23663]
+Diamant noir
+
+[06189.23678]
+Un minerai précieux,
+des plus rares
+
+[06189.23716]
+Derrière le trône de
+Heidelberg, un tas de quoi ?
+
+[06189.23772]
+Lens
+
+[06189.23779]
+Bris
+
+[06189.23784]
+Bonbon
+
+[06189.23791]
+En ramassant les Lentilles
+de Phandaria, on en a eu
+un tas énorme
+
+[06189.23858]
+Woodrow n’est pas
+ce genre d’homme
+
+[06189.23894]
+Quel château sale
+
+[06189.23915]
+Il m’en donnerait
+un peu ?
+
+[06189.23949]
+À Hope Town, que fait
+{NAME:05 00 00 00} à chaque
+bonne nouvelle ?
+
+[06189.24009]
+Tombe
+
+[06189.24016]
+Clés sur {NAME:03 00 00 00}
+
+[06189.24032]
+Ban 3-3-7
+
+[06189.24043]
+Popote
+
+[06189.24050]
+La tombe de son frère...
+
+[06189.24077]
+Trash Mountain, au départ :
+quoi des Célestes ?
+
+[06189.24129]
+Arsenal
+
+[06189.24138]
+Nef
+
+[06189.24143]
+Rêve
+
+[06189.24148]
+Quel sans-gêne, hein
+
+[06189.24171]
+Quand {NAME:02 00 00 00} est partie seule
+voir Elraine, on a pris
+quoi pour la
+rattraper ?
+
+[06189.24260]
+Ixifosler
+
+[06189.24277]
+Dragon
+
+[06189.24284]
+Téléporteur
+
+[06189.24301]
+Analyseur
+
+[06189.24312]
+Comment {NAME:04 00 00 00}
+connaissait-il
+cet aéronef
+
+[06189.24362]
+Où l’Ixifosler
+était-il scellé ?
+
+[06189.24404]
+Base en ruine
+
+[06189.24419]
+Laguna
+
+[06189.24430]
+Mine Oberon
+
+[06189.24445]
+Radisrol
+
+[06189.24458]
+Des sceaux en couches
+le protégeaient
+
+[06189.24502]
+Dragon volant, Ixifosler :
+le plus vif ?
+
+[06189.24544]
+Égal
+
+[06189.24549]
+Fusée
+
+[06189.24558]
+Tu as bien lu, là ?
+
+[06189.24581]
+Dispositifs du Dragon volant :
+brisés avec ?
+
+[06189.24629]
+Lunette du sorcier
+
+[06189.24648]
+Anneau sorcier
+
+[06189.24665]
+Corde
+
+[06189.24672]
+Scie
+
+[06189.24681]
+Que de mécanismes dans
+le Dragon volant
+
+[06189.24725]
+Base terrestre en ruine :
+de quelle époque ?
+
+[06189.24773]
+Œil de Dieu
+
+[06189.24788]
+Cosmic Era
+
+[06189.24805]
+Tel quel, hein
+
+[06189.24822]
+Des « ruines » du futur ?
+Mais non
+
+[06189.24860]
+G Seed ?
+
+[06189.24869]
+La Lunette du sorcier :
+fabriquée où ?
+
+[06189.24913]
+Oberon
+
+[06189.24924]
+La base
+
+[06189.24935]
+Heidelberg
+
+[06189.24950]
+{NAME:04 00 00 00} l’explique
+quand on l’obtient
+
+[06189.24989]
+Elle aurait mille ans,
+alors ? Non !
+
+[06189.25031]
+Présent altéré, la Lentille :
+A tête, B bras, C torse ?
+
+[06189.25089]
+A
+
+[06189.25093]
+B
+
+[06189.25097]
+C
+
+[06189.25101]
+Loup
+
+[06189.25106]
+La porter sans cesse :
+quel monde pénible
+
+[06189.25158]
+Ça, c’est
+juste {NAME:04 00 00 00}
+
+
+[06189.25184]
+La Lentille de la tête :
+Lentille de... ?
+
+[06189.25228]
+Vie
+
+[06189.25239]
+Âme
+
+[06189.25250]
+Miracle
+
+[06189.25263]
+Salut
+
+[06189.25276]
+La faute à Elraine :
+sans Lentille, immobiles
+
+[06189.25322]
+Brûler l’herbe vénéneuse de la
+Forêt vierge : l’Anneau du
+sorcier, et ?
+
+[06189.25401]
+Croc de Garm
+
+[06189.25414]
+Éc. de basilic
+
+[06189.25429]
+Graine pomp.
+
+[06189.25442]
+Instr. Johnny
+
+[06189.25457]
+L’idée de {NAME:05 00 00 00}, un succès !
+Mais le Garm, dur
+à attraper !
+
+[06189.25523]
+Elle soigne tout sauf le K.-O.
+et rend HP et TP :
+un objet bien pratique
+
+[06189.25604]
+Présent altéré : quelle ville
+remplace Heidelberg ?
+
+[06189.25662]
+Realta du soir
+
+[06189.25679]
+Vangelo d’azur
+
+[06189.25700]
+Speranza écarlate
+
+[06189.25721]
+Shinwucha verte
+
+[06189.25742]
+Présent altéré : Barbatos
+est vénéré comme quoi ?
+
+[06189.25794]
+Hero
+
+[06189.25799]
+Élu
+
+[06189.25804]
+Croisé
+
+[06189.25811]
+Berserker
+
+[06189.25824]
+Barbatos, traité
+en héros...
+
+[06189.25860]
+Pour nous, ça lui va,
+mais non !
+
+[06189.25896]
+À Realta, quel lieu
+était oublié ?
+
+[06189.25938]
+Biblio
+
+[06189.25945]
+Soins
+
+[06189.25952]
+Arène
+
+[06189.25959]
+Bar
+
+[06189.25964]
+Elraine décide de l’avenir :
+étudier l’histoire n’avait
+plus de sens...
+
+[06189.26039]
+{NAME:04 00 00 00} a comparé le
+monde altéré à quoi ?
+
+[06189.26082]
+Clos
+
+[06189.26087]
+Nef en verre
+
+[06189.26100]
+Réduit
+
+[06189.26107]
+Jeu de cubes
+
+[06189.26124]
+Un monde fabriqué,
+achevé en lui-même
+
+[06189.26166]
+Sens voisin
+
+[06189.26181]
+Un « petit monde » ?
+
+[06189.26204]
+À l’Œuf de Dieu, {NAME:06 00 00 00} disait
+quelque chose comme ça
+
+[06189.26265]
+Qu’a fait Elraine pour
+altérer l’histoire ?
+
+[06189.26315]
+Inverser la guerre
+
+[06189.26336]
+Naufrage
+
+[06189.26347]
+Lancer Belcrant
+
+[06189.26366]
+Comète
+
+[06189.26375]
+Du coup, elle a ramené
+Barbatos et Leon à la vie
+
+[06189.26429]
+Maître des mers
+
+[06189.26446]
+C’était pour refaire
+le monde à zéro
+
+[06189.26486]
+Présent altéré : quel Sanctuaire
+relie la terre à
+Dycroft ?
+
+[06189.26561]
+Lumière
+
+[06189.26572]
+Pluie
+
+[06189.26583]
+Miroir
+
+[06189.26594]
+Vérité
+
+[06189.26607]
+Déjà oublié, dis ?
+
+[06189.26630]
+{NAME:04 00 00 00} a traité de quoi
+l’œuvre d’Elraine ?
+
+[06189.26685]
+Farce
+
+[06189.26694]
+Space opera
+
+[06189.26709]
+Bal
+
+[06189.26714]
+Écran
+
+[06189.26721]
+Il l’a dit au temple de
+Fortuna, souviens-toi
+
+[06189.26769]
+Lou et {NAME:05 00 00 00} ?
+
+[06189.26787]
+Frè.
+
+[06189.26792]
+Aimé
+
+[06189.26797]
+Aide
+
+[06189.26802]
+Fils
+
+[06189.26807]
+Emporté par la maladie...
+
+[06189.26836]
+Le robot d’essai
+de {NAME:06 00 00 00} ?
+
+[06189.26873]
+HRX-2
+
+[06189.26886]
+HDX-2
+
+[06189.26899]
+HSX-2
+
+[06189.26912]
+HPX-2
+
+[06189.26925]
+Fini, quel robot
+ça aurait donné ?
+On aurait peut-être perdu...
+
+[06189.27002]
+Après, {NAME:06 00 00 00} a
+botté {NAME:03 00 00 00}.
+Tu te souviens ?
+
+[06189.27057]
+{NAME:06 00 00 00} :
+« ??? de femme bat
+la théorie du chaos »
+??? = ?
+
+[06189.27118]
+Flair
+
+[06189.27127]
+Pistolet
+
+[06189.27136]
+Larmes
+
+[06189.27147]
+Charme
+
+[06189.27158]
+... Le flair d’une femme,
+ça fait peur
+
+[06189.27198]
+{NAME:06 00 00 00} déteste
+« professeur » : pourquoi ?
+
+[06189.27241]
+Pas mignon
+
+[06189.27258]
+Gênant
+
+[06189.27273]
+Ennuyeux
+
+[06189.27288]
+Ringard
+
+[06189.27303]
+{NAME:06 00 00 00} est... ?
+
+[06189.27319]
+Lt-C
+
+[06189.27324]
+Exactement !
+Plutôt gradée, hein
+
+[06189.27360]
+Hélas, mais non
+
+[06189.27377]
+Trop tard~
+En vrai, moi aussi je m’y perds un peu
+
+[06189.27431]
+Le grade de Karell ?
+
+[06189.27454]
+Plus haut que ça
+
+[06189.27473]
+Le grade d’Atwight ?
+
+[06189.27498]
+Exactement !
+Plus gradée que {NAME:06 00 00 00}
+
+[06189.27537]
+Sous les ordres de {NAME:06 00 00 00},
+affectés où ?
+
+[06189.27586]
+Génie
+
+[06189.27593]
+Assaut
+
+[06189.27600]
+Espions
+
+[06189.27609]
+Santé
+
+[06189.27616]
+Avec {NAME:06 00 00 00}, on a même
+arrêté Belcrant, hein
+
+[06189.27667]
+En vrai,
+j’aurais voulu ça
+
+[06189.27697]
+La clé résistant aux écarts ?
+
+[06189.27728]
+Clé maîtr.
+
+[06189.27741]
+Clé Cell
+
+[06189.27750]
+Puce Bio
+
+[06189.27763]
+Puce Gène
+
+[06189.27776]
+Il y en a tant :
+tu as oublié ?
+
+[06189.27810]
+À la naissance de l’armée
+céleste, qui s’est rebellé
+et a pris Dycroft ?
+
+[06189.27883]
+Elraine
+
+[06189.27894]
+Rien d’aussi mesquin, non
+
+[06189.27921]
+L’arme placée sous Dycroft
+s’appelle ?
+
+[06189.27965]
+Belcrant
+
+[06189.27978]
+L’Œil
+
+[06189.27985]
+Au départ, ce n’était
+pas une arme
+
+[06189.28023]
+C’est faux
+
+[06189.28036]
+Le labo des Swordians
+est sur quel site ?
+
+[06189.28080]
+Le Dépôt
+
+[06189.28091]
+Chambre de {NAME:06 00 00 00}
+
+[06189.28109]
+Ailleurs,
+le gaz est pénible
+
+[06189.28147]
+Chez l’ennemi ?
+Impossible
+
+[06189.28175]
+Jonc de soin :
+ennemi battu, on a ?
+
+[06189.28217]
+HP
+
+[06189.28222]
+TP
+
+[06189.28227]
+SP
+
+[06189.28232]
+Cran
+
+[06189.28237]
+Dymlos a agi seul en pleine
+opération et ignoré les ordres
+d’en haut. Quelle sanction
+Litler a-t-il donnée ?
+
+[06189.28351]
+Mener l’assaut
+
+[06189.28372]
+Renvoi
+
+[06189.28381]
+Savate
+
+[06189.28390]
+Blâme
+
+[06189.28399]
+Litler a le cœur large, hein
+
+[06189.28430]
+Tout le monde râlerait
+
+[06189.28455]
+Ce n’est pas {NAME:06 00 00 00} !
+
+[06189.28477]
+Pas si mesquin !
+
+[06189.28496]
+Le Swordian Berselius :
+l’esprit de qui ?
+
+[06189.28546]
+Kernel
+
+[06189.28555]
+Litler
+
+[06189.28564]
+Que de choses, il paraît
+
+[06189.28591]
+Dommage. Non !
+
+[06189.28606]
+Qui a manié le premier
+le Swordian Berselius ?
+
+[06189.28654]
+Karell
+
+[06189.28663]
+{NAME:06 00 00 00} veut : A dissection
+B ménage C couture D cuisine ?
+
+[06189.28720]
+A
+
+[06189.28725]
+B
+
+[06189.28730]
+C
+
+[06189.28735]
+D
+
+[06189.28740]
+À-à quoi elle pense !
+J’en dors mal toutes
+les nuits... L’autre jour,
+elle m’a pris du sang
+
+[06189.28834]
+N-non... faux
+
+[06189.28851]
+Miyu, c’est... ?
+
+[06189.28868]
+La chèvre
+
+[06189.28879]
+Le chien
+
+[06189.28890]
+Le chat
+
+[06189.28901]
+L’oiseau
+
+[06189.28912]
+Bien trouvé !
+
+[06189.28927]
+Indice : foyer
+
+[06189.28942]
+{NAME:04 00 00 00} appelle Chaltier
+comment ?
+
+[06189.28983]
+Chal
+
+[06189.28990]
+Maître
+
+[06189.28999]
+Sire Chaltier
+
+[06189.29014]
+Pépé
+
+[06189.29023]
+Unis depuis l’enfance, de
+vrais frères, paraît-il
+
+[06189.29073]
+Ça, c’est Chaltier
+qui appelle {NAME:04 00 00 00}
+
+[06189.29112]
+{NAME:04 00 00 00}, « sire »... !?
+
+[06189.29136]
+Certes,
+aîné de 1 000 ans...
+
+[06189.29168]
+Qu’est-ce que Woodrow
+m’a remis ?
+
+[06189.29216]
+Ordre
+
+[06189.29223]
+Livre collect.
+
+[06189.29238]
+C’est la preuve qu’il
+nous fait confiance,
+hein... hé hé
+
+[06189.29295]
+À deux en voyage avec moi,
+{NAME:03 00 00 00} : « ça manque de » ?
+
+[06189.29351]
+Chic
+
+[06189.29356]
+Âme
+
+[06189.29361]
+Sel
+
+[06189.29366]
+Au fond, {NAME:03 00 00 00} ne dit
+que des trucs pareils !
+
+[06189.29415]
+{NAME:03 00 00 00} ne touche pas
+jusqu’à quel âge ?
+
+[06189.29458]
+14 ans
+
+[06189.29469]
+12 ans
+
+[06189.29480]
+16 ans
+
+[06189.29491]
+18 ans
+
+[06189.29502]
+Quel niveau actif monte
+avec les attaques normales ?
+
+[06189.29556]
+Attaque
+
+[06189.29565]
+Magie
+
+[06189.29574]
+Power
+
+[06189.29581]
+Sommet
+
+[06189.29590]
+Dommage, raté
+
+[06189.29607]
+Quel niveau actif monte
+avec artes et artes arcanes ?
+
+[06189.29663]
+Artes
+
+[06189.29670]
+Chaîne
+
+[06189.29679]
+Espoir
+
+[06189.29686]
+Kyle
+
+[06189.29693]
+Quel niveau actif monte
+avec les sorts ?
+
+[06189.29743]
+Magicien
+
+[06189.29752]
+Matrix
+
+[06189.29765]
+Raté, ça c’est les artes
+
+[06189.29792]
+Quel niveau actif monte
+avec les enchaînements ?
+
+[06189.29846]
+Chêne
+
+[06189.29855]
+Chine
+
+[06189.29864]
+Quand Atwight a été enlevée,
+qu’y avait-il avec la lettre
+« Je t’attends à la
+Spiral Cave » ?
+
+[06189.29966]
+Bracelet
+
+[06189.29979]
+Boucle
+
+[06189.29990]
+Collier
+
+[06189.30001]
+Béret
+
+[06189.30010]
+Oui !
+Barbatos, il était
+amoureux d’Atwight,
+peut-être... ?
+
+[06189.30076]
+Ça y ressemble, non
+
+[06189.30097]
+Atwight en porte
+toujours un, c’est vrai
+
+[06189.30141]
+Trop tard~
+Un peu dur, peut-être ?
+
+[06189.30181]
+Comment faire défiler vite
+un long message ?
+
+[06189.30229]
+{09:37 00 00 00}+{09:36 00 00 00}
+
+[06189.30242]
+{09:35 00 00 00}+{09:36 00 00 00}
+
+[06189.30255]
+{09:37 00 00 00}+{09:38 00 00 00}
+
+[06189.30268]
+{09:39 00 00 00}+{09:3A 00 00 00}
+
+[06189.30281]
+Un « coup de grâce éblouissant »
+est homologué quoi ?
+
+[06189.30339]
+Technical Smash
+
+[06189.30360]
+Critical Blade
+
+[06189.30381]
+Hyper Smash
+
+[06189.30400]
+Elegant Smash
+
+[06189.30421]
+Raté ! Le fameux
+« Mon coup à moi ! »
+
+[06189.30459]
+L’Anneau de reflet aide
+à faire quoi ?
+
+[06189.30515]
+Guard Strike
+
+[06189.30532]
+Spirits Blaster
+
+[06189.30553]
+Reflet
+
+[06189.30562]
+Vol TP
+
+[06189.30571]
+Arte mystique de Mille déchirures ?
+
+[06189.30609]
+Mille fers
+
+[06189.30620]
+Mille azurs
+
+[06189.30633]
+Poussier
+
+[06189.30644]
+L.fant
+
+[06189.30651]
+Le sort additionnel de Wind Slash ?
+
+[06189.30694]
+Cross Blade
+
+[06189.30709]
+Vortex Heat
+
+[06189.30728]
+Sting Grave
+
+[06189.30745]
+Souffle, vent
+
+[06189.30760]
+Le Pare-gel donne la résistance
+au gel, et quoi d’autre ?
+
+[06189.30830]
+Riposte
+
+[06189.30839]
+Absorbe
+
+[06189.30848]
+Immunité
+
+[06189.30857]
+Rend TP
+
+[06189.30866]
+Les 4 autels à mécanisme des
+Catacombes : initiales ?
+
+[06189.30922]
+P-T-M-C
+
+[06189.30937]
+D-T-M-C
+
+[06189.30952]
+Vent-forêt-feu
+
+[06189.30967]
+Mange ou meurs
+
+[06189.30982]
+P-T-N-C
+
+[06189.30997]
+P-T-M-P
+
+[06189.31012]
+Oui !
+Quel mécanisme tordu, hein~
+
+[06189.31050]
+Presque !
+C’est un peu ça, mais~
+
+[06189.31084]
+Ç-ça me dit quelque chose...
+
+[06189.31113]
+Réponds bien, dis !
+
+[06189.31134]
+Ouais, je t’ai eu♪
+
+[06189.31157]
+Trop tard~
+Quel mécanisme tordu, hein~
+
+[06189.31203]
+Dragon volant : une salle aux
+petits monstres vus à la seule
+Lunette du sorcier.
+Son maître, c’était ?
+
+[06189.31311]
+Cell mère
+
+[06189.31322]
+Cell maître
+
+[06189.31335]
+Cell roi
+
+[06189.31346]
+Grand Cell
+
+[06189.31357]
+Cell top
+
+[06189.31366]
+Cell l’Ancien
+
+[06189.31381]
+Oui !
+Brûlée vive à l’Anneau du
+sorcier, elle ouvrait la porte
+
+[06189.31448]
+Presque !
+C’est un peu ça, mais...
+
+[06189.31488]
+Trop simple, non ??
+
+[06189.31513]
+Oh !
+Réponds sérieusement !
+
+[06189.31541]
+Trop tard~
+Brûlée vive à l’Anneau du
+sorcier, elle ouvrait la porte
+
+[06189.31616]
+Quel est l’effet de
+l’Anneau technique ?
+
+[06189.31674]
+Plus d’objets gagnés
+
+[06189.31695]
+Plus de Skill Up
+
+[06189.31716]
+TP rendus accrus
+
+[06189.31733]
+SP rendus accrus
+
+[06189.31750]
+Le combat contre Dantalion à
+Dycroft : quel ennemi est
+sorti avec lui ?
+
+[06189.31831]
+Sage
+
+[06189.31838]
+Garm
+
+[06189.31845]
+Nachzehrer
+
+[06189.31860]
+Bandit
+
+[06189.31871]
+Juste avant Fortuna :
+l’incarnation divine ?
+
+[06189.31919]
+Eleraine
+
+[06189.31930]
+Elrainc
+
+[06189.31941]
+Elruine
+
+[06189.31952]
+Yulraine
+
+[06189.31963]
+Elra1ne
+
+[06189.31974]
+Oui !
+... Zut, ça n’a pas pris...
+
+[06189.32020]
+Hein ?
+Regarde bien
+
+[06189.32040]
+Mm ?
+Regarde !
+
+[06189.32056]
+Tu te relâches, non ?
+
+[06189.32081]
+Hé hé hé ?
+Lis bien
+
+[06189.32101]
+Lis bien, tu verras
+
+[06189.32122]
+Quel sort Fortuna
+ne lance-t-elle pas ?
+
+[06189.32170]
+Negative Gate
+
+[06189.32187]
+Freeze Hunter
+
+[06189.32204]
+Splash
+
+[06189.32217]
+Oui !
+Car il est de ténèbres ?
+
+[06189.32249]
+Dommage !
+Non
+
+[06189.32263]
+On a tant peiné, et
+tu as déjà oublié ?
+
+[06189.32305]
+Aux Catacombes, on a combattu qui, déjà ?
+
+[06189.32350]
+Ours-hibou
+
+[06189.32361]
+Oui ! Un adversaire coriace, hein
+
+[06189.32398]
+Elraine, c’était devant la Lentille géante, non
+
+[06189.32449]
+... Ça, c’est pas mon tout premier ennemi ?
+
+[06189.32496]
+Presque ! Lui, Gaap nous l’a
+lâché dessus au Dragon volant
+
+[06189.32556]
+À Heidelberg, l’invention de {NAME:06 00 00 00}
+qui a capté la distorsion ?
+
+[06189.32625]
+Analyseur 2
+
+[06189.32638]
+Attrapeur 3
+
+[06189.32655]
+Analyste 3
+
+[06189.32668]
+Mesureur 2
+
+[06189.32681]
+Oui !
+{NAME:06 00 00 00} sait vraiment tout fabriquer
+
+[06189.32724]
+Un nom mignon aussi, cela dit
+
+[06189.32757]
+Un peu à côté
+
+[06189.32772]
+Presque ! Du genre !
+
+[06189.32793]
+Bzzt, trop tard
+Ça m’a gâché mon rendez-vous avec {NAME:02 00 00 00}, tiens
+
+[06189.32858]
+Le chef du Dépôt de matériel ?
+
+[06189.32893]
+Blackburn
+
+[06189.32908]
+Cervelburn
+
+[06189.32923]
+Whiteburn
+
+[06189.32938]
+Émailburn
+
+[06189.32953]
+Verrou de haut niveau du
+Dépôt : outre la Clé
+maîtresse et la Clé Cell,
+il faut quoi ?
+
+[06189.33049]
+Clé Bio
+
+[06189.33060]
+Clé Simple
+
+[06189.33071]
+Clé Gène
+
+[06189.33082]
+Clé Ultime
+
+[06189.33093]
+Le Sanctuaire qui juge qui peut
+aller à Dycroft : son nom ?
+
+[06189.33155]
+Ténèbres
+
+[06189.33166]
+Salut
+
+[06189.33179]
+Bonheur
+
+[06189.33192]
+Déesse
+
+[06189.33203]
+Les Élus
+
+[06189.33222]
+Oui !
+Sur une petite colline
+
+[06189.33252]
+Mmh, c’est le nom inverse
+
+[06189.33281]
+Dans l’idée, oui... mais non
+
+[06189.33312]
+Ça sonne très juste... mais non
+
+[06189.33345]
+La nuance est un peu à côté...
+
+[06189.33378]
+Qui occupe un coin du Radisrol
+pour papoter sans fin ?
+
+[06189.33438]
+Commères
+
+[06189.33449]
+Ailes N.
+
+[06189.33458]
+Ravito
+
+[06189.33467]
+Nous
+
+[06189.33475]
+Vétéran et Bleu
+
+[06189.33494]
+Oui !
+Elles ont de ces voix~
+
+[06189.33528]
+Pas nous !
+Tu racontes quoi
+
+[06189.33560]
+En menant ses hommes, Dymlos
+dit toujours quelle
+« phrase habituelle » ?
+
+[06189.33633]
+Revenez vivants
+
+[06189.33650]
+Bon combat
+
+[06189.33661]
+Survivez !
+
+[06189.33674]
+Donnez tout
+
+[06189.33687]
+Cou-ra-ge☆
+
+[06189.33700]
+Oui !
+Du Dymlos tout craché,
+bon avec ses hommes !
+La classe !
+
+[06189.33766]
+Mm, ça irait aussi
+Mais non
+
+[06189.33802]
+Le sens est à peu près ça, mais...
+
+[06189.33839]
+... Réponds bien, ou je me fâche
+
+[06189.33876]
+Bzzt, trop tard
+Ces mots ont donné
+du courage à tous
+
+[06189.33933]
+Partis dans le futur pour le
+combat final contre Elraine,
+on est arrivés où, d’abord ?
+
+[06189.34020]
+Temple de Straylize
+
+[06189.34041]
+Calviola
+
+[06189.34052]
+Dycroft
+
+[06189.34065]
+Oui !
+On y est allés avec la
+Lentille de l’Ixifosler
+
+[06189.34120]
+Dommage !
+Non
+
+[06189.34134]
+Ça, c’est là où j’ai
+rencontré {NAME:02 00 00 00}
+
+[06189.34175]
+Tant de sauts dans le
+temps : oublié, non ?
+
+[06189.34219]
+Que cache Dymlos
+dans sa chambre ?
+
+[06189.34267]
+Fiole ard.
+
+[06189.34280]
+Photo d’Atwight
+
+[06189.34297]
+Swordian
+
+[06189.34310]
+Il ne cache rien !
+
+[06189.34331]
+35/100 en maths
+
+[06189.34352]
+Raté
+... Mais en cherchant
+mieux, qui sait...♪
+
+[06189.34409]
+Quand même, il le
+garderait mieux, non ?
+
+[06189.34453]
+Même un grand homme a un ou deux secrets
+... hein ?
+
+[06189.34505]
+Ça, c’est {NAME:03 00 00 00}, hein~♪
+
+[06189.34531]
+Parmi les clés du Dépôt, laquelle
+seule résiste aux écarts ?
+
+[06189.34597]
+Clé Omni
+
+[06189.34606]
+Puce maîtresse
+
+[06189.34621]
+Oui !
+Un peu facile, non ?
+
+[06189.34653]
+Je vois l’idée, mais...
+Dommage !
+
+[06189.34693]
+?? Une clé s’appelait comme ça ?
+
+[06189.34726]
+{NAME:04 00 00 00} écarte de son assiette
+le poivron, et quoi d’autre ?
+
+[06189.34790]
+Carotte
+
+[06189.34799]
+Oignon
+
+[06189.34808]
+Maïs
+
+[06189.34813]
+Tomate Calvilia
+
+[06189.34830]
+Petits pois
+
+[06189.34843]
+Pfft !
+Oui !
+Il a son côté mignon,
+{NAME:04 00 00 00}
+
+[06189.34894]
+Mmh
+Ça y ressemble, mais non
+
+[06189.34926]
+Légume du temps
+de {NAME:06 00 00 00}, ça
+
+[06189.34955]
+Mmh
+Ça ferait très vrai,
+mais non
+
+[06189.34996]
+Faut manger de tout, hein
+C’était ça
+
+[06189.35036]
+Gelée d’orange et Gelée d’orange
+raffinées : quelle gelée ?
+
+[06189.35100]
+Ananas
+
+[06189.35111]
+Miracle
+
+[06189.35124]
+Thon
+
+[06189.35135]
+Pur jus à 200 %
+
+[06189.35152]
+Oui !
+Logique, quand on y pense
+
+[06189.35186]
+Non
+Tu vises un peu haut, non ?
+
+[06189.35220]
+Euh...
+Comment on arriverait à ça~
+
+[06189.35262]
+Une telle gelée...
+J’y goûterais bien♪
+
+[06189.35304]
+Ça se comprend
+À force d’essais,
+on mélange tout, hein
+
+[06189.35361]
+Gelée mixte et Gelée mixte
+raffinées : quelle gelée ou fiole ?
+
+[06189.35425]
+Fiole de vie
+
+[06189.35438]
+Pomme
+
+[06189.35451]
+Hein ?
+L’effet a l’air
+plus faible, là...
+
+[06189.35500]
+Le Safran raffiné
+devient quoi, tu sais ?
+
+[06189.35550]
+Lavande
+
+[06189.35561]
+Romarin
+
+[06189.35574]
+Thym
+
+[06189.35581]
+Non !
+
+[06189.35588]
+La Sarriette raffinée
+devient quoi, tu sais ?
+
+[06189.35636]
+Safran
+
+[06189.35645]
+Fini !
+
+[06189.35654]
+Pour un Chou farci, il faut
+du Chou, de la Viande nerveuse...
+et quoi d’autre ?
+
+[06189.35735]
+Œuf
+
+[06189.35742]
+Consommé
+
+[06189.35757]
+Ficelle
+
+[06189.35768]
+Oui !
+Un peu surprenant, non
+
+[06189.35800]
+C’est bon aussi avec, hein
+
+[06189.35829]
+Bon, c’est vrai, remarque
+
+[06189.35856]
+Bon, mieux vaut en avoir, c’est sûr
+
+[06189.35893]
+Peut-être bon avec, oui
+
+[06189.35922]
+Trop tard~
+Le Chou farci de {NAME:05 00 00 00}, un délice♪
+
+[06189.35971]
+En fin de combat, Fortuna lance
+un sort qui laisse le groupe agonisant :
+« Last... » quoi ?
+
+[06189.36066]
+Vanisher
+
+[06189.36081]
+Pressure
+
+[06189.36094]
+Requiem
+
+[06189.36105]
+Pain
+
+[06189.36112]
+Slasher
+
+[06189.36125]
+Flow
+
+[06189.36132]
+Spri-End
+
+[06189.36145]
+Goddess Bless
+
+[06189.36160]
+Oui !
+Celui où des météores sortent
+d’en haut et d’en bas.
+J’ai cru qu’on était fichus
+
+[06189.36248]
+Presque !
+Un peu ça, mais...
+
+[06189.36282]
+On a tant peiné,
+et tu as oublié ?
+Du genre à oublier
+ce qui fâche ?
+
+[06189.36360]
+Qui nous a donné la Lunette du
+sorcier, géniale pour voir l’invisible ?
+
+[06189.36436]
+Philia
+
+[06189.36445]
+Woodrow
+
+[06189.36456]
+Exactement
+Vraiment, une femme
+douce et belle...
+
+[06189.36509]
+{NAME:06 00 00 00} en ferait bien
+une pareille, remarque
+
+[06189.36558]
+Sûrement pas ce type-là !
+
+[06189.36585]
+Presque !
+Un des Quatre Héros,
+jusque-là c’est bon
+
+[06189.36644]
+Elle nous a tant aidés ?!
+Une des Quatre Héros !
+L’oublier, c’est impoli !
+
+[06189.36721]
+Chambre de Chaltier, au Radisrol :
+quel livre y était vraiment !
+
+[06189.36787]
+Belle vie
+
+[06189.36798]
+Vivons positif !
+
+[06189.36819]
+Savoir rire
+
+[06189.36832]
+Économiser
+
+[06189.36845]
+Oui !
+Il y avait aussi « Tenir
+sous la pression »...
+
+[06189.36900]
+Mm... proche ?
+
+[06189.36915]
+Barbatos lisant ça,
+ce serait drôle
+
+[06189.36951]
+Une époque pauvre, alors
+... mais non !
+
+[06189.36995]
+Trop tard !
+
+[06189.37008]
+Bref,
+{NAME:04 00 00 00}, c’est qui ?!
+
+[06189.37035]
+Stahn
+
+[06189.37042]
+Johnny
+
+[06189.37051]
+Kongman
+
+[06189.37062]
+Rutee
+
+[06189.37071]
+Dupont
+
+[06189.37080]
+Gagnééé♪
+Ne pas savoir ça,
+ce serait grave
+
+[06189.37127]
+Mais c’est papa, ça !
+
+[06189.37152]
+Impossible, ça...
+
+[06189.37171]
+I-il mincit bien, habillé...
+
+[06189.37204]
+Si inquiète qu’elle se déguise
+... mais non !
+
+[06189.37250]
+...Qui ?
+
+[06189.37259]
+Ne pas savoir ça, c’est grave
+
+[06189.37292]
+Passé 400 rencontres,
+quel titre reçoit-on ?
+
+[06189.37340]
+Spiker
+
+[06189.37351]
+Spaper
+
+[06189.37360]
+Slayer
+
+[06189.37371]
+Slender
+
+[06189.37382]
+Passé 800 rencontres,
+quel titre reçoit-on ?
+
+[06189.37430]
+Eraser
+
+[06189.37441]
+Yessir
+
+[06189.37452]
+Oh-le-vilain
+
+[06189.37465]
+GRADE total de 600 : reconnu
+fin tacticien, on reçoit
+quel titre ?
+
+[06189.37540]
+Mars
+
+[06189.37545]
+Messie
+
+[06189.37552]
+Déchu
+
+[06189.37559]
+D... déchu, moi ?!
+
+[06189.37578]
+Quel titre reçoit-on
+en battant Fortuna ?
+
+[06189.37624]
+Rien du tout
+
+[06189.37639]
+Inhumain
+
+[06189.37648]
+Le Héros
+
+[06189.37657]
+Goddess Slayer
+
+[06189.37676]
+... Là,
+tu m’embêtes, c’est tout
+
+[06189.37710]
+Ben~
+Pour moi, ce serait
+la bonne réponse, tiens
+
+[06189.37759]
+Ça, c’est pas un titre
+des rencontres... ?
+
+[06189.37807]
+Chacun doit suivre sa voie
+
+[06189.37836]
+Dommage
+Fortuna est une déesse,
+... tu vois ?
+
+[06189.37883]
+Quel sort majeur comprime
+puis libère la terre ?
+
+[06189.37935]
+Grand Vanish
+
+[06189.37954]
+Graviton Hole
+
+[06189.37971]
+Embrace End
+
+[06189.37990]
+Quel sort majeur mène à
+un abîme de ténèbres ?
+
+[06189.38038]
+Excution
+
+[06189.38057]
+Excusijon
+
+[06189.38078]
+Shadow Edge
+
+[06189.38093]
+Ablecution
+
+[06189.38114]
+Sort majeur : un cercueil de
+glace pour « la fin » ?
+
+[06189.38170]
+Fearful Storm
+
+[06189.38189]
+{NAME:06 00 00 00} est chef
+de quelle unité ?
+
+[06189.38222]
+Méca-farces
+
+[06189.38237]
+Labo
+
+[06189.38244]
+Armes
+
+[06189.38251]
+Études
+
+[06189.38258]
+Oui !
+Plutôt gradée, alors
+
+[06189.38288]
+Ça y ressemble,
+mais non
+
+[06189.38318]
+Trop tard~
+Moi aussi, j’oubliais
+que {NAME:06 00 00 00} est chef d’unité
+
+[06189.38382]
+Combat final : Elraine a choisi
+quoi « de Dieu » ?
+
+[06189.38436]
+Œuf
+
+[06189.38447]
+Astre
+
+[06189.38454]
+Prunelle
+
+[06189.38465]
+Œil
+
+[06189.38472]
+Paume
+
+[06189.38485]
+Oui !
+Dans le ciel, quel spectacle
+
+[06189.38523]
+Le surnom de la
+Lentille de 6 m, ça
+
+[06189.38559]
+Bzzt, trop tard
+Oublier le lieu du combat final...
+Tu dormais, ou quoi ?
+
+[06189.38632]
+Machine de {NAME:06 00 00 00} cassée :
+{NAME:03 00 00 00} a fini comment ?
+
+[06189.38690]
+Botté
+
+[06189.38697]
+Boxé au foie
+
+[06189.38712]
+Giflé x2
+
+[06189.38723]
+Opéré
+
+[06189.38732]
+Projeté
+
+[06189.38743]
+Oui !
+C’était cruel
+
+[06189.38765]
+Ça fait mal aussi...
+
+[06189.38788]
+Ça, la spécialité de maman
+... à oublier...
+
+[06189.38836]
+I-il en mourrait~ !
+
+[06189.38857]
+Voilà
+« le dur bat le souple ! »
+... non !
+
+[06189.38902]
+Trop tard~
+Elle avait dit elle-même
+« liquidez-moi ça »... hein ?
+
+[06189.38971]
+{NAME:05 00 00 00} : l’arte
+« ○○ du dragon ». ○○ = ?
+
+[06189.39022]
+Feu
+
+[06189.39027]
+Gel
+
+[06189.39032]
+Eau
+
+[06189.39037]
+Ciel
+
+[06189.39042]
+Ténèbres funestes,
+un arcane... ?
+
+[06189.39077]
+obscur
+
+[06189.39086]
+sombre
+
+[06189.39095]
+lunaire
+
+[06189.39104]
+funeste
+
+[06189.39113]
+{NAME:03 00 00 00} : l’arte arcane
+« Cri ○○plosif ».
+○○ = ?
+
+[06189.39167]
+ex
+
+[06189.39172]
+im
+
+[06189.39177]
+in
+
+[06189.39182]
+ap
+
+[06189.39187]
+Le sort additionnel
+de Flame Drive ?
+
+[06189.39227]
+Photon Blaze
+
+[06189.39244]
+Rince-doigts
+
+[06189.39261]
+Flare Blaze
+
+[06189.39276]
+Flame Ball
+
+[06189.39291]
+Le sort additionnel
+de Thrust Fang ?
+
+[06189.39331]
+Aerial Edge
+
+[06189.39348]
+Tournevis
+
+[06189.39369]
+Got Bless
+
+[06189.39382]
+Le sort additionnel
+de Air Pressure ?
+
+[06189.39422]
+Ceiling Fall
+
+[06189.39439]
+Atomic Fall
+
+[06189.39458]
+Stone Crush
+
+[06189.39477]
+Gravity Stone
+
+[06189.39496]
+Sort additionnel
+de Delta Ray ?
+
+[06189.39530]
+Trinity Spark
+
+[06189.39549]
+Prism Flash
+
+[06189.39568]
+Shining Spear
+
+[06189.39587]
+Vangelo, drôle de ville du
+monde altéré par Elraine :
+son nom complet,
+c’est quoi ?
+
+[06189.39679]
+Vangelo écarlate
+
+[06189.39700]
+Vangelo du soir
+
+[06189.39721]
+Vangelo bleu ciel
+
+[06189.39742]
+Vangelo aérienne
+
+[06189.39763]
+Oui !
+Quelle drôle de ville~
+
+[06189.39795]
+Presque !
+Ça, c’est Speranza
+Moi aussi, je les
+confonds souvent...
+
+[06189.39871]
+Presque !
+Ça, c’est Realta
+Moi aussi, je les
+confonds souvent...
+
+[06189.39943]
+Hm ?
+Cette ville existait ??
+Dis pas n’importe quoi !
+
+[06189.40002]
+Ce qui flotte au ciel,
+c’est Dycroft !
+
+[06189.40042]
+Mmh, ça se comprend
+Moi aussi, j’oubliais presque
+
+[06189.40094]
+Après la défaite de Fortuna,
+chacun rentre à son époque.
+Qui est parti le premier ?
+
+[06189.40194]
+{NAME:03 00 00 00}, {NAME:01 00 00 00}
+
+[06189.40207]
+Exactement
+Les liens restent, je le sais,
+mais c’était un peu triste
+
+[06189.40278]
+Loni, en dernier, a
+disparu sur une phrase
+à l’eau de rose
+... mais j’étais content
+
+[06189.40364]
+{NAME:05 00 00 00} en 2e, je crois
+
+[06189.40388]
+{NAME:03 00 00 00} est rentré un
+peu avant moi
+
+[06189.40427]
+Bzzt, trop tard
+Une scène émouvante !
+Et tu oublies ? Oh !
+
+[06189.40486]
+La chèvre de l’orphelinat Dunamis,
+aux pis gonflés : son nom ?
+
+[06189.40552]
+Yuki
+
+[06189.40557]
+Bouc
+
+[06189.40562]
+Lou
+
+[06189.40567]
+Gagnééé♪
+Elle est trop mignonne !
+
+[06189.40605]
+Yuki, « neige » :
+ça irait aussi
+
+[06189.40643]
+Une chèvre « Bouc » ?!
+... Surréel...
+
+[06189.40683]
+Le frère de
+{NAME:05 00 00 00}, ça
+
+[06189.40710]
+Le nom de papa, ça, non ?
+
+[06189.40739]
+Trop tard~
+Bon, la question
+était un peu dure
+
+[06189.40786]
+Dans mon cauchemar,
+quel épisode manquait ?
+
+[06189.40830]
+{NAME:02 00 00 00} rebelle
+
+[06189.40844]
+{NAME:03 00 00 00} en femme
+
+[06189.40860]
+{NAME:04 00 00 00} ivrogne
+
+[06189.40876]
+Moi, modifié
+
+[06189.40893]
+Oui !
+Le pire des cauchemars~
+
+[06189.40927]
+Ouh...
+Ne me rappelle pas ça, pitié...
+
+[06189.40971]
+Ça, c’était plutôt marrant♪
+
+[06189.41000]
+D-d’y penser, j’en tremble...
+
+[06189.41035]
+Ouf, c’était un rêve
+
+[06189.41058]
+Anneau de résistance : de ?
+
+[06189.41087]
+Résistance
+
+[06189.41098]
+Éclair
+
+[06189.41109]
+Patience
+
+[06189.41120]
+Raison
+
+[06189.41131]
+Esprit
+
+[06189.41142]
+Quelle forêt séparait
+Vangelo et Realta ?
+
+[06189.41192]
+Vierge
+
+[06189.41201]
+Envoûtante
+
+[06189.41214]
+Égarée
+
+[06189.41223]
+Native
+
+[06189.41230]
+Jungle
+
+[06189.41241]
+Défendue
+
+[06189.41250]
+Oui !
+Sans {NAME:05 00 00 00}, on n’en
+serait pas sortis, hein
+
+[06189.41300]
+U-un nom tout bête, ça...
+
+[06189.41331]
+Dommage ! Trop tard
+Une chance, {NAME:05 00 00 00}
+était avec nous
+
+[06189.41385]
+Village Katz : source chaude
+mais pas de bain.
+Pourquoi ?
+
+[06189.41446]
+Ça mouille
+
+[06189.41457]
+Trop chaud
+
+[06189.41468]
+Trop peur
+
+[06189.41479]
+Par dégoût
+
+[06189.41492]
+Couleur du chapeau du jeune
+Oberon, jadis ? (白 blanc, 赤 rouge)
+
+[06189.41558]
+Azur
+
+[06189.41563]
+Rose
+
+[06189.41576]
+Orange
+
+[06189.41585]
+Avec Riz, Œuf et Oignon, on fait
+quel plat, que j’adooore aussi ?
+
+[06189.41653]
+Omurice
+
+[06189.41664]
+Riz sauté
+
+[06189.41675]
+Pilaf
+
+[06189.41682]
+Risotto
+
+[06189.41691]
+Oui ! Celui de {NAME:04 00 00 00},
+c’est mon préféré♪
+... Ah, celui de {NAME:02 00 00 00}
+est bon aussi...
+
+[06189.41783]
+Mmh,
+on dirait que oui, mais...
+
+[06189.41815]
+Mmh,
+ça se fait avec, c’est vrai...
+
+[06189.41851]
+Presque !
+Il faut un peu plus
+pour un Risotto
+
+[06189.41902]
+Mon arte arcane Croc d’azur :
+l’arte mystique ?
+
+[06189.41952]
+Azur fendu
+
+[06189.41963]
+Azur rompu
+
+[06189.41974]
+Azur broyé
+
+[06189.41985]
+Azur igné
+
+[06189.41996]
+Oui !
+« C’est pas fini ! », hein
+
+[06189.42030]
+Mm... presque !
+Ça pourrait bien exister, ça
+
+[06189.42076]
+Faut pas broyer l’azur, hein...
+On dirait une riposte
+
+[06189.42134]
+Pas de feu !
+
+[06189.42147]
+Anneau et Lunette du sorcier :
+Lentilles usées en tout ?
+
+[06189.42207]
+4
+
+[06189.42212]
+5
+
+[06189.42217]
+3
+
+[06189.42222]
+2
+
+[06189.42227]
+0
+
+[06189.42232]
+1,5
+
+[06189.42239]
+10 000
+
+[06189.42246]
+Oui !
+Pas de gâchis, hein
+
+[06189.42274]
+Ce serait trop beau~
+
+[06189.42299]
+Un compte bancal...
+
+[06189.42322]
+Sûrement pas, voyons !
+

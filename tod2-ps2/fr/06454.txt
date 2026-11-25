@@ -1,0 +1,247 @@
+[06454.001]
+Château de Heidelberg
+
+[06454.002]
+Château de Heidelberg
+
+[06454.003]
+Soldat
+
+[06454.004]
+Tout le monde s’agite parce que le fils de Stahn le héros serait là, mais c’est du bidon, du bidon, forcément !
+
+[06454.006]
+Qu’est-ce que vous racontez ! Je suis le fils de mon père, le vrai de vrai !
+
+[06454.007]
+Soldat
+
+[06454.008]
+... Toi, le fils de Stahn le héros ? Dis donc, les blagues, ça a des limites.
+
+[06454.009]
+Soldat
+
+[06454.010]
+T’as dû raconter un bobard, et maintenant tu peux plus reculer, hein ? Excuse-toi vite, va.
+
+[06454.011]
+Soldat
+
+[06454.012]
+Hmm, le vrai fils de Stahn, tiens... C’est vrai, ça...
+
+[06454.014]
+Q-quoi, qu’est-ce que vous avez à me dévisager ! ... Hé, c’est gênant ! Ne me prenez pas la main comme ça !
+
+[06454.015]
+Soldat
+
+[06454.016]
+... Non, c’est que, si t’es le vrai, là, c’est comme si j’avais serré la main de Stahn...
+
+[06454.017]
+Soldat
+
+[06454.018]
+J-je dis pas que j’y crois, hein ! C’est pas ça, mais... je peux te resserrer la main ?
+
+[06454.019]
+Soldat
+
+[06454.020]
+Hm ? Quoi ? Tu veux quelque chose ?
+
+[06454.021]
+Soldat
+
+[06454.022]
+Gh ! J’ai gaffé... !
+
+[06454.024]
+Tu es touché au bras... Hé, ne le bouge pas n’importe comment ! Reste tranquille !
+
+[06454.025]
+Soldat
+
+[06454.026]
+Hé, tu plaisantes ! Je suis un soldat de Phandaria, moi ! On se repose pas dans un moment pareil !
+
+[06454.027]
+Soldat
+
+[06454.028]
+... Aïe ! Me faire avoir au bras : quelle gaffe... !
+
+[06454.029]
+Soldat
+
+[06454.030]
+C’est... fini ? ... Sa Majesté... est sauve ?
+
+[06454.031]
+Soldat
+
+[06454.032]
+Cette fois, on a perdu. À plate couture, on peut le dire. ... Mais la prochaine, on perdra pas !
+
+[06454.033]
+Soldat
+
+[06454.034]
+Et pour ça, il faut au moins que les armes soient bien entretenues.
+
+[06454.035]
+Soldat
+
+[06454.036]
+... Franchement, si je fais rien, c’est pas tenable. ...... Bon sang !
+
+[06454.037]
+Soldat
+
+[06454.038]
+Ah, ces servantes : elles sortent tout et ne rangent rien !
+
+[06454.039]
+Soldat
+
+[06454.040]
+Bon sang, qu’elles se passionnent pour les réparations du château, très bien, mais qu’elles mettent pas le fourbi de la caserne sens dessus dessous...
+
+[06454.041]
+Soldat
+
+[06454.042]
+Les servantes, encore, passe, mais les soldats aussi, tout aux réparations du château ? Et les armes, personne les entretient !
+
+[06454.043]
+Soldat
+
+[06454.044]
+... Bon sang ! Si je le fais pas, personne le fera. Tant pis, j’y vais !
+
+[06454.045]
+Soldat
+
+[06454.046]
+Bon sang, si je le fais pas, personne entretient les armes...
+
+[06454.047]
+Soldat
+
+[06454.048]
+Bon sang, les autres ne s’occupent que des visiteurs, et l’entretien des épées, ils le sèchent !
+
+[06454.049]
+Soldat
+
+[06454.050]
+Frotte, frotte, frotte ! Oui, une épée, ça ne brille que si on l’astique !
+
+[06454.051]
+Soldat
+
+[06454.052]
+Tout le monde s’agite parce que le fils de Stahn le héros serait là. Pourquoi ça les excite à ce point ?
+
+[06454.054]
+C’est vrai, ça. Moi non plus, je ne comprends pas bien.
+
+[06454.055]
+Soldat
+
+[06454.056]
+Tu trouves aussi ? Hein, alors que c’est du bidon, forcément.
+
+[06454.057]
+Soldat
+
+[06454.058]
+Si celui qui est là est vraiment le fils de Stahn, je fais le tour du château sur les mains, tout nu.
+
+[06454.060]
+... T’as entendu, {NAME:01 00 00 00} ? On le lui fait faire ?
+
+[06454.061]
+Bon voyage.
+
+[06454.062]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06454.063]
+Voulez-vous passer la nuit ?
+
+[06454.065]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06454.066]
+Reposez-vous bien.
+
+[06454.067]
+Bonjour.
+
+[06454.068]
+Vous n’avez pas assez d’argent.
+
+[06454.069]
+Au plaisir de vous revoir.
+
+[06454.074]
+Obtenu : {16:25 BA}.
+
+[06454.076]
+Obtenu : {08:FF FF FF FF}.
+
+[06454.078]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06454.080]
+Il n’y a rien ici.
+
+[06454.082]
+Des armes bien entretenues sont alignées. Toutes ont l’air de pièces de prix.
+
+[06454.084]
+Des armes de guerre sont alignées : pour les jours de crise, sans doute.
+
+[06454.086]
+Une arme au tranchant affûté. L’œuvre d’un forgeron de premier ordre, sûrement.
+
+[06454.088]
+Cette arme a un vrai tranchant. Ce n’est pas un objet d’art : c’est une arme véritable.
+
+[06454.090]
+Les armes des soldats du château de Heidelberg. Les lames sont affûtées, sans la moindre ternissure.
+
+[06454.092]
+Une énorme armure de plates. Elle a l’air très lourde...
+
+[06454.094]
+Une armure de guerre. Elle est d’une facture très soignée.
+
+[06454.096]
+Une armure complète, en tôle martelée. Un travail très soigné : combien peut coûter une seule pièce...
+
+[06454.098]
+Une vraie armure complète. Il s’en dégage une présence écrasante...
+
+[06454.100]
+Des armures sont alignées. Pas des objets d’art : de vraies armures de guerre, semble-t-il.
+
+[06454.102]
+Une pièce ancienne, semble-t-il. ... Attention à ne pas la casser.
+
+[06454.104]
+De menus objets sont alignés. Tous ont l’air de valoir très cher.
+
+[06454.106]
+C’est bien un château royal : le moindre bibelot est d’une facture splendide.
+
+[06454.108]
+Des pièces splendides sont alignées...
+
+[06454.110]
+Des antiquités, peut-être. Des pièces anciennes sont alignées.
+

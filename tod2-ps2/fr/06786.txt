@@ -1,0 +1,539 @@
+[06786.001]
+Grand temple de Straylize
+
+[06786.002]
+Grand temple de Straylize
+
+[06786.003]
+Philia
+
+[06786.004]
+???
+
+[06786.005]
+... Oui, elle est hors de danger. Sa respiration s’est apaisée.
+
+[06786.007]
+Ouf...
+
+[06786.009]
+Mais tu es incroyable, toi ! Guérir une blessure pareille en un clin d’œil !
+
+[06786.010]
+???
+
+[06786.011]
+... Je n’ai rien d’incroyable. J’ai entraîné Philia là-dedans, et je n’ai même pas su la protéger...
+
+[06786.013]
+M-mais ! C’est parce que tu étais là qu’elle a pu être soignée ! Il n’y a pas de quoi te désoler comme ça !
+
+[06786.014]
+???
+
+[06786.015]
+Non... décidément, non... Avec mon pouvoir, je ne peux pas protéger une seule personne. Avec un pouvoir pareil...
+
+[06786.017]
+... Tu sais, ma mère disait quelque chose.
+
+[06786.019]
+« Il faut tirer la leçon de ses erreurs, mais pas la peine d’avoir des regrets. »
+
+[06786.021]
+La leçon mène vers l’avenir, alors que le regret ne fait que t’enchaîner au passé, d’après elle.
+
+[06786.022]
+???
+
+[06786.023]
+... ?
+
+[06786.025]
+Alors, enfin, euh... Toi, on dirait que tu regrettes sans arrêt, et ça, ce n’est pas bon, voilà...
+
+[06786.026]
+Il a tout à fait raison.
+
+[06786.027]
+???
+
+[06786.028]
+Philia... !
+
+[06786.029]
+Le Grand prêtre avait volé « l’Œil de Dieu » et servi une ambition : dominer le monde. Et moi, sans le savoir, je l’y avais aidé...
+
+[06786.030]
+Quand je l’ai appris, j’ai regretté tout ce que j’avais été, et je n’ai su que pleurer.
+
+[06786.031]
+C’est alors que Stahn m’a dit : « Pleurer ne suffit pas », et qu’il m’a tendu la main.
+
+[06786.032]
+Le regret n’engendre rien. C’est parce qu’il me l’a appris que je suis celle que je suis aujourd’hui.
+
+[06786.033]
+Hélas, le moyen de rencontrer un héros, je ne le connais pas non plus.
+
+[06786.034]
+Mais ce qu’il vous faut, cela, je le sais.
+
+[06786.035]
+???
+
+[06786.036]
+Ce qu’il me faut... ? Qu’est-ce que c’est !?
+
+[06786.037]
+Des compagnons. Des êtres comme l’ont été pour moi Stahn et Rutee.
+
+[06786.038]
+Ils ont cru en ma force, quand moi-même je n’y croyais pas... Alors j’ai pu avancer, moi aussi.
+
+[06786.039]
+Je crois qu’il vous faut, à vous aussi, des êtres comme eux.
+
+[06786.040]
+???
+
+[06786.041]
+Des compagnons...
+
+[06786.043]
+Comme papa et maman...
+
+[06786.045]
+Bon ! Ce sera moi !
+
+[06786.046]
+???
+
+[06786.047]
+Hein ?
+
+[06786.049]
+Je serai ton compagnon ! Je resterai avec toi, toujours, toujours ! C’est décidé !!
+
+[06786.051]
+Et si on reste ensemble, tu finiras bien par voir que le héros, c’est moi !
+
+[06786.052]
+???
+
+[06786.053]
+Ph-Philia, je...
+
+[06786.054]
+Vous avez déjà la réponse, n’est-ce pas ? Alors vous savez ce qu’il vous reste à faire.
+
+[06786.055]
+???
+
+[06786.056]
+... Veux-tu bien venir avec moi ?
+
+[06786.058]
+Bien sûr ! Ça ne se demande même pas !!
+
+[06786.059]
+???
+
+[06786.060]
+Merci...
+
+[06786.062]
+Ah oui ! Je t’appelle comment ? Je ne vais pas te dire « toi » éternellement.
+
+[06786.064]
+... {NAME:02 00 00 00}.
+
+[06786.066]
+{NAME:02 00 00 00}... Alors enchanté, pour de bon, {NAME:02 00 00 00} !
+
+[06786.068]
+... Oui ! Enchantée, {NAME:01 00 00 00} !
+
+[06786.070]
+... Hé, et moi, je compte pour du beurre ?
+
+[06786.072]
+Ah ! P-pardon, {NAME:03 00 00 00}. Ce n’est pas ce que je voulais dire...
+
+[06786.074]
+Et tu voulais dire quoi, alors ? Explique-moi ça bien comme il faut. Puisqu’on est des « compagnons », nous !
+
+[06786.076]
+Hi hi hi... Ahaha !
+
+[06786.078]
+Ah ! Attends, {NAME:04 00 00 00} !
+
+[06786.080]
+Reviens ici, toi, file pas !!
+
+[06786.082]
+Ah ! Philia, au revoir !
+
+[06786.084]
+{NAME:02 00 00 00} ! Viens vite !
+
+[06786.086]
+Philia, prenez bien soin de vous !
+
+[06786.088]
+... Hé, attends-moi, {NAME:01 00 00 00} !
+
+[06786.090]
+A-alors, Philia, je vais vous laisser...
+
+[06786.091]
+{NAME:02 00 00 00}.
+
+[06786.092]
+L’entendez-vous, {NAME:02 00 00 00} ? Ce bruit, boum, boum : c’est mon cœur qui bat.
+
+[06786.093]
+Ce bruit... ma vie... c’est vous qui les avez protégés.
+
+[06786.095]
+Philia...
+
+[06786.096]
+Vous avez un pouvoir véritable. Celui de sauver les gens... Alors ayez davantage foi en vous.
+
+[06786.098]
+... Oui !
+
+[06786.100]
+Alors au revoir, Philia. Merci infiniment !
+
+[06786.101]
+... Quels enfants étranges. {NAME:02 00 00 00}... et {NAME:01 00 00 00}.
+
+[06786.102]
+Hi hi ! Les cheveux, le visage, et jusqu’à sa façon de parler : tout le portrait de cet homme...
+
+[06786.103]
+... {NAME:01 00 00 00} ? Mais oui ! Si je me souviens bien, l’enfant de Stahn et de Rutee... !
+
+[06786.104]
+... {NAME:02 00 00 00}. Ce que vous cherchez est peut-être plus près que vous ne le croyez.
+
+[06786.105]
+Oh, bonjour.
+
+[06786.106]
+Une lettre pour moi ? Merci beaucoup.
+
+[06786.107]
+Voilà qui... doit vous embarrasser.
+
+[06786.108]
+Je vais écrire une réponse : attendez un instant, je vous prie.
+
+[06786.110]
+Chère Virginia,
+
+[06786.112]
+J’ai bien lu ta lettre.
+
+[06786.114]
+Tu me demandes si le père Noël existe vraiment...
+
+[06786.116]
+............
+
+[06786.117]
+Voici ma réponse. Veillez à bien la remettre à la petite Ginny.
+
+[06786.119]
+Reçu : la réponse de Philia.
+
+[06786.120]
+Je compte sur vous.
+
+[06786.121]
+Oh, {NAME:01 00 00 00} ! Et vous tous. Cela faisait longtemps.
+
+[06786.123]
+Bonjour, Philia !
+
+[06786.125]
+... Philia, nous sommes venus aujourd’hui vous demander conseil.
+
+[06786.126]
+... À vous voir, vous êtes bien tourmenté.
+
+[06786.127]
+Parlez, je vous en prie. Si je peux quelque chose, je vous aiderai.
+
+[06786.128]
+C’était donc cela... Appartenant moi-même à l’Ordre d’Atamoni, j’en suis toute partagée.
+
+[06786.129]
+{NAME:01 00 00 00}, {NAME:02 00 00 00}, vous avez dû tous deux beaucoup souffrir.
+
+[06786.131]
+Moi, ça va. À côté de ce qu’endure {NAME:01 00 00 00}, ce n’est rien.
+
+[06786.132]
+... Vous êtes forte, {NAME:02 00 00 00}.
+
+[06786.134]
+... Philia, je me tourmente depuis tout ce temps : que dois-je faire ? Mais je ne trouve pas de réponse, alors...
+
+[06786.135]
+... Je comprends. Cela ne vous éclairera peut-être pas, mais laissez-moi vous parler de nous, autrefois.
+
+[06786.136]
+Vous le savez peut-être : nous aussi, au cours de notre quête de l’Œil de Dieu, nous avons été acculés à un choix douloureux.
+
+[06786.137]
+Il nous a fallu combattre celui qui avait été notre compagnon.
+
+[06786.138]
+Il s’appelait Leon Magnus. Sous un regard froid comme la glace, il cachait le cœur le plus chaleureux de tous.
+
+[06786.140]
+Et à ce moment-là, ça ne vous a pas fait mal, à vous tous ?
+
+[06786.141]
+Bien sûr, ce fut un combat douloureux. Bien plus que tous ceux d’avant...
+
+[06786.142]
+Pourtant, je n’ai pas eu de regrets. Dix-huit ans ont passé, et ce sentiment n’a pas changé.
+
+[06786.144]
+Mais c’était un compagnon, il s’était battu à vos côtés, non ? Moi, jamais je ne pourrais... !
+
+[06786.145]
+Si nous pouvons vivre sans regrets, c’est que tout cela, nous l’avions choisi nous-mêmes.
+
+[06786.147]
+Choisi vous-mêmes... ?
+
+[06786.148]
+Jusque-là, j’avais toujours fui devant toute décision à prendre par moi-même.
+
+[06786.149]
+C’est ainsi que l’Œil de Dieu a été emporté hors du temple, et que j’ai mis le monde en péril.
+
+[06786.150]
+Ceux qui m’ont sauvée, ce sont Stahn, Rutee, et aussi Leon et les autres.
+
+[06786.152]
+Papa et les autres... ?
+
+[06786.153]
+Ils m’ont appris combien il est précieux de vivre selon sa propre volonté.
+
+[06786.154]
+Et, du même coup, combien c’est rude...
+
+[06786.155]
+Je ne peux plus que l’imaginer, mais je crois que Leon non plus ne regrette pas la décision qu’il prit alors.
+
+[06786.156]
+Car c’était une noble décision, prise pour protéger celle qu’il aimait...
+
+[06786.158]
+........
+........
+
+[06786.160]
+Votre décision aussi...
+
+[06786.161]
+Hein ?
+
+[06786.163]
+Votre décision, comme celle de ce Leon, n’était en rien une erreur.
+
+[06786.165]
+S’il était ici, c’est sûrement ce qu’il aurait dit.
+
+[06786.166]
+... Merci, {NAME:04 00 00 00}.
+
+[06786.168]
+Philia... Merci infiniment.
+
+[06786.170]
+Un peu... rien qu’un tout petit peu, mais j’ai l’impression d’avoir compris quelque chose.
+
+[06786.171]
+Vraiment ? Si j’ai pu vous être utile, j’en suis heureuse.
+
+[06786.172]
+... {NAME:01 00 00 00}. Une dernière chose.
+
+[06786.173]
+C’est peut-être cruel à dire, à vous qui êtes si tourmenté...
+
+[06786.174]
+Mais ne fuyez pas, cela seulement. C’est une chose que vous seul pouvez décider.
+
+[06786.175]
+Car pour {NAME:02 00 00 00}, le héros, c’est vous...
+
+[06786.177]
+Oui... je le sais... enfin, je crois.
+
+[06786.178]
+... Je vois. Voilà donc ce qui s’est passé à Hope Town...
+
+[06786.180]
+Et la vie de cet enfant...
+
+[06786.181]
+Hélas... le jugement de ce clerc est juste.
+
+[06786.182]
+Un mal qui présente ces symptômes, à moins d’un miracle, on n’en réchappe pas...
+
+[06786.184]
+Il n’y a pas un autre moyen, quelque chose !?
+
+[06786.186]
+Je vous en prie ! Je veux le sauver, coûte que coûte !!
+
+[06786.187]
+... Il ne vous reste qu’à accomplir vous-mêmes un miracle...
+
+[06786.188]
+Il existe un remède, un seul, contre ce mal ancien, mais le préparer tient presque du miracle.
+
+[06786.190]
+Que faut-il faire, au juste ?
+
+[06786.191]
+Pour préparer ce remède, il faut une fleur de Berselia.
+
+[06786.193]
+Une fleur de Berselia ? Ne me dites pas qu’elle ne pousse qu’au bout du monde ?
+
+[06786.194]
+Non... La graine est ici.
+
+[06786.196]
+Alors il suffit de la faire fleurir, c’est ça ?
+
+[06786.197]
+Seulement, il n’y a plus aucun moyen de la faire fleurir.
+
+[06786.199]
+Comment ça !?
+
+[06786.200]
+Cette plante ne peut fleurir sans le secours du pouvoir d’un minerai particulier.
+
+[06786.202]
+Un minerai particulier ?
+
+[06786.203]
+Ce minerai est celui dont on se servait jadis, dit-on, pour amplifier le pouvoir des Lentilles...
+
+[06786.204]
+Une pierre très dangereuse : c’est elle, dit-on, qui donnait sa force de destruction à Belcrant, l’arme de Dycroft, la cité céleste...
+
+[06786.206]
+Ne me dites pas... « l’Œil de Dieu » ?
+
+[06786.207]
+Si... Et le dernier de ces minerais qui restait sur terre, nous l’avons brisé il y a dix-huit ans.
+
+[06786.209]
+Alors il n’en existe plus nulle part ?
+
+[06786.210]
+Je l’ignore... Mais en retrouver me paraît presque impossible.
+
+[06786.212]
+... Mais « presque impossible », ça veut dire que ce n’est pas impossible, non...
+
+[06786.213]
+Mais...
+
+[06786.215]
+Donnez-moi cette graine ! Cette fleur, je la ferai fleurir, c’est juré.
+
+[06786.217]
+Pourquoi je me donne tant de mal pour ce gosse, je ne sais pas trop...
+
+[06786.219]
+Mais je veux le sauver, coûte que coûte !!
+
+[06786.220]
+... Très bien. Si vous parvenez à faire éclore cette fleur, apportez-la-moi...
+
+[06786.222]
+Obtenu : la graine de Berselia.
+
+[06786.223]
+Puisse cette fleur répondre à la force de votre vœu...
+
+[06786.224]
+Ce n’est pas possible... Vous avez vraiment fait éclore la fleur de Berselia... !!
+
+[06786.226]
+Philia, pardon de vous presser, mais le remède, vite... !!
+
+[06786.227]
+O-oui... bien sûr ! Avec cette fleur, il ne reste plus qu’à la faire infuser, et...
+
+[06786.228]
+C’est prêt ! Voici l’élixir de Berselia !!
+
+[06786.230]
+Obtenu : l’élixir de Berselia.
+
+[06786.232]
+Avec ça, la maladie va guérir, hein ?
+
+[06786.233]
+Non... Quand on donne ce remède au malade, les fonctions de son corps faiblissent pour un temps.
+
+[06786.234]
+Pendant ce temps, pour que son état ne s’aggrave pas d’un coup, il faut que quelqu’un le veille plusieurs jours sans dormir.
+
+[06786.236]
+Rien n’est simple, jusqu’au bout... Enfin, bref, allons porter ce remède au gosse.
+
+[06786.237]
+Bon voyage.
+
+[06786.238]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06786.239]
+Voulez-vous passer la nuit ?
+
+[06786.241]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06786.242]
+Reposez-vous bien.
+
+[06786.243]
+Bonjour.
+
+[06786.244]
+Vous n’avez pas assez d’argent.
+
+[06786.245]
+Au plaisir de vous revoir.
+
+[06786.250]
+Obtenu : {16:26 36}.
+
+[06786.252]
+Obtenu : {08:FF FF FF FF}.
+
+[06786.254]
+Trouvé : {16:26 3E}, mais vous n’avez plus de place.
+
+[06786.256]
+Il n’y a rien ici.
+

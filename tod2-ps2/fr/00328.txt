@@ -1,0 +1,9 @@
+[00328.001]
+Il fait si froid, et pourtant tout le monde déborde d’entrain... C’est vraiment un bel endroit, Heidelberg... C’est peut-être parce que Woodrow gouverne bien.
+
+[00328.002]
+Mmh, Woodrow est formidable, c’est sûr, mais c’est peut-être aussi que tous les gens d’ici le sont, non ? Comment dire, c’est du genre « La neige ? Qu’elle vienne ! ». {NAME:03 00 00 00}, lui, resterait chez lui toute la journée à crier « J’ai froooid ! », roulé en boule sous sa couette.
+
+[00328.003]
+Hi hi ! Tout lui ! Tu as peut-être raison, {NAME:01 00 00 00}. Ce n’est pas grâce à un seul : chacun vit de son mieux, et la ville est belle.
+

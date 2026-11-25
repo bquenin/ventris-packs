@@ -1,0 +1,57 @@
+[06339.001]
+Darilsheid, l’ancienne capitale
+
+[06339.002]
+Darilsheid, l’ancienne capitale
+
+[06339.004]
+Ici, les canaux souterrains.
+
+[06339.005]
+Obtenu : {16:34 88} x{0B:01 00 00 00}{14:34 84}{0B:00 00 00 00}.
+
+[06339.007]
+Trouvé : {16:34 88} x{0B:01 00 00 00}{14:34 8C}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06339.009]
+{16:34 88} x{0B:01 00 00 00}{14:34 8C} : vous ne pouvez pas tout porter.
+・En prendre {14:34 84}, en jeter {14:34 90}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+
+[06339.011]
+Bon voyage.
+
+[06339.012]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06339.013]
+Voulez-vous passer la nuit ?
+
+[06339.015]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06339.016]
+Reposez-vous bien.
+
+[06339.017]
+Bonjour.
+
+[06339.018]
+Vous n’avez pas assez d’argent.
+
+[06339.019]
+Au plaisir de vous revoir.
+
+[06339.024]
+Obtenu : {16:25 E6}.
+
+[06339.026]
+Obtenu : {08:FF FF FF FF}.
+
+[06339.028]
+Trouvé : {16:25 EE}, mais vous n’avez plus de place.
+
+[06339.030]
+Il n’y a rien ici.
+

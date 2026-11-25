@@ -1,0 +1,22 @@
+[06240.5852]
+Lequel est {NAME:01 00 00 00},
+dis ?
+
+[06240.5879]
+Presque~
+
+[06240.5890]
+C’est moi !
+
+[06240.5903]
+Pas encore~
+Naïf, va~
+
+[06240.5925]
+Bingoooooooo
+
+[06240.5942]
+Alors ?
+Un coup de mou ?
+Je te porte ?
+

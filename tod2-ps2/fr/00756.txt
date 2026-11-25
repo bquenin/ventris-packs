@@ -1,0 +1,9 @@
+[00756.001]
+Depuis le sauvetage d’Atwight, il s’en est passé, des choses... La guerre du Ciel et de la Terre a redoublé, les expériences de {NAME:06 00 00 00} aussi...... Modifié trois fois, je suis devenu le Maître Swordian {NAME:01 00 00 00}...... {NAME:04 00 00 00}, changé par les expériences, noie ses jours dans l’alcool...... Sans son masque, il pleure comme un fou : ingérable...... Le plus fort, c’est {NAME:03 00 00 00} : c’était une femme. Depuis, fini le coureur de jupons : {NAME:03 00 00 00} n’a plus qu’une cible, moi. Chaque jour, je fuis ses griffes de toutes mes forces...... Ce cauchemar... jusqu’à quand...
+
+[00756.002]
+Hé, {NAME:01 00 00 00}. On ne dort pas en marchant !
+
+[00756.003]
+Oh ! ... Un rêve, ouf~ !
+

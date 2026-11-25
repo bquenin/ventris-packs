@@ -1,0 +1,21 @@
+[00688.001]
+Dites, c’est un camp militaire, ici, non ? Si nous errons dans cette tenue, euh, on ne va pas nous trouver suspects...
+
+[00688.002]
+Mmh... Maintenant que tu le dis, c’est vrai. On a beau regarder... on ne passe pas pour des militaires.
+
+[00688.003]
+Et si, simple hypothèse, hein ? Si on nous trouvait suspects... il nous arriverait quoi ?
+
+[00688.004]
+Arrestation et détention immédiates. Si l’on nous prenait pour des espions de l’armée céleste, ce serait la cour martiale, puis l’exécution... Ce n’est pas exclu.
+
+[00688.005]
+H-hé, là. Me fais pas peur... On fait quoi, {NAME:01 00 00 00} ? Vaudrait peut-être mieux pas trop se balader, ici.
+
+[00688.006]
+Mmh... En tout cas, réfléchissons en marchant.
+
+[00688.007]
+Tu saisis vraaaiment la gravité... ?
+

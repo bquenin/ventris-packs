@@ -1,0 +1,46 @@
+[06633.001]
+Catacombes
+
+[06633.002]
+Catacombes
+
+[06633.004]
+Un œuf... L’œuf de quoi, au juste ? Il fait peur : mieux vaut ne pas y toucher.
+
+[06633.005]
+Bon voyage.
+
+[06633.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06633.007]
+Voulez-vous passer la nuit ?
+
+[06633.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06633.010]
+Reposez-vous bien.
+
+[06633.011]
+Bonjour.
+
+[06633.012]
+Vous n’avez pas assez d’argent.
+
+[06633.013]
+Au plaisir de vous revoir.
+
+[06633.018]
+Obtenu : {16:25 BA}.
+
+[06633.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06633.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06633.024]
+Il n’y a rien ici.
+

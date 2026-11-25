@@ -1,0 +1,6 @@
+[00900.001]
+Dis, {NAME:02 00 00 00}. Ce dont tu veux parler, c’est...
+
+[00900.002]
+Quand on sera là où on s’est rencontrés... C’est important... très important.
+

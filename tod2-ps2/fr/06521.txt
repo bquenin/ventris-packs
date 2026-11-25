@@ -1,0 +1,61 @@
+[06521.001]
+Dragon volant
+
+[06521.002]
+Dragon volant
+
+[06521.003]
+Vous sentez une présence dans tous les coins de la salle.
+
+[06521.005]
+Des tissus organiques barrent le passage.
+
+[06521.007]
+L’Anneau du sorcier ne leur fait rien du tout !
+
+[06521.009]
+Cellule mère brûlée vive.
+
+[06521.010]
+Bon voyage.
+
+[06521.011]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06521.012]
+Voulez-vous passer la nuit ?
+
+[06521.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06521.015]
+Reposez-vous bien.
+
+[06521.016]
+Bonjour.
+
+[06521.017]
+Vous n’avez pas assez d’argent.
+
+[06521.018]
+Au plaisir de vous revoir.
+
+[06521.023]
+Obtenu : {16:25 DA}.
+
+[06521.025]
+Obtenu : {08:FF FF FF FF}.
+
+[06521.027]
+Trouvé : {16:25 E2}, mais vous n’avez plus de place.
+
+[06521.029]
+Il n’y a rien ici.
+
+[06521.030]
+Temps écoulé
+
+[06521.032]
+Dispositif de contrôle détruit.
+

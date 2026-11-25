@@ -1,0 +1,85 @@
+[06561.001]
+Grotte du littoral
+
+[06561.002]
+Grotte du littoral
+
+[06561.003]
+Grotte du littoral
+
+[06561.005]
+Mm, mmh...
+
+[06561.007]
+O-où est-ce qu’on est... ?
+
+[06561.009]
+{NAME:01 00 00 00}...
+
+[06561.011]
+{NAME:02 00 00 00} !
+
+[06561.013]
+Ça va, {NAME:02 00 00 00} ? Tu n’es pas blessée ?
+
+[06561.015]
+Moi, ça va. Mais les autres... ?
+
+[06561.017]
+On est vivants, on dirait. Ouf, cette fois, l’espace d’un instant, j’ai cru que ça y était.
+
+[06561.019]
+Tu parles. Avec ta tête d’increvable. Enfin, c’est que tu as une sacrée veine.
+
+[06561.021]
+Nous voilà saufs, fort bien, mais où nous as-tu amenés, {NAME:02 00 00 00} ?
+
+[06561.023]
+Je ne sais pas, moi non plus. J’ai seulement prié pour que tout le monde soit en lieu sûr.
+
+[06561.025]
+Mais... cette distorsion de l’espace, est-ce que par hasard...
+
+[06561.027]
+J’ai un mauvais pressentiment. Sortons vite d’ici.
+
+[06561.029]
+Oui. En tout cas, sortons !
+
+[06561.030]
+Bon voyage.
+
+[06561.031]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06561.032]
+Voulez-vous passer la nuit ?
+
+[06561.034]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06561.035]
+Reposez-vous bien.
+
+[06561.036]
+Bonjour.
+
+[06561.037]
+Vous n’avez pas assez d’argent.
+
+[06561.038]
+Au plaisir de vous revoir.
+
+[06561.043]
+Obtenu : {16:25 CE}.
+
+[06561.045]
+Obtenu : {08:FF FF FF FF}.
+
+[06561.047]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06561.049]
+Il n’y a rien ici.
+

@@ -1,0 +1,357 @@
+[06309.001]
+Cresta : auberge et épicerie
+
+[06309.002]
+Cresta
+
+[06309.003]
+Auberge et épicerie
+
+[06309.004]
+Épicier
+
+[06309.005]
+Hé, {NAME:01 00 00 00} ! Tu ne peux pas en emporter autant !
+
+[06309.007]
+Une grosse pièce de viande rôtit sur le feu...
+
+[06309.009]
+On dirait des fleurs comestibles. L’auberge doit s’en servir en cuisine.
+
+[06309.011]
+Vous avez goûté une fleur comestible, l’air de rien. Crue, forcément, c’était mauvais.
+
+[06309.012]
+Nelson l’Éclair
+
+[06309.013]
+Oh !? Mais c’est {NAME:03 00 00 00} le Tourbillon, là !
+
+[06309.014]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.015]
+Salut, Nelson ! Ça fait un bail ! Toujours à trousser des jupes avec Joe ?
+
+[06309.016]
+Nelson l’Éclair
+
+[06309.017]
+Hahaha ! J’ai fondé un foyer, moi. Je ne peux pas m’amuser éternellement.
+
+[06309.018]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.019]
+Qu... Tu t’es marié, toi !?
+
+[06309.020]
+Nelson l’Éclair
+
+[06309.021]
+Et toi, {NAME:03 00 00 00}, toujours célibataire ?
+
+[06309.022]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.023]
+Ouais ! J’ai aucun succès ! Bon sang ! Moi qui croyais que Joe, toi et moi, on resterait célibataires à vie !
+
+[06309.024]
+Nelson l’Éclair
+
+[06309.025]
+N’imagine pas des horreurs pareilles...
+
+[06309.026]
+Nelson l’Éclair
+
+[06309.027]
+Dans le temps, Joe, {NAME:03 00 00 00} et moi, on a bâti une légende.
+
+[06309.028]
+Nelson l’Éclair
+
+[06309.029]
+Mais les jours de l’enfance sont finis. Je vais bientôt être père.
+
+[06309.030]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.031]
+Quoi ! Tu gardes tout le bonheur pour toi ! Es-espèce de traître !
+
+[06309.032]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.033]
+Un gars de mon âge, déjà papa... Ça me fait tout drôle.
+
+[06309.034]
+Nelson l’Éclair
+
+[06309.035]
+Bah, toi, tu n’en auras sans doute jamais l’occasion de toute ta vie.
+
+[06309.036]
+Nelson l’Éclair
+
+[06309.037]
+Je vais bientôt être père. Ça me démange de transmettre au plus vite la légende que Joe, {NAME:03 00 00 00} et moi avons bâtie.
+
+[06309.039]
+Une histoire de troussage de jupes, mieux vaudrait ne pas la transmettre...
+
+[06309.040]
+Nelson l’Éclair
+
+[06309.041]
+{NAME:01 00 00 00}, ne prends pas notre légende à la légère. Nos exploits valent ceux des Quatre Héros.
+
+[06309.042]
+Nelson l’Éclair
+
+[06309.043]
+Salut, {NAME:03 00 00 00}. Tu vas quelque part ?
+
+[06309.044]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.045]
+Ouais. Chercher ce qu’on appelle la rencontre du destin.
+
+[06309.046]
+Nelson l’Éclair
+
+[06309.047]
+La rencontre du destin ? Laisse tomber, laisse tomber ! Toi, tu ne la trouveras jamais !
+
+[06309.048]
+{NAME:03 00 00 00} le Tourbillon
+
+[06309.049]
+Dis donc, tu y vas fort...
+
+[06309.050]
+Nelson l’Éclair
+
+[06309.051]
+Moi aussi, je serai bientôt père. Le temps file, hein.
+
+[06309.052]
+Nelson l’Éclair
+
+[06309.053]
+{NAME:01 00 00 00}, l’enfance passe en un clin d’œil. Fais l’idiot tant que tu peux, pendant qu’il est temps.
+
+[06309.055]
+{NAME:03 00 00 00} obtient le titre « {08:2E 08 00 00} ».
+
+[06309.056]
+Auberge
+
+[06309.057]
+Épicier
+
+[06309.058]
+Bienvenue, {NAME:01 00 00 00} ! Tu viens t’acheter un goûter ?
+
+[06309.059]
+Merci, hein !
+
+[06309.060]
+À la prochaine !
+
+[06309.061]
+Épicier
+
+[06309.062]
+Épicier
+
+[06309.063]
+Bienvenue, {NAME:01 00 00 00} ! Prends ton temps.
+
+[06309.064]
+Chef
+
+[06309.065]
+{16:34 8C} : tu en prépares ?
+
+[06309.066]
+Chef
+
+[06309.067]
+Veux-tu apprendre la recette : {16:34 8C} ?
+
+[06309.069]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06309.070]
+Chef
+
+[06309.071]
+Je vais t’apprendre la recette : {16:34 8C}.
+
+[06309.072]
+Chef
+
+[06309.073]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06309.074]
+Chef
+
+[06309.075]
+J’ai la recette : {16:34 8C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 84}{0B:00 00 00 00} Gald ?
+
+[06309.077]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06309.078]
+Chef
+
+[06309.079]
+Tu n’as pas assez d’argent.
+
+[06309.080]
+Chef
+
+[06309.081]
+Je te vends la recette : {16:34 8C}.
+
+[06309.082]
+Chef
+
+[06309.083]
+Bah, tant pis.
+
+[06309.084]
+{16:24 90}, {16:24 92}, {16:24 94}
+
+[06309.085]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.086]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.087]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.088]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.089]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}
+
+[06309.090]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.091]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06309.092]
+Chef
+
+[06309.093]
+Pour préparer {16:34 8C}, il faut :
+{18:44 88}
+
+[06309.094]
+Chef
+
+[06309.095]
+Mais tu as les ingrédients.
+
+[06309.096]
+Chef
+
+[06309.097]
+Si tu me les cèdes, je prépare : {16:34 8C}. Ça te va ?
+
+[06309.099]
+{03:00 00 00 00}　Oui
+　Non
+
+[06309.100]
+Chef
+
+[06309.101]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 8C}.
+
+[06309.102]
+Chef
+
+[06309.103]
+Dommage. C’est vraiment délicieux...
+
+[06309.104]
+Chef
+
+[06309.105]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06309.106]
+Chef
+
+[06309.107]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06309.108]
+Chef
+
+[06309.109]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06309.111]
+Recette ramassée : {16:34 8C}.
+
+[06309.113]
+Recette apprise : {16:34 A0}.
+
+[06309.114]
+Bon voyage.
+
+[06309.115]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06309.116]
+Voulez-vous passer la nuit ?
+
+[06309.118]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06309.119]
+Reposez-vous bien.
+
+[06309.120]
+Bonjour.
+
+[06309.121]
+Vous n’avez pas assez d’argent.
+
+[06309.122]
+Au plaisir de vous revoir.
+
+[06309.127]
+Obtenu : {16:25 EE}.
+
+[06309.129]
+Obtenu : {08:FF FF FF FF}.
+
+[06309.131]
+Trouvé : {16:25 F6}, mais vous n’avez plus de place.
+
+[06309.133]
+Il n’y a rien ici.
+

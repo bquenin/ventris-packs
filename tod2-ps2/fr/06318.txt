@@ -1,0 +1,554 @@
+[06318.001]
+Orphelinat Dunamis
+
+[06318.002]
+Orphelinat Dunamis
+
+[06318.003]
+Orphelinat Dunamis
+
+[06318.005]
+Bêêê~
+
+[06318.007]
+Cot cot codêêt !
+
+[06318.009]
+Ça faisait un bail que j’étais pas venu, mais...
+
+[06318.011]
+... c’est toujours aussi délabré.
+
+[06318.013]
+Pas « toujours aussi », {NAME:03 00 00 00}.
+
+[06318.015]
+Il y a trois fuites de plus dans le toit, et l’autre jour, une planche du sol a cédé.
+
+[06318.017]
+... Aah. Si seulement cette rumeur était vraie. On retaperait tout ça en un tournemain.
+
+[06318.019]
+Cette rumeur ?
+
+[06318.021]
+Tu vois les ruines de Laguna, près d’ici ? Il paraît qu’on a découvert une Lentille énorme tout en haut.
+
+[06318.023]
+L’Ordre a eu l’info aussi, et une équipe d’enquête est déjà arrivée à Darilsheid. Moi, je suis leur escorte.
+
+[06318.025]
+Mais dis, quel rapport avec l’orphelinat ?
+
+[06318.027]
+Hé hé... Accroche-toi. La valeur de cette Lentille... dépasserait largement les trois millions de Gald.
+
+[06318.029]
+T-trois millions de Gald !?
+
+[06318.031]
+En tout cas, avec ça, on pourrait rebâtir l’orphelinat. Et Rutee pourrait souffler un peu, tu vois.
+
+[06318.033]
+Bon, on y va, {NAME:03 00 00 00} !
+
+[06318.035]
+On y va... Hé, me dis pas que tu comptes aller aux ruines !?
+
+[06318.037]
+Si !
+
+[06318.039]
+Écoute... C’est rien qu’une rumeur. Une ru-meur !
+
+[06318.041]
+Et même si par extraordinaire c’était vrai, celui qui s’en empare aura l’Ordre d’Atamoni sur le dos !
+
+[06318.043]
+Mais toi, {NAME:03 00 00 00}, tu comptes la chercher, non ? C’est pour ça que tu as accepté de faire l’escorte, hein ?
+
+[06318.045]
+Urgh !
+
+[06318.047]
+Et te connaissant, {NAME:03 00 00 00}...
+
+[06318.049]
+« Je ne peux pas causer d’ennuis à {NAME:01 00 00 00} et à Rutee. »
+
+[06318.051]
+... ou quelque chose comme ça, et tu comptais la chercher tout seul, pas vrai ?
+
+[06318.053]
+Ugh !
+
+[06318.055]
+Voilà bien des manières ! Entre toi et moi, {NAME:03 00 00 00}, quand même !
+
+[06318.057]
+... Eh bien. Trop parler nuit, c’est bien vrai...
+
+[06318.059]
+C’est bon, {NAME:01 00 00 00}. Je t’emmène.
+
+[06318.061]
+Voilà qui est parlé !
+
+[06318.063]
+Mais ! Seulement si Rutee donne sa permission.
+
+[06318.065]
+Je sais, je sais ! Alors il faut que j’en parle à maman tout de suite. Viens, {NAME:03 00 00 00} !
+
+[06318.067]
+{NAME:01 00 00 00} et {NAME:03 00 00 00} obtiennent le titre « {08:07 08 00 00} ».
+
+[06318.068]
+?????
+
+[06318.069]
+Stahn et Rutee, n’est-ce pas. Deux des Quatre Héros qui ont sauvé le monde du dernier fléau...
+
+[06318.070]
+Stahn
+
+[06318.071]
+Que veux-tu ? De l’argent ? Des Lentilles ?
+
+[06318.072]
+?????
+
+[06318.073]
+Vos vies... !
+
+[06318.074]
+Rutee
+
+[06318.075]
+{NAME:01 00 00 00}, {NAME:03 00 00 00} ! Fuyez, tous les deux !!
+
+[06318.077]
+{NAME:01 00 00 00}... ? C’est bien toi, {NAME:01 00 00 00} !
+
+[06318.079]
+... T’es qui, toi ?
+
+[06318.081]
+Je vois... Tu as scellé tes souvenirs.
+
+[06318.083]
+Oublier ce qui fait mal, et continuer à vivre dans un monde de rêve heureux...
+
+[06318.085]
+Souvenirs ? Scellé ? Dis, de quoi tu parles ?
+
+[06318.087]
+C’est peut-être bien le bonheur. Mais... !
+
+[06318.089]
+Je t’en prie, {NAME:01 00 00 00}. Réveille-toi !
+
+[06318.091]
+A-aïe, tu me fais mal...
+
+[06318.093]
+C’est ça, le monde que tu voulais !? C’est ça, le bonheur !? Non, n’est-ce pas, {NAME:01 00 00 00} !
+
+[06318.095]
+Souviens-toi ! De tout le monde ! De notre voyage !
+
+[06318.097]
+Me... souvenir ? Voyage...
+
+[06318.099]
+Ugh !
+
+[06318.101]
+Ça fait mal ! J’ai mal à la tête !
+
+[06318.103]
+Je sais que c’est dur. Je sais que tu ne veux pas te souvenir !
+
+[06318.105]
+Mais... il n’y a que toi ! Le seul sur qui je puisse compter... mon héros, c’est toi et personne d’autre !
+
+[06318.107]
+Alors... je t’en prie, {NAME:01 00 00 00}. Réveille-toi !
+
+[06318.109]
+Hé... ros...
+
+[06318.111]
+... C’est vrai, je suis... !
+
+[06318.113]
+{NAME:01 00 00 00}...
+
+[06318.115]
+... Tout ça... c’est un rêve, alors...
+
+[06318.117]
+Il fait si chaud, on y est si bien, mais...
+
+[06318.119]
+Tout ça... n’est qu’un rêve...
+
+[06318.121]
+{NAME:03 00 00 00}...
+
+[06318.123]
+... {NAME:01 00 00 00}. C’était donc bien un rêve.
+
+[06318.125]
+Oui...
+
+[06318.127]
+C’était un beau rêve, hein. Stahn était là, Rutee était là, j’étais là, et toi aussi...
+
+[06318.129]
+{NAME:03 00 00 00}...
+
+[06318.131]
+Mais un rêve reste un rêve. Ça n’a aucun sens, ces trucs-là. Nous, on vit dans le présent.
+
+[06318.133]
+... Oui !
+
+[06318.134]
+???
+
+[06318.135]
+N-n’approche pas ! T-tu me fais pas peur, toi !
+
+[06318.137]
+C’est... nous !?
+
+[06318.139]
+Et Barbatos... !?
+
+[06318.141]
+Alors ça veut dire que c’est... !
+
+[06318.142]
+Barbatos
+
+[06318.143]
+Je n’ai rien à faire de vous, les mioches. Appelez Stahn et Rutee. Ils doivent être ici.
+
+[06318.145]
+Tu peux toujours courir ! Sors de chez nous, et vite !
+
+[06318.146]
+Barbatos
+
+[06318.147]
+Tu veux mourir, gamin !
+
+[06318.149]
+Sauve-toi, {NAME:01 00 00 00} !
+
+[06318.150]
+Stahn
+
+[06318.151]
+{NAME:03 00 00 00} !
+
+[06318.153]
+Stahn... ! Ne viens pas ! Fuis !
+
+[06318.155]
+... C’est inutile. Ce sont vos souvenirs. Nos voix... ne les atteignent pas.
+
+[06318.157]
+Papa...
+
+[06318.158]
+Barbatos
+
+[06318.159]
+C’est toi, Stahn ? Si tu tiens à la vie de celui-ci, jette ton arme sur-le-champ !
+
+[06318.160]
+Rutee
+
+[06318.161]
+Je serai ton otage à sa place ! Alors lâche cet enfant !
+
+[06318.162]
+Stahn
+
+[06318.163]
+Que veux-tu ? De l’argent ? Des Lentilles ?
+
+[06318.164]
+Barbatos
+
+[06318.165]
+Vos vies... !
+
+[06318.166]
+Stahn
+
+[06318.167]
+Gwaaaah !!
+
+[06318.169]
+P-papa !
+
+[06318.170]
+Rutee
+
+[06318.171]
+{NAME:03 00 00 00} ! Emmène {NAME:01 00 00 00} et fuis !
+
+[06318.172]
+Barbatos
+
+[06318.173]
+Meurs !!
+
+[06318.175]
+Maman !!
+
+[06318.176]
+Barbatos
+
+[06318.177]
+C’est ça, le héros qui a brisé l’Œil de Dieu ? Peuh, bien trop fragile...
+
+[06318.179]
+Pa... pa... ?
+
+[06318.181]
+Uh... papa... ? Papaaaa !!
+
+[06318.183]
+... Si je ne m’étais pas fait prendre par ce type, Stahn ne serait pas mort.
+
+[06318.185]
+Oui, Stahn... c’est comme si je l’avais tué.
+
+[06318.187]
+{NAME:03 00 00 00}...
+
+[06318.189]
+En plus, je te l’ai caché tout ce temps. Mieux vaut qu’il ne sache pas, c’est pour le bien de {NAME:01 00 00 00}, que je me disais...
+
+[06318.191]
+À jouer comme ça les meilleurs amis, c’est moi que je rassurais !
+
+[06318.193]
+... Pardon, {NAME:01 00 00 00} ! Moi... moi... !
+
+[06318.195]
+... Merci.
+
+[06318.197]
+Hein !?
+
+[06318.199]
+Tu m’as protégé au péril de ta vie. Sans toi, {NAME:03 00 00 00}, je ne serais pas vivant, pas vrai ?
+
+[06318.201]
+{NAME:01 00 00 00}...
+
+[06318.203]
+Et pour papa aussi, c’est sûrement maman et toi, {NAME:03 00 00 00}, qui avez décidé ça à deux, non ?
+
+[06318.205]
+Pour que je ne sois pas blessé, pour que je n’aie pas de chagrin.
+
+[06318.207]
+Alors, là encore, c’est « merci ».
+
+[06318.209]
+{NAME:01 00 00 00}... !
+
+[06318.211]
+Papa... n’est plus en vie... C’est un peu... vraiment, juste un peu triste, mais...
+
+[06318.213]
+... Mais tu sais, moi... ... j’ai {NAME:03 00 00 00} ! ... Alors ça va !
+
+[06318.215]
+... Oui, oui !
+
+[06318.217]
+Sois tranquille, {NAME:01 00 00 00}. Je te protégerai !
+
+[06318.219]
+Je te protégerai aussi pour Stahn !
+
+[06318.221]
+... Oui !
+
+[06318.223]
+C’est bon, {NAME:01 00 00 00} ?
+
+[06318.225]
+Oui, pardon de vous avoir fait attendre.
+
+[06318.227]
+Ça, c’est rien, mais dis, tu me prêtes la cour de derrière ?
+
+[06318.229]
+Elle veut modifier l’Ixifosler, paraît-il. Quoi qu’on fasse ensuite, autant que tout soit prêt.
+
+[06318.231]
+Tu sais, comme on dit : prudence est mère de sûreté... et de lance-roquettes à volonté.
+
+[06318.233]
+Les modifs vont prendre un petit moment, alors, bah, occupez-vous comme vous voulez.
+
+[06318.235]
+Dis, {NAME:01 00 00 00}. Il y a un endroit où j’aimerais que tu m’accompagnes.
+
+[06318.237]
+Hein ? O-où ça ?
+
+[06318.239]
+Aux ruines de Laguna !
+
+[06318.241]
+Je veux y aller. Là où je t’ai rencontré pour la première fois, {NAME:01 00 00 00}.
+
+[06318.243]
+................
+
+[06318.245]
+Vas-y, {NAME:01 00 00 00}. Je te préviendrai quand l’Ixifosler sera prêt.
+
+[06318.247]
+... D’accord. Allons-y, {NAME:02 00 00 00}.
+
+[06318.249]
+Oui !
+
+[06318.251]
+C’est... !
+
+[06318.253]
+Aucun doute... C’est ce dont parlait Elraine : l’« Œuf de Dieu ».
+
+[06318.255]
+................
+
+[06318.257]
+Qu’est-ce qu’on fait, {NAME:01 00 00 00} ?
+
+[06318.259]
+Il ne nous reste plus de temps. As-tu trouvé ta réponse, {NAME:01 00 00 00} ?
+
+[06318.261]
+{NAME:06 00 00 00}. L’Ixifosler est prêt ?
+
+[06318.263]
+Bien sûr, tout est OK ! On part quand tu veux !
+
+[06318.265]
+Alors, {NAME:01 00 00 00}...
+
+[06318.267]
+Oui, j’ai décidé. On abattra la déesse, de nos propres mains.
+
+[06318.269]
+... Je vois. Tu as pris là une rude décision, {NAME:01 00 00 00}.
+
+[06318.271]
+Si c’est ce que tu as décidé, nous, on te fait confiance et on fonce.
+
+[06318.273]
+Allons-y, {NAME:01 00 00 00}. Allons flanquer une raclée à un dieu !
+
+[06318.275]
+... Merci, tout le monde.
+
+[06318.277]
+Bon, on décolle ? Allez, montez, montez !
+
+[06318.279]
+... Allons-y, {NAME:02 00 00 00} !
+
+[06318.281]
+Oui... !
+
+[06318.283]
+Là-bas, {NAME:01 00 00 00} !
+
+[06318.285]
+Échappez aux enfants et à la poule pendant {06:14 00 00 00} secondes. Sortir de la carte, c’est perdre d’office.
+
+[06318.287]
+Échappé !
+
+[06318.289]
+Attrapé !
+
+[06318.291]
+Cot cot codêêt !
+
+[06318.292]
+Bon voyage.
+
+[06318.293]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06318.294]
+Voulez-vous passer la nuit ?
+
+[06318.296]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06318.297]
+Reposez-vous bien.
+
+[06318.298]
+Bonjour.
+
+[06318.299]
+Vous n’avez pas assez d’argent.
+
+[06318.300]
+Au plaisir de vous revoir.
+
+[06318.305]
+Obtenu : {16:26 96}.
+
+[06318.307]
+Obtenu : {08:FF FF FF FF}.
+
+[06318.309]
+Trouvé : {16:26 9E}, mais vous n’avez plus de place.
+
+[06318.311]
+Il n’y a rien ici.
+
+[06318.312]
+Orphelinat Dunamis
+
+[06318.314]
+Jouer sur le toboggan ?
+
+[06318.316]
+{03:00 00 00 00}　Jouer　
+　Ne pas jouer　
+
+[06318.318]
+Et hop !
+
+[06318.320]
+Comme {NAME:01 00 00 00} tire au flanc, il n’y a pas une seule bûche dans la réserve...
+
+[06318.322]
+Ça en fait, du linge. Jour après jour, maman n’a pas la vie facile...
+
+[06318.324]
+Le linge des orphelins sèche ici. Rutee l’étend toute seule, semble-t-il.
+
+[06318.326]
+Le parterre de l’orphelinat. De jolies fleurs y sont écloses.
+
+[06318.328]
+Un panneau. « Orphelinat Dunamis. Directeurs : Stahn Aileron et Rutee Katrea »
+

@@ -1,0 +1,62 @@
+[06732.001]
+Dycroft, il y a dix-huit ans
+
+[06732.002]
+Dycroft, il y a dix-huit ans
+
+[06732.003]
+Robot d’assistance payant
+
+[06732.004]
+Choisissez le service souhaité.
+
+[06732.006]
+{03:00 00 00 00}　Ravitaillement　
+　Soins ({0B:01 00 00 00}{06:FD 02 00 00}{0B:00 00 00 00} Gald)　
+
+[06732.007]
+Premiers soins, c’est parti !
+
+[06732.008]
+Guérison complète !
+
+[06732.009]
+Cette fois, c’est offert.
+
+[06732.010]
+Bon voyage.
+
+[06732.011]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06732.012]
+Voulez-vous passer la nuit ?
+
+[06732.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06732.015]
+Reposez-vous bien.
+
+[06732.016]
+Bonjour.
+
+[06732.017]
+Vous n’avez pas assez d’argent.
+
+[06732.018]
+Au plaisir de vous revoir.
+
+[06732.023]
+Obtenu : {16:25 BA}.
+
+[06732.025]
+Obtenu : {08:FF FF FF FF}.
+
+[06732.027]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06732.029]
+Il n’y a rien ici.
+

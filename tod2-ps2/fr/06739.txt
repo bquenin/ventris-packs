@@ -1,0 +1,121 @@
+[06739.001]
+Cresta
+
+[06739.002]
+Cresta
+
+[06739.004]
+Ouah... Quel beau temps, {NAME:03 00 00 00} !
+
+[06739.006]
+Un temps rêvé pour l’aventure, comme on dit. Au fait, {NAME:01 00 00 00}, tu es prêt pour le départ ?
+
+[06739.008]
+Oui : ce qui manque, on l’achètera au bazar, non ?
+
+[06739.010]
+Je ne parle pas de ça. ... Tiens, regarde. D’ici, on voit bien la ville.
+
+[06739.012]
+Grave-la bieeen dans ta mémoire. Tu ne la reverras peut-être jamais.
+
+[06739.014]
+Hein !?
+
+[06739.016]
+L’aventure, ça va de pair avec le danger. Avec de la malchance, on peut même y laisser la vie.
+
+[06739.018]
+Oh non...
+
+[06739.020]
+Haha ! Tu as la trouille ?
+
+[06739.022]
+Mais c’est ça, la réalité. ... Ça te fait peur ?
+
+[06739.024]
+... {NAME:03 00 00 00}, tu sais, là, j’ai le cœur qui bat super fort.
+
+[06739.026]
+Bien sûr, c’est aussi parce que j’ai peur. Mais... ce cœur qui bat, ce n’est pas que ça.
+
+[06739.028]
+Quand j’ai vu cette fille aux ruines de Laguna, je me suis dit que quelque chose commençait.
+
+[06739.030]
+Depuis, il s’est passé plein de choses, mais... le voyage d’aventure dont je rêvais depuis toujours, je peux enfin le faire.
+
+[06739.032]
+Oui : comme papa, un voyage pour devenir un héros...
+
+[06739.034]
+Rien que d’y penser, eh bien, mon cœur n’arrête plus de battre !
+
+[06739.036]
+J’ai envie de crier « Ouaaah ! », là, tout de suite !
+
+[06739.038]
+Hé hé... ahaha ! Ça, c’est bien {NAME:01 00 00 00} !
+
+[06739.040]
+Ne t’en fais pas, je te protégerai. Quoi qu’il arrive, c’est promis.
+
+[06739.042]
+{NAME:03 00 00 00}...
+
+[06739.044]
+Bon, on y va ? En route pour l’aventure !
+
+[06739.046]
+« Le voyage pour devenir un héros », {NAME:03 00 00 00} !
+
+[06739.048]
+Hahaha ! C’est vrai.
+
+[06739.050]
+Alors allons-y, {NAME:01 00 00 00}. En route pour ton voyage de futur héros !
+
+[06739.052]
+Oui !
+
+[06739.054]
+{NAME:01 00 00 00} obtient le titre « {08:0D 08 00 00} ».
+
+[06739.055]
+Bon voyage.
+
+[06739.056]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06739.057]
+Voulez-vous passer la nuit ?
+
+[06739.059]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06739.060]
+Reposez-vous bien.
+
+[06739.061]
+Bonjour.
+
+[06739.062]
+Vous n’avez pas assez d’argent.
+
+[06739.063]
+Au plaisir de vous revoir.
+
+[06739.068]
+Obtenu : {16:25 C6}.
+
+[06739.070]
+Obtenu : {08:FF FF FF FF}.
+
+[06739.072]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06739.074]
+Il n’y a rien ici.
+

@@ -1,0 +1,213 @@
+[06371.001]
+Aigrette : épicerie
+
+[06371.002]
+Aigrette
+
+[06371.003]
+Épicier
+
+[06371.004]
+Épicier
+
+[06371.005]
+Bienvenue.
+
+[06371.006]
+Merci beaucoup.
+
+[06371.007]
+Revenez nous voir.
+
+[06371.008]
+Épicier
+
+[06371.009]
+Épicier
+
+[06371.010]
+Bienvenue. Regardez à votre aise.
+
+[06371.011]
+Chef
+
+[06371.012]
+{16:34 7C} : tu en prépares ?
+
+[06371.013]
+Chef
+
+[06371.014]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06371.016]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06371.017]
+Chef
+
+[06371.018]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06371.019]
+Chef
+
+[06371.020]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06371.021]
+Chef
+
+[06371.022]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06371.024]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06371.025]
+Chef
+
+[06371.026]
+Tu n’as pas assez d’argent.
+
+[06371.027]
+Chef
+
+[06371.028]
+Je te vends la recette : {16:34 7C}.
+
+[06371.029]
+Chef
+
+[06371.030]
+Bah, tant pis.
+
+[06371.031]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06371.032]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06371.033]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06371.034]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06371.035]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06371.036]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06371.037]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06371.038]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06371.039]
+Chef
+
+[06371.040]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06371.041]
+Chef
+
+[06371.042]
+Mais tu as les ingrédients.
+
+[06371.043]
+Chef
+
+[06371.044]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06371.046]
+{03:00 00 00 00}　Oui
+　Non
+
+[06371.047]
+Chef
+
+[06371.048]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06371.049]
+Chef
+
+[06371.050]
+Dommage. C’est vraiment délicieux...
+
+[06371.051]
+Chef
+
+[06371.052]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06371.053]
+Chef
+
+[06371.054]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06371.055]
+Chef
+
+[06371.056]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06371.058]
+Recette ramassée : {16:34 7C}.
+
+[06371.060]
+Recette apprise : {16:34 90}.
+
+[06371.061]
+Bon voyage.
+
+[06371.062]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06371.063]
+Voulez-vous passer la nuit ?
+
+[06371.065]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06371.066]
+Reposez-vous bien.
+
+[06371.067]
+Bonjour.
+
+[06371.068]
+Vous n’avez pas assez d’argent.
+
+[06371.069]
+Au plaisir de vous revoir.
+
+[06371.074]
+Obtenu : {16:25 DE}.
+
+[06371.076]
+Obtenu : {08:FF FF FF FF}.
+
+[06371.078]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06371.080]
+Il n’y a rien ici.
+

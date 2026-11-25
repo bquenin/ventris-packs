@@ -1,0 +1,21 @@
+[00662.001]
+Qu’y a-t-il, {NAME:04 00 00 00} ? Tu as l’air soucieux.
+
+[00662.002]
+Non, je me demandais... si « la capture de Clemente et d’Atwight est bien conforme à l’histoire »......
+
+[00662.003]
+Tu veux dire, à cause de l’intervention d’Elraine dans l’histoire... !?
+
+[00662.004]
+C’est possible... Qui connaît d’avance la reddition de l’équipe de conception de Belcrant peut aisément tendre un piège.
+
+[00662.005]
+À ce train, c’est l’existence même de l’équipe des Swordians qui est menacée... Et si l’armée céleste gagne, ce monde-là... « le monde où les gens de la terre ne vivent que sous des dômes » verra le jour... Bon sang ! Pas question de laisser faire ça !!
+
+[00662.006]
+Non, ça ira. À l’inverse, ça veut dire que « si on tient bon ici, on peut remettre l’histoire en place », non ?
+
+[00662.007]
+... Changer d’angle... {NAME:01 00 00 00}, bien dit, pour une fois.
+

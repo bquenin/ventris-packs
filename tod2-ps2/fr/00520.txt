@@ -1,0 +1,24 @@
+[00520.001]
+Mmh...
+
+[00520.002]
+Pourquoi tu fais un duel de regards avec cette Lentille, {NAME:01 00 00 00} ?
+
+[00520.003]
+Ben, ici, tous portent une Lentille sur la tête. Je me disais : « Pour passer inaperçus, on devrait en porter aussi »... mais « comment la coller » ?
+
+[00520.004]
+Où vas-tu chercher de pareilles sottises ?
+
+[00520.005]
+La chance, {NAME:04 00 00 00}~ : il te suffit de dire « elle est sous mon masque » !
+
+[00520.006]
+Alors portez des masques, vous aussi.
+
+[00520.007]
+Cinq personnes, toutes masquées...
+
+[00520.008]
+Bien plus voyant.
+

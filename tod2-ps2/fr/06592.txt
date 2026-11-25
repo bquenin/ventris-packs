@@ -1,0 +1,485 @@
+[06592.001]
+Dycroft
+
+[06592.002]
+Dycroft
+
+[06592.003]
+Dycroft
+
+[06592.005]
+Aïe aïe aïe... Mais c’est quoi, cette machine ! Le vol, l’atterrissage, tout est n’importe quoi !
+
+[06592.007]
+Ce n’est pas n’importe quoi. J’ai calculé bieeen comme il faut les secousses et les chocs avant d’entrer la trajectoire.
+
+[06592.009]
+... Attends un peu. Ça veut dire que tu l’as fait voler comme ça exprès !?
+
+[06592.011]
+Si ça ne cogne pas et ne secoue pas au moins autant, on n’a pas l’impression de voler, non ?
+
+[06592.013]
+........
+
+[06592.015]
+Oui, oui, comme calculé : nous voilà dans le hangar.
+
+[06592.017]
+Regardez, voilà les capsules de sauvetage. Retenez bien.
+
+[06592.018]
+Soldat
+
+[06592.019]
+Une barge d’assaut de l’armée terrestre ! Envoyez les Gardiens du bloc G ! Que pas un seul n’en reparte vivant !
+
+[06592.020]
+Karell
+
+[06592.021]
+Fâcheux : nous sommes repérés plus tôt que prévu.
+
+[06592.022]
+Dymlos
+
+[06592.023]
+Bah, il fallait bien qu’on nous découvre. C’est arrivé un peu plus tôt, voilà tout.
+
+[06592.024]
+Dymlos
+
+[06592.025]
+Bien, l’opération commence ! {NAME:06 00 00 00}, la diversion, je te la confie. Les autres, suivez-moi !
+
+[06592.027]
+Votre adversaire, c’est nous ! Allez, venez !
+
+[06592.029]
+Et hop, un de moins ! Bon, nous aussi, on file...
+
+[06592.031]
+Minute !
+
+[06592.033]
+Qu’est-ce qu’il y a, {NAME:06 00 00 00} ?
+
+[06592.035]
+Vous avez déjà combattu ce monstre, vous autres ?
+
+[06592.037]
+Hein ? Oui, ça nous est arrivé... Pourquoi ?
+
+[06592.039]
+Je vois... Autrement dit, quelqu’un d’autre est venu du futur, comme vous.
+
+[06592.041]
+Comment ça ?
+
+[06592.043]
+Ce monstre, moi, je ne l’ai jamais vu.
+
+[06592.045]
+Il en existe de semblables aujourd’hui, mais celui-ci a évolué de façon anormale.
+
+[06592.047]
+Donc quelqu’un l’a amené du futur. Vous voyez qui ?
+
+[06592.049]
+Si on voit ? Et comment ! C’est un coup d’une certaine Elraine.
+
+[06592.051]
+Ses sbires se sont sans doute déjà infiltrés dans l’armée céleste, et ils la soutiennent.
+
+[06592.053]
+Hm, hm... Autrement dit, votre but à vous, c’est de corriger l’histoire.
+
+[06592.055]
+Cette Elraine prend le parti de l’armée céleste et veut lui faire gagner cette guerre.
+
+[06592.057]
+Et vous, vous êtes venus à cette époque pour l’en empêcher.
+
+[06592.059]
+Oui, c’est exactement cela. Nous sommes venus ici pour empêcher Elraine d’intervenir dans l’histoire.
+
+[06592.061]
+Trafiquer l’histoire : elle fait des choses drôlement intéressantes, dis donc. Elle se prend pour une déesse.
+
+[06592.063]
+Non, elle n’usurpe pas le nom d’une déesse : elle en a vraiment fait descendre une, et elle se sert de son pouvoir.
+
+[06592.065]
+Le pouvoir d’une vraie déesse !? Alors vous, vous cherchez querelle à une déesse !?
+
+[06592.067]
+E-eh bien, on peut dire ça.
+
+[06592.069]
+... Hi hi, hi hi hi !
+
+[06592.071]
+{NAME:06 00 00 00} !? Qu-qu’est-ce que tu as !?
+
+[06592.073]
+Ça devient intéressant ! Une bagarre avec une déesse, il n’y a pas mieux !
+
+[06592.075]
+Parfaaait ! Je vais prouver que mon cerveau surpasse même les dieux !
+
+[06592.077]
+A-ah bon...
+
+[06592.079]
+Bon, maintenant qu’on le sait, pas question de traîner ici !
+
+[06592.081]
+L’opération continue ! On y va, tout le monde !
+
+[06592.083]
+{NAME:01 00 00 00} obtient le titre « {08:2C 08 00 00} ».
+
+[06592.085]
+On y est arrivés de justesse !
+
+[06592.086]
+Atwight
+
+[06592.087]
+Tant mieux... Vous êtes sains et saufs.
+
+[06592.088]
+Dymlos
+
+[06592.089]
+L’ennemi doit être à nos trousses ! Vite !
+
+[06592.090]
+Barbatos
+
+[06592.091]
+Hé hé hé... Tu es en retard, {NAME:01 00 00 00} Dunamis.
+
+[06592.093]
+T-toi... !
+
+[06592.095]
+Barbatos Goetia !?
+
+[06592.096]
+Dymlos
+
+[06592.097]
+Barbatos Goetia !?
+
+[06592.098]
+Barbatos
+
+[06592.099]
+Oho, que Son Excellence le général Dymlos, de l’armée terrestre, daigne se souvenir d’un modeste officier comme moi : j’en suis infiniment honoré.
+
+[06592.100]
+Dymlos
+
+[06592.101]
+Que fais-tu ici !? Ce jour-là, de mes propres mains, je t’ai bel et bien... !
+
+[06592.102]
+Barbatos
+
+[06592.103]
+Je suis mort une fois, c’est vrai. Mais ma haine inépuisable pour toi m’a rendu la vie !
+
+[06592.104]
+Barbatos
+
+[06592.105]
+Allons, commençons... Cette fois, c’est ton tour de mourir, Dymlos !
+
+[06592.106]
+Dymlos
+
+[06592.107]
+Cause toujours !! Si tu es revenu à la vie, je t’abattrai une seconde fois, voilà tout !
+
+[06592.108]
+Dymlos
+
+[06592.109]
+Ce vieux compte entre nous, qui n’a cessé de grossir... cette fois, je le règle !
+
+[06592.110]
+Dymlos
+
+[06592.111]
+Gh, impossible ! Écarter ma lame avec une telle aisance... !?
+
+[06592.112]
+Barbatos
+
+[06592.113]
+Eh bien, c’est tout ? Alors c’est moi qui viens !
+
+[06592.114]
+Barbatos
+
+[06592.115]
+... Tu me déçois, Dymlos.
+
+[06592.116]
+Barbatos
+
+[06592.117]
+J’ai traversé le temps et combattu bien des héros. Mais tout de même, quel écart de force !
+
+[06592.118]
+Barbatos
+
+[06592.119]
+Insipide... Quelle issue insipide. Toi non plus, tu n’étancheras donc pas ma soif.
+
+[06592.120]
+Barbatos
+
+[06592.121]
+Alors, amuse-moi au moins pour finir. ... Oui : par ton cri d’agonie.
+
+[06592.122]
+Barbatos
+
+[06592.123]
+Je vais te découper, morceau par morceau. D’abord... la jambe droite !!
+
+[06592.124]
+Atwight
+
+[06592.125]
+Arrête, Barbatos !
+
+[06592.126]
+Atwight
+
+[06592.127]
+Si tu as été tué, c’est pour avoir trahi tes camarades et voulu passer à l’armée céleste !
+
+[06592.128]
+Atwight
+
+[06592.129]
+Et te voilà revenu sans vergogne à la vie, cherchant à te venger de cette manière... Ce n’est rien d’autre que la rancune d’un coupable !
+
+[06592.130]
+Atwight
+
+[06592.131]
+S’il te reste un tant soit peu de fierté de soldat, rengaine ton épée sur-le-champ et retire-toi !
+
+[06592.132]
+Barbatos
+
+[06592.133]
+... C’est toujours pareil. Atwight, pourquoi protèges-tu cet homme au péril de ta vie ?
+
+[06592.134]
+Barbatos
+
+[06592.135]
+Sois plutôt ma femme. Alors tu auras tout : la puissance, l’or, et jusqu’à la gloire éternelle !
+
+[06592.136]
+Dymlos
+
+[06592.137]
+A-arrête, Barbatos ! Ne la... ne touche pas à Atwight... !
+
+[06592.138]
+Barbatos
+
+[06592.139]
+Il te reste encore assez de souffle pour de telles sottises, espèce de moribond... !
+
+[06592.140]
+Barbatos
+
+[06592.141]
+... Attends. Hmf, j’ai trouvé : le moyen de te faire souffrir au plus haut point !
+
+[06592.142]
+Barbatos
+
+[06592.143]
+Voilà ton point faible !
+
+[06592.144]
+Atwight
+
+[06592.145]
+... !
+
+[06592.146]
+Dymlos
+
+[06592.147]
+Arrête, Barbatos ! C’est moi, ton adversaire ! Lâche Atwight !
+
+[06592.148]
+Barbatos
+
+[06592.149]
+Hé hé hé. Dans le peu de temps qui te reste, savoure une souffrance pire que la mort.
+
+[06592.151]
+I-il a disparu... !
+
+[06592.152]
+Dymlos
+
+[06592.153]
+Attends, Barbatos !!
+
+[06592.154]
+Dymlos
+
+[06592.155]
+... Gh !
+
+[06592.157]
+Dymlos ! Ça va !?
+
+[06592.158]
+Dymlos
+
+[06592.159]
+{NAME:01 00 00 00}... Oui, ce n’est rien.
+
+[06592.161]
+... Dymlos, attendez ici. Nous, on va chercher Atwight !
+
+[06592.163]
+Avec Atwight, il n’a pas pu aller bien loin. Il est encore tout près...
+
+[06592.164]
+Dymlos
+
+[06592.165]
+... Non. Nous évacuons sur-le-champ. Montez vite dans une capsule, vous aussi.
+
+[06592.167]
+Qu’est-ce que vous racontez ! Une camarade a été prise en otage ! Et vous voulez rentrer en l’abandonnant !?
+
+[06592.168]
+Dymlos
+
+[06592.169]
+Le sauvetage de l’équipe de conception a réussi. Pour ne pas alourdir les pertes, il faut nous replier au plus vite.
+
+[06592.170]
+Dymlos
+
+[06592.171]
+Elle aussi est soldat. Elle a toujours été prête à affronter le danger, jusqu’à la mort. Je me permets de compter là-dessus.
+
+[06592.173]
+Non... Vous êtes sérieux, Dymlos !? Moi, je ne peux pas l’accepter !!
+
+[06592.175]
+Et puis, Dymlos, vous l’aviez dit ! Qu’on rentrerait tous sains et saufs !
+
+[06592.176]
+Dymlos
+
+[06592.177]
+C’est un ordre !
+
+[06592.178]
+Dymlos
+
+[06592.179]
+... Nous rentrons au Radisrol. Vite !
+
+[06592.181]
+Oui, ouiii. Quand on dit qu’on rentre, on rentre ! Montez, et plus vite que ça !
+
+[06592.183]
+H-hé, qu’est-ce que tu fais, {NAME:06 00 00 00} !!
+
+[06592.185]
+Ça te va comme ça, hein ?
+
+[06592.186]
+Dymlos
+
+[06592.187]
+... Pardon, {NAME:06 00 00 00}.
+
+[06592.189]
+Franchement, moi non plus, je ne l’accepte pas.
+
+[06592.190]
+Robot d’assistance payant
+
+[06592.191]
+Choisissez le service souhaité.
+
+[06592.193]
+{03:00 00 00 00}　Ravitaillement　
+　Soins ({0B:01 00 00 00}{06:FD 02 00 00}{0B:00 00 00 00} Gald)　
+
+[06592.194]
+Premiers soins, c’est parti !
+
+[06592.195]
+Guérison complète !
+
+[06592.196]
+Cette fois, c’est offert.
+
+[06592.198]
+Un monstre gît à terre.
+
+[06592.200]
+Un monstre gît à terre.
+
+[06592.202]
+Un monstre gît à terre.
+
+[06592.204]
+Un monstre gît à terre.
+
+[06592.205]
+Bon voyage.
+
+[06592.206]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06592.207]
+Voulez-vous passer la nuit ?
+
+[06592.209]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06592.210]
+Reposez-vous bien.
+
+[06592.211]
+Bonjour.
+
+[06592.212]
+Vous n’avez pas assez d’argent.
+
+[06592.213]
+Au plaisir de vous revoir.
+
+[06592.218]
+Obtenu : {16:25 CE}.
+
+[06592.220]
+Obtenu : {08:FF FF FF FF}.
+
+[06592.222]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06592.224]
+Il n’y a rien ici.
+

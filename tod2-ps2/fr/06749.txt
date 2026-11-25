@@ -1,0 +1,52 @@
+[06749.001]
+Aigrette
+
+[06749.002]
+Aigrette
+
+[06749.004]
+Des objets de culte sont rangés là. À quoi ils servent, mystère complet.
+
+[06749.006]
+Un tiroir vide.
+
+[06749.008]
+Une boîte dite « tronc des offrandes ». Elle contient des Lentilles.
+
+[06749.009]
+Bon voyage.
+
+[06749.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06749.011]
+Voulez-vous passer la nuit ?
+
+[06749.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06749.014]
+Reposez-vous bien.
+
+[06749.015]
+Bonjour.
+
+[06749.016]
+Vous n’avez pas assez d’argent.
+
+[06749.017]
+Au plaisir de vous revoir.
+
+[06749.022]
+Obtenu : {16:25 BA}.
+
+[06749.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06749.026]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06749.028]
+Il n’y a rien ici.
+

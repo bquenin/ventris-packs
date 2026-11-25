@@ -1,0 +1,304 @@
+[06311.001]
+Cresta : maisons mitoyennes
+
+[06311.002]
+Cresta
+
+[06311.003]
+Maisons mitoyennes
+
+[06311.005]
+Obtenu : 2 {08:69 00 00 00}.
+
+[06311.007]
+Plus de {08:69 00 00 00}...
+
+[06311.009]
+Un produit de l’ancienne compagnie Oberon : un « chauffe-eau à Lentilles ».
+
+[06311.011]
+Le « chauffe-eau à Lentilles » était, paraît-il, l’un des articles les plus vendus de la compagnie Oberon.
+
+[06311.013]
+Des toilettes propres, mais il n’y a rien de spécial ici.
+
+[06311.015]
+Du curry mapo !
+
+[06311.017]
+C’est b-bon !
+
+[06311.019]
+Il y a de l’alcool. « Saké trouble d’Aquaveil : Tueur de dieux ». 80 degrés d’alcool.
+
+[06311.021]
+Je n’ai pas encore l’âge de boire, mais... j’ai l’impression qu’il vaut mieux ne pas boire ça...
+
+[06311.022]
+Vieille dame
+
+[06311.023]
+Eh bien, eh bien, {NAME:03 00 00 00}. Tu es devenu bel homme, dis donc.
+
+[06311.025]
+Et toi, mamie, toujours aussi belle femme.
+
+[06311.026]
+Vieille dame
+
+[06311.027]
+Ho ho ho, qu’est-ce que tu racontes ? Pour me faire la cour, tu arrives cinquante ans trop tard.
+
+[06311.028]
+Vieille dame
+
+[06311.029]
+Je te croyais gamin pour toujours, mais te voilà devenu un bel homme.
+
+[06311.030]
+Vieille dame
+
+[06311.031]
+{NAME:01 00 00 00}. Ton père était un bel homme, terriblement sexy...
+
+[06311.032]
+Vieille dame
+
+[06311.033]
+Toi aussi, reviens-moi en bel homme à mon goût.
+
+[06311.034]
+Vieille dame
+
+[06311.035]
+Je vais prier Atamoni pour que votre voyage se passe bien.
+
+[06311.036]
+Vieille dame
+
+[06311.037]
+Stahn va bientôt rentrer de voyage, alors {NAME:01 00 00 00} et {NAME:03 00 00 00} ne tiennent plus en place depuis ce matin.
+
+[06311.039]
+{NAME:01 00 00 00}...
+
+[06311.040]
+Vieille dame
+
+[06311.041]
+Ce Stahn, partir en voyage en laissant {NAME:01 00 00 00}... Enfin, l’essentiel, c’est qu’il aille bien.
+
+[06311.042]
+Vieille dame
+
+[06311.043]
+{NAME:01 00 00 00}. Toi aussi, à ce que je vois, tu as trouvé en voyage une fiancée sexy.
+
+[06311.045]
+M-mamie !
+
+[06311.047]
+Oh, voyons, madame...
+
+[06311.048]
+Vieille dame
+
+[06311.049]
+Alors te voilà en âge de sortir avec des filles ?
+
+[06311.050]
+Vieille dame
+
+[06311.051]
+Pourvu que tu ne ressembles pas à ce coureur de {NAME:03 00 00 00}...
+
+[06311.052]
+Vieille dame
+
+[06311.053]
+{NAME:01 00 00 00}, tu pars te chercher une amoureuse ? Je devrais peut-être partir en voyage, moi aussi, en quête d’un nouvel amour.
+
+[06311.054]
+Vieille dame
+
+[06311.055]
+Quand donc mon prince charmant viendra-t-il me chercher sur son cheval blanc ?
+
+[06311.056]
+Enfant
+
+[06311.057]
+Hé hé~♪ Regarde, {NAME:01 00 00 00} ! Je viens de trouver une Lentille.
+
+[06311.059]
+Hmm, une Lentille. Quand j’étais gosse, il y avait des articles à Lentilles bien pratiques, fabriqués par la compagnie Oberon.
+
+[06311.061]
+Mais de nos jours, une Lentille, ça ne sert plus qu’à être donnée à l’Ordre d’Atamoni.
+
+[06311.062]
+Enfant
+
+[06311.063]
+La Lentille que j’ai trouvée tout à l’heure, je vais en faire quoi ? Hmm...
+
+[06311.064]
+Enfant
+
+[06311.065]
+À Cresta, on ne peut même pas l’échanger contre de l’argent. Ça ne vaut rien.
+
+[06311.066]
+Enfant
+
+[06311.067]
+{NAME:01 00 00 00}, on joue aux héros ! Moi, je fais Stahn, et toi, Leon !
+
+[06311.069]
+Quoii ! Leon, c’est le méchant ! J’veux pas, moi !
+
+[06311.070]
+Enfant
+
+[06311.071]
+Tss. Personne ne veut jamais faire Leon.
+
+[06311.072]
+Enfant
+
+[06311.073]
+Bah, le rôle du traître, personne n’en veut.
+
+[06311.074]
+Enfant
+
+[06311.075]
+Oh, c’est {NAME:01 00 00 00} ! Bon retour ! Alors, t’es devenu un héros ?
+
+[06311.077]
+Un héros... hein... Pourquoi est-ce que je voulais devenir un héros, déjà...
+
+[06311.078]
+Enfant
+
+[06311.079]
+Quoi, {NAME:01 00 00 00} ? T’es pas devenu un héros ?
+
+[06311.080]
+Enfant
+
+[06311.081]
+Moi, quand je serai un peu plus grand, je ferai tout pour devenir un héros, comme toi, {NAME:01 00 00 00} !
+
+[06311.083]
+Non, toi, je veux que tu restes ici et que tu protèges maman et tout le monde.
+
+[06311.084]
+Enfant
+
+[06311.085]
+Ah oui, c’est vrai. Si {NAME:01 00 00 00} et {NAME:03 00 00 00} s’en vont tous les deux, c’est à moi de protéger Cresta.
+
+[06311.086]
+Bibliothécaire
+
+[06311.087]
+J’ai fait le long voyage depuis Heidelberg pour visiter le pays natal des Quatre Héros.
+
+[06311.088]
+Bibliothécaire
+
+[06311.089]
+J’imaginais une grande ville digne de héros, mais quel endroit bucolique.
+
+[06311.090]
+Bibliothécaire
+
+[06311.091]
+J’ai rencontré Rutee : une personne charmante, sans façons.
+
+[06311.092]
+Bibliothécaire
+
+[06311.093]
+Je comprends, à présent. C’est bien une héroïne. Une femme admirable.
+
+[06311.094]
+Bibliothécaire
+
+[06311.095]
+Bon, il est temps que je rentre à Heidelberg.
+
+[06311.096]
+Bibliothécaire
+
+[06311.097]
+On est si bien ici que mon séjour s’est prolongé malgré moi.
+
+[06311.098]
+Bibliothécaire
+
+[06311.099]
+Mes journées à Cresta resteront un beau souvenir.
+
+[06311.100]
+Bibliothécaire
+
+[06311.101]
+J’aimerais revenir un jour.
+
+[06311.102]
+Bibliothécaire
+
+[06311.103]
+Je compte écrire un livre sur les Quatre Héros : j’ai fait le long voyage depuis Heidelberg pour me documenter.
+
+[06311.104]
+Bibliothécaire
+
+[06311.105]
+J’ai rencontré Stahn et Rutee : tous deux m’ont réservé un accueil chaleureux.
+
+[06311.106]
+Bibliothécaire
+
+[06311.107]
+Je me demandais quels grands personnages seraient les Quatre Héros, mais tous deux étaient des gens simples et gentils.
+
+[06311.108]
+Bon voyage.
+
+[06311.109]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06311.110]
+Voulez-vous passer la nuit ?
+
+[06311.112]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06311.113]
+Reposez-vous bien.
+
+[06311.114]
+Bonjour.
+
+[06311.115]
+Vous n’avez pas assez d’argent.
+
+[06311.116]
+Au plaisir de vous revoir.
+
+[06311.121]
+Obtenu : {16:25 CA}.
+
+[06311.123]
+Obtenu : {08:FF FF FF FF}.
+
+[06311.125]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06311.127]
+Il n’y a rien ici.
+

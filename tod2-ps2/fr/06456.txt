@@ -1,0 +1,145 @@
+[06456.001]
+Château de Heidelberg
+
+[06456.002]
+Château de Heidelberg
+
+[06456.004]
+Le feu de la cheminée brûle, comme s’il ne devait jamais s’éteindre...
+
+[06456.005]
+Ministre des Finances
+
+[06456.006]
+Les soldats croient que la guerre, c’est se battre les armes à la main... mais l’économie aussi est une guerre.
+
+[06456.007]
+Quand l’un gagne, il y en a un autre qui perd...
+
+[06456.008]
+Que tous soient comblés, ce n’est pas chose facile.
+
+[06456.009]
+Vous avez {0B:01 00 00 00}{14:34 70}{0B:00 00 00 00} Gald.
+
+[06456.010]
+Vous n’avez pas un sou.
+
+[06456.011]
+N’oubliez ni l’importance de l’argent, ni le « démon » qui s’y cache.
+
+[06456.013]
+{NAME:01 00 00 00} et les autres obtiennent le titre « {08:65 08 00 00} ».
+
+[06456.014]
+C’est quand on n’en a pas qu’on comprend le mieux l’importance de l’argent, et sa valeur.
+
+[06456.015]
+À titre de soutien personnel, je vous offre quelques Gald : une toute petite somme.
+
+[06456.017]
+Obtenu : {0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald.
+
+[06456.018]
+La somme est petite, mais tels que vous êtes à présent, vous en comprendrez le sens.
+
+[06456.020]
+{NAME:01 00 00 00} et les autres obtiennent le titre « {08:64 08 00 00} ».
+
+[06456.021]
+À avoir beaucoup trop d’argent, on se laisse aisément prendre par le « démon » de l’argent...
+
+[06456.022]
+Ce qui compte vraiment, ce n’est pas d’accroître la somme... c’est « l’usage » qu’on fait de l’argent qu’on a.
+
+[06456.023]
+Quand vous n’aurez presque plus rien... et quand vous aurez énormément... revenez me voir.
+
+[06456.024]
+Quand vous n’aurez presque plus rien... revenez me voir.
+
+[06456.025]
+Quand vous aurez énormément... revenez me voir.
+
+[06456.026]
+Bon voyage.
+
+[06456.027]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06456.028]
+Voulez-vous passer la nuit ?
+
+[06456.030]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06456.031]
+Reposez-vous bien.
+
+[06456.032]
+Bonjour.
+
+[06456.033]
+Vous n’avez pas assez d’argent.
+
+[06456.034]
+Au plaisir de vous revoir.
+
+[06456.039]
+Obtenu : {16:25 C2}.
+
+[06456.041]
+Obtenu : {08:FF FF FF FF}.
+
+[06456.043]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06456.045]
+Il n’y a rien ici.
+
+[06456.047]
+Des armes bien entretenues sont alignées. Toutes ont l’air de pièces de prix.
+
+[06456.049]
+Des armes de guerre sont alignées : pour les jours de crise, sans doute.
+
+[06456.051]
+Une arme au tranchant affûté. L’œuvre d’un forgeron de premier ordre, sûrement.
+
+[06456.053]
+Cette arme a un vrai tranchant. Ce n’est pas un objet d’art : c’est une arme véritable.
+
+[06456.055]
+Les armes des soldats du château de Heidelberg. Les lames sont affûtées, sans la moindre ternissure.
+
+[06456.057]
+Une énorme armure de plates. Elle a l’air très lourde...
+
+[06456.059]
+Une armure de guerre. Elle est d’une facture très soignée.
+
+[06456.061]
+Une armure complète, en tôle martelée. Un travail très soigné : combien peut coûter une seule pièce...
+
+[06456.063]
+Une vraie armure complète. Il s’en dégage une présence écrasante...
+
+[06456.065]
+Des armures sont alignées. Pas des objets d’art : de vraies armures de guerre, semble-t-il.
+
+[06456.067]
+Une pièce ancienne, semble-t-il. ... Attention à ne pas la casser.
+
+[06456.069]
+De menus objets sont alignés. Tous ont l’air de valoir très cher.
+
+[06456.071]
+C’est bien un château royal : le moindre bibelot est d’une facture splendide.
+
+[06456.073]
+Des pièces splendides sont alignées...
+
+[06456.075]
+Des antiquités, peut-être. Des pièces anciennes sont alignées.
+

@@ -1,0 +1,3 @@
+[00288.001]
+Cette lueur... Allons voir, {NAME:01 00 00 00}.
+

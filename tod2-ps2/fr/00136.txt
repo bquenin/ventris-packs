@@ -1,0 +1,6 @@
+[00136.001]
+Allez, {NAME:01 00 00 00}. L’aventure dont tu rêvais commence ici.
+
+[00136.002]
+... Hé hé ! Alors en avant !
+

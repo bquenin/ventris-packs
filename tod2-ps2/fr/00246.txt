@@ -1,0 +1,18 @@
+[00246.001]
+Une mine désaffectée... il n’y a donc plus personne, n’est-ce pas ?
+
+[00246.002]
+Évidemment. Bon, il y a peut-être des fantômes !
+
+[00246.003]
+N-ne dis pas de bêtises ! L-les fantômes, ç-ça n’existe... pas !
+
+[00246.004]
+Quoi, {NAME:03 00 00 00} ? Tu as peur des fantômes ?
+
+[00246.005]
+J-j-je n’ai pas peur ! ...... Seulement, s’il y en avait... comment dire... ç-ça m’embêterait...
+
+[00246.006]
+De la peur.
+

@@ -1,0 +1,61 @@
+[06470.001]
+Aigrette
+
+[06470.002]
+Aigrette
+
+[06470.003]
+Soldat de l’Ordre A
+
+[06470.004]
+Hé, halte. Au-delà, l’accès est interdit.
+
+[06470.005]
+Soldat de l’Ordre B
+
+[06470.006]
+Un endroit comme un bazar ne sied pas à la majesté de la déesse Fortuna.
+
+[06470.007]
+Soldat de l’Ordre C
+
+[06470.008]
+Il a été décidé de refaire tout ce quartier. On ne laisse donc passer que les personnes concernées.
+
+[06470.009]
+Bon voyage.
+
+[06470.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06470.011]
+Voulez-vous passer la nuit ?
+
+[06470.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06470.014]
+Reposez-vous bien.
+
+[06470.015]
+Bonjour.
+
+[06470.016]
+Vous n’avez pas assez d’argent.
+
+[06470.017]
+Au plaisir de vous revoir.
+
+[06470.022]
+Obtenu : {16:25 BA}.
+
+[06470.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06470.026]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06470.028]
+Il n’y a rien ici.
+

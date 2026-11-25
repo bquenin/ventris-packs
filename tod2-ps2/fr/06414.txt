@@ -1,0 +1,280 @@
+[06414.001]
+Neustadt : infirmerie
+
+[06414.002]
+Neustadt : infirmerie
+
+[06414.003]
+Infirmerie
+
+[06414.005]
+Obtenu : {08:03 00 00 00}.
+
+[06414.007]
+La trousse de secours contient des gelées. En cas de blessure, on mange d’abord une gelée : c’est ça, l’idée ?
+
+[06414.009]
+Un traité de médecine, semble-t-il. ... Bien trop difficile : on n’y comprend rien du tout.
+
+[06414.011]
+Défaite
+
+[06414.012]
+Médecin
+
+[06414.013]
+Cet homme-là s’inscrit à chaque fois, mais il ne s’est encore jamais battu, paraît-il.
+
+[06414.014]
+« L’important, c’est de participer », dit-on, mais est-ce que ça a vraiment un sens ?
+
+[06414.015]
+Pour l’homme qui est là-bas, pas la peine de s’inquiéter.
+
+[06414.016]
+Il s’inscrit à chaque fois, mais dès que son tour approche, il accourt toujours à l’infirmerie.
+
+[06414.017]
+L’infirmerie, en principe, c’est pour soigner les blessures du combat.
+
+[06414.018]
+Le seul qui s’y précipite avant de se battre, c’est celui qui est affalé là.
+
+[06414.019]
+Épéiste
+
+[06414.020]
+Guooh~ ! J-je meurs~ !!
+
+[06414.021]
+Fuguoaah~ !! J-j’ai atrocement mal au ventre !!
+
+[06414.023]
+On l’a poignardé au ventre, ou quoi ?
+
+[06414.025]
+À première vue, il n’a pas de blessure...
+
+[06414.026]
+Jusqu’ici, des maux soudains m’ont toujours fait perdre par forfait, mais cette fois, je me battrai, vous verrez !
+
+[06414.027]
+... Dès que ce mal de ventre sera passé...
+
+[06414.029]
+Ça va ?
+
+[06414.031]
+Tu m’as vu sous un jour pas glorieux.
+
+[06414.033]
+Hé, hé, ça va ?
+
+[06414.035]
+Oui, à peu près...
+
+[06414.037]
+Tu donnes tout, et voilà le résultat ?
+
+[06414.039]
+Comme si j’allais renoncer !
+
+[06414.041]
+Ça va, toi ?
+
+[06414.043]
+La prochaine fois, je ne perdrai pas.
+
+[06414.045]
+Je te soigne, si tu veux ?
+
+[06414.047]
+Merci.
+
+[06414.049]
+Ah, ça va ?
+
+[06414.051]
+Tu t’es inquiété pour moi ?
+
+[06414.053]
+Tu reviens à toi ?
+
+[06414.055]
+Oui, ça va...
+
+[06414.057]
+Ton pouvoir se réduit donc à cela ?
+
+[06414.059]
+Il faut que je fasse mieux.
+
+[06414.061]
+Il ne faut pas trop forcer, tu sais.
+
+[06414.063]
+Oui, merci.
+
+[06414.065]
+Il ne faut pas forcer comme ça, voyons.
+
+[06414.067]
+C’est vrai, pardon.
+
+[06414.069]
+Si tu fais n’importe quoi, maman va s’inquiéter, tu sais ?
+
+[06414.071]
+N’importe quoi, tu parles.
+
+[06414.073]
+Ça va ?
+
+[06414.075]
+Être solide, c’est mon point fort.
+
+[06414.077]
+Pitoyable.
+
+[06414.079]
+Fiche-moi la paix !
+
+[06414.081]
+Pff...
+
+[06414.083]
+Ris pas !
+
+[06414.085]
+Trop faiiible.
+
+[06414.087]
+Dit aussi franchement, ça fait mal.
+
+[06414.089]
+Ça va ?
+
+[06414.091]
+Inutile de t’inquiéter.
+
+[06414.093]
+Prends soin de toi...
+
+[06414.095]
+Où que je tombe, je n’aurai pas de regrets.
+
+[06414.097]
+À quoi ça rime, de forcer comme ça ?
+
+[06414.099]
+À chacun sa façon de vivre.
+
+[06414.101]
+Tu as un air tragique, tu sais ?
+
+[06414.103]
+Toi aussi.
+
+[06414.105]
+Tu ne me laisserais pas relever tes données ?
+
+[06414.107]
+Je refuse.
+
+[06414.109]
+Tu as passé un sale moment.
+
+[06414.111]
+Ça ? C’est trois fois rien.
+
+[06414.113]
+Ça va ?
+
+[06414.115]
+J’étais pourtant sûre de moi.
+
+[06414.117]
+Pff...
+
+[06414.119]
+Ne ris pas, toi !
+
+[06414.121]
+Tu ne reverras plus les enfants, à ce train-là.
+
+[06414.123]
+Je m’en souviendrai.
+
+[06414.125]
+Tadaa : un dopant !
+
+[06414.127]
+Je n’en veux pas.
+
+[06414.129]
+Tu forces beaucoup trop.
+
+[06414.131]
+Rien n’est impossible à un génie !
+
+[06414.133]
+Tu reviens à toi ?
+
+[06414.135]
+La prochaine fois, je les réduis en bouillie !
+
+[06414.137]
+T’es vivante~ ?
+
+[06414.139]
+Bien sûr que je suis vivante !
+
+[06414.141]
+........
+
+[06414.143]
+Tu m’agaces~. Laisse-moi tranquille !
+
+[06414.145]
+Ça va, toi ?
+
+[06414.147]
+Moi, me faire rosser à ce point...
+
+[06414.148]
+Bon voyage.
+
+[06414.149]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06414.150]
+Voulez-vous passer la nuit ?
+
+[06414.152]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06414.153]
+Reposez-vous bien.
+
+[06414.154]
+Bonjour.
+
+[06414.155]
+Vous n’avez pas assez d’argent.
+
+[06414.156]
+Au plaisir de vous revoir.
+
+[06414.161]
+Obtenu : {16:25 BE}.
+
+[06414.163]
+Obtenu : {08:FF FF FF FF}.
+
+[06414.165]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06414.167]
+Il n’y a rien ici.
+

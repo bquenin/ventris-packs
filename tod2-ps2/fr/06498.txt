@@ -1,0 +1,237 @@
+[06498.001]
+Hope Town : maisons mitoyennes
+
+[06498.002]
+Hope Town
+
+[06498.003]
+Maisons mitoyennes
+
+[06498.005]
+Tantiiine~, du thé, s’il te plaît, du thé !
+
+[06498.007]
+Bon, on commence par se raconter ce qu’on a fait chacun de son côté ? De toute façon, vous en avez des montagnes à dire, non ?
+
+[06498.009]
+Oui, bien sûr !
+
+[06498.010]
+Épicier
+
+[06498.011]
+Bienvenue.
+
+[06498.012]
+Merci beaucoup.
+
+[06498.013]
+Revenez nous voir.
+
+[06498.014]
+Épicier
+
+[06498.015]
+Épicier
+
+[06498.016]
+Bienvenue.
+
+[06498.017]
+Auberge
+
+[06498.019]
+Un parfum épicé flotte dans l’air. On doit vendre des épices, ici.
+
+[06498.021]
+... Une odeur de chair crue flotte dans l’air. De la viande de monstre, peut-être.
+
+[06498.023]
+De la viande séchée et du poisson séché. Dans cette région, on doit préférer ce qui se conserve.
+
+[06498.025]
+Un superbe coffre au trésor ! ... Mais il est vide...
+
+[06498.026]
+Chef
+
+[06498.027]
+{16:34 8C} : tu en prépares ?
+
+[06498.028]
+Chef
+
+[06498.029]
+Veux-tu apprendre la recette : {16:34 8C} ?
+
+[06498.031]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06498.032]
+Chef
+
+[06498.033]
+Je vais t’apprendre la recette : {16:34 8C}.
+
+[06498.034]
+Chef
+
+[06498.035]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06498.036]
+Chef
+
+[06498.037]
+J’ai la recette : {16:34 8C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 84}{0B:00 00 00 00} Gald ?
+
+[06498.039]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06498.040]
+Chef
+
+[06498.041]
+Tu n’as pas assez d’argent.
+
+[06498.042]
+Chef
+
+[06498.043]
+Je te vends la recette : {16:34 8C}.
+
+[06498.044]
+Chef
+
+[06498.045]
+Bah, tant pis.
+
+[06498.046]
+{16:24 90}, {16:24 92}, {16:24 94}
+
+[06498.047]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06498.048]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06498.049]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06498.050]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06498.051]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}
+
+[06498.052]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06498.053]
+{16:24 90}, {16:24 92}, {16:24 94},
+{16:24 96}, {16:24 98}
+
+[06498.054]
+Chef
+
+[06498.055]
+Pour préparer {16:34 8C}, il faut :
+{18:44 88}
+
+[06498.056]
+Chef
+
+[06498.057]
+Mais tu as les ingrédients.
+
+[06498.058]
+Chef
+
+[06498.059]
+Si tu me les cèdes, je prépare : {16:34 8C}. Ça te va ?
+
+[06498.061]
+{03:00 00 00 00}　Oui
+　Non
+
+[06498.062]
+Chef
+
+[06498.063]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 8C}.
+
+[06498.064]
+Chef
+
+[06498.065]
+Dommage. C’est vraiment délicieux...
+
+[06498.066]
+Chef
+
+[06498.067]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06498.068]
+Chef
+
+[06498.069]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06498.070]
+Chef
+
+[06498.071]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06498.073]
+Recette ramassée : {16:34 8C}.
+
+[06498.075]
+Recette apprise : {16:34 A0}.
+
+[06498.076]
+Bon voyage.
+
+[06498.077]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06498.078]
+Voulez-vous passer la nuit ?
+
+[06498.080]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06498.081]
+Reposez-vous bien.
+
+[06498.082]
+Bonjour.
+
+[06498.083]
+Vous n’avez pas assez d’argent.
+
+[06498.084]
+Au plaisir de vous revoir.
+
+[06498.089]
+Obtenu : {16:25 EE}.
+
+[06498.091]
+Obtenu : {08:FF FF FF FF}.
+
+[06498.093]
+Trouvé : {16:25 F6}, mais vous n’avez plus de place.
+
+[06498.095]
+Il n’y a rien ici.
+

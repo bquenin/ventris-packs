@@ -1,0 +1,24 @@
+[00126.001]
+Dis, {NAME:04 00 00 00}, comment tu connais un passage secret pareil ?
+
+[00126.002]
+Oui ! Et puis, si on peut filer aussi facilement, pourquoi tu ne l’avais pas fait avant ?
+
+[00126.003]
+Un passage secret pareil, n’importe qui le découvrirait. Et pouvant fuir à tout moment, je n’avais aucune raison de me presser.
+
+[00126.004]
+Gh... Il a répondu sans sourciller.
+
+[00126.005]
+Ne te laisse pas avoir, {NAME:01 00 00 00}. Un type qui porte un masque pareil, c’est forcément louche.
+
+[00126.006]
+Hmf. Dis ce que tu veux. Mais pourriez-vous sortir d’ici seuls, vous deux ?
+
+[00126.007]
+Gh...
+
+[00126.008]
+Compris ? Alors marchez.
+

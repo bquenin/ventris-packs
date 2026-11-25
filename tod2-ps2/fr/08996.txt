@@ -1,0 +1,72 @@
+[08996.178432]
+Aigrette : entrepôt
+
+[08996.178456]
+Coque
+
+[08996.178464]
+Mine de l’ouest
+
+[08996.178480]
+Mine du sud
+
+[08996.178496]
+Mine du nord
+
+[08996.178512]
+Monde : alentours de Spiral Cave
+
+[08996.178552]
+Monde : nord de la base
+
+[08996.178584]
+Monde : autour de la base
+
+[08996.178616]
+Monde : autour de Realta
+
+[08996.178648]
+Monde : autour de Speranza
+
+[08996.178680]
+Monde : autour de Vangelo
+
+[08996.178712]
+Monde : nord de Calvalese
+
+[08996.178744]
+Monde : sud de Calvalese
+
+[08996.178776]
+Monde : en mer
+
+[08996.178800]
+Monde : Devil’s Reef
+
+[08996.178832]
+Monde : Calvalese
+
+[08996.178864]
+Monde : Fitzgald
+
+[08996.178896]
+Monde : Aquaveil
+
+[08996.178928]
+Monde : îles au sud-est de Phandaria
+
+[08996.178968]
+Monde : Phandaria
+
+[08996.179000]
+Monde : Seinegald
+
+[08996.180672]
+Brume trop dense pour atterrir.
+
+[08996.180704]
+Impossible d’atterrir.
+
+[08996.180736]
+Volez plus bas.
+

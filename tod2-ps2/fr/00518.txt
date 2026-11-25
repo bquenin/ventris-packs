@@ -1,0 +1,27 @@
+[00518.001]
+N’empêche, il m’énerve, ce ciel...
+
+[00518.002]
+Qu’est-ce qu’il a à ronchonner, lui ?
+
+[00518.003]
+Hugo, Leon et les leurs ont voulu détruire le monde, non ? Ce « Dycroft » flottait déjà là-haut. {NAME:03 00 00 00} y a perdu sa famille...
+
+[00518.004]
+........
+
+[00518.005]
+Hmf ! ... Se tracasser pour ça, ça ne lui ressemble pas. Je vais le secouer un peu, tiens !
+
+[00518.006]
+Ah ! Hé, {NAME:05 00 00 00} !!
+
+[00518.007]
+Gouah ! Qu’est-ce qui te prend, espèce de virago !
+
+[00518.008]
+Qui ça, une virago !? Gros pervers !!
+
+[00518.009]
+Ouaaaaargh !!
+

@@ -1,0 +1,72 @@
+[06656.001]
+Œuf de Dieu : niveau supérieur
+
+[06656.002]
+Œuf de Dieu : niveau supérieur
+
+[06656.003]
+{09:37 00 00 00} : recommencer
+
+[06656.004]
+Votre corps a rapetissé.
+
+[06656.005]
+Votre corps a grandi.
+
+[06656.008]
+Votre corps est trop petit : impossible de sauter par-dessus.
+
+[06656.010]
+{03:00 00 00 00}Recommencer ?
+
+[06656.012]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06656.014]
+Sauter en bas ?
+
+[06656.016]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06656.017]
+Aïe...
+
+[06656.018]
+Bon voyage.
+
+[06656.019]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06656.020]
+Voulez-vous passer la nuit ?
+
+[06656.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06656.023]
+Reposez-vous bien.
+
+[06656.024]
+Bonjour.
+
+[06656.025]
+Vous n’avez pas assez d’argent.
+
+[06656.026]
+Au plaisir de vous revoir.
+
+[06656.031]
+Obtenu : {16:26 1E}.
+
+[06656.033]
+Obtenu : {08:FF FF FF FF}.
+
+[06656.035]
+Trouvé : {16:26 26}, mais vous n’avez plus de place.
+
+[06656.037]
+Il n’y a rien ici.
+

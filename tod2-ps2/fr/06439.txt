@@ -1,0 +1,58 @@
+[06439.001]
+Heidelberg : auberge
+
+[06439.002]
+Heidelberg
+
+[06439.004]
+On voit des enfants courir partout, pleins d’entrain. Les rues de Heidelberg sont la paix même.
+
+[06439.006]
+On voit des enfants courir partout, pleins d’entrain. Les rues de Heidelberg sont la paix même.
+
+[06439.008]
+Un livre saint, de l’Ordre d’Atamoni, semble-t-il. Mais il ne paraît guère servir.
+
+[06439.010]
+Un livre saint du temple de Straylize.
+
+[06439.012]
+L’armoire est vide.
+
+[06439.013]
+Bon voyage.
+
+[06439.014]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06439.015]
+Voulez-vous passer la nuit ?
+
+[06439.017]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06439.018]
+Reposez-vous bien.
+
+[06439.019]
+Bonjour.
+
+[06439.020]
+Vous n’avez pas assez d’argent.
+
+[06439.021]
+Au plaisir de vous revoir.
+
+[06439.026]
+Obtenu : {16:25 BA}.
+
+[06439.028]
+Obtenu : {08:FF FF FF FF}.
+
+[06439.030]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06439.032]
+Il n’y a rien ici.
+

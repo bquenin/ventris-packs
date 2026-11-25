@@ -1,0 +1,6 @@
+[00330.001]
+On retourne bientôt auprès des autres ?
+
+[00330.002]
+Oui... Ils doivent s’inquiéter pour toi, {NAME:01 00 00 00}.
+

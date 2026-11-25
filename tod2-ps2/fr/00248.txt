@@ -1,0 +1,12 @@
+[00248.001]
+Allez, tout le monde ! Direction la mine, à fond !
+
+[00248.002]
+Hé, attends, {NAME:01 00 00 00} ! Tu marches trop vite ! À ce rythme-là, tu seras à plat avant d’avoir trouvé le trésor !
+
+[00248.003]
+Hé hé, je sais ! Mais si on nous devance ! Rapporter le trésor, c’est le rôle du héros : pas question qu’on me le souffle !
+
+[00248.004]
+Oh, ce {NAME:01 00 00 00}.
+

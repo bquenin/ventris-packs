@@ -1,0 +1,12 @@
+[00176.001]
+Elraine, la Sainte... hein. On la disait partie en voyage sauver les gens, mais elle est rentrée à Aigrette.
+
+[00176.002]
+Dis, dis, {NAME:03 00 00 00}, on rentre à l’auberge. J’ai une de ces faims.
+
+[00176.003]
+Eh oui, moi aussi, grâce à qui tu sais, je suis vanné ! Rentrons à l’auberge ! Vanné, je te dis !
+
+[00176.004]
+P-pardon...
+

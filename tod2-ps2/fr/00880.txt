@@ -1,0 +1,12 @@
+[00880.001]
+Ça ne plaît pas, alors « on casse tout et on recommence » : un enfant et ses cubes.
+
+[00880.002]
+Tu parles d’Elraine ?
+
+[00880.003]
+Voilà ! Ce genre-là, c’est pur au fond, donc ça ne plie pas, et c’est bien l’ennui... Aah ! C’est quoi, ça !? Il y a un corps étranger dans mes données ! Hé, {NAME:01 00 00 00} ! Je te reprends du sang ! Ça fera pas mal ! Yah !
+
+[00880.004]
+Elle, pareil...
+

@@ -1,0 +1,105 @@
+[06467.001]
+Château de Heidelberg
+
+[06467.002]
+Château de Heidelberg
+
+[06467.004]
+Fiou ! Voilà une entrée sacrément tapageuse.
+
+[06467.006]
+Mais devant cela, même un château imprenable ne tient pas un instant. Comme tactique, c’est remarquable.
+
+[06467.008]
+En tout cas, dépêchons ! Je m’inquiète pour le roi Woodrow !
+
+[06467.009]
+Bon voyage.
+
+[06467.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06467.011]
+Voulez-vous passer la nuit ?
+
+[06467.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06467.014]
+Reposez-vous bien.
+
+[06467.015]
+Bonjour.
+
+[06467.016]
+Vous n’avez pas assez d’argent.
+
+[06467.017]
+Au plaisir de vous revoir.
+
+[06467.022]
+Obtenu : {16:25 BA}.
+
+[06467.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06467.026]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06467.028]
+Il n’y a rien ici.
+
+[06467.029]
+Ravitaillement
+
+[06467.030]
+Ici, l’unité de ravitaillement.
+
+[06467.031]
+Bon courage.
+
+[06467.032]
+Quand vous voulez.
+
+[06467.033]
+Ravitaillement
+
+[06467.034]
+Secourir les soldats blessés, c’est notre travail. Les soins sont payants, cela dit...
+
+[06467.035]
+Secourir les soldats blessés, c’est notre mission.
+
+[06467.036]
+Infirmier
+
+[06467.037]
+Infirmier
+
+[06467.038]
+Des premiers soins ?
+{03:00 00 00 00}　Oui ({0B:01 00 00 00}{06:64 00 00 00}{0B:00 00 00 00} Gald)　
+　Non　
+
+[06467.039]
+Infirmier
+
+[06467.040]
+Premiers soins, c’est parti !
+
+[06467.041]
+Vous voilà remis.
+
+[06467.042]
+Cette fois, c’est offert.
+
+[06467.043]
+Infirmier
+
+[06467.044]
+Infirmier
+
+[06467.045]
+Quand vous voulez.
+

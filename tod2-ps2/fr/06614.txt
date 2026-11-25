@@ -1,0 +1,840 @@
+[06614.001]
+Aquaveil
+
+[06614.002]
+Aquaveil
+
+[06614.003]
+Aquaveil
+
+[06614.005]
+« Trois cents ans d’existence. La maison de tradition, fondée du temps du domaine de Moryu : le bazar Moryu, c’est par ici ! »
+
+[06614.007]
+Un réverbère d’une forme curieuse. On appelle cela un « tôrô », paraît-il.
+
+[06614.009]
+Il y a plein de petits poissons. Ça se mange, ça ?
+
+[06614.011]
+Hahaha ! Ça, c’est le kingyo-sukui, la pêche aux poissons rouges : un jeu propre à cette région.
+
+[06614.013]
+Des arbustes aux formes étranges sont alignés.
+
+[06614.014]
+Dame
+
+[06614.015]
+Ce pays n’a jamais eu d’échanges avec les autres, et il a cultivé une culture bien à lui.
+
+[06614.016]
+Dame
+
+[06614.017]
+C’est qu’on est entourés par la mer, voyez. Il est rare que quelqu’un vienne d’ailleurs.
+
+[06614.018]
+Dame
+
+[06614.019]
+Tiens donc, vous autres, vous n’êtes pas d’Aquaveil. Ça se voit tout de suite à votre mise.
+
+[06614.021]
+C’est vrai que les gens d’ici portent de drôles de vêtements.
+
+[06614.023]
+Autrefois, papa m’a appris que les pays de l’Est avaient une autre culture, mais...
+
+[06614.024]
+Maison de thé
+
+[06614.025]
+Un petit thé, en passant, pendant vos emplettes ?
+
+[06614.026]
+Grand merci, comme toujours.
+
+[06614.027]
+Allez, à la prochaine.
+
+[06614.028]
+Maison de thé
+
+[06614.029]
+Client
+
+[06614.030]
+Mm, cet arôme... Pour le thé, décidément, rien ne vaut celui-ci.
+
+[06614.032]
+Quoi, quoi, c’est si bon que ça !? Alors je goûte !
+
+[06614.034]
+... Beuaaah~ ! C’est ameeer ! De l’eau, donnez-moi de l’eau !
+
+[06614.035]
+Client
+
+[06614.036]
+Ho ho ho. Cet arôme est peut-être un peu rude pour les gens d’ailleurs.
+
+[06614.037]
+Client
+
+[06614.038]
+Sluuuuurp~
+
+[06614.039]
+Client
+
+[06614.040]
+Décidément, le thé a du bon. À rester ainsi, le cœur s’apaise tout doucement.
+
+[06614.042]
+Voyons, faites-moi goûter aussi. Sluuuuurp~
+
+[06614.044]
+Beuh ! C-c’est amer ! Pteu, pteu, pteu !
+
+[06614.045]
+Poissonnier
+
+[06614.046]
+Alors, cette fraîcheur ! Rien que du sauvage, pêché tout près, encore tout frétillant !
+
+[06614.047]
+Revenez me voir !
+
+[06614.048]
+Radins ! Achetez donc quelque chose !
+
+[06614.049]
+Poissonnier
+
+[06614.050]
+Souvenirs : Tokei
+
+[06614.051]
+Approchez, approchez, venez voir ! Curiosités et pièces rares !
+
+[06614.052]
+Gardez-nous votre fidélité !
+
+[06614.053]
+À bientôt.
+
+[06614.054]
+Souvenirs : Tokei
+
+[06614.055]
+Épicier
+
+[06614.056]
+Prenez-moi donc un petit quelque chose.
+
+[06614.057]
+Grand merci, comme toujours.
+
+[06614.058]
+Allez, à la prochaine.
+
+[06614.059]
+Épicier
+
+[06614.060]
+Enfant
+
+[06614.061]
+Kon, kon, kon♪ Garçon aux yeux étranges, reviens jouer avec moi une autre fois.
+
+[06614.062]
+Enfant
+
+[06614.063]
+Garçon aux yeux étranges, tu veux bien jouer avec moi ?
+
+[06614.064]
+Enfant
+
+[06614.065]
+Corde à sauter, bilboquet, il y a de tout. Kon, kon, kon♪
+
+[06614.067]
+Là, je n’ai pas le temps de jouer. Mais je reviendrai, et on jouera à ce moment-là. ... C’est promis !
+
+[06614.068]
+Amoureux de la liberté
+
+[06614.069]
+Toi et moi, nous sommes un vent toujours libre... Le quotidien qui m’enchaîne ? Je lui dis BYE, tout de suite...
+
+[06614.070]
+Amoureux de la liberté
+
+[06614.071]
+Je vis à ma guise... Disons : un KITE dont la ROPE a lâché.
+
+[06614.072]
+Amoureux de la liberté
+
+[06614.073]
+Tu le sens ? Le BEAT brûlant ! Tu y crois ? La PASSION qui flambe ! Voilà ce qui nous pousse en avant !
+
+[06614.074]
+Amoureux de la liberté
+
+[06614.075]
+... Eh oui, je suis... « l’homme qui aime la liberté »... celui qu’on a nommé ainsi, on ne sait plus qui...
+
+[06614.076]
+Amoureux de la liberté
+
+[06614.077]
+Quand ai-je échoué dans cette BAY...
+
+[06614.078]
+Amoureux de la liberté
+
+[06614.079]
+Non... la mémoire n’a pas de sens... Ceux qui tiennent à petits traits le DIARY qu’on appelle mémoire sont les premiers à partir...
+
+[06614.080]
+Amoureux de la liberté
+
+[06614.081]
+Dis... ça t’amuse, de suivre une ROUTE tracée par d’autres ? Ce qu’il nous faut, c’est le courage de trancher la chaîne des contraintes, de l’estime pour soi, et une SOUL brûlante... Tu ne crois pas ?
+
+[06614.083]
+{03:00 00 00 00}　Je ne comprends rien à ce que tu dis　
+　Je ne crois pas　
+　Je crois que si　
+
+[06614.084]
+Amoureux de la liberté
+
+[06614.085]
+C’est toujours ainsi... Ce vent du large nommé solitude, qui hurle dans mon cœur... Mais c’est un vent qui fait du bien...
+
+[06614.086]
+Amoureux de la liberté
+
+[06614.087]
+Se frotter aux autres, faire semblant de comprendre : une comédie de solitaires... J’en ai assez... Moi, je choisis plutôt d’être libre...
+
+[06614.088]
+Amoureux de la liberté
+
+[06614.089]
+Le vent du large nommé solitude ravive durement les plaies de mon cœur... profond, profond... comme pour les creuser...
+
+[06614.090]
+Amoureux de la liberté
+
+[06614.091]
+Mais retiens ceci... À chaque blessure, le cœur devient plus fort, plus robuste... Retiens-le...
+
+[06614.092]
+Amoureux de la liberté
+
+[06614.093]
+Que les âmes se SYNCHRONIZE... Voilà l’essentiel... Ce carrefour nommé la vie... Pourquoi les gens se rencontrent-ils...
+
+[06614.094]
+Amoureux de la liberté
+
+[06614.095]
+Si nos âmes parviennent à se SYNCHRONIZE... je devrais pouvoir te donner quelque chose... D’ici là, n’oublie pas...
+
+[06614.096]
+Amoureux de la liberté
+
+[06614.097]
+Ces choses qu’on appelle titres... ça ne t’intrigue pas ? Que ce qui t’honore te soit imposé par d’autres, ça ne t’intrigue pas ? Je le redis... ça ne t’intrigue pas ? Hein !
+
+[06614.098]
+Amoureux de la liberté
+
+[06614.099]
+Même un titre ne peut pas nous enchaîner... Oui ! Je suis « l’homme qui aime la liberté »...
+
+[06614.100]
+Amoureux de la liberté
+
+[06614.101]
+... C’est notre destinée, notre SAGA. Décide... de ta propre main !
+
+[06614.102]
+Amoureux de la liberté
+
+[06614.103]
+Moi, je ne peux que donner un petit coup de pouce... Ce que je donne, c’est un « titre libre »... le reste dépend de vous ! Décide ! Pour toi, qui es seul au monde à être toi !
+
+[06614.104]
+Amoureux de la liberté
+
+[06614.105]
+{NAME:01 00 00 00}, libère ta SOUL ! On peut enchaîner un corps, mais pas une SOUL ... jamais !
+
+[06614.107]
+Ça... ça impressionne, quand même...
+
+[06614.108]
+Amoureux de la liberté
+
+[06614.109]
+{NAME:02 00 00 00}, on est toujours libre ! Et si jamais on te volait ton cœur libre... alors ce serait... THE END...
+
+[06614.111]
+... Quel homme étrange...
+
+[06614.112]
+Amoureux de la liberté
+
+[06614.113]
+{NAME:03 00 00 00}, va casser les vitres ! Prends la mer sur un bateau volé ! Sans même savoir où tu vas ! Dans la nuit encore sombre, avant que le soleil se lève...
+
+[06614.115]
+C’est quoi... ça...
+
+[06614.116]
+Amoureux de la liberté
+
+[06614.117]
+{NAME:04 00 00 00}, l’éclat d’un homme ne dure qu’un instant ! Ce n’est jamais que le HEAVEN d’une nuit ! Pas besoin d’un quotidien tiède ! Ô temps, resplendis !
+
+[06614.119]
+... Pff...
+
+[06614.120]
+Amoureux de la liberté
+
+[06614.121]
+{NAME:05 00 00 00}, crois en tes possibilités ! La route se ramifie à l’infini ! Tout ce qu’on peut faire, c’est foncer NONSTOP...
+
+[06614.123]
+... Tu as bu, ou quoi ?
+
+[06614.124]
+Amoureux de la liberté
+
+[06614.125]
+{NAME:06 00 00 00}, fais comme ça te chante !
+
+[06614.127]
+Quoi ! C’est quoi, ça !
+
+[06614.128]
+Amoureux de la liberté
+
+[06614.129]
+De même que ce corps n’est qu’un vase emprunté pour un temps... ce titre n’est peut-être qu’une lueur d’un instant... Quand la lueur faiblira... quand elle semblera près de s’éteindre...
+
+[06614.130]
+Amoureux de la liberté
+
+[06614.131]
+Reviens me voir ! Quand tu sentiras ta SOUL brûlante t’échapper, reviens me voir ! Je te la soufflerai de nouveau... la lumière de la liberté !
+
+[06614.132]
+Amoureux de la liberté
+
+[06614.133]
+C’est toujours ainsi... Ce vent du large nommé solitude, qui hurle dans mon cœur... Mais c’est un vent qui fait du bien...
+
+[06614.134]
+Amoureux de la liberté
+
+[06614.135]
+Se frotter aux autres, faire semblant de comprendre : une comédie de solitaires... J’en ai assez... Moi, je choisis plutôt d’être libre...
+
+[06614.136]
+Amoureux de la liberté
+
+[06614.137]
+Le vent du large nommé solitude ravive durement les plaies de mon cœur... profond, profond... comme pour les creuser...
+
+[06614.138]
+Amoureux de la liberté
+
+[06614.139]
+Mais retiens ceci... À chaque blessure, le cœur devient plus fort, plus robuste... Retiens-le...
+
+[06614.140]
+Amoureux de la liberté
+
+[06614.141]
+... Le commencement est toujours soudain... Et alors commence la fin...
+
+[06614.142]
+Amoureux de la liberté
+
+[06614.143]
+La liberté n’est pas sans limites... et le désordre n’est pas la liberté... Même la « liberté » que tu as crue telle un jour, mets-la en doute... Ce n’est peut-être pas la « vraie liberté »...
+
+[06614.144]
+Amoureux de la liberté
+
+[06614.145]
+Si changer sans cesse est la destinée des hommes, leur SAGA... alors changer de POLICY n’a rien de mal... Personne ne te le reprochera...
+
+[06614.146]
+Amoureux de la liberté
+
+[06614.147]
+Alors, de qui veux-tu changer le titre libre ?{02}
+
+[06614.148]
+{03:00 00 00 00}{NAME:04 00 00 00}
+{NAME:05 00 00 00}
+{NAME:06 00 00 00}
+Page précédente
+
+[06614.149]
+{03:00 00 00 00}{NAME:01 00 00 00}
+{NAME:02 00 00 00}
+{NAME:03 00 00 00}
+Page suivante
+
+[06614.151]
+Amoureux de la liberté
+
+[06614.152]
+Tu ne changes rien... Bah, ça aussi, c’est la liberté.
+
+[06614.153]
+Amoureux de la liberté
+
+[06614.154]
+Celui-là n’est pas là, en ce moment ! Il est LOST !
+
+[06614.155]
+Amoureux de la liberté
+
+[06614.156]
+OK ! Dès maintenant, {15:24 70}, c’est « {16:A0 00 08 24 72 CA} » ! Et nul ne t’enchaînera pour porter ce titre...
+
+[06614.157]
+Gen le charpentier
+
+[06614.158]
+Ohé ! On fabrique, par ici ?
+
+[06614.159]
+Gen le charpentier
+
+[06614.160]
+Moi, je bâtis des maisons ! J’en bâtis à tour de bras ! Et vous autres, vous fabriquez ?
+
+[06614.161]
+Gen le charpentier
+
+[06614.162]
+Je vais voir de mon œil exercé à quel point vous aimez fabriquer, vous autres !
+
+[06614.163]
+Gen le charpentier
+
+[06614.164]
+Pas un seul « Raffinage », jamais ? Tss ! Mais qu’est-ce que vous fichez !
+
+[06614.165]
+Gen le charpentier
+
+[06614.166]
+Nombre de raffinages : {14:34 78}. Encore de vrais débutants !
+
+[06614.167]
+Gen le charpentier
+
+[06614.168]
+Nombre de raffinages : {14:34 78}. Des apprentis, on va dire !
+
+[06614.169]
+Gen le charpentier
+
+[06614.170]
+Nombre de raffinages : {14:34 78}. Allez, fabriquez, fabriquez !
+
+[06614.171]
+Gen le charpentier
+
+[06614.172]
+Ça, c’est fort ! Plus d’un million de raffinages ! Chapeau !
+
+[06614.174]
+{NAME:01 00 00 00} et les siens obtiennent le titre « {08:66 08 00 00} ».
+
+[06614.176]
+{NAME:01 00 00 00} et les siens obtiennent le titre « {08:67 08 00 00} ».
+
+[06614.178]
+{NAME:01 00 00 00} et les siens obtiennent le titre « {08:68 08 00 00} ».
+
+[06614.180]
+{NAME:01 00 00 00} et les siens obtiennent le titre « {08:69 08 00 00} ».
+
+[06614.181]
+Aquaveil
+
+[06614.183]
+« {16:A0 00 08 24 94 CA} »
+C’est bien cela ?
+
+[06614.185]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06614.187]
+{15:24 90} obtient le titre « {16:A0 00 08 24 94 CA} ».
+
+[06614.188]
+Chef
+
+[06614.189]
+{16:34 A4} : tu en prépares ?
+
+[06614.190]
+Chef
+
+[06614.191]
+Veux-tu apprendre la recette : {16:34 A4} ?
+
+[06614.193]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06614.194]
+Chef
+
+[06614.195]
+Je vais t’apprendre la recette : {16:34 A4}.
+
+[06614.196]
+Chef
+
+[06614.197]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06614.198]
+Chef
+
+[06614.199]
+J’ai la recette : {16:34 A4}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 9C}{0B:00 00 00 00} Gald ?
+
+[06614.201]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06614.202]
+Chef
+
+[06614.203]
+Tu n’as pas assez d’argent.
+
+[06614.204]
+Chef
+
+[06614.205]
+Je te vends la recette : {16:34 A4}.
+
+[06614.206]
+Chef
+
+[06614.207]
+Bah, tant pis.
+
+[06614.208]
+{16:24 A8}, {16:24 AA}, {16:24 AC}
+
+[06614.209]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.210]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.211]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.212]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.213]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}
+
+[06614.214]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.215]
+{16:24 A8}, {16:24 AA}, {16:24 AC},
+{16:24 AE}, {16:24 B0}
+
+[06614.216]
+Chef
+
+[06614.217]
+Pour préparer {16:34 A4}, il faut :
+{18:44 A0}
+
+[06614.218]
+Chef
+
+[06614.219]
+Mais tu as les ingrédients.
+
+[06614.220]
+Chef
+
+[06614.221]
+Si tu me les cèdes, je prépare : {16:34 A4}. Ça te va ?
+
+[06614.223]
+{03:00 00 00 00}　Oui
+　Non
+
+[06614.224]
+Chef
+
+[06614.225]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 A4}.
+
+[06614.226]
+Chef
+
+[06614.227]
+Dommage. C’est vraiment délicieux...
+
+[06614.228]
+Chef
+
+[06614.229]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06614.230]
+Chef
+
+[06614.231]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06614.232]
+Chef
+
+[06614.233]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06614.235]
+Recette ramassée : {16:34 A4}.
+
+[06614.237]
+Recette apprise : {16:34 B8}.
+
+[06614.238]
+Bon voyage.
+
+[06614.239]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06614.240]
+Voulez-vous passer la nuit ?
+
+[06614.242]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06614.243]
+Reposez-vous bien.
+
+[06614.244]
+Bonjour.
+
+[06614.245]
+Vous n’avez pas assez d’argent.
+
+[06614.246]
+Au plaisir de vous revoir.
+
+[06614.251]
+Obtenu : {16:26 06}.
+
+[06614.253]
+Obtenu : {08:FF FF FF FF}.
+
+[06614.255]
+Trouvé : {16:26 0E}, mais vous n’avez plus de place.
+
+[06614.257]
+Il n’y a rien ici.
+
+[06614.258]
+Vendeur ({08:12 00 00 00})
+
+[06614.259]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06614.260]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06614.261]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06614.262]
+C’est {0B:01 00 00 00}{14:36 18}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06614.264]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:26 22} ({14:36 1C} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06614.266]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06614.267]
+Merci de votre achat.
+
+[06614.268]
+Merci de votre achat.
+
+[06614.269]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:36 18}{0B:00 00 00 00} Gald pièce.
+
+[06614.270]
+Voulez-vous suivre le cours de raffinage ?
+
+[06614.272]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06614.273]
+Que voulez-vous savoir ?
+
+[06614.275]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06614.277]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06614.278]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06614.279]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06614.280]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06614.281]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06614.282]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06614.283]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06614.284]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06614.285]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06614.286]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06614.287]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06614.288]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06614.289]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06614.290]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06614.291]
+Je vous expliquerai les emplacements en détail à part.
+
+[06614.292]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06614.293]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06614.294]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06614.295]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06614.296]
+Je vais vous expliquer les emplacements en détail.
+
+[06614.297]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06614.298]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06614.299]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06614.300]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06614.301]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06614.302]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06614.303]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06614.304]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06614.305]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06614.306]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06614.307]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06614.308]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06614.309]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06614.310]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06614.311]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06614.312]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06614.313]
+... Ranger ses objets, c’est important aussi.
+

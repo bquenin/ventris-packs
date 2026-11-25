@@ -1,0 +1,13 @@
+[06295.4828]
+Qui porte le masque
+de {NAME:04 00 00 00}, là ?
+
+[06295.4871]
+Oui ! Chapeau !
+
+[06295.4890]
+Mais non
+
+[06295.4899]
+Trop tard.
+

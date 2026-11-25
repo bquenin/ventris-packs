@@ -1,0 +1,61 @@
+[06382.001]
+Ruines de Straylize
+
+[06382.002]
+Ruines de Straylize
+
+[06382.004]
+Ici, le temple de Straylize.
+
+[06382.006]
+Ouah ! Regarde, {NAME:03 00 00 00} ! Il y a une Lentille énorme !
+
+[06382.008]
+... Regarde mieux, c’est une fausse. C’est une maquette de « l’Œil de Dieu ».
+
+[06382.010]
+« L’Œil de Dieu » était une Lentille géante de six mètres de diamètre, au pouvoir phénoménal, mais on en a fait mauvais usage et le monde a frôlé le désastre.
+
+[06382.012]
+Et ils l’ont détruite pour sauver la paix du monde ! Papa et maman !
+
+[06382.014]
+C’est ça.
+
+[06382.015]
+Bon voyage.
+
+[06382.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06382.017]
+Voulez-vous passer la nuit ?
+
+[06382.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06382.020]
+Reposez-vous bien.
+
+[06382.021]
+Bonjour.
+
+[06382.022]
+Vous n’avez pas assez d’argent.
+
+[06382.023]
+Au plaisir de vous revoir.
+
+[06382.028]
+Obtenu : {16:25 BA}.
+
+[06382.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06382.032]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06382.034]
+Il n’y a rien ici.
+

@@ -1,0 +1,196 @@
+[06307.001]
+Forêt de Cresta
+
+[06307.002]
+Forêt de Cresta
+
+[06307.003]
+Cinnamon
+
+[06307.004]
+Vite, vite !
+
+[06307.005]
+Basil
+
+[06307.006]
+{NAME:01 00 00 00}, dépêche-toi !!
+
+[06307.007]
+Uni
+
+[06307.008]
+Kyaa !
+
+[06307.010]
+Ça va !?
+
+[06307.011]
+Cinnamon
+
+[06307.012]
+Mais grouille-toi, {NAME:01 00 00 00} !
+
+[06307.014]
+Je sais !
+
+[06307.016]
+Tu peux te lever ? Allez, on y va !
+
+[06307.017]
+Uni
+
+[06307.018]
+Oui !
+
+[06307.019]
+Cinnamon
+
+[06307.020]
+Ouaaah !!
+
+[06307.021]
+Basil
+
+[06307.022]
+Qu-qu’est-ce qu’on fait...
+
+[06307.024]
+Pris en tenaille !?
+
+[06307.026]
+N’empêche, qu’est-ce que des bêtes pareilles font si près de la ville... !?
+
+[06307.027]
+Cinnamon
+
+[06307.028]
+Courage, tout le monde ! Unissons nos forces et battons-nous avec {NAME:01 00 00 00} !
+
+[06307.029]
+Basil
+
+[06307.030]
+M-mais on n’y arrivera jamais !
+
+[06307.031]
+Uni
+
+[06307.032]
+Ah ! Attention, {NAME:01 00 00 00} !!
+
+[06307.033]
+Uni
+
+[06307.034]
+J’ai peur, {NAME:01 00 00 00}...
+
+[06307.036]
+Tout va bien ! Quoi qu’il m’arrive, vous au moins... je vous protégerai, c’est juré !
+
+[06307.038]
+Gah !!
+
+[06307.039]
+Cinnamon
+
+[06307.040]
+{NAME:01 00 00 00} !!
+
+[06307.042]
+... Coûte que coûte... je les protège...
+
+[06307.043]
+??
+
+[06307.044]
+Eh bien... Il s’en est fallu de peu, {NAME:01 00 00 00}.
+
+[06307.046]
+Hein ?
+
+[06307.047]
+??
+
+[06307.048]
+{NAME:03 00 00 00} Dunamis, pour vous servir... comme on dit.
+
+[06307.050]
+{NAME:03 00 00 00}... !
+
+[06307.051]
+Cinnamon
+
+[06307.052]
+Ah, c’est grand frère {NAME:03 00 00 00} !
+
+[06307.054]
+Hé, vous autres. Restez cachés encore un peu.
+
+[06307.056]
+{NAME:01 00 00 00}, on causera après. D’abord, on s’occupe de ceux-là !
+
+[06307.058]
+O-oui !
+
+[06307.059]
+Cinnamon
+
+[06307.060]
+Grand frère {NAME:03 00 00 00}~~~ !
+
+[06307.061]
+Uni
+
+[06307.062]
+Si tu rentrais, tu aurais pu nous le dire !
+
+[06307.064]
+Je voulais vous faire la surprise, alors j’ai gardé le secret.
+
+[06307.066]
+Et c’est moi qui me retrouve surpris. Franchement, vous m’avez fichu une de ces frousses !
+
+[06307.068]
+{NAME:03 00 00 00}... Tant... mieux...
+
+[06307.070]
+{05:80 01 00 00}H-hé, ça va !? {NAME:01 00 00 00} ! {NAME:01 00 00 00} !!
+
+[06307.071]
+Bon voyage.
+
+[06307.072]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06307.073]
+Voulez-vous passer la nuit ?
+
+[06307.075]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06307.076]
+Reposez-vous bien.
+
+[06307.077]
+Bonjour.
+
+[06307.078]
+Vous n’avez pas assez d’argent.
+
+[06307.079]
+Au plaisir de vous revoir.
+
+[06307.084]
+Obtenu : {16:25 BA}.
+
+[06307.086]
+Obtenu : {08:FF FF FF FF}.
+
+[06307.088]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06307.090]
+Il n’y a rien ici.
+

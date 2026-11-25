@@ -1,0 +1,15 @@
+[00198.001]
+Pour Phandaria, il nous faut mettre le cap au nord. Êtes-vous prêts ?
+
+[00198.002]
+Ah, zut ! Je ne l’ai pas encore achetée ! Sans elle, là-bas, on gèle !
+
+[00198.003]
+Hein ? Acheter quoi ?
+
+[00198.004]
+Hé hé, la cape bien chaude ! Qu’est-ce que ça tient chaud ! Indispensable au pays des neiges !
+
+[00198.005]
+... Dis, {NAME:01 00 00 00}. {NAME:04 00 00 00} parlait du « cap » d’un bateau.
+

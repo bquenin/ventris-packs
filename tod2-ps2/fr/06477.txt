@@ -1,0 +1,421 @@
+[06477.001]
+Cherik : auberge
+
+[06477.002]
+Cherik
+
+[06477.003]
+Auberge
+
+[06477.005]
+Une bonne odeur de cuisine flotte dans l’air.
+
+[06477.007]
+De vieux articles de bazar sont entassés.
+
+[06477.008]
+Patronne Darie
+
+[06477.009]
+Autrefois, ça marchait bien mieux, vous savez. C’était plein à craquer de clients.
+
+[06477.010]
+Patronne Darie
+
+[06477.011]
+Et maintenant... Haa, c’était le bon temps.
+
+[06477.012]
+Patronne Darie
+
+[06477.013]
+Tiens, des clients ? Ça fait longtemps qu’on n’a pas vu un groupe.
+
+[06477.015]
+C’est plutôt vide, dites donc...
+
+[06477.016]
+Patronne Darie
+
+[06477.017]
+Eh oui. Les gens d’ici s’en vont à Aigrette, avec ces départs en bloc...
+
+[06477.018]
+Patronne Darie
+
+[06477.019]
+Et les pèlerins logent à Calviola... Le commerce est fichu.
+
+[06477.021]
+La ville aussi est d’un calme à faire peur. Il n’y a vraiment plus de vie...
+
+[06477.022]
+Patronne Darie
+
+[06477.023]
+Restez donc pour la nuit, mes petits : dites-vous que vous nous rendez service.
+
+[06477.024]
+Patronne Darie
+
+[06477.025]
+Autrefois, ça marchait bien mieux, vous savez. C’était plein à craquer de clients.
+
+[06477.026]
+Patronne Darie
+
+[06477.027]
+Et maintenant... Haa, c’était le bon temps.
+
+[06477.028]
+Patronne Darie
+
+[06477.029]
+Ça alors, des clients ? Ça fait longtemps qu’on n’a pas vu un groupe pareil.
+
+[06477.031]
+C’est comme la dernière fois. Toujours aussi peu de vie.
+
+[06477.032]
+Patronne Darie
+
+[06477.033]
+Eh oui. Les gens d’ici s’en vont à Aigrette, avec ces départs en bloc...
+
+[06477.034]
+Patronne Darie
+
+[06477.035]
+Et les pèlerins logent à Calviola... Le commerce est fichu.
+
+[06477.037]
+Tous croient en la déesse Atamoni... non, en Fortuna, je suppose.
+
+[06477.039]
+Ils ont dû juger que vivre sous Fortuna valait mieux que leur vie d’à présent.
+
+[06477.040]
+Patronne Darie
+
+[06477.041]
+Atamoni ou Fortuna, je n’en sais rien, mais pour nous, c’est une belle plaie.
+
+[06477.042]
+Patronne Darie
+
+[06477.043]
+Aucune autre auberge n’a autant de chambres que la nôtre !
+
+[06477.044]
+Patronne Darie
+
+[06477.045]
+Restez donc pour la nuit, jeunes gens, si le cœur vous en dit !
+
+[06477.046]
+Patronne Darie
+
+[06477.047]
+Bienvenue ! Vous êtes un groupe ?
+
+[06477.049]
+Les affaires marchent bien, on dirait.
+
+[06477.050]
+Patronne Darie
+
+[06477.051]
+C’est qu’on est en plein milieu de Cherik : les gens s’y retrouvent tout seuls.
+
+[06477.053]
+La suite, on ne sait pas ce qu’elle sera~.
+
+[06477.054]
+Patronne Darie
+
+[06477.055]
+Bah, c’est vrai qu’avec Atamoni, l’épidémie et le reste, ça remue pas mal.
+
+[06477.056]
+Patronne Darie
+
+[06477.057]
+Quoi qu’il arrive, cette auberge, au moins, je la garderai debout.
+
+[06477.058]
+Patronne Darie
+
+[06477.059]
+Bienvenue ! Vous êtes frères, tous les deux ?
+
+[06477.061]
+Pas par le sang, mais c’est un peu ça.
+
+[06477.062]
+Patronne Darie
+
+[06477.063]
+Vous êtes ici en voyage ? Alors restez donc chez nous !
+
+[06477.064]
+Patronne Darie
+
+[06477.065]
+Aucune autre auberge n’a autant de chambres que la nôtre !
+
+[06477.066]
+Patronne Darie
+
+[06477.067]
+Restez donc pour la nuit, jeunes gens, si le cœur vous en dit !
+
+[06477.068]
+Réceptionniste
+
+[06477.069]
+Bienvenue à l’auberge Darie !
+
+[06477.070]
+Réceptionniste
+
+[06477.071]
+Chef
+
+[06477.072]
+À Cherik, les ingrédients ne manquent pas : on peut faire toutes sortes de plats, c’est un plaisir.
+
+[06477.073]
+Chef
+
+[06477.074]
+À Cherik, les ingrédients ne manquent pas : on peut faire toutes sortes de plats, c’est un plaisir.
+
+[06477.075]
+John
+
+[06477.076]
+Moi, c’est John, des « Ailes Noires » ! On est des chasseurs de Lentilles célèbres, pour sûr !
+
+[06477.078]
+{03:00 00 00 00}　Je connais　
+　Jamais entendu parler　
+
+[06477.079]
+John
+
+[06477.080]
+Notre patron, c’est quelqu’un ! « S’incliner devant de simples citoyens pour avoir du travail : hors de question ! », qu’il a déclaré, pour sûr !
+
+[06477.081]
+John
+
+[06477.082]
+Quelle fierté ! Moi, je suivrai le patron toute ma vie, pour sûr !
+
+[06477.083]
+John
+
+[06477.084]
+Au fait, la note de l’auberge, il compte la payer comment, je me le demande ?
+
+[06477.085]
+John
+
+[06477.086]
+Ça ne va pas, ça ! Les chasseurs de Lentilles jamais vaincus, les « Ailes Noires » : retenez ça, pour sûr !
+
+[06477.087]
+John
+
+[06477.088]
+Nos ancêtres se seraient illustrés du temps de la guerre du Ciel et de la Terre. C’est dire si l’équipe a de qui tenir, pour sûr !
+
+[06477.089]
+John
+
+[06477.090]
+Une semaine sans manger, un mois sans dormir à l’auberge, et je suivrai quand même le patron, pour sûr !
+
+[06477.091]
+Chef
+
+[06477.092]
+{16:34 7C} : tu en prépares ?
+
+[06477.093]
+Chef
+
+[06477.094]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06477.096]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06477.097]
+Chef
+
+[06477.098]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06477.099]
+Chef
+
+[06477.100]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06477.101]
+Chef
+
+[06477.102]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06477.104]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06477.105]
+Chef
+
+[06477.106]
+Tu n’as pas assez d’argent.
+
+[06477.107]
+Chef
+
+[06477.108]
+Je te vends la recette : {16:34 7C}.
+
+[06477.109]
+Chef
+
+[06477.110]
+Bah, tant pis.
+
+[06477.111]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06477.112]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06477.113]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06477.114]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06477.115]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06477.116]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06477.117]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06477.118]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06477.119]
+Chef
+
+[06477.120]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06477.121]
+Chef
+
+[06477.122]
+Mais tu as les ingrédients.
+
+[06477.123]
+Chef
+
+[06477.124]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06477.126]
+{03:00 00 00 00}　Oui
+　Non
+
+[06477.127]
+Chef
+
+[06477.128]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06477.129]
+Chef
+
+[06477.130]
+Dommage. C’est vraiment délicieux...
+
+[06477.131]
+Chef
+
+[06477.132]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06477.133]
+Chef
+
+[06477.134]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06477.135]
+Chef
+
+[06477.136]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06477.138]
+Recette ramassée : {16:34 7C}.
+
+[06477.140]
+Recette apprise : {16:34 90}.
+
+[06477.141]
+Bon voyage.
+
+[06477.142]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06477.143]
+Voulez-vous passer la nuit ?
+
+[06477.145]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06477.146]
+Reposez-vous bien.
+
+[06477.147]
+Bonjour.
+
+[06477.148]
+Vous n’avez pas assez d’argent.
+
+[06477.149]
+Au plaisir de vous revoir.
+
+[06477.154]
+Obtenu : {16:25 DE}.
+
+[06477.156]
+Obtenu : {08:FF FF FF FF}.
+
+[06477.158]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06477.160]
+Il n’y a rien ici.
+

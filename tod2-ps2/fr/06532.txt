@@ -1,0 +1,49 @@
+[06532.001]
+Dragon volant
+
+[06532.002]
+Dragon volant
+
+[06532.003]
+Bon voyage.
+
+[06532.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06532.005]
+Voulez-vous passer la nuit ?
+
+[06532.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06532.008]
+Reposez-vous bien.
+
+[06532.009]
+Bonjour.
+
+[06532.010]
+Vous n’avez pas assez d’argent.
+
+[06532.011]
+Au plaisir de vous revoir.
+
+[06532.016]
+Obtenu : {16:25 BE}.
+
+[06532.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06532.020]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06532.022]
+Il n’y a rien ici.
+
+[06532.023]
+Temps écoulé
+
+[06532.025]
+Dispositif de contrôle détruit.
+

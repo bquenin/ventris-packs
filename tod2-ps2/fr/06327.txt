@@ -1,0 +1,61 @@
+[06327.001]
+Ruines de Laguna
+
+[06327.002]
+Ruines de Laguna
+
+[06327.004]
+Ici, le sol est prévu pour s’effondrer.
+
+[06327.006]
+Regarde, {NAME:03 00 00 00} ! Un coffre ! Il y a quoi dedans, la Lentille !?
+
+[06327.008]
+Bah, un trésor, ça ne se gagne pas si facilement.
+
+[06327.010]
+Qu’est-ce que... !?
+
+[06327.012]
+Ouaaaaah !?
+
+[06327.014]
+Ouaaaaah !?
+
+[06327.015]
+Bon voyage.
+
+[06327.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06327.017]
+Voulez-vous passer la nuit ?
+
+[06327.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06327.020]
+Reposez-vous bien.
+
+[06327.021]
+Bonjour.
+
+[06327.022]
+Vous n’avez pas assez d’argent.
+
+[06327.023]
+Au plaisir de vous revoir.
+
+[06327.028]
+Obtenu : {16:25 BA}.
+
+[06327.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06327.032]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06327.034]
+Il n’y a rien ici.
+

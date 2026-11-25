@@ -1,0 +1,21 @@
+[00506.001]
+Elraine... qu’as-tu donc...
+
+[00506.002]
+{NAME:02 00 00 00}. Mieux vaut ne pas trop ruminer. Dans ces cas-là, on respire à fond et on fait le vide dans son cœur.
+
+[00506.003]
+Le vide dans mon cœur ?
+
+[00506.004]
+Oui. Sans penser à rien, juste le vide, complètement, dans son cœur...
+
+[00506.005]
+A... attends, {NAME:01 00 00 00}, qu’est-ce que tu as ? T’appuyer sur moi tout d’un coup... Dis, {NAME:01 00 00 00} !?
+
+[00506.006]
+Mmh...... On dirait bien qu’il dort.
+
+[00506.007]
+Pff~... Le cœur, la tête : trop de vide.
+

@@ -1,0 +1,84 @@
+[06201.8889]
+{NAME:06 00 00 00} pirate Dycroft :
+{NAME:01 00 00 00} et les autres ont
+tenu combien de minutes ?
+
+[06201.8964]
+Oui !
+
+[06201.8971]
+Non !
+
+[06201.8980]
+Trop tard~
+
+[06201.8995]
+Sauvegarde : ses lumières ?
+
+[06201.9024]
+La difficulté la plus
+dure demande combien
+de GRADE ?
+
+[06201.9087]
+On s’est bien battus...
+
+[06201.9114]
+Non !
+
+[06201.9121]
+La difficulté « Hard »
+demande combien
+de GRADE ?
+
+[06201.9186]
+On s’est battus...
+
+[06201.9205]
+La difficulté « Mania »
+demande combien
+de GRADE ?
+
+[06201.9270]
+Présent altéré par Elraine :
+combien de villes sous dôme ?
+
+[06201.9332]
+Quinze Fioles de vie,
+ça coûte combien ?
+
+[06201.9374]
+Elles nous ont sauvés...
+
+[06201.9401]
+Un chef vendait la recette
+« Curry de la mer » : combien de Gald ?
+
+[06201.9481]
+Oui !
+Un peu cher, non ?
+
+[06201.9513]
+Un chef vendait la recette
+« Onigiri » : combien de Gald ?
+
+[06201.9591]
+Un chef vendait la recette
+« Pickles d’une nuit » : combien de Gald ?
+
+[06201.9669]
+Un chef vendait la recette
+« Sashimi » : combien de Gald ?
+
+[06201.9745]
+Un chef vendait la recette
+« Potée de viande » : combien de Gald ?
+
+[06201.9819]
+Un chef vendait la recette
+« Crevettes pimentées » : combien de Gald ?
+
+[06201.9897]
+Oui !
+Cher, hein ?
+

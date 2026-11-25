@@ -1,0 +1,85 @@
+[06784.001]
+Cresta
+
+[06784.002]
+Cresta
+
+[06784.004]
+Mm... Ouh, o-où je suis... ?
+
+[06784.006]
+Tu reviens à toi, {NAME:01 00 00 00} ? Sois tranquille, on est déjà à Cresta. Les gamins, je les ai déjà renvoyés à la maison.
+
+[06784.008]
+Ah, et puis, pour tout à l’heure, je leur ai fait promettre de se taire. Si Rutee l’apprenait, ça irait mal.
+
+[06784.010]
+... Pardon, {NAME:03 00 00 00}. On se revoit enfin après si longtemps, et je ne te cause que des ennuis...
+
+[06784.012]
+Des ennuis ? Haha ! Pas de manières, {NAME:01 00 00 00} : c’est toi et moi, quand même.
+
+[06784.014]
+Et puis, depuis que je suis entré dans l’Ordre d’Atamoni, l’orphelinat, je te l’ai laissé entièrement sur les bras.
+
+[06784.016]
+Je ne dis pas que ça rachète tout, mais ça, c’est la moindre des choses. Ne t’en fais pas.
+
+[06784.018]
+{NAME:03 00 00 00}...
+
+[06784.020]
+Dis, avant de rentrer à l’orphelinat, on ne ferait pas un tour en ville ? J’ai envie de revoir tout le monde, depuis le temps.
+
+[06784.022]
+D’accord, faisons ça. ... Dis, {NAME:03 00 00 00}, tu ne me poserais pas par terre, maintenant ?
+
+[06784.024]
+Mmh ? Moi, ça me va comme ça, tu sais ? Ton poids, je ne sais pas, ça me rappelle des souvenirs.
+
+[06784.026]
+I-idiot ! Ne me traite pas en gamin !
+
+[06784.028]
+Hahaha ! C’est bon, c’est bon.
+
+[06784.030]
+Allez, on y va, {NAME:01 00 00 00}.
+
+[06784.031]
+Bon voyage.
+
+[06784.032]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06784.033]
+Voulez-vous passer la nuit ?
+
+[06784.035]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06784.036]
+Reposez-vous bien.
+
+[06784.037]
+Bonjour.
+
+[06784.038]
+Vous n’avez pas assez d’argent.
+
+[06784.039]
+Au plaisir de vous revoir.
+
+[06784.044]
+Obtenu : {16:25 BA}.
+
+[06784.046]
+Obtenu : {08:FF FF FF FF}.
+
+[06784.048]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06784.050]
+Il n’y a rien ici.
+

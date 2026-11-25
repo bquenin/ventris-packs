@@ -1,0 +1,145 @@
+[06611.001]
+Dycroft
+
+[06611.002]
+Dycroft
+
+[06611.004]
+Là ! C’est Dymlos et les autres !
+
+[06611.005]
+Karell
+
+[06611.006]
+Miktran, prépare-toi !!
+
+[06611.007]
+Miktran
+
+[06611.008]
+Gwoooaaah !!
+
+[06611.009]
+Miktran
+
+[06611.010]
+Moi aussi, on m’a appelé le roi céleste : je ne mourrai pas pour rien !
+
+[06611.011]
+Karell
+
+[06611.012]
+Gwaaaaah !
+
+[06611.013]
+Karell
+
+[06611.014]
+... Je ne te... Gah ! ...... Je ne te... lâcherai pas !
+
+[06611.015]
+Miktran
+
+[06611.016]
+Ugwaaaaah !!!!
+
+[06611.018]
+Grand frère ! Tiens bon, grand frère !
+
+[06611.019]
+Karell
+
+[06611.020]
+{NAME:06 00 00 00}... ... Haha, c’est drôle... J’entends... des voix ?
+
+[06611.021]
+Karell
+
+[06611.022]
+... D’habitude... c’est... « frangin »...
+
+[06611.024]
+Ne parle pas, la plaie va s’ouvrir !
+
+[06611.025]
+Karell
+
+[06611.026]
+... Qu’est-ce que tu as, {NAME:06 00 00 00} ? Pourquoi... tu pleures... ?
+
+[06611.027]
+Karell
+
+[06611.028]
+On t’a... encore... embêtée... ? ... Ne... t’en fais... pas... Ton grand frère... te... protè...
+
+[06611.030]
+Je te dis de ne pas parler !!
+
+[06611.031]
+Karell
+
+[06611.032]
+... Ton grand... frè... re... est... tou... jours...
+
+[06611.033]
+Karell
+
+[06611.034]
+... a... vec... ...... toi... ......
+
+[06611.036]
+Grand frère... ?
+
+[06611.038]
+Grand frère ! Ouvre les yeux, grand frère !!
+
+[06611.039]
+Dymlos
+
+[06611.040]
+{NAME:06 00 00 00}... ... Karell n’est déjà plus...
+
+[06611.042]
+... Grand... frè...
+
+[06611.044]
+Grand frèèèèère !!!!
+
+[06611.045]
+Bon voyage.
+
+[06611.046]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06611.047]
+Voulez-vous passer la nuit ?
+
+[06611.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06611.050]
+Reposez-vous bien.
+
+[06611.051]
+Bonjour.
+
+[06611.052]
+Vous n’avez pas assez d’argent.
+
+[06611.053]
+Au plaisir de vous revoir.
+
+[06611.058]
+Obtenu : {16:25 C2}.
+
+[06611.060]
+Obtenu : {08:FF FF FF FF}.
+
+[06611.062]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06611.064]
+Il n’y a rien ici.
+

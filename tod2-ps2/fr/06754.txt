@@ -1,0 +1,388 @@
+[06754.001]
+Village Katz
+
+[06754.002]
+Village Katz
+
+[06754.003]
+Marshmallow
+
+[06754.004]
+Village Katz
+
+[06754.005]
+Village Katz
+
+[06754.006]
+Katz
+
+[06754.007]
+Je vais perdre mes poils, miou !
+
+[06754.008]
+Katz
+
+[06754.009]
+Je vais perdre mes poils, miou !
+
+[06754.010]
+Katz
+
+[06754.011]
+Je vais perdre mes poils, miou !
+
+[06754.013]
+Défense de se faire les griffes
+
+[06754.015]
+Défense de se faire les griffes
+
+[06754.017]
+Un daruma en forme de chat.
+
+[06754.019]
+Culture de Noko en cours
+
+[06754.020]
+Katz
+
+[06754.021]
+Un coin avec de la « structure » comme ici, c’est le bon endroit, miou.
+
+[06754.022]
+Katz
+
+[06754.023]
+Ça ne mord pas, miou~...
+
+[06754.025]
+Faire une offrande ?
+
+[06754.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06754.029]
+Vous n’avez pas assez d’argent.
+
+[06754.030]
+Bazar
+
+[06754.031]
+Bienvenue, miou ! Achetez-moi quelque chose, miou !
+
+[06754.032]
+Merci beaucoup, miou !
+
+[06754.033]
+Dommage, miou...
+
+[06754.034]
+Bazar
+
+[06754.035]
+Bazar
+
+[06754.036]
+Des clients, ça faisait longtemps, miou !
+
+[06754.037]
+Épicier
+
+[06754.038]
+Bienvenue, miou ! Achetez-moi quelque chose, miou !
+
+[06754.039]
+Merci beaucoup, miou !
+
+[06754.040]
+Dommage, miou...
+
+[06754.041]
+Épicier
+
+[06754.042]
+Épicier
+
+[06754.043]
+Bienvenue, miou !
+
+[06754.044]
+Marchand d’armes
+
+[06754.045]
+Bienvenue, miou ! Achetez-moi quelque chose, miou !
+
+[06754.046]
+Merci beaucoup, miou !
+
+[06754.047]
+Dommage, miou...
+
+[06754.048]
+Bazar
+
+[06754.049]
+Marchand d’armures
+
+[06754.050]
+Bienvenue, miou ! Achetez-moi quelque chose, miou !
+
+[06754.051]
+Merci beaucoup, miou !
+
+[06754.052]
+Dommage, miou...
+
+[06754.053]
+Épicier
+
+[06754.054]
+Katz
+
+[06754.055]
+Miou ! Miou ! Miou ! Miou !
+
+[06754.056]
+Katz
+
+[06754.057]
+Ici, c’est le « Village Katz », miou.
+
+[06754.058]
+Katz
+
+[06754.059]
+Grâce à la source chaude, il fait bon, miou.
+
+[06754.061]
+Une source chaude, et pas de bains... ?
+
+[06754.062]
+Katz
+
+[06754.063]
+Les bains, ça mouille : on déteste ça, miou.
+
+[06754.064]
+Katz
+
+[06754.065]
+Mes coussinets font flap flap, miou.
+
+[06754.067]
+Un Katz... ça s’enfile, ce truc ?
+
+[06754.068]
+Katz
+
+[06754.069]
+Miou-miou~ ! Arrête, miou~~ !
+
+[06754.071]
+Ah, une fermeture éclair...
+
+[06754.072]
+Katz
+
+[06754.073]
+Mes coussinets sont ma fierté, miou.
+
+[06754.074]
+Katz
+
+[06754.075]
+Avec ma combinaison de Katz, j’ai bien chaud, miou.
+
+[06754.076]
+Vendeur de champignons
+
+[06754.077]
+Un champignon de Noko, tu en manges, miou ?
+
+[06754.079]
+{03:00 00 00 00}　J’en mange, miou　
+　Je n’en mange pas, miou　
+
+[06754.080]
+Vendeur de champignons
+
+[06754.081]
+Dommage, miou...
+
+[06754.082]
+Vendeur de champignons
+
+[06754.083]
+Attends un peu, miou.
+
+[06754.084]
+Vendeur de champignons
+
+[06754.085]
+Reviens quand les oreilles du Noko auront repoussé, miou.
+
+[06754.086]
+Vendeur de champignons
+
+[06754.087]
+Les champignons de Noko sont délicieux, miou.
+
+[06754.088]
+Chime
+
+[06754.089]
+Pas de nom ? C’est bizarre, miou~
+
+[06754.090]
+Chime
+
+[06754.091]
+Quel nom classe, miou~ Je suis jaloux, miou.
+
+[06754.092]
+Chime
+
+[06754.093]
+« Chime » aussi, c’est un nom classe, miou !
+
+[06754.094]
+Xylophone
+
+[06754.095]
+Pas de maison ? C’est bizarre, miou~
+
+[06754.096]
+Xylophone
+
+[06754.097]
+« {08:02 0C 00 00} » va habiter chez papy, miou.
+
+[06754.098]
+Chime
+
+[06754.099]
+Tu viens d’où, miou~ ?
+
+[06754.100]
+Xylophone
+
+[06754.101]
+Tu t’appelles comment, miou ?
+
+[06754.103]
+Je sais pas, miu...
+
+[06754.105]
+Je vois... Celui-ci n’est pas du village, semble-t-il.
+
+[06754.107]
+Comment ça ?
+
+[06754.109]
+Le patois n’est pas le même.
+
+[06754.111]
+J’ai voyagé un peu partout, mais va savoir pourquoi, j’aime les endroits où il neige. Je voudrais habiter ici, et qu’on m’appelle par un nom, miu~
+
+[06754.113]
+... S’il te plaît, miu. Je voudrais que tu me donnes un nom, miu.
+
+[06754.115]
+Lui donner un nom ?
+
+[06754.117]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06754.119]
+Merci, miu~ Trouve-moi un nom classe, miu !
+
+[06754.121]
+Vous décidez de réfléchir un moment au nom qui conviendrait.
+
+[06754.123]
+Miu...
+
+[06754.125]
+Merci, miu~ Trouve-moi un nom classe, miu !
+
+[06754.126]
+Chaton Katz
+
+[06754.128]
+Tu as choisi le nom, miu ?
+
+[06754.130]
+{03:00 00 00 00}　C’est choisi　
+　Pas encore　
+
+[06754.132]
+Le nom sera « {08:02 0C 00 00} ».
+C’est bien cela ?
+
+[06754.134]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06754.136]
+Merci, miu~
+
+[06754.138]
+Miu...
+
+[06754.140]
+Merci pour le nom, miu~ « {08:02 0C 00 00} », c’est le meilleur, miu~
+
+[06754.142]
+Si je peux vous être utile, appelez-moi quand vous voulez, miu !
+
+[06754.144]
+Je vais me promener, mia !
+
+[06754.145]
+Vendeur de champignons
+
+[06754.146]
+Tiens, voilà, miou.
+
+[06754.148]
+Vous voilà soignés.
+
+[06754.149]
+Bon voyage.
+
+[06754.150]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06754.151]
+Voulez-vous passer la nuit ?
+
+[06754.153]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06754.154]
+Reposez-vous bien.
+
+[06754.155]
+Bonjour.
+
+[06754.156]
+Vous n’avez pas assez d’argent.
+
+[06754.157]
+Au plaisir de vous revoir.
+
+[06754.162]
+Obtenu : {16:25 E2}.
+
+[06754.164]
+Obtenu : {08:FF FF FF FF}.
+
+[06754.166]
+Trouvé : {16:25 EA}, mais vous n’avez plus de place.
+
+[06754.168]
+Il n’y a rien ici.
+

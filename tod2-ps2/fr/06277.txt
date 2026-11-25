@@ -1,0 +1,30 @@
+[06277.4788]
+Ansuzun
+
+[06277.4801]
+Rodeon
+
+[06277.4812]
+Shusaia
+
+[06277.4823]
+Ignacy
+
+[06277.4834]
+Belcrant
+
+[06277.4847]
+Quel est ce lieu ?
+
+[06277.4866]
+La machine étrange au
+centre est l’ordinateur
+central qui régit toute la
+cité aérienne Ansuzun.
+
+[06277.4962]
+Faux !
+
+[06277.4969]
+Trop tard.
+

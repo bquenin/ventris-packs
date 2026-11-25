@@ -1,0 +1,349 @@
+[06372.001]
+Aigrette
+
+[06372.002]
+Aigrette
+
+[06372.004]
+C’est plein de bibelots de chats.
+
+[06372.006]
+De la nourriture pour chats.
+
+[06372.007]
+Vieil ami des chats
+
+[06372.008]
+Holà ! Pas touche à mes précieux bibelots de minous !
+
+[06372.010]
+Une statuette de chat.
+
+[06372.011]
+Vieil ami des chats
+
+[06372.012]
+Je suis le Vieil ami des chats.
+
+[06372.013]
+Vieil ami des chats
+
+[06372.014]
+... alias le Pépé baptiseur.
+
+[06372.015]
+Vieil ami des chats
+
+[06372.016]
+Ahem, à vous aussi, je m’en vais donner un titre épatant, à la manière de « Vieil ami des chats ».
+
+[06372.018]
+{03:00 00 00 00}　Volontiers　
+　Sans façon　
+
+[06372.019]
+Vieil ami des chats
+
+[06372.020]
+... Ah bon... Vous n’en voulez pas... Si vous changez d’avis, revenez me voir.
+
+[06372.021]
+Vieil ami des chats
+
+[06372.022]
+Oh ! On a envie d’être baptisé, maintenant ? Hm ? Hmm~ ???
+
+[06372.023]
+Vieil ami des chats
+
+[06372.024]
+Eh bien, à vous aussi, je m’en vais donner un titre épatant, à la manière de « Vieil ami des chats ».
+
+[06372.026]
+{03:00 00 00 00}　Volontiers　
+　Sans façon　
+
+[06372.027]
+Vieil ami des chats
+
+[06372.028]
+Fgah ! ... Vous n’en voulez pas... Vous dites ça, mais au fond, vous en voulez un, pas vrai ? Hm ?
+
+[06372.029]
+Vieil ami des chats
+
+[06372.030]
+Je suis le Vieil ami des chats. Mmh, mon minou~♪
+
+[06372.031]
+Vieil ami des chats
+
+[06372.032]
+Ahem, vous autres ! Les titres épatants que je vous ai donnés, vous en prenez bien soin ?
+
+[06372.034]
+Le truc bizarre que tu m’as collé, change-le !
+
+[06372.035]
+Vieil ami des chats
+
+[06372.036]
+{05:80 01 00 00}Jamais de la vie !
+
+[06372.037]
+Vieil ami des chats
+
+[06372.038]
+Je suis le Vieil ami des chats. Mmh, mon minou~♪
+
+[06372.039]
+Vieil ami des chats
+
+[06372.040]
+Oh ! Bien, bien ! ... À propos...
+
+[06372.041]
+Vieil ami des chats
+
+[06372.042]
+Je collectionne les babioles de chats, moi ! Ah, que j’aimerais avoir un « {08:30 00 00 00} », la spécialité d’Aquaveil...
+
+[06372.044]
+{03:00 00 00 00}　Donner : {08:30 00 00 00}　
+　Ne pas donner : {08:30 00 00 00}　
+
+[06372.045]
+Vieil ami des chats
+
+[06372.046]
+Oh ! C’est bien vrai ! Mmh, mon minou~♪
+
+[06372.048]
+Donné : {08:30 00 00 00}.
+
+[06372.049]
+Vieil ami des chats
+
+[06372.050]
+Oh ! Le minou porte-bonheur dit qu’il faut être six, sinon rien !
+
+[06372.052]
+Il vous a rendu : {08:30 00 00 00}.
+
+[06372.053]
+Vieil ami des chats
+
+[06372.054]
+... On se sent seul...
+
+[06372.055]
+Vieil ami des chats
+
+[06372.056]
+Je collectionne les babioles de chats, moi ! Ah, que j’aimerais avoir un « {08:30 00 00 00} », la spécialité d’Aquaveil...
+
+[06372.057]
+Vieil ami des chats
+
+[06372.058]
+Non... je parlais tout seul...
+
+[06372.059]
+Vieil ami des chats
+
+[06372.060]
+... Ah, que j’aimerais avoir un {08:30 00 00 00}, la spécialité d’Aquaveil...
+
+[06372.061]
+Vieil ami des chats
+
+[06372.062]
+Non... ce n’est rien d’autre que moi qui parle tout seul...
+
+[06372.063]
+Vieil ami des chats
+
+[06372.064]
+Le {08:30 00 00 00} se vendrait à la boutique de souvenirs d’Aquaveil, à ce qu’on dit...
+
+[06372.065]
+Vieil ami des chats
+
+[06372.066]
+Uhyahyahya ! Alors, mettez-vous tous en rang~ !
+
+[06372.067]
+Vieil ami des chats
+
+[06372.068]
+Bien, je m’en vais donner à chacun le titre qui lui va.
+
+[06372.069]
+Vieil ami des chats
+
+[06372.070]
+Hmm... Hmm...
+
+[06372.071]
+Vieil ami des chats
+
+[06372.072]
+Toi, tu es {NAME:01 00 00 00} la Bourrasque !
+
+[06372.073]
+Vieil ami des chats
+
+[06372.074]
+Et...
+
+[06372.075]
+Vieil ami des chats
+
+[06372.076]
+Toi, tu es {NAME:03 00 00 00} le Caïd bagarreur !
+
+[06372.078]
+Hé ! Te fiche pas de moi ! Oh !
+
+[06372.080]
+J’accepte pas ! Jamais de la vie ! Réfléchis encore, tout de suite ! Trouve un truc plus classe ! Je vais cogner, oh !
+
+[06372.082]
+Le Caïd bagarreur, ça te va comme un gant, non ?
+
+[06372.083]
+Vieil ami des chats
+
+[06372.084]
+Ouiiin... {NAME:03 00 00 00} le Tonnerre...
+
+[06372.085]
+Vieil ami des chats
+
+[06372.086]
+Et puis, {NAME:04 00 00 00} le Noir !
+
+[06372.087]
+Vieil ami des chats
+
+[06372.088]
+{NAME:02 00 00 00} Rayon de soleil ! Alors !?
+
+[06372.089]
+Vieil ami des chats
+
+[06372.090]
+{NAME:05 00 00 00} l’Étoile filante ! Ça en jette, hein !
+
+[06372.091]
+Vieil ami des chats
+
+[06372.092]
+Et puis... hmm...
+
+[06372.094]
+À moi, enfin ! Passer la dernière ne me plaît qu’à moitié, mais bon, je veux bien faire le clou du spectacle.
+
+[06372.095]
+Vieil ami des chats
+
+[06372.096]
+Hmm... Hmm...
+
+[06372.098]
+Allez ! Allez ! Trouve quelque chose de splendide, à la gloire du génie que je suis.
+
+[06372.099]
+Vieil ami des chats
+
+[06372.100]
+{05:D0 00 00 00}Hmm... Hmm...
+
+[06372.102]
+Allez ! Qu’est-ce que tu as ? Les mots ne manquent pas, non ? « Mignonne »... « Beauté »... « Esprit limpide » ou « Génie étincelant », ça me va aussi.
+
+[06372.103]
+Vieil ami des chats
+
+[06372.104]
+{05:A0 00 00 00}Hmm... Hmm...
+
+[06372.106]
+Décidément... c’est zéro ! Pépé baptiseur, tu parles. Tu n’as aucun talent, non !? Un homme ordinaire, au fond...
+
+[06372.107]
+Vieil ami des chats
+
+[06372.108]
+Grrrrrr !!!!!!!!!
+
+[06372.109]
+Vieil ami des chats
+
+[06372.110]
+{05:80 01 00 00}{NAME:06 00 00 00} l’Épi rebelle !
+
+[06372.112]
+C’est quoi, çaaa ! Je refuse ! Je refuse catégoriquement ! Recalé ! Complètement recalé !
+
+[06372.113]
+Vieil ami des chats
+
+[06372.114]
+Que non ! Ce sera {NAME:06 00 00 00} l’Épi rebelle, un point c’est tout !
+
+[06372.115]
+Vieil ami des chats
+
+[06372.116]
+{05:80 01 00 00}Jamais je ne changerai ! Adjugé !
+
+[06372.117]
+Vieil ami des chats
+
+[06372.118]
+{05:00 02 00 00}Et voilà, adjugé !!!!
+
+[06372.120]
+{NAME:01 00 00 00} et les autres ont reçu des titres.
+
+[06372.122]
+Miaou.
+
+[06372.123]
+Bon voyage.
+
+[06372.124]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06372.125]
+Voulez-vous passer la nuit ?
+
+[06372.127]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06372.128]
+Reposez-vous bien.
+
+[06372.129]
+Bonjour.
+
+[06372.130]
+Vous n’avez pas assez d’argent.
+
+[06372.131]
+Au plaisir de vous revoir.
+
+[06372.136]
+Obtenu : {16:25 BA}.
+
+[06372.138]
+Obtenu : {08:FF FF FF FF}.
+
+[06372.140]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06372.142]
+Il n’y a rien ici.
+

@@ -1,0 +1,29 @@
+[06287.4788]
+Johnny
+
+[06287.4797]
+Stahn
+
+[06287.4804]
+Leon
+
+[06287.4811]
+Woodrow
+
+[06287.4822]
+Kongman
+
+[06287.4833]
+Qui est-ce ?
+
+[06287.4846]
+Johnny Shiden.
+Le barde d’Aquaveil, qui a
+aidé Stahn et les siens.
+
+[06287.4913]
+Faux !
+
+[06287.4920]
+Trop tard.
+

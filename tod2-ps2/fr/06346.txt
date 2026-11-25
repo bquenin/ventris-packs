@@ -1,0 +1,88 @@
+[06346.001]
+Canaux souterrains de Darilsheid
+
+[06346.002]
+Canaux souterrains de Darilsheid
+
+[06346.004]
+Grille brisée.
+
+[06346.006]
+L’outil emporté a été remis en place.
+
+[06346.008]
+Il y a une boîte à outils. Elle contient toutes sortes d’outils. En emporter un ?
+
+[06346.009]
+Vous n’emportez rien.
+
+[06346.011]
+・Vanne
+・Scie à pierre
+・Canard jouet
+Retour
+
+[06346.013]
+・Pince
+・Tuyau d’eau
+・Clous
+Suite
+
+[06346.014]
+Vous emportez la vanne.
+
+[06346.015]
+Vous emportez la scie à pierre.
+
+[06346.016]
+Vous emportez le canard jouet.
+
+[06346.017]
+Vous emportez la pince.
+
+[06346.018]
+Vous emportez le tuyau d’eau.
+
+[06346.019]
+Vous emportez les clous.
+
+[06346.022]
+{NAME:01 00 00 00}... Est-ce le moment de jouer avec des jouets ?
+
+[06346.023]
+Bon voyage.
+
+[06346.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06346.025]
+Voulez-vous passer la nuit ?
+
+[06346.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06346.028]
+Reposez-vous bien.
+
+[06346.029]
+Bonjour.
+
+[06346.030]
+Vous n’avez pas assez d’argent.
+
+[06346.031]
+Au plaisir de vous revoir.
+
+[06346.036]
+Obtenu : {16:25 C2}.
+
+[06346.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06346.040]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06346.042]
+Il n’y a rien ici.
+

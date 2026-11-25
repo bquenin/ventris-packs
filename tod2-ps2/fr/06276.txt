@@ -1,0 +1,32 @@
+[06276.4788]
+Bleu
+
+[06276.4793]
+Rge.
+
+[06276.4798]
+Blc.
+
+[06276.4803]
+Noir
+
+[06276.4808]
+Jne.
+
+[06276.4813]
+Vert
+
+[06276.4818]
+Piège des ruines de
+Straylize : le « D »,
+quelle couleur ?
+
+[06276.4877]
+Exact.
+
+[06276.4886]
+Mais non
+
+[06276.4895]
+Trop tard.
+

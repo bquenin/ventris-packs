@@ -1,0 +1,138 @@
+[06183.19782]
+Questions TOD2 : tous contre moi !
+
+[06183.19819]
+Un sans-faute ?
+
+[06183.19840]
+Je gagnerai, là !
+
+[06183.19859]
+Alors, Q. 1, {NAME:03 00 00 00} !
+
+[06183.19885]
+Bon, envoie
+
+[06183.19898]
+Facile !
+
+[06183.19909]
+La paix !
+
+[06183.19920]
+Q. 2, {NAME:02 00 00 00} !
+
+[06183.19936]
+Oui
+
+[06183.19941]
+Hé hé...
+
+[06183.19952]
+Oh ?
+
+[06183.19957]
+Bon, Q. 3, {NAME:04 00 00 00} !
+
+[06183.19981]
+Futile...
+
+[06183.19996]
+Évidemment.
+
+[06183.20009]
+Exprès, bien entendu.
+
+[06183.20036]
+Q. 4, {NAME:05 00 00 00} !
+
+[06183.20052]
+À moi !
+
+[06183.20063]
+Et voilà, tiens
+
+[06183.20082]
+Ah, c’était faux ?
+
+[06183.20101]
+Q. 5, {NAME:06 00 00 00} !
+
+[06183.20117]
+Hop là
+
+[06183.20126]
+Évident
+
+[06183.20135]
+La question a tort.
+
+[06183.20156]
+Q. 6, on reprend : {NAME:03 00 00 00} !
+
+[06183.20184]
+Compte sur moi !
+
+[06183.20205]
+Ouais !
+
+[06183.20216]
+Q. 7, {NAME:02 00 00 00} !
+
+[06183.20232]
+Gagné !
+
+[06183.20243]
+Oh non...
+
+[06183.20254]
+Q. 8, {NAME:04 00 00 00} !
+
+[06183.20270]
+Pourquoi moi
+
+[06183.20283]
+Et il répond juste
+
+[06183.20306]
+Et il a faux...
+
+[06183.20323]
+S-silence !
+
+[06183.20338]
+Q. 9, {NAME:05 00 00 00} !
+
+[06183.20354]
+Vas-y
+
+[06183.20361]
+T’as vu !
+
+[06183.20372]
+Qui a pondu cette question ?
+
+[06183.20403]
+Q. 10, la dernière : {NAME:06 00 00 00} !
+
+[06183.20435]
+Laisse-moi ça !
+
+[06183.20452]
+Trop facile
+
+[06183.20465]
+Incurables...
+
+[06183.20482]
+Bravo, vous tous !
+
+[06183.20503]
+Hein... trop dur, alors ?
+
+[06183.20530]
+Pas fini ! Visons le sans-faute !
+
+[06183.20567]
+Plus d’efforts encore
+

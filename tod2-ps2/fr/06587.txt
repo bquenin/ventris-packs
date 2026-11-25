@@ -1,0 +1,76 @@
+[06587.001]
+Dépôt de matériel
+
+[06587.002]
+Dépôt de matériel
+
+[06587.003]
+Temps écoulé
+
+[06587.005]
+Une clé pour lever le verrou de bas niveau. Il doit y en avoir deux autres pareilles.
+
+[06587.007]
+Ah, oui, au fait : ne sortez pas avec ça sur vous.
+
+[06587.009]
+Hein, pourquoi ?
+
+[06587.011]
+Ce truc craint les écarts de température. Dehors, dans le blizzard, il serait en miettes en un rien de temps.
+
+[06587.013]
+Une clé pour lever le verrou de bas niveau. Il doit y en avoir encore une pareille.
+
+[06587.015]
+Avec ces trois clés, on aura la Clé maîtresse. Elle doit être quelque part : cherchons.
+
+[06587.017]
+Voilà une clé du verrou de haut niveau.
+
+[06587.019]
+« Clé maîtresse », « Clé Cell », « Clé Bio » : en utilisant ces trois clés sur le conteneur de matériaux, on lève le verrou.
+
+[06587.021]
+Mais la « Clé Cell » et la « Clé Bio » craignent les écarts de température : interdiction de sortir. Dans un blizzard pareil, elles seraient en miettes d’un seul coup !
+
+[06587.022]
+Rien de particulier.
+
+[06587.023]
+Bon voyage.
+
+[06587.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06587.025]
+Voulez-vous passer la nuit ?
+
+[06587.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06587.028]
+Reposez-vous bien.
+
+[06587.029]
+Bonjour.
+
+[06587.030]
+Vous n’avez pas assez d’argent.
+
+[06587.031]
+Au plaisir de vous revoir.
+
+[06587.036]
+Obtenu : {16:25 F6}.
+
+[06587.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06587.040]
+Trouvé : {16:25 FE}, mais vous n’avez plus de place.
+
+[06587.042]
+Il n’y a rien ici.
+

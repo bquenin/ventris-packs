@@ -1,0 +1,498 @@
+[06576.001]
+Radisrol
+
+[06576.002]
+Radisrol
+
+[06576.004]
+Le bric-à-brac des réfugiés. Tout est usé jusqu’à la corde.
+
+[06576.006]
+Des objets usés jusqu’à tomber en morceaux sont alignés.
+
+[06576.008]
+Un sac de vivres. Il contenait du pain et des légumes moisis.
+
+[06576.010]
+Une réserve de vivres. Mais elle touche à sa fin.
+
+[06576.012]
+Le matériel qui était chargé dans le Radisrol. C’est avec lui que l’armée terrestre aurait reconstitué ses troupes.
+
+[06576.014]
+Sur une des caisses, on lit « Destination : Dycroft ». Ce matériel devait être envoyé à Dycroft.
+
+[06576.016]
+Des objets cassés, hors d’usage. Ils seront sans doute réparés et réemployés plus tard.
+
+[06576.017]
+Vieil homme
+
+[06576.018]
+Si jamais l’armée terrestre perdait cette guerre, que deviendrait le monde ?
+
+[06576.019]
+Vieil homme
+
+[06576.020]
+Allons-nous mourir sous le joug de l’armée céleste ?
+
+[06576.021]
+Vieil homme
+
+[06576.022]
+Moi, de toute façon, il ne me reste guère à vivre : je peux mourir n’importe quand. Mais les enfants...
+
+[06576.023]
+Vieil homme
+
+[06576.024]
+On dit que Miktran, le chef ennemi, est un homme sans cœur ni pitié.
+
+[06576.025]
+Vieil homme
+
+[06576.026]
+Si la bataille décisive est perdue, serons-nous brûlés vifs par Belcrant ?
+
+[06576.027]
+Vieil homme
+
+[06576.028]
+Pour l’heure, il n’y a qu’à croire à la victoire.
+
+[06576.029]
+Vieil homme
+
+[06576.030]
+Mais quand je pense à ce qui arrivera si nous perdons, la peur m’empêche de dormir.
+
+[06576.031]
+Commère
+
+[06576.032]
+Nous autres, les grands, on s’est faits à la vie de réfugiés, mais les enfants en pleine croissance, ça me fend le cœur.
+
+[06576.033]
+Commère
+
+[06576.034]
+Enfermés dans un endroit si étroit, sans amis, sans rien à manger.
+
+[06576.035]
+Commère
+
+[06576.036]
+Alors vous, au moins, faites un brin de causette aux enfants.
+
+[06576.037]
+Commère
+
+[06576.038]
+Ce Miktran, il aurait fait un coup d’État par soif de pouvoir, à ce qu’on dit.
+
+[06576.039]
+Commère
+
+[06576.040]
+Se faire tuer par un homme pareil, très peu pour moi.
+
+[06576.041]
+Commère
+
+[06576.042]
+Ces petits disent qu’ils veulent être soldats, mais moi, je ne suis pas d’accord.
+
+[06576.043]
+Commère
+
+[06576.044]
+Si on pouvait se passer de soldats, ce serait bien mieux. Comme ça, mon fils aussi...
+
+[06576.045]
+Commère
+
+[06576.046]
+Mon mari et mon fils ne reviendront plus.
+
+[06576.047]
+Commère
+
+[06576.048]
+Même la guerre finie, le souvenir de la guerre ne s’effacera jamais.
+
+[06576.049]
+Vieille dame
+
+[06576.050]
+Aah !? T-toi !
+
+[06576.052]
+Hm ? Qu’est-ce qu’il y a, madame ?
+
+[06576.053]
+Vieille dame
+
+[06576.054]
+Oh... p-pardonnez-moi. Vous ressemblez trait pour trait à mon petit-fils, qui est mort...
+
+[06576.055]
+Vieille dame
+
+[06576.056]
+Mon petit-fils était rentré au pays, à Speranza, quand Belcrant a tiré : il est mort.
+
+[06576.057]
+Vieille dame
+
+[06576.058]
+Son corps carbonisé, je m’en souviens encore très nettement...
+
+[06576.059]
+Vieille dame
+
+[06576.060]
+Ce monde est un enfer. J’aimerais bien qu’Atamoni y fasse quelque chose.
+
+[06576.062]
+Atamoni... ?
+
+[06576.063]
+Vieille dame
+
+[06576.064]
+Une divinité de la religion du pays. Une belle déesse, à ce qu’on dit.
+
+[06576.065]
+Vieille dame
+
+[06576.066]
+Aah, déesse, déesse, dame Atamoni, finissez vite la guerre et rendez le monde meilleur.
+
+[06576.067]
+Instructeur
+
+[06576.068]
+Quand nous tomberons, c’est votre génération qui prendra l’épée !
+
+[06576.069]
+Instructeur
+
+[06576.070]
+Et vous transmettrez à votre tour cette fierté à vos enfants !
+
+[06576.071]
+Enfant A
+
+[06576.072]
+{05:90 01 00 00}Chef ! Oui, chef !
+
+[06576.073]
+Enfant B
+
+[06576.074]
+{05:90 01 00 00}Chef ! Oui, chef !
+
+[06576.075]
+Enfant C
+
+[06576.076]
+{05:90 01 00 00}Chef ! Oui, chef !
+
+[06576.077]
+Instructeur
+
+[06576.078]
+Dès demain, entraînement physique de base !
+
+[06576.079]
+Instructeur
+
+[06576.080]
+Du cœur à l’ouvrage, et devenez vite de vrais soldats !
+
+[06576.081]
+Instructeur
+
+[06576.082]
+Vous avez beau être des enfants-soldats, l’ennemi ne vous fera pas de cadeau !
+
+[06576.083]
+Instructeur
+
+[06576.084]
+Abattez l’ennemi ! Abattez l’ennemi ! Pour protéger vos camarades, vos familles et l’armée !
+
+[06576.085]
+Enfant A
+
+[06576.086]
+{05:90 01 00 00}Chef ! Oui, chef !
+
+[06576.087]
+Enfant B
+
+[06576.088]
+{05:90 01 00 00}Chef ! Oui, chef !
+
+[06576.089]
+Enfant C
+
+[06576.090]
+{05:90 01 00 00}Chef ! Oui, chef !
+
+[06576.091]
+Instructeur
+
+[06576.092]
+Vous êtes placés sous l’autorité de l’armée comme élèves officiers !
+
+[06576.093]
+Instructeur
+
+[06576.094]
+Du cœur à l’ouvrage, et devenez vite de vrais soldats !
+
+[06576.095]
+Fillette
+
+[06576.096]
+Tout le monde est épuisé. On arrive peut-être au bout de ce qu’on peut endurer, avec cette vie.
+
+[06576.097]
+Fillette
+
+[06576.098]
+Si la guerre ne finit pas vite, tout s’effondrera de l’intérieur.
+
+[06576.099]
+Fillette
+
+[06576.100]
+Les réserves de vivres ne tiendraient même plus un mois, paraît-il.
+
+[06576.101]
+Fillette
+
+[06576.102]
+Gagner la guerre ne servira à rien si on ne peut plus vivre.
+
+[06576.103]
+Fillette
+
+[06576.104]
+Le Radisrol, tu sais, c’était un transport, à l’origine.
+
+[06576.105]
+Fillette
+
+[06576.106]
+Il y restait une grande quantité de matériel : c’est grâce à ça que l’armée terrestre a pu se battre jusqu’ici.
+
+[06576.107]
+Fillette
+
+[06576.108]
+Seulement, ce n’est pas un navire de guerre : il ne porte aucune arme.
+
+[06576.109]
+Fillette
+
+[06576.110]
+Alors, de notre côté, on ne peut pas attaquer.
+
+[06576.111]
+Bijoutier
+
+[06576.112]
+Vous faut-il quelque chose ?
+
+[06576.113]
+Bijoutier
+
+[06576.114]
+Merci beaucoup.
+
+[06576.115]
+Chef
+
+[06576.116]
+{16:34 7C} : tu en prépares ?
+
+[06576.117]
+Chef
+
+[06576.118]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06576.120]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06576.121]
+Chef
+
+[06576.122]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06576.123]
+Chef
+
+[06576.124]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06576.125]
+Chef
+
+[06576.126]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06576.128]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06576.129]
+Chef
+
+[06576.130]
+Tu n’as pas assez d’argent.
+
+[06576.131]
+Chef
+
+[06576.132]
+Je te vends la recette : {16:34 7C}.
+
+[06576.133]
+Chef
+
+[06576.134]
+Bah, tant pis.
+
+[06576.135]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06576.136]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.137]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.138]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.139]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.140]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06576.141]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.142]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06576.143]
+Chef
+
+[06576.144]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06576.145]
+Chef
+
+[06576.146]
+Mais tu as les ingrédients.
+
+[06576.147]
+Chef
+
+[06576.148]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06576.150]
+{03:00 00 00 00}　Oui
+　Non
+
+[06576.151]
+Chef
+
+[06576.152]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06576.153]
+Chef
+
+[06576.154]
+Dommage. C’est vraiment délicieux...
+
+[06576.155]
+Chef
+
+[06576.156]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06576.157]
+Chef
+
+[06576.158]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06576.159]
+Chef
+
+[06576.160]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06576.162]
+Recette ramassée : {16:34 7C}.
+
+[06576.164]
+Recette apprise : {16:34 90}.
+
+[06576.165]
+Bon voyage.
+
+[06576.166]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06576.167]
+Voulez-vous passer la nuit ?
+
+[06576.169]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06576.170]
+Reposez-vous bien.
+
+[06576.171]
+Bonjour.
+
+[06576.172]
+Vous n’avez pas assez d’argent.
+
+[06576.173]
+Au plaisir de vous revoir.
+
+[06576.178]
+Obtenu : {16:25 DE}.
+
+[06576.180]
+Obtenu : {08:FF FF FF FF}.
+
+[06576.182]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06576.184]
+Il n’y a rien ici.
+

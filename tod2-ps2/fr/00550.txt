@@ -1,0 +1,54 @@
+[00550.001]
+Aaah !
+
+[00550.002]
+Quoi, {NAME:01 00 00 00} ! Un drame est arrivé !?
+
+[00550.003]
+Le goûter que je gardais pour plus tard a disparuuu !
+
+[00550.004]
+... Ne fais pas tant d’histoires pour si peu, à chaque fois.
+
+[00550.005]
+Si peu... Aah ! Tu l’as mangé, {NAME:03 00 00 00} !
+
+[00550.006]
+Pourquoi moi !?
+
+[00550.007]
+Moi non plus, je ne sais rien...
+
+[00550.008]
+Tss, tant pis. Laissez faire {NAME:03 00 00 00}, le grand détective !
+
+[00550.009]
+C’est {NAME:03 00 00 00} le plus louche, pourtant...
+
+[00550.010]
+En un mot : le coupable est parmi nous !!
+
+[00550.011]
+Évidemment. Qui veux-tu que ce soit d’autre ?
+
+[00550.012]
+Hum ! Écoutez jusqu’au bout. En un mot, le coupable aimait {NAME:01 00 00 00}, l’aimait à la folie. Alors, se sachant en faute, pour sentir la chaleur de {NAME:01 00 00 00}, le goûter...
+
+[00550.013]
+Faux ! J’avais juste un creux, la nuit !!
+
+[00550.014]
+......
+
+[00550.015]
+......
+
+[00550.016]
+......
+
+[00550.017]
+......
+
+[00550.018]
+... Hum. Assez de sottises. En route.
+

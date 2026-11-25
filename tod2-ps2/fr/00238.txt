@@ -1,0 +1,12 @@
+[00238.001]
+Enfin Neustadt~ ! D’ici, on prend le bateau, et on est tout de suite à Heidelberg !
+
+[00238.002]
+Le navire accoste au port de Snowfria. De là, il faut encore remonter à pied vers le nord jusqu’à Heidelberg.
+
+[00238.003]
+Donc on ne verra pas Woodrow, le Roi-Héros, avant un moment...
+
+[00238.004]
+Ça ira vite ! Allez, en route !
+

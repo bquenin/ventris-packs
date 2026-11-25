@@ -1,0 +1,470 @@
+[06445.001]
+Heidelberg : équipement
+
+[06445.002]
+Heidelberg
+
+[06445.003]
+Équipement
+
+[06445.005]
+Des armes de toutes sortes sont alignées. On y voit des armes rares de pays lointains, et des lames antiques.
+
+[06445.007]
+Toutes sortes d’habits sont suspendus. La coupe n’est pas mal du tout.
+
+[06445.009]
+Obtenu : {08:22 01 00 00}.
+
+[06445.011]
+Des armes et des armures somptueusement ornées sont exposées. Toutes ont l’air de pièces anciennes de grand prix.
+
+[06445.012]
+Marchande d’armes
+
+[06445.013]
+Bienvenue ! Ici, on vend des armes !
+
+[06445.014]
+Merci beaucoup !
+
+[06445.015]
+Achetez quelque chose...
+
+[06445.016]
+Armes
+
+[06445.017]
+Marchande d’armes
+
+[06445.018]
+Bienvenue ! Ici, on vend des armes !
+
+[06445.019]
+Marchand d’armures
+
+[06445.020]
+Bienvenue ! Ici, nous vendons des armures !
+
+[06445.021]
+Merci de votre achat !
+
+[06445.022]
+Tss, un curieux.
+
+[06445.023]
+Armures
+
+[06445.024]
+Marchand d’armures
+
+[06445.025]
+Bienvenue ! Ici, nous vendons des armures !
+
+[06445.026]
+Marchand
+
+[06445.027]
+Moi, j’ai mis au point l’épée ultime ! Devant elle, même les Swordians pâlissent : je l’appelle l’« Épée dix-en-un » !!
+
+[06445.028]
+Marchand
+
+[06445.029]
+Rien à voir avec les épées d’avant ! Figurez-vous que la lame s’allonge jusqu’au triple ! De quoi abattre même les ennemis haut perchés !
+
+[06445.031]
+C’est quoi, des « ennemis haut perchés »...
+
+[06445.032]
+Marchand
+
+[06445.033]
+La lame se démonte. Elle se lave à l’eau : simple et pratique ! Et en changeant de pièce, la voilà ouvre-boîte.
+
+[06445.034]
+Marchand
+
+[06445.035]
+... Je la trouve pratique, pourtant. Ils disent qu’ils ne peuvent pas la prendre dans cette boutique. Pourquoi donc...
+
+[06445.036]
+Marchand
+
+[06445.037]
+L’« Épée dix-en-un » : je la trouve pratique, pourtant...
+
+[06445.038]
+Marchand
+
+[06445.039]
+Vous allez si bien ensemble, vous deux★ Pour vous, voici l’article du jour : l’« Épée des amoureux » !
+
+[06445.040]
+Marchand
+
+[06445.041]
+J’ai relié par une chaîne rouge une épée pour monsieur et un couteau pour madame. Par la force de l’amour, la puissance au combat ne peut que monter !
+
+[06445.043]
+... Même payé, je n’aurais pas envie de m’en servir...
+
+[06445.044]
+Marchand
+
+[06445.045]
+L’« Épée des amoureux » : je croyais qu’elle se vendrait, pourtant...
+
+[06445.046]
+Marchand
+
+[06445.047]
+On vient d’entendre un bruit inquiétant. En pareil cas, je vous propose une arme pratique à prix spécial !
+
+[06445.048]
+Marchand
+
+[06445.049]
+L’épée ultime : en plus de la lame habituelle, une lame plantée dans la poignée ! On abat du même coup les ennemis de devant et de derrière !
+
+[06445.050]
+Marchand
+
+[06445.051]
+Je l’appelle l’« Épée à double tranchant » ! Alors !?
+
+[06445.053]
+Comme si on pouvait manier un truc aussi dangereux !
+
+[06445.054]
+Marchand
+
+[06445.055]
+Bouhou... Raté... Je n’ai décidément pas la bosse du commerce...
+
+[06445.057]
+?
+
+[06445.058]
+Marchand de Neustadt
+
+[06445.059]
+Mon cher Winters, pour les articles en question, quinze pièces de chaque : puis-je compter sur vous ?
+
+[06445.060]
+Winters
+
+[06445.061]
+Alors c’est vingt jours et 300000 Gald. Je ne rabats ni sur le délai ni sur le prix.
+
+[06445.062]
+Marchand de Neustadt
+
+[06445.063]
+Entendu, marché conclu. À propos, mon cher Winters, pour l’affaire de l’autre jour...
+
+[06445.064]
+Winters
+
+[06445.065]
+Le sur-mesure, je refuse. Ça prend trop de temps. Et d’abord, je n’ai pas de bon matériau sous la main.
+
+[06445.066]
+Marchand de Neustadt
+
+[06445.067]
+Pas de travail sans un matériau et un propriétaire qui vous conviennent... Voilà bien un génie, dirais-je.
+
+[06445.068]
+Marchand de Neustadt
+
+[06445.069]
+Enfin, c’est bien pour cela que ce que vous fabriquez a de la valeur.
+
+[06445.070]
+Marchand de Neustadt
+
+[06445.071]
+Tiens ? Vous aussi, vous avez affaire à ce cher Winters ?
+
+[06445.073]
+Hein ? Monsieur Winters ?
+
+[06445.074]
+Marchand de Neustadt
+
+[06445.075]
+Quoi, vous êtes venus sans le savoir ? Winters, le patron d’ici, est célèbre « dans la partie ».
+
+[06445.076]
+Marchand de Neustadt
+
+[06445.077]
+Demandez-lui donc de vous en parler : vous apprendrez peut-être toutes sortes de choses amusantes.
+
+[06445.078]
+Winters
+
+[06445.079]
+Salut, bienvenue. Je suis Winters, le patron de cette boutique, « Soul & Sword ».
+
+[06445.080]
+Winters
+
+[06445.081]
+Il y en a, des armes, hein ? C’est moi qui les ai toutes faites. Alors, ça en impose, non ?
+
+[06445.082]
+Winters
+
+[06445.083]
+Si tu as du temps, fais donc un peu de lèche-vitrines.
+
+[06445.084]
+Winters
+
+[06445.085]
+... Non, attends, c’est le matériau qui ne va pas. Pour avoir la solidité et la souplesse, il n’y a que le Berselium...
+
+[06445.087]
+S’il vous plaît~ !
+
+[06445.088]
+Winters
+
+[06445.089]
+... Hm ? Ah, un client. Pardon, je réfléchissais.
+
+[06445.090]
+Winters
+
+[06445.091]
+Je suis Winters, le patron. Bienvenue chez « Soul & Sword ». Une vieille boutique qui n’a pour elle que sa longue tradition, mais regardez à votre aise.
+
+[06445.093]
+Une longue tradition... longue comment ?
+
+[06445.094]
+Winters
+
+[06445.095]
+D’après mon arrière-grand-père, c’est « une maison vénérable, qui remonte à la guerre du Ciel et de la Terre ».
+
+[06445.097]
+Génial ! Dites, si on vous le demande, vous fabriquez quelque chose !?
+
+[06445.098]
+Winters
+
+[06445.099]
+Non, le sur-mesure prend trop de temps. D’habitude, je refuse.
+
+[06445.100]
+Winters
+
+[06445.101]
+... Hm ? Vous autres, vous m’avez l’air d’aventuriers ?
+
+[06445.103]
+Oui ! Moi, c’est {NAME:01 00 00 00}. Enchanté !
+
+[06445.104]
+Winters
+
+[06445.105]
+Ah, des aventuriers. Hmm, alors je pourrais peut-être vous confier l’affaire en question.
+
+[06445.106]
+Winters
+
+[06445.107]
+{NAME:01 00 00 00}, je cherche en ce moment un minerai fabuleux, le « Berselium », mais il est d’une rareté terrible : on n’en trouve presque jamais.
+
+[06445.108]
+Winters
+
+[06445.109]
+Si tu m’apportes de ce Berselium, je ferai ce que tu demandes.
+
+[06445.111]
+OK ! En échange du « Berselium », c’est ça ! On vous l’apporte, et vous nous faites quelque chose de génial !
+
+[06445.112]
+Winters
+
+[06445.113]
+Salut, {NAME:01 00 00 00}. Tu as trouvé le « Berselium » ?
+
+[06445.115]
+Oui ! Je l’ai apporté !
+
+[06445.116]
+Winters
+
+[06445.117]
+Ohhh ! Ça, c’est fort ! Bravo de l’avoir trouvé !
+
+[06445.118]
+Winters
+
+[06445.119]
+Alors, {NAME:01 00 00 00}, on fait quoi ! Je te fabrique quelque chose en échange ? Je fais à mon idée : ce que ça donnera, c’est la surprise !
+
+[06445.121]
+{03:00 00 00 00}　Volontiers　
+　Sans façon　　
+
+[06445.122]
+Winters
+
+[06445.123]
+Bien ! Alors je m’y mets tout de suite !
+
+[06445.124]
+Winters
+
+[06445.125]
+Ah... dommage, mais tant pis. Reviens me parler si le cœur t’en dit.
+
+[06445.127]
+Désolé, je ne l’ai pas.
+
+[06445.128]
+Winters
+
+[06445.129]
+Ah. Bah, on ne l’appelle pas minerai fabuleux pour rien : ça ne se trouve pas si facilement.
+
+[06445.130]
+Lot d’habits : bas niveau 1
+
+[06445.131]
+Lot d’habits : bas niveau 2
+
+[06445.132]
+Lot d’accessoires : bas niveau
+
+[06445.133]
+Winters
+
+[06445.134]
+Ha haa ! {NAME:01 00 00 00}, tu as de la veine ! J’ai fabriqué un truc de fou, moi !
+
+[06445.135]
+Winters
+
+[06445.136]
+Tiens, prends ! La pièce dont Winters est le plus fier !
+
+[06445.138]
+Obtenu : {08:BF 00 00 00}.
+
+[06445.140]
+Ouah... génial ! Merci, monsieur Winters !
+
+[06445.141]
+Winters
+
+[06445.142]
+C’est fait ! Et ça s’appelle : « {18:44 6C} » !
+
+[06445.143]
+Winters
+
+[06445.144]
+Hé hé hé... Sans me vanter, j’ai fait là quelque chose de splendide. Regarde donc !
+
+[06445.146]
+Obtenu : {18:44 6C}.
+
+[06445.147]
+Lot d’habits : haut niveau 1
+
+[06445.148]
+Lot d’habits : haut niveau 2
+
+[06445.149]
+Lot d’habits : haut niveau 3
+
+[06445.150]
+Lot d’accessoires : haut niveau 1
+
+[06445.151]
+Lot d’accessoires : haut niveau 2
+
+[06445.152]
+Lot d’accessoires : haut niveau 3
+
+[06445.153]
+Lot surprise
+
+[06445.154]
+Winters
+
+[06445.155]
+Ha haa ! {NAME:01 00 00 00}, tu as de la veine ! J’ai fabriqué un truc de fou, moi !
+
+[06445.156]
+Winters
+
+[06445.157]
+Tiens, prends ! La pièce dont Winters est le plus fier !
+
+[06445.159]
+Obtenu : {08:1C 01 00 00}.
+
+[06445.161]
+Ouah... génial ! Merci, monsieur Winters !
+
+[06445.162]
+Winters
+
+[06445.163]
+C’est fait ! Et ça s’appelle : « {18:44 6C} » !
+
+[06445.164]
+Winters
+
+[06445.165]
+Hé hé hé... Sans me vanter, j’ai fait là quelque chose de splendide. Regarde donc !
+
+[06445.167]
+Obtenu : {18:44 6C}.
+
+[06445.168]
+Bon voyage.
+
+[06445.169]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06445.170]
+Voulez-vous passer la nuit ?
+
+[06445.172]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06445.173]
+Reposez-vous bien.
+
+[06445.174]
+Bonjour.
+
+[06445.175]
+Vous n’avez pas assez d’argent.
+
+[06445.176]
+Au plaisir de vous revoir.
+
+[06445.181]
+Obtenu : {16:25 C6}.
+
+[06445.183]
+Obtenu : {08:FF FF FF FF}.
+
+[06445.185]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06445.187]
+Il n’y a rien ici.
+

@@ -1,0 +1,58 @@
+[06550.001]
+Speranza, la Cité écarlate
+
+[06550.002]
+Speranza, la Cité écarlate
+
+[06550.003]
+Homme
+
+[06550.004]
+Sortir du dôme sans Lentille de vie, il faut le faire ! Vous aimez le risque, vous !
+
+[06550.005]
+Homme
+
+[06550.006]
+Vous venez du dehors, vous !? Aah, et sans Lentille ! Ça va vraiment !?
+
+[06550.008]
+Allons bon... Ici aussi, on nous pose les mêmes questions...
+
+[06550.009]
+Bon voyage.
+
+[06550.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06550.011]
+Voulez-vous passer la nuit ?
+
+[06550.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06550.014]
+Reposez-vous bien.
+
+[06550.015]
+Bonjour.
+
+[06550.016]
+Vous n’avez pas assez d’argent.
+
+[06550.017]
+Au plaisir de vous revoir.
+
+[06550.022]
+Obtenu : {16:25 BA}.
+
+[06550.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06550.026]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06550.028]
+Il n’y a rien ici.
+

@@ -1,0 +1,535 @@
+[06353.001]
+Tente du forgeron
+
+[06353.002]
+Tente du forgeron
+
+[06353.003]
+Tente du forgeron
+
+[06353.004]
+Darilsheid : équipement
+
+[06353.005]
+Darilsheid, l’ancienne capitale
+
+[06353.006]
+Équipement
+
+[06353.007]
+Tente du forgeron
+
+[06353.008]
+Marchand d’armes
+
+[06353.009]
+Bienvenue.
+
+[06353.010]
+Merci beaucoup.
+
+[06353.011]
+Revenez nous voir.
+
+[06353.012]
+Armes
+
+[06353.013]
+Marchand d’armes
+
+[06353.014]
+En ce moment, on me commande plus d’outils pour relever la ville que d’armes. Je ne chôme pas.
+
+[06353.015]
+Marchand d’armures
+
+[06353.016]
+Bienvenue.
+
+[06353.017]
+Merci beaucoup.
+
+[06353.018]
+Revenez nous voir.
+
+[06353.019]
+Armures
+
+[06353.020]
+Marchand d’armures
+
+[06353.021]
+Je ne peux pas lâcher ce que je fais : une autre fois, d’accord ?
+
+[06353.022]
+Bon voyage.
+
+[06353.023]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06353.024]
+Voulez-vous passer la nuit ?
+
+[06353.026]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06353.027]
+Reposez-vous bien.
+
+[06353.028]
+Bonjour.
+
+[06353.029]
+Vous n’avez pas assez d’argent.
+
+[06353.030]
+Au plaisir de vous revoir.
+
+[06353.035]
+Obtenu : {16:25 BA}.
+
+[06353.037]
+Obtenu : {08:FF FF FF FF}.
+
+[06353.039]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06353.041]
+Il n’y a rien ici.
+
+[06353.042]
+Vendeur ({08:12 00 00 00})
+
+[06353.043]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06353.044]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06353.045]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06353.046]
+C’est {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06353.048]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 D6} ({14:35 D0} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06353.050]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06353.051]
+Merci de votre achat.
+
+[06353.052]
+Merci de votre achat.
+
+[06353.053]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 CC}{0B:00 00 00 00} Gald pièce.
+
+[06353.054]
+Voulez-vous suivre le cours de raffinage ?
+
+[06353.056]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06353.057]
+Que voulez-vous savoir ?
+
+[06353.059]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06353.061]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06353.062]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06353.063]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06353.064]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06353.065]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06353.066]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06353.067]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06353.068]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06353.069]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06353.070]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06353.071]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06353.072]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06353.073]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06353.074]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06353.075]
+Je vous expliquerai les emplacements en détail à part.
+
+[06353.076]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06353.077]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06353.078]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06353.079]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06353.080]
+Je vais vous expliquer les emplacements en détail.
+
+[06353.081]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06353.082]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06353.083]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06353.084]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06353.085]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06353.086]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06353.087]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06353.088]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06353.089]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06353.090]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06353.091]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06353.092]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06353.093]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06353.094]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06353.095]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06353.096]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06353.097]
+... Ranger ses objets, c’est important aussi.
+
+[06353.098]
+Forgeron
+
+[06353.099]
+Je suis forgeron.
+
+[06353.101]
+{03:00 00 00 00}Que souhaitez-vous ?
+　Financer ses recherches　
+　Passer commande　
+　Fonctionnement　
+
+[06353.102]
+Je suis un forgeron débutant.
+
+[06353.103]
+Si vous le voulez bien, pourriez-vous financer mes recherches sur l’équipement ?
+
+[06353.104]
+Tant que mon savoir-faire est faible, je ne peux fabriquer que de la camelote...
+
+[06353.105]
+Mais un jour, je deviendrai un forgeron accompli, vous verrez.
+
+[06353.106]
+Je vous en prie.
+
+[06353.107]
+J’ai l’impression d’avoir gagné en habileté, ces derniers temps.
+
+[06353.109]
+Nouveau rang du forgeron : {18:45 E0}.
+
+[06353.110]
+Forgeron novice
+
+[06353.111]
+Forgeron de pacotille
+
+[06353.112]
+Forgeron débutant
+
+[06353.113]
+Forgeron apprenti
+
+[06353.114]
+Forgeron du dimanche
+
+[06353.115]
+Forgeron confirmé
+
+[06353.116]
+Forgeron fougueux
+
+[06353.117]
+Forgeron chantant et dansant
+
+[06353.118]
+Forgeron chevronné
+
+[06353.119]
+Forgeron survolté
+
+[06353.120]
+Forgeron vétéran
+
+[06353.121]
+Forgeron qui en jette
+
+[06353.122]
+Forgeron professionnel
+
+[06353.123]
+Forgeron épatant
+
+[06353.124]
+Forgeron expert
+
+[06353.125]
+Forgeron célèbre
+
+[06353.126]
+Forgeron émérite
+
+[06353.127]
+Forgeron virtuose
+
+[06353.128]
+As des forgerons
+
+[06353.129]
+Maître forgeron
+
+[06353.130]
+Sage forgeron
+
+[06353.131]
+Dieu des forgerons
+
+[06353.132]
+Forgeron créateur
+
+[06353.133]
+Forgeron d’un autre monde
+
+[06353.134]
+Forgeron d’un monde imaginaire
+
+[06353.135]
+Singe forgeron
+
+[06353.136]
+Forgeron
+
+[06353.137]
+Commande terminée : {08:FF FF FF FF}.
+
+[06353.138]
+Obtenu : {08:FF FF FF FF}.
+
+[06353.139]
+Vous avez trop d’objets pour l’emporter.
+
+[06353.142]
+{03:00 00 00 00}Actuellement : {18:45 DC}
+Fin dans {0B:01 00 00 00}{14:26 04} min {14:26 02}{0B:00 00 00 00} s.
+
+[06353.143]
+Combien voulez-vous verser ?
+{05:00 01 00 00}Argent en poche : {0B:01 00 00 00}{14:34 04} Gald{0B:00 00 00 00}
+
+[06353.145]
+{0B:01 00 00 00}{03:00 00 00 00}　　　1000 Gald
+　　10000 Gald
+　100000 Gald
+1000000 Gald{0B:00 00 00 00}
+
+[06353.146]
+Vous n’avez pas assez d’argent.
+
+[06353.148]
+{03:00 00 00 00}Verser {0B:01 00 00 00}{14:36 08}{0B:00 00 00 00} Gald ?
+Mais oui, allez-y gaiement
+Holà, pas si vite
+
+[06353.149]
+Merci beaucoup.
+
+[06353.150]
+Une autre fois, alors, je vous en prie.
+
+[06353.151]
+Les fonds sont suffisants.
+
+[06353.152]
+Actuellement : {18:45 DC}. Que puis-je pour vous ?
+
+[06353.154]
+{03:00 00 00 00}　Changer　
+　Arrêter la fabrication　
+　Rien du tout　
+
+[06353.155]
+Que dois-je fabriquer ?{02}
+
+[06353.157]
+{03:00 00 00 00}　Arme　
+　Protection　
+
+[06353.159]
+{03:00 00 00 00}　Épée ({NAME:01 00 00 00}, {NAME:04 00 00 00})　
+　Arme à deux mains ({NAME:03 00 00 00})　
+　Bâton ({NAME:02 00 00 00}, {NAME:06 00 00 00})　
+　Arc ({NAME:05 00 00 00})　
+
+[06353.161]
+{03:00 00 00 00}　Armure ({NAME:01 00 00 00}, {NAME:03 00 00 00}, {NAME:04 00 00 00})　
+　Habit ({NAME:02 00 00 00}, {NAME:05 00 00 00}, {NAME:06 00 00 00})　
+　Heaume ({NAME:01 00 00 00}, {NAME:03 00 00 00}, {NAME:04 00 00 00})　
+　Coiffe ({NAME:02 00 00 00}, {NAME:05 00 00 00}, {NAME:06 00 00 00})　
+
+[06353.163]
+{03:00 00 00 00}Lancer la fabrication ?
+　Oui　
+　Non　
+
+[06353.164]
+Je commence la fabrication de l’équipement.
+
+[06353.165]
+Les fonds de fabrication sont insuffisants.
+
+[06353.167]
+{03:00 00 00 00}Arrêter la fabrication en cours ?
+　Oui　
+　Non　
+
+[06353.168]
+{03:00 00 00 00}Fabrication arrêtée.
+
+[06353.169]
+{03:00 00 00 00}La fabrication en cours se poursuit.
+
+[06353.172]
+{03:00 00 00 00}Le forgeron s’exerce grâce aux fonds
+que vous lui versez. À force
+d’expérience, il monte de niveau.
+
+[06353.174]
+{03:00 00 00 00}En montant de niveau, il sait faire
+un équipement plus performant.
+Il travaille aussi plus vite.
+
+[06353.176]
+{03:00 00 00 00}Avec « Financer ses recherches », vous
+alimentez ses fonds de recherche.
+
+[06353.178]
+{03:00 00 00 00}Les fonds de recherche s’épuisent avec
+le temps. Ils baissent aussi quand vous
+commandez un équipement au forgeron.
+
+[06353.180]
+{03:00 00 00 00}Un équipement commandé demande
+un certain délai avant d’être prêt :
+plus il est performant, plus ce délai
+est long.
+
+[06353.182]
+{03:00 00 00 00}Enfin, la formation d’un forgeron
+prend énormément de temps : merci
+de le soutenir avec patience.
+
+[06353.183]
+{03:00 00 00 00}Rang : {18:45 E0}
+Fonds de recherche : {0B:01 00 00 00}{14:26 20 90 64 C7}{0B:00 00 00 00} Gald
+État : {18:45 DC}
+
+[06353.185]
+fabrication d’une épée
+
+[06353.186]
+fabrication d’un bâton
+
+[06353.187]
+fabrication d’une hache ou d’une lance
+
+[06353.188]
+fabrication d’un arc
+
+[06353.189]
+fabrication d’une armure
+
+[06353.190]
+fabrication d’un habit
+
+[06353.191]
+fabrication d’un heaume
+
+[06353.192]
+fabrication d’une coiffe
+
+[06353.193]
+fabrication d’un objet inconnu
+
+[06353.194]
+en attente de commande
+

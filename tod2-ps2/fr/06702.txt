@@ -1,0 +1,46 @@
+[06702.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06702.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06702.004]
+Le coffre était un Cheap Trick.
+
+[06702.005]
+Bon voyage.
+
+[06702.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06702.007]
+Voulez-vous passer la nuit ?
+
+[06702.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06702.010]
+Reposez-vous bien.
+
+[06702.011]
+Bonjour.
+
+[06702.012]
+Vous n’avez pas assez d’argent.
+
+[06702.013]
+Au plaisir de vous revoir.
+
+[06702.018]
+Obtenu : {16:25 BA}.
+
+[06702.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06702.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06702.024]
+Il n’y a rien ici.
+

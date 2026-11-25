@@ -1,0 +1,24 @@
+[00234.001]
+............ Haa, hé hé...
+
+[00234.002]
+Hi hi hi♪ Tu as déjà faim, {NAME:01 00 00 00} ?
+
+[00234.003]
+Hé hé hé~... Je grandis, moi.
+
+[00234.004]
+Tu veux manger un peu ?
+
+[00234.005]
+Hein ? Tu as quelque chose ?
+
+[00234.006]
+Attends un peu. Voyons............ Oh non, que je suis bête... !
+
+[00234.007]
+Haha ! Toi aussi, tu grandis, {NAME:02 00 00 00} !
+
+[00234.008]
+... Vous deux... c’est cousu de fil blanc... Attendrissant, si on veut...
+

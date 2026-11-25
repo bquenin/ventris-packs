@@ -1,0 +1,51 @@
+[06223.4788]
+Chez Igtenos
+
+[06223.4807]
+Chez Dymlos
+
+[06223.4824]
+Chez Karell
+
+[06223.4839]
+Le QG
+
+[06223.4846]
+Dortoir
+
+[06223.4859]
+Chez {NAME:06 00 00 00}
+
+[06223.4871]
+Quelle pièce, déjà ?
+
+[06223.4896]
+Oui !
+Savante, pour un as
+du renseignement
+
+[06223.4945]
+Raté
+La chambre de Dymlos
+était un peu plus grande
+
+[06223.4996]
+Raté.
+Pas loin
+
+[06223.5016]
+Quand même,
+pas ça, voyons~ !
+
+[06223.5050]
+Trop luxueux
+pour ça, non ?
+
+[06223.5078]
+Chez {NAME:06 00 00 00} ?
+Trop normal, non ?
+
+[06223.5113]
+Trop tard~
+Un peu dur, peut-être ?
+

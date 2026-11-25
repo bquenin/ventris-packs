@@ -1,0 +1,42 @@
+[00980.001]
+Bon, on fait quoi, maintenant ?
+
+[00980.002]
+C’est tout vu : on cherche cette fille !
+
+[00980.003]
+Chercher, hein... Sans le moindre indice ? Tu comptes fouiller les herbes une à une ?
+
+[00980.004]
+On n’a pas le choix, il n’y a pas d’autre moyen ! Ou alors tu as une bonne idée, toi, {NAME:03 00 00 00} !?
+
+[00980.005]
+Dans ces cas-là, on se sert de sa tête. Écoute : supposons qu’elle disait vrai, qu’elle « cherche un héros ». Les vivants qu’on appelle héros, ce sont les Quatre Héros, qui ont sauvé le monde lors des derniers troubles. D’abord tes parents, Stahn et Rutee. Ensuite le roi Woodrow de Phandaria, le fameux Roi-Héros. Et Philia, de l’Ordre d’Atamoni, au grand temple de Straylize.
+
+[00980.006]
+Hm, hm.
+
+[00980.007]
+Elle ira sans doute voir l’un de ces quatre-là. Et on peut en écarter deux. D’abord Stahn, dont on ignore où il est. Et elle n’est pas venue voir Rutee non plus : écartée aussi.
+
+[00980.008]
+Donc... il reste le roi Woodrow et Philia.
+
+[00980.009]
+Question, maintenant. Phandaria, où se trouve le roi Woodrow : on y va comment ?
+
+[00980.010]
+On prend le bateau au port d’Aigrette, je crois... Ah, mais oui !
+
+[00980.011]
+Voilà. Philia ou le roi Woodrow, pour les voir, il faut forcément passer par Aigrette.
+
+[00980.012]
+Alors on va d’abord à Aigrette !
+
+[00980.013]
+C’est décidé, en route. D’ici à Aigrette, on passe d’ordinaire le pont à l’ouest de Darilsheid, puis la vallée de Harmentz, plus au nord.
+
+[00980.014]
+Donc cap sur Darilsheid ! Bon ! On y va, {NAME:03 00 00 00}.
+

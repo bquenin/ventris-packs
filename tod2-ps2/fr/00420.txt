@@ -1,0 +1,9 @@
+[00420.001]
+{NAME:02 00 00 00}... tu n’as pas l’air bien. Ça va ?
+
+[00420.002]
+Ç-ça va... Mais quelle odeur affreuse...
+
+[00420.003]
+Il y a aussi des gaz toxiques. Pas un endroit où traîner.
+

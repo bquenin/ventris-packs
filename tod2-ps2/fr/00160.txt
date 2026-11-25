@@ -1,0 +1,21 @@
+[00160.001]
+Allez, {NAME:03 00 00 00}, vite ! Elle est peut-être arrivée à Aigrette depuis longtemps !
+
+[00160.002]
+Eh oui, face aux larmes d’une femme, on cède, hein !
+
+[00160.003]
+Hein ?
+
+[00160.004]
+Devant un minois en pleurs si mignon, un homme s’enflamme. La revoir, la serrer ! « Sèche tes larmes sur mon cœur » ! Rhaa !
+
+[00160.005]
+{NAME:13 27 00 00}-{NAME:03 00 00 00}... écoute... !
+
+[00160.006]
+Je sais, n’en dis pas plus ! Courir après celle qu’on aime, c’est le rêve éternel de l’homme. Allez, {NAME:01 00 00 00} !
+
+[00160.007]
+Celle que... ?
+

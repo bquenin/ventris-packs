@@ -1,0 +1,27 @@
+[00598.001]
+Donc Elraine est dans ce château qui flotte dans le ciel...
+
+[00598.002]
+...... Je l’arrêterai, coûte que coûte. Et il faut rendre au monde sa forme d’avant...
+
+[00598.003]
+Dis, {NAME:02 00 00 00}... tu l’avais dit, non ? « Les gens de ce monde aussi vivent heureux. Alors c’est peut-être bien comme ça. »
+
+[00598.004]
+Ça... n’a plus d’importance. Si tu as décidé « ce monde est une erreur, il faut le rétablir », {NAME:01 00 00 00}, je n’ai qu’à te suivre.
+
+[00598.005]
+{NAME:02 00 00 00}... et ça te va, à toi ?
+
+[00598.006]
+Oui. Parce que tu es mon héros, voilà tout.
+
+[00598.007]
+{NAME:02 00 00 00}...
+
+[00598.008]
+Allons-y, tous. À Dycroft !
+
+[00598.009]
+......
+

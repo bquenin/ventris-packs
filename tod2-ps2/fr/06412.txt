@@ -1,0 +1,310 @@
+[06412.001]
+Neustadt
+
+[06412.002]
+Neustadt
+
+[06412.004]
+On débarque des légumes frais. Ils semblent venus par bateau des environs.
+
+[06412.006]
+Une montagne de matériaux de construction. Ils sont adressés à Heidelberg.
+
+[06412.008]
+Une caisse d’équipement de navire. Il y est écrit : « Algernon, matériel de réparation ».
+
+[06412.010]
+C’est quoi, tout ça ?
+
+[06412.012]
+Il s’est passé quelque chose ?
+
+[06412.014]
+Dites, il s’est passé quelque chose ?
+
+[06412.015]
+Passager
+
+[06412.016]
+La réparation du navire n’est toujours pas finie, paraît-il.
+
+[06412.017]
+Marin
+
+[06412.018]
+Toutes nos excuses. La réparation prend du temps...
+
+[06412.019]
+Marin
+
+[06412.020]
+Pardonnez-nous : pourriez-vous nous laisser encore un peu de temps ?
+
+[06412.022]
+Hé, on fait quoi, {NAME:01 00 00 00} ? À ce train-là, le bateau partira on ne sait quand.
+
+[06412.024]
+Mais pour Heidelberg, il n’y a pas d’autre route que la mer. Il ne reste qu’à attendre.
+
+[06412.026]
+Hmm... Attendre sans rien faire, c’est ennuyeux : on fait quoi ?
+
+[06412.027]
+Marchand
+
+[06412.028]
+Excusez-moi, puis-je ? Vous m’avez tout l’air de combattants de passage, et des plus habiles...
+
+[06412.030]
+Oh là là, ça se voit tant que ça ?
+
+[06412.032]
+Hé hé hé... Ah, vous allez me faire rougir ! La prestance du héros, ça doit transparaître tout seul, quoi ?
+
+[06412.033]
+Marchand
+
+[06412.034]
+La prestance du héros... ?
+
+[06412.035]
+Marchand
+
+[06412.036]
+Oh, je la sens, mais oui, je la sens ! Vous avez tout à fait ce visage vaillant qu’on attend !
+
+[06412.037]
+Marchand
+
+[06412.038]
+À propos, j’aurais une prière toute particulière à adresser à ces héros... Voudriez-vous bien m’écouter ?
+
+[06412.040]
+OK, OK ! Dites tout : {NAME:01 00 00 00} le héros vous règle ça en un tournemain !
+
+[06412.041]
+Marchand
+
+[06412.042]
+Hum, ce n’est guère le lieu : si le cœur vous en dit, venez donc jusqu’à mon humble masure.
+
+[06412.043]
+Marchand
+
+[06412.044]
+Elle se trouve au nord de la ville. Venez quand il vous plaira.
+
+[06412.046]
+... Hé, {NAME:01 00 00 00}. Tu ne comptes quand même pas accepter son histoire ?
+
+[06412.048]
+Bien sûr que j’accepte ! Aider ceux qui sont dans l’embarras, c’est ça, un héros !
+
+[06412.050]
+Allez, on y va ! Quelqu’un dans l’embarras attend son héros avec impatience !
+
+[06412.052]
+Bonjour, capitaine !
+
+[06412.053]
+Capitaine
+
+[06412.054]
+Oh, les jeunes héros ! Alors, la vie à terre a dû vous peser ?
+
+[06412.055]
+Capitaine
+
+[06412.056]
+Mais réjouissez-vous ! Dès aujourd’hui, vous repartez pour le monde étourdissant de la mer !
+
+[06412.058]
+O-on compte sur vous...
+
+[06412.059]
+Capitaine
+
+[06412.060]
+Mon cher Algernon lève l’ancre sous peu. Êtes-vous prêts, jeunes gens !{02}
+
+[06412.062]
+{03:00 00 00 00}　Bien sûr !　
+　... Pardon, un instant　
+
+[06412.063]
+Capitaine
+
+[06412.064]
+À vos ordres ! On file d’une traite jusqu’à Snowfria : prenez garde à ne pas passer par-dessus bord !
+
+[06412.065]
+Capitaine
+
+[06412.066]
+Entendu. Revenez quand vous serez prêts. À plus tard, jeunes gens !
+
+[06412.067]
+Marin
+
+[06412.068]
+Nous sommes vraiment désolés pour vous tous...
+
+[06412.069]
+Marin
+
+[06412.070]
+La réparation du navire traîne encore : visitez donc la ville en attendant.
+
+[06412.071]
+Marin
+
+[06412.072]
+Pardon de vous avoir fait attendre. Nous appareillons sous peu.
+
+[06412.073]
+Marin
+
+[06412.074]
+Quand vous serez prêts, parlez au capitaine et montez à bord.
+
+[06412.075]
+Marin
+
+[06412.076]
+Je ne devrais pas être placé ici en ce moment.
+
+[06412.077]
+Passagère
+
+[06412.078]
+La réparation du navire n’est donc toujours pas finie ?
+
+[06412.079]
+Passagère
+
+[06412.080]
+À ce train-là, qui sait quand j’arriverai auprès de mon amoureux...
+
+[06412.081]
+Passagère
+
+[06412.082]
+Ah ! Le navire part enfin.
+
+[06412.083]
+Passagère
+
+[06412.084]
+Plus on me fait attendre, plus mes sentiments pour lui grandissent : c’est plutôt délicieux★
+
+[06412.085]
+Passagère
+
+[06412.086]
+Je ne devrais pas être placée ici en ce moment.
+
+[06412.087]
+Marchand
+
+[06412.088]
+Vraiment ! Quel ennui.
+
+[06412.089]
+Marchand
+
+[06412.090]
+Le navire est enfin réparé, paraît-il. Allez, chargeons le reste de la cargaison.
+
+[06412.091]
+Marchand
+
+[06412.092]
+Je ne devrais pas être placé ici en ce moment.
+
+[06412.093]
+Guichetier
+
+[06412.094]
+D’ici, vous pouvez gagner Snowfria. Voulez-vous embarquer ?
+
+[06412.096]
+{03:00 00 00 00}　Aller à Snowfria ({14:24 74}{0B:00 00 00 00} Gald)　
+　Ne pas embarquer　
+
+[06412.097]
+Guichetier
+
+[06412.098]
+D’ici, vous pouvez gagner Cherik et Snowfria. Voulez-vous embarquer ?
+
+[06412.100]
+{03:00 00 00 00}　Aller à Cherik ({0B:01 00 00 00}{14:24 72} Gald)　
+　Aller à Snowfria ({14:24 74}{0B:00 00 00 00} Gald)　
+　Ne pas embarquer　
+
+[06412.101]
+Guichetier
+
+[06412.102]
+D’ici, vous pouvez gagner Cherik et Snowfria. Voulez-vous embarquer ?
+
+[06412.104]
+{03:00 00 00 00}　Aller à Cherik　
+　Aller à Snowfria　
+　Ne pas embarquer　
+
+[06412.105]
+Guichetier
+
+[06412.106]
+Hé là, il n’y a pas le compte. Soyez gentil, voyons, m’sieur !
+
+[06412.107]
+Guichetier
+
+[06412.108]
+Vous êtes sûr, m’sieur ? Dépêchez-vous, le navire va partir !
+
+[06412.110]
+Les marins s’affairent à réparer le navire...
+
+[06412.112]
+De nombreux navires sont à l’ancre...
+
+[06412.113]
+Bon voyage.
+
+[06412.114]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06412.115]
+Voulez-vous passer la nuit ?
+
+[06412.117]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06412.118]
+Reposez-vous bien.
+
+[06412.119]
+Bonjour.
+
+[06412.120]
+Vous n’avez pas assez d’argent.
+
+[06412.121]
+Au plaisir de vous revoir.
+
+[06412.126]
+Obtenu : {16:25 C2}.
+
+[06412.128]
+Obtenu : {08:FF FF FF FF}.
+
+[06412.130]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06412.132]
+Il n’y a rien ici.
+

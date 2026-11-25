@@ -1,0 +1,70 @@
+[06649.001]
+Ruines de la base terrestre
+
+[06649.002]
+Ruines de la base terrestre
+
+[06649.004]
+Remets à sa place ce qui doit s’y trouver.
+
+[06649.006]
+Le sceau du Bois
+
+[06649.008]
+Le sceau de l’Eau
+
+[06649.010]
+Le sceau du Feu
+
+[06649.012]
+Le sceau des Ailes
+
+[06649.014]
+Alors tu obtiendras la force.
+
+[06649.016]
+Un sceau puissant barre le passage : impossible d’avancer.
+
+[06649.018]
+Un sceau puissant barre le passage : impossible d’avancer.
+
+[06649.020]
+Un sceau puissant barre le passage : impossible d’avancer.
+
+[06649.021]
+Bon voyage.
+
+[06649.022]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06649.023]
+Voulez-vous passer la nuit ?
+
+[06649.025]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06649.026]
+Reposez-vous bien.
+
+[06649.027]
+Bonjour.
+
+[06649.028]
+Vous n’avez pas assez d’argent.
+
+[06649.029]
+Au plaisir de vous revoir.
+
+[06649.034]
+Obtenu : {16:27 02}.
+
+[06649.036]
+Obtenu : {08:FF FF FF FF}.
+
+[06649.038]
+Trouvé : {16:27 0A}, mais vous n’avez plus de place.
+
+[06649.040]
+Il n’y a rien ici.
+

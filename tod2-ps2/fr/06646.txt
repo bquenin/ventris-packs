@@ -1,0 +1,46 @@
+[06646.001]
+Ruines de la base terrestre
+
+[06646.002]
+Ruines de la base terrestre
+
+[06646.004]
+Une colonne de glace se dresse à un endroit pareil. On sent une force étrange en émaner.
+
+[06646.005]
+Bon voyage.
+
+[06646.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06646.007]
+Voulez-vous passer la nuit ?
+
+[06646.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06646.010]
+Reposez-vous bien.
+
+[06646.011]
+Bonjour.
+
+[06646.012]
+Vous n’avez pas assez d’argent.
+
+[06646.013]
+Au plaisir de vous revoir.
+
+[06646.018]
+Obtenu : {16:27 06}.
+
+[06646.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06646.022]
+Trouvé : {16:27 0E}, mais vous n’avez plus de place.
+
+[06646.024]
+Il n’y a rien ici.
+

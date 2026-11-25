@@ -1,0 +1,43 @@
+[06345.001]
+Canaux souterrains de Darilsheid
+
+[06345.002]
+Canaux souterrains de Darilsheid
+
+[06345.003]
+Bon voyage.
+
+[06345.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06345.005]
+Voulez-vous passer la nuit ?
+
+[06345.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06345.008]
+Reposez-vous bien.
+
+[06345.009]
+Bonjour.
+
+[06345.010]
+Vous n’avez pas assez d’argent.
+
+[06345.011]
+Au plaisir de vous revoir.
+
+[06345.016]
+Obtenu : {16:25 BA}.
+
+[06345.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06345.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06345.022]
+Il n’y a rien ici.
+

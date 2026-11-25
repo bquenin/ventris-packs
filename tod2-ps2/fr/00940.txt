@@ -1,0 +1,21 @@
+[00940.001]
+Graaaaah !! Je suis malade ou quoi !!
+
+[00940.002]
+Quoi ! Crier comme ça d’un coup...
+
+[00940.003]
+Écoute ! Mon genre, c’est la femme mûre et sensuelle !! Pas du tout les gamines !!
+
+[00940.004]
+Oui... je crois bien, mais...
+
+[00940.005]
+Et pourtant... et pourtant... pourquoi cette gamine, cette {NAME:05 00 00 00}, m’occupe autant l’esprit !!
+
+[00940.006]
+... Je ne comprends pas bien, mais ça a l’air dur...
+
+[00940.007]
+Hé, {NAME:01 00 00 00} ! Prends pas tes distances !!
+

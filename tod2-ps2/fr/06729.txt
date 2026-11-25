@@ -1,0 +1,46 @@
+[06729.001]
+Dycroft, il y a dix-huit ans
+
+[06729.002]
+Dycroft, il y a dix-huit ans
+
+[06729.004]
+Rien n’annonce le retour de l’ascenseur. Il a dû tomber et se briser.
+
+[06729.005]
+Bon voyage.
+
+[06729.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06729.007]
+Voulez-vous passer la nuit ?
+
+[06729.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06729.010]
+Reposez-vous bien.
+
+[06729.011]
+Bonjour.
+
+[06729.012]
+Vous n’avez pas assez d’argent.
+
+[06729.013]
+Au plaisir de vous revoir.
+
+[06729.018]
+Obtenu : {16:25 C2}.
+
+[06729.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06729.022]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06729.024]
+Il n’y a rien ici.
+

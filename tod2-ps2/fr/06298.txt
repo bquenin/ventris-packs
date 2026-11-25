@@ -1,0 +1,34 @@
+[06298.4788]
+Ogres
+
+[06298.4797]
+Têtard
+
+[06298.4804]
+Silure
+
+[06298.4811]
+Axolotl
+
+[06298.4824]
+Monstre de la grotte
+sous-marine.
+Quel est son nom ?
+
+[06298.4879]
+Un animal rare, mais
+il a dû proliférer là
+où nul ne vient, comme
+cette grotte.
+
+[06298.4975]
+Hé...
+tu y vois
+un têtard ?
+
+[06298.5014]
+Faux !
+
+[06298.5021]
+Trop tard.
+

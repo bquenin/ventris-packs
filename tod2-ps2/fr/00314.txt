@@ -1,0 +1,6 @@
+[00314.001]
+Vite, {NAME:01 00 00 00} ! À ce train, l’ennemi est sûrement chez Woodrow !
+
+[00314.002]
+Compris !
+

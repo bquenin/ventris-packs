@@ -1,0 +1,67 @@
+[06452.001]
+Château de Heidelberg
+
+[06452.002]
+Château de Heidelberg
+
+[06452.004]
+Bon sang ! On ne peut pas perdre de temps ici !
+
+[06452.006]
+Balayons-les d’un seul coup.
+
+[06452.007]
+Soldat
+
+[06452.008]
+Mmh... j’ai mal...
+
+[06452.009]
+Soldat
+
+[06452.010]
+Attaquer le château de cette façon : qui l’aurait cru...
+
+[06452.011]
+Soldat
+
+[06452.012]
+{NAME:01 00 00 00} ! Soyez prudent !
+
+[06452.013]
+Bon voyage.
+
+[06452.014]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06452.015]
+Voulez-vous passer la nuit ?
+
+[06452.017]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06452.018]
+Reposez-vous bien.
+
+[06452.019]
+Bonjour.
+
+[06452.020]
+Vous n’avez pas assez d’argent.
+
+[06452.021]
+Au plaisir de vous revoir.
+
+[06452.026]
+Obtenu : {16:25 BA}.
+
+[06452.028]
+Obtenu : {08:FF FF FF FF}.
+
+[06452.030]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06452.032]
+Il n’y a rien ici.
+

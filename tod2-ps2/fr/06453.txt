@@ -1,0 +1,121 @@
+[06453.001]
+Château de Heidelberg
+
+[06453.002]
+Château de Heidelberg
+
+[06453.003]
+Maître du couteau
+
+[06453.004]
+Tu cuisines ? Tu te sers de ton couteau ?
+
+[06453.005]
+Maître du couteau
+
+[06453.006]
+Je vois que tu as ceci : {08:74 00 00 00}.
+
+[06453.007]
+Maître du couteau
+
+[06453.008]
+Je vois que tu as ceci : {08:75 00 00 00}.
+
+[06453.009]
+Maître du couteau
+
+[06453.010]
+Je vois que tu as ceci : {08:76 00 00 00}.
+
+[06453.011]
+Maître du couteau
+
+[06453.012]
+Je vois que tu as ceci : {08:77 00 00 00}.
+
+[06453.014]
+{NAME:01 00 00 00} et les autres obtiennent le titre « {08:4B 08 00 00} ».
+
+[06453.015]
+Bon voyage.
+
+[06453.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06453.017]
+Voulez-vous passer la nuit ?
+
+[06453.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06453.020]
+Reposez-vous bien.
+
+[06453.021]
+Bonjour.
+
+[06453.022]
+Vous n’avez pas assez d’argent.
+
+[06453.023]
+Au plaisir de vous revoir.
+
+[06453.028]
+Obtenu : {16:25 BA}.
+
+[06453.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06453.032]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06453.034]
+Il n’y a rien ici.
+
+[06453.036]
+Des armes bien entretenues sont alignées. Toutes ont l’air de pièces de prix.
+
+[06453.038]
+Des armes de guerre sont alignées : pour les jours de crise, sans doute.
+
+[06453.040]
+Une arme au tranchant affûté. L’œuvre d’un forgeron de premier ordre, sûrement.
+
+[06453.042]
+Cette arme a un vrai tranchant. Ce n’est pas un objet d’art : c’est une arme véritable.
+
+[06453.044]
+Les armes des soldats du château de Heidelberg. Les lames sont affûtées, sans la moindre ternissure.
+
+[06453.046]
+Une énorme armure de plates. Elle a l’air très lourde...
+
+[06453.048]
+Une armure de guerre. Elle est d’une facture très soignée.
+
+[06453.050]
+Une armure complète, en tôle martelée. Un travail très soigné : combien peut coûter une seule pièce...
+
+[06453.052]
+Une vraie armure complète. Il s’en dégage une présence écrasante...
+
+[06453.054]
+Des armures sont alignées. Pas des objets d’art : de vraies armures de guerre, semble-t-il.
+
+[06453.056]
+Une pièce ancienne, semble-t-il. ... Attention à ne pas la casser.
+
+[06453.058]
+De menus objets sont alignés. Tous ont l’air de valoir très cher.
+
+[06453.060]
+C’est bien un château royal : le moindre bibelot est d’une facture splendide.
+
+[06453.062]
+Des pièces splendides sont alignées...
+
+[06453.064]
+Des antiquités, peut-être. Des pièces anciennes sont alignées.
+

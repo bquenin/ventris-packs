@@ -1,0 +1,124 @@
+[06350.001]
+Darilsheid : auberge
+
+[06350.002]
+Darilsheid, l’ancienne capitale
+
+[06350.004]
+Un lit bon marché... Dormir ici ne chasserait pas la fatigue...
+
+[06350.005]
+Servante
+
+[06350.006]
+N’empêche, qu’est-ce que je m’ennuie... N’avoir rien à faire, c’est drôlement dur aussi, vous savez.
+
+[06350.007]
+Servante
+
+[06350.008]
+Haa, aujourd’hui encore, un seul client, un de nos habitués... Pas de travail, je m’ennuie à mourir.
+
+[06350.009]
+Servante
+
+[06350.010]
+Du temps où cette ville avait un port, le hall débordait de clients, à ce qu’il paraît.
+
+[06350.012]
+Alors il n’y a pas que notre orphelinat qui a du mal à joindre les deux bouts...
+
+[06350.013]
+Servante
+
+[06350.014]
+Dites, vous autres, ça ne vous dirait pas de dormir dans cet hôtel ? Je n’ai pas de travail, je m’ennuie, moi.
+
+[06350.015]
+Servante
+
+[06350.016]
+Allez, s’il vous plaît. Laissez-moi m’occuper de vous★
+
+[06350.017]
+Servante
+
+[06350.018]
+Dites, vous autres, ça ne vous dirait pas de dormir ici ? Je n’ai pas de travail, je m’ennuie, moi.
+
+[06350.019]
+Servante
+
+[06350.020]
+Allez, s’il vous plaît. Laissez-moi m’occuper de vous★
+
+[06350.022]
+Vendu ! Occupe-toi de nous !! Allez, qu’on nous mène à la chambre la plus chère !
+
+[06350.024]
+Hé, tu te fais embobiner, là ! Non mais vraiment...
+
+[06350.025]
+Servante
+
+[06350.026]
+Aaah, je m’ennuie~ ! Et si je rentrais, tiens !
+
+[06350.027]
+Servante
+
+[06350.028]
+Je suis jeune mariée, moi. Je veux vite rentrer roucouler avec mon chéri adoré.
+
+[06350.029]
+Servante
+
+[06350.030]
+Même si aujourd’hui est dur, en y croyant et en s’accrochant, demain apportera sûrement du bon...
+
+[06350.031]
+Servante
+
+[06350.032]
+Aujourd’hui encore, peu de clients. Mais je m’accroche ! ... Enfin, quelque chose comme ça ?
+
+[06350.034]
+« Quelque chose comme ça ? », me demander ça à moi... Mais oui, je crois que c’est ça.
+
+[06350.035]
+Bon voyage.
+
+[06350.036]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06350.037]
+Voulez-vous passer la nuit ?
+
+[06350.039]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06350.040]
+Reposez-vous bien.
+
+[06350.041]
+Bonjour.
+
+[06350.042]
+Vous n’avez pas assez d’argent.
+
+[06350.043]
+Au plaisir de vous revoir.
+
+[06350.048]
+Obtenu : {16:25 BA}.
+
+[06350.050]
+Obtenu : {08:FF FF FF FF}.
+
+[06350.052]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06350.054]
+Il n’y a rien ici.
+

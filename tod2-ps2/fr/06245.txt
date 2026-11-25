@@ -1,0 +1,69 @@
+[06245.4090]
+Qui parle ?
+
+[06245.4103]
+Raté
+
+[06245.4108]
+Oui !
+
+[06245.4115]
+Fini !
+
+[06245.4124]
+C’est qui, ça ?
+
+[06245.4141]
+Raté !
+
+[06245.4148]
+Trop tard !
+
+[06245.4161]
+De qui, cette voix ?
+
+[06245.4182]
+Non.
+
+[06245.4189]
+Oui.
+
+[06245.4196]
+Trop tard.
+
+[06245.4207]
+Tu sais qui parle ?
+
+[06245.4230]
+Mais non
+
+[06245.4239]
+Oui !
+
+[06245.4246]
+Trop tard.
+
+[06245.4259]
+Qui parle ?
+
+[06245.4274]
+Faux !
+
+[06245.4281]
+Trop tard.
+
+[06245.4292]
+Tu reconnais la voix ?
+
+[06245.4317]
+Gagné !
+
+[06245.4326]
+Nomme cette voix.
+
+[06245.4345]
+Eh non.
+
+[06245.4354]
+Trop tard, tiens
+

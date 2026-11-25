@@ -1,0 +1,15 @@
+[00800.001]
+Dis, {NAME:06 00 00 00}. Pourquoi est-ce que tu...
+
+[00800.002]
+Je l’ai dit : « je ne veux pas être la seule à tricher ». J’aime résoudre le difficile par moi-même. Partir d’une réponse toute donnée, non merci.
+
+[00800.003]
+...... Tu es forte.
+
+[00800.004]
+Forte... Hm, on ne me l’a pas souvent dit, mais c’est un compliment plutôt chouette ! Bon, je ne crois pas que ce soit le mot juste.
+
+[00800.005]
+Si, tu es forte, {NAME:06 00 00 00}...... Oui, les humains sont forts...
+

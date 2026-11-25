@@ -1,0 +1,62 @@
+[06759.001]
+Aqua Labyrinth
+
+[06759.002]
+Aqua Labyrinth
+
+[06759.004]
+Passer au suivant ?
+
+[06759.006]
+{03:00 00 00 00}　Continuer　
+　S’échapper　
+
+[06759.008]
+Cette carte est plongée dans le noir.
+
+[06759.010]
+Sur cette carte, vous subissez des dégâts.
+
+[06759.012]
+Sur cette carte, les rencontres sont au maximum.
+
+[06759.014]
+Sur cette carte, le champ de vision est réduit.
+
+[06759.015]
+Bon voyage.
+
+[06759.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06759.017]
+Voulez-vous passer la nuit ?
+
+[06759.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06759.020]
+Reposez-vous bien.
+
+[06759.021]
+Bonjour.
+
+[06759.022]
+Vous n’avez pas assez d’argent.
+
+[06759.023]
+Au plaisir de vous revoir.
+
+[06759.028]
+Obtenu : {16:25 C2}.
+
+[06759.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06759.032]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06759.034]
+Il n’y a rien ici.
+

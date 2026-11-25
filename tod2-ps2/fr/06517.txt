@@ -1,0 +1,97 @@
+[06517.001]
+Dragon volant : cœur
+
+[06517.002]
+Dragon volant
+
+[06517.004]
+Impossible de passer sans détruire le dispositif de contrôle.
+
+[06517.006]
+Bon sang ! Trop tard !
+
+[06517.008]
+Ce truc-là... !
+
+[06517.010]
+Non, ce serait sans doute peine perdue. Le Dragon volant est une machine aussi proche que possible d’un être vivant : détruis ceci, et cela se régénérera aussitôt.
+
+[06517.012]
+Alors, on fait comment !?
+
+[06517.014]
+Il faut détruire les dispositifs de contrôle qui se trouvent dans le corps du Dragon volant.
+
+[06517.016]
+Une fois tous détruits, ce verrou aussi devrait céder.
+
+[06517.018]
+{NAME:01 00 00 00}, tu as bien la Lunette du sorcier que Philia t’a donnée tout à l’heure ? Sers-t’en pour trouver les dispositifs de contrôle.
+
+[06517.020]
+Pour t’en servir, c’est la touche {09:3B 00 00 00}. Mais elle consomme plus de Lentilles que l’Anneau du sorcier : prends garde.
+
+[06517.022]
+Compris !
+
+[06517.024]
+Autre chose, et ce n’est qu’une supposition... ce Dragon volant se dirige vers Calviola.
+
+[06517.026]
+La Terre sainte... Elraine compte y recommencer la descente de la déesse, c’est ça.
+
+[06517.028]
+Si nous traînons, il atteindra sa destination. Le temps presse.
+
+[06517.030]
+Compris ! Cherchons-les vite !
+
+[06517.032]
+{NAME:04 00 00 00} obtient le titre « {08:27 08 00 00} ».
+
+[06517.034]
+Le coffre était un leurre.
+
+[06517.035]
+Bon voyage.
+
+[06517.036]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06517.037]
+Voulez-vous passer la nuit ?
+
+[06517.039]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06517.040]
+Reposez-vous bien.
+
+[06517.041]
+Bonjour.
+
+[06517.042]
+Vous n’avez pas assez d’argent.
+
+[06517.043]
+Au plaisir de vous revoir.
+
+[06517.048]
+Obtenu : {16:25 BE}.
+
+[06517.050]
+Obtenu : {08:FF FF FF FF}.
+
+[06517.052]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06517.054]
+Il n’y a rien ici.
+
+[06517.055]
+Temps écoulé
+
+[06517.057]
+Dispositif de contrôle détruit.
+

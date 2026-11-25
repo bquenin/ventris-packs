@@ -1,0 +1,12 @@
+[00092.001]
+Dis, {NAME:03 00 00 00}. Notre première aventure, c’était quand, déjà ?
+
+[00092.002]
+La première ? Voyons... t’avais pas cinq ans ? Tu soutenais que ton pipi au lit était une carte au trésor, et tu nous as traînés partout : « Je le trouverai, ce trésor ! »
+
+[00092.003]
+Ouah ! Tu te souviens encore de ça !!
+
+[00092.004]
+Tu parles. T’imagines les trous creusés pour ton bobard !
+

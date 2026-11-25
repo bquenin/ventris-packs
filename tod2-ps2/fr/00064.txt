@@ -1,0 +1,18 @@
+[00064.001]
+Dis, {NAME:03 00 00 00}. Si l’Ordre apprend qu’on cherche la Lentille aux ruines, on te vire, non ?
+
+[00064.002]
+Bah, il suffit qu’ils n’en sachent rien.
+
+[00064.003]
+Mais s’ils l’apprennent, tu fais quoi ? Toi qui étais si content d’être enfin chevalier...
+
+[00064.004]
+Je pensais qu’un chevalier pourrait protéger ceux qui sont dans la peine, comme Rutee ou vous. Mais on ne protège que les gens de l’Ordre... Hé, alors autant être viré, bon débarras.
+
+[00064.005]
+Ah bon. Alors si on se fait prendre, pas de souci !
+
+[00064.006]
+Cré~tin ! Autant pas se faire voir.
+

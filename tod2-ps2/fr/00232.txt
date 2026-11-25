@@ -1,0 +1,27 @@
+[00232.001]
+Oh. De jolies fleurs sont écloses♪
+
+[00232.002]
+C’est vrai ! Je t’en cueille une, {NAME:02 00 00 00} ? Dans tes cheveux, ça t’irait sûrement.
+
+[00232.003]
+Non. Les fleurs aussi sont vivantes. Il ne faut pas les cueillir pour notre seul plaisir.
+
+[00232.004]
+Les hommes ne sont pas seuls à vivre en ce monde. Nous n’avons aucun droit d’agir à notre guise.
+
+[00232.005]
+Oh. Tiens, tu sais dire des choses gentilles. Pour un {NAME:04 00 00 00}.
+
+[00232.006]
+Hmf. Tu es à plaindre : incapable de vivre sans chercher querelle.
+
+[00232.007]
+Quoi !?
+
+[00232.008]
+Eh bien ?
+
+[00232.009]
+Aah ! Arrêtez !
+

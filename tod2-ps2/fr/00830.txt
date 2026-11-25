@@ -1,0 +1,30 @@
+[00830.001]
+{NAME:06 00 00 00}, on ne t’a pas vue depuis hier soir : tu faisais tout ce temps ton « observation de l’axe du temps » ?
+
+[00830.002]
+Oui. Et un peu de lecture, aussi~.
+
+[00830.003]
+Tiens. Moi, les livres, je ne m’en suis jamais servie que comme oreiller. Et tu lisais quoi ?
+
+[00830.004]
+Mmh... Quoi, c’est difficile à dire : j’ai lu tous les livres de la bibliothèque, alors je ne peux pas dire que j’ai lu ceci ou cela.
+
+[00830.005]
+Hein !? Tout ça, lu en une nuit !? ... Hé, hé, arrête tes blagues. C’est pas possible, quand même, un truc pareil !
+
+[00830.006]
+Bah, pour un bêta comme toi, c’est impossible, oui.
+
+[00830.007]
+Ngh...... B-booon, puisque tu le dis, on va vérifier ça ! Quatrième bibliothèque à partir de la gauche, deuxième rayon en partant du haut, septième livre à partir de la droite, page deux cent cinquante : dis-moi ce qui est écrit !
+
+[00830.008]
+Voilààà. Le chapitre quatre du « Manuel de science des Lentilles », non ? Bah, c’était assez intéressant, mais rien de bien nouveau. On dirait qu’en mille ans, la science n’a presque pas progressé... D’autres questions ?
+
+[00830.009]
+S-sérieux... Non, c’est pas possible ! Puisque c’est ça, je vais vérifier sur place ! E-euh... quelle bibliothèque, quel rayon, quel livre, quelle page, déjà ?
+
+[00830.010]
+Oublier ses propres mots et défier un génie ?
+

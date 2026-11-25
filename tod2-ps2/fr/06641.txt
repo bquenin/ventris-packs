@@ -1,0 +1,62 @@
+[06641.001]
+Ruines de la base terrestre
+
+[06641.002]
+Ruines de la base terrestre
+
+[06641.004]
+Une jardinière où l’on a planté une jeune pousse.
+
+[06641.006]
+Le froid n’a aucune prise sur elle. Une force étrange semble à l’œuvre.
+
+[06641.008]
+Il y a une jardinière à un endroit pareil. Chose étrange, elle n’a pas un flocon de neige. Y planter la « jeune pousse » ?
+
+[06641.010]
+{03:00 00 00 00}　Planter　
+　Renoncer　
+
+[06641.012]
+Jeune pousse plantée.
+
+[06641.014]
+Il y a une jardinière à un endroit pareil. Chose étrange, elle n’a pas un flocon de neige.
+
+[06641.015]
+Bon voyage.
+
+[06641.016]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06641.017]
+Voulez-vous passer la nuit ?
+
+[06641.019]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06641.020]
+Reposez-vous bien.
+
+[06641.021]
+Bonjour.
+
+[06641.022]
+Vous n’avez pas assez d’argent.
+
+[06641.023]
+Au plaisir de vous revoir.
+
+[06641.028]
+Obtenu : {16:27 06}.
+
+[06641.030]
+Obtenu : {08:FF FF FF FF}.
+
+[06641.032]
+Trouvé : {16:27 0E}, mais vous n’avez plus de place.
+
+[06641.034]
+Il n’y a rien ici.
+

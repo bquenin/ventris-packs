@@ -1,0 +1,1538 @@
+[06574.001]
+Radisrol : salle d’état-major
+
+[06574.002]
+Radisrol
+
+[06574.003]
+Salle d’état-major
+
+[06574.004]
+Litler
+
+[06574.005]
+Puisque {NAME:06 00 00 00} répond de vous, je vous accorde ma confiance, moi aussi. Je vous demande de la seconder.
+
+[06574.007]
+Oui, commandant. On fera de notre mieux !
+
+[06574.008]
+Litler
+
+[06574.009]
+Pourvu que l’impatience de Dymlos ne se retourne pas contre nous au cours de l’opération...
+
+[06574.010]
+Litler
+
+[06574.011]
+Si Dymlos tient tant à son rang de général de division, c’est aussi à cause de moi.
+
+[06574.012]
+Litler
+
+[06574.013]
+S’il agit sur un coup de tête, il me causera du tort, à moi, son supérieur direct... Voilà ce qu’il se dit.
+
+[06574.014]
+Litler
+
+[06574.015]
+S’il agit sur un coup de tête, il me causera du tort, à moi, son supérieur direct... Voilà ce que se dit Dymlos.
+
+[06574.016]
+Litler
+
+[06574.017]
+Si Dymlos tient tant à son rang de général de division, c’est aussi à cause de moi.
+
+[06574.018]
+Litler
+
+[06574.019]
+S’il agit sur un coup de tête, il me causera du tort, à moi, son supérieur direct... Voilà ce qu’il se dit.
+
+[06574.020]
+Litler
+
+[06574.021]
+Vous assisterez à l’instant où naîtront les Swordians. Non : je vous le demande, soyez-y.
+
+[06574.022]
+Litler
+
+[06574.023]
+J’envoie à présent l’équipe des Swordians au laboratoire de {NAME:06 00 00 00}. Rendez-vous-y, vous aussi.
+
+[06574.024]
+Litler
+
+[06574.025]
+Demain, nous monterons à l’assaut de Dycroft. Prenez du repos, vous aussi.
+
+[06574.026]
+Litler
+
+[06574.027]
+En tout cas, l’entrée en force a réussi. Passez sans tarder à l’action suivante.
+
+[06574.028]
+Dymlos
+
+[06574.029]
+Vous êtes sous mon commandement. Aucune initiative personnelle, je vous le...
+
+[06574.031]
+Aah, mais oui ! Pas la peine de le répéter à chaque fois, on a compris !
+
+[06574.032]
+Dymlos
+
+[06574.033]
+De cette opération dépend le sort de notre armée terrestre... et, par là, celui du monde.
+
+[06574.034]
+Dymlos
+
+[06574.035]
+Si nous ne parvenons pas à délivrer l’équipe de conception de Belcrant, alors...
+
+[06574.037]
+Dymlos...
+
+[06574.038]
+Dymlos
+
+[06574.039]
+De cette opération dépend le sort de notre armée terrestre... et, par là, celui du monde. L’échec n’est pas permis... en aucun cas.
+
+[06574.040]
+Dymlos
+
+[06574.041]
+Vous avez raison : je suis un lâche. Mais j’ai mes devoirs de général de division. Et des hommes à protéger.
+
+[06574.043]
+Atwight n’en fait pas partie, elle ?
+
+[06574.044]
+Dymlos
+
+[06574.045]
+Je ne puis mettre en péril beaucoup de mes hommes pour la seule Atwight... C’est cela, une armée.
+
+[06574.046]
+Dymlos
+
+[06574.047]
+Je vous dois des excuses. Sans vos paroles, à l’heure qu’il est, je...
+
+[06574.049]
+Non, Dymlos. Vous étiez bien un héros, finalement. J’y croyais, moi.
+
+[06574.050]
+Dymlos
+
+[06574.051]
+... Merci, {NAME:01 00 00 00}.
+
+[06574.052]
+Dymlos
+
+[06574.053]
+... Merci, {NAME:01 00 00 00}. Atwight n’est pas la seule à avoir une dette envers vous : j’en ai une, moi aussi.
+
+[06574.054]
+Dymlos
+
+[06574.055]
+Pas de dialogue défini pour ce drapeau.
+
+[06574.056]
+Igtenos
+
+[06574.057]
+La décision du commandant est sans appel. Puisqu’elle est prise, je m’y range, moi aussi.
+
+[06574.058]
+Igtenos
+
+[06574.059]
+Mais êtes-vous vraiment dignes de confiance ? Cela, vous le montrerez au combat.
+
+[06574.060]
+Igtenos
+
+[06574.061]
+Le jugement du général de division Dymlos était, dans ces circonstances, le plus juste et le plus rationnel.
+
+[06574.062]
+Igtenos
+
+[06574.063]
+En tant que soldat, je tiens à soutenir sa conduite...
+
+[06574.064]
+Igtenos
+
+[06574.065]
+Ce qu’a fait cette fois le général de division Dymlos montre à quel point l’organisation nous tient liés.
+
+[06574.066]
+Igtenos
+
+[06574.067]
+Mais s’il est des choses que seul un individu peut accomplir, il en est d’autres que seule une organisation peut accomplir.
+
+[06574.068]
+Igtenos
+
+[06574.069]
+L’opération qui vient en est justement une. Réunir en une seule la force de beaucoup d’hommes, et enfoncer un coin dans l’armée céleste.
+
+[06574.070]
+Igtenos
+
+[06574.071]
+Réunir en une seule la force de notre armée terrestre, et enfoncer un coin dans la forteresse de l’armée céleste... L’heure en est enfin venue.
+
+[06574.072]
+Igtenos
+
+[06574.073]
+Pas de dialogue défini pour ce drapeau.
+
+[06574.074]
+Chaltier
+
+[06574.075]
+Dymlos dit cela, mais moi, je suis content que vous nous ayez rejoints.
+
+[06574.076]
+Chaltier
+
+[06574.077]
+Plus on a de bras, mieux c’est, et votre force, le professeur {NAME:06 00 00 00} s’en porte garante.
+
+[06574.078]
+Chaltier
+
+[06574.079]
+Je suis impuissant... Atwight souffre, et je ne peux rien faire... !
+
+[06574.080]
+Chaltier
+
+[06574.081]
+Tant mieux pour eux deux, Atwight et Dymlos...
+
+[06574.082]
+Chaltier
+
+[06574.083]
+Allons, nous voilà prêts pour la bataille finale, sans plus aucune hésitation !
+
+[06574.084]
+Chaltier
+
+[06574.085]
+Pas de dialogue défini pour ce drapeau.
+
+[06574.086]
+Karell
+
+[06574.087]
+Eh bien... Tomber entre les mains de {NAME:06 00 00 00} : vous n’avez pas eu de chance, vous non plus.
+
+[06574.088]
+Karell
+
+[06574.089]
+Elle vous donnera bien du mal, je le crains, mais je compte sur vous.
+
+[06574.091]
+Ça veut dire quoi, ça ? Tu veux bien ne pas parler de moi comme d’une bête curieuse ?
+
+[06574.092]
+Karell
+
+[06574.093]
+C’est une originale, mais ce n’est pas quelqu’un de mauvais, loin de là. Pardonnez-moi, mais tenez-lui compagnie.
+
+[06574.094]
+Karell
+
+[06574.095]
+Dès que la machine de {NAME:06 00 00 00} sera prête, nous passerons en territoire ennemi : ce jour-là, j’aimerais pouvoir compter aussi sur vos forces.
+
+[06574.096]
+Karell
+
+[06574.097]
+L’opération sera lancée demain, je pense. Tenez-vous prêts. Si vous voulez vous reposer, prenez ma chambre.
+
+[06574.098]
+Karell
+
+[06574.099]
+Dymlos est en ce moment dans une position délicate. Mais il n’y a qu’à tout remettre entre ses mains...
+
+[06574.100]
+Karell
+
+[06574.101]
+Les Swordians vont donc être achevés. Voilà qui va renforcer considérablement notre armée.
+
+[06574.103]
+Oui, avec les Swordians, on devrait débloquer la guerre d’un seul coup. Après, tout dépendra de mon frère et des autres.
+
+[06574.104]
+Karell
+
+[06574.105]
+Pas de dialogue défini pour ce drapeau.
+
+[06574.106]
+Clemente
+
+[06574.107]
+D’abord, ce n’est pas Atwight, c’est moi qu’on aurait dû capturer. Moi, à qui il reste si peu à vivre...
+
+[06574.109]
+Et alors ? Tu comptes faire fi de tous ceux qui ont voulu te sauver, papy ?
+
+[06574.110]
+Clemente
+
+[06574.111]
+... C’est juste, tu as raison. Pardon, {NAME:06 00 00 00}.
+
+[06574.112]
+Clemente
+
+[06574.113]
+Capturer Atwight, entre tous : ce Barbatos, quel procédé mesquin...
+
+[06574.114]
+Clemente
+
+[06574.115]
+Cette ardeur, qui frise l’imprudence... Tu ressembles vraiment beaucoup au Dymlos d’autrefois...
+
+[06574.117]
+À Dymlos... ?
+
+[06574.118]
+Clemente
+
+[06574.119]
+Pas de dialogue défini pour ce drapeau.
+
+[06574.120]
+Atwight
+
+[06574.121]
+Si le général devait être puni, je comptais l’être avec lui... Jamais je n’oublierai la bienveillance du commandant.
+
+[06574.122]
+Atwight
+
+[06574.123]
+Pas de dialogue défini pour ce drapeau.
+
+[06574.125]
+Voici la salle d’état-major. Tout le monde est là, ça tombe bien.
+
+[06574.127]
+Celui qui a l’air le plus important, c’est Litler. Ensuite, dans l’ordre : Dymlos, Chaltier, Igtenos, et mon frère, Karell.
+
+[06574.128]
+Dymlos
+
+[06574.129]
+Qu’y a-t-il, {NAME:06 00 00 00} ? Nous sommes en réunion : plus tard.
+
+[06574.131]
+Ce sera vite fait, attends un peu. Mes nouveaux subordonnés. Soyez gentils avec eux, tous.
+
+[06574.132]
+Dymlos
+
+[06574.133]
+De nouveaux subordonnés... ? Avec l’autorisation de qui ?
+
+[06574.134]
+Igtenos
+
+[06574.135]
+Et des enfants, des civils, qui plus est ? À quoi pensez-vous, {NAME:06 00 00 00} ?
+
+[06574.137]
+Si je vous dis qu’ils ont battu mon modèle HRX-2, ça vous suffira, non ?
+
+[06574.138]
+Chaltier
+
+[06574.139]
+Cette chose-là !? C’est impressionnant...
+
+[06574.140]
+Dymlos
+
+[06574.141]
+Mais des civils sont des civils, et des enfants, des enfants. Je ne puis l’admettre.
+
+[06574.143]
+A-attendez un peu ! Des enfants, des enfants...
+
+[06574.144]
+Dymlos
+
+[06574.145]
+Vous, taisez-vous !
+
+[06574.147]
+Enfin bref, c’est comme ça : je les affecte au corps du génie.
+
+[06574.149]
+Les affectations du génie, c’est bien moi, son chef, qui en décide, non ?
+
+[06574.150]
+Dymlos
+
+[06574.151]
+Refusé. L’affectation de tous les soldats relève de moi, le général de division.
+
+[06574.153]
+Ah bon. Alors, à partir de maintenant, je fais bande à part.
+
+[06574.155]
+L’opération d’assaut sur Dycroft, vous la ferez sans moi : ça vous va quand même ?
+
+[06574.156]
+Karell
+
+[06574.157]
+Hé, {NAME:06 00 00 00} !
+
+[06574.158]
+Litler
+
+[06574.159]
+Il suffit.
+
+[06574.160]
+Litler
+
+[06574.161]
+Je les reconnais comme soldats réguliers de l’armée terrestre.
+
+[06574.162]
+Dymlos
+
+[06574.163]
+Commandant en chef Litler !
+
+[06574.164]
+Litler
+
+[06574.165]
+Général Dymlos. La décision finale, dans notre armée, me revient, il me semble ?
+
+[06574.166]
+Litler
+
+[06574.167]
+... Et puis, il s’agit de {NAME:06 00 00 00}. Une fois qu’elle a parlé, elle n’en démord pas.
+
+[06574.169]
+Ça, c’est quelqu’un qui comprend !
+
+[06574.170]
+Karell
+
+[06574.171]
+{NAME:06 00 00 00} ! Parler sur ce ton au commandant en chef... !
+
+[06574.172]
+Litler
+
+[06574.173]
+Allons, allons, général de division Karell.
+
+[06574.174]
+Litler
+
+[06574.175]
+Dites-moi plutôt : voudriez-vous vous présenter ?
+
+[06574.177]
+Ah, oui !
+
+[06574.179]
+Euh, je suis {NAME:01 00 00 00} Dunamis.
+
+[06574.181]
+{NAME:03 00 00 00} Dunamis, pareil.
+
+[06574.183]
+Je m’appelle {NAME:02 00 00 00}.
+
+[06574.185]
+On m’appelle {NAME:04 00 00 00}.
+
+[06574.187]
+{NAME:05 00 00 00} Fletch !
+
+[06574.188]
+Litler
+
+[06574.189]
+Bien. Soyez les bienvenus.
+
+[06574.190]
+Litler
+
+[06574.191]
+Vous êtes affectés au corps du génie, sous les ordres de {NAME:06 00 00 00}.
+
+[06574.192]
+Dymlos
+
+[06574.193]
+Mais qu’il n’y ait pas de malentendu : sur le terrain, c’est moi qui commande. Vous obéirez à mes ordres, sans exception.
+
+[06574.195]
+Oui, oui, on a compris.
+
+[06574.197]
+Dis plutôt, Dymlos : tu expliquais l’opération, non ? Tu reprends depuis le début ?
+
+[06574.198]
+Dymlos
+
+[06574.199]
+Tu comptes emmener ceux-là aussi ?
+
+[06574.201]
+Ce sont mes gardes du corps. Une objection ? Parce que si oui...
+
+[06574.202]
+Dymlos
+
+[06574.203]
+C’est bon, c’est bon.
+
+[06574.204]
+Dymlos
+
+[06574.205]
+Cette opération a deux objectifs. Le premier : délivrer l’équipe de conception de Belcrant, qui a fait savoir qu’elle voulait se rendre à nous.
+
+[06574.206]
+Dymlos
+
+[06574.207]
+Et...
+
+[06574.209]
+Euh... Belcrant, c’est quoi ?
+
+[06574.211]
+Dis donc, je t’en ai déjà parlé ! C’est l’arme qui se trouve à Dycroft.
+
+[06574.212]
+Dymlos
+
+[06574.213]
+... Puis-je continuer ?
+
+[06574.214]
+Dymlos
+
+[06574.215]
+Le second : délivrer deux camarades qui, déjà chargés de cette mission, sont tombés dans un piège de Miktran, le chef ennemi.
+
+[06574.216]
+Dymlos
+
+[06574.217]
+À savoir maître Clemente et Atwight.
+
+[06574.219]
+Je vois. Et notre mission à nous ?
+
+[06574.221]
+Trouver un moyen de transport jusqu’à Dycroft. J’ai déjà mon idée : il ne me manque que des bras.
+
+[06574.223]
+Des bras... Nous, on ne sait pas bricoler les machines, tu sais ?
+
+[06574.225]
+Oh, pas de souci. Il s’agit juste de fouiller les poubelles.
+
+[06574.227]
+Fouiller... les poubelles ?
+
+[06574.229]
+Bah, vous verrez bien en y allant.
+
+[06574.231]
+Dymlos, c’est tout, hein ? Bon, alors nous, on y va.
+
+[06574.232]
+Dymlos
+
+[06574.233]
+Je compte sur toi, {NAME:06 00 00 00}. J’ai cédé à ton caprice : à ton tour, maintenant, de...
+
+[06574.235]
+Oui, oui, je sais, je sais.
+
+[06574.237]
+Bon, on y va !
+
+[06574.238]
+Dymlos
+
+[06574.239]
+Le plan de l’intérieur de Dycroft n’est toujours pas prêt ? C’est beaucoup trop long.
+
+[06574.240]
+Karell
+
+[06574.241]
+La structure est complexe, et l’équipe qui le dresse passe ses nuits au travail depuis des jours. On n’y peut rien.
+
+[06574.242]
+Dymlos
+
+[06574.243]
+Mais...
+
+[06574.244]
+Karell
+
+[06574.245]
+Je n’aime pas le dire, mais cette opération a un temps de préparation trop court.
+
+[06574.246]
+Karell
+
+[06574.247]
+Toi, d’ordinaire, tu n’établirais jamais un calendrier aussi serré.
+
+[06574.248]
+Dymlos
+
+[06574.249]
+Je le sais. Mais le temps nous manque.
+
+[06574.250]
+Litler
+
+[06574.251]
+Ah, c’est vous. Comment cela s’est-il passé ?
+
+[06574.253]
+On a réuni tout le matériel qu’il fallait. {NAME:06 00 00 00} vient de se mettre au montage.
+
+[06574.254]
+Litler
+
+[06574.255]
+Bien, beau travail. Restez en attente jusqu’à ce que la machine de {NAME:06 00 00 00} soit prête.
+
+[06574.257]
+Euh... on n’est pas encore si fatigués : il n’y a pas quelque chose qu’on pourrait faire pour aider ?
+
+[06574.258]
+Dymlos
+
+[06574.259]
+Inutile. Reposez-vous jusqu’au début de l’opération.
+
+[06574.261]
+Euh, mais...
+
+[06574.262]
+Dymlos
+
+[06574.263]
+C’est un ordre.
+
+[06574.264]
+Karell
+
+[06574.265]
+Enfin, nous acceptons l’intention avec gratitude. Merci, {NAME:01 00 00 00}.
+
+[06574.267]
+Oui...
+
+[06574.268]
+Karell
+
+[06574.269]
+Dymlos, dès que le plan sera prêt, je te le ferai porter dans tes quartiers. Repose-toi, toi aussi.
+
+[06574.270]
+Dymlos
+
+[06574.271]
+... Entendu. Je te laisse la suite.
+
+[06574.272]
+Karell
+
+[06574.273]
+Ouf, eh bien...
+
+[06574.274]
+Litler
+
+[06574.275]
+Je vous donne bien du souci, Karell.
+
+[06574.276]
+Karell
+
+[06574.277]
+D’ordinaire, les égards envers les subordonnés, c’est la spécialité de Dymlos. Bah, une fois de temps en temps, ce n’est pas un mal.
+
+[06574.279]
+Les égards envers les subordonnés... Lui, Dymlos ?
+
+[06574.280]
+Karell
+
+[06574.281]
+Ah, vous ne le savez pas. Voyez-vous, c’est lui que les soldats aiment le plus.
+
+[06574.282]
+Karell
+
+[06574.283]
+Sa force, qui lui a valu le surnom de « Bélier », y est pour quelque chose, mais plus encore, sa manière d’être avec ses hommes.
+
+[06574.284]
+Karell
+
+[06574.285]
+Ni favoritisme ni mépris : toujours juste et droit. Dans les moments durs, il encourage ; les joies, il les partage.
+
+[06574.286]
+Karell
+
+[06574.287]
+Bref, il est normal qu’on l’aime.
+
+[06574.289]
+Tiens... Sans vouloir vexer personne, franchement, ça ne se voit pas.
+
+[06574.290]
+Karell
+
+[06574.291]
+Dymlos, lui aussi, est à bout.
+
+[06574.292]
+Karell
+
+[06574.293]
+Il faut à tout prix que cette opération réussisse. C’est cette pression, sans doute.
+
+[06574.295]
+C’est donc ça...
+
+[06574.296]
+Karell
+
+[06574.297]
+Alors, ne lui en veuillez pas. L’opération terminée, il redeviendra le Dymlos de toujours.
+
+[06574.299]
+Oui, c’est compris !
+
+[06574.300]
+Litler
+
+[06574.301]
+Vous tombez bien. Nous allions exposer l’opération. Commencez, Dymlos.
+
+[06574.302]
+Dymlos
+
+[06574.303]
+D’abord, atterrissage en force sur Dycroft avec la machine de {NAME:06 00 00 00}. Ensuite, nous nous séparons en deux équipes.
+
+[06574.304]
+Dymlos
+
+[06574.305]
+L’équipe A délivre l’équipe de conception de Belcrant, ainsi que Clemente et Atwight.
+
+[06574.306]
+Dymlos
+
+[06574.307]
+L’équipe B sème le trouble chez l’ennemi. Une fois les prisonniers délivrés par l’équipe A, elle s’empare de la salle de contrôle et paralyse un temps toutes les fonctions de Dycroft.
+
+[06574.308]
+Dymlos
+
+[06574.309]
+Profitant de cette paralysie, les équipes A et B se rejoignent et regagnent le Radisrol en capsules de sauvetage.
+
+[06574.310]
+Chaltier
+
+[06574.311]
+Euh... la machine de {NAME:06 00 00 00} ne peut pas servir pour le retour ?
+
+[06574.313]
+Ah, on m’a demandé un engin d’assaut : je n’ai prévu que l’aller.
+
+[06574.314]
+Igtenos
+
+[06574.315]
+Pour s’en servir aussi au retour, il faudrait détacher des hommes à sa garde, afin que l’ennemi ne la détruise pas.
+
+[06574.316]
+Igtenos
+
+[06574.317]
+Dans une opération menée par une poignée d’hommes d’élite, disperser davantage nos forces serait une sottise.
+
+[06574.318]
+Dymlos
+
+[06574.319]
+Exactement. J’annonce maintenant la composition des équipes.
+
+[06574.320]
+Dymlos
+
+[06574.321]
+Équipe A : moi-même, Igtenos, Chaltier et Karell.
+
+[06574.322]
+Dymlos
+
+[06574.323]
+Équipe B : {NAME:06 00 00 00}. Quant à son escorte...
+
+[06574.325]
+{NAME:01 00 00 00} et les autres, évidemment. Ça ne te dérange pas, hein ?
+
+[06574.326]
+Dymlos
+
+[06574.327]
+Entendu... C’est tout. Des questions ?
+
+[06574.328]
+Dymlos
+
+[06574.329]
+Cette opération doit absolument réussir. Quoi qu’il arrive.
+
+[06574.330]
+Dymlos
+
+[06574.331]
+Je compte sur vous tous !
+
+[06574.332]
+Litler
+
+[06574.333]
+La réunion est terminée. Rassemblement au hangar pour tout le monde. Je compte sur votre vaillance.
+
+[06574.335]
+Voilà bien Dymlos. Ce n’est pas pour rien qu’il commande en chef les troupes terrestres : à la veille d’une opération, il garde tout son sang-froid.
+
+[06574.337]
+Je vois. Avec ça, on comprend que les soldats l’aiment.
+
+[06574.339]
+... Eh bien. Mon frère avait raison : il est vraiment à bout.
+
+[06574.341]
+Hein ? Pourtant, Dymlos avait l’air drôlement sûr de lui...
+
+[06574.343]
+Il n’a pas dit sa phrase habituelle.
+
+[06574.345]
+Sa phrase habituelle ?
+
+[06574.347]
+Oui. Avant une opération, il dit toujours ceci à ses hommes : « Revenez vivants. »
+
+[06574.349]
+Tiens... Quelqu’un de bien, alors, qui tient à ses hommes.
+
+[06574.351]
+Mais aujourd’hui, il ne l’a pas dit. Ne plus voir les autres, ça ne lui ressemble pas.
+
+[06574.353]
+C’était donc ça...
+
+[06574.355]
+Bon, en tout cas, allons au hangar.
+
+[06574.356]
+Dymlos
+
+[06574.357]
+............ Ainsi s’achève mon rapport sur les résultats de cette opération.
+
+[06574.358]
+Litler
+
+[06574.359]
+L’équipe de conception a été délivrée saine et sauve : on peut dire que l’opération a réussi. Beau travail à tous.
+
+[06574.360]
+Litler
+
+[06574.361]
+Quant à Atwight, restée prisonnière : faut-il ou non la rechercher, j’entends en décider en conseil avec l’état-major.
+
+[06574.363]
+Oh non... !
+
+[06574.365]
+Pourquoi on ne part pas tout de suite chercher Atwight !?
+
+[06574.366]
+Dymlos
+
+[06574.367]
+Non.
+
+[06574.369]
+Pourquoi !?
+
+[06574.370]
+Dymlos
+
+[06574.371]
+Grâce au concours de l’équipe de conception de Belcrant, l’arme que {NAME:06 00 00 00} met au point sera bientôt achevée.
+
+[06574.372]
+Dymlos
+
+[06574.373]
+À la veille de la bataille finale contre l’armée céleste, qui sera ordonnée dès ce moment-là, nous ne devons rien entreprendre qui soit dénué de sens stratégique.
+
+[06574.375]
+Ce n’est pas dénué de sens ! Sans Atwight, cette guerre... !
+
+[06574.377]
+{NAME:01 00 00 00} !
+
+[06574.378]
+Dymlos
+
+[06574.379]
+Je ne puis mettre d’autres vies en péril pour la sauver, elle seule. C’est cela, une organisation ; c’est cela, une armée.
+
+[06574.381]
+Mais c’est une camarade, elle se bat à vos côtés ! Atwight y croit sûrement, elle aussi : que ses camarades viendront la sauver !
+
+[06574.382]
+Dymlos
+
+[06574.383]
+C’est bien parce qu’elle est une camarade qu’elle le comprend : mon jugement n’était pas une erreur.
+
+[06574.385]
+Vous le pensez vraiment !? Atwight... va peut-être se faire tuer !
+
+[06574.386]
+Dymlos
+
+[06574.387]
+... Cela ne pèse pas face à la victoire de l’armée.
+
+[06574.389]
+Moi... moi, j’ai toujours cru que vous étiez un héros.
+
+[06574.391]
+Plus fort que personne, plus généreux que personne, prêt à risquer sa vie pour ses camarades : un vrai héros.
+
+[06574.393]
+Mais vous n’étiez pas ça ! Un vrai héros n’abandonnerait jamais Atwight !
+
+[06574.395]
+Vous n’êtes pas un héros ! Rien qu’un lâche !
+
+[06574.396]
+Dymlos
+
+[06574.397]
+........
+................
+
+[06574.398]
+Clemente
+
+[06574.399]
+Allons, allons, cela suffit. Te voilà soulagé, à présent.
+
+[06574.400]
+Clemente
+
+[06574.401]
+La décision est dure, sans doute, mais ceux qui commandent aux autres se heurtent parfois à des questions aussi cruelles.
+
+[06574.402]
+Clemente
+
+[06574.403]
+Cette douleur-là, je voudrais que tu la comprennes, toi aussi.
+
+[06574.405]
+........
+................
+
+[06574.406]
+Litler
+
+[06574.407]
+La réunion est donc close. Que chacun reste en attente jusqu’aux prochains ordres.
+
+[06574.408]
+Litler
+
+[06574.409]
+Comme le dit Dymlos, le jour de la bataille finale approche. Reposez-vous bien et reprenez des forces.
+
+[06574.410]
+Litler
+
+[06574.411]
+{NAME:06 00 00 00} étant arrivée, commençons.
+
+[06574.412]
+Litler
+
+[06574.413]
+Général Dymlos. Je vous redemande confirmation de ce que vous avez déclaré tout à l’heure : est-ce exact ?
+
+[06574.414]
+Dymlos
+
+[06574.415]
+Oui, c’est exact.
+
+[06574.416]
+Dymlos
+
+[06574.417]
+Pendant l’essai de la nouvelle arme avec le professeur {NAME:06 00 00 00}, j’ai délivré Atwight de ma propre initiative.
+
+[06574.418]
+Dymlos
+
+[06574.419]
+Mon acte a passé outre la décision de l’état-major. Il ne saurait en aucun cas être excusé.
+
+[06574.421]
+Attendez, commandant ! Ce n’est pas la faute de Dymlos ! C’est moi qui l’y ai poussé... !
+
+[06574.422]
+Dymlos
+
+[06574.423]
+Laissez, {NAME:01 00 00 00}.
+
+[06574.425]
+Dymlos !
+
+[06574.426]
+Dymlos
+
+[06574.427]
+Quel qu’en soit le résultat, une faute commise doit être punie.
+
+[06574.428]
+Dymlos
+
+[06574.429]
+Et puis, tel que vous me voyez, je commande à d’autres. Si je ne suis pas puni, quel exemple pour mes subordonnés ?
+
+[06574.431]
+Mais... ! Dis, {NAME:06 00 00 00}, dis quelque chose, toi aussi !
+
+[06574.432]
+Litler
+
+[06574.433]
+{NAME:06 00 00 00}. Le témoignage de Dymlos est-il conforme aux faits ?
+
+[06574.435]
+Conforme.
+
+[06574.437]
+{NAME:06 00 00 00} !
+
+[06574.438]
+Litler
+
+[06574.439]
+... Bien.
+
+[06574.440]
+Litler
+
+[06574.441]
+Général Dymlos, je prononce la sanction.
+
+[06574.442]
+Litler
+
+[06574.443]
+Agir de son propre chef en cours d’opération et passer outre les instructions de l’état-major méritent un châtiment sévère.
+
+[06574.444]
+Litler
+
+[06574.445]
+En conséquence, je vous nomme commandant de première ligne de « l’opération d’assaut sur Dycroft ».
+
+[06574.446]
+Dymlos
+
+[06574.447]
+... Pardon ? Qu-que voulez-vous dire, commandant !
+
+[06574.448]
+Litler
+
+[06574.449]
+Commandant de première ligne : le poste où l’on a le plus de chances de mourir. J’ai jugé le châtiment bien assez sévère.
+
+[06574.450]
+Dymlos
+
+[06574.451]
+Ne vous moquez pas de moi ! Il était déjà décidé que j’occuperais ce poste... !
+
+[06574.452]
+Clemente
+
+[06574.453]
+Oho, voilà donc ce qui s’est décidé en mon absence ?
+
+[06574.454]
+Clemente
+
+[06574.455]
+Avant qu’ils ne me capturent, c’est moi qui devais être commandant de première ligne, il me semble ?
+
+[06574.456]
+Dymlos
+
+[06574.457]
+M-mais ! Vu votre grand âge, maître Clemente, j’avais convenu avec Karell de vous remplacer...
+
+[06574.458]
+Karell
+
+[06574.459]
+Il en a été question, c’est vrai, mais ce n’était qu’une parole donnée, non un ordre officiel de l’armée, il me semble.
+
+[06574.460]
+Dymlos
+
+[06574.461]
+Karell, toi...
+
+[06574.462]
+Litler
+
+[06574.463]
+Résignez-vous, Dymlos. La sanction est déjà arrêtée.
+
+[06574.464]
+Dymlos
+
+[06574.465]
+Commandant...
+
+[06574.466]
+Litler
+
+[06574.467]
+Je comprends votre manière à vous d’assumer vos responsabilités.
+
+[06574.468]
+Litler
+
+[06574.469]
+Mais songez aussi à ce qu’éprouvent ceux qui ne veulent pas vous perdre.
+
+[06574.470]
+Dymlos
+
+[06574.471]
+... Oui.
+
+[06574.472]
+Dymlos
+
+[06574.473]
+Commandant de première ligne de l’opération d’assaut sur Dycroft : j’accepte respectueusement cette charge !
+
+[06574.474]
+Litler
+
+[06574.475]
+Bien. Le commandant de première ligne étant désigné, j’aimerais ordonner l’assaut sans trop tarder, mais...
+
+[06574.476]
+Karell
+
+[06574.477]
+{NAME:06 00 00 00}, où en sont les Swordians ?
+
+[06574.479]
+Les données de combat sont parfaites ! Il ne reste que les réglages. Ils peuvent être prêts tout de suite.
+
+[06574.480]
+Litler
+
+[06574.481]
+Dans ce cas, que l’équipe des Swordians se rende au laboratoire avec {NAME:06 00 00 00}.
+
+[06574.482]
+Litler
+
+[06574.483]
+Faites-vous expliquer les Swordians, et sachez les manier parfaitement avant le début de l’opération.
+
+[06574.484]
+Litler
+
+[06574.485]
+C’est tout. Rompez !
+
+[06574.486]
+Litler
+
+[06574.487]
+{NAME:01 00 00 00}.
+
+[06574.488]
+Litler
+
+[06574.489]
+Comme commandant en chef de l’armée terrestre, et aussi comme ami de Dymlos, laissez-moi vous remercier.
+
+[06574.490]
+Litler
+
+[06574.491]
+... Merci. Grâce à vous, Dymlos et Atwight ont pu être sauvés tous les deux.
+
+[06574.493]
+Et nous, on fait quoi, maintenant ?
+
+[06574.495]
+Tant qu’à être venus à cette époque, vous voulez voir ça, non ?
+
+[06574.497]
+Voir ça... Ne me dis pas que... !
+
+[06574.499]
+L’instant où naissent les Swordians. Disons que c’est votre récompense pour l’affaire Dymlos.
+
+[06574.501]
+Sur ce, je compte sur vous pour l’escorte jusqu’au Dépôt de matériel !
+
+[06574.503]
+Commandant, les Swordians sont achevés !
+
+[06574.504]
+Litler
+
+[06574.505]
+Je vois, les Swordians...
+
+[06574.506]
+Litler
+
+[06574.507]
+Bien. Transmettez aux équipes techniques : qu’on hâte les préparatifs de décollage du Radisrol.
+
+[06574.508]
+Soldat
+
+[06574.509]
+Alors, commandant, c’est enfin... !
+
+[06574.510]
+Litler
+
+[06574.511]
+Dès le retour de l’équipe des Swordians, nous lançons l’offensive générale sur Dycroft. Faites reposer les hommes par roulement, en deux groupes.
+
+[06574.512]
+Litler
+
+[06574.513]
+On peut leur servir un peu d’alcool.
+
+[06574.514]
+Soldat
+
+[06574.515]
+À vos ordres ! Tout le monde va être content !
+
+[06574.516]
+Litler
+
+[06574.517]
+Beau travail, {NAME:01 00 00 00}. Prenez du repos, vous aussi.
+
+[06574.519]
+Compris, commandant.
+
+[06574.521]
+Pardon de vous avoir fait attendre, commandant.
+
+[06574.522]
+Litler
+
+[06574.523]
+Nous allions justement commencer. Écoutez, vous aussi.
+
+[06574.524]
+Litler
+
+[06574.525]
+À tous : aujourd’hui à 13 heures, notre armée lancera l’offensive générale contre Dycroft, le repaire ennemi.
+
+[06574.526]
+Litler
+
+[06574.527]
+À la lettre, cette seule bataille décidera du sort du monde. Battez-vous, je vous le demande, jusqu’à la limite de vos forces.
+
+[06574.528]
+Dymlos
+
+[06574.529]
+À vos ordres !
+
+[06574.530]
+Litler
+
+[06574.531]
+La clé de cette opération, c’est vous, bien sûr, l’équipe des Swordians.
+
+[06574.532]
+Litler
+
+[06574.533]
+Autour de Dymlos, votre chef, et de Karell, son second, parvenez coûte que coûte jusqu’à l’objectif final : Miktran, le chef ennemi.
+
+[06574.534]
+Karell
+
+[06574.535]
+Comptez sur nous. Miktran, je l’abattrai de mes propres mains !
+
+[06574.536]
+Dymlos
+
+[06574.537]
+Vous, vous serez le corps franc : semez le trouble chez l’ennemi.
+
+[06574.538]
+Dymlos
+
+[06574.539]
+Après la dernière opération, l’ennemi doit avoir renforcé sa garde.
+
+[06574.540]
+Dymlos
+
+[06574.541]
+Ce sera difficile, mais vous en êtes capables. J’ai confiance en vous, {NAME:01 00 00 00}.
+
+[06574.543]
+Oui ! Comptez sur nous !
+
+[06574.544]
+Dymlos
+
+[06574.545]
+Pour ma part, je n’ai qu’une chose à dire.
+
+[06574.546]
+Dymlos
+
+[06574.547]
+Se battre jusqu’à la limite de ses forces et mourir sont deux choses différentes. ... Revenez vivants, tous !
+
+[06574.548]
+Compris !
+
+[06574.549]
+Igtenos
+
+[06574.550]
+Chaltier
+
+[06574.551]
+Karell
+
+[06574.552]
+Atwight
+
+[06574.553]
+Clemente
+
+[06574.554]
+Litler
+
+[06574.555]
+L’opération commence ! Radisrol, en avant !!
+
+[06574.557]
+A-aïe... Ça va, {NAME:02 00 00 00}... ?
+
+[06574.559]
+Oui, ça va. Et les autres... ?
+
+[06574.561]
+Pas encore claqué, moi. Comme tu vois... !
+
+[06574.562]
+Chaltier
+
+[06574.563]
+Moi aussi, je m’en tire, on dirait. Je me suis cogné fort à l’épaule, tout de même.
+
+[06574.565]
+Vraiment, il fait n’importe quoi, le commandant ! Un rien de travers, et on partait tous pour l’autre monde.
+
+[06574.566]
+Karell
+
+[06574.567]
+L’homme qui a sidéré {NAME:06 00 00 00}... Le titre n’a rien d’enviable, commandant.
+
+[06574.568]
+Litler
+
+[06574.569]
+Faites graver cela sur ma tombe. En tout cas, l’entrée en force a réussi. Passez sans tarder à l’action suivante.
+
+[06574.570]
+Dymlos
+
+[06574.571]
+À vos ordres ! Équipe des Swordians, en avant !
+
+[06574.573]
+Nous aussi, on y va !
+
+[06574.575]
+Oui !
+
+[06574.576]
+Bon voyage.
+
+[06574.577]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06574.578]
+Voulez-vous passer la nuit ?
+
+[06574.580]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06574.581]
+Reposez-vous bien.
+
+[06574.582]
+Bonjour.
+
+[06574.583]
+Vous n’avez pas assez d’argent.
+
+[06574.584]
+Au plaisir de vous revoir.
+
+[06574.589]
+Obtenu : {16:26 0A}.
+
+[06574.591]
+Obtenu : {08:FF FF FF FF}.
+
+[06574.593]
+Trouvé : {16:26 12}, mais vous n’avez plus de place.
+
+[06574.595]
+Il n’y a rien ici.
+
+[06574.596]
+Ravitaillement
+
+[06574.597]
+Ici, l’unité de ravitaillement.
+
+[06574.598]
+Bon courage.
+
+[06574.599]
+Quand vous voulez.
+
+[06574.600]
+Ravitaillement
+
+[06574.601]
+Secourir les soldats blessés, c’est notre travail. Les soins sont payants, cela dit...
+
+[06574.602]
+Secourir les soldats blessés, c’est notre mission.
+
+[06574.603]
+Infirmier
+
+[06574.604]
+Infirmier
+
+[06574.605]
+Un premier soin avant de partir ?
+{03:00 00 00 00}　Oui ({0B:01 00 00 00}{06:FD 02 00 00}{0B:00 00 00 00} Gald)　
+　Non　
+
+[06574.606]
+Infirmier
+
+[06574.607]
+Premiers soins, c’est parti !
+
+[06574.608]
+Vous voilà remis.
+
+[06574.609]
+Cette fois, c’est offert.
+
+[06574.610]
+Infirmier
+
+[06574.611]
+Infirmier
+
+[06574.612]
+Quand vous voulez.
+

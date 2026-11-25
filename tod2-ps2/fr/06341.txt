@@ -1,0 +1,46 @@
+[06341.001]
+Canaux souterrains de Darilsheid
+
+[06341.002]
+Canaux souterrains de Darilsheid
+
+[06341.004]
+Ici, les canaux souterrains.
+
+[06341.005]
+Bon voyage.
+
+[06341.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06341.007]
+Voulez-vous passer la nuit ?
+
+[06341.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06341.010]
+Reposez-vous bien.
+
+[06341.011]
+Bonjour.
+
+[06341.012]
+Vous n’avez pas assez d’argent.
+
+[06341.013]
+Au plaisir de vous revoir.
+
+[06341.018]
+Obtenu : {16:25 BA}.
+
+[06341.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06341.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06341.024]
+Il n’y a rien ici.
+

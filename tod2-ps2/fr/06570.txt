@@ -1,0 +1,94 @@
+[06570.001]
+Base de l’armée terrestre
+
+[06570.002]
+Base de l’armée terrestre
+
+[06570.004]
+Le feu de l’âtre brûle sans jamais faiblir.
+
+[06570.006]
+Une civière et quelques instruments médicaux. Tout est usé jusqu’à la corde.
+
+[06570.008]
+Le peu de médicaments qui restent est rangé ici.
+
+[06570.009]
+Troupier
+
+[06570.010]
+Les huiles qui sont dans le Radisrol ne doivent rien comprendre à nos misères de sans-grade.
+
+[06570.011]
+Troupier
+
+[06570.012]
+Nous, on risque notre peau sur le terrain. On pourrait nous traiter un peu mieux, quand même.
+
+[06570.013]
+Troupier
+
+[06570.014]
+Bah, en haut, ils ont leurs soucis à eux, sûrement. Mais j’aimerais qu’ils comprennent un peu ceux des sans-grade qui se battent au péril de leur vie.
+
+[06570.015]
+Troupier
+
+[06570.016]
+Saleté ! Si cette blessure était guérie, j’aurais pu participer à l’assaut de Dycroft.
+
+[06570.017]
+Troupier
+
+[06570.018]
+Ne servir à rien au moment décisif, c’est lamentable...
+
+[06570.019]
+Troupier
+
+[06570.020]
+Hmf, puisque c’est comme ça, je les encouragerai du sol de toutes mes forces.
+
+[06570.021]
+Troupier
+
+[06570.022]
+« Crève, Miktran ! », voilà !
+
+[06570.023]
+Bon voyage.
+
+[06570.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06570.025]
+Voulez-vous passer la nuit ?
+
+[06570.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06570.028]
+Reposez-vous bien.
+
+[06570.029]
+Bonjour.
+
+[06570.030]
+Vous n’avez pas assez d’argent.
+
+[06570.031]
+Au plaisir de vous revoir.
+
+[06570.036]
+Obtenu : {16:25 BA}.
+
+[06570.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06570.040]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06570.042]
+Il n’y a rien ici.
+

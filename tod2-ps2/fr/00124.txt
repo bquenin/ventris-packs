@@ -1,0 +1,24 @@
+[00124.001]
+Ça mène vraiment à la sortie, par là ? Je n’ai qu’à moitié confiance...
+
+[00124.002]
+Si cela te déplaît, séparons-nous ici... si tu veux errer à jamais dans ces canaux.
+
+[00124.003]
+C’est quoi, cette façon de parler !
+
+[00124.004]
+Je doute que vous en sortiez seuls, vous deux.
+
+[00124.005]
+Dis donc, tu ne manques pas d’air, espèce de... !
+
+[00124.006]
+Ouah ! C’était quoi !? Dis, {NAME:03 00 00 00}, c’est fou ! J’ai vu comme l’ombre d’un poisson ! Un poisson géant tapi dans les canaux !? Trop classe !
+
+[00124.007]
+...... Pff... on y va ?
+
+[00124.008]
+Oui.
+

@@ -1,0 +1,15 @@
+[00890.001]
+C’est vrai. On s’est rencontrés dans ces Ruines de Laguna, hein...
+
+[00890.002]
+Hi hi. On dirait déjà que c’était il y a très longtemps.
+
+[00890.003]
+........
+
+[00890.004]
+... Dis, {NAME:01 00 00 00}, on y va ?
+
+[00890.005]
+O-oui...
+

@@ -1,0 +1,159 @@
+[06755.001]
+Village Katz : maison de Papy
+
+[06755.002]
+Village Katz
+
+[06755.003]
+Maison de Papy
+
+[06755.004]
+Papy
+
+[06755.005]
+Bien ! Voilà une façon de la faire tomber comme on en voit rarement, miou !
+
+[06755.007]
+« Un bol par jour. » Mangez un repas au moins une fois par jour.
+
+[06755.009]
+Un bonsaï superbe.
+
+[06755.011]
+Un placard. On peut y cacher quelque chose.
+
+[06755.012]
+Papy
+
+[06755.013]
+À mon âge, les connaissances se font rares, miou.
+
+[06755.014]
+Papy
+
+[06755.015]
+Un vieux qui vit seul ne manque de rien, miou, mais de temps en temps, on aimerait quelqu’un à qui parler, miou...
+
+[06755.016]
+Papy
+
+[06755.017]
+À mon âge, les connaissances se font rares, miou.
+
+[06755.018]
+Papy
+
+[06755.019]
+Un vieux qui vit seul ne manque de rien, miou, mais de temps en temps, on aimerait quelqu’un à qui parler, miou...
+
+[06755.020]
+Papy
+
+[06755.021]
+Un petit voyageur est venu habiter chez moi, miou.
+
+[06755.022]
+Papy
+
+[06755.023]
+Là-dessous, il y a un foyer encastré dans le sol, miou.
+
+[06755.024]
+Papy
+
+[06755.025]
+{08:02 0C 00 00}. Un bien joli nom, miou.
+
+[06755.027]
+Vous voulez quelque chose, mia ?
+
+[06755.029]
+　Oui　
+　Non　
+
+[06755.031]
+Appelez-moi quand vous aurez besoin de moi, mia.
+
+[06755.033]
+Moi aussi, j’ai une maison maintenant, mia.
+
+[06755.035]
+Papy m’appelle « mon petit {08:02 0C 00 00} », mia. Ça me gêne un peu, mia.
+
+[06755.037]
+Maintenant, ici, je vais bien m’occuper de Papy, mia !
+
+[06755.039]
+Je vais me promener, mia !
+
+[06755.040]
+Papy
+
+[06755.041]
+Holà !
+
+[06755.042]
+Papy
+
+[06755.043]
+Ici, pas de chaussures sales, miou ! Et si vous tenez absolument à mettre les pieds chez moi tout chaussés...
+
+[06755.044]
+Papy
+
+[06755.045]
+... alors ôtez d’abord la neige de vos pieds sur le « paillasson gratte-gratte » que voilà, miou !
+
+[06755.047]
+Entrer ?
+
+[06755.049]
+　Entrer　
+　Ne pas entrer　
+
+[06755.050]
+Papy
+
+[06755.051]
+Bien ! Voilà une façon de la faire tomber comme on en voit rarement, miou !
+
+[06755.053]
+La promenade était chouette, mia. Appelez-moi quand vous aurez besoin de moi, mia.
+
+[06755.054]
+Bon voyage.
+
+[06755.055]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06755.056]
+Voulez-vous passer la nuit ?
+
+[06755.058]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06755.059]
+Reposez-vous bien.
+
+[06755.060]
+Bonjour.
+
+[06755.061]
+Vous n’avez pas assez d’argent.
+
+[06755.062]
+Au plaisir de vous revoir.
+
+[06755.067]
+Obtenu : {16:25 D6}.
+
+[06755.069]
+Obtenu : {08:FF FF FF FF}.
+
+[06755.071]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06755.073]
+Il n’y a rien ici.
+

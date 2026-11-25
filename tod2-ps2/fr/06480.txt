@@ -1,0 +1,46 @@
+[06480.001]
+Cherik : auberge
+
+[06480.002]
+Cherik
+
+[06480.004]
+Des draps de rechange, entre autres.
+
+[06480.005]
+Bon voyage.
+
+[06480.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06480.007]
+Voulez-vous passer la nuit ?
+
+[06480.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06480.010]
+Reposez-vous bien.
+
+[06480.011]
+Bonjour.
+
+[06480.012]
+Vous n’avez pas assez d’argent.
+
+[06480.013]
+Au plaisir de vous revoir.
+
+[06480.018]
+Obtenu : {16:25 BA}.
+
+[06480.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06480.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06480.024]
+Il n’y a rien ici.
+

@@ -1,0 +1,9 @@
+[01120.001]
+Allons à la Mine désaffectée Oberon chercher le trésor du marchand !
+
+[01120.002]
+La mine est au nord-ouest de Neustadt, dans la crête.
+
+[01120.003]
+On y va !
+

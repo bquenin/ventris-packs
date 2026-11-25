@@ -1,0 +1,6 @@
+[00694.001]
+Attention : pas dehors avec cette clé. Elle ne supporte pas les brusques écarts de température : elle ferait craaac.
+
+[00694.002]
+Donc il faut vite trouver les autres clés.
+

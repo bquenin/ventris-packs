@@ -1,0 +1,33 @@
+[00856.001]
+Dites, j’ai un service à vous demander à tous : vous voulez bien ?
+
+[00856.002]
+Qu’y a-t-il ? Te voilà bien humble, pour une fois...
+
+[00856.003]
+Ceux qui risquent de mourir à la bataille finale, vos données, vite★
+
+[00856.004]
+T’es bête ou quoi ! Dis pas des trucs qui portent la poisse !
+
+[00856.005]
+Hé hé. Personne ne mourra. Pas vrai, {NAME:01 00 00 00}.
+
+[00856.006]
+Oui ! Évidemment !
+
+[00856.007]
+Oui... Je ne laisserai mourir personne. Jamais.
+
+[00856.008]
+Ah bon~♪ Alors après, une dissection chacun, hein.
+
+[00856.009]
+Na
+
+[00856.010]
+Non !
+
+[00856.011]
+Non.
+

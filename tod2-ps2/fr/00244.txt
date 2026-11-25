@@ -1,0 +1,12 @@
+[00244.001]
+L’endroit où on va, c’est dans la Crête des Nuages blancs, non...... Donc on va encore marcher dans cette brume.
+
+[00244.002]
+S’y perdre serait fâcheux...... Pas d’initiative personnelle : nous restons groupés.
+
+[00244.003]
+Faisons tous comme dit {NAME:04 00 00 00} ! Se perdre, ce serait grave !
+
+[00244.004]
+Je parlais de toi.
+

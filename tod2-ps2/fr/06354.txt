@@ -1,0 +1,86 @@
+[06354.001]
+Vallée de Harmentz
+
+[06354.002]
+Vallée de Harmentz
+
+[06354.004]
+Ici, la vallée de Harmentz.
+
+[06354.006]
+{03:00 00 00 00}{09:25 00 00 00} : sauter
+{09:26 00 00 00} : annuler
+
+[06354.007]
+Une rafale !
+
+[06354.008]
+Vous chancelez !
+
+[06354.010]
+Ici, si on rate un saut et qu’on tombe, on ne s’en tirera pas à bon compte.
+
+[06354.012]
+Écoute, {NAME:01 00 00 00} : on avance petit à petit, en cherchant les endroits où descendre et ceux où sauter.
+
+[06354.014]
+C’est quoi, ce truc ?
+
+[06354.016]
+Ça... c’est le pendentif de cette fille. Aucun doute !
+
+[06354.018]
+Elle a dû le perdre en marchant, ou en descendant la falaise.
+
+[06354.020]
+Hé hé~ !
+
+[06354.022]
+Qu’est-ce qui te prend ? Tu fais peur, à ricaner tout d’un coup.
+
+[06354.024]
+Que ce soit moi qui ramasse ce qu’elle a perdu... c’est bien le destin, hein !
+
+[06354.026]
+... Haa. Comment tu fais pour toujours voir les choses du bon côté, et rien que du bon côté ?
+
+[06354.028]
+Bref, garde-le. Si on la croise, tu le lui rendras.
+
+[06354.029]
+Bon voyage.
+
+[06354.030]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06354.031]
+Voulez-vous passer la nuit ?
+
+[06354.033]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06354.034]
+Reposez-vous bien.
+
+[06354.035]
+Bonjour.
+
+[06354.036]
+Vous n’avez pas assez d’argent.
+
+[06354.037]
+Au plaisir de vous revoir.
+
+[06354.042]
+Obtenu : {16:25 FA}.
+
+[06354.044]
+Obtenu : {08:FF FF FF FF}.
+
+[06354.046]
+Trouvé : {16:26 02}, mais vous n’avez plus de place.
+
+[06354.048]
+Il n’y a rien ici.
+

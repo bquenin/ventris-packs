@@ -1,0 +1,3 @@
+[01258.001]
+Je suis {NAME:06 00 00 00} Berselius. Surpris, hein ?
+

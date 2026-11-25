@@ -1,0 +1,43 @@
+[06538.001]
+Vangelo, la Cité d’azur
+
+[06538.002]
+Vangelo, la Cité d’azur
+
+[06538.003]
+Bon voyage.
+
+[06538.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06538.005]
+Voulez-vous passer la nuit ?
+
+[06538.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06538.008]
+Reposez-vous bien.
+
+[06538.009]
+Bonjour.
+
+[06538.010]
+Vous n’avez pas assez d’argent.
+
+[06538.011]
+Au plaisir de vous revoir.
+
+[06538.016]
+Obtenu : {16:25 B6}.
+
+[06538.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06538.020]
+Trouvé : {16:25 BE}, mais vous n’avez plus de place.
+
+[06538.022]
+Il n’y a rien ici.
+

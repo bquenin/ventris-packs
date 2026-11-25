@@ -1,0 +1,21 @@
+[00876.001]
+Dis, {NAME:03 00 00 00}... depuis qu’on est partis, j’ai un peu grandi, tu crois ?
+
+[00876.002]
+... Mmh, va savoir. Toujours aussi dur à réveiller... et tu fourres ton nez dans tous les ennuis...
+
+[00876.003]
+Urgh...
+
+[00876.004]
+... Mais bon, ces ennuis, tu les as tous réglés, et maintenant c’est toi qui nous entraînes. Tu as grandi, va...
+
+[00876.005]
+Tu crois... ?
+
+[00876.006]
+Tu as traversé mille ans et sauvé le monde, toi ! Tête haute, allons voir Rutee !
+
+[00876.007]
+Mm
+

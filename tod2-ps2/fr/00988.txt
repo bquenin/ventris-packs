@@ -1,0 +1,33 @@
+[00988.001]
+... toi...... réveille...... toi......... réveille...... toi...
+
+[00988.002]
+............ M-mmh...
+
+[00988.003]
+... Réveille-toi... {NAME:01 00 00 00}, réveille-toi !
+
+[00988.004]
+... {NAME:02 00 00 00}... ?
+
+[00988.005]
+Tu reviens à toi, {NAME:01 00 00 00} ?
+
+[00988.006]
+... Hein ? On est où ? Ah, mais oui ! Et Elraine !?
+
+[00988.007]
+Elle n’est plus là... Non, il serait plus juste de dire que c’est nous qui ne sommes plus là.
+
+[00988.008]
+C’est nous qui ne sommes plus là... ? Hein ? Et {NAME:03 00 00 00} et les autres ?
+
+[00988.009]
+... Je pense qu’ils ont été projetés ailleurs que nous.
+
+[00988.010]
+Projetés... par Elraine !? Pas le temps de traîner ! Il faut retrouver {NAME:03 00 00 00} et les autres !
+
+[00988.011]
+O-oui... d’accord.
+

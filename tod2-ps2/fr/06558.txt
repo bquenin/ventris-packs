@@ -1,0 +1,97 @@
+[06558.001]
+Sanctuaire de Lumière
+
+[06558.002]
+Sanctuaire de Lumière
+
+[06558.003]
+Sanctuaire de Lumière
+
+[06558.004]
+Sanctuaire de Lumière
+
+[06558.005]
+Soldat
+
+[06558.006]
+Le cercle magique est régi par la volonté de dame Elraine.
+
+[06558.008]
+C’est donc ça ? Le cercle magique qui mène à Dycroft.
+
+[06558.009]
+Soldat
+
+[06558.010]
+Qui êtes-vous, vous autres ? Seuls ceux que dame Elraine a admis au château peuvent venir ici.
+
+[06558.011]
+Soldat
+
+[06558.012]
+Faites demi-tour sur-le-champ... Hé là !
+
+[06558.014]
+Tu m’entends, hein, Elraine ! On ne se sauve pas, on ne se cache pas ! Emmène-nous à Dycroft !
+
+[06558.015]
+Elraine
+
+[06558.016]
+... Vous êtes donc venus. Soit. Qu’il en soit fait selon votre désir...
+
+[06558.017]
+Soldat
+
+[06558.018]
+C-c’est... ! Le chemin de Dycroft... !
+
+[06558.019]
+Soldat
+
+[06558.020]
+Seuls ceux que dame Elraine a admis au château peuvent venir ici.
+
+[06558.021]
+Soldat
+
+[06558.022]
+Retirez-vous sans tarder.
+
+[06558.023]
+Bon voyage.
+
+[06558.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06558.025]
+Voulez-vous passer la nuit ?
+
+[06558.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06558.028]
+Reposez-vous bien.
+
+[06558.029]
+Bonjour.
+
+[06558.030]
+Vous n’avez pas assez d’argent.
+
+[06558.031]
+Au plaisir de vous revoir.
+
+[06558.036]
+Obtenu : {16:25 BA}.
+
+[06558.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06558.040]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06558.042]
+Il n’y a rien ici.
+

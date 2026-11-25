@@ -1,0 +1,12 @@
+[00660.001]
+Dites, là, on parle avec des gens d’il y a mille ans, on agit avec eux, hein ? C’est fou, quand même.
+
+[00660.002]
+Si on va par là, {NAME:02 00 00 00} et moi, on vient de dix ans plus tard, et {NAME:04 00 00 00}, de dix-huit ans plus tôt. De ta propre époque, il n’y a que le bon à rien, là.
+
+[00660.003]
+Qui ça, un bon à rien ! ... N’empêche, vu comme ça, c’est vrai qu’on forme une sacrée équipe de dingues.
+
+[00660.004]
+Pourtant, on dirait qu’on se connaît depuis toujours.
+

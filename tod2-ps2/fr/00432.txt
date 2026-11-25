@@ -1,0 +1,9 @@
+[00432.001]
+Moi aussi, j’ai gaffé... Si j’avais su, j’aurais dû veiller davantage sur cette petite, à ce moment-là. Elle a la tête sur les épaules, je me disais que ça irait, mais de là à imaginer un geste aussi radical...
+
+[00432.002]
+Si on va par là, moi aussi. Sans rien savoir de ce que ressentait {NAME:02 00 00 00}, je lui ai lancé des mots irréfléchis...
+
+[00432.003]
+Regretter ne sert à rien. Rattraper {NAME:02 00 00 00} au plus vite : ne pensez qu’à ça.
+

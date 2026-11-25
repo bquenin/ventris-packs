@@ -1,0 +1,189 @@
+[06513.001]
+Calviola, la Terre sainte
+
+[06513.002]
+Calviola, la Terre sainte
+
+[06513.003]
+Chef
+
+[06513.004]
+{16:34 7C} : tu en prépares ?
+
+[06513.005]
+Chef
+
+[06513.006]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06513.008]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06513.009]
+Chef
+
+[06513.010]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06513.011]
+Chef
+
+[06513.012]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06513.013]
+Chef
+
+[06513.014]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06513.016]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06513.017]
+Chef
+
+[06513.018]
+Tu n’as pas assez d’argent.
+
+[06513.019]
+Chef
+
+[06513.020]
+Je te vends la recette : {16:34 7C}.
+
+[06513.021]
+Chef
+
+[06513.022]
+Bah, tant pis.
+
+[06513.023]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06513.024]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06513.025]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06513.026]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06513.027]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06513.028]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06513.029]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06513.030]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06513.031]
+Chef
+
+[06513.032]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06513.033]
+Chef
+
+[06513.034]
+Mais tu as les ingrédients.
+
+[06513.035]
+Chef
+
+[06513.036]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06513.038]
+{03:00 00 00 00}　Oui
+　Non
+
+[06513.039]
+Chef
+
+[06513.040]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06513.041]
+Chef
+
+[06513.042]
+Dommage. C’est vraiment délicieux...
+
+[06513.043]
+Chef
+
+[06513.044]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06513.045]
+Chef
+
+[06513.046]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06513.047]
+Chef
+
+[06513.048]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06513.050]
+Recette ramassée : {16:34 7C}.
+
+[06513.052]
+Recette apprise : {16:34 90}.
+
+[06513.053]
+Bon voyage.
+
+[06513.054]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06513.055]
+Voulez-vous passer la nuit ?
+
+[06513.057]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06513.058]
+Reposez-vous bien.
+
+[06513.059]
+Bonjour.
+
+[06513.060]
+Vous n’avez pas assez d’argent.
+
+[06513.061]
+Au plaisir de vous revoir.
+
+[06513.066]
+Obtenu : {16:25 DE}.
+
+[06513.068]
+Obtenu : {08:FF FF FF FF}.
+
+[06513.070]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06513.072]
+Il n’y a rien ici.
+

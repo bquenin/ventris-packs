@@ -1,0 +1,298 @@
+[06591.001]
+Dépôt de matériel : laboratoire des Swordians
+
+[06591.002]
+Dépôt de matériel
+
+[06591.003]
+Laboratoire des Swordians
+
+[06591.005]
+Bon, on expédie ça vite fait ?
+
+[06591.007]
+Et voilà... c’est bon !
+
+[06591.009]
+Prêts, vous autres ? Gravez-le bien dans votre mémoire : cet instant historique !
+
+[06591.011]
+C-c’est incroyable... !
+
+[06591.013]
+Mais qu’est-ce qui se passe ? Ça éblouit, on n’y voit rien du tout.
+
+[06591.015]
+Ç-ça, c’est quelque chose... Les voilà, les Swordians... !
+
+[06591.016]
+Dymlos
+
+[06591.017]
+Je suis surpris : il est bien plus maniable que le prototype.
+
+[06591.018]
+Igtenos
+
+[06591.019]
+Est-ce... vraiment une épée ? Je n’ai même pas la sensation de la tenir. On dirait une partie de ma propre main.
+
+[06591.020]
+Chaltier
+
+[06591.021]
+Rien qu’à la prendre en main, on sent sa valeur. Avec cette épée, j’ai l’impression de ne pouvoir perdre contre personne.
+
+[06591.023]
+Ne vous étonnez pas pour si peu. Les Swordians ont des pouvoirs bien plus impressionnants.
+
+[06591.024]
+Karell
+
+[06591.025]
+Des pouvoirs plus impressionnants... ?
+
+[06591.027]
+Prête-le-moi un instant, frangin.
+
+[06591.029]
+Haaaaah !!
+
+[06591.031]
+Oups, j’y suis allée un peu fort ?
+
+[06591.032]
+Karell
+
+[06591.033]
+Qu-qu’est-ce que c’était... !?
+
+[06591.035]
+Dymlos le sait, je pense : celui qui tient cette épée peut user d’un pouvoir spécial, les « sorts ».
+
+[06591.037]
+Chacun a ses sorts à lui, de nature différente : à six, vous couvrez donc les faiblesses les uns des autres.
+
+[06591.039]
+Alors, c’est fort, hein ?
+
+[06591.040]
+Karell
+
+[06591.041]
+Vraiment, tu es un génie. Tu as beau être ma sœur, il y a des moments où tu me fais peur...
+
+[06591.043]
+Tiens, tu t’en aperçois seulement ? Vraiment, frangin, t’es bête.
+
+[06591.044]
+Dymlos
+
+[06591.045]
+Au fait, {NAME:01 00 00 00}. Je suis navré de vous le demander, mais pourriez-vous porter cette bonne nouvelle au commandant ?
+
+[06591.046]
+Dymlos
+
+[06591.047]
+Nous devons apprendre de {NAME:06 00 00 00} le maniement des sorts, voyez-vous.
+
+[06591.049]
+Compris. Comptez sur nous, Dymlos.
+
+[06591.051]
+{NAME:06 00 00 00} obtient le titre « {08:0F 08 00 00} ».
+
+[06591.053]
+Vite, allons annoncer au commandant que les Swordians sont achevés !
+
+[06591.054]
+Dymlos
+
+[06591.055]
+Pourriez-vous porter au commandant la bonne nouvelle : les Swordians sont achevés ?
+
+[06591.056]
+Dymlos
+
+[06591.057]
+Nous devons apprendre de {NAME:06 00 00 00} le maniement des sorts, voyez-vous.
+
+[06591.058]
+Igtenos
+
+[06591.059]
+Est-ce... vraiment une épée ? Je n’ai même pas la sensation de la tenir. On dirait une partie de ma propre main.
+
+[06591.060]
+Chaltier
+
+[06591.061]
+Voilà donc un Swordian...
+
+[06591.062]
+Karell
+
+[06591.063]
+Ce Swordian s’appelle Berselius.
+
+[06591.064]
+Karell
+
+[06591.065]
+Chaque Swordian porte la personnalité de celui qui le manie, mais...
+
+[06591.066]
+Karell
+
+[06591.067]
+Celui-ci renferme celle de {NAME:06 00 00 00}.
+
+[06591.068]
+Karell
+
+[06591.069]
+Je le manie... la personnalité est celle de {NAME:06 00 00 00}... {NAME:06 00 00 00} et moi sommes ensemble en toute circonstance : c’est ce qui fait ma force.
+
+[06591.070]
+Clemente
+
+[06591.071]
+Quelle légèreté... C’est à peine si on en sent le poids... Et hop, et hop.
+
+[06591.072]
+Atwight
+
+[06591.073]
+Il existe donc aussi des sorts de guérison ?
+
+[06591.074]
+Raditz
+
+[06591.075]
+Si seulement ce Swordian me permettait d’expier la faute d’avoir conçu Belcrant...
+
+[06591.076]
+Raditz
+
+[06591.077]
+Si seulement ce Swordian me permettait d’expier la faute d’avoir conçu Belcrant...
+
+[06591.078]
+Chercheur
+
+[06591.079]
+Belcrant... Nous avons créé une chose terrible.
+
+[06591.080]
+Chercheur
+
+[06591.081]
+Le professeur {NAME:06 00 00 00} est un génie... Mais je n’arrive pas à comprendre sa conduite de tous les jours...
+
+[06591.082]
+Chercheur
+
+[06591.083]
+Voyons... où sont passées ces données ?
+
+[06591.084]
+Chercheur
+
+[06591.085]
+À présent, je ne peux que regarder et veiller.
+
+[06591.086]
+Chercheur
+
+[06591.087]
+Conférer une personnalité... au noyau... la résistance du matériau... mmh, mmh...
+
+[06591.088]
+Chercheur
+
+[06591.089]
+Voir l’achèvement, qui est comme le but de nos recherches, me laisse un sentiment mêlé... Un chercheur trouve sa raison de vivre dans le travail de recherche, non dans le résultat.
+
+[06591.090]
+Chercheur
+
+[06591.091]
+Vous êtes ceux qui nous ont délivrés, n’est-ce pas ? Merci infiniment pour ce jour-là !
+
+[06591.092]
+Chercheur
+
+[06591.093]
+Franchement, le professeur {NAME:06 00 00 00} me rend jaloux... Le génie, cela existe donc pour de vrai...
+
+[06591.094]
+Chercheur
+
+[06591.095]
+Ces nuits blanches n’auront pas été vaines...
+
+[06591.096]
+Chercheur
+
+[06591.097]
+Moi, je déteste la guerre ! Mais je n’aurais jamais cru y prendre part de cette façon...
+
+[06591.098]
+Chercheur
+
+[06591.099]
+J’aimerais qu’une guerre pareille finisse vite.
+
+[06591.101]
+Bon, à tout à l’heure.
+
+[06591.103]
+Allez, allez, on ne dérange pas la recherche. Tenez, prenez ça, et filez, filez.
+
+[06591.105]
+Obtenu : {08:B2 01 00 00}.
+
+[06591.107]
+Allez, allez, on ne dérange pas la recherche. Vous autres, allez régler vos affaires à vous.
+
+[06591.108]
+Lightning !
+
+[06591.109]
+Bon voyage.
+
+[06591.110]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06591.111]
+Voulez-vous passer la nuit ?
+
+[06591.113]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06591.114]
+Reposez-vous bien.
+
+[06591.115]
+Bonjour.
+
+[06591.116]
+Vous n’avez pas assez d’argent.
+
+[06591.117]
+Au plaisir de vous revoir.
+
+[06591.122]
+Obtenu : {16:25 C6}.
+
+[06591.124]
+Obtenu : {08:FF FF FF FF}.
+
+[06591.126]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06591.128]
+Il n’y a rien ici.
+

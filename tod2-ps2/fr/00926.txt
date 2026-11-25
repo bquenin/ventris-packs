@@ -1,0 +1,24 @@
+[00926.001]
+Comme ça... tout ce qui s’est passé paraît irréel. C’est si calme, si paisible...
+
+[00926.002]
+........
+
+[00926.003]
+... {NAME:01 00 00 00} ? Qu’est-ce qu’il y a ?
+
+[00926.004]
+Ah, non, rien ! Je réfléchissais un peu, c’est tout.
+
+[00926.005]
+Tiens............ {NAME:01 00 00 00} qui réfléchit : il va pleuvoir des hallebardes, aujourd’hui ?
+
+[00926.006]
+Ah, méchante, {NAME:02 00 00 00} ! C’est pas une façon de le dire~ !
+
+[00926.007]
+Ahahaha ! Mais c’est ta faute aussi, {NAME:01 00 00 00}. Penser à autre chose pendant un rendez-vous, c’est impoli envers une dame.
+
+[00926.008]
+Ah, oui, c’est vrai... ahaha ! Alors on y va, {NAME:02 00 00 00}.
+

@@ -1,0 +1,162 @@
+[06500.001]
+Hope Town
+
+[06500.002]
+Hope Town
+
+[06500.004]
+Obtenu : {08:41 00 00 00}.
+
+[06500.006]
+Des rebuts sont entassés. Ramassés à Trash Mountain, peut-être.
+
+[06500.008]
+Un parfum épicé flotte dans l’air. Dans la région de Calvalese, on semble aimer les plats relevés.
+
+[06500.010]
+Sur le tonneau, on lit « Blé de Cresta ». Il a dû être importé de la lointaine Cresta.
+
+[06500.011]
+Calmar
+
+[06500.012]
+Poulpe
+
+[06500.013]
+Thon ciboule
+
+[06500.014]
+Thon gras
+
+[06500.015]
+Omelette
+
+[06500.016]
+Oursin
+
+[06500.017]
+Œufs de saumon
+
+[06500.018]
+Congre
+
+[06500.019]
+Gingembre
+
+[06500.020]
+Plat du jour
+
+[06500.021]
+Comme d’habitude
+
+[06500.022]
+Dessert
+
+[06500.023]
+King Cook
+
+[06500.024]
+Toi, là, toi : ça te dirait de faire un peu le maître sushi ?
+
+[06500.026]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06500.027]
+Faut-il t’expliquer ?
+
+[06500.029]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06500.030]
+Je veux que tu serves aux clients les plats qu’ils commandent.
+
+[06500.031]
+Tout est dans la vitesse. Apprends le menu par cœur autant que possible avant de te mettre devant les clients.
+
+[06500.032]
+Et puis, sers bien les plats en te tournant vers le client.
+
+[06500.033]
+Allez... les clients commencent à arriver.
+
+[06500.034]
+Voici le menu suivant. Vas-y quand tu l’as retenu.
+
+[06500.042]
+Trop lent ! Je n’attends plus ! Je m’en vais !
+
+[06500.048]
+Merci. Grâce à toi, j’ai gagné de l’argent à ne plus savoir qu’en faire.
+
+[06500.049]
+Voici ta part, prends-la.
+
+[06500.051]
+{0B:01 00 00 00}Obtenu : {14:34 A4} Gald.{0B:00 00 00 00}
+
+[06500.052]
+Je compte encore sur toi.
+
+[06500.053]
+Tu disais que c’était ta vocation, je t’ai fait confiance, et voilà le résultat !
+
+[06500.054]
+{05:80 01 00 00}Dehors !
+
+[06500.061]
+{04:07 00 00 00}SELECT {04:06 00 00 00}Déserter
+
+[06500.063]
+{03:00 00 00 00}{0B:01 00 00 00}Reste : {04:06 00 00 00}{14:24 86 24 80 CB}{04:07 00 00 00} / Paie : {12:25 74}{14:34 A8}{04:07 00 00 00} Gald{18:45 78}
+{09:35 00 00 00}{04:02 00 00 00}{18:45 84}
+{09:36 00 00 00}{04:01 00 00 00}{18:45 88}
+{09:37 00 00 00}{04:03 00 00 00}{18:45 8C}{0B:00 00 00 00}
+
+[06500.066]
+{03:00 00 00 00}{0B:01 00 00 00}Reste : {04:06 00 00 00}{14:24 86 24 80 CB}{04:07 00 00 00} / Paie : {12:25 74}{14:34 A8}{04:07 00 00 00} Gald{18:45 78}
+{09:35 00 00 00}{04:02 00 00 00}{18:45 84}
+{09:36 00 00 00}{04:01 00 00 00}{18:45 88}
+{09:37 00 00 00}{04:03 00 00 00}{18:45 8C}{0B:00 00 00 00}
+
+[06500.070]
+{15:24 88} obtient le titre « {16:A0 81 08 24 88 CA 81 CB} ».
+
+[06500.071]
+Bon voyage.
+
+[06500.072]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06500.073]
+Voulez-vous passer la nuit ?
+
+[06500.075]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06500.076]
+Reposez-vous bien.
+
+[06500.077]
+Bonjour.
+
+[06500.078]
+Vous n’avez pas assez d’argent.
+
+[06500.079]
+Au plaisir de vous revoir.
+
+[06500.084]
+Obtenu : {16:26 EA}.
+
+[06500.086]
+Obtenu : {08:FF FF FF FF}.
+
+[06500.088]
+Trouvé : {16:26 F2}, mais vous n’avez plus de place.
+
+[06500.090]
+Il n’y a rien ici.
+

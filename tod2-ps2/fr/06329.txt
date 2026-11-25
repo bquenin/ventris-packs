@@ -1,0 +1,126 @@
+[06329.001]
+Ruines de Laguna
+
+[06329.002]
+Ruines de Laguna
+
+[06329.004]
+Obtenu : {08:2D 00 00 00}.
+
+[06329.006]
+Aïe aïe aïe... Hé, {NAME:01 00 00 00}, ça va ?
+
+[06329.008]
+Oui, à peu près...
+
+[06329.010]
+... Ouah ! On est tombés de haut. Ah là là, pas de veine...
+
+[06329.012]
+On est où, là ? Il y a plein de trucs par terre...
+
+[06329.014]
+C’est vrai... Il y a vraiment de tout.
+
+[06329.016]
+Avec tout ça, on devrait bien trouver de quoi remonter.
+
+[06329.018]
+En accrochant une corde à cette branche, on devrait pouvoir remonter.
+
+[06329.020]
+Compris, j’essaie !
+
+[06329.022]
+Avec un outil, je pourrais grimper par ici !
+
+[06329.024]
+C’est quoi, ça ? On dirait que ça marche encore.
+
+[06329.026]
+Ça... c’est une machine de l’époque de la guerre du Ciel et de la Terre. J’en ai vu une dans un livre du temple.
+
+[06329.028]
+Si je me souviens bien, c’est une machine qui analyse, ou qui voit à travers, un truc comme ça.
+
+[06329.030]
+Analyse ? Voit à travers ? Ça veut dire quoi ?
+
+[06329.032]
+Regarde plutôt. Par exemple, si j’y mets ce bandana...
+
+[06329.034]
+Bandana
+Sert surtout à orner la tête.
+
+[06329.036]
+Tu mets un objet dans ce trou, et elle te dit ce que c’est.
+
+[06329.038]
+Avec ça, on trouvera sans peine de quoi remonter, tu vois.
+
+[06329.040]
+Trop bie~n ! Dis, {NAME:03 00 00 00}, je veux essayer aussi !
+
+[06329.042]
+Alors, {NAME:01 00 00 00}, mets-toi devant « ce qui a l’air déplaçable » et appuie sur la touche {09:25 00 00 00}.
+
+[06329.044]
+En gardant la touche {09:25 00 00 00} enfoncée pendant que tu marches, tu traînes l’objet. Mets-le dans cette machine.
+
+[06329.046]
+{15:24 A2}  Niveau : {14:24 A4}
+
+[06329.047]
+　Poison
+
+[06329.048]
+　Faiblesse
+
+[06329.049]
+　Paralysie
+
+[06329.050]
+　K.-O.
+
+[06329.051]
+{0B:01 00 00 00}{18:44 B4}{18:44 B8}{18:44 BC}{18:44 C0}{18:44 C4}
+HP : {14:24 A8}/{14:24 AA}  TP : {14:24 AC}/{14:24 AE}{0B:00 00 00 00}
+
+[06329.053]
+Bon voyage.
+
+[06329.054]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06329.055]
+Voulez-vous passer la nuit ?
+
+[06329.057]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06329.058]
+Reposez-vous bien.
+
+[06329.059]
+Bonjour.
+
+[06329.060]
+Vous n’avez pas assez d’argent.
+
+[06329.061]
+Au plaisir de vous revoir.
+
+[06329.066]
+Obtenu : {16:26 12}.
+
+[06329.068]
+Obtenu : {08:FF FF FF FF}.
+
+[06329.070]
+Trouvé : {16:26 1A}, mais vous n’avez plus de place.
+
+[06329.072]
+Il n’y a rien ici.
+

@@ -1,0 +1,12 @@
+[00204.001]
+Il a dit s’appeler Barbatos. Pourquoi en avait-il après Philia ?
+
+[00204.002]
+Hé, sans doute un pervers qui ne vise que les beautés ?
+
+[00204.003]
+Ah, c’est un {NAME:03 00 00 00} en plus puissant, alors !
+
+[00204.004]
+Tu rêves ! Moi, j’attaque en gentleman. Rien à voir.
+

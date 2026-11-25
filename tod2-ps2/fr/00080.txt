@@ -1,0 +1,33 @@
+[00080.001]
+Zut ! D’après mes calculs, on devait prendre la Lentille avant l’arrivée de l’Ordre.
+
+[00080.002]
+Bah, avec tes calculs, {NAME:03 00 00 00}, c’était couru d’avance.
+
+[00080.003]
+Gah ! Toi, t’es bien le dernier à pouvoir me dire ça !
+
+[00080.004]
+Je sais ! Devançons-les et posons un piège ! On aura la Lentille avant eux !
+
+[00080.005]
+Un piège ? Quel genre ?
+
+[00080.006]
+Un trou dans le sol, par exemple...
+
+[00080.007]
+À huit ans, un gars est tombé dans son propre piège à monstre.
+
+[00080.008]
+Ou planter un faux panneau pour les égarer...
+
+[00080.009]
+À dix ans, un gars a fait pareil et n’a plus retrouvé son chemin.
+
+[00080.010]
+B-bref, on la trouve d’abord et on file !
+
+[00080.011]
+Pas le choix...
+

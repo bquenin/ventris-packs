@@ -1,0 +1,33 @@
+[00652.001]
+{NAME:06 00 00 00}, cette opération de sauvetage a-t-elle de bonnes chances de réussir ?
+
+[00652.002]
+Mmh. Ça devrait s’arranger à peu près, non ?
+
+[00652.003]
+Réponse bien vague, pour un génie.
+
+[00652.004]
+Je peux la chiffrer en pourcentage, mais avec tant d’inconnues dans votre genre, pas de réponse exacte.
+
+[00652.005]
+Hé, hé. On a le droit de mettre des inconnues dans une opération aussi importante ?
+
+[00652.006]
+Vous, même sans chances de réussir, vous avez l’air de vous en tirer quand même. Je me trompe ?
+
+[00652.007]
+Ben, grâce à qui tu sais, on est sans cesse entraînés dans des « combats aux chances douteuses », et on s’en tire toujours. On a des références. Pas vrai ?
+
+[00652.008]
+Oui.
+
+[00652.009]
+Ouais.
+
+[00652.010]
+En effet.
+
+[00652.011]
+P-pourquoi moi, hein...
+

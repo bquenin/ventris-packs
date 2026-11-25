@@ -1,0 +1,43 @@
+[06562.001]
+Grotte du littoral
+
+[06562.002]
+Grotte du littoral
+
+[06562.003]
+Bon voyage.
+
+[06562.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06562.005]
+Voulez-vous passer la nuit ?
+
+[06562.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06562.008]
+Reposez-vous bien.
+
+[06562.009]
+Bonjour.
+
+[06562.010]
+Vous n’avez pas assez d’argent.
+
+[06562.011]
+Au plaisir de vous revoir.
+
+[06562.016]
+Obtenu : {16:25 BA}.
+
+[06562.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06562.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06562.022]
+Il n’y a rien ici.
+

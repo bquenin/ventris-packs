@@ -1,0 +1,444 @@
+[06413.001]
+Neustadt : arène
+
+[06413.002]
+Neustadt
+
+[06413.004]
+« L’arène : la méthode pour gagner à coup sûr »
+
+[06413.006]
+« Dans l’arène, rien ne compte plus que l’endurance. Augmentez vos HP avant d’aller au combat. »
+
+[06413.008]
+« La Poupée substitut est indispensable. Faites-en provision jusqu’au maximum et combattez toujours avec une poupée équipée. »
+
+[06413.010]
+« Tant que votre niveau est bas, tirez parti des effets de soutien de l’équipement à emplacements. Empoisonner l’ennemi puis courir partout est une tactique tout à fait honorable. »
+
+[06413.012]
+« Dans l’arène, les objets sont interdits, et environ 10 secondes après le début du combat, on ne peut plus changer d’équipement. »
+
+[06413.014]
+Des souvenirs sont exposés. De l’équipement, on dirait... à qui était-il ?
+
+[06413.015]
+Miss Inscription
+
+[06413.016]
+Ici, l’arène.
+
+[06413.017]
+Voulez-vous combattre dans l’arène ?
+
+[06413.022]
+{NAME:01 00 00 00} livrera le combat.
+
+[06413.023]
+Choisissez la difficulté.
+
+[06413.026]
+Qui participe, avec qui ?
+
+[06413.029]
+Qui participe, avec qui ?
+
+[06413.032]
+{15:14 86} et {15:24 7E} participent au combat en duo.
+
+[06413.033]
+Qui participe ?
+
+[06413.036]
+{15:14 86} livrera le combat.
+
+[06413.038]
+Victoire !
+
+[06413.040]
+Combat solo
+
+[06413.041]
+Combat en duo
+
+[06413.042]
+{04:02 00 00 00}Combat en duo{04:07 00 00 00}
+
+[06413.043]
+Redéfier Rimul
+
+[06413.044]
+{04:02 00 00 00}Rimul{04:07 00 00 00}
+
+[06413.045]
+Combat solo : débutant
+
+[06413.046]
+Combat solo : intermédiaire
+
+[06413.047]
+{04:02 00 00 00}Combat solo : intermédiaire{04:07 00 00 00}
+
+[06413.048]
+Combat solo : avancé
+
+[06413.049]
+{04:02 00 00 00}Combat solo : avancé{04:07 00 00 00}
+
+[06413.050]
+Combat solo : Mania
+
+[06413.051]
+{04:02 00 00 00}Combat solo : Mania{04:07 00 00 00}
+
+[06413.052]
+Combat en duo : débutant
+
+[06413.053]
+Combat en duo : intermédiaire
+
+[06413.054]
+{04:02 00 00 00}Combat en duo : intermédiaire{04:07 00 00 00}
+
+[06413.055]
+Combat en duo : avancé
+
+[06413.056]
+{04:02 00 00 00}Combat en duo : avancé{04:07 00 00 00}
+
+[06413.057]
+Combat en duo : Mania
+
+[06413.058]
+{04:02 00 00 00}Combat en duo : Mania{04:07 00 00 00}
+
+[06413.059]
+Combat extra : débutant
+
+[06413.060]
+Combat extra : intermédiaire
+
+[06413.061]
+Difficulté non ouverte
+
+[06413.062]
+Combat extra : avancé
+
+[06413.063]
+Difficulté non ouverte
+
+[06413.064]
+Combat extra : Mania
+
+[06413.065]
+Difficulté non ouverte
+
+[06413.067]
+??????
+
+[06413.069]
+??????
+
+[06413.071]
+??????
+
+[06413.072]
+Page suivante
+
+[06413.074]
+??????
+
+[06413.076]
+??????
+
+[06413.078]
+??????
+
+[06413.079]
+Page précédente
+
+[06413.081]
+??????
+
+[06413.083]
+??????
+
+[06413.085]
+??????
+
+[06413.087]
+??????
+
+[06413.089]
+??????
+
+[06413.091]
+??????
+
+[06413.092]
+À bientôt.
+
+[06413.093]
+Il n’y a personne de ce nom.
+
+[06413.094]
+Vous ne remplissez pas les conditions pour participer.
+
+[06413.095]
+Hôtesse
+
+[06413.096]
+Bienvenue à l’arène. Vous avez une question ?
+
+[06413.098]
+{03:00 00 00 00}　Rien de particulier　
+　Sur l’arène　
+　Sur le héros de Neustadt　
+
+[06413.099]
+C’est ici que viennent se battre les hommes en quête de gloire et de fortune... enfin, il y a aussi des femmes, parfois.
+
+[06413.100]
+Les combats se font en tournoi : trois victoires de suite, et vous pouvez défier la classe suivante.
+
+[06413.101]
+En gagnant le combat solo des débutants, vous pourrez participer au combat en duo.
+
+[06413.102]
+Qui remporte la classe la plus haute reçoit le titre de Champion.
+
+[06413.103]
+Il n’y a pas de champion en ce moment, alors... vous avez peut-être votre chance, vous aussi.
+
+[06413.104]
+Autrefois, il y avait ici un champion toujours vainqueur.
+
+[06413.105]
+Son nom : Mighty Kongman ! Il assommait n’importe quel adversaire à mains nues, et cette fougue en a fait frémir, des admirateurs.
+
+[06413.106]
+Et figurez-vous ! Il a prêté main-forte à Stahn le héros pour rendre la paix au monde !
+
+[06413.107]
+Ah bon. Eh bien, si quelque chose vous échappe, demandez-moi tout ce que vous voulez.
+
+[06413.109]
+Félicitations.
+
+[06413.111]
+J’ai tout donné pour toi, {NAME:02 00 00 00}.
+
+[06413.113]
+Bien joué !
+
+[06413.115]
+Tu me vois d’un autre œil, maintenant ?
+
+[06413.117]
+Pas trop mal.
+
+[06413.119]
+J’ai tout donné, et c’est tout ce que tu dis ?
+
+[06413.121]
+Bravo, c’était bien.
+
+[06413.123]
+Merci.
+
+[06413.125]
+Tu te débrouilles pas mal, dis donc.
+
+[06413.127]
+Bah, oui.
+
+[06413.129]
+Tu es incroyable, {NAME:02 00 00 00} !
+
+[06413.131]
+C’est parce que tu m’encourageais, {NAME:01 00 00 00}...
+
+[06413.133]
+Chapeau, vraiment.
+
+[06413.135]
+Hé hé, victoire, victoire♪
+
+[06413.137]
+C’est donc là ton pouvoir ?
+
+[06413.139]
+Je ne peux pas perdre dans un endroit pareil.
+
+[06413.141]
+Félicitations, {NAME:02 00 00 00}.
+
+[06413.143]
+Merci.
+
+[06413.145]
+Ton pouvoir m’intéresse, tu sais.
+
+[06413.147]
+Tu veux relever des données ?
+
+[06413.149]
+Ça, c’est {NAME:03 00 00 00} !
+
+[06413.151]
+Personne ne peut m’arrêter, moi !
+
+[06413.153]
+C’est impressionnant.
+
+[06413.155]
+Moi aussi, j’ai l’étoffe d’un héros ?
+
+[06413.157]
+Tu n’es donc pas qu’un coureur de jupons, semble-t-il.
+
+[06413.159]
+Eh oui : un coureur de jupons costaud, voilà.
+
+[06413.161]
+Briller comme ça, ça ne te ressemble pas.
+
+[06413.163]
+T’es tombée sous le charme ?
+
+[06413.165]
+Et puis quoi encore !
+
+[06413.167]
+Relevé de données !
+
+[06413.169]
+Arrête ça, je te dis !
+
+[06413.171]
+Du grand art, comme toujours.
+
+[06413.173]
+Un simple jeu.
+
+[06413.175]
+Un héros...
+
+[06413.177]
+Tu te fais des idées.
+
+[06413.179]
+Pas mal, le pervers masqué !
+
+[06413.181]
+De qui parles-tu ?
+
+[06413.183]
+Puisque tu as gagné, tu pourrais au moins montrer ton visage.
+
+[06413.185]
+Mêle-toi de tes affaires.
+
+[06413.187]
+Tu ne me laisserais pas relever tes données ?
+
+[06413.189]
+Je refuse.
+
+[06413.191]
+Bien joué, {NAME:05 00 00 00} !
+
+[06413.193]
+Facile, facile !
+
+[06413.195]
+Bravo, comme toujours.
+
+[06413.197]
+On peut compter sur mon arc, pas vrai ?
+
+[06413.199]
+Ça, c’est notre garçon manqué !
+
+[06413.201]
+Tu as envie de mourir sous mes flèches, on dirait.
+
+[06413.203]
+Comme on pouvait s’y attendre, dirais-je.
+
+[06413.205]
+Pas mal, hein ?
+
+[06413.207]
+Ça ne te dirait pas d’être mon cobaye ?
+
+[06413.209]
+Sans façon.
+
+[06413.211]
+Ça, c’est un génie !
+
+[06413.213]
+Impossible n’est pas dans le dictionnaire d’un génie !
+
+[06413.215]
+Un don reçu du ciel...
+
+[06413.217]
+Bah, il n’y a vraiment pas de quoi en faire toute une histoire...
+
+[06413.219]
+Je m’incline.
+
+[06413.221]
+Mon propre talent m’effraie...
+
+[06413.223]
+........
+
+[06413.225]
+Tant de compliments, ça me fait rougir~.
+
+[06413.227]
+C’est donc ça, la force d’un génie ?
+
+[06413.229]
+On peut dire ça aussi.
+
+[06413.230]
+Bon voyage.
+
+[06413.231]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06413.232]
+Voulez-vous passer la nuit ?
+
+[06413.234]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06413.235]
+Reposez-vous bien.
+
+[06413.236]
+Bonjour.
+
+[06413.237]
+Vous n’avez pas assez d’argent.
+
+[06413.238]
+Au plaisir de vous revoir.
+
+[06413.243]
+Obtenu : {16:25 D6}.
+
+[06413.245]
+Obtenu : {08:FF FF FF FF}.
+
+[06413.247]
+Trouvé : {16:25 DE}, mais vous n’avez plus de place.
+
+[06413.249]
+Il n’y a rien ici.
+

@@ -1,0 +1,433 @@
+[06320.001]
+Orphelinat Dunamis
+
+[06320.002]
+Orphelinat Dunamis
+
+[06320.004]
+L’ancien lit de {NAME:03 00 00 00}. C’est Cinnamon qui s’en sert maintenant.
+
+[06320.006]
+De vieux contrôles sont rangés ici. {NAME:03 00 00 00} : maths, 35 points. {NAME:01 00 00 00} : histoire, 28 points.
+
+[06320.008]
+Ça, c’est... !
+
+[06320.010]
+Trouvé toutes sortes de questions de quiz !
+
+[06320.012]
+Une nouvelle catégorie s’ajoute au Livre de quiz.
+
+[06320.014]
+« Manuel de science des Lentilles : percez le mystérieux pouvoir ! » Un livre assez louche traîne ici.
+
+[06320.015]
+Tonia
+
+[06320.016]
+Enfin, {NAME:01 00 00 00}, ne dors pas en marchant ! On dirait un zombie, ça fait peur !
+
+[06320.017]
+Tonia
+
+[06320.018]
+Mmgn mmgn... J’ai... faim... Je veux encore manger...
+
+[06320.019]
+Tonia
+
+[06320.020]
+Alors c’est vrai, {NAME:01 00 00 00}, tu veux devenir un vrai héros...
+
+[06320.022]
+Pardon, Tonia. Tu vas te sentir seule, je sais...
+
+[06320.023]
+Tonia
+
+[06320.024]
+Mm, ça ira. Il y a Rutee et tous les autres... Je ne serai pas seule.
+
+[06320.025]
+Tonia
+
+[06320.026]
+Courage, {NAME:01 00 00 00} ! Et ne fais rien qui rende Rutee triste, hein !
+
+[06320.027]
+Uni
+
+[06320.028]
+Je suis trop contente que {NAME:03 00 00 00} soit rentré !
+
+[06320.029]
+Uni
+
+[06320.030]
+Tiens ? {NAME:01 00 00 00} debout à cette heure-ci, c’est rare !
+
+[06320.032]
+Mais non... Regarde, je mange même toutes mes carottes...
+
+[06320.033]
+Uni
+
+[06320.034]
+{NAME:01 00 00 00}, on dirait que tu dors encore à moitié...
+
+[06320.035]
+Uni
+
+[06320.036]
+Mmgn mmgn... Pipi~...
+
+[06320.037]
+Uni
+
+[06320.038]
+Fwaa... Tiens ? {NAME:01 00 00 00}, tu sors ?
+
+[06320.040]
+... Oui. Je vais m’absenter un moment. Sois sage, d’accord ?
+
+[06320.041]
+Uni
+
+[06320.042]
+Bon voyage~, tous les deux... Fwaa...
+
+[06320.043]
+Uni
+
+[06320.044]
+Dis, regarde, regarde ! Cette jupe, c’est moi qui l’ai faite !
+
+[06320.046]
+Oh, pas mal du tout. Uni, tu feras une bonne épouse, plus tard !
+
+[06320.047]
+Uni
+
+[06320.048]
+Hé hé hé~★ Les habits de tout le monde, c’est moi qui les fais. Je te fais quelque chose aussi, {NAME:03 00 00 00} ?
+
+[06320.049]
+Uni
+
+[06320.050]
+Je sais ! {NAME:03 00 00 00}, je vais te faire une jupe assortie à la mienne !
+
+[06320.052]
+Euh, une jupe, c’est un peu...
+
+[06320.053]
+Uni
+
+[06320.054]
+Dis ! Dis ! {NAME:03 00 00 00}, à toi aussi je vais faire une jupe assortie à la mienne !
+
+[06320.055]
+Cinnamon
+
+[06320.056]
+Hé hé~ ! Moi, pendant l’aventure de tout à l’heure, j’ai ramassé une Lentille~ !
+
+[06320.058]
+Ben alors, tu amasses les Lentilles ? Tu comptes en faire don à l’Ordre d’Atamoni, ou quoi ?
+
+[06320.059]
+Cinnamon
+
+[06320.060]
+Mais non, ces Lentilles, je vais les changer en argent et le donner à Rutee !
+
+[06320.061]
+Cinnamon
+
+[06320.062]
+Ces Lentilles, je vais les changer en argent et le donner à Rutee !
+
+[06320.063]
+Cinnamon
+
+[06320.064]
+Avec autant de Lentilles, on pourrait faire de cette maison un vrai château !
+
+[06320.065]
+Cinnamon
+
+[06320.066]
+Ohé, {NAME:01 00 00 00}, ça va ? Tu titubes, on dirait.
+
+[06320.068]
+... Zzz...
+
+[06320.070]
+... Marcher en dormant, c’est un talent aussi, faut croire...
+
+[06320.071]
+Cinnamon
+
+[06320.072]
+Ohé, {NAME:01 00 00 00}, ça va ? Tu titubes, on dirait.
+
+[06320.073]
+Cinnamon
+
+[06320.074]
+Oh, {NAME:01 00 00 00} la marmotte ! T’es matinal, aujourd’hui !
+
+[06320.075]
+Cinnamon
+
+[06320.076]
+Oh, {NAME:01 00 00 00} la marmotte ! T’es matinal, aujourd’hui !
+
+[06320.077]
+Cinnamon
+
+[06320.078]
+Moi, quand je serai un peu plus grand, je ferai tout pour devenir un héros, comme toi, {NAME:01 00 00 00} !
+
+[06320.080]
+... Non, toi, je veux que tu restes ici et que tu protèges maman et tout le monde.
+
+[06320.081]
+Cinnamon
+
+[06320.082]
+Ah oui, c’est vrai... {NAME:01 00 00 00} et {NAME:03 00 00 00} ne seront plus là. C’est à moi de protéger la maison...
+
+[06320.083]
+Cinnamon
+
+[06320.084]
+Vous deux, l’orphelinat, laissez-le-moi. Je le protégerai bien, promis.
+
+[06320.085]
+Basil
+
+[06320.086]
+Quand on a croisé les monstres, je n’ai fait que trembler... Je suis un froussard...
+
+[06320.088]
+Toi, Basil, tu as plein de qualités bien à toi.
+
+[06320.089]
+Basil
+
+[06320.090]
+Être soi-même, hein... On comprend les autres, mais se comprendre soi, c’est étonnamment difficile...
+
+[06320.091]
+Basil
+
+[06320.092]
+Aïe aïe, {NAME:01 00 00 00}, ne me tire pas comme ça. J’ai mes corvées du matin à...
+
+[06320.094]
+Laisse ça, d’abord il faut récupérer la Lentille. Allez, on y va, {NAME:03 00 00 00}...
+
+[06320.096]
+Hé... Je suis par ici, moi...
+
+[06320.097]
+Basil
+
+[06320.098]
+Aah, ne me tire pas, {NAME:01 00 00 00}...
+
+[06320.099]
+Basil
+
+[06320.100]
+Mmh... j’ai encore sommeil...
+
+[06320.101]
+Basil
+
+[06320.102]
+Wah, {NAME:01 00 00 00} est levé ? Alors c’est que j’ai trop dormi, moi !?
+
+[06320.103]
+Basil
+
+[06320.104]
+Je suis peut-être en train de rêver...
+
+[06320.105]
+Basil
+
+[06320.106]
+Ah, c’est {NAME:01 00 00 00}. Bon retour ! L’aventure, c’est bien, mais il ne faut pas forcer.
+
+[06320.108]
+... Ne parle pas comme maman...
+
+[06320.109]
+Basil
+
+[06320.110]
+Mais c’est que toi, {NAME:01 00 00 00}, tu fonces tête baissée, au petit bonheur. J’en ai le cœur qui bat la chamade !
+
+[06320.111]
+Basil
+
+[06320.112]
+{NAME:01 00 00 00}, tu fonces tête baissée, au petit bonheur. J’en ai le cœur qui bat la chamade !
+
+[06320.113]
+Salt
+
+[06320.114]
+{NAME:01 00 00 00}, tu es couvert d’égratignures. Si tu restais lire dans ta chambre, pour une fois ?
+
+[06320.116]
+Lire, c’est bien, mais jouer au soleil, c’est chouette aussi.
+
+[06320.117]
+Salt
+
+[06320.118]
+Non... moi, ça va. J’aime bien lire tout seul...
+
+[06320.119]
+Salt
+
+[06320.120]
+Moi, ça va. J’aime bien lire tout seul...
+
+[06320.121]
+Salt
+
+[06320.122]
+{NAME:01 00 00 00}, va vite te brosser les dents. C’est l’heure du petit-déjeuner.
+
+[06320.124]
+Mmh... alors il faut que j’aille acheter un nécessaire à dents... Zzz...
+
+[06320.125]
+Salt
+
+[06320.126]
+{NAME:01 00 00 00}, avant les dents, tu devrais peut-être te laver la figure...
+
+[06320.127]
+Salt
+
+[06320.128]
+Ah, {NAME:01 00 00 00}... Ouf. J’ai fait un cauchemar...
+
+[06320.130]
+Pourquoi ? Tout le monde est là, non ? Il n’y a rien qui fasse peur, hein ?
+
+[06320.131]
+Salt
+
+[06320.132]
+Oui... je sais... Je sais, mais...
+
+[06320.133]
+Salt
+
+[06320.134]
+Il n’y a que toi qui sois gentil avec moi, {NAME:01 00 00 00}. Les autres, de toute façon...
+
+[06320.136]
+Qu’est-ce que tu racontes ? Si tu vas vers eux, ils t’accueilleront tous.
+
+[06320.138]
+Moi non plus, je ne serai pas toujours là, tu sais. Il faut que tu te débrouilles par toi-même.
+
+[06320.139]
+Salt
+
+[06320.140]
+C’est vrai... Tu as raison, {NAME:01 00 00 00}. Je vais essayer...
+
+[06320.142]
+Voilà. On fait de notre mieux, d’accord ?
+
+[06320.143]
+Salt
+
+[06320.144]
+{NAME:01 00 00 00}, tu te lèves tôt pour aller quelque part ? Ne va pas dans des endroits dangereux.
+
+[06320.146]
+T’inquiète pas. Ça ira pour moi.
+
+[06320.147]
+Salt
+
+[06320.148]
+{NAME:01 00 00 00}, ne va pas dans des endroits trop dangereux.
+
+[06320.150]
+C’est grand frère {NAME:03 00 00 00} qui veille sur lui, alors sois tranquille !
+
+[06320.151]
+Salt
+
+[06320.152]
+{NAME:01 00 00 00}, on dirait un héros de livre. Tu es classe...
+
+[06320.153]
+Salt
+
+[06320.154]
+Tu sais ! Ces temps-ci, je travaille au potager avec Uni.
+
+[06320.156]
+Ah oui ! Le travail comme le jeu, c’est plus amusant avec les autres, pas vrai ?
+
+[06320.157]
+Salt
+
+[06320.158]
+Oui !
+
+[06320.159]
+Salt
+
+[06320.160]
+Ce sera bientôt la récolte des concombres et des tomates. J’ai hâte !
+
+[06320.161]
+Bon voyage.
+
+[06320.162]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06320.163]
+Voulez-vous passer la nuit ?
+
+[06320.165]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06320.166]
+Reposez-vous bien.
+
+[06320.167]
+Bonjour.
+
+[06320.168]
+Vous n’avez pas assez d’argent.
+
+[06320.169]
+Au plaisir de vous revoir.
+
+[06320.174]
+Obtenu : {16:25 BA}.
+
+[06320.176]
+Obtenu : {08:FF FF FF FF}.
+
+[06320.178]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06320.180]
+Il n’y a rien ici.
+

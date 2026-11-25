@@ -1,0 +1,21 @@
+[00772.001]
+Si les Swordians sont achevés, alors la suite, c’est enfin la bataille finale !
+
+[00772.002]
+Oui. Grâce aux exploits de l’équipe des Swordians, l’empereur Miktran est vaincu et l’armée terrestre l’emporte... Voilà l’histoire véritable.
+
+[00772.003]
+Pour que rien ne vienne gêner ça, à nous de nous donner aussi !
+
+[00772.004]
+Les Swordians, et la mort de Miktran...
+
+[00772.005]
+Qu’y a-t-il, {NAME:04 00 00 00} ?
+
+[00772.006]
+Non... plus tard. D’abord le rapport à Litler. Pressons.
+
+[00772.007]
+O-oui...
+

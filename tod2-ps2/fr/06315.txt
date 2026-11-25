@@ -1,0 +1,65 @@
+[06315.001]
+Orphelinat Dunamis
+
+[06315.002]
+Orphelinat Dunamis
+
+[06315.003]
+Orphelinat, étage
+
+[06315.005]
+Une peluche. Une étiquette dit : « Ours, fait par Mary ».
+
+[06315.007]
+Le hamster de l’orphelinat. Il s’appelle...
+
+[06315.009]
+Le nom « {08:01 0C 00 00} » vous convient-il ?
+
+[06315.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06315.013]
+Le hamster de l’orphelinat. Il s’appelle « {08:01 0C 00 00} ».
+
+[06315.015]
+Ici, l’étage de l’orphelinat.
+
+[06315.016]
+Bon voyage.
+
+[06315.017]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06315.018]
+Voulez-vous passer la nuit ?
+
+[06315.020]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06315.021]
+Reposez-vous bien.
+
+[06315.022]
+Bonjour.
+
+[06315.023]
+Vous n’avez pas assez d’argent.
+
+[06315.024]
+Au plaisir de vous revoir.
+
+[06315.029]
+Obtenu : {16:25 CA}.
+
+[06315.031]
+Obtenu : {08:FF FF FF FF}.
+
+[06315.033]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06315.035]
+Il n’y a rien ici.
+

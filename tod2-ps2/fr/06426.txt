@@ -1,0 +1,70 @@
+[06426.001]
+Mine désaffectée Oberon
+
+[06426.002]
+Mine désaffectée Oberon
+
+[06426.004]
+Ce mur semble pouvoir être brisé.
+
+[06426.005]
+La bombe a explosé !
+
+[06426.007]
+{03:00 00 00 00}　Décharger la bombe　
+　Laisser dériver la barque　
+
+[06426.009]
+Laisser dériver la barque ?
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06426.011]
+Vous ne pouvez pas porter plus de Lentilles.
+
+[06426.013]
+{03:00 00 00 00}Trouvé : {0B:01 00 00 00}{14:24 6C} Lentilles,
+mais vous ne pouvez pas tout porter.
+・En prendre {14:34 80}, en jeter {14:34 84}{0B:00 00 00 00}
+・Les remettre
+
+[06426.015]
+{03:00 00 00 00}Obtenu : {0B:01 00 00 00}{14:34 8C}{0B:00 00 00 00} Lentilles.
+
+[06426.016]
+Bon voyage.
+
+[06426.017]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06426.018]
+Voulez-vous passer la nuit ?
+
+[06426.020]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06426.021]
+Reposez-vous bien.
+
+[06426.022]
+Bonjour.
+
+[06426.023]
+Vous n’avez pas assez d’argent.
+
+[06426.024]
+Au plaisir de vous revoir.
+
+[06426.029]
+Obtenu : {16:25 DE}.
+
+[06426.031]
+Obtenu : {08:FF FF FF FF}.
+
+[06426.033]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06426.035]
+Il n’y a rien ici.
+

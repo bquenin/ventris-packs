@@ -1,0 +1,106 @@
+[06338.001]
+Darilsheid, l’ancienne capitale
+
+[06338.002]
+Darilsheid, l’ancienne capitale
+
+[06338.004]
+Rien à faire, il y a un garde. On ne peut pas aller plus loin.
+
+[06338.006]
+Rien à faire, il y a un garde. On ne peut pas aller plus loin.
+
+[06338.008]
+Mais il n’y a pas d’autre sortie. On fait quoi ? On force le passage ?
+
+[06338.010]
+Attendez. ... Par ici, suivez-moi.
+
+[06338.012]
+Ici, c’était la demeure de « Hugo », le président de la compagnie Oberon.
+
+[06338.014]
+À la dissolution de la compagnie Oberon, la demeure a été saisie et transformée en temple, mais le passage secret doit toujours exister.
+
+[06338.016]
+... C’est ici. Hé, prends ça et tire sur la marque, là.
+
+[06338.018]
+Reçu : {08:2B 00 00 00}.
+
+[06338.020]
+C’est quoi ?
+
+[06338.022]
+Un outil qui tire l’énergie des Lentilles et projette un rayon ardent et une onde de choc.
+
+[06338.024]
+La touche {09:3C 00 00 00} tire le rayon ardent, mais chaque tir consomme une Lentille. Ne tire pas pour rien.
+
+[06338.026]
+Avec l’{08:2B 00 00 00}, on actionne les interrupteurs hors de portée.
+
+[06338.028]
+Bien sûr, sa chaleur permet aussi d’allumer un feu. Sers-t’en bien.
+
+[06338.030]
+Compris. ... Au fait, {NAME:04 00 00 00}, comment tu connais un passage pareil ?
+
+[06338.032]
+... À quoi te servirait de le savoir ?
+
+[06338.034]
+Euh, à rien de spécial, mais...
+
+[06338.036]
+Alors on y va.
+
+[06338.038]
+{NAME:04 00 00 00} obtient le titre « {08:26 08 00 00} ».
+
+[06338.040]
+Des documents qui semblent appartenir à la compagnie Oberon sont conservés ici. Ils concerneraient les troubles de l’Œil de Dieu.
+
+[06338.042]
+Les documents sont signés. On déchiffre les noms « Hugo », « Ilene » et « Rembrandt ».
+
+[06338.044]
+« En priant pour la renaissance de Darilsheid. Philia Felice, temple de Straylize »
+
+[06338.045]
+Bon voyage.
+
+[06338.046]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06338.047]
+Voulez-vous passer la nuit ?
+
+[06338.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06338.050]
+Reposez-vous bien.
+
+[06338.051]
+Bonjour.
+
+[06338.052]
+Vous n’avez pas assez d’argent.
+
+[06338.053]
+Au plaisir de vous revoir.
+
+[06338.058]
+Obtenu : {16:25 BE}.
+
+[06338.060]
+Obtenu : {08:FF FF FF FF}.
+
+[06338.062]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06338.064]
+Il n’y a rien ici.
+

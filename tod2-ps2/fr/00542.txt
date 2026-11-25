@@ -1,0 +1,24 @@
+[00542.001]
+Dis, {NAME:05 00 00 00}, tes ancêtres étaient des Célestes, non ?
+
+[00542.002]
+Hm ? Ben, je viens de Calvalese, alors oui, sans doute.
+
+[00542.003]
+Donc, dans l’histoire actuelle, « il y a peut-être une {NAME:05 00 00 00} à Dycroft » ?
+
+[00542.004]
+Si le cours de l’histoire change, la façon de vivre et de penser des gens change aussi : il ne naîtrait presque jamais une {NAME:05 00 00 00} tout à fait identique. Enfin, la probabilité n’est sans doute pas nulle...
+
+[00542.005]
+Arrête. Moi, vivre là-haut à toiser les gens d’en bas ? Rien que d’y penser, j’en ai froid dans le dos. Même s’il existait quelqu’un qui a exactement ma tête, ce serait une tout autre personne que moi.
+
+[00542.006]
+Évidemment. Deux ou trois furies pareilles, on n’y survivrait pas.
+
+[00542.007]
+... Oui. Pour te couper le souffle pour de bon, moi seule, ça suffit largement !!
+
+[00542.008]
+Gah... s-sérieux... j’étouffe...
+

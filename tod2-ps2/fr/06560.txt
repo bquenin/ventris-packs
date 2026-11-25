@@ -1,0 +1,224 @@
+[06560.001]
+Dycroft
+
+[06560.002]
+Dycroft
+
+[06560.003]
+Dycroft
+
+[06560.005]
+Elraine !
+
+[06560.006]
+Elraine
+
+[06560.007]
+Ainsi, vous êtes venus...
+
+[06560.009]
+Si le monde a changé comme ça... c’est ton œuvre, hein !?
+
+[06560.010]
+Elraine
+
+[06560.011]
+C’est bien moi qui ai refait le monde. Mais... ceux qui l’ont souhaité ne sont autres que vous, les hommes.
+
+[06560.012]
+Elraine
+
+[06560.013]
+Un monde sans tourments ni souffrances. Un monde où il n’y a que le bonheur...
+
+[06560.015]
+Un monde où on ne peut pas vivre sans Lentille, ce serait le bonheur !? Tu te fiches de nous !
+
+[06560.016]
+Elraine
+
+[06560.017]
+Ce n’est encore qu’une période de transition. Quand la déesse sera descendue sous une forme plus parfaite, paraîtront un monde parfait et un bonheur parfait.
+
+[06560.019]
+Une forme parfaite... ?
+
+[06560.020]
+Elraine
+
+[06560.021]
+Normalement, la descente parfaite aurait dû s’accomplir bien plus tôt.
+
+[06560.022]
+Elraine
+
+[06560.023]
+Moi, l’envoyée de la déesse, je montrais des miracles et je rassemblais la foi des hommes.
+
+[06560.024]
+Elraine
+
+[06560.025]
+Cette foi rassemblée devait donner plus de force encore à la déesse, et lui donner sa forme parfaite.
+
+[06560.026]
+Elraine
+
+[06560.027]
+Mais le temps a passé, et il est resté des gens pour refuser la déesse : descendue, elle n’a pu acquérir une force suffisante...
+
+[06560.029]
+On dirait bien qu’elle parle de nous, les gens de Hope Town.
+
+[06560.030]
+Elraine
+
+[06560.031]
+À ce train, ni déesse parfaite ni monde parfait n’étaient possibles.
+
+[06560.032]
+Elraine
+
+[06560.033]
+C’est alors que j’ai songé à rassembler des Lentilles pour accroître la force de la déesse.
+
+[06560.034]
+Elraine
+
+[06560.035]
+Mais ce projet-là aussi, vous l’avez fait échouer...
+
+[06560.036]
+Elraine
+
+[06560.037]
+Il ne me restait qu’une voie : remonter plus loin encore dans le passé, et faire de ce monde un monde où tous les peuples vénèrent la déesse.
+
+[06560.038]
+Elraine
+
+[06560.039]
+Le résultat, vous le voyez. Les Lentilles chargées de foi en la déesse, j’ai pu, elles aussi, les rassembler en masse.
+
+[06560.041]
+Voilà donc pourquoi tu t’es servie de la guerre du Ciel et de la Terre.
+
+[06560.043]
+Envoyer Barbatos, renverser l’issue de la guerre du Ciel et de la Terre, et dévaster la surface.
+
+[06560.045]
+Alors paraît la sauveuse, qui tend une main secourable.
+
+[06560.047]
+La sauveuse, au nom de la grâce divine, attire sur elle seule la foi des hommes... Quelle farce de quatre sous.
+
+[06560.048]
+Elraine
+
+[06560.049]
+Je t’avais fait monter sur scène, et tu n’as pas joué selon le texte : d’un tel acteur, je n’ai aucune leçon à recevoir.
+
+[06560.051]
+........
+................
+
+[06560.053]
+Cette façon de faire est une erreur ! Les hommes ne veulent pas d’un bonheur acquis en faussant l’histoire, en changeant le passé !
+
+[06560.054]
+Elraine
+
+[06560.055]
+... {NAME:02 00 00 00}. Tu ne comprends donc toujours pas ?
+
+[06560.056]
+Elraine
+
+[06560.057]
+On a beau dire les plus belles paroles : chacun a un passé si douloureux qu’il voudrait l’effacer.
+
+[06560.058]
+Elraine
+
+[06560.059]
+Tiens, par exemple : comme {NAME:04 00 00 00}, que voici... Non : comme Leon Magnus.
+
+[06560.061]
+Leon Magnus !?
+
+[06560.063]
+Celui qui aurait trahi les Quatre Héros, Stahn et les autres, pendant les troubles de l’Œil de Dieu !?
+
+[06560.064]
+Elraine
+
+[06560.065]
+Oui. Il était mort plein de regrets : je lui ai donné une chance.
+
+[06560.067]
+Arrête tes mensonges !
+
+[06560.068]
+Elraine
+
+[06560.069]
+Mensonges ou non, il suffit de le demander à l’intéressé...
+
+[06560.071]
+Pourquoi tu te tais !? Dis-lui que tu n’es pas ce Leon, dis-le-lui, {NAME:04 00 00 00} !
+
+[06560.073]
+C’est exact. Je suis Leon... Leon Magnus.
+
+[06560.075]
+N-non, pourquoi... !
+
+[06560.077]
+Mince !!
+
+[06560.078]
+Elraine
+
+[06560.079]
+Ô déesse ! Que ta grande âme vienne ici... !
+
+[06560.081]
+{NAME:04 00 00 00} obtient le titre « {08:30 08 00 00} ».
+
+[06560.082]
+Bon voyage.
+
+[06560.083]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06560.084]
+Voulez-vous passer la nuit ?
+
+[06560.086]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06560.087]
+Reposez-vous bien.
+
+[06560.088]
+Bonjour.
+
+[06560.089]
+Vous n’avez pas assez d’argent.
+
+[06560.090]
+Au plaisir de vous revoir.
+
+[06560.095]
+Obtenu : {16:25 C6}.
+
+[06560.097]
+Obtenu : {08:FF FF FF FF}.
+
+[06560.099]
+Trouvé : {16:25 CE}, mais vous n’avez plus de place.
+
+[06560.101]
+Il n’y a rien ici.
+

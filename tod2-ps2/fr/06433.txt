@@ -1,0 +1,758 @@
+[06433.001]
+Snowfria
+
+[06433.002]
+Snowfria
+
+[06433.003]
+Snowfria
+
+[06433.004]
+Snowfria
+
+[06433.006]
+Serrure retirée grâce à la Lunette du sorcier.
+
+[06433.008]
+Sur la porte, une serrure compliquée et un bout de papier. « Avec un certain outil, on pourrait faire ce qu’on ne peut pas faire d’ordinaire, paraît-il. »
+
+[06433.010]
+« Vos souvenirs du pays des neiges, c’est ici ! »
+
+[06433.012]
+Une grande quantité de marchandises est entassée. Des matériaux de construction, semble-t-il.
+
+[06433.014]
+L’adresse indique : « Pour l’agrandissement du bazar de Heidelberg ».
+
+[06433.016]
+Vide...
+
+[06433.018]
+Dans le bonhomme de neige, il y avait : {08:A9 01 00 00}.
+
+[06433.020]
+Il y a un bonhomme de neige.
+
+[06433.022]
+Un poisson frétille sur la neige...
+
+[06433.024]
+On dirait un bureau de contrôle des entrées, mais... il n’y a personne...
+
+[06433.026]
+A, a... tchoum ! Brr, quel froid ! Il y a plein de neige !
+
+[06433.028]
+Brrr... Filons vite à Heidelberg. À rester plantés ici, on va mourir gelés.
+
+[06433.030]
+{NAME:04 00 00 00}, Heidelberg, c’est de quel côté ?
+
+[06433.032]
+Au nord-ouest d’ici. D’abord vers le nord en suivant la côte, puis, arrivés aux montagnes, vers l’ouest.
+
+[06433.034]
+Heidelberg est une grande ville : nous la trouverons vite.
+
+[06433.035]
+Homme
+
+[06433.036]
+L’autre jour, ces gens de l’Ordre d’Atamoni sont venus nous dire d’offrir des Lentilles.
+
+[06433.037]
+Homme
+
+[06433.038]
+Je les ai renvoyés, évidemment. Un marin qui aurait peur de l’Ordre d’Atamoni, on aura tout vu !
+
+[06433.039]
+Homme
+
+[06433.040]
+Les bienfaits ici-bas, je m’assois dessus. Pas besoin de ça : on vit très bien par ses propres forces.
+
+[06433.041]
+Homme
+
+[06433.042]
+L’autre jour, ces gens de l’Ordre d’Atamoni sont venus nous dire d’offrir des Lentilles.
+
+[06433.043]
+Homme
+
+[06433.044]
+Je les ai renvoyés, évidemment. Un marin qui aurait peur de l’Ordre d’Atamoni, on aura tout vu !
+
+[06433.046]
+Voilà un bonhomme qui a du coffre. Ça ne me déplaît pas, ce genre-là.
+
+[06433.047]
+Homme
+
+[06433.048]
+Les bienfaits ici-bas, je m’assois dessus. Pas besoin de ça : on vit très bien par ses propres forces.
+
+[06433.049]
+Homme
+
+[06433.050]
+Hé, voyageur. Le saumon, la spécialité de Snowfria, tu y as déjà goûté ?
+
+[06433.051]
+Homme
+
+[06433.052]
+Se gaver de poisson dans un port du pays des neiges : c’est ça, le sel du voyage !
+
+[06433.053]
+Jeune homme
+
+[06433.054]
+Bienvenue en Phandaria, les voyageurs ! Alors, vos impressions ?
+
+[06433.056]
+C’est une ville animée. Au pays des neiges, je pensais qu’il y aurait moins de monde.
+
+[06433.058]
+C’est le seul port de Phandaria. Les gens et les marchandises s’y rassemblent forcément.
+
+[06433.059]
+Jeune homme
+
+[06433.060]
+Vous êtes venus de si loin : profitez bien du pays !
+
+[06433.061]
+Jeune homme
+
+[06433.062]
+Bienvenue en Phandaria, les voyageurs ! Alors, vos impressions ?
+
+[06433.064]
+Ce froid, il n’y a rien à faire, je ne m’y fais pas.
+
+[06433.065]
+Jeune homme
+
+[06433.066]
+Ha ha ha ! Bah, c’est comme ça !
+
+[06433.067]
+Jeune homme
+
+[06433.068]
+Vous êtes venus de si loin : profitez bien du pays !
+
+[06433.069]
+Jeune homme
+
+[06433.070]
+Vous venez faire quoi en Phandaria, vous autres ? Du tourisme ?
+
+[06433.072]
+Non. On cherche quelque chose. Quoi, je ne sais pas encore...
+
+[06433.073]
+Jeune homme
+
+[06433.074]
+... Je ne saisis pas trop, mais vous avez vos raisons, hein ? Bon courage !
+
+[06433.075]
+Jeune homme
+
+[06433.076]
+Vous devez avoir vos raisons, vous autres. Je prie moi aussi pour que vous trouviez ce que vous cherchez.
+
+[06433.077]
+Voyageur
+
+[06433.078]
+N-ne me parlez pas. Quand on me parle, mon corps s’arrête de bouger...
+
+[06433.079]
+Voyageur
+
+[06433.080]
+Mais puisque je vous dis de ne pas me parler !
+
+[06433.081]
+Voyageur
+
+[06433.082]
+S-si je ne bouge pas, je vais mourir de froid...
+
+[06433.083]
+Voyageur
+
+[06433.084]
+J-je vous en prie, ne m’empêchez pas... de remuer les jambes...
+
+[06433.085]
+Voyageur
+
+[06433.086]
+Ouiiiiin ! Ne me tourmentez pas comme ça !
+
+[06433.087]
+Jeune femme
+
+[06433.088]
+La neige, c’est merveilleux, non ?★ Rien qu’à la regarder, on se sent le cœur lavé.
+
+[06433.089]
+Jeune femme
+
+[06433.090]
+En vrai, je resterais des heures à regarder la neige, mais dehors, il fait trop froid.
+
+[06433.092]
+Ha ha ha. À deux, en se réchauffant l’un l’autre, le froid, on l’envoie promener.
+
+[06433.094]
+Toi aussi, regarde donc un peu la neige et tâche de devenir sérieux.
+
+[06433.095]
+Jeune femme
+
+[06433.096]
+C’est vrai que la neige est belle, mais les jours de blizzard, c’est l’horreur...
+
+[06433.097]
+Jeune femme
+
+[06433.098]
+La neige, c’est merveilleux, non ?★ Rien qu’à la regarder, on se sent le cœur lavé.
+
+[06433.100]
+Quelle pureté~. Tout comme moi.
+
+[06433.102]
+Elle est où, ta pureté, à toi...
+
+[06433.103]
+Jeune femme
+
+[06433.104]
+C’est vrai que la neige est belle, mais les jours de blizzard, c’est l’horreur...
+
+[06433.105]
+Jeune femme
+
+[06433.106]
+La neige, c’est merveilleux, non ?★ Rien qu’à la regarder, on se sent le cœur lavé.
+
+[06433.107]
+Jeune femme
+
+[06433.108]
+En vrai, je resterais des heures à regarder la neige, mais dehors, il fait trop froid.
+
+[06433.110]
+Ha ha ha. À deux, en se réchauffant l’un l’autre, le froid, on l’envoie promener.
+
+[06433.111]
+Jeune femme
+
+[06433.112]
+{05:E0 01 00 00}Me réchauffer avec vous ? Ha ! La bonne plaisanterie.
+
+[06433.113]
+Enfant
+
+[06433.114]
+Chuut ! Tu parles trop fort ! On me court après, là !
+
+[06433.115]
+Enfant
+
+[06433.116]
+Maman me casse les oreilles avec son « déblaie la neige », alors je me sauve !
+
+[06433.117]
+Guichetier
+
+[06433.118]
+D’ici, vous pouvez gagner Neustadt. Voulez-vous embarquer ?
+
+[06433.120]
+{03:00 00 00 00}　Aller à Neustadt ({0B:01 00 00 00}{14:24 7C}{0B:00 00 00 00} Gald)　
+　Ne pas embarquer　
+
+[06433.122]
+{03:00 00 00 00}　Aller à Neustadt　
+　Ne pas embarquer　
+
+[06433.123]
+Guichetier
+
+[06433.124]
+Hé là, il n’y a pas le compte. Soyez gentil, voyons, m’sieur !
+
+[06433.125]
+Guichetier
+
+[06433.126]
+Vous êtes sûr, m’sieur ? Dépêchez-vous, le navire va partir !
+
+[06433.127]
+Marin
+
+[06433.128]
+Kaah~, le pays, après tout ce temps. Les joues qui picotent en gelant... Ça me rappelle des souvenirs !
+
+[06433.130]
+Hé... t’as pas froid, habillé comme ça ?
+
+[06433.131]
+Marin
+
+[06433.132]
+Ce froid, c’est la marque du pays. J’ai grandi sur une terre où même la morve gèle, moi !
+
+[06433.133]
+Marin
+
+[06433.134]
+À regarder le canal comme ça, je repense au passé...
+
+[06433.135]
+Marin
+
+[06433.136]
+Tomber dans le canal en hiver et manquer d’y rester : aujourd’hui, c’est un bon souvenir.
+
+[06433.138]
+Euh... c’est dangereux, vous savez ?
+
+[06433.139]
+Marin
+
+[06433.140]
+T’inquiète pas. Gamin, pour montrer que j’avais du cran, je jouais souvent sur la rambarde.
+
+[06433.141]
+Marin
+
+[06433.142]
+À regarder le canal comme ça, je repense au passé...
+
+[06433.143]
+Marin
+
+[06433.144]
+Tomber dans le canal en hiver et manquer d’y rester : aujourd’hui, c’est un bon souvenir.
+
+[06433.145]
+Marin
+
+[06433.146]
+Kaah~, le pays, après tout ce temps. Les joues qui picotent en gelant... Ça me rappelle des souvenirs !
+
+[06433.148]
+Hé... t’as pas froid, habillé comme ça ?
+
+[06433.149]
+Marin
+
+[06433.150]
+Ce froid, c’est la marque du pays. J’ai grandi sur une terre où même la morve gèle, moi !
+
+[06433.151]
+Marin
+
+[06433.152]
+À regarder le canal comme ça, je repense au passé...
+
+[06433.153]
+Marin
+
+[06433.154]
+Tomber dans le canal en hiver et manquer d’y rester : aujourd’hui, c’est un bon souvenir.
+
+[06433.155]
+Papy Saumon
+
+[06433.156]
+Du saumon grillé, t’en veux ?
+
+[06433.158]
+{03:00 00 00 00}　Manger　
+　Ne pas manger　
+
+[06433.159]
+Mange.
+
+[06433.161]
+Vous mangez le saumon grillé. Il est brûlé, et mauvais.
+
+[06433.162]
+Ça fait {0B:01 00 00 00}{06:14 00 00 00}{0B:00 00 00 00} Gald.
+
+[06433.163]
+Quoi, sans le sou ? T’en reveux ?
+
+[06433.164]
+Mange tout ton soûl.
+
+[06433.166]
+Vous payez vos derniers {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald...
+
+[06433.167]
+Je te fais un prix.
+
+[06433.169]
+Vous payez {0B:01 00 00 00}{06:14 00 00 00}{0B:00 00 00 00} Gald...
+
+[06433.170]
+Merci bien.
+
+[06433.171]
+Ah bon.
+
+[06433.172]
+Du saumon grillé, la spécialité de Snowfria, ça te dit ?
+
+[06433.174]
+Il serait pas... un peu brûlé ?
+
+[06433.175]
+Une fois dans l’estomac, tout se vaut. Ne te soucie donc pas du goût.
+
+[06433.177]
+Obtenu : {08:7C 00 00 00}.
+
+[06433.178]
+Frère
+
+[06433.179]
+Hé hé, salut, frérot. Cet objet, là, {08:7C 00 00 00}, il est à moi, vois-tu. Si tu le veux, je te le vends.
+
+[06433.180]
+Frère
+
+[06433.181]
+... Mais t’as pas l’air d’avoir un rond. Tss. Alors j’ai rien à te dire. Rends-moi cette épée !
+
+[06433.183]
+Rendu : {08:7C 00 00 00}.
+
+[06433.184]
+Frère
+
+[06433.185]
+... Bon, vu que c’est toi et moi, prix d’ami : {0B:01 00 00 00}{06:A0 0F 00 00}{0B:00 00 00 00} Gald, ça ira. Vente spéciale : c’est maintenant ou jamais.
+
+[06433.187]
+{03:00 00 00 00}　C’est donné ! J’achète !　
+　Sans façon, frérot　
+
+[06433.188]
+Frère
+
+[06433.189]
+Hé hé, voilà qui est parler. T’as fait une affaire, frérot.
+
+[06433.191]
+Payé : {0B:01 00 00 00}{06:A0 0F 00 00}{0B:00 00 00 00} Gald.
+
+[06433.192]
+Frère
+
+[06433.193]
+T’es sérieux ? T’y perds, frérot.
+
+[06433.194]
+Katz
+
+[06433.195]
+Ça remonte déjà à bien longtemps, mais j’avais un fils, miou.
+
+[06433.196]
+Katz
+
+[06433.197]
+On s’est perdus en arrivant dans cette ville où il neige, et depuis, plus rien. Aujourd’hui encore, je le cherche partout comme ça, miou.
+
+[06433.198]
+Katz
+
+[06433.199]
+Le seul indice, c’est la fourrure de Katz dorée, faite tout exprès pour lui...
+
+[06433.200]
+Katz
+
+[06433.201]
+Il était tout petit : il ne doit plus se souvenir de moi, miou.
+
+[06433.202]
+Katz
+
+[06433.203]
+Mon mignon « Marshmallow ». Un petit si moelleux, miou...
+
+[06433.204]
+Katz
+
+[06433.205]
+Je ne sais pas où il est, mais il va bien, c’est sûr, miou~.
+
+[06433.206]
+Monaco
+
+[06433.207]
+Collectionneuse
+
+[06433.208]
+Voudriez-vous échanger {0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} de vos {08:4B 00 00 00} contre ceci, qui est à moi : {08:FF FF FF FF} ?
+
+[06433.210]
+{03:00 00 00 00}　Accepter　
+　Refuser　
+
+[06433.211]
+Une autre fois, alors, je vous en prie.
+
+[06433.212]
+Voilà, échangé !
+
+[06433.213]
+Si vous retrouvez des {08:4B 00 00 00}, pensez à moi, d’accord ?
+
+[06433.214]
+Oh, vous avez trop de choses pour le prendre, on dirait.
+
+[06433.215]
+Oh, dommage...
+
+[06433.216]
+Je collectionne ceci : {08:4B 00 00 00}.
+
+[06433.217]
+Bonjour, je m’appelle Monaco.
+
+[06433.218]
+Monaco
+
+[06433.219]
+Je suis servante, de mon métieeer.
+
+[06433.220]
+Les jours de neige, je suis prise par le déblayage à la grande demeure...
+
+[06433.221]
+Enfin, bon, ça, peu importe.
+
+[06433.222]
+En fait, je collectionne ceci : {08:4B 00 00 00}...
+
+[06433.223]
+Si vous trouvez des {08:4B 00 00 00}, voudriez-vous me les céder ?
+
+[06433.224]
+Bon voyage.
+
+[06433.225]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06433.226]
+Voulez-vous passer la nuit ?
+
+[06433.228]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06433.229]
+Reposez-vous bien.
+
+[06433.230]
+Bonjour.
+
+[06433.231]
+Vous n’avez pas assez d’argent.
+
+[06433.232]
+Au plaisir de vous revoir.
+
+[06433.237]
+Obtenu : {16:25 CA}.
+
+[06433.239]
+Obtenu : {08:FF FF FF FF}.
+
+[06433.241]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06433.243]
+Il n’y a rien ici.
+
+[06433.244]
+Vendeur ({08:12 00 00 00})
+
+[06433.245]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06433.246]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06433.247]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06433.248]
+C’est {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06433.250]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:25 E6} ({14:35 E0} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06433.252]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06433.253]
+Merci de votre achat.
+
+[06433.254]
+Merci de votre achat.
+
+[06433.255]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:35 DC}{0B:00 00 00 00} Gald pièce.
+
+[06433.256]
+Voulez-vous suivre le cours de raffinage ?
+
+[06433.258]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06433.259]
+Que voulez-vous savoir ?
+
+[06433.261]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06433.263]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06433.264]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06433.265]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06433.266]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06433.267]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06433.268]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06433.269]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06433.270]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06433.271]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06433.272]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06433.273]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06433.274]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06433.275]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06433.276]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06433.277]
+Je vous expliquerai les emplacements en détail à part.
+
+[06433.278]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06433.279]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06433.280]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06433.281]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06433.282]
+Je vais vous expliquer les emplacements en détail.
+
+[06433.283]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06433.284]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06433.285]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06433.286]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06433.287]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06433.288]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06433.289]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06433.290]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06433.291]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06433.292]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06433.293]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06433.294]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06433.295]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06433.296]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06433.297]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06433.298]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06433.299]
+... Ranger ses objets, c’est important aussi.
+

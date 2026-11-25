@@ -1,0 +1,9 @@
+[00620.001]
+Bon. Je la cherche seulement parce que vous insistez, vous deux. Allez pas vous faire des idées.
+
+[00620.002]
+Oui, oui, pas d’excuses.
+
+[00620.003]
+Oui, {NAME:03 00 00 00}.
+

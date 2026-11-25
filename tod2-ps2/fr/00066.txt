@@ -1,0 +1,18 @@
+[00066.001]
+Hm hm hmm~♪
+
+[00066.002]
+Hé, {NAME:01 00 00 00}. Attends.
+
+[00066.003]
+Hm ? Quoi ?
+
+[00066.004]
+Tu marches d’un bon pas depuis tout à l’heure, mais tu sais où sont les ruines, au moins ?
+
+[00066.005]
+Oui. Il y a très longtemps, je suis allé tout près. J’avais semé des miettes de pain pour repère : il suffit de les retrouver et de les suivre, et...
+
+[00066.006]
+Cré~tin ! Des miettes aussi vieilles, il n’en reste rien. Regarde la carte ! La carte ! ........ Bon ? Ici, Cresta. Les ruines de Laguna sont au sud-est. Compris ?
+

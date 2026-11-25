@@ -1,0 +1,21 @@
+[00846.001]
+Elraine « fait amasser des tas de Lentilles par ses fidèles »... donc elle mijote encore quelque chose, non ?
+
+[00846.002]
+Oui... La question est de savoir à quoi elle destine ces Lentilles...
+
+[00846.003]
+À cent pour cent, rien de bon ! Vraiment, cette femme, elle n’arrête jamais, coup sur coup...
+
+[00846.004]
+Cette fois, on en finit. Hein, {NAME:02 00 00 00} ?
+
+[00846.005]
+............
+
+[00846.006]
+... {NAME:02 00 00 00} ?
+
+[00846.007]
+Hein !? Oui. Cette fois, on en finit !
+

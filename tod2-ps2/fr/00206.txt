@@ -1,0 +1,18 @@
+[00206.001]
+Dis, {NAME:04 00 00 00}, c’est moi qui t’ai invité, mais ça va vraiment, de te traîner jusqu’à Heidelberg ?
+
+[00206.002]
+Hmf... Il est trop tard pour y revenir. Et vous laisser seuls m’inquiéterait, c’est certain.
+
+[00206.003]
+Mais ta famille ne va pas s’inquiéter ?
+
+[00206.004]
+... Une famille...... Sois tranquille : je n’ai rien de tel.
+
+[00206.005]
+Je vois... Tu portes un drôle de masque, mais toi aussi, tu en as bavé.
+
+[00206.006]
+Pas « drôle » !
+

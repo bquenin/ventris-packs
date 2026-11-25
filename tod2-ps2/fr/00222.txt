@@ -1,0 +1,12 @@
+[00222.001]
+Le village de Lienea...... C’était un bel endroit. On s’est bien reposés, et la cuisine de Lilith était exquise.
+
+[00222.002]
+Tu parles de ce ragoût ? ...... Un assaisonnement campagnard, sans raffinement.
+
+[00222.003]
+Dis donc, {NAME:04 00 00 00}. Tu as tout mangé, et tu t’es même resservi.
+
+[00222.004]
+S-silence ! Je n’ai pas dit mauvais !
+

@@ -1,0 +1,6 @@
+[00460.001]
+Pressons, {NAME:01 00 00 00}. À cette vitesse, il arrive en un clin d’œil.
+
+[00460.002]
+Ça va !
+

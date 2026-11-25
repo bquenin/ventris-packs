@@ -1,0 +1,15 @@
+[00304.001]
+... Atchoum !
+
+[00304.002]
+Ça va, {NAME:02 00 00 00} !?
+
+[00304.003]
+O... oui... C’est la première fois que je viens au pays des neiges : j’ai dû prendre un peu froid.
+
+[00304.004]
+Haha ! Au pays des neiges, on se refroidit vite si on ne fait pas attention. Il faut bien se couvrir.
+
+[00304.005]
+Et ta stalactite de morve, alors ?
+

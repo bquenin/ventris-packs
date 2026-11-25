@@ -1,0 +1,133 @@
+[06567.001]
+Base de l’armée terrestre
+
+[06567.002]
+Base de l’armée terrestre
+
+[06567.003]
+Trafiquant
+
+[06567.004]
+Hé hé... Dites, les gars. J’ai de la bonne marchandise. Vous jetez un œil ?
+
+[06567.006]
+Dis donc, toi ! Ce n’est pas du matériel de l’armée, ça !? Le commerce d’équipement est interdit, que je sache !
+
+[06567.007]
+Revendeur
+
+[06567.008]
+Ouh ! Ça sent mauvais ! Elle est de l’armée !
+
+[06567.009]
+Trafiquant
+
+[06567.010]
+Désolé, les gars ! Revenez quand la donzelle ne sera pas là !
+
+[06567.011]
+Hé hé... Merci bien.
+
+[06567.012]
+Hé hé... À la prochaine.
+
+[06567.013]
+Trafiquant
+
+[06567.014]
+Revendeur
+
+[06567.015]
+Hé, elle est à combien, la Fiole de liqueur ?
+
+[06567.016]
+Trafiquant
+
+[06567.017]
+Hé hé... Celle-là, elle coûte un peu cher. L’alcool, ça se fait rare, voyez.
+
+[06567.018]
+Revendeur
+
+[06567.019]
+Tss, tu profites de la situation. De toute façon, ça aussi, c’est du matériel détourné de l’armée, non ?
+
+[06567.020]
+Revendeur
+
+[06567.021]
+Saletés de militaires. Jusqu’à quand vont-ils nous faire vivre comme ça, nous, les civils ?
+
+[06567.022]
+Revendeur
+
+[06567.023]
+Que l’armée terrestre gagne ou que ce soit l’armée céleste, ça ne changera pas grand-chose.
+
+[06567.024]
+Revendeur
+
+[06567.025]
+N’importe comment, mais qu’on en finisse vite avec cette guerre...
+
+[06567.026]
+Revendeur
+
+[06567.027]
+La guerre arrive à son dénouement, on dirait. Les militaires s’affolent.
+
+[06567.028]
+Revendeur
+
+[06567.029]
+Pas besoin que l’armée terrestre gagne. Que la guerre finisse, c’est tout ce que je demande.
+
+[06567.030]
+Revendeur
+
+[06567.031]
+La guerre finie, que deviendront les criminels de guerre ?
+
+[06567.032]
+Revendeur
+
+[06567.033]
+Au pire, l’exécution... au mieux, l’exil du côté de Calvalese.
+
+[06567.034]
+Bon voyage.
+
+[06567.035]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06567.036]
+Voulez-vous passer la nuit ?
+
+[06567.038]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06567.039]
+Reposez-vous bien.
+
+[06567.040]
+Bonjour.
+
+[06567.041]
+Vous n’avez pas assez d’argent.
+
+[06567.042]
+Au plaisir de vous revoir.
+
+[06567.047]
+Obtenu : {16:25 BA}.
+
+[06567.049]
+Obtenu : {08:FF FF FF FF}.
+
+[06567.051]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06567.053]
+Il n’y a rien ici.
+

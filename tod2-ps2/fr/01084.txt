@@ -1,0 +1,9 @@
+[01084.001]
+Allons aux Ruines de Laguna chercher la Lentille géante à trois millions de Gald !
+
+[01084.002]
+Elles sont au sud de Cresta. Tu vois la tour dans la forêt ? C’est là.
+
+[01084.003]
+On y va !
+

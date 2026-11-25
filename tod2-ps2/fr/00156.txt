@@ -1,0 +1,12 @@
+[00156.001]
+{NAME:01 00 00 00}, tu te souviens de l’usage de l’Anneau du sorcier ?
+
+[00156.002]
+Bien sûr ! Ça sert à allumer du feu, non ?
+
+[00156.003]
+Pas seulement. Le choc peut aussi enfoncer un interrupteur. Ne l’oublie pas.
+
+[00156.004]
+Et un point capital : chaque tir use des Lentilles. Tire pour rien, et tu es vite à sec.
+

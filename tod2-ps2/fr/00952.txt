@@ -1,0 +1,15 @@
+[00952.001]
+Au fait, toi, gamin, tu te perdais souvent dans la forêt. Depuis toujours, dès qu’il y a un truc curieux, tu pars de-ci, de-là...
+
+[00952.002]
+Tu peux parler. Toi, tu as suivi le derrière d’une demoiselle d’une troupe ambulante, et on ne t’a plus retrouvé...
+
+[00952.003]
+... B-bon, on a grandi tous les deux depuis, alors évitons chacun de filer de notre côté, et... Hé ! {NAME:01 00 00 00}, tu vas où !
+
+[00952.004]
+J’ai cru voir une bête super rare, à l’instant... Ah ! Trouvée ! Tu ne m’échapperas pas !
+
+[00952.005]
+Non mais... à peine dit, et voilà............ Hm ? Hé ! {NAME:01 00 00 00}. Il vient pas de passer une beauté renversante ? Aah ! Mirage ou pas, tant pis ! Moi, je cours après elle ! Nuoooryaaa~~ !!
+

@@ -1,0 +1,145 @@
+[06595.001]
+Dycroft
+
+[06595.002]
+Dycroft
+
+[06595.003]
+Dymlos
+
+[06595.004]
+Général de division Dymlos Timber, corps Junkers de l’armée terrestre : je viens vous chercher !
+
+[06595.005]
+Atwight
+
+[06595.006]
+Dymlos... ! Mon général...
+
+[06595.007]
+Clemente
+
+[06595.008]
+Ooh, Dymlos ! Tu as bien fait de venir.
+
+[06595.009]
+Dymlos
+
+[06595.010]
+Maître Clemente, quel bonheur de vous trouver sain et sauf.
+
+[06595.011]
+Clemente
+
+[06595.012]
+Bah, je ne pouvais tout de même pas crever dans un endroit pareil. « Les vieux soldats ne meurent jamais », hé.
+
+[06595.013]
+Dymlos
+
+[06595.014]
+Je me présente sur l’ordre de Litler, commandant en chef de l’armée terrestre. Soyez les bienvenus parmi nous.
+
+[06595.015]
+Raditz
+
+[06595.016]
+Au nom des concepteurs de Belcrant, je vous remercie. Merci, Dymlos.
+
+[06595.017]
+Igtenos
+
+[06595.018]
+Hâtons-nous, général Dymlos. Les poursuivants ne tarderont pas à arriver ici aussi.
+
+[06595.019]
+Dymlos
+
+[06595.020]
+Oui, entendu.
+
+[06595.021]
+Dymlos
+
+[06595.022]
+Nous allons à présent percer droit à travers l’ennemi jusqu’au hangar. Ne vous éloignez de nous sous aucun prétexte.
+
+[06595.023]
+Dymlos
+
+[06595.024]
+Comme prévu, empare-toi de la salle de contrôle et arrête un temps les fonctions de Dycroft.
+
+[06595.026]
+Laisse-moi faire, je te dis.
+
+[06595.027]
+Dymlos
+
+[06595.028]
+Dès qu’ils sauront la salle de contrôle tombée, toute l’attention de l’ennemi se portera sur vous. Soyez très prudents.
+
+[06595.030]
+Je sais, je sais. Dépêche-toi plutôt.
+
+[06595.031]
+Dymlos
+
+[06595.032]
+{NAME:01 00 00 00}.
+
+[06595.034]
+O-oui !
+
+[06595.035]
+Dymlos
+
+[06595.036]
+Je vous confie {NAME:06 00 00 00}. Nous vous attendons au hangar !
+
+[06595.038]
+On dirait qu’il nous reconnaît un peu de valeur ?
+
+[06595.040]
+... Oui, on dirait !
+
+[06595.042]
+Bon, on va leur montrer ! Allons-y, tout le monde !
+
+[06595.043]
+Bon voyage.
+
+[06595.044]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06595.045]
+Voulez-vous passer la nuit ?
+
+[06595.047]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06595.048]
+Reposez-vous bien.
+
+[06595.049]
+Bonjour.
+
+[06595.050]
+Vous n’avez pas assez d’argent.
+
+[06595.051]
+Au plaisir de vous revoir.
+
+[06595.056]
+Obtenu : {16:25 BA}.
+
+[06595.058]
+Obtenu : {08:FF FF FF FF}.
+
+[06595.060]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06595.062]
+Il n’y a rien ici.
+

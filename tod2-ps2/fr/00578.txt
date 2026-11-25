@@ -1,0 +1,9 @@
+[00578.001]
+Dites, quand on aura assez d’infos, cherchons un coin pour dormir. Une idée viendra peut-être en dormant.
+
+[00578.002]
+Toi, une fois réveillé, tu auras tout oublié...
+
+[00578.003]
+Méchant, {NAME:03 00 00 00} ! Je retiens ! ... Un peu.
+

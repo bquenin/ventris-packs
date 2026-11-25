@@ -1,0 +1,58 @@
+[06342.001]
+Canaux souterrains de Darilsheid
+
+[06342.002]
+Canaux souterrains de Darilsheid
+
+[06342.004]
+Ici, les canaux souterrains.
+
+[06342.006]
+Une vieille corde pend ici. Elle a l’air de pouvoir brûler.
+
+[06342.008]
+Une vieille corde pend ici. Elle a l’air de pouvoir brûler.
+
+[06342.010]
+Une vieille corde pend ici. Elle a l’air de pouvoir brûler.
+
+[06342.012]
+Obtenu : {08:41 00 00 00}.
+
+[06342.013]
+Bon voyage.
+
+[06342.014]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06342.015]
+Voulez-vous passer la nuit ?
+
+[06342.017]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06342.018]
+Reposez-vous bien.
+
+[06342.019]
+Bonjour.
+
+[06342.020]
+Vous n’avez pas assez d’argent.
+
+[06342.021]
+Au plaisir de vous revoir.
+
+[06342.026]
+Obtenu : {16:25 BE}.
+
+[06342.028]
+Obtenu : {08:FF FF FF FF}.
+
+[06342.030]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06342.032]
+Il n’y a rien ici.
+

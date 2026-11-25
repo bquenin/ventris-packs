@@ -1,0 +1,487 @@
+[06391.001]
+Grand temple de Straylize
+
+[06391.002]
+Grand temple de Straylize
+
+[06391.003]
+Temple de Straylize
+
+[06391.004]
+Temple de Straylize
+
+[06391.006]
+Une grande et haute horloge ancienne. Une vieille dame s’en servait-elle, quelque part ?
+
+[06391.008]
+Un cristal à l’éclat mystérieux. Il est d’une taille insensée : combien peut-il bien valoir...
+
+[06391.010]
+Ici, la chapelle.
+
+[06391.012]
+C’est... le grand temple de Straylize, dans le futur... ?
+
+[06391.013]
+Soldat
+
+[06391.014]
+Hé, vous là-bas !
+
+[06391.015]
+Soldat
+
+[06391.016]
+Que faites-vous dans un endroit pareil !?
+
+[06391.018]
+Ah, euh, nous, on...
+
+[06391.020]
+Où est Elraine ?
+
+[06391.021]
+Soldat
+
+[06391.022]
+Qui es-tu, toi ?
+
+[06391.023]
+Soldat
+
+[06391.024]
+H-hé ! Ce pendentif !
+
+[06391.025]
+Soldat
+
+[06391.026]
+Serait-ce... l-la Sainte... !?
+
+[06391.027]
+Soldat
+
+[06391.028]
+Dame Elraine ne se trouve pas ici.
+
+[06391.030]
+Alors où est-elle ?
+
+[06391.031]
+Soldat
+
+[06391.032]
+C’est que, euh... nous ne devons dire à personne où elle est allée.
+
+[06391.034]
+L’affaire est urgente. Répondez : où est Elraine ?
+
+[06391.035]
+Soldat
+
+[06391.036]
+........ À C-Calviola.
+
+[06391.038]
+Calviola, c’est là qu’était la Lentille géante, près du village de {NAME:05 00 00 00}.
+
+[06391.040]
+Quoi qu’elle manigance... en tout cas, mieux vaut faire vite.
+
+[06391.042]
+Oui, je sais. Allons-y, à Calviola !
+
+[06391.043]
+Prêtre
+
+[06391.044]
+Tiens ? Ce n’est pourtant pas jour de culte, aujourd’hui...
+
+[06391.046]
+Mais cette fille est là-dedans... !
+
+[06391.048]
+Ha ha... Un petit malentendu. Merci, merci~.
+
+[06391.049]
+Prêtre
+
+[06391.050]
+Vraiment, c’est contrariant... Alors que dame Elraine nous avait ordonné de suspendre le culte.
+
+[06391.051]
+Prêtre
+
+[06391.052]
+Des intrus auraient pénétré dans le grand temple et s’en seraient pris à Philia.
+
+[06391.053]
+Prêtre
+
+[06391.054]
+Mais se faire un ennemi du temple... Voilà bien ce qu’on appelle ne craindre ni dieu ni diable.
+
+[06391.055]
+Prêtre
+
+[06391.056]
+Hm ? Au fait, vous autres, qui êtes-vous, et d’où venez-vous ?
+
+[06391.057]
+Prêtre
+
+[06391.058]
+Tiens, il est rare de vous voir en un tel endroit.
+
+[06391.060]
+Il te connaît, {NAME:02 00 00 00} ?
+
+[06391.062]
+Il doit me prendre pour une autre... Allons-y, {NAME:01 00 00 00}.
+
+[06391.063]
+Prêtre
+
+[06391.064]
+Je vous en prie, prenez tout votre temps et mettez-vous à l’aise.
+
+[06391.065]
+Prêtre
+
+[06391.066]
+Même moi, un prêtre, je ne pourrais donc pas assister au rite de la Descente...
+
+[06391.067]
+Prêtre
+
+[06391.068]
+Mmh... Qu’on me le dise ainsi me donne encore plus envie de voir.
+
+[06391.069]
+Prêtre
+
+[06391.070]
+Mais cette jeune fille qu’on a laissée y entrer, qui peut-elle bien être ?
+
+[06391.071]
+Prêtre
+
+[06391.072]
+Que se passe-t-il !? Quel est ce vacarme ? La divinité est-elle enfin descendue ?
+
+[06391.074]
+Hé hé. Comme si on allait la laisser faire si facilement !
+
+[06391.075]
+Prêtre
+
+[06391.076]
+Où donc dame Elraine est-elle partie !? Et la cérémonie, qu’est-elle devenue ?
+
+[06391.077]
+Prêtre
+
+[06391.078]
+D’après dame Elraine, le jour où le monde sera conduit au bonheur n’est plus très loin.
+
+[06391.080]
+Eh bien... On ne leur a vraiment rien dit, à ceux-là.
+
+[06391.081]
+Prêtre
+
+[06391.082]
+D’après dame Elraine, le jour où le monde sera conduit au bonheur n’est plus très loin.
+
+[06391.084]
+Ce qu’Elraine conduira, c’est ce monde, et lui seul... L’humanité n’en fait pas partie !
+
+[06391.085]
+Prêtre
+
+[06391.086]
+Pourvu que le monde entier baigne bientôt dans le bonheur.
+
+[06391.087]
+Prêtre
+
+[06391.088]
+Qu’y a-t-il ? Auriez-vous quelque chose à demander au ciel ?
+
+[06391.090]
+Quelque chose à demander ? Si je disais « présentez-moi une fille », je me ferais foudroyer...
+
+[06391.091]
+Prêtre
+
+[06391.092]
+Qui s’efforce en toute chose sans renoncer recevra sûrement l’aide du ciel.
+
+[06391.093]
+Clerc
+
+[06391.094]
+Ce n’est pas jour de culte, aujourd’hui... Ne serait-ce pas là, comme qui dirait, ce qu’on appelle une infraction au règlement ?
+
+[06391.096]
+Hein ! Ah... non, c’est que...
+
+[06391.097]
+Clerc
+
+[06391.098]
+Je comprends qu’on veuille prier jusqu’à enfreindre le règlement, mais à l’avenir, faites attention, voulez-vous ?
+
+[06391.099]
+Clerc
+
+[06391.100]
+Vous êtes donc, comme qui dirait, ce qu’on appelle des fidèles fervents.
+
+[06391.101]
+Clerc
+
+[06391.102]
+Quelqu’un se serait introduit ici ! Ce que le commun des mortels appelle des « malfaiteurs » !
+
+[06391.104]
+Mieux vaut filer avant qu’on se méprenne sur nous.
+
+[06391.105]
+Clerc
+
+[06391.106]
+Ne serait-ce pas là, comme qui dirait, ce qu’on appelle une « situation périlleuse » ?
+
+[06391.107]
+Clerc
+
+[06391.108]
+Ce sont toujours des gens de l’extérieur qui apportent la discorde à Aigrette.
+
+[06391.109]
+Clerc
+
+[06391.110]
+Si le monde entier devenait comme Aigrette, toute discorde disparaîtrait, je crois...
+
+[06391.112]
+Pff ! De quoi je me mêle.
+
+[06391.113]
+Clerc
+
+[06391.114]
+Les gens doivent être heureux. Pourquoi ceux du monde extérieur ne le comprennent-ils pas ?
+
+[06391.115]
+Clerc
+
+[06391.116]
+« Deux jouvencelles seules dans une pièce close »... Ha ! Non, je n’imaginais rien d’inconvenant...
+
+[06391.117]
+Clerc
+
+[06391.118]
+C-c’est ce que le commun des mortels appelle un « malentendu » !
+
+[06391.120]
+Laissons ce type et allons voir ailleurs !
+
+[06391.121]
+Clerc
+
+[06391.122]
+Aah ! Quelle inconvenance de ma part...
+
+[06391.123]
+Clerc
+
+[06391.124]
+Qu’est-ce que c’est que ce vacarme, dehors ! Serait-ce là ce qu’on appelle la « fin du monde » ?
+
+[06391.125]
+Clerc
+
+[06391.126]
+Haouu~. Dire que mon chapardage d’hier soir à la cuisine m’attire un tel châtiment...
+
+[06391.127]
+Clerc
+
+[06391.128]
+Mes pensées inconvenantes de tout à l’heure, la déesse Atamoni les a donc entendues aussi~ !!
+
+[06391.129]
+Clerc
+
+[06391.130]
+Ce qu’on appelle communément une « fin heureuse » est sur le point d’arriver, voyez-vous.
+
+[06391.132]
+Tu parles d’une fin heureuse. Elle veut juste que tout finisse comme ça l’arrange.
+
+[06391.134]
+Je ne peux pas laisser tout finir ainsi... Ce monde... l’histoire de {NAME:01 00 00 00} et des autres...
+
+[06391.135]
+Clerc
+
+[06391.136]
+Un « monde heureux », à quoi cela ressemble-t-il, pour le commun des mortels ?
+
+[06391.137]
+Clerc
+
+[06391.138]
+Chaque fois que je vois vos sourires à tous, une énergie nouvelle jaillit en moi.
+
+[06391.139]
+Clerc
+
+[06391.140]
+C’est, comme qui dirait, ce qu’on appelle un sentiment de plénitude qui me parcourt le corps, voyez-vous.
+
+[06391.141]
+Clerc
+
+[06391.142]
+Puissent des jours emplis de « plénitude » venir à vous aussi.
+
+[06391.143]
+Clerc
+
+[06391.144]
+Tiens ? Ce n’est pas jour de culte, aujourd’hui... Ce qui veut dire...
+
+[06391.146]
+Gloups !
+
+[06391.147]
+Clerc
+
+[06391.148]
+Vous venez visiter ! Est-ce pour devenir clercs ? Pour devenir chevaliers ?
+
+[06391.149]
+Clerc
+
+[06391.150]
+Unissons nos forces et bâtissons ensemble un monde heureux~♪
+
+[06391.151]
+Clerc
+
+[06391.152]
+Que faire ! Des gens méchants auraient daigné s’introduire ici !
+
+[06391.154]
+« Daigné s’introduire »...
+
+[06391.155]
+Clerc
+
+[06391.156]
+Mais ce sont des êtres humains aussi. En leur parlant, ils comprendront sûrement ! Oui, oui !
+
+[06391.157]
+Clerc
+
+[06391.158]
+Même les méchants font le mal parce qu’ils veulent être heureux~.
+
+[06391.159]
+Clerc
+
+[06391.160]
+Depuis que la déesse Fortuna est descendue, le monde est tellement paisible.
+
+[06391.161]
+Clerc
+
+[06391.162]
+J’aimerais bien parler avec la déesse Fortuna, moi aussi~♪
+
+[06391.163]
+Clerc
+
+[06391.164]
+Il y a du bruit dehors depuis tout à l’heure : se serait-il passé quelque chose~ ?
+
+[06391.166]
+Aah ! Mais lâchez-moi, on est pressés~.
+
+[06391.167]
+Clerc
+
+[06391.168]
+Le monde heureux dont parle dame Elraine, quel monde cela peut-il être ?
+
+[06391.169]
+Clerc
+
+[06391.170]
+Un monde où chacun vit le sourire aux lèvres, sûrement.
+
+[06391.171]
+Clerc
+
+[06391.172]
+Quand la cérémonie sera finie, le monde baignera dans le bonheur, paraît-il~.
+
+[06391.173]
+Clerc
+
+[06391.174]
+C’est encore difficile pour l’instant, mais si nous unissons tous nos forces, le monde deviendra heureux.
+
+[06391.175]
+Clerc
+
+[06391.176]
+Après tout, le vœu d’« être heureux », tout le monde le partage~♪
+
+[06391.177]
+Clerc
+
+[06391.178]
+Entre gens qui veulent « être heureux », on doit bien pouvoir unir ses forces~.
+
+[06391.179]
+Bon voyage.
+
+[06391.180]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06391.181]
+Voulez-vous passer la nuit ?
+
+[06391.183]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06391.184]
+Reposez-vous bien.
+
+[06391.185]
+Bonjour.
+
+[06391.186]
+Vous n’avez pas assez d’argent.
+
+[06391.187]
+Au plaisir de vous revoir.
+
+[06391.192]
+Obtenu : {16:25 BA}.
+
+[06391.194]
+Obtenu : {08:FF FF FF FF}.
+
+[06391.196]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06391.198]
+Il n’y a rien ici.
+

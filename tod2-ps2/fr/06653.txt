@@ -1,0 +1,77 @@
+[06653.001]
+Œuf de Dieu : niveau supérieur
+
+[06653.002]
+Œuf de Dieu : niveau supérieur
+
+[06653.003]
+Œuf de Dieu : niveau supérieur
+
+[06653.004]
+Œuf de Dieu
+
+[06653.006]
+Se téléporter au niveau inférieur de « l’Œuf de Dieu » ?
+
+[06653.008]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06653.010]
+Voilà donc « l’Œuf de Dieu »... ... L’endroit donne la chair de poule.
+
+[06653.012]
+Faire éclore la déesse dans cette coquille qu’est une comète... Je vois. ... C’est bien un « Œuf de Dieu ».
+
+[06653.014]
+Et la coquille elle-même est faite de Lentilles, par-dessus le marché. Eh bien, que va-t-il se passer...
+
+[06653.016]
+Quoi qu’il se passe, peu importe : on avance en force ! C’est ce qu’on a toujours fait, d’ailleurs.
+
+[06653.018]
+... Écoutez tous : qu’on rie ou qu’on pleure, ce sera le dernier combat.
+
+[06653.020]
+On y met tout ce qu’on est, et on abat la déesse !
+
+[06653.022]
+... Oui ! Allons-y, {NAME:01 00 00 00} !
+
+[06653.023]
+Bon voyage.
+
+[06653.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06653.025]
+Voulez-vous passer la nuit ?
+
+[06653.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06653.028]
+Reposez-vous bien.
+
+[06653.029]
+Bonjour.
+
+[06653.030]
+Vous n’avez pas assez d’argent.
+
+[06653.031]
+Au plaisir de vous revoir.
+
+[06653.036]
+Obtenu : {16:27 0A}.
+
+[06653.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06653.040]
+Trouvé : {16:27 12}, mais vous n’avez plus de place.
+
+[06653.042]
+Il n’y a rien ici.
+

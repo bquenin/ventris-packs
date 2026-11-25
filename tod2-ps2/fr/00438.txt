@@ -1,0 +1,21 @@
+[00438.001]
+Au fait, je n’ai pas croisé « mon moi du futur ». Sûrement un homme cool et élégant... Dis, {NAME:05 00 00 00}. Un séducteur entouré de femmes, « {NAME:03 00 00 00} Dunamis », ça ne te dit rien ?
+
+[00438.002]
+Rien du tout.
+
+[00438.003]
+Mmh... Bah, bourreau des cœurs comme je suis, des femmes folles de jalousie m’ont peut-être tué...
+
+[00438.004]
+Je parie sur « tué pour avoir dragué la femme d’un autre ».
+
+[00438.005]
+Ah, moi aussi !
+
+[00438.006]
+Je vote pour, moi aussi.
+
+[00438.007]
+On ne vote pas !
+

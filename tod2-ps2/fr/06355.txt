@@ -1,0 +1,127 @@
+[06355.001]
+Vallée de Harmentz
+
+[06355.002]
+Vallée de Harmentz
+
+[06355.003]
+???
+
+[06355.005]
+Les débris de la cité aérienne qui s’est écrasée il y a dix-huit ans.
+
+[06355.006]
+... Qu’y a-t-il ? Je n’ai pas de temps à perdre à parler avec vous.
+
+[06355.007]
+Pas là... ici non plus... Que faire...
+
+[06355.009]
+Hé, dis ?
+
+[06355.010]
+Que faire... Je ne le trouve pas... Sans lui, je... !
+
+[06355.012]
+Hé, je te parle !
+
+[06355.013]
+Ah...
+
+[06355.015]
+... ! Tu... tu pleures ?
+
+[06355.016]
+... Qu’y a-t-il ? Je n’ai pas de temps à perdre à parler avec vous.
+
+[06355.018]
+Voilà qui n’est pas bien aimable, alors qu’on a ramassé pour toi ce que tu avais perdu.
+
+[06355.019]
+Hein !?
+
+[06355.021]
+C’est à toi, hein ? Tiens !
+
+[06355.022]
+... !
+
+[06355.024]
+Eh, oh. Même pas un mot de remerciement ?
+
+[06355.026]
+Tu y tiens au point de le chercher en pleurant, non ?
+
+[06355.027]
+Ah...
+
+[06355.028]
+... M-merci.
+
+[06355.030]
+Bah, ce n’est rien : aider les gens en difficulté, c’est tout naturel pour un héros !
+
+[06355.031]
+Un héros...
+
+[06355.032]
+... Non, décidément, ce n’est pas lui.
+
+[06355.034]
+Hein, quoi ?
+
+[06355.035]
+Je vous remercie de l’avoir ramassé.
+
+[06355.036]
+Mais... ne vous mêlez plus de moi. Au revoir.
+
+[06355.038]
+Ah, attends un peu, hé !
+
+[06355.040]
+... Charmante. Hé, {NAME:01 00 00 00}, une fille pareille, ça ne vaut pas la peine de lui courir après, tu sais ?
+
+[06355.042]
+Pas question ! Cette fille, je lui ferai reconnaître que je suis un héros, coûte que coûte !
+
+[06355.044]
+Allez, on y va aussi ! Si on traîne, elle va prendre de plus en plus d’avance !
+
+[06355.045]
+Bon voyage.
+
+[06355.046]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06355.047]
+Voulez-vous passer la nuit ?
+
+[06355.049]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06355.050]
+Reposez-vous bien.
+
+[06355.051]
+Bonjour.
+
+[06355.052]
+Vous n’avez pas assez d’argent.
+
+[06355.053]
+Au plaisir de vous revoir.
+
+[06355.058]
+Obtenu : {16:26 06}.
+
+[06355.060]
+Obtenu : {08:FF FF FF FF}.
+
+[06355.062]
+Trouvé : {16:26 0E}, mais vous n’avez plus de place.
+
+[06355.064]
+Il n’y a rien ici.
+

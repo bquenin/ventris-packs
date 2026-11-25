@@ -1,0 +1,21 @@
+[00336.001]
+Au fait, {NAME:02 00 00 00}, pourquoi tu n’es pas allée voir maman ? Elle aussi est une héroïne, comme le roi Woodrow et Philia.
+
+[00336.002]
+... J’y suis allée, tu sais.
+
+[00336.003]
+Hein !? C’est vrai !? Maman ne m’en a pas dit un mot...
+
+[00336.004]
+C’est normal. Je ne l’ai pas rencontrée directement. Je l’ai seulement regardée de loin.
+
+[00336.005]
+Pourquoi ? Tu ne voulais pas l’écouter, comme avec Philia ?
+
+[00336.006]
+C’était mon intention... mais quand j’ai voulu lui parler, un petit garçon est arrivé en pleurant auprès de Rutee. À peine consolé, voilà le linge qui s’envole au vent, et Rutee est partie je ne sais où...
+
+[00336.007]
+Ahahaha ! Et tu as raté l’occasion.
+

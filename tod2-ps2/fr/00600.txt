@@ -1,0 +1,45 @@
+[00600.001]
+Qu’est-ce que tu as, {NAME:01 00 00 00} ? Cette tête d’enterrement. Si tu as un souci, confie-toi au grand frère {NAME:03 00 00 00} et à sa riche expérience de la vie !
+
+[00600.002]
+... Dis, {NAME:03 00 00 00}. {NAME:02 00 00 00}, ces temps-ci... t’en penses quoi ?
+
+[00600.003]
+Oh, des peines de cœur ? C’est mon rayon. Écoute, {NAME:01 00 00 00}, {NAME:02 00 00 00}, à coup sûr...
+
+[00600.004]
+Elle a pris sa résolution, à sa manière.
+
+[00600.005]
+Hé, {NAME:04 00 00 00}, ne te mêle pas de ça. C’est à moi que {NAME:01 00 00 00} demande conseil !
+
+[00600.006]
+« Pris sa résolution »... c’est-à-dire ?
+
+[00600.007]
+Celle de vivre en Sainte. De te reconnaître pour héros et de vivre à tes côtés. Tout s’est accompli selon tes vœux.
+
+[00600.008]
+C’est... vrai, tu crois ?
+
+[00600.009]
+Qu’est-ce que tu racontes. Tu n’arrêtais pas de répéter « je veux être un héros ».
+
+[00600.010]
+Oui, mais... il y a un truc qui ne va pas. ... Comment dire... la {NAME:02 00 00 00} de maintenant, on dirait que rien ne pourrait l’étonner, non ? Et ça, ça ne ressemble pas à {NAME:02 00 00 00}...
+
+[00600.011]
+Hein ? Mais ça, c’est tout à fait {NAME:04 00 00 00}.
+
+[00600.012]
+... Peut-être bien, au fond. À sa manière, elle cherche peut-être à renoncer à quelque chose...
+
+[00600.013]
+Renoncer... à quoi ?
+
+[00600.014]
+Cela...... réfléchis-y toi-même.
+
+[00600.015]
+Reala...
+

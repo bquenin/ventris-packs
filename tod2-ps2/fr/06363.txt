@@ -1,0 +1,304 @@
+[06363.001]
+Aigrette : chemin du grand temple
+
+[06363.002]
+Aigrette
+
+[06363.003]
+Aigrette : chemin du temple
+
+[06363.004]
+Aigrette
+
+[06363.005]
+Aigrette : chemin du grand temple
+
+[06363.006]
+Aigrette : chemin du temple
+
+[06363.008]
+On aperçoit le grand temple de Straylize, entouré d’une nature grandiose.
+
+[06363.010]
+On aperçoit le temple de Straylize, entouré d’une nature grandiose.
+
+[06363.012]
+Attends, {NAME:04 00 00 00} !
+
+[06363.014]
+Partir comme ça, c’est pas sympa ! On ne t’a même pas encore remercié de nous avoir sauvés.
+
+[06363.016]
+Je n’ai que faire de remerciements. Je passais là par hasard et je vous ai aidés par caprice, rien de plus.
+
+[06363.018]
+Et comment on passe par hasard dans un endroit pareil ! Tu es venu nous sauver, c’est évident.
+
+[06363.020]
+... Si tu tiens à le croire, libre à toi. Sur ce.
+
+[06363.022]
+Attends ! Pourquoi tu nous aides, {NAME:04 00 00 00} !?
+
+[06363.024]
+Parce que vous voir si imprudents m’exaspère.
+
+[06363.026]
+Eh bien alors, tu n’as qu’à venir avec nous, {NAME:04 00 00 00} !
+
+[06363.028]
+Quoi ?
+
+[06363.030]
+C’est de regarder de loin, sans rien dire, qui t’exaspère. Si tu es tout près, plus de problème.
+
+[06363.032]
+Et puis, Philia l’a dit aussi : {NAME:02 00 00 00} a besoin de compagnons. Alors toi aussi, {NAME:04 00 00 00}...
+
+[06363.034]
+{NAME:04 00 00 00} ?
+
+[06363.036]
+... Renonce. Me prendre pour compagnon ne t’attirera rien de bon.
+
+[06363.038]
+Rien de bon, c’est-à-dire ?
+
+[06363.040]
+... Je n’ai pas à te le dire.
+
+[06363.041]
+Garde
+
+[06363.042]
+Hé, vous là-bas !
+
+[06363.043]
+Garde
+
+[06363.044]
+Vous n’auriez pas vu un individu louche dans les parages ?
+
+[06363.045]
+Garde
+
+[06363.046]
+Des intrus se seraient introduits dans le temple. Vous ne savez rien ?
+
+[06363.048]
+Gloups !
+
+[06363.049]
+Garde
+
+[06363.050]
+Quoi, vous savez quelque chose ?
+
+[06363.052]
+N-non ! Rien du tout ! Des intrus, tiens donc. Quelle horreur, dites !
+
+[06363.053]
+Garde
+
+[06363.054]
+... Au fait, vous autres : ce n’est pas jour de culte, aujourd’hui. Que faites-vous ici ?
+
+[06363.056]
+Euh, eh bien, c’est-à-dire...
+
+[06363.058]
+B-ben, on marchait sur la route, on s’est perdus, et on s’est retrouvés ici...
+
+[06363.060]
+Si on gêne, on disparaît tout de suite ! Allez, salut !
+
+[06363.061]
+Garde
+
+[06363.062]
+... Hé, une minute ! Celui qui se tient derrière : pourquoi ne regarde-t-il pas par ici ?
+
+[06363.064]
+...
+
+[06363.065]
+Garde
+
+[06363.066]
+Louche, celui-là... Hé, je te dis de te retourner !
+
+[06363.068]
+A-attendez ! C’est un de nos compagnons !
+
+[06363.070]
+... !
+
+[06363.071]
+Garde
+
+[06363.072]
+Un compagnon... ?
+
+[06363.074]
+Oui ! Pas vrai, {NAME:03 00 00 00} !
+
+[06363.076]
+Ah... Oui, oui, c’est ça !
+
+[06363.078]
+C’est que, voyez-vous, il a mal au ventre, à ce qu’il paraît... Hein, {NAME:02 00 00 00} ?
+
+[06363.080]
+Ah, euh... c’est ça ! Bouger lui faisait mal, alors il se reposait ici !
+
+[06363.081]
+Garde
+
+[06363.082]
+Vraiment... ?
+
+[06363.084]
+Aaaaah ! Là, une silhouette louche !
+
+[06363.085]
+Garde
+
+[06363.086]
+Quoi, où ça !?
+
+[06363.088]
+Là, là, par là-bas ! Vite, il faut le poursuivre ou vous allez le perdre !
+
+[06363.089]
+Garde
+
+[06363.090]
+Bien, on y va !
+
+[06363.092]
+Dis, {NAME:03 00 00 00}, où ça !? Il est où !?
+
+[06363.094]
+Cré~tin, c’était du flan. Sans ça, ils nous auraient cuisinés sans fin, non ?
+
+[06363.096]
+... Pourquoi m’avoir couvert ? Jusqu’à mentir en me disant votre compagnon.
+
+[06363.098]
+Parce que tu es notre compagnon, {NAME:04 00 00 00}. Te couvrir, c’est normal.
+
+[06363.100]
+Je ne suis pas votre... !
+
+[06363.102]
+Alors dis-moi : quand {NAME:01 00 00 00} a dit « c’est un compagnon », tu n’as rien dit, pas vrai ?
+
+[06363.104]
+Si tu ne te voyais pas comme tel, tu aurais dit « non » tout net. Tel que je te connais.
+
+[06363.106]
+C’est simplement que je n’ai pas trouvé le moment de le dire...
+
+[06363.108]
+Et puis, quand on s’est quittés à Darilsheid, tu avais commencé à dire quelque chose, non ?
+
+[06363.110]
+Tu allais dire « partons ensemble », hein ? Oui, c’est sûr et certain !
+
+[06363.112]
+C’est que...
+
+[06363.114]
+... Comme tout à l’heure, vous risquez d’être encore mêlés à de sales histoires.
+
+[06363.116]
+Et malgré cela... vous êtes d’accord ?
+
+[06363.118]
+Un héros ne craint pas les épreuves ! Au contraire, je n’attends que ça !
+
+[06363.120]
+Moi, je voyage avec un insouciant pareil, tu sais ? Autrement dit, les sales histoires, c’est depuis le début.
+
+[06363.122]
+Alors une ou deux de plus, à ce stade, ça ne me fait ni chaud ni froid.
+
+[06363.124]
+S’il s’agit d’entraîner les autres dans des épreuves, je crois que je suis dans le même cas. Alors cela ne me dérange pas.
+
+[06363.126]
+... Bande d’idiots. Ne venez pas vous plaindre si vous le regrettez.
+
+[06363.128]
+Alors c’est décidé ! Bienvenue parmi nous, {NAME:04 00 00 00} !
+
+[06363.130]
+Bon, puisque la troupe est au complet, on se met en route ?
+
+[06363.132]
+Mais pour aller où ? {NAME:02 00 00 00}, tu as une idée ?
+
+[06363.134]
+Une seule. Le héros que nous n’avons pas encore rencontré... Le roi Woodrow, à Heidelberg.
+
+[06363.136]
+L’un des Quatre Héros, le Roi-Héros Woodrow. C’est sûr qu’avec Stahn, c’est lui qui mérite le plus le nom de héros.
+
+[06363.138]
+Dans ce cas, il faudra prendre un bateau au port, débarquer à Snowfria, puis gagner Heidelberg.
+
+[06363.140]
+Un voyage en mer... !
+
+[06363.142]
+Alors en route, sans tarder ! Le port doit être à l’est d’Aigrette, si je me souviens bien.
+
+[06363.144]
+Bon, d’abord le port, et de là, cap sur Snowfria !
+
+[06363.146]
+{NAME:02 00 00 00} rejoint le groupe.
+
+[06363.148]
+{NAME:04 00 00 00} rejoint le groupe.
+
+[06363.150]
+Obtenu : {08:41 00 00 00}.
+
+[06363.151]
+Bon voyage.
+
+[06363.152]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06363.153]
+Voulez-vous passer la nuit ?
+
+[06363.155]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06363.156]
+Reposez-vous bien.
+
+[06363.157]
+Bonjour.
+
+[06363.158]
+Vous n’avez pas assez d’argent.
+
+[06363.159]
+Au plaisir de vous revoir.
+
+[06363.164]
+Obtenu : {16:26 22}.
+
+[06363.166]
+Obtenu : {08:FF FF FF FF}.
+
+[06363.168]
+Trouvé : {16:26 2A}, mais vous n’avez plus de place.
+
+[06363.170]
+Il n’y a rien ici.
+

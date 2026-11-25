@@ -1,0 +1,49 @@
+[06231.4788]
+Pour voler
+
+[06231.4801]
+Pour cuisiner
+
+[06231.4816]
+Outil de prière
+
+[06231.4835]
+Pour dormir
+
+[06231.4850]
+Une armure
+
+[06231.4861]
+Pour enquêter
+
+[06231.4878]
+À quoi sert
+cet outil ?
+
+[06231.4912]
+Oui !
+C’est le « Rheaird »
+
+[06231.4942]
+Non.
+Tu ne penses
+qu’à manger ?
+
+[06231.4979]
+Non.
+
+[06231.4986]
+Non.
+{NAME:01 00 00 00} ne fait
+que dormir, hein
+
+[06231.5026]
+Non.
+C’est bien plus gros
+
+[06231.5052]
+... Comment ?
+
+[06231.5069]
+Trop tard.
+

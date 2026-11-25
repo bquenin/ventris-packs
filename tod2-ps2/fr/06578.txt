@@ -1,0 +1,212 @@
+[06578.001]
+Radisrol
+
+[06578.002]
+Radisrol
+
+[06578.004]
+Un livre intitulé « Expériences de probabilité ». Si l’on retourne une carte... ?
+
+[06578.006]
+Carte bleue. « Probabilité de tirer cette carte : 512/1024 »
+
+[06578.008]
+Carte jaune. « Probabilité de tirer cette carte : 256/1024 »
+
+[06578.010]
+Carte rouge. « Probabilité de tirer cette carte : 128/1024 »
+
+[06578.012]
+Carte avec du noir. « Probabilité de tirer cette carte : 64/1024 »
+
+[06578.014]
+Carte tricolore. « Probabilité de tirer cette carte : 64/1024 »
+
+[06578.016]
+Un panier à linge. Des vêtements sales y sont entassés.
+
+[06578.018]
+On dirait une urne. « Concours de beauté de l’armée terrestre : votez ici »
+
+[06578.019]
+Troupier
+
+[06578.020]
+Ces temps-ci, plus de ration d’alcool. {08:0C 00 00 00} : voilà ce qui me manque !
+
+[06578.022]
+{03:00 00 00 00}　Donner : {08:0C 00 00 00}　
+　Ne rien donner　
+
+[06578.023]
+Troupier
+
+[06578.024]
+Ces temps-ci, plus de ration d’alcool. {08:0C 00 00 00} : voilà ce qui me manque !
+
+[06578.026]
+{08:0C 00 00 00} : je n’en ai pas...
+
+[06578.027]
+Troupier
+
+[06578.028]
+Oh ! Tu me donnes ça ({08:0C 00 00 00}) !? Ça, c’est gentil, merci !
+
+[06578.029]
+Troupier
+
+[06578.030]
+Pour te remercier, je vais t’apprendre un truc intéressant.
+
+[06578.032]
+{03:00 00 00 00}　Le secret du Berselium　
+　Le secret des titres de combat　
+　Le secret de la Lunette du sorcier　
+
+
+[06578.033]
+Troupier
+
+[06578.034]
+Le Berselium, c’est un minerai dont on fait des armes et des armures puissantes.
+
+[06578.035]
+Troupier
+
+[06578.036]
+Confie-le à un bon forgeron, et il te fabriquera peut-être quelque chose.
+
+[06578.037]
+Troupier
+
+[06578.038]
+Il paraît qu’on en trouve souvent à la « Spiral Cave ».
+
+[06578.039]
+Troupier
+
+[06578.040]
+Il existe des titres qu’on obtient à la fin d’un combat.
+
+[06578.041]
+Troupier
+
+[06578.042]
+En faisant autrement que d’habitude, tu obtiendras peut-être quelque chose, qui sait ?
+
+[06578.043]
+Troupier
+
+[06578.044]
+Même des trucs idiots : essaie de tout.
+
+[06578.045]
+Troupier
+
+[06578.046]
+Rappelle-toi les chemins que tu as parcourus jusqu’ici.
+
+[06578.047]
+Troupier
+
+[06578.048]
+Il y avait des endroits louches, des passages où tu n’as pas pu aller, non ?
+
+[06578.049]
+Troupier
+
+[06578.050]
+Avec la Lunette du sorcier, tu feras peut-être des découvertes. L’entrée de je ne sais quelles ruines, par exemple.
+
+[06578.051]
+Troupier
+
+[06578.052]
+Quoi, tu ne veux pas savoir ?
+
+[06578.053]
+Enfant
+
+[06578.054]
+Mon papa, c’est un soldat.
+
+[06578.055]
+Enfant
+
+[06578.056]
+Mais l’autre jour, il est parti, et il n’est pas revenu.
+
+[06578.057]
+Enfant
+
+[06578.058]
+Les autres soldats disent : « Ton papa est allé au ciel », mais c’est où, ça ?
+
+[06578.059]
+Enfant
+
+[06578.060]
+Il revient quand, papa ?
+
+[06578.061]
+Enfant
+
+[06578.062]
+Les soldats d’ici disent : « Ton papa est allé au ciel ».
+
+[06578.063]
+Enfant
+
+[06578.064]
+Maman aussi y est allée, on m’a dit...
+
+[06578.065]
+Enfant
+
+[06578.066]
+Quand la guerre sera finie, moi aussi, je pourrai y aller ?
+
+[06578.067]
+Enfant
+
+[06578.068]
+Ils reviennent quand, papa et maman ?
+
+[06578.069]
+Bon voyage.
+
+[06578.070]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06578.071]
+Voulez-vous passer la nuit ?
+
+[06578.073]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06578.074]
+Reposez-vous bien.
+
+[06578.075]
+Bonjour.
+
+[06578.076]
+Vous n’avez pas assez d’argent.
+
+[06578.077]
+Au plaisir de vous revoir.
+
+[06578.082]
+Obtenu : {16:25 BE}.
+
+[06578.084]
+Obtenu : {08:FF FF FF FF}.
+
+[06578.086]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06578.088]
+Il n’y a rien ici.
+

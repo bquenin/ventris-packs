@@ -1,0 +1,81 @@
+[06643.001]
+Ruines de la base terrestre
+
+[06643.002]
+Ruines de la base terrestre
+
+[06643.004]
+La souche où se trouvait ceci : {08:31 00 00 00}. Elle semble avoir une force étrange.
+
+[06643.006]
+Sur l’étrange souche se trouve ceci : {08:31 00 00 00}. L’emporter ({08:31 00 00 00}) ?
+
+[06643.008]
+{03:00 00 00 00}　Emporter　
+　Laisser　
+
+[06643.010]
+Obtenu : {08:31 00 00 00}.
+
+[06643.011]
+Soldat
+
+[06643.012]
+Si vous êtes fatigués, reposez-vous ici.
+
+[06643.014]
+{03:00 00 00 00}　Se reposer　
+　Non merci　
+
+[06643.015]
+Ravitaillement
+
+[06643.016]
+Ici, l’unité de ravitaillement.
+
+[06643.017]
+Bon courage.
+
+[06643.018]
+Quand vous voulez.
+
+[06643.019]
+Ravitaillement
+
+[06643.020]
+Bon voyage.
+
+[06643.021]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06643.022]
+Voulez-vous passer la nuit ?
+
+[06643.024]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06643.025]
+Reposez-vous bien.
+
+[06643.026]
+Bonjour.
+
+[06643.027]
+Vous n’avez pas assez d’argent.
+
+[06643.028]
+Au plaisir de vous revoir.
+
+[06643.033]
+Obtenu : {16:25 BA}.
+
+[06643.035]
+Obtenu : {08:FF FF FF FF}.
+
+[06643.037]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06643.039]
+Il n’y a rien ici.
+

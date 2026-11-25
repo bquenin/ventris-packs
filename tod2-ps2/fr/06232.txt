@@ -1,0 +1,48 @@
+[06232.4788]
+Robe à tablier
+
+[06232.4803]
+Poêle
+
+[06232.4814]
+Bavoir
+
+[06232.4821]
+Curry mapo
+
+[06232.4836]
+Ruban
+
+[06232.4843]
+Épices
+
+[06232.4850]
+Chez Lilith, tu sais
+ce qu’il y a dans
+cette commode ?
+
+[06232.4909]
+Oui, oui, c’était ça !
+Ça lui irait bien, hein
+
+[06232.4957]
+Ça serait pas là-dedans,
+quand même ?
+
+[06232.4997]
+Pas loin, peut-être
+
+[06232.5018]
+C-comment ça, hein !?
+
+[06232.5041]
+Mmh, non
+
+[06232.5056]
+Pourquoi !?
+
+[06232.5069]
+Bon, fouiller chez les
+gens, mieux vaut pas en
+prendre l’habitude
+

@@ -1,0 +1,18 @@
+[00378.001]
+J’ai encore l’impression de rêver. Elraine, alliée à Barbatos... et qui fait ça à Woodrow...
+
+[00378.002]
+...... Oui.
+
+[00378.003]
+Mais pourquoi a-t-elle fait ça... Mmmmmm...
+
+[00378.004]
+Écoute... {NAME:01 00 00 00}...
+
+[00378.005]
+... Bah, réfléchir n’y changera rien. Pour l’instant, cherchons {NAME:03 00 00 00} et {NAME:04 00 00 00} ! Hein, {NAME:02 00 00 00} ?
+
+[00378.006]
+Hein !? Ah... oui ! Oui.
+

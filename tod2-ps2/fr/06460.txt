@@ -1,0 +1,94 @@
+[06460.001]
+Château de Heidelberg : chambre de Woodrow
+
+[06460.002]
+Château de Heidelberg
+
+[06460.003]
+Château de Heidelberg : chambre de Woodrow
+
+[06460.005]
+Le lit du roi Woodrow. Quel luxe... !
+
+[06460.006]
+Bon voyage.
+
+[06460.007]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06460.008]
+Voulez-vous passer la nuit ?
+
+[06460.010]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06460.011]
+Reposez-vous bien.
+
+[06460.012]
+Bonjour.
+
+[06460.013]
+Vous n’avez pas assez d’argent.
+
+[06460.014]
+Au plaisir de vous revoir.
+
+[06460.019]
+Obtenu : {16:25 BA}.
+
+[06460.021]
+Obtenu : {08:FF FF FF FF}.
+
+[06460.023]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06460.025]
+Il n’y a rien ici.
+
+[06460.027]
+Des armes bien entretenues sont alignées. Toutes ont l’air de pièces de prix.
+
+[06460.029]
+Des armes de guerre sont alignées : pour les jours de crise, sans doute.
+
+[06460.031]
+Une arme au tranchant affûté. L’œuvre d’un forgeron de premier ordre, sûrement.
+
+[06460.033]
+Cette arme a un vrai tranchant. Ce n’est pas un objet d’art : c’est une arme véritable.
+
+[06460.035]
+Les armes des soldats du château de Heidelberg. Les lames sont affûtées, sans la moindre ternissure.
+
+[06460.037]
+Une énorme armure de plates. Elle a l’air très lourde...
+
+[06460.039]
+Une armure de guerre. Elle est d’une facture très soignée.
+
+[06460.041]
+Une armure complète, en tôle martelée. Un travail très soigné : combien peut coûter une seule pièce...
+
+[06460.043]
+Une vraie armure complète. Il s’en dégage une présence écrasante...
+
+[06460.045]
+Des armures sont alignées. Pas des objets d’art : de vraies armures de guerre, semble-t-il.
+
+[06460.047]
+Une pièce ancienne, semble-t-il. ... Attention à ne pas la casser.
+
+[06460.049]
+De menus objets sont alignés. Tous ont l’air de valoir très cher.
+
+[06460.051]
+C’est bien un château royal : le moindre bibelot est d’une facture splendide.
+
+[06460.053]
+Des pièces splendides sont alignées...
+
+[06460.055]
+Des antiquités, peut-être. Des pièces anciennes sont alignées.
+

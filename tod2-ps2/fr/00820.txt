@@ -1,0 +1,24 @@
+[00820.001]
+On est enfin rentrés. Dans notre monde !
+
+[00820.002]
+Dis donc, ça a vraiment été long. On se croit projetés dans un monde bizarre, et c’était notre époque, tripotée par Elraine...
+
+[00820.003]
+Et pour corriger ça, vous êtes venus à mon époque.
+
+[00820.004]
+Et de là, dix-huit ans en arrière, aux trousses de Barbatos... On en a vu, des endroits.
+
+[00820.005]
+Mais à cette époque-ci, le temps n’a presque pas avancé. Mieux : personne ne sait même que l’histoire a été altérée.
+
+[00820.006]
+Sans que nul le sache... en somme.
+
+[00820.007]
+Et alors ? Tant pis si personne ne sait. « Le monde où on vivait est là. » Ça suffit bien !
+
+[00820.008]
+... Oui. Allez, {NAME:01 00 00 00}. Faut parler des Lentilles à Woodrow.
+

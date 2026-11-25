@@ -1,0 +1,3 @@
+[01188.001]
+La fusée, c’est {NAME:06 00 00 00}. Nous : rapport au commandant.
+

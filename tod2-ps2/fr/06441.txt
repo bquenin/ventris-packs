@@ -1,0 +1,322 @@
+[06441.001]
+Heidelberg : maison
+
+[06441.002]
+Heidelberg
+
+[06441.003]
+Maison
+
+[06441.005]
+On embrasse du regard la ville neuve de Heidelberg, toute teintée de neige.
+
+[06441.006]
+Madame
+
+[06441.007]
+Hé, hé ! Qu’est-ce que vous faites, vous !?
+
+[06441.008]
+Madame
+
+[06441.009]
+Mon mari travaille au château de Heidelberg.
+
+[06441.010]
+Madame
+
+[06441.011]
+L’autre jour, tenez, le roi Woodrow lui a adressé la parole : il en sautait de joie, hi hi !
+
+[06441.012]
+Madame
+
+[06441.013]
+Au début, j’étais contre : c’est dangereux. Avec ce qui s’est passé il y a dix-huit ans, vous comprenez...
+
+[06441.014]
+Madame
+
+[06441.015]
+Mais nous vivons en paix, aujourd’hui, et surtout, le service du château lui convient, semble-t-il.
+
+[06441.016]
+Madame
+
+[06441.017]
+Le service du château lui convient, semble-t-il. Il part travailler tous les jours l’air vraiment heureux.
+
+[06441.018]
+Madame
+
+[06441.019]
+Tiens, un rendez-vous, tous les deux ? On croirait nous voir, mon mari et moi, autrefois.
+
+[06441.021]
+Euh, c’est que... ce n’est pas ça du tout... !
+
+[06441.022]
+Madame
+
+[06441.023]
+Mon mari et moi aussi, nous nous sommes souvent donné rendez-vous dans cette ville.
+
+[06441.024]
+Madame
+
+[06441.025]
+Assis sur un banc du parc, à parler, à regarder la neige... Ah, que de souvenirs.
+
+[06441.026]
+Madame
+
+[06441.027]
+Pour un rendez-vous, je vous conseille le parc. C’est calme, et la vue est belle.
+
+[06441.028]
+Madame
+
+[06441.029]
+Qu’est-ce que c’était, ce bruit énorme !?
+
+[06441.030]
+Madame
+
+[06441.031]
+Il n’y a tout de même pas eu du grabuge au château !?
+
+[06441.033]
+Il s’est passé quelque chose au château, semble-t-il. C’est dangereux : mieux vaut ne pas sortir de chez vous.
+
+[06441.034]
+Madame
+
+[06441.035]
+Le château !? Oh non... Mon mari y est !
+
+[06441.036]
+Madame
+
+[06441.037]
+Mon mari travaille au château ! Que faire, mon Dieu...
+
+[06441.039]
+Nous allons voir, nous : attendez ici, madame !
+
+[06441.040]
+Madame
+
+[06441.041]
+Ah, mon chéri... Je t’en prie, sois sain et sauf... !
+
+[06441.042]
+Madame
+
+[06441.043]
+Mon mari travaille au château. Par bonheur, il s’en tire avec des blessures légères, mais ses camarades seraient grièvement atteints...
+
+[06441.044]
+Madame
+
+[06441.045]
+Il va rester loger au château quelque temps. Pourvu qu’il n’arrive plus rien...
+
+[06441.046]
+Madame
+
+[06441.047]
+L’assaisonnement... ça ira, comme ça ? Est-ce que ça lui fera plaisir...
+
+[06441.049]
+Oh, il a l’air bon, ce panier-repas. Préparé avec amour par l’épouse, c’est ça ?
+
+[06441.050]
+Madame
+
+[06441.051]
+Oui... Mon mari travaille au château et y loge depuis tout ce temps. Alors je me suis dit : au moins un panier-repas.
+
+[06441.052]
+Madame
+
+[06441.053]
+Euh, si cela ne vous ennuie pas, voudriez-vous goûter un peu ?
+
+[06441.055]
+Voyons voir... Mm, délicieux ! Avec une épouse qui cuisine aussi bien, il a de la chance, le mari.
+
+[06441.056]
+Madame
+
+[06441.057]
+O-oh, non... Je me demandais seulement si je ne pouvais pas faire quelque chose, moi aussi, alors...
+
+[06441.058]
+Madame
+
+[06441.059]
+Voilà, tout est prêt ! Il n’y a plus qu’à le porter★
+
+[06441.060]
+Madame
+
+[06441.061]
+Mon mari travaille au château de Heidelberg.
+
+[06441.062]
+Madame
+
+[06441.063]
+L’autre jour, tenez, le roi Woodrow lui a adressé la parole : il en sautait de joie, hi hi !
+
+[06441.064]
+Madame
+
+[06441.065]
+Au début, j’étais contre : c’est dangereux. Avec ce qui s’est passé il y a dix-huit ans, vous comprenez...
+
+[06441.066]
+Madame
+
+[06441.067]
+Mais nous vivons en paix, aujourd’hui, et surtout, le service du château lui convient, semble-t-il.
+
+[06441.068]
+Madame
+
+[06441.069]
+Le service du château lui convient, semble-t-il. Il part travailler tous les jours l’air vraiment heureux.
+
+[06441.070]
+Madame
+
+[06441.071]
+Mon mari travaille au château de Heidelberg.
+
+[06441.072]
+Madame
+
+[06441.073]
+L’autre jour, tenez, le roi Woodrow lui a adressé la parole : il en sautait de joie, hi hi !
+
+[06441.074]
+Enfant
+
+[06441.075]
+Mon papa, il est très fort ! C’est lui qui garde le château.
+
+[06441.076]
+Enfant
+
+[06441.077]
+Moi, quand je serai grande, je me marierai avec papa !
+
+[06441.078]
+Enfant
+
+[06441.079]
+Et on habitera ensemble au château, et je serai une princesse !
+
+[06441.080]
+Enfant
+
+[06441.081]
+Prin-cesse~, prin-cesse~♪
+
+[06441.082]
+Enfant
+
+[06441.083]
+La chance~. Un rendez-vous, la chance~♪
+
+[06441.084]
+Enfant
+
+[06441.085]
+Moi aussi, à son prochain jour de congé, j’ai rendez-vous avec papa.
+
+[06441.086]
+Enfant
+
+[06441.087]
+Il me fera manger plein, pleiiin de bonnes choses♪
+
+[06441.088]
+Enfant
+
+[06441.089]
+Rendez-vous♪ Rendez-vous♪
+
+[06441.090]
+Enfant
+
+[06441.091]
+Dis, qu’est-ce qu’il y a ? Pourquoi maman pleure ?
+
+[06441.092]
+Enfant
+
+[06441.093]
+Quand maman pleure, moi aussi, je deviens toute triste...
+
+[06441.094]
+Enfant
+
+[06441.095]
+Mon papa, il est très fort ! C’est lui qui garde le château.
+
+[06441.096]
+Enfant
+
+[06441.097]
+Moi, quand je serai grande, je me marierai avec papa !
+
+[06441.098]
+Enfant
+
+[06441.099]
+Et on habitera ensemble au château, et je serai une princesse !
+
+[06441.100]
+Enfant
+
+[06441.101]
+Prin-cesse~, prin-cesse~♪
+
+[06441.102]
+Bon voyage.
+
+[06441.103]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06441.104]
+Voulez-vous passer la nuit ?
+
+[06441.106]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06441.107]
+Reposez-vous bien.
+
+[06441.108]
+Bonjour.
+
+[06441.109]
+Vous n’avez pas assez d’argent.
+
+[06441.110]
+Au plaisir de vous revoir.
+
+[06441.115]
+Obtenu : {16:25 BA}.
+
+[06441.117]
+Obtenu : {08:FF FF FF FF}.
+
+[06441.119]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06441.121]
+Il n’y a rien ici.
+

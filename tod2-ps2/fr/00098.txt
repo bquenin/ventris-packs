@@ -1,0 +1,15 @@
+[00098.001]
+C’est ta première fois à Aigrette, non ?
+
+[00098.002]
+Oui. C’est une ville immense, hein ?
+
+[00098.003]
+Si tu la compares à Cresta, les yeux vont te sortir de la tête.
+
+[00098.004]
+Ooh. J’ai hâte♪ Allons-y vite !!
+
+[00098.005]
+Crétin ! Cours pas !! C’est très loin ! Attends, crétin de {NAME:01 00 00 00} !
+

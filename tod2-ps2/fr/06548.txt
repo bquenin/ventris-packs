@@ -1,0 +1,134 @@
+[06548.001]
+Speranza : distribution
+
+[06548.002]
+Speranza, la Cité écarlate
+
+[06548.003]
+Distribution
+
+[06548.004]
+Homme
+
+[06548.005]
+Seriez-vous par hasard en route pour Realta, la Cité du crépuscule ?
+
+[06548.007]
+Oui, et alors ?
+
+[06548.008]
+Homme
+
+[06548.009]
+À vrai dire, j’aurais une grande faveur à vous demander. Voudriez-vous bien m’écouter ?
+
+[06548.011]
+Une faveur ? De quoi s’agit-il ?
+
+[06548.012]
+Homme
+
+[06548.013]
+Ce n’est rien de difficile. Je voudrais seulement faire porter quelque chose à mon fils, qui est à Realta...
+
+[06548.015]
+Tiens. Même à cette époque, on circule donc d’une ville à l’autre.
+
+[06548.017]
+Mais que décides-tu, {NAME:01 00 00 00} ? Nous sommes pressés. Nous n’avons pas de temps à perdre.
+
+[06548.019]
+Porter la Lentille jusqu’à Realta, la Cité du crépuscule ?
+
+[06548.021]
+{03:00 00 00 00}　Accepter　
+　Pas intéressé　
+
+[06548.022]
+Homme
+
+[06548.023]
+Merci beaucoup ! Voilà : je voudrais que vous portiez ceci à mon fils, qui est à Realta.
+
+[06548.025]
+C’est... une Lentille ?
+
+[06548.026]
+Homme
+
+[06548.027]
+Oui. Celle que portait ma femme, morte il y a peu.
+
+[06548.028]
+Homme
+
+[06548.029]
+Mon fils s’appelle « RE-54609 ». Dites-lui que c’est un message de SP-3116, il comprendra tout de suite.
+
+[06548.030]
+Homme
+
+[06548.031]
+Eh bien, je compte sur vous.
+
+[06548.032]
+Homme
+
+[06548.033]
+Ah bon... Pardonnez-moi de vous avoir dérangés.
+
+[06548.034]
+Machine-boutique
+
+[06548.035]
+Bienvenue. Que vous faut-il ?
+
+[06548.037]
+{03:00 00 00 00}　Objets　
+　Ingrédients　
+　Armes　
+　Armures　
+
+[06548.038]
+Machine-boutique
+
+[06548.039]
+Merci beaucoup.
+
+[06548.040]
+Bon voyage.
+
+[06548.041]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06548.042]
+Voulez-vous passer la nuit ?
+
+[06548.044]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06548.045]
+Reposez-vous bien.
+
+[06548.046]
+Bonjour.
+
+[06548.047]
+Vous n’avez pas assez d’argent.
+
+[06548.048]
+Au plaisir de vous revoir.
+
+[06548.053]
+Obtenu : {16:25 BA}.
+
+[06548.055]
+Obtenu : {08:FF FF FF FF}.
+
+[06548.057]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06548.059]
+Il n’y a rien ici.
+

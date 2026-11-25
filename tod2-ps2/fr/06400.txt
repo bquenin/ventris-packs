@@ -1,0 +1,662 @@
+[06400.001]
+Navire de ligne
+
+[06400.002]
+Navire de ligne
+
+[06400.004]
+Une carte du monde. D’après la carte...
+
+[06400.006]
+Au nord-ouest, le « continent de Calvalese » ; au sud-ouest, le « continent de Fitzgald » ; au nord-est, les « îles d’Aquaveil » ; et au centre du monde, le « continent central ».
+
+[06400.008]
+Ça... on dirait des boulets de canon. De quoi se défendre, peut-être.
+
+[06400.010]
+C’est dangereux : mieux vaut ne pas y toucher.
+
+[06400.012]
+La carte marine est couverte de flèches et de termes techniques.
+
+[06400.014]
+Un hamac. Le capitaine doit s’en servir.
+
+[06400.016]
+Hm ? Il y a quelque chose par terre : {08:A9 01 00 00}. Et une lettre...
+
+[06400.017]
+Lettre du capitaine
+
+[06400.018]
+« J’ai acheté chez vous par correspondance : {08:A9 01 00 00}. Aucun effet (je ne gagne jamais à la loterie !). S’en équiper augmente-t-il vraiment la chance ? Puisque cela ne marche pas, je vous le renvoie. »
+
+[06400.020]
+... Bah, ça ne m’étonne pas trop... S’il n’en veut plus, je le prends...
+
+[06400.022]
+Obtenu : {08:A9 01 00 00}.
+
+[06400.023]
+Marin
+
+[06400.024]
+Là-dessous, c’est la cale ! Mais en ce moment, c’est la guerre avec le maître des mers ! Aah... que faire...
+
+[06400.025]
+Marin
+
+[06400.026]
+Là-dessous ! Dans la cale ! La cale ! Le maître ! La cale ! Le maître ! Dans la cale ! Awawawawa !
+
+[06400.027]
+Marin
+
+[06400.028]
+Aah... l’eau monte, elle monte... C’est la fin ?
+
+[06400.029]
+Marin
+
+[06400.030]
+Vous nous avez sauvés...
+
+[06400.031]
+Marin
+
+[06400.032]
+Là-dessous, c’est la cale. Désolé, les passagers n’y ont pas accès.
+
+[06400.033]
+Marin
+
+[06400.034]
+Aaah... Le capitaine m’a encore passé un savon...
+
+[06400.035]
+Marin
+
+[06400.036]
+Je nage comme une enclume, j’ai le mal de mer... Je ne suis peut-être pas fait pour être marin, finalement ?
+
+[06400.038]
+Alors pourquoi tu as voulu devenir marin ?
+
+[06400.039]
+Marin
+
+[06400.040]
+Parce que j’adore la mer... je crois.
+
+[06400.041]
+Marin
+
+[06400.042]
+Je nage comme une enclume, j’ai le mal de mer... Je ne suis peut-être pas fait pour être marin, finalement ?
+
+[06400.043]
+Marin
+
+[06400.044]
+Gardez votre calme ! Suivez d’abord les consignes de l’équipage, et...
+
+[06400.046]
+Bien, continue ainsi, et calme les autres passagers.
+
+[06400.047]
+Marin
+
+[06400.048]
+G-gardez votre calme ! Suivez d’abord les consignes de l’équipage, et montez sur le pont~.
+
+[06400.049]
+Marin
+
+[06400.050]
+M-moi... je nage comme une enclume : est-ce que ça va aller...
+
+[06400.052]
+On s’arrangera... Pour l’instant, rassemble les passagers sur le pont !
+
+[06400.053]
+Marin
+
+[06400.054]
+O-oui, chef...
+
+[06400.055]
+Marin
+
+[06400.056]
+G-gardez votre calme ! Suivez d’abord les consignes de l’équipage, et montez sur le pont~.
+
+[06400.057]
+Marin
+
+[06400.058]
+Ouf, on est sauvés... Je vais pouvoir rester marin.
+
+[06400.059]
+Marin
+
+[06400.060]
+Je nage comme une enclume et j’ai le mal de mer, mais mon rêve d’être marin, lui, je ne veux pas y renoncer.
+
+[06400.062]
+Si tu ne renonces pas, ton rêve se réalisera, c’est sûr !
+
+[06400.063]
+Marin
+
+[06400.064]
+Moi aussi, un jour, je serai un marin accompli, vous verrez.
+
+[06400.065]
+Marin
+
+[06400.066]
+Je ne savais pas nager, mais à force d’entraînement, j’arrive à faire 10 mètres, figurez-vous.
+
+[06400.067]
+Marin
+
+[06400.068]
+Quand j’en ferai dans les 50, je serai un vrai marin, vous croyez ?
+
+[06400.070]
+50 mètres en pleine mer, ce serait un peu juste... Il en faut au moins 5 kilomètres, non ?
+
+[06400.071]
+Marin
+
+[06400.072]
+5 kilomètres... Ce chiffre me donne le vertige...
+
+[06400.073]
+Marin
+
+[06400.074]
+Je vais m’entraîner de toutes mes forces pour devenir un vrai marin !
+
+[06400.075]
+Marin
+
+[06400.076]
+Moi aussi, un jour, je serai un marin accompli, vous verrez.
+
+[06400.077]
+Marin
+
+[06400.078]
+Moi, c’est mon travail, je ne peux pas quitter le navire, mais si je pouvais, je ferais le pèlerinage.
+
+[06400.079]
+Marin
+
+[06400.080]
+Je n’en ai pas l’air, mais moi aussi, je suis un fidèle de la déesse Fortuna. J’ai l’air pieux, non ?
+
+[06400.081]
+Marin
+
+[06400.082]
+Ah, comme j’envie ceux qui vont à la Terre sainte...
+
+[06400.083]
+Marin
+
+[06400.084]
+Je n’en ai pas l’air, mais moi aussi, je suis un fidèle de la déesse Fortuna. J’ai l’air pieux, non ?
+
+[06400.085]
+Capitaine
+
+[06400.086]
+Bien le bonjour, jeunes gens. Je suis le capitaine de ce navire. La traversée vous plaît-elle ?
+
+[06400.088]
+Oui ! C’est super chouette !
+
+[06400.089]
+Capitaine
+
+[06400.090]
+S’il vous manque quoi que ce soit, dites-le-moi, à moi. À bord, la loi, c’est moi.
+
+[06400.091]
+Capitaine
+
+[06400.092]
+Grrr ! Maître des mers ou je ne sais quoi, je ne tolérerai pas qu’il fasse la loi sur ce navire !
+
+[06400.093]
+Capitaine
+
+[06400.094]
+... Voilà ce que dit le capitaine de ce navire : iriez-vous le lui répéter de ma part ?
+
+[06400.096]
+Dis-le-lui toi-même...
+
+[06400.097]
+Capitaine
+
+[06400.098]
+Aah ! Si je le pouvais, j’abattrais ce monstre de mes propres mains... !
+
+[06400.099]
+Capitaine
+
+[06400.100]
+Mais j’ai le devoir de veiller à la sécurité des passagers...
+
+[06400.101]
+Capitaine
+
+[06400.102]
+Grrr ! Malheur, avec la voie d’eau, le navire commence à gîter !
+
+[06400.103]
+Capitaine
+
+[06400.104]
+Est-ce la fin de mon cher Algernon... ?
+
+[06400.105]
+Capitaine
+
+[06400.106]
+Bien, les réparations de fortune sont faites : il ne reste plus qu’à foncer sur Snowfria !
+
+[06400.108]
+Dites, des réparations de fortune, ça va tenir ?
+
+[06400.109]
+Capitaine
+
+[06400.110]
+Et comment ! N’avoir encore jamais coulé une seule fois : voilà la fierté de mon cher Algernon !
+
+[06400.111]
+Capitaine
+
+[06400.112]
+Allez, on rattrape tout notre retard d’un seul coup !
+
+[06400.113]
+Capitaine
+
+[06400.114]
+Pouvoir ainsi vous aider tous dans votre pèlerinage à la Terre sainte : un capitaine ne peut rêver mieux.
+
+[06400.115]
+Capitaine
+
+[06400.116]
+La traversée jusqu’en Calvalese, laissez-moi m’en charger, et rondement !
+
+[06400.117]
+Capitaine
+
+[06400.118]
+Allez, jusqu’en Calvalese, on y met du cœur ! La barre à tribord toute~ !
+
+[06400.119]
+Capitaine
+
+[06400.120]
+Mais non : à bâbord~ ! Alors, je vous ai bien eus, hein ?
+
+[06400.121]
+Capitaine
+
+[06400.122]
+Bien le bonjour, jeunes gens. Je suis le capitaine de ce navire. La traversée vous plaît-elle ?
+
+[06400.124]
+Oui ! C’est super chouette !
+
+[06400.125]
+Capitaine
+
+[06400.126]
+S’il vous manque quoi que ce soit, dites-le-moi, à moi. À bord, la loi, c’est moi.
+
+[06400.127]
+Capitaine
+
+[06400.128]
+Oh, les voilà ! Je vous attendais, jeunes héros qui protégez la Sainte !
+
+[06400.130]
+La Sainte ? Des héros ? Comment ça !?
+
+[06400.131]
+Capitaine
+
+[06400.132]
+Forneus, la terreur même, lui qui a coulé tant de navires : vous l’avez vaincu à quatre seulement !
+
+[06400.133]
+Capitaine
+
+[06400.134]
+Mieux encore, vous nous avez sauvés du naufrage par un pouvoir miraculeux qui surpasse même celui d’Elraine, de l’Ordre d’Atamoni !
+
+[06400.135]
+Capitaine
+
+[06400.136]
+Si je ne vous appelle pas des héros, et une Sainte, comment vous appeler ?
+
+[06400.138]
+Hé hé, vous exagérez...
+
+[06400.140]
+Ne t’emballe pas : tu n’y es pas arrivé seul. Et à cause de ce pouvoir miraculeux, {NAME:02 00 00 00} ne s’est toujours pas réveillée.
+
+[06400.142]
+J-je sais bien !
+
+[06400.143]
+Capitaine
+
+[06400.144]
+Bien entendu, cela aussi m’est revenu aux oreilles. Il y a plus loin un village du nom de Lienea : pourquoi ne pas y laisser la Sainte se reposer ?
+
+[06400.146]
+Mais alors, il faudra qu’on quitte le navire, non ?
+
+[06400.147]
+Capitaine
+
+[06400.148]
+Là-dessus, aucune inquiétude.
+
+[06400.149]
+Capitaine
+
+[06400.150]
+De toute façon, sans réparations de fortune, ce navire ne peut même pas regagner Aigrette, et encore moins Snowfria.
+
+[06400.151]
+Capitaine
+
+[06400.152]
+Voici donc : la Sainte se repose à Lienea, et une fois rétablie, vous gagnez Neustadt par la terre.
+
+[06400.153]
+Capitaine
+
+[06400.154]
+D’ici là, nous aurons réparé le navire et nous vous attendrons à Neustadt. ... Voilà, en gros, le plan.
+
+[06400.156]
+Mais nul ne sait quand {NAME:02 00 00 00} se rétablira. Nous risquons d’arriver tard à Neustadt : cela vous convient-il quand même ?
+
+[06400.157]
+Capitaine
+
+[06400.158]
+Oh, bien sûr ! Je jure que le navire ne partira pas avant votre arrivée. Vous nous avez sauvé la vie, après tout.
+
+[06400.160]
+D’accord, alors on va aller voir ce village, Lienea !
+
+[06400.161]
+Capitaine
+
+[06400.162]
+Bien. Quand vous quitterez le navire, faites-moi signe.
+
+[06400.164]
+Lienea, hein... {NAME:01 00 00 00}, on a peut-être un peu de veine, là.
+
+[06400.166]
+... ?
+
+[06400.168]
+{NAME:01 00 00 00} et les autres ont reçu des titres.
+
+[06400.169]
+Capitaine
+
+[06400.170]
+Alors, que décidez-vous ? Quitter le navire tout de suite, ou un peu plus tard ?{02}
+
+[06400.172]
+{03:00 00 00 00}　Quitter le navire　
+　Plus tard　
+
+[06400.173]
+Capitaine
+
+[06400.174]
+Bon vent, mes amis ! On se retrouve à Neustadt ! Adios !
+
+[06400.175]
+Capitaine
+
+[06400.176]
+En route pour la destination ?
+
+[06400.178]
+{03:00 00 00 00}　Y aller　
+　Pas encore　
+
+[06400.180]
+Capitaine
+
+[06400.181]
+Vous venez pour la chasse aux tampons ?
+
+[06400.183]
+La chasse aux tampons ? C’est quoi ?
+
+[06400.184]
+Capitaine
+
+[06400.185]
+Nous avons une opération en cours : à chaque trajet sur une ligne du navire, nous apposons un tampon.
+
+[06400.186]
+Capitaine
+
+[06400.187]
+Aigrette-Snowfria, Neustadt-Cherik : chaque ligne a le sien, différent à l’aller et au retour.
+
+[06400.188]
+Capitaine
+
+[06400.189]
+Cela fait donc six tampons en tout. Et qui les réunit tous, figurez-vous...
+
+[06400.191]
+Figurez-vous ?
+
+[06400.192]
+Capitaine
+
+[06400.193]
+... reçoit un cadeau spécial ! Un objet assez rare : il vaut la peine de les réunir, à mon avis.
+
+[06400.194]
+Capitaine
+
+[06400.195]
+Et donc, voici votre carte. Un tampon y est déjà, il en reste cinq : bon courage pour les réunir !
+
+[06400.196]
+Capitaine
+
+[06400.197]
+Vous venez chercher votre tampon ? Voilà, tenez !
+
+[06400.199]
+Tampon numéro {18:44 6C} reçu !
+
+[06400.200]
+Capitaine
+
+[06400.201]
+Il en reste cinq. La route est encore longue, mais bon courage !
+
+[06400.202]
+Capitaine
+
+[06400.203]
+Il en reste quatre. Ça avance bien, on dirait. Tenez bon jusqu’au dernier !
+
+[06400.204]
+Capitaine
+
+[06400.205]
+Il en reste trois : vous êtes à la moitié ! À partir d’ici, c’est la seconde manche. Courage !
+
+[06400.206]
+Capitaine
+
+[06400.207]
+Il en reste deux. Vous en avez réuni un bon nombre. À ce rythme, les deux derniers seront vite là ?
+
+[06400.208]
+Capitaine
+
+[06400.209]
+Bravo d’en avoir réuni autant. Il en reste un, le dernier ! Courage !
+
+[06400.210]
+Capitaine
+
+[06400.211]
+Félicitations ! Vous avez réuni tous les tampons !
+
+[06400.212]
+Capitaine
+
+[06400.213]
+Avoir tant voyagé sur notre navire de ligne : je vous dois des remerciements. Vraiment, merci !
+
+[06400.214]
+Capitaine
+
+[06400.215]
+Et maintenant, voici le cadeau spécial. Prenez-le, je vous prie !
+
+[06400.217]
+{NAME:01 00 00 00} obtient le titre « {08:44 08 00 00} ».
+
+[06400.218]
+1
+
+[06400.219]
+2
+
+[06400.220]
+3
+
+[06400.221]
+4
+
+[06400.222]
+5
+
+[06400.223]
+6
+
+[06400.224]
+Capitaine
+
+[06400.225]
+Bien le bonjour, jeunes gens. Je suis le capitaine de ce navire. La traversée vous plaît-elle ?
+
+[06400.226]
+Intendant
+
+[06400.227]
+Ici, l’intendance.
+
+[06400.228]
+Bon courage.
+
+[06400.229]
+Quand vous voulez.
+
+[06400.230]
+Intendant
+
+[06400.231]
+Soigner les malades, c’est mon métier.
+
+[06400.232]
+La médecine est un art de bonté.
+
+[06400.233]
+Médecin de bord
+
+[06400.234]
+Médecin de bord
+
+[06400.235]
+Des premiers soins ?
+{03:00 00 00 00}　Oui ({0B:01 00 00 00}{06:64 00 00 00}{0B:00 00 00 00} Gald)　
+　Non　
+
+[06400.236]
+Médecin de bord
+
+[06400.237]
+Premiers soins, c’est parti !
+
+[06400.238]
+Vous voilà remis.
+
+[06400.239]
+Cette fois, c’est offert.
+
+[06400.240]
+Médecin de bord
+
+[06400.241]
+Médecin de bord
+
+[06400.242]
+Quand vous voulez.
+
+[06400.243]
+Bon voyage.
+
+[06400.244]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06400.245]
+Voulez-vous passer la nuit ?
+
+[06400.247]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06400.248]
+Reposez-vous bien.
+
+[06400.249]
+Bonjour.
+
+[06400.250]
+Vous n’avez pas assez d’argent.
+
+[06400.251]
+Au plaisir de vous revoir.
+
+[06400.256]
+Obtenu : {16:25 C2}.
+
+[06400.258]
+Obtenu : {08:FF FF FF FF}.
+
+[06400.260]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06400.262]
+Il n’y a rien ici.
+

@@ -1,0 +1,12 @@
+[00370.001]
+Dis, {NAME:03 00 00 00}, pourquoi tu ne dragues pas {NAME:05 00 00 00} ? D’habitude, tu aurais tenté ta chance depuis longtemps.
+
+[00370.002]
+Cré~tin ! Ne dis pas des choses qui font mauvais genre. Je ne drague pas n’importe quelle femme. Je procède à une sélection des plus rigoureuses, moi...
+
+[00370.003]
+Donc je n’ai pas passé ta fameuse sélection, c’est ça ? Tieeens...
+
+[00370.004]
+... {NAME:15 27 00 00}-{NAME:05 00 00 00}, chère demoiselle, pourquoi faire ainsi craquer vos doigts ? A-attends ! Je peux refaire la sélection ! Non, je la refais ! Alors pas de clé... !
+

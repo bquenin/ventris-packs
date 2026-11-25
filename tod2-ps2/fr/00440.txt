@@ -1,0 +1,12 @@
+[00440.001]
+« Aller à Aigrette », d’accord, mais... ensuite, on cherche où ?
+
+[00440.002]
+Réfléchis. {NAME:02 00 00 00} est allée arrêter Elraine. À sa place, où irais-tu t’introduire ?
+
+[00440.003]
+Ne me dis pas... le grand temple de Straylize !?
+
+[00440.004]
+Oui... Qu’elle soit entrée ou ait été prise en route, {NAME:02 00 00 00} y est, presque à coup sûr.
+

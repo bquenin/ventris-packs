@@ -1,0 +1,184 @@
+[06397.001]
+Navire de ligne
+
+[06397.002]
+Navire de ligne
+
+[06397.004]
+Un colis vraiment énorme. Dedans... du minerai de fer, semble-t-il.
+
+[06397.006]
+Une adresse y est écrite. « Heidelberg, équipement : Soul & Sword » « Contenu : faux Berselium »
+
+[06397.007]
+Marin
+
+[06397.008]
+Une fille ? Il me semble l’avoir aperçue du côté du pont.
+
+[06397.009]
+Marin
+
+[06397.010]
+Les bateaux doivent l’étonner : elle regardait partout, de tous les côtés.
+
+[06397.011]
+Marin
+
+[06397.012]
+C’est dans ces moments-là, mesdames et messieurs, qu’il faut garder son calme, sans paniquer, et suivre mes instructions !
+
+[06397.013]
+Marin
+
+[06397.014]
+Voyons, d’abord vérifier les feux et fermer les portes à clé... et ensuite, et ensuite...
+
+[06397.016]
+Si c’est toi qui perds la tête, où va-t-on...
+
+[06397.017]
+Marin
+
+[06397.018]
+Voyons, d’abord vérifier les feux et fermer les portes à clé... et ensuite, et ensuite...
+
+[06397.019]
+Marin
+
+[06397.020]
+Le capitaine vous cherchait : il a quelque chose à vous dire.
+
+[06397.022]
+Quoi donc... Bah, nous aussi, on a à lui parler : ça tombe bien.
+
+[06397.023]
+Marin
+
+[06397.024]
+Le capitaine est à la timonerie : pardon de vous déranger, mais vous voudriez bien y passer ?
+
+[06397.025]
+Marin
+
+[06397.026]
+Grâce à vous, on va pouvoir appareiller pour Snowfria, tant bien que mal.
+
+[06397.027]
+Marin
+
+[06397.028]
+Vraiment, c’est au héros et à la Sainte qu’on le doit.
+
+[06397.029]
+Marin
+
+[06397.030]
+À nous, maintenant, de vous mener à bon port. Soyez tranquilles : vous êtes entre de bonnes mains.
+
+[06397.031]
+Marin
+
+[06397.032]
+Le capitaine est à la timonerie.
+
+[06397.033]
+Marin
+
+[06397.034]
+Pouvoir ainsi vous aider tous dans votre pèlerinage me bouleverse. Je sens quelque chose qui me monte...
+
+[06397.035]
+Marin
+
+[06397.036]
+Mmf... beurp !
+
+[06397.037]
+Marin
+
+[06397.038]
+Mmf... beurp !
+
+[06397.040]
+{NAME:03 00 00 00}, là !
+
+[06397.041]
+Mère
+
+[06397.042]
+Ô déesse... je vous en prie... je vous en prie, sauvez-nous... !
+
+[06397.044]
+Hé ! Si vous restez effondrée là, vous n’avez aucune chance de vous en sortir !
+
+[06397.045]
+Fillette
+
+[06397.046]
+Mamaan ! Maman, j’ai peur~ !!
+
+[06397.048]
+Euh... dis... arrête de pleurer...
+
+[06397.049]
+Fillette
+
+[06397.050]
+Mamaan ! Mamaan~ !!
+
+[06397.052]
+Tout va bien ! Ta maman, toi, tout le monde sera sauvé ! Alors calme-toi !
+
+[06397.053]
+Fillette
+
+[06397.054]
+Sn... snif...
+
+[06397.056]
+Voilà, tu es sage ! Écoute : tu montes sur le pont avec ta maman, d’accord ?
+
+[06397.058]
+... Bon sang ! Il faut faire quelque chose, et vite !
+
+[06397.060]
+........
+
+[06397.061]
+Bon voyage.
+
+[06397.062]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06397.063]
+Voulez-vous passer la nuit ?
+
+[06397.065]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06397.066]
+Reposez-vous bien.
+
+[06397.067]
+Bonjour.
+
+[06397.068]
+Vous n’avez pas assez d’argent.
+
+[06397.069]
+Au plaisir de vous revoir.
+
+[06397.074]
+Obtenu : {16:25 BA}.
+
+[06397.076]
+Obtenu : {08:FF FF FF FF}.
+
+[06397.078]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06397.080]
+Il n’y a rien ici.
+

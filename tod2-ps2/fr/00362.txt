@@ -1,0 +1,9 @@
+[00362.001]
+Allez, on va chez moi. Vous avez tous faim, non ? ... Qu’est-ce que tu as, {NAME:03 00 00 00} ?
+
+[00362.002]
+Ben, j’ai faim, ça, c’est sûr... mais quand je pense au repas qu’on va nous servir, mes jambes refusent d’avancer.
+
+[00362.003]
+Reste planté là à vie.
+

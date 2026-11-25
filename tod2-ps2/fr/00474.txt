@@ -1,0 +1,3 @@
+[00474.001]
+{NAME:01 00 00 00}, la Lunette du sorcier : trouve les dispositifs de contrôle. Vite.
+

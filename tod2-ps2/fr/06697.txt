@@ -1,0 +1,74 @@
+[06697.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06697.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06697.004]
+Un emblème de Derris est tracé sur le sol.
+
+[06697.006]
+Quelque chose est écrit sur la plaque.
+
+[06697.008]
+« L’emblème de Derris : ce qui redresse le temps et l’espace déformés. »
+
+[06697.010]
+« Pour ceux qui cherchent la forme véritable, il paraît en tout monde et en tout lieu. »
+
+[06697.012]
+On dirait que ceci s’encastre dans la plaque : {08:2E 00 00 00}. L’y encastrer ({08:2E 00 00 00}) ?
+
+[06697.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06697.016]
+Encastré : {08:2E 00 00 00}.
+
+[06697.018]
+Il y a une plaque. On dirait que quelque chose peut s’y encastrer.
+
+[06697.020]
+Porte, ouvre-toi ! La voie de la vérité... !
+
+[06697.022]
+Le coffre était un Cheap Trick.
+
+[06697.023]
+Bon voyage.
+
+[06697.024]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06697.025]
+Voulez-vous passer la nuit ?
+
+[06697.027]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06697.028]
+Reposez-vous bien.
+
+[06697.029]
+Bonjour.
+
+[06697.030]
+Vous n’avez pas assez d’argent.
+
+[06697.031]
+Au plaisir de vous revoir.
+
+[06697.036]
+Obtenu : {16:25 CE}.
+
+[06697.038]
+Obtenu : {08:FF FF FF FF}.
+
+[06697.040]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06697.042]
+Il n’y a rien ici.
+

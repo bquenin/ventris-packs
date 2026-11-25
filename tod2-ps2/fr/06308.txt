@@ -1,0 +1,1677 @@
+[06308.001]
+Cresta
+
+[06308.002]
+Cresta
+
+[06308.003]
+Cresta
+
+[06308.004]
+Cresta
+
+[06308.005]
+Cresta
+
+[06308.007]
+{NAME:03 00 00 00} obtient le titre « {08:0B 08 00 00} ».
+
+[06308.009]
+Sur l’écran de carte, appuyez sur la touche SELECT pour lancer une « saynète ».
+
+[06308.011]
+Dans une « saynète », le groupe discute de tout : indices sur l’endroit où aller, joyeux bavardages entre personnages, et bien d’autres choses.
+
+[06308.013]
+Essayez d’appuyer sur la touche SELECT dans toutes sortes de situations.
+
+[06308.015]
+Ici... c’est Cresta ?
+
+[06308.017]
+Il faut que je trouve {NAME:01 00 00 00}...
+
+[06308.019]
+{03:00 00 00 00}Écouter l’explication des commandes ?
+　Oui　
+　Non　
+　Plus jamais　
+
+[06308.021]
+Sur l’écran de menu, la touche SELECT affiche l’aide.{02}Dans le menu, placez le curseur sur un personnage et appuyez sur {09:28 00 00 00} pour le sélectionner ; appuyez de nouveau sur {09:28 00 00 00} ailleurs pour les intervertir.{02}Sur la carte du monde, on croise plus souvent des ennemis dans les forêts, les déserts et les landes : contournez-les si possible.{02}Armes et armures ne servent à rien tant qu’elles ne sont pas équipées.{02}Au fait, une astuce utile pour plus tard... {09:29 00 00 00}, {09:29 00 00 00} permettent de se tourner sans se déplacer.{02}Sauvegardez souvent.{02}
+
+[06308.023]
+Je vois...
+
+[06308.024]
+Dame
+
+[06308.025]
+Tiens, tiens. Te croiser par une si belle journée, {NAME:03 00 00 00}... Encore un signe d’Atamoni, tu crois ?
+
+[06308.027]
+L’Ordre d’Atamoni... mouais. C’était pas si reluisant que ça, tantine.
+
+[06308.028]
+Dame
+
+[06308.029]
+Si tu restais à Cresta, {NAME:03 00 00 00}, Rutee serait contente.
+
+[06308.030]
+Dame
+
+[06308.031]
+{NAME:01 00 00 00}, tu pars en voyage... ?
+
+[06308.033]
+Hein ! Comment tu as deviné ?
+
+[06308.034]
+Dame
+
+[06308.035]
+Tu es franc comme l’or, voilà pourquoi. Ça se lit tout de suite sur ta figure.
+
+[06308.036]
+Dame
+
+[06308.037]
+Décidément, bon sang ne saurait mentir. Va, et donne tout, {NAME:01 00 00 00} !
+
+[06308.038]
+Dame
+
+[06308.039]
+Dis, écoute un peu ça ! Stahn, qui était parti en voyage depuis tout ce temps, il paraît qu’il revient !
+
+[06308.041]
+Stahn... le père de {NAME:01 00 00 00} ? Pourquoi si soudainement...
+
+[06308.042]
+Dame
+
+[06308.043]
+{NAME:01 00 00 00} surtout : ça fait si longtemps qu’il n’a pas vu son père. Il va être fou de joie !
+
+[06308.044]
+Dame
+
+[06308.045]
+Ça alors, mais c’est {NAME:01 00 00 00} ! Vraiment, tu files comme ça et tu ne reviens jamais !
+
+[06308.047]
+P-pardon, tantine ! Ne te fâche pas comme ça...
+
+[06308.048]
+Dame
+
+[06308.049]
+Tu es allé voir Rutee, au moins ? Elle fait bonne figure, mais je crois qu’elle se sent seule.
+
+[06308.050]
+Dame
+
+[06308.051]
+{NAME:01 00 00 00}, tu repars jouer à l’aventurier ? Vraiment, c’est dangereux !
+
+[06308.053]
+Je ne joue pas, c’est une vraie aventure ! Et pas d’aventure sans un peu de danger !
+
+[06308.054]
+Dame
+
+[06308.055]
+Vraiment... Ce n’est pas parce que tes parents sont des héros que tu dois vouloir en être un, toi aussi...
+
+[06308.056]
+Vieil homme
+
+[06308.057]
+Grrr, {NAME:03 00 00 00} et {NAME:01 00 00 00} ! Sales garnements ! Encore venus faire des bêtises !
+
+[06308.059]
+Arrête de nous traiter en garnements. Me dis pas que tu nous en veux encore pour « l’affaire du dentier volant »...
+
+[06308.060]
+Vieil homme
+
+[06308.061]
+Les autres ont eu l’air rassurés quand tu es entré dans l’Ordre d’Atamoni, mais moi, on ne me la fait pas.
+
+[06308.063]
+Il y a sept ans, tu as mis un serpent dans le caleçon de papy pour rire, tu te rappelles ? Lui s’en souvient encore...
+
+[06308.064]
+Vieil homme
+
+[06308.065]
+En tenue de voyage... On dirait que vous ne comptez pas faire de bêtises, cette fois.
+
+[06308.066]
+Vieil homme
+
+[06308.067]
+... Hmf. Je savais qu’un jour pareil viendrait. Tu es le fils de Stahn le héros, après tout.
+
+[06308.068]
+Vieil homme
+
+[06308.069]
+J’ai perdu ma maison lors des troubles de Hugo, et j’ai erré, erré, jusqu’à échouer dans cette ville...
+
+[06308.070]
+Vieil homme
+
+[06308.071]
+Séparé des miens par la mort, je n’avais plus le goût de vivre. Et vous deux, vous l’avez rendu à ce vieux débris...
+
+[06308.072]
+Vieil homme
+
+[06308.073]
+Tiens ? Voilà une demoiselle que je n’ai jamais vue.
+
+[06308.074]
+Vieil homme
+
+[06308.075]
+J’ignore d’où tu viens, mais tu ne trouveras ici personne que tu connaisses.
+
+[06308.076]
+Vieil homme
+
+[06308.077]
+Demoiselle, il n’y a rien ici de ce que tu cherches.
+
+[06308.078]
+Vieil homme
+
+[06308.079]
+Oh oh ! Dire que ce morveux encore tout vert nous ramène une beauté pareille !
+
+[06308.081]
+Oh, voyons, monsieur !
+
+[06308.083]
+Papy ! Qu’est-ce que tu racontes !
+
+[06308.084]
+Vieil homme
+
+[06308.085]
+Le petit morveux farceur qui ramène une beauté. Pas mal du tout.
+
+[06308.086]
+Vieil homme
+
+[06308.087]
+Tiens, les deux garnements côte à côte. Où allez-vous donc ?
+
+[06308.089]
+Hé hé~ ! À l’aventure. À l’a-ven-tu-re !
+
+[06308.090]
+Vieil homme
+
+[06308.091]
+Hm, l’aventure. Soyez rentrés pour le dîner.
+
+[06308.092]
+Vieil homme
+
+[06308.093]
+Vous deux, soyez rentrés pour le dîner.
+
+[06308.094]
+Joe le Trousseur
+
+[06308.095]
+Fouhahaha ! Ça faisait longtemps, « {NAME:03 00 00 00} le Tourbillon » !
+
+[06308.096]
+{NAME:03 00 00 00} le Tourbillon
+
+[06308.097]
+Hm ! Toi qui connais ce surnom, tu es donc... « Joe le Trousseur » !
+
+[06308.098]
+Joe le Trousseur
+
+[06308.099]
+Joe le Trousseur. Nelson l’Éclair. Et {NAME:03 00 00 00} le Tourbillon.
+
+[06308.100]
+Joe le Trousseur
+
+[06308.101]
+Ceux qui ont porté le troussage de jupes au sommet de l’art : nous trois.
+
+[06308.102]
+{NAME:03 00 00 00} le Tourbillon
+
+[06308.103]
+Hé. Maintenant qu’on est adultes... c’est un doux souvenir...
+
+[06308.104]
+Joe le Trousseur
+
+[06308.105]
+Moi qu’on appelait jadis « Joe le Trousseur », je suis aujourd’hui apprenti commis à l’auberge.
+
+[06308.106]
+{NAME:03 00 00 00} le Tourbillon
+
+[06308.107]
+On ne peut rester enfants ni l’un ni l’autre, mon ami...
+
+[06308.108]
+Joe le Trousseur
+
+[06308.109]
+Transmettons-la, la légende que nous avons bâtie.
+
+[06308.111]
+Ne transmettez pas une légende de troussage de jupes, par pitié...
+
+[06308.112]
+Jeune homme
+
+[06308.113]
+Cresta est paisible. Et cette paix durera toujours. Merveilleux, non ?
+
+[06308.114]
+Jeune homme
+
+[06308.115]
+Des visiteurs à Cresta, c’est rare. Vous venez de Darilsheid ?
+
+[06308.116]
+Jeune homme
+
+[06308.117]
+Moi aussi, j’aimerais vivre dans une grande ville comme Darilsheid.
+
+[06308.118]
+Joe le Trousseur
+
+[06308.119]
+Qu-qu’est-ce qui t’arrive, {NAME:01 00 00 00} ? Tu n’as pas l’air en forme.
+
+[06308.121]
+Oui... Un peu.
+
+[06308.122]
+Joe le Trousseur
+
+[06308.123]
+Ça ne te ressemble pas, {NAME:01 00 00 00}. Une mine sombre, ça ne te va pas, tu sais ?
+
+[06308.124]
+Joe le Trousseur
+
+[06308.125]
+Applique au combat la technique du troussage de jupes, et la victoire sera facile.
+
+[06308.126]
+Joe le Trousseur
+
+[06308.127]
+Alors ? Je t’enseigne mon art ?
+
+[06308.129]
+... Non, merci, sans façon...
+
+[06308.130]
+Joe le Trousseur
+
+[06308.131]
+Fouhahaha ! « {NAME:03 00 00 00} le Tourbillon » ! Si on perfectionnait de nouveau notre art ensemble ?
+
+[06308.133]
+Joe, c’est pas mes oignons, mais à force de sécher ta garde au comptoir, tu vas finir par te faire virer.
+
+[06308.134]
+Joe le Trousseur
+
+[06308.135]
+Le cœur tourné vers des jours qui ne reviendront pas, aujourd’hui encore, je trousse une jupe.
+
+[06308.137]
+{NAME:03 00 00 00} obtient le titre « {08:2E 08 00 00} ».
+
+[06308.138]
+Jeune fille
+
+[06308.139]
+Tiens, mais c’est {NAME:03 00 00 00} ! Bon retour ! Ça fait quoi, de retrouver le pays après tout ce temps ?
+
+[06308.141]
+Presque rien n’a changé depuis que j’ai quitté la ville. Mais va savoir pourquoi, ça me rassure.
+
+[06308.142]
+Jeune fille
+
+[06308.143]
+C’est vrai, rien ne change, mais ici tout le monde vit en paix. Grâce aux parents de {NAME:01 00 00 00}.
+
+[06308.144]
+Jeune fille
+
+[06308.145]
+C’est parce que Stahn et Rutee ont arrêté Hugo que nous sommes là aujourd’hui.
+
+[06308.146]
+Jeune fille
+
+[06308.147]
+On ne les remerciera jamais assez, ces deux-là.
+
+[06308.148]
+Jeune fille
+
+[06308.149]
+Allez, fini la promenade ! Il faut vite que je rentre préparer le repas. Et après, la lessive, les courses, et...
+
+[06308.151]
+Salut, toi. Toujours aussi jolie, aujourd’hui.
+
+[06308.152]
+Jeune fille
+
+[06308.153]
+Qu’est-ce que tu racontes ? Je suis couverte de poussière et même pas maquillée. Moi, jolie ? Sûrement pas, na !
+
+[06308.154]
+Jeune fille
+
+[06308.155]
+{NAME:03 00 00 00}, toi, tu dragues toujours toutes les filles sans distinction, à ce que je vois...
+
+[06308.156]
+Jeune fille
+
+[06308.157]
+Dis, ne me regarde pas de si près. Je suis pleine de poussière, j’ai honte.
+
+[06308.159]
+Tu n’y es pas... C’est justement ça qui te rend mignonne...
+
+[06308.160]
+Jeune fille
+
+[06308.161]
+{NAME:01 00 00 00} me l’a raconté, l’air tout content : son père rentre bientôt.
+
+[06308.162]
+Jeune fille
+
+[06308.163]
+Ça faisait longtemps que je n’avais pas vu {NAME:01 00 00 00} avec un visage aussi heureux. Du coup, ça m’a rendue heureuse aussi.
+
+[06308.164]
+Jeune fille
+
+[06308.165]
+Tiens, {NAME:01 00 00 00}... ? Tu as quelque chose de changé. Je ne t’avais pas reconnu.
+
+[06308.166]
+Jeune fille
+
+[06308.167]
+Alors c’est vrai que les voyages font grandir...
+
+[06308.168]
+Jeune fille
+
+[06308.169]
+Mais dis, tu n’es pas parti tout récemment ?
+
+[06308.170]
+Jeune fille
+
+[06308.171]
+On change vite, quand même.
+
+[06308.172]
+Jeune fille
+
+[06308.173]
+Il paraît que vous partez en voyage, tous les deux. {NAME:03 00 00 00} ! Toi surtout, fais attention !
+
+[06308.175]
+Minute. Tu veux dire que c’est moi le moins fiable des deux ?
+
+[06308.176]
+Jeune fille
+
+[06308.177]
+Eh oui. Ces temps-ci, c’est {NAME:01 00 00 00} qui fait le plus adulte.
+
+[06308.178]
+Jeune fille
+
+[06308.179]
+Bonne route ! Et pas de choses trop dangereuses, vous deux.
+
+[06308.180]
+Homme au seau
+
+[06308.181]
+Rutee, on l’a appelée « héroïne » après la guerre d’il y a dix-huit ans. Si elle l’avait voulu, elle aurait pu vivre tranquille.
+
+[06308.182]
+Homme au seau
+
+[06308.183]
+Et pourtant, elle a choisi de rebâtir cette ville et l’orphelinat. Vraiment, c’est quelqu’un.
+
+[06308.185]
+Vu comme ça, maman est quelqu’un d’incroyable... D’habitude, c’est juste une râleuse.
+
+[06308.186]
+Homme au seau
+
+[06308.187]
+{NAME:01 00 00 00}, {NAME:03 00 00 00}. Si jamais Rutee a des ennuis, dites-le-moi, n’hésitez pas.
+
+[06308.188]
+Homme au seau
+
+[06308.189]
+Elle porte l’orphelinat à elle seule. Il doit bien y avoir des moments durs. Je viendrai aider tout de suite.
+
+[06308.190]
+Homme au seau
+
+[06308.191]
+L’orphelinat commence à être bien délabré, non ? Et si on le reconstruisait un bon coup ? Le bois, j’irai le couper moi-même.
+
+[06308.193]
+C’est gentil, mais je crois que ce n’est pas la peine. Maman tient à ce bâtiment.
+
+[06308.194]
+Homme au seau
+
+[06308.195]
+Ah oui, c’est vrai. C’est Rutee et Stahn qui l’ont construit. Il est plein de souvenirs.
+
+[06308.196]
+Homme au seau
+
+[06308.197]
+Si peu pratique que ce soit, il y a des choses que rien ne remplace. Ce bâtiment en fait partie, hein...
+
+[06308.198]
+Homme au seau
+
+[06308.199]
+{NAME:01 00 00 00}, {NAME:03 00 00 00}, vous avez l’air heureux, tous les deux.
+
+[06308.200]
+Homme au seau
+
+[06308.201]
+Quand vous êtes heureux, nous aussi.
+
+[06308.202]
+Homme au seau
+
+[06308.203]
+Chaque jour est un bonheur. À en faire peur...
+
+[06308.204]
+Homme au seau
+
+[06308.205]
+Qu’est-ce qui t’arrive, {NAME:01 00 00 00} ? Pour une fois que tu rentres, tu tires une de ces têtes.
+
+[06308.206]
+Homme au seau
+
+[06308.207]
+Toujours regarder droit devant, comme un idiot : c’était ça, ta qualité. Qu’est-ce qui s’est passé, enfin ?
+
+[06308.208]
+Homme au seau
+
+[06308.209]
+Alors, {NAME:01 00 00 00} ? Encore en train de jouer à l’aventurier dans le dos de Rutee ?
+
+[06308.211]
+Je ne joue pas ! Je pars pour une vraie aventure !
+
+[06308.212]
+Homme au seau
+
+[06308.213]
+Hahaha ! C’est vrai. Partir à l’aventure et devenir un héros, ça a toujours été ton rêve.
+
+[06308.214]
+Homme au seau
+
+[06308.215]
+Toi, tu deviendras un héros, c’est sûr. Après tout, tu as deux modèles sous ton toit !
+
+[06308.216]
+Homme riche
+
+[06308.217]
+Ma fille s’est mariée dans cette ville, vois-tu.
+
+[06308.218]
+Homme riche
+
+[06308.219]
+Aigrette vaut évidemment mieux qu’un endroit aussi désolé.
+
+[06308.220]
+Homme riche
+
+[06308.221]
+Pour le bonheur de ma fille, je dois la ramener à Aigrette, que protège la déesse Atamoni.
+
+[06308.222]
+Homme riche
+
+[06308.223]
+Qui veut être heureux doit vivre à Aigrette, aux pieds mêmes d’Atamoni. Tu ne trouves pas ?
+
+[06308.225]
+Moi, j’habite ici, et je suis heureux, tout simplement, hein ?
+
+[06308.226]
+Homme riche
+
+[06308.227]
+On ne peut pas être heureux dans une ville aussi désolée !
+
+[06308.228]
+Homme riche
+
+[06308.229]
+... C’est ce que je pensais, et je comptais ramener ma fille et son mari à Aigrette. Mais je me trompais peut-être...
+
+[06308.230]
+Homme riche
+
+[06308.231]
+À voir le visage heureux de ma fille, la ramener de force à Aigrette m’a paru idiot.
+
+[06308.232]
+Homme riche
+
+[06308.233]
+L’être humain peut être heureux n’importe où, dans n’importe quelles conditions.
+
+[06308.234]
+Homme riche
+
+[06308.235]
+J’ai profité d’un congé pour venir voir ma fille et son mari, mais je ne pensais pas trouver une telle campagne.
+
+[06308.236]
+Homme riche
+
+[06308.237]
+Enfin, ils ont l’air heureux tous les deux. Tant mieux, tant mieux.
+
+[06308.238]
+Homme riche
+
+[06308.239]
+Si pauvre qu’on soit, être heureux, c’est l’essentiel ! Tu ne trouves pas ?
+
+[06308.240]
+Jeune femme
+
+[06308.241]
+À Aigrette, il suffit d’avoir des Lentilles pour que les gens de l’Ordre d’Atamoni vous aident grâce à leurs miracles.
+
+[06308.242]
+Jeune femme
+
+[06308.243]
+Mais ici, il faut faire l’effort soi-même, pas vrai ? C’est ça qui est amusant♪
+
+[06308.245]
+Hmm... Faire des efforts, c’est plus amusant que la facilité ? Je ne comprends pas trop.
+
+[06308.246]
+Jeune femme
+
+[06308.247]
+Et les gens avec qui on vit sont gentils. Vraiment, cette ville est un bel endroit.
+
+[06308.248]
+Jeune femme
+
+[06308.249]
+Tiens, {NAME:01 00 00 00}. Tu vas jouer ? Il faut aussi donner un coup de main, de temps en temps.
+
+[06308.251]
+Je ne vais pas jouer ! Cette fois, je pars pour une vraie aventure !
+
+[06308.253]
+Je reviendrai en héros, comme papa !
+
+[06308.254]
+Jeune femme
+
+[06308.255]
+Hmm. Avant de devenir un héros, apprends à faire le ménage correctement, d’accord ?
+
+[06308.256]
+Jeune femme
+
+[06308.257]
+{NAME:01 00 00 00}, n’en fais pas trop. Et toi, {NAME:03 00 00 00}, ne lui apprends pas que des jeux bizarres.
+
+[06308.259]
+On me fait vraiment pas confiance...
+
+[06308.260]
+Jeune femme
+
+[06308.261]
+Hi hi. Je vais bientôt être maman♪ J’espère que le bébé naîtra en bonne santé.
+
+[06308.263]
+Un bébé... Il faut qu’on fasse de notre mieux, pour les enfants qui vont naître aussi♪
+
+[06308.265]
+{NAME:02 00 00 00}...
+
+[06308.266]
+Jeune femme
+
+[06308.267]
+Hi hi. Je vais bientôt être maman♪ J’espère que le bébé naîtra en bonne santé.
+
+[06308.269]
+Quoi ! Ne me dis pas que c’est celui de {NAME:03 00 00 00}...
+
+[06308.270]
+Jeune femme
+
+[06308.271]
+Bien sûr que non !
+
+[06308.272]
+Jeune femme
+
+[06308.273]
+Mes parents sont venus d’Aigrette voir comment je vais.
+
+[06308.274]
+Jeune femme
+
+[06308.275]
+Les parents s’inquiètent pour leurs enfants, quel que soit leur âge...
+
+[06308.277]
+{NAME:01 00 00 00} aussi n’arrête pas de donner du souci à Stahn et Rutee.
+
+[06308.278]
+Jeune femme
+
+[06308.279]
+Une fois mère, est-ce que je comprendrai un peu ce que ressentait maman ?
+
+[06308.281]
+Obtenu : {08:2F 01 00 00}.
+
+[06308.282]
+Jeune femme
+
+[06308.283]
+Hé, dis donc ! On ne touche pas sans demander !
+
+[06308.285]
+Remis en place : {08:2F 01 00 00}.
+
+[06308.286]
+Jeune femme
+
+[06308.287]
+Je te donne ceci à la place.
+
+[06308.288]
+Jeune femme
+
+[06308.289]
+{NAME:01 00 00 00} ! La grande sœur n’aime pas les enfants qui n’écoutent pas !
+
+[06308.290]
+Homme
+
+[06308.291]
+Eh oui ! En forêt, on est une proie facile, alors mieux vaut la contourner autant que possible.
+
+[06308.292]
+Homme
+
+[06308.293]
+Il y a des ruines où pousse un arbre énorme, mais c’est dangereux, personne n’y va !
+
+[06308.294]
+Homme
+
+[06308.295]
+Oh, {NAME:01 00 00 00}. C’est vrai que tu pars à l’aventure ?
+
+[06308.297]
+Oui, je pars devenir un héros !
+
+[06308.298]
+Homme
+
+[06308.299]
+Alors écoute bien, {NAME:01 00 00 00} !
+
+[06308.300]
+Homme
+
+[06308.301]
+........
+........
+
+[06308.302]
+Homme
+
+[06308.303]
+... J’ai oublié ce que je voulais dire.
+
+[06308.304]
+Homme
+
+[06308.305]
+Ça ne me revient pas.
+
+[06308.306]
+Homme
+
+[06308.307]
+Tu connais Aquaveil ? Il paraît que les bâtiments et les habits des gens y ont une allure un peu spéciale.
+
+[06308.308]
+Homme
+
+[06308.309]
+Aquaveil serait loin au nord-est de Cresta, par-delà la mer. J’aimerais y aller un jour.
+
+[06308.310]
+Homme
+
+[06308.311]
+Aquaveil serait loin au nord-est de Cresta, par-delà la mer. J’aimerais y aller un jour.
+
+[06308.312]
+Servante férue d’éclat
+
+[06308.313]
+Pour {0B:01 00 00 00}{06:05 00 00 00}{0B:00 00 00 00} Lentilles, ça ne te dirait pas de savoir comment aller à Darilsheid ?
+
+[06308.315]
+　Je veux savoir　
+　Je me débrouille　
+
+[06308.316]
+Servante férue d’éclat
+
+[06308.317]
+Hé hé... Merci bien♪
+
+[06308.318]
+Servante férue d’éclat
+
+[06308.319]
+Pour aller à Darilsheid, on traverse le pont près des ruines de Laguna. Après, il y a une grand-route.
+
+[06308.320]
+Servante férue d’éclat
+
+[06308.321]
+En suivant cette route, on aperçoit la mer. Sur la droite, c’est Darilsheid.
+
+[06308.322]
+Servante férue d’éclat
+
+[06308.323]
+... Hé, tu n’en as pas assez !
+
+[06308.324]
+Servante férue d’éclat
+
+[06308.325]
+Si tu erres sans fin, ce ne sera pas ma faute.
+
+[06308.327]
+Ouaf !
+
+[06308.329]
+Un monument patiné par le temps. « En mémoire de la renaissance de Cresta et de la paix du monde. Don de Woodrow Kelvin »
+
+[06308.331]
+Une cloche d’alarme. On la sonne s’il arrive quelque chose au village.
+
+[06308.333]
+La sonner ?
+
+[06308.335]
+{03:00 00 00 00}　La sonner　
+　Sans intérêt　
+
+[06308.336]
+Dame
+
+[06308.337]
+{05:00 02 00 00}{NAME:E8 03 00 00} ! On ne fait pas de bêtises !
+
+[06308.339]
+De beaux légumes ont poussé ici. Ils semblent juste bons à récolter.
+
+[06308.341]
+Obtenu : 3 {08:5B 00 00 00}.
+
+[06308.343]
+Un canal d’irrigation. Il amène au village l’eau que puise la fontaine.
+
+[06308.345]
+Le fond du canal est trop sombre pour y voir, mais il doit rejoindre le ruisseau.
+
+[06308.347]
+La roue à aubes tourne en grondant. On doit moudre de la farine à l’intérieur.
+
+[06308.349]
+Une fontaine mue par le vent. C’est le symbole de Cresta.
+
+[06308.351]
+Un panneau. « Vers l’orphelinat Dunamis »
+
+[06308.353]
+Un panneau. « Ici Cresta, là où tout commence »
+
+[06308.355]
+Les rideaux sont tirés. On ne voit pas l’intérieur...
+
+[06308.357]
+Des fleurs plantées par les enfants de l’orphelinat.
+
+[06308.359]
+Des fleurs plantées par les enfants de l’orphelinat. Quelles fleurs sont-ce donc ?
+
+[06308.361]
+Des fleurs plantées par les enfants de l’orphelinat. Une étiquette dit : « Essai de croisement, par Uni ».
+
+[06308.363]
+Le canal devient profond. Impossible d’aller plus loin.
+
+[06308.364]
+Guerrier mystérieux
+
+[06308.365]
+J’ai traversé d’innombrables combats acharnés, et il est prévu que je devienne un preux. Pour vous, qu’est-ce donc que le combat ?
+
+[06308.367]
+{03:00 00 00 00}　Facile　
+　Normal　
+　Dur　
+
+[06308.368]
+Oh oh. Alors combattez avec plus de panache encore, et accumulez du GRADE.
+
+[06308.369]
+Enfin, prenez soin de votre vie.
+
+[06308.370]
+Comment ! En somme, de parfaits débutants ?
+
+[06308.372]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06308.373]
+Autrement dit, cela ne vous gêne pas que tout le monde vous appelle « débutants, débutants » ?
+
+[06308.375]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06308.376]
+Hmm. Enfin, tout le monde a peur au début. Allez donc prendre de l’expérience.
+
+[06308.378]
+{NAME:01 00 00 00} et les siens obtiennent le titre « {08:53 08 00 00} ».
+
+[06308.379]
+Un guerrier ne fuit pas le combat !
+
+[06308.380]
+Répondez quelque chose.
+
+[06308.381]
+Bon voyage.
+
+[06308.382]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06308.383]
+Voulez-vous passer la nuit ?
+
+[06308.385]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06308.386]
+Reposez-vous bien.
+
+[06308.387]
+Bonjour.
+
+[06308.388]
+Vous n’avez pas assez d’argent.
+
+[06308.389]
+Au plaisir de vous revoir.
+
+[06308.394]
+Obtenu : {16:26 2A}.
+
+[06308.396]
+Obtenu : {08:FF FF FF FF}.
+
+[06308.398]
+Trouvé : {16:26 32}, mais vous n’avez plus de place.
+
+[06308.400]
+Il n’y a rien ici.
+
+[06308.401]
+Vendeur ({08:12 00 00 00})
+
+[06308.402]
+Vous trouverez ici : {08:12 00 00 00}.
+
+[06308.403]
+Raffiner avec une {08:12 00 00 00} donne parfois quelque chose de merveilleux, paraît-il.
+
+[06308.404]
+Quand on raffine des armes ou des armures, leurs capacités ajoutées se transmettent parfois, paraît-il.
+
+[06308.405]
+C’est {0B:01 00 00 00}{14:36 3C}{0B:00 00 00 00} Gald la fiole. Voulez-vous acheter une {08:12 00 00 00} ?
+
+[06308.407]
+{03:00 00 00 00}　Acheter　
+　{0B:01 00 00 00}En acheter {14:26 46} ({14:36 40} Gald){0B:00 00 00 00}　
+　Cours de raffinage　
+　Non merci　
+
+[06308.409]
+{03:00 00 00 00}　Acheter　
+　Cours de raffinage　
+　Non merci　
+
+[06308.410]
+Merci de votre achat.
+
+[06308.411]
+Merci de votre achat.
+
+[06308.412]
+La {08:12 00 00 00} est à {0B:01 00 00 00}{14:36 3C}{0B:00 00 00 00} Gald pièce.
+
+[06308.413]
+Voulez-vous suivre le cours de raffinage ?
+
+[06308.415]
+{03:00 00 00 00}　Oui, volontiers　
+　Non merci　
+
+[06308.416]
+Que voulez-vous savoir ?
+
+[06308.418]
+{03:00 00 00 00}　4. Les emplacements　
+　5. Raffiner les parures　
+　6. L’équipement non raffinable　
+　Page précédente　
+
+[06308.420]
+{03:00 00 00 00}　1. Qu’est-ce que le raffinage ?
+　2. Transformer un objet　　　　　　　　　　
+　3. Fusionner l’équipement　
+　Page suivante　
+
+[06308.421]
+Le raffinage est une commande qui transforme l’objet choisi en un autre objet, ou qui fusionne armes et armures.
+
+[06308.422]
+Pour raffiner, il faut une {08:12 00 00 00} et des Lentilles.
+
+[06308.423]
+Procurez-vous votre {08:12 00 00 00} auprès de nous, les vendeurs de fioles runiques, présents un peu partout.
+
+[06308.424]
+Les Lentilles se ramassent en combattant les monstres.
+
+[06308.425]
+Profitez-en pour raffiner autant qu’il vous plaira.
+
+[06308.426]
+Transformer un objet, c’est raffiner un objet seul pour le changer en un autre.
+
+[06308.427]
+Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’inverse, raffiner {08:02 00 00 00} le change en {08:01 00 00 00}.
+
+[06308.428]
+De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
+
+[06308.429]
+Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+
+[06308.430]
+Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.
+
+[06308.431]
+En fusionnant l’équipement, vous pouvez créer votre pièce préférée dotée de votre emplacement préféré...
+
+[06308.432]
+Ah, il faut d’abord que je vous explique les emplacements.
+
+[06308.433]
+Un emplacement est une sorte de capacité ajoutée que l’on peut fixer à une pièce d’équipement.
+
+[06308.434]
+Je vous expliquerai les emplacements en détail à part.
+
+[06308.435]
+Le raffinage d’équipement le plus simple unit deux pièces qui ont chacune un emplacement.
+
+[06308.436]
+Et là, merveille : on obtient une pièce d’équipement à deux emplacements.
+
+[06308.437]
+Attention : on ne raffine ensemble que des pièces de même sorte, épée avec épée, armure avec armure.
+
+[06308.438]
+Il existe bien d’autres combinaisons, mais je vous laisse le plaisir de les découvrir.
+
+[06308.439]
+Je vais vous expliquer les emplacements en détail.
+
+[06308.440]
+Les emplacements sont de bien des sortes. Les plus typiques :
+Attack : augmente l’attaque
+Defense : augmente la défense
+
+[06308.441]
+L’emplacement change aussi le nom de l’équipement. {08:78 00 00 00} + Attack donne ainsi une épée « Attack ».
+
+[06308.442]
+Les emplacements ont aussi un niveau : plus il est haut, plus l’effet est fort. Le maximum est le niveau 8.
+
+[06308.443]
+L’équipement à emplacement est surtout lâché par les monstres.
+
+[06308.444]
+Combattez beaucoup de monstres, récoltez de l’équipement à emplacement et créez-en un qui ne soit qu’à vous.
+
+[06308.445]
+Entre nous, les parures aussi peuvent se raffiner. Mais pas entre elles.
+
+[06308.446]
+Elles ne se raffinent que sous la forme parure plus équipement.
+
+[06308.447]
+L’avantage, ici, c’est que l’emplacement change selon la pièce d’équipement raffinée : il diffère entre armes et armures.
+
+[06308.448]
+De plus, comme on ne porte qu’une seule parure, employer les parures inutiles au raffinage est très efficace.
+
+[06308.449]
+Par ailleurs, les manteaux, c’est-à-dire les « capes », se raffinent avec l’équipement comme les parures. Et dans ce cas, figurez-vous qu’on peut ajouter un élément à l’équipement.
+
+[06308.450]
+Tirez aussi bon parti du raffinage avec les parures, et visez à devenir un artisan raffineur plus admirable encore.
+
+[06308.451]
+On voit parfois de l’équipement dont l’icône a un cadre jaune. C’est ce qu’on appelle un objet unique.
+
+[06308.452]
+Les objets uniques ont de l’allure, et beaucoup ont une attaque élevée et un haut niveau d’emplacement, mais ils n’ont qu’un seul emplacement.
+
+[06308.453]
+En revanche, les objets uniques autres que les parures ne peuvent pas être raffinés. On ne peut plus les renforcer.
+
+[06308.454]
+Je vous conseille donc de vendre sans hésiter les objets dont vous n’avez plus besoin.
+
+[06308.455]
+Car la rumeur veut que, lorsqu’on porte beaucoup d’objets, les monstres cessent d’en lâcher.
+
+[06308.456]
+... Ranger ses objets, c’est important aussi.
+
+[06308.457]
+Vétéran
+
+[06308.458]
+Bleu
+
+[06308.460]
+Leur sujet semble être : « l’attaque à l’arme ». Écouter ?
+
+[06308.461]
+Bon, nous aussi, on va se lancer dans l’aventure. Tu as les bases ?
+
+[06308.462]
+Évidemment, quoi ! J’attaque à l’arme à fond avec {09:45 00 00 00} !!
+
+[06308.463]
+Certes, mais combine-le avec les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00}, et tu obtiens quatre sortes d’attaques !
+
+[06308.464]
+Commence par les essayer vraiment plusieurs fois, pour apprendre leur vitesse et leur portée.
+
+[06308.465]
+Et pour attaquer plusieurs fois de suite, on fait comment ?
+
+[06308.466]
+Il suffit de rappuyer sur {09:45 00 00 00} pendant l’attaque. Et bien sûr, les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00} changent la façon d’attaquer.
+
+[06308.467]
+Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge bleue{04:07 00 00 00} en combat.) Si elle tombe trop bas, mieux vaut cesser d’attaquer et attendre qu’elle remonte.
+
+[06308.468]
+Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
+
+[06308.469]
+Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+
+[06308.470]
+Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
+
+[06308.472]
+Leur sujet semble être : « les artes ». Écouter ?
+
+[06308.473]
+Alors, maintenant que tu as appris des artes, ta stratégie a gagné en ampleur, non ?
+
+[06308.474]
+Les artes {09:46 00 00 00}, c’est costaud, mais les TP filent tout de suite, quoi. Ils remontent tout seuls en combat, mais je suis encore faiblard, alors c’est lent.
+
+[06308.475]
+Certes. C’est là que comptent les attaques normales avec {09:45 00 00 00}. Chaque attaque normale qui touche rend 1 TP.
+
+[06308.476]
+Alors attaques normales {09:45 00 00 00} à fond, quoi !
+
+[06308.477]
+... Garder des TP en trop, c’est du gâchis aussi. L’important est de bien s’en servir : lancer un sort pour laisser remonter les SP, par exemple.
+
+[06308.478]
+Les TP remontent aussi un peu quand on abat un ennemi. Et si on en abat plusieurs d’un coup pendant un enchaînement, on en récupère davantage.
+
+[06308.480]
+Leur sujet semble être : « les enchantements ». Écouter ?
+
+[06308.481]
+J’ai appris un enchantement aussi.
+
+[06308.482]
+... Et c’est quoi, un enchantement ?
+
+[06308.483]
+Hm. Pour faire simple : « le pouvoir de régler à son goût les artes et les sorts qu’on connaît ».
+
+[06308.484]
+D’abord, sers-t’en sans cesse pour faire monter le nombre d’usages ! Tu pourras alors équiper toutes sortes d’enchantements.
+
+[06308.485]
+Alors j’utilise un seul arte à fond, quoi.
+
+[06308.486]
+C’est une méthode. Mais on ne change pas d’enchantement en plein combat. Mettre des enchantements variés sur beaucoup d’artes n’est pas mal non plus.
+
+[06308.487]
+Lancer un sort qui affaiblit l’ennemi, puis foncer l’arme au poing... En maîtrisant artes et sorts, la stratégie s’élargit. ... On peut aussi se compléter entre compagnons.
+
+[06308.488]
+Au fait, retirer un enchantement équipé rend les usages : tu as tout intérêt à faire des essais.
+
+[06308.489]
+Mon arte préféré touche pas souvent, alors pour compenser, je lui mets un enchantement de précision.
+
+[06308.490]
+... Dans ton cas, tu frappes simplement dans le vide. Un coup dans le vide ne compte pas comme usage : c’est du gâchis !
+
+[06308.491]
+Et un sort de soin ne gagne un usage que « lancé sur une cible à 50 % de HP ou moins ». Attention !!
+
+[06308.492]
+C’est sûr, s’en servir pour une égratignure, ça forme pas, quoi.
+
+[06308.494]
+Leur sujet semble être : « la stratégie de combat ». Écouter ?
+
+[06308.495]
+Décidons de nos stratégies pour faire face à n’importe quel ennemi ! Que fais-tu si surgit « un ennemi à la défense solide » ?
+
+[06308.496]
+Tout le monde lance des sorts à fond, quoi.
+
+[06308.497]
+Les sorts, ce n’est pas mal, mais si tout le monde incante, on se fait rosser à loisir. Mieux vaut garder quelqu’un à l’avant.
+
+[06308.498]
+Et si « l’arrière-garde ennemie lance des sorts puissants » ?
+
+[06308.499]
+Ça, je l’ai appris par cœur hier. Avec « Bloque les sorts », on gêne leur incantation.
+
+[06308.500]
+C’est à peu près ça.
+
+[06308.501]
+On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
+
+[06308.502]
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+
+[06308.504]
+Leur sujet semble être : « le Technical Smash ». Écouter ?
+
+[06308.505]
+C’est quoi, un Technical Smash ?
+
+[06308.506]
+Hm. Porte « un coup de grâce éblouissant », de ceux que saluent même les pros du combat, et il est homologué Technical Smash.
+
+[06308.507]
+Abats un ennemi d’un Technical Smash et, tant c’est beau sans doute, tes chances d’obtenir un objet bondissent. C’est du moins ce que tout le monde raconte.
+
+[06308.508]
+Ce doit être vrai.
+
+[06308.509]
+Avec les enchaînements, ou en en abattant plusieurs d’un coup, ça sort à fond, quoi.
+
+[06308.510]
+Hm. « Achever par un enchaînement » est capital. Au moment du coup de grâce, tous les SP dépensés dans cet enchaînement reviennent. Même après un long enchaînement, on se remet d’aplomb.
+
+[06308.511]
+Alors les artes additionnels et tout ça, je les garde pour achever.
+
+[06308.512]
+Si tu manques de SP, c’est une bonne idée.
+
+[06308.513]
+L’ennui des enchantements d’Action, c’est qu’ils coûtent des SP ; savoir user du coup de grâce est la voie du maître.
+
+[06308.515]
+Leur sujet semble être : « les Spirits ». Écouter ?
+
+[06308.516]
+J’attaque, et l’ennemi pare tout à fond, quoi.
+
+[06308.517]
+Les ennemis à forte esquive sont une plaie. Les toucher par des sorts est une stratégie, mais certains sont du genre à faire fondre tes Spirits en une seule attaque.
+
+[06308.518]
+Pousse-les à frapper dans le vide pour user leurs Spirits, et leur esquive baisse aussi... C’est une ouverture à viser.
+
+[06308.519]
+Moi, avec le Press Guard, {09:47 00 00 00} et {09:1D 00 00 00}, je fais baisser leurs SP exprès.
+
+[06308.520]
+L’ennui, c’est que tu le fais aussi au milieu de leurs enchaînements. Le Press Guard se place sur la dernière attaque de l’ennemi. Il lui retire pas moins de 20 SP. Apprends à lire ses attaques.
+
+[06308.521]
+Si tu as réglé l’affichage de la cible dans les Options, plus le curseur est clair, plus ses SP sont hauts. Tu peux jauger les SP de l’ennemi tout en te battant.
+
+[06308.523]
+Leur sujet semble être : « les coups consécutifs ». Écouter ?
+
+[06308.524]
+C’est quoi, des coups consécutifs ?
+
+[06308.525]
+Blesse de nouveau un ennemi avant qu’il ne se remette en garde, et le nombre de coups s’additionne et s’affiche.
+
+[06308.526]
+Et si j’en place plein, il se passe quoi ?
+
+[06308.527]
+Hm. Ton record de coups influe sur l’expérience gagnée. Car une si belle série d’attaques est une expérience qui surpasse toutes les autres.
+
+[06308.528]
+Pour un nombre de coups plus élevé, la coordination avec tes compagnons est indispensable. Indépendamment du nombre de coups, chaque « sorte d’attaque » différente s’ajoute au CHAIN.
+
+[06308.529]
+Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
+
+[06308.530]
+En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+
+[06308.532]
+Leur sujet semble être : « la zone d’influence ». Écouter ?
+
+[06308.533]
+Je pensais qu’attaquer l’ennemi par-derrière serait un avantage, mais va savoir, ça fatigue.
+
+[06308.534]
+Hm. C’est la cohésion avec tes compagnons qui te donne du cœur, Spirits compris. Quand l’ennemi vous sépare, toutes sortes de récupérations ralentissent, semble-t-il.
+
+[06308.535]
+Si tu te retrouves malgré toi à droite de l’ennemi, reviens à gauche d’un pas en arrière avec {09:47 00 00 00} + {09:19 00 00 00}.
+
+[06308.536]
+Autant pas passer derrière, alors, quoi.
+
+[06308.537]
+En gros, tu peux voir les choses ainsi. Mais quand tu sauras lire le combat, tu pourras peut-être y faire un travail qui compense la pénalité.
+
+[06308.538]
+La théorie a pas toujours raison, quoi.
+
+[06308.539]
+Il t’arrive de dire des choses sensées.
+
+[06308.540]
+Trop vétéran
+
+[06308.541]
+Fils
+
+[06308.543]
+Leur sujet semble être : « les altérations d’état ». Écouter ?
+
+[06308.544]
+Me voilà frappé d’une altération d’état en plein combat. Et pas la moindre Fiole de panacée. Serait-ce la fin, ma foi...
+
+[06308.545]
+Il ne faut pas renoncer, père. Même frappé d’une altération en combat, on en guérit avec le temps, paraît-il.
+
+[06308.546]
+Les altérations ont des niveaux : même avec un équipement préventif, il arrive qu’on ne puisse les atténuer assez et qu’on les subisse. Il faut rester prudent.
+
+[06308.547]
+Mmh... Faut-il donc que je reparte au combat ? C’est rude, ma foi...
+
+[06308.548]
+Le mieux est d’avoir sous la main un plat qui guérit les altérations, père. Il existe aussi, semble-t-il, des plats et des objets qui les préviennent.
+
+[06308.549]
+Trop tard, ma foi ! Poison {09:56 00 00 00}, paralysie {09:5F 00 00 00}, faiblesse {09:5A 00 00 00}, gel et lenteur : je n’en peux plus !
+
+[06308.550]
+Il ne faut pas mentir, père. Quatre altérations au plus peuvent rester sur une même personne. Et augmenter ses capacités par un enchantement fait parfois disparaître le poison.
+
+[06308.551]
+De plus, le gel et la lenteur guérissent à la fin du combat.
+
+[06308.552]
+C’est juste. Et la lenteur, ma foi, je l’avais dès le départ.
+
+[06308.553]
+Hahahahahahahaha
+hahahahahahahaha
+
+[06308.554]
+(Il rit un peu trop, ce me semble...)
+
+[06308.555]
+Trop vétéran
+
+[06308.556]
+Fils
+
+[06308.558]
+Leur sujet semble être : « le Spirits Blaster ». Écouter ?
+
+[06308.559]
+Même au pied du mur, en Spirits Blaster, on tient sa chance de tout renverser, ma foi.
+
+[06308.560]
+Pour passer en Spirits Blaster, père, il est efficace de toucher l’ennemi sans se faire parer. Encaisser des coups y mène aussi, mais pour vous, père, c’est dangereux.
+
+[06308.561]
+Même avec mes forces déclinantes, en Spirits Blaster, j’attaque sans chanceler, ma foi.
+
+[06308.562]
+Tout de même, père, l’effet cesse quand les HP tombent à zéro, et recevoir une magie de soin l’abrège.
+
+[06308.563]
+Je ne m’arrête pas à ces détails. Mon plus bel arte mystique ne se montre qu’en Spirits Blaster.
+
+[06308.564]
+Non, père. Certes, un arte mystique coûte beaucoup de SP, mais en profitant des SP rendus par un ennemi abattu, on parvient parfois à le placer, semble-t-il.
+
+[06308.565]
+Cela dit, certains archers profiteraient de l’état Spirits Blaster pour placer un arte mystique au lieu d’un sort additionnel, père.
+
+[06308.566]
+Enfin, même si l’arte arcane touche, on ne passe pas à l’arte mystique si l’ennemi ne chancelle pas : avec un arcane qui soulève, cela échoue parfois sur les ennemis lourds.
+
+[06308.567]
+Sur ce, allons sans tarder tous les deux placer nos artes mystiques.
+
+[06308.568]
+Non, père. Je suis lanceur de sorts, je n’utilise pas d’arte mystique.
+
+[06308.569]
+À vrai dire, père, après un arte mystique les SP tombent à 0, et c’est terriblement gênant. N’en placez pas s’il n’achève même pas l’ennemi, père.
+
+[06308.570]
+Parce que c’est gênant.
+
+[06308.571]
+(Une fois suffisait, ce me semble...)
+
+[06308.572]
+Trop vétéran
+
+[06308.573]
+Fils
+
+[06308.575]
+Leur sujet semble être : « le Field of Effect ». Écouter ?
+
+[06308.576]
+L’autre jour, ce « Field of Effect » lancé par l’ennemi m’a donné bien du fil à retordre.
+
+[06308.577]
+FOE en abrégé, père. Il en existe deux grandes sortes : ceux qui agissent sur les ennemis dans la zone, et ceux qui réduisent nos capacités.
+
+[06308.578]
+Quand cela sort, n’y a-t-il plus qu’à baisser les bras ?
+
+[06308.579]
+Il est trop tôt pour renoncer, père. Certains cessent avec le temps, d’autres à force de coups. Et bien sûr, ils disparaissent au coup de grâce.
+
+[06308.580]
+S’ils en lancent un qui agit sur nous, vaut-il mieux ne laisser qu’un seul homme à l’avant et user de sorts ?
+
+[06308.581]
+Oui, père. Mais le mieux reste de changer de stratégie selon le changement d’état. S’il agit sur l’ennemi, des Besicles en révèlent la nature.
+
+[06308.582]
+À part ça, les jeunes d’aujourd’hui veulent tout abréger, c’en est pénible.
+
+[06308.583]
+(Vous le dites un peu tard, père...)
+
+[06308.585]
+Leur sujet semble être : « le Battle Grade ». Écouter ?
+
+[06308.586]
+C’est quoi, au bout du compte, le Battle Grade ?
+
+[06308.587]
+Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se battre », n’est-ce pas, chef ? Le ratio des dégâts, les coups dans le vide, le fait d’user toujours du même arte : tout est jugé.
+
+[06308.588]
+Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
+
+[06308.589]
+On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+
+[06308.590]
+Et s’il est haut, ça apporte quoi de bien ?
+
+[06308.591]
+C’est à l’étude, chef. Certains insolents disent bien que cela ne sert à rien en ce bas monde...
+
+[06308.592]
+Bah, te prends pas la tête et peaufine ta technique.
+
+[06308.593]
+Bravo, chef, j’apprends tant avec vous.
+
+[06308.595]
+Leur sujet semble être : « le rétablissement ». Écouter ?
+
+[06308.596]
+Quand on me plaque au sol, je reste à terre, quoi.
+
+[06308.597]
+C’est rude, en effet, chef. Mais en appuyant sur {09:47 00 00 00} à l’instant précis où l’on touche le sol, on se rétablit, n’est-ce pas ?
+
+[06308.598]
+B-b-b-bien sûr que je le savais, quoi.
+
+[06308.599]
+Se rétablir réduit le temps passé à terre et, surtout, rend des SP et des TP : c’est appréciable, n’est-ce pas ?
+
+[06308.600]
+B-b-b-b-bien sûr que je le savais, quoi.
+
+[06308.602]
+Leur sujet semble être : « la difficulté des combats ». Écouter ?
+
+[06308.603]
+Ça rime à quoi, de monter la difficulté des combats ?
+
+[06308.604]
+Il est vrai que monter la difficulté ne ramènera pas la paix dans le monde. Mais on dit que les armes et armures lâchées par les ennemis sont meilleures.
+
+[06308.605]
+Dans ce cas, je la monte à fond, quoi.
+
+[06308.606]
+Mais vous le savez, monter la difficulté augmente l’attaque et l’intellect des ennemis, qui lancent en plus des attaques terribles absentes en difficulté normale. Le choix est délicat, n’est-ce pas ?
+
+[06308.607]
+Dans ce cas, NORMAL me va tant que j’ai pas ramené la paix dans le monde une fois.
+
+[06308.608]
+Je ne saisis pas bien ce que vous voulez dire, mais vous avez tout à fait raison.
+
+[06308.609]
+SECOND est d’une difficulté mesurée : je le conseillerais à qui veut un peu plus de répondant.
+
+[06308.611]
+Ils semblent approfondir le sujet : « les attaques normales ». Écouter ?
+
+[06308.612]
+J’ai pris le coup, alors ces temps-ci, pour les attaques normales, je martèle juste {09:45 00 00 00}, quoi.
+
+[06308.613]
+Ce n’est vraiment pas ça.
+
+[06308.614]
+En vérité, précision et dégâts baissent un peu au deuxième et au troisième coup, mais ils baissent davantage si l’on répète la même attaque.
+
+[06308.615]
+Quoiii ? Alors je fais comment ?
+
+[06308.616]
+Hm. Construire « {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00} », bref varier les combinaisons, voilà le premier pas.
+
+[06308.617]
+Et le deuxième pas, c’est quoi ?
+
+[06308.618]
+{09:45 00 00 00} : attaque --, précision --
+{09:17 00 00 00}{09:45 00 00 00} : attaque +, précision -
+{09:19 00 00 00}{09:45 00 00 00} : attaque -, précision +
+{09:16 00 00 00}{09:45 00 00 00} : attaque -, précision -
+
+[06308.619]
+Retiens tout ça ! Les attaques avec {09:45 00 00 00} couvrent large et touchent souvent sans peine, mais en contrepartie elles ne valent pas grand-chose dans une série.
+
+[06308.620]
+Cela influe aussi sur l’attaque suivante : avec « {09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} » et avec « {09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} », les chiffres du troisième coup diffèrent.
+
+[06308.621]
+Alors contre un ennemi à forte esquive, je construis à partir de {09:19 00 00 00}{09:45 00 00 00}. Et contre un ennemi à faible esquive, je démarre par {09:17 00 00 00}{09:45 00 00 00}.
+
+[06308.622]
+Par exemple, oui. Cela dit, l’écart est infime : si les autres règles t’occupent déjà bien assez, inutile de te forcer à retenir celle-ci.
+
+[06308.624]
+Leur sujet semble être : « les longs discours ». Écouter ?
+
+[06308.625]
+Même des propos instructifs, au bout de dix ans à les écouter, ça fatigue, quoi.
+
+[06308.626]
+Tiens, je ne te l’avais pas dit. En maintenant {09:2F 00 00 00} et {09:2E 00 00 00}, on fait défiler les messages en accéléré. Pratique pour sauter une conversation déjà lue.
+
+[06308.627]
+Quoiii ? Pourquoi tu me l’as pas dit pendant dix ans ?
+
+[06308.628]
+Imbécile ! Qu’un bleu comme toi saute mes paroles, c’est dix ans trop tôt !
+
+[06308.629]
+... me disais-je, et voilà pourquoi je te le dis maintenant.
+
+[06308.630]
+Ça se tient, quoi.
+
+[06308.632]
+Leur sujet semble être : « le ramassage d’objets ». Écouter ?
+
+[06308.633]
+Tant qu’à vivre en aventurier, je veux rafler des objets aux ennemis à fond, quoi.
+
+[06308.634]
+Hm. C’est juste. Mais une rumeur fort plausible court parmi les aventuriers.
+
+[06308.635]
+C’est quoi, cette rumeur ?
+
+[06308.636]
+« Plus on porte d’objets d’une même sorte, moins les ennemis auraient de chances d’en lâcher », dit-on.
+
+[06308.637]
+Ça va pas du tout, quoi. Je vends tout.
+
+[06308.638]
+Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+
+[06308.639]
+Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
+
+[06308.640]
+Par ailleurs, si tu veux avancer en consommant tes objets, on m’a dit qu’il valait mieux n’en garder qu’un petit nombre.
+
+[06308.641]
+Pour les consommables, ce n’est pas le total qui compte mais le nombre détenu de chacun : telle est, paraît-il, l’opinion admise chez les aventuriers.
+
+[06308.642]
+Mais avec peu, on est vite mal face aux ennemis costauds.
+
+[06308.643]
+Il y a de ça. L’important, c’est de mener l’aventure qui convient à son propre style.
+
+[06308.645]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06308.647]
+Moi, je vais aller au bout de ma propre voie !!
+

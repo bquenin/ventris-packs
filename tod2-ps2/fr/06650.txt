@@ -1,0 +1,208 @@
+[06650.001]
+Ruines de la base terrestre
+
+[06650.002]
+Ruines de la base terrestre
+
+[06650.004]
+Un aéronef... ... Sérieux !
+
+[06650.006]
+Voici l’Ixifosler.
+
+[06650.008]
+Un héritage de la guerre du Ciel et de la Terre : il dormait ici, et la compagnie Oberon l’aurait retrouvé.
+
+[06650.010]
+Un héritage de la guerre du Ciel et de la Terre... Un engin aussi vieux, ça marche vraiment ?
+
+[06650.012]
+Nul besoin de s’inquiéter. Celui qui l’a construit est le fameux professeur {NAME:06 00 00 00} Berselius.
+
+[06650.014]
+Le professeur {NAME:06 00 00 00}, c’est bien celui qui a fabriqué les Swordians, non ?
+
+[06650.016]
+Les Swordians aussi, après leurs exploits dans la guerre du Ciel et de la Terre, ont dormi mille ans, et lors du dernier désastre, ils ont parfaitement servi.
+
+[06650.018]
+Ceci est l’œuvre du même professeur {NAME:06 00 00 00}. Cela fonctionnera encore, de la même manière.
+
+[06650.020]
+Voilà bien un savant de génie comme on n’en voit pas deux.
+
+[06650.022]
+Alors, faisons vite ! Il faut sauver {NAME:02 00 00 00} !
+
+[06650.024]
+Au fait, qui pilote ?
+
+[06650.026]
+J’ai l’expérience de ce genre d’engin.
+
+[06650.028]
+Nous décollons ! Accrochez-vous bien !
+
+[06650.030]
+{NAME:04 00 00 00} obtient le titre « {08:25 08 00 00} ».
+
+[06650.032]
+Incroyable... On est vraiment revenus.
+
+[06650.034]
+Évidemment !? Vous croyez que c’est qui, qui l’a construit ?
+
+[06650.036]
+Et hop, je l’ai. Elle est petite, mais avec celle-là, on devrait amplifier le pouvoir du pendentif.
+
+[06650.038]
+Bon, rapprochez-vous tous...
+
+[06650.040]
+{NAME:02 00 00 00}, qu’est-ce qu’il y a ?
+
+[06650.042]
+... {NAME:01 00 00 00}, j’ai une chose à te demander.
+
+[06650.044]
+Quoi qu’il arrive désormais... jure-moi d’arrêter Elraine.
+
+[06650.046]
+Qu’est-ce qui te prend, {NAME:02 00 00 00} ? Ça va de soi, voy...
+
+[06650.048]
+Je t’en prie, jure-le.
+
+[06650.050]
+... D’accord.
+
+[06650.052]
+Je le jure, {NAME:02 00 00 00}. Quoi qu’il arrive, j’arrêterai Elraine, c’est sûr !
+
+[06650.054]
+...... ...... Oui.
+
+[06650.056]
+Alors, j’y vais. Vers le futur... !
+
+[06650.058]
+On est rentrés, très bien, mais la question, c’est ce qu’on fait maintenant...
+
+[06650.060]
+................ ................
+
+[06650.062]
+Eh bien... Si {NAME:01 00 00 00}, le premier concerné, est dans cet état...
+
+[06650.064]
+Ça se comprend. Il faudrait être bizarre pour ne pas être abattu, après ce qu’on vient de lui apprendre.
+
+[06650.066]
+{NAME:01 00 00 00}...
+
+[06650.068]
+Mais ce n’est pas en restant les bras croisés que quoi que ce soit changera.
+
+[06650.070]
+Elraine compte faire tomber « l’Œuf de Dieu ». Quoi qu’il arrive.
+
+[06650.072]
+...... {NAME:04 00 00 00}.
+
+[06650.074]
+{NAME:01 00 00 00}, tu auras beau te tourmenter, les faits ne changeront pas.
+
+[06650.076]
+C’est à toi de décider. Ce qu’il adviendra de ce monde. Ce qu’il adviendra de {NAME:02 00 00 00}.
+
+[06650.078]
+Hé, toi... !
+
+[06650.080]
+... Qu’est-ce que je dois faire ?
+
+[06650.082]
+{NAME:01 00 00 00}...
+
+[06650.084]
+Je te l’ai dit : ce qu’il faut faire, c’est à toi d’en décider.
+
+[06650.086]
+Personne d’autre ne peut en décider. Toi seul le peux, toi qui es devenu le héros de {NAME:02 00 00 00}.
+
+[06650.088]
+Le héros... Mais oui, les héros !
+
+[06650.090]
+Il y a beaucoup de héros dans ce monde. Philia, Woodrow, et maman aussi.
+
+[06650.092]
+Eux, ils savent peut-être : ce qu’on peut faire dans un moment pareil, ce qu’il faut faire... !
+
+[06650.094]
+Je vois : demander conseil à tes aînés dans le métier de héros. Pas mauvaise, ton idée.
+
+[06650.096]
+Bonne idée, allons-y ! Rester plantés ici ne sert à rien.
+
+[06650.098]
+Alors, pour se déplacer, on n’a qu’à prendre ça.
+
+[06650.100]
+C’est vrai : si on va d’un endroit à l’autre, ça sera plus pratique.
+
+[06650.102]
+Voilààà ! Allez, montez, montez !
+
+[06650.104]
+Allons-y, {NAME:01 00 00 00} !
+
+[06650.106]
+... Oui, allons-y.
+
+[06650.108]
+Qu’est-ce que c’est, ça... ?
+
+[06650.110]
+Je ne sais pas pourquoi, mais j’ai l’impression d’être déjà monté dedans...
+
+[06650.112]
+Ça a l’air amusant. Montons, pour voir.
+
+[06650.113]
+Bon voyage.
+
+[06650.114]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06650.115]
+Voulez-vous passer la nuit ?
+
+[06650.117]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06650.118]
+Reposez-vous bien.
+
+[06650.119]
+Bonjour.
+
+[06650.120]
+Vous n’avez pas assez d’argent.
+
+[06650.121]
+Au plaisir de vous revoir.
+
+[06650.126]
+Obtenu : {16:26 66}.
+
+[06650.128]
+Obtenu : {08:FF FF FF FF}.
+
+[06650.130]
+Trouvé : {16:26 6E}, mais vous n’avez plus de place.
+
+[06650.132]
+Il n’y a rien ici.
+

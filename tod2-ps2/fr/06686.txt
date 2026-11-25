@@ -1,0 +1,46 @@
+[06686.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06686.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06686.004]
+Le coffre était un Cheap Trick.
+
+[06686.005]
+Bon voyage.
+
+[06686.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06686.007]
+Voulez-vous passer la nuit ?
+
+[06686.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06686.010]
+Reposez-vous bien.
+
+[06686.011]
+Bonjour.
+
+[06686.012]
+Vous n’avez pas assez d’argent.
+
+[06686.013]
+Au plaisir de vous revoir.
+
+[06686.018]
+Obtenu : {16:25 BA}.
+
+[06686.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06686.022]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06686.024]
+Il n’y a rien ici.
+

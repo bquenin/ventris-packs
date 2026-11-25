@@ -1,0 +1,15 @@
+[01006.001]
+On est au-dessus des nuages, ici ?
+
+[01006.002]
+En effet.
+
+[01006.003]
+Donc, si on tombe...
+
+[01006.004]
+On meurt, sans aucun doute.
+
+[01006.005]
+M-moi, le noir et le vide, je supporte pas ! {NAME:01 00 00 00} ! Rate surtout pas une marche ! Et loin de ce qui s’effrite !
+

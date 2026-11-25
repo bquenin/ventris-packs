@@ -1,0 +1,99 @@
+[06423.001]
+Mine désaffectée Oberon
+
+[06423.002]
+Mine désaffectée Oberon
+
+[06423.004]
+C’est quoi, ça ?
+
+[06423.006]
+Cela s’appelle un « moteur à Lentilles » : une machine qui tire l’énergie des Lentilles et la change en force motrice.
+
+[06423.008]
+Si on le met en marche, les installations des galeries pourront fonctionner de nouveau.
+
+[06423.010]
+Et pour le mettre en marche, comment fait-on ?
+
+[06423.012]
+... Il suffit, semble-t-il, de mettre des Lentilles dans ce réservoir. Il en faut « 200 ».
+
+[06423.014]
+200... 200 Lentilles !? Il en faut autant que ça !?
+
+[06423.016]
+Se plaindre ne sert à rien. Cherchons des Lentilles : il y en a peut-être au fond de la mine.
+
+[06423.018]
+Obtenu : {08:01 00 00 00}.
+
+[06423.019]
+Le moteur à Lentilles est en marche.
+
+[06423.021]
+{03:00 00 00 00}Il faut encore {0B:01 00 00 00}{14:34 74} Lentilles.
+En mettre {14:34 70}{0B:00 00 00 00} parmi les vôtres ?
+　Oui　
+　Non　
+
+[06423.022]
+Le moteur à Lentilles a démarré.
+
+[06423.023]
+Lentilles mises : {0B:01 00 00 00}{14:34 70}{0B:00 00 00 00}.
+
+[06423.024]
+Annulé.
+
+[06423.025]
+Vous n’avez pas de Lentilles.
+
+[06423.027]
+Bon voyage.
+
+[06423.028]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06423.029]
+Voulez-vous passer la nuit ?
+
+[06423.031]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06423.032]
+Reposez-vous bien.
+
+[06423.033]
+Bonjour.
+
+[06423.034]
+Vous n’avez pas assez d’argent.
+
+[06423.035]
+Au plaisir de vous revoir.
+
+[06423.040]
+Obtenu : {16:25 C2}.
+
+[06423.042]
+Obtenu : {08:FF FF FF FF}.
+
+[06423.044]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06423.046]
+Il n’y a rien ici.
+
+[06423.047]
+Obtenu : {16:35 F0} x{0B:01 00 00 00}{14:35 EC}{0B:00 00 00 00}.
+
+[06423.049]
+Trouvé : {16:35 F0} x{0B:01 00 00 00}{14:35 F4}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06423.051]
+{16:35 F0} x{0B:01 00 00 00}{14:35 F4} : vous ne pouvez pas tout porter.
+・En prendre {14:35 EC}, en jeter {14:35 F8}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+

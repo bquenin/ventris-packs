@@ -1,0 +1,3 @@
+[01248.001]
+{NAME:01 00 00 00} Dunamis, 15 ans. Apprenti héros !
+

@@ -1,0 +1,9 @@
+[00186.001]
+Écoute, {NAME:01 00 00 00}. Une fois dans le temple, ne te fais surtout pas remarquer. On est recherchés, nous. Au moindre écart, on est repérés et arrêtés.
+
+[00186.002]
+Si on nous arrête, on s’évadera encore. Comme à Darilsheid.
+
+[00186.003]
+Pff... Quel insouciant. Là-bas, c’est le masqué qui nous a sauvés !
+

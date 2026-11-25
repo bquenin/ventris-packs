@@ -1,0 +1,306 @@
+[06442.001]
+Heidelberg : épicerie
+
+[06442.002]
+Heidelberg
+
+[06442.003]
+Épicier
+
+[06442.005]
+Dans ce tonneau... du « miso », une spécialité de la région d’Aquaveil, semble-t-il.
+
+[06442.007]
+Dans ce tonneau... des « épices », une spécialité de la région de Calvalese, semble-t-il.
+
+[06442.009]
+Dans ce tonneau... quelque chose de louche, semble-t-il. Faisons comme si on n’avait rien vu.
+
+[06442.011]
+Dans cette boîte... des « brioches Stahn », le produit qui doit faire connaître le village de Lienea, semble-t-il.
+
+[06442.013]
+« Un pain aux nouilles sautées, tant vanté par le roi Woodrow lui-même, ça vous dit ? »
+
+[06442.014]
+Épicier
+
+[06442.015]
+Bienvenue.
+
+[06442.016]
+Merci beaucoup.
+
+[06442.017]
+Revenez nous voir.
+
+[06442.018]
+Épicier
+
+[06442.019]
+Dame
+
+[06442.020]
+Les œufs, c’est un par personne... Dites, vous autres, vous ne feriez pas la queue pour ma part aussi ?
+
+[06442.021]
+Dame
+
+[06442.022]
+Vraiment, pas tant de pingrerie : qu’on me laisse en acheter dans les 100 boîtes par personne !
+
+[06442.023]
+Dame
+
+[06442.024]
+Dites, c’était quoi, cette explosion ! J’en ai lâché mes œufs, moi qui avais eu tant de mal !
+
+[06442.025]
+Jeune femme
+
+[06442.026]
+Bienvenue~♪ La spécialité de la maison, le « pain aux nouilles sautées », ça vous dit~ ?
+
+[06442.028]
+Si c’est toi qui me le donnes à manger, j’achète le pain aux nouilles sautées avec joie.
+
+[06442.029]
+Jeune femme
+
+[06442.030]
+Un pain tout moelleux, garni de bonnes nouilles sautées : mangez-le tout seul, hein~ !
+
+[06442.031]
+Jeune femme
+
+[06442.032]
+Bienvenue~♪ La spécialité de la maison, le « pain aux nouilles sautées », ça vous dit~ ?
+
+[06442.034]
+Un pain aux nouilles sautées... c’est quoi ?
+
+[06442.036]
+Un pain aux nouilles sautées, c’est un pain dans lequel on met des nouilles sautées.
+
+[06442.037]
+Jeune femme
+
+[06442.038]
+Un jour comme aujourd’hui, un pain aux nouilles sautées mangé au parc, c’est un régal~ !
+
+[06442.039]
+Jeune femme
+
+[06442.040]
+Un pain tout moelleux, garni de bonnes nouilles sautées : c’est un régal~ !
+
+[06442.041]
+Jeune femme
+
+[06442.042]
+Un pain tout moelleux, garni de bonnes nouilles sautées : c’est un régal~ !
+
+[06442.043]
+Dame
+
+[06442.044]
+Hmm, c’est un peu cher. Dis, tu ne trouves pas, toi aussi ?
+
+[06442.046]
+Hein ? V-vous croyez... ?
+
+[06442.047]
+Dame
+
+[06442.048]
+Chez moi, les enfants sont tous à l’âge où ça dévore. La nourriture, ça coûte, ça coûte...
+
+[06442.049]
+Dame
+
+[06442.050]
+Hmm... Dites, vous ne pourriez pas me faire ça un peu moins cher ?
+
+[06442.051]
+Chef
+
+[06442.052]
+{16:34 7C} : tu en prépares ?
+
+[06442.053]
+Chef
+
+[06442.054]
+Veux-tu apprendre la recette : {16:34 7C} ?
+
+[06442.056]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06442.057]
+Chef
+
+[06442.058]
+Je vais t’apprendre la recette : {16:34 7C}.
+
+[06442.059]
+Chef
+
+[06442.060]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06442.061]
+Chef
+
+[06442.062]
+J’ai la recette : {16:34 7C}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 74}{0B:00 00 00 00} Gald ?
+
+[06442.064]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06442.065]
+Chef
+
+[06442.066]
+Tu n’as pas assez d’argent.
+
+[06442.067]
+Chef
+
+[06442.068]
+Je te vends la recette : {16:34 7C}.
+
+[06442.069]
+Chef
+
+[06442.070]
+Bah, tant pis.
+
+[06442.071]
+{16:24 80}, {16:24 82}, {16:24 84}
+
+[06442.072]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06442.073]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06442.074]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06442.075]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06442.076]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}
+
+[06442.077]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06442.078]
+{16:24 80}, {16:24 82}, {16:24 84},
+{16:24 86}, {16:24 88}
+
+[06442.079]
+Chef
+
+[06442.080]
+Pour préparer {16:34 7C}, il faut :
+{18:44 78}
+
+[06442.081]
+Chef
+
+[06442.082]
+Mais tu as les ingrédients.
+
+[06442.083]
+Chef
+
+[06442.084]
+Si tu me les cèdes, je prépare : {16:34 7C}. Ça te va ?
+
+[06442.086]
+{03:00 00 00 00}　Oui
+　Non
+
+[06442.087]
+Chef
+
+[06442.088]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 7C}.
+
+[06442.089]
+Chef
+
+[06442.090]
+Dommage. C’est vraiment délicieux...
+
+[06442.091]
+Chef
+
+[06442.092]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06442.093]
+Chef
+
+[06442.094]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06442.095]
+Chef
+
+[06442.096]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06442.098]
+Recette ramassée : {16:34 7C}.
+
+[06442.100]
+Recette apprise : {16:34 90}.
+
+[06442.101]
+Bon voyage.
+
+[06442.102]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06442.103]
+Voulez-vous passer la nuit ?
+
+[06442.105]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06442.106]
+Reposez-vous bien.
+
+[06442.107]
+Bonjour.
+
+[06442.108]
+Vous n’avez pas assez d’argent.
+
+[06442.109]
+Au plaisir de vous revoir.
+
+[06442.114]
+Obtenu : {16:25 DE}.
+
+[06442.116]
+Obtenu : {08:FF FF FF FF}.
+
+[06442.118]
+Trouvé : {16:25 E6}, mais vous n’avez plus de place.
+
+[06442.120]
+Il n’y a rien ici.
+

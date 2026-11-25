@@ -1,0 +1,82 @@
+[06571.001]
+Base terrestre : armes et armures
+
+[06571.002]
+Base de l’armée terrestre
+
+[06571.003]
+Armes et armures
+
+[06571.004]
+Marchand d’armes
+
+[06571.005]
+Le stock s’épuise, voyez. Même à quelqu’un de l’armée, je ne peux rien donner gratuitement.
+
+[06571.006]
+Je n’aurais jamais cru me retrouver à fabriquer des épées...
+
+[06571.007]
+Allez, à la prochaine.
+
+[06571.008]
+Armes
+
+[06571.009]
+Marchand d’armures
+
+[06571.010]
+J’ai écoulé presque toutes les bonnes pièces. Ce sont des restes, mais vous prenez quelque chose ?
+
+[06571.011]
+Qui aurait cru qu’on en viendrait à se battre en armure...
+
+[06571.012]
+Revenez quand vous voulez.
+
+[06571.013]
+Armures
+
+[06571.014]
+Scientifique
+
+[06571.015]
+Nous rangeons après le lancement de la fusée. Merci de ne pas entrer.
+
+[06571.016]
+Bon voyage.
+
+[06571.017]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06571.018]
+Voulez-vous passer la nuit ?
+
+[06571.020]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06571.021]
+Reposez-vous bien.
+
+[06571.022]
+Bonjour.
+
+[06571.023]
+Vous n’avez pas assez d’argent.
+
+[06571.024]
+Au plaisir de vous revoir.
+
+[06571.029]
+Obtenu : {16:25 BA}.
+
+[06571.031]
+Obtenu : {08:FF FF FF FF}.
+
+[06571.033]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06571.035]
+Il n’y a rien ici.
+

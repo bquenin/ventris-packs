@@ -1,0 +1,59 @@
+[06705.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06705.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06705.004]
+Le grand temple de Straylize... C’est donc le souvenir de {NAME:02 00 00 00}.
+
+[06705.006]
+Non. Ce genre de magie n’a pas de prise sur moi. Je pense donc que c’est celui de {NAME:03 00 00 00}.
+
+[06705.008]
+Il y a là un « fragment » de quelque chose, à la lueur inquiétante. Mauvais présage... L’emporter ?
+
+[06705.010]
+{03:00 00 00 00}　Emporter　
+　Ne pas emporter　
+
+[06705.012]
+Obtenu : fragment de l’emblème de Derris.
+
+[06705.013]
+Bon voyage.
+
+[06705.014]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06705.015]
+Voulez-vous passer la nuit ?
+
+[06705.017]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06705.018]
+Reposez-vous bien.
+
+[06705.019]
+Bonjour.
+
+[06705.020]
+Vous n’avez pas assez d’argent.
+
+[06705.021]
+Au plaisir de vous revoir.
+
+[06705.026]
+Obtenu : {16:25 C2}.
+
+[06705.028]
+Obtenu : {08:FF FF FF FF}.
+
+[06705.030]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06705.032]
+Il n’y a rien ici.
+

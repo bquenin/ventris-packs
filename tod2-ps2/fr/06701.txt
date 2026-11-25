@@ -1,0 +1,43 @@
+[06701.001]
+Œuf de Dieu : niveau intermédiaire
+
+[06701.002]
+Œuf de Dieu : niveau intermédiaire
+
+[06701.003]
+Bon voyage.
+
+[06701.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06701.005]
+Voulez-vous passer la nuit ?
+
+[06701.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06701.008]
+Reposez-vous bien.
+
+[06701.009]
+Bonjour.
+
+[06701.010]
+Vous n’avez pas assez d’argent.
+
+[06701.011]
+Au plaisir de vous revoir.
+
+[06701.016]
+Obtenu : {16:25 BA}.
+
+[06701.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06701.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06701.022]
+Il n’y a rien ici.
+

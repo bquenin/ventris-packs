@@ -1,0 +1,30 @@
+[00950.001]
+Bon, {NAME:01 00 00 00}, on fait quoi, maintenant ? Il y a un endroit où tu veux aller ?
+
+[00950.002]
+Voyons............ euh.
+
+[00950.003]
+C’est toi qui as dit « je veux partir en voyage », je te rappelle. Tu as bien une destination ou deux, non ?
+
+[00950.004]
+Ahaha. En fait, rien du tout... Ben oui, où et quand il se passe un truc amusant, personne ne le sait. Alors on voyage au gré du vent et de l’envie, et s’il y a un truc qui a l’air amusant, on se laisse embarquer, voilà...
+
+[00950.005]
+Quoi, encore ça ? ... Vraiment, zéro sens de l’organisation, jusqu’à la moelle...
+
+[00950.006]
+Hmpf ! Et toi, {NAME:03 00 00 00}, tu as décidé où aller ?
+
+[00950.007]
+Je fais rien d’inutile.
+
+[00950.008]
+Rien d’inutile ?
+
+[00950.009]
+De toute façon, avec toi, aucun plan ne tiendrait.
+
+[00950.010]
+Hé ! Toi non plus, tu ne prévois rien !
+

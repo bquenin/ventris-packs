@@ -1,0 +1,43 @@
+[06557.001]
+Realta, la Cité du crépuscule
+
+[06557.002]
+Realta, la Cité du crépuscule
+
+[06557.003]
+Bon voyage.
+
+[06557.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06557.005]
+Voulez-vous passer la nuit ?
+
+[06557.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06557.008]
+Reposez-vous bien.
+
+[06557.009]
+Bonjour.
+
+[06557.010]
+Vous n’avez pas assez d’argent.
+
+[06557.011]
+Au plaisir de vous revoir.
+
+[06557.016]
+Obtenu : {16:25 BA}.
+
+[06557.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06557.020]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06557.022]
+Il n’y a rien ici.
+

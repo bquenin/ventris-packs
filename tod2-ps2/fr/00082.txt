@@ -1,0 +1,9 @@
+[00082.001]
+Hé, {NAME:01 00 00 00}. Ton équipement est bien au point, au moins ? Si on ne peut plus se soigner au moment critique, ça ne sera vraiment pas drôle.
+
+[00082.002]
+Qu’est-ce que tu racontes, {NAME:03 00 00 00} ? Fais-moi confiance, pour une fois... Tu vois, tout va bien ! Hm ? Tout va bien... hein ? ... Ça va, tu crois ?
+
+[00082.003]
+Me demande pas !
+

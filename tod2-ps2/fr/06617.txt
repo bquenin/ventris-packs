@@ -1,0 +1,410 @@
+[06617.001]
+Aquaveil : manoir du seigneur
+
+[06617.002]
+Aquaveil
+
+[06617.003]
+Manoir du seigneur
+
+[06617.005]
+Obtenu : {08:19 00 00 00}.
+
+[06617.007]
+Des chaussures (?) tressées en paille sont rangées là.
+
+[06617.009]
+Hallebardes, lances, épées : les armes s’entassent, serrées.
+
+[06617.011]
+Des objets de culte, semble-t-il. Sur une boîte étrange est posée une chose qui ressemble à du pain.
+
+[06617.013]
+Un objet qui dégage on ne sait quoi de sacré.
+
+[06617.015]
+Des mots sont gravés sur la stèle.
+
+[06617.017]
+Je te la lis ?
+
+[06617.019]
+{03:00 00 00 00}　Se la faire lire　
+　Sans intérêt　
+
+[06617.021]
+Terre de désert, au cœur des flammes
+À mi-pente d’un mont blanc et abrupt
+Sur l’idole engloutie en haute mer
+Vestige mégalithique 1
+
+[06617.023]
+Vestige mégalithique 2
+Au bord d’un lac drapé de vert profond
+Île blanche sans visiteur, jardin vert
+Terre lointaine, cercle creusé au sol
+
+[06617.025]
+Une île mêlée de brume
+Une île absente des cartes
+Derrière une petite cabane
+Des îles que nulle main n’a touchées
+
+[06617.027]
+La plus haute prairie du pays des brumes
+Au sein des monts embrumés
+
+　　　Là, obtiens les preuves du malheur
+
+[06617.029]
+Des mots sont gravés sur la stèle, mais ils sont trop difficiles à lire.
+
+[06617.030]
+Leanna
+
+[06617.031]
+En temps normal, j’aurais fait venir aussi ma fille Claire, mais... elle est sortie avec celui qu’elle doit épouser.
+
+[06617.032]
+À sa place, si j’ose dire, faites donc un brin de conversation avec Emily.
+
+[06617.033]
+Je vois, vous êtes donc le... de Stahn et de Rutee...
+
+[06617.034]
+Mon mari et moi leur devons beaucoup, à tous les deux. Laissez-moi vous en remercier.
+
+[06617.035]
+Restez toujours un bon ami pour Fayte, pour mes filles Emily et Claire, et pour moi.
+
+[06617.036]
+Emily
+
+[06617.037]
+Messire {NAME:03 00 00 00}, vous êtes ma-gni-fique ! Emily va vous faire un bisou !
+
+[06617.039]
+A-arrête~ J’ai pour principe de ne pas toucher aux quatorze ans et moins~ !
+
+[06617.040]
+Moi, je m’appelle Emily. Et vous, votre nom ?
+
+[06617.042]
+M-moi ? Je m’appelle {NAME:01 00 00 00}.
+
+[06617.043]
+Mais non, pas toi : le beau monsieur que voici !
+
+[06617.045]
+Hein, moi ? {NAME:03 00 00 00}, c’est mon nom.
+
+[06617.046]
+Messire {NAME:03 00 00 00}... Ah, quel nom merveilleux !
+
+[06617.047]
+Je suis tombée amoureuse de vous. Alors, soyez gentil avec moi, d’accord !
+
+[06617.048]
+Sentinelle
+
+[06617.049]
+Le manoir lui-même fait office de sceau et contient l’expansion de l’autre dimension, mais jusqu’à quand tiendra-t-il...
+
+[06617.050]
+Sentinelle
+
+[06617.051]
+Un bon conseil : partez d’ici au plus vite, si vous ne voulez pas être emportés dans un autre monde.
+
+[06617.052]
+Sentinelle
+
+[06617.053]
+Jadis, ce monde a été menacé d’anéantissement par des Lentilles déchaînées.
+
+[06617.054]
+Sentinelle
+
+[06617.055]
+Aquaveil n’a pas fait exception. L’autre dimension, apparue soudain à ce moment-là, cherche encore à engloutir la ville.
+
+[06617.056]
+Sentinelle
+
+[06617.057]
+Le manoir lui-même fait office de sceau et contient l’expansion de l’autre dimension, mais jusqu’à quand tiendra-t-il...
+
+[06617.058]
+Sentinelle
+
+[06617.059]
+Un bon conseil : partez d’ici au plus vite, si vous ne voulez pas être emportés dans un autre monde.
+
+[06617.060]
+Fayte
+
+[06617.061]
+Leanna
+
+[06617.062]
+Voyageurs, soyez les bienvenus. Je m’appelle Leanna.
+
+[06617.063]
+Leanna
+
+[06617.064]
+Veuillez d’abord prêter l’oreille à ce que mon mari a à vous dire.
+
+[06617.065]
+Hôtes, soyez les bienvenus à Aquaveil. Je suis Fayte, seigneur de ces lieux.
+
+[06617.067]
+Enchanté. Je suis {NAME:01 00 00 00} Dunamis.
+
+[06617.069]
+... Euh, au fait, Johnny n’est pas là ?
+
+[06617.070]
+Celui-là n’est pas ici en ce moment. L’as-tu rencontré en voyage ?
+
+[06617.072]
+Non, pas moi. Mon père m’a dit qu’il l’avait rencontré.
+
+[06617.073]
+Ton père... ? Serais-tu le fils de messire Stahn !?
+
+[06617.075]
+Oui, Stahn Aileron est mon père.
+
+[06617.076]
+Comment ! Le fils de ce messire Stahn, venu de si loin jusqu’à nous ! En effet, il y a un air...
+
+[06617.077]
+... Et ta mère, serait-ce dame Rutee ?
+
+[06617.079]
+Ça se voit ?
+
+[06617.080]
+Mais bien sûr. Tes parents sont pour ma femme et moi des amis vraiment chers.
+
+[06617.081]
+Toi, leur fils, tu es donc aussi un ami cher pour nous deux. Mets-toi à l’aise.
+
+[06617.082]
+Fayte
+
+[06617.083]
+Tes parents sont pour ma femme et moi des amis vraiment chers.
+
+[06617.084]
+Toi, leur fils, tu es donc aussi un ami cher pour nous deux. Mets-toi à l’aise.
+
+[06617.085]
+Un démon antique est scellé dans l’Aqua Labyrinth.
+
+[06617.086]
+Sans le savoir, vous vous êtes emparés du trésor et vous avez rompu le sceau.
+
+[06617.087]
+Je n’entends pas vous le reprocher, mais vous devrez répondre de cette ville, et de Johnny, qui y est entré.
+
+[06617.088]
+Tes parents sont pour ma femme et moi des amis vraiment chers.
+
+[06617.089]
+Toi, leur fils, tu es donc aussi un ami cher pour nous deux. Mets-toi à l’aise.
+
+[06617.090]
+Fayte
+
+[06617.092]
+Tiens ? Où est Fayte ?
+
+[06617.093]
+Leanna
+
+[06617.094]
+Ah, {NAME:01 00 00 00} ! Il vient de se passer une chose terrible...
+
+[06617.096]
+Terrible ? Qu’est-ce qui s’est passé !?
+
+[06617.097]
+Leanna
+
+[06617.098]
+La barrière... la barrière du sous-sol... !
+
+[06617.099]
+... Johnny ! Tu m’entends ! Johnnyyy !
+
+[06617.100]
+... Bon sang ! Rien à faire... !
+
+[06617.102]
+Fayte ! Que s’est-il passé !
+
+[06617.103]
+Cette voix : c’est toi, {NAME:01 00 00 00} !?
+
+[06617.105]
+H-hé ! Regarde, {NAME:01 00 00 00} ! La barrière a sauté !?
+
+[06617.106]
+... Cette barrière scelle l’autre dimension, « l’Aqua Labyrinth » : une chose extrêmement dangereuse.
+
+[06617.107]
+Lors du désastre d’il y a dix-huit ans, la force de Lentilles déchaînées a mis Aquaveil au bord de la ruine.
+
+[06617.108]
+Le sceau de l’autre dimension, « l’Aqua Labyrinth », s’est affaibli, et elle s’est étendue pour engloutir la ville.
+
+[06617.109]
+Ce devait être l’œuvre du démon antique, maître de « l’Aqua Labyrinth ». Sans doute ce démon a-t-il voulu se servir de la force des Lentilles pour rompre le sceau...
+
+[06617.111]
+Et cette barrière le tient scellé, c’est ça ?
+
+[06617.112]
+Oui. Il y a dix-huit ans, grâce à elle, le pire a été évité.
+
+[06617.114]
+Mais pourquoi aurait-elle sauté d’un coup ?
+
+[06617.115]
+N’avez-vous jamais entendu ce vieux conte ?
+
+[06617.116]
+« La pierre scelle le mal. La pierre scelle le trésor. Qui veut gagner le trésor gagne aussi le mal. »
+
+[06617.117]
+En vérité, ce conte parle du démon scellé dans l’Aqua Labyrinth.
+
+[06617.118]
+Il veut dire que celui qui gagne le trésor rompt, en retour, le sceau du démon.
+
+[06617.120]
+La pierre... le trésor... ?
+
+[06617.122]
+On s’est servis des pierres précieuses pour prendre tous les trésors, mais n-ne me dites pas que c’est notre faute... !?
+
+[06617.124]
+J-j’en ai bien l’impression...
+
+[06617.126]
+P-pardon, Fayte. Si le sceau s’est rompu, c’est sans doute de notre faute...
+
+[06617.127]
+Comment ! Vous auriez utilisé les pierres précieuses qui scellent le démon !?
+
+[06617.129]
+Je vais entrer et chercher un moyen de sceller le démon !
+
+[06617.130]
+Quoi ! Es-tu sérieux, {NAME:01 00 00 00} !
+
+[06617.132]
+C’est notre faute ! On ne peut pas laisser les choses comme ça !
+
+[06617.134]
+C’est vrai. Il faut réparer soi-même ses dégâts.
+
+[06617.135]
+Je vois... Alors, je m’en remets à vous.
+
+[06617.136]
+Et puis... j’ai une chose à vous demander.
+
+[06617.137]
+Tout à l’heure, Johnny est entré là-dedans. Et il ne donne aucun signe de retour.
+
+[06617.138]
+Peut-être s’est-il égaré quelque part. Je voudrais que vous le cherchiez.
+
+[06617.140]
+Johnny... Compris.
+
+[06617.141]
+Nul ne sait ce qui peut arriver là-dedans. Soyez d’une extrême prudence.
+
+[06617.142]
+Debug
+
+[06617.143]
+Changer les drapeaux ?
+Donjon extra ON
+Donjon extra OFF
+Obtenir les objets requis
+
+[06617.148]
+Aller à l’Aqua Labyrinth ?
+{03:00 00 00 00}　　　　　{05:C0 00 00 00}{04:02 00 00 00}Avez-vous sauvegardé ?
+
+[06617.150]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06617.152]
+Une entrée d’où émane une lueur inquiétante. Scellée par une force puissante, sans doute : impossible d’y pénétrer.
+
+[06617.154]
+Les pierres précieuses que vous portez brillent d’un éclat étrange.
+
+[06617.156]
+Les quinze pierres précieuses brillent avec violence. Les placer à l’intérieur ?
+
+[06617.158]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06617.160]
+Cette carte est plongée dans le noir.
+
+[06617.162]
+Sur cette carte, vous subissez des dégâts.
+
+[06617.164]
+Sur cette carte, les rencontres sont au maximum.
+
+[06617.166]
+Sur cette carte, le champ de vision est réduit.
+
+[06617.167]
+Bon voyage.
+
+[06617.168]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06617.169]
+Voulez-vous passer la nuit ?
+
+[06617.171]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06617.172]
+Reposez-vous bien.
+
+[06617.173]
+Bonjour.
+
+[06617.174]
+Vous n’avez pas assez d’argent.
+
+[06617.175]
+Au plaisir de vous revoir.
+
+[06617.180]
+Obtenu : {16:25 DA}.
+
+[06617.182]
+Obtenu : {08:FF FF FF FF}.
+
+[06617.184]
+Trouvé : {16:25 E2}, mais vous n’avez plus de place.
+
+[06617.186]
+Il n’y a rien ici.
+

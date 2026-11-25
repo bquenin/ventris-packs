@@ -1,0 +1,12 @@
+[00716.001]
+Allons convaincre Dymlos, rien qu’une dernière fois !
+
+[00716.002]
+Ça m’agace d’avoir l’impression que {NAME:06 00 00 00} nous manipule en beauté, mais bon, tant pis.
+
+[00716.003]
+Que tu dises cela entre sans doute aussi dans ses calculs.
+
+[00716.004]
+Sûrement. Les génies, quelle plaie, vraiment.
+

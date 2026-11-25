@@ -1,0 +1,12 @@
+[00776.001]
+Demain, enfin, la bataille finale à « Dycroft ». Rhaaa ! Je brûle !
+
+[00776.002]
+Hé, hé ! Ne t’excite pas au point d’être en cendres d’ici demain.
+
+[00776.003]
+En cendres, moi ? Demain, je brûlerai un million de fois plus fort !!
+
+[00776.004]
+Hi hi. Ce feu-là gagne tous ceux qui t’entourent, {NAME:01 00 00 00}.
+

@@ -1,0 +1,67 @@
+[06657.001]
+Œuf de Dieu : niveau supérieur
+
+[06657.002]
+Œuf de Dieu : niveau supérieur
+
+[06657.004]
+{03:00 00 00 00}Monter ?
+
+[06657.006]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06657.007]
+{09:37 00 00 00} : recommencer
+
+[06657.009]
+{03:00 00 00 00}Descendre ?
+
+[06657.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06657.013]
+{03:00 00 00 00}Recommencer ?
+
+[06657.015]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06657.016]
+Bon voyage.
+
+[06657.017]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06657.018]
+Voulez-vous passer la nuit ?
+
+[06657.020]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06657.021]
+Reposez-vous bien.
+
+[06657.022]
+Bonjour.
+
+[06657.023]
+Vous n’avez pas assez d’argent.
+
+[06657.024]
+Au plaisir de vous revoir.
+
+[06657.029]
+Obtenu : {16:26 32}.
+
+[06657.031]
+Obtenu : {08:FF FF FF FF}.
+
+[06657.033]
+Trouvé : {16:26 3A}, mais vous n’avez plus de place.
+
+[06657.035]
+Il n’y a rien ici.
+

@@ -1,0 +1,15 @@
+[00368.001]
+Dis, {NAME:05 00 00 00}. Il y a combien de Lentilles, à Calviola ?
+
+[00368.002]
+Va savoir... Mais les fidèles de Fortuna du monde entier y font tous des offrandes : il y en a une belle quantité, tu peux en être sûr.
+
+[00368.003]
+Comme à Heidelberg. Qu’est-ce qu’ils mijotent, à amasser tant de Lentilles...
+
+[00368.004]
+........
+
+[00368.005]
+Rentrer à notre époque d’abord. Leur complot, ensuite.
+

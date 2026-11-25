@@ -1,0 +1,27 @@
+[00832.001]
+Dis, {NAME:03 00 00 00}. Ma cuisine, man-ge-la♪
+
+[00832.002]
+Trop louche... Tu y as mis un produit bizarre, j’en suis sûr.
+
+[00832.003]
+Mais non. Dans celle-ci, il n’y a rieeen du tout. Juste de l’es-sen-ce d’a-mour★
+
+[00832.004]
+Hé hé... Qui croirait ça. {NAME:05 00 00 00}, donne-moi la tienne !
+
+[00832.005]
+Ah ! Attends, ça, c’est... !!
+
+[00832.006]
+Gah... C-c’est quoi... c-cet engour... disse... ment...
+
+[00832.007]
+Tadadadaaa~♪ Gagné~★ Je savais que tu n’en mangerais pas, alors j’ai échangé avec la marmite de {NAME:05 00 00 00}~.
+
+[00832.008]
+Tu... tu m’as roulé...
+
+[00832.009]
+Roulé, quel vilain mot. J’ai bien dit : rien dans « celle-ci ». Allez, les données♪ Les données♪ Hm-hmm~♪
+

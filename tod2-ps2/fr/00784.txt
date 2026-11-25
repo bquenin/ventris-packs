@@ -1,0 +1,12 @@
+[00784.001]
+Dis, {NAME:06 00 00 00}... tu devrais quand même aller auprès de Karell...
+
+[00784.002]
+Tu rabâââches ! Insiste, et ta bouche finit dans le formol. T’inquiète : six Swordians réunis, rien ne résiste. Et sans moi, vous n’arrêterez pas « Belcrant », pas vrai ?
+
+[00784.003]
+C’est vrai, mais... quand même...
+
+[00784.004]
+Assez parlé : en salle de contrôle ! Sinon, la terre finit en désert.
+

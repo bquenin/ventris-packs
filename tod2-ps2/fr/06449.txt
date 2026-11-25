@@ -1,0 +1,473 @@
+[06449.001]
+Heidelberg : bibliothèque
+
+[06449.002]
+Heidelberg
+
+[06449.003]
+Bibliothèque de Heidelberg
+
+[06449.005]
+Ça, c’est... !
+
+[06449.007]
+Question de quiz TOP trouvée !
+
+[06449.009]
+Une nouvelle catégorie s’ajoute au Livre de quiz.
+
+[06449.011]
+Il y a toutes sortes de livres. « Pour jouer à fond à Tales of Phantasia », « Pour tout faire dans Tales of Destiny », « Pour maîtriser Tales of Eternia jusqu’au bout »
+
+[06449.013]
+Il y a un livre intitulé « Aigrette, la ville du miracle ». Le lire ?
+
+[06449.015]
+{03:00 00 00 00}　Le lire　
+　Ne pas le lire　
+
+[06449.017]
+Aigrette est une ville bâtie par des réfugiés, juste après les troubles de l’Œil de Dieu.
+
+[06449.019]
+La plupart de ces réfugiés venaient de « Darilsheid », de « Harmentz » et d’« Almeida » : leur pays natal avait presque entièrement disparu.
+
+[06449.021]
+Il leur fallait un secours. Le temple de Straylize les recueillit et bâtit une ville à ses pieds : ainsi naquit Aigrette.
+
+[06449.023]
+Carrefour des routes du nord du continent, Aigrette grandit à vue d’œil, jusqu’à devenir la grande ville que le monde entier connaît.
+
+[06449.025]
+Il y a un livre intitulé « Histoire d’un géant : la compagnie Oberon ». Le lire ?
+
+[06449.027]
+{03:00 00 00 00}　Le lire　
+　Ne pas le lire　
+
+[06449.029]
+La compagnie Oberon fut fondée par « Hugo Gilchrist », l’homme en qui l’on voit l’origine des derniers troubles.
+
+[06449.031]
+Elle concevait et vendait des articles à Lentilles, et rachetait les Lentilles : c’était un géant, présent sur chaque continent.
+
+[06449.033]
+Mais cette puissance finit par servir l’ambition de Hugo.
+
+[06449.035]
+L’ambition de Hugo fut brisée par les Quatre Héros, et la compagnie Oberon déclina avec elle.
+
+[06449.037]
+Il n’en reste aujourd’hui que le nom, sur les articles à Lentilles qu’elle a produits.
+
+[06449.039]
+Il y a un livre intitulé « Histoire de la guerre du Ciel et de la Terre ». Le lire ?
+
+[06449.041]
+{03:00 00 00 00}　Le lire　
+　Ne pas le lire　
+
+[06449.043]
+Il y a quelque mille ans... une comète géante heurta cette planète.
+
+[06449.045]
+La poussière soulevée par le choc priva la terre des bienfaits du soleil, et la terre dépérit...
+
+[06449.047]
+Pour fuir une terre devenue glaciale et survivre, les hommes firent flotter des cités haut dans le ciel, afin de retrouver la lumière.
+
+[06449.049]
+Mais seuls quelques-uns, les puissants du moment, purent gagner les cités célestes : la plupart restèrent à terre...
+
+[06449.051]
+Les habitants des cités célestes se nommèrent eux-mêmes « les Célestes » et, par la force de Belcrant, l’arme de leur capitale, Dycroft, soumirent par les armes ceux qui étaient restés à terre...
+
+[06449.053]
+Ceux qui étaient restés à terre résistèrent à ces agissements des « Célestes ».
+
+[06449.055]
+Ainsi s’ouvrit la guerre entre le ciel et la terre : la « guerre du Ciel et de la Terre ».
+
+[06449.057]
+Face à l’écrasante puissance de l’armée céleste, l’armée terrestre peinait, et la défaite semblait proche, mais une arme nouvelle, les « Swordians », lui donna une victoire inespérée.
+
+[06449.059]
+Il y a un livre intitulé « Les troubles de l’Œil de Dieu ». Le lire ?
+
+[06449.061]
+{03:00 00 00 00}　Le lire　
+　Ne pas le lire　
+
+[06449.063]
+Hugo Gilchrist, président de la compagnie Oberon, déroba « l’Œil de Dieu », la Lentille géante scellée au temple de Straylize.
+
+[06449.065]
+Maître de ce pouvoir immense, Hugo fit renaître les cités célestes de la guerre du Ciel et de la Terre, et plongea le monde dans la terreur et le chaos.
+
+[06449.067]
+Ceux qui lui firent face sans faiblir furent quatre jeunes gens, Swordian à la main.
+
+[06449.069]
+Par les hauts faits de ces Quatre Héros, l’ambition de Hugo fut brisée, les cités aériennes et l’Œil de Dieu détruits.
+
+[06449.071]
+Villes en ruine partout, terre dévastée : les « troubles de l’Œil de Dieu » coûtèrent très cher, et il fallut de longues années pour s’en relever.
+
+[06449.072]
+Jeune
+
+[06449.073]
+Moi, je veux devenir un grand savant comme le professeur {NAME:06 00 00 00}. C’est pour ça que je viens à la bibliothèque tous les jours.
+
+[06449.075]
+Le professeur {NAME:06 00 00 00}... un scientifique du temps de la guerre du Ciel et de la Terre. Un génie incontesté, dit-on.
+
+[06449.076]
+Jeune
+
+[06449.077]
+Oui, oui, c’est ça ! Les Swordians, le Radisrol, il a tout fait tout seul !
+
+[06449.078]
+Jeune
+
+[06449.079]
+Tout le monde voit des héros dans l’équipe des Swordians, mais pour moi, le plus fort, c’est le professeur {NAME:06 00 00 00}.
+
+[06449.080]
+Jeune
+
+[06449.081]
+Parce que sans les Swordians du professeur {NAME:06 00 00 00}, l’armée terrestre aurait peut-être perdu, vous savez ?
+
+[06449.082]
+Jeune
+
+[06449.083]
+Moi, je veux devenir un grand savant comme le professeur {NAME:06 00 00 00}. C’est pour ça que je viens à la bibliothèque tous les jours.
+
+[06449.084]
+Jeune
+
+[06449.085]
+Bon, hier, j’ai lu jusqu’ici : aujourd’hui, je commence par ce livre. Voyons... « Les Lentilles et leurs propriétés ».
+
+[06449.087]
+Ouah, c’est plein de lettres ! Rien qu’à regarder, j’ai le tournis...
+
+[06449.089]
+Hi hi ! Une épée te va mieux qu’un livre, {NAME:01 00 00 00}.
+
+[06449.090]
+Jeune
+
+[06449.091]
+Moi, je veux devenir un scientifique formidable, comme le professeur {NAME:06 00 00 00}. Alors j’étudie tous les jours, comme ça.
+
+[06449.092]
+Jeune
+
+[06449.093]
+Ce qui est arrêté au château, c’est le Dragon volant, non !?
+
+[06449.094]
+Jeune
+
+[06449.095]
+Celui qui emploie la meilleure technique des Lentilles de notre temps, à ce qu’on dit ! ... Mais pourquoi dans cette ville ?
+
+[06449.096]
+Jeune
+
+[06449.097]
+Pourquoi le Dragon volant vient-il dans cette ville ?
+
+[06449.098]
+Jeune
+
+[06449.099]
+Moi, en voyant le Dragon volant, je me suis emballé, naïvement : « C’est la technique des Lentilles à l’état pur ! », et tout ça.
+
+[06449.100]
+Jeune
+
+[06449.101]
+Mais dire que c’était une menace pour la paix de ce pays...
+
+[06449.102]
+Jeune
+
+[06449.103]
+Je veux être scientifique. Alors devant un engin comme le Dragon volant, je m’enflamme sans discernement...
+
+[06449.104]
+Jeune
+
+[06449.105]
+Mais ça ne va pas. Un scientifique doit toujours observer les faits avec calme et en tirer la vérité.
+
+[06449.106]
+Jeune
+
+[06449.107]
+Décidément, un scientifique doit savoir juger et analyser avec calme, toujours. J’ai encore bien du chemin à faire...
+
+[06449.108]
+Jeune
+
+[06449.109]
+La ville retrouve son calme : je pense reprendre mes études.
+
+[06449.110]
+Jeune
+
+[06449.111]
+Mon rêve, c’est d’être un scientifique de génie comme le professeur {NAME:06 00 00 00} : il faut que je travaille encore, encore plus !
+
+[06449.113]
+Quoi, pour devenir scientifique, il faut travailler dur ? Moi, je le suis devenue comme ça, sans y penser.
+
+[06449.114]
+Jeune
+
+[06449.115]
+Le professeur {NAME:06 00 00 00} n’a laissé aucun livre : « Les livres gênent la souplesse de pensée », voilà ! Les génies, ce n’est pas comme nous !
+
+[06449.117]
+C’est vrai, {NAME:06 00 00 00}... ?
+
+[06449.119]
+Non, j’en ai écrit un, une fois. Mais mon frère m’a dit : « C’est si compliqué qu’on n’y comprend rien », alors j’ai renoncé à en faire un livre.
+
+[06449.120]
+Jeune
+
+[06449.121]
+... Qu’est-ce que vous avez, depuis tout à l’heure ? On dirait que le professeur {NAME:06 00 00 00}, c’est vous.
+
+[06449.123]
+Autrement dit, tu penses que je ne suis pas {NAME:06 00 00 00}. Pas bon, ça~ : tu manques de souplesse de pensée !
+
+[06449.124]
+Jeune
+
+[06449.125]
+Autrement dit, vous seriez le vrai professeur {NAME:06 00 00 00}, venu à notre époque en voyageant dans le temps ? Même un enfant ne croirait pas à ce conte !
+
+[06449.126]
+Jeune
+
+[06449.127]
+Vous seriez le vrai professeur {NAME:06 00 00 00}, venu à notre époque en voyageant dans le temps ? Même un enfant ne croirait pas à ce conte !
+
+[06449.128]
+Jeune
+
+[06449.129]
+Moi, je veux devenir un grand savant comme le professeur {NAME:06 00 00 00}. C’est pour ça que je viens à la bibliothèque tous les jours.
+
+[06449.131]
+Quoiii !? Vous voulez devenir comme ça ?
+
+[06449.132]
+Jeune
+
+[06449.133]
+« Comme ça », quelle impolitesse ! C’est le scientifique de génie qui a créé les Swordians et le Radisrol !
+
+[06449.134]
+Jeune
+
+[06449.135]
+Le professeur {NAME:06 00 00 00}, c’est un scientifique de génie, entré dans l’histoire, vous savez ? Et vous dites « comme ça » !
+
+[06449.137]
+Et d’abord, toi, tu ne sais rien du tout du professeur {NAME:06 00 00 00}, non ?
+
+[06449.139]
+O-oui, c’est vrai... C’est juste que, je ne sais pas...
+
+[06449.140]
+Jeune
+
+[06449.141]
+Moi aussi, un jour, je voudrais être un scientifique de génie comme le professeur {NAME:06 00 00 00} ! C’est pour ça que je viens à la bibliothèque tous les jours.
+
+[06449.142]
+Bibliothécaire
+
+[06449.143]
+Le bruit et les roucoulades des couples sont strictement interdits dans la bibliothèque.
+
+[06449.145]
+Oh, euh, nous ne sommes pas...
+
+[06449.146]
+Bibliothécaire
+
+[06449.147]
+Strictement, interdits !
+
+[06449.148]
+Bibliothécaire
+
+[06449.149]
+Le bruit et les roucoulades des couples sont strictement interdits dans la bibliothèque.
+
+[06449.150]
+Bibliothécaire
+
+[06449.151]
+Il n’y a pas du bruit, depuis tout à l’heure ?
+
+[06449.152]
+Bibliothécaire
+
+[06449.153]
+Les enfants joueraient-ils encore dans le musée ? Vraiment, quelle plaie.
+
+[06449.154]
+Bibliothécaire
+
+[06449.155]
+Il est pourtant écrit : « Silence dans la bibliothèque ». Vraiment, ces enfants...
+
+[06449.157]
+Mais c’est pas ça ! En ce moment, au château... !!
+
+[06449.158]
+Bibliothécaire
+
+[06449.159]
+Chuuuuuuuuuuuut !! Silence dans la bibliothèque !
+
+[06449.160]
+Bibliothécaire
+
+[06449.161]
+Silence dans la bibliothèque, je vous prie !
+
+[06449.162]
+Bibliothécaire
+
+[06449.163]
+C’est étrange... M. Verde vient toujours lire à cette heure-ci...
+
+[06449.164]
+Bibliothécaire
+
+[06449.165]
+Cela aurait-il un rapport avec le tumulte du dehors... ?
+
+[06449.166]
+Bibliothécaire
+
+[06449.167]
+C’est étrange... M. Verde vient toujours lire à cette heure-ci...
+
+[06449.168]
+Bibliothécaire
+
+[06449.169]
+En voyant le château détruit, j’ai cru revivre ce qui s’est passé il y a dix-huit ans. L’histoire se répète-t-elle donc...
+
+[06449.170]
+Bibliothécaire
+
+[06449.171]
+Je croyais que des lieux comme cette bibliothèque et ce musée existaient pour qu’on ne refasse pas cette faute...
+
+[06449.172]
+Bibliothécaire
+
+[06449.173]
+L’histoire se répète-t-elle donc... Si c’est le cas, c’est bien triste...
+
+[06449.174]
+Bibliothécaire
+
+[06449.175]
+Je pense consacrer un livre à cette affaire.
+
+[06449.176]
+Bibliothécaire
+
+[06449.177]
+Pour aider, si peu que ce soit, ceux qui veulent apprendre de l’histoire passée et ne pas en refaire les fautes.
+
+[06449.178]
+Bibliothécaire
+
+[06449.179]
+Le déroulement de cette affaire, les gens du château qui étaient sur place, ceux qui ont donné de leurs biens pour porter secours...
+
+[06449.180]
+Bibliothécaire
+
+[06449.181]
+Je veux réunir tout cela en un livre. Pour le transmettre aux gens de l’avenir.
+
+[06449.182]
+Bibliothécaire
+
+[06449.183]
+Je veux écrire un livre qui aide ceux qui veulent apprendre de l’histoire passée et ne pas en refaire les fautes.
+
+[06449.184]
+Bibliothécaire
+
+[06449.185]
+Ce lieu est fait pour ceux qui veulent lire en silence. Silence, je vous prie.
+
+[06449.186]
+Bibliothécaire
+
+[06449.187]
+Silence dans la bibliothèque, je vous prie.
+
+[06449.189]
+Hmf... Sans mots, comment voulez-vous que je dise votre beauté ?
+
+[06449.190]
+Bibliothécaire
+
+[06449.191]
+Si vous tenez à parler d’amour, faites-le dehors, et tout seul.
+
+[06449.192]
+Bon voyage.
+
+[06449.193]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06449.194]
+Voulez-vous passer la nuit ?
+
+[06449.196]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06449.197]
+Reposez-vous bien.
+
+[06449.198]
+Bonjour.
+
+[06449.199]
+Vous n’avez pas assez d’argent.
+
+[06449.200]
+Au plaisir de vous revoir.
+
+[06449.205]
+Obtenu : {16:25 BA}.
+
+[06449.207]
+Obtenu : {08:FF FF FF FF}.
+
+[06449.209]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06449.211]
+Il n’y a rien ici.
+

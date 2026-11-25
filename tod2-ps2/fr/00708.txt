@@ -1,0 +1,27 @@
+[00708.001]
+Mmh...
+
+[00708.002]
+Quoi ? Tu n’as toujours pas renoncé à sauver Atwight ?
+
+[00708.003]
+Non ! Je ne renonce pas si vite !
+
+[00708.004]
+Vous aussi ?
+
+[00708.005]
+Évidemment !
+
+[00708.006]
+Moi aussi, je suivrai {NAME:01 00 00 00}.
+
+[00708.007]
+Quand il a décidé une chose, je n’y peux plus rien.
+
+[00708.008]
+Voilà. C’est même comme ça qu’on a atterri jusque dans cette époque.
+
+[00708.009]
+Hm-hm♪ Ça devient drôle.
+

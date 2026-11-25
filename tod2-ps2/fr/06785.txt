@@ -1,0 +1,265 @@
+[06785.001]
+Grand temple de Straylize
+
+[06785.002]
+Grand temple de Straylize
+
+[06785.003]
+Philia
+
+[06785.004]
+... Avant cela, j’ai une question. Pourquoi cherchez-vous un héros ?
+
+[06785.005]
+???
+
+[06785.006]
+Parce qu’il me faut un pouvoir... un pouvoir capable de changer le monde.
+
+[06785.007]
+Un pouvoir ?
+
+[06785.008]
+???
+
+[06785.009]
+Un héros possède le pouvoir de changer non seulement les hommes, mais jusqu’au destin de ce monde.
+
+[06785.010]
+???
+
+[06785.011]
+Je veux savoir quelle est la source de ce pouvoir.
+
+[06785.012]
+???
+
+[06785.013]
+Et je veux, moi aussi, obtenir un tel pouvoir.
+
+[06785.014]
+... À mes yeux, vous semblez déjà détenir un grand pouvoir.
+
+[06785.015]
+???
+
+[06785.016]
+Non, cela ne va pas ! Le pouvoir que j’ai maintenant ne suffit pas, pas du tout !
+
+[06785.017]
+...
+
+[06785.018]
+J’ai encore une chose à vous demander.
+
+[06785.019]
+Quand vous aurez rencontré un héros et obtenu ce pouvoir, que comptez-vous faire ?
+
+[06785.020]
+???
+
+[06785.021]
+...
+
+[06785.022]
+... Vous ne pouvez pas le dire, c’est cela ? Parce que je ne suis pas le héros que vous cherchez ?
+
+[06785.023]
+???
+
+[06785.024]
+... Pardonnez-moi.
+
+[06785.025]
+???
+
+[06785.026]
+Mais je ne m’en servirai pas pour faire le mal ! Croyez-moi !
+
+[06785.027]
+Oui, je le sais. C’est justement pourquoi je vous le demandais.
+
+[06785.028]
+Ce que vous, avec un tel pouvoir et une telle conviction, pouvez bien désirer.
+
+[06785.029]
+... À mes yeux, vous êtes tout à fait comme...
+
+[06785.030]
+?????
+
+[06785.031]
+L’un des Quatre Héros qui auraient brisé l’Œil de Dieu... Tu es Philia Felice, n’est-ce pas ?
+
+[06785.032]
+Q-qui êtes-vous... !?
+
+[06785.033]
+?????
+
+[06785.034]
+Inutile de me nommer devant qui va mourir. ... Prépare-toi !
+
+[06785.035]
+???
+
+[06785.036]
+Philia !!
+
+[06785.037]
+Ne vous occupez pas de moi ! Fuyez, vite... !
+
+[06785.038]
+?????
+
+[06785.039]
+... Faible, bien trop faible. Voilà donc ce qu’est devenue une héroïne d’autrefois. Quelle déception.
+
+[06785.040]
+?????
+
+[06785.041]
+Que ton dernier râle, au moins, me divertisse...
+
+[06785.043]
+Ne bouge plus ! Écarte-toi de Philia tout de suite !
+
+[06785.044]
+?????
+
+[06785.045]
+... Qui es-tu, toi !?
+
+[06785.047]
+Comment as-tu osé t’en prendre à Philia... ! Le suivant, c’est moi... {NAME:01 00 00 00} Dunamis, futur grand héros : je suis ton adversaire !
+
+[06785.048]
+?????
+
+[06785.049]
+Un héros... !?
+
+[06785.050]
+?????
+
+[06785.051]
+Une vermine comme toi, se dire héros... ! Tu veux mourir, gamin !!
+
+[06785.053]
+{03:00 00 00 00}Attention, {NAME:01 00 00 00} !
+
+[06785.055]
+Qu... !? C’est un monstre, ce type !?
+
+[06785.057]
+Ça craint, {NAME:01 00 00 00} ! Il est coriace... non, pire : on n’a aucune chance !!
+
+[06785.059]
+Et alors, pas question de reculer ! Je vais tout lui donner !!
+
+[06785.060]
+?????
+
+[06785.061]
+Je salue au moins ta résolution, gamin. Avoir prononcé le mot héros devant moi... tu le regretteras au seuil de la mort !!
+
+[06785.063]
+Alors, ça t’apprendra !
+
+[06785.064]
+?????
+
+[06785.065]
+Hin hin hin... Je vois. Par négligence, j’ai manqué aux égards. Alors laisse-moi te rendre hommage comme il se doit !
+
+[06785.067]
+Gh !! Qu-quelle force... !
+
+[06785.068]
+?????
+
+[06785.069]
+Dommage pour toi, héros manqué. Hin hin hin... Haa ha ha ha !!
+
+[06785.070]
+?????
+
+[06785.071]
+Guah !! T-toi... !?
+
+[06785.073]
+Attrape, {NAME:01 00 00 00} !
+
+[06785.075]
+Deyaaaaaah !!
+
+[06785.076]
+?????
+
+[06785.077]
+Gnh !!
+
+[06785.078]
+?????
+
+[06785.079]
+... Hin hin hin. Qu’il existe en ce monde un adversaire capable d’assouvir ma faim...
+
+[06785.080]
+Barbatos
+
+[06785.081]
+Mon nom est Barbatos Goetia. {NAME:01 00 00 00} Dunamis... Je retiendrai ce nom !
+
+[06785.083]
+O-on a réussi...
+
+[06785.085]
+Ah oui ! Philia !!
+
+[06785.086]
+???
+
+[06785.087]
+Elle respire encore... Elle est vivante !
+
+[06785.089]
+Bien ! Philia doit avoir ses appartements dans ce temple. On l’y porte tout de suite !!
+
+[06785.090]
+Bon voyage.
+
+[06785.091]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06785.092]
+Voulez-vous passer la nuit ?
+
+[06785.094]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06785.095]
+Reposez-vous bien.
+
+[06785.096]
+Bonjour.
+
+[06785.097]
+Vous n’avez pas assez d’argent.
+
+[06785.098]
+Au plaisir de vous revoir.
+
+[06785.103]
+Obtenu : {16:27 96}.
+
+[06785.105]
+Obtenu : {08:FF FF FF FF}.
+
+[06785.107]
+Trouvé : {16:27 9E}, mais vous n’avez plus de place.
+
+[06785.109]
+Il n’y a rien ici.
+

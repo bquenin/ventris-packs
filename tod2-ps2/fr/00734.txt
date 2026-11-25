@@ -1,0 +1,9 @@
+[00734.001]
+{NAME:03 00 00 00}, dis...
+
+[00734.002]
+Tu vas dire « j’ai bien fait de décider tout seul de sauver Atwight ? », c’est ça ? Cré~tin. Ça ne date pas d’aujourd’hui. On te suit en sachant bien que tu t’emballes.
+
+[00734.003]
+Hé hé. Merci, {NAME:03 00 00 00}.
+

@@ -1,0 +1,3 @@
+[01262.001]
+{NAME:03 00 00 00} ! Une ville, à l’est ! C’est donc ça, Aigrette...
+

@@ -1,0 +1,200 @@
+[06424.001]
+Mine désaffectée Oberon
+
+[06424.002]
+Mine désaffectée Oberon
+
+[06424.003]
+Obtenu : {16:34 8C} x{0B:01 00 00 00}{14:34 88}{0B:00 00 00 00}.
+
+[06424.005]
+Trouvé : {16:34 8C} x{0B:01 00 00 00}{14:34 90}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06424.007]
+{16:34 8C} x{0B:01 00 00 00}{14:34 90} : vous ne pouvez pas tout porter.
+・En prendre {14:34 88}, en jeter {14:34 94}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+
+[06424.009]
+Chef
+
+[06424.010]
+{16:34 AC} : tu en prépares ?
+
+[06424.011]
+Chef
+
+[06424.012]
+Veux-tu apprendre la recette : {16:34 AC} ?
+
+[06424.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06424.015]
+Chef
+
+[06424.016]
+Je vais t’apprendre la recette : {16:34 AC}.
+
+[06424.017]
+Chef
+
+[06424.018]
+Tu le fais toi-même ? Bah, c’est bien aussi.
+
+[06424.019]
+Chef
+
+[06424.020]
+J’ai la recette : {16:34 AC}. Tu me l’achètes pour {0B:01 00 00 00}{14:34 A4}{0B:00 00 00 00} Gald ?
+
+[06424.022]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06424.023]
+Chef
+
+[06424.024]
+Tu n’as pas assez d’argent.
+
+[06424.025]
+Chef
+
+[06424.026]
+Je te vends la recette : {16:34 AC}.
+
+[06424.027]
+Chef
+
+[06424.028]
+Bah, tant pis.
+
+[06424.029]
+{16:24 B0}, {16:24 B2}, {16:24 B4}
+
+[06424.030]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}, {16:24 B8}
+
+[06424.031]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}, {16:24 B8}
+
+[06424.032]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}, {16:24 B8}
+
+[06424.033]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}, {16:24 B8}
+
+[06424.034]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}
+
+[06424.035]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}, {16:24 B8}
+
+[06424.036]
+{16:24 B0}, {16:24 B2}, {16:24 B4},
+{16:24 B6}, {16:24 B8}
+
+[06424.037]
+Chef
+
+[06424.038]
+Pour préparer {16:34 AC}, il faut :
+{18:44 A8}
+
+[06424.039]
+Chef
+
+[06424.040]
+Mais tu as les ingrédients.
+
+[06424.041]
+Chef
+
+[06424.042]
+Si tu me les cèdes, je prépare : {16:34 AC}. Ça te va ?
+
+[06424.044]
+{03:00 00 00 00}　Oui
+　Non
+
+[06424.045]
+Chef
+
+[06424.046]
+D’accord, attends un peu. Je te prépare ça tout de suite : {16:34 AC}.
+
+[06424.047]
+Chef
+
+[06424.048]
+Dommage. C’est vraiment délicieux...
+
+[06424.049]
+Chef
+
+[06424.050]
+Je cherche des ingrédients. Tu me les apporterais, si tu en trouves ?
+
+[06424.051]
+Chef
+
+[06424.052]
+Tu n’en es pas digne. Reviens une autre fois.
+
+[06424.053]
+Chef
+
+[06424.054]
+J’attendais quelqu’un comme toi. Un cuisinier digne de recevoir ceci.
+
+[06424.056]
+Recette ramassée : {16:34 AC}.
+
+[06424.058]
+Recette apprise : {16:34 C0}.
+
+[06424.059]
+Bon voyage.
+
+[06424.060]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06424.061]
+Voulez-vous passer la nuit ?
+
+[06424.063]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06424.064]
+Reposez-vous bien.
+
+[06424.065]
+Bonjour.
+
+[06424.066]
+Vous n’avez pas assez d’argent.
+
+[06424.067]
+Au plaisir de vous revoir.
+
+[06424.072]
+Obtenu : {16:26 0E}.
+
+[06424.074]
+Obtenu : {08:FF FF FF FF}.
+
+[06424.076]
+Trouvé : {16:26 16}, mais vous n’avez plus de place.
+
+[06424.078]
+Il n’y a rien ici.
+

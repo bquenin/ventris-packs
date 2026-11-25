@@ -1,0 +1,46 @@
+[06502.001]
+Trash Mountain
+
+[06502.002]
+Trash Mountain
+
+[06502.004]
+Le gaz toxique a altéré le contenu du coffre !
+
+[06502.005]
+Bon voyage.
+
+[06502.006]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06502.007]
+Voulez-vous passer la nuit ?
+
+[06502.009]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06502.010]
+Reposez-vous bien.
+
+[06502.011]
+Bonjour.
+
+[06502.012]
+Vous n’avez pas assez d’argent.
+
+[06502.013]
+Au plaisir de vous revoir.
+
+[06502.018]
+Obtenu : {16:26 9E}.
+
+[06502.020]
+Obtenu : {08:FF FF FF FF}.
+
+[06502.022]
+Trouvé : {16:26 A6}, mais vous n’avez plus de place.
+
+[06502.024]
+Il n’y a rien ici.
+

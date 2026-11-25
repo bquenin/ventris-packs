@@ -1,0 +1,6 @@
+[08619.001]
+Élémentaire de feu
+
+[08619.004]
+Élémentaire de vent
+

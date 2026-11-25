@@ -1,0 +1,15 @@
+[00150.001]
+N’empêche, le coup de Papa-Longues-Jambes, elle avait tout deviné.
+
+[00150.002]
+Mmh, je croyais pourtant qu’on s’y était bien pris...
+
+[00150.003]
+Bah, c’est une vétérane : Rutee avait un coup, deux coups d’avance sur nous. Et en plus, elle nous a donné bien plus d’argent qu’on ne lui en avait remis... Je me sens un peu coupable.
+
+[00150.004]
+Alors ça va ! Je deviendrai un héros, et je lui rendrai le double... non, dix fois plus !
+
+[00150.005]
+... Dis, {NAME:01 00 00 00}. Tu crois qu’un héros roule sur l’or ? Si oui, Rutee ne tirerait pas le diable par la queue.
+

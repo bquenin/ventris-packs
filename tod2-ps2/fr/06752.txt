@@ -1,0 +1,43 @@
+[06752.001]
+Dycroft
+
+[06752.002]
+Dycroft
+
+[06752.003]
+Bon voyage.
+
+[06752.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06752.005]
+Voulez-vous passer la nuit ?
+
+[06752.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06752.008]
+Reposez-vous bien.
+
+[06752.009]
+Bonjour.
+
+[06752.010]
+Vous n’avez pas assez d’argent.
+
+[06752.011]
+Au plaisir de vous revoir.
+
+[06752.016]
+Obtenu : {16:25 C2}.
+
+[06752.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06752.020]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06752.022]
+Il n’y a rien ici.
+

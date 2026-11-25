@@ -1,0 +1,54 @@
+[00990.001]
+Je vois... N’empêche, ça fait bizarre, cette Aigrette du futur.
+
+[00990.002]
+Cela ressemble à une société efficace et sûre. Mais il est certain que quelque chose y dérange.
+
+[00990.003]
+Ce qui dérange, c’est ces gens qui ont renoncé à vivre par eux-mêmes...
+
+[00990.004]
+La déesse et ceux de Fortuna font tout pour eux : forcément, ils finissent comme ça.
+
+[00990.005]
+Mmh... C’est ça que je ne comprends pas.
+
+[00990.006]
+Tu ne comprends pas... quoi ?
+
+[00990.007]
+Ben, la déesse, elle a un pouvoir énorme et elle voit tout, non ? Alors pourquoi elle fait des choses pareilles ? Des nouveau-nés qui ne vivent pas avec leurs parents, des gens qu’on appelle par un numéro, pas par leur nom.
+
+[00990.008]
+Peut-être parce que tout le monde est plus heureux ainsi...
+
+[00990.009]
+Heureux, peut-être, mais... moi, je n’en voudrais pas. Une déesse qui fait ça, moi, je n’en ai pas besoin.
+
+[00990.010]
+Pas besoin... de la déesse !?
+
+[00990.011]
+Oui ! Autant vivre à Hope Town, comme {NAME:05 00 00 00} : c’est bien mieux.
+
+[00990.012]
+Pareil, {NAME:01 00 00 00}. C’est pour ça que j’ai amené Lou.
+
+[00990.013]
+........
+
+[00990.014]
+{NAME:02 00 00 00} ? Qu’est-ce que tu as ?
+
+[00990.015]
+Hein ? Ah, p-pardon. Ce n’est rien...
+
+[00990.016]
+Ah bon ? Tant mieux, alors...
+
+[00990.017]
+... Oh, c’est bientôt l’heure. Hé, {NAME:05 00 00 00}, à table, à table.
+
+[00990.018]
+Oui, ça tombe bien. Alors on va chez moi.
+

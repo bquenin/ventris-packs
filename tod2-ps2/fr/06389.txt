@@ -1,0 +1,70 @@
+[06389.001]
+Grand temple de Straylize
+
+[06389.002]
+Grand temple de Straylize
+
+[06389.003]
+Temple de Straylize
+
+[06389.004]
+Temple de Straylize
+
+[06389.006]
+Des ouvrages de géographie sont rangés ici. On y lit que les « troubles de l’Œil de Dieu » ont profondément changé le relief.
+
+[06389.008]
+Des ouvrages de géographie sont rangés ici. ... On y lit qu’il existe sur le continent de Fitzgald une crête noyée de brume, appelée la « Crête des Nuages blancs ».
+
+[06389.010]
+Obtenu : {08:03 00 00 00}.
+
+[06389.012]
+« À pied à travers le continent de Calvalese » ... Le récit d’un aventurier qui a parcouru à pied le continent de Calvalese, au climat impitoyable.
+
+[06389.014]
+Il aurait fait fortune en ramassant les nombreux trésors abandonnés dans le désert. ... Bien des trésors dorment peut-être encore dans la région de Calvalese.
+
+[06389.016]
+« Aquaveil, terre d’une autre culture » ... Un livre qui présente la région d’Aquaveil, à la culture et à l’histoire bien à elle.
+
+[06389.018]
+On y lit qu’on appelle région d’Aquaveil tout l’archipel situé au nord-est du monde. Ce serait une bonne idée d’y aller, si l’occasion se présente.
+
+[06389.019]
+Bon voyage.
+
+[06389.020]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06389.021]
+Voulez-vous passer la nuit ?
+
+[06389.023]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06389.024]
+Reposez-vous bien.
+
+[06389.025]
+Bonjour.
+
+[06389.026]
+Vous n’avez pas assez d’argent.
+
+[06389.027]
+Au plaisir de vous revoir.
+
+[06389.032]
+Obtenu : {16:25 B6}.
+
+[06389.034]
+Obtenu : {08:FF FF FF FF}.
+
+[06389.036]
+Trouvé : {16:25 BE}, mais vous n’avez plus de place.
+
+[06389.038]
+Il n’y a rien ici.
+

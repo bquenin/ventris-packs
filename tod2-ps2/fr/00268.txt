@@ -1,0 +1,12 @@
+[00268.001]
+Dis, {NAME:01 00 00 00}... tu n’as rien eu ?
+
+[00268.002]
+Hein ? Non, haha ! Ce n’est pas ta faute, {NAME:02 00 00 00} !
+
+[00268.003]
+Mais...
+
+[00268.004]
+Causons plus tard, pressons : ça n’a rien de normal.
+

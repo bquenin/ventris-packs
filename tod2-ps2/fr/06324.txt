@@ -1,0 +1,54 @@
+[06324.001]
+Ruines de Laguna
+
+[06324.002]
+Ruines de Laguna
+
+[06324.003]
+Obtenu : {16:34 88} x{0B:01 00 00 00}{14:34 84}{0B:00 00 00 00}.
+
+[06324.005]
+Trouvé : {16:34 88} x{0B:01 00 00 00}{14:34 8C}{0B:00 00 00 00}, mais vous n’avez plus de place. Remis dans le coffre.
+
+[06324.007]
+{16:34 88} x{0B:01 00 00 00}{14:34 8C} : vous ne pouvez pas tout porter.
+・En prendre {14:34 84}, en jeter {14:34 90}{0B:00 00 00 00}
+・Tout remettre dans le coffre
+
+[06324.009]
+Bon voyage.
+
+[06324.010]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06324.011]
+Voulez-vous passer la nuit ?
+
+[06324.013]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06324.014]
+Reposez-vous bien.
+
+[06324.015]
+Bonjour.
+
+[06324.016]
+Vous n’avez pas assez d’argent.
+
+[06324.017]
+Au plaisir de vous revoir.
+
+[06324.022]
+Obtenu : {16:25 E6}.
+
+[06324.024]
+Obtenu : {08:FF FF FF FF}.
+
+[06324.026]
+Trouvé : {16:25 EE}, mais vous n’avez plus de place.
+
+[06324.028]
+Il n’y a rien ici.
+

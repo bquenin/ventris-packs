@@ -1,0 +1,18 @@
+[00342.001]
+{NAME:03 00 00 00} va bien, j’espère...
+
+[00342.002]
+Tu t’inquiètes, hein ?
+
+[00342.003]
+Oui. C’est que, projeté d’un coup dans un monde inconnu, n’importe qui aurait la frousse...
+
+[00342.004]
+Hmf ! Pas de souci à se faire pour ce minable. Il importune toutes mes amies, une vraie plaie.
+
+[00342.005]
+... Tu t’inquiètes ?
+
+[00342.006]
+... Non.
+

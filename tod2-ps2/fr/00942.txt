@@ -1,0 +1,18 @@
+[00942.001]
+Voir le Roi-Héros aussi facilement : on se débrouille pas mal, non ?
+
+[00942.002]
+Non... ça, c’est grâce à papa et maman. Ce n’est pas nous qu’on a reconnus.
+
+[00942.003]
+Oh ! Dis donc, {NAME:01 00 00 00}. Te voilà bien posé. D’habitude, tu serais le premier à t’emballer...
+
+[00942.004]
+Hé hé ! En voyageant, j’ai bieeen grandi, moi... enfin, en vrai, j’ai l’impression qu’on m’a dit quelque chose comme ça, autrefois.
+
+[00942.005]
+Hmm... Bah, j’espère qu’un jour on te reconnaîtra, toi.
+
+[00942.006]
+Oui.
+

@@ -1,0 +1,36 @@
+[06280.4788]
+HRX-2
+
+[06280.4796]
+HLD-α
+
+[06280.4805]
+HLO-1
+
+[06280.4813]
+HRZ-3
+
+[06280.4821]
+HRO-β
+
+[06280.4830]
+Le robot de {NAME:06 00 00 00} qu’on a dû
+combattre : son nom, tu sais ?
+
+[06280.4901]
+Gagnééé♪
+Quelle enquiquineuse, {NAME:06 00 00 00}...
+
+[06280.4944]
+Ratééé
+
+[06280.4953]
+Dommage !
+
+[06280.4964]
+Mmh, pas tout à fait, non
+
+[06280.4991]
+Oublié ?
+On a peiné, pourtant
+

@@ -1,0 +1,18 @@
+[00992.001]
+Dis, {NAME:05 00 00 00}, on y va comment, à Calviola ?
+
+[00992.002]
+Il y a bien une vraie route, mais seuls les clercs de Fortuna peuvent l’emprunter. Il faut donc contourner par-derrière. Au-delà de cette montagne...... tout au bout... c’est Calviola, la Terre sainte.
+
+[00992.003]
+H-hé, on va grimper une montagne de roche pareille !?
+
+[00992.004]
+On écoute les gens jusqu’au bout ! Au pied de cette montagne, il y a une décharge d’autrefois. En prenant le chemin de la décharge, on doit pouvoir traverser la montagne et ressortir de l’autre côté.
+
+[00992.005]
+Une montagne d’ordures... ça ne me dit rien.
+
+[00992.006]
+Pas d’autre route ? Tant pis. En route !
+

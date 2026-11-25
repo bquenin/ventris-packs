@@ -1,0 +1,9 @@
+[00340.001]
+Je me demande ce que font {NAME:03 00 00 00} et {NAME:04 00 00 00}, en ce moment. Ils se disputent peut-être sans arrêt...
+
+[00340.002]
+Tu crois ? Moi, j’avais l’impression qu’ils s’entendaient plutôt bien, à leur façon... Tu sais ce qu’on dit : « Qui aime bien châtie bien ».
+
+[00340.003]
+... Pff ! Ahaha ! Je vois d’ici leurs deux grimaces !
+

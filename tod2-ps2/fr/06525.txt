@@ -1,0 +1,52 @@
+[06525.001]
+Dragon volant : salle de contrôle
+
+[06525.002]
+Dragon volant
+
+[06525.003]
+Salle de contrôle
+
+[06525.004]
+Bon voyage.
+
+[06525.005]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06525.006]
+Voulez-vous passer la nuit ?
+
+[06525.008]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06525.009]
+Reposez-vous bien.
+
+[06525.010]
+Bonjour.
+
+[06525.011]
+Vous n’avez pas assez d’argent.
+
+[06525.012]
+Au plaisir de vous revoir.
+
+[06525.017]
+Obtenu : {16:25 BE}.
+
+[06525.019]
+Obtenu : {08:FF FF FF FF}.
+
+[06525.021]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06525.023]
+Il n’y a rien ici.
+
+[06525.024]
+Temps écoulé
+
+[06525.026]
+Dispositif de contrôle détruit.
+

@@ -1,0 +1,927 @@
+[06484.001]
+Cherik
+
+[06484.002]
+Cherik
+
+[06484.004]
+Un gros poisson vient d’être débarqué.
+
+[06484.006]
+Du poisson séché au soleil est aligné.
+
+[06484.008]
+Des fruits des pays chauds sont entassés.
+
+[06484.010]
+La jarre contient les épices du pays.
+
+[06484.012]
+Un entrepôt, semble-t-il. On y garde des légumes.
+
+[06484.013]
+Guichetier
+
+[06484.014]
+D’ici, vous pouvez gagner le port d’Aigrette. Voulez-vous embarquer ?
+
+[06484.016]
+{03:00 00 00 00}　Aller au port d’Aigrette ({0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} Gald)　
+　Ne pas embarquer　
+
+[06484.017]
+Guichetier
+
+[06484.018]
+D’ici, vous pouvez gagner le port d’Aigrette et Neustadt. Voulez-vous embarquer ?
+
+[06484.020]
+{03:00 00 00 00}　Aller au port d’Aigrette ({0B:01 00 00 00}{14:24 72}{0B:00 00 00 00} Gald)　
+　Aller à Neustadt ({0B:01 00 00 00}{14:24 74}{0B:00 00 00 00} Gald)　
+　Ne pas embarquer　
+
+[06484.021]
+Guichetier
+
+[06484.022]
+D’ici, vous pouvez gagner le port d’Aigrette et Neustadt. Voulez-vous embarquer ?
+
+[06484.024]
+{03:00 00 00 00}　Aller au port d’Aigrette　
+　Aller à Neustadt　
+　Ne pas embarquer　
+
+[06484.025]
+Guichetier
+
+[06484.026]
+Hé là, il n’y a pas le compte. Soyez gentil, voyons, m’sieur !
+
+[06484.027]
+Guichetier
+
+[06484.028]
+Vous êtes sûr, m’sieur ? Dépêchez-vous, le navire va partir !
+
+[06484.030]
+En allant vers l’ouest d’ici, il y a une rivière qui s’appelle la Heat River.
+
+[06484.032]
+Une fois la rivière passée, on arrive vite à mon village, Hope Town.
+
+[06484.033]
+Dame
+
+[06484.034]
+Tiens ? Vous aussi, vous êtes des pèlerins de Calviola, la Terre sainte ?
+
+[06484.036]
+Des pèlerins... ?
+
+[06484.038]
+Calviola, cet endroit à vomir : qui voudrait y aller ?
+
+[06484.039]
+Dame
+
+[06484.040]
+Vous allez à Hope Town ? Il n’y a rien de bon à trouver dans un endroit pareil.
+
+[06484.041]
+Homme
+
+[06484.042]
+Vous êtes des pèlerins, vous autres ? Vous allez à Calviola, la Terre sainte ?
+
+[06484.044]
+Nous allons bien à Calviola... mais pas en pèlerinage.
+
+[06484.045]
+Homme
+
+[06484.046]
+Il se passe quelque chose à Calviola, la Terre sainte, paraît-il : les simples fidèles n’ont plus le droit d’y entrer.
+
+[06484.047]
+Homme
+
+[06484.048]
+Il n’y serait pas arrivé quelque chose... ?
+
+[06484.049]
+Dame
+
+[06484.050]
+Il y aura bientôt un de ces départs en bloc, paraît-il.
+
+[06484.051]
+Dame
+
+[06484.052]
+Moi, jamais je n’irai à Aigrette.
+
+[06484.053]
+Dame
+
+[06484.054]
+Plutôt que d’aller là-bas, autant aller à Hope Town : c’est encore mieux.
+
+[06484.055]
+Dame
+
+[06484.056]
+Je ne quitterai pas le pays où je suis née et où j’ai grandi. Je vis ici, et je mourrai ici.
+
+[06484.057]
+Homme
+
+[06484.058]
+Devil’s Reef, entre Aigrette et Cherik... Il y a là un monstre : le maître des mers.
+
+[06484.059]
+Homme
+
+[06484.060]
+Personne ne voudrait nous l’abattre ? Il n’y aurait pas un héros pour se montrer ?
+
+[06484.061]
+Homme
+
+[06484.062]
+Ah, encore une chaude journée ! C’est ça, le vrai temps de Cherik !
+
+[06484.063]
+Voyageur
+
+[06484.064]
+Pour la porte de Calviola, la ville sainte, cette ville n’a pas une once de mystère.
+
+[06484.065]
+Voyageur
+
+[06484.066]
+Bah, tant pis. Ce que je veux voir, c’est Calviola, pas un endroit pareil.
+
+[06484.067]
+Voyageur
+
+[06484.068]
+N’empêche, on se sent un peu seul, ici.
+
+[06484.069]
+Voyageur
+
+[06484.070]
+Des affaires partout, et personne : ça donne le frisson.
+
+[06484.071]
+Voyageur
+
+[06484.072]
+Pourquoi on ne peut pas entrer dans la Terre sainte ! Moi qui suis venu exprès de Snowfria !
+
+[06484.073]
+Voyageur
+
+[06484.074]
+Je ne sais pas ce qu’ils y font, mais par pitié, laissez-moi prier à la Terre sainte !
+
+[06484.075]
+Voyageur
+
+[06484.076]
+Le pèlerinage à la Terre sainte, une fois par mois : je n’y manquerais pour rien. Même si on me renvoie de mon travail !
+
+[06484.077]
+Savant
+
+[06484.078]
+L’Ordre d’Atamoni bâtit un temple à Calviola, semble-t-il.
+
+[06484.079]
+Savant
+
+[06484.080]
+Pourquoi bâtir un temple dans une contrée si reculée ?
+
+[06484.081]
+Savant
+
+[06484.082]
+D’après la rumeur, on y aurait apporté une grande quantité de Lentilles.
+
+[06484.083]
+Savant
+
+[06484.084]
+Hmm. Que peuvent-ils bien y faire ?
+
+[06484.085]
+Savant
+
+[06484.086]
+Les soldats de l’armée céleste, vaincus de la guerre du Ciel et de la Terre, ont été exilés ici, en Calvalese.
+
+[06484.087]
+Savant
+
+[06484.088]
+Vivre sur cette terre rude a dû être bien dur...
+
+[06484.089]
+Savant
+
+[06484.090]
+Tous ceux qui appartenaient à l’armée céleste ont été tenus pour criminels de guerre et condamnés à l’exil, dit-on.
+
+[06484.091]
+Savant
+
+[06484.092]
+Vivre ici était peut-être plus dur que mourir.
+
+[06484.093]
+Vieil homme
+
+[06484.094]
+Alors ? Pour un port, il n’y a pas grand monde, hein ? C’est que presque tous les habitants ont déménagé à Aigrette.
+
+[06484.095]
+Vieil homme
+
+[06484.096]
+À Aigrette, on n’aurait besoin ni d’argent ni de rien, paraît-il.
+
+[06484.097]
+Vieil homme
+
+[06484.098]
+Ils sont tous partis en laissant leurs affaires traîner par là...
+
+[06484.099]
+Vieil homme
+
+[06484.100]
+Veulent-ils vivre à Aigrette au point de jeter leur vie d’avant ? Bon sang, la religion, c’est...
+
+[06484.101]
+Garçon
+
+[06484.102]
+Bienvenuuue. Des fruits des pays chauds, ça vous diiit ?
+
+[06484.103]
+Garçon
+
+[06484.104]
+Ouf ! Quelle chaleur ! J’en mangerais presque la marchandise !
+
+[06484.105]
+Marin
+
+[06484.106]
+Ces temps-ci, de plus en plus de gens quittent Cherik.
+
+[06484.107]
+Marin
+
+[06484.108]
+Bah, on vit mieux à Aigrette qu’ici.
+
+[06484.109]
+Marin
+
+[06484.110]
+Ici, il fait une chaleur à crever !
+
+[06484.111]
+Femme
+
+[06484.112]
+Les Lentilles éparpillées dans le ciel sont à ramasser... Voudriez-vous m’aider ?
+
+[06484.114]
+{03:00 00 00 00}　Aider　
+　Ne pas aider　
+
+[06484.115]
+Femme
+
+[06484.116]
+Ramassez 100 des Lentilles éparpillées dans le ciel. Si vous finissez dans le temps imparti, vous recevrez un lot. Visez le meilleur temps : bon courage.
+
+[06484.117]
+Femme
+
+[06484.118]
+Pour recommencer ou arrêter en cours de route, choisissez dans le menu de la touche SELECT.
+
+[06484.119]
+Femme
+
+[06484.120]
+{03:00 00 00 00}Meilleurs temps actuels :
+ COURSE 1 --- {14:34 88}{14:34 94}:{14:34 A0}{14:34 AC}:{14:34 B8}{14:34 C4}
+ COURSE 2 --- {14:34 8C}{14:34 98}:{14:34 A4}{14:34 B0}:{14:34 BC}{14:34 C8}
+ COURSE 3 --- {14:34 90}{14:34 9C}:{14:34 A8}{14:34 B4}:{14:34 C0}{14:34 CC}
+
+[06484.121]
+Femme
+
+[06484.122]
+{03:00 00 00 00}Meilleurs temps actuels :
+ COURSE 4 --- {14:34 88}{14:34 94}:{14:34 A0}{14:34 AC}:{14:34 B8}{14:34 C4}
+ COURSE 5 --- {14:34 8C}{14:34 98}:{14:34 A4}{14:34 B0}:{14:34 BC}{14:34 C8}
+ COURSE 6 --- {14:34 90}{14:34 9C}:{14:34 A8}{14:34 B4}:{14:34 C0}{14:34 CC}
+
+[06484.123]
+Femme
+
+[06484.124]
+Voici votre résultat...
+
+[06484.125]
+Femme
+
+[06484.126]
+Vous avez abandonné en route...
+
+[06484.127]
+Femme
+
+[06484.128]
+Votre temps : {14:34 E0}{14:34 E4}:{14:34 E8}{14:34 EC}:{14:34 F0}{14:34 F4}.
+
+[06484.129]
+Femme
+
+[06484.130]
+Félicitations ! Record battu ! Votre temps : {14:34 E0}{14:34 E4}:{14:34 E8}{14:34 EC}:{14:34 F0}{14:34 F4}.
+
+[06484.132]
+{NAME:04 00 00 00} obtient le titre « {08:8A 08 00 00} ».
+
+[06484.133]
+Femme
+
+[06484.134]
+Quel parcours choisissez-vous ?
+
+[06484.138]
+Bon voyage.
+
+[06484.139]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06484.140]
+Voulez-vous passer la nuit ?
+
+[06484.142]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06484.143]
+Reposez-vous bien.
+
+[06484.144]
+Bonjour.
+
+[06484.145]
+Vous n’avez pas assez d’argent.
+
+[06484.146]
+Au plaisir de vous revoir.
+
+[06484.151]
+Obtenu : {16:26 4E}.
+
+[06484.153]
+Obtenu : {08:FF FF FF FF}.
+
+[06484.155]
+Trouvé : {16:26 56}, mais vous n’avez plus de place.
+
+[06484.157]
+Il n’y a rien ici.
+
+[06484.158]
+Vétéran
+
+[06484.159]
+Bleu
+
+[06484.161]
+Leur sujet semble être : « l’attaque à l’arme ». Écouter ?
+
+[06484.162]
+Bon, nous aussi, on va se lancer dans l’aventure. Tu as les bases ?
+
+[06484.163]
+Évidemment, quoi ! J’attaque à l’arme à fond avec {09:45 00 00 00} !!
+
+[06484.164]
+Certes, mais combine-le avec les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00}, et tu obtiens quatre sortes d’attaques !
+
+[06484.165]
+Commence par les essayer vraiment plusieurs fois, pour apprendre leur vitesse et leur portée.
+
+[06484.166]
+Et pour attaquer plusieurs fois de suite, on fait comment ?
+
+[06484.167]
+Il suffit de rappuyer sur {09:45 00 00 00} pendant l’attaque. Et bien sûr, les directions {09:06 00 00 00}, {09:21 00 00 00}, {09:16 00 00 00}, {09:17 00 00 00} changent la façon d’attaquer.
+
+[06484.168]
+Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge bleue{04:07 00 00 00} en combat.) Si elle tombe trop bas, mieux vaut cesser d’attaquer et attendre qu’elle remonte.
+
+[06484.169]
+Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
+
+[06484.170]
+Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+
+[06484.171]
+Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
+
+[06484.173]
+Leur sujet semble être : « les artes ». Écouter ?
+
+[06484.174]
+Alors, maintenant que tu as appris des artes, ta stratégie a gagné en ampleur, non ?
+
+[06484.175]
+Les artes {09:46 00 00 00}, c’est costaud, mais les TP filent tout de suite, quoi. Ils remontent tout seuls en combat, mais je suis encore faiblard, alors c’est lent.
+
+[06484.176]
+Certes. C’est là que comptent les attaques normales avec {09:45 00 00 00}. Chaque attaque normale qui touche rend 1 TP.
+
+[06484.177]
+Alors attaques normales {09:45 00 00 00} à fond, quoi !
+
+[06484.178]
+... Garder des TP en trop, c’est du gâchis aussi. L’important est de bien s’en servir : lancer un sort pour laisser remonter les SP, par exemple.
+
+[06484.179]
+Les TP remontent aussi un peu quand on abat un ennemi. Et si on en abat plusieurs d’un coup pendant un enchaînement, on en récupère davantage.
+
+[06484.181]
+Leur sujet semble être : « les enchantements ». Écouter ?
+
+[06484.182]
+J’ai appris un enchantement aussi.
+
+[06484.183]
+... Et c’est quoi, un enchantement ?
+
+[06484.184]
+Hm. Pour faire simple : « le pouvoir de régler à son goût les artes et les sorts qu’on connaît ».
+
+[06484.185]
+D’abord, sers-t’en sans cesse pour faire monter le nombre d’usages ! Tu pourras alors équiper toutes sortes d’enchantements.
+
+[06484.186]
+Alors j’utilise un seul arte à fond, quoi.
+
+[06484.187]
+C’est une méthode. Mais on ne change pas d’enchantement en plein combat. Mettre des enchantements variés sur beaucoup d’artes n’est pas mal non plus.
+
+[06484.188]
+Lancer un sort qui affaiblit l’ennemi, puis foncer l’arme au poing... En maîtrisant artes et sorts, la stratégie s’élargit. ... On peut aussi se compléter entre compagnons.
+
+[06484.189]
+Au fait, retirer un enchantement équipé rend les usages : tu as tout intérêt à faire des essais.
+
+[06484.190]
+Mon arte préféré touche pas souvent, alors pour compenser, je lui mets un enchantement de précision.
+
+[06484.191]
+... Dans ton cas, tu frappes simplement dans le vide. Un coup dans le vide ne compte pas comme usage : c’est du gâchis !
+
+[06484.192]
+Et un sort de soin ne gagne un usage que « lancé sur une cible à 50 % de HP ou moins ». Attention !!
+
+[06484.193]
+C’est sûr, s’en servir pour une égratignure, ça forme pas, quoi.
+
+[06484.195]
+Leur sujet semble être : « la stratégie de combat ». Écouter ?
+
+[06484.196]
+Décidons de nos stratégies pour faire face à n’importe quel ennemi ! Que fais-tu si surgit « un ennemi à la défense solide » ?
+
+[06484.197]
+Tout le monde lance des sorts à fond, quoi.
+
+[06484.198]
+Les sorts, ce n’est pas mal, mais si tout le monde incante, on se fait rosser à loisir. Mieux vaut garder quelqu’un à l’avant.
+
+[06484.199]
+Et si « l’arrière-garde ennemie lance des sorts puissants » ?
+
+[06484.200]
+Ça, je l’ai appris par cœur hier. Avec « Bloque les sorts », on gêne leur incantation.
+
+[06484.201]
+C’est à peu près ça.
+
+[06484.202]
+On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
+
+[06484.203]
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+
+[06484.205]
+Leur sujet semble être : « le Technical Smash ». Écouter ?
+
+[06484.206]
+C’est quoi, un Technical Smash ?
+
+[06484.207]
+Hm. Porte « un coup de grâce éblouissant », de ceux que saluent même les pros du combat, et il est homologué Technical Smash.
+
+[06484.208]
+Abats un ennemi d’un Technical Smash et, tant c’est beau sans doute, tes chances d’obtenir un objet bondissent. C’est du moins ce que tout le monde raconte.
+
+[06484.209]
+Ce doit être vrai.
+
+[06484.210]
+Avec les enchaînements, ou en en abattant plusieurs d’un coup, ça sort à fond, quoi.
+
+[06484.211]
+Hm. « Achever par un enchaînement » est capital. Au moment du coup de grâce, tous les SP dépensés dans cet enchaînement reviennent. Même après un long enchaînement, on se remet d’aplomb.
+
+[06484.212]
+Alors les artes additionnels et tout ça, je les garde pour achever.
+
+[06484.213]
+Si tu manques de SP, c’est une bonne idée.
+
+[06484.214]
+L’ennui des enchantements d’Action, c’est qu’ils coûtent des SP ; savoir user du coup de grâce est la voie du maître.
+
+[06484.216]
+Leur sujet semble être : « les Spirits ». Écouter ?
+
+[06484.217]
+J’attaque, et l’ennemi pare tout à fond, quoi.
+
+[06484.218]
+Les ennemis à forte esquive sont une plaie. Les toucher par des sorts est une stratégie, mais certains sont du genre à faire fondre tes Spirits en une seule attaque.
+
+[06484.219]
+Pousse-les à frapper dans le vide pour user leurs Spirits, et leur esquive baisse aussi... C’est une ouverture à viser.
+
+[06484.220]
+Moi, avec le Press Guard, {09:47 00 00 00} et {09:1D 00 00 00}, je fais baisser leurs SP exprès.
+
+[06484.221]
+L’ennui, c’est que tu le fais aussi au milieu de leurs enchaînements. Le Press Guard se place sur la dernière attaque de l’ennemi. Il lui retire pas moins de 20 SP. Apprends à lire ses attaques.
+
+[06484.222]
+Si tu as réglé l’affichage de la cible dans les Options, plus le curseur est clair, plus ses SP sont hauts. Tu peux jauger les SP de l’ennemi tout en te battant.
+
+[06484.224]
+Leur sujet semble être : « les coups consécutifs ». Écouter ?
+
+[06484.225]
+C’est quoi, des coups consécutifs ?
+
+[06484.226]
+Blesse de nouveau un ennemi avant qu’il ne se remette en garde, et le nombre de coups s’additionne et s’affiche.
+
+[06484.227]
+Et si j’en place plein, il se passe quoi ?
+
+[06484.228]
+Hm. Ton record de coups influe sur l’expérience gagnée. Car une si belle série d’attaques est une expérience qui surpasse toutes les autres.
+
+[06484.229]
+Pour un nombre de coups plus élevé, la coordination avec tes compagnons est indispensable. Indépendamment du nombre de coups, chaque « sorte d’attaque » différente s’ajoute au CHAIN.
+
+[06484.230]
+Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
+
+[06484.231]
+En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+
+[06484.233]
+Leur sujet semble être : « la zone d’influence ». Écouter ?
+
+[06484.234]
+Je pensais qu’attaquer l’ennemi par-derrière serait un avantage, mais va savoir, ça fatigue.
+
+[06484.235]
+Hm. C’est la cohésion avec tes compagnons qui te donne du cœur, Spirits compris. Quand l’ennemi vous sépare, toutes sortes de récupérations ralentissent, semble-t-il.
+
+[06484.236]
+Si tu te retrouves malgré toi à droite de l’ennemi, reviens à gauche d’un pas en arrière avec {09:47 00 00 00} + {09:19 00 00 00}.
+
+[06484.237]
+Autant pas passer derrière, alors, quoi.
+
+[06484.238]
+En gros, tu peux voir les choses ainsi. Mais quand tu sauras lire le combat, tu pourras peut-être y faire un travail qui compense la pénalité.
+
+[06484.239]
+La théorie a pas toujours raison, quoi.
+
+[06484.240]
+Il t’arrive de dire des choses sensées.
+
+[06484.241]
+Trop vétéran
+
+[06484.242]
+Fils
+
+[06484.244]
+Leur sujet semble être : « les altérations d’état ». Écouter ?
+
+[06484.245]
+Me voilà frappé d’une altération d’état en plein combat. Et pas la moindre Fiole de panacée. Serait-ce la fin, ma foi...
+
+[06484.246]
+Il ne faut pas renoncer, père. Même frappé d’une altération en combat, on en guérit avec le temps, paraît-il.
+
+[06484.247]
+Les altérations ont des niveaux : même avec un équipement préventif, il arrive qu’on ne puisse les atténuer assez et qu’on les subisse. Il faut rester prudent.
+
+[06484.248]
+Mmh... Faut-il donc que je reparte au combat ? C’est rude, ma foi...
+
+[06484.249]
+Le mieux est d’avoir sous la main un plat qui guérit les altérations, père. Il existe aussi, semble-t-il, des plats et des objets qui les préviennent.
+
+[06484.250]
+Trop tard, ma foi ! Poison {09:56 00 00 00}, paralysie {09:5F 00 00 00}, faiblesse {09:5A 00 00 00}, gel et lenteur : je n’en peux plus !
+
+[06484.251]
+Il ne faut pas mentir, père. Quatre altérations au plus peuvent rester sur une même personne. Et augmenter ses capacités par un enchantement fait parfois disparaître le poison.
+
+[06484.252]
+De plus, le gel et la lenteur guérissent à la fin du combat.
+
+[06484.253]
+C’est juste. Et la lenteur, ma foi, je l’avais dès le départ.
+
+[06484.254]
+Hahahahahahahaha
+hahahahahahahaha
+
+[06484.255]
+(Il rit un peu trop, ce me semble...)
+
+[06484.256]
+Trop vétéran
+
+[06484.257]
+Fils
+
+[06484.259]
+Leur sujet semble être : « le Spirits Blaster ». Écouter ?
+
+[06484.260]
+Même au pied du mur, en Spirits Blaster, on tient sa chance de tout renverser, ma foi.
+
+[06484.261]
+Pour passer en Spirits Blaster, père, il est efficace de toucher l’ennemi sans se faire parer. Encaisser des coups y mène aussi, mais pour vous, père, c’est dangereux.
+
+[06484.262]
+Même avec mes forces déclinantes, en Spirits Blaster, j’attaque sans chanceler, ma foi.
+
+[06484.263]
+Tout de même, père, l’effet cesse quand les HP tombent à zéro, et recevoir une magie de soin l’abrège.
+
+[06484.264]
+Je ne m’arrête pas à ces détails. Mon plus bel arte mystique ne se montre qu’en Spirits Blaster.
+
+[06484.265]
+Non, père. Certes, un arte mystique coûte beaucoup de SP, mais en profitant des SP rendus par un ennemi abattu, on parvient parfois à le placer, semble-t-il.
+
+[06484.266]
+Cela dit, certains archers profiteraient de l’état Spirits Blaster pour placer un arte mystique au lieu d’un sort additionnel, père.
+
+[06484.267]
+Enfin, même si l’arte arcane touche, on ne passe pas à l’arte mystique si l’ennemi ne chancelle pas : avec un arcane qui soulève, cela échoue parfois sur les ennemis lourds.
+
+[06484.268]
+Sur ce, allons sans tarder tous les deux placer nos artes mystiques.
+
+[06484.269]
+Non, père. Je suis lanceur de sorts, je n’utilise pas d’arte mystique.
+
+[06484.270]
+À vrai dire, père, après un arte mystique les SP tombent à 0, et c’est terriblement gênant. N’en placez pas s’il n’achève même pas l’ennemi, père.
+
+[06484.271]
+Parce que c’est gênant.
+
+[06484.272]
+(Une fois suffisait, ce me semble...)
+
+[06484.273]
+Trop vétéran
+
+[06484.274]
+Fils
+
+[06484.276]
+Leur sujet semble être : « le Field of Effect ». Écouter ?
+
+[06484.277]
+L’autre jour, ce « Field of Effect » lancé par l’ennemi m’a donné bien du fil à retordre.
+
+[06484.278]
+FOE en abrégé, père. Il en existe deux grandes sortes : ceux qui agissent sur les ennemis dans la zone, et ceux qui réduisent nos capacités.
+
+[06484.279]
+Quand cela sort, n’y a-t-il plus qu’à baisser les bras ?
+
+[06484.280]
+Il est trop tôt pour renoncer, père. Certains cessent avec le temps, d’autres à force de coups. Et bien sûr, ils disparaissent au coup de grâce.
+
+[06484.281]
+S’ils en lancent un qui agit sur nous, vaut-il mieux ne laisser qu’un seul homme à l’avant et user de sorts ?
+
+[06484.282]
+Oui, père. Mais le mieux reste de changer de stratégie selon le changement d’état. S’il agit sur l’ennemi, des Besicles en révèlent la nature.
+
+[06484.283]
+À part ça, les jeunes d’aujourd’hui veulent tout abréger, c’en est pénible.
+
+[06484.284]
+(Vous le dites un peu tard, père...)
+
+[06484.286]
+Leur sujet semble être : « le Battle Grade ». Écouter ?
+
+[06484.287]
+C’est quoi, au bout du compte, le Battle Grade ?
+
+[06484.288]
+Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se battre », n’est-ce pas, chef ? Le ratio des dégâts, les coups dans le vide, le fait d’user toujours du même arte : tout est jugé.
+
+[06484.289]
+Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
+
+[06484.290]
+On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+
+[06484.291]
+Et s’il est haut, ça apporte quoi de bien ?
+
+[06484.292]
+C’est à l’étude, chef. Certains insolents disent bien que cela ne sert à rien en ce bas monde...
+
+[06484.293]
+Bah, te prends pas la tête et peaufine ta technique.
+
+[06484.294]
+Bravo, chef, j’apprends tant avec vous.
+
+[06484.296]
+Leur sujet semble être : « le rétablissement ». Écouter ?
+
+[06484.297]
+Quand on me plaque au sol, je reste à terre, quoi.
+
+[06484.298]
+C’est rude, en effet, chef. Mais en appuyant sur {09:47 00 00 00} à l’instant précis où l’on touche le sol, on se rétablit, n’est-ce pas ?
+
+[06484.299]
+B-b-b-bien sûr que je le savais, quoi.
+
+[06484.300]
+Se rétablir réduit le temps passé à terre et, surtout, rend des SP et des TP : c’est appréciable, n’est-ce pas ?
+
+[06484.301]
+B-b-b-b-bien sûr que je le savais, quoi.
+
+[06484.303]
+Leur sujet semble être : « la difficulté des combats ». Écouter ?
+
+[06484.304]
+Ça rime à quoi, de monter la difficulté des combats ?
+
+[06484.305]
+Il est vrai que monter la difficulté ne ramènera pas la paix dans le monde. Mais on dit que les armes et armures lâchées par les ennemis sont meilleures.
+
+[06484.306]
+Dans ce cas, je la monte à fond, quoi.
+
+[06484.307]
+Mais vous le savez, monter la difficulté augmente l’attaque et l’intellect des ennemis, qui lancent en plus des attaques terribles absentes en difficulté normale. Le choix est délicat, n’est-ce pas ?
+
+[06484.308]
+Dans ce cas, NORMAL me va tant que j’ai pas ramené la paix dans le monde une fois.
+
+[06484.309]
+Je ne saisis pas bien ce que vous voulez dire, mais vous avez tout à fait raison.
+
+[06484.310]
+SECOND est d’une difficulté mesurée : je le conseillerais à qui veut un peu plus de répondant.
+
+[06484.312]
+Ils semblent approfondir le sujet : « les attaques normales ». Écouter ?
+
+[06484.313]
+J’ai pris le coup, alors ces temps-ci, pour les attaques normales, je martèle juste {09:45 00 00 00}, quoi.
+
+[06484.314]
+Ce n’est vraiment pas ça.
+
+[06484.315]
+En vérité, précision et dégâts baissent un peu au deuxième et au troisième coup, mais ils baissent davantage si l’on répète la même attaque.
+
+[06484.316]
+Quoiii ? Alors je fais comment ?
+
+[06484.317]
+Hm. Construire « {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00}, {09:16 00 00 00}{09:45 00 00 00} », bref varier les combinaisons, voilà le premier pas.
+
+[06484.318]
+Et le deuxième pas, c’est quoi ?
+
+[06484.319]
+{09:45 00 00 00} : attaque --, précision --
+{09:17 00 00 00}{09:45 00 00 00} : attaque +, précision -
+{09:19 00 00 00}{09:45 00 00 00} : attaque -, précision +
+{09:16 00 00 00}{09:45 00 00 00} : attaque -, précision -
+
+[06484.320]
+Retiens tout ça ! Les attaques avec {09:45 00 00 00} couvrent large et touchent souvent sans peine, mais en contrepartie elles ne valent pas grand-chose dans une série.
+
+[06484.321]
+Cela influe aussi sur l’attaque suivante : avec « {09:17 00 00 00}{09:45 00 00 00}, {09:17 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} » et avec « {09:19 00 00 00}{09:45 00 00 00}, {09:19 00 00 00}{09:45 00 00 00}, {09:45 00 00 00} », les chiffres du troisième coup diffèrent.
+
+[06484.322]
+Alors contre un ennemi à forte esquive, je construis à partir de {09:19 00 00 00}{09:45 00 00 00}. Et contre un ennemi à faible esquive, je démarre par {09:17 00 00 00}{09:45 00 00 00}.
+
+[06484.323]
+Par exemple, oui. Cela dit, l’écart est infime : si les autres règles t’occupent déjà bien assez, inutile de te forcer à retenir celle-ci.
+
+[06484.325]
+Leur sujet semble être : « les longs discours ». Écouter ?
+
+[06484.326]
+Même des propos instructifs, au bout de dix ans à les écouter, ça fatigue, quoi.
+
+[06484.327]
+Tiens, je ne te l’avais pas dit. En maintenant {09:2F 00 00 00} et {09:2E 00 00 00}, on fait défiler les messages en accéléré. Pratique pour sauter une conversation déjà lue.
+
+[06484.328]
+Quoiii ? Pourquoi tu me l’as pas dit pendant dix ans ?
+
+[06484.329]
+Imbécile ! Qu’un bleu comme toi saute mes paroles, c’est dix ans trop tôt !
+
+[06484.330]
+... me disais-je, et voilà pourquoi je te le dis maintenant.
+
+[06484.331]
+Ça se tient, quoi.
+
+[06484.333]
+Leur sujet semble être : « le ramassage d’objets ». Écouter ?
+
+[06484.334]
+Tant qu’à vivre en aventurier, je veux rafler des objets aux ennemis à fond, quoi.
+
+[06484.335]
+Hm. C’est juste. Mais une rumeur fort plausible court parmi les aventuriers.
+
+[06484.336]
+C’est quoi, cette rumeur ?
+
+[06484.337]
+« Plus on porte d’objets d’une même sorte, moins les ennemis auraient de chances d’en lâcher », dit-on.
+
+[06484.338]
+Ça va pas du tout, quoi. Je vends tout.
+
+[06484.339]
+Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+
+[06484.340]
+Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
+
+[06484.341]
+Par ailleurs, si tu veux avancer en consommant tes objets, on m’a dit qu’il valait mieux n’en garder qu’un petit nombre.
+
+[06484.342]
+Pour les consommables, ce n’est pas le total qui compte mais le nombre détenu de chacun : telle est, paraît-il, l’opinion admise chez les aventuriers.
+
+[06484.343]
+Mais avec peu, on est vite mal face aux ennemis costauds.
+
+[06484.344]
+Il y a de ça. L’important, c’est de mener l’aventure qui convient à son propre style.
+
+[06484.346]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06484.348]
+Moi, je vais aller au bout de ma propre voie !!
+

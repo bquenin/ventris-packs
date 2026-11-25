@@ -1,0 +1,2123 @@
+[06184.13306]
+Quel ninja est absent de
+la Grotte de l’épreuve ?
+
+[06184.13356]
+Sarutobi
+
+[06184.13365]
+Kosuke
+
+[06184.13372]
+Saizo
+
+[06184.13381]
+Jinpachi
+
+[06184.13390]
+Oui !
+
+[06184.13397]
+Non.
+
+[06184.13404]
+Trop tard...
+
+[06184.13421]
+Le nom de la sœur de Chester ?
+
+[06184.13456]
+Ami
+
+[06184.13463]
+Aami
+
+[06184.13472]
+Amin
+
+[06184.13479]
+Arche
+
+[06184.13488]
+Alice
+
+[06184.13495]
+Aira
+
+[06184.13502]
+Amii
+
+[06184.13511]
+Army
+
+[06184.13520]
+... Mmh, presque
+
+[06184.13543]
+Non, regarde mieux
+
+[06184.13566]
+Une autre.
+
+[06184.13581]
+... Mmh, presque, oui
+
+[06184.13606]
+C’était un peu méchant ?
+
+[06184.13635]
+Le nom de l’oncle
+de Cress ?
+
+[06184.13673]
+Olson
+
+[06184.13682]
+Cresson
+
+[06184.13691]
+Norson
+
+[06184.13700]
+Thomson
+
+[06184.13709]
+Manson
+
+[06184.13718]
+Garçon
+
+[06184.13729]
+Allison
+
+[06184.13738]
+Gon
+
+[06184.13743]
+... Tu réponds au hasard ?
+
+[06184.13772]
+... Un peu difficile ?
+
+[06184.13803]
+Qui fait irruption dans
+l’arène du château d’Euclid ?
+
+[06184.13861]
+Lilith
+
+[06184.13868]
+Reid
+
+[06184.13883]
+Leon
+
+[06184.13890]
+Kongman
+
+[06184.13901]
+Farah
+
+[06184.13916]
+Oui !
+Entrée comment, d’ailleurs ?
+
+[06184.13952]
+Non.
+C’est le héros de Tales of Eternia
+
+[06184.13998]
+... Hein ?
+
+[06184.14009]
+Non.
+C’est un personnage
+de Tales of Destiny
+
+[06184.14072]
+Non.
+C’est un personnage
+de Tales of Eternia
+
+[06184.14133]
+Irruption... ?
+
+[06184.14150]
+Quelqu’un d’inattendu
+
+[06184.14177]
+Le plat ultime appris au
+bazar du village ninja ?
+
+[06184.14239]
+Oden miso
+
+[06184.14250]
+Fondue
+
+[06184.14259]
+Matelote
+
+[06184.14270]
+Ragoût de bœuf
+
+[06184.14285]
+Radis
+
+[06184.14294]
+Conserve
+
+[06184.14303]
+Oui !
+Tout récupérer :
+quel plat, non ?
+
+[06184.14354]
+... Tout cru ?
+
+[06184.14373]
+... Ce n’est pas un plat, ça...
+
+[06184.14406]
+Ne fais pas que manger :
+apprends à cuisiner, {NAME:01 00 00 00} ?
+
+[06184.14463]
+Quel bien de troc vole-t-on
+au monstre « Treant » ?
+
+[06184.14527]
+Ébène
+
+[06184.14536]
+Sauge
+
+[06184.14543]
+Savourée
+
+[06184.14552]
+Tasse à thé
+
+[06184.14565]
+Shamisen
+
+[06184.14576]
+Bûche sacrée
+
+[06184.14593]
+Racine
+
+[06184.14600]
+Non.
+C’est un objet de croissance
+
+[06184.14634]
+Non.
+Objet de croissance
+
+[06184.14662]
+Non.
+Ça s’obtient
+d’une Banshee
+
+[06184.14705]
+Non.
+Ça s’obtient d’un
+Maître ninja
+
+[06184.14750]
+Non.
+Un objet très précieux
+
+[06184.14780]
+... Et... tu en ferais quoi ?
+
+[06184.14811]
+... Un peu difficile ?
+
+[06184.14840]
+Bart Klein étudie les sylphes.
+De qui est-il le père ?
+
+[06184.14896]
+Mint
+
+[06184.14903]
+Cress
+
+[06184.14910]
+Chester
+
+[06184.14921]
+Claus
+
+[06184.14930]
+Suzu
+
+[06184.14935]
+{NAME:01 00 00 00}, ton père, c’est Stahn !
+
+[06184.14969]
+Trop tard...
+
+[06184.14986]
+Avec tout juste 100 monstres
+rencontrés, quel titre porte
+l’objet « Bestiaire » ?
+
+[06184.15108]
+Encyclopédie
+
+[06184.15125]
+Grand bestiaire
+
+[06184.15144]
+Somme des monstres
+
+[06184.15163]
+Bestiaire
+
+[06184.15178]
+Guide
+
+[06184.15193]
+Imagier
+
+[06184.15210]
+Jolis monstres
+
+[06184.15229]
+Non.
+C’est avec davantage
+
+[06184.15263]
+Non.
+C’est le titre final
+
+[06184.15295]
+Non.
+Le premier titre
+
+[06184.15319]
+... Mmh, presque
+
+[06184.15342]
+Réfléchis, tu trouveras
+
+[06184.15369]
+Sur les traces de Morrison, dans
+les catacombes, Cress monte sur
+une plate-forme flottante.
+Que dit-il alors ?
+
+[06184.15491]
+Ça flotte... la classe
+
+[06184.15514]
+Ça flotte... wouah !
+
+[06184.15535]
+Ça flotte... hein !?
+
+[06184.15558]
+Ça flotte... ça ira !
+
+[06184.15581]
+Ça flotte... oh
+
+[06184.15598]
+Une chute fait mal, et il
+reste si insouciant...
+
+[06184.15650]
+Jamir, le démon qui manipulait
+le prince Laird d’Alvanista :
+quelle forme avait-il prise
+pour se cacher ?
+
+[06184.15760]
+Oiseau
+
+[06184.15767]
+Conseiller
+
+[06184.15778]
+Bonne
+
+[06184.15785]
+Loup
+
+[06184.15790]
+Chat
+
+[06184.15795]
+Galago
+
+[06184.15812]
+Quel anneau scelle le pacte
+avec Pluto, le puissant roi
+des enfers ?
+
+[06184.15889]
+Anneau émeraude
+
+[06184.15906]
+Anneau de diamant
+
+[06184.15925]
+Anneau saphir
+
+[06184.15942]
+Anneau rubis
+
+[06184.15955]
+Anneau turquoise
+
+[06184.15972]
+Cet anneau
+sert au pacte
+avec Origin
+
+[06184.16021]
+Cet anneau
+sert au pacte avec
+le diablotin Gremlin Lair
+
+[06184.16086]
+Cet anneau
+sert au pacte
+avec Gnome
+
+[06184.16133]
+Cet anneau
+sert au pacte
+avec Maxwell
+
+[06184.16186]
+Dans le mini-jeu PlayStation
+GROOVY Arche, combien de points
+valent à Arche le titre
+« GROOVY » ?
+
+[06184.16312]
+200 000
+
+[06184.16321]
+100 000
+
+[06184.16330]
+300 000
+
+[06184.16339]
+400 000
+
+[06184.16348]
+500 000
+
+[06184.16357]
+Voici des titres de guérisseuse
+que Mint peut obtenir.
+Lequel est du rang
+le plus élevé ?
+
+[06184.16463]
+Pape
+
+[06184.16470]
+Cardinal
+
+[06184.16483]
+Évêque
+
+[06184.16494]
+Prêtre
+
+[06184.16505]
+Clerc
+
+[06184.16516]
+Ce titre est celui de la plus
+grande guérisseuse. Mint
+doit être niveau 80
+pour le porter.
+
+[06184.16607]
+Ce titre va aux
+guérisseuses d’élite, mais il
+en existe de plus élevés.
+
+[06184.16692]
+Sur PlayStation, quel ultime
+arte de l’école Albane Cress
+apprend-il avec le titre
+« Héritier des arcanes » ?
+
+[06184.16806]
+Envol noir
+
+[06184.16817]
+Faille
+
+[06184.16824]
+Lame-temps
+
+[06184.16835]
+Danse vive
+
+[06184.16846]
+L’arte que Miguel, son père,
+montra une seule fois à
+Cress enfant
+
+[06184.16913]
+À la Grotte de l’épreuve,
+le nom du quatrième
+ninja ?
+
+[06184.16982]
+Juzo
+
+[06184.16993]
+Sasuke
+
+[06184.17000]
+Mézigue
+
+[06184.17009]
+Katz
+
+[06184.17018]
+Non. Lui, c’est le premier
+
+[06184.17045]
+Non. Lui, c’est le dernier
+
+[06184.17072]
+... Un nom ?
+
+[06184.17087]
+... Un Katz n’est pas ninja
+
+[06184.17116]
+Quel objet permet de diriger
+un allié directement
+à la manette ?
+
+[06184.17185]
+Channeling
+
+[06184.17198]
+Anneau sorcier
+
+[06184.17215]
+Anneau technique
+
+[06184.17232]
+Anneau d’élan
+
+[06184.17247]
+Anneau synchro
+
+[06184.17262]
+Non. Tu en as un, {NAME:01 00 00 00} :
+tu sais bien que non ?
+
+[06184.17313]
+Non. Cet objet permet de
+se diriger soi-même
+
+[06184.17369]
+Non. Cet objet permet
+de foncer
+
+[06184.17415]
+Non. Cet objet n’existe pas
+
+[06184.17446]
+Le nom complet de
+Cress, le héros ?
+
+[06184.17486]
+Cress Albane
+
+[06184.17505]
+Cress Barklight
+
+[06184.17526]
+Cress Adnade
+
+[06184.17545]
+Cress F. Lester
+
+[06184.17566]
+Cress Klein
+
+[06184.17583]
+Cress Fuji
+
+[06184.17594]
+Non. « Barklight », c’est
+le nom de Chester
+
+[06184.17640]
+Non. « Adnade », c’est
+le nom de Mint
+
+[06184.17680]
+Non. « F. Lester », c’est
+le nom de Claus
+
+[06184.17724]
+Non. « Klein », c’est
+le nom d’Arche
+
+[06184.17764]
+... C’est le nom de Suzu
+... exprès, peut-être ?
+
+[06184.17814]
+Un peu difficile ?
+
+[06184.17841]
+Quel esprit habite Yggdrasil,
+l’arbre du monde ?
+
+[06184.17891]
+Martel
+
+[06184.17900]
+Mattel
+
+[06184.17909]
+Undine
+
+[06184.17922]
+Sylph
+
+[06184.17929]
+Ifrit
+
+[06184.17940]
+Aska
+
+[06184.17947]
+Non. L’esprit de l’eau
+
+[06184.17972]
+Non. L’esprit du vent
+
+[06184.17997]
+Non. L’esprit du feu
+
+[06184.18022]
+Non. L’esprit de lumière
+
+[06184.18047]
+La guerre de la fin, jadis
+menée par Fenrir et Odin :
+comment les elfes
+la nomment-ils ?
+
+[06184.18145]
+Ragnarok
+
+[06184.18156]
+Ciel-Sol
+
+[06184.18165]
+Valhalla
+
+[06184.18180]
+Duel kaiju
+
+[06184.18191]
+Oui !
+Tu en sais, des choses
+
+[06184.18224]
+Ça, c’est l’histoire du monde
+où nous vivons...
+
+[06184.18272]
+... Trop de livres étranges ?
+
+[06184.18303]
+{NAME:01 00 00 00}, pas fort en histoire
+
+[06184.18331]
+Quelle épée magique commande
+au temps et à l’espace ?
+
+[06184.18391]
+Épée éternelle
+
+[06184.18408]
+Épée d’Eternia
+
+[06184.18425]
+Excalibur
+
+[06184.18440]
+Arc Wind
+
+[06184.18455]
+Gantelets
+
+[06184.18468]
+Dymlos
+
+[06184.18479]
+Oui !
+Elle a scellé le saut
+de Dhaos dans le temps
+
+[06184.18532]
+Presque, mais non
+
+[06184.18555]
+Non.
+C’est bien une épée, mais...
+
+[06184.18591]
+Non.
+C’est une lance
+
+[06184.18615]
+Non.
+Une armure
+
+[06184.18635]
+Épée magique... Pas très
+poli pour Dymlos ?
+
+[06184.18679]
+Quel était le vrai trésor
+du pirate Aifread ?
+
+[06184.18731]
+Robe de Rosania
+
+[06184.18748]
+Torche verte
+
+[06184.18763]
+Heaume d’or
+
+[06184.18780]
+N.G.
+
+[06184.18787]
+Hallebarde bénie
+
+[06184.18804]
+Konjac
+
+[06184.18815]
+Oui !
+La robe de sa femme, plus
+grand trésor : c’est beau
+
+[06184.18874]
+Non. Un trésor aussi, mais
+
+[06184.18903]
+Ça se trouve facilement, non ?
+
+[06184.18934]
+Le nom du grand-père de Suzu ?
+
+[06184.18965]
+Ranz
+
+[06184.18970]
+Dozo
+
+[06184.18975]
+Okiyo
+
+[06184.18982]
+Papy
+
+[06184.18991]
+Non. C’est le nom de son père
+
+[06184.19022]
+Non. C’est le nom de sa mère
+
+[06184.19053]
+... C’est son nom que
+je demande...
+
+[06184.19089]
+C’était un Katz ?
+
+[06184.19108]
+... Tu es sérieux ?
+
+[06184.19131]
+Trop tard. Il faut réviser
+
+[06184.19162]
+Qui est le petit-enfant du
+petit-enfant du petit-enfant
+d’Edward D. Morrison ?
+
+[06184.19244]
+Harold
+
+[06184.19253]
+Trinicus
+
+[06184.19264]
+Dhaos
+
+[06184.19271]
+Bernard
+
+[06184.19282]
+Earl Grey
+
+[06184.19295]
+Oui !
+Rien à voir avec
+notre {NAME:06 00 00 00}, bien sûr
+
+[06184.19347]
+Hi hi, piégé. Ça, c’est deux
+« petit-enfant » ; j’en ai dit trois
+
+[06184.19413]
+Non. Quelqu’un d’autre
+
+[06184.19436]
+... C’était ça, déjà ?
+
+[06184.19463]
+Non. Il n’existe pas
+
+[06184.19490]
+Non.
+Ce n’est pas un nom de thé ?
+
+[06184.19526]
+C’était un peu méchant ?
+
+[06184.19553]
+Le nom de la mère de Mint ?
+
+[06184.19586]
+Meryl Adnade
+
+[06184.19605]
+Maria Albane
+
+[06184.19624]
+Meryl Albane
+
+[06184.19643]
+Maryl Adnade
+
+[06184.19662]
+Marin Adred
+
+[06184.19681]
+Rutee Katrea
+
+[06184.19702]
+Oui !
+Même morte, elle a toujours
+veillé sur sa fille...
+
+[06184.19761]
+Non. C’est la mère de Cress
+
+[06184.19790]
+... Mmh, presque
+
+[06184.19809]
+Proche, mais non
+
+[06184.19826]
+Un peu à côté...
+
+[06184.19847]
+C’est la mère de {NAME:01 00 00 00}...
+
+[06184.19875]
+Trop tard...
+
+[06184.19896]
+Le grand récit annexe, un amour
+à travers le temps : qui ?
+
+[06184.19956]
+Nancy et Elwin
+
+[06184.19977]
+Cress et Mint
+
+[06184.19992]
+Bobby et Mary
+
+[06184.20009]
+Gon, Omatsu
+
+[06184.20022]
+Chester et Arche
+
+[06184.20043]
+{NAME:01 00 00 00}, {NAME:02 00 00 00}
+
+[06184.20056]
+Oui !
+Selon leur amour, leurs
+descendants changent
+
+[06184.20117]
+Récit annexe... hein ?
+
+[06184.20142]
+Qui ça ?
+
+[06184.20153]
+Un conte de quel pays, ça ?
+
+[06184.20186]
+... R-raté...
+
+[06184.20205]
+Pas ton genre, {NAME:01 00 00 00} ?
+
+[06184.20231]
+Flamberg incarne quoi ?
+
+[06184.20264]
+Flamberge
+
+[06184.20279]
+Brambald
+
+[06184.20292]
+Sylvarant
+
+[06184.20307]
+Épée vorpale
+
+[06184.20324]
+Diamant
+
+[06184.20337]
+Heimdall
+
+[06184.20350]
+Teseara
+
+[06184.20359]
+Kharlan
+
+[06184.20370]
+Oui !
+Épée de feu, une
+des 3 reliques
+
+[06184.20409]
+Non. C’est le chef des elfes
+
+[06184.20438]
+Non. C’est la grande lune
+du ciel
+
+[06184.20480]
+Non. Épée de glace,
+une des 3 reliques
+
+[06184.20520]
+Non. Anneau de pacte,
+l’une des 3 reliques
+
+[06184.20564]
+Non. C’est le sanctuaire
+des elfes
+
+[06184.20600]
+Non. La petite lune
+du ciel
+
+[06184.20636]
+Non. Un autre nom
+d’Yggdrasil
+
+[06184.20672]
+Lis bien les noms
+
+[06184.20693]
+Le nom de la femme qui vit avec
+Claus et l’assiste ?
+
+[06184.20749]
+Mirald
+
+[06184.20758]
+Marin
+
+[06184.20765]
+Hollande
+
+[06184.20774]
+Ganache
+
+[06184.20785]
+Emily
+
+[06184.20792]
+Edward
+
+[06184.20803]
+Dolmira
+
+[06184.20812]
+Lutze
+
+[06184.20819]
+Oui !
+C’est aussi son
+amie d’enfance
+
+[06184.20858]
+Non. Réfléchis mieux
+
+[06184.20883]
+Non. Une bonne au
+service du château
+
+[06184.20925]
+Un nom de femme ?
+
+[06184.20946]
+À la guilde des aventuriers
+d’Alvanista, on peut voir un
+concert. De qui ?
+
+[06184.21027]
+Yo-mi
+
+[06184.21034]
+DEEN
+
+[06184.21043]
+GARNET CROW
+
+[06184.21065]
+M.Kuraki
+
+[06184.21074]
+Oui !
+C’est elle qui chante
+le générique
+
+[06184.21121]
+Non. {NAME:01 00 00 00}, ton père ne t’a
+jamais rien raconté ?
+
+[06184.21172]
+Non. Eux chantent
+le générique d’Eternia
+
+[06184.21230]
+... {NAME:01 00 00 00}, tu dors
+pendant le générique ?
+
+[06184.21283]
+Mmh, j’aimerais assez
+entendre ça, mais...
+
+[06184.21329]
+Emblème des guérisseurs, vu
+des seules vierges pures.
+Quel animal légendaire ?
+
+[06184.21408]
+Licorne
+
+[06184.21419]
+Pégase
+
+[06184.21428]
+Narval
+
+[06184.21437]
+Gnome
+
+[06184.21452]
+Oui !
+Au bois de bouleaux
+
+[06184.21484]
+... Mmh, presque.
+Un animal de légende aussi...
+
+[06184.21534]
+Non. Ça, on en croise
+sans peine, non ?
+
+[06184.21576]
+Raté. Esprit de la terre
+
+[06184.21601]
+{NAME:03 00 00 00} n’est pas un animal.
+Il aime les filles, certes...
+
+[06184.21659]
+Trop tard...
+
+[06184.21680]
+La langue des anciens elfes :
+« Primal... » quoi ?
+
+[06184.21742]
+Elven Roar
+
+[06184.21759]
+Elron Hair
+
+[06184.21776]
+Jitsmon Sheer
+
+[06184.21793]
+Elven Ronofu
+
+[06184.21812]
+Jilmon Jitter
+
+[06184.21829]
+Jikogen Badder
+
+[06184.21846]
+Oui !
+Tu le savais bien
+
+[06184.21870]
+... Ce n’est pas ça, non ?
+
+[06184.21897]
+Révisons encore un peu
+
+[06184.21920]
+Le mini-jeu avec Arche pour
+héroïne, à la cité antique
+de Thor, s’appelle ?
+
+[06184.21999]
+GROOVY Arche
+
+[06184.22020]
+Arche magique
+
+[06184.22037]
+GO ! GO ! Arche
+
+[06184.22058]
+SUPER Arche
+
+[06184.22077]
+Arche, duel aérien
+
+[06184.22096]
+Arche dans le ciel
+
+[06184.22115]
+Arche danse
+
+[06184.22134]
+Cibles de Chester
+
+[06184.22153]
+Oui !
+Un jeu de tir
+plutôt amusant
+
+[06184.22202]
+Non. {NAME:01 00 00 00},
+tu aimes ce genre-là ?
+
+[06184.22239]
+Non. L’idée y est,
+pourtant...
+
+[06184.22285]
+Non. Un titre un peu
+plus classe, peut-être ?
+
+[06184.22331]
+... Tu dis au hasard ?
+
+[06184.22354]
+Non. Ce n’est pas ce
+genre de jeu
+
+[06184.22394]
+... J’ai dit qu’Arche
+en est l’héroïne...
+
+[06184.22436]
+Quel plat rare ne se mange
+qu’au village de Totus ?
+
+[06184.22490]
+Curry mapo
+
+[06184.22505]
+Bortsch
+
+[06184.22514]
+Onigiri
+
+[06184.22523]
+Pescatore
+
+[06184.22536]
+Riz hayashi
+
+[06184.22549]
+Oui !
+Chez nous, pourtant, c’est
+un plat très courant
+
+[06184.22604]
+Non. Un plat rare,
+à sa façon, mais...
+
+[06184.22648]
+Non. Ça, chacun sait
+le faire
+
+[06184.22684]
+Non. Tu le connais
+depuis le début...
+
+[06184.22728]
+Non. Un plat peu
+courant, mais...
+
+[06184.22766]
+{NAME:01 00 00 00}, tu ne penses
+qu’à manger...
+
+[06184.22807]
+Les elfes réparent l’« Arc brisé ».
+Quel arc devient-il alors ?
+
+[06184.22885]
+Arc elfique
+
+[06184.22898]
+Arc sans pitié
+
+[06184.22913]
+Flèche berserk
+
+[06184.22930]
+Aqua Sfred
+
+[06184.22947]
+Arc-ange
+
+[06184.22956]
+Trop tard...
+Ils le réparent pour 20 000 Gald
+
+[06184.23010]
+Grotte obscure : quel objet
+n’en éclaire pas les ténèbres ?
+
+[06184.23072]
+Soleil jaune
+
+[06184.23085]
+Bougie bleue
+
+[06184.23102]
+Lanterne rouge
+
+[06184.23117]
+Le pirate Aifread :
+quel était à ses yeux
+le plus beau trésor ?
+
+[06184.23188]
+Sa femme
+
+[06184.23197]
+Marins
+
+[06184.23204]
+Navire
+
+[06184.23211]
+Or
+
+[06184.23216]
+Jade
+
+[06184.23221]
+Oui.
+Amour...
+
+[06184.23235]
+Non.
+Mais il devait y tenir...
+
+[06184.23275]
+Lone Valley du passé :
+pourquoi y est-on allé ?
+
+[06184.23323]
+Un pacte avec Sylph
+
+[06184.23344]
+Mesurer le vent
+
+[06184.23363]
+Arme légendaire
+
+[06184.23382]
+Une épreuve
+
+[06184.23395]
+Sur demande
+
+[06184.23410]
+Non.
+Mais le vent y souffle fort...
+
+[06184.23450]
+Une fois Suzu recrutée,
+parle à l’homme devant l’épicerie
+d’Olive Village :
+que t’offre-t-il à manger ?
+
+[06184.23554]
+Vrai curry
+
+[06184.23567]
+Spaghettis
+
+[06184.23578]
+Bœuf Stroganoff
+
+[06184.23597]
+Natto
+
+[06184.23606]
+Non.
+Les amateurs en raffolent...
+
+[06184.23650]
+Au tournoi du château d’Euclid, quel
+duo surgit dans une bourrasque ?
+
+[06184.23722]
+Dozo & Okiyo
+
+[06184.23735]
+Dozo & Oshin
+
+[06184.23748]
+Sakuzo&Okiyo
+
+[06184.23761]
+Sakuzo&Oshin
+
+[06184.23774]
+Dozo&Kinzo
+
+[06184.23785]
+Oshin & Omiyo
+
+[06184.23800]
+Trop tard...
+Ces deux-là sont les
+parents de Suzu...
+
+[06184.23853]
+Grotte obscure : l’ombre sert
+d’aiguille d’horloge.
+La stèle dit d’allumer le
+feu à quelle heure ?
+
+[06184.23953]
+4 h 48
+
+[06184.23964]
+5 h 02
+
+[06184.23973]
+12 h 00
+
+[06184.23986]
+8 h 30
+
+[06184.23997]
+00 h 00
+
+[06184.24010]
+Non.
+Ça, c’est midi pile...
+
+[06184.24046]
+Non.
+Là, la date change...
+
+[06184.24076]
+Où faut-il se rendre
+pour faire apparaître
+le trésor d’Aifread ?
+
+[06184.24155]
+Dhaos
+
+[06184.24164]
+Palais Midgard
+
+[06184.24179]
+Tour astrale
+
+[06184.24192]
+Morrison
+
+[06184.24205]
+Village elfe
+
+[06184.24218]
+Non.
+Là vivait la lignée du
+grand guérisseur Morrison
+
+[06184.24273]
+Trésor d’Aifread :
+combien de lieux ?
+
+[06184.24313]
+22
+
+[06184.24318]
+20
+
+[06184.24323]
+25
+
+[06184.24328]
+30
+
+[06184.24333]
+120
+
+[06184.24340]
+Arche a enfreint la loi des elfes
+et allait être exécutée. Qui a
+supplié qu’on l’épargne ?
+
+[06184.24435]
+Logeuse
+
+[06184.24444]
+Armurière
+
+[06184.24455]
+Heaumier
+
+[06184.24466]
+Barman
+
+[06184.24475]
+Petit commis
+
+[06184.24488]
+Oui !
+Eh oui. Cette femme était
+la mère d’Arche...
+
+[06184.24551]
+Bats le champion du jeu des
+pierres : tu gagnes le titre
+« Champion ». Et lui, quel
+nom porte-t-il alors ?
+
+[06184.24661]
+Ex-champion
+
+[06184.24676]
+Vieux champion
+
+[06184.24691]
+Vrai champion
+
+[06184.24706]
+Premier champion
+
+[06184.24723]
+Champion passé
+
+[06184.24738]
+Oui !
+Si on le bat, il réclame
+sa revanche
+
+[06184.24781]
+Quel arte de Suzu vole des
+objets aux monstres ?
+
+[06184.24849]
+Mirage
+
+[06184.24856]
+Abri
+
+[06184.24861]
+Vent
+
+[06184.24866]
+Jiraya
+
+[06184.24873]
+Écho
+
+[06184.24878]
+Cet arte
+sert à fuir l’ennemi
+
+[06184.24916]
+Cet arte
+frappe de lames d’air
+
+[06184.24960]
+Cet arte
+frappe avec un crapaud géant
+
+[06184.25008]
+Cet arte
+crée des doubles de Suzu
+
+[06184.25054]
+Lequel de ces objets
+n’existe pas en réalité ?
+
+[06184.25108]
+Précis
+
+[06184.25121]
+Mah-jong
+
+[06184.25132]
+Recommandation
+
+[06184.25149]
+Carton rouge
+
+[06184.25162]
+Cartes
+
+[06184.25171]
+Oui !
+Il y avait bien un « Permis »
+
+[06184.25211]
+Lequel de ces monstres
+n’existe pas en réalité ?
+
+[06184.25267]
+DEADEYE?
+
+[06184.25284]
+DARKEYE?
+
+[06184.25301]
+ROAMEYE?
+
+[06184.25318]
+SEALEYE?
+
+[06184.25335]
+Quel titre vient de
+l’entraînement de Chester à
+l’auberge, dans le futur ?
+
+[06184.25412]
+Bûcheur
+
+[06184.25423]
+Appliqué
+
+[06184.25436]
+Acharné
+
+[06184.25449]
+Maître archer
+
+[06184.25464]
+Le nom de la tante
+de Cress ?
+
+[06184.25502]
+Juan
+
+[06184.25511]
+Joan
+
+[06184.25520]
+Jaan
+
+[06184.25529]
+Maria
+
+[06184.25536]
+Marima
+
+[06184.25543]
+Arima
+
+[06184.25550]
+Aria
+
+[06184.25557]
+Meke
+
+[06184.25562]
+De quel objet Chester
+a-t-il besoin pour le
+titre « Gentil frangin » ?
+
+[06184.25638]
+Pomme
+
+[06184.25645]
+Gelée pomme
+
+[06184.25658]
+Mandarine
+
+[06184.25671]
+Gelée orange
+
+[06184.25684]
+Le plat rare que seule
+Ami sait préparer ?
+
+[06184.25728]
+Sandwich
+
+[06184.25741]
+Tofu mapo
+
+[06184.25756]
+Curry Moana
+
+[06184.25769]
+Cress va chez son oncle d’Euclid
+par la montagne. Qu’est-ce
+qui bouche l’entrée nord du chemin ?
+
+[06184.25868]
+Moaï
+
+[06184.25873]
+Roc
+
+[06184.25878]
+Trou
+
+[06184.25883]
+Pin
+
+[06184.25888]
+À Euclid, quel plat enseigne
+le cuisinier de l’épicerie
+« Marion » ?
+
+[06184.25971]
+Chou farci
+
+[06184.25986]
+Yakisoba-pan
+
+[06184.25999]
+Udon Sanuki
+
+[06184.26012]
+Enfermé au cachot,
+Cress a vu un cadavre.
+C’était celui de qui ?
+
+[06184.26083]
+Mme Adnade
+
+[06184.26094]
+Sakuraba
+
+[06184.26103]
+Chef
+
+[06184.26108]
+Son oncle
+
+[06184.26121]
+L’homme que traquait Morrison
+avait quelle allure ?
+
+[06184.26177]
+Acier noir
+
+[06184.26188]
+Masque rouge
+
+[06184.26201]
+Cheveux d’or
+
+[06184.26214]
+Barbe azur
+
+[06184.26225]
+Le nom de l’homme que
+traquait Morrison ?
+
+[06184.26269]
+Mars Uldole
+
+[06184.26288]
+Robert Dace
+
+[06184.26305]
+Barbatos Goetia
+
+[06184.26328]
+Claus F. Lester
+
+[06184.26350]
+Que faut-il pour desceller
+la porte qui mène
+aux catacombes ?
+
+[06184.26415]
+Rubis Wraith
+
+[06184.26428]
+Saphir Wraith
+
+[06184.26445]
+Or Wraith
+
+[06184.26460]
+Topaze Wraith
+
+[06184.26475]
+Quel chef a fondé
+le village de Belladam ?
+
+[06184.26525]
+Lenios
+
+[06184.26534]
+Kitamori
+
+[06184.26543]
+Demitel
+
+[06184.26552]
+Kanbara
+
+[06184.26563]
+En montagne, le panneau
+qu’on peut lire dans
+le passé dit quoi ?
+
+[06184.26632]
+Nord : danger !
+
+[06184.26651]
+Est : danger !
+
+[06184.26670]
+Ouest : danger !
+
+[06184.26689]
+Sud : danger !
+
+[06184.26708]
+À quelle condition Claus,
+l’invocateur, se joint-il ?
+
+[06184.26764]
+Aider sa recherche
+
+[06184.26783]
+Le nourrir à satiété
+
+[06184.26806]
+Aller vaincre un monstre
+
+[06184.26833]
+Danser pour lui
+
+[06184.26850]
+Que faut-il pour s’enfoncer
+dans Lone Valley ?
+
+[06184.26906]
+Corde et pioche
+
+[06184.26923]
+Pelle et seau
+
+[06184.26940]
+Canard jouet
+
+[06184.26957]
+Foreuse
+
+[06184.26966]
+Où est le cuisinier qui
+enseigne le pain perdu ?
+
+[06184.27026]
+Hamel sous le pont
+
+[06184.27047]
+Venezia sur le pont
+
+[06184.27068]
+Euclid près du pont
+
+[06184.27091]
+Otsuka après le pont
+
+[06184.27112]
+Que faut-il pour un pacte
+avec Sylph ?
+
+[06184.27160]
+Anneau d’opale
+
+[06184.27175]
+Épée
+
+[06184.27182]
+Collier or
+
+[06184.27193]
+Or
+
+[06184.27198]
+Quelle force, vitale aux
+esprits en ce monde, est
+la source de la magie ?
+
+[06184.27273]
+Mana
+
+[06184.27278]
+Kana
+
+[06184.27283]
+Luna
+
+[06184.27288]
+Lina
+
+[06184.27293]
+Qui est l’unique survivant
+de Hamel, ville détruite ?
+
+[06184.27349]
+Rhea
+
+[06184.27354]
+Lisa
+
+[06184.27359]
+Linda
+
+[06184.27366]
+À Venezia, comment aller aux
+boutiques d’armes et d’armures ?
+
+[06184.27430]
+Le bac, pour 30 Gald
+
+[06184.27455]
+Le bac, pour 2 Gald
+
+[06184.27478]
+Le bac, pour 400 Gald
+
+[06184.27505]
+Le bac, pour 5 000 Gald
+
+[06184.27534]
+Que reçoit-on pour avoir
+sauvé Arche ?
+
+[06184.27582]
+Aigue-marine, rubis
+
+[06184.27603]
+Alliance
+
+[06184.27612]
+Mot secret
+
+[06184.27625]
+Qui obtient le titre
+« Soiffard » ?
+
+[06184.27667]
+À Alvanista, où obtient-on
+le permis d’accès à
+la mine de Moria ?
+
+[06184.27736]
+Guilde « Panic »
+
+[06184.27761]
+Guilde « Cossack »
+
+[06184.27786]
+Guilde « Trick »
+
+[06184.27811]
+Guilde « Trip »
+
+[06184.27836]
+Qui vend le mot secret
+nécessaire pour aller à
+la Grotte des esprits ?
+
+[06184.27907]
+Sakuraya
+
+[06184.27917]
+Rokuraba
+
+[06184.27926]
+Sakuroba
+
+[06184.27935]
+Une « Fiole runique » change une
+« Cape de cuir » en quoi ?
+
+[06184.28009]
+Cape d’onde
+
+[06184.28022]
+Cape surprise
+
+[06184.28037]
+Cape étoile
+
+[06184.28050]
+Cape de feu
+
+[06184.28067]
+Combien de Gald pour avoir
+les quatre coffres de la réserve
+du bazar « Tenderloin » ?
+
+[06184.28160]
+230 000 Gald
+
+[06184.28179]
+10 000 Gald
+
+[06184.28196]
+500 Gald
+
+[06184.28209]
+198 000 Gald
+
+[06184.28228]
+Une « Fiole runique »
+change une « Cape »
+en quel objet ?
+
+[06184.28301]
+Cape ardente
+
+[06184.28314]
+Cape de foudre
+
+[06184.28329]
+Cape élémentaire
+
+[06184.28348]
+Que fait une Fiole de panacée ?
+
+[06184.28385]
+Soin d’altérations
+
+[06184.28404]
+Rend TP
+
+[06184.28413]
+Rend HP
+
+[06184.28422]
+Attaque +
+
+[06184.28433]
+Quel objet, une fois équipé, permet
+le contrôle manuel en combat, idéal
+pour sauts verticaux et combos ?
+
+[06184.28540]
+Compteur combo
+
+[06184.28557]
+Bague de fiancée
+
+[06184.28574]
+Quel objet permet d’afficher
+les combos dans « Perso » ?
+
+[06184.28636]
+Compteur technique
+
+[06184.28657]
+Maître combo
+
+[06184.28672]
+Que collectionnait
+Edward ?
+
+[06184.28716]
+Écaille basilic
+
+[06184.28733]
+Lens
+
+[06184.28740]
+Gelée thon
+
+[06184.28751]
+Balai
+
+[06184.28758]
+Le nom de la mère
+d’Arche ?
+
+[06184.28794]
+Luche
+
+[06184.28803]
+Rutie
+
+[06184.28814]
+Fruche
+
+[06184.28825]
+Tour astrale, 5e étage :
+quel chant faut-il ?
+
+[06184.28873]
+Sombre
+
+[06184.28880]
+Paisible
+
+[06184.28889]
+Vaillant
+
+[06184.28900]
+Joyeux
+
+[06184.28909]
+En souvenir d’Edward,
+qu’est-ce qu’Arche
+reçoit de Leisen ?
+
+[06184.28982]
+Grimoire d’Indignation
+
+[06184.29007]
+Photo souvenir
+
+[06184.29022]
+Alliance
+
+[06184.29033]
+Sangle maudite
+
+[06184.29048]
+Qu’obtient-on en
+échange d’un « Melon »
+et d’une « Algue » ?
+
+[06184.29111]
+Carton vert
+
+[06184.29126]
+Carton jaune
+
+[06184.29141]
+Carton noir
+
+[06184.29156]
+Le petit-enfant de
+Trinicus D. Morrison ?
+
+[06184.29199]
+Aifread
+
+[06184.29212]
+À l’église de Fenrir, qui
+vend l’« Amulette de feu »
+et l’« Amulette de glace » ?
+
+[06184.29304]
+Âme
+
+[06184.29309]
+Abbé
+
+[06184.29314]
+Sœur
+
+[06184.29323]
+Colporteur
+
+[06184.29334]
+Le nom du père de Suzu ?
+
+[06184.29363]
+Hanz
+
+[06184.29368]
+Quel animal se glisse dans les
+épiceries « Marion » et
+« Ajio », à Euclid ?
+
+[06184.29459]
+Lapin
+
+[06184.29466]
+Chat
+
+[06184.29471]
+Mulot
+
+[06184.29482]
+Le prof de piano de Chelsea,
+petite-fille du maire de Venezia ?
+
+[06184.29546]
+Aux bains du village ninja,
+qui a épié les femmes ?
+
+[06184.29614]
+Le chef
+
+[06184.29623]
+Le voyeur
+
+[06184.29634]
+Grotte de l’épreuve : quel ninja
+Suzu combat-elle en 5e ?
+

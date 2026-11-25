@@ -1,0 +1,49 @@
+[06632.001]
+Catacombes
+
+[06632.002]
+Catacombes
+
+[06632.004]
+Vous brûlez la toile d’araignée avec l’Anneau du sorcier.
+
+[06632.006]
+Une toile d’araignée barre le passage. L’ôter à la main paraît impossible.
+
+[06632.007]
+Bon voyage.
+
+[06632.008]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06632.009]
+Voulez-vous passer la nuit ?
+
+[06632.011]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06632.012]
+Reposez-vous bien.
+
+[06632.013]
+Bonjour.
+
+[06632.014]
+Vous n’avez pas assez d’argent.
+
+[06632.015]
+Au plaisir de vous revoir.
+
+[06632.020]
+Obtenu : {16:25 BA}.
+
+[06632.022]
+Obtenu : {08:FF FF FF FF}.
+
+[06632.024]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06632.026]
+Il n’y a rien ici.
+

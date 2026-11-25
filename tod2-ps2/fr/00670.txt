@@ -1,0 +1,12 @@
+[00670.001]
+Finalement, la fusée de {NAME:06 00 00 00}, elle est terminée ?
+
+[00670.002]
+Qui sait. L’achever en une nuit, cela paraît difficile à croire...
+
+[00670.003]
+Comment dire, elle est un peu spéciale, hein. Si elle et Karell sont jumeaux, elle a un certain âge, non ? Alors pourquoi elle a cette tête de gamine ? Elle... ce ne serait pas un robot, en fait ?
+
+[00670.004]
+Encore n’importe quoi. {NAME:06 00 00 00} est un peu spéciale, oui, mais mignonne et drôle. Tu t’y connais mal en femmes, toi.
+

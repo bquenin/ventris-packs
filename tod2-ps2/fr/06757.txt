@@ -1,0 +1,79 @@
+[06757.001]
+Village Katz : culture de Noko
+
+[06757.002]
+Village Katz
+
+[06757.003]
+Culture de Noko
+
+[06757.004]
+Noko
+
+[06757.005]
+No~
+
+[06757.006]
+Noko
+
+[06757.007]
+No !
+
+[06757.008]
+Noko
+
+[06757.009]
+No !
+
+[06757.011]
+Noko, noko, mia~
+
+[06757.012]
+Vendeur de champignons
+
+[06757.013]
+Un champignon de Noko, tu en manges, miou ?
+
+[06757.014]
+Katz
+
+[06757.015]
+J’en mange, miou
+
+[06757.016]
+Bon voyage.
+
+[06757.017]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06757.018]
+Voulez-vous passer la nuit ?
+
+[06757.020]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06757.021]
+Reposez-vous bien.
+
+[06757.022]
+Bonjour.
+
+[06757.023]
+Vous n’avez pas assez d’argent.
+
+[06757.024]
+Au plaisir de vous revoir.
+
+[06757.029]
+Obtenu : {16:25 CE}.
+
+[06757.031]
+Obtenu : {08:FF FF FF FF}.
+
+[06757.033]
+Trouvé : {16:25 D6}, mais vous n’avez plus de place.
+
+[06757.035]
+Il n’y a rien ici.
+

@@ -1,0 +1,61 @@
+[06526.001]
+Dragon volant : cœur
+
+[06526.002]
+Dragon volant
+
+[06526.003]
+Cœur
+
+[06526.005]
+Qu-qu’est-ce que c’est !?
+
+[06526.007]
+Privé de la force des Lentilles, le Dragon volant a commencé à descendre.
+
+[06526.009]
+Aah, je vois... Hé, ce n’est pas le moment d’en parler calmement ! On file d’ici, et vite !
+
+[06526.010]
+Bon voyage.
+
+[06526.011]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06526.012]
+Voulez-vous passer la nuit ?
+
+[06526.014]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06526.015]
+Reposez-vous bien.
+
+[06526.016]
+Bonjour.
+
+[06526.017]
+Vous n’avez pas assez d’argent.
+
+[06526.018]
+Au plaisir de vous revoir.
+
+[06526.023]
+Obtenu : {16:25 CA}.
+
+[06526.025]
+Obtenu : {08:FF FF FF FF}.
+
+[06526.027]
+Trouvé : {16:25 D2}, mais vous n’avez plus de place.
+
+[06526.029]
+Il n’y a rien ici.
+
+[06526.030]
+Temps écoulé
+
+[06526.032]
+Dispositif de contrôle détruit.
+

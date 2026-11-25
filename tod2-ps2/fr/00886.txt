@@ -1,0 +1,36 @@
+[00886.001]
+Dis, {NAME:04 00 00 00}. Papa et maman, quand tu voyageais avec eux, ils étaient comment ?
+
+[00886.002]
+Hm ? Comment ils étaient... eh bien...
+
+[00886.003]
+Toi, t’en pinçais pas un peu pour Rutee ? « Triangle fatal avec Stahn », haha...
+
+[00886.004]
+I-imbécile ! Elle, c’est ma... !!
+
+[00886.005]
+Hm ? Ta... quoi ?
+
+[00886.006]
+M-ma............ bête noire. Fruste comme elle est, sans une once de délicatesse...
+
+[00886.007]
+Quoiii ! Tu oses dire ça de ma Rutee !!
+
+[00886.008]
+« Ma » ?
+
+[00886.009]
+Ah... non... « m-ma... Rutee qui m’a servi de mère », je veux dire...
+
+[00886.010]
+Toi, alors, même la mère de {NAME:01 00 00 00} !!
+
+[00886.011]
+Hiii ! Ça te regarde pas, toi !!
+
+[00886.012]
+Pff...
+

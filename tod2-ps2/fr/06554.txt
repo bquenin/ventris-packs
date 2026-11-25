@@ -1,0 +1,173 @@
+[06554.001]
+Realta : distribution
+
+[06554.002]
+Realta, la Cité du crépuscule
+
+[06554.003]
+Distribution
+
+[06554.004]
+Habitant
+
+[06554.005]
+Merci beaucoup. Grâce à vous, ma mère pourra être rappelée au ciel sans encombre.
+
+[06554.007]
+Dis, RE-54609, c’est toi ?
+
+[06554.008]
+Habitant
+
+[06554.009]
+Pardon ? RE-54609, c’est bien mon nom, mais...
+
+[06554.011]
+Tant mieux. En fait, on a quelque chose pour toi de la part de ton père.
+
+[06554.012]
+Habitant
+
+[06554.013]
+C’est la Lentille de ma mère... Je vois... Ma mère est donc morte.
+
+[06554.015]
+Oui... Cette Lentille, c’est un souvenir d’elle, en somme.
+
+[06554.016]
+Habitant
+
+[06554.017]
+Merci d’être venus exprès me l’apporter. Euh, comment vous appelez-vous ?
+
+[06554.019]
+{NAME:01 00 00 00} Dunamis.
+
+[06554.020]
+Habitant
+
+[06554.021]
+{NAME:01 00 00 00}... c’est cela ? Voilà un nom bien singulier.
+
+[06554.022]
+Habitant
+
+[06554.023]
+En tout cas, merci beaucoup. Grâce à vous, ma mère pourra être rappelée au ciel.
+
+[06554.024]
+Habitant
+
+[06554.025]
+Allons, brisons la Lentille !
+
+[06554.027]
+Qu-qu’est-ce que tu fais ! Cette Lentille, c’est le souvenir de ta mère, non !
+
+[06554.028]
+Habitant
+
+[06554.029]
+Le corps périt et retourne à la terre... Et c’est seulement en rendant du même coup la Lentille au ciel que l’âme du mort peut retourner au néant.
+
+[06554.030]
+Habitant
+
+[06554.031]
+Ainsi, la Lentille passera à l’enfant qui naîtra ensuite. C’est bien naturel, non ?
+
+[06554.033]
+Et que ce soit fait de la main de l’enfant, telle est la coutume de ce monde...
+
+[06554.034]
+Habitant
+
+[06554.035]
+Merci beaucoup. Grâce à vous, ma mère pourra être rappelée au ciel sans encombre.
+
+[06554.036]
+Habitant
+
+[06554.037]
+Voici un petit quelque chose pour vous remercier. Prenez, je vous en prie.
+
+[06554.039]
+Obtenu : {08:09 00 00 00}.
+
+[06554.041]
+Dis, tu n’es pas triste ? Ta mère est morte, pourtant...
+
+[06554.042]
+Habitant
+
+[06554.043]
+Triste ? Pourquoi faudrait-il que je sois triste ?
+
+[06554.045]
+Il y a vraiment quelque chose qui cloche, dans ce monde...
+
+[06554.046]
+Habitant
+
+[06554.047]
+En vertu de la politique de régulation de la population de dame Elraine, j’ai été transféré de Speranza à Realta.
+
+[06554.048]
+Habitant
+
+[06554.049]
+J’ai été séparé de ma famille. Depuis mon transfert, je ne l’ai pas revue une seule fois.
+
+[06554.050]
+Machine-boutique
+
+[06554.051]
+Bienvenue. Que vous faut-il ?
+
+[06554.053]
+{03:00 00 00 00}　Objets　
+　Ingrédients　
+
+[06554.054]
+Machine-boutique
+
+[06554.055]
+Merci beaucoup.
+
+[06554.056]
+Bon voyage.
+
+[06554.057]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06554.058]
+Voulez-vous passer la nuit ?
+
+[06554.060]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06554.061]
+Reposez-vous bien.
+
+[06554.062]
+Bonjour.
+
+[06554.063]
+Vous n’avez pas assez d’argent.
+
+[06554.064]
+Au plaisir de vous revoir.
+
+[06554.069]
+Obtenu : {16:25 BA}.
+
+[06554.071]
+Obtenu : {08:FF FF FF FF}.
+
+[06554.073]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06554.075]
+Il n’y a rien ici.
+

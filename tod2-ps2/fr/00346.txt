@@ -1,0 +1,15 @@
+[00346.001]
+Pfiou~. N’empêche, « Calvalese », qu’est-ce qu’il y fait chaud.
+
+[00346.002]
+Ah bon ? Aujourd’hui, il fait plutôt frais, pourtant.
+
+[00346.003]
+Nous étions il y a peu encore à « Phandaria », le pays des neiges : ça doit accentuer l’impression.
+
+[00346.004]
+{NAME:03 00 00 00} et {NAME:04 00 00 00}, projetés directement de là-bas, ont dû être drôlement surpris.
+
+[00346.005]
+Moi aussi, en les ramassant. Des idiots aussi couverts, à Calvalese, du jamais-vu.
+

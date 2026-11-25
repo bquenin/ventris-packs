@@ -1,0 +1,55 @@
+[06779.001]
+Aqua Labyrinth
+
+[06779.002]
+Aqua Labyrinth
+
+[06779.004]
+Cette carte est plongée dans le noir.
+
+[06779.006]
+Sur cette carte, vous subissez des dégâts.
+
+[06779.008]
+Sur cette carte, les rencontres sont au maximum.
+
+[06779.010]
+Sur cette carte, le champ de vision est réduit.
+
+[06779.011]
+Bon voyage.
+
+[06779.012]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06779.013]
+Voulez-vous passer la nuit ?
+
+[06779.015]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06779.016]
+Reposez-vous bien.
+
+[06779.017]
+Bonjour.
+
+[06779.018]
+Vous n’avez pas assez d’argent.
+
+[06779.019]
+Au plaisir de vous revoir.
+
+[06779.024]
+Obtenu : {16:25 C2}.
+
+[06779.026]
+Obtenu : {08:FF FF FF FF}.
+
+[06779.028]
+Trouvé : {16:25 CA}, mais vous n’avez plus de place.
+
+[06779.030]
+Il n’y a rien ici.
+

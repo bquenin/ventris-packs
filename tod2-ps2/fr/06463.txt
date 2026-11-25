@@ -1,0 +1,124 @@
+[06463.001]
+Château de Heidelberg
+
+[06463.002]
+Château de Heidelberg
+
+[06463.004]
+... ! Zut ! Il n’y a déjà plus personne ici !
+
+[06463.006]
+J’y suis ! C’est aux Lentilles qu’ils en ont. À la masse de Lentilles gardée dans la réserve...
+
+[06463.008]
+Le roi Woodrow est en danger ! Allons-y, tout le monde !
+
+[06463.009]
+Soldat
+
+[06463.010]
+Oh, bienvenue ! Il est rare qu’on monte jusqu’ici.
+
+[06463.012]
+C’est... une cloche ? Elle est drôlement grosse.
+
+[06463.013]
+Soldat
+
+[06463.014]
+Oui, le roi d’avant le précédent l’a fait élever en symbole de paix. Elle a un son très pur, très beau.
+
+[06463.015]
+Soldat
+
+[06463.016]
+L’entretien de la cloche, c’est fastidieux et sans éclat, disent-ils tous... mais moi, ça me convient, on dirait.
+
+[06463.017]
+Soldat
+
+[06463.018]
+Et puis, d’ici, on voit toute la ville. Le soir, quand j’ai fini l’entretien et que je regarde, la fatigue de la journée s’envole.
+
+[06463.019]
+Soldat
+
+[06463.020]
+La cloche sonne à heures fixes : quand vous l’entendrez, prêtez l’oreille.
+
+[06463.021]
+Soldat
+
+[06463.022]
+Oh, bienvenue ! Il est rare qu’on monte jusqu’ici.
+
+[06463.024]
+C’est... une cloche ? Elle est drôlement grosse.
+
+[06463.025]
+Soldat
+
+[06463.026]
+Oui, le roi d’avant le précédent l’a fait élever en symbole de paix. Elle a un son très pur, très beau.
+
+[06463.027]
+Soldat
+
+[06463.028]
+L’entretien de la cloche, c’est fastidieux et sans éclat, disent-ils tous... mais moi, ça me convient, on dirait.
+
+[06463.029]
+Soldat
+
+[06463.030]
+Et puis, d’ici, on voit toute la ville. Le soir, quand j’ai fini l’entretien et que je regarde, la fatigue de la journée s’envole.
+
+[06463.031]
+Soldat
+
+[06463.032]
+La cloche sonne à heures fixes : quand vous l’entendrez, prêtez l’oreille.
+
+[06463.033]
+Soldat
+
+[06463.034]
+Pas de dialogue défini pour ce drapeau.
+
+[06463.035]
+Bon voyage.
+
+[06463.036]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06463.037]
+Voulez-vous passer la nuit ?
+
+[06463.039]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06463.040]
+Reposez-vous bien.
+
+[06463.041]
+Bonjour.
+
+[06463.042]
+Vous n’avez pas assez d’argent.
+
+[06463.043]
+Au plaisir de vous revoir.
+
+[06463.048]
+Obtenu : {16:25 BA}.
+
+[06463.050]
+Obtenu : {08:FF FF FF FF}.
+
+[06463.052]
+Trouvé : {16:25 C2}, mais vous n’avez plus de place.
+
+[06463.054]
+Il n’y a rien ici.
+

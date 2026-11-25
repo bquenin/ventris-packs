@@ -1,0 +1,43 @@
+[06728.001]
+Dycroft, il y a dix-huit ans
+
+[06728.002]
+Dycroft, il y a dix-huit ans
+
+[06728.003]
+Bon voyage.
+
+[06728.004]
+Cela fera {0B:01 00 00 00}{14:34 08}{0B:00 00 00 00} Gald. Voulez-vous passer la nuit ?
+
+[06728.005]
+Voulez-vous passer la nuit ?
+
+[06728.007]
+{03:00 00 00 00}　Oui　
+　Non　
+
+[06728.008]
+Reposez-vous bien.
+
+[06728.009]
+Bonjour.
+
+[06728.010]
+Vous n’avez pas assez d’argent.
+
+[06728.011]
+Au plaisir de vous revoir.
+
+[06728.016]
+Obtenu : {16:25 BE}.
+
+[06728.018]
+Obtenu : {08:FF FF FF FF}.
+
+[06728.020]
+Trouvé : {16:25 C6}, mais vous n’avez plus de place.
+
+[06728.022]
+Il n’y a rien ici.
+

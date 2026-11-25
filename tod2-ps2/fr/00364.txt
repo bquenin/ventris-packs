@@ -1,0 +1,18 @@
+[00364.001]
+Dis, {NAME:03 00 00 00}. Tu ne trouves pas que {NAME:05 00 00 00} ressemble un peu à maman ?
+
+[00364.002]
+Cré~tin ! Qu’est-ce que tu racontes ! À côté de Rutee, c’est le jour et la nuit, non, rien que les comparer, c’est insulter Rutee !!
+
+[00364.003]
+Mmh, moi je trouve qu’elles se ressemblent. Solide, du caractère, mais gentille aussi...
+
+[00364.004]
+Écoute, {NAME:01 00 00 00}. Ouvre grand les yeux et regarde bieeen. Rutee a de la féminité et de la beauté... Mais ce garçon manqué, cette furie, où vois-tu chez elle de la féminité et de la beauté !!
+
+[00364.005]
+{NAME:01 00 00 00}. On va avoir un membre en moins, là. Ça ne pose pas de problème ?
+
+[00364.006]
+Ouah ! Aïe ! Aïe aïe aïe ! Cette articulation ne plie pas dans ce se... gh... ! Agyah ! Aaaaaaaaaaah~.
+
