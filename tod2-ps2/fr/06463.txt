@@ -38,7 +38,7 @@ L’entretien de la cloche, c’est fastidieux et sans éclat, disent-ils tous..
 Soldat
 
 [06463.018]
-Et puis, d’ici, on voit toute la ville. Le soir, quand j’ai fini l’entretien et que je regarde, la fatigue de la journée s’envole.
+Et puis, d’ici, on voit toute la ville. Le soir, l’entretien fini, quand je la regarde, la fatigue du jour s’envole.
 
 [06463.019]
 Soldat
@@ -71,7 +71,7 @@ L’entretien de la cloche, c’est fastidieux et sans éclat, disent-ils tous..
 Soldat
 
 [06463.030]
-Et puis, d’ici, on voit toute la ville. Le soir, quand j’ai fini l’entretien et que je regarde, la fatigue de la journée s’envole.
+Et puis, d’ici, on voit toute la ville. Le soir, l’entretien fini, quand je la regarde, la fatigue du jour s’envole.
 
 [06463.031]
 Soldat

@@ -510,7 +510,7 @@ Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge b
 Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
 
 [06403.225]
-Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+Avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut s’en trouver désavantagé. Fais-y attention.
 
 [06403.226]
 Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
@@ -600,7 +600,7 @@ C’est à peu près ça.
 On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
 
 [06403.258]
-Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tu seras plus efficace.
 
 [06403.260]
 Leur sujet semble être : « le Technical Smash ». Écouter ?
@@ -675,7 +675,7 @@ Pour un nombre de coups plus élevé, la coordination avec tes compagnons est in
 Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
 
 [06403.286]
-En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+Oui. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là aussi, il faut équilibrer sorts et artes.
 
 [06403.288]
 Leur sujet semble être : « la zone d’influence ». Écouter ?
@@ -838,7 +838,7 @@ Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se
 Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
 
 [06403.345]
-On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+On dit qu’utiliser des objets, lancer des soins ou changer d’équipement en plein combat, c’est vraiment pas la classe.
 
 [06403.346]
 Et s’il est haut, ça apporte quoi de bien ?
@@ -973,7 +973,7 @@ C’est quoi, cette rumeur ?
 Ça va pas du tout, quoi. Je vends tout.
 
 [06403.394]
-Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+Je n’irais pas jusque-là, mais vendre le plus possible d’équipement inutile est conseillé, rien que pour ranger.
 
 [06403.395]
 Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
@@ -1116,7 +1116,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06403.452]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06403.453]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

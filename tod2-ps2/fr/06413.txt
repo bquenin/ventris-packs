@@ -17,7 +17,7 @@ Neustadt
 « Tant que votre niveau est bas, tirez parti des effets de soutien de l’équipement à emplacements. Empoisonner l’ennemi puis courir partout est une tactique tout à fait honorable. »
 
 [06413.012]
-« Dans l’arène, les objets sont interdits, et environ 10 secondes après le début du combat, on ne peut plus changer d’équipement. »
+« Dans l’arène, les objets sont interdits, et après environ 10 secondes de combat, l’équipement est verrouillé. »
 
 [06413.014]
 Des souvenirs sont exposés. De l’équipement, on dirait... à qui était-il ?
@@ -214,7 +214,7 @@ Il n’y a pas de champion en ce moment, alors... vous avez peut-être votre cha
 Autrefois, il y avait ici un champion toujours vainqueur.
 
 [06413.105]
-Son nom : Mighty Kongman ! Il assommait n’importe quel adversaire à mains nues, et cette fougue en a fait frémir, des admirateurs.
+Son nom : Mighty Kongman ! Il assommait n’importe qui à mains nues, et sa fougue en a fait frémir, des admirateurs.
 
 [06413.106]
 Et figurez-vous ! Il a prêté main-forte à Stahn le héros pour rendre la paix au monde !

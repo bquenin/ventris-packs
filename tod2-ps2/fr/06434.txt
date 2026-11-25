@@ -630,13 +630,13 @@ De part et d’autre de cette porte, on appelle le côté du château la vieille
 Jeune femme
 
 [06434.223]
-La vieille ville, ce sont les rues d’autrefois. On y trouve beaucoup de bâtiments anciens, et un parc où les gens viennent se détendre.
+La vieille ville, ce sont les rues d’autrefois. On y trouve beaucoup de bâtiments anciens, et un parc où l’on se détend.
 
 [06434.224]
 Jeune femme
 
 [06434.225]
-La ville neuve a été créée pour accueillir les habitants de Janos et de Cyril, détruites après les troubles d’il y a dix-huit ans.
+La ville neuve a été créée pour loger les habitants de Janos et Cyril, détruites après les troubles d’il y a dix-huit ans.
 
 [06434.226]
 Jeune femme
@@ -690,7 +690,7 @@ Jeune femme
 Le roi Woodrow n’a pas renoncé... ? Avec le château dans cet état ?
 
 [06434.245]
-Si tu veux être guide, tu dois le savoir : s’il était homme à renoncer facilement, ce pays ne se serait jamais relevé à ce point.
+Si tu veux être guide, tu le sais : s’il était homme à renoncer facilement, ce pays ne se serait jamais relevé ainsi.
 
 [06434.246]
 Jeune femme
@@ -815,13 +815,13 @@ De part et d’autre de cette porte, on appelle le côté du château la vieille
 Jeune femme
 
 [06434.289]
-La vieille ville, ce sont les rues d’autrefois. On y trouve beaucoup de bâtiments anciens, et un parc où les gens viennent se détendre.
+La vieille ville, ce sont les rues d’autrefois. On y trouve beaucoup de bâtiments anciens, et un parc où l’on se détend.
 
 [06434.290]
 Jeune femme
 
 [06434.291]
-La ville neuve a été créée pour accueillir les habitants de Janos et de Cyril, détruites après les troubles d’il y a dix-huit ans.
+La ville neuve a été créée pour loger les habitants de Janos et Cyril, détruites après les troubles d’il y a dix-huit ans.
 
 [06434.292]
 Jeune femme
@@ -1202,7 +1202,7 @@ Attaquer fait baisser la jauge de Spirits. (Les SP : la {04:01 00 00 00}jauge b
 Pourquoi ça ? Y a qu’à attaquer à fond, quoi.
 
 [06434.478]
-Parce qu’avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut se retrouver en mauvaise posture. Fais-y attention.
+Avec une jauge de Spirits basse, la précision et l’esquive baissent. On peut s’en trouver désavantagé. Fais-y attention.
 
 [06434.479]
 Une garde réussie rend beaucoup de SP : la garde avec {09:47 00 00 00} compte donc aussi.
@@ -1292,7 +1292,7 @@ C’est à peu près ça.
 On peut enregistrer jusqu’à trois stratégies à la fois : en changer en un instant en plein combat, c’est un plaisir à voir.
 
 [06434.511]
-Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tes combats y gagneront en efficacité.
+Ajuste aussi la fréquence d’attaque et la part de soin aux capacités de chacun et à l’ennemi : tu seras plus efficace.
 
 [06434.513]
 Leur sujet semble être : « le Technical Smash ». Écouter ?
@@ -1367,7 +1367,7 @@ Pour un nombre de coups plus élevé, la coordination avec tes compagnons est in
 Faut dépenser ses SP juste comme il faut, sinon c’est la galère, quoi.
 
 [06434.539]
-En effet. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là encore, l’équilibre entre sorts et artes est capital.
+Oui. Se joindre à une série d’attaques avec peu de SP, c’est finir en boulet. Là aussi, il faut équilibrer sorts et artes.
 
 [06434.541]
 Leur sujet semble être : « la zone d’influence ». Écouter ?
@@ -1530,7 +1530,7 @@ Il additionne toutes sortes d’actions en combat pour mesurer « l’art de se
 Pour un score élevé, visons les Technical Smash, glissons-y nos enchantements et encaissons le moins de dégâts possible.
 
 [06434.598]
-On dit qu’utiliser des objets, lancer des sorts de soin ou changer d’équipement en plein combat, c’est franchement pas la classe.
+On dit qu’utiliser des objets, lancer des soins ou changer d’équipement en plein combat, c’est vraiment pas la classe.
 
 [06434.599]
 Et s’il est haut, ça apporte quoi de bien ?
@@ -1665,7 +1665,7 @@ C’est quoi, cette rumeur ?
 Ça va pas du tout, quoi. Je vends tout.
 
 [06434.647]
-Je n’irais pas jusque-là, mais vendre autant que possible l’équipement inutile est conseillé, ne serait-ce que pour le rangement.
+Je n’irais pas jusque-là, mais vendre le plus possible d’équipement inutile est conseillé, rien que pour ranger.
 
 [06434.648]
 Bien sûr, raffiner pour réduire la quantité et monter la qualité, voilà, peut-on dire, la sagesse de l’aventurier.
@@ -1808,7 +1808,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06434.705]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06434.706]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

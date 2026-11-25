@@ -29,7 +29,7 @@ Hein ? C’est vrai ?
 À l’origine, Belcrant était un système destiné à broyer finement la surface du sol et à la projeter dans le ciel.
 
 [06583.019]
-Et avec les pierres et les rochers projetés, on comptait fabriquer dans le ciel des terres flottantes, pour y bâtir villes et villages.
+Et avec les pierres et rochers projetés, on comptait créer là-haut des terres flottantes, pour y bâtir villes et villages.
 
 [06583.021]
 En principe, toute la population devait émigrer sur ces terres flottantes.
@@ -44,7 +44,7 @@ Et les gens de la terre, révoltés, ont levé l’étendard de la rébellion :
 Oui. Et dès que la guerre a éclaté, Belcrant s’est changé en arme...
 
 [06583.029]
-Bah, c’est à peu près ça. Comme arme, il est irréprochable, il faut dire~. À pleine puissance, il peut rayer une île de la carte.
+Bah, c’est à peu près ça. Comme arme, il est parfait, il faut dire~. À pleine puissance, il raye une île de la carte.
 
 [06583.031]
 Une machine faite pour aider les gens, qu’on force à aider à les tuer...
@@ -143,7 +143,7 @@ Un catalyseur.
 Hein ?
 
 [06583.095]
-Quand il n’y a rien à attendre des facteurs internes, on provoque le changement par un facteur externe. Même si c’est un poison.
+Si les facteurs internes ne promettent rien, on provoque le changement par un facteur externe. Même si c’est un poison.
 
 [06583.097]
 Ah, mais vous, je vous prends pour un remède, rassurez-vous.

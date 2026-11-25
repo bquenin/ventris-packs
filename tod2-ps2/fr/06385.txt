@@ -137,7 +137,7 @@ Ne bouge plus ! Écarte-toi de Philia tout de suite !
 ... Qui es-tu, toi !?
 
 [06385.051]
-Comment as-tu osé t’en prendre à Philia... ! Le suivant, c’est moi... {NAME:01 00 00 00} Dunamis, futur grand héros : je suis ton adversaire !
+Tu as osé t’en prendre à Philia... ! À mon tour... {NAME:01 00 00 00} Dunamis, futur grand héros, sera ton adversaire !
 
 [06385.052]
 ?????
@@ -566,7 +566,7 @@ Mais il n’y a rien à déplorer. Car ce sera l’instant où tous les hommes s
 Elraine
 
 [06385.239]
-Un monde comblé de l’amour divin... Un monde parfait, étranger à la douleur et aux tourments. Voilà ce que doit être le salut...
+Un monde comblé d’amour divin... Un monde parfait, qui ignore douleur et tourments. Voilà ce que doit être le salut...
 
 [06385.240]
 Elraine

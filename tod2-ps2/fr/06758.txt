@@ -67,7 +67,7 @@ On m’a dit que le sceau du démon avait sauté : je suis venu voir ce qu’il
 Johnny
 
 [06758.028]
-Un démon qui revient à la vie autant de fois qu’on l’abat, un labyrinthe sans fin si loin qu’on avance : on dirait un mauvais rêve.
+Un démon qui renaît autant de fois qu’on l’abat, un labyrinthe sans fin si loin qu’on avance : on dirait un mauvais rêve.
 
 [06758.029]
 Johnny
@@ -79,7 +79,7 @@ Johnny
 Johnny
 
 [06758.032]
-L’endroit où l’on est, ce qu’on a sous les yeux : tout est peut-être faux. Tout serait fabriqué, et rien n’existerait vraiment.
+L’endroit où l’on est, ce qu’on voit : tout est peut-être faux. Tout serait fabriqué, et rien n’existerait vraiment.
 
 [06758.033]
 Johnny

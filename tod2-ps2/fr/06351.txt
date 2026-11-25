@@ -86,7 +86,7 @@ Jeune homme
 Mais à l’idée qu’elle me repousse, j’ai peur...
 
 [06351.034]
-Ça ira. Regardez {NAME:03 00 00 00} : il s’est fait repousser autant de fois qu’il y a d’étoiles, et il vit quand même, plein d’entrain comme ça.
+Ça ira. Regardez {NAME:03 00 00 00} : on l’a repoussé autant de fois qu’il y a d’étoiles, et il vit quand même, plein d’entrain.
 
 [06351.036]
 C’est tout à fait vrai, mais... c’était un mot de trop !

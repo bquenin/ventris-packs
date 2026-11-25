@@ -50,7 +50,7 @@ Il faut protéger Sa Majesté le roi Woodrow... !
 Soldat
 
 [06462.024]
-Bon sang, quel désastre ! Personne n’arrive à faire face à une attaque si soudaine ! Et la garnison est dispersée dans tout le château !
+Bon sang, quel désastre ! Personne ne fait face à une attaque si soudaine ! La garnison est dispersée dans tout le château !
 
 [06462.025]
 Soldat
@@ -131,7 +131,7 @@ Une fois le chemin ouvert, je compte réparer la cloche. Combien de temps il fau
 Soldat
 
 [06462.054]
-Cette cloche, je crois que c’est le symbole de la vie de tous les jours, dans cette ville. Alors je veux la réparer à tout prix.
+Cette cloche, je crois que c’est le symbole du quotidien de cette ville. Alors je veux la réparer à tout prix.
 
 [06462.055]
 Soldat
@@ -170,7 +170,7 @@ L’entretien de la cloche, c’est fastidieux et sans éclat, disent-ils tous..
 Soldat
 
 [06462.068]
-Et puis, d’ici, on voit toute la ville. Le soir, quand j’ai fini l’entretien et que je regarde, la fatigue de la journée s’envole.
+Et puis, d’ici, on voit toute la ville. Le soir, l’entretien fini, quand je la regarde, la fatigue du jour s’envole.
 
 [06462.069]
 Soldat

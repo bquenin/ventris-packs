@@ -482,7 +482,7 @@ Dis, écoute ça, {NAME:04 00 00 00} ! Le roi Woodrow, c’est vraiment quelqu�
 Rien qu’à le voir, on se dit, comment dire : « Un héros~ ! »
 
 [06450.195]
-Et pourtant, il ne prend pas de grands airs, il est tout simple ! Il a dit que j’étais comme son propre enfant ! Et ce n’est pas tout !
+Mais il ne prend pas de grands airs, il est tout simple ! Il a dit que j’étais comme son enfant ! Et ce n’est pas tout !
 
 [06450.197]
 « Il semble bien avoir hérité de ses parents l’étoffe d’un héros. »

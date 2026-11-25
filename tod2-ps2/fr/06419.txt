@@ -59,7 +59,7 @@ Tu veux la rattraper et lui chercher querelle ? Tu perdrais sans doute en un in
 Hé ! Comme si j’allais perdre contre une fille pareille !
 
 [06419.026]
-Voilà justement pourquoi je dis que tu perdrais. Cette femme n’est pas la première venue : ne pas le voir, c’est déjà n’avoir aucune chance.
+Voilà pourquoi je dis que tu perdrais. Cette femme n’est pas la première venue : ne pas le voir, c’est être battu d’avance.
 
 [06419.028]
 Tiens, c’est rare, {NAME:04 00 00 00}, de t’entendre dire ça.

@@ -77,7 +77,7 @@ Merci, l’ami.
 Bazar
 
 [06430.032]
-Une affiche publicitaire. « Fabrication d’arcs sur commande. Pour toute demande, venez chez Chelsea Torn, au nord-ouest de Heidelberg. »
+Une affiche. « Arcs fabriqués sur commande. Pour toute demande, venez chez Chelsea Torn, au nord-ouest de Heidelberg. »
 
 [06430.033]
 Bon voyage.

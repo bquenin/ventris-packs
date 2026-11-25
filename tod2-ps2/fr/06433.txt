@@ -474,7 +474,7 @@ Katz
 Katz
 
 [06433.197]
-On s’est perdus en arrivant dans cette ville où il neige, et depuis, plus rien. Aujourd’hui encore, je le cherche partout comme ça, miou.
+On s’est perdus en arrivant dans cette ville où il neige, et depuis, plus rien. Je le cherche encore partout, miou.
 
 [06433.198]
 Katz
@@ -671,7 +671,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06433.272]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06433.273]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

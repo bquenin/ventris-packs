@@ -50,7 +50,7 @@ Devenir forte, très bien, mais pour le caractère, mieux vaut ne pas lui ressem
 Moi aussi, je veux vite grandir, pour aider grande sœur {NAME:05 00 00 00}.
 
 [06496.020]
-Dans cette ville, il y a une règle : chacun s’occupe de ses affaires, et ce qui regarde tout le monde, on le fait tous ensemble.
+Cette ville a une règle : chacun s’occupe de ses affaires, et ce qui regarde tout le monde, on le fait tous ensemble.
 
 [06496.021]
 Ce n’est pas parce qu’on est un enfant qu’on peut passer son temps à jouer.
@@ -713,7 +713,7 @@ C’est que...
 Alors je suis venue ici, avec Lou.
 
 [06496.338]
-Jusqu’à sa mort... ça n’a pas duré longtemps, mais il a toujours eu le sourire. Et tout le village a été vraiment bon pour nous.
+Jusqu’à sa mort... ça a été court, mais il a toujours eu le sourire. Et tout le village a été vraiment bon pour nous.
 
 [06496.340]
 Alors je ne regrette rien, et je suis fière de ce village.
@@ -1106,7 +1106,7 @@ Dur, dur, d’être un homme à succès♪ Ouh ! Ne pointe pas ton arc sur moi,
 Une poterie au décor propre à la région de Calvalese.
 
 [06496.578]
-Quelques légumes poussent dans la terre desséchée. Sous le rude climat de Calvalese, on ne peut sans doute pas cultiver comme il faut.
+Quelques légumes poussent dans la terre aride. Sous le rude climat de Calvalese, on ne peut sans doute pas bien cultiver.
 
 [06496.580]
 Un puits plein d’une eau limpide.
@@ -1317,7 +1317,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06496.661]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06496.662]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

@@ -23,7 +23,7 @@ Aigrette
 Dans les endroits suspects, essayez ceci : {08:32 00 00 00}.
 
 [06468.013]
-Le coffre, en haut à droite, m’intrigue... S’il y avait « un instrument qui décèle et perçoit ce que l’œil ne voit pas d’ordinaire »...
+Le coffre, en haut à droite, m’intrigue... Avec « un instrument qui décèle ce que l’œil ne voit pas d’ordinaire »...
 
 [06468.015]
 La Lunette du sorcier révèle une porte cachée.
@@ -669,7 +669,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06468.279]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06468.280]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

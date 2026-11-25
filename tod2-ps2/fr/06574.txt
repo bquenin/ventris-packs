@@ -104,7 +104,7 @@ Dymlos...
 Dymlos
 
 [06574.039]
-De cette opération dépend le sort de notre armée terrestre... et, par là, celui du monde. L’échec n’est pas permis... en aucun cas.
+De cette opération dépend le sort de notre armée terrestre... et, par là, celui du monde. L’échec n’est pas permis... jamais.
 
 [06574.040]
 Dymlos
@@ -263,7 +263,7 @@ C’est une originale, mais ce n’est pas quelqu’un de mauvais, loin de là. 
 Karell
 
 [06574.095]
-Dès que la machine de {NAME:06 00 00 00} sera prête, nous passerons en territoire ennemi : ce jour-là, j’aimerais pouvoir compter aussi sur vos forces.
+Dès que la machine de {NAME:06 00 00 00} sera prête, nous passerons en territoire ennemi : j’aimerais alors compter aussi sur vous.
 
 [06574.096]
 Karell
@@ -698,7 +698,7 @@ Je vous donne bien du souci, Karell.
 Karell
 
 [06574.277]
-D’ordinaire, les égards envers les subordonnés, c’est la spécialité de Dymlos. Bah, une fois de temps en temps, ce n’est pas un mal.
+D’ordinaire, les égards envers les subordonnés, c’est la spécialité de Dymlos. Bah, pour une fois, ce n’est pas un mal.
 
 [06574.279]
 Les égards envers les subordonnés... Lui, Dymlos ?
@@ -713,7 +713,7 @@ Ah, vous ne le savez pas. Voyez-vous, c’est lui que les soldats aiment le plus
 Karell
 
 [06574.283]
-Sa force, qui lui a valu le surnom de « Bélier », y est pour quelque chose, mais plus encore, sa manière d’être avec ses hommes.
+Sa force, qui lui vaut le surnom de « Bélier », est une des raisons, mais plus encore, sa façon d’être avec ses hommes.
 
 [06574.284]
 Karell
@@ -941,7 +941,7 @@ Dymlos
 Je ne puis mettre d’autres vies en péril pour la sauver, elle seule. C’est cela, une organisation ; c’est cela, une armée.
 
 [06574.381]
-Mais c’est une camarade, elle se bat à vos côtés ! Atwight y croit sûrement, elle aussi : que ses camarades viendront la sauver !
+Mais c’est votre camarade de combat ! Atwight y croit sûrement, elle aussi : que ses camarades viendront la sauver !
 
 [06574.382]
 Dymlos
@@ -1339,7 +1339,7 @@ La clé de cette opération, c’est vous, bien sûr, l’équipe des Swordians.
 Litler
 
 [06574.533]
-Autour de Dymlos, votre chef, et de Karell, son second, parvenez coûte que coûte jusqu’à l’objectif final : Miktran, le chef ennemi.
+Avec Dymlos pour chef et Karell pour second, parvenez coûte que coûte à l’objectif final : Miktran, le chef ennemi.
 
 [06574.534]
 Karell

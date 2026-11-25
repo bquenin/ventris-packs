@@ -116,7 +116,7 @@ Le Dragon volant qui fait « bam » sur le château... C’était une vision, 
 Ménestrel
 
 [06438.044]
-Le Dragon volant attaque le château de Heidelberg ! Assister à un instant aussi dramatique ! Un ménestrel ne peut pas se taire !
+Le Dragon volant attaque le château de Heidelberg ! Vivre un instant aussi dramatique ! Un ménestrel ne peut se taire !
 
 [06438.045]
 Ménestrel

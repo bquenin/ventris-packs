@@ -35,7 +35,7 @@ Swordian de l’élément vent, porté par Woodrow Kelvin.
 « Les Quatre Héros : Stahn Aileron »
 
 [06447.023]
-Jeune homme venu d’un village de paysans, qui mit fin aux troubles, le Swordian Dymlos à la main. 19 ans au moment des troubles.
+Jeune homme d’un village paysan, qui mit fin aux troubles, le Swordian Dymlos en main. 19 ans au moment des troubles.
 
 [06447.025]
 Chef des Quatre Héros, il se battit en première ligne et rendit la paix au monde.
@@ -44,16 +44,16 @@ Chef des Quatre Héros, il se battit en première ligne et rendit la paix au mon
 « Les Quatre Héros : Rutee Katrea »
 
 [06447.029]
-Maîtresse du Swordian Atwight. De chasseuse de Lentilles, elle devint une héroïne qui sauva le monde. 18 ans au moment des troubles.
+Maîtresse du Swordian Atwight. Chasseuse de Lentilles devenue l’héroïne qui sauva le monde. 18 ans au moment des troubles.
 
 [06447.031]
-Après les troubles, elle regagna Cresta, son pays, reprit la direction de l’orphelinat et rendit de grands services à la société.
+Après les troubles, elle regagna Cresta, son pays, reprit l’orphelinat et rendit de grands services à la société.
 
 [06447.033]
 « Les Quatre Héros : Philia Felice »
 
 [06447.035]
-Prêtresse du temple de Straylize. Prise dans les troubles, elle devint la maîtresse du Swordian Clemente. 19 ans au moment des troubles.
+Prêtresse du temple de Straylize. Mêlée aux troubles, devenue maîtresse du Swordian Clemente. 19 ans au moment des troubles.
 
 [06447.037]
 Après les troubles, devenue grande prêtresse du grand temple de Straylize, elle montra aux hommes la voie du relèvement.

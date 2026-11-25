@@ -59,7 +59,7 @@ Alors on y va.
 {NAME:04 00 00 00} obtient le titre « {08:26 08 00 00} ».
 
 [06338.040]
-Des documents qui semblent appartenir à la compagnie Oberon sont conservés ici. Ils concerneraient les troubles de l’Œil de Dieu.
+Des documents, sans doute de la compagnie Oberon, sont conservés ici. Ils concerneraient les troubles de l’Œil de Dieu.
 
 [06338.042]
 Les documents sont signés. On déchiffre les noms « Hugo », « Ilene » et « Rembrandt ».

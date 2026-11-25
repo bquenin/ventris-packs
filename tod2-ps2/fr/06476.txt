@@ -50,7 +50,7 @@ Toshu
 Autrefois, j’ai combattu des monstres aux côtés de Stahn, des Quatre Héros ! Les monstres, je les ai expédiés en un clin d’œil, évidemment !
 
 [06476.019]
-Au fait, papa m’a raconté qu’il avait un jour « sauvé un garçon attaqué par des limaces ». Le garçon s’appelait Toshu, je crois...
+Au fait, papa m’a raconté avoir un jour « sauvé un garçon attaqué par des limaces ». Il s’appelait Toshu, je crois...
 
 [06476.020]
 Toshu

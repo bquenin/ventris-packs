@@ -29,7 +29,7 @@ Cette guerre est une sottise, née de l’ambition de Miktran et de ses hommes.
 Gradé novice
 
 [06566.012]
-... L’autre jour, j’ai été nommé chef d’unité. Qu’un bleu comme moi se retrouve avec des subordonnés, je ne l’aurais jamais imaginé.
+... L’autre jour, j’ai été nommé chef d’unité. Qu’un bleu comme moi ait des subordonnés, je ne l’aurais jamais imaginé.
 
 [06566.013]
 Gradé vétéran

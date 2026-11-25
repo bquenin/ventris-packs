@@ -11,7 +11,7 @@ Parc du Souvenir de Heidelberg
 « Ici, le parc du Souvenir de Heidelberg, dessiné par le roi Woodrow lui-même en mémoire du relèvement de la ville. »
 
 [06436.007]
-Une inscription est gravée sur le socle. « Pour garder la mémoire de nos fautes, je lègue ce lieu aux générations futures. Woodrow Kelvin »
+Une inscription sur le socle. « Pour garder la mémoire de nos fautes, je lègue ce lieu à la postérité. Woodrow Kelvin »
 
 [06436.009]
 « Pour la création du parc du Souvenir, notre profonde gratitude va tout spécialement à M. Walt, chef de l’ancien village de Harmentz, qui en a généreusement financé les travaux. »
@@ -23,7 +23,7 @@ Une inscription est gravée sur le socle. « Pour garder la mémoire de nos fau
 Fillette
 
 [06436.013]
-Quoi ? Si c’est pour me draguer, c’est non. On m’a déjà abordée dans la ville neuve tout à l’heure : j’en ai par-dessus la tête.
+Quoi ? Si c’est pour me draguer, c’est non. On m’a déjà abordée dans la ville neuve tout à l’heure : j’en ai ma claque.
 
 [06436.014]
 Fillette
@@ -83,7 +83,7 @@ Quoi ? Si c’est pour me draguer, c’est non. J’en ai par-dessus la tête.
 Vieil homme
 
 [06436.035]
-La neige qui tombe en silence pour toute compagnie, et l’on boit à petites gorgées... En cette saison, rien ne vaut un verre devant la neige.
+La neige qui tombe en silence pour compagnie, on boit à petites gorgées... L’hiver, rien ne vaut un verre devant la neige.
 
 [06436.037]
 P-par un froid pareil, comment vous faites pour boire...
@@ -173,7 +173,7 @@ Ce que nous sommes aujourd’hui, ce pays et moi, nous le devons à cet homme !
 Vieil homme
 
 [06436.069]
-Vous, vous êtes ceux qui sont partis au château tout à l’heure... Hé ! Qu’en est-il du château ! Et Sa Majesté le roi Woodrow !
+Vous, vous êtes partis au château tout à l’heure... Hé ! Qu’en est-il du château ! Et Sa Majesté le roi Woodrow !
 
 [06436.071]
 Bah, il s’est passé pas mal de choses... En tout cas, on y retourne !
@@ -242,7 +242,7 @@ Quand la cloche sera finie, je boirai ici un verre devant la cloche. C’est ce 
 Vieil homme
 
 [06436.095]
-La neige qui tombe en silence pour toute compagnie, et l’on boit à petites gorgées... En cette saison, rien ne vaut un verre devant la neige.
+La neige qui tombe en silence pour compagnie, on boit à petites gorgées... L’hiver, rien ne vaut un verre devant la neige.
 
 [06436.097]
 P-par un froid pareil, comment vous faites pour boire...

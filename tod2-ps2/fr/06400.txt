@@ -341,7 +341,7 @@ Forneus, la terreur même, lui qui a coulé tant de navires : vous l’avez vai
 Capitaine
 
 [06400.134]
-Mieux encore, vous nous avez sauvés du naufrage par un pouvoir miraculeux qui surpasse même celui d’Elraine, de l’Ordre d’Atamoni !
+Mieux, vous nous avez sauvés du naufrage par un pouvoir miraculeux qui surpasse même Elraine, de l’Ordre d’Atamoni !
 
 [06400.135]
 Capitaine

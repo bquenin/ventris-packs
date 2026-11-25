@@ -221,7 +221,7 @@ Qui s’efforce en toute chose sans renoncer recevra sûrement l’aide du ciel.
 Clerc
 
 [06391.094]
-Ce n’est pas jour de culte, aujourd’hui... Ne serait-ce pas là, comme qui dirait, ce qu’on appelle une infraction au règlement ?
+Ce n’est pas jour de culte, aujourd’hui... Ne serait-ce pas, comme qui dirait, ce qu’on appelle une infraction ?
 
 [06391.096]
 Hein ! Ah... non, c’est que...

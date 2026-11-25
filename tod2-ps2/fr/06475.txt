@@ -17,7 +17,7 @@ Pour ce qu’elle paraît, cette ville n’a pas beaucoup d’habitants, hein ?
 Homme
 
 [06475.007]
-Les départs en bloc pour Aigrette y sont pour quelque chose, mais la première cause, c’est l’épidémie d’il y a quelques années.
+Les départs en bloc pour Aigrette jouent aussi, mais la première cause, c’est l’épidémie d’il y a quelques années.
 
 [06475.008]
 Homme
@@ -95,7 +95,7 @@ Ils sont partis s’installer à Hope Town, parce qu’ils ne voulaient pas êtr
 Jeune homme
 
 [06475.033]
-Il y avait une sœur qui est partie pour Hope Town avec son petit frère malade, parce qu’elle ne voulait pas être aux ordres d’une déesse.
+Il y a eu une sœur, partie pour Hope Town avec son petit frère malade, car elle refusait d’être aux ordres d’une déesse.
 
 [06475.034]
 Jeune homme

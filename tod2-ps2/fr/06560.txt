@@ -65,7 +65,7 @@ Cette foi rassemblée devait donner plus de force encore à la déesse, et lui d
 Elraine
 
 [06560.027]
-Mais le temps a passé, et il est resté des gens pour refuser la déesse : descendue, elle n’a pu acquérir une force suffisante...
+Mais le temps passant, certains refusaient encore la déesse : descendue, elle n’a pu acquérir assez de force...
 
 [06560.029]
 On dirait bien qu’elle parle de nous, les gens de Hope Town.
@@ -123,7 +123,7 @@ Je t’avais fait monter sur scène, et tu n’as pas joué selon le texte : d�
 ................
 
 [06560.053]
-Cette façon de faire est une erreur ! Les hommes ne veulent pas d’un bonheur acquis en faussant l’histoire, en changeant le passé !
+Cette façon de faire est une erreur ! Personne ne veut d’un bonheur acquis en faussant l’histoire, en changeant le passé !
 
 [06560.054]
 Elraine

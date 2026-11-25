@@ -27,7 +27,7 @@ Voici un orgue entièrement automatique de l’ancienne compagnie Oberon. Faire 
 Annuler
 
 [06352.017]
-Il y a un document. Il y est écrit : « Dépenses hors comptes ce mois-ci : 25000 Gald. Combler le trou en détournant des rations. »
+Un document. On y lit : « Dépenses hors comptes ce mois-ci : 25000 Gald. Combler le trou en détournant des rations. »
 
 [06352.018]
 Fillette

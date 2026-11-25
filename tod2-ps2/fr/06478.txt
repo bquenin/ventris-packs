@@ -58,13 +58,13 @@ Quoi ! Quelle ignorance ! Qu’il y ait en ce monde quelqu’un qui ignore le 
 Grid
 
 [06478.026]
-Écoute, et retiens-le bien ! Le chef des « Ailes Noires », ces fiers brigands au grand cœur, jamais vaincus, c’est moi, le grand Grid !
+Retiens-le bien ! Le chef des « Ailes Noires », fiers brigands au grand cœur, jamais vaincus, c’est moi, le grand Grid !
 
 [06478.027]
 Grid
 
 [06478.028]
-Les « Ailes Noires » sont aujourd’hui une équipe aussi célèbre que les Quatre Héros, sais-tu !? Mets-toi bien ça dans le crâne !
+Les « Ailes Noires » sont aujourd’hui aussi célèbres que les Quatre Héros, sais-tu !? Mets-toi bien ça dans le crâne !
 
 [06478.029]
 Grid

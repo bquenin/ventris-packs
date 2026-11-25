@@ -71,7 +71,7 @@ Tiens, c’est où, ici... ?
 Les ruines de Laguna.
 
 [06323.034]
-Des ruines qu’on appelait jadis une cité aérienne, mais tout a été fouillé ou presque, et leur valeur archéologique est nulle, à ce qu’on dit.
+Des ruines qu’on appelait jadis une cité aérienne, mais presque tout a été fouillé : leur valeur archéologique serait nulle.
 
 [06323.036]
 ........
@@ -99,7 +99,7 @@ Si ça te travaille tant que ça, vas-y voir. Je t’attends ici.
 Oui, j’y vais. Pardon, {NAME:03 00 00 00}.
 
 [06323.052]
-J’ai l’impression qu’ils sont entrés par ici... ? Ce serait ennuyeux qu’ils nous voient : nous, entrons par la galerie de côté.
+On dirait qu’ils sont entrés par ici... ? Ce serait ennuyeux qu’ils nous voient : nous, entrons par la galerie de côté.
 
 [06323.054]
 C’est l’entrée, ici ? Mais je ne sais pas comment ouvrir. Revenons quand on aura trouvé un outil.

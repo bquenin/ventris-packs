@@ -179,7 +179,7 @@ Il doit avoir bien des soucis, et pourtant il garde le sourire et se dépense po
 Vieille dame
 
 [06437.070]
-Ce doit être un moment difficile pour lui aussi, et il est aux petits soins... Quelle chance d’être descendus dans une si bonne auberge.
+Ce doit être difficile pour lui aussi, et il est aux petits soins... Quelle chance d’avoir trouvé une si bonne auberge.
 
 [06437.071]
 Vieille dame

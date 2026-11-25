@@ -26,7 +26,7 @@ Il faut détruire les dispositifs de contrôle qui se trouvent dans le corps du 
 Une fois tous détruits, ce verrou aussi devrait céder.
 
 [06517.018]
-{NAME:01 00 00 00}, tu as bien la Lunette du sorcier que Philia t’a donnée tout à l’heure ? Sers-t’en pour trouver les dispositifs de contrôle.
+{NAME:01 00 00 00}, tu as la Lunette du sorcier que Philia vient de te donner ? Sers-t’en pour trouver les dispositifs de contrôle.
 
 [06517.020]
 Pour t’en servir, c’est la touche {09:3B 00 00 00}. Mais elle consomme plus de Lentilles que l’Anneau du sorcier : prends garde.

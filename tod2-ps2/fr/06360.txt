@@ -233,7 +233,7 @@ A-ach’tez-moi c’te statue ! Elle fait fureur, vous savez... Dans ma tête �
 Savant
 
 [06360.102]
-Après les troubles d’il y a dix-huit ans, ce sont les gens venus chercher le salut au temple qui auraient bâti cette grande ville.
+Après les troubles d’il y a dix-huit ans, les gens venus chercher le salut au temple auraient bâti cette grande ville.
 
 [06360.104]
 Ah bon. Alors Aigrette est une ville plutôt récente.
@@ -272,7 +272,7 @@ L’homme ne peut-il donc vivre sans s’en remettre à un dieu ?
 Savant
 
 [06360.116]
-Après les troubles d’il y a dix-huit ans, ce sont les gens venus chercher le salut au temple qui auraient bâti cette grande ville.
+Après les troubles d’il y a dix-huit ans, les gens venus chercher le salut au temple auraient bâti cette grande ville.
 
 [06360.117]
 Savant
@@ -296,7 +296,7 @@ Tout le monde s’agite, Elraine par-ci, Elraine par-là, mais si vous voulez mo
 Jeune homme
 
 [06360.124]
-Guérir les malades ou faire pousser les bébés comme des champignons rien qu’en priant : si c’était possible, la vie serait trop facile.
+Guérir les malades, faire pousser les bébés comme des champignons rien qu’en priant : si ça marchait, on ne peinerait pas.
 
 [06360.125]
 Jeune homme
@@ -504,7 +504,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06360.209]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06360.210]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

@@ -23,7 +23,7 @@ Il paraît que c’est le bloc moteur d’une cité aérienne. On est allé le t
 Garçon
 
 [06572.012]
-C’est une pièce précieuse. Avec la technique d’aujourd’hui, impossible de refaire la même. Les gens d’autrefois étaient vraiment forts.
+C’est une pièce précieuse. La technique d’aujourd’hui ne peut pas la refaire. Les anciens étaient vraiment forts.
 
 [06572.014]
 Obtenu : {08:12 00 00 00}.

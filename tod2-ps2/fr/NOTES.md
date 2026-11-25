@@ -395,8 +395,16 @@ the minigames' French was written without seeing the pictures or hearing the sou
   pack's set; that is expected.
 - The minigames were written from their Japanese alone. Where a comment speaks of what a picture shows
   (a room, a monster, a colour), the French has not been held against the picture.
-- About 200 lines of dialogue end on a page that holds only a word or two, where the French runs a
-  little past the last full page. They are whole and readable; they have not been reworded.
+- Where the French ran a word or two past its last full page, the line has been reworded shorter: the
+  235 strings of the story that ended on a page of 16 characters or fewer (125 distinct lines, since
+  the lessons are repeated from script to script) now take the pages their Japanese takes. About 780
+  other strings still take one page more than the Japanese and end on a fuller page; they are whole
+  and readable and have been left. The reworded lines were read again beside the Japanese by a second
+  reader and checked by a tool that wraps them as the build does. None has been seen on screen.
+- Two lists to choose from at the workshop (06353.159, which weapon, and 06353.161, which armour) are
+  wrapped by the build as dialogue, because ventris does not know them as lists. The armour list then
+  broke onto a second page. Both now put `/` between the names and fit on one page; how the game shows
+  them has not been seen. The cure belongs in ventris.
 - The words the program joins into a sentence (`HP ` + a number + ` % rendus`, ` : guérison`,
   ` : plat prêt.`, ` : utilisé`, `il` / `ils` / `elle`) were written without seeing the sentences
   they make.

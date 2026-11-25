@@ -89,7 +89,7 @@ Elraine est là. ... C’est rare, qu’elle sorte.
 Elraine ? C’est qui ?
 
 [06364.036]
-Celle qui dirige l’Ordre d’Atamoni aujourd’hui. Elle a le pouvoir de faire des miracles, et on l’appelle « la Sainte radieuse ».
+Celle qui dirige l’Ordre d’Atamoni aujourd’hui. Elle a le don des miracles : on l’appelle « la Sainte radieuse ».
 
 [06364.038]
 Elle fait des miracles sous les yeux de tous, et ça compte pour beaucoup dans le nombre de fidèles gagnés.
@@ -173,7 +173,7 @@ Je compte offrir de plus en plus de Lentilles à l’Ordre.
 Homme
 
 [06364.078]
-On a beau dire que le monde est en paix, rien ne garantit qu’un drame comme celui d’il y a dix-huit ans ne reviendra pas, non ?
+Le monde a beau être en paix, rien ne garantit qu’un drame comme celui d’il y a dix-huit ans ne reviendra pas, non ?
 
 [06364.079]
 Homme

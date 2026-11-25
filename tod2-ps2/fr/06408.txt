@@ -38,7 +38,7 @@ Papa et moi, on n’est pas si différents. Alors je me suis dit que moi aussi, 
 ... Je vois, c’est bien toi, ça.
 
 [06408.026]
-Mais ne te trompe pas, {NAME:01 00 00 00}. C’est vrai, par sa naissance comme par son enfance, Stahn ne diffère en rien d’un gars ordinaire.
+Mais ne te trompe pas, {NAME:01 00 00 00}. Certes, par sa naissance comme par son enfance, Stahn est un gars comme les autres.
 
 [06408.028]
 Pourtant, il est devenu un héros. Parce que c’était quelqu’un de vraiment fort.

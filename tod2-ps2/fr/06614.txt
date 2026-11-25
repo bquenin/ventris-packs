@@ -197,7 +197,7 @@ Quand ai-je échoué dans cette BAY...
 Amoureux de la liberté
 
 [06614.079]
-Non... la mémoire n’a pas de sens... Ceux qui tiennent à petits traits le DIARY qu’on appelle mémoire sont les premiers à partir...
+Non... la mémoire n’a pas de sens... Ceux qui tiennent à petits traits le DIARY nommé mémoire partent les premiers...
 
 [06614.080]
 Amoureux de la liberté
@@ -220,7 +220,7 @@ C’est toujours ainsi... Ce vent du large nommé solitude, qui hurle dans mon c
 Amoureux de la liberté
 
 [06614.087]
-Se frotter aux autres, faire semblant de comprendre : une comédie de solitaires... J’en ai assez... Moi, je choisis plutôt d’être libre...
+Se frotter aux autres, feindre de comprendre : une comédie de solitaires... Assez... Je choisis plutôt d’être libre...
 
 [06614.088]
 Amoureux de la liberté
@@ -346,7 +346,7 @@ C’est toujours ainsi... Ce vent du large nommé solitude, qui hurle dans mon c
 Amoureux de la liberté
 
 [06614.135]
-Se frotter aux autres, faire semblant de comprendre : une comédie de solitaires... J’en ai assez... Moi, je choisis plutôt d’être libre...
+Se frotter aux autres, feindre de comprendre : une comédie de solitaires... Assez... Je choisis plutôt d’être libre...
 
 [06614.136]
 Amoureux de la liberté
@@ -376,7 +376,7 @@ La liberté n’est pas sans limites... et le désordre n’est pas la liberté.
 Amoureux de la liberté
 
 [06614.145]
-Si changer sans cesse est la destinée des hommes, leur SAGA... alors changer de POLICY n’a rien de mal... Personne ne te le reprochera...
+Si changer sans cesse est le destin, la SAGA des hommes... changer de POLICY n’a rien de mal... Nul ne te le reprochera...
 
 [06614.146]
 Amoureux de la liberté
@@ -753,7 +753,7 @@ Par exemple, raffiner {08:01 00 00 00} le change en {08:02 00 00 00} ; à l’i
 De même, une pièce d’équipement raffinée seule peut devenir un objet comme {08:01 00 00 00}.
 
 [06614.286]
-Cela peut servir quand on tombe à court d’objets dans un donjon, par exemple. Bien sûr, le plus sage reste de bien se préparer dès le départ...
+Cela peut servir quand on tombe à court d’objets dans un donjon. Bien sûr, le plus sage est de bien se préparer au départ...
 
 [06614.287]
 Mais le grand atout du raffinage reste, bien sûr, la fusion d’équipement.

@@ -14,7 +14,7 @@ Question de quiz TOE trouvée !
 Une nouvelle catégorie s’ajoute au Livre de quiz.
 
 [06398.010]
-Quelque chose est écrit dans le carnet... « Je déteste les gelées ! Jamais je ne mangerai de gelée en combat ! Comme ça, le titre... »
+Le carnet porte une note... « Je déteste les gelées ! Jamais je n’en mangerai en combat ! Comme ça, le titre... »
 
 [06398.018]
 À bord, chacun fait ce qu’il veut, d’accord ? Bon, sur ce.
@@ -86,7 +86,7 @@ Ce qui m’a d’abord paru louche, c’est que tu connaissais Stahn. Et plutôt
 Ce qui m’a fait tiquer ensuite, c’est que tu connaissais Ilene Rembrandt, et même ses dernières volontés.
 
 [06398.064]
-Stahn est un héros des derniers grands troubles, et Ilene, une dirigeante de la compagnie Oberon, se serait donné la mort à sa chute...
+Stahn est un héros des derniers grands troubles, et Ilene, dirigeante de la compagnie Oberon, se serait tuée à sa chute...
 
 [06398.066]
 Que tu les aies connus tous les deux, à ton âge, ce n’est vraiment pas naturel.

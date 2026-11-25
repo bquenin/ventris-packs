@@ -551,7 +551,7 @@ Vraiment !? C’est rare, quelqu’un d’aussi détendu.
 Servante
 
 [06451.200]
-Ceux qui paraissent pour la première fois devant Sa Majesté ont presque tous le trac, quels qu’ils soient. Mais vous, non, alors...
+Qui paraît pour la première fois devant Sa Majesté a presque toujours le trac, quel qu’il soit. Mais vous, non, alors...
 
 [06451.202]
 Ha ha ha ! Elle te dit d’être un peu plus tendu.
