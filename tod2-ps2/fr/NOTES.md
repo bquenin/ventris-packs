@@ -97,7 +97,7 @@ written, the names and terms chosen, and what has been seen on screen.
     the game does: `« カ○ラ »` (06193, with `éclat` beside it) and `le « 統 » de son prénom` (06194).
     These are the only Japanese characters the pack writes; they are the game's own wide characters
     and take none of the spare cells below.
-  **One answer string can serve several questions.** The game stores each answer once and a later
+- **One answer string can serve several questions.** The game stores each answer once and a later
   question may show it again, as a right or a wrong answer. So a short form has to hold in every
   question that uses it: the four cities of the altered present carry a byname (`Vangelo d’azur`,
   `Realta du soir`) because a later question asks for Vangelo's full name with that string as its
@@ -286,9 +286,9 @@ serpent de Galua : jamais ensemble`.
 
 All of it in PCSX2, from power-on, on images built with ventris 0.2.0 from the Japanese disc (version
 1.01). **Nothing after the world map outside Cresta has been seen on screen**: the Laguna Ruins and
-every later string have only been built and checked by tools. No quiz and no minigame has been seen
-on screen; the minigames' French was written without seeing the pictures or hearing the sounds they
-ask about.
+every later string have only been built and checked by tools. Of the quiz game, its opening and two
+questions have been seen (below); the rest of the six quiz books and the other minigames have not, and
+the minigames' French was written without seeing the pictures or hearing the sounds they ask about.
 
 - **Seen whole and right on a third build**, played from power-on to the world map: Rutee's room and
   the balcony scene, the evening at the table, the night with its choice and the dream, the morning
@@ -303,12 +303,33 @@ ask about.
     them.
   - One line of the balcony scene (06321.092) ended on a page of three words. It has been shortened to
     one page since; that has been built and not seen.
+- **Seen on a build made with ventris as merged after 0.2.0** (both corrections, in no release yet; the
+  pack as it was merged), from power-on to the world map:
+  - capitals with their accent, none touching its letter or the line above: `Équipement`, `État`,
+    `Épée longue`, `Écon.`, and in bubbles `Ça`, `Écoute`, `À la une`. No `Ê` came up;
+  - the balcony line 06321.092 on one page; the banner `En fuite...`; the location panel `Monde :
+    Seinegald`; the item won in a battle (`Pain`); a lost battle's `Anéantis...`;
+  - **the quiz, for the first time**: the `Livre de quiz` item and its prompt, Kyle choosing a book (the
+    list reads `Tales of Destiny 2`), Loni's opening lines, and two questions with their lists of
+    answers, the plate that gives the right answer and Loni's comments. One was a picture question
+    with eight town names (06272), the other a question of the second quiz book (06185.29194) whose
+    comment fills in a party name. Everything sat inside its box, with nothing cut;
+  - seen in Japanese there: the caption after a lost battle (`その後、…の行方を知る者は誰もいなかった・・・`, with
+    the hero's name filled in), a string ventris does not extract, so no pack can change it yet; the
+    prompt for leaving Cresta, as expected (see "Open"); and the large name over a town on the world
+    map, which an earlier look took for a picture.
+  - on a second build of the same kind, the battle menu reads `Arte` `Plan` `Équ.` `Objets`, each
+    label apart from the next, the `É` with its accent and the full stop a clear dot. Chosen in
+    battle, `Équ.` opens the `Équiper` screen and `Arte` the `Artes` screen, both in French and
+    whole. In the one frame taken with the cursor resting on `Équ.`, no accent shows above the `E`;
+    whether the cursor hides it was not looked into.
 - **Seen on a build made with the correction since merged in ventris** (not released; the pack as it was
   at its first push), from power-on: the battle menu in French, the banner `En fuite...` on fleeing a
   battle, and the menu's location panel `Monde : Seinegald`. So those strings do reach the screen
   once the build writes them where the game loads them. On that build the four labels of the battle
-  menu ran into each other: each has a slot of five letters. `Artes` and `Équiper` are now `Arte` and
-  `Équip`; that has been built and not seen. Not seen there: the results labels, the message for a
+  menu ran into each other: each has a slot of five letters. `Artes` and `Équiper` became `Arte` and
+  `Équip`; seen again on the later build, `Équip` filled its slot and touched `Objets`, and it is now
+  `Équ.`. Not seen there: the results labels, the message for a
   title earned, what a new arte or lesson says, the other ways a battle ends, the airship's messages.
 - **Seen whole and right** on two earlier builds of this pack: the title menu; the opening caption and
   the forest scene; the first battle, an enemy's name plate and the item won; the notices after it; the
@@ -335,15 +356,17 @@ ask about.
 - **Not reached on screen:** the Laguna Ruins and everything after; the Rune Bottle seller and the
   mystery warrior in Cresta; the table of normal attacks in the lessons (06308.618, which the game plays
   at Aigrette's harbour as 06394.376); the skit list and the skit titles; every skit but three; every
-  quiz and every minigame; Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
+  quiz question but one (06185.29194) and every minigame but one (06272); Raffinage; the Bestiaire; the status labels `Humanoïde`, `Crustacé`, `Mort-vivant`.
 
 ## Open
 
 - Not seen on screen: all the story after the first steps on the world map, all the skits but three,
-  the enemy names but three, the skit titles, all the quiz text and all the minigames. Nothing has
-  shown how a quiz question's lines sit in their box: the build holds each string to its bytes and its
-  number of lines, not to a width. The longest are the recipe questions of 06201, whose second line
-  runs to 44 letters where the Japanese line is as wide as 38.
+  the enemy names but three, the skit titles, and the quiz books and minigames apart from the quiz's
+  opening and the two questions seen (one of the second quiz book, one picture question with a list of
+  eight answers). Those two sat inside their boxes; nothing has shown how the longer questions do: the
+  build holds each string to its bytes and its number of lines, not to a width. The longest are the
+  recipe questions of 06201, whose second line runs to 44 letters where the Japanese line is as wide
+  as 38.
 - The strings of 08055 (battle menu labels, what a new arte or lesson says, the three ways a battle
   ends) and 08996 (names of places on the field, three messages of the airship) are translated and do
   not reach the screen until a released ventris writes them where the game loads them; a few were seen
@@ -351,6 +374,8 @@ ask about.
   yet: its address is one that correction adds. The game writes the place's name into the string at a
   set position, so the French has to begin with the button and the name: the button, the place's name,
   then ` : sortir`.
+- The caption after a lost battle (`その後、…の行方を知る者は誰もいなかった・・・`) is a string ventris does not
+  extract. It shows in Japanese, in this pack and in the English one, until ventris finds it.
 - The kana answers of the minigames 06190 to 06194 and the two minigames 06300 and 06301 stay in
   Japanese (see "Where it stands"). How the game takes a kana answer has not been looked at, nor whether
   it reaches 06300 and 06301.
