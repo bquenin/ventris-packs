@@ -36,11 +36,6 @@ written, the names and terms chosen, and what has been seen on screen.
   (00856.012, 00926.009); and eight quiz answers that are one kanji in two bytes or two kanji in four
   (six in 06186, two in 06189), where no French word fits: their questions say what each means (see "A
   quiz string cannot grow").
-- **Two parts of this text do not reach the screen with ventris 0.2.0**, in this pack or in the English
-  one. The game loads the battle module and the field module from a second, compressed copy that the
-  build does not rewrite, so the strings of 08055 and 08996 are in the pack and the game still shows its
-  Japanese; and the prompt for leaving a town is a string the build does not yet reach. The correction
-  is merged in ventris and is in no release yet. See "What has been seen on screen".
 - **Read against the Japanese by a second reader.** Every hand-written string of the story, every skit,
   the six quiz books and the minigames were read beside their Japanese by an agent that had not written
   them, and its findings were corrected.
@@ -56,8 +51,7 @@ written, the names and terms chosen, and what has been seen on screen.
   are for words quoted inside a line, and for a title or a name the game puts in brackets.
 - **Three dots are three full stops** (`...`). The game's own `…` is a wide character with its dots at
   mid-height.
-- **Accented capitals are written** (`Épée longue`, `À toi de voir`). ventris 0.2.0 draws them without
-  their accent in this game; the correction to the font is merged in ventris and is in no release yet.
+- **Accented capitals are written** (`Épée longue`, `À toi de voir`).
 - **`HP`, `TP`, `SP`, `LV` and `GRADE` stay as they are.** The game draws them as pictures on the status
   and battle screens, and a pack does not change pictures, so the text says what the screen says.
 - **A line of dialogue is written unbroken**; the build breaks it to fit the bubble. In the lists every
@@ -284,9 +278,9 @@ serpent de Galua : jamais ensemble`.
 
 ## What has been seen on screen
 
-All of it in PCSX2, from power-on, on images built with ventris 0.2.0 from the Japanese disc (version
-1.01). **Nothing after the world map outside Cresta has been seen on screen**: the Laguna Ruins and
-every later string have only been built and checked by tools. Of the quiz game, its opening and two
+All of it in PCSX2, from power-on, on images built from the Japanese disc (version 1.01). **Nothing
+after the world map outside Cresta has been seen on screen**: the Laguna Ruins and every later string
+have only been built and checked by tools. Of the quiz game, its opening and two
 questions have been seen (below); the rest of the six quiz books and the other minigames have not, and
 the minigames' French was written without seeing the pictures or hearing the sounds they ask about.
 
@@ -298,13 +292,11 @@ the minigames' French was written without seeing the pictures or hearing the sou
   Options screen was seen right: its values stand apart and its digits are the game's own.
 - **Seen wrong on that third build:**
   - Fleeing a battle shows the game's Japanese message, though the pack translates it (08055.340160),
-    and the prompt for leaving Cresta reads the French place name followed by Japanese. Both are text
-    the build does not put where the game reads it (see "Where it stands"); the pack cannot correct
-    them.
+    and the prompt for leaving Cresta reads the French place name followed by Japanese; that prompt is
+    not in the pack (see "Open").
   - One line of the balcony scene (06321.092) ended on a page of three words. It has been shortened to
     one page since; that has been built and not seen.
-- **Seen on a build made with ventris as merged after 0.2.0** (both corrections, in no release yet; the
-  pack as it was merged), from power-on to the world map:
+- **Seen on a later build** (the pack as it was merged), from power-on to the world map:
   - capitals with their accent, none touching its letter or the line above: `Équipement`, `État`,
     `Épée longue`, `Écon.`, and in bubbles `Ça`, `Écoute`, `À la une`. No `Ê` came up;
   - the balcony line 06321.092 on one page; the banner `En fuite...`; the location panel `Monde :
@@ -315,7 +307,7 @@ the minigames' French was written without seeing the pictures or hearing the sou
     with eight town names (06272), the other a question of the second quiz book (06185.29194) whose
     comment fills in a party name. Everything sat inside its box, with nothing cut;
   - seen in Japanese there: the caption after a lost battle (`その後、…の行方を知る者は誰もいなかった・・・`, with
-    the hero's name filled in), a string ventris does not extract, so no pack can change it yet; the
+    the hero's name filled in), which is not in the pack (see "Open"); the
     prompt for leaving Cresta, as expected (see "Open"); and the large name over a town on the world
     map, which an earlier look took for a picture.
   - on a second build of the same kind, the battle menu reads `Arte` `Plan` `Équ.` `Objets`, each
@@ -323,10 +315,9 @@ the minigames' French was written without seeing the pictures or hearing the sou
     battle, `Équ.` opens the `Équiper` screen and `Arte` the `Artes` screen, both in French and
     whole. In the one frame taken with the cursor resting on `Équ.`, no accent shows above the `E`;
     whether the cursor hides it was not looked into.
-- **Seen on a build made with the correction since merged in ventris** (not released; the pack as it was
-  at its first push), from power-on: the battle menu in French, the banner `En fuite...` on fleeing a
-  battle, and the menu's location panel `Monde : Seinegald`. So those strings do reach the screen
-  once the build writes them where the game loads them. On that build the four labels of the battle
+- **Seen on another build** (the pack as it was at its first push), from power-on: the battle menu in
+  French, the banner `En fuite...` on fleeing a battle, and the menu's location panel `Monde :
+  Seinegald`. On that build the four labels of the battle
   menu ran into each other: each has a slot of five letters. `Artes` and `Équiper` became `Arte` and
   `Équip`; seen again on the later build, `Équip` filled its slot and touched `Objets`, and it is now
   `Équ.`. Not seen there: the results labels, the message for a
@@ -350,8 +341,9 @@ the minigames' French was written without seeing the pictures or hearing the sou
 - **Faults seen and still there:**
   - In the Équipement list a slot grade and a kind of weapon are drawn joined, `AttackEpée`: the game
     puts the two words together with no space, as it does in Japanese.
-  - Capitals with an accent lose it (`É` shows as `E`), and the hyphen is drawn as the game's long
-    minus sign, so `dis-moi` reads `dis–moi`. The first is ventris's to correct.
+  - Capitals with an accent lose it (`É` shows as `E`) on the earlier builds; the later build above
+    shows them with their accent. The hyphen is drawn as the game's long minus sign, so `dis-moi`
+    reads `dis–moi`.
   - The circumflex of `î` in the small label font is one pixel high; `Chaîne` reads almost `Chaine`.
 - **Not reached on screen:** the Laguna Ruins and everything after; the Rune Bottle seller and the
   mystery warrior in Cresta; the table of normal attacks in the lessons (06308.618, which the game plays
@@ -368,14 +360,12 @@ the minigames' French was written without seeing the pictures or hearing the sou
   recipe questions of 06201, whose second line runs to 44 letters where the Japanese line is as wide
   as 38.
 - The strings of 08055 (battle menu labels, what a new arte or lesson says, the three ways a battle
-  ends) and 08996 (names of places on the field, three messages of the airship) are translated and do
-  not reach the screen until a released ventris writes them where the game loads them; a few were seen
-  right on a build with the correction (see above). The prompt for leaving a town is not in the pack
-  yet: its address is one that correction adds. The game writes the place's name into the string at a
-  set position, so the French has to begin with the button and the name: the button, the place's name,
-  then ` : sortir`.
-- The caption after a lost battle (`その後、…の行方を知る者は誰もいなかった・・・`) is a string ventris does not
-  extract. It shows in Japanese, in this pack and in the English one, until ventris finds it.
+  ends) and 08996 (names of places on the field, three messages of the airship) are translated; a few
+  were seen right on screen (see above). The prompt for leaving a town is not in the pack yet. The game
+  writes the place's name into the string at a set position, so the French has to begin with the button
+  and the name: the button, the place's name, then ` : sortir`.
+- The caption after a lost battle (`その後、…の行方を知る者は誰もいなかった・・・`) is not in this pack, nor in the
+  English one; it was seen in Japanese.
 - The kana answers of the minigames 06190 to 06194 and the two minigames 06300 and 06301 stay in
   Japanese (see "Where it stands"). How the game takes a kana answer has not been looked at, nor whether
   it reaches 06300 and 06301.

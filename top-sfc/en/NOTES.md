@@ -43,7 +43,7 @@ the names that were chosen, and what was learned about the game along the way.
   be named more shortly here than in a sentence (`Spirit Forest` in the box, the Forest of Spirits
   when someone speaks of it). Version 0.9 had 69 of them too long; 0.9.1 shortens those and leaves
   alone the ones that already fitted, which is why some shop names still carry quotes
-  (`Item Shop "Draw"`). The build does not check this yet.
+  (`Item Shop "Draw"`).
 - **Comments.** A line that starts with `# ` is a comment, in any script file. Use them for what
   the next translator should know about one string: why it is worded as it is, what it must agree
   with elsewhere.
