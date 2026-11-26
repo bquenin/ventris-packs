@@ -397,7 +397,7 @@ already translated. So the battle lessons first written for Cresta read the same
 - Seen clean at 05:14 PT: the weapon slot as `Wpn.` (the longer word ran into its icon), `Camera L/R`
   (it started on the popup's border), and `Plan` / `Atk` / `Def` on the Tactics party panels (the
   longer words ran into the numbers).
-- Six strings the engine newly offers were seen whole at 05:26 PT: the quiz picker's "Tales of
+- Six strings were seen whole at 05:26 PT: the quiz picker's "Tales of
   Destiny 2" (06203.6468), Cooking's "Auto (on a tie: … )" (06807.29696; the game centres Food cost,
   Cook count, Aptitude or Any in the gap, and a value of up to 12 letters clears the bracket), and the
   four corner labels of Custom → Menu background (06808.18440 to .18520, "Colors.TopL. R" and so on).
