@@ -1,0 +1,249 @@
+[116.000]
+Write in diary
+Read diary
+Quit
+
+[116.002]
+Director Akashi
+{SAY}Well done, all of you. For now, at least, the alien threat has passed.{WAIT}But the enemy isn't completely gone. The fight will go on and on...{WAIT}By the way, what will you do now?{/SAY}
+
+[116.003]
+{NAME:01}
+{SAY}We... intend to head north.{/SAY}
+
+[116.004]
+Director Akashi
+{SAY}I see...{WAIT}If possible, I'd have liked you to fight alongside us...{WAIT}But it seems you have some great purpose...{/SAY}
+
+[116.005]
+{NAME:01}
+{SAY}...I'm sorry, sir.{/SAY}
+
+[116.006]
+Director Akashi
+{SAY}Mm. Travel carefully.{WAIT}If anything happens, stop by Neo-Kobe anytime.{/SAY}
+
+[116.007]
+Dr. Closet
+{SAY}Everyone. Your abilities are still growing.{WAIT}I don't know what lies ahead, but if you're ever in trouble, try visiting Bless.{WAIT}I'm sure you'll get some advice.{WAIT}Now, please take care.{/SAY}
+
+[116.008]
+Director Akashi
+{SAY}Then I'll take my leave.{/SAY}
+
+[116.009]
+{NAME:03}
+{SAY}...Come on, everyone. Let's hurry to Grandma's!{/SAY}
+
+[116.013]
+Survey Chief
+{SAY}What's going on!{/SAY}
+
+[116.014]
+{NAME:02}
+{SAY}...Look!!{/SAY}
+
+[116.015]
+{NAME:01}
+{SAY}M... Mt. Fuji...{/SAY}
+
+[116.016]
+{NAME:03}
+{SAY}It erupted...{/SAY}
+
+[116.017]
+《Dr. Closet's voice came from the Croiset Notes...》
+
+[116.018]
+"{NAME:19}... can you hear me? Something terrible has happened!{WAIT}By my calculations, that eruption is just a warning sign, and a much bigger eruption could happen.{WAIT}If it does, in the worst case, all of Japan will sink into the sea!"
+
+[116.019]
+{NAME:02}
+{SAY}How terrible...{/SAY}
+
+[116.020]
+"I think the aliens are sending energy straight into Mt. Fuji's magma.{WAIT}So, {NAME:19}, to stop the eruption, you have to destroy the source of that energy."
+
+[116.021]
+{NAME:01}
+{SAY}All right! Leave it to me!{/SAY}
+
+[116.022]
+{NAME:03}
+{SAY}Shhh! There's more!{/SAY}
+
+[116.023]
+"...I don't know exactly where it is, but it must be connected somehow to Lake Biwa, the epicenter!{WAIT}Please, {NAME:19}! Find that place and stop the flow of energy!{WAIT}...I'm counting on you."
+
+[116.024]
+{NAME:01}
+{SAY}All right! {NAME:19}! Let's go!!{/SAY}
+
+[116.025]
+{NAME:02}
+{SAY}First, we have to pinpoint the place that's generating that energy...{/SAY}
+
+[116.026]
+{NAME:03}
+{SAY}The doctor said there should be an entrance connected to that place near here, right?{WAIT}But...{/SAY}
+
+[116.027]
+Survey Chief
+{SAY}I heard everything!{/SAY}
+
+[116.028]
+Survey Chief
+{SAY}Did you know the water level of Lake Biwa dropped with the recent earthquakes?{WAIT}When it did, a strange cave appeared on the lakebed.{/SAY}
+
+[116.029]
+{NAME:03}
+{SAY}A cave?{/SAY}
+
+[116.030]
+Survey Chief
+{SAY}I sent men in to investigate, but none of them came back...{WAIT}Perhaps...{/SAY}
+
+[116.031]
+Survey Chief
+{SAY}You can get to the cave by going north from here.{/SAY}
+
+[116.032]
+{NAME:01}
+{SAY}All right! Let's go, everyone!{/SAY}
+
+[116.033]
+{SAY}I can't let you through here without the survey chief's permission.{/SAY}
+
+[116.034]
+{SAY}I can't let you through here without the survey chief's permission.{/SAY}
+
+[116.035]
+{SAY}I've been told. Please be careful!{/SAY}
+
+[116.036]
+{SAY}Good work! Please, go on through!{/SAY}
+
+[116.037]
+{SAY}A strange hole appeared where the water receded, so we're investigating it now.{/SAY}
+
+[116.038]
+{SAY}Mt. Fuji erupting... It's all over...{/SAY}
+
+[116.039]
+{SAY}Leave this place to us!{/SAY}
+
+[116.040]
+{SAY}Ah! {NAME:19}!{WAIT}The survey chief is in the tent.{/SAY}
+
+[116.041]
+{SAY}Lake Biwa's water going down because of earthquakes...{WAIT}It's never happened before.{/SAY}
+
+[116.042]
+{SAY}There's not much time before the next eruption...{WAIT}We're counting on you!{/SAY}
+
+[116.043]
+{SAY}Salute them, everyone!!{/SAY}
+
+[116.044]
+{SAY}The water level of Lake Biwa has been dropping with all these earthquakes...{WAIT}I hope nothing happens...{/SAY}
+
+[116.045]
+{SAY}...At this rate... Japan will be wiped out...{/SAY}
+
+[116.046]
+{SAY}We'll do our best too!{/SAY}
+
+[116.047]
+Survey Chief
+{SAY}In the end, we never found out where the cave in the back leads...{WAIT}All we know for sure is that very strong monsters come out.{WAIT}...Be careful.{/SAY}
+
+[116.048]
+Survey Chief
+{SAY}Oh! It's you! Well done!{WAIT}Thanks to you, Japan is saved! Let me thank you from the bottom of my heart.{/SAY}
+
+[116.049]
+Survey Chief
+{SAY}In the end, we never found out where the cave in the back leads...{WAIT}All we know for sure is that very strong monsters come out.{WAIT}...Be careful.{/SAY}
+
+[116.050]
+Survey Chief
+{SAY}Oh! It's you! Well done!{WAIT}Thanks to you, Japan is saved! Let me thank you from the bottom of my heart.{/SAY}
+
+[116.051]
+{SAY}The epicenter of the earthquakes seems to be closer to Mt. Fuji than to Lake Biwa...{/SAY}
+
+[116.052]
+{SAY}What happened!{/SAY}
+
+[116.053]
+{SAY}The place sending the energy...{WAIT}That's probably the enemy's base!{/SAY}
+
+[116.054]
+{SAY}Oh! It's you!{WAIT}Thank you so much!{/SAY}
+
+[116.055]
+{SAY}There's a strange regularity to the earthquakes.{HOLD}Could some man-made force be at work...{WAIT}No,{PAUSE:1E} surely not...{/SAY}
+
+[116.056]
+{SAY}This shaking... what on earth...!{/SAY}
+
+[116.057]
+{SAY}Where that cave leads... we have no idea at all...{/SAY}
+
+[116.058]
+{SAY}Good work!{/SAY}
+
+[116.059]
+{SAY}What! What on earth!{/SAY}
+
+[116.060]
+{SAY}Please do your best for us too!{/SAY}
+
+[116.061]
+{SAY}It's a shabby tent, but you can at least rest.{WAIT}Will you rest?{/SAY}
+
+[116.062]
+{SAY}Then will you at least write in your diary?{/SAY}
+
+[116.064]
+Survey Chief
+{SAY}Oh! Glad you came! I heard from Director Akashi.{HOLD}The earthquakes happening all over Japan do seem to center on this Lake Biwa.{WAIT}Our survey found that some kind of energy is affecting the rock layers around here.{/SAY}
+
+[116.065]
+{NAME:01}
+{SAY}Energy?{/SAY}
+
+[116.066]
+{NAME:02}
+{SAY}Then, could it be...{/SAY}
+
+[116.067]
+Survey Chief
+{SAY}Mm. These earthquakes were probably caused artificially.{HOLD}But humanity today couldn't possibly do such a thing.{/SAY}
+
+[116.068]
+{NAME:03}
+{SAY}So it IS the aliens!?{/SAY}
+
+[116.069]
+Survey Chief
+{SAY}It's very likely.{WAIT}If so, instead of small earthquakes like before, a much bigger one could happen!{WAIT}Our mission is to find out where this energy comes from{WAIT}and stop the aliens' scheme.{WAIT}To that end, I'd like you to...{/SAY}
+
+[116.070]
+{NAME:02}
+{SAY}Again!{/SAY}
+
+[116.071]
+{NAME:03}
+{SAY}This one's... big!{/SAY}
+
+[116.072]
+{SAY}Chief!{/SAY}
+
+[116.073]
+{SAY}It's terrible! Over here!{/SAY}
+
+[116.074]
+Survey Chief
+{SAY}What is it!{/SAY}
+

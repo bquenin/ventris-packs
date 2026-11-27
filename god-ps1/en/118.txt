@@ -1,0 +1,59 @@
+[118.000]
+{SAY}Stop!!{/SAY}
+
+[118.002]
+{NAME:01}
+{SAY}Who's there!?{/SAY}
+
+[118.003]
+Michael
+{SAY}Go back!!{/SAY}
+
+[118.004]
+{NAME:01}
+{SAY}...What are you?{/SAY}
+
+[118.005]
+Michael
+{SAY}I can't let you through here. Go back!!{/SAY}
+
+[118.006]
+{NAME:02}
+{SAY}Who are you?{/SAY}
+
+[118.007]
+{NAME:03}
+{SAY}What's your deal!{/SAY}
+
+[118.008]
+Michael
+{SAY}Don't come to the continent! I'll say it only once. Go back!!{/SAY}
+
+[118.009]
+{NAME:01}
+{SAY}Shut up!{/SAY}
+
+[118.010]
+Michael
+{SAY}This seems a waste of time...{/SAY}
+
+[118.011]
+Michael
+{SAY}Turn back...{/SAY}
+
+[118.012]
+{NAME:01}
+{SAY}...Ngh...{/SAY}
+
+[118.013]
+{NAME:01}
+{SAY}...D-damn it...{/SAY}
+
+[118.014]
+{NAME:03}
+{SAY}Everyone, are you okay?{/SAY}
+
+[118.015]
+{NAME:02}
+{SAY}...Yes.{PAUSE:0A} ...What power...{PAUSE:0F} Who on earth was that...{/SAY}
+
