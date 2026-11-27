@@ -1,0 +1,437 @@
+[098.000]
+Write in diary
+Read diary
+Quit
+
+[098.008]
+{SAY}Hey! You there!!{/SAY}
+
+[098.009]
+{SAY}Never seen your face before!{/SAY}
+
+[098.010]
+{SAY}What're you doing on our turf!{/SAY}
+
+[098.011]
+{SAY}You cheeky punk!{/SAY}
+
+[098.012]
+{SAY}Take this!{/SAY}
+
+[098.013]
+{SAY}Heh heh! Serves you right!{/SAY}
+
+[098.014]
+{SAY}If you're mad, come and get it~~!{/SAY}
+
+[098.015]
+{SAY}Nyah nyah~!!{/SAY}
+
+[098.016]
+
+《"Grandma's Letter" was stolen!》
+
+[098.017]
+
+《It seems to be locked.{WAIT}You can hear cheerful voices...》
+
+[098.018]
+{SAY}Well, hello there.{PAUSE:19} Oh, traveling alone? Good for you.{PAUSE:19} This is Tsukubane Village.{/SAY}
+
+[098.019]
+{SAY}Did you run into the village brats?{WAIT}Lately they've been using the shrine grounds as their playground and pulling pranks. It's a real headache.{WAIT}You be careful too.{/SAY}
+
+[098.020]
+{SAY}The sun'll be going down soon. Come on, kids need to get home.{WAIT}What? Traveling alone?{WAIT}Then you'd better use the inn.{/SAY}
+
+[098.021]
+{SAY}This village is famous for its toad oil.{PAUSE:1E} Do you know toad oil?{/SAY}
+
+[098.022]
+{SAY}Oho.{PAUSE:14} So young, and you know that. I'm impressed.{/SAY}
+
+[098.023]
+{SAY}It's a medicine that heals any wound in an instant.{/SAY}
+
+[098.024]
+{SAY}Oh dear, the Brat Boss took my toad oil. What a nuisance...{/SAY}
+
+[098.025]
+{SAY}Honestly, that Brat Boss is a nuisance.{WAIT}Mind you, when I was young I was an even worse brat. Fwahyahyah.{/SAY}
+
+[098.026]
+{SAY}Mt. Tsukubane is a famous sacred mountain, but ghosts come out there, so nobody goes near it.{/SAY}
+
+[098.027]
+{SAY}They say the Brat Boss and his gang found something amazing on Mt. Tsukubane.{PAUSE:0F} Mind you, knowing those kids, it's bound to be a lie.{/SAY}
+
+[098.028]
+{SAY}The key to the gate out to Mt. Tsukubane has gone missing.{PAUSE:1E} ...I wonder what happened to it...{/SAY}
+
+[098.029]
+{SAY}Another day has ended safely. Let's do our best again tomorrow.{/SAY}
+
+[098.030]
+{SAY}The sun'll be going down soon, you know? Why not rest in this village tonight?{/SAY}
+
+[098.031]
+{SAY}Where are you going at this hour? It's dangerous, so go back home.{/SAY}
+
+[098.032]
+{SAY}Up above is the shrine where the sacred relic of Mt. Tsukubane is enshrined.{WAIT}Do stop by.{/SAY}
+
+[098.033]
+{SAY}It sounded rather noisy...{PAUSE:1E} Did something happen?{/SAY}
+
+[098.034]
+{SAY}What! Your things were stolen!{HOLD}...Hmm.{PAUSE:1E} They say the brats have a hideout somewhere in the village...{WAIT}The village's young folk might know something.{WAIT}Why not ask them?{/SAY}
+
+[098.035]
+{SAY}Well, if you say so...{WAIT}If you're ever in trouble, try asking the village folk.{HOLD}Lending an ear to what people say is the trick to traveling well.{/SAY}
+
+[098.036]
+{SAY}So you got it back. You've got courage, lad.{WAIT}But don't push yourself. Careful, careful in everything.{WAIT}That's this old man's ad-vice!{/SAY}
+
+[098.037]
+《{NAME:19} found some graffiti...》
+
+[098.038]
+"The Boss is great, the Boss is awesome, the Boss is the manliest of men!"
+　　　　~from the Brat Boss~
+
+[098.039]
+《Welcome!
+　　　　Tsukubane Guesthouse!!》
+
+[098.041]
+{SAY}Traveling alone? Welcome, welcome.{PAUSE:14} Oh, that's right, while you're here, why not hear about Mt. Tsukubane out back?{/SAY}
+
+[098.042]
+{SAY}Good child, good child. Mt. Tsukubane is a famous sacred mountain. Long ago a blessed relic was enshrined there, but{WAIT}now no one knows where it is.{WAIT}What we have here is said to be a fragment of it.{WAIT}Don't be shy. Touch it, as a keepsake.{WAIT}I'm sure it will bring you good fortune.{/SAY}
+
+[098.043]
+{SAY}That's a shame. I thought it would make a fine keepsake...{/SAY}
+
+[098.044]
+{SAY}Come, come, don't be shy. Touch it, as a keepsake.{WAIT}I'm sure it will bring you good fortune.{/SAY}
+
+[098.045]
+{SAY}If we had the relic itself, we might learn something...{WAIT}But don't you think you'd better rest for today?{/SAY}
+
+[098.046]
+
+《{NAME:19} touched the fragment of the strange stone!》
+
+[098.047]
+{SAY}Wh-what was that...!{/SAY}
+
+[098.048]
+{SAY}Strange things do happen... Just now, I felt as if you were wrapped in some strange power.{WAIT}If we had the real relic, we might learn more...{WAIT}You look fine to me, but don't you think you'd better rest for today?{/SAY}
+
+[098.049]
+
+《{NAME:19} touched the fragment of the strange stone!》
+
+[098.050]
+
+《You feel a little strange...》
+
+[098.051]
+
+《{NAME:19}'s HP was restored!》
+
+[098.052]
+
+《Your head hurts a little...》
+
+[098.053]
+
+《{NAME:19}'s HP was restored!》
+
+[098.054]
+
+《{NAME:19} touched the fragment of the strange stone!》
+
+[098.055]
+
+《You feel a little strange...》
+
+[098.056]
+
+《{NAME:19}'s HP was restored!》
+
+[098.057]
+{SAY}Welcome! How about some of Tsukubane Village's famous "Toad Buns" as a souvenir?{/SAY}
+
+[098.058]
+{SAY}...A cat doesn't always talk, meow.{PAUSE:32} Ah!{PAUSE:1E} ...I talked...{/SAY}
+
+[098.059]
+{SAY}Waaah, the Brat Boss is a big meanie~!!{/SAY}
+
+[098.060]
+{SAY}Oh, traveling alone? Good for you. Here, have one of our famous Toad Buns.{WAIT}They're this granny's secret to a long life. Keeps granny full of pep!{/SAY}
+
+[098.061]
+
+《Got a Toad Bun!》
+
+[098.062]
+{SAY}If you want more, buy them at my shop. Right now they're only 300G.{/SAY}
+
+[098.063]
+
+　《{NAME:19} found some money!》
+
+[098.064]
+{SAY}Hey! Wake up!{/SAY}
+
+[098.065]
+{SAY}I said wake up!{/SAY}
+
+[098.066]
+{SAY}The Boss says it's time to settle this. Come to the shrine grounds!{/SAY}
+
+[098.067]
+{SAY}The shrine grounds, got it!{/SAY}
+
+[098.068]
+{SAY}Oh my, welcome. Sorry, dear, we're not open yet today. Come back later.{WAIT}Oh, that's right, you can still read your diary, I think... Would you like to?{/SAY}
+
+[098.069]
+{SAY}Come again, now.{/SAY}
+
+[098.070]
+{SAY}A child out alone this late is dangerous! Never mind the money, stay the night.{/SAY}
+
+[098.071]
+{SAY}Is that so? Well, it's dangerous, so don't go outside the village.{/SAY}
+
+
+
+[098.072]
+{SAY}...Read your diary, mumble mumble...{/SAY}
+
+[098.073]
+{SAY}Zzzz...{/SAY}
+
+[098.074]
+Write in your diary?
+
+[098.075]
+Write in diary
+Read diary
+Sleep
+
+[098.076]
+{SAY}Hey! Wake up!{/SAY}
+
+[098.077]
+{SAY}I said wake up!{/SAY}
+
+[098.078]
+{SAY}The Boss says it's time to settle this. Come to the shrine grounds!{/SAY}
+
+[098.079]
+{SAY}The shrine grounds, got it!{/SAY}
+
+[098.080]
+{SAY}We doctors sometimes stay at hotels and inns like this, even where there's no hospital.{WAIT}If you get hurt or sick, we'll fix you up.{/SAY}
+
+[098.081]
+{SAY}Grrrrr...{/SAY}
+
+[098.082]
+{SAY}Oh, did you go to the inn and write in your diary?{WAIT}If you don't keep a record at an inn, you'll be in trouble if you get badly hurt on your trip.{WAIT}By the way, how about a little puff-puff?{/SAY}
+
+[098.083]
+{SAY}Are you serious?{/SAY}
+
+[098.084]
+{SAY}Such a child...{/SAY}
+
+[098.085]
+{SAY}...Diary... Zzz...{/SAY}
+
+[098.086]
+{SAY}Someday I want to leave this little village{PAUSE:14} and live rich in the city.{PAUSE:1E}{WAIT}That's the big dream of little me.{/SAY}
+
+[098.087]
+{SAY}I wonder what's for dinner tonight~{/SAY}
+
+[098.088]
+{SAY}...Mumble mumble... I'm so full...{/SAY}
+
+[098.089]
+
+　《{NAME:19} found some money!》
+
+[098.090]
+
+　《{NAME:19} found {WORD}!》
+
+[098.091]
+《But {NAME:19} already has 99 {WORD}!》
+
+[098.092]
+
+　《{NAME:19} gave up on {WORD}...》
+
+[098.095]
+{SAY}This way! Hurry up!{/SAY}
+
+[098.096]
+
+　　"The History of Tsukubane Shrine..."
+
+[098.097]
+
+《It was too hard to read...》
+
+[098.110]
+{SAY}Ah, it's you!!{/SAY}
+
+[098.111]
+{SAY}What an idiot! He really followed us!{/SAY}
+
+[098.112]
+{SAY}You've got some nerve, standing up to us!{/SAY}
+
+[098.113]
+{SAY}I'll knock you flat!{/SAY}
+
+[098.114]
+{SAY}Hold it, hold it!{/SAY}
+
+[098.115]
+Brat Boss
+{SAY}I'll be your opponent!{/SAY}
+
+[098.116]
+Brat Boss
+{SAY}All right,{PAUSE:32} here I come!{/SAY}
+
+[098.117]
+Brat Boss
+{SAY}...All right.{PAUSE:28} I'll let you off easy today...{/SAY}
+
+[098.118]
+Brat Boss
+{SAY}This time I'll call it a draw!{WAIT}But someday we'll settle this for sure!{/SAY}
+
+[098.119]
+{SAY}For sure!{/SAY}{PAUSE:0A}
+{SAY}For sure!{/SAY}{PAUSE:0A}
+{SAY}For sure!{/SAY}{PAUSE:0A}
+{SAY}For sure!{/SAY}
+
+[098.120]
+Brat Boss
+{SAY}Here! I'll give your stuff back. Be grateful!{/SAY}
+
+[098.121]
+{SAY}Be grateful!{/SAY}{PAUSE:0A}
+{SAY}Be grateful!{/SAY}{PAUSE:0A}
+{SAY}Be grateful!{/SAY}{PAUSE:0A}
+{SAY}Be grateful, please!{/SAY}
+
+[098.122]
+
+《Got "Grandma's Letter" back!》
+
+[098.123]
+Brat Boss
+{SAY}All right! Let's go!!{/SAY}
+
+[098.127]
+Brat Boss
+{SAY}You're late, Musashi!{/SAY}
+
+[098.128]
+{SAY}Huh? Was his name Musashi?{/SAY}
+
+[098.129]
+{SAY}No, it wasn't, was it?{/SAY}
+
+[098.130]
+{SAY}It's just the Boss's usual sickness.{/SAY}
+
+[098.131]
+{SAY}It's rough on the rest of us who have to play along.{/SAY}
+
+[098.132]
+Brat Boss
+{SAY}Shut-{PAUSE:14}up-{PAUSE:14}shut-{PAUSE:14}up-{PAUSE:14}shut up!!{/SAY}
+
+[098.133]
+Brat Boss
+{SAY}Ahem!{WAIT}...{PAUSE:14}And so, the time has finally come for you and me, destined rivals, to settle this!{/SAY}
+
+[098.134]
+Brat Boss
+{SAY}What's with that cool attitude! You're getting cocky!{/SAY}
+
+[098.135]
+{SAY}Cocky!{/SAY}{PAUSE:0A}
+{SAY}Cocky!{/SAY}{PAUSE:0A}
+{SAY}Cocky!{/SAY}{PAUSE:0A}
+{SAY}Cocky!{/SAY}
+
+[098.136]
+Brat Boss
+{SAY}I'll explain the rules!{WAIT}In a plain fight I wouldn't stand a chance{PAUSE:1E}... I mean{PAUSE:1E} uh,{PAUSE:1E} it wouldn't be fun!{WAIT}So whoever beats the ghost that's been showing up lately on Mt. Tsukubane, our playground, wins!{WAIT}Any complaints?{/SAY}
+
+[098.137]
+Brat Boss
+{SAY}That's the spirit.{WAIT}You can get to Mt. Tsukubane from behind the shrine.{/SAY}
+
+[098.138]
+Brat Boss
+{SAY}The winner gets praised as the hero of this village!{WAIT}Don't slack off!{/SAY}
+
+[098.139]
+{SAY}Okay, I'll give the signal!{/SAY}
+
+[098.140]
+{SAY}On your marks...{/SAY}
+
+[098.141]
+{SAY}Get seeeet...{/SAY}
+
+[098.142]
+{SAY}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}GOOOOO!{/SAY}
+
+[098.143]
+Brat Boss
+{SAY}Nyah nyah!{WAIT}Serves you ri~ight!{/SAY}
+
+[098.144]
+Brat Boss
+{SAY}If you say that, the story won't go anywhere!{PAUSE:28} Come on, have a match with me!{/SAY}
+
+[098.145]
+{SAY}The winner gets praised as a hero!{WAIT}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14}What's "praised" mean?{/SAY}
+
+[098.146]
+{SAY}The Boss is strong, but he fights a little dirty.{/SAY}
+
+[098.147]
+{SAY}What're you doing! Hurry up and go!{/SAY}
+
+[098.148]
+{SAY}...Aren't you scared of ghosts?{/SAY}
+
+[098.149]
+{SAY}Whoa~. That's amazing.{/SAY}
+
+[098.150]
+{SAY}I knew it.{PAUSE:1E} I'm scared too.{PAUSE:14} Brrr...{/SAY}
+
+[098.151]
+
+　《{NAME:19} used the gate key!》
+
+[098.152]
+
+《It seems to be locked...》
+

@@ -1,0 +1,504 @@
+[096.019]
+{SAY}{NAME:19}! {PAUSE:1E}Your lunch!!{/SAY}
+
+[096.020]
+{SAY}What!? {NAME:19}, you're riding your bike all the way to Hokkaido by yourself!? {PAUSE:14}No way, that's unreal!{WAIT}...{PAUSE:1E}Oh yeah, somebody at school was looking for you!{/SAY}
+
+[096.021]
+{SAY}Yo, {NAME:19}! You forgot this yesterday!{/SAY}
+
+[096.022]
+
+《Got the Bat!》
+
+[096.023]
+{SAY}You know this already, but make sure you equip it! Press the △ button and choose your equipment.{/SAY}
+
+[096.024]
+{SAY}Have you equipped it? Press the △ button and choose your equipment.{/SAY}
+
+[096.025]
+{SAY}A trip on your own!?{PAUSE:0A} Take me with you!{/SAY}
+
+[096.026]
+{SAY}...{PAUSE:28}Never mind. {PAUSE:0F}But for a souvenir, I want Shiroi Koibito cookies.{/SAY}
+
+
+[096.027]
+{SAY}...{PAUSE:28}You'll just come home crying right away anyway! {PAUSE:0A}...{PAUSE:0F}My souvenir better be Shiroi Koibito!{/SAY}
+
+[096.028]
+Policeman
+{SAY}Oh, {NAME:19}!{/SAY}
+
+[096.029]
+Policeman
+{SAY}A friend of yours was looking for you at school! Why don't you go see them?{/SAY}
+
+[096.030]
+{SAY}A trip on your own? {PAUSE:14}It'll be a long journey. {PAUSE:14}You might stay up all night, or miss school or work.{WAIT}Are you really sure?{/SAY}
+
+[096.031]
+{SAY}I hope it's a wonderful journey. {PAUSE:1E}Don't worry. I'm sure it will be.{/SAY}
+
+[096.032]
+{SAY}That's right. {PAUSE:14}Nobody can go killing a whole life instead of just killing time.{WAIT}But...{PAUSE:0F} "killing a life" sounds kind of lovely, doesn't it?{/SAY}
+
+[096.033]
+Policeman
+{SAY}Oh, {NAME:19}! A friend of yours was looking for you at school! Why don't you go see them?{/SAY}
+
+[096.034]
+{SAY}You there!{/SAY}
+
+[096.035]
+{SAY}You're traveling alone, eh? Let me tell you a story. It'll do you good.{/SAY}
+
+[096.036]
+{SAY}When I set out on a journey alone, it was raining. {PAUSE:0A}I hate rain. {PAUSE:1E}It gets you wet.{WAIT}Do you like rain?{PAUSE:1E} I see, I see.{WAIT}I like green peppers.{PAUSE:1E} You've got to eat your green peppers.{WAIT}Well? Isn't my story interesting?{/SAY}
+
+[096.037]
+{SAY}Good kid, good kid. I'll tell you more.{/SAY}
+
+[096.038]
+{SAY}I'll tell you a story any time.{/SAY}
+
+[096.039]
+{SAY}It's closed for construction.{WAIT}Huh, Hokkaido? This road goes to the city.{/SAY}
+
+[096.040]
+{SAY}This road goes to the city.{/SAY}
+
+[096.041]
+　Hokkaido is north: up.
+
+[096.042]
+{SAY}Oh, {NAME:19}. You know this already, but to get off your bike, press the × button.{/SAY}
+
+[096.043]
+{SAY}A trip on your own? Good for you.{WAIT}My kid does nothing but study, even though it's summer vacation.{/SAY}
+
+[096.044]
+{SAY}Listen, woof! When you get tired on your trip, rest at an inn or a hotel often, woof.{WAIT}And if you keep a diary while you're at it, that's woof-derful, woof.{/SAY}
+
+[096.045]
+{SAY}South is this way, woof!{/SAY}
+
+[096.046]
+# The original is フトンがふっとんだ, "the futon flew off", a famously lame pun.
+{SAY}What do you call a sleeping bull? A bulldozer!{WAIT}{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}I know. It's not funny.{WAIT}But I can't go traveling, so this is how I kill time.{/SAY}
+
+[096.047]
+
+　《{NAME:19} found some loose change!》
+
+[096.048]
+{SAY}Oh, {NAME:19}, hello. So you're going on a trip by yourself? Good for you.{WAIT}All right, here's a bun as a reward.{/SAY}
+
+[096.049]
+
+《Got a Corner Store Bun!》
+
+[096.050]
+{SAY}Eat it and it'll perk you up.{/SAY}
+
+[096.051]
+{SAY}The shop's being remodeled right now. By the time you're back from your trip, {NAME:19}, it'll be really nice.{WAIT}A trip on your own...{PAUSE:0A} Good for you. Good for you.{/SAY}
+
+[096.052]
+{NAME:16}
+{SAY}Take care, {NAME:19}. Go and see all kinds of things.{/SAY}
+
+[096.053]
+{NAME:16}
+{SAY}Oh, {NAME:19}. What's wrong? Did something happen?{/SAY}
+
+[096.054]
+{SAY}Whatever the problem is, if you try hard, I'm sure you can solve it.{HOLD}{NAME:16} can't help you forever, so try doing it on your own!{/SAY}
+
+[096.055]
+{SAY}I see. Good boy. {NAME:16} is always watching over you.{WAIT}So try doing it on your own!{/SAY}
+
+[096.056]
+　And come home safe and sound,
+　and tell me all about your trip.
+
+[096.057]
+{SAY}Oh... what a pretty flower. What's this for?{/SAY}
+
+[096.058]
+Give the flower
+Nothing
+
+[096.059]
+{SAY}I see...{/SAY}
+
+[096.060]
+{SAY}Really!? Thank you so much!{/SAY}
+
+[096.061]
+
+《Gave the pretty flower!》
+
+[096.062]
+{SAY}I see...{/SAY}
+
+[096.065]
+{SAY}Off you go. Be careful, {NAME:19}.{WAIT}Go and see all kinds of things.{/SAY}{HOLD}
+
+[096.066]
+{SAY}Oh, and take this with you!{/SAY}
+
+[096.067]
+
+《Got "Grandma's Letter"!》
+
+[096.068]
+{SAY}Say hello to Grandma for me! Now, off you go!{/SAY}
+
+[096.071]
+{NAME:16}
+{SAY}That way is east!{WAIT}Oh, {NAME:16} is so worried. {NAME:19}, don't you know the difference between north and east?{WAIT}...{NAME:19},{PAUSE:1E} are you by any chance{PAUSE:28}... an idiot?{PAUSE:28} ...Hee hee.{/SAY}
+
+[096.072]
+{NAME:16}
+{SAY}Not that way! East is right, north is up!{WAIT}{NAME:19}, do you think I'm nagging?{/SAY}
+
+[096.073]
+{SAY}...I see. But you know, {NAME:16} just can't help worrying.{/SAY}
+
+[096.074]
+{SAY}That's right. {NAME:16} just can't stop worrying about {NAME:19}.{/SAY}
+
+[096.075]
+MAMA
+MOM
+MA
+MATER
+MOTHER
+MAW
+MOMMY
+MUM
+MOMMA
+MUMSY
+MUMMY
+MILADY
+
+[096.076]
+MAMA
+
+[096.077]
+MOM
+
+[096.078]
+MA
+
+[096.079]
+MATER
+
+[096.080]
+MOTHER
+
+[096.081]
+MAW
+
+[096.082]
+MOMMY
+
+[096.083]
+MUM
+
+[096.084]
+MOMMA
+
+[096.085]
+MUMSY
+
+[096.086]
+MUMMY
+
+[096.087]
+MILADY
+
+[096.088]
+{SAY}Now, it's time to set off. Here's your lunch.{/SAY}
+
+[096.089]
+{SAY}I packed your favorites, {NAME:19}: hamburger steak and little octopus sausages.{WAIT}And here's your pocket money. Don't waste it.{/SAY}
+
+[096.090]
+
+《Got the Boxed Lunch!》
+
+[096.091]
+
+《Got 1000G!》
+
+[096.092]
+{SAY}To get to Hokkaido, just head north.{HOLD}{NAME:19}, you're so curious, so no wandering off along the way.{WAIT}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}I'm worried.{/SAY}
+
+[096.093]
+
+《Call out to your mother.》
+
+
+[096.094]
+{SAY}What's wrong? Feeling lonely? Were you always such a weak boy, {NAME:19}?{/SAY}
+
+[096.095]
+{SAY}I'll be fine, {NAME:16}!{/SAY}
+
+[096.096]
+{SAY}This is a present from {NAME:16}. A diary!{WAIT}You should write in it about the things you see and do on your trip, {NAME:19}.{/SAY}
+
+[096.097]
+
+《Got the Diary!》
+
+[096.098]
+{SAY}{NAME:16} is worried after all. Are you really going?{/SAY}
+
+[096.099]
+{SAY}...I see. You're a strong boy, {NAME:19}.{WAIT}But don't go following any weird old men. Be careful out there.{/SAY}
+
+[096.100]
+{SAY}Oh, you're not going? After you were looking forward to it so much.{HOLD}{NAME:16} is relieved, but a little sad. Are you really not going?{/SAY}
+
+[096.101]
+{SAY}All right.{WAIT}Then go do your homework!!{WAIT}{NAME:16} is truly sad. Goodbye.{/SAY}
+
+[096.102]
+
+《Found {WORD}!》
+
+[096.103]
+
+《Got {WORD}!》
+
+[096.104]
+《But {NAME:19} already has 99 {WORD}!》
+
+[096.105]
+
+《{NAME:19} gave up on {WORD}...》
+
+[096.106]
+
+《Found a secret stash!》
+
+[096.107]
+
+《Got 150G!》
+
+[096.108]
+
+　"G.O.D 2" coming soon!
+
+[096.109]
+{SAY}Wake up.{/SAY}
+
+[096.110]
+{SAY}It's morning! Come on, up, up!{/SAY}
+
+[096.111]
+{SAY}Come on, it's time.{/SAY}
+
+[096.112]
+{SAY}Oh my, are you still half asleep?{PAUSE:14} You were so excited you couldn't sleep, weren't you?{WAIT}Come on, it's summer vacation!{PAUSE:0A} Summer vacation!{PAUSE:28} Sum-{PAUSE:14}mer-{PAUSE:14}va-{PAUSE:14}ca-{PAUSE:14}tion{PAUSE:14}!{PAUSE:1E} Summer vacation!!{WAIT}You're riding your bike to Hokkaido to see Grandma, aren't you?{/SAY}{HOLD}
+
+[096.114]
+{SAY}Oh, your name isn't written on this bag and hat.{WAIT}They have name tags, so write your name on them properly.{/SAY}
+
+[096.115]
+{SAY}Your lunch is ready! Hurry on down, {NAME:19}!{/SAY}
+
+[096.116]
+
+　　　"July 1999"
+
+[096.117]
+
+《Found the "Summer Homework"!》
+
+[096.118]
+
+《.{PAUSE:14}.{PAUSE:14}.{PAUSE:14}Pretended not to see it.》
+
+[096.119]
+{SAY}My husband's one joy in life is yelling at kids who walk in without a word.{WAIT}He used to be an elementary school principal, so he can't shake the habit.{/SAY}
+
+[096.120]
+{SAY}When you come into a house, call out first, okay?{WAIT}Then it's fine to come in.{WAIT}...But there's nothing much here, so don't bother searching.{/SAY}
+
+[096.122]
+{SAY}Thief!{/SAY}
+
+[096.123]
+{SAY}Oh, it's just {NAME:19}. You can't just walk in like that.{WAIT}What? Other games let you?{WAIT}Those other games are just rude.{/SAY}
+
+[096.124]
+{SAY}Someone once said that no bird can fly higher than the imagination.{WAIT}Like this, watching the game screen, I walk all over the world.{PAUSE:14}...{PAUSE:14}Just kidding.{/SAY}
+
+[096.125]
+{SAY}Papa's always playing games.{PAUSE:12} They're mine, you know.{WAIT}By the way, {NAME:19}, when you play a game, do you read the strategy guide or game magazines first?{/SAY}
+
+[096.126]
+{SAY}Hmm. It's no fun when you know what's coming.{/SAY}
+
+[096.127]
+{SAY}Wow, {NAME:19}, you're so good.{/SAY}
+
+[096.128]
+{SAY}Oh! What a pretty flower! Is it for me?{/SAY}
+
+[096.129]
+{SAY}Yay! Thank you so much!{/SAY}
+
+[096.130]
+
+《Gave the pretty flower!》
+
+[096.131]
+{SAY}{NAME:19}, I knew you had a crush on me!{/SAY}
+
+[096.132]
+{SAY}Hmph.{/SAY}
+
+[096.133]
+{SAY}You're something, talking to a cat, but I'm something too, for answering.{WAIT}Travel with that spirit, meow.{/SAY}
+
+[096.134]
+{SAY}What!? To Hokkaido by yourself!! I see, {NAME:19}, you're already in third grade, after all.{WAIT}Do your best. When you get back, tell your teacher lots and lots about it.{/SAY}
+
+[096.135]
+{SAY}Lucky. I want to go on a trip too.{WAIT}Every day of mine is so ordinary.{/SAY}
+
+[096.136]
+{SAY}Are you doing your summer homework?{WAIT}I'm keeping a diary of my sunflower.{PAUSE:32} I wish it would grow bigger.{/SAY}
+
+[096.137]
+{SAY}If you're poisoned or knocked out, come to the hospital.{WAIT}What? "Instead of a church"? You can't heal injuries at a church, can you?
+
+[096.138]
+{SAY}Hey there, little boy. Want to have some fun with big sis?{/SAY}
+
+[096.139]
+{SAY}You're too young for that, you little flirt.{/SAY}
+
+[096.140]
+{SAY}Oh, you're such a scaredy-cat~. Come back when you're all grown up.{/SAY}
+
+[096.141]
+{SAY}Even in towns and villages with no hospital, try the inn. Sometimes a doctor or a nurse is staying there.{/SAY}
+
+[096.142]
+{SAY}Hm? That's a pretty flower you have. Could it be a get-well gift for me?{/SAY}
+
+[096.143]
+{SAY}Really! Thank you so much!{/SAY}
+
+[096.144]
+
+《Gave the pretty flower!》
+
+[096.145]
+{SAY}This old man is touched!{/SAY}
+
+[096.146]
+{SAY}I see...{/SAY}
+
+[096.147]
+
+　　"Basics of Modern Medicine"
+
+[096.148]
+
+《...Hm? Something's tucked inside.》
+
+[096.149]
+
+《Found 200G!》
+
+[096.150]
+{SAY}Ahem!
+
+[096.151]
+{SAY}No, no, that's all right. Take it.{WAIT}Pay me back when you've made it big. Wahahaha.
+
+[096.152]
+
+《Got 200G!》
+
+[096.153]
+{SAY}Oh, {NAME:19}. Traveling by yourself, I hear?{WAIT}Your mother must really trust you...{WAIT}I could never do that.{/SAY}
+
+[096.154]
+{SAY}Papaaa! Take me somewhere!{/SAY}
+
+[096.155]
+
+《What a pretty flower...》
+
+[096.156]
+{SAY}Oh, {NAME:19}. Do you want a flower?{/SAY}
+
+[096.157]
+{SAY}Well... it's really 100G, but just for you, 50G!{WAIT}Want to buy one?{/SAY}
+
+[096.158]
+
+《Got the pretty flower!》
+
+[096.159]
+{SAY}Hee hee. Who's it for, I wonder?{/SAY}
+
+[096.160]
+{SAY}Oh... you don't have enough money...{/SAY}
+
+[096.161]
+{SAY}I see... Too bad.{/SAY}
+
+[096.162]
+{SAY}I see... And it's so pretty, too.{/SAY}
+
+[096.163]
+{SAY}Oh, {NAME:19}.{WAIT}How's the flower doing?{/SAY}
+
+[096.164]
+{SAY}Sure is hot.{WAIT}This year's heat isn't normal.{/SAY}
+
+[096.165]
+{SAY}Zaru soba or somen... which should I have?{/SAY}
+
+[096.166]
+{SAY}Welcome! ...Oh, it's just {NAME:19}!{WAIT}Full of energy as always! All right! Have this!{/SAY}
+
+[096.167]
+
+《Received {WORD}!》
+
+[096.168]
+
+《Got {WORD}!》
+
+[096.169]
+《But {NAME:19} already has 99 {WORD}!》
+
+[096.170]
+
+《Gave up on {WORD}...》
+
+[096.171]
+{SAY}Soba's the best when it's hot! Welcome!{/SAY}
+
+[096.172]
+
+《{NAME:19} found {WORD}!》
+
+[096.173]
+《But {NAME:19} already has 99 {WORD}!》
+
+[096.174]
+
+《{NAME:19} gave up on {WORD}...》
+

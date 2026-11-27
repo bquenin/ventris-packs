@@ -1,0 +1,400 @@
+[102.000]
+Write in diary
+Read diary
+Quit
+
+[102.002]
+"Before setting out, open the Croiset Notes.{WAIT}You can open them any time with the □ button on the controller. The notes hold all kinds of information you need for your adventure. If there's anything you don't understand, look it up."
+
+[102.003]
+Dr. Croiset
+{SAY}...{NAME:19}.{PAUSE:1E} {NAME:19}...!{/SAY}
+
+[102.006]
+Write in your diary?
+
+[102.007]
+Write in diary
+Read diary
+Sleep
+
+[102.008]
+{SAY}Hey, {NAME:19}. Dr. Croiset told me about you.{WAIT}You want a weapon, right?{WAIT}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.Hmm{PAUSE:14} You don't look very strong.{WAIT}You can't equip anything too heavy.{WAIT}All right, take this one with you.{/SAY}
+
+[102.009]
+
+《{NAME:19} got a Training Sword!》
+
+[102.010]
+
+《{NAME:19} got a Training Helmet》
+
+[102.011]
+
+《{NAME:19} got a Training Suit》
+
+[102.012]
+
+《{NAME:19} got Training Boots》
+
+[102.013]
+{SAY}Don't forget to equip it.{HOLD}Press the △ button and choose "Equip"!{/SAY}
+
+[102.014]
+{SAY}Don't forget to equip it.{HOLD}Press the △ button and choose "Equip"!{WAIT}...And if you're going on a journey, you'll need to stock up on items, too.{WAIT}Want to buy something?{/SAY}
+
+[102.015]
+{SAY}Croiset's dead!{/SAY}
+
+[102.016]
+{SAY}Ah, {NAME:19}! Dr. Croiset was looking for you.{/SAY}
+
+[102.017]
+{SAY}Hey!{/SAY}
+
+[102.018]
+{SAY}No going outside without permission!{WAIT}It's crawling with aliens and monsters out there.{/SAY}
+
+[102.019]
+{SAY}No going outside without permission!{/SAY}
+
+[102.020]
+{SAY}I'll avenge my family and friends!{PAUSE:1E} Oh, it's just {NAME:19} the washout.{WAIT}Hm? No way, no way!{WAIT}With your grades, I can't let you into the Attack Team!{/SAY}
+
+[102.021]
+{SAY}Ten years since the aliens came! How long will this war go on{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{/SAY}
+
+[102.022]
+{SAY}...I'm the only one who survived...{WAIT}But what am I supposed to do now...{WAIT}This is about all I can do for now.{/SAY}
+
+[102.023]
+Stay
+Shop
+Quit
+
+[102.024]
+{SAY}Hang in there...{/SAY}
+
+[102.025]
+{SAY}Hang in there...{/SAY}
+
+[102.026]
+{SAY}...Oh, it's you! You made it out safe.{WAIT}This is about all I can do for now.{/SAY}
+
+[102.027]
+Stay
+Shop
+Quit
+
+[102.028]
+{SAY}Hang in there...{/SAY}
+
+[102.029]
+{SAY}Hang in there...{/SAY}
+
+[102.030]
+{SAY}All I have is a shabby tent, but will you stay?{/SAY}
+
+[102.031]
+{SAY}Then will you at least read your diary?{/SAY}
+
+[102.032]
+{SAY}Take care...{/SAY}
+
+[102.033]
+{SAY}All I have is a shabby tent, but will you stay?{/SAY}
+
+[102.034]
+{SAY}Then will you at least read your diary?{/SAY}
+
+[102.035]
+{SAY}Take care...{/SAY}
+
+[102.036]
+{SAY}Seems the aliens attacked another town...{HOLD}Not that there's any point telling a washout like you.{/SAY}
+
+[102.037]
+{SAY}Hey! You're not a member of the Attack Team.{WAIT}Washouts, over there.{/SAY}
+
+[102.038]
+{SAY}Go left from here and you'll reach the Attack Team's training ground.{/SAY}
+
+[102.039]
+{SAY}If you're poisoned or knocked out, come to the hospital.{WAIT}What? "Instead of a church"? You can't heal injuries at a church, can you?
+
+[102.040]
+{SAY}Hey there, little boy. Want to have some fun with big sis?{/SAY}
+
+[102.041]
+{SAY}You're too young for that, you little flirt.{/SAY}
+
+[102.042]
+{SAY}Chicken...{/SAY}
+
+[102.043]
+{SAY}We don't stand a chance anyway. You think so too, don't you?{/SAY}
+
+[102.044]
+{SAY}Yeah, I knew it. Sigh{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}.{/SAY}
+
+[102.045]
+{SAY}Yeah, you're right. Someday a peaceful day will come, I'm sure.{/SAY}
+
+[102.046]
+{SAY}How did someone like you ever get into Bless?{HOLD}What is Dr. Croiset thinking...{/SAY}
+
+[102.047]
+{SAY}Yo! Washout!{WAIT}We're the elite corps, the Attack Team!{WAIT}We'll go anywhere to take down aliens!{WAIT}Though since the railways and planes got wrecked, it stinks always having to walk.{/SAY}
+
+[102.048]
+{SAY}Ah, it's you.{WAIT}What lies ahead is no place for a weakling like you.{WAIT}If you're going anyway, at least go properly equipped.{WAIT}Advice~{PAUSE:5A}over.{/SAY}
+
+[102.051]
+Captain
+{SAY}Then I'll take my leave.{/SAY}
+
+[102.052]
+Dr. Croiset
+{SAY}Hmm... So in the end, no one reacted to that stone this time either...{/SAY}
+
+[102.053]
+Captain
+{SAY}...It can't be helped.{WAIT}We'll just have to form the Attack Team with the forces we have now.{/SAY}
+
+[102.054]
+Dr. Croiset
+{SAY}Mm. Take care.{WAIT}I intend to continue my research here a while longer.{/SAY}
+
+[102.055]
+Captain
+{SAY}Any message for your daughter{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. I mean, for Dr. Closet?{/SAY}
+
+[102.056]
+Dr. Croiset
+{SAY}No...{/SAY}
+
+[102.057]
+Captain
+{SAY}...Then I'll take my leave.{/SAY}
+
+[102.058]
+Dr. Croiset
+{SAY}Oh! If it isn't {NAME:19}. Looks like you're awake.{WAIT}You seemed to be having quite the nightmares last night...{WAIT}Another bad dream?{/SAY}
+
+[102.059]
+Dr. Croiset
+{SAY}...{PAUSE:14}Hm? What's wrong? You look pale.{/SAY}
+
+[102.060]
+Dr. Croiset
+{SAY}...What! Your memory has come back! You remember the past!!{WAIT}I see. Tell me the rest inside.{/SAY}
+
+[102.061]
+Dr. Croiset
+{SAY}Oh! That's right!{/SAY}
+
+[102.062]
+Dr. Croiset
+{SAY}Stop by the training ground on the west side of this shrine and get some equipment.{WAIT}It's dangerous to go as you are!{/SAY}
+
+[102.063]
+
+《You hear something inside the shrine...》
+
+[102.064]
+{SAY}You look pale.{PAUSE:1E} What?{PAUSE:1E} Where are we?{WAIT}At the Bless base, obviously. {NAME:19}, you're acting weird.{/SAY}
+
+[102.065]
+{SAY}A... aliens... out of nowhere...{/SAY}
+
+[102.066]
+{SAY}Long ago, this was Tsukubane Village, famous for its toad oil{PAUSE:00}.{PAUSE:00}.{PAUSE:00}. But now it's just a wasteland.{/SAY}
+
+[102.067]
+{SAY}D... Dr. Croiset is... ...hurry...{/SAY}
+
+[102.068]
+{SAY}The villages and towns past here? ...The aliens destroyed them.{HOLD}What?{PAUSE:1E} That's the town you were born in?{WAIT}I see{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. But{PAUSE:1E} there's no one left.{/SAY}
+
+[102.069]
+{SAY}..........{/SAY}
+
+[102.070]
+Dr. Croiset
+{SAY}I found you about ten years ago...{WAIT}Yes... back when the aliens invaded this Earth.{/SAY}
+
+[102.071]
+Dr. Croiset
+{SAY}...It seems you're confused from the shock of your memory returning.{WAIT}...The details will come back to you little by little.{/SAY}
+
+[102.072]
+Dr. Croiset
+{SAY}Your brain certainly shows signs of having touched the God Stone.{WAIT}But your brain still seems not to have been unlocked...{WAIT}Now that your memory is back, though, touching the God Stone again might change something.{WAIT}...What do you say? Why not climb Mt. Tsukubane and touch the God Stone once more?{/SAY}
+
+[102.073]
+Dr. Croiset
+{SAY}Good! I'll contact the guard to the north. ...Take care!{/SAY}
+
+[102.074]
+Dr. Croiset
+{SAY}...I see. Perhaps you don't feel up to it yet...{WAIT}If you change your mind, let me know.{/SAY}
+
+[102.075]
+{SAY}Kekeke! To think there were still humans left in a place like this!{/SAY}
+
+[102.076]
+{SAY}Now, you're the only one left! Be a good boy and disappear!!{/SAY}
+
+[102.077]
+Dr. Croiset
+{SAY}...What is your goal? Why have you come to Earth!{/SAY}
+
+[102.078]
+{SAY}I don't need to tell a bug like you anything! ...Hm?{/SAY}
+
+[102.079]
+{SAY}So there were still bugs left... Get rid of him!{/SAY}
+
+[102.080]
+{SAY}Oho... Not bad. But how about this!!{/SAY}
+
+[102.081]
+{SAY}Hmph! Stubborn, aren't you! But this is the end!{/SAY}
+
+[102.082]
+Dr. Croiset
+{SAY}{NAME:19}! Awaken, {NAME:19}!{/SAY}
+
+[102.083]
+Dr. Croiset
+{SAY}A strange, unknown power sleeps within you!{/SAY}
+
+[102.084]
+{SAY}Shut up, old man!{/SAY}
+
+[102.085]
+{NAME:19}
+{SAY}Doctor!{/SAY}
+
+[102.086]
+{SAY}You!{PAUSE:14} ...That power!?{/SAY}
+
+[102.087]
+{SAY}It can't be... That bugs like you...{PAUSE:14} could use that power...{PAUSE:1E} is...!{/SAY}
+
+[102.088]
+Dr. Croiset
+{SAY}Take care!{WAIT}Oh, that's right. When you're hurt or tired, rest on that futon there.{/SAY}
+
+[102.089]
+Dr. Croiset
+{SAY}Oh, {NAME:19}!{WAIT}Do you feel like going to Mt. Tsukubane and touching the God Stone again?{/SAY}
+
+[102.090]
+Dr. Croiset
+{SAY}Good! I'll contact the guard to the north. ...Take care!{/SAY}
+
+[102.091]
+Dr. Croiset
+{SAY}...I see. Perhaps you don't feel up to it yet...{WAIT}If you change your mind, let me know.{/SAY}
+
+[102.092]
+
+《Dr. Croiset has already breathed his last...》
+
+[102.093]
+Dr. Croiset
+{SAY}...{NAME:19}!{PAUSE:14} {NAME:19}, is it! You finally did it...!{WAIT}That power is the strange, unknown power that was sleeping in your brain.{WAIT}...And that is our one trump card, the only thing that can stand against the aliens...{/SAY}
+
+[102.094]
+Dr. Croiset
+{SAY}For a long time I've been researching that power...{WAIT}I've written down the details in this.{WAIT}It's the fruit of my research. If you're ever in trouble, look it up...{/SAY}
+
+[102.095]
+
+《Got the Croiset Notes!》{WAIT}
+{CLEAR}
+《Press the □ button to read the notes.》
+
+[102.096]
+Dr. Croiset
+{SAY}...{NAME:19}, go to Bless in Neo-Kobe.{WAIT}There is another there who has the unknown power.{WAIT}{NAME:19}, hurry!{WAIT}Unleash the unknown power sleeping in your brain and defeat the aliens!{WAIT}While you had no memory, you kept murmuring this:{WAIT}"Where do we come from, and where are we going..."{WAIT}Defeat the aliens, and surely the answer will come too.{WAIT}...I don't have long.{PAUSE:14} Go, and don't worry about me!{/SAY}
+
+[102.097]
+Dr. Croiset
+{SAY}...What are you doing! Hurry up and go!{WAIT}...The aliens could come back at any time.{WAIT}As you are now, you're still no match for the alien army's elite.{WAIT}Set out on your journey, {NAME:19}. And learn to master that power more and more...{WAIT}Then, at last, we humans will be able to stand against the aliens.{WAIT}......{PAUSE:1E}The rest,{PAUSE:14} I leave to you.{/SAY}
+
+[102.098]
+Dr. Croiset
+{SAY}...{PAUSE:1E}Farewell...{PAUSE:1E}{NAME:19}.{WAIT}Be{PAUSE:1E} stro{PAUSE:14}ng.{PAUSE:14} Stronger than anyone...{PAUSE:32} be{PAUSE:3C} stro{PAUSE:32}ng...{/SAY}
+
+[102.099]
+《There's a futon. Sleep for a while?》
+
+[102.100]
+《Then will you at least write in your diary?》
+
+[102.101]
+
+《This is no time for sleeping...》
+
+[102.102]
+{SAY}Then d'ya wanna see yer diary?{/SAY}
+
+
+[102.103]
+{SAY}Come by anytime, y'hear.{/SAY}
+
+[102.104]
+{SAY}..........{/SAY}
+
+[102.105]
+
+　　　"July 2009"{WAIT}
+{CLEAR}"Special Ward {NAME:19}"
+- No abnormalities at present{PAUSE:1E}...
+　Still suffering from amnesia{PAUSE:1E}...
+　Link to the "mystery stone" unknown{PAUSE:1E}... -
+
+[102.106]
+
+　　　　　"Out of Order"
+
+[102.107]
+
+《{NAME:19} touched the fragment of the strange stone!》
+
+[102.108]
+
+《{NAME:19} felt a little strange...》
+
+[102.109]
+
+　　"Bless Tsukubane Branch"
+~Authorized Personnel Only!!~
+
+[102.110]
+
+　　"Bless Tsukubane Branch"
+~Authorized Personnel Only!!~
+
+[102.112]
+Dr. Croiset
+{SAY}But there, disappointed, I found you.{WAIT}Sleeping quietly, as if something were protecting you...{WAIT}But you had lost all your memories.{WAIT}From your bag and hat, I could barely make out just your name: {NAME:19}...{/SAY}
+
+[102.113]
+Dr. Croiset
+{SAY}Here, at last, I found the God Stone.{/SAY}
+
+[102.114]
+Dr. Croiset
+{SAY}But the God Stone gave me no power at all...{/SAY}
+
+[102.116]
+Dr. Croiset
+{SAY}Before the aliens' overwhelming power, the armies of every nation back then were helpless.{WAIT}So I thought to unlock the "strange power" sleeping in the human brain, which I had long been researching, and fight back with it.{/SAY}
+
+[102.117]
+Dr. Croiset
+{SAY}Since ancient times, this Tsukubane Shrine held a sacred relic called the "God Stone."{WAIT}A strange stone with many legends... I came here to study it...{/SAY}
+

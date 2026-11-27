@@ -1,0 +1,1106 @@
+[106.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[106.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[106.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[106.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[106.005]
+Write in diary
+Read diary
+Quit
+
+[106.007]
+{SAY}Sir {NAME:19}! Dan Kichi was looking for you, myaa.{WAIT}He's in the dojo on the right, myaa!{/SAY}
+
+[106.008]
+{SAY}Where are you going, myaa! The mayor is waiting, myaa!{/SAY}
+
+[106.011]
+Write in your diary?
+
+[106.012]
+Write in diary
+Read diary
+Sleep
+
+[106.013]
+《To all you aliens: thanks for your hard work fighting every day, myaa.{WAIT}Have some "Eel Pie" and keep at it, myaa.
+　　　　~Mayor Myaa》
+
+[106.014]
+《Princess Myaa & {NAME:19}: congratulations on your engagement, myaa!!{WAIT}Be happy forever and ever, myaa!!》
+
+[106.015]
+《To all you aliens: there's no Bless here, myaa.{PAUSE:1E} It seems there's one next door in Neo-Kobe, myaa.{WAIT}Have some "Eel Pie" and keep at it, myaa.
+　　　　~Mayor Myaa》
+
+[106.016]
+《　　　　Bulletin{WAIT}The darling of every Myaa citizen, Princess Myaa, has finally gotten engaged, myaa!!{WAIT}We're so jealous of her fiancé {NAME:19}, myaa!!》
+
+[106.017]
+《To all you aliens: "Eel Pie" is Myaa Town's specialty, myaa.{WAIT}It's heavenly delicious, myaa.{WAIT}You absolutely must eat this "Eel Pie", myaa.
+　　　　~Mayor Myaa》
+
+[106.018]
+《　　　　Bulletin{WAIT}The mayor's only daughter is engaged, myaa!!{WAIT}Her fiancé is {NAME:19}, who beat the aliens at Inuyama Zoo, myaa.{WAIT}What a happy day, myaa!!》
+
+[106.019]
+
+《There's an "Eel Pie" under the sign.{PAUSE:1E} Eat it?》
+
+[106.020]
+
+《Ate the "Eel Pie"!》
+
+[106.021]
+
+《...{PAUSE:14}You're getting{PAUSE:19} sleepy{PAUSE:1E} all{PAUSE:28} of{PAUSE:28} a{PAUSE:2D} sudden...{PAUSE:1E}》{PAUSE:3C}
+
+[106.022]
+
+《Left it alone...》
+
+[106.023]
+
+《There's an "Eel Pie"...》
+
+[106.024]
+{SAY}This is the entrance to Myaa Town, zura.{/SAY}
+
+[106.025]
+{SAY}Well, this one's suspicious, dagya.{/SAY}
+
+[106.026]
+{SAY}Who are you, zura?{/SAY}
+
+[106.027]
+I'm nobody suspicious.
+Who are YOU?
+I'd like to know myself!!
+Leave me alone!
+
+[106.028]
+{SAY}This one's an outsider, zura.{/SAY}
+
+[106.029]
+{SAY}Grab him, dagya!{/SAY}
+
+[106.030]
+{SAY}Ah! It's you! How did you get out, myaa!{/SAY}
+
+[106.031]
+{SAY}What, myaa! You beat the aliens at Inuyama Zoo, dagya!?{/SAY}
+
+[106.032]
+{SAY}Feels a bit late, myaa, but I'll tell Mayor Myaa right away, myaa!{/SAY}
+
+[106.033]
+{SAY}I'll tell Mayor Myaa right away, myaa!{/SAY}
+
+[106.034]
+{SAY}Thank you so much, myaa! It's a shame about Princess Myaa, myaa, but I'll swallow my tears and give up, myaa.{WAIT}Be happy, myaa!{/SAY}
+
+[106.035]
+{SAY}I thought things had been shaking a lot lately, and it turns out it was earthquakes, myaa!{WAIT}I was sure it was the mayor snoring, myaa!{/SAY}
+
+[106.036]
+{SAY}We've been hearing a lot about you folks lately, myaa!{WAIT}Makes us proud, myaa!{/SAY}
+
+[106.037]
+{SAY}Mmm! You're a great one!!{PAUSE:14} You should come live in Myaa Town, myaa!{/SAY}
+
+[106.038]
+{SAY}Have you heard about the earthquakes, myaa?{/SAY}
+
+[106.039]
+{SAY}They're scarier than my old lady, myaa...{/SAY}
+
+[106.040]
+{SAY}They say there've been a lot of strange earthquakes lately, myaa.{/SAY}
+
+[106.041]
+{SAY}Yes! Just like this, myaa!{/SAY}
+
+[106.042]
+{SAY}We've been hearing a lot about you folks lately, myaa!{WAIT}Makes us proud, myaa!{/SAY}
+
+[106.043]
+{SAY}This is the bronze statue of the great {NAME:19}, who beat Dr. Z, dagyaa.{WAIT}Looks just like me, myaa.{/SAY}
+
+[106.044]
+{SAY}That {NAME:19} is kind of meh, nyaa.{WAIT}My boyfriend is way cooler, myaa.{/SAY}
+
+[106.045]
+{SAY}Becoming an honorary citizen... and winning a princess, too...{WAIT}As a man, there's no life more enviable than that, myaa!{/SAY}
+
+[106.046]
+{SAY}This is Myaa Town! The most wonderful town in the world, myaa!{/SAY}
+
+[106.047]
+{SAY}If the Way of Myaa spread all over the world, the aliens would be done for in one shot, myaa!!{/SAY}
+
+[106.048]
+{SAY}Heh. I knew you'd come back, myaa!{WAIT}...{PAUSE:1E}What? Still on your journey?{WAIT}What are you dawdling for, myaa!{/SAY}
+
+[106.049]
+{SAY}Ah! They say our lovely Princess Myaa got engaged to some nobody, myaa!{WAIT}Unforgivable, myaa!{/SAY}
+
+[106.050]
+{SAY}So it's you! The nobody who got engaged to Princess Myaa!{WAIT}So jeawous~~!{/SAY}
+
+[106.051]
+{SAY}The mayor said he'd beat the aliens with his slingshot if they came, but{PAUSE:0A} I was worried, myaa.{/SAY}
+
+[106.052]
+{SAY}Oh, if it isn't the son-in-law, myaa!?{WAIT}Sure enough, this world is in full bloom, myaa!!{/SAY}
+
+[106.053]
+{SAY}I wish peace would come soon so I could play pachinko, myaa.{/SAY}
+
+[106.054]
+{SAY}Hooray for the honorary citizen! Hooray for {NAME:19}! Hooray for Mayor Myaa!{/SAY}
+
+[106.055]
+{SAY}Hooray for {NAME:19}! Hooray for Mayor Myaa!{/SAY}
+
+[106.056]
+{SAY}Myaa{PAUSE:08} myaa!{PAUSE:3C} ...In Myaa Town even the dogs bark "myaa myaa", myaa.{/SAY}
+
+[106.057]
+{SAY}I-I ain't done n-nothin', battén.{WAIT}{PAUSE:1E}...Huh!? Oops! Keep this a secret, battén.{/SAY}
+
+[106.058]
+{SAY}Everyone's waiting, myaa!{/SAY}
+
+[106.059]
+　But before that, please go get Dan Kichi, myaa.{WAIT}He's in the gym on the right, myaa!
+
+[106.060]
+　Dan Kichi already went on ahead, myaa!
+
+[106.061]
+{SAY}I'll never forget you, myaa.{/SAY}
+
+[106.062]
+　Oh yes, Dan Kichi said he wanted you to come to the dojo, myaa!{WAIT}The dojo's right there on the right, myaa!
+
+[106.063]
+{SAY}Hurry up, myaa!{/SAY}
+
+[106.064]
+{SAY}Thank you so much, myaa!!{/SAY}
+
+[106.065]
+{SAY}Welcome back!{WAIT}Son-in-law!!{/SAY}
+
+[106.067]
+Dan Kichi
+{SAY}Hey, I've been waiting for you.{WAIT}I always figured you were the kind of guy who'd do something huge.{/SAY}
+
+[106.068]
+{SAY}Say, kid, how about aiming for the world championship with me?{WAIT}You've got talent. If I train you, you'll be a first-class swordsman for sure.{WAIT}No, I'll make you one.{/SAY}
+
+[106.069]
+{SAY}What do you say...?{/SAY}
+
+[106.070]
+{SAY}Great! Then your journey ends here! Got it?{/SAY}
+
+[106.071]
+{SAY}All right! Quit that game and start your sword training! Now, turn off the power.{WAIT}{PAUSE:3C}...What's wrong? Going to keep traveling after all?{/SAY}
+
+[106.072]
+{SAY}...{PAUSE:0A}I see, so you're going to keep traveling after all...{/SAY}
+
+[106.073]
+{SAY}Then hurry up and turn off the power! Training starts now!{/SAY}
+
+[106.074]
+{SAY}...Don't push yourself. ...You're going to keep traveling, aren't you.{WAIT}Better to be clear about your yes and no.{/SAY}
+
+[106.075]
+{SAY}...{PAUSE:0A}I see, so you're going to keep traveling after all...{/SAY}
+
+[106.076]
+{SAY}{PAUSE:0A}...{PAUSE:14}I see, so you're going to keep traveling after all...{/SAY}
+
+[106.077]
+{SAY}{PAUSE:0A}...{PAUSE:14}I see, so you've got to keep traveling...{/SAY}
+
+[106.078]
+　...Such a shame, a real shame.{WAIT}With training you could get as strong as you like... Give this a try.
+
+[106.079]
+Dan Kichi
+{SAY}Not like that.{WAIT}Loosen your grip, relax your shoulders, and gouge in like...{/SAY}
+
+[106.080]
+{SAY}...Strike!{/SAY}
+
+[106.081]
+{SAY}Strike... like that...{/SAY}
+
+[106.082]
+{SAY}That's it! I knew my eye wasn't wrong.{/SAY}
+
+[106.083]
+
+《{NAME:19} learned the Critical Blow!》
+
+[106.084]
+{SAY}Such a shame, a real shame. ...{PAUSE:12}A journey, eh.{WAIT}If only I were a little younger...{WAIT}Farewell, {NAME:19}. Take care.{WAIT}For me and {NAME:19}...{PAUSE:14} which way is tomorrow!!{/SAY}
+
+[106.085]
+Dan Kichi
+{SAY}{NAME:19}! If it isn't {NAME:19}! Have you been well?{WAIT}So you've finally decided to come home!{/SAY}
+
+[106.086]
+{SAY}All right! Training! Turn off the power and we'll get started!{WAIT}Come on, turn off the power!{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:28}What's wrong? Why won't you turn off the power!?{WAIT}{PAUSE:28}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:14}So you just got my hopes up.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:28}I understand.{/SAY}
+
+[106.087]
+{SAY}{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:28}I see. You just dropped by to see my face. That's fine, that's fine. It still makes me happy.{/SAY}
+
+[106.088]
+Dan Kichi
+{SAY}All right, as thanks for not forgetting me and stopping by...{WAIT}I'll give you this.{/SAY}
+
+[106.089]
+
+《Got a Towel!》
+
+[106.090]
+Dan Kichi
+{SAY}Throw this, and you can always escape from a fight.{WAIT}Sometimes running away is fine training too.{WAIT}Oh, it won't work in boss battles.{WAIT}Then you mustn't run.{WAIT}Become a fine swordsman.{WAIT}For me and {NAME:19}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} which way is tomorrow!!{/SAY}
+
+[106.091]
+Dan Kichi
+{SAY}All right, as thanks for not forgetting me and stopping by...{WAIT}I'll teach you this.{/SAY}
+
+[106.092]
+Dan Kichi
+{SAY}All right, here goes.{WAIT}For tomorrow, lesson number 6.{WAIT}The "Double Cross-Counter Slash".{WAIT}This move is an even stronger version of the Cross-Counter Slash!{WAIT}...This one's useful!{WAIT}Keep your elbows in, focus your aim...{WAIT}and strike like you're slamming into them!{WAIT}Strike!{/SAY}
+
+[106.093]
+{SAY}That's it! I knew my eye wasn't wrong.{/SAY}
+
+[106.094]
+《{NAME:19} learned the Double Cross-Counter Slash!》
+
+[106.095]
+{SAY}Such a shame, a real shame. ...{PAUSE:12}A journey, eh.{WAIT}If only I were a little younger...{WAIT}Farewell, {NAME:19}. Take care.{WAIT}For me and {NAME:19}...{PAUSE:14} which way is tomorrow!!{/SAY}
+
+[106.096]
+Dan Kichi
+{SAY}By the way, {NAME:19},{WAIT}got any booze?{/SAY}
+
+[106.097]
+Dan Kichi
+{SAY}Hey! {NAME:19}! Doing well?{WAIT}By the way, got any booze?{/SAY}
+
+[106.098]
+Dan Kichi
+{SAY}{NAME:19}, finish your journey quick and come back here.{/SAY}
+
+[106.099]
+　{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}By the way, {NAME:19}, got any booze?{WAIT}No wine or whiskey, though. They don't suit my palate. No local sake either!
+
+[106.100]
+　What! That's the legendary Myaa Sake! Gimme! Gimme! Gimme! It's mine!
+
+[106.101]
+
+《Dan Kichi took {NAME:19}'s Myaa Sake!》
+
+[106.102]
+Dan Kichi
+{SAY}All right! Take this in return!{/SAY}
+
+[106.103]
+
+《Got the Sunglasses!》
+
+[106.104]
+Dan Kichi
+{SAY}Equip these and your attack goes up!{WAIT}For me and {NAME:19}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} tomorrow is... hic!{/SAY}
+
+[106.105]
+　{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}By the way, {NAME:19}, got any booze?{WAIT}No wine or whiskey, though. They don't suit my palate. No local sake either!
+
+[106.106]
+　What! That's the legendary Myaa Sake! Gimme! Gimme! Gimme! It's mine!
+
+[106.107]
+
+《Dan Kichi took {NAME:19}'s Myaa Sake!》
+
+[106.108]
+Dan Kichi
+{SAY}All right! Take this in return!{/SAY}
+
+[106.109]
+
+《Got a Towel!》
+
+[106.110]
+Dan Kichi
+{SAY}When it's gone, I'll give you another!!{WAIT}It's my towel, with my smell on it! Wahahaha!{WAIT}For me and {NAME:19}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} tomorrow is... hic!{/SAY}
+
+[106.111]
+{SAY}Welcome, myaa. This is the Pachi-Pachi Casino, dagya. Take your time and enjoy yourself, myaa.{/SAY}
+
+[106.112]
+{SAY}Welcome, myaa! This is the 《HAPPY 9 Exchange》, nyaa. Want to play HAPPY 9, myaa?{/SAY}
+
+[106.113]
+{SAY}Welcome, myaa! Are you happy, nyaa?{WAIT}Play Happy 9 and you'll be happy too, myaa!{WAIT}Want to hear the rules, myaa?{/SAY}
+
+[106.114]
+{SAY}Then it's 100G a game, myaa! Will you play, myaa?{/SAY}
+
+[106.115]
+{SAY}Let's get happy!{/SAY}
+
+[106.116]
+{SAY}You don't have enough money, myaa!{/SAY}
+
+[106.117]
+{SAY}Come again, myaa~!!{/SAY}
+
+[106.118]
+{SAY}A Happy 9 card has nine spots you can scratch, nya!{HOLD}Of those nine, you only get to scratch three!{WAIT}Under each is a number from 1 to 4, myaa.{WAIT}Your prize depends on the combination of numbers, myaa!{WAIT}For the combinations, ask next door, myaa!{WAIT}And if a bomb comes up instead of a number, the game ends right there, myaa!{WAIT}It's sad, but those are the rules, myaa!{/SAY}
+
+[106.119]
+{SAY}Then it's 100G a game, myaa! Will you play, myaa?{/SAY}
+
+[106.120]
+{SAY}Let's get happy!{/SAY}
+
+[106.121]
+{SAY}You don't have enough money, myaa!{/SAY}
+
+[106.122]
+{SAY}Come again, myaa~!!{/SAY}
+
+[106.123]
+{SAY}Wow! Too bad, myaa!{/SAY}
+
+[106.124]
+{SAY}Aiyaa~ too bad, myaa!{/SAY}
+
+[106.125]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.126]
+
+《Got a Spirit Essence!》
+
+[106.127]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.128]
+
+《Got a Strength Essence!》
+
+[106.129]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.130]
+
+《Got an Eel Pie!》
+
+[106.131]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.132]
+
+《Got a Rare Wig!》
+
+[106.133]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.134]
+
+《Got an Uiro!》
+
+[106.135]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.136]
+
+《Got some Natural Salt!》
+
+[106.137]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.138]
+
+《Got a Big Power Water!》
+
+[106.139]
+{SAY}Congratulations, myaa! Here! This!{/SAY}
+
+[106.140]
+
+《Got a Power Water!》
+
+[106.141]
+{SAY}Want to play again, myaa? It's 100G a game, myaa.{/SAY}
+
+[106.142]
+{SAY}Don't let your luck slip away, try again, myaa!! It's 100G a game, myaa.{/SAY}
+
+[106.143]
+{SAY}Let's get happy!{/SAY}
+
+[106.144]
+{SAY}You don't have enough money, myaa!{/SAY}
+
+[106.145]
+{SAY}Come again, myaa~!!{/SAY}
+
+[106.146]
+{SAY}Shall I tell you the Happy 9 prizes, myaa?{/SAY}
+
+[106.147]
+111...Spirit Essence
+222...Strength Essence
+333...Eel Pie
+444...Rare Wig
+11?...Uiro
+22?...Natural Salt
+33?...Big Power Water
+44?...Power Water{HOLD}
+
+[106.148]
+{SAY}Come again, myaa!{/SAY}
+
+[106.149]
+{SAY}Welcome, myaa. This is the Pachi-Pachi Casino, dagya. Take your time and enjoy yourself, myaa.{/SAY}
+
+[106.150]
+{SAY}Did you know, myaa?{/SAY}
+
+[106.151]
+{SAY}The son-in-law is a lucky man, myaa!{PAUSE:0F} Now Myaa Town is safe, myaa!{/SAY}
+
+[106.152]
+{SAY}They say the gorgeous Princess Myaa got engaged, myaa!!{WAIT}How happy, myaa!{/SAY}
+
+[106.153]
+{SAY}The son-in-law is a lucky man, myaa!{PAUSE:0F} Now Myaa Town is safe, myaa!{/SAY}
+
+[106.154]
+{SAY}Ah! It's you!{WAIT}You saved me under Izumo Shrine, myaa!{WAIT}Please take this as thanks, myaa!{/SAY}
+
+[106.155]
+
+《Received {WORD}!》
+
+[106.156]
+《But you already have 99 {WORD}!》
+
+[106.157]
+
+《Gave up on {WORD}...》
+
+[106.158]
+{SAY}To think I lived to eat miso katsu again...{WAIT}I'm so moved, myaa!{/SAY}
+
+[106.161]
+{SAY}Welcome! This is Restaurant de Nihon-ichi, myaa!{WAIT}We only serve "ebi furyaa" and "miso katsu", zura.{/SAY}
+
+[106.162]
+　Ah! If it isn't the honorary citizen! We made special miso katsu just for you, myaa!{WAIT}Please eat, myaa!
+
+[106.163]
+{SAY}Wait just a moment, myaa!{/SAY}
+
+[106.164]
+{SAY}What are you doing, myaa! Don't let him get away, myaa!{/SAY}
+
+[106.165]
+{SAY}Miso, miso... Oh, forget it! Your miso will do, myaa!{/SAY}
+
+[106.166]
+{SAY}Sorry to keep you waiting, myaa!!{/SAY}
+
+[106.167]
+
+《...{NAME:19} ate the special miso katsu!》
+
+[106.168]
+{SAY}..................{/SAY}
+
+[106.169]
+{SAY}..................{/SAY}
+
+[106.170]
+{SAY}..................{/SAY}
+
+[106.171]
+
+《Love went up by 5!》
+
+[106.172]
+{SAY}What a shame, myaa...{/SAY}
+
+[106.173]
+　Ah! If it isn't the honorary citizen!{WAIT}Was the special miso katsu good, myaa?
+
+[106.174]
+{SAY}Thank you, nyaa. This is the gratitude of the citizens of Myaa, gaya. My grandkid's favorite, myaa.{/SAY}
+
+[106.175]
+
+《Got a Miso Katsu Bun!》
+
+[106.176]
+{SAY}Hello there, myaa!!{WAIT}This is the gratitude of the citizens of Myaa, gaya. My grandkid's favorite, myaa.{/SAY}
+
+[106.177]
+
+《Got a Miso Katsu Bun!》
+
+[106.178]
+{SAY}Thank you. I'll give you more when I make some, myaa.{/SAY}
+
+[106.179]
+{SAY}Thank you. I'll give you more when I make some, myaa.{/SAY}
+
+[106.180]
+{SAY}Oh! It's you folks!{WAIT}Please take the buns I made, myaa!{/SAY}
+
+[106.181]
+
+《Got a Miso Katsu Bun!》
+
+[106.182]
+{SAY}I'll give you more when I make some, myaa.{/SAY}
+
+[106.183]
+{SAY}Well, myaa?{WAIT}Were the buns I made tasty, myaa?{WAIT}I'll give you more when I make some, myaa.{/SAY}
+
+[106.184]
+{SAY}Is it true the Earth revolves around Myaa Town, myaa?{/SAY}
+
+[106.185]
+{SAY}Ebi furyaa is the tastiest in Japan, zamasu, myaa.{/SAY}
+
+[106.186]
+　The honorary citizen recommends it too, myaa!
+
+[106.187]
+{SAY}I know of no food more delicious than ebi furyaa, myaa.{/SAY}
+
+[106.188]
+{SAY}The PTA approves of nothing but ebi furyaa and miso katsu, zamasu, myaa.{/SAY}
+
+[106.189]
+　Oh? Could it be... the honorary citizen!?{WAIT}I'm so moved, myaa!
+
+[106.190]
+{SAY}The aliens are scary, but I'm glad Myaa Town became number one in Japan, myaa.{/SAY}
+
+[106.191]
+　And it's all thanks to the honorary citizen, myaa!
+
+[106.192]
+{SAY}What are you doing, myaa?{PAUSE:0F} Everyone's waiting outside, myaa.{WAIT}What? What's going on?{WAIT}Playing dumb won't work, myaa!{/SAY}
+
+[106.193]
+{SAY}Shall I sing a song for you, myaa?{/SAY}
+
+[106.194]
+{SAY}Go~ go~, fight~ {NAME:19}~~~ Burn~{WAIT}{NAME:19}~~~~ That's all, myaa.{/SAY}
+
+[106.195]
+{SAY}That co~ol side of you is so dreamy, myaa.{/SAY}
+
+[106.196]
+{SAY}What are you doing, myaa!{PAUSE:0F} Hurry, myaa!{/SAY}
+
+[106.197]
+{SAY}The mayor is upstairs, myaa!!{WAIT}The one next to the mayor is the famous Princess Myaa, myaa!!{/SAY}
+
+[106.198]
+{SAY}Sir {NAME:19} is a lucky man, myaa!{PAUSE:0F} Now Myaa Town is safe, myaa!{/SAY}
+
+[106.199]
+{SAY}Did you know, myaa?{/SAY}
+
+[106.200]
+{SAY}They say some idiot named {NAME:19} turned down becoming an honorary citizen, myaa!{PAUSE:14} Unforgivable, myaa!{/SAY}
+
+[106.201]
+{SAY}They say the honorary citizen, Sir {NAME:19}, is going to be the next mayor, myaa!{PAUSE:14} Wonderful, myaa!{/SAY}
+
+[106.202]
+{SAY}How annoying, myaa! And I was going to tell you, too, myaa!{/SAY}
+
+[106.203]
+Princess Myaa
+{SAY}Wait just a moment, myaa!{/SAY}
+
+[106.204]
+Princess Myaa
+{SAY}Stop wasting your time, myaa! Keep me company, myaa!{/SAY}
+
+[106.205]
+{SAY}Welcome, myaa! This is the Hotel Royal Myaa Town, dagya.{WAIT}The special dinner is miso katsu, nyaa.{WAIT}350G a night, myaa. Will you stay, myaa?{/SAY}
+
+[106.206]
+{SAY}You don't have enough money, myaa!{/SAY}
+
+[106.207]
+{SAY}Welcome, myaa!{WAIT}This is the Hotel Royal Myaa Town, the inn favored by the honorary citizen, Sir {NAME:19}, dagya.{WAIT}...Oh, Sir {NAME:19}! Just for you, 100G, myaa. Will you stay, myaa?{/SAY}
+
+[106.208]
+{SAY}You don't have enough money, myaa!{/SAY}
+
+[106.209]
+{SAY}Welcome, myaa!{PAUSE:14} Oh, {NAME:19}.{PAUSE:14} Congratulations, myaa!{PAUSE:14} Everyone's waiting outside, myaa!{WAIT}Anyway, will you at least write in your diary, myaa?{/SAY}
+
+[106.210]
+{SAY}Everyone's waiting, myaa!{/SAY}
+
+[106.211]
+{SAY}Then will you sneak a read of your diary, myaa?{/SAY}
+
+[106.212]
+{SAY}Come again, myaa!{/SAY}
+
+[106.213]
+{SAY}Myaa Town's medicine is the best in the world! So, what's wrong with you, myaa?{/SAY}
+
+[106.214]
+{SAY}Come anytime, myaa!{/SAY}
+
+[106.215]
+{SAY}Myaa Town's medicine is the best in the world! Oh, if it isn't the great honorary citizen, Sir {NAME:19}!{WAIT}What's wrong, myaa?{/SAY}
+
+[106.216]
+{SAY}Oh! What are you doing in a place like this, myaa!{PAUSE:19} If the star of the show is late, it's no joke, myaa!{/SAY}
+
+[106.217]
+{SAY}You don't have enough money, myaa!{/SAY}
+
+[106.218]
+{SAY}Mya!{PAUSE:0A} Myaa!{PAUSE:0A} Myaah~!!{PAUSE:0A} ...I just moved to this town, so I can't say it right yet.{/SAY}
+
+[106.219]
+　What!{PAUSE:14} You're the famous honorary citizen, {NAME:19}!?{PAUSE:1E} ...{PAUSE:19}Aren't you embarrassed?
+
+[106.220]
+{SAY}I'm so jealous, myaa! Be happy, myaa!{/SAY}
+
+[106.221]
+{SAY}Mya!{PAUSE:0A} Myaa!{PAUSE:0A} Myaah~!!{PAUSE:0A} ...I can finally say it right these days, myaa!{/SAY}
+
+[106.222]
+{SAY}Welcome, myaa! Will you buy a souvenir, myaa?{/SAY}
+
+[106.225]
+Princess Myaa
+{SAY}Sir {NAME:19}...{PAUSE:1E} Sir {NAME:19}!!{/SAY}
+
+[106.226]
+Princess Myaa
+{SAY}Sir {NAME:19}, wake up, myaa!{/SAY}
+
+[106.227]
+Princess Myaa
+{SAY}Sir {NAME:19}! I am the daughter of the great Mayor Myaa, the gorgeous Princess Myaa, myaa!{WAIT}Are you awake, myaa?{/SAY}
+
+[106.228]
+{SAY}I'm so glad, myaa! Smooooch!{/SAY}
+
+[106.229]
+{SAY}My red-hot kiss will wake you up, myaa! Smooooch!{/SAY}
+
+[106.230]
+Princess Myaa
+{SAY}I was moved by how you saved Myaa Town from danger, myaa!{WAIT}So I came all this way to give you a reward of my own, myaa.{WAIT}Please accept it without a word, myaa.{/SAY}
+
+[106.231]
+
+《Princess Myaa held out a ring in terrible taste...》
+
+[106.232]
+Princess Myaa
+{SAY}Call me when you've made up your mind, myaa!{/SAY}
+
+[106.233]
+Princess Myaa
+{SAY}Have you made up your mind, myaa?{/SAY}
+
+
+[106.234]
+　You'll accept it, myaa, won't you?
+
+[106.235]
+
+《{NAME:19} got Princess Myaa's Ring!》
+
+[106.236]
+Princess Myaa
+{SAY}Nguhuhuhu! I'll tell Papa right away, myaa!{/SAY}
+
+[106.237]
+Princess Myaa
+{SAY}Nguhuhuhu!!!{/SAY}
+
+[106.238]
+{SAY}Our relationship has already gone past the point of no return, myaa!{WAIT}Throwing a tantrum won't help, myaa!{/SAY}
+
+[106.239]
+　It's an important matter, myaa. Take your time and think it over, myaa.
+
+[106.240]
+
+《The sliding door won't open... It seems to be locked.》
+
+[106.241]
+Princess Myaa
+{SAY}Stop wasting your time, myaa! Keep me company, myaa!{/SAY}
+
+[106.245]
+{SAY}Mayor Myaa awaits you inside, myaa!{/SAY}
+
+[106.246]
+{SAY}Hurry up and go in, myaa!{/SAY}
+
+[106.247]
+{SAY}Mayor Myaa awaits you inside, myaa!{/SAY}
+
+[106.248]
+{SAY}You were chosen as an honorary citizen, myaa!? I'm so jealous, myaa!{/SAY}
+
+[106.249]
+{SAY}Mayor Myaa awaits you inside, myaa!{/SAY}
+
+[106.250]
+{SAY}Hurry up and go in, myaa!{/SAY}
+
+[106.251]
+{SAY}An honorary citizen is chosen only once every ten years, the pride of the Myaa citizens, myaa!{WAIT}It's a wonderful thing, myaa!{/SAY}
+
+[106.252]
+{SAY}An honorary citizen is chosen only once every ten years, the pride of the Myaa citizens, myaa!{WAIT}Only an idiot would turn it down, myaa!{/SAY}
+
+[106.255]
+Mayor Myaa
+{SAY}I heard about you and my daughter, myaa!{WAIT}As a father I'm lonely, myaa, but I have no intention of coming between you.{WAIT}Be happy, myaa.{/SAY}
+
+[106.256]
+Mayor Myaa
+{SAY}Why, if it isn't {NAME:19}, the greatest man in the world after me!!{WAIT}As an honorary citizen, you have a duty to spread the wonders of Myaa Town all over the world, myaa!{WAIT}Work hard at it, dagyaa!{WAIT}Oh yes, the princess wanted to see you, myaa! Go see her, myaa!
+{/SAY}
+
+[106.257]
+Mayor Myaa
+{SAY}Why, if it isn't {NAME:19}, who missed out on being an honorary citizen!{WAIT}Do you regret it, myaa?{WAIT}I'm sad you took my princess too, so we're even, myaa!{/SAY}
+
+[106.258]
+Mayor Myaa
+{SAY}Why, if it isn't {NAME:19}, the greatest man in the world after me.{WAIT}You came all this way to see me, myaa. Admirable fellow, myaa.{/SAY}
+
+[106.259]
+　All right, as a reward I'll give you this, myaa.{WAIT}A stingy Myaa man giving something away is an amazing thing, myaa.
+
+[106.260]
+
+《Got Myaa Sake!》
+
+[106.261]
+Mayor Myaa
+{SAY}When it's gone, I'll give you more, myaa, so come home anytime, myaa.{WAIT}...By the way, have the wonders of Myaa Town spread all over the world, myaa?{/SAY}
+
+[106.262]
+　But don't you forget your duty to spread the wonders of Myaa Town all over the world, dagyaa!
+
+[106.263]
+Mayor Myaa
+{SAY}Why, if it isn't {NAME:19}!{WAIT}Long time no see, myaa!{WAIT}Take it easy and stay a while, myaa! The princess wanted to see you too, myaa!{/SAY}
+
+[106.264]
+Mayor Myaa
+{SAY}Well done, zura. You're a great one, zura!{/SAY}
+
+[106.265]
+{SAY}All right, as a reward I'll give you this, myaa.{/SAY}
+
+[106.266]
+
+《Got the Shachihoko Sword!》
+
+[106.267]
+Mayor Myaa
+{SAY}That sword is a famous blade handed down in Myaa Town since long ago, dagya. Use it with care, myaa.{WAIT}I'll make you an honorary citizen of Myaa Town, dagya.{PAUSE:1E} Happy, myaa?{/SAY}
+
+[106.268]
+{SAY}No need to be shy, myaa. Outsiders are so naive, myaa!{WAIT}You really want to be an honorary citizen, don't you, myaa?{/SAY}
+
+[106.269]
+{SAY}...If you insist, it can't be helped, myaa.{WAIT}Your honorary citizenship is canceled, myaa!{WAIT}...{PAUSE:19}Are you really sure, myaa?{/SAY}
+
+[106.270]
+{SAY}...What a selfish fellow, myaa! This is why you can't trust outsiders, myaa!{WAIT}Oh well, myaa. For now, tonight we celebrate, myaa!{/SAY}
+
+[106.271]
+{SAY}I like an honest fellow, myaa!{/SAY}
+
+[106.272]
+
+《{NAME:19} became an honorary citizen of Myaa Town!》
+
+[106.273]
+Mayor Myaa
+{SAY}Now you're the greatest man in the world after me, myaa!{WAIT}As an honorary citizen, you have a duty to spread the Way of Myaa all over the world, myaa!{WAIT}Work hard at it, dagyaa!{WAIT}Now, tonight we celebrate, myaa!{/SAY}
+
+[106.274]
+Princess Myaa
+{SAY}For your beloved me, go beat those aliens to a pulp, myaa!{WAIT}And on the day peace comes...{WAIT}Guhu.{PAUSE:1E} Guhu.{PAUSE:1E} Guhuhuhuhuhu.{/SAY}
+
+[106.279]
+Mayor Myaa
+{SAY}Hooray~! Sing, myaa! Dance, myaa!! Tonight anything goes, myaa!{/SAY}
+
+[106.280]
+
+《The feast went on until midnight...》
+
+[106.282]
+{SAY}In here is a wicked outsider who speaks a foreign language, myaa. Get close and he'll bite you, myaa.{/SAY}
+
+[106.283]
+{SAY}Oh, mister, help me out, will ya. This town and its "myaa myaa", I can't stand it!{WAIT}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}What? Swing a sword and you'll make a hole in the wall!?{WAIT}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}Get outta here!{/SAY}
+
+[106.284]
+Mayor Myaa
+{SAY}No use searching anywhere, dagya.{WAIT}I'm Mayor Myaa, the greatest man in Myaa Town, the capital of Japan, dagya.{WAIT}Lately a lot of aliens have been coming from Inuyama Zoo, so I'm questioning them personally, dagya.{WAIT}You,{PAUSE:1E} you're an alien, nya?{/SAY}
+
+[106.285]
+{SAY}I knew it. You get the death penalty, myaa!!{PAUSE:1E} Farewell, dagya.{/SAY}
+
+[106.286]
+{SAY}I don't belieeeve it, myaa. Then I'll ask you, zura.{WAIT}Now that Geo-Tokyo and Osaka are gone...{WAIT}the greaaatest man in this country is me, the mayor of Myaa Town, zura.{WAIT}Don't you think so, nya?{/SAY}
+
+[106.287]
+{SAY}You're lying, myaa. Your eyes are laughing, dagya. You get the death penalty, myaa!{/SAY}
+
+[106.288]
+{SAY}What a cheeky fellow, dagya. You get the death penalty, myaa!{/SAY}
+
+[106.289]
+{SAY}...Whee... hic!{/SAY}
+
+[106.290]
+{SAY}Heh heh, a new guy... Got any booze or somethin'?{/SAY}
+
+[106.291]
+{SAY}Booze, booze! Quit hidin' it and hand it over...{/SAY}
+
+[106.292]
+{SAY}Hey... wait.{/SAY}
+
+[106.293]
+{SAY}I said wait...{/SAY}
+
+[106.294]
+{SAY}Hey... wait.{/SAY}
+
+[106.295]
+{SAY}Booze, booze! Quit hidin' it and hand it over...{/SAY}
+
+[106.296]
+{SAY}Hey... wait.{/SAY}
+
+[106.297]
+{SAY}...Oho, that footwork. Such a shame. A real shame!{/SAY}
+
+[106.298]
+{SAY}...But you've got good eyes.{WAIT}Try swinging this.{/SAY}
+
+[106.299]
+{SAY}Such a shame, a real shame! Kid, that's no good. Lemme see that.{/SAY}
+
+[106.300]
+{SAY}Kid, I like you! You've got talent.{WAIT}If I train you, you'll be the world swordsman champion for sure!{WAIT}Let's go train with the sword while we beat the aliens!{WAIT}Go through this hole and we can get out of town.{WAIT}Let's go, kid!{/SAY}
+
+[106.301]
+
+《Dan Kichi joined the party!》
+
+[106.302]
+{SAY}Snorrr...{PAUSE:19} Snorrr...{/SAY}
+
+[106.303]
+{SAY}Snorrr...{PAUSE:19} Snorrr...{/SAY}
+
+[106.304]
+
+《Looks like just a drunk...》
+
+[106.305]
+Dan Kichi
+{SAY}Hey! What're you doing? You got caught again, didn't you!{WAIT}Can't be helped. Lemme see that.{/SAY}
+
+[106.306]
+
+《There's a little strange-colored water inside...》
+
+[106.307]
+
+《Drink it?》
+
+[106.308]
+
+《It tasted a little strange...{WAIT}...{PAUSE:32}HP was restored!》
+
+[106.309]
+
+《The pot is empty...》
+
+[106.310]
+
+《It seems to be locked...》
+
+[106.311]
+
+"Right...Dengana's Info Shop
+Left...Exit"
+
+[106.312]
+{SAY}This town's rough on outsiders, so I live here on the quiet, see.{WAIT}Somethin' I can do for ya?{/SAY}
+
+[106.313]
+Let me stay!
+Got any good news?
+Sell me something!
+See ya
+
+[106.314]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.315]
+{SAY}Welcome! What'll it be?{/SAY}
+
+[106.316]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.317]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.318]
+{SAY}Whaddaya wanna know?{/SAY}
+
+[106.319]
+About Neo-Kobe
+About Myaa Town
+About the aliens
+See ya
+
+[106.320]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.321]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.322]
+{SAY}Well, I'll tell ya for free, just this once!{WAIT}The alien army around here is mostly monsters made from the animals of Inuyama Zoo, up north.{WAIT}The ones outside ain't much, but the ones inside Inuyama Zoo are tough~.{WAIT}Well, if ya value your life, stay away.{/SAY}
+
+[106.323]
+{SAY}Oh~! Glad ya asked! These are my best ones!{WAIT}Which'll it be?{/SAY}
+
+[106.324]
+About Mayor Myaa...10G
+About Princess Myaa..5G
+About Dan Kichi....1G
+See ya
+
+[106.325]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.326]
+{SAY}He's the famous mayor who runs Myaa Town.{WAIT}He's cold to outsiders, but the townsfolk seem to trust him.{WAIT}And they say he dotes on his daughter, Princess Myaa.{/SAY}
+
+[106.327]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.328]
+{SAY}The treasure of Myaa Town! ...or so they say. A 17-year-old princess who'd put the flowers to shame!{WAIT}Mind you, nobody's ever actually seen her.{WAIT}Well, if you became an honorary citizen, maybe you'd meet her...{WAIT}but that's tough for an outsider~{/SAY}
+
+[106.329]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.330]
+{SAY}They say long ago he became champion of the world swordsmanship tournament.{WAIT}But after that he burned out completely and didn't feel like doin' anything.{WAIT}Well, now he's just a drunk.{/SAY}
+
+[106.331]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.332]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.333]
+{SAY}Oh~! Glad ya asked! These are my best ones!{WAIT}Which'll it be?{/SAY}
+
+[106.334]
+Deluxe...800G
+　Pine...400G
+　Bamboo...200G
+　Plum...100G
+See ya
+
+[106.335]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.336]
+{SAY}The watermelons are laid out like numbers. And the numbers are laid out like a phone.{WAIT}The order: first, "left 1, up 2".{WAIT}Second, "left 2, up 1".{WAIT}Third, "left 2, down 1".{WAIT}Last, "right 1, down 2".{WAIT}Well, with that much ya should get it, right?{/SAY}
+
+[106.337]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.338]
+{SAY}They say the number's four digits in all. The last digit is the biggest number,{WAIT}the first digit is the second biggest,{HOLD}and the second digit is bigger than the third, or so they say.{WAIT}Huh, I don't really get it either~.{/SAY}
+
+[106.339]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.340]
+{SAY}Don't ya think the way the watermelons in Neo-Kobe are laid out looks like somethin'?{WAIT}They say there's one watermelon among 'em that's different from the rest!{WAIT}And the sunflowers have a secret too.{/SAY}
+
+[106.341]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.342]
+{SAY}They say the entrance to Bless is hidden somewhere in Neo-Kobe.{WAIT}Seems ya punch in a number somewhere...{WAIT}If ya wanna know more, money, money!{/SAY}
+
+[106.343]
+{SAY}Money, money! You ain't got enough money~!{/SAY}
+
+[106.344]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.345]
+{SAY}It's a poop-colored tent, but bear with me!{WAIT}150G a night.{/SAY}
+
+[106.346]
+
+{SAY}Ya ain't got enough money!{/SAY}
+
+[106.347]
+{SAY}Then, wanna write in your diary on the quiet?{/SAY}
+
+[106.348]
+{SAY}See ya, thanks a bunch!{/SAY}
+
+[106.349]
+{SAY}See ya, thanks a bunch!{/SAY}
+

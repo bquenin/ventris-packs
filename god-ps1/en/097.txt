@@ -1,0 +1,17 @@
+[097.000]
+
+　《Found some graffiti...》
+
+[097.002]
+# The original is the tongue twister バス、ガス爆発 ("bus, gas explosion").
+Can you say "Toy boat!"
+　three times fast?
+　　　　~from the Brat Boss~
+
+[097.003]
+
+　　　"Beware of Boars!!"
+
+[097.004]
+{SAY}Traveling alone? Good for you. {PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.Eh, Hokkaido? {PAUSE:14}Why, that's{WAIT}waaaaaaaaaaaaaaaaaay up north.{WAIT}Up ahead is Tsukubane Village. Rest there a while.{/SAY}
+
