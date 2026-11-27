@@ -36,6 +36,12 @@ translator needs to carry on in the same way.
   were written from small tables by a script of the author's, like the shops.
 - **Quizzes**: the Tokaido quiz's fixed lines (`Oh? Are you a quiz contestant?`, `Correct!!`, `Too bad!!
   Wrong answer!!`, `Got 50 ryo in prize money!`) are word for word the same in every town.
+- **Choices** (Yes/No, the quiz's answers, the shops' options) are drawn where the script puts them, at a
+  fixed point (x 64 to 160), and are not wrapped; the box ends at x 208. A choice of n letters from x
+  must end there: x + 8n <= 208. Checked from the scripts for every choice; only the last quiz's
+  answers needed shortening, to "Basho" and "Hiroshige".
+- **Windows**: only the scenes set a window of their own (the two dialogue boxes beside a face, 160
+  dots wide); the towns, shops and guide bubbles use the default box, the same width.
 - **The storyteller** (`stage_demo`) narrates in a showman's rhythm, short lines that rhyme or nearly so in
   Japanese. The English keeps a storyteller's voice and short lines; the pack turns on the build option
   `horizontal-storyteller`, which writes those pages across, 12 letters a line, left page first.
@@ -220,6 +226,7 @@ Builds were run from power-on in DeSmuME (ventris's `ds-probe`):
 - The start of the trial (`demo_a1_n0`): the magistrate's entrance and his first speeches, wrapped to
   the box, with a fourth line going on in a cleared box. The name plates beside the faces are pictures,
   and stay in Japanese.
-- Not yet: the rest of the game with this pack's text, the shops, the towns, the quiz, the guide
-  bubbles (whose window may be narrower than the dialogue box), and Fukurokuju's emoticons, whose
-  ASCII parts are drawn from Unifont.
+- A guide bubble (`gim_help_pcmn_r00.380`, at the rope in the underground passage after the trial):
+  drawn in the top screen's box, wrapped to it, each blank line starting a new box as in the Japanese.
+- Not yet: the rest of the game with this pack's text, the shops, the towns, the quiz, and Fukurokuju's
+  emoticons, whose ASCII parts are drawn from Unifont. Reaching them means playing there.
