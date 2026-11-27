@@ -1,0 +1,358 @@
+[150.000]
+{NAME:04}
+{SAY}It'll be a while yet to the nearest town.{WAIT}Relax and make yourselves comfortable.{/SAY}
+
+[150.002]
+{NAME:01}
+{SAY}We finally did it! Us!{/SAY}
+
+[150.003]
+{NAME:02}
+{SAY}Now there'll be peace... Our power was of use to everyone!{/SAY}
+
+[150.004]
+{NAME:04}
+{SAY}The ship was damaged in that explosion too...{WAIT}It'll take a while longer to reach the nearest town.{/SAY}
+
+[150.005]
+{NAME:02}
+{SAY}...Huh?{/SAY}
+
+[150.006]
+{NAME:04}
+{SAY}...What is it, Lady {NAME:02}?{/SAY}
+
+[150.007]
+{NAME:02}
+{SAY}No... I thought I heard someone's voice just now...{/SAY}
+
+[150.008]
+{NAME:02}
+{SAY}Kyaah!{/SAY}
+
+[150.009]
+{NAME:01}
+{SAY}{NAME:02}!{/SAY}
+
+[150.010]
+{NAME:04}
+{SAY}Lady {NAME:02}!{/SAY}
+
+[150.011]
+{NAME:04}
+{SAY}Hmm!{/SAY}
+
+[150.012]
+{NAME:01}
+{SAY}Wh... what!?{/SAY}
+
+[150.013]
+{NAME:01}
+{SAY}What is it...!? This shaking.{/SAY}
+
+[150.014]
+{NAME:02}
+{SAY}I can feel it... a very strong power of prayer...{WAIT}Look!{/SAY}
+
+[150.015]
+{NAME:01}
+{SAY}...{PAUSE:14}Looks like we made it back to Earth safe.{/SAY}
+
+[150.016]
+{NAME:04}
+{SAY}...{PAUSE:14}The aliens will keep coming from the moon, I suppose...{/SAY}
+
+[150.017]
+{NAME:01}
+{SAY}...{PAUSE:14}They killed {NAME:03}...{/SAY}
+
+[150.018]
+{NAME:02}
+{SAY}...{PAUSE:1E}But if we'd pressed the switch...{WAIT}I... agree with {NAME:19}'s decision.{/SAY}
+
+[150.019]
+{NAME:04}
+{SAY}...{PAUSE:1E}Lady {NAME:02}.{WAIT}If we hadn't pressed the switch then, the aliens would have kept coming to Earth.{/SAY}
+
+[150.020]
+{NAME:01}
+{SAY}...They killed {NAME:03}...{/SAY}
+
+[150.021]
+{NAME:02}
+{SAY}...{PAUSE:1E}I know... but...{/SAY}
+
+[150.022]
+{NAME:04}
+{SAY}...{PAUSE:1E}Sir {NAME:19}.{WAIT}For now, let's report to Director McCartney in New York.{/SAY}
+
+[150.023]
+Linda
+{SAY}So this is the ancient ship...{/SAY}
+
+[150.024]
+{NAME:04}
+{SAY}Now, Lady Linda. Tell us where that secret base is.{/SAY}
+
+[150.025]
+Linda
+{SAY}Ah, yes. Then, take a look at this.{/SAY}
+
+[150.026]
+Linda
+{SAY}That's all.{WAIT}I'll go with you as far as the secret base, "Amazon Bless".{/SAY}
+
+[150.027]
+{NAME:02}
+{SAY}Are you sure? Won't your father worry?{/SAY}
+
+[150.028]
+Linda
+{SAY}It's fine.{WAIT}I'm a member of Bless too.{WAIT}Come on, everyone!{PAUSE:14} Let's go!!{/SAY}
+
+[150.029]
+{NAME:01}
+{SAY}That's MY line~!!{/SAY}
+
+[150.035]
+{NAME:04}
+{SAY}It seems to be... the control room.{HOLD}...Sir {NAME:19}, let's take a look.{/SAY}
+
+[150.036]
+{NAME:01}
+{SAY}Wow... so this is the ancient ship...{WAIT}But why Lem's life...{/SAY}
+
+[150.037]
+{NAME:04}
+{SAY}It was probably the ancient civilization's guard system.{WAIT}The ancient ship wouldn't move unless someone was sacrificed...{/SAY}
+
+[150.038]
+{NAME:01}
+{SAY}What! ...I've never heard of such a thing.{/SAY}
+
+[150.039]
+{NAME:04}
+{SAY}Our civilization has sacrifices too.{/SAY}
+
+[150.040]
+{NAME:01}
+{SAY}Sacrifices...{/SAY}
+
+[150.041]
+{NAME:04}
+{SAY}Yes. And a sacrifice is offered to the gods.{WAIT}...{PAUSE:28}Sir {NAME:19}, let us set out, for Lem's soul too.{/SAY}
+
+[150.042]
+{NAME:01}
+{SAY}...{PAUSE:1E}Let's go, {NAME:19}.{WAIT}To find {NAME:02}, to America!{/SAY}
+
+[150.047]
+Dr. Orangeoiset
+{SAY}Hmm, hmm... this goes here...{/SAY}
+
+[150.048]
+{NAME:02}
+{SAY}You understand it!?{/SAY}
+
+[150.049]
+Dr. Orangeoiset
+{SAY}I once investigated a UFO that crashed in the desert.{WAIT}It was badly wrecked, but I still figured out most of the systems.{WAIT}Of course, building one myself was out of the question...{/SAY}
+
+[150.050]
+Dr. Orangeoiset
+{SAY}To think that experience would pay off here... Oh!{/SAY}
+
+[150.051]
+{NAME:04}
+{SAY}The flight stone...{/SAY}
+
+[150.052]
+{NAME:01}
+{SAY}...is glowing!{/SAY}
+
+[150.053]
+Dr. Orangeoiset
+{SAY}That does it.{WAIT}All right, everyone, take your seats!{/SAY}
+
+[150.054]
+Dr. Orangeoiset
+{SAY}{NAME:19}! Do you see a button marked ○ on the controls?{/SAY}
+
+[150.055]
+{SAY}The orange ○ on the far right!{HOLD}See it?{/SAY}
+
+[150.056]
+Dr. Orangeoiset
+{SAY}Look closely at your hands!{/SAY}
+
+[150.057]
+Dr. Orangeoiset
+{SAY}When you're aboard the ancient ship, press that ○ button and you can fly freely through the sky!{WAIT}Landing works the same way.{WAIT}While flying, press the ○ button to land.{WAIT}Got it?{/SAY}
+
+[150.058]
+Dr. Orangeoiset
+{SAY}But you can only land on flat ground, like grassland or desert, and on the sea.{WAIT}You can't land in forests or mountains, so be careful.{WAIT}That's all from me. Any questions?{/SAY}
+
+[150.059]
+Dr. Orangeoiset
+{SAY}What do you want to know?{/SAY}
+
+[150.060]
+Taking off and landing
+Where you can land
+Nothing
+
+[150.061]
+Dr. Orangeoiset
+{SAY}When you're aboard the ancient ship, press that ○ button and you can fly freely through the sky!{WAIT}Landing works the same way.{WAIT}While flying, press the ○ button to land.{WAIT}Anything else?{/SAY}
+
+[150.062]
+Dr. Orangeoiset
+{SAY}When flying, you can only land on flat ground, like grassland or desert.{HOLD}You can't land in forests or mountains, so be careful.{WAIT}Anything else?{/SAY}
+
+[150.063]
+Dr. Orangeoiset
+{SAY}Now it seems we need to investigate the ruins of ancient civilizations all over the world.{WAIT}{NAME:19}, {NAME:01}, {NAME:02}, {NAME:04}{WAIT}Fly through the sky, and investigate the ancient civilizations first.{WAIT}I'll look into it too.{WAIT}Now, I'll head back to Bless.{WAIT}If anything comes up, let's report to each other at Bless in the UN Building.{WAIT}...Good luck!{/SAY}
+
+[150.064]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[150.065]
+{NAME:01}
+{SAY}Come on, let's go, {NAME:19}!{/SAY}
+
+[150.066]
+{NAME:01}
+{SAY}Come on, come on! {NAME:19}! {NAME:02}!{WAIT}The three of us can do it! It'll be fine!{WAIT}Aliens are a piece of cake!{WAIT}Okay, let's roll!{/SAY}
+
+[150.067]
+{NAME:02}
+{SAY}...{NAME:19},{PAUSE:0A} shall we go?{/SAY}
+
+[150.068]
+{NAME:01}
+{SAY}...{PAUSE:0F}What about me?{/SAY}
+
+[150.069]
+{NAME:02}
+{SAY}...Look!{/SAY}
+
+[150.070]
+{NAME:01}
+{SAY}Old man!{/SAY}
+
+[150.071]
+{NAME:04}
+{SAY}Come, let's hurry and defeat the aliens.{WAIT}Love... awaits me!{PAUSE:1E}{WAIT}...{PAUSE:14}Was that too much?{/SAY}
+
+[150.072]
+{NAME:01}
+{SAY}Old man,{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} that's so cheesy!!{/SAY}
+
+[150.073]
+{NAME:01}
+{SAY}Whew... that was close!{/SAY}
+
+[150.074]
+{NAME:04}
+{SAY}Have we struck every alien base now...{/SAY}
+
+[150.075]
+{NAME:01}
+{SAY}Wh... what!?{/SAY}
+
+[150.076]
+　　　My name is......{PAUSE:28} Ra Mu{HOLD}　　　once ruler of the earth{HOLD}　　　a god who defied God{HOLD}　　　My name is......{PAUSE:1E} Ra Mu{HOLD}
+
+[150.077]
+{NAME:02}
+{SAY}Look...!{PAUSE:1E} The sea...{PAUSE:1E} the sea is splitting!!{/SAY}
+
+[150.078]
+{NAME:01}
+{SAY}Stoooop!!{/SAY}
+
+[150.079]
+{NAME:02}
+{SAY}...How horrible{/SAY}
+
+[150.080]
+　　　My name is......{PAUSE:28} Ra Mu{HOLD}　　　once ruler of the earth{HOLD}　　　a god who defied God{HOLD}　　　My name is......{PAUSE:1E} Ra Mu{HOLD}
+
+[150.081]
+{NAME:01}
+{SAY}Dammit! What is that!{/SAY}
+
+[150.082]
+{NAME:04}
+{SAY}Ra Mu... then that must be the legendary continent of Mu!{/SAY}
+
+[150.083]
+{NAME:02}
+{SAY}The continent of Mu!?{/SAY}
+
+[150.084]
+{NAME:04}
+{SAY}Ra Mu is said to be the god who ruled the continent of Mu.{/SAY}
+
+[150.085]
+{NAME:04}
+{SAY}If Ra Mu is there, we can take that as the continent of Mu.{WAIT}Though we'd do better to think of it not as a continent but a giant weapon...{/SAY}
+
+[150.086]
+{NAME:02}
+{SAY}The continent of Mu...{/SAY}
+
+[150.087]
+{NAME:01}
+{SAY}......So that's the final enemy...{/SAY}
+
+[150.088]
+{NAME:01}
+{SAY}All right! {NAME:19}, let's go!{WAIT}Mu is right in the middle of the Pacific. The flying ship should be able to break in!{/SAY}
+
+[150.089]
+{NAME:04}
+{SAY}Sir {NAME:19}, let's go!{/SAY}
+
+[150.090]
+{NAME:02}
+{SAY}{NAME:19}!{/SAY}
+
+[150.091]
+{NAME:01}
+{SAY}Come on! Let's go!{/SAY}
+
+[150.092]
+{NAME:02}
+{SAY}Wait...{PAUSE:14} I feel it...{PAUSE:14} there's something beneath here...{/SAY}
+
+[150.093]
+{NAME:01}
+{SAY}Beneath here...{PAUSE:1E} it's a continent of ice.{/SAY}
+
+[150.094]
+{NAME:04}
+{SAY}No...{PAUSE:1E} could it be...{PAUSE:28} the hollow Earth...{/SAY}
+
+[150.095]
+{NAME:01}
+{SAY}The hollow Earth!?{/SAY}
+
+[150.096]
+{NAME:02}
+{SAY}Let's go see, {NAME:19}.{/SAY}
+
+[150.097]
+{NAME:04}
+{SAY}This is...!{/SAY}
+
+[150.098]
+{NAME:02}
+{SAY}I feel a very great power!{/SAY}
+
+[150.099]
+{NAME:01}
+{SAY}It's pulling us in!{/SAY}
+

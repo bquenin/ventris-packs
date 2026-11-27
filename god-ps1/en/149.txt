@@ -1,0 +1,76 @@
+[149.003]
+{NAME:04}
+{SAY}What on earth is this...{/SAY}
+
+[149.004]
+{NAME:01}
+{SAY}...This is the ancient ship...?{/SAY}
+
+[149.007]
+Lem
+{SAY}Ookyakya!{/SAY}
+
+[149.008]
+{NAME:01}
+{SAY}What's this!?{/SAY}
+
+[149.009]
+{NAME:04}
+{SAY}...It seems to be some kind of power unit. Just like... a heart...{/SAY}
+
+[149.010]
+{NAME:01}
+{SAY}But why is it in a place like this...{/SAY}
+
+[149.011]
+Lem
+{SAY}Ookikkii!{/SAY}
+
+[149.012]
+{NAME:04}
+{SAY}...{PAUSE:14}So there was an ancient civilization here too that we knew nothing of...{WAIT}Sir {NAME:19}, let's try that door.{/SAY}
+
+[149.013]
+Lem
+{SAY}Ookikkii!{/SAY}
+
+[149.014]
+{NAME:01}
+{SAY}Lem!{/SAY}
+
+[149.015]
+Lem
+{SAY}Ookiki!{/SAY}
+
+[149.016]
+{NAME:04}
+{SAY}Lem! Wait!{/SAY}
+
+[149.017]
+{NAME:01}
+{SAY}What's going on!?{/SAY}
+
+[149.018]
+{NAME:04}
+{SAY}...He broke the barrier with his life...{/SAY}
+
+[149.019]
+{NAME:04}
+{SAY}Wh-what is this...!?{/SAY}
+
+[149.020]
+{NAME:01}
+{SAY}Whoooa!?{/SAY}{PAUSE:3C}
+
+[149.021]
+{NAME:04}
+{SAY}Sir {NAME:01}!? ...Hm?{/SAY}{PAUSE:3C}
+
+[149.022]
+
+《A powerful barrier seems to surround it》
+
+[149.023]
+
+《The barrier has been lifted》
+

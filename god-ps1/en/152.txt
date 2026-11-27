@@ -1,0 +1,12 @@
+[152.000]
+Write in diary
+Read diary
+Quit
+
+[152.002]
+
+《This seems to be a place of rest. Rest here?》
+
+[152.003]
+《Then look at your diary?》
+
