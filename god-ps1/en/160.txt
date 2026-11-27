@@ -1,0 +1,60 @@
+[160.000]
+{NAME:01}
+{SAY}Wh... what!?{/SAY}{PAUSE:3C}
+
+[160.002]
+{NAME:02}
+{SAY}It's pulling us in!{/SAY}{PAUSE:3C}
+
+[160.003]
+{NAME:02}
+{SAY}Th... that's!{/SAY}
+
+[160.004]
+{NAME:04}
+{SAY}The mothership!?{/SAY}
+
+[160.005]
+{NAME:01}
+{SAY}{NAME:19}! Let's go!{/SAY}
+
+[160.006]
+{NAME:04}
+{SAY}Sir {NAME:19}!{/SAY}
+
+[160.007]
+{NAME:02}
+{SAY}These ruins are the aliens' too... Let's look around!{/SAY}
+
+[160.014]
+
+《Found the God Stone!》
+
+[160.015]
+
+《{NAME:19} and company touched the God Stone!》
+
+[160.016]
+
+《{NAME:19}'s Chakra Level rose to 6!》
+
+[160.017]
+
+《{NAME:01}'s Chakra Level rose to 6!》
+
+[160.018]
+
+《{NAME:02}'s Chakra Level rose to 6!》
+
+[160.019]
+
+《{NAME:04}'s Chakra Level rose to 6!》
+
+[160.020]
+
+《A strange power enveloped {NAME:19} and company!》
+
+[160.021]
+
+《{NAME:19} and company's HP was restored!》
+

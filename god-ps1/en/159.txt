@@ -1,0 +1,484 @@
+[159.000]
+Write in diary
+Read diary
+Quit
+
+[159.002]
+{NAME:01}
+{SAY}{NAME:19}!{/SAY}
+
+[159.003]
+{NAME:01}
+{SAY}What are you doing! Something's seriously wrong here!{/SAY}
+
+[159.004]
+{NAME:01}
+{SAY}Hey, {NAME:19}...{/SAY}
+
+[159.005]
+{NAME:01}
+{SAY}About Linda just now... Think I went too far?{/SAY}
+
+[159.006]
+{SAY}I see...{/SAY}
+
+[159.007]
+{SAY}Thanks...{/SAY}
+
+[159.008]
+{NAME:01}
+{SAY}I don't want another victim like {NAME:03}.{WAIT}But there's no saying this base is safe.{WAIT}With {NAME:03} too...{/SAY}
+
+[159.009]
+{NAME:01}
+{SAY}Tch! Not like me!{WAIT}Point is, we just wipe out the aliens, fast!{/SAY}
+
+[159.010]
+{NAME:01}
+{SAY}Heh! Forget I said that!{/SAY}
+
+[159.011]
+{SAY}Amazon monsters are tough! So we stand watch to keep them from getting out.{/SAY}
+
+[159.012]
+{SAY}Amazon monsters are tough! So we stand watch to keep them from getting out.{/SAY}
+
+[159.013]
+{SAY}Ah! Captain!{WAIT}All quiet today!{/SAY}
+
+[159.014]
+{SAY}Yaaawn... so sleepy.{/SAY}
+
+[159.015]
+{SAY}All quiet today!{/SAY}
+
+[159.016]
+{SAY}All quiet today!{WAIT}Leave this base to us!{/SAY}
+
+[159.017]
+{SAY}You made it all the way out here!{HOLD}This is Amazon Bless, a secret Bless built to survey the jungle!{/SAY}
+
+[159.018]
+{SAY}You made it all the way out here!{HOLD}This is Amazon Bless, a secret Bless built to survey the jungle!{/SAY}
+
+[159.019]
+{SAY}Ah! Captain Linda! Long time no see!{/SAY}
+
+[159.020]
+{SAY}Why not set out tomorrow morning?{/SAY}
+
+[159.021]
+{SAY}Good luck!{/SAY}
+
+[159.022]
+{SAY}Good work, everyone! Captain Linda and the staff officer await you upstairs!{/SAY}
+
+[159.023]
+{SAY}Take care!{/SAY}
+
+[159.024]
+{SAY}Salute the heroes of the jungle!{/SAY}
+
+[159.025]
+{SAY}This is Amazon Bless! Bless's secret base!{/SAY}
+
+[159.026]
+{SAY}This is Amazon Bless! Surveying the Amazon is our job!{/SAY}
+
+[159.027]
+{SAY}Salute Captain Linda!{WAIT}The staff officer awaits you inside!{/SAY}
+
+[159.028]
+{SAY}Captain Linda... *blush*.{/SAY}
+
+[159.029]
+{SAY}Good luck, everyone!{/SAY}
+
+[159.030]
+{SAY}Thank you, everyone! Please take care!{/SAY}
+
+[159.031]
+{SAY}Mail!{WAIT}The mail carrier who delivers anywhere in the world!{WAIT}{PAUSE:1E}Huff,{PAUSE:1E} huff,{PAUSE:1E} huff.{PAUSE:1E} You must be {NAME:19}.{WAIT}Phew. Found you at last.{WAIT}All the way to South America.{WAIT}Here, express!{/SAY}
+
+[159.032]
+
+《Got a letter... It's from Dan Kichi!》
+
+[159.033]
+{SAY}Bye now!{/SAY}
+
+[159.034]
+
+《{NAME:19} read the letter.》{WAIT}
+{CLEAR}"{NAME:19}, how are you? For tomorrow, lesson number 5. The "White Ash Slash".{WAIT}The ultimate move, usable only when you're near death!{WAIT}Hold your breath, focus your aim, wring it out... and strike!{WAIT}...Strike!"
+
+[159.035]
+
+《{NAME:19} learned the White Ash Slash!》
+
+[159.036]
+{NAME:02}
+{SAY}Oh? {NAME:19}. Where's {NAME:01}?{/SAY}
+
+[159.037]
+{SAY}The staff officer used to be Director of New York Bless.{/SAY}
+
+[159.038]
+{SAY}Captain Linda! When did you get back!{/SAY}
+
+[159.039]
+{SAY}I-I-I-I fell for her at first sight.{/SAY}
+
+[159.040]
+{SAY}The monsters around here are tough.{WAIT}Please take care!{/SAY}
+
+[159.041]
+{SAY}I didn't know what would happen. Thank you so much!{/SAY}
+
+[159.042]
+{SAY}Captain Linda's great, but... {NAME:02}'s the best too...{/SAY}
+
+[159.043]
+{SAY}Know the Nazca plain, along South America's west coast?{/SAY}
+
+[159.044]
+{SAY}A meteorite changed the land.{HOLD}Now you can't get in by land or sea.{/SAY}
+
+[159.045]
+{SAY}Huge pictures called the Nazca Lines cover the ground. A very strange place.{/SAY}
+
+[159.046]
+{SAY}The aliens kill people, but they never touch nature like the Amazon...{WAIT}I wonder why...{/SAY}
+
+[159.047]
+{SAY}A giant UFO has been hovering over Chichen Itza for a while.{HOLD}What are the aliens doing at those ruins...{/SAY}
+
+[159.048]
+{SAY}{NAME:02}, what's your type? How about me?{/SAY}
+
+[159.049]
+{SAY}A giant UFO has been hovering over Chichen Itza for a while.{HOLD}What are the aliens doing at those ruins...{/SAY}
+
+[159.050]
+{SAY}Leave the Amazon to us!{/SAY}
+
+[159.051]
+Linda
+{SAY}We can't hold here! Fall back!{/SAY}
+
+[159.052]
+Staff Officer Taran
+{SAY}Hold out, no matter what! Until they're back safe!{HOLD}If this falls, they'll be caught between enemies!{WAIT}Defend it to the death!{/SAY}
+
+[159.053]
+{NAME:01}
+{SAY}You bastards! That's enough!!{/SAY}
+
+[159.054]
+Linda
+{SAY}{NAME:01}! Everyone!{/SAY}
+
+[159.055]
+Staff Officer Taran
+{SAY}Ah, everyone. Sleep well last night?{WAIT}I've told the tunnel guards already.{WAIT}Be careful!{/SAY}
+
+[159.056]
+Linda
+{SAY}Take care, everyone. Leave the defense to me.{/SAY}
+
+[159.057]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[159.058]
+{NAME:04}
+{SAY}Hmm, hmm... the Amazon's history is fascinating...{/SAY}
+
+[159.062]
+{SAY}Hey!{/SAY}
+
+[159.063]
+{SAY}Staff Officer Taran is in an important meeting!{WAIT}No outsiders!{/SAY}
+
+[159.064]
+{SAY}Staff Officer Taran is in an important meeting!{WAIT}No outsiders...{/SAY}
+
+[159.065]
+Linda
+{SAY}Thank you for your service.{/SAY}
+
+[159.066]
+{SAY}Captain Linda! Pardon me. Please go in.{/SAY}
+
+[159.067]
+Staff Officer Taran
+{SAY}Oh! Miss Linda! It's been so long.{/SAY}
+
+[159.068]
+Linda
+{SAY}I told you to stop calling me Miss!{WAIT}...I've come with a favor.{WAIT}That tunnel... is it done?{/SAY}
+
+[159.069]
+Staff Officer Taran
+{SAY}W... well, yes. It's done, but...{/SAY}
+
+[159.070]
+Linda
+{SAY}Could we use it?{/SAY}
+
+[159.071]
+Staff Officer Taran
+{SAY}What?{B:7E}
+
+[159.072]
+Linda
+{SAY}That tunnel is the only way to Chichen Itza.{/SAY}
+
+[159.073]
+Staff Officer Taran
+{SAY}Chichen Itza!?{/SAY}
+
+[159.074]
+Linda
+{SAY}Yes.{B:7E}
+
+[159.075]
+Staff Officer Taran
+{SAY}Do you know how far that is!?{/SAY}
+
+[159.076]
+Linda
+{SAY}It's fine!{WAIT}These people have traveled the world defeating aliens. They're seasoned heroes.{WAIT}They can do it!{/SAY}
+
+[159.077]
+Staff Officer Taran
+{SAY}...Very well.{WAIT}I'll grant passage, on one condition.{WAIT}Captain Linda stays at this base.{/SAY}
+
+[159.078]
+Linda
+{SAY}What!{WAIT}I'm Bless too. I'm going with them!!{/SAY}
+
+[159.079]
+{NAME:01}
+{SAY}No! This time I'm against it too.{WAIT}Who knows what's ahead.{WAIT}Besides, you have to guard this base for us.{WAIT}Or we'll have nowhere to come back to.{/SAY}
+
+[159.080]
+{NAME:02}
+{SAY}New York Bless can't do without you.{WAIT}Leave this to us.{/SAY}
+
+[159.081]
+Linda
+{SAY}All right... if that's how it is.{WAIT}But please be careful, everyone...{/SAY}
+
+[159.082]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[159.083]
+Staff Officer Taran
+{SAY}Oh! Everyone! You're back safe!{WAIT}You saved us!{/SAY}
+
+[159.084]
+Linda
+{SAY}Welcome back, everyone!{WAIT}Thank you for saving us.{WAIT}You rescued us again.{/SAY}
+
+[159.085]
+{NAME:04}
+{SAY}No. Had this base fallen, who knows what would have become of us. Thank you.{/SAY}
+
+[159.086]
+Staff Officer Taran
+{SAY}It seems Chichen Itza is settled too.{WAIT}Hm? That stone...?{/SAY}
+
+[159.087]
+{NAME:04}
+{SAY}We found it in the mothership.{WAIT}It seems to be the core of its flight engine...{/SAY}
+
+[159.088]
+Staff Officer Taran
+{SAY}...A flight stone.{/SAY}
+
+[159.089]
+{NAME:02}
+{SAY}What?{/SAY}
+
+[159.090]
+Staff Officer Taran
+{SAY}An old Amazon legend tells of a stone just like it...{WAIT}The ancients used it to fly the skies at will.{WAIT}If that's the legendary flight stone, it may prove the aliens are the ancients.{/SAY}
+
+[159.091]
+{NAME:01}
+{SAY}No way!{/SAY}
+
+[159.092]
+Staff Officer Taran
+{SAY}...Dr. Orangeoiset at New York Bless would know more.{WAIT}Why not go back and report?{/SAY}
+
+[159.093]
+Linda
+{SAY}I'll stay here a while longer.{WAIT}Give my regards to my father and the doctor.{WAIT}{NAME:01}, when there's peace, let's have a drink!{/SAY}
+
+[159.094]
+Staff Officer Taran
+{SAY}I've known Miss Linda since she was little.{WAIT}A lively tomboy, but very kind.{WAIT}You may think me overprotective, but please indulge an old man's last whim...{/SAY}
+
+[159.095]
+Staff Officer Taran
+{SAY}Chichen Itza is through the tunnel and further north.{WAIT}...Be very careful.{/SAY}
+
+[159.096]
+Staff Officer Taran
+{SAY}Thank you, everyone!{/SAY}
+
+[159.097]
+{SAY}Snooore... Captain Linda... mumble...{/SAY}
+
+[159.098]
+{SAY}The giant UFO is still above Chichen Itza.{WAIT}What are they plotting...{/SAY}
+
+[159.099]
+{SAY}Besides Chichen Itza, South America has unexplored ruins like Nazca and Easter Island.{WAIT}...Are they tied to the aliens too...{/SAY}
+
+[159.100]
+{SAY}Zzz... twitch...{/SAY}
+
+[159.101]
+{SAY}Please take care!{/SAY}
+
+[159.102]
+{SAY}Thank you so much!{/SAY}
+
+[159.103]
+{SAY}You leave early tomorrow, right? It's only a shabby tent, but will you stay?{WAIT}Oh, no charge.{/SAY}
+
+[159.104]
+{SAY}Then write in your diary?{/SAY}
+
+[159.105]
+{SAY}Tell me when you want to rest.{/SAY}
+
+[159.106]
+{SAY}Good work. It's only a shabby tent, but will you stay?{WAIT}It's 1800G a night.{/SAY}
+
+[159.107]
+{SAY}You don't have enough money.{/SAY}
+
+[159.108]
+{SAY}Then write in your diary?{/SAY}
+
+[159.109]
+{SAY}It's hot out, take care!{/SAY}
+
+[159.110]
+{SAY}Then write in your diary?{/SAY}
+
+[159.111]
+{SAY}It's hot out, take care!{/SAY}
+
+[159.112]
+{SAY}Welcome! How about a souvenir?{/SAY}
+
+[159.113]
+{NAME:02}
+{SAY}Why is no one here...?{/SAY}
+
+[159.114]
+{NAME:04}
+{SAY}Something's wrong...{/SAY}
+
+[159.115]
+{NAME:01}
+{SAY}No way!?{WAIT}{NAME:19}! Hurry!{/SAY}
+
+[159.116]
+Linda
+{SAY}I heard about {NAME:03}...{PAUSE:1E} I...{/SAY}
+
+[159.117]
+Linda
+{SAY}Please take care...!{PAUSE:1E} {NAME:01}! Don't push yourself!{/SAY}
+
+[159.118]
+Linda
+{SAY}Give my regards to everyone in New York.{WAIT}{NAME:01}! Don't push yourself!{/SAY}
+
+[159.119]
+{SAY}Captain Linda!{WAIT}...The tunnel is open, but I can't let you through without the staff officer's permission.{/SAY}
+
+[159.120]
+{SAY}Aren't you leaving tomorrow morning?{WAIT}Rest well till then.{/SAY}
+
+[159.121]
+{SAY}I've heard.{WAIT}Please go through.{/SAY}
+
+[159.122]
+{SAY}Please take care!{/SAY}
+
+[159.123]
+{SAY}Thank you! Please take care!{/SAY}
+
+[159.124]
+{SAY}Phew...{WAIT}Who can dig tunnels in this heat...{/SAY}
+
+[159.125]
+{SAY}I'm not slacking. It's a break!{/SAY}
+
+[159.126]
+{SAY}Ah! Captain Linda!{WAIT}I wasn't slacking, I was on patrol!{/SAY}
+
+[159.127]
+{SAY}Too hot to sleep~{/SAY}
+
+[159.128]
+{SAY}What!? All the way to Chichen Itza?{WAIT}...Good luck!{/SAY}
+
+[159.129]
+{SAY}You beat the aliens at Chichen Itza!?{WAIT}True jungle heroes!{/SAY}
+
+[159.130]
+{SAY}Heave, ho! Dig here, woof woof!{/SAY}
+
+[159.131]
+{SAY}Whew, I'm beat.{WAIT}Wanna rest too?{/SAY}
+
+[159.132]
+{SAY}Then write in your diary?{/SAY}
+
+[159.133]
+{SAY}Tired? Rest. That's the basics!{/SAY}
+
+[159.134]
+{SAY}Heave, ho! Long way to go~!{/SAY}
+
+[159.135]
+{SAY}Found this digging the tunnel.{WAIT}You can have it.{/SAY}
+
+[159.136]
+
+《Received {WORD}!》
+
+[159.137]
+
+《Got {WORD}!》
+
+[159.138]
+《But {NAME:19} already has 99 {WORD}!》
+
+[159.139]
+
+《Gave up on {WORD}...》
+
+[159.140]
+{SAY}There are lots of ruins around here. We find stuff like this a lot.{HOLD}I'll give you more if I find any.{/SAY}
+
+[159.141]
+{SAY}Who dares disturb my sleep!?{/SAY}
+
+[159.142]
+Batty
+{SAY}Whoaaa~{/SAY}
+
+[159.143]
+{NAME:04}
+{SAY}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} What a fun event.{/SAY}
+

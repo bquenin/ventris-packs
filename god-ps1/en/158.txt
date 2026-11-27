@@ -1,0 +1,85 @@
+[158.000]
+{SAY}This is the British Museum. No entry without permission.{/SAY}
+
+[158.002]
+{SAY}I've heard. It's a maze inside, and very dangerous. Be careful.{/SAY}
+
+[158.003]
+{SAY}Please, take care!{/SAY}
+
+[158.004]
+
+《The goddess smiled!》
+
+[158.005]
+
+《The goddess is smiling...》
+
+[158.008]
+
+《The goddess smiled!》
+
+[158.009]
+
+《The goddess is smiling...》
+
+[158.011]
+
+《The goddess smiled!》
+
+[158.012]
+
+《The goddess is smiling...》
+
+[158.014]
+
+《The goddess smiled!》
+
+[158.015]
+
+《The goddess is smiling...》
+
+[158.016]
+
+《A lock opened somewhere...》
+
+[158.018]
+
+《The goddess smiled!》
+
+[158.019]
+
+《The goddess is smiling...》
+
+[158.021]
+
+《The goddess smiled!》
+
+[158.022]
+
+《The goddess is smiling...》
+
+[158.023]
+
+《Found the Prayer Flute!》
+
+[158.024]
+
+《The goddess smiled!》
+
+[158.025]
+
+《The goddess is smiling...》
+
+[158.026]
+
+《It's locked...》
+
+[158.027]
+
+《Unlocked!》
+
+[158.028]
+
+《Found the Dolphin Flute!》
+
