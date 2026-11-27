@@ -1,0 +1,350 @@
+[165.000]
+Write in diary
+Read diary
+Quit
+
+[165.004]
+Write in your diary?
+
+[165.005]
+Write in diary
+Read diary
+Sleep
+
+[165.010]
+{NAME:01}
+{SAY}What...?{/SAY}
+
+[165.011]
+{NAME:02}
+{SAY}Wait!{/SAY}
+
+[165.012]
+{SAY}...Please, go back.{/SAY}
+
+[165.013]
+{NAME:02}
+{SAY}What?{/SAY}
+
+[165.014]
+{SAY}We don't accept outsiders here.{WAIT}...Please, go back.{/SAY}
+
+[165.015]
+{NAME:02}
+{SAY}But...!{/SAY}
+
+[165.016]
+{SAY}...These people are okay.{/SAY}
+
+[165.017]
+{SAY}Yeah! They're okay!{/SAY}
+
+[165.018]
+{SAY}You won't bully us, right?{/SAY}
+
+[165.019]
+{SAY}Let's be friends!{/SAY}
+
+[165.020]
+{SAY}You aren't bad people, are you.{WAIT}...{PAUSE:14}Welcome home.{WAIT}This is the House of Salvation.{/SAY}
+
+[165.021]
+{SAY}This is the House of Salvation! ...It used to be our school, though!{/SAY}
+
+[165.022]
+{SAY}Pretty, right?{WAIT}My dream is to fill this house with pretty flowers!{/SAY}
+
+[165.023]
+{SAY}Welcome home! Hearing that is a relief, right?{/SAY}
+
+[165.024]
+{SAY}The more love you give, the prettier the flowers bloom.{/SAY}
+
+[165.025]
+{SAY}You can make yourselves at home too!{/SAY}
+
+[165.026]
+{SAY}Hey, hey, what do we play next?{/SAY}
+
+[165.027]
+{SAY}Yay! Yay! Guests! Guests!{/SAY}
+
+[165.028]
+{SAY}Tag!{/SAY}
+
+[165.029]
+{SAY}Hide-and-seek!{/SAY}
+
+[165.030]
+{SAY}Doctor!{PAUSE:14} ...No?{/SAY}
+
+[165.031]
+{SAY}You aren't bad people, are you.{WAIT}...{PAUSE:14}Welcome home.{WAIT}This is the House of Salvation.{/SAY}
+
+[165.032]
+{SAY}Welcome home.{WAIT}This is the House of Salvation.{/SAY}
+
+[165.034]
+{SAY}You aren't bad people, are you.{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} Welcome home.{WAIT}This is the House of Salvation.{/SAY}
+
+[165.035]
+{SAY}Welcome home.{WAIT}This is the House of Salvation.{/SAY}
+
+[165.036]
+Ivan
+{SAY}I don't know how I walked... I just found myself here.{WAIT}Can someone like me stay here...?{WAIT}Will you bully me too?{/SAY}
+
+[165.037]
+{SAY}I see......{/SAY}
+
+[165.038]
+{SAY}Thank you. I made this.{HOLD}You can have it.{/SAY}
+
+[165.039]
+
+《Got the Moon Necklace!》
+
+[165.040]
+Ivan
+{SAY}But I feel like this isn't my place either...{/SAY}
+
+[165.042]
+{SAY}They say this old man knows an ideal you can't put a price on.{WAIT}I wonder what that means...{/SAY}
+
+[165.043]
+Girl
+{SAY}...Thank you, big sister.{/SAY}
+
+[165.044]
+Girl
+{SAY}I can't do much...{PAUSE:1E} but I'll teach you this!{/SAY}
+
+[165.045]
+
+《{NAME:02} learned Prayer!》
+
+[165.046]
+{SAY}Ahh, I'm starving!! Whose turn is it to cook today?{/SAY}
+
+[165.047]
+{SAY}When you're sad, flowers of every color comfort you.{WAIT}This is the House of Salvation. Want to know why it exists?{/SAY}
+
+[165.048]
+{SAY}Long ago, a bullied kid gathered bullied kids from all over the country online.{WAIT}And then all kinds of people gathered here.{/SAY}
+
+[165.049]
+{SAY}I see.{/SAY}
+
+[165.050]
+{SAY}Bullied children, adults who wanted to die, hurt people gather here.{/SAY}
+
+[165.051]
+{SAY}I set out on a journey to die.{WAIT}While wandering, I found this House of Salvation.{/SAY}
+
+[165.052]
+{SAY}I was bullied all along. I don't smell at all...{WAIT}I heard rumors of this house. I finally made it here.{/SAY}
+
+[165.053]
+{SAY}...Here, no one bullies me anymore. I'm happy.{/SAY}
+
+[165.054]
+{SAY}Thank you so much!{/SAY}
+
+[165.055]
+{SAY}I grew my hair out against the school rules.{WAIT}Then they told me not to come to school anymore.{WAIT}So I came here.{/SAY}
+
+[165.056]
+{SAY}They told me to bully someone so I wouldn't get bullied.{WAIT}So I ran away.{/SAY}
+
+[165.057]
+{SAY}I got bullied and climbed a tree.{WAIT}If I came down, they'd bully me again, so I went from tree to tree.{WAIT}And I got here.{WAIT}...I could finally come down from the trees.{/SAY}
+
+[165.058]
+{SAY}Here the strong chop wood, the good cooks cook, and each does what they can. We live helping each other.{/SAY}
+
+[165.059]
+{SAY}...I'm a woman, but I like women.{WAIT}Just for that, I was bullied.{/SAY}
+
+[165.060]
+{SAY}I made these "Salvation Buns".{WAIT}Don't laugh at the weird name. Have one.{/SAY}
+
+[165.061]
+
+《Got a Salvation Bun!》
+
+[165.062]
+{SAY}I'll give you more when I make them.{/SAY}
+
+[165.063]
+{SAY}Will you stay? It's free, of course.{/SAY}
+
+[165.064]
+{SAY}Look at your diary?{/SAY}
+
+
+
+[165.065]
+{SAY}Come any time.{/SAY}
+
+[165.066]
+{SAY}...For a long time I fought to make this country better.{WAIT}I wanted a society with no bullying, no discrimination, where all are equal.{WAIT}But my comrades are all gone...{WAIT}This seems to be where I'll die.{/SAY}
+
+[165.067]
+{SAY}...A present you can't put a price on?{WAIT}...Take this. A book from when people still burned with ideals.{/SAY}
+
+[165.068]
+
+《Got the Declaration of Ideals!》
+
+[165.069]
+{SAY}Ideals are nice!{/SAY}
+
+[165.070]
+
+　《Children's drawings are on display》
+
+[165.071]
+{SAY}This girl won't talk to anyone even here. I don't know what to do...{/SAY}
+
+[165.072]
+{SAY}Thank you.{/SAY}
+
+[165.073]
+Girl
+{SAY}...I'm a little different from other people.{PAUSE:1E} So...{/SAY}
+
+[165.074]
+{NAME:02}
+{SAY}...{PAUSE:14}So you were bullied.{/SAY}
+
+[165.075]
+Girl
+{SAY}...Huh...{/SAY}
+
+[165.076]
+{NAME:02}
+{SAY}...{PAUSE:1E}You can read people's hearts.{/SAY}
+
+[165.077]
+Girl
+{SAY}What!? ...{PAUSE:1E}How...{/SAY}
+
+[165.078]
+{NAME:02}
+{SAY}I'm the same...{WAIT}Being bullied{PAUSE:14} all along...{WAIT}the same as me......{/SAY}
+
+[165.079]
+{NAME:02}
+{SAY}After I touched the God Stone on Mt. Tsukubane,{WAIT}I could read hearts more and more clearly.{WAIT}Who thought what about me...{/SAY}
+
+[165.080]
+{NAME:02}
+{SAY}After my parents died, I lived as if running away.{WAIT}......{PAUSE:1E}I was all alone. I wanted someone to help me.{WAIT}To save me...{/SAY}
+
+[165.081]
+{NAME:01}
+{SAY}So that's how the aliens came to control you...{/SAY}
+
+[165.082]
+{NAME:02}
+{SAY}...{PAUSE:28}Yes. Now I understand. What you need to save one person is....{/SAY}
+
+[165.083]
+{NAME:04}
+{SAY}What is it?{/SAY}
+
+[165.084]
+{NAME:02}
+{SAY}Another person's life.{/SAY}
+
+[165.085]
+{NAME:01}
+{SAY}...{PAUSE:1E}Wait a sec, {NAME:02}.{WAIT}So you know what we're always thinking?!{WAIT}...{PAUSE:14}Um,{PAUSE:14} I'm{PAUSE:14} not that dirty-minded!{/SAY}
+
+[165.086]
+{NAME:04}
+{SAY}What are you saying?{/SAY}
+
+[165.087]
+{NAME:01}
+{SAY}{NAME:19} understands.{WAIT}Right, {NAME:19}, that's how guys are.{WAIT}{NAME:19}!{PAUSE:14} Say something!{/SAY}
+
+[165.088]
+That's how guys are
+You're dirty-minded
+
+[165.089]
+{SAY}Don't dodge! Say it straight!{/SAY}
+
+[165.090]
+{NAME:01}
+{SAY}Phew. Now, let's go on.{/SAY}
+
+[165.091]
+{NAME:01}
+{SAY}{NAME:19},{PAUSE:0A} being dirty is great!{/SAY}
+
+[165.092]
+{NAME:02}
+{SAY}Relax, {NAME:01}. I read hearts when I'm anxious.{WAIT}When I feel safe, I usually don't.{/SAY}
+
+[165.093]
+{NAME:02}
+{SAY}So, it's all right.{WAIT}Someday you'll find friends who make you feel safe just by being near.{WAIT}Don't give in until then.{WAIT}Don't give in to yourself.{/SAY}
+
+[165.094]
+Girl
+{SAY}......{PAUSE:14}Big sister.{/SAY}
+
+[165.095]
+{NAME:02}
+{SAY}It may be a lover. It may be a friend.{WAIT}But until you meet them, closing your heart means losing.{WAIT}Even hurt again and again, keep your heart open.{WAIT}Then you'll surely meet them.{/SAY}
+
+[165.096]
+Girl
+{SAY}......{PAUSE:14}Big sister.{/SAY}
+
+[165.097]
+{NAME:02}
+{SAY}Now, go play with everyone.{/SAY}
+
+[165.098]
+Girl
+{SAY}...{PAUSE:0A}Okay.{/SAY}
+
+[165.099]
+{NAME:02}
+{SAY}{NAME:01}.{/SAY}
+
+[165.100]
+{NAME:01}
+{SAY}What?{/SAY}
+
+[165.101]
+{NAME:02}
+{SAY}You just thought she'll grow up to be quite a woman, didn't you.{/SAY}
+
+[165.102]
+{NAME:01}
+{SAY}Huh...{WAIT}No...{WAIT}Um...{WAIT}Well...{/SAY}
+
+[165.103]
+{NAME:04}
+{SAY}......{PAUSE:0F}Dirty.{/SAY}
+
+[165.115]
+{NAME:02}
+{SAY}It started when someone spoke to me in town. I joined... a religion.{WAIT}I thought I might be saved here...{WAIT}Everyone welcomed me with real smiles.{/SAY}
+
+[165.116]
+{NAME:02}
+{SAY}But... I could read the founder's heart.{WAIT}He only thought about making money.{WAIT}He pretended to save people while thinking of money.{WAIT}I could read hearts. And some followers noticed.{/SAY}
+
+[165.117]
+{NAME:02}
+{SAY}They drove out the founder and started calling me God.{/SAY}
+
+[165.118]
+{NAME:02}
+{SAY}No matter how often I said I'm no god, they wouldn't believe me...{WAIT}...But some came truly seeking salvation.{WAIT}I didn't know what to do... and then......{/SAY}
+

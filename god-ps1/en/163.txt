@@ -128,7 +128,8 @@ Linda
 
 [163.030]
 　{NAME:02} started working at
-　a shelter in Japan.{WAIT}
+　the House of Salvation
+　in Japan.{WAIT}
 　For hurt children, bullied
 　children, adults who wanted
 　to die,{WAIT}
