@@ -1,0 +1,8 @@
+[126.000]
+Director Akashi
+{SAY}This is Neo-Kobe. The survey team is...{/SAY}
+
+[126.002]
+Director Akashi
+{SAY}The survey team is south of Lake Biwa. Right about here.{WAIT}The small island in the middle of Lake Biwa rose up because of the earthquakes.{WAIT}The survey boat is now continuing its survey centered on that island...{/SAY}
+
