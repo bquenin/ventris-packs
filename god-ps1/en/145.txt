@@ -1,0 +1,289 @@
+[145.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[145.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[145.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[145.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[145.005]
+Write in diary
+Read diary
+Quit
+
+[145.008]
+Write in your diary?
+
+[145.009]
+Write in diary
+Read diary
+Sleep
+
+[145.010]
+{SAY}Hey! It's you lot! Message from my old man: come to Cape Hope!{/SAY}
+
+[145.011]
+{SAY}Where'd my old man go, not even helping in the shop...{WAIT}Hm? A customer?{PAUSE:0A} Then come around the front!{/SAY}
+
+[145.012]
+{SAY}Anyway, I'm glad the old man got his drive back!{WAIT}Hm? A customer?{PAUSE:0A} Then come around the front!{/SAY}
+
+[145.013]
+{SAY}Hey! You lot! Message from my old man: come to Cape Hope!{/SAY}
+
+[145.014]
+{SAY}The ingredients in the food here?{WAIT}...A secret, of course!{/SAY}
+
+[145.015]
+{SAY}Welcome!{PAUSE:19} Hm?{PAUSE:14} Hmmm...{PAUSE:14} Oh!{WAIT}The skinny one, the big one, the pretty one and the bald one! My old man told me about you.{WAIT}The old man hasn't held a tool in ages, but looks like he's fired up.{WAIT}Don't be shy. Stay the night! It's on the house!?{/SAY}
+
+[145.016]
+{SAY}Use the second floor as you like!{/SAY}
+
+[145.017]
+{SAY}Welcome to the Hope Cafe, a cliffhanger of a cafe standing on the cliff at the very south of Africa!{WAIT}So, what'll it be?{/SAY}
+
+[145.018]
+Stay
+Eat
+Info
+Quit
+
+[145.019]
+{SAY}Come again, hop hop!{/SAY}
+
+[145.020]
+{SAY}Come again, hop hop!{/SAY}
+
+[145.021]
+{SAY}Hop to it, hop hop!{WAIT}It's 1300G a night. Will you stay?{/SAY}
+
+[145.022]
+{SAY}Thank you! Use the second floor as you like!{/SAY}
+
+[145.023]
+{SAY}You don't have enough money!{/SAY}
+
+[145.024]
+{SAY}Then want to look at your diary on the quiet?{/SAY}
+
+[145.025]
+{SAY}Anytime!{/SAY}
+
+[145.026]
+{SAY}Our food is the best in Africa! Whatever the times, it fills you with courage and hope!{WAIT}So, what'll it be?{/SAY}
+
+[145.027]
+Roast Ngapa....1000G
+Smoked Popo....1000G
+Melmerime Set..1000G
+Never mind
+
+[145.028]
+{SAY}...But it's so good.{/SAY}
+
+[145.029]
+{SAY}...But it's so good.{/SAY}
+
+[145.030]
+{SAY}This old guy is all worn out.{/SAY}
+
+[145.031]
+{SAY}Hop to it, hop hop! Just a moment!{/SAY}
+
+[145.032]
+
+《HP was restored!》
+
+[145.033]
+
+《...Hm? There's something in the food...》
+
+[145.034]
+
+《Got a Strength Essence!》
+
+[145.035]
+
+《De...licious... maybe?》
+
+[145.036]
+
+《You feel a little hope!》
+
+[145.037]
+{SAY}You don't have enough money!{/SAY}
+
+[145.038]
+{SAY}Sorry.{WAIT}This old guy's body is a wreck...{/SAY}
+
+[145.039]
+{SAY}Hop to it, hop hop! Just a moment!{/SAY}
+
+[145.040]
+
+《MP was restored!》
+
+[145.041]
+
+《...Hm? There's something in the food...》
+
+[145.042]
+
+《Got a Psycho Essence!》
+
+[145.043]
+
+《De...licious... maybe?》
+
+[145.044]
+
+《You feel a little courage!》
+
+[145.045]
+{SAY}You don't have enough money!{/SAY}
+
+[145.046]
+{SAY}Sorry.{WAIT}This old guy's body is a wreck...{/SAY}
+
+[145.047]
+{SAY}Hop to it, hop hop! Just a moment!{/SAY}
+
+[145.048]
+
+《Love went up by 5 points!》
+
+[145.049]
+
+《De...licious... maybe?》
+
+[145.050]
+
+《You feel a little kinder!》
+
+[145.051]
+{SAY}You don't have enough money!{/SAY}
+
+[145.052]
+{SAY}Sorry.{WAIT}This old guy's body is a wreck...{/SAY}
+
+[145.053]
+{SAY}So, what do you want to know? 1000G a question!{/SAY}
+
+[145.054]
+About the aliens
+About Cape Hope
+About Bless
+Never mind
+
+[145.055]
+{SAY}Awww, too bad!{/SAY}
+
+[145.056]
+{SAY}Awww, too bad!{/SAY}
+
+[145.057]
+{SAY}Let's see, the aliens.{WAIT}...We don't know much about them...{WAIT}except that they've been spreading their power from the ancient ruins scattered around the Earth.{WAIT}I wonder if there's a connection...{/SAY}
+
+[145.058]
+{SAY}You don't have enough money!{/SAY}
+
+[145.059]
+{SAY}Cape Hope, south of this cafe, was discovered long ago by Vasco da Gama on his way to India.{WAIT}Sailing south down Africa's west coast, he found this cape and at last could reach the eastern sea.{WAIT}He left his joy in the cape's name.{WAIT}...Mind you, now it's my old man's workshop.{/SAY}
+
+[145.060]
+{SAY}You don't have enough money!{/SAY}
+
+[145.061]
+{SAY}Right now, the only Bless in the world still in decent shape is NY Bless, the headquarters!{WAIT}The rest were nearly all wiped out.{WAIT}Mind you, some, like Africa Bless, are scraping by!{/SAY}
+
+[145.062]
+{SAY}You don't have enough money!{/SAY}
+
+[145.065]
+Mystery Voice
+{SAY}Nngyaaaaaa!!!{/SAY}
+
+[145.066]
+{SAY}Here you go! Whew, that was a tough one!{/SAY}
+
+[145.067]
+
+《Ate the meal...》
+
+[145.068]
+{NAME:19}
+{SAY}.....................{/SAY}
+
+[145.069]
+{NAME:01}
+{SAY}.....................{/SAY}
+
+[145.070]
+{NAME:02}
+{SAY}.....................{/SAY}
+
+[145.071]
+{NAME:02}
+{SAY}.....................{/SAY}
+
+[145.072]
+{NAME:04}
+{SAY}.....................{/SAY}
+
+[145.073]
+{SAY}Welcome! Have one to remember coming to the southern tip of Africa.{/SAY}
+
+[145.074]
+{SAY}Are you people from Bless?{/SAY}
+
+[145.075]
+{SAY}Is it true Bless in America is joining hands with the aliens?{/SAY}
+
+[145.076]
+{SAY}...I see. Um,{PAUSE:14} is it true Bless in America is joining hands with the aliens?{/SAY}
+
+[145.077]
+{SAY}But it seems to be true. I want someone to find out!{/SAY}
+
+[145.078]
+{SAY}America and the aliens...{/SAY}
+
+[145.079]
+{SAY}If it's true, the world is finished.{WAIT}I want someone to find out!{/SAY}
+
+[145.080]
+{SAY}I heard a rumor someone stopped America from joining hands with the aliens.{WAIT}Some people are amazing.{/SAY}
+
+[145.081]
+{SAY}The old man who runs this place is the best shipwright in Africa.{WAIT}I wanted him to build me a ship to America, but...{/SAY}
+
+[145.082]
+{SAY}...My husband was a very skilled shipwright.{WAIT}But the aliens kept destroying every ship he built, and finally he stopped picking up his tools...{WAIT}Now he spends his days on the southern shore, playing with the birds.{/SAY}
+
+[145.083]
+{SAY}...My husband has started working! Thank goodness, thank goodness!{WAIT}Now I can rest easy.{/SAY}
+
+[145.084]
+{SAY}My husband has cheered up lately. He says he's found a new purpose in life.{WAIT}Anyway, thank goodness, thank goodness.{/SAY}
+
+[145.085]
+{SAY}I, like, want to go{WAIT}to America and be, like, a star{WAIT}but there's, like, no ship to America{/SAY}
+
+[145.086]
+{SAY}I'm a doctor from a hot country.{WAIT}Shall I take a look?{/SAY}
+
+[145.087]
+{SAY}You don't have enough money!{/SAY}
+
+[145.088]
+{SAY}Ugh. I came out of longing, but hot countries are no good, vich.{/SAY}
+
+[145.089]
+
+《There's a straw bed... Stay the night?》
+
