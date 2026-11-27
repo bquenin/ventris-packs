@@ -1,0 +1,972 @@
+[148.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[148.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[148.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[148.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[148.005]
+Write in diary
+Read diary
+Quit
+
+[148.008]
+Write in your diary?
+
+[148.009]
+Write in diary
+Read diary
+Sleep
+
+[148.011]
+Lem
+{SAY}Kikkikiki!{/SAY}
+
+[148.014]
+High Priest Kiata
+{SAY}Hahahaha! Foolish humans!{WAIT}You should have handed over the women quietly!{/SAY}
+
+[148.015]
+High Priest Kiata
+{SAY}Go!!{/SAY}
+
+[148.016]
+Women
+"Kyaaah!!"
+
+[148.017]
+Director Koala
+{SAY}Stoooop!!!{/SAY}
+
+[148.018]
+High Priest Kiata
+{SAY}Silence!!{/SAY}
+
+[148.019]
+High Priest Kiata
+{SAY}You lot! Don't kill the women!{/SAY}
+
+[148.020]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.021]
+{SAY}Thank you so much. I'll repay you later, I promise...{/SAY}
+
+[148.022]
+{SAY}Thank you so much. You saved me!{/SAY}
+
+[148.023]
+{SAY}Thank you so much.{WAIT}Here, as thanks.{/SAY}
+
+[148.024]
+
+《Got {WORD}!》
+
+[148.025]
+《But {NAME:19} already has 99 {WORD}!》
+
+[148.026]
+
+《{NAME:19} gave up on {WORD}...》
+
+[148.027]
+{SAY}What were the aliens after...{/SAY}
+
+[148.028]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.029]
+{SAY}Thank you so much. I'll repay you later, I promise...{/SAY}
+
+[148.030]
+
+《Help the woman?》
+
+[148.031]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.032]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.033]
+{SAY}Thank you so much. If you hadn't come...{/SAY}
+
+[148.034]
+{SAY}Thank you so much. I'll never forget your kindness...{/SAY}
+
+[148.035]
+{SAY}Being alive is wonderful!{/SAY}
+
+[148.036]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.037]
+{SAY}Thank you so much. I'll never forget your kindness...{/SAY}
+
+[148.038]
+
+《Help the woman?》
+
+[148.039]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.040]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.041]
+{SAY}Saved~! Thank you! Mwah!{/SAY}
+
+[148.042]
+{SAY}Saved~! Thank you! Mwah!{/SAY}
+
+[148.043]
+{SAY}Ah! It's you! Thanks for before.{WAIT}Here, as thanks!{/SAY}
+
+[148.044]
+
+《Got {WORD}!》
+
+[148.045]
+《But {NAME:19} already has 99 {WORD}!》
+
+[148.046]
+
+《{NAME:19} gave up on {WORD}...》
+
+[148.047]
+{SAY}Thank you so much!{/SAY}
+
+[148.048]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.049]
+{SAY}Saved~! Thank you! Mwah!{/SAY}
+
+[148.050]
+
+《Help the woman?》
+
+[148.051]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.052]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.053]
+{SAY}Th-thank you! You saved me...!!{/SAY}
+
+[148.054]
+{SAY}Th-thank you! You saved me...!!{/SAY}
+
+[148.055]
+{SAY}You saved me. It's not much, but...{/SAY}
+
+[148.056]
+
+《Got {WORD}!》
+
+[148.057]
+《But {NAME:19} already has 99 {WORD}!》
+
+[148.058]
+
+《{NAME:19} gave up on {WORD}...》
+
+[148.059]
+{SAY}Will this town be peaceful now...{/SAY}
+
+[148.060]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.061]
+{SAY}Th-thank you! You saved me...!!{/SAY}
+
+[148.062]
+
+《Help the woman?》
+
+[148.063]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.064]
+{SAY}This is Coral Town.{PAUSE:1E} ...Well, most of it's buried in sand!{/SAY}
+
+[148.065]
+{SAY}Vacation!{WAIT}Forget everything and just kick back on a southern island!{WAIT}That's the life!{/SAY}
+
+[148.066]
+{SAY}Can't even take a vacation in peace... Sigh.{/SAY}
+
+[148.067]
+{SAY}In the middle of Australia there's a big rock called Ayers Rock.{/SAY}
+
+[148.068]
+{SAY}I saw it!{WAIT}That big UFO flew in from the direction of Ayers Rock!{/SAY}
+
+[148.069]
+{SAY}I've decided.{WAIT}I'm going to be strong like you, mister.{/SAY}
+
+[148.070]
+{SAY}Shhh! They'll find me!{WAIT}Go away!{/SAY}
+
+[148.071]
+{SAY}Whew! That was a shock!{/SAY}
+
+[148.072]
+{SAY}Huh? You found me? It's empty, so it's okay if I make it my house, right?{WAIT}Owning a house in a resort was my dream!{/SAY}
+
+[148.073]
+Director Koala
+{SAY}...I'm all right.{WAIT}Hurry, save everyone...!{/SAY}
+
+[148.074]
+{SAY}To think they'd attack again...{/SAY}
+
+[148.075]
+{SAY}..................{/SAY}
+
+[148.076]
+{SAY}It was a long time ago that the aliens attacked here.{WAIT}Most of the town got buried in sand back then, but now it's perfectly peaceful!{WAIT}No more worrying about alien attacks!{/SAY}
+
+[148.077]
+{SAY}Who said it was safe now!{WAIT}Well, at least everyone's okay!{/SAY}
+
+[148.078]
+{SAY}Who said it was safe now!{WAIT}I can't believe anything anymore...{/SAY}
+
+[148.079]
+{SAY}Left, right! Left, right! No trouble today!{WAIT}...{PAUSE:1E}Wanna play Bless with me, mister?{/SAY}
+
+[148.080]
+{SAY}Left, right! Left, right! No trouble today!{WAIT}We've got to step up patrols from now on!{/SAY}
+
+[148.081]
+{SAY}Waaah! Help!{/SAY}
+
+[148.082]
+{SAY}Thank you so much. You saved me...{/SAY}
+
+[148.083]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.084]
+
+《Help the man?》
+
+[148.085]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.086]
+{SAY}They say Bless in America joined hands with the aliens.{WAIT}...I can't believe it.{/SAY}
+
+[148.087]
+{SAY}Resort or not, you get bored staying forever. But you can't go outside the town either......{WAIT}What a bother.{/SAY}
+
+[148.088]
+{SAY}I saw it. A huge light was floating in the sky over this town!{/SAY}
+
+[148.089]
+{SAY}Oh my! Help me!{/SAY}
+
+[148.090]
+{SAY}Thank you so much!{/SAY}
+
+[148.091]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.092]
+
+《Help the woman?》
+
+[148.093]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.094]
+{SAY}You saved me.{WAIT}Here, as thanks.{/SAY}
+
+[148.095]
+
+《Got {WORD}!》
+
+[148.096]
+《But {NAME:19} already has 99 {WORD}!》
+
+[148.097]
+
+《{NAME:19} gave up on {WORD}...》
+
+[148.098]
+{SAY}Will there be peace now...{/SAY}
+
+[148.099]
+{SAY}I thought peace had finally come, but lately I keep hearing about people seeing UFOs.{WAIT}I hope nothing happens.{/SAY}
+
+[148.100]
+{SAY}Eeek! Heeelp!{/SAY}
+
+[148.101]
+{SAY}Ahem. Why, I'm grateful!{/SAY}
+
+[148.102]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.103]
+
+《Help the doctor?》
+
+[148.104]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.105]
+{SAY}My, my, what an ordeal.{WAIT}So, what's wrong with you?{/SAY}
+
+[148.106]
+{SAY}Ahh... how peaceful... So, what's wrong with you?{/SAY}
+
+[148.107]
+{SAY}Hey! You don't have enough money!{/SAY}
+
+[148.108]
+{SAY}Kyaaaaah!{/SAY}
+
+[148.109]
+{SAY}You saved my life!{/SAY}
+
+[148.110]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.111]
+
+《Help the woman?》
+
+[148.112]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.113]
+{SAY}I won't lose. I won't lose, not me.{WAIT}Want a Coral Town souvenir?{/SAY}
+
+[148.114]
+{SAY}Welcome! This is the biggest, best and last hotel on this continent, the Hotel Kangaroo!{WAIT}The sandiness is free of charge, of course!{WAIT}It's 500G a night. Is that okay?{/SAY}
+
+[148.115]
+{SAY}You don't have enough money!{/SAY}
+
+[148.116]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[148.117]
+{SAY}Anytime.{/SAY}
+
+[148.118]
+{SAY}Kyah!{/SAY}
+
+[148.119]
+{SAY}...Huh? You're not aliens?{WAIT}Phew!{WAIT}It's a bad time, but I can at least let you read your diary.{/SAY}
+
+[148.120]
+{SAY}This is about all I can do... but do your best!{/SAY}
+
+[148.121]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.122]
+{SAY}Thank you!{/SAY}
+
+[148.123]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.124]
+
+《Help the woman?》
+
+[148.125]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.126]
+{SAY}Waaah! Help!{/SAY}
+
+[148.127]
+{SAY}Yikes~! Saved!{/SAY}
+
+[148.128]
+{SAY}Yo! Thanks to you, I'm still alive! Thanks a lot.{WAIT}Oh, I'll give you this.{/SAY}
+
+[148.129]
+
+《Got {WORD}!》
+
+[148.130]
+《But {NAME:19} already has 99 {WORD}!》
+
+[148.131]
+
+《{NAME:19} gave up on {WORD}...》
+
+[148.132]
+{SAY}Now, time to hit on some girls!{/SAY}
+
+[148.133]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.134]
+
+《Help the man?》
+
+[148.135]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.136]
+Receptionist
+{SAY}Welcome! Welcome to Coral Town, famous for its golden beaches!{WAIT}How can I help you?{/SAY}
+
+[148.137]
+About the hotel
+About Bless
+Ask her out
+Quit
+
+[148.138]
+{SAY}I'll always be here!{/SAY}
+
+[148.139]
+{SAY}The biggest, best and last hotel on this continent, the Hotel Kangaroo, is through the door at the back left!{WAIT}...It's a little sandy, though.{/SAY}
+
+[148.140]
+{SAY}The Bless building was wrecked, so the room at the back right of this building is the temporary HQ.{WAIT}Our cool, animal Director is waiting for you.{/SAY}
+
+[148.141]
+{SAY}I'll always be here!{/SAY}
+
+[148.142]
+{SAY}Kyah! Seriously? ...Hmm, but I'm on the late shift today. Ask me again!{/SAY}
+
+[148.143]
+{SAY}Kyah! It's you from before! Totally, yes!{WAIT}Huh...? You're looking for your friends? Okay, then once you've found them all, let's go on a date!{/SAY}
+
+[148.144]
+{SAY}Kyah! Seriously? My shift's just ending. Thanks for asking!{/SAY}
+
+[148.145]
+{NAME:02}
+{SAY}.....................{/SAY}
+
+[148.146]
+Receptionist
+{SAY}Oh. You're totally whipped. Well, ask me again someday!{/SAY}
+
+[148.147]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.148]
+{SAY}Thank you so much. I'll repay you later, I promise...{/SAY}
+
+[148.149]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.150]
+
+《Help the woman?》
+
+[148.151]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.152]
+{SAY}Kyaaah! Help me!{/SAY}
+
+[148.153]
+{SAY}Thank you so much. I'll repay you later, I promise...{/SAY}
+
+[148.154]
+Alien Soldier
+{SAY}Gigigigi! Out of the way!!{/SAY}
+
+[148.155]
+
+《Help the woman?》
+
+[148.156]
+Alien Soldier
+{SAY}Don't interfere!!!{/SAY}
+
+[148.157]
+High Priest Kiata
+{SAY}Now, hand over that girl quietly!{/SAY}
+
+[148.158]
+Dr. Greenoiset
+{SAY}What are you after!{/SAY}
+
+[148.159]
+Dr. Greenoiset
+{SAY}What's the point of you aliens kidnapping human women!{/SAY}
+
+[148.160]
+High Priest Kiata
+{SAY}Heh heh heh. They will become our new "mothers"!{/SAY}
+
+[148.161]
+Dr. Greenoiset
+{SAY}What!!{/SAY}
+
+[148.162]
+High Priest Kiata
+{SAY}Now, you die!!{/SAY}
+
+[148.163]
+Kiki
+{SAY}Doctor!{/SAY}
+
+[148.164]
+High Priest Kiata
+{SAY}Now! Come along quietly!!{/SAY}
+
+[148.167]
+Lem
+{SAY}Ookyakyakya!{/SAY}
+
+[148.168]
+{NAME:04}
+{SAY}Mm, quite right, Lord Lem.{/SAY}
+
+[148.169]
+{NAME:04}
+{SAY}Come, Sir {NAME:19}! Let's go!{/SAY}
+
+[148.170]
+{NAME:04}
+{SAY}But... we can't just leave them...{/SAY}
+
+[148.174]
+{NAME:04}
+{SAY}That's far enough!{/SAY}
+
+[148.175]
+Lem
+{SAY}Ookyakyakya!!{/SAY}
+
+[148.176]
+Kiki
+{SAY}Lem! You came!{/SAY}
+
+[148.177]
+Lem
+{SAY}Ookiki!{/SAY}
+
+[148.178]
+High Priest Kiata
+{SAY}...What are you?{WAIT}If you don't want to die, get out of the way!{/SAY}
+
+[148.179]
+Lem
+{SAY}Ookyaaa!{/SAY}
+
+[148.180]
+Lem
+{SAY}Ookyaookyakyakya!{PAUSE:14} Ookyaaa!!{PAUSE:0F} Kikikiki!{PAUSE:14} Kyakya!{PAUSE:0F} Ookyaa!!!{/SAY}
+
+[148.181]
+{NAME:04}
+{SAY}Exactly! Surrender quietly!{/SAY}
+
+[148.182]
+High Priest Kiata
+{SAY}...I don't quite follow...{WAIT}but those in my way, I eliminate!!{/SAY}
+
+[148.183]
+High Priest Kiata
+{SAY}It can't be...{PAUSE:14} me, beaten by such lower life forms...{PAUSE:14}{WAIT}Curse you! You'll pay for this!{/SAY}
+
+[148.184]
+Director Koala
+{SAY}{NAME:19}! Everyone! Well done!{/SAY}
+
+[148.185]
+Dr. Greenoiset
+{SAY}Everyone in town is safe too. All thanks to you.{/SAY}
+
+[148.186]
+Dr. Greenoiset
+{SAY}But... some fell into the aliens' hands...{/SAY}
+
+[148.187]
+Director Koala
+{SAY}Mm... it's a shame...{/SAY}
+
+[148.188]
+Director Koala
+{SAY}What will you do now? If possible, I'd like you to help rebuild this town...{/SAY}
+
+[148.189]
+{NAME:04}
+{SAY}The purpose of our journey is to defeat the aliens.{WAIT}And we must find our friends...{/SAY}
+
+[148.190]
+Director Koala
+{SAY}I see... That's a shame.{/SAY}
+
+[148.191]
+{SAY}Director!{/SAY}
+
+[148.192]
+{SAY}Breaking news!!{/SAY}
+
+[148.193]
+Director Koala
+{SAY}What is it!{/SAY}
+
+[148.194]
+{SAY}Sir. ...Bless in America has decided to sign a peace treaty with the aliens!{/SAY}
+
+[148.195]
+{NAME:04}
+{SAY}What! ...So the rumor was true after all...{/SAY}
+
+[148.196]
+Kiki
+{SAY}Why would they do that...{/SAY}
+
+[148.197]
+Director Koala
+{SAY}What on earth is happening in America...{/SAY}
+
+[148.198]
+Dr. Greenoiset
+{SAY}{NAME:19}, are you going to America?{WAIT}But ships and planes have all been destroyed...{WAIT}...An old legend says there's an ancient ship somewhere in Oceania...{/SAY}
+
+[148.199]
+Kiki
+{SAY}...An ancient ship.{PAUSE:14} An ancient ship!?{/SAY}
+
+[148.200]
+Director Koala
+{SAY}Do you know something!?{/SAY}
+
+[148.201]
+Kiki
+{SAY}I think that name appeared in an old legend handed down in my village...{WAIT}Granny in the village might know more...{/SAY}
+
+[148.202]
+Dr. Greenoiset
+{SAY}So you're going, {NAME:19}. Be careful.{/SAY}
+
+[148.203]
+{SAY}Kikikiki!{/SAY}
+
+[148.204]
+Lem
+{SAY}Kikikikiki!{/SAY}
+
+[148.205]
+Girl
+{SAY}Lem!{/SAY}
+
+[148.206]
+Girl
+{SAY}What are you doing here...!{/SAY}
+
+[148.207]
+Lem
+{SAY}Kyakya!{/SAY}
+
+[148.208]
+Girl
+{SAY}What? What's wrong?{/SAY}
+
+[148.209]
+Lem
+{SAY}Ookyakyakya!!{/SAY}
+
+[148.210]
+Girl
+{SAY}Huh?{/SAY}
+
+[148.211]
+Girl
+{SAY}I see... so you're...{/SAY}
+
+[148.212]
+Girl
+{SAY}Oh, excuse me. I'm Lem's friend, Kiki.{/SAY}
+
+[148.213]
+Kiki
+{SAY}Lem hardly ever shows himself to people...{HOLD}He must have followed me when I came to work in this town.{/SAY}
+
+[148.214]
+Kiki
+{SAY}Lem says you're his friend.{WAIT}In the village where I was born, Lem is a strange monkey worshipped as a messenger of the gods.{/SAY}
+
+[148.215]
+Kiki
+{SAY}If Lem calls you a friend, you must have a strange power.{/SAY}
+
+[148.216]
+{SAY}Kiki! That monkey, could it be...!?{/SAY}
+
+[148.217]
+Kiki
+{SAY}Yes, Doctor.{WAIT}It's Lem, the strange monkey I told you about.{/SAY}
+
+[148.218]
+Doctor
+{SAY}Oh! To see a legendary lemur with my own eyes...{/SAY}
+
+[148.219]
+Doctor
+{SAY}Nothing to be scared of~ I'm not scary at all~ Come on, come over here a bit......{/SAY}
+
+[148.220]
+Lem
+{SAY}Kyakya!{/SAY}
+
+[148.221]
+Doctor
+{SAY}Now, now, don't run!{/SAY}
+
+[148.222]
+Lem
+{SAY}Ookiki!{/SAY}
+
+[148.223]
+Doctor
+{SAY}I told you it's fine. I just want to examine you a little!{/SAY}
+
+[148.224]
+Lem
+{SAY}Ookiki!{/SAY}
+
+[148.225]
+Doctor
+{SAY}Wait, wait!{/SAY}
+
+[148.226]
+Lem
+{SAY}Ookiki!{/SAY}
+
+[148.227]
+Doctor
+{SAY}I said wait!{/SAY}
+
+[148.228]
+Doctor
+{SAY}Huff huff... wheeze... What a nuisance...{PAUSE:14} Hm?{/SAY}
+
+[148.229]
+Doctor
+{SAY}You... could it be... {NAME:19}?{/SAY}
+
+[148.230]
+Doctor
+{SAY}No, that sparkle in your eyes! You can't hide it!{WAIT}You're {NAME:19}, who was with Croiset!{/SAY}
+
+[148.231]
+Doctor
+{SAY}To meet you in a place like this.{WAIT}I'm Dr. Greenoiset, Croiset's second cousin.{/SAY}
+
+[148.232]
+Dr. Greenoiset
+{SAY}Don't be surprised. I'm serious.{WAIT}I'm here studying monkeys said to have a strange power.{WAIT}Hm? I heard you had friends...{WAIT}What happened?{/SAY}
+
+[148.233]
+Dr. Greenoiset
+{SAY}I see... you got separated from everyone.{HOLD}Unfortunately, I haven't heard of anyone seeing people who might be your friends...{/SAY}
+
+[148.234]
+Kiki
+{SAY}Um...{/SAY}
+
+[148.235]
+Kiki
+{SAY}Southwest of this town is Lemur Village, where I was born.{WAIT}It's by the sea, so maybe they washed up there.{/SAY}
+
+[148.236]
+Dr. Greenoiset
+{SAY}Mm. That's possible. How about it, will you go?{/SAY}
+
+[148.237]
+Dr. Greenoiset
+{SAY}Don't say that, go and see.{WAIT}They're precious friends, aren't they?{/SAY}
+
+[148.238]
+Dr. Greenoiset
+{SAY}Ask Kiki where exactly Lemur Village is.{WAIT}It's a strange village, but with her introduction they should let you in.{/SAY}
+
+[148.239]
+Lem
+{SAY}Ookyakya!{/SAY}
+
+[148.240]
+Kiki
+{SAY}It seems Lem wants to go home with you too.{WAIT}{NAME:19}, please take care of Lem.{/SAY}
+
+[148.241]
+Kiki
+{SAY}But they're very wary of outsiders, so you might not be let in.{WAIT}So please take this.{/SAY}
+
+[148.242]
+
+《Received Kiki's Pendant!》
+
+[148.243]
+Kiki
+{SAY}I think one of the legends Granny told me spoke of the ancient ship.{/SAY}
+
+[148.244]
+Kiki
+{SAY}What! Mimi!? No, she hasn't come here...{HOLD}Oh! I hope she's safe...{/SAY}
+
+[148.245]
+Kiki
+{SAY}Please! Won't you look for Mimi?{/SAY}
+
+[148.246]
+{SAY}Oh! Thank you so much! Please, I'm counting on you!{/SAY}
+
+[148.247]
+{SAY}...I see. Of course.{WAIT}I'm sorry for asking when you're so busy...{/SAY}
+
+[148.248]
+Kiki
+{SAY}Mimi... I hope she's safe...{/SAY}
+
+[148.249]
+Kiki
+{SAY}Mimi!? Oh, you're safe! Thank goodness...{WAIT}{NAME:19}, everyone, thank you so much!{WAIT}Mimi, hurry home to the village! Everyone's worried.{/SAY}
+
+[148.250]
+Mimi
+{SAY}Okay! Sorry I worried you, big sis.{/SAY}
+
+[148.251]
+Kiki
+{SAY}Everyone, thank you so much.{WAIT}It's nothing much, but use this on your journey.{/SAY}
+
+[148.252]
+
+《Got {WORD}!》
+
+[148.253]
+《But {NAME:19} already has 99 {WORD}!》
+
+[148.254]
+
+《{NAME:19} gave up on {WORD}...》
+
+[148.255]
+Kiki
+{SAY}Please be careful!{/SAY}
+
+[148.256]
+Kiki
+{SAY}I heard about Lem... I'm sorry.{WAIT}I can't say anything yet...{/SAY}
+
+[148.257]
+Kiki
+{SAY}My hometown, Lemur Village, is south of here, along the coastline.{/SAY}
+
+[148.258]
+Kiki
+{SAY}If you show that pendant to my grandfather, I think he'll help you.{WAIT}Say hello to everyone in the village for me.{/SAY}
+
+[148.259]
+Dr. Greenoiset
+{SAY}When I went to Lemur Village, they wouldn't let me in because I was an outsider...{WAIT}If you get inside, take a good look for me too!{WAIT}That area has many legends of lemurs with strange powers and vehicles of the gods.{WAIT}...I wish I could go.{/SAY}
+
+[148.260]
+Dr. Greenoiset
+{SAY}They say there's an ancient ship somewhere...{/SAY}
+
+[148.261]
+Dr. Greenoiset
+{SAY}Mm, welcome back.{WAIT}Your journey will only get harder from here.{WAIT}But do your best.{HOLD}Your fight is our fight too.{WAIT}We're cheering for you with all our hearts!{/SAY}
+
+[148.262]
+{SAY}What is Bless in America thinking...{/SAY}
+
+[148.263]
+{SAY}Have you heard this?{/SAY}
+
+[148.264]
+{SAY}If it's true, it's terrible!{/SAY}
+
+[148.265]
+{SAY}They say America is joining hands with the aliens!!{/SAY}
+
+[148.266]
+Director Koala
+{SAY}I am the wild and animal Director Koala.{WAIT}And you are?{/SAY}
+
+[148.267]
+Director Koala
+{SAY}I see... separated from your friends. That's rough.{WAIT}But no reports about that have reached me.{WAIT}Sorry I can't help.{/SAY}
+
+[148.268]
+Director Koala
+{SAY}Oh, that's right! The doctor in the lab there might know something.{WAIT}Why not see him?{/SAY}
+
+[148.269]
+Director Koala
+{SAY}What? Going to Lemur Village? Lately the aliens' UFOs have been flying around here again.{WAIT}Be very careful.{/SAY}
+
+[148.270]
+Director Koala
+{SAY}Thanks to you, this town was saved.{WAIT}Thank you!{/SAY}
+
+[148.271]
+Director Koala
+{SAY}I am the wild and animal Director Koala.{WAIT}And you are?{/SAY}
+
+[148.272]
+Director Koala
+{SAY}I see... separated from your friends. That's rough.{WAIT}But no reports about that have reached me.{WAIT}Sorry I can't help.{/SAY}
+
+[148.273]
+Director Koala
+{SAY}Oh, that's right! The doctor in the lab there might know something.{WAIT}Why not see him?{/SAY}
+
+[148.274]
+Director Koala
+{SAY}What? Going to Lemur Village? Lately the aliens' UFOs have been flying around here again.{WAIT}Be very careful.{/SAY}
+
+[148.275]
+Director Koala
+{SAY}Thanks to you, this town was saved.{WAIT}Thank you!{/SAY}
+
+[148.276]
+{SAY}Tell me what armor you need.{WAIT}I'd like to give it to you for free, but we need money to rebuild Bless too.{WAIT}Please understand.{/SAY}
+
+[148.277]
+{SAY}Tell me what weapons you need.{WAIT}I'd like to give them to you for free, but we need money to rebuild Bless too.{WAIT}Please understand.{/SAY}
+
+[148.278]
+
+　　"Lemur Survey Report"{WAIT}
+{CLEAR}"The special abilities that only a very few lemurs have are very similar in nature to chakra and psycho.{WAIT}There is no sign of contact with a God Stone; it is probably a case of atavism.
+
