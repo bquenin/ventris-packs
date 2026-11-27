@@ -4457,8 +4457,8 @@ helps you on your journey...
 [program.692515]
 《About Psycho》
 
-We use only 30% of our
-brains.
+We use only 30% of
+our brains.
 Psychic power (Psycho) is a
 special power of that 30%.
 Train that 30%, and
@@ -5093,10 +5093,10 @@ Attack
 Defense
 
 [program.701730]
-Psy Attack
+Psy Atk
 
 [program.701741]
-Psy Defense
+Psy Def
 
 [program.701752]
 Speed
@@ -5456,13 +5456,13 @@ Power Wtr
 Big Pow.Wtr
 
 [program.711976]
-Heart Water
+Heart Wtr
 
 [program.711982]
 Big Hrt.Wtr
 
 [program.711990]
-Life Water
+Life Wtr
 
 [program.711996]
 Antidote
@@ -10646,7 +10646,7 @@ Spirit up {NUM}!
 
 [program.748533]
 
-Spirit Defense up {NUM}!
+Psy Def up {NUM}!
 
 [program.748552]
 
