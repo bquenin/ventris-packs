@@ -1,0 +1,63 @@
+[demo_a6_n15.1296]
+You rat!{WAIT:000F} Cornered you at last!
+
+[demo_a6_n15.1444]
+Ya'd better just give up.
+
+[demo_a6_n15.1584]
+Really,{WAIT:000F} what persistent people you are!{0D}{0A}If it has come to this,{WAIT:000F} I{WAIT:000F} shall be your opponent.
+
+[demo_a6_n15.2448]
+It seems{WAIT:000F} to have exploded.
+
+[demo_a6_n15.2540]
+Was Peruri a robot{07:000A}...?
+
+[demo_a6_n15.2690]
+As I thought,{WAIT:000F} not enough power.{0D}{0A}With this little{WAIT:000F} power,{WAIT:000F} I can barely move my puppet.
+
+[demo_a6_n15.2968]
+That one was a fake?!
+
+[demo_a6_n15.3088]
+You!{WAIT:000F} That's dirty!
+
+[demo_a6_n15.3148]
+I must hurry and obtain the treasures,{WAIT:000F} so that the Great Tengu{WAIT:000F} can be revived,{WAIT:000F} you see.
+
+[demo_a6_n15.3344]
+What is that!{WAIT:000F} This Great Tengu of yours?
+
+[demo_a6_n15.3476]
+It is{WAIT:000F} a giant weapon to conquer Japan!{0D}{0A}You too{WAIT:000F} will bow down{WAIT:000F} before me,{WAIT:000F} Peruri!
+
+[demo_a6_n15.3758]
+We won't let you!{WAIT:000F} We'll stop you!
+
+[demo_a6_n15.3902]
+Oh!{WAIT:001E} What are you saying?{WAIT:001E} Only{WAIT:000F} one treasure remains.{0D}{0A}Gathering them all is{WAIT:000F} only a matter of time.{0D}{0A}Once I obtain the jewel in Kyo,{WAIT:000F}{WAIT:000F} everything will be mine.
+
+[demo_a6_n15.4412]
+Get outta here!{WAIT:000F} Get down here, you rotten so-and-so!
+
+[demo_a6_n15.4552]
+Oh!{WAIT:000F} How frightening, how frightening.{WAIT:000F} The Japanese are violent.{0D}{0A}I{WAIT:000F} have no time to dawdle{WAIT:000F} in a place like this.{0D}{0A}I shall bury you{WAIT:000F} with my giant robot,{WAIT:000F} you see.
+
+[demo_a6_n15.5006]
+If it's a big machine,{WAIT:000F} we'll fight back with Goemon Impact!
+
+[demo_a6_n15.5154]
+Save your game?
+
+[demo_a6_n15.5192]
+Yes
+
+[demo_a6_n15.5208]
+No
+
+[demo_a6_n15.5312]
+The save failed.
+
+[demo_a6_n15.5360]
+Saved.
+

@@ -1,0 +1,6 @@
+[demo_a6_n3.406]
+That Oda next door!{WAIT:001E} He's the one with no manners!{0D}{0A}I knocked on his door properly,{WAIT:000F} and he complained!
+
+[demo_a6_n3.686]
+That Imagawa next door{WAIT:000F} has no manners at all!{0D}{0A}Doesn't he know knocking twice is how you knock on a privy?{0D}{0A}A proper knock is four times. You tell him too.
+

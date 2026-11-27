@@ -1,0 +1,57 @@
+[demo_a6_n4.0518]
+Got the Lucky Orbs yet? Hurry up, gather them and bring them here.
+
+[demo_a6_n4.0838]
+Occupied!
+
+[demo_a6_n4.1574]
+What is it?{WAIT:000F} Who are you lot?
+
+[demo_a6_n4.1700]
+Somethin' came out!{WAIT:001E} Who're you?
+
+[demo_a6_n4.1802]
+How rude.{WAIT:001E} I'm one of the Seven Lucky Gods,{WAIT:000F} the god Ebisu.
+
+[demo_a6_n4.1980]
+Which means you are a god who grants people's wishes?
+
+[demo_a6_n4.2156]
+That was a long time ago.{WAIT:001E} Back when we granted people's wishes.{0D}{0A}Now, as you can see, I'm just an ordinary old geezer.
+
+[demo_a6_n4.2428]
+We're{WAIT:000F} chasing a big-time crook named Peruri.{0D}{0A}But{WAIT:000F} Peruri wrecked the bridge at Goyu,{0D}{0A}so we came to ask you, Ebisu,{WAIT:000F} if you could fix the bridge.
+
+[demo_a6_n4.2812]
+Since a cutie's asking,{WAIT:000F} I'd like to help.{0D}{0A}But my power's grown weak, and I can't do a thing anymore.{0D}{0A}With the Lucky Orbs,{WAIT:000F} I might get my old power back.
+
+[demo_a6_n4.3182]
+What's that?{WAIT:001E} These Lucky Orbs?
+
+[demo_a6_n4.3268]
+They're orbs that each of us Seven Lucky Gods{WAIT:000F} filled with our own power.{0D}{0A}If you gather the Lucky Orbs of all{WAIT:000F} Seven Lucky Gods, my power will come surging back,{0D}{0A}and I might be able to grant your wish.
+
+[demo_a6_n4.3766]
+What a hassle.
+
+[demo_a6_n4.3830]
+They're all hiding quietly somewhere along the road out of this town.{0D}{0A}They're forgotten, same as me, so go find them.{0D}{0A}Here, use this.
+
+[demo_a6_n4.4298]
+Ebisumaru got the Fart Technique!
+
+[demo_a6_n4.4404]
+Hold the L Button and press left or right on the +Control Pad to switch weapons.{0D}{0A}Set it to the shuriken, then hold the Y Button to charge it up.{0D}{0A}Let go of the button to use the Fart Technique.
+
+[demo_a6_n4.4856]
+With that,{WAIT:000F} you can get out through the town's exit.{0D}{0A}Find the six gods,{WAIT:000F} and bring back the Lucky Orbs.
+
+[demo_a6_n4.5164]
+Look what I got, Goemon!
+
+[demo_a6_n4.5218]
+So we just gotta find the other six gods.{0D}{0A}All right, let's go, everybody!
+
+[demo_a6_n4.5376]
+Got the Lucky Orbs yet? Hurry up, gather them and bring them here.
+

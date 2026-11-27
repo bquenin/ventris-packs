@@ -1,0 +1,33 @@
+[demo_a6_n9.1242]
+Who iiis it?{WAIT:001E} Who calls meee?
+
+[demo_a6_n9.1334]
+You're{WAIT:000F} one of the Seven Lucky Gods, right?
+
+[demo_a6_n9.1434]
+That's riiight.{WAIT:001E} I am a Lucky God, Hoteiii.{0D}{0A}What can I dooo for you?
+
+[demo_a6_n9.1618]
+What{WAIT:000F} an odd fella.{0D}{0A}We'd like you to give us{WAIT:000F} the Lucky Orb you got.
+
+[demo_a6_n9.1836]
+We are chasing a villain called Peruri.{0D}{0A}For that, we need the power of Lord Ebisu.
+
+[demo_a6_n9.2100]
+Ebisu's got no power now,{WAIT:000F} so we figured your orb could perk him up.
+
+[demo_a6_n9.2292]
+If it's for Ebisuuu,{WAIT:000F} go on and take iiit.
+
+[demo_a6_n9.2490]
+Goemon and company got a Lucky Orb!
+
+[demo_a6_n9.2730]
+That's a big help!{WAIT:000F} We owe ya one!
+
+[demo_a6_n9.2874]
+Good luuuck.
+
+[demo_a6_n9.3074]
+All right! That's all of them.{0D}{0A}Let's head back to Ebisu in the town of Fujikawa.
+

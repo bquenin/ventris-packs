@@ -1,0 +1,54 @@
+[demo_a6_n16.0300]
+Aye, that's right.
+
+[demo_a6_n16.0580]
+This'll do fine, Negisaku. These folk say it's fine an' all.
+
+[demo_a6_n16.1750]
+Oh,{WAIT:000F} it's ye lot.{WAIT:0014} Have ye been keepin' well?
+
+[demo_a6_n16.1854]
+If it ain't Kamohei and Negisaku.{0D}{0A}What about the cargo you lost?{WAIT:000F} Did ya find it?
+
+[demo_a6_n16.2134]
+Well, that{07:000A}...{WAIT:0014}{07:0005} we didn't find it.
+
+[demo_a6_n16.2232]
+Aye, that's right.
+
+[demo_a6_n16.2394]
+What!!{WAIT:001E} Then what will you do?
+
+[demo_a6_n16.2610]
+Take a look at this.{WAIT:001E} We've made somethin' to stand in for it,{0D}{0A}an' we'll take this to Lord Tengu.
+
+[demo_a6_n16.2872]
+What!!{WAIT:000F} You're taking that?
+
+[demo_a6_n16.2962]
+Can't be helped.{WAIT:000F} We looked everywhere an' couldn't find it,{0D}{0A}so in place of Lord Tengu's head,{WAIT:000F} we're hopin' he'll settle for this.
+
+[demo_a6_n16.3232]
+Aye, that's right.
+
+[demo_a6_n16.3268]
+Ain't that kind of a stretch?
+
+[demo_a6_n16.3342]
+We stayed up nights,{WAIT:000F} workin' hard to make it, aye.{0D}{0A}We reckon it came out right well...{0D}{0A}What do ye{WAIT:000F} think of it?
+
+[demo_a6_n16.3658]
+Y-{WAIT:000F}yeah...{WAIT:001E} looks okay, I guess.
+
+[demo_a6_n16.3780]
+Take that along,{WAIT:000F} and you'll get a big laugh.
+
+[demo_a6_n16.3904]
+Negisaku,{WAIT:000F} this'll do fine.{0D}{0A}These folk say{WAIT:000F} it's fine an' all.{0D}{0A}Let's take it to Lord Tengu.
+
+[demo_a6_n16.4200]
+Aye, that's right.
+
+[demo_a6_n16.4236]
+Would it not be better to apologize properly{07:000A}...?
+

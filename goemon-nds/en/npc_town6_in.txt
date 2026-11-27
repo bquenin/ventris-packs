@@ -1,0 +1,6 @@
+[npc_town6_in.608]
+This town is the birthplace of the Seven Lucky Gods' legend.{0D}{0A}Hm? You don't know the Seven Lucky Gods?{0D}{0A}Truth is, neither do I.
+
+[npc_town6_in.912]
+Ebisu, Benzaiten, Jurojin,{0D}{0A}Bishamonten, Hotei, Fukurokuju,{0D}{0A}and Daikokuten! Phew, I finally memorized them!{0D}{0A}Hm? They're on tomorrow's test. The names of the Seven Lucky Gods.
+

@@ -1,0 +1,117 @@
+[demo_a6_n10.0742]
+Worked up a good sweat.{07:0002}{WAIT:000F} Ｏ(≧▽≦)Ｏ Yay!
+
+[demo_a6_n10.0842]
+ ryo for you.
+
+[demo_a6_n10.0878]
+Not hitting me even once? That's so lame...
+
+[demo_a6_n10.0976]
+I'll take you on again anytime!
+
+[demo_a6_n10.1274]
+Pay 70 ryo and play with me again?
+
+[demo_a6_n10.1360]
+Yes
+
+[demo_a6_n10.1376]
+No
+
+[demo_a6_n10.1422]
+No 70 ryo, no game.
+
+[demo_a6_n10.1502]
+Hit me 80 times or more and you get a bonus!
+
+[demo_a6_n10.1586]
+Ｏ(≧▽≦)Ｏ Yay! Bring it on!
+
+[demo_a6_n10.1670]
+You won't play... I'll take you on again anytime!
+
+[demo_a6_n10.2456]
+You guys bored? Wanna play with me?
+
+[demo_a6_n10.2540]
+Yes
+
+[demo_a6_n10.2556]
+No
+
+[demo_a6_n10.2588]
+Yesss! Ｏ(≧▽≦)Ｏ Yay!
+
+[demo_a6_n10.2636]
+Then here we go. Touch me gently with your finger!
+
+[demo_a6_n10.2754]
+Tch! What's with you? You're no fun. (￣д￣)
+
+[demo_a6_n10.2862]
+Ｏ(≧▽≦)Ｏ Yay! I win!{0D}{0A}If it stings, come back anytime. (≧▽≦*)
+
+[demo_a6_n10.3000]
+Worked up a good sweat.{07:0002}{WAIT:000F} Ｏ(≧▽≦)Ｏ Yay!
+
+[demo_a6_n10.3136]
+Who the heck are you?
+
+[demo_a6_n10.3264]
+You don't know me?{07:0002}{WAIT:000F} （￣〜￣；）？？{0D}{0A}{07:0005}I'm Fukurokuju.{07:0002}{WAIT:000F} v(ー_ー)Tsk tsk
+
+[demo_a6_n10.3464]
+This fella's usin' emoticons,{WAIT:000F} and it's kinda gettin' on my nerves.
+
+[demo_a6_n10.3604]
+We came{WAIT:000F} to ask for your Lucky Orb, Fukurokuju.{0D}{0A}We really need it{WAIT:000F} to make Ebisu's power strong again.
+
+[demo_a6_n10.3928]
+We're chasin' a big-time crook named Peruri.{0D}{0A}And for that,{WAIT:000F} Ebisu's power has gotta get stronger.
+
+[demo_a6_n10.4206]
+Whaaat!{WAIT:000F} For Ebisu's power?{07:0002}{WAIT:000F} （#￣３￣） Boo
+
+[demo_a6_n10.4384]
+Got a problem with that?!{07:0002}{WAIT:000F} （｀m´＃）Grr
+
+[demo_a6_n10.4536]
+w(°ｏ°)w Ooh!{WAIT:000F}{07:0005}{WAIT:000F} You can do emoticons!{07:0002}{WAIT:000F} d(^0^)b Nice!{0D}{0A}{07:0005}Ebisu,{WAIT:000F} I just don't like him.{07:0002}{WAIT:000F} (｀Д´){0D}{0A}{07:0005}He acts all{WAIT:000F} serious, y'know.{07:0002}{WAIT:000F} (*・ε・*)
+
+[demo_a6_n10.4922]
+Couldn't you,{WAIT:000F} somehow, do it for us?{07:0002}{WAIT:000F} ＼(^^ ；)
+
+[demo_a6_n10.5052]
+Hey,{WAIT:000F} you're pretty good!{07:0002}{WAIT:000F} Σ（￣□￣）{0D}{0A}{07:0005}I'm starting to get in the mood!{07:0002}{WAIT:000F} Squee q(≧▽≦*)
+
+[demo_a6_n10.5270]
+Umm,{WAIT:000F} like this, maybe{07:000A}.........{07:0002}{WAIT:000F} (lol)
+
+[demo_a6_n10.5424]
+.........{AA}{0D}{0A}{07:0002}{WAIT:000F}(￣д￣) Ugh{WAIT:000F}{07:0005} What's that?{WAIT:000F} Who even writes{07:0002} (lol){07:0005} anymore?
+
+[demo_a6_n10.5592]
+Don't be like that,{WAIT:000F} please!{07:0002}{WAIT:000F} （＾＿－）☆Wink
+
+[demo_a6_n10.5764]
+So cuuute!{07:0002}{WAIT:000F} (*/▽＼*) Eek!{0D}{0A}{07:0005}If you put it like that,{WAIT:000F} you can have this.{07:0002}{WAIT:000F} (ノ^o^)ノ))))) ●
+
+[demo_a6_n10.6028]
+Goemon and company got a Lucky Orb!
+
+[demo_a6_n10.6222]
+Got it.{07:0002}{WAIT:000F} ＼●(・_＼)Catch!
+
+[demo_a6_n10.6368]
+Thanks,{WAIT:000F} we owe ya{07:0002}{WAIT:000F} (sob)
+
+[demo_a6_n10.6500]
+Something is not right here,{WAIT:001E} Goemon, sir{07:000A}...
+
+[demo_a6_n10.6622]
+Bye-bye!{07:0002}{WAIT:000F} ♪ｑ（⌒日⌒）ノ~~~{07:0005}{WAIT:000F} Good luck.
+
+[demo_a6_n10.6908]
+All right! That's all of them.{0D}{0A}Let's head back to Ebisu in the town of Fujikawa.
+

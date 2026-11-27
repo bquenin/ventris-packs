@@ -1,0 +1,111 @@
+[npc_town6_n2.0924]
+Keep going, all the way to Kyo!
+
+[npc_town6_n2.0984]
+Then without further ado, here's your question!
+
+[npc_town6_n2.1148]
+Oh? Are you a quiz contestant?
+
+[npc_town6_n2.1206]
+Yes
+
+[npc_town6_n2.1222]
+No
+
+[npc_town6_n2.1252]
+A general store sells "a bit of everything", but what's a "bit", anyway?
+
+[npc_town6_n2.1444]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town6_n2.1688]
+This sake, "Masamune", is the best there is. Hic~
+
+[npc_town6_n2.1816]
+"A beauty dripping wet", that's me all over~
+
+[npc_town6_n2.1944]
+They say 1 ryo is worth about 100,000 yen in today's money.
+
+[npc_town6_n2.2076]
+When I close my eyes like this, I begin to see it:{0D}{0A}the backs of my eyelids.
+
+[npc_town6_n2.2200]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town6_n2.2512]
+Okazaki Castle, just a short way from here, is the castle where Tokugawa Ieyasu was born.
+
+[npc_town6_n2.2688]
+If you want to break rocks or hard stone statues, bombs work well.
+
+[npc_town6_n2.2864]
+Honestly, he's MY child, so why should that woman get him?!{0D}{0A}Grrr!!
+
+[npc_town6_n2.3028]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town6_n2.3220]
+Folks outside town sometimes say different things if you talk to them a few times.{0D}{0A}So fickle, really.
+
+[npc_town6_n2.3468]
+Long ago, I served Lord Ooka of Echizen.{0D}{0A}His lordship's judgments were truly splendid.
+
+[npc_town6_n2.3732]
+Walking along under the autumn sky, leading an ox, makes me want to sing that song.{0D}{0A}What? I can't sing it, because of copyright?{0D}{0A}Aww...
+
+[npc_town6_n2.4126]
+I see...
+
+[npc_town6_n2.4164]
+In the early Edo period, how much was 1 ryo worth in today's money?
+
+[npc_town6_n2.4328]
+10,000 yen
+
+[npc_town6_n2.4362]
+100,000 yen
+
+[npc_town6_n2.4426]
+Got 100 ryo in prize money!
+
+[npc_town6_n2.4560]
+Y'know, two mommies pulled on me, both saying "He's my child."{0D}{0A}Then I said "Ouch!", and one of them let go. And then{0D}{0A}the lord who was watching said she was the real mother!{0D}{0A}But he's the one who told them to pull! Grown-ups are so unfair.
+
+[npc_town6_n2.5208]
+I do hope it goes well this time.
+
+[npc_town6_n2.5294]
+What!? You found her?{0D}{0A}Hurry and tell my brother.
+
+[npc_town6_n2.5440]
+I'm counting on you.
+
+[npc_town6_n2.5488]
+What, you came from Edo?{0D}{0A}Then would you do me a favor?
+
+[npc_town6_n2.5668]
+Yes
+
+[npc_town6_n2.5684]
+No
+
+[npc_town6_n2.5714]
+You see, I've a younger brother in Edo, and I want you to find him a bride.{0D}{0A}He goes around every day shouting "Happy bachelor~", so you'll know him at once. I'm counting on you.
+
+[npc_town6_n2.6036]
+I see...
+
+[npc_town6_n2.6098]
+Nine years already since I left Edo to train as a warrior. I wonder if Father is well.
+
+[npc_town6_n2.6330]
+You've taken on another odd job, haven't you.
+
+[npc_town6_n2.6444]
+Nine years already since I left Edo to train as a warrior. I wonder if Father is well.{0D}{0A}What? Father asked you to check that I'm doing well?{0D}{0A}I am now a master swordsman, and go by the name Miyamoto Musashi.{0D}{0A}Next week I duel on Ganryu Island, and I would like Father to come and watch.
+
+[npc_town6_n2.7094]
+Found the third son!!{0D}{0A}
+

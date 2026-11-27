@@ -1,0 +1,54 @@
+[demo_a6_n7.0476]
+......
+
+[demo_a6_n7.1948]
+Heeey!
+
+[demo_a6_n7.2020]
+Can you heeear me?
+
+[demo_a6_n7.2072]
+......
+
+[demo_a6_n7.2110]
+He ain't hearin' a thing.
+
+[demo_a6_n7.2180]
+Is there no way to make him break off his meditation?
+
+[demo_a6_n7.2334]
+Hmm...{WAIT:001E} Let's look around.
+
+[demo_a6_n7.2556]
+Here,{WAIT:000F} this is my orb.{WAIT:000F} Take it.
+
+[demo_a6_n7.2736]
+Goemon and company got a Lucky Orb!
+
+[demo_a6_n7.3022]
+All right! That's all of them.{0D}{0A}Let's head back to Ebisu in the town of Fujikawa.
+
+[demo_a6_n7.3462]
+So it was you lot!{WAIT:000F} Disturbing my meditation.
+
+[demo_a6_n7.3656]
+Our apologies.{WAIT:000F} We had something to ask.
+
+[demo_a6_n7.3836]
+Do you know the Seven Lucky Gods?{0D}{0A}We're looking for them,{WAIT:000F} to ask them for their Lucky Orbs.
+
+[demo_a6_n7.4148]
+I am one of the Seven Lucky Gods,{WAIT:001E} Jurojin!
+
+[demo_a6_n7.4330]
+For real?{WAIT:001E} You're just a regular old geezer!
+
+[demo_a6_n7.4430]
+We'd like you to give us{WAIT:000F} your Lucky Orb, Jurojin.{0D}{0A}We need it to make Ebisu's weakened power strong again.
+
+[demo_a6_n7.4798]
+A big-time crook named Peruri wrecked the bridge at Goyu.{0D}{0A}To chase Peruri,{WAIT:000F} we need Ebisu's help.
+
+[demo_a6_n7.5064]
+If that's how it is,{WAIT:000F} it can't be helped.{0D}{0A}But first, put the waterfall back the way it was.{WAIT:000F} The Lucky Orb comes after.
+
