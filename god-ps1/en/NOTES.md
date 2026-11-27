@@ -155,6 +155,48 @@ renames each member when they join. A name is at most 6 cells, one character to 
 | 落ちこぼれ | washout | pack | what the Attack Team call Gen |
 | 体力 | HP | pack | in `HP was restored` |
 
+## People met later
+
+| Japanese | English | note |
+| --- | --- | --- |
+| ミャア市長, ミャア姫 | Mayor Myaa, Princess Myaa | Myaa Town |
+| ダン・キチ | Dan Kichi | written in full in dialogue; `Kichi` as a party name |
+| Ｄｒ．Ｚ | Dr. Z | Inuyama Zoo |
+| ダークソルジャー | Dark Soldier | |
+| グラバー, ネモ船長 | Glover, Captain Nemo | Nemo ends lines with `ahoy` |
+| エリカ | Erika | Mirage House |
+| ギボばあ | Granny Gibo | |
+| ケン, クラーク | Ken, Clark | Snow Village; Clark quotes "be ambitious" |
+| ルカ | Luka | the dolphin; his いるか tic is `fin`, with a pun on porpoise |
+| ミハエル | Michael | |
+| Ｍｒ・チャン | Mr. Chan | |
+| ウォン長官, シュウ大人 | Director Wong, Master Shu | Honmaka Town |
+| シロワゼット博士, アカワゼット博士 | Dr. Whitoiset, Dr. Redoiset | Croiset's twin and cousin |
+| ビシュヌール | Vishnur | Angkor Wat |
+| トン, チン, カン | Ton, Chin, Kan | the monk's disciples |
+| ワレンコフ, ワーニャ | Warenkov, Vanya | |
+| カクレンボじいさん, タルコフスキー | the Hide-and-Seek Geezer, Tarkovsky | |
+| ロシア大統領, 助役 | the Russian President, the Deputy | |
+| ゾルバ, イワン | Zorba, Ivan | |
+| チャーチル長官, ピエール長官 | Director Churchill, Director Pierre | |
+| エリザ | Eliza | |
+| クリューエル将軍 | General Crewel | |
+
+## Ways of speaking
+
+- Myaa Town folk end lines with `myaa` (Nagoya's みゃあ), sometimes `dagya`, `zura`, `nyaa`.
+- Vladivostok and the Trans-Siberian staff say `vich` (だびっち).
+- Chinese-accented speakers (アル, ある) say `-aru`.
+- Free Paris says `darling` (ざんす); Free London speaks plainly (だす is dropped).
+- Kansai speakers (Dengana, the info dealer) speak like a street hustler: `ya`, `whaddaya`.
+- Osore Village (Tohoku) speaks rural: `ain't`, `I tell ya`.
+
+## Areas written short
+
+The heap leaves area 131 (Honmaka Town) almost no room: going from it into area 179 the build had only
+8 bytes to spare. Its lines are written tersely; area 179 must be too. Areas 105 and 107 cannot grow at all
+and are not translated yet.
+
 ## Open
 
 - While little of the game is translated, few kanji cells are free for pairs of letters, and pairs without a cell are drawn as full-width letters. Area 096 alone needs 484 pairs and has 278 cells. A full translation frees most of the 1,516 kanji; the English packs of games this size need about 1,200 to 1,700 pairs.
@@ -163,7 +205,7 @@ renames each member when they join. A name is at most 6 cells, one character to 
 
 ## Built
 
-Areas 096 to 099 and 101 to 104 build with nothing refused.
+Areas 096 to 099, 101 to 104, 106 and 108 to 140 build with nothing refused when built on their own. Together they need more of the disc's free room than it has; an adapter change to make room is in progress.
 
 ## Seen on screen
 
