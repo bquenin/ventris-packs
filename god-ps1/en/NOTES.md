@@ -1,7 +1,8 @@
 # G.O.D pure in English: notes
 
 Working notes for the pack: how the strings are written, the names and terms chosen, and what is still
-open. The pack is in progress; the party's names and the main ones below are agreed with the owner.
+open. The pack is a first full pass: every area's dialogue, the menus, the lists, the shops, the notebook
+and the diary. The party's names and the main ones below are agreed with the owner.
 
 ## How it is made
 
@@ -219,12 +220,20 @@ with the door patch and letter pairs every area now has tens of KB to spare, so 
 
 ## Built
 
-The whole pack builds with nothing refused (ventris main a5493d1): 8,794 dialogue strings in 91 areas, 3,297
-program strings taking 43,076 of the room's 70,379 bytes, 53 menu labels; 85 characters and 155 pairs in the
+The whole pack builds with nothing refused (ventris main 0e8d3d7): 8,794 dialogue strings in 91 areas, 3,297
+program strings taking 43,073 of the room's 70,379 bytes, 61 menu labels; 85 characters and 155 pairs in the
 renderer; 105,220 bytes of the heap free at the tightest moment.
 
 ## Seen on screen
 
-- The opening at home (096), from power-on in PCSX-Redux: narrow, even letters, lines wrapped in the window.
+All from power-on in PCSX-Redux. Screens past the opening were reached by setting the game's mode in memory,
+not by playing to them.
+
+- The opening at home (096): narrow, even letters, lines wrapped in the window.
 - Under Neo-Kobe (105) after the 107 to 105 door, and the casino of Kowloon Tower (179) after the 131 to 179 door.
-- The equipment screen (program text in the menus' font).
+- The caption that names Tsukubane Village on a first visit, whole and centred.
+- A shop: its title centred, its labels (`BUY`, `SEL`, `LEAVE`), the clerk's greeting, the item list and prices.
+- A battle: monster names with their letters, the command labels, the Tactics lines, damage messages.
+- The equipment screen, the camp diary with its Overwrite? Yes/No, the notebook (Croiset Notes).
+- Not seen: the Chakra, Psycho and Skills screens, story dialogue past the first areas, the ending, field
+  "Got" messages and battle drops, and real hardware.
