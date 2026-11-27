@@ -5423,7 +5423,7 @@ is not formatted
 Format it?
 
 [program.703426]
-Overwrite?　Yes　No
+Overwrite?　　　 Yes　No
 
 [program.703444]
 Checking memory card
@@ -10799,7 +10799,7 @@ Psycho is sealed!
 Not enough MP!
 
 [program.749163]
-Go all out!
+　 Go all out!
 
 [program.749176]
 Save Psycho!
