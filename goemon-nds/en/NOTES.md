@@ -50,6 +50,12 @@ translator needs to carry on in the same way.
     in an odd order, and a longer first line, or a line break at its end, stops the game there.
     It keeps its first line short and runs on into 16706.
   - The two sound effects (15070, 18958) are in quotes in the Japanese but have no face, and no indent.
+  - **A spread holds at most 111 letters.** The two pages shown together (from one page turn,
+    instruction 0x0A, or the start of a scene, to the next) draw each letter as a sprite; spaces and
+    line breaks cost nothing. Past 111 letters the rest of the text is simply not drawn: the last
+    page once stopped at "on their jo". Every spread is kept to 104 letters or fewer, which is why
+    the chapter recaps are terse and the refrain is "Well, well! What fate awaits Goemon and his
+    friends?". A small script of the author's counts them from the script's instructions.
 
 ## Voices
 
@@ -208,5 +214,8 @@ Builds were run from power-on in DeSmuME (ventris's `ds-probe`):
 
 - The save screen's prompt (`system.03056`).
 - The whole opening, `stage_demo.12722` to `stage_demo.21132`, written across, to the chapter title card.
+  Seen again after the spreads were shortened: the opening runs through 16654 to the title card, and
+  the last spread (20914, 20994, 21132) is drawn whole and waits for the button. Pressing A while a
+  page is still being written skips to the next page, so a check presses nothing on the page it reads.
 - Not yet: the trial scene and the rest of area 1 with this pack's own text (the trial was seen with test
   text, which showed the box's width and its pages), the shops and the town.

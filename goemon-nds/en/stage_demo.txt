@@ -1,98 +1,104 @@
 [stage_demo.01606]
-The Heavenly Rock Cave? Ebisumaru
+The Heavenly Rock Cave?
 
 [stage_demo.01698]
-pries it open with a bewitching dance!
+Ebisumaru's dance pries it open!
 
 [stage_demo.01832]
-Then the beast that swallowed a warrior's helmet:
+Then the beast that ate a helmet:
+
+
 
 
 [stage_demo.01946]
-Yamata no Orochi, with only one head!
+a one-headed Yamata no Orochi!
 
 [stage_demo.02072]
-Won at last after a hard fight,
+Won after a hard fight,
 
 [stage_demo.02174]
-the sacred sword is snatched away.
+the sacred sword is snatched.
 
 [stage_demo.02318]
-Leaving the battlefield behind,
+Leaving the battlefield,
 
 [stage_demo.02406]
-they head for Akasaka and Sweet Tooth Hell!
+on to Akasaka and Sweet Tooth Hell!
 
 [stage_demo.02572]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
 [stage_demo.02870]
-The ninja village is on high alert.
+The ninja village is on alert.
 
 [stage_demo.02982]
-They set out to rescue Yae's sister.
+They go to save Yae's sister.
 
 [stage_demo.03086]
-The culprit? You'd think it was Mr. Goemon,
+The culprit? Mr. Goemon? No,
+
+
 
 
 [stage_demo.03216]
-but it's a band of thieves nobody knows.
+a band of thieves nobody knows.
 
 [stage_demo.03372]
-What every last one of them is after
+What they're all after is
 
 [stage_demo.03450]
-is the ultimate prize: "the Three Sacred Treasures!"
+the Three Sacred Treasures!
 
 [stage_demo.03592]
-Somehow it's a crisis for all of Great Edo!
+A crisis for all of Great Edo!
 
 [stage_demo.03728]
 Their target: the Mr. Goemon Gang!
 
 [stage_demo.03866]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
 [stage_demo.04166]
-Their names cleared of the charge of theft,
+Cleared of the theft,
 
 [stage_demo.04276]
-Goemon and company breathe easy.
+Goemon and company relax.
 
 [stage_demo.04416]
 No wonder they were suspected:
 
 
+
+
 [stage_demo.04508]
-the villains call themselves the Mr. Goemon Gang!
+the thieves are the Mr. Goemon Gang!
 
 [stage_demo.04620]
-Stolen by those creepy fellows,
+Stolen by creepy fellows,
 
 [stage_demo.04714]
-the temple's treasure is who knows where.
+the temple's treasure is gone.
 
 [stage_demo.04824]
 In his hand, his trusty pipe;
 
 [stage_demo.04936]
-in Ebisumaru's heart, his beloved oden.
+in Ebisumaru's heart, oden.
 
 [stage_demo.05074]
 And so begins their journey from Edo.
 
 [stage_demo.05214]
-Well, well! What will become of Goemon and his friends{07:0008} on their journey?
+Well, well! What fate awaits{07:0008} Goemon and his friends?
 
 [stage_demo.05514]
 Chasing after Mr. Goemon,
 
 [stage_demo.05648]
-somehow they end up beating a tengu.
+somehow they beat a tengu.
 
 [stage_demo.05766]
-They rescue the Wise Man safe and sound,
+They rescue the Wise Man,
 
 [stage_demo.05896]
 and Sasuke joins their side.
@@ -101,54 +107,56 @@ and Sasuke joins their side.
 Piloting Impact,
 
 [stage_demo.06096]
-they knock a giant tengu{07:0007} flat.
+they flatten a giant{07:0007} tengu.
 
 [stage_demo.06218]
-The true culprits still out of reach,
+The culprits still ahead,
 
 [stage_demo.06306]
 they chase the Mr. Goemon Gang
 
 
+
+
 [stage_demo.06420]
-on a madcap road trip west, ever west!
+on a madcap trip west!
 
 [stage_demo.06572]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
 [stage_demo.06874]
-Ebisu's treasures,
+Ebisu's treasures:
 
 [stage_demo.06962]
-the Lucky Orbs: let's gather them up!
+the Lucky Orbs!
 
 [stage_demo.07088]
-Touching here, there and everywhere,
+Touching all about,
 
 [stage_demo.07180]
-they track down the rest of the gods.
+they find the gods,
 
 [stage_demo.07290]
-What they win is the Treasure Ship,
+win the Treasure Ship
 
 [stage_demo.07390]
-and off they fly, straight to Peruri!
+and fly to Peruri!
 
 [stage_demo.07486]
 But when at last they arrive,
 
 [stage_demo.07584]
-the rascal is already long gone.
+the rascal is long gone.
 
 [stage_demo.07714]
 The last stop: wintry Kyo.
 
 
 [stage_demo.07814]
-Here the madcap journey reaches its end!
+Here the madcap trip ends!
 
 [stage_demo.07964]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
 [stage_demo.08262]
 To save his poor village,
@@ -157,44 +165,46 @@ To save his poor village,
 Mr. Goemon sheds a manly tear.
 
 [stage_demo.08460]
-Pulled on the strings of some tengu,
+Played by some tengu,
 
 [stage_demo.08544]
-he went stealing for no good reason!
+he went stealing for nothing!
 
 [stage_demo.08654]
-Now the truth comes out:
+The truth comes out:
 
 [stage_demo.08756]
-the one to hate is that villain, Tengu Peruri!
+the villain is Tengu Peruri!
 
 [stage_demo.08878]
 On the merry festival night,
 
 [stage_demo.08972]
-turning their backs on the Hyottoko dance,
+leaving the Hyottoko dance behind,
 
 [stage_demo.09120]
-they take back the stolen mirror with their own hands
+they take back the stolen mirror
+
+
 
 
 [stage_demo.09262]
-and go to guard the last sacred treasure.
+and go to guard the last treasure.
 
 [stage_demo.09402]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
 [stage_demo.09698]
-With a bold cry of "Get outta here!",
+With a bold "Get outta here!",
 
 [stage_demo.09816]
-Goemon and his friends fight like heroes,
+Goemon and friends fight hard,
 
 [stage_demo.09882]
 and so
 
 [stage_demo.09926]
-Kinemon's wicked scheme,{07:0008} too, is safely settled{07:0008} at last.
+Kinemon's scheme,{07:0008} too, is settled{07:0008} at last.
 
 [stage_demo.10138]
 "Evil running rampant? We won't stand for it!"
@@ -210,10 +220,10 @@ With courage and strength, peace comes to Great Edo once again.
 And look, our time is up.
 
 [stage_demo.10678]
-Till we meet again, the rest must wait.
+The rest must wait till next time.
 
 [stage_demo.10806]
-That's all! Goemon's madcap journey, humbly told.
+That's all of Goemon's madcap trip!
 
 [stage_demo.10924]
 And now, everyone,
@@ -222,54 +232,58 @@ And now, everyone,
 farewell!
 
 [stage_demo.11162]
-Out of the tunnel lies a land of snow,
+Past the tunnel, snow.
 
 [stage_demo.11260]
-and with the cherry blossom tattoo,
+The tattoo shown,
+
+
 
 
 [stage_demo.11302]
 case closed.
 
 [stage_demo.11406]
-Or so it seemed:
+But no:
 
 [stage_demo.11472]
-the mastermind of it all, Kinemon,
+Kinemon, the mastermind,
 
 [stage_demo.11576]
-with every sacred treasure now in hand,
+treasures all in hand,
+
+
 
 
 [stage_demo.11686]
-bursts into gleeful laughter.
+laughs aloud.
 
 [stage_demo.11806]
-Pulling Peruri's strings, he is
+Pulling Peruri's strings,
 
 [stage_demo.11900]
-the wickedest magistrate of the age.
+the wickedest magistrate of all.
 
 [stage_demo.12008]
-Goemon and friends shake with rage,
+As Goemon and friends seethe,
 
 [stage_demo.12106]
-but he gives them the slip in a cloud of stinging smoke.
+he slips away in stinging smoke.
 
 [stage_demo.12246]
 After him, quick, or the nation's in danger!
 
 [stage_demo.12400]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
 [stage_demo.12722]
-A peaceful, lazy afternoon.{07:0007} Here we are in Hagure Town, in Great Edo.
+A peaceful afternoon.{07:0007} Here we are in Hagure Town, Great Edo.
 
 [stage_demo.12916]
-In the warm sunshine, Goemon and Ebisumaru
+In the warm sun, Goemon and Ebisumaru
 
 [stage_demo.13000]
-were laaazing about in their row house.
+laaaze about at home.
 
 [stage_demo.13206]
   "Yaaawn!
@@ -340,7 +354,7 @@ don'tcha know!"
 Suit yourself!"
 
 [stage_demo.15070]
-Thud thud thud! Rattle rattle! Slam!
+Thud thud thud! Rattle! Slam!
 
 [stage_demo.15158]
 With a clatter, the door
@@ -356,7 +370,7 @@ Bursting
 through the door
 
 [stage_demo.15342]
-is Hagure Town's darling, Omitsu.
+is Hagure Town's idol, Omitsu.
 
 [stage_demo.15444]
 Out of breath and in a fluster: something is clearly wrong.
@@ -462,10 +476,10 @@ Once again the door flies open with a clatter.
 name of the law! In the name of the law!"
 
 [stage_demo.19490]
-Officers come pouring in through the door by the dozen.
+Officers pour in through the door by the dozen.
 
 [stage_demo.19662]
-Before our heroes can draw breath,{07:0008} the red-faced officers pounce on them all at once.
+Before our heroes can breathe,{07:0008} the red-faced officers pounce at once.
 
 [stage_demo.19946]
 Their hands are tied behind their backs with a tight "creak!",
@@ -499,5 +513,5 @@ Seized without knowing why,
 Goemon and Ebisumaru are dragged away.
 
 [stage_demo.21132]
-Well, well!{07:0009} What will become of Goemon and his friends on their journey?
+Well, well!{07:0009} What fate awaits Goemon and his friends?
 
