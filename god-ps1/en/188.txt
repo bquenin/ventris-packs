@@ -1,0 +1,120 @@
+[188.005]
+{SAY}We're getting the party ready in the hall at the back!{WAIT}Please wait a little until it's ready.{/SAY}
+
+[188.006]
+{SAY}My, little one. What's wrong?{/SAY}
+
+[188.007]
+{SAY}Mister, you...{PAUSE:14} scare me...{/SAY}
+
+[188.008]
+{NAME:02}
+{SAY}What!?{/SAY}
+
+[188.009]
+{SAY}You beat God, right... Then are you{PAUSE:28} gods...?{WAIT}...{PAUSE:1E}Scary...{/SAY}
+
+[188.010]
+{SAY}What a thing to say!{/SAY}
+
+[188.011]
+{SAY}I'm sorry. He doesn't understand.{WAIT}Thank you so much, truly.{/SAY}
+
+[188.012]
+{SAY}We're getting the party ready!{WAIT}The townsfolk want to talk with {NAME:19} and friends!{/SAY}
+
+[188.013]
+{SAY}The party's ready! Come on in!!{/SAY}
+
+[188.014]
+{SAY}...{PAUSE:1E}Scary...{/SAY}
+
+[188.015]
+{SAY}{NAME:19}, thank you so much!{/SAY}
+
+[188.016]
+{SAY}Thank you so much!{/SAY}
+
+[188.017]
+{SAY}{NAME:19}, thank you!{/SAY}
+
+[188.018]
+{SAY}Look! Look how happy everyone is!{WAIT}It's all thanks to {NAME:19} and friends!{/SAY}
+
+[188.019]
+{SAY}The party seems to be ready.{WAIT}Come on! To the hall!!{/SAY}
+
+[188.020]
+{SAY}Everyone wants to talk with you!{/SAY}
+
+[188.021]
+{SAY}Please wait a little longer!{/SAY}
+
+[188.022]
+{SAY}The party seems to be ready.{WAIT}Come on! To the hall!!{/SAY}
+
+[188.023]
+{SAY}Peaceful days coming back like this{WAIT}is just too wonderful!!{/SAY}
+
+[188.024]
+{SAY}Oh, {NAME:19}!{WAIT}Would you like to look at the diary you've written?{/SAY}
+
+[188.025]
+{SAY}I see. Thank you so much!{/SAY}
+
+[188.026]
+{SAY}We're getting the party ready!{WAIT}The townsfolk want to talk with {NAME:19} and friends!{/SAY}
+
+[188.027]
+{SAY}The party's ready! Come on in!!{/SAY}
+
+[188.028]
+{SAY}Please wait a little longer until the party's ready.{/SAY}
+
+[188.029]
+{SAY}The party should be ready soon!{/SAY}
+
+[188.030]
+{SAY}{NAME:04}! You are my mentor at heart!{/SAY}
+
+[188.031]
+{SAY}{NAME:19}, great work!{/SAY}
+
+[188.032]
+{SAY}I... don't know what to say... sniff... I'm too choked up... {NAME:19}!{/SAY}
+
+[188.033]
+{SAY}Yay, peace, yay! {NAME:19}, you're so strong!{/SAY}
+
+[188.034]
+{SAY}Thank you, mister, miss!{/SAY}
+
+[188.035]
+{SAY}{NAME:19}, everyone, thank you! But listen! {NAME:01} is mine!{/SAY}
+
+[188.036]
+{SAY}{NAME:19}, so now there'll be peace!{/SAY}
+
+[188.037]
+{SAY}{NAME:19}, New York is immortal!{/SAY}
+
+[188.038]
+{SAY}{NAME:19}, thank you so much!{/SAY}
+
+[188.039]
+{SAY}{NAME:19}, everyone, I'm too moved for words...!{/SAY}
+
+[188.040]
+{SAY}{NAME:02}, p-please marry me!{/SAY}
+
+[188.043]
+
+《It's locked...》
+
+[188.044]
+
+《It's locked...》
+
+[188.045]
+{SAY}Good work, everyone!{/SAY}
+

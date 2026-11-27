@@ -1,0 +1,390 @@
+[187.000]
+Director Akashi
+{SAY}Oh! {NAME:19}! Everyone!{WAIT}Well done.{WAIT}Truly well done!{/SAY}
+
+[187.002]
+Dr. Closet
+{SAY}Congratulations! {NAME:19}!{WAIT}I'm sure my father is happy too!{/SAY}
+
+[187.003]
+Director Akashi
+{SAY}I'm so proud of your great deeds!{WAIT}Now, take this news to people all over the world!{/SAY}
+
+[187.004]
+Dr. Closet
+{SAY}I'm so glad you're all safe! Thank you so much!{/SAY}
+
+[187.005]
+{SAY}That's our Captain {NAME:01}!{/SAY}
+
+[187.006]
+{SAY}{NAME:19}!{WAIT}Captain {NAME:01}!{WAIT}You finally did it!!{/SAY}
+
+[187.007]
+{SAY}{NAME:19},{WAIT}everyone!{WAIT}Thank you so much!!{/SAY}
+
+[187.008]
+{SAY}So now there's peace!!{/SAY}
+
+[187.009]
+{SAY}Misters! Thank you!{/SAY}
+
+[187.010]
+{SAY}I always knew you'd do it!{WAIT}Gahahahaha.{/SAY}
+
+[187.011]
+{SAY}Now I'll sell takoyaki by the bucket! Wahahaha.{/SAY}
+
+[187.012]
+{SAY}Did you know?{/SAY}
+
+[187.013]
+{SAY}So now there's peace!{/SAY}
+
+[187.014]
+{SAY}There's peace now!{/SAY}
+
+[187.015]
+
+《Thunk thunk... a good sound!》
+
+[187.016]
+
+《Knock knock... hm?》
+
+[187.017]
+
+《Knock knock... hm?
+　　...Still green.》
+
+[187.018]
+
+《Knock knock... hm?
+　　...This one's big.》
+
+[187.019]
+
+《Knock knock... hm?
+　　...Looks full of seeds.》
+
+[187.020]
+
+《Knock knock... hm?
+　　...It's small.》
+
+[187.021]
+
+《A green sunflower!!》
+
+[187.022]
+
+《A big sunflower!!》
+
+[187.023]
+
+《A sunflower full of seeds!!》
+
+[187.024]
+
+《A small sunflower!!》
+
+[187.025]
+
+《There's a phone...》{WAIT}
+{CLEAR}
+"Congratulations! Well done!
+　The goal is just ahead!"
+
+[187.026]
+{SAY}Thank you, {NAME:19}.{WAIT}We'll go on living together, the two of us.{/SAY}
+
+[187.027]
+{SAY}{NAME:19}, I'm so happy I can't stop crying!{/SAY}
+
+[187.028]
+{SAY}You avenged my mama.{/SAY}
+
+[187.029]
+Mayor Myaa
+{SAY}Well done, myaa! Now I'll make you an honorary citizen for sure, myaa!{WAIT}Don't be shy, myaa! You've earned it, myaa!{/SAY}
+
+[187.030]
+Mayor Myaa
+{SAY}Well done, myaa! Now we can spread the Myaa way across the world, myaa!{WAIT}That's our honorary citizen, myaa!{/SAY}
+
+[187.031]
+Princess Myaa
+{SAY}Sir {NAME:19}! Hurry home, myaa!{WAIT}Our rosy future starts now, myaa!{PAUSE:1E} Guh,{PAUSE:1E} guh,{PAUSE:1E} nguhuhuhu!!{/SAY}
+
+[187.032]
+Dan Kichi
+{SAY}{NAME:19}! You finally did it!{WAIT}Hurry home!{WAIT}For me and {NAME:19}{PAUSE:1E} tomorrow is{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:12} right here!{/SAY}
+
+[187.034]
+Mayor Myaa
+{SAY}Well done, zura! I'm the mayor of Myaa Town, dagya.{WAIT}Remember me, myaa?{WAIT}I knew {NAME:19} would do it, myaa!{/SAY}
+
+[187.035]
+Dan Kichi
+{SAY}{NAME:19}, my eyes didn't fool me.{WAIT}Once you've told the people of peace, come home.{WAIT}We'll build up the gym together.{WAIT}For me and {NAME:19}{WAIT}{PAUSE:0D}tomorrow is{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:12} right here!{/SAY}
+
+[187.036]
+Princess Myaa
+{SAY}Sir {NAME:19}!!{WAIT}Myaa, Myaa will wait for {NAME:19} forever, myaa!!{/SAY}
+
+[187.037]
+{SAY}Come visit Myaa Town, capital of Japan, again, myaa!{/SAY}
+
+[187.038]
+{SAY}{NAME:19}, thanks, myaa!{/SAY}
+
+[187.039]
+{SAY}{NAME:19}! Well done, zura!{/SAY}
+
+[187.040]
+{SAY}{NAME:19}, I'm so happy, nyaa!{/SAY}
+
+[187.041]
+{SAY}Myaa, myaa!{/SAY}
+
+[187.042]
+{SAY}{NAME:19}, well done, boyo!{PAUSE:1E}... I mean, well done, zura.{WAIT}{PAUSE:32}...No, I'm goin' home to build a town, boyo!{/SAY}
+
+[187.043]
+{SAY}{NAME:19}, well done, zura!{WAIT}You're Myaa Town's pride, dagya.{WAIT}Next time I'll feed you miso katsu till you burst, dagya!{/SAY}
+
+[187.044]
+{SAY}{NAME:19}, I can play pachinko again, dagya! Gonna hit the jackpot, dagya!{WAIT}Gonna hit the jackpot, dagya!!{WAIT}Gonna hit the jackpot, dagya!!!{WAIT}Gonna hit the jackpot, dagyaaa~{/SAY}
+
+[187.045]
+{SAY}Wonderful, myaa! I'm so moved, myaa!{/SAY}
+
+[187.046]
+《Princess Myaa's groom finally home! A wedding any day now!? Happy forever x2, myaa!!》
+
+[187.047]
+《To everyone in the world: the one who beat the aliens is {NAME:19}, hero of Myaa Town, myaa!{WAIT}Jealous, myaa?》
+
+[187.048]
+《　　　　　Bulletin{WAIT}
+The world is at peace, myaa!{WAIT}It's all thanks to {NAME:19} and friends, myaa!》
+
+[187.049]
+{SAY}Dump Princess Myaa and marry me, myaa~{/SAY}
+
+[187.050]
+{SAY}Too wonderful, myaa!{/SAY}
+
+[187.051]
+{SAY}That's our groom, myaa!{/SAY}
+
+[187.052]
+{SAY}Myaa Town has a new thing to brag about, myaa!{/SAY}
+
+[187.053]
+{SAY}Peace is coming, myaa!{WAIT}Let's play pachinko, myaa!!{/SAY}
+
+[187.054]
+{SAY}Myaa! Myaa!{/SAY}
+
+[187.055]
+{SAY}Hooray for the groom!! Hooray for Myaa Town!!!{/SAY}
+
+[187.056]
+{NAME:01}
+{SAY}.........{/SAY}
+
+[187.057]
+Granny Gibo
+{SAY}It's all right, it's all right. You needn't say a thing.{WAIT}I understand it all.{/SAY}
+
+[187.058]
+{NAME:01}
+{SAY}.........{/SAY}
+
+[187.059]
+Granny Gibo
+{SAY}Now, go on. Everyone's waiting, ain't they?{/SAY}
+
+[187.061]
+{SAY}{NAME:19}, thank you for all your hard work!!{/SAY}
+
+[187.062]
+{SAY}{NAME:19}, everyone, thank you.{WAIT}I'm sure {NAME:03} is happy in heaven.{/SAY}
+
+[187.063]
+{SAY}Yay, yay, it's peace, I tell ya!{/SAY}
+
+[187.064]
+{SAY}Yup, yup, yup, yup, I'm savorin' the peace, I tell ya.{/SAY}
+
+[187.065]
+{SAY}{NAME:19}, congratulations!{WAIT}Even the scenery looks different from yesterday!{/SAY}
+
+[187.066]
+Granny Gibo
+{SAY}Now, go on. Everyone's waiting, ain't they?{/SAY}
+
+[187.067]
+Russian President
+{SAY}Well done.{WAIT}On behalf of the people of the world, I thank you.{/SAY}
+
+[187.068]
+Hide-and-Seek Geezer
+{SAY}I got a letter from Vanya!{WAIT}Says we'll have a drink together again!{/SAY}
+
+[187.069]
+Russian President
+{SAY}Well done.{WAIT}On behalf of the people of the world, I thank you.{/SAY}
+
+[187.070]
+Deputy
+{SAY}Thank you so much!{/SAY}
+
+[187.071]
+Hide-and-Seek Geezer
+{SAY}I got a letter from Vanya!{WAIT}Says we'll have a drink together again!{/SAY}
+
+[187.072]
+{SAY}Yay! Yay! {NAME:19}!{WAIT}Thank you!!{/SAY}
+
+[187.073]
+{SAY}You really beat the aliens! I can't believe it.{WAIT}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. But I'm so happyyy!!{/SAY}
+
+[187.074]
+{SAY}{NAME:19}! You did it!!{WAIT}Ahh, I can't find the words.{WAIT}Hoorayyy!!{/SAY}
+
+[187.075]
+{SAY}Now we can live in peace.{WAIT}Thanks to you.{/SAY}
+
+[187.076]
+{SAY}No more hiding in shelters!{/SAY}
+
+[187.077]
+{SAY}Well, now I'm heading back to Moscow, lots to do!{WAIT}It's all thanks to you. Thanks!{/SAY}
+
+[187.079]
+{NAME:01}
+{SAY}{NAME:03}...{/SAY}
+
+[187.080]
+{NAME:01}
+{SAY}Come on! Let's go!{/SAY}
+
+[187.082]
+Director Churchill
+{SAY}Oh! You! Thank you! Thank you so much!{/SAY}
+
+[187.083]
+Director Pierre
+{SAY}You did it, darling! Amazing, darling! Magnifique, darling!{/SAY}
+
+[187.084]
+Dr. Redoiset
+{SAY}Oh! Everyone! You finally did it!{WAIT}I'm glad my research was of use!{/SAY}
+
+[187.085]
+Director Churchill
+{SAY}Thank you! Thank you so much!{/SAY}
+
+[187.086]
+Director Pierre
+{SAY}You did it, darling! Amazing, darling! Magnifique, darling!{/SAY}
+
+[187.087]
+Dr. Redoiset
+{SAY}Oh! Everyone! You finally did it!{WAIT}Thank you!{/SAY}
+
+[187.088]
+{SAY}{NAME:19}, everyone,{WAIT}thank you so much!!{/SAY}
+
+[187.089]
+{SAY}Now we're free from living underground!{WAIT}Thank you so much!!{/SAY}
+
+[187.090]
+{SAY}Magnifique, I'm so happy, darling.{/SAY}
+
+[187.091]
+{SAY}From now on, we'll love more freely, darling.{/SAY}
+
+[187.092]
+{SAY}Thank you!{WAIT}Britain is calling!{/SAY}
+
+[187.093]
+{SAY}{NAME:19}, everyone!{WAIT}Thank you. Hooray~!{/SAY}
+
+[187.094]
+Granny
+{SAY}Oh... well done.{WAIT}Now Lord Lemur's soul can rest in peace... Thank you for all you did.{/SAY}
+
+[187.095]
+Village chief
+{SAY}Lord Lemur will live on in us, and in you,{WAIT}forever...{WAIT}Thank you. Thank you so much!{/SAY}
+
+[187.096]
+{SAY}Ookya?{/SAY}
+
+[187.097]
+
+《The monkey holds a paper. Read it?》
+
+[187.098]
+
+《Congratulations!》
+
+[187.100]
+{SAY}Ookyaa!!{/SAY}
+
+[187.101]
+{SAY}Ookee! Ookee!{/SAY}
+
+[187.102]
+{SAY}Ookiiii!!{/SAY}
+
+[187.103]
+{SAY}Ookyakkyaa!!{/SAY}
+
+[187.104]
+{SAY}Kyakkya! Kyakkya!{/SAY}
+
+[187.105]
+{SAY}Look.{WAIT}Even the monkeys know peace has come.{/SAY}
+
+[187.106]
+{SAY}Thank you.{WAIT}I'm sure Lem is happy too.{/SAY}
+
+[187.107]
+Granny
+{SAY}You did the right thing.{HOLD}From now on, live with your heads held high.{/SAY}
+
+[187.108]
+Village chief
+{SAY}Everyone,{WAIT}thank you so much.{/SAY}
+
+[187.109]
+Mimi
+{SAY}Misters,{WAIT}keep doing your best for Lem too.{/SAY}
+
+[187.110]
+{SAY}From now on, I'll live with hope.{/SAY}
+
+[187.111]
+{NAME:04}
+{SAY}Fahrah! It's finally over.{/SAY}
+
+[187.112]
+Fahrah
+{SAY}{NAME:04}!{/SAY}
+
+[187.113]
+{NAME:04}
+{SAY}Just a little longer. I'll be back soon. Wait for me, Fahrah.{/SAY}
+
+[187.114]
+Fahrah
+{SAY}I'll wait, {NAME:04}! Come back soon!{/SAY}
+
+[187.115]
+{NAME:04}
+{SAY}Now! Let's be off!{/SAY}
+

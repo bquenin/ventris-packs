@@ -1,5 +1,5 @@
 [170.000]
-{SAY}We'll get the Orient Express running again and go back to Britain someday, we will.{/SAY}
+{SAY}We'll get the Orient Express running again and go back to Britain someday.{/SAY}
 
 [170.002]
 {SAY}Thank you for beating Crewel.{WAIT}Please take this as thanks!{/SAY}
@@ -19,10 +19,10 @@
 {SAY}You do your best too!{/SAY}
 
 [170.007]
-{SAY}Heave, ho! With Crewel gone, we're getting ready to run the Orient Express again, we are!{/SAY}
+{SAY}Heave, ho! With Crewel gone, we're getting ready to run the Orient Express again!{/SAY}
 
 [170.008]
-{SAY}Heave, ho! With Crewel gone, battles got easier, they did!{/SAY}
+{SAY}Heave, ho! With Crewel gone, battles got easier!{/SAY}
 
 [170.009]
 "Beware of gusts at Stonehenge!!
