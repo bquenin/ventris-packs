@@ -1,0 +1,198 @@
+[140.000]
+Write in diary
+Read diary
+Quit
+
+[140.002]
+{NAME:02}
+{SAY}It's {NAME:01}!{/SAY}
+
+[140.003]
+{NAME:04}
+{SAY}I-I can't move!{/SAY}
+
+[140.004]
+
+《A barrier holds {NAME:19} and company fast. They can't move》
+
+[140.005]
+{NAME:02}
+{SAY}N-no! ...Why!{/SAY}
+
+[140.006]
+{NAME:04}
+{SAY}We must save him, quickly!{/SAY}
+
+[140.007]
+{SAY}Now, hurry, while you can!{/SAY}
+
+[140.008]
+{NAME:02}
+{SAY}Now, {NAME:19}! The Flute of Prayer!{/SAY}
+
+[140.009]
+
+《{NAME:19} used the Flute of Prayer!》
+
+[140.011]
+
+《The Flute of Prayer's power dispelled the barrier!》
+
+[140.012]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[140.014]
+{NAME:01}
+{SAY}This is...{/SAY}
+
+[140.015]
+{NAME:04}
+{SAY}To think something like this was buried under Stonehenge...{/SAY}
+
+[140.016]
+{NAME:04}
+{SAY}This must be what drew energy up from underground{WAIT}and fed the barrier.{/SAY}
+
+[140.017]
+Batty
+{SAY}Who's there!? Who dares disturb my slumber!{/SAY}
+
+[140.018]
+Batty
+{SAY}{NAME:19}, no fair~!!{/SAY}
+
+[140.019]
+
+《This seems to be a place of rest in Stonehenge...》{WAIT}
+{CLEAR}
+《Rest here?》
+
+[140.020]
+
+《Will you at least write in your diary?》
+
+[140.021]
+General Crewel
+{SAY}Heh heh heh. Back again, never learning?{/SAY}
+
+[140.022]
+{NAME:01}
+{SAY}I won't die till I've beaten you!{/SAY}
+
+[140.023]
+General Crewel
+{SAY}...Is that the Flute of Prayer?{WAIT}My, my, dragging out an antique like that. How hardworking of you...{/SAY}
+
+[140.024]
+{NAME:01}
+{SAY}The barrier's gone! You're finished!{/SAY}
+
+[140.025]
+General Crewel
+{SAY}Hahaha! And what of it?{WAIT}Against bugs like you, I need no barrier!{WAIT}Very well. You've saved me the trouble of coming to you.{PAUSE:0F} Die!{/SAY}
+
+[140.026]
+General Crewel
+{SAY}Diiie!{/SAY}
+
+[140.027]
+
+《{NAME:19} and company were badly wounded!》
+
+[140.028]
+
+《The pendant {NAME:03} left behind began to glow!》
+
+[140.029]
+
+《The pendant shattered!》{PAUSE:1E}
+
+[140.030]
+
+《{NAME:03}'s love protected {NAME:01}!》
+
+[140.031]
+{NAME:01}
+{SAY}I'll finish him!{/SAY}
+
+[140.032]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[140.033]
+{NAME:04}
+{SAY}Sir {NAME:01}!{/SAY}
+
+[140.034]
+{NAME:01}
+{SAY}.........{PAUSE:28}{NAME:03}{/SAY}
+
+[140.035]
+{NAME:02}
+{SAY}{NAME:01}...{/SAY}
+
+[140.036]
+{NAME:04}
+{SAY}Sir {NAME:01}...{/SAY}
+
+[140.037]
+{NAME:01}
+{SAY}..........{/SAY}
+
+[140.038]
+{NAME:04}
+{SAY}...Hm, those stairs...{/SAY}
+
+[140.039]
+{NAME:02}
+{SAY}Let's take a look!{/SAY}
+
+[140.040]
+{NAME:04}
+{SAY}Sir {NAME:19}! Let's search further in!{/SAY}
+
+[140.041]
+
+《{NAME:19} and company found the God Stone》
+
+[140.042]
+
+《{NAME:19} and company touched the God Stone!》
+
+[140.043]
+
+《{NAME:19}'s Chakra Level rose to 4!》
+
+[140.044]
+
+《{NAME:01}'s Chakra Level rose to 4!》
+
+[140.045]
+
+《{NAME:02}'s Chakra Level rose to 4!》
+
+[140.046]
+
+《{NAME:04}'s Chakra Level rose to 4!》
+
+[140.047]
+{NAME:02}
+{SAY}That's the fourth God Stone...{/SAY}
+
+[140.048]
+{NAME:04}
+{SAY}Mm... Something feels different from before.{/SAY}
+
+[140.049]
+{NAME:01}
+{SAY}For now, let's go back to Free London! We'll talk after that!{/SAY}
+
+[140.050]
+
+《A strange power enveloped {NAME:19} and company!》
+
+[140.051]
+
+《{NAME:19}'s HP was restored!》
+
