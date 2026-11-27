@@ -1,0 +1,808 @@
+[132.000]
+Write in diary
+Read diary
+Quit
+
+[132.002]
+{NAME:01}
+{SAY}Told you! I knew he'd come!{/SAY}
+
+[132.003]
+{NAME:02}
+{SAY}...{NAME:19}! Come on, let's go!{/SAY}
+
+[132.004]
+{NAME:04}
+{SAY}Sir {NAME:19}... Thank you. Truly, thank you!{HOLD}Let us fight together!{/SAY}
+
+[132.005]
+
+《{NAME:04} joined the party!》
+
+[132.006]
+{NAME:01}
+{SAY}So you're the boss here!!{/SAY}
+
+[132.007]
+Vishnur
+{SAY}Heh heh. So you came this far... How pointless...{/SAY}
+
+[132.008]
+{NAME:04}
+{SAY}Whether it's pointless, we won't know until we try!{/SAY}
+
+[132.009]
+Vishnur
+{SAY}How foolish...{WAIT}Do you think you can match us, who hold power equal to the gods?{WAIT}Had you just breathed the yellow powder quietly, you could have died without a thought...{/SAY}
+
+[132.010]
+{NAME:02}
+{SAY}...So that powder WAS...!{/SAY}
+
+[132.011]
+{NAME:01}
+{SAY}Unforgivable!!{/SAY}
+
+[132.012]
+Vishnur
+{SAY}Oho... this power... I see, so you were chosen by that stone!{/SAY}
+
+[132.013]
+{NAME:01}
+{SAY}!!{/SAY}
+
+[132.014]
+{NAME:02}
+{SAY}?!{/SAY}
+
+[132.015]
+{NAME:04}
+{SAY}...What did you say!!{/SAY}
+
+[132.016]
+Vishnur
+{SAY}Interesting! Then show me that power! Show the great Vishnur!{/SAY}
+
+[132.017]
+Vishnur
+{SAY}Defeating me changes nothing... You humans are doomed to perish anyway...{WAIT}Savor your own helplessne{PAUSE:3C}...{PAUSE:3C}ss......{/SAY}
+
+[132.018]
+{NAME:04}
+{SAY}Now... Honmaka Town will be saved.{/SAY}
+
+[132.019]
+{NAME:02}
+{SAY}That alien... seemed to know about the God Stones.{/SAY}
+
+[132.020]
+{NAME:04}
+{SAY}Chosen by the God Stones... what could it mean...{/SAY}
+
+[132.021]
+{NAME:01}
+{SAY}There's supposed to be one here too, right?{/SAY}
+
+[132.022]
+{NAME:02}
+{SAY}Yes, {NAME:19}. Let's look for it.{/SAY}
+
+[132.023]
+{NAME:02}
+{SAY}Wait, {NAME:19}!{/SAY}
+
+[132.024]
+{NAME:02}
+{SAY}I sense a strange power from that direction...{/SAY}
+
+[132.029]
+
+《A stone sits on the altar...》
+
+[132.030]
+{NAME:04}
+{SAY}Ohh...{/SAY}
+
+[132.031]
+{NAME:02}
+{SAY}I knew it...{/SAY}
+
+[132.032]
+{NAME:01}
+{SAY}So here it was.{/SAY}
+
+[132.033]
+
+《{NAME:19} and company touched the God Stone!》
+
+[132.034]
+
+《{NAME:19}'s Chakra Level rose to 3!》
+
+[132.035]
+
+《{NAME:01}'s Chakra Level rose to 3!》
+
+[132.036]
+
+《{NAME:02}'s Chakra Level rose to 3!》
+
+[132.037]
+
+《{NAME:04}'s Chakra Level rose to 3!》
+
+[132.038]
+{NAME:02}
+{SAY}The third God Stone...{/SAY}
+
+[132.039]
+
+《A strange power enveloped {NAME:19} and company!》
+
+[132.040]
+
+《{NAME:19}'s HP was restored!》
+
+[132.041]
+{SAY}Oh! You've come to!{/SAY}
+
+[132.042]
+{SAY}These others seem to be all right too.{/SAY}
+
+[132.043]
+{NAME:01}
+{SAY}Did you guys save us?{/SAY}
+
+[132.044]
+{NAME:02}
+{SAY}Who are you...{/SAY}
+
+[132.045]
+Ton
+{SAY}We have long trained here at Angkor Wat.{/SAY}
+
+[132.046]
+Chin
+{SAY}On our master's orders, we were keeping watch so no humans would enter this place.{/SAY}
+
+[132.047]
+Kan
+{SAY}Our master went alone to defeat the alien deep inside...{WAIT}We wanted to help, but we lacked the power to defeat that flower...{/SAY}
+
+[132.048]
+{NAME:01}
+{SAY}How did this master of yours get inside?{WAIT}Breathing that flower's powder is bad news, right?{/SAY}
+
+[132.049]
+Ton
+{SAY}Through years of training, our master can make his body as hard as stone.{WAIT}That way, he broke through the courtyard with the flower.{WAIT}...An ordinary person could never do it.{/SAY}
+
+[132.050]
+Chin
+{SAY}Please! Save our master!{WAIT}Alone, even he can't...{/SAY}
+
+[132.051]
+Kan
+{SAY}Monster or not, it's a plant.{WAIT}Cut off its nourishment, and perhaps...{/SAY}
+
+[132.052]
+《The door is shut... A terrifying voice can be heard from inside...》
+
+[132.053]
+Ton
+{SAY}...We have nothing, but will you rest?{/SAY}
+
+[132.054]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[132.055]
+{SAY}Please take care.{/SAY}
+
+[132.056]
+Ton
+{SAY}Master! Everyone! I'm so glad you're safe.{WAIT}...We have nothing, but will you rest?{/SAY}
+
+[132.057]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[132.058]
+{SAY}Please take care.{/SAY}
+
+[132.059]
+Ton
+{SAY}We'll be waiting.{WAIT}By the way, will you rest?{/SAY}
+
+[132.060]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+
+[132.061]
+{SAY}Please take care.{/SAY}
+
+[132.062]
+Chin
+{SAY}...Hurry... our master...{/SAY}
+
+[132.063]
+Chin
+{SAY}Master!{WAIT}The yellow powder has stopped, but the alien still seems to be alive deep inside.{WAIT}Please be careful!{/SAY}
+
+[132.064]
+Chin
+{SAY}Master {NAME:04}, please be safe.{/SAY}
+
+[132.065]
+Chin
+{SAY}Master {NAME:04}!{WAIT}We found a strange scroll deep in Angkor Wat!{WAIT}We can't read it, but you might be able to, Master...{WAIT}Here it is!{/SAY}
+
+[132.066]
+
+《{NAME:04} read the scroll...》
+
+[132.067]
+
+《{NAME:04} learned Nembutsu!》{PAUSE:62}
+
+[132.068]
+Chin
+{SAY}Just as I'd expect of you, Master! I'll keep training hard too!{/SAY}
+
+[132.069]
+Kan
+{SAY}It's a plant... Cut off its nourishment and perhaps...{/SAY}
+
+[132.070]
+Kan
+{SAY}Master! You're safe!{WAIT}Please be careful!{/SAY}
+
+[132.071]
+Kan
+{SAY}Everyone, take care. It's not much, but take this with you.{/SAY}
+
+[132.072]
+
+《Got an Effort Bun!》
+
+[132.073]
+Kan
+{SAY}When I make more "Effort Buns", I'll give you some.{/SAY}
+
+[132.074]
+{NAME:01}
+{SAY}Wh-what is this{/SAY}
+
+[132.075]
+{NAME:02}
+{SAY}...What a huge flower!{/SAY}
+
+[132.076]
+{NAME:01}
+{SAY}So this is what's been making the yellow powder!{/SAY}
+
+[132.077]
+{NAME:02}
+{SAY}...No! Breathing any more of this powder is dangerous!{WAIT}First we have to do something about that flo...{PAUSE:0A}wer...{/SAY}
+
+[132.078]
+{NAME:01}
+{SAY}{NAME:02}!{/SAY}
+
+[132.079]
+{NAME:01}
+{SAY}...Huh?{/SAY}
+
+[132.080]
+{SAY}...Now I'm... feeling...{/SAY}
+
+[132.081]
+{SAY}...kinda... weird... too...{/SAY}
+
+[132.082]
+{NAME:01}
+{SAY}We can't... go on like this...{/SAY}
+
+[132.083]
+{NAME:02}
+{SAY}First we have to do something about this flower...{/SAY}
+
+[132.084]
+{NAME:02}
+{SAY}The flower... has withered!{/SAY}
+
+[132.085]
+{NAME:01}
+{SAY}Now we can go deeper!{/SAY}
+
+[132.086]
+{NAME:01}
+{SAY}This is... the remains of the giant flower?{/SAY}
+
+[132.087]
+{NAME:02}
+{SAY}So the underground flowers were feeding this giant one...{/SAY}
+
+[132.090]
+{SAY}Master!{/SAY}
+
+[132.091]
+{NAME:04}
+{SAY}Oh! You're all safe!!{/SAY}
+
+[132.092]
+Ton
+{SAY}Master {NAME:04}!{/SAY}
+
+[132.093]
+Kan
+{SAY}You finally did it!{/SAY}
+
+[132.094]
+{NAME:04}
+{SAY}When my training is done, I will surely return.{WAIT}Be patient until then.{/SAY}
+
+[132.095]
+Chin
+{SAY}When will that be?{/SAY}
+
+[132.096]
+{NAME:04}
+{SAY}Now, that I cannot say.{/SAY}
+
+[132.097]
+Disciple
+{SAY}Master {NAME:04}, please take this. The fruit of our training.{/SAY}
+
+[132.098]
+
+《Got an Effort Bun!》
+
+[132.099]
+{NAME:04}
+{SAY}Now, Sir {NAME:19}. Let us go.{/SAY}
+
+[132.100]
+{NAME:01}
+{SAY}All right! Let's go back to Honmaka Bless and report!{/SAY}
+
+[132.101]
+{NAME:02}
+{SAY}{NAME:01}, let's stop by Pokin Hut on the way.{WAIT}You want to see {NAME:03}, don't you?{/SAY}
+
+[132.102]
+{NAME:01}
+{SAY}D-don't be stupid. What are you talking about.{/SAY}
+
+[132.104]
+
+《A voice came from nowhere...》
+
+[132.105]
+　　You who broke my seal...{PAUSE:1E}
+　　become one of the dead!!
+
+[132.106]
+
+《A voice came from nowhere...》
+
+[132.107]
+　　You who broke my seal...{PAUSE:1E}
+　　lament your sin!
+
+[132.108]
+{NAME:01}
+{SAY}What's this...{/SAY}
+
+[132.109]
+{NAME:02}
+{SAY}It's sucking the nourishment out of those people...{/SAY}
+
+[132.110]
+{NAME:01}
+{SAY}Here it comes!{/SAY}
+
+[132.111]
+{NAME:02}
+{SAY}No... they're not breathing...{/SAY}
+
+[132.112]
+{NAME:01}
+{SAY}That flower was sucking the life out of people?{/SAY}
+
+[132.113]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.114]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.115]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.116]
+{NAME:02}
+{SAY}A plant that grows by feeding on humans...{/SAY}
+
+[132.117]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.118]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.119]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.120]
+{NAME:01}
+{SAY}What's this...{/SAY}
+
+[132.121]
+{NAME:02}
+{SAY}It's sucking the nourishment out of those people...{/SAY}
+
+[132.122]
+{NAME:01}
+{SAY}Here it comes!{/SAY}
+
+[132.123]
+{NAME:02}
+{SAY}No... they're not breathing...{/SAY}
+
+[132.124]
+{NAME:01}
+{SAY}That flower was sucking the life out of people?{/SAY}
+
+[132.125]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.126]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.127]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.128]
+{NAME:02}
+{SAY}A plant that grows by feeding on humans...{/SAY}
+
+[132.129]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.130]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.131]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.132]
+{NAME:01}
+{SAY}What's this...{/SAY}
+
+[132.133]
+{NAME:02}
+{SAY}It's sucking the nourishment out of those people...{/SAY}
+
+[132.134]
+{NAME:01}
+{SAY}Here it comes!{/SAY}
+
+[132.135]
+{NAME:02}
+{SAY}No... they're not breathing...{/SAY}
+
+[132.136]
+{NAME:01}
+{SAY}That flower was sucking the life out of people?{/SAY}
+
+[132.137]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.138]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.139]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.140]
+{NAME:02}
+{SAY}A plant that grows by feeding on humans...{/SAY}
+
+[132.141]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.142]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.143]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.145]
+
+《A voice came from nowhere...》
+
+[132.146]
+　　You who broke my seal...{PAUSE:1E}
+　　fall into eternal darkness!
+
+[132.147]
+
+《No response......》
+
+[132.148]
+
+《Somewhere, a door opened...》
+
+[132.150]
+
+《A voice came from nowhere...》
+
+[132.151]
+　　You who broke my seal...{PAUSE:1E}
+　　burn in the fires of hell!
+
+[132.152]
+{NAME:01}
+{SAY}What's this...{/SAY}
+
+[132.153]
+{NAME:02}
+{SAY}It's sucking the nourishment out of those people...{/SAY}
+
+[132.154]
+{NAME:01}
+{SAY}Here it comes!{/SAY}
+
+[132.155]
+{NAME:02}
+{SAY}No... they're not breathing...{/SAY}
+
+[132.156]
+{NAME:01}
+{SAY}That flower was sucking the life out of people?{/SAY}
+
+[132.157]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.158]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.159]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.160]
+{NAME:02}
+{SAY}A plant that grows by feeding on humans...{/SAY}
+
+[132.161]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.162]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.163]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.164]
+{SAY}..............................{/SAY}
+
+[132.165]
+{NAME:01}
+{SAY}What's this...{/SAY}
+
+[132.166]
+{NAME:02}
+{SAY}It's sucking the nourishment out of those people...{/SAY}
+
+[132.167]
+{NAME:01}
+{SAY}Here it comes!{/SAY}
+
+[132.168]
+{NAME:02}
+{SAY}No... they're not breathing...{/SAY}
+
+[132.169]
+{NAME:01}
+{SAY}That flower was sucking the life out of people?{/SAY}
+
+[132.170]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.171]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.172]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.173]
+{NAME:02}
+{SAY}A plant that grows by feeding on humans...{/SAY}
+
+[132.174]
+{NAME:02}
+{SAY}These flowers must be like roots of that giant flower...{WAIT}The giant flower grows on what they suck up here...{/SAY}
+
+[132.175]
+{NAME:01}
+{SAY}Then...{/SAY}
+
+[132.176]
+{NAME:02}
+{SAY}But this can't be the giant flower's only source of food.{/SAY}
+
+[132.177]
+{SAY}DON'T DAWDLE! SUCK THEM ALL DRY!{/SAY}
+
+[132.178]
+{SAY}HAHA!{/SAY}
+
+[132.179]
+{SAY}WAHAHA! YES! SUCK OUT EVERY BUG'S LIFE!{WAIT}THERE ARE PLENTY MORE! WAHAHAHAHA!{/SAY}
+
+[132.180]
+{NAME:02}
+{SAY}...This seems to be the center. ...How cruel.{/SAY}
+
+[132.181]
+{NAME:01}
+{SAY}{NAME:19}! Let's go!{/SAY}
+
+[132.187]
+{SAY}WHO ARE YOU!{/SAY}
+
+[132.188]
+{NAME:02}
+{SAY}...We have to save them, quick!{/SAY}
+
+[132.189]
+{NAME:01}
+{SAY}{NAME:19}! That flower!{/SAY}
+
+[132.190]
+
+《...Far away, something cried out as if in pain...》
+
+[132.191]
+{SAY}Thank you so much!!!{/SAY}
+
+[132.192]
+{SAY}You saved us. To think the flower could have sucked our lives away...{/SAY}
+
+[132.193]
+{SAY}We're going back to Honmaka Town!{WAIT}Thank you, thank you so much!!{/SAY}
+
+[132.194]
+{NAME:01}
+{SAY}Someone's there!{/SAY}
+
+[132.195]
+{NAME:02}
+{SAY}That's...!{/SAY}
+
+[132.196]
+{NAME:02}
+{SAY}Are you all right!?{/SAY}
+
+[132.197]
+{NAME:01}
+{SAY}Hang in there, old man!{/SAY}
+
+[132.198]
+
+《{NAME:19} gently touched his shoulder...》
+
+[132.199]
+{NAME:01}
+{SAY}Wh-what was that!{/SAY}
+
+[132.200]
+{NAME:02}
+{SAY}The light of chakra...{/SAY}
+
+[132.201]
+{SAY}Ohh... I don't know who you are, but I'm grateful...{/SAY}
+
+[132.202]
+{NAME:01}
+{SAY}You're the master of those guys outside, right?{/SAY}
+
+[132.203]
+{SAY}Indeed.{WAIT}And you are...{/SAY}
+
+[132.204]
+{NAME:02}
+{SAY}People with the power of chakra, like you.{/SAY}
+
+[132.205]
+{SAY}Ohh... I'm grateful...{WAIT}And you are?{/SAY}
+
+[132.206]
+{NAME:02}
+{SAY}People with the power of chakra, like you.{/SAY}
+
+[132.207]
+{SAY}My word... is that so.{WAIT}Seeking "the truth" in my training, I once went to Japan.{WAIT}There, by chance, I touched the God Stone...{WAIT}I tried to use this power to punish the aliens...{WAIT}...but just when I was close, I was ambushed.{WAIT}My training is still lacking...{/SAY}
+
+[132.208]
+{NAME:02}
+{SAY}...Which means the alien is further in?{/SAY}
+
+[132.209]
+{SAY}Yes.{WAIT}It seems you withered the giant flower and stopped the yellow powder,{WAIT}but unless we defeat that alien, it will grow back someday...{WAIT}There's nourishment aplenty up above...{/SAY}
+
+[132.210]
+{NAME:01}
+{SAY}What!{/SAY}
+
+[132.211]
+{SAY}Everyone. The enemy is likely an alien of great power.{WAIT}I can't defeat it alone...{WAIT}Will you fight with me!?{/SAY}
+
+[132.212]
+{NAME:01}
+{SAY}Don't be so formal! Of course we will!{/SAY}
+
+[132.213]
+{NAME:02}
+{SAY}Defeating the aliens is our mission. Let us go together!{/SAY}
+
+[132.214]
+{NAME:04}
+{SAY}...I am grateful!{/SAY}
+
+[132.215]
+
+《{NAME:04} joined the party!》
+
+[132.216]
+{NAME:01}
+{SAY}All right! Let's go!!{/SAY}
+
+[132.217]
+{SAY}I see... It can't be helped.{WAIT}This too is the duty of one who serves Buddha. Then, farewell!!{/SAY}
+
+[132.218]
+{NAME:01}
+{SAY}Old man!{/SAY}
+
+[132.219]
+{NAME:01}
+{SAY}{NAME:19}! I'm going too!{WAIT}Sorry, but I can't just leave him!!{/SAY}
+
+[132.220]
+{NAME:02}
+{SAY}..................{/SAY}
+
+[132.223]
+
+《A giant stone face...》
+
+[132.224]
+
+《A giant stone face...》{WAIT}
+{CLEAR}《Its right eye seems to be a switch... Press it?》
+
