@@ -1,0 +1,67 @@
+[121.000]
+{SAY}How rude, in the middle of prayer!{/SAY}
+
+[121.002]
+{SAY}Fatimaism?{WAIT}How rude! This is a church of Castellaism.{HOLD}Come, eat castella and be happy too!{/SAY}
+
+[121.003]
+{SAY}How rude, in the middle of prayer!{/SAY}
+
+[121.004]
+
+《{NAME:19} and company's HP dropped to 1!》
+
+[121.005]
+{SAY}It's no use talking to me while I pray.{WAIT}What do you say? Won't you join Fatimaism too?{WAIT}I'll free you from all your suffering...{/SAY}
+
+[121.006]
+# The song is the jingle of a castella maker's old TV commercial.
+{SAY}Come! Sing along with us!{HOLD}Castella's number one~~ Telephone's number two~~{/SAY}
+
+[121.007]
+{SAY}Have you also come to pray to Lady Fatimaria?{/SAY}
+
+[121.008]
+{SAY}Then let us pray together...{/SAY}
+
+[121.009]
+{SAY}Oh... almighty Fatimaria... take away the suffering of these ones and grant them eternal rest...{/SAY}
+
+[121.010]
+
+《The strength drained from {NAME:19} and company's bodies...》
+
+[121.011]
+
+《{NAME:19} and company's HP dropped to 1!》
+
+[121.012]
+{SAY}You blasphemers!{/SAY}
+
+[121.013]
+{SAY}Have you also come to pray to Lady Fatimaria?{/SAY}
+
+[121.014]
+{SAY}Then please come around to the front. Let us pray together!{/SAY}
+
+[121.015]
+{SAY}Those who do not believe in Lady Fatimaria have no future...{WAIT}A great calamity will befall you...{/SAY}
+
+[121.016]
+{SAY}Have you also come to pray to Lady Castella?{/SAY}
+
+[121.017]
+{SAY}Then sing with us! Castella's number one~~ Telephone's number two~~{/SAY}
+
+[121.018]
+{SAY}With a full belly, most of your worries just blow away.{WAIT}Come, sing with us!{/SAY}
+
+[121.019]
+{SAY}.....................{/SAY}
+
+[121.020]
+{SAY}Castella's number one~~ Telephone's number two~~{/SAY}
+
+[121.021]
+{SAY}.....................{/SAY}
+
