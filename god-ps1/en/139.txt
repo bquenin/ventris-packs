@@ -1,0 +1,988 @@
+[139.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[139.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[139.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[139.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[139.005]
+Write in diary
+Read diary
+Quit
+
+[139.008]
+Write in your diary?
+
+[139.009]
+Write in diary
+Read diary
+Sleep
+
+[139.010]
+{SAY}Oh, what a dashing{PAUSE:14} gen-{PAUSE:14}tle-{PAUSE:14}man!{PAUSE:3C} Ufufu!{/SAY}
+
+[139.011]
+{SAY}Excuse me, you there!{/SAY}
+
+[139.012]
+{SAY}Oh, a traveler? Won't you hear an old man's request?{/SAY}
+
+[139.013]
+{SAY}Oh! Thank you!{WAIT}...The truth is, monsters have started appearing in the Louvre Museum in the back...{WAIT}Won't you drive them out...{/SAY}
+
+[139.014]
+{SAY}You will! Thank you! They say the monsters usually hide inside the paintings.{WAIT}Be careful...{/SAY}
+
+[139.015]
+{SAY}I see... What a shame...{/SAY}
+
+[139.016]
+{SAY}Old man... sad...{/SAY}
+
+[139.017]
+{SAY}They say the monsters usually hide inside the paintings.{WAIT}Be careful...{/SAY}
+
+[139.018]
+{SAY}Oh! Thank you so much!{WAIT}It's not much of a thank-you, but please take this!{/SAY}
+
+[139.019]
+
+《Got the Holy Ring!》
+
+[139.020]
+{SAY}Now the people of this town will find the courage to live again!{/SAY}
+
+[139.021]
+{SAY}Now the people of this town will find the courage to live again!{WAIT}Truly, thank you!{/SAY}
+
+[139.022]
+{SAY}This is Free Paris, the city of flowers, even without flowers, darling. Welcome, darling!{/SAY}
+
+[139.023]
+{SAY}Welcome! When in Paris, you buy clothes.{WAIT}Everyone knows that, darling!{/SAY}
+
+[139.024]
+{SAY}Love and food. That's all life needs, darling.{WAIT}This is the Free Paris open cafe, Crazy Bonze, darling!!{WAIT}Take your time~!{/SAY}
+
+[139.025]
+{SAY}Bonjour! What would you like, darling?{/SAY}
+
+[139.026]
+{SAY}Oh, handsome. Won't you fall in love with me?{/SAY}
+
+[139.027]
+{SAY}Kyah. ...I'm a little tipsy, darling.{/SAY}
+
+[139.028]
+{SAY}How cold you are. That only makes me burn hotter, darling. Kyah.{/SAY}
+
+[139.029]
+{SAY}I'm a woman who lives for love, darling.{/SAY}
+
+[139.030]
+{SAY}A journey of battles? What a boring life, darling.{HOLD}The real thrill of life is shopping, darling!{/SAY}
+
+[139.031]
+{SAY}Next door there's a place called Free London, where all the bumpkins gather, darling.{WAIT}Terrible food, horrid place, darling.{/SAY}
+
+[139.032]
+{SAY}No sunlight, no smell of the wind, but Free Paris is still Free Paris, darling! Life is love, darling!{/SAY}
+
+[139.033]
+{SAY}Better not go west from here, darling. Bumpkins live there.{/SAY}
+
+[139.034]
+{SAY}Smooch, smooch. Want to join in, darling?{/SAY}
+
+[139.035]
+{SAY}Smack, smack. Whatever happens to the world, we don't care, darling.{/SAY}
+
+[139.036]
+
+《...A magnificent painting》
+
+[139.037]
+
+《.....................》
+
+[139.038]
+　　　Death...{PAUSE:1E} to those...{PAUSE:1E}
+　　who disturb...{PAUSE:28} my sleep!!
+
+[139.039]
+
+《...A magnificent painting》
+
+[139.040]
+{SAY}...I'm studying painting here.{WAIT}Someday I want to be a fine painter like the great masters!{WAIT}...So, um, may I draw your portrait?{/SAY}
+
+[139.041]
+{SAY}Thank you!{WAIT}Then wait just a moment!{/SAY}
+
+[139.042]
+{SAY}Hmm hmm hmm...{PAUSE:1E} hmm hmm...{PAUSE:1E} hmmhmmhmm, there!{WAIT}Done!{/SAY}
+
+[139.043]
+
+《Got a Portrait!》
+
+[139.044]
+{SAY}That'll be 800G!{/SAY}
+
+[139.045]
+
+《800G was taken!》
+
+[139.046]
+{SAY}Thank you~!{/SAY}
+
+[139.047]
+{SAY}What? Not enough money? ...That's mean!{/SAY}
+
+[139.048]
+{SAY}Call me anytime!{/SAY}
+
+[139.049]
+{SAY}Are you going to pay for the portrait?{/SAY}
+
+[139.050]
+
+《800G was taken!》
+
+[139.051]
+{SAY}Thank you~!{/SAY}
+
+[139.052]
+{SAY}You don't have enough money!{/SAY}
+
+[139.053]
+{SAY}How disappointing...{/SAY}
+
+[139.054]
+{SAY}Someday, when there's peace, come to my exhibition!{/SAY}
+
+[139.055]
+{SAY}What? The seven goddesses? Oh, that...{WAIT}It's easy, right? Why not think about it yourself?{/SAY}
+
+[139.056]
+{SAY}That's the spirit.{/SAY}
+
+[139.057]
+{SAY}Oh, all right.{WAIT}You're going to the British Museum, right?{WAIT}What's there?{WAIT}...Get it now?{/SAY}
+
+[139.058]
+{SAY}That's what I mean.{/SAY}
+
+[139.059]
+{SAY}...Oh, all right.{WAIT}Speaking of goddesses in a museum...{WAIT}Get it now?{/SAY}
+
+[139.060]
+{SAY}Phew. Finally.{/SAY}
+
+[139.061]
+{SAY}The goddess statues! Examine the goddess statues!{WAIT}Honestly!{WAIT}{PAUSE:1E}This is why people who don't understand art...!{WAIT}...{PAUSE:28}Oh,{PAUSE:1E} how unlike me.{PAUSE:14} Forgive me. S'il vous plaît~!{/SAY}
+
+[139.062]
+{SAY}That was pretty fun. As thanks, have this!{/SAY}
+
+[139.063]
+
+《Got a Louvre Bun!》
+
+[139.064]
+{SAY}Lately I've gotten into cooking too.{/SAY}
+
+[139.065]
+　Would you like one?
+
+[139.066]
+
+《Got a Louvre Bun!》
+
+[139.067]
+　I'll give you more when I make some.
+
+[139.068]
+{SAY}This is a museum displaying the art of Paris.{/SAY}
+
+[139.069]
+{SAY}Oh dear, sorting all this is no easy job...{/SAY}
+
+[139.070]
+{SAY}In times like these, I want people to keep a rich heart that loves art...{/SAY}
+
+[139.071]
+{SAY}Weird painting!{/SAY}
+
+[139.072]
+{SAY}This 1999 Beaujolais tastes so very sad, darling...{/SAY}
+
+[139.073]
+{SAY}~Aux Champs-Élysées...{/SAY}
+
+[139.074]
+　Sing and dance, even alone, and you're happy, darling!!
+
+[139.075]
+　Sing and dance all together and you're happy, darling!!
+
+[139.076]
+{SAY}~La la la~... Are you enjoying yourself, darling?{/SAY}
+
+[139.077]
+
+　　　　　　Caution!
+　　　West of here: bumpkins
+
+[139.078]
+
+　　　　　　Caution!
+　　East of here: a loose country
+
+[139.079]
+{SAY}Welcome to Paris Bless, where style and art reign!{/SAY}
+
+[139.080]
+{SAY}Welcome to London Bless, home of tradition and dignity!{/SAY}
+
+[139.081]
+{SAY}D-damn it. Crewel uses a strange power.{WAIT}Nothing we do works.{/SAY}
+
+[139.082]
+{SAY}Is that so... Crewel... Thank you so much!{/SAY}
+
+[139.083]
+{SAY}You go around beating aliens! Keep it up!{/SAY}
+
+[139.084]
+{SAY}Welcome to Free London Bless, home of tradition!{/SAY}
+
+[139.085]
+　...Thank you so much!
+
+[139.086]
+{SAY}No one has come back safely from Stonehenge... My comrades too...{/SAY}
+
+[139.087]
+{SAY}You're the first to come back safely from Stonehenge, darling.{WAIT}To celebrate, take this, darling.{/SAY}
+
+[139.088]
+
+《{NAME:19} got a Dolphin Bun》
+
+[139.089]
+{SAY}Keep up the good work, darling.{/SAY}
+
+[139.090]
+{SAY}Keep up the good work, darling.{/SAY}
+
+[139.091]
+{SAY}Delicate souls like us aren't cut out for fighting, darling!{WAIT}We leave the rest to you, darling!{/SAY}
+
+[139.092]
+{SAY}This is Free Paris! Paris fell to the aliens, but we're alive and kicking underground, darling.{/SAY}
+
+[139.093]
+{SAY}We're not hiding, darling.{WAIT}We're enduring, preparing for the battle to come.{WAIT}...Really, darling!{/SAY}
+
+[139.094]
+{SAY}We're not hiding, darling.{WAIT}We're enduring, preparing for the battle to come.{WAIT}...Really, darling!{/SAY}
+
+[139.095]
+{SAY}They say a big American man crossed to the British Isles, darling! Some people are so reckless!{/SAY}
+
+[139.096]
+{SAY}Merci, darling!{WAIT}But don't be too reckless!{/SAY}
+
+[139.097]
+{SAY}Don't be reckless, darling!{/SAY}
+
+[139.098]
+{SAY}They say no attack works on the alien at Stonehenge, darling.{/SAY}
+
+[139.099]
+{SAY}What!?{WAIT}You beat the alien at Stonehenge?{WAIT}Très bien, darling.{/SAY}
+
+[139.100]
+{SAY}I'll tell you the trick to not losing to the aliens, darling!{WAIT}It's simple. Don't fight, darling!{/SAY}
+
+[139.101]
+{SAY}We escaped underground like this, but...{WAIT}lately monsters have started appearing even inside the town, darling.{WAIT}How thrilling, darling.{/SAY}
+
+[139.102]
+{SAY}Will it be a little easier to live here now, darling?{/SAY}
+
+[139.103]
+{SAY}South of Europe there's a coast famous for dolphins.{WAIT}I used to play there a lot.{/SAY}
+
+[139.104]
+{SAY}Are you enjoying your journey, darling?{/SAY}
+
+[139.105]
+Director Pierre
+{SAY}Are you enjoying life, darling? Naha, naha, nahahahaha~{/SAY}
+
+[139.106]
+Director Pierre
+{SAY}I looked through the museum's records, darling.{WAIT}They say this about where the precious thing is kept:{WAIT}"When the seven goddesses smile, the treasure shall be yours."{WAIT}Mmm, even the records are poetry, darling!{/SAY}
+
+[139.107]
+Director Pierre
+{SAY}Are you enjoying life, darling? Naha, naha, nahahahaha~{/SAY}
+
+[139.108]
+Director Pierre
+{SAY}I looked through the museum's records, darling.{WAIT}They say this about where the precious thing is kept:{WAIT}"When the seven goddesses smile, the treasure shall be yours."{WAIT}Mmm, even the records are poetry, darling!{/SAY}
+
+[139.109]
+Director Pierre
+{SAY}You found the Dolphin Whistle! Congratulations, darling!{WAIT}...Better to live and be called a fool than to die and become a god, darling.{WAIT}I won't die gloriously. I'll live on, clumsily, darling.{WAIT}...I have an unglamorous present, darling.{WAIT}For the blond boy, darling!{/SAY}
+
+[139.110]
+
+《{NAME:01} learned Two-Hand Shot!》
+
+[139.111]
+
+《Got the Invisible Clothes!》
+
+[139.112]
+Director Pierre
+{SAY}Don't die, darling. Live on, clumsily, darling.{/SAY}
+
+[139.113]
+{SAY}Director Pierre went for a walk, darling.{/SAY}
+
+[139.114]
+{SAY}Director Pierre came back from his walk, darling. He seemed angry, darling.{/SAY}
+
+[139.115]
+{SAY}Looking after Director Pierre is sooo exhausting, darling.{/SAY}
+
+[139.116]
+{SAY}Bonjour~! Bless's armor shop, darling!{WAIT}I want to buy wine, so give me your money, darling.{WAIT}With Paris armor, you too can be chic~, darling!{/SAY}
+
+[139.117]
+{SAY}Bonjour~! Souvenir shop, darling.{WAIT}Please enjoy shopping très bien, worthy of the city of flowers!{/SAY}
+
+[139.118]
+{SAY}The Vatican Museum, southeast of here, is so mazelike inside that even aliens get lost, darling.{WAIT}That's how it protects humanity's precious treasures, darling.{/SAY}
+
+[139.119]
+{SAY}By Director Charles's order, I can't let anyone go to the British Isles!{/SAY}
+
+[139.120]
+{SAY}Going to the British Isles... Please be careful!{/SAY}
+
+[139.121]
+{SAY}W-what, you defeated General Crewel!?{/SAY}
+
+[139.122]
+{SAY}You're still continuing your journey!?{/SAY}
+
+[139.123]
+　Amazing! I respect you!{WAIT}All I do is stand here.
+Why, oh why...
+
+[139.124]
+{SAY}By Director Charles's order, I can't let anyone go to the British Isles!{/SAY}
+
+[139.125]
+{SAY}This is a temporary museum showing things from the British Museum.{WAIT}...But monsters have started appearing lately, so entry is forbidden.{/SAY}
+
+[139.126]
+{SAY}Welcome to Free London, town of tradition and dignity!!{/SAY}
+
+[139.127]
+{SAY}Free Paris to the east is terribly vulgar. Better not go to such a frivolous place!{/SAY}
+
+[139.128]
+{SAY}Welcome! Big Ben Weapons.{WAIT}How about weapons of tradition and dignity, by royal appointment?{/SAY}
+
+[139.129]
+{SAY}Morning! Big Ben Armor.{WAIT}How about armor of tradition and dignity, by royal appointment?{/SAY}
+
+[139.130]
+{SAY}A blond guy charged across to the British Isles.{/SAY}
+
+[139.131]
+{SAY}Huh, so you're his friends?{/SAY}
+
+[139.132]
+{SAY}I want friends too.{/SAY}
+
+[139.133]
+{SAY}Through the tunnel west of this town is our homeland, the British Isles.{/SAY}
+
+[139.134]
+{SAY}I want peace soon so I can go back to the British Isles...{WAIT}The air here is bad...{/SAY}
+
+[139.135]
+{SAY}This is a temporary museum showing things from the British Museum.{WAIT}...But monsters have started appearing lately, so entry is forbidden.{/SAY}
+
+[139.136]
+{SAY}I've been told.{WAIT}Going to the British Isles... Please be careful!{/SAY}
+
+[139.137]
+{SAY}W-what, you defeated General Crewel!?{/SAY}
+
+[139.138]
+{SAY}You're still continuing your journey!?{/SAY}
+
+[139.139]
+　Amazing! I respect you!{WAIT}All I do is stand here.{WAIT}Why, oh why...
+
+[139.140]
+{SAY}On the British Isles there are ruins called Stonehenge.{WAIT}It seems the aliens use them as a base.{/SAY}
+
+[139.141]
+{SAY}Hellooo! Hotel London B&B.{WAIT}We're in "How to Get Lost on Earth", a very cheap and very safe inn.{WAIT}800G a night. Will you stay?{/SAY}
+
+[139.142]
+{SAY}You don't have enough money!{/SAY}
+
+[139.143]
+{SAY}Then will you look at your diary?{/SAY}
+
+[139.144]
+{SAY}Come anytime.{/SAY}
+
+[139.145]
+{SAY}Welcome! Please have a Free London souvenir!!{/SAY}
+
+[139.146]
+{SAY}Strong children don't cry.{/SAY}
+
+[139.147]
+{SAY}You don't have enough money!{/SAY}
+
+[139.148]
+{SAY}Thanks for all your fighting. Try not to get hurt!{/SAY}
+
+[139.149]
+{SAY}Taste genuine British rock!{/SAY}
+
+[139.150]
+{SAY}When I grow up, I'm going to be a rock 'n' roller! Yeah!{/SAY}
+
+[139.151]
+{SAY}If I were ten years younger, I wouldn't let those aliens act so big...{WAIT}Hic!{/SAY}
+
+[139.152]
+{SAY}Watching you kids reminds me of my old self.{WAIT}Back then I was a real wild one, a ladies' man...{WAIT}Those were the days...{/SAY}
+
+[139.153]
+{SAY}The aliens are obsessed with Stonehenge. Why is that?{/SAY}
+
+[139.154]
+{SAY}So Stonehenge wasn't just ruins after all.{/SAY}
+
+[139.155]
+{SAY}Did you know? An American crossed to the British Isles!{/SAY}
+
+[139.156]
+{SAY}Did you know? Someone beat the aliens at Stonehenge!{/SAY}
+
+[139.157]
+{SAY}No waaay!{/SAY}
+
+[139.158]
+{SAY}Seriously!?{/SAY}
+
+[139.159]
+{SAY}Everyone coming to hear us sing. That's the day I dream of!{/SAY}
+
+[139.160]
+{SAY}Come out of the Euro Tunnel on the Paris side and go far south, and there's a beach surrounded by trees.{WAIT}It's famous because dolphins gather there.{/SAY}
+
+[139.161]
+{SAY}They say there's a huge pyramid in Africa, to the south!{/SAY}
+
+[139.162]
+{SAY}Really!?{/SAY}
+
+[139.163]
+{SAY}Punk,{PAUSE:14} punk,{PAUSE:14} punk{PAUSE:14}
+punk,{PAUSE:14} punk,{PAUSE:14} punk{PAUSE:14}
+punk,{PAUSE:14} punk,{PAUSE:14} punk{PAUSE:14}
+punk,{PAUSE:14} pants,{PAUSE:28}...... huh?{/SAY}
+
+[139.164]
+{SAY}Bo~~rn in the~ U~K~~!!{/SAY}
+
+[139.165]
+{SAY}Bo~rn in the U~K~!!!!{/SAY}
+
+[139.166]
+{SAY}A strange barrier surrounds Stonehenge on the British Isles, and we can't do a thing...{/SAY}
+
+[139.167]
+{SAY}Now we're one step closer to going home! Thank you!{/SAY}
+
+[139.168]
+{SAY}My family was killed when London was attacked...{HOLD}Someday, I'll avenge them with my own hands...{/SAY}
+
+[139.169]
+{SAY}Thank you so much... Now I can face all my comrades who died.{/SAY}
+
+[139.170]
+{SAY}The aliens are tough enemies, but the general at Stonehenge seems to enjoy killing people...{WAIT}...How many comrades have we lost...{/SAY}
+
+[139.171]
+{SAY}Thank you so much!{WAIT}The fight goes on, but I feel a little hope now!{/SAY}
+
+[139.172]
+Eliza
+{SAY}Mornin'! Darling!{WAIT}How about the latest news, brought to you by London Bless's idol, Eliza?{/SAY}
+
+[139.173]
+About this town...300G
+Alien news......300G
+Everything else..300G
+Quit
+
+[139.174]
+{SAY}Thanks so much!{/SAY}
+
+[139.175]
+{SAY}Anything else you want to know?{/SAY}
+
+[139.176]
+{SAY}Thanks so much!{/SAY}
+
+[139.177]
+{SAY}Anything else you want to know?{/SAY}
+
+[139.178]
+{SAY}Thanks so much!{/SAY}
+
+[139.179]
+{SAY}Anything else you want to know?{/SAY}
+
+[139.180]
+{SAY}Thanks so much!{/SAY}
+
+[139.181]
+{SAY}Thanks so much!{/SAY}
+
+[139.182]
+About this town...300G
+Everything else..300G
+Quit
+
+[139.183]
+{SAY}Thanks so much!{/SAY}
+
+[139.184]
+{SAY}Anything else you want to know?{/SAY}
+
+[139.185]
+{SAY}Thanks so much!{/SAY}
+
+[139.186]
+{SAY}Anything else you want to know?{/SAY}
+
+[139.187]
+{SAY}Thanks so much!{/SAY}
+
+[139.188]
+{SAY}Thanks so much!{/SAY}
+
+[139.189]
+{SAY}You probably know already, but this town is inside the Euro Tunnel that links the British Isles and the continent.{WAIT}Two towns stuck together. When the aliens attacked, the towns from the east and the west both fled into this tunnel.{WAIT}They ran into each other in the middle and had a huge fight.{WAIT}Neither could go back, so they just started living here.{WAIT}Well, these days I think they get along well enough?{WAIT}But neither side has any decent men, that's the same!{/SAY}
+
+[139.190]
+{SAY}You don't have enough money? Sil-{PAUSE:14}ly{PAUSE:14} you!{/SAY}
+
+[139.191]
+{SAY}It's got to be General Crewel, of course!{WAIT}He's the boss of the aliens around here, based at Stonehenge on the British Isles,{WAIT}and he's so strong it's just not fair!{WAIT}I don't know his secret, but none of our attacks work on him at all...{WAIT}And he goes around killing people for fun.{WAIT}The people he's killed number way more than ten or twenty thousand!{WAIT}Someone really ought to do something...{WAIT}But nobody's got the guts...{/SAY}
+
+[139.192]
+{SAY}You don't have enough money? Sil-{PAUSE:14}ly{PAUSE:14} you!{/SAY}
+
+[139.193]
+{SAY}Let's see, today's latest news is...{PAUSE:78} oh, this one!{WAIT}"The Tragedy of London Bless Guard Karl!"{WAIT}Karl is the guard who watches the town's west gate.{HOLD}His job is to make sure the Euro Tunnel's monsters don't get in{WAIT}and that townsfolk don't wander out by mistake.{WAIT}He's good at it, believe it or not!{WAIT}Well, that Karl got punched by an American who reached this town the other day, and lost three back teeth!{WAIT}Karl was only trying to stop the American from going to the British Isles...{WAIT}Poor thing, huh?{/SAY}
+
+[139.194]
+{SAY}Let's see, today's latest news is...{PAUSE:78} oh, this one!{WAIT}"General Crewel Defeated! A New Hero Is Born!"{WAIT}They say some people wiped out the aliens at Stonehenge!{WAIT}Waaah, I'd love to meet them just once!{/SAY}
+
+[139.195]
+{SAY}Let's see, today's latest news is...{PAUSE:78} oh, this one!{WAIT}"The Secret Craze! Who Is the Rock Band DOG!?"{HOLD}They say there's a rock band traveling all over the world!{WAIT}Wherever they go, the aliens get beaten,{WAIT}so their popularity is soaring! It's the secret craze.{WAIT}Maybe they're the ones who beat Crewel...{WAIT}Waaah, I'd love to meet them just once!{/SAY}
+
+[139.196]
+{SAY}You don't have enough money? Sil-{PAUSE:14}ly{PAUSE:14} you!{/SAY}
+
+[139.197]
+{SAY}This is the London laboratory. Authorized personnel only.{WAIT}Kindly leave.{/SAY}
+
+[139.198]
+{SAY}I've been told. Please do your best!{/SAY}
+
+[139.199]
+{SAY}This is London Bless! We fight seriously here!{/SAY}
+
+[139.200]
+{SAY}This is London Bless! We fight seriously here! Thank you so much!{/SAY}
+
+[139.207]
+Director Churchill
+{SAY}Who are you...?{WAIT}...{PAUSE:14}I see,{PAUSE:0C} you're that American's friends.{WAIT}I am Churchill, Director of Bless Free London.{WAIT}We tried to stop him, but he went after the alien Crewel.{/SAY}
+
+[139.208]
+Director Pierre
+{SAY}I am Pierre, Director of Bless Free Paris, darling.{WAIT}How about the latest fashion, invisible clothes?{WAIT}I'm on the cutting edge of fashion, darling.{WAIT}{PAUSE:28}...Are you having a good love, darling?{/SAY}
+
+[139.209]
+Director Churchill
+{SAY}We know Crewel is at Stonehenge.{WAIT}We couldn't leave him alone, so we went after him. But...{/SAY}
+
+[139.210]
+Director Pierre
+{SAY}But, I am Pierre, Director of Bless Free Paris, darling.{WAIT}Are you having good battles, darling?{/SAY}
+
+[139.211]
+Director Churchill
+{SAY}...But Crewel uses a strange power, and we can't lay a finger on him...{/SAY}
+
+[139.212]
+Director Pierre
+{SAY}I am Pierre, Director of Bless Free Paris, darling.{WAIT}We're completely outmatched, darling.{WAIT}It's laughable, darling. Naha naha. Are you enjoying life, darling?{/SAY}
+
+[139.213]
+Director Pierre
+{SAY}Oh? Hey! What are you doing, darling!?{/SAY}
+
+[139.214]
+Director Pierre
+{SAY}Let go, darling! Bumpkin! I'm Director Pierre, darling! Let go~!!{/SAY}
+
+[139.215]
+Director Churchill
+{SAY}Excuse that... That man has flowers blooming in his head.{WAIT}{PAUSE:1E}...I won't stop you, but be careful.{/SAY}
+
+[139.217]
+Director Churchill
+{SAY}Oh! You defeated that devil! Well done!{/SAY}
+
+[139.218]
+Director Pierre
+{SAY}Reeeally amazing, darling! Très bien, darling!!{/SAY}
+
+[139.219]
+Dr. Redoiset
+{SAY}Well done, {NAME:19}... So the fourth God Stone did exist!{WAIT}Now your brains are 70% unlocked.{/SAY}
+
+[139.220]
+{NAME:02}
+{SAY}70%?{/SAY}
+
+[139.221]
+Dr. Redoiset
+{SAY}That's right. We learned this in recent research:{WAIT}there seem to be seven "God Stones" in all{/SAY}
+
+[139.222]
+{NAME:01}
+{SAY}Seven!!{/SAY}
+
+[139.223]
+Dr. Redoiset
+{SAY}Mm. So far, you have{WAIT}managed to touch four of them.{/SAY}
+
+[139.224]
+{NAME:02}
+{SAY}Then where are the other three?{/SAY}
+
+[139.225]
+Dr. Redoiset
+{SAY}Unfortunately, we don't know that yet...{/SAY}
+
+[139.226]
+{NAME:04}
+{SAY}So finding them is training too...{/SAY}
+
+[139.227]
+Dr. Redoiset
+{SAY}Mm. And with your brains 70% unlocked,{WAIT}you'll gain new powers.{/SAY}
+
+[139.228]
+{NAME:04}
+{SAY}New abilities, you say...?{/SAY}
+
+[139.229]
+Dr. Redoiset
+{SAY}I'll put the details in the Croiset Notes.{WAIT}Check them later!{/SAY}
+
+[139.230]
+《New information was added to "Using Chakra" in the Croiset Notes.{WAIT}Check it later.》
+
+[139.231]
+Director Churchill
+{SAY}By the way, what will you do now?{/SAY}
+
+[139.232]
+{NAME:01}
+{SAY}Our mission is to defeat the aliens.{/SAY}
+
+[139.233]
+{NAME:02}
+{SAY}We'll go anywhere for that.
+
+[139.234]
+Director Churchill
+{SAY}I see... Actually, there's one thing that worries me.{/SAY}
+
+[139.235]
+{NAME:04}
+{SAY}What might that be?{/SAY}
+
+[139.236]
+Director Churchill
+{SAY}We've recently lost all contact with Sahara Bless in Africa...{WAIT}That area gets especially fierce alien attacks.{WAIT}I've been worried about what's happening there.{/SAY}
+
+[139.237]
+{NAME:02}
+{SAY}Africa...{/SAY}
+
+[139.238]
+Director Churchill
+{SAY}We have no way to cross to Africa to check, so we don't know what happened.{WAIT}What to do...{/SAY}
+
+[139.239]
+Director Pierre
+{SAY}I have a good idea, darling! Ask Luka the dolphin, darling!!{WAIT}A boy sets out on a journey riding a dolphin... a classic story, darling!{/SAY}
+
+[139.240]
+{NAME:01}
+{SAY}A dolphin!?{/SAY}
+
+[139.241]
+Director Pierre
+{SAY}I put the Dolphin Whistle, which calls dolphins, in the British Museum, darling!{WAIT}But I forgot where I put it, darling!{WAIT}Que sera, sera, darling! Whatever will be, will be!{/SAY}
+
+[139.242]
+Director Pierre
+{SAY}Ah... what are you doing, darling! It's forgetting that makes us human, darling!{WAIT}That's how Pierre got over the pain of love, darling!{WAIT}Rather than be dragged out, I'll leave myself, darling! Adieu.{/SAY}
+
+[139.243]
+{NAME:02}
+{SAY}If we ride a dolphin, can we get to Africa...{/SAY}
+
+[139.244]
+Dr. Redoiset
+{SAY}I don't know... but it may be worth a try.{/SAY}
+
+[139.245]
+{NAME:01}
+{SAY}{NAME:19}, let's go!!{/SAY}
+
+[139.246]
+Dr. Redoiset
+{SAY}Be careful.{/SAY}
+
+[139.247]
+Dr. Redoiset
+{SAY}Dolphins...{WAIT}I believe there's a coast where dolphins gather if you go south after leaving the Euro Tunnel on the Paris side...{/SAY}
+
+[139.248]
+Dr. Redoiset
+{SAY}{NAME:19}!! Your power is the last hope we have left.{WAIT}Do your best.{/SAY}
+
+[139.249]
+Director Churchill
+{SAY}The American headed for Stonehenge, through the tunnel west of this town.{HOLD}Be careful!{/SAY}
+
+[139.250]
+Director Churchill
+{SAY}Did Director Pierre really forget where in the British Museum he put it?{WAIT}That man is such a nuisance.{/SAY}
+
+[139.251]
+{SAY}Oh!!{WAIT}You got the Dolphin Whistle!{HOLD}Keep it up!!{/SAY}
+
+[139.252]
+{SAY}Oh! It's you!{WAIT}Glad you came. Make yourselves at home.{/SAY}
+
+[139.253]
+Director Churchill
+{SAY}The American headed for Stonehenge, through the tunnel west of this town.{HOLD}Be careful!{/SAY}
+
+[139.254]
+Director Churchill
+{SAY}Did Director Pierre really forget where in the British Museum he put it?{WAIT}That man is such a nuisance.{/SAY}
+
+[139.255]
+{SAY}Oh!!{WAIT}You got the Dolphin Whistle!{HOLD}Keep it up!!{/SAY}
+
+[139.256]
+{SAY}Oh! It's you!{WAIT}Glad you came. Make yourselves at home.{/SAY}
+
+[139.257]
+Director Churchill
+{SAY}Be careful!{/SAY}
+
+[139.258]
+{SAY}This is the London Director's office. Mind your manners with the Director!{/SAY}
+
+[139.259]
+{SAY}Pierre never fails to amaze me.{/SAY}
+
+[139.260]
+{SAY}Thank you. We'll keep doing our best.{/SAY}
+
+[139.261]
+{NAME:02}
+{SAY}Will he be all right...{/SAY}
+
+[139.262]
+{SAY}Trust my skill. I'll save him for sure.{/SAY}
+
+[139.263]
+{NAME:02}
+{SAY}Come to think of it, I never thanked you for saving us. ...But who are you?{/SAY}
+
+[139.264]
+{SAY}I'm Dr. Redoiset, cousin of Croiset and Whitoiset.{WAIT}You'd be {NAME:19}.{/SAY}
+
+[139.265]
+Dr. Redoiset
+{SAY}I've heard about you from Whitoiset.{WAIT}When I heard this man had gone to defeat Crewel, I hurried to research a way to break the barrier.{/SAY}
+
+[139.266]
+{NAME:01}
+{SAY}Ugh...{PAUSE:28} ugh......{PAUSE:28} mmm{/SAY}
+
+[139.267]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[139.268]
+{NAME:01}
+{SAY}...{PAUSE:28}{NAME:19}! {NAME:02}! {NAME:04}! ...{PAUSE:1E}Why are you here...{/SAY}
+
+[139.269]
+{NAME:02}
+{SAY}Don't "why" me. We searched all over for you.{/SAY}
+
+[139.270]
+{NAME:01}
+{SAY}Ugh...{/SAY}
+
+[139.271]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[139.272]
+{NAME:04}
+{SAY}Sir {NAME:01}!{/SAY}
+
+[139.273]
+{NAME:04}
+{SAY}What will you do!{/SAY}
+
+[139.274]
+{NAME:01}
+{SAY}Isn't it obvious.{WAIT}I'm going to beat him, Crewel!{/SAY}
+
+[139.275]
+{NAME:02}
+{SAY}You have to stay in bed!{/SAY}
+
+[139.276]
+{NAME:01}
+{SAY}I can't just lie here!{/SAY}
+
+[139.277]
+Dr. Redoiset
+{SAY}...But it may no longer be possible to defeat him...{/SAY}
+
+[139.278]
+{NAME:01}
+{SAY}What do you mean!{/SAY}
+
+[139.279]
+Dr. Redoiset
+{SAY}His barrier uses the power of the God Stone.{WAIT}To break it, the Mirror of Prayer was needed, but...{WAIT}the Mirror of Prayer is now broken.{/SAY}
+
+[139.280]
+{NAME:04}
+{SAY}Then the fourth God Stone is at Stonehenge!{/SAY}
+
+[139.281]
+Dr. Redoiset
+{SAY}Exactly.{/SAY}
+
+[139.282]
+{NAME:01}
+{SAY}Isn't there any other way to break the barrier!?{/SAY}
+
+[139.283]
+Dr. Redoiset
+{SAY}I can't say for certain...{WAIT}but there's said to be a "Flute of Prayer", the pair to the Mirror of Prayer.{/SAY}
+
+[139.284]
+{NAME:04}
+{SAY}The Flute of Prayer?{/SAY}
+
+[139.285]
+Dr. Redoiset
+{SAY}Like the "Mirror of Prayer", it was found at Stonehenge long ago.{WAIT}It should have been kept in the British Museum in Free London...{WAIT}With it...{/SAY}
+
+[139.286]
+{NAME:01}
+{SAY}With that, we can do something!{/SAY}
+
+[139.287]
+Dr. Redoiset
+{SAY}Mm. But lately monsters swarm there, and it's not easy to get near...{/SAY}
+
+[139.288]
+{NAME:01}
+{SAY}I don't care! I'm going!!{/SAY}
+
+[139.289]
+{NAME:02}
+{SAY}All of us together.{/SAY}
+
+[139.290]
+{NAME:04}
+{SAY}No more going alone.{/SAY}
+
+[139.291]
+{NAME:01}
+{SAY}{NAME:19}... I'm sorry. And thank you.{/SAY}
+
+[139.292]
+
+《{NAME:01} rejoined the party!》
+
+[139.293]
+Dr. Redoiset
+{SAY}...Understood. I'll tell the museum guards myself. ...Be careful.{/SAY}
+
+[139.294]
+Dr. Redoiset
+{SAY}The British Museum in Free London keeps all sorts of things excavated from ancient ruins.{WAIT}The Flute of Prayer is one of them, but where it is...{WAIT}Be careful!{/SAY}
+
+[139.295]
+Dr. Redoiset
+{SAY}Good luck!!{/SAY}
+
+[139.296]
+Dr. Redoiset
+{SAY}Oh, so this is the "Flute of Prayer"! With it, the barrier should vanish.{WAIT}...Be careful.{/SAY}
+
+[139.297]
+
+　《{NAME:19} found {WORD}!》
+
+[139.298]
+《But {NAME:19} already has 99 {WORD}!》
+
+[139.299]
+
+　《{NAME:19} gave up on {WORD}...》
+
