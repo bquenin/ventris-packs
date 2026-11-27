@@ -1,0 +1,203 @@
+[162.000]
+Write in diary
+Read diary
+Quit
+
+[162.002]
+Monkey
+{SAY}Eek eek!{/SAY}
+
+[162.003]
+Monkey
+{SAY}Eek eek!{/SAY}
+
+[162.004]
+
+《It seems happy...》
+
+[162.005]
+
+《No one's here...》
+
+[162.006]
+
+《The monkey took {NAME:19}'s hand...》
+
+[162.007]
+
+《It eased the loneliness a little》
+
+[162.008]
+Monkey
+{SAY}Eek eek!{/SAY}
+
+[162.009]
+《The monkey wants to come along.{WAIT}Take it with you?》
+
+[162.010]
+Monkey
+{SAY}Ookee! Ookee!!{/SAY}
+
+[162.011]
+Monkey
+{SAY}Eek eek!{/SAY}
+
+[162.012]
+
+《Lem joined the party!》
+
+[162.013]
+Mimi
+{SAY}Ah! Mister!{/SAY}
+
+[162.014]
+Mimi
+{SAY}It's terrible!{WAIT}A shark attacked me,{WAIT}and the big mister jumped in to save me!{WAIT}Hurry and help him!{/SAY}
+
+[162.015]
+{SAY}Don't say that, just go!!{/SAY}
+
+[162.020]
+{NAME:01}
+{SAY}Phew, saved... Whoa!{/SAY}
+
+[162.021]
+{NAME:01}
+{SAY}{NAME:04}!{WAIT}You're safe too! Great, great!{WAIT}Had me worried... I'm happy, baby!{WAIT}What! America made a peace treaty with the aliens!{WAIT}Goddamn! I'm unhappy, baby!{WAIT}No time to waste! Hurry up, baby!{/SAY}
+
+[162.022]
+Lem
+{SAY}Ookyakya!{/SAY}
+
+[162.023]
+{NAME:01}
+{SAY}Yo! Monkey! Nice to meet ya!{/SAY}
+
+[162.024]
+Lem
+{SAY}Ookyaaa!{/SAY}
+
+[162.025]
+Mimi
+{SAY}Misters!{/SAY}
+
+[162.026]
+Mimi
+{SAY}Thank you so much! You saved Mimi!{/SAY}
+
+[162.027]
+{NAME:04}
+{SAY}Your mother and grandfather are worried.{/SAY}
+
+[162.028]
+Mimi
+{SAY}Yeah. But Mimi was so worried about big sister...{/SAY}
+
+[162.029]
+Lem
+{SAY}Ookya ookya!{/SAY}
+
+[162.030]
+Mimi
+{SAY}What! Really!? Big sister's safe!{/SAY}
+
+[162.031]
+{NAME:01}
+{SAY}All right! In that case, we'll take you to that Lemur Village!{PAUSE:14} Right, {NAME:19}!{/SAY}
+
+[162.032]
+
+《{NAME:01} rejoined the party!》
+
+[162.033]
+
+《Rest here?》
+
+[162.034]
+
+《Then write in your diary?》
+
+[162.035]
+{SAY}Hi! Take your time!{/SAY}
+
+[162.036]
+{SAY}Hi! Doing your best?{/SAY}
+
+[162.037]
+{SAY}Somehow I can't enjoy it from the heart... Am I a worrier...{/SAY}
+
+[162.038]
+{SAY}Oh boy... just as I thought.{/SAY}
+
+[162.039]
+{SAY}Well, life goes how it goes... hic!{/SAY}
+
+[162.040]
+{SAY}Heard about this town's Bless?{/SAY}
+
+[162.041]
+{SAY}Well, organizations are the same everywhere...{WAIT}but the old Director was more reasonable, I think...{/SAY}
+
+[162.042]
+{SAY}The signing was decided so suddenly, right?{WAIT}The Bless Deputy worried and advised the Director to take it slower.{WAIT}The Director flew into a rage.{WAIT}He ended up arresting the Deputy.{/SAY}
+
+[162.043]
+{SAY}So that Director was a fake after all...{/SAY}
+
+[162.044]
+{SAY}Know the new Bless Director?{/SAY}
+
+[162.045]
+{SAY}I hope he does well!{/SAY}
+
+[162.046]
+{SAY}They say the old Deputy, Mr. McCartney, took over!{/SAY}
+
+[162.047]
+{SAY}Director Lennon's guard, was it? Those UN Building guards!{WAIT}So snooty, I can't stand them!{/SAY}
+
+[162.048]
+{SAY}Isn't big sister Linda wonderful? I admire her so~{/SAY}
+
+[162.049]
+{SAY}You! I hear you're amazing!{/SAY}
+
+[162.050]
+{SAY}Shh! If they hear, we're in trouble!{/SAY}
+
+[162.051]
+{SAY}Dammit! Those aliens!{/SAY}
+
+[162.052]
+{SAY}Good music, good drink!{WAIT}That's when life's the best!{/SAY}
+
+[162.053]
+{SAY}Why can't I just be happy?{/SAY}
+
+[162.054]
+{SAY}New York is immortal. I truly believe so.{/SAY}
+
+[162.055]
+{SAY}America has to set an example for the world.{/SAY}
+
+[162.056]
+{SAY}So close... If I'd been there, it'd have been 1000000G...{/SAY}
+
+[162.057]
+{SAY}...{PAUSE:14}America set an example of being betrayed by aliens...{/SAY}
+
+[162.058]
+{SAY}Be sure to beat the aliens.{WAIT}"Get hit, hit back. Not hit? Hit back anyway." That's the American spirit.{/SAY}
+
+[162.059]
+Joy
+{SAY}The town bigwigs want me to sing a song praising the peace treaty!{WAIT}...Give me a break!{/SAY}
+
+[162.060]
+Joy
+{SAY}Times like these, you gotta sing the best songs!!{/SAY}
+
+[162.061]
+Joy
+{SAY}I heard about you! You're doing great!{WAIT}I won't lose either!{WAIT}...Oh, right.{WAIT}Is there anyone out there working hard at music like us...?{WAIT}Our band's short of members...{/SAY}
+

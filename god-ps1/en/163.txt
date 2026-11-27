@@ -1,0 +1,184 @@
+[163.000]
+{NAME:04}
+{SAY}Sir {NAME:19}, you're awake...{/SAY}
+
+[163.002]
+{NAME:01}
+{SAY}We couldn't sleep either...{/SAY}
+
+[163.003]
+{NAME:02}
+{SAY}What that child said...{WAIT}That we{PAUSE:1E} scared her... It bothers me...{/SAY}
+
+[163.004]
+{NAME:04}
+{SAY}...{PAUSE:1E}Scared, she said...{/SAY}
+
+[163.005]
+{NAME:01}
+{SAY}...I've got a bad feeling...{/SAY}
+
+[163.006]
+{NAME:02}
+{SAY}I don't want to become a god...{/SAY}
+
+[163.007]
+{NAME:04}
+{SAY}Yet we have defeated a god...{/SAY}
+
+[163.008]
+{NAME:01}
+{SAY}Sure, we're the strongest in this world.{WAIT}If we wanted, this world would be...{/SAY}
+
+[163.009]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[163.010]
+{NAME:01}
+{SAY}Just kidding, obviously.{/SAY}
+
+[163.011]
+{NAME:04}
+{SAY}Sir {NAME:19}, shall we travel the world once more?{WAIT}I have a bad feeling.{/SAY}
+
+[163.012]
+{NAME:02}
+{SAY}{NAME:04}, but tomorrow you're going to see Fahrah...{/SAY}
+
+[163.013]
+{NAME:04}
+{SAY}She'll wait a day.{HOLD}That is the power of love.{/SAY}
+
+[163.014]
+{NAME:01}
+{SAY}{NAME:04}, lovey-dovey talk{PAUSE:28} doesn't suit you.{/SAY}
+
+[163.015]
+{NAME:04}
+{SAY}Well... I never had a youth... but now is my youth.{/SAY}
+
+[163.016]
+{NAME:02}
+{SAY}{NAME:19}, shall we go?{/SAY}
+
+[163.017]
+Batty
+{SAY}Next time... I'm the star...{/SAY}
+
+[163.018]
+Linda
+{SAY}Mumble... so full...{/SAY}
+
+[163.019]
+{NAME:01}
+{SAY}...{NAME:19}! Where are we!?{/SAY}
+
+[163.020]
+{NAME:02}
+{SAY}{NAME:19}!{/SAY}
+
+[163.021]
+{NAME:04}
+{SAY}...The hollow Earth.{/SAY}
+
+[163.022]
+{NAME:19}
+{SAY}...{PAUSE:1E}It's over.{/SAY}
+
+[163.023]
+　...{PAUSE:28}Then time went by.{WAIT}
+　Many people, dear friends,
+　were lost, but at last the world
+　found its old peace again.{WAIT}
+{CLEAR}　And {NAME:01}{PAUSE:19}.{PAUSE:19}.{PAUSE:19}.
+
+[163.024]
+　{NAME:01} started working at
+　Bless HQ in New York.{WAIT}
+　He's fired up, saying he'll
+　rebuild America.
+
+[163.025]
+　Linda smiles beside him.{HOLD}　Maybe {NAME:01} will
+　let himself love again.{WAIT}
+　Diving into the women's bath
+　with {NAME:01} stays a secret
+　from Linda forever.{WAIT}
+{CLEAR}　Of course, we will never
+　forget {NAME:03}...
+
+[163.026]
+　And {NAME:04}{PAUSE:19}.{PAUSE:19}.{PAUSE:19}.
+
+[163.027]
+　{NAME:04} lives happily
+　with Fahrah at Ararat Temple.
+
+[163.028]
+　Hearing of {NAME:04},
+　disciples and all kinds of
+　people come to Ararat Temple.
+
+[163.029]
+　{NAME:04}{PAUSE:19} says, it seems,
+　"The one single truth
+　is love."{WAIT}
+{CLEAR}　{NAME:02}{PAUSE:19}.{PAUSE:19}.{PAUSE:19}.
+
+[163.030]
+　{NAME:02} started working at
+　a shelter in Japan.{WAIT}
+　For hurt children, bullied
+　children, adults who wanted
+　to die,{WAIT}
+　she wants to see what
+　she can do.
+
+[163.031]
+　"I'm no god. I'm just
+　one weak human," she says.{WAIT}
+　{NAME:02} understands
+　hurt hearts so well.{WAIT}
+{CLEAR}　And I{PAUSE:19}.{PAUSE:19}.{PAUSE:19}.
+
+[163.034]
+　I came back to the town
+　I missed.{WAIT}
+　There's nothing here yet, but
+　I'll make it like the old town.{WAIT}
+　When it's built, I'll invite
+　everyone.{WAIT}
+　{NAME:02}, {NAME:01},
+　{NAME:04}, the Director,
+　Fahrah and Linda,{WAIT}
+　Dan Kichi, that boy,
+　that girl.{PAUSE:19}.{PAUSE:19}.{WAIT}
+　Everyone, everyone,
+　I'll invite.{WAIT}
+　I'm fine. I'm all right.
+　I'm not alone anymore.{WAIT}
+　Close my eyes, and I can
+　see them all.{WAIT}
+　I'm not alone anymore.
+
+[163.035]
+　.{PAUSE:19}.{PAUSE:19}.{PAUSE:19}I forgot!
+　Today's one year since
+　the four of us met.{PAUSE:1E}
+　I'll be busy now!
+
+[163.036]
+　Soon the people I missed
+　will come.{WAIT}
+　There's nothing here, but
+　time to get the party ready.{WAIT}
+　I'll put down my pen.
+　Soon{PAUSE:28}.{PAUSE:28}.{PAUSE:28}.{PAUSE:28} the people I missed
+　will come.{HOLD}
+
+[163.037]
+　So the story ends.
+　But
+　the world and life go on.{HOLD}
+
