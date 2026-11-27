@@ -74,10 +74,10 @@ Didja know? In some faraway world,{0D}{0A}there's supposed to be a giant robot t
 Didja know? In some faraway world,{0D}{0A}they say there are bars where you drink with girls at your side.
 
 [npc_town2_n1.4710]
-Why doesn't everyone wear tengu masks?{0D}{0A}Why would anyone wear one when it isn't even a festival?{0D}{0A}You're a strange one.
+Why doesn't everyone wear a tengu mask, you ask?{0D}{0A}Why would anyone wear one when it isn't even a festival?{0D}{0A}You're a strange one.
 
 [npc_town2_n1.4936]
-Why does everyone wear tengu masks?{0D}{0A}It's the same as nobody going out without a kimono on.{0D}{0A}You're a strange one.
+Why does everyone wear a tengu mask, you ask?{0D}{0A}It's the same as nobody going out without a kimono on.{0D}{0A}You're a strange one.
 
 [npc_town2_n1.5278]
 From today, I'm an Edo Ranger too!
