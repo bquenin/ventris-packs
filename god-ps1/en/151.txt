@@ -1,0 +1,1138 @@
+[151.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[151.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[151.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[151.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[151.005]
+Write in diary
+Read diary
+Quit
+
+[151.008]
+Captain Kukkuk
+{SAY}Hey, hey! You!{WAIT}You know this is the great Kukkuk's island, right!{/SAY}
+
+[151.009]
+Captain Kukkuk
+{SAY}Every woman on this island is miiine! Get lost!!{/SAY}
+
+[151.010]
+Pirate Underling #1
+{SAY}C-Captaaain~{/SAY}
+
+[151.011]
+Captain Kukkuk
+{SAY}Huh?{/SAY}
+
+[151.012]
+Pirate Underling #1
+{SAY}We're outmatched, Captain...{/SAY}
+
+[151.013]
+Pirate Underling #2
+{SAY}Y-yeah... let's keep this peaceful...{/SAY}
+
+[151.014]
+Captain Kukkuk
+{SAY}You...{PAUSE:1E} IDIOTS!!!{/SAY}
+
+[151.015]
+Captain Kukkuk
+{SAY}Can you call yourself a pirate if you can't protect your own family!{WAIT}Let's go, cowards!{/SAY}
+
+[151.016]
+Captain Kukkuk
+{SAY}Hyaaah!!!{/SAY}
+
+[151.017]
+Captain Kukkuk
+{SAY}Ugeh{/SAY}
+
+[151.018]
+Captain Kukkuk
+{SAY}Ngah{/SAY}
+
+[151.019]
+Captain Kukkuk
+{SAY}Zugeh{/SAY}
+
+[151.020]
+Captain Kukkuk
+{SAY}Whoa-oa-oa...{/SAY}
+
+[151.021]
+Pirate Underlings #1 & #2
+{SAY}C-Captain! ...Dammit!!{/SAY}
+
+[151.022]
+Pirate Underling #1
+{SAY}Yikes...{/SAY}
+
+[151.023]
+Pirate Underling #2
+{SAY}Whoaaa...{/SAY}
+
+[151.024]
+High Priest Kiata
+{SAY}Now! The nuisances are gone.{WAIT}Human females. Come along quietly!{/SAY}
+
+[151.025]
+{NAME:02}
+{SAY}Why would you do this...! Unforgivable!{/SAY}
+
+[151.026]
+High Priest Kiata
+{SAY}A spirited woman... But how long will it last! Go!!{/SAY}
+
+[151.027]
+{NAME:02}
+{SAY}Hah!{/SAY}
+
+[151.028]
+High Priest Kiata
+{SAY}Oho... that power! I like it!! I'll deal with you myself!{/SAY}
+
+[151.029]
+{NAME:02}
+{SAY}Kyaah!{/SAY}
+
+[151.030]
+Kitty
+{SAY}Mama {NAME:02}!{/SAY}
+
+[151.031]
+{NAME:02}
+{SAY}..................{/SAY}
+
+[151.032]
+{NAME:01}
+{SAY}{NAME:02}!!!{/SAY}
+
+[151.033]
+{NAME:04}
+{SAY}Lady {NAME:02}! Are you all right!?{/SAY}
+
+[151.034]
+{NAME:01}
+{SAY}Hang in there!{/SAY}
+
+[151.035]
+{NAME:02}
+{SAY}Everyone... {NAME:19}...?{/SAY}
+
+[151.036]
+{NAME:01}
+{SAY}{NAME:02}! Your memory's back!?{/SAY}
+
+[151.037]
+{NAME:02}
+{SAY}I... how...?{/SAY}
+
+[151.038]
+High Priest Kiata
+{SAY}Tch... you lot again!{/SAY}
+
+[151.039]
+{NAME:01}
+{SAY}You bastard! I won't forgive you!{/SAY}
+
+[151.040]
+High Priest Kiata
+{SAY}Curse youuuu!!{WAIT}You'll pay for this!{/SAY}
+
+[151.041]
+{SAY}Kyah! What! You pervert!{/SAY}
+
+[151.042]
+{SAY}Feed me? What! How rude!{/SAY}
+
+[151.043]
+{SAY}You... you're kind of nice...{WAIT}Maybe I'll have a drink too.{/SAY}
+
+[151.044]
+{SAY}Hey, hey, did you hear!?{/SAY}
+
+[151.045]
+{SAY}Waaah! I wanna get married too!!{/SAY}
+
+[151.046]
+{SAY}The pirate captain's getting married! They say his bride is suuuper pretty!{WAIT}I'd love to see her~!{/SAY}
+
+[151.047]
+{SAY}Hey, hey, did you hear!?{/SAY}
+
+[151.048]
+{SAY}Waaah! Maybe I'll ask him to make me his bride too~!{/SAY}
+
+[151.049]
+{SAY}The pirate captain drove off the aliens!{WAIT}So he's not just a lecher after all!{/SAY}
+
+[151.050]
+{SAY}Huh? I'm not cold or anything...?{/SAY}
+
+[151.051]
+{SAY}Even if you say "paw"...{/SAY}
+
+[151.052]
+{SAY}Um... are you okay?{/SAY}
+
+[151.053]
+{SAY}A while back, a pretty lady washed up on the beach.{WAIT}I tried to nurse her, but the pirates took her away.{WAIT}I wonder how she's doing{/SAY}
+
+[151.054]
+{SAY}A while back, lots of UFOs flew off to the east.{WAIT}I wonder if something's there...{/SAY}
+
+[151.055]
+{SAY}Kyah! What do you think you're doing!{/SAY}
+
+[151.056]
+{SAY}What! No need to be so surprised!{WAIT}I don't bite!{/SAY}
+
+[151.057]
+{SAY}Don't come near me!{/SAY}
+
+[151.058]
+{SAY}Welcome to Bali Island!{WAIT}It's a very peaceful island, but watch out for the pirates in the cave out back!{/SAY}
+
+[151.059]
+{SAY}Welcome to Bali Island!{WAIT}It's a very peaceful island, but watch out for drinking too much mushroom juice!{/SAY}
+
+[151.060]
+{SAY}How rude! Calling a lady "mister"!{/SAY}
+
+[151.061]
+{SAY}Hey! "Shoo, shoo"... I'm not a dog!{/SAY}
+
+[151.062]
+{SAY}Eww! Pervert!{/SAY}
+
+[151.063]
+{SAY}Huh, you came by ship... Lucky.{WAIT}If you came by ship, you met the Bun King, right?{/SAY}
+
+[151.064]
+{SAY}Buns are delicious, aren't they!{/SAY}
+
+[151.065]
+{SAY}Oh, he's on an island near Honmaka Town.{/SAY}
+
+[151.066]
+{SAY}Welcome to Bali Islaaand. When you come to Bali Island, you've gotta get a souvenir~.{/SAY}
+
+[151.067]
+{SAY}Oh! You're pretty far gone~! Good, right? Mushroom juice!{HOLD}Everyone looks weird because of the juice.{WAIT}Well, it'll wear off, so enjoy.{/SAY}
+
+[151.068]
+{SAY}Oh my! Are you all right?{WAIT}Everyone looks weird because of the juice.{WAIT}Well, it'll wear off, so enjoy.{/SAY}
+
+[151.069]
+{SAY}That's overdoing it a bit.{WAIT}Do you realize you look like a bath-house granny?{/SAY}
+
+[151.070]
+{SAY}Leave me be. Drinking mushroom juice, I'll happily end my days here.{/SAY}
+
+[151.071]
+"Have a nice trip with mushrooms!
+　　Medium mug...500G
+　　Small mug....200G"
+
+[151.072]
+Juice Seller
+{SAY}Bali Island's famous magic mushroom juice!{HOLD}...What! You'll try the Special Mug!?{PAUSE:14} Seriously?{/SAY}
+
+[151.073]
+Juice Seller
+{SAY}Holy cow!!{WAIT}Then it's 1000G a go!{/SAY}
+
+[151.074]
+Juice Seller
+{SAY}Not my problem!{/SAY}
+
+[151.075]
+{SAY}What, you don't have the money!{/SAY}
+
+[151.076]
+Juice Seller
+{SAY}Right? Whew, you scared me!{/SAY}
+
+[151.077]
+Juice Seller
+{SAY}Right? Whew, you scared me!{/SAY}
+
+[151.078]
+Juice Seller
+{SAY}Bali Island's famous magic mushroom juice!{HOLD}You can only drink it on this island! Drink it anywhere else and you'll get in trouble!{WAIT}Want to try some?{/SAY}
+
+[151.079]
+Medium mug...500G
+Small mug....200G
+Quit
+
+[151.080]
+{SAY}Chicken!{/SAY}
+
+[151.081]
+{SAY}Chicken!{/SAY}
+
+[151.082]
+Juice Seller
+{SAY}Bali Island's famous magic mushroom juice!{HOLD}...Sorry, we're not open yet. Come back later!!{/SAY}
+
+[151.083]
+{SAY}Nice trip!{/SAY}
+
+[151.084]
+{SAY}You don't have enough money!{/SAY}
+
+[151.085]
+{SAY}Nice trip!{/SAY}
+
+[151.086]
+{SAY}You don't have enough money!{/SAY}
+
+[151.087]
+{SAY}Southern-island nurses give puff-puff anytime, anywhere! ...So, what's wrong with you?{/SAY}
+
+[151.088]
+{SAY}Oh no. You don't have enough money!{/SAY}
+
+[151.089]
+{SAY}Sleep in the shade of the palm trees~? 1000G and don't worry, be happy~.{/SAY}
+
+[151.090]
+{SAY}Oh~ will granny sleep in the shade of the palm trees too~?{HOLD}1000G and don't worry, be happy~.{WAIT}If you go straight to heaven, we're not responsible, though~.{/SAY}
+
+[151.091]
+{SAY}Hey!{WAIT}Don't talk to me like I'm some dog!!{WAIT}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:3C}Well,{PAUSE:3C} whatever!{WAIT}Sleep in the shade of the palm trees~? 1000G and don't worry, be happy~.{/SAY}
+
+[151.092]
+{SAY}You don't have enough money!{/SAY}
+
+[151.093]
+{SAY}Then want to look at your diary on the quiet?{/SAY}
+
+[151.094]
+{SAY}Be happy!{/SAY}
+
+[151.095]
+{SAY}Live a long life~!{/SAY}
+
+[151.096]
+Batty
+{SAY}Jeez... first I get frozen, then I get caught in a storm. I can't take it.{WAIT}Gotta kick back like this once in a while...{PAUSE:1E} Hm?{/SAY}
+
+[151.097]
+Batty
+{SAY}...Ah!{PAUSE:1E} {NAME:19}! You never quit!{WAIT}I,{PAUSE:0A} I want a break once in a while too!{WAIT}Dammit! I was relaxing, I'm not ready to fight!{WAIT}Next time we meet will be the end of {NAME:19}!{/SAY}
+
+[151.098]
+Batty
+{SAY}...Forget today ever happened!{/SAY}
+
+[151.099]
+{SAY}Waaait!!!{/SAY}
+
+[151.100]
+Pirate Underling #1
+{SAY}This is the hideout of the great pirate, Captain Kukkuk!{WAIT}What do you want?{/SAY}
+
+[151.101]
+Let us in
+Let us see the captain
+Let us join you
+Nothing
+
+[151.102]
+{SAY}Hmph! Only a man among men may enter here!{WAIT}Kids like you, go home, go home!{WAIT}Is that all?{/SAY}
+
+[151.103]
+{SAY}Hmph! The captain meets no one but a man among men!!{WAIT}Kids like you, go home, go home!{WAIT}Is that all?{/SAY}
+
+[151.104]
+{SAY}What!? You serious!? You want to join us?{/SAY}
+
+[151.105]
+Pirate Underling #1
+{SAY}What? You drank the Special Mug?{WAIT}...You sure don't look it.{WAIT}You've gotta come right after you drink it. So, do it over~{/SAY}
+
+[151.106]
+Pirate Underling #1
+{SAY}What!? You really drank the Special Mug!?{WAIT}Looking like that...{PAUSE:46} bleagh{PAUSE:28} sure enough.{WAIT}...Wait right there!{WAIT}Oh, before that.{/SAY}
+
+[151.107]
+Pirate Underling #1
+{SAY}Awake now? Then wait right there.{/SAY}
+
+[151.108]
+Pirate Underling #1
+{SAY}Our captain, the man among men, the great Kukkuk, will see you!{WAIT}Go on in!!{/SAY}
+
+[151.109]
+{SAY}Hmph! If you've got no business, get lost!{/SAY}
+
+[151.110]
+Pirate Underling #1
+{SAY}...{PAUSE:1E}Good man! That's a man among men!{WAIT}But we can't let you join right away.{WAIT}We'll see if you're a man among men!{/SAY}
+
+[151.111]
+Pirate Underling #1
+{SAY}They sell mushroom juice on the beach, right?{WAIT}Go drink the Special Mug!!{WAIT}Drink it down and we'll admit you're a man among men!{WAIT}Now! Off you go!{/SAY}
+
+[151.112]
+Pirate Underling #1
+{SAY}Captain Kukkuk is a man among men!{HOLD}Make him mad and you're in trouble!{/SAY}
+
+[151.113]
+Pirate Underling #1
+{SAY}Thanks! Brother of the sea!{/SAY}
+
+[151.114]
+Pirate Underling #2
+{SAY}We're on the side of the weak!{HOLD}'Cause we're men among men!{/SAY}
+
+[151.115]
+Pirate Underling #2
+{SAY}Hey! Leave the small-fry monsters to us!{/SAY}
+
+[151.116]
+{SAY}This is terrible!{HOLD}I can't do anything, but I can help you write in your diary.{WAIT}Will you write in your diary?{/SAY}
+
+[151.117]
+{SAY}Do your best!{/SAY}
+
+[151.118]
+{SAY}{NAME:19}!{/SAY}
+
+[151.119]
+{NAME:01}
+{SAY}Looks like things are getting bad...!{/SAY}
+
+[151.120]
+{NAME:04}
+{SAY}The one who just ran out was surely Lady {NAME:02}...{WAIT}Sir {NAME:19}, let's hurry!{/SAY}
+
+[151.121]
+{SAY}Cooking... it's tough, man.{WAIT}But Kitty's looking after the new bride...{/SAY}
+
+[151.122]
+{SAY}I want to get married soon too, man.{HOLD}For that, I've gotta be able to cook something!{/SAY}
+
+[151.123]
+{SAY}Zzz... tweet tweet...{/SAY}
+
+[151.124]
+{SAY}I want to get married soon too, man.{HOLD}For that, I've gotta be able to cook something!{/SAY}
+
+[151.125]
+{SAY}I'm so moved I get to help Kitty, man!{/SAY}
+
+[151.126]
+　Oh, that's right!{WAIT}Here, a thank-you, man!
+
+[151.127]
+
+《Got a Pirate Bun!》
+
+[151.128]
+{SAY}A man's home cooking, man! I'll give you more when I make some.{/SAY}
+
+[151.129]
+Kitty
+{SAY}Come on, out! Out!{WAIT}Mama {NAME:02} is sick!!{/SAY}
+
+[151.130]
+Kitty
+{SAY}Ah! Mama {NAME:02}! I'm fine!{WAIT}You do your best too, Mama {NAME:02}!{/SAY}
+
+[151.131]
+Kitty
+{SAY}Hey, you there! Work properly!{/SAY}
+
+[151.132]
+{SAY}Yes ma'am!!{/SAY}
+
+[151.136]
+Pirate Underling #3
+{SAY}Hey! You, new guy!{/SAY}
+
+[151.137]
+Pirate Underling #3
+{SAY}We've got wedding preparations to do!{WAIT}No slacking!{/SAY}
+
+[151.138]
+Pirate Underling #3
+{SAY}All right! Everyone! Let's begin!!{/SAY}
+
+[151.139]
+{SAY}Yeahhh!!!!{/SAY}
+
+[151.140]
+Captain Kukkuk
+{SAY}Hey! You lot! Today's my wedding! Enjoy yourselves!{/SAY}
+
+[151.141]
+{SAY}Wedding, wedding!{/SAY}
+
+[151.142]
+{SAY}You go, Captain!{/SAY}
+
+[151.143]
+{SAY}Yeah! Man among men!!{/SAY}
+
+[151.144]
+{SAY}Awesome!{/SAY}
+
+[151.145]
+Captain Kukkuk
+{SAY}Wahahahaha!! Now, let me introduce my brides!{/SAY}
+
+[151.146]
+Captain Kukkuk
+{SAY}Come on out!{/SAY}
+
+[151.147]
+Captain Kukkuk
+{SAY}Wahahahaha!! Not bad, eh~! Every one of 'em's my pride and joy!{WAIT}One more, a fresh new one, is sick in bed, but don't mind that, enjoy yourselves!{WAIT}Gwahahahaha!!{/SAY}
+
+[151.148]
+{SAY}DRINK DRINK, SING~!{/SAY}
+
+[151.149]
+Pirate Underling #3
+{SAY}Hey! New guy!{/SAY}
+
+[151.150]
+Pirate Underling #3
+{SAY}Cleaning up is the bottom rung's job!{/SAY}
+
+[151.151]
+Pirate Underling #3
+{SAY}Hey! You, new guy!{/SAY}
+
+[151.152]
+Pirate Underling #3
+{SAY}That's rude, in the middle of the wedding!{/SAY}
+
+[151.155]
+Captain Kukkuk
+{SAY}Hey~! New guys! What are you doing!{WAIT}You drink tooo~!! Hic!{/SAY}
+
+[151.156]
+　　DRINK DRINK, SING!!
+
+[151.157]
+{SAY}We were all taken in by the captain.{WAIT}He may not look it, but the captain's a good man.{/SAY}
+
+[151.158]
+{SAY}The captain marries so many brides for our sake.{PAUSE:1E} ...Probably.{/SAY}
+
+[151.159]
+{SAY}Happiness is... zzz......{/SAY}
+
+[151.160]
+{SAY}When I grow up, I'll take looots of brides like the captain!{/SAY}
+
+[151.161]
+{SAY}The captain has amazing treasure!{WAIT}'Cause he's a pirate!{/SAY}
+
+[151.162]
+{SAY}He's something, the captain!{/SAY}
+
+[151.163]
+{SAY}Mama...{/SAY}
+
+[151.164]
+{SAY}I think my mama's still alive somewhere.{WAIT}So someday...!{/SAY}
+
+[151.165]
+{SAY}Hey! A new guy! In this business, experience beats age! I'll work you hard, so be ready!{/SAY}
+
+[151.166]
+{SAY}Yo! New guy! Working hard?{/SAY}
+
+[151.167]
+{SAY}What? You're quitting piracy!? If you leave, I'm back on the bottom rung!{/SAY}
+
+[151.168]
+{SAY}Ahh, so busy! Come on, you're in the way!{/SAY}
+
+[151.169]
+{SAY}The captain says be a man among men, but what about Kitty...{/SAY}
+
+[151.170]
+{SAY}You guys are the captain's brothers of the sea?{WAIT}Then you're like family to us too!{/SAY}
+
+[151.171]
+{SAY}It's been crazy since morning! It's the captain's wedding, after all!{/SAY}
+
+[151.172]
+{SAY}The women marrying the captain were in trouble too, like us, and the captain saved them.{WAIT}The captain can't leave people in trouble alone!{/SAY}
+
+[151.173]
+{SAY}Are you guys getting married too?{/SAY}
+
+[151.174]
+{SAY}Everyone calls him captain, but to us he's like a dad.{WAIT}He's scary when he's mad, but you can really count on him!{/SAY}
+
+[151.175]
+{SAY}Four brides at once! That's Captain Kukkuk! He does things big!{/SAY}
+
+[151.176]
+{SAY}Mister! Thank you so much!{/SAY}
+
+[151.177]
+{SAY}Nice to meet you!{WAIT}I'm Pippi, Kukkuk's new lawful wife!{HOLD}He's suuuper sweet!{/SAY}
+
+[151.178]
+{SAY}Cleaning up... ...{PAUSE:1E}zzz...{/SAY}
+
+[151.179]
+{SAY}The captain's so dreamy after all! Pippi's so moved!{/SAY}
+
+[151.180]
+{SAY}Hello!{WAIT}I'm Poppo, Mr. Kukkuk's new true wife!{WAIT}He's sooo manly!{/SAY}
+
+[151.181]
+{SAY}Mumble mumble... happy...{/SAY}
+
+[151.182]
+{SAY}He really tried to save Poppo, didn't he!{/SAY}
+
+[151.183]
+{SAY}How do you do.{WAIT}I'm Chichi, Captain Kukkuk's new number-one wife.{WAIT}The three of us were saved by the captain when monsters attacked us!{/SAY}
+
+[151.184]
+{SAY}I can't drink any more~... zzz...{/SAY}
+
+[151.185]
+{SAY}He couldn't beat the aliens, but Chichi and the others fell for his courage in fighting without running away.{WAIT}That's not easy to do!{/SAY}
+
+[151.186]
+Captain Kukkuk
+{SAY}Hey! You lot! Today's my wedding! Enjoy yourselves!{/SAY}
+
+[151.187]
+Captain Kukkuk
+{SAY}Guooooooh...{/SAY}
+
+[151.188]
+Captain Kukkuk
+{SAY}Do I even need a line?{/SAY}
+
+[151.189]
+{SAY}DRINK DRINK, SING~!{/SAY}
+
+[151.190]
+{SAY}GET TO WORK!{/SAY}
+
+[151.192]
+{NAME:01}
+{SAY}Zzz... zzz...{/SAY}
+
+[151.193]
+{NAME:04}
+{SAY}Mumble mumble... this too is training...{/SAY}
+
+[151.194]
+Captain Kukkuk
+{SAY}Hey! You lot! Well done! Just what I'd expect of my underlings!{WAIT}No, from today I'll call you my brothers of the sea!{/SAY}
+
+[151.195]
+{SAY}BROTHERS, BROTHERS!{/SAY}
+
+[151.196]
+Captain Kukkuk
+{SAY}By the way... that girl there, wasn't she my fourth bride?{/SAY}
+
+[151.197]
+{SAY}BRIDE, BRIDE!{/SAY}
+
+[151.198]
+{NAME:02}
+{SAY}Captain...{/SAY}
+
+[151.199]
+Captain Kukkuk
+{SAY}Gahaha! Looks like your memory's back!{/SAY}
+
+[151.200]
+Captain Kukkuk
+{SAY}If your memory hadn't come back, I figured I'd have to look after you.{WAIT}But I'm a man they call a man among men.{WAIT}I can't go back on my word so easily.{/SAY}
+
+[151.201]
+{SAY}THAT'S RIGHT, THAT'S RIGHT!{/SAY}
+
+[151.202]
+{NAME:01}
+{SAY}What!{WAIT}So you're saying you won't give {NAME:02} back!{/SAY}
+
+[151.203]
+{NAME:02}
+{SAY}...................{/SAY}
+
+[151.204]
+Captain Kukkuk
+{SAY}Easy, kid. Here's the deal.{WAIT}As thanks for saving my island, I'll give you the finest woman among my brides.{WAIT}If one of you takes her as your bride, we'll truly be brothers of the sea.{WAIT}How's that?{/SAY}
+
+[151.205]
+{SAY}HOW'S THAT, HOW'S THAT?{/SAY}
+
+[151.206]
+{NAME:04}
+{SAY}Could it be that this bride is...{/SAY}
+
+[151.207]
+{NAME:02}
+{SAY}Me!?{/SAY}
+
+[151.208]
+Captain Kukkuk
+{SAY}Who else would it be!{/SAY}
+
+[151.209]
+{NAME:01}
+{SAY}That's crazy!{/SAY}
+
+[151.210]
+Captain Kukkuk
+{SAY}Nothing else will dooo! That's the law of the sea!!{/SAY}
+
+[151.211]
+{NAME:04}
+{SAY}...What shall we do?{/SAY}
+
+[151.212]
+{NAME:01}
+{SAY}What can we do...{/SAY}
+
+[151.213]
+{NAME:02}
+{SAY}Me... a bride?{/SAY}
+
+[151.214]
+{NAME:01}
+{SAY}Ah!{/SAY}
+
+[151.215]
+{NAME:01}
+{SAY}Not me! I can't betray {NAME:03}!{/SAY}
+
+[151.216]
+{NAME:04}
+{SAY}N-nor I, for I am still in training!{/SAY}
+
+[151.217]
+{NAME:01}
+{SAY}But...{PAUSE:3C} {NAME:19} has Princess Myaa too...{/SAY}
+
+[151.218]
+{NAME:02}
+{SAY}Princess Myaa...?{WAIT}Who is that?{/SAY}
+
+[151.219]
+{NAME:04}
+{SAY}Oho!?{WAIT}Sir {NAME:19} has such a past{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{/SAY}
+
+[151.220]
+{NAME:01}
+{SAY}Well,{PAUSE:46} whatever!!{WAIT}Compared to the captain's three, two's nothing!!{/SAY}
+
+[151.221]
+{NAME:04}
+{SAY}We must set off quickly!{/SAY}
+
+[151.222]
+{NAME:02}
+{SAY}Is that all right, {NAME:19}?{/SAY}
+
+[151.223]
+{NAME:01}
+{SAY}That's the spirit!{/SAY}
+
+[151.224]
+{NAME:01}
+{SAY}That's not very manly! I told you it's just for show!{/SAY}
+
+[151.225]
+Captain Kukkuk
+{SAY}Looks like it's settled!{WAIT}So, who's taking my bride?{/SAY}
+
+[151.226]
+Captain Kukkuk
+{SAY}All right! Brother!{WAIT}From now on, you and I are brothers of the sea!{WAIT}If you're ever in trouble, I'll help anytime!{WAIT}Oh, that's right! {NAME:02}, was it! Take this!{/SAY}
+
+[151.227]
+Captain Kukkuk
+{SAY}An amazing jewel I got when I was young!{WAIT}Call it a wedding favor. Gahahahaha!{/SAY}
+
+[151.228]
+
+《Got the Amazing Jewel!》
+
+[151.229]
+Captain Kukkuk
+{SAY}So long, brother! Come visit anytime. Gahahahaha!{/SAY}
+
+[151.230]
+Kitty
+{SAY}Are you okay? Mama {NAME:02}?{/SAY}
+
+[151.231]
+{NAME:02}
+{SAY}Yes... I'm fine. Thank you...{/SAY}
+
+[151.232]
+Kitty
+{SAY}Mama {NAME:02}, you're sick, so don't push yourself!{WAIT}I'll bring you some water!{/SAY}
+
+[151.233]
+Kitty
+{SAY}Stay in bed like a good girl!{/SAY}
+
+[151.234]
+Kitty
+{SAY}Kyah!!{/SAY}
+
+[151.235]
+Kitty
+{SAY}Ah, you scared me! ...Mister, do you want something with Mama {NAME:02}?{/SAY}
+
+[151.236]
+Kitty
+{SAY}Hmm...{PAUSE:14} Mama {NAME:02} is sick, so no mischief!{WAIT}Come on, move, move!{/SAY}
+
+[151.237]
+{NAME:01}
+{SAY}{NAME:02}! You're safe!{/SAY}
+
+[151.238]
+{NAME:04}
+{SAY}We were worried... Lady {NAME:02}...{/SAY}
+
+[151.239]
+{NAME:01}
+{SAY}What's wrong, {NAME:02}? Are you sick?{WAIT}Come to think of it, they said something about being ill...{/SAY}
+
+[151.240]
+{NAME:02}
+{SAY}Who... are you?{/SAY}
+
+[151.241]
+{NAME:04}
+{SAY}What has happened! Lady {NAME:02}!{/SAY}
+
+[151.242]
+{NAME:02}
+{SAY}I'm sorry... I don't know who you are...{/SAY}
+
+[151.243]
+{NAME:04}
+{SAY}What!{/SAY}
+
+[151.244]
+{NAME:01}
+{SAY}What!{/SAY}
+
+[151.245]
+{NAME:02}
+{SAY}When I washed up on this island's beach, all I remembered was my own name...{WAIT}So...{/SAY}
+
+[151.246]
+{NAME:04}
+{SAY}Amnesia...{/SAY}
+
+[151.247]
+{NAME:01}
+{SAY}What!{/SAY}
+
+[151.248]
+{NAME:04}
+{SAY}She must have hit her head badly in the storm...{/SAY}
+
+[151.249]
+{NAME:01}
+{SAY}That's crazy! So she forgot everything!{WAIT}The journey, her friends!{/SAY}
+
+[151.250]
+{NAME:02}
+{SAY}...I'm sorry.{/SAY}
+
+[151.251]
+
+《{NAME:19} gently took {NAME:02}'s hand...》
+
+[151.252]
+《{NAME:19}'s heart flowed into {NAME:02}'s heart...》
+
+[151.253]
+{NAME:02}
+{SAY}No! Stop!{/SAY}
+
+[151.254]
+{NAME:02}
+{SAY}Don't make me use this power! No!{PAUSE:14} I don't want it anymore!{PAUSE:14} Nooooooo!!!{/SAY}
+
+[151.255]
+{NAME:01}
+{SAY}Wh-what's wrong, {NAME:02}!{/SAY}
+
+[151.256]
+Kitty
+{SAY}Heyyy!! What are you doing!!{/SAY}
+
+[151.257]
+Kitty
+{SAY}Mama {NAME:02} is sick!{WAIT}Shame on you, mister!{/SAY}
+
+[151.258]
+Kitty
+{SAY}Now! Out, quick!{WAIT}This is a lady's bedroom!{/SAY}
+
+[151.259]
+{NAME:01}
+{SAY}What do we do!? Seriously...{/SAY}
+
+[151.260]
+{NAME:04}
+{SAY}It seems all we can do is wait and see for a while...{/SAY}
+
+[151.264]
+{NAME:02}
+{SAY}Kitty...{/SAY}
+
+[151.265]
+Kitty
+{SAY}Mama {NAME:02}!{/SAY}
+
+[151.266]
+{NAME:02}
+{SAY}Kitty...{/SAY}
+
+[151.267]
+Kitty
+{SAY}You're leaving, aren't you. Mama {NAME:02}...{/SAY}
+
+[151.268]
+{NAME:02}
+{SAY}I'm sorry, Kitty. I......{/SAY}
+
+[151.269]
+Kitty
+{SAY}No. It's okay.{WAIT}I know you've been suffering all this time, feeling like you had to do something, Mama {NAME:02}.{WAIT}It's just, Kitty thought of you like a real mama...{/SAY}
+
+[151.270]
+{NAME:02}
+{SAY}Kitty...{/SAY}
+
+[151.271]
+Kitty
+{SAY}But I'm okay now!{WAIT}I've decided that now Kitty will be the mama for everyone!{/SAY}
+
+[151.272]
+{NAME:02}
+{SAY}Huh?{/SAY}
+
+[151.273]
+Kitty
+{SAY}'Cause the captain keeps bringing home kids like me.{WAIT}And the three girls he just married are hopeless.{WAIT}So I've got to be the responsible one!{/SAY}
+
+[151.274]
+{NAME:02}
+{SAY}Kitty...{/SAY}
+
+[151.275]
+Kitty
+{SAY}So don't worry! Mama {NAME:02}!!{/SAY}
+
+[151.276]
+{NAME:02}
+{SAY}And I...{/SAY}
+
+[151.277]
+Kitty
+{SAY}Huh?{/SAY}
+
+[151.278]
+{NAME:02}
+{SAY}And I will fight so that no more children like you ever appear again.{WAIT}I remembered. Why I chose to fight.{WAIT}What I'm fighting for.{/SAY}
+
+[151.279]
+Kitty
+{SAY}Mama {NAME:02}...{/SAY}
+
+[151.280]
+{NAME:02}
+{SAY}Someday, when there's peace, let's have a nice long talk!{WAIT}About fashion and cooking, and boys too!{WAIT}Until then, let's both do our best!{/SAY}
+
+[151.281]
+Kitty
+{SAY}Mama {NAME:02}...{PAUSE:1E} Okay!{WAIT}You do your best too, Mama {NAME:02}!{WAIT}
+{/SAY}
+
+[151.282]
+Kitty
+{SAY}Oh! That's right!{WAIT}I'll teach you this, Mama {NAME:02}!{WAIT}My real mama was good at it!{/SAY}
+
+[151.283]
+
+《{NAME:02} learned "Devotion"!》
+
+[151.284]
+Kitty
+{SAY}Bye! Mama {NAME:02}!{/SAY}
+
+[151.285]
+Kitty
+{SAY}{NAME:19}!!{WAIT}If you make Mama {NAME:02} cry, you'll be sorry!!{/SAY}
+
+[151.286]
+{NAME:02}
+{SAY}Come on! {NAME:19}! Let's go!{/SAY}
+
+[151.293]
+{NAME:02}
+{SAY}...You.{/SAY}
+
+[151.294]
+{NAME:02}
+{SAY}...I'm sorry about before. I don't know myself why I said that...{/SAY}
+
+[151.295]
+{NAME:02}
+{SAY}Who I am...{WAIT}why I have this power...{/SAY}
+
+[151.296]
+{NAME:02}
+{SAY}You know, don't you? Please... won't you tell me?{/SAY}
+
+[151.297]
+{NAME:02}
+{SAY}Please... tell me anything at all!{/SAY}
+
+[151.298]
+
+《{NAME:19} told her everything that had happened.》
+
+[151.299]
+{NAME:02}
+{SAY}I see... to defeat the aliens...{/SAY}
+
+[151.300]
+{NAME:02}
+{SAY}Ever since I woke up here, I've heard a voice deep in my heart...{WAIT}I have to do something. I have to go, quickly...{/SAY}
+
+[151.301]
+{NAME:02}
+{SAY}...I'm sorry. It doesn't feel real at all.{WAIT}How could I have done such amazing things...{/SAY}
+
+[151.302]
+{NAME:02}
+{SAY}...I'm sorry.{/SAY}
+
+[151.303]
+{NAME:02}
+{SAY}Kyaah!{/SAY}
+
+[151.304]
+{NAME:02}
+{SAY}What... is it!?{/SAY}
+
+[151.305]
+{SAY}Th-this is bad~ The aliens are attacking!{WAIT}They're grabbing the women one after another! New guys! Battle stations!{/SAY}
+
+[151.306]
+{NAME:02}
+{SAY}Aliens...? Why...?{PAUSE:14} Ah!{PAUSE:14} Kitty!{/SAY}
+
+[151.307]
+Captain Kukkuk
+{SAY}Hey! So you're the men who want to join us!{/SAY}
+
+[151.308]
+{SAY}MEN, ARE YOU!{/SAY}
+
+[151.309]
+Captain Kukkuk
+{SAY}Normally there's a striiict test...{WAIT}but you're in luck!! I'm about to take a bride!{/SAY}
+
+[151.310]
+{SAY}BRIDE, BRIDE, HOORAY!{/SAY}
+
+[151.311]
+Captain Kukkuk
+{SAY}So, to celebrate, I've decided to let you join, special!!{/SAY}
+
+[151.312]
+{SAY}HE HAS! REJOICE!{/SAY}
+
+[151.313]
+Captain Kukkuk
+{SAY}Tonight there's a feast! Till then, take it easy!{/SAY}
+
+[151.314]
+{NAME:04}
+{SAY}This bride......{/SAY}
+
+[151.315]
+{NAME:01}
+{SAY}No...{PAUSE:46} it couldn't be.{/SAY}
+
+[151.316]
+Pirate Underling #6
+{SAY}This is the bride's room!{WAIT}I'm watching so the bride doesn't run...{PAUSE:14} ah!{PAUSE:14} I mean!{PAUSE:14} so no weirdos come near!{WAIT}No one gets in till the ceremony starts!{/SAY}
+
+[151.317]
+Pirate Underling #6
+{SAY}Kitty's feeling down.{WAIT}Won't you cheer her up?{/SAY}
+
+[151.318]
+Pirate Underling #6
+{SAY}When Kitty's cheerful, everyone's cheerful.{WAIT}She's like a little mom, you know!{/SAY}
+
+[151.319]
+Captain Kukkuk
+{SAY}Tonight there's a feast! Till then, take it easy!{/SAY}
+
+[151.320]
+Captain Kukkuk
+{SAY}Whee... are you drinkin'!{/SAY}
+
+[151.321]
+Captain Kukkuk
+{SAY}Good luck! Brother of the sea!{/SAY}
+
+[151.322]
+Captain Kukkuk
+{SAY}Tonight there's a feast! Till then, take it easy!{/SAY}
+
+[151.323]
+Captain Kukkuk
+{SAY}Whee... are you drinkin'!{/SAY}
+
+[151.324]
+Captain Kukkuk
+{SAY}Good luck! Brother of the sea!{/SAY}
+
+[151.325]
+{SAY}WEDDING! WEDDING! HOORAY!{/SAY}
+
+[151.326]
+{SAY}BRIDE, BRIDE, HOORAY!{/SAY}
+
+[151.327]
+{SAY}BROTHERS! BROTHERS!{/SAY}
+
+[151.328]
+Kitty
+{SAY}Now! Out, quick!{WAIT}This is a lady's bedroom!{/SAY}
+
+[151.329]
+{NAME:02}
+{SAY}...................{/SAY}
+
