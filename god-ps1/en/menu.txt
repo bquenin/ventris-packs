@@ -1,5 +1,29 @@
 # Main menu labels, in the small font's capitals.
 
+[menu.003328]
+%d LEFT
+
+[menu.005576]
+BUY
+
+[menu.005580]
+SEL
+
+[menu.005584]
+LEAVE
+
+[menu.005592]
+OWNED
+
+[menu.005620]
+OK NO
+
+[menu.005840]
+BEATEN
+
+[menu.863884]
+%8d
+
 [menu.687388]
 ITEMS
 
