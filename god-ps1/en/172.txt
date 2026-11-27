@@ -1,0 +1,236 @@
+[172.000]
+Write in diary
+Read diary
+Quit
+
+[172.002]
+{NAME:04}
+{SAY}Sir {NAME:19}! Wait!{/SAY}
+
+[172.003]
+{NAME:04}
+{SAY}Here...{/SAY}
+
+[172.004]
+{NAME:01}
+{SAY}What's this?{/SAY}
+
+[172.005]
+{NAME:02}
+{SAY}Some kind of switch?{/SAY}
+
+[172.006]
+{NAME:01}
+{SAY}{NAME:19}! Let's press it!{/SAY}
+
+[172.007]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.008]
+
+《Some device seems to have started...》
+
+[172.009]
+Emperor Catastrophe
+{SAY}Heh heh heh...{WAIT}You came all this way just to be killed.{/SAY}
+
+[172.010]
+{NAME:01}
+{SAY}Shut up! I won't forgive a liar like you!{/SAY}
+
+[172.011]
+Emperor Catastrophe
+{SAY}Liar? This is the trouble with lower life forms.{/SAY}
+
+[172.012]
+{NAME:04}
+{SAY}What do you mean!!{/SAY}
+
+[172.013]
+Emperor Catastrophe
+{SAY}...What you call "ruins"...{WAIT}Yes, these structures beneath our feet were built by us, the Native Earth.{/SAY}
+
+[172.014]
+{NAME:02}
+{SAY}...No!{/SAY}
+
+[172.015]
+Emperor Catastrophe
+{SAY}Chichen Itza means "road to the sky" in our ancient tongue.{WAIT}You foolish creatures merely stole our civilization.{/SAY}
+
+[172.016]
+{NAME:01}
+{SAY}Liar!{/SAY}
+
+[172.017]
+Emperor Catastrophe
+{SAY}Foolish creatures.{/SAY}
+
+[172.018]
+{NAME:04}
+{SAY}Did you make the God Stones too!?{/SAY}
+
+[172.019]
+Emperor Catastrophe
+{SAY}No. But you're about to die, so you needn't know.{WAIT}It won't go like New York! Die!{/SAY}
+
+[172.020]
+Emperor Catastrophe
+{SAY}Curse you... curse youuu!{/SAY}
+
+[172.021]
+{NAME:04}
+{SAY}Hm...? What's that...{/SAY}
+
+[172.022]
+{NAME:04}
+{SAY}What a strange... glowing stone!!{/SAY}
+
+[172.023]
+{NAME:02}
+{SAY}What is it?{/SAY}
+
+[172.024]
+{NAME:01}
+{SAY}That stone... isn't it floating!?{/SAY}
+
+[172.025]
+{NAME:04}
+{SAY}It seems this spaceship's secret lies in this stone...{/SAY}
+
+[172.026]
+
+《Got the Strange Glowing Stone!》
+
+[172.027]
+{NAME:04}
+{SAY}Sir {NAME:19}! We don't seem to have much time!{/SAY}
+
+[172.028]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.029]
+
+《Some device seems to have started...》
+
+[172.030]
+
+《The switch is pressed...》
+
+[172.031]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.032]
+
+《Some device seems to have started...》
+
+[172.033]
+
+《The switch is pressed...》
+
+[172.034]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.035]
+
+《Some device seems to have started...》
+
+[172.036]
+
+《The switch is pressed...》
+
+[172.037]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.038]
+
+《Some device seems to have started...》
+
+[172.039]
+
+《The switch is pressed...》
+
+[172.040]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.041]
+
+《Some device seems to have started...》
+
+[172.042]
+
+《The switch is pressed...》
+
+[172.043]
+《Nothing happens... It seems to lack energy...》
+
+[172.044]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.045]
+
+《Some device seems to have started...》
+
+[172.046]
+
+《The switch is pressed...》
+
+[172.047]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.048]
+
+《Some device seems to have started...》
+
+[172.049]
+
+《The switch is pressed...》
+
+[172.050]
+
+《It looks like some kind of switch...》{WAIT}
+{CLEAR}
+《Press it?》
+
+[172.051]
+
+《Some device seems to have started...》
+
+[172.052]
+
+《The switch is pressed...》
+
+[172.053]
+
+《An engine started to roar somewhere...》
+
+[172.054]
+《This seems to be a place of rest in the mothership. Rest here?》
+
+[172.055]
+《Then look at your diary?》
+
