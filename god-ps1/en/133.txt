@@ -1,0 +1,112 @@
+[133.000]
+Write in diary
+Read diary
+Quit
+
+[133.007]
+{NAME:01}
+{SAY}Wh... what is this...!{/SAY}
+
+[133.008]
+{NAME:02}
+{SAY}What happened!?{/SAY}
+
+[133.009]
+{NAME:01}
+{SAY}Hey...! What's wrong!{/SAY}
+
+[133.010]
+{SAY}A,{PAUSE:14} aliens...{PAUSE:28} gurk{/SAY}
+
+[133.011]
+{NAME:01}
+{SAY}What!{PAUSE:28}.{PAUSE:28}.{PAUSE:28}.{PAUSE:28}{NAME:03}!{/SAY}
+
+[133.012]
+{NAME:01}
+{SAY}{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:28}{NAME:03}...{PAUSE:28} {NAME:03} is{PAUSE:1E}.{PAUSE:1E}.{PAUSE:32} dead{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{/SAY}
+
+[133.013]
+{NAME:02}
+{SAY}How horrible...{/SAY}
+
+[133.014]
+{NAME:04}
+{SAY}...What cruelty{/SAY}
+
+[133.018]
+{SAY}Everyone!{/SAY}
+
+[133.019]
+{NAME:04}
+{SAY}Oh! It's you!{/SAY}
+
+[133.020]
+{NAME:02}
+{SAY}You're safe...{/SAY}
+
+[133.021]
+{SAY}...{PAUSE:14}{NAME:03} faced the aliens alone to protect us...{/SAY}
+
+[133.022]
+{SAY}At first the aliens tried to capture {NAME:03}...{WAIT}But she fought back so hard that they burned down the whole hut.{WAIT}Wounded as she was, {NAME:03} used the last of her strength to let us escape...{/SAY}
+
+[133.023]
+{SAY}The aliens that attacked the hut flew off to the west...{WAIT}When I told {NAME:01} that just now, he ran off like a man possessed...{/SAY}
+
+[133.024]
+{SAY}Everyone! Leave the rest to us.{WAIT}It's dangerous to leave {NAME:01} alone!{/SAY}
+
+[133.025]
+{NAME:02}
+{SAY}You're right... {NAME:19}, we have to go after {NAME:01}.{/SAY}
+
+[133.026]
+{NAME:01}
+{SAY}{NAME:03}...{/SAY}
+
+[133.027]
+{NAME:01}
+{SAY}..................{/SAY}
+
+[133.028]
+{NAME:02}
+{SAY}...{NAME:01}?{/SAY}
+
+[133.029]
+{NAME:01}
+{SAY}...{PAUSE:32}I won't forgive them!!!!{/SAY}
+
+[133.030]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[133.031]
+
+《Here lies {NAME:03}》
+
+[133.032]
+{SAY}The others are safe, for now.{WAIT}We came back first because we were worried about {NAME:03}...{/SAY}
+
+[133.033]
+{SAY}With the hut like this, I can't put you up, but you can rest in a tent.{WAIT}Will you stay?{/SAY}
+
+[133.034]
+{SAY}Then will you at least read your diary?{/SAY}
+
+[133.035]
+{SAY}We'll never forget {NAME:03}... Please take care...{/SAY}
+
+[133.036]
+{SAY}Big sis {NAME:03} took my place...{WAIT}She took my place...{/SAY}
+
+[133.037]
+{SAY}At first the aliens tried to capture {NAME:03}...{WAIT}But she fought back so hard that they burned down the whole hut.{WAIT}Wounded as she was, {NAME:03} used the last of her strength to let us escape...{/SAY}
+
+[133.038]
+　{SAY}.........{/SAY}
+
+[133.039]
+
+　《{NAME:03} has already gone cold...》
+
