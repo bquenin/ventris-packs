@@ -19,6 +19,19 @@ translator needs to carry on in the same way.
 - **Punctuation**: English quotes and punctuation; `・・・` is an ellipsis, `...`.
 - **No macrons**: Tokaido, Kinemon, Tokutaro. The game's names are written as they are spoken.
 - **Units and money**: 両 and 小判 are ryo, as the series' English releases have it; 里 (distance) is ri.
+- **Numbers the game prints**: some strings are halves of a sentence around a number the game draws
+  itself (a price, a count). A string that comes before the number ends with a space
+  (`For this, it's `), and the one after it starts with one (` ryo, thank you.`). The build keeps
+  those spaces.
+- **Placeholders** the developers left in the script (`ちょうにん０`, `あるき７`, `うらない２`,
+  `かりゅう、こども`, `やまたい６`, blank strings) are labels the player never sees, and are left as
+  they are.
+- **No boxes of our own**: `{0D}{0A}` is never added where the Japanese has none; its `/` (a line
+  break) is dropped, since the build breaks lines itself.
+- **Shops** (`shop_area*`) are written by a small script of the author's from a table of item names
+  and the shopkeepers' lines, since every shop repeats the same strings.
+- **Quizzes**: the Tokaido quiz's fixed lines (`Oh? Are you a quiz contestant?`, `Correct!!`, `Too bad!!
+  Wrong answer!!`, `Got 50 ryo in prize money!`) are word for word the same in every town.
 - **The storyteller** (`stage_demo`) narrates in a showman's rhythm, short lines that rhyme or nearly so in
   Japanese. The English keeps a storyteller's voice and short lines; the pack turns on the build option
   `horizontal-storyteller`, which writes those pages across, 12 letters a line, left page first.
@@ -50,6 +63,20 @@ translator needs to carry on in the same way.
   "reckon", "we's", so that they never sound like Ebisumaru.
 - **Kensuke** ends his sentences with ありんす, the speech of the old pleasure quarters. In English a coy
   "dearie".
+- **Mr. Goemon's henchmen** (area 4, without their boss) call Goemon 親分 and talk like London
+  toughs: "guv'nor", "see".
+- **Tengu Peruri** speaks in katakana, a foreigner's careful Japanese. In English: stiff and formal, no
+  contractions, polite even when gloating. Where he slips into Kansai for a line (アレヘンヤン), the
+  English slips too, into a contraction and "y'know".
+- **The Hyottoko brothers** end their sentences with っス: a "y'know" on almost every sentence.
+- **Hitoe** ends with でござる like Sasuke but softer: "so it is".
+- **The village master's wife** (the camp innkeeper) calls everyone "darling".
+- **The Kagoshima porters**: "aye", "ye".
+- **The yamamba** speaks Kumamoto dialect (なっせ) and laughs しぇっ、しぇっ: "dearie", "Sheh, sheh."
+- **Masakado's ghost** speaks in katakana broken by commas: one word at a time, "I, am, Masakado...".
+- **Amaterasu** calls herself ワラワ: regal and old-fashioned, no contractions; laughs "Oh-ho-ho-ho!".
+- **Susanoo** is a crying child who calls Amaterasu おねいちゃん: "Sis", "Sniff...".
+- **Children who lisp** (area 4's kidnapped boy): "fank you", "wiv", "scawy", lightly.
 - **Honorifics** are left out (ヤエちゃん is Yae, 金さん is Kin). Ebisumaru's 金はん is "ol' Kin".
 
 ## Glossary
@@ -111,6 +138,29 @@ where no official English exists.
 | パワーグローブ | Power Glove | pack |
 | 下町奉行 | the Downtown Magistrate | pack |
 | 桜吹雪 | the cherry blossom tattoo | pack (the tattoo of the magistrate Kinemon parodies) |
+| 天狗様 | Lord Tengu | pack |
+| 天狗岩 | Tengu Rock | pack |
+| 信者のツボ | Believer's Pot | pack |
+| 今右衛門 | Imaemon | pack |
+| インパクトコントローラー | Impact Controller | pack |
+| サスケ風船 | Sasuke Balloon | pack |
+| 花火爆弾 | firework bombs | pack |
+| 通行手形 | Travel Pass | pack |
+| 緑の巾着, 黄色の巾着, 青の巾着 | Green Purse (300 ryo), Yellow Purse (500), Blue Purse (700) | pack |
+| バレリーナドリル | Ballerina Drill | pack |
+| ホーミングバズーカ | Homing Bazooka | pack |
+| 一重, ひとえ | Hitoe | pack |
+| ひょっとこ兄弟, ひょっとこ踊り | the Hyottoko brothers, the Hyottoko Dance | pack |
+| ヤグラ | the tower | pack |
+| ヤマンバ | yamamba | pack (the mountain hag, as English reference works write it) |
+| マサカド | Masakado | pack (Taira no Masakado; his ghost) |
+| アマテラス, スサノオ | Amaterasu, Susanoo | pack (English reference works) |
+| ちょうちん魔人 | the Lantern Demon | pack |
+| プラズマ | Plasma | pack (the fortune teller) |
+| エドレンジャイ, ニンジャイ | the Edo Rangers, the Ninja Rangers | pack |
+| 東海道五十三次ウルトメクイズ | the Tokaido Fifty-Three Stations Ultro Quiz | pack (a parody of the TV quiz show ウルトラクイズ) |
+| 竜宮城 | the Dragon Palace | pack |
+| 江尻, 府中, 舞阪, 二川, 見附, 新居, 袋井, 白須賀 | Ejiri, Fuchu, Maisaka, Futagawa, Mitsuke, Arai, Fukuroi, Shirasuka | the stations' names |
 | Ｌボタン, 十字ボタン | the L Button, the +Control Pad | Nintendo's English manuals |
 
 ## What has been done
@@ -118,8 +168,10 @@ where no official English exists.
 - `system`: all but `system.02876`, which looks like the characters drawn for the sound test's labels and
   is left as the game has it.
 - `stage_demo`: all of the storyteller.
-- Area 1: the scenes `demo_a1_n0` to `demo_a1_n11`, the town `npc_town1_n0` to `npc_town1_n4`, its shops
-  `shop_area1`.
+- Areas 1 to 5: every scene (`demo_a1_*` to `demo_a5_*`), every town and inn (`npc_town1_*` to
+  `npc_town5_*`), and all the shops (`shop_area1` to `shop_area7`, `shop_area7b`).
+- Not yet: areas 6 to 8, the ending, the extra towns and guides (`npc_extra`, `gim_help_*`, `dojo`,
+  `kagoya`, `purazuma`, and the rest).
 
 ## What has been seen on screen
 
