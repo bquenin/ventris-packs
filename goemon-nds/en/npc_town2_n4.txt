@@ -1,0 +1,18 @@
+[npc_town2_n4.0280]
+Plasmaaa!
+
+[npc_town2_n4.0352]
+Welcome, welcome, come on in!
+
+[npc_town2_n4.0492]
+Did that little one who was outside find their friend, I wonder?
+
+[npc_town2_n4.0728]
+The entrance to the cave ahead is creepy, isn't it.
+
+[npc_town2_n4.0868]
+There was a weird machine on Tengu Rock. What was that thing, I wonder?
+
+[npc_town2_n4.1020]
+You found me!{0D}{0A}Oh, how embarrassing, I'm working a side job here.{0D}{0A}Keep it a secret from Omitsu.
+

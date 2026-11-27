@@ -1,0 +1,60 @@
+[npc_town2_in.0674]
+Tenguuu!!
+
+[npc_town2_in.0712]
+They say the food here is something called Chinese.{0D}{0A}Strong flavors, and pretty darn good.
+
+[npc_town2_in.0886]
+Tenguuu!!
+
+[npc_town2_in.0932]
+Ugh...{0D}{0A}My head hurts. Feels like I've been asleep a long time.
+
+[npc_town2_in.1110]
+Hail the Tengu cult!
+
+[npc_town2_in.1168]
+Hail the Tengu cult! ......{0D}{0A}Oh? What on earth am I doing?
+
+[npc_town2_in.1338]
+Tenguuu!!
+
+[npc_town2_in.1376]
+Slurrrp!{0D}{0A}The ramen here is delicious! Gotta eat up and get my strength back.{0D}{0A}Slurrrp!
+
+[npc_town2_in.1570]
+Tenguuu!!
+
+[npc_town2_in.1608]
+Munch munch...{0D}{0A}It's a long journey, so get your strength back whenever you can.{0D}{0A}Munch munch...
+
+[npc_town2_in.1810]
+Hail the Tengu cult!
+
+[npc_town2_in.1868]
+I don't remember a thing since that foreign tengu gave me a mask.{0D}{0A}What was I doing?
+
+[npc_town2_in.2098]
+Ohohoho!{0D}{0A}When you talk to cult members, wear your mask properly.{0D}{0A}Otherwise they won't give you the time of day. Ohohoho!
+
+[npc_town2_in.2328]
+Ohohoho... ho?{0D}{0A}What on earth happened? I don't remember a thing.
+
+[npc_town2_in.2490]
+The Tengu cult's pots are made by the potter at the edge of the village.{0D}{0A}He holds a grudge against the Tengu cult, so he won't give one to a member.
+
+[npc_town2_in.2796]
+Oh! It seems I was dreaming.
+
+[npc_town2_in.2910]
+Inside the Tengu cult's place there's a giant face of Lord Tengu.{0D}{0A}Everyone goes into the back room, but where do they get in, I wonder?
+
+[npc_town2_in.3176]
+What happened to me?{0D}{0A}I don't remember a thing since I put on the tengu mask.
+
+[npc_town2_in.3374]
+Lately this town's had a lot of weird types.{0D}{0A}Just a while ago, some strange old man was snooping around town.{0D}{0A}The Tengu cult folks already caught him, though.
+
+[npc_town2_in.3692]
+Feels like I was dreaming or something.{0D}{0A}Come to think of it, what happened to that old man the tengu caught?
+

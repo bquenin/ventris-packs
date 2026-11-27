@@ -1,0 +1,135 @@
+[demo_a2_n6.0430]
+All on account of{WAIT:000F} me usin' somebody's name without askin',
+
+[demo_a2_n6.0554]
+I got myself locked up in jail.
+
+[demo_a2_n6.0614]
+I won't never do it again, so lemme out.
+
+[demo_a2_n6.0720]
+Impact's controller is in the cave at Hiratsuka.
+
+[demo_a2_n6.0820]
+Oh, that's it.
+
+[demo_a2_n6.0848]
+Use Impact to destroy that machine at Kawasaki.
+
+[demo_a2_n6.1354]
+Huh? If it ain't the Wise Man!
+
+[demo_a2_n6.1590]
+Oh! Goemon and company!
+
+[demo_a2_n6.1646]
+Gettin' up to somethin' fun in there, are ya?
+
+[demo_a2_n6.1996]
+As if it were fun!
+
+[demo_a2_n6.2080]
+The Tengu cult caught me, and they're keeping me prisoner.
+
+[demo_a2_n6.2204]
+Caught you? Come to think of it, the town's been actin' strange.
+
+[demo_a2_n6.2338]
+But why would they catch an old man like you?
+
+[demo_a2_n6.2432]
+Well, you see, my laboratory picked up some odd radio waves,
+
+[demo_a2_n6.2550]
+and I was tracking down where they came from.
+
+[demo_a2_n6.2636]
+Then, from somewhere near this town, some suspicious waves...
+
+[demo_a2_n6.2782]
+and out of nowhere the Tengu cult grabbed me, and here I am.
+
+[demo_a2_n6.2964]
+This town sure looks shady, all right.
+
+[demo_a2_n6.3066]
+Well, now that we're here, let's get outta this place, pronto.
+
+[demo_a2_n6.3212]
+Hmm... I've tried all sorts of things myself...
+
+[demo_a2_n6.3310]
+This cell is sturdy, and it won't open without the key.
+
+[demo_a2_n6.3454]
+What? Then what the heck are we supposed to do?
+
+[demo_a2_n6.3558]
+As you can see if you look outside,
+
+[demo_a2_n6.3638]
+the shady Tengu cult has taken over the town,
+
+[demo_a2_n6.3774]
+and the townsfolk have all been brainwashed by the tengu.
+
+[demo_a2_n6.3888]
+First, we must do something about the townspeople.
+
+[demo_a2_n6.4062]
+"Do something" ain't gonna get us anywhere.
+
+[demo_a2_n6.4154]
+The waves I was studying seem to be what's brainwashing the townspeople.
+
+[demo_a2_n6.4314]
+But I haven't the faintest idea where they're coming from.
+
+[demo_a2_n6.4490]
+Oh, Ebisumaru! Could it be that thing?
+
+[demo_a2_n6.4642]
+What thing?
+
+[demo_a2_n6.4704]
+You know, that huge machine up on Tengu Rock at Kawasaki.
+
+[demo_a2_n6.4856]
+Ohh, it was givin' off some weird waves, all right.
+
+[demo_a2_n6.5092]
+So it was far from the town!{WAIT:000F} No wonder I couldn't find it.
+
+[demo_a2_n6.5216]
+If you destroy that, it ought to fix things.
+
+[demo_a2_n6.5382]
+Destroy it? Even we{WAIT:000F} can't smash somethin' like that.
+
+[demo_a2_n6.5512]
+Use Impact and smash it to bits!
+
+[demo_a2_n6.5632]
+...However, on the way here, the all-important controller...
+
+[demo_a2_n6.5738]
+I dropped it in the cave at Hiratsuka.
+
+[demo_a2_n6.5918]
+Geez, what a handful this old man is.
+
+[demo_a2_n6.6044]
+This is the Tengu's pass.
+
+[demo_a2_n6.6110]
+With it, they ought to let you through the gate at the town's exit.
+
+[demo_a2_n6.6376]
+Goemon and Ebisumaru got the Travel Pass!
+
+[demo_a2_n6.6494]
+This item works just by having it.
+
+[demo_a2_n6.6712]
+Can't be helped. Let's hurry to Hiratsuka!
+

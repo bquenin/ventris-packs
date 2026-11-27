@@ -1,0 +1,54 @@
+[npc_town2_n2.0412]
+Tenguuu!!
+
+[npc_town2_n2.0436]
+It's tenguuu, right?
+
+[npc_town2_n2.0464]
+I-it's a tenguuu!
+
+[npc_town2_n2.0496]
+Te-ten, tet-te-ten!
+
+[npc_town2_n2.1034]
+Today's meal was ever so fancy: plain white rice!{0D}{0A}Hm? No side dishes, you ask?{0D}{0A}What's a "side dish"?
+
+[npc_town2_n2.1262]
+Why are we so poor?
+
+[npc_town2_n2.1358]
+Where am I supposed to put my boogers?
+
+[npc_town2_n2.1450]
+Tengu masks are so handy.{0D}{0A}You can stash your boogers in the tengu's loooong nose.
+
+[npc_town2_n2.1718]
+Once I stopped giving offerings, life somehow got better.{0D}{0A}Strange things do happen in this world.
+
+[npc_town2_n2.1962]
+We're so poor we can't even afford today's meal, so I give offerings to the cult every day.{0D}{0A}By tomorrow we'll be rich for sure!!
+
+[npc_town2_n2.2288]
+They say Princess Kaguya has a long nose because she was born from a peach.
+
+[npc_town2_n2.2414]
+Hmm, what on earth was Princess Kaguya born from?
+
+[npc_town2_n2.2550]
+What? Born from a peach, you say? I see, so that's how it was.{0D}{0A}Here's some pocket money for your trouble.
+
+[npc_town2_n2.2714]
+Got 10 ryo in pocket money!{0D}{0A}
+
+[npc_town2_n2.2874]
+A tengu's nose is long because it was born from a peach. Did you know?
+
+[npc_town2_n2.3020]
+Why do tengu have long noses, I wonder?
+
+[npc_town2_n2.3120]
+What? Because it was born from a peach, you say? I see, so that's how it was.{0D}{0A}Here's some pocket money for your trouble.
+
+[npc_town2_n2.3286]
+Got 10 ryo in pocket money!{0D}{0A}
+

@@ -1,0 +1,141 @@
+[npc_town2_n0.1004]
+Tenguuu!!
+
+[npc_town2_n0.1028]
+It's tenguuu, right?
+
+[npc_town2_n0.1056]
+Te-ten, tet-te-ten!
+
+[npc_town2_n0.1088]
+I-it's a tenguuu!
+
+[npc_town2_n0.1120]
+Keep going, all the way to Kyo!
+
+[npc_town2_n0.1192]
+Tengu rule!
+
+[npc_town2_n0.1244]
+Then without further ado, here's your question!
+
+[npc_town2_n0.1408]
+Oh? Are you a quiz contestant?
+
+[npc_town2_n0.1466]
+Yes
+
+[npc_town2_n0.1482]
+No
+
+[npc_town2_n0.1500]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town2_n0.1848]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town2_n0.2148]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town2_n0.2354]
+Huh? What was I doing?
+
+[npc_town2_n0.2446]
+This is Kanagawa, the town of the tengu.
+
+[npc_town2_n0.2578]
+I'd love to try that "push-and-shove bun" just once.
+
+[npc_town2_n0.2694]
+Urp... ate too many tengu buns...
+
+[npc_town2_n0.2800]
+Oh, that is the pot that marks a believer. You may go in.
+
+[npc_town2_n0.3082]
+When you get old, you get short of breath...{0D}{0A}Hm? Eh? I'm not short of breath?
+
+[npc_town2_n0.3234]
+When you get old, you get short of breath, it's no good... huff, huff...
+
+[npc_town2_n0.3374]
+Hey, hey, a weird robot was just beating the stuffing out of a rock{0D}{0A}a while ago. What was that all about?
+
+[npc_town2_n0.3552]
+I only started wearing this mask recently,{0D}{0A}but for some reason I just feel like wearing it.
+
+[npc_town2_n0.3734]
+They say someone destroyed Tengu Rock a while ago.{0D}{0A}And it was a World Heritage Site...
+
+[npc_town2_n0.3942]
+Huff, huff... Why do I keep going up and down this slope{0D}{0A}when I've no reason to?
+
+[npc_town2_n0.4182]
+Don't you think shrimp tempura rice balls would sell like crazy?{0D}{0A}"Tenmusu" for short. Oh!? I think I'm onto something.
+
+[npc_town2_n0.4416]
+Don't you think tengu rice balls would sell like crazy?{0D}{0A}"Tenmusu" for short. Oh!? I think I'm onto something.
+
+[npc_town2_n0.4666]
+Are Goemon and friends the best!!{0D}{0A}Are Goemon and friends gods!!{0D}{0A}Are Goemon and friends buddhas!!{0D}{0A}Yeaaah!!
+
+[npc_town2_n0.4924]
+Are the tengu the best!!{0D}{0A}Are the tengu gods!!{0D}{0A}Are the tengu buddhas!!{0D}{0A}Yeaaah!!
+
+[npc_town2_n0.5244]
+I see...
+
+[npc_town2_n0.5282]
+In the Edo period, anyone who stole more than 10 ryo was put to death. True or false?
+
+[npc_town2_n0.5430]
+True
+
+[npc_town2_n0.5444]
+False
+
+[npc_town2_n0.5478]
+Got 50 ryo in prize money!
+
+[npc_town2_n0.5640]
+It sure is a pain drinking with this mask on...
+
+[npc_town2_n0.5770]
+Hey, hey, do you know how Momotaro was born?{0D}{0A}He was born from a shining stalk of bamboo!!
+
+[npc_town2_n0.6010]
+Hey, hey, do you know why tengu have long noses?{0D}{0A}It's because Momotaro came floating down the river,{0D}{0A}bobbing along in a peach!
+
+[npc_town2_n0.6376]
+In this world, money beats heart every time.
+
+[npc_town2_n0.6476]
+Ahh, isn't there some handsome man with lots of money?
+
+[npc_town2_n0.6586]
+What? You're looking for a match for an arranged meeting? And he's a nobleman?{0D}{0A}Fine. I'll meet him. In this world, money beats heart every time.
+
+[npc_town2_n0.6878]
+The arranged meeting is set!{0D}{0A}
+
+[npc_town2_n0.7010]
+Ahh, isn't there some handsome tengu with lots of money?
+
+[npc_town2_n0.7192]
+Hold it!{WAIT:000F} This is a branch of the Tengu cult. Do you have a tengu pot, the mark of a member?
+
+[npc_town2_n0.7434]
+A pot?{WAIT:000F} We ain't got nothin' like that.
+
+[npc_town2_n0.7520]
+A pot?{WAIT:000F} We ain't got nothin' like that.
+
+[npc_town2_n0.7616]
+You don't have one!{WAIT:000F} Only members of the cult may enter.{0D}{0A}Off with you, off with you.
+
+[npc_town2_n0.7846]
+Hmm{07:000A}...{07:0004}{WAIT:000F} Somethin' shady about this building.{0D}{0A}Maybe the Mr. Goemon Gang are hidin' in there?
+
+[npc_town2_n0.8068]
+Hoh-heh?{WAIT:001E} Somethin' fishy about this building.{0D}{0A}Ain't the Mr. Goemon Gang folks hidin' in there, maybe?
+

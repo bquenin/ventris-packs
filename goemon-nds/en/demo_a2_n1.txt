@@ -1,0 +1,63 @@
+[demo_a2_n1.0204]
+Aye, that's right.
+
+[demo_a2_n1.0328]
+Ask in town for the rest, aye.
+
+[demo_a2_n1.0904]
+Hey, you folks,{WAIT:000F} did three suspicious characters come through here?
+
+[demo_a2_n1.1048]
+Eh?{WAIT:000F} And who might ye be?
+
+[demo_a2_n1.1100]
+Oh, sorry.{WAIT:000F} The name's Goemon.
+
+[demo_a2_n1.1200]
+This here's Ebisumaru.
+
+[demo_a2_n1.1258]
+Pleased to meetcha.
+
+[demo_a2_n1.1340]
+We're lookin' for three shady types who copy us. Seen 'em?
+
+[demo_a2_n1.1524]
+Aye, there were some fellows went rushin' right past us.
+
+[demo_a2_n1.1706]
+Near knocked over our precious cargo, they did.
+
+[demo_a2_n1.1798]
+It's precious cargo Lord Tengu asked us to carry, aye,
+
+[demo_a2_n1.1918]
+and it mustn't get a single scratch.
+
+[demo_a2_n1.1988]
+The missus would've had my hide.
+
+[demo_a2_n1.2100]
+Aye, that's right.
+
+[demo_a2_n1.2138]
+Where'd those guys go?
+
+[demo_a2_n1.2260]
+Off toward the town,{WAIT:000F} most likely.
+
+[demo_a2_n1.2352]
+There's a town past Tengu Rock from here,
+
+[demo_a2_n1.2462]
+so go ask about there.
+
+[demo_a2_n1.2528]
+Aye, that's right.
+
+[demo_a2_n1.2566]
+Oh,{WAIT:000F} thanks.
+
+[demo_a2_n1.2614]
+Much obliged!
+
