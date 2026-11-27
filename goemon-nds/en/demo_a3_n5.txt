@@ -1,0 +1,33 @@
+[demo_a3_n5.0722]
+Whoa!{WAIT:000F} Ebisumaru!
+
+[demo_a3_n5.0802]
+Goemon,{WAIT:000F} help meee.
+
+[demo_a3_n5.0878]
+Grandfather, Grandmother!{WAIT:000F} That is not food.
+
+[demo_a3_n5.1100]
+Heh-heh!{WAIT:000F} What's that?
+
+[demo_a3_n5.1140]
+And here we thought a tasty pig came floatin' down the river!
+
+[demo_a3_n5.1440]
+Keh-keh!{WAIT:000F} Take a good look{WAIT:000F} and it's a funny-lookin' pig!
+
+[demo_a3_n5.1618]
+We don't want this thing!{WAIT:000F} Take it home, quick!
+
+[demo_a3_n5.2016]
+Heh-heh!{WAIT:000F} Who are you lot!
+
+[demo_a3_n5.2132]
+We found this peach in the river!
+
+[demo_a3_n5.2322]
+Keh-keh!{WAIT:000F} Come to steal this big peach, have ye!
+
+[demo_a3_n5.2486]
+Get on home!{WAIT:000F} You numbskulls!
+

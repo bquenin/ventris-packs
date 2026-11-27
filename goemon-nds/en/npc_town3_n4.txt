@@ -1,0 +1,38 @@
+[npc_town3_n4.0536]
+Wanna buy this ox for 100 won?
+
+[npc_town3_n4.0712]
+They say there's a ninja village up ahead.
+
+[npc_town3_n4.0812]
+ Suke, my lad, where did I put my inro?
+
+[npc_town3_n4.0912]
+Outta the way! Outta the way, the courier's comin' through!
+
+[npc_town3_n4.1016]
+Get outta here! Like I'd lose to the guy in front of me!!
+
+[npc_town3_n4.1252]
+I saw the chicken in front of me with it in its beak a while ago.
+
+[npc_town3_n4.1384]
+Do re mi, do re mi...{0D}{0A}Hmm, I'll go traveling once I can play a bit better.
+
+[npc_town3_n4.1532]
+They say people in the Edo period walked nearly 40 kilometers every day.
+
+[npc_town3_n4.1692]
+# The first lines of a famous poem of Ono no Komachi, from the Hyakunin Isshu, which he passes off
+# as his own.
+"The color of the flowers has faded, all in vain..."{0D}{0A}Hmm, I think a splendid poem is coming to me.
+
+[npc_town3_n4.1864]
+About two weeks out of Kyo, and once past this checkpoint, it's Edo at last.
+
+[npc_town3_n4.2052]
+This is the realm's great checkpoint, the Hakone Checkpoint. You need a Travel Pass to get through.
+
+[npc_town3_n4.2260]
+The man of this house is a mighty odd fellow.{0D}{0A}You'd all best be on your guard.
+

@@ -1,0 +1,63 @@
+[demo_a3_n6.0526]
+Aye, that's right.
+
+[demo_a3_n6.0746]
+C'mon, Negisaku! Lift your end, now.
+
+[demo_a3_n6.1718]
+We've gone and done a terrible thing.
+
+[demo_a3_n6.1840]
+Oh, if it ain't Kamohei. What's wrong?!
+
+[demo_a3_n6.1930]
+Kamohei, what's the matter?!
+
+[demo_a3_n6.2002]
+Kamohei, what is wrong?!
+
+[demo_a3_n6.2076]
+Kamohei and Negisaku! What are you doing in a place like this?
+
+[demo_a3_n6.2244]
+We dropped the precious cargo and broke it.
+
+[demo_a3_n6.2410]
+The nose snapped clean off.
+
+[demo_a3_n6.2576]
+Aye, that's right.
+
+[demo_a3_n6.2696]
+Ye saw it? How shameful.
+
+[demo_a3_n6.2816]
+Won't ye keep this a secret from Lord Tengu?
+
+[demo_a3_n6.3026]
+Aye, that's right.
+
+[demo_a3_n6.3182]
+Don't worry, we don't know any Lord Tengu.
+
+[demo_a3_n6.3322]
+We ain't acquainted with no Lord Tengu. Don't you worry.
+
+[demo_a3_n6.3470]
+I know no one by the name of Lord Tengu.
+
+[demo_a3_n6.3584]
+There is no need to worry.
+
+[demo_a3_n6.3646]
+Secret or no secret, I don't know any Lord Tengu, so it's fine.
+
+[demo_a3_n6.3880]
+Much obliged.
+
+[demo_a3_n6.3978]
+C'mon, Negisaku! Lift your end, now.
+
+[demo_a3_n6.4144]
+Aye, that's right.
+

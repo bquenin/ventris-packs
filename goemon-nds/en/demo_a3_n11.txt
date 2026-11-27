@@ -1,0 +1,186 @@
+[demo_a3_n11.00254]
+Do your best, so it is.
+
+[demo_a3_n11.00568]
+Ebisumaru, dear, go and call on the master who lives in this village.
+
+[demo_a3_n11.00756]
+I'm sure he'll teach you an art that will come in handy.
+
+[demo_a3_n11.00936]
+With your art, Ebisumaru, you ought to be able to get into the castle.
+
+[demo_a3_n11.01124]
+Take care, now.
+
+[demo_a3_n11.01790]
+I'm so glad you're safe,{WAIT:000F} Hitoe.
+
+[demo_a3_n11.02088]
+Still,{WAIT:000F} for the village chief to fall into enemy hands, what a disgrace.
+
+[demo_a3_n11.02304]
+You'll have to start your training over from the beginning.
+
+[demo_a3_n11.02500]
+I am sorry, so I am{07:000A}...
+
+[demo_a3_n11.02620]
+Aw,{WAIT:000F} she made it back safe, so what's the harm?
+
+[demo_a3_n11.02820]
+More to the point,{WAIT:000F} besides the Mr. Goemon Gang,{0D}{0A}someone else is gathering the Three Sacred Treasures,{WAIT:000F} so they must be very important indeed.
+
+[demo_a3_n11.03230]
+Ain't that the truth.{WAIT:000F} Things are startin' to look stormy.
+
+[demo_a3_n11.03410]
+While I was a prisoner,{WAIT:000F} I heard them talk of "the mirror", so I did.
+
+[demo_a3_n11.03732]
+What!{WAIT:000F} What kind of talk was it?
+
+[demo_a3_n11.03816]
+Well{07:000A}...
+
+[demo_a3_n11.03890]
+I was out cold, and I do not remember much, so it is.
+
+[demo_a3_n11.03984]
+"The village of Kanaya",{WAIT:000F} "the mirror"{07:000A}...{07:0004} that is all I remember, so it is.
+
+[demo_a3_n11.04250]
+Kanaya,{WAIT:000F} now that's a village far to the west of here.
+
+[demo_a3_n11.04422]
+They say a long famine{WAIT:000F} has the villagers suffering from hunger.
+
+[demo_a3_n11.04656]
+Looks like that lead is all we've got.{0D}{0A}Let's go to the village of Kanaya and find out more.
+
+[demo_a3_n11.05020]
+All right!{WAIT:000F} No time like the present.{WAIT:000F} Let's go, everyone.
+
+[demo_a3_n11.05996]
+So you've come,{WAIT:000F} Goemon and friends.
+
+[demo_a3_n11.06130]
+I've heard about you{WAIT:000F} from Yae.
+
+[demo_a3_n11.06276]
+You're the elder of this village?
+
+[demo_a3_n11.06354]
+We're lookin' for some scoundrels{WAIT:000F} who call themselves{0D}{0A}the Mr. Goemon Gang.
+
+[demo_a3_n11.06518]
+I hear this village{WAIT:000F} got dragged into some trouble too.
+
+[demo_a3_n11.06674]
+Could be{WAIT:000F} it's the same crooks we're after.
+
+[demo_a3_n11.06858]
+Hitoe, the young chief of this village, was kidnapped,{0D}{0A}and they demand the village's treasure, the ninja sword,{0D}{0A}in exchange for her life.
+
+[demo_a3_n11.07244]
+Hitoe is Yae's sister,{WAIT:000F} and Yae is beside herself with worry.
+
+[demo_a3_n11.07414]
+They're demandin' the village's treasure...{0D}{0A}now where've I heard that before?
+
+[demo_a3_n11.07608]
+Horohoro Temple's "mirror",{WAIT:000F} Yui's "sword",{WAIT:000F} both are treasures.{0D}{0A}What are they plotting?
+
+[demo_a3_n11.07850]
+Granny!
+
+[demo_a3_n11.08010]
+Just as I feared,{WAIT:000F} the cannon fire at the bandits' fort is too heavy to get near.
+
+[demo_a3_n11.08178]
+Now the only way left{WAIT:000F} is to dig through the ground.
+
+[demo_a3_n11.08464]
+Yae,{WAIT:000F} thank you for your trouble.
+
+[demo_a3_n11.08582]
+Goemon, dear...... {WAIT:000F}Yae, you listen well too.
+
+[demo_a3_n11.08758]
+There's an old legend...{0D}{0A}that in this world there were three treasures, called the Three Sacred Treasures.
+
+[demo_a3_n11.09006]
+The Yasakani Jewel,{WAIT:000F} the Kusanagi Sword,{WAIT:000F} the Yata Mirror:
+
+[demo_a3_n11.09110]
+those{WAIT:000F} are their names.
+
+[demo_a3_n11.09226]
+They are divine treasures{WAIT:000F} said to be carried by the emperor{WAIT:000F} when he descends to the earth,{0D}{0A}and they stand for the imperial throne.
+
+[demo_a3_n11.09530]
+This village's sword is the ninja sword that guarded the village through many a war.{0D}{0A}It is not one of the Three Sacred Treasures at all...
+
+[demo_a3_n11.09856]
+What,{WAIT:000F} so they've got it wrong?
+
+[demo_a3_n11.09992]
+Most likely,{WAIT:000F} they have it wrong.
+
+[demo_a3_n11.10114]
+I'm worried about Hitoe, and the treasures trouble me too.
+
+[demo_a3_n11.10288]
+When all three{WAIT:000F} of the sacred treasures are gathered together,{0D}{0A}the Three Sacred Treasures are said to unleash a tremendous power!{0D}{0A}Those who seek that power are beyond counting.
+
+[demo_a3_n11.10744]
+The treasures matter too, but{WAIT:000F} first I have to rescue my sister.
+
+[demo_a3_n11.10946]
+Quite so.{WAIT:000F} If the treasure they seek is the wrong one,{0D}{0A}then Hitoe is our greatest worry.
+
+[demo_a3_n11.11220]
+That we can't get near their fort is a great nuisance...
+
+[demo_a3_n11.11418]
+I know!{WAIT:000F} Ebisumaru, dear,{0D}{0A}you have a fine, plump body, don't you.
+
+[demo_a3_n11.11770]
+Honi?{WAIT:000F} Who, me?
+
+[demo_a3_n11.11810]
+You bet!{WAIT:000F} This charmin' body of mine{0D}{0A}is the fruit of daily training.
+
+[demo_a3_n11.11982]
+So eating is training.{AA}{0D}{0A}I have learned something.
+
+[demo_a3_n11.12174]
+Ebisumaru, dear,{WAIT:000F} go and call on the master who lives in this village.
+
+[demo_a3_n11.12490]
+I'm sure he'll teach you an art that will come in handy.
+
+[demo_a3_n11.12634]
+Teach me?
+
+[demo_a3_n11.12706]
+Yae,{WAIT:000F} go with these folks and be of help to them.
+
+[demo_a3_n11.12872]
+Yes,{WAIT:000F} I will.{WAIT:000F} Glad to have you,{WAIT:000F} everyone.
+
+[demo_a3_n11.13094]
+Same here!
+
+[demo_a3_n11.13144]
+Likewise.
+
+[demo_a3_n11.13188]
+Glad to have ya.
+
+[demo_a3_n11.13228]
+So,{WAIT:000F} we just gotta go to the village master's house.
+
+[demo_a3_n11.13344]
+All right!{WAIT:000F} Let's go!
+

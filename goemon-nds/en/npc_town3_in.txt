@@ -1,0 +1,28 @@
+[npc_town3_in.0596]
+The sauce on this eel rice box is perfect.{0D}{0A}It goes great with the fluffy eel! Delicious!
+
+[npc_town3_in.0768]
+Those folks carrying the giant tengu face were in Yoshiwara.{0D}{0A}Have you seen them yet?
+
+[npc_town3_in.0980]
+When an enemy boss beats you, choose "Continue"{0D}{0A}and you can fight that boss again from the start. With only 3 hearts, though.
+
+[npc_town3_in.1228]
+The front of the enemy hideout is under heavy cannon fire; you can't get near it.{0D}{0A}You'll have to go around, I'd say...
+
+[npc_town3_in.1476]
+You cannot save inside the enemy castle.{0D}{0A}Always save before you go into the enemy castle. Always!
+
+[npc_town3_in.1740]
+# Written in kanji, Hitoe is 一重 and Yae is 八重, "one layer" and "eight layers".
+In kanji, Lady Hitoe's name means "one layer".{0D}{0A}Lady Yae's name means "eight layers".{0D}{0A}Could it be that between Lady Hitoe and Lady Yae there are{0D}{0A}six more sisters?
+
+[npc_town3_in.2058]
+Lady Hitoe, who was kidnapped, is Lady Yae's eldest sister.{0D}{0A}Everyone is worried.
+
+[npc_town3_in.2254]
+So Lady Hitoe was rescued safely. I'm so glad.
+
+[npc_town3_in.2400]
+The Ballerina Drill can be used for more than digging.{0D}{0A}When rocks come rolling down and fill the path, burrow into the ground.{0D}{0A}That way you can get through without taking damage.
+

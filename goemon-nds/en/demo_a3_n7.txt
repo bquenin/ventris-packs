@@ -1,0 +1,66 @@
+[demo_a3_n7.0544]
+If only I could get into the village...
+
+[demo_a3_n7.0692]
+We're countin' on ya!
+
+[demo_a3_n7.0884]
+Haah,{WAIT:000F} heavy loads make my back ache.
+
+[demo_a3_n7.1280]
+The village of Yui up ahead{WAIT:000F} is on high alert, something about their chief being kidnapped.{0D}{0A}I came to stock up on ingredients, but they won't let me in.{0D}{0A}It's a real nuisance.
+
+[demo_a3_n7.2246]
+Oh,{WAIT:000F} it's you folks!{0D}{0A}Somehow or other,{WAIT:000F} they let me into the village a while ago.{0D}{0A}So{WAIT:000F} I bought the medicine ingredients{WAIT:000F} and fixed up your friend.
+
+[demo_a3_n7.2584]
+Goemon,{WAIT:000F} take a look at me!
+
+[demo_a3_n7.2766]
+I've gotten all slim!
+
+[demo_a3_n7.2824]
+Uh,{WAIT:000F} yeah... G-{WAIT:000F}good for you, Ebisumaru.
+
+[demo_a3_n7.2940]
+You have become slim?
+
+[demo_a3_n7.3034]
+Thanks,{WAIT:000F} medicine seller from Toyama.{WAIT:000F} Much obliged.
+
+[demo_a3_n7.3188]
+It was you folks, wasn't it?{WAIT:000F} Who got the village to let people in.{0D}{0A}Let me do that much to thank you.
+
+[demo_a3_n7.3422]
+More to the point,{WAIT:000F} you folks are in a hurry, aren't you?{0D}{0A}I'm going to take it easy here{WAIT:000F} a little longer.
+
+[demo_a3_n7.3604]
+Medicine seller,{WAIT:000F} we are most grateful.
+
+[demo_a3_n7.3742]
+Mister,{WAIT:000F} thanks a bunch!
+
+[demo_a3_n7.4794]
+Hm?{WAIT:000F} Did that fellow eat a Roundy Mushroom?
+
+[demo_a3_n7.4908]
+You know what's wrong with Ebisumaru?
+
+[demo_a3_n7.4998]
+Know it? Sure do.{WAIT:000F} You mustn't eat a thing like that.
+
+[demo_a3_n7.5160]
+Are you a medicine seller?{0D}{0A}Please help Ebisumaru!
+
+[demo_a3_n7.5372]
+Indeed,{WAIT:000F} I'm a medicine seller from Toyama.{0D}{0A}But{WAIT:000F} much as I'd like to help your friend...{0D}{0A}I came to the village of Yui up ahead to stock up on ingredients.{0D}{0A}It seems Yui's chief was kidnapped, and they're on high alert,{0D}{0A}so they won't let me into the village.{0D}{0A}If only I could get the ingredients,{WAIT:000F} I could help your friend,{0D}{0A}but you can only get them in Yui,{WAIT:000F} so I'm stuck.
+
+[demo_a3_n7.6310]
+So all you need is to get into the village?{0D}{0A}All right,{WAIT:000F} we'll go ask 'em for ya.
+
+[demo_a3_n7.6524]
+Hmm,{WAIT:000F} I don't think it'll work, mind you.{0D}{0A}Well,{WAIT:000F} I'll keep an eye on your round friend here,{WAIT:000F} so good luck.
+
+[demo_a3_n7.6830]
+Got it!{WAIT:000F} Back in a jiffy.
+

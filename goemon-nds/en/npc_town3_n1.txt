@@ -1,0 +1,66 @@
+[npc_town3_n1.0674]
+No pass, no passing through!
+
+[npc_town3_n1.0846]
+You may pass.
+
+[npc_town3_n1.0988]
+You have a pass,{WAIT:000F} good! Go through.
+
+[npc_town3_n1.1178]
+Oh,{WAIT:000F} Goemon!
+
+[npc_town3_n1.1692]
+Oh, crap!{WAIT:000F} I left my pass behind...{0D}{0A}And the guy in Mishima{WAIT:000F} won't sell one to the likes of me.{0D}{0A}Guess I'll go back for it,{WAIT:000F} sigh...
+
+[npc_town3_n1.2392]
+A Travel Pass?{WAIT:000F} They sell passes at a house in Mishima.
+
+[npc_town3_n1.2596]
+But they say{WAIT:000F} he only sells to members of the Tengu cult.{0D}{0A}What a crank,{WAIT:000F} honestly.
+
+[npc_town3_n1.3276]
+Hey,{WAIT:000F} if it ain't Tokutaro.{WAIT:000F} What's wrong?
+
+[npc_town3_n1.3444]
+You need a Travel Pass for the checkpoint.
+
+[npc_town3_n1.3562]
+And poor as I am,{WAIT:000F} I don't have the money to buy one...
+
+[npc_town3_n1.3730]
+Aw, come on,{WAIT:000F} don't be like that.{0D}{0A}Leave somethin' like that to us!
+
+[npc_town3_n1.3872]
+We're the good guys, after all.
+
+[npc_town3_n1.3948]
+You can count on us, no sweat.
+
+[npc_town3_n1.4620]
+Here you go,{WAIT:000F} we got you a pass.
+
+[npc_town3_n1.4814]
+Thank you!{WAIT:000F} Goemon, everyone!
+
+[npc_town3_n1.4878]
+What a relief!{WAIT:000F} Now I can get through the checkpoint.
+
+[npc_town3_n1.5028]
+I can't give you much to thank you{07:000A}...
+
+[npc_town3_n1.5128]
+but I don't really need this, so you can have it.
+
+[npc_town3_n1.5416]
+Goemon and company got the Green Purse!
+
+[npc_town3_n1.5668]
+It's a purse that lets you carry more money.
+
+[npc_town3_n1.5762]
+You can hold up to 300 ryo.
+
+[npc_town3_n1.5908]
+Thanks a lot.{WAIT:000F} Much obliged.
+

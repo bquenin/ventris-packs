@@ -1,0 +1,84 @@
+[demo_a3_n9.0458]
+Hurry and get Ebisumaru cured, all right?
+
+[demo_a3_n9.1354]
+Oh,{WAIT:000F} Yae!
+
+[demo_a3_n9.1516]
+Oh,{WAIT:000F} Goemon.{WAIT:000F} Sasuke.
+
+[demo_a3_n9.1574]
+So you got away from the officers safely.{WAIT:000F} I'm glad.
+
+[demo_a3_n9.1746]
+Lady Yae,{WAIT:000F} what are you doing here?
+
+[demo_a3_n9.1874]
+This place{WAIT:000F} seems to be the bandits' hideout.
+
+[demo_a3_n9.2034]
+My village,{WAIT:000F} in Yui, was attacked by a band of thieves,{0D}{0A}so I've been trying{WAIT:000F} to sneak in here somehow...{0D}{0A}but the cannon fire is so heavy I can't even get near the gate.
+
+[demo_a3_n9.2470]
+Anything we can do?{WAIT:000F} Want us to lend a hand?
+
+[demo_a3_n9.2690]
+No,{WAIT:000F} thank you. I've only just started looking into it,{0D}{0A}so when I find a way in,{WAIT:000F} I'll ask you then.
+
+[demo_a3_n9.2942]
+All right.{WAIT:000F} When the time comes, be sure to call us.
+
+[demo_a3_n9.3048]
+Please do not push yourself too hard.
+
+[demo_a3_n9.3120]
+I won't,{WAIT:000F} thanks.
+
+[demo_a3_n9.3256]
+Hmm...{WAIT:000F} I just can't find a way in...
+
+[demo_a3_n9.3826]
+Yae!
+
+[demo_a3_n9.3898]
+Oh,{WAIT:000F} Goemon.{WAIT:000F} Sasuke.
+
+[demo_a3_n9.3954]
+So you got away from the officers safely.{WAIT:000F} I'm glad.
+
+[demo_a3_n9.4126]
+Lady Yae,{WAIT:000F} what are you doing here?
+
+[demo_a3_n9.4250]
+This place{WAIT:000F} seems to be the bandits' hideout.
+
+[demo_a3_n9.4382]
+My village,{WAIT:000F} in Yui, was attacked by a band of thieves,{0D}{0A}so I've been trying{WAIT:000F} to sneak in here somehow...{0D}{0A}but the cannon fire is so heavy I can't even get near the gate.
+
+[demo_a3_n9.4828]
+We'd like to help too, but...{0D}{0A}Ebisumaru's gone and caught some weird sickness.{0D}{0A}We gotta get medicine ingredients from the village of Yui.
+
+[demo_a3_n9.5216]
+Yae,{WAIT:000F} can you help us out?
+
+[demo_a3_n9.5328]
+Oh,{WAIT:000F} what's wrong?
+
+[demo_a3_n9.5444]
+Ebisumaru's gone and caught some weird sickness.{0D}{0A}We gotta get medicine ingredients from the village of Yui.
+
+[demo_a3_n9.5790]
+Yui is on high alert, and they will not let anyone in to buy medicine.
+
+[demo_a3_n9.5968]
+So you just need to get into the village.{0D}{0A}That's easy enough.{WAIT:000F} Yui is the village where I was born.{0D}{0A}I'll send up a smoke signal{WAIT:000F} so the gatekeeper lets you in when you talk to him.
+
+[demo_a3_n9.6530]
+Oh!{WAIT:000F} Thanks a lot.
+
+[demo_a3_n9.6580]
+Truly,{WAIT:000F} we are most grateful.
+
+[demo_a3_n9.6656]
+Now,{WAIT:000F} hurry to the village of Yui.
+
