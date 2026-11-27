@@ -1,0 +1,797 @@
+[131.000]
+{SAY}Oh dear, {NAME:17} is out cold. {NUM}G to revive?{/SAY}
+
+[131.002]
+{SAY}Oh dear, {NAME:17} is a monkey. {NUM}G to cure?{/SAY}
+
+[131.003]
+{SAY}Oh dear, {NAME:17} is poisoned. {NUM}G to cure?{/SAY}
+
+[131.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. {NUM}G to cure?{/SAY}
+
+[131.005]
+Write in diary
+Read diary
+Quit
+
+[131.008]
+Write in your diary?
+
+[131.009]
+Write in diary
+Read diary
+Sleep
+
+[131.010]
+{SAY}This is Honmaka Town... Feels goooood. Stay a while...{/SAY}
+
+[131.011]
+{SAY}This is Honmaka Town... My head's clear...{WAIT}...Damn! I wanted to keep dreaming...!{/SAY}
+
+[131.012]
+{SAY}Heh heh... Honmaka Town!{WAIT}Welcome!{WAIT}Get happy! Ahahahaha......{/SAY}
+
+[131.013]
+{SAY}This is Honmaka Town!{WAIT}Stuff happens, but it's a fun town!!{/SAY}
+
+[131.014]
+{SAY}This is Honmaka Town...{WAIT}This town is done for.{/SAY}
+
+[131.015]
+{SAY}This is Honmaka Town... My head's clearing.{WAIT}It was like a long dream...{/SAY}
+
+[131.016]
+{SAY}Are you haaappy?{/SAY}
+
+[131.017]
+{SAY}Right!? This town makes everyone happy! Ihihi...{/SAY}
+
+[131.018]
+{SAY}No, no! Breathe in this yellow powder, deep!{WAIT}You'll forget everything bad! Ihihi...{/SAY}
+
+[131.019]
+{SAY}Was it you!? Who stopped the yellow powder!{/SAY}
+
+[131.020]
+{SAY}...Screw you! Meddling jerks! Get out!{/SAY}
+
+[131.021]
+{SAY}Dammit! Who did this...! Give me back my happiness!{/SAY}
+
+[131.022]
+{SAY}Hey, you... got any of that powder?{/SAY}
+
+[131.023]
+{SAY}Please... pleeease, sell me some!{/SAY}
+
+[131.024]
+{SAY}No waaay!!{WAIT}I heard you can't get it anymore!{/SAY}
+
+[131.025]
+{SAY}Please... pleeease, sell me some!{/SAY}
+
+[131.026]
+{SAY}Right{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}They say you can't get it anymore......{/SAY}
+
+[131.027]
+{SAY}If anyone figured out what this drug is...{WAIT}No, never mind...{/SAY}
+
+[131.028]
+{SAY}I was running from reality......{WAIT}The more I ran, the scarier it got.{WAIT}Now I'm less scared.{WAIT}Thanks.{/SAY}
+
+[131.029]
+{SAY}Ahh... I don't want to think... Just sleep forever...{/SAY}
+
+[131.030]
+{SAY}They say outsiders beat the aliens at Angkor Wat...{WAIT}The powder's gone, but who asked them!{/SAY}
+
+[131.031]
+{SAY}Hey, kids. I got some good stuff. Wanna buy? 5000G!{/SAY}
+
+[131.032]
+
+《Got the Yellow Powder!》
+
+[131.033]
+{SAY}Not enough money!{/SAY}
+
+[131.034]
+{SAY}Hm? I already sold you some!{WAIT}No hogging it!{/SAY}
+
+[131.035]
+{SAY}Heh.{WAIT}I had a past like that too......{PAUSE:3C}{/SAY}
+
+[131.036]
+{SAY}Hmph! Fine! I got plenty of customers!{/SAY}
+
+[131.037]
+{SAY}At times like this, you say "yes" even if it's a lie!!{/SAY}
+
+[131.038]
+{SAY}The aliens know human weakness...{WAIT}Now we show them human strength!{/SAY}
+
+[131.039]
+{SAY}Lalala lalalala... What a wonderful wooorld...{/SAY}
+
+[131.040]
+{SAY}Ahh... I should be glad the powder's gone, but...{WAIT}ahh......{/SAY}
+
+[131.041]
+{SAY}Isn't the world just roooose-colored after all?{/SAY}
+
+[131.042]
+{SAY}Whaaat!!{WAIT}You can't get the yellow powder anymore!!{/SAY}
+
+[131.043]
+{SAY}We'll make this town great without that powder!!{/SAY}
+
+[131.044]
+{SAY}Hehehe. My head's all floaty and it feels good!{/SAY}
+
+[131.045]
+{SAY}The yellow powder's gone... Should I be glad? Or sad?{/SAY}
+
+[131.046]
+{SAY}...A man gave me some powder, "just a little"... hehehehehe...{/SAY}
+
+[131.047]
+{SAY}Hey, did you hear?
+
+[131.048]
+{SAY}Aww, how boring.
+
+[131.049]
+{SAY}They say you can't get the yellow powder anymore!!
+
+[131.050]
+{SAY}I used to laugh at nothing. Sad, huh? Now...{PAUSE:14} hehe! I laugh because it's fun!!{/SAY}
+
+[131.051]
+{SAY}Welcome~! Master Shu's shop and bar~!{HOLD}Shop in front, bar in back~!{/SAY}
+
+[131.052]
+{SAY}Welcome~! New owner, same business~!{/SAY}
+
+[131.053]
+{SAY}Who can be bothered being serious~!{/SAY}
+
+[131.054]
+{SAY}Huh?{WAIT}How do you do serious again?{WAIT}I forgot.{/SAY}
+
+[131.055]
+{SAY}Thank you so much.{WAIT}From now on, I'll do things seriously!!{/SAY}
+
+[131.056]
+{SAY}Whaaat!?{WAIT}Oh, fine.{WAIT}I'll try being a little serious.{/SAY}
+
+[131.057]
+{SAY}Welcome, this is Honmaka Town's{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}Bl?{PAUSE:3C} Bl{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.?{WAIT}{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}.what was it??{/SAY}
+
+[131.058]
+{SAY}Welcome, this is Honmaka Town's{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}Bl?{PAUSE:3C} Bl{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.?{WAIT}{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}.Bloody Mary!!{/SAY}
+
+[131.059]
+{SAY}Welcome, this is Bless's temporary HQ.{/SAY}
+
+[131.060]
+{SAY}Welcome, this is Honmaka Town's{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}Bl?{PAUSE:3C} Bl{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.?{WAIT}{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}.Bless temporary HQ, sir.{/SAY}
+
+[131.061]
+　"Honmaka Bless Temporary HQ"
+　　　~Join us, youth!~
+
+[131.062]
+{SAY}This is... the Kowloon Hotel.{WAIT}Hardly anyone comes.{WAIT}750G a night-aru.{/SAY}
+
+[131.063]
+{SAY}Not enough money-aru...{/SAY}
+
+[131.064]
+{SAY}Ni hao! Kowloon Hotel-aru!{WAIT}750G a night-aru.{/SAY}
+
+[131.065]
+{SAY}Not enough money-aru!!{/SAY}
+
+[131.066]
+{SAY}Then look at your diary on the quiet-aru?{/SAY}
+
+[131.067]
+{SAY}There's always a room free.{/SAY}
+
+[131.068]
+{SAY}Souvenirs-aru. You Japanese? I love rich Japanese!{/SAY}
+
+[131.069]
+{SAY}Designer armor-aru! All made to order!{/SAY}
+
+[131.070]
+{SAY}Shiny weapons, forged daily-aru?{/SAY}
+
+[131.071]
+{SAY}They say the Bun King, who collects rare buns, lives near here,{WAIT}but nobody knows where.{/SAY}
+
+[131.072]
+{SAY}I was in Bless. Gambled a little. Look at me now.{/SAY}
+
+[131.073]
+{SAY}I'll marry a rich man!{WAIT}So I'm polishing my body.{WAIT}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0C}What does that mean?{/SAY}
+
+[131.074]
+Director Wong
+{SAY}It should be our members going...{PAUSE:28} {NAME:19},{PAUSE:10} don't die.{/SAY}
+
+[131.075]
+Director Wong
+{SAY}...Angkor Wat's threat is gone, but...{WAIT}people are still depraved...{WAIT}No, that's our problem.{WAIT}Travel safely.{/SAY}
+
+[131.076]
+Director Wong
+{SAY}Oh, {NAME:19}!!{WAIT}You're back!{WAIT}Someone is secretly making and selling the powder...{WAIT}And many buy it. Who could it be...{/SAY}
+
+[131.077]
+Director Wong
+{SAY}What!?{WAIT}So that's it...{WAIT}Leave the rest to us!!{/SAY}
+
+[131.078]
+Director Wong
+{SAY}Oh... you.{WAIT}We couldn't stop the powder...{WAIT}Look at us.{/SAY}
+
+[131.079]
+Director Wong
+{SAY}What!? Master Shu! I see...{WAIT}Now the town will change...{WAIT}Thank you, from us all!{/SAY}
+
+[131.080]
+Director Wong
+{SAY}Oh! It's you!{WAIT}Thanks to you, the town is changing!{WAIT}Thank you!{/SAY}
+
+[131.081]
+Dr. Whitoiset
+{SAY}Go south to Angkor Wat. Take care!{/SAY}
+
+[131.082]
+Dr. Whitoiset
+{SAY}The other God Stones...{WAIT}likely lie where you haven't been...{WAIT}The train goes west now. Good luck!{/SAY}
+
+[131.083]
+Dr. Whitoiset
+{SAY}Hm? {NAME:19}? Didn't you take the train?{/SAY}
+
+[131.084]
+
+《{NAME:19} and company told him of their promise to {NAME:03}》
+
+[131.085]
+Dr. Whitoiset
+{SAY}I see... Sorry to worry you.{WAIT}The powder from Angkor Wat stopped.{WAIT}But it's sold on the black market...{WAIT}The townsfolk may know the source...{/SAY}
+
+[131.086]
+Dr. Whitoiset
+{SAY}Oh, {NAME:19}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. So it was.{HOLD}But the Trans-Siberian is leaving soon!{WAIT}Hurry.{WAIT}Leave the town to us!{/SAY}
+
+[131.087]
+Dr. Whitoiset
+{SAY}Oh, {NAME:19}. We owe you everything!!{WAIT}But the Trans-Siberian is leaving soon!{WAIT}Hurry.{WAIT}Leave the town to us!{/SAY}
+
+[131.088]
+Dr. Whitoiset
+{SAY}Oh, {NAME:19}. Doing your best?{WAIT}Leave this town to us!{/SAY}
+
+[131.089]
+Dr. Whitoiset
+{SAY}{NAME:19}... We meant to save the town ourselves...{HOLD}One day the townsfolk became monsters.{WAIT}We lacked the power...{/SAY}
+
+[131.090]
+{SAY}{NAME:19}!{PAUSE:0A} You've come!{WAIT}Don't be surprised.{PAUSE:0A} I'm Whitoiset, Croiset's twin.{/SAY}
+
+[131.091]
+Dr. Whitoiset
+{SAY}Croiset told me much about you.{WAIT}...{PAUSE:19}You've come a long way.{WAIT}{NAME:19},{PAUSE:14} {NAME:01},{PAUSE:14} {NAME:02}.{/SAY}
+
+[131.092]
+Director Wong
+{SAY}Director Akashi of Neo-Kobe told me about you.{WAIT}Would you go to Angkor Wat for us?{/SAY}
+
+[131.093]
+{NAME:01}
+{SAY}Angkor Wat!{/SAY}
+
+[131.094]
+Director Wong
+{SAY}This yellow powder ruined Honmaka...{WAIT}Those who breathe it go mad and sink into gambling and drugs...{WAIT}How long can we stay sane...{/SAY}
+
+[131.095]
+Dr. Whitoiset
+{SAY}The powder comes from Angkor Wat, south!{WAIT}The aliens hold it. We can't touch it.{WAIT}So we ask you.{/SAY}
+
+[131.096]
+{NAME:02}
+{SAY}Understood. {NAME:19} and I will go.{/SAY}
+
+[131.097]
+{NAME:01}
+{SAY}What are you saying! I'm going too.{WAIT}Right, {NAME:19}?{/SAY}
+
+[131.098]
+Let's go!
+You wait here!
+
+[131.099]
+{SAY}What! You don't care either way!?{/SAY}
+
+[131.100]
+{NAME:01}
+{SAY}Of course!{/SAY}
+
+[131.101]
+{NAME:01}
+{SAY}{NAME:19}! Whatever you say, I'm going.{/SAY}
+
+[131.102]
+Dr. Whitoiset
+{SAY}Then I'm counting on you, as Bless members.{/SAY}
+
+[131.103]
+Director Wong
+{SAY}We should send an Attack Team...{WAIT}but no one joins. We can barely defend the town.{WAIT}Please.{/SAY}
+
+[131.104]
+Dr. Whitoiset
+{SAY}...Ah, I forgot.{WAIT}Angkor Wat has a legend of a strange stone.{/SAY}
+
+[131.105]
+{NAME:01}
+{SAY}A strange... stone?{/SAY}
+
+[131.106]
+Dr. Whitoiset
+{SAY}Whoever touches it gains immortality, they say.{/SAY}
+
+[131.107]
+{NAME:01}
+{SAY}Could it be...{/SAY}
+
+[131.108]
+Dr. Whitoiset
+{SAY}Croiset thought it was like Mt. Tsukubane's relic...{WAIT}The aliens block any study.{WAIT}Tell us if you learn anything.{/SAY}
+
+[131.109]
+Director Wong
+{SAY}The giant stone head at Angkor's gate has a switch in its right eye.{WAIT}Press it to go on.{WAIT}...Be careful.{/SAY}
+
+[131.110]
+Director Wong
+{SAY}What! You beat the aliens at Angkor Wat!{WAIT}Thank you!{WAIT}...This town is saved!!{/SAY}
+
+[131.111]
+Dr. Whitoiset
+{SAY}So there was a God Stone!{HOLD}The legendary stones around the world may be more of them...{WAIT}There must be more!{/SAY}
+
+[131.112]
+{NAME:01}
+{SAY}..........!{/SAY}
+
+[131.113]
+{NAME:02}
+{SAY}..........!{/SAY}
+
+[131.114]
+Dr. Whitoiset
+{SAY}Europe has many such legends.{WAIT}{NAME:19}, everyone, head west!{WAIT}The way will open!{/SAY}
+
+[131.115]
+{NAME:02}
+{SAY}West...{/SAY}
+
+[131.116]
+Director Wong
+{SAY}Leave the town to us.{WAIT}It isn't at peace yet, but that's our job.{WAIT}...{PAUSE:1E}A train reached Vladivostok Station.{WAIT}Take it west.{WAIT}...Good luck.{/SAY}
+
+[131.117]
+{SAY}Director Wong is out.{WAIT}Come back later.{/SAY}
+
+[131.118]
+{SAY}Dr. Whitoiset studies Angkor Wat.{WAIT}They say there's a strange stone...{/SAY}
+
+[131.119]
+{SAY}What! You beat the aliens at Angkor Wat!?{WAIT}That's amazing!!{/SAY}
+
+[131.120]
+{SAY}You beat the aliens, but people here haven't changed.{WAIT}Is this town worth protecting...{/SAY}
+
+[131.121]
+{SAY}I see{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}Don't worry! We'll manage the rest ourselves!!{/SAY}
+
+[131.122]
+{SAY}Thank you! Now people will change too!!{/SAY}
+
+[131.123]
+{SAY}This is Honmaka Bless... with no members...{/SAY}
+
+[131.124]
+{SAY}A monk went south to Angkor Wat-aru.{/SAY}
+
+[131.125]
+{SAY}Everyone!{WAIT}Long time no see!{/SAY}
+
+[131.126]
+{SAY}The powder's gone, but people's hearts are still clouded...{WAIT}What can we do...{/SAY}
+
+[131.127]
+{SAY}The darkness in people's hearts wants out, with the powder's help...{WAIT}What will become of us......{/SAY}
+
+[131.128]
+{SAY}What!?{WAIT}Is that so?{WAIT}Thank you.{WAIT}Now this town is saved!!{/SAY}
+
+[131.129]
+{SAY}You didn't just beat the aliens. You helped rebuild this town.{WAIT}Thank you!{/SAY}
+
+[131.130]
+{SAY}This is Honmaka Bless.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0F}This town is rotten.
+
+[131.131]
+{SAY}This is Honmaka Bless. ...{PAUSE:14}The town may rot. We won't.
+
+[131.132]
+{SAY}We don't know where the powder comes from, but some big shot is behind it...{/SAY}
+
+[131.133]
+{SAY}I see...{PAUSE:3C} Master Shu...{WAIT}But it's safe now.{/SAY}
+
+[131.134]
+{SAY}We owe our peace to you.{WAIT}But from now on, protecting the town{WAIT}is up to us!!{/SAY}
+
+[131.135]
+{SAY}{NAME:19}, I heard-aru.{WAIT}I can't go, but take this.{/SAY}
+
+[131.136]
+
+《Got the Sanity Bracelet!》
+
+[131.137]
+{SAY}Hm? Hmmm? Is one of your friends named {NAME:01}?{/SAY}
+
+[131.138]
+{SAY}Then never mind! ...{PAUSE:14}Hic!{/SAY}
+
+[131.139]
+{SAY}Must be nice to be young... ...{PAUSE:14}Hic!{/SAY}
+
+[131.140]
+{SAY}Then, to work!{/SAY}
+
+[131.141]
+{SAY}Mail! Delivering anywhere in the world.{PAUSE:28}...{PAUSE:14}Hic!{WAIT}You're {NAME:01}? Special delivery.{/SAY}
+
+[131.142]
+《{NAME:01} received a letter...{WAIT}Why, it was from {NAME:03}!》
+
+[131.143]
+{SAY}That was the mailman who never shows the strain. See ya{/SAY}
+
+[131.144]
+
+《{NAME:01} read the letter...》{WAIT}
+{CLEAR}"{NAME:01}, everyone, I'm fine.{WAIT}Don't worry. Beat those aliens.{WAIT}{NAME:01}... I can't say it to your face.{WAIT}I love you, {NAME:01}!{WAIT}...See ya."
+
+[131.145]
+{SAY}Happiness comes~ with yellow powder~{/SAY}
+
+[131.146]
+{SAY}Damn, free happiness...{HOLD}Why'd it go!{HOLD}My happy powder!{/SAY}
+
+[131.147]
+{SAY}...Merry Honmaka, jolly Honmaka, Honmaka!!{/SAY}
+
+[131.148]
+{SAY}...Merry Honmaka, jolly Honmaka, Honmaka!!{PAUSE:78}{WAIT}...So{PAUSE:1E} the powder's gone? Honmaka?{/SAY}
+
+[131.149]
+{SAY}I hope this town gets saner...{WAIT}...No, we'll make it so!{/SAY}
+
+[131.150]
+{SAY}Daddy said he'd bring home lots of money.{WAIT}I can't wait!{/SAY}
+
+[131.151]
+{SAY}Her father gambled it all away and vanished.{WAIT}Poor child...{/SAY}
+
+[131.152]
+{SAY}Honmaka... Hon-hazy{WAIT}Hon-hazy...... Wooozy!!{/SAY}
+
+[131.153]
+{SAY}Boo hoo hoo{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}It wasn't a dream!{/SAY}
+
+[131.154]
+{SAY}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.He's{PAUSE:1E} hopeless!!{/SAY}
+
+[131.155]
+{SAY}..................{/SAY}
+
+[131.156]
+{SAY}Welcome-aru! Hm? Outsiders!?{WAIT}Go home! Boss gets mad if I sell powder to outsiders!{/SAY}
+
+[131.157]
+{SAY}Boss stopped supplying powder, so prices shot up!{WAIT}I'm rich!{/SAY}
+
+[131.158]
+{SAY}The powder's back on the street! Can't stop laughing!{/SAY}
+
+[131.159]
+{SAY}Can't get the powder again-aru.{WAIT}Business is hard-aru!!{/SAY}
+
+[131.160]
+{SAY}...I feel like I was having a long dream.{/SAY}
+
+[131.161]
+{SAY}No business with the poor-aru!{WAIT}Honmaka's famous yellow powder-aru?{WAIT}...Outsiders! Go away!{/SAY}
+
+[131.162]
+{SAY}No powder, no business!{WAIT}So mad!{/SAY}
+
+[131.163]
+{SAY}Step right up! A taste of heaven! The original yellow powder!{/SAY}
+
+[131.164]
+{SAY}Step right up! This is the last one!!{/SAY}
+
+[131.165]
+{SAY}...What was I doing...{/SAY}
+
+[131.166]
+{SAY}Please... sell me powder...{WAIT}I'll pay later... please...{/SAY}
+
+[131.167]
+{SAY}I can't get yellow powder...{/SAY}
+
+[131.168]
+{SAY}..................{/SAY}
+
+[131.169]
+{SAY}..................{PAUSE:3C}{WAIT}I could never afford it anyway.{/SAY}
+
+[131.170]
+{SAY}...My head hurts...{/SAY}
+
+[131.171]
+{SAY}Not even a nosebleed.{/SAY}
+
+[131.172]
+"...Trans-Siberian Railway notice...
+
+[131.173]
+　Train for Moscow: no departure scheduled yet"
+
+[131.174]
+　Train for Moscow: departing soon!"
+
+[131.175]
+　Closed due to a crash. No date for reopening"
+
+[131.176]
+{SAY}This is classy Honmaka Rich Town-aru. 100G to enter.{WAIT}.{PAUSE:0C}.{PAUSE:0C}.{PAUSE:0F}But today it's free-aru! Go on in.{/SAY}
+
+[131.177]
+{SAY}...{PAUSE:1E}Want to hear a story? Then pay 100G.{/SAY}
+
+[131.178]
+《Pay?》
+
+
+[131.179]
+{SAY}Welcome to Honmaka, town of food and gambling-aru!{/SAY}
+
+[131.180]
+{SAY}Huh, you don't have enough money!{/SAY}
+
+[131.181]
+{SAY}.....{/SAY}
+
+[131.182]
+{SAY}Honmaka Bless is upstairs.{HOLD}Big operation, they say, but no recruits...{/SAY}
+
+[131.183]
+{SAY}What, you beat the Angkor Wat aliens!?{WAIT}...People can do it.{/SAY}
+
+[131.184]
+{SAY}Honmaka is changing.{WAIT}Another youth joined Bless today!!{/SAY}
+
+[131.185]
+{SAY}No decent food lying around here, woof.{WAIT}Grrrr...{/SAY}
+
+[131.186]
+{SAY}D-don't stop me!! I'll die!!{WAIT}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0F}What? The roof is "closest to the sky"?{HOLD}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0F}Idiot! I'll die!!{/SAY}
+
+[131.187]
+
+　《{NAME:19} and company were robbed of all their money.》
+
+[131.188]
+
+　《{NAME:19} and company's HP dropped to 1.》
+
+[131.189]
+{SAY}No!! Look behind the dream and you'll suffer-aru.{WAIT}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0C}Leave quick-aru.{/SAY}
+
+[131.190]
+{SAY}Welcome-aru! This is Honmaka Kowloon Town, place of dreams-aru{/SAY}
+
+[131.191]
+{SAY}2000G to leave. No pay, no pass-aru.{WAIT}Easy in, hard out! ...Bless members?{WAIT}Don't care-aru!!{/SAY}{HOLD}　《Pay?》
+
+[131.192]
+{SAY}Come again-aru!{/SAY}
+
+[131.193]
+{SAY}You don't have 2000G-aru!{/SAY}
+
+[131.194]
+{SAY}Paupers, get out-aru!{/SAY}
+
+[131.195]
+{SAY}No passing till you pay-aru!{/SAY}
+
+[131.196]
+{SAY}Come again-aru!{/SAY}
+
+[131.197]
+{SAY}Welcome! "High-Low".{WAIT}You'll win next time-aru.{WAIT}1000G a game. Win triple!{/SAY}
+
+[131.198]
+{SAY}Will you play?{/SAY}
+
+
+[131.199]
+{SAY}High or low?{/SAY}
+
+
+[131.200]
+Low
+
+[131.201]
+High
+
+[131.202]
+{SAY}Rolling!{/SAY}
+
+[131.203]
+{SAY}Not enough money. Sell your gear!{/SAY}
+
+[131.204]
+{SAY}Chicken...{/SAY}
+
+[131.205]
+{SAY}Low!{/SAY}
+
+[131.206]
+{SAY}You win!!{/SAY}
+
+[131.207]
+{SAY}High!{/SAY}
+
+[131.208]
+{SAY}You lose!{/SAY}
+
+[131.209]
+{SAY}High!{/SAY}
+
+[131.210]
+{SAY}You win!!{/SAY}
+
+[131.211]
+{SAY}Low!{/SAY}
+
+[131.212]
+{SAY}You lose!{/SAY}
+
+[131.213]
+{SAY}Welcome! "Big-Small". You'll win next time-aru.{WAIT}100G a game. Win double!{/SAY}
+
+[131.214]
+{SAY}Will you play?{/SAY}
+
+
+[131.215]
+{SAY}Big or small?{/SAY}
+
+
+[131.216]
+Small
+
+[131.217]
+Big
+
+[131.218]
+{SAY}Rolling!{/SAY}
+
+[131.219]
+{SAY}Not enough money. Sell your items!{/SAY}
+
+[131.220]
+{SAY}Chicken...{/SAY}
+
+[131.221]
+{SAY}Small!{/SAY}
+
+[131.222]
+{SAY}You win!!{/SAY}
+
+[131.223]
+{SAY}Big!{/SAY}
+
+[131.224]
+{SAY}You lose!{/SAY}
+
+[131.225]
+{SAY}Big!{/SAY}
+
+[131.226]
+{SAY}You win!!{/SAY}
+
+[131.227]
+{SAY}Small!{/SAY}
+
+[131.228]
+{SAY}You lose!{/SAY}
+
+[131.229]
+{SAY}Welcome! "Odd-Even". You'll win next time-aru.{WAIT}3000G a game. Win five times your bet!{/SAY}
+
+[131.230]
+{SAY}Will you play?{/SAY}
+
+
+[131.231]
+{SAY}Odd or even?{/SAY}
+
+
+[131.232]
+Odd
+
+[131.233]
+Even
+
+[131.234]
+{SAY}Rolling!{/SAY}
+
+[131.235]
+{SAY}Not enough money. Sell your friends!{/SAY}
+
+[131.236]
+{SAY}Chicken...{/SAY}
+
+[131.237]
+{SAY}Odd!{/SAY}
+
+[131.238]
+{SAY}You win!!{/SAY}
+
+[131.239]
+{SAY}Even!{/SAY}
+
+[131.240]
+{SAY}You lose!{/SAY}
+
+[131.241]
+{SAY}Even!{/SAY}
+
+[131.242]
+{SAY}You win!!{/SAY}
+
+[131.243]
+{SAY}Odd!{/SAY}
+
+[131.244]
+{SAY}You lose!{/SAY}
+
+[131.245]
+{SAY}Rich or poor, makes no difference!!{/SAY}
+
+[131.246]
+{SAY}You don't have enough money!{/SAY}
+
+[131.247]
+{SAY}...Money or love... What do I do?{/SAY}
+
+[131.248]
+{SAY}Not money, not love. I'd rather have you.{/SAY}
+
