@@ -1,0 +1,17 @@
+[gim_help_syouyuya.360]
+Something's written on the sign. Try touching it!
+
+[gim_help_syouyuya.456]
+Press the START Button to pause.
+
+The pause menu has Save, so save often.
+
+[gim_help_syouyuya.592]
+The B Button jumps. Items are the X Button. The Y Button attacks. Use each button for its job.
+
+[gim_help_syouyuya.756]
+The SELECT Button changes the player. Pick the right one for each player's strengths.
+
+[gim_help_syouyuya.928]
+Hold the L Button and R Button together and press the A Button to turn the backlight on or off.
+

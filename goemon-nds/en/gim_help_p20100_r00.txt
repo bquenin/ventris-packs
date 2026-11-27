@@ -1,0 +1,3 @@
+[gim_help_p20100_r00.184]
+The Power Glove lets you push and pull blocks. Press the Y Button in front of a block to grab it, and move it with the +Control Pad.
+

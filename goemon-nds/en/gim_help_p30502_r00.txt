@@ -1,0 +1,3 @@
+[gim_help_p30502_r00.184]
+Once the plate spins fast, you can ride it. Touch it to spin it.
+

@@ -1,0 +1,126 @@
+[dojo.0524]
+The end.
+
+[dojo.0596]
+The end.
+
+[dojo.0668]
+The end.
+
+[dojo.0740]
+The end.
+
+[dojo.0986]
+Then I shall teach you the art!
+
+[dojo.1310]
+Hold the R Button and press left or right on the +Control Pad to switch to an art.{0D}{0A}To use it, press the X Button.{0D}{0A}To use an art, you need to fill the art meter.
+
+[dojo.1846]
+Welcome! This is the training hall of Wrath.
+
+[dojo.1964]
+Sasuke, I shall teach you an art.
+
+[dojo.2042]
+It costs 500 ryo. What say you?
+
+[dojo.2098]
+Yes
+
+[dojo.2114]
+No
+
+[dojo.2174]
+You lack the money. Bring 500 ryo, and come again.
+
+[dojo.2332]
+Learned the Giant Octopus Art!
+
+[dojo.2456]
+You are not Sasuke. I cannot teach you the art. Come again.
+
+[dojo.2564]
+I see. Come again when you feel like it.
+
+[dojo.2658]
+Welcome! This is the training hall of Chaos.
+
+[dojo.2776]
+Yae, I shall teach you an art.
+
+[dojo.2852]
+It costs 500 ryo. What say you?
+
+[dojo.2908]
+Yes
+
+[dojo.2924]
+No
+
+[dojo.2984]
+You lack the money. Bring 500 ryo, and come again.
+
+[dojo.3142]
+Learned the Chaos Dice Art!
+
+[dojo.3272]
+You are not Yae. I cannot teach you the art. Come again.
+
+[dojo.3378]
+I see. Come again when you feel like it.
+
+[dojo.3470]
+Welcome! This is the training hall of the Warring States.
+
+[dojo.3592]
+Goemon, I shall teach you an art.
+
+[dojo.3672]
+It costs 300 ryo. What say you?
+
+[dojo.3728]
+Yes
+
+[dojo.3744]
+No
+
+[dojo.3804]
+You lack the money. Bring 300 ryo, and come again.
+
+[dojo.3962]
+Learned the Warring States Impact Art!
+
+[dojo.4098]
+You are not Goemon. I cannot teach you the art. Come again.
+
+[dojo.4208]
+I see. Come again when you feel like it.
+
+[dojo.4302]
+Welcome! This is the training hall of the Celestial Maiden.
+
+[dojo.4424]
+Ebisumaru, I shall teach you an art.
+
+[dojo.4518]
+It costs 500 ryo. What say you?
+
+[dojo.4574]
+Yes
+
+[dojo.4590]
+No
+
+[dojo.4650]
+You lack the money. Bring 500 ryo, and come again.
+
+[dojo.4808]
+Learned the Celestial Maiden Art!
+
+[dojo.4934]
+You are not Ebisumaru. I cannot teach you the art. Come again.
+
+[dojo.5058]
+I see. Come again when you feel like it.
+

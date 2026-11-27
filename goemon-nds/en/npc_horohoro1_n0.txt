@@ -1,0 +1,30 @@
+[npc_horohoro1_n0.0584]
+Take care.
+
+[npc_horohoro1_n0.0618]
+Where could she be hiding...
+
+[npc_horohoro1_n0.0760]
+Set that talisman as your item, and hold it up with the X Button right in front of the yokai.
+
+[npc_horohoro1_n0.0920]
+Be careful, now.
+
+[npc_horohoro1_n0.0980]
+Be careful, now.
+
+[npc_horohoro1_n0.1072]
+Going back to town?
+
+[npc_horohoro1_n0.1158]
+Yes
+
+[npc_horohoro1_n0.1174]
+No
+
+[npc_horohoro1_n0.1232]
+Off to town.
+
+[npc_horohoro1_n0.1380]
+I see. Come again.
+

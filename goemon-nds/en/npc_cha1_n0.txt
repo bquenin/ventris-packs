@@ -1,0 +1,18 @@
+[npc_cha1_n0.0424]
+Deeelicious.
+
+[npc_cha1_n0.0520]
+It's tasty.
+
+[npc_cha1_n0.0616]
+Tea sure is good.
+
+[npc_cha1_n0.0822]
+Don't push yourself too hard.{0D}{0A}If things get dangerous, don't forget to restore your health right away.
+
+[npc_cha1_n0.1058]
+Hup! Getting ready is hard work.
+
+[npc_cha1_n0.1130]
+Oh, Goemon and company. Make yourselves at home.
+

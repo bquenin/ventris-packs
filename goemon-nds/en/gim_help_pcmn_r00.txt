@@ -1,0 +1,10 @@
+[gim_help_pcmn_r00.240]
+Touch the "?" above the player's head. I'll give you a hint!
+
+[gim_help_pcmn_r00.380]
+Move the player to the middle of the rope,
+
+then pull the rope down hard!
+
+When you let go of the rope, you'll make a big jump.
+

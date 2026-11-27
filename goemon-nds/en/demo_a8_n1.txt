@@ -1,0 +1,24 @@
+[demo_a8_n1.0866]
+Oh, Goemon!{0D}{0A}My castle{WAIT:000F} has been taken over by some ruffians I've never seen!
+
+[demo_a8_n1.1172]
+That rat Kinemon!{WAIT:000F} He's already made it to Edo Castle!
+
+[demo_a8_n1.1394]
+Couldn't ya{WAIT:000F} have put up a little fight, my lord?!
+
+[demo_a8_n1.1528]
+Princess Yuki has taken refuge at Tokutaro's house for now, and is safe,{0D}{0A}but the castle{WAIT:000F} is already in enemy hands.
+
+[demo_a8_n1.1790]
+Won't you take back my castle for me,{WAIT:000F} Goemon?
+
+[demo_a8_n1.1904]
+You got it!
+
+[demo_a8_n1.2000]
+Hey, everybody!{WAIT:000F} We're headin' for Edo Castle.
+
+[demo_a8_n1.2342]
+I'm counting on you!{WAIT:000F} Goemon and company.
+

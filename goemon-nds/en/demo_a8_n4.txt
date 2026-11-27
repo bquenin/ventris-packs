@@ -1,0 +1,66 @@
+[demo_a8_n4.0932]
+Grrrr!{WAIT:001E} Not bad at all,{WAIT:001E} Goemon.
+
+[demo_a8_n4.1004]
+But hear this:{WAIT:001E} I still have my giant weapon.
+
+[demo_a8_n4.1118]
+Behold the power of the legendary treasures,{WAIT:001E} and tremble!
+
+[demo_a8_n4.1896]
+This is the big finale,{WAIT:000F} Goemon!
+
+[demo_a8_n4.2082]
+If it's a big machine,{WAIT:0014} we'll fight back with Goemon Impact!
+
+[demo_a8_n4.2244]
+Save your game?
+
+[demo_a8_n4.2282]
+Yes
+
+[demo_a8_n4.2298]
+No
+
+[demo_a8_n4.2402]
+The save failed.
+
+[demo_a8_n4.2450]
+Saved.
+
+[demo_a8_n4.3510]
+Found ya,{WAIT:000F} Kinemon!
+
+[demo_a8_n4.3588]
+How 'bout you give it up already!
+
+[demo_a8_n4.3776]
+Say sorry and we'll let ya off,{WAIT:0014} so hurry up and give it up.
+
+[demo_a8_n4.3928]
+Give up?{WAIT:001E} Why should I give up?
+
+[demo_a8_n4.4124]
+You must pay for the crime of throwing Edo into chaos!
+
+[demo_a8_n4.4338]
+Hey, hey!{WAIT:000F} I keep quiet and listen, and you get cocky!
+
+[demo_a8_n4.4440]
+I'm just about{WAIT:000F} to make this country mine,{0D}{0A}so like hell I'm givin' up!
+
+[demo_a8_n4.4708]
+Get outta here!{WAIT:000F} This country belongs to all of us.
+
+[demo_a8_n4.4798]
+Like we'd ever let you have your way!
+
+[demo_a8_n4.4896]
+Bwahahaha!
+
+[demo_a8_n4.4920]
+Now that I have the Three Sacred Treasures,{WAIT:000F} I am invincible!
+
+[demo_a8_n4.5082]
+The likes of you{WAIT:000F} I can crush without even using the treasures' power!
+
