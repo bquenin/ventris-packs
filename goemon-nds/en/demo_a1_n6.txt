@@ -1,0 +1,54 @@
+[demo_a1_n6.1202]
+Hm?{WAIT:000F} Why, if it isn't Goemon.
+
+[demo_a1_n6.1250]
+Come to steal the temple's precious treasure, have ye!
+
+[demo_a1_n6.1374]
+Kyaaah!!
+
+[demo_a1_n6.1478]
+Thwump!!
+
+[demo_a1_n6.1672]
+Owowowow{07:0008}...
+
+[demo_a1_n6.1714]
+S-Suzu! Quickly, drive these fellows off!
+
+[demo_a1_n6.1842]
+Head priest,{WAIT:000F} these people came to protect the temple's treasure.
+
+[demo_a1_n6.2090]
+Anyway, priest.{WAIT:000F} Won't you hear us out?
+
+[demo_a1_n6.2260]
+...{07:0006}I see, I see.
+
+[demo_a1_n6.2302]
+In truth, I too suspected the real culprits were someone else{07:0008}...
+
+[demo_a1_n6.2434]
+Oh, quit fibbin'!
+
+[demo_a1_n6.2476]
+Ahem, ahem!{0D}{0A}Horohoro Temple has had a treasure hall since olden times{07:0008}...{0D}{0A}{07:0006}but was there ever a treasure in it worth a thief's trouble,{WAIT:000F} I wonder?
+
+[demo_a1_n6.2772]
+Anyway,{WAIT:000F} we gotta catch the culprits.
+
+[demo_a1_n6.2898]
+How do we get to the treasure hall?
+
+[demo_a1_n6.2996]
+I see.{WAIT:001E} Suzu, break the seal for them.
+
+[demo_a1_n6.3110]
+Yes,{WAIT:000F} head priest.
+
+[demo_a1_n6.3498]
+Hah!
+
+[demo_a1_n6.3850]
+Take care on your way.
+

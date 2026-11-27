@@ -1,0 +1,153 @@
+[npc_town1_n1.0652]
+Hey, hey, is this man a bad guy?{0D}{0A}
+
+[npc_town1_n1.0832]
+When I grow up I'm gonna teach this bad guy a lesson!!
+
+[npc_town1_n1.1072]
+Didja hear? Somebody punched a hole in the bottom of the soy sauce shop's barrel.
+
+[npc_town1_n1.1380]
+That man in front of me holding the bundle, don't you think he looks suspicious?
+
+[npc_town1_n1.1564]
+So slow...{0D}{0A}I ordered dumplings over an hour ago and they still haven't come.
+
+[npc_town1_n1.1760]
+What's all this "Hagure Town's darling, Omitsu"!{0D}{0A}I'm way cuter than her!{0D}{0A}Don't you think so too?
+
+[npc_town1_n1.1992]
+If you want hints, you should talk to the people inside the houses.{0D}{0A}The folks outside are a careless lot.
+
+[npc_town1_n1.2228]
+Dona dona do-na, dona-na...{0D}{0A}Huh? Why am I singing? That's something{0D}{0A}you'll have to ask whoever put me here. Guess they were in that kind of mood, huh?
+
+[npc_town1_n1.2492]
+I'd like to talk with Lady Omitsu, but what should I say...{0D}{0A}"This sword is ever so sharp, you know!"{0D}{0A}Hmm, no, that won't do...
+
+[npc_town1_n1.2792]
+Going to Horohoro Temple?
+
+[npc_town1_n1.2884]
+Yes
+
+[npc_town1_n1.2900]
+No
+
+[npc_town1_n1.2958]
+Off to Horohoro Temple!
+
+[npc_town1_n1.3080]
+All right, come again.
+
+[npc_town1_n1.3210]
+Going to Horohoro Temple?
+
+[npc_town1_n1.3302]
+Yes
+
+[npc_town1_n1.3318]
+No
+
+[npc_town1_n1.3376]
+Off to Horohoro Temple!
+
+[npc_town1_n1.3498]
+All right, come again.
+
+[npc_town1_n1.3576]
+...... I don't give rides to criminals.
+
+[npc_town1_n1.3694]
+Thanks for finding her!!
+
+[npc_town1_n1.3760]
+Waaah, waaah, Mommyyy!!
+
+[npc_town1_n1.3818]
+Hey, do you know where my mommy went?{0D}{0A}.{0D}{0A}..{0D}{0A}...{0D}{0A}Waaah!! I'm lost!!{0D}{0A}Hey, will you look for my mommy?
+
+[npc_town1_n1.4096]
+Yes
+
+[npc_town1_n1.4112]
+No
+
+[npc_town1_n1.4142]
+Really!? Thank youuu!!
+
+[npc_town1_n1.4194]
+Meanie!!
+
+[npc_town1_n1.4258]
+My old man's hopeless, he can't be bothered with anything.
+
+[npc_town1_n1.4344]
+You've gone and taken on another weird job, huh.
+
+[npc_town1_n1.4458]
+My dad asked you to check on his sons?{0D}{0A}Yeah, I'm the youngest, but{0D}{0A}I'm right in front of him, he could've come and checked himself...
+
+[npc_town1_n1.4830]
+Found the youngest son!!{0D}{0A}
+
+[npc_town1_n1.4966]
+Much obliged. That's all I need from you.
+
+[npc_town1_n1.5068]
+So far you've tracked down...
+
+[npc_town1_n1.5154]
+the youngest, in Edo.
+
+[npc_town1_n1.5248]
+the second son, who became a ninja.
+
+[npc_town1_n1.5342]
+the fourth son, festival-crazy.
+
+[npc_town1_n1.5430]
+the third son, a samurai.
+
+[npc_town1_n1.5516]
+the eldest son, a Kyo man now.
+
+[npc_town1_n1.5616]
+Nobody at all? Hopeless, hopeless.
+
+[npc_town1_n1.5692]
+Oh, you found every one of them!{0D}{0A}What a mixed bunch of sons, though...{0D}{0A}Anyway, thanks for the long journey. Here's something for your trouble.
+
+[npc_town1_n1.6034]
+Got 500 ryo for your trouble!
+
+[npc_town1_n1.6166]
+One
+
+[npc_town1_n1.6204]
+Two
+
+[npc_town1_n1.6242]
+Three
+
+[npc_town1_n1.6268]
+Four
+
+[npc_town1_n1.6300]
+ of them, huh. Hurry and find the rest of the brothers.
+
+[npc_town1_n1.6422]
+I wonder how my boys are doing...{0D}{0A}Say, would you go check on them for me?
+
+[npc_town1_n1.6652]
+Yes
+
+[npc_town1_n1.6668]
+No
+
+[npc_town1_n1.6698]
+That'd be a big help. My boys are five brothers, scattered all over the country,{0D}{0A}so please make sure every one of them is safe and sound.
+
+[npc_town1_n1.6990]
+Is there no one left in this world with a warm heart...
+

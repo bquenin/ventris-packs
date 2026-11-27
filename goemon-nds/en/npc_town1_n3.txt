@@ -1,0 +1,72 @@
+[npc_town1_n3.0780]
+Keep going, all the way to Kyo!
+
+[npc_town1_n3.0840]
+Then without further ado, here's your question!
+
+[npc_town1_n3.0924]
+My chin's been getting longer lately...
+
+[npc_town1_n3.1180]
+Oh? Are you a quiz contestant?
+
+[npc_town1_n3.1238]
+Yes
+
+[npc_town1_n3.1254]
+No
+
+[npc_town1_n3.1272]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town1_n3.1428]
+You shall not pass!!
+
+[npc_town1_n3.1632]
+This is the gate of Edo Castle, but they just won't let me in.
+
+[npc_town1_n3.1788]
+No way! Go home!!
+
+[npc_town1_n3.1880]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town1_n3.2180]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town1_n3.2372]
+This big mansion, you see,{0D}{0A}.{0D}{0A}..{0D}{0A}...{0D}{0A}Whose mansion was it again? I've forgotten.
+
+[npc_town1_n3.2608]
+Don't you attack the townsfolk.{0D}{0A}The scary officers will come after you.
+
+[npc_town1_n3.2958]
+Owowowow....
+
+[npc_town1_n3.3042]
+An intruder in the castle....
+
+[npc_town1_n3.3208]
+Set a straw raincoat or armor with the R Button to wear it.{0D}{0A}Then it'll block enemy attacks for you automatically.{0D}{0A}Only so many times, mind you.
+
+[npc_town1_n3.3654]
+Th-the magistrate has turned traitor!
+
+[npc_town1_n3.3798]
+Edo Castle is in danger!
+
+[npc_town1_n3.3972]
+I see...
+
+[npc_town1_n3.4006]
+This is your first time, isn't it? Then let me explain the rules quickly.{0D}{0A}First, you look for the quizmasters who ask questions in each town.{0D}{0A}Answer a question correctly and you win prize money in that town.{0D}{0A}But careful: you only get one chance to answer in each town.{0D}{0A}And now, the first question of the "Tokaido Fifty-Three Stations Ultro Quiz"!{0D}{0A}The Edicts on Compassion for Living Things laid down by Tokugawa Tsunayoshi were laws to protect what?
+
+[npc_town1_n3.4882]
+Animals
+
+[npc_town1_n3.4914]
+Food
+
+[npc_town1_n3.4980]
+Got 50 ryo in prize money!
+

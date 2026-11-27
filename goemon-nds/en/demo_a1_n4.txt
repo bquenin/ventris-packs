@@ -1,0 +1,45 @@
+[demo_a1_n4.0426]
+Oh! Goemon!{WAIT:001E}{07:0005} Are you all right?
+
+[demo_a1_n4.0726]
+Phew,{WAIT:000F} we managed to escape somehow.
+
+[demo_a1_n4.0826]
+Yae came and rescued us.
+
+[demo_a1_n4.0902]
+If only we could clear your names{07:0007}...
+
+[demo_a1_n4.1006]
+By the way, I heard Horohoro Temple got a warning that a crime is coming.{0D}{0A}Why not lie in wait and catch the real culprits?
+
+[demo_a1_n4.1274]
+Oh!{WAIT:000F} That's a great idea!
+
+[demo_a1_n4.1350]
+I ain't gonna forgive whoever put us through this!
+
+[demo_a1_n4.1462]
+You get to Horohoro Temple by boat, from the landing.
+
+[demo_a1_n4.1572]
+And also,{WAIT:000F} take this with you.
+
+[demo_a1_n4.1704]
+If you wear this mask, I don't think the officers will suspect you.
+
+[demo_a1_n4.1934]
+Goemon and Ebisumaru got the Tengu Mask!
+
+[demo_a1_n4.2046]
+Hold the R Button and press the +Control Pad to switch items.{0D}{0A}Release the R Button to put on the mask.
+
+[demo_a1_n4.2340]
+Thanks, Omitsu!
+
+[demo_a1_n4.2424]
+Well, let's go!{WAIT:000F} Ebisumaru.
+
+[demo_a1_n4.2548]
+Righty-o!
+

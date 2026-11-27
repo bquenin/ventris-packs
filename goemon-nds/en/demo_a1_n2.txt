@@ -1,0 +1,36 @@
+[demo_a1_n2.0624]
+Phew,{WAIT:001E} you really saved our hides, Yae.
+
+[demo_a1_n2.0708]
+Putting you two on a wanted list...{0D}{0A}what on earth is going on?
+
+[demo_a1_n2.0884]
+The magistrate was going on about thefts and warning notes, but
+
+[demo_a1_n2.1042]
+In the name of the law! In the name of the law!
+
+[demo_a1_n2.1272]
+Oh!{WAIT:001E}{07:0004} Anyway, I'll look into this a little more.
+
+[demo_a1_n2.1462]
+Here, these are your weapons.
+
+[demo_a1_n2.1730]
+Goemon and Ebisumaru got their weapons!
+
+[demo_a1_n2.1834]
+Hold the L Button and press the +Control Pad to switch weapons.{0D}{0A}Press the Y Button to use them.
+
+[demo_a1_n2.2166]
+We're countin' on ya,{WAIT:000F} Yae!
+
+[demo_a1_n2.2368]
+Goemon,{WAIT:001E} shall we go lookin' for the culprits too, then?
+
+[demo_a1_n2.2486]
+Yeah, but first let's go see Omitsu.
+
+[demo_a1_n2.2584]
+I wanna hear what's goin' on, all of it.
+

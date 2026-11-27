@@ -1,0 +1,13 @@
+format = 2
+game = "goemon-nds"
+language = "en"
+name = "Ganbare Goemon DS in English"
+version = "0.1"
+authors = ["Machine translated, directed by bquenin"]
+license = "CC-BY-NC-SA-4.0"
+description = "Machine translated and not yet reviewed by a human translator. Work in progress: see NOTES.md for what is translated and what has been seen on screen."
+
+[build]
+# The storyteller's screens before each stage are drawn in columns in Japanese; written across, they
+# can be read in English.
+options = ["horizontal-storyteller"]

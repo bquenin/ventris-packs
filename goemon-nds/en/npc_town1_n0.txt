@@ -1,0 +1,54 @@
+[npc_town1_n0.0704]
+Oh, I'm so busy.
+
+[npc_town1_n0.0924]
+Aah! I'm starving! Isn't dinner ready yet?
+
+[npc_town1_n0.1194]
+Oh, Goemon. So this is how the common folk live.
+
+[npc_town1_n0.1288]
+Yuki has never seen such a cramped room before.
+
+[npc_town1_n0.1440]
+You can get up on the roof from that tub.
+
+[npc_town1_n0.1576]
+But don't you go up there.
+
+[npc_town1_n0.1688]
+If you wanna get your strength back, go to an inn or an eatery.{0D}{0A}And make sure you've got the money ready.
+
+[npc_town1_n0.1948]
+The general store sells handy items.{0D}{0A}You'd do well to buy some armor and put it on.
+
+[npc_town1_n0.2212]
+I was packing for a trip and all sorts of things turned up...
+
+[npc_town1_n0.2386]
+Oh, take this if you like.
+
+[npc_town1_n0.2466]
+Got a straw raincoat.
+
+[npc_town1_n0.2604]
+I hear Tokutaro, who lives next door to you, is off on a journey.{0D}{0A}Says it's a trip to become a painter.{0D}{0A}I wish some of his grit would rub off on my son.
+
+[npc_town1_n0.3002]
+Have you seen Goemon?
+
+[npc_town1_n0.3076]
+Have you seen Goemon?
+
+[npc_town1_n0.3150]
+Have you seen Goemon?
+
+[npc_town1_n0.3232]
+Oh, Goemon, pay this month's rent soon, pwease.
+
+[npc_town1_n0.3368]
+Paid 1 ryo in rent!
+
+[npc_town1_n0.3476]
+Gimme pocket money!
+

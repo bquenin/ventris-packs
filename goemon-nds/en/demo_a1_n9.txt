@@ -1,0 +1,48 @@
+[demo_a1_n9.0618]
+Oh,{WAIT:000F} Goemon!
+
+[demo_a1_n9.0672]
+Hey!{WAIT:000F} If it ain't Tokutaro!
+
+[demo_a1_n9.0736]
+What's with{WAIT:000F} that huge bundle?
+
+[demo_a1_n9.0834]
+I'm setting off on a journey, to my great teacher in Kyo.
+
+[demo_a1_n9.0976]
+Kyo? That's a mighty long way to go!
+
+[demo_a1_n9.1102]
+I wrote loads of letters,{WAIT:000F} and they finally let me be his apprentice! The great teacher they call a genius painter!{WAIT:000F} I'm so happy.
+
+[demo_a1_n9.1402]
+I see,{WAIT:000F} good for you.{WAIT:001E} You always were a hard worker. The road's dangerous,{WAIT:000F} so don't push yourself too hard.
+
+[demo_a1_n9.1614]
+Okay,{WAIT:000F} I won't.{WAIT:000F} Hope I run into you along the way, Goemon!
+
+[demo_a1_n9.1744]
+Oh!{07:0005} That's right.
+
+[demo_a1_n9.1778]
+This{WAIT:000F} was lying outside your house, Goemon.
+
+[demo_a1_n9.2024]
+Got the Power Glove!
+
+[demo_a1_n9.2092]
+Hold the L Button and press the +Control Pad to switch weapons.{0D}{0A}The Power Glove can move certain big rocks.
+
+[demo_a1_n9.2468]
+Oh!{WAIT:000F} Thanks a bunch.
+
+[demo_a1_n9.2528]
+Well then,{WAIT:000F} I'd better hurry on.
+
+[demo_a1_n9.2748]
+Right,{WAIT:000F} guess we'd better get going too.
+
+[demo_a1_n9.2874]
+Righty-o.
+

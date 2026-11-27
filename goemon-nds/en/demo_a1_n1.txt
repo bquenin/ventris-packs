@@ -1,0 +1,30 @@
+[demo_a1_n1.0382]
+I'm gettin' hungry,{WAIT:001E} Goemon.
+
+[demo_a1_n1.0464]
+Dammit!{WAIT:001E}{07:0004} Why the heck did we have to get caught!
+
+[demo_a1_n1.0712]
+Whoa!
+
+[demo_a1_n1.0750]
+Honiii!
+
+[demo_a1_n1.1158]
+Goemon!{WAIT:000F} Ebisumaru!{WAIT:000F} I've come to rescue you!
+
+[demo_a1_n1.1288]
+Oh!{WAIT:001E}{07:0004} Yae,{WAIT:000F} you came to get us out?
+
+[demo_a1_n1.1488]
+That was reckless!{WAIT:001E} I thought I was a goner,{WAIT:000F} Yae.
+
+[demo_a1_n1.1618]
+Anyway,{WAIT:000F} let's get out of here, quick.{0D}{0A}The officers will be after us any second.
+
+[demo_a1_n1.1826]
+R-right!{WAIT:000F} Let's go, Ebisumaru!
+
+[demo_a1_n1.1952]
+Hey, hold on a sec, will ya?
+
