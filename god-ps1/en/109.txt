@@ -1,0 +1,111 @@
+[109.000]
+{SAY}Beyond here is Kyushu. No entry without permission.{WAIT}Leave at once!{/SAY}
+
+[109.002]
+{SAY}Thank you so much. It seems everyone will live.{WAIT}...Please take care!{/SAY}
+
+[109.003]
+{SAY}Oh! It's you! Please, go on through!{/SAY}
+
+[109.004]
+{SAY}It's dangerous up ahead.{/SAY}
+
+[109.005]
+{SAY}Leave this place to me!{/SAY}
+
+[109.006]
+{SAY}We'll never let the aliens past here!{/SAY}
+
+[109.007]
+{SAY}Please take care.{/SAY}
+
+[109.008]
+{SAY}If the aliens ever attacked for real...{PAUSE:1E} Brrr... I don't want to think about it.{/SAY}
+
+[109.009]
+{SAY}A traveler... s-suddenly...{/SAY}
+
+[109.010]
+{SAY}They're... not normal...{/SAY}
+
+[109.011]
+{SAY}At first I thought they were human...{/SAY}
+
+[109.012]
+{SAY}...Ow ow ow. You saved me...{/SAY}
+
+[109.013]
+{SAY}S... somebody...!{/SAY}
+
+[109.014]
+{SAY}Gwah!{/SAY}
+
+[109.015]
+{SAY}Gurk!{/SAY}
+
+[109.016]
+{SAY}{NAME:19}!{/SAY}
+
+[109.017]
+Captain
+{SAY}You saved me, {NAME:19}.{/SAY}
+
+[109.018]
+Captain
+{SAY}You men, gather up the wounded!{/SAY}
+
+[109.019]
+{SAY}Sir!!{/SAY}
+
+[109.020]
+Captain
+{SAY}We lost contact, so I rushed over...{/SAY}
+
+[109.021]
+Captain
+{SAY}So Kyushu's up ahead...{WAIT}Smells fishy...{/SAY}
+
+[109.022]
+Captain
+{SAY}Well, whatever.{WAIT}You're continuing your journey, right? Good luck.{/SAY}
+
+[109.023]
+Captain
+{SAY}Huh? What are you talking about? I've got no intention of traveling with you.{HOLD}{PAUSE:1E}See ya.{/SAY}
+
+[109.024]
+
+《Ask the Captain again?》
+
+[109.025]
+Captain
+{SAY}Once I decide something, I don't change it. Now, a goodbye handshake.{/SAY}
+
+[109.026]
+Captain
+{SAY}Well then, a goodbye handshake.{/SAY}
+
+[109.027]
+
+《Shake hands goodbye?》
+
+[109.028]
+Captain
+{SAY}See ya. Good luck.{/SAY}
+
+[109.029]
+Captain
+{SAY}You could at least shake hands. That's etiquette.{/SAY}
+
+[109.030]
+Captain
+{SAY}...{PAUSE:1E}What was that!?{WAIT}...{PAUSE:1E}Don't tell me your power and my power...{/SAY}
+
+[109.031]
+Captain
+{SAY}That's it! They called to each other... They resonated!{WAIT}Psycho resonating with psycho!?{PAUSE:28}{WAIT}All right! Let's go together!{PAUSE:1E} This is going to get interesting!{WAIT}Once I decide something, I don't change it. Let's go, let's go!!{/SAY}
+
+[109.032]
+
+《{NAME:01} joined the party!》
+

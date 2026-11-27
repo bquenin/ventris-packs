@@ -1,0 +1,434 @@
+[111.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[111.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[111.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[111.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[111.005]
+Write in diary
+Read diary
+Quit
+
+[111.008]
+Write in your diary?
+
+[111.009]
+Write in diary
+Read diary
+Sleep
+
+[111.011]
+{SAY}This is Lord Glover's mansion.{HOLD}Lord Glover is generous, so he has opened his mansion to the people who fled Nagasaki Town.{/SAY}
+
+[111.012]
+{SAY}This is Lord Glover's mansion.{HOLD}Lord Glover is generous, so he has opened his mansion to people from all over the world.{WAIT}Ah!?{WAIT}...{PAUSE:1E}...{PAUSE:1E}I see, so that's how it is.{WAIT}...{PAUSE:0F}...{PAUSE:0F}Please leave!{/SAY}
+
+[111.013]
+{SAY}Please leave!!{/SAY}
+
+[111.014]
+{SAY}I heard from Lord Glover.{WAIT}They say the woman with you was being controlled by the aliens...{WAIT}But...{WAIT}...I'm terribly sorry.{WAIT}Please give me a little more time...{/SAY}
+
+[111.015]
+{SAY}Lord Glover is a cautious man, so to escape both Fatimaism and the aliens,{WAIT}he lives in this mansion away from town.{/SAY}
+
+[111.016]
+{SAY}Lord Glover is a cautious man, so even now that Fatimaism is gone, he lives in this mansion away from town.{/SAY}
+
+[111.017]
+{SAY}Lord Glover is a careful man, so he won't meet anyone without a letter of introduction.{WAIT}Please come back another time.{/SAY}
+
+[111.018]
+{SAY}Lord Glover is a careful man, so... Ah! That's from Director Akashi! Understood. Please examine the painting on the left wall.{/SAY}
+
+[111.019]
+{SAY}Please examine the painting on the left wall.{/SAY}
+
+[111.020]
+{SAY}Just as I'd expect of Lord Glover!{WAIT}Just as he always said, Fatimaism was suspicious after all!{WAIT}Ah!?{WAIT}Th... that girl...... Don't tell me...{PAUSE:1E} What do you people think you're doing!!{/SAY}
+
+[111.021]
+{SAY}Th... that girl...... Don't tell me...{PAUSE:1E} What do you people think you're doing!!{/SAY}
+
+[111.022]
+{SAY}I know.{WAIT}It's wrong to hate that woman...{WAIT}But...{PAUSE:14} still...{/SAY}
+
+[111.023]
+{SAY}Lord Glover is very famous, so he even knows Director Akashi of Neo-Kobe Bless.{/SAY}
+
+[111.024]
+{SAY}Lord Glover is very famous, so he even knows the people who defeated Fatimaria. Ah!?{WAIT}...........................................{/SAY}
+
+[111.025]
+{SAY}...................{/SAY}
+
+[111.026]
+{SAY}I truly bow my head to what you are doing.{WAIT}I think it will still take time, but someday... surely...{/SAY}
+
+[111.027]
+{SAY}Lord Glover collects rare things from all over the world.{WAIT}He has a discerning eye, and it's quite a job.{/SAY}
+
+[111.028]
+{SAY}Oh, the woman with you... She looks like someone...{WAIT}Is it just me?{/SAY}
+
+[111.029]
+{SAY}Do the best you can with what you can do now!{WAIT}That's about all a human can do!{WAIT}Keep at it!{/SAY}
+
+[111.030]
+{SAY}My lover was a devout believer of Fatimaism.{WAIT}But one day he was taken to Shuri Castle and never came back.{WAIT}So I'm praying here for him to come back.{/SAY}
+
+[111.031]
+{SAY}Fatimaism is gone, but he still hasn't come back. But I'm sure he'll be back tomorrow.{WAIT}Ah!?{WAIT}...No, it can't be...{/SAY}
+
+[111.032]
+{SAY}No...... no...{/SAY}
+
+[111.033]
+{SAY}...You're a victim too, aren't you. ...But{PAUSE:1E}... still...{/SAY}
+
+[111.034]
+{SAY}..............................{PAUSE:3C}!!{WAIT}........................Sorry. I may be a doctor, but I'm no saint.{/SAY}
+
+[111.035]
+{SAY}Now, what's wrong with you?{/SAY}
+
+[111.036]
+{SAY}There's no good or bad among the injured...{WAIT}Is anything wrong with you?{/SAY}
+
+[111.037]
+{SAY}You don't have enough money. I can't treat you like this.{/SAY}
+
+[111.038]
+
+《A magnificent painting hangs here》
+
+[111.039]
+
+《There's a button behind the painting》{WAIT}
+{CLEAR}
+《Press it?》
+
+[111.040]
+
+《A secret staircase appeared!》
+
+[111.041]
+
+《A magnificent painting hangs here》
+
+[111.042]
+{SAY}Have you been to Nagasaki Town to the south?{/SAY}
+
+[111.043]
+{SAY}Awful place, wasn't it...{WAIT}Anyone baptized at the church there gets sent to Ryukyu...{WAIT}and not one has ever come back.{WAIT}That girl's boyfriend, too, is likely...{/SAY}
+
+[111.044]
+{SAY}An awful place...{WAIT}Most of the people here fled from Nagasaki.{WAIT}You'd better not go there...{/SAY}
+
+[111.045]
+{SAY}The hard part is only beginning.{HOLD}Maybe I'll go back to town and help rebuild...{/SAY}
+
+[111.046]
+{SAY}They say the town is slowly going back to the easy place to live it once was.{WAIT}I suppose that's thanks to Fatimaism being gone...{/SAY}
+
+[111.047]
+{SAY}This is all I could bring from Nagasaki, ya know.{WAIT}All kinds of local specialties. Wanna buy some?{/SAY}
+
+[111.048]
+{SAY}How about some imported weapons, eh?{/SAY}
+
+[111.049]
+{SAY}Welcome!{WAIT}Thanks to Mr. Glover, business is good!{/SAY}
+
+[111.050]
+{SAY}Lord Glover is a kind man, so he offers rooms to travelers, ya know.{HOLD}It's 400G a night. Will ya stay?{/SAY}
+
+[111.051]
+{SAY}You don't have enough money, ya know!{/SAY}
+
+[111.052]
+{SAY}Then will ya look at your diary on the quiet?{/SAY}
+
+[111.053]
+{SAY}Come again, ya hear.{/SAY}
+
+[111.054]
+
+《It's locked...》
+
+[111.056]
+Glover
+{SAY}What! Who are you!{WAIT}...Hm? Hmmm? What's that book! Oh! That book is rare!{/SAY}
+
+[111.057]
+　All right, give me that book! Give it, I say! Then I might just lend you my ship!
+
+[111.058]
+
+《Gave the Rare Book!》
+
+[111.059]
+Glover
+{SAY}Wait right there!{/SAY}
+
+[111.060]
+Glover
+{SAY}Follow me!{/SAY}
+
+[111.061]
+{SAY}Hmph! Then I'll never, ever, EVER let you on my ship!!{/SAY}
+
+[111.062]
+Glover
+{SAY}Oh, it's you lot!!{WAIT}So Fatimaism really was a puppet of the aliens. Just as I suspected!{WAIT}Hm...? The woman behind you...{/SAY}
+
+[111.063]
+Glover
+{SAY}...I've seen that face. Could it be, the Fatimaism...{WAIT}You lot! What is the meaning of this!?{WAIT}Because of this woman, many people were sacrificed!{/SAY}
+
+[111.064]
+Glover
+{SAY}...What? She was being controlled by the aliens?{WAIT}...{PAUSE:1E}I see...{/SAY}
+
+[111.065]
+{NAME:02}
+{SAY}...Thank you, {NAME:19}. I'll speak for myself from here.{/SAY}
+
+[111.066]
+{NAME:02}
+{SAY}It's true that, controlled by the aliens or not,{WAIT}I did things that can never be undone...{WAIT}To atone for that, I want to use my power to defeat the aliens...{WAIT}After that, please judge me.{/SAY}
+
+[111.067]
+{NAME:01}
+{SAY}What are you saying! You're a victim too!{HOLD}It's the aliens who are to blame!{/SAY}
+
+[111.068]
+Glover
+{SAY}Now, now, hold on. I understand.{/SAY}
+
+[111.069]
+Glover
+{SAY}{NAME:02}, was it?{WAIT}Your face is well known around here. You'd better not walk about much.{WAIT}{NAME:19}, I'll lend you my ship. Why not set off right away?{WAIT}Of course, you may use the ship as you please.{/SAY}
+
+[111.070]
+{NAME:02}
+{SAY}Mr. Glover... Thank you.{/SAY}
+
+[111.071]
+Glover
+{SAY}No need for thanks.{WAIT}I just don't want to see everyone grieving anymore.{WAIT}When you're ready, go see Captain Nemo.{WAIT}And it won't do for you to wander around dressed like that...{WAIT}Take these with you.{/SAY}
+
+[111.072]
+
+《Got a Ribbon!》
+
+[111.073]
+
+《Got a Dress!》
+
+[111.074]
+
+《Got the Red Shoes!》
+
+[111.075]
+Glover
+{SAY}It'll be a hard journey... Hang in there.{/SAY}
+
+[111.076]
+Glover
+{SAY}Hm? It's you lot! Don't break my ship!!{/SAY}
+
+[111.077]
+Glover
+{SAY}When you're ready, go see Captain Nemo.{WAIT}It'll be a hard journey... Hang in there.{/SAY}
+
+[111.078]
+{SAY}Someday, everyone will understand.{WAIT}Believe that, and keep going.{/SAY}
+
+[111.079]
+Glover
+{SAY}Oh, it's you lot! Well, how's the journey going?{/SAY}
+
+[111.080]
+{SAY}Hm? Oh, that "Magatama" you have! How rare!{WAIT}How about giving it to me? I'll reward you!{/SAY}
+
+[111.081]
+{SAY}Good, good.{WAIT}Thank you.{/SAY}
+
+[111.082]
+
+《Gave the Magatama!》
+
+[111.083]
+Glover
+{SAY}Then take this in exchange!{/SAY}
+
+[111.084]
+
+《Got a Rare Gun!》
+
+[111.085]
+{SAY}Someday, everyone will understand.{WAIT}Believe that, and keep going.{/SAY}
+
+[111.086]
+{SAY}I see... What a shame...{/SAY}
+
+[111.087]
+Glover
+{SAY}Oh, it's you lot! Well, how's the journey going?{/SAY}
+
+[111.088]
+{SAY}Oh, it's you lot. Doing well?{WAIT}{NAME:02}, everyone here will surely understand someday.{WAIT}Believe that, and keep going.{/SAY}
+
+[111.089]
+{SAY}Oh, that's right. I found this in my collection.{WAIT}I've no use for it, so make use of it on your journey.{/SAY}
+
+[111.090]
+
+《Got a Strength Essence!》
+
+[111.091]
+{SAY}Oh, and I have a favor to ask of you, since you travel all over the world.{WAIT}If you get hold of anything rare, bring it to me.{WAIT}I'll be sure to reward you!{/SAY}
+
+[111.092]
+{SAY}Hm? Oh, that "Royal Crest" you have! How rare!{WAIT}How about giving it to me? I'll reward you!{/SAY}
+
+[111.093]
+{SAY}Good, good.{WAIT}Thank you.{/SAY}
+
+[111.094]
+
+《Gave the Royal Crest!》
+
+[111.095]
+Glover
+{SAY}Then take this in exchange!{/SAY}
+
+[111.096]
+
+《Got a Strength Essence!》
+
+[111.097]
+{SAY}I see... What a shame...{/SAY}
+
+[111.098]
+{SAY}Hm? Oh, that "Giant Diamond" you have! How rare!{WAIT}How about giving it to me? I'll reward you!{/SAY}
+
+[111.099]
+{SAY}Good, good.{WAIT}Thank you.{/SAY}
+
+[111.100]
+
+《Gave the Giant Diamond!》
+
+[111.101]
+Glover
+{SAY}Then take this in exchange!{/SAY}
+
+[111.102]
+
+《Got a Rare Weapon!》
+
+[111.103]
+{SAY}There can't be many things this rare.{WAIT}I'm grateful!{/SAY}
+
+[111.104]
+{SAY}I see... What a shame...{/SAY}
+
+[111.105]
+Glover
+{SAY}What, you lot! I'm not giving you any money.{WAIT}Offerings? Not a chance.{WAIT}...Pay, lose, decrease... my most hated words!{WAIT}What? Members of Bless? What on earth do you want!{/SAY}
+
+[111.106]
+Ask about Nagasaki Town
+Ask about the aliens
+Ask about Fatimaism
+Nothing
+
+[111.107]
+Ask about Nagasaki Town
+Ask about the aliens
+Ask about Fatimaism
+Ask about the ship
+Nothing
+
+[111.108]
+{SAY}Hmph! Then get out of here!{/SAY}
+
+[111.109]
+{SAY}That place is rotten!{WAIT}Anyone not in Fatimaism isn't treated as human!{WAIT}It used to be a fine, easy town to live in...{/SAY}
+
+[111.110]
+{SAY}The aliens around here are mostly the type that attack with special powers rather than brute force.{WAIT}I think they have a base somewhere...{/SAY}
+
+[111.111]
+{SAY}They say the center of Fatimaism is in Ryukyu, in the southern sea, but no one who has crossed to Ryukyu has ever come back...{WAIT}They say there's a founder there called Fatimaria.{WAIT}They say Fatimaria uses a strange power to work miracle after miracle and gather believers...{/SAY}
+
+[111.112]
+{SAY}A ship!?{WAIT}I do have a ship, but...{WAIT}No, no! I can't lend it for free!{WAIT}...Well, if you bring me something that satisfies me, that's another story!{/SAY}
+
+[111.113]
+Glover
+{SAY}Bah, I got my hopes up for nothing!{/SAY}
+
+[111.114]
+Glover
+{SAY}Good, good, you may ride my rare ship!! I'll tell Captain Nemo myself!!{/SAY}
+
+[111.115]
+Glover
+{SAY}They say there's a rare village in Aomori, in the northeast.{WAIT}Apparently there's someone there with a rare power. I've long wanted to meet them, but I'm rich and busy...{WAIT}A pauper like {NAME:19} might get to meet them. Wahahaha!{/SAY}
+
+[111.116]
+Captain Nemo
+{SAY}We've arrived, ahoy! When you want to go again, give a shout, ahoy!{/SAY}
+
+[111.117]
+Captain Nemo
+{SAY}Now, let's report to Mr. Glover, ahoy!!{/SAY}
+
+[111.118]
+Captain Nemo
+{SAY}Ahoy! Are you going to Ryukyu?{/SAY}
+
+[111.119]
+Captain Nemo
+{SAY}If you're going, give a shout, ahoy!{/SAY}
+
+[111.120]
+Captain Nemo
+{SAY}Now, let's report to Mr. Glover, ahoy!!{/SAY}
+
+[111.121]
+Captain Nemo
+{SAY}Ahoy! It's you lot!{WAIT}Mr. Glover told me all about it, ahoy!{/SAY}
+
+[111.122]
+
+　The ship's engine is small, so it can't go very far, ahoy!{WAIT}And you can only get off the ship where there's a beach, so be careful, ahoy!{WAIT}Got it?
+
+[111.123]
+{SAY}Then board through that entrance there, ahoy!{/SAY}
+
+[111.124]
+{NAME:01}
+{SAY}All right! First, let's go report to Director Akashi!!{/SAY}
+
+[111.125]
+Captain Nemo
+{SAY}Enjoying the journey?{/SAY}
+
+[111.126]
+Glover
+{SAY}This is my pride and joy, the "Glover Ship"!{WAIT}Captain Nemo here will steer it!{WAIT}Come back once you've beaten Fatimaism!{/SAY}
+
+[111.127]
+Captain Nemo
+{SAY}I am Captain Nemo, ahoy! What? To Ryukyu...?{WAIT}Hmm, hmm. Leave it to me! Now, all aboard, all aboard!!{/SAY}
+
