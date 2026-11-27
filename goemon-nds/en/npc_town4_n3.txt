@@ -1,0 +1,93 @@
+[npc_town4_n3.0648]
+Hai-daraaa!!
+
+[npc_town4_n3.0980]
+She generously gave you 10 ryo!
+
+[npc_town4_n3.1088]
+Liar!! You said the very same thing to that other girl just now!
+
+[npc_town4_n3.1216]
+Hmph, what's that! You tell a girl she's pretty, even if it's just flattery!
+
+[npc_town4_n3.1360]
+Mmm, should I have shaved ice or not? Hmm, I can't decide...
+
+[npc_town4_n3.1496]
+Oc-to!! Oc-to-o!! Oc-to-o-o!!{0D}{0A}What? Akkun, you want octopus balls?
+
+[npc_town4_n3.1624]
+Say, don't you think I look the best in a yukata in this whole town?
+
+[npc_town4_n3.1806]
+She took 10 ryo for hurt feelings!
+
+[npc_town4_n3.2096]
+Say, say, when you were little, wasn't there always one kid in class who slipped{0D}{0A}and fell into the goldfish scooping tank?
+
+[npc_town4_n3.2414]
+Yes
+
+[npc_town4_n3.2430]
+No
+
+[npc_town4_n3.2460]
+Oh, how honest.
+
+[npc_town4_n3.2536]
+Of course I'm the best~
+
+[npc_town4_n3.2636]
+Yes
+
+[npc_town4_n3.2652]
+No
+
+[npc_town4_n3.2720]
+Hmph!
+
+[npc_town4_n3.2802]
+Yes
+
+[npc_town4_n3.2818]
+No
+
+[npc_town4_n3.2848]
+Oh, how honest.
+
+[npc_town4_n3.2924]
+Of course I'm the best~
+
+[npc_town4_n3.3024]
+Yes
+
+[npc_town4_n3.3040]
+No
+
+[npc_town4_n3.3108]
+Hmph!
+
+[npc_town4_n3.3148]
+Namba walking doesn't twist the hips, so your kimono stays neat.{0D}{0A}For the Japanese, it's truly the ideal way to walk.{0D}{0A}That's why in the Bon dance, your right hand and right foot, then left hand and left foot, go out together. Did you know?
+
+[npc_town4_n3.3606]
+Outta the way, outta the way, outta the waaay!!
+
+[npc_town4_n3.3666]
+Outta the way, outta the waaay!!
+
+[npc_town4_n3.3722]
+Outta the waaay!!
+
+[npc_town4_n3.3774]
+Blast it, you're in the way!!
+
+[npc_town4_n3.3818]
+It's the festival! It's festival time!
+
+[npc_town4_n3.3876]
+Agh, what is it this time, again and again? What? My old man? I see.{0D}{0A}Well, tell him I'll go back to Edo once I'm the greatest festival man in Japan!
+
+[npc_town4_n3.4194]
+Found the fourth son!!{0D}{0A}
+

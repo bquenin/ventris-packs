@@ -1,0 +1,129 @@
+[demo_a4_n1.0534]
+Aye.
+
+[demo_a4_n1.0668]
+We'll apologize to Lord Tengu and ask his pardon for this,
+
+[demo_a4_n1.0808]
+so don't ye mind us; go on ahead.
+
+[demo_a4_n1.1426]
+If it ain't the Kamonegi pair.{WAIT:000F} Cargo haulin' goin' all right?
+
+[demo_a4_n1.1564]
+Woe is us,{WAIT:000F} aye.
+
+[demo_a4_n1.1626]
+What's wrong?{WAIT:000F} You look awful down.
+
+[demo_a4_n1.1706]
+Hey, Kamonegi pair,{WAIT:000F} cargo haulin' goin' all right?
+
+[demo_a4_n1.1832]
+Woe is us,{WAIT:000F} aye.
+
+[demo_a4_n1.1890]
+What's the matter?{WAIT:000F} You look awful down.
+
+[demo_a4_n1.1966]
+Kamonegi pair,{WAIT:000F} is the cargo hauling going well?
+
+[demo_a4_n1.2096]
+Woe is us,{WAIT:000F} aye.
+
+[demo_a4_n1.2158]
+What's wrong?{WAIT:000F} You look so down.
+
+[demo_a4_n1.2226]
+Kamonegi pair,{WAIT:000F} is the cargo hauling going well?
+
+[demo_a4_n1.2360]
+Woe is us,{WAIT:000F} aye.
+
+[demo_a4_n1.2422]
+What is wrong?{WAIT:000F} You seem very downcast.
+
+[demo_a4_n1.2508]
+We were{WAIT:000F} restin' here a while,
+
+[demo_a4_n1.2602]
+and the moment we took our eyes off it,{WAIT:000F} the precious cargo fell,
+
+[demo_a4_n1.2768]
+and the river carried it away.
+
+[demo_a4_n1.2860]
+What excuse can we give Lord Tengu{07:000A}...
+
+[demo_a4_n1.3002]
+Aw, geez,{WAIT:000F} you lost the cargo?
+
+[demo_a4_n1.3104]
+Honi!{WAIT:000F} You went and lost the cargo?
+
+[demo_a4_n1.3212]
+So you lost the cargo.
+
+[demo_a4_n1.3296]
+You have lost the cargo!
+
+[demo_a4_n1.3398]
+Truly,{WAIT:000F} we've done a terrible thing{07:000A}...
+
+[demo_a4_n1.3526]
+Anything we can do to help?
+
+[demo_a4_n1.3634]
+Anything we can do to help?
+
+[demo_a4_n1.3740]
+Is there anything we can do to help?
+
+[demo_a4_n1.3852]
+Is there anything we can do to help?
+
+[demo_a4_n1.4008]
+Nay.
+
+[demo_a4_n1.4030]
+We'll sort out our own trouble{WAIT:000F} ourselves.
+
+[demo_a4_n1.4122]
+Ye're{WAIT:000F} in a hurry, aren't ye?
+
+[demo_a4_n1.4200]
+We'll apologize to Lord Tengu and ask his pardon for this,
+
+[demo_a4_n1.4342]
+so don't ye mind us; go on ahead.
+
+[demo_a4_n1.4510]
+Aye!
+
+[demo_a4_n1.4560]
+You sure you're okay?{WAIT:000F} We're gonna go, then.
+
+[demo_a4_n1.4690]
+Don't let it get you down,{WAIT:000F} and apologize properly.
+
+[demo_a4_n1.4788]
+See ya!
+
+[demo_a4_n1.4826]
+You sure you're okay?{WAIT:000F} We're goin', then.
+
+[demo_a4_n1.4948]
+Don't let it get you down,{WAIT:000F} and say sorry proper, y'hear.
+
+[demo_a4_n1.5068]
+Are you really okay?{WAIT:000F} We're going, then.
+
+[demo_a4_n1.5194]
+Don't be too discouraged.{WAIT:000F} If you apologize sincerely, he'll forgive you.
+
+[demo_a4_n1.5374]
+Are you truly all right?{WAIT:000F} We shall be going, then.
+
+[demo_a4_n1.5514]
+Do not lose heart,{WAIT:000F} and apologize properly.
+

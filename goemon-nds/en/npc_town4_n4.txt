@@ -1,0 +1,24 @@
+[npc_town4_n4.0440]
+Plasmaaa!
+
+[npc_town4_n4.0640]
+Munch munch! These dumplings are dang tasty!
+
+[npc_town4_n4.0928]
+What good is this fortune telling to anybody, I wonder?
+
+[npc_town4_n4.1060]
+Welcome, welcome!{0D}{0A}But it's night now, so the dumplings are all done.{0D}{0A}Do come again.
+
+[npc_town4_n4.1244]
+I wanted my child's future read,{0D}{0A}but all she gives is fortunes that make no sense at all. Honestly!
+
+[npc_town4_n4.1492]
+The fireworks of Ejiri, they bloom into flowers when you touch 'em with your finger.{0D}{0A}Try makin' three of the same color bloom.
+
+[npc_town4_n4.1752]
+Those swarming sea slaters are so gross, aren't they.{0D}{0A}I don't want to step on anything that gross...{0D}{0A}How can I get them to clear the road, I wonder?
+
+[npc_town4_n4.2032]
+Oh! If it ain't you folks. You've come a long way.{0D}{0A}Hm? Me? I've got a part-time job at this tea house.{0D}{0A}With times this hard, what I make in Edo don't go far.
+

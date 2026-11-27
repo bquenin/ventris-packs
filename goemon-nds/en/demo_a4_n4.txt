@@ -1,0 +1,39 @@
+[demo_a4_n4.0334]
+Traveling is fun.
+
+[demo_a4_n4.1152]
+Oh, Goemon, everyone!
+
+[demo_a4_n4.1214]
+Hey, if it ain't Tokutaro. What're you doin' in a place like this?
+
+[demo_a4_n4.1360]
+Well, I got tired, so I'm taking a little break.
+
+[demo_a4_n4.1450]
+It's my first time traveling, so it's just so much fun.
+
+[demo_a4_n4.1562]
+I'm sketching all sorts of places on my way to Kyo.
+
+[demo_a4_n4.1762]
+Is that so? Well, we're travelin' experts,{0D}{0A}so if you get in a fix, just ask us anything.
+
+[demo_a4_n4.1988]
+Oh right, Goemon, everyone, here's something I picked up on the way.
+
+[demo_a4_n4.2284]
+Goemon and company got the Yellow Purse!
+
+[demo_a4_n4.2506]
+They say it lets you carry up to 500 ryo.
+
+[demo_a4_n4.2594]
+Thanks a lot, much obliged.
+
+[demo_a4_n4.2658]
+I'll rest a bit more before I set off again.
+
+[demo_a4_n4.2758]
+Since there's a festival on, I'll look around a bit more.
+

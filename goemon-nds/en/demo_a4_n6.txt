@@ -1,0 +1,153 @@
+[demo_a4_n6.0208]
+...
+
+[demo_a4_n6.0458]
+Guv'nor, please, you gotta save the boss.
+
+[demo_a4_n6.1214]
+You!{WAIT:000F} Found you at last!
+
+[demo_a4_n6.1380]
+Oh!{WAIT:001E} It's you lot.
+
+[demo_a4_n6.1926]
+Now we've got ya at last!{WAIT:001E} Give it up!
+
+[demo_a4_n6.2052]
+...
+
+[demo_a4_n6.2208]
+This is the one who looks like me{07:000A}...{07:0003}{0D}{0A}That is too cruel.
+
+[demo_a4_n6.2372]
+Hm?{WAIT:000F} What the heck,{WAIT:000F} there's one missin'.
+
+[demo_a4_n6.2476]
+Hey!{WAIT:000F} Where'd my fake go?
+
+[demo_a4_n6.2658]
+H-{WAIT:001E}hold on a sec, guv'nor.
+
+[demo_a4_n6.2786]
+Hear us out, would ya.
+
+[demo_a4_n6.2874]
+Get outta here!{WAIT:000F} Still won't give up, even now!
+
+[demo_a4_n6.3022]
+The boss{WAIT:000F} got taken away by a guy called Tengu Peruri, see.
+
+[demo_a4_n6.3168]
+Tengu?{WAIT:000F} You mean the foreigner who wears a tengu mask?
+
+[demo_a4_n6.3368]
+Th-{WAIT:001E}that's right.{WAIT:001E} That Peruri took him away, see.
+
+[demo_a4_n6.3494]
+Somethin's fishy here.{WAIT:001E} Ain't that a bit too convenient?
+
+[demo_a4_n6.3638]
+Believe us,{WAIT:001E} guv'nor.
+
+[demo_a4_n6.3712]
+We{WAIT:001E} been doin' whatever Peruri told us all along, see,
+
+[demo_a4_n6.3822]
+but{WAIT:001E} the moment we stood up to him{07:000A}...
+
+[demo_a4_n6.3908]
+he went and took the boss away.
+
+[demo_a4_n6.4064]
+You lot!{WAIT:000F} So you were in cahoots after all!
+
+[demo_a4_n6.4194]
+No,{WAIT:000F} guv'nor!{WAIT:001E} Peruri tricked us, see.
+
+[demo_a4_n6.4302]
+We knew it was wrong, but he said he'd save this poor village,
+
+[demo_a4_n6.4460]
+and we went and believed Peruri{07:000A}...
+
+[demo_a4_n6.4534]
+But{WAIT:001E} the boss refused to hand over the treasure we stole to that Peruri,
+
+[demo_a4_n6.4698]
+and then{WAIT:001E} he got dragged off somewhere{07:000A}...
+
+[demo_a4_n6.4804]
+Get outta here!{0D}{0A}If your village was in trouble, you{WAIT:000F} could've just asked another village for help.{0D}{0A}Goin' and stealin' instead,{WAIT:000F} you guys really are hopeless!
+
+[demo_a4_n6.5090]
+Sorry, see.
+
+[demo_a4_n6.5130]
+Do you know{WAIT:000F} where the Hyottoko brothers are?
+
+[demo_a4_n6.5304]
+They say they were kidnapped from the town of Ejiri.
+
+[demo_a4_n6.5446]
+The Hyottoko brothers, ya say?
+
+[demo_a4_n6.5512]
+Come to think of it, Peruri said{WAIT:001E} the Hyottoko dance was in his way.
+
+[demo_a4_n6.5654]
+Most likely{WAIT:001E} it was Peruri who kidnapped 'em, no doubt about it.
+
+[demo_a4_n6.5750]
+Where Peruri is,{WAIT:000F} we don't know neither, and it's got us stumped.
+
+[demo_a4_n6.5888]
+Goemon, sir,{WAIT:001E} what shall we do now?
+
+[demo_a4_n6.5960]
+Hmm,{WAIT:001E} looks like findin' the Hyottoko brothers is the key.
+
+[demo_a4_n6.6118]
+We gotta find the kidnapped Hyottoko{WAIT:000F} and get the brothers in town to talk.
+
+[demo_a4_n6.6338]
+Guv'nor,{WAIT:000F} dunno if it'll be any use to ya, but...
+
+[demo_a4_n6.6496]
+Hey, Sasuke!
+
+[demo_a4_n6.6586]
+What is it?
+
+[demo_a4_n6.6666]
+Oh,{WAIT:000F} sorry.{WAIT:000F} Didn't mean you, see.
+
+[demo_a4_n6.6786]
+Hey,{WAIT:001E} Sasuke!
+
+[demo_a4_n6.6882]
+...
+
+[demo_a4_n6.6952]
+Give the young lady there{WAIT:001E} your art.
+
+[demo_a4_n6.7064]
+Huh,{WAIT:000F} me?
+
+[demo_a4_n6.7496]
+Nooo!
+
+[demo_a4_n6.7530]
+This Sasuke here's a great swimmer, see.{WAIT:000F} I reckon it'll come in handy,
+
+[demo_a4_n6.7690]
+so take it with ya.
+
+[demo_a4_n6.7748]
+Yae,{WAIT:000F} it suits ya real nice!
+
+[demo_a4_n6.7828]
+I hate this!
+
+[demo_a4_n6.7870]
+Everyone,{WAIT:000F} we gotta find the kidnapped Hyottoko or we're gettin' nowhere.{0D}{0A}Let's search every inch of the road.
+

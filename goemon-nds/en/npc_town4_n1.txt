@@ -1,0 +1,78 @@
+[npc_town4_n1.0860]
+Keep going, all the way to Kyo!
+
+[npc_town4_n1.0920]
+Then without further ado, here's your question!
+
+[npc_town4_n1.1004]
+Funny, 'cause mister's heart is real muddy.
+
+[npc_town4_n1.1168]
+Oh? Are you a quiz contestant?
+
+[npc_town4_n1.1226]
+Yes
+
+[npc_town4_n1.1242]
+No
+
+[npc_town4_n1.1272]
+Dagnabbit! Dagnabbit!!{0D}{0A}Where's the privy?! Dagnabbit!!
+
+[npc_town4_n1.1460]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town4_n1.1704]
+This here's the town of Ejiri. A festival town, it is.
+
+[npc_town4_n1.1828]
+Listen up, the drum, see.{0D}{0A}The trick is to beat it nice and clear, never muddy.
+
+[npc_town4_n1.1964]
+Minding a baby while enjoying the festival is quite a job.
+
+[npc_town4_n1.2096]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town4_n1.2252]
+Dagnabbit! Dagnabbit!!{0D}{0A}We're busy gettin' ready for the festival here!!
+
+[npc_town4_n1.2556]
+When it comes to Genroku culture, the greatest of all has to be Master Matsuo Basho~
+
+[npc_town4_n1.2748]
+Did you lot listen proper to what the elder said?
+
+[npc_town4_n1.2888]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town4_n1.3080]
+Festivals are grand. Young or old, man or woman, everyone feels merry.
+
+[npc_town4_n1.3272]
+This fan was made in Portugal. A Portuguese friend gave it to me.{0D}{0A}But with the country closed, you can't get one anymore. It's a rare item. Jealous?
+
+[npc_town4_n1.3520]
+At a festival, it's gotta be candy apples.{0D}{0A}When I was little, I broke a tooth on a candy apple~{0D}{0A}It's a true story, apparently.
+
+[npc_town4_n1.3828]
+Games have this thing called the needs of the story, see.
+
+[npc_town4_n1.3990]
+Go all the way around first, then come back here.
+
+[npc_town4_n1.4178]
+I see...
+
+[npc_town4_n1.4216]
+Which country did the Edo shogunate ban from its ports in 1639?
+
+[npc_town4_n1.4372]
+Portugal
+
+[npc_town4_n1.4394]
+Netherlands
+
+[npc_town4_n1.4434]
+Got 50 ryo in prize money!
+

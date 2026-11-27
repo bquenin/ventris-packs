@@ -1,0 +1,15 @@
+[npc_town4_n2.284]
+Sure would love to see some pretty fireworks...
+
+[npc_town4_n2.356]
+Let's see what you can do!
+
+[npc_town4_n2.528]
+Shoot up some big fireworks!
+
+[npc_town4_n2.620]
+Touch them and line up 3 of the same color for a reward!
+
+[npc_town4_n2.848]
+Touch the fireworks once they go up, and you'll see pretty fireworks!
+
