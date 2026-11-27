@@ -1,0 +1,120 @@
+[npc_town7_n5.1208]
+Keep going, all the way to Kyo!
+
+[npc_town7_n5.1268]
+Then without further ado, here's your question!
+
+[npc_town7_n5.1352]
+Hey, wanna go fly a kite?
+
+[npc_town7_n5.1504]
+Oh? Are you a quiz contestant?
+
+[npc_town7_n5.1562]
+Yes
+
+[npc_town7_n5.1578]
+No
+
+[npc_town7_n5.1596]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town7_n5.1956]
+Now, now, you there, don't go walking in front of me in such red clothes.
+
+[npc_town7_n5.2092]
+What, you came from Edo?! You've come a long, long way.
+
+[npc_town7_n5.2224]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town7_n5.2380]
+They say when aliens want a beer, they send signals from the horns on their heads.
+
+[npc_town7_n5.2688]
+New Year's soup tastes totally different all over the country. Isn't that interesting?
+
+[npc_town7_n5.2840]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town7_n5.3032]
+Hm, what's this? What's it say?{0D}{0A}"Do not read this notice board."{0D}{0A}...{0D}{0A}Well, that's no good.
+
+[npc_town7_n5.3254]
+Dentures really are the best.
+
+[npc_town7_n5.3348]
+Haf you theen my denchuresh?
+
+[npc_town7_n5.3400]
+Oh oh, thoshe are my denchuresh!{0D}{0A}Mumble mumble, ah, now I can talk properly. Thank you.
+
+[npc_town7_n5.3548]
+Once, in the bath, I put shampoo around my mouth{0D}{0A}and was playing "little mustache", and then I accidentally sniffed it up my nose{0D}{0A}and was squirming all alone in the bath~
+
+[npc_town7_n5.3914]
+Hm? Whaddaya say?
+
+[npc_town7_n5.3966]
+What? I can't hear you well?
+
+[npc_town7_n5.4040]
+Huh? What?
+
+[npc_town7_n5.4098]
+Speak up, will ya!
+
+[npc_town7_n5.4188]
+New Year's money? Sure, here you go.
+
+[npc_town7_n5.4260]
+It had 200 ryo in it!
+
+[npc_town7_n5.4370]
+No more for you~
+
+[npc_town7_n5.4450]
+New Year's money leaves you broke every New Year, it's no good.
+
+[npc_town7_n5.4568]
+Whose could these be? These dentures?
+
+[npc_town7_n5.4654]
+Found the dentures!{0D}{0A}
+
+[npc_town7_n5.4764]
+New Year's is nice, isn't it.
+
+[npc_town7_n5.4834]
+Kyo's a fine place, come visit once~♪
+
+[npc_town7_n5.4918]
+What's that? My old man? Thanks for comin' all this way.{0D}{0A}Pop oughta come to Kyo too. Tell him Kyo's the best.
+
+[npc_town7_n5.5162]
+Found the eldest son!!{0D}{0A}
+
+[npc_town7_n5.5260]
+New Year's is nice, isn't it.
+
+[npc_town7_n5.5380]
+I look forward to the day we meet again.
+
+[npc_town7_n5.5492]
+Congratulations! This is the final checkpoint at last.{0D}{0A}Here we go. The final question!{0D}{0A}Which of these was active in the time of Genroku culture?
+
+[npc_town7_n5.5762]
+Matsuo Basho
+
+[npc_town7_n5.5804]
+Utagawa Hiroshige
+
+[npc_town7_n5.5860]
+Correct!!{0D}{0A}Congratulations! And with that, the Tokaido Fifty-Three Stations Ultro Quiz{0D}{0A}is over, every question. Until we meet again someday!
+
+[npc_town7_n5.6128]
+Got 400 ryo in prize money!
+
+[npc_town7_n5.6236]
+Too bad! Wrong answer! So close, right at the very end!!{0D}{0A}But with that, the Tokaido Fifty-Three Stations Ultro Quiz{0D}{0A}is over, every question. Until we meet again someday!
+

@@ -1,0 +1,51 @@
+[demo_a7_n10.0270]
+I'm counting on you, dearie.
+
+[demo_a7_n10.1446]
+Oh!!{WAIT:000F} Where am I, dearie?
+
+[demo_a7_n10.1534]
+You're inside Tengu Peruri's factory.{0D}{0A}Peruri said he got a Sacred Treasure from you,{0D}{0A}is that true?
+
+[demo_a7_n10.1852]
+Oh!!{WAIT:000F} My mask?{WAIT:000F} Where is my mask?{0D}{0A}Inside my mask{WAIT:000F} is our family's treasure, the jewel, dearie.
+
+[demo_a7_n10.2124]
+So he did steal it!{WAIT:0014} That rat Peruri!
+
+[demo_a7_n10.2230]
+In my family,{WAIT:000F} we wear masks from the day we are born,{0D}{0A}and must never take them off, dearie{07:000A}...
+
+[demo_a7_n10.2558]
+That's{WAIT:000F} one odd family.
+
+[demo_a7_n10.2662]
+In my mask{WAIT:000F} is set our family's precious treasure, the jewel, dearie.
+
+[demo_a7_n10.2850]
+Come to think of it,{WAIT:000F} there were these weird folks who only said "...Mask...".{0D}{0A}Ain't they friends of yours?
+
+[demo_a7_n10.3070]
+Oh! The poor things.{WAIT:000F} Those must be my little sisters, dearie.
+
+[demo_a7_n10.3180]
+That's awful!!{WAIT:000F} We have to teach Peruri a lesson, no matter what.
+
+[demo_a7_n10.3294]
+But{WAIT:000F} we do not know where Peruri has fled.
+
+[demo_a7_n10.3414]
+Surely the mysterious castle at Otsu, dearie.{0D}{0A}From the house in Minakuchi,{WAIT:000F} out the northeast door, is Otsu, dearie.
+
+[demo_a7_n10.3736]
+The castle at Otsu, huh.{WAIT:000F} Let's go, everybody!
+
+[demo_a7_n10.3842]
+Wait just a moment, dearie.{0D}{0A}To go to Otsu,{WAIT:000F} you must make the fukuwarai in the room{WAIT:000F} into my face, dearie.
+
+[demo_a7_n10.4058]
+We knew that ages ago.
+
+[demo_a7_n10.4132]
+O-{WAIT:000F}oh, did you{07:000A}...{07:0005}{WAIT:001E} Then I'm counting on you, dearie.
+

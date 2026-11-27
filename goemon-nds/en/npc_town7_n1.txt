@@ -1,0 +1,24 @@
+[npc_town7_n1.0392]
+This is the town of Sakanoshita.
+
+[npc_town7_n1.0564]
+I hate the snow, it gives me a sunburn.
+
+[npc_town7_n1.0660]
+You must never tell anyone, heh heh heh heh heh...
+
+[npc_town7_n1.0880]
+Say, walking barefoot on the snow is really cold, you know...
+
+[npc_town7_n1.1032]
+That snow song, "yuki ya konkon, arare ya konkon",{0D}{0A}they say it's really "yuki ya konko, arare ya konko".
+
+[npc_town7_n1.1240]
+My wife's a beauty, ain't she? That's why I'm scared that one day I'll let slip{0D}{0A}about the strange woman I saw when I got lost on a snowy mountain a year ago.
+
+[npc_town7_n1.1592]
+Y'know, I've only made a snow hut once in my whole life.{0D}{0A}But snow huts started out as snow rooms for worshiping the water god,{0D}{0A}so they're really not for playing.
+
+[npc_town7_n1.1976]
+This town has 500 people and only about 150 houses,{0D}{0A}but nearly 50 of them are inns. That's because this is just the right spot{0D}{0A}for post horses to swap out before they're worn out crossing Suzuka Pass.
+

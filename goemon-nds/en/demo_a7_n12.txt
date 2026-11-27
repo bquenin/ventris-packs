@@ -1,0 +1,18 @@
+[demo_a7_n12.1450]
+So this is the sacred jewel,{WAIT:000F} the Yasakani Jewel.
+
+[demo_a7_n12.1566]
+Peruri's scheming{WAIT:000F} ends here.
+
+[demo_a7_n12.1650]
+Where did Peruri go?
+
+[demo_a7_n12.1782]
+He's down there seein' stars.{WAIT:0014} Out cold, I'd say.
+
+[demo_a7_n12.1938]
+Before he starts thrashin' around,{WAIT:000F} let's tie him up quick.
+
+[demo_a7_n12.2066]
+Right.{WAIT:000F} Let's hand Peruri over to Lord Kinemon,{0D}{0A}and clear your names of every charge,{WAIT:000F} Goemon.
+

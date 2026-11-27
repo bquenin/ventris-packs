@@ -1,0 +1,6 @@
+[demo_a7_n3.1064]
+They say Daifuku's eldest daughter got kidnapped.{0D}{0A}And the eldest, word is,{WAIT:000F} she has some kind of precious treasure.
+
+[demo_a7_n3.1362]
+This here's the mansion of the rich merchant Daifuku.{0D}{0A}But the master passed away,{WAIT:000F} and now the place is completely empty.
+

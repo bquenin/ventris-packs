@@ -1,0 +1,144 @@
+[demo_a7_n14.00916]
+The Downtown Magistraaate!{WAIT:001E} Lord Kinemon Toyamaaa!{WAIT:001E} Now presiiiding!
+
+[demo_a7_n14.01188]
+Well done,{WAIT:000F} catching the culprit,{WAIT:000F} Goemon.
+
+[demo_a7_n14.01296]
+So this means our names are cleared, right?
+
+[demo_a7_n14.01416]
+It was a real ordeal.{WAIT:000F} Hurry up and pass judgment on this fella.
+
+[demo_a7_n14.01646]
+Nooo!{WAIT:000F} I have done nothing wrong.{0D}{0A}A man called Sakura told me{WAIT:000F} he would open this country to the world,{0D}{0A}so I only helped him.
+
+[demo_a7_n14.02000]
+A villain who will not admit defeat!{WAIT:003C} That thou hast thrown this country into chaos{0D}{0A}is plain from our inquiries thus far.
+
+[demo_a7_n14.02284]
+What the heck!{WAIT:000F} You folks run off whenever a foreigner shows up!{0D}{0A}A foreigner comes to do business,{WAIT:000F} and that's how you treat him? That's just mean!
+
+[demo_a7_n14.02566]
+Hmph!{WAIT:001E} Dost thou mean to mock me, Kinemon?!
+
+[demo_a7_n14.02750]
+Give it up,{WAIT:000F} Peruri.
+
+[demo_a7_n14.02908]
+Mr. Sakura{WAIT:000F} was the only Japanese{WAIT:000F} who would listen to me, Peruri.{0D}{0A}He promised me he would open up Edo...
+
+[demo_a7_n14.03252]
+There seems to be more to this,{WAIT:000F} Goemon.
+
+[demo_a7_n14.03398]
+Even so,{WAIT:001E} it was this Peruri who used Mr. Goemon.
+
+[demo_a7_n14.03596]
+That's right!{WAIT:000F} He put us through an awful lot!
+
+[demo_a7_n14.03938]
+Enough.{WAIT:001E} With the witnesses all here,{WAIT:001E} there is no talking thy way out.
+
+[demo_a7_n14.04184]
+Nooo...{WAIT:001E} Here there is neither god nor Buddha...
+
+[demo_a7_n14.04310]
+Peruri's crimes shall be strictly examined,{WAIT:000F} and the heaviest sentence handed down!
+
+[demo_a7_n14.04490]
+Hey, magistrate!{WAIT:000F} This here's the last treasure Peruri collected.
+
+[demo_a7_n14.04832]
+Oh!{WAIT:001E} So this is the sacred treasure!{WAIT:001E} The Yasakani Jewel.
+
+[demo_a7_n14.04940]
+We have no further{WAIT:000F} use for it,{0D}{0A}so we would ask you to return it to its owners, the three Otafuku sisters.
+
+[demo_a7_n14.05190]
+Understood.{WAIT:001E} I, Kinemon, shall surely deliver it to the sisters.
+
+[demo_a7_n14.05340]
+What a long trip it's been. Now we can finally go back to Edo.
+
+[demo_a7_n14.05484]
+The true culprit is caught,{WAIT:000F} and the case is safely solved.{0D}{0A}Now ye may return to Edo with your names cleared.{WAIT:001E} Goemon and company.
+
+[demo_a7_n14.05820]
+Aw, you're makin' me blush.{WAIT:000F} If it brings peace back to the land,{WAIT:000F} it was no trouble at all.
+
+[demo_a7_n14.06114]
+And with that!!{WAIT:001E}{07:0008} Case closed!!
+
+[demo_a7_n14.06380]
+Oh!{WAIT:000F} Mr. Sakuraaa!
+
+[demo_a7_n14.06530]
+That cherry blossom tattoo{WAIT:000F} is Mr. Sakura for certain!
+
+[demo_a7_n14.06750]
+Wh-{WAIT:001E}what, thou art mistaken...
+
+[demo_a7_n14.06860]
+I am not mistaken.{WAIT:000F} I could never forget that cherry blossom tattoo.
+
+[demo_a7_n14.07062]
+Oh!{WAIT:000F} Help me!{WAIT:000F} Mr. Sakura!
+
+[demo_a7_n14.07328]
+What the heck's goin' on?!
+
+[demo_a7_n14.07400]
+It is this man!{WAIT:000F} The one who made me gather the treasures.
+
+[demo_a7_n14.07580]
+What is the meaning of this!{WAIT:000F} Lord Kinemon.
+
+[demo_a7_n14.07688]
+.......
+
+[demo_a7_n14.07908]
+Heh heh heh heh...
+
+[demo_a7_n14.07954]
+What? What's wrong?
+
+[demo_a7_n14.08002]
+I just got the last Sacred Treasure, the Yasakani Jewel,{0D}{0A}so I figured I was done with that Peruri!
+
+[demo_a7_n14.08322]
+You!{WAIT:000F} You were the real culprit?!
+
+[demo_a7_n14.08412]
+That is too cruel!{WAIT:000F} And I, Peruri, worked so hard to gather them!
+
+[demo_a7_n14.08578]
+Dammit!{WAIT:000F} You were foolin' us the whole time!
+
+[demo_a7_n14.08742]
+Heh heh heh heh...
+
+[demo_a7_n14.08812]
+With the last treasure in my hands,{WAIT:000F} this country is mine!{0D}{0A}Build this treasure into the weapon,{WAIT:000F} and it'll unleash tremendous power.
+
+[demo_a7_n14.09168]
+Come to think of it!{WAIT:000F} Where is the giant machine we saw at the factory?
+
+[demo_a7_n14.09324]
+Mr. Sakura there{WAIT:000F} took it away.
+
+[demo_a7_n14.09492]
+Bwahahahaha!!{WAIT:000F} I've got no more use for you lot!{0D}{0A}With the giant weapon at my command,{WAIT:000F} I'll take this country for myself!
+
+[demo_a7_n14.09886]
+Dammit!{WAIT:000F} He got away!
+
+[demo_a7_n14.10054]
+Peruri,{WAIT:000F} where is Kinemon headed?
+
+[demo_a7_n14.10188]
+Come to think of it, Mr. Sakura said something about making Edo Castle his own.
+
+[demo_a7_n14.10356]
+We ain't lettin' Kinemon have his way! Let's hurry back to Edo!
+

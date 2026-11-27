@@ -1,0 +1,42 @@
+[npc_town7_n2.0612]
+My life's been nothin' but walkin'.
+
+[npc_town7_n2.0788]
+Hey, why is snow so white?
+
+[npc_town7_n2.0884]
+Yone, don't you go right of this cane, now.
+
+[npc_town7_n2.0980]
+Grandpa's saying weird stuff again.
+
+[npc_town7_n2.1200]
+Ugh, nothin' but an apron in all this snow, I'm gonna die here.
+
+[npc_town7_n2.1382]
+Why is snow so white, I wonder?{0D}{0A}Hmm, I don't get it...
+
+[npc_town7_n2.1496]
+Uh-huh, uh-huh...
+
+[npc_town7_n2.1540]
+That snowman there. I made it. Cool, huh?{0D}{0A}Snowmen have been around the world forever. In Japan they're two balls high,{0D}{0A}and in the West, three. So mine's a bit international, see.
+
+[npc_town7_n2.2010]
+Listen to this.{0D}{0A}Hey, are you listening?
+
+[npc_town7_n2.2124]
+Hey, come on.
+
+[npc_town7_n2.2178]
+Hey, are you listening?
+
+[npc_town7_n2.2240]
+What on earth are the Edo Rangers?
+
+[npc_town7_n2.2330]
+Huh? What? Am I interested in the Edo Rangers?{0D}{0A}I don't really get it, but I'll join, sure.
+
+[npc_town7_n2.2512]
+Seems she sort of joined!{0D}{0A}
+

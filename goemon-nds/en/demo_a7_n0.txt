@@ -1,0 +1,24 @@
+[demo_a7_n0.0714]
+You can't go through this gate. From here on it's the Ise Betsu Road, see.
+
+[demo_a7_n0.0854]
+They say the rich merchant Daifuku used his own daughters' faces as keys.
+
+[demo_a7_n0.1034]
+Seems there was a kidnapping in the Otafuku village up ahead. The world's turned nasty, I tell ya.
+
+[demo_a7_n0.1238]
+You folks are travelin' the Tokaido, ain't ya?{0D}{0A}This side's the Ise Betsu Road, so you've got the wrong way.
+
+[demo_a7_n0.1454]
+The folks from the Otafuku mansion who went missing{0D}{0A}are famous in this village as three beautiful sisters.
+
+[demo_a7_n0.1670]
+They say the three Otafuku sisters are beauties,{0D}{0A}but they always wear masks, so nobody can tell if they're pretty or not.
+
+[demo_a7_n0.1910]
+Otafuku means Daifuku, the rich merchant of Minakuchi.{0D}{0A}The three sisters are his daughters.
+
+[demo_a7_n0.2166]
+Seems the Otafuku daughters have gone missing.{0D}{0A}That big mansion's completely empty, and the whole village is in an uproar.
+

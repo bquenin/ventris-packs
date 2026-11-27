@@ -1,0 +1,27 @@
+[npc_town7_n3.0584]
+Pee~ hyarari~♪
+
+[npc_town7_n3.0688]
+You...{0D}{0A}are terrible at that...
+
+[npc_town7_n3.0964]
+I'm off to haul a little cargo all the way to Edo.
+
+[npc_town7_n3.1084]
+My namba run's gonna burn up the road again today.
+
+[npc_town7_n3.1212]
+Kyo-day, I'm off to Kyo.{0D}{0A}.{0D}{0A}..{0D}{0A}...{0D}{0A}Huh? Did that one fall flat?
+
+[npc_town7_n3.1380]
+This is the western end of the Tokaido's Fifty-Three Stations, Sanjo Bridge.
+
+[npc_town7_n3.1564]
+Finally made it to Kyo, I did.{0D}{0A}Phew, gotta go find a maiko right off and become her apprentice.
+
+[npc_town7_n3.1752]
+I mean to keep playing my flute all the way to Edo, and leave my name in history.{0D}{0A}Do not disturb me.{0D}{0A}Pee~ hyarari~♪
+
+[npc_town7_n3.2016]
+Ever looked at the Kamo River from Sanjo Bridge? The couples along the river{0D}{0A}sit at perfectly even distances apart. It's a pretty strange sight. Did you know?
+
