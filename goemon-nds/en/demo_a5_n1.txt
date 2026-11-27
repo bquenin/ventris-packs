@@ -1,0 +1,114 @@
+[demo_a5_n1.0674]
+I'm gonna take it easy a little longer.
+
+[demo_a5_n1.0720]
+I can't eat another bite...
+
+[demo_a5_n1.0872]
+Sheh, sheh.
+
+[demo_a5_n1.0896]
+Eat lots more,{WAIT:000F} and get nice and fat, dearie.
+
+[demo_a5_n1.1786]
+My belly's full to bursting!{0D}{0A}I can't eat any more, I just can't...
+
+[demo_a5_n1.1964]
+Sheh, sheh.{WAIT:001E} Come now,{WAIT:000F} eat up, eat lots, dearie.{0D}{0A}Eat lots more,{WAIT:000F} and get nice and fat, dearie.
+
+[demo_a5_n1.2212]
+Lucky.{WAIT:001E} He looks so happy, y'know.
+
+[demo_a5_n1.2290]
+Hey, hey, Tokutaro. What about your trip?
+
+[demo_a5_n1.2398]
+Something's off about this.{WAIT:001E} Feeding Tokutaro{0D}{0A}until he gets like this...
+
+[demo_a5_n1.2566]
+But{WAIT:000F} what exactly is suspicious,{WAIT:000F} I cannot tell.
+
+[demo_a5_n1.2686]
+Sheh, sheh.
+
+[demo_a5_n1.3486]
+Oh!{WAIT:001E} Goemon. This lady's been real nice to me.{0D}{0A}Look,{WAIT:000F} there's tons of food!
+
+[demo_a5_n1.3788]
+Sheh, sheh.{WAIT:001E} Come now, eat up, eat lots, dearie.{0D}{0A}Eat more and more, and fatten up good, dearie.
+
+[demo_a5_n1.3990]
+O-{WAIT:000F}okay, Tokutaro. Good for you, I guess.
+
+[demo_a5_n1.4140]
+Lucky.{WAIT:001E} Gimme somethin' to eat too, won't ya.
+
+[demo_a5_n1.4290]
+This old woman is a kind person.
+
+[demo_a5_n1.4388]
+Hmm{07:000A}...{WAIT:001E}{07:0004} I sense a nasty yokai aura{07:000A}...{0D}{0A}I bet{WAIT:000F} this old woman has a secret...
+
+[demo_a5_n1.4654]
+Ain't it just your imagination?{0D}{0A}Hey,{WAIT:000F} Tokutaro!{WAIT:001E} Don't dawdle too long, y'hear.
+
+[demo_a5_n1.4872]
+Okaaay.{WAIT:001E} I'm gonna take it easy a little longer.
+
+[demo_a5_n1.5216]
+Aww,{WAIT:001E} let's us{WAIT:000F} take it easy too.
+
+[demo_a5_n1.5384]
+Sheh, sheh.
+
+[demo_a5_n1.6200]
+Hey,{WAIT:000F} old hag!{WAIT:001E} Take a look at this!
+
+[demo_a5_n1.6338]
+Sheh, sheh{07:000A}...............{07:0003}sheh?{0D}{0A}{07:0003}Th-{WAIT:000F}that's!!
+
+[demo_a5_n1.6532]
+Gwoooooh!!!!{WAIT:000F} A t-talisman!!!!
+
+[demo_a5_n1.6762]
+Y-{WAIT:000F}you brats!!{WAIT:001E} I haven't{WAIT:000F} even eaten this one yet!{0D}{0A}Y-{WAIT:000F}you'll pay for this! Gwoooooh{07:000A}.........
+
+[demo_a5_n1.6998]
+So she was a yamamba after all!
+
+[demo_a5_n1.7132]
+Huh!{WAIT:001E} What happened to me?{0D}{0A}What am I doing here?
+
+[demo_a5_n1.7266]
+She must{WAIT:000F} have been controlling you.
+
+[demo_a5_n1.7340]
+Scary stuff.{0D}{0A}But Tokutaro,{WAIT:001E} you sure ate a whole lotta tasty-lookin' food.{0D}{0A}I'm a little jealous, y'know.
+
+[demo_a5_n1.7600]
+Wha?!{WAIT:001E} That old lady was a yamamba?!
+
+[demo_a5_n1.7692]
+That is right.{WAIT:001E} You were about to be eaten.
+
+[demo_a5_n1.7830]
+That old lady{WAIT:000F} was so nice to me{0D}{0A}that I got totally fooled.
+
+[demo_a5_n1.7990]
+Well,{WAIT:000F} be careful from now on.{0D}{0A}If it sounds too sweet, there's always a catch.
+
+[demo_a5_n1.8214]
+Goemon, everyone.{WAIT:001E} It ain't much to thank you for saving me,{0D}{0A}but you can have this.
+
+[demo_a5_n1.8454]
+Goemon and company got the Blue Purse!
+
+[demo_a5_n1.8662]
+It's a purse that lets you carry more money.{0D}{0A}You can hold up to 700 ryo.
+
+[demo_a5_n1.8882]
+Thanks,{WAIT:000F} much obliged.
+
+[demo_a5_n1.8956]
+I'll rest{WAIT:000F} a little longer, then keep going.
+

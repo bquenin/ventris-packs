@@ -1,0 +1,45 @@
+[npc_town5_n1.0452]
+This here's the port town of Mitsuke.
+
+[npc_town5_n1.0536]
+Did you know an octopus ain't a fish?
+
+[npc_town5_n1.0624]
+Did you know an octopus ain't a fish?
+
+[npc_town5_n1.0924]
+When I grow up, I'm gonna be King of the Pirates and rule the seven seas!
+
+[npc_town5_n1.1128]
+A while ago two folks were fightin' over whether this here's a water buffalo or a dairy cow,{0D}{0A}but it's just a plain old plow ox.
+
+[npc_town5_n1.1346]
+...
+
+[npc_town5_n1.1368]
+...
+
+[npc_town5_n1.1404]
+They say tuna belly used to get thrown out for bein' too fatty.{0D}{0A}But one day a poor student begged to eat it, belly or not,{0D}{0A}and from then on, tuna belly turned into a fancy delicacy.
+
+[npc_town5_n1.1776]
+Back in the day, I was the finest fisherman in this port~{0D}{0A}But one day I realized somethin' mighty important.{0D}{0A}And that's the fact that an octopus ain't a fish.{0D}{0A}Well, that might be a bit too deep for the likes of you.
+
+[npc_town5_n1.2202]
+Ah, now that's cleared up. Thanks for telling me.
+
+[npc_town5_n1.2322]
+Thanks for telling me.
+
+[npc_town5_n1.2388]
+I think I'll apologize.
+
+[npc_town5_n1.2444]
+What?! That's a plow ox?{0D}{0A}I was awful to Daigoro.{0D}{0A}I'll go and apologize, honestly.
+
+[npc_town5_n1.2692]
+What? If you don't need anything, don't talk to me!!{0D}{0A}I just had a fight and I'm in a bad mood!!
+
+[npc_town5_n1.2866]
+Honestly, that nitwit...
+

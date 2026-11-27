@@ -1,0 +1,39 @@
+[demo_a5_n5.0466]
+Sis{WAIT:000F} is crazy about comedy,{WAIT:000F} she loves anything fun.{0D}{0A}If you do a funny act,{WAIT:000F} or a dance or something,{0D}{0A}she'll get curious,{WAIT:000F} and I bet she'll come out.{WAIT:001E} Sniff{07:000A}...
+
+[demo_a5_n5.1464]
+Sniff{07:000A}...
+
+[demo_a5_n5.1608]
+What's wrong?{WAIT:000F} Why are you crying?
+
+[demo_a5_n5.1676]
+I was playing with Sis's precious thing,{WAIT:000F} and I dropped it in the pond.{0D}{0A}Sniff{07:000A}...{07:0004}{0D}{0A}And then{WAIT:000F} Sis got mad and left.{0D}{0A}Sniff{07:000A}...
+
+[demo_a5_n5.2002]
+Ya went and messed with somethin'{WAIT:000F} she treasures?{0D}{0A}Well, sure she got mad.
+
+[demo_a5_n5.2210]
+So you're Susanoo?{0D}{0A}Then could it be{WAIT:000F} the one who got mad and left{WAIT:000F} is Lady Amaterasu?
+
+[demo_a5_n5.2406]
+Sniff{07:000A}...{07:0004}{0D}{0A}Yeah.{WAIT:001E} The great goddess Amaterasu{WAIT:000F} is my big sister.{0D}{0A}Sniff{07:000A}...
+
+[demo_a5_n5.2576]
+Is that so.{0D}{0A}We have business with Lady Amaterasu.
+
+[demo_a5_n5.2708]
+Sis{WAIT:000F} went into the Heavenly Rock Cave at Shirasuka.{0D}{0A}Once Sis gets mad,{WAIT:000F} she won't come out for anything.
+
+[demo_a5_n5.2998]
+That is a problem.{WAIT:001E} We cannot even speak with her, then?
+
+[demo_a5_n5.3124]
+Sis{WAIT:000F} is crazy about comedy,{WAIT:000F} she loves anything fun.{0D}{0A}Everyone in the village is putting on acts{WAIT:000F} in front of the Heavenly Rock Cave,{0D}{0A}but if somebody does a really funny act, I bet Sis will come out.
+
+[demo_a5_n5.3616]
+A funny act, huh?{WAIT:000F} A dandy like me just ain't cut out for that.
+
+[demo_a5_n5.3720]
+To see Amaterasu,{WAIT:000F} we gotta find somebody funny, huh?{0D}{0A}For now,{WAIT:000F} let's go around askin' folks.
+

@@ -1,0 +1,15 @@
+[npc_town5_n4.0716]
+This is Lady Amaterasu's house.
+
+[npc_town5_n4.0880]
+This is the village of Futagawa, a village of Yamatai.
+
+[npc_town5_n4.1104]
+My hairdo's way cooler than his!
+
+[npc_town5_n4.1240]
+Hey, look, look~ This hairdo is the latest Yamatai style.
+
+[npc_town5_n4.1400]
+Something funny, something funny, huh...{0D}{0A}They say the pun most used in Japan is the one about the phone nobody answers.{0D}{0A}Hmm, no good...
+

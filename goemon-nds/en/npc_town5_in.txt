@@ -1,0 +1,45 @@
+[npc_town5_in.0776]
+Warabi mochi is the best!
+
+[npc_town5_in.0920]
+Oh! You did well to find this place.
+
+[npc_town5_in.1100]
+Lord Susanoo's love of mischief is really a problem.
+
+[npc_town5_in.1332]
+The rich taste of this dengaku! I never knew it was this good.{0D}{0A}The best!
+
+[npc_town5_in.1484]
+I-I can't take it no more!{0D}{0A}I can't cut any more wood.{0D}{0A}Boss is way too strict.
+
+[npc_town5_in.1668]
+Oi! Put your back into that saw!{0D}{0A}Young folks these days are all good-for-nothings.
+
+[npc_town5_in.1864]
+A treasure Lady Amaterasu held dear.{0D}{0A}They say Lord Susanoo took it out and lost it.
+
+[npc_town5_in.2072]
+Grated radish is the only way to have pike!{0D}{0A}A splash of soy sauce, and eat it with hot rice!{0D}{0A}The best!
+
+[npc_town5_in.2288]
+Lookin' for a priest?{0D}{0A}Well, the head priest of Horohoro Temple in Hagure Town, Edo, is well known.
+
+[npc_town5_in.2504]
+Lady Amaterasu's treasure is a helmet handed down from long, long ago.{0D}{0A}They say it belonged to an enemy general whose head was struck off.
+
+[npc_town5_in.2756]
+Those big drums that come rollin' at Kakegawa are a pain.{0D}{0A}If you could go under the ground, you might get past.
+
+[npc_town5_in.3016]
+The Arai checkpoint's been shut for a good long while.{0D}{0A}How do you get through, you ask?{0D}{0A}There was a back way, I think. Go look for it.
+
+[npc_town5_in.3320]
+You heard? They say a yamamba lives in Fukuroi.{0D}{0A}The yamamba fattens travelers up nice and round, then eats 'em.{0D}{0A}Ooh, scary.
+
+[npc_town5_in.3636]
+Do you know of anyone with a gift for comedy?{0D}{0A}We simply must make Lady Amaterasu laugh.{0D}{0A}Is there no funny, roly-poly fellow who talks like he's from Kansai?
+
+[npc_town5_in.3976]
+I know how to beat a yamamba.{0D}{0A}Yamamba are weak against a priest's talismans.{0D}{0A}You just need a great priest to write a sutra for you,{0D}{0A}but where could a priest like that be?
+

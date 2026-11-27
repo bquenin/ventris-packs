@@ -1,0 +1,21 @@
+[demo_a5_n7.1154]
+Goemon, sir! There is a suspicious haniwa!
+
+[demo_a5_n7.1674]
+It ran off into the water!
+
+[demo_a5_n7.1768]
+What's that?{WAIT:001E} A big shadow is coming closer.
+
+[demo_a5_n7.2646]
+This it?{WAIT:001E} The thing they call Masakado's helmet?
+
+[demo_a5_n7.2764]
+Mighty beat-up helmet, ain't it.{0D}{0A}Ya can't tell{WAIT:000F} if it's junk or treasure.
+
+[demo_a5_n7.2890]
+It's precious{WAIT:000F} to Masakado,{0D}{0A}so let's hurry and bring it to him.
+
+[demo_a5_n7.3048]
+Right.{WAIT:001E} Then let's take it to Maisaka.
+

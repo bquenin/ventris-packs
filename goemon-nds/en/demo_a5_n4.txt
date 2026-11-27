@@ -1,0 +1,18 @@
+[demo_a5_n4.0538]
+Please, take me as your disciple!
+
+[demo_a5_n4.0588]
+Huff, huff! Wheeze...
+
+[demo_a5_n4.0862]
+Marvelous, simply marvelous!
+
+[demo_a5_n4.0930]
+Sigh{07:000A}...{07:0006} we just can't do it.
+
+[demo_a5_n4.1166]
+Hm?{WAIT:000F} What are we doing, you ask?{0D}{0A}To soothe the anger of Lady Amaterasu,{0D}{0A}we're dancing the Cheer-Up Dance.{0D}{0A}Lady Amaterasu seems terribly angry.{0D}{0A}She has been hiding inside this rock cave all along.{0D}{0A}She won't come out at all.{0D}{0A}It's a real problem.
+
+[demo_a5_n4.1796]
+Come on, come on!{WAIT:001E} Dance merrier, and sillier!
+
