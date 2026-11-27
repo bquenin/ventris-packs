@@ -217,5 +217,9 @@ Builds were run from power-on in DeSmuME (ventris's `ds-probe`):
   Seen again after the spreads were shortened: the opening runs through 16654 to the title card, and
   the last spread (20914, 20994, 21132) is drawn whole and waits for the button. Pressing A while a
   page is still being written skips to the next page, so a check presses nothing on the page it reads.
-- Not yet: the trial scene and the rest of area 1 with this pack's own text (the trial was seen with test
-  text, which showed the box's width and its pages), the shops and the town.
+- The start of the trial (`demo_a1_n0`): the magistrate's entrance and his first speeches, wrapped to
+  the box, with a fourth line going on in a cleared box. The name plates beside the faces are pictures,
+  and stay in Japanese.
+- Not yet: the rest of the game with this pack's text, the shops, the towns, the quiz, the guide
+  bubbles (whose window may be narrower than the dialogue box), and Fukurokuju's emoticons, whose
+  ASCII parts are drawn from Unifont.
