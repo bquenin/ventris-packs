@@ -1,0 +1,410 @@
+[107.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[107.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[107.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[107.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[107.005]
+Write in diary
+Read diary
+Quit
+
+[107.006]
+Dan Kichi
+{SAY}Hey! {NAME:19}! Let's go to Myaa Town first!{WAIT}We'll tell everyone!{/SAY}
+
+[107.009]
+Write in your diary?
+
+[107.010]
+Write in diary
+Read diary
+Sleep
+
+[107.012]
+Write in your diary?
+
+[107.013]
+Write in diary
+Read diary
+Sleep
+
+[107.015]
+{SAY}............{/SAY}
+
+[107.016]
+{SAY}Don't you go whackin' my watermelons!{/SAY}
+
+[107.017]
+
+《Thunk thunk... a good sound!》
+
+[107.018]
+
+《Knock knock... hm?》
+
+[107.019]
+
+《Knock knock... hm?
+　　...Still green.》
+
+[107.020]
+
+《Knock knock... hm?
+　　...This one's big.》
+
+[107.021]
+
+《Knock knock... hm?
+　　...Looks full of seeds.》
+
+[107.022]
+
+《Knock knock... hm?
+　　...It's small.》
+
+[107.023]
+
+《A green sunflower!!》
+
+[107.024]
+
+《A big sunflower!!》
+
+[107.025]
+
+《A sunflower full of seeds!!》
+
+[107.026]
+
+《A small sunflower!!》
+
+[107.027]
+
+《There's a phone...》
+
+[107.028]
+
+《The manhole opened!》
+
+[107.029]
+
+《The manhole is open!》
+
+[107.030]
+
+《The number you have dialed
+　is not in service...》
+
+[107.035]
+《...All lines are busy.{WAIT}
+　Please call again later...》
+
+[107.036]
+
+《A manhole...》
+
+[107.037]
+"Dengana Info Shop now open!"
+　Under Myaa Town! Sharp info at
+　honest prices! Bargains! Bargains!
+
+[107.038]
+"Dengana Info News"
+　Myaa Town's Princess Myaa is
+　finally engaged, ya hear!!{HOLD}　To {NAME:19}, who beat the
+　Inuyama Zoo aliens!?{WAIT}
+　{NAME:19} sure has
+　some{PAUSE:1E} pe{PAUSE:1E}cu{PAUSE:1E}liar{PAUSE:1E} taste!
+　Guhuhu　by Dengana
+
+[107.039]
+{SAY}The aliens sank all the ships...{/SAY}
+
+[107.040]
+{SAY}The sea has sea aliens,{PAUSE:14} right?{/SAY}
+
+[107.041]
+{SAY}Dr. Z was beaten!? ...Does that mean a bit more peace!?{/SAY}
+
+[107.042]
+{SAY}Don't you want to sail out and roam the world?{/SAY}
+
+[107.043]
+{SAY}All life was born from the sea long ago.{WAIT}...{PAUSE:1E}Where were the aliens born?{/SAY}
+
+[107.044]
+{SAY}The odd quakes lately seem to stir up the sea.{/SAY}
+
+[107.045]
+{SAY}M... Mt. Fuji erupting! No ships to flee Japan... oh!{/SAY}
+
+[107.046]
+{SAY}All life was born from the sea long ago.{WAIT}...{PAUSE:1E}Where were the aliens born?{/SAY}
+
+[107.047]
+{SAY}Welcome to Neo-Kobe. A quiet town for those who want peace.{WAIT}...Huh?{PAUSE:14} Bless?{PAUSE:19} What's that?{/SAY}
+
+[107.048]
+{SAY}Welcome to Neo-Kobe!{WAIT}We pose as a harmless town to hide the Bless underground.{/SAY}
+
+[107.049]
+{SAY}Welcome to Neo-Kobe.{WAIT}...Hm? Aren't you the one who saved the Attack Team!{HOLD}Thank you!{/SAY}
+
+[107.050]
+{SAY}Welcome to Neo-Kobe.{WAIT}Shady figures are about lately.{WAIT}I hope it's no bad omen...{/SAY}
+
+[107.051]
+{SAY}They say there was a big battle in Kyushu too!{WAIT}Huh?{PAUSE:14} Result?{PAUSE:14} We won, of course!{/SAY}
+
+[107.052]
+{SAY}Welcome to Neo-Kobe! A town of people resolved to fight the aliens!{/SAY}
+
+[107.053]
+　Lots of quakes lately, huh?{WAIT}
+　I hate it...
+
+[107.054]
+　It's terrible! Mt. Fuji!
+
+[107.055]
+{SAY}Aliens destroyed most towns.{WAIT}This one got rebuilt this far...{WAIT}A Bless in Neo-Kobe?{PAUSE:19} Never heard of it.{/SAY}
+
+[107.056]
+{SAY}The Bless is secret. Who knows where aliens are listening.{/SAY}
+
+[107.057]
+{SAY}Did you hear?{/SAY}
+
+[107.058]
+{SAY}Well, impressive!{WAIT}That's the Attack Team!{/SAY}
+
+[107.059]
+{SAY}The Attack Team wiped out the aliens at Inuyama Zoo!{/SAY}
+
+[107.060]
+{SAY}Alien damage is up again lately...{WAIT}Odd folks are prowling too... I hope nothing happens.{/SAY}
+
+[107.061]
+{SAY}Alien damage seems down lately.{WAIT}That's good, but...{WAIT}I have a bad feeling.{/SAY}
+
+[107.062]
+{SAY}They say these quakes are "ghost quakes" with no clear epicenter.{WAIT}I have a bad feeling.{/SAY}
+
+[107.063]
+{SAY}That quake was huge!{HOLD}What? Mt. Fuji's erupting!? Nooo!!{/SAY}
+
+[107.064]
+{SAY}Alien damage seems down lately.{WAIT}But many places must still suffer...{/SAY}
+
+[107.065]
+{SAY}A Bless here would get us attacked again, right?{WAIT}Don't say such things!{/SAY}
+
+[107.066]
+{SAY}Please don't talk about our Bless elsewhere.{/SAY}
+
+[107.067]
+{SAY}That's the Attack Team!{WAIT}Our star of hope!{/SAY}
+
+[107.068]
+{SAY}They say joining the Fatima cult makes you happy...{WAIT}Really?{/SAY}
+
+[107.069]
+{SAY}There's a great restaurant on the Sea of Japan coast!{WAIT}I'd go, if not for times like these.{/SAY}
+
+[107.070]
+{SAY}Hey, I heard! You were great!{WAIT}Now don't slow your captain down!{/SAY}
+
+[107.071]
+{SAY}What do I do! What do we do? Somebody help~!{/SAY}
+
+[107.072]
+{SAY}Aliens! We'll show you human power!{WAIT}...So, it's all yours!{/SAY}
+
+[107.073]
+{SAY}...Mister, are you from Bless?{/SAY}
+
+[107.074]
+{SAY}I see...{WAIT}Doesn't this watermelon field look like something? ...Hello? Just kidding.{/SAY}
+
+[107.075]
+{SAY}Hmm...{/SAY}
+
+[107.076]
+{SAY}Sorry about before. I really wanted to say: do your best for me too!{/SAY}
+
+[107.077]
+{SAY}I know!{WAIT}You saved the Attack Team, mister!{WAIT}Amazing!{WAIT}Do your best for me too!{/SAY}
+
+[107.078]
+{SAY}I want to grow up fast and help you guys!{/SAY}
+
+[107.079]
+{SAY}I'm not worried! You guys are here!{/SAY}
+
+[107.080]
+{SAY}I want to grow up fast and help you guys!{/SAY}
+
+[107.081]
+{SAY}Strange...{WAIT}I came from Nagasaki Town because they said there's a big Bless here...{/SAY}
+
+[107.082]
+{SAY}The Fatima cult is all the rage in Nagasaki Town.{WAIT}...They say members aren't attacked by aliens.{WAIT}Maybe I'll join...{/SAY}
+
+[107.083]
+{SAY}Fatima followers show up here lately.{WAIT}Traveling safely from Kyushu... is the blessing real?{/SAY}
+
+[107.084]
+{SAY}I meant to join the Fatima cult, but the guru was an alien?{WAIT}Phew, close call.{/SAY}
+
+[107.085]
+{SAY}Did you know?{/SAY}
+
+[107.086]
+{SAY}Their leader was a Bless super-elite, they say!{/SAY}
+
+[107.087]
+{SAY}They say some people travel Japan beating aliens!{/SAY}
+
+[107.088]
+{SAY}If Mt. Fuji erupts... nowhere's safe...{/SAY}
+
+[107.089]
+{SAY}Glad Mt. Fuji's eruption was no big deal.{WAIT}What? Thanks to you? Haha.{PAUSE:3C} Nice joke!{/SAY}
+
+[107.090]
+{SAY}Sure, outside town it's crawling with monsters and aliens.{HOLD}But lately I think we'll manage!{/SAY}
+
+[107.091]
+{SAY}How 'bout our famous Takoyaki Buns?{/SAY}
+
+[107.092]
+{NAME:02}
+{SAY}Again...{/SAY}
+
+[107.093]
+{NAME:03}
+{SAY}Bad feeling... dunno why, but this quake feels real bad!{/SAY}
+
+[107.094]
+{NAME:01}
+{SAY}Anyway, let's go to the doctor.{WAIT}She may know something.{/SAY}
+
+[107.095]
+{SAY}I'm quietly waiting to die. {PAUSE:1E}Without her I'd be so lonely...{/SAY}
+
+[107.096]
+{SAY}Loneliness isn't weakness. It's proof we lived as two.{/SAY}
+
+[107.097]
+{SAY}My son lives in Myaa Town.{WAIT}He says it's hard for outsiders...{WAIT}Did you meet him?{/SAY}
+
+[107.098]
+{SAY}A bit greedy, but he never lies. A good boy.{/SAY}
+
+[107.099]
+{SAY}He runs an info shop underground...{WAIT}I hope he's safe.{WAIT}If there's anything you need to know, use him.{/SAY}
+
+[107.100]
+{SAY}My~ welcome. Make yourself at home.{/SAY}
+
+[107.101]
+{SAY}The world's in such a state.{WAIT}I hope my son's doing well.{/SAY}
+
+[107.102]
+{SAY}I wish for peace, so the three of us can live together again.{/SAY}
+
+[107.103]
+{SAY}At times like this, living apart is so worrying.{WAIT}...I hope my son's safe.{/SAY}
+
+[107.104]
+{SAY}I used to be a doctor. I'll look at you.{/SAY}
+
+[107.105]
+{SAY}Not enough money!{/SAY}
+
+[107.106]
+{SAY}Long ago there were serial murders at Portopia.{HOLD}But the aliens got Portopia too.{/SAY}
+
+[107.107]
+{SAY}Long ago there was a murder in Okhotsk too.{PAUSE:14} I wonder how Okhotsk is now.{/SAY}
+
+[107.108]
+{SAY}I'll ask once.{WAIT}Two famous RPGs. Which do you like?{/SAY}
+
+[107.109]
+The one starting with D
+The one starting with F
+
+[107.110]
+{SAY}...{PAUSE:3C}I see.{/SAY}
+
+[107.111]
+{SAY}I'm not talking to you anymore.{/SAY}
+
+[107.112]
+{SAY}Mt. Fuji erupting... living long's no good...{/SAY}
+
+[107.113]
+{SAY}Murders and mysteries often happen in mansions, but this town's mansion is a plain house.{WAIT}Rest easy.{/SAY}
+
+[107.114]
+{SAY}My, welcome.{PAUSE:1E} So many aliens outside, it must've been hard.{WAIT}I can lend you a room upstairs. Will you stay?{WAIT}It's 300G a night...{/SAY}
+
+[107.115]
+{SAY}Then go on upstairs.{/SAY}
+
+[107.116]
+{SAY}Pardon, but you're short on money...{/SAY}
+
+[107.117]
+{SAY}If you're staying, go on upstairs.{WAIT}You've already paid.{/SAY}
+
+[107.118]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[107.119]
+{SAY}Call me any time.{/SAY}
+
+[107.120]
+{SAY}Been to Myaa Town to the east?{/SAY}
+
+[107.121]
+{SAY}You got away safe!{/SAY}
+
+[107.122]
+{SAY}Good! It's rough on outsiders, better stay away!{/SAY}
+
+[107.123]
+{SAY}With the zoo aliens gone, they've stopped arresting outsiders on sight.{/SAY}
+
+[107.124]
+{SAY}Some show-off became an honorary citizen.{WAIT}Oh brother.{/SAY}
+
+[107.125]
+{SAY}Princess Myaa has a fiance, they say.{WAIT}A toast to that brave soul!{/SAY}
+
+[107.126]
+{SAY}At times like this, stay calm and think slowly.{WAIT}...Still scary.{/SAY}
+
+[107.127]
+{SAY}Whew, I didn't know what would happen.{WAIT}All's well.{/SAY}
+
+[107.128]
+
+《There's a bed. Stay here?》
+
+[107.129]
+Dan Kichi
+{SAY}I'm no member, I can't go in.{WAIT}I'll wait here!{/SAY}
+
+[107.130]
+Dan Kichi
+{SAY}Hm? Done already? All right! Let's go!!{/SAY}
+
