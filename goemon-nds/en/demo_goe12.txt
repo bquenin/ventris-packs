@@ -35,7 +35,7 @@ After Lord McGuinness lost, we couldn't go home, so we've stayed in Japan ever s
 You're buildin' a robot!
 
 [demo_goe12.03018]
-When it's done, I'll challenge Goemon Impact, y'know.
+When it's done, I'll challenge Impact, y'know.
 
 [demo_goe12.03132]
 Sure!{WAIT:000F} Come at me anytime. I'll take ya on.

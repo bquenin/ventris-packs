@@ -20,7 +20,7 @@ Hmph!{0D}{0A}If you don't read it, you don't get to play the special game!
 I'm Nostra.{0D}{0A}My brothers are hiding in all sorts of places along the road.{0D}{0A}Find them all, and something good will happen.
 
 [npc_extra.2410]
-I'm Nostra.{0D}{0A}Congratulations! You found 15 of my brothers.{0D}{0A}I'll add Goemon Impact to the mini-game download.{0D}{0A}Share it with your friends. See you!{0D}{0A}Good luck!
+I'm Nostra.{0D}{0A}Congratulations! You found 15 of my brothers.{0D}{0A}I'll add Impact to the mini-game download.{0D}{0A}Share it with your friends. See you!{0D}{0A}Good luck!
 
 [npc_extra.2748]
 Congratulations!{0D}{0A}Amazing! You finally found all of my brothers.{0D}{0A}As a prize, I've added a costume change feature.{0D}{0A}Try it with the SELECT Button.{0D}{0A}Well then, see you somewhere again!

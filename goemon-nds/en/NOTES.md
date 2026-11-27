@@ -30,6 +30,10 @@ translator needs to carry on in the same way.
   break) is dropped, since the build breaks lines itself.
 - **Shops** (`shop_area*`) are written by a small script of the author's from a table of item names
   and the shopkeepers' lines, since every shop repeats the same strings.
+- **The guide bubbles** (`gim_help_*`) keep the blank lines the Japanese has inside a string, as
+  paragraph gaps; their single line breaks are dropped like any other.
+- **Generated files**: `dojo` (four training halls with the same lines) and the `gim_help_*` files
+  were written from small tables by a script of the author's, like the shops.
 - **Quizzes**: the Tokaido quiz's fixed lines (`Oh? Are you a quiz contestant?`, `Correct!!`, `Too bad!!
   Wrong answer!!`, `Got 50 ryo in prize money!`) are word for word the same in every town.
 - **The storyteller** (`stage_demo`) narrates in a showman's rhythm, short lines that rhyme or nearly so in
@@ -76,7 +80,17 @@ translator needs to carry on in the same way.
 - **Masakado's ghost** speaks in katakana broken by commas: one word at a time, "I, am, Masakado...".
 - **Amaterasu** calls herself ワラワ: regal and old-fashioned, no contractions; laughs "Oh-ho-ho-ho!".
 - **Susanoo** is a crying child who calls Amaterasu おねいちゃん: "Sis", "Sniff...".
-- **Children who lisp** (area 4's kidnapped boy): "fank you", "wiv", "scawy", lightly.
+- **Children who lisp** (area 4's kidnapped boy): "fank you", "wiv", "scawy", lightly. Those who end
+  with でちゅ (Fujikawa's guide, Kyo's kimono seller) lisp on s: "Thith is the town of Fujikawa".
+- **The Seven Lucky Gods**: Ebisu a grumpy old geezer; Benzaiten ends with でおじゃる, a court lady's
+  speech: "I declare"; Jurojin and Bishamonten plain and dignified; Hotei draws out his vowels
+  (でぇす): "Who iiis it?"; Fukurokuju is a show-off who types emoticons, and the emoticons stay as the
+  game has them, with English words for their Japanese ones (`v(ー_ー)Tsk tsk`, `(lol)` for （笑）).
+- **The Otafuku sister** ends with ありんす like Kensuke: "dearie".
+- **Kinemon unmasked** (from area 7) drops his "thou" and talks rough: "I'm gonna rule this country".
+- **Plasma** ends every sentence with ぷらずま: "..., plasma." His laugh ぷぷぷぷ is "Pupupupu...".
+- **Kurobee** (the cat) ends with ニャ: "nya".
+- **McGuinness**, like Peruri, speaks katakana: formal, no contractions, cheerful.
 - **Honorifics** are left out (ヤエちゃん is Yae, 金さん is Kin). Ebisumaru's 金はん is "ol' Kin".
 
 ## Glossary
@@ -146,7 +160,22 @@ where no official English exists.
 | サスケ風船 | Sasuke Balloon | pack |
 | 花火爆弾 | firework bombs | pack |
 | 通行手形 | Travel Pass | pack |
-| 緑の巾着, 黄色の巾着, 青の巾着 | Green Purse (300 ryo), Yellow Purse (500), Blue Purse (700) | pack |
+| 緑の巾着, 黄色の巾着, 青の巾着, 赤の巾着 | Green Purse (300 ryo), Yellow Purse (500), Blue Purse (700), Red Purse (999) | pack |
+| 弁財天, 寿老人, 毘沙門天 (昆沙門天 in the script), 布袋尊, 福禄寿, 大黒天 | Benzaiten, Jurojin, Bishamonten, Hotei, Fukurokuju, Daikokuten | pack (English reference works) |
+| オナラの術 | the Fart Technique | pack |
+| 反射手裏剣 | the Reflecting Shuriken | pack |
+| 大天狗 | the Great Tengu | pack (Peruri's giant weapon) |
+| 桜さん | Mr. Sakura | pack (Peruri's name for Kinemon, after his tattoo) |
+| おたふく三姉妹, 大福 | the three Otafuku sisters, Daifuku | pack |
+| 福笑 | fukuwarai | pack |
+| ノストラ | Nostra | pack (the hidden collectibles) |
+| 怒り, 乱れ, 戦国, 天女の修行道場 | the training hall of Wrath, Chaos, the Warring States, the Celestial Maiden | pack |
+| 大ダコの術, 乱れサイコロの術, 戦国インパクトの術, 天女の術 | the Giant Octopus Art, the Chaos Dice Art, the Warring States Impact Art, the Celestial Maiden Art | pack |
+| 大岡越前守, 根岸肥前守 | Ooka, Lord of Echizen; Negishi, Lord of Hizen | pack (historical magistrates) |
+| ゆき姫 | Princess Yuki | pack |
+| クロべえ, 小判ネコ親分 | Kurobee, Boss Koban Cat | pack |
+| 千秋楽 | Senshuraku | pack (McGuinness's giant robot in Goemon 2) |
+| 藤川, 御油, 赤坂, 坂下, 水口, 大津, 三条大橋 | Fujikawa, Goyu, Akasaka, Sakanoshita, Minakuchi, Otsu, Sanjo Bridge | the stations' names |
 | バレリーナドリル | Ballerina Drill | pack |
 | ホーミングバズーカ | Homing Bazooka | pack |
 | 一重, ひとえ | Hitoe | pack |
@@ -168,10 +197,10 @@ where no official English exists.
 - `system`: all but `system.02876`, which looks like the characters drawn for the sound test's labels and
   is left as the game has it.
 - `stage_demo`: all of the storyteller.
-- Areas 1 to 5: every scene (`demo_a1_*` to `demo_a5_*`), every town and inn (`npc_town1_*` to
-  `npc_town5_*`), and all the shops (`shop_area1` to `shop_area7`, `shop_area7b`).
-- Not yet: areas 6 to 8, the ending, the extra towns and guides (`npc_extra`, `gim_help_*`, `dojo`,
-  `kagoya`, `purazuma`, and the rest).
+- Everything else: every scene (`demo_a1_*` to `demo_a8_*`, `demo_ending`, `demo_goe12`), every town
+  and inn (`npc_town1_*` to `npc_town7_*`), the shops, the training halls (`dojo`), the porters
+  (`kagoya`), Plasma (`purazuma`), the guide bubbles (`gim_help_*`) and the other people (`npc_*`).
+  The strings the pack leaves out are all placeholders (above) or `system.02876`.
 
 ## What has been seen on screen
 

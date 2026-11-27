@@ -44,7 +44,7 @@ Get outta here!{WAIT:000F} Get down here, you rotten so-and-so!
 Oh!{WAIT:000F} How frightening, how frightening.{WAIT:000F} The Japanese are violent.{0D}{0A}I{WAIT:000F} have no time to dawdle{WAIT:000F} in a place like this.{0D}{0A}I shall bury you{WAIT:000F} with my giant robot,{WAIT:000F} you see.
 
 [demo_a6_n15.5006]
-If it's a big machine,{WAIT:000F} we'll fight back with Goemon Impact!
+If it's a big machine,{WAIT:000F} we'll fight back with Impact!
 
 [demo_a6_n15.5154]
 Save your game?

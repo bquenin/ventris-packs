@@ -11,7 +11,7 @@ Behold the power of the legendary treasures,{WAIT:001E} and tremble!
 This is the big finale,{WAIT:000F} Goemon!
 
 [demo_a8_n4.2082]
-If it's a big machine,{WAIT:0014} we'll fight back with Goemon Impact!
+If it's a big machine,{WAIT:0014} we'll fight back with Impact!
 
 [demo_a8_n4.2244]
 Save your game?
