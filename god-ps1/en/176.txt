@@ -1,0 +1,32 @@
+[176.000]
+{NAME:02}
+{SAY}What's happening in America...{/SAY}
+
+[176.002]
+{NAME:04}
+{SAY}Hm?{HOLD}The weather looks a bit threatening...{/SAY}
+
+[176.003]
+{NAME:01}
+{SAY}Whoa~! Rain~!{/SAY}
+
+[176.004]
+{NAME:04}
+{SAY}Th... this is bad! At this rate!{/SAY}
+
+[176.005]
+{NAME:02}
+{SAY}Kyaaah!{/SAY}
+
+[176.006]
+{NAME:04}
+{SAY}Lady {NAME:02}! Mmmm!!{/SAY}
+
+[176.007]
+{NAME:01}
+{SAY}Yikes!!!{/SAY}
+
+[176.008]
+Batty
+{SAY}Whoaaa~!{/SAY}
+

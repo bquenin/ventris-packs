@@ -1,0 +1,46 @@
+[177.002]
+{SAY}The survey unit was wiped out.{HOLD}The dome is covered by a strange power. We can't even get near it!{/SAY}
+
+[177.003]
+Linda
+{SAY}We are here now.{/SAY}
+
+[177.004]
+Linda
+{SAY}Chichen Itza is southwest of here.{/SAY}
+
+[177.005]
+Linda
+{SAY}This is the Chichen Itza ruin.{WAIT}As you see, it's deep in the forest, and ships can't get near.{/SAY}
+
+[177.006]
+Linda
+{SAY}Now, the secret base...{/SAY}
+
+[177.007]
+Linda
+{SAY}It's here. It's far, but there's nowhere else in South America to land.{/SAY}
+
+[177.008]
+Luka
+{SAY}Going to Europe, fin?{/SAY}
+
+[177.009]
+{SAY}I can't wait long, fin!{/SAY}
+
+[177.010]
+
+《Pushed back by a strange power!》
+
+[177.011]
+
+《Pushed back by a strange power!》
+
+[177.012]
+
+《Pushed back by a strange power!》
+
+[177.013]
+
+《Pushed back by a strange power!》
+
