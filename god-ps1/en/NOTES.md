@@ -193,20 +193,38 @@ renames each member when they join. A name is at most 6 cells, one character to 
 
 ## Areas written short
 
-The heap leaves area 131 (Honmaka Town) almost no room: going from it into area 179 the build had only
-8 bytes to spare. Its lines are written tersely; area 179 must be too. Areas 105 and 107 cannot grow at all
-and are not translated yet.
+Area 131 (Honmaka Town) and 157 (the UN Building) were written tersely when the heap left them little room;
+with the door patch and letter pairs every area now has tens of KB to spare, so they could be loosened.
+
+## Abbreviations
+
+- Item names have about 72 pixels, ten narrow letters: `Big Pow.Wtr`, `Titan Swd`, `CossackCap`, `Fire Chain`
+  (necklaces), `Zori` (sandals), `Ess.` (essence), `Wtr` (water). Dialogue that names an item in its own text
+  writes it in full.
+- The seven chakras have one cell each: K (気, ki), W (知, wisdom), H (癒, healing), S (霊, spirit), N (陽, sun or
+  nature), J (楽, joy), P (力, power). Chakra pairs are written `K×W`.
+- Menu labels that the screen allows only 3 or 4 letters: `CHRG`, `CMD`, `SAV`, `LOD`, `AUT`, `MIS`, `ZZZ`, `DAZE`.
+
+## Left in Japanese
+
+- Area 178, the developers' debug room, and the placeholder lines such as `エアーズロックのＮＰＣ１です`.
+- The phone keypads (digits and marks), which are not words.
+- The battle scripts' text (battle.txt) is not changed.
 
 ## Open
 
-- While little of the game is translated, few kanji cells are free for pairs of letters, and pairs without a cell are drawn as full-width letters. Area 096 alone needs 484 pairs and has 278 cells. A full translation frees most of the 1,516 kanji; the English packs of games this size need about 1,200 to 1,700 pairs.
-- コウラン's name.
+- コウラン's name (written Kouran).
 - The names marked **reading**, against the SNES patch when its spelling can be found.
+- Name entry is out of scope; the party's default names are set in program.txt.
 
 ## Built
 
-Areas 096 to 099, 101 to 104, 106 and 108 to 140 build with nothing refused when built on their own. Together they need more of the disc's free room than it has; an adapter change to make room is in progress.
+The whole pack builds with nothing refused (ventris main a5493d1): 8,794 dialogue strings in 91 areas, 3,297
+program strings taking 43,076 of the room's 70,379 bytes, 53 menu labels; 85 characters and 155 pairs in the
+renderer; 105,220 bytes of the heap free at the tightest moment.
 
 ## Seen on screen
 
-- `096.109` to `096.112`, the opening at home, from power-on (PCSX-Redux). Pairs that found no cell show as full-width letters while few areas are translated; see Open.
+- The opening at home (096), from power-on in PCSX-Redux: narrow, even letters, lines wrapped in the window.
+- Under Neo-Kobe (105) after the 107 to 105 door, and the casino of Kowloon Tower (179) after the 131 to 179 door.
+- The equipment screen (program text in the menus' font).
