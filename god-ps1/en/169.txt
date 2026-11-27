@@ -1,0 +1,78 @@
+[169.000]
+{SAY}Hey!{/SAY}
+
+[169.002]
+{SAY}NO! NO! You pay 7G, okay.{WAIT}That is bathhouse manners.{/SAY}
+
+[169.003]
+{NAME:02}
+{SAY}So? Was the bath nice?{/SAY}
+
+[169.004]
+{NAME:02}
+{SAY}...{NAME:19}, you pervert!{/SAY}
+
+[169.005]
+{SAY}Hi! Welcome!{WAIT}My cousin run bathhouse in America.{WAIT}Me no lose to him.{WAIT}7G. You go in?{/SAY}
+
+[169.006]
+{SAY}Sankyu!{/SAY}
+
+[169.007]
+{SAY}Huh. You don't have enough money.{/SAY}
+
+[169.008]
+{SAY}Come again!!!{/SAY}
+
+[169.013]
+{NAME:02}
+{SAY}See you later, then.{/SAY}
+
+[169.014]
+{SAY}Oh, you found this place? You know your stuff!{/SAY}
+
+[169.015]
+
+《Of course I'll do it!》
+
+[169.016]
+{SAY}Don't overdo it, kid!{/SAY}
+
+[169.017]
+{SAY}This is also called Penguin Hot Spring. Sometimes there's a hot spring market, penguin.{WAIT}Looks like it's closed today, penguin.{/SAY}
+
+[169.018]
+　A reward for making it here,
+　take this, penguin.
+
+[169.019]
+
+《Got a Naughty Bun!》
+
+[169.020]
+{SAY}When it's gone, I'll give you more, penguin.{/SAY}
+
+[169.021]
+{SAY}Welcome to the hot spring market, penguin!{WAIT}Take your time, penguin!{/SAY}
+
+[169.022]
+{SAY}Hmm, can't decide what to get, penguin!{/SAY}
+
+[169.023]
+{SAY}Welcome! Freshly laid! Buy some, penguin!{/SAY}
+
+[169.024]
+{SAY}Come again, penguin!{/SAY}
+
+[169.025]
+{SAY}Welcome! Freshly caught! Buy some, penguin!{/SAY}
+
+[169.026]
+{SAY}Come again, penguin!{/SAY}
+
+[169.027]
+{SAY}Welcome! Freshly made! Buy some, penguin!{/SAY}
+
+[169.028]
+{SAY}Drop by again, penguin!{/SAY}
+

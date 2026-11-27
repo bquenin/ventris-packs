@@ -1,0 +1,336 @@
+[168.000]
+Write in diary
+Read diary
+Quit
+
+[168.002]
+{NAME:01}
+{SAY}{NAME:19}!{/SAY}
+
+[168.003]
+{NAME:01}
+{SAY}Where are we...{/SAY}
+
+[168.004]
+{NAME:04}
+{SAY}We seem to have escaped somehow.{/SAY}
+
+[168.005]
+{NAME:01}
+{SAY}What the heck was that!{/SAY}
+
+[168.006]
+{NAME:02}
+{SAY}...Yes. It was as if chakra power was pouring out of us...{/SAY}
+
+[168.007]
+{NAME:04}
+{SAY}...That may be exactly it.{/SAY}
+
+[168.008]
+{NAME:02}
+{SAY}What?{/SAY}
+
+[168.009]
+{NAME:04}
+{SAY}No one knows what happens when the brain is 100% open.{WAIT}There may be some terrible side effect...{/SAY}
+
+[168.010]
+{NAME:02}
+{SAY}A side effect...{/SAY}
+
+[168.011]
+{NAME:01}
+{SAY}Tch! What are you talking about! Our noggins just got a little surprised!{WAIT}See! I'm fine now.{WAIT}Come on! Let's go!{/SAY}
+
+[168.012]
+{NAME:04}
+{SAY}I suppose...{/SAY}
+
+[168.013]
+{NAME:02}
+{SAY}Oh, speaking of which, this...{/SAY}
+
+[168.014]
+{NAME:04}
+{SAY}We got it when we defeated Queen Larwa...{WAIT}Hmm, it looks like some kind of crest...{/SAY}
+
+[168.015]
+{NAME:01}
+{SAY}The writing on it... isn't it the same ancient script as that stone!?{WAIT}Old man, can you read it?{/SAY}
+
+[168.016]
+{NAME:04}
+{SAY}It's very old...{WAIT}Most of the letters have worn away...{HOLD}The biggest word is probably "Noah"... I think.{/SAY}
+
+[168.017]
+{NAME:02}
+{SAY}...Noah's Crest?{/SAY}
+
+[168.018]
+{NAME:04}
+{SAY}...Beyond that, I can't tell...{/SAY}
+
+[168.019]
+{NAME:02}
+{SAY}Wait! {NAME:19}!{/SAY}
+
+[168.020]
+{NAME:02}
+{SAY}That stone tablet... I feel something.{/SAY}
+
+[168.021]
+{NAME:04}
+{SAY}Wait! Sir {NAME:19}!{/SAY}
+
+[168.022]
+{NAME:04}
+{SAY}It's dangerous beyond there! Better not go.{/SAY}
+
+[168.024]
+{NAME:01}
+{SAY}Something's written here...?{/SAY}
+
+[168.025]
+{NAME:04}
+{SAY}This is... the legendary ancient script...{/SAY}
+
+[168.026]
+{NAME:01}
+{SAY}Old man! Can you read it?{/SAY}
+
+[168.027]
+{NAME:04}
+{SAY}No... I can't...{/SAY}
+
+[168.028]
+{NAME:02}
+{SAY}Wait...{/SAY}
+
+[168.029]
+
+《{NAME:02} touched the writing...》
+
+[168.030]
+{NAME:04}
+{SAY}Lemuria!{/SAY}
+
+[168.031]
+{NAME:01}
+{SAY}This is Lemuria!?{/SAY}
+
+[168.032]
+{NAME:04}
+{SAY}The heart of the ancient civilization, or{PAUSE:1E}...{PAUSE:1E} a place of the gods...{/SAY}
+
+[168.033]
+{NAME:02}
+{SAY}I feel it... the feeling put into these words...{WAIT}
+{CLEAR}"One of the three continents sunk by God's wrath.{WAIT}We shall not forget this sorrow.{WAIT}The name of that continent{PAUSE:1E}... Lemuria!"{/SAY}
+
+[168.034]
+"Begone..."
+
+[168.035]
+{NAME:02}
+{SAY}What...? That voice...?{/SAY}
+
+[168.036]
+"This is our holy land...{WAIT}
+　where Queen Larwa dwells...{WAIT}
+　None may enter!"
+
+[168.037]
+{NAME:02}
+{SAY}That was...{/SAY}
+
+[168.038]
+{NAME:01}
+{SAY}Isn't that... who we fought in Japan!?{PAUSE:1E} {NAME:19}?{/SAY}
+
+[168.039]
+{NAME:04}
+{SAY}What on earth is going on...{/SAY}
+
+[168.040]
+"My grudge for what
+　you did to me...{WAIT}
+　I'll settle it here!"
+
+[168.041]
+"Even in death, our will
+　never fades..."
+
+[168.042]
+"I hate you...
+　You killed me and my kin,{WAIT}
+　you got in our plans' way.
+　I hate you..."
+
+[168.043]
+"I am reborn...
+　by Lady Larwa's power,
+　to send you
+　to hell!"
+
+[168.044]
+"This is our holy land.{WAIT}
+　Where countless brethren sleep...{WAIT}
+　No place for worms
+　like you!"
+
+[168.045]
+
+《This seems to be a place of rest in Lemuria.》{WAIT}
+{CLEAR}
+《Rest here?》
+
+[168.046]
+
+《Then write in your diary?》
+
+[168.048]
+{NAME:02}
+{SAY}Wait! {NAME:19}!{/SAY}
+
+[168.049]
+{NAME:02}
+{SAY}I feel a strange power from that hole...{/SAY}
+
+[168.050]
+{NAME:01}
+{SAY}This is...!{/SAY}
+
+[168.051]
+{NAME:04}
+{SAY}To think such a place lay under the sea...{/SAY}
+
+[168.052]
+{NAME:02}
+{SAY}It's like... a grave...{/SAY}
+
+[168.053]
+{SAY}...Who is it. Who defiles my continent...{/SAY}
+
+[168.054]
+{NAME:01}
+{SAY}Who's there!{/SAY}
+
+[168.055]
+{NAME:02}
+{SAY}Where!?{/SAY}
+
+[168.056]
+{NAME:04}
+{SAY}Hm... look there!{/SAY}
+
+[168.057]
+{SAY}...This is the Lemurian Palace.{WAIT}Where the souls of our brethren who died in battle sleep in peace.{WAIT}What do humans want in our holy land?{/SAY}
+
+[168.058]
+{NAME:01}
+{SAY}Who are you!{/SAY}
+
+[168.059]
+{SAY}My name is Larwa.{PAUSE:14} Queen Larwa.{WAIT}I guard the sleep of souls here.{WAIT}From intruders like you...{/SAY}
+
+[168.060]
+{NAME:02}
+{SAY}Wait!{WAIT}What happened long ago?{WAIT}Why did so many people have to die?{/SAY}
+
+[168.061]
+Queen Larwa
+{SAY}...I need not answer.{WAIT}But if you defeat us, you'll learn the answer in time...{WAIT}Now, here I come! Let your souls too sleep here forever!{/SAY}
+
+[168.062]
+Queen Larwa
+{SAY}...{PAUSE:14}Where...{PAUSE:1E} are you...{PAUSE:14} going...{/SAY}
+
+[168.063]
+{NAME:01}
+{SAY}This is!{/SAY}
+
+[168.064]
+{NAME:04}
+{SAY}Sir {NAME:19}, let's take a look!{/SAY}
+
+[168.068]
+{NAME:01}
+{SAY}This is!{/SAY}
+
+[168.069]
+{NAME:02}
+{SAY}A God Stone! Here of all places!{/SAY}
+
+[168.070]
+
+《{NAME:19} and company found the God Stone!》
+
+[168.071]
+{NAME:04}
+{SAY}That makes seven...{/SAY}
+
+[168.072]
+{NAME:01}
+{SAY}So this is... the last stone...{/SAY}
+
+[168.073]
+
+《{NAME:19} and company touched the God Stone!》
+
+[168.074]
+
+《{NAME:19}'s Chakra Level rose to 7!》
+
+[168.075]
+
+《{NAME:01}'s Chakra Level rose to 7!》
+
+[168.076]
+
+《{NAME:02}'s Chakra Level rose to 7!》
+
+[168.077]
+
+《{NAME:04}'s Chakra Level rose to 7!》
+
+[168.078]
+{NAME:02}
+{SAY}So now...{PAUSE:1E} our brains are fully open...{/SAY}
+
+[168.079]
+{NAME:04}
+{SAY}What...{PAUSE:14} will happen now...{/SAY}
+
+[168.080]
+{NAME:01}
+{SAY}Whatever happens, we just beat the aliens. Right, {NAME:19}!{PAUSE:1E} ...Hm?{/SAY}
+
+[168.081]
+{NAME:04}
+{SAY}What's the matter, Sir {NAME:01}?{/SAY}
+
+[168.082]
+{NAME:01}
+{SAY}...Nah, I just felt a lurch...{/SAY}
+
+[168.083]
+{NAME:02}
+{SAY}Oh, it's true!{PAUSE:1E} ...What!?{PAUSE:14} Wait!{PAUSE:14} This is...{/SAY}
+
+[168.084]
+{NAME:02}
+{SAY}...This power is coming from our brains!{/SAY}
+
+[168.085]
+{NAME:01}
+{SAY}What!!{/SAY}
+
+[168.086]
+{NAME:02}
+{SAY}Our chakra power is running wild!{/SAY}
+
+[168.087]
+{NAME:04}
+{SAY}At this rate, it won't hold for long! Let's get out!{/SAY}
+
