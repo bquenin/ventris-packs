@@ -1,0 +1,133 @@
+[144.000]
+Jimsy
+{SAY}..................{/SAY}
+
+[144.002]
+Jimsy
+{SAY}So even Africa's last oasis has come to this... Hm?{/SAY}
+
+[144.003]
+Jimsy
+{SAY}You are...{/SAY}
+
+[144.004]
+Jimsy
+{SAY}...I see, the Princess asked you.{HOLD}But your enemy controls even the weather, a power truly like a god's.{WAIT}Do you still mean to fight?{/SAY}
+
+[144.005]
+{NAME:01}
+{SAY}God or devil, I don't care!!{WAIT}I'll kill those aliens! That's all!{/SAY}
+
+[144.006]
+{NAME:02}
+{SAY}At this rate, this country, no, the whole Earth will suffer even worse.{WAIT}We can't just stand by and watch.{/SAY}
+
+[144.007]
+{NAME:04}
+{SAY}Surely you know something of where the alien controlling this strange weather is?{WAIT}If so, please tell us!{/SAY}
+
+[144.008]
+Jimsy
+{SAY}.........{/SAY}
+
+[144.009]
+Jimsy
+{SAY}Look at this state...{WAIT}The water dried up, living things died, and all that's left is hot sand...{WAIT}But can we say it's all the aliens' fault? Not quite.{/SAY}
+
+[144.010]
+Jimsy
+{SAY}This planet was dying long before the aliens came.{WAIT}To me, this seems like the punishment for it...{/SAY}
+
+[144.011]
+{NAME:01}
+{SAY}...What are you saying!{/SAY}
+
+[144.012]
+{NAME:04}
+{SAY}The aliens are no gods or anything of the sort.{WAIT}We may indeed need to be punished,{WAIT}but surely that doesn't mean letting the aliens have their way with us!{/SAY}
+
+[144.013]
+Jimsy
+{SAY}.........{/SAY}
+
+[144.014]
+{NAME:02}
+{SAY}We have to atone for our sins...{WAIT}But I don't think that means running from the aliens.{/SAY}
+
+[144.015]
+Jimsy
+{SAY}.........{/SAY}
+
+[144.016]
+Jimsy
+{SAY}.........{/SAY}
+
+[144.017]
+Jimsy
+{SAY}.........{/SAY}
+
+[144.018]
+Jimsy
+{SAY}...Where the aliens have their base, even I don't know.{WAIT}But they surely have a secret base somewhere.{/SAY}
+
+[144.019]
+{NAME:01}
+{SAY}A secret base!?{/SAY}
+
+[144.020]
+Jimsy
+{SAY}When the aliens attacked here, they wiped out every legend drawn on the pyramids.{WAIT}I think that's where the hint lies.{/SAY}
+
+[144.021]
+{NAME:02}
+{SAY}Legends...{/SAY}
+
+[144.022]
+Jimsy
+{SAY}An old saying: "After three mountains, a great mountain opens, and the journey begins."{WAIT}That's all I can tell you.{WAIT}If you are true heroes, the answer will come of itself.{WAIT}Be careful.{/SAY}
+
+[144.023]
+Jimsy
+{SAY}Oh, that's right. Take this with you.{/SAY}
+
+[144.024]
+
+《Got the Royal Crest!》
+
+[144.025]
+Jimsy
+{SAY}It's been handed down in Africa since ancient times.{WAIT}It'll surely be of use. I'm counting on you.{/SAY}
+
+[144.026]
+Jimsy
+{SAY}An old saying: "After three mountains, a great mountain opens, and the journey begins."{WAIT}That's all I can tell you.{WAIT}If you are true heroes, the answer will come of itself.{WAIT}Be careful.{/SAY}
+
+[144.027]
+Jimsy
+{SAY}Ohh, the legend has finally come back to life, and a new trial stands before you...{WAIT}Go with resolve. The giant pyramid that rose in the desert is surely the root of everything!{/SAY}
+
+[144.028]
+{SAY}My first shower in a month! Feels sooo good!!{/SAY}
+
+[144.029]
+{SAY}Lord Jimsy went to the King of Kasbah.{WAIT}I've made myself a believer in Jimsyism.{PAUSE:1E} Jimsyyy!{/SAY}
+
+[144.030]
+{SAY}Lord Jimsy went to the King of Kasbah.{WAIT}I've made myself a believer in Jimsyism.{PAUSE:1E} Jimsyyy!{/SAY}
+
+[144.031]
+　　Those without the King's proof,
+　　　　begone!
+
+[144.032]
+　　　　　Enter...
+　　you who bear the royal proof...!
+
+[144.033]
+
+《Somewhere, a switch clicked on...》
+
+[144.034]
+
+《The switch has been pressed...》
+
