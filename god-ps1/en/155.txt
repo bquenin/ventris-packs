@@ -1,0 +1,1371 @@
+[155.000]
+Write in diary
+Read diary
+Quit
+
+[155.004]
+Write in your diary?
+
+[155.005]
+Write in diary
+Read diary
+Sleep
+
+[155.006]
+Zorba
+{SAY}Well, {NAME:04}. Made up your mind?{WAIT}If not, I'll tell your friends all about your past.{/SAY}
+
+[155.007]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[155.008]
+{NAME:01}
+{SAY}Oops, sorry.{PAUSE:0A} My hand slipped.{WAIT}Come on,{PAUSE:0A} let's go, old man.{/SAY}
+
+[155.011]
+{NAME:04}
+{SAY}Now... what shall we do?{/SAY}
+
+[155.012]
+{NAME:02}
+{SAY}We have to find a way to sneak into the signing ceremony...{/SAY}
+
+[155.013]
+{NAME:01}
+{SAY}...A way to sneak in, huh.{/SAY}
+
+[155.014]
+{SAY}It's dangerous past here. I can't let you through without the owner's permission!{/SAY}
+
+[155.015]
+{SAY}I've heard, but aren't you leaving tomorrow morning?{WAIT}Rest well at our hotel tonight.{/SAY}
+
+[155.016]
+{SAY}I've heard. Take care!{/SAY}
+
+[155.017]
+{SAY}Good luck!!{/SAY}
+
+[155.018]
+{SAY}Welcome to Angel Land, land of dreams and pleasure!{/SAY}
+
+[155.019]
+{SAY}Enjoy yourselves!{/SAY}
+
+[155.020]
+　　　ACTORS WANTED
+　　You could be a star!{WAIT}
+{CLEAR}"Hi. Our troupe is planning a show for the peace treaty signing at the UN Building in New York.{WAIT}We'll choose the actors by audition.{WAIT}Those chosen will star in the show on the day, before the eyes of the world.{WAIT}If you've got what it takes, apply!{WAIT}Ask the stage manager at the theater on the 4th floor.{WAIT}　　~Director J. McCoy~"
+
+[155.021]
+　　　ACTORS WANTED
+　　You could be a star!{WAIT}
+{CLEAR}"Hi. Our troupe wants young people charging toward the future.{WAIT}If you've got what it takes, apply!{WAIT}　　~Director J. McCoy~"
+
+[155.022]
+{SAY}What! No way! It's a costume!{/SAY}
+
+[155.023]
+{SAY}Welcome! Are you happy?{/SAY}
+
+[155.024]
+{SAY}Wanna stay on the sly?{WAIT}150G, ya know.{/SAY}
+
+[155.025]
+
+{SAY}Ya ain't got enough money!{/SAY}
+
+[155.026]
+
+{SAY}Then wanna peek at your diary on the sly?{/SAY}
+
+[155.027]
+{NAME:04}
+{SAY}What happened!?{/SAY}
+
+[155.028]
+Director J. McCoy
+{SAY}Four weirdos... said "Give us IDs too" and just...{/SAY}
+
+[155.029]
+{NAME:02}
+{SAY}Could it be... Ken!?{/SAY}
+
+[155.030]
+Director J. McCoy
+{SAY}Never mind me... hurry to NY.{WAIT}I leave the show to you...{/SAY}
+
+[155.036]
+
+《Which floor?》
+
+[155.037]
+　4F
+　3F
+　2F
+　1F
+B1F
+
+[155.038]
+
+《Get off the elevator?》
+
+[155.039]
+{SAY}Welcome to Hotel Califawnia! Are you happy?{WAIT}Oh, it's you! The new actors!{WAIT}I've heard. The director has paid for you. Will you stay?{/SAY}
+
+[155.040]
+{SAY}Welcome to Hotel Califawnia! Are you happy?{WAIT}It's 1200G. Will you stay?{/SAY}
+
+[155.041]
+{SAY}You don't have enough money!{/SAY}
+
+[155.042]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[155.043]
+{SAY}Any time.{/SAY}
+
+[155.044]
+{SAY}Thanks to the alien pact, they say this place will never be attacked.{WAIT}That's worth the high price.{/SAY}
+
+[155.045]
+{SAY}To think we clung to that fake alien pact{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}How pathetic.{/SAY}
+
+[155.046]
+{SAY}Right! Today I hit it big at the casino!{/SAY}
+
+[155.047]
+{SAY}We were fooled by the aliens...{/SAY}
+
+[155.048]
+{SAY}They say the troupe here is doing a play at the signing party!{WAIT}The audition's a big deal right now!{/SAY}
+
+[155.049]
+{SAY}The signing with the aliens is almost here.{WAIT}How exciting!{/SAY}
+
+[155.050]
+{SAY}Hmph!{PAUSE:50}{WAIT}I'm angry!!{/SAY}
+
+[155.051]
+Write in your diary?
+
+[155.052]
+Write in diary
+Read diary
+Sleep
+
+[155.055]
+Zorba
+{SAY}...{PAUSE:14}{NAME:04},{PAUSE:28} {NAME:04}.{/SAY}
+
+[155.056]
+{NAME:02}
+{SAY}...zzz... zzz...{/SAY}
+
+[155.057]
+{NAME:01}
+{SAY}Snore... snore...{/SAY}
+
+[155.058]
+
+《Voices in the room...》
+
+[155.060]
+Zorba
+{SAY}{NAME:04},{PAUSE:08} come on, let's work together again.{/SAY}
+
+[155.061]
+{NAME:04}
+{SAY}...{PAUSE:14}Zorba. Leave me alone.{/SAY}
+
+[155.062]
+Zorba
+{SAY}Look at this jewel. Easy pickings.{WAIT}Everyone's so busy with the aliens, the work's way easier than before...{/SAY}
+
+[155.063]
+{NAME:04}
+{SAY}Go away!{/SAY}
+
+[155.064]
+Zorba
+{SAY}...{PAUSE:14}Huh.{PAUSE:0A} Got high and mighty, didn't you, {NAME:04}?{WAIT}Gonna betray me like you did Fahrah?{/SAY}
+
+[155.065]
+{NAME:04}
+{SAY}That's not true!{/SAY}
+
+[155.066]
+Zorba
+{SAY}Sure it is. You didn't forget what you did, did you?{WAIT}Don't tell me you've gone straight now!{/SAY}
+
+[155.067]
+{NAME:04}
+{SAY}...{PAUSE:1E}Go away.{/SAY}
+
+[155.068]
+Zorba
+{SAY}...{PAUSE:0A}I won't give up. With you, I can pull big jobs again!{/SAY}
+
+[155.069]
+{NAME:04}
+{SAY}...{PAUSE:14}Sir {NAME:19}.{PAUSE:08} You heard...{/SAY}
+
+[155.070]
+{NAME:04}
+{SAY}...{PAUSE:0A}How shameful. To meet the past I threw away, here of all places...{/SAY}
+
+[155.071]
+{NAME:04}
+{SAY}I run from my past with all my might,{PAUSE:1E} yet it always overtakes me...{/SAY}
+
+[155.072]
+{NAME:04}
+{SAY}...{PAUSE:0A}Indeed. Perhaps the past is not to be fled, but faced...{WAIT}Will you hear me?{/SAY}
+
+[155.073]
+{NAME:04}
+{SAY}I too was young once...{/SAY}
+
+[155.074]
+{NAME:04}
+{SAY}Please. It may ease my heart a little...{/SAY}
+
+[155.075]
+{NAME:04}
+{SAY}Back then, I did not know why I trained.{WAIT}I only rushed after "the truth".{WAIT}One single truth. Is there such a thing in this world...{WAIT}Restless and angry, I fled my training.{WAIT}And then...{/SAY}
+
+[155.076]
+{NAME:04}
+{SAY}Before I knew it, I had given up on myself{WAIT}and did every wrong but murder...{/SAY}
+
+[155.077]
+{NAME:04}
+{SAY}With that Zorba, I stole all kinds of things.{WAIT}...{PAUSE:28}Then I met Fahrah.{/SAY}
+
+[155.078]
+{NAME:04}
+{SAY}I no longer cared about life.{WAIT}Fahrah loved me even so.{WAIT}And I...{PAUSE:28} pretended to love her.{WAIT}And then...{/SAY}
+
+[155.079]
+{NAME:04}
+{SAY}Fahrah, I'm going to the phantom temple in the west.{/SAY}
+
+[155.080]
+Fahrah
+{SAY}The phantom temple in the west!?{/SAY}
+
+[155.081]
+{NAME:04}
+{SAY}They say it holds a book with the truth written in it...{WAIT}Fahrah, I want to know the truth... Will you wait for me?{/SAY}
+
+[155.082]
+Fahrah
+{SAY}...{PAUSE:0A}If you find that book, will you stop doing bad things?{/SAY}
+
+[155.083]
+{NAME:04}
+{SAY}Yes. Of course. I won't be back for a year, I think.{/SAY}
+
+[155.084]
+Fahrah
+{SAY}...{PAUSE:0A}All right.{WAIT}If you'll change, {NAME:04}, I'll wait one year, or two.{/SAY}
+
+[155.085]
+{NAME:04}
+{SAY}Thank you.{/SAY}
+
+[155.086]
+Fahrah
+{SAY}{PAUSE:28}I hope you find it.{/SAY}
+
+[155.087]
+{NAME:04}
+{SAY}{PAUSE:0A}Huh?{/SAY}
+
+[155.088]
+Fahrah
+{SAY}The truth.{/SAY}
+
+[155.089]
+{NAME:04}
+{SAY}...{PAUSE:1E}Yes.{/SAY}
+
+[155.092]
+{NAME:04}
+{SAY}...{PAUSE:1E}The phantom temple in the west{PAUSE:14} was a lie.{WAIT}I did the worst thing a person can do.{WAIT}{PAUSE:1E}I toyed with a heart.{WAIT}I went on thieving with Zorba, and came back to town five years later.{/SAY}
+
+[155.093]
+{NAME:04}
+{SAY}Fahrah was gone.{/SAY}
+
+[155.094]
+{SAY}...{PAUSE:14}You're {NAME:04}, aren't you?{/SAY}
+
+[155.095]
+{NAME:04}
+{SAY}I am...{/SAY}
+
+[155.096]
+{SAY}Oh... Fahrah, what bad luck you had...{WAIT}She waited four years for you, and last year she left for the temple in the west.{/SAY}
+
+[155.097]
+{NAME:04}
+{SAY}...That's absurd.{/SAY}
+
+[155.098]
+{SAY}Absurd, isn't it? I tried to stop her.{WAIT}But Fahrah said something must have happened to {NAME:04}.{WAIT}That she had to hurry to the temple in the west...{/SAY}
+
+[155.099]
+{NAME:04}
+{SAY}...{PAUSE:1E}In the west there were only towering mountains.{WAIT}Fahrah took on mountains like these...{WAIT}No one has seen her since...{/SAY}
+
+[155.100]
+{NAME:04}
+{SAY}...{PAUSE:14}Then I went back to my training.{WAIT}...{PAUSE:1E}This journey is one where I punish myself{WAIT}...{PAUSE:0F}and atone to Fahrah.{/SAY}
+
+[155.101]
+{NAME:04}
+{SAY}...{PAUSE:14}Thank you for listening, Sir {NAME:19}.{WAIT}I feel a little lighter.{WAIT}...{PAUSE:1E}This is the first time I've told anyone...{WAIT}Now, shall we sleep?{/SAY}
+
+[155.102]
+{SAY}Why the long face?{WAIT}This is the town of dreams and happiness. Have a drink and start over!{/SAY}
+
+[155.103]
+{SAY}What? I look down?{HOLD}The aliens are coming soon.{WAIT}How can I be cheerful!{/SAY}
+
+[155.104]
+{SAY}I'm a wandering gambler. Someday I'd like to play the aliens.{/SAY}
+
+[155.105]
+{SAY}What? The owner's an alien?{WAIT}Quiet. I'm busy.{/SAY}
+
+[155.106]
+{SAY}Gambling is life in miniature. Some days you float, some days you sink.{HOLD}Enjoy yourselves.{/SAY}
+
+[155.107]
+{SAY}Gambling is life in miniature. Some days you float, some days you sink.{HOLD}Enjoy yourselves{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}But I'm scared too, you know.{/SAY}
+
+[155.108]
+{SAY}This place really is heaven.{/SAY}
+
+[155.109]
+{SAY}Wake up from the dream?{WAIT}But the peace treaty with the aliens is real, so it's the same thing.{WAIT}Peace is coming soon.{/SAY}
+
+[155.110]
+{SAY}Reality after waking seems worse than any nightmare.{WAIT}...{PAUSE:14}Hey, dealer! 1000G on red!{/SAY}
+
+[155.111]
+{SAY}Having fun?{/SAY}
+
+[155.112]
+{SAY}Gambling is the one truth in life. Go on dreaming.{/SAY}
+
+[155.113]
+{SAY}Place your bets!{/SAY}
+
+[155.114]
+{SAY}Ugh, I lost even my clothes.{WAIT}{PAUSE:1E}...Oh well, this is the town of dreams and happiness!{/SAY}
+
+[155.115]
+{SAY}Whoa! I'm naked...{WAIT}What happened!?{PAUSE:28} ...Yeah, I know. It's all my fault.{/SAY}
+
+[155.116]
+{SAY}Welcome to the Happy 9 corner.{WAIT}Would you like to hear the rules?{/SAY}
+
+[155.117]
+{SAY}It's 1000G a game. Have fun.{/SAY}
+
+[155.118]
+{SAY}Let's get happy!{/SAY}
+
+[155.119]
+{SAY}You don't have enough money!{/SAY}
+
+[155.120]
+{SAY}Come again!{/SAY}
+
+[155.121]
+{SAY}A Happy 9 card has nine spots to scratch.{HOLD}Of those nine, you get to scratch only three!{WAIT}Each one hides a number from 1 to 4.{WAIT}Your prize depends on the numbers you get.{WAIT}Ask next door for the combinations.{WAIT}And if a bomb comes up instead of a number, the game ends there.{WAIT}Sad, but those are the rules.{/SAY}
+
+[155.122]
+{SAY}It's 1000G a game. Have fun.{/SAY}
+
+[155.123]
+{SAY}Let's get happy!{/SAY}
+
+[155.124]
+{SAY}You don't have enough money!{/SAY}
+
+[155.125]
+{SAY}Come again!{/SAY}
+
+[155.126]
+{SAY}Wow! Too bad!{/SAY}
+
+[155.127]
+{SAY}Aww... too bad!{/SAY}
+
+[155.128]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.129]
+
+《Got the Happy Sword!》
+
+[155.130]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.131]
+
+《Got the Happy Gun!》
+
+[155.132]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.133]
+
+《Got the Guard Essence!》
+
+[155.134]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.135]
+
+《Got the Super Life Water!》
+
+[155.136]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.137]
+
+《Got the Super Power Water!》
+
+[155.138]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.139]
+
+《Got the Naughty Nightie!》
+
+[155.140]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.141]
+
+《Got the Life Water!》
+
+[155.142]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[155.143]
+
+《Got the Miss You SP!》
+
+[155.144]
+{SAY}Play again? It's 1000G a game.{/SAY}
+
+[155.145]
+{SAY}On a roll! Try again? It's 1000G a game.{/SAY}
+
+[155.146]
+{SAY}Let's get happy!{/SAY}
+
+[155.147]
+{SAY}You don't have enough money!{/SAY}
+
+[155.148]
+{SAY}Come again!{/SAY}
+
+[155.149]
+{SAY}Shall I tell you the Happy 9 prizes?{/SAY}
+
+[155.150]
+111...Happy Sword
+222...Happy Gun
+333...Guard Essence
+444...Super Life Water
+11?...Super Power Water
+22?...Naughty Nightie
+33?...Life Water
+44?...Miss You SP{HOLD}
+
+[155.151]
+{SAY}Come again!{/SAY}
+
+[155.152]
+{SAY}Hey!{/SAY}
+
+[155.153]
+{SAY}NO! NO! You pay 777G, pleeease.{WAIT}You wanna fight? Come on.{/SAY}
+
+[155.154]
+{NAME:02}
+{SAY}So? Was the bath nice?{/SAY}
+
+[155.155]
+{NAME:02}
+{SAY}...{NAME:19}, you pervert!{/SAY}
+
+[155.156]
+{SAY}Hiii!! Surprised?{WAIT}Me, Michael, 8th-generation Japanese-American.{WAIT}Me strike hot spring, get rich in America.{WAIT}...Take a bath?{WAIT}Wahaha! You no understand my English?{WAIT}777G. You go in?{/SAY}
+
+[155.157]
+{SAY}Sankyu very much. Take your time!{/SAY}
+
+[155.158]
+{SAY}Huh. You don't have enough money.{/SAY}
+
+[155.159]
+{SAY}Ohhh! Too bad! Come again!!!{/SAY}
+
+[155.164]
+{NAME:02}
+{SAY}See you later, then.{/SAY}
+
+[155.165]
+{SAY}Oh, you know?{WAIT}Dive under the water, you get to woman's bath next door!{WAIT}{PAUSE:0A}Eh?{PAUSE:05} How?{PAUSE:14} Hold breath, keep tapping ○ button.{WAIT}You fail, you drown.{/SAY}
+
+[155.166]
+
+《Life is a challenge!
+　Give it a try?》
+
+[155.167]
+{SAY}Have a nice dream!{/SAY}
+
+[155.168]
+{SAY}You are chicken!{/SAY}
+
+[155.169]
+{SAY}You okay? Be careful!{/SAY}
+
+[155.170]
+{SAY}Woman's bath... so exciting!{/SAY}
+
+[155.171]
+{SAY}Japanese hot spring, the best!{/SAY}
+
+[155.172]
+
+《The women's bath was full of grannies!》
+
+[155.173]
+
+《The women's bath was full of grannies!》{WAIT}
+{CLEAR}
+《And... there are more!》
+
+[155.174]
+
+《The women's bath was full of grannies!》{WAIT}
+{CLEAR}
+《Whoa! Even more!》
+
+[155.175]
+
+《The women's bath was full of grannies!》{WAIT}
+{CLEAR}
+《...{PAUSE:1E}Yikes!!!》
+
+[155.176]
+{SAY}Oh, hello there. Granny's blushing...{/SAY}
+
+[155.177]
+{SAY}My, a naked young man! It's been ages! How thrilling!{/SAY}
+
+[155.178]
+{SAY}Trying to woo this old granny?{/SAY}
+
+[155.179]
+{SAY}Young men's skin is so nice and firm...{/SAY}
+
+[155.180]
+{SAY}Ba-ban ba-ban, what a nice bath~.{/SAY}
+
+[155.181]
+{SAY}What a nice bath.{WAIT}Would you mind scrubbing my back?{/SAY}
+
+[155.182]
+《{NAME:19} and the others scrubbed Granny's back!》
+
+[155.183]
+{SAY}What a shame.{/SAY}
+
+[155.184]
+{SAY}Thank you, dearie. Granny's so happy.{/SAY}
+
+[155.185]
+{SAY}You made it! Granny's so glad!{WAIT}Here's a reward for trying so hard!{/SAY}
+
+[155.186]
+
+《Got {WORD}!》
+
+[155.187]
+《But you already have 99 {WORD}!》
+
+[155.188]
+
+《Gave up on {WORD}...》
+
+[155.189]
+{SAY}Come again. Granny will be waiting!{/SAY}
+
+[155.190]
+{SAY}Naughty boy... *blush*!{/SAY}
+
+[155.191]
+{SAY}Oh my... how naughty!{/SAY}
+
+[155.192]
+{SAY}Oh! A young man!{/SAY}
+
+[155.193]
+{SAY}A reward for trying so hard!{/SAY}
+
+[155.194]
+
+《Got {WORD}!》
+
+[155.195]
+《But you already have 99 {WORD}!》
+
+[155.196]
+
+《Gave up on {WORD}...》
+
+[155.197]
+{SAY}Work hard and good things will come.{WAIT}That's how it is.{/SAY}
+
+[155.198]
+{SAY}You win! Here, it's on the house!{/SAY}
+
+[155.199]
+
+《Got {WORD}!》
+
+[155.200]
+《But you already have 99 {WORD}!》
+
+[155.201]
+
+《Gave up on {WORD}...》
+
+[155.202]
+{SAY}If only I were ten years younger...{/SAY}
+
+[155.203]
+{SAY}Don't look, you naughty boy!{/SAY}
+
+[155.204]
+{SAY}Wahaha. Sake tastes extra special in a place like this!{WAIT}Wahahaha!{/SAY}
+
+[155.205]
+{SAY}Aliens? Who cares about that? Wahahaha!{/SAY}
+
+[155.206]
+{SAY}Welcome! I'm thinking of a new cocktail for the signing ceremony.{/SAY}
+
+[155.207]
+{SAY}Welcome!{WAIT}That cocktail I was planning went down the drain in all this mess. Sigh.{/SAY}
+
+[155.208]
+{SAY}Heard about the audition?{/SAY}
+
+[155.209]
+{SAY}If I pass this...{WAIT}I'll finally make my big debut!{/SAY}
+
+[155.210]
+{SAY}To audition, you have to pass an interview with the owner!{WAIT}I'm so nervous!{/SAY}
+
+[155.211]
+{SAY}Heard about the audition?{/SAY}
+
+[155.212]
+{SAY}Some people are so lucky!{/SAY}
+
+[155.213]
+{SAY}They say a group of four was perfect for the part!{/SAY}
+
+[155.214]
+{SAY}I can't forgive those aliens!!{/SAY}
+
+[155.215]
+{SAY}It's so hot, so hot!{/SAY}
+
+[155.216]
+{SAY}{NAME:04}!{/SAY}
+
+[155.217]
+Zorba
+{SAY}...{PAUSE:1E}You're...{PAUSE:1E} {NAME:04}, right?{WAIT}It is you, {NAME:04}! It's me, Zorba!{WAIT}Good old days... Hey, let's work together again.{/SAY}
+
+[155.218]
+{NAME:04}
+{SAY}...{PAUSE:14}I'm through with that.{WAIT}...{PAUSE:14}Farewell.{/SAY}
+
+[155.219]
+{NAME:01}
+{SAY}You sure, old man?{/SAY}
+
+[155.220]
+{NAME:04}
+{SAY}...{PAUSE:0F}Yes.{/SAY}
+
+[155.221]
+Zorba
+{SAY}Heh heh heh. I won't give up, {NAME:04}!{/SAY}
+
+[155.222]
+Zorba
+{SAY}............ugh.{/SAY}
+
+[155.223]
+{SAY}Welcome to Angel Land, wonderland of dreams and hope!{WAIT}Would you like to hear about each floor?{/SAY}
+
+[155.224]
+{SAY}Please enjoy yourselves!{/SAY}
+
+[155.225]
+{SAY}Welcome to Angel Land, wonderland of dreams and hope!{WAIT}Would you like to hear about each floor?{/SAY}
+
+[155.226]
+{SAY}Please enjoy yourselves!{/SAY}
+
+[155.227]
+{SAY}Which floor would you like to hear about?{/SAY}
+
+[155.228]
+About 4F
+About 3F
+About 2F
+About 1F
+About B1F
+
+[155.229]
+{SAY}Would you like to stop?{/SAY}
+
+[155.230]
+{SAY}We hope to see you again!{/SAY}
+
+[155.231]
+{SAY}4F is the Angel Theater, the heart of our building and a state-of-the-art theater.{/SAY}
+
+[155.232]
+{SAY}Anything else you'd like to know?{/SAY}
+
+[155.233]
+{SAY}We hope to see you again!{/SAY}
+
+[155.234]
+{SAY}3F is the social hall with the casino bar.{HOLD}The office of Lady Alice, owner of this building and head of the Flying Whale troupe, is on this floor too.{/SAY}
+
+[155.235]
+{SAY}Anything else you'd like to know?{/SAY}
+
+[155.236]
+{SAY}We hope to see you again!{/SAY}
+
+[155.237]
+{SAY}2F is the hotel.{HOLD}Our excellent staff serve you with all their heart.{WAIT}Please make use of it.{/SAY}
+
+[155.238]
+{SAY}Anything else you'd like to know?{/SAY}
+
+[155.239]
+{SAY}We hope to see you again!{/SAY}
+
+[155.240]
+{SAY}1F is right here, the floor of meeting and mingling.{WAIT}We also sell souvenirs, so please take a look.{/SAY}
+
+[155.241]
+{SAY}Anything else you'd like to know?{/SAY}
+
+[155.242]
+{SAY}We hope to see you again!{/SAY}
+
+[155.243]
+{SAY}B1F is the grand bath.{WAIT}Soak away the weariness of travel. Every modern person knows that.{WAIT}Please make use of it.{/SAY}
+
+[155.244]
+{SAY}Anything else you'd like to know?{/SAY}
+
+[155.245]
+{SAY}We hope to see you again!{/SAY}
+
+[155.246]
+{SAY}Welcome! How about some souvenirs of dreams and happiness?{/SAY}
+
+[155.247]
+{SAY}Fighting aliens? Are you guys nuts?{/SAY}
+
+[155.248]
+{SAY}Fighting aliens? You guys are great.{/SAY}
+
+[155.249]
+{SAY}Oh, how wonderful. It's all thanks to the peace treaty with the aliens.{/SAY}
+
+[155.250]
+{SAY}The drinks don't taste good at all. Is that the aliens' fault too...?{/SAY}
+
+[155.251]
+{SAY}I wish the aliens would hurry up and come~{WAIT}I'm sure we'll be good friends.{/SAY}
+
+[155.252]
+{SAY}I'll beat those aliens to a pulp!{/SAY}
+
+[155.253]
+{SAY}Angel Land is the dream castle owner Lady Alice built all on her own!{WAIT}...But lately she hardly ever leaves her room. ...I wonder why.{/SAY}
+
+[155.254]
+{SAY}Did you know?{/SAY}
+
+[155.255]
+{SAY}What a shock!{/SAY}
+
+[155.256]
+{SAY}They say Lady Alice was swapped with an alien!{/SAY}
+
+[155.257]
+{SAY}Fight the aliens? Why would you do that?{WAIT}They're our new friends!{/SAY}
+
+[155.258]
+{SAY}Fight the aliens? Go right ahead, fight away.{/SAY}
+
+[155.259]
+{SAY}Being in Angel Land makes me feel all giddy.{HOLD}Yeah!{/SAY}
+
+[155.260]
+{SAY}That giddy feeling I had is all gone now.{/SAY}
+
+[155.261]
+{SAY}Lady Alice is in an important meeting.{WAIT}If you have business, please come back later.{/SAY}
+
+[155.262]
+{SAY}Lady Alice is in an important meeting.{WAIT}If you have business, please come back later.{/SAY}
+
+[155.263]
+{SAY}Here for the audition?{WAIT}...Hm, I thought entries had closed...{WAIT}Well, please go in.{/SAY}
+
+[155.264]
+{SAY}You're in the audition, right?{WAIT}I've heard.{WAIT}Please go in.{/SAY}
+
+[155.265]
+{SAY}We've been expecting you. Please go in.{/SAY}
+
+[155.266]
+{SAY}Welcome.{WAIT}We're opening anew as a naughty theater!{WAIT}It's 100G. Wanna watch?{/SAY}
+
+[155.267]
+{SAY}Oh dear, not enough money. Too bad. It's really naughty, too!{/SAY}
+
+[155.268]
+{SAY}Oh, I see. Too bad. It's amazing, you know...{/SAY}
+
+[155.269]
+{SAY}Welcome.{WAIT}We're opening anew as a naughty theater!{WAIT}It's 100G. Wanna watch?{/SAY}
+
+[155.270]
+{SAY}Oh dear, not enough money. Too bad. It's really naughty, too!{/SAY}
+
+[155.271]
+{SAY}Oh, I see. Too bad. It's amazing, you know...{/SAY}
+
+[155.272]
+{SAY}Thank you! Party of four, right this way~.{/SAY}
+
+[155.273]
+{NAME:02}
+{SAY}{NAME:19}! You're the worst!{/SAY}
+
+[155.274]
+{SAY}Okay, party of three, right this way~{/SAY}
+
+[155.275]
+{NAME:04}
+{SAY}I shall pass too. It would hinder my training.{/SAY}
+
+[155.276]
+{NAME:01}
+{SAY}{NAME:19}, I'm going in no matter what!{/SAY}
+
+[155.277]
+{SAY}Okay, party of two, right this way~.{/SAY}
+
+[155.278]
+{SAY}And now, the amazing naughty show begins!{/SAY}
+
+[155.279]
+{NAME:02}
+{SAY}...The worst!{/SAY}
+
+[155.280]
+{NAME:04}
+{SAY}Form is emptiness... form is emptiness...{/SAY}
+
+[155.281]
+{SAY}Welcome to the Angel Theater on the top floor.{HOLD}Please enjoy the show.{/SAY}
+
+[155.282]
+{SAY}Welcome to the Angel Theater on the top floor.{HOLD}We're closed right now.{/SAY}
+
+[155.283]
+{SAY}Welcome to the Angel Theater on the top floor.{HOLD}We're opening anew as a naughty theater! Please enjoy the show.{/SAY}
+
+[155.284]
+{SAY}Through here are the dressing rooms.{HOLD}Staff only, please.{/SAY}
+
+[155.285]
+{SAY}You must be {NAME:19}. I've heard about you.{WAIT}Please go through.{/SAY}
+
+[155.286]
+{SAY}Please go through.{/SAY}
+
+[155.287]
+{SAY}The audition is over.{WAIT}...Oh!? It's you.{WAIT}Director J. McCoy was looking for you.{/SAY}
+
+[155.288]
+{SAY}Well, what a mess.{WAIT}The alien attacks will only get worse from here.{/SAY}
+
+[155.289]
+{SAY}This is stage right.{WAIT}If you're in the audition, get the assistant director's briefing and go round to stage left!{/SAY}
+
+[155.290]
+{SAY}The audition is over.{WAIT}No entry here.{/SAY}
+
+[155.291]
+{SAY}This is stage left.{WAIT}If you're in the audition, get the assistant director's briefing first!{HOLD}Huh? The assistant director should be in the room at the end there!{/SAY}
+
+[155.292]
+{SAY}You're {NAME:19}. I've heard.{WAIT}Go on through.{/SAY}
+
+[155.293]
+{SAY}The audition is over.{WAIT}No entry here.{/SAY}
+
+[155.294]
+Assistant director
+{SAY}Hm? Who are you? Joining the audition?{WAIT}I see. Then let me explain.{WAIT}What would you like to know?{/SAY}
+
+[155.295]
+About the story
+Audition tips
+Join the audition
+Quit
+
+[155.296]
+{SAY}Talk to me again if you change your mind.{/SAY}
+
+[155.297]
+{SAY}It honors the Director and the President, who held the signing safely despite vicious terrorists.{WAIT}The Director and the President will play themselves, so you'll try out for the terrorists.{WAIT}Yes, the famous terrorist four.{WAIT}...Come to think of it, you have the same names... Stage names?{WAIT}Real dedication...{/SAY}
+
+[155.298]
+{SAY}Anything else you want to know?{/SAY}
+
+[155.299]
+{SAY}This time we'll look at how you carry yourselves on stage.{WAIT}And since the play celebrates the signing, we'll check your character too.{WAIT}Well, don't get too into the role, use common sense, and you'll be fine.{/SAY}
+
+[155.300]
+{SAY}Anything else you want to know?{/SAY}
+
+[155.301]
+{SAY}That's a shame.{WAIT}Talk to me again if you change your mind.{/SAY}
+
+[155.302]
+Assistant director
+{SAY}Then good luck. Go on stage from the left wing.{/SAY}
+
+[155.303]
+Assistant director
+{SAY}Congratulations!{WAIT}The director and the owner will brief you on round three, so go to the owner's office.{WAIT}Best of luck!{/SAY}
+
+[155.304]
+Assistant director
+{SAY}What play should we do next...{/SAY}
+
+[155.305]
+{SAY}The audition fee is 1000G. Is that all right?{/SAY}
+
+[155.306]
+
+《Paid 1000G!》
+
+[155.307]
+{SAY}Then good luck. Go on stage from the left wing.{/SAY}
+
+[155.308]
+{SAY}You seem to be short on money...{/SAY}
+
+[155.309]
+{SAY}That's a shame.{WAIT}Talk to me again if you change your mind.{/SAY}
+
+[155.310]
+Assistant director
+{SAY}Too bad.{WAIT}But the roles aren't decided yet.{WAIT}You can try as many times as you like.{WAIT}Talk to me when you want another go!{/SAY}
+
+[155.311]
+Assistant director
+{SAY}Congratulations!{WAIT}You've passed round two!{WAIT}The director and the owner will brief you on round three, so go to the owner's office.{WAIT}Best of luck!{/SAY}
+
+[155.312]
+{SAY}La~~~~~~!!{/SAY}
+
+[155.313]
+{SAY}...............{WAIT}...............{WAIT}...............{WAIT}...............{PAUSE:3C}Yansu.{/SAY}
+
+[155.314]
+{SAY}...............{WAIT}...............{WAIT}...............{WAIT}...............{PAUSE:3C}'Sup!!{/SAY}
+
+[155.315]
+{SAY}...............{WAIT}...............{WAIT}...............{WAIT}...............(clench){PAUSE:3C} Yesss.{/SAY}
+
+[155.316]
+{SAY}...............{WAIT}...............{WAIT}...............{WAIT}...............{PAUSE:3C}Huh?{/SAY}
+
+[155.317]
+{SAY}Hi!{WAIT}...............{WAIT}...............{WAIT}...............see ya!{/SAY}
+
+[155.318]
+Producer
+{SAY}What? We're rehearsing the next play.{WAIT}It has five men in it, so it's hot, so hot...{/SAY}
+
+[155.319]
+{SAY}Oh, are you a fan of mine?{/SAY}
+
+[155.320]
+{SAY}Thanks! Then I'll tell you something.{WAIT}Owner Alice came up with this audition out of nowhere a month ago.{WAIT}Deep down we were all against it, but no one defies the owner.{WAIT}But why use amateurs...{/SAY}
+
+[155.321]
+{SAY}Eek! Get out!{WAIT}An actress before a show is delicate!{/SAY}
+
+[155.322]
+{SAY}My part is a poor alien girl killed by {NAME:01}.{WAIT}A supporting lead, you could say!{/SAY}
+
+[155.323]
+{SAY}Ahhh~ I'm so nervous~~.{/SAY}
+
+[155.324]
+{SAY}If this audition fails, there's always the next!{WAIT}I won't give up! Not me!{/SAY}
+
+[155.325]
+{SAY}What!?{HOLD}Me?{WAIT}I'm going for {NAME:04}, of course.{WAIT}How about it? My take on the part!{/SAY}
+
+[155.326]
+{SAY}What! You passed round two!? Then my take on the part...{/SAY}
+
+[155.327]
+{SAY}Ahhhh...{WAIT}Good, my voice is in shape.{WAIT}What!? You're auditioning too?{WAIT}...I see. But I won't lose.{/SAY}
+
+[155.328]
+{SAY}You passed round two...? Not bad.{WAIT}But round three is the really hard part.{WAIT}I won't lose.{/SAY}
+
+[155.329]
+{SAY}Well now, shall I have one more moment in the spotlight?{/SAY}
+
+[155.331]
+Director J. McCoy
+{SAY}Oh! Well done! You've shown me what you can do.{WAIT}You're our villainous four!{WAIT}...Eh? The manager? He went out on some errand and never came back...{WAIT}More importantly, there's not much time before the show.{WAIT}Head to New York right away.{/SAY}
+
+[155.332]
+
+《Got the Troupe ID Card!》
+
+[155.333]
+Director J. McCoy
+{SAY}With that, you should get into the UN Building.{WAIT}I'll follow later, so hurry to New York!{/SAY}
+
+[155.334]
+Director J. McCoy
+{SAY}Ah, it's you!{WAIT}I saw your audition.{WAIT}You look great on stage! So, for round three, I want to see your stamina.{WAIT}The body is the basis of acting, you know~{/SAY}
+
+[155.335]
+Alice
+{SAY}Northeast of here there's a meteorite.{WAIT}Go there and bring me back a certain thing.{/SAY}
+
+[155.336]
+{NAME:02}
+{SAY}A certain thing?{/SAY}
+
+[155.337]
+Alice
+{SAY}Something very important, essential to this play.{WAIT}You'll know it when you see it.{WAIT}Bring it back safely and you pass.{/SAY}
+
+[155.338]
+Director J. McCoy
+{SAY}It may sound a bit hard, but don't worry.{WAIT}No aliens or monsters appear at that meteorite anymore.{/SAY}
+
+[155.339]
+Alice
+{SAY}The play's success rests on you, the villains.{HOLD}I'm counting on you.{/SAY}
+
+[155.340]
+Director J. McCoy
+{SAY}To reach the meteorite, leave from the west side of town.{WAIT}I'll tell the guards.{WAIT}Oh, that's right. You must be tired today. Rest at the hotel.{WAIT}No, no, it's on us!{WAIT}Now, good luck!{/SAY}
+
+[155.341]
+Director J. McCoy
+{SAY}...That's all of them, Lady Alice.{WAIT}Did any catch your eye?{/SAY}
+
+[155.342]
+Alice
+{SAY}None stand out.{WAIT}We need actors who can play that savage four.{WAIT}Half measures won't do.{/SAY}
+
+[155.343]
+Director J. McCoy
+{SAY}Even so... hm?{/SAY}
+
+[155.344]
+Director J. McCoy
+{SAY}Who are you lot...? What? The audition?{WAIT}Sorry, entries are closed...{/SAY}
+
+[155.345]
+Alice
+{SAY}Wait!{/SAY}
+
+[155.346]
+Alice
+{SAY}It's fine. Line up!{/SAY}
+
+[155.347]
+Alice
+{SAY}Oh! You look just like that four!{WAIT}Very well. You may take part.{/SAY}
+
+[155.348]
+Director J. McCoy
+{SAY}Then get advice from the assistant director in the dressing room.{/SAY}
+
+[155.349]
+Alice
+{SAY}...Very alike.{WAIT}Well, fine. Do your best.{/SAY}
+
+[155.350]
+Alice
+{SAY}The meteorite is northeast of here.{WAIT}Go there and bring me back a certain thing.{WAIT}...Yes, something very important, essential to this play...{/SAY}
+
+[155.351]
+Director J. McCoy
+{SAY}What? Lady Alice is an alien? Wahaha!{WAIT}What a tired twist. You'd make a lousy writer.{WAIT}More importantly, hurry to New York!{/SAY}
+
+[155.352]
+Director J. McCoy
+{SAY}What? Lady Alice is an alien? Wahaha!{WAIT}What a tired twist. You'd make a lousy writer.{WAIT}{PAUSE:3C}Wait{PAUSE:1E}.{PAUSE:14}.{PAUSE:14}.{PAUSE:1E} seriously?{WAIT}Good thing I wasn't killed~~.{/SAY}
+
+[155.353]
+Director J. McCoy
+{SAY}Then get advice from the assistant director in the dressing room.{/SAY}
+
+[155.354]
+Director J. McCoy
+{SAY}For now, rest at the hotel tonight.{WAIT}Set out tomorrow.{/SAY}
+
+[155.355]
+Director J. McCoy
+{SAY}Good luck!{/SAY}
+
+[155.356]
+Director J. McCoy
+{SAY}What? Lady Alice is an alien? Wahaha!{WAIT}What a tired twist. You'd make a lousy writer.{WAIT}More importantly, hurry to New York!{/SAY}
+
+[155.357]
+Director J. McCoy
+{SAY}What? Lady Alice is an alien? Wahaha!{WAIT}What a tired twist. You'd make a lousy writer.{WAIT}{PAUSE:50}Wait{PAUSE:28}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{PAUSE:3C} seriously?{WAIT}Good thing I wasn't killed~~.{/SAY}
+
+[155.362]
+{SAY}And now, the last group. Please!{/SAY}
+
+[155.363]
+Assistant director
+{SAY}Entry number 7. Your names are... {NAME:19}!?{WAIT}...Stage names and costumes. Very thorough...{WAIT}Judges, please!{/SAY}
+
+[155.364]
+{SAY}First, a question for {NAME:01}.{/SAY}
+
+[155.365]
+{SAY}Next, a question for {NAME:19}.{/SAY}
+
+[155.366]
+{SAY}Next, a question for {NAME:02}.{/SAY}
+
+[155.367]
+{SAY}Next, a question for {NAME:04}.{/SAY}
+
+[155.368]
+{SAY}Are you confident you can play {NAME:04} perfectly?{/SAY}
+
+[155.369]
+{SAY}I see. That's a shame.{/SAY}
+
+[155.370]
+{SAY}And now, the judging!{/SAY}
+
+[155.371]
+{SAY}This play is wonderful, isn't it?{/SAY}
+
+[155.372]
+{SAY}Why, thank you.{WAIT}It's all thanks to the peace treaty with the aliens, isn't it?{/SAY}
+
+[155.373]
+{SAY}Yes. Peace is best.{WAIT}Now, the last question.{WAIT}A lot has happened, but you can forgive the aliens, can't you?{/SAY}
+
+[155.374]
+{SAY}Exactly! Hate the crime, not the alien!{/SAY}
+
+[155.375]
+{SAY}Hahaha!{WAIT}You don't have to stay in character that much!{/SAY}
+
+[155.376]
+{SAY}My, my, what a troublesome man.{/SAY}
+
+[155.377]
+{SAY}That's a great shame.{/SAY}
+
+[155.378]
+{SAY}Your part is the wicked {NAME:19}...{WAIT}No complaints, right?{/SAY}
+
+[155.379]
+{SAY}I see!{WAIT}Don't you feel sorry for the aliens he killed?{/SAY}
+
+[155.380]
+{SAY}Yes. They're victims too.{WAIT}Now, the last question.{WAIT}The people the aliens killed had it coming, didn't they?{/SAY}
+
+[155.381]
+{SAY}Right. They couldn't have won anyway!{/SAY}
+
+[155.382]
+{SAY}Oh! That angry face! Just like the real thing!{WAIT}What an actor~!{/SAY}
+
+[155.383]
+{SAY}How cold.{/SAY}
+
+[155.384]
+{SAY}I see. That's a shame.{/SAY}
+
+[155.385]
+{SAY}This peace treaty will bring peace to the world, won't it?{/SAY}
+
+[155.386]
+{SAY}Of course it will!{WAIT}Don't you want to share this happiness with the aliens?{/SAY}
+
+[155.387]
+{SAY}Right. They're our new friends.{WAIT}Now, the last question.{WAIT}Aliens are cool, right?{/SAY}
+
+[155.388]
+{SAY}I knew it!!{/SAY}
+
+[155.389]
+{SAY}No taste, kiddo.{/SAY}
+
+[155.390]
+{SAY}How narrow-minded.{/SAY}
+
+[155.391]
+{SAY}I see. That's a shame.{/SAY}
+
+[155.392]
+{SAY}Wonderful!{WAIT}Then describe {NAME:04} in a word?{/SAY}
+
+[155.393]
+Virtuous monk
+Monk who lives for lust
+I don't know
+
+[155.394]
+{SAY}No, no!{WAIT}Choose again!{/SAY}
+
+[155.395]
+{SAY}Hmm. You haven't got the character down.{/SAY}
+
+[155.396]
+{SAY}I see, I see...{WAIT}Now, the last question.{WAIT}Do you think aliens go to heaven when they die?{/SAY}
+
+[155.397]
+{SAY}Yes! Aliens are alive too, they're our friends!{/SAY}
+
+[155.398]
+{SAY}Oh dear...{/SAY}
+
+[155.399]
+{SAY}Hopeless!{/SAY}
+
+[155.400]
+Stage manager
+{SAY}Phew. Auditions aren't easy. Hm? Who are you?{/SAY}
+
+[155.401]
+I want to audition!
+I want to watch!
+Never mind
+
+[155.402]
+{SAY}Oh, okay.{/SAY}
+
+[155.403]
+{SAY}Then go get interviewed by the manager and the director!{WAIT}Round one, you might say!{/SAY}
+
+[155.404]
+{SAY}Then sit there and watch.{/SAY}
+
+[155.405]
+{SAY}Oh, okay.{/SAY}
+
+[155.406]
+Audition start
+
+[155.407]
+Stage manager
+{SAY}You there! Lower the lights!{/SAY}
+
+[155.408]
+Stage manager
+{SAY}We're out of time! Move it! ...Hm?{/SAY}
+
+[155.409]
+{SAY}Who are you...{WAIT}Want to audition?{WAIT}Then wait a bit. The stage isn't set up yet.{/SAY}
+
+[155.410]
+{SAY}Who are you...{WAIT}Want to audition?{WAIT}Then go get interviewed by the owner first.{WAIT}She's in the manager's office on the 3rd floor.{WAIT}Round one, you might say!{/SAY}
+
+[155.411]
+{SAY}Hm? You're...{WAIT}in the audition?{WAIT}Then go round to the dressing rooms.{WAIT}The staff will explain there. ...Good luck!{/SAY}
+
+[155.412]
+{SAY}Hm? You're...{WAIT}taking round three, right?{WAIT}Pass it and the parts are yours.{WAIT}Good luck!{/SAY}
+
+[155.413]
+{SAY}What are you doing!{WAIT}The smoke's too thin!{/SAY}
+
+[155.414]
+{SAY}I wish it would start soon.{/SAY}
+
+[155.415]
+{SAY}I wish it would start soon.{/SAY}
+
+[155.416]
+{SAY}Auditions are what I enjoy watching most.{/SAY}
+
+[155.417]
+{SAY}That last one was no good... so timid.{WAIT}Isn't there anyone who just... BANG! shines?{/SAY}
+
+[155.418]
+{SAY}Become an actor in this troupe and stardom is all but promised!{WAIT}That's why everyone's so serious!{/SAY}
+
+[155.419]
+{SAY}Watching a newcomer you spotted hit it big...{WAIT}That's the connoisseur's joy!{/SAY}
+
+[155.420]
+{SAY}How exciting! Who's next!{/SAY}
+
+[155.421]
+{SAY}Hurry up and start~!{/SAY}
+
+[155.422]
+{SAY}Shh!!! Quiet!!{/SAY}
+
+[155.423]
+{SAY}A theater is not your living room.{HOLD}No chatting, and mind your phones and pagers!{WAIT}It's good manners!{/SAY}
+
+[155.424]
+
+《There's a notice.》{WAIT}
+{CLEAR}《The audition is over. Please wait for our next show.》
+
