@@ -1,0 +1,24 @@
+[demo_a6_n13.0484]
+Go to the broken bridge at Goyu.{0D}{0A}I'll make it so you can cross the bridge!
+
+[demo_a6_n13.0830]
+Occupied!
+
+[demo_a6_n13.1540]
+Oh,{WAIT:000F} you gathered them all!
+
+[demo_a6_n13.1670]
+Finally got 'em all!{WAIT:001E} Here ya go.
+
+[demo_a6_n13.1750]
+Nnnnnngh{07:000A}...{0D}{0A}{07:0005}I feel it,{WAIT:000F} I feel the power!{WAIT:001E} It's like I'm young again.
+
+[demo_a6_n13.2376]
+All right!{WAIT:000F} Go to the broken bridge at Goyu.{0D}{0A}I'll make it so you can cross the bridge!
+
+[demo_a6_n13.2646]
+Ebisu!{WAIT:000F} You're{WAIT:000F} shinin' like crazy!
+
+[demo_a6_n13.2808]
+Thanks!{WAIT:000F} We'll head on to Goyu, then!
+

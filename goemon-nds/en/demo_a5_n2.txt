@@ -1,0 +1,9 @@
+[demo_a5_n2.0466]
+The Arai checkpoint's been shut, and nobody can get through, I reckon.{0D}{0A}There's a tunnel under the checkpoint,{WAIT:000F} but it's blocked off with a rock.{0D}{0A}They say if you press the switches by the gate{WAIT:000F} at the same time,{0D}{0A}the rock breaks{WAIT:000F} and you can get through{07:000A}...{07:0005}{0D}{0A}Put your heads together{WAIT:000F} and figure out how to press both switches at once.
+
+[demo_a5_n2.1464]
+Oh!{WAIT:000F} Y'all, I been waitin' on ya.
+
+[demo_a5_n2.1588]
+The Arai checkpoint's{WAIT:000F} been shut, and nobody can get through, I reckon.{0D}{0A}There's a tunnel under the checkpoint,{WAIT:000F} but it's blocked off with a rock.{0D}{0A}They say if you press the switches by the gate{WAIT:000F} at the same time,{0D}{0A}the rock breaks{WAIT:000F} and you can get through{07:000A}...{07:0005}{0D}{0A}Put your heads together{WAIT:000F} and figure out how to press both switches at once.
+

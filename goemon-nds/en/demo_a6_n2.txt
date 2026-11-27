@@ -1,0 +1,54 @@
+[demo_a6_n2.0346]
+Cough, cough!
+
+[demo_a6_n2.1196]
+Cough,{WAIT:000F} cough!
+
+[demo_a6_n2.1302]
+Welcome,{WAIT:000F} Goemon and company.
+
+[demo_a6_n2.1396]
+You know who we are?
+
+[demo_a6_n2.1566]
+This gentleman{WAIT:000F} is the Edo magistrate, Ooka, Lord of Echizen.
+
+[demo_a6_n2.1762]
+That was a long time ago.{0D}{0A}Since I fell ill,{WAIT:000F} I have been recovering here at this manor.
+
+[demo_a6_n2.1984]
+So that oddball Kinemon,{WAIT:000F} he's the magistrate{WAIT:000F} of Edo, huh.
+
+[demo_a6_n2.2130]
+Hm?{WAIT:000F} Kinemon?{WAIT:001E} I know no such man{07:000A}...{0D}{0A}{07:0005}The magistrate of Edo now should be Negishi, Lord of Hizen...{0D}{0A}Cough,{WAIT:000F} cough!
+
+[demo_a6_n2.2536]
+Are you all right?{WAIT:000F} My lord?
+
+[demo_a6_n2.2688]
+Yes,{WAIT:000F} I am much better now{07:000A}...{0D}{0A}{07:0005}And what business{WAIT:000F} brings you to this town?
+
+[demo_a6_n2.2904]
+We're{WAIT:000F} chasin' a big-time crook called Tengu Peruri.{0D}{0A}But{WAIT:000F} he wrecked the bridge at Goyu,{WAIT:000F} and he got away.
+
+[demo_a6_n2.3182]
+Hmm{07:000A}...{07:0005}{WAIT:000F} Across the bridge lies Akasaka Castle.{0D}{0A}With the bridge destroyed,{WAIT:000F} there is little to be done.
+
+[demo_a6_n2.3452]
+It is no use,{WAIT:000F} then.
+
+[demo_a6_n2.3516]
+In this town{WAIT:000F} is an old mansion where, it is said, the Seven Lucky Gods have lived since ancient times.{0D}{0A}Legend says{WAIT:000F} that the wish of one with proper manners{WAIT:000F} will be granted.
+
+[demo_a6_n2.3922]
+If our wish comes true,{WAIT:000F} they could carry us across the bridge.
+
+[demo_a6_n2.4146]
+Even so,{WAIT:001E} "proper manners",{WAIT:001E} what're we s'posed to do?{0D}{0A}Bowin' and greetin'?
+
+[demo_a6_n2.4320]
+Proper manners, huh.{WAIT:000F} Looks like we'll just have to try stuff.{0D}{0A}My lord,{WAIT:000F} thanks.
+
+[demo_a6_n2.4526]
+Yes.{WAIT:000F} Be sure to catch Peruri, and save Japan.
+

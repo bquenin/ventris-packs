@@ -1,0 +1,39 @@
+[demo_a4_n7.0274]
+Scratch my back a bit, would you?
+
+[demo_a4_n7.0518]
+Too hard!
+
+[demo_a4_n7.1782]
+You saved me, y'know.{WAIT:000F} Dunno who you are, but thanks, y'know.
+
+[demo_a4_n7.2644]
+You're a Hyottoko, right?{WAIT:000F} We're the good guys, come to rescue you.
+
+[demo_a4_n7.2824]
+When the tengu grabbed me, I didn't know what'd happen, y'know.{0D}{0A}So good guys really do exist, y'know.{WAIT:000F} Thanks a ton, y'know.
+
+[demo_a4_n7.3090]
+Hurry on back{WAIT:000F} to your big brother.{WAIT:000F} He's worried about ya.
+
+[demo_a4_n7.3294]
+Thanks, y'know.{WAIT:000F} I'll be off, then, y'know.
+
+[demo_a4_n7.3878]
+That's all the kidnapped Hyottoko rescued.
+
+[demo_a4_n7.4010]
+And yet{07:000A}...{07:0003}{WAIT:000F} why were they kidnapped?
+
+[demo_a4_n7.4138]
+Maybe they know some weak spot{WAIT:000F} of this Tengu Peruri fella?
+
+[demo_a4_n7.4284]
+Anyway,{WAIT:000F} let's go back to town and hear what the Hyottoko have to say.
+
+[demo_a4_n7.4430]
+He said he'd talk if we rescued all his brothers, didn't he?
+
+[demo_a4_n7.4584]
+That's right.{WAIT:001E} So,{WAIT:000F} let's head back to the town of Ejiri.
+

@@ -1,0 +1,21 @@
+[demo_a3_n8.0460]
+The village is now{WAIT:000F} on high alert.{0D}{0A}We cannot let strangers in.
+
+[demo_a3_n8.0724]
+The village is now{WAIT:000F} on high alert.{0D}{0A}We cannot let strangers in.
+
+[demo_a3_n8.1334]
+The village is now{WAIT:000F} on high alert.{0D}{0A}We cannot let strangers in.
+
+[demo_a3_n8.1558]
+Come on, just this once.{WAIT:000F} We really need the medicine.
+
+[demo_a3_n8.1684]
+Our orders are to let no stranger in, no matter what.{0D}{0A}Come back another time.
+
+[demo_a3_n8.2096]
+No good, huh.{WAIT:000F} Now what...
+
+[demo_a3_n8.2216]
+Someone who knows this village...{WAIT:000F} who could that be?
+

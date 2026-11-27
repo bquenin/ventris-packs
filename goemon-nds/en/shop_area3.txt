@@ -1,0 +1,168 @@
+[shop_area3.1230]
+Welcome!
+
+[shop_area3.1302]
+"Green Tea Soba"
+Restores 2 hearts.
+A: Buy  B: Cancel
+
+[shop_area3.1442]
+"Isobe Rice Cake"
+Restores 1 heart.
+A: Buy  B: Cancel
+
+[shop_area3.1582]
+"Eel Rice Box"
+Restores 3 hearts.
+A: Buy  B: Cancel
+
+[shop_area3.1708]
+Please come again.
+
+[shop_area3.1860]
+Come again, now!
+
+[shop_area3.2058]
+"Straw Raincoat"
+Blocks damage once.
+A: Buy  B: Cancel
+
+[shop_area3.2254]
+Please don't go upstairs, all right?
+
+[shop_area3.2390]
+"Plum Rice Ball"
+Restores 3 hearts.
+A: Buy  B: Cancel
+
+[shop_area3.2520]
+Thank you very much. Please come again.
+
+[shop_area3.2742]
+"Copper Armor"
+Blocks damage 2 times.
+A: Buy  B: Cancel
+
+[shop_area3.3070]
+Welcome! It's delicious!
+
+[shop_area3.3330]
+Welcome! Will you be staying the night?
+
+[shop_area3.3408]
+Men's Bath
+
+[shop_area3.3436]
+Women's Bath
+
+[shop_area3.3538]
+Take your time and relax.
+
+[shop_area3.3906]
+Welcome! What'll you buy? Pick from the top, there.
+
+[shop_area3.4164]
+Welcome. That'll be 100 ryo. Will you go in?
+
+[shop_area3.4268]
+Yes
+
+[shop_area3.4284]
+No
+
+[shop_area3.4314]
+I see... Please come again.
+
+[shop_area3.4374]
+It seems you don't have enough money...
+
+[shop_area3.4604]
+Sir, it seems you don't have enough money...
+
+[shop_area3.4710]
+Eat any more and it'll be bad for you.
+
+[shop_area3.4832]
+Thank you very much.
+
+[shop_area3.4866]
+ ryo, thank you.
+
+[shop_area3.4964]
+Stay
+
+[shop_area3.4990]
+Write in diary
+
+[shop_area3.5136]
+The save failed.
+
+[shop_area3.5184]
+You wrote in your Travel Diary.
+
+[shop_area3.5238]
+Which room would you like?
+
+[shop_area3.5294]
+Plum Room
+
+[shop_area3.5336]
+Bamboo Room
+
+[shop_area3.5378]
+Pine Room
+
+[shop_area3.5568]
+ ryo. Is that all right?
+
+[shop_area3.5634]
+Yes
+
+[shop_area3.5650]
+No
+
+[shop_area3.5680]
+I see...
+
+[shop_area3.5724]
+Sir, it seems you don't have enough money...
+
+[shop_area3.5838]
+Thank you very much. Please enjoy your stay.
+
+[shop_area3.6136]
+Sir, you don't have enough money.
+
+[shop_area3.6244]
+You can't buy any more of that.
+
+[shop_area3.6322]
+Thank you very much.
+
+[shop_area3.6356]
+ ryo, thank you.
+
+[shop_area3.6962]
+You already have armor. Is that all right?
+
+[shop_area3.7046]
+Yes
+
+[shop_area3.7062]
+No
+
+[shop_area3.7236]
+Thank you very much.
+
+[shop_area3.7270]
+ ryo, thank you.
+
+[shop_area3.7354]
+You've already got one.
+
+[shop_area3.7394]
+You've already got something better.
+
+[shop_area3.7432]
+I see...
+

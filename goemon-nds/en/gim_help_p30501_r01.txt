@@ -1,0 +1,3 @@
+[gim_help_p30501_r01.184]
+Put a player on the swing, and touch it to make it swing.
+

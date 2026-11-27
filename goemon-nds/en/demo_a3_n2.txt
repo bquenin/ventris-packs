@@ -1,0 +1,63 @@
+[demo_a3_n2.0410]
+Come back any time you need one.
+
+[demo_a3_n2.0484]
+I'm all out of passes. Come back another time, dearies.
+
+[demo_a3_n2.1194]
+Those masks... so you folks are with the Tengu cult too,{0D}{0A}come all this long way, have you.{0D}{0A}You've come for a Travel Pass, haven't you?
+
+[demo_a3_n2.1524]
+That's right.
+
+[demo_a3_n2.1548]
+We just gotta get through{WAIT:000F} the Hakone checkpoint.
+
+[demo_a3_n2.1682]
+Won't you sell us a Travel Pass?
+
+[demo_a3_n2.1796]
+I don't sell passes to folk who aren't grateful to Lord Tengu.{0D}{0A}But for people of the Tengu cult, that's another matter.{WAIT:000F} I'll give you a good price.{0D}{0A}50 ryo apiece. Will you buy one?
+
+[demo_a3_n2.2152]
+Yes
+
+[demo_a3_n2.2168]
+No
+
+[demo_a3_n2.2212]
+Oh my, short of money, are you?{0D}{0A}Sorry, but come back when you have it.
+
+[demo_a3_n2.2310]
+Thank you kindly. Come back any time you need one.
+
+[demo_a3_n2.2444]
+Come back any time you need one.
+
+[demo_a3_n2.2530]
+Well, welcome, welcome.
+
+[demo_a3_n2.2584]
+Sorry, but could you sell us one more pass?
+
+[demo_a3_n2.2720]
+For you folks, I don't mind at all.{0D}{0A}50 ryo apiece. Will you buy one?
+
+[demo_a3_n2.2860]
+Yes
+
+[demo_a3_n2.2876]
+No
+
+[demo_a3_n2.2920]
+Oh my, short of money, are you?{0D}{0A}Sorry, but come back when you have it.
+
+[demo_a3_n2.3018]
+Thank you kindly.
+
+[demo_a3_n2.3086]
+Come back any time you need one.
+
+[demo_a3_n2.3176]
+......
+

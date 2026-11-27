@@ -1,0 +1,33 @@
+[demo_a7_n6.0484]
+I'm gonna rest here{WAIT:000F} a little longer, then go see{WAIT:000F} the great teacher.
+
+[demo_a7_n6.1326]
+Goemon, everyone.{WAIT:000F} I finally made it all the way to Kyo.{0D}{0A}I only got this far{WAIT:000F} thanks to you guys.
+
+[demo_a7_n6.1566]
+What're you talkin' about?{WAIT:000F} You traveled here all on your own, didn't ya?
+
+[demo_a7_n6.1700]
+When I was your age,{WAIT:000F} I never went on a trip this long.
+
+[demo_a7_n6.1836]
+I'm{WAIT:000F} really grateful.{0D}{0A}When the yamamba fooled me,{WAIT:000F} I didn't know what would happen.
+
+[demo_a7_n6.2036]
+That was a truly close call.
+
+[demo_a7_n6.2186]
+Goemon, everyone.{WAIT:000F} It ain't much to thank you,{WAIT:000F} but you can have this.
+
+[demo_a7_n6.2468]
+Goemon and company got the Red Purse!
+
+[demo_a7_n6.2690]
+It's a purse that lets you carry more money.{AA}{0D}{0A}You can hold up to 999 ryo.
+
+[demo_a7_n6.2906]
+Thanks,{WAIT:000F} much obliged.
+
+[demo_a7_n6.2982]
+I'm gonna rest here{WAIT:000F} a little longer, then go see{WAIT:000F} the great teacher.
+

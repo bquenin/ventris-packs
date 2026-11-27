@@ -1,0 +1,21 @@
+[demo_a7_n7.0898]
+The Downtown Magistraaate! Lord Kinemon Toyamaaa! Now presiiiding!
+
+[demo_a7_n7.1118]
+You!{WAIT:000F} What're you doin' here?
+
+[demo_a7_n7.1196]
+Ain't you the magistrate of Edo?{WAIT:0014} What're you doin' in Kyo?
+
+[demo_a7_n7.1350]
+Indeed.{WAIT:000F} I, Kinemon, thought I too must pursue this case.{0D}{0A}And so,{WAIT:000F} how stand matters with thee?
+
+[demo_a7_n7.1584]
+Peruri is plotting to conquer Japan{WAIT:000F} with the Three Sacred Treasures.{0D}{0A}We've finally{WAIT:000F} chased Peruri all the way to Kyo.
+
+[demo_a7_n7.1890]
+Is that so.{WAIT:000F} That hateful Tengu Peruri!{0D}{0A}The moment he is found,{WAIT:000F} I, Kinemon, shall punish him.{0D}{0A}Once ye catch the villain,{WAIT:000F} bring him here at once.
+
+[demo_a7_n7.2322]
+So in the end,{WAIT:000F} you're tellin' us to catch him, huh?
+

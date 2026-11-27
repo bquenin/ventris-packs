@@ -1,0 +1,21 @@
+[demo_a7_n11.1184]
+I, Peruri,{WAIT:000F} am seriously angry.{WAIT:001E} You keep ruining my plans!
+
+[demo_a7_n11.1368]
+Get outta here!{WAIT:0014} Of course we do!
+
+[demo_a7_n11.1488]
+We ain't lettin' you have your way!
+
+[demo_a7_n11.1586]
+Once this jewel is built in,{WAIT:000F} the plan will all go smoothly.
+
+[demo_a7_n11.1810]
+That is the last treasure,{WAIT:000F} the Yasakani Jewel!
+
+[demo_a7_n11.1976]
+We won't let you!{WAIT:0014} We'll stop you with our own hands.
+
+[demo_a7_n11.2114]
+Hmmm{07:000A}...{07:0005}{0D}{0A}If it has come to this,{WAIT:000F} I myself{WAIT:000F} shall be your opponent.
+

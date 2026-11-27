@@ -1,0 +1,30 @@
+[npc_town6_n1.0852]
+In autumn, I become somewhat sentimental.
+
+[npc_town6_n1.0992]
+In autumn, I become somewhat sentimental.
+
+[npc_town6_n1.1132]
+Do you believe in fortune telling?{0D}{0A}I never believe in it!{0D}{0A}But my fortune said I would, so I'll give it a try.
+
+[npc_town6_n1.1368]
+Thith is the town of Fujikawa, famouth for its bobana.
+
+[npc_town6_n1.1514]
+Huh? What's a bobana?{0D}{0A}A bobana is the potht that markth a thtation town's way in and out.
+
+[npc_town6_n1.1764]
+Hm? What's a "bobana"? It's a long story, but you wanna hear it?
+
+[npc_town6_n1.1908]
+Yes
+
+[npc_town6_n1.1924]
+No
+
+[npc_town6_n1.1954]
+Once upon a time, there lived an old man and an old woman, and the old man went to the hills to cut firewood,{0D}{0A}and the old woman went to the river to do the washing. And down the river came a big...{0D}{0A}What? Never mind, you say? You're no fun~
+
+[npc_town6_n1.2288]
+You're no fun~
+

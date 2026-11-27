@@ -1,0 +1,48 @@
+[demo_a4_n2.0422]
+I'm sorry to ask,{WAIT:000F} but would you first call on{WAIT:000F} the Hyottoko house?{0D}{0A}They ought to know what happened with the kidnapping.{0D}{0A}It's the row house you reach by going down near the village entrance.
+
+[demo_a4_n2.0820]
+Won't you help the Hyottoko brothers?
+
+[demo_a4_n2.0906]
+Thank you very much.
+
+[demo_a4_n2.1632]
+Oh, travelers, are you?{0D}{0A}This is{WAIT:000F} the village of Ejiri,{0D}{0A}where the liveliest festival in all Japan is held.{0D}{0A}Please, stay and enjoy yourselves{07:000A}...{07:0006}{0D}{0A}is what I'd like to say, but{07:000A}...
+
+[demo_a4_n2.2066]
+Hm?{WAIT:000F} What is it,{WAIT:000F} what's wrong?
+
+[demo_a4_n2.2138]
+Well, you see,
+
+[demo_a4_n2.2152]
+as you can see, the whole village is in the middle of the festival,{0D}{0A}but its stars,{WAIT:000F} the dancers, the Hyottoko brothers...{0D}{0A}have been kidnapped by someone.
+
+[demo_a4_n2.2520]
+Kidnapped!?{WAIT:000F} Who'd do such a terrible thing?
+
+[demo_a4_n2.2640]
+Of the seven brothers,{WAIT:000F} four got away safely,{0D}{0A}but the Hyottoko left behind{WAIT:000F} are too scared to leave the house...{0D}{0A}At this rate, we can't hold the village's traditional Hyottoko Festival.
+
+[demo_a4_n2.3036]
+Trouble in this town too.{WAIT:000F} Don't tell me it's the Mr. Goemon Gang.
+
+[demo_a4_n2.3178]
+Travelers,{WAIT:000F} I hate to ask...{0D}{0A}but would you help us solve this?
+
+[demo_a4_n2.3642]
+Sure!{WAIT:000F} Leave it to us!
+
+[demo_a4_n2.3838]
+Goemon,{WAIT:000F} you sure it's okay to say yes so easy?
+
+[demo_a4_n2.3986]
+Shut up! Like I could leave somebody in trouble hangin'!
+
+[demo_a4_n2.4110]
+Thank you so much.{WAIT:001E} I'm sorry to ask, but would you first call on the Hyottoko house?{0D}{0A}{WAIT:001E}They ought to know what happened with the kidnapping.{0D}{0A}It's the row house you reach by going down near the village entrance.
+
+[demo_a4_n2.4598]
+Got it!{WAIT:000F} So,{WAIT:000F} let's go to this Hyottoko house.
+

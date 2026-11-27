@@ -1,0 +1,15 @@
+[npc_tabe1_n0.0520]
+Welcome.
+
+[npc_tabe1_n0.0602]
+It's delicious.
+
+[npc_tabe1_n0.0700]
+When you think of Edo, it's cold soba, right?{0D}{0A}The trick is to dip only half the soba in the sauce.
+
+[npc_tabe1_n0.0908]
+There's somebody at your house, Goemon.{0D}{0A}A burglar, maybe? Might be best to go home and take a look.
+
+[npc_tabe1_n0.1172]
+They say the magistrate of Hagure Town got replaced recently.{0D}{0A}I liked the old magistrate better.
+

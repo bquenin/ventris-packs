@@ -1,0 +1,51 @@
+[demo_a5_n6.0294]
+Please, take care.
+
+[demo_a5_n6.1928]
+Oh-ho-ho-ho!{WAIT:001E} Oh-ho-ho-ho!{0D}{0A}Never before{WAIT:000F} have I seen such a peculiar dance.{0D}{0A}You are a most amusing person.
+
+[demo_a5_n6.2238]
+Are you Amaterasu?
+
+[demo_a5_n6.2338]
+Oh-ho-ho-ho!{WAIT:000F} Oh-ho-ho-ho!{WAIT:001E} Oh, my sides ache.{0D}{0A}So it was you,{WAIT:000F} who danced that peculiar dance.{0D}{0A}It has been long since I laughed so.
+
+[demo_a5_n6.2624]
+I am Amaterasu, goddess of the sun.{WAIT:001E} I rule over this land.
+
+[demo_a5_n6.2756]
+So why's a goddess{WAIT:000F} playin' hide-and-seek{WAIT:000F} in a place like this?
+
+[demo_a5_n6.2878]
+My younger brother{WAIT:000F} Susanoo's mischief went too far,{0D}{0A}so I hid in this Heavenly Rock Cave.
+
+[demo_a5_n6.3044]
+Sorry to bother ya,{WAIT:000F} but there's somethin' I wanna ask.{0D}{0A}Ever hear of Masakado's helmet?{0D}{0A}Word is it's enshrined in the village of Futagawa,{WAIT:000F} and you're the one guardin' it.
+
+[demo_a5_n6.3356]
+A helmet is indeed enshrined in the village{07:000A}...{07:0004}{0D}{0A}but whether it is Masakado's, I cannot say.{0D}{0A}Our treasure, legend says,{WAIT:000F} was won in the age of warring states,{0D}{0A}when an enemy general's head was struck off.{0D}{0A}We enshrine it on the village altar{WAIT:000F} as a charm against evil.
+
+[demo_a5_n6.3950]
+That must be it.{WAIT:001E} Lord Masakado lost his helmet,{0D}{0A}and for 300 years he has been unable to rest at Maisaka.
+
+[demo_a5_n6.4148]
+So that ghost{WAIT:000F} was the helmet's owner.{0D}{0A}Unable to rest in peace,{WAIT:001E} how very sad{07:000A}...
+
+[demo_a5_n6.4358]
+It may be precious to you, but{0D}{0A}could you please{WAIT:000F} give that helmet back to Masakado?
+
+[demo_a5_n6.4528]
+I would gladly give it back{07:000A}...{07:0004}{0D}{0A}but Susanoo took it out to play with it.
+
+[demo_a5_n6.4738]
+The thing Susanoo lost!{0D}{0A}Was it Masakado's helmet?
+
+[demo_a5_n6.4886]
+Oh, brother.{WAIT:001E} He said he dropped it in the pond, didn't he.
+
+[demo_a5_n6.5048]
+That is so.{WAIT:000F} Beyond this Heavenly Rock Cave there is a great pond,{0D}{0A}and he dropped it into that pond.{0D}{0A}It seems a giant dragon living in the pond swallowed the helmet,{0D}{0A}and even I{WAIT:000F} can do nothing about it.
+
+[demo_a5_n6.5562]
+So we gotta beat that dragon to get it back!{0D}{0A}All right, let's go, everybody!
+

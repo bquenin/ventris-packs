@@ -1,0 +1,198 @@
+[demo_a2_n4.0918]
+That'll pass, I'd say.
+
+[demo_a2_n4.1002]
+Goemon and Ebisumaru got the Believer's Pot!
+
+[demo_a2_n4.1116]
+This item works just by having it.
+
+[demo_a2_n4.1254]
+That won't do.{WAIT:000F} Try again?
+
+[demo_a2_n4.1310]
+Yes
+
+[demo_a2_n4.1326]
+No
+
+[demo_a2_n4.1358]
+Well, give it your best.
+
+[demo_a2_n4.1446]
+I see... Come back any time you feel like it.
+
+[demo_a2_n4.2086]
+Now that's a wonderful piece of work!
+
+[demo_a2_n4.2150]
+ ryo for you, how's that?
+
+[demo_a2_n4.2214]
+Come and work any time.
+
+[demo_a2_n4.2282]
+Bit too hard for you, was it...
+
+[demo_a2_n4.2338]
+For this, it's 
+
+[demo_a2_n4.2358]
+ ryo at most, I'm afraid.
+
+[demo_a2_n4.2428]
+Still, you were a help. Come and work any time.
+
+[demo_a2_n4.2534]
+Sure! We'll be back!
+
+[demo_a2_n4.2696]
+Oh my! No Tengu cult people, thank you.
+
+[demo_a2_n4.2826]
+Oh my! What brings you to a place like this?
+
+[demo_a2_n4.2926]
+If you've no business here, you're in the way. Off you go.
+
+[demo_a2_n4.3078]
+Oh my! What a cutie this one is.
+
+[demo_a2_n4.3166]
+And what can I do for you, hmm?
+
+[demo_a2_n4.3250]
+We're lookin' for a tengu pot.
+
+[demo_a2_n4.3372]
+We're lookin' for a tengu pot, see.
+
+[demo_a2_n4.3482]
+For pots, go ask Imaemon in the back room, would you.
+
+[demo_a2_n4.3660]
+He's a master potter, that one.
+
+[demo_a2_n4.3756]
+For anything about pots, go ask Imaemon in the back room, would you.
+
+[demo_a2_n4.3916]
+He's a master potter, that one.
+
+[demo_a2_n4.4016]
+Do come and work again.
+
+[demo_a2_n4.4564]
+.....
+
+[demo_a2_n4.4666]
+Oh, you're the ones who made that tengu pot.
+
+[demo_a2_n4.4760]
+You two show real promise.
+
+[demo_a2_n4.4808]
+How about it, want to work for me?
+
+[demo_a2_n4.4880]
+Aw, cut it out! You're makin' me blush!
+
+[demo_a2_n4.4946]
+All right, I'll rent you the workshop for 50 ryo.
+
+[demo_a2_n4.5038]
+I'll pay you whatever your work is worth.
+
+[demo_a2_n4.5146]
+Oh, back again, are you.
+
+[demo_a2_n4.5190]
+If you want to work, I'll rent you the workshop for 50 ryo.
+
+[demo_a2_n4.5310]
+How about it? Want to give it a go?
+
+[demo_a2_n4.5348]
+Yes
+
+[demo_a2_n4.5364]
+No
+
+[demo_a2_n4.5410]
+No 50 ryo, no deal.
+
+[demo_a2_n4.5492]
+Well, give it your best.
+
+[demo_a2_n4.5584]
+I see... Come and work any time you feel like it.
+
+[demo_a2_n4.5694]
+Sure! We'll be back!
+
+[demo_a2_n4.6200]
+.....
+
+[demo_a2_n4.6236]
+Huh, not much of a talker, is he.
+
+[demo_a2_n4.6324]
+Hey,{WAIT:000F} let's go, Ebisumaru.
+
+[demo_a2_n4.6478]
+What is it,{WAIT:000F} you two?
+
+[demo_a2_n4.6536]
+We heard you sell those Tengu cult pots here.
+
+[demo_a2_n4.6676]
+Could you let us have one of those pots?
+
+[demo_a2_n4.6828]
+There are no more pots! I've had it up to here with the Tengu cult!
+
+[demo_a2_n4.6992]
+Aw, don't be like that.
+
+[demo_a2_n4.7058]
+Inside that shady building they call the cult's branch, there might be those guys we're chasin',{0D}{0A}that Mr. Goemon Gang.
+
+[demo_a2_n4.7370]
+Hmm{WAIT:000F}{07:000A}...
+
+[demo_a2_n4.7408]
+There really are none left.{WAIT:000F} I smashed every last pot.
+
+[demo_a2_n4.7718]
+Whaaat!
+
+[demo_a2_n4.7772]
+You smashed every last one!
+
+[demo_a2_n4.7856]
+No need to be so shocked.{WAIT:000F} If there's none, you just make one.
+
+[demo_a2_n4.8008]
+I'll set out a model for you, and you two make the pot.
+
+[demo_a2_n4.8158]
+Can we even do somethin' like that?
+
+[demo_a2_n4.8446]
+Are you doing it or not? Make up your minds!
+
+[demo_a2_n4.8524]
+Well,{WAIT:000F} come to do it, have you?
+
+[demo_a2_n4.8590]
+Yes
+
+[demo_a2_n4.8606]
+No
+
+[demo_a2_n4.8704]
+Well,{WAIT:000F} give it your best.
+
+[demo_a2_n4.8798]
+I see... Come back any time you feel like it.
+

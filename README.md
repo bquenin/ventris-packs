@@ -16,6 +16,7 @@ was made for (the app names it on the game's page).
 | Tales of Phantasia (Super Famicom, Japan) | English | [`top-sfc/en`](top-sfc/en) | 0.9.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | Parts: the main menu and most menu screens, battles on the world map and in the forest, the opening scene, a hunt early in the game, one long passage, and the eight lines shown as sprites. Most of the dialogue has only been built. |
 | Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | English | [`tod2-ps2/en`](tod2-ps2/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | The opening, ten skits, the menus, a shop, the first battle and a quiz book. Nothing past Cresta. |
 | Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | French | [`tod2-ps2/fr`](tod2-ps2/fr) | 0.1 | Machine translated from the Japanese, directed by bquenin; not yet reviewed by a human translator. The story, the menus, the lists, all the skits, the quiz books and the minigames; five minigames keep their kana answers and two other minigames stay whole in Japanese, as in the English pack | The opening, the first town, the first steps on the world map, three skits, the menus, a shop, three battles and two questions of the quiz. Nothing past the world map outside Cresta. |
+| Ganbare Goemon: Tōkai Dōchū Ōedo Tengurigaeshi no Maki (Nintendo DS, Japan) | English | [`goemon-nds/en`](goemon-nds/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | The opening, written across with the build option `horizontal-storyteller`, and the start of the trial. The rest has only been built. |
 
 ![A line of dialogue in Tales of Phantasia's blue text window, in Japanese and in English](images/top-dialogue.png)
 
@@ -29,14 +30,15 @@ Tales of Phantasia's pack is the whole game in text: all the dialogue, the menus
 and menu screens, and the characters' names. Tales of Destiny 2's is a first full pass: the dialogue of
 every story script from the prologue to the ending, 608 skits, the menu screens, the messages of the battle
 program, the enemy names, the lists of artes, items, titles, recipes, shops and places, and the quiz books
-and minigames. Both build with nothing refused.
+and minigames. Ganbare Goemon DS's is the whole game in text: every scene, the storyteller's pages, the
+towns, the shops, the quiz and the guide bubbles. All three build with nothing refused.
 
 Each pack's `NOTES.md` holds the names and terms it chose, how its strings are written, and exactly what
 has and has not been seen on screen.
 
 ## Working samples, machine translated
 
-**Both packs are machine translated and have not been reviewed by a human translator.** They are working
+**All the packs are machine translated and have not been reviewed by a human translator.** They are working
 samples: they show that ventris carries a whole game, from the dialogue to the menus and lists, and they
 are playable as far as has been seen. Expect lines that are mostly right, sometimes stiff, now and then
 wrong, and here and there too long for the box the game gives them.

@@ -1,0 +1,90 @@
+[npc_town1_n2.0700]
+Now where's my house got to...
+
+[npc_town1_n2.0760]
+If you wanna write in your Travel Diary, go to an inn.
+
+[npc_town1_n2.1038]
+Hmm, that's a bit of a problem.
+
+[npc_town1_n2.1096]
+Eh? What'd you say?
+
+[npc_town1_n2.1264]
+They say prices go up bit by bit the farther you travel.
+
+[npc_town1_n2.1412]
+Don't go walking in front of the oxen wearing too much red.{0D}{0A}You'll get trampled!!
+
+[npc_town1_n2.1720]
+That drunk at the edge of the bathhouse. He's peeping, I'm sure of it.
+
+[npc_town1_n2.1876]
+Every time I see myself I think it: these round puppy eyes{0D}{0A}and this girly blue stubble are my charm points.
+
+[npc_town1_n2.2056]
+Didja know? Eight out of ten Edo boys never get married and just grow old.
+
+[npc_town1_n2.2240]
+This is Toshimaya, a famous eatery.{0D}{0A}You won't find a cheaper eatery than this.
+
+[npc_town1_n2.2424]
+Did you know?{0D}{0A}In the Edo period, anyone who stole more than 10 ryo was put to death.
+
+[npc_town1_n2.2616]
+On our high school trip, a friend of mine got caught peeping, I remember...{0D}{0A}Huh? I never did it!!
+
+[npc_town1_n2.2808]
+They say takuan pickles are called takuan because the priest Takuan invented them.{0D}{0A}So if Peruri had invented them, we'd be calling them peruri.{0D}{0A}That's kinda weird.
+
+[npc_town1_n2.3078]
+You're right. I'll give it up after all.
+
+[npc_town1_n2.3140]
+Like I'm saying, Grandpa, I'm going to cut you down.
+
+[npc_town1_n2.3260]
+I shall cut you down!
+
+[npc_town1_n2.3330]
+Pardon me while I cut you down!!
+
+[npc_town1_n2.3424]
+Mixed bathing was the normal thing in Edo-period bathhouses,{0D}{0A}but for some reason this one is split in two.{0D}{0A}So watch out: go in the wrong side and you won't recover much.
+
+[npc_town1_n2.3788]
+The bathhouse restores your arts and your strength all at once.{0D}{0A}It's at the very end of this road, if you keep going right.{0D}{0A}Why not go refresh body and soul at the bathhouse?
+
+[npc_town1_n2.4176]
+They say at the inn you recover different amounts of strength depending on the room.{0D}{0A}So when I grow up I'm gonna be rich for sure,{0D}{0A}and I'll get a reaaally expensive room and recover a reaaally lot of strength.
+
+[npc_town1_n2.4590]
+Thank you for telling me.
+
+[npc_town1_n2.4666]
+What? My son is down by the river?{0D}{0A}Thank you so much for coming to tell me. This is just a small thank-you.
+
+[npc_town1_n2.4830]
+Got 10 ryo as a tip!!
+
+[npc_town1_n2.4946]
+I can't find my son anywhere. Do you know where he is?
+
+[npc_town1_n2.5090]
+It's not about money after all. It's about sincerity, isn't it.
+
+[npc_town1_n2.5184]
+What!? You found someone for me? Now I've no money, but with my warm heart, which is worth{0D}{0A}more than money, I'll win her over. Thank you! Here's a token of my thanks.
+
+[npc_town1_n2.5480]
+Got 300 ryo as a gift!
+
+[npc_town1_n2.5610]
+Find someone before I die, at least, won't you?
+
+[npc_town1_n2.5722]
+Ahh, am I to end my days a carefree bachelor...
+
+[npc_town1_n2.5848]
+What? You'll find me my next match for an arranged meeting?{0D}{0A}I've lost ten meetings in a row, so anyone at all will do. I'm counting on you.
+

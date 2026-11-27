@@ -1,0 +1,111 @@
+[demo_a3_n4.0592]
+Somethin'{07:000A}...{WAIT:000F}{07:0006} smells real good.
+
+[demo_a3_n4.0824]
+Hm?{WAIT:000F} I don't smell nothin'.
+
+[demo_a3_n4.1074]
+Somebody's cookin' a hot pot somewhere.{0D}{0A}Smells delicious!
+
+[demo_a3_n4.1196]
+Truly,{WAIT:000F} Ebisumaru is a glutton.
+
+[demo_a3_n4.1464]
+Look,{WAIT:000F} over here.{WAIT:000F} The good smell's comin' from over here.
+
+[demo_a3_n4.1962]
+Hey,{WAIT:000F} hey!{WAIT:001E} Geez, what a guy.
+
+[demo_a3_n4.2032]
+He must surely be hungry.
+
+[demo_a3_n4.2144]
+Can't just leave him behind, either.
+
+[demo_a3_n4.2224]
+Honiii!!{WAIT:001E} Help me, Goemon!
+
+[demo_a3_n4.2396]
+What's wrong?{WAIT:000F} Ebisumaru!
+
+[demo_a3_n4.2872]
+Ebisumaru!
+
+[demo_a3_n4.2922]
+Ebisumaru!
+
+[demo_a3_n4.2998]
+Y'all{WAIT:000F} came chasin' after us, did ya?
+
+[demo_a3_n4.3286]
+You punks!{WAIT:000F} What'd you do to Ebisumaru!
+
+[demo_a3_n4.3406]
+We{WAIT:000F} didn't do nothin'.
+
+[demo_a3_n4.3464]
+We was just fixin' our lunch,
+
+[demo_a3_n4.3556]
+and this fella went and ate our food without askin'.
+
+[demo_a3_n4.3750]
+Honestly...{WAIT:000F} Ebisumaru is a trial.
+
+[demo_a3_n4.3866]
+Goemon,{WAIT:000F} help meee.
+
+[demo_a3_n4.3980]
+Boss!{WAIT:000F} See, it's just like I told ya.
+
+[demo_a3_n4.4086]
+Don't go throwin' any old thing that grows on the ground into the pot.
+
+[demo_a3_n4.4230]
+Y'all said you was hungry too!
+
+[demo_a3_n4.4324]
+Even so, there was no call to put a mushroom that funny color in the pot.
+
+[demo_a3_n4.4462]
+If we'd eaten it,{WAIT:000F} we'd all be{WAIT:000F} balls like this by now.
+
+[demo_a3_n4.4782]
+You there!{WAIT:000F} Return Ebisumaru to his true form!
+
+[demo_a3_n4.5026]
+Even if you say so,{WAIT:000F} we don't know how.
+
+[demo_a3_n4.5122]
+Why not show him to a doctor or somethin'?
+
+[demo_a3_n4.5198]
+Come to think of it,{WAIT:000F} I saw a medicine seller a while back.
+
+[demo_a3_n4.5296]
+Find the medicine seller and maybe he can fix him.
+
+[demo_a3_n4.5390]
+See y'all!
+
+[demo_a3_n4.5838]
+Ah!{WAIT:000F} They are gone!
+
+[demo_a3_n4.6002]
+Dammit,{WAIT:000F} they got away.
+
+[demo_a3_n4.6124]
+Now,{WAIT:000F} what shall we do{WAIT:000F} with Ebisumaru?
+
+[demo_a3_n4.6214]
+With our strength,{WAIT:000F} we cannot carry him.
+
+[demo_a3_n4.6418]
+Can't be helped.{WAIT:000F} Let's roll Ebisumaru to the nearest town.
+
+[demo_a3_n4.6578]
+Roll me?{WAIT:000F} That's just cruel!
+
+[demo_a3_n4.6672]
+Don't you go droppin' me in a river or nothin'.
+

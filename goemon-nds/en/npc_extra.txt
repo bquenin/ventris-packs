@@ -1,0 +1,30 @@
+[npc_extra.0542]
+Hey there! I'm Bakatare Kato, editor-in-chief of Famitsu.
+
+[npc_extra.0646]
+Do you read Famitsu every week?
+
+[npc_extra.0732]
+Yes
+
+[npc_extra.0748]
+No
+
+[npc_extra.0780]
+Thank you! For you, a special game as a present!
+
+[npc_extra.0928]
+Hmph!{0D}{0A}If you don't read it, you don't get to play the special game!
+
+[npc_extra.2146]
+I'm Nostra.{0D}{0A}My brothers are hiding in all sorts of places along the road.{0D}{0A}Find them all, and something good will happen.
+
+[npc_extra.2410]
+I'm Nostra.{0D}{0A}Congratulations! You found 15 of my brothers.{0D}{0A}I'll add Impact to the mini-game download.{0D}{0A}Share it with your friends. See you!{0D}{0A}Good luck!
+
+[npc_extra.2748]
+Congratulations!{0D}{0A}Amazing! You finally found all of my brothers.{0D}{0A}As a prize, I've added a costume change feature.{0D}{0A}Try it with the SELECT Button.{0D}{0A}Well then, see you somewhere again!
+
+[npc_extra.3118]
+I'm Nostra.{0D}{0A}You did well to find me hiding in a place like this.{0D}{0A}I have more brothers, so find them all.
+

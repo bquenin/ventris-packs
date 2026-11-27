@@ -1,0 +1,204 @@
+[demo_goe12.00858]
+Second time
+
+[demo_goe12.00906]
+Second time
+
+[demo_goe12.00954]
+Second time
+
+[demo_goe12.01002]
+Second time
+
+[demo_goe12.01050]
+Second time
+
+[demo_goe12.01098]
+Second time
+
+[demo_goe12.01146]
+Second time
+
+[demo_goe12.01538]
+Occupied!
+
+[demo_goe12.02380]
+Hello,{WAIT:000F} it's Marble Red, y'know.
+
+[demo_goe12.02446]
+Whoa!{WAIT:000F} Long time no see. You been well?
+
+[demo_goe12.02560]
+After Lord McGuinness lost, we couldn't go home, so we've stayed in Japan ever since, y'know.{0D}{0A}We've kinda gotten used to it, y'know.{0D}{0A}I'm savin' up money to build the giant robot Senshuraku 2, y'know.
+
+[demo_goe12.02956]
+You're buildin' a robot!
+
+[demo_goe12.03018]
+When it's done, I'll challenge Impact, y'know.
+
+[demo_goe12.03132]
+Sure!{WAIT:000F} Come at me anytime. I'll take ya on.
+
+[demo_goe12.04428]
+Long time no see,{WAIT:000F} it's Marble Blue, y'know.
+
+[demo_goe12.04512]
+Why're you guys dressed up like rabbits?
+
+[demo_goe12.04606]
+Lord McGuinness just loves rabbits, y'know.{0D}{0A}He gets a kick outta makin' us dress like rabbits. He's a total weirdo, y'know.
+
+[demo_goe12.04828]
+For somebody who loves rabbits so much,{WAIT:000F} he don't dress like one himself.
+
+[demo_goe12.04954]
+Maybe somebody just made that detail up on the spot?
+
+[demo_goe12.05058]
+If we dig too deep, the people who thought it up will be in trouble, so let us stop there.
+
+[demo_goe12.05214]
+R-right.{WAIT:000F} Enough of this weird talk.{0D}{0A}See ya later.
+
+[demo_goe12.05366]
+That's all I get on screen?{WAIT:000F} That's lonely, y'know.
+
+[demo_goe12.06676]
+Hello,{WAIT:000F} it's Marble Green, y'know.
+
+[demo_goe12.06744]
+Was there someone like this?
+
+[demo_goe12.06804]
+Please don't say such sad things, y'know.{0D}{0A}In Goemon 2 I didn't have any lines, so I didn't leave much of an impression, y'know.
+
+[demo_goe12.07016]
+Indeed,{WAIT:000F} I do not remember you at all.
+
+[demo_goe12.07132]
+The Mask Ninja boss, I'm the one who built it, me, Marble Green, y'know.
+
+[demo_goe12.07254]
+Isn't that{WAIT:000F} something they made up afterward?
+
+[demo_goe12.07342]
+Please don't hit me where it hurts, y'know.
+
+[demo_goe12.07444]
+We're busy too,{WAIT:000F} so we'll come back later.
+
+[demo_goe12.07552]
+It's over already?{WAIT:000F} And here I thought I finally had some lines, y'know.{0D}{0A}I wanted to talk more, y'know.
+
+[demo_goe12.08932]
+Hello,{WAIT:000F} it's Marble Black, y'know.
+
+[demo_goe12.09000]
+Hey!... wait.{WAIT:000F} Ain't you guys really just one guy?
+
+[demo_goe12.09116]
+There's five of us, for real, y'know.{WAIT:000F} And I, Marble Black, am the leader, y'know.
+
+[demo_goe12.09230]
+Really?{WAIT:000F} So you actually have ranks.
+
+[demo_goe12.09330]
+Nobody knows that, y'know.{0D}{0A}Even the other members won't admit I'm the leader, y'know.{0D}{0A}Boo hoo...
+
+[demo_goe12.09570]
+Please do not be so downcast.
+
+[demo_goe12.09636]
+Aw, cheer up.{WAIT:000F} I bet somethin' good'll come along.
+
+[demo_goe12.09768]
+Thanks, y'know.{WAIT:000F} I'll cheer up and keep on livin', y'know.
+
+[demo_goe12.09880]
+He sure bounces back fast.
+
+[demo_goe12.11372]
+Goemon!
+
+[demo_goe12.11412]
+Whoa!{WAIT:000F} If it ain't Kurobee. Long time no see.
+
+[demo_goe12.11504]
+I hardly get to show up anymore, so I've been lonely, nya.
+
+[demo_goe12.11640]
+You're still doin' the ghost thing in a place like this?
+
+[demo_goe12.11720]
+I'm training my transformations, nya.{WAIT:000F} This place feels the most right, nya.{0D}{0A}But I'm still green, so Boss Koban Cat is always scolding me, nya.
+
+[demo_goe12.12032]
+I see. Keep at it, and become a fine ninja cat.
+
+[demo_goe12.12162]
+Thank you, nya.{WAIT:000F} I'll train really hard, nya.
+
+[demo_goe12.13560]
+Hello,{WAIT:000F} it's Marble Yellow, y'know.
+
+[demo_goe12.13628]
+How many of you guys are there?
+
+[demo_goe12.13702]
+Five in all, y'know.{WAIT:000F} That's why we're called the Marble Five, y'know.
+
+[demo_goe12.13854]
+You all have the same face!
+
+[demo_goe12.13940]
+They're a tiny bit different, y'know.{WAIT:000F} Like where the eyes are, or the moles. Look closely, y'know!
+
+[demo_goe12.14106]
+Like anybody could tell.
+
+[demo_goe12.14174]
+Yellow, which castle were you guarding?
+
+[demo_goe12.14278]
+Washoku Castle, y'know.{WAIT:000F} I built a delicious-looking castle, y'know.{0D}{0A}The clockwork fallen-samurai mecha Sharekoube was my masterpiece too, y'know.
+
+[demo_goe12.14546]
+You are quite the machine lover.
+
+[demo_goe12.14618]
+I still can't forget{WAIT:000F} losing to that ridiculous machine, y'know.{0D}{0A}I'll challenge you again,{WAIT:000F} so you'd better be ready, y'know.
+
+[demo_goe12.14864]
+Yeah,{WAIT:000F} come at me anytime! I'll be waitin'.
+
+[demo_goe12.16164]
+Oh! It is you.{WAIT:000F} Welcome, welcome.{WAIT:000F} Have you been well?
+
+[demo_goe12.16290]
+It's you!{WAIT:000F} McGuinness!{0D}{0A}You cookin' up some evil scheme again?!
+
+[demo_goe12.16454]
+A terrible misunderstanding!{WAIT:0014} I, McGuinness, purely love Japanese culture.{0D}{0A}I love Japan so much,{WAIT:000F} I moved to this town.
+
+[demo_goe12.16762]
+You went and settled here?!
+
+[demo_goe12.16840]
+I have lived here 10 years now.{WAIT:000F} It feels short, and long!{0D}{0A}The days I practiced my dogeza bow are fond memories!
+
+[demo_goe12.17160]
+So what're you doin' these days?
+
+[demo_goe12.17254]
+Me?{WAIT:000F} I am a lacquer craftsman.{0D}{0A}Beautiful lacquered bowls,{WAIT:000F} I simply adore them.
+
+[demo_goe12.17486]
+Huh,{WAIT:0014} so you're a proper craftsman now.
+
+[demo_goe12.17574]
+When one is done I will give it to you,{WAIT:000F} so please wait for it!
+
+[demo_goe12.17690]
+Sure!{WAIT:000F} I'll wait, but I won't hold my breath.
+

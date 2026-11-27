@@ -1,0 +1,204 @@
+[demo_ending.00958]
+All right, let's start the hearing.{WAIT:001E} You folks, raise your heads.
+
+[demo_ending.01166]
+Hmmm{07:000A}...{WAIT:001E}{07:0007} That it should come to this.
+
+[demo_ending.01358]
+Oh, Mr. Sakuraaa!{WAIT:000F} Why is this happening to me?
+
+[demo_ending.01570]
+Hidden away in this country{07:000A}...{WAIT:001E}{07:0005} the Three Sacred{07:000A}..........
+
+[demo_ending.01742]
+Umm{07:000A}...{07:0005}{WAIT:0014} what was it again,{WAIT:000F} Goemon?
+
+[demo_ending.01950]
+The Three Sacred Treasures, the legendary treasures.
+
+[demo_ending.02150]
+Right, right,{WAIT:000F} that's it.
+
+[demo_ending.02244]
+Kinemon,{WAIT:000F} you had Peruri{WAIT:000F} gather those treasures, right?
+
+[demo_ending.02438]
+Just so.{WAIT:001E} I do not deny it.
+
+[demo_ending.02580]
+Well,{WAIT:000F} ain't he high and mighty.
+
+[demo_ending.02646]
+You, who were born poor,{WAIT:001E} would never understand.
+
+[demo_ending.02854]
+What did you say!
+
+[demo_ending.03246]
+I was born a samurai, but to a poor family.
+
+[demo_ending.03354]
+I worked hard,{WAIT:000F} and rose as far as a magistrate's officer,{0D}{0A}but for a man of a poor house like me,{WAIT:000F} an officer of the downtown was as high as I'd ever climb.
+
+[demo_ending.03678]
+In this samurai society,{WAIT:000F} where the house you're born into is all that counts,{0D}{0A}I meant to smash it all to pieces.
+
+[demo_ending.03976]
+Just for your own sake,{WAIT:000F} you caused this whole huge mess.
+
+[demo_ending.04244]
+Hmph!{WAIT:000F} None of your damn business!
+
+[demo_ending.04320]
+I was gonna rule this country as shogun, I was.
+
+[demo_ending.04570]
+What an utterly wicked villain!
+
+[demo_ending.04634]
+There is no need to show him mercy!
+
+[demo_ending.04812]
+Officers,{WAIT:0014} throw this fella in jail, won't ya.
+
+[demo_ending.04952]
+Later,{WAIT:000F} we'll have some big-shot officer pass judgment on him.
+
+[demo_ending.05450]
+W-{WAIT:0014}won't you spare me that, at least...
+
+[demo_ending.05634]
+What's with{WAIT:001E} this guy?
+
+[demo_ending.05710]
+I, Kinemon,{WAIT:001E} repent more deeply than the sea.{WAIT:001E} Won't you let me go?
+
+[demo_ending.05976]
+Even if you say that,{WAIT:000F} a crime's gotta be paid for.
+
+[demo_ending.06112]
+Is there truly no way{07:000A}...?
+
+[demo_ending.06174]
+Ain't nothin' we can do about it.
+
+[demo_ending.06246]
+.........
+
+[demo_ending.06344]
+Fine, then!{WAIT:000F} Once my sentence is up,{WAIT:000F} I'll be back!
+
+[demo_ending.06492]
+And next time this country'll be mine!
+
+[demo_ending.06834]
+What's with that guy!{WAIT:000F} Changin' his whole personality at the drop of a hat.
+
+[demo_ending.07038]
+He sure was a weird one.
+
+[demo_ending.07166]
+That leaves you,{WAIT:000F} Peruri.
+
+[demo_ending.07434]
+Oh!{WAIT:000F} Please, anything but seppuku.
+
+[demo_ending.07538]
+Peruri{07:000A}...{WAIT:0014}{07:0005} used our names,{WAIT:0014} and then{07:000A}...
+
+[demo_ending.07676]
+I am{WAIT:000F} a diplomat who came{WAIT:000F} from across the sea.
+
+[demo_ending.07824]
+I came to deepen ties with this country,{WAIT:000F} and to trade goods.
+
+[demo_ending.08028]
+If you're a diplomat,{WAIT:000F} why were you doing whatever Kinemon said?
+
+[demo_ending.08170]
+This country is closed,{WAIT:000F} and foreigners{WAIT:000F} are ignored completely.
+
+[demo_ending.08336]
+When I went to Uraga,{WAIT:000F} everyone cried "The Black Ships are here!"{WAIT:000F} and ran away.
+
+[demo_ending.08496]
+While I was at my wits' end,{WAIT:000F} Mr. Sakura promised that if I helped with his work,{0D}{0A}he would cooperate with me, Peruri.
+
+[demo_ending.08840]
+So he was being controlled by Kinemon after all.
+
+[demo_ending.08976]
+That is right!{WAIT:000F} I am a victim too.
+
+[demo_ending.09154]
+Get outta here!{0D}{0A}Usin' the Mr. Goemon Gang{WAIT:000F} to make us out to be criminals,{0D}{0A}how do you explain that?!
+
+[demo_ending.09434]
+Oh! It is true,{WAIT:000F} so I cannot explain it.
+
+[demo_ending.09544]
+You take your judgment like a man too.
+
+[demo_ending.09616]
+When you've served your time and come back to Edo,{0D}{0A}I'll ask the Lord to open up the country for ya,{WAIT:000F} how's that.
+
+[demo_ending.09892]
+Oh! I am grateful.
+
+[demo_ending.09950]
+Opening the country,{WAIT:000F} you promised.
+
+[demo_ending.11070]
+Reckon we gotta{WAIT:000F} face judgment too, huh.
+
+[demo_ending.11174]
+We did break into Horohoro Temple{WAIT:000F} to steal, after all.
+
+[demo_ending.11332]
+......
+
+[demo_ending.11376]
+Sure,{WAIT:000F} you guys did go stealin'.
+
+[demo_ending.11484]
+But you got fooled by those crooks Kinemon and Peruri, too. So I guess I wouldn't say we can't let it slide.
+
+[demo_ending.11724]
+For real?{WAIT:000F} Y'all gonna let us off?
+
+[demo_ending.11832]
+We'll let you off.{WAIT:001E} But for that poor village of Kanaya,{0D}{0A}you work honest, y'hear.
+
+[demo_ending.12084]
+Ebisumaru,{WAIT:000F} that was well said.
+
+[demo_ending.12358]
+We're much obliged, I reckon.
+
+[demo_ending.12412]
+We'll work real honest,{WAIT:000F} and do our best to be some use to the village, I reckon.
+
+[demo_ending.12706]
+And with that, this whole affair is over.
+
+[demo_ending.12834]
+Whew,{WAIT:001E} what a long trip it's been.
+
+[demo_ending.12976]
+But I've had enough of this kinda thing.
+
+[demo_ending.13114]
+Well,{WAIT:000F} peace has returned,{WAIT:000F} so let us call it good.
+
+[demo_ending.13262]
+Yeah.{WAIT:000F} Well, this whole affair too, and with that...
+
+[demo_ending.13606]
+Goemon!{WAIT:001E} Let me say that line!
+
+[demo_ending.13750]
+Wh-what?!{WAIT:000F} Outta nowhere.
+
+[demo_ending.13910]
+And with that,{WAIT:001E} case closed!
+

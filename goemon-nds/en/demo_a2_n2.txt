@@ -1,0 +1,45 @@
+[demo_a2_n2.0498]
+All right! Let's smash it with Impact!
+
+[demo_a2_n2.0584]
+Then let's have Mr. Impact smash it!
+
+[demo_a2_n2.0656]
+Then we shall destroy it with Impact, sir.
+
+[demo_a2_n2.0794]
+Impact!
+
+[demo_a2_n2.0870]
+Save your game?
+
+[demo_a2_n2.0908]
+Yes
+
+[demo_a2_n2.0924]
+No
+
+[demo_a2_n2.1028]
+The save failed.
+
+[demo_a2_n2.1076]
+Saved.
+
+[demo_a2_n2.1592]
+What the heck{WAIT:000F} is this?
+
+[demo_a2_n2.1642]
+Somethin's{WAIT:000F} givin' off some fishy radio waves, I tell ya.
+
+[demo_a2_n2.1756]
+Who'd go and put up somethin' this huge?
+
+[demo_a2_n2.1864]
+I've got a bad feeling about this.
+
+[demo_a2_n2.1982]
+Ah,{WAIT:000F} never mind it, Goemon.{0D}{0A}Let's leave this thing be and hurry on.
+
+[demo_a2_n2.2160]
+Oh,{WAIT:000F} right.
+

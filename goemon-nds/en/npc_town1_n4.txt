@@ -1,0 +1,60 @@
+[npc_town1_n4.0724]
+What is it? I've got a date with Okiku from the next town over.{0D}{0A}I'm busy, so don't get in my way!!
+
+[npc_town1_n4.0912]
+The palanquin bearers there will carry you anywhere you've been before.{0D}{0A}Ever so handy.
+
+[npc_town1_n4.1212]
+Give the stalactite a rub.
+
+[npc_town1_n4.1270]
+That's it, just like that.
+
+[npc_town1_n4.1348]
+I've been thinking: Edo is a capital east of Kyo,{0D}{0A}so how about calling Edo "Tokyo", the eastern capital?
+
+[npc_town1_n4.1600]
+With the Edicts on Compassion, you can't even kill a dog or a cat.{0D}{0A}In this peaceful age, a master swordsman is about as much use as a fifth wheel.
+
+[npc_town1_n4.1938]
+The Great Edo Squadron, the Edo Rangers, are here!!
+
+[npc_town1_n4.2052]
+So, how many members have joined?
+
+[npc_town1_n4.2270]
+Hey, hey, there's nobody yet. Do it properly, will you?
+
+[npc_town1_n4.2420]
+You found four members across the land?{0D}{0A}Then the Edo Rangers are finally complete!?{0D}{0A}My dream of ten years has come true at last. You've been a real help.{0D}{0A}Here's your wages.
+
+[npc_town1_n4.2774]
+Got 300 ryo in wages!
+
+[npc_town1_n4.2904]
+One
+
+[npc_town1_n4.2942]
+Two
+
+[npc_town1_n4.2966]
+Three
+
+[npc_town1_n4.2996]
+, huh.{0D}{0A}We can't form a squadron unless you find at least four.
+
+[npc_town1_n4.3156]
+We'll protect the peace of Edo!!{0D}{0A}Our name: the Great Edo Squadron, the Edo Rangers!{0D}{0A}How about that? Cool, huh? But nobody likes us at all...{0D}{0A}So how about it? Will you gather Edo Ranger members from all over the land?
+
+[npc_town1_n4.3560]
+Yes
+
+[npc_town1_n4.3576]
+No
+
+[npc_town1_n4.3606]
+What!? What a kind soul you are. I'll be waiting, and hoping!
+
+[npc_town1_n4.3734]
+I see...
+

@@ -1,0 +1,66 @@
+[demo_a5_n3.0290]
+Helmet...
+
+[demo_a5_n3.1502]
+Wh-{WAIT:000F}who are you?
+
+[demo_a5_n3.1550]
+I, am, Masakado...
+
+[demo_a5_n3.1678]
+Masakado?{WAIT:000F} You mean THE Masakado?
+
+[demo_a5_n3.1818]
+Masakado,{WAIT:000F} a villain is after your sword.
+
+[demo_a5_n3.1946]
+Sword...
+
+[demo_a5_n3.1986]
+A villain called Peruri{WAIT:000F} has his eye on your sword.
+
+[demo_a5_n3.2108]
+The sword, is, with, me...{0D}{0A}But, I, have, lost, my helmet...
+
+[demo_a5_n3.2222]
+You lost your helmet?
+
+[demo_a5_n3.2290]
+My, helmet, was, handed, down, for, generations.{0D}{0A}It, is, my, greatest, treasure...{0D}{0A}When, will, it, return, to, my, hands...
+
+[demo_a5_n3.2516]
+He's been searching for his helmet all this time and can't rest in peace.{WAIT:001E} Poor thing.
+
+[demo_a5_n3.2636]
+If, you, will, bring, back, my, helmet,{0D}{0A}I, shall, grant, you, my, sword.
+
+[demo_a5_n3.2824]
+Goemon,{WAIT:000F} this fella says he'll give us the sword.
+
+[demo_a5_n3.3028]
+Bring it back, sure,{WAIT:000F} but we don't even know where it is.
+
+[demo_a5_n3.3252]
+The helmet, is, enshrined, in, the village, of, Futagawa.{0D}{0A}I, cannot, go, near, it...{0D}{0A}The power, of, Amaterasu, is, not, to, be, scorned...
+
+[demo_a5_n3.3440]
+The village of Futagawa?{WAIT:000F} That is not far from here.
+
+[demo_a5_n3.3582]
+So this Amaterasu has the helmet, huh.{0D}{0A}All right,{WAIT:000F} leave this to us.
+
+[demo_a5_n3.3748]
+I, thank, you.{0D}{0A}I, shall, grant, you, this.
+
+[demo_a5_n3.3878]
+Yae got the Homing Bazooka!
+
+[demo_a5_n3.3954]
+Hold the L Button and press left or right on the +Control Pad to switch weapons.{0D}{0A}To use it, hold the Y Button to charge it up, then fire.
+
+[demo_a5_n3.4308]
+It, can, defeat, many, foes, at, once,{0D}{0A}a secret, art, of, the, Taira, clan.
+
+[demo_a5_n3.4434]
+Thank you.{0D}{0A}I'll get your helmet back for you, I promise.
+

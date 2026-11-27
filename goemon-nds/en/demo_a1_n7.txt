@@ -1,0 +1,42 @@
+[demo_a1_n7.0718]
+Hm?{WAIT:001E} And who're y'all?
+
+[demo_a1_n7.0788]
+Who the heck are YOU!{WAIT:000F} What're you doin' here?
+
+[demo_a1_n7.0892]
+We's the great Mr. Goemon and his pals, come for the temple's treasure, I reckon!
+
+[demo_a1_n7.1084]
+So,{WAIT:000F} you're the ones usin' our names and makin' trouble!
+
+[demo_a1_n7.1224]
+Don't know nothin' about that, nope.
+
+[demo_a1_n7.1276]
+We just took the treasure like we said we would, y'see.
+
+[demo_a1_n7.1422]
+Boss!{WAIT:000F} This here mirror looks like it's worth somethin'!
+
+[demo_a1_n7.1560]
+We got mistaken for these shabby-lookin' bums?
+
+[demo_a1_n7.1850]
+Wh-what's that?
+
+[demo_a1_n7.1890]
+Ground's a-shakin', it is!
+
+[demo_a1_n7.1954]
+Whooo dares!{WAIT:001E} Who makes such a racket in my lair!
+
+[demo_a1_n7.2238]
+Yeeeek!{WAIT:001E} R-run for it, y'all!
+
+[demo_a1_n7.2540]
+Hey!{WAIT:000F} You lot, wait right there!
+
+[demo_a1_n7.2622]
+You shan't escape! I'll teach you a lesson!
+

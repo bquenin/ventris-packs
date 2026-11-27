@@ -1,0 +1,96 @@
+[npc_town2_n1.0664]
+Tenguuu!!
+
+[npc_town2_n1.0688]
+It's tenguuu, right?
+
+[npc_town2_n1.0716]
+Te-ten, tet-te-ten!
+
+[npc_town2_n1.0748]
+I-it's a tenguuu!
+
+[npc_town2_n1.1336]
+Don't they sell tengu masks for oxen, I wonder...
+
+[npc_town2_n1.1482]
+Mister, what's this building?
+
+[npc_town2_n1.1562]
+Mister, what's this building?
+
+[npc_town2_n1.1666]
+Oh, that's Impact, right?{0D}{0A}The thing that was smashing the rock a while ago.
+
+[npc_town2_n1.1802]
+Oh, you mean the Dragon Palace, right?
+
+[npc_town2_n1.1914]
+I want to be a potter, but I just can't make them right...
+
+[npc_town2_n1.2058]
+Oh no, oh no, I broke a tengu pot! What do I do...
+
+[npc_town2_n1.2206]
+I still can't find my Travel Pass...{0D}{0A}Did someone take it?
+
+[npc_town2_n1.2344]
+I lost my Travel Pass...{0D}{0A}Where could I have dropped it?
+
+[npc_town2_n1.2518]
+They say this house gives hints about some important character.
+
+[npc_town2_n1.2672]
+They say this house gives hints about some important character.
+
+[npc_town2_n1.2850]
+Do you have a Travel Pass?{0D}{0A}If not, I can't let you through.
+
+[npc_town2_n1.2982]
+You have a pass. All right! Go through.
+
+[npc_town2_n1.3156]
+You may pass.
+
+[npc_town2_n1.3234]
+That giant robot that destroyed Tengu Rock a while ago,{0D}{0A}where did it come from, and where did it go back to?{0D}{0A}Does it have a secret base or something?
+
+[npc_town2_n1.3494]
+With everyone wearing tengu masks, you can't tell who's who. It's no good.
+
+[npc_town2_n1.3654]
+Tengu rule!
+
+[npc_town2_n1.3722]
+You're believers of the Tengu cult. You may pass.
+
+[npc_town2_n1.3928]
+Hold it! You aren't believers of the Tengu cult!{0D}{0A}I won't let you go to the pottery workshop ahead.
+
+[npc_town2_n1.4178]
+Didja know? In some faraway world,{0D}{0A}there's supposed to be a giant robot that can even smash rocks!!
+
+[npc_town2_n1.4426]
+Didja know? In some faraway world,{0D}{0A}they say there are bars where you drink with girls at your side.
+
+[npc_town2_n1.4710]
+Why doesn't everyone wear a tengu mask, you ask?{0D}{0A}Why would anyone wear one when it isn't even a festival?{0D}{0A}You're a strange one.
+
+[npc_town2_n1.4936]
+Why does everyone wear a tengu mask, you ask?{0D}{0A}It's the same as nobody going out without a kimono on.{0D}{0A}You're a strange one.
+
+[npc_town2_n1.5278]
+From today, I'm an Edo Ranger too!
+
+[npc_town2_n1.5348]
+I'm a hero of justice.{0D}{0A}But I don't have a mask, so I look lame...{0D}{0A}What? In Edo there's something called the "Edo Rangers"?{0D}{0A}That sounds really cool...
+
+[npc_town2_n1.5626]
+A new Edo Ranger joined!!{0D}{0A}
+
+[npc_town2_n1.5734]
+I'm a hero of justice.{0D}{0A}But I don't have a mask, so I look lame...
+
+[npc_town2_n1.5910]
+Trans-form!! Hah!!{0D}{0A}Hero of justice, Tengu Ranger!!{0D}{0A}Pretty cool, huh!!
+

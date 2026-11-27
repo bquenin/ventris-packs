@@ -1,0 +1,114 @@
+[demo_a3_n13.1042]
+Sis,{WAIT:000F} are you all right?
+
+[demo_a3_n13.1178]
+I am all right, so I am.
+
+[demo_a3_n13.1264]
+Thank you, so I do. Are you Goemon and his friends?
+
+[demo_a3_n13.1356]
+Yae is always telling me about you, so she is.
+
+[demo_a3_n13.1424]
+Yep! The name's Goemon!
+
+[demo_a3_n13.1474]
+Good thing you're{WAIT:000F} safe and sound.
+
+[demo_a3_n13.1634]
+Real glad,{WAIT:000F} I tell ya.
+
+[demo_a3_n13.1700]
+There may still{WAIT:000F} be stragglers about.{0D}{0A}We can talk at our leisure{WAIT:000F} once we are back in the village.
+
+[demo_a3_n13.1970]
+You're right.
+
+[demo_a3_n13.2020]
+Sis, lean on my shoulder.
+
+[demo_a3_n13.2096]
+Granny's worried too,{WAIT:000F} so let's go back to the village.
+
+[demo_a3_n13.2268]
+Thank you kindly, so I do.
+
+[demo_a3_n13.2484]
+Ah,{WAIT:000F} Goemon!{WAIT:000F} A great big robot's comin'!
+
+[demo_a3_n13.2678]
+What!?
+
+[demo_a3_n13.2984]
+All right!{WAIT:000F} We'll fight back with Impact!
+
+[demo_a3_n13.3086]
+Save your game?
+
+[demo_a3_n13.3124]
+Yes
+
+[demo_a3_n13.3140]
+No
+
+[demo_a3_n13.3244]
+The save failed.
+
+[demo_a3_n13.3292]
+Saved.
+
+[demo_a3_n13.4384]
+And who,{WAIT:000F} may I ask, are you people?
+
+[demo_a3_n13.4464]
+Do you not know{WAIT:000F} that it is wrong to enter{WAIT:000F} someone's house uninvited?
+
+[demo_a3_n13.4660]
+Who's this fella?
+
+[demo_a3_n13.4758]
+Somebody who ain't{WAIT:000F} the Mr. Goemon Gang showed up.
+
+[demo_a3_n13.4890]
+Who the heck{WAIT:000F} are you?
+
+[demo_a3_n13.4938]
+We're lookin'{WAIT:000F} for the young chief bein' held prisoner here!
+
+[demo_a3_n13.5084]
+Oh!{WAIT:000F} Is this the person you are looking for?
+
+[demo_a3_n13.5520]
+Sis!
+
+[demo_a3_n13.5572]
+Yae... help me, so I beg.
+
+[demo_a3_n13.5682]
+Give Lady Hitoe back!
+
+[demo_a3_n13.5910]
+I said this girl was{WAIT:000F} to be exchanged for the treasure.
+
+[demo_a3_n13.6046]
+Have you brought it as you were told?
+
+[demo_a3_n13.6252]
+Like heck we brought it!
+
+[demo_a3_n13.6326]
+We'll beat you{WAIT:000F} and take the young chief back!
+
+[demo_a3_n13.6454]
+Oh! This is why I do not like the Japanese.
+
+[demo_a3_n13.6544]
+Always,{WAIT:000F} only polite smiles, and never any{WAIT:000F} sincerity.
+
+[demo_a3_n13.6656]
+Peruri is{WAIT:000F} a little angry now.
+
+[demo_a3_n13.6718]
+Gabriel!{WAIT:000F} Defeat these{WAIT:000F} topknotted fools{WAIT:000F} at once!
+

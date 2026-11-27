@@ -1,0 +1,21 @@
+[demo_a2_n8.0784]
+This must be it!{WAIT:000F} This Impact Controller.
+
+[demo_a2_n8.1024]
+Goemon and company got the Impact Controller!
+
+[demo_a2_n8.1134]
+This item works just by having it.
+
+[demo_a2_n8.1352]
+With this, we can rescue the old man.
+
+[demo_a2_n8.1544]
+Goemon,{WAIT:000F} where were we takin' this again?
+
+[demo_a2_n8.1816]
+You really are somethin'!{WAIT:000F} Kawasaki, where Tengu Rock was!
+
+[demo_a2_n8.2040]
+Oh yeah,{WAIT:000F} let's get goin', then.
+

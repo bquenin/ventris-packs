@@ -1,0 +1,27 @@
+[demo_a2_n13.0416]
+What the heck!{WAIT:000F} The Mr. Goemon Gang ain't here!
+
+[demo_a2_n13.0614]
+Come to think of it,{WAIT:000F} I met Lady Yae at the teahouse in Hiratsuka.
+
+[demo_a2_n13.0828]
+She seemed to be chasing some case,{WAIT:000F} and she was in a great hurry.
+
+[demo_a2_n13.0950]
+And she said{WAIT:000F} her home village was in terrible danger.
+
+[demo_a2_n13.1208]
+Is Yae{WAIT:000F} chasin' the Mr. Goemon Gang, then?
+
+[demo_a2_n13.1356]
+Yae's home village is Yui, right.
+
+[demo_a2_n13.1442]
+West along the Tokaido{07:0007}...
+
+[demo_a2_n13.1532]
+First,{WAIT:000F} it would be best to head there.
+
+[demo_a2_n13.1830]
+All right, got it!{WAIT:000F} We're headin' for Yui! Sasuke, Ebisumaru!
+

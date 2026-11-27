@@ -1,0 +1,30 @@
+[demo_a6_n8.1662]
+Uuugh!{WAIT:001E} How many hundreds of years since I last came into this world!{0D}{0A}Was it you who awakened me?
+
+[demo_a6_n8.1864]
+Ain't you{WAIT:000F} one of the Seven Lucky Gods?
+
+[demo_a6_n8.2022]
+Indeed.{WAIT:000F} I am one of the Seven Lucky Gods,{WAIT:000F} Bishamonten.
+
+[demo_a6_n8.2188]
+Bishamonten, could you let us have your Lucky Orb?{0D}{0A}To make Ebisu's power strong again,{WAIT:000F} we need the Lucky Orbs.
+
+[demo_a6_n8.2518]
+We're{WAIT:000F} chasin' a big-time crook called Peruri.{0D}{0A}The bridge got wrecked,{WAIT:000F} and to go after Peruri we need Ebisu's help.
+
+[demo_a6_n8.2896]
+If such is the case,{WAIT:000F} then it cannot be helped.{0D}{0A}Take this with you.
+
+[demo_a6_n8.3132]
+Goemon and company got a Lucky Orb!
+
+[demo_a6_n8.3376]
+That's a big help!{WAIT:000F} We owe ya one,{WAIT:000F} Bishamonten.
+
+[demo_a6_n8.3526]
+It was nothing.{WAIT:000F} Take care on your journey.
+
+[demo_a6_n8.3808]
+All right! That's all of them.{0D}{0A}Let's head back to Ebisu in the town of Fujikawa.
+

@@ -1,0 +1,135 @@
+[demo_a1_n0.01032]
+I see...
+
+[demo_a1_n0.01060]
+So it was the work of a gang that looks just like you lot.
+
+[demo_a1_n0.01238]
+No,{WAIT:001E} they look nothin' like us!{WAIT:000F} Would I have a face like that...
+
+[demo_a1_n0.01438]
+Anyway!{WAIT:001E} Some crooks went and used our names{0D}{0A}and made off with the temple's treasure!
+
+[demo_a1_n0.01680]
+However,{WAIT:001E} if the culprits got away, I, Kinemon,{0D}{0A}cannot simply take you at your word.
+
+[demo_a1_n0.01868]
+You just don't get it, do ya!{WAIT:0032} Like we keep tellin' you,
+
+[demo_a1_n0.01992]
+Please wait!
+
+[demo_a1_n0.02446]
+Hmm...{WAIT:001E} And who might you be?
+
+[demo_a1_n0.02502]
+I am in training at Horohoro Temple.{WAIT:001E} My name is Suzu.
+
+[demo_a1_n0.02630]
+Lord Kinemon,{WAIT:001E} Goemon and his friend are not the culprits.
+
+[demo_a1_n0.02750]
+In fact,{WAIT:001E} they were trying to protect the temple's treasure.
+
+[demo_a1_n0.02872]
+I saw some suspicious people running from the treasure hall in a hurry.
+
+[demo_a1_n0.03100]
+See there?{WAIT:001E} We're innocent, ain't we?
+
+[demo_a1_n0.03226]
+Grrr...!
+
+[demo_a1_n0.03318]
+Get it now?{WAIT:001E} We ain't the culprits.
+
+[demo_a1_n0.03476]
+Grrr...{0D}{0A}Very well.{WAIT:001E} I shall clear you of the charges.
+
+[demo_a1_n0.03596]
+However,{WAIT:001E} only if you catch the real culprits and bring them before me.
+
+[demo_a1_n0.03814]
+Honi!{WAIT:001E} Why do we gotta do that?
+
+[demo_a1_n0.03960]
+Suspicion still hangs over you.{0D}{0A}It is best that you clear your names with your own hands.
+
+[demo_a1_n0.04236]
+Get outta here!{WAIT:001E} All right,{WAIT:001E} we'll catch those crooks for sure!
+
+[demo_a1_n0.04454]
+Goemon,{WAIT:001E} ain't this playin' right into ol' Kin's hands?
+
+[demo_a1_n0.04598]
+Very well. This court is adjourned until the true culprits are caught.
+
+[demo_a1_n0.05554]
+The Downtown Magistraaate!{WAIT:001E} Lord Kinemon Toyamaaa!{WAIT:001E} Now presiiiding!
+
+[demo_a1_n0.05826]
+We shall examine the thefts of Goemon's gang{WAIT:0014} and the disorder in the town.
+
+[demo_a1_n0.06012]
+All of you,{WAIT:0014} raise your heads!
+
+[demo_a1_n0.06244]
+So you are the band of thieves that has the whole town in an uproar?
+
+[demo_a1_n0.06380]
+From the houses of the rich men of Edo,{WAIT:001E} you stole precious heirlooms,{0D}{0A}sent Horohoro Temple notice of your coming crime, and did many more wicked deeds besides.
+
+[demo_a1_n0.06706]
+It is plain from the testimony of witnesses.{WAIT:001E} Do you deny it?
+
+[demo_a1_n0.06902]
+Hmph!{WAIT:001E} We ain't done nothin' wrong!
+
+[demo_a1_n0.07074]
+And I was right in the middle of eatin' my oden!
+
+[demo_a1_n0.07264]
+Oi, oi, oi!{WAIT:001E} I hold my tongue and you get all cocky!
+
+[demo_a1_n0.07362]
+Don't you try playin' dumb with me!
+
+[demo_a1_n0.07470]
+This here cherry blossom tattoo{07:0005}...
+
+[demo_a1_n0.07588]
+Don't you dare tell me you've forgotten it!
+
+[demo_a1_n0.07724]
+What the heck!{WAIT:001E} What's that?
+
+[demo_a1_n0.07826]
+Never seen that before in my life!
+
+[demo_a1_n0.08040]
+Grrrrr!{0D}{0A}Wh-{WAIT:001E}why don't you just give up and confess!{0D}{0A}You might fool the world, but you can't fool me, Kinemon!
+
+[demo_a1_n0.08368]
+What're you talkin' about!{WAIT:001E} Why would I even need to steal{07:0007}...
+
+[demo_a1_n0.08524]
+Silence!{WAIT:001E} You scoundrels!{WAIT:001E}{0D}{0A}Enough talk!{WAIT:001E} These men shall be paraded through the town and then boiled in a cauldron!
+
+[demo_a1_n0.08780]
+Take them away!
+
+[demo_a1_n0.09656]
+In the name of the law! In the name of the law!
+
+[demo_a1_n0.10002]
+Owww, that hurts! Whaddaya think you're doin'!
+
+[demo_a1_n0.10096]
+Ow! Let go! I told ya, we don't know nothin'!
+
+[demo_a1_n0.10230]
+In the name of the law! Give yourselves up!
+
+[demo_a1_n0.10322]
+Case closed!
+

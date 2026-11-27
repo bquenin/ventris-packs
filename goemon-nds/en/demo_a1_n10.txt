@@ -1,0 +1,33 @@
+[demo_a1_n10.0552]
+Oh?{WAIT:001E} What's the matter, Goemon?
+
+[demo_a1_n10.0610]
+Weren't you off to catch these real culprits of yours?
+
+[demo_a1_n10.0736]
+Priest,{WAIT:000F} you got any charms for gettin' rid of yokai?
+
+[demo_a1_n10.0904]
+You need a charm? Whatever is the matter?
+
+[demo_a1_n10.1018]
+Tokutaro's at some weird old hag's place, and it looks like she's a yokai.
+
+[demo_a1_n10.1208]
+Priest, you sealed up that temple with the yokai in it using charms, didn't ya? Give us some of those charms too, won't ya?
+
+[demo_a1_n10.1418]
+I see, I see. Then I'll give you this.
+
+[demo_a1_n10.1634]
+Goemon and Ebisumaru got the Talisman!
+
+[demo_a1_n10.1812]
+Set the Talisman as your item, and hold it up with the X Button right in front of the yokai.
+
+[demo_a1_n10.1956]
+That'll send it running.
+
+[demo_a1_n10.2060]
+Thanks a lot! Priest, I owe ya one.
+

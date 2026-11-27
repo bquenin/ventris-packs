@@ -1,0 +1,48 @@
+[demo_a4_n3.1036]
+......
+
+[demo_a4_n3.1144]
+What?{WAIT:000F} What a weird guy.
+
+[demo_a4_n3.1500]
+......
+
+[demo_a4_n3.1608]
+We ain't suspicious types!
+
+[demo_a4_n3.1696]
+You are the Hyottoko, are you not?{WAIT:000F} Open up and hear what we have to say.
+
+[demo_a4_n3.1872]
+Who are you guys, y'know?{0D}{0A}Haven't seen your faces around here, y'know.
+
+[demo_a4_n3.2026]
+Bro!{WAIT:000F} Don't get fooled, y'know.{0D}{0A}It's the bad guys,{WAIT:000F} come to kidnap us again, y'know.
+
+[demo_a4_n3.2216]
+I know, y'know.{WAIT:000F} I'm not openin' this door for nothin', y'know.
+
+[demo_a4_n3.2390]
+The elder asked us{WAIT:000F} to come here, see.
+
+[demo_a4_n3.2506]
+No way!{WAIT:000F} You won't fool me, y'know.{0D}{0A}There's three shady types who dressed up as villagers and took my little brothers away, y'know,{0D}{0A}so I can't trust nobody anymore, y'know.
+
+[demo_a4_n3.2802]
+Please, Hyottoko,{WAIT:000F} believe us.{0D}{0A}The culprits we're chasing and the ones who kidnapped your brothers{0D}{0A}might be the same.
+
+[demo_a4_n3.3168]
+I can't believe that, y'know.{0D}{0A}If my three brothers that got taken come back, that's another story, y'know.
+
+[demo_a4_n3.3400]
+So we need only rescue your brothers.
+
+[demo_a4_n3.3518]
+This is gettin' us nowhere!{WAIT:000F} We'll go rescue your brothers for ya!
+
+[demo_a4_n3.3740]
+Whaaat!{WAIT:000F} Let's just forget about these guys.
+
+[demo_a4_n3.3862]
+Shut up!{WAIT:000F} Let's go!
+

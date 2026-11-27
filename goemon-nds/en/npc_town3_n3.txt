@@ -1,0 +1,45 @@
+[npc_town3_n3.0540]
+Keep going, all the way to Kyo!
+
+[npc_town3_n3.0660]
+Then without further ado, here's your question!
+
+[npc_town3_n3.0824]
+Oh? Are you a quiz contestant?
+
+[npc_town3_n3.0882]
+Yes
+
+[npc_town3_n3.0898]
+No
+
+[npc_town3_n3.0916]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town3_n3.1148]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town3_n3.1448]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town3_n3.1640]
+Only high-class ninja who have mastered the ninja arts are allowed to live here.
+
+[npc_town3_n3.1840]
+My ninja art is truly amazing. I call it the ninja art of "False Advertising"!{0D}{0A}That battle with the Consumer Center!!{0D}{0A}It was a fierce fight for the history books...
+
+[npc_town3_n3.2230]
+I see...
+
+[npc_town3_n3.2268]
+In the Edo period, mixed bathing was the norm at public baths. True or false?
+
+[npc_town3_n3.2406]
+True
+
+[npc_town3_n3.2420]
+False
+
+[npc_town3_n3.2454]
+Got 50 ryo in prize money!
+

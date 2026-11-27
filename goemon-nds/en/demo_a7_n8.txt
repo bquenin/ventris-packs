@@ -1,0 +1,51 @@
+[demo_a7_n8.0292]
+Aye, that's right.
+
+[demo_a7_n8.0360]
+Hm? What'll we do, then?
+
+[demo_a7_n8.1520]
+Hey!{WAIT:000F} If it ain't Kamohei and Negisaku.{0D}{0A}Did ya get the cargo delivered all right?
+
+[demo_a7_n8.1726]
+Oh, it's ye lot.{WAIT:000F} We're first-rate porters, aye,{0D}{0A}an' a job like this is nothin' to us.
+
+[demo_a7_n8.1904]
+The cargo we had to deliver,{WAIT:000F} we never could find it.{0D}{0A}We told Lord Tengu we'd delivered it,{WAIT:000F} an' left nothin' at all.
+
+[demo_a7_n8.2198]
+Aye, that's right.
+
+[demo_a7_n8.2250]
+I am glad to hear it.
+
+[demo_a7_n8.2284]
+Th-{WAIT:000F}that is not all right!
+
+[demo_a7_n8.2362]
+Since it got there safe,{WAIT:000F} Lord Tengu{WAIT:000F} must be right pleased, aye.
+
+[demo_a7_n8.2500]
+What'll we do...{WAIT:000F} Gettin' scolded by the missus,{WAIT:000F} that's the scariest thing of all.
+
+[demo_a7_n8.2644]
+Aye, that's right.
+
+[demo_a7_n8.2682]
+Goemon,{WAIT:0014} I've been wondering all along...{0D}{0A}the Lord Tengu Kamohei talks about,{WAIT:000F} could he be Peruri?
+
+[demo_a7_n8.2976]
+Oh,{WAIT:0014} that's right. Lord Tengu's a man called Peruri.{0D}{0A}He's a foreigner, aye.
+
+[demo_a7_n8.3222]
+What did you say?!
+
+[demo_a7_n8.3308]
+Come to think of it,{WAIT:000F} he did say he was gonna finish some giant weapon.
+
+[demo_a7_n8.3508]
+The cargo they were carrying was that weapon's head!
+
+[demo_a7_n8.3686]
+He's in here.{WAIT:000F} Let's hurry!
+

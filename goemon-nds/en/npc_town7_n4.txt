@@ -1,0 +1,45 @@
+[npc_town7_n4.0708]
+How about some zenzai, dear~
+
+[npc_town7_n4.0760]
+Kin~ta~ro~ with~ his~ axe~ on~ his~ shoul~der~♪
+
+[npc_town7_n4.0828]
+Gimme New Year's money!!
+
+[npc_town7_n4.0896]
+I wanna see the dawn of Japan!!
+
+[npc_town7_n4.1144]
+Outta the way!! Packed up all our stuff, we're skippin' town tonight!
+
+[npc_town7_n4.1236]
+In Kyo, the wind of Kyo does blow~♪
+
+[npc_town7_n4.1344]
+I can fit my whole fist in my mouth. Pretty amazing, huh?
+
+[npc_town7_n4.1580]
+At my age, a year goes by in the blink of an eye.
+
+[npc_town7_n4.1716]
+Welcome. Our kimonoth are famouth for being expenthive.{0D}{0A}Pleathe do buy thome.
+
+[npc_town7_n4.1888]
+Did ya know folks from Kyo, of everybody in the land, want the least to ever leave Kyo?
+
+[npc_town7_n4.2064]
+"Oi, ya dimwit numbskull! What d'ya think you're doin'?!"{0D}{0A}That's what my teacher used to say all the time back in school.
+
+[npc_town7_n4.2264]
+When I got home a while ago, everything in the house was gone,{0D}{0A}and Pa's gone too. Where'd everybody go, I wonder?
+
+[npc_town7_n4.2492]
+Isn't this kimono lovely? I bought it at the kimono shop over there.{0D}{0A}It was expensive, so it must be good.
+
+[npc_town7_n4.2724]
+My life: groping in the dark, wailing in torment,{0D}{0A}all things passing, a grilled meat set meal.
+
+[npc_town7_n4.2964]
+I am a maiko, dear. I shall sing you a song.{0D}{0A}Hoge~!!♪ Uge~!!♪ Gyabo~!!♪{0D}{0A}Well? Good, isn't it? Oh, you needn't be speechless, it's only my talent.
+

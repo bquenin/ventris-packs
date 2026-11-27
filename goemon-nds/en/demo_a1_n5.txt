@@ -1,0 +1,57 @@
+[demo_a1_n5.1754]
+Hah!{WAIT:001E}{07:0004} Intruders!
+
+[demo_a1_n5.1964]
+Honiii!
+
+[demo_a1_n5.2118]
+Ebisumaru!
+
+[demo_a1_n5.2210]
+Oh! It was you, Goemon?
+
+[demo_a1_n5.2302]
+Get outta here!{WAIT:000F} What's the big idea!
+
+[demo_a1_n5.2416]
+I-{WAIT:000F}I am terribly sorry.
+
+[demo_a1_n5.2574]
+Owowow{07:0008}...!{WAIT:000F}{07:0005} That was mean, outta nowhere!
+
+[demo_a1_n5.2666]
+Just who are you, anyway?
+
+[demo_a1_n5.2810]
+My name is Suzu. I am in training here.
+
+[demo_a1_n5.2964]
+I have heard the rumors about you, Goemon.
+
+[demo_a1_n5.3050]
+Is that so? Looks like we're famous now!
+
+[demo_a1_n5.3146]
+By the way, what brings you to Horohoro Temple today?
+
+[demo_a1_n5.3228]
+Surely not!{WAIT:001E}{07:0004} Have you come to steal the temple's treasure?
+
+[demo_a1_n5.3442]
+Hey, hey!{WAIT:000F} We came to catch the real culprits.
+
+[demo_a1_n5.3586]
+I see.{WAIT:000F} Forgive me for jumping to conclusions.
+
+[demo_a1_n5.3760]
+I wanna explain what's goin' on, but{WAIT:000F} where's the head priest?
+
+[demo_a1_n5.3904]
+The head priest should be here somewhere{07:0008}...{07:0005}{0D}{0A}I expect he is hiding somewhere,{WAIT:000F} playing as he always does.
+
+[demo_a1_n5.4116]
+He's somewhere in this temple, then?
+
+[demo_a1_n5.4192]
+Can't be helped.{WAIT:000F} Let's go find the priest.
+

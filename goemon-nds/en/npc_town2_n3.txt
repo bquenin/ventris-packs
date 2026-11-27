@@ -1,0 +1,18 @@
+[npc_town2_n3.0402]
+What would you get out of a fortune reading in this house, I wonder?
+
+[npc_town2_n3.0534]
+What would you get out of a fortune reading in this house, I wonder?
+
+[npc_town2_n3.0644]
+Tenguuu!!
+
+[npc_town2_n3.0706]
+I've been coming here for 40 years. Not once have I solved the mystery.
+
+[npc_town2_n3.0880]
+I've been coming here for 40 years. Not once have I solved the mystery.
+
+[npc_town2_n3.1032]
+I-it's a tenguuu!
+

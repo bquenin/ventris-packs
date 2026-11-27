@@ -1,0 +1,42 @@
+[npc_town5_n2.0448]
+No one gets through here, ever!
+
+[npc_town5_n2.0620]
+Breaking through a checkpoint is a serious crime, so watch yourself.
+
+[npc_town5_n2.0860]
+They're so strict here, they won't let anyone through.
+
+[npc_town5_n2.1004]
+I'm in trouble! I gotta deliver this load, and they won't let me through!
+
+[npc_town5_n2.1152]
+The strangest festival under heaven, the Mitsuke Tenjin Naked Festival. Wanna join in?
+
+[npc_town5_n2.1336]
+Huh, what's this? What does it say?{0D}{0A}"Closed for a while, as I'm not in the mood. -- Your Lord"{0D}{0A}Is that even allowed?!
+
+[npc_town5_n2.1564]
+I am training day after day for my coming duel on Ganryu Island.{0D}{0A}Do not disturb me.
+
+[npc_town5_n2.1808]
+Whose mansion is this, you ask? Why, that's obvious.{0D}{0A}.{0D}{0A}..{0D}{0A}...{0D}{0A}Whose mansion am I guardin', anyhow?
+
+[npc_town5_n2.2146]
+Ah, now that's cleared up. Thanks for tellin' me.
+
+[npc_town5_n2.2262]
+Thanks for tellin' me, that helped.
+
+[npc_town5_n2.2340]
+Guess I'll apologize after all.
+
+[npc_town5_n2.2404]
+What?! That's a plow ox?{0D}{0A}I was awful to Tome.{0D}{0A}I'll go and apologize, I guess.
+
+[npc_town5_n2.2640]
+Whaddaya want? I just had a fight and I'm in a bad mood!
+
+[npc_town5_n2.2736]
+Honestly, that nitwit...
+

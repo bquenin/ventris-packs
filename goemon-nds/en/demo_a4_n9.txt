@@ -1,0 +1,36 @@
+[demo_a4_n9.1192]
+You saved me, y'know.{WAIT:000F} Dunno who you are, but thanks, y'know.
+
+[demo_a4_n9.1320]
+I am glad we found you.
+
+[demo_a4_n9.1472]
+A tengu dressed up as a townsman put me to sleep,{0D}{0A}and when I woke up,{WAIT:001E} I was locked in this cave, y'know.
+
+[demo_a4_n9.1748]
+Phew,{WAIT:001E} that was scary, y'know.
+
+[demo_a4_n9.1818]
+Hurry back to your brothers.{WAIT:001E} Everyone's worried.
+
+[demo_a4_n9.2044]
+Thanks, y'know.{WAIT:001E} I'll be off, then, y'know.
+
+[demo_a4_n9.2340]
+That's all the kidnapped Hyottoko rescued.
+
+[demo_a4_n9.2586]
+And yet{07:000A}...{07:0003}{WAIT:000F} why were they kidnapped?
+
+[demo_a4_n9.2714]
+Maybe they know some weak spot{WAIT:000F} of this Tengu Peruri fella?
+
+[demo_a4_n9.2860]
+Anyway,{WAIT:000F} let's go back to town and hear what the Hyottoko have to say.
+
+[demo_a4_n9.3006]
+He said he'd talk if we rescued all his brothers, didn't he?
+
+[demo_a4_n9.3160]
+That's right.{WAIT:001E} So,{WAIT:000F} let's head back to the town of Ejiri.
+

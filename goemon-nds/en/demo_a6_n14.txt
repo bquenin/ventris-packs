@@ -1,0 +1,36 @@
+[demo_a6_n14.0550]
+Crossing to the other side?
+
+[demo_a6_n14.0622]
+Yes
+
+[demo_a6_n14.0638]
+No
+
+[demo_a6_n14.0714]
+Crossing to the other side?
+
+[demo_a6_n14.0786]
+Yes
+
+[demo_a6_n14.0802]
+No
+
+[demo_a6_n14.2180]
+It's still broke,{WAIT:000F} we can't cross like this, Goemon.{0D}{0A}Ya think we{WAIT:000F} got swindled?
+
+[demo_a6_n14.2360]
+That's weird.{WAIT:000F} He said he'd make it so we could cross.
+
+[demo_a6_n14.2518]
+Goemon, sir!{WAIT:000F} Look at that!
+
+[demo_a6_n14.2754]
+A flying ship!
+
+[demo_a6_n14.2864]
+Goemon and company,{WAIT:000F} get aboard.
+
+[demo_a6_n14.2956]
+Whoa!{WAIT:000F} So this ship's gonna take us across.{0D}{0A}Let's go, everybody!
+

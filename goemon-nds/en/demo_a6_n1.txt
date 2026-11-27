@@ -1,0 +1,69 @@
+[demo_a6_n1.1120]
+Phew. We beat it, somehow.
+
+[demo_a6_n1.1182]
+Peruri said he was heading for Kyo.
+
+[demo_a6_n1.1294]
+So the last Sacred Treasure is in Kyo.{WAIT:000F} Let's hurry to Kyo.
+
+[demo_a6_n1.1510]
+Goemon,{WAIT:000F} I'm starvin'.{0D}{0A}We ain't eaten in forever.
+
+[demo_a6_n1.1794]
+Shut it!{WAIT:000F} The whole country's in trouble right now!{0D}{0A}Hold out till we get to Kyo!
+
+[demo_a6_n1.2116]
+That's cruel.{WAIT:000F} When we get to Kyo,{WAIT:000F} feed me somethin', okay?
+
+[demo_a6_n1.3140]
+Oh!{WAIT:000F} Now you cannot follow me anymore.
+
+[demo_a6_n1.3282]
+The bridge!
+
+[demo_a6_n1.3332]
+And so, goodbye!
+
+[demo_a6_n1.3662]
+Get back here!{WAIT:000F} You rotten so-and-so!
+
+[demo_a6_n1.3784]
+Now that it's like this,{WAIT:001E} there's no gettin' across.
+
+[demo_a6_n1.3940]
+Even my arts cannot leap that far.
+
+[demo_a6_n1.4174]
+Maybe we need to come up with a plan in town{07:000A}...{07:0004}{0D}{0A}The town of Fujikawa is nearby. Let's find out if there's a way across the bridge.
+
+[demo_a6_n1.4572]
+Guess you're right.{WAIT:001E} Let's head for town, then.
+
+[demo_a6_n1.5790]
+Hey!{WAIT:001E} Cornered you at last, you tengu creep!
+
+[demo_a6_n1.6220]
+You!{WAIT:001E} Give back the treasures you stole from us.
+
+[demo_a6_n1.6438]
+Using the weak to gather them,{WAIT:000F} that is cowardly!
+
+[demo_a6_n1.6644]
+I do not understand Japanese.
+
+[demo_a6_n1.6764]
+You've been talkin' with us this whole time!
+
+[demo_a6_n1.6936]
+Gathering the Three Sacred Treasures,{WAIT:000F} what are you planning to do?!
+
+[demo_a6_n1.7094]
+I have heard that with the Three Sacred Treasures,{WAIT:000F} one can take over Japan!{0D}{0A}All of it will belong to me, Peruri.
+
+[demo_a6_n1.7402]
+Get outta here!{WAIT:001E} Like we'd let you have your way!
+
+[demo_a6_n1.7500]
+The Japanese have a very stubborn character, I see.{0D}{0A}I do not wish to see you anymore, so please do not follow me.
+

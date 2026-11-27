@@ -1,0 +1,69 @@
+[npc_town5_n3.0756]
+Keep going, all the way to Kyo!
+
+[npc_town5_n3.0816]
+Then without further ado, here's your question!
+
+[npc_town5_n3.1064]
+Oh? Are you a quiz contestant?
+
+[npc_town5_n3.1122]
+Yes
+
+[npc_town5_n3.1138]
+No
+
+[npc_town5_n3.1168]
+I got off the boat, so why am I still wobbly?
+
+[npc_town5_n3.1256]
+Correct!!{0D}{0A}Keep it up for the next one.
+
+[npc_town5_n3.1500]
+In here's the captain's cabin. Being a captain sure is cool.
+
+[npc_town5_n3.1632]
+Quiz contestants, please pass the previous checkpoint before coming here.
+
+[npc_town5_n3.1932]
+Too bad!! Wrong answer!!{0D}{0A}Try not to get it wrong at the next checkpoint.
+
+[npc_town5_n3.2124]
+Wow, so many boats.{0D}{0A}Are these boats going off to find new lands, like Portugal and Spain?
+
+[npc_town5_n3.2312]
+Honestly, those sailors should quit drinkin' all the time{0D}{0A}and help unload the cargo.
+
+[npc_town5_n3.2504]
+The nearest ship, there was a weird guy inside a minute ago.{0D}{0A}I bet it's a smuggling ship.
+
+[npc_town5_n3.2708]
+Huh? Why are there so many drunks around here?{0D}{0A}Go ask whoever put us here.{0D}{0A}Ain't like anybody could do this job sober, anyway.
+
+[npc_town5_n3.3022]
+Ah, men of the sea sure are cool.
+
+[npc_town5_n3.3110]
+From today, I'm an Edo Ranger too!
+
+[npc_town5_n3.3180]
+The Sea Squadron! The Sea Rangers! How's that sound?{0D}{0A}What? In Edo there's something called the "Edo Rangers"?{0D}{0A}That sounds really cool...
+
+[npc_town5_n3.3398]
+A new Edo Ranger joined!!{0D}{0A}
+
+[npc_town5_n3.3586]
+I see...
+
+[npc_town5_n3.3624]
+In the Edo period, what was running with the right hand and right foot forward together called?
+
+[npc_town5_n3.3842]
+Namba
+
+[npc_town5_n3.3860]
+Edo
+
+[npc_town5_n3.3896]
+Got 100 ryo in prize money!
+

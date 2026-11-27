@@ -1,0 +1,42 @@
+[npc_town7_in.0584]
+Welcome, do come in~
+
+[npc_town7_in.0640]
+These dumplings are tasty, y'know!
+
+[npc_town7_in.0772]
+Pa... I'm cold... I'm hungry...
+
+[npc_town7_in.1068]
+"Tessa" means sliced raw blowfish.{0D}{0A}That springy bite, it's just irresistible.
+
+[npc_town7_in.1216]
+My, what filthy clothes you're wearing.{0D}{0A}Do buy something here.
+
+[npc_town7_in.1376]
+When they say "Stay and have some rice in tea," it means "Go home already."
+
+[npc_town7_in.1552]
+You came from Edo! My, you've come a long way.{0D}{0A}Now, do stay and have some rice in tea.
+
+[npc_town7_in.1768]
+Just like the tengu foreigner, the magistrate has moved here too.{0D}{0A}This town's gotten lively.
+
+[npc_town7_in.2020]
+Houses you thought were empty sometimes hold a secret.{0D}{0A}A GBA classic! Plugging in Goemon might be the key to the secret.
+
+[npc_town7_in.2304]
+In this town lives a very famous ukiyo-e painter.{0D}{0A}He lived near the building the tengu foreigner put up.
+
+[npc_town7_in.2596]
+Did you know? If you touch certain spots on the road,{0D}{0A}an elephant with soft-serve ice cream on its head comes out.{0D}{0A}They say something happens if you find them all.
+
+[npc_town7_in.2948]
+Somebody went and put up a building in Kyo that doesn't suit the town at all.{0D}{0A}A foreigner wearing a tengu mask, it was.{0D}{0A}He ought to give some thought to the look of Kyo, he ought.
+
+[npc_town7_in.3328]
+I'm Utagawa Toyohiro, of the Utagawa school, the biggest in the ukiyo-e world.{0D}{0A}Someone who wants to be my apprentice is coming, but he's late.{0D}{0A}I've even thought up the name Hiroshige for when he joins. What's he doing?
+
+[npc_town7_in.3816]
+This is the western end of the Tokaido.{0D}{0A}It's 126 ri from Edo. About two weeks on foot.{0D}{0A}The couriers run it in relays, Edo to Kyo, in 4 days.{0D}{0A}Amazing, isn't it? The very first relay marathon.
+

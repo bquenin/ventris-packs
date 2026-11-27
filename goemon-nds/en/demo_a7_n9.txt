@@ -1,0 +1,126 @@
+[demo_a7_n9.1148]
+Oh!{WAIT:0014} You people.{WAIT:000F} You have come at just the right time.{0D}{0A}There is something I wish to show you.
+
+[demo_a7_n9.1360]
+Runnin' off again and again!{WAIT:000F} Give it up already!
+
+[demo_a7_n9.1490]
+The head of this giant weapon{WAIT:000F} has just arrived, you see.{0D}{0A}Please stay{WAIT:000F} and watch it be completed.
+
+[demo_a7_n9.1840]
+Oh, yeah!{WAIT:000F} It is beautiful.{0D}{0A}That splendid nose,{WAIT:000F} that shine.{WAIT:000F} It is eccentric.
+
+[demo_a7_n9.2054]
+Is this the giant weapon you were talking about?
+
+[demo_a7_n9.2154]
+Now I can confess it:{WAIT:0014} yes, it is.{0D}{0A}With the power of this giant weapon,{WAIT:0014} one country, or two,{0D}{0A}can easily{WAIT:000F} be destroyed.
+
+[demo_a7_n9.2504]
+Without all Three Sacred Treasures,{WAIT:000F} it cannot use that power!
+
+[demo_a7_n9.2666]
+Thank you for your concern.{0D}{0A}I{WAIT:000F} have obtained all the treasures.{0D}{0A}And the head has arrived,{WAIT:000F} so it is perfect.
+
+[demo_a7_n9.2908]
+What!{WAIT:000F} You got all the treasures?!
+
+[demo_a7_n9.3040]
+I received it from the Otafuku sister{WAIT:000F} in the next room.{0D}{0A}She is sleeping peacefully now.
+
+[demo_a7_n9.3256]
+Like anybody'd hand it over that easy!
+
+[demo_a7_n9.3346]
+And so, I, Peruri, shall take my leave.
+
+[demo_a7_n9.3438]
+Oh!{WAIT:000F} The nose is short!{WAIT:000F} Did it break?{0D}{0A}Such a lovely face, and now it is ruined.
+
+[demo_a7_n9.3640]
+Is this the giant weapon you were talking about?
+
+[demo_a7_n9.3740]
+Now I can confess it:{WAIT:0014} yes, it is.{0D}{0A}With the power{WAIT:000F} of this giant weapon, one country,{WAIT:000F} or two,{0D}{0A}can easily{WAIT:000F} be destroyed.
+
+[demo_a7_n9.4096]
+Without all Three Sacred Treasures,{WAIT:000F} it cannot use that power!
+
+[demo_a7_n9.4258]
+Thank you for your concern.{0D}{0A}I{WAIT:000F} have obtained all the treasures.{0D}{0A}And the head has arrived,{WAIT:000F} so it is perfect.
+
+[demo_a7_n9.4500]
+What! You got all the treasures?!
+
+[demo_a7_n9.4628]
+I received it from the Otafuku sister{WAIT:000F} in the next room.{0D}{0A}She is sleeping peacefully now.
+
+[demo_a7_n9.4844]
+Like anybody'd hand it over that easy!
+
+[demo_a7_n9.4934]
+And so, I, Peruri, shall take my leave.
+
+[demo_a7_n9.5026]
+Hm?{WAIT:0014} Where did the head go?{0D}{0A}The lovely head,{WAIT:000F} with the splendid nose,{WAIT:000F} where is it?
+
+[demo_a7_n9.5254]
+Is this the giant weapon you were talking about?
+
+[demo_a7_n9.5354]
+Now I can confess it:{WAIT:0014} yes, it is.{0D}{0A}With the power{WAIT:000F} of this giant weapon,{WAIT:000F} one country, or two,{0D}{0A}could easily{WAIT:000F} be destroyed, or so it should be{07:000A}...
+
+[demo_a7_n9.5732]
+Without all Three Sacred Treasures,{WAIT:000F} it cannot use that power!
+
+[demo_a7_n9.5894]
+Thank you for your concern.{0D}{0A}I{WAIT:000F} have obtained all the treasures.{0D}{0A}But the head has gone off somewhere{07:000A}...
+
+[demo_a7_n9.6124]
+What!{WAIT:000F} You got all the treasures?!
+
+[demo_a7_n9.6256]
+I received it from the Otafuku sister in the next room.{0D}{0A}She is sleeping peacefully now.
+
+[demo_a7_n9.6466]
+Like anybody'd hand it over that easy!
+
+[demo_a7_n9.6556]
+Even without a head,{WAIT:000F} this giant weapon's power{WAIT:000F} is mighty.{0D}{0A}It cannot be helped, so I shall launch it as it is.
+
+[demo_a7_n9.6824]
+Oh! No!{WAIT:000F} What is this!{WAIT:000F} What is it!{0D}{0A}The head I, Peruri, ordered,{WAIT:000F} where did it go?
+
+[demo_a7_n9.7048]
+Is this the giant weapon you were talking about?
+
+[demo_a7_n9.7148]
+How rude!{WAIT:000F} I, Peruri, did not order such a thing!{0D}{0A}With this, it cannot use its invincible power!
+
+[demo_a7_n9.7340]
+Then if we obtain the Three Sacred Treasures,{0D}{0A}that giant weapon is as good as junk.
+
+[demo_a7_n9.7578]
+Nooo{07:000A}...{07:0005}{WAIT:000F} Peruri is sad{07:000A}...{0D}{0A}{07:0005}But{WAIT:000F} I have obtained{WAIT:000F} all the treasures.
+
+[demo_a7_n9.7778]
+What!{WAIT:000F} You got all the treasures?!
+
+[demo_a7_n9.7910]
+I received it from the Otafuku sister in the next room.{0D}{0A}She is sleeping peacefully now.
+
+[demo_a7_n9.8120]
+Like anybody'd hand it over that easy!
+
+[demo_a7_n9.8214]
+Nooo{07:000A}...{07:0005}{WAIT:000F} Peruri is so sad,{WAIT:000F} the tears are pouring.{0D}{0A}I cannot bear to look,{WAIT:000F} so I am going home.
+
+[demo_a7_n9.8448]
+Get back here!
+
+[demo_a7_n9.8674]
+Dammit,{WAIT:000F} he got away again!
+
+[demo_a7_n9.8752]
+Let us go ask the Otafuku sister in the next room{WAIT:000F} what happened.
+

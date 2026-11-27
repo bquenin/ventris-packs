@@ -1,0 +1,48 @@
+[demo_a2_n7.0886]
+Goemon, sir!!
+
+[demo_a2_n7.1220]
+Oh!{WAIT:000F} If it ain't Sasuke!
+
+[demo_a2_n7.1348]
+Must be nice!{WAIT:000F} Sittin' around sippin' tea in a place like this.
+
+[demo_a2_n7.1484]
+Goemon,{WAIT:000F} I want some dumplings too!
+
+[demo_a2_n7.1646]
+Never mind that!{WAIT:000F} The old man has gone missing!
+
+[demo_a2_n7.1806]
+Where he has gone,{WAIT:000F} no one knows. There is no word of him at all.
+
+[demo_a2_n7.1926]
+The old man's in the town of Kanagawa.{WAIT:000F} He's been caught, though.
+
+[demo_a2_n7.2140]
+Wh-what did you say!{WAIT:000F} We must hurry and rescue him!
+
+[demo_a2_n7.2272]
+Hey, hey,{WAIT:000F} calm down.{0D}{0A}We came all this way to rescue him.
+
+[demo_a2_n7.2438]
+The old man asked us to come fetch something he left{WAIT:000F} in this cave,{0D}{0A}this Impact Controller thing.
+
+[demo_a2_n7.2638]
+Is that so.
+
+[demo_a2_n7.2688]
+That's right!{0D}{0A}With that controller, we can rescue the old guy.
+
+[demo_a2_n7.2884]
+In that case, I shall accompany you.
+
+[demo_a2_n7.3028]
+With you on our side, Sasuke,{WAIT:000F} I feel a whole lot better.
+
+[demo_a2_n7.3164]
+The entrance to the cave ahead{WAIT:000F} is blocked by a big rock.{0D}{0A}You may blow it away with my firework bombs.
+
+[demo_a2_n7.3608]
+All right,{WAIT:000F} let's all go!
+

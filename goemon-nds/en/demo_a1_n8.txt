@@ -1,0 +1,21 @@
+[demo_a1_n8.0362]
+Phew{07:0008}...{WAIT:001E}{07:0004} We managed to beat it.
+
+[demo_a1_n8.0462]
+Never seen a monster that big before!
+
+[demo_a1_n8.0622]
+More importantly, where'd those weirdos{WAIT:000F} get to?
+
+[demo_a1_n8.0756]
+Huh, they ran off ages ago.{0D}{0A}Quick on their feet, those guys,{WAIT:001E} I tell ya.
+
+[demo_a1_n8.0948]
+Dammit!{WAIT:001E} They made off with the treasure!
+
+[demo_a1_n8.1068]
+Can't be helped. Well, at least we know who the culprits are,{0D}{0A}so shall we head back to ol' Kin?{WAIT:001E} Goemon.
+
+[demo_a1_n8.1274]
+Guess so.{WAIT:001E} We'll tell Kin what happened and make him see sense.
+

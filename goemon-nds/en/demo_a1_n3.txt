@@ -1,0 +1,6 @@
+[demo_a1_n3.602]
+Goemon and Ebisumaru got their weapons!
+
+[demo_a1_n3.706]
+Hold the L Button and press left or right to switch weapons.{0D}{0A}Press the Y Button to use them.
+

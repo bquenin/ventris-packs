@@ -1,0 +1,60 @@
+[npc_town3_n2.0596]
+I'm starviiing...
+
+[npc_town3_n2.0812]
+Okaaay. Time for the human cannonball!
+
+[npc_town3_n2.0904]
+Up ahead is the elder's house.
+
+[npc_town3_n2.1124]
+They say Hattori Hanzo, chief of the Iga ninja, once had his own ninja squads{0D}{0A}go on strike against him.
+
+[npc_town3_n2.1376]
+Hah, an intruder!? No, my mistake. I beg your pardon.{0D}{0A}You looked like that target there, and I nearly threw a shuriken.
+
+[npc_town3_n2.1636]
+You might not think it to look at me, but in my day I was as stealthy as a spy.{0D}{0A}These days, lurking by the roadside like this is the best I can manage.
+
+[npc_town3_n2.1896]
+Sigh, I finally became a red ninja like I always dreamed,{0D}{0A}but the oxen chase me and the enemy spots me, I fail at everything...{0D}{0A}Sigh, what am I doing wrong?
+
+[npc_town3_n2.2192]
+A true ninja must always keep the three teachings.{0D}{0A}Don't push, don't run, don't talk.{0D}{0A}Keep those, and your evacuation drills will be perfect too.
+
+[npc_town3_n2.2532]
+That old man there told me a ninja has three teachings.{0D}{0A}See no evil, hear no evil, speak no evil.{0D}{0A}Keep those, he says, and you could even beat the monkeys of Nikko Toshogu.
+
+[npc_town3_n2.2896]
+What is it? I'm twaining in the ninja art of "Child's Play" wight now.{0D}{0A}Any time there's somebody you want to twist like a baby's arm, just say so. It's not much use, but I'll help.
+
+[npc_town3_n2.3260]
+Go down from this end and you reach the common quarter, where ordinary ninja live.{0D}{0A}Go down from the far end and you reach the upper quarter, where high-class ninja live.
+
+[npc_town3_n2.3636]
+This is Yui, the ninja village. But we're on high alert now,{0D}{0A}and everyone must carry shuriken,{0D}{0A}so mind you don't get mistaken for a target.
+
+[npc_town3_n2.4030]
+The Ninja Squadron, the Ninja Rangers, are here!! Pretty cool, huh?
+
+[npc_town3_n2.4156]
+From today, I'm an Edo Ranger too!
+
+[npc_town3_n2.4226]
+The Ninja Squadron, the Ninja Rangers, are here!! Pretty cool, huh?{0D}{0A}What? In Edo there's something called the "Edo Rangers"?{0D}{0A}That sounds really cool...
+
+[npc_town3_n2.4466]
+A new Edo Ranger joined!!{0D}{0A}
+
+[npc_town3_n2.4606]
+Ninja art: "Filial Devotion!" Hah!!{0D}{0A}Hmm, no good. Something's still missing...
+
+[npc_town3_n2.4774]
+Ninja art: "Filial Devotion!" Hah!!{0D}{0A}Hmm, no good. Something's still missing...
+
+[npc_town3_n2.4928]
+What? Father wants to know if I'm safe? As you can see, I am quite safe.{0D}{0A}When I have mastered the ninja art of "Filial Devotion" I shall return to Edo, so tell him to wait a little longer.
+
+[npc_town3_n2.5262]
+Found the second son!!{0D}{0A}
+

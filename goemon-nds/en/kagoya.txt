@@ -1,0 +1,84 @@
+[kagoya.0546]
+Save your game?
+
+[kagoya.0580]
+Yes
+
+[kagoya.0596]
+No
+
+[kagoya.0700]
+The save failed.
+
+[kagoya.0748]
+Saved.
+
+[kagoya.0894]
+Save your game?
+
+[kagoya.0928]
+Yes
+
+[kagoya.0944]
+No
+
+[kagoya.1048]
+The save failed.
+
+[kagoya.1096]
+Saved.
+
+[kagoya.1254]
+Save your game?
+
+[kagoya.1288]
+Yes
+
+[kagoya.1304]
+No
+
+[kagoya.1408]
+The save failed.
+
+[kagoya.1456]
+Saved.
+
+[kagoya.1614]
+Save your game?
+
+[kagoya.1648]
+Yes
+
+[kagoya.1664]
+No
+
+[kagoya.1768]
+The save failed.
+
+[kagoya.1816]
+Saved.
+
+[kagoya.1956]
+Wanna ride?
+
+[kagoya.1988]
+Yes
+
+[kagoya.2004]
+No
+
+[kagoya.2034]
+Suit yourself...
+
+[kagoya.2062]
+Where d'ya wanna go? (Choose with left and right on the +Control Pad)
+
+[kagoya.2230]
+What? Changed your mind?
+
+[kagoya.2266]
+Hold on tight, now!
+
+[kagoya.2464]
+Hey, now! We ain't open yet.
+

@@ -1,0 +1,39 @@
+[demo_a4_n8.1158]
+You saved me, you did.{0D}{0A}I dunno who you are,{WAIT:000F} but fank you, I do.
+
+[demo_a4_n8.1304]
+Kidnapping even a little kid like this{07:000A}...{07:0004}{0D}{0A}what a horrible man,{WAIT:000F} this Tengu Peruri.
+
+[demo_a4_n8.1486]
+A man I didn't know said he'd{WAIT:000F} give me a candy,{0D}{0A}so I went wiv the man.{0D}{0A}And then{WAIT:000F} I got tied up here. It was scawy.
+
+[demo_a4_n8.1764]
+You mustn't go off with strange men, now.
+
+[demo_a4_n8.1858]
+From now on,{WAIT:000F} you be real careful around strangers, y'hear.
+
+[demo_a4_n8.2034]
+Okay, I will.{WAIT:000F} Well,{WAIT:000F} I'm going home now.
+
+[demo_a4_n8.2322]
+Is it okay to let him go home alone{07:000A}...?
+
+[demo_a4_n8.2508]
+That's all the kidnapped Hyottoko rescued.
+
+[demo_a4_n8.2754]
+And yet{07:000A}...{07:0003}{WAIT:000F} why were they kidnapped?
+
+[demo_a4_n8.2882]
+Maybe they know some weak spot{WAIT:000F} of this Tengu Peruri fella?
+
+[demo_a4_n8.3028]
+Anyway,{WAIT:000F} let's go back to town and hear what the Hyottoko have to say.
+
+[demo_a4_n8.3174]
+He said he'd talk if we rescued all his brothers, didn't he?
+
+[demo_a4_n8.3328]
+That's right.{WAIT:001E} So,{WAIT:000F} let's head back to the town of Ejiri.
+

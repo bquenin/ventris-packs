@@ -1,0 +1,54 @@
+[demo_a2_n11.0624]
+Oh!{WAIT:000F} Well done, Goemon.
+
+[demo_a2_n11.0972]
+Old man,{WAIT:000F} I am glad you are safe.
+
+[demo_a2_n11.1054]
+Oh, Sasuke.{WAIT:000F} You came looking for me.
+
+[demo_a2_n11.1154]
+Honestly,{WAIT:000F} get a grip, will ya.
+
+[demo_a2_n11.1224]
+Just as I thought,{WAIT:000F} the townspeople were being controlled.{0D}{0A}What's in this town is a branch of the Tengu cult; I hear their headquarters is in Hodogaya.
+
+[demo_a2_n11.1516]
+So then,{WAIT:000F} is the Mr. Goemon Gang there too?
+
+[demo_a2_n11.1636]
+What's that?{WAIT:000F} This Mr. Goemon Gang?
+
+[demo_a2_n11.1728]
+Some shady types we're chasin' right now,{WAIT:000F} that's who.
+
+[demo_a2_n11.1842]
+To reach the cult's headquarters,{WAIT:000F} you must cross the rope bridge at Totsuka,{0D}{0A}but someone has broken it,{WAIT:000F} and it's no use to anyone.
+
+[demo_a2_n11.2126]
+We can't get across!{WAIT:000F} Now that's a problem.
+
+[demo_a2_n11.2220]
+I thought this might happen,{WAIT:000F} so I gave Sasuke a new feature.
+
+[demo_a2_n11.2494]
+Wh-without my knowing!
+
+[demo_a2_n11.2688]
+Let's see....{WAIT:000F} Oh dear, it seems it was broken.
+
+[demo_a2_n11.2784]
+There! That ought to work now.
+
+[demo_a2_n11.2936]
+Got the Sasuke Balloon!
+
+[demo_a2_n11.3028]
+Hold the L Button and press the +Control Pad to switch weapons.{0D}{0A}With the Sasuke Balloon equipped, you can make a big jump.
+
+[demo_a2_n11.3440]
+Somehow, without my knowing{07:0007}...{07:0003}{WAIT:000F} Alas, alas.
+
+[demo_a2_n11.3722]
+All right!{WAIT:000F} Let's head for the Tengu cult's headquarters in Hodogaya.
+

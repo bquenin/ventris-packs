@@ -1,0 +1,380 @@
+[system.02720]
+Copy it where?
+
+[system.02760]
+There is no data.
+
+[system.02800]
+The data was copied.
+
+[system.02844]
+Which data will you copy?
+
+[system.02944]
+Clear data saved.
+
+[system.03000]
+Save your clear data?
+
+[system.03056]
+Which diary will you continue?
+
+[system.03116]
+Saved.
+
+[system.03176]
+An error occurred.
+
+[system.03236]
+Write in your Travel Diary?
+
+[system.03300]
+The data was erased.
+
+[system.03364]
+You wrote in your Travel Diary.
+
+[system.03428]
+The save failed.
+
+[system.03492]
+Sending data...
+
+[system.03556]
+Sending complete.
+
+[system.03624]
+Are you sure you want to quit?
+
+[system.03692]
+Which data will you erase?
+
+[system.03760]
+This will overwrite it. Is that all right?
+
+[system.03828]
+Waiting for downloads...
+
+[system.03900]
+Ending the mini-game giveaway.
+
+[system.03976]
+Continue from the boss battle?
+
+[system.04052]
+Sending failed.
+
+[system.04128]
+Start a new game?
+
+[system.04208]
+Sending was cancelled.
+
+[system.04288]
+Start from where you saved?
+
+[system.04372]
+Are you sure you want to erase it?
+
+[system.04460]
+Downloads were cancelled.
+
+[system.04552]
+Now at Hara!
+31 ri from Edo!
+
+[system.04644]
+Now at Miya!
+89 ri from Edo!
+
+[system.04736]
+DS Wireless Communications
+cannot be used.
+
+[system.04828]
+Now at Goyu!
+76 ri from Edo!
+
+[system.04924]
+Now at Seki!
+106 ri from Edo!
+
+[system.05020]
+The data was lost,
+so it has been reset.
+
+[system.05116]
+Now at Numazu!
+30 ri from Edo!
+
+[system.05212]
+Now at Okitsu!
+40 ri from Edo!
+
+[system.05308]
+Now at Okabe!
+48 ri from Edo!
+
+[system.05404]
+Now at Shimada!
+52 ri from Edo!
+
+[system.05500]
+Now at Kanaya!
+53 ri from Edo!
+
+[system.05596]
+Now at Mitsuke!
+60 ri from Edo!
+
+[system.05692]
+Now at Arai!
+68 ri from Edo!
+
+[system.05788]
+Now at Yoshida!
+73 ri from Edo!
+
+[system.05884]
+Now at Narumi!
+87 ri from Edo!
+
+[system.05980]
+Now at Kuwana!
+96 ri from Edo!
+
+[system.06076]
+Now at Mariko!
+46 ri from Edo!
+
+[system.06172]
+Now at Kyo!
+126 ri from Edo!
+
+[system.06268]
+Now at Hagure Town!
+0 ri from Edo!
+
+[system.06364]
+Now at Shinagawa!
+2 ri from Edo!
+
+[system.06460]
+Now at Kawasaki!
+4 ri from Edo!
+
+[system.06556]
+Now at Fujisawa!
+12 ri from Edo!
+
+[system.06656]
+Now at Kanbara!
+37 ri from Edo!
+
+[system.06756]
+Now at Fujieda!
+50 ri from Edo!
+
+[system.06856]
+Now at Fukuroi!
+59 ri from Edo!
+
+[system.06956]
+Now at Hamamatsu!
+64 ri from Edo!
+
+[system.07056]
+Now at Maisaka!
+66 ri from Edo!
+
+[system.07156]
+Now at Futagawa!
+72 ri from Edo!
+
+[system.07256]
+Now at Akasaka!
+77 ri from Edo!
+
+[system.07356]
+Now at Fujikawa!
+78 ri from Edo!
+
+[system.07456]
+Now at Okazaki!
+81 ri from Edo!
+
+[system.07556]
+Now at Ishibe!
+116 ri from Edo!
+
+[system.07656]
+Now at Kanagawa!
+7 ri from Edo!
+
+[system.07756]
+Now at Shirasuka!
+70 ri from Edo!
+
+[system.07856]
+Now at Chiryu!
+84 ri from Edo!
+
+[system.07956]
+Now at Shono!
+102 and a half ri from Edo!
+
+[system.08056]
+Now at Kameyama!
+104 ri from Edo!
+
+[system.08156]
+Now at Tsuchiyama!
+110 ri from Edo!
+
+[system.08256]
+Now at Minakuchi!
+113 ri from Edo!
+
+[system.08356]
+Now at Nihonbashi!
+0 ri from Edo!
+
+[system.08456]
+Now at Yokkaichi!
+99 ri from Edo!
+
+[system.08560]
+Now at Sakanoshita!
+108 ri from Edo!
+
+[system.08664]
+Now at Ishiyakushi!
+102 ri from Edo!
+
+[system.08768]
+Now at Yui!
+38 and a half ri from Edo!
+
+[system.08876]
+An error occurred.
+Please turn the power OFF.
+
+[system.08984]
+Now at Totsuka!
+10 and a half ri from Edo!
+
+[system.09096]
+Now at Hakone!
+24 and a half ri from Edo!
+
+[system.09208]
+Now at Mishima!
+28 and a half ri from Edo!
+
+[system.09320]
+Now at Ejiri!
+41 and a half ri from Edo!
+
+[system.09432]
+Now at Hiratsuka!
+15 and a half ri from Edo!
+
+[system.09544]
+Now at Oiso!
+16 and a half ri from Edo!
+
+[system.09656]
+Now at Yoshiwara!
+34 and a half ri from Edo!
+
+[system.09768]
+Now at Fuchu!
+44 and a half ri from Edo!
+
+[system.09880]
+Now at Nissaka!
+54 and a half ri from Edo!
+
+[system.09992]
+Now at Kakegawa!
+56 and a half ri from Edo!
+
+[system.10104]
+Now at Kusatsu!
+119 and a half ri from Edo!
+
+[system.10216]
+Now at Otsu!
+123 and a half ri from Edo!
+
+[system.10328]
+Now at Hodogaya!
+8 and a half ri from Edo!
+
+[system.10444]
+Now at Odawara!
+20 and a half ri from Edo!
+
+[system.10560]
+Now at Sanjo Bridge!
+126 ri from Edo!
+
+[system.10690]
+Save your game?
+
+[system.10726]
+Yes
+
+[system.10742]
+No
+
+[system.10796]
+The data was damaged, so the previous data has been restored.
+
+[system.10916]
+All right! That's all of them. Time to head back to the town of Fujikawa.
+
+[system.11082]
+Return to the title screen?
+
+[system.11136]
+Yes
+
+[system.11152]
+No
+
+[system.11204]
+An error occurred.
+Please turn the power OFF and
+reinsert the Game Card.
+
+[system.11394]
+Travel Diary 1
+
+[system.11432]
+Travel Diary 2
+
+[system.11470]
+Travel Diary 3
+
+[system.11508]
+The settings file
+
+[system.11544]
+: its data was lost, so it has been reset.
+
+[system.11650]
+Travel Diary 1
+
+[system.11688]
+Travel Diary 2
+
+[system.11726]
+Travel Diary 3
+
+[system.11764]
+The settings file
+
+[system.11800]
+: its data was damaged, so the previous data has been restored.
+

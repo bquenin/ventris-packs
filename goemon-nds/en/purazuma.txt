@@ -1,0 +1,150 @@
+[purazuma.0406]
+Pupupupu...
+
+[purazuma.0452]
+Plasmaaa!
+
+[purazuma.0502]
+Congratulations, plasma.
+
+[purazuma.0536]
+You found every Nostra, plasma.
+
+[purazuma.0620]
+Press the SELECT Button to change your costume, plasma.
+
+[purazuma.0736]
+Change the mood and have fun, plasma.
+
+[purazuma.0830]
+The House of Plasma is now closed, plasma. See you again, plasma.
+
+[purazuma.0974]
+This is the House of Plasma Fortunes, plasma.
+
+[purazuma.1056]
+If you want your fortune told, pay 50 ryo, plasma!
+
+[purazuma.1170]
+Yes
+
+[purazuma.1186]
+No
+
+[purazuma.1218]
+What, no fortune, plasma?
+
+[purazuma.1300]
+Pupupupu...
+
+[purazuma.1328]
+You don't have enough money, plasma.
+
+[purazuma.1394]
+Save up some money and come again, plasma.
+
+[purazuma.1494]
+Pupupupu...
+
+[purazuma.1540]
+Plasmaaa!
+
+[purazuma.4244]
+Horohoro Temple's bib: touch the red part.
+
+[purazuma.4354]
+Hagure Town's Ebisu: touch his shiny gold body.
+
+[purazuma.4478]
+At the soy sauce shop, the piled-up soybeans are mighty suspicious.
+
+[purazuma.4592]
+An ukiyo-e painter with a bright future. The big brush he forgot holds a secret.
+
+[purazuma.4766]
+Shinagawa, a quiet seaside view. The one with the gentle face.
+
+[purazuma.4920]
+Targeted by the Tengu cult: the pot in a house holds a secret.
+
+[purazuma.5058]
+A dark, lonely little room. Strike the hanging skeleton.
+
+[purazuma.5224]
+Where the river flows and many skeletons fall: hidden in a jizo statue.
+
+[purazuma.5398]
+Fujisawa's three jizo in a row. Which one holds the secret?
+
+[purazuma.5554]
+Hidden atop the rock with the gaping mouth: parent and child, snuggled close.
+
+[purazuma.5760]
+It stinks! It stinks! It really stinks! The cesspit by the rice paddies.
+
+[purazuma.5910]
+Right next to the fancy house: inside the pot in the ninja village.
+
+[purazuma.6056]
+The ninja village's poor row house: the pot at the back holds a secret.
+
+[purazuma.6206]
+Number one in the land: the big Hyottoko holds a secret.
+
+[purazuma.6312]
+The festival village elder's house. Happy! Happy! A happi coat!
+
+[purazuma.6432]
+The long bench at the tea house by night: the tub beside it holds a secret.
+
+[purazuma.6564]
+The poor village's wish: the word "dream" holds a secret.
+
+[purazuma.6704]
+Where is it? The Osho sign up on the shelf.
+
+[purazuma.6792]
+The port town's lumberyard, strewn with wood chips. Pray at the god's shelf.
+
+[purazuma.6944]
+Where Masakado's grudge gathers: a skeleton pierced by a sword.
+
+[purazuma.7098]
+On the sign at the checkpoint: Ebisumaru of the band of thieves?
+
+[purazuma.7240]
+Yamatai: the hearth in a house holds a secret.
+
+[purazuma.7348]
+Across the broken bridge, Lord Tengu. Try touching the tip of his nose.
+
+[purazuma.7526]
+Ooka, Lord of Echizen: his beloved little bird, and a small bonsai.
+
+[purazuma.7680]
+The jizo just outside town. Right by the pig's nose.
+
+[purazuma.7800]
+The jizo in straw hats: they stand beneath the torii gate.
+
+[purazuma.7918]
+Where the Ise Betsu Road splits off: the big snowball holds a secret.
+
+[purazuma.8074]
+The great big Otafuku mansion. Touch the lantern inside.
+
+[purazuma.8216]
+The snowmen blocking the road: the one on the far right is suspicious.
+
+[purazuma.8340]
+Where the strange machines line up: the device on the right is suspicious too.
+
+[purazuma.8486]
+Congratulations!!
+
+[purazuma.8516]
+Pupupupu...
+
+[purazuma.8562]
+Plasmaaa!
+

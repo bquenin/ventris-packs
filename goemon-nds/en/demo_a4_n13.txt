@@ -1,0 +1,120 @@
+[demo_a4_n13.0724]
+Y'all saved me, I reckon.
+
+[demo_a4_n13.0782]
+Funny thing.{WAIT:000F} We came all this way chasin' you lot,{0D}{0A}and I never figured{WAIT:000F} we'd end up savin' ya.
+
+[demo_a4_n13.1036]
+Sorry, y'all.
+
+[demo_a4_n13.1062]
+He said he'd save our village, so I up and trusted him, I reckon.
+
+[demo_a4_n13.1178]
+Halfway I caught on I was bein' tricked, and I fought him to the very end.
+
+[demo_a4_n13.1336]
+One of the Three Sacred Treasures,{WAIT:000F} the Yata Mirror,{0D}{0A}has been carried off, then{07:000A}...
+
+[demo_a4_n13.1606]
+I only meant to borrow it a spell and give it right back, I reckon.
+
+[demo_a4_n13.1712]
+Taking it without asking is the same as stealing it.
+
+[demo_a4_n13.1924]
+Sorry, y'all. I'm right ashamed of myself.
+
+[demo_a4_n13.2042]
+What'll ya do?{WAIT:000F} Goemon?
+
+[demo_a4_n13.2130]
+If we take this guy{WAIT:000F} to the magistrate,{0D}{0A}we can prove we're innocent, ain't that right?
+
+[demo_a4_n13.2408]
+Hmm,{WAIT:001E} somethin' about it ticks me off,{WAIT:000F} that tengu creep.
+
+[demo_a4_n13.2536]
+Usin' the weak like that?{WAIT:000F} Even if Heaven lets it slide,{0D}{0A}the great Goemon sure won't!
+
+[demo_a4_n13.2802]
+Which means we pursue Tengu Peruri.
+
+[demo_a4_n13.2912]
+I heard it while I was half out cold, I reckon:{AA}{0D}{0A}next he said he's goin' after a sword.
+
+[demo_a4_n13.3230]
+One of the Three Sacred Treasures,{WAIT:000F} the Kusanagi Sword.
+
+[demo_a4_n13.3340]
+He said somethin' about Masakado havin' it,
+
+[demo_a4_n13.3428]
+Speakin' of Masakado, there's the old battlefield at Maisaka where he lost.
+
+[demo_a4_n13.3534]
+That's where Masakado got beat, so there ain't nothin' to find out there.
+
+[demo_a4_n13.3782]
+Maisaka,{WAIT:000F} that is a long way west of here.
+
+[demo_a4_n13.3928]
+Further west, huh{07:000A}...{07:0004} This trip's gotten long.
+
+[demo_a4_n13.4108]
+All right, let's go beat that crook Peruri.
+
+[demo_a4_n13.4882]
+Mmph!{WAIT:000F} Mmph!
+
+[demo_a4_n13.5080]
+Hey!{WAIT:000F} You okay?
+
+[demo_a4_n13.5366]
+You people{WAIT:000F} have come in without permission again.{0D}{0A}You are Japanese, and yet you know no manners{07:000A}...{0D}{0A}{07:0006}If your father{WAIT:000F} and mother saw this,{WAIT:000F} how sad do you think they would be?
+
+[demo_a4_n13.6016]
+That voice, it's Peruri!
+
+[demo_a4_n13.6632]
+Oh,{WAIT:000F} we meet{WAIT:000F} again.{WAIT:001E} Good day.
+
+[demo_a4_n13.6850]
+So it's you after all! Where'd ya take Mr. Goemon and the temple's treasure?!
+
+[demo_a4_n13.7048]
+I have received the treasure, so I have no further need of this person.
+
+[demo_a4_n13.7182]
+This Mr. Goemon was a truly troublesome Japanese.
+
+[demo_a4_n13.7294]
+He should simply have handed over the mirror.
+
+[demo_a4_n13.7368]
+But at last I have the first treasure, so I am relieved.
+
+[demo_a4_n13.7580]
+What an infuriatin' fella.
+
+[demo_a4_n13.7696]
+Goemon,{WAIT:000F} let's clobber him!
+
+[demo_a4_n13.7852]
+Oh! How frightening, how frightening.
+
+[demo_a4_n13.7908]
+No way I'm handin' over a treasure I went to all that trouble for, y'know.
+
+[demo_a4_n13.8022]
+I must hurry and take the treasure away
+
+[demo_a4_n13.8132]
+After this, I would like to leave matters to someone else.
+
+[demo_a4_n13.9178]
+Gahahaha!{WAIT:000F} It's the great Lantern Demon!{WAIT:001E} Long time no see!
+
+[demo_a4_n13.9284]
+Ten years I've waited.{WAIT:000F} Now taste my revenge!
+

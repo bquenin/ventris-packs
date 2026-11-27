@@ -1,0 +1,63 @@
+[demo_a4_n11.0404]
+My brothers are practicing in the square at Fuchu.{WAIT:000F} When they come, I'll open it, y'know.
+
+[demo_a4_n11.1322]
+So it was you guys{WAIT:000F} who rescued my brothers.{0D}{0A}Thanks, y'know!
+
+[demo_a4_n11.1566]
+Why'd your brothers end up gettin' kidnapped?
+
+[demo_a4_n11.1736]
+Us brothers come from a long line of Hyottoko, a family that's danced{WAIT:000F} the village festival's big dance,{0D}{0A}the Hyottoko Dance, for a hundred years, y'know.{0D}{0A}The tower at Fuchu{WAIT:000F} is a precious tower handed down from our ancestors, y'know.{0D}{0A}It's the most precious thing to us after our lives, y'know.
+
+[demo_a4_n11.2350]
+Maybe those guys{WAIT:000F} are after our treasure, the tower, y'know?
+
+[demo_a4_n11.2492]
+A tower, though?{WAIT:001E} That's as big as a house.{0D}{0A}Somethin' that huge,{WAIT:001E} I doubt anybody'd take it.
+
+[demo_a4_n11.2748]
+Is there{WAIT:000F} some other secret about the tower?
+
+[demo_a4_n11.2898]
+A secret, y'know?{WAIT:001E} Hmm{07:000A}...{0D}{0A}{07:0005}It's empty inside, y'know.{WAIT:001E} We used to keep festival gear in there.
+
+[demo_a4_n11.3194]
+Come to think of it!{WAIT:001E}{07:0005} Mr. Goemon from the village of Kanaya{0D}{0A}went into the tower{WAIT:000F} while we were dancing, y'know.
+
+[demo_a4_n11.3480]
+What?{WAIT:001E} Mr. Goemon went in?
+
+[demo_a4_n11.3604]
+Mr. Goemon?{WAIT:001E} Wasn't he kidnapped by Tengu Peruri?
+
+[demo_a4_n11.3774]
+A tengu, y'know?{WAIT:001E} Come to think of it, he went into the tower{0D}{0A}with a foreigner wearing a tengu mask, y'know.{0D}{0A}But{WAIT:000F} Mr. Goemon was tied up with rope, y'know.
+
+[demo_a4_n11.4140]
+What!{WAIT:000F}{07:0006} Why didn't ya say so sooner!
+
+[demo_a4_n11.4238]
+We have to hurry to the tower and rescue him!
+
+[demo_a4_n11.4352]
+You can't get into the tower, y'know. The entrance is shut tight, y'know.
+
+[demo_a4_n11.4500]
+What did you say!{WAIT:001E} Then what are we to do?
+
+[demo_a4_n11.4622]
+It won't open unless all of us dance the Hyottoko Dance, y'know.
+
+[demo_a4_n11.4852]
+Hurry up and go open that tower!
+
+[demo_a4_n11.5090]
+Eek!{WAIT:001E}{07:0005} No need to get so mad, y'know.
+
+[demo_a4_n11.5182]
+My brothers are practicing in the square at Fuchu.{WAIT:000F} When they come, I'll open it, y'know.
+
+[demo_a4_n11.5414]
+Everyone!{WAIT:001E} Let's go rescue Mr. Goemon.
+

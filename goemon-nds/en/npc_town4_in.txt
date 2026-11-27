@@ -1,0 +1,15 @@
+[npc_town4_in.0604]
+I came all the way to Ejiri to see the Hyottoko Dance,{0D}{0A}but hasn't it started yet?
+
+[npc_town4_in.0792]
+With the festival mood and all, I drank way too much sake.{0D}{0A}A bowl of tea-soaked rice oughta freshen me up.
+
+[npc_town4_in.0988]
+Whee... Hic!{0D}{0A}Mr. Goemon, I'm tellin' ya, he ain't no bad guy!{0D}{0A}Hic!{0D}{0A}He's a great man who works his tail off for the village, he is!{0D}{0A}Hic!
+
+[npc_town4_in.1322]
+They say the Hyottoko brothers are hidden somewhere on the road near this village.{0D}{0A}Please, hurry and rescue them.
+
+[npc_town4_in.1580]
+You rescued the Hyottoko brothers, didn't you.{0D}{0A}Now the village will be lively again, just like before.
+

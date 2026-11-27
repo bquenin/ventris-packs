@@ -1,0 +1,57 @@
+[demo_a5_n8.1232]
+We brought you{WAIT:000F} your precious helmet.
+
+[demo_a5_n8.1388]
+That is...{WAIT:001E} my, helmet.
+
+[demo_a5_n8.1502]
+I am glad.{0D}{0A}Now Lord Masakado can be at ease,{WAIT:000F} and rest in peace.
+
+[demo_a5_n8.1692]
+I, thank, you...
+
+[demo_a5_n8.2150]
+Goemon!{WAIT:001E} It's the sword!
+
+[demo_a5_n8.2266]
+So this is the Kusanagi Sword.
+
+[demo_a5_n8.2316]
+Where is it,{WAIT:000F} where is it, now.
+
+[demo_a5_n8.2398]
+I've heard that voice somewhere before!
+
+[demo_a5_n8.2542]
+There should be a Sacred Treasure somewhere around here...
+
+[demo_a5_n8.2718]
+It's you!{WAIT:001E} Peruri!
+
+[demo_a5_n8.2978]
+Oh!{WAIT:001E} So it was in such a place!{0D}{0A}It is truly the Kusanagi Sword!{0D}{0A}Well, how wonderful. It was worth the search.
+
+[demo_a5_n8.3692]
+Wait!{WAIT:001E} We went to great trouble to obtain that!
+
+[demo_a5_n8.3904]
+Oh!{WAIT:001E} You were here?{0D}{0A}What are you all doing, in such a crowd?{0D}{0A}If it is a party, please let me join too.
+
+[demo_a5_n8.4214]
+Quit jokin' around!{WAIT:001E} Give back the sword!
+
+[demo_a5_n8.4352]
+Oh, how frightening.{WAIT:000F} If you get too angry, your blood pressure rises,{0D}{0A}and that is not good for your health.{0D}{0A}Now that I have the treasure, I shall take my leave.
+
+[demo_a5_n8.4808]
+Get back here!
+
+[demo_a5_n8.4922]
+We finally got the sword,{WAIT:000F} and it got snatched away!
+
+[demo_a5_n8.5132]
+Let's go after him,{WAIT:001E} we can still catch him!
+
+[demo_a5_n8.5688]
+Let us go through there.
+

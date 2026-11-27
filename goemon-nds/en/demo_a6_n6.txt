@@ -1,0 +1,33 @@
+[demo_a6_n6.1272]
+Oh,{WAIT:000F} ho-hooo!
+
+[demo_a6_n6.1324]
+Whoa,{WAIT:001E} some old lady came out.
+
+[demo_a6_n6.1558]
+How rude, I declare!{WAIT:000F} I am Benzaiten, I'll have you know.
+
+[demo_a6_n6.1722]
+You're Benzaiten of the Seven Lucky Gods, right?{0D}{0A}Sorry to ask,{WAIT:000F} but could you let us have your Lucky Orb?
+
+[demo_a6_n6.1934]
+I will not, I declare!{WAIT:001E} I have nothing to give a boor, I declare.
+
+[demo_a6_n6.2066]
+Beautiful lady!{WAIT:000F} Please, let us have your Lucky Orb.
+
+[demo_a6_n6.2334]
+Oh my,{WAIT:000F} what an adorable boy, I declare.{0D}{0A}For you,{WAIT:000F} I might just give it, I declare.
+
+[demo_a6_n6.2588]
+Goemon and company got a Lucky Orb!
+
+[demo_a6_n6.2786]
+Thanks a bunch,{WAIT:001E} lady!
+
+[demo_a6_n6.2994]
+I did not give it to you, I declare!{WAIT:001E} Ptoo, ptoo!
+
+[demo_a6_n6.3278]
+All right! That's all of them.{0D}{0A}Let's head back to Ebisu in the town of Fujikawa.
+

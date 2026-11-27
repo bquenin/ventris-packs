@@ -1,0 +1,48 @@
+[demo_a1_n11.0478]
+You saved me, dearie. Do come again, dearie.
+
+[demo_a1_n11.1246]
+Oh my, it's been ages, dearie.
+
+[demo_a1_n11.1342]
+Hey, ain't you Kensuke!
+
+[demo_a1_n11.1444]
+I'm short of money, as always, dearie.
+
+[demo_a1_n11.1528]
+I'd so like you to buy this item, dearie.
+
+[demo_a1_n11.1640]
+Hey! That's my Super Coin!
+
+[demo_a1_n11.1774]
+I'd like you to buy it for 250 ryo, dearie.
+
+[demo_a1_n11.1898]
+Buy it for 250 ryo?
+
+[demo_a1_n11.1964]
+Yes
+
+[demo_a1_n11.1980]
+No
+
+[demo_a1_n11.2082]
+You haven't enough money, dearie. Come back with 250 ryo, dearie.
+
+[demo_a1_n11.2352]
+Got the Super Coin!
+
+[demo_a1_n11.2440]
+Hold the L Button and press left or right on the +Control Pad to switch weapons.{0D}{0A}To use it, hold the Y Button down to build up power, then let it fly.
+
+[demo_a1_n11.2812]
+Geez! What a waste of money that was.
+
+[demo_a1_n11.2966]
+Haven't you any money, dearie?
+
+[demo_a1_n11.3030]
+I won't hand over this Super Coin, dearie.
+
