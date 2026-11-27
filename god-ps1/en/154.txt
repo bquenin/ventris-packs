@@ -1,0 +1,1366 @@
+[154.000]
+Write in diary
+Read diary
+Quit
+
+[154.002]
+{SAY}Oh dear, {NAME:17} is out cold. {NUM}G to revive?{/SAY}
+
+[154.003]
+{SAY}Oh dear, {NAME:17} is a monkey. {NUM}G to cure?{/SAY}
+
+[154.004]
+{SAY}Oh dear, {NAME:17} is poisoned. {NUM}G to cure?{/SAY}
+
+[154.005]
+{SAY}Oh dear, {NAME:17} is paralyzed. {NUM}G to cure?{/SAY}
+
+[154.008]
+Write in your diary?
+
+[154.009]
+Write in diary
+Read diary
+Sleep
+
+[154.012]
+{NAME:01}
+{SAY}Tch! What a mess!{/SAY}
+
+[154.013]
+{NAME:02}
+{SAY}Linda... is she okay...{/SAY}
+
+[154.014]
+{NAME:04}
+{SAY}...I worry too, but for their sake we'd best escape now.{/SAY}
+
+[154.015]
+{NAME:01}
+{SAY}...{NAME:19}!{/SAY}
+
+[154.016]
+{NAME:01}
+{SAY}...{NAME:19}{WAIT}I know how you feel, but escape comes first!{/SAY}
+
+[154.017]
+{SAY}By order of Deputy McCartney, none may go further.{WAIT}Leave.{/SAY}
+
+[154.018]
+{SAY}Are you {NAME:19}?{/SAY}
+
+[154.019]
+{SAY}Linda told me. Go on through.{WAIT}...But letting your kind in may hurt the Deputy's standing again...{WAIT}No, forget it.{/SAY}
+
+[154.020]
+{SAY}Then leave.{/SAY}
+
+[154.021]
+{SAY}Letting your kind in may hurt the Deputy's standing again...{WAIT}No, forget it.{/SAY}
+
+[154.022]
+{SAY}By Director Lennon's order, this Bless is closed!{WAIT}Get out!{/SAY}
+
+[154.023]
+{SAY}Oh! It's you! The Deputy is waiting!{/SAY}
+
+[154.024]
+{SAY}Oh! It's you!{WAIT}Bless HQ moved to the UN Building.{WAIT}Everyone's waiting there!{/SAY}
+
+[154.025]
+"WANTED!{WAIT}{NAME:19}, male
+Mass murder of aliens
+1000000G"{HOLD}{CLEAR}"Kills aliens at will.{WAIT}Report to Bless HQ at once.
+
+[154.026]
+　President M.K. Washington"
+
+[154.027]
+"WANTED!{WAIT}{NAME:19}, male"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank him.{HOLD}　President M.K. Washington"
+
+[154.028]
+"WANTED!{WAIT}{NAME:04}, male
+Inciting the public
+1000000G"{HOLD}{CLEAR}"Disturbs the peace.{WAIT}Report to Bless HQ at once.
+
+[154.029]
+　President M.K. Washington"
+
+[154.030]
+"WANTED!{WAIT}{NAME:04}, male"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank him.{HOLD}　President M.K. Washington"
+
+[154.031]
+"WANTED!{WAIT}{NAME:01}, male
+Desertion, terrorism
+1000000G"{HOLD}{CLEAR}"Deserted Bless, now a terrorist.{HOLD}Report to Bless HQ at once.
+
+[154.032]
+　President M.K. Washington"
+
+[154.033]
+"WANTED!{WAIT}{NAME:01}, male"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank him.{HOLD}　President M.K. Washington"
+
+[154.034]
+"WANTED!{WAIT}{NAME:02}, female
+Illegal healing, fraud
+1000000G"{HOLD}{CLEAR}"Fake psychic who swindled the poor.{WAIT}Report to Bless HQ at once.
+
+[154.035]
+　President M.K. Washington"
+
+[154.036]
+"WANTED!{WAIT}{NAME:02}, female"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank her.{HOLD}　President M.K. Washington"
+
+[154.037]
+
+"Welcome, aliens!!"
+
+[154.038]
+
+"Aliens, get out!!"
+
+[154.039]
+
+　　　"UFOs welcome!!"
+
+[154.040]
+
+　　　"We will fight!!"
+
+[154.041]
+
+　　　"Aliens are friends!
+　Friendship across space!"
+
+[154.042]
+
+　　　"Aliens are the enemy!
+　　Smash them to bits!!"
+
+[154.043]
+
+"Welcome, aliens!!"
+
+[154.044]
+
+"Aliens, get out!!"
+
+[154.045]
+
+　　　"UFOs welcome!!"
+
+[154.046]
+
+　　　"We will fight!!"
+
+[154.047]
+
+　　　"Aliens are friends!
+　Friendship across space!"
+
+[154.048]
+
+　　　"Aliens are the enemy!
+　　Smash them to bits!!"
+
+[154.049]
+{SAY}New immigrants are coming.{WAIT}Will we be treated like the natives were?{WAIT}{PAUSE:1E}...That's this land's history.{/SAY}
+
+[154.050]
+{SAY}...That's right.{WAIT}That's this land's history.{/SAY}
+
+[154.051]
+{SAY}What will happen to this land now...{/SAY}
+
+[154.052]
+{SAY}New immigrants are coming.{WAIT}Will we be treated like the natives were?{WAIT}{PAUSE:1E}...That's this land's history.{/SAY}
+
+[154.053]
+{SAY}...That's right.{WAIT}That's this land's history.{/SAY}
+
+[154.054]
+{SAY}What will happen to this land now...{/SAY}
+
+[154.055]
+{SAY}This is New York!{WAIT}Every culture gathers here.{WAIT}We'll get along with aliens too!{/SAY}
+
+[154.056]
+{SAY}This is New York!{WAIT}...It'll be great again!{/SAY}
+
+[154.057]
+{SAY}This is New York!{WAIT}...Rebuilt this far!{/SAY}
+
+[154.058]
+{SAY}I'm thinking what business to do with the aliens.{/SAY}
+
+[154.059]
+{SAY}Last night most of the Harlem Bless members got arrested.{WAIT}Now we just wait for the ceremony!{/SAY}
+
+[154.060]
+{SAY}Aliens...{PAUSE:1E} liars.{/SAY}
+
+[154.061]
+{SAY}Harlem souvenirs! Buy some?{/SAY}
+
+[154.062]
+{SAY}Hustle, hustle, always!{WAIT}Buy some?{/SAY}
+
+[154.063]
+{SAY}When the aliens come, will new fashions catch on...{HOLD}Sigh...{/SAY}
+
+[154.064]
+{SAY}What a ruckus last night!{HOLD}They say those wanted criminals showed up! Scary~{/SAY}
+
+[154.065]
+{SAY}See the UFO up there!? Good thing we didn't fight!{/SAY}
+
+[154.066]
+{SAY}Figures... I had a feeling.{/SAY}
+
+[154.067]
+{SAY}Shopping again, like a dream!{/SAY}
+
+[154.068]
+{SAY}Hey! Buy me this!{/SAY}
+
+[154.069]
+{SAY}So the criminals got away?{WAIT}They might still be around!{/SAY}
+
+[154.070]
+{SAY}...Lord Michael... dreamy!{/SAY}
+
+[154.071]
+{SAY}We... were fooled...{/SAY}
+
+[154.072]
+{SAY}This, and this... oh! And this!{/SAY}
+
+[154.073]
+{SAY}Hmm...{PAUSE:1E} awful people out there...{WAIT}Look at that face! A real villain!{/SAY}
+
+[154.074]
+{SAY}Whew! What a ruckus!{WAIT}Did you see the criminals' faces?{/SAY}
+
+[154.075]
+{SAY}How enviable!{/SAY}
+
+[154.076]
+{SAY}Truly vicious!{PAUSE:14} So evil!{WAIT}...{PAUSE:1E}must be like that...{/SAY}
+
+[154.077]
+{SAY}Damn! I wanna go see too!{/SAY}
+
+[154.079]
+{SAY}Hmm...{PAUSE:1E} amazing people out there...{WAIT}Look at that face! A hero!{/SAY}
+
+[154.080]
+{SAY}Welcome to New York!{WAIT}Soon! Soon we'll be happy!{WAIT}What? Peace is coming!{/SAY}
+
+[154.081]
+{SAY}Why did we ever trust aliens...{/SAY}
+
+[154.082]
+{SAY}Welcome to New York!{WAIT}Soon! Soon this city revives!{/SAY}
+
+[154.083]
+{SAY}Aliens are our friends, right?{/SAY}
+
+[154.084]
+{SAY}Aliens are friends, but humans aren't?{/SAY}
+
+[154.085]
+{SAY}Yay! Yay! The ceremony's starting!{/SAY}
+
+[154.086]
+{SAY}Mommy! Mommy!{/SAY}
+
+[154.087]
+{SAY}Get super strong and beat those aliens!{/SAY}
+
+[154.088]
+{NAME:01}
+{SAY}We can't stay here. Now what?{/SAY}
+
+[154.089]
+{NAME:04}
+{SAY}Leave town for now.{WAIT}Best not return till things cool down.{/SAY}
+
+[154.090]
+{NAME:02}
+{SAY}{NAME:01}! You're from this country, right?{WAIT}Any other towns nearby?{/SAY}
+
+[154.091]
+{NAME:01}
+{SAY}..........{/SAY}
+
+[154.092]
+{NAME:02}
+{SAY}{NAME:01}?{/SAY}
+
+[154.093]
+{NAME:01}
+{SAY}No, nothing...{WAIT}The aliens hit this area hard...{WAIT}I think there's a town with a big theater to the west...{/SAY}
+
+[154.094]
+{NAME:02}
+{SAY}A theater?{/SAY}
+
+[154.095]
+{NAME:04}
+{SAY}Let's go there for now.{/SAY}
+
+[154.097]
+Linda
+{SAY}Are you {NAME:19} and friends?{/SAY}
+
+[154.098]
+{SAY}Come to Harlem Bless later.{WAIT}I'll tell the guard.{/SAY}
+
+[154.099]
+{SAY}I see...{/SAY}
+
+[154.100]
+{SAY}Not our business! Go away!{/SAY}
+
+[154.101]
+{SAY}We don't take dangerous persons.{WAIT}Please leave.{/SAY}
+
+[154.102]
+{SAY}Eek, help~{/SAY}
+
+[154.103]
+{SAY}This is the way out, but America's monsters are tough!{WAIT}After the treaty, no worries!{/SAY}
+
+[154.104]
+{SAY}Damn aliens! Look what they did to my town!{/SAY}
+
+[154.105]
+{SAY}Oh! It's you! Fight for the world!{/SAY}
+
+[154.106]
+{SAY}Straight north is the UN Building!{WAIT}But it's tense before the ceremony. Don't go.{/SAY}
+
+[154.107]
+{SAY}Straight north is the UN Building!{WAIT}The ceremony's starting soon!{/SAY}
+
+[154.108]
+{SAY}They say the UN Building's a wreck!{WAIT}The aliens are so cruel!{/SAY}
+
+[154.109]
+{SAY}You saved this city!{WAIT}Thank you!{/SAY}
+
+[154.110]
+{SAY}Now true peace comes to the world.{/SAY}
+
+[154.111]
+{SAY}They say last night the guards arrested Dr. Orangeoiset of Harlem Bless!{WAIT}For hiding criminals!{/SAY}
+
+[154.112]
+{SAY}The ceremony's starting! I wanna go see!{/SAY}
+
+[154.113]
+{SAY}Is there no true peace anywhere...{/SAY}
+
+[154.114]
+{SAY}{NAME:19}, do your best!{WAIT}Our future is in your hands.{/SAY}
+
+[154.115]
+{SAY}After all this, the Director still trusts aliens. Too kind, or what...{/SAY}
+
+[154.116]
+{SAY}Only the Director's guests can see the parade.{HOLD}Boring.{/SAY}
+
+[154.117]
+{SAY}Heh! Knew it!{/SAY}
+
+[154.118]
+{SAY}I'll fight, no matter what!{/SAY}
+
+[154.119]
+{SAY}Peace is good. But the Director's being pushy...{WAIT}Just an old man talking...{/SAY}
+
+[154.120]
+{SAY}It's finally starting... I hope nothing happens...{/SAY}
+
+[154.121]
+{SAY}Just a fleeting dream after all...{/SAY}
+
+[154.122]
+{SAY}Peace is like a dream.{WAIT}You only know it once you wake.{/SAY}
+
+[154.123]
+{SAY}Know what? The Bless Deputy got arrested!{WAIT}For defying the Director!{/SAY}
+
+[154.124]
+{SAY}Know what? Dr. Orangeoiset got arrested!{WAIT}For defying the Director!{/SAY}
+
+[154.125]
+{SAY}The alien envoy is super cool!{WAIT}My sister said so!{/SAY}
+
+[154.126]
+{SAY}The Director was an alien fake! Wow!{/SAY}
+
+[154.127]
+{SAY}Are you guys real?{/SAY}
+
+[154.128]
+Linda
+{SAY}.........{/SAY}
+
+[154.129]
+Priest
+{SAY}Come, everyone!{WAIT}Let's warmly welcome the new friends God has sent!{/SAY}
+
+[154.130]
+{SAY}No alien invasion~!!{/SAY}
+
+[154.131]
+{SAY}Aliens are new friends~!{/SAY}
+
+[154.132]
+{SAY}Aliens are the true enemy~!{/SAY}
+
+[154.133]
+{SAY}We will win~!{/SAY}
+
+[154.134]
+{SAY}Aliens are new friends~!{/SAY}
+
+[154.135]
+{SAY}Aliens are unforgivable!!{/SAY}
+
+[154.136]
+{SAY}We will fight~!{/SAY}
+
+[154.137]
+{SAY}Aliens are new friends~!{/SAY}
+
+[154.138]
+{SAY}Ah!? It's you! Good luck!!{/SAY}
+
+[154.139]
+{SAY}Fight to the end~!{/SAY}
+
+[154.140]
+{SAY}Aliens are new friends~!{/SAY}
+
+[154.141]
+{SAY}Fooled even at my age... Life's sad at any age.{/SAY}
+
+[154.142]
+{SAY}My blood's boiling!{/SAY}
+
+[154.143]
+{SAY}Aliens are friends~!{/SAY}
+
+[154.144]
+{SAY}Someone beat the aliens!!{/SAY}
+
+[154.145]
+{SAY}Chant with us!{/SAY}
+
+[154.146]
+{SAY}Aliens are friends~!{/SAY}
+
+[154.147]
+{SAY}Please. Beat the aliens.{/SAY}
+
+[154.148]
+{SAY}Come on! You fight too!!{/SAY}
+
+[154.149]
+{SAY}Aliens are friends~!{/SAY}
+
+[154.150]
+{SAY}I'll never forgive aliens!{/SAY}
+
+[154.151]
+{SAY}I'll fight too!{/SAY}
+
+[154.152]
+{SAY}Aliens are friends~!{/SAY}
+
+[154.153]
+{SAY}What do we do now...{/SAY}
+
+[154.154]
+{SAY}Everyone's finally awake!{/SAY}
+
+[154.155]
+{SAY}Heard about the Deputy?{/SAY}
+
+[154.156]
+{SAY}The Deputy never defied the Director.{WAIT}He just voiced an opinion on the treaty.{WAIT}And now this...{/SAY}
+
+[154.157]
+{SAY}Deputy McCartney feared we were rushing{WAIT}and went to advise Director Lennon at the UN Building.{WAIT}He never came back...{WAIT}And this building is half sealed off.{/SAY}
+
+[154.158]
+{SAY}The Deputy and the doctor are safe!{HOLD}Captain Linda must be relieved.{WAIT}She's the Deputy's only daughter, you know.{/SAY}
+
+[154.159]
+{SAY}Most members were arrested with the Deputy.{WAIT}We can't do much openly...{/SAY}
+
+[154.160]
+{SAY}Ah!? {NAME:19}! Everyone!{WAIT}The Deputy and Dr. Orangeoiset are upstairs.{/SAY}
+
+[154.161]
+{SAY}{NAME:19}! Everyone!{WAIT}The Deputy... the new Director and Dr. Orangeoiset moved to the UN Building.{/SAY}
+
+[154.164]
+Dr. Orangeoiset
+{SAY}Oh! It's you!{/SAY}
+
+[154.165]
+Deputy McCartney
+{SAY}Oh! So you're {NAME:19} and friends!{/SAY}
+
+[154.166]
+Deputy McCartney
+{SAY}Oh! {NAME:19}!{WAIT}Well done, well done...{/SAY}
+
+[154.167]
+Dr. Orangeoiset
+{SAY}{NAME:19}, good work. ...What... the aliens...{WAIT}Earth is their home!? ...Impossible.{/SAY}
+
+[154.168]
+{NAME:02}
+{SAY}...But if the ancient ruins hold God Stones...{/SAY}
+
+[154.169]
+{NAME:04}
+{SAY}Could the God Stones have been the aliens'...{/SAY}
+
+[154.170]
+{NAME:01}
+{SAY}No way!? ...Touch a God Stone and you turn alien?{/SAY}
+
+[154.171]
+{NAME:04}
+{SAY}...Is that enlightenment?{/SAY}
+
+[154.172]
+Dr. Orangeoiset
+{SAY}No, I don't know.{WAIT}But if the ruins hold God Stones...{/SAY}
+
+[154.173]
+{NAME:02}
+{SAY}What?{/SAY}
+
+[154.174]
+Dr. Orangeoiset
+{SAY}Mm. Southwest of New York...{/SAY}
+
+[154.175]
+{SAY}Deputy!{/SAY}
+
+[154.176]
+{SAY}Bad news, Deputy!{WAIT}Investigating on the doctor's orders, we found a giant UFO at Chichen Itza!{/SAY}
+
+[154.177]
+Deputy McCartney
+{SAY}What! Doctor, this is...!?{/SAY}
+
+[154.178]
+Dr. Orangeoiset
+{SAY}Mm. As I expected.{WAIT}If they're linked to the ruins, you can guess where they'll show up.{WAIT}I had my eye on Chichen Itza!{/SAY}
+
+[154.179]
+Deputy McCartney
+{SAY}Then the one there is...{/SAY}
+
+[154.180]
+Dr. Orangeoiset
+{SAY}Probably... the Catastrophe!{/SAY}
+
+[154.181]
+{NAME:01}
+{SAY}{NAME:19}! Let's go! We'll avenge Director Lennon!{/SAY}
+
+[154.182]
+Dr. Orangeoiset
+{SAY}Careful.{WAIT}If it showed itself, it may have some plan to win.{WAIT}Don't let your guard down!{/SAY}
+
+[154.183]
+Deputy McCartney
+{SAY}But Chichen Itza is deep in the jungle, cut off...{WAIT}How do we get there?{/SAY}
+
+[154.184]
+Linda
+{SAY}I know a way!{/SAY}
+
+[154.185]
+Linda
+{SAY}From Amazon Bless in South America, you can reach Chichen Itza.{/SAY}
+
+[154.186]
+Deputy McCartney
+{SAY}Amazon Bless?{/SAY}
+
+[154.187]
+Linda
+{SAY}Yes, on Director Lennon's secret orders{WAIT}I once helped build a base to survey South America.{/SAY}
+
+[154.188]
+Deputy McCartney
+{SAY}Such orders...{WAIT}And such a dangerous mission, you... ahem! Linda?{/SAY}
+
+[154.189]
+Linda
+{SAY}Of course!{WAIT}If you, Father, had known, you'd never have let me go.{WAIT}I made the Director keep it secret!{/SAY}
+
+[154.190]
+Linda
+{SAY}{NAME:19}, everyone.{WAIT}Let's go to South America on your ship!{WAIT}From there, I'll guide you.{/SAY}
+
+[154.191]
+Deputy McCartney
+{SAY}Oh, {NAME:19}. Welcome back!{/SAY}
+
+[154.192]
+Deputy McCartney
+{SAY}What!? The Stone of Truth at Ararat Temple!?{/SAY}
+
+[154.193]
+　The legendary continent of Lemuria!?
+
+[154.194]
+　Hmm, I don't understand! Unbelievable!{WAIT}Such an ancient civilization on this Earth!?
+
+[154.195]
+{NAME:01}
+{SAY}Director, didn't America dig up Ararat Temple?{WAIT}Maybe it put the Stone of Truth somewhere...{/SAY}
+
+[154.196]
+Deputy McCartney
+{SAY}No, I never heard that.{WAIT}{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}Wait. The ones who dug up Ararat Temple{WAIT}...{PAUSE:1E}was Moscow!{WAIT}I heard Moscow's army dug it up long ago!{/SAY}
+
+[154.197]
+{NAME:01}
+{SAY}Moscow!{/SAY}
+
+[154.198]
+Deputy McCartney
+{SAY}The Russian President would know something.{/SAY}
+
+[154.199]
+Dr. Orangeoiset
+{SAY}I'll await your report.{/SAY}
+
+[154.201]
+Deputy McCartney
+{SAY}Oh! It's you!{/SAY}
+
+[154.202]
+Deputy McCartney
+{SAY}You're back safe.{WAIT}We heard the mothership at Chichen Itza exploded and were waiting!{/SAY}
+
+[154.203]
+Dr. Orangeoiset
+{SAY}Looks like you touched a new God Stone too.{WAIT}...Hm? What's that stone?{/SAY}
+
+[154.204]
+{NAME:04}
+{SAY}We found it in the mothership.{WAIT}Staff Officer Taran of Amazon Bless thought it might be the legendary "flight stone".{/SAY}
+
+[154.205]
+Dr. Orangeoiset
+{SAY}What! The "flight stone"!{/SAY}
+
+[154.206]
+{NAME:02}
+{SAY}You know it!?{/SAY}
+
+[154.207]
+Dr. Orangeoiset
+{SAY}Hmm... unbelievable.{WAIT}If true, it may work on your ancient ship.{/SAY}
+
+[154.208]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[154.209]
+Dr. Orangeoiset
+{SAY}The ancient ship was surely the ancients' vehicle.{WAIT}They traveled the world with super-science.{WAIT}The ship must have such a system!{/SAY}
+
+[154.210]
+Dr. Orangeoiset
+{SAY}No time to lose! I'll fit it into the ancient ship!{/SAY}
+
+[154.211]
+Dr. Orangeoiset
+{SAY}I'll go to the ancient ship first!{/SAY}
+
+[154.212]
+Deputy McCartney
+{SAY}A flight stone...{WAIT}Can we beat such super-science...{WAIT}No, sorry. That's why we fight.{/SAY}
+
+[154.213]
+{NAME:01}
+{SAY}We'll be going, Deputy.{/SAY}
+
+[154.214]
+Deputy McCartney
+{SAY}Mm. Good luck.{WAIT}...By the way, where's my daugh... Linda?{/SAY}
+
+[154.215]
+{NAME:02}
+{SAY}Linda is staying a while to rebuild Amazon Bless.{/SAY}
+
+[154.216]
+Deputy McCartney
+{SAY}In that dangerous place!{WAIT}No! Call her back now...{/SAY}
+
+[154.217]
+{NAME:01}
+{SAY}Deputy!{WAIT}Captain Linda's a grown woman.{/SAY}
+
+[154.218]
+{NAME:04}
+{SAY}Indeed.{WAIT}Without her, this mission might have failed.{WAIT}Let her stand on her own.{/SAY}
+
+[154.219]
+Deputy McCartney
+{SAY}But...{PAUSE:1E} I see.{WAIT}She's grown up already...{WAIT}I'm getting old.{/SAY}
+
+[154.220]
+{NAME:02}
+{SAY}She sends her regards to you and the doctor.{/SAY}
+
+[154.221]
+Deputy McCartney
+{SAY}I see... thank you.{WAIT}Sorry to keep you.{WAIT}Good luck!{/SAY}
+
+[154.222]
+Deputy McCartney
+{SAY}Chichen Itza...{WAIT}It's dangerous, but someone must go. I'm counting on you!{WAIT}And... take care of my daughter.{/SAY}
+
+[154.223]
+Deputy McCartney
+{SAY}Ruins all over the world... what secrets sleep there...{WAIT}Good luck!{/SAY}
+
+[154.224]
+Deputy McCartney
+{SAY}Lemuria...?{WAIT}I don't know, but the doctor might...{/SAY}
+
+[154.225]
+Deputy McCartney
+{SAY}What! Lemuria is the aliens' graveyard...{WAIT}But where did the aliens come from...{/SAY}
+
+[154.226]
+Deputy McCartney
+{SAY}The Stone of Truth...{PAUSE:0F} The Russian President would know something.{/SAY}
+
+[154.227]
+Deputy McCartney
+{SAY}The aliens' base... where is it...?{/SAY}
+
+[154.228]
+Dr. Orangeoiset
+{SAY}We must see Director Lennon somehow...{/SAY}
+
+[154.229]
+Dr. Orangeoiset
+{SAY}Well done! Now, report to the Deputy!{/SAY}
+
+[154.230]
+Dr. Orangeoiset
+{SAY}Chichen Itza is southwest of New York, deep in the forest.{WAIT}...Careful.{/SAY}
+
+[154.231]
+Dr. Orangeoiset
+{SAY}{NAME:19}! Everyone! Welcome back!{WAIT}Now, report to the Deputy!{/SAY}
+
+[154.232]
+Dr. Orangeoiset
+{SAY}I'm studying ancient civilizations.{HOLD}Nazca, Ararat Temple and Easter Island are still unexplored.{WAIT}Careful. Come back.{/SAY}
+
+[154.233]
+Dr. Orangeoiset
+{SAY}What! Lemuria!?{WAIT}So the legend was true...{WAIT}It's said to have lain between India and Australia.{WAIT}Search there.{/SAY}
+
+[154.234]
+Dr. Orangeoiset
+{SAY}What!? Lemuria was real!{WAIT}Unbelievable.{WAIT}The Ararat Key... could that be Ararat Temple, north of Kasbah?{WAIT}I await your report.{/SAY}
+
+[154.235]
+Dr. Orangeoiset
+{SAY}Oh! Welcome back! What? Ararat's Stone of Truth?{WAIT}Hmm... the Deputy might know.{/SAY}
+
+[154.236]
+Dr. Orangeoiset
+{SAY}A sacred bird... could it be South America's...{WAIT}Mm. I'll look into it.{/SAY}
+
+[154.237]
+Dr. Orangeoiset
+{SAY}Oh! {NAME:19}!{WAIT}You got the Stone of Truth!{WAIT}The sacred bird in Ararat's legend must be the Nazca Lines.{WAIT}A clue to the aliens' base must be there!{WAIT}...Careful.{/SAY}
+
+[154.238]
+Linda
+{SAY}They say the Deputy is held in the UN Building...{WAIT}I hope he's safe.{/SAY}
+
+[154.239]
+Linda
+{SAY}...{NAME:01}! Everyone!{WAIT}First, report to the Deputy!{/SAY}
+
+[154.240]
+{SAY}Everyone, Captain Linda! Take care!{/SAY}
+
+[154.241]
+{SAY}Everyone, Captain Linda! Welcome back!{/SAY}
+
+[154.242]
+Linda
+{SAY}Doctor. {NAME:19} and the others you mentioned have arrived.{/SAY}
+
+[154.243]
+{SAY}{NAME:19}, I'm Dr. Orangeoiset.{/SAY}
+
+[154.244]
+Dr. Orangeoiset
+{SAY}Don't laugh. The name's real.{WAIT}My mama gave it to me.{HOLD}I know you from secret Bless reports.{/SAY}
+
+[154.245]
+{NAME:01}
+{SAY}Dr. Orangeoiset! What's this peace treaty with the aliens!?{/SAY}
+
+[154.246]
+Dr. Orangeoiset
+{SAY}Mm... about that...{WAIT}Director Lennon persuaded the President... What is he thinking...{/SAY}
+
+[154.247]
+Linda
+{SAY}I'm Linda.{WAIT}Deputy McCartney, who opposed the treaty,{WAIT}was arrested for treason recently...{WAIT}I hope he's safe...{/SAY}
+
+[154.248]
+Dr. Orangeoiset
+{SAY}We don't oppose the treaty for nothing.{WAIT}If true peace came, we'd sign.{WAIT}But it's too suspicious!{WAIT}Given the aliens' record, we can't trust it...{/SAY}
+
+[154.249]
+Linda
+{SAY}We'd question Director Lennon, but at the UN Building where the ceremony is{WAIT}only his own guard may go near...{/SAY}
+
+[154.250]
+Dr. Orangeoiset
+{SAY}We must see Director Lennon before the ceremony!{WAIT}...But we have no way...{WAIT}And anything bold could get us arrested...{/SAY}
+
+[154.251]
+{NAME:02}
+{SAY}...If they find out we're here, won't you be in trouble?{/SAY}
+
+[154.252]
+Dr. Orangeoiset
+{SAY}The wanted posters? Never mind!{WAIT}Everyone left here can be trusted.{WAIT}As long as you don't wander outside, you're safe.{/SAY}
+
+[154.253]
+Linda
+{SAY}Treating you like that, when you help people everywhere, is too cruel!{/SAY}
+
+[154.254]
+Dr. Orangeoiset
+{SAY}Mm...{WAIT}That too was Director Lennon's advice to the President...{WAIT}Sorry for the trouble.{/SAY}
+
+[154.255]
+{NAME:04}
+{SAY}No. This is our problem too.{/SAY}
+
+[154.256]
+Dr. Orangeoiset
+{SAY}Thank you.{WAIT}...You must be tired.{WAIT}Rest today. We'll think tomorrow.{WAIT}Linda will show you to your beds.{/SAY}
+
+[154.257]
+Linda
+{SAY}This way, please!!{/SAY}
+
+[154.259]
+Linda
+{SAY}This way!{/SAY}
+
+[154.262]
+Linda
+{SAY}Please use this room!{WAIT}Rest well.{/SAY}
+
+[154.263]
+Linda
+{SAY}Leave this to me...!{WAIT}...The rest is up to you!{/SAY}
+
+[154.264]
+Linda
+{SAY}{NAME:19}. I've been waiting.{WAIT}This way, please.{/SAY}
+
+[154.265]
+
+《There's a bed. Stay the night?》
+
+[154.266]
+
+《Then write in your diary?》
+
+[154.267]
+Write in your diary?
+
+[154.268]
+Write in diary
+Read diary
+Sleep
+
+[154.269]
+{SAY}Wake up...!{/SAY}
+
+[154.270]
+{SAY}{NAME:19}! Wake up, quick!!{/SAY}
+
+[154.271]
+{NAME:02}
+{SAY}{NAME:19}! Wake up! It's bad!{/SAY}
+
+[154.272]
+{NAME:04}
+{SAY}Sir {NAME:19}. It's been strangely noisy downstairs.{/SAY}
+
+[154.273]
+{NAME:01}
+{SAY}I heard something like gunshots.{WAIT}{NAME:19}! No time to relax!{/SAY}
+
+[154.276]
+{SAY}{NAME:19}!{/SAY}
+
+[154.277]
+Linda
+{SAY}It's terrible! The guard came to arrest you!{/SAY}
+
+[154.278]
+Guard
+{SAY}There! This way!{/SAY}
+
+[154.279]
+Linda
+{SAY}I'll hold them! Run!!{/SAY}
+
+[154.280]
+Linda
+{SAY}Hyaaah!{/SAY}
+
+[154.281]
+Guard
+{SAY}Whoa!!{/SAY}
+
+[154.282]
+Linda
+{SAY}What are you doing!? Run, quick!{/SAY}
+
+[154.283]
+Guard
+{SAY}There!{/SAY}
+
+[154.284]
+Guard
+{SAY}Secure the front!!{/SAY}
+
+[154.285]
+Guard
+{SAY}There!{/SAY}
+
+[154.286]
+Guard
+{SAY}Move, woman!!{/SAY}
+
+[154.287]
+
+《It's locked》
+
+[154.306]
+{SAY}Whoooa, aliiiens!{/SAY}
+
+[154.307]
+{SAY}Yay, a parade, a parade.{/SAY}
+
+[154.308]
+　{PAUSE:28}But I can't see a thing.
+
+[154.309]
+{SAY}Mister, get super strong,{WAIT}stronger than the aliens, and beat them for sure.{/SAY}
+
+[154.310]
+{SAY}I came in the middle of work, but I'd better go back.{/SAY}
+
+[154.311]
+{SAY}Things calmed down a lot, right? So today's my day off.{/SAY}
+
+[154.312]
+{SAY}I want to see the ceremony, but they won't let me in.{/SAY}
+
+[154.313]
+{SAY}Everyone's working hard to rebuild Manhattan!{/SAY}
+
+[154.314]
+{SAY}I'll show the aliens the real me.{/SAY}
+
+[154.315]
+{SAY}...It hurts...{/SAY}
+
+[154.316]
+{SAY}I didn't even buy clothes. Look!{WAIT}{PAUSE:14}No, not at me, at New York's energy to rebuild!{/SAY}
+
+[154.317]
+{SAY}Firecrackers for the treaty-aru.{/SAY}
+
+[154.318]
+{SAY}Firecrackers when Manhattan revives-aru.{/SAY}
+
+[154.319]
+{SAY}Lord Michael, I wuv you, I wuv you.{/SAY}
+
+[154.320]
+{SAY}Oh, up close you're quite a hunk!{/SAY}
+
+[154.321]
+{SAY}The treaty ceremony is in the UN Building now.{HOLD}I'd love to see it...{/SAY}
+
+[154.322]
+{SAY}Whatever the times, I'll survive!{/SAY}
+
+[154.323]
+{SAY}No alien peace treaty!!{/SAY}
+
+[154.324]
+{SAY}We'll rebuild Harlem!!{/SAY}
+
+[154.325]
+{SAY}We won't lose!!{/SAY}
+
+[154.326]
+{SAY}We'll work!!{/SAY}
+
+[154.327]
+{SAY}Fighting is a student's job!!{/SAY}
+
+[154.328]
+{SAY}Build Harlem with us!!{/SAY}
+
+[154.329]
+{SAY}Hey, you're the wanted four! Right?{/SAY}
+
+
+
+[154.330]
+　{SAY}Eek!! Help!! I'm not an alien!{HOLD}Baby!!{/SAY}
+
+[154.331]
+　{SAY}Tch, wrong guy. Missed out on 1000000G!!{/SAY}
+
+[154.332]
+{SAY}Hey, you're the four who saved New York! Right?{/SAY}
+
+
+
+[154.333]
+　{SAY}...Thank you.{/SAY}
+
+[154.334]
+　{SAY}My, how modest.{PAUSE:0F} Blush.{/SAY}
+
+[154.335]
+{SAY}This is Harlem, New York.{WAIT}You can only reach Manhattan by elevator.{/SAY}
+
+[154.336]
+{SAY}Help! Someone!{/SAY}
+
+[154.337]
+{SAY}When I grow up, I'll ride that elevator up and stay at the Rich Hotel!{/SAY}
+
+[154.338]
+{SAY}Harlem's poor, but it's a good place to live, baby!{/SAY}
+
+[154.339]
+{SAY}With peace, will Harlem get richer...{/SAY}
+
+[154.340]
+{SAY}Hey, Harlem's tough.{WAIT}We don't lose easily!{/SAY}
+
+[154.341]
+{SAY}Even with peace, my child the aliens killed won't come back.{/SAY}
+
+[154.342]
+{SAY}Aliens can't know how a parent feels losing a child.{/SAY}
+
+[154.343]
+{SAY}Welcome.{WAIT}We're busy, so service is limited, but will you stay?{WAIT}1500G.{/SAY}
+
+[154.344]
+{SAY}Welcome.{WAIT}As you see, service is limited, but will you stay?{WAIT}1500G.{/SAY}
+
+[154.345]
+{SAY}Welcome. Our special room is ready.{WAIT}1500G. Will you stay?{/SAY}
+
+[154.346]
+{SAY}You don't have enough money!{/SAY}
+
+[154.347]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[154.348]
+{SAY}Anytime.{/SAY}
+
+[154.349]
+{SAY}Without a New York souvenir, why'd you come?{/SAY}
+
+[154.350]
+{SAY}Come on, a souvenir of New York's fall?{/SAY}
+
+[154.351]
+{SAY}Without a New York souvenir, why'd you come?{/SAY}
+
+[154.352]
+{SAY}Come on, a souvenir of New York's fall?{/SAY}
+
+[154.353]
+{SAY}Why only one bed? ...None of your business.{WAIT}So, anything wrong?{/SAY}
+
+[154.354]
+{SAY}Oh! Not enough money!{/SAY}
+
+[154.355]
+{SAY}We're on our honeymoon! So, one bed!{/SAY}
+
+[154.356]
+{SAY}I came because the Angel Theater out west wants actresses...{WAIT}but it's too far...{WAIT}Darn!{/SAY}
+
+[154.357]
+{SAY}I came because the alien envoy's cool...{WAIT}but only guests can join the parade...{WAIT}Darn!{/SAY}
+
+[154.358]
+{SAY}Grrr! What!{WAIT}Lying aliens!{WAIT}I always get fooled!{/SAY}
+
+[154.359]
+{SAY}Don't blame luck! Stay positive!{PAUSE:1E} Okay!{/SAY}
+
+[154.360]
+{SAY}..........{/SAY}
+
+[154.361]
+{SAY}Time to change trades...{PAUSE:14} Oh, a customer!?{/SAY}
+
+[154.362]
+{SAY}Shopping at a time like this! Good on you!{/SAY}
+
+[154.363]
+{SAY}Armor's about fashion now. Dress up with ours?{/SAY}
+
+[154.364]
+{SAY}Guess I'll close up... Oh, a customer!?{/SAY}
+
+[154.365]
+{SAY}What, a customer!? Shopping at a time like this!{/SAY}
+
+[154.366]
+{SAY}Welcome to Rich Department Store! Best selection in the world.{/SAY}
+
+[154.367]
+{SAY}Hmm hmm hmm hm-hmm!{/SAY}
+
+[154.368]
+{SAY}No no no!{PAUSE:1E} I'm not coming out, no matter what!{/SAY}
+
+[154.369]
+{SAY}Kyaaah{WAIT}Don't look, don't come, don't touch, you...{PAUSE:28} pervert!{/SAY}
+
+[154.370]
+Batty
+{SAY}Ngh... ngh...{PAUSE:14} Standing still isn't easy...{WAIT}Gotta save up money...{/SAY}
+
+[154.371]
+{SAY}Oh, this mannequin is odd.{/SAY}
+
+[154.372]
+{SAY}Fine, I'll die shopping.{/SAY}
+
+[154.373]
+{SAY}Shopping in Manhattan should be like this. Gorgeous!{/SAY}
+
+[154.374]
+{SAY}We won't need weapons like these anymore...{/SAY}
+
+[154.375]
+{SAY}Better to have no weapons at all.{WAIT}But we can't say that now...{/SAY}
+
+[154.376]
+{SAY}Don't peek!{/SAY}
+
+[154.377]
+{SAY}I said don't peek!{/SAY}
+
+[154.379]
+"Hear the cheering!{WAIT}From the giant UFO come President M.K. Washington,{WAIT}NY Bless Director J. Lennon,{WAIT}and the alien envoy, Lord Michael!"
+
+[154.380]
+{NAME:01}
+{SAY}That guy!{/SAY}
+
+[154.381]
+{NAME:02}
+{SAY}So he WAS an alien!?{/SAY}
+
+[154.382]
+{SAY}Kyaa! Lord Michael~!{/SAY}{PAUSE:1E}
+
+[154.383]
+{SAY}Long live the President~!{/SAY}{PAUSE:1E}
+
+[154.384]
+{SAY}Director Lennon~! So cool!{/SAY}{PAUSE:1E}
+
+[154.385]
+{SAY}Long live the aliens!!{/SAY}{PAUSE:1E}
+
+[154.386]
+{SAY}Long live the treaty!{/SAY}{PAUSE:1E}
+
+[154.387]
+"Now the treaty is signed in the UN Building.{WAIT}The sad history ends, and a new age begins!{WAIT}How wonderful!{WAIT}Long live humanity! Long live the aliens!"{HOLD}
+
+[154.388]
+{NAME:01}
+{SAY}{NAME:19}! Let's go!{/SAY}
+
+[154.389]
+Guard
+{SAY}Hey! You there!{/SAY}
+
+[154.390]
+Guard
+{SAY}No one enters the UN Building till the ceremony's ready!{WAIT}Now, leave!{/SAY}
+
+[154.391]
+Guard
+{SAY}Hm? You're...{/SAY}
+
+[154.392]
+{NAME:01}
+{SAY}...Uh-oh! Run!...{/SAY}
+
+[154.393]
+
+《Showed the theater troupe ID!》
+
+[154.394]
+Guard
+{SAY}So you're the troupe! Hurry, the ceremony's starting!{/SAY}
+
+[154.395]
+{SAY}No one enters the UN Building without a permit!{/SAY}
+
+[154.396]
+{SAY}...{/SAY}
+
+[154.397]
+{SAY}{NAME:19}, everyone, New York will be rebuilt!{/SAY}
+
+[154.398]
+{SAY}What? Actors? No, your turn's later!{/SAY}
+
+[154.399]
+{SAY}...{/SAY}
+
+[154.400]
+{SAY}{NAME:19}, everyone, New York will be rebuilt!{/SAY}
+
+[154.401]
+Guard
+{SAY}Hm? Who are you!{WAIT}No one enters without a permit!{/SAY}
+
+[154.402]
+Guard
+{SAY}What? Troupe staff?{WAIT}I heard, but your turn's at the party after the ceremony!!{/SAY}
+
+[154.403]
+{NAME:01}
+{SAY}Hey! Call yourselves Bless members!{WAIT}Aliens would never keep the peace!{/SAY}
+
+[154.404]
+Guard
+{SAY}Don't lecture me when you're not even Bless!{WAIT}Now, get lost!{/SAY}
+
+[154.405]
+{NAME:01}
+{SAY}...{PAUSE:0F}I am {NAME:01}, a member of Neo-Kobe Bless!{/SAY}
+
+[154.406]
+{NAME:01}
+{SAY}And this is {NAME:19}, also of Bless.{WAIT}We must see Director Lennon!{/SAY}
+
+[154.407]
+{SAY}It's the wanted four!{/SAY}{WAIT}
+{SAY}...H-here!?{/SAY}{WAIT}
+{SAY}Emergency!{/SAY}
+
+[154.408]
+{SAY}Freeze!{/SAY}{WAIT}
+{SAY}Come here!{/SAY}
+
+[154.409]
+Guard
+{SAY}Hm? Actors? Then hurry and get ready!{/SAY}
+
+[154.410]
+{SAY}What happened...{/SAY}
+
+[154.411]
+{SAY}We'll work hard with the new Director!{/SAY}
+
+[154.412]
+Guard
+{SAY}Now there'll be peace...{/SAY}
+
+[154.413]
+{SAY}Damn aliens...{/SAY}
+
+[154.414]
+{SAY}Everyone! Good work!{/SAY}
+
+[154.415]
+Guard
+{SAY}Your turn's at the party after the ceremony.{WAIT}What? No, no.{WAIT}You can't attend the ceremony!{/SAY}
+
+[154.416]
+{SAY}Keep wandering and I'll arrest you!{/SAY}
+
+[154.417]
+{SAY}Wow! That was amazing!{/SAY}
+
+[154.418]
+{SAY}Now there'll be peace...{/SAY}
+
+[154.419]
+{SAY}UFOs are so cool!{/SAY}
+
+[154.420]
+{SAY}Kyaa! Lord Michael~!{/SAY}
+
+[154.421]
+{SAY}Awesome!!{/SAY}
+
+[154.422]
+{SAY}Happy aliens!{/SAY}
+
+[154.423]
+{SAY}...Now my dead son is repaid...{WAIT}He fought for peace...{/SAY}
+
+[154.424]
+{SAY}This is as far as we can see.{WAIT}No one's let in the building, to stop terrorism.{/SAY}
+
+[154.425]
+{SAY}Today is a historic day!{/SAY}
+
+[154.426]
+{SAY}Aliens are the in thing now~{/SAY}
+
+[154.427]
+{SAY}They say Lord Michael is very strong!{WAIT}His face under the mask must be beautiful...{WAIT}It must be!{/SAY}
+
+[154.428]
+{SAY}Party today! Time to show my skills!{/SAY}
+
+[154.429]
+《Something is written on the ground... It reads "5".》
+

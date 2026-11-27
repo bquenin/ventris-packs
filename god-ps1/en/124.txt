@@ -1,0 +1,202 @@
+[124.000]
+Write in diary
+Read diary
+Quit
+
+[124.004]
+Write in your diary?
+
+[124.005]
+Write in diary
+Read diary
+Sleep
+
+[124.006]
+{NAME:02}
+{SAY}...You creeps!{/SAY}
+
+[124.007]
+{NAME:03}
+{SAY}Do it again and you're dead meat!{/SAY}
+
+[124.008]
+{NAME:02}
+{SAY}Honestly! Perverts!{/SAY}
+
+[124.009]
+{SAY}Hey!{/SAY}
+
+[124.010]
+{SAY}Don't go in without payin'!{/SAY}
+
+[124.012]
+{NAME:02}
+{SAY}Oh, {NAME:19}. You took a while...{/SAY}
+
+[124.013]
+{NAME:03}
+{SAY}Guys who take long baths aren't popular!{/SAY}
+
+[124.014]
+{NAME:02}
+{SAY}Well? Was the bath nice?{/SAY}
+
+[124.016]
+{NAME:02}
+{SAY}Why are you coming out of the women's bath...?{/SAY}
+
+[124.017]
+{NAME:03}
+{SAY}You creeps!!{/SAY}
+
+[124.018]
+{NAME:02}
+{SAY}Honestly! What are you doing!{/SAY}
+
+[124.019]
+{SAY}Oh my, sorry about that.{WAIT}It's so cold I don't want to leave my room.{WAIT}Now, business, business. It's 500G a night. Will you stay?{/SAY}
+
+[124.020]
+{SAY}You don't have enough money.{/SAY}
+
+[124.021]
+{SAY}Then will you look at your diary?{/SAY}
+
+[124.022]
+{SAY}Come again.{/SAY}
+
+[124.023]
+{SAY}Buy some hot spring specialties.{/SAY}
+
+[124.024]
+{SAY}Welcome. One bath is 10G.{PAUSE:14}{WAIT}...{PAUSE:1E}Just between us, for 100G you can get into the women's bath.{WAIT}Which one?{/SAY}
+
+[124.025]
+Men's bath, 10G
+Women's bath, 100G
+Quit
+
+[124.026]
+{SAY}Come again whenever you feel like it!{/SAY}
+
+[124.027]
+{SAY}Huh. You don't have enough money.{/SAY}
+
+[124.028]
+{SAY}Come again whenever you feel like it!{/SAY}
+
+[124.029]
+{NAME:02}
+{SAY}Are you serious, {NAME:19}?{/SAY}
+
+[124.030]
+{NAME:03}
+{SAY}{NAME:01}! You are the worst!{/SAY}
+
+[124.031]
+{NAME:01}
+{SAY}I-it's obviously a joke! Right, {NAME:19}!{/SAY}
+
+[124.032]
+{NAME:02}
+{SAY}I'll get angry! {NAME:19}!{/SAY}
+
+[124.033]
+{NAME:01}
+{SAY}I-it's obviously a joke! Right, {NAME:04}!{/SAY}
+
+[124.034]
+{NAME:04}
+{SAY}Of course!{/SAY}
+
+[124.039]
+{NAME:02}
+{SAY}Well then, we'll be over there...{/SAY}
+
+[124.040]
+{NAME:03}
+{SAY}Peek and you're dead!{/SAY}
+
+[124.045]
+{NAME:02}
+{SAY}See you later.{/SAY}
+
+[124.046]
+{SAY}A glass of milk after the bath! The best!{/SAY}
+
+[124.047]
+{SAY}Bathing in this hot spring makes your skin silky smooth!{PAUSE:1E} I'm glad I came!{/SAY}
+
+[124.048]
+{SAY}Heh heh, you know what? If you dive under the water, you can get into the women's bath next door!{WAIT}{PAUSE:0A}What?{PAUSE:05} How?{PAUSE:14} Hold your breath and keep tapping the ○ button.{WAIT}Mess up and you'll drown.{/SAY}
+
+[124.049]
+
+《Life is a challenge! Try it?》
+
+[124.050]
+{SAY}That's the spirit!{/SAY}
+
+[124.051]
+{SAY}Chicken!{/SAY}
+
+[124.052]
+{SAY}You okay? Well, don't push it!{/SAY}
+
+[124.053]
+{SAY}Did you make it to the women's bath?{/SAY}
+
+[124.054]
+{SAY}Lucky.{/SAY}
+
+[124.055]
+{SAY}I haven't yet either. Makes your heart pound, huh.{/SAY}
+
+[124.056]
+{SAY}Nice bath, this.{WAIT}I ain't givin' up~.{WAIT}I'll build my buildings in Osaka again for sure.{/SAY}
+
+[124.057]
+
+《There was a granny in the women's bath!》
+
+[124.058]
+{NAME:02}
+{SAY}Ah!{/SAY}
+
+[124.059]
+{NAME:03}
+{SAY}You guys!{/SAY}
+
+[124.060]
+{NAME:02}
+{SAY}Kyaaaah!!! ...Perverts!{/SAY}
+
+[124.061]
+{NAME:03}
+{SAY}Take this, this, this, this!{/SAY}
+
+[124.062]
+{NAME:02}
+{SAY}Ah! What are you doing!{/SAY}
+
+[124.063]
+{NAME:02}
+{SAY}No no no no! Nooooo!{/SAY}
+
+[124.064]
+{SAY}You made it! Granny's so happy!{WAIT}Here, a reward for your hard work!{/SAY}
+
+[124.065]
+
+《Got {WORD}!》
+
+[124.066]
+《But you already have 99 {WORD}!》
+
+[124.067]
+
+《Gave up on {WORD}...》
+
+[124.068]
+{SAY}Come again. Granny will be waiting!{/SAY}
+

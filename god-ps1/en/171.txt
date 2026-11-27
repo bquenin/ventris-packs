@@ -1,0 +1,535 @@
+[171.000]
+Write in diary
+Read diary
+Quit
+
+[171.002]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[171.003]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[171.004]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[171.005]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[171.008]
+Write in your diary?
+
+[171.009]
+Write in diary
+Read diary
+Sleep
+
+[171.010]
+{NAME:01}
+{SAY}Where is this......?{/SAY}
+
+[171.011]
+{NAME:04}
+{SAY}...Strange.{PAUSE:14} I sense no fighting spirit...{/SAY}
+
+[171.012]
+{NAME:01}
+{SAY}{NAME:19}! This is the aliens' home base!?{WAIT}We may never get here again!{WAIT}We can't turn back!{/SAY}
+
+[171.013]
+{NAME:04}
+{SAY}They haven't noticed us yet...{WAIT}Let's get out while we can!{/SAY}
+
+[171.014]
+{NAME:02}
+{SAY}{NAME:01}...?{/SAY}
+
+[171.015]
+{NAME:01}
+{SAY}Huh? ...Oh, it's nothing...{/SAY}
+
+[171.016]
+{NAME:01}
+{SAY}Let's go...{/SAY}
+
+[171.017]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[171.018]
+{NAME:04}
+{SAY}Lady {NAME:02}...?{/SAY}
+
+[171.019]
+{NAME:02}
+{SAY}Huh? ...Oh, I'm sorry...{/SAY}
+
+[171.020]
+{NAME:01}
+{SAY}{NAME:19}! What are you doing!{WAIT}Let's get out of here!!{/SAY}
+
+[171.021]
+{SAY}...{PAUSE:1E}They told me not to come here. I'm going back...{/SAY}
+
+[171.022]
+{SAY}Huh, I don't know your face...{WAIT}Here? What are you saying? It's Luna City, on the far side of the moon.{WAIT}...Aha, you just woke from cold sleep and you're still groggy.{/SAY}
+
+[171.023]
+{SAY}I'm finally being sent out to Earth.{WAIT}Even for that, going to Earth is a great joy.{/SAY}
+
+[171.024]
+{SAY}Just getting cold sleep is lucky. Both my children were killed on Earth.{WAIT}My third child will wake from cold sleep soon...{/SAY}
+
+[171.025]
+{SAY}I thought I heard something like a groan, or a scream...{WAIT}Just my imagination, I guess.{/SAY}
+
+[171.026]
+{SAY}Oh, sightseeing?{WAIT}This gathers energy from underground.{WAIT}But it's almost run out...{/SAY}
+
+[171.027]
+{SAY}Strange... the city's energy is draining fast...{WAIT}I can't reach Lord Lucifer...{WAIT}And that tremor earlier... I have a bad feeling...{/SAY}
+
+[171.028]
+{SAY}Sniff...{WAIT}Sniff...{WAIT}I'm... Little Ma...{/SAY}
+
+[171.029]
+{NAME:02}
+{SAY}{NAME:19}, what do we do? Take him along?{/SAY}
+
+[171.030]
+Leave him
+Take him
+
+[171.031]
+{SAY}Which will it be, {NAME:19}?{/SAY}
+
+[171.032]
+{NAME:02}
+{SAY}...I see.{/SAY}
+
+[171.033]
+{NAME:02}
+{SAY}Come along, little one. Your mama's worried.{/SAY}
+
+[171.034]
+{SAY}Thank you, mister, miss!{/SAY}
+
+[171.035]
+{SAY}Oh? You look pale. Let me take a look.{/SAY}
+
+[171.036]
+{SAY}You don't have enough money.{/SAY}
+
+[171.037]
+{SAY}Are you healthy, mister?{/SAY}
+
+[171.038]
+{SAY}Lucky...{/SAY}
+
+[171.039]
+{SAY}Then you're the same as me...{/SAY}
+
+[171.040]
+{SAY}We stretched our lives with cold sleep, so we're all weak.{WAIT}Mama said so.{/SAY}
+
+[171.041]
+{SAY}My boyfriend is in cold sleep now.{WAIT}See, one of those lights over there...{WAIT}I always come to look at his capsule.{/SAY}
+
+[171.042]
+{SAY}I can't meet him in cold sleep, but if I go to Lord Lucifer,{WAIT}he shows me how my boyfriend used to be, by telepathy.{WAIT}That's my only comfort...{/SAY}
+
+[171.043]
+{SAY}I wish the time to move would come soon.{WAIT}They say Earth is hundreds of thousands of times bigger than Luna City.{WAIT}Wow! I can't even imagine!{/SAY}
+
+[171.044]
+{SAY}Tomorrow it's my turn for Lord Lucifer to tell me stories!{WAIT}I can't wait!{/SAY}
+
+[171.045]
+{SAY}I'm going into cold sleep soon too. It can't be helped.{WAIT}Luna City is too small...{/SAY}
+
+[171.046]
+{SAY}It feels like it got colder...{WAIT}Is it just me...?{/SAY}
+
+[171.047]
+{SAY}I know. We came from Earth, and soon we'll go back to Earth.{/SAY}
+
+[171.048]
+{SAY}Yay! Yay! An earthquake! An earthquake!{/SAY}
+
+[171.049]
+{SAY}Soon we'll see the blue sky, right? Yay!{/SAY}
+
+[171.050]
+{SAY}Is this an earthquake!? Yay! Yay!!{/SAY}
+
+[171.051]
+{SAY}Soon we can go to the sea, right?{/SAY}
+
+[171.052]
+{SAY}It just shook, right!? Rumble rumble!{/SAY}
+
+[171.053]
+{SAY}Earth has a blue sky and a blue sea, you know.{/SAY}
+
+[171.054]
+{SAY}It's all right! Don't panic! We have Lord Lucifer with us!{/SAY}
+
+[171.055]
+{SAY}I love watching the stars from here.{WAIT}When I think of the Earth I can't see, somehow tears well up.{/SAY}
+
+[171.056]
+{SAY}Home is a place to long for from afar...{HOLD}But really, I want to go back soon.{/SAY}
+
+[171.057]
+Little Ma
+{SAY}Mama!{/SAY}
+
+[171.058]
+{SAY}Little Ma!{/SAY}
+
+[171.059]
+{SAY}Oh! Little Ma!{WAIT}Thank you so much!{/SAY}
+
+[171.060]
+{SAY}It's not much, but please take this.{/SAY}
+
+[171.061]
+
+《Got a Luna Bun!》
+
+[171.062]
+{SAY}Thank you so much.{/SAY}
+
+[171.063]
+{SAY}Where did my Little Ma go?{WAIT}He just woke from cold sleep and he's still groggy...{/SAY}
+
+[171.064]
+{NAME:02}
+{SAY}{NAME:19}, isn't that the boy from before? Shall we tell her?{/SAY}
+
+[171.065]
+Leave it
+Tell her
+
+[171.066]
+{SAY}Which will it be, {NAME:19}?{/SAY}
+
+[171.067]
+{NAME:02}
+{SAY}...I see.{/SAY}
+
+[171.068]
+{SAY}Oh, really...{WAIT}What to do...{WAIT}I'm preparing for cold sleep and can't leave right now.{WAIT}I'm sorry, but could you bring him here?{/SAY}
+
+[171.069]
+{SAY}Thank you.{/SAY}
+
+[171.070]
+{SAY}...I see.{/SAY}
+
+[171.071]
+{SAY}Please.{WAIT}Please bring Little Ma to me.{/SAY}
+
+[171.072]
+{SAY}Thank you so much.{/SAY}
+
+[171.073]
+{SAY}My, you look pale. Are you all right?{WAIT}Your cold sleep must not have gone well.{WAIT}Want to rest?{/SAY}
+
+[171.074]
+{SAY}Then look at your diary?{/SAY}
+
+
+[171.075]
+{SAY}I see... Take care.{/SAY}
+
+[171.076]
+{SAY}Thanks to cold sleep, we met for the first time in ten years.{/SAY}
+
+[171.077]
+{SAY}I don't... want to be apart again...{/SAY}
+
+[171.078]
+{SAY}Now it's her turn for cold sleep.{HOLD}If we don't get back to Earth soon, I may never see her again.{/SAY}
+
+[171.079]
+{SAY}Just a little longer... Once we're back on Earth, we'll be together forever...{/SAY}
+
+[171.080]
+{SAY}Welcome! We're low on supplies, but... what'll it be?{/SAY}
+
+[171.081]
+{SAY}Thank you!{/SAY}
+
+[171.082]
+{NAME:01}
+{SAY}...{PAUSE:1E}I,{PAUSE:0A} I don't know anymore.{/SAY}
+
+[171.083]
+{NAME:02}
+{SAY}What?{/SAY}
+
+[171.084]
+{NAME:01}
+{SAY}...As a kid, I loved war shows...{WAIT}When America shot down a Soviet plane, man, I was happy.{WAIT}......{PAUSE:28}I was happy...{/SAY}
+
+[171.085]
+{NAME:04}
+{SAY}...{PAUSE:14}Sir {NAME:01}.{/SAY}
+
+[171.086]
+{NAME:01}
+{SAY}But I'm not about to forgive the aliens one bit.{WAIT}They killed {NAME:03}.{WAIT}I'll never forgive them...{/SAY}
+
+[171.087]
+{NAME:02}
+{SAY}...{PAUSE:14}{NAME:01}.{/SAY}
+
+[171.088]
+{NAME:01}
+{SAY}{NAME:19},{PAUSE:1E} what should I do?{/SAY}
+
+[171.089]
+{SAY}My son is fighting on Earth, at a place called Stonehenge. As a general, of course.{/SAY}
+
+[171.090]
+{SAY}I heard humans destroyed the Stonehenge base.{HOLD}Unthinkable.{WAIT}If it's true, my son... No! Not my boy...{/SAY}
+
+[171.091]
+{SAY}...Mothers who lost children gather like this and encourage each other to go on.{WAIT}Me?{PAUSE:14} My child guards a place called Atlantis.{/SAY}
+
+[171.092]
+{SAY}Sacrifice comes with a long war, but...{WAIT}what are we fighting for?{WAIT}We only want to go home...{/SAY}
+
+[171.093]
+{SAY}...{PAUSE:1E}I haven't told my wife about our son yet...{/SAY}
+
+[171.094]
+{SAY}When I feel sad, I go see Lord Lucifer.{HOLD}Lord Lucifer often tells of the home we left long, long ago.{WAIT}Of our dear Earth...{/SAY}
+
+[171.095]
+{SAY}...They say my son died at a place called Ayers Rock.{/SAY}
+
+[171.096]
+{SAY}Have you met Lord Lucifer?{/SAY}
+
+[171.097]
+{SAY}He's a wonderful being.{WAIT}You could call him the heart of Luna City.{/SAY}
+
+[171.098]
+{SAY}He's wonderful.{WAIT}He gives comfort to those of us who lost children.{/SAY}
+
+[171.099]
+{SAY}...They say my son died at a place called Angkor Wat.{WAIT}Have you been to Earth?{/SAY}
+
+[171.100]
+{SAY}Then you may have met my child somewhere...{/SAY}
+
+[171.101]
+{SAY}Soon. Soon we will win.{HOLD}Then we'll see our dear home...{/SAY}
+
+[171.102]
+{SAY}What was that...{WAIT}No, I thought something shook...{/SAY}
+
+[171.103]
+{SAY}...They say my child died at a place called Chichen Itza.{/SAY}
+
+[171.104]
+{SAY}As long as Lord Lucifer is here, Luna City is safe.{WAIT}My son who died said so.{/SAY}
+
+[171.105]
+{SAY}...They say my child died at a place called Lemuria.{/SAY}
+
+[171.106]
+{SAY}I thought I heard a sad voice just now... What was it...{/SAY}
+
+[171.107]
+{SAY}...{PAUSE:1E}They told me not to come here. I'm going back...{/SAY}
+
+[171.108]
+"Intruder detected! Intruder detected!"{HOLD}
+
+[171.111]
+{NAME:01}
+{SAY}...What's this!?{/SAY}
+
+[171.112]
+{NAME:02}
+{SAY}It's like... it's alive.{/SAY}
+
+[171.113]
+{NAME:04}
+{SAY}No... it IS alive. But... this is like...{/SAY}
+
+[171.114]
+"Intruder detected! Intruder detected!"{HOLD}
+
+[171.115]
+{NAME:04}
+{SAY}It's dangerous to go on like this!{/SAY}
+
+[171.116]
+{NAME:01}
+{SAY}Then what do we do!? I dunno why, but Exas doesn't work here!{/SAY}
+
+[171.117]
+{NAME:02}
+{SAY}No...{/SAY}
+
+[171.118]
+{NAME:02}
+{SAY}Maybe because we beat Lucifer...{WAIT}The barrier feels weaker than before.{WAIT}From here, if we join our power, we might fly near the surface.{/SAY}
+
+[171.119]
+{NAME:01}
+{SAY}All right! {NAME:19}! Let's try it!{/SAY}
+
+[171.120]
+{NAME:04}
+{SAY}But... there's no other way...{/SAY}
+
+[171.121]
+
+《{NAME:19} and company prayed as one!》
+
+[171.122]
+{NAME:02}
+{SAY}From here, if we join our power, we might fly near the surface.{/SAY}
+
+[171.123]
+{NAME:01}
+{SAY}All right! {NAME:19}! Let's try it!{/SAY}
+
+[171.124]
+{NAME:04}
+{SAY}But... there's no other way...{/SAY}
+
+[171.125]
+{NAME:04}
+{SAY}Sir {NAME:19}! It's dangerous ahead!{/SAY}
+
+[171.126]
+{NAME:01}
+{SAY}...What's this!?{/SAY}
+
+[171.127]
+{NAME:04}
+{SAY}A giant brain!{/SAY}
+
+[171.128]
+{NAME:01}
+{SAY}No way!? A monster that's just a brain!!{/SAY}
+
+[171.129]
+Lucifer
+{SAY}......{PAUSE:28}My name is Lucifer.{/SAY}
+
+[171.130]
+{NAME:04}
+{SAY}...Now, let's go.{WAIT}If we don't hurry, aliens will come here too.{/SAY}
+
+[171.131]
+{NAME:01}
+{SAY}Wait a sec!{/SAY}
+
+[171.132]
+{NAME:01}
+{SAY}This is...{/SAY}
+
+[171.133]
+{NAME:02}
+{SAY}What!?{/SAY}
+
+[171.134]
+{NAME:04}
+{SAY}Sir {NAME:01}...{/SAY}
+
+[171.135]
+{NAME:01}
+{SAY}...{PAUSE:14}Probably the device that controls this city's energy.{WAIT}If we overload it...{/SAY}
+
+[171.136]
+{NAME:04}
+{SAY}Do that and the whole city will collapse!{/SAY}
+
+[171.137]
+{NAME:01}　
+{SAY}{NAME:19}... what'll we do?{/SAY}
+
+[171.138]
+{NAME:02}
+{SAY}{NAME:19}......{/SAY}
+
+[171.139]
+
+《Overload the control device?》
+
+[171.140]
+Overload the device
+Escape as we are
+
+[171.141]
+{NAME:01}{SAY}{NAME:19}! Which is it!?{/SAY}
+
+[171.142]
+{NAME:01}
+{SAY}All right!{/SAY}
+
+[171.143]
+{NAME:01}
+{SAY}Now! The aliens'll come pouring in!{WAIT}Let's get out!{/SAY}
+
+[171.144]
+{NAME:04}
+{SAY}Yes. We'd better get out fast.{WAIT}Let's go!{/SAY}
+
+[171.145]
+"Intruder detected! Intruder detected!"{HOLD}
+
+[171.146]
+"Emergency! Emergency!{PAUSE:14}
+　System error{PAUSE:14}
+　System error{WAIT}
+　Intruders in the main
+　control room!
+　All units to battle stations!"{HOLD}
+
+[171.147]
+{NAME:01}
+{SAY}Uh-oh... they're onto us.{/SAY}
+
+[171.148]
+{NAME:02}
+{SAY}Ah!{/SAY}
+
+[171.149]
+{NAME:04}
+{SAY}Let's hurry!{/SAY}
+
+[171.150]
+{NAME:01}
+{SAY}...{PAUSE:14}Nazca's "Road to God". Looks like we made it back to Earth safe.{/SAY}
+
+[171.151]
+{NAME:04}
+{SAY}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} The aliens will keep coming from the moon, I suppose...{/SAY}
+
+[171.152]
+{NAME:01}
+{SAY}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14} They killed {NAME:03}...{/SAY}
+
+[171.153]
+{NAME:02}
+{SAY}...{PAUSE:1E}But if we'd pressed the switch...{WAIT}I... agree with {NAME:19}'s decision.{/SAY}
+
+[171.154]
+{NAME:04}
+{SAY}...{PAUSE:1E}Lady {NAME:02}. If we hadn't pressed it, the aliens would have kept coming to Earth.{/SAY}
+
+[171.155]
+{NAME:01}
+{SAY}...They killed {NAME:03}...{/SAY}
+
+[171.156]
+{NAME:02}
+{SAY}...{PAUSE:1E}I know... but...{/SAY}
+

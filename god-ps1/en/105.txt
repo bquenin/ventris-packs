@@ -1,0 +1,1779 @@
+[105.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[105.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[105.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[105.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[105.005]
+Write in diary
+Read diary
+Quit
+
+[105.008]
+Write in your diary?
+
+[105.009]
+Write in diary
+Read diary
+Sleep
+
+[105.011]
+Write in your diary?
+
+[105.012]
+Write in diary
+Read diary
+Sleep
+
+[105.013]
+{SAY}Hey! You there!{/SAY}
+
+[105.014]
+{SAY}Freeze!{/SAY}
+
+[105.015]
+{SAY}You! Who are you!{/SAY}
+
+[105.016]
+{SAY}What! The doctor!?{/SAY}
+
+[105.017]
+{SAY}...Tell the Director, quick!{/SAY}
+
+[105.018]
+{SAY}Sir {NAME:19}!{/SAY}
+
+[105.019]
+{SAY}Dr. Closet awaits you in her lab!{/SAY}
+
+[105.020]
+{SAY}Sir {NAME:19}!{/SAY}
+
+[105.021]
+{SAY}Dr. Closet awaits you in her lab!{/SAY}
+
+[105.022]
+{SAY}Not the doctor...{WAIT}Report to the Director, quick!{/SAY}
+
+[105.023]
+{SAY}This is Under Neo-Kobe.{WAIT}No entry without permission.{/SAY}
+
+[105.024]
+{SAY}Ah,{PAUSE:0A} you're...{PAUSE:14} The Director awaits. Hurry to the command room!{/SAY}
+
+[105.025]
+{SAY}Sir {NAME:19}! Take care!{/SAY}
+
+[105.026]
+{SAY}Oh, Dr. Closet awaits you in her lab!{/SAY}
+
+[105.027]
+{SAY}Aliens still linger outside.{WAIT}Take care on your journey.{/SAY}
+
+[105.028]
+{SAY}{NAME:19}! Dr. Closet awaits you in her lab!{/SAY}
+
+[105.029]
+{SAY}Please take care!!{/SAY}
+
+[105.030]
+{SAY}This is terrible...! How long will this underground town last...!{/SAY}
+
+[105.031]
+{SAY}The Director is in the command room at the back.{PAUSE:19} Quick!{/SAY}
+
+[105.032]
+{SAY}Inside this town, at least, it's safe.{/SAY}
+
+[105.033]
+{SAY}The Attack Team came back safe!{WAIT}All thanks to you.{/SAY}
+
+[105.034]
+{SAY}It's still dangerous outside! Stay safe!{/SAY}
+
+[105.035]
+{SAY}Oh, Dr. Closet was looking for you...{/SAY}
+
+[105.036]
+{SAY}The Director awaits. Hurry.{/SAY}
+
+[105.037]
+{SAY}Good work! Make yourself at home!{/SAY}
+
+[105.038]
+{SAY}Leave this town to us!{/SAY}
+
+[105.039]
+{SAY}This is terrible! Keeping people from panicking is all I can do!{/SAY}
+
+[105.040]
+{SAY}{NAME:01}. {NAME:19}.{PAUSE:14} Welcome back.{WAIT}We've been waiting.{/SAY}
+
+[105.041]
+{SAY}{NAME:01}! Welcome back!{PAUSE:28} ...You're safe.{/SAY}
+
+[105.042]
+{SAY}This is Under Neo-Kobe, built underground to hide from the aliens, ya know.{WAIT}This is the real Neo-Kobe!{WAIT}The town up top's just a front!{/SAY}
+
+[105.043]
+{SAY}Ya beat Dr. Z!? He turned my Pochi into a monster.{HOLD}Thanks for gettin' even!{/SAY}
+
+[105.044]
+{SAY}Yo! Buddy!{WAIT}I hear a lotta talk about you guys lately.{WAIT}Keep it up and roll those aliens up!{/SAY}
+
+[105.045]
+{SAY}Don't it feel hotter?{WAIT}...Is that Mt. Fuji's eruption too...{/SAY}
+
+[105.046]
+{SAY}Hey, I heard!{WAIT}Ya beat the Sea of Japan meteorite aliens to a pulp!{WAIT}Impressive!{/SAY}
+
+[105.047]
+{SAY}Hey, I heard!{WAIT}Ya're beatin' aliens to a pulp all over the world!{WAIT}Impressive!{/SAY}
+
+[105.048]
+{SAY}Under Neo-Kobe's split into the town and the Bless!{WAIT}Left's the Bless. Right's the town!{WAIT}They're linked by other tunnels too, so go explore!{/SAY}
+
+[105.049]
+{SAY}Hey, I heard! Ya really did it!{/SAY}
+
+[105.050]
+{SAY}I ain't just wanderin'. This is patrol.{WAIT}So busy, so busy!{/SAY}
+
+[105.051]
+{SAY}This is bad! This is bad!!{/SAY}
+
+[105.052]
+{SAY}Leave this town to us!{WAIT}We'll mop up the leftover small fry!{/SAY}
+
+[105.053]
+{SAY}Come here if you're poisoned or knocked out.{WAIT}What? "Instead of a church"?{PAUSE:14} A church can't heal wounds.{WAIT}...Ever been told that?{/SAY}
+
+[105.054]
+{SAY}Puff-puff?{PAUSE:14} Don't joke at a time like this!{/SAY}
+
+[105.055]
+{SAY}Too busy to even fall in love!{WAIT}Out of my way! Move!{/SAY}
+
+[105.056]
+{SAY}Dammit! Aliens, just you wait!{/SAY}
+
+[105.057]
+{SAY}Too bad! If I weren't hurt, I'd...{/SAY}
+
+[105.058]
+{SAY}Nurse~ my athlete's foot isn't healed, so I can stay, right?{PAUSE:28} ...itchy, itchy.{/SAY}
+
+[105.059]
+{SAY}This isn't dug through yet.{WAIT}To get to the Bless, go around through town.{/SAY}
+
+[105.060]
+{SAY}Still under construction.{WAIT}Sigh, I want to finish and go for a drink...{/SAY}
+
+[105.061]
+{SAY}We look after children whose parents were killed or taken by aliens.{WAIT}It's dangerous above, so they can't go out. Poor things...{/SAY}
+
+[105.062]
+{SAY}Come on, everyone, quiet!{/SAY}
+
+[105.063]
+{SAY}Thanks to you, they can sometimes play outside now.{WAIT}I thank you for the children.{/SAY}
+
+[105.064]
+{SAY}Come on, everyone, quiet dowwwn!{/SAY}
+
+[105.065]
+{SAY}If only I could show them a peaceful Japan...{WAIT}But is it hopeless now...{/SAY}
+
+[105.066]
+{SAY}These kids teach me so much.{WAIT}They're all good kids!{/SAY}
+
+[105.067]
+{SAY}Come on, everyone, quiet!{/SAY}
+
+[105.068]
+{SAY}Them stupid aliens took my ma.{HOLD}I wanna get strong.{PAUSE:28} I wanna get strong!{/SAY}
+
+[105.069]
+{SAY}Ah, it's you!{PAUSE:19}{WAIT}I'm gettin' stronger bit by bit.{WAIT}Someday I'll save my ma from the aliens.{PAUSE:19} Watch me!{/SAY}
+
+[105.070]
+{SAY}There was a huge quake just now, right?{/SAY}
+
+[105.071]
+{SAY}Hey you! I'm the one who avenges my pa and ma!{WAIT}Don't go butting in!{WAIT}...But,{PAUSE:1E} well,{PAUSE:1E} thanks.{/SAY}
+
+[105.072]
+{SAY}Hey you! Doin' your best?{WAIT}I'm doin' mine!{/SAY}
+
+[105.073]
+{SAY}Hey, mister. Do you know my papa?{/SAY}
+
+[105.074]
+{SAY}I wish he'd come home soon...{/SAY}
+
+[105.075]
+{SAY}He's guarding a great doctor on Mt. Tsukubane!{PAUSE:14} Cool, right!{/SAY}
+
+[105.076]
+{SAY}Papa's on a trip to a far country.{PAUSE:19} I wish he'd come home soon...{/SAY}
+
+[105.077]
+{SAY}That was a surprise!{/SAY}
+
+[105.078]
+{SAY}I feel like Papa won't come home.{WAIT}But I'm not sad!{WAIT}Papa said he's always with me!{/SAY}
+
+[105.079]
+{SAY}The Attack Team soldiers went to beat up the aliens!{/SAY}
+
+[105.080]
+{SAY}Will you do what I ask?{/SAY}
+
+[105.081]
+{SAY}Beat the aliens to bits!{/SAY}
+
+[105.082]
+{SAY}...Sorry. I was being selfish...{/SAY}
+
+[105.083]
+{SAY}Will the quakes sink Japan? ...That's a lie, right?{/SAY}
+
+[105.084]
+{SAY}See! Just like I said!{WAIT}I knew we'd never lose to aliens!{/SAY}
+
+[105.085]
+{SAY}Yay! Yay!!{/SAY}
+
+[105.086]
+{SAY}Mister, are you strong? Wow!{/SAY}
+
+[105.087]
+{SAY}I want to play outside soon...{/SAY}
+
+[105.088]
+{SAY}Ya know what?{/SAY}
+
+[105.089]
+{SAY}The Attack Team captain is real strong!{WAIT}Aliens ain't nothin'!{/SAY}
+
+[105.090]
+{SAY}The Attack Team set out for Inuyama Zoo!
+{/SAY}
+
+[105.091]
+{SAY}Unbelievable!{/SAY}
+
+[105.092]
+{SAY}They say there's a guy as strong as the captain!{/SAY}
+
+[105.093]
+{SAY}No such guy! Right!?{/SAY}
+
+[105.094]
+{SAY}Somebody saw a giant snake up north.{WAIT}And it had eight heads, they say!{/SAY}
+
+[105.095]
+{SAY}Finally, or at long last...{/SAY}
+
+[105.096]
+{SAY}Mt. Fuji erupted, they say!{/SAY}
+
+[105.097]
+{SAY}What? You know somethin'? Tell me!{/SAY}
+
+[105.098]
+{SAY}Tch!{/SAY}
+
+[105.099]
+{SAY}You're an outsider, huh?{WAIT}Ah,{PAUSE:14} no matter. We snuck in here too, so don't mind!{/SAY}
+
+[105.100]
+{SAY}I hear ya were great at Inuyama Zoo!{WAIT}Just as I figured!{/SAY}
+
+[105.101]
+{SAY}Life's gotten real easy lately!{WAIT}All thanks to you!{/SAY}
+
+[105.102]
+{SAY}Just when life got easy! Now this...{/SAY}
+
+[105.103]
+{SAY}Humans win,{PAUSE:1E} aliens leave Earth,{PAUSE:1E} peace comes.{WAIT}I wanna see that three-run homer soon...{/SAY}
+
+[105.104]
+{SAY}I came here to spread the Myaa way, myaa!{WAIT}...But{PAUSE:14} the takoyaki here's pretty good, myaa...{/SAY}
+
+[105.105]
+{SAY}What! You beat the Inuyama Zoo aliens, myaa?{WAIT}Hmm... the Myaa way spreads one step more, myaa!{/SAY}
+
+[105.106]
+{SAY}...Oh? Are you honorary citizen {NAME:19}!{WAIT}I've heard, myaa! ...Be happy with Princess Myaa, myaa!{/SAY}
+
+[105.107]
+　Ah! Right!{WAIT}
+　Take this, myaa!
+
+[105.108]
+
+《Got {WORD}!》
+
+[105.109]
+《But {NAME:19} already has 99 {WORD}!》
+
+[105.110]
+
+《{NAME:19} gave up on {WORD}...》
+
+[105.111]
+{SAY}I hate quakes, myaa! Do something, myaa!{/SAY}
+
+[105.112]
+{SAY}That's our honorary citizen! I'm so proud, myaa!{/SAY}
+
+[105.113]
+{SAY}Not bad, nyaa! I'm so proud, myaa!{/SAY}
+
+[105.114]
+{SAY}The Director told us to wait here.{/SAY}
+
+[105.115]
+{SAY}What's going on in there!?{/SAY}
+
+[105.116]
+{SAY}The Director went inside, but...{/SAY}
+
+[105.117]
+{SAY}What's happening...{/SAY}
+
+[105.118]
+{SAY}The bar owner came to tell the Director there was trouble.{WAIT}We tried to stop him, but he went alone...{/SAY}
+
+[105.119]
+{SAY}They say a ghost showed up!{/SAY}
+
+[105.120]
+"Waah!!"{PAUSE:28}
+
+[105.121]
+{NAME:01}
+{SAY}That voice...! Right! Hurry!!{/SAY}
+
+[105.122]
+{SAY}It's noisy upstairs...{/SAY}
+
+[105.123]
+{SAY}Everyone! Go through!{/SAY}
+
+[105.124]
+{SAY}Through this passage is Neo-Kobe Bless HQ.{/SAY}
+
+[105.125]
+{SAY}Welcome. A room is 300G a night. Will you stay?{/SAY}
+
+[105.126]
+{SAY}Pardon, but you're short on money.{/SAY}
+
+[105.127]
+{SAY}Then peek at your diary?{/SAY}
+
+[105.128]
+{SAY}We hope to see you again.{/SAY}
+
+[105.129]
+{SAY}A great psycho-power man at Bless?{WAIT}OH!{PAUSE:05} Isn't that the captain?{WAIT}...Me think so. Very much!{WAIT}{PAUSE:05}You want know about him?{/SAY}
+
+[105.130]
+{SAY}He is my best friend.{WAIT}He was in Amerika army before,{WAIT}now somehow Kobe Bless.{WAIT}Great psychic power. Super psycho, super cool!{/SAY}
+
+[105.131]
+{SAY}You no ask,{PAUSE:0A} me no tell.{PAUSE:0A}{WAIT}Then no story.{WAIT}One more question!{/SAY}
+
+[105.132]
+{SAY}OH! Good the captain is safe.{WAIT}His psycho is super after all.{WAIT}...By the way, in Kyushu a religion, Fatima cult, is popular.{WAIT}Join Fatima, aliens no attack you, they say.{WAIT}Fatima? Huh? What?!{/SAY}
+
+[105.133]
+{SAY}OH! {NAME:01}! You well? Still traveling?{PAUSE:14} Take care.{WAIT}Have a nice journey. Bye-bye.{/SAY}
+
+[105.134]
+Director Akashi
+{SAY}It's a bit much for us.{WAIT}Sorry, but please get rid of that thing!{/SAY}
+
+[105.135]
+Ken
+{SAY}Yo!!{WAIT}I hear you guys are pretty famous.{WAIT}Well, someday me too...!!{/SAY}
+
+[105.136]
+{SAY}Ah! It's you!{WAIT}You saved me under Izumo Shrine.{WAIT}It's not much, but take this!{/SAY}
+
+[105.137]
+
+《Received {WORD}!》
+
+[105.138]
+《But you already have 99 {WORD}!》
+
+[105.139]
+
+《Gave up on {WORD}...》
+
+[105.140]
+{SAY}I'm a waitress here.{WAIT}Make yourselves at home!{/SAY}
+
+[105.141]
+{SAY}In this age, nowhere's safe.{HOLD}All I can do here is wait tables, but I'll live my life well!{/SAY}
+
+[105.144]
+Batty
+{SAY}Ah! You!{/SAY}
+
+[105.145]
+Batty
+{SAY}Why are there two {NAME:19}s!!{/SAY}
+
+[105.146]
+Ken
+{SAY}...I told you! I'm not {NAME:19}!{/SAY}
+
+[105.147]
+Ken
+{SAY}So you're {NAME:19}! Do something about this guy, quick!{/SAY}
+
+[105.148]
+Batty
+{SAY}Grr~! Then let's start over from the top!!{WAIT}{PAUSE:1E}Lights, please~!{/SAY}
+
+[105.149]
+Batty
+{SAY}Music!{PAUSE:1E} Start!!{/SAY}
+
+[105.150]
+Batty
+{SAY}Who dares disturb my sleep!?{PAUSE:3C}{/SAY}
+
+[105.151]
+Batty
+{SAY}Spotlight!!{/SAY}
+
+[105.152]
+Batty
+{SAY}Oh no.{PAUSE:50} I can't stand bright places...{PAUSE:3C} Gyaaah!{PAUSE:5A}{/SAY}
+
+[105.153]
+Batty
+{SAY}You'll pay for this!{PAUSE:64}{/SAY}
+
+[105.154]
+{NAME:01}
+{SAY}What was that?{/SAY}
+
+[105.155]
+Ken
+{SAY}Not bad, you guys!{WAIT}I'm Ken! Nice to meet ya!{WAIT}Whoa, no time to waste! Gotta set up the show!{/SAY}
+
+[105.156]
+Director Akashi
+{SAY}Well done, both of you!{WAIT}I'm heading back to my office. Drop by later.{/SAY}
+
+[105.157]
+Director Akashi
+{SAY}Oh! You two!{/SAY}
+
+[105.158]
+{NAME:01}
+{SAY}Director! What's this...!{/SAY}
+
+[105.159]
+Director Akashi
+{SAY}I came because of the ruckus, and that thing was hiding in a corner.{HOLD}When I tried to catch it, the band member jumped out...{/SAY}
+
+[105.160]
+Batty
+{SAY}Take that, that, that! How dare you disturb my sleep!{WAIT}Stupid {NAME:19}! Hya! Hya!!{/SAY}
+
+[105.161]
+Ken
+{SAY}I told you! I'm not that stupid {NAME:19}!{WAIT}You're ruining my show! You rotten bat! Get lost!!{/SAY}
+
+[105.162]
+Batty
+{SAY}Eeeee!!!! How dare you say that to cute little me!!{WAIT}Take that, that, that!!!{/SAY}
+
+[105.163]
+Director Akashi
+{SAY}...That's how it is. It's a bit much for us.{WAIT}Sorry, but will you get rid of it?{/SAY}
+
+[105.164]
+{NAME:01}
+{SAY}That bat... you know him?{/SAY}
+
+[105.165]
+{NAME:01}
+{SAY}...Choose your friends better!{/SAY}
+
+[105.166]
+{NAME:01}
+{SAY}Figured.{/SAY}
+
+[105.167]
+{NAME:01}
+{SAY}Whatever. All right! Let's go!{/SAY}
+
+[105.168]
+{SAY}It's Bar Tsutenkaku, ya know! Drink up!!{/SAY}
+
+[105.169]
+{SAY}Booze is good medicine!{WAIT}Good medicine is bitter!{WAIT}That's why beer's bitter!{PAUSE:14} Wahaha!{PAUSE:1E} Hic!{/SAY}
+
+[105.170]
+{SAY}Being underground doesn't mean we're hiding.{WAIT}Resistance always starts underground! ...That's all!{/SAY}
+
+[105.171]
+{SAY}Booze and music are the only fun down here.{WAIT}As long as we can enjoy life, mankind's still in the game.{/SAY}
+
+[105.172]
+{SAY}Right! Omelet rice tomorrow!{/SAY}
+
+[105.173]
+{SAY}Newlyweds{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. I mean, customers, welcome~.{WAIT}Drink up!!{/SAY}
+
+[105.174]
+{SAY}Hic...{PAUSE:1E} Who can fight aliens sober...{PAUSE:1E} hic.{/SAY}
+
+[105.175]
+{SAY}Still tuning up.{WAIT}We'll play in a bit!{/SAY}
+
+[105.176]
+{SAY}Rock in times like these?{WAIT}Times like these are why we rock!!{/SAY}
+
+[105.177]
+{SAY}The guy who played guitar there went off to find bandmates.{WAIT}...I told him it's dangerous outside.{/SAY}
+
+[105.178]
+{SAY}Know the guy who played guitar there?{WAIT}He's pretty famous now.{/SAY}
+
+[105.179]
+{SAY}Neo-Kobe has a Bless, but other towns must defend themselves.{WAIT}That's why towns like Myaa Town came about.{/SAY}
+
+[105.180]
+
+"Jukebox: 100G a song"
+
+[105.181]
+
+《Put money in?》
+
+[105.182]
+
+《Not enough money》
+
+[105.183]
+
+"Choose a song"
+
+[105.184]
+Song 1
+Song 2
+Song 3
+Song 4
+
+[105.185]
+
+{SAY}No canceling!{WAIT}Choose again!{/SAY}
+
+[105.190]
+{SAY}Neo-Kobe's famous stylish weapons?{/SAY}
+
+[105.191]
+{SAY}Step right up! All kinds of armor!{/SAY}
+
+[105.192]
+{SAY}Come on, new weapons just in! Buy some, ya!{/SAY}
+
+[105.193]
+{SAY}The latest armor! Take a look!{/SAY}
+
+[105.194]
+{SAY}This is the command room. A key operation is under way; no entry without permission.{WAIT}What is it?{/SAY}
+
+[105.195]
+{SAY}What! Dr. Croiset...{PAUSE:14} Understood. Report to the Director!{/SAY}
+
+[105.196]
+{SAY}The Director is busy. Come back later.{/SAY}
+
+[105.197]
+{SAY}Mind your manners with the Director!{/SAY}
+
+[105.198]
+{SAY}The Attack Team wiped out!? ...What do we do...{/SAY}
+
+[105.199]
+{SAY}Oh, it's you! Please, come in!{/SAY}
+
+[105.200]
+{SAY}Oh, it's you!{WAIT}The Director is in the town area now.{WAIT}Some trouble at the bar...{/SAY}
+
+[105.201]
+{SAY}I hear you saved the Director!!{WAIT}That's {NAME:19} and Captain {NAME:01}!{/SAY}
+
+[105.202]
+{SAY}Ah, everyone! The Director awaits!{/SAY}
+
+[105.203]
+{SAY}This is Dr. Closet's lab.{WAIT}She's in the middle of research and ordered no one let in.{WAIT}Come back later.{/SAY}
+
+[105.204]
+{SAY}Dr. Closet is with the Director.{WAIT}Go there.{/SAY}
+
+[105.205]
+{SAY}Ah, {NAME:19}!{WAIT}The doctor is with the Director now.{/SAY}
+
+[105.206]
+{SAY}Ah, welcome.{HOLD}The doctor awaits.{WAIT}Please go in!{/SAY}
+
+[105.207]
+{SAY}Ah, welcome.{HOLD}The doctor awaits.{WAIT}Please go in!{/SAY}
+
+[105.208]
+{SAY}Ah, {NAME:19}!{WAIT}The doctor is with the Director now.{/SAY}
+
+[105.209]
+{SAY}Ah, welcome.{HOLD}The doctor awaits.{WAIT}Please go in!{/SAY}
+
+[105.210]
+{SAY}Ah, welcome.{HOLD}The doctor awaits.{WAIT}Please go in!{/SAY}
+
+[105.211]
+Squad leader
+{SAY}While the Attack Team is out, we guard Neo-Kobe!!{WAIT}So, training,{PAUSE:14} training!{/SAY}
+
+[105.212]
+Squad leader
+{SAY}...These are greenhorn recruits.{WAIT}Useless for rescuing the Attack Team...{WAIT}Damn! If only we'd trained more!{/SAY}
+
+[105.213]
+Squad leader
+{SAY}To guard Neo-Kobe, I must make them real soldiers fast.{WAIT}So, training,{PAUSE:14} training!{/SAY}
+
+[105.214]
+Squad leader
+{SAY}I must make them real fighters like you, fast.{WAIT}So, training,{PAUSE:14} training!{/SAY}
+
+[105.215]
+{SAY}Atten-SHUN!!{/SAY}
+
+[105.216]
+{SAY}We failed the Attack Team selection...{/SAY}
+
+[105.217]
+{SAY}The Attack Team's in danger!? ...But we'd only get in the way...{/SAY}
+
+[105.218]
+{SAY}We'll avenge the Attack Team!{/SAY}
+
+[105.219]
+{SAY}Shame I didn't make the Attack Team, but I'm relieved I don't have to be scared.{/SAY}
+
+[105.220]
+{SAY}If the Attack Team loses, we're next...{WAIT}I hate this...{/SAY}
+
+[105.221]
+{SAY}Can even we get strong...{/SAY}
+
+[105.222]
+{SAY}I'll pass the next selection for sure!{/SAY}
+
+[105.223]
+{SAY}Damn! If only I'd gone with them!{/SAY}
+
+[105.224]
+{SAY}I'll be in the next operation for sure!!{/SAY}
+
+[105.225]
+{SAY}Will our weapons work on aliens...{WAIT}If we had strange powers like the captain, maybe...{/SAY}
+
+[105.226]
+{SAY}That's our captain! Someday I'll...{PAUSE:14} I'll keep trying!{/SAY}
+
+[105.227]
+{SAY}I've never seen real combat.{PAUSE:14} I don't want to die...{/SAY}
+
+[105.228]
+{SAY}I wish the war would end...{WAIT}Then I'll be a florist!{/SAY}
+
+[105.229]
+{SAY}A war we can't win...{PAUSE:14} You think so too, right?{/SAY}
+
+[105.230]
+{SAY}Right.{PAUSE:0F} Sigh...{/SAY}
+
+[105.231]
+{SAY}Right.{/SAY}
+
+[105.232]
+{SAY}Hearing about you guys, I start to think maybe we can do it.{/SAY}
+
+[105.233]
+{SAY}Neo-Kobe Bless is the last Bless left in Japan.{WAIT}If it falls, Japan is finished...{/SAY}
+
+[105.234]
+{SAY}Ah, you...  I've heard about you.{WAIT}But you're still no match for the captain.{/SAY}
+
+[105.235]
+{SAY}Using even nature's power... those aliens...!{/SAY}
+
+[105.236]
+{SAY}I've heard about you too. Keep it up!{/SAY}
+
+[105.237]
+{SAY}Past this passage is the town area.{WAIT}Well,{PAUSE:1E} it wasn't planned that way, but civilians just moved in...{/SAY}
+
+[105.238]
+{SAY}We'll defend this area to the death!{WAIT}...{PAUSE:1E}From civilians...{/SAY}
+
+[105.239]
+{SAY}Ah, everyone! Good work!{WAIT}...And good work to me too, of course.{/SAY}
+
+[105.240]
+{SAY}I know. It's hopeless now.{WAIT}Ahh, what a short life...{/SAY}
+
+[105.241]
+{SAY}Ah, everyone! Good work!{WAIT}...And good work to me too, of course.{/SAY}
+
+[105.242]
+Director Akashi
+{SAY}Every soldier who can fight is out... What do I do...{/SAY}
+
+[105.243]
+Director Akashi
+{SAY}Kyushu seems to have someone who uses Psycho like you.{WAIT}Take care.{/SAY}
+
+[105.244]
+Director Akashi
+{SAY}I heard about Kanmon Bridge... Something bad is happening in Kyushu...{WAIT}{NAME:01}, will you sneak into Kyushu and investigate?{WAIT}And Sir {NAME:19}, if you can, please help {NAME:01}.{HOLD}I'm counting on you.{/SAY}
+
+[105.245]
+Director Akashi
+{SAY}Lately many Fatima followers flow in from Kyushu.{WAIT}Somehow they travel without being attacked by monsters or aliens.{WAIT}{NAME:01}, will you sneak into Kyushu and investigate?{WAIT}And Sir {NAME:19}, if you can, please help {NAME:01}.{WAIT}I'm counting on you.{/SAY}
+
+[105.246]
+Director Akashi
+{SAY}Oh! You're back!{WAIT}I heard about the Fatima cult. Well done!{WAIT}By the way... couldn't you borrow Mr. Glover's ship?{WAIT}To travel on, you'll need a ship...{/SAY}
+
+[105.247]
+Director Akashi
+{SAY}We've lost contact with most of the north. Take care.{WAIT}And mind, you can't go by land.{WAIT}...Good luck.{/SAY}
+
+[105.248]
+Director Akashi
+{SAY}What! Yamata Orochi! If such monsters came in hordes...{WAIT}You're our only hope! I'm counting on you!{/SAY}
+
+[105.249]
+Director Akashi
+{SAY}The survey team is south of Lake Biwa. I'm counting on you.{WAIT}...Take care.{/SAY}
+
+[105.250]
+Director Akashi
+{SAY}I heard about the cave under Lake Biwa.{WAIT}Sorry it's always the hard missions...{WAIT}But we can only rely on you now...{WAIT}...Take care.{/SAY}
+
+[105.251]
+Director Akashi
+{SAY}Oh! Everyone! Good of you to come!{WAIT}With you here, the troops' morale rises.{WAIT}Make yourselves at home.{/SAY}
+
+[105.252]
+Director Akashi
+{SAY}Every soldier who can fight is out... What do I do...{/SAY}
+
+[105.253]
+Director Akashi
+{SAY}Kyushu seems to have someone who uses Psycho like you.{HOLD}Take care.{/SAY}
+
+[105.254]
+Director Akashi
+{SAY}I heard about Kanmon Bridge... Something bad is happening in Kyushu...{WAIT}{NAME:01}, will you sneak into Kyushu and investigate?{WAIT}And Sir {NAME:19}, if you can, please help {NAME:01}.{HOLD}I'm counting on you.{/SAY}
+
+[105.255]
+Director Akashi
+{SAY}Lately many Fatima followers flow in from Kyushu.{WAIT}Somehow they travel without being attacked by monsters or aliens.{WAIT}{NAME:01}, will you sneak into Kyushu and investigate?{WAIT}And Sir {NAME:19}, if you can, please help {NAME:01}.{WAIT}I'm counting on you.{/SAY}
+
+[105.256]
+Director Akashi
+{SAY}Oh! You're back!{WAIT}I heard about the Fatima cult. Well done!{WAIT}By the way... couldn't you borrow Mr. Glover's ship?{WAIT}To travel on, you'll need a ship...{/SAY}
+
+[105.257]
+Director Akashi
+{SAY}We've lost contact with most of the north. Take care.{WAIT}And mind, you can't go by land.{WAIT}...Good luck.{/SAY}
+
+[105.258]
+Director Akashi
+{SAY}What! Yamata Orochi! If such monsters came in hordes...{WAIT}You're our only hope! I'm counting on you!{/SAY}
+
+[105.259]
+Director Akashi
+{SAY}The survey team is south of Lake Biwa. I'm counting on you.{WAIT}...Take care.{/SAY}
+
+[105.260]
+Director Akashi
+{SAY}I heard about the cave under Lake Biwa.{WAIT}Sorry it's always the hard missions...{WAIT}But we can only rely on you now...{WAIT}...Take care.{/SAY}
+
+[105.261]
+Director Akashi
+{SAY}Oh! Everyone! Good of you to come!{WAIT}With you here, the troops' morale rises.{WAIT}Make yourselves at home.{/SAY}
+
+[105.262]
+Director Akashi
+{SAY}I am Akashi, Director of Neo-Kobe Bless.{PAUSE:14} Hm?{PAUSE:14} And you are?{/SAY}
+
+[105.263]
+Director Akashi
+{SAY}What! Dr. Croiset!{WAIT}...{PAUSE:1E}I see.{PAUSE:14} We lost contact, so I was worried...{/SAY}
+
+[105.264]
+Director Akashi
+{SAY}Rather than perish here, we went out to a final battle.{WAIT}If the Attack Team loses...{/SAY}
+
+[105.265]
+Director Akashi
+{SAY}...No, we have him.{WAIT}We will never lose!{/SAY}
+
+[105.266]
+Director Akashi
+{SAY}Thank you for coming so far. It's not much, but rest...{/SAY}
+
+[105.267]
+
+　"SOS! SOS!"
+
+[105.268]
+Director Akashi
+{SAY}What is it! What's happening!{/SAY}
+
+[105.269]
+Radio operator
+{SAY}An emergency call from the Attack Team at Inuyama Zoo!{/SAY}
+
+[105.270]
+"...th{PAUSE:14}is{PAUSE:05} is{PAUSE:1E}... A{PAUSE:14}team...{PAUSE:28}
+　ali{PAUSE:14}en...{PAUSE:1E} wiped...{PAUSE:14}...{PAUSE:1E} need help..."
+
+[105.271]
+Radio operator
+{SAY}...{PAUSE:14}No good! We've lost contact!!{/SAY}
+
+[105.272]
+Director Akashi
+{SAY}How terrible...!{WAIT}But every soldier who can fight is out... What do I do...{/SAY}
+
+[105.273]
+{SAY}The Attack Team just left for Inuyama Zoo, northeast of Myaa Town.{/SAY}
+
+[105.274]
+{SAY}What happened!{/SAY}
+
+[105.275]
+{SAY}Welcome back. You're safe.{/SAY}
+
+[105.276]
+{SAY}{NAME:01}! {NAME:19}!{WAIT}We'll do our best too!{/SAY}
+
+[105.277]
+{SAY}There's no Bless up north...{WAIT}We can't even know what's happening there.{WAIT}...Please take care!{/SAY}
+
+[105.278]
+{SAY}The alien army's power is bottomless.{WAIT}Please take care!{/SAY}
+
+[105.279]
+{SAY}The Inuyama Zoo monsters seem to be animals once kept at the zoo.{WAIT}So they must be weak to fire.{/SAY}
+
+[105.280]
+{SAY}What do we do...{/SAY}
+
+[105.281]
+{SAY}I see. So the animals were altered.{WAIT}But some monsters can't be explained by altering.{/SAY}
+
+[105.282]
+{SAY}Are there others who can use psycho power like {NAME:01}?{/SAY}
+
+[105.283]
+{SAY}The real fight starts now, I think.{WAIT}Take care, everyone!{/SAY}
+
+[105.284]
+{SAY}{NAME:01}! {NAME:19}! Welcome back!{/SAY}
+
+[105.285]
+{SAY}The Attack Team is Neo-Kobe Bless's elite.{HOLD}They're sure to bring good news!{/SAY}
+
+[105.286]
+{SAY}No...{PAUSE:1E} the captain...!{/SAY}
+
+[105.287]
+{SAY}Thank you so much!{/SAY}
+
+[105.288]
+{SAY}Lately there are more Fatima followers in Neo-Kobe above.{HOLD}And more monsters too...{/SAY}
+
+[105.289]
+{SAY}Reports say strange quakes are frequent lately.{WAIT}I hope it's nothing...{/SAY}
+
+[105.290]
+{SAY}Oh! Everyone! Good work!{WAIT}Leave this town to us!{/SAY}
+
+[105.291]
+{SAY}Know the Attack Team captain?{/SAY}
+
+[105.292]
+{SAY}With his strange power, aliens go down in one shot!{/SAY}
+
+[105.293]
+{SAY}He's a man with strange power.{WAIT}Our star of hope!{/SAY}
+
+[105.294]
+{SAY}With the captain there... no way...{/SAY}
+
+[105.295]
+{SAY}Ah! {NAME:19}!! Thank you so much!!{/SAY}
+
+[105.296]
+{SAY}The aliens don't seem to know about Neo-Kobe Bless yet...{WAIT}Will they find us first, or we their base? That's the whole game!{/SAY}
+
+[105.297]
+{SAY}Leave Japan to Neo-Kobe Bless!{/SAY}
+
+[105.298]
+{SAY}Inuyama Zoo is northeast of Myaa Town.{WAIT}It's the outpost for the monsters and aliens around here.{/SAY}
+
+[105.299]
+{SAY}When peace comes, we'll make Inuyama Zoo a zoo again. Look forward to it.{/SAY}
+
+[105.300]
+{SAY}Little news comes from Kyushu, so we know little of the Fatima cult.{WAIT}Only that its HQ seems to be in Ryukyu, past Kyushu.{/SAY}
+
+[105.301]
+{SAY}The meteorite made it impossible to go north on foot.{HOLD}...With a ship, maybe by sea...{/SAY}
+
+[105.302]
+{SAY}Some aliens use mental powers, not just science.{WAIT}Be very careful!{/SAY}
+
+[105.303]
+{SAY}Alien jamming means we can hardly reach the Attack Team...{WAIT}Not that calls are allowed except in emergencies.{/SAY}
+
+[105.304]
+{SAY}That call used Neo-Kobe's one emergency channel.{WAIT}It was banned, since it could give away our location...{/SAY}
+
+[105.305]
+{SAY}We beat the zoo aliens, but monsters aren't dropping at all...{WAIT}Maybe there's a bigger base somewhere...{/SAY}
+
+[105.306]
+{SAY}The aliens must have a big base somewhere!{WAIT}But we have no idea where...{/SAY}
+
+[105.307]
+{SAY}We'll do our best for peace too.{/SAY}
+
+[105.308]
+{SAY}If this operation works, we can sweep the aliens from this area.{WAIT}...But.{PAUSE:14} No,{PAUSE:19} never mind.{/SAY}
+
+[105.309]
+{SAY}I knew it... the captain alone...{/SAY}
+
+[105.310]
+{SAY}Oh! I heard about you.{WAIT}Amazing, in a word!{/SAY}
+
+[105.311]
+{SAY}Word of your deeds reaches us here! Amazing, in a word!{/SAY}
+
+[105.315]
+Captain
+{SAY}...That ends my report.
+
+[105.316]
+Director Akashi
+{SAY}Good work...{/SAY}
+
+[105.317]
+Director Akashi
+{SAY}Hm, you're...{/SAY}
+
+[105.318]
+Director Akashi
+{SAY}Sir {NAME:19}, wasn't it. The captain told me. Good work.{WAIT}The aliens altered animals' genes to make monsters.{WAIT}Just imagining what monsters may come chills me.
+
+[105.319]
+Director Akashi
+{SAY}Sir {NAME:19}, will you live in Neo-Kobe and help us guard this town?{/SAY}
+
+[105.320]
+{SAY}I see! Thank you!{WAIT}Guard this town with the captain.{WAIT}...{PAUSE:14}What? You said "yes" but regret it?{WAIT}You want to try every answer, I know.{WAIT}But do that and you'll be in trouble.{WAIT}All right. Take care.{WAIT}Shikoku Island and Kyushu are full of aliens.{/SAY}
+
+[105.321]
+{SAY}I see. Understood.{WAIT}Shikoku Island and Kyushu are still full of aliens.{/SAY}
+
+[105.322]
+{SAY}But word is, Kyushu has someone who uses Psycho like you.{HOLD}Take care.
+
+[105.323]
+Captain
+{SAY}Thanks. You're something else.{WAIT}Good luck. Be careful.{WAIT}...What?{PAUSE:1E} Travel together to beat the aliens?{WAIT}Sorry, being alone suits me.{WAIT}See ya.{PAUSE:0A} Good luck.{/SAY}
+
+[105.324]
+Dr. Closet
+{SAY}So you're {NAME:19}. Nice to meet you.{/SAY}
+
+[105.325]
+Dr. Closet
+{SAY}I'm Closet, Dr. Croiset's daughter. Father often told me about you.{WAIT}I have something to tell you. Come to my room later.{/SAY}
+
+[105.326]
+Dr. Closet
+{SAY}Now, Director. Excuse me.{/SAY}
+
+[105.327]
+Director Akashi
+{SAY}Ah, Sir {NAME:19}, {NAME:01}, welcome back.{/SAY}
+
+[105.328]
+Director Akashi
+{SAY}...What? Mr. Glover in Kyushu?{WAIT}I know him well.{WAIT}In fact, he's the one feeding us news from Kyushu.{WAIT}...You want to meet him? All right. Take this.
+
+[105.329]
+
+《Got the Introduction!》
+
+[105.330]
+Director Akashi
+{SAY}Show that and Mr. Glover will see you...{WAIT}But... no, the rest is up to you. Good luck!
+
+[105.331]
+Director Akashi
+{SAY}Welcome back! {NAME:19}, {NAME:01}.{WAIT}...I see. So the Fatima cult was the aliens'...! Well done.{/SAY}
+
+[105.332]
+Dr. Closet
+{SAY}Good work, everyone.{WAIT}You must be {NAME:02}. Mr. Glover told me about you.{WAIT}You touched a God Stone too?{/SAY}
+
+[105.333]
+{NAME:02}
+{SAY}Yes. When I was little...{/SAY}
+
+[105.334]
+Dr. Closet
+{SAY}I have data on {NAME:19} and {NAME:01},{WAIT}but much about you is unknown.{WAIT}Would you let me run a few tests...{/SAY}
+
+[105.335]
+{NAME:02}
+{SAY}Tests...?{/SAY}
+
+[105.336]
+Dr. Closet
+{SAY}Don't worry. Just data. I'm not ready yet, so later.{WAIT}Anyway, there's new information.{/SAY}
+
+[105.337]
+Dr. Closet
+{SAY}Up north there's a village with someone who has strange powers...{WAIT}I don't know more, but it may concern you.{WAIT}Will you look into it?{/SAY}
+
+[105.338]
+{NAME:01}
+{SAY}Understood.{/SAY}
+
+[105.339]
+Dr. Closet
+{SAY}Now, Director. Excuse me.{/SAY}
+
+[105.340]
+Director Akashi
+{SAY}Good of you to come!{WAIT}Oh, four of you now?{PAUSE:0A} Your journey goes well.{WAIT}I called you for one reason. Do you know of the frequent quakes lately?{/SAY}
+
+[105.341]
+{SAY}Good. That saves time.{/SAY}
+
+[105.342]
+{SAY}Lately, quakes of unknown cause strike all over Japan.{HOLD}You must have felt two or three.{/SAY}
+
+[105.343]
+Director Akashi
+{SAY}Dr. Closet found the epicenter seems to be near Lake Biwa.{/SAY}
+
+[105.344]
+{NAME:02}
+{SAY}Lake Biwa?{/SAY}
+
+[105.345]
+Director Akashi
+{SAY}Yes. Lake Biwa is a huge lake east of Neo-Kobe.{WAIT}A survey team is working near it now; I want you to join the survey.{WAIT}Will you?{/SAY}
+
+[105.346]
+{NAME:01}
+{SAY}What are you saying! If we don't, who will!{WAIT}We're in, right? {NAME:19}?{/SAY}
+
+[105.347]
+{NAME:01}
+{SAY}That's the spirit!{/SAY}
+
+[105.348]
+{NAME:01}
+{SAY}You contrarian!{/SAY}
+
+[105.349]
+{NAME:02}
+{SAY}Let's do it, {NAME:19}. We can't ignore it.{/SAY}
+
+[105.350]
+{NAME:03}
+{SAY}Yeah! Don't worry, it'll be fine!{HOLD}I'll protect {NAME:19} myself!{/SAY}
+
+[105.351]
+{NAME:01}
+{SAY}You bet! I'm in!{/SAY}
+
+[105.352]
+{NAME:01}
+{SAY}Leave it to us! Director!{/SAY}
+
+[105.353]
+Director Akashi
+{SAY}Good. Thank you, everyone.{WAIT}Now, the survey team's position...{/SAY}
+
+[105.354]
+Director Akashi
+{SAY}Got it?{WAIT}I've already told the survey team leader.{WAIT}Set out when ready.{/SAY}
+
+[105.355]
+Dr. Closet
+{SAY}Excuse me a moment.{/SAY}
+
+[105.356]
+Dr. Closet
+{SAY}{NAME:19}, everyone.{WAIT}Before you go, I'd like your data.{WAIT}I'll wait in my lab, so drop by later.{WAIT}Excuse me.{/SAY}
+
+[105.357]
+Captain
+{SAY}Good luck.{/SAY}
+
+[105.358]
+{SAY}Sorry, the Attack Team took all the good weapons.{/SAY}
+
+[105.359]
+{SAY}Sorry, with what's ahead, I can't give out weapons.{/SAY}
+
+[105.360]
+Instead, take this; I bought it
+　with my own money.
+
+[105.361]
+{SAY}Welcome to the Bless armor shop.{/SAY}
+
+[105.362]
+
+"Bless vending machine:
+　win and get another!"
+
+[105.363]
+Heart Water...300G
+Power Water...50G
+Miss You...300G
+Quit
+
+[105.364]
+
+《Put in money!》
+
+[105.365]
+
+《Got Heart Water!》
+
+[105.366]
+
+《A win! One more free!》
+
+[105.367]
+
+《Got Heart Water!》
+
+[105.368]
+
+《But you already have
+　99 Heart Water!》
+
+[105.369]
+
+《Gave up on Heart Water...》
+
+[105.370]
+
+《No win! Too bad!》
+
+[105.371]
+
+《Not enough money!》
+
+[105.372]
+
+《But you already have
+　99 Heart Water!》
+
+[105.373]
+
+《Gave up on Heart Water...》
+
+[105.374]
+
+《Put in money!》
+
+[105.375]
+
+《Got Power Water!》
+
+[105.376]
+
+《A win! One more free!》
+
+[105.377]
+
+《Got Power Water!》
+
+[105.378]
+
+《But you already have
+　99 Power Water!》
+
+[105.379]
+
+《Gave up on Power Water...》
+
+[105.380]
+
+《No win! Too bad!》
+
+[105.381]
+
+《Not enough money!》
+
+[105.382]
+
+《But you already have
+　99 Power Water!》
+
+[105.383]
+
+《Gave up on Power Water...》
+
+[105.384]
+
+《Put in money!》
+
+[105.385]
+
+《Got Miss You!》
+
+[105.386]
+
+《A win! One more free!》
+
+[105.387]
+
+《Got Miss You!》
+
+[105.388]
+
+《But you already have
+　99 Miss You!》
+
+[105.389]
+
+《Gave up on Miss You...》
+
+[105.390]
+
+《No win! Too bad!》
+
+[105.391]
+
+《Not enough money!》
+
+[105.392]
+
+《But you already have
+　99 Miss You!》
+
+[105.393]
+
+《Gave up on Miss You...》
+
+[105.394]
+Dr. Closet
+{SAY}I'll keep researching here. Good luck.{/SAY}
+
+[105.395]
+Dr. Closet
+{SAY}Oh! Welcome back!{WAIT}I heard you beat the Fatima cult!{WAIT}...Did my info help?{/SAY}
+
+[105.396]
+Dr. Closet
+{SAY}Oh, {NAME:19}.{WAIT}My research says there's a village in Tohoku with someone of strange power.{WAIT}You can't go by land; try by sea.{WAIT}...Take care.{/SAY}
+
+[105.397]
+Dr. Closet
+{SAY}Oh, {NAME:19}. A new friend?{WAIT}All right. I'll take her data too.{WAIT}...But could you wait a bit?{WAIT}The setup is taking time...{/SAY}
+
+[105.398]
+Dr. Closet
+{SAY}I'll keep researching here. ...Take care.{/SAY}
+
+[105.399]
+Dr. Closet
+{SAY}{NAME:19}! Good work!{WAIT}I think the place sending energy into Mt. Fuji is the alien base.{WAIT}I don't know where it is, but it must be linked somehow to Lake Biwa, the epicenter!{WAIT}Please, {NAME:19}! Find it and stop the flow of energy!{WAIT}...I'm counting on you.{/SAY}
+
+[105.400]
+Dr. Closet
+{SAY}{NAME:19}! Everyone!{WAIT}Make yourselves at home.{/SAY}
+
+[105.401]
+Dr. Closet
+{SAY}{NAME:19}! Everyone!{WAIT}It's been a while.{WAIT}...I heard about {NAME:03}.{WAIT}So her death isn't in vain, I'll keep researching!{/SAY}
+
+[105.402]
+　And I found something big
+　about chakras!{WAIT}
+　You know there are seven
+　God Stones in all.{WAIT}
+　Touch them all, and a hidden
+　power you've never had
+　becomes usable.
+
+[105.403]
+{SAY}But only when you link two chakras at command level 7.{/SAY}
+
+[105.404]
+{SAY}Which pairs give which powers, I don't know.{WAIT}Ask my assistant there for more.{/SAY}
+
+[105.405]
+{SAY}{NAME:19}, everyone!{WAIT}All I can do is cheer you on, but do your best!{/SAY}
+
+[105.406]
+Dr. Closet
+{SAY}Oh, use this on your journey!{/SAY}
+
+[105.407]
+
+《Got the Spirit Ess.!》
+
+[105.408]
+{SAY}{NAME:19}, everyone!{WAIT}All I can do is cheer you on, but do your best!{/SAY}
+
+[105.409]
+Dr. Closet
+{SAY}Good of you to come, {NAME:19}.{WAIT}I heard about Father...{/SAY}
+
+[105.410]
+{SAY}Father often told me about you.{WAIT}He thought of you like his own son...{/SAY}
+
+[105.411]
+{SAY}You have Father's notebook, right?{HOLD}It has an emergency comm system built in.{WAIT}Receive-only, for secrecy.{WAIT}May I borrow it?{/SAY}
+
+[105.412]
+
+《Handed over the Croiset Notes!》
+
+[105.413]
+Dr. Closet
+{SAY}This... goes like this...{WAIT}In a real emergency, I can reach you with it.{WAIT}...There.{/SAY}
+
+[105.414]
+Dr. Closet
+{SAY}If anything happens, I'll contact you with it.{WAIT}This is the signal.{/SAY}
+
+[105.415]
+Dr. Closet
+{SAY}Good luck, then.{WAIT}I'll carry on Father's research here.{WAIT}There's still much we don't know about your powers.{WAIT}...{PAUSE:1E}Take care.{/SAY}
+
+[105.416]
+
+《Got the Croiset Notes!》
+
+[105.417]
+Dr. Closet
+{SAY}Oh, {NAME:19}, good work.{WAIT}I have news on the Fatima cult. Want to hear?{/SAY}
+
+[105.418]
+{SAY}What do you want to know?{/SAY}
+
+[105.419]
+The followers
+The guru
+The HQ
+Quit
+
+[105.420]
+{SAY}To join, one must be baptized.{WAIT}Followers travel Japan to spread the faith.{WAIT}Strangely, followers are never attacked by aliens or monsters.{WAIT}They say it's "the guru's power"...{WAIT}Maybe there's some deal with the aliens.{/SAY}
+
+[105.421]
+{SAY}Anything else?{/SAY}
+
+[105.422]
+{SAY}We know little about the guru...{WAIT}Only that she's a woman named Fatimaria.{WAIT}And that she has powers ordinary people lack.{WAIT}She never leaves the HQ, so even followers rarely see her.{WAIT}We sent investigators, but none have come back...{WAIT}There must be a big secret.{/SAY}
+
+[105.423]
+{SAY}Anything else?{/SAY}
+
+[105.424]
+{SAY}The HQ's exact location is unknown...{HOLD}Only that it seems to be in Ryukyu, south of Kyushu.{WAIT}Followers are baptized there by the guru.{WAIT}We have no idea what's inside.{WAIT}{NAME:19}... take care.{/SAY}
+
+[105.425]
+{SAY}Anything else?{/SAY}
+
+[105.426]
+{SAY}I see...{WAIT}I'll keep researching here. Good luck.{/SAY}
+
+[105.427]
+{SAY}Dr. Closet is the famous Dr. Croiset's daughter.{WAIT}She's studied the captain's strange power for years to fight the aliens.{/SAY}
+
+[105.428]
+{SAY}Dr. Closet went to the Director!{WAIT}Why not go there?{/SAY}
+
+[105.429]
+{SAY}Dr. Closet looks sweet, but she's a slave driver...{HOLD}But I can't say no to that smile...{/SAY}
+
+[105.430]
+{SAY}Dr. Closet looks sweet, but she's a slave driver...{HOLD}But I can't say no to that smile...{/SAY}
+
+[105.431]
+{SAY}Hey! It's you!{WAIT}Dr. Closet asked you to come to the Director's office.{/SAY}
+
+[105.432]
+{SAY}Once your powers are understood, they'll be our trump card!{WAIT}The doctor and I believe it, so we work hard.{/SAY}
+
+[105.433]
+{SAY}A new chakra power: "Combined Chakras". Want an explanation?{/SAY}
+
+[105.434]
+{SAY}Combined Chakras need two or more chakras at Chakra Command Level 7.{WAIT}If both chakras you link are at level 7, the Combined power works on its own.{WAIT}Unlike normal Chakra Commands, it activates automatically while linked.{WAIT}The effect depends on which chakras you link.{WAIT}Which pair gives what, we don't know.{WAIT}Try different ones.{WAIT}Good luck!{/SAY}
+
+[105.435]
+{SAY}I see. Good luck, then!{/SAY}
+
+[105.445]
+Dr. Closet
+{SAY}Oh, {NAME:19}!{/SAY}
+
+[105.446]
+Dr. Closet
+{SAY}Good of you to come.{WAIT}I have data on {NAME:19} and {NAME:01}, but none on the ladies, right?{WAIT}Let me run some tests while I can.{WAIT}Now, this way!{/SAY}
+
+[105.447]
+Dr. Closet
+{SAY}{NAME:19}, wait over there a bit.{WAIT}Assistant One, take over.{/SAY}
+
+[105.448]
+Assistant One
+{SAY}Yes, Doctor.{/SAY}
+
+[105.449]
+Assistant One
+{SAY}Please don't go any further.{/SAY}
+
+[105.450]
+{NAME:01}
+{SAY}Oh well...{PAUSE:14} guess we wait.{/SAY}
+
+[105.451]
+{NAME:03}
+{SAY}Whaaat!!{PAUSE:3C} Take our clothes off~!{/SAY}
+
+[105.452]
+{NAME:01}
+{SAY}...............{/SAY}
+
+[105.453]
+{NAME:02}
+{SAY}Eek!{PAUSE:1E} ...{NAME:03}!{PAUSE:1E} That tickles!!{/SAY}
+
+[105.454]
+{NAME:01}
+{SAY}...............{/SAY}
+
+[105.455]
+Dr. Closet
+{SAY}...Such lovely skin, both of you...{PAUSE:1E} Ah, to be young.{/SAY}
+
+[105.456]
+{NAME:03}
+{SAY}Eeek!!{PAUSE:1E} Doctor, you perv!{/SAY}
+
+[105.457]
+{NAME:02}
+{SAY}Is this...{PAUSE:1E} really a test...?{/SAY}
+
+[105.458]
+{NAME:01}
+{SAY}...............{PAUSE:1E}Wanna see.{PAUSE:3C} Huh!{PAUSE:14} What am I saying!?{/SAY}
+
+[105.459]
+Dr. Closet
+{SAY}Sorry to wait! All done!{/SAY}
+
+[105.460]
+Dr. Closet
+{SAY}Now I have all the data.{WAIT}Thanks for your help. I'll tell you if I learn anything!{/SAY}
+
+[105.461]
+Dr. Closet
+{SAY}Good luck, everyone.{WAIT}I'll keep researching here.{WAIT}The town area shop should sell the latest weapons and armor.{WAIT}Gear up before Lake Biwa.{/SAY}
+
+[105.462]
+{NAME:03}
+{SAY}Then off to Lake Biwa~!{/SAY}
+
+[105.463]
+
+　　　"Report 035"{WAIT}
+{CLEAR}- The long-pending God Stone Plan
+　at last found a person who
+　reacts to a God Stone.{WAIT}
+　The second, after "A" in
+　Dr. Croiset's care at Tsukubane.{WAIT}
+　We call him "B" for now.
+
+[105.464]
+
+　　　"Report 036"{WAIT}
+{CLEAR}- "B" has grown fast since
+　touching the God Stone.{WAIT}
+　A special power with some
+　attack strength is developed.{WAIT}
+　It may be effective against
+　the aliens.
+
+[105.465]
+
+　　　"Report 037"{WAIT}
+{CLEAR}- No reactors besides A and B.{WAIT}
+　Some condition seems needed,
+　but no clue. Research goes on.
+
+[105.466]
+
+　　　"Report 038"{WAIT}
+{CLEAR}- No solid news of "A" at
+　Tsukubane.{WAIT}
+　Dr. Croiset says he suffers
+　memory loss,{WAIT}
+　which seems to hold back
+　his power.
+
+[105.467]
+
+　　　"Report 039"{WAIT}
+{CLEAR}- B's growth needs an energy
+　substance with special power,
+　named "Cosmo Stone".{WAIT}
+　Absorbing its energy, B's
+　power rises sharply.{WAIT}
+　Cosmo Stones abound in the
+　aliens' bodies, for unknown
+　reasons. To be studied.
+
+[105.468]
+
+　　　"Report 040"{WAIT}
+{CLEAR}- Powers gained from a God Stone
+　seem to be of seven kinds.{WAIT}
+　Dr. Croiset says they resemble
+　the mystic "chakras" of
+　Eastern spiritual science.{WAIT}
+　We will call them "chakras".
+
+[105.469]
+
+　　　"Report 041"{WAIT}
+{CLEAR}- B's growth has begun to stall,{WAIT}
+　the first time since touching
+　the God Stone.{WAIT}
+　We must find a next step.
+
+[105.470]
+
+　　　"Report 042"{WAIT}
+{CLEAR}- Dr. Croiset reports a God Stone
+　opens at most 10% of the
+　brain at a time.{WAIT}
+　Touching another God Stone
+　should spur growth.{WAIT}
+　We must keep searching for
+　God Stones too.
+
+[105.471]
+
+　　　"Report 043"{WAIT}
+{CLEAR}- The guru of the Fatima cult,
+　spreading from Ryukyu, is said
+　to work miracles.{WAIT}
+　Our team sent there has
+　not reported back.
+
+[105.472]
+
+　　　"Report 044"{WAIT}
+{CLEAR}- News of a village in Tohoku
+　with someone of strange power.
+　Under investigation.
+
+[105.473]
+
+　　　"Report 045"{WAIT}
+{CLEAR}- From the God Stone team:{HOLD}　no God Stone news in Kanto
+　or Tohoku.{WAIT}
+　Hokkaido and San'in remain.
+　Search continues.
+
+[105.474]
+
+　　　"Report 046"{WAIT}
+{CLEAR}- No reactors among Bless
+　members since B.{WAIT}
+　The command room warns the
+　secret Attack Team operation
+　in 3 months needs at least{WAIT}
+　2 or 3 reactors.{WAIT}
+　Testing non-combatants;
+　no reactors.{WAIT}
+　The last candidate was sent this
+　morning to Dr. Croiset.{WAIT}
+　B goes too, to bring the doctor
+　our data.{WAIT}
+　Return expected in 2 months.
+
+[105.475]
+{SAY}Geo-Tokyo's Bless was wiped out, so Neo-Kobe's became Japan's Bless HQ, they say.{WAIT}Been to Neo-Kobe Bless HQ?{/SAY}
+
+
+[105.476]
+{SAY}Pretty cheesy, huh.{/SAY}
+
+[105.477]
+{SAY}It's pretty cheesy.{/SAY}
+
+[105.478]
+{SAY}The Bless is cheesy, but they do all right.{/SAY}
+
+[105.479]
+{SAY}Think this town is safe?{/SAY}
+
+[105.480]
+{SAY}They say Neo-Kobe's Bless has an amazing psychic.{/SAY}
+
+[105.481]
+{SAY}Do you know?{/SAY}
+
+
+[105.482]
+{SAY}Oh...{/SAY}
+
+[105.483]
+{SAY}They say someone amazing beat the Inuyama Zoo aliens.{/SAY}
+
+[105.484]
+{SAY}Do you know?{/SAY}
+
+
+[105.485]
+{SAY}I knew it...{/SAY}
+
+[105.486]
+{SAY}Someone called {NAME:19} is fighting aliens, it seems.{/SAY}
+
+[105.487]
+{SAY}Hi, had any beef?{/SAY}
+
+[105.488]
+{SAY}Hi, had any gaufres?{/SAY}
+
+[105.489]
+{SAY}{NAME:19},{PAUSE:14} tried the local specialties?{/SAY}
+
+[105.490]
+{SAY}Isn't {NAME:01}, the Attack Team leader, handsome?{/SAY}
+
+[105.491]
+{SAY}They say {NAME:19}, who saved {NAME:01}, is handsome.{/SAY}
+
+[105.492]
+{SAY}Ah, {NAME:01}, {NAME:19}.{WAIT}I made buns for you both.{/SAY}
+
+[105.493]
+{SAY}I wish for peace, so I can make buns at leisure.{/SAY}
+
+[105.494]
+{SAY}He won't even hold my hand.{WAIT}{PAUSE:1E}...Nurses want love too.{/SAY}
+
+[105.495]
+{SAY}I-I just felt sick...{PAUSE:1E} That's all...{/SAY}
+
+[105.496]
+{SAY}Ah...{PAUSE:28} he's gone.{WAIT}I did nothing, so why?{/SAY}
+
+[105.497]
+{SAY}I feel I was waiting for someone.{WAIT}But who?{/SAY}
+
+[105.498]
+{SAY}The Director is in a meeting in the command room.{/SAY}
+
+[105.499]
+{SAY}The Director awaits.{/SAY}
+
+[105.500]
+{SAY}The Director awaits in the command room.{/SAY}
+
+[105.501]
+{SAY}Be careful.{PAUSE:0A} Outside it's swarming with monsters and aliens.{/SAY}
+
+[105.502]
+{SAY}Monsters and aliens come in swarms. But we'll never let them into town.{/SAY}
+
+[105.503]
+{SAY}...{PAUSE:0A}A monster killed my brother.{/SAY}
+
+[105.504]
+{SAY}I can't die till I avenge him!{/SAY}
+
+[105.505]
+{SAY}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:32}Hnn!{PAUSE:19} ...No good.{PAUSE:14}{WAIT}Straining won't bring out psycho power!{WAIT}By the way, if the Inuyama Zoo monsters are beaten, will the world be at peace?{/SAY}
+
+[105.506]
+{SAY}I strained for psycho power so hard my hair fell out.{WAIT}Sigh...{PAUSE:1E}{WAIT}Anyway, I feel you'll bring love and peace back to this world.{WAIT}{PAUSE:1E}What?{PAUSE:14} You mean to?{WAIT}{NAME:19}, you're young.{/SAY}
+
+[105.507]
+{SAY}With {NAME:01} around, aliens go down in one shot!{/SAY}
+
+[105.508]
+{SAY}We beat the aliens, but we lost many friends.{/SAY}
+
+[105.509]
+{SAY}We'll avenge them, for sure!{/SAY}
+
+[105.510]
+{SAY}{NAME:19}.{PAUSE:1E} The Director and {NAME:01} await.{WAIT}Please, go in.{/SAY}
+
+[105.511]
+{SAY}{NAME:19}.{PAUSE:1E} The Director and {NAME:01} await.{WAIT}Please, go in.{/SAY}
+
+[105.512]
+{SAY}{NAME:19}! {NAME:01}! Please, go in!{/SAY}
+
+[105.513]
+{SAY}Not enough money!{/SAY}
+
+[105.514]
+
+"Join Bless today!!
+　~Go, Neo-Kobe~"
+
+[105.515]
+{SAY}Look at this! It's finally dug through!!{/SAY}
+
+[105.516]
+{SAY}Work's done. Let's go for a drink!{/SAY}
+

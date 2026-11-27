@@ -1,0 +1,163 @@
+[135.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[135.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[135.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[135.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[135.005]
+Write in diary
+Read diary
+Quit
+
+[135.006]
+{SAY}Somehow, everyone made it.{WAIT}You can get outside from here, but it's full of monsters. Please be careful...{/SAY}
+
+[135.007]
+{SAY}That was scary! What a shock!{/SAY}
+
+[135.008]
+{SAY}Wow! We sure were lucky to survive!{/SAY}
+
+[135.009]
+{SAY}Huh? This isn't Moscow?{/SAY}
+
+[135.010]
+{SAY}Heh heh heh. Even a place like this is home once you live in it.{/SAY}
+
+[135.011]
+{SAY}Whew... At least my grandson is safe.{/SAY}
+
+[135.012]
+{SAY}Screeech! Kaboom!{PAUSE:1E} ...{PAUSE:14}That was amazing!{/SAY}
+
+[135.013]
+{SAY}He hit his head badly in the fall.{WAIT}He still hasn't come to...{WAIT}If only we had something to use as smelling salts...{/SAY}
+
+[135.014]
+{SAY}Oh! You have vodka! Could you spare one?{WAIT}This boy needs it.{/SAY}
+
+[135.015]
+{SAY}I see... Poor thing, but it can't be helped...{/SAY}
+
+[135.016]
+{SAY}Oh, thank goodness, thank goodness!{/SAY}
+
+[135.017]
+{SAY}Bless you!{/SAY}
+
+[135.018]
+
+《Gave the Vodka!》
+
+[135.019]
+
+《The doctor gave the boy a few drops of vodka...》
+
+[135.020]
+{SAY}Huh... I...{/SAY}
+
+[135.021]
+{SAY}All right, you're fine now! Your grandpa's waiting outside, kid.{/SAY}
+
+[135.022]
+{SAY}Okay! Thank you!{/SAY}
+
+[135.023]
+{SAY}Thank you too, mister!{/SAY}
+
+[135.024]
+{SAY}Grandpa!{/SAY}
+
+[135.025]
+{SAY}Oh! You're awake! Thank goodness. Thank goodness!{/SAY}
+
+[135.026]
+{SAY}The doctor's hands are full, so I'll see you instead.{HOLD}Is anything wrong?{/SAY}
+
+[135.027]
+{SAY}You don't have enough money.{/SAY}
+
+[135.028]
+{SAY}My grandson won't wake up... What should I do...{/SAY}
+
+[135.029]
+{SAY}I don't know who you are, but thank you.{WAIT}I'll never forget your kindness as long as I live.{/SAY}
+
+[135.030]
+　Oh, that's right.{WAIT}It's not much of a thank-you, but please take this.
+
+[135.031]
+
+《Got a Khorosho Bun!》
+
+[135.032]
+{SAY}I'll give you more when I make some.{/SAY}
+
+[135.033]
+　Thank you so much.
+
+[135.034]
+{SAY}..................{/SAY}
+
+[135.035]
+{SAY}I'm tooootally fine! Vroooom!{/SAY}
+
+[135.036]
+{SAY}Beyond here is buried in snow.{HOLD}It's dangerous, so better stay away.{/SAY}
+
+[135.037]
+《Beyond here is buried in snow. You can't go any further.》
+
+[135.038]
+{SAY}I know it's a bad time, but... how about a souvenir to remember the Trans-Siberian crash, vich?{/SAY}
+
+[135.039]
+{SAY}Ugh... my head's spinning.{WAIT}At times like this, a drink of vodka would clear my head...{/SAY}
+
+[135.040]
+{NAME:04}
+{SAY}...Everyone seems to be safe...{/SAY}
+
+[135.041]
+{NAME:02}
+{SAY}...What...{PAUSE:1E} happened to us...{/SAY}
+
+[135.042]
+{NAME:04}
+{SAY}For now, let's try going outside...{/SAY}
+
+[135.043]
+
+《Rest in this room?》
+
+[135.044]
+
+《Then will you at least write in your diary?》
+
+[135.045]
+{SAY}How awful! You mean we wait here AGAIN!?{/SAY}
+
+[135.046]
+{SAY}Looks like we won't make it to Moscow.{/SAY}
+
+[135.047]
+{SAY}To get to Moscow, you have to go west through the valley beyond here.{WAIT}But there are lots of aliens, and it's impossible for ordinary people.{WAIT}We'll just have to wait for help here.{/SAY}
+
+[135.048]
+{SAY}Whoa! We sure were lucky!{/SAY}
+
+[135.049]
+{SAY}Dammit! After coming this far!{WAIT}Just watch! I'll make it to Moscow no matter what!{/SAY}
+
+[135.050]
+{SAY}I want to see Daddy soon!{/SAY}
+
+[135.051]
+{SAY}What do we do! What do we do!! The tracks... the tracks...{/SAY}
+

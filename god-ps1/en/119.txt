@@ -1,0 +1,496 @@
+[119.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[119.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[119.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[119.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[119.005]
+Write in diary
+Read diary
+Quit
+
+[119.008]
+Write in your diary?
+
+[119.009]
+Write in diary
+Read diary
+Sleep
+
+[119.010]
+{NAME:02}
+{SAY}...What a quiet village.{/SAY}
+
+[119.011]
+{NAME:03}
+{SAY}I wonder if something happened?{/SAY}
+
+[119.012]
+{NAME:01}
+{SAY}Jeez! What a mess we're in!{/SAY}
+
+[119.013]
+{NAME:03}
+{SAY}{NAME:19}, are you sure? Trusting that guy?{/SAY}
+
+[119.014]
+{NAME:02}
+{SAY}Let's just do our best on our end...{PAUSE:1E} Here they come!{/SAY}
+
+[119.015]
+{NAME:03}
+{SAY}Hyah!!{/SAY}
+
+[119.016]
+{NAME:01}
+{SAY}Take that!!{/SAY}
+
+[119.017]
+{NAME:02}
+{SAY}Hah!{/SAY}
+
+[119.018]
+{NAME:01}
+{SAY}Did we get it?{/SAY}
+
+[119.019]
+{NAME:02}
+{SAY}More are coming!!{/SAY}
+
+[119.020]
+{NAME:01}
+{SAY}Damn it!!!{/SAY}
+
+[119.021]
+{NAME:02}
+{SAY}There's no end to them!!{/SAY}
+
+[119.022]
+{NAME:03}
+{SAY}Dammit!! ...Hm?{/SAY}
+
+[119.023]
+
+《Music could be heard from somewhere...》
+
+[119.024]
+Ken
+"Can you hear me!? {NAME:19}!"
+
+[119.025]
+Ken
+{SAY}Pretty good, rounding up this many tone-deaf folks, huh?{HOLD}But the people here aren't just folks who were scared of monsters anymore!{WAIT}By singing, they're fighting their fear... and the monsters!{WAIT}Take our feelings...!{/SAY}
+
+[119.026]
+{NAME:02}
+{SAY}Amazing!!{/SAY}
+
+[119.027]
+{NAME:03}
+{SAY}Not bad, you hack!{/SAY}
+
+[119.028]
+{NAME:01}
+{SAY}Hm...! Here it comes! The big one!{/SAY}
+
+[119.029]
+{NAME:01}
+{SAY}We did it!{/SAY}
+
+[119.030]
+{NAME:03}
+{SAY}Phew!{/SAY}
+
+[119.031]
+Ken
+{SAY}Whoo! We did it!{/SAY}
+
+[119.032]
+{SAY}Oh! It's clear!!{/SAY}
+
+[119.033]
+{SAY}We beat the monsters!{/SAY}
+
+[119.034]
+{SAY}Now... we can make it through this winter!{/SAY}
+
+[119.035]
+{SAY}We're amazing!!{/SAY}
+
+[119.036]
+Clark
+{SAY}Everyone... thank you so much.{HOLD}I'd like to do something to thank you, but what we can do is...{/SAY}
+
+[119.037]
+{NAME:02}
+{SAY}We came here looking for a way to cross to the continent.{WAIT}Do you know of any way?{/SAY}
+
+[119.038]
+Clark
+{SAY}What! The continent! Hmm... there is a way, but......{/SAY}
+
+[119.039]
+{NAME:01}
+{SAY}Really!{WAIT}What is it...{/SAY}
+
+[119.040]
+Clark
+{SAY}Mm. Let's not talk here. Please come inside.{/SAY}
+
+[119.041]
+Clark
+{SAY}This was a long time ago, but drift ice from the continent once reached Cape Rebun in the north.{WAIT}If you could use that...{WAIT}perhaps...{/SAY}
+
+[119.042]
+Ken
+{SAY}That's awesome!! Crossing the sea on drift ice...{WAIT}That's the most rock 'n' roll idea ever!!{/SAY}
+
+[119.043]
+Clark
+{SAY}Since the aliens came, no one has made it to the continent.{WAIT}We don't even know what's happening over there.{WAIT}Please be very careful.{/SAY}
+
+[119.044]
+
+《It's locked...》
+
+[119.045]
+{SAY}Welcome to Snow Village!{PAUSE:1E} Please enjoy the Snow Festival.{/SAY}
+
+[119.046]
+{SAY}Yay, yay! It's the Snow Festival!!{/SAY}
+
+[119.047]
+{SAY}The Snow Festival is so nice.{WAIT}You can forget all about the aliens.{/SAY}
+
+[119.048]
+{SAY}That's strange...{PAUSE:28} I don't remember making this.{/SAY}
+
+[119.049]
+{SAY}Whatever is happening to Japan, we can't stop the Snow Festival.{WAIT}After all, a carnival isn't something you take part in. It's something you live inside.{/SAY}
+
+[119.050]
+{SAY}Mail! The Mail Service, delivering anywhere in Japan!{WAIT}Huff,{PAUSE:1E} huff,{PAUSE:1E} huff,{PAUSE:1E} you must be {NAME:19}.{WAIT}Phew.{PAUSE:28} Finally found you.{PAUSE:0A} Here, special delivery!{/SAY}
+
+[119.051]
+《Received a letter.{PAUSE:3C} ...Why, it was a letter from Dan Kichi!》
+
+[119.052]
+{SAY}That was the mailman who never shows the strain.{PAUSE:1E} See ya!{/SAY}
+
+[119.053]
+
+《{NAME:19} read the letter》{WAIT}
+{CLEAR}"{NAME:19}, how are you? For tomorrow, lesson number 2.{PAUSE:32} The "Wild Slash".{WAIT}It lets you slash an enemy many times at once.{WAIT}Keep your elbows in... and strike fast!{WAIT}...Strike!{WAIT}...Strike!"
+
+[119.054]
+
+《Learned the "Wild Slash"!》
+
+[119.055]
+{SAY}Welcome. We rent rooms for 500G a night. Will you stay?{/SAY}
+
+[119.056]
+{SAY}Pardon me, but you don't have enough money.{/SAY}
+
+[119.057]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[119.058]
+{SAY}Come again.{/SAY}
+
+[119.059]
+{SAY}How about a drink with Snow Village's delicacy, crab innards?{/SAY}
+
+[119.060]
+{SAY}We Hokkaido folk drink nothing but milk. Even I have milk after meals instead of tea!{/SAY}
+
+[119.061]
+{SAY}The little peninsula to the north is called Cape Rebun.{WAIT}It's covered in ice all over, and very beautiful.{WAIT}But lately strange voices have been coming from deep inside,{WAIT}so we keep everyone away.{/SAY}
+
+[119.062]
+{SAY}Ahhh~{WAIT}I want to soak in a hot spring~.{/SAY}
+
+[119.063]
+{SAY}What!?{HOLD} A hot spring?{WAIT}That's a good way east of here, over toward Shiretoko.{WAIT}There's a tree planted as a landmark{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{WAIT}I wonder if it's still there...{WAIT}Come to think of it, I think it was mixed bathing...{WAIT}When I was young, the missus and I used to get up to some hanky-panky in that hot spring!!{/SAY}
+
+[119.064]
+{SAY}In the old days, the old man and I often went to a snow-view hot spring together~.{/SAY}
+
+[119.065]
+{SAY}That was a long{PAUSE:B4} time ago.{/SAY}
+
+[119.066]
+{SAY}Welcome! Do stay with us!{/SAY}
+
+[119.067]
+{SAY}Ah! It's you!{WAIT}You saved me under Izumo Shrine.{WAIT}Thank you for that!{WAIT}Please take this as thanks!{/SAY}
+
+[119.068]
+
+《Received {WORD}!》
+
+[119.069]
+《But you already have 99 {WORD}!》
+
+[119.070]
+
+《Gave up on {WORD}...》
+
+[119.071]
+{SAY}Saved by you again...{PAUSE:1E} It must be fate!{PAUSE:14} Tee hee!{/SAY}
+
+[119.072]
+"...A request from the hotel... To students on school trips: please be quiet at night!!"
+
+[119.073]
+{SAY}It's been three days since I last went...{/SAY}
+
+[119.074]
+{SAY}What Japan needs most right now is Bless, and us.{/SAY}
+
+[119.075]
+{SAY}My big sister works in Neo-Kobe.{WAIT}She has a naughty secret.{/SAY}
+
+[119.076]
+{SAY}Hey, which do you like better, nurses or stewardesses?{/SAY}
+
+[119.077]
+Stewardesses
+
+[119.078]
+Nurses
+
+[119.079]
+I like both
+
+[119.080]
+{SAY}Ahh, I wanna give someone a shot~!{/SAY}
+
+[119.081]
+{SAY}Ahh, I wanna get a shot~!{/SAY}
+
+[119.082]
+{SAY}Everyone, have some pride as nursing students, and keep it dowwwn!{/SAY}
+
+[119.083]
+{SAY}Welcome! This is the souvenir shop. What'll it be?{/SAY}
+
+[119.084]
+{SAY}Come on, the blizzard's cleared, so business! Business! Want to buy a weapon?{/SAY}
+
+[119.085]
+{SAY}Everyone's counting on you folks. I'll give you a good deal. Want to buy something?{/SAY}
+
+[119.088]
+{SAY}Waaah!!{/SAY}
+
+[119.089]
+{SAY}They're heeere!!{/SAY}
+
+[119.090]
+{NAME:01}
+{SAY}What the?{/SAY}
+
+[119.091]
+{NAME:03}
+{SAY}How rude!{/SAY}
+
+[119.092]
+{NAME:02}
+{SAY}I wonder if something happened...{/SAY}
+
+[119.093]
+Ken
+{SAY}You morons!! These guys are humans, and they're my buddies!{/SAY}
+
+[119.094]
+Ken
+{SAY}Long time no see! {NAME:19}, {NAME:01}! Remember me?{/SAY}
+
+[119.095]
+{SAY}That's right! I am the great musician and eternal rock 'n' roller,{WAIT}the great Ken, from Neo-Kobe!{/SAY}
+
+[119.096]
+{SAY}What a cold bunch!! Listen, I'll only say it once!{WAIT}I am the great musician and eternal rock 'n' roller,{WAIT}the great Ken, from Neo-Kobe!{/SAY}
+
+[119.097]
+{NAME:03}
+{SAY}And what's a hack musician like you doing in a place like this?{/SAY}
+
+[119.098]
+Ken
+{SAY}What'd you say! You big-boobed cow!{WAIT}You got a problem with my music!{/SAY}
+
+[119.099]
+{NAME:03}
+{SAY}...You wanna die?{PAUSE:3C} Then just say so.{/SAY}
+
+[119.100]
+{NAME:02}
+{SAY}{NAME:03}!{WAIT}I'm sorry, Ken. {NAME:03} doesn't mean any harm.{/SAY}
+
+[119.101]
+Ken
+{SAY}Huh? Oh, no, not at all.{PAUSE:1E} Ha{PAUSE:1E} ha{PAUSE:1E} ha.{WAIT}Hey, geniuses are never understood in any age. I don't mind one bit, young lady.{/SAY}
+
+[119.102]
+{NAME:01}
+{SAY}...Once the comedy act's over, I'd like someone to tell me what's going on.{/SAY}
+
+[119.103]
+{SAY}Allow me to explain.{/SAY}
+
+[119.104]
+Clark
+{SAY}...I am Clark, the representative of this Snow Village.{WAIT}Forgive the villagers for their rudeness just now...{/SAY}
+
+[119.105]
+{NAME:02}
+{SAY}What on earth is going on?{WAIT}It looks like a peaceful village that hasn't suffered much from the aliens...{/SAY}
+
+[119.106]
+Clark
+{SAY}It's true, this village is small and was never attacked directly by the aliens.{WAIT}But a few years ago, around this time of year, a blizzard monster started appearing out of nowhere and attacking the village.{WAIT}We can't drive it off ourselves...{PAUSE:1E} so at this time of year, everyone locks their doors and stays inside.{/SAY}
+
+[119.107]
+Ken
+{SAY}I got to this village a few days ago too.{WAIT}I heard what was going on and tried to do something, but everyone's totally scared stiff, so I can't do a thing.{/SAY}
+
+[119.108]
+{NAME:03}
+{SAY}The aliens can turn what humans fear into monsters.{HOLD}The more scared you are, the stronger the monsters that show up.{/SAY}
+
+[119.109]
+Clark
+{SAY}My word... So that's it. Our weakness has been tormenting us.{WAIT}...But even so, that doesn't mean we can do anything about it...{/SAY}
+
+[119.110]
+Ken
+{SAY}Ugh! That's pathetic, old man!{WAIT}Basically, it means guts'll get us through, right!{WAIT}Right, boob-cow!{/SAY}
+
+[119.111]
+{NAME:03}
+{SAY}...Look at the hack, thinking with his empty head.{/SAY}
+
+[119.112]
+Ken
+{SAY}Wha'd you say!!{/SAY}
+
+[119.113]
+{SAY}Mr. Clark!{/SAY}
+
+[119.114]
+{SAY}Th... they're back!!{/SAY}
+
+[119.115]
+Clark
+{SAY}What!? Have the villagers taken shelter?{/SAY}
+
+[119.116]
+{SAY}Yeah. But there's a lot of them this time... We might be done for...{/SAY}
+
+[119.117]
+Ken
+{SAY}Don't talk nonsense!!{/SAY}
+
+[119.118]
+Ken
+{SAY}Hey, old man Clark!{WAIT}Gather every villager here, right now!!{/SAY}
+
+[119.119]
+Clark
+{SAY}Wh... what are you planning!?{/SAY}
+
+[119.120]
+Ken
+{SAY}Quit stalling! {NAME:19}, everyone!{WAIT}Just for a little while!{WAIT}Hold them off!{/SAY}
+
+[119.121]
+{SAY}Wh-wh-wh-what's he gonna do...{/SAY}
+
+[119.122]
+{SAY}...We're all gonna die anyway...{/SAY}
+
+[119.123]
+{SAY}This is terrible! This is terrible!{/SAY}
+
+[119.124]
+Clark
+{SAY}I don't know what this is about... but we'll give it a try...{/SAY}
+
+[119.125]
+Clark
+{SAY}It's all right. Nothing is impossible for humans.{WAIT}First, be ambitious.{/SAY}
+
+[119.126]
+Clark
+{SAY}Where there's a will, there's a way. First, be ambitious.{/SAY}
+
+[119.127]
+Ken
+{SAY}Heh heh! Leave it to me! Buy me some time!{/SAY}
+
+[119.128]
+Ken
+{SAY}Crossing the sea on drift ice... That's the most rock 'n' roll idea ever!!{/SAY}
+
+[119.129]
+{SAY}This is a bad time, but... want to rest?{PAUSE:1E} It's 500G.{/SAY}
+
+[119.130]
+{SAY}You don't have enough money.{/SAY}
+
+[119.131]
+{SAY}Yo! You kids! Doing all right!{/SAY}
+
+[119.132]
+{SAY}Will you at least write in your diary?{/SAY}
+
+[119.133]
+{SAY}Come again.{/SAY}
+
+[119.134]
+{SAY}Now we can make it through this winter too. Thank you.{/SAY}
+
+[119.135]
+{SAY}Yeahhh!{WAIT}Even granny has woken up to rock.{/SAY}
+
+[119.136]
+{SAY}Was my singing good?{/SAY}
+
+[119.137]
+{SAY}They say there are even nastier monsters on the continent.{WAIT}You'd better give up on crossing the sea.{/SAY}
+
+[119.138]
+{SAY}Well? Snow Village is chilly, ain't it?{/SAY}
+
+[119.139]
+{SAY}I can't wait to have the Snow Festival...{/SAY}
+
+[119.140]
+{SAY}I've awakened to the joy of singing.{WAIT}La~la la~ Come, sing with me!{/SAY}
+
+[119.141]
+{SAY}Music is wonderful, isn't it!{/SAY}
+
+[119.142]
+{SAY}Lately creepy voices have been coming from Cape Rebun in the north, so nobody goes near it.{/SAY}
+
+[119.143]
+{SAY}Eek!!{WAIT}My fingers are crampiiing!!{/SAY}
+
+[119.144]
+{SAY}Whew! This town is cold, so don't catch a cold! So, what's wrong with you?{/SAY}
+
+[119.145]
+{SAY}Oh my, you don't have enough money!{/SAY}
+
+[119.146]
+{SAY}When winter comes, I get all fired up.{/SAY}
+

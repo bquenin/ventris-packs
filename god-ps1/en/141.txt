@@ -1,0 +1,560 @@
+[141.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[141.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[141.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[141.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[141.005]
+Write in diary
+Read diary
+Quit
+
+[141.008]
+Write in your diary?
+
+[141.009]
+Write in diary
+Read diary
+Sleep
+
+[141.010]
+{SAY}Welcome to Kasbah Village, the oasis of the heart in the great desert.{B:7E}
+
+[141.011]
+But lately even that oasis is drying up...
+
+[141.012]
+What was that big earthquake just now...
+
+[141.013]
+What! You beat the aliens at the pyramid!? That's amazing!
+
+[141.014]
+Ah! It's you! Thank you so much!
+
+[141.015]
+{SAY}The hot sand from the desert has killed many villagers...{/SAY}
+
+[141.016]
+{SAY}They say a giant pyramid appeared in the middle of the desert!{HOLD}Ah! Is the world finally ending...{/SAY}
+
+[141.017]
+{SAY}We're saved~! The sand stopped!!{/SAY}
+
+[141.018]
+{SAY}Was it you!? Did you stop the sand? Thank you so much!{/SAY}
+
+[141.019]
+{SAY}Oh! Rain, rain! Now we're saved...!{/SAY}
+
+[141.020]
+{SAY}Since then, it rains now and then.{WAIT}All thanks to you.{/SAY}
+
+[141.021]
+{SAY}Since a meteorite fell near the pyramid to the west, the desert started spreading.{WAIT}The King fled here to Kasbah. Terrible business.{/SAY}
+
+[141.022]
+{SAY}My word! The desert seems to have stopped spreading!{/SAY}
+
+[141.023]
+{SAY}So much water!{/SAY}
+
+[141.024]
+{SAY}Welcome. Please have a Kasbah Village souvenir.{/SAY}
+
+[141.025]
+
+《There's a well... But it seems to have dried up...》
+
+[141.026]
+
+《Drink the well water?》
+
+[141.027]
+
+《HP was restored!》
+
+[141.028]
+
+《It looks like some kind of skeleton...》
+
+[141.029]
+
+《Found {WORD}!》
+
+[141.030]
+
+《Got {WORD}!》
+
+[141.031]
+《But {NAME:19} already has 99 {WORD}!》
+
+[141.032]
+
+《Gave up on {WORD}...》
+
+[141.033]
+
+《It looks like some kind of skeleton...》
+
+[141.034]
+
+《Found {WORD}!》
+
+[141.035]
+
+《Got {WORD}!》
+
+[141.036]
+《But {NAME:19} already has 99 {WORD}!》
+
+[141.037]
+
+《Gave up on {WORD}...》
+
+[141.038]
+
+《It looks like some kind of skeleton...》
+
+[141.039]
+
+《Found {WORD}!》
+
+[141.040]
+
+《Got {WORD}!》
+
+[141.041]
+《But {NAME:19} already has 99 {WORD}!》
+
+[141.042]
+
+《Gave up on {WORD}...》
+
+[141.043]
+{SAY}Mail! The Mail Service, delivering anywhere in the world.{WAIT}{PAUSE:19}Huff,{PAUSE:19} huff,{PAUSE:19} huff.{PAUSE:19} You're {NAME:19}, phew!{WAIT}All the way to Africa.{WAIT}Here, special delivery.{/SAY}
+
+[141.044]
+
+《Received a letter! From Dan Kichi again!》
+
+[141.045]
+{SAY}I go anywhere. See ya{/SAY}
+
+[141.046]
+
+《{NAME:19} read the letter.》{WAIT}
+{CLEAR}"{NAME:19}, how are you? For tomorrow, lesson number 4: the "Open-Guard Slash".{WAIT}By throwing away your defense, you deal big damage to every enemy.{WAIT}Open your arms, drop your head, take careful aim and strike!{WAIT}...Strike!"
+
+[141.047]
+
+《Learned the "Open-Guard Slash"!》
+
+[141.048]
+King
+{SAY}Phew... phew... Even I, the King, can't beat this heat...{WAIT}What am I to do...{/SAY}
+
+[141.049]
+King
+{SAY}What, a pyramid in the middle of the desert!?{WAIT}Hmmm. What am I to do...{/SAY}
+
+[141.050]
+King
+{SAY}Oh, it's you! Well done!{/SAY}
+
+[141.051]
+Jimsy
+{SAY}Good work. Now Africa will be saved...{WAIT}But lately I've heard a strange rumor.{/SAY}
+
+[141.052]
+{NAME:02}
+{SAY}...A rumor?{/SAY}
+
+[141.053]
+Jimsy
+{SAY}Mm. They say Bless in America is joining hands with the aliens...{/SAY}
+
+[141.054]
+{NAME:04}
+{SAY}What did you say!{/SAY}
+
+[141.055]
+{NAME:01}
+{SAY}That's ridiculous!{/SAY}
+
+[141.056]
+King
+{SAY}I've heard that story too.{WAIT}But to confirm it...{WAIT}Oh, that's right.{WAIT}Far to the south, at the tip of Africa, there's a place called the Hope Hotel.{WAIT}A shipwright who once served me lives there.{WAIT}He could build what you need for your journey.{WAIT}Only... he's an ornery fellow.{WAIT}Thank you. I'll never forget you.{/SAY}
+
+[141.057]
+Jimsy
+{SAY}{NAME:19} and friends are the true heroes!{WAIT}With this, the rest...{/SAY}
+
+[141.058]
+{SAY}It's terrible!{/SAY}
+
+[141.059]
+{SAY}Outside... outside...!!{/SAY}
+
+[141.060]
+King
+{SAY}What!?{/SAY}
+
+[141.061]
+King
+{SAY}Far to the south, at the tip of Africa, there's a place called the Hope Hotel.{WAIT}A shipwright who once served me lives there.{WAIT}He could build what you need for your journey.{WAIT}Only... he's an ornery fellow.{WAIT}Thank you. I'll never forget you.{/SAY}
+
+[141.062]
+King
+{SAY}Oh! It's you!! Thanks to the sand stopping, we dug out a little treasure!{WAIT}Please, take it!{/SAY}
+
+[141.063]
+
+《Got a Speed Essence!》
+
+[141.064]
+King
+{SAY}Keep up the good work!{WAIT}I, the King, am cheering you on!{/SAY}
+
+[141.065]
+King
+{SAY}Ohh... this is...{/SAY}
+
+[141.066]
+Princess Shahara
+{SAY}Rain...!{/SAY}
+
+[141.067]
+King
+{SAY}Now the land will be watered. Truly, well done.{WAIT}Drop by anytime!{/SAY}
+
+[141.068]
+Princess Shahara
+{SAY}I have no words to thank you all.{WAIT}It's small, but I've prepared a gift.{WAIT}Come get it later!{/SAY}
+
+[141.069]
+Jimsy
+{SAY}You taught me a great deal.{WAIT}As a sage, I still have far to go.{WAIT}I pray for your safe journey!{/SAY}
+
+[141.070]
+Princess Shahara
+{SAY}Traveler, are you strong?{/SAY}
+
+[141.071]
+Princess Shahara
+{SAY}Really?{/SAY}
+
+[141.072]
+Princess Shahara
+{SAY}Really, really?{/SAY}
+
+[141.073]
+Princess Shahara
+{SAY}I know I'm being pushy, but really?{/SAY}
+
+[141.074]
+Princess Shahara
+{SAY}Are you really stronger than anyone?{/SAY}
+
+[141.075]
+Princess Shahara
+{SAY}You're not lying? It's true?{/SAY}
+
+[141.076]
+Princess Shahara
+{SAY}...{PAUSE:1E}I have a favor to ask!{WAIT}Ever since the aliens came, unbelievable sandstorms have buried many towns.{WAIT}We think it's an alien attack, but with my father the King collapsed, we can do nothing...{/SAY}
+
+[141.077]
+Princess Shahara
+{SAY}If you really are stronger than anyone, find the cause and stop these sandstorms.{WAIT}Will you go?{/SAY}
+
+[141.078]
+{SAY}Oh! Thank you so much.{HOLD}If you stop the sandstorms, I'll reward you for sure.{WAIT}Please visit the sage, Jimsy.{WAIT}He should be at the pyramid to the south.{/SAY}
+
+[141.079]
+{SAY}You made me talk this much and you won't go!?{WAIT}...{PAUSE:0F}I'll cry.{/SAY}
+
+[141.080]
+{SAY}...{PAUSE:0A}Now I want to cry.{/SAY}
+
+[141.081]
+{SAY}...{PAUSE:0A}What a person!{/SAY}
+
+[141.082]
+{SAY}...{PAUSE:0A}How cruel.{/SAY}
+
+[141.083]
+{SAY}...{PAUSE:0A}That's too much.{/SAY}
+
+[141.084]
+{SAY}Don't get my hopes up!{/SAY}
+
+[141.085]
+{SAY}Then it's no good...{/SAY}
+
+[141.086]
+Princess Shahara
+{SAY}First, visit the sage Jimsy at the pyramid to the south.{WAIT}Please, I'm counting on you.{/SAY}
+
+[141.087]
+Princess Shahara
+{SAY}Have you heard about the giant pyramid?{/SAY}
+
+[141.088]
+Princess Shahara
+{SAY}The Great Pyramid is spewing many times more hot sand than before!{WAIT}At this rate, not just Africa but the whole world will be buried in hot sand...{WAIT}Please! Go to the Great Pyramid and stop the sandstorm!{/SAY}
+
+[141.089]
+Princess Shahara
+{SAY}They say a giant pyramid appeared in the middle of the desert!{/SAY}
+
+[141.090]
+Princess Shahara
+{SAY}Thank you.{WAIT}If I were a little older, I could have been your bride.{WAIT}As thanks, I'll give you a baobab fruit from the baobab tree.{WAIT}I love this fruit.{/SAY}
+
+[141.091]
+
+《Got a Baobab Fruit!》
+
+[141.092]
+Princess Shahara
+{SAY}Take care, everyone.{/SAY}
+
+[141.093]
+Princess Shahara
+{SAY}Ah! It's you! Thanks to you, Father is well again!{/SAY}
+
+[141.094]
+{SAY}This is the King's tent. ...But the King collapsed from the heat.{WAIT}The Princess is acting in his place now.{WAIT}Mind your manners.{/SAY}
+
+[141.095]
+{SAY}This heat has me staggering too. But as long as the Princess keeps going, I won't fall!{/SAY}
+
+[141.096]
+{SAY}Ah!!{WAIT}It's you!?{WAIT}How about becoming the King's retainers?{/SAY}
+
+[141.097]
+Jimsy
+{SAY}You've come back safely! Come! The King awaits!{/SAY}
+
+[141.098]
+Jimsy
+{SAY}...You may be true heroes. Your journey will soon begin.{WAIT}Thank you! From the bottom of my heart, thank you.{/SAY}
+
+[141.099]
+{SAY}It washes away even the bad things and the painful things...{PAUSE:1E} Rain is wonderful, isn't it!{/SAY}
+
+[141.100]
+{SAY}This is the armor shop! We made the King's armor too{/SAY}
+
+[141.101]
+{SAY}This is the weapon shop! We made the King's weapons too.{/SAY}
+
+[141.102]
+{SAY}...Can't work in this heat. Everyone's collapsed~{/SAY}
+
+[141.103]
+{SAY}Did you hear?{/SAY}
+
+[141.104]
+{SAY}It's all over... everything...{/SAY}
+
+[141.105]
+{SAY}Well, well... what a happy fellow...{/SAY}
+
+[141.106]
+{SAY}What? There's sand in the food?{HOLD}My apologies.{/SAY}
+
+[141.107]
+{SAY}Whew, it's finally bearable...{/SAY}
+
+[141.108]
+{SAY}This is Kasbah Village, at the end of the earth. Anyway, blooming in the Kasbah night...{WAIT}...they call me the Woman of the Kasbah.{/SAY}
+
+[141.109]
+{SAY}I'm thinking of setting out on a journey.{WAIT}Somewhere, someone... is surely waiting for me!{/SAY}
+
+[141.110]
+{SAY}Yesterday? I forgot something that long ago...{WAIT}Tomorrow? I can't see that far into the future...{/SAY}
+
+[141.111]
+{SAY}Seems my senility's cleared up lately.{/SAY}
+
+[141.112]
+{SAY}I lost a little weight in the heat! Lucky!{/SAY}
+
+[141.113]
+{SAY}In this heat I have no appetite...{PAUSE:1E} ...munch munch.{/SAY}
+
+[141.114]
+{SAY}I haven't seen Lord Jimsy these past few days...{WAIT}What could have happened...{/SAY}
+
+[141.115]
+{SAY}Lord Jimsy, you're safe...{WAIT}Thank goodness!{/SAY}
+
+[141.116]
+{SAY}All the wells in this town have dried up...{WAIT}All we have now is the oasis water Lord Jimsy brings...{/SAY}
+
+[141.117]
+{SAY}Now this town can finally get back to normal!{/SAY}
+
+[141.118]
+{SAY}Welcome! The hot desert wears you out. Rest up.{WAIT}It's 850G a night. Will you stay?{/SAY}
+
+[141.119]
+{SAY}You don't have enough money!{/SAY}
+
+[141.120]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[141.121]
+{SAY}Sorry it's so hot.{/SAY}
+
+[141.122]
+{SAY}Almost everything got buried in sand, and this is all that's left... What would you like?{/SAY}
+
+[141.123]
+{SAY}Don't push yourself in the desert. It's hot, so watch it. So, what's wrong?{/SAY}
+
+[141.124]
+{SAY}Did the heat go to your head? You don't have enough money!{/SAY}
+
+[141.125]
+{SAY}Mm. Nothing seems wrong with you!{/SAY}
+
+[141.126]
+{SAY}It's too hot... I want to take it all off.{/SAY}
+
+[141.127]
+{SAY}Hey! It's hot, don't cling to me!{/SAY}
+
+[141.128]
+{SAY}It seems a little cooler.{/SAY}
+
+[141.129]
+{SAY}Everyone's groggy in this heat. If only it would rain...{/SAY}
+
+[141.130]
+{SAY}That earthquake just now made it even hotter.{HOLD}At this rate...{/SAY}
+
+[141.131]
+{SAY}Oh! It's you!{WAIT}Thank you so much!{/SAY}
+
+[141.132]
+{SAY}Uuugh... uuuuuugh...{/SAY}
+
+[141.133]
+{SAY}So hot...... It hurts......{/SAY}
+
+[141.134]
+{SAY}...We crossed the desert and finally got here......{/SAY}
+
+[141.135]
+{SAY}W... water...{/SAY}
+
+[141.136]
+{SAY}Lord Jimsy......{/SAY}
+
+[141.137]
+{SAY}The small, the old... the weakest are dropping one after another.........{/SAY}
+
+[141.138]
+{SAY}...................{/SAY}
+
+[141.184]
+　　Those without the King's proof,
+　　　　begone!
+
+[141.185]
+　　　　　Enter...
+　　you who bear the royal proof...!
+
+[141.187]
+
+《A voice came from nowhere...》
+
+[141.188]
+"Four in the beginning. Two in the middle. Then how many at the end?"
+
+[141.189]
+One
+Two
+Three
+
+[141.190]
+{SAY}You cannot cancel! Choose again!{/SAY}
+
+[141.191]
+"Too bad. It's about you..."
+
+[141.192]
+"Yes, that is what you humans are!{WAIT}Now, tell me. Say you live 70 years.{WAIT}You spend 45 minutes on each meal, three meals a day, and sleep 7 hours every day.{WAIT}How many of your 70 years did you spend eating and sleeping?"
+
+[141.193]
+About 6 years
+About 18 years
+About 24 years
+
+[141.194]
+{SAY}You cannot cancel! Choose again!{/SAY}
+
+[141.195]
+"Yes! Humans spend over a third of their lives that way!"
+
+[141.196]
+
+《A voice came from nowhere...》
+
+[141.197]
+"How long is one side of King Khufu's Great Pyramid?"
+
+[141.198]
+150M
+230M
+345M
+
+[141.199]
+{SAY}You cannot cancel! Choose again!{/SAY}
+
+[141.200]
+"Fool!"
+
+[141.201]
+"Oho, you know it! Then, how tall is King Khufu's pyramid?"
+
+[141.202]
+87M
+115M
+146M
+
+[141.203]
+{SAY}You cannot cancel! Choose again!{/SAY}
+
+[141.204]
+"Oho, you know this too! Then, what is the Egyptian charm called a 'scarab'?"
+
+[141.205]
+A cockroach
+A scary label
+A dung beetle
+
+[141.206]
+{SAY}You cannot cancel! Choose again!{/SAY}
+
+[141.207]
+"Oho..."
+
+[141.208]
+
+《Somewhere, a switch clicked on...》
+
+[141.209]
+
+《The switch has been pressed...》
+

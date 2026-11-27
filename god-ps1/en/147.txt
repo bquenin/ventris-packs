@@ -1,0 +1,621 @@
+[147.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[147.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[147.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[147.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[147.005]
+Write in diary
+Read diary
+Quit
+
+[147.008]
+{NAME:04}
+{SAY}Sir {NAME:19}!{/SAY}
+
+[147.009]
+{NAME:04}
+{SAY}It's terrible! The monkeys all over the village have been in an uproar for a while now...{/SAY}
+
+[147.010]
+Village Chief
+{SAY}Oh, you're up! The village monkeys are making some kind of fuss...{/SAY}
+
+[147.011]
+Granny
+{SAY}It hasn't been like this since that night. That night of terror when the aliens came...{/SAY}
+
+[147.012]
+Village Chief
+{SAY}No one has seen Lord Lem for a while.{WAIT}The villagers say he ran out of the village......{/SAY}
+
+[147.013]
+{SAY}Kikikikiki!{/SAY}
+
+[147.014]
+Village Chief
+{SAY}Oh! Lord Lem{/SAY}
+
+[147.015]
+Lem
+{SAY}Ookkyakyakya!{/SAY}
+
+[147.016]
+{NAME:04}
+{SAY}Hm? What could be the matter?{/SAY}
+
+[147.017]
+Lem
+{SAY}Ookiiiiiiiiii!!{/SAY}
+
+[147.018]
+Lem
+{SAY}Kyakyakya!!{/SAY}
+
+[147.019]
+Granny
+{SAY}Hm!?{WAIT}Panicking like this... something may have happened over in the town!{/SAY}
+
+[147.020]
+{NAME:04}
+{SAY}Sir {NAME:19}! In any case, let's go together!{/SAY}
+
+[147.021]
+Granny
+{SAY}Lord Lem's strange power may have sensed something...{WAIT}Panicking like this. I hope it's nothing bad...{/SAY}
+
+[147.022]
+Village Chief
+{SAY}What on earth...{/SAY}
+
+[147.023]
+{SAY}You're an outsider! This here's Lemur Village.{WAIT}The law says no outsiders get in!{WAIT}Go on, get outta here!{/SAY}
+
+[147.024]
+{SAY}You're an outsider! This here's Lemur Village.{WAIT}The law says no outsiders get in!{WAIT}Go on, get outta here! ...Hm?{/SAY}
+
+[147.025]
+{SAY}Ain't that Lady Kiki's pendant you got?{/SAY}
+
+[147.026]
+Lem
+{SAY}Ookiki!!{/SAY}
+
+[147.027]
+{SAY}Ah! If it ain't Lord Lem! Yikes! Beg your pardon.{WAIT}If you know Lord Lem and Lady Kiki, no problem. Come on in.{/SAY}
+
+[147.028]
+Mimi
+{SAY}Thank you! Mister!{/SAY}
+
+[147.029]
+{SAY}Ookyakyakya!{/SAY}
+
+[147.030]
+{SAY}Ookyakya...{/SAY}
+
+[147.031]
+{SAY}Ookyakyakya!{/SAY}
+
+[147.032]
+
+《It's terribly excited...》
+
+[147.033]
+{SAY}Ookyakyakya!{/SAY}
+
+[147.034]
+
+《It's terribly excited...》
+
+[147.035]
+{SAY}Ookyakya?{/SAY}
+
+[147.036]
+
+《Got a Banana Peel!》
+
+[147.037]
+
+《Got the Golden Banana!》
+
+[147.038]
+{SAY}Ookyakyakya!{/SAY}
+
+[147.039]
+{SAY}Ookya...{/SAY}
+
+[147.040]
+{SAY}Ookya?{/SAY}
+
+[147.041]
+
+《The monkey is holding a paper. Read it?》
+
+[147.042]
+
+《In meditation. Keep out. ~Granny~》
+
+[147.044]
+{SAY}Since long ago, no one has entered the shrine.{WAIT}What's inside?{PAUSE:0A} ...That's too sacred for us to know.{/SAY}
+
+[147.045]
+{SAY}It's been a long time since I saw the monkeys this excited...{WAIT}What could it be...{/SAY}
+
+[147.046]
+{SAY}If there's anything you don't understand, ask Granny.{/SAY}
+
+[147.047]
+{SAY}Oh, what happened to Lord Lemur?{/SAY}
+
+[147.048]
+{SAY}Lord Lemur...{/SAY}
+
+[147.049]
+{SAY}Ookyuu?{/SAY}
+
+[147.050]
+{SAY}Ooki! Ooki!{/SAY}
+
+[147.051]
+{SAY}Ookiiiiiiiiii!{/SAY}
+
+[147.052]
+{SAY}Ooki! Ooki!{/SAY}
+
+[147.053]
+{SAY}Oopee!? Hibeekee!?!? Opi{PAUSE:0F}opi{PAUSE:0F}opi{PAUSE:0F}opi{PAUSE:0F} hibi{PAUSE:0F}hibi{PAUSE:0F}hibi{PAUSE:0F}hibi{/SAY}
+
+[147.054]
+{SAY}In the back of this village is a shrine to Lord Lemur.{/SAY}
+
+[147.055]
+{SAY}Oh, calm down! Please!{/SAY}
+
+[147.056]
+{SAY}For a while I didn't know what would happen... Thank goodness, thank goodness.{/SAY}
+
+[147.057]
+{SAY}Lord Lemur.........{/SAY}
+
+[147.058]
+{SAY}Do your best, for Lord Lemur's sake too!{/SAY}
+
+[147.059]
+{SAY}As long as Lord Lemur protects us, this village is safe, it is.{/SAY}
+
+[147.060]
+{SAY}A big light flew off to the north, it did!{WAIT}It's true, it is!{/SAY}
+
+[147.061]
+{SAY}Lord Lemur protected us after all, he did!{/SAY}
+
+[147.062]
+{SAY}...Lord Lemur's soul will surely protect this village forever, it will...{/SAY}
+
+[147.063]
+{SAY}Lord Lemur is a wise monkey, said to be a messenger of the gods.{WAIT}He always watches over this village. Bless him, bless him...{/SAY}
+
+[147.064]
+{SAY}What on earth happened...{/SAY}
+
+[147.065]
+{SAY}I heard. Just what I'd expect of Lord Lemur!{WAIT}He's not a messenger of the gods for nothing!{WAIT}Bless him, bless him...{/SAY}
+
+[147.066]
+{SAY}Wasn't that an earthquake just now?{/SAY}
+
+[147.067]
+{SAY}...Lord Lemur lives on forever in our hearts.{/SAY}
+
+[147.068]
+
+《The door is shut...》
+
+[147.069]
+
+《Used the Lemur Crest!》
+
+[147.070]
+
+《The shrine door opened!》
+
+[147.071]
+
+《...{PAUSE:14}The door won't open》
+
+[147.072]
+{SAY}This is Lemur Village... a village on Oceania Island.{WAIT}Being brought here by Lord Lemur, I'm so jealous.{WAIT}Lord Lemur hardly ever shows himself.{/SAY}
+
+[147.073]
+{SAY}What on earth happened...{/SAY}
+
+[147.074]
+{SAY}This is Lemur Village... a village on Oceania Island!{/SAY}
+
+[147.075]
+{SAY}...Do your best!{PAUSE:14} Do your best for Lord Lemur's soul too!{/SAY}
+
+[147.076]
+{SAY}Lord Lemur comes to the village when human sorrow grows.{/SAY}
+
+[147.079]
+Village Chief
+{SAY}Oh! It's you! It seems you've found your friend.{/SAY}
+
+[147.080]
+{SAY}They're having a festival now! Want to join us, mister?{/SAY}
+
+[147.081]
+{SAY}Lord Lem has come all this way.{WAIT}It's nothing much, but please enjoy yourselves.{WAIT}And I'd like to hear about my daughter, too...{/SAY}
+
+[147.082]
+Village Chief
+{SAY}Good, good! Then let the festival begin!{/SAY}
+
+[147.083]
+Village Chief
+{SAY}Now! A toast to Lord Lemur's return~!{/SAY}
+
+[147.084]
+　　　　The people
+　　welcomed them warmly...
+
+[147.085]
+{SAY}Sir {NAME:19}!{/SAY}
+
+[147.086]
+{SAY}Please wake up!{PAUSE:14} Sir {NAME:19}!{/SAY}
+
+[147.087]
+
+《Something is noisy outside...》
+
+[147.088]
+Village Chief
+{SAY}Hm, you are...{/SAY}
+
+[147.089]
+Village Chief
+{SAY}I am the chief of this village.{WAIT}So you're the one Lord Lemur brought here...{/SAY}
+
+[147.090]
+{SAY}How do you do. They say you have Kiki's pendant.{WAIT}Kiki... was my daughter well?{/SAY}
+
+[147.091]
+{SAY}Hello! I'm Mimi, big sis Kiki's little sister!{WAIT}Big sis does a really tough job!{WAIT}...Was big sis cool?{/SAY}
+
+[147.092]
+Village Chief
+{SAY}Now, now, you two! You're startling our guest.{/SAY}
+
+[147.093]
+Village Chief
+{SAY}Pardon us, guest. This is a remote village.{WAIT}No news from outside reaches us, and we have no way to know if my daughter is safe.{WAIT}So, what brings you to this village?{/SAY}
+
+[147.094]
+Village Chief
+{SAY}I see, I see... searching for friends you were separated from...{WAIT}Oh! That's right! Four or five days ago, someone was found collapsed on the beach!{WAIT}What's become of that one?{/SAY}
+
+[147.095]
+{SAY}I believe Granny is looking after him.{/SAY}
+
+[147.096]
+{SAY}Um, he's been listening to lots of old stories Granny knows!{WAIT}He said it's training too!{WAIT}{PAUSE:1E}...What's training?{/SAY}
+
+[147.097]
+Village Chief
+{SAY}...So there you have it. Granny lives atop the ruins in the back, the wisest in the village.{WAIT}Go see her.{/SAY}
+
+[147.098]
+Village Chief
+{SAY}Oh, that's right!{/SAY}
+
+[147.099]
+Village Chief
+{SAY}After you see Granny, drop by again.{WAIT}Today we're holding a feast to celebrate Lord Lem's return!{/SAY}
+
+[147.100]
+Village Chief
+{SAY}Granny lives atop the ruins in the back, the wisest in the village.{WAIT}Go see her.{/SAY}
+
+[147.101]
+Village Chief
+{SAY}Oh! It's you!{WAIT}Thank you! Truly, thank you!{/SAY}
+
+[147.102]
+Village Chief
+{SAY}I heard about Lord Lemur.{HOLD}As Granny says, perhaps Lord Lemur fulfilled his mission...{WAIT}but for us, it's a very sad thing...{/SAY}
+
+[147.103]
+Village Chief
+{SAY}Oh, you're back! Have you seen Mimi!?{WAIT}You know, Kiki's little sister, who was beside me!{/SAY}
+
+[147.104]
+Kiki's Mother
+{SAY}She ran out saying she'd save her big sister, and she hasn't come back even though it's morning...{/SAY}
+
+[147.105]
+Village Chief
+{SAY}Please! Won't you look for Mimi?{WAIT}She must be lost and scared by now...{/SAY}
+
+[147.106]
+Mimi
+{SAY}Big sis does a really dangerous job.{WAIT}I'm worried, and I really want to go see her, but outside is full of aliens...{/SAY}
+
+[147.107]
+{SAY}I'm scared... big sis...{/SAY}
+
+[147.108]
+Mimi
+{SAY}Thank you, mister!{/SAY}
+
+[147.109]
+Mimi
+{SAY}Lord Lemur... sniff.{/SAY}
+
+[147.110]
+{SAY}Who are you, mister?{/SAY}
+
+[147.111]
+Kiki's Mother
+{SAY}Ah! It's you!{/SAY}
+
+[147.112]
+Kiki's Mother
+{SAY}Honestly... both sisters are such tomboys.{WAIT}Sorry for the trouble.{/SAY}
+
+[147.113]
+Kiki's Mother
+{SAY}What do I tell Kiki...{WAIT}She and Lord Lemur were so close...{/SAY}
+
+[147.114]
+{SAY}My daughter Kiki is a kind girl, and very close with Lord Lemur.{WAIT}Lord Lemur must have met you on his way to see her.{/SAY}
+
+[147.115]
+{SAY}What could have happened... Lord Lem getting so excited...{/SAY}
+
+[147.116]
+{SAY}Oh, welcome.{/SAY}
+
+[147.117]
+{SAY}I see, I see...{/SAY}
+
+[147.118]
+{NAME:04}
+{SAY}Hmm, hmm.{/SAY}
+
+[147.119]
+{NAME:04}
+{SAY}So this is how it is.{WAIT}According to the legend handed down in this village, this land was once connected to "Paradise"...{WAIT}and the many legends, and the monkeys with strange powers, all came from that "Paradise"...{/SAY}
+
+[147.120]
+Granny
+{SAY}Exactly.{WAIT}What "Paradise" means, I don't know...{WAIT}but hearing of the strange power you and your friends have, I can't help feeling there's a connection...{WAIT}I'll look into it a little more...{/SAY}
+
+[147.121]
+{NAME:04}
+{SAY}I am grateful.{WAIT}I too must find my friends quickly...{PAUSE:1E} Hm?{/SAY}
+
+[147.122]
+{NAME:04}
+{SAY}Sir {NAME:19}!{/SAY}
+
+[147.123]
+{NAME:04}
+{SAY}You're safe! What of Lady {NAME:02}!? Sir {NAME:01}!?{WAIT}...I too was found collapsed alone on the beach and was saved.{WAIT}...Anyway, I'm glad we're both safe.{/SAY}
+
+[147.124]
+Lem
+{SAY}Ookyakyakya!{/SAY}
+
+[147.125]
+{NAME:04}
+{SAY}Oh. This monkey is...{/SAY}
+
+[147.126]
+Granny
+{SAY}Oh! If it isn't Lord Lem!{/SAY}
+
+[147.127]
+Granny
+{SAY}Lord Lem showing himself...!{/SAY}
+
+[147.128]
+{NAME:04}
+{SAY}Granny. You know this monkey?{/SAY}
+
+[147.129]
+Granny
+{SAY}That monkey is the monkey of monkeys. The leader of the lemurs and our guardian god.{WAIT}The King of Monkeys, Lord Lem!{/SAY}
+
+[147.130]
+{NAME:04}
+{SAY}The King of Monkeys...{/SAY}
+
+[147.131]
+Lem
+{SAY}Ookyakya!{/SAY}
+
+[147.132]
+Granny
+{SAY}If Lord Lem lets you travel with him, you too must have a strange power...{/SAY}
+
+[147.133]
+Granny
+{SAY}Lord Lem is our guardian god. Treat him with respect.{/SAY}
+
+[147.134]
+{NAME:04}
+{SAY}A pleasure to have you, Lord Lem.{/SAY}
+
+[147.135]
+Lem
+{SAY}Ookyakya!{/SAY}
+
+[147.136]
+
+《{NAME:04} rejoined the party!》
+
+[147.137]
+Granny
+{SAY}Lord Lemur has a strange power.{WAIT}With it, he saved us many times.{WAIT}To us he's as good as a god. Be good friends.{/SAY}
+
+[147.138]
+Granny
+{SAY}Ohh... Lord Lemur. Welcome back.{WAIT}The monkeys went quiet, so I knew the trouble was over.{WAIT}An ancient ship...? Hmm, I've heard of it.{WAIT}Very well. I'll look into it.{WAIT}By the way...... the chief was looking for you.{/SAY}
+
+[147.139]
+Granny
+{SAY}Ohh... Lord Lemur. Welcome back.{WAIT}An ancient ship...? I believe it has something to do with the shrine in the back of this village...{/SAY}
+
+[147.140]
+{NAME:04}
+{SAY}The shrine? But its door...{/SAY}
+
+[147.141]
+Granny
+{SAY}Take this with you.{/SAY}
+
+[147.142]
+
+《Got the Lemur Crest!》
+
+[147.143]
+Granny
+{SAY}That should open the shrine door.{WAIT}I'll look a little more into the ancient ship.{/SAY}
+
+[147.144]
+Granny
+{SAY}That crest should open the shrine door.{WAIT}I'll look a little more into the ancient ship.{/SAY}
+
+[147.145]
+Granny
+{SAY}Ohh... Lord Lemur...{/SAY}
+
+[147.146]
+Granny
+{SAY}Ohh... Lord Lemur knew.{WAIT}That to protect this village, and the world, he had to give you the ancient ship...{WAIT}Please, I beg you. Ride the ancient ship, cross the sea, and fight.{WAIT}In Lord Lemur's place!{/SAY}
+
+[147.147]
+　Oh, that's right. Monk.{WAIT}With this technique handed down in this village, keep protecting Lord Lemur's soul...
+
+[147.148]
+
+《{NAME:04} learned "Seal"!》{PAUSE:62}
+
+[147.149]
+Granny
+{SAY}My word! So there were ruins of an ancient civilization...{WAIT}The shrine... yes...{WAIT}it's said the ancient ship is enshrined there...{/SAY}
+
+[147.150]
+{NAME:04}
+{SAY}The ancient ship!! I knew it!!{/SAY}
+
+[147.151]
+Granny
+{SAY}...But... the ancient ship...{/SAY}
+
+[147.152]
+{NAME:01}
+{SAY}What?{/SAY}
+
+[147.153]
+Granny
+{SAY}...The ancient ship...{/SAY}
+
+[147.154]
+{NAME:04}
+{SAY}What is it?{/SAY}
+
+[147.155]
+Granny
+{SAY}...{PAUSE:28}The ancient ship...{PAUSE:28} is said to run{PAUSE:28} on Lord Lemur's life...{/SAY}
+
+[147.156]
+{NAME:01}
+{SAY}What!? What does that mean!{/SAY}
+
+[147.157]
+Granny
+{SAY}An old legend. When this village is in true danger, Lord Lemur offers up his soul...{/SAY}
+
+[147.158]
+{NAME:01}
+{SAY}Running on a soul, that's a lie!{/SAY}
+
+[147.159]
+Granny
+{SAY}It's no lie. That's this village's old legend.{/SAY}
+
+[147.160]
+{NAME:04}
+{SAY}...{PAUSE:28}Sir {NAME:19}. What will you do?{/SAY}
+
+[147.161]
+{NAME:01}
+{SAY}{NAME:04}! What's that supposed to mean!?{/SAY}
+
+[147.162]
+{NAME:04}
+{SAY}...No, I don't want to say this either...{WAIT}...{PAUSE:1E}But we must go to America.{WAIT}{PAUSE:28}...Lady {NAME:02} would surely say the same.{/SAY}
+
+[147.163]
+{NAME:01}
+{SAY}...{PAUSE:0F}{NAME:19}, what are you going to do!?{/SAY}
+
+[147.164]
+{NAME:04}
+{SAY}Sir {NAME:19}. ...{PAUSE:0F}Will you start the ancient ship?{/SAY}
+
+[147.165]
+{NAME:01}
+{SAY}Then! Lem will...{/SAY}
+
+[147.166]
+{NAME:04}
+{SAY}...Then, what will you do?{/SAY}
+
+[147.167]
+{NAME:01}
+{SAY}Ah!{/SAY}
+
+[147.168]
+{SAY}If anything is wrong, I'll heal it.{/SAY}
+
+[147.169]
+{SAY}Oh, you don't have enough money.{/SAY}
+
+[147.170]
+"Guests brought by Lord Lemur may stay at a special rate.{WAIT}Usually 10000G, now 300G."
+
+[147.171]
+{SAY}Having guests brought by Lord Lemur stay with us is our great joy.{/SAY}
+
+[147.172]
+　The 300G for your stay will be used for Lord Lemur.{WAIT}Will you stay?
+
+[147.173]
+　...No, even so,{WAIT}the charge is 300G.{WAIT}Will you stay?
+
+[147.174]
+{SAY}You don't even have 300G...{/SAY}
+
+[147.175]
+{SAY}Then will you look at your diary?{/SAY}
+
+[147.176]
+{SAY}Use it anytime.{/SAY}
+
+[147.177]
+{SAY}How about a souvenir of this village, protected by Lord Lemur?{/SAY}
+
+[147.178]
+{SAY}How about a souvenir of this village, protected by Lord Lemur's soul?{/SAY}
+

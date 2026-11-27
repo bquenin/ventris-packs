@@ -1,0 +1,137 @@
+[186.000]
+Write in diary
+Read diary
+Quit
+
+[186.002]
+{NAME:02}
+{SAY}That is......{WAIT}the aliens' mother......?{/SAY}
+
+[186.003]
+"{NAME:19}......{PAUSE:1E}
+　It's you, {NAME:19}...{WAIT}
+　Oh...{PAUSE:14}
+　so grown,{PAUSE:0A} so fine{WAIT}
+　I hardly know you, so fine
+　you've become......"
+
+[186.004]
+{NAME:02}
+{SAY}{NAME:19}... it's calling your name!{/SAY}
+
+[186.005]
+"Oh...{PAUSE:1E} {NAME:19}!"
+
+[186.006]
+{NAME:02}
+{SAY}What is this...{/SAY}
+
+[186.007]
+《This seems to be a place of rest in Atlantis. Rest here?》
+
+[186.008]
+《Then look at your diary?》
+
+[186.015]
+
+《There's a switch. Press it?》
+
+[186.016]
+{NAME:02}
+{SAY}What is it...?{/SAY}
+
+[186.017]
+{NAME:02}
+{SAY}{NAME:19}!{/SAY}
+
+[186.018]
+
+《There's a switch. Press it?》
+
+[186.019]
+
+《There's a switch. Press it?》
+
+[186.021]
+{NAME:01}
+{SAY}{NAME:19}!{/SAY}
+
+[186.022]
+{NAME:01}
+{SAY}You okay, {NAME:19}!{/SAY}
+
+[186.023]
+{NAME:04}
+{SAY}There was a big tremor, and the barrier stopped!{/SAY}
+
+[186.024]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[186.025]
+{SAY}Kyaaaaaaah!!{/SAY}
+
+[186.026]
+
+《That voice......!》
+
+[186.027]
+{NAME:02}
+{SAY}These aliens...{/SAY}
+
+[186.028]
+{NAME:02}
+{SAY}They look like that alien Michael...{WAIT}No,{PAUSE:14} more like... {NAME:19}...{/SAY}
+
+[186.029]
+{NAME:02}
+{SAY}Sorry. It's nothing. Let's go.{/SAY}
+
+[186.030]
+High Priest Kiata
+{SAY}Well done! At last we have the next mother!{/SAY}
+
+[186.031]
+{NAME:02}
+{SAY}...Let go!{/SAY}
+
+[186.032]
+High Priest Kiata
+{SAY}Hahaha! What's to dislike!{WAIT}We're making a worm into a mother.{PAUSE:1E} You might thank us.{/SAY}
+
+[186.033]
+{NAME:02}
+{SAY}Mother...? What do you mean!{/SAY}
+
+[186.034]
+High Priest Kiata
+{SAY}You'll see soon.{WAIT}Very soon! Hahaha!{WAIT}Now, let us begin! First, I'll take that troublesome mind of yours!{/SAY}
+
+[186.035]
+{NAME:02}
+{SAY}Nooooo!!{/SAY}
+
+[186.036]
+High Priest Kiata
+{SAY}Hm! You!{/SAY}
+
+[186.037]
+{NAME:02}
+{SAY}...{NAME:19}!{/SAY}
+
+[186.038]
+High Priest Kiata
+{SAY}Curse youuu! Will you hinder us to the end!{WAIT}Very well! I'll fight you myself!{/SAY}
+
+[186.039]
+High Priest Kiata
+{SAY}Forgive me...{PAUSE:1E} my...{PAUSE:1E} Lord Poseidon...!{/SAY}
+
+[186.040]
+{NAME:02}
+{SAY}Thank you! {NAME:19}!{WAIT}But...{/SAY}
+
+[186.041]
+{NAME:02}
+{SAY}The aliens'... mother...?{PAUSE:14} What does it mean...{/SAY}
+

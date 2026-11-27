@@ -1,0 +1,511 @@
+[113.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[113.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[113.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[113.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[113.005]
+Write in diary
+Read diary
+Quit
+
+[113.008]
+Write in your diary?
+
+[113.009]
+Write in diary
+Read diary
+Sleep
+
+[113.010]
+{SAY}...Granny Gibo, who protected the village with her strange power all this time, just happened to be outside the village.{WAIT}There was nothin' we could do...{/SAY}
+
+[113.011]
+{SAY}Just as the village was about to fall to the monster,{WAIT}Granny Gibo's granddaughter went at it all by herself...{WAIT}But she was one against many.{HOLD}The monster caught her...{/SAY}
+
+[113.014]
+Mailman
+{SAY}Maaail! Mail for you!{WAIT}Huff, huff, huff... You must be {NAME:19}. Here you go.{/SAY}
+
+[113.015]
+
+《Why, it's a letter from Erika!》
+
+[113.016]
+Mailman
+{SAY}See ya!{/SAY}
+
+[113.017]
+
+《{NAME:19} read the letter...》
+
+[113.018]
+"Dear {NAME:19} and everyone, hello.{WAIT}It's Erika, whom you saved at Izumo Shrine.{WAIT}The repairs on my home, Mirage House, are finished, so I'd like to invite you all.{WAIT}Please do come.
+　　　　~Erika
+
+[113.019]
+
+《Got the Hotel Invitation!》
+
+[113.020]
+Village Chief
+{SAY}Oh, everyone.{WAIT}Your lodging is ready. Come, this way!{/SAY}
+
+[113.021]
+{SAY}This here's Osore Village. Big trouble, I tell ya.{/SAY}
+
+[113.022]
+{SAY}This here's Osore Village...{PAUSE:10} {NAME:03}!{/SAY}
+
+[113.023]
+{SAY}This here's Osore Village... Lotsa strange earthquakes lately. Scares me somethin' fierce.{/SAY}
+
+[113.024]
+{SAY}Eek! Another one!{/SAY}
+
+[113.025]
+{SAY}This here's Osore Village... Welcome back.{/SAY}
+
+[113.026]
+{SAY}It's awful! It's awful!{HOLD}A little while back, a horrible monster came, took a sacrifice, and flew off to the southwest!{WAIT}Yep, yep.{/SAY}
+
+[113.027]
+{SAY}They say you beat that monster. Well I'll be, that's somethin'.{/SAY}
+
+[113.028]
+{SAY}Ya know?{/SAY}
+
+[113.029]
+{SAY}What Granny Gibo says is never wrong!{/SAY}
+
+[113.030]
+{SAY}Granny Gibo says these earthquakes lately got somethin' to do with the aliens.{/SAY}
+
+[113.031]
+{SAY}Welcome back! Beatin' those aliens?{/SAY}
+
+[113.032]
+{SAY}Truth is{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:14} Granny Gibo's granddaughter got made a sacrifice to the dragon monster!{/SAY}
+
+[113.033]
+{SAY}Ah, {NAME:03}!{PAUSE:0A} You made it back! Thank goodness, thank goodness.{/SAY}
+
+[113.034]
+{SAY}Another big earthquake today.{WAIT}Scares me, it does.{/SAY}
+
+[113.035]
+{SAY}Welcome back. So, how's the journey?{/SAY}
+
+[113.036]
+{SAY}Even if it was to save us all, it's a terrible shame for that girl...{/SAY}
+
+[113.037]
+{SAY}...{NAME:03}! Thank goodness, thank goodness!{WAIT}So that monster was Yamata no Orochi...{/SAY}
+
+[113.038]
+{SAY}I trained as a medium too, once...{WAIT}Couldn't hold a candle to Granny Gibo, though.{/SAY}
+
+[113.039]
+{SAY}Welcome back! Are the aliens strong?{/SAY}
+
+[113.040]
+{SAY}Granny Gibo's a real spirit medium!{WAIT}She's got amazin' power, she does{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.!{PAUSE:0C} Ah, big sis {NAME:03}! Play with me again!{/SAY}
+
+[113.041]
+　{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.Welcome back!
+
+[113.042]
+{SAY}I'll beat all the aliens myself!{PAUSE:1E} ...Hyah!{/SAY}
+
+[113.043]
+{SAY}Granny Gibo's a real spirit medium! She's got amazin' power!{/SAY}
+
+[113.044]
+{SAY}Really, I was supposed to be the sacrifice, since I'm the cutest girl here.{WAIT}But that girl said{PAUSE:08} "I'm the cutest!"{PAUSE:0E} and made herself the sacrifice...{/SAY}
+
+[113.045]
+{SAY}{NAME:03},{PAUSE:08} I'm glad you're safe.{PAUSE:10}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:14}But listen.{PAUSE:08} The cutest girl here is me!{/SAY}
+
+[113.046]
+{SAY}Hello. I'm the cutest girl here.{/SAY}
+
+[113.047]
+　Ahead:
+　"Osore Village Sacred Falls"
+　Authorized persons only
+
+[113.050]
+Village Chief
+{SAY}Oh,{PAUSE:08} travelers,{PAUSE:08}{WAIT}if you have the power, please save that girl.{/SAY}
+
+[113.051]
+Village Chief
+{SAY}The monster came from Izumo Shrine, down the coast to the southwest...{/SAY}
+
+[113.052]
+Village Chief
+{SAY}Oh,{PAUSE:08} travelers,{PAUSE:08}{WAIT}if you have the power, please save that girl.{WAIT}The monster should be at Izumo Shrine, far down the coast to the southwest...{/SAY}
+
+[113.053]
+Village Chief
+{SAY}Oh! If it ain't {NAME:03}! You came back safe!{WAIT}Come, quick, go see Granny Gibo!{/SAY}
+
+[113.054]
+Village Chief
+{SAY}Oh, everyone. Do your best.{/SAY}
+
+[113.055]
+Village Chief
+{SAY}Oh, {NAME:03}, everyone.{WAIT}Granny Gibo suddenly came up from the falls.{WAIT}She's waitin' for you at the house.{/SAY}
+
+[113.056]
+Village Chief
+{SAY}Oh, everyone. Do your best.{/SAY}
+
+[113.057]
+{SAY}Ever since my daughter was taken as the monster's sacrifice,{WAIT}Grandma has been praying without sleeping.{WAIT}No matter how I call to her, she won't answer... What should I do...{/SAY}
+
+[113.058]
+{SAY}{NAME:03}!{PAUSE:1E} Thank goodness! Thank goodness!{WAIT}{NAME:19}, everyone. Thank you so much. Now,{PAUSE:02} {NAME:03},{PAUSE:08} go tell Grandma.{/SAY}
+
+[113.059]
+{SAY}Grandma has started her training again... To clear away the dark clouds, she says.{WAIT}I have no idea what she means.{WAIT}But she's not one to stop if you ask her.{WAIT}I'll keep an eye on her so she doesn't ruin her health.{/SAY}
+
+[113.060]
+{SAY}{NAME:03}, you'll go even if I stop you...{WAIT}{NAME:19}, everyone,{PAUSE:04} please take care of {NAME:03}.{/SAY}
+
+[113.061]
+{SAY}{NAME:03}, everyone, welcome back.{WAIT}{NAME:03}, Grandma is waiting for you at home.{WAIT}Everyone, please come too.{/SAY}
+
+[113.062]
+{SAY}{NAME:03}, you'll go even if I stop you...{WAIT}{NAME:19}, everyone,{PAUSE:04} please take care of {NAME:03}.{/SAY}
+
+[113.063]
+{SAY}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}I see.{WAIT}I thought it might be so...{WAIT}Grandma shut herself in her room and never came out, so I had a feeling...{/SAY}
+
+[113.064]
+Granny Gibo
+{SAY}Ah, I nearly forgot.{WAIT}{NAME:19}...{/SAY}
+
+[113.065]
+Granny Gibo
+{SAY}{NAME:19}, your mother... is alive.{/SAY}
+
+[113.066]
+Granny Gibo
+{SAY}That's all I can tell...{/SAY}
+
+[113.067]
+Granny Gibo
+{SAY}Go carefully.{/SAY}
+
+[113.069]
+{NAME:03}
+{SAY}Grandma!{/SAY}
+
+[113.070]
+Granny Gibo
+{SAY}Hmm, back at last...{/SAY}
+
+[113.071]
+Granny Gibo
+{SAY}I knew you'd come back safe...{WAIT}And that you'd meet them... ugh.{/SAY}
+
+[113.072]
+{NAME:03}
+{SAY}Grandma!?{/SAY}
+
+[113.073]
+{SAY}Welcome to Osore Village. It's 500G a night.{WAIT}So, stayin'?{/SAY}
+
+[113.074]
+{SAY}Ya ain't got enough money!{/SAY}
+
+[113.075]
+{SAY}Then, wanna look at your diary on the quiet?{/SAY}
+
+[113.076]
+{SAY}Take it easy now.{/SAY}
+
+[113.077]
+{SAY}Any bad patients around!?{PAUSE:32} ...What d'ya need?{/SAY}
+
+[113.078]
+{SAY}Ya ain't got enough dough!{/SAY}
+
+[113.079]
+{SAY}How 'bout some Osore Village souvenirs?{/SAY}
+
+[113.080]
+{SAY}I'm a traveling merchant, myaa. I came all the way from Myaa Town to a place like this, myaa.{WAIT}Will you buy something, myaa?{/SAY}
+
+[113.081]
+{SAY}I'm the armor shop. Buy somethin', won'tcha.{/SAY}
+
+[113.082]
+{SAY}Ah! It's you!{WAIT}I'm the medium-in-training you saved under Izumo Shrine.{WAIT}You saved my life!{WAIT}It's not much of a thank-you, but please take this!{/SAY}
+
+[113.083]
+
+《Received {WORD}!》
+
+[113.084]
+《But you already have 99 {WORD}!》
+
+[113.085]
+
+《Gave up on {WORD}...》
+
+[113.086]
+{SAY}I'll keep training here too, and someday I'll be a fine medium like Granny Gibo!{/SAY}
+
+[113.087]
+{NAME:03}
+{SAY}Are you okay, Grandma?{/SAY}
+
+[113.088]
+Granny Gibo
+{SAY}Mm... I'm just a little tired. No need to worry.{/SAY}
+
+[113.089]
+Granny Gibo
+{SAY}{NAME:19}, {NAME:01}, and {NAME:02}, was it?{WAIT}You've come back safe.{WAIT}And thank you for saving {NAME:03}.{/SAY}
+
+[113.090]
+{NAME:02}
+{SAY}Earlier, you said you knew everything...{/SAY}
+
+[113.091]
+Granny Gibo
+{SAY}During my training as a medium, I climbed Mt. Tsukubane, and because of that,{WAIT}I have a strange power ordinary people don't.{WAIT}I somehow knew that you would meet and come back safe.{/SAY}
+
+[113.092]
+{NAME:02}
+{SAY}Precognition...{/SAY}
+
+[113.093]
+Granny Gibo
+{SAY}That's right. But even that is far below your power...{WAIT}Your power is still green, but in time it will grow so vast that the likes of me can't compare...{/SAY}
+
+[113.094]
+{NAME:01}
+{SAY}Granny, can't your precognition tell what happens from here?{/SAY}
+
+[113.095]
+Granny Gibo
+{SAY}...I see nothing.{WAIT}It's as if a vast dark cloud has gathered, and I can no longer see a thing...{WAIT}The fate of the world is no longer something the likes of me can foresee.{WAIT}Chaos,{PAUSE:1E} madness,{PAUSE:1E} destruction...{PAUSE:1E} all manner of calamities will cover the Earth.{/SAY}
+
+[113.096]
+{NAME:02}
+{SAY}How terrible...{/SAY}
+
+[113.097]
+Granny Gibo
+{SAY}...But if there is a single ray of light, it is you.{WAIT}That you would meet and face this dark cloud together, that much even I could see.{WAIT}And the key to it is the "God Stone"...{/SAY}
+
+[113.098]
+{NAME:01}
+{SAY}The "God Stone"!{/SAY}
+
+[113.099]
+{NAME:02}
+{SAY}What on earth is it...{/SAY}
+
+[113.100]
+Granny Gibo
+{SAY}Who placed it, and for what purpose... no one knows.{WAIT}Only that since ancient times it has been revered as a stone where the power of the gods dwells...{WAIT}But until now, no one with power like yours has ever appeared.{WAIT}You were chosen by that stone...{/SAY}
+
+[113.101]
+Granny Gibo
+{SAY}...{PAUSE:14}{NAME:03}.{WAIT}I know you want to travel with them.{/SAY}
+
+[113.102]
+{NAME:03}
+{SAY}Grandma{PAUSE:0A}.{PAUSE:05}.{PAUSE:05}.{WAIT}Wh-what are you talking about!{/SAY}
+
+[113.103]
+Granny Gibo
+{SAY}I know. I won't stop you.{WAIT}{NAME:03}, if you train too, you'll gain even stronger powers.{/SAY}
+
+[113.104]
+{NAME:03}
+{SAY}Grandma, leave it to me!{WAIT}I'm gonna get super strong!{/SAY}
+
+[113.105]
+{NAME:02}
+{SAY}Um{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.{/SAY}
+
+[113.106]
+Granny Gibo
+{SAY}{NAME:02}{PAUSE:05}.{PAUSE:05}.{PAUSE:05}. I'll answer your question too.{WAIT}It seems the aliens have the power to give form to human fear.{WAIT}That's why an imaginary creature like Yamata no Orochi appeared.{/SAY}
+
+[113.107]
+{NAME:01}
+{SAY}...{PAUSE:14}Then...{/SAY}
+
+[113.108]
+Granny Gibo
+{SAY}That's right.{PAUSE:0A} What human fear,{PAUSE:0A} no, what the human mind imagines, takes form.{WAIT}In many places, the beasts and monsters humans have imagined will appear.{/SAY}
+
+[113.109]
+{NAME:01}
+{SAY}No way!{/SAY}
+
+[113.110]
+Granny Gibo
+{SAY}{NAME:19}...{PAUSE:14} I'll tell you one thing too.{WAIT}...{PAUSE:1E}The meteorite in the Sea of Japan.{PAUSE:0A} That meteorite will someday bring a terrible calamity...{WAIT}That's as far as I can see. Do you understand?{/SAY}
+
+[113.111]
+Granny Gibo
+{SAY}Good, good.{PAUSE:0F} Continue your journey. Be careful.{/SAY}
+
+[113.112]
+Granny Gibo
+{SAY}The meteorite in the Sea of Japan.{WAIT}That meteorite will someday bring a terrible calamity...{WAIT}You must prevent it.{/SAY}
+
+[113.113]
+Granny Gibo
+{SAY}Now, it's late today. Rest in this village for a while...{/SAY}
+
+[113.114]
+{NAME:02}
+{SAY}What's this...?{/SAY}
+
+[113.115]
+{NAME:01}
+{SAY}{NAME:19}... Isn't this the same thing that was at the Tsukubane shrine...?{/SAY}
+
+[113.116]
+{NAME:02}
+{SAY}Then this village does have something to do with the God Stone...?{/SAY}
+
+[113.117]
+
+《There's a fragment of the God Stone...》{WAIT}
+{CLEAR}
+《But its power seems to be gone...》
+
+[113.118]
+Granny Gibo
+{SAY}.{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.{/SAY}
+
+[113.119]
+Granny Gibo
+{SAY}Something bad is about to happen...{WAIT}Be careful.{/SAY}
+
+[113.120]
+Granny Gibo
+{SAY}........................................
+........................................
+........................................{/SAY}
+
+[113.121]
+Granny Gibo
+{SAY}Be careful.{/SAY}
+
+[113.122]
+{NAME:03}
+{SAY}I'm home! Grandma!{/SAY}
+
+[113.123]
+Granny Gibo
+{SAY}Mm...{PAUSE:14} well done. {NAME:03}, {NAME:19}.{/SAY}
+
+[113.124]
+Granny Gibo
+{SAY}Thanks to your efforts, the dark cloud over the world seems to have cleared, if only a little.{WAIT}Now, I called you here to show you where you must go next.{WAIT}It is...{/SAY}
+
+[113.125]
+{NAME:02}
+{SAY}The continent...{PAUSE:1E} isn't it.{/SAY}
+
+[113.126]
+Granny Gibo
+{SAY}Oho, you saw it too...{/SAY}
+
+[113.127]
+{NAME:02}
+{SAY}No... I just faintly sensed it.{/SAY}
+
+[113.128]
+Granny Gibo
+{SAY}I see... But even I can't see beyond that.{WAIT}What will happen once you cross the sea to the continent, I can't read at all.{/SAY}
+
+[113.129]
+{NAME:03}
+{SAY}It'll be fine, Grandma!{WAIT}I'll beat any monsters or aliens in no time!{/SAY}
+
+[113.130]
+Granny Gibo
+{SAY}Hohoho. {NAME:03} is full of spirit.{PAUSE:1E} ...{PAUSE:1E}Well, {NAME:19}, it will be a long journey.{WAIT}Will you still go?{/SAY}
+
+[113.131]
+Granny Gibo
+{SAY}...{PAUSE:1E}I see. It will be a hard journey, but do your best.{/SAY}
+
+[113.132]
+Granny Gibo
+{SAY}...{PAUSE:1E}Perhaps that's the happier choice...{/SAY}
+
+[113.133]
+{NAME:01}
+{SAY}{NAME:19}, let's go for it.{WAIT}We made it this far.{HOLD}We'll be fine from here on too!{/SAY}
+
+[113.134]
+{NAME:03}
+{SAY}That's right. We'll be fine wherever we go! Because I'm with you!{WAIT}{NAME:19} follows me! Okay, that's settled!{/SAY}
+
+[113.135]
+Granny Gibo
+{SAY}And {NAME:03}...{/SAY}
+
+[113.136]
+{NAME:03}
+{SAY}Huh... me...{/SAY}
+
+[113.137]
+{NAME:03}
+{SAY}If I don't go with them, these guys'll be helpless.{/SAY}
+
+[113.138]
+Granny Gibo
+{SAY}It will be a painful journey.{WAIT}Even I don't know what awaits.{/SAY}
+
+[113.139]
+Granny Gibo
+{SAY}...{PAUSE:1E}I see. If that's what you want, I won't stop you.{/SAY}
+
+[113.140]
+Granny Gibo
+{SAY}To head for the continent, make for Snow Village in the north.{WAIT}...That said, the waves on the northern coast are rough, and a ship can't easily get near.{WAIT}Follow me.{/SAY}
+
+[113.141]
+Granny Gibo
+{SAY}From here there's a shortcut to the undersea tunnel.{WAIT}Go through the tunnel and you should come out in Hokkaido.{/SAY}
+
+[113.142]
+{NAME:02}
+{SAY}Huh...?{/SAY}
+
+[113.143]
+Granny Gibo
+{SAY}Kyeeeee!!{/SAY}
+
+[113.144]
+Granny Gibo
+{SAY}Go when you're ready...{/SAY}
+
+[113.145]
+{NAME:03}
+{SAY}Grandma...{/SAY}
+
+[113.146]
+Granny Gibo
+{SAY}Take care.{/SAY}
+

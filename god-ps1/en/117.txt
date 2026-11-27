@@ -1,0 +1,189 @@
+[117.000]
+Write in diary
+Read diary
+Quit
+
+[117.002]
+
+《...The inside is destroyed...》
+
+[117.003]
+《This seems to be a place of rest in the Sea of Japan meteorite.{WAIT}Rest here?》
+
+[117.004]
+《Then look at your diary?》
+
+[117.005]
+{SAY}{NAME:19}! Everyone!! The enemies here are strong!{WAIT}Please, take these with you!{/SAY}
+
+[117.006]
+
+《Received 2 {WORD}!》
+
+[117.007]
+《But you already have 99 {WORD}!》
+
+[117.008]
+
+《Gave up on {WORD}...》
+
+[117.009]
+{SAY}All I can do is ease your fatigue here.{WAIT}There's only a tent, but please rest.{/SAY}
+
+[117.010]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[117.011]
+{SAY}Please take care!{/SAY}
+
+[117.012]
+{SAY}.........{/SAY}
+
+[117.013]
+
+　《A strange power enveloped {NAME:19} and company!》
+
+[117.014]
+
+　《{NAME:19} and company's HP was restored!》
+
+[117.015]
+
+　《A strange light restored {NAME:19} and company's HP!》
+
+[117.016]
+{SAY}...The survey team was wiped out. It's very dangerous ahead!{WAIT}There's only a tent, but please rest...{/SAY}
+
+[117.017]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[117.018]
+{SAY}Please take care...{/SAY}
+
+[117.019]
+Dark Soldier
+{SAY}Heh heh heh!{PAUSE:10} So you made it this far. Very well. I'll deal with you myself...{WAIT}My name is Dark Soldier.{WAIT}By order of General Crewel, I have come to kill you humans...{/SAY}
+
+[117.020]
+{NAME:01}
+{SAY}What for!?{/SAY}
+
+[117.021]
+Dark Soldier
+{SAY}Isn't it obvious...{WAIT}To kill every human and make this planet ours.{WAIT}That is our goal, and our wish...{/SAY}
+
+[117.022]
+{NAME:03}
+{SAY}Don't give me that selfish garbage!{/SAY}
+
+[117.023]
+Dark Soldier
+{SAY}Silence, you lower life form!{/SAY}
+
+[117.024]
+Dark Soldier
+{SAY}Oho... So you can use that power...{WAIT}Heh heh.{PAUSE:0F} But do you think power like that can beat the great Dark Soldier?{PAUSE:24} ...Die!!{/SAY}
+
+[117.025]
+Dark Soldier
+{SAY}...Impossible...{PAUSE:3C} ...by mere humans... ...General Crewel... forgive me!!{/SAY}
+
+[117.026]
+{NAME:03}
+{SAY}This is bad! That impact's gonna make it erupt...!{/SAY}
+
+[117.027]
+{NAME:02}
+{SAY}{NAME:19}!{WAIT}That's probably what's generating the energy that's stirring up the magma!{/SAY}
+
+[117.028]
+{NAME:01}
+{SAY}Leave it to me!!{/SAY}
+
+[117.029]
+{NAME:01}
+{SAY}Hyaaaaah!{/SAY}
+
+[117.030]
+{NAME:02}
+{SAY}Is it over now...{/SAY}
+
+[117.031]
+{NAME:03}
+{SAY}...Ah!{/SAY}
+
+[117.032]
+{NAME:01}
+{SAY}What's wrong, {NAME:03}?{/SAY}
+
+[117.033]
+{NAME:03}
+{SAY}Grandma's calling me...{/SAY}
+
+[117.034]
+{NAME:02}
+{SAY}Huh?{/SAY}
+
+[117.035]
+{NAME:03}
+{SAY}Grandma... is calling me.{/SAY}
+
+[117.036]
+{NAME:02}
+{SAY}What do you mean?{/SAY}
+
+[117.037]
+{NAME:03}
+{SAY}I don't know...{/SAY}
+
+[117.038]
+{NAME:01}
+{SAY}All right, then let's go to Osore Village.{WAIT}Right, {NAME:19}?{/SAY}
+
+[117.039]
+{NAME:03}
+{SAY}It's no good after all!? Is it gonna erupt?{/SAY}
+
+[117.040]
+{NAME:02}
+{SAY}No... this is the machine about to explode...{/SAY}
+
+[117.041]
+{NAME:01}
+{SAY}Let's get outta here!{/SAY}
+
+[117.042]
+{SAY}WAIT!{/SAY}
+
+[117.043]
+Dark Soldier
+{SAY}You lot...! Came all this way to die!{/SAY}
+
+[117.044]
+{NAME:01}
+{SAY}You!{/SAY}
+
+[117.045]
+{NAME:03}
+{SAY}You ××× bastard!!{WAIT}If you're here, then this place really is an alien base!{/SAY}
+
+[117.046]
+Dark Soldier
+{SAY}I've no time to play with you... I'm in the middle of an important operation.{WAIT}Play with these instead!{/SAY}
+
+[117.047]
+Dark Soldier
+{SAY}Until we meet again... if you're still alive!!{/SAY}
+
+[117.048]
+{NAME:03}
+{SAY}Ah! Wait!!{/SAY}
+
+[117.049]
+{NAME:01}
+{SAY}All right! Let's go!{/SAY}
+
+[117.050]
+{NAME:02}
+{SAY}I'm worried about this "important operation" he mentioned...{WAIT}Let's hurry!{/SAY}
+

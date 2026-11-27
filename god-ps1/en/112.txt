@@ -1,0 +1,438 @@
+[112.000]
+Write in diary
+Read diary
+Quit
+
+[112.002]
+Captain Nemo
+{SAY}We've arrived, ahoy! When you want to go back, give a shout, ahoy!{/SAY}
+
+[112.008]
+{SAY}The ceremony of blessing by Lady Fatimaria will soon begin.{WAIT}Believers, please go inside.{/SAY}
+
+[112.009]
+{SAY}Please hurry. The ceremony is about to begin.{/SAY}
+
+[112.010]
+{SAY}I cannot let in anyone who is not a believer. Begone!{/SAY}
+
+[112.011]
+{SAY}...We are preparing for Mass right now...{WAIT}...Please wait a little longer.{/SAY}
+
+[112.012]
+{SAY}Soon I'll get to see Lady Fatimaria!{/SAY}
+
+[112.013]
+{SAY}Ahh! Lady Fatimaria!!{/SAY}
+
+[112.014]
+{SAY}......What... happened...{/SAY}
+
+[112.015]
+{SAY}All my life I've walked the back alleys.{WAIT}But that's because my heart was dirty.{WAIT}From today, I will be {B:22}reborn{B:22}.{WAIT}For I will gain a pure heart...{/SAY}
+
+[112.016]
+{SAY}How long I've waited for this moment!{/SAY}
+
+[112.017]
+{SAY}......Lady Fatimaria...{PAUSE:14} why...{/SAY}
+
+[112.018]
+{SAY}The ceremony is about to begin.{WAIT}You came to this island to be baptized too, didn't you?{WAIT}Hello.{/SAY}
+
+[112.019]
+{SAY}I offered 500G, so they could at least put me closer to the front...{/SAY}
+
+[112.020]
+{SAY}.....................{/SAY}
+
+[112.021]
+{SAY}Soon we'll see Lady Fatimaria!{WAIT}Let's be ever so happy together.{/SAY}
+
+[112.022]
+{SAY}They say the people in the upper rows have met Lady Fatimaria several times already and received her great power.{WAIT}Come to think of it, there's something not quite human about them...{/SAY}
+
+[112.023]
+{SAY}...I just{PAUSE:1E}... want to be happy...{/SAY}
+
+[112.024]
+{SAY}It seems there's still time before the ceremony starts...{WAIT}It's only a shabby tent, but will you stay?{/SAY}
+
+[112.025]
+{SAY}Then will you at least write in your diary?{/SAY}
+
+[112.026]
+{SAY}Come, pray to Lady Fatimaria with us...{/SAY}
+
+[112.033]
+{NAME:01}
+{SAY}Hey, you're backing out after coming all this way?{/SAY}
+
+[112.034]
+"Lady Fatimaria approaches~"
+
+[112.035]
+{SAY}Ohh... Lady Fatimaria...{/SAY}{PAUSE:32}
+
+[112.036]
+{SAY}Please, grant us your power...{/SAY}{PAUSE:32}
+
+[112.037]
+{SAY}Lady Fatimaria...{/SAY}{PAUSE:32}
+
+[112.038]
+{NAME:01}
+{SAY}Looks like it's started... All right! This way!{/SAY}
+
+[112.039]
+{NAME:01}
+{SAY}Let's climb up here!!{/SAY}
+
+[112.040]
+Captain Nemo
+{SAY}Heading back to Glover's mansion?{/SAY}
+
+[112.041]
+Captain Nemo
+{SAY}Then all aboard, ahoy!{/SAY}
+
+[112.042]
+Captain Nemo
+{SAY}If you want to go back, give a shout, ahoy!{/SAY}
+
+[112.043]
+Captain Nemo
+{SAY}What! You beat Fatimaria!?{WAIT}I carried the wounded to town too, ahoy!{WAIT}Now! Let's tell Mr. Glover right away, ahoy!!{/SAY}
+
+[112.044]
+{NAME:01}
+{SAY}Shh!! It's starting!!{/SAY}
+
+[112.045]
+Archbishop
+{SAY}Now, Lady Fatimaria. Grant your power to our new brethren!{/SAY}
+
+[112.046]
+Archbishop
+{SAY}Come! Lady Fatimaria!{/SAY}
+
+[112.047]
+Fatimaria
+{SAY}.....................{/SAY}
+
+[112.048]
+{SAY}Ohh... I feel my heart being cleansed...{/SAY}
+
+[112.049]
+{SAY}How soothing...{/SAY}
+
+[112.050]
+{SAY}My head... is going fuzzy...{PAUSE:14} ........{PAUSE:14} ........{PAUSE:1E}!!{/SAY}
+
+[112.051]
+{SAY}??? ...What's this. M-my body...{/SAY}
+
+[112.052]
+{SAY}Uuugh... my head, my head hurts......{/SAY}
+
+[112.053]
+{SAY}S-somebody... help...{/SAY}
+
+[112.054]
+Archbishop
+{SAY}Kekekeke! Welcome, our new brethren!{HOLD}Now you'll never be attacked by monsters again!{WAIT}Because you will become those monsters!{/SAY}
+
+[112.055]
+{NAME:01}
+{SAY}Those guys...! I knew they were with the aliens!{/SAY}
+
+[112.056]
+Bishop
+{SAY}Hm...!! Who's there!!{/SAY}
+
+[112.057]
+{NAME:01}
+{SAY}Damn!! They spotted us!{/SAY}
+
+[112.058]
+Archbishop
+{SAY}What are you doing!! Seize them!!!{/SAY}
+
+[112.059]
+Archbishop
+{SAY}Now that you've seen, it can't be helped...{WAIT}Everyone, what shall we do with these heretics?{/SAY}
+
+[112.060]
+{SAY}Kill them... Kill them...{/SAY}
+
+[112.061]
+{SAY}Kill them... Kill them...{/SAY}
+
+[112.062]
+{SAY}Kill them... Kill them...{/SAY}
+
+[112.063]
+Archbishop
+{SAY}Lady Fatimaria! Your oracle!{/SAY}
+
+[112.064]
+Fatimaria
+{SAY}.....................{/SAY}
+
+[112.065]
+Archbishop
+{SAY}Lady Fatimaria!!{/SAY}
+
+[112.066]
+Fatimaria
+{SAY}K...{PAUSE:1E}Kill them!!{/SAY}
+
+[112.067]
+{NAME:01}
+{SAY}Don't make me laugh!!{/SAY}
+
+[112.068]
+{NAME:01}
+{SAY}Wh-what was that...!!!{/SAY}
+
+[112.069]
+Fatimaria
+{SAY}...Oh... ohhh...{/SAY}
+
+[112.070]
+Archbishop
+{SAY}Hm! This is bad!{/SAY}
+
+[112.071]
+Archbishop
+{SAY}You stay back!!{/SAY}
+
+[112.072]
+Archbishop
+{SAY}These ones are dangerous! Kill them!{/SAY}
+
+[112.073]
+Archbishop
+{SAY}Curse you!!!{/SAY}
+
+[112.074]
+Bishop
+{SAY}................................{/SAY}
+
+[112.075]
+{SAY}................................{/SAY}
+
+[112.081]
+Archbishop
+{SAY}This church is Shuri Castle, the headquarters of Fatimaism.{WAIT}Only the chosen are permitted to enter.{WAIT}Are you a believer of Fatimaism?{/SAY}
+
+[112.082]
+Archbishop
+{SAY}If you lie, I'll know at once.{WAIT}Now, show these people out!{/SAY}
+
+[112.083]
+Archbishop
+{SAY}This is the holy land of the believers of Fatimaism.{WAIT}Those who have no business here, kindly leave!{/SAY}
+
+[112.084]
+Bishop
+{SAY}If you still doubt us, you're welcome to search every corner.{/SAY}
+
+[112.085]
+{SAY}...No...{/SAY}
+
+[112.086]
+Bishop
+{SAY}Our founder, Lady Fatimaria, is at prayer right now.{WAIT}You cannot see her.{/SAY}
+
+[112.087]
+Bishop
+{SAY}Fatimaism, a puppet of the aliens?{WAIT}How rude!{/SAY}
+
+[112.088]
+{SAY}...Lady Fatimaria... why...?{/SAY}
+
+[112.089]
+Bishop
+{SAY}We only pray for people's happiness.{WAIT}What? The offerings?{WAIT}They can't be helped, if the group is to be kept going.{/SAY}
+
+[112.090]
+{SAY}...What... happened...{/SAY}
+
+[112.091]
+《This seems to be a place of rest in Shuri Castle.{WAIT}Rest here?》
+
+[112.092]
+《Then look at your diary?》
+
+[112.093]
+Believer
+{SAY}Lady Fatimaria has a terrifying power...{/SAY}
+
+[112.094]
+Believer
+{SAY}Be careful... Lady Fatimaria is not... alone...{/SAY}
+
+[112.095]
+Believer
+{SAY}Beyond here is Lady Fatimaria's room...{/SAY}
+
+[112.096]
+Fatimaria
+{SAY}Oh... hurry and run......{PAUSE:1E} Please... I beg you...{/SAY}
+
+[112.097]
+{NAME:01}
+{SAY}Are you the founder!?{/SAY}
+
+[112.098]
+Fatimaria
+{SAY}I... I don't want any more victims.{PAUSE:3C} ...Now, run while you can!{/SAY}
+
+[112.099]
+{NAME:01}
+{SAY}Don't make me laugh!{/SAY}
+
+[112.100]
+{NAME:01}
+{SAY}{NAME:19},{PAUSE:0A} let's fight!{/SAY}
+
+[112.101]
+{NAME:01}
+{SAY}{NAME:19},{PAUSE:0A} let's fight!{/SAY}
+
+[112.102]
+Fatimaria
+{SAY}I see...{PAUSE:3C} Perhaps you people could...{/SAY}
+
+[112.103]
+{NAME:01}
+{SAY}This is...{PAUSE:3C} she's human...{/SAY}
+
+[112.104]
+{NAME:01}
+{SAY}Wh-what!?{/SAY}
+
+[112.105]
+Fatimaria
+{SAY}How dare you defeat my lovely stand-in!{WAIT}...But I'll make you regret it!!{/SAY}
+
+[112.106]
+{NAME:01}
+{SAY}...What!? M... my head...!!{/SAY}
+
+[112.107]
+{SAY}...Stop!{/SAY}
+
+[112.108]
+{SAY}Don't hurt the humans any more!{/SAY}
+
+[112.109]
+Fatimaria
+{SAY}Oho... It seems you've slipped out of my mind control...{WAIT}But your role is over now!{WAIT}Die together with them!{/SAY}
+
+[112.110]
+{NAME:01}
+{SAY}Are you all right!?{/SAY}
+
+[112.111]
+{SAY}...Please. Defeat... Fatimaria...{/SAY}
+
+[112.112]
+
+《{NAME:19} and company's HP was restored!》
+
+[112.113]
+Fatimaria
+{SAY}Such impudence!{WAIT}If you'd obeyed me quietly, you could have lived as my slave!{WAIT}As you wish, I'll kill you!{/SAY}
+
+[112.114]
+Fatimaria
+{SAY}Don't think you've won... You're all doomed to perish someday{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.so{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.{PAUSE:05}.{PAUSE:0A}.{PAUSE:0A}.{/SAY}
+
+[112.115]
+{NAME:01}
+{SAY}{NAME:19}!{PAUSE:28} This girl's still breathing!{/SAY}
+
+[112.116]
+{NAME:01}
+{SAY}Hang in there!{PAUSE:28} What's going on?{PAUSE:28} Who are you?{/SAY}
+
+[112.117]
+{SAY}I was...{PAUSE:28}...{PAUSE:28} controlled by that alien{PAUSE:14} and made the founder.{/SAY}
+
+[112.118]
+{NAME:01}
+{SAY}I see...{/SAY}
+
+[112.119]
+{SAY}But{PAUSE:1E} because of me,{PAUSE:1E} so many people...{PAUSE:1E}{WAIT}...I{PAUSE:1E} don't know what to do...{/SAY}
+
+[112.120]
+{NAME:01}
+{SAY}It's not your fault...{/SAY}
+
+[112.121]
+{SAY}But...{/SAY}
+
+[112.122]
+
+《{NAME:19} gently touched her shoulder...》
+
+[112.123]
+{SAY}What was that...?{/SAY}
+
+[112.124]
+{NAME:01}
+{SAY}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}No way.{/SAY}
+
+[112.125]
+{SAY}Could it be that you have the same power as me...{WAIT}and it resonated...{/SAY}
+
+[112.126]
+{NAME:01}
+{SAY}...Probably, yeah.{WAIT}Have you ever touched the God Stone?{/SAY}
+
+[112.127]
+{SAY}The God Stone... You mean the sacred object of Mt. Tsukubane?{WAIT}I visited it once, when I was very little...{/SAY}
+
+[112.128]
+{NAME:01}
+{SAY}I knew it!{WAIT}{NAME:19}, there was someone else with the same power as us!{/SAY}
+
+[112.129]
+{NAME:01}
+{SAY}So, what'll you do now?{WAIT}If you want, why not come with us on our journey to beat the aliens?{/SAY}
+
+[112.130]
+{SAY}I...{/SAY}
+
+[112.131]
+{NAME:01}
+{SAY}...I see.{PAUSE:1E} I won't force you.{WAIT}All right, {NAME:19}! First, let's report to the director!{/SAY}
+
+[112.132]
+{SAY}Wait!{/SAY}
+
+[112.133]
+{SAY}Please let me join your journey too.{WAIT}I think fighting the aliens is my atonement...{/SAY}
+
+[112.134]
+{NAME:01}
+{SAY}Well, I'm fine with it, but...{WAIT}{NAME:19}, what do you say?{/SAY}
+
+[112.135]
+{NAME:01}
+{SAY}Okay! From today, you're one of us!{/SAY}
+
+[112.136]
+{NAME:01}
+{SAY}{NAME:19}, let's let her join!{WAIT}You can't make a girl cry, baby!!{/SAY}
+
+[112.137]
+
+《{NAME:02} joined the party!》
+
+[112.138]
+{SAY}I...{/SAY}
+

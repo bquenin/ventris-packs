@@ -1,0 +1,452 @@
+[114.000]
+Write in diary
+Read diary
+Quit
+
+[114.003]
+{SAY}Ah!!{/SAY}
+
+[114.004]
+{NAME:01}
+{SAY}What is that!!{/SAY}
+
+[114.005]
+{NAME:02}
+{SAY}That's... Yamata no Orochi!!{/SAY}
+
+[114.006]
+{SAY}Here it comes!{/SAY}
+
+[114.007]
+{SAY}Serves you right!{/SAY}
+
+[114.008]
+{NAME:02}
+{SAY}Are you all right?{/SAY}
+
+[114.009]
+{SAY}Well, I could've handled it by myself anyway.{WAIT}But thanks for the help, I guess.{/SAY}
+
+[114.010]
+{NAME:01}
+{SAY}Tch,{PAUSE:3C} shouldn't have bothered saving her!{/SAY}
+
+[114.011]
+{NAME:02}
+{SAY}{NAME:01}!{WAIT}...By the way, that power of yours...{/SAY}
+
+[114.012]
+{NAME:01}
+{SAY}That's right! You've got the same power as us!!{WAIT}Where'd you get that power?{/SAY}
+
+[114.013]
+{SAY}"You"? How rude!{WAIT}I have a name, you know!{WAIT}My name is...{/SAY}
+
+[114.014]
+{NAME:03}
+{SAY}My name is {NAME:03}.{WAIT}I got this power training with my grandma.{WAIT}Ever since I was little, I've traveled all over Japan.{/SAY}
+
+[114.015]
+{NAME:02}
+{SAY}...Then, Mt. Tsukubane too...{/SAY}
+
+[114.016]
+{NAME:03}
+{SAY}Yeah. ...I see. So you guys touched the sacred relic there too.{/SAY}
+
+[114.017]
+{NAME:02}
+{SAY}Yes.{/SAY}
+
+[114.018]
+{NAME:03}
+{SAY}Just like Grandma said!{WAIT}...By the way, did you know this shrine has a sacred relic just like Mt. Tsukubane's?{/SAY}
+
+[114.019]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[114.020]
+{NAME:02}
+{SAY}Really!?{/SAY}
+
+[114.021]
+{NAME:03}
+{SAY}I heard there's a path leading deep underground...{/SAY}
+
+[114.022]
+{NAME:01}
+{SAY}All right! {NAME:19}, let's go check it out!{/SAY}
+
+[114.023]
+{NAME:01}
+{SAY}That's the spirit!{WAIT}Now! Let's go!{/SAY}
+
+[114.024]
+{NAME:01}
+{SAY}What are you saying, after coming this far!{WAIT}It might help us beat the aliens!{/SAY}
+
+[114.025]
+{NAME:03}
+{SAY}Then I'll come along too!{/SAY}
+
+[114.026]
+{NAME:01}
+{SAY}Huh?{/SAY}
+
+[114.027]
+{NAME:03}
+{SAY}It's fiiine.{PAUSE:28} With me around, there's nothing to be scared of.{WAIT}I'll make you all my sidekicks!{/SAY}
+
+[114.028]
+
+《{NAME:03} joined the party!》
+
+[114.029]
+Erika
+{SAY}{NAME:03}!{/SAY}
+
+[114.030]
+Erika
+{SAY}Thank you so much. Here...{/SAY}
+
+[114.031]
+{NAME:03}
+{SAY}Oh, right! Thanks for holding on to it!{/SAY}
+
+[114.032]
+
+《Got the "Magatama"》
+
+[114.033]
+{NAME:02}
+{SAY}What is that...?{/SAY}
+
+[114.034]
+{NAME:03}
+{SAY}It's called the "Magatama", handed down at this shrine since long ago.{WAIT}It'll probably open the way to the sacred relic!{/SAY}
+
+[114.035]
+Erika
+{SAY}{NAME:03}, everyone, thank you so much.{WAIT}I'm going back to Mirage House.{WAIT}Please stop by later.{WAIT}Goodbye for now.{/SAY}
+
+[114.036]
+{NAME:03}
+{SAY}Come on! Let's go!{/SAY}
+
+[114.037]
+{SAY}Heh heh heh.{WAIT}Who dares disturb my slumber!{/SAY}
+
+[114.038]
+Batty
+{SAY}{NAME:19}, this is where you die!{/SAY}
+
+[114.039]
+Batty
+{SAY}...Forget you saw me!{/SAY}
+
+[114.040]
+{SAY}A m-monster has taken over the shrine!{/SAY}
+
+[114.041]
+{SAY}Thank you so much!{/SAY}
+
+[114.042]
+　Oh, that's right. There's nothing much here, but will you rest? I hate to ask, but it's 100G a night.
+
+
+[114.043]
+{SAY}You don't have enough money.{/SAY}
+
+[114.044]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+
+[114.045]
+{SAY}Do take care.{/SAY}
+
+[114.046]
+
+《There's a fragment of the God Stone...》
+
+[114.047]
+
+《HP was restored!》
+
+[114.048]
+Erika
+{SAY}Please! Save her!{/SAY}
+
+[114.049]
+Erika
+{SAY}What!? What happened!?{/SAY}
+
+[114.050]
+{NAME:01}
+{SAY}That's...!?{/SAY}
+
+[114.051]
+{SAY}Leave this to me!{PAUSE:28} You run!{/SAY}
+
+[114.052]
+Erika
+{SAY}But...!{/SAY}
+
+[114.053]
+{SAY}I'll be fiiine! I didn't train with Grandma for nothing!{WAIT}Oh, right! Take this with you!{/SAY}
+
+[114.054]
+Erika
+{SAY}What's this...?{/SAY}
+
+[114.055]
+{SAY}I swiped it on the sly when they weren't looking. Now, hurry!!{/SAY}
+
+[114.056]
+Dark Soldier
+{SAY}Waaait!!{/SAY}
+
+[114.057]
+Dark Soldier
+{SAY}Woman! Not only do you run, you steal the door key too!{WAIT}Behave yourself!!{/SAY}
+
+[114.058]
+{SAY}You ××× bastard!!{WAIT}What do you think you're gonna do, kidnapping a delicate girl like me!!{/SAY}
+
+[114.059]
+Dark Soldier
+{SAY}You! You dare defy me!{/SAY}
+
+[114.060]
+{SAY}What are you talking about!{PAUSE:28}{WAIT}Like I'd ever lose to the likes of you!{WAIT}Hyaah!!{/SAY}
+
+[114.061]
+Dark Soldier
+{SAY}Blast...{PAUSE:3C} I should've taken the other girl after all...{/SAY}
+
+[114.062]
+{SAY}Shut up!!{WAIT}{PAUSE:1E}The cutest girl in the village{PAUSE:14} is{PAUSE:14} M{PAUSE:14}-E{PAUSE:14}!{/SAY}
+
+[114.063]
+Erika
+{SAY}You're...!{/SAY}
+
+[114.064]
+Erika
+{SAY}Please! Save her!{/SAY}
+
+[114.065]
+{SAY}What, who are you guys!?{/SAY}
+
+[114.066]
+{NAME:01}
+{SAY}Hey, we came to save you!{/SAY}
+
+[114.067]
+{SAY}Don't get in my way. I've got a bone to pick with this monster!{/SAY}
+
+[114.068]
+{NAME:01}
+{SAY}Hey now...{/SAY}
+
+[114.069]
+Dark Soldier
+{SAY}Tch... To think this many unexpected humans would gather...{/SAY}
+
+[114.070]
+{SAY}Pfft! Pfft! What are you talking about!{WAIT}Come at me already!{/SAY}
+
+[114.071]
+Dark Soldier
+{SAY}...Bugs, after all. Even if they got the key...{WAIT}I'll withdraw for now.{/SAY}
+
+[114.072]
+{NAME:01}
+{SAY}Running away!{/SAY}
+
+[114.073]
+Dark Soldier
+{SAY}Oh, don't worry. My pet will take care of you...{WAIT}If you'd come along quietly, you could have helped with our glorious plan.{WAIT}Regret it all you like in the next world! Wahahahaha!!{/SAY}
+
+[114.074]
+{SAY}Get back here!{/SAY}
+
+[114.075]
+{NAME:01}
+{SAY}Did he run...?{/SAY}
+
+[114.076]
+{NAME:02}
+{SAY}Kyaaah!!{/SAY}
+
+[114.077]
+{NAME:01}
+{SAY}Wh... what!?{/SAY}
+
+[114.078]
+{SAY}Outside! You guys, follow me!{/SAY}
+
+[114.079]
+{NAME:01}
+{SAY}What's with that woman?{/SAY}
+
+[114.080]
+{NAME:02}
+{SAY}Anyway, let's help her.{/SAY}
+
+[114.081]
+
+《A strange power enveloped {NAME:19} and company!》
+
+[114.082]
+
+《{NAME:19}'s HP was restored!》
+
+[114.086]
+{NAME:01}
+{SAY}This is definitely...{/SAY}
+
+[114.087]
+{NAME:02}
+{SAY}The same as that stone on Mt. Tsukubane...{/SAY}
+
+[114.088]
+{NAME:03}
+{SAY}See! Just like I said!{/SAY}
+
+[114.089]
+{NAME:02}
+{SAY}But why is it in a place like this?{/SAY}
+
+[114.090]
+{NAME:01}
+{SAY}Who cares why!{/SAY}
+
+[114.091]
+{NAME:02}
+{SAY}Come on, {NAME:19}, you too, quick!{/SAY}
+
+[114.092]
+
+《{NAME:19} and company touched the God Stone!》
+
+[114.093]
+
+《{NAME:19}'s Chakra Level rose to 2!》
+
+[114.094]
+
+《{NAME:01}'s Chakra Level rose to 2!》
+
+[114.095]
+
+《{NAME:02}'s Chakra Level rose to 2!》
+
+[114.096]
+
+《{NAME:03}'s Chakra Level rose to 2!》
+
+[114.097]
+{NAME:01}
+{SAY}I knew it... Same as Mt. Tsukubane...{/SAY}
+
+[114.098]
+{NAME:02}
+{SAY}What on earth is this stone...{/SAY}
+
+[114.099]
+{NAME:03}
+{SAY}I think Grandma knows all about that stuff.{/SAY}
+
+[114.100]
+{NAME:01}
+{SAY}Really!?{/SAY}
+
+[114.101]
+{NAME:03}
+{SAY}Yeah. Long ago, it was Grandma who told me about the God Stone on Mt. Tsukubane{WAIT}in the first place...{/SAY}
+
+[114.102]
+{NAME:01}
+{SAY}All right! Then let's go to Osore Village!{/SAY}
+
+[114.103]
+{NAME:03}
+{SAY}Okay, everyone, let's move out! To Osore Village, let's go!{/SAY}
+
+[114.104]
+　{NAME:19}! Let's touch it!
+
+[114.105]
+{SAY}That's the spirit!{/SAY}
+
+[114.106]
+{NAME:01}
+{SAY}We might get new powers again, right?{/SAY}
+
+[114.107]
+　{NAME:19}, let's touch it!
+
+[114.108]
+{SAY}That's the spirit!{/SAY}
+
+[114.109]
+{NAME:01}
+{SAY}...You sure? Aren't you going to beat the aliens?{WAIT}Aren't you going to avenge everyone and find your missing mother?{/SAY}
+
+[114.110]
+{NAME:01}
+{SAY}Forget it.{WAIT}I'm touching it!{/SAY}
+
+[114.111]
+{NAME:01}
+{SAY}Where on earth is this...{/SAY}
+
+[114.112]
+{NAME:02}
+{SAY}...It seems to be under those sand dunes...{/SAY}
+
+[114.113]
+{NAME:03}
+{SAY}{NAME:19}! Not that way!{WAIT}It's further in!{/SAY}
+
+[114.114]
+
+《...Repelled by a strange power...》
+
+[114.115]
+
+《The "Magatama" began to glow!》
+
+[114.116]
+
+《The strange power vanished!》
+
+[114.119]
+{SAY}Ah! You've come to save us.{WAIT}I'm a medium-in-training from Osore Village.{WAIT}There are others captured besides me.{WAIT}Please save them too.{/SAY}
+
+[114.122]
+{SAY}Thank you!{WAIT}I was kidnapped while I happened to be visiting from Snow Village.{WAIT}I'll repay you someday, I promise!{/SAY}
+
+[114.123]
+{SAY}Thank you! When you come to Neo-Kobe, please stop by my house!{/SAY}
+
+[114.124]
+{SAY}Thank you, myaa! You saved me.{WAIT}Come visit Myaa Town someday!{/SAY}
+
+[114.125]
+{SAY}WHO ARE YOU!{/SAY}
+
+[114.126]
+{SAY}WHO ARE YOU!{/SAY}
+
+[114.127]
+
+《This seems to be a place of rest in Izumo Shrine...》{WAIT}
+{CLEAR}
+《Rest here?》
+
+[114.128]
+
+《Will you at least write in your diary?》
+

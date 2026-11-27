@@ -1,0 +1,125 @@
+[175.000]
+Bun King
+{SAY}I'm the Bun King, who studies the flavors of rare buns from all over the world.{WAIT}Well, would you like to see the buns you've eaten?{/SAY}
+
+[175.002]
+Bun King
+{SAY}Ho ho, you seem to be quite the bun lovers!{WAIT}Let's see{PAUSE:1E}...{PAUSE:14} hm...{PAUSE:14} hm... I see, I see...{PAUSE:1E}{WAIT}The buns you've eaten are...{PAUSE:14} these!!{/SAY}
+
+[175.003]
+Bun King
+{SAY}Tell me how the buns you've eaten taste!{WAIT}Then I'll surely give you something nice!{/SAY}
+
+[175.004]
+Bun King
+{SAY}Oh! You've eaten every bun!{WAIT}All right, take these!{/SAY}
+
+[175.005]
+
+《Got the Bun Shoes!》
+
+[175.006]
+
+《Got the Bun Ball!》
+
+[175.007]
+
+《Got the Bun Cannon!》
+
+[175.008]
+
+《Got the Bun Sword!》
+
+[175.009]
+
+《Got the Bun Robe!》
+
+[175.010]
+Bun King
+{SAY}Oh! You've eaten 40 buns!{WAIT}All right, take these!{/SAY}
+
+[175.011]
+
+《Got the Bun Ball!》
+
+[175.012]
+
+《Got the Bun Cannon!》
+
+[175.013]
+
+《Got the Bun Sword!》
+
+[175.014]
+
+《Got the Bun Robe!》
+
+[175.015]
+Bun King
+{SAY}Oh! You've eaten 30 buns!{WAIT}All right, take these!{/SAY}
+
+[175.016]
+
+《Got the Bun Cannon!》
+
+[175.017]
+
+《Got the Bun Sword!》
+
+[175.018]
+
+《Got the Bun Robe!》
+
+[175.019]
+Bun King
+{SAY}Oh! You've eaten 20 buns!{WAIT}All right, take these!{/SAY}
+
+[175.020]
+
+《Got the Bun Sword!》
+
+[175.021]
+
+《Got the Bun Robe!》
+
+[175.022]
+Bun King
+{SAY}Oh! You've eaten 10 buns!{WAIT}All right, take this!{/SAY}
+
+[175.023]
+
+《Got the Bun Robe!》
+
+[175.024]
+Bun King
+{SAY}First, try eating about 10 buns.{HOLD}Then I'll surely give you something nice!{WAIT}Now, take care on your journey!{/SAY}
+
+[175.025]
+Bun King
+{SAY}Next, at 20, I'll give you something nice!{WAIT}Now, take care on your journey!{/SAY}
+
+[175.026]
+Bun King
+{SAY}Next, at 30, I'll give you something nice!{WAIT}Now, take care on your journey!{/SAY}
+
+[175.027]
+Bun King
+{SAY}Next, at 40, I'll give you something nice!{WAIT}Now, take care on your journey!{/SAY}
+
+[175.028]
+Bun King
+{SAY}Next, at 45, I'll give you something nice!{WAIT}Now, take care on your journey!{/SAY}
+
+[175.029]
+Bun King
+{SAY}You've already eaten every bun!{WAIT}Thanks for your help!{WAIT}Now, take care on your journey!{/SAY}
+
+[175.030]
+{SAY}Welcome!{WAIT}This is the Bun King's manor.{WAIT}Would you like to know how new buns get added to the bun list?{/SAY}
+
+[175.031]
+{SAY}First, eat buns.{WAIT}On your travels, in battle, eat, eat and eat some more.{WAIT}Some buns are hard to find, so search every corner of the world.{/SAY}
+
+[175.032]
+{SAY}Then make yourselves at home.{/SAY}
+

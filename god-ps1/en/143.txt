@@ -1,0 +1,265 @@
+[143.000]
+Write in diary
+Read diary
+Quit
+
+[143.002]
+{SAY}This is Africa Bless...{PAUSE:1E} or{PAUSE:14} what's left of it...{WAIT}Almost everyone was wiped out in the alien attack...{/SAY}
+
+[143.003]
+{SAY}It's in this state, but will you stay?{WAIT}50G a night.{/SAY}
+
+[143.004]
+{SAY}You don't have enough money!{/SAY}
+
+[143.005]
+{SAY}It's terrible! A giant pyramid appeared in the middle of the desert!{/SAY}
+
+[143.006]
+{SAY}Thank you so much!!{WAIT}I'll make Africa peaceful again, I promise!!{/SAY}
+
+[143.007]
+{SAY}It's a bad time, but will you stay?{WAIT}50G a night.{/SAY}
+
+[143.008]
+{SAY}You don't have enough money!{/SAY}
+
+[143.009]
+{SAY}Wow! They say you beat the aliens at the pyramid! How wonderful!{/SAY}
+
+[143.010]
+{SAY}Wow! I never dreamed I'd see you again like this.{/SAY}
+
+[143.011]
+{SAY}So, will you stay?{WAIT}50G a night.{/SAY}
+
+[143.012]
+{SAY}You don't have enough money!{/SAY}
+
+[143.013]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[143.014]
+{SAY}Take care!{/SAY}
+
+[143.015]
+{SAY}They say the alien who destroyed this area, Tutanka, has the power to raise the dead...{WAIT}We never stood a chance against something like that...{/SAY}
+
+[143.016]
+{SAY}To think a pyramid that huge was buried underground...{WAIT}Could it be an alien base!?{/SAY}
+
+[143.017]
+{SAY}Thank you so much.{WAIT}Now we have hope too.{/SAY}
+
+[143.018]
+{SAY}You beat that alien! You're just too amazing!{/SAY}
+
+[143.019]
+{SAY}You're just too amazing!{/SAY}
+
+[143.020]
+{SAY}My word! All the way from Europe...!{WAIT}But Africa Bless is in this state.{WAIT}We're no use to you...{/SAY}
+
+[143.021]
+{SAY}My word! A pyramid from underground...!{WAIT}But Africa Bless is in this state.{WAIT}We're no use to you...{/SAY}
+
+[143.022]
+{SAY}We're no help, and I hate to ask, but...{WAIT}would you let us have a "Miss You G"?{/SAY}
+
+[143.023]
+{SAY}Thank you so much! My, what a kind person!{/SAY}
+
+[143.024]
+
+《Gave a Miss You G!》
+
+[143.025]
+{SAY}...And so.{WAIT}Could you lend us 10000G as funds to rebuild Bless...?{WAIT}Oh, no, only if you don't mind!{/SAY}
+
+[143.026]
+
+《Handed over 10000G!》
+
+[143.027]
+{SAY}Bravo! How generous! Now this Bless can get back on its feet.{WAIT}Thank you so much!{/SAY}
+
+[143.028]
+{SAY}Hmm. Seems you don't have enough money.{WAIT}No, no, I'll take the thought.{/SAY}
+
+[143.029]
+{SAY}Haha. Of course. Oh, don't worry about it.{WAIT}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}Sigh.{/SAY}
+
+[143.030]
+{SAY}You can't give what you don't have.{WAIT}No, no, I'll take the thought.{/SAY}
+
+[143.031]
+{SAY}Haha. Of course. Oh, don't worry about it.{WAIT}...{PAUSE:1E}Sigh.{/SAY}
+
+[143.032]
+{SAY}Africa Bless is in this state... but someday I'll repay you for this!{/SAY}
+
+[143.033]
+{SAY}Little by little, it's started to rain around here too.{WAIT}All thanks to you!{/SAY}
+
+[143.034]
+{SAY}Oh! It's you! How's the journey going?{/SAY}
+
+[143.035]
+{SAY}Oh! It's you! I was thinking it was time I repaid you.{WAIT}You there, blondie! I'll teach you this technique I developed!{/SAY}
+
+[143.036]
+
+《{NAME:01} mastered Wild Shot!》
+
+[143.037]
+{SAY}Do your best for us too!{/SAY}
+
+[143.038]
+{SAY}Do your best for us too!{/SAY}
+
+[143.039]
+
+"Bless Brand Vending Machine. Win, and get one more!"
+
+[143.040]
+Heart Water....300G
+Big Power Water.200G
+Antidote.......50G
+Quit
+
+[143.041]
+
+《Put in the money!》
+
+[143.042]
+
+《Got a Heart Water!》
+
+[143.043]
+
+《A winner! One more on the house!》
+
+[143.044]
+
+《Got a Heart Water!》
+
+[143.045]
+
+《But you already have 99 Heart Water!》
+
+[143.046]
+
+《Gave up on the Heart Water...》
+
+[143.047]
+
+《No luck! Too bad!》
+
+[143.048]
+
+《Not enough money!》
+
+[143.049]
+
+《But you already have 99 Heart Water!》
+
+[143.050]
+
+《Gave up on the Heart Water...》
+
+[143.051]
+
+《Put in the money!》
+
+[143.052]
+
+《Got a Big Power Water!》
+
+[143.053]
+
+《A winner! One more on the house!》
+
+[143.054]
+
+《Got a Big Power Water!》
+
+[143.055]
+
+《But you already have 99 Big Power Water!》
+
+[143.056]
+
+《Gave up on the Big Power Water...》
+
+[143.057]
+
+《No luck! Too bad!》
+
+[143.058]
+
+《Not enough money!》
+
+[143.059]
+
+《But you already have 99 Big Power Water!》
+
+[143.060]
+
+《Gave up on the Big Power Water...》
+
+[143.061]
+
+《Put in the money!》
+
+[143.062]
+
+《Got an Antidote!》
+
+[143.063]
+
+《A winner! One more on the house!》
+
+[143.064]
+
+《Got an Antidote!》
+
+[143.065]
+
+《But you already have 99 Antidotes!》
+
+[143.066]
+
+《Gave up on the Antidote...》
+
+[143.067]
+
+《No luck! Too bad!》
+
+[143.068]
+
+《Not enough money!》
+
+[143.069]
+
+《But you already have 99 Antidotes!》
+
+[143.070]
+
+《Gave up on the Antidote...》
+
+[143.071]
+　　Those without the King's proof,
+　　　　begone!
+
+[143.072]
+　　　　　Enter...
+　　you who bear the royal proof...!
+
+[143.073]
+
+《Somewhere, a switch clicked on...》
+
+[143.074]
+
+《The switch has been pressed...》
+

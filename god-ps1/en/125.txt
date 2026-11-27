@@ -1,0 +1,16 @@
+[125.000]
+
+《The charm's power calmed the sandstorm!》
+
+[125.002]
+{NAME:02}
+{SAY}Now we can go on...{/SAY}
+
+[125.003]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[125.004]
+
+《The charm began to glow!》
+

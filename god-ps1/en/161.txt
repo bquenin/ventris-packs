@@ -1,0 +1,130 @@
+[161.000]
+Write in diary
+Read diary
+Quit
+
+[161.004]
+Write in your diary?
+
+[161.005]
+Write in diary
+Read diary
+Sleep
+
+[161.006]
+{NAME:02}
+{SAY}?!{/SAY}
+
+[161.007]
+{NAME:04}
+{SAY}What is it?{/SAY}
+
+[161.008]
+{NAME:02}
+{SAY}This place... I feel a very strong power of prayer.{/SAY}
+
+[161.009]
+{NAME:01}
+{SAY}This is{PAUSE:14}.{PAUSE:14}. the bird's eye!{/SAY}
+
+[161.010]
+{NAME:02}
+{SAY}...This side has an eye.{WAIT}The other side, {NAME:19}!{/SAY}
+
+[161.011]
+{NAME:02}
+{SAY}...I feel it... a very strong power of prayer...{/SAY}
+
+[161.012]
+{NAME:02}
+{SAY}...This is where the bird's eye is, isn't it?{/SAY}
+
+[161.013]
+{NAME:04}
+{SAY}Hmm... the eye on this side seems missing...{/SAY}
+
+[161.014]
+
+《Set the Stone of Truth in the bird's eye!》
+
+[161.015]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[161.016]
+{NAME:02}
+{SAY}The bird... it's writhing...{/SAY}
+
+[161.017]
+{NAME:03}
+{SAY}Sir {NAME:19}! Let's get back to the airship for now!{/SAY}
+
+[161.018]
+{NAME:02}
+{SAY}...I feel it... a very strong power of prayer...{/SAY}
+
+[161.019]
+Elder
+{SAY}Well I'll be!!{PAUSE:1E} Just like the legend says!{WAIT}"In time they'll come back from the sky in a golden ship."{WAIT}Just like the legend!!{WAIT}...{PAUSE:1E}It's been long. Waitin' here for you over two thousand years...{WAIT}My pa, grandpa, great-grandpa, great-great-grandpa, great-great-great, great-great-great-great{PAUSE:1E}...{PAUSE:1E} I'm tuckered out.{WAIT}Anyhow, we waited all along!{WAIT}"Set out with the Stone of Truth, and the sacred bird will reach that land..."{WAIT}A legend from ancient times. We waited and waited just to pass on these words.{WAIT}We ain't got a clue what it means, but you, who came in the golden ship, might...{WAIT}Well, take care.{/SAY}
+
+[161.020]
+Elder
+{SAY}"Set out with the Stone of Truth, and the sacred bird will reach that land..."{WAIT}A legend from ancient times. Take care.{/SAY}
+
+[161.021]
+Elder
+{SAY}Oh! Could that be... Well, well, you got the Stone of Truth!{WAIT}Then offer it to the sacred bird!{/SAY}
+
+[161.022]
+Elder
+{SAY}I started an English pen pal. I love Jenny!{WAIT}...Spring come here for me too!{/SAY}
+
+[161.023]
+{SAY}Huh? Stone of Truth?{WAIT}That land?{WAIT}No use askin' an old geezer. Think yourself.{/SAY}
+
+[161.024]
+{SAY}Huh? Aliens?{WAIT}Peace?{WAIT}No use askin' an old geezer.{WAIT}Do it yourself.{/SAY}
+
+[161.025]
+{SAY}Long, long ago, they say the Stone of Truth was moved from here to another place.{WAIT}...Where, nobody knows...{/SAY}
+
+[161.026]
+{SAY}The ancient legend was true!{WAIT}You came in the golden ship and brought the sacred island back to life.{WAIT}Holy smokes!!{/SAY}
+
+[161.027]
+{SAY}It's nothin' fancy, but stay the night. 200G a night.{/SAY}
+
+[161.028]
+{SAY}You don't have enough money!{/SAY}
+
+[161.029]
+{SAY}Then look at your diary?{/SAY}
+
+[161.030]
+{SAY}Take care...{/SAY}
+
+[161.031]
+
+《Drank the water in the jar...》
+
+[161.032]
+
+《{NAME:19} and company were cured!》
+
+[161.033]
+
+《Drank the water in the jar...》
+
+[161.034]
+
+《{NAME:19} and company were cured!》
+
+[161.035]
+{SAY}My, a customer! What'll it be?{/SAY}
+
+[161.036]
+{SAY}Welcome! Our first customer in years!{WAIT}How about Nazca weapons?{/SAY}
+
+[161.037]
+{SAY}You'll buy something? I'm so moved!{WAIT}...Now, let me compose myself.{WAIT}Welcome! Nazca's armor shop!{/SAY}
+

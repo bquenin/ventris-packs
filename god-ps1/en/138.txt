@@ -1,0 +1,168 @@
+[138.000]
+Write in diary
+Read diary
+Quit
+
+[138.002]
+{SAY}This is the Euro Coast, famous for its dolphins.{WAIT}...But since the aliens came, no one has seen a dolphin on this beach.{WAIT}How lonely...{/SAY}
+
+[138.003]
+{SAY}...With the Dolphin Whistle, you might be able to call the dolphins...{WAIT}but in all the chaos of the alien invasion, nobody knows where it went...{/SAY}
+
+[138.004]
+{SAY}Oh! What you have there, could it be... Come, come! Try blowing it!{/SAY}
+
+[138.005]
+{SAY}Dolphins are friends of humans. So it's been said since long ago.{HOLD}Someday I'd like to reach their hearts without any whistle.{/SAY}
+
+[138.006]
+{SAY}Oh, it's you! Say, won't you let me have that Dolphin Whistle of yours?{/SAY}
+
+[138.007]
+
+《Gave the Dolphin Whistle!》
+
+[138.008]
+{SAY}Oh! Thank you! Ah, here, take this in exchange!{/SAY}
+
+[138.009]
+
+《Got a Spirit Essence!》
+
+[138.010]
+{SAY}Now I'm an old man riding a dolphin too!! Will the gals go crazy for me?{/SAY}
+
+[138.011]
+{SAY}I see... What a shame...{/SAY}
+
+[138.012]
+{SAY}Riding dolphins isn't just a privilege for boys!{/SAY}
+
+[138.014]
+{NAME:01}
+{SAY}Come on, {NAME:19}, blow the whistle!{/SAY}
+
+[138.015]
+{NAME:02}
+{SAY}Mr. Dolphin... I hope he comes.{/SAY}
+
+[138.016]
+# Luka ends his lines with いるか, "dolphin" and also "is it?"; here, "fin".
+Luka
+{SAY}Hi! I'm Luka the dolphin! What's your porpoise, fin?{/SAY}
+
+[138.017]
+{NAME:01}
+{SAY}Whoa! There he is!{/SAY}
+
+[138.018]
+{NAME:02}
+{SAY}A real dolphin!!{/SAY}
+
+[138.019]
+{NAME:04}
+{SAY}Well, I never...!{/SAY}
+
+[138.020]
+Luka
+{SAY}What's so surprising? When the whistle blows, I come flying. That was the deal, fin!{WAIT}So, what's up, fin?{/SAY}
+
+[138.021]
+{NAME:02}
+{SAY}We have a favor to ask. Would you carry us?{/SAY}
+
+[138.022]
+{NAME:01}
+{SAY}Something terrible seems to be happening in Africa.{/SAY}
+
+[138.023]
+Luka
+{SAY}Africa, fin...{WAIT}I'd like to take you, but I'm starving and I've got no strength, fin......{/SAY}
+
+[138.024]
+{SAY}Oh, that's a Dolphin Bun! Leave it to me, fin.{/SAY}
+
+[138.025]
+
+《Gave the Dolphin Bun!》
+
+[138.026]
+Luka
+{SAY}Then hop on, fin!{/SAY}
+
+[138.027]
+{NAME:04}
+{SAY}A Dolphin Bun...?{/SAY}
+
+[138.028]
+Luka
+{SAY}Come back with a Dolphin Bun, fin!{/SAY}
+
+[138.029]
+Luka
+{SAY}Hi! I'm Luka the dolphin! What's your porpoise, fin?{/SAY}
+
+[138.030]
+{SAY}Oh, a Dolphin Bun, fin!{WAIT}Leave it to me, fin.{/SAY}
+
+[138.031]
+
+《Gave the Dolphin Bun!》
+
+[138.032]
+Luka
+{SAY}Then hop on, fin!{/SAY}
+
+[138.033]
+Luka
+{SAY}Without a Dolphin Bun, I'm too hungry to swim, fin...{/SAY}
+
+[138.034]
+
+《{NAME:19} used the Dolphin Whistle!》
+
+[138.035]
+Luka
+{SAY}Going to Africa, fin?{/SAY}
+
+[138.036]
+{SAY}I can't wait long, fin!{/SAY}
+
+[138.037]
+{SAY}This is the Euro Coast. It used to be a peaceful beach where dolphins played...{/SAY}
+
+[138.038]
+{SAY}Oh! I'll give you this!{WAIT}It used to be the specialty here.{/SAY}
+
+[138.039]
+
+《Got a Dolphin Bun!》
+
+[138.040]
+{SAY}When it's gone, I'll give you another!{/SAY}
+
+[138.041]
+{SAY}Lately the dolphins have come back to this beach. I guess it's thanks to whoever got rid of the aliens in Europe~{/SAY}
+
+[138.042]
+{SAY}Oh! I'll give you this!{WAIT}It used to be the specialty here.{/SAY}
+
+[138.043]
+
+《Got a Dolphin Bun!》
+
+[138.044]
+{SAY}When it's gone, I'll give you another!{/SAY}
+
+[138.045]
+{SAY}Welcome! There's only a tent, but will you stay?{WAIT}It's 800G a night!{/SAY}
+
+[138.046]
+{SAY}You don't have enough money!{/SAY}
+
+[138.047]
+{SAY}Then will you look at your diary?{/SAY}
+
+[138.048]
+{SAY}Use it anytime!{/SAY}
+

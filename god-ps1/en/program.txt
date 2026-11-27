@@ -1,0 +1,12008 @@
+# The program's own text: lists, screens, shops, the monster book, the diary.
+
+[program.651960]
+Weapons
+
+[program.651967]
+Armor
+
+[program.651974]
+Items
+
+[program.651981]
+Gifts
+
+[program.651989]
+General
+
+[program.651997]
+Bless
+
+[program.657748]
+Welcome!
+
+[program.657758]
+Can I help you?
+
+[program.657771]
+Ask me for
+anything!
+
+[program.657788]
+Hi there!
+
+[program.657796]
+Welcome, myaa!
+
+[program.657808]
+Well, well,
+welcome, I tell ya!
+
+[program.657831]
+Welcome, vich!
+
+[program.657845]
+Welcome, -aru!
+What you want?
+
+[program.657866]
+Welcome, darling!
+What'll it be?
+
+[program.657889]
+Welcome!
+What'll it be?
+
+[program.657907]
+Welcome!
+What do you wish?
+
+[program.657933]
+Welcome!
+Buying something?
+
+[program.657953]
+Hi there!
+Buy some, penguin!
+
+[program.657976]
+What'll you buy?
+
+[program.657988]
+What would you like?
+
+[program.658001]
+Buyin' somethin', ya?
+
+[program.658014]
+What'll you buy, myaa?
+
+[program.658025]
+What'll you buy, dagya?
+
+[program.658036]
+What d'you want, vich?
+
+[program.658051]
+Which you want, -aru?
+
+[program.658063]
+What'll it be, darling?
+
+[program.658076]
+What'll you buy?
+
+[program.658088]
+What'll you buy?
+
+[program.658097]
+What'll you buy, penguin?
+
+[program.658114]
+Buy anything else?
+
+[program.658125]
+Anything else?
+
+[program.658139]
+Buyin' more, ya?
+
+[program.658154]
+Buy more, myaa?
+
+[program.658166]
+Buy more, dagya?
+
+[program.658178]
+Buy more, vich?
+
+[program.658195]
+Buy more, -aru?
+
+[program.658207]
+Anything else, darling?
+
+[program.658221]
+Buy anything else?
+
+[program.658234]
+Anything else?
+
+[program.658243]
+Buy more, penguin?
+
+[program.658259]
+Not enough money!
+
+[program.658271]
+Sorry, you don't
+have enough money..
+
+[program.658293]
+Ya ain't got enough!
+
+[program.658306]
+Customer,
+you're broke, dagya!
+
+[program.658326]
+Customer, ya ain't
+got enough, I tell ya!
+
+[program.658350]
+Not enough money, vich!
+
+[program.658366]
+Not enough money, -aru!
+
+[program.658380]
+Not enough money, darling!
+
+[program.658395]
+Not enough money!
+
+[program.658411]
+Not enough money!
+
+[program.658424]
+Not enough money, penguin!
+
+[program.658442]
+You can't carry more!
+
+[program.658455]
+Your bags seem
+to be full.
+
+[program.658476]
+Ya can't carry more!
+
+[program.658488]
+You can't carry more, myaa!
+
+[program.658501]
+Customer! Your bags
+are full, I tell ya!
+
+[program.658526]
+Customer! You can't
+carry more, vich!
+
+[program.658548]
+Customer! You can't
+carry more, -aru!
+
+[program.658568]
+Sheeee!!
+You're full, darling!
+
+[program.658591]
+Customer!
+Your bags are full!
+
+[program.658613]
+You can't carry more!
+
+[program.658626]
+You can't carry more, penguin!
+
+[program.658645]
+What'll you sell?
+
+[program.658657]
+What will you sell?
+
+[program.658668]
+What'll ya sell?
+
+[program.658678]
+What'll you sell, myaa?
+
+[program.658689]
+What'll ya sell, I tell ya?
+
+[program.658702]
+What'll you sell, vich?
+
+[program.658717]
+What you sell, -aru?
+
+[program.658727]
+What'll you sell, darling?
+
+[program.658740]
+What'll you sell?
+
+[program.658752]
+What'll you sell?
+
+[program.658761]
+What'll you sell, penguin?
+
+[program.658778]
+Sell anything else?
+
+[program.658790]
+Sell anything else?
+
+[program.658802]
+Sellin' more, ya?
+
+[program.658813]
+Sell more, myaa?
+
+[program.658825]
+Sellin' more, I tell ya?
+
+[program.658839]
+Sell more, vich?
+
+[program.658855]
+Sell more, -aru?
+
+[program.658867]
+Sell more, darling?
+
+[program.658881]
+Sell anything else?
+
+[program.658894]
+Sell more?
+
+[program.658903]
+Sell more, penguin?
+
+[program.658919]
+Nothing you can buy!
+
+[program.658932]
+You don't seem to
+have anything I buy.
+
+[program.658955]
+Nothin' ya can buy!
+
+[program.658970]
+Nothing you can
+buy, myaa!
+
+[program.658986]
+Customer, nothin'
+ya can buy, dagya!
+
+[program.659009]
+Nothing you can
+buy, vich!
+
+[program.659029]
+Nothing you can
+buy, -aru!
+
+[program.659045]
+Nothing more you
+can buy, darling!
+
+[program.659065]
+Nothing more you
+can buy, I'm afraid
+
+[program.659085]
+Nothing you can buy!
+
+[program.659098]
+Nothing you can buy, penguin!
+
+[program.659116]
+That's {0C:10}!
+All right?
+
+[program.659129]
+That's {0C:10}!
+Is that all right?
+
+[program.659144]
+That's {0C:10}, ya!
+Okay?
+
+[program.659157]
+That's {0C:10}, myaa
+Okay, nyaa?
+
+[program.659172]
+That's {0C:10}!
+Okay, I tell ya?
+
+[program.659189]
+That's {0C:10}, vich!
+Okay?
+
+[program.659204]
+That's {0C:10}, -aru!
+Okay, -aru?
+
+[program.659218]
+{0C:10}, darling!
+Okay, darling?
+
+[program.659234]
+That's {0C:10}!
+Okay?
+
+[program.659249]
+That's {0C:10}!
+Okay?
+
+[program.659259]
+That's {0C:10}!
+Okay, penguin?
+
+[program.659276]
+Type..
+Hgt...
+Wgt...
+EXP...
+CS....
+G.....
+Weak..
+Area..
+
+[program.664392]
+Engineered
+
+[program.664418]
+Engineered
+
+[program.664431]
+Engineered
+
+[program.664444]
+Engineered
+
+[program.664457]
+Engineered
+
+[program.664470]
+Alien
+
+[program.664478]
+Engineered
+
+[program.664491]
+Engineered
+
+[program.664504]
+Engineered
+
+[program.664517]
+Engineered
+
+[program.664530]
+Phantom
+
+[program.664541]
+Robot
+
+[program.664549]
+Engineered
+
+[program.664562]
+Engineered
+
+[program.664575]
+Engineered
+
+[program.664588]
+Engineered
+
+[program.664601]
+Alien
+
+[program.664609]
+Phantom
+
+[program.664620]
+Phantom
+
+[program.664631]
+Engineered
+
+[program.664644]
+Engineered
+
+[program.664657]
+Alien
+
+[program.664665]
+Engineered
+
+[program.664678]
+Engineered
+
+[program.664691]
+Phantom
+
+[program.664702]
+Alien
+
+[program.664710]
+Alien
+
+[program.664718]
+Engineered
+
+[program.664731]
+Alien
+
+[program.664739]
+Engineered
+
+[program.664752]
+Engineered
+
+[program.664765]
+Engineered
+
+[program.664778]
+Engineered
+
+[program.664791]
+Engineered
+
+[program.664804]
+Engineered
+
+[program.664817]
+Phantom
+
+[program.664828]
+Phantom
+
+[program.664839]
+Engineered
+
+[program.664852]
+Phantom
+
+[program.664863]
+Engineered
+
+[program.664876]
+Phantom
+
+[program.664887]
+Phantom
+
+[program.664898]
+Alien
+
+[program.664906]
+Alien
+
+[program.664914]
+Engineered
+
+[program.664927]
+Engineered
+
+[program.664940]
+Alien
+
+[program.664948]
+Engineered
+
+[program.664961]
+Engineered
+
+[program.664974]
+Engineered
+
+[program.664987]
+Engineered
+
+[program.665000]
+Phantom
+
+[program.665011]
+Phantom
+
+[program.665022]
+Alien
+
+[program.665030]
+Phantom
+
+[program.665041]
+Alien
+
+[program.665049]
+Engineered
+
+[program.665062]
+Phantom
+
+[program.665073]
+Phantom
+
+[program.665084]
+Phantom
+
+[program.665095]
+Engineered
+
+[program.665108]
+Engineered
+
+[program.665121]
+Robot
+
+[program.665129]
+Engineered
+
+[program.665142]
+Engineered
+
+[program.665155]
+Engineered
+
+[program.665168]
+Phantom
+
+[program.665179]
+Phantom
+
+[program.665190]
+Phantom
+
+[program.665201]
+Phantom
+
+[program.665212]
+Phantom
+
+[program.665223]
+Phantom
+
+[program.665234]
+Alien
+
+[program.665242]
+Robot
+
+[program.665250]
+Engineered
+
+[program.665263]
+Engineered
+
+[program.665276]
+Engineered
+
+[program.665289]
+Phantom
+
+[program.665300]
+Engineered
+
+[program.665313]
+Phantom
+
+[program.665324]
+Engineered
+
+[program.665337]
+Engineered
+
+[program.665350]
+Engineered
+
+[program.665363]
+Phantom
+
+[program.665374]
+Robot
+
+[program.665382]
+Phantom
+
+[program.665393]
+Robot
+
+[program.665401]
+Alien
+
+[program.665409]
+Engineered
+
+[program.665422]
+Engineered
+
+[program.665435]
+Phantom
+
+[program.665446]
+Engineered
+
+[program.665459]
+Engineered
+
+[program.665472]
+Engineered
+
+[program.665485]
+Engineered
+
+[program.665498]
+Engineered
+
+[program.665511]
+Phantom
+
+[program.665522]
+Phantom
+
+[program.665533]
+Phantom
+
+[program.665544]
+Robot
+
+[program.665552]
+Engineered
+
+[program.665565]
+Alien
+
+[program.665573]
+Alien
+
+[program.665581]
+Alien
+
+[program.665589]
+Engineered
+
+[program.665602]
+Phantom
+
+[program.665613]
+Engineered
+
+[program.665626]
+Phantom
+
+[program.665637]
+Phantom
+
+[program.665648]
+Phantom
+
+[program.665659]
+Phantom
+
+[program.665670]
+Phantom
+
+[program.665681]
+Phantom
+
+[program.665692]
+Alien
+
+[program.665700]
+Engineered
+
+[program.665713]
+Engineered
+
+[program.665726]
+Engineered
+
+[program.665739]
+Phantom
+
+[program.665750]
+Phantom
+
+[program.665761]
+Alien
+
+[program.665769]
+Alien
+
+[program.665777]
+Engineered
+
+[program.665790]
+Engineered
+
+[program.665803]
+Engineered
+
+[program.665816]
+Engineered
+
+[program.665829]
+Engineered
+
+[program.665842]
+Phantom
+
+[program.665853]
+Phantom
+
+[program.665864]
+Phantom
+
+[program.665875]
+Phantom
+
+[program.665886]
+Robot
+
+[program.665894]
+Alien
+
+[program.665902]
+Alien
+
+[program.665910]
+Alien
+
+[program.665918]
+Phantom
+
+[program.665929]
+Phantom
+
+[program.665940]
+Phantom
+
+[program.665951]
+Robot
+
+[program.665959]
+Robot
+
+[program.665967]
+Alien
+
+[program.665975]
+Alien
+
+[program.665983]
+Alien
+
+[program.665991]
+Phantom
+
+[program.666002]
+Alien
+
+[program.666010]
+Alien
+
+[program.666018]
+Alien
+
+[program.666026]
+Alien
+
+[program.666034]
+Alien
+
+[program.666042]
+Phantom
+
+[program.666053]
+Alien
+
+[program.666061]
+Alien
+
+[program.666069]
+Alien
+
+[program.666077]
+Alien
+
+[program.666085]
+Alien
+
+[program.666093]
+Phantom
+
+[program.666104]
+Phantom
+
+[program.666115]
+Engineered
+
+[program.666128]
+Phantom
+
+[program.666139]
+Alien
+
+[program.666147]
+Engineered
+
+[program.666160]
+Alien
+
+[program.666168]
+Alien
+
+[program.666176]
+Alien
+
+[program.666184]
+Engineered
+
+[program.666197]
+Engineered
+
+[program.666210]
+Robot
+
+[program.666218]
+Engineered
+
+[program.666231]
+Engineered
+
+[program.666244]
+Engineered
+
+[program.666257]
+Phantom
+
+[program.666268]
+Phantom
+
+[program.666279]
+Engineered
+
+[program.666292]
+Robot
+
+[program.666300]
+Engineered
+
+[program.666313]
+Alien
+
+[program.666321]
+Alien
+
+[program.666329]
+Alien
+
+[program.666337]
+Alien
+
+[program.666345]
+Phantom
+
+[program.666356]
+Alien
+
+[program.666364]
+Phantom
+
+[program.666375]
+Alien
+
+[program.666383]
+Phantom
+
+[program.666394]
+Phantom
+
+[program.666405]
+Engineered
+
+[program.666418]
+Engineered
+
+[program.666431]
+Alien
+
+[program.666439]
+Alien
+
+[program.666447]
+Alien
+
+[program.666455]
+Alien
+
+[program.666463]
+Alien
+
+[program.666471]
+Alien
+
+[program.666479]
+Robot
+
+[program.666487]
+Engineered
+
+[program.666500]
+Engineered
+
+[program.666513]
+Alien
+
+[program.666521]
+Alien
+
+[program.666529]
+Alien
+
+[program.666537]
+Phantom
+
+[program.666548]
+Engineered
+
+[program.666561]
+Engineered
+
+[program.666574]
+Engineered
+
+[program.666587]
+Robot
+
+[program.666595]
+Phantom
+
+[program.666606]
+Engineered
+
+[program.666619]
+Robot
+
+[program.666627]
+Phantom
+
+[program.666638]
+Phantom
+
+[program.666656]
+30cm
+
+[program.666661]
+30cm
+
+[program.666666]
+1m
+
+[program.666669]
+45cm
+
+[program.666674]
+Various
+
+[program.666681]
+38cm
+
+[program.666686]
+1m60cm
+
+[program.666693]
+48cm
+
+[program.666698]
+48cm
+
+[program.666703]
+48cm
+
+[program.666708]
+65cm
+
+[program.666713]
+10m
+
+[program.666717]
+1m20cm
+
+[program.666724]
+1m30cm
+
+[program.666731]
+3m10cm
+
+[program.666738]
+2m
+
+[program.666741]
+73cm
+
+[program.666746]
+28cm
+
+[program.666751]
+3m10cm
+
+[program.666758]
+25cm
+
+[program.666763]
+2m
+
+[program.666766]
+1m60cm
+
+[program.666773]
+1m20cm
+
+[program.666780]
+2m20cm
+
+[program.666787]
+1m90cm
+
+[program.666794]
+2m40cm
+
+[program.666801]
+10m
+
+[program.666805]
+Various
+
+[program.666812]
+2m10cm
+
+[program.666819]
+1m
+
+[program.666822]
+1m
+
+[program.666825]
+1m20cm
+
+[program.666832]
+3m20cm
+
+[program.666839]
+45cm
+
+[program.666844]
+2m20cm
+
+[program.666851]
+2m20cm
+
+[program.666858]
+1m80cm
+
+[program.666865]
+1m10cm
+
+[program.666872]
+30cm
+
+[program.666877]
+73cm
+
+[program.666882]
+4m41cm
+
+[program.666889]
+Various
+
+[program.666896]
+2m10cm
+
+[program.666903]
+1m20cm
+
+[program.666910]
+1m30cm
+
+[program.666917]
+2m40cm
+
+[program.666924]
+10m
+
+[program.666928]
+35cm
+
+[program.666933]
+47cm
+
+[program.666938]
+45cm
+
+[program.666943]
+2m20cm
+
+[program.666950]
+3m12cm
+
+[program.666957]
+52cm
+
+[program.666962]
+19cm
+
+[program.666967]
+Various
+
+[program.666974]
+1m30cm
+
+[program.666981]
+Various
+
+[program.666988]
+2m5cm
+
+[program.666994]
+3m10cm
+
+[program.667001]
+2m
+
+[program.667004]
+1m60cm
+
+[program.667011]
+1m92cm
+
+[program.667018]
+48cm
+
+[program.667023]
+30cm
+
+[program.667028]
+3m10cm
+
+[program.667035]
+Various
+
+[program.667042]
+1m10cm
+
+[program.667049]
+19cm
+
+[program.667054]
+1m92cm
+
+[program.667061]
+2m34cm
+
+[program.667068]
+73cm
+
+[program.667073]
+Various
+
+[program.667080]
+1m20cm
+
+[program.667087]
+35cm
+
+[program.667092]
+1m20cm
+
+[program.667099]
+10m
+
+[program.667103]
+1m10cm
+
+[program.667110]
+1m80cm
+
+[program.667117]
+30cm
+
+[program.667122]
+2m10cm
+
+[program.667129]
+38cm
+
+[program.667134]
+4m81cm
+
+[program.667141]
+1m92cm
+
+[program.667148]
+32cm
+
+[program.667153]
+8m16cm
+
+[program.667160]
+32cm
+
+[program.667165]
+2m10cm
+
+[program.667172]
+45cm
+
+[program.667177]
+2m10cm
+
+[program.667184]
+48cm
+
+[program.667189]
+77cm
+
+[program.667194]
+4m81cm
+
+[program.667201]
+38cm
+
+[program.667206]
+3m20cm
+
+[program.667213]
+1m20cm
+
+[program.667220]
+1m92cm
+
+[program.667227]
+29cm
+
+[program.667232]
+2m19cm
+
+[program.667239]
+65cm
+
+[program.667244]
+30cm
+
+[program.667249]
+2m40cm
+
+[program.667256]
+2m85cm
+
+[program.667263]
+Various
+
+[program.667270]
+48cm
+
+[program.667275]
+30cm
+
+[program.667280]
+3m10cm
+
+[program.667287]
+1m10cm
+
+[program.667294]
+4m41cm
+
+[program.667301]
+19cm
+
+[program.667306]
+5m24cm
+
+[program.667313]
+Various
+
+[program.667320]
+2m19cm
+
+[program.667327]
+Various
+
+[program.667334]
+77cm
+
+[program.667339]
+25cm
+
+[program.667344]
+4m81cm
+
+[program.667351]
+135m
+
+[program.667356]
+3m10cm
+
+[program.667363]
+Various
+
+[program.667370]
+2m40cm
+
+[program.667377]
+35cm
+
+[program.667382]
+28cm1m
+
+[program.667389]
+1m80cm
+
+[program.667396]
+30cm
+
+[program.667401]
+25cm
+
+[program.667406]
+2m34cm
+
+[program.667413]
+5m24cm
+
+[program.667420]
+1m92cm
+
+[program.667427]
+8m16cm
+
+[program.667434]
+32cm
+
+[program.667439]
+2m85cm
+
+[program.667446]
+2m
+
+[program.667449]
+1m90cm
+
+[program.667456]
+3m20cm
+
+[program.667463]
+3m12cm
+
+[program.667470]
+5m24cm
+
+[program.667477]
+65cm
+
+[program.667482]
+32cm
+
+[program.667487]
+2m78cm
+
+[program.667494]
+13m
+
+[program.667498]
+2m45cm
+
+[program.667505]
+26m
+
+[program.667509]
+3m57cm
+
+[program.667516]
+26m
+
+[program.667520]
+7m41cm
+
+[program.667527]
+5m9cm
+
+[program.667533]
+1m82cm
+
+[program.667540]
+29cm
+
+[program.667545]
+8m35cm
+
+[program.667552]
+2m78cm
+
+[program.667559]
+2m46cm
+
+[program.667566]
+13m4cm
+
+[program.667573]
+8m65cm
+
+[program.667580]
+28m
+
+[program.667584]
+3m57cm
+
+[program.667591]
+1m2cm
+
+[program.667597]
+29cm
+
+[program.667602]
+2m40cm
+
+[program.667609]
+4m81cm
+
+[program.667616]
+2m10cm
+
+[program.667623]
+2m10cm
+
+[program.667630]
+38m9cm
+
+[program.667637]
+2m13cm
+
+[program.667644]
+2m13cm
+
+[program.667651]
+75cm
+
+[program.667656]
+3m72cm
+
+[program.667663]
+3m72cm
+
+[program.667670]
+1m23cm
+
+[program.667677]
+1m36cm
+
+[program.667684]
+1m36cm
+
+[program.667691]
+4m24cm
+
+[program.667698]
+1m30cm
+
+[program.667705]
+2m98cm
+
+[program.667712]
+1m90cm
+
+[program.667719]
+73cm
+
+[program.667724]
+2m49cm
+
+[program.667731]
+43cm
+
+[program.667736]
+135m
+
+[program.667741]
+Various
+
+[program.667748]
+135m
+
+[program.667753]
+43cm
+
+[program.667758]
+4m24cm
+
+[program.667765]
+4m24cm
+
+[program.667772]
+2m98cm
+
+[program.667779]
+2m98cm
+
+[program.667786]
+Various
+
+[program.667793]
+Various
+
+[program.667800]
+Various
+
+[program.667807]
+Various
+
+[program.667814]
+Various
+
+[program.667821]
+2m
+
+[program.667824]
+75cm
+
+[program.667829]
+1m23cm
+
+[program.667836]
+1m23cm
+
+[program.667843]
+73cm
+
+[program.667848]
+73cm
+
+[program.667853]
+13m
+
+[program.667857]
+26m
+
+[program.667861]
+1m20cm
+
+[program.667868]
+1m2cm
+
+[program.667874]
+1m2cm
+
+[program.667880]
+65cm
+
+[program.667885]
+29cm
+
+[program.667890]
+1m2cm
+
+[program.667896]
+1m35cm
+
+[program.667903]
+29cm
+
+[program.667910]
+1t
+
+[program.667917]
+2.1kg
+
+[program.667923]
+3.9kg
+
+[program.667929]
+6.3kg
+
+[program.667935]
+1.2kg
+
+[program.667941]
+Various
+
+[program.667948]
+30kg
+
+[program.667953]
+63kg
+
+[program.667958]
+623g
+
+[program.667963]
+623g
+
+[program.667968]
+923g
+
+[program.667973]
+13kg
+
+[program.667978]
+2.5t
+
+[program.667983]
+42kg
+
+[program.667988]
+59kg
+
+[program.667993]
+393kg
+
+[program.667999]
+95kg
+
+[program.668004]
+13kg
+
+[program.668009]
+300g
+
+[program.668014]
+393kg
+
+[program.668020]
+612g
+
+[program.668025]
+95kg
+
+[program.668030]
+63kg
+
+[program.668035]
+118kg
+
+[program.668041]
+75kg
+
+[program.668046]
+48kg
+
+[program.668051]
+175kg
+
+[program.668057]
+2.5t
+
+[program.668062]
+Various
+
+[program.668069]
+459kg
+
+[program.668075]
+6.3kg
+
+[program.668081]
+6.3kg
+
+[program.668087]
+118kg
+
+[program.668093]
+154kg
+
+[program.668099]
+1.2kg
+
+[program.668105]
+75kg
+
+[program.668110]
+129kg
+
+[program.668116]
+103kg
+
+[program.668122]
+26kg
+
+[program.668127]
+2.1kg
+
+[program.668133]
+13kg
+
+[program.668138]
+2.5t
+
+[program.668143]
+Various
+
+[program.668150]
+54kg
+
+[program.668155]
+42kg
+
+[program.668160]
+50kg
+
+[program.668165]
+175kg
+
+[program.668171]
+2.5t
+
+[program.668176]
+3kg
+
+[program.668180]
+2.7kg
+
+[program.668186]
+1.9kg
+
+[program.668192]
+75kg
+
+[program.668197]
+206kg
+
+[program.668203]
+12kg
+
+[program.668208]
+494g
+
+[program.668213]
+Various
+
+[program.668220]
+59kg
+
+[program.668225]
+Various
+
+[program.668232]
+0g
+
+[program.668235]
+239kg
+
+[program.668241]
+95kg
+
+[program.668246]
+63kg
+
+[program.668251]
+164kg
+
+[program.668257]
+623g
+
+[program.668262]
+3.9kg
+
+[program.668268]
+393kg
+
+[program.668274]
+Various
+
+[program.668281]
+26kg
+
+[program.668286]
+494g
+
+[program.668291]
+67kg
+
+[program.668296]
+218kg
+
+[program.668302]
+13kg
+
+[program.668307]
+Various
+
+[program.668314]
+118kg
+
+[program.668320]
+3kg
+
+[program.668324]
+42kg
+
+[program.668329]
+2.5t
+
+[program.668334]
+95kg
+
+[program.668339]
+103kg
+
+[program.668345]
+2.1kg
+
+[program.668351]
+459kg
+
+[program.668357]
+30kg
+
+[program.668362]
+856kg
+
+[program.668368]
+180kg
+
+[program.668374]
+5kg
+
+[program.668378]
+2t
+
+[program.668381]
+5kg
+
+[program.668385]
+54kg
+
+[program.668390]
+1.2kg
+
+[program.668396]
+459kg
+
+[program.668402]
+623g
+
+[program.668407]
+26kg
+
+[program.668412]
+856kg
+
+[program.668418]
+30kg
+
+[program.668423]
+154kg
+
+[program.668429]
+42kg
+
+[program.668434]
+67kg
+
+[program.668439]
+300g
+
+[program.668444]
+0g
+
+[program.668447]
+13kg
+
+[program.668452]
+2.1kg
+
+[program.668458]
+175kg
+
+[program.668464]
+123kg
+
+[program.668470]
+Various
+
+[program.668477]
+623g
+
+[program.668482]
+3.9kg
+
+[program.668488]
+393kg
+
+[program.668494]
+26kg
+
+[program.668499]
+2.5t
+
+[program.668504]
+494g
+
+[program.668509]
+1.7t
+
+[program.668514]
+Various
+
+[program.668521]
+0g
+
+[program.668524]
+Various
+
+[program.668531]
+26kg
+
+[program.668536]
+612g
+
+[program.668541]
+856kg
+
+[program.668547]
+35t
+
+[program.668551]
+239kg
+
+[program.668557]
+Various
+
+[program.668564]
+175kg
+
+[program.668570]
+3kg
+
+[program.668574]
+2.7kg
+
+[program.668580]
+103kg
+
+[program.668586]
+3.9kg
+
+[program.668592]
+612g
+
+[program.668597]
+218kg
+
+[program.668603]
+1.7t
+
+[program.668608]
+180kg
+
+[program.668614]
+2t
+
+[program.668617]
+5kg
+
+[program.668621]
+123kg
+
+[program.668627]
+95kg
+
+[program.668632]
+48kg
+
+[program.668637]
+154kg
+
+[program.668643]
+206kg
+
+[program.668649]
+1.7t
+
+[program.668654]
+13kg
+
+[program.668659]
+5kg
+
+[program.668663]
+142kg
+
+[program.668669]
+3.4t
+
+[program.668674]
+51kg
+
+[program.668679]
+4t
+
+[program.668682]
+212kg
+
+[program.668688]
+433kg
+
+[program.668694]
+459kg
+
+[program.668700]
+314kg
+
+[program.668706]
+65kg
+
+[program.668711]
+300g
+
+[program.668716]
+563kg
+
+[program.668722]
+142kg
+
+[program.668728]
+83kg
+
+[program.668733]
+1.3t
+
+[program.668738]
+999kg
+
+[program.668744]
+15t
+
+[program.668748]
+212kg
+
+[program.668754]
+3.2kg
+
+[program.668760]
+300g
+
+[program.668765]
+175kg
+
+[program.668771]
+856kg
+
+[program.668777]
+54kg
+
+[program.668782]
+54kg
+
+[program.668787]
+24t
+
+[program.668791]
+98kg
+
+[program.668796]
+98kg
+
+[program.668801]
+11kg
+
+[program.668806]
+342kg
+
+[program.668812]
+342kg
+
+[program.668818]
+31kg
+
+[program.668823]
+38kg
+
+[program.668828]
+38kg
+
+[program.668833]
+254kg
+
+[program.668839]
+82kg
+
+[program.668844]
+310kg
+
+[program.668850]
+48kg
+
+[program.668855]
+2kg
+
+[program.668859]
+65kg
+
+[program.668864]
+812g
+
+[program.668869]
+35t
+
+[program.668873]
+Various
+
+[program.668880]
+35t
+
+[program.668884]
+812g
+
+[program.668889]
+254kg
+
+[program.668895]
+254kg
+
+[program.668901]
+310kg
+
+[program.668907]
+310kg
+
+[program.668913]
+Various
+
+[program.668920]
+Various
+
+[program.668927]
+Various
+
+[program.668934]
+Various
+
+[program.668941]
+Various
+
+[program.668948]
+95kg
+
+[program.668953]
+11kg
+
+[program.668958]
+31kg
+
+[program.668963]
+31kg
+
+[program.668968]
+2kg
+
+[program.668972]
+2kg
+
+[program.668976]
+3.4t
+
+[program.668981]
+4t
+
+[program.668984]
+42kg
+
+[program.668989]
+3.2kg
+
+[program.668995]
+3.2kg
+
+[program.669001]
+13kg
+
+[program.669006]
+300g
+
+[program.669011]
+3.2kg
+
+[program.669017]
+24kg
+
+[program.669022]
+300g
+
+[program.669027]
+0g
+
+[program.669035]
+Fire
+
+[program.669038]
+Water
+
+[program.669041]
+Fire
+
+[program.669044]
+Fire
+
+[program.669047]
+??????
+
+[program.669054]
+Poison
+
+[program.669057]
+None
+
+[program.669060]
+Ice
+
+[program.669063]
+Ice
+
+[program.669066]
+Water/Ice
+
+[program.669072]
+Fire/Elec
+
+[program.669080]
+Fire
+
+[program.669083]
+Fire
+
+[program.669086]
+Fire
+
+[program.669089]
+Ice
+
+[program.669092]
+??????
+
+[program.669099]
+Music
+
+[program.669104]
+Music
+
+[program.669109]
+Ice
+
+[program.669112]
+Elec
+
+[program.669117]
+??????
+
+[program.669124]
+None
+
+[program.669128]
+Music
+
+[program.669133]
+None
+
+[program.669136]
+None
+
+[program.669139]
+Fire
+
+[program.669142]
+??????
+
+[program.669149]
+Poison
+
+[program.669152]
+Fire
+
+[program.669155]
+Fire
+
+[program.669158]
+Water/Ice
+
+[program.669164]
+Water/Ice
+
+[program.669170]
+Fire
+
+[program.669173]
+Music
+
+[program.669178]
+Music
+
+[program.669183]
+None
+
+[program.669186]
+Music
+
+[program.669191]
+Water/Ice
+
+[program.669197]
+Music
+
+[program.669202]
+None
+
+[program.669205]
+??????
+
+[program.669212]
+??????
+
+[program.669219]
+Fire
+
+[program.669222]
+Fire
+
+[program.669225]
+??????
+
+[program.669232]
+Water/Ice
+
+[program.669238]
+Fire
+
+[program.669241]
+Elec
+
+[program.669246]
+Fire
+
+[program.669249]
+Music
+
+[program.669254]
+None
+
+[program.669257]
+??????
+
+[program.669264]
+Water
+
+[program.669267]
+??????
+
+[program.669274]
+Fire
+
+[program.669277]
+Music
+
+[program.669282]
+Music
+
+[program.669287]
+Elec
+
+[program.669292]
+??????
+
+[program.669299]
+Water/Ice
+
+[program.669305]
+Elec
+
+[program.669310]
+None
+
+[program.669313]
+Water/Ice
+
+[program.669319]
+None
+
+[program.669322]
+None
+
+[program.669325]
+Music
+
+[program.669330]
+Water/Ice
+
+[program.669336]
+Fire
+
+[program.669339]
+Music
+
+[program.669344]
+Music
+
+[program.669349]
+??????
+
+[program.669356]
+Water/Ice
+
+[program.669362]
+Fire
+
+[program.669365]
+None
+
+[program.669368]
+Fire
+
+[program.669371]
+Music
+
+[program.669376]
+None
+
+[program.669379]
+None
+
+[program.669382]
+None
+
+[program.669385]
+None
+
+[program.669388]
+Water/Ice
+
+[program.669394]
+None
+
+[program.669397]
+Elec
+
+[program.669402]
+None
+
+[program.669405]
+Elec
+
+[program.669410]
+??????
+
+[program.669417]
+Fire
+
+[program.669420]
+Fire
+
+[program.669423]
+None
+
+[program.669426]
+Fire
+
+[program.669429]
+Fire
+
+[program.669432]
+None
+
+[program.669435]
+None
+
+[program.669438]
+None
+
+[program.669441]
+Fire
+
+[program.669444]
+Music
+
+[program.669449]
+None
+
+[program.669452]
+Elec
+
+[program.669457]
+Fire
+
+[program.669460]
+??????
+
+[program.669467]
+??????
+
+[program.669474]
+??????
+
+[program.669481]
+Wind
+
+[program.669484]
+None
+
+[program.669487]
+Fire
+
+[program.669490]
+Music
+
+[program.669495]
+None
+
+[program.669498]
+Water/Ice
+
+[program.669504]
+None
+
+[program.669507]
+Wind
+
+[program.669510]
+Music
+
+[program.669515]
+??????
+
+[program.669522]
+Fire
+
+[program.669525]
+Fire
+
+[program.669528]
+Fire
+
+[program.669531]
+None
+
+[program.669534]
+None
+
+[program.669537]
+??????
+
+[program.669544]
+??????
+
+[program.669551]
+Fire
+
+[program.669554]
+Fire
+
+[program.669557]
+None
+
+[program.669560]
+None
+
+[program.669563]
+Fire
+
+[program.669566]
+None
+
+[program.669569]
+None
+
+[program.669572]
+None
+
+[program.669575]
+None
+
+[program.669578]
+Elec
+
+[program.669583]
+??????
+
+[program.669590]
+??????
+
+[program.669597]
+??????
+
+[program.669604]
+None
+
+[program.669607]
+None
+
+[program.669610]
+None
+
+[program.669613]
+Elec
+
+[program.669618]
+Elec
+
+[program.669623]
+??????
+
+[program.669630]
+Fire
+
+[program.669633]
+??????
+
+[program.669640]
+Water/Ice
+
+[program.669646]
+??????
+
+[program.669653]
+??????
+
+[program.669660]
+??????
+
+[program.669667]
+??????
+
+[program.669674]
+??????
+
+[program.669681]
+Music
+
+[program.669686]
+??????
+
+[program.669693]
+??????
+
+[program.669700]
+??????
+
+[program.669707]
+??????
+
+[program.669714]
+??????
+
+[program.669721]
+Fire
+
+[program.669724]
+Elec
+
+[program.669729]
+None
+
+[program.669732]
+Music
+
+[program.669737]
+??????
+
+[program.669744]
+None
+
+[program.669747]
+??????
+
+[program.669754]
+??????
+
+[program.669761]
+??????
+
+[program.669768]
+Elec
+
+[program.669773]
+Elec
+
+[program.669778]
+Elec
+
+[program.669783]
+Elec
+
+[program.669788]
+Elec
+
+[program.669793]
+Water/Ice
+
+[program.669799]
+None
+
+[program.669802]
+None
+
+[program.669805]
+None
+
+[program.669808]
+Elec
+
+[program.669813]
+None
+
+[program.669816]
+??????
+
+[program.669823]
+??????
+
+[program.669830]
+??????
+
+[program.669837]
+Fire
+
+[program.669840]
+??????
+
+[program.669847]
+??????
+
+[program.669854]
+??????
+
+[program.669861]
+Fire
+
+[program.669864]
+None
+
+[program.669867]
+None
+
+[program.669870]
+Wind
+
+[program.669873]
+Wind
+
+[program.669876]
+??????
+
+[program.669883]
+??????
+
+[program.669890]
+??????
+
+[program.669897]
+??????
+
+[program.669904]
+??????
+
+[program.669911]
+??????
+
+[program.669918]
+Elec
+
+[program.669923]
+Water/Ice
+
+[program.669929]
+Water/Ice
+
+[program.669935]
+??????
+
+[program.669942]
+??????
+
+[program.669949]
+??????
+
+[program.669956]
+??????
+
+[program.669963]
+Fire
+
+[program.669966]
+None
+
+[program.669969]
+None
+
+[program.669972]
+Elec
+
+[program.669977]
+Music
+
+[program.669982]
+None
+
+[program.669985]
+None
+
+[program.669988]
+Music
+
+[program.669993]
+??????
+
+[program.670000]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670158]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670237]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670316]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670395]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670474]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670553]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670632]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670711]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670790]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670869]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.670948]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671027]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671106]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671185]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671264]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671343]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671422]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671501]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671580]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671659]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671738]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671817]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671896]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.671975]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672054]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672133]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672212]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672291]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672370]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672449]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672528]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672607]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672686]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672765]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672844]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.672923]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673002]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673081]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673160]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673239]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673318]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673397]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673476]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673555]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673634]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673713]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673792]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673871]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.673950]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674029]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674108]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674187]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674266]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674345]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674424]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674503]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674582]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674661]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674740]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674819]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674898]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.674977]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675056]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675135]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675214]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675293]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675372]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675451]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675530]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675609]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675688]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675767]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675846]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.675925]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676004]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676083]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676162]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676241]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676320]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676399]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676478]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676557]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676636]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676715]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676794]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676873]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.676952]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677031]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677110]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677189]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677268]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677347]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677426]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677505]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677584]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677663]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677742]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677821]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677900]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.677979]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678058]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678137]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678216]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678295]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678374]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678453]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678532]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678611]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678690]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678769]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678848]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.678927]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679006]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679085]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679164]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679243]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679322]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679401]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679480]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679559]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679638]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679717]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679796]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679875]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.679954]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680033]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680112]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680191]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680270]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680349]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680428]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680507]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680586]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680665]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680744]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680823]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680902]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.680981]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681060]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681139]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681218]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681297]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681376]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681455]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681534]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681613]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681692]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681771]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681850]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.681929]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682008]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682087]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682166]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682245]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682324]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682403]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682482]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682561]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682640]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682719]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682798]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682877]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.682956]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683035]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683114]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683193]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683272]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683351]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683430]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683509]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683588]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683667]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683746]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683825]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683904]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.683983]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684062]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684141]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684220]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684299]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684378]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684457]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684536]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684615]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684694]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684773]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684852]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.684931]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685010]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685089]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685168]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685247]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685326]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685405]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685484]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685563]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685642]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685721]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685800]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685879]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.685958]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.686037]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.686116]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.686195]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.686274]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.686353]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.686432]
+A monster Dr. Z made
+by gene-splicing a
+tiger and a bear.
+It has tremendous
+power.
+
+[program.690784]
+Sold at C-stores in 1999
+
+[program.690806]
+Tsukubane toad-extract treat
+
+[program.690834]
+Myaa's famous miso-rich treat
+
+[program.690855]
+Myaa Town's old everyday taste
+
+[program.690881]
+Osaka style, worth the queue
+
+[program.690902]
+Animal shapes kids love
+
+[program.690934]
+A shisa-shaped offering, old taste
+
+[program.690960]
+Fluffy, Western-style treat
+
+[program.690987]
+Chewy festival delicacy
+
+[program.691013]
+Sweet and sour, best at sunset
+
+[program.691043]
+Unknown contents, nostalgic taste
+
+[program.691070]
+Steamed by hot spring heat
+
+[program.691099]
+Made of gathered snowflakes
+
+[program.691121]
+Studded with ice. Chilling
+
+[program.691145]
+Packed full, a taste of history
+
+[program.691172]
+Every delicacy of land and sea
+
+[program.691199]
+Made by {NAME:04}'s disciples
+
+[program.691219]
+Smooth tapioca delicacy
+
+[program.691243]
+Train-shaped, sweet and homesick
+
+[program.691266]
+Deep-fried, hearty home taste
+
+[program.691294]
+A taste that makes you kind
+
+[program.691317]
+Hard-baked, filling, simple
+
+[program.691340]
+Two tastes in one, desperately
+
+[program.691368]
+Beautiful, bright colors
+
+[program.691391]
+A gentle taste even dolphins love
+
+[program.691411]
+Crunchy, with sand in it
+
+[program.691435]
+Legendary, wrapped in gold leaf
+
+[program.691457]
+Spicy Cape Kibou specialty
+
+[program.691478]
+Monkey-shaped, simple taste
+
+[program.691496]
+Wrapped in eucalyptus, fragrant
+
+[program.691523]
+Sweet, spicy, bitter, salty
+
+[program.691548]
+A little salty. A man's taste
+
+[program.691570]
+Quantity over quality
+
+[program.691588]
+Tastes of the whole world
+
+[program.691611]
+Sweet, for little kids
+
+[program.691635]
+Aged thousands of years. Rich
+
+[program.691661]
+Slowly sun-baked, rich taste
+
+[program.691688]
+Bird-branded, crumbly delicacy
+
+[program.691712]
+East and West, perfectly blended
+
+[program.691740]
+Made of gathered ice crystals
+
+[program.691762]
+Ugly but made with love
+
+[program.691785]
+With guarana. A grown-up taste
+
+[program.691807]
+Juicy and fragrant
+
+[program.691827]
+Simple-smelling, home taste
+
+[program.691851]
+Lean and juicy, no waste
+
+[program.692360]
+{NAME:19},
+when you read this notebook,
+I may no longer be alive.
+Somehow I have that feeling.
+{NAME:19},
+there's so much
+I want to tell you.
+Listen slowly
+and carefully.
+I hope this notebook
+helps you on your journey...
+
+[program.692515]
+《About Psycho》
+
+We use only 30% of
+our brains.
+Psychic power (Psycho) is a
+special power of that 30%.
+Train that 30%, and
+Psycho grows stronger.
+
+And {NAME:19}, your brain
+has this Psycho power.
+As {NAME:19} fights and grows,
+that 30% will be trained,
+and you'll use many kinds
+of Psycho.
+And somewhere in this world
+there must be others with
+the same power as {NAME:19}.
+{NAME:19}, find them.
+They will surely help
+{NAME:19} on the journey.
+
+
+
+[program.692818]
+《What are Chakras》
+
+A mystic energy asleep in
+the body. There are said to
+be seven kinds.
+Psycho uses 30% of the
+brain; chakras seem to lie
+in the other 70%.
+
+Here are the seven chakras:
+K (Ki)      Energy
+W (Wisdom)  Intellect
+H (Heal)    Recovery
+S (Spirit)  Past lives, genes
+J (Joy)     Delight
+N (Sun)     Nature
+P (Power)   Body
+
+Those are the chakras.
+Master all seven, and
+you'll show amazing power.
+So how can you use the
+chakras' power?
+You must touch a thing
+called a "God Stone",
+said to be somewhere.
+
+
+《What are God Stones》
+
+Who placed them, and why,
+is unknown. How many there
+are is unknown too.
+But when a chosen one
+touches one, 10% of the
+unused 70% awakens.
+We call this "awakening"
+or "opening a chakra".
+
+{NAME:19}, if you touch the
+God Stone on Mt. Tsukubane
+and are wrapped in light,
+Chakra Level 1 has opened.
+
+But opening a chakra is not
+enough to use it.
+You must "charge" Cosmo
+Stones into the opened chakra.
+Only by charging Cosmo Stones
+can you use that chakra's
+power.
+Let me explain Cosmo Stones.
+
+
+《What are Cosmo Stones》
+
+Strange stones you get by
+beating monsters and aliens.
+Charging them lets you use
+each chakra's power, its
+"Chakra Command".
+Now, about Chakra Commands
+and Cosmo Stones.
+
+
+《About Chakra Commands》
+
+Touch a God Stone and you
+awaken to Chakra Level 1.
+But without Cosmo Stones you
+can't use the chakra's power.
+This is "Chakra Command
+Level 0".
+It's important, so again:
+Chakra Level and Chakra
+Command Level differ.
+Touch a second God Stone and
+{NAME:19} is Chakra Level 2.
+But with no Cosmo Stones
+charged and no Chakra
+Command to use, it's still
+Chakra Command Level 0.
+How many Cosmo Stones you
+need for a Chakra Command
+shows at the top right of
+the Chakra screen, like
+
+LV　0
+C.S　　　0/30
+
+LV is the current Chakra
+　　Command Level.
+C.S is the Cosmo Stones
+　　needed for the next LV.
+Here, charge 30 Cosmo Stones
+to get the LV1 Chakra
+Command.
+More in "Using Chakras".
+Why Cosmo Stones relate to
+the aliens, and to chakras,
+is still under study. I sense
+a great mystery there.
+
+[program.694454]
+Bless
+
+[program.694459]
+Aliens
+
+[program.694465]
+About RPGs
+
+[program.694473]
+Inns/Diary
+
+[program.694485]
+Items/Shops
+
+[program.694499]
+Gear/Battle
+
+[program.694513]
+Status
+
+[program.694519]
+Hospitals
+
+[program.694524]
+
+　　　　　"Bless"
+
+ A supranational group set up
+in 2003 on the old United
+Nations when the aliens came.
+Besides the Bless army it has
+many research bodies.
+HQ: New York.
+
+The first alien attack in
+1999 cut the population
+sharply. Countries stopped
+working, and nations as such
+vanished.
+
+In their place, each town has
+a Bless.
+Some towns without a Bless
+run themselves and keep arms
+to defend themselves.
+
+[program.694832]
+
+　　　　　"Aliens"
+
+ They suddenly came in 1999.
+They use meteorites and UFOs,
+and control monsters.
+
+ Now they fight mankind from
+bases around the world.
+
+ Where they came from, and
+why, is still unknown.
+
+[program.694991]
+
+　　　　"About RPGs"
+
+Welcome to the world of GOD!
+Thank you for buying it.
+
+If you've played games of the
+"RPG" (role-playing game)
+genre before, you can skip
+this page.
+It's for people who don't
+know RPGs at all.
+
+An RPG is your own story,
+with you as the hero.
+As you travel, people will
+call out to you:
+"Hey, {NAME:19}"
+"Long time, {NAME:19}!"
+"Good luck, {NAME:19}!"
+
+You, or rather {NAME:19},
+will fight monsters and
+aliens on the way.
+Win a battle, and
+{NAME:19} gets
+
+1) EXP
+2) Money (G)
+3) Cosmo Stones
+4) Items
+
+from the monsters and
+aliens.
+
+1)
+Gather EXP and
+{NAME:19} levels up.
+That's what level 5 or
+level 10 means.
+Leveling up raises all
+sorts of powers.
+Leveling up, growing, is one
+of the joys of RPGs.
+
+2)
+With money (G) you can buy
+weapons and armor in shops.
+Strong gear costs more,
+of course. Save up.
+
+3)
+For Cosmo Stones, see
+"About Chakras" and
+"Using Chakras".
+
+4)
+Monsters and aliens sometimes
+drop items.
+Some may be special things
+no shop sells.
+
+Gathering these four while
+you travel to reach a goal:
+that's an RPG.
+And it's {NAME:19}'s very
+own story.
+
+
+
+[program.695849]
+
+　　　"Inns and the Diary"
+
+ Stay at an inn or hotel to
+restore HP (Hit Points) and
+MP (Mind Points).
+When hurt from fighting, stay
+often. That's the trick.
+
+ To keep a record of your
+journey (save data), write in
+the diary.
+Once written, it's safe to
+turn the power off.
+Next time, you go on from
+where you wrote it.
+
+ You can write in the diary
+without staying.
+Handy when your HP and MP are
+fine but you want a record.
+The diary alone is free.
+
+ If you lose a battle and the
+whole party is KO'd, the game
+is over. Then choose
+"Continue" and read the diary.
+Everything replays from where
+you last wrote. So if you
+rush ahead without writing and
+the game ends, it's painful.
+Write in the diary often.
+
+[program.696397]
+
+　　　"Items and Shops"
+
+(Weapon shop)
+Buy weapons to hold:
+swords, guns, knives and
+more.
+Each member has rules on
+weapons: women can't use
+heavy bazookas, and so on.
+
+(Armor shop)
+Buy armor for head, body and
+feet. As with weapons, who
+can equip what differs.
+
+The members shown in the
+middle of the shop screen
+tell you: facing front means
+they can equip it; facing
+away means they can't.
+If they can, an arrow by them
+shows how it compares with
+what they wear now.
+If Attack (weapons) or
+Defense (armor) goes up, the
+small window shows an up
+arrow; down if it goes down;
+nothing if they can't use it.
+If it's as strong as what
+they wear now, an E shows.
+
+You can also buy accessories
+with all sorts of perks.
+The perk shows in the middle
+of the shop screen.
+
+(Gift shop)
+Buy local specialties and
+items. Use items with the
+"USE" command.
+
+ Some shops have signs, some
+are grouped like a mall; gift
+shops share the counter of
+the hotel or inn, or one
+nearby.
+
+ Happily, traveling merchants
+show up now and then.
+ They often sell rare things,
+so watch for them.
+
+[program.697359]
+
+　　　"Gear and Battle"
+
+ Always equip the weapons and
+armor you buy.
+Press △, then "EQUIP" to see
+the gear on each body part.
+
+ Choose "BEST" to pick the
+strongest weapon and armor
+automatically. Handy.
+
+ Besides Attack and Defense,
+gear has many properties.
+You can also choose gear by
+those properties.
+
+ In battle, as a rule, every
+member acts once per turn.
+Take your time and think how
+to attack the monsters and
+aliens.
+Until you decide, monsters
+won't attack, however scary
+they look.
+Polite fellows.
+
+ Special monster attacks or
+special party moves may be
+exceptions.
+
+[program.697873]
+
+　　　"About Status"
+
+Status shows your current
+abilities.
+
+ It also shows what you carry
+and the gear you wear.
+Numbers change when you level
+up or change gear.
+
+"NEXT LEVEL" shows the EXP
+needed for the next level.
+A good guide when you're
+tired of fighting.
+
+
+
+[program.698092]
+
+　　　　"Hospitals"
+
+1) KO
+2) Paralysis
+3) Poison
+
+They treat these for a fee.
+If nothing's wrong, talking
+to them costs nothing.
+
+The nurses everywhere are
+lovely too.
+
+[program.698227]
+{NAME:19}, I wonder how you
+are as you read this.
+
+{NAME:19}, a wonderful power
+sleeps in you.
+
+As "About Chakras" said,
+after touching a God Stone
+and reaching Chakra Level 1,
+your Chakra Command Level
+stays 0 until you charge
+Cosmo Stones.
+
+
+{NAME:19}, got that?
+Now, how to "charge" Cosmo
+Stones. It's not hard.
+Even a schoolkid can do it.
+Relax.
+
+
+First, choose "CHRG" from
+the Chakra screen's menu.
+
+[program.698545]
+That's it, {NAME:19}!
+After "CHRG", you choose
+which chakra to charge.
+You set which of the seven
+chakras gets the Cosmo
+Stones you earn.
+Right now, Cosmo Stones go
+to the K chakra.
+
+Let's change it to one
+other than K.
+Not K, mind you.
+Move the cursor with left
+and right, and press ○.
+
+[program.698932]
+Let's go back to the
+Chakra screen.
+Notice the numbers there?
+
+They show the Cosmo Stones
+stored in each chakra,
+and the Cosmo Stones needed
+for the next LV (Chakra
+Command Level).
+
+
+[program.700100]
+{NAME:19},
+I found something big!
+
+
+At LV (Chakra Command Level)
+4 or more, you can "link"
+two chakras!
+Let's link some right away.
+It's not hard at all.
+Even a first-grader
+could do it. Relax.
+Let's try one.
+First pick one chakra,
+then pick a second.
+Now try it for real!
+Choose "LINK" from
+the menu.
+
+[program.700355]
+Good, that's it, {NAME:19}!
+Say the S and J chakras
+are both LV4!
+
+Move the cursor with
+left and right, and link
+the S and J chakras.
+
+
+[program.700472]
+Splendid, {NAME:19}!
+Now the S and J chakras
+are equipped!
+
+With two chakras linked,
+the battle Chakra Command
+lets you pick from both
+chakras' commands.
+That's all. Chakras are so
+amazing even Redoiset
+is red-faced, I bet.
+
+
+[program.700636]
+Basics
+
+[program.700649]
+Advanced
+
+[program.701264]
+GEN
+
+[program.701268]
+HEATH
+
+[program.701272]
+MINA
+
+[program.701275]
+AI
+
+[program.701278]
+BASIL
+
+[program.701284]
+LEM
+
+[program.701287]
+KICHI
+
+[program.701294]
+MAMA
+
+[program.701297]
+Yes
+No
+
+[program.701304]
+Yes　　No
+
+[program.701312]
+New Game
+Continue
+
+[program.701326]
+Write
+Read
+Sleep
+
+[program.701348]
+
+《Found {WORD}!》
+
+[program.701363]
+{CLEAR}
+《Got {WORD}!》
+
+[program.701381]
+
+《Found {NUM} {WORD}!》
+
+[program.701400]
+{CLEAR}
+《Got {NUM}
+　{WORD}!》
+
+[program.701424]
+{CLEAR}《But {NAME:19} already
+　has 99 {WORD}!》{HOLD}{CLEAR}
+《Gave up on {WORD}...》
+
+[program.701476]
+
+《Found money!》{HOLD}{CLEAR}
+《Got {0C:18}G!》
+
+[program.701511]
+
+　《Found Cosmo Stones!》{HOLD}{CLEAR}
+　《Got {NUM} Cosmo Stones!》
+
+[program.701592]
+
+《Monsters appeared!》
+
+[program.701611]
+Str
+
+[program.701615]
+Def
+
+[program.701619]
+Spirit
+
+[program.701624]
+Speed
+
+[program.701630]
+Love
+
+[program.701633]
+EXP
+
+[program.701640]
+Total Atk
+
+[program.701651]
+Total Def
+
+[program.701662]
+Total Psy Atk
+
+[program.701677]
+Total Psy Def
+
+[program.701692]
+Total Speed
+
+[program.701702]
+Accuracy
+
+[program.701709]
+Evasion
+
+[program.701716]
+Attack
+
+[program.701723]
+Defense
+
+[program.701730]
+Psy Atk
+
+[program.701741]
+Psy Def
+
+[program.701752]
+Speed
+
+[program.701758]
+Accuracy
+
+[program.701765]
+Evasion
+
+[program.701799]
+Diary
+
+[program.701806]
+{NAME:19}'s diary. Write at inns
+
+[program.701830]
+Grandma's Letter
+
+[program.701843]
+A letter to Grandma in Hokkaido
+
+[program.701866]
+Croiset Notes
+
+[program.701877]
+Small e-notebook. Open with □
+
+[program.701901]
+Myaa's Ring
+
+[program.701912]
+Princess Myaa's ring. Stuck
+
+[program.701937]
+Introduction
+
+[program.701944]
+Director's letter to Mr. Glover
+
+[program.701972]
+Pretty Flowers
+
+[program.701980]
+Pretty flowers from the florist
+
+[program.702001]
+Rare Book
+
+[program.702008]
+A very rare book
+
+[program.702019]
+Izumo Charm
+
+[program.702028]
+Charm full of Izumo Shrine's power
+
+[program.702053]
+Magatama
+
+[program.702058]
+Legendary jewel of Izumo Shrine
+
+[program.702081]
+Hotel Invitation
+
+[program.702092]
+Invitation to the Mirage House
+
+[program.702109]
+Lesson Letter 1
+
+[program.702119]
+The secret of the Wild Slash
+
+[program.702141]
+Lesson Letter 2
+
+[program.702151]
+The secret of the X-Counter
+
+[program.702175]
+Lesson Letter 3
+
+[program.702185]
+The secret of the No-Guard Slash
+
+[program.702211]
+Lesson Letter 4
+
+[program.702221]
+The secret of the White Ash Slash
+
+[program.702246]
+Lesson Letter 5
+
+[program.702256]
+The secret of the WX-Counter
+
+[program.702281]
+{NAME:03}'s Letter
+
+[program.702289]
+From {NAME:03} to {NAME:01}
+
+[program.702302]
+Heart Pendant
+
+[program.702314]
+A charm holding {NAME:03}'s love
+
+[program.702331]
+Dragon Ring
+
+[program.702339]
+A ring carved with a dragon
+
+[program.702358]
+Yellow Powder
+
+[program.702366]
+An artificial yellow powder
+
+[program.702386]
+Train Tickets
+
+[program.702396]
+Trans-Siberian tickets for three
+
+[program.702417]
+Portrait
+
+[program.702424]
+Drawn by the young painter
+
+[program.702448]
+Prayer Flute
+
+[program.702455]
+A flute full of prayer
+
+[program.702474]
+Dolphin Flute
+
+[program.702481]
+Dolphin-shaped flute. A strange tone
+
+[program.702508]
+Royal Crest
+
+[program.702518]
+Lets you into the royal tomb
+
+[program.702548]
+Kiki's Pendant
+
+[program.702559]
+Kiki's trademark pendant
+
+[program.702580]
+Lemur Crest
+
+[program.702590]
+Marked like Lemur's shrine
+
+[program.702617]
+Amazing Jewel
+
+[program.702626]
+Captain Kukkuk's amazing jewel
+
+[program.702652]
+Forged Pass
+
+[program.702660]
+A pass across the NY Bridge
+
+[program.702685]
+Troupe ID Card
+
+[program.702696]
+ID for those who passed the audition
+
+[program.702719]
+Jail Key
+
+[program.702728]
+Key to the UN Building jail
+
+[program.702746]
+Flight Stone
+
+[program.702753]
+Strange stone from the mothership
+
+[program.702779]
+Stone Right Eye
+
+[program.702790]
+Right eye of a giant stone Moai
+
+[program.702813]
+Stone Left Eye
+
+[program.702824]
+Left eye of a giant stone Moai
+
+[program.702847]
+Holy Crest
+
+[program.702856]
+Said to lead to Lemuria
+
+[program.702881]
+Noah's Crest
+
+[program.702889]
+Engraved Noah in ancient script
+
+[program.702915]
+Giant Diamond
+
+[program.702925]
+Found in the Ice Cave
+
+[program.702950]
+Declaration
+
+[program.702959]
+A book from an age of ideals
+
+[program.702988]
+Stone of Truth
+
+[program.702996]
+A stone carved with a sacred bird
+
+[program.703019]
+Zoo Key
+
+[program.703030]
+Zoo key dropped at Inuyama Zoo
+
+[program.703056]
+Enter a name
+
+[program.703072]
+Read more
+
+[program.703080]
+Turn page
+
+[program.703090]
+Previous page
+
+[program.703104]
+First page
+
+[program.703123]
+Last page
+
+[program.703147]
+Close diary
+
+[program.703158]
+Croiset's Words
+
+[program.703171]
+About Psycho
+
+[program.703179]
+About Chakras
+
+[program.703188]
+Using Chakras
+
+[program.703199]
+About this world
+
+[program.703210]
+MAP
+
+[program.703214]
+Write in which diary?
+
+[program.703230]
+Read which diary?
+
+[program.703246]
+Yes
+
+[program.703249]
+No
+
+[program.703271]
+No data
+
+[program.703283]
+No memory card inserted
+
+[program.703302]
+Couldn't read the memory card
+
+[program.703327]
+Save failed
+
+[program.703341]
+Load failed
+
+[program.703355]
+Couldn't format
+
+[program.703372]
+Not enough free blocks
+
+[program.703388]
+This memory card
+
+[program.703400]
+is not formatted
+
+[program.703414]
+Format it?
+
+[program.703426]
+Overwrite?　　　 Yes　No
+
+[program.703444]
+Checking memory card
+
+[program.703459]
+Saving
+
+[program.703471]
+Save complete
+
+[program.703485]
+Loading
+
+[program.703497]
+Load complete
+
+[program.711940]
+GoldBanana
+
+[program.711950]
+Monkey Pill
+
+[program.711955]
+Honest Pill
+
+[program.711962]
+Power Wtr
+
+[program.711968]
+Big Pow.Wtr
+
+[program.711976]
+Heart Wtr
+
+[program.711982]
+Big Hrt.Wtr
+
+[program.711990]
+Life Wtr
+
+[program.711996]
+Antidote
+
+[program.712002]
+Eye Drops
+
+[program.712008]
+Softna
+
+[program.712012]
+Clinna
+
+[program.712017]
+Miss You
+
+[program.712022]
+Miss You SP
+
+[program.712029]
+Tranza
+
+[program.712035]
+Eel Pie
+
+[program.712043]
+RainbowDew
+
+[program.712051]
+Soul Pill
+
+[program.712057]
+Poison Ball
+
+[program.712064]
+Psycho Ess.
+
+[program.712071]
+Guard Ess.
+
+[program.712078]
+Speed Ess.
+
+[program.712087]
+Str. Ess.
+
+[program.712094]
+Spirit Ess.
+
+[program.712102]
+Life Ess.
+
+[program.712109]
+Salts
+
+[program.712116]
+Myaa Sake
+
+[program.712122]
+Peel
+
+[program.712130]
+Banana
+
+[program.712135]
+Red Mask
+
+[program.712143]
+Blue Mask
+
+[program.712151]
+S Guard
+
+[program.712159]
+Old Egg
+
+[program.712165]
+Herbal Pill
+
+[program.712173]
+Toad Oil
+
+[program.712180]
+Uiro
+
+[program.712185]
+Red Apple
+
+[program.712193]
+Okonomi
+
+[program.712201]
+Caviar
+
+[program.712207]
+Durian
+
+[program.712213]
+Hot Dog
+
+[program.712221]
+Shochu
+
+[program.712228]
+Hibiscus
+
+[program.712237]
+Vodka
+
+[program.712242]
+Red Wine
+
+[program.712248]
+White Wine
+
+[program.712254]
+Scotch
+
+[program.712259]
+F Cocktail
+
+[program.712265]
+Bourbon
+
+[program.712272]
+Tequila
+
+[program.712277]
+Salmon
+
+[program.712286]
+Gold Ice
+
+[program.712295]
+Laojiu
+
+[program.712301]
+Zubrowka
+
+[program.712309]
+Bush Brew
+
+[program.712319]
+Masai Brew
+
+[program.712326]
+C-Store Bun
+
+[program.712334]
+Toad Bun
+
+[program.712340]
+Miso Bun
+
+[program.712347]
+Myaa Bun
+
+[program.712353]
+Tako Bun
+
+[program.712360]
+Animal Bun
+
+[program.712367]
+Shisa Bun
+
+[program.712374]
+Harbor Bun
+
+[program.712380]
+Nebuta Bun
+
+[program.712387]
+Mirage Bun
+
+[program.712395]
+Meteor Bun
+
+[program.712402]
+Snow Bun
+
+[program.712408]
+Rebun Bun
+
+[program.712415]
+Siberia Bun
+
+[program.712423]
+China Bun
+
+[program.712430]
+Ramen Bun
+
+[program.712437]
+Effort Bun
+
+[program.712445]
+Pearl Bun
+
+[program.712453]
+Train Bun
+
+[program.712461]
+Pirog Bun
+
+[program.712469]
+Red Bun
+
+[program.712475]
+Hurrah Bun
+
+[program.712482]
+Dover Bun
+
+[program.712491]
+Louvre Bun
+
+[program.712499]
+Dolphin Bun
+
+[program.712505]
+Kasbah Bun
+
+[program.712512]
+Golden Bun
+
+[program.712520]
+Doom Bun
+
+[program.712529]
+Monkey Bun
+
+[program.712536]
+Koala Bun
+
+[program.712542]
+Shroom Bun
+
+[program.712548]
+Pirate Bun
+
+[program.712556]
+Harlem Bun
+
+[program.712563]
+Rich Bun
+
+[program.712569]
+Mickey Bun
+
+[program.712576]
+Aztec Bun
+
+[program.712583]
+Sun Bun
+
+[program.712590]
+Nazca Bun
+
+[program.712596]
+Ararat Bun
+
+[program.712603]
+Silver Bun
+
+[program.712611]
+Saved Bun
+
+[program.712617]
+Naughty Bn
+
+[program.712623]
+Lemur Bun
+
+[program.712630]
+Luna Bun
+
+[program.712635]
+Whale Bun
+
+[program.712642]
+Bento
+
+[program.712649]
+Blouse
+
+[program.712655]
+Monkey Pin
+
+[program.712663]
+Takoyaki
+
+[program.712668]
+Castella
+
+[program.712673]
+Baobab
+
+[program.712684]
+Gale Sword
+
+[program.712691]
+Poison Jar
+
+[program.712697]
+Salt
+
+[program.712705]
+Cracker
+
+[program.712711]
+Towel
+
+[program.712715]
+Bless Swd
+
+[program.712724]
+Train Swd
+
+[program.712734]
+Dark Sword
+
+[program.712743]
+Tear Gem
+
+[program.712751]
+Samurai
+
+[program.712760]
+Clear Wear
+
+[program.712768]
+Bat
+
+[program.712773]
+Inro
+
+[program.712778]
+Metal Swd
+
+[program.712786]
+Titan Swd
+
+[program.712794]
+Qing Blade
+
+[program.712801]
+Bio Sword
+
+[program.712810]
+Mega Sword
+
+[program.712818]
+Champ Swd
+
+[program.712827]
+Bat Sword
+
+[program.712836]
+Aurora Swd
+
+[program.712844]
+Shachi Swd
+
+[program.712852]
+Rare Gun
+
+[program.712861]
+Core Sword
+
+[program.712868]
+CrystalSwd
+
+[program.712876]
+Nambu Gun
+
+[program.712887]
+Wave Sword
+
+[program.712894]
+Shock Swd
+
+[program.712901]
+Rifle
+
+[program.712906]
+Zombie Kill
+
+[program.712915]
+L Saber
+
+[program.712922]
+Planet Gun
+
+[program.712933]
+Sandals
+
+[program.712942]
+Rare Sword
+
+[program.712951]
+Happy Swd
+
+[program.712960]
+Red Pistol
+
+[program.712968]
+Matchlock
+
+[program.712975]
+MG
+
+[program.712982]
+Recoil Gun
+
+[program.712989]
+EM Sword
+
+[program.712996]
+Laser Gun
+
+[program.713004]
+Ice Gun
+
+[program.713011]
+Mango Gun
+
+[program.713020]
+Ray Bazook
+
+[program.713029]
+Zero K Gun
+
+[program.713039]
+Launcher
+
+[program.713047]
+B Cannon
+
+[program.713053]
+Wave Gun
+
+[program.713060]
+Recoilless
+
+[program.713069]
+Indra Gun
+
+[program.713079]
+Plasma Gun
+
+[program.713088]
+Shotgun
+
+[program.713096]
+Beretta
+
+[program.713102]
+Qing Gun
+
+[program.713109]
+Derringer
+
+[program.713118]
+Happy Gun
+
+[program.713127]
+Bio Gun
+
+[program.713135]
+Tiger Pin
+
+[program.713143]
+Bless Knife
+
+[program.713151]
+Metal Knife
+
+[program.713158]
+Titan Knife
+
+[program.713165]
+China Knife
+
+[program.713176]
+Combat Knf
+
+[program.713186]
+Bio Knife
+
+[program.713194]
+Q Knife
+
+[program.713199]
+Guru Knife
+
+[program.713209]
+Rare Shoes
+
+[program.713216]
+Venom Knf
+
+[program.713225]
+Air Knife
+
+[program.713232]
+Gloves
+
+[program.713241]
+Core Hand
+
+[program.713248]
+Killer Hand
+
+[program.713256]
+Mecha Hand
+
+[program.713263]
+God Hand
+
+[program.713273]
+Devil Claw
+
+[program.713282]
+Iron Claw
+
+[program.713288]
+Scorp Claw
+
+[program.713295]
+Short Swd
+
+[program.713300]
+Maya Whip
+
+[program.713306]
+Chakram
+
+[program.713313]
+Halo Ring
+
+[program.713319]
+Rare Wig
+
+[program.713327]
+Mutsu Blade
+
+[program.713338]
+Cap
+
+[program.713346]
+Train Helm
+
+[program.713356]
+Metal Helm
+
+[program.713363]
+Titan Helm
+
+[program.713370]
+Qing Hood
+
+[program.713379]
+Mecha Helm
+
+[program.713385]
+Battle Helm
+
+[program.713393]
+Hard Hat
+
+[program.713403]
+Old Helm
+
+[program.713413]
+Guru Pin
+
+[program.713424]
+Bandana
+
+[program.713431]
+Headband
+
+[program.713440]
+Naga Crown
+
+[program.713448]
+Feather Hat
+
+[program.713459]
+Fur Hat
+
+[program.713469]
+Gold Tiara
+
+[program.713477]
+Haramaki
+
+[program.713482]
+Turban
+
+[program.713488]
+Fur Hood
+
+[program.713498]
+Wolf Hood
+
+[program.713506]
+Tiger Hood
+
+[program.713516]
+Mystic Hood
+
+[program.713526]
+Old Hood
+
+[program.713536]
+Jikatabi
+
+[program.713543]
+Bless Suit
+
+[program.713551]
+Bless Helm
+
+[program.713559]
+Mu Helm
+
+[program.713567]
+T-Shirt
+
+[program.713572]
+Train Suit
+
+[program.713582]
+Leotard
+
+[program.713589]
+Metal Suit
+
+[program.713596]
+Titan Suit
+
+[program.713603]
+MechaSuit+
+
+[program.713611]
+Silver Arm
+
+[program.713618]
+Mecha Suit
+
+[program.713624]
+Battle Suit
+
+[program.713632]
+Royal Arm
+
+[program.713641]
+Old Armor
+
+[program.713650]
+Guru Robe
+
+[program.713658]
+Tank Top
+
+[program.713666]
+Silk Suit
+
+[program.713673]
+Fur Coat
+
+[program.713682]
+Silk Cape
+
+[program.713689]
+Fur Coat
+
+[program.713698]
+Umeboshi
+
+[program.713704]
+Mu Robe
+
+[program.713712]
+Cotton Robe
+
+[program.713719]
+Hide Robe
+
+[program.713725]
+Silk Robe
+
+[program.713732]
+Tiger Robe
+
+[program.713738]
+Mystic Robe
+
+[program.713746]
+Old Robe
+
+[program.713754]
+Clear Suit
+
+[program.713761]
+Core Suit
+
+[program.713767]
+Qipao
+
+[program.713780]
+Core Cap
+
+[program.713788]
+Core Boots
+
+[program.713795]
+Smart Wear
+
+[program.713803]
+Men's Suit
+
+[program.713811]
+Wind Armor
+
+[program.713820]
+Lemur Robe
+
+[program.713828]
+Mu Armor
+
+[program.713835]
+Bolt Armor
+
+[program.713844]
+MechaHelm+
+
+[program.713852]
+Rainbow
+
+[program.713859]
+Rare Specs
+
+[program.713868]
+Sneakers
+
+[program.713874]
+TrainBoots
+
+[program.713885]
+Ribbon
+
+[program.713890]
+Titan Boots
+
+[program.713898]
+CopperShoe
+
+[program.713904]
+Qing Shoes
+
+[program.713911]
+Mech Boots
+
+[program.713918]
+Battle Boot
+
+[program.713927]
+Psy Boots
+
+[program.713935]
+Old Shoes
+
+[program.713943]
+Guru Zori
+
+[program.713953]
+Pumps
+
+[program.713960]
+MechBoots+
+
+[program.713969]
+Glass Shoe
+
+[program.713977]
+SmartShoes
+
+[program.713985]
+Psy Boots
+
+[program.713993]
+Bless Boots
+
+[program.714002]
+Wolf Zori
+
+[program.714010]
+Sandals
+
+[program.714015]
+Mu Shoes
+
+[program.714021]
+Bless Swd
+
+[program.714030]
+China Boots
+
+[program.714041]
+GandhiRobe
+
+[program.714051]
+Snowshoes
+
+[program.714057]
+Holy Ring
+
+[program.714066]
+Earrings
+
+[program.714073]
+SaneBangle
+
+[program.714084]
+CossackCap
+
+[program.714091]
+Cossack
+
+[program.714099]
+Clinna Ring
+
+[program.714108]
+Eye Patch
+
+[program.714115]
+Fire Chain
+
+[program.714125]
+HonestSpex
+
+[program.714134]
+Ice Chain
+
+[program.714144]
+Bolt Chain
+
+[program.714154]
+Wind Chain
+
+[program.714164]
+Black Pearl
+
+[program.714176]
+Triple Ring
+
+[program.714185]
+Stone Ring
+
+[program.714196]
+Watch
+
+[program.714207]
+Star Chain
+
+[program.714217]
+Moon Chain
+
+[program.714227]
+Moon Ring
+
+[program.714239]
+Shisa Swd
+
+[program.714247]
+Dragon Swd
+
+[program.714258]
+MirrorHelm
+
+[program.714268]
+Bun Sword
+
+[program.714277]
+Bun Ball
+
+[program.714286]
+Bun Shoes
+
+[program.714295]
+Bun Bangle
+
+[program.714304]
+Bun Helm
+
+[program.714313]
+Bun Stone
+
+[program.714320]
+Bun Knife
+
+[program.714328]
+Bun Disc
+
+[program.714338]
+Bun Pill
+
+[program.714345]
+Bun Cannon
+
+[program.714354]
+Bun Undies
+
+[program.714363]
+Sucker
+
+[program.714370]
+Nightie
+
+[program.714376]
+Bun Robe
+
+[program.714385]
+ApeEarring
+
+[program.714394]
+Red Sword
+
+[program.714403]
+Brush
+
+[program.714413]
+Ice Guard
+
+[program.714422]
+Seal Boots
+
+[program.714431]
+Crystal Orb
+
+[program.714439]
+Red Sash
+
+[program.714446]
+Lupin Suit
+
+[program.714454]
+Sunglasses
+
+[program.714461]
+Charm
+
+[program.714466]
+Lemur Swd
+
+[program.714474]
+Beads
+
+[program.714480]
+KowloonArm
+
+[program.714489]
+Sundress
+
+[program.714496]
+Silver Ring
+
+[program.714505]
+Tiger Zori
+
+[program.714515]
+Mu Chain
+
+[program.714524]
+Max Pow.Wtr
+
+[program.714532]
+Max Hrt.Wtr
+
+[program.714540]
+MaxLifeWtr
+
+[program.714548]
+Core Knife
+
+[program.714554]
+Lem Chain
+
+[program.714563]
+QueenDress
+
+[program.714573]
+Mystic Zori
+
+[program.714583]
+CossackSwd
+
+[program.714591]
+Miss You G
+
+[program.714597]
+Rare Arm
+
+[program.714606]
+Bless Pin
+
+[program.714617]
+Mad Hand
+
+[program.714626]
+High-Cut
+
+[program.714636]
+Panda Pin
+
+[program.714647]
+Metal Boots
+
+[program.714655]
+Aloha Shirt
+
+[program.714662]
+Red Shoes
+
+[program.716072]
+Restores 250 HP, 150 MP
+
+[program.716092]
+Cures an ally's Monkey
+
+[program.716115]
+Cures Charm
+
+[program.716135]
+Restores 50 HP
+
+[program.716147]
+Restores 250 HP
+
+[program.716160]
+Restores 25 MP
+
+[program.716172]
+Restores 150 MP
+
+[program.716185]
+Restores 250 HP, 150 MP
+
+[program.716205]
+Cures Poison
+
+[program.716224]
+Cures Dizzy
+
+[program.716245]
+Cures Paralysis
+
+[program.716263]
+Cures all but KO
+
+[program.716290]
+Revives with 25 HP
+
+[program.716314]
+Revives with 250 HP
+
+[program.716338]
+Cures Confusion
+
+[program.716358]
+Restores all HP
+
+[program.716370]
+Cures Sleep
+
+[program.716389]
+Cures Husk
+
+[program.716410]
+Poisons a foe
+
+[program.716424]
+Raises max MP
+
+[program.716439]
+Raises Defense
+
+[program.716452]
+Raises Speed
+
+[program.716467]
+Raises Strength
+
+[program.716480]
+Raises Spirit
+
+[program.716494]
+Raises max HP
+
+[program.716509]
+Cures Bliss
+
+[program.716530]
+Japan's tastiest sake, myaa
+
+[program.716544]
+Trips a foe so it can't move
+
+[program.716562]
+Turns a foe into a monkey
+
+[program.716575]
+Mask that calls Kamokamo
+
+[program.716590]
+Mask that calls Gaiaman
+
+[program.716607]
+Raises Psycho Defense
+
+[program.716623]
+Raises smash hit rate
+
+[program.716636]
+Anything could happen
+
+[program.716650]
+Heals wounds cleanly
+
+[program.716663]
+Charms a foe
+
+[program.716677]
+Revives with 250 HP
+
+[program.716703]
+Restores 250 HP
+
+[program.716716]
+Confuses a foe
+
+[program.716731]
+Restores all HP
+
+[program.716743]
+In battle, acts as Quake
+
+[program.716765]
+Confuses a foe
+
+[program.716780]
+Double Cosmo Stones on a win
+
+[program.716802]
+Confuses all foes
+
+[program.716821]
+Paralyzes a foe
+
+[program.716834]
+Puts a foe to sleep
+
+[program.716848]
+Charms a foe
+
+[program.716862]
+Double EXP on a win
+
+[program.716883]
+Thrown: fire on all foes
+
+[program.716906]
+Double EXP on a win
+
+[program.716927]
+Thrown: fire attack
+
+[program.716943]
+Thrown: ice attack
+
+[program.716959]
+Paralyzes a foe
+
+[program.716972]
+Thrown: fire attack
+
+[program.716988]
+Double Cosmo Stones on a win
+
+[program.717010]
+Paralyzes a foe
+
+[program.717023]
+Restores 50 HP
+
+[program.717035]
+Restores 50 HP
+
+[program.717047]
+Restores 50 HP
+
+[program.717059]
+Restores 50 HP
+
+[program.717071]
+Restores 50 HP
+
+[program.717083]
+Restores 50 HP
+
+[program.717095]
+Restores 50 HP
+
+[program.717107]
+Restores 50 HP
+
+[program.717119]
+Restores 50 HP
+
+[program.717131]
+Restores 50 HP
+
+[program.717143]
+Restores 50 HP
+
+[program.717155]
+Restores 50 HP
+
+[program.717167]
+Restores 50 HP
+
+[program.717179]
+Restores 50 HP
+
+[program.717191]
+Restores 50 HP
+
+[program.717203]
+Restores 250 HP
+
+[program.717216]
+Restores 250 HP
+
+[program.717229]
+Restores 250 HP
+
+[program.717242]
+Restores 250 HP
+
+[program.717255]
+Restores 250 HP
+
+[program.717268]
+Restores 250 HP
+
+[program.717281]
+Restores 250 HP
+
+[program.717294]
+Restores 250 HP
+
+[program.717307]
+Restores 250 HP
+
+[program.717320]
+Restores 250 HP
+
+[program.717333]
+Restores 250 HP
+
+[program.717346]
+Restores 250 HP
+
+[program.717359]
+Restores 250 HP
+
+[program.717372]
+Restores 250 HP
+
+[program.717385]
+Restores 250 HP
+
+[program.717398]
+Restores 250 HP
+
+[program.717411]
+Restores 250 HP
+
+[program.717424]
+Restores 250 HP
+
+[program.717437]
+Restores 250 HP
+
+[program.717450]
+Restores 250 HP
+
+[program.717463]
+Restores 250 HP
+
+[program.717476]
+Restores 250 HP
+
+[program.717489]
+Restores 250 HP
+
+[program.717502]
+Restores 250 HP
+
+[program.717515]
+Restores 250 HP
+
+[program.717528]
+Restores 250 HP
+
+[program.717541]
+Restores 250 HP
+
+[program.717554]
+Restores 250 HP
+
+[program.717567]
+Restores 250 HP
+
+[program.717580]
+Restores 250 HP
+
+[program.717593]
+Restores 50 HP
+
+[program.717605]
+A cute frilly blouse
+
+[program.717622]
+Monkey badge. Raises evasion
+
+[program.717646]
+Neo-Kobe's famous takoyaki
+
+[program.717666]
+Nagasaki's famous castella
+
+[program.717685]
+Cape Kibou birds love it
+
+[program.717710]
+Always strikes first
+
+[program.717731]
+Kills a foe in a few turns
+
+[program.717751]
+Makes a foe dizzy
+
+[program.717761]
+Drives a foe away
+
+[program.717770]
+Forces a battle to end
+
+[program.717785]
+Bless army sword
+
+[program.717801]
+Cardboard training sword
+
+[program.717824]
+Dark Soldier's sword
+
+[program.717842]
+Cures Mummy
+
+[program.717858]
+Samurai armor of old
+
+[program.717882]
+Director Pierre's chic outfit
+
+[program.717901]
+Your trusty plastic bat
+
+[program.717921]
+Inro with the Myaa crest
+
+[program.717941]
+Bless special forces sword
+
+[program.717967]
+Light, handy new sword
+
+[program.717986]
+Big-bladed combat sword
+
+[program.718005]
+Oceania Bless's newest sword
+
+[program.718026]
+Sometimes casts Megafa
+
+[program.718048]
+Dan Kichi's sword
+
+[program.718065]
+Made by Batty with love
+
+[program.718089]
+Polar Bless's best laser sword
+
+[program.718114]
+Myaa Town treasure. Hits all
+
+[program.718137]
+A very rare trick gun
+
+[program.718159]
+New sword of the old Russian army
+
+[program.718185]
+Legendary sword of the Andes
+
+[program.718205]
+Old Japanese pistol
+
+[program.718219]
+Energy wave slashes all foes
+
+[program.718243]
+Sword shaped like a blowfish
+
+[program.718256]
+Big long-barreled gun
+
+[program.718272]
+Strong against spirit foes
+
+[program.718291]
+Bless's newest laser sword
+
+[program.718314]
+Energy cannon. Hits all foes
+
+[program.718339]
+African tiger-skin sandals
+
+[program.718360]
+A suuuper rare weapon
+
+[program.718379]
+Using it makes you happy
+
+[program.718399]
+Common mass-made gear
+
+[program.718421]
+Strong but often misses
+
+[program.718446]
+Damages all foes
+
+[program.718465]
+New bazooka
+
+[program.718478]
+N.Y. Bless's strong EM sword
+
+[program.718507]
+Very accurate laser gun
+
+[program.718528]
+Sometimes adds Fuba
+
+[program.718549]
+Alien ray gun
+
+[program.718566]
+Old Bless navy bazooka
+
+[program.718591]
+Sometimes adds Refuba
+
+[program.718613]
+Old US Army rocket launcher
+
+[program.718636]
+Huge damage to one foe
+
+[program.718663]
+Strong wave damages foes
+
+[program.718689]
+Improved Recoil Cannon
+
+[program.718715]
+Sometimes casts Gigathunder
+
+[program.718737]
+N.Y. Bless's strong EM cannon
+
+[program.718766]
+Power at the cost of aim
+
+[program.718794]
+Common small pistol
+
+[program.718820]
+Chinese .44 big pistol
+
+[program.718845]
+Small but packs a punch
+
+[program.718869]
+Using it makes you happy
+
+[program.718885]
+Oceania Bless's newest gun
+
+[program.718904]
+Tiger badge. Raises attack
+
+[program.718928]
+Common Bless army knife
+
+[program.718951]
+Bless special forces knife
+
+[program.718976]
+Light, handy new knife
+
+[program.718994]
+Chinese combat knife
+
+[program.719013]
+Old People's Army knife
+
+[program.719030]
+Oceania Bless's newest knife
+
+[program.719050]
+Ancient knife that heals HP
+
+[program.719072]
+Fatima cult ritual knife
+
+[program.719090]
+Rare shoes for agility
+
+[program.719111]
+Sometimes poisons a foe
+
+[program.719132]
+Cuts even the air
+
+[program.719146]
+Cotton training gloves
+
+[program.719167]
+Old Russian army winter gloves
+
+[program.719194]
+KGB anti-alien weapon, hits all
+
+[program.719220]
+A mighty punch
+
+[program.719241]
+Sometimes KOs a foe
+
+[program.719259]
+Gloves with devil claws
+
+[program.719274]
+Bless's newest weapon
+
+[program.719292]
+Sometimes poisons a foe
+
+[program.719313]
+A small short sword
+
+[program.719329]
+Legendary whip of Chichen Itza
+
+[program.719349]
+Can hit all foes
+
+[program.719362]
+Can hit all foes
+
+[program.719375]
+Rare wig that makes you smart
+
+[program.719396]
+Famous blade of Osore Village
+
+[program.719414]
+Your everyday cap. Dirty
+
+[program.719435]
+Light training helmet
+
+[program.719451]
+Bless special forces helm
+
+[program.719474]
+MI6 combat helm
+
+[program.719495]
+Ceramic combat helm
+
+[program.719516]
+Helmet with an IC chip
+
+[program.719535]
+Bless's newest combat helmet
+
+[program.719558]
+A construction helmet
+
+[program.719576]
+An ancient helm
+
+[program.719586]
+Fatima guru's hairpin
+
+[program.719604]
+Favorite flowery bandana
+
+[program.719625]
+A headband for fighting spirit
+
+[program.719643]
+Crown like a coiled Naga
+
+[program.719665]
+Chic hat from Witton
+
+[program.719686]
+Brown bear fur hat
+
+[program.719706]
+Fine gold tiara
+
+[program.719724]
+Dan Kichi's belly warmer
+
+[program.719740]
+Cotton training turban
+
+[program.719762]
+Chic hood from Witton
+
+[program.719783]
+Wolf fur turban
+
+[program.719803]
+African tiger-skin hood
+
+[program.719823]
+Raises Psycho Defense
+
+[program.719840]
+Hood of an ancient god
+
+[program.719852]
+Dan Kichi's jikatabi
+
+[program.719870]
+Bless army suit
+
+[program.719885]
+Bless army helmet
+
+[program.719902]
+Legendary helm of Mu
+
+[program.719925]
+New shirt bought for the trip
+
+[program.719944]
+Light training suit
+
+[program.719958]
+Makes you look sexy
+
+[program.719972]
+Bless special forces suit
+
+[program.719995]
+MI6 combat suit
+
+[program.720016]
+Bless's electronic suit
+
+[program.720043]
+Le Nault's new combat suit
+
+[program.720064]
+Suit with an IC chip
+
+[program.720083]
+Bless's newest combat suit
+
+[program.720104]
+King's armor
+
+[program.720114]
+Armor of an ancient god
+
+[program.720125]
+Fatima cult vestment
+
+[program.720138]
+Easy-moving women's wear
+
+[program.720154]
+Skin-friendly combat suit
+
+[program.720171]
+Brown bear fur coat
+
+[program.720190]
+Lawrence of Arabia wore it
+
+[program.720208]
+Fine fur coat
+
+[program.720226]
+Paralyzes a foe
+
+[program.720239]
+Legendary vestment of Mu
+
+[program.720262]
+Cotton training robe
+
+[program.720281]
+Chic robe from Witton
+
+[program.720300]
+Enchanted silk robe
+
+[program.720317]
+African tiger-skin robe
+
+[program.720335]
+Robe of esoteric monks
+
+[program.720354]
+Legendary ancient robe
+
+[program.720377]
+Blocks all ailments
+
+[program.720392]
+Old Russian army suit
+
+[program.720411]
+Red silk Chinese dress
+
+[program.720435]
+Old Russian army hat
+
+[program.720455]
+Old Russian army boots
+
+[program.720475]
+Dress from Tefamy
+
+[program.720492]
+Fine Marmani suit
+
+[program.720506]
+Armor of the wind god
+
+[program.720525]
+Legendary robe of Lemuria
+
+[program.720542]
+Legendary armor of Mu
+
+[program.720564]
+Armor of the thunder god
+
+[program.720583]
+Bless's electronic helmet
+
+[program.720610]
+Special suit that blocks Sleep
+
+[program.720625]
+Rare glasses for accuracy
+
+[program.720648]
+Worn-out sneakers
+
+[program.720661]
+Light training boots
+
+[program.720676]
+A big red ribbon
+
+[program.720691]
+MI6 combat boots
+
+[program.720713]
+Old Russian army spikes
+
+[program.720735]
+Ceramic combat boots
+
+[program.720757]
+Boots with an IC chip
+
+[program.720777]
+Bless's newest combat boots
+
+[program.720799]
+Boots with high Psycho Def.
+
+[program.720822]
+Legendary ancient shoes
+
+[program.720845]
+Fatima guru's sandals
+
+[program.720863]
+Slightly big pumps
+
+[program.720879]
+Bless's electronic boots
+
+[program.720907]
+Cinderella's lost shoe..?
+
+[program.720928]
+Chic heels from Tefamy
+
+[program.720951]
+Turbo boots, high Psycho Def.
+
+[program.720974]
+Bless army boots
+
+[program.720990]
+Wolf fur sandals
+
+[program.721010]
+Cotton training sandals
+
+[program.721031]
+Legendary shoes of Mu
+
+[program.721052]
+Attack Team sword
+
+[program.721067]
+Red silk high heels
+
+[program.721088]
+Gandhi's everyday robe
+
+[program.721107]
+Footwear of the north
+
+[program.721121]
+Raises many stats
+
+[program.721141]
+Raises evasion
+
+[program.721163]
+Blocks Confusion
+
+[program.721182]
+Cossack combat hat
+
+[program.721207]
+Cossack combat outfit
+
+[program.721232]
+Blocks Sleep/Paralysis/Poison
+
+[program.721248]
+Blocks Dizzy
+
+[program.721270]
+Softens fire damage
+
+[program.721287]
+Blocks Charm
+
+[program.721308]
+Softens ice damage
+
+[program.721325]
+Softens thunder damage
+
+[program.721342]
+Softens wind damage
+
+[program.721359]
+Reflects all Psycho
+
+[program.721376]
+Ring from Tefamy
+
+[program.721394]
+Blocks many ailments
+
+[program.721414]
+Agyo-san, sagyo-go
+
+[program.721428]
+Max HP up 50%
+
+[program.721444]
+Max MP up 50%
+
+[program.721460]
+Blocks some ailments
+
+[program.721482]
+Legendary sword of Ryukyu
+
+[program.721501]
+Fabled ancient Chinese sword
+
+[program.721523]
+Legendary helm of Izumo
+
+[program.721544]
+Strange sword, strikes first
+
+[program.721571]
+Strange ball, Defense up 50%
+
+[program.721598]
+Strange shoes, heal as you walk
+
+[program.721626]
+Raises stats
+
+[program.721637]
+Blocks many ailments
+
+[program.721658]
+Double money and EXP
+
+[program.721676]
+Sometimes KOs a foe
+
+[program.721694]
+Sometimes KOs a foe
+
+[program.721712]
+Revives with full HP
+
+[program.721737]
+Strange bazooka, strikes first
+
+[program.721768]
+The Bun King's daughter's panties
+
+[program.721786]
+Blocks Dizzy
+
+[program.721808]
+A girl's slightly naughty nightie
+
+[program.721828]
+Very strange robe, raises Spirit
+
+[program.721855]
+Handmade monkey earring
+
+[program.721876]
+The Moscow mayor's secret sword
+
+[program.721900]
+Leonardo da Vinci's brush
+
+[program.721925]
+Blocks Frostbite
+
+[program.721947]
+Sealskin boots
+
+[program.721965]
+Crystal ball. Raises Spirit Def.
+
+[program.721996]
+A sash for fighting spirit
+
+[program.722013]
+Lupin the thief's suit
+
+[program.722035]
+Raises attack when worn
+
+[program.722054]
+A good luck charm
+
+[program.722064]
+Treasured sword of Lemur
+
+[program.722078]
+A monk's big prayer beads
+
+[program.722102]
+Armor shaped like nine dragons
+
+[program.722120]
+Cute flowery sundress
+
+[program.722138]
+Raises evasion
+
+[program.722160]
+African tiger-skin sandals
+
+[program.722181]
+Blocks some ailments
+
+[program.722203]
+Restores all HP
+
+[program.722215]
+Restores all MP
+
+[program.722227]
+Restores all HP/MP
+
+[program.722242]
+New knife of the old Russian army
+
+[program.722267]
+Lem's favorite necklace
+
+[program.722284]
+Juliet's dress from the stage
+
+[program.722310]
+Sandals of esoteric monks
+
+[program.722332]
+Cossack combat greatsword
+
+[program.722355]
+Revives with full HP
+
+[program.722380]
+Mr. Glover's rare weapon
+
+[program.722406]
+Attack Team members' badge
+
+[program.722430]
+Sometimes poisons a foe
+
+[program.722451]
+Super sexy high-cut swimsuit
+
+[program.722471]
+Panda badge. Raises Defense
+
+[program.722498]
+Bless special forces boots
+
+[program.722524]
+Aloha shirt with fruit print
+
+[program.722544]
+Cute red shoes
+
+[program.723756]
+K
+
+[program.723759]
+W
+
+[program.723762]
+H
+
+[program.723765]
+S
+
+[program.723768]
+N
+
+[program.723771]
+J
+
+[program.723774]
+P
+
+[program.724270]
+Saifa
+
+[program.724275]
+Megafa
+
+[program.724281]
+Gigafa
+
+[program.724288]
+Burnadora
+
+[program.724297]
+Thunder
+
+[program.724303]
+Megathunder
+
+[program.724312]
+Gigathunder
+
+[program.724322]
+Pranadora
+
+[program.724331]
+Fuba
+
+[program.724336]
+Refuba
+
+[program.724342]
+Zefuba
+
+[program.724349]
+Blidora
+
+[program.724357]
+Magnadora
+
+[program.724366]
+Geoladora
+
+[program.724375]
+Gleadora
+
+[program.724385]
+Riqua
+
+[program.724389]
+Riquas
+
+[program.724394]
+Riqual
+
+[program.724399]
+Riquaza
+
+[program.724406]
+Riquadora
+
+[program.724414]
+Poisona
+
+[program.724421]
+Love
+
+[program.724425]
+Parazona
+
+[program.724432]
+Orgas
+
+[program.724438]
+Exas
+
+[program.724443]
+Fire damage to one foe
+
+[program.724461]
+Fire damage to all foes
+
+[program.724479]
+Thunder damage to one foe
+
+[program.724497]
+Thunder damage to all foes
+
+[program.724515]
+Ice damage to one foe
+
+[program.724533]
+Ice damage to all foes
+
+[program.724552]
+Heals one ally's HP
+
+[program.724568]
+Heals all allies' HP
+
+[program.724584]
+Cures Poison
+
+[program.724603]
+Revives from KO
+
+[program.724619]
+Cures Paralysis
+
+[program.724637]
+Cures many ailments
+
+[program.724659]
+Escapes a dungeon
+
+[program.724675]
+Focus
+
+[program.724680]
+Weaken
+
+[program.724685]
+Boost
+
+[program.724690]
+Cover
+
+[program.724695]
+Focus All
+
+[program.724702]
+Weaken All
+
+[program.724709]
+Boost All
+
+[program.724716]
+Telepathy
+
+[program.724723]
+Analyze
+
+[program.724730]
+Escape
+
+[program.724737]
+Safe Zone
+
+[program.724745]
+Battle Zone
+
+[program.724754]
+Analyze X
+
+[program.724762]
+D Change
+
+[program.724769]
+Return Petals
+
+[program.724779]
+Wind of Life
+
+[program.724787]
+Wind's Glow
+
+[program.724796]
+Spirit Stream
+
+[program.724806]
+Revival Bloom
+
+[program.724816]
+True Life Wind
+
+[program.724826]
+True Revival
+
+[program.724838]
+Spirit Drain
+
+[program.724847]
+Spirit Down
+
+[program.724856]
+Spirit Up
+
+[program.724865]
+Spirit Cover
+
+[program.724874]
+Spirit Swap
+
+[program.724883]
+Super Sp.Down
+
+[program.724895]
+Super Sp.Up
+
+[program.724907]
+Gale
+
+[program.724913]
+Downpour
+
+[program.724918]
+Blizzard
+
+[program.724923]
+Tsunami
+
+[program.724929]
+Sandstorm
+
+[program.724935]
+Quake
+
+[program.724940]
+Big Quake
+
+[program.724947]
+GoGo
+
+[program.724952]
+LaLa
+
+[program.724957]
+HyaHya
+
+[program.724962]
+GoGoGo
+
+[program.724969]
+LaLaLa
+
+[program.724976]
+HyaHyaHya
+
+[program.724983]
+Huh? Huh?
+
+[program.724990]
+Rest Strike
+
+[program.724997]
+100 Fists
+
+[program.725005]
+Word Toss
+
+[program.725014]
+Great Rest
+
+[program.725025]
+Great Fists
+
+[program.725037]
+Great Toss
+
+[program.725050]
+Meteor Drop
+
+[program.725059]
+K×W
+
+[program.725066]
+K×H
+
+[program.725073]
+W×H
+
+[program.725080]
+K×S
+
+[program.725087]
+W×S
+
+[program.725094]
+H×S
+
+[program.725101]
+K×N
+
+[program.725108]
+W×N
+
+[program.725115]
+H×N
+
+[program.725122]
+S×N
+
+[program.725129]
+K×J
+
+[program.725136]
+W×J
+
+[program.725143]
+H×J
+
+[program.725150]
+S×J
+
+[program.725157]
+N×J
+
+[program.725164]
+K×P
+
+[program.725171]
+W×P
+
+[program.725178]
+H×P
+
+[program.725185]
+S×P
+
+[program.725192]
+N×P
+
+[program.725199]
+J×P
+
+[program.725206]
+Raises smash hit rate
+
+[program.725227]
+Lowers a foe's Atk/Def
+
+[program.725254]
+Raises an ally's Atk/Def
+
+[program.725283]
+Takes all direct attacks
+
+[program.725306]
+Raises everyone's smash rate
+
+[program.725332]
+Lowers all foes' Atk/Def
+
+[program.725359]
+Raises all allies' Atk/Def
+
+[program.725388]
+Talk with monsters
+
+[program.725407]
+Shows a foe's HP/MP
+
+[program.725422]
+Tricks foes and flees
+
+[program.725436]
+No monsters on the field
+
+[program.725463]
+Monsters every step
+
+[program.725492]
+Shows HP/MP/attack/weakness
+
+[program.725522]
+Turns a foe into another
+
+[program.725540]
+Clears Psycho on allies
+
+[program.725565]
+Heals HP each turn
+
+[program.725590]
+Revives with full HP
+
+[program.725616]
+Cures everyone's ailments
+
+[program.725636]
+Revives all, small heal
+
+[program.725666]
+Heals everyone each turn
+
+[program.725687]
+Revives all, medium heal
+
+[program.725717]
+Drains MP from a foe
+
+[program.725731]
+Lowers a foe's Psy Atk/Def
+
+[program.725762]
+Raises an ally's Psy Atk/Def
+
+[program.725795]
+Takes all Psycho attacks
+
+[program.725818]
+Swaps MP with an ally
+
+[program.725845]
+Lowers all foes' Psy Atk/Def
+
+[program.725876]
+Raises all allies' Psy Atk/Def
+
+[program.725909]
+A gale strikes all foes
+
+[program.725935]
+A downpour strikes all foes
+
+[program.725959]
+A blizzard strikes all foes
+
+[program.725984]
+A tsunami strikes all foes
+
+[program.726009]
+A sandstorm strikes all foes
+
+[program.726035]
+A quake strikes all foes
+
+[program.726060]
+Magma strikes all foes
+
+[program.726084]
+Anything could happen
+
+[program.726100]
+Rest a turn, then big attack
+
+[program.726124]
+Big punch. May paralyze
+
+[program.726150]
+Big shout. May confuse
+
+[program.726180]
+Rest 2-4 turns, then big attack
+
+[program.726207]
+Lethal hit. May doom
+
+[program.726236]
+Lethal hit. May KO
+
+[program.726266]
+Ultimate damage or KO, one foe
+
+[program.726296]
+: Always strike first
+
+[program.726315]
+: Level-up bonus to Spd/Spi
+
+[program.726336]
+: Blocks all ailments
+
+[program.726355]
+: Reflects all Psycho
+
+[program.726375]
+: Halves Psycho damage
+
+[program.726401]
+: Heals MP each turn
+
+[program.726418]
+: Damages all foes each turn
+
+[program.726440]
+: Items cost half
+
+[program.726460]
+: Foes always drop items
+
+[program.726483]
+: Powers up N commands
+
+[program.726505]
+: Always able to flee
+
+[program.726526]
+: Heals HP with each step
+
+[program.726544]
+: No monsters at all
+
+[program.726564]
+: Halves MP cost
+
+[program.726581]
+: Halves direct damage
+
+[program.726607]
+: Raises smash hit rate
+
+[program.726630]
+: Level-up bonus to Str/Def
+
+[program.726651]
+: Heals HP each turn
+
+[program.726668]
+: Level-up bonus to HP/MP
+
+[program.726687]
+: Double EXP
+
+[program.726704]
+: Double direct damage
+
+[program.726731]
+Critical Hit
+
+[program.726741]
+Wild Slash
+
+[program.726749]
+X-Counter
+
+[program.726758]
+No-Guard Slash
+
+[program.726769]
+WX-Counter
+
+[program.726777]
+White Ash Slash
+
+[program.726787]
+Quick Draw
+
+[program.726793]
+Two-Hand Shot
+
+[program.726801]
+Wild Shot
+
+[program.726809]
+Man of Men
+
+[program.726818]
+Lullaby
+
+[program.726824]
+Devotion
+
+[program.726829]
+Prayer
+
+[program.726833]
+Big Lullaby
+
+[program.726841]
+Seduce
+
+[program.726846]
+Tomboy
+
+[program.726852]
+Stone Body
+
+[program.726860]
+Seal
+
+[program.726865]
+Nembutsu
+
+[program.726871]
+True Stone Body
+
+[program.726881]
+A critical hit for big damage
+
+[program.726905]
+Slashes a foe again and again
+
+[program.726921]
+Take a cut to break a bone
+
+[program.726942]
+Drop Defense to 0, hit all foes
+
+[program.726967]
+Two X-Counters in a row
+
+[program.726991]
+Usable at 25% HP or less
+
+[program.727017]
+Lower Defense, quick big hit
+
+[program.727049]
+Lower Defense, quick huge hit
+
+[program.727083]
+Lower Defense, quick max hit
+
+[program.727117]
+Go berserk, Attack up
+
+[program.727144]
+Lullaby puts a foe to sleep
+
+[program.727164]
+HP to 1, fully heal an ally
+
+[program.727192]
+Restores a little of an ally's MP
+
+[program.727214]
+Lullaby puts all foes to sleep
+
+[program.727234]
+Seduce foes to fight each other
+
+[program.727254]
+Go berserk, Attack up
+
+[program.727281]
+Reflects single Psycho
+
+[program.727301]
+Erases phantom foes
+
+[program.727321]
+Chant seals all foes' Psycho
+
+[program.727347]
+Reflects single Psycho. Allies too
+
+[program.728400]
+None
+
+[program.728403]
+Nippon Mouse
+
+[program.728412]
+Vampire Leech
+
+[program.728419]
+Horn Beetle
+
+[program.728426]
+Oil Toad
+
+[program.728433]
+Red Lip
+
+[program.728442]
+Smile
+
+[program.728447]
+Orange Boy
+
+[program.728457]
+Eel Pie
+
+[program.728464]
+Manyo Moth
+
+[program.728471]
+South Sea Moth
+
+[program.728478]
+Golden Moth
+
+[program.728485]
+Bio TV
+
+[program.728492]
+Pollen Cedar
+
+[program.728499]
+Old Crane
+
+[program.728506]
+Lone Wolf
+
+[program.728513]
+Peacock Lion
+
+[program.728523]
+Scissor Alien
+
+[program.728533]
+Psycho Doll
+
+[program.728541]
+Child's Play
+
+[program.728552]
+Ryukyu Lion
+
+[program.728561]
+Devilfish
+
+[program.728572]
+Mu Soldier
+
+[program.728581]
+Golden Eel
+
+[program.728592]
+Scorpion
+
+[program.728600]
+Yamanba
+
+[program.728606]
+Psycho Alien
+
+[program.728615]
+Red Alien
+
+[program.728625]
+Tundra Powder
+
+[program.728637]
+Green Smile
+
+[program.728647]
+Kung Fu Panda
+
+[program.728657]
+Goblin
+
+[program.728664]
+Libido
+
+[program.728671]
+Metal Pio
+
+[program.728678]
+Phoenicia
+
+[program.728684]
+White Lip
+
+[program.728693]
+Saiyu Ogre
+
+[program.728700]
+Swamp Crab
+
+[program.728710]
+Paradise Bird
+
+[program.728717]
+Lilliput Mask
+
+[program.728727]
+Sandworm
+
+[program.728735]
+Stone Doll
+
+[program.728744]
+Giant Head
+
+[program.728751]
+Red Smile
+
+[program.728760]
+Mega Alien
+
+[program.728769]
+Older Crane
+
+[program.728778]
+Siberian Killer
+
+[program.728788]
+Ice Alien
+
+[program.728797]
+Burnham Tree
+
+[program.728806]
+Plague Carrier
+
+[program.728815]
+Onisakis
+
+[program.728821]
+Yellow Lip
+
+[program.728830]
+Tiger Bear
+
+[program.728839]
+Hell Taurus
+
+[program.728846]
+Crystal Boy
+
+[program.728856]
+Gold Curse 2
+
+[program.728866]
+Sand Smile
+
+[program.728875]
+Red Hat
+
+[program.728883]
+George III
+
+[program.728894]
+Hamlet's Father
+
+[program.728903]
+Legend Knight
+
+[program.728913]
+Punk Alien
+
+[program.728923]
+Sexy Bolt
+
+[program.728932]
+Umibozu
+
+[program.728940]
+Rainbow Moth
+
+[program.728947]
+Dragon Bug
+
+[program.728952]
+King Chimera
+
+[program.728960]
+Black Hole
+
+[program.728969]
+Gamelan Mask
+
+[program.728978]
+Gold Curse
+
+[program.728987]
+Mummy
+
+[program.728991]
+Medune
+
+[program.728998]
+Damian
+
+[program.729004]
+Diamond Smile
+
+[program.729013]
+Death Hands
+
+[program.729021]
+Lemming Parade
+
+[program.729033]
+Death Flamingo
+
+[program.729043]
+Baobubble
+
+[program.729052]
+Gold Mask
+
+[program.729062]
+Moamoa
+
+[program.729067]
+Gold Leech
+
+[program.729076]
+Gypsy Panda
+
+[program.729088]
+King Smile
+
+[program.729097]
+Sand Shark
+
+[program.729106]
+DOORS
+
+[program.729112]
+RX-1
+
+[program.729117]
+13 Steps
+
+[program.729124]
+Defenser
+
+[program.729133]
+Satan Alien
+
+[program.729142]
+Dark Lip
+
+[program.729151]
+Eskimo Panda
+
+[program.729162]
+Dream Moth
+
+[program.729169]
+Gamagucci
+
+[program.729177]
+Orga Squad
+
+[program.729187]
+Lime Boy Jr.
+
+[program.729198]
+Ancient Bird
+
+[program.729205]
+Funky Bird
+
+[program.729216]
+Zombie Master
+
+[program.729226]
+Phantom Actor
+
+[program.729236]
+Ghost Knight
+
+[program.729245]
+Mega TV
+
+[program.729251]
+Blizzard Worm
+
+[program.729263]
+Bio Alien
+
+[program.729273]
+Fly Alien
+
+[program.729282]
+T3 Smile
+
+[program.729289]
+Black Moth
+
+[program.729296]
+Gold Bug
+
+[program.729303]
+Queen Chimera
+
+[program.729311]
+Amazon Mask
+
+[program.729321]
+Death Head
+
+[program.729328]
+Guillotine Ring
+
+[program.729338]
+Moai
+
+[program.729342]
+Aurora Kiss
+
+[program.729350]
+Macbeth Knight
+
+[program.729359]
+Snow Smile
+
+[program.729367]
+Man-Eater
+
+[program.729374]
+Piranha Dance
+
+[program.729385]
+Orgarius
+
+[program.729393]
+Golden Whale
+
+[program.729405]
+Sky Knight
+
+[program.729415]
+Jelly Smile
+
+[program.729424]
+Sand Alien
+
+[program.729434]
+Dodododo
+
+[program.729444]
+Zakisonis
+
+[program.729451]
+Moon Bird
+
+[program.729460]
+Moon Bear
+
+[program.729467]
+Jura Fish
+
+[program.729477]
+Kiata
+
+[program.729487]
+Mu Block
+
+[program.729495]
+Heaven's Door
+
+[program.729505]
+Heaven Stairs
+
+[program.729516]
+RX95-V
+
+[program.729523]
+Aqua Alien
+
+[program.729532]
+Alien Guard
+
+[program.729543]
+Psycho Master
+
+[program.729551]
+Archaeopteryx
+
+[program.729558]
+Daedalus
+
+[program.729566]
+Ra Mu
+
+[program.729571]
+Hal Jr.
+
+[program.729577]
+RX-999W
+
+[program.729585]
+Kiata
+
+[program.729595]
+Dr. Z
+
+[program.729600]
+Fatimaria
+
+[program.729608]
+Yamata Orochi
+
+[program.729616]
+Dark Soldier
+
+[program.729627]
+Vishnur
+
+[program.729635]
+Gen. Crewel
+
+[program.729646]
+Tutanka
+
+[program.729651]
+Kiata
+
+[program.729661]
+Dark Soldier
+
+[program.729672]
+Catastrophe
+
+[program.729683]
+Valtan X
+
+[program.729691]
+Queen Larwa
+
+[program.729699]
+Lucifer
+
+[program.729705]
+King Smile
+
+[program.729714]
+T-Rex
+
+[program.729720]
+Bat
+
+[program.729725]
+Batty
+
+[program.729732]
+Catastrophe
+
+[program.729743]
+Night Alien
+
+[program.729752]
+White Bear
+
+[program.729760]
+High Priest
+
+[program.729767]
+Archbishop
+
+[program.729774]
+Poseidon
+
+[program.729782]
+Salamander
+
+[program.729790]
+Dagon
+
+[program.729796]
+Tomcat
+
+[program.729803]
+Shiranui Bozu
+
+[program.729813]
+Gomorrah
+
+[program.729818]
+Belly Lizard
+
+[program.729827]
+Hanzo
+
+[program.729833]
+Digitizer
+
+[program.729843]
+Crimson King
+
+[program.729854]
+Mecha Wolf
+
+[program.729860]
+Caligula
+
+[program.729867]
+Dr. Z
+
+[program.729872]
+Alien Seed
+
+[program.729882]
+Ariadne
+
+[program.729890]
+Cosmo Virus
+
+[program.729898]
+Mother Virus
+
+[program.729907]
+Coral Smile
+
+[program.729916]
+Ice Whale
+
+[program.729924]
+Lemurian Seeds
+
+[program.729934]
+Master Shu
+
+[program.729942]
+Mammo
+
+[program.729947]
+Blue Dragon
+
+[program.729954]
+Red Dragon
+
+[program.729961]
+Baby Smile
+
+[program.729971]
+Green Baby
+
+[program.729982]
+Red Baby
+
+[program.729992]
+T7 Baby
+
+[program.730000]
+Snow Baby
+
+[program.730009]
+Killer Barnacle
+
+[program.730021]
+Kraken
+
+[program.730027]
+Crocodandy
+
+[program.730037]
+Lizard Prince
+
+[program.730046]
+Cosmo Beetle
+
+[program.730055]
+Kiata Guard
+
+[program.730065]
+Dr. Z
+
+[program.730070]
+UFO
+
+[program.730074]
+Vishnur
+
+[program.730082]
+Batty
+
+[program.730089]
+Batty
+
+[program.730096]
+Black Michael
+
+[program.730106]
+ROBOT-X
+
+[program.730114]
+Batty
+
+[program.730121]
+Batty
+
+[program.730128]
+Bless Soldier
+
+[program.730137]
+Hatred
+
+[program.730142]
+Rafflesia
+
+[program.730148]
+Catastrophe
+
+[program.730159]
+Gen. Crewel
+
+[program.730170]
+Batty
+
+[program.730177]
+Poseidon
+
+[program.730185]
+High Priest
+
+[program.730192]
+Fatimaria
+
+[program.730200]
+Michael
+
+[program.730205]
+Ghost Bat
+
+[program.730214]
+Tutanka
+
+[program.730219]
+Batty
+
+[program.730226]
+God
+
+[program.730229]
+Anger
+
+[program.730233]
+Sorrow
+
+[program.730238]
+Anxiety
+
+[program.730243]
+Gen. Crewel
+
+[program.730254]
+Yamata Orochi
+
+[program.730262]
+Ra Mu
+
+[program.730267]
+Brat Boss
+
+[program.730275]
+Bless Soldier
+
+[program.730284]
+Alien D
+
+[program.730291]
+Snow Woman
+
+[program.730296]
+Bless Soldier
+
+[program.730305]
+Ghost Bat
+
+[program.730314]
+Batty
+
+[program.730321]
+Psycho Alien
+
+[program.730330]
+Bishop
+
+[program.730335]
+Master Shu
+
+[program.730343]
+Spider G
+
+[program.730352]
+Gen. Crewel
+
+[program.730363]
+Killer Shark
+
+[program.730371]
+Michael
+
+[program.730376]
+Alien
+
+[program.730382]
+Alien Mother
+
+[program.730391]
+Gen's Mother
+
+[program.731824]
+Hometown
+
+[program.731832]
+Paddy Path
+
+[program.731840]
+Tsukubane Vil.
+
+[program.731848]
+Mt. Tsukubane
+
+[program.731856]
+Geo-Tokyo
+
+[program.731865]
+Hometown
+
+[program.731873]
+Tsukubane Vil.
+
+[program.731881]
+Mt. Tsukubane
+
+[program.731889]
+Geo-Tokyo
+
+[program.731898]
+Neo-Kobe
+
+[program.731905]
+Myaa Town
+
+[program.731912]
+Neo-Kobe
+
+[program.731919]
+Inuyama Zoo
+
+[program.731927]
+Kanmon Bridge
+
+[program.731934]
+Nagasaki Town
+
+[program.731943]
+Glover House
+
+[program.731952]
+Shuri Castle
+
+[program.731958]
+Osore Village
+
+[program.731964]
+Izumo Shrine
+
+[program.731973]
+Mirage House
+
+[program.731982]
+Lake Biwa
+
+[program.731988]
+Japan Meteor
+
+[program.731998]
+Tsugaru Tunnel
+
+[program.732007]
+Snow Village
+
+[program.732013]
+Cape Rebun
+
+[program.732020]
+Church
+
+[program.732030]
+Church
+
+[program.732040]
+Mama Is. Beach
+
+[program.732049]
+Yukimi Spring
+
+[program.732058]
+Tottori Dunes
+
+[program.732067]
+Japan
+
+[program.732078]
+Drift Ice
+
+[program.732083]
+North Coast
+
+[program.732091]
+Vladivo. Sta.
+
+[program.732099]
+Pokin Hut
+
+[program.732108]
+Honmaka Town
+
+[program.732116]
+Angkor Wat
+
+[program.732125]
+Pokin Hut
+
+[program.732134]
+Trans-Siberian
+
+[program.732144]
+Ice Valley
+
+[program.732150]
+Moscow
+
+[program.732155]
+Shelter
+
+[program.732161]
+Euro Coast
+
+[program.732169]
+Free London
+
+[program.732179]
+Stonehenge
+
+[program.732188]
+Kasbah Village
+
+[program.732195]
+Great Pyramid
+
+[program.732205]
+West Pyramid
+
+[program.732215]
+South Pyramid
+
+[program.732225]
+Kibou Hotel
+
+[program.732233]
+Kibou Coast
+
+[program.732242]
+Lemur Village
+
+[program.732249]
+Coral Town
+
+[program.732257]
+Lemur Shrine
+
+[program.732266]
+Cockpit
+
+[program.732274]
+Bali
+
+[program.732280]
+Landing Point
+
+[program.732290]
+NY Bridge
+
+[program.732300]
+NY Harlem
+
+[program.732307]
+Angel Theater
+
+[program.732318]
+Alaska Meteor
+
+[program.732327]
+UN Building
+
+[program.732335]
+British Museum
+
+[program.732346]
+Amazon Bless
+
+[program.732356]
+Chichen Itza
+
+[program.732364]
+Nazca
+
+[program.732368]
+Lemur Coast
+
+[program.732377]
+UN Building
+
+[program.732385]
+Easter Island
+
+[program.732393]
+Salvation Hse
+
+[program.732400]
+Ararat Temple
+
+[program.732409]
+Ayers Rock
+
+[program.732418]
+Lemuria
+
+[program.732427]
+Siberia Spring
+
+[program.732437]
+Euro Tunnel
+
+[program.732445]
+Luna City
+
+[program.732452]
+Mothership
+
+[program.732461]
+Atlantis
+
+[program.732469]
+Mu
+
+[program.732476]
+Bun Tent
+
+[program.732486]
+Balloon
+
+[program.732491]
+World
+
+[program.732502]
+Debug
+
+[program.732509]
+Kowloon Tower
+
+[program.732516]
+Equator Forest
+
+[program.732524]
+Ice Cave
+
+[program.732532]
+Oceania Meteor
+
+[program.732542]
+Europe Meteor
+
+[program.732553]
+Moai Isle 1
+
+[program.732560]
+Moai Isle 2
+
+[program.732567]
+Sea Temple
+
+[program.733380]
+Summer vacation! Vacation!
+I'm biking all the way
+to Grandma's in Hokkaido!
+My first trip alone!
+My heart's pounding!
+So exciting!!
+Summer's my favorite!
+{NAME:16}, here I go!
+
+[program.733510]
+Headed north, on and on.
+My bike runs great!
+Alone, but not lonely.
+Reached a place up north
+called Tsukubane Village.
+Resting here today.
+
+[program.733611]
+...I can't believe it.
+Ten years have passed.
+For ten years I lost
+my memory.
+Ten years living as
+someone not me!
+How is {NAME:16}?
+{NAME:16}, {NAME:16}!
+I'm at a place
+called Bless now.
+
+[program.733756]
+No time to be shocked.
+Aliens have taken over
+the world.
+Dr. Croiset sent me to
+survey the mound on
+Mt. Tsukubane.
+Ah, Mt. Tsukubane!
+I wonder how that brat is...
+{NAME:16}, how are you?
+
+[program.733901]
+Entered Tsukubane Mound.
+The place where I found
+that glowing stone 10 years ago!
+I touched it.
+What happened?
+What was that light?
+My head aches a bit.
+Something in my head
+is changing...
+
+[program.734055]
+Those monsters!
+Not content to wreck the world,
+the aliens even attack Bless,
+mankind's last hope!
+
+Dr. Croiset...
+The one who knew my
+lost ten years...
+He told me to go to Neo-Kobe.
+There's someone with my
+power there, he said...
+Free the Psycho in your brain
+and beat the aliens...
+
+[program.734285]
+Heading west, I got caught
+in Myaa Town.
+Met a weird old man there.
+Dan Kichi. A sword master.
+We broke out of the
+dungeon together.
+West, as the doctor said...
+On to Neo-Kobe!
+Where is the person
+with my power?
+
+[program.734460]
+Reached Neo-Kobe.
+Is someone with my power
+really here...
+Neo-Kobe seems so
+peaceful.
+Where's the Bless?
+That odd watermelon field
+and phone bug me...
+
+[program.734595]
+Neo-Kobe's Bless base
+was underground!
+But what of the Attack Team
+that left for Inuyama Zoo,
+north of Myaa Town...
+And the one with my power?
+At Inuyama Zoo, maybe?
+Dr. Croiset!
+Protect me.
+
+[program.734772]
+Went to Inuyama Zoo with
+Dan Kichi.
+Dan Kichi is fired up.
+My first battle!
+...I'm a little nervous.
+If I die here, does my
+journey end here?
+The Attack Team at the zoo
+was nearly wiped out!
+
+[program.734930]
+Together we beat Dr. Z!
+So this is fighting...
+But he said "I could've
+beaten him alone!"
+and went back to Neo-Kobe.
+Back to Neo-Kobe?
+Myaa Town bugs me too.
+
+[program.735056]
+In Myaa Town I was suddenly
+a hero.
+The mayor was odd too.
+But, but, what do I do
+about Princess Myaa!
+Help! I'm in big trouble!
+{NAME:16}, I'm in trouble.
+
+[program.735161]
+Back in Neo-Kobe.
+There's someone with my
+power in Kyushu too!
+{NAME:16}, my journey
+will go on a while.
+Dr. Croiset's daughter,
+Dr. Closet, is cheering
+me on too.
+{NAME:16}, protect me.
+
+[program.735312]
+I have a friend!!
+{NAME:16}, I made
+a friend.
+His name's {NAME:01}.
+A bit rough, but a good
+guy at heart.
+From now on, I travel
+with him!
+
+[program.735411]
+How many people in this
+world have powers
+like mine?
+What if there are tons,
+like in that famous game?
+And are there more
+glowing stones?
+What changes in me when
+I touch one...?
+
+[program.735565]
+Reached Nagasaki Town.
+The Fatima cult has
+the townsfolk's hearts...
+Any religion is fine if
+it brings people peace.
+But something about
+the Fatima cult bugs me...
+
+[program.735692]
+The Fatima cult's HQ
+is in Ryukyu!
+...Ryukyu!
+We need a ship
+to get there.
+A Mr. Glover has one.
+Hmm. The journey goes on!
+
+[program.735796]
+The guru Fatimaria was a
+woman controlled by aliens.
+We beat the real Fatimaria
+and saved her.
+Her name is {NAME:02}.
+She has the same power
+as {NAME:01} and me!
+
+[program.735907]
+Another new friend.
+It's {NAME:02}!
+...I feel she has a sorrow
+deep inside that she
+never shows.
+But she's wonderful.
+{NAME:02}! {NAME:01}!
+{NAME:16},
+I'm not alone anymore!
+I'm not alone anymore!!
+
+[program.736057]
+Back at Glover House,
+we got his ship.
+Now we can sail anywhere!
+The sea! The sea! The sea!
+First, report to Director
+Akashi in Neo-Kobe!
+
+[program.736167]
+I don't believe it.
+{NAME:16} is alive.
+Even if my hometown
+is gone without a trace,
+she's alive somewhere.
+{NAME:16}! You're alive!
+...I've lost my home.
+...Where should I go now?
+
+[program.736302]
+Reached Osore Village.
+It reminds me of Grandma.
+But Grandma in Hokkaido
+is probably gone too.
+Walking around, I've come
+to understand...
+But she lives on
+in my heart.
+Just like {NAME:16}.
+Right, {NAME:16}?
+
+[program.736463]
+Big trouble in
+Osore Village!
+A girl was taken west
+as a monster's sacrifice.
+Aliens...!?
+
+[program.736544]
+Reached Izumo Shrine.
+The girl was taken by an
+alien controlling a monster
+called Yamata Orochi.
+But eight heads means seven
+forks, so shouldn't it be
+Nanamata Orochi...
+...No time to write that.
+Touched a second God Stone.
+How many God Stones
+are there in all?
+My head hurts...
+
+[program.736742]
+Took {NAME:03} back to
+Osore Village.
+Granny Gibo was so happy.
+{NAME:03} says she could've
+won alone.
+Like {NAME:01}, everyone
+is so stubborn!
+Granny Gibo says the aliens
+can make legends real.
+Our minds imagine Yamata
+Orochi, and the aliens turn
+that into a monster.
+And Granny Gibo foresaw:
+"The Sea of Japan meteorite
+ will bring disaster..."
+The Sea of Japan meteorite!
+
+[program.737036]
+Stayed at the Mirage Hotel.
+We're four now.
+This is the team I'll
+travel with.
+{NAME:16},
+watch over me.
+...What happened that night
+at the Mirage Hotel stays
+in my heart alone.
+
+[program.737165]
+Not just Japan?
+Right. The whole world is
+under alien attack.
+I forgot the obvious.
+How far will my journey go?
+If life is a journey,
+maybe it never ends.
+No time to think.
+There was a quake.
+The owner says there have
+been many lately.
+Dr. Closet in Neo-Kobe
+is calling.
+I must go back!
+
+[program.737407]
+Back at Neo-Kobe Bless.
+Dr. Closet and Director
+Akashi say there have been
+strange quakes lately.
+On to the Lake Biwa team.
+Mt. Fuji looks wrong too.
+...What happens now?
+
+[program.737536]
+We beat Dark Soldier.
+The Sea of Japan meteorite
+was an alien outpost!
+At the end, Dark Soldier
+cried out a name: Crewel.
+Who is that...
+{NAME:03} says Granny Gibo
+is calling.
+To Osore Shrine!
+
+[program.737689]
+Granny Gibo told us to
+cross to the mainland.
+Yes. The fight has
+only begun.
+North, for now.
+Ten years ago my journey
+began by heading north.
+Now it begins again.
+Through the Tsugaru Tunnel
+to Hokkaido!
+
+[program.737846]
+{NAME:03} is coming too.
+At parting, Granny Gibo said,
+"Your mother is alive."
+...I'm too excited
+to write more.
+Can I believe it...
+
+[program.737968]
+Who was that guy in the
+Tsugaru Tunnel?
+He called himself Michael.
+He seems a bit different
+from the hateful aliens.
+...He was strong.
+
+[program.738049]
+To cross to the mainland,
+ride the drift ice!
+There's drift ice at
+Cape Rebun.
+Are we finally crossing
+to the mainland...
+
+[program.738126]
+The mainland at last!
+We made it all the way!
+What's waiting for us...
+Whatever it is, it's fine.
+I have strong friends!
+
+[program.738223]
+Reached Vladivostok Station.
+Where will these rails
+take us?
+I'm excited.
+What will happen,
+what awaits us!
+{NAME:16},
+protect us!!
+
+[program.738355]
+{NAME:16},
+a baby is coming!
+{NAME:01} and {NAME:03}'s
+baby! ...So that's the heart
+I saw at the Mirage Hotel.
+While I trembled with
+{NAME:02} over the future,
+{NAME:01} was trembling
+in bed.
+...What a guy!!
+
+[program.738506]
+I'm glad. Truly glad!
+After seeing so many die,
+seeing a birth makes me
+want to live.
+{NAME:16},
+will I have children
+someday too?
+{NAME:16}, how did you feel
+when I was born?
+{NAME:01} is too excited
+to sleep...
+
+[program.738684]
+Reached Honmaka Town.
+An awful town covered
+in yellow powder.
+Met a Dr. Whitoiset there,
+Dr. Croiset's twin brother.
+...What a surprise!
+The powder flows from Angkor
+Wat to the south, and there's
+a legend of a strange stone
+there.
+Could it be...
+
+[program.738876]
+Beat Vishnur at Angkor Wat.
+A tough foe.
+Touched a third God Stone.
+My head aches a bit again...
+{NAME:16},
+what will become of me?
+{NAME:01} wants to see
+{NAME:03}.
+Back to Pokin Hut soon.
+But first, Honmaka's Bless.
+
+[program.739042]
+{NAME:16},
+I met an odd old man.
+His name's {NAME:04},
+a monk in training.
+He travels the world
+seeking "the truth".
+"The truth"...
+{NAME:16},
+is there such a thing
+as "the truth"?
+What would it even be...?
+
+[program.739206]
+Back in Honmaka Town.
+The powder's gone, yet
+people here still think
+the same. Why?
+
+[program.739272]
+Was this right?
+No, at least people here
+will start to change now.
+Master Shu...
+I hope Kouran lives on,
+well and strong.
+Now, back to Pokin Hut.
+{NAME:03} is waiting.
+
+[program.739397]
+What can I say?
+Why does reality torment
+us so?
+Why must I write the pain
+down in a diary again?
+{NAME:03} died.
+{NAME:01} ran off.
+...We followed {NAME:01}
+to Vladivostok Station.
+...I can't write
+any more today.
+
+[program.739590]
+Back at Vladivostok Station.
+A man like {NAME:01}
+headed west on a handcar
+along the Trans-Siberian.
+West... past the ice plain
+lies Moscow, they say.
+
+[program.739689]
+On the Trans-Siberian
+at last.
+Old memories keep coming.
+Trains are somehow sad.
+Maybe the clatter sounds
+like a heartbeat...
+Dawn came on the train.
+How is {NAME:01}?
+{NAME:16},
+how are you now?
+...Are you alive?
+
+[program.739870]
+The train was attacked!
+Damn those aliens!
+When the world's at peace,
+I'll ride it slowly.
+Farewell, Trans-Siberian.
+What lies behind sorrow?
+Behind sorrow lies
+a cold steppe...
+
+[program.739999]
+Reached Moscow Station
+at last.
+No! This isn't where
+we're going either!?
+Where did everyone go...
+
+[program.740063]
+Reached the Russian Shelter.
+Michael broke the escape
+duct system!
+Who is Michael?
+What does he want?
+Someone must fix
+the system...
+{NAME:01} headed for
+Europe, it seems.
+{NAME:01}, don't die!
+
+[program.740197]
+A man called Vanya might
+fix the shelter's system.
+Where is he?
+Or is Vanya not
+his real name?
+We must hurry...
+
+[program.740295]
+The Hide-and-Seek Geezer
+and Vanya have some past.
+So the geezer may be the
+one to open Vanya's heart.
+{NAME:01}, wait for us.
+We're coming.
+
+[program.740406]
+Vanya, I mean Warenkov,
+agreed.
+What happened between them
+isn't ours to fix.
+I'm just worried
+about {NAME:01}.
+
+[program.740498]
+The escape duct works!
+To Europe!
+{NAME:01}, don't die.
+Don't you die!!
+...Thank you, Vanya.
+We probably can't ease
+the despair you carry.
+I only pray you and the
+geezer talk again.
+
+[program.740657]
+Reached Free Paris and
+Free London.
+Even here, people live on
+strongly.
+{NAME:01} chased Crewel to
+Stonehenge in Britain.
+Stonehenge!
+{NAME:01}, don't die!!
+
+[program.740774]
+We saved {NAME:01}.
+A close call.
+But no attack touched
+Crewel at all!
+At this rate we can't
+beat Crewel.
+What do we do?
+Anyway, {NAME:01} is back
+with us! Thank goodness!
+The Prayer Flute in the
+British Museum can break
+Crewel's barrier, they say.
+
+[program.740964]
+We finally beat Crewel.
+{NAME:01} struck the
+last blow!
+What was {NAME:01}
+thinking then?
+Words always fall short
+of feelings.
+We found a God Stone!
+That's four!
+I'm shaking.
+Something will change...
+
+[program.741112]
+Back in Free Paris and London,
+we met Dr. Redoiset.
+Africa's Bless is in trouble.
+Africa!
+All the way to Africa...
+But we need a Dolphin Flute
+to get there.
+And Director Pierre forgot
+where he put it.
+Honestly...
+
+[program.741285]
+Africa at last.
+The dolphins' coast is
+to the south.
+Africa!
+What awaits us!
+Dr. Redoiset says there are
+seven God Stones.
+Where are the rest...?
+
+
+
+[program.741407]
+Reached Kasbah Village.
+Strange weather goes on,
+and sandstorms rage.
+The princess asked us to
+stop the sandstorms.
+First, see the sage Jimjii
+at the south pyramid!
+
+[program.741525]
+Found a God Stone in the
+buried Great Pyramid!
+That's five!
+God Stones... what do they
+want us to do?
+And... Michael.
+What is he trying to say?
+Michael...
+Michael...
+
+[program.741662]
+...Come to think of it,
+I never wrote about Batty
+the bat.
+Met him a few times.
+A weird guy.
+Well, not worth writing.
+
+[program.741756]
+Back in Kasbah Village.
+The King was happy.
+But I heard worrying news.
+No way... Bless is...
+
+South in Africa, someone
+makes things that will help
+our journey.
+What could it be...
+
+[program.741882]
+Stayed at Kibou Hotel.
+Heard unbelievable rumors
+here too.
+America's Bless teaming up
+with aliens!? No way!
+We must hurry to America!
+I never thought I'd go
+feeling like this.
+{NAME:01} is fired up.
+{NAME:16},
+I'm going to America!
+
+[program.742042]
+Everyone's gone!
+Where is this place...
+What's with this monkey?
+We have to get to America,
+but first I must find
+everyone...
+{NAME:16},
+I'm alone again.
+
+[program.742159]
+This odd monkey is a
+legendary Lemur monkey.
+Does it have some power?
+Kiki and Dr. Greenoiset say
+someone may be at
+Lemur Village.
+I want to see them soon.
+
+[program.742283]
+{NAME:04} was there!
+{NAME:04} was there!
+Where are {NAME:01}
+and {NAME:02}...
+Washed up on some shore?
+Please be alive.
+I don't want to lose
+friends anymore.
+
+[program.742386]
+America's Bless will sign
+a peace treaty with aliens!
+The rumor was true!
+Unbelievable!
+We must hurry to America...
+Lemur Village has a legend
+of an ancient ship.
+An ancient ship...
+What could it mean?
+
+[program.742521]
+{NAME:01} was there!
+{NAME:01} was fighting
+a shark, of all things.
+What a guy.
+Do you know how worried
+I was?
+...Thank goodness.
+Truly, thank goodness.
+
+[program.742601]
+...How could this be.
+Lem! Lem...!!
+...The ancient ship took
+Lem's life and began to move.
+Our goal: America.
+Lem, Lem...
+{NAME:16},
+I don't want to lose
+friends anymore.
+I don't want to fight!
+
+[program.742728]
+Reached Bali.
+{NAME:02} was there!
+{NAME:02}! Thank goodness!
+The captain may be a good
+man after all.
+Now, hurry to America!
+We must stop the treaty
+with the aliens!
+
+[program.742827]
+Reached New York.
+The rumor was true!
+Unbelievable.
+What is Bless doing?
+Does everyone really trust
+the aliens!?
+
+[program.742916]
+Reached Angel Land.
+Pass the audition and we get
+into the UN Building!
+We can stop the treaty!
+Whatever it takes,
+we'll pass the audition!
+
+[program.743013]
+Passed round two of
+the audition!
+It was awful...
+For round three, we must
+fetch something essential
+to the play from the
+Alaska meteorite.
+Phew. Passing an audition
+really is hard work.
+
+[program.743184]
+Now! New York!
+As part of the play,
+we'll enter the UN Building!
+And stop the signing,
+whatever it takes!
+We must hurry!
+
+[program.743261]
+In New York, the treaty
+parade had begun.
+...Michael!
+Michael is beside the
+Director and President!
+Michael was the alien envoy!!
+What happened to
+Director Lennon?
+...Unbelievable!?
+
+[program.743411]
+Went to the UN HQ.
+We got caught instead, and
+Linda saved us.
+We rushed to the signing.
+Ah, {NAME:16},
+what happened there...
+...Director Lennon was
+Emperor Catastrophe
+in disguise. And then...
+New York was...
+
+[program.743558]
+New York will never lose.
+Yes. What's broken can
+be rebuilt.
+...But a life can't
+be rebuilt.
+What was Michael trying
+to say...
+
+[program.743661]
+An alien mothership appeared
+over Chichen Itza!
+The only way there is
+through Amazon Bless in
+South America.
+Linda will guide us.
+So many people help me
+live.
+
+[program.743785]
+Reached Amazon Bless.
+Through the tunnel lies
+Chichen Itza.
+Two God Stones are left.
+Where are they?
+What is the mothership
+doing?
+
+[program.743879]
+At Chichen Itza we finally
+beat Emperor Catastrophe.
+And touched a sixth
+God Stone.
+{NAME:16}, my body must
+be changing.
+In the mothership I found
+a strange glowing stone.
+What awaits me now...
+
+[program.744036]
+The glowing stone was the
+legendary flight stone!
+Now we can fly!
+What civilization made
+such a stone?
+Dr. Orangeoiset told us to
+visit ancient ruins worldwide.
+Ararat, Nazca, Easter.
+Ancient civilizations...
+
+[program.744193]
+Reached Easter Island!!
+Michael was there.
+"Fight no more!" he said.
+What does that mean?
+What is he trying to say!?
+There was a Moai with no
+eyes. What does it mean...
+
+[program.744318]
+Got the Holy Crest.
+The Holy Crest leads
+to Lemuria...
+Three sunken continents...
+Is Lemuria one of them...
+Where has Lemuria sunk...
+
+[program.744427]
+Reached Lemuria, one of the
+three sunken continents!
+Beat Queen Larwa and at last
+touched the seventh God Stone!!
+...{NAME:16},
+my brain is now 100% open.
+...What will happen now?
+What will become of me?
+{NAME:16},
+protect me!!
+
+[program.744596]
+Went down to Ararat Temple.
+The tablet told the legend
+of Noah's Ark.
+To reach the alien base,
+we need the Stone of Truth...
+"Offer the Stone of Truth to
+the sacred bird"...
+What does it mean?
+Where is the Stone of Truth...
+
+[program.744753]
+...{NAME:04} met Fahrah
+again.
+One believed in love;
+one regretted not believing.
+Words always fall short
+of feelings.
+What did {NAME:04} want
+to say?
+{NAME:04} promised to
+come back.
+To beat the aliens and
+come back.
+
+[program.744910]
+Back in New York.
+The Stone of Truth is in
+Moscow!
+Where will the Stone of
+Truth lead us...
+
+[program.744985]
+Reached the Moscow shelter.
+To get the Stone of Truth,
+we must give the Russian
+President 500000G or a
+present you can't put
+a price on.
+A priceless present?
+
+[program.745100]
+Went down to the House of
+Salvation.
+What does it mean for
+people to save people?
+What does it mean
+to be saved?
+{NAME:16}, what does saving
+someone mean...
+
+[program.745195]
+{NAME:02} began to tell
+her past.
+...She too swallows her past
+and smiles.
+Maybe a person's presence
+is the weight of what
+they endure.
+
+[program.745304]
+At the House of Salvation
+an old man gave us
+"Declaration of Ideals",
+a book from an age of ideals.
+This book is a priceless
+present.
+It tells of a world where all
+are equal, none born rich or
+poor, with no discrimination,
+rivalry or killing over money.
+
+[program.745513]
+Back at the shelter, we met
+the Russian President.
+Got the Stone of Truth!
+Now offer it to the
+sacred bird.
+The sacred bird...?
+Could it be that...
+
+[program.745615]
+Went down to Nazca,
+to the Nazca Lines.
+And set the Stone of Truth
+in the bird's eye.
+...What on earth.
+What happened...
+Too many unbelievable things...
+
+[program.745720]
+Reached the alien town,
+Luna City.
+...The moon's far side is
+a very quiet place.
+The aliens live here too.
+Very kind people.
+Very...
+{NAME:16},
+I don't know anymore...
+
+[program.745845]
+We beat Lucifer.
+We fled Luna City
+in a hurry!
+The switch...
+The switch that blew up
+Luna City...
+Was it right...
+I don't know.
+Only God knows if it
+was right.
+...If there is a God,
+that is.
+
+[program.746004]
+A barrier appeared over
+the Bermuda waters!
+A legendary continent is
+said to lie sunk there.
+Atlantis...
+The second of the three
+sunken continents.
+Under the barrier, maybe...
+
+[program.746121]
+...{NAME:16},
+...{NAME:16},
+{NAME:16},
+{NAME:16}...
+{NAME:16}...
+
+How long will this war go on?
+...I don't want anyone
+else to die...!
+
+[program.746203]
+Beat Poseidon in his temple.
+Atlantis crumbled.
+Then Ra Mu's voice rang out,
+and Mu rose!!
+High above the Pacific.
+The final battle begins!
+Wait for me, Ra Mu!
+I won't forgive you!
+
+[program.746357]
+Reached Mu.
+Michael! Michael was...
+my brother...
+I'll beat Ra Mu!
+To bring back a peaceful
+world where no one, no one
+has to kill anyone
+ever again...!!
+
+[program.746478]
+We beat Ra Mu.
+...And God...
+I beat God!
+Every mystery is solved:
+the God Stones and
+the Cosmo Stones.
+I met people I'd missed.
+I look back on my journey.
+So many feelings
+well up.
+Ah, words always fall
+short of feelings.
+...It's all over.
+
+[program.746661]
+『Setting Out』
+
+[program.746670]
+『Tsukubane Village』
+
+[program.746683]
+『10 Years Later』
+
+[program.746692]
+『To Mt. Tsukubane』
+
+[program.746704]
+『Tsukubane Mound』
+
+[program.746717]
+『Dr. Croiset...』
+
+[program.746735]
+『Dan Kichi』
+
+[program.746744]
+『In Neo-Kobe』
+
+[program.746756]
+『Neo-Kobe Bless』
+
+[program.746771]
+『Inuyama Zoo』
+
+[program.746782]
+『Beat Dr. Z』
+
+[program.746795]
+『Back to Myaa』
+
+[program.746810]
+『To Kyushu』
+
+[program.746821]
+『Kanmon Bridge』
+
+[program.746833]
+『Friends...』
+
+[program.746843]
+『Nagasaki Town』
+
+[program.746855]
+『Mr. Glover』
+
+[program.746867]
+『Shuri Castle』
+
+[program.746875]
+『A New Friend』
+
+[program.746886]
+『The Ship Sails』
+
+[program.746894]
+『Hometown』
+
+[program.746905]
+『Osore Village』
+
+[program.746913]
+『A Girl Taken』
+
+[program.746926]
+『Izumo Shrine』
+
+[program.746937]
+『Back to Osore』
+
+[program.746950]
+『Mirage Night』
+
+[program.746965]
+『Urgent Call』
+
+[program.746976]
+『Lake Biwa』
+
+[program.746987]
+『Sea of Japan Met.』
+
+[program.747000]
+『To the Mainland』
+
+[program.747008]
+『Granny Gibo』
+
+[program.747025]
+『Michael...』
+
+[program.747036]
+『Drift Ice』
+
+[program.747043]
+『The Mainland』
+
+[program.747055]
+『Vladivostok』
+
+[program.747065]
+『Engaged』
+
+[program.747072]
+『Pokin Hut Party』
+
+[program.747093]
+『Honmaka Town』
+
+[program.747104]
+『Vishnur』
+
+[program.747116]
+『Another Friend』
+
+[program.747131]
+『Back to Honmaka』
+
+[program.747147]
+『Master Shu』
+
+[program.747157]
+『{NAME:03}...』
+
+[program.747169]
+『Back to Vladivo.』
+
+[program.747185]
+『Trans-Siberian』
+
+[program.747198]
+『Farewell, Train』
+
+[program.747215]
+『Moscow Station』
+
+[program.747224]
+『Russian Shelter』
+
+[program.747236]
+『Vanya』
+
+[program.747243]
+『Hide-and-Seek』
+
+[program.747258]
+『Warenkov』
+
+[program.747266]
+『Escape Duct』
+
+[program.747277]
+『Free Paris, London』
+
+[program.747298]
+『{NAME:01}!』
+
+[program.747304]
+『Crewel』
+
+[program.747314]
+『Dolphin Flute』
+
+[program.747323]
+『Euro Coast』
+
+[program.747333]
+『Kasbah Village』
+
+[program.747342]
+『Great Pyramid』
+
+[program.747355]
+『Not Worth Writing』
+
+[program.747375]
+『Back to Kasbah』
+
+[program.747390]
+『Kibou Hotel』
+
+[program.747401]
+『Lemur Coast』
+
+[program.747413]
+『In Coral Town』
+
+[program.747426]
+『{NAME:04}!』
+
+[program.747432]
+『Ancient Ship』
+
+[program.747441]
+『{NAME:01} Again!』
+
+[program.747451]
+『Lem...』
+
+[program.747459]
+『{NAME:02}!』
+
+[program.747465]
+『New York』
+
+[program.747475]
+『Angel Land』
+
+[program.747489]
+『Audition』
+
+[program.747501]
+『To New York』
+
+[program.747512]
+『Parade』
+
+[program.747521]
+『Signing 1』
+
+[program.747531]
+『Signing 2』
+
+[program.747541]
+『Mothership』
+
+[program.747553]
+『Amazon Bless』
+
+[program.747566]
+『Catastrophe』
+
+[program.747580]
+『Flight Stone』
+
+[program.747589]
+『Easter Island』
+
+[program.747600]
+『Holy Crest』
+
+[program.747611]
+『Lemuria』
+
+[program.747623]
+『Ararat Temple』
+
+[program.747635]
+『Fahrah』
+
+[program.747643]
+『Stone of Truth...』
+
+[program.747658]
+『Stone of Truth 2』
+
+[program.747679]
+『Salvation House』
+
+[program.747688]
+『{NAME:02}'s Past』
+
+[program.747698]
+『Declaration』
+
+[program.747709]
+『Got the Stone!』
+
+[program.747729]
+『Nazca』
+
+[program.747735]
+『Luna City』
+
+[program.747745]
+『Lucifer』
+
+[program.747753]
+『Bermuda』
+
+[program.747768]
+『{NAME:16}』
+
+[program.747773]
+『Poseidon』
+
+[program.747783]
+『Mu』
+
+[program.747792]
+『Beat "God"』
+
+[program.748188]
+『10 Years Later』
+
+
+[program.748204]
+Fight
+
+[program.748209]
+Tactics
+
+[program.748214]
+Run
+
+[program.748219]
+Attack
+
+[program.748225]
+Chakra
+
+[program.748230]
+Skills
+
+[program.748234]
+Psycho
+
+[program.748238]
+Items
+
+[program.748244]
+Guard
+
+[program.748248]
+Who?
+
+[program.748253]
+{NAME:19} attacks!
+
+[program.748274]
+{NAME:19} used {WORD}!
+
+[program.748286]
+{NAME:19} used {NAME:1C}!
+
+[program.748298]
+{NAME:16} attacks!
+
+[program.748307]
+{NAME:19} cast {0C:0C}!
+
+[program.748319]
+Miss!
+
+[program.748323]
+Critical!
+
+[program.748331]
+Monster Group
+
+[program.748344]
+{NAME:19} and co.
+defeated the monsters!
+
+[program.748362]
+{NAME:19}
+defeated the monsters!
+
+[program.748378]
+
+Got {NUM} EXP!
+
+[program.748398]
+
+Got {NUM} Cosmo Stones!
+
+[program.748419]
+
+Got {WORD}!
+
+[program.748432]
+
+Got {NUM}G!
+
+[program.748445]
+{0F:03}
+{NAME:19} leveled up!
+
+[program.748461]
+
+Now level {NUM}!
+
+[program.748474]
+
+Speed up {NUM}!
+
+[program.748490]
+
+Strength up {NUM}!
+
+[program.748504]
+
+Defense up {NUM}!
+
+[program.748518]
+
+Spirit up {NUM}!
+
+[program.748533]
+
+Psy Def up {NUM}!
+
+[program.748552]
+
+Love up {NUM}!
+
+[program.748565]
+
+Max HP up {NUM}!
+
+[program.748582]
+
+Max MP up {NUM}!
+
+[program.748617]
+{0F:03}
+{NAME:19}'s Chakra Command
+leveled up!
+
+[program.748645]
+
+Got the {0C:0C} Chakra Command!
+
+[program.748671]
+
+{0C:0C} Command now level {NUM}!
+
+[program.748702]
+Yes
+
+[program.748705]
+No
+
+[program.748709]
+　　　　Yes　　　　No
+
+[program.748723]
+Nothing happened
+
+
+[program.748736]
+{0C:0A} can't do anything!
+
+[program.748749]
+{0C:0A} is paralyzed!
+
+[program.748760]
+{0C:0A} is gathering power!
+
+[program.748773]
+{0C:0A} is asleep!
+
+[program.748784]
+{0C:0A} woke up!
+
+[program.748797]
+{0C:0A} can move again!
+
+[program.748810]
+{0C:0A} came to its senses!
+
+[program.748825]
+{0C:0A} is guarding!
+
+[program.748836]
+　　　　Info　　　　Gift
+
+[program.748856]
+is standing
+
+[program.748863]
+came closer
+
+[program.748872]
+{NAME:16} went home
+
+[program.748883]
+danced!
+
+[program.748890]
+{NAME:19} and co. got double EXP!
+
+[program.748912]
+{NAME:19} and co. got double Cosmo Stones!
+
+[program.748935]
+{NAME:19} and co. got double gold!
+
+[program.748957]
+{NAME:19} and co. got "{WORD}"!
+
+
+[program.748974]
+{NAME:19} and co. had their HP restored!
+
+
+[program.748995]
+You've saved {NUM} times, it seems.
+
+
+[program.749020]
+You've beaten {NUM} monsters, it seems.
+
+
+[program.749049]
+You've opened {NUM} of
+111 chests, it seems.
+
+
+[program.749085]
+{NAME:16}
+
+
+[program.749090]
+Attack/
+
+[program.749100]
+Defense/
+
+[program.749110]
+None
+
+[program.749113]
+Spirit
+
+[program.749116]
+Joy
+
+[program.749119]
+Water
+
+[program.749122]
+Fire
+
+[program.749125]
+Bolt
+
+[program.749128]
+Ice
+
+[program.749131]
+Wind
+
+[program.749134]
+Poison
+
+[program.749137]
+Psycho is sealed!
+
+[program.749152]
+Not enough MP!
+
+[program.749163]
+　 Go all out!
+
+[program.749176]
+Save Psycho!
+
+[program.749186]
+Protect allies!
+
+[program.749198]
+Use/Equip/Remove
+
+[program.749212]
+Item: Equip
+
+[program.749223]
+Item: Remove
+
+[program.749234]
+{NAME:19} equipped {WORD}.
+
+[program.749248]
+{NAME:19} removed {WORD}.
+
+[program.749261]
+But you can't carry more {WORD}!
+
+[program.749288]
+But there's no {WORD}!
+
+[program.749300]
+The monsters are surprised!
+
+[program.749316]
+The monsters surprised you!
+
+[program.749332]
+{NAME:16} had nothing!
+
+
+[program.749350]
+{NAME:19} had HP restored!
+
+
+[program.749369]
+{NAME:19} was defeated...{HOLD}
+
+[program.749385]
+{NAME:19} and co. were defeated..{HOLD}
+
+[program.751452]
+Bite!
+
+[program.751469]
+Poison Needle!
+
+[program.751488]
+Suck!
+
+[program.751507]
+Crystal Boy is crying!
+
+[program.751525]
+Blizzard!
+
+[program.751547]
+The door opened!
+
+[program.751558]
+Charge!
+
+[program.751564]
+Diamond!
+
+[program.751587]
+Patriot!
+
+[program.751596]
+Lightning!
+
+[program.751603]
+Became a Red Alien!
+
+[program.751637]
+Salmon Hunting!
+
+[program.751650]
+Became a Satan Alien!
+
+[program.751682]
+Drool!
+
+[program.751688]
+Speed went down!
+
+[program.751703]
+Fog rolled in!
+
+[program.751716]
+Croak croak!
+
+[program.751724]
+Evasion went down!
+
+[program.751739]
+Water Gel!
+
+[program.751750]
+Speed went down!
+
+[program.751765]
+Nap Time!
+
+[program.751784]
+Showed a spring mirage!
+
+[program.751799]
+Roots!
+
+[program.751804]
+Speed went down!
+
+[program.751819]
+Photosynthesis!
+
+[program.751827]
+Michael blocks the way!
+
+[program.751845]
+Rockfall!
+
+[program.751855]
+Meteor Strike!
+
+[program.751865]
+Brain Fall!
+
+[program.751876]
+Scales!
+
+[program.751881]
+Web G!
+
+[program.751889]
+Super Atavism!
+
+[program.751901]
+Became an alien!
+
+[program.751914]
+Watches quietly
+
+[program.751931]
+Megathunder!
+
+[program.751941]
+Stream Flash!
+
+[program.751953]
+100% Juice!
+
+[program.751977]
+Bewitching Dust!
+
+[program.751989]
+Projected {NAME:04}!
+
+[program.752013]
+Flames of Rage!
+
+[program.752021]
+Door to Heaven!
+
+[program.752059]
+Smiles boldly...
+
+[program.752075]
+Blown KISS!
+
+[program.752085]
+Scale Dust!
+
+[program.752092]
+Sandstorm!
+
+[program.752130]
+Monkey Kick!
+
+[program.752139]
+Charming Mist!
+
+[program.752148]
+Holdia!
+
+[program.752156]
+Blidora!
+
+[program.752165]
+Ran away!
+
+[program.752174]
+Projected {NAME:02}!
+
+[program.752186]
+Susanoo's Rage!
+
+[program.752196]
+Unknown World!
+
+[program.752215]
+Yellow Pollen!
+
+[program.752225]
+Great Fire!
+
+[program.752233]
+Anxiety Boost!
+
+[program.752244]
+Crystal Boy is playing!
+
+[program.752263]
+Grand Slasher!
+
+[program.752277]
+Ram!
+
+[program.752283]
+Gleadora!
+
+[program.752302]
+Poison Needle!
+
+[program.752321]
+Sludgy Fluid!
+
+[program.752334]
+Speed went down!
+
+[program.752349]
+Projected {NAME:01}!
+
+[program.752373]
+Confuse Breath!
+
+[program.752386]
+Saifa!
+
+[program.752392]
+Stream Flash!
+
+[program.752420]
+Stone Throw!
+
+[program.752428]
+Thunder!
+
+[program.752435]
+Scissor Cutter!
+
+[program.752445]
+Fire Wing!
+
+[program.752457]
+Devil Scissors!
+
+[program.752469]
+Scream of Terror!
+
+[program.752501]
+Great Prophecy!
+
+[program.752509]
+Flower Maze!
+
+[program.752519]
+Accuracy went down!
+
+[program.752535]
+Meteor Drop!
+
+[program.752545]
+Yellow Spell!
+
+[program.752556]
+Atomic Ray!
+
+[program.752565]
+Psycho Defense went down!
+
+[program.752584]
+Death Dust!
+
+[program.752608]
+Ram!
+
+[program.752614]
+Planet Buster!
+
+[program.752641]
+Royal Curse!
+
+[program.752651]
+Bite!
+
+[program.752657]
+Bite!
+
+[program.752671]
+Brain Break!
+
+[program.752683]
+Crane's Gratitude!
+
+[program.752694]
+Breathed fire!
+
+[program.752703]
+Tail!
+
+[program.752709]
+Thorn Whip!
+
+[program.752718]
+Claw Attack!
+
+[program.752737]
+Return Flower!
+
+[program.752758]
+Pincers!
+
+[program.752763]
+Poison Pliers!
+
+[program.752784]
+Bandages!
+
+[program.752790]
+World of Sleep!
+
+[program.752800]
+Strange Space!
+
+[program.752813]
+Fire Wall!
+
+[program.752823]
+Ice Bomb!
+
+[program.752831]
+Mind Control!
+
+[program.752844]
+Bio Gun!
+
+[program.752853]
+Nunchaku!
+
+[program.752860]
+Gathering power...
+
+[program.752873]
+Invited on a trip!
+
+[program.752882]
+Projected {NAME:19}!
+
+[program.752894]
+Ranzakul!
+
+[program.752902]
+Ground Split!
+
+[program.752920]
+Riquas!
+
+[program.752926]
+Riqua!
+
+[program.752931]
+Fall!
+
+[program.752937]
+Psycho power went down!
+
+[program.752953]
+Royal Curse!
+
+[program.752963]
+Flutter flutter!
+
+[program.752989]
+Holdia!
+
+[program.752997]
+Psycho was sealed!
+
+[program.753010]
+Projected {NAME:19}!
+
+[program.753022]
+Great Downpour!
+
+[program.753030]
+Barrier!
+
+[program.753048]
+Dual Machine Gun!
+
+[program.753061]
+Ran away!
+
+[program.753070]
+White Hurricane!
+
+[program.753092]
+Spear!
+
+[program.753096]
+Great Flood!
+
+[program.753104]
+Great Quake!
+
+[program.753112]
+Riqual!
+
+[program.753118]
+Death Splash!
+
+[program.753130]
+Special Sonic Wave!
+
+[program.753144]
+Accuracy went down!
+
+[program.753160]
+Dark Fog!
+
+[program.753171]
+Accuracy went down!
+
+[program.753187]
+Riquadora!!
+
+[program.753197]
+Golden Pendulum!
+
+[program.753207]
+Gave birth to a Crystal Boy!
+
+[program.753224]
+Life or death...
+
+[program.753234]
+Spider Thread!
+
+[program.753259]
+666!
+
+[program.753264]
+Is praying...
+
+[program.753274]
+Megafa!
+
+[program.753281]
+Sky Sword!
+
+[program.753302]
+Fire Breath!
+
+[program.753313]
+Legend Sword!
+
+[program.753335]
+Paralyze Gel!
+
+[program.753348]
+Great Cold Wave!
+
+[program.753367]
+Gigathunder!
+
+[program.753378]
+Maria's Smile!
+
+[program.753388]
+Its eyes glowed eerily!
+
+[program.753403]
+Killer Wing!
+
+[program.753413]
+Psychokinesis!
+
+[program.753422]
+A great wave struck!
+
+[program.753434]
+Became a Horn Beetle!
+
+[program.753462]
+Kweeeeeeeeh!
+
+[program.753501]
+Golden Pendulum!
+
+[program.753523]
+Rain of Sorrow!
+
+[program.753532]
+Lucky Punch!
+
+[program.753542]
+Double Scissor!
+
+[program.753553]
+Snack Time!
+
+[program.753563]
+Snip snip snip!!
+
+[program.753576]
+A gale blew!
+
+[program.753604]
+Pranadora!
+
+[program.753614]
+Aurora!
+
+[program.753634]
+Devil Claw!!
+
+[program.753645]
+Sonic Wave!
+
+[program.753667]
+The voice of Tokoyo!
+
+[program.753681]
+Charge Up!
+
+[program.753687]
+Discharge!
+
+[program.753693]
+Ancient Flame!
+
+[program.753703]
+True Super Sonic!
+
+[program.753716]
+Heavenly Robe!
+
+[program.753741]
+Self-Destruct!
+
+[program.753747]
+Play Time!
+
+[program.753759]
+Black Hole!
+
+[program.753769]
+Weapon knocked off!
+
+[program.753782]
+Moai's Curse!
+
+[program.753791]
+Defense went down!
+
+[program.753807]
+Stairway to Heaven!
+
+[program.753839]
+Salt Gel!
+
+[program.753848]
+Moai's Woe!
+
+[program.753857]
+Attack went down!
+
+[program.753873]
+Third Eye!
+
+[program.753892]
+Odyssey Zone!
+
+[program.753904]
+Fuba!
+
+[program.753910]
+Ion Ring!
+
+[program.753919]
+Body slammed!
+
+[program.753930]
+Wing Flap!
+
+[program.753942]
+Gigafa!
+
+[program.753950]
+Batty is trembling!
+
+[program.753965]
+Zefuba!
+
+[program.753973]
+Barnacles!
+
+[program.753981]
+Ice Breath!
+
+[program.753990]
+Flying Attack!
+
+[program.754002]
+Claw Attack!
+
+[program.754011]
+Pharaoh's Curse!
+
+[program.754033]
+Danced the Kecak!
+
+[program.754063]
+Sent out eerie waves!
+
+[program.754081]
+Drain!!
+
+[program.754089]
+Water Play!
+
+[program.754097]
+Kicked up sand!
+
+[program.754108]
+Nile Flood!
+
+[program.754118]
+Strike of Ra!
+
+[program.754128]
+Pharaoh's Curse
+
+[program.754137]
+Sandstorm!
+
+[program.754147]
+Laid eggs!
+
+[program.754153]
+Nembutsu!
+
+[program.754159]
+Blue Impulse!
+
+[program.754171]
+Controlled nature!
+
+[program.754185]
+Water of Enma!
+
+[program.754204]
+Blue Spell!
+
+[program.754213]
+Played the Legong!
+
+[program.754230]
+Psycho was sealed!
+
+[program.754243]
+Brain Cutter!
+
+[program.754265]
+Spider Needle!
+
+[program.754279]
+Crewel put up a barrier!
+
+[program.754298]
+Analyze!
+
+[program.754306]
+MP Control!
+
+[program.754326]
+Passive Wave!
+
+[program.754339]
+Defense went down!
+
+[program.754355]
+Rhino Attack!
+
+[program.754365]
+Elephant Attack!
+
+[program.754387]
+Whale Attack!
+
+[program.754399]
+Became a Red Alien!
+
+[program.754426]
+Sled!
+
+[program.754430]
+Poison Breath!
+
+[program.754442]
+Wing Guard!
+
+[program.754454]
+Defense went up!
+
+[program.754470]
+Riqua!
+
+[program.754475]
+Magnadora!
+
+[program.754485]
+Lansas!
+
+[program.754491]
+Lemuria Flash!
+
+[program.754502]
+Spewed sand!
+
+[program.754513]
+Hop hop hop!
+
+[program.754545]
+Showed a spring mirage!
+
+[program.754574]
+Death Sentence!
+
+[program.754595]
+10t Press!
+
+[program.754604]
+Charge!
+
+[program.754611]
+Refuba!
+
+[program.754618]
+Kiai!
+
+[program.754624]
+Attack and Defense up!
+
+[program.754647]
+Sonic Wave!
+
+[program.754655]
+Accuracy went down!
+
+[program.754671]
+Levantar blew!
+
+[program.754705]
+Fin!
+
+[program.754709]
+Tail!
+
+[program.754715]
+Accuracy went down!
+
+[program.754731]
+Wriggly things cling!
+
+[program.754750]
+Speed went down!
+
+[program.754765]
+Swirled its cape!
+
+[program.754778]
+Raised its speed!
+
+[program.754792]
+Red Spell!
+
+[program.754801]
+Riquadora!
+
+[program.754810]
+Sand Breath!
+
+[program.754820]
+Slammed its neck!
+
+[program.754833]
+Fire Breath!
+
+[program.754844]
+Crane's Cry!
+
+[program.754853]
+Accuracy went down!
+
+[program.754869]
+Elec!
+
+[program.754874]
+100t Press!
+
+[program.754892]
+Cosmo Power!
+
+[program.754901]
+Took its own Psycho!
+
+[program.754921]
+Big Bang!
+
+[program.754931]
+Riquaza!
+
+[program.754948]
+Blizzard Tail!
+
+[program.754961]
+Super Atavism!
+
+[program.754973]
+Super Spirit Ray!
+
+[program.754985]
+Garem!
+
+[program.754992]
+Harper!
+
+[program.754999]
+Foldor!
+
+[program.755007]
+Burnadora!
+
+[program.755017]
+Hercules Punch!
+
+[program.755028]
+Indio Prayer!
+
+[program.755040]
+Barong Power!
+
+[program.755050]
+Bloody Cross!
+
+[program.755063]
+Aztec Arrow!
+
+[program.755072]
+The Last Supper!
+
+[program.755097]
+Cosmic Memory!
+
+[program.755108]
+Meteor Strike!
+
+[program.755860]
+calmly
+
+[program.755865]
+eerily
+
+[program.755873]
+with cold eyes
+
+[program.755883]
+red in the face
+
+[program.755895]
+wiping sweat
+
+[program.755905]
+meekly
+
+[program.755911]
+smiling
+
+[program.755921]
+teary-eyed
+
+[program.755931]
+pleadingly
+
+[program.755941]
+like a girl
+
+[program.755950]
+smugly
+
+[program.755956]
+thrashing
+
+[program.755964]
+trembling
+
+[program.755976]
+in surrender
+
+[program.755983]
+sulkily
+
+[program.755993]
+eyes gleaming
+
+[program.756002]
+clinging
+
+[program.756015]
+waving
+
+[program.756026]
+reluctantly
+
+[program.756036]
+crying
+
+[program.756044]
+bowing
+
+[program.756053]
+winking
+
+[program.756063]
+haughtily
+
+[program.756073]
+skipping
+
+[program.756084]
+snorting
+
+[program.756092]
+doing the samba,
+
+[program.756098]
+doing jazz,
+
+[program.756109]
+doing flamenco,
+
+[program.756116]
+doing the Cossack,
+
+[program.756126]
+doing Swan Lake,
+
+[program.756138]
+breakdancing,
+
+[program.756149]
+doing Bon Odori,
+
+[program.756158]
+doing Tokyo Ondo,
+
+[program.756169]
+doing Awa Odori,
+
+[program.756177]
+swaying its hips
+
+[program.756189]
+headbanging
+
+[program.756207]
+doing the octopus,
+
+[program.756215]
+doing Hachioji,
+
+[program.756227]
+doing the Michael,
+
+[program.756237]
+doing Pink Lady,
+
+[program.756248]
+on a soapbox
+
+[program.756257]
+dancing naked,
+
+[program.756267]
+doing synchro swim,
+
+[program.756285]
+doing the monkey,
+
+[program.756295]
+like an idiot
+
+[program.756303]
+in agony
+
+[program.756310]
+in tears
+
+[program.756317]
+laughing
+
+[program.756325]
+muttering
+
+[program.756584]
+Nothing to say
+
+[program.756594]
+A Baby Smile lives in Chiba!
+
+[program.756618]
+A sword master's in Myaa Town!
+
+[program.756640]
+Neo-Kobe's nurse is a looker!
+
+[program.756664]
+Dr. Z isn't what he seems. Careful!
+
+[program.756685]
+Glover in Nagasaki has a ship!
+
+[program.756710]
+Found the Shisa Sword yet?
+
+[program.756727]
+I'm worth a lot of EXP!
+
+[program.756745]
+Osore Village is in Aomori!
+
+[program.756763]
+A Golden Whale lives by deep seas!
+
+[program.756792]
+A monster shrine's near Shimane!
+
+[program.756817]
+Yamata Orochi is weak to ice!
+
+[program.756835]
+Checked the white wall button?
+
+[program.756856]
+Dark Soldier is weak to Psycho!
+
+[program.756878]
+Drift ice reached Cape Rebun!
+
+[program.756902]
+Frostbitten? Use Saifa!
+
+[program.756923]
+Pokin Hut is being targeted!
+
+[program.756943]
+To go on, check the broken statue!
+
+[program.756965]
+Search 10 steps west of the east jar!
+
+[program.756989]
+A coward hides behind the Kremlin!!
+
+[program.757015]
+Director Pierre is quite something!
+
+[program.757042]
+A great detective's in London!
+
+[program.757063]
+Beware Gen. Crewel's fire attacks!
+
+[program.757091]
+Beware Crewel's last attack!
+
+[program.757117]
+Beware doors with no carpet!
+
+[program.757140]
+...right, right 1, left...
+
+[program.757156]
+Khufu's pyramid: 146 high, 230M a side
+
+[program.757184]
+Remember the floor pattern!
+
+[program.757207]
+Tree 16 steps north of equator!
+
+[program.757234]
+Bali is north of Lemur Village!
+
+[program.757257]
+There's a ship on this island...
+
+[program.757280]
+Your lady friend is mine!
+
+[program.757300]
+Seal Lord Kiata's Psycho!
+
+[program.757317]
+Got Bali's Magic Juice?
+
+[program.757344]
+Golden Whales carry lots of money!
+
+[program.757372]
+Bought the jewel at Horn's hut?
+
+[program.757394]
+Ice Whales carry Cosmo Stones!
+
+[program.757418]
+Been in the Oceania meteorite?
+
+[program.757437]
+Magic Juice in Angel Town!
+
+[program.757464]
+Go to NY from Angel Town!
+
+[program.757489]
+The three phantoms differ in nature!
+
+[program.757512]
+Know about the flight stone?
+
+[program.757533]
+Sand Whales carry EXP!
+
+[program.757557]
+Ararat Temple's north of Kasbah!
+
+[program.757583]
+Unequip all to see the Gold Village!
+
+[program.757611]
+Found the Lemuria Robe?
+
+[program.757628]
+Been to Nazca in South America?
+
+[program.757646]
+House of Salvation, Shikoku, Japan...
+
+[program.757670]
+Frostbite or snowed in? Saifa!
+
+[program.757693]
+I love my mama
+
+[program.757710]
+Been to the world's other meteorites?
+
+[program.757732]
+Been to the Mediterranean meteorite?
+
+[program.757755]
+I carry lots of money
+
+[program.757775]
+I carry lots of money
+
+[program.757793]
+I carry lots of Cosmo Stones
+
+[program.757815]
+I'm worth lots of EXP
+
+[program.757836]
+Equip Heal to face Lord Ra Mu!
+
+[program.757861]
+Snow Babies in Norwegian woods!
+
+[program.757886]
+Sado's Gold Bugs are rich!
+
+[program.757916]
+Poison Jar on Tutanka's cobras!
+
+[program.757943]
+Beware Poseidon's 3 servants!
+

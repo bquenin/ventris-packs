@@ -1,0 +1,79 @@
+[128.003]
+{SAY}{NAME:19}... {NAME:19}...!{/SAY}
+
+[128.004]
+{NAME:02}
+{SAY}{NAME:19}!{/SAY}
+
+[128.005]
+{NAME:02}
+{SAY}Everyone! {NAME:19} is...!{/SAY}
+
+[128.006]
+{NAME:01}
+{SAY}You're awake!{/SAY}
+
+[128.007]
+{NAME:03}
+{SAY}We were worried, {NAME:19}!{/SAY}
+
+[128.008]
+{NAME:02}
+{SAY}You took so long to wake up...{/SAY}
+
+[128.009]
+{NAME:01}
+{SAY}Looks like you're okay! What a relief!{WAIT}...Huh? Where are we?{/SAY}
+
+[128.010]
+{NAME:01}
+{SAY}Well now, I wonder where we've washed up...{WAIT}It's not Japan, that's for sure.{WAIT}Well, that can wait till it's light.{/SAY}
+
+[128.011]
+{NAME:01}
+{SAY}Jeez, we had a rough time...{PAUSE:14} Well, I'm glad everyone's safe.{/SAY}
+
+[128.012]
+{NAME:01}
+{SAY}Hey, looks like you're awake!!{WAIT}Now, what's going to happen from here...{WAIT}Anyway, let's get going!!{/SAY}
+
+[128.013]
+{NAME:02}
+{SAY}Don't push yourself. Rest up.{WAIT}It's warm by the fire.{/SAY}
+
+[128.014]
+{NAME:02}
+{SAY}Good morning.{WAIT}...Where on earth are we?{/SAY}
+
+[128.015]
+{NAME:03}
+{SAY}...Where are we, anyway? I wish it'd hurry up and be morning...{/SAY}
+
+[128.016]
+{NAME:03}
+{SAY}...Huh? No, I'm fine.{HOLD}Just a little tired......{/SAY}
+
+[128.017]
+
+《A warm-looking fire...》
+
+[128.018]
+
+《Rest here?》
+
+[128.020]
+{NAME:01}
+{SAY}{NAME:19}!{/SAY}
+
+[128.021]
+{NAME:01}
+{SAY}I know how you feel... but today you'd better rest up.{/SAY}
+
+[128.022]
+{NAME:01}
+{SAY}Wait, {NAME:19}!{/SAY}
+
+[128.023]
+{NAME:01}
+{SAY}Heading out already? All right, let's go!{/SAY}
+

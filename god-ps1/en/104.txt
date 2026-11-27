@@ -1,0 +1,32 @@
+[104.000]
+{NAME:02}
+{SAY}What's that? ...A statue?{/SAY}
+
+[104.002]
+{NAME:04}
+{SAY}...No... it's alive!{/SAY}
+
+[104.003]
+Poseidon
+{SAY}Heh heh heh. Foolish creatures...{/SAY}
+
+[104.004]
+{NAME:01}
+{SAY}So you're the aliens' ringleader!{/SAY}
+
+[104.005]
+Poseidon
+{SAY}...My name is Poseidon.{PAUSE:28} King of Atlantis.{WAIT}{PAUSE:28}Know that your battles until now have been in vain.{/SAY}
+
+[104.006]
+{NAME:01}
+{SAY}{NAME:19}! We have to get out!{/SAY}
+
+[104.007]
+
+《It is sealed...》
+
+[104.008]
+　《Whence do we come, and whither do we go?》
+　　　　　　　　　《Atlantis》
+

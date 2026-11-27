@@ -1,0 +1,132 @@
+[103.000]
+Write in diary
+Read diary
+Quit
+
+[103.002]
+{SAY}Hey, {NAME:19}. Huh? What's wrong, spacing out like that?{WAIT}It's dangerous up ahead, so I can't let you through without Dr. Croiset's permission.{WAIT}...But you should know that already, right?{/SAY}
+
+[103.003]
+{SAY}Hey, {NAME:19}. I got word from the doctor.{/SAY}
+
+[103.004]
+　But climbing this mountain
+　with that gear is crazy.
+　Equip a weapon first!
+
+[103.005]
+　This mountain is crawling
+　with monsters, so be careful.
+
+[103.006]
+{SAY}Oh, that's right. You should take this with you!{/SAY}
+
+[103.007]
+
+《Got {WORD}!》
+
+[103.008]
+{SAY}This mountain is crawling with monsters, so be careful.{/SAY}
+
+[103.009]
+{SAY}Ugh...{WAIT}All of a sudden, aliens attacked...{WAIT}Gurk{/SAY}
+
+[103.010]
+{SAY}..........{/SAY}
+
+[103.011]
+　　~DANGER.........."
+
+[103.012]
+　{SAY}This is Mt. Tsukubane, famous for its toad oil... or it used to be.{WAIT}Tsukubane Village, at the foot of the mountain, was destroyed ten years ago.{WAIT}If you're tired, why not stay the night? 100G.{/SAY}
+
+
+[103.013]
+　{SAY}You don't have enough money!{/SAY}
+
+[103.014]
+　{SAY}Want to look at your diary?{/SAY}
+
+
+[103.015]
+　{SAY}Suit yourself.{/SAY}
+
+[103.016]
+
+《Found {WORD}!》
+
+[103.017]
+
+《Got {WORD}!》
+
+[103.018]
+《But you already have 99 {WORD}!》
+
+[103.019]
+
+《Gave up on {WORD}...》
+
+[103.020]
+
+　《{NAME:19} found {WORD}!》
+
+[103.021]
+
+《Got {WORD}!》
+
+[103.022]
+《But you already have 99 {WORD}!》
+
+[103.023]
+
+《Gave up on {WORD}...》
+
+[103.024]
+
+《Drank the spring water!》
+
+[103.025]
+
+《HP was restored!》
+
+[103.026]
+　　Danger ahead.
+　　　　　No entry!　　　　
+　~A request from Tsukubane Bless~
+
+[103.027]
+《{NAME:19} gazed at the distant towns.{WAIT}...His hometown can no longer be seen...》
+
+[103.028]
+{SAY}Who's there!?{PAUSE:14} Who dares disturb my slumber!{/SAY}
+
+[103.029]
+{SAY}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}I won't forgive you!{/SAY}
+
+[103.030]
+Batty
+{SAY}...You'll pay for this, I swear!{/SAY}
+
+[103.031]
+
+《{NAME:19} touched the strange glowing stone!》
+
+[103.032]
+《The strange light faded...{PAUSE:0F} {NAME:19} felt a strange power dwelling in his body...》
+
+[103.033]
+
+《...{PAUSE:0F}His head{PAUSE:0A} hurts a little...》
+
+[103.034]
+
+《A strange power enveloped {NAME:19}!》
+
+[103.035]
+
+《{NAME:19}'s HP was restored!》
+
+[103.036]
+
+《Something is written here.{WAIT}...But {NAME:19} couldn't read it.》
+

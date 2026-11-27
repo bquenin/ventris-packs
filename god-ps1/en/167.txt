@@ -1,0 +1,56 @@
+[167.000]
+Write in diary
+Read diary
+Quit
+
+[167.002]
+Zorba
+{SAY}...{PAUSE:1E}{NAME:04}!{PAUSE:1E} You lot! What are you doing here!?{WAIT}Whoa, I've had enough of getting punched.{WAIT}...{PAUSE:1E}Don't tell me you came looking for the legendary sunken continent too!?{WAIT}No... never mind. If you don't know, forget it.{/SAY}
+
+[167.003]
+Zorba
+{SAY}...{PAUSE:1E}If you wanna sleep, go ahead.{WAIT}{PAUSE:1E}I'm not the type of crook who just punches people.{/SAY}
+
+[167.004]
+{SAY}Then you gonna look at your diary?{/SAY}
+
+[167.005]
+Zorba
+{SAY}Tch. ...Whatever you like.{/SAY}
+
+[167.006]
+{NAME:01}
+{SAY}This is...{/SAY}
+
+[167.007]
+{NAME:04}
+{SAY}Hm... it's filled with a strange power.{/SAY}
+
+[167.008]
+{NAME:02}
+{SAY}Ah!{/SAY}
+
+[167.009]
+{NAME:01}
+{SAY}{NAME:02}! ...Whoa!{/SAY}
+
+[167.010]
+{NAME:04}
+{SAY}What is this... hm!{/SAY}
+
+[167.012]
+{NAME:01}
+{SAY}This is...{/SAY}
+
+[167.013]
+{NAME:04}
+{SAY}Oh... the Holy Crest...{/SAY}
+
+[167.014]
+{NAME:01}
+{SAY}It's glowing...{/SAY}
+
+[167.015]
+{NAME:02}
+{SAY}Ah!{/SAY}
+

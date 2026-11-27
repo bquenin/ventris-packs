@@ -1,0 +1,383 @@
+[136.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[136.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[136.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[136.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[136.005]
+Write in diary
+Read diary
+Quit
+
+[136.006]
+{SAY}That Ivan kid collapsed outside the station a while back,{WAIT}and Mr. Warenkov saved him.{/SAY}
+
+[136.007]
+{SAY}I wonder where that Ivan kid went...{/SAY}
+
+[136.008]
+{SAY}You shouldn't play with him!{HOLD}Wanna know why?{/SAY}
+
+[136.009]
+{SAY}He's not HUMAN!{WAIT}Everybody knows it!!{/SAY}
+
+[136.010]
+{SAY}You'd better know.{WAIT}He's not human.{/SAY}
+
+[136.011]
+{SAY}He's gone.{WAIT}He's not human, so he shouldn't be here, right?{/SAY}
+
+[136.012]
+{SAY}There's a weird kid at this station!{/SAY}
+
+[136.013]
+{SAY}Mister, you shouldn't play with that kid!{WAIT}Mama said so!{/SAY}
+
+[136.014]
+{SAY}Hey, mister.{WAIT}Should I have been nicer to that Ivan kid?{/SAY}
+
+[136.015]
+{SAY}You're telling me to be friends with an alien!{/SAY}
+
+[136.016]
+{SAY}Right, he's an alien.{/SAY}
+
+[136.017]
+{SAY}I think things would work out if we went east...{WAIT}but the tracks are wrecked...{/SAY}
+
+[136.018]
+{SAY}The children were supposed to come on the next train...{WAIT}Just the other day, an alien attack destroyed the last remaining tracks.{WAIT}I hope the train is all right...{/SAY}
+
+[136.019]
+{SAY}The children were supposed to come on the next train...{WAIT}Just the other day, an alien attack destroyed the last remaining tracks.{WAIT}I hope the train is all right...{/SAY}
+
+[136.020]
+{SAY}We can live together as a family again.{WAIT}As long as a family can be together, any age is a happy one.{/SAY}
+
+[136.021]
+{SAY}Northwest of here is this country's shelter...{WAIT}But poor folk like us aren't let in...{/SAY}
+
+[136.022]
+{SAY}Vanya? Hmm{PAUSE:28}{WAIT}I've heard that name somewhere...{WAIT}Where was it?{/SAY}
+
+[136.023]
+{SAY}Is that so?{WAIT}You're traveling...{WAIT}Must be nice to be young.{/SAY}
+
+[136.024]
+{SAY}Ow, hot!{/SAY}
+
+[136.025]
+{SAY}Since the trains stopped coming, sales have dried up...{WAIT}What? A customer!?{/SAY}
+
+[136.026]
+{SAY}They say the shelter is really warm and has food!{WAIT}...Lucky.{/SAY}
+
+[136.027]
+{SAY}...This is Moscow Station on the Trans-Siberian.{WAIT}Everyone fled here, aiming for this country, but...{/SAY}
+
+[136.028]
+{SAY}A while back, an American came on a handcar and charged right out, vich.{WAIT}He said he was heading west.{/SAY}
+
+[136.029]
+{SAY}What!?{WAIT}Someone who can fix the shelter's main system?{WAIT}Nobody like that here!{/SAY}
+
+[136.030]
+{SAY}What!?{WAIT}Mr. Warenkov left.{WAIT}I don't know where he went.{/SAY}
+
+[136.031]
+{SAY}Hm, your friend looks a lot like the American who came on a handcar a while back...{/SAY}
+
+[136.032]
+{SAY}We finally fixed the tracks and finally got a train running, and the aliens wrecked it again...{WAIT}I give up.{/SAY}
+
+[136.033]
+{SAY}Vanya? The great thief? Someone like that wouldn't be in a place like this!{/SAY}
+
+[136.034]
+{SAY}They say Mr. Warenkov left!{WAIT}I wonder if something painful happened...{/SAY}
+
+[136.035]
+{SAY}I rent tents for 300G a night. Will you stay?{/SAY}
+
+[136.036]
+{SAY}You don't have enough money.{/SAY}
+
+[136.037]
+{SAY}Then will you write in your diary on the quiet?{/SAY}
+
+[136.038]
+{SAY}Use it anytime!{/SAY}
+
+[136.039]
+{SAY}The last tracks were destroyed, and there's no hope of repair...{/SAY}
+
+[136.040]
+{SAY}Did you meet the man outside?{/SAY}
+
+[136.041]
+{SAY}His name is Warenkov. He's a bit odd,{WAIT}but they say he's very skilled.{WAIT}What!?{PAUSE:3C} Skilled at what?{WAIT}Well, I don't know that much.{/SAY}
+
+[136.042]
+{SAY}He wandered into this station long ago...{WAIT}Has he gone now?{/SAY}
+
+[136.043]
+{SAY}They say Mr. Warenkov is gone.{WAIT}Leaving town in times like these... something serious must have happened.{/SAY}
+
+[136.044]
+{SAY}Beyond here is the Trans-Siberian platform...{WAIT}It's of no use now.{/SAY}
+
+[136.045]
+{SAY}Vanya? Never heard of him... Warenkov, though, I've heard of...{/SAY}
+
+[136.046]
+{SAY}Beyond here is the Trans-Siberian platform...{WAIT}It's of no use now.{/SAY}
+
+[136.047]
+{SAY}I was supposed to see him for the first time in three years...{WAIT}What could have happened...{/SAY}
+
+[136.048]
+{SAY}We met again after three years...{WAIT}How much he must have gone through to come see me.{/SAY}
+
+[136.049]
+{SAY}Natasha!{WAIT}I missed you......{/SAY}
+
+[136.050]
+{SAY}Ah!?{WAIT}Mister...{WAIT}Thanks. Thanks to you, we finally got to see Dad!{/SAY}
+
+[136.051]
+{SAY}Dad...{/SAY}
+
+[136.052]
+{SAY}Even if we can't get into the shelter, we're the lucky ones.{WAIT}Some folks aren't even let into this station.{/SAY}
+
+[136.053]
+{SAY}I came all this way believing in something...{WAIT}...Do these tracks still lead to my hometown...{/SAY}
+
+[136.054]
+{SAY}Did you see the odd child outside?{/SAY}
+
+[136.055]
+{SAY}...As you can see, that child isn't like other children...{WAIT}Everyone finds him creepy and stays away, but Mr. Warenkov is kind to him.{WAIT}A good-hearted man.{/SAY}
+
+[136.056]
+{SAY}That child is not a normal child.{WAIT}...No, he may not even be human.{WAIT}I'm so, so scared...{/SAY}
+
+[136.057]
+{SAY}That child left...... saying, "Because I'm not human..."{WAIT}But what could we have done...{/SAY}
+
+[136.058]
+{SAY}My grandchild was killed by aliens...{WAIT}Why only that child...{/SAY}
+
+[136.059]
+{SAY}This is where Moscow... used to be.{WAIT}Now it's a shadow of itself.{/SAY}
+
+[136.060]
+{SAY}Well, how rare.{WAIT}A traveler?{WAIT}This is Moscow Station.{/SAY}
+
+[136.061]
+{SAY}Europe!{WAIT}If we can just get to Europe, things will work out!!{/SAY}
+
+[136.062]
+{SAY}In times like these... it's surely the same wherever you go.{/SAY}
+
+[136.063]
+Ivan
+{SAY}I look a little different from other kids...{/SAY}
+
+[136.064]
+Ivan
+{SAY}Why do I get picked on...{/SAY}
+
+[136.065]
+Tell what you know
+Stay quiet
+
+[136.066]
+{SAY}But I believe someday I'll make a friend...!{/SAY}
+
+[136.067]
+{SAY}...What!? I'm not human...{/SAY}
+
+[136.068]
+{SAY}But I believe someday I'll make a friend...!{/SAY}
+
+[136.069]
+Ivan
+{SAY}Why do I get picked on...{/SAY}
+
+[136.070]
+Ivan
+{SAY}.........{/SAY}
+
+[136.071]
+{SAY}Hey, mister, will you be my friend?{/SAY}
+
+[136.072]
+{SAY}Thank you...{PAUSE:1E} But you'd better not be my friend.{/SAY}
+
+[136.073]
+{SAY}Sorry for being selfish{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{/SAY}
+
+[136.074]
+Ivan
+{SAY}Why do I{WAIT}get picked on...{/SAY}
+
+[136.075]
+Ivan
+{SAY}Mister...{WAIT}take care!{/SAY}
+
+[136.076]
+Ivan
+{SAY}Mister is gone too......{/SAY}
+
+[136.077]
+Warenkov
+{SAY}...What do you want? Please leave.{WAIT}The boy? The boy left.{WAIT}Saying he mustn't stay here...{/SAY}
+
+[136.078]
+Warenkov
+{SAY}...What do you want? Please leave.{WAIT}The boy? The boy left.{WAIT}Saying he mustn't stay here...{/SAY}
+
+[136.079]
+Warenkov
+{SAY}...Looking at him, I feel like I'm looking at my old self.{/SAY}
+
+[136.080]
+Warenkov
+{SAY}...Looking at him, I feel like I'm looking at my old self.{/SAY}
+
+[136.081]
+Warenkov
+{SAY}...Please leave.{/SAY}
+
+[136.082]
+Warenkov
+{SAY}You again. It's no use, however many times you come.{/SAY}
+
+[136.083]
+《{NAME:19} passed on what the hide-and-seek old man said》
+
+[136.084]
+Warenkov
+{SAY}......{/SAY}
+
+[136.085]
+Warenkov
+{SAY}...You have the wrong man.{/SAY}
+
+[136.086]
+Warenkov
+{SAY}...What do you want? Please leave.{/SAY}
+
+[136.092]
+{NAME:02}
+{SAY}Um...{/SAY}
+
+[136.093]
+Warenkov
+{SAY}..........{/SAY}
+
+[136.094]
+{NAME:02}
+{SAY}Could you be... the one called Vanya...{/SAY}
+
+[136.095]
+{SAY}What do you want? ...Vanya? No. My name is Warenkov.{/SAY}
+
+[136.096]
+{NAME:02}
+{SAY}Please. The shelter's system has been destroyed...{WAIT}At this rate, everyone's in danger!{WAIT}Won't you fix it? Please!{/SAY}
+
+[136.097]
+Warenkov
+{SAY}You have the wrong man. I don't know anyone named Vanya.{/SAY}
+
+[136.098]
+《{NAME:02} took Warenkov's hand...》
+
+[136.099]
+{NAME:02}
+{SAY}...It's no good. I can't read your heart.{WAIT}The barrier of sorrow is too strong. I can't read your heart...{/SAY}
+
+[136.100]
+《{NAME:02} sent her feelings into Warenkov's heart》
+
+[136.101]
+{NAME:02}
+{SAY}...{PAUSE:05}Our friend...{PAUSE:10} his lover was killed... west...{PAUSE:1E} so we have to...{PAUSE:14} hurry...{PAUSE:14} after him...{/SAY}
+
+[136.102]
+Warenkov
+{SAY}...{PAUSE:1E}I am not Vanya.{/SAY}
+
+[136.103]
+{NAME:04}
+{SAY}You have wonderful knowledge and skill, do you not?{WAIT}Please, help the people in the shelter.{/SAY}
+
+[136.104]
+Warenkov
+{SAY}...You have the wrong man.{/SAY}
+
+[136.111]
+{SAY}Hey! Look over here!{/SAY}
+
+[136.112]
+{SAY}Nyah nyah! Weird face!{/SAY}
+
+[136.113]
+{SAY}They say you don't remember anything!{/SAY}
+
+[136.114]
+{SAY}Nyah nyah!!{/SAY}
+
+[136.115]
+Ivan
+{SAY}..........{/SAY}
+
+[136.116]
+{SAY}Hey!{/SAY}
+
+[136.117]
+Warenkov
+{SAY}What are you doing! You brats!{/SAY}
+
+[136.118]
+{SAY}Uh-oh! Run~!{/SAY}
+
+[136.119]
+Warenkov
+{SAY}Ivan...{/SAY}
+
+[136.120]
+Ivan
+{SAY}...I'm okay, mister. I don't mind at all!{/SAY}
+
+[136.123]
+{SAY}Please wait!{/SAY}
+
+[136.124]
+{NAME:02}
+{SAY}Vanya!{PAUSE:14} ...No, Mr. Warenkov!{/SAY}
+
+[136.125]
+Warenkov
+{SAY}...{PAUSE:0A}I'll see if I can fix it...{/SAY}
+
+[136.126]
+{NAME:02}
+{SAY}Then you'll come with us to the shelter?{/SAY}
+
+[136.127]
+Warenkov
+{SAY}...Yes.{WAIT}{PAUSE:1E}I am not Vanya, but I'll try.{/SAY}
+
+[136.128]
+
+《Warenkov agreed to come!》
+

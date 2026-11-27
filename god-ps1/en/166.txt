@@ -1,0 +1,368 @@
+[166.000]
+Write in diary
+Read diary
+Quit
+
+[166.003]
+{NAME:01}
+{SAY}What's this...?{/SAY}
+
+[166.004]
+{NAME:04}
+{SAY}Some kind of... keyhole...?{/SAY}
+
+[166.005]
+{NAME:02}
+{SAY}That hole there...{/SAY}
+
+[166.006]
+{NAME:04}
+{SAY}Sir {NAME:19}! Noah's Crest!{/SAY}
+
+[166.007]
+
+《Set Noah's Crest in place!》
+
+[166.008]
+{NAME:01}
+{SAY}What happened?{/SAY}
+
+[166.009]
+Old man
+{SAY}Oh...!{PAUSE:1E} You broke the seal on this temple!{/SAY}
+
+[166.010]
+Old man
+{SAY}An old legend says:{WAIT}
+{CLEAR}"Let the one who carries the feelings bring the Stone of Truth and offer it to the sacred bird.{HOLD}Then we shall meet again."{/SAY}
+
+[166.011]
+{NAME:04}
+{SAY}You know of the Stone of Truth!{/SAY}
+
+[166.012]
+{NAME:01}
+{SAY}It's here, isn't it!?{/SAY}
+
+[166.013]
+Old man
+{SAY}But... long ago, someone dug it up...{/SAY}
+
+[166.014]
+{NAME:01}
+{SAY}Who dug up the Stone of Truth!?{/SAY}
+
+[166.015]
+Old man
+{SAY}...That I don't know.{WAIT}But my task of telling the legend is done...{/SAY}
+
+[166.016]
+{SAY}Um...{PAUSE:14} Was the truth written on the stone tablet?{/SAY}
+
+[166.017]
+Old man
+{SAY}Pay her no mind.{WAIT}She came to this temple alone over the eastern mountains, years ago.{WAIT}Saying a book with the truth written in it must be here.{WAIT}...That the one she loves would soon come here seeking the truth...{WAIT}That's all she says.{/SAY}
+
+[166.018]
+{SAY}Was the truth written there...?{/SAY}
+
+[166.019]
+Old man
+{SAY}She must have suffered terribly.{WAIT}When she got here, she'd gone blind.{WAIT}She can't be that old yet...{WAIT}No wonder... she crossed those mountains alone...{/SAY}
+
+[166.020]
+{NAME:04}
+{SAY}...{PAUSE:28}Oh,{PAUSE:05} Fahrah{PAUSE:1E}...{PAUSE:1E} oh...{/SAY}
+
+[166.021]
+Fahrah
+{SAY}The truth...{PAUSE:0A} the truth...{/SAY}
+
+[166.022]
+{NAME:04}
+{SAY}...{PAUSE:14}Oh...{PAUSE:14} Fahrah.{/SAY}
+
+[166.023]
+Fahrah
+{SAY}...{PAUSE:1E}It can't be...{PAUSE:1E} that voice{PAUSE:1E}...{PAUSE:1E} it can't be...{/SAY}
+
+[166.024]
+{NAME:04}
+{SAY}Fahrah!{/SAY}
+
+[166.025]
+Fahrah
+{SAY}...{PAUSE:1E}Is it you, {NAME:04}?{WAIT}{PAUSE:14}...{PAUSE:14}Is it really you...{/SAY}
+
+[166.026]
+{NAME:04}
+{SAY}It's me, {NAME:04}... Fahrah.{/SAY}
+
+[166.027]
+Fahrah
+{SAY}...{PAUSE:14}Your face...{PAUSE:14} let me touch your face.{/SAY}
+
+[166.028]
+Fahrah
+{SAY}Oh{PAUSE:14}...{PAUSE:14} {NAME:04}...{PAUSE:1E} It's you... At last...{PAUSE:0F} we meet...{/SAY}
+
+[166.029]
+{NAME:04}
+{SAY}...{PAUSE:14}Fahrah.{/SAY}
+
+[166.030]
+Fahrah
+{SAY}...{PAUSE:0F}At last we meet......{/SAY}
+
+[166.031]
+{NAME:04}
+{SAY}Fahrah!{/SAY}
+
+[166.032]
+{NAME:01}
+{SAY}So long, old man...{PAUSE:1E} no, {NAME:04}.{/SAY}
+
+[166.033]
+{NAME:04}
+{SAY}Sir {NAME:19}, Sir {NAME:01}, Lady {NAME:02}.{WAIT}Forgive me.{/SAY}
+
+[166.034]
+{NAME:01}
+{SAY}Don't mention it. Leave the aliens to us.{/SAY}
+
+[166.035]
+{NAME:02}
+{SAY}Be happy with Fahrah.{/SAY}
+
+[166.036]
+{NAME:04}
+{SAY}Sir {NAME:19}...{WAIT}I don't know what to say... The rest is up to you.{/SAY}
+
+[166.037]
+{NAME:01}
+{SAY}Well, let's go!{/SAY}
+
+[166.038]
+Fahrah
+{SAY}...{PAUSE:1E}{NAME:04}.{/SAY}
+
+[166.039]
+{NAME:04}
+{SAY}What is it?{/SAY}
+
+[166.040]
+Fahrah
+{SAY}Did you find the truth?{/SAY}
+
+[166.041]
+{NAME:04}
+{SAY}...{PAUSE:14}Yes.{PAUSE:1E} It's right in front of me.{/SAY}
+
+[166.042]
+Fahrah
+{SAY}...{PAUSE:1E}How much longer should I wait?{/SAY}
+
+[166.043]
+{NAME:04}
+{SAY}What?{/SAY}
+
+[166.044]
+Fahrah
+{SAY}Until you find the truth?{/SAY}
+
+[166.045]
+{NAME:04}
+{SAY}Fahrah...{/SAY}
+
+[166.046]
+Fahrah
+{SAY}It won't be a whole year this time, will it?{/SAY}
+
+[166.047]
+{NAME:04}
+{SAY}...............{/SAY}
+
+[166.048]
+Fahrah
+{SAY}I've waited so long already. A little more is fine.{WAIT}{NAME:04}, go and see the one single truth.{WAIT}And tell me about it. Okay, {NAME:04}?{/SAY}
+
+[166.049]
+{NAME:04}
+{SAY}...{PAUSE:1E}Fahrah.{/SAY}
+
+[166.050]
+Fahrah
+{SAY}Soon. Come back soon. I'll be waiting, {NAME:04}.{/SAY}
+
+[166.051]
+{NAME:04}
+{SAY}It's all right. I've already found it.{/SAY}
+
+[166.052]
+Fahrah
+{SAY}Liar.{PAUSE:14} ...I always know how the one I love feels.{WAIT}...Soon. Come back soon, {NAME:04}.{/SAY}
+
+[166.053]
+{NAME:04}
+{SAY}...{PAUSE:28}Fahrah. This is the last time I make you wait. I'll be back soon.{/SAY}
+
+[166.054]
+Fahrah
+{SAY}I'll be waiting.{/SAY}
+
+[166.055]
+{NAME:02}
+{SAY}This is...{/SAY}
+
+[166.056]
+{NAME:01}
+{SAY}{NAME:19}! Let's check it out!{/SAY}
+
+[166.057]
+{NAME:01}
+{SAY}This is......{/SAY}
+
+[166.058]
+{NAME:04}
+{SAY}An alien... ruin?{/SAY}
+
+[166.059]
+{NAME:02}
+{SAY}Wait.{/SAY}
+
+[166.060]
+{NAME:02}
+{SAY}Something's... written here...{/SAY}
+
+[166.061]
+
+《{NAME:02} touched the writing...》
+
+[166.062]
+　The name of that ship...
+
+[166.063]
+{NAME:04}
+{SAY}What is it?{/SAY}
+
+[166.064]
+{NAME:02}
+{SAY}The name of that ship...{PAUSE:19} "Noah's Ark"!{/SAY}
+
+[166.065]
+{NAME:04}
+{SAY}Noah's Ark!? It was real!{/SAY}
+
+[166.066]
+{NAME:01}
+{SAY}No way!?{/SAY}
+
+[166.067]
+{NAME:04}
+{SAY}Lady {NAME:02}! Does it say where they went?{/SAY}
+
+[166.068]
+{NAME:02}
+{SAY}Only... to the sky.{/SAY}
+
+[166.069]
+{NAME:01}
+{SAY}The sky... space...?{/SAY}
+
+[166.070]
+{NAME:04}
+{SAY}With this Stone of Truth, we might follow them.{/SAY}
+
+[166.071]
+{NAME:01}
+{SAY}So that's their home base!{WAIT}But...{/SAY}
+
+[166.072]
+{NAME:01}
+{SAY}There's no such thing anywhere here...{/SAY}
+
+[166.073]
+
+《Something seems to have been set here...》{WAIT}
+{CLEAR}
+《There's writing carved below it. Read it?》
+
+[166.074]
+　The name of that ship...{PAUSE:19}
+　"Noah's Ark"!
+
+[166.075]
+{NAME:02}
+{SAY}I feel it... the feeling put into these words...{WAIT}
+{CLEAR}"God grew angry at our people, proud of their great power.{WAIT}Mountains spewed fire, seas raged, and God made it rain forty days and forty nights.{WAIT}Three continents sank into the sea, and we reached this land by ship.{WAIT}But God's wrath did not cease.{WAIT}Now we set out for the sky.{WAIT}We swear that one day we will fight God and take back this mother world.{WAIT}For the one, not yet seen, who will carry our feelings, we leave the Stone of Truth here.{WAIT}One day we shall return.{WAIT}With that prayer, the ship now sets out."{/SAY}
+
+[166.076]
+
+《...Repelled by a strange power...》
+
+[166.077]
+Fahrah
+{SAY}Oh, {NAME:04}. ...Is it over?{WAIT}I always know how the one I love feels.{WAIT}Everyone, please look after {NAME:04}.{WAIT}{NAME:04}, I'll be fine. Come back soon.{/SAY}
+
+[166.078]
+Fahrah
+{SAY}Oh, {NAME:04}.{WAIT}I don't know if it'll help, but let me teach you this.{/SAY}
+
+[166.079]
+
+《{NAME:04} learned True Stone Body!》
+
+[166.080]
+Fahrah
+{SAY}{NAME:04}, I'll be fine. Come back soon.{/SAY}
+
+[166.081]
+
+《There's something like a switch in the jar...》
+
+[166.082]
+
+《Press it?》
+
+[166.083]
+
+《A strange sound came from somewhere...》
+
+[166.084]
+
+《The switch is pressed...》
+
+[166.085]
+Old man
+{SAY}Oh, it's been decades since anyone visited Ararat Temple.{WAIT}I've guarded this temple all along.{WAIT}But as you see, most of it is under water.{WAIT}You can't get inside...{/SAY}
+
+[166.086]
+Old man
+{SAY}...Hm? That crest you carry...{WAIT}Isn't that Noah's Crest, handed down at Ararat Temple?{WAIT}Oh, if it's real, set it in the keyhole out front.{WAIT}Something is sure to happen!{/SAY}
+
+[166.087]
+Old man
+{SAY}...That crest you carry...{WAIT}Set it in the keyhole out front.{WAIT}If it's real, something is sure to happen!{/SAY}
+
+[166.088]
+Old man
+{SAY}Oh... Ararat Temple, revived...{WAIT}It pays to live long...{/SAY}
+
+[166.089]
+Old man
+{SAY}The legend goes like this.{WAIT}
+{CLEAR}"Let the one who revives the temple bring the Stone of Truth and offer it to the sacred bird.{WAIT}Then we shall meet."{WAIT}...But someone dug up the Stone of Truth.{/SAY}
+
+[166.090]
+{SAY}This has long been known as a holy place for training.{WAIT}100G a night. Will you stay?{/SAY}
+
+[166.091]
+{SAY}You don't have enough money!{/SAY}
+
+[166.092]
+{SAY}Then look at your diary?{/SAY}
+
+
+[166.093]
+{SAY}Take care.{/SAY}
+

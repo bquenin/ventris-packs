@@ -1,0 +1,597 @@
+[108.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[108.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[108.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[108.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[108.005]
+Write in diary
+Read diary
+Quit
+
+[108.006]
+
+《It seems to have collapsed inside...》
+
+[108.008]
+Captain
+{SAY}Whew... that was close...{/SAY}
+
+[108.009]
+Captain
+{SAY}I told you to stay back... I could've beaten it by myself...{WAIT}Well, good luck!{/SAY}
+
+[108.010]
+Dan Kichi
+{SAY}{NAME:19}!{/SAY}
+
+[108.011]
+Dan Kichi
+{SAY}Oh, {NAME:19}. Just the man I took you for. Quite something!{/SAY}
+
+[108.012]
+Dan Kichi
+{SAY}All right! Back to Myaa Town!{WAIT}Come on! Let's go!{/SAY}
+
+[108.013]
+
+《Found the Zoo Key!》
+
+[108.024]
+Dan Kichi
+{SAY}Hm...? That's... looks like some kind of key...{/SAY}
+
+[108.025]
+Dan Kichi
+{SAY}Ah!{/SAY}
+
+[108.026]
+Dan Kichi
+{SAY}Hm...? That's... looks like some kind of key...{/SAY}
+
+[108.027]
+Dan Kichi
+{SAY}Ah!{/SAY}
+
+[108.028]
+Dan Kichi
+{SAY}Hm...? That's... looks like some kind of key...{/SAY}
+
+[108.029]
+Dan Kichi
+{SAY}Ah!{/SAY}
+
+[108.030]
+Dan Kichi
+{SAY}Hm...? That's... looks like some kind of key...{/SAY}
+
+[108.031]
+Dan Kichi
+{SAY}Ah!{/SAY}
+
+[108.032]
+Dan Kichi
+{SAY}Hm...? That's... looks like some kind of key...{/SAY}
+
+[108.033]
+Dan Kichi
+{SAY}Ah!{/SAY}
+
+[108.036]
+{SAY}Evacuation of the wounded complete!{/SAY}
+
+[108.037]
+Captain
+{SAY}Good work.{/SAY}
+
+[108.038]
+Captain
+{SAY}That completes our mission.{WAIT}The Attack Team will now return to Neo-Kobe.{/SAY}
+
+[108.039]
+{SAY}Sir!{/SAY}
+
+[108.040]
+Captain
+{SAY}Let's move out!{/SAY}
+
+[108.041]
+《It's locked. ...A terrifying voice can be heard from inside.》
+
+[108.042]
+{SAY}The captain... went in alone...{/SAY}
+
+[108.043]
+{SAY}...What on earth is going on in this zoo?{/SAY}
+
+[108.044]
+{SAY}Ugh... Not beaten by a monster, but by an ordinary lion...{/SAY}
+
+[108.045]
+{SAY}Oh? Is it you? The ones who helped the captain?{HOLD}Thank you so much.{WAIT}By the way, would you like to rest?{/SAY}
+
+[108.046]
+{SAY}Then would you like to write in your diary on the quiet?{/SAY}
+
+[108.047]
+{SAY}Take care!{/SAY}
+
+[108.048]
+{SAY}If I stayed in the panda cage, would I get popular too?{/SAY}
+
+[108.049]
+{SAY}Say hi to everyone for me.{/SAY}
+
+[108.050]
+{SAY}...I was reading the animal signs when they got me...{/SAY}
+
+[108.051]
+{SAY}Roooar!! Free! I'm free! Thank you. Roooar!!{/SAY}
+
+[108.052]
+{SAY}Damn, to think they'd be this strong...{/SAY}
+
+[108.053]
+{SAY}Thank you so much!{PAUSE:14} What?{PAUSE:1E} Captain {NAME:01}? He went back to Bless in Neo-Kobe.{WAIT}By the way, would you like to rest?{/SAY}
+
+
+[108.054]
+{SAY}Then would you like to look at your diary on the quiet?{/SAY}
+
+
+[108.055]
+{SAY}Take care!{/SAY}
+
+[108.056]
+{SAY}Leave the defense of this place to me!{/SAY}
+
+[108.057]
+{SAY}Brrr...{PAUSE:1E} I wonder how they'll remodel me...{WAIT}{PAUSE:1E}Ah!{PAUSE:14} If I can talk, does that mean I've already been remodeled?{/SAY}
+
+[108.058]
+{SAY}...Thank you. My friends must be happy too.{WAIT}From today on I'll keep my mouth shut and live as an ordinary animal...{/SAY}
+
+[108.059]
+{SAY}There should be a secret passage to the basement somewhere...{/SAY}
+
+[108.060]
+{SAY}No matter how many we beat, more keep coming...{/SAY}
+
+
+[108.061]
+{SAY}Thank you so much!{PAUSE:14} Now the people of Myaa Town will surely welcome you too.{/SAY}
+
+[108.062]
+{SAY}{NAME:19} and friends are our pride!{/SAY}
+
+[108.063]
+{SAY}...I can hear something like animals groaning from somewhere...{WAIT}Is the captain all right...?{/SAY}
+
+[108.064]
+{SAY}The emperor penguins of Antarctica stand on the ice, staring at the sea.{WAIT}{PAUSE:14}Not waiting for some phantom lover,{WAIT}but staring anxiously, wondering if there are seals in the sea that will eat them.{WAIT}Before long the emperor penguins start shoving one another.{WAIT}And one is pushed off the edge into the sea.{WAIT}By watching that one, they judge whether there are seals.{WAIT}{PAUSE:28}...I am that emperor penguin who was pushed in.{/SAY}
+
+[108.065]
+{SAY}It can't be helped. Our masters just changed from humans to aliens.{/SAY}
+
+[108.066]
+{SAY}Oho. So humans are my masters again...{/SAY}
+
+[108.067]
+{SAY}Listen,{PAUSE:14} I'm a lion, you know. If you talk to me this close, I'll eat you.{/SAY}
+
+[108.068]
+{SAY}Listen, I'm a lion, but you beat the aliens, so I'll never eat you.{/SAY}
+
+[108.069]
+{SAY}Brrr... Bears and polar bears really are different!{/SAY}
+
+[108.070]
+{SAY}!? We're saved!!{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}Brrr. I'm so happy I'm shaking!{/SAY}
+
+[108.071]
+{SAY}They were going to turn me into a monster, so I'm running away.{WAIT}I wonder what happened to Mr. Elephant...{/SAY}
+
+[108.072]
+{SAY}I didn't get turned into a monster.{WAIT}I wonder what happened to Mr. Elephant...{/SAY}
+
+[108.073]
+{SAY}Don't die on me. What's wrong with you?{/SAY}
+
+[108.074]
+{SAY}You don't have enough money!{/SAY}
+
+[108.075]
+　　　　"Gorilla"
+　(Nickname: Mr. Gori)
+　　Likes: coffee
+　　Skill: embellishing
+
+[108.076]
+　　"Emperor Penguin"
+　(Nickname: Sacrifice)
+　　Likes: saving DNA
+　　Skill: survival of the fittest
+
+[108.077]
+　　　　"Lion"
+　　(Nickname: King)
+　　Likes: dice, love stories
+　　Skill: washing yarn
+
+[108.078]
+　　　　"Polar Bear"
+　(Nickname: Air Con)
+　　Likes: beavers
+　　Skill: sleep timer
+
+[108.079]
+　　　　　"Tiger"
+　　(Nickname: Street Vendor)
+　　Likes: wandering journeys
+　　Skill: heartbreak
+
+[108.080]
+　　　　　"Elephant"
+(Nickname: Elephant, Eleph-ant!)　　Likes: sturdy pencil cases　　Skill: keeping warm
+
+[108.081]
+　　　　"Panda"
+(Nickname: What's That?)　　Likes: pan, duh
+　　Skill: puns
+
+[108.082]
+　　　　　"Monkey"
+　　(Nickname: Guts)
+　　Likes: Kubota
+　　Skill: dance
+
+[108.083]
+　　"Adelie Penguin"
+　　(Nickname: Cool)
+　　Likes: mouthwash
+　　Skill: brushing teeth
+
+[108.084]
+
+《It seems to be locked...》
+
+[108.085]
+
+《Used the Zoo Key!》
+
+[108.086]
+
+　　　　"50G a try"{WAIT}
+{CLEAR}
+《Put in money?》
+
+[108.087]
+
+《Not enough money!》
+
+[108.088]
+
+　　　　"50G a try"{WAIT}
+{CLEAR}
+《Put in money?》
+
+[108.089]
+
+　　　　"50G a try"{WAIT}
+{CLEAR}
+《Put in money?》
+
+[108.090]
+
+　　　　"50G a try"{WAIT}
+{CLEAR}
+《Put in money?》
+
+[108.091]
+
+　　　　"50G a try"{WAIT}
+{CLEAR}
+《Put in money?》
+
+[108.092]
+{SAY}Yikes!{PAUSE:1E} ...Oh, you scared me! I didn't get out in time, so I'm doing business here.{WAIT}So, what do you want?{/SAY}
+
+[108.093]
+{SAY}Wow! Thanks for saving the zoo!{WAIT}So, what do you want?{/SAY}
+
+[108.094]
+Buy souvenirs
+Rest
+Info
+Quit
+
+[108.095]
+{SAY}Take care!{/SAY}
+
+[108.096]
+{SAY}What'll it be?{/SAY}
+
+[108.097]
+{SAY}Take care!{/SAY}
+
+[108.098]
+{SAY}It's a shabby tent, but it's 300G. Want to sleep?{/SAY}
+
+[108.099]
+{SAY}Huh? You don't have enough money.{/SAY}
+
+[108.100]
+{SAY}Take care!{/SAY}
+
+[108.101]
+{SAY}Then want to write in your diary on the quiet?{/SAY}
+
+[108.102]
+{SAY}Take care!{/SAY}
+
+[108.103]
+{SAY}There's some kind of facility under this zoo, but I dropped the key to the entrance door.{WAIT}All kinds of animals have been carrying that key around in their mouths, so I have no idea where it is...{/SAY}
+
+[108.104]
+{SAY}Want more hints than that?{/SAY}
+
+[108.105]
+{SAY}I can't tell you for free...{WAIT}How much will you give me?{/SAY}
+
+[108.106]
+200G
+1000G
+Quit
+
+[108.107]
+{SAY}Well, good luck!{/SAY}
+
+[108.108]
+{SAY}If you look through the telescope in the back, I think you can see the animals carrying the key.{WAIT}If you can figure out who carried it last, and where... I think you'll find the key...{WAIT}Got it?{/SAY}
+
+[108.109]
+　I'll say it again.
+
+[108.110]
+{SAY}Well, good luck!{/SAY}
+
+[108.111]
+{SAY}Huh? You don't have enough money.{/SAY}
+
+[108.112]
+{SAY}The penguin said it wasn't the first to pick up the key, or the last to drop it.{WAIT}{CLEAR}　The goat said it picked it up after the bear dropped it.{WAIT}{CLEAR}　The lion says the key it dropped was picked up by an animal that wasn't the cat.{WAIT}{CLEAR}　The cat picked it up after someone who wasn't the penguin dropped it!{HOLD}{CLEAR}　So, the last one to drop it was...{WAIT}Got it?{/SAY}
+
+[108.113]
+　I'll say it again.
+
+[108.114]
+{SAY}Well, good luck!{/SAY}
+
+[108.115]
+{SAY}Huh? You don't have enough money.{/SAY}
+
+[108.116]
+{SAY}Well, good luck!{/SAY}
+
+[108.117]
+{SAY}Well, good luck!{/SAY}
+
+[108.118]
+{SAY}Thanks to you, this zoo is peaceful now!{WAIT}Thank you so much!{/SAY}
+
+[108.119]
+
+"Inuyama Brand Vending Machine. Win, and get one more!"
+
+[108.120]
+Power Water...50G
+Heart Water...300G
+Miss You.....300G
+Quit
+
+[108.121]
+
+《Put in the money!》
+
+[108.122]
+
+《Got a Heart Water!》
+
+[108.123]
+
+《A winner! One more on the house!》
+
+[108.124]
+
+《Got a Heart Water!》
+
+[108.125]
+
+《But you already have 99 Heart Water!》
+
+[108.126]
+
+《Gave up on the Heart Water...》
+
+[108.127]
+
+《No luck! Too bad!》
+
+[108.128]
+
+《Not enough money!》
+
+[108.129]
+
+《But you already have 99 Heart Water!》
+
+[108.130]
+
+《Gave up on the Heart Water...》
+
+[108.131]
+
+《Put in the money!》
+
+[108.132]
+
+《Got a Power Water!》
+
+[108.133]
+
+《A winner! One more on the house!》
+
+[108.134]
+
+《Got a Power Water!》
+
+[108.135]
+
+《But you already have 99 Power Water!》
+
+[108.136]
+
+《Gave up on the Power Water...》
+
+[108.137]
+
+《No luck! Too bad!》
+
+[108.138]
+
+《Not enough money!》
+
+[108.139]
+
+《But you already have 99 Power Water!》
+
+[108.140]
+
+《Gave up on the Power Water...》
+
+[108.141]
+
+《Put in the money!》
+
+[108.142]
+
+《Got a Miss You!》
+
+[108.143]
+
+《A winner! One more on the house!》
+
+[108.144]
+
+《Got a Miss You!》
+
+[108.145]
+
+《But you already have 99 Miss You!》
+
+[108.146]
+
+《Gave up on the Miss You...》
+
+[108.147]
+
+《No luck! Too bad!》
+
+[108.148]
+
+《Not enough money!》
+
+[108.149]
+
+《But you already have 99 Miss You!》
+
+[108.150]
+
+《Gave up on the Miss You...》
+
+[108.151]
+Dan Kichi
+{SAY}Damn! This lock is a tough one.{/SAY}
+
+[108.152]
+Dan Kichi
+{SAY}{NAME:19}, I'll let the animals out of their cages here.{WAIT}You go on ahead!{PAUSE:14} ...Be careful.{/SAY}
+
+[108.153]
+Dan Kichi
+{SAY}{NAME:19}, where are you going?{WAIT}Don't worry. You can handle it on your own!{/SAY}
+
+[108.154]
+{SAY}Roooar!!{PAUSE:32} ...What!?{PAUSE:14} You'll help me!{/SAY}
+
+[108.155]
+{SAY}...One after another, my friends were transformed...{/SAY}
+
+[108.156]
+{SAY}...I'm next... Please! Kill me before they turn me into a monster!{/SAY}
+
+[108.157]
+Dan Kichi
+{SAY}Oh, {NAME:19}. Just the man I took you for. Quite something!{WAIT}I'm heading back to Myaa Town first. Time for a drink to celebrate beating the aliens!{/SAY}
+
+[108.158]
+{SAY}......{/SAY}
+
+[108.159]
+Dr. Z
+{SAY}Stop this pointless struggle!{/SAY}
+
+[108.160]
+Captain
+{SAY}Shut up! This is for my men!{/SAY}
+
+[108.161]
+Dr. Z
+{SAY}What an annoying fly. Die!{/SAY}
+
+[108.162]
+Captain
+{SAY}D-damn it...{/SAY}
+
+[108.163]
+Dr. Z
+{SAY}Do you understand now? How terrifying Dr. Z is?{WAIT}But{PAUSE:1E} the moment you understand is the moment you die!{/SAY}
+
+[108.164]
+Captain
+{SAY}...You! Stay back. ...I'll take this guy down!{/SAY}
+
+[108.165]
+Captain
+{SAY}You bastard!{/SAY}
+
+[108.166]
+Dr. Z
+{SAY}Hahaha. Humans are such cute creatures.{WAIT}Why do you do such pointless things?{WAIT}Animals are far better. Now, it's time for humans to die!{/SAY}
+
+[108.167]
+Dr. Z
+{SAY}Oho, you seem a little more decent than most humans.{WAIT}I'll take your DNA. It should make a fine monster.{WAIT}Now, shall I get serious...{/SAY}
+
+[108.168]
+Dr. Z
+{SAY}Your genes, your DNA, will make fine monsters.{WAIT}Die in peace!{/SAY}
+
+[108.169]
+Dr. Z
+{SAY}...Im-impossible... L-Lord Dark Soldier... Gurk{/SAY}
+
+[108.170]
+Captain
+{SAY}...This is bad...{/SAY}
+
+[108.171]
+Captain
+{SAY}Hey! It's gonna blow! Let's get out of here!{/SAY}
+

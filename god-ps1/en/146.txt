@@ -1,0 +1,265 @@
+[146.005]
+Shipwright
+{SAY}Oh! It's you lot! Everything's ready!{/SAY}
+
+[146.006]
+{NAME:02}
+{SAY}This is...{/SAY}
+
+[146.007]
+Shipwright
+{SAY}Mm. I traded the birds here the baobab fruit you collected.{WAIT}With their help, going by air, we may slip past the aliens' eyes.{WAIT}I call it "Operation Cheep-Cheep Airlift"!{/SAY}
+
+[146.008]
+{NAME:01}
+{SAY}..................{/SAY}
+
+[146.009]
+Shipwright
+{SAY}Ahem...{PAUSE:14} Well, set off as soon as you're ready!{/SAY}
+
+[146.010]
+{SAY}I wanted the old shipwright to build me a ship to escape, but he won't take the job. What do I do...{/SAY}
+
+[146.011]
+Shipwright
+{SAY}.....................{/SAY}
+
+[146.012]
+Shipwright
+{SAY}You lot should give up your reckless journey and live here with the birds too...{WAIT}How about it, want to feed the birds?{/SAY}
+
+[146.013]
+
+《Scattered the Baobab Fruit!》
+
+[146.014]
+
+《The birds happily ate the Baobab Fruit!》
+
+[146.015]
+Shipwright
+{SAY}What you have there, could it be...{/SAY}
+
+[146.016]
+Shipwright
+{SAY}Oh! Baobab fruit, just as I thought!{/SAY}
+
+[146.017]
+{NAME:02}
+{SAY}You know it?{/SAY}
+
+[146.018]
+Shipwright
+{SAY}It's the nut the birds here love most...{WAIT}but since the aliens came, it's become hard to get.{/SAY}
+
+[146.019]
+Shipwright
+{SAY}...I see, with that fruit...{/SAY}
+
+[146.020]
+Shipwright
+{SAY}Per bird... the total weight...{/SAY}
+
+[146.021]
+{NAME:04}
+{SAY}Have you thought of something!{/SAY}
+
+[146.022]
+{NAME:01}
+{SAY}Can we get to America!?{/SAY}
+
+[146.023]
+Shipwright
+{SAY}Hm...{PAUSE:0A} no,{PAUSE:14} but...{/SAY}
+
+[146.024]
+{NAME:02}
+{SAY}Tell us! Please!{/SAY}
+
+[146.025]
+Shipwright
+{SAY}...Could you collect twenty... no, thirty of those baobab fruits?{/SAY}
+
+[146.026]
+{NAME:19}
+{SAY}?{/SAY}
+
+[146.027]
+Shipwright
+{SAY}If you can, I might be able to manage something...{WAIT}But it's a very dangerous way.{/SAY}
+
+[146.028]
+{NAME:01}
+{SAY}I don't care! All right! Thirty, then!{/SAY}
+
+[146.029]
+Shipwright
+{SAY}The monsters around here carry baobab fruit.{WAIT}Beat them and you should get some... Got it?{/SAY}
+
+[146.030]
+Shipwright
+{SAY}Beat the monsters around here{WAIT}and collect thirty baobab fruits.{WAIT}Everything starts from there!{WAIT}Got it?{/SAY}
+
+[146.031]
+Shipwright
+{SAY}When you have thirty, come back.{WAIT}I'll have things ready by then.{/SAY}
+
+[146.032]
+
+《You had nothing to give as feed...》
+
+[146.033]
+Shipwright
+{SAY}I see... Call me if you change your mind.{/SAY}
+
+[146.034]
+Shipwright
+{SAY}Oh! It's you! You're safe!{WAIT}Thank goodness, thank goodness!{/SAY}
+
+[146.035]
+Shipwright
+{SAY}Oh! It's you!{WAIT}Thanks to you, I've found a reason to live.{WAIT}The only problem left is a successor.{WAIT}How about it, will you take over from me?{/SAY}
+
+[146.036]
+{SAY}Oh! Looks like you've collected thirty baobab fruits!{WAIT}Good, good. Then wait at the Hope Cafe to the north.{WAIT}By tomorrow morning, everything will be ready!{/SAY}
+
+[146.037]
+Shipwright
+{SAY}Collect thirty baobab fruits.{WAIT}Then I might be able to do something for you...{WAIT}Beat the monsters around here and you'll get them!{/SAY}
+
+[146.038]
+{SAY}Sorry, the preparations will take a bit longer.{WAIT}Rest at the Hope Cafe. They'll be done by tomorrow morning!{/SAY}
+
+[146.040]
+Shipwright
+{SAY}Oh, are you ready?{/SAY}
+
+[146.041]
+Shipwright
+{SAY}All right!{/SAY}
+
+[146.042]
+Shipwright
+{SAY}Climb aboard!{/SAY}
+
+[146.043]
+Shipwright
+{SAY}Call me when you're ready.{/SAY}
+
+[146.044]
+{NAME:02}
+{SAY}Excuse me. Um...{/SAY}
+
+[146.045]
+{NAME:04}
+{SAY}We heard from the King of Kasbah.{WAIT}They say you build ships.{/SAY}
+
+[146.046]
+{NAME:01}
+{SAY}We're on a journey to beat the aliens!{WAIT}Won't you lend us a hand for that, old man?{/SAY}
+
+[146.047]
+Shipwright
+{SAY}.....................{/SAY}
+
+[146.048]
+{NAME:02}
+{SAY}Um...{/SAY}
+
+[146.049]
+Shipwright
+{SAY}...For a long time, building ships was my whole life...{WAIT}Even after the aliens came, I built ship after ship for the young men and soldiers who swore to defeat them...{WAIT}And what came of it!{/SAY}
+
+[146.050]
+Shipwright
+{SAY}...They all died. All because I built ships...{/SAY}
+
+[146.051]
+Shipwright
+{SAY}I never want to feel that way again...{WAIT}Not even for the King.{/SAY}
+
+[146.052]
+Shipwright
+{SAY}I just want to play here with the birds.{/SAY}
+
+[146.053]
+Inventor
+　{SAY}Africa's a nice place, isn't it?{/SAY}
+
+
+
+[146.054]
+{SAY}Right? Long ago, the safari I saw from a balloon was amazing.{/SAY}
+
+[146.055]
+{SAY}Tch. See the safari from a balloon and you'll change your mind!{/SAY}
+
+[146.056]
+　　What? That's right. I'm the inventor.{WAIT}I'll do the King's bidding any number of times, but yours only once.{WAIT}Just one. Which will it be?
+
+[146.057]
+　Money
+
+[146.058]
+　A ship
+
+[146.059]
+　The strongest sword
+
+[146.060]
+　Inventor
+　{SAY}The strongest sword, then. Here.{/SAY}
+
+[146.061]
+　Inventor
+　{SAY}That's the strongest sword in Africa.{WAIT}I never said the strongest in the world. Wahahaha!{/SAY}
+
+[146.062]
+　Inventor
+　{SAY}A ship, then. Here.{/SAY}
+
+[146.063]
+　Inventor
+　{SAY}It's fun to play with! Wahahaha!{/SAY}
+
+[146.064]
+　Inventor
+　{SAY}Money, then. Here.{/SAY}
+
+[146.065]
+　Inventor
+　{SAY}Spend it wisely! Wahahaha!{/SAY}
+
+[146.066]
+　Inventor
+　{SAY}Huh? You're... Were you okay in the typhoon?{/SAY}
+
+[146.067]
+　Inventor
+　{SAY}Ah! What you're holding, that's rubber! What? You want to go to America!?{WAIT}All right, give me 5000G{WAIT}and I'll fix my balloon with that rubber! How about it?{/SAY}
+
+
+
+[146.068]
+
+　《{NAME:19} handed over the Rubber!》
+
+[146.069]
+
+　《{NAME:19} paid 5000G!》
+
+[146.070]
+{SAY}You don't have enough money!{/SAY}
+
+[146.071]
+{SAY}You ornery so-and-so!{/SAY}
+
+[146.072]
+　Inventor
+　{SAY}All right! Sleep a night and wait!{/SAY}
+
+[146.073]
+
+　　　《Cape Hope Workshop》
+

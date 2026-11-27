@@ -1,0 +1,801 @@
+[130.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[130.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[130.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[130.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[130.005]
+Write in diary
+Read diary
+Quit
+
+[130.008]
+{NAME:01}
+{SAY}Hey, {NAME:19}!{/SAY}
+
+[130.009]
+{NAME:01}
+{SAY}The doctor said no pushing it. {NAME:03}'s staying in bed.{/SAY}
+
+[130.010]
+{NAME:03}
+{SAY}I keep telling him I'm fine!{/SAY}
+
+[130.011]
+{NAME:01}
+{SAY}Idiot! If anything happened...{/SAY}
+
+[130.012]
+{NAME:03}
+{SAY}Yes, yes!{/SAY}
+
+[130.013]
+{NAME:03}
+{SAY}Sorry! So that's how it is...{WAIT}{NAME:19}, you guys keep having fun!{/SAY}
+
+[130.016]
+Write in your diary?
+
+[130.017]
+Write in diary
+Read diary
+Sleep
+
+[130.018]
+{SAY}I feel like it's been a really long time since I felt this happy.{/SAY}
+
+[130.019]
+
+　《{NAME:19} found {WORD}!》
+
+[130.020]
+《But {NAME:19} already has 99 {WORD}!》
+
+[130.021]
+
+　《{NAME:19} gave up on {WORD}...》
+
+[130.022]
+{SAY}How is your friend doing?{HOLD}This is just a bare hut, but everyone here lives like a family.{WAIT}Please, make yourselves at home.{/SAY}
+
+[130.023]
+{SAY}I feel like it's been a really long time since I felt this happy.{/SAY}
+
+[130.024]
+{SAY}Welcome back!{WAIT}You're finally home!{WAIT}Oh... you're not him...{/SAY}
+
+[130.025]
+{SAY}This hut was attacked by aliens once.{WAIT}Back then, a woman named {NAME:03} protected everyone and fought all alone.{WAIT}It's a famous story.{/SAY}
+
+[130.026]
+{SAY}Bawk!{PAUSE:14} Buk{PAUSE:14} buk{PAUSE:14} buk{PAUSE:14}{/SAY}
+
+[130.027]
+{SAY}Bawwk!{PAUSE:14} Bukk{PAUSE:14} bukk{PAUSE:14} bukk{PAUSE:14}{/SAY}
+
+[130.028]
+{SAY}Cluck-cluck! Cluck-cluck!{/SAY}
+
+[130.029]
+{SAY}Cock-a-doodle-doo!{/SAY}
+
+[130.030]
+# The chickens pun on チキン (chicken) and きちんと (properly).
+{SAY}Don't chicken out of the wedding, cluck!{/SAY}
+
+[130.031]
+{SAY}Don't chicken out of coming home, cluck!{/SAY}
+
+[130.032]
+{SAY}Bawk!{/SAY}
+
+[130.033]
+{SAY}If you cheat, I'll be crowing mad, cluck!
+
+[130.034]
+{SAY}Hurry home, cluck!{/SAY}
+
+[130.035]
+{SAY}Bawk!{/SAY}
+
+[130.036]
+{SAY}I'm so jealous, cluck!
+
+[130.037]
+{SAY}Don't make her worry too much, cluck!!{/SAY}
+
+[130.038]
+{SAY}Baaa...{/SAY}
+
+[130.039]
+{SAY}Con{PAUSE:14}...{PAUSE:1E}gra-baa-lations!!{/SAY}
+
+[130.040]
+{SAY}No cheatiiing!!{/SAY}
+
+[130.041]
+{SAY}Munch munch...{/SAY}
+
+[130.042]
+{SAY}Baaa{PAUSE:14}a{PAUSE:14}a{PAUSE:14}{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.ngratulations!!
+
+[130.043]
+{SAY}Hurry home and put her mind at ease{WAIT}baaaaaaaaaaaa{/SAY}
+
+[130.044]
+
+　　　　"Pokin Hut"
+
+[130.045]
+{SAY}Lately lots of people have been fleeing from Honmaka Town to the south.{WAIT}They say some weird drug is going around.{WAIT}Nasty business...{/SAY}
+
+[130.046]
+{SAY}Oh, you're back, lover boy!! Don't keep a girl waiting too long!!{/SAY}
+
+[130.047]
+{SAY}I can't do anything special, but I believe working like this every day surely helps the world somewhere!{/SAY}
+
+[130.048]
+{SAY}Scrub!{PAUSE:14} Scrub!{PAUSE:14} Scrub!{PAUSE:14} Laundry is fun~{/SAY}
+
+[130.049]
+{SAY}Scrub! Scrub! Scruuub! How lovely~!{WAIT}If only I were ten years younger...{HOLD}Oh, handsome, do you like older women?{/SAY}
+
+[130.050]
+
+{SAY}You've got good taste!{/SAY}
+
+[130.051]
+
+{SAY}Rich and hearty, it's nice!{/SAY}
+
+[130.052]
+{SAY}My, my, don't dawdle here. Hurry and go see her.{/SAY}
+
+[130.053]
+{SAY}Doing laundry like this again, it's like a dream!{/SAY}
+
+[130.054]
+{SAY}When you're sick, nutrition is best!{WAIT}Wait, I'll get some fresh vegetables right away!{/SAY}
+
+[130.055]
+{SAY}I'll have {NAME:03} eat some fresh vegetables.{/SAY}
+
+[130.056]
+{SAY}I had {NAME:03} eat some fresh vegetables.{/SAY}
+
+[130.057]
+{SAY}Do you know about the woman who saved this hut?{/SAY}
+
+[130.058]
+{SAY}For her sake too, we'll be happy, no matter what!{/SAY}
+
+[130.059]
+{SAY}It's too sad a story to tell.{WAIT}But we'll never forget her!{/SAY}
+
+[130.060]
+{SAY}The doctor is checking on your friend now-aru.{WAIT}Wait a little longer-aru.{/SAY}
+
+[130.061]
+{NAME:02}
+{SAY}{NAME:01}! Calm down!{WAIT}Let's wait for the doctor's diagnosis...{/SAY}
+
+[130.062]
+{NAME:01}
+{SAY}I know!! I know, but......{/SAY}
+
+[130.063]
+{NAME:02}
+{SAY}I hope she's all right... {NAME:03}...{/SAY}
+
+[130.064]
+{NAME:01}
+{SAY}...{NAME:03} ...{NAME:03}......{/SAY}
+
+[130.065]
+{NAME:02}
+{SAY}{NAME:19}!{/SAY}
+
+[130.066]
+{NAME:02}
+{SAY}{NAME:03} is being examined upstairs right now. I'm worried, but let's wait here...{/SAY}
+
+[130.067]
+{SAY}You can go up now-aru.{/SAY}
+
+[130.068]
+{NAME:01}
+{SAY}{NAME:03}!{/SAY}
+
+[130.069]
+{NAME:02}
+{SAY}Let's go too, {NAME:19}!{/SAY}
+
+[130.070]
+{SAY}At a time like this, a man's got to stand firm.{WAIT}If you want to rest, I'll lend you the back room. Sorry, but it's 50G! What do you say?{/SAY}
+
+[130.071]
+{SAY}You don't have enough money-aru!{/SAY}
+
+[130.072]
+{SAY}The wedding we'll make way flashier-aru!{/SAY}
+
+
+[130.073]
+{SAY}Ni hao! Feel free to use the back room-aru!{WAIT}It's 50G, but will you stay-aru?{/SAY}
+
+[130.074]
+{SAY}You don't have enough money-aru!{/SAY}
+
+[130.075]
+{SAY}Then will you read your diary on the quiet-aru?{/SAY}
+
+[130.076]
+{SAY}Zaijian!{/SAY}
+
+[130.077]
+{SAY}I hear your friend collapsed... We all help each other in hard times.{WAIT}Take your time here.{/SAY}
+
+[130.078]
+{SAY}Be happy-aru!{/SAY}
+
+[130.079]
+{SAY}Honmaka Town is a big town south of here.{WAIT}It's nothing like this hut.{/SAY}
+
+[130.080]
+{SAY}Whew, my my. I'm so glad Pokin Hut was rebuilt.{/SAY}
+
+[130.081]
+{SAY}Go on upstairs-aru.{/SAY}
+
+[130.082]
+{SAY}Congratulations-aru!{/SAY}
+
+[130.083]
+{SAY}Love is beautiful... I'm tremendously moved right now-aru!{/SAY}
+
+[130.084]
+{SAY}Welcome back! {NAME:03} is waiting for you-aru!{/SAY}
+
+[130.085]
+{SAY}This hut was attacked by aliens once.{WAIT}Back then, a woman named {NAME:03} protected everyone and fought all alone-aru.{WAIT}It's a famous story-aru.{/SAY}
+
+[130.086]
+{SAY}I sell souvenirs! Want to buy something-aru?{/SAY}
+
+[130.087]
+{SAY}How about a Pokin souvenir-aru?{/SAY}
+
+[130.088]
+{SAY}Xie xie!{/SAY}
+
+[130.089]
+{SAY}What should I wear to the party-aru...{WAIT}Kyaaah! Barging in while I'm changing is rude-aru!{/SAY}
+
+[130.090]
+{SAY}What should I wear to Honmaka Town-aru...{WAIT}Kyaaah! Barging in while I'm changing is rude-aru!{/SAY}
+
+[130.091]
+{SAY}Kyaaah! The monsters stripped me of everything-aru!{/SAY}
+
+[130.092]
+{SAY}{NAME:03} is so beautiful-aru~. I'm tremendously jealous right now-aru.{WAIT}...Going to bed already-aru?{/SAY}
+
+
+[130.093]
+{SAY}What are you saying-aru. The night is still young-aru.{/SAY}
+
+[130.094]
+{SAY}That's a true friend-aru!{/SAY}
+
+[130.095]
+{SAY}Love is beautiful... I'm tremendously moved right now!{/SAY}
+
+[130.096]
+{SAY}This hut was attacked by aliens once-aru.{HOLD}Back then, a woman named {NAME:03} protected everyone and fought all alone-aru.{WAIT}It's a famous story-aru.{/SAY}
+
+[130.097]
+{SAY}This is Pokin Hut-aru. Rest as long as you like.{/SAY}
+
+[130.098]
+{SAY}This is the rebuilt Pokin Hut-aru. Rest as long as you like.{/SAY}
+
+[130.099]
+{SAY}There's been so much hardship lately, so I'm truly happy!{/SAY}
+
+[130.100]
+{SAY}Be happy forever.{WAIT}When the wedding comes, I'll rush over wherever in the world I am!{/SAY}
+
+[130.101]
+{SAY}A new life is going to be born... It's bringing tears to my eyes...{/SAY}
+
+[130.102]
+{SAY}Let's meet again at the wedding.{/SAY}
+
+[130.103]
+{SAY}I just got back from Honmaka Town. ...It was a terrifying town.{/SAY}
+
+[130.104]
+{SAY}This hut is finally back the way it was.{/SAY}
+
+[130.105]
+{NAME:03}
+{SAY}...Mmm...{/SAY}
+
+[130.106]
+{NAME:01}
+{SAY}Doctor! What's wrong with {NAME:03}...{/SAY}
+
+[130.107]
+Doctor
+{SAY}Congratulations-aru.{/SAY}
+
+[130.108]
+{NAME:01}
+{SAY}...Huh?{/SAY}
+
+[130.109]
+Doctor
+{SAY}She's having a baby-aru.{/SAY}
+
+[130.110]
+{NAME:02}
+{SAY}What does that mean?{/SAY}
+
+[130.111]
+{NAME:01}
+{SAY}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}I mean{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}it's my{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}kid.{/SAY}
+
+[130.112]
+{NAME:02}
+{SAY}!?{/SAY}
+
+[130.113]
+{NAME:03}
+{SAY}Mm...{PAUSE:1E} mmm.{/SAY}
+
+[130.114]
+{NAME:03}
+{SAY}...Don't stare, it's embarrassing!{/SAY}
+
+[130.115]
+{NAME:02}
+{SAY}When did...{/SAY}
+
+[130.116]
+{NAME:02}
+{SAY}Ah... that time...?{/SAY}
+
+[130.117]
+{NAME:03}
+{SAY}Do your best, everyone.{WAIT}{NAME:19}, take care of {NAME:01} for me.{/SAY}
+
+[130.118]
+{NAME:03}
+{SAY}Do your best, everyone.{WAIT}{NAME:19}, take care of {NAME:01} for me.{/SAY}
+
+[130.119]
+{NAME:02}
+{SAY}...................{/SAY}
+
+[130.120]
+{NAME:01}
+{SAY}...Well, that's how it is...{/SAY}
+
+[130.121]
+{NAME:02}
+{SAY}So that's it... Congratulations, {NAME:03}, {NAME:01}.{/SAY}
+
+[130.122]
+Doctor
+{SAY}Well, she has to stay in bed for a while-aru.{/SAY}
+
+[130.123]
+{NAME:03}
+{SAY}No way! I'm going with you!{/SAY}
+
+[130.124]
+Doctor
+{SAY}Don't talk nonsense-aru.{WAIT}You travel now, you ruin body. Baby in trouble.{WAIT}You understand-aru.{/SAY}
+
+[130.125]
+{NAME:01}
+{SAY}Don't push yourself, just wait for me.{WAIT}Once we've been to Bless in Honmaka Town, I'll come right back.{/SAY}
+
+[130.126]
+{NAME:02}
+{SAY}Are you sure you shouldn't stay with her?{/SAY}
+
+[130.127]
+{NAME:01}
+{SAY}Dummy, for the sake of the kid that's coming, I've got to make this world peaceful...{/SAY}
+
+[130.128]
+{NAME:01}
+{SAY}All right, let's hurry to Bless and beat those aliens!{/SAY}
+
+[130.129]
+{NAME:02}
+{SAY}Wait, {NAME:19}.{WAIT}Let's throw a party for the two of them.{/SAY}
+
+[130.130]
+{NAME:03}
+{SAY}I'm fine! {NAME:01}, everyone! I'll be waiting!{/SAY}
+
+[130.131]
+{NAME:03}
+{SAY}I'm fine! {NAME:01}, everyone! I'll be waiting!{/SAY}
+
+[130.132]
+{NAME:01}
+{SAY}{NAME:03}! Have you been okay!{/SAY}
+
+[130.133]
+{NAME:03}
+{SAY}{NAME:01}! Welcome back! I'm fine!{/SAY}
+
+[130.134]
+{NAME:03}
+{SAY}Huh? Who's the monk?{/SAY}
+
+[130.135]
+{NAME:04}
+{SAY}My name is {NAME:04}. A pleasure to meet you.{/SAY}
+
+[130.136]
+{NAME:01}
+{SAY}Wait just a bit longer. Once I report to Honmaka Bless, I'll come right back!{/SAY}
+
+[130.137]
+{NAME:02}
+{SAY}{NAME:01}. Maybe you should stay here...{/SAY}
+
+[130.138]
+{NAME:01}
+{SAY}I'm a member of Bless!{/SAY}
+
+[130.139]
+{NAME:03}
+{SAY}I told you I'm fine! {NAME:01}, I'll be waiting!{/SAY}
+
+[130.140]
+{NAME:01}
+{SAY}Yeah, I'll be right back!{/SAY}
+
+[130.141]
+{NAME:01}
+{SAY}{NAME:03}! Have you been okay!{/SAY}
+
+[130.142]
+{NAME:03}
+{SAY}{NAME:01}! Welcome back!!{/SAY}
+
+[130.143]
+{NAME:03}
+{SAY}Huh? Who's the monk?{/SAY}
+
+[130.144]
+{NAME:04}
+{SAY}My name is {NAME:04}. A pleasure to meet you.{/SAY}
+
+[130.145]
+{NAME:02}
+{SAY}He's a friend with the same kind of power as us.{/SAY}
+
+[130.146]
+{NAME:01}
+{SAY}{NAME:03}, we beat the aliens at Angkor Wat!{/SAY}
+
+[130.147]
+{NAME:03}
+{SAY}Congratulations!{WAIT}I knew you guys would win for sure!{WAIT}But wait a sec.{/SAY}
+
+[130.148]
+{NAME:03}
+{SAY}Doctor, that thing.{/SAY}
+
+[130.149]
+{SAY}Mm.{/SAY}
+
+[130.150]
+{NAME:03}
+{SAY}Thank you.{/SAY}
+
+[130.151]
+{NAME:02}
+{SAY}What's that?{/SAY}
+
+[130.152]
+{NAME:03}
+{SAY}A traveler from Honmaka Town left it here the other day.{WAIT}It's an artificially refined version of the yellow powder that was drifting all over Honmaka Town until recently.{/SAY}
+
+[130.153]
+{NAME:01}
+{SAY}What!{/SAY}
+
+[130.154]
+{NAME:03}
+{SAY}We figured out it's being made in secret by Honmaka Town's underworld... but that's all...{/SAY}
+
+[130.155]
+{NAME:04}
+{SAY}But then, there was no point in defeating the aliens!{/SAY}
+
+[130.156]
+{NAME:03}
+{SAY}Right. So, everyone, I don't think we can overlook this.{WAIT}To make Honmaka Town truly peaceful, let's do everything we can!{/SAY}
+
+[130.157]
+{NAME:01}
+{SAY}...All right, {NAME:03}. But you're staying here in bed!{/SAY}
+
+[130.158]
+{NAME:03}
+{SAY}No way! If it's not aliens, then I can...{/SAY}
+
+[130.159]
+{NAME:01}
+{SAY}No!{WAIT}Besides, you've got an important job, protecting everyone in this hut!{/SAY}
+
+[130.160]
+{NAME:03}
+{SAY}Me, protecting this hut...{/SAY}
+
+[130.161]
+{NAME:01}
+{SAY}That's right. So leave Honmaka Town to us!{WAIT}Right, everyone!!{/SAY}
+
+[130.162]
+{NAME:02}
+{SAY}That's right, {NAME:03}.{/SAY}
+
+[130.163]
+{NAME:04}
+{SAY}Leave the rest to us.{/SAY}
+
+[130.164]
+{NAME:03}
+{SAY}Okay... But be careful!{/SAY}
+
+[130.165]
+{NAME:01}
+{SAY}Well, I'll be back soon.{/SAY}
+
+[130.166]
+{NAME:03}
+{SAY}Take care.{WAIT}I'll be fine! Take your time!{/SAY}
+
+[130.167]
+{NAME:01}
+{SAY}...{NAME:03}? You okay?{/SAY}
+
+[130.168]
+{NAME:02}
+{SAY}Shh! She doesn't seem to be awake yet...{/SAY}
+
+[130.169]
+{SAY}Leave {NAME:03} to me.{WAIT}Of course, I'll treat all of you too-aru.{/SAY}
+
+[130.170]
+{SAY}My friend was killed by aliens in this hut long ago.{WAIT}I intend to work hard enough for both of us.{/SAY}
+
+[130.171]
+{SAY}We were in a hurry, so there's nothing much, sorry-aru!{WAIT}The wedding we'll make much, much grander-aru!{/SAY}
+
+[130.172]
+{SAY}Nothing to worry about-aru.{WAIT}She'll wake up soon!{/SAY}
+
+[130.173]
+{SAY}Pardon me, but you don't have enough money.{/SAY}
+
+[130.175]
+{NAME:03}
+{SAY}{NAME:01}!{/SAY}
+
+[130.176]
+{NAME:01}
+{SAY}What is it, {NAME:03}?{/SAY}
+
+[130.177]
+{NAME:03}
+{SAY}...No, it's nothing. I'll be fine!{WAIT}Here, take this! A good-luck charm!{/SAY}
+
+[130.178]
+《{NAME:01} got the Heart Pendant!》
+
+[130.179]
+{NAME:01}
+{SAY}Now, let's hurry to Honmaka Town!{/SAY}
+
+[130.180]
+{SAY}Goodness, traveling in her condition...{WAIT}How reckless.{/SAY}
+
+[130.181]
+{SAY}{NAME:01}, is it?{WAIT}Hurry back to her.{/SAY}
+
+[130.182]
+{SAY}In times like these, a new life is all the more precious.{WAIT}...Take good care of it.{/SAY}
+
+[130.183]
+{SAY}Congratulations-aru!{/SAY}{WAIT}
+{SAY}Be happy-aru!{/SAY}{WAIT}
+{SAY}Peace on Earth!{/SAY}{WAIT}
+{SAY}If you cheat, I won't forgive you-aru!{/SAY}{WAIT}
+{SAY}The wedding we'll make flashier-aru!{/SAY}{WAIT}
+{SAY}...Hic. At the wedding we'll drink more-aru!{PAUSE:1E} Hic!{/SAY}
+
+[130.184]
+{NAME:01}
+{SAY}You're embarrassing me, {NAME:19}.{/SAY}
+
+[130.185]
+{NAME:03}
+{SAY}Thank you, {NAME:02}.{/SAY}
+
+[130.186]
+{NAME:02}
+{SAY}When we get back from Bless in Honmaka Town, we'll have the wedding for sure.{/SAY}
+
+[130.187]
+{NAME:01}
+{SAY}You're embarrassing me, {NAME:19}.{/SAY}
+
+[130.188]
+{NAME:03}
+{SAY}Thank you, {NAME:19}.{/SAY}
+
+[130.189]
+{NAME:02}
+{SAY}When we get back from Bless in Honmaka Town, we'll have the wedding for sure.{/SAY}
+
+[130.190]
+{NAME:02}
+{SAY}{NAME:03}... looked so happy!{/SAY}
+
+[130.191]
+{SAY}{NAME:03} is so beautiful-aru~. I'm tremendously jealous right now-aru.{WAIT}...Going to bed already-aru?{/SAY}
+
+[130.192]
+{SAY}What are you saying-aru. The night is still young-aru.{/SAY}
+
+[130.193]
+{SAY}That's a true friend-aru!{/SAY}
+
+[130.194]
+
+《The party went on noisily late into the night...》
+
+[130.195]
+{SAY}Be happy-aru!{/SAY}
+
+[130.196]
+{SAY}A new life is going to be born... It's bringing tears to my eyes...{/SAY}
+
+[130.197]
+{SAY}There's been so much hardship lately, so I'm truly happy!{/SAY}
+
+[130.198]
+{SAY}Mmm! I'm tremendously moved! Be happy!{/SAY}
+
+[130.199]
+{SAY}Oh, how wonderful! I'm so happy!{/SAY}
+
+[130.200]
+{SAY}Haah, I'm so jealous... I want some happiness too...{/SAY}
+
+[130.201]
+{SAY}Mumble mumble... I'll give you this, so let me sleep...{/SAY}
+
+[130.202]
+
+《Got {WORD}!》
+
+[130.203]
+《But you already have 99 {WORD}!》
+
+[130.204]
+
+《Gave up on {WORD}...》
+
+[130.205]
+{SAY}Mumble mumble...{/SAY}
+
+[130.206]
+{NAME:01}
+{SAY}Gotta make the world peaceful, quick...{WAIT}{PAUSE:1E}...Heh!{PAUSE:14} That's not like me!{/SAY}
+
+[130.207]
+{NAME:03}
+{SAY}Mumble mumble... {NAME:01}...{/SAY}
+
+[130.208]
+{SAY}Everyone!{/SAY}
+
+[130.209]
+{SAY}Everyone, welcome back!{/SAY}
+
+[130.210]
+{SAY}I put flowers on {NAME:03}'s grave every day.{/SAY}
+
+[130.211]
+{SAY}We're alive today thanks to {NAME:03}.{WAIT}...{PAUSE:1E}Um,{PAUSE:1E} I'm{PAUSE:1E} going to{PAUSE:1E} get married soon.{/SAY}
+
+[130.212]
+{NAME:01}
+{SAY}...{PAUSE:14}Congratulations. Be happy enough for {NAME:03} too.{/SAY}
+
+[130.213]
+{SAY}Welcome back, everyone.{WAIT}We'll be happy enough for {NAME:03} too!{/SAY}
+
+[130.214]
+{SAY}I put flowers on {NAME:03}'s grave every day!{/SAY}
+
+[130.215]
+{NAME:01}
+{SAY}Whew... the monsters around here really are tough...{/SAY}
+
+[130.216]
+{NAME:02}
+{SAY}The sun's going down... We need to find a place to stay tonight......{/SAY}
+
+[130.217]
+{NAME:03}
+{SAY}..........{/SAY}
+
+[130.218]
+{NAME:01}
+{SAY}Hm? What's wrong, {NAME:03}...?{/SAY}
+
+[130.219]
+{NAME:03}
+{SAY}...Huh!? No, it's nothing!{/SAY}
+
+[130.220]
+{NAME:02}
+{SAY}You don't look so well... Are you okay?{/SAY}
+
+[130.221]
+{NAME:03}
+{SAY}I'm just a little tired from the long trip. Don't worry!{WAIT}I'm tooootally fine!{/SAY}
+
+[130.222]
+{NAME:01}
+{SAY}Are you really okay?{/SAY}
+
+[130.223]
+{NAME:03}
+{SAY}I said I'm fine! Don't worry! Come on, let's go!{/SAY}
+
+[130.224]
+{NAME:01}
+{SAY}...Yeah{/SAY}
+
+[130.225]
+{NAME:01}
+{SAY}Hey! {NAME:03}!{/SAY}
+
+[130.226]
+{NAME:01}
+{SAY}{NAME:03}{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{/SAY}
+
+[130.227]
+
+《...Something warm welled up in {NAME:01}'s heart...》
+
+[130.228]
+
+《{NAME:01} learned Man Among Men!》
+
+[130.229]
+{SAY}Come on...{PAUSE:14} let's go!{/SAY}
+
+[130.230]
+
+《Here lies {NAME:03}》
+

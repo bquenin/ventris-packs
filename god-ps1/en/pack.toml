@@ -1,0 +1,8 @@
+format = 1
+game = "god-ps1"
+language = "en"
+name = "G.O.D pure in English"
+version = "0.1"
+authors = ["Machine translated, directed by bquenin"]
+license = "CC-BY-NC-SA-4.0"
+description = "Machine translated and not yet reviewed by a human translator. A first full pass: every area's dialogue, the menus, the lists, the shops, the notebook and the diary. NOTES.md has the names and terms chosen, what has been seen on screen, and what is still open."

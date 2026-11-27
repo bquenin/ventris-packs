@@ -1,0 +1,203 @@
+[099.002]
+Brat Boss
+{SAY}Nyah nyah~! Serves you right!!{/SAY}
+
+[099.003]
+
+　《{NAME:19} found {WORD}!》
+
+[099.004]
+
+《But {NAME:19} already has 99 {WORD}!》
+
+[099.005]
+
+　《{NAME:19} gave up on {WORD}...》
+
+[099.006]
+
+　《{NAME:19} found {WORD}!》
+
+[099.007]
+
+《But {NAME:19} already has 99 {WORD}!》
+
+[099.008]
+
+　《{NAME:19} gave up on {WORD}...》
+
+[099.013]
+Brat Boss
+{SAY}...I don't like this.{PAUSE:1E} Does the ghost{PAUSE:0F} really come out here?{PAUSE:14} ...{PAUSE:0F}Ah!{/SAY}
+
+[099.014]
+
+《Drank the spring water!》
+
+[099.015]
+
+《HP was restored!》
+
+[099.016]
+《{NAME:19} gazed at the distant towns. His hometown can be seen too...》
+
+[099.017]
+{SAY}Who's there!?{PAUSE:14} Who dares disturb my slumber!{/SAY}
+
+[099.018]
+{SAY}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:0F}I won't forgive you!{/SAY}
+
+[099.019]
+{SAY}I'm sorry. I won't play any more pranks, so let me go. The ghost was me all along.{/SAY}
+
+[099.020]
+
+《The Ghost Bat is looking at you with pleading eyes...》
+
+[099.021]
+
+《Let it go?》
+
+[099.022]
+Ghost Bat
+{SAY}Heh heh heh. What a sucker! I'll never let you go home!{/SAY}
+
+[099.023]
+Ghost Bat
+{SAY}Even when I beg like this, no? Widdle me is a good guy, you know.{/SAY}
+
+[099.024]
+
+《Let it go?》
+
+[099.025]
+Ghost Bat
+{SAY}Heh heh heh. What a sucker! I'll never let you go home!{/SAY}
+
+[099.026]
+Ghost Bat
+{SAY}Now I'm mad! When widdle me gets mad, I'm scary!{/SAY}
+
+[099.027]
+Ghost Bat
+{SAY}...You'll pay for this!!{/SAY}
+
+[099.028]
+Brat Boss
+{SAY}Not bad at all!{/SAY}
+
+[099.029]
+Brat Boss
+{SAY}A ghost or two like that{WAIT}would've been a piece of cake for me, but...{/SAY}
+
+[099.030]
+Brat Boss
+{SAY}...No, really, it's a shame.{WAIT}...{PAUSE:0A}I wasn't hiding, you know!{/SAY}
+
+[099.031]
+Brat Boss
+{SAY}So I'll call today's match a draw! How's that?{/SAY}
+
+[099.032]
+Brat Boss
+{SAY}Nice! From today, I'll make you my right-hand man!{/SAY}
+
+[099.033]
+Brat Boss
+{SAY}Aren't you being weirdly cold?{/SAY}
+
+[099.034]
+Brat Boss
+{SAY}But true courage isn't something you can test with stuff like this.{/SAY}
+
+[099.035]
+Brat Boss
+{SAY}Come over here!{/SAY}
+
+[099.036]
+Brat Boss
+{SAY}Heh heh. Don't be too surprised. This is our treasure!{/SAY}
+
+[099.037]
+
+《{NAME:19} found a strange stone!》
+
+[099.038]
+Brat Boss
+{SAY}Awesome, right!{WAIT}It's gotta be that "sacred relic" the grown-ups were talking about.{WAIT}We're the ones who found it!{/SAY}
+
+[099.039]
+Brat Boss
+{SAY}Well? Have you got the guts to touch it?{/SAY}
+
+[099.040]
+Brat Boss
+{SAY}You serious? When you touch it, you get this weird feeling.{HOLD}Can you still touch it?{/SAY}
+
+[099.041]
+Brat Boss
+{SAY}Hmph!{WAIT}If you can really touch it, I'll admit you've got as much guts as me!{/SAY}
+
+[099.042]
+Brat Boss
+{SAY}Hmph! I knew it!{WAIT}Go home, go home! Scaredy-cats go home to their mamas!{/SAY}
+
+[099.043]
+Brat Boss
+{SAY}I figured as much!{WAIT}Go home, go home! Scaredy-cats go home to their mamas!{/SAY}
+
+[099.044]
+Brat Boss
+{SAY}If you're mad, then touch it, I say!{/SAY}
+
+[099.045]
+Brat Boss
+{SAY}What's wrong? Hurry up and touch it!{/SAY}
+
+[099.046]
+Brat Boss
+{SAY}What's up? Decided to touch it?{/SAY}
+
+[099.047]
+Brat Boss
+{SAY}Hmph!{WAIT}If you can really touch it, I'll admit you've got as much guts as me!{/SAY}
+
+[099.048]
+Brat Boss
+{SAY}Hmph! I knew it!{WAIT}Go home, go home! Scaredy-cats go home to their mamas!{/SAY}
+
+[099.049]
+
+《Something is written here.{WAIT}...But {NAME:19} couldn't read it.》
+
+[099.050]
+
+《{NAME:19} touched the strange glowing stone!》
+
+[099.051]
+《The strange light faded...{PAUSE:0F} {NAME:19} felt a strange power dwelling in his body...》
+
+[099.052]
+
+《...{PAUSE:0F}His head{PAUSE:0A} hurts a little...》
+
+[099.053]
+Brat Boss
+{SAY}Wh... what!? What was that...!{/SAY}
+
+[099.054]
+Brat Boss
+{SAY}Something went all flashy, and your body went see-through...{/SAY}
+
+[099.055]
+Brat Boss
+{SAY}Eeek! D-don't come near me~!! You{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E} monster~~~!{/SAY}
+
+[099.056]
+
+《A strange power enveloped {NAME:19}!》
+
+[099.057]
+
+《{NAME:19}'s HP was restored!》
+

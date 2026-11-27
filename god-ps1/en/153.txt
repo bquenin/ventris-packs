@@ -1,0 +1,206 @@
+[153.000]
+Write in diary
+Read diary
+Quit
+
+[153.002]
+"WANTED!{WAIT}Name: {NAME:19}  Sex: Male
+Crime: Mass murder of aliens
+Reward: 1000000G"{HOLD}{CLEAR}"This man is a villain who kills aliens indiscriminately.{WAIT}If you see him, report him to Bless HQ at once.
+
+[153.003]
+　President M.K. Washington"
+
+[153.004]
+"WANTED!{WAIT}Name: {NAME:19}  Sex: Male"{HOLD}{CLEAR}"This man is the hero who saved New York.{WAIT}If you see him, please thank him.{HOLD}　President M.K. Washington"
+
+[153.005]
+"WANTED!{WAIT}Name: {NAME:04}  Sex: Male
+Crime: Inciting the public
+Reward: 1000000G"{HOLD}{CLEAR}"This man is a villain who stirs up the public and disturbs the peace.{WAIT}If you see him, report him to Bless HQ at once.
+
+[153.006]
+　President M.K. Washington"
+
+[153.007]
+"WANTED!{WAIT}Name: {NAME:04}  Sex: Male"{HOLD}{CLEAR}"This man is the hero who saved New York.{WAIT}If you see him, please thank him.{HOLD}　President M.K. Washington"
+
+[153.008]
+"WANTED!{WAIT}Name: {NAME:01}  Sex: Male
+Crime: Desertion, terrorism
+Reward: 1000000G"{HOLD}{CLEAR}"This man is a villain who left Bless without leave and engages in terrorism.{HOLD}If you see him, report him to Bless HQ at once.
+
+[153.009]
+　President M.K. Washington"
+
+[153.010]
+"WANTED!{WAIT}Name: {NAME:01}  Sex: Male"{HOLD}{CLEAR}"This man is the hero who saved New York.{WAIT}If you see him, please thank him.{HOLD}　President M.K. Washington"
+
+[153.011]
+"WANTED!{WAIT}Name: {NAME:02}  Sex: Female
+Crime: Illegal healing, fraud
+Reward: 1000000G"{HOLD}{CLEAR}"This woman is a villain who posed as a psychic and swindled poor people out of money in the name of treatment.{WAIT}If you see her, report her to Bless HQ at once.
+
+[153.012]
+　President M.K. Washington"
+
+[153.013]
+"WANTED!{WAIT}Name: {NAME:02}  Sex: Female"{HOLD}{CLEAR}"This woman is the hero who saved New York.{WAIT}If you see her, please thank her.{HOLD}　President M.K. Washington"
+
+[153.014]
+{NAME:01}
+{SAY}What the hell!{/SAY}
+
+[153.015]
+{NAME:02}
+{SAY}There's one for every one of us...{PAUSE:1E} What does this mean?{/SAY}
+
+[153.016]
+{NAME:04}
+{SAY}A villain, am I...{/SAY}
+
+[153.017]
+{NAME:01}
+{SAY}What the hell!{/SAY}
+
+[153.018]
+{NAME:04}
+{SAY}A villain, am I...{/SAY}
+
+[153.019]
+{SAY}New York is closed until the signing ceremony with the aliens is over!{WAIT}Leave at once!{/SAY}
+
+[153.020]
+{SAY}Oh! You have a permit! All right, you may pass{/SAY}
+
+[153.021]
+{SAY}What a mess... What's going to happen now...{/SAY}
+
+[153.022]
+{SAY}Good work! Please, go on through!{/SAY}
+
+[153.023]
+{SAY}Yo, fellas! Need something?{/SAY}
+
+[153.024]
+{SAY}Heh heh...{/SAY}
+
+[153.025]
+"Whisper whisper......
+(...Is it, by any chance, that you want into New York?...)
+
+[153.026]
+{SAY}Heh! I knew it! I figured as much!{/SAY}
+
+[153.027]
+(...So, what'll you give me?)
+
+[153.028]
+　!
+　?
+Quit
+
+[153.029]
+{SAY}Tch! Just window-shopping!{/SAY}
+
+[153.030]
+(Tch! Bumpkins, I swear...{HOLD}I'm risking my neck here! You must have something to hand over!)
+
+[153.031]
+{SAY}Tch! Just window-shopping!{/SAY}
+
+[153.032]
+{SAY}Whoops! My mistake. Forget what I said.{/SAY}
+
+[153.033]
+{SAY}You can't get to New York till the signing ceremony's over!{HOLD}...Not the normal way, anyway.{/SAY}
+
+[153.034]
+{SAY}...By the way, you guys aren't the ones on those wanted posters over there, are you?{/SAY}
+
+[153.035]
+{SAY}...Oh, come on!{WAIT}Just 'cause you look a little like 'em, better not joke around!{WAIT}They say the Bless Director and the President are searching for 'em like mad!{/SAY}
+
+[153.036]
+{SAY}...Yeah, figures.{WAIT}1000000G a head... You wouldn't just run into 'em that easy...{/SAY}
+
+[153.037]
+{SAY}Damn those aliens!{/SAY}
+
+[153.038]
+{SAY}Hey! I've heard the rumors! Keep it up!{/SAY}
+
+[153.039]
+(I'm risking my neck here. If it's junk, I don't want it!)
+
+[153.040]
+{SAY}What? Money?{WAIT}Idiot! Who trusts money in times like these!{WAIT}Bring me something sparkly and pretty and I'll think about it!{WAIT}...Whoops. Too loud.{/SAY}
+
+[153.041]
+{SAY}Hm? That's...{WAIT}Oh! That's an amazing jewel! All right! It's a deal!{HOLD}How about it?{/SAY}
+
+[153.042]
+
+《Handed over the Amazing Jewel!》
+
+[153.043]
+{SAY}All right, then take this!{/SAY}
+
+[153.044]
+
+《Got the Forged Pass!》
+
+[153.045]
+{SAY}That'll get you through the gate.{WAIT}...By the way, you guys aren't the ones on those wanted posters over there, are you?{/SAY}
+
+[153.046]
+{SAY}...Oh, come on!{WAIT}Just 'cause you look a little like 'em, better not joke around!{WAIT}They say the Bless Director and the President are searching for 'em like mad!{/SAY}
+
+[153.047]
+{SAY}...Yeah, figures.{WAIT}1000000G a head... You wouldn't just run into 'em that easy...{/SAY}
+
+[153.048]
+{SAY}Hmph! Then come back later!{/SAY}
+
+[153.049]
+{SAY}Please! Let me in!{/SAY}
+
+[153.050]
+{SAY}I heard America was perfectly safe...{WAIT}and after coming all this way, they won't let us in!{/SAY}
+
+[153.051]
+{SAY}We're not the criminals on those posters!{WAIT}They could let us in!{WAIT}...{PAUSE:1E}Hm? You lot, I've seen you somewhere...{/SAY}
+
+[153.052]
+{SAY}Please... I'll pay any amount!{/SAY}
+
+[153.053]
+{SAY}They say they won't let anyone in until the signing ceremony is over...{WAIT}After we finally made it here...{/SAY}
+
+[153.054]
+{SAY}They say they won't let anyone in until the signing ceremony is over...{WAIT}After we finally made it here...{/SAY}
+
+[153.055]
+{SAY}So the peace treaty with the aliens was true...{WAIT}But if it means no more attacks...{/SAY}
+
+[153.056]
+{SAY}Rules are rules, so I can't let you in, but I can at least let you rest.{WAIT}It's 1500G a night. Will you stay?{/SAY}
+
+[153.057]
+{SAY}No money, huh?{/SAY}
+
+[153.058]
+{SAY}Then want to write in your diary?{/SAY}
+
+[153.059]
+{SAY}Come again!{/SAY}
+
+[153.060]
+"　　　　　　Notice!
+Until the signing ceremony of the peace treaty is over, outsiders are forbidden to land in America.{WAIT}This is to keep out dangerous persons plotting to disrupt the ceremony.{WAIT}Those who disobey will be severely punished.
+President M.K. Washington"
+
+[153.061]
+"　　　　　　Notice!
+Aliens are forbidden to land in America.{WAIT}President M.K. Washington"
+

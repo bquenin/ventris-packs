@@ -1,0 +1,279 @@
+[142.000]
+Write in diary
+Read diary
+Quit
+
+[142.002]
+{NAME:01}
+{SAY}What are you doing, {NAME:19}!{/SAY}
+
+[142.003]
+{NAME:01}
+{SAY}The controls are over there!{/SAY}
+
+[142.004]
+{NAME:04}
+{SAY}Sir {NAME:19}!{/SAY}
+
+[142.005]
+{NAME:04}
+{SAY}We must stop the Sand Machine, quickly...!{/SAY}
+
+[142.006]
+Dr. Indy
+{SAY}Oh! Where did you come from!?{WAIT}Do you know how to get into this pyramid?{WAIT}...I'm trying to get inside somehow...{WAIT}but the door is sealed by a strange power and won't open...{/SAY}
+
+[142.007]
+Dr. Indy
+{SAY}Oh! It's you!{WAIT}I found this while exploring the small pyramid.{WAIT}Take it with you.{/SAY}
+
+[142.008]
+Dr. Indy
+{SAY}I'll continue my research here. Good luck to you too!{/SAY}
+
+[142.009]
+
+《It holds a glowing red liquid. Drink it?》
+
+[142.010]
+
+《...HP was restored!》
+
+[142.011]
+
+《It holds a glowing white liquid. Drink it?》
+
+[142.012]
+
+《...It tastes awful!》{WAIT}
+{CLEAR}
+《HP dropped to 1!》
+
+[142.013]
+
+《It holds a glowing red liquid. Drink it?》
+
+[142.014]
+
+《...HP was restored!》
+
+[142.015]
+
+《It holds a glowing blue liquid. Drink it?》
+
+[142.016]
+
+《...MP was restored!》
+
+[142.022]
+
+《It's locked...》
+
+[142.023]
+
+《There's a strange switch. Press it?》
+
+[142.024]
+
+《It unlocked!》
+
+[142.025]
+
+《It's locked...》
+
+[142.026]
+
+《It won't open from this side...》
+
+[142.027]
+{SAY}Dr. Indy went to explore the small pyramid, I reckon.{WAIT}By the way, wanna rest? It's 850G.{/SAY}
+
+
+
+[142.028]
+{SAY}We came from Kasbah Village, east of here, I reckon.{WAIT}You gonna rest here too, mister? It's 850G.{/SAY}
+
+
+
+[142.029]
+{SAY}Ya ain't got enough money!{/SAY}
+
+[142.030]
+{SAY}Then wanna read your diary on the quiet?{/SAY}
+
+
+
+[142.031]
+{SAY}Anytime.{/SAY}
+
+[142.032]
+Michael
+{SAY}Why don't you understand! This is the last time! Go back!{/SAY}
+
+[142.033]
+Michael
+{SAY}This is the last time! Go back!{/SAY}
+
+[142.034]
+
+《This seems to be a place of rest in the pyramid...》{WAIT}
+{CLEAR}
+《Rest here?》
+
+[142.035]
+
+《Will you at least write in your diary?》
+
+[142.036]
+{SAY}Heh heh heh.{/SAY}
+
+[142.037]
+Batty
+{SAY}Who's there! Who dares disturb my slumber!{WAIT}...I've been waiting, {NAME:19}!{/SAY}
+
+[142.038]
+Batty
+{SAY}...{PAUSE:1E}H-{PAUSE:14}heavy...{PAUSE:1E} Wait, {NAME:19}...{/SAY}
+
+[142.039]
+{NAME:04}
+{SAY}Wh-what is this...{/SAY}
+
+[142.040]
+{NAME:01}
+{SAY}I get it! This machine was making the sandstorms!{/SAY}
+
+[142.041]
+{NAME:02}
+{SAY}Let's stop it, quick.{/SAY}
+
+[142.042]
+{NAME:04}
+{SAY}Mm... That must be the control unit.{/SAY}
+
+[142.043]
+　...Who dares defile my tomb...
+
+[142.044]
+{NAME:01}
+{SAY}Wh-wh-wh-what? That voice...{/SAY}
+
+[142.045]
+{NAME:04}
+{SAY}L-l-like a g-g-ghost...{/SAY}
+
+[142.046]
+{NAME:02}
+{SAY}S-stop it, please~!{/SAY}
+
+[142.047]
+　...Fools who do not fear the gods...{PAUSE:14}
+　...if you value your lives, begone...
+
+[142.048]
+{NAME:04}
+{SAY}Who is this scoundrel who takes the name of the gods!{/SAY}
+
+[142.049]
+{NAME:01}
+{SAY}Come out! We know you're an alien!!{WAIT}...Probably.{/SAY}
+
+[142.050]
+　　　...Kukukukuku...
+
+[142.051]
+Tutanka
+{SAY}Had you gone home quietly, I would have spared your lives...{/SAY}
+
+[142.052]
+{NAME:02}
+{SAY}...It's you!!{WAIT}You controlled the weather around here and made everyone suffer!{/SAY}
+
+[142.053]
+Tutanka
+{SAY}...Kukuku.{WAIT}With the Sand Machine that sleeps in this Great Pyramid, a great drought or a great flood is mine to command...{WAIT}We are putting it to good use in place of you fools.{WAIT}...{PAUSE:1E}For pest control!{/SAY}
+
+[142.054]
+{NAME:01}
+{SAY}What did you say!!{/SAY}
+
+[142.055]
+Tutanka
+{SAY}Foolish bugs. I shall deal with you myself...{WAIT}Depart for the land of the dead!{/SAY}
+
+[142.056]
+Tutanka
+{SAY}I-I lose... Wh-what are you people...{/SAY}
+
+[142.057]
+{NAME:01}
+{SAY}Now, {NAME:19}! The controls!{/SAY}
+
+[142.058]
+{NAME:02}
+{SAY}Wait, {NAME:19}.{/SAY}
+
+[142.059]
+{NAME:02}
+{SAY}Below those stairs... I sense something...{/SAY}
+
+[142.060]
+
+《This seems to be the Sand Machine's control unit...》
+
+[142.061]
+
+《Switched off the Sand Machine!》
+
+[142.062]
+
+《The Sand Machine is stopped...》
+
+[142.063]
+
+《The sandstorm stopped...》
+
+[142.068]
+{NAME:01}
+{SAY}A God Stone...{/SAY}
+
+[142.069]
+{NAME:04}
+{SAY}The Sand Machine must have used the God Stone as its power source.{/SAY}
+
+[142.070]
+{NAME:02}
+{SAY}A stone with the power of the gods...{/SAY}
+
+[142.071]
+
+《{NAME:19} and company touched the God Stone!》
+
+[142.072]
+
+《{NAME:19}'s Chakra Level rose to 5!》
+
+[142.073]
+
+《{NAME:01}'s Chakra Level rose to 5!》
+
+[142.074]
+
+《{NAME:02}'s Chakra Level rose to 5!》
+
+[142.075]
+
+《{NAME:04}'s Chakra Level rose to 5!》
+
+[142.076]
+{NAME:01}
+{SAY}Come on! Let's head back, {NAME:19}!{/SAY}
+
+[142.077]
+
+《A strange power enveloped {NAME:19} and company!》
+
+[142.078]
+
+《{NAME:19}'s HP was restored!》
+

@@ -1,0 +1,167 @@
+[164.003]
+{SAY}Heh{PAUSE:12} heh{PAUSE:12} heh.{PAUSE:19} Guess who~!{/SAY}
+
+[164.004]
+Batty
+{SAY}I won't forgive you~!{/SAY}
+
+[164.005]
+Michael
+{SAY}{NAME:19}......{/SAY}
+
+[164.006]
+{NAME:01}
+{SAY}You!!{/SAY}
+
+[164.007]
+Batty
+{SAY}I hate you all~!{/SAY}
+
+[164.008]
+
+《A Moai with both eyes hollow...》
+
+[164.009]
+
+《Set the Stone Left Eye in the Moai!》
+
+[164.010]
+
+《A Moai with a hollow right eye...》
+
+[164.011]
+
+《Set the Stone Right Eye in the Moai!》
+
+[164.012]
+
+《A Moai with a hollow left eye...》
+
+[164.013]
+
+《Set the Stone Left Eye in the Moai!》
+
+[164.014]
+
+《Both eyes are in place...》
+
+[164.015]
+　　...Reaching this island...{HOLD}
+
+[164.016]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[164.017]
+{NAME:04}
+{SAY}It echoes right in my head!{/SAY}
+
+[164.018]
+{NAME:02}
+{SAY}...Is this telepathy!?{/SAY}
+
+[164.019]
+　　...Reaching this island...
+　　hoping that whoever receives
+　my blessing{PAUSE:1E} is of our kin,
+　　I leave this memory device...{HOLD}
+
+[164.020]
+{NAME:01}
+{SAY}What is this...{/SAY}
+
+[164.021]
+{NAME:02}
+{SAY}Shh! Quiet!{/SAY}
+
+[164.022]
+　The three continents sunk
+　by God's wrath will one day
+　rise again.{PAUSE:1E}
+　The "Holy Crest" will lead you
+　to one of them, "Lemuria"...{HOLD}
+
+[164.023]
+{NAME:04}
+{SAY}What!!{/SAY}
+
+[164.024]
+{NAME:01}
+{SAY}Lemuria! No way!{WAIT}Lemuria is... um...{/SAY}
+
+[164.025]
+{NAME:04}
+{SAY}A legendary continent said to have lain in the Indian Ocean long ago.{WAIT}So it was real...{/SAY}
+
+[164.026]
+{NAME:02}
+{SAY}Three sunken continents...{/SAY}
+
+[164.027]
+{NAME:04}
+{SAY}Sir {NAME:19}, let us look into this Lemuria!{WAIT}Surely it has some tie to the aliens!{/SAY}
+
+[164.028]
+{NAME:02}
+{SAY}Ah! That's!{/SAY}
+
+[164.029]
+{NAME:04}
+{SAY}Hm? That is!{/SAY}
+
+[164.030]
+{NAME:02}
+{SAY}So this... is the Holy Crest...{/SAY}
+
+[164.031]
+
+《Got the Holy Crest!》
+
+[164.032]
+《Something is carved on the Moai.{WAIT}Read it?》
+
+[164.033]
+{NAME:02}
+{SAY}I feel it... the feeling put into these words...{WAIT}
+{CLEAR}"The three continents sunk by God's wrath will one day rise again.{WAIT}The Holy Crest will lead you to one of them, Lemuria."{/SAY}
+
+[164.035]
+{NAME:01}
+{SAY}What's this...?{/SAY}
+
+[164.036]
+{NAME:04}
+{SAY}A Moai.{/SAY}
+
+[164.037]
+{NAME:01}
+{SAY}Moai?{/SAY}
+
+[164.038]
+{NAME:04}
+{SAY}Mysterious stone statues made by the ancients long ago...{/SAY}
+
+[164.039]
+{NAME:02}
+{SAY}The ancients...{/SAY}
+
+[164.040]
+{NAME:04}
+{SAY}But it's strange...{/SAY}
+
+[164.041]
+{NAME:04}
+{SAY}This Moai has hardly weathered at all,{WAIT}so it must be specially treated. Yet it has no eyes. Odd.{/SAY}
+
+[164.042]
+{NAME:02}
+{SAY}Eyes?{/SAY}
+
+[164.043]
+{NAME:04}
+{SAY}Yes. A Moai should have eyes.{/SAY}
+
+[164.044]
+{NAME:01}
+{SAY}Eyes, huh...{/SAY}
+

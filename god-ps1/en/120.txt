@@ -1,0 +1,101 @@
+[120.000]
+　《Hot spring water seems to be welling up from the bottom of the pot. Rest here?》
+
+
+[120.002]
+　《Then look at your diary?》
+
+
+[120.003]
+{SAY}Welcome, bear. Rebun is a really nice place, bear.{/SAY}
+
+[120.004]
+　Here, have this, bear.
+
+[120.005]
+
+《Received {WORD}!》
+
+[120.006]
+《But you already have 99 {WORD}!》
+
+[120.007]
+
+《Gave up on {WORD}...》
+
+[120.008]
+Batty
+{SAY}Heh heh heh.{WAIT}Who's there!? Who dares disturb my slumber?{WAIT}Ha{PAUSE:0A} ha{PAUSE:0A} ha! ...Achoo!{/SAY}
+
+[120.009]
+Batty
+{SAY}You're late!{PAUSE:14} It's cold!{PAUSE:14} Get here faster!{WAIT}{PAUSE:1E}I nearly got frostbite!{WAIT}{NAME:19}, behold the reborn me!!{/SAY}
+
+[120.010]
+Batty
+{SAY}...{PAUSE:0F}Forget you saw me, I mean it!!{/SAY}
+
+[120.011]
+{NAME:01}
+{SAY}...We'll forget.{/SAY}
+
+[120.012]
+
+《The drift ice floats quietly...》
+
+[120.013]
+{NAME:01}
+{SAY}Shall we get on?{/SAY}
+
+[120.014]
+{NAME:03}
+{SAY}Can we really get to the continent?{/SAY}
+
+[120.015]
+{NAME:02}
+{SAY}I don't know.{/SAY}
+
+[120.016]
+{NAME:01}
+{SAY}What'll it be, {NAME:19}?{/SAY}
+
+[120.017]
+Get on
+Don't
+
+[120.018]
+{SAY}Which is it? Make up your mind!{/SAY}
+
+[120.019]
+{NAME:01}
+{SAY}All right! Life is a challenge! Let's ride it!{/SAY}
+
+[120.020]
+{NAME:01}
+{SAY}Yeah, you're right.{WAIT}We don't know what'll happen.{/SAY}
+
+[120.021]
+{NAME:02}
+{SAY}{NAME:19}, let's get on.{WAIT}I don't know what will happen, but I feel something is waiting for us.{/SAY}
+
+[120.022]
+{NAME:03}
+{SAY}Something is waiting...{/SAY}
+
+[120.023]
+{NAME:01}
+{SAY}{NAME:19}, what'll it be? Getting on?{/SAY}
+
+
+[120.024]
+{NAME:01}
+{SAY}All right! Life is a challenge! Let's ride it!{/SAY}
+
+[120.025]
+{NAME:01}
+{SAY}I see...{/SAY}
+
+[120.026]
+
+《The drift ice floats quietly...》
+

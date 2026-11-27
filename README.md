@@ -17,6 +17,7 @@ was made for (the app names it on the game's page).
 | Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | English | [`tod2-ps2/en`](tod2-ps2/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | The opening, ten skits, the menus, a shop, the first battle and a quiz book. Nothing past Cresta. |
 | Tales of Destiny 2 (PlayStation 2, Japan, version 1.01) | French | [`tod2-ps2/fr`](tod2-ps2/fr) | 0.1 | Machine translated from the Japanese, directed by bquenin; not yet reviewed by a human translator. The story, the menus, the lists, all the skits, the quiz books and the minigames; five minigames keep their kana answers and two other minigames stay whole in Japanese, as in the English pack | The opening, the first town, the first steps on the world map, three skits, the menus, a shop, three battles and two questions of the quiz. Nothing past the world map outside Cresta. |
 | Ganbare Goemon: Tōkai Dōchū Ōedo Tengurigaeshi no Maki (Nintendo DS, Japan) | English | [`goemon-nds/en`](goemon-nds/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator | The opening, written across with the build option `horizontal-storyteller`, the trial and the first half of area 1; through a test image that runs chosen scripts, a shop, the quiz, the fortune teller, townspeople of four towns and scenes of areas 3 to 7. The rest, the ending among it, has only been built. |
+| G.O.D pure (PlayStation, Japan) | English | [`god-ps1/en`](god-ps1/en) | 0.1 | Machine translated, directed by bquenin; not yet reviewed by a human translator. Names follow the Super Famicom fan translation by Dynamic-Designs | The opening, the first town's caption, a shop, a battle with its Tactics, the equipment screen, the diary and the notebook; two later areas after their doors. The rest, the ending among it, has only been built. |
 
 ![A line of dialogue in Tales of Phantasia's blue text window, in Japanese and in English](images/top-dialogue.png)
 
@@ -31,7 +32,9 @@ and menu screens, and the characters' names. Tales of Destiny 2's is a first ful
 every story script from the prologue to the ending, 608 skits, the menu screens, the messages of the battle
 program, the enemy names, the lists of artes, items, titles, recipes, shops and places, and the quiz books
 and minigames. Ganbare Goemon DS's is the whole game in text: every scene, the storyteller's pages, the
-towns, the shops, the quiz and the guide bubbles. All three build with nothing refused.
+towns, the shops, the quiz and the guide bubbles. G.O.D pure's is a first full pass: every area's dialogue,
+the menus, the lists of items, Psycho and monsters, the shops, the notebook and the diary, drawn in narrow
+letters by a renderer ventris puts into the game. All of them build with nothing refused.
 
 Each pack's `NOTES.md` holds the names and terms it chose, how its strings are written, and exactly what
 has and has not been seen on screen.

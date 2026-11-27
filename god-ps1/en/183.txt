@@ -1,0 +1,33 @@
+[183.000]
+Name Geezer
+{SAY}Oh! You made it all the way here!{WAIT}I'm the Name Geezer.{WAIT}I'll change your friends' names!{WAIT}Want to try?{/SAY}
+
+[183.002]
+{SAY}Very well.{WAIT}Farewell!{/SAY}
+
+[183.003]
+{SAY}Now, whose name shall I change?{/SAY}
+
+[183.004]
+《Choose whose name to change.{WAIT}
+{CLEAR}　1 ...... {NAME:01}
+　2 ...... {NAME:02}
+　3 ...... {NAME:04}
+
+[183.005]
+　1
+　2
+　3
+
+[183.006]
+{SAY}I see, too bad.{WAIT}Farewell!{/SAY}
+
+[183.007]
+{SAY}Hm. {NAME:01}, is it. A good name.{WAIT}Keep up the good work!{/SAY}
+
+[183.008]
+{SAY}Hm. {NAME:02}, is it. A cute name.{WAIT}Keep up the good work!{/SAY}
+
+[183.009]
+{SAY}Hm. {NAME:04}, is it. A nice name.{WAIT}Keep up the good work!{/SAY}
+

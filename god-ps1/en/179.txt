@@ -1,0 +1,1033 @@
+[179.000]
+Write in diary
+Read diary
+Quit
+
+[179.004]
+{SAY}Wait!{/SAY}
+
+[179.005]
+{SAY}Oh, this is a gift from Kouran.{WAIT}She said she won't need it now.{/SAY}
+
+[179.006]
+
+《Got the Trans-Siberian tickets!》
+
+[179.007]
+{SAY}Kouran says thank you so much.{/SAY}
+
+[179.008]
+{SAY}Past here is the room of Master Shu, Honmaka's top man, -aru!{HOLD}No entry without leave, -aru!{/SAY}
+
+[179.009]
+{SAY}Past here is the room of Master Shu, Honmaka's top man, -aru!{HOLD}He's busy. No visitors without appointment, -aru!{/SAY}
+
+[179.010]
+{SAY}Past here is the room of Master Shu, Honmaka's top man, -aru!{HOLD}Hm? You want to see him, -aru?{/SAY}
+
+[179.011]
+{SAY}Normally I can't let you...{/SAY}
+
+[179.012]
+　Hm? That's the young lady's ring!
+　Pardon me! You're her friends, -aru!{WAIT}
+　Please go through.
+
+[179.013]
+　But one hand washes the other.
+　Give me some "yellow powder"
+　and I'll let you through, -aru!
+
+[179.014]
+　Hm... That's it!{WAIT}
+　That powder you've got!
+　Give it and you can pass, -aru!
+
+[179.015]
+
+《Handed over the yellow powder!》
+
+[179.016]
+{SAY}Xie xie! Please go through.{/SAY}
+
+[179.017]
+{SAY}No pressure, -aru!{/SAY}
+
+[179.018]
+{SAY}Hmph! Fine then, -aru!{/SAY}
+
+[179.019]
+{SAY}You can pass, but... don't tell Master Shu!{/SAY}
+
+[179.020]
+{SAY}For Honmaka souvenirs, pick ones with our own Honmamon mark, -aru!{/SAY}
+
+[179.021]
+{SAY}This place once thrived...{WAIT}Then a strange drug that turns people into monsters spread...{WAIT}Now look at it.{/SAY}
+
+[179.022]
+Rinrin
+{SAY}Welcome to Kowloon Tower of dreams! I'm Rinrin, your guide. What do you want to know, -aru?{/SAY}
+
+[179.023]
+This town      ...100G
+Master Shu     ...100G
+The aliens     ...100G
+　
+Quit
+
+[179.024]
+{SAY}Thank you, -aru!{/SAY}
+
+[179.025]
+{SAY}Anything else, -aru?{/SAY}
+
+[179.026]
+{SAY}Thank you, -aru!{/SAY}
+
+[179.027]
+{SAY}Anything else, -aru?{/SAY}
+
+[179.028]
+{SAY}Thank you, -aru!{/SAY}
+
+[179.029]
+{SAY}Anything else, -aru?{/SAY}
+
+[179.030]
+{SAY}Thank you, -aru!{/SAY}
+
+[179.031]
+{SAY}Anything else, -aru?{/SAY}
+
+[179.032]
+{SAY}Thank you, -aru!{/SAY}
+
+[179.033]
+{SAY}Thank you, -aru!{/SAY}
+
+[179.034]
+{SAY}Ah!! You lot...{WAIT}I'm telling you nothing more, -aru!!!{/SAY}
+
+[179.035]
+{SAY}Honmaka is rich Master Shu's Kowloon Tower,{WAIT}ringed by the old boats of the poor!{WAIT}The boat town outside is just an extra, never mind it, -aru!{WAIT}The tower has no lodging, so to stay, use the grubby inn in the boat town!{WAIT}...It has bugs, -aru.{WAIT}Well, it suits you lot!{/SAY}
+
+[179.036]
+{SAY}Not enough money!{/SAY}
+
+[179.037]
+{SAY}Master Shu rules this town! Very rich!{WAIT}Everything above the 2nd floor is his!{WAIT}Sorry, staff only up there!{WAIT}He has connections everywhere. They say that's why aliens never attack here!{WAIT}His one family is Kouran, a Chinese beauty, -aru!{WAIT}Not that it concerns you!{/SAY}
+
+[179.038]
+{SAY}Not enough money!{/SAY}
+
+[179.039]
+{SAY}The aliens here are based at Angkor Wat to the south!{WAIT}Bless sent people several times. None came back, they say!{WAIT}Some claim they saw a giant lizard or snake...{PAUSE:1E} Surely a lie!{WAIT}To reach Angkor Wat, go north, then around from the west, -aru!{/SAY}
+
+[179.040]
+{SAY}Not enough money!{/SAY}
+
+[179.041]
+(Secret info, -aru!
+　A bit pricey!
+　Pay 500G, -aru?)
+
+[179.042]
+(On an islet south of town
+　lives a strange old man.{HOLD}　He collects the flavors of
+　buns from all over the world.{WAIT}
+　He has odd things, and rewards
+　those who tell him flavors!{WAIT}
+　You can't get there by land,
+　so no one can check.{WAIT}
+　Sad, but that's life!)
+
+[179.043]
+{SAY}Not enough money!{/SAY}
+
+[179.044]
+{SAY}I don't care anymore~. I leave it all to Master Shu, and I'm floating...{/SAY}
+
+[179.045]
+{SAY}Yellow powder's so pricey lately...{WAIT}I sold my house...{/SAY}
+
+[179.046]
+{SAY}Floaty floaty...{WAIT}Haven't seen my wife lately...{WAIT}......{PAUSE:1E}
+......{PAUSE:1E}
+......{PAUSE:1E}
+...{PAUSE:1E}Oh well.{WAIT}Floaty floaty...{/SAY}
+
+[179.047]
+{SAY}What!?{WAIT}No more yellow powder from now on!?{WAIT}N-no way......{/SAY}
+
+[179.048]
+{SAY}Because I touched that drug, my wife... oh......{/SAY}
+
+[179.049]
+{SAY}Floating with my husband~. It's fine. I quit thinking.{/SAY}
+
+[179.050]
+{SAY}Dear...{PAUSE:1E} how much would this jewel fetch...{/SAY}
+
+[179.051]
+{SAY}She can't be here!{/SAY}
+
+[179.052]
+{SAY}Ah! It's you!{WAIT}Thank you!{/SAY}
+
+[179.053]
+{SAY}Ahh! This is heaven!{WAIT}For those with money, that is.{/SAY}
+
+[179.054]
+{SAY}Please... just a little. Spare me something...{/SAY}
+
+[179.055]
+{SAY}La la la~ are you happy~{/SAY}
+
+[179.056]
+{SAY}N... no...{PAUSE:3C}{WAIT}What do I cling to now?{/SAY}
+
+[179.057]
+{SAY}I knew I was wrong.{WAIT}...Can I still start over...{/SAY}
+
+[179.058]
+{SAY}Ah! You're Myaa Town's honorary citizen, myaa!{WAIT}Meeting you here, I'm thrilled, myaa!{/SAY}
+
+[179.059]
+{SAY}Right! As fellow spreaders of the Myaa way, I'll help you, myaa!{/SAY}
+
+[179.060]
+
+《Got 5000G!》
+
+[179.061]
+{SAY}Keep it up, myaa!{/SAY}
+
+[179.062]
+Joy
+{SAY}Mmm! The best!{/SAY}
+
+[179.063]
+Apple
+{SAY}You must be Sir {NAME:19}.{WAIT}Nice to meet you.{/SAY}
+
+[179.073]
+Ken
+{SAY}{NAME:19}! It's {NAME:19}!{/SAY}
+
+[179.074]
+Ken
+{SAY}Long time! Not since Snow Village!{/SAY}
+
+[179.075]
+{NAME:01}
+{SAY}You... how'd you get to the mainland!?{/SAY}
+
+[179.076]
+Ken
+{SAY}Don't sweat the details!! Music crosses borders!{/SAY}
+
+[179.077]
+{NAME:02}
+{SAY}...............{/SAY}
+
+[179.078]
+Ken
+{SAY}Ahem! Right, meet this town's diva! Kouran!{/SAY}
+
+[179.079]
+Ken
+{SAY}Kouran! These are my friends, on a journey to beat the aliens.{/SAY}
+
+[179.080]
+Kouran
+{SAY}Nice to meet you. I'm Shu Kouran.{WAIT}Ken has been so good to me.{/SAY}
+
+[179.081]
+Ken
+{SAY}And on drums over there is Wan. Hey! Wan!{/SAY}
+
+[179.082]
+Wan
+{SAY}An honor to meet you. I am called Wan.{/SAY}
+
+[179.083]
+Ken
+{SAY}He looks like that, but he's a top drummer!{WAIT}...All right! A song for our reunion!{/SAY}
+
+[179.084]
+Ken
+{SAY}{NAME:19}!{/SAY}
+
+[179.085]
+Ken
+{SAY}Long time, {NAME:19}!{WAIT}I've heard about you!{WAIT}We added members so we won't fall behind!{/SAY}
+
+[179.086]
+Ken
+{SAY}Now hear our new song!!{WAIT}One! Two!{/SAY}
+
+[179.092]
+Ken
+{SAY}Here we go!!{WAIT}...One! ...Two!!{/SAY}
+
+[179.093]
+{SAY}Stooop!!!{/SAY}
+
+[179.094]
+{SAY}...Shu! Master Shu...{/SAY}
+
+[179.095]
+{SAY}Why is he here...{/SAY}
+
+[179.096]
+Master Shu
+{SAY}What are you doing here, Kouran!{/SAY}
+
+[179.097]
+Kouran
+{SAY}...Father! Why are you here...!{/SAY}
+
+[179.098]
+Master Shu
+{SAY}That's my line! I told you never to leave your room...!{WAIT}We're going home, Kouran!{/SAY}
+
+[179.099]
+Kouran
+{SAY}...Father! Listen to me! The townsfolk are so happy to hear my songs!{WAIT}Please! Let me sing for them!{/SAY}
+
+[179.100]
+Master Shu
+{SAY}No! You needn't care about this scum!{/SAY}
+
+[179.101]
+Master Shu
+{SAY}Bah! What are you doing! Bring my daughter, now!!{/SAY}
+
+[179.102]
+Kouran
+{SAY}No! Let go!!{/SAY}
+
+[179.103]
+Ken
+{SAY}Kouran!!! What the hell are you doing!{/SAY}
+
+[179.104]
+Ken
+{SAY}Ow! You bastard!!{/SAY}
+
+[179.105]
+Kouran
+{SAY}Ken!!!{/SAY}
+
+[179.106]
+Wan
+{SAY}Stop this violence!{/SAY}
+
+[179.107]
+Wan
+{SAY}Ngh...!!{/SAY}
+
+[179.108]
+Kouran
+{SAY}Wan!!!{WAIT}...Please stop!!{/SAY}
+
+[179.109]
+Kouran
+{SAY}Father! Stop!!!{WAIT}All right... I'll come.{WAIT}So stop hurting them! Please!{/SAY}
+
+[179.110]
+Master Shu
+{SAY}Hmph! Very well.{WAIT}You lot! Learn your lesson and never touch my daughter again!{/SAY}
+
+[179.111]
+Ken
+{SAY}Wait!{/SAY}
+
+[179.112]
+Kouran
+{SAY}Ken! ...It's all right.{/SAY}
+
+[179.113]
+Ken
+{SAY}...Tch!!{/SAY}
+
+[179.114]
+Master Shu
+{SAY}You should have come quietly from the start... We're going!{/SAY}
+
+[179.115]
+{NAME:01}
+{SAY}Hey, {NAME:19}! We just leave it like this!?{/SAY}
+
+[179.116]
+Let's wait and see
+Let's help her
+
+[179.117]
+{SAY}What! You don't care either way!?{/SAY}
+
+[179.118]
+{NAME:01}
+{SAY}...Yeah. It's not really our business...{/SAY}
+
+[179.119]
+{NAME:02}
+{SAY}But... poor thing......{/SAY}
+
+[179.120]
+{NAME:01}
+{SAY}Heh! That's more like it!{/SAY}
+
+[179.121]
+{NAME:01}
+{SAY}Hold it! Old man!{/SAY}
+
+[179.122]
+Master Shu
+{SAY}What? Who are you?{WAIT}Ah, the outsiders who beat the aliens at Angkor Wat?{/SAY}
+
+[179.123]
+{NAME:02}
+{SAY}Let Kouran go!{WAIT}So many people are waiting for her songs!{/SAY}
+
+[179.124]
+Master Shu
+{SAY}Songs? Songs!?{WAIT}Ha! Nonsense. What use are songs in times like these!{WAIT}Outsiders, stay out of it!{/SAY}
+
+[179.125]
+{NAME:01}
+{SAY}What!!!{/SAY}
+
+[179.126]
+Kouran
+{SAY}Wait!!{/SAY}
+
+[179.127]
+Kouran
+{SAY}Father, they saved this town! Leave them be!{WAIT}I'll come quietly!{/SAY}
+
+[179.128]
+Kouran
+{SAY}Thank you. I'm glad you care, but I don't want to see more fighting...{WAIT}Oh, I never thanked you for saving the town...{WAIT}It's not much, but please...{/SAY}
+
+[179.129]
+
+《Got the Dragon Ring!》
+
+[179.130]
+Master Shu
+{SAY}Come!{/SAY}
+
+[179.131]
+Kouran
+{SAY}...If my songs make people happy... that's why I sing...{/SAY}
+
+[179.132]
+Kouran
+{SAY}The town's peace is back, it seems.{WAIT}But why... people's hearts find no calm.{/SAY}
+
+[179.133]
+Kouran
+{SAY}Father changed after the aliens came.{WAIT}...What will happen now?{/SAY}
+
+[179.134]
+Kouran
+{SAY}I don't know what I can do...{WAIT}but I'll keep singing!{/SAY}
+
+[179.135]
+{SAY}One! Two!{/SAY}
+
+[179.136]
+Wan
+{SAY}Ken sings well, but...{PAUSE:3C} he's weak... And I love Ken for it!!{/SAY}
+
+[179.137]
+Wan
+{SAY}Right!!{WAIT}Ken's weak, but cool, huh!!{/SAY}
+
+[179.138]
+Ken
+{SAY}...Her songs are this town's hope.{HOLD}I'll get her singing again, no matter what!{/SAY}
+
+[179.139]
+Ken
+{SAY}Tch! You stole my big moment!{WAIT}Well, now it's our turn to shine! Watch us!{/SAY}
+
+[179.140]
+Ken
+{SAY}Yo! You guys!{WAIT}We're doing great! You hang in there too!{/SAY}
+
+[179.141]
+Ken
+{SAY}Wanna hear our song?{/SAY}
+
+[179.142]
+{SAY}Here we go!{/SAY}
+
+[179.143]
+{SAY}Call on us any time!{/SAY}
+
+[179.144]
+{SAY}Kouran's singing is so lovely~ It clears my foggy head...{/SAY}
+
+[179.145]
+{SAY}I want to hear Kouran, but I can't defy Master Shu...{WAIT}Then I couldn't get that stuff anymore...{WAIT}Oh,{PAUSE:1E} uh,{PAUSE:1E} never mind...{/SAY}
+
+[179.146]
+{SAY}What!?{WAIT}We can't get that stuff anymore?{/SAY}
+
+[179.147]
+{SAY}Kouran! The best!{/SAY}
+
+[179.148]
+{SAY}When the yellow powder messes me up, I come hear Kouran sing.{WAIT}Strangely, it calms me down...{/SAY}
+
+[179.149]
+{SAY}Kouran sometimes slipped out of her tower room to sing...{WAIT}Now she won't come for a while...{/SAY}
+
+[179.150]
+{SAY}Kouran will come back, won't she?{/SAY}
+
+[179.151]
+{SAY}Who knew Master Shu was so rotten...{/SAY}
+
+[179.152]
+{SAY}I miss the yellow powder, so I come hear Kouran sing. It calms me.{/SAY}
+
+[179.153]
+{SAY}When the yellow powder messes me up, I come hear Kouran sing.{WAIT}Strangely, it calms me down...{/SAY}
+
+[179.154]
+{SAY}Kouran~! The best!!{/SAY}
+
+[179.155]
+{SAY}Powerful or not, that's a bit much...{/SAY}
+
+[179.156]
+{SAY}Kouran{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. When will she come next?{/SAY}
+
+[179.157]
+{SAY}Kouran's songs make me want to try!{/SAY}
+
+[179.158]
+{SAY}Hearing Kouran is my only joy!!{/SAY}
+
+[179.159]
+{SAY}Oh well... Guess I'll go home and sniff some yellow powder...{/SAY}
+
+[179.160]
+{SAY}Honestly!{WAIT}That Master Shu!! Robbing an old man of his joy...{WAIT}...grumble grumble...{/SAY}
+
+[179.161]
+{SAY}Kouran! Whoo-hoo!{/SAY}
+
+[179.162]
+{SAY}Kouran is this town's idol! Her father's a creep, though!{/SAY}
+
+[179.163]
+{SAY}Kouran~! Come back~!{/SAY}
+
+[179.164]
+{SAY}Who cares what Master Shu was!{WAIT}Kouran is Kouran, right?{/SAY}
+
+[179.165]
+{SAY}My dream is to be a diva like Kouran...{/SAY}
+
+[179.166]
+{SAY}I'm so mad! I'll go home and sniff yellow powder!{/SAY}
+
+[179.167]
+{SAY}Ahh{WAIT}sooooo{PAUSE:78} very{PAUSE:2D} bo{PAUSE:2D}-ring{PAUSE:2D}!!{/SAY}
+
+[179.168]
+{SAY}Kouran! So lovely~!{/SAY}
+
+[179.169]
+{SAY}Come on, gents, cheer up and spend that money!!{/SAY}
+
+[179.170]
+{SAY}Between us, Miss Kouran was heartsick over the yellow powder.{WAIT}She sang hoping her songs would help people resist it...{WAIT}Master Shu didn't like it, it seems...{/SAY}
+
+[179.171]
+{SAY}Between us,{WAIT}Miss Kouran will be back.{WAIT}She truly loves to sing.{/SAY}
+
+[179.172]
+{SAY}Thanks to Miss Kouran, this town got a bit better!{WAIT}Make yourselves at home!{/SAY}
+
+[179.173]
+{SAY}After that, yellow powder spread like wildfire...{WAIT}Everyone died in no time...{/SAY}
+
+[179.174]
+{SAY}Her songs and the way she lives hold this town up.{WAIT}A truly wonderful woman!{/SAY}
+
+[179.175]
+{SAY}The aliens wrecked the slots and roulette.{WAIT}But Honmaka, town of gambling, is immortal!!{/SAY}
+
+[179.176]
+{SAY}Play with a light heart. Have fun and you'll forget the aliens.{/SAY}
+
+[179.177]
+{SAY}Welcome! Have fun!{/SAY}
+
+[179.178]
+{SAY}Spend lots of money!{/SAY}
+
+[179.179]
+{SAY}Oh? Why's a pauper like you here? ...Hahaha. Pardon me.{/SAY}
+
+[179.180]
+{SAY}Oh?{WAIT}Even a pauper like you gets Kouran's singing?{WAIT}...Hahaha. Pardon,{PAUSE:1E} pardon.{/SAY}
+
+[179.181]
+{SAY}It's fine. If I run out, I'll win more gambling. It's fine!{/SAY}
+
+[179.182]
+{SAY}Whoooa!! What a thrill!!!{/SAY}
+
+[179.183]
+{SAY}Damn!! Then I'm betting it all!{/SAY}
+
+[179.184]
+{SAY}Ah,{PAUSE:14}.{PAUSE:14}.{PAUSE:14}. somehow{WAIT}I feel my heart washed clean.{/SAY}
+
+[179.185]
+{SAY}Dear, please stop!!{/SAY}
+
+[179.186]
+{SAY}How did I never notice such a wonderful voice!!{/SAY}
+
+[179.187]
+{SAY}...It's over, no money left... I'll have to die...{/SAY}
+
+[179.188]
+{SAY}No good! I can't even die like this!!{/SAY}
+
+[179.189]
+{SAY}How about that? That voice!!{WAIT}Isn't it wonderful!!{/SAY}
+
+[179.190]
+{SAY}...I hate it!!{/SAY}
+
+[179.191]
+{SAY}That's right!! Go, dear!!{/SAY}
+
+[179.192]
+{SAY}What is it?{WAIT}Listening to this song gives me strength.{/SAY}
+
+[179.193]
+{SAY}...Damn!! Why can't I win!!{/SAY}
+
+[179.194]
+{SAY}Today's song is different!!{/SAY}
+
+[179.195]
+{SAY}Gahaha, jackpot! That's why I can't quit gambling, -aru!{/SAY}
+
+[179.196]
+{SAY}Shh!!{WAIT}Be{PAUSE:1E} qui{PAUSE:1E}et, -aru! You lot!!{WAIT}You're spoiling the song, -aru!!{/SAY}
+
+[179.197]
+{SAY}I've come too far to quit! ...I'll dump my wife and kids!{/SAY}
+
+[179.198]
+{SAY}*sniff*!!{WAIT}I'm ashamed I always ran away!!{/SAY}
+
+[179.199]
+{SAY}Hi! Sorry to wait!{WAIT}You're happy! I'm happy! Everyone's happy! It's the Happy 9 corner!{WAIT}Hear the rules, -aru?{/SAY}
+
+[179.200]
+{SAY}It's 300G a game, -aru! Play, -aru?{/SAY}
+
+[179.201]
+{SAY}Let's get happy!{/SAY}
+
+[179.202]
+{SAY}Not enough money!{/SAY}
+
+[179.203]
+{SAY}Come again~!!{/SAY}
+
+[179.204]
+{SAY}A Happy 9 card has nine spots to scratch!{WAIT}You get to scratch only three!{WAIT}Each hides a number from 1 to 4.{WAIT}Your prize depends on the numbers, -aru!{WAIT}Ask the guy next door for the combos!{WAIT}If a bomb comes up, the game ends there!{WAIT}Sad, but those are the rules, -aru!{/SAY}
+
+[179.205]
+{SAY}It's 300G a game, -aru! Play, -aru?{/SAY}
+
+[179.206]
+{SAY}Let's get happy!{/SAY}
+
+[179.207]
+{SAY}Not enough money!{/SAY}
+
+[179.208]
+{SAY}Come again~!!{/SAY}
+
+[179.209]
+{SAY}Wow! Too bad!{/SAY}
+
+[179.210]
+{SAY}Aiya~ too bad!{/SAY}
+
+[179.211]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.212]
+
+《Got the Air Knife!》
+
+[179.213]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.214]
+
+《Got the Dragon Sword!》
+
+[179.215]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.216]
+
+《Got the Life Ess.!》
+
+[179.217]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.218]
+
+《Got the Psycho Ess.!》
+
+[179.219]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.220]
+
+《Got the Life Water!》
+
+[179.221]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.222]
+
+《Got the Miss You SP!》
+
+[179.223]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.224]
+
+《Got the Big Heart Water!》
+
+[179.225]
+{SAY}Congratulations! Here you go!{/SAY}
+
+[179.226]
+
+《Got the Big Power Water!》
+
+[179.227]
+{SAY}Life is failure after failure, -aru. Try again! 300G a game~.{/SAY}
+
+[179.228]
+{SAY}You're facing your luckiest direction now, -aru. Now's the time! 300G a game~.{/SAY}
+
+[179.229]
+{SAY}Let's get happy!{/SAY}
+
+[179.230]
+{SAY}Not enough money!{/SAY}
+
+[179.231]
+{SAY}Come again~!!{/SAY}
+
+[179.232]
+{SAY}Shall I tell you the Happy 9 prizes?{/SAY}
+
+[179.233]
+111...Air Knife
+222...Dragon Sword
+333...Life Ess.
+444...Psycho Ess.
+11?...Life Water
+22?...Miss You SP
+33?...Big Heart Water
+44?...Big Power Water{HOLD}
+
+[179.234]
+{SAY}Come again!{/SAY}
+
+[179.237]
+Master Shu
+{SAY}...Now, Lord Crewel. The women, as thanks.{/SAY}
+
+[179.238]
+General Crewel
+{SAY}Hm... I hope there's a fine "mother" among them...{/SAY}
+
+[179.239]
+Master Shu
+{SAY}Now, my reward...{/SAY}
+
+[179.240]
+General Crewel
+{SAY}Take all you like.{/SAY}
+
+[179.241]
+Master Shu
+{SAY}Oh... so much! Thank you.{/SAY}
+
+[179.242]
+General Crewel
+{SAY}Call me when you gather more women.{WAIT}I'll give you all the yellow powder you want!{WAIT}Heh heh heh...{/SAY}
+
+[179.243]
+{NAME:01}
+{SAY}Is that...{/SAY}
+
+[179.244]
+{NAME:04}
+{SAY}Master Shu, with the aliens!?{/SAY}
+
+[179.245]
+{NAME:02}
+{SAY}{NAME:19}, let's go!{/SAY}
+
+[179.246]
+Master Shu
+{SAY}Wh-wh-what!! Who are you!{WAIT}Do you know where you are! Get out!{/SAY}
+
+[179.247]
+{NAME:01}
+{SAY}Master Shu!{WAIT}That's the yellow powder you've got there!{/SAY}
+
+[179.248]
+{NAME:04}
+{SAY}Dealing with the aliens...!{/SAY}
+
+[179.249]
+{NAME:02}
+{SAY}What will you do with those women!?{/SAY}
+
+[179.250]
+Master Shu
+{SAY}I-I don't know! I know nothing!!{/SAY}
+
+[179.251]
+{NAME:01}
+{SAY}Do you know what you're doing!{/SAY}
+
+[179.252]
+{NAME:04}
+{SAY}Unforgivable!{/SAY}
+
+[179.253]
+{NAME:01}
+{SAY}You're no better than the aliens!{/SAY}
+
+[179.254]
+Master Shu
+{SAY}Eek... f-forgive me...!!{WAIT}I know! Let's split the powder profits!{WAIT}You'll live in luxury forever!{WAIT}Please, forgive me!{/SAY}
+
+[179.255]
+{NAME:01}
+{SAY}{NAME:19}, are you serious!{WAIT}We'll never forgive him!{/SAY}
+
+[179.256]
+Master Shu
+{SAY}Ho ho ho.{WAIT}The young man knows how life works.{/SAY}
+
+[179.257]
+{NAME:04}
+{SAY}Sir {NAME:19}!{WAIT}I was wrong to decide to follow you.{/SAY}
+
+[179.258]
+{NAME:02}
+{SAY}{NAME:19}......{/SAY}
+
+[179.259]
+Master Shu
+{SAY}What is it you wish for?{HOLD}Ho ho...{PAUSE:28} Gah!{WAIT}...M-{PAUSE:28}my body... n-{PAUSE:1E}no{PAUSE:3C} ...the yellow powder...{PAUSE:3C} my body...{/SAY}
+
+[179.260]
+Master Shu
+{SAY}You'll live in luxury forever!{WAIT}Come, be smart...{PAUSE:28} Gah!{PAUSE:3C} ...M-{PAUSE:28}my body... n-no{PAUSE:3C} ...the yellow powder...{PAUSE:28} my body...{/SAY}
+
+[179.261]
+Master Shu
+{SAY}Eek... p-please, forgive me...!!{WAIT}I know! Take this! Take it and let me go!{/SAY}
+
+[179.262]
+Master Shu
+{SAY}The powder takings... 5000G in all.{WAIT}Take it and let me go!{/SAY}
+
+[179.263]
+
+《Got 5000G!》
+
+[179.264]
+Master Shu
+{SAY}Th-then my whole fortune too! 10000G in all.{WAIT}Take it and let me go!{/SAY}
+
+[179.265]
+
+《Got 10000G!》
+
+[179.266]
+Master Shu
+{SAY}And my prized Dragon Sword!{WAIT}Please, let me go!{/SAY}
+
+[179.267]
+
+《Got 10000G!》
+
+[179.268]
+
+《Got the Dragon Sword!》
+
+[179.269]
+Master Shu
+{SAY}Th-thank you. I'll never sell yellow powder again!{WAIT}I never knew it would end so horribly!{WAIT}The aliens fooled me too!{WAIT}As thanks for sparing me, take this!{/SAY}
+
+[179.270]
+
+《Got the Trans-Siberian tickets!》
+
+[179.271]
+Master Shu
+{SAY}D... damn it...!! I've nothing left to lose!!{/SAY}
+
+[179.272]
+Master Shu
+{SAY}Y... you... I've been waiting...{WAIT}Come... let us go together...{PAUSE:1E} to hell!{/SAY}
+
+[179.273]
+Master Shu
+{SAY}Believe me! I'll never sell the powder again.{WAIT}...Like this, I can't show my face.{WAIT}I can't see Kouran again...{/SAY}
+
+[179.274]
+
+《Master Shu is already cold》
+
+[179.275]
+{SAY}Y... you... I've been waiting...{WAIT}Come... let us go together...
+...{PAUSE:1E}to hell!{/SAY}
+
+[179.276]
+
+《Master Shu is already cold》
+
+[179.278]
+{NAME:02}
+{SAY}Kouran...{/SAY}
+
+[179.279]
+{NAME:01}
+{SAY}Actually...{PAUSE:1E} um...{/SAY}
+
+[179.280]
+Kouran
+{SAY}...I know...{WAIT}I heard it all from here.{/SAY}
+
+[179.281]
+{NAME:04}
+{SAY}...Lady Kouran.{/SAY}
+
+[179.282]
+Kouran
+{SAY}......{/SAY}
+
+[179.283]
+{NAME:02}
+{SAY}Kouran...{/SAY}
+
+[179.284]
+Kouran
+{SAY}...I think Father took the punishment for all of Honmaka.{/SAY}
+
+[179.285]
+{NAME:01}
+{SAY}Kouran......{/SAY}
+
+[179.286]
+Kouran
+{SAY}...As his daughter, I should be punished too.{/SAY}
+
+[179.287]
+{NAME:04}
+{SAY}Indeed.{WAIT}You should be punished too, Lady Kouran.{/SAY}
+
+[179.288]
+{NAME:02}
+{SAY}{NAME:04}!?{/SAY}
+
+[179.289]
+{NAME:04}
+{SAY}Lady Kouran. Your punishment is to sing.{/SAY}
+
+[179.290]
+Kouran
+{SAY}What?{/SAY}
+
+[179.291]
+{NAME:04}
+{SAY}To sing and give Honmaka's people courage. That is your punishment.{/SAY}
+
+[179.292]
+Kouran
+{SAY}......{/SAY}
+
+[179.293]
+{NAME:04}
+{SAY}Now, that cool, weak fellow Ken is waiting.{/SAY}
+
+[179.294]
+Kouran
+{SAY}...Thank you.{WAIT}I'll take my punishment.{/SAY}
+
+[179.295]
+{NAME:01}
+{SAY}Not bad, old man.{/SAY}
+
+[179.296]
+{NAME:04}
+{SAY}The wisdom of age.{/SAY}
+
+[179.297]
+{SAY}WHAT! WHO ARE YOU!{/SAY}
+
+[179.298]
+{SAY}WHAT! WHO ARE YOU!{/SAY}
+
+[179.299]
+{SAY}...Master Shu... suddenly...{/SAY}
+
+[179.300]
+{SAY}I came for yellow powder and got locked in...{/SAY}
+
+[179.301]
+{SAY}WHAT! WHO ARE YOU!{/SAY}
+
+[179.302]
+{SAY}The women were taken upstairs...{/SAY}
+
+[179.303]
+{SAY}...My daughter, upstairs...{/SAY}
+
+[179.304]
+Kouran
+{SAY}Ah! Everyone! You made it...{WAIT}Father is on the floor above.{WAIT}But at this time he lets no one near...{WAIT}I don't know what goes on in there, but some people go in and never come out.{WAIT}Please! Go and see!{WAIT}...All I can do is let you rest here...{/SAY}
+
+[179.305]
+Kouran
+{SAY}Father says I can't leave here.{WAIT}...Just kidding. I'll slip out again and again to sing!{/SAY}
+
+[179.306]
+Kouran
+{SAY}It's not much, but will you stay?{/SAY}
+
+[179.307]
+{SAY}Then at least write in your diary?{/SAY}
+
+[179.308]
+{SAY}Please, take care...{/SAY}
+

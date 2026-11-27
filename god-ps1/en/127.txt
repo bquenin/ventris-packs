@@ -1,0 +1,58 @@
+[127.000]
+Write in diary
+Read diary
+Quit
+
+[127.003]
+{NAME:01}
+{SAY}Hey! {NAME:19}! Looks like it'll still take a while to reach the continent...{/SAY}
+
+[127.004]
+{NAME:03}
+{SAY}Looks like even the aliens couldn't get their hands on the drift ice!{WAIT}But...{PAUSE:1E} my butt's freezing......{/SAY}
+
+[127.005]
+{NAME:02}
+{SAY}{NAME:19}......{WAIT}
+{/SAY}
+
+[127.006]
+{NAME:02}
+{SAY}Japan is getting farther away...{WAIT}How long will our journey go on...{/SAY}
+
+[127.007]
+{NAME:02}
+{SAY}I'm sorry. Being so weak.{WAIT}It's okay. I'm fine!{/SAY}
+
+[127.008]
+{NAME:03}
+{SAY}Come on! Let's go to sleep.{/SAY}
+
+[127.009]
+{NAME:01}
+{SAY}Whoa!{/SAY}
+
+[127.010]
+{NAME:03}
+{SAY}What!?{/SAY}
+
+[127.011]
+{NAME:02}
+{SAY}Everyone! Wake up!!{/SAY}
+
+[127.012]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[127.013]
+{NAME:02}
+{SAY}Look!!{/SAY}
+
+[127.014]
+{NAME:03}
+{SAY}Oh no! The ice is melting!!{/SAY}
+
+[127.015]
+{NAME:01}
+{SAY}W... we're falling~!{/SAY}
+

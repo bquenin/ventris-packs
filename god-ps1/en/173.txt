@@ -1,0 +1,227 @@
+[173.000]
+Write in diary
+Read diary
+Quit
+
+[173.002]
+　　　You worms...
+　Do you dare trespass, knowing
+　this is Lord Poseidon's castle!{HOLD}
+
+[173.003]
+Batty
+{SAY}...{PAUSE:14}Why am I here...{WAIT}That's right, the Mother Virus was eating me!{WAIT}...These guys are idiots. Big bodies, no brains, right?{WAIT}Can't tell friend from foe...{PAUSE:14} what a pain.{WAIT}So, {NAME:19}, I give you special permission to beat up aliens and monsters.{WAIT}Do your best.{PAUSE:1E} Bye.{/SAY}
+
+[173.004]
+{NAME:02}
+{SAY}Here too...!!{/SAY}
+
+[173.005]
+{NAME:04}
+{SAY}This seems to be my job.{/SAY}
+
+[173.006]
+{NAME:02}
+{SAY}{NAME:04}!!{/SAY}
+
+[173.007]
+{NAME:04}
+{SAY}Hmph!{/SAY}
+
+[173.008]
+{NAME:02}
+{SAY}{NAME:04}!{/SAY}
+
+[173.009]
+{NAME:04}
+{SAY}Sir {NAME:19}, Lady {NAME:02}, quickly!{/SAY}
+
+[173.010]
+{NAME:04}
+{SAY}Hurry!!{/SAY}
+
+[173.011]
+{NAME:04}
+{SAY}Hurry!!{/SAY}
+
+[173.012]
+{NAME:04}
+{SAY}Lady {NAME:02}!?{WAIT}Aliens! What have you done...!{/SAY}
+
+[173.013]
+{SAY}Who dares disturb my sleep?{/SAY}
+
+[173.014]
+Batty
+{SAY}Hahaha. So you finally made it here!{WAIT}I was worried you'd died...{PAUSE:1E} no,{PAUSE:1E} hoping!{WAIT}Listen, {NAME:19}! Your journey ends here!{WAIT}Atlantis is ruled by Lord Poseidon.{WAIT}Lord Poseidon has, get this, two servants. They're all strong!{WAIT}They'll finish {NAME:19} and co. in one blow!{WAIT}Let me introduce you! Here is the first servant, Lord T-Rex!{/SAY}
+
+[173.015]
+Batty
+{SAY}I hate you all~!{/SAY}
+
+[173.016]
+{NAME:02}
+{SAY}This...{PAUSE:14} I feel a very strong power...{/SAY}
+
+[173.017]
+{NAME:04}
+{SAY}Perhaps it generates the barrier that guards Atlantis?{/SAY}
+
+[173.018]
+{NAME:01}
+{SAY}All right! Leave it to me!{WAIT}Stand back a bit!{/SAY}
+
+[173.019]
+
+《Pushed back by a strange power!》
+
+[173.020]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[173.021]
+{NAME:04}
+{SAY}Sir {NAME:01}!{/SAY}
+
+[173.022]
+{NAME:01}
+{SAY}Don't come!{/SAY}
+
+[173.023]
+{NAME:01}
+{SAY}Leave this to me!!{WAIT}I'll seal its energy with my chakra power!{WAIT}You should be able to go on now!{/SAY}
+
+[173.024]
+{NAME:02}
+{SAY}{NAME:01}!!{/SAY}
+
+[173.025]
+{NAME:04}
+{SAY}Sir {NAME:01}!!{/SAY}
+
+[173.026]
+{NAME:01}
+{SAY}Hurry! I can't hold it long!{/SAY}
+
+[173.027]
+{NAME:01}
+{SAY}Hurry up! ...I can't hold it much longer!{/SAY}
+
+[173.028]
+{NAME:01}
+{SAY}Hurry up! ...I can't hold it much longer!{/SAY}
+
+[173.029]
+{NAME:01}
+{SAY}What! {NAME:02}!{WAIT}{PAUSE:14}What are you doing, {NAME:19}!{WAIT}Go save her!{/SAY}
+
+[173.030]
+{NAME:02}
+{SAY}Wait! {NAME:19}!{/SAY}
+
+[173.031]
+{NAME:02}
+{SAY}I can't... leave a friend behind.{/SAY}
+
+[173.032]
+
+《You thought you heard a scream somewhere...》
+
+[173.033]
+{NAME:02}
+{SAY}Wait! {NAME:19}!{/SAY}
+
+[173.034]
+{NAME:02}
+{SAY}I can't... leave a friend behind.{/SAY}
+
+[173.035]
+{NAME:02}
+{SAY}So this is...{/SAY}
+
+[173.036]
+{NAME:04}
+{SAY}The sunken continent, Atlantis...{/SAY}
+
+[173.037]
+{NAME:01}　
+{SAY}...Dunno what's waiting, but let's go, {NAME:19}!{/SAY}
+
+[173.038]
+
+《Pushed back by a strange power!》
+
+[173.039]
+　{NAME:01}
+　{SAY}Let's get out!!{/SAY}
+
+[173.040]
+　{NAME:02}
+　{SAY}{NAME:19}! Come on, hurry!{/SAY}
+
+[173.041]
+
+《It looks like some kind of switch... Press it?》
+
+[173.042]
+
+《Something seems to have powered on...》
+
+[173.043]
+《This seems to be a place of rest in Atlantis. Rest here?》
+
+[173.044]
+《Then look at your diary?》
+
+[173.045]
+
+《It looks like some kind of switch... Press it?》
+
+[173.046]
+
+《Something seems to have powered on...》
+
+[173.047]
+
+《It looks like some kind of switch... Press it?》
+
+[173.048]
+
+《Something seems to have powered on...》
+
+[173.049]
+
+《Pushed back by a strange power!》
+
+[173.050]
+{NAME:02}
+{SAY}No! ...The barrier!{/SAY}
+
+[173.051]
+　{NAME:19}, {NAME:02},
+　{NAME:04}! Can you hear me!?{HOLD}
+
+[173.052]
+{NAME:02}
+{SAY}{NAME:01}!{/SAY}
+
+[173.053]
+{NAME:01}
+{SAY}I'm gonna drop that barrier for a moment!{WAIT}Slip through while it's down!{/SAY}
+
+[173.054]
+{NAME:01}
+{SAY}Here goes!!{WAIT}Oraoraoraoraoraora!{/SAY}
+
+[173.055]
+
+《It seems to lack energy...》
+
+[173.056]
+
+《It seems to lack energy...》
+
+[173.057]
+
+《It seems to lack energy...》
+

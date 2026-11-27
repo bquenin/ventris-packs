@@ -1,0 +1,342 @@
+[110.000]
+Write in diary
+Read diary
+Quit
+
+[110.004]
+Write in your diary?
+
+[110.005]
+Write in diary
+Read diary
+Sleep
+
+[110.006]
+
+《It seems to be locked...》
+
+[110.007]
+
+《You can hear voices talking...》
+
+[110.008]
+{SAY}.{PAUSE:14}.{PAUSE:14}.{PAUSE:14}Fatimaism is a fraud anyway{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{/SAY}
+
+[110.009]
+{SAY}They say the believers taken to Shuri Castle in Ryukyu never come back{PAUSE:14}.{PAUSE:14}.{PAUSE:14}.{/SAY}
+
+[110.010]
+
+"........................."
+
+[110.011]
+
+"House of the fools who defied Lady Fatimaria"
+
+[110.012]
+{SAY}The head temple of Fatimaism is in Ryukyu.{WAIT}The only way there is by ship, but the aliens sank every ship in this town...{WAIT}No, wait, I think Mr. Glover, who used to live here, had the very last one...{WAIT}He left long ago.{/SAY}
+
+[110.013]
+{SAY}Those who lost what they leaned on may say harsh things, but I think this is for the best.{/SAY}
+
+[110.014]
+　Oh, that's right.{WAIT}It's not much of a thank-you, but please take this.
+
+[110.015]
+
+《Got a Harbor Bun!》
+
+[110.016]
+{SAY}I'll give you more when I make some.{/SAY}
+
+[110.017]
+　Thank you. Thank you so much.
+
+[110.018]
+{SAY}Long time no see!{/SAY}
+
+[110.019]
+　Oh, that's right.{WAIT}Please take this.
+
+[110.020]
+
+《Got a Harbor Bun!》
+
+[110.021]
+{SAY}I'll give you more when I make some.{/SAY}
+
+[110.022]
+　Were the buns I made tasty?
+
+[110.023]
+{SAY}Please let me pray for your happiness.{/SAY}
+
+[110.024]
+{SAY}May Lady Fatimaria bless you.{/SAY}
+
+[110.025]
+{SAY}Go to hell~~~!{/SAY}
+
+[110.026]
+
+《{NAME:19} and company's HP dropped to 1!》
+
+[110.027]
+{SAY}What am I supposed to cling to now?{/SAY}
+
+[110.028]
+{SAY}Do you know this saying?{/SAY}
+
+[110.029]
+　"If you're not a Fatimaist, you're not human." That's what they say.
+
+[110.030]
+　"Fatimaists are not human." That's what they say.
+
+[110.031]
+{SAY}Ever since I came to believe in Fatimaism, all my suffering has gone away.{WAIT}Whatever anyone says, I'm content.{/SAY}
+
+[110.032]
+{SAY}If God did not exist, it would be necessary to invent Him. That's all there is to it.{/SAY}
+
+[110.033]
+{SAY}Ahh, I want to see Lady Fatimaria.{WAIT}How can I get to Ryukyu?{/SAY}
+
+[110.034]
+{SAY}Even if it was a lie, I wish they'd kept fooling me...{/SAY}
+
+[110.035]
+{SAY}Are you happy?{WAIT}Believe in Fatimaism and you can be happy.{/SAY}
+
+[110.036]
+{SAY}What is happiness? I don't understand it at all anymore.{/SAY}
+
+[110.037]
+{SAY}Lady Fatimaria has a strange power that heals all suffering.{/SAY}
+
+[110.038]
+{SAY}There's no utopia anywhere, is there.{/SAY}
+
+[110.039]
+{SAY}Welcome... This is Nagasaki Town. Are you happy?{WAIT}Believe in Fatimaism and anyone can be happy...{/SAY}
+
+[110.040]
+{SAY}Welcome! This is Nagasaki Town, the town of castella and the harbor. Are you happy?{WAIT}Ah!?{PAUSE:14} What are you doing here! Get out!!{/SAY}
+
+[110.041]
+{SAY}Get out!!{/SAY}
+
+[110.042]
+{SAY}This town is protected by Fatimaism, so it's safe.{/SAY}
+
+[110.043]
+{SAY}Give me back my dad!!{/SAY}
+
+[110.044]
+{SAY}Lady Fatimaria has a very strange power.{/SAY}
+
+[110.045]
+{SAY}Wh... what are you here for this time!!{/SAY}
+
+[110.046]
+{SAY}...Mom...{/SAY}
+
+[110.047]
+{SAY}Big brothers! Thank you so much!{/SAY}
+
+[110.048]
+　I can't give you anything as thanks, but I'll teach you this song Mama taught me long ago!
+
+[110.049]
+
+《{NAME:02} learned the Lullaby!》
+
+[110.050]
+{SAY}Big brothers! Thank you so much!{/SAY}
+
+[110.051]
+{SAY}Are you the ones who defeated Fatimaria?{WAIT}Thanks to you, I could see my child again like this.{WAIT}Thank you, thank you so much.{/SAY}
+
+[110.052]
+{SAY}Thank you! Big brothers!{/SAY}
+
+[110.053]
+{SAY}...Young lady, I know who you are.{WAIT}I understand now that the aliens were controlling you.{WAIT}But...{/SAY}
+
+[110.054]
+{SAY}Mama?{/SAY}
+
+[110.055]
+{SAY}No... it's nothing.{/SAY}
+
+[110.056]
+{SAY}Could you leave us alone for now...?{WAIT}This child's father won't be coming home anymore...{/SAY}
+
+[110.057]
+{SAY}Could you leave us alone for now...?{WAIT}This child's father won't be coming home anymore...{/SAY}
+
+[110.058]
+{SAY}I've decided to live strong, just the two of us.{WAIT}You do your best too.{/SAY}
+
+[110.059]
+{SAY}It's become a hard town to live in... It used to be a fine town, famous for its harbor and castella...{/SAY}
+
+[110.060]
+{SAY}I wonder if this town will change a little now......{/SAY}
+
+[110.061]
+{SAY}Our founder at the head temple, Lady Fatimaria, is a very beautiful person.{/SAY}
+
+[110.062]
+{SAY}Ah!? You... Because of you I lost my house and my family!!{WAIT}Get out of this town right now!!{/SAY}
+
+[110.063]
+{SAY}Ahh, Lady Fatimaria... I long to see you once more.{/SAY}
+
+[110.064]
+{SAY}Ah!? ......You... You've got some nerve coming back to this town. Real guts.{/SAY}
+
+[110.065]
+
+《It's locked...》
+
+[110.066]
+
+《{NAME:19} used the Warehouse Key!》
+
+[110.067]
+
+《It's locked...》
+
+[110.068]
+
+《{NAME:19} used the Warehouse Key!》
+
+[110.069]
+{SAY}...I want to rebuild this house somehow.{WAIT}And for that, business, business!{/SAY}
+
+[110.070]
+{SAY}Thank you so much!{/SAY}
+
+[110.071]
+{SAY}We won't lose! We'll rebuild this house... no, this town!{WAIT}And for that, business, business!{/SAY}
+
+[110.072]
+{SAY}Thanks, come again!{/SAY}
+
+[110.073]
+{SAY}...A traveler, how rare.{WAIT}This is Nagasaki Town, a peaceful town protected by Lady Fatimaria.{WAIT}If my upstairs will do, I could put you up.{WAIT}400G a night. Will you stay?{/SAY}
+
+[110.074]
+{SAY}Then, upstairs, please.{/SAY}
+
+[110.075]
+{SAY}You don't have enough money, ya know!{/SAY}
+
+[110.076]
+{SAY}Upstairs, please.{WAIT}Feel free to stay.{/SAY}
+
+[110.077]
+{SAY}...A traveler, how rare.{WAIT}This is Nagasaki Town.{WAIT}If my upstairs will do, I could put you up.{WAIT}400G a night. Will you stay?{/SAY}
+
+[110.078]
+{SAY}Then, upstairs, please.{/SAY}
+
+[110.079]
+{SAY}You don't have enough money, ya know!{/SAY}
+
+[110.080]
+{SAY}Upstairs, please.{WAIT}Feel free to stay.{/SAY}
+
+[110.081]
+{SAY}Then will you write in your diary on the quiet?{/SAY}
+
+[110.082]
+{SAY}Come again, ya hear!{/SAY}
+
+[110.083]
+{SAY}Did you see the boy in the burned ruins on the left?{/SAY}
+
+[110.084]
+{SAY}Poor thing...{WAIT}Both his parents were against Fatimaism, so their house was burned down...{WAIT}His father died, and they say only his mother was taken to Ryukyu... I wonder what became of her.{/SAY}
+
+[110.085]
+{SAY}It's not just there.{WAIT}There are burned ruins all over town, aren't there?{WAIT}The houses that opposed Fatimaism were burned down...{WAIT}It's become a hard place to live...{/SAY}
+
+[110.086]
+{SAY}Well, well... Now it'll finally be easy to live here!{WAIT}Being able to say what you want is wonderful!{/SAY}
+
+[110.087]
+{SAY}Hey! Don't go saying unnecessary things!{/SAY}
+
+[110.088]
+{SAY}If you folks have no business here, go on home!{/SAY}
+
+[110.089]
+{SAY}Ohohoho. We're devout believers of Fatimaism, you know.{/SAY}
+
+[110.090]
+
+《There's a bed. Stay the night?》
+
+[110.091]
+{SAY}Wh-wh-wh-what do you want! Who are you people!!{/SAY}
+
+[110.092]
+{SAY}D-d-d-don't tell me... you heard that just now?{/SAY}
+
+[110.093]
+{SAY}!! Waaah, I'm sorry! Everything I just said was a lie!{/SAY}
+
+[110.094]
+{SAY}!! Liar~! Of course you heard!!{/SAY}
+
+[110.095]
+{SAY}Please, don't tell the Fatimaists...{PAUSE:0A} I'll give you this, so forgive me...{/SAY}
+
+[110.096]
+
+《Got a Rare Book!》
+
+[110.097]
+{SAY}Please... keep quiet about it.{/SAY}
+
+[110.098]
+{SAY}I don't have to be scared anymore.{/SAY}
+
+[110.099]
+{SAY}Everyone in town who spoke ill of Fatimaism was taken away somewhere...{/SAY}
+
+[110.100]
+{SAY}Thank you! Now we can live in peace!{/SAY}
+
+[110.101]
+{SAY}When I'm home, I have to listen to both my wife and my mother complaining, so I run away like this.{/SAY}
+
+[110.102]
+{SAY}I'm so glad my wife and my mother get along now.{/SAY}
+
+[110.103]
+{SAY}My mother-in-law is such a handful.{HOLD}No matter how much I preach the wonders of Fatimaism, she won't listen at all.{/SAY}
+
+[110.104]
+{SAY}I'm making ohagi, my mother-in-law's favorite. Ahh, so busy, so busy.{/SAY}
+
+[110.105]
+{SAY}My daughter-in-law is just awful.{WAIT}She's lost her head over this Fatimaism business and even gave my secret savings away as an offering,{WAIT}she barely does any housework, she can't cook...{WAIT}That Fatimaism has got to be a sham.{/SAY}
+
+[110.106]
+{SAY}My daughter-in-law is a wonderful girl. She's ever so kind, even to an old granny like me...{/SAY}
+
+[110.107]
+{SAY}Hmm, this place is full of rare things, but not much that's worth money.{WAIT}All right, I'll give you this.{/SAY}
+
+[110.108]
+{SAY}That whistle is rare too, but it's not worth any money. I wonder what it was for.{/SAY}
+
+[110.109]
+{SAY}Mr. Glover's Dolphin Whistle is rare, but the Mohican Maru is even rarer.{WAIT}Give it back properly someday.{/SAY}
+
+[110.110]
+{SAY}I'm not a Sokoban game. The cargo here doesn't move.{/SAY}
+

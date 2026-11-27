@@ -1,0 +1,27 @@
+[101.000]
+Write in diary
+Read diary
+Quit
+
+[101.002]
+{SAY}Since you came all this way... at least look at your diary.{/SAY}
+
+[101.003]
+{SAY}See you, then.{/SAY}
+
+[101.004]
+　{SAY}No one talks to me anymore, meow.{WAIT}Everyone is gone, meow.{/SAY}
+
+[101.005]
+　{SAY}...This used to be a town.{HOLD}The aliens attacked it. I ran a convenience store here.{WAIT}{PAUSE:14}...It's all gone.{WAIT}{PAUSE:14}...Everyone's gone.{/SAY}
+
+[101.006]
+{SAY}No one talks to me anymore, woof.{/SAY}
+
+[101.007]
+{SAY}Even a place like this was a fine town once.{WAIT}But now there's nobody left.{WAIT}I don't know anything anymore.{WAIT}Whether the people who lived in this town are alive or dead...{WAIT}All I know is that I hate green peppers.{/SAY}
+
+[101.008]
+
+　　　"Furusato Elementary School"　　　
+

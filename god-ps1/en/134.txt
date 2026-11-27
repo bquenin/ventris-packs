@@ -1,0 +1,366 @@
+[134.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[134.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[134.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[134.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[134.005]
+Write in diary
+Read diary
+Quit
+
+[134.006]
+{SAY}{NAME:19}! {PAUSE:1E}Your lunch!!{/SAY}
+
+[134.007]
+{SAY}This is my compartment. Please don't come in uninvited.{/SAY}
+
+[134.008]
+{NAME:02}
+{SAY}I hope {NAME:01} is all right...{/SAY}
+
+[134.009]
+{NAME:04}
+{SAY}In any case, until we catch up with him...{/SAY}
+
+[134.010]
+{NAME:02}
+{SAY}{NAME:19}, maybe you should go take a look...{/SAY}
+
+[134.011]
+{NAME:02}
+{SAY}I hope {NAME:01} is all right...{/SAY}
+
+[134.012]
+{NAME:02}
+{SAY}{NAME:19}, why not rest now?{/SAY}
+
+[134.013]
+{SAY}I see... But don't push yourself.{/SAY}
+
+[134.014]
+{NAME:02}
+{SAY}If only we could travel like this in more peaceful times...{WAIT}No. I'm sorry. It's nothing...{/SAY}
+
+[134.015]
+{NAME:02}
+{SAY}Oh, {NAME:19}, resting already?{/SAY}
+
+[134.016]
+{SAY}I see... But don't push yourself.{/SAY}
+
+[134.017]
+{NAME:04}
+{SAY}Hmmm...{/SAY}
+
+[134.018]
+{NAME:04}
+{SAY}In any case, until we catch up with him...{/SAY}
+
+[134.019]
+{NAME:04}
+{SAY}Fretting won't help.{HOLD}Why not rest for today?{/SAY}
+
+[134.020]
+{NAME:04}
+{SAY}Indeed, if a train is running, it would be no surprise for aliens to attack.{WAIT}We must be careful.{/SAY}
+
+[134.021]
+　　　　　...{NAME:19}.
+
+[134.022]
+{CLEAR}　　　...Oh... {NAME:19}!
+
+[134.023]
+{CLEAR}　　　Don't... come...
+
+[134.024]
+{CLEAR}　　　　...Don't... come!
+
+[134.025]
+{CLEAR}　　　　　...{NAME:19}!
+
+[134.026]
+{SAY}{NAME:19}...!{PAUSE:1E}{/SAY}
+
+[134.027]
+{NAME:02}
+{SAY}{NAME:19}... wake up!{/SAY}
+
+[134.028]
+{NAME:02}
+{SAY}It's terrible! Aliens...!{/SAY}
+
+[134.029]
+{NAME:04}
+{SAY}Oh, Sir {NAME:19}! A UFO outside the window!!{/SAY}
+
+[134.030]
+{NAME:04}
+{SAY}Wh-what is this...!?{/SAY}
+
+[134.031]
+{NAME:02}
+{SAY}An attack!?{/SAY}
+
+[134.032]
+{SAY}Waaaaah!!{/SAY}
+
+[134.033]
+{SAY}Kyaaaaah!!{/SAY}
+
+[134.035]
+{SAY}Wake up.{/SAY}
+
+[134.036]
+{SAY}It's morning! Come on, up, up!{/SAY}
+
+[134.037]
+{SAY}Come on, it's time.{/SAY}
+
+[134.038]
+{SAY}Oh my, are you still half asleep?{PAUSE:14} You were so excited you couldn't sleep, weren't you?{WAIT}Come on, it's summer vacation!{PAUSE:0A} Summer vacation!{PAUSE:28} Sum-{PAUSE:14}mer-{PAUSE:14}va-{PAUSE:14}ca-{PAUSE:14}tion{PAUSE:14}!{PAUSE:1E} Summer vacation!!{WAIT}You're riding your bike to Hokkaido to see Grandma, aren't you?{/SAY}{HOLD}
+
+[134.039]
+{NAME:02}
+{SAY}{NAME:19},{PAUSE:28} {NAME:19}{/SAY}
+
+[134.040]
+{NAME:02}
+{SAY}...{PAUSE:0A}{NAME:19},{PAUSE:0A} you were dreaming. You looked so sad.{/SAY}
+
+[134.041]
+{NAME:02}
+{SAY}...{NAME:19}.{WAIT}When I was a child, I went to Tokyo with my father and mother, just the three of us.{WAIT}On the way, we stopped at Mt. Tsukubane.{WAIT}My father and mother are both gone now...{/SAY}
+
+[134.042]
+{NAME:02}
+{SAY}That sound!? ...{NAME:19}, what was that?{/SAY}
+
+[134.043]
+{NAME:04}
+{SAY}Awake, Sir {NAME:19}?{WAIT}I heard from Lady {NAME:02}. So aliens had gotten aboard.{WAIT}I hope nothing comes of it...{/SAY}
+
+[134.044]
+{NAME:02}
+{SAY}They say it'll be a while yet to Moscow.{WAIT}Let's stay on our guard, at least.{/SAY}
+
+[134.045]
+{SAY}Authorized personnel only beyond this point!{/SAY}
+
+[134.046]
+
+《It's locked...》
+
+[134.047]
+{SAY}Authorized personnel only beyond this point!{/SAY}
+
+[134.048]
+{SAY}Will you write in your diary, as a memento of the Trans-Siberian?{/SAY}
+
+[134.049]
+{SAY}Enjoy your train journey.{/SAY}
+
+[134.050]
+{SAY}ZZZ...{/SAY}
+
+[134.051]
+{SAY}Will you write in your diary, as a memento of the Trans-Siberian?{/SAY}
+
+[134.052]
+{SAY}Enjoy your train journey.{/SAY}
+
+[134.053]
+{SAY}Why is it that riding a train makes me want to cry?{/SAY}
+
+[134.054]
+{SAY}Why is it that riding a train makes me feel so wistful?{/SAY}
+
+[134.055]
+{SAY}Zzz zzz...{/SAY}
+
+[134.056]
+{SAY}My life was waiting... Being on a train is like a dream.{/SAY}
+
+[134.057]
+{SAY}Finally here... Moscow, yes!{/SAY}
+
+[134.058]
+{SAY}Moscow! Moscow!{WAIT}...{PAUSE:0A}Soon, everything will work out...{/SAY}
+
+[134.059]
+{SAY}Mumble mumble...{/SAY}
+
+[134.060]
+{SAY}Truth is, I've never been to Moscow.{/SAY}
+
+[134.061]
+{SAY}...Mumble mumble... Natasha... I missed you...{/SAY}
+
+[134.062]
+{SAY}I'm meeting a friend in Moscow. First time in three years. I can't wait!{/SAY}
+
+[134.063]
+{SAY}Mumble mumble...{PAUSE:1E} And then... um...{/SAY}
+
+[134.064]
+{SAY}And there I was, tearing through the swarming aliens and tossing them aside, tearing and tossing...{/SAY}
+
+[134.065]
+{SAY}Zzz... wow... Grandpa...{/SAY}
+
+[134.066]
+{SAY}And then? Hey, and then, Grandpa?{/SAY}
+
+[134.067]
+{SAY}Zzz... Dad...{/SAY}
+
+[134.068]
+{SAY}Yo! Mister! You guys made it aboard too!{HOLD}Thanks to you, I can take my sister to see Dad.{WAIT}Thanks!{/SAY}
+
+[134.069]
+{SAY}Big brother... are we in Moscow yet...{/SAY}
+
+[134.070]
+{SAY}Big brother! Are we in Moscow yet?{/SAY}
+
+[134.071]
+{SAY}I see... no bath...{/SAY}
+
+[134.072]
+{SAY}...No bath...{/SAY}
+
+[134.073]
+{SAY}...{PAUSE:1E}What? The Trans-Siberian has no bath?{/SAY}
+
+[134.074]
+{SAY}...Mumble mumble.{/SAY}
+
+[134.075]
+{SAY}I wonder if Moscow is cold...{/SAY}
+
+[134.076]
+{SAY}...Zzz... zzz...{/SAY}
+
+[134.077]
+{SAY}It's my first time on a train! ...It shakes quite a bit, doesn't it.{/SAY}
+
+[134.078]
+{SAY}Beyond here is storage. Ordinary passengers may not enter.{WAIT}...What? Moscow? We arrive the morning after next. Why not get some rest today?{/SAY}
+
+[134.079]
+{SAY}We reach Moscow tomorrow morning.{WAIT}Why not get some rest today?{/SAY}
+
+[134.080]
+{SAY}The Trans-Siberian is the greatest railway in the world.{/SAY}
+
+[134.081]
+Batty
+{SAY}...Mumble mumble...{WAIT}Huh... isn't that {NAME:19}... Hm? Oh... just a dream...{WAIT}...Mumble mumble...{/SAY}
+
+[134.082]
+Batty
+{SAY}...Mumble mumble...{WAIT}{NAME:19}, you just wait... ...Mumble mumble...{/SAY}
+
+[134.083]
+{SAY}So lonely...{PAUSE:1E} So lonely...{/SAY}
+
+[134.084]
+{SAY}Glad you talked to me. Being alone is no good.{WAIT}A trip's best with two.{/SAY}
+
+[134.085]
+{SAY}Mumble mumble...{/SAY}
+
+[134.086]
+{SAY}I'm on my way to a hospital in Moscow.{/SAY}
+
+[134.087]
+{SAY}You don't have enough money!{/SAY}
+
+[134.088]
+{SAY}Puff-puff... puff-puff... Oh, doctor, just because we're on a train, you want an "ekiben"... mumble mumble...{/SAY}
+
+[134.089]
+{SAY}They say you can leave your shame behind when you travel.{/SAY}
+
+[134.090]
+{SAY}Ufufu, train trips are lovely. I get so bold, somehow.{/SAY}
+
+[134.091]
+{SAY}...Zzz... Boxed lunches, anyone... Mumble mumble...{/SAY}
+
+[134.092]
+{SAY}On-board sales, vich! How about a souvenir of the Trans-Siberian, vich?{/SAY}
+
+[134.093]
+{SAY}Kekeke. You found me!{/SAY}
+
+[134.094]
+{SAY}Kekeke.{WAIT}Now that you've seen me, you'll have to die!{/SAY}
+
+[134.095]
+{SAY}...Kekeke. Too late! You're finished...!!{/SAY}
+
+[134.096]
+{SAY}Kekeke. You found me!{/SAY}
+
+[134.097]
+{SAY}Kekeke.{WAIT}Now that you've seen me, you'll have to die!{/SAY}
+
+[134.098]
+{SAY}...Kekeke. Too late! You're finished...!!{/SAY}
+
+[134.099]
+{NAME:02}
+{SAY}{NAME:19}, are you all right!?{WAIT}I had a bad feeling...{/SAY}
+
+[134.100]
+{NAME:02}
+{SAY}...I see. Aliens...{WAIT}I'm worried...{/SAY}
+
+[134.101]
+{NAME:02}
+{SAY}Let's go back for now...{/SAY}
+
+[134.103]
+{SAY}Your lunch is ready! Hurry on down, {NAME:19}!{/SAY}
+
+[134.104]
+
+　　　"July 1999"
+
+[134.105]
+
+《Found the "Summer Homework"!》
+
+[134.106]
+
+《.{PAUSE:14}.{PAUSE:14}.{PAUSE:14}Pretended not to see it.》
+
+[134.107]
+{SAY}Now, it's time to set off. Here's your lunch.{/SAY}
+
+[134.108]
+{SAY}I packed your favorites, {NAME:19}: hamburger steak and little octopus sausages.{WAIT}And here's your pocket money. Don't waste it.{WAIT}To get to Hokkaido, just head north.{HOLD}{NAME:19}, you're so curious, so no wandering off along the way.{WAIT}.{PAUSE:0A}.{PAUSE:0A}.{PAUSE:0A}I'm worried.{/SAY}
+
+[134.109]
+{SAY}But you're a strong boy, {NAME:19}.{WAIT}But don't go following any weird old men. Be careful out there.{/SAY}
+
+[134.110]
+{SAY}What's wrong? Feeling lonely? Were you always such a weak boy, {NAME:19}?{/SAY}
+
+[134.111]
+{SAY}{NAME:19}!{/SAY}
+
+[134.112]
+{SAY}Off you go. Be careful.{WAIT}Go and see all kinds of things, {NAME:19}.{/SAY}{HOLD}
+
+[134.113]
+{SAY}...{NAME:19}, {NAME:19}.{/SAY}
+

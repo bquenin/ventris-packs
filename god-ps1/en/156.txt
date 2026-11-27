@@ -1,0 +1,107 @@
+[156.000]
+Write in diary
+Read diary
+Quit
+
+[156.006]
+{NAME:04}
+{SAY}What is that...?{/SAY}
+
+[156.007]
+{NAME:02}
+{SAY}Manager Alice!? Why are you here...?{/SAY}
+
+[156.008]
+Alice
+{SAY}...I've been waiting.{/SAY}
+
+[156.009]
+{NAME:02}
+{SAY}What?{/SAY}
+
+[156.010]
+Alice
+{SAY}At last, you've fallen into our hands...{/SAY}
+
+[156.011]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[156.012]
+{NAME:04}
+{SAY}What do you mean?{/SAY}
+
+[156.013]
+Alice
+{SAY}I have waited all this time.{WAIT}For you to come this far...{WAIT}To avenge the many brethren you killed...{WAIT}To keep you from hindering the Great Catastrophe...{/SAY}
+
+[156.014]
+{NAME:02}
+{SAY}You... who are you!?{/SAY}
+
+[156.015]
+Ariadne
+{SAY}There's no escape now.{WAIT}Give up...{/SAY}
+
+[156.016]
+{NAME:01}
+{SAY}So it was all a lie to lure us here!{WAIT}The audition, and the "thing essential to the play" too!{/SAY}
+
+[156.017]
+Ariadne
+{SAY}I merely made use of you.{WAIT}The humans never noticed I'd swapped places with that woman. What fools.{WAIT}And I told no lie...{/SAY}
+
+[156.018]
+{NAME:04}
+{SAY}What!?{/SAY}
+
+[156.019]
+Ariadne
+{SAY}It's right here, isn't it...{HOLD}The ending a play can't do without... the ending of your deaths!{WAIT}Now, this is your final stage!{/SAY}
+
+[156.020]
+Ariadne
+{SAY}Heh heh heh... It's too late...{WAIT}For New York, the world, mankind!{WAIT}...And for you!{WAIT}Awaken, my servants!{/SAY}
+
+[156.021]
+
+《An eerie presence fills the meteorite...》
+
+[156.022]
+{NAME:04}
+{SAY}Wh... what is this...{/SAY}
+
+[156.023]
+{NAME:02}
+{SAY}So many enemies!{/SAY}
+
+[156.024]
+Ariadne
+{SAY}Now... can you escape? You face my elite troops.{WAIT}...Heh heh{PAUSE:1E}... Hahahahaha!{/SAY}
+
+[156.025]
+{NAME:01}
+{SAY}Dammit! I knew a meteorite with no aliens was too good to be true!{/SAY}
+
+[156.026]
+{NAME:04}
+{SAY}Sir {NAME:19}, let us hurry! I don't know the details...{WAIT}but clearly they're plotting something at the signing.{/SAY}
+
+[156.027]
+{NAME:02}
+{SAY}First, we have to get out of this meteorite...{/SAY}
+
+[156.028]
+
+《This seems to be a place of rest in the Alaska meteorite.》{WAIT}
+{CLEAR}
+《Rest here?》
+
+[156.029]
+
+《Then write in your diary?》
+
+[156.030]
+
+　《{NAME:19} found the Mangosteen Gun!》
+

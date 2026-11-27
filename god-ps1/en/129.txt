@@ -1,0 +1,522 @@
+[129.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[129.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[129.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[129.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[129.005]
+Write in diary
+Read diary
+Quit
+
+[129.006]
+
+《It's already midnight... Better not go outside...》
+
+[129.007]
+{SAY}Whoops! Sorry!{/SAY}
+
+[129.010]
+Write in your diary?
+
+[129.011]
+Write in diary
+Read diary
+Sleep
+
+[129.012]
+{SAY}Look! Here's the ticket!{/SAY}
+
+[129.013]
+{SAY}Amazing!!{WAIT}Now we can go to Moscow!{WAIT}We can see Dad!!{/SAY}
+
+[129.014]
+{SAY}That's right!!{WAIT}We'll finally see Dad!!{/SAY}
+
+[129.015]
+{SAY}It's been so long...{/SAY}
+
+[129.016]
+{SAY}Daddy...{/SAY}
+
+[129.017]
+{SAY}Mister... have you seen my big brother?{/SAY}
+
+[129.018]
+{SAY}Ah!? Big brother...{/SAY}
+
+[129.019]
+{SAY}...Wait a second!{/SAY}
+
+[129.020]
+{SAY}Now, get a good night's sleep and get ready for tomorrow's trip.{/SAY}
+
+[129.021]
+{SAY}Okay, big brother!{WAIT}We're finally going to see Dad, after all.{/SAY}
+
+[129.022]
+{SAY}Mister... did you come to get the ticket back?{/SAY}
+
+[129.023]
+{SAY}I see... Hey, mister.{WAIT}I know it's a lot to ask after stealing it, but...{WAIT}would you let us have this ticket?{/SAY}
+
+[129.024]
+{SAY}Huh... you mean it's okay? This ticket...{/SAY}
+
+[129.025]
+{SAY}Hey, big brother. When we go to Moscow, we'll see Dad, right!{/SAY}
+
+[129.026]
+{SAY}Of course we will! You don't have to worry about a thing!{WAIT}Leave everything to your big brother...{/SAY}
+
+[129.027]
+{SAY}Really!? Yahooo!!!{/SAY}
+
+[129.028]
+{SAY}Mister, thank you!{WAIT}Someday I'll pay you back, I swear!{/SAY}
+
+[129.029]
+{SAY}...Right. Of course. Heh heh, that was too much to ask.{WAIT}Sorry about that.{/SAY}
+
+[129.030]
+
+《Got the ticket back!》
+
+[129.031]
+{SAY}Mister, sorry about that. But...{PAUSE:0A} no, never mind.{/SAY}
+
+[129.032]
+{SAY}I'm waiting for a cancellation.{/SAY}
+
+[129.033]
+{SAY}I wonder if there are any tickets left?{/SAY}
+
+[129.034]
+{SAY}I've been in line for three days already...{/SAY}
+
+[129.035]
+{SAY}There's a limit on the number of tickets. I hope you can get one.{/SAY}
+
+[129.036]
+{SAY}This is the first station of the Trans-Siberian Railway.{WAIT}It goes nonstop to Moscow, but{PAUSE:1E} ...if no train comes, there's nothing we can do.{/SAY}
+
+[129.037]
+{SAY}This is the first station of the Trans-Siberian Railway.{WAIT}It goes nonstop to Moscow, but the number of tickets is limited.{/SAY}
+
+[129.038]
+{SAY}The train has finally arrived! Those boarding, please buy a ticket and wait!{/SAY}
+
+[129.039]
+{SAY}...Come to think of it.{/SAY}
+
+[129.040]
+{SAY}They say a big guy who looked American rode off on a one-man handcar.{WAIT}Americans are so reckless, vich.{/SAY}
+
+[129.041]
+{NAME:02}
+{SAY}That's {NAME:01}...{WAIT}{NAME:19}, we have to go after him.{/SAY}
+
+[129.042]
+{SAY}This is the first station of the Trans-Siberian Railway.{WAIT}It goes nonstop to Moscow, but the train crashed in an accident.{WAIT}I hope the passengers are all right...{/SAY}
+
+[129.043]
+{SAY}Well... we don't know when the Trans-Siberian train will arrive.{WAIT}We'll let you know when it does.{/SAY}
+
+[129.044]
+{SAY}The Trans-Siberian train has finally arrived!{WAIT}It's being serviced right now, so please wait a little longer!{/SAY}
+
+[129.045]
+{SAY}The Trans-Siberian train is scheduled to leave tomorrow morning. Please wait until then.{WAIT}By the way... have you got your Trans-Siberian ticket yet?{/SAY}
+
+[129.046]
+{SAY}That's good! Then please wait until tomorrow morning.{/SAY}
+
+[129.047]
+{SAY}They're sold at the counter on the left... but there may be none left.{/SAY}
+
+[129.048]
+{SAY}Departure is... tomorrow morning... mumble mumble...{/SAY}
+
+[129.049]
+{SAY}Sorry to keep you waiting! The Trans-Siberian train will depart shortly.{WAIT}Will you board?{/SAY}
+
+[129.050]
+{SAY}We depart shortly, vich. Please hurry!{/SAY}
+
+[129.051]
+{SAY}No, no! You have to buy a ticket.{WAIT}They're sold at the counter on the left!{/SAY}
+
+[129.052]
+{SAY}Let me know when you've finished your business.{/SAY}
+
+[129.053]
+{SAY}The Trans-Siberian train departs shortly, vich. Please hurry!{/SAY}
+
+[129.054]
+{SAY}Because of a train accident over near Moscow, the Trans-Siberian Railway is not running at the moment.{/SAY}
+
+[129.055]
+{SAY}Too bad~.{WAIT}Tickets are sold out, vich.{/SAY}
+
+[129.056]
+{SAY}A station where no trains come isn't really a station anymore, is it.{/SAY}
+
+[129.057]
+{SAY}When the train comes, I'll sell you a ticket.{PAUSE:14} Ahem.{/SAY}
+
+[129.058]
+{SAY}The train came, but the tickets aren't ready yet.{WAIT}Wait a little longer.{/SAY}
+
+[129.059]
+{SAY}To Moscow! To Moscow! If I go to Moscow, everything will surely work out!{/SAY}
+
+[129.060]
+{SAY}Phew! I lined up for a week and finally got a ticket.{WAIT}Now everything will work out!{/SAY}
+
+[129.061]
+{SAY}Moscow! Everything will surely work out!{/SAY}
+
+[129.062]
+{SAY}I want to go to Moscow, but the train won't come...{/SAY}
+
+[129.063]
+{SAY}...I keep telling him I don't care where we go...{/SAY}
+
+[129.064]
+{SAY}...Will everything really work out...{/SAY}
+
+[129.065]
+{SAY}...This was our first trip together...{/SAY}
+
+[129.066]
+{SAY}Khorosho! Khorosho! How about weapons from the cold country? Ahem!{/SAY}
+
+[129.067]
+{SAY}Khorosho! Khorosho! How about armor from the cold country? Ahem!{/SAY}
+
+[129.068]
+{SAY}How about a Vladivostok specialty to remember your trip, vich?{/SAY}
+
+[129.069]
+{SAY}Want to hear my story?{/SAY}
+
+[129.070]
+{SAY}This place grew big as the first station of the Trans-Siberian Railway.{HOLD}But because of the aliens, the railway stopped, and the place went completely to seed, vich...{/SAY}
+
+[129.071]
+{SAY}Partings go with traveling, but... it's gotten so lonely, vich.{/SAY}
+
+[129.072]
+{SAY}Waaah. Talk to me!{/SAY}
+
+[129.073]
+{SAY}I've been waiting for the train for a mind-boggling time. My life is waiting.{/SAY}
+
+[129.074]
+{SAY}Did you hear?{/SAY}
+
+[129.075]
+{SAY}What a shock!{/SAY}
+
+[129.076]
+{SAY}They say someone beat the aliens at Angkor Wat!{/SAY}
+
+[129.077]
+{SAY}Did you hear?{/SAY}
+
+[129.078]
+{SAY}What a shock!{/SAY}
+
+[129.079]
+{SAY}They say Pokin Hut in the south was attacked by aliens!{/SAY}
+
+[129.080]
+{SAY}If you're going south to Honmaka Town, you'll need lots of money, vich.{WAIT}...Honmaka Town is a nasty town, vich.{/SAY}
+
+[129.081]
+{SAY}They say the train's about to leave, vich! Hurry, vich!{/SAY}
+
+[129.082]
+{SAY}Ah! It's you! I'm the one you saved in Honmaka Town!{WAIT}Thanks to you, I got to see my little brother and my mother safely.{WAIT}Thank you so much!{/SAY}
+
+[129.083]
+{SAY}My son went to Honmaka Town, saying he'd get rich...{WAIT}I'd have been happy just having him by my side...{WAIT}If you meet my son, would you tell him his mother was worried?{/SAY}
+
+[129.084]
+{SAY}My son still hasn't come back... But I'll keep waiting.{WAIT}I'm sure he'll come back.{/SAY}
+
+[129.085]
+{SAY}It's okay, Mama! Big brother is super strong!{/SAY}
+
+[129.086]
+{SAY}They say we can go to Moscow soon!!{/SAY}
+
+[129.087]
+{SAY}This is Vladivostok Station, vich.{PAUSE:1E} What, from Japan on drift ice!?{WAIT}That's amazing, vich.{PAUSE:0A} Life is a challenge, vich!{/SAY}
+
+[129.088]
+{SAY}This is Vladivostok Station, vich. Lately the Trans-Siberian train hasn't been coming, vich.{/SAY}
+
+[129.089]
+{SAY}This is Vladivostok Station, vich. The Trans-Siberian train has finally come.{WAIT}They say it'll leave very soon, vich.{/SAY}
+
+[129.090]
+{SAY}This is Vladivostok Station, vich. Lately the Trans-Siberian train hasn't been coming, vich.{/SAY}
+
+[129.091]
+{SAY}Huh? Are you guys from Bless, vich?{/SAY}
+
+[129.092]
+{SAY}I heard the Bless in Honmaka Town folded long ago...{WAIT}Where did you come from, vich?{/SAY}
+
+[129.093]
+{SAY}No, vich? Hmm, vich...{/SAY}
+
+[129.094]
+{SAY}A blond guy came charging into the station like crazy, vich.{/SAY}
+
+[129.095]
+{SAY}Is traveling fun, vich?{/SAY}
+
+[129.096]
+{SAY}...Hic. I want to go have fun in Honmaka Town to the south, but{WAIT}I'm scared of the aliens, so I can't leave the station, vich...{PAUSE:1E} Hic.{/SAY}
+
+[129.097]
+{SAY}...Hic. I want to ride the Trans-Siberian Railway somewhere far away to have fun, but{WAIT}I'm scared of the aliens, vich...{PAUSE:1E} ...{PAUSE:14}Hic.{/SAY}
+
+[129.098]
+{SAY}Hey, big brother. Where did Mama and Papa go?{/SAY}
+
+[129.099]
+{SAY}I'm waiting for big brother to bring the tickets!!{/SAY}
+
+[129.100]
+{SAY}Big brother! What should we play next?{/SAY}
+
+[129.101]
+{SAY}If we go west, we can eat till we're full, so hang in there a little longer...{/SAY}
+
+[129.102]
+{SAY}Somehow... a ticket...{/SAY}
+
+[129.103]
+{SAY}Will there really be peace?{/SAY}
+
+[129.104]
+{SAY}Business is just starting-aru!{/SAY}
+
+[129.105]
+Mr. Chan
+{SAY}Got tickets-aru!{WAIT}For three people, 5000G-aru.{WAIT}You buy-aru?{/SAY}
+
+[129.106]
+Mr. Chan
+{SAY}Aru~. Then I take 1000G commission-aru.{WAIT}Total 6000G.{WAIT}Okay-aru?{/SAY}
+
+[129.107]
+{SAY}Thank you!! Zaijian!!{/SAY}
+
+[129.108]
+
+《Got the Trans-Siberian Railway tickets!》
+
+[129.109]
+{SAY}Aiyaa!!{WAIT}Price keep going up-aru.{/SAY}
+
+[129.110]
+{SAY}Aiyaa~!{WAIT}No money-aru!!{WAIT}I hate people with no money-aru!{WAIT}Price keep going up!!{/SAY}
+
+[129.111]
+{SAY}Aiyaa~!{WAIT}No money-aru!!{WAIT}I hate people with no money-aru!{WAIT}Price keep going up!!{/SAY}
+
+[129.112]
+{SAY}Aiyaa!!{WAIT}Price keep going up-aru.{/SAY}
+
+[129.113]
+Mr. Chan
+{SAY}Got tickets-aru!{WAIT}For three people, 6000G-aru.{WAIT}You buy-aru?{/SAY}
+
+[129.114]
+Mr. Chan
+{SAY}Aru~. Then I take 1000G commission-aru.{WAIT}Total 7000G.{WAIT}Okay-aru?{/SAY}
+
+[129.115]
+{SAY}Thank you!! Zaijian!!{/SAY}
+
+[129.116]
+
+《Got the Trans-Siberian Railway tickets!》
+
+[129.117]
+{SAY}Aiyaa!!{WAIT}Price keep going up-aru.{/SAY}
+
+[129.118]
+{SAY}Aiyaa~!{WAIT}No money-aru!!{WAIT}I hate people with no money-aru!{WAIT}Price keep going up!!{/SAY}
+
+[129.119]
+{SAY}Aiyaa~!{WAIT}No money-aru!!{WAIT}I hate people with no money-aru!{WAIT}Price keep going up!!{/SAY}
+
+[129.120]
+{SAY}Aiyaa!!{WAIT}Price keep going up-aru.{/SAY}
+
+[129.121]
+Mr. Chan
+{SAY}Got tickets-aru!{WAIT}For three people, 7000G-aru.{WAIT}You buy-aru?{/SAY}
+
+[129.122]
+Mr. Chan
+{SAY}Aru~. Then I take 1000G commission-aru.{WAIT}Total 8000G.{WAIT}Okay-aru?{/SAY}
+
+[129.123]
+{SAY}Thank you!! Zaijian!!{/SAY}
+
+[129.124]
+
+《Got the Trans-Siberian Railway tickets!》
+
+[129.125]
+{SAY}Aiyaa!!{WAIT}You got me-aru~.{/SAY}
+
+[129.126]
+{SAY}Aiyaa~!{WAIT}No money-aru!!{WAIT}I hate people with no money-aru!!{/SAY}
+
+[129.127]
+{SAY}Aiyaa~!{WAIT}No money-aru!!{WAIT}I hate people with no money-aru!!{/SAY}
+
+[129.128]
+{SAY}Aiyaa!!{WAIT}You got me-aru.{/SAY}
+
+[129.129]
+{SAY}Shop closed for today!!{/SAY}
+
+[129.130]
+
+《Voices can be heard outside...》
+
+[129.131]
+{NAME:04}
+{SAY}Sir {NAME:19}. In any case, that boy should come to the station tomorrow morning.{WAIT}Let's catch him then!{/SAY}
+
+[129.132]
+{NAME:02}
+{SAY}You're right... Let's rest for today.{/SAY}
+
+[129.133]
+{NAME:04}
+{SAY}Sir {NAME:19}. The way that boy moved just now bothers me...{/SAY}
+
+[129.134]
+{NAME:02}
+{SAY}What do you mean?{/SAY}
+
+[129.135]
+{NAME:04}
+{SAY}...Has anything been taken from you?{/SAY}
+
+[129.136]
+
+《The tickets were pickpocketed!》
+
+[129.137]
+{SAY}Zzz... zzz...{/SAY}
+
+[129.138]
+{SAY}This is the Vladivostok Hotel, at the far north, vich!{WAIT}It's 700G a night. Will you stay?{/SAY}
+
+[129.139]
+{SAY}You don't have enough money!{/SAY}
+
+[129.140]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[129.141]
+{SAY}Khorosho, anytime!{/SAY}
+
+[129.142]
+Write in your diary?
+
+[129.143]
+Write in diary
+Read diary
+Sleep
+
+[129.144]
+
+《Voices can be heard outside...》
+
+[129.145]
+{SAY}Give me a break. I've been waiting for the train for a month now.{/SAY}
+
+[129.146]
+{SAY}I wonder what awaits in the west?{/SAY}
+
+[129.147]
+{SAY}I think if I ride the Trans-Siberian Railway far to the west, all sorts of things will be waiting.{/SAY}
+
+[129.148]
+{SAY}Hey, hey, did you hear?{/SAY}
+
+[129.149]
+{SAY}Some people sure do reckless things...{/SAY}
+
+[129.150]
+{SAY}They say last night a thief broke into the station's vault!{WAIT}Apparently he tried to steal tickets... but in the end the station staff caught him.{/SAY}
+
+[129.151]
+{SAY}In the end I couldn't get a ticket. Sniff.{/SAY}
+
+[129.152]
+{SAY}WHERE IT HURT, VICH?{/SAY}
+
+[129.153]
+{SAY}OH! NO MONEY!{/SAY}
+
+[129.154]
+{SAY}FOREIGN NURSE IS AMAZING.{/SAY}
+
+[129.155]
+{SAY}I fled the aliens and came all the way here.{WAIT}I don't know where to run anymore...{/SAY}
+
+[129.156]
+{SAY}Mumble mumble...{WAIT}...If you run west... you'll be saved... mumble mumble{/SAY}
+
+[129.157]
+《A tattered timetable is posted.》
+
+[129.158]
+{NAME:02}
+{SAY}Zzz...{/SAY}
+
+[129.159]
+{NAME:04}
+{SAY}Hmmm...{/SAY}
+
+[129.162]
+Conductor
+{SAY}Come on! Please hurry! We're leaving soon!{/SAY}
+
+[129.163]
+{NAME:02}
+{SAY}Let's hurry, {NAME:19}.{/SAY}
+
+[129.164]
+{NAME:02}
+{SAY}What on earth was that...{/SAY}
+
+[129.165]
+{NAME:02}
+{SAY}Hm! Look at that!{/SAY}
+
+[129.166]
+{SAY}Do you think this train will move?{WAIT}How foolish humans are!{/SAY}
+
+[129.167]
+Conductor
+{SAY}If we don't hurry, who knows when the aliens'll attack again!{WAIT}We're leaving right now!{/SAY}
+

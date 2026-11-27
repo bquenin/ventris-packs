@@ -1,0 +1,1042 @@
+[137.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[137.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[137.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[137.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[137.005]
+Write in diary
+Read diary
+Quit
+
+[137.006]
+{SAY}This is Moscow's pride, the Shelter!{WAIT}Inside is perfectly safe, but you need ID proving you're a citizen of Moscow!{WAIT}Do you have it?{/SAY}
+
+[137.007]
+{SAY}Don't lie!{/SAY}
+
+[137.008]
+{SAY}I thought as much!{/SAY}
+
+[137.009]
+{SAY}Well, all right.{WAIT}Pay a special 2000G and I'll let you in.{PAUSE:1E} How about it?{/SAY}
+
+[137.010]
+
+《Paid 2000G!》
+
+[137.011]
+{SAY}Good. Go on in!{/SAY}
+
+[137.012]
+{SAY}Not enough money! You pauper!{/SAY}
+
+[137.013]
+{SAY}Then come back later!{/SAY}
+
+[137.014]
+{SAY}This is the Moscow Shelter. Only specially chosen citizens may enter!{/SAY}
+
+[137.015]
+{SAY}You must be {NAME:19}. I've heard from the President. Please go through.{/SAY}
+
+[137.016]
+{SAY}A system failure!? Is there anyone who can fix that...{/SAY}
+
+[137.017]
+　...Hm? ...That man... could it be...
+
+[137.018]
+{SAY}Should a criminal like that be allowed to open it?{/SAY}
+
+[137.019]
+{SAY}Please! Go through!{/SAY}
+
+[137.020]
+{SAY}Mail! The Mail Service, delivering anywhere in the world.{WAIT}{PAUSE:19}Huff{PAUSE:19} huff{PAUSE:19} huff. You're {NAME:19}, phew! Finally found you.{WAIT}Here, special delivery.{/SAY}
+
+[137.021]
+《Received a letter. ...{PAUSE:0A}Why, it was from Dan Kichi!》
+
+[137.022]
+{SAY}That was the mailman who never shows the strain. See ya{/SAY}
+
+[137.023]
+
+《{NAME:19} read the letter.》{WAIT}
+{CLEAR}"{NAME:19}, how are you? For tomorrow, lesson number 3: the "Cross-Counter Slash".{WAIT}It deals big damage to one enemy, but it hurts you too... It's a good one!{WAIT}Elbows in... and strike like you're slamming down! Strike!"
+
+[137.024]
+
+《Learned the "Cross-Counter Slash"!》
+
+[137.025]
+{SAY}You must be {NAME:19}. I've heard from the President.{WAIT}Please go through.{/SAY}
+
+[137.026]
+{SAY}The system's out of control!? Someone has to do something!{WAIT}...But the aliens killed all the good engineers...{/SAY}
+
+[137.027]
+{SAY}S... somebody...{WAIT}...has to... do... something...{/SAY}
+
+[137.028]
+{SAY}Should a criminal like that be allowed to open it?{/SAY}
+
+[137.029]
+{SAY}Please! Go through!{/SAY}
+
+[137.030]
+{SAY}Beyond here is the escape duct.{WAIT}But I can't let anyone through without the President's permission!{/SAY}
+
+[137.031]
+{SAY}Got money? As long as you pay, I'll sell you any weapon.{/SAY}
+
+[137.032]
+{SAY}Money! Money! As long as you pay, I'll sell you all the armor you want!{/SAY}
+
+[137.033]
+{SAY}If there's anything you want to know, go to the bar.{WAIT}Everyone's drunk, so they'll tell you anything!{/SAY}
+
+[137.034]
+{SAY}A system failure! An amateur can't do a thing about that!{/SAY}
+
+[137.035]
+{SAY}......{PAUSE:3C}I'm cold......{/SAY}
+
+[137.036]
+{SAY}Is this the end...{/SAY}
+
+[137.037]
+{SAY}They say somebody fixed the system! Isn't that great!{/SAY}
+
+[137.038]
+{SAY}Everything here costs money, vich.{WAIT}...But it's not like I have anywhere else to go...{/SAY}
+
+[137.039]
+{SAY}This is terrible, vich! ...But it's not like I have anywhere else to go...{/SAY}
+
+[137.040]
+{SAY}...Somewhere... else...{WAIT}...to... go...{/SAY}
+
+[137.041]
+{SAY}I feel like it's getting colder in here, vich...{WAIT}Achoo!{/SAY}
+
+[137.042]
+{SAY}I'm glad it all worked out, vich! It's not like I have anywhere else to go...{/SAY}
+
+[137.043]
+{SAY}This is Moscow's pride, the Shelter.{WAIT}Here you're perfectly safe no matter what... or so the President says. Is it true?{/SAY}
+
+[137.044]
+{SAY}Ah! I knew it! I always thought something like this would happen someday!{/SAY}
+
+[137.045]
+{SAY}...{PAUSE:1E}...The shelter is...{PAUSE:1E}...{WAIT}perfectly...{PAUSE:1E} sa...{PAUSE:1E}fe...{PAUSE:1E} they...{PAUSE:14} said...{/SAY}
+
+[137.046]
+{SAY}Vanya's that great thief from way back, right? Borrowing the power of someone like that...{/SAY}
+
+[137.047]
+{SAY}This is Moscow's pride, the Shelter.{WAIT}A shelter is a defensive facility built to protect you from disasters and enemy attacks.{WAIT}Well, for now it's safe.{/SAY}
+
+[137.048]
+{SAY}Aw, you found me. All right!!{WAIT}I'll go ask the Hide-and-Seek Geezer where to hide next!!{/SAY}
+
+[137.049]
+Russian President
+{SAY}Oh, you are...{WAIT}...{PAUSE:0F}The "Stone of Truth"? Yes, I have it.{WAIT}If you pay 500000G, I'll sell it to you.{/SAY}
+
+[137.050]
+{NAME:04}
+{SAY}500000G!{/SAY}
+
+[137.051]
+{NAME:01}
+{SAY}You bastard!{WAIT}This is for all of humanity!{/SAY}
+
+[137.052]
+{NAME:02}
+{SAY}How awful!{/SAY}
+
+[137.053]
+Russian President
+{SAY}Say what you like, it's 500000G.{WAIT}Or else...{/SAY}
+
+[137.054]
+{NAME:04}
+{SAY}Or else?{/SAY}
+
+[137.055]
+Russian President
+{SAY}A priceless present would also do.{/SAY}
+
+[137.056]
+{NAME:02}
+{SAY}A priceless present?{/SAY}
+
+[137.057]
+Russian President
+{SAY}That's right.{WAIT}A wonderful present that can't be priced. Or 500000G.{WAIT}One or the other.{/SAY}
+
+[137.058]
+Russian President
+{SAY}If you want to talk to me, pay 1000G.{/SAY}
+
+[137.059]
+
+《Paid 1000G!》
+
+[137.060]
+{SAY}What is it? ...{PAUSE:0F}Yes, an American-looking man went further west.{WAIT}How? Using our shelter's pride, the latest escape device.{WAIT}I told him no, but he wouldn't listen...{WAIT}Honestly, Americans are such trouble.{WAIT}Give me another 1000G and I'll tell you more.{/SAY}
+
+[137.061]
+
+《Paid 1000G!》
+
+[137.062]
+{SAY}The one who attacked Pokin Hut?{HOLD}That would surely be someone called Crewel.{WAIT}They say his base is in Europe...{WAIT}Now, if you want to head for Europe, I'll lend you the escape device for 1500G. What do you say?{/SAY}
+
+[137.063]
+
+《Paid 1500G!》
+
+[137.064]
+{SAY}Are you sure? The aliens in Europe are something else, you know?{/SAY}
+
+[137.065]
+{SAY}Then go to the escape device.{WAIT}Go into the shelter and straight ahead, and you'll find it.{WAIT}Please, use it.{/SAY}
+
+[137.066]
+{SAY}I'd think so.{/SAY}
+
+[137.067]
+{SAY}I see.{/SAY}
+
+[137.068]
+{SAY}Too bad, but that's all.{/SAY}
+
+[137.069]
+{SAY}Then please leave. I'm busy.{/SAY}
+
+[137.070]
+Russian President
+{SAY}If you want to talk to me, pay 1000G.{/SAY}
+
+[137.071]
+
+《Paid 1000G!》
+
+[137.072]
+Russian President
+{SAY}What do I do!{WAIT}I have to find someone to fix the system...{PAUSE:1E} ...Vanya...{WAIT}Ah... n-no! Not him...{/SAY}
+
+[137.073]
+
+《Paid 1000G!》
+
+[137.074]
+Russian President
+{SAY}{PAUSE:14}...Vanya? R-ridiculous! I could never ask a criminal like that!{WAIT}Besides, isn't he already dead...{/SAY}
+
+[137.075]
+Russian President
+{SAY}...Oh, the man with you...{WAIT}No, excuse me. ...He looked a lot like someone I know...{/SAY}
+
+[137.076]
+{SAY}I see.{/SAY}
+
+[137.077]
+Russian President
+{SAY}Oh, thank you. I'm grateful.{WAIT}What? Vanya? You have the wrong man.{WAIT}A villain like that would never do a good deed, would he?{WAIT}Well, never mind that...{WAIT}As thanks for saving us, feel free to use anything in this town.{WAIT}Thank you, truly.{/SAY}
+
+[137.078]
+Russian President
+{SAY}Oh! A word of advice: once you go to Europe, you can't come back by land, so be ready.{WAIT}Have a good trip!{/SAY}
+
+[137.079]
+Russian President
+{SAY}Oh, it's you!{WAIT}How's your journey going?{/SAY}
+
+[137.080]
+Russian President
+{SAY}500000G... or a priceless present...{WAIT}Well, are you ready?{/SAY}
+
+[137.081]
+Russian President
+{SAY}Then first, pay me 1000G{/SAY}
+
+[137.082]
+Russian President
+{SAY}Hahaha! Please leave.{/SAY}
+
+[137.083]
+Russian President
+{SAY}Then I can't give you the "Stone of Truth".{WAIT}Please leave.{/SAY}
+
+[137.084]
+Russian President
+{SAY}For the people of the world, is it.{WAIT}Well, good luck.{/SAY}
+
+[137.085]
+Russian President
+{SAY}For the people of the world...{WAIT}Perhaps there's something we can do too.{WAIT}Let's both do our best!{/SAY}
+
+[137.086]
+
+《Paid 1000G!》
+
+[137.087]
+Russian President
+{SAY}What will you give me?{/SAY}
+
+[137.088]
+500000G
+Giant Diamond
+Declaration of Ideals
+Quit
+
+[137.089]
+Russian President
+{SAY}Hahaha! No, I understand. I understand perfectly.{WAIT}Please leave.{/SAY}
+
+[137.090]
+Russian President
+{SAY}Hahaha! No, I understand. I understand perfectly.{WAIT}Please leave.{/SAY}
+
+[137.091]
+Russian President
+{SAY}What will you give me?{/SAY}
+
+[137.092]
+500000G
+Giant Diamond
+Quit
+
+[137.093]
+Russian President
+{SAY}Hahaha! No, I understand. I understand perfectly.{WAIT}Please leave.{/SAY}
+
+[137.094]
+Russian President
+{SAY}Hahaha! No, I understand. I understand perfectly.{WAIT}Please leave.{/SAY}
+
+[137.095]
+Russian President
+{SAY}What will you give me?{/SAY}
+
+[137.096]
+500000G
+Declaration of Ideals
+Quit
+
+[137.097]
+Russian President
+{SAY}Hahaha! No, I understand. I understand perfectly.{WAIT}Please leave.{/SAY}
+
+[137.098]
+Russian President
+{SAY}Hahaha! No, I understand. I understand perfectly.{WAIT}Please leave.{/SAY}
+
+[137.099]
+Russian President
+{SAY}It seems you didn't find a priceless present.{WAIT}Then, 500000G, please{/SAY}
+
+[137.100]
+Russian President
+{SAY}My, my... Please leave.{/SAY}
+
+[137.101]
+
+《Paid 500000G!》
+
+[137.102]
+Russian President
+{SAY}Oh. I've received 500000G.{WAIT}Then here is the Stone of Truth.{/SAY}
+
+[137.103]
+
+《Got the Stone of Truth!》
+
+[137.104]
+Russian President
+{SAY}For all of humanity, is it...{WAIT}Well, good luck.{/SAY}
+
+[137.105]
+Russian President
+{SAY}Oh! This is wonderful! A truly priceless present!{WAIT}Then here is the Stone of Truth.{/SAY}
+
+[137.106]
+
+《Got the Stone of Truth!》
+
+[137.107]
+Russian President
+{SAY}For all of humanity, is it...{WAIT}Well, good luck.{/SAY}
+
+[137.108]
+Russian President
+{SAY}...{PAUSE:3C}This is...{PAUSE:1E} from that era...{/SAY}
+
+[137.109]
+《The President read the "Declaration of Ideals".{HOLD}A single tear ran from his eye...》
+
+[137.110]
+Russian President
+{SAY}...I understand.{WAIT}It's for the people of the world.{/SAY}
+
+[137.111]
+
+《Got the Stone of Truth!》
+
+[137.112]
+Russian President
+{SAY}For all of humanity...{WAIT}Words that take me back.{WAIT}Good luck!{/SAY}
+
+[137.113]
+{SAY}You don't have enough money. Come again.{/SAY}
+
+[137.114]
+{SAY}I can't let you in without the President's permission!{/SAY}
+
+[137.115]
+{SAY}I've heard from the President. Please go through!{/SAY}
+
+[137.116]
+{SAY}To enter here, get the President's permission!{/SAY}
+
+[137.117]
+{SAY}I've been told. Please go through!{/SAY}
+
+[137.118]
+{SAY}The Hide-and-Seek Geezer?{WAIT}I saw him at the bar just now.{/SAY}
+
+[137.119]
+{NAME:02}
+{SAY}{NAME:19}! On the surface of the "Stone of Truth"...{/SAY}
+
+[137.120]
+{NAME:04}
+{SAY}My word! A bird is carved on it!{WAIT}This bird is...{PAUSE:14} hmm...{/SAY}
+
+[137.121]
+{SAY}Want to use a tent? 1000G a night.{/SAY}
+
+[137.122]
+{SAY}You don't have enough money!{/SAY}
+
+[137.123]
+{SAY}Then will you read your diary on the quiet?{/SAY}
+
+[137.124]
+{SAY}Suit yourself.{/SAY}
+
+[137.125]
+{SAY}You paid a fortune to get in here too, huh?{WAIT}...Sure, it's better than outside, and the aliens haven't attacked yet...{WAIT}...but is it really safe?{/SAY}
+
+[137.126]
+{SAY}Somebody, anybody, do something~!{/SAY}
+
+[137.127]
+{SAY}If I don't keep moving, I get cold...{/SAY}
+
+[137.128]
+{SAY}You paid a fortune to get in here too?{WAIT}You shouldn't have...{/SAY}
+
+[137.129]
+Hide-and-Seek Geezer
+{SAY}Oho! You found me!{HOLD}Not bad!{/SAY}
+
+[137.130]
+{SAY}Not enough money...{/SAY}
+
+[137.131]
+{SAY}Oho! You found me, you're good. They call me the Hide-and-Seek Geezer.{HOLD}Give me 500G and I'll tell you something good.{/SAY}
+
+[137.132]
+
+《Paid 500G!》
+
+[137.133]
+{SAY}If you're playing hide-and-seek in this town, behind the stove is a good spot.{WAIT}Give me another 500G and I'll tell you something even better.{/SAY}
+
+[137.134]
+
+《Paid 500G!》
+
+[137.135]
+{SAY}Truth is, I love money. That's all.{/SAY}
+
+[137.136]
+{SAY}You're a sharp one.{/SAY}
+
+[137.137]
+{SAY}Cheapskate.{/SAY}
+
+[137.138]
+Hide-and-Seek Geezer
+{SAY}What? Someone who understands the system here?{WAIT}...{PAUSE:1E}Vanya might be able to do something, but...{/SAY}
+
+[137.139]
+{SAY}Oho! You found me, you're good!{/SAY}
+
+[137.140]
+Hide-and-Seek Geezer
+{SAY}Give Vanya my message.{/SAY}
+
+[137.141]
+　I'm counting on you.
+
+[137.142]
+Hide-and-Seek Geezer
+{SAY}.{PAUSE:28}.{PAUSE:28}.{PAUSE:28}Vanya is nowhere to be found.{/SAY}
+
+[137.143]
+《{NAME:02} took the Hide-and-Seek Geezer's hand.》
+
+[137.144]
+
+《The Hide-and-Seek Geezer's heart was eased a little...》
+
+[137.145]
+Hide-and-Seek Geezer
+{SAY}...Thank you.{WAIT}As thanks, let me give you this technique I learned long ago.{/SAY}
+
+[137.146]
+
+《{NAME:02} learned the Grand Lullaby!》
+
+[137.147]
+Hide-and-Seek Geezer
+{SAY}......{/SAY}
+
+[137.148]
+　Tell him Tarkovsky said, "Forgive me."{WAIT}"Before I die, I want to drink with you just once more."
+
+[137.149]
+{SAY}My kid's playing hide-and-seek again.{/SAY}
+
+[137.150]
+{SAY}Why do they play hide-and-seek so much? Maybe because there's nothing else to play.{/SAY}
+
+[137.151]
+{SAY}What!?{WAIT}The system's out of control?{WAIT}You! Can't you do something?{/SAY}
+
+[137.152]
+{SAY}Maybe it's fate...{WAIT}It's the same wherever you go...{/SAY}
+
+[137.153]
+{SAY}Say what you will, normal is best!{/SAY}
+
+[137.154]
+{SAY}Safe or not, how long are we supposed to live here...{/SAY}
+
+[137.155]
+{SAY}I want to be like the Hide-and-Seek Geezer!{WAIT}But how is he so good at hide-and-seek?{/SAY}
+
+[137.156]
+{SAY}Want to hear{PAUSE:3C} about the Hide-and-Seek Geezer?{/SAY}
+
+[137.157]
+{SAY}They say the Hide-and-Seek Geezer had a friend named Vanya.{WAIT}But the geezer betrayed Vanya.{WAIT}So Vanya was sad and went away.{WAIT}Hey,{PAUSE:0A} what does "betray" mean?{/SAY}
+
+[137.158]
+{SAY}Couldn't you at least hear me out?{/SAY}
+
+[137.159]
+{SAY}SO COLD!!{/SAY}
+
+[137.160]
+{SAY}I hope the Hide-and-Seek Geezer cheers up.{/SAY}
+
+[137.161]
+{SAY}My big brother's a hide-and-seek master! Want me to tell you where he's hiding?{/SAY}
+
+[137.162]
+{SAY}He says it's a secret spot the Hide-and-Seek Geezer taught him!{WAIT}Hey, did you find the Hide-and-Seek Geezer?{/SAY}
+
+[137.163]
+{SAY}Amaaazing!{/SAY}
+
+[137.164]
+{SAY}He says if you look closely, you'll see!{/SAY}
+
+[137.165]
+{SAY}Oh. Boring.{/SAY}
+
+[137.166]
+{SAY}See! Big brother was there.{/SAY}
+
+[137.167]
+{SAY}It's been cold for a while... Achoo!{/SAY}
+
+[137.168]
+{SAY}Achoo{WAIT}Achoo!{/SAY}
+
+[137.169]
+{SAY}It's finally warm!{/SAY}
+
+[137.170]
+{SAY}I came to this shelter because they said it was perfectly safe...{HOLD}They say long ago a thief got right into its core!{WAIT}...Is it okay?{/SAY}
+
+[137.171]
+{SAY}An accident like this right after we got here!{WAIT}It's a system failure, right? Is it okay?{/SAY}
+
+[137.172]
+{SAY}Waaah...{WAIT}......We just got heeere!!{/SAY}
+
+[137.173]
+{SAY}Anybody! Do something!{WAIT}It's so cold...{/SAY}
+
+[137.174]
+{SAY}Whew, now we can live in peace...{/SAY}
+
+[137.175]
+{SAY}The President is inside. As a rule, he doesn't meet anyone without an appointment.{/SAY}
+
+[137.176]
+{SAY}The President is... inside...{/SAY}
+
+[137.177]
+{SAY}The President is inside. As a rule, he doesn't meet anyone without an appointment.{/SAY}
+
+[137.178]
+{SAY}To talk to the President, pay me, the deputy, 100G.{/SAY}
+
+[137.179]
+{SAY}To talk to the President, at any time, pay me, the deputy, 100G.{/SAY}
+
+[137.180]
+{SAY}At any...{PAUSE:1E} time, to talk...{PAUSE:1E} to the Pres{PAUSE:14}i{PAUSE:14}dent{PAUSE:1E},{WAIT}pay{PAUSE:1E} me{PAUSE:14} the{PAUSE:14} de{PAUSE:14}pu{PAUSE:14}ty{PAUSE:14} 100{PAUSE:14}G{PAUSE:14}...{WAIT}plea{PAUSE:14}s{PAUSE:14}e.{/SAY}
+
+[137.181]
+{SAY}To talk to the President, at any time, pay me, the deputy, 100G.{/SAY}
+
+[137.182]
+
+《Paid 100G!》
+
+[137.183]
+{SAY}Go ahead.{/SAY}
+
+[137.184]
+{SAY}You don't have enough money. Come again.{/SAY}
+
+[137.185]
+{SAY}Please leave.{/SAY}
+
+[137.187]
+Hide-and-Seek Geezer
+{SAY}What...{PAUSE:14} Moscow Station...{PAUSE:14} a man there...{WAIT}{PAUSE:1E}What did he look like?{WAIT}...{PAUSE:05}I see...{PAUSE:0A} that's Vanya.{WAIT}...{PAUSE:14}Please. Will you give Vanya a message?{WAIT}My words.{/SAY}
+
+[137.188]
+{SAY}Thank you. Tell him this.{/SAY}
+
+[137.189]
+　Please, I'm counting on you...
+
+[137.190]
+{SAY}Hey, kid. Buy me a drink and I'll tell you an interesting story! Will you?{/SAY}
+
+[137.191]
+{SAY}All right. Let's talk over a drink.{/SAY}
+
+[137.192]
+{SAY}Don't be like that, keep me company!{/SAY}
+
+[137.193]
+{SAY}I see...{/SAY}
+
+[137.194]
+{SAY}Drink makes everyone chatty...{HOLD}but whether it's true or not is another matter.{/SAY}
+
+[137.195]
+{SAY}A system failure? I thought a thief had broken into the system again.{WAIT}Well, nobody but Vanya could pull that off...{/SAY}
+
+[137.196]
+{SAY}...Where did Vanya go...{/SAY}
+
+[137.197]
+{SAY}...{PAUSE:1E}I think it's true.{/SAY}
+
+[137.198]
+{SAY}...Where did Vanya go...{/SAY}
+
+[137.199]
+{SAY}...{PAUSE:1E}A chatty bartender like me is a failure, right?{/SAY}
+
+[137.200]
+{SAY}I'll tell you what's popular here, vich. Making money and hide-and-seek, vich.{WAIT}...There's nothing else to do, vich!{/SAY}
+
+[137.201]
+{SAY}I want to hide somewhere, vich.{HOLD}Isn't there a place I'd never be found, vich?{/SAY}
+
+[137.202]
+{SAY}What!?{WAIT}Am I not cold?{WAIT}As long as you're drinking, you're toasty, vich.{/SAY}
+
+[137.203]
+{SAY}Long ago there was a big incident where this shelter's system went out of control.{WAIT}It happened because two thieves tried to steal the system's data.{WAIT}Those two? They say they got caught!{/SAY}
+
+[137.204]
+{SAY}Drink is good.{WAIT}It washes everything away.{/SAY}
+
+[137.205]
+{SAY}Booze... give me booze......{/SAY}
+
+[137.206]
+{SAY}A priceless present? Why...{PAUSE:1E} that'd be the ideals of old.{/SAY}
+
+[137.207]
+{SAY}When you get old, you end up knowing all sorts of things you'd be better off not knowing.{WAIT}Will you hear an old man's story?{/SAY}
+
+[137.208]
+{SAY}Not now...{WAIT}It's the story of a foolish man...{/SAY}
+
+[137.209]
+{SAY}An old... boring story...{/SAY}
+
+[137.210]
+{SAY}An old... boring story...{/SAY}
+
+[137.211]
+{SAY}Will you hear the story of a foolish man?{/SAY}
+
+[137.212]
+{SAY}That man was a skilled thief with vast knowledge and remarkable talent.{HOLD}They said nothing was impossible for him.{WAIT}One day he set his sights on this town's main system.{WAIT}If he stole the system's secrets and made them public, everyone could live in peace...{WAIT}That was his dreamy idea.{WAIT}Using his knowledge and skill, he succeeded in stealing the main system's data.{WAIT}But that was it. A partner tipped off the authorities, and he was arrested...{WAIT}I never heard of him after that.{/SAY}
+
+[137.213]
+{SAY}An old... boring story...{/SAY}
+
+[137.214]
+{SAY}Haah, this town is so boring. I want to vanish somewhere while playing hide-and-seek.{/SAY}
+
+[137.215]
+{SAY}An engineer who can fix the system? There's no such person!{HOLD}Even in the accident long ago, they ended up making the thief responsible fix it!{/SAY}
+
+[137.216]
+{SAY}Thief or whoever, just do something quick!!{/SAY}
+
+[137.217]
+{SAY}Vanya, was it? The great thief from way back? Will it be okay...{/SAY}
+
+[137.218]
+{SAY}Haah, this town is so boring. I want to vanish somewhere while playing hide-and-seek.{/SAY}
+
+[137.219]
+{SAY}Did you find the Hide-and-Seek Geezer?{/SAY}
+
+[137.220]
+{SAY}Give me 100G and I'll tell you something good.{/SAY}
+
+[137.221]
+
+《Paid 100G!》
+
+[137.222]
+{SAY}The Hide-and-Seek Geezer's real name is Ivan Tarkovsky.{WAIT}By the way, my name is Ivan Lechovich Womanizerski.{WAIT}Nice name, huh.{PAUSE:1E} ...Don't be shy.{WAIT}Give me another 500G and I'll tell you something better.{/SAY}
+
+[137.223]
+
+《Paid 500G!》
+
+[137.224]
+{SAY}The Hide-and-Seek Geezer was a great thief long ago.{WAIT}They say he teamed up with a skilled safecracker named Vanya and raked it in.{/SAY}
+
+[137.225]
+{SAY}Oh well...{/SAY}
+
+[137.226]
+{SAY}Oh well...{/SAY}
+
+[137.227]
+{SAY}He's a local legend, that geezer. He hides in the cleverest spots.{/SAY}
+
+[137.228]
+{SAY}What? The system broke?{WAIT}...Vanya could get into any system and fix it...{WAIT}But does the Hide-and-Seek Geezer know where Vanya lives...?{WAIT}Hic!{/SAY}
+
+[137.229]
+{SAY}Buy me a drink and I'll tell you an interesting story! Will you?{/SAY}
+
+[137.230]
+{SAY}All right. Let's talk over a drink.{/SAY}
+
+[137.231]
+{SAY}Then I can't tell you.{/SAY}
+
+[137.232]
+{SAY}.{PAUSE:0C}.{PAUSE:0C}.{PAUSE:14}Is that so. First I've heard of it.{/SAY}
+
+[137.233]
+{SAY}Being saved thanks to Vanya, of all people... Ironic, huh...{/SAY}
+
+[137.234]
+{SAY}Hey, you don't have enough money.{/SAY}
+
+[137.235]
+
+《{NAME:19} bought him a vodka.》
+
+[137.236]
+{SAY}...{PAUSE:1E}When the Hide-and-Seek Geezer was caught in that incident,{WAIT}they told him they'd lighten his sentence if he told them where Vanya was hiding.{WAIT}...{PAUSE:1E}And the geezer told them.{WAIT}The geezer got a light sentence, and Vanya spent a long time in prison.{WAIT}That's how it was.{WAIT}...{PAUSE:1E}Thanks for the drink.{/SAY}
+
+[137.237]
+Bartender
+{SAY}That's not how it was.{WAIT}The Hide-and-Seek Geezer named a made-up place to try to let Vanya escape.{WAIT}But unbelievably, Vanya just happened to be hiding there.{WAIT}Vanya thought the geezer had betrayed him.{WAIT}I heard the geezer say so once when he was drunk...{/SAY}
+
+[137.238]
+Zorba
+{SAY}...Ohh, you lot! Long time no see...{WAIT}What's up? Something on your mind?{/SAY}
+
+[137.239]
+Zorba
+{SAY}I see. A priceless present...{WAIT}Pay me 100G and I'll tell you.{/SAY}
+
+[137.240]
+
+《Paid 100G!》
+
+[137.241]
+Zorba
+{SAY}I heard there's a giant diamond on a little ice island far up the sea to the north.{WAIT}Well, so long. ...Maybe we'll meet again somewhere.{/SAY}
+
+[137.242]
+{SAY}Tch, you don't have enough money.{/SAY}
+
+[137.243]
+Zorba
+{SAY}You sure?{/SAY}
+
+[137.244]
+Zorba
+{SAY}Go on, don't hold back.{/SAY}
+
+[137.245]
+{SAY}Don't worry, this town will surely come back.{WAIT}All people are equal. Rich or poor, it doesn't matter, vich.{/SAY}
+
+[137.246]
+{SAY}You're lucky, customer. Right now you can buy without waiting in line!{/SAY}
+
+[137.247]
+{SAY}Of course Moscow is cold, vich. What's wrong, caught a cold?{/SAY}
+
+[137.248]
+{SAY}You don't have enough money.{/SAY}
+
+[137.249]
+{SAY}It's too cold to keep still.{/SAY}
+
+[137.252]
+{SAY}If you want to pass, get permission from the President.{/SAY}
+
+[137.253]
+{SAY}You must be {NAME:19}. I've heard from the President. Please go through.{/SAY}
+
+[137.254]
+{SAY}If the system stops, every function of this shelter stops...{WAIT}If that happens...!{WAIT}But it's beyond me now!{/SAY}
+
+[137.255]
+{SAY}Could it be... this man...{/SAY}
+
+[137.256]
+{SAY}It'll be a while yet before the escape duct can be used.{WAIT}Why not drop in on the President for now?{/SAY}
+
+[137.257]
+{SAY}The escape duct is ready for use.{WAIT}I'll open the door now.{/SAY}
+
+[137.258]
+{SAY}With this, it's one quick flight to Europe.{WAIT}But be warned, if you fly to Europe this way, you can't come back by land.{WAIT}Now, when you're ready, go into the duct.{/SAY}
+
+[137.259]
+{SAY}With this, it's one quick flight to Europe.{WAIT}But be warned, if you fly to Europe this way, you can't come back by land.{WAIT}Now, when you're ready, go into the duct.{/SAY}
+
+[137.260]
+{SAY}Oh, it was you. How was your flight?{/SAY}
+
+[137.261]
+{SAY}I've heard from the President.{WAIT}Please go on to the duct in the back.{/SAY}
+
+[137.262]
+{SAY}Then please, go inside.{WAIT}With this duct, it's one quick flight to Europe! Go on!{/SAY}
+
+[137.263]
+Michael
+{SAY}Turn back!{/SAY}
+
+[137.264]
+{NAME:02}
+{SAY}Y-you are...!{/SAY}
+
+[137.265]
+Michael
+{SAY}You must go no further. Turn back!{/SAY}
+
+[137.266]
+{NAME:04}
+{SAY}...We must go on!{/SAY}
+
+[137.267]
+Michael
+{SAY}Words don't seem to get through to you...{/SAY}
+
+[137.268]
+Michael
+{SAY}Turn back. Or you'll die.{WAIT}Turn back!{/SAY}
+
+[137.269]
+"Emergency alert!{PAUSE:1E} Emergency alert!"{WAIT}
+{CLEAR}"SYSTEM{PAUSE:14} FAILURE{PAUSE:14} DETECTED{PAUSE:1E}
+ SYSTEM{PAUSE:14} FAILURE{PAUSE:14} DETECTED{WAIT}
+{CLEAR} ALL PERSONNEL{PAUSE:14} EVACUATE!{PAUSE:1E}
+ ALL PERSONNEL{PAUSE:14} EVACUATE!"{HOLD}
+
+[137.270]
+{SAY}Th... this is terrible! That impact hit the system!{/SAY}
+
+[137.271]
+{SAY}What's going on!{/SAY}
+
+[137.272]
+Russian President
+{SAY}What on earth is all this commotion!{/SAY}
+
+[137.273]
+{SAY}M-Mr. President! It's terrible! The system is out of control!{/SAY}
+
+[137.274]
+Russian President
+{SAY}What! Can't anything be done!?{/SAY}
+
+[137.275]
+{SAY}It's beyond me now...{/SAY}
+
+[137.276]
+Russian President
+{SAY}This is no time to sit around! We must plan countermeasures at once!{/SAY}
+
+[137.277]
+Deputy
+{SAY}Yes, sir!!{/SAY}
+
+[137.280]
+{SAY}Hm...? Y-{PAUSE:0A}you!{/SAY}
+
+[137.281]
+Warenkov
+{SAY}Would you let me take over?{/SAY}
+
+[137.282]
+{SAY}Uh... uh...{/SAY}
+
+[137.283]
+Warenkov
+{SAY}So this is it...{/SAY}
+
+[137.284]
+{SAY}You're... could it be...{/SAY}
+
+[137.285]
+Russian President
+{SAY}What on earth...{/SAY}
+
+[137.286]
+Deputy
+{SAY}Mr. President! That man is!{/SAY}
+
+[137.287]
+{SAY}...It's Vanya.{/SAY}
+
+[137.288]
+{SAY}Vanya, he's alive.{/SAY}
+
+[137.289]
+{SAY}Where was he all this time...{/SAY}
+
+[137.290]
+{SAY}How dare he show his face now.{/SAY}
+
+[137.291]
+{SAY}He's a bad man.{/SAY}
+
+[137.292]
+Warenkov
+{SAY}Quiet, please!{/SAY}
+
+[137.293]
+Warenkov
+{SAY}...{PAUSE:1E}It's fixed, more or less.{/SAY}
+
+[137.294]
+{SAY}Vanya!{/SAY}
+
+[137.295]
+Tarkovsky
+{SAY}Vanya!{PAUSE:0A} It's me! Tarkovsky!{/SAY}
+
+[137.296]
+Tarkovsky
+{SAY}Forgive me!{PAUSE:02} I didn't mean it!{PAUSE:0A} It was an accident!{/SAY}
+
+[137.297]
+Vanya
+{SAY}...{PAUSE:1E}Well then, I'll be going home.{/SAY}
+
+[137.298]
+Tarkovsky
+{SAY}Vanya!{PAUSE:14} Forgive me!{/SAY}
+
+[137.299]
+Vanya
+{SAY}.{PAUSE:0F}.{PAUSE:0F}.{PAUSE:2D}I'm going home.{/SAY}
+
+[137.300]
+Tarkovsky
+{SAY}...{PAUSE:28}Forgive me.{/SAY}
+
+[137.301]
+{SAY}Amazing... It's perfect...{/SAY}
+
+[137.302]
+Russian President
+{SAY}...It seems the crisis has passed for now.{WAIT}{NAME:19}, was it? I have something to discuss, so come to the President's office later.{WAIT}That's all.{/SAY}
+
+[137.303]
+{SAY}...It's Vanya. Someone has to catch him...{/SAY}
+
+[137.304]
+{SAY}It was Vanya, all right...{/SAY}
+
+[137.305]
+{SAY}It's Vanya. How dare he show his face.{/SAY}
+
+[137.306]
+{SAY}Oh, thank goodness, thank goodness.{/SAY}
+
+[137.307]
+{SAY}...It's Vanya. He's a bad man.{/SAY}
+
+[137.308]
+{SAY}Thank goodness.{WAIT}Now the shelter is safe.{/SAY}
+
+[137.309]
+Russian President
+{SAY}It can't be... no, but...{/SAY}
+
+[137.310]
+Russian President
+{SAY}Please, go through. What? Vanya?{WAIT}A villain like that would never do something so fine.{/SAY}
+
+[137.311]
+{SAY}Thank you so much. On behalf of the citizens, I thank you.{/SAY}
+
+[137.312]
+{SAY}It was Vanya, all right...{WAIT}But why...{/SAY}
+
+[137.313]
+Hide-and-Seek Geezer
+{SAY}...Forgive me.{/SAY}
+

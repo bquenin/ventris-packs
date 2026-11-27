@@ -1,0 +1,281 @@
+[174.000]
+Write in diary
+Read diary
+Quit
+
+[174.002]
+
+《Escape from Mu for now?》
+
+[174.004]
+{NAME:02}
+{SAY}So this is Mu...{/SAY}
+
+[174.005]
+{NAME:01}
+{SAY}This is it! {NAME:19}!{/SAY}
+
+[174.006]
+{NAME:04}
+{SAY}Let us settle this once and for all!{/SAY}
+
+[174.007]
+{NAME:02}
+{SAY}Let's go! {NAME:19}!{/SAY}
+
+[174.008]
+{NAME:01}
+{SAY}We finally did it! {NAME:19}!{/SAY}
+
+[174.009]
+{NAME:02}
+{SAY}Come on! Let's hurry back to everyone!{/SAY}
+
+[174.010]
+{SAY}Wait! {NAME:19}, you die here!{/SAY}
+
+[174.011]
+
+《It seems to lack energy...》
+
+[174.012]
+
+《It looks like a switch. Press it?》
+
+[174.013]
+　　SUB POWER ON　　{HOLD}WARP SYSTEM READY{HOLD}
+
+[174.014]
+　　INTRUDER DETECTED　　{HOLD}　　INTRUDER DETECTED　　{HOLD}
+
+[174.015]
+《This seems to be a place of rest in Mu.{WAIT}Rest here?》
+
+[174.016]
+《Then look at your diary?》
+
+[174.017]
+Ra Mu
+"......{PAUSE:28}You are too late.{WAIT}
+　...{PAUSE:1E}Foolish humans.{WAIT}
+　Did you come this far to perish...
+
+[174.018]
+{NAME:01}
+{SAY}So you're the alien boss!{PAUSE:14} Take this!{/SAY}
+
+[174.019]
+Ra Mu
+{SAY}Ha{PAUSE:19} ha{PAUSE:19} ha!{PAUSE:19} Fools!{WAIT}{PAUSE:23}As if the powers of lower life forms could touch me!{WAIT}The barrier that guards me{PAUSE:19} will never fade!{/SAY}
+
+[174.020]
+Ra Mu
+{SAY}Now, once more!{/SAY}
+
+[174.021]
+Ra Mu
+{SAY}......{PAUSE:28}You see?{WAIT}Lower life forms like you defying me is a mistake from the start.{WAIT}Now, it's time to die...{/SAY}
+
+[174.022]
+Michael
+{SAY}Wait!!{/SAY}
+
+[174.023]
+Ra Mu
+{SAY}You...{PAUSE:1E} Michael!!{/SAY}
+
+[174.024]
+《Michael's last strength poured into {NAME:19} and company......》
+
+[174.025]
+
+《{NAME:19} and company's HP was restored!》
+
+[174.026]
+{NAME:01}
+{SAY}Michael!{WAIT}...{PAUSE:1E}Ra Mu, you bastard!!{/SAY}
+
+[174.027]
+Ra Mu
+{SAY}Hahaha! Now it's your turn!!{/SAY}
+
+[174.028]
+{NAME:02}
+{SAY}{NAME:19}! ...{PAUSE:1E}It's over.{/SAY}
+
+[174.029]
+{NAME:04}
+{SAY}Mu is sinking!{/SAY}
+
+[174.030]
+{NAME:01}
+{SAY}Come on, let's get out!{/SAY}
+
+[174.031]
+{NAME:02}
+{SAY}......Where...{/SAY}
+
+[174.032]
+{NAME:02}
+{SAY}Aren't we... floating!?{/SAY}
+
+[174.033]
+{NAME:04}
+{SAY}...Is this... space?{/SAY}
+
+[174.034]
+"...Congratulations.
+　You've finally done it,{PAUSE:1E}
+　{NAME:19},{PAUSE:1E} {NAME:01},
+　{NAME:02},{PAUSE:1E} {NAME:04}.{HOLD}
+
+[174.035]
+{NAME:01}
+{SAY}Wh-what!{/SAY}
+
+[174.036]
+{NAME:02}
+{SAY}Who is it!?{/SAY}
+
+[174.037]
+{NAME:01}
+{SAY}Wh... what!? I'm being pulled in!{PAUSE:3C}{/SAY}
+
+[174.038]
+{NAME:01}
+{SAY}Waaaah!!{PAUSE:3C}{/SAY}
+
+[174.039]
+{NAME:02}
+{SAY}{NAME:01}! ...Kyaah!!{/SAY}
+
+[174.040]
+{NAME:04}
+{SAY}Wh... what is this...!!{/SAY}
+
+[174.041]
+"Congratulations, everyone.{HOLD}
+　I have watched over you
+　all along...{HOLD}
+
+[174.042]
+{NAME:04}
+{SAY}Who is it!{/SAY}
+
+[174.043]
+"...{NAME:04},
+　don't you know?{HOLD}
+　What you all
+　call me?{HOLD}
+
+[174.044]
+{NAME:04}
+{SAY}What?{/SAY}
+
+[174.045]
+"You often questioned me
+　in your heart.{HOLD}
+
+[174.046]
+{NAME:04}
+{SAY}What......{/SAY}
+
+[174.047]
+"{NAME:02}, you too.{HOLD}
+
+[174.048]
+{NAME:02}
+{SAY}What......{/SAY}
+
+[174.049]
+{NAME:04}
+{SAY}......{PAUSE:1E}Could it be...{/SAY}
+
+[174.050]
+"Yes......{PAUSE:3C} I am God.{HOLD}
+
+[174.051]
+{NAME:01}
+{SAY}God!? God really exists!?{/SAY}
+
+[174.052]
+"{NAME:01}, you don't believe,
+　yet sometimes you asked
+　for my help...{HOLD}
+
+[174.053]
+{NAME:01}
+{SAY}What!?{/SAY}
+
+[174.054]
+"I am God.
+{PAUSE:1E}　And{PAUSE:1E} I am here.{HOLD}
+
+[174.055]
+{NAME:04}
+{SAY}...Oh{PAUSE:00}... oh...{PAUSE:64}{/SAY}
+
+[174.056]
+{NAME:02}
+{SAY}No! Don't forget!{PAUSE:3C}{/SAY}
+
+[174.057]
+《{NAME:02} touched God's power...{PAUSE:1E} God's thoughts flowed into her...》{PAUSE:32}
+
+[174.058]
+{NAME:02}
+{SAY}...{PAUSE:14}What, God......{PAUSE:14} you...{PAUSE:3C}{/SAY}
+
+[174.060]
+{NAME:02}
+{SAY}...{PAUSE:1E}No...{PAUSE:1E} God... what do you mean to do...{/SAY}
+
+[174.061]
+"Do not grieve.
+　You will become new life.{HOLD}
+　The rest of mankind
+　is unneeded.{HOLD}
+
+[174.062]
+{NAME:01}
+{SAY}How can you say that!{/SAY}
+
+[174.063]
+"It was you who killed
+　defenseless aliens
+　in Luna City.{HOLD}
+　Are aliens unneeded,
+　and humans not?{HOLD}
+
+[174.064]
+{NAME:01}
+{SAY}...{PAUSE:14}That's...{/SAY}
+
+[174.065]
+"Ah, some unneeded aliens
+　were still alive.{HOLD}
+
+[174.066]
+{NAME:02}
+{SAY}No...{PAUSE:1E} what did you do?{/SAY}
+
+[174.067]
+{NAME:02}
+{SAY}......{PAUSE:1E}It's over.{/SAY}
+
+[174.068]
+{NAME:01}
+{SAY}Come on, let's go back!{WAIT}We'll tell everyone peace has come!{/SAY}
+
+[174.069]
+{NAME:04}
+{SAY}But... how...{PAUSE:1E} Oh!{/SAY}
+
+[174.070]
+{NAME:02}
+{SAY}Kyaah!{/SAY}
+
+[174.071]
+{NAME:01}
+{SAY}Whoa!{/SAY}
+

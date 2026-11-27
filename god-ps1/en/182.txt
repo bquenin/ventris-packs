@@ -1,0 +1,52 @@
+[182.000]
+EXP Geezer
+{SAY}Oh! You made it all the way here!{WAIT}I'm the EXP Geezer.{WAIT}Give me 3000G and I'll give you 10000 EXP!{WAIT}Want to try?{/SAY}
+
+[182.002]
+{SAY}Oh, you're short on money.{/SAY}
+
+[182.003]
+{SAY}Come any time!{/SAY}
+
+[182.004]
+{SAY}Very well.{WAIT}Farewell!{/SAY}
+
+[182.005]
+
+《Paid 3000G!》
+
+[182.006]
+{SAY}Now, which of your friends gets the 10000 EXP?{/SAY}
+
+[182.007]
+《Choose who gets the EXP.{WAIT}
+{CLEAR}　1 ...... {NAME:19}
+　2 ...... {NAME:01}
+　3 ...... {NAME:02}
+　4 ...... {NAME:04}
+
+[182.008]
+　1
+　2
+　3
+　4
+
+[182.009]
+{SAY}I already took the money.{WAIT}No refunds!{/SAY}
+
+[182.010]
+
+《{NAME:19} gained 10000 EXP!》
+
+[182.011]
+
+《{NAME:01} gained 10000 EXP!》
+
+[182.012]
+
+《{NAME:02} gained 10000 EXP!》
+
+[182.013]
+
+《{NAME:04} gained 10000 EXP!》
+

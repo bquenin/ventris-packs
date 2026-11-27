@@ -1,0 +1,8 @@
+[180.000]
+
+　　"North Hemisphere above"
+
+[180.002]
+
+　　"South Hemisphere below"
+

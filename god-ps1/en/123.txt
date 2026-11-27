@@ -1,0 +1,130 @@
+[123.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[123.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[123.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[123.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[123.005]
+　{SAY}This is Papa Island...{PAUSE:1E}{WAIT}But...{PAUSE:3C} um...{PAUSE:3C} well......................{PAUSE:3C}{WAIT}...Please ask Mama about it...{/SAY}
+
+[123.006]
+　{SAY}Ah!{PAUSE:32} That flower is Mama's favorite...{PAUSE:32} If you don't mind...{PAUSE:3C} could I have it...{/SAY}
+
+[123.007]
+　《Give the red flower?》
+
+
+[123.008]
+
+　《{NAME:19} gave the red flower!》
+
+[123.009]
+　{SAY}...{PAUSE:1E}Thank you...{PAUSE:28}{WAIT}As thanks, I'll tell you...{PAUSE:1E} something good...{WAIT}Upstream on the big river to the north, there's Osore Village...{WAIT}They say there's an old lady there with a strange power...{HOLD}...Well, thank you!{/SAY}
+
+[123.010]
+　{SAY}...{PAUSE:3C}What do I do...{/SAY}
+
+[123.011]
+　{SAY}I see...{WAIT}{PAUSE:28}But like this, I can't face Mama...{PAUSE:28}{WAIT}If only...{PAUSE:28} I could bring her a present or something...{/SAY}
+
+[123.012]
+　{SAY}The sea is nice, meow. A little southeast of here there's a place called Mama Island, meow.{/SAY}
+
+[123.013]
+　{SAY}Please come around to the front.{/SAY}
+
+[123.014]
+　{SAY}Oh, is that so... My daughter said that.{WAIT}If you don't mind, could you tell Papa something for me?{WAIT}That Mama isn't angry. Please.{/SAY}
+
+[123.015]
+　{SAY}Oh... thank you so much!{WAIT}Let me give you this as thanks.{/SAY}
+
+[123.016]
+　{SAY}I'll give you more when I make some.{/SAY}
+
+[123.017]
+　{SAY}Papa broke Mama's precious vase,{WAIT}and Mama got angry and threw Papa off this island...{WAIT}Hey, won't you help them make up?{/SAY}
+
+
+[123.018]
+　{SAY}Talk to Mama from behind the counter.{/SAY}
+
+[123.019]
+　{SAY}I see...{PAUSE:3C} It's no good after all...{/SAY}
+
+[123.020]
+　{SAY}Really?{PAUSE:14} Thank goodness.{WAIT}Mama gets angry easily,{PAUSE:08} but she's really kind.{WAIT}She loves red flowers.{/SAY}
+
+[123.021]
+　{SAY}Mama and Papa are slacking off work and making goo-goo eyes at each other. Honestly...{WAIT}Oh,{PAUSE:0A} it's 500G a night. Will you stay?{/SAY}
+
+
+[123.022]
+　{SAY}You don't have enough money!{/SAY}
+
+[123.023]
+　{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+
+[123.024]
+　{SAY}Come visit anytime!{/SAY}
+
+[123.025]
+　{SAY}Come visit anytime!{/SAY}
+
+[123.026]
+　{SAY}...{PAUSE:0F}Hi.{WAIT}{PAUSE:14}Oh, I swam here.{WAIT}{PAUSE:0A}With love, you can do anything!{/SAY}
+
+[123.027]
+　{SAY}I'm the only lady doctor on the island. What's wrong with you? Now, say "ahh"{/SAY}
+
+[123.028]
+　{SAY}Um... you don't have enough money.{/SAY}
+
+[123.029]
+　{SAY}Welcome!{WAIT}How about a Mama Island souvenir?{/SAY}
+
+[123.030]
+　{SAY}The aliens sank my ship, and I was the only one who survived. Ooh, it was so scary!{/SAY}
+
+[123.031]
+　{SAY}If you go north from here, there's a great big river,{WAIT}and if you go way, way up that river, there's a weeeird village.{WAIT}Ufufu~.{/SAY}
+
+[123.032]
+　{SAY}Welcome.{WAIT}{PAUSE:0A}This is the rest house "Resort Mama Island".{WAIT}It's 500G a night. Will you stay?{/SAY}
+
+
+[123.033]
+　{SAY}You don't have enough money!{/SAY}
+
+[123.034]
+{SAY}It's already the end of the year~ So fast~ So cold~{/SAY}
+
+[123.035]
+{SAY}Life is training.{WAIT}Form is emptiness, form is emptiness....{WAIT}..wine and women, wine and women...{WAIT}Ah! What am I saying!{/SAY}
+
+[123.036]
+{SAY}What's fun about doing stuff like that~ I don't get it at all~{/SAY}
+
+[123.037]
+{SAY}Has Musashi not come yet? Late late late late.. late, LATE, LAAATE!!{/SAY}
+
+[123.038]
+{SAY}They say there are three people in the world who look just like you...{WAIT}...Ah!!{/SAY}
+
+[123.039]
+{SAY}Someday I'll get off this island, whoaaaaaaa!{/SAY}
+
+[123.040]
+　{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+
+[123.041]
+　{SAY}Come again!{/SAY}
+

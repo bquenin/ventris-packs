@@ -1,0 +1,472 @@
+[115.000]
+{SAY}Oh dear, {NAME:17} is knocked out. It costs {NUM}G. Shall I revive them?{/SAY}
+
+[115.002]
+{SAY}Oh dear, {NAME:17} has turned into a monkey. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[115.003]
+{SAY}Oh dear, {NAME:17} is poisoned. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[115.004]
+{SAY}Oh dear, {NAME:17} is paralyzed. It costs {NUM}G. Shall I cure them?{/SAY}
+
+[115.005]
+Write in diary
+Read diary
+Quit
+
+[115.006]
+
+《You sense someone over by the sea...》
+
+[115.007]
+Owner
+{SAY}Sir {NAME:19}!{/SAY}
+
+[115.008]
+Owner
+{SAY}Now, now, no need to rush. Take your time.{/SAY}
+
+[115.011]
+Write in your diary?
+
+[115.012]
+Write in diary
+Read diary
+Sleep
+
+[115.013]
+Owner
+{SAY}A m-monster has kidnapped my daughter!{WAIT}Someone... please...! Help me!{/SAY}
+
+[115.014]
+Owner
+{SAY}Oh! It's you! The ones who saved my daughter!{WAIT}The shop will be fixed soon, so please wait a little.{/SAY}
+
+[115.015]
+Owner's Wife
+{SAY}Why our daughter... Oh! Please be safe...{/SAY}
+
+[115.016]
+Owner's Wife
+{SAY}Thank you so much.{HOLD}That our family of three is together again is all thanks to you.{WAIT}When the shop reopens, please come by.{/SAY}
+
+[115.017]
+{SAY}This is Mirage House.{WAIT}Also known as the Hotel Mirage!{WAIT}...But now's not the time for that...{/SAY}
+
+[115.018]
+{SAY}This is Mirage House.{WAIT}Also known as the Hotel Mirage!{WAIT}The restaurant where you can see the mirage is famous!{/SAY}
+
+[115.019]
+{SAY}This is Mirage House.{WAIT}Also known as the Hotel Mirage!{WAIT}The restaurant where you can see the mirage is famous!{/SAY}
+
+[115.020]
+Erika
+{SAY}Oh, everyone! Thank you so much for everything!{HOLD}The house will be new again soon, so when it is, you absolutely have to come visit!{WAIT}I'll cook you a feast with all my heart!{/SAY}
+
+[115.021]
+Front Desk
+{SAY}This is the Hotel Mirage.{WAIT}Because of the monster attack, the hotel can't be used, but there's a tent.{WAIT}It's 600G. Will you stay?{/SAY}
+
+[115.022]
+{SAY}You don't have enough money!{/SAY}
+
+[115.023]
+{SAY}Even the aliens must have been dazzled by the young lady's charm...{WAIT}...Ah!{PAUSE:1E} Could it be you're a rival too!?{/SAY}
+
+[115.024]
+{SAY}Then will you at least write in your diary?{/SAY}
+
+[115.025]
+{SAY}How terrible...{WAIT}Young lady...{/SAY}
+
+[115.026]
+Shinto Priest
+{SAY}I am the priest of Izumo Shrine, up ahead.{WAIT}A giant monster attacked, and I fled the shrine.{WAIT}The shrine is protected by a strange power, but with this charm you should be able to enter.{/SAY}
+
+[115.027]
+
+《Got the Izumo Charm!》
+
+[115.028]
+Shinto Priest
+{SAY}Izumo Shrine is southwest of here, in the desert.{/SAY}
+
+[115.029]
+Shinto Priest
+{SAY}Thank you so much. Now I can return to the shrine too.{HOLD}Truly, thank you!{/SAY}
+
+[115.030]
+{SAY}The monster carried off many women from around here. What on earth is it up to...{/SAY}
+
+[115.031]
+{SAY}The food here is the best! I wish they'd open soon~!{/SAY}
+
+[115.032]
+{SAY}A little while ago, something like a big dragon flew off toward Izumo Shrine in the west...{WAIT}Oh, Izumo Shrine is in the desert.{/SAY}
+
+[115.033]
+{SAY}I'm waiting to see the mirage, but I just can't seem to see it.{WAIT}I wonder if there's a trick to it...{/SAY}
+
+[115.034]
+{SAY}On a clear day you can see forever...{WAIT}The mirage is the scenery of a tomorrow not yet seen...{WAIT}Heh heh, don't you think I'm a poet?{/SAY}
+
+[115.035]
+{SAY}Whatever happens to the world, our love is forever.{PAUSE:1E} Mwah!{/SAY}
+
+[115.036]
+{SAY}This guy only ever says carefree things, so I'm thinking of breaking up.{WAIT}Love without money is a mirage.{/SAY}
+
+[115.037]
+{SAY}When someone's this deeply carefree, it's actually kind of moving.{HOLD}Lately I even catch myself thinking, "Oh well, whatever!"{/SAY}
+
+[115.038]
+　　　　Hotel Mirage
+　　　　　　　&
+　　　Restaurant Mirage
+
+[115.039]
+　"The Beach of Mirages"
+　If you're lucky, you too may see a mirage on this beach...
+
+[115.040]
+
+《There's a notice posted...》{WAIT}
+{CLEAR}
+"Preparing to open! Please wait a little longer."
+
+[115.041]
+{SAY}Good morning! How did you sleep in our luxury beds?{/SAY}
+
+[115.042]
+{NAME:01}
+{SAY}...What!?{/SAY}
+
+[115.043]
+{NAME:02}
+{SAY}An earthquake!?{/SAY}
+
+[115.044]
+{NAME:03}
+{SAY}I...{PAUSE:1E} I{PAUSE:1E} can't{PAUSE:0F} stand{PAUSE:0F} side-to-side{PAUSE:0F} shaking~!{/SAY}
+
+[115.045]
+{NAME:01}
+{SAY}...Did it stop?{/SAY}
+
+[115.046]
+Owner
+{SAY}Oh dear... We've been having a lot of earthquakes like this lately. It's a real worry.{HOLD}I hope nothing comes of it...{/SAY}
+
+[115.047]
+Erika
+{SAY}{NAME:03}, everyone, please take care.{WAIT}We look forward to your next visit.{/SAY}
+
+[115.048]
+{NAME:01}
+{SAY}{NAME:19}! Isn't that a call on the Croiset Notes!?{/SAY}
+
+[115.049]
+《Dr. Closet's voice came from the Croiset Notes...》{WAIT}
+{CLEAR}"{NAME:19}... {NAME:19}! Can you hear me?{WAIT}This is... Closet, of Neo-Kobe Bless.{WAIT}...If you can hear this, please come to Neo-Kobe Bless at once..."
+
+[115.050]
+{NAME:02}
+{SAY}I wonder if something happened...{/SAY}
+
+[115.051]
+{NAME:01}
+{SAY}No idea, but let's go anyway!{/SAY}
+
+[115.052]
+Front Desk
+{SAY}Welcome. Welcome to Mirage House!{WAIT}Um, do you have a reservation...? Oh, that invitation!{WAIT}I see, so you're {NAME:19}.{WAIT}The owner is waiting in the room on the left.{WAIT}...Before that, will you write in your diary?{/SAY}
+
+[115.053]
+{SAY}Please enjoy your stay!{/SAY}
+
+[115.054]
+Front Desk
+{SAY}Welcome. Welcome to Mirage House!{WAIT}We have lodging for guests on long stays.{WAIT}It's 600G a night. Please stay with us.{/SAY}
+
+[115.055]
+{SAY}Thank you very much. Then, upstairs, please!{/SAY}
+
+[115.056]
+{SAY}You don't have enough money!{/SAY}
+
+[115.057]
+{SAY}Upstairs, please! You've already paid.{/SAY}
+
+[115.058]
+Front Desk
+{SAY}Mumble mumble... ...your diary...{/SAY}
+
+[115.059]
+{SAY}Thank you... mumble.{/SAY}
+
+[115.060]
+{SAY}Then will you look at your diary on the quiet?{/SAY}
+
+[115.061]
+{SAY}Thank you very much. Come back anytime.{/SAY}
+
+[115.062]
+{SAY}How about a mirage souvenir?{/SAY}
+
+[115.063]
+{SAY}Come again!{/SAY}
+
+[115.064]
+{SAY}How about a mirage souvenir?{/SAY}
+
+[115.065]
+{SAY}Come again!{/SAY}
+
+[115.066]
+{SAY}Zzz... snore.{/SAY}
+
+[115.067]
+{SAY}Now that Lake Biwa's water is gone, you can get to Neo-Kobe quickly.{WAIT}Please head for Neo-Kobe right away!! The director is waiting!{/SAY}
+
+[115.068]
+{SAY}To get to Neo-Kobe, the quickest way is through where Lake Biwa used to be.{WAIT}A survey team is already on its way. Be careful as you go.{/SAY}
+
+[115.069]
+
+　"Restaurant Mirage"
+　　　　~Preparing to open~
+
+[115.070]
+
+　"Restaurant Mirage"
+　　　　~Now open~
+
+[115.071]
+
+　"Restaurant Mirage"
+　　　　~Now open~
+
+[115.072]
+{SAY}I'm a traveling doctor. Is anything wrong with you?{/SAY}
+
+[115.073]
+{SAY}You don't have enough money!{/SAY}
+
+[115.074]
+Owner
+{SAY}Come, keep bringing the dishes!{/SAY}
+
+[115.075]
+Owner
+{SAY}Now, please eat!{/SAY}
+
+[115.076]
+
+《{NAME:19} and company ate the meal...》
+
+[115.077]
+{NAME:01}
+{SAY}Delicious!!{/SAY}
+
+[115.078]
+{NAME:02}
+{SAY}It's wonderful!{/SAY}
+
+[115.079]
+{NAME:03}
+{SAY}Keep it coming!{/SAY}
+
+[115.080]
+
+《{NAME:19} and company's Love went up by 1!》
+
+[115.081]
+Owner
+{SAY}Wahaha!! Eat all you like!{/SAY}
+
+[115.086]
+
+《There's food. Eat it?》
+
+[115.087]
+
+《It was delicious! You feel very happy!》
+
+[115.088]
+Owner
+{SAY}Come, eat up! There's plenty more!{/SAY}
+
+[115.089]
+
+《It looks delicious...》
+
+[115.090]
+{NAME:01}
+{SAY}Delicious! Delicious! Deliciouuus!{/SAY}
+
+[115.091]
+{NAME:02}
+{SAY}Aren't you going to eat? It's really good.{/SAY}
+
+[115.092]
+{NAME:03}
+{SAY}{NAME:01}! Don't wolf it down.{WAIT}{PAUSE:3C}...Seconds, pleeease!!{/SAY}
+
+[115.093]
+Owner
+{SAY}How is it? The taste?{/SAY}
+
+[115.094]
+Erika
+{SAY}Everyone! Welcome!{WAIT}I'm getting the meal ready, so please wait a little.{WAIT}Oh! My father said he wants to thank you.{WAIT}I think he's in the room on the left of the first floor, so please drop in.{/SAY}
+
+[115.095]
+Erika
+{SAY}I helped make this food too. How is it?{/SAY}
+
+[115.096]
+Erika
+{SAY}Everyone... please take care. {NAME:03}, come visit again.{/SAY}
+
+[115.097]
+Erika
+{SAY}Everyone! How are you? Come visit again.{/SAY}
+
+[115.098]
+Erika
+{SAY}Oh! Have you been well?{WAIT}Please make yourselves at home!{WAIT}Say hi to {NAME:03} for me!{/SAY}
+
+[115.099]
+{SAY}Are you {NAME:19}?{WAIT}Thank you for saving the young lady!{WAIT}Please make yourself at home!{/SAY}
+
+[115.100]
+{SAY}Come on, eat up. After all, you saved the young lady.{/SAY}
+
+[115.101]
+{SAY}Thank you so much. Come back anytime.{/SAY}
+
+[115.102]
+{SAY}Come back anytime.{/SAY}
+
+[115.103]
+{SAY}Super busy, man!{/SAY}
+
+[115.104]
+{SAY}Whoa~! Seriously busy, man!!{/SAY}
+
+[115.105]
+{SAY}Whoa~! Earthquakes are scary, man!!{/SAY}
+
+[115.106]
+{SAY}Come back anytime, man!!{/SAY}
+
+[115.107]
+{SAY}They say Lake Biwa's water is going down.{WAIT}Does that have something to do with these earthquakes too?{/SAY}
+
+[115.108]
+{SAY}This is Mirage House. ...Not that the building is a mirage.{/SAY}
+
+[115.109]
+{SAY}There really are a lot of earthquakes lately.{WAIT}At this rate, before I see a mirage{PAUSE:1E}.{PAUSE:1E}.{PAUSE:1E}. Well, no use thinking the worst.{/SAY}
+
+[115.110]
+{SAY}Sometimes you can see a mirage over the northern sea at dawn.{WAIT}If you see it, you're lucky.{/SAY}
+
+[115.111]
+
+《It looks delicious...》
+
+[115.112]
+Owner's Wife
+{SAY}Zzz... mumble?{/SAY}
+
+[115.113]
+Owner
+{SAY}Oh! {NAME:19}, everyone, welcome.{WAIT}I'm grateful to you for saving my daughter.{WAIT}Come, a meal is ready in the restaurant.{WAIT}This way!{/SAY}
+
+[115.114]
+Owner
+{SAY}Snorrr...... Snorrr......{/SAY}
+
+[115.115]
+Owner
+{SAY}Thank you so much.{WAIT}Please come visit again.{/SAY}
+
+[115.116]
+Owner
+{SAY}The monster that kidnapped my daughter, the earthquakes lately...{WAIT}What on earth is going to happen...{/SAY}
+
+[115.117]
+Owner
+{SAY}Welcome.{WAIT}Please enjoy your stay!{/SAY}
+
+[115.118]
+
+《There's a bed. Stay the night?》
+
+[115.119]
+
+《{NAME:19} woke up in the middle of the night》
+
+[115.120]
+
+《{NAME:02} isn't here...》
+
+[115.121]
+{NAME:01}
+{SAY}Uuugh... so... full......{/SAY}
+
+[115.122]
+{NAME:03}
+{SAY}Oh, {NAME:19}. {NAME:01} ate way too much!{WAIT}Huh? {NAME:02}? Now that you mention it, she went out alone a while ago...{/SAY}
+
+[115.123]
+{NAME:03}
+{SAY}I told you not to wolf it down!!{WAIT}Honestly...{/SAY}
+
+[115.124]
+{NAME:02}
+{SAY}Oh... {NAME:19}...{WAIT}I couldn't sleep...{PAUSE:1E} and I had a bad feeling...{/SAY}
+
+[115.125]
+{NAME:02}
+{SAY}...Somehow, an unbelievably terrible fate is waiting for us...{WAIT}That's the image that comes to me...{/SAY}
+
+[115.126]
+{NAME:02}
+{SAY}...Say, do you think we'll be okay if we keep traveling like this?{/SAY}
+
+[115.127]
+{SAY}That's right... We have {NAME:19}, and {NAME:01}, and {NAME:03}...{/SAY}
+
+[115.128]
+{SAY}...I'm sorry for being so weak.{WAIT}You're right. All we can do now is keep traveling...{/SAY}
+
+[115.129]
+{SAY}...But where should we head now...{/SAY}
+
+[115.130]
+{NAME:19}
+{SAY}!{/SAY}
+
+[115.131]
+{NAME:02}
+{SAY}! ...We have to cross the sea...{/SAY}
+
+[115.132]
+{NAME:19}
+{SAY}......?{/SAY}
+
+[115.133]
+{NAME:02}
+{SAY}Far away... We have to cross over to the continent...{/SAY}
+
+[115.134]
+{NAME:19}
+{SAY}..........{/SAY}
+
+[115.135]
+{NAME:02}
+{SAY}...Come on, we should get back or everyone will worry......{/SAY}
+
