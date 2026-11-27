@@ -62,7 +62,7 @@ I see...
 This is your first time, isn't it? Then let me explain the rules quickly.{0D}{0A}First, you look for the quizmasters who ask questions in each town.{0D}{0A}Answer a question correctly and you win prize money in that town.{0D}{0A}But careful: you only get one chance to answer in each town.{0D}{0A}And now, the first question of the "Tokaido Fifty-Three Stations Ultro Quiz"!{0D}{0A}The Edicts on Compassion for Living Things laid down by Tokugawa Tsunayoshi were laws to protect what?
 
 [npc_town1_n3.4882]
-Animals
+Dogs
 
 [npc_town1_n3.4914]
 Food

@@ -23,7 +23,7 @@ The House of Plasma is now closed, plasma. See you again, plasma.
 This is the House of Plasma Fortunes, plasma.
 
 [purazuma.1056]
-If you want your fortune told, pay 50 ryo, plasma!
+Pay 50 ryo for a fortune, plasma!
 
 [purazuma.1170]
 Yes

@@ -38,8 +38,14 @@ translator needs to carry on in the same way.
   Wrong answer!!`, `Got 50 ryo in prize money!`) are word for word the same in every town.
 - **Choices** (Yes/No, the quiz's answers, the shops' options) are drawn where the script puts them, at a
   fixed point (x 64 to 160), and are not wrapped; the box ends at x 208. A choice of n letters from x
-  must end there: x + 8n <= 208. Checked from the scripts for every choice; only the last quiz's
-  answers needed shortening, to "Basho" and "Hiroshige".
+  must end there: x + 8n <= 208. Two answers side by side on one line must not meet: the first ends
+  a cell before the second starts (the first quiz's answers start 48 dots apart, so "Dogs", not
+  "Animals"). A Yes/No drawn in the box with its question takes the box's third line, so the
+  question's last box holds two lines at most ("You have armor on. Is that all right?"). A question
+  that follows a number the game prints, such as the inn's price, starts its line after that number:
+  " ryo.
+Is that all right?" breaks by hand so that it does not run into the answers. A small script
+  of the author's checks every menu in the scripts against these rules.
 - **Windows**: only the scenes set a window of their own (the two dialogue boxes beside a face, 160
   dots wide); the towns, shops and guide bubbles use the default box, the same width.
 - **The storyteller** (`stage_demo`) narrates in a showman's rhythm, short lines that rhyme or nearly so in
@@ -237,6 +243,14 @@ Builds were run from power-on in DeSmuME (ventris's `ds-probe`):
   fit their box, break at spaces and draw every letter. What they showed: the blinking prompt covered
   the last two cells of a third line of 19 or 20 letters (`demo_a1_n2.2368`, `demo_a1_n6.1842`); the
   adapter now keeps the third line of each box to 18 cells, and the trial was seen built that way.
-- Not yet: Kannon Hall and everything after it, the town by day with its shops, the quiz and the
-  townspeople (at night, after the trial, they are not out), the other areas, and Fukurokuju's
-  emoticons, whose ASCII parts are drawn from Unifont.
+- Kannon Hall and its boss, played (no text but Suzu's "Take care.").
+- Through a test image that opens the game's leftover developer menu and runs a chosen script piece
+  (made only to look, never shipped): the shop of area 1 (the inn with its rooms and price, the soba
+  shop, the general store), the first quiz (rules, question, answers, right and wrong), Plasma, the
+  porters' save, townspeople of towns 2, 4, 5 and 7, the guide bubbles `gim_help_pcmn_r00` and
+  `gim_help_p30400_o00`, and the scenes `demo_a1_n2`, `demo_a3_n6`, `demo_a4_n11`, `demo_a5_n6` (its
+  first twenty boxes), `demo_a6_n2`, a variant of `demo_a7_n9`, the start of `demo_a6_n10` (the
+  meditation branch) and all of `demo_goe12`. Three things did not fit, all around choices, and are
+  fixed as the rules above say.
+- Not yet: Fukurokuju's emoticon talk (it needs a story flag), `demo_a7_n14`, `demo_a8_n4`, the
+  ending, the training halls, and most of the towns' people.

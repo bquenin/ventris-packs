@@ -113,7 +113,8 @@ Bamboo Room
 Pine Room
 
 [shop_area1.5536]
- ryo. Is that all right?
+ ryo.
+Is that all right?
 
 [shop_area1.5602]
 Yes
@@ -143,7 +144,7 @@ Thank you very much.
  ryo, thank you.
 
 [shop_area1.6930]
-You already have armor. Is that all right?
+You have armor on. Is that all right?
 
 [shop_area1.7014]
 Yes
