@@ -68,48 +68,48 @@ Sleep
 {SAY}Oh! It's you!{WAIT}Bless HQ moved to the UN Building.{WAIT}Everyone's waiting there!{/SAY}
 
 [154.025]
-"WANTED!{WAIT}Name: {NAME:19}  Sex: M
-Crime: Mass murder of aliens
-Reward: 1000000G"{HOLD}{CLEAR}"A villain who kills aliens at will.{WAIT}If seen, report to Bless HQ at once.
+"WANTED!{WAIT}{NAME:19}, male
+Mass murder of aliens
+1000000G"{HOLD}{CLEAR}"Kills aliens at will.{WAIT}Report to Bless HQ at once.
 
 [154.026]
 　President M.K. Washington"
 
 [154.027]
-"WANTED!{WAIT}Name: {NAME:19}  Sex: M"{HOLD}{CLEAR}"The hero who saved New York.{WAIT}If seen, please thank him.{HOLD}　President M.K. Washington"
+"WANTED!{WAIT}{NAME:19}, male"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank him.{HOLD}　President M.K. Washington"
 
 [154.028]
-"WANTED!{WAIT}Name: {NAME:04}  Sex: M
-Crime: Inciting the public
-Reward: 1000000G"{HOLD}{CLEAR}"A villain who stirs up trouble and disturbs the peace.{WAIT}If seen, report to Bless HQ at once.
+"WANTED!{WAIT}{NAME:04}, male
+Inciting the public
+1000000G"{HOLD}{CLEAR}"Disturbs the peace.{WAIT}Report to Bless HQ at once.
 
 [154.029]
 　President M.K. Washington"
 
 [154.030]
-"WANTED!{WAIT}Name: {NAME:04}  Sex: M"{HOLD}{CLEAR}"The hero who saved New York.{WAIT}If seen, please thank him.{HOLD}　President M.K. Washington"
+"WANTED!{WAIT}{NAME:04}, male"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank him.{HOLD}　President M.K. Washington"
 
 [154.031]
-"WANTED!{WAIT}Name: {NAME:01}  Sex: M
-Crime: Desertion, terrorism
-Reward: 1000000G"{HOLD}{CLEAR}"A villain who deserted Bless and turned terrorist.{HOLD}If seen, report to Bless HQ at once.
+"WANTED!{WAIT}{NAME:01}, male
+Desertion, terrorism
+1000000G"{HOLD}{CLEAR}"Deserted Bless, now a terrorist.{HOLD}Report to Bless HQ at once.
 
 [154.032]
 　President M.K. Washington"
 
 [154.033]
-"WANTED!{WAIT}Name: {NAME:01}  Sex: M"{HOLD}{CLEAR}"The hero who saved New York.{WAIT}If seen, please thank him.{HOLD}　President M.K. Washington"
+"WANTED!{WAIT}{NAME:01}, male"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank him.{HOLD}　President M.K. Washington"
 
 [154.034]
-"WANTED!{WAIT}Name: {NAME:02}  Sex: F
-Crime: Illegal healing, fraud
-Reward: 1000000G"{HOLD}{CLEAR}"A villain who posed as a psychic and swindled the poor.{WAIT}If seen, report to Bless HQ at once.
+"WANTED!{WAIT}{NAME:02}, female
+Illegal healing, fraud
+1000000G"{HOLD}{CLEAR}"Fake psychic who swindled the poor.{WAIT}Report to Bless HQ at once.
 
 [154.035]
 　President M.K. Washington"
 
 [154.036]
-"WANTED!{WAIT}Name: {NAME:02}  Sex: F"{HOLD}{CLEAR}"The hero who saved New York.{WAIT}If seen, please thank her.{HOLD}　President M.K. Washington"
+"WANTED!{WAIT}{NAME:02}, female"{HOLD}{CLEAR}"Saved New York.{WAIT}Please thank her.{HOLD}　President M.K. Washington"
 
 [154.037]
 
@@ -164,7 +164,7 @@ Reward: 1000000G"{HOLD}{CLEAR}"A villain who posed as a psychic and swindled the
 　　Smash them to bits!!"
 
 [154.049]
-{SAY}New immigrants are coming to this land.{WAIT}Will we be treated like the natives once were?{WAIT}{PAUSE:1E}...I guess that's this land's history.{/SAY}
+{SAY}New immigrants are coming.{WAIT}Will we be treated like the natives were?{WAIT}{PAUSE:1E}...That's this land's history.{/SAY}
 
 [154.050]
 {SAY}...That's right.{WAIT}That's this land's history.{/SAY}
@@ -173,7 +173,7 @@ Reward: 1000000G"{HOLD}{CLEAR}"A villain who posed as a psychic and swindled the
 {SAY}What will happen to this land now...{/SAY}
 
 [154.052]
-{SAY}New immigrants are coming to this land.{WAIT}Will we be treated like the natives once were?{WAIT}{PAUSE:1E}...I guess that's this land's history.{/SAY}
+{SAY}New immigrants are coming.{WAIT}Will we be treated like the natives were?{WAIT}{PAUSE:1E}...That's this land's history.{/SAY}
 
 [154.053]
 {SAY}...That's right.{WAIT}That's this land's history.{/SAY}
@@ -182,7 +182,7 @@ Reward: 1000000G"{HOLD}{CLEAR}"A villain who posed as a psychic and swindled the
 {SAY}What will happen to this land now...{/SAY}
 
 [154.055]
-{SAY}This is New York!{WAIT}Cultures and races from all over gather here.{WAIT}So we'll get along with aliens too!{/SAY}
+{SAY}This is New York!{WAIT}Every culture gathers here.{WAIT}We'll get along with aliens too!{/SAY}
 
 [154.056]
 {SAY}This is New York!{WAIT}...It'll be great again!{/SAY}
@@ -329,7 +329,7 @@ Linda
 {SAY}Eek, help~{/SAY}
 
 [154.103]
-{SAY}You can get out here, but America's monsters are tough, so watch it!{WAIT}Once the treaty's signed, no worries!{/SAY}
+{SAY}This is the way out, but America's monsters are tough!{WAIT}After the treaty, no worries!{/SAY}
 
 [154.104]
 {SAY}Damn aliens! Look what they did to my town!{/SAY}
@@ -386,7 +386,7 @@ Linda
 {SAY}Just a fleeting dream after all...{/SAY}
 
 [154.122]
-{SAY}Peace is like a dream.{WAIT}Only on waking do you know you dreamed.{WAIT}Only when peace is gone do you know it was peace...{/SAY}
+{SAY}Peace is like a dream.{WAIT}You only know it once you wake.{/SAY}
 
 [154.123]
 {SAY}Know what? The Bless Deputy got arrested!{WAIT}For defying the Director!{/SAY}
@@ -493,10 +493,10 @@ Priest
 {SAY}The Deputy never defied the Director.{WAIT}He just voiced an opinion on the treaty.{WAIT}And now this...{/SAY}
 
 [154.157]
-{SAY}Deputy McCartney feared America was rushing,{WAIT}and went to advise Director Lennon at the UN Building.{WAIT}He never came back...{WAIT}And this Bless building is half sealed off.{WAIT}I don't know what to think...{/SAY}
+{SAY}Deputy McCartney feared we were rushing{WAIT}and went to advise Director Lennon at the UN Building.{WAIT}He never came back...{WAIT}And this building is half sealed off.{/SAY}
 
 [154.158]
-{SAY}The Deputy and the doctor are safe!{HOLD}Captain Linda must be relieved.{WAIT}Why? She's the Deputy's only daughter. Didn't you know?{/SAY}
+{SAY}The Deputy and the doctor are safe!{HOLD}Captain Linda must be relieved.{WAIT}She's the Deputy's only daughter, you know.{/SAY}
 
 [154.159]
 {SAY}Most members were arrested with the Deputy.{WAIT}We can't do much openly...{/SAY}
@@ -681,7 +681,7 @@ Dr. Orangeoiset
 
 [154.209]
 Dr. Orangeoiset
-{SAY}The ancient ship was clearly a vehicle of the aliens... no, the ancients.{WAIT}They say the ancients traveled the world freely with super-science.{WAIT}The ancient ship must have such a system!{/SAY}
+{SAY}The ancient ship was surely the ancients' vehicle.{WAIT}They traveled the world with super-science.{WAIT}The ship must have such a system!{/SAY}
 
 [154.210]
 Dr. Orangeoiset
@@ -693,7 +693,7 @@ Dr. Orangeoiset
 
 [154.212]
 Deputy McCartney
-{SAY}A flight stone...{WAIT}Can we really beat foes with such super-science...{WAIT}Ah, no, sorry.{WAIT}That's why we're all fighting.{/SAY}
+{SAY}A flight stone...{WAIT}Can we beat such super-science...{WAIT}No, sorry. That's why we fight.{/SAY}
 
 [154.213]
 {NAME:01}
@@ -717,7 +717,7 @@ Deputy McCartney
 
 [154.218]
 {NAME:04}
-{SAY}Indeed.{WAIT}Without her, this operation might have failed.{WAIT}Isn't it time to let her stand on her own?{/SAY}
+{SAY}Indeed.{WAIT}Without her, this mission might have failed.{WAIT}Let her stand on her own.{/SAY}
 
 [154.219]
 Deputy McCartney
@@ -773,15 +773,15 @@ Dr. Orangeoiset
 
 [154.232]
 Dr. Orangeoiset
-{SAY}I'm studying ancient civilizations, but don't know much yet.{HOLD}The Nazca Plain, Ararat Temple and Easter Island haven't been surveyed.{WAIT}Careful. Come back again.{/SAY}
+{SAY}I'm studying ancient civilizations.{HOLD}Nazca, Ararat Temple and Easter Island are still unexplored.{WAIT}Careful. Come back.{/SAY}
 
 [154.233]
 Dr. Orangeoiset
-{SAY}What! Lemuria!?{WAIT}Hmm... unbelievable.{WAIT}So the legend was true...{WAIT}Lemuria is said to have lain in the sea between India and Australia.{WAIT}Why not search there?{/SAY}
+{SAY}What! Lemuria!?{WAIT}So the legend was true...{WAIT}It's said to have lain between India and Australia.{WAIT}Search there.{/SAY}
 
 [154.234]
 Dr. Orangeoiset
-{SAY}What!? Lemuria was real!{WAIT}Unbelievable. Utterly.{WAIT}What? The Ararat Key...{WAIT}Oh, could that be Ararat Temple, north of Kasbah Village?{WAIT}I'll await your report.{WAIT}Careful.{/SAY}
+{SAY}What!? Lemuria was real!{WAIT}Unbelievable.{WAIT}The Ararat Key... could that be Ararat Temple, north of Kasbah?{WAIT}I await your report.{/SAY}
 
 [154.235]
 Dr. Orangeoiset
@@ -793,7 +793,7 @@ Dr. Orangeoiset
 
 [154.237]
 Dr. Orangeoiset
-{SAY}Oh! {NAME:19}!{WAIT}You got the Stone of Truth!{WAIT}I looked into it too.{WAIT}The sacred bird in Ararat's legend must be the Nazca Lines in South America.{WAIT}A clue to the aliens' base must be hidden there!{WAIT}...Careful.{/SAY}
+{SAY}Oh! {NAME:19}!{WAIT}You got the Stone of Truth!{WAIT}The sacred bird in Ararat's legend must be the Nazca Lines.{WAIT}A clue to the aliens' base must be there!{WAIT}...Careful.{/SAY}
 
 [154.238]
 Linda
@@ -818,7 +818,7 @@ Linda
 
 [154.244]
 Dr. Orangeoiset
-{SAY}Don't be surprised. The name's no joke.{WAIT}A nice name my mama gave me.{HOLD}I knew of you from secret reports sent by Bless worldwide.{/SAY}
+{SAY}Don't laugh. The name's real.{WAIT}My mama gave it to me.{HOLD}I know you from secret Bless reports.{/SAY}
 
 [154.245]
 {NAME:01}
@@ -834,7 +834,7 @@ Linda
 
 [154.248]
 Dr. Orangeoiset
-{SAY}We don't oppose the treaty without reason.{WAIT}If true peace came, we'd gladly sign.{WAIT}But this treaty has too many doubts!{WAIT}Given how the aliens have acted, we can't simply trust it...{/SAY}
+{SAY}We don't oppose the treaty for nothing.{WAIT}If true peace came, we'd sign.{WAIT}But it's too suspicious!{WAIT}Given the aliens' record, we can't trust it...{/SAY}
 
 [154.249]
 Linda
@@ -842,7 +842,7 @@ Linda
 
 [154.250]
 Dr. Orangeoiset
-{SAY}We must see Director Lennon before the ceremony!{WAIT}...But we have no way now...{WAIT}And anything too bold could get us arrested too...{WAIT}If only there were a way...{/SAY}
+{SAY}We must see Director Lennon before the ceremony!{WAIT}...But we have no way...{WAIT}And anything bold could get us arrested...{/SAY}
 
 [154.251]
 {NAME:02}
@@ -866,7 +866,7 @@ Dr. Orangeoiset
 
 [154.256]
 Dr. Orangeoiset
-{SAY}Thank you.{WAIT}...Oh, sorry, you're tired from the trip.{WAIT}Rest for today. We'll think tomorrow.{WAIT}Beds are ready. Linda will show you.{/SAY}
+{SAY}Thank you.{WAIT}...You must be tired.{WAIT}Rest today. We'll think tomorrow.{WAIT}Linda will show you to your beds.{/SAY}
 
 [154.257]
 Linda
@@ -1124,10 +1124,10 @@ Guard
 {SAY}We're on our honeymoon! So, one bed!{/SAY}
 
 [154.356]
-{SAY}I came because the Angel Theater out west wants actresses...{WAIT}but it's way too far...{WAIT}Darn! My big chance!{/SAY}
+{SAY}I came because the Angel Theater out west wants actresses...{WAIT}but it's too far...{WAIT}Darn!{/SAY}
 
 [154.357]
-{SAY}I came because the alien envoy's supposedly cool...{WAIT}but only the Director's guests can join the parade...{WAIT}Darn! My big chance!{/SAY}
+{SAY}I came because the alien envoy's cool...{WAIT}but only guests can join the parade...{WAIT}Darn!{/SAY}
 
 [154.358]
 {SAY}Grrr! What!{WAIT}Lying aliens!{WAIT}I always get fooled!{/SAY}
@@ -1191,7 +1191,7 @@ Batty
 {SAY}I said don't peek!{/SAY}
 
 [154.379]
-"Listen to this cheering!{WAIT}From the giant UFO now appear President M.K. Washington,{WAIT}NY Bless Director J. Lennon,{WAIT}and from the aliens, the goodwill envoy, Lord Michael!"
+"Hear the cheering!{WAIT}From the giant UFO come President M.K. Washington,{WAIT}NY Bless Director J. Lennon,{WAIT}and the alien envoy, Lord Michael!"
 
 [154.380]
 {NAME:01}
@@ -1217,7 +1217,7 @@ Batty
 {SAY}Long live the treaty!{/SAY}{PAUSE:1E}
 
 [154.387]
-"Now the treaty ceremony begins in the UN Building.{WAIT}The sad history of humans and aliens ends, and a new age begins!{WAIT}Oh! How wonderful!{WAIT}Long live humanity! Long live the aliens!"{HOLD}
+"Now the treaty is signed in the UN Building.{WAIT}The sad history ends, and a new age begins!{WAIT}How wonderful!{WAIT}Long live humanity! Long live the aliens!"{HOLD}
 
 [154.388]
 {NAME:01}
