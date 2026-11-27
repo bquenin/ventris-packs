@@ -104,10 +104,10 @@ I look forward to the day we meet again.
 Congratulations! This is the final checkpoint at last.{0D}{0A}Here we go. The final question!{0D}{0A}Which of these was active in the time of Genroku culture?
 
 [npc_town7_n5.5762]
-Matsuo Basho
+Basho
 
 [npc_town7_n5.5804]
-Utagawa Hiroshige
+Hiroshige
 
 [npc_town7_n5.5860]
 Correct!!{0D}{0A}Congratulations! And with that, the Tokaido Fifty-Three Stations Ultro Quiz{0D}{0A}is over, every question. Until we meet again someday!

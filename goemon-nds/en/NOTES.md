@@ -36,6 +36,12 @@ translator needs to carry on in the same way.
   were written from small tables by a script of the author's, like the shops.
 - **Quizzes**: the Tokaido quiz's fixed lines (`Oh? Are you a quiz contestant?`, `Correct!!`, `Too bad!!
   Wrong answer!!`, `Got 50 ryo in prize money!`) are word for word the same in every town.
+- **Choices** (Yes/No, the quiz's answers, the shops' options) are drawn where the script puts them, at a
+  fixed point (x 64 to 160), and are not wrapped; the box ends at x 208. A choice of n letters from x
+  must end there: x + 8n <= 208. Checked from the scripts for every choice; only the last quiz's
+  answers needed shortening, to "Basho" and "Hiroshige".
+- **Windows**: only the scenes set a window of their own (the two dialogue boxes beside a face, 160
+  dots wide); the towns, shops and guide bubbles use the default box, the same width.
 - **The storyteller** (`stage_demo`) narrates in a showman's rhythm, short lines that rhyme or nearly so in
   Japanese. The English keeps a storyteller's voice and short lines; the pack turns on the build option
   `horizontal-storyteller`, which writes those pages across, 12 letters a line, left page first.
@@ -220,6 +226,17 @@ Builds were run from power-on in DeSmuME (ventris's `ds-probe`):
 - The start of the trial (`demo_a1_n0`): the magistrate's entrance and his first speeches, wrapped to
   the box, with a fourth line going on in a cleared box. The name plates beside the faces are pictures,
   and stay in Japanese.
-- Not yet: the rest of the game with this pack's text, the shops, the towns, the quiz, the guide
-  bubbles (whose window may be narrower than the dialogue box), and Fukurokuju's emoticons, whose
-  ASCII parts are drawn from Unifont.
+- A guide bubble (`gim_help_pcmn_r00.380`, at the rope in the underground passage after the trial):
+  drawn in the top screen's box, wrapped to it, each blank line starting a new box as in the Japanese.
+- Area 1, played on from the trial: the underground passage and the soy sauce shop's cellar, with their
+  guide bubbles (`gim_help_syouyuya.360`, `.756`, `.928`, `gim_help_p10400_o00`, `gim_help_p10502_o00`);
+  Yae's scene in town (`demo_a1_n2`), Omitsu's (`demo_a1_n4`, every string), Suzu's (`demo_a1_n5`, every
+  string) and the head priest's (`demo_a1_n6`, every string); Omitsu at the teahouse (`npc_cha1_n0.0822`),
+  Tokutaro (`npc_town1_n0`), the boatmen with their Yes/No (`npc_town1_n1.2792`, `.2958`,
+  `npc_horohoro1_n0.1072`, `.1232`); the save prompt, "Saved." and "Return to the title screen?". All
+  fit their box, break at spaces and draw every letter. What they showed: the blinking prompt covered
+  the last two cells of a third line of 19 or 20 letters (`demo_a1_n2.2368`, `demo_a1_n6.1842`); the
+  adapter now keeps the third line of each box to 18 cells, and the trial was seen built that way.
+- Not yet: Kannon Hall and everything after it, the town by day with its shops, the quiz and the
+  townspeople (at night, after the trial, they are not out), the other areas, and Fukurokuju's
+  emoticons, whose ASCII parts are drawn from Unifont.
